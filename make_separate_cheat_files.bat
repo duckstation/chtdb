@@ -1,0 +1,1 @@
+python chtdb.py export chtdb.txt cheats
