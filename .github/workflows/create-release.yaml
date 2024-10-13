@@ -1,0 +1,41 @@
+on:
+  push:
+    branches:
+      - master
+  workflow_dispatch:
+
+jobs:
+  create-release:
+    name: Create Release
+    if: github.ref == 'refs/heads/master'
+    runs-on: ubuntu-22.04
+    steps:
+    - uses: actions/checkout@v4.1.6
+      with:
+        fetch-depth: 0
+
+    - name: Create cheats archive
+      shell: bash
+      run: |
+        cd cheats
+        zip -r ../cheats.zip .
+        cd ..
+
+    - name: Create patches archive
+      shell: bash
+      run: |
+        cd patches
+        zip -r ../patches.zip .
+        cd ..
+
+    - name: Create/update release
+      uses: "marvinpinto/action-automatic-releases@latest"
+      with:
+        repo_token: "${{ secrets.GITHUB_TOKEN }}"
+        automatic_release_tag: "latest"
+        prerelease: false
+        title: "Latest Release"
+        files: |
+          cheats.zip
+          patches.zip
+  
