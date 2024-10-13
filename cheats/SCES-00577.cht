@@ -111,9 +111,9 @@ Activation = EndFrame
 [All Weapons\Voldo]
 Type = Gameshark
 Activation = EndFrame
-800E9B4E 00FF
-800EA39E 00FF
-800EA3B2 00FF
+800E9B44 00FF
+800EA394 00FF
+800EA3A8 00FF
 
 [All Weapons\Sophitia]
 Type = Gameshark
@@ -142,6 +142,13 @@ Activation = EndFrame
 800E9B4C 00FF
 800EA39C 00FF
 800EA3B0 00FF
+
+[All Weapons\Voldo (Alt)]
+Type = Gameshark
+Activation = EndFrame
+800E9B4E 00FF
+800EA39E 00FF
+800EA3B2 00FF
 
 [All Weapons\All Characters]
 Type = Gameshark

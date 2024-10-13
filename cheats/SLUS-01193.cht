@@ -318,7 +318,7 @@ Activation = EndFrame
 [Have Important Item\Message-3]
 Type = Gameshark
 Activation = EndFrame
-3005F5FA 0001
+3005F5EE 0001
 
 [Have Important Item\X-Mechpart]
 Type = Gameshark
@@ -344,6 +344,11 @@ Activation = EndFrame
 Type = Gameshark
 Activation = EndFrame
 3005F5F8 0001
+
+[Have Important Item\Message-3 (Alt)]
+Type = Gameshark
+Activation = EndFrame
+3005F5FA 0001
 
 [Have Important Item\Electroder]
 Type = Gameshark

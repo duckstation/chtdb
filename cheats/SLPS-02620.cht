@@ -16,7 +16,7 @@ D008F97E 2442
 [Invincibility]
 Type = Gameshark
 Activation = EndFrame
-800AB7A6 1200
+80062C26 005A
 
 [Infinite Time Strider 1 Alt]
 Type = Gameshark
@@ -54,6 +54,11 @@ Activation = EndFrame
 Type = Gameshark
 Activation = EndFrame
 300ABABF 0001
+
+[Invincibility (Alt)]
+Type = Gameshark
+Activation = EndFrame
+800AB7A6 1200
 
 [It does not decrease TIME]
 Type = Gameshark

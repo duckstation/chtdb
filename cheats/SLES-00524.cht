@@ -213,7 +213,7 @@ Activation = EndFrame
 [Inventory\Have Alucard Shield]
 Type = Gameshark
 Activation = EndFrame
-30097A41 00FF
+300979AA 00FF
 
 [Inventory\Have Sword Of Dawn]
 Type = Gameshark
@@ -748,7 +748,7 @@ Activation = EndFrame
 [Inventory\Have Alucard Sword]
 Type = Gameshark
 Activation = EndFrame
-30097A42 00FF
+30097A15 00FF
 
 [Inventory\Have Mablune Sword]
 Type = Gameshark
@@ -959,6 +959,16 @@ Activation = EndFrame
 Type = Gameshark
 Activation = EndFrame
 30097A40 00FF
+
+[Inventory\Have Alucard Shield (Alt)]
+Type = Gameshark
+Activation = EndFrame
+30097A41 00FF
+
+[Inventory\Have Alucard Sword (Alt)]
+Type = Gameshark
+Activation = EndFrame
+30097A42 00FF
 
 [Inventory\Have Cloth Cape]
 Type = Gameshark

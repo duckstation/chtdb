@@ -13,7 +13,7 @@ Activation = EndFrame
 [Infinite Pulse-Laser]
 Type = Gameshark
 Activation = EndFrame
-8009A5E0 03E7
+8009A5E4 03E7
 
 [Infinite Gun-Ammo]
 Type = Gameshark
@@ -29,6 +29,11 @@ Activation = EndFrame
 Type = Gameshark
 Activation = EndFrame
 8009A5E6 03E7
+
+[Infinite Pulse-Laser (Alt)]
+Type = Gameshark
+Activation = EndFrame
+8009A5E0 03E7
 
 [Infinite Smart Gun]
 Type = Gameshark

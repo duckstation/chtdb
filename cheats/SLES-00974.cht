@@ -44,16 +44,16 @@ D00C5504 0012
 [Raketenwerfer R2 + X]
 Type = Gameshark
 Activation = EndFrame
-D00C54A4 0042
-800CBB98 FF11
+D00C5504 0042
+800CBC00 FF11
 
 [Durch WäNde Gehen L1 aktivieren/L2 deaktivieren]
 Type = Gameshark
 Activation = EndFrame
-D00C54A4 0004
-800C6E5A 0C0F
-D00C54A4 0001
-800C6E5A 1500
+D00C5504 0004
+800C6EC2 0C0F
+D00C5504 0001
+800C6EC2 1500
 
 [Kisteninhalt\Handfeuerwaffe]
 Type = Gameshark
@@ -83,12 +83,12 @@ Activation = EndFrame
 [Kisteninhalt\Colt S.A.A.]
 Type = Gameshark
 Activation = EndFrame
-800CBBD4 FF0D
+800CBC40 FF0D
 
 [Kisteninhalt\Mg]
 Type = Gameshark
 Activation = EndFrame
-800CBBDC FF0F
+800CBC44 FF0F
 
 [Kisteninhalt\Flammenwerfer]
 Type = Gameshark
@@ -98,7 +98,7 @@ Activation = EndFrame
 [Kisteninhalt\Raketenwerfer]
 Type = Gameshark
 Activation = EndFrame
-800CBBE0 FF11
+800CBC4C FF11
 
 [Kisteninhalt\Gatling-Gun]
 Type = Gameshark
@@ -108,7 +108,7 @@ Activation = EndFrame
 [Kisteninhalt\HauptschlüSsel]
 Type = Gameshark
 Activation = EndFrame
-800CBC78 0162
+800CBCD8 0162
 
 [Kisteninhalt\Labor-SchlüSsel]
 Type = Gameshark
@@ -118,47 +118,47 @@ Activation = EndFrame
 [Kisteninhalt\Dietrich]
 Type = Gameshark
 Activation = EndFrame
-800CBC80 0130
+800CBCE0 0130
 
 [Kisteninhalt\RevierschlüSsel]
 Type = Gameshark
 Activation = EndFrame
-800CBC84 0159
+800CBCE4 0159
 
 [Kisteninhalt\KabinenschlüSsel]
 Type = Gameshark
 Activation = EndFrame
-800CBC88 0158
+800CBCE8 0158
 
 [Kisteninhalt\SonderschlüSsel]
 Type = Gameshark
 Activation = EndFrame
-800CBC8C 0153
+800CBCEC 0153
 
 [Kisteninhalt\G-Virus]
 Type = Gameshark
 Activation = EndFrame
-800CBC90 0152
+800CBCF0 0152
 
 [Kisteninhalt\Wolfmedaille]
 Type = Gameshark
 Activation = EndFrame
-800CBC94 0149
+800CBCF4 0149
 
 [Kisteninhalt\Adlermedaille]
 Type = Gameshark
 Activation = EndFrame
-800CBC98 0148
+800CBCF8 0148
 
 [Kisteninhalt\Einhornmedaille]
 Type = Gameshark
 Activation = EndFrame
-800CBC9C 0147
+800CBCFC 0147
 
 [Kisteninhalt\Roter Edelstein]
 Type = Gameshark
 Activation = EndFrame
-800CBCB8 0133
+800CBD00 0133
 
 [Kisteninhalt\KöNigsstecker]
 Type = Gameshark
@@ -183,27 +183,27 @@ Activation = EndFrame
 [Kisteninhalt\Armbrustbolzen]
 Type = Gameshark
 Activation = EndFrame
-800CBCB0 041D
+800CBD14 041D
 
 [Kisteninhalt\Kabel]
 Type = Gameshark
 Activation = EndFrame
-800CBCB4 0156
+800CBD18 0156
 
 [Kisteninhalt\PlattformschlüSsel]
 Type = Gameshark
 Activation = EndFrame
-800CBC74 0163
+800CBD20 0163
 
 [Kisteninhalt\SchlüSsel]
 Type = Gameshark
 Activation = EndFrame
-800CBCBC 031F
+800CBD24 031F
 
 [Kisteninhalt\FarbbäNder]
 Type = Gameshark
 Activation = EndFrame
-800CBCC0 FF1E
+800CBD28 FF1E
 
 [Kleidung\Mit Tasche Am GüRtel]
 Type = Gameshark
@@ -292,11 +292,50 @@ Activation = EndFrame
 D00C54A4 0012
 800CBB98 FF0F
 
+[Raketenwerfer R2 + X (Alt)]
+Type = Gameshark
+Activation = EndFrame
+D00C54A4 0042
+800CBB98 FF11
+
 [Gatling Gun R2 + Viereck]
 Type = Gameshark
 Activation = EndFrame
 D00C54A4 0082
 800CBB98 FF12
+
+[Durch WäNde Gehen L1 aktivieren/L2 deaktivieren (Alt)]
+Type = Gameshark
+Activation = EndFrame
+D00C54A4 0004
+800C6E5A 0C0F
+D00C54A4 0001
+800C6E5A 1500
+
+[Kisteninhalt\FarbbäNder (Alt)]
+Type = Gameshark
+Activation = EndFrame
+800CBCC0 FF1E
+
+[Kisteninhalt\SchlüSsel (Alt)]
+Type = Gameshark
+Activation = EndFrame
+800CBCBC 031F
+
+[Kisteninhalt\Roter Edelstein (Alt)]
+Type = Gameshark
+Activation = EndFrame
+800CBCB8 0133
+
+[Kisteninhalt\Kabel (Alt)]
+Type = Gameshark
+Activation = EndFrame
+800CBCB4 0156
+
+[Kisteninhalt\Armbrustbolzen (Alt)]
+Type = Gameshark
+Activation = EndFrame
+800CBCB0 041D
 
 [Kisteninhalt\Schlangenstein]
 Type = Gameshark
@@ -318,10 +357,60 @@ Type = Gameshark
 Activation = EndFrame
 800CBCA0 0142
 
+[Kisteninhalt\Einhornmedaille (Alt)]
+Type = Gameshark
+Activation = EndFrame
+800CBC9C 0147
+
+[Kisteninhalt\Adlermedaille (Alt)]
+Type = Gameshark
+Activation = EndFrame
+800CBC98 0148
+
+[Kisteninhalt\Wolfmedaille (Alt)]
+Type = Gameshark
+Activation = EndFrame
+800CBC94 0149
+
+[Kisteninhalt\G-Virus (Alt)]
+Type = Gameshark
+Activation = EndFrame
+800CBC90 0152
+
+[Kisteninhalt\SonderschlüSsel (Alt)]
+Type = Gameshark
+Activation = EndFrame
+800CBC8C 0153
+
+[Kisteninhalt\KabinenschlüSsel (Alt)]
+Type = Gameshark
+Activation = EndFrame
+800CBC88 0158
+
+[Kisteninhalt\RevierschlüSsel (Alt)]
+Type = Gameshark
+Activation = EndFrame
+800CBC84 0159
+
+[Kisteninhalt\Dietrich (Alt)]
+Type = Gameshark
+Activation = EndFrame
+800CBC80 0130
+
 [Kisteninhalt\LaborschlüSsel]
 Type = Gameshark
 Activation = EndFrame
 800CBC7C 0161
+
+[Kisteninhalt\HauptschlüSsel (Alt)]
+Type = Gameshark
+Activation = EndFrame
+800CBC78 0162
+
+[Kisteninhalt\PlattformschlüSsel (Alt)]
+Type = Gameshark
+Activation = EndFrame
+800CBC74 0163
 
 [Kisteninhalt\Granatwerfer]
 Type = Gameshark
@@ -343,10 +432,25 @@ Type = Gameshark
 Activation = EndFrame
 800CBBD0 FF0C
 
+[Kisteninhalt\Colt S.A.A. (Alt)]
+Type = Gameshark
+Activation = EndFrame
+800CBBD4 FF0D
+
 [Kisteninhalt\Blitzwaffe]
 Type = Gameshark
 Activation = EndFrame
 800CBBD8 FF0E
+
+[Kisteninhalt\Mg (Alt)]
+Type = Gameshark
+Activation = EndFrame
+800CBBDC FF0F
+
+[Kisteninhalt\Raketenwerfer (Alt)]
+Type = Gameshark
+Activation = EndFrame
+800CBBE0 FF11
 
 [Kisteninhalt\Gattling Gun]
 Type = Gameshark

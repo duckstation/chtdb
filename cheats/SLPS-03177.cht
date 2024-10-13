@@ -37,8 +37,8 @@ Type = Gameshark
 Activation = EndFrame
 A610B9D0 FFFF0000
 
-[Mortal blow Press SEL + L2]
-Description = mortal blow Press SEL + R2
+[Mortal Blow]
+Description = Press SEL + L2 for mortal blow. Press SEL + R2 for Invincibility or Press SEL + L2 + R2 for Normal Blow
 Type = Gameshark
 Activation = EndFrame
 D00CD048 0101

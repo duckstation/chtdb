@@ -118,17 +118,22 @@ Activation = EndFrame
 [P1 Select Character\Gen (New) (Arcade Mode)]
 Type = Gameshark
 Activation = EndFrame
-8019823A 1900
+8019823A 1300
 
 [P1 Select Character\Akuma (New) (Arcade Mode)]
 Type = Gameshark
 Activation = EndFrame
-8019823A 1600
+8019823A 1400
 
 [P1 Select Character\Ryu (New) (Arcade Mode)]
 Type = Gameshark
 Activation = EndFrame
-8019823A 1B00
+8019823A 1500
+
+[P1 Select Character\Akuma (Alt) (New) (Arcade Mode)]
+Type = Gameshark
+Activation = EndFrame
+8019823A 1600
 
 [P1 Select Character\Rose (New) (Arcade Mode)]
 Type = Gameshark
@@ -140,8 +145,18 @@ Type = Gameshark
 Activation = EndFrame
 8019823A 1800
 
+[P1 Select Character\Gen (Alt) (New) (Arcade Mode)]
+Type = Gameshark
+Activation = EndFrame
+8019823A 1900
+
 [P1 Select Character\Ken (New) (Arcade Mode)]
 Type = Gameshark
 Activation = EndFrame
 8019823A 1A00
+
+[P1 Select Character\Ryu (Alt) (New) (Arcade Mode)]
+Type = Gameshark
+Activation = EndFrame
+8019823A 1B00
 

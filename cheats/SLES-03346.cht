@@ -43,6 +43,11 @@ A6029334 000000AA
 [Much Points Arrows]
 Type = Gameshark
 Activation = EndFrame
+A6029336 000000AA
+
+[Much Points Arrows (Alt)]
+Type = Gameshark
+Activation = EndFrame
 A6029338 000000AA
 
 [Other Drivers do not Score]
@@ -60,6 +65,13 @@ D3029334 0001
 80029336 0000
 
 [Other Drivers do not Score Arrows]
+Type = Gameshark
+Activation = EndFrame
+D3029336 0001
+50001502 0000
+80029338 0000
+
+[Other Drivers do not Score Arrows (Alt)]
 Type = Gameshark
 Activation = EndFrame
 D3029338 0001

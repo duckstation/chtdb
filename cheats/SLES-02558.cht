@@ -38,9 +38,8 @@ Activation = EndFrame
 [All Key Items]
 Type = Gameshark
 Activation = EndFrame
-50000302 0000
-80072714 FFFF
-8007271A 0001
+90072714 FFFFFFFF
+90072718 0001FFFF
 
 [Max Parasite Energy Level Codes\Pyrokinesis]
 Type = Gameshark

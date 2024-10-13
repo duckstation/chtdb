@@ -13,7 +13,7 @@ Activation = EndFrame
 [Infinite Money 999999]
 Type = Gameshark
 Activation = EndFrame
-9008EC20 000F423F
+900705A0 000F423F
 
 [HP enemy in combat 0]
 Type = Gameshark
@@ -66,6 +66,11 @@ Activation = EndFrame
 Type = Gameshark
 Activation = EndFrame
 800C2CAC 0190
+
+[Infinite Money 999999 (Alt)]
+Type = Gameshark
+Activation = EndFrame
+9008EC20 000F423F
 
 [HP currently]
 Type = Gameshark

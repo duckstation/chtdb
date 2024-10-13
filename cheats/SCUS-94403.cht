@@ -13,7 +13,7 @@ Activation = EndFrame
 [Invincibility]
 Type = Gameshark
 Activation = EndFrame
-800ED7C6 0003
+800E7F60 0004
 
 [Infinite Buster Grenades]
 Type = Gameshark
@@ -49,4 +49,9 @@ Activation = EndFrame
 Type = Gameshark
 Activation = EndFrame
 800E8004 0001
+
+[Invincibility (Alt)]
+Type = Gameshark
+Activation = EndFrame
+800ED7C6 0003
 

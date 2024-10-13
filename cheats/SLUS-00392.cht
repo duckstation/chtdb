@@ -8,12 +8,12 @@ Activation = EndFrame
 [Select No. of Balls to Walk\1]
 Type = Gameshark
 Activation = EndFrame
-A604353E 00000002
+A6044084 00000003
 
 [Select No. of Balls to Walk\2]
 Type = Gameshark
 Activation = EndFrame
-A604353E 00000001
+A6044084 00000002
 
 [Select No. of Balls to Walk\3]
 Type = Gameshark
@@ -24,6 +24,16 @@ A6044084 00000001
 Type = Gameshark
 Activation = EndFrame
 8004353E 0000
+
+[Select No. of Strikes to Start On\1]
+Type = Gameshark
+Activation = EndFrame
+A604353E 00000002
+
+[Select No. of Strikes to Start On\2]
+Type = Gameshark
+Activation = EndFrame
+A604353E 00000001
 
 [Infinite Outs]
 Type = Gameshark

@@ -20,8 +20,7 @@ Type = Gameshark
 Activation = EndFrame
 9002471C 24030004
 
-[Jump Infinite ON]
-Description = L1 Press OFF
+[Infinite Jumps (L1 ON, R1 OFF)]
 Type = Gameshark
 Activation = EndFrame
 D005E714 0004

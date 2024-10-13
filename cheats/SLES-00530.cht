@@ -8,7 +8,7 @@ Activation = EndFrame
 [Infinite Credits]
 Type = Gameshark
 Activation = EndFrame
-8011C120 FFFF
+8011C0F8 FFFF
 
 [Infiniye Money]
 Type = Gameshark
@@ -16,6 +16,16 @@ Activation = EndFrame
 801100DF B99A
 
 [Infinite Power]
+Type = Gameshark
+Activation = EndFrame
+801100DD B99A
+
+[Infinite Credits (Alt)]
+Type = Gameshark
+Activation = EndFrame
+8011C120 FFFF
+
+[Infinite Power (Alt)]
 Type = Gameshark
 Activation = EndFrame
 80110769 AD64

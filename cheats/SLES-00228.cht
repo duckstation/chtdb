@@ -28,14 +28,16 @@ D00B8F3A FBFF
 D00B8F3A FBFF
 800C879A 022F
 
-[Change character to Chris (Press Square Pad 2) You have to go through any door before change is showing up	D00B8F3A 7FFF]
+[Change character to Chris (Press Square Pad 2) You have to go through any door before change is showing up]
 Type = Gameshark
 Activation = EndFrame
+D00B8F3A 7FFF
 300C8669 0000
 
-[Change character to Jill (Press Circle Pad 2) You have to go through any door before change is showing up	D00B8F3A DFFF]
+[Change character to Jill (Press Circle Pad 2) You have to go through any door before change is showing up]
 Type = Gameshark
 Activation = EndFrame
+D00B8F3A DFFF
 300C8669 0001
 
 [Change character to Rebecca (Press Triangle Pad 2) You have to go through any door before change is showing up]

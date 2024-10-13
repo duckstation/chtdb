@@ -30,3 +30,8 @@ Activation = EndFrame
 300DEF80 0001
 300DEFF2 0001
 
+[Law surgery combat / time limit]
+Type = Gameshark
+Activation = EndFrame
+800DEFE8 FFFF
+

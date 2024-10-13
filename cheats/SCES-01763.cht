@@ -9,13 +9,18 @@ Activation = EndFrame
 [Infinite Continues]
 Type = Gameshark
 Activation = EndFrame
-D0018254 FFFF
-80018258 0000
+800EEAD4 0009
 
 [Unlock Most Things]
 Type = Gameshark
 Activation = EndFrame
 800EE3BC 0C0C
+
+[Infinite Continues (Alt)]
+Type = Gameshark
+Activation = EndFrame
+D0018254 FFFF
+80018258 0000
 
 [Infinite Boost]
 Type = Gameshark

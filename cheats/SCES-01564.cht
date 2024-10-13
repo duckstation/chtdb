@@ -3,12 +3,12 @@
 [Infinite Health]
 Type = Gameshark
 Activation = EndFrame
-800EC268 0005
+800EC388 0005
 
 [Infinite Oxygen]
 Type = Gameshark
 Activation = EndFrame
-800F4D68 0258
+800F4E88 0255
 
 [All Weapons]
 Type = Gameshark
@@ -30,10 +30,20 @@ Type = Gameshark
 Activation = EndFrame
 800F442C 0005
 
+[Infinite Health (Alt)]
+Type = Gameshark
+Activation = EndFrame
+800EC268 0005
+
 [Lots Of Gold Triangles]
 Type = Gameshark
 Activation = EndFrame
 800F4456 FFFF
+
+[Infinite Oxygen (Alt)]
+Type = Gameshark
+Activation = EndFrame
+800F4D68 0258
 
 [Get One Monkey To Finish Level]
 Type = Gameshark

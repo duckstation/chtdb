@@ -15,10 +15,22 @@ Activation = EndFrame
 [Guinb Infinite + Max HP]
 Type = Gameshark
 Activation = EndFrame
+801BEDA2 03E7
+801BEDA4 03E7
+
+[Guinb Infinite + Max BP]
+Type = Gameshark
+Activation = EndFrame
 801BEDA6 03E7
 801BEDA8 03E7
 
 [BT-01 Infinite + Max HP]
+Type = Gameshark
+Activation = EndFrame
+801BEDC2 03E7
+801BEDC4 03E7
+
+[BT-01 Infinite + Max BP]
 Type = Gameshark
 Activation = EndFrame
 801BEDC6 03E7
@@ -27,16 +39,34 @@ Activation = EndFrame
 [BT-02 Infinite + Max HP]
 Type = Gameshark
 Activation = EndFrame
+801BEDE2 03E7
+801BEDE4 03E7
+
+[BT-02 Infinite + Max BP]
+Type = Gameshark
+Activation = EndFrame
 801BEDE6 03E7
 801BEDE8 03E7
 
 [Morte Infinite + Max HP]
 Type = Gameshark
 Activation = EndFrame
+801BEE02 03E7
+801BEE04 03E7
+
+[Morte Infinite + Max BP]
+Type = Gameshark
+Activation = EndFrame
 801BEE06 03E7
 801BEE08 03E7
 
 [Firen Infinite + Max HP]
+Type = Gameshark
+Activation = EndFrame
+801BEE22 03E7
+801BEE24 03E7
+
+[Firen Infinite + Max BP]
 Type = Gameshark
 Activation = EndFrame
 801BEE26 03E7

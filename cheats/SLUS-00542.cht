@@ -39,6 +39,16 @@ Activation = EndFrame
 [Have All Keys]
 Type = Gameshark
 Activation = EndFrame
+801BE972 0001
+
+[Have All Keys (Alt 1)]
+Type = Gameshark
+Activation = EndFrame
+801BE95A 0001
+
+[Have All Keys  (Alt 2)]
+Type = Gameshark
+Activation = EndFrame
 801BE98A 0001
 
 [Room + Stage Skip Press R1 and R2 buttons to scroll forward for each and hold the buttons to warp there]

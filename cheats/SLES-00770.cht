@@ -38,7 +38,7 @@ Activation = EndFrame
 [Molotow-Cocktail]
 Type = Gameshark
 Activation = EndFrame
-800EF87C 0001
+800EF818 0001
 
 [ÖL-Kanister]
 Type = Gameshark
@@ -159,4 +159,9 @@ Activation = EndFrame
 Type = Gameshark
 Activation = EndFrame
 800EF878 0001
+
+[Molotow-Cocktail (Alt)]
+Type = Gameshark
+Activation = EndFrame
+800EF87C 0001
 

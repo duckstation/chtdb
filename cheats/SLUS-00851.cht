@@ -169,7 +169,7 @@ Activation = EndFrame
 [Unlock Clockwork]
 Type = Gameshark
 Activation = EndFrame
-801F3CBC 0100
+801F31B8 0100
 
 [Unlock Clockwork 2]
 Type = Gameshark
@@ -180,6 +180,11 @@ Activation = EndFrame
 Type = Gameshark
 Activation = EndFrame
 801F3910 0100
+
+[Unlock Clockwork (Alt)]
+Type = Gameshark
+Activation = EndFrame
+801F3CBC 0100
 
 [Unlock Probe UFO]
 Type = Gameshark

@@ -70,10 +70,10 @@ Type = Gameshark
 Activation = EndFrame
 801DE28A 0021
 
-[Select Slot 1 Contents\Coin]
+[Select Slot 1 Contents\Coin 1]
 Type = Gameshark
 Activation = EndFrame
-801DE28A 0076
+801DE28A 0022
 
 [Select Slot 1 Contents\Knife]
 Type = Gameshark
@@ -95,7 +95,12 @@ Type = Gameshark
 Activation = EndFrame
 801DE28A 0026
 
-[Select Slot 1 Contents\XXXX]
+[Select Slot 1 Contents\XXXX 1]
+Type = Gameshark
+Activation = EndFrame
+801DE28A 0027
+
+[Select Slot 1 Contents\XXXX 2]
 Type = Gameshark
 Activation = EndFrame
 801DE28A 0028
@@ -305,6 +310,11 @@ Type = Gameshark
 Activation = EndFrame
 801DE28A 0075
 
+[Select Slot 1 Contents\Coin 2]
+Type = Gameshark
+Activation = EndFrame
+801DE28A 0076
+
 [Select Slot 1 Contents\Sword]
 Type = Gameshark
 Activation = EndFrame
@@ -380,10 +390,10 @@ Type = Gameshark
 Activation = EndFrame
 801DE28C 0021
 
-[Select Slot 2 Contents\Coin]
+[Select Slot 2 Contents\Coin 1]
 Type = Gameshark
 Activation = EndFrame
-801DE28C 0076
+801DE28C 0022
 
 [Select Slot 2 Contents\Knife]
 Type = Gameshark
@@ -405,7 +415,12 @@ Type = Gameshark
 Activation = EndFrame
 801DE28C 0026
 
-[Select Slot 2 Contents\XXXX]
+[Select Slot 2 Contents\XXXX 1]
+Type = Gameshark
+Activation = EndFrame
+801DE28C 0027
+
+[Select Slot 2 Contents\XXXX 2]
 Type = Gameshark
 Activation = EndFrame
 801DE28C 0028
@@ -615,6 +630,11 @@ Type = Gameshark
 Activation = EndFrame
 801DE28C 0075
 
+[Select Slot 2 Contents\Coin 2]
+Type = Gameshark
+Activation = EndFrame
+801DE28C 0076
+
 [Select Slot 2 Contents\Sword]
 Type = Gameshark
 Activation = EndFrame
@@ -690,10 +710,10 @@ Type = Gameshark
 Activation = EndFrame
 801DE28E 0021
 
-[Select Slot 3 Contents\Coin]
+[Select Slot 3 Contents\Coin 1]
 Type = Gameshark
 Activation = EndFrame
-801DE28E 0076
+801DE28E 0022
 
 [Select Slot 3 Contents\Knife]
 Type = Gameshark
@@ -715,7 +735,12 @@ Type = Gameshark
 Activation = EndFrame
 801DE28E 0026
 
-[Select Slot 3 Contents\XXXX]
+[Select Slot 3 Contents\XXXX 1]
+Type = Gameshark
+Activation = EndFrame
+801DE28E 0027
+
+[Select Slot 3 Contents\XXXX 2]
 Type = Gameshark
 Activation = EndFrame
 801DE28E 0028
@@ -925,6 +950,11 @@ Type = Gameshark
 Activation = EndFrame
 801DE28E 0075
 
+[Select Slot 3 Contents\Coin 2]
+Type = Gameshark
+Activation = EndFrame
+801DE28E 0076
+
 [Select Slot 3 Contents\Sword]
 Type = Gameshark
 Activation = EndFrame
@@ -1000,10 +1030,10 @@ Type = Gameshark
 Activation = EndFrame
 801DE290 0021
 
-[Select Slot 4 Contents\Coin]
+[Select Slot 4 Contents\Coin 1]
 Type = Gameshark
 Activation = EndFrame
-801DE290 0076
+801DE290 0022
 
 [Select Slot 4 Contents\Knife]
 Type = Gameshark
@@ -1025,7 +1055,12 @@ Type = Gameshark
 Activation = EndFrame
 801DE290 0026
 
-[Select Slot 4 Contents\XXXX]
+[Select Slot 4 Contents\XXXX 1]
+Type = Gameshark
+Activation = EndFrame
+801DE290 0027
+
+[Select Slot 4 Contents\XXXX 2]
 Type = Gameshark
 Activation = EndFrame
 801DE290 0028
@@ -1234,6 +1269,11 @@ Activation = EndFrame
 Type = Gameshark
 Activation = EndFrame
 801DE290 0075
+
+[Select Slot 4 Contents\Coin 2]
+Type = Gameshark
+Activation = EndFrame
+801DE290 0076
 
 [Select Slot 4 Contents\Sword]
 Type = Gameshark

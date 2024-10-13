@@ -26,30 +26,30 @@ Type = Gameshark
 Activation = EndFrame
 800DC474 0064
 
-[Scoring Screen\Property Damage]
+[George-Codes\Scoring Screen\Property Damage]
 Type = Gameshark
 Activation = EndFrame
 800BB960 00FF
 
-[Scoring Screen\Max People]
+[George-Codes\Scoring Screen\Max People]
 Type = Gameshark
 Activation = EndFrame
-800D7332 00FF
+800D6F9A 00FF
 
-[Scoring Screen\Max Food]
+[George-Codes\Scoring Screen\Max Food]
 Type = Gameshark
 Activation = EndFrame
-800D7334 00FF
+800D6F9C 00FF
 
-[Scoring Screen\Max Vehicles]
+[George-Codes\Scoring Screen\Max Vehicles]
 Type = Gameshark
 Activation = EndFrame
-800D7336 00FF
+800D6F9E 00FF
 
-[Scoring Screen\Max Buddy Bashing]
+[George-Codes\Scoring Screen\Max Buddy Bashing]
 Type = Gameshark
 Activation = EndFrame
-800D733A 00FF
+800D6FAC 00FF
 
 [Lizzy-Codes\Infinite Health]
 Type = Gameshark
@@ -77,10 +77,30 @@ Type = Gameshark
 Activation = EndFrame
 800DC640 0064
 
-[Scoring Screen\Max Property Damage]
+[Lizzy-Codes\Scoring Screen\Max Property Damage]
 Type = Gameshark
 Activation = EndFrame
-800BBCF8 00FF
+800BBB2C 00FF
+
+[Lizzy-Codes\Scoring Screen\Max People]
+Type = Gameshark
+Activation = EndFrame
+800D7166 00FF
+
+[Lizzy-Codes\Scoring Screen\Max Food]
+Type = Gameshark
+Activation = EndFrame
+800D7168 00FF
+
+[Lizzy-Codes\Scoring Screen\Max Vehicles]
+Type = Gameshark
+Activation = EndFrame
+800D716A 00FF
+
+[Lizzy-Codes\Scoring Screen\Max Buddy Bashing]
+Type = Gameshark
+Activation = EndFrame
+800D716E 00FF
 
 [Ralph-Codes\Infinite Health]
 Type = Gameshark
@@ -107,4 +127,29 @@ Activation = EndFrame
 Type = Gameshark
 Activation = EndFrame
 800DC80C 0064
+
+[Ralph-Codes\Scoring Screen\Max Property Damage]
+Type = Gameshark
+Activation = EndFrame
+800BBCF8 00FF
+
+[Ralph-Codes\Scoring Screen\Max People]
+Type = Gameshark
+Activation = EndFrame
+800D7332 00FF
+
+[Ralph-Codes\Scoring Screen\Max Food]
+Type = Gameshark
+Activation = EndFrame
+800D7334 00FF
+
+[Ralph-Codes\Scoring Screen\Max Vehicles]
+Type = Gameshark
+Activation = EndFrame
+800D7336 00FF
+
+[Ralph-Codes\Scoring Screen\Max Buddy Bashing]
+Type = Gameshark
+Activation = EndFrame
+800D733A 00FF
 

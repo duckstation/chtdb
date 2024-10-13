@@ -3,7 +3,8 @@
 [Infinite Ammo]
 Type = Gameshark
 Activation = EndFrame
-300662D2 0001
+80059A6C 0063
+80059A78 0063
 
 [Infinite Armor]
 Type = Gameshark
@@ -79,6 +80,11 @@ Activation = EndFrame
 Type = Gameshark
 Activation = EndFrame
 800662D0 0001
+
+[Infinite Ammo (Alt)]
+Type = Gameshark
+Activation = EndFrame
+300662D2 0001
 
 [Infinite HPS (Health)]
 Type = Gameshark

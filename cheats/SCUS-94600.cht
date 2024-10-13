@@ -410,17 +410,27 @@ Type = Gameshark
 Activation = EndFrame
 8005C924 0113
 
-[Select Rincewind's 1st Item\Picture(Octopus)]
+[Select Rincewind's 1st Item\Picture 1(Octopus)]
 Type = Gameshark
 Activation = EndFrame
 8005C924 0114
 
-[Select Rincewind's 1st Item\Picture]
+[Select Rincewind's 1st Item\Picture 2]
+Type = Gameshark
+Activation = EndFrame
+8005C924 0115
+
+[Select Rincewind's 1st Item\Picture 3 (framed)]
+Type = Gameshark
+Activation = EndFrame
+8005C924 0116
+
+[Select Rincewind's 1st Item\Picture 4]
 Type = Gameshark
 Activation = EndFrame
 8005C924 0117
 
-[Select Rincewind's 1st Item\Picture (framed)]
+[Select Rincewind's 1st Item\Picture 5 (framed)]
 Type = Gameshark
 Activation = EndFrame
 8005C924 0118
@@ -585,7 +595,12 @@ Type = Gameshark
 Activation = EndFrame
 8005C924 0138
 
-[Select Rincewind's 1st Item\Tankard (2 with beer)]
+[Select Rincewind's 1st Item\Tankard A (2 with beer)]
+Type = Gameshark
+Activation = EndFrame
+8005C924 0139
+
+[Select Rincewind's 1st Item\Tankard B (2 with beer)]
 Type = Gameshark
 Activation = EndFrame
 8005C924 013A
@@ -1060,17 +1075,27 @@ Type = Gameshark
 Activation = EndFrame
 8005C928 0113
 
-[Select Rincewind's 2nd Item\Picture(Octopus)]
+[Select Rincewind's 2nd Item\Picture 1(Octopus)]
 Type = Gameshark
 Activation = EndFrame
 8005C928 0114
 
-[Select Rincewind's 2nd Item\Picture]
+[Select Rincewind's 2nd Item\Picture 2]
+Type = Gameshark
+Activation = EndFrame
+8005C928 0115
+
+[Select Rincewind's 2nd Item\Picture 3 (framed)]
+Type = Gameshark
+Activation = EndFrame
+8005C928 0116
+
+[Select Rincewind's 2nd Item\Picture 4]
 Type = Gameshark
 Activation = EndFrame
 8005C928 0117
 
-[Select Rincewind's 2nd Item\Picture (framed)]
+[Select Rincewind's 2nd Item\Picture 5 (framed)]
 Type = Gameshark
 Activation = EndFrame
 8005C928 0118
@@ -1235,7 +1260,12 @@ Type = Gameshark
 Activation = EndFrame
 8005C928 0138
 
-[Select Rincewind's 2nd Item\Tankard (2 with beer)]
+[Select Rincewind's 2nd Item\Tankard A (2 with beer)]
+Type = Gameshark
+Activation = EndFrame
+8005C928 0139
+
+[Select Rincewind's 2nd Item\Tankard B (2 with beer)]
 Type = Gameshark
 Activation = EndFrame
 8005C928 013A

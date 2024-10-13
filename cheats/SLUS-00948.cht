@@ -3,6 +3,11 @@
 [Select Team 1 Score\100]
 Type = Gameshark
 Activation = EndFrame
+800B5160 0064
+
+[Select Team 1 Score\0]
+Type = Gameshark
+Activation = EndFrame
 800B5160 0000
 
 [Select Team 2 Score\100]

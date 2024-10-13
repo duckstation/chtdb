@@ -3,6 +3,11 @@
 [Select Away Team Score\100]
 Type = Gameshark
 Activation = EndFrame
+80016580 0064
+
+[Select Away Team Score\0]
+Type = Gameshark
+Activation = EndFrame
 80016580 0000
 
 [Select Home Team Score\100]

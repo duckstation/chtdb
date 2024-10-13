@@ -8,7 +8,8 @@ Activation = EndFrame
 [Infinite HP]
 Type = Gameshark
 Activation = EndFrame
-800A3CC0 0001
+800BDD5C 0090
+900CD3FC 00900090
 
 [Infinite SP]
 Type = Gameshark
@@ -24,6 +25,11 @@ Activation = EndFrame
 Type = Gameshark
 Activation = EndFrame
 300A3DF4 0020
+
+[Infinite HP (Alt)]
+Type = Gameshark
+Activation = EndFrame
+800A3CC0 0001
 
 [Infinite MP]
 Type = Gameshark
