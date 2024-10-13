@@ -1,0 +1,12 @@
+; CHTDB: ; [ Micro Maniacs (Europe) {SLES-01921} ]
+
+[P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+30065A22 0009
+
+[All Secret Options Selectable]
+Type = Gameshark
+Activation = EndFrame
+80065DA0 FFFF
+

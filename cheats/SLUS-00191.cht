@@ -1,0 +1,52 @@
+; CHTDB: ; [ Thunderstrike 2 (USA) (1996) (U.S. Gold) {SLUS-00191} <tstrike2> ]
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+80074D04 00DF
+
+[Infinite Agm 214 Firestorm Homing Missiles]
+Type = Gameshark
+Activation = EndFrame
+80074E7C 000C
+
+[Infinite Ffar Rocket Pod]
+Type = Gameshark
+Activation = EndFrame
+80074E7E 0014
+
+[Infinite Rcs 233 Runray Cratering System]
+Type = Gameshark
+Activation = EndFrame
+80074E7A 0010
+
+[Infinite 30mm Chain Gun]
+Type = Gameshark
+Activation = EndFrame
+800CF9BE 9DA7
+
+[Infinite Big Boy Mk-85 500-Lb Bombs]
+Type = Gameshark
+Activation = EndFrame
+80074E7C 0004
+
+[Infinite Mac 874A Cluster Bombs]
+Type = Gameshark
+Activation = EndFrame
+80074E7A 000A
+
+[Infinite Mk-3 Penguin Anti-Shipping Missiles]
+Type = Gameshark
+Activation = EndFrame
+80074E7A 0008
+
+[Receive No Demerits]
+Type = Gameshark
+Activation = EndFrame
+80074B00 0000
+
+[Rapid Fire]
+Type = Gameshark
+Activation = EndFrame
+80073414 0000
+

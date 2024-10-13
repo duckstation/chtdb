@@ -1,0 +1,30 @@
+; CHTDB: ; [ Harry Potter and the Chamber of Secrets (USA) (2002) (Electronic Arts) {SLUS-01503} <hpotcsec> ]
+
+[15 Beans Every Pickup]
+Type = Gameshark
+Activation = EndFrame
+80084860 F000
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80084A7C 8000
+
+[Unlock All Folio Magi]
+Type = Gameshark
+Activation = EndFrame
+80084728 FFFF
+90084724 FFFFFFFF
+80084500 0300
+80084862 0063
+
+[Unlock All Report Card - Quidditch Training]
+Type = Gameshark
+Activation = EndFrame
+800844F0 FFFF
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+A7075C6E 10002000
+

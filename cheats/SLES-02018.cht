@@ -1,0 +1,72 @@
+; CHTDB: ; [ Demolition Racer (Europe) {SLES-02018} ]
+
+[P1 Can't Die]
+Type = Gameshark
+Activation = EndFrame
+80061114 0000
+
+[P1 Max Points]
+Type = Gameshark
+Activation = EndFrame
+A6061158 00000FFF
+
+[P1's Car Jumps]
+Type = Gameshark
+Activation = EndFrame
+80061052 0000
+
+[P2 Can't Die]
+Type = Gameshark
+Activation = EndFrame
+800614CC 0000
+
+[P2 Max Points]
+Type = Gameshark
+Activation = EndFrame
+A6061510 00000FFF
+
+[Enable All]
+Type = Gameshark
+Activation = EndFrame
+50001802 0000
+80053894 0000
+50000304 0000
+8005ED58 0000
+
+[P1 Turbo Boost]
+Type = Gameshark
+Activation = EndFrame
+80060FE0 9160
+
+[P2 Turbo Boost]
+Type = Gameshark
+Activation = EndFrame
+80061398 9160
+
+[Damagecount On 99 P1 (Press Select. In some modes it's better to be able to get damaged. Use this one be stay in the game)]
+Type = Gameshark
+Activation = EndFrame
+D005F790 0001
+30061115 0000
+
+[Damagecount On 99 P2 (Press Select. In some modes it's better to be able to get damaged. Use this one be stay in the game)]
+Type = Gameshark
+Activation = EndFrame
+D005F794 0001
+300614CD 0000
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A705F3D8 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A705F3D8 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A705F3D8 10000400
+

@@ -1,0 +1,42 @@
+; CHTDB: ; [ Street Sk8er 2 (USA) (2000) (Electronic Arts) {SLUS-01083} <strsk8_2> ]
+
+[All Characters]
+Type = Gameshark
+Activation = EndFrame
+8008B530 FFFF
+
+[All Levels]
+Type = Gameshark
+Activation = EndFrame
+8008B528 FFFF
+
+[Alll Boards]
+Type = Gameshark
+Activation = EndFrame
+9008B534 FFFFFFFF
+
+[Additional Score]
+Type = Gameshark
+Activation = EndFrame
+8003852C FFFF
+
+[Maxi-Speed]
+Type = Gameshark
+Activation = EndFrame
+80038612 0FFF
+
+[Infinite Bonus Points]
+Type = Gameshark
+Activation = EndFrame
+801FAAC0 0064
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80038524 11EA
+
+[Loose 0 Points when you Fall]
+Type = Gameshark
+Activation = EndFrame
+80090794 0000
+

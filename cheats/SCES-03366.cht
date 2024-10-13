@@ -1,0 +1,17 @@
+; CHTDB: ; [ C-12: Final Resistance (Europe) {SCES-03366} ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800F361C 03E8
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+800F3630 0190
+
+[Infinite Grenades]
+Type = Gameshark
+Activation = EndFrame
+800F3632 001E
+

@@ -1,0 +1,60 @@
+; CHTDB: ; [ Ultimate Fighting Championship (Europe) {SLES-02903} ]
+
+[Timer Frozen (Press L1 & L2)]
+Type = Gameshark
+Activation = EndFrame
+D0084A02 FAFF
+3009D998 0000
+
+[All Secret character playable (Press L1 & L2 & R1 & R2)]
+Type = Gameshark
+Activation = EndFrame
+D0084A02 F0FF
+50000C02 0000
+3012D2C8 0001
+D0084A02 F0FF
+50000C02 0000
+3012D2E0 0002
+
+[Create fighter Max status Life]
+Type = Gameshark
+Activation = EndFrame
+30156046 0064
+
+[Create fighter Max statu Power]
+Type = Gameshark
+Activation = EndFrame
+30156048 0064
+
+[Create fighter Max statu Speed]
+Type = Gameshark
+Activation = EndFrame
+3015604A 0064
+
+[Create fighter Max statu Endurance]
+Type = Gameshark
+Activation = EndFrame
+3015604C 0064
+
+[Create fighter Max statu Stamina]
+Type = Gameshark
+Activation = EndFrame
+3015604E 0064
+
+[Create fighter Max statu Octagon control]
+Type = Gameshark
+Activation = EndFrame
+30156050 0064
+
+[Create fighter Max statu Ground skill]
+Type = Gameshark
+Activation = EndFrame
+30156052 0064
+
+[Ability points Infinite]
+Type = Gameshark
+Activation = EndFrame
+D0095488 0038
+50000202 0000
+80095488 0000
+

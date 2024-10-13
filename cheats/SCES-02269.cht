@@ -1,0 +1,18 @@
+; CHTDB: ; [ This Is Soccer (Australia) {SCES-02269} ]
+
+[Away Team Wins Press L2 & R2 & R1]
+Type = Gameshark
+Activation = EndFrame
+D000E340 000B
+3010FC74 0000
+D000E340 000B
+3010FC76 0009
+
+[Home Team Wins Press L2 & R2 & L1]
+Type = Gameshark
+Activation = EndFrame
+D000E340 0007
+3010FC74 0009
+D000E340 0007
+3010FC76 0000
+

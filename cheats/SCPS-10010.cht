@@ -1,0 +1,8 @@
+; CHTDB: ; [ Wizardry VII: Guardia no Houju (Japan) {SCPS-10010} ]
+
+[Infinite Character Creation Points]
+Description = Deactivate after completing creating the character
+Type = Gameshark
+Activation = EndFrame
+800D0374 0063
+

@@ -1,0 +1,27 @@
+; CHTDB: ; [ Wing Commander IV - The Price of Freedom (USA) (1997) (Electronic Arts) {SLUS-00270 / SLUS-00271 / SLUS-00272 / SLUS-00273} <wingcom4> ]
+
+[Infinite Lasers]
+Type = Gameshark
+Activation = EndFrame
+801E6A8C 03FC
+
+[Infinite Energy--Break Point Code]
+Type = Gameshark
+Activation = EndFrame
+90107F50 00000000
+
+[Infinite Imrec Missiles]
+Type = Gameshark
+Activation = EndFrame
+801E6C08 0009
+
+[Infinite Decoys]
+Type = Gameshark
+Activation = EndFrame
+801E6AA0 0018
+
+[Infinite Fuel]
+Type = Gameshark
+Activation = EndFrame
+801E5A3C EE00
+

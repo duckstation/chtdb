@@ -1,0 +1,75 @@
+; CHTDB: ; [ Baroque - Yuganda Mousou (Jpn) (1999) (Sting) {SLPM-86341} <baroque> ]
+
+[Infinite + Max HP]
+Type = Gameshark
+Activation = EndFrame
+900BFE80 03E703E7
+
+[Infinite + Max VT]
+Type = Gameshark
+Activation = EndFrame
+900BFE84 03E703E7
+
+[Level 99]
+Type = Gameshark
+Activation = EndFrame
+300BFE74 0063
+
+[Empirical value]
+Type = Gameshark
+Activation = EndFrame
+800BFE78 967F
+300BFE7A 0098
+
+[ATK 99]
+Type = Gameshark
+Activation = EndFrame
+300BFE88 0063
+300BFE8A 0063
+
+[DEF 99]
+Type = Gameshark
+Activation = EndFrame
+300BFE8E 0063
+300BFE90 0063
+
+[I will determine the props unknown automatically]
+Type = Gameshark
+Activation = EndFrame
+5000142C 0000
+300BEFA5 0080
+
+[No. 1 item]
+Type = Gameshark
+Activation = EndFrame
+900BFEA8 00630201
+800BFEA4 8001
+
+[Second item]
+Type = Gameshark
+Activation = EndFrame
+800BFED4 0801
+800BFED0 8000
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+300C0600 00FF
+
+[Scene list]
+Type = Gameshark
+Activation = EndFrame
+8010BEE8 FFFF
+3010BEEA 00FF
+3010BEFE 00FF
+
+[Movie List All]
+Type = Gameshark
+Activation = EndFrame
+8010BF08 FFFF
+
+[Item list All]
+Type = Gameshark
+Activation = EndFrame
+3010C7FF 00FF
+

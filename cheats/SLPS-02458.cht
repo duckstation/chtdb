@@ -1,0 +1,7 @@
+; CHTDB: ; [ Momotarou Dentetsu V (Japan) Rev 1 {SLPS-02458} ]
+
+[Infinite Money 999999]
+Type = Gameshark
+Activation = EndFrame
+800C02B8 270F
+

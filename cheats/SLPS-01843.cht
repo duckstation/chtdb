@@ -1,0 +1,91 @@
+; CHTDB: ; [ Sonata (Jpn) (1999) (T&E Soft) {SLPS-01843~SLPS-01844} <sonata> ]
+
+[Infinite Energy + maximum energy Main character]
+Type = Gameshark
+Activation = EndFrame
+900C82B0 03E703E7
+
+[Infinite Energy + maximum max Main character]
+Type = Gameshark
+Activation = EndFrame
+900C82B4 03E703E7
+
+[Infinite Energy + maximum FP Main character]
+Type = Gameshark
+Activation = EndFrame
+900C82B8 03E703E7
+
+[Infinite Energy + maximum energy AOI]
+Type = Gameshark
+Activation = EndFrame
+900C82E4 03E703E7
+
+[Infinite Energy + maximum energy IZUMI]
+Type = Gameshark
+Activation = EndFrame
+900C841C 03E703E7
+
+[All love gauge MAX]
+Type = Gameshark
+Activation = EndFrame
+800C82F2 270F
+800C8326 270F
+800C835A 270F
+800C838E 270F
+800C83C2 270F
+800C83F6 270F
+800C842A 270F
+800C845E 270F
+
+[Invincible attack Press Select + L2]
+Type = Gameshark
+Activation = EndFrame
+D0088518 0101
+800E3486 0060
+
+[Blow deadly attack PRESS Select + R2]
+Type = Gameshark
+Activation = EndFrame
+D0088518 0102
+800E3486 0000
+
+[Save anywhere]
+Type = Gameshark
+Activation = EndFrame
+300C82AB 0001
+
+[All Items 9999]
+Type = Gameshark
+Activation = EndFrame
+5000FF04 0001
+800C84AC 0000
+50008E04 0001
+800C88A8 0100
+5000FF04 0000
+800C84AE 270F
+50008E04 0000
+800C88AA 270F
+
+[All CG Gallery Album Unlock]
+Type = Gameshark
+Activation = EndFrame
+50004618 0000
+80180048 0000
+
+[Hydride Special HP 100]
+Type = Gameshark
+Activation = EndFrame
+30100036 0064
+3010003F 0064
+
+[Hydride Special MP 100]
+Type = Gameshark
+Activation = EndFrame
+30100039 0064
+30100040 0064
+
+[No Random Battles]
+Type = Gameshark
+Activation = EndFrame
+300E3C39 0000
+

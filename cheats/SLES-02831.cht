@@ -1,0 +1,18 @@
+; CHTDB: ; [ TechnoMage: Die Rückkehr der Ewigkeit (Germany) {SLES-02831} ]
+
+[Unendlich HP]
+Type = Gameshark
+Activation = EndFrame
+800F4CDA 3FE0
+800F4CDc 3FE0
+
+[Unendlich Mana]
+Type = Gameshark
+Activation = EndFrame
+900F4CD0 3FE83FF6
+
+[Gold nimmt zu]
+Type = Gameshark
+Activation = EndFrame
+30068305 00B6
+

@@ -1,0 +1,135 @@
+; CHTDB: ; [ Overboard! (Europe) {SLES-00865} ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+A701A6D4 FFFF0000
+;ASM Infinite Energy also makes it impossible to destroy the gun inplacements - so use the Level ones instead
+;#Infinite Energy
+;A70A54F2 00520040
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+A70B7B82 00440040
+
+[Hold Triangle button for One Hit Kills]
+Description = Note, One hit kills also affect your ship
+Type = Gameshark
+Activation = EndFrame
+A70A5412 14001440
+D7000000 00000010
+A70A5412 14401400
+00000000 FFFF
+
+[Ship cant catch Fire]
+Type = Gameshark
+Activation = EndFrame
+A70B1CBE 10601000
+A7092496 10401000
+
+[Stop Waves Effect]
+Type = Gameshark
+Activation = EndFrame
+A7034278 00020001
+
+[Infinite Energy Level 1-1]
+Type = Gameshark
+Activation = EndFrame
+800CD2A6 003F
+
+[Infinite Energy Level 1-2]
+Type = Gameshark
+Activation = EndFrame
+800CFE1E 003F
+
+[Infinite Energy Level 1-3]
+Type = Gameshark
+Activation = EndFrame
+800CFFBE 003F
+
+[Infinite Energy Level 1-4]
+Type = Gameshark
+Activation = EndFrame
+800CC1FE 003F
+
+[Infinite Energy Level 2-1]
+Type = Gameshark
+Activation = EndFrame
+800D1C2E 003F
+
+[Infinite Energy Level 2-2]
+Type = Gameshark
+Activation = EndFrame
+800D167E 003F
+
+[Infinite Energy Level 2-3]
+Type = Gameshark
+Activation = EndFrame
+800D015E 003F
+
+[Infinite Energy Level 2-4]
+Type = Gameshark
+Activation = EndFrame
+800CC816 003F
+
+[Infinite Energy Level 3-1]
+Type = Gameshark
+Activation = EndFrame
+800CF5FE 003F
+
+[Infinite Energy Level 3-2]
+Type = Gameshark
+Activation = EndFrame
+800CDE06 003F
+
+[Infinite Energy Level 3-3]
+Type = Gameshark
+Activation = EndFrame
+800D08AE 003F
+
+[Infinite Energy Level 3-4]
+Type = Gameshark
+Activation = EndFrame
+800CCCF6 003F
+
+[Infinite Energy Level 4-1]
+Type = Gameshark
+Activation = EndFrame
+800D126E 003F
+
+[Infinite Energy Level 4-2]
+Type = Gameshark
+Activation = EndFrame
+800D015E 003F
+
+[Infinite Energy Level 4-3]
+Type = Gameshark
+Activation = EndFrame
+800D2C06 003F
+
+[Infinite Energy Level 4-4]
+Type = Gameshark
+Activation = EndFrame
+800CC816 003F
+
+[Infinite Energy Level 5-1]
+Type = Gameshark
+Activation = EndFrame
+800CFF56 003F
+
+[Infinite Energy Level 5-2]
+Type = Gameshark
+Activation = EndFrame
+800D17B6 003F
+
+[Infinite Energy Level 5-3]
+Type = Gameshark
+Activation = EndFrame
+800D0A4E 003F
+
+[Infinite Energy Level 5-4]
+Type = Gameshark
+Activation = EndFrame
+800CC816 003F
+

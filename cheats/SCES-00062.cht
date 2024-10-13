@@ -1,0 +1,72 @@
+; CHTDB: ; [ Warhawk: The Red Mercury Missions (Europe) {SCES-00062} ]
+
+[Infinite Front Shield]
+Type = Gameshark
+Activation = EndFrame
+801A2D50 0190
+
+[Infinite Left Shield]
+Type = Gameshark
+Activation = EndFrame
+801A2D52 012C
+
+[Infinite Right Shield]
+Type = Gameshark
+Activation = EndFrame
+801A2D54 012C
+
+[Infinite Rear Shield]
+Type = Gameshark
+Activation = EndFrame
+801A2D56 012C
+
+[Infinite Rockets]
+Type = Gameshark
+Activation = EndFrame
+801B8C56 0064
+
+[Infinite Lock-On-Rockets]
+Type = Gameshark
+Activation = EndFrame
+801B8C58 000A
+
+[Infinite Screamer-Rocket]
+Type = Gameshark
+Activation = EndFrame
+801B8C5A 0018
+
+[Infinite Plasma]
+Type = Gameshark
+Activation = EndFrame
+801B8C5C 0320
+
+[Infinite Doomsday Bombs]
+Type = Gameshark
+Activation = EndFrame
+801B8C60 0001
+
+[Infinite Blitzbombs]
+Type = Gameshark
+Activation = EndFrame
+801B8C62 0001
+
+[Mg-Cooler]
+Type = Gameshark
+Activation = EndFrame
+801B8C54 0000
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A7173CE4 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A7173CE4 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A7173CE4 10000400
+

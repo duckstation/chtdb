@@ -1,0 +1,19 @@
+; CHTDB: ; [ The Land Before Time: Racing Adventure aka The Land Before Time: Great Valley Racing Adventure (Europe) {SLES-03448} ]
+
+[Have 99999 points]
+Type = Gameshark
+Activation = EndFrame
+8004EC18 869F
+8004EC20 0001
+
+[Obstacle Courses Mode All courses unlocked]
+Type = Gameshark
+Activation = EndFrame
+30001632 001F
+
+[Start on lap 3]
+Type = Gameshark
+Activation = EndFrame
+D0001614 0000
+30001614 0002
+

@@ -1,0 +1,54 @@
+; CHTDB: ; [ Ace Combat 2 (Germany) {SCES-00902} ]
+
+[Unendlich Geld]
+Type = Gameshark
+Activation = EndFrame
+90010C1C 0098967F
+
+[Level Up]
+Type = Gameshark
+Activation = EndFrame
+80010C20 7530
+
+[Unendlich Raketen]
+Type = Gameshark
+Activation = EndFrame
+9002E140 00000000
+
+[Alle Flugzeuge (Code 1)]
+Type = Gameshark
+Activation = EndFrame
+90010C44 01010101
+90010C48 01010101
+90010C4C 01010101
+90010C50 01010101
+
+[Alle Flugzeuge (Code 2) .Ersetzt Code 1]
+Type = Gameshark
+Activation = EndFrame
+50000802 0000
+80010C44 0101
+
+[Unendlich Energie]
+Type = Gameshark
+Activation = EndFrame
+9002D9CC 3241000F
+8002D9D2 3C00
+9002D9D4 1020001A
+
+[Raketenschnellfeuer]
+Type = Gameshark
+Activation = EndFrame
+9002DAFC 00000000
+90034244 00000000
+
+[Bodenkontakt Ohne Schaden]
+Type = Gameshark
+Activation = EndFrame
+90030DE0 00000000
+
+[Unendlich Treibstoff]
+Type = Gameshark
+Activation = EndFrame
+9003AA04 82AC2400
+

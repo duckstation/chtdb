@@ -1,0 +1,20 @@
+; CHTDB: ; [ Doukyuusei 2 (Japan) (Extra Box) {SLPS-00690} ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+801BDE6A EA60
+
+[All Gallery Unlocked]
+Type = Gameshark
+Activation = EndFrame
+900A87C4 11101110
+900A87C8 11111111
+300A89F3 0010
+300A8A25 0010
+
+[All Menu Select possible]
+Type = Gameshark
+Activation = EndFrame
+800A83E4 1111
+

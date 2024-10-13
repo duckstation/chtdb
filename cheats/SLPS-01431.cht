@@ -1,0 +1,36 @@
+; CHTDB: ; [ Another Memories (Jpn) (1998) (Hearty Robin) {SLPS-01431} <amemorie> ]
+
+[Max Status]
+Type = Gameshark
+Activation = EndFrame
+80099658 6363
+9009965C 0001869F
+90099664 03E703E7
+90099668 03E703E7
+
+[Infinite + Max HP In Battle]
+Type = Gameshark
+Activation = EndFrame
+800A13F0 03E7
+800A13EC 03E7
+
+[Enemy HP in combat 0]
+Type = Gameshark
+Activation = EndFrame
+800A1598 0000
+
+[Title screen DATA BASE appearance]
+Type = Gameshark
+Activation = EndFrame
+3008BFAC 0004
+
+[Album]
+Type = Gameshark
+Activation = EndFrame
+30099A60 0001
+
+[All appearance]
+Type = Gameshark
+Activation = EndFrame
+30099A6E 00FF
+

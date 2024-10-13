@@ -1,0 +1,12 @@
+; CHTDB: ; [ AirRace Championship (Japan) {SLPS-01879} ]
+
+[Infinite Nitros]
+Type = Gameshark
+Activation = EndFrame
+801EAE00 0300
+
+[One Billion Credits]
+Type = Gameshark
+Activation = EndFrame
+801176D2 3FFF
+

@@ -1,0 +1,73 @@
+; CHTDB: ; [ Formula One 99 (Japan) {SCPS-10101} ]
+
+[Only 1 Round To Race In Champ. Mode]
+Type = Gameshark
+Activation = EndFrame
+80010700 0FFF
+
+[Reset Time In Qualifying Round (Press Select)]
+Type = Gameshark
+Activation = EndFrame
+D00CBB8C 0001
+800CCC00 0000
+
+[Max Points With Your Fav Racer\Mika Hakinen]
+Type = Gameshark
+Activation = EndFrame
+80010E5E 00A0
+
+[Max Points With Your Fav Racer\David Coulthard]
+Type = Gameshark
+Activation = EndFrame
+80010E60 00A0
+
+[Max Points With Your Fav Racer\Michael Schumacher]
+Type = Gameshark
+Activation = EndFrame
+80010E62 00A0
+
+[Max Points With Your Fav Racer\Eddie Ervine]
+Type = Gameshark
+Activation = EndFrame
+80010E64 00A0
+
+[Max Points With Your Fav Racer\Ralf Schumacher]
+Type = Gameshark
+Activation = EndFrame
+80010E68 00A0
+
+[Max Points With Your Fav Racer\Damon Hill]
+Type = Gameshark
+Activation = EndFrame
+80010E6A 00A0
+
+[Max Points With Your Fav Racer\H.H. Frentzen]
+Type = Gameshark
+Activation = EndFrame
+80010E6C 00A0
+
+[Max Points With Your Fav Racer\Jean Alesi]
+Type = Gameshark
+Activation = EndFrame
+80010E72 00A0
+
+[Max Points With Your Fav Racer\R. Barrichello]
+Type = Gameshark
+Activation = EndFrame
+80010E7A 00A0
+
+[Max Points With Your Fav Racer\Johnny Herbert]
+Type = Gameshark
+Activation = EndFrame
+80010E7C 00A0
+
+[Max Points With Your Fav Racer\Jacques Villeneuve]
+Type = Gameshark
+Activation = EndFrame
+80010E86 00A0
+
+[Max Points With Your Fav Racer\Mika Salo]
+Type = Gameshark
+Activation = EndFrame
+800A0E8E 00A0
+

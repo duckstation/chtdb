@@ -1,0 +1,72 @@
+; CHTDB: ; [ Project Overkill (Europe) {SLES-00500} ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801EE2C6 0164
+
+[Infinite Ammo Weapon 1]
+Type = Gameshark
+Activation = EndFrame
+801EE2EA 0063
+
+[Infinite Ammo Weapon 2 + 3]
+Type = Gameshark
+Activation = EndFrame
+801EE2EC 0963
+
+[Infinite Ammo Weapon 4]
+Type = Gameshark
+Activation = EndFrame
+301EE2EE 0063
+
+[Scanner Eye]
+Type = Gameshark
+Activation = EndFrame
+801B0830 0101
+
+[Digiprint Hand]
+Type = Gameshark
+Activation = EndFrame
+301B0838 0001
+
+[Green Key]
+Type = Gameshark
+Activation = EndFrame
+301B0832 0001
+
+[Red Key]
+Type = Gameshark
+Activation = EndFrame
+301B0833 0001
+
+[Data Chip]
+Type = Gameshark
+Activation = EndFrame
+301B0837 0001
+
+[Orange Key]
+Type = Gameshark
+Activation = EndFrame
+301B0836 0001
+
+[Blue Key]
+Type = Gameshark
+Activation = EndFrame
+301B0835 0001
+
+[Yellow Key]
+Type = Gameshark
+Activation = EndFrame
+301B0834 0001
+
+[Hermetic Container]
+Type = Gameshark
+Activation = EndFrame
+301B083C 0001
+
+[???-Item]
+Type = Gameshark
+Activation = EndFrame
+301B083D 0001
+

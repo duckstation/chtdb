@@ -1,0 +1,47 @@
+; CHTDB: ; [ Community Pom (Jpn) (1997) (Fill-In CafÃ©) {SLPS-00817} <compom> ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8012C3DC 0008
+8017085D 0008
+
+[Max Energy]
+Type = Gameshark
+Activation = EndFrame
+8012C3DC 03E7
+8017085D 03E7
+
+[Level 99]
+Type = Gameshark
+Activation = EndFrame
+8012C028 0063
+8012C294 0063
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+3012C430 00FF
+
+[Invincibility Alt]
+Type = Gameshark
+Activation = EndFrame
+3012A7E4 00FF
+
+[Infinite + Max LIFE]
+Type = Gameshark
+Activation = EndFrame
+301F57E0 00FF
+301F57E2 00FF
+
+[Infinite Energy 9999]
+Type = Gameshark
+Activation = EndFrame
+8012C3DC 270F
+8012C020 270F
+
+[LEVEL 999]
+Type = Gameshark
+Activation = EndFrame
+8012C028 03E7
+

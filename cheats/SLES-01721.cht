@@ -1,0 +1,48 @@
+; CHTDB: ; [ Street Fighter Collection 2 (Europe) {SLES-01721} ]
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+9016C0B0 00900090
+
+[P2 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+9016C3B8 00900090
+
+[P2 1-Hit-Death]
+Type = Gameshark
+Activation = EndFrame
+A616C3B8 00900001
+A616C3BA 00900001
+
+[Enable SFII TWW Secret]
+Type = Gameshark
+Activation = EndFrame
+8014848A 0001
+
+[Enable SFII CE Secret]
+Type = Gameshark
+Activation = EndFrame
+801484BE 0001
+
+[Enable SFII THF Secret]
+Type = Gameshark
+Activation = EndFrame
+801484F2 0001
+
+[Enable Deluxe Versus]
+Type = Gameshark
+Activation = EndFrame
+80149A1C 0101
+
+[Enable Sound Remix]
+Type = Gameshark
+Activation = EndFrame
+80148456 0001
+
+[Enable CPU Battle]
+Type = Gameshark
+Activation = EndFrame
+8014845A 0001
+

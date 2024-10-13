@@ -1,0 +1,74 @@
+; CHTDB: ; [ Wild Arms (Spain) {SCES-01174} ]
+
+[Rudy Infinite HP In Battle (Only use agains final enemies and deactivate after defeat the enemy or the game will crash)]
+Type = Gameshark
+Activation = EndFrame
+80165E8C 270F
+
+[Jack Infinite HP In Battle (Only use agains final enemies and deactivate after defeat the enemy or the game will crash)]
+Type = Gameshark
+Activation = EndFrame
+80166064 270F
+
+[Cecilia Infinite HP In Battle (Only use agains final enemies and deactivate after defeat the enemy or the game will crash)]
+Type = Gameshark
+Activation = EndFrame
+8016623C 270F
+
+[Rudy\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800DE0F0 270F
+
+[Rudy\Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+800DE0F4 270F
+
+[Jack\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800DE124 270F
+
+[Jack\Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+800DE128 270F
+
+[Cecilia\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800DE158 270F
+
+[Cecilia\Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+800DE15C 270F
+
+[Misc\Infinite Gellas]
+Type = Gameshark
+Activation = EndFrame
+800DE4DC FFFF
+
+[Misc\Freeze Time]
+Type = Gameshark
+Activation = EndFrame
+800DDF58 4612
+
+[Infinite MP In Battle All Characters (Only use agains final enemies and deactivate after defeat the enemy or the game will crash)]
+Type = Gameshark
+Activation = EndFrame
+8009CBDE 2400
+8006ED3E 2400
+80047162 2400
+
+[Max / infinite gella]
+Type = Gameshark
+Activation = EndFrame
+900DE394 0098967F
+
+[No random battles]
+Type = Gameshark
+Activation = EndFrame
+90064678 00000000
+

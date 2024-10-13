@@ -1,0 +1,112 @@
+; CHTDB: ; [ Tomb Raider Chronicles (Europe) {SLES-03331} ]
+
+[Infinite Air]
+Type = Gameshark
+Activation = EndFrame
+8004B670 0708
+
+[Torches burn constantly]
+Type = Gameshark
+Activation = EndFrame
+90049F28 24020020
+
+[Infinite Big medi pak]
+Type = Gameshark
+Activation = EndFrame
+800A73AC 000F
+
+[Select Cutscene! (Press Select & L1)]
+Type = Gameshark
+Activation = EndFrame
+D00A60BA FBFE
+50000204 0002
+800A28A2 FFFE
+
+[All levels Don't select the last three levels, they don't exist. (Press Select & L2)]
+Type = Gameshark
+Activation = EndFrame
+D00A60BA FEFE
+50000204 0000
+800A28A6 0002
+
+[Special features unlocked]
+Type = Gameshark
+Activation = EndFrame
+50000202 0909
+800AD016 0000
+
+[Infinite Ammo all weapons]
+Type = Gameshark
+Activation = EndFrame
+8004886C 04BE
+
+[Infinite Health Streets Of Rome]
+Type = Gameshark
+Activation = EndFrame
+801CB832 03E8
+
+[Infinite Health Trajans Markets]
+Type = Gameshark
+Activation = EndFrame
+801D21A6 03E8
+
+[Infinite Health Collessum]
+Type = Gameshark
+Activation = EndFrame
+801BBA12 03E8
+
+[Infinite Health The Base]
+Type = Gameshark
+Activation = EndFrame
+801D307E 03E8
+
+[Infinite Health The Submarine]
+Type = Gameshark
+Activation = EndFrame
+801D31D2 03E8
+
+[Infinite Health Deapsea Dive]
+Type = Gameshark
+Activation = EndFrame
+80184D42 03E8
+
+[Infinite Health Sinkinig Submarine]
+Type = Gameshark
+Activation = EndFrame
+801D8BEE 03E8
+
+[Infinite Health Gallows Tree]
+Type = Gameshark
+Activation = EndFrame
+801C3AD6 03E8
+
+[Infinite Health Labyrinth]
+Type = Gameshark
+Activation = EndFrame
+801D2C66 03E8
+
+[Infinite Health The Old Mill]
+Type = Gameshark
+Activation = EndFrame
+801C7EAA 03E8
+
+[Infinite Health The 13th Floor]
+Type = Gameshark
+Activation = EndFrame
+801CDEB6 03E8
+
+[Infinite Health Escape With The Iris]
+Type = Gameshark
+Activation = EndFrame
+801CC252 03E8
+
+[Infinite Health Reda Alert]
+Type = Gameshark
+Activation = EndFrame
+801C4DFE 03E8
+
+[Infinite Health Security Breach]
+Type = Gameshark
+Activation = EndFrame
+801C4DFE 03E8
+

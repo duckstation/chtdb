@@ -1,0 +1,32 @@
+; CHTDB: ; [ The King of Fighters '96 (Jpn) (1997) (SNK) {SLPS-00834} <kof96> ]
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8005F08C 0067
+
+[P2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8005F26C 0067
+
+[P2 No Energy]
+Type = Gameshark
+Activation = EndFrame
+8005F26C 0000
+
+[P1 Full Power]
+Type = Gameshark
+Activation = EndFrame
+8005F04A 3F40
+
+[P2 Full Power]
+Type = Gameshark
+Activation = EndFrame
+8005F22A 3F40
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80087984 0060
+

@@ -1,0 +1,43 @@
+; CHTDB: ; [ Susume! Kaizoku - Be Pirates! (Jpn) (1998) (Artdink) {SLPS-01737} <bepirate> ]
+
+[Hero Max Physical fitness]
+Type = Gameshark
+Activation = EndFrame
+90113E04 03E703E7
+
+[Hero Max Attack]
+Type = Gameshark
+Activation = EndFrame
+90113E08 03E703E7
+
+[Hero Max Courage]
+Type = Gameshark
+Activation = EndFrame
+90113E0C 03E703E7
+
+[Hero Max Velocity]
+Type = Gameshark
+Activation = EndFrame
+90113E10 03E703E7
+
+[Hero Max Hit rate]
+Type = Gameshark
+Activation = EndFrame
+90113E14 03E703E7
+
+[Infinite Durability of the ship in artillery duel]
+Type = Gameshark
+Activation = EndFrame
+D0058584 0034
+80058586 1400
+
+[Infinite Damage]
+Type = Gameshark
+Activation = EndFrame
+8019C6BC 010E
+
+[Infinite Damage second ship]
+Type = Gameshark
+Activation = EndFrame
+8019C6BC 0078
+

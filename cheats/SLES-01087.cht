@@ -1,0 +1,32 @@
+; CHTDB: ; [ Forsaken (Germany) {SLES-01087} ]
+
+[Unendlich Bikes]
+Type = Gameshark
+Activation = EndFrame
+300CD140 0009
+
+[Unendlich Nitro]
+Type = Gameshark
+Activation = EndFrame
+80086994 0800
+
+[Unendlich Panzerung]
+Type = Gameshark
+Activation = EndFrame
+80086986 1000
+
+[Unendlich Schilde]
+Type = Gameshark
+Activation = EndFrame
+80086984 1000
+
+[Unendlich Zeit]
+Type = Gameshark
+Activation = EndFrame
+800CB4D8 EA00
+
+[Volle Powerpacks]
+Type = Gameshark
+Activation = EndFrame
+800869B0 0003
+

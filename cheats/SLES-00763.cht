@@ -1,0 +1,63 @@
+; CHTDB: ; [ WCW vs. the World (Europe) {SLES-00763} ]
+
+[P1 Always Have Normal Spirit]
+Type = Gameshark
+Activation = EndFrame
+800CEF54 0032
+
+[P2 Always Have Normal Spirit]
+Type = Gameshark
+Activation = EndFrame
+800CF200 0032
+
+[P1 Have Weak Spirit (Black)]
+Type = Gameshark
+Activation = EndFrame
+800CEF54 0000
+
+[P2 Have Weak Spirit (Black)]
+Type = Gameshark
+Activation = EndFrame
+800CF200 0000
+
+[P1 Have High Spirit (White)]
+Type = Gameshark
+Activation = EndFrame
+800CEF54 0064
+
+[P2 Have High Spirit (White)]
+Type = Gameshark
+Activation = EndFrame
+800CEF54 0064
+
+[Time Always at 00.00]
+Type = Gameshark
+Activation = EndFrame
+800752C2 0000
+
+[Infinite Time to Fight Outside Ring]
+Type = Gameshark
+Activation = EndFrame
+80075290 0000
+8007527E 0000
+
+[P1 When at Normal Spirit,it goes to Weak Spirit (Black)]
+Type = Gameshark
+Activation = EndFrame
+A60CEF54 00320000
+
+[P1 When at Normal Spirit it goes to High Spirit (White)]
+Type = Gameshark
+Activation = EndFrame
+A60CEF54 00340064
+
+[P2 When at Normal Spirit,it goes to Weak Spirit (Black)]
+Type = Gameshark
+Activation = EndFrame
+A60CF200 00320000
+
+[P2 When at Normal Spirit,it goes to High Spirit (White)]
+Type = Gameshark
+Activation = EndFrame
+A60CF200 00340064
+

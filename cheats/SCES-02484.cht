@@ -1,0 +1,42 @@
+; CHTDB: ; [ Muppet RaceMania (Germany) {SCES-02484} ]
+
+[Immer Mega-Boost MöGlich]
+Type = Gameshark
+Activation = EndFrame
+A60C302A 0000015E
+
+[Immer Normaler Boost]
+Type = Gameshark
+Activation = EndFrame
+A60C302A 0000005E
+
+[P1 Volle Punktzahl]
+Type = Gameshark
+Activation = EndFrame
+300C18D8 00FF
+
+[P2 0 Punkte]
+Type = Gameshark
+Activation = EndFrame
+300C18D9 0000
+
+[P3 0 Punkte]
+Type = Gameshark
+Activation = EndFrame
+300C18DA 0000
+
+[P4 0 Punkte]
+Type = Gameshark
+Activation = EndFrame
+300C18DB 0000
+
+[P5 0 Punkte]
+Type = Gameshark
+Activation = EndFrame
+300C18DC 0000
+
+[P6 0 Punkte]
+Type = Gameshark
+Activation = EndFrame
+300C18DD 0000
+

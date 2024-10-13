@@ -1,0 +1,23 @@
+; CHTDB: ; [ Destruction Derby 2 (Jpn) (1997) (SCEI) {SIPS-60012} <dderby2j> ]
+
+[Clear all Stage]
+Type = Gameshark
+Activation = EndFrame
+8007A010 0007
+8007A014 0004
+
+[Maximum score point]
+Type = Gameshark
+Activation = EndFrame
+8009452E 01F4
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800891E8 0000
+800891F0 0000
+80089204 0000
+800891E0 0000
+800891FC 0000
+800891F4 0000
+

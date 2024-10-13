@@ -1,0 +1,19 @@
+; CHTDB: ; [ Menkyo o Torou (Jpn) (2000) (Twilight Express) {SLPS-02685} <menkytor> ]
+
+[Practical Instruction To 100 Points Training Campus]
+Type = Gameshark
+Activation = EndFrame
+801A9CBC 0064
+801AF280 0064
+
+[Training On The Road]
+Type = Gameshark
+Activation = EndFrame
+801AA84C 0064
+801ADF08 0064
+
+[100-point performance department (first / second stage Common)(100 points practical results)]
+Type = Gameshark
+Activation = EndFrame
+301921E0 0064
+

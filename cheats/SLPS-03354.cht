@@ -1,0 +1,37 @@
+; CHTDB: ; [ Zanac x Zanac (Japan) {SLPS-03354} ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800BA748 0002
+
+[Best Firepower]
+Type = Gameshark
+Activation = EndFrame
+800BA724 0006
+
+[Max Super Charge]
+Type = Gameshark
+Activation = EndFrame
+800BA71C 0BB8
+
+[Max Wp Power]
+Type = Gameshark
+Activation = EndFrame
+800BA760 0007
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800BA730 0002
+
+[Original Zanac\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8007B3E8 0002
+
+[Original Zanac\Invincibility]
+Type = Gameshark
+Activation = EndFrame
+8007B3D2 0001
+

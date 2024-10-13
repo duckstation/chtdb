@@ -1,0 +1,22 @@
+; CHTDB: ; [ Sonic Wings Special (Europe) {SLES-04102} ]
+
+[P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80119F74 0003
+
+[P1 Infinite Bombs]
+Type = Gameshark
+Activation = EndFrame
+80119F99 0005
+
+[P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80119FE0 0003
+
+[P2 Infinite Bombs]
+Type = Gameshark
+Activation = EndFrame
+8011A005 0005
+

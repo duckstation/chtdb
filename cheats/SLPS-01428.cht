@@ -1,0 +1,7 @@
+; CHTDB: ; [ JGTC: All Japan Grand Touring Car Championship (Japan) {SLPS-01428} ]
+
+[Maximum Speed]
+Type = Gameshark
+Activation = EndFrame
+800E23CE 000C
+

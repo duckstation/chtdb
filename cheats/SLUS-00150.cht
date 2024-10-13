@@ -1,0 +1,47 @@
+; CHTDB: ; [ The Incredible Hulk - The Pantheon Saga (USA) (1996) (Eidos Interactive) {SLUS-00150} <hulk> ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80087D6C 0039
+
+[Infinite Gamma Energy]
+Type = Gameshark
+Activation = EndFrame
+80088404 0039
+
+[Always Inflict Double Damage]
+Type = Gameshark
+Activation = EndFrame
+800880EC 00C6
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+30087DC8 0001
+
+[Infinite Gamma]
+Type = Gameshark
+Activation = EndFrame
+30087DC8 0002
+
+[Infinite Continues]
+Type = Gameshark
+Activation = EndFrame
+30087DC8 0004
+
+[Infinite Calling Cards]
+Type = Gameshark
+Activation = EndFrame
+30087DC8 0008
+
+[Press Select Skips Level]
+Type = Gameshark
+Activation = EndFrame
+30087DC8 0010
+
+[Start at Position 2]
+Type = Gameshark
+Activation = EndFrame
+30087DC8 0020
+

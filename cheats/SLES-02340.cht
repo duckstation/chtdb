@@ -1,0 +1,27 @@
+; CHTDB: ; [ Thrasher: Skate and Destroy (Europe) {SLES-02340} ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800C4070 0000
+
+[Max Score]
+Type = Gameshark
+Activation = EndFrame
+800B25E4 FFFF
+
+[Each Trick is Worth 4096 Points]
+Type = Gameshark
+Activation = EndFrame
+900C8BC8 24631000
+
+[Damage is Worth 0 Points]
+Type = Gameshark
+Activation = EndFrame
+8008CB2E 0000
+
+[Unlock All Levels]
+Type = Gameshark
+Activation = EndFrame
+800B263C 0B03
+

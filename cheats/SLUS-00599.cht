@@ -1,0 +1,83 @@
+; CHTDB: ; [ WarGames - Defcon 1 (USA) (1998) (MGM Interactive) {SLUS-00599} <wgdefc1> ]
+
+[Infinite Energy Jeep]
+Type = Gameshark
+Activation = EndFrame
+800EF9D4 0500
+
+[Infinite Energy Dragoon Tank]
+Type = Gameshark
+Activation = EndFrame
+800EFA84 1180
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800A9780 2F00
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+800EFAEC 0064
+800EFB9C 0064
+800EFC4C 0064
+800EFA3C 0064
+
+[Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+800EF9D4 1400
+800EFB34 1400
+800EFBE4 1400
+800EFA84 1400
+
+[All Levels (Norad)]
+Type = Gameshark
+Activation = EndFrame
+900AA814 01010101
+900AA818 01010101
+900AA81C 01010101
+800AA820 0101
+
+[All Levels (Wopr)]
+Type = Gameshark
+Activation = EndFrame
+900AA844 01010101
+900AA848 01010101
+900AA84C 01010101
+800AA850 0101
+
+[Infinite Energy For Vehicles]
+Type = Gameshark
+Activation = EndFrame
+800EF37C 0500
+800EF42C 1180
+800EF4DC 1180
+800EF58C 1680
+800EF63C 1400
+800EF6A4 0063
+800EF494 0063
+800EF544 0130
+800EF5F4 0063
+800EF754 0063
+800EF6EC 1680
+800EF3E4 0063
+800EF79C 2580
+800EF804 00C8
+800EF84C 1680
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A70D1450 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A70D1450 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A70D1450 10000400
+

@@ -1,0 +1,37 @@
+; CHTDB: ; [ Fighting Illusion - K-1 Grand Prix '98 (Jpn) (1998) (Xing) {SLPS-01696} <k1gp98> ]
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+900E5738 0C1C0C1C
+
+[P1 Cannot K.O]
+Type = Gameshark
+Activation = EndFrame
+800E5748 0000
+
+[P1 Infinite Punch Power]
+Type = Gameshark
+Activation = EndFrame
+800E573E 012F
+
+[Infinite TP Points At K1 Challenge]
+Type = Gameshark
+Activation = EndFrame
+800A80FE 0299
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A70C6DF0 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A70C6DF0 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A70C6DF0 10000400
+

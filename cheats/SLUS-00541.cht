@@ -1,0 +1,141 @@
+; CHTDB: ; [ Excalibur 2555 A.D. (USA) (1997) (Telstar Electronic Studios) {SLUS-00541} <exc2555> ]
+
+[Level 1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801222E8 1000
+
+[Level 2 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80132688 1000
+
+[Level 3 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80125B98 1000
+
+[Level 4 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80125250 1000
+
+[Level 5 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80111578 1000
+
+[Level 6 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80125450 1000
+
+[Level 7 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80123A08 1000
+
+[Level 8 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801160B8 1000
+
+[Level 9 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80110ABC 1000
+
+[Level 10 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8012D944 1000
+
+[Level 11 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801323EC 1000
+
+[Level 12 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80120F5C 1000
+
+[Level 13 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800E1F80 1000
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+8002853A 2400
+800286DA 2400
+800289FA 2400
+80030F16 2400
+
+[Complete Level (press L1+L2+R1+R2 in-game)]
+Type = Gameshark
+Activation = EndFrame
+D0072E74 0F00
+3007305C 0003
+
+[Select Stage\2]
+Type = Gameshark
+Activation = EndFrame
+3008F4C8 0002
+
+[Select Stage\3]
+Type = Gameshark
+Activation = EndFrame
+3008F4C8 0003
+
+[Select Stage\4]
+Type = Gameshark
+Activation = EndFrame
+3008F4C8 0004
+
+[Select Stage\5]
+Type = Gameshark
+Activation = EndFrame
+3008F4C8 0005
+
+[Select Stage\6]
+Type = Gameshark
+Activation = EndFrame
+3008F4C8 0006
+
+[Select Stage\7]
+Type = Gameshark
+Activation = EndFrame
+3008F4C8 0007
+
+[Select Stage\8]
+Type = Gameshark
+Activation = EndFrame
+3008F4C8 0008
+
+[Select Stage\9]
+Type = Gameshark
+Activation = EndFrame
+3008F4C8 0009
+
+[Select Stage\10]
+Type = Gameshark
+Activation = EndFrame
+3008F4C8 000A
+
+[Select Stage\11]
+Type = Gameshark
+Activation = EndFrame
+3008F4C8 000B
+
+[Select Stage\12]
+Type = Gameshark
+Activation = EndFrame
+3008F4C8 000C
+
+[Select Stage\13]
+Type = Gameshark
+Activation = EndFrame
+3008F4C8 000D
+

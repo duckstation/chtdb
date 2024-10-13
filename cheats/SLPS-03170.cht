@@ -1,0 +1,270 @@
+; CHTDB: ; [ Shin Megami Tensei (Jpn) (2001) (Atlus) {SLPS-03170} <shinmt> ]
+
+[HP currently]
+Type = Gameshark
+Activation = EndFrame
+8010BEE6 03E7
+
+[Max HP]
+Type = Gameshark
+Activation = EndFrame
+8010BEE8 03E7
+
+[MP Currently]
+Type = Gameshark
+Activation = EndFrame
+8010BEEA 03E7
+
+[Max MP]
+Type = Gameshark
+Activation = EndFrame
+8010BEEC 03E7
+
+[HP 999]
+Type = Gameshark
+Activation = EndFrame
+C004C968 1140
+9004C920 240203E7
+9004C928 A4620016
+9004C940 240203E7
+9004C948 A4620018
+00000000 FFFF
+
+[MP 999]
+Type = Gameshark
+Activation = EndFrame
+C004C9C4 1140
+9004C97C 240203E7
+9004C984 A462001A
+9004C9B8 240203E7
+9004C9C0 A462001C
+00000000 FFFF
+
+[HP Auto-Recovery (except during combat)]
+Type = Gameshark
+Activation = EndFrame
+9004C924 0801350B
+9004C928 24050001
+D0120008 0005
+8004C928 0000
+
+[All Stats MAX]
+Type = Gameshark
+Activation = EndFrame
+8004D1C8 0001
+
+[Maximum HP +100]
+Type = Gameshark
+Activation = EndFrame
+8004D8AC 0070
+8004D8B0 0072
+
+[Maximum MP +100]
+Type = Gameshark
+Activation = EndFrame
+8004D940 0068
+
+[Treasure 100% rate available]
+Type = Gameshark
+Activation = EndFrame
+A611A9C0 01890001
+
+[Get Jewel rate 100%]
+Type = Gameshark
+Activation = EndFrame
+D011AD44 0007
+8011AD4A 1000
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+9010CA70 000F423F
+
+[Infinite MAG]
+Type = Gameshark
+Activation = EndFrame
+9010CA74 0001869F
+
+[MAX level in the battle of once]
+Type = Gameshark
+Activation = EndFrame
+A611AEA6 10601460
+
+[Devil analyze all]
+Type = Gameshark
+Activation = EndFrame
+C004C380 0650
+9004C34C 240C00FF
+8004C356 A04C
+00000000 FFFF
+
+[Devil analyze all PAR 2]
+Type = Gameshark
+Activation = EndFrame
+50002001 0000
+3010CD1E 00FF
+
+[Less likely to be random encounter]
+Type = Gameshark
+Activation = EndFrame
+8010CCFA 0000
+
+[Deadly blow press the L1 button only when their own attacks]
+Type = Gameshark
+Activation = EndFrame
+8011CC46 A462
+D00B97FA 0400
+8011CC46 A460
+
+[All Items]
+Type = Gameshark
+Activation = EndFrame
+5000F002 0000
+3010CAD9 0063
+
+[LV99]
+Type = Gameshark
+Activation = EndFrame
+C004D900 3659
+9004D8C0 24030063
+9004D8C4 A263001E
+00000000 FFFF
+
+[Not the devil appeared]
+Type = Gameshark
+Activation = EndFrame
+3010D15C 0080
+
+[Walk through walls (In-field)]
+Type = Gameshark
+Activation = EndFrame
+A7031A4A 10401000
+
+[Walk through walls (Overworld) 'Use d-pad']
+Description = Don't turn code off after it is on. If you must, turn code off and reset the game.
+Type = Gameshark
+Activation = EndFrame
+D7000000 00002000
+800453DE 00002400
+00000000 0000FFFF
+D7000000 00008000
+800453DE 00002400
+00000000 0000FFFF
+D7000000 00001000
+800453DE 00000C01
+00000000 0000FFFF
+D7000000 00004000
+800453DE 00000C01
+00000000 0000FFFF
+D7000000 00001000
+80045EE2 00002400
+00000000 0000FFFF
+D7000000 00004000
+80045EE2 00002400
+00000000 0000FFFF
+D7000000 00002000
+80045EE2 00000C01
+00000000 0000FFFF
+D7000000 00008000
+80045EE2 00000C01
+
+[Equip any item and ignore alignment/amount]
+Type = Gameshark
+Activation = EndFrame
+A711C8AA 10622400
+
+[Be able to unequip cursed items]
+Type = Gameshark
+Activation = EndFrame
+A711C10A 14621000
+
+[Show all equipable items]
+Description = Also allows you to equip without needing to own it
+Type = Gameshark
+Activation = EndFrame
+A704E4BA 10402400
+
+[Fast forward 'Hold L2 + R2']
+Type = Gameshark
+Activation = EndFrame
+A7080A86 24000481
+D7200000 00000003
+A7080A86 04812400
+
+[No random battles V1]
+Type = Gameshark
+Activation = EndFrame
+A703053A 16421000
+A701698A 14621000
+
+[No random battles V2]
+Type = Gameshark
+Activation = EndFrame
+A703053A 16421000
+A7044542 10502400
+
+[Force battle on overworld 'Press L3']
+Type = Gameshark
+Activation = EndFrame
+A703053A 16421000
+D7200000 01000200
+A7044542 10501000
+
+[Avoid traps]
+Type = Gameshark
+Activation = EndFrame
+A7032492 10401000
+
+[Disable reverb]
+Type = Gameshark
+Activation = EndFrame
+A707E772 10401000
+
+[Change midi 1]
+Type = Gameshark
+Activation = EndFrame
+A707E742 10402400
+
+[Change midi 2]
+Type = Gameshark
+Activation = EndFrame
+A707C5D2 10401000
+
+[Change midi 3]
+Type = Gameshark
+Activation = EndFrame
+A707C132 18402400
+
+[Hide overlays]
+Type = Gameshark
+Activation = EndFrame
+A701A75E 0C022400
+A7024866 0C002400
+A70247B2 0C002400
+
+[Party battle text takes on background]
+Type = Gameshark
+Activation = EndFrame
+A7020A7A 0C002400
+
+[Force talking with uninterested demons]
+Type = Gameshark
+Activation = EndFrame
+A71196E2 14402400
+A7054462 14402400
+
+[Select Alignment level\Law]
+Type = Gameshark
+Activation = EndFrame
+3010BF33 0000
+
+[Select Alignment level\Neutral]
+Type = Gameshark
+Activation = EndFrame
+3010BF33 0080
+
+[Select Alignment level\Chaos]
+Type = Gameshark
+Activation = EndFrame
+3010BF33 00FF
+

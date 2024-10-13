@@ -1,0 +1,26 @@
+; CHTDB: ; [ The Conveni: Ano Machi o Dokusen seyo (Japan) {SLPS-00782} ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+900CD9F8 77359400
+
+[Staff Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80036F14 0018
+
+[Checkout supply and security]
+Type = Gameshark
+Activation = EndFrame
+8003AA68 6464
+
+[Max Status 100% in customer service, security and cleaning supplies(Conditions - After some work)]
+Type = Gameshark
+Activation = EndFrame
+9003AA68 34026464
+9003AA6C A4A2001E
+9003AA70 A4A20020
+9003AA74 A0A20022
+9003AA7C 0800EC98
+

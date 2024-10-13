@@ -1,0 +1,92 @@
+; CHTDB: ; [ Animetic Story Game 1: Card Captor Sakura (Japan) {SLPS-01830 | SLPS-01831} ]
+
+[All mini-games can be selected]
+Type = Gameshark
+Activation = EndFrame
+8008E74E 01FF
+
+[All voice data can be selected]
+Type = Gameshark
+Activation = EndFrame
+9008E7CC FFFFFFFF
+9008E7D0 FFFFFFFF
+9008E7D4 FFFFFFFF
+9008E7D8 FFFFFFFF
+9008E7DC FFFFFFFF
+9008E7E0 FFFFFFFF
+9008E7E4 FFFFFFFF
+9008E7E8 FFFFFFFF
+9008E80C FFFFFFFF
+9008E810 FFFFFFFF
+9008E814 FFFFFFFF
+9008E818 FFFFFFFF
+9008E81C FFFFFFFF
+9008E820 FFFFFFFF
+9008E824 FFFFFFFF
+9008E828 FFFFFFFF
+
+[All design data can be selected]
+Type = Gameshark
+Activation = EndFrame
+9008E7F4 FFFFFFFF
+9008E7F8 FFFFFFFF
+8008E7FC FFFF
+9008E834 FFFFFFFF
+9008E838 FFFFFFFF
+8008E83C FFFF
+
+[All Movie Gallery selectable]
+Type = Gameshark
+Activation = EndFrame
+8008E7EC FFFF
+9008E82C FFFFFFFF
+
+[Selectable Tamotsu Saku Yannoenikki nowhere]
+Type = Gameshark
+Activation = EndFrame
+8008E7F0 FFFF
+8008E830 FFFF
+
+[All sound data can be selected]
+Type = Gameshark
+Activation = EndFrame
+9008E800 FFFFFFFF
+9008E840 FFFFFFFF
+
+[Sakura coin MAX (9999)]
+Type = Gameshark
+Activation = EndFrame
+9008E990 0001116F
+
+[All Picture diary]
+Type = Gameshark
+Activation = EndFrame
+3008E830 00FF
+3008E831 003F
+
+[Voice data all]
+Type = Gameshark
+Activation = EndFrame
+50002001 0000
+3008E80C 00FF
+
+[All movie data]
+Type = Gameshark
+Activation = EndFrame
+50000301 0000
+3008E82C 00FF
+3008E82F 000F
+
+[Sound data all]
+Type = Gameshark
+Activation = EndFrame
+3008E840 00FF
+3008E841 00FF
+3008F842 007F
+
+[Design data all]
+Type = Gameshark
+Activation = EndFrame
+50000901 0000
+3008E834 00FF
+

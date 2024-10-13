@@ -1,0 +1,8 @@
+; CHTDB: ; [ Puchi Carat (Europe) {SLES-02070} ]
+
+[All Stages Open]
+Type = Gameshark
+Activation = EndFrame
+800690D8 0202
+300690DA 0002
+

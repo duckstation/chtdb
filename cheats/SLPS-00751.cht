@@ -1,0 +1,33 @@
+; CHTDB: ; [ Running High (Jpn) (1997) (REX Entertainment) {SLPS-00751} <runhigh> ]
+
+[Max Speed]
+Type = Gameshark
+Activation = EndFrame
+8006E8DA AFFF
+
+[Infinite Check Point Time]
+Type = Gameshark
+Activation = EndFrame
+800E47A8 0046
+
+[Always First]
+Type = Gameshark
+Activation = EndFrame
+8006E910 0000
+
+[Finish The Race Immediately - Press Select]
+Type = Gameshark
+Activation = EndFrame
+D00E50A0 0100
+800803AC 0003
+
+[Unlock All Characters]
+Type = Gameshark
+Activation = EndFrame
+800800A0 000A
+
+[Unlock All Courses]
+Type = Gameshark
+Activation = EndFrame
+8008009C 0007
+

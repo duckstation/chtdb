@@ -1,0 +1,43 @@
+; CHTDB: ; [ Astérix (Europe) {SLES-01416} ]
+
+[Infinite Potions Distribution]
+Type = Gameshark
+Activation = EndFrame
+D011F966 0008
+8018B4A6 2400
+D0120E1E 0008
+8018C95E 2400
+D011E4AE 0008
+80189FEE 2400
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800832BC 0050
+
+[Always have roman thrown meter full (Throw the roman stage)]
+Type = Gameshark
+Activation = EndFrame
+801BCD28 FFFF
+
+[Invincibility (Action Scenes) Character Flash]
+Type = Gameshark
+Activation = EndFrame
+800832B0 000F
+
+[Invincibility (Roman attacks) Character Flash]
+Type = Gameshark
+Activation = EndFrame
+D00341F0 0095
+800341F2 1000
+
+[Infinite Wing Power]
+Type = Gameshark
+Activation = EndFrame
+8007F69C 0063
+
+[Unlock Cheat Mode]
+Type = Gameshark
+Activation = EndFrame
+8007EAA8 0001
+

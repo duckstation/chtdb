@@ -1,0 +1,53 @@
+; CHTDB: ; [ Moon: Remix RPG Adventure (Japan) {SLPS-01031} ]
+
+[Infinite Hearts]
+Type = Gameshark
+Activation = EndFrame
+90111990 0621FE90
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+801119A4 7530
+
+[All Monster helped]
+Type = Gameshark
+Activation = EndFrame
+301118C8 00FF
+301118C9 00FF
+301118CA 00FF
+301118CB 00FF
+301118CC 00FF
+301118CD 00FF
+301118CE 00FF
+
+[All Map of the world]
+Type = Gameshark
+Activation = EndFrame
+3011193F 00FF
+
+[Clock]
+Type = Gameshark
+Activation = EndFrame
+80111980 013F
+
+[Love level Max]
+Type = Gameshark
+Activation = EndFrame
+3011198C 001E
+
+[Action limit]
+Type = Gameshark
+Activation = EndFrame
+80111992 08FF
+
+[All Moon DiskS]
+Type = Gameshark
+Activation = EndFrame
+30111B9F 00FF
+
+[Debug Room use the code before the Love-de-lic logo vanishes at the beginning and you'll end up in a mini-debug room. Perhaps the most interesting thing is that there's an earlier version of the player's sprite at the top of the room. Talking to anyone in the room will give you the option of starting the game at different areas, although it barely covers the full game and is only some select areas.]
+Type = Gameshark
+Activation = EndFrame
+80111610 0065
+

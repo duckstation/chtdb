@@ -1,0 +1,17 @@
+; CHTDB: ; [ Chess (USA) (2001) (Agetec / A1 Games) {SLUS-01400} <chess> ]
+
+[Always Low Time]
+Type = Gameshark
+Activation = EndFrame
+80079BFC 1856
+
+[Enable all boards]
+Type = Gameshark
+Activation = EndFrame
+3004DDD6 0006
+
+[Enable all peices]
+Type = Gameshark
+Activation = EndFrame
+3004DDD7 0006
+

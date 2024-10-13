@@ -1,0 +1,81 @@
+; CHTDB: ; [ Robin Lloyd no Daibouken (Jpn) (2000) (Gust) {SLPS-02501} <robin> ]
+
+[Infinite Energy Crocodiles]
+Type = Gameshark
+Activation = EndFrame
+800AC8D0 00B8
+800AC8E4 00B8
+800AC930 00B8
+
+[Infinite Energy Rocks In Pyramid]
+Type = Gameshark
+Activation = EndFrame
+80071FE4 00C8
+80071FF8 00C8
+800C0AFE 00C8
+
+[Infinite Energy shooting in pyramid]
+Type = Gameshark
+Activation = EndFrame
+800AC0B4 00C8
+
+[Infinite Energy in fight with the tank]
+Type = Gameshark
+Activation = EndFrame
+800B114C 00C8
+
+[Bonus appearance]
+Type = Gameshark
+Activation = EndFrame
+300A8B4A 0001
+
+[The invincible! / Defeat the enemy attacked]
+Type = Gameshark
+Activation = EndFrame
+800ABDB0 00FF
+
+[The invincible! / Hirake its way to defeat the robot]
+Type = Gameshark
+Activation = EndFrame
+300AC7E4 00FF
+
+[The invincible! / Hirake its way to defeat the enemy]
+Type = Gameshark
+Activation = EndFrame
+300ACAF8 00FF
+
+[The physical fitness! / Hirake its way to defeat the robot]
+Type = Gameshark
+Activation = EndFrame
+300AD1EC 00B8
+
+[Hirake its way to defeat the robot! / Strength of the enemy 0]
+Type = Gameshark
+Activation = EndFrame
+300AD1EE 0000
+
+[The physical fitness! / Crush the submarine]
+Type = Gameshark
+Activation = EndFrame
+300AE81C 00B8
+
+[Crush the submarine! / Strength of the enemy 0]
+Type = Gameshark
+Activation = EndFrame
+300AE81E 0000
+
+[Destroy the tanks! / Strength of the enemy 0]
+Type = Gameshark
+Activation = EndFrame
+300B114E 0000
+
+[The invincible! / Case forward to shade the megalithic]
+Type = Gameshark
+Activation = EndFrame
+900C0AF8 00200102
+
+[The physical fitness! / Case forward to shade the megalithic]
+Type = Gameshark
+Activation = EndFrame
+300C0AFE 00C8
+

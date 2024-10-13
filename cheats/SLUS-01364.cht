@@ -1,0 +1,25 @@
+; CHTDB: ; [ Nickelodeon Rugrats - Totally Angelica (USA) (2001) (THQ) {SLUS-01364} <rugtotan> ]
+
+[Infinite Time In Fluffy's Maze]
+Type = Gameshark
+Activation = EndFrame
+80136DE0 4500
+
+[Extra Points]
+Type = Gameshark
+Activation = EndFrame
+801DC3CE 1388
+
+[Unlock All Floors (Go To 6th Floor To See Ending)]
+Type = Gameshark
+Activation = EndFrame
+801DC3CA 0006
+
+[Unlock All Fashion Items]
+Type = Gameshark
+Activation = EndFrame
+50000304 0000
+801DC3D4 FFFF
+50000804 0000
+801DC3E0 FFFF
+

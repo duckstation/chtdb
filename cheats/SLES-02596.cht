@@ -1,0 +1,48 @@
+; CHTDB: ; [ Fisherman's Bait 2: Big Ol' Bass (Europe) {SLES-02596} ]
+
+[Every Fish Caught Will Weigh 9999G]
+Type = Gameshark
+Activation = EndFrame
+80124BE2 270F
+8012C542 270F
+
+[Infinite Time 999]
+Type = Gameshark
+Activation = EndFrame
+800C0D4D 03E7
+
+[Y-Screen-Fix]
+Type = Gameshark
+Activation = EndFrame
+800744DC 0000
+
+[Infinite Time For Mode Select]
+Type = Gameshark
+Activation = EndFrame
+800C10B0 3C00
+
+[Adjust Text-Scroll-Speed In Mode Select-Menu With Left And Right]
+Type = Gameshark
+Activation = EndFrame
+E0120571 0010
+200578D0 0001
+E0120571 0040
+210578D0 0001
+
+[Freeze Timer With L2]
+Type = Gameshark
+Activation = EndFrame
+D0120570 0001
+800677B8 0000
+
+[Activate Timer With L1]
+Type = Gameshark
+Activation = EndFrame
+D0120570 0004
+800677B8 FFFF
+
+[Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+800C0B90 0009
+

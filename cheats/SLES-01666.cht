@@ -1,0 +1,7 @@
+; CHTDB: ; [ Hugo (Europe) {SLES-01666} ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800EA0E4 0003
+

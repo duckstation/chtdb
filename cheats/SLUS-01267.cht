@@ -1,0 +1,12 @@
+; CHTDB: ; [ Inspector Gadget - Gadget's Crazy Maze (USA) (2001) (Ubi Soft Entertainment Software) {SLUS-01267} <gadgmaze> ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801A3E14 0063
+
+[Unlock All Levels]
+Type = Gameshark
+Activation = EndFrame
+80064A24 FFFF
+

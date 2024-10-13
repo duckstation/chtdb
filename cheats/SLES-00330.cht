@@ -1,0 +1,32 @@
+; CHTDB: ; [ Spot Goes to Hollywood (Europe) {SLES-00330} ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8005EA64 0003
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80062FE8 0009
+
+[Have 99 spots]
+Type = Gameshark
+Activation = EndFrame
+80062EF0 0063
+
+[All 5 Stars Collected]
+Type = Gameshark
+Activation = EndFrame
+80062E88 001F
+
+[Have Cool Option Open]
+Type = Gameshark
+Activation = EndFrame
+30062C08 0001
+
+[Have All Levels Open In Cool Option]
+Type = Gameshark
+Activation = EndFrame
+3004E0B6 0001
+

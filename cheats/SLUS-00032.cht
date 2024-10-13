@@ -1,0 +1,52 @@
+; CHTDB: ; [ Top Gun - Fire at Will! (USA) (1996) (Spectrum Holobyte) {SLUS-00032} <topgun> ]
+
+[Infinite Standerd Missiles]
+Type = Gameshark
+Activation = EndFrame
+801CFECA 0032
+
+[Infinite U238 Missiles]
+Type = Gameshark
+Activation = EndFrame
+801CFEBE 0007
+
+[Infinite Mirv Missiles]
+Type = Gameshark
+Activation = EndFrame
+801CFEC0 0007
+
+[Infinite Surefire Missiles]
+Type = Gameshark
+Activation = EndFrame
+801CFEBC 0032
+
+[Infinite Agms]
+Type = Gameshark
+Activation = EndFrame
+801CFECC 0032
+
+[Infinite Nuke Missiles]
+Type = Gameshark
+Activation = EndFrame
+801CFEC8 0032
+
+[Infinite Lame Missiles]
+Type = Gameshark
+Activation = EndFrame
+801CFEC2 0032
+
+[Infinite Hard Missiles]
+Type = Gameshark
+Activation = EndFrame
+801CFEC4 0032
+
+[Infinite Boss Misiles]
+Type = Gameshark
+Activation = EndFrame
+801CFEC6 0032
+
+[Infinite Null Missiles]
+Type = Gameshark
+Activation = EndFrame
+801CFECE 0032
+

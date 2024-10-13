@@ -1,0 +1,24 @@
+; CHTDB: ; [ Q*bert (Europe) {SLES-02214} ]
+
+[Adventure Mode\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+30142D65 0003
+
+[Adventure Mode\Max Score]
+Type = Gameshark
+Activation = EndFrame
+80142D5A 0001
+
+[Adventure Mode\Unlock All Levels & Max Score]
+Type = Gameshark
+Activation = EndFrame
+50003504 0000
+801420CC FFFF
+
+[Classic Mode\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+E010F5F0 0002
+3010F5F0 0003
+

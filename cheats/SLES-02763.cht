@@ -1,0 +1,23 @@
+; CHTDB: ; [ SnoCross Championship Racing aka Sno-Cross Championship Racing (Europe) {SLES-02763} ]
+
+[Unlock everything]
+Type = Gameshark
+Activation = EndFrame
+301FB1FC 0007
+
+[Start on last lap / place 1st]
+Type = Gameshark
+Activation = EndFrame
+D012DBC2 8011
+8012DBEA 0002
+
+[Have 9999 money]
+Type = Gameshark
+Activation = EndFrame
+801FB774 270F
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+8012DE74 1333
+

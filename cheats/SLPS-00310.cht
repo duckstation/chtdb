@@ -1,0 +1,12 @@
+; CHTDB: ; [ Captain Tsubasa J - Get in the Tomorrow (Jpn) (1996) (Bandai) {SLPS-00310} <ctsubaj> ]
+
+[Score 99]
+Type = Gameshark
+Activation = EndFrame
+800DB4E8 0063
+
+[Time]
+Type = Gameshark
+Activation = EndFrame
+800B4AFC 0050
+

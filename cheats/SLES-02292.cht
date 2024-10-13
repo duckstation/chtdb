@@ -1,0 +1,64 @@
+; CHTDB: ; [ Premier Manager 2000 (Europe) {SLES-02292} ]
+
+[Have Over 1 Billion Cash\Barnet]
+Type = Gameshark
+Activation = EndFrame
+90110008 540BE3FF
+
+[Have Over 1 Billion Cash\Chester]
+Type = Gameshark
+Activation = EndFrame
+80110FFA E3FF
+80110FFC 540B
+
+[Have Over 1 Billion Cash\Exeter]
+Type = Gameshark
+Activation = EndFrame
+901117F0 540BE3FF
+
+[Have Over 1 Billion Cash\Halifax]
+Type = Gameshark
+Activation = EndFrame
+90111BEC 540BE3FF
+
+[Have Over 1 Billion Cash\Hull]
+Type = Gameshark
+Activation = EndFrame
+901123E4 540BE3FF
+
+[Have Over 1 Billion Cash\Lincoln]
+Type = Gameshark
+Activation = EndFrame
+90112BDC 540BE3FF
+
+[Have Over 1 Billion Cash\Mansfield]
+Type = Gameshark
+Activation = EndFrame
+901133D4 540BE3FF
+
+[Have Over 1 Billion Cash\Northampton]
+Type = Gameshark
+Activation = EndFrame
+901137D0 540BE3FF
+
+[Have Over 1 Billion Cash\Rotherham]
+Type = Gameshark
+Activation = EndFrame
+901147C0 540BE3FF
+
+[Have Over 1 Billion Cash\Southend]
+Type = Gameshark
+Activation = EndFrame
+801137D2 E3FF
+801137D4 540B
+
+[Have Over 1 Billion Cash\Torquay]
+Type = Gameshark
+Activation = EndFrame
+901157B0 540BE3FF
+
+[Have Over 1 Billion Cash\York]
+Type = Gameshark
+Activation = EndFrame
+90115BAC 540BE3FF
+

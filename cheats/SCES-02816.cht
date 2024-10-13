@@ -1,0 +1,12 @@
+; CHTDB: ; [ Chase the Express: El Expreso de la Muerte (Spain) (Platinum) {SCES-02816 | SCES-12816} ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80010402 1000
+
+[Infinite Ammo (Si se usa corrompe el objeto y pasa a ser botiquin)]
+Type = Gameshark
+Activation = EndFrame
+80010460 0064
+

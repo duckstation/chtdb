@@ -1,0 +1,63 @@
+; CHTDB: ; [ Tony Hawk's Pro Skater 3 (Germany) {SLES-03647} ]
+
+[Bekomme viele Punkte für jeden Trick]
+Type = Gameshark
+Activation = EndFrame
+D006787A AE00
+8006787C 4E20
+D006787A AE00
+8006787E 2442
+
+[Bekomme immer Topwertung (Drücke L1 & L2 & Oben)]
+Type = Gameshark
+Activation = EndFrame
+D00C2236 FAEF
+50000302 03E8
+800C3836 0000
+
+[Alle Gaps geschafft Giesserei]
+Type = Gameshark
+Activation = EndFrame
+900BD9EC FFFFFFFF
+800BD9F0 FFFF
+300BD9F2 000F
+
+[Alle Gaps geschafft Los Angeles]
+Type = Gameshark
+Activation = EndFrame
+900BD9F8 7FFFFFFF
+
+[Alle Gaps geschafft Rio de Janeiro]
+Type = Gameshark
+Activation = EndFrame
+900BDA04 9FFFFFFF
+
+[Alle Gaps geschafft Vorstadt]
+Type = Gameshark
+Activation = EndFrame
+800BDA10 FFFF
+300BDA12 003F
+
+[Alle Gaps geschafft Flughafen]
+Type = Gameshark
+Activation = EndFrame
+900BDA1C FFFFFFFF
+300BDA20 0001
+
+[Alle Gaps geschafft Skater Island]
+Type = Gameshark
+Activation = EndFrame
+900BDA28 FFFFFFFF
+300BDA2C 0007
+
+[Alle Gaps geschafft Kanada]
+Type = Gameshark
+Activation = EndFrame
+800BDA34 7FFF
+
+[Alle Gaps geschafft Tokio]
+Type = Gameshark
+Activation = EndFrame
+800BDA40 FFFF
+300BDA42 003F
+

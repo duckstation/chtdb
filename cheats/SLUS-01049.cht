@@ -1,0 +1,17 @@
+; CHTDB: ; [ Family Game Pack (USA) (2000) (The 3DO Company) {SLUS-01049} <famgampk> ]
+
+[Max Money (Casino Games)]
+Type = Gameshark
+Activation = EndFrame
+801C3894 0090
+
+[Max Score (Money)]
+Type = Gameshark
+Activation = EndFrame
+901C3894 3400FFFF
+
+[Max Credits (Slots)]
+Type = Gameshark
+Activation = EndFrame
+801C387C E0FF
+

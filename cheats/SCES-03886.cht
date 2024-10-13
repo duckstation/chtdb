@@ -1,0 +1,13 @@
+; CHTDB: ; [ Formula One Arcade (Europe) {SCES-03886} ]
+
+[Extra Time - Press x & Up]
+Type = Gameshark
+Activation = EndFrame
+D00B800A BFEF
+300B6E19 0017
+
+[Unlock Pro Mode (Choose championship mode, if it doesn't appear on the screen quit and re enter championship mode)]
+Type = Gameshark
+Activation = EndFrame
+80010D08 0001
+

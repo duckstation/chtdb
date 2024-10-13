@@ -1,0 +1,108 @@
+; CHTDB: ; [ WipEout 3 (USA) (1999) (Psygnosis) {SLUS-00865} <wipeout3> ]
+
+[Play game at 2x Speed]
+Type = Gameshark
+Activation = EndFrame
+801784D0 0001
+
+[P1 Infinite Checkpoint Time]
+Type = Gameshark
+Activation = EndFrame
+9018D1C8 00001347
+
+[P2 Infinite Checkpoint Time]
+Type = Gameshark
+Activation = EndFrame
+9018D558 00001356
+
+[P1 Always First]
+Type = Gameshark
+Activation = EndFrame
+3018CEE5 0001
+
+[P2 Always First]
+Type = Gameshark
+Activation = EndFrame
+3018D275 0001
+
+[P1 Max Points In Tournament]
+Type = Gameshark
+Activation = EndFrame
+80186B80 0FFF
+
+[P2 Max Points In Tournament]
+Type = Gameshark
+Activation = EndFrame
+80186B84 0FFF
+
+[P1 Overall Time is 0.00.00]
+Type = Gameshark
+Activation = EndFrame
+901F60B4 00000000
+
+[P2 Overall Time is 0.00.00]
+Type = Gameshark
+Activation = EndFrame
+901F6220 00000000
+
+[P1 Lap Time is 0.00.00]
+Type = Gameshark
+Activation = EndFrame
+901F60D0 00000000
+
+[P2 Lap Time is 0.00.00]
+Type = Gameshark
+Activation = EndFrame
+901F623C 00000000
+
+[P1 Infinite Shield Energy]
+Type = Gameshark
+Activation = EndFrame
+801E4D70 0000
+801E4DAC 0000
+801E4E54 0000
+
+[P2 Infinite Shield Energy]
+Type = Gameshark
+Activation = EndFrame
+801E4D74 0000
+801E4DB0 0000
+801E4E58 0000
+
+[Enable All Tracks + Teams]
+Type = Gameshark
+Activation = EndFrame
+30186845 0001
+80186846 0101
+30186848 0001
+30186855 0001
+80186856 0101
+30186858 0001
+8018685E 0101
+80186860 0101
+8018686E 0101
+80186870 0101
+30186877 0001
+80186878 0101
+3018687A 0001
+30186887 0001
+80186888 0101
+3018688A 0101
+90186890 01010101
+901868A0 01010101
+
+[Enable Phantom Class]
+Type = Gameshark
+Activation = EndFrame
+3018688B 0001
+
+[Enable Rapier Class]
+Type = Gameshark
+Activation = EndFrame
+301869FA 0001
+
+[Enable Venom Class]
+Type = Gameshark
+Activation = EndFrame
+301869F1 0001
+

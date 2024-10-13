@@ -1,0 +1,17 @@
+; CHTDB: ; [ Simple 1500 Series vol.63 - The Gun Shooting 2 (Jpn) (2001) (D3 Publisher) {SLPM-86816} <ss063gn2> ]
+
+[Have 999999 coins]
+Type = Gameshark
+Activation = EndFrame
+90056EBC 000F423F
+
+[P1 has 99 hits in story mode Level 1]
+Type = Gameshark
+Activation = EndFrame
+8014E72C 0063
+
+[P2 has 99 hits in story mode Level 1]
+Type = Gameshark
+Activation = EndFrame
+8014E730 0063
+

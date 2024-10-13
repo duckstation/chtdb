@@ -1,0 +1,26 @@
+; CHTDB: ; [ Disney Dinosaurio (Spain) {SLES-02894} ]
+
+[Infinite Energy Flia]
+Type = Gameshark
+Activation = EndFrame
+800E2B4C 03E7
+800619E8 03E7
+
+[Infinite Energy Zini]
+Type = Gameshark
+Activation = EndFrame
+80061970 03E7
+800DD850 03E7
+
+[Infinite Energy Aladar (Don't use this cheat until you can control Aladar or the game won't continue)]
+Type = Gameshark
+Activation = EndFrame
+800619AC 03E7
+800E2D10 03E7
+800619A8 03E7
+
+[Infinite Fruits]
+Type = Gameshark
+Activation = EndFrame
+80061440 03E7
+

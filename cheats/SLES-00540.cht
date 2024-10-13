@@ -1,0 +1,40 @@
+; CHTDB: ; [ Wing Over (Europe) {SLES-00540} ]
+
+[Infinite Rockets]
+Type = Gameshark
+Activation = EndFrame
+8009ED26 03E7
+
+[Infinite Weapons]
+Type = Gameshark
+Activation = EndFrame
+8009ED24 03E7
+
+[Damage = 0]
+Type = Gameshark
+Activation = EndFrame
+8009ED30 0000
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+900939E4 FFFFFFFF
+
+[Unlock All Planes]
+Type = Gameshark
+Activation = EndFrame
+3009BC72 0001
+
+[Survival mode 99 Kills]
+Type = Gameshark
+Activation = EndFrame
+8009ED6E 0063
+
+[Debug ModE On the main menu, press L1+R1 and then press Circle to enter Debug 1 On the main menu, press L2+R2 and then press Circle to enter Debug 2]
+Type = Gameshark
+Activation = EndFrame
+D00F3DF4 000C
+3000E254 0003
+D00F3DF4 0003
+3000E254 0004
+

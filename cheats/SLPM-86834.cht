@@ -1,0 +1,53 @@
+; CHTDB: ; [ Afraid Gear Another (Jpn) (2001) (Office Create) {SLPM-86834} <afragean> ]
+
+[Infinite Money (99000000)]
+Type = Gameshark
+Activation = EndFrame
+90079648 05E69EC0
+
+[Infinite Body Energy]
+Type = Gameshark
+Activation = EndFrame
+800CD1C0 0FA0
+
+[P2 out of fuel Press Select]
+Type = Gameshark
+Activation = EndFrame
+D00703A8 0100
+800C7656 0000
+
+[Mortal blow]
+Type = Gameshark
+Activation = EndFrame
+A6095732 00460000
+
+[P1 BODY 9999]
+Type = Gameshark
+Activation = EndFrame
+800C74E6 270F
+
+[P1 LARM 9999]
+Type = Gameshark
+Activation = EndFrame
+800C74E8 270F
+
+[P1 RARM 9999]
+Type = Gameshark
+Activation = EndFrame
+800C74EA 270F
+
+[P1 LEG 9999]
+Type = Gameshark
+Activation = EndFrame
+800C74EC 270F
+
+[P1 FUEL 9999]
+Type = Gameshark
+Activation = EndFrame
+800C74EE 270F
+
+[P1 HEAT 0]
+Type = Gameshark
+Activation = EndFrame
+800C74F6 0000
+

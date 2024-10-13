@@ -1,0 +1,7 @@
+; CHTDB: ; [ Namco Tennis Smash Court (Europe) {SCES-00263} ]
+
+[Rival Score Always 0]
+Type = Gameshark
+Activation = EndFrame
+80099D1C 0000
+

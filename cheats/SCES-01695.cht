@@ -1,0 +1,13 @@
+; CHTDB: ; [ Disney's Mulan: Story Studio aka Disney's Mulan: Animated Storybook (Europe) {SCES-01695} ]
+
+[Infinite Rope]
+Type = Gameshark
+Activation = EndFrame
+D0033FC6 8FB1
+301AA970 0019
+
+[P1 Majhong Score 99]
+Type = Gameshark
+Activation = EndFrame
+3003756C 0063
+

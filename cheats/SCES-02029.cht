@@ -1,0 +1,60 @@
+; CHTDB: ; [ Ape Escape (Germany) (Platinum) {SCES-02029} ]
+
+[Unangreifbar]
+Type = Gameshark
+Activation = EndFrame
+80062CC8 0000
+
+[Unendlich Kekse]
+Type = Gameshark
+Activation = EndFrame
+800EC2E8 0005
+
+[Unendlich Leben]
+Type = Gameshark
+Activation = EndFrame
+800F44B4 0064
+
+[Unendlich Luft]
+Type = Gameshark
+Activation = EndFrame
+800F4DE8 0258
+
+[99 Energie-Chips]
+Type = Gameshark
+Activation = EndFrame
+A60F44E0 00000063
+
+[Ein Affe reicht, um Level zu beenden]
+Type = Gameshark
+Activation = EndFrame
+800F44DE 00CE
+
+[Besitze alle Geräte]
+Type = Gameshark
+Activation = EndFrame
+D00F51E4 0003
+300F51E4 00FF
+
+[Alle Spectar-Müzen]
+Type = Gameshark
+Activation = EndFrame
+D00F51E4 0003
+300F51E4 00FF
+
+[Alle Level geschafft/anwählbar]
+Type = Gameshark
+Activation = EndFrame
+50000602 0202
+800DFC90 0000
+800DFCA4 0202
+300DFCA6 0002
+300DFCA8 0002
+300DFCAE 0002
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+D004689A 2484
+800AF170 0C00
+

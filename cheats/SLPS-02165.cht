@@ -1,0 +1,13 @@
+; CHTDB: ; [ Mighty Hits Special (Japan) (Pop Collection 1280 Yen) {SLPS-02165} ]
+
+[P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800F0600 0005
+
+[Infinite Times (Press R2)]
+Type = Gameshark
+Activation = EndFrame
+D00E2BF8 0002
+800E4768 0007
+

@@ -1,0 +1,108 @@
+; CHTDB: ; [ Super Robot Taisen Alpha Gaiden (Japan) {SLPS-03148} ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+90073168 0098967F
+
+[After 1 Battle, Level Max]
+Type = Gameshark
+Activation = EndFrame
+A60B58EC 00020001
+
+[Infinite En]
+Type = Gameshark
+Activation = EndFrame
+D00B8600 1823
+800B8602 0060
+D00B8686 1821
+800B8688 0060
+D00B8CB8 1023
+800B8CBA 0060
+
+[Bs Full]
+Type = Gameshark
+Activation = EndFrame
+80073175 0000
+
+[Infinite Energy Poseidon]
+Type = Gameshark
+Activation = EndFrame
+8013FFC0 270F
+8013FD0A 270F
+
+[Infinite Energy Getter 1]
+Type = Gameshark
+Activation = EndFrame
+80140368 270F
+801400B2 270F
+
+[Infinite Energy Dragon]
+Type = Gameshark
+Activation = EndFrame
+8016617F 270F
+8013F962 270F
+
+[Infinite Energy Liger]
+Type = Gameshark
+Activation = EndFrame
+80140EE2 270F
+80141198 270F
+
+[Infinite Energy Gundam Sandrock Custom]
+Type = Gameshark
+Activation = EndFrame
+8014128A 270F
+80141540 270F
+
+[Infinite Energy Qubeley Mk-Ii]
+Type = Gameshark
+Activation = EndFrame
+80141632 270F
+801418E8 270F
+
+[Infinite Energy Daitarn 3]
+Type = Gameshark
+Activation = EndFrame
+8013F8F2 270F
+8013FBA8 270F
+
+[Infinite Energy Zz Gundam]
+Type = Gameshark
+Activation = EndFrame
+80140792 270F
+80140A48 270F
+
+[Mortal blow Press SEL + L2 - deadly blow]
+Type = Gameshark
+Activation = EndFrame
+D005EA9C 0101
+800C2EDA 0000
+D005EA9C 0102
+800C2EDA 0060
+
+[Sound select fully open]
+Type = Gameshark
+Activation = EndFrame
+A70F1B9E 10401400
+
+[Character encyclopedia fully open]
+Type = Gameshark
+Activation = EndFrame
+A70EC766 10401400
+
+[Robot Encyclopedia fully open]
+Type = Gameshark
+Activation = EndFrame
+A70EEEA2 10401400
+
+[Demo select fully open]
+Type = Gameshark
+Activation = EndFrame
+A70E9B9E 10401400
+
+[Scenario Select 01-4D]
+Type = Gameshark
+Activation = EndFrame
+80073170 004D
+

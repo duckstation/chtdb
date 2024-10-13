@@ -1,0 +1,65 @@
+; CHTDB: ; [ Ronin Blade (Europe) {SLES-02094} ]
+
+[English Codes\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+30098338 00FA
+
+[English Codes\Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+3009833D 00FA
+
+[English Codes\Infinite Exp]
+Type = Gameshark
+Activation = EndFrame
+300BD290 00FF
+
+[English Codes\Infinite Items/Ammo (After Pick Up)]
+Type = Gameshark
+Activation = EndFrame
+50000E02 0000
+3009987F 00FF
+
+[Deutsche Codes\Unendlich Hp]
+Type = Gameshark
+Activation = EndFrame
+30098300 00FA
+
+[Deutsche Codes\Unendlich Mp]
+Type = Gameshark
+Activation = EndFrame
+30098305 00FA
+
+[Deutsche Codes\Unendlich Exp]
+Type = Gameshark
+Activation = EndFrame
+300BD258 00FF
+
+[Deutsche Codes\Unendlich GegenstäNde/Munition (Nach Aufnahme)]
+Type = Gameshark
+Activation = EndFrame
+50000E02 0000
+30099847 00FF
+
+[FrançAis Codes\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+300982E0 00FA
+
+[FrançAis Codes\Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+300982E5 00FA
+
+[FrançAis Codes\Infinite Exp]
+Type = Gameshark
+Activation = EndFrame
+300BD238 00FF
+
+[FrançAis Codes\Infinite Items/Ammo (After Pick Up)]
+Type = Gameshark
+Activation = EndFrame
+50000E02 0000
+30099827 00FF
+

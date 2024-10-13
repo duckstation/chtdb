@@ -1,0 +1,18 @@
+; CHTDB: ; [ Beatmania - featuring Dreams Come True (Jpn) (2000) (Konami) {SLPM-86597 (VX198-J1)} <bmdct> ]
+
+[P1 Max Groove Gauge]
+Type = Gameshark
+Activation = EndFrame
+8009F9DC 15F0
+
+[P2 Max Groove Gauge]
+Type = Gameshark
+Activation = EndFrame
+8009F9DE 15F0
+
+[Unlock All Songs + Modes]
+Type = Gameshark
+Activation = EndFrame
+50000302 0000
+80094044 0000
+

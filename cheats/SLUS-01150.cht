@@ -1,0 +1,22 @@
+; CHTDB: ; [ Grudge Warriors (USA) (2000) (Take-Two Interactive Software) {SLUS-01150} <grudgewr> ]
+
+[Infinite Power + Ammo]
+Type = Gameshark
+Activation = EndFrame
+8002CA9E 2400
+
+[All Tokens Found]
+Type = Gameshark
+Activation = EndFrame
+800B2DBC 0000
+
+[All Generators Destroyed]
+Type = Gameshark
+Activation = EndFrame
+800B2DC0 0000
+
+[Max Total Tokens]
+Type = Gameshark
+Activation = EndFrame
+800B2DC4 FFFF
+

@@ -1,0 +1,12 @@
+; CHTDB: ; [ Cosmic Race (Jpn) (1995) (Neorex) {SLPS-00009} <cosmicrc> ]
+
+[Always 90 seconds course out]
+Type = Gameshark
+Activation = EndFrame
+801B3D0C 0708
+
+[Time is always 0]
+Type = Gameshark
+Activation = EndFrame
+801B3D8C 0000
+

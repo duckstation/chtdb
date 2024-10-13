@@ -1,0 +1,33 @@
+; CHTDB: ; [ Crime Crackers (Japan) {SCPS-10003} ]
+
+[Infinite & Max Health Character 1 (Brown Hair Girl)]
+Type = Gameshark
+Activation = EndFrame
+90010264 03E703E7
+
+[Infinite & Max Health Character 2 (Bull)]
+Type = Gameshark
+Activation = EndFrame
+8001027A 03E7
+8001027C 03E7
+
+[Infinite & Max Health Character 3 (Blonde Girl)]
+Type = Gameshark
+Activation = EndFrame
+90010290 03E703E7
+
+[Infinite Gun Bullets]
+Type = Gameshark
+Activation = EndFrame
+8001002C 012C
+
+[Infinite Bombs]
+Type = Gameshark
+Activation = EndFrame
+80010030 0003
+
+[Infinite Gold]
+Type = Gameshark
+Activation = EndFrame
+80010040 270F
+

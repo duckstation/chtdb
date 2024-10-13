@@ -1,0 +1,50 @@
+; CHTDB: ; [ 007 - The World Is Not Enough (USA) (2000) (Electronic Arts) {SLUS-01272, SLUS-01272GH} <007twine> ]
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+30073D3D 0001
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+80073A04 0001
+30073D3A 0001
+
+[All Cheats Unlocked]
+Type = Gameshark
+Activation = EndFrame
+8001F16A FFFF
+
+[All Weapons]
+Type = Gameshark
+Activation = EndFrame
+30073D38 0001
+
+[Unlock All Missions + Movies]
+Type = Gameshark
+Activation = EndFrame
+50001A01 0000
+3001F2D2 0001
+
+[Unlock Secret Win Game Movie]
+Type = Gameshark
+Activation = EndFrame
+8001F28E 0002
+
+[Walk through Walls/Courier]
+Type = Gameshark
+Activation = EndFrame
+A7075CAA 10401000
+;Need to look at the other levels
+;King's Ransom
+;Cold Reception
+;Russian Roulette
+;Night Watch
+;Masquerade
+;Flashpoint
+;City of Walkways
+;Turncoat
+;Fallen Angel
+;Meltdown
+

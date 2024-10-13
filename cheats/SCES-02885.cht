@@ -1,0 +1,58 @@
+; CHTDB: ; [ Grind Session (Europe, Australia) {SCES-02885} ]
+
+[Max points 99999]
+Type = Gameshark
+Activation = EndFrame
+900A3F18 0001869F
+
+[*All tricks inserted (Press Select & L1)]
+Type = Gameshark
+Activation = EndFrame
+D00B1EE6 FBFE
+3008F08C 0004
+
+[Training mode boards & Master Ao unlocked]
+Type = Gameshark
+Activation = EndFrame
+3009ED84 0076
+
+[Da Banks 5	Have key (East mansion accessable)]
+Type = Gameshark
+Activation = EndFrame
+3009F738 0001
+
+[S.F. Mission Have key]
+Type = Gameshark
+Activation = EndFrame
+3009F73C 0001
+
+[Burnside Have key]
+Type = Gameshark
+Activation = EndFrame
+3009F740 0001
+
+[Slam City Jam Have key]
+Type = Gameshark
+Activation = EndFrame
+3009F744 0001
+
+[Atlanta Have key (West mansion accessable)]
+Type = Gameshark
+Activation = EndFrame
+3009F748 0001
+
+[London Have key]
+Type = Gameshark
+Activation = EndFrame
+3009F74c 0001
+
+[Detrioit Have key]
+Type = Gameshark
+Activation = EndFrame
+3009F750 0001
+
+[Huntington Have Key]
+Type = Gameshark
+Activation = EndFrame
+3009F754 0001
+

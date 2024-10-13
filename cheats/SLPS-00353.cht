@@ -1,0 +1,12 @@
+; CHTDB: ; [ Block Kuzushi: Deden no Gyakushuu (Japan) {SLPS-00353} ]
+
+[Score is 9999999]
+Type = Gameshark
+Activation = EndFrame
+901C8B58 0098967F
+
+[Infinite Lives (99)]
+Type = Gameshark
+Activation = EndFrame
+301C8B83 0063
+

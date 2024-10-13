@@ -1,0 +1,19 @@
+# Spyro the Dragon (USA)
+[60 FPS (Beta)]
+Type = Gameshark
+Activation = EndFrame
+Description = Patches the game to render at 60fps, instead of 30fps.
+OverrideCPUOverclock = 200
+
+90012238 24020001
+80012244 0001
+8001A374 0001
+8001A3A8 0001
+8001D684 0001
+8001D6B8 0001
+8001E1A8 0001
+8001E1DC 0001
+8001E624 0001
+8001E658 0001
+8001F0C4 0001
+8001F0F8 0001

@@ -1,0 +1,172 @@
+; CHTDB: ; [ Silhouette Mirage (USA) (1999) (Working Designs) {SLUS-00728B, SLUS-00728C} <silhouet> ]
+
+[Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+8013FDA4 03E7
+
+[Infinite Health Stage 1-1]
+Type = Gameshark
+Activation = EndFrame
+8013FD94 012C
+
+[Infinite Health Stage 1-2]
+Type = Gameshark
+Activation = EndFrame
+8013BFAC 012C
+
+[Infinite Health Stage 1-3]
+Type = Gameshark
+Activation = EndFrame
+80136F1C 012C
+
+[No Health Boss]
+Type = Gameshark
+Activation = EndFrame
+80128F5C 0000
+
+[Infinite Health Stage 2-1]
+Type = Gameshark
+Activation = EndFrame
+8014F514 012C
+
+[Infinite Health Stage 2-2]
+Type = Gameshark
+Activation = EndFrame
+8015466C 012C
+
+[Infinite Health Stage 3-1]
+Type = Gameshark
+Activation = EndFrame
+801325D4 012C
+
+[Infinite Health Stage 3-2]
+Type = Gameshark
+Activation = EndFrame
+801277FC 012C
+
+[Infinite Health Stage 3-3]
+Type = Gameshark
+Activation = EndFrame
+8013033C 012C
+
+[Infinite Health Stage 3-4]
+Type = Gameshark
+Activation = EndFrame
+8013A1EC 012C
+
+[Infinite Health Stage 3-5]
+Type = Gameshark
+Activation = EndFrame
+8012F574 012C
+
+[Infinite Health Stage 4-1]
+Type = Gameshark
+Activation = EndFrame
+801324E4 012C
+
+[Infinite Health Stage 4-2]
+Type = Gameshark
+Activation = EndFrame
+8011DFDC 012C
+
+[Infinite Health Stage 4-3]
+Type = Gameshark
+Activation = EndFrame
+8012A74C 012C
+
+[Infinite Health Stage 4-4]
+Type = Gameshark
+Activation = EndFrame
+80125674 012C
+
+[Infinite Health Stage 5-2-A]
+Type = Gameshark
+Activation = EndFrame
+8012623C 012C
+
+[No Health Spider Mini-Boss]
+Type = Gameshark
+Activation = EndFrame
+801271BC 0000
+
+[Infinite Health Stage 5-2-B]
+Type = Gameshark
+Activation = EndFrame
+8012C874 012C
+
+[Infinite Health Stage 5-3]
+Type = Gameshark
+Activation = EndFrame
+8011C12C 012C
+
+[Infinite Health Stage 6-2]
+Type = Gameshark
+Activation = EndFrame
+8013807C 012C
+
+[Infinite Health Stage 6-3]
+Type = Gameshark
+Activation = EndFrame
+801446C4 012C
+
+[Infinite Health Stage 6-4]
+Type = Gameshark
+Activation = EndFrame
+8012AB5C 012C
+
+[Stop Time Before Core Blows]
+Type = Gameshark
+Activation = EndFrame
+80128AA0 1C2F
+
+[Infinite Health Stage 7-1]
+Type = Gameshark
+Activation = EndFrame
+801578CC 012C
+
+[No Health Boss 7-1]
+Type = Gameshark
+Activation = EndFrame
+8015814C 0000
+
+[Infinite Health Stage 7-3]
+Type = Gameshark
+Activation = EndFrame
+80128ADC 012C
+
+[Infinite Health Stage 7-4]
+Type = Gameshark
+Activation = EndFrame
+801578CC 012C
+
+[No Health Boss 7-4]
+Type = Gameshark
+Activation = EndFrame
+80157F4C 0000
+
+[Infinite Health Restore World Boss Stage]
+Type = Gameshark
+Activation = EndFrame
+801484E4 012C
+
+[No Health Boss Restore World Boss Stage]
+Type = Gameshark
+Activation = EndFrame
+80148964 0000
+
+[Full Physical Gauge]
+Type = Gameshark
+Activation = EndFrame
+8013FD94 012C
+
+[Full Spirit Gauge]
+Type = Gameshark
+Activation = EndFrame
+8013FD98 012C
+
+[All Options + Secret Mode Enabled]
+Type = Gameshark
+Activation = EndFrame
+8001002A FFFF
+

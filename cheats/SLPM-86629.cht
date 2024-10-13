@@ -1,0 +1,37 @@
+; CHTDB: ; [ Power Shovel ni Norou!! (Jpn) (2000) (Taito) {SLPM-86629 (TCPS10031)} <pwrshovlj> ]
+
+[Max money]
+Type = Gameshark
+Activation = EndFrame
+900CB6A8 FF04FFFF
+
+[Money in hand]
+Type = Gameshark
+Activation = EndFrame
+900CBDF0 3B9AC9FF
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800EED94 0BB0
+
+[Max Point]
+Type = Gameshark
+Activation = EndFrame
+800C3810 0064
+
+[Contact deduction 0]
+Type = Gameshark
+Activation = EndFrame
+8013CED0 0000
+
+[Other deductions 0]
+Type = Gameshark
+Activation = EndFrame
+8013CED4 0000
+
+[Total score Max]
+Type = Gameshark
+Activation = EndFrame
+8013CEDC 0064
+

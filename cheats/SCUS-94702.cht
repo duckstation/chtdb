@@ -1,0 +1,85 @@
+; CHTDB: ; [ Beyond the Beyond (USA) (1996) (Sony Computer Entertainment America) {SCUS-94702} <beyond> ]
+
+; Modify Character Stats
+[Character Stats\All Party Members Have 999 Health (VP)]
+Type = Gameshark
+Activation = EndFrame
+801149D4 03E7
+80114A5C 03E7
+80114AE4 03E7
+80114B6C 03E7
+80114BF4 03E7
+80114C7C 03E7
+80114D04 03E7
+80114D8C 03E7
+
+[Character Stats\All Party Members Have 999 MP]
+Type = Gameshark
+Activation = EndFrame
+801149D0 03E7
+80114A58 03E7
+80114AE0 03E7
+80114B68 03E7
+80114BF0 03E7
+80114C78 03E7
+80114D00 03E7
+80114D88 03E7
+
+[Character Stats\All Party Members Have 999 Attack]
+Type = Gameshark
+Activation = EndFrame
+801149D8 03E7
+80114A60 03E7
+80114AE8 03E7
+80114B70 03E7
+80114BF8 03E7
+80114C80 03E7
+80114D08 03E7
+80114D90 03E7
+
+[Character Stats\All Party Members Have 999 Defense]
+Type = Gameshark
+Activation = EndFrame
+801149DC 03E7
+80114A64 03E7
+80114AEC 03E7
+80114B74 03E7
+80114BFC 03E7
+80114C84 03E7
+80114D0C 03E7
+80114D94 03E7
+
+[Character Stats\All Party Members Have 999 Speed]
+Type = Gameshark
+Activation = EndFrame
+801149E0 03E7
+80114A68 03E7
+80114AF0 03E7
+80114B78 03E7
+80114C00 03E7
+80114C88 03E7
+80114D10 03E7
+80114D98 03E7
+; Misc. Cheats
+
+[Money\Max Gold]
+Type = Gameshark
+Activation = EndFrame
+90103884 1869F
+; Random Encounters
+
+[Random Enemy Encounters\No Random Encounters]
+Type = Gameshark
+Activation = EndFrame
+801FFE02 0100
+
+[Random Enemy Encounters\Frequent Random Encounters]
+Type = Gameshark
+Activation = EndFrame
+801FFE02 1400
+
+[Random Enemy Encounters\Always Random Encounters]
+Type = Gameshark
+Activation = EndFrame
+801FFE02 2000
+

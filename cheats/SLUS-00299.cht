@@ -1,0 +1,12 @@
+; CHTDB: ; [ Tecmo World Golf - Japan (USA) (1996) (Tecmo) {SLUS-00299} <tecmowgj> ]
+
+[Only One Shot Recorded]
+Type = Gameshark
+Activation = EndFrame
+800DEC44 0001
+
+[Shot's Score 2]
+Type = Gameshark
+Activation = EndFrame
+80028764 0002
+

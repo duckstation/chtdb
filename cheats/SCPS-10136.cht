@@ -1,0 +1,68 @@
+; CHTDB: ; [ Kou Kidou Gensou - Gunparade March (Jpn) (2000) (SCEI) {SCPS-10136} <gunparad> ]
+
+[Infiite + Max hp]
+Type = Gameshark
+Activation = EndFrame
+80104604 270F
+80104608 270F
+
+[Infinite + Max mp]
+Type = Gameshark
+Activation = EndFrame
+80104614 270F
+80104618 270F
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+90104628 0001869F
+
+[Kinetic force 9999]
+Type = Gameshark
+Activation = EndFrame
+8010460C 270F
+
+[Intelligence 9999]
+Type = Gameshark
+Activation = EndFrame
+80104610 270F
+
+[Charm 9999]
+Type = Gameshark
+Activation = EndFrame
+8010461C 270F
+
+[Morale 9999]
+Type = Gameshark
+Activation = EndFrame
+80104620 270F
+
+[Say 99999]
+Type = Gameshark
+Activation = EndFrame
+90104624 0001869F
+
+[Each skill in level 3]
+Type = Gameshark
+Activation = EndFrame
+901045C8 03030303
+901045CC 03030303
+901045D0 03030303
+901045D4 03030303
+901045D8 03030303
+901045DC 03030303
+
+[Medal awarded]
+Type = Gameshark
+Activation = EndFrame
+901045E4 01010101
+901045E8 01010101
+901045EC 01010101
+901045F0 01010101
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+D00DBA36 0083
+800DBA63 0080
+

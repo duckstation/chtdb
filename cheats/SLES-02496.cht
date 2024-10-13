@@ -1,0 +1,32 @@
+; CHTDB: ; [ Vandal Hearts II (Spain) {SLES-02496} ]
+
+[Infinite HP Joshua]
+Type = Gameshark
+Activation = EndFrame
+901DF24C 03E703E7
+
+[Infinite HP Yuri]
+Type = Gameshark
+Activation = EndFrame
+901DF34C 03E703E7
+
+[Infinite HP Clive]
+Type = Gameshark
+Activation = EndFrame
+901DF2CC 03E703E7
+
+[Infinite HP Rosaly]
+Type = Gameshark
+Activation = EndFrame
+901DF9CC 03E703E7
+
+[Infinite HP Nicola]
+Type = Gameshark
+Activation = EndFrame
+901DF84C 03E703E7
+
+[Infinite Money (60000)]
+Type = Gameshark
+Activation = EndFrame
+801D1118 EA60
+

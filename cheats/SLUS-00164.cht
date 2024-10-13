@@ -1,0 +1,97 @@
+; CHTDB: ; [ Area 51 (USA, v1.0) (1996) (Atari Interactive) {SLUS-00164} <area51a> ]
+
+[P1 Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+8006D034 0008
+
+[P1 Always Healthy]
+Type = Gameshark
+Activation = EndFrame
+8006D058 000A
+
+[P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8006D060 0005
+
+[P1 Infinite Grenades]
+Type = Gameshark
+Activation = EndFrame
+8006D038 0001
+
+[P1 Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+80069124 0009
+
+[P1 Always Have Auto Shot Gun]
+Type = Gameshark
+Activation = EndFrame
+8006D044 0003
+
+[P2 Always Have Auto Shot Gun]
+Type = Gameshark
+Activation = EndFrame
+8006D0F0 0003
+
+[P2 Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+8006D0E0 0008
+
+[P2 Always Healthy]
+Type = Gameshark
+Activation = EndFrame
+8006D104 000A
+
+[P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8006D10C 0005
+
+[P2 Infinite Grenades]
+Type = Gameshark
+Activation = EndFrame
+8006D0E4 0001
+
+[P2 Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+80069126 0009
+
+[P1 9 Lives]
+Type = Gameshark
+Activation = EndFrame
+8006CF62 0009
+
+[P1 9 Credits]
+Type = Gameshark
+Activation = EndFrame
+8006CFC6 0009
+
+[P2 9 Lives]
+Type = Gameshark
+Activation = EndFrame
+8006CF64 0009
+
+[P2 9 Credits]
+Type = Gameshark
+Activation = EndFrame
+8006CFC8 0009
+
+[Game Looping is On]
+Type = Gameshark
+Activation = EndFrame
+3006CFCA 0001
+
+[Gore is On]
+Type = Gameshark
+Activation = EndFrame
+8006CFCC 0101
+
+[Secret Rooms Are On]
+Type = Gameshark
+Activation = EndFrame
+3006CFCB 0000
+

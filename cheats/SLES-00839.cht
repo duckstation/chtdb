@@ -1,0 +1,17 @@
+; CHTDB: ; [ Oddworld: Abe's Oddysee (Germany) (Platinum) {SLES-00839} ]
+
+[Der Entkommenen Mudokons 200]
+Type = Gameshark
+Activation = EndFrame
+80082270 012C
+
+[Opfer = 0]
+Type = Gameshark
+Activation = EndFrame
+8008226E 0000
+
+[Sofortige ÜBernahme]
+Type = Gameshark
+Activation = EndFrame
+8008213C FFFF
+

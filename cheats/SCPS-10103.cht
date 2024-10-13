@@ -1,0 +1,26 @@
+; CHTDB: ; [ Robbit mon Dieu (Japan) {SCPS-10103} ]
+
+[Start Game With 65535 Kiwi's]
+Type = Gameshark
+Activation = EndFrame
+80010808 FFFF
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+801B4E3C 1388
+
+[Have 13 Ghost killed]
+Type = Gameshark
+Activation = EndFrame
+800DCA74 000D
+
+[Unlock All Extras]
+Type = Gameshark
+Activation = EndFrame
+80010EE4 0030
+30010F4D 00FF
+80010F60 0005
+80010F64 FFFF
+80010F68 FFFF
+

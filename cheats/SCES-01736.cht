@@ -1,0 +1,94 @@
+; CHTDB: ; [ NHL FaceOff 99 (Europe) {SCES-01736} ]
+
+[Select Home Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+800D4BE0 0000
+
+[Select Away Team Score\9]
+Type = Gameshark
+Activation = EndFrame
+800D4BDE 0009
+
+[Select Away Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+800D4BDE 0000
+
+[Character Creation Codes\Max Skating Press Right+L2+R2+O to activate]
+Type = Gameshark
+Activation = EndFrame
+D00DAB20 2023
+D2121EA4 0063
+80121EA4 0063
+
+[Character Creation Codes\Max Speed Press Right+L2+R2+O to activate]
+Type = Gameshark
+Activation = EndFrame
+D00DAB20 2023
+D2121F40 0063
+80121F40 0063
+
+[Character Creation Codes\Max Slapshot Power Press Right+L2+R2+O to activate]
+Type = Gameshark
+Activation = EndFrame
+D00DAB20 2023
+D2121FDC 0063
+80121FDC 0063
+
+[Character Creation Codes\Max Shooting Accuracy Press Right+L2+R2+O to activate]
+Type = Gameshark
+Activation = EndFrame
+D00DAB20 2023
+D2122078 0063
+80122078 0063
+
+[Character Creation Codes\Max Passing Ability Press Right+L2+R2+O to activate]
+Type = Gameshark
+Activation = EndFrame
+D00DAB20 2023
+D2122114 0063
+80122114 0063
+
+[Character Creation Codes\Max Puck Handling Press Right+L2+R2+O to activate]
+Type = Gameshark
+Activation = EndFrame
+D00DAB20 2023
+D21221B0 0063
+801221B0 0063
+
+[Character Creation Codes\Max Endurance Press Right+L2+R2+O to activate]
+Type = Gameshark
+Activation = EndFrame
+D00DAB20 2023
+D212224C 0063
+8012224C 0063
+
+[Character Creation Codes\Mac Aggression Press Right+L2+R2+O to activate]
+Type = Gameshark
+Activation = EndFrame
+D00DAB20 2023
+D21222E8 0063
+801222E8 0063
+
+[Character Creation Codes\Max Checking Press Right+L2+R2+O to activate]
+Type = Gameshark
+Activation = EndFrame
+D00DAB20 2023
+D2122384 0063
+80122384 0063
+
+[Character Creation Codes\Max Wrist Shot Power Press Right+L2+R2+O to activate]
+Type = Gameshark
+Activation = EndFrame
+D00DAB20 2023
+D2122420 0063
+80122420 0063
+
+[Character Creation Codes\Max Fighting Press Right+L2+R2+O to activate]
+Type = Gameshark
+Activation = EndFrame
+D00DAB20 2023
+D21224BC 0063
+801224BC 0063
+

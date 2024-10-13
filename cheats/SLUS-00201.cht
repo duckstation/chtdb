@@ -1,0 +1,83 @@
+; CHTDB: ; [ Williams Arcade's Greatest Hits (USA) (1996) (Williams Entertainment) {SLUS-00201} <arcadegh> ]
+
+[Defender 1\P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801BA1C8 0200
+
+[Defender 1\P1 Infinite Smart Bombs]
+Type = Gameshark
+Activation = EndFrame
+801BA1CA 0301
+
+[Defender 1\P2 Infinite Smart Bombs]
+Type = Gameshark
+Activation = EndFrame
+801BAC08 0A03
+
+[Defender 1\P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801BA206 0103
+
+[Defender 2\P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801BBDDE 0120
+
+[Defender 2\P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801BBE1C 0300
+
+[Defender 2\P1 Infinite Smart Bombs]
+Type = Gameshark
+Activation = EndFrame
+801BBDE0 0301
+
+[Defender 2\P1 Invincibility]
+Type = Gameshark
+Activation = EndFrame
+801BBDE0 1E00
+
+[Defender 2\P2 Infinite Smart Bombs]
+Type = Gameshark
+Activation = EndFrame
+801BBE1E 0301
+
+[Defender 2\P2 Invincibility]
+Type = Gameshark
+Activation = EndFrame
+801BBE20 0A1E
+
+[Joust\P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+901BA050 00050400
+
+[Joust\P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801BA05A 0400
+801BA05C 0005
+
+[Robotron 2084\P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801BBDEC 0102
+
+[Robotron 2084\P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801BBE28 0103
+
+[Sinistar\P1 Infinite Sinibombs]
+Type = Gameshark
+Activation = EndFrame
+801BA012 0900
+
+[Sinistar\P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801B9FFC 0003
+

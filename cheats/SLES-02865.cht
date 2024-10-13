@@ -1,0 +1,40 @@
+; CHTDB: ; [ X-Men: Mutant Academy (Europe) {SLES-02865} ]
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8009FDD4 BB80
+
+[P1 Infinite counter-attacks]
+Type = Gameshark
+Activation = EndFrame
+3009FEB8 0000
+
+[Only needs 1 win]
+Type = Gameshark
+Activation = EndFrame
+D009FEA0 0000
+3009FEA0 0001
+
+[P2 Infinite Heakth]
+Type = Gameshark
+Activation = EndFrame
+800A03A8 BB80
+
+[P2 Sudden Dewath]
+Type = Gameshark
+Activation = EndFrame
+D10A03A8 B400
+800A03A8 0000
+
+[Unlock Everything At Cerebro All training 100 % and ranking A]
+Type = Gameshark
+Activation = EndFrame
+50000A62 0000
+800BCD58 0064
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+80095918 1333
+

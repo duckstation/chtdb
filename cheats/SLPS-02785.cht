@@ -1,0 +1,114 @@
+; CHTDB: ; [ Persona 2: Batsu: Eternal Punishment (Japan) (Deluxe Pack) {SLPS-02785 | SLPS-02786} ]
+
+[Money 99999999]
+Type = Gameshark
+Activation = EndFrame
+90081C88 05F5E0FF
+
+[Infinite HP in combat]
+Type = Gameshark
+Activation = EndFrame
+900BCDE0 08002800
+9000A000 00401021
+9000A004 0C02F379
+
+[All items in possession]
+Type = Gameshark
+Activation = EndFrame
+D00A273A 0C01
+800A2734 0063
+D00A273A 0C01
+800A2736 2406
+
+[All cards MAX]
+Type = Gameshark
+Activation = EndFrame
+50008702 0000
+80081EC4 03E7
+
+[LV99 When you battle once]
+Type = Gameshark
+Activation = EndFrame
+A60DAACA 14401040
+
+[Rank up to use once Persona]
+Type = Gameshark
+Activation = EndFrame
+D00B95AE 2463
+800B95AC 00FF
+
+[Tarot all]
+Type = Gameshark
+Activation = EndFrame
+50001602 0000
+80081EC6 03E7
+
+[Materials all]
+Type = Gameshark
+Activation = EndFrame
+50002002 0000
+80081EF4 03E7
+
+[Magic all]
+Type = Gameshark
+Activation = EndFrame
+50004902 0000
+80081F36 03E7
+
+[In'nosensu all]
+Type = Gameshark
+Activation = EndFrame
+50000502 0000
+80081FC8 03E7
+
+[Accessories? All]
+Type = Gameshark
+Activation = EndFrame
+50003701 0000
+30081D0F 0063
+
+[Armor all]
+Type = Gameshark
+Activation = EndFrame
+50001B01 0000
+30081E6A 0063
+
+[Hat all]
+Type = Gameshark
+Activation = EndFrame
+50001301 0000
+30081E3D 0063
+
+[All weapons]
+Type = Gameshark
+Activation = EndFrame
+50000E01 0000
+30081E15 0063
+
+[Boots all]
+Type = Gameshark
+Activation = EndFrame
+50001301 0000
+30081E97 0063
+
+[Map fully open effect appears by looking at the map]
+Type = Gameshark
+Activation = EndFrame
+D00AF000 5F98
+800AF018 00FF
+D00AF000 5F98
+800AF01A 2403
+D00AF000 5F98
+800AF026 A083
+
+[EXTRA DUNGEON appearance , use the Code, make a save. When launching the game with the saved data, the option "EXTRA DUNGEON" appears in the title menu.]
+Type = Gameshark
+Activation = EndFrame
+30082135 000F
+
+[EXTRA DUNGEON clear benefits all]
+Type = Gameshark
+Activation = EndFrame
+30082163 00FB
+30082164 00FF
+

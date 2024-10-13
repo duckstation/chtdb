@@ -1,0 +1,47 @@
+; CHTDB: ; [ Sangoku Musou (Japan) {SLPS-00731} ]
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800B3A00 00C8
+
+[P2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800B4370 00C8
+
+[P1 No Energy]
+Type = Gameshark
+Activation = EndFrame
+800B3A00 0000
+
+[P2 No Energy]
+Type = Gameshark
+Activation = EndFrame
+800B4370 0000
+
+[P1 Maximum Power Bar]
+Type = Gameshark
+Activation = EndFrame
+900B3A10 00800080
+
+[P2 Maximum Power Bar]
+Type = Gameshark
+Activation = EndFrame
+900B4380 00800080
+
+[P1 No Power Bar]
+Type = Gameshark
+Activation = EndFrame
+900B3A10 00000000
+
+[P2 No Power Bar]
+Type = Gameshark
+Activation = EndFrame
+900B4380 00000000
+
+[All military commander appearance]
+Type = Gameshark
+Activation = EndFrame
+800B8E3C FFFF
+

@@ -1,0 +1,41 @@
+; CHTDB: ; [ Disney/Pixar A Bug's Life: Megaminimondo (Italy) {SCES-01522} ]
+
+[GodMode]
+Type = Gameshark
+Activation = EndFrame
+90048CB4 00000000
+90048CBC 34627FFF
+
+[All letters always taken]
+Type = Gameshark
+Activation = EndFrame
+300A8CA2 000F
+
+[All levels unlocked]
+Type = Gameshark
+Activation = EndFrame
+30082404 000F
+
+[Always have 50 grains]
+Type = Gameshark
+Activation = EndFrame
+300A8CA1 0032
+
+[Always have killed all insects with the gold berry]
+Type = Gameshark
+Activation = EndFrame
+800A8C8E 0000
+
+[Always have purple berry]
+Type = Gameshark
+Activation = EndFrame
+800A8C96 0403
+
+[Always have super jump power + machine collect beans L1 button activate Circle button to deactivate]
+Type = Gameshark
+Activation = EndFrame
+D00891BA FBFF
+300A8C90 00A0
+D00891BA DFFF
+300A8C90 0000
+

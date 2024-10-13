@@ -1,0 +1,23 @@
+; CHTDB: ; [ Tom Clancy's Rainbow Six - Rogue Spear (USA) (2001) (Red Storm Entertainment) {SLUS-01108} <rainb6rs> ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+D00A2958 09F9
+800A295A 2400
+D00A2974 09F9
+800A2976 2400
+D00A298C 09F9
+800A298E 2400
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+D00A9C80 0049
+800A9C82 2400
+
+[Unlock All Levels (Save Game)]
+Type = Gameshark
+Activation = EndFrame
+8009340E 0011
+

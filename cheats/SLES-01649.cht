@@ -1,0 +1,174 @@
+; CHTDB: ; [ Tomb Raider III: Adventures of Lara Croft (Europe) {SLES-01649} ]
+
+[Have All Weapons/Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+800A62D2 0001
+
+[Infinite Air]
+Type = Gameshark
+Activation = EndFrame
+80098E4E 0708
+
+[Have all levels when loading a saved game]
+Type = Gameshark
+Activation = EndFrame
+A606DC64 08210003
+A606DC66 00342402
+
+[Infinite Large medipacks]
+Type = Gameshark
+Activation = EndFrame
+80097214 00FF
+
+[Infinite Small medipacks]
+Type = Gameshark
+Activation = EndFrame
+80097216 00FF
+
+[Infinite Savegame crystals]
+Type = Gameshark
+Activation = EndFrame
+80097218 00FF
+
+[Flares burn eternally]
+Type = Gameshark
+Activation = EndFrame
+80098E5E 0050
+
+[All secrets / levels]
+Type = Gameshark
+Activation = EndFrame
+800A62CE 00FF
+
+[Infinite Energy\India - Jungle]
+Type = Gameshark
+Activation = EndFrame
+801D2D06 03E8
+
+[Infinite Energy\India - Temple Ruins]
+Type = Gameshark
+Activation = EndFrame
+801DB1C2 03E8
+
+[Infinite Energy\India - The River Ganges]
+Type = Gameshark
+Activation = EndFrame
+801D3976 03E8
+
+[Infinite Energy\India - Caves Of Kaliya]
+Type = Gameshark
+Activation = EndFrame
+8017B49A 03E8
+
+[Infinite Energy\South Pacific Islands - Coastal Village]
+Type = Gameshark
+Activation = EndFrame
+801D6BCA 03E8
+
+[Infinite Energy\South Pacific Islands - Crash Site]
+Type = Gameshark
+Activation = EndFrame
+801DC4CA 03E8
+
+[Infinite Energy\South Pacific Islands - Madubu Gorge]
+Type = Gameshark
+Activation = EndFrame
+801DA8E6 03E8
+
+[Infinite Energy\South Pacific Islands - Temple Of Puna]
+Type = Gameshark
+Activation = EndFrame
+8018DE3E 03E8
+
+[Infinite Energy\Nevada - Nevada Desert]
+Type = Gameshark
+Activation = EndFrame
+801D62E2 03E8
+
+[Infinite Energy\Nevada - High Security Compound]
+Type = Gameshark
+Activation = EndFrame
+801DF682 03E8
+
+[Infinite Energy\Nevada - Area 51]
+Type = Gameshark
+Activation = EndFrame
+801DF3AE 03E8
+
+[Infinite Energy\London - Thames Wharf]
+Type = Gameshark
+Activation = EndFrame
+801E1CCE 03E8
+
+[Infinite Energy\London - Aldwych]
+Type = Gameshark
+Activation = EndFrame
+801D66FE 03E8
+
+[Infinite Energy\London - Luds Gate]
+Type = Gameshark
+Activation = EndFrame
+801E23A6 03E8
+
+[Infinite Energy\London - City]
+Type = Gameshark
+Activation = EndFrame
+801924AE 03E8
+
+[Infinite Energy\Antarctica - Antarctica]
+Type = Gameshark
+Activation = EndFrame
+801D9552 03E8
+
+[No freeze mode Antarctica]
+Type = Gameshark
+Activation = EndFrame
+8009AD44 0258
+
+[Infinite Energy\Antarctica - Rx-Tech Mines]
+Type = Gameshark
+Activation = EndFrame
+801DC88E 03E8
+
+[Infinite Body Heat In Water Rx-Tech Mines]
+Type = Gameshark
+Activation = EndFrame
+8009AD30 0258
+
+[Infinite Energy\Antarctica - Lost City Of Tinos]
+Type = Gameshark
+Activation = EndFrame
+801D871E 03E8
+
+[Infinite Energy\Antarctica - Meteorite Cavern]
+Type = Gameshark
+Activation = EndFrame
+801A58C6 03E8
+
+[One Hit Knockdown Boss	Meteorite Cavern]
+Type = Gameshark
+Activation = EndFrame
+801A59D6 0000
+
+[Infinite Energy All Hallows (Secret Level)]
+Type = Gameshark
+Activation = EndFrame
+80196BAE 03E8
+
+[Lara Home Level\Door Under Stairs Stays Open]
+Type = Gameshark
+Activation = EndFrame
+801B9396 011D
+
+[Lara Home Level\Trophy Room Door Stays Open Once Unlocked From Inside]
+Type = Gameshark
+Activation = EndFrame
+D11BA300 FFFF
+801BA300 FFFF
+
+[Spider Lara .Can climb any flat vertical surface]
+Type = Gameshark
+Activation = EndFrame
+80098E46 0001
+

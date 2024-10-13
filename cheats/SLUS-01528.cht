@@ -1,0 +1,33 @@
+; CHTDB: ; [ Super Bubble Pop (USA) (2002) (Jaleco USA) {SLUS-01528} <sbubblep> ]
+
+[Max Score]
+Type = Gameshark
+Activation = EndFrame
+900F3054 05F5E0FF
+
+[Press L1+Select For More Time]
+Type = Gameshark
+Activation = EndFrame
+D0080EE0 0104
+800F314A 1C00
+
+[Quick Score Gain]
+Type = Gameshark
+Activation = EndFrame
+800F3054 FFFF
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A70D6D44 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A70D6D44 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A70D6D44 10000400
+

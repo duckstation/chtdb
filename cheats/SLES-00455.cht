@@ -1,0 +1,91 @@
+; CHTDB: ; [ X2: No Relief (Europe) {SLES-00455} ]
+
+[Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+8009F1AC 0002
+
+[P1 infinite lives]
+Type = Gameshark
+Activation = EndFrame
+801E93A0 0005
+
+[P1 infinite Mega-bombs]
+Type = Gameshark
+Activation = EndFrame
+801EB6BC 0005
+
+[P1 Invincibility]
+Type = Gameshark
+Activation = EndFrame
+801E93AE 008C
+
+[P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801E9540 0005
+
+[P2 infinite Mega-bombs]
+Type = Gameshark
+Activation = EndFrame
+801EBD5C 0005
+
+[P2 Invincibility]
+Type = Gameshark
+Activation = EndFrame
+801E954A 008C
+
+[Select Level\2 Command Tower]
+Type = Gameshark
+Activation = EndFrame
+D0015F8C 0000
+30015F8C 0001
+
+[Select Level\3 The Belt]
+Type = Gameshark
+Activation = EndFrame
+D0015F8C 0000
+30015F8C 0002
+
+[Select Level\4 Worlds Of Ice]
+Type = Gameshark
+Activation = EndFrame
+D0015F8C 0000
+30015F8C 0003
+
+[Select Level\5 The Stronghold]
+Type = Gameshark
+Activation = EndFrame
+D0015F8C 0000
+30015F8C 0004
+
+[Select Level\6 Red Planet Approach]
+Type = Gameshark
+Activation = EndFrame
+D0015F8C 0000
+30015F8C 0005
+
+[Select Level\7 Crimson Dusk]
+Type = Gameshark
+Activation = EndFrame
+D0015F8C 0000
+30015F8C 0006
+
+[Select Level\8 Subterranea]
+Type = Gameshark
+Activation = EndFrame
+D0015F8C 0000
+30015F8C 0007
+
+[Select Level\9 Final Challenge]
+Type = Gameshark
+Activation = EndFrame
+D0015F8C 0000
+30015F8C 0008
+
+[Select Level\10 Criticus]
+Type = Gameshark
+Activation = EndFrame
+D0015F8C 0000
+30015F8C 0009
+

@@ -1,0 +1,26 @@
+; CHTDB: ; [ Wing Commander III: Heart of the Tiger (Germany) {SLES-00105 | SLES-10105 | SLES-20105 | SLES-30105} ]
+
+[Unendlich Energie]
+Type = Gameshark
+Activation = EndFrame
+801DF084 00A4
+801DF088 00A4
+801DF08C 00A4
+801DF090 00A4
+
+[Unendlich Dummies]
+Type = Gameshark
+Activation = EndFrame
+801DE5B0 0018
+
+[Unendlich IMREC]
+Type = Gameshark
+Activation = EndFrame
+801DE718 0003
+801DE748 0003
+
+[Unendlich Laser]
+Type = Gameshark
+Activation = EndFrame
+801DE5A0 02A8
+

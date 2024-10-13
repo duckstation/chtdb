@@ -1,0 +1,53 @@
+; CHTDB: ; [ Muppet Monster Adventure (Europe) {SCES-02403} ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800B86DC 0403
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800B899C 003C
+
+[Have chicken (Press Triangle)]
+Type = Gameshark
+Activation = EndFrame
+D00C001A EFFF
+800B7CD8 019D
+
+[998 Muppet monster tokens]
+Type = Gameshark
+Activation = EndFrame
+800B86DA 03E6
+
+[9998 Gems]
+Type = Gameshark
+Activation = EndFrame
+800B86D2 270E
+
+[Have WereBear You still need to pickup 1 of each token]
+Type = Gameshark
+Activation = EndFrame
+800CA19C 0003
+
+[Have MuckMonster You still need to pickup 1 of each token]
+Type = Gameshark
+Activation = EndFrame
+800CA1A4 0003
+
+[Have Bat You still need to pickup 1 of each token]
+Type = Gameshark
+Activation = EndFrame
+800CA198 0003
+
+[Have Ghoulfrend You still need to pickup 1 of each token]
+Type = Gameshark
+Activation = EndFrame
+800CA1A8 0003
+
+[Have Ker-Monster You still need to pickup 1 of each token]
+Type = Gameshark
+Activation = EndFrame
+800CA1A0 0003
+

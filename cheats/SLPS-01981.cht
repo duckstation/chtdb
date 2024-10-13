@@ -1,0 +1,22 @@
+; CHTDB: ; [ Gallop Racer 3 (Japan) {SLPS-01981} ]
+
+[Gr-Rank]
+Type = Gameshark
+Activation = EndFrame
+901FA50C 270F270F
+
+[Infinite Energy For Your Horse]
+Type = Gameshark
+Activation = EndFrame
+900B5DB4 00000000
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+901FA288 0098967F
+
+[Infinite Stamina (Incremented by 40h)]
+Type = Gameshark
+Activation = EndFrame
+800EADEE 001F
+

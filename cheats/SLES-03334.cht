@@ -1,0 +1,37 @@
+; CHTDB: ; [ Tomb Raider: Die Chronik (Germany) {SLES-03334} ]
+
+[Unendlich luft]
+Type = Gameshark
+Activation = EndFrame
+8004B670 0708
+
+[Grosses Medipack nimmt zu]
+Type = Gameshark
+Activation = EndFrame
+800402E0 0063
+
+[Select Cutscene! (Press Select & L1)]
+Type = Gameshark
+Activation = EndFrame
+D00A60BA FBFE
+50000204 0002
+800A28A2 FFFE
+
+[All levels Don't select the last three levels, they don't exist. (Press Select & L2)]
+Type = Gameshark
+Activation = EndFrame
+D00A60BA FEFE
+50000204 0000
+800A28A6 0002
+
+[Special features unlocked]
+Type = Gameshark
+Activation = EndFrame
+50000202 0909
+800AD016 0000
+
+[Unendlich Munition alle Waffen]
+Type = Gameshark
+Activation = EndFrame
+8004E6E6 04BE
+

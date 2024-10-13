@@ -1,0 +1,49 @@
+; CHTDB: ; [ Moto Racer 2 (Europe) {SLES-01184} ]
+
+[All Courses & Modes Unlocked]
+Type = Gameshark
+Activation = EndFrame
+80010040 FFFF
+
+[Nitro Boost]
+Type = Gameshark
+Activation = EndFrame
+D009B9BA BFFF
+800D245E 7FFF
+
+[Checkpoint Time Increases]
+Type = Gameshark
+Activation = EndFrame
+D0047710 1023
+30047710 0021
+
+[Start On Last Race - Super Bike Championship]
+Type = Gameshark
+Activation = EndFrame
+80012398 0007
+
+[Moto x Championship]
+Type = Gameshark
+Activation = EndFrame
+30013074 0001
+
+[Dual Sport Championship]
+Type = Gameshark
+Activation = EndFrame
+30013D44 0001
+
+[Custom Championship]
+Type = Gameshark
+Activation = EndFrame
+30010118 0001
+
+[Ultimate Championship]
+Type = Gameshark
+Activation = EndFrame
+30014A14 0001
+
+[Have Gold Cup - Super Bike Championship]
+Type = Gameshark
+Activation = EndFrame
+300123A4 0001
+

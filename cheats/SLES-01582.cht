@@ -1,0 +1,104 @@
+; CHTDB: ; [ Small Soldiers (Germany) {SLES-01582} ]
+
+[Unendlich Leben]
+Type = Gameshark
+Activation = EndFrame
+D009E978 0103
+80048B84 2400
+
+[Unendlich Munition]
+Type = Gameshark
+Activation = EndFrame
+D009E978 0103
+8007BD84 2400
+
+[Gehe Durch TüRen]
+Type = Gameshark
+Activation = EndFrame
+A706FF6A 0C012400
+
+[Unendlich Energie Level 1 %NOTE2]
+Type = Gameshark
+Activation = EndFrame
+800E09B2 0064
+
+[Unendlich Energie Level 2 %NOTE2]
+Type = Gameshark
+Activation = EndFrame
+800F6E92 0064
+
+[Unendlich Energie Level 3 %NOTE2]
+Type = Gameshark
+Activation = EndFrame
+800E8132 0064
+
+[Unendlich Energie Level 4 %NOTE2]
+Type = Gameshark
+Activation = EndFrame
+800E7182 0064
+
+[Unendlich Energie Level 5 %NOTE2]
+Type = Gameshark
+Activation = EndFrame
+800EB182 0064
+
+[Unendlich Energie Level 6 %NOTE2]
+Type = Gameshark
+Activation = EndFrame
+800EEAA2 0064
+
+[Unendlich Energie Level 7 %NOTE2]
+Type = Gameshark
+Activation = EndFrame
+800FA2E2 0064
+
+[Unendlich Energie Level 8 %NOTE2]
+Type = Gameshark
+Activation = EndFrame
+800E11D2 0064
+
+[Unendlich Energie Level 9 %NOTE2]
+Type = Gameshark
+Activation = EndFrame
+800E9A72 0064
+
+[Unendlich Energie Level 10 %NOTE2]
+Type = Gameshark
+Activation = EndFrame
+800D7232 0064
+
+[Unendlich Energie Level 11 %NOTE2]
+Type = Gameshark
+Activation = EndFrame
+800EA3C2 0064
+
+[Unendlich Energie Level 12 %NOTE2]
+Type = Gameshark
+Activation = EndFrame
+800F5A82 0064
+
+[Unendlich Energie Level 13 %NOTE2]
+Type = Gameshark
+Activation = EndFrame
+800F8982 0064
+
+[Unendlich Energie Level 14 %NOTE2]
+Type = Gameshark
+Activation = EndFrame
+80145DD2 0064
+
+[2-Player-Mode\P1 Unendlich Energie]
+Type = Gameshark
+Activation = EndFrame
+8010A332 0032
+
+[2-Player-Mode\P2 Unendlich Energie]
+Type = Gameshark
+Activation = EndFrame
+801071B2 0032
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+300A7191 000C
+

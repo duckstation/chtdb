@@ -1,0 +1,50 @@
+; CHTDB: ; [ Martian Gothic - Unification (USA) (2001) (Take-Two Interactive Software) {SLUS-01148} <martgoth> ]
+
+[Infinite Health Karne]
+Type = Gameshark
+Activation = EndFrame
+8010F624 0064
+
+[Infinite Health Kenzo]
+Type = Gameshark
+Activation = EndFrame
+8010F72C 0064
+
+[Infinite Health Matlock]
+Type = Gameshark
+Activation = EndFrame
+8010F834 0064
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+800A11AA 2400
+800A0E62 2400
+
+[One hit kills (ASM)]
+Type = Gameshark
+Activation = EndFrame
+900991F4 00421023
+
+[Open Doors without having Tags (ASM)]
+Type = Gameshark
+Activation = EndFrame
+800D5076 1400
+
+[Don't wake the monster behind the mine lift (ASM)]
+Description = You can just walk through it
+Type = Gameshark
+Activation = EndFrame
+800C0DE2 1400
+8009440E 1000
+
+[Select Zombies respawn rate\Less Often]
+Type = Gameshark
+Activation = EndFrame
+80096C92 1000
+
+[Select Zombies respawn rate\More Often]
+Type = Gameshark
+Activation = EndFrame
+80096C92 1400
+

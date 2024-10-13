@@ -1,0 +1,206 @@
+; CHTDB: ; [ World's Scariest Police Chases (USA) (2001) (Activision) {SLUS-01165} <polchase> ]
+
+[Unlock Missions (Pursuit Mode)]
+Type = Gameshark
+Activation = EndFrame
+800FC0BA 0014
+
+[Unlock Locations (Free Patrol Mode)]
+Type = Gameshark
+Activation = EndFrame
+800FC340 FFFF
+
+[Unlock Missions (Single Mission Mode)]
+Type = Gameshark
+Activation = EndFrame
+800FC342 0014
+
+[Unlock All Bonus Items]
+Type = Gameshark
+Activation = EndFrame
+800FC344 FFFF
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800465C6 2400
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+8006B454 2400
+
+[Mission 2 - Police Academy Basic Pursuit\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8016C9F2 0000
+
+[Mission 3 - Police Academy Advanced Pursuit\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8016D1D6 0000
+
+[Mission 4 - Police Academy Expert Pursuit\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8017533A 0000
+
+[Mission 5 - Dui Dummy\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801704FE 0000
+
+[Mission 6 - The Crazed Car Thief\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801721F2 0000
+
+[Mission 7 - Gangbanger Deathmatch\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801718CE 0000
+
+[Mission 8 - Bus Driver Gone Bad\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80172D52 0000
+
+[Mission 9 - Drug Smuggling Scum\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8017408E 0000
+
+[Mission 10 - Race Against Death\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80172B2E 0000
+
+[Mission 11 - Sentence Of Fire\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80173DD2 0000
+
+[Mission 12 - Nosey News Van\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801736BE 0000
+
+[Mission 13 - The Stool Pigeon\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80171906 0000
+
+[Mission 14 - Tank Rush\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801720E6 0000
+
+[Mission 15 - Nothing Is Ever Routine\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8017330A 0000
+
+[Mission 16 - Jacked Up Jailbird\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801722EA 0000
+
+[Mission 17 - Lou Ferris Returns\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8017492A 0000
+
+[Mission 18 - Brazen Bank Bandits\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80175446 0000
+
+[Mission 19 - 30 Minutes Or Less\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80172402 0000
+
+[Mission 20 - Final Showdown\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80172BCA 0000
+
+[P1 Infinite Health (All levels)]
+Type = Gameshark
+Activation = EndFrame
+A70707E4 00023000
+A70707E6 A7C20C00
+A700C000 00000002
+A700C002 0000A7C2
+A700C004 00000000
+A700C006 00003402
+A700C008 00000000
+A700C00A 0000AFC2
+A700C00C 00000008
+A700C00E 000003E0
+
+[Disable visual damage (Works for all cars until it catches fire)]
+Type = Gameshark
+Activation = EndFrame
+A70710BE 10401000
+
+[Disable police chase free play]
+Type = Gameshark
+Activation = EndFrame
+A7077FAE 10401000
+
+[Matrix mode "Press L3 to toggle on/off"]
+Type = Gameshark
+Activation = EndFrame
+D7010001 01000200
+F507C2EE 16602400
+F507BFC2 10402400
+F507C04A 10401000
+
+[Drive through walls "Press R3 to toggle on/off"]
+Type = Gameshark
+Activation = EndFrame
+D7010001 02000400
+F50539AA 10401000
+
+[Pedestrians don't try to dodge your car]
+Type = Gameshark
+Activation = EndFrame
+A7087F0A 04401000
+
+[Perpetual damage]
+Type = Gameshark
+Activation = EndFrame
+A7050DF2 0C012400
+
+[Invincible cars V1 (All cars)]
+Type = Gameshark
+Activation = EndFrame
+A7070792 10C01000
+
+[Invincible cars V2 (All cars)]
+Type = Gameshark
+Activation = EndFrame
+A70B3C8A 10401000
+A707053A 10401000
+
+[No visual damage (All cars unless on fire)]
+Type = Gameshark
+Activation = EndFrame
+A70710BE 10401000
+
+[Turbo fire v1]
+Type = Gameshark
+Activation = EndFrame
+A706B41A 0C012400
+
+[Turbo fire v2]
+Type = Gameshark
+Activation = EndFrame
+A706ADEA 10621000
+
+[FPS Uncap]
+Type = Gameshark
+Activation = EndFrame
+A701C28A 0C032400
+

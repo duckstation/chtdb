@@ -1,0 +1,82 @@
+; CHTDB: ; [ Bokujou Monogatari: Harvest Moon (Japan) {SLPS-02489} ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+90071DE4 0098967F
+
+[Infinite Physical strength]
+Type = Gameshark
+Activation = EndFrame
+80071D9A 0064
+
+[Materials MAX]
+Type = Gameshark
+Activation = EndFrame
+800710C4 03E7
+
+[Fodder MAX]
+Type = Gameshark
+Activation = EndFrame
+800710C6 03E7
+
+[MAX bait fish]
+Type = Gameshark
+Activation = EndFrame
+800710CA 03E7
+
+[MAX bait bird]
+Type = Gameshark
+Activation = EndFrame
+800710CC 03E7
+
+[99 pieces in refrigerator, Cabinet, and tool box]
+Type = Gameshark
+Activation = EndFrame
+D00FD5FA 1440
+800FD5F8 0001
+D00FD668 0004
+800FD55A 2403
+A60FD668 00040063
+
+[Favorability MAX of dog]
+Type = Gameshark
+Activation = EndFrame
+30075D06 00FF
+
+[Favorability MAX horse]
+Type = Gameshark
+Activation = EndFrame
+30075DF2 00FF
+
+[Favorability MAX of Karen]
+Type = Gameshark
+Activation = EndFrame
+80076A84 FFFF
+
+[Favorability MAX of Ran]
+Type = Gameshark
+Activation = EndFrame
+800771D4 FFFF
+
+[Favorability MAX of Eryi]
+Type = Gameshark
+Activation = EndFrame
+8007757C FFFF
+
+[Favorability MAX of Marie]
+Type = Gameshark
+Activation = EndFrame
+80077EA0 FFFF
+
+[Favorability MAX of Potpourri]
+Type = Gameshark
+Activation = EndFrame
+80078998 FFFF
+
+[Ranch total number of shipments MAX]
+Type = Gameshark
+Activation = EndFrame
+50001502 0000
+80071550 03E7
+

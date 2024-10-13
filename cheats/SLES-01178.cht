@@ -1,0 +1,12 @@
+; CHTDB: ; [ Phat Air: Extreme Snowboarding (Europe) {SLES-01178} ]
+
+[Stopwatch 00.00.00 / Always First]
+Type = Gameshark
+Activation = EndFrame
+800470D2 AC80
+
+[Start with 50.000 points / Always first]
+Type = Gameshark
+Activation = EndFrame
+A6114370 0000C350
+

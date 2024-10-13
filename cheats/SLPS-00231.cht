@@ -1,0 +1,18 @@
+; CHTDB: ; [ Asuka 120 Burning Fest. Special (Japan) {SLPS-00231} ]
+
+[P1 Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800C271C 00C0
+801E07F4 00C0
+
+[P1 Meter Always At 120]
+Type = Gameshark
+Activation = EndFrame
+801E053C 0063
+
+[P1 Meter Always At 100]
+Type = Gameshark
+Activation = EndFrame
+801E053E 0044
+

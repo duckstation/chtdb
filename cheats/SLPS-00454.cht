@@ -1,0 +1,13 @@
+; CHTDB: ; [ Kid Clown no Crazy Chase 2: Love Love Honey Soudatsusen (Japan) {SLPS-00454} ]
+
+[Infinite Life]
+Type = Gameshark
+Activation = EndFrame
+800D6EDC 0064
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+8009F004 00B8
+800B5CE4 0060
+

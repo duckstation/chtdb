@@ -1,0 +1,69 @@
+; CHTDB: ; [ SD Gundam G Generation-F.I.F (Jpn) (2001) (Bandai) {SLPS-03195} <sdgunfif> ]
+
+[Infinite + Max HP 1st unit out of battle]
+Type = Gameshark
+Activation = EndFrame
+900DDFB0 0001869F
+900DDFB4 0001869F
+
+[Infinite HP in battle 1st unit]
+Type = Gameshark
+Activation = EndFrame
+900ACDA0 0001869F
+
+[Infinite EN 1st unit out of battle]
+Type = Gameshark
+Activation = EndFrame
+800DDFBA 0064
+
+[Money 9,999,999]
+Type = Gameshark
+Activation = EndFrame
+9017F5F0 0098967F
+
+[Infinite Behavior]
+Type = Gameshark
+Activation = EndFrame
+A713613E 10401000
+
+[Mortal blow]
+Type = Gameshark
+Activation = EndFrame
+A7028D9A 1C401400
+
+[Special-purpose machine production for free]
+Type = Gameshark
+Activation = EndFrame
+A715A08E 10601000
+A715A5AA 10401000
+A715A81E AE04AE00
+
+[Technical rise for free]
+Type = Gameshark
+Activation = EndFrame
+A71611B2 AE04AE00
+
+[Rental for free]
+Type = Gameshark
+Activation = EndFrame
+A7164C26 AE02AE00
+
+[Strengthening human for free]
+Type = Gameshark
+Activation = EndFrame
+A71500D2 AE44AE40
+
+[All aircraft development and retrofittable]
+Type = Gameshark
+Activation = EndFrame
+A713599A 14431400
+A71359CA 14401000
+A7135A66 14401400
+A7135A7E 10431000
+A7135A8E 10401000
+
+[Debug mode]
+Type = Gameshark
+Activation = EndFrame
+800A6FD0 0001
+

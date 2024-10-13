@@ -1,0 +1,19 @@
+; CHTDB: ; [ Knockout Kings 2000 (Europe) {SLES-02322} ]
+
+[Maximum career points]
+Type = Gameshark
+Activation = EndFrame
+800C5BB8 0096
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+9001DABC 0277082B
+8001DAC6 1420
+
+[P1 Infinite stamina]
+Type = Gameshark
+Activation = EndFrame
+9002184C 32211000
+80021852 1020
+

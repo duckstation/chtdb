@@ -1,0 +1,21 @@
+; CHTDB: ; [ Tactical Armor Custom Gasaraki (Jpn) (2000) (Bandai) {SLPS-02181} <gasaraki> ]
+
+[All Thinking chips]
+Type = Gameshark
+Activation = EndFrame
+30082105 00FF
+80082106 FFFF
+90082108 FFFFFFFF
+9008210C FFFFFFFF
+80082110 FFFF
+
+[Infinite Shield (99)]
+Type = Gameshark
+Activation = EndFrame
+30082118 0063
+
+[Not decrease execution time strategy]
+Type = Gameshark
+Activation = EndFrame
+A6082B34 00010000
+

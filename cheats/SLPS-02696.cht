@@ -1,0 +1,12 @@
+; CHTDB: ; [ Play de Oboeru Series: Sekaishi Keyword Deruderu 1800 (Japan) {SLPS-02696} ]
+
+[P1 999 points]
+Type = Gameshark
+Activation = EndFrame
+800EE9D8 03E7
+
+[Computer has 0 points]
+Type = Gameshark
+Activation = EndFrame
+800EE9F8 0000
+

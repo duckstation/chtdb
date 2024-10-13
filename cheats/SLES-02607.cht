@@ -1,0 +1,97 @@
+; CHTDB: ; [ Star Wars: Episode I: Jedi Power Battles (Europe) {SLES-02607} ]
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+300B1EF4 0064
+
+[P2 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+300B1F10 0064
+
+[P1 Infinite Bombs]
+Type = Gameshark
+Activation = EndFrame
+300B1F02 0001
+
+[P2 Infinite Bombs]
+Type = Gameshark
+Activation = EndFrame
+300B1F1E 0001
+
+[P1 Infinite Force]
+Type = Gameshark
+Activation = EndFrame
+300B1EFC 0064
+
+[P2 Infinite Force]
+Type = Gameshark
+Activation = EndFrame
+300B1F18 0064
+
+[Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+300B1EEC 0000
+
+[All Levels Open For Adi Gallia]
+Type = Gameshark
+Activation = EndFrame
+800B213E 0101
+900B2140 01010101
+900B2144 01010101
+
+[All Levels Open For Mace Windu]
+Type = Gameshark
+Activation = EndFrame
+800B211E 0100
+900B2120 01010101
+900B2124 01010101
+800B2128 0001
+
+[All Levels Open For Obi-Wan Kenobi]
+Type = Gameshark
+Activation = EndFrame
+900B20E0 01010100
+900B20E4 01010101
+900B20E8 00010101
+
+[All Levels Open For Plo Koon]
+Type = Gameshark
+Activation = EndFrame
+900B215C 01010100
+900B2160 01010101
+900B2164 00010101
+
+[All Levels Open For Qui-Gon Jin]
+Type = Gameshark
+Activation = EndFrame
+900B2100 01010101
+900B2104 01010101
+800B2108 0101
+
+[Select Level\Level 11 (Droidekas) Press and hold L2 just after selecting a level.]
+Type = Gameshark
+Activation = EndFrame
+D01FBC92 FEFF
+800ACDEC 000B
+
+[Select Level\Level 12 (Kaadu Race) Press and hold L2 just after selecting a level.]
+Type = Gameshark
+Activation = EndFrame
+D01FBC92 FEFF
+800ACDEC 000C
+
+[Select Level\Level 13 (Gungan roundup)	Press and hold L2 just after selecting a level.]
+Type = Gameshark
+Activation = EndFrame
+D01FBC92 FEFF
+800ACDEC 000D
+
+[Select Level\Level 14 (Survival Challenge) Press and hold L2 just after selecting a level.]
+Type = Gameshark
+Activation = EndFrame
+D01FBC92 FEFF
+800ACDEC 000E
+

@@ -1,0 +1,18 @@
+; CHTDB: ; [ Gouketsuji Ichizoku 2: Chotto dake Saikyou Densetsu (Japan) {SLPS-00104} ]
+
+[Enemy has no energy (just hit him once to win)]
+Type = Gameshark
+Activation = EndFrame
+801F0B90 0000
+
+[Second player lost After pressing the SELECT button]
+Type = Gameshark
+Activation = EndFrame
+D00870EC FEFF
+801F0B90 0000
+
+[Infinite HP 1P]
+Type = Gameshark
+Activation = EndFrame
+801F0790 00E0
+

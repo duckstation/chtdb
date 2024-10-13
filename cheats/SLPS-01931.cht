@@ -1,0 +1,33 @@
+; CHTDB: ; [ Fishing Freaks - BassRise (Jpn) (1999) (Bandai) {SLPS-01931} <bassrisej> ]
+
+[All Lure]
+Type = Gameshark
+Activation = EndFrame
+50002102 0000
+8007666C FFFF
+
+[All Stages]
+Type = Gameshark
+Activation = EndFrame
+80076794 FFFF
+
+[Fish Length 999.9 cm Can be Caught]
+Type = Gameshark
+Activation = EndFrame
+D0073F2C 0080
+8009A81A 270F
+D0073F2C 0180
+8009A81A 0000
+
+[Fish Weight 9999 g Can be Caught]
+Type = Gameshark
+Activation = EndFrame
+D0073F2C 0080
+8009A81C 270F
+
+[No Tension on Line Mode]
+Type = Gameshark
+Activation = EndFrame
+D0073F2C 0080
+800773B8 0000
+

@@ -1,0 +1,38 @@
+; CHTDB: ; [ Wer wird Millionär: 2. Edition (Germany) {SLES-03591} ]
+
+[P1 Beginne mit letzter Frage]
+Type = Gameshark
+Activation = EndFrame
+D007EA38 0000
+3007EA38 000F
+
+[P1 Nur 2 Fragen zu beantworten]
+Type = Gameshark
+Activation = EndFrame
+D007EA18 0000
+3007EA18 0001
+
+[P1 Telefontipp]
+Type = Gameshark
+Activation = EndFrame
+D007EA1C 0000
+3007EA1C 0001
+
+[Unendlich Joker alle Spieler 50 - 50]
+Type = Gameshark
+Activation = EndFrame
+D0021AC6 03E0
+80021AC8 0000
+
+[Unendlich Joker alle Spiele Publikumsbefragung]
+Type = Gameshark
+Activation = EndFrame
+D0021AD6 03E0
+80021AD8 0000
+
+[Unendlich Joker alle Spiele Telefonate]
+Type = Gameshark
+Activation = EndFrame
+D0021AE6 03E0
+80021AE8 0000
+

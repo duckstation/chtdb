@@ -1,0 +1,84 @@
+; CHTDB: ; [ WCW vs. The World (USA) (1997) (THQ) {SLUS-00455} <wcwvstw> ]
+
+[Enable All Characters]
+Type = Gameshark
+Activation = EndFrame
+8009EDFC FFFF
+
+[P1 Always Have Normal Spirit]
+Type = Gameshark
+Activation = EndFrame
+800CEFC4 0032
+
+[P2 Always Have Normal Spirit]
+Type = Gameshark
+Activation = EndFrame
+800CF270 0032
+
+[P1 Have Weak Spirit (Black)]
+Type = Gameshark
+Activation = EndFrame
+800CEFC4 0000
+
+[P2 Have Weak Spirit (Black)]
+Type = Gameshark
+Activation = EndFrame
+800CF270 0000
+
+[P1 Have Tired Spirit (White)]
+Type = Gameshark
+Activation = EndFrame
+800CEFC4 0064
+
+[P2 Have Tired Spirt (White)]
+Type = Gameshark
+Activation = EndFrame
+800CF270 0064
+
+[Time Always At 00.00]
+Type = Gameshark
+Activation = EndFrame
+80075332 0000
+
+[Infinite Time To Fight Outside Ring]
+Type = Gameshark
+Activation = EndFrame
+800752EE 0000
+80075300 0000
+
+[P1 When At Normal Spirit, It Goes To Weak Spirit (Black)]
+Type = Gameshark
+Activation = EndFrame
+A60CEFC4 00320000
+
+[P1 When At Normal Spirit, It Goes To Tired Spirt (White)]
+Type = Gameshark
+Activation = EndFrame
+A60CEFC4 00340064
+
+[P2 When At Normal Spirit, It Goes To Weak Spirit (Black)]
+Type = Gameshark
+Activation = EndFrame
+A60CF270 00320000
+
+[P2 When At Normal Spirit, It Goes To Tired Spirit (White)]
+Type = Gameshark
+Activation = EndFrame
+A60CF270 00340064
+
+[P1 Health]
+Type = Gameshark
+Activation = EndFrame
+300CEFC2 0063
+
+[P2 No Health]
+Type = Gameshark
+Activation = EndFrame
+300CF26E 0000
+
+[Widescreen 16-9]
+Description = When booting with the code enabled, you'll want skip the intro videos quickly in case they freeze the game.
+Type = Gameshark
+Activation = EndFrame
+800D42E4 0C00
+

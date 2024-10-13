@@ -1,0 +1,78 @@
+; CHTDB: ; [ No Fear Downhill Mountain Bike Racing (USA) (1999) (The Codemasters Software Company) {SLUS-01000} <nofear> ]
+
+[Time Is 0.00.00]
+Type = Gameshark
+Activation = EndFrame
+8001CC62 2400
+
+[Unlock All Difficulties, Levels, + Videos]
+Type = Gameshark
+Activation = EndFrame
+300D1616 0002
+
+[Unlock All Character]
+Type = Gameshark
+Activation = EndFrame
+300D1617 0007
+
+[Unlock Trick Trail]
+Type = Gameshark
+Activation = EndFrame
+300D161D 0001
+
+[Unlock All Tires Upgrades]
+Type = Gameshark
+Activation = EndFrame
+300D162B 0003
+
+[Unlock All Gear Ratio Upgrades]
+Type = Gameshark
+Activation = EndFrame
+300D162C 0003
+
+[Unlock All Brake Upgrades]
+Type = Gameshark
+Activation = EndFrame
+300D162D 0003
+
+[Unlock All Front Suspension Upgrades]
+Type = Gameshark
+Activation = EndFrame
+300D162E 0002
+
+[Unlock All Rear Suspension Upgrades]
+Type = Gameshark
+Activation = EndFrame
+300D162F 0003
+
+[Unlock All Frame Upgrades]
+Type = Gameshark
+Activation = EndFrame
+300D1630 0003
+
+[Unlock All Wheel Upgrades]
+Type = Gameshark
+Activation = EndFrame
+300D1631 0003
+
+[Unlock All Bike Upgrades]
+Type = Gameshark
+Activation = EndFrame
+50000701 0000
+300D162B 0003
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8007D0D6 2400
+
+[Max Trick Points]
+Type = Gameshark
+Activation = EndFrame
+800CC6C8 FFFF
+
+[Stop Trick Timer]
+Type = Gameshark
+Activation = EndFrame
+8001CCCA 2400
+

@@ -1,0 +1,58 @@
+; CHTDB: ; [ Rurouni Kenshin: Meiji Kenkaku Romantan: Juuyuushi Inbou-hen (Japan) {SCPS-10048} ]
+
+[Infinite HP in battle]
+Type = Gameshark
+Activation = EndFrame
+801E9F3A 008C
+
+[Infinite & Max HP Hero]
+Type = Gameshark
+Activation = EndFrame
+90029214 270F270F
+
+[Infinite & Max HP Heroine]
+Type = Gameshark
+Activation = EndFrame
+9002922C 270F270F
+
+[Infinite & Max HP Kenshin]
+Type = Gameshark
+Activation = EndFrame
+90029244 270F270F
+
+[Infinite & Max HP Kaoru]
+Type = Gameshark
+Activation = EndFrame
+9002925C 270F270F
+
+[Infinite Gold]
+Type = Gameshark
+Activation = EndFrame
+901AF018 0001869F
+
+[All Items]
+Type = Gameshark
+Activation = EndFrame
+50003002 0001
+801AED50 6301
+
+[LEVEL UP]
+Type = Gameshark
+Activation = EndFrame
+A61B4CD4 00050001
+
+[None Encounter]
+Type = Gameshark
+Activation = EndFrame
+9019BE98 000000D0
+
+[During combat deathblow gauge]
+Type = Gameshark
+Activation = EndFrame
+801E9F3C 0064
+
+[Physical strength in combat enemy 0]
+Type = Gameshark
+Activation = EndFrame
+801E9F46 0000
+

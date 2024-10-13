@@ -1,0 +1,7 @@
+; CHTDB: ; [ PGA Tour 96 (USA) (1995) (Electronic Arts) {SLUS-00016} <pga96> ]
+
+[Always Hole in One]
+Type = Gameshark
+Activation = EndFrame
+800B11D8 0001
+

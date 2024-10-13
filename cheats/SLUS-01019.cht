@@ -1,0 +1,86 @@
+; CHTDB: ; [ Threads of Fate (USA) (2000) (Square Electronic Arts) {SLUS-01019} <threads> ]
+
+[Level 1 Forest Infinite MP Mint]
+Type = Gameshark
+Activation = EndFrame
+8012586E 03E7
+
+[Level 1 Forest Infinite HP Mint]
+Type = Gameshark
+Activation = EndFrame
+8012586C 03E7
+
+[Level 2 Cliffs Infinite MP Mint]
+Type = Gameshark
+Activation = EndFrame
+8011B982 03E7
+
+[Level 2 Cliffs Infinite HP Mint]
+Type = Gameshark
+Activation = EndFrame
+8011B980 03E7
+
+[Level 3 Gargoyles Infinite MP Mint]
+Type = Gameshark
+Activation = EndFrame
+8012E03E 03E7
+
+[Level 3 Gargoyles Infinite HP Mint]
+Type = Gameshark
+Activation = EndFrame
+8012E03C 03E7
+
+[Level 4 Guard Dog Infinite MP Mint]
+Type = Gameshark
+Activation = EndFrame
+801569FE 03E7
+
+[Level 4 Guard Dog Infinite HP Mint]
+Type = Gameshark
+Activation = EndFrame
+801569FC 03E7
+
+[Infinite HP Mint Underground Ruins]
+Type = Gameshark
+Activation = EndFrame
+80128840 03E7
+
+[Max Money]
+Type = Gameshark
+Activation = EndFrame
+9009B2D8 0098967F
+
+[Time Always 00.00.00]
+Type = Gameshark
+Activation = EndFrame
+800A7AA0 0000
+
+[Infinite + Max HP]
+Type = Gameshark
+Activation = EndFrame
+8009B368 03E7
+8009B36C 03E7
+
+[Infinite + Max MP]
+Type = Gameshark
+Activation = EndFrame
+8009B36A 03E7
+8009B36E 03E7
+
+[All Items]
+Type = Gameshark
+Activation = EndFrame
+50000902 0000
+8009B3A0 6363
+
+[Start In Final Area]
+Type = Gameshark
+Activation = EndFrame
+8009B2F0 00FF
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+A70BF4A0 19991333
+A709EE4C 10000C00
+

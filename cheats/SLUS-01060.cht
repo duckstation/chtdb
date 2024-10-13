@@ -1,0 +1,25 @@
+; CHTDB: ; [ JoJo's Bizarre Adventure (USA) (2000) (Capcom Entertainment) {SLUS-01060} <jojoba> ]
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800CDEBA 00C8
+
+[Eveything Unlocked]
+Type = Gameshark
+Activation = EndFrame
+50000602 0000
+80066730 FFFF
+
+[Infinite Health Adventure Mode]
+Type = Gameshark
+Activation = EndFrame
+D30B27E0 2801
+800B27E0 6405
+
+[Max Hearts Score In Adventure Mode]
+Type = Gameshark
+Activation = EndFrame
+D3066CC2 0001
+80066CC2 000A
+

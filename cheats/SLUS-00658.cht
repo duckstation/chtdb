@@ -1,0 +1,42 @@
+; CHTDB: ; [ DBZ - Dead Ball Zone (USA) (1998) (GT Interactive Software) {SLUS-00658} <deadball> ]
+
+[Infinite Guns]
+Type = Gameshark
+Activation = EndFrame
+800AF990 00FF
+
+[Infinite Bombs]
+Type = Gameshark
+Activation = EndFrame
+800AF994 00FF
+
+[Infinite Chainsaws]
+Type = Gameshark
+Activation = EndFrame
+800AF998 00FF
+
+[Tussle Mode (Have All Teams)]
+Type = Gameshark
+Activation = EndFrame
+8001952C 0003
+
+[Select Team 1 Score\99]
+Type = Gameshark
+Activation = EndFrame
+800AF998 0063
+
+[Select Team 1 Score\0]
+Type = Gameshark
+Activation = EndFrame
+800AF998 0000
+
+[Select Team 2 Score\99]
+Type = Gameshark
+Activation = EndFrame
+800AF99C 0063
+
+[Select Team 2 Score\0]
+Type = Gameshark
+Activation = EndFrame
+800AF99C 0000
+

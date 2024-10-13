@@ -1,0 +1,34 @@
+; CHTDB: ; [ Disneys Atlantis: Das Geheimnis der verlorenen Stadt (Germany) {SCES-03538} ]
+
+[Max Gesundheit]
+Type = Gameshark
+Activation = EndFrame
+A6096ADC 003203E7
+
+[Unendlich Gesundheit]
+Type = Gameshark
+Activation = EndFrame
+80013E64 0063
+
+[Unendlich Luft]
+Type = Gameshark
+Activation = EndFrame
+8005AC58 0063
+
+[Leben Unendlich]
+Type = Gameshark
+Activation = EndFrame
+80013EEC 0063
+
+[Alle Level freigeschaltet Herrenhaus-Level muss vorher bestanden werden.]
+Type = Gameshark
+Activation = EndFrame
+900992B4 FFFFFFFF
+
+[Alle Film]
+Type = Gameshark
+Activation = EndFrame
+800992B6 FFFF
+50000702 0000
+800992D4 FFFF
+

@@ -1,0 +1,17 @@
+; CHTDB: ; [ Parlor! Pro 3 (Japan) {SLPS-01453} ]
+
+[Have 999999 money in the story mode]
+Type = Gameshark
+Activation = EndFrame
+900534E0 000F423F
+
+[Have always 999 steps in story mode]
+Type = Gameshark
+Activation = EndFrame
+900534A0 03E703E7
+
+[Have always 999 hearts in story mode]
+Type = Gameshark
+Activation = EndFrame
+900534A4 03E703E7
+

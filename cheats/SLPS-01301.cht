@@ -1,0 +1,47 @@
+; CHTDB: ; [ The Conveni Special - 3-tsu no Sekai o Dokusen Seyo (Jpn) (1998) (Ardink) {SLPS-01301} <convensp> ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+90195F18 00FFFFFF
+
+[1 shop Popularity Max]
+Type = Gameshark
+Activation = EndFrame
+30195D98 0064
+
+[1 shop Cleaning Max]
+Type = Gameshark
+Activation = EndFrame
+30196850 0064
+
+[1 shop Security Max]
+Type = Gameshark
+Activation = EndFrame
+30196854 0064
+
+[1 shop Correspondence Max]
+Type = Gameshark
+Activation = EndFrame
+30196858 0064
+
+[Second shop Popularity Max]
+Type = Gameshark
+Activation = EndFrame
+3019E1E0 0064
+
+[Second shop Cleaning Max]
+Type = Gameshark
+Activation = EndFrame
+3019EC98 0064
+
+[Second shop Security Max]
+Type = Gameshark
+Activation = EndFrame
+3019EC9C 0064
+
+[Second shop Correspondence Max]
+Type = Gameshark
+Activation = EndFrame
+3019ECA0 0064
+

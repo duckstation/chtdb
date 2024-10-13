@@ -1,0 +1,80 @@
+; CHTDB: ; [ Deep Freeze (Japan) {SLPS-01817} ]
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+900A202C 03E703E7
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+800A2032 1010
+
+[Infinite Item]
+Type = Gameshark
+Activation = EndFrame
+900A2038 09090909
+
+[Infinite HP Partner]
+Type = Gameshark
+Activation = EndFrame
+900A341C 03E703E7
+
+[Infinite Item Partner]
+Type = Gameshark
+Activation = EndFrame
+800A3428 0909
+300A342A 0009
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80074B2C 1940
+
+[Changing Partner to Harry (Select Screen)(This native can be used from one stage)]
+Type = Gameshark
+Activation = EndFrame
+8000E2FC 0000
+
+[Changing Partner to Sicily (Select Screen)(This native can be used from one stage)]
+Type = Gameshark
+Activation = EndFrame
+8000E2FC 0000
+
+[Changing Partner to Maria (Select Screen)(This native can be used from one stage)]
+Type = Gameshark
+Activation = EndFrame
+8000E2FC 0000
+
+[Changing Partner to Bagel (Select Screen)(This native can be used from one stage)]
+Type = Gameshark
+Activation = EndFrame
+8000E2FC 0000
+
+[Changing Partner to Sniper (Select Screen)(This native can be used from one stage)]
+Type = Gameshark
+Activation = EndFrame
+8000E2FC 0004
+
+[Changing Partner to Nay (Select Screen)(This native can be used from one stage)]
+Type = Gameshark
+Activation = EndFrame
+8000E2FC 0005
+
+[Main Character Invincibility]
+Type = Gameshark
+Activation = EndFrame
+D00A2082 0000
+300A2082 00FF
+
+[Partner Invincibility]
+Type = Gameshark
+Activation = EndFrame
+D00A3472 0000
+300A3472 00FF
+
+[Open Expert & Training Mode]
+Type = Gameshark
+Activation = EndFrame
+8009BE98 0300
+

@@ -1,0 +1,28 @@
+; CHTDB: ; [ Ayrton Senna KartDuel 2 (Japan) {SLPS-01072} ]
+
+[Enable all classes]
+Type = Gameshark
+Activation = EndFrame
+800DA9E8 0003
+
+[Unlock Hidden models]
+Type = Gameshark
+Activation = EndFrame
+800DA9E6 0006
+
+[Always first place]
+Type = Gameshark
+Activation = EndFrame
+800D9192 0001
+
+[Start in lap 3]
+Type = Gameshark
+Activation = EndFrame
+8001C85C 0001
+8001C860 0003
+
+[IncreaseTime remaining]
+Type = Gameshark
+Activation = EndFrame
+8001C86C 8CA0
+

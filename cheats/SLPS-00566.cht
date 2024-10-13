@@ -1,0 +1,43 @@
+; CHTDB: ; [ BFS: Blue Forest Story: Kaze no Fuuin (Japan) {SLPS-00566} ]
+
+[Infinite Energy In Battle 999 Char1]
+Type = Gameshark
+Activation = EndFrame
+801A2B90 03E7
+
+[Infinite Energy In Battle 999 Char2]
+Type = Gameshark
+Activation = EndFrame
+801A2B94 03E7
+
+[Infinite Energy In Battle Char1]
+Type = Gameshark
+Activation = EndFrame
+801A2B90 001B
+
+[Infinite Energy In Battle Char2]
+Type = Gameshark
+Activation = EndFrame
+801A2B94 001C
+
+[Experience Max]
+Type = Gameshark
+Activation = EndFrame
+901E1378 FFFFFFFF
+
+[Level 99]
+Type = Gameshark
+Activation = EndFrame
+301E1376 0063
+
+[Enemy appearance rate decrease]
+Type = Gameshark
+Activation = EndFrame
+90009010 FFFFFFFF
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+8009F9E4 423F
+3009F9E6 000F
+

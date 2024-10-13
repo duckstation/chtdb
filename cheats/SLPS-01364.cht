@@ -1,0 +1,22 @@
+; CHTDB: ; [ DoDonPachi (Japan) Rev 1 {SLPS-01364} ]
+
+[(1P) 99 aircrafts]
+Type = Gameshark
+Activation = EndFrame
+8007F2DE 0063
+
+[(2P) 99 Aircrafts]
+Type = Gameshark
+Activation = EndFrame
+8007F350 0063
+
+[P1 Invincibility]
+Type = Gameshark
+Activation = EndFrame
+301B7F07 00F0
+
+[P2 Invincibility]
+Type = Gameshark
+Activation = EndFrame
+301B7F47 00F0
+

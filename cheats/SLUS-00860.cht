@@ -1,0 +1,769 @@
+; CHTDB: ; [ Tony Hawk's Pro Skater (USA) (1999) (Activision) {SLUS-00860, SLUS-00860GH} <thps> ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80025556 2400
+
+[Max Score]
+Type = Gameshark
+Activation = EndFrame
+9006CECC 2402FFFF
+9006E880 2402FFFF
+
+[Max Special Bar]
+Type = Gameshark
+Activation = EndFrame
+9002F6E4 24020FFF
+8002F6E8 AE02
+8002F7CE 2400
+8002F7D2 2400
+8003BA5E 2400
+8003C0EA 2400
+
+[Trick is Worth Lots Of Points]
+Type = Gameshark
+Activation = EndFrame
+8006E876 2400
+9006E9A0 24630FFF
+
+[More Misc.\Level Select .With this code, even though the level looks locked, you can still access]
+Type = Gameshark
+Activation = EndFrame
+800D1708 0001
+
+[Paper Thin Skaters]
+Type = Gameshark
+Activation = EndFrame
+8008B6A2 2400
+
+[Skate Upside Down]
+Type = Gameshark
+Activation = EndFrame
+80085182 2400
+
+[Tony Hawk\Have 99 Video Tapes]
+Type = Gameshark
+Activation = EndFrame
+800A684C 0063
+
+[Tony Hawk\All Tapes-Warehouse]
+Type = Gameshark
+Activation = EndFrame
+300A6850 00FF
+
+[Tony Hawk\All Tapes-School]
+Type = Gameshark
+Activation = EndFrame
+300A6851 00FF
+
+[Tony Hawk\All Tapes-Mall]
+Type = Gameshark
+Activation = EndFrame
+300A6852 00FF
+
+[Tony Hawk\Have Gold Medal-Skate Park]
+Type = Gameshark
+Activation = EndFrame
+300A6853 00FF
+
+[Tony Hawk\All Tapes-Downtown]
+Type = Gameshark
+Activation = EndFrame
+300A6854 00FF
+
+[Tony Hawk\All Tapes-Downhill Jam]
+Type = Gameshark
+Activation = EndFrame
+300A6855 00FF
+
+[Tony Hawk\Have Gold Medal-Portland]
+Type = Gameshark
+Activation = EndFrame
+300A6856 00FF
+
+[Tony Hawk\All Tapes-Streets]
+Type = Gameshark
+Activation = EndFrame
+300A6857 00FF
+
+[Tony Hawk\Have Gold Medal-Roswell]
+Type = Gameshark
+Activation = EndFrame
+300A6858 00FF
+
+[Bob Burnquist\Have 99 Video Tapes]
+Type = Gameshark
+Activation = EndFrame
+800A685A 0063
+
+[Bob Burnquist\All Tapes-Warehouse]
+Type = Gameshark
+Activation = EndFrame
+300A685E 00FF
+
+[Bob Burnquist\All Tapes-School]
+Type = Gameshark
+Activation = EndFrame
+300A685F 00FF
+
+[Bob Burnquist\All Tapes-Mall]
+Type = Gameshark
+Activation = EndFrame
+300A6860 00FF
+
+[Bob Burnquist\Have Gold Medal-Skate Park]
+Type = Gameshark
+Activation = EndFrame
+300A6861 00FF
+
+[Bob Burnquist\All Tapes-Downtown]
+Type = Gameshark
+Activation = EndFrame
+300A6862 00FF
+
+[Bob Burnquist\All Tapes-Downhill Jam]
+Type = Gameshark
+Activation = EndFrame
+300A6863 00FF
+
+[Bob Burnquist\Have Gold Medal-Portland]
+Type = Gameshark
+Activation = EndFrame
+300A6864 00FF
+
+[Bob Burnquist\All Tapes-Streets]
+Type = Gameshark
+Activation = EndFrame
+300A6865 00FF
+
+[Bob Burnquist\Have Gold Medal-Roswell]
+Type = Gameshark
+Activation = EndFrame
+300A6866 00FF
+
+[Geoff Rowley\Have 99 Video Tapes]
+Type = Gameshark
+Activation = EndFrame
+800A6868 0063
+
+[Geoff Rowley\All Tapes-Warehouse]
+Type = Gameshark
+Activation = EndFrame
+300A686C 00FF
+
+[Geoff Rowley\All Tapes-School]
+Type = Gameshark
+Activation = EndFrame
+300A686D 00FF
+
+[Geoff Rowley\All Tapes-Mall]
+Type = Gameshark
+Activation = EndFrame
+300A686E 00FF
+
+[Geoff Rowley\Have Gold Medal-Skate Park]
+Type = Gameshark
+Activation = EndFrame
+300A686F 00FF
+
+[Geoff Rowley\All Tapes-Downtown]
+Type = Gameshark
+Activation = EndFrame
+300A6870 00FF
+
+[Geoff Rowley\All Tapes-Downhill Jam]
+Type = Gameshark
+Activation = EndFrame
+300A6871 00FF
+
+[Geoff Rowley\Have Gold Medal-Portland]
+Type = Gameshark
+Activation = EndFrame
+300A6872 00FF
+
+[Geoff Rowley\All Tapes-Streets]
+Type = Gameshark
+Activation = EndFrame
+300A6873 00FF
+
+[Geoff Rowley\Have Gold Medal-Roswell]
+Type = Gameshark
+Activation = EndFrame
+300A6874 00FF
+
+[Bucky Lasek\Have 99 Video Tapes]
+Type = Gameshark
+Activation = EndFrame
+800A6876 0063
+
+[Bucky Lasek\All Tapes-Warehouse]
+Type = Gameshark
+Activation = EndFrame
+300A687A 00FF
+
+[Bucky Lasek\All Tapes-School]
+Type = Gameshark
+Activation = EndFrame
+300A687B 00FF
+
+[Bucky Lasek\All Tapes-Mall]
+Type = Gameshark
+Activation = EndFrame
+300A687C 00FF
+
+[Bucky Lasek\Have Gold Medal-Skate Park]
+Type = Gameshark
+Activation = EndFrame
+300A687D 00FF
+
+[Bucky Lasek\All Tapes-Downtown]
+Type = Gameshark
+Activation = EndFrame
+300A687E 00FF
+
+[Bucky Lasek\All Tapes-Downhill Jam]
+Type = Gameshark
+Activation = EndFrame
+300A687F 00FF
+
+[Bucky Lasek\Have Gold Medal-Portland]
+Type = Gameshark
+Activation = EndFrame
+300A6880 00FF
+
+[Bucky Lasek\All Tapes-Streets]
+Type = Gameshark
+Activation = EndFrame
+300A6881 00FF
+
+[Bucky Lasek\Have Gold Medal-Roswell]
+Type = Gameshark
+Activation = EndFrame
+300A6882 00FF
+
+[Chad Muska\Have 99 Video Tapes]
+Type = Gameshark
+Activation = EndFrame
+800A6884 0063
+
+[Chad Muska\All Tapes-Warehouse]
+Type = Gameshark
+Activation = EndFrame
+300A6888 00FF
+
+[Chad Muska\All Tapes-School]
+Type = Gameshark
+Activation = EndFrame
+300A6889 00FF
+
+[Chad Muska\All Tapes-Mall]
+Type = Gameshark
+Activation = EndFrame
+300A688A 00FF
+
+[Chad Muska\Have Gold Medal-Skate Park]
+Type = Gameshark
+Activation = EndFrame
+300A688B 00FF
+
+[Chad Muska\All Tapes-Downtown]
+Type = Gameshark
+Activation = EndFrame
+300A688C 00FF
+
+[Chad Muska\All Tapes-Downhill Jam]
+Type = Gameshark
+Activation = EndFrame
+300A688D 00FF
+
+[Chad Muska\Have Gold Medal-Portland]
+Type = Gameshark
+Activation = EndFrame
+300A688E 00FF
+
+[Chad Muska\All Tapes-Streets]
+Type = Gameshark
+Activation = EndFrame
+300A688F 00FF
+
+[Chad Muska\Have Gold Medal-Roswell]
+Type = Gameshark
+Activation = EndFrame
+300A6890 00FF
+
+[Kareem Campbell\Have 99 Video Tapes]
+Type = Gameshark
+Activation = EndFrame
+800A6892 0063
+
+[Kareem Campbell\All Tapes-Warehouse]
+Type = Gameshark
+Activation = EndFrame
+300A6896 00FF
+
+[Kareem Campbell\All Tapes-School]
+Type = Gameshark
+Activation = EndFrame
+300A6897 00FF
+
+[Kareem Campbell\All Tapes-Mall]
+Type = Gameshark
+Activation = EndFrame
+300A6898 00FF
+
+[Kareem Campbell\Have Gold Medal-Skate Park]
+Type = Gameshark
+Activation = EndFrame
+300A6899 00FF
+
+[Kareem Campbell\All Tapes-Downtown]
+Type = Gameshark
+Activation = EndFrame
+300A689A 00FF
+
+[Kareem Campbell\All Tapes-Downhill Jam]
+Type = Gameshark
+Activation = EndFrame
+300A689B 00FF
+
+[Kareem Campbell\Have Gold Medal-Portland]
+Type = Gameshark
+Activation = EndFrame
+300A689C 00FF
+
+[Kareem Campbell\All Tapes-Streets]
+Type = Gameshark
+Activation = EndFrame
+300A689D 00FF
+
+[Kareem Campbell\Have Gold Medal-Roswell]
+Type = Gameshark
+Activation = EndFrame
+300A689E 00FF
+
+[Andrew Reynolds\Have 99 Video Tapes]
+Type = Gameshark
+Activation = EndFrame
+800A68A0 0063
+
+[Andrew Reynolds\All Tapes-Warehouse]
+Type = Gameshark
+Activation = EndFrame
+300A68A4 00FF
+
+[Andrew Reynolds\All Tapes-School]
+Type = Gameshark
+Activation = EndFrame
+300A68A5 00FF
+
+[Andrew Reynolds\All Tapes-Mall]
+Type = Gameshark
+Activation = EndFrame
+300A68A6 00FF
+
+[Andrew Reynolds\Have Gold Medal-Skate Park]
+Type = Gameshark
+Activation = EndFrame
+300A68A7 00FF
+
+[Andrew Reynolds\All Tapes-Downtown]
+Type = Gameshark
+Activation = EndFrame
+300A68A8 00FF
+
+[Andrew Reynolds\All Tapes-Downhill Jam]
+Type = Gameshark
+Activation = EndFrame
+300A68A9 00FF
+
+[Andrew Reynolds\Have Gold Medal-Portland]
+Type = Gameshark
+Activation = EndFrame
+300A68AA 00FF
+
+[Andrew Reynolds\All Tapes-Streets]
+Type = Gameshark
+Activation = EndFrame
+300A68AB 00FF
+
+[Andrew Reynolds\Have Gold Medal-Roswell]
+Type = Gameshark
+Activation = EndFrame
+300A68AC 00FF
+
+[Rune Glifberg\Have 99 Video Tapes]
+Type = Gameshark
+Activation = EndFrame
+800A68AE 0063
+
+[Rune Glifberg\All Tapes-Warehouse]
+Type = Gameshark
+Activation = EndFrame
+300A68B2 00FF
+
+[Rune Glifberg\All Tapes-School]
+Type = Gameshark
+Activation = EndFrame
+300A68B3 00FF
+
+[Rune Glifberg\All Tapes-Mall]
+Type = Gameshark
+Activation = EndFrame
+300A68B4 00FF
+
+[Rune Glifberg\Have Gold Medal-Skate Park]
+Type = Gameshark
+Activation = EndFrame
+300A68B5 00FF
+
+[Rune Glifberg\All Tapes-Downtown]
+Type = Gameshark
+Activation = EndFrame
+300A68B6 00FF
+
+[Rune Glifberg\All Tapes-Downhill Jam]
+Type = Gameshark
+Activation = EndFrame
+300A68B7 00FF
+
+[Rune Glifberg\Have Gold Medal-Portland]
+Type = Gameshark
+Activation = EndFrame
+300A68B8 00FF
+
+[Rune Glifberg\All Tapes-Streets]
+Type = Gameshark
+Activation = EndFrame
+300A68B9 00FF
+
+[Rune Glifberg\Have Gold Medal-Roswell]
+Type = Gameshark
+Activation = EndFrame
+300A68BA 00FF
+
+[Jamie Thomas\Have 99 Video Tapes]
+Type = Gameshark
+Activation = EndFrame
+800A68BC 0063
+
+[Jamie Thomas\All Tapes-Warehouse]
+Type = Gameshark
+Activation = EndFrame
+300A68C0 00FF
+
+[Jamie Thomas\All Tapes-School]
+Type = Gameshark
+Activation = EndFrame
+300A68C1 00FF
+
+[Jamie Thomas\All Tapes-Mall]
+Type = Gameshark
+Activation = EndFrame
+300A68C2 00FF
+
+[Jamie Thomas\Have Gold Medal-Skate Park]
+Type = Gameshark
+Activation = EndFrame
+300A68C3 00FF
+
+[Jamie Thomas\All Tapes-Downtown]
+Type = Gameshark
+Activation = EndFrame
+300A68C4 00FF
+
+[Jamie Thomas\All Tapes-Downhill Jam]
+Type = Gameshark
+Activation = EndFrame
+300A68C5 00FF
+
+[Jamie Thomas\Have Gold Medal-Portland]
+Type = Gameshark
+Activation = EndFrame
+300A68C6 00FF
+
+[Jamie Thomas\All Tapes-Streets]
+Type = Gameshark
+Activation = EndFrame
+300A68C7 00FF
+
+[Jamie Thomas\Have Gold Medal-Roswell]
+Type = Gameshark
+Activation = EndFrame
+300A68C8 00FF
+
+[Elissa Steamer\Have 99 Video Tapes]
+Type = Gameshark
+Activation = EndFrame
+800A68CA 0063
+
+[Elissa Steamer\All Tapes-Warehouse]
+Type = Gameshark
+Activation = EndFrame
+300A68CE 00FF
+
+[Elissa Steamer\All Tapes-School]
+Type = Gameshark
+Activation = EndFrame
+300A68CF 00FF
+
+[Elissa Steamer\All Tapes-Mall]
+Type = Gameshark
+Activation = EndFrame
+300A68D0 00FF
+
+[Elissa Steamer\Have Gold Medal-Skate Park]
+Type = Gameshark
+Activation = EndFrame
+300A68D1 00FF
+
+[Elissa Steamer\All Tapes-Downtown]
+Type = Gameshark
+Activation = EndFrame
+300A68D2 00FF
+
+[Elissa Steamer\All Tapes-Downhill Jam]
+Type = Gameshark
+Activation = EndFrame
+300A68D3 00FF
+
+[Elissa Steamer\Have Gold Medal-Portland]
+Type = Gameshark
+Activation = EndFrame
+300A68D4 00FF
+
+[Elissa Steamer\All Tapes-Streets]
+Type = Gameshark
+Activation = EndFrame
+300A68D5 00FF
+
+[Elissa Steamer\Have Gold Medal-Roswell]
+Type = Gameshark
+Activation = EndFrame
+300A68D6 00FF
+
+[Officer Dick\Have 99 Video Tapes]
+Type = Gameshark
+Activation = EndFrame
+800A68D8 0063
+
+[Officer Dick\All Tapes-Warehouse]
+Type = Gameshark
+Activation = EndFrame
+300A68DC 00FF
+
+[Officer Dick\All Tapes-School]
+Type = Gameshark
+Activation = EndFrame
+300A68DD 00FF
+
+[Officer Dick\All Tapes-Mall]
+Type = Gameshark
+Activation = EndFrame
+300A68DE 00FF
+
+[Officer Dick\Have Gold Medal-Skate Park]
+Type = Gameshark
+Activation = EndFrame
+300A68DF 00FF
+
+[Officer Dick\All Tapes-Downtown]
+Type = Gameshark
+Activation = EndFrame
+300A68E0 00FF
+
+[Officer Dick\All Tapes-Downhill Jam]
+Type = Gameshark
+Activation = EndFrame
+300A68E1 00FF
+
+[Officer Dick\Have Gold Medal-Portland]
+Type = Gameshark
+Activation = EndFrame
+300A68E2 00FF
+
+[Officer Dick\All Tapes-Streets]
+Type = Gameshark
+Activation = EndFrame
+300A68E3 00FF
+
+[Officer Dick\Have Gold Medal-Roswell]
+Type = Gameshark
+Activation = EndFrame
+300A68E4 00FF
+
+[More Misc.\Big Head Mode]
+Type = Gameshark
+Activation = EndFrame
+800D1724 0001
+
+[More Misc.\Ether Mode]
+Type = Gameshark
+Activation = EndFrame
+800D1722 0001
+
+[More Misc.\Full Speciometer]
+Type = Gameshark
+Activation = EndFrame
+800D172C 0001
+
+[More Misc.\Nothing Dead Kennedys (Annoying, Isn't It)]
+Type = Gameshark
+Activation = EndFrame
+800D1648 0005
+
+[More Misc.\Have 99 Video Tapes]
+Type = Gameshark
+Activation = EndFrame
+50000B0E 0000
+800A684C 0063
+
+[More Misc.\Tony Hawk-All Tapes]
+Type = Gameshark
+Activation = EndFrame
+50000402 0000
+300A6850 00FF
+
+[More Misc.\Bob Burnquist-All Tapes]
+Type = Gameshark
+Activation = EndFrame
+50000901 0000
+300A685E 00FF
+
+[More Misc.\Geoff Rowley-All Tapes]
+Type = Gameshark
+Activation = EndFrame
+50000901 0000
+300A686C 00FF
+
+[More Misc.\Bucky Lasek-All Tapes]
+Type = Gameshark
+Activation = EndFrame
+50000901 0000
+300A687A 00FF
+
+[More Misc.\Chad Muska-All Tapes]
+Type = Gameshark
+Activation = EndFrame
+50000901 0000
+300A6888 00FF
+
+[More Misc.\Kareem Campbell-All Tapes]
+Type = Gameshark
+Activation = EndFrame
+50000901 0000
+300A6896 00FF
+
+[More Misc.\Andrew Reynolds-All Tapes]
+Type = Gameshark
+Activation = EndFrame
+50000901 0000
+300A68A4 00FF
+
+[More Misc.\Rune Glifberg-All Tapes]
+Type = Gameshark
+Activation = EndFrame
+50000901 0000
+300A68B2 00FF
+
+[More Misc.\Jamie Thomas-All Tapes]
+Type = Gameshark
+Activation = EndFrame
+50000901 0000
+300A68C0 00FF
+
+[More Misc.\Elissa Steamer-All Tapes]
+Type = Gameshark
+Activation = EndFrame
+50000901 0000
+300A68CE 00FF
+
+[More Misc.\Officer Dick-All Tapes]
+Type = Gameshark
+Activation = EndFrame
+50000901 0000
+300A68DC 00FF
+
+[More Misc.\Random Start Locations]
+Type = Gameshark
+Activation = EndFrame
+800D1710 0001
+
+[More Misc.\Slow Motion]
+Type = Gameshark
+Activation = EndFrame
+800D1720 0001
+
+[More Misc.\Max Stats]
+Type = Gameshark
+Activation = EndFrame
+800D1924 000D
+
+[More Misc.\P1 Super Max Balance]
+Type = Gameshark
+Activation = EndFrame
+300A8243 00FF
+
+[More Misc.\P1 Super Max Ollie]
+Type = Gameshark
+Activation = EndFrame
+300A8240 00FF
+
+[More Misc.\P1 Super Max Speed]
+Type = Gameshark
+Activation = EndFrame
+300A8241 00FF
+
+[More Misc.\P1 Super Max Air]
+Type = Gameshark
+Activation = EndFrame
+300A8242 00FF
+
+[More Misc.\P1 Super Max Turning]
+Type = Gameshark
+Activation = EndFrame
+300A8244 00FF
+
+[More Misc.\P2 Super Max Ollie]
+Type = Gameshark
+Activation = EndFrame
+300A8245 00FF
+
+[More Misc.\P2 Super Max Speed]
+Type = Gameshark
+Activation = EndFrame
+300A8246 00FF
+
+[More Misc.\P2 Super Max Air]
+Type = Gameshark
+Activation = EndFrame
+300A8247 00FF
+
+[More Misc.\P2 Super Max Balance]
+Type = Gameshark
+Activation = EndFrame
+300A8248 00FF
+
+[More Misc.\P2 Super Max Turning]
+Type = Gameshark
+Activation = EndFrame
+300A8249 00FF
+
+[Infinite Hang Time for Tricks]
+Description = Press L3 to toggle on/off
+Type = Gameshark
+Activation = EndFrame
+D7010001 01000200
+F509A166 0C021400
+
+[Wireframe mode "Press R3 to toggle on/off"]
+Type = Gameshark
+Activation = EndFrame
+D7010001 02000400
+A7039F9E 0C002400
+
+[Widescreen 16-9 (Vert-)]
+Type = Gameshark
+Activation = EndFrame
+A70D2194 19991333
+

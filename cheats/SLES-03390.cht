@@ -1,0 +1,46 @@
+; CHTDB: ; [ Aqua GT (Europe) {SLES-03390} ]
+
+[Time 00.00.00 / Always Pole]
+Type = Gameshark
+Activation = EndFrame
+A6058D22 AE020000
+
+[Get 15 Points For Each Race / Always First In Rankings]
+Type = Gameshark
+Activation = EndFrame
+D0058218 00A0
+80058214 000F
+D0058218 00A0
+80058216 2442
+
+[Drive In Lap 3 / Always First]
+Type = Gameshark
+Activation = EndFrame
+300A8B90 0003
+
+[Drive In Lap 3 / Always First (Press Select)]
+Type = Gameshark
+Activation = EndFrame
+D00BE9A2 FFFE
+300A8B90 0003
+
+[Freeze Race Time]
+Type = Gameshark
+Activation = EndFrame
+800B6DAC 4CE1
+
+[Start On Lap 2]
+Type = Gameshark
+Activation = EndFrame
+A60A5A8C 00000002
+
+[Max Points]
+Type = Gameshark
+Activation = EndFrame
+80089B04 0378
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+A712257C 13230E5A
+

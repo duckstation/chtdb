@@ -1,0 +1,12 @@
+; CHTDB: ; [ Ad Lib Ouji ...to Fuyukai na Nakamatachi!? (Jpn) (2002) (Nihon Telenet) {SLPS-03510} <adlibouj> ]
+
+[Have 999999 money]
+Type = Gameshark
+Activation = EndFrame
+900526A8 000F423F
+
+[Have 100 AP]
+Type = Gameshark
+Activation = EndFrame
+800531EE 0064
+

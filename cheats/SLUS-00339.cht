@@ -1,0 +1,62 @@
+; CHTDB: ; [ Persona (USA) (1996) (Atlus Software) {SLUS-00339} <persona> ]
+
+[Infinite HP Main character in battle]
+Type = Gameshark
+Activation = EndFrame
+8005ED38 03E7
+
+[Infinite SP Main character in battle]
+Type = Gameshark
+Activation = EndFrame
+8005ED40 03E7
+
+[Infinite HP Nate in battle]
+Type = Gameshark
+Activation = EndFrame
+8005EE24 03E7
+
+[Infinite SP Nate in battle]
+Type = Gameshark
+Activation = EndFrame
+8005EE2C 03E7
+
+[Infinite HP Mark in battle]
+Type = Gameshark
+Activation = EndFrame
+8005EF10 03E7
+
+[Infinite SP Mark in battle]
+Type = Gameshark
+Activation = EndFrame
+8005EF18 03E7
+
+[Infinite HP Yuki in battle]
+Type = Gameshark
+Activation = EndFrame
+8005EFFC 03E7
+
+[Infinite SP Yuki in battle]
+Type = Gameshark
+Activation = EndFrame
+8005F004 03E7
+
+[Infinite HP Ellen in battle]
+Type = Gameshark
+Activation = EndFrame
+8005F0E8 03E7
+
+[Infinite SP Ellen in battle]
+Type = Gameshark
+Activation = EndFrame
+8005F0F0 03E7
+
+[Infinite Money 99999]
+Type = Gameshark
+Activation = EndFrame
+901F2674 0001869F
+
+[No Random Battles (Tested In Hospital)]
+Type = Gameshark
+Activation = EndFrame
+801F15BC 0000
+

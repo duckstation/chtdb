@@ -1,0 +1,13 @@
+; CHTDB: ; [ Star Wars: Rebel Assault II: The Hidden Empire (Germany) {SLES-00584 | SLES-10584} ]
+
+[Unendlich Schild/Energie]
+Type = Gameshark
+Activation = EndFrame
+800BDEBC 1000
+800BDEC0 1000
+
+[Unendlich Leben]
+Type = Gameshark
+Activation = EndFrame
+800E3240 0009
+

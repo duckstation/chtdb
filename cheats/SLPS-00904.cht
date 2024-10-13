@@ -1,0 +1,22 @@
+; CHTDB: ; [ Elf o Karu Monotachi: Hanafuda-hen (Japan) {SLPS-00904} ]
+
+[Infinite Money in hanafuda mode 99999]
+Type = Gameshark
+Activation = EndFrame
+90110018 0001869F
+
+[Have 9999 points in story mode level 1]
+Type = Gameshark
+Activation = EndFrame
+8011001E 270F
+
+[Opponent have 0 points in story mode]
+Type = Gameshark
+Activation = EndFrame
+80110020 0000
+
+[Have 9999 points in story mode level 2]
+Type = Gameshark
+Activation = EndFrame
+801118DE 270F
+

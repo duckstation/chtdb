@@ -1,0 +1,27 @@
+; CHTDB: ; [ Prisoner (Jpn) (1999) (Mainichi) {SLPS-02387} <prisoner> ]
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+80165954 0064
+
+[9999 of machine gun ammo]
+Type = Gameshark
+Activation = EndFrame
+80165938 270F
+
+[9999 Laser ammo]
+Type = Gameshark
+Activation = EndFrame
+8016593A 270F
+
+[9999 Flame thrower ammo]
+Type = Gameshark
+Activation = EndFrame
+8016593C 270F
+
+[9999 Rocket Launcher ammo]
+Type = Gameshark
+Activation = EndFrame
+8016593E 270F
+

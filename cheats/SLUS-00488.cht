@@ -1,0 +1,24 @@
+; CHTDB: ; [ Bravo Air Race (USA) (1997) (THQ) {SLUS-00488} <bravoar> ]
+
+[Always Come In First]
+Type = Gameshark
+Activation = EndFrame
+801E8FE8 0001
+
+[Infinite Checkpoint Time]
+Type = Gameshark
+Activation = EndFrame
+801DE69C 1693
+
+[Infinite Lap Time]
+Type = Gameshark
+Activation = EndFrame
+801D8FE4 0000
+801D8FE8 0000
+801D8FEC 0000
+
+[Quick Race Finish]
+Type = Gameshark
+Activation = EndFrame
+801E8FEE 0003
+

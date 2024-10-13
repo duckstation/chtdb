@@ -1,0 +1,29 @@
+; CHTDB: ; [ GaiaMaster: Kamigami no Board Game (Japan) {SLPS-02075} ]
+
+[P1 Hp 100]
+Type = Gameshark
+Activation = EndFrame
+800866F4 0064
+
+[P2 Hp 00]
+Type = Gameshark
+Activation = EndFrame
+800868D0 0000
+
+[P1 Money 9999]
+Type = Gameshark
+Activation = EndFrame
+800866CC 270F
+
+[P2 Money 0]
+Type = Gameshark
+Activation = EndFrame
+800868A8 0000
+
+[Story mode all weapon skill level 5]
+Type = Gameshark
+Activation = EndFrame
+50001C02 0000
+800888C8 0505
+30088900 0005
+

@@ -1,0 +1,12 @@
+; CHTDB: ; [ Tricky Sliders: Freestyle Snowboard (Japan) {SLPS-01860} ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800AC860 0000
+
+[Max Points]
+Type = Gameshark
+Activation = EndFrame
+800C2E04 FFFF
+

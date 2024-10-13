@@ -1,0 +1,75 @@
+; CHTDB: ; [ LindaÂ³ Again (Japan) {SCPS-10039} ]
+
+[Have 99999 gold]
+Type = Gameshark
+Activation = EndFrame
+900B9374 0001869F
+
+[Infinite HP Ken]
+Type = Gameshark
+Activation = EndFrame
+800BC5C0 03E7
+
+[Infinite BP Ken]
+Type = Gameshark
+Activation = EndFrame
+800BC54C 03E7
+
+[Infinite HP Linda]
+Type = Gameshark
+Activation = EndFrame
+800BC5C2 03E7
+
+[Infinite BP Linda]
+Type = Gameshark
+Activation = EndFrame
+800BC54E 03E7
+
+[Infinite HP Sachiko]
+Type = Gameshark
+Activation = EndFrame
+800BC5C4 03E7
+
+[Infinite HP Dog]
+Type = Gameshark
+Activation = EndFrame
+800BC5C6 03E7
+
+[I do not go through a seasonal]
+Type = Gameshark
+Activation = EndFrame
+800B9210 0000
+
+[All Combat available]
+Type = Gameshark
+Activation = EndFrame
+901EBDA0 0F0F0F0F
+901EBDA4 0F0F0F0F
+901EBDA8 0F0F0F0F
+901EBDAC 3F0F0F0F
+801E9EF6 7FC3
+
+[All Ability to move available]
+Type = Gameshark
+Activation = EndFrame
+901FBEFC 01030301
+901FBF00 02020303
+901FBF04 02010201
+801FBF08 0201
+300B9030 003F
+
+[Defense 999]
+Type = Gameshark
+Activation = EndFrame
+80196FDC 03E7
+
+[Fast Level Up]
+Type = Gameshark
+Activation = EndFrame
+800C20E0 FFFF
+
+[Offense 999]
+Type = Gameshark
+Activation = EndFrame
+800C213C 03E7
+

@@ -1,0 +1,107 @@
+; CHTDB: ; [ Breath of Fire III (Germany) {SLES-01320} ]
+
+[Im Kampf Charakter 1 Unendlich HP]
+Type = Gameshark
+Activation = EndFrame
+80145F18 03E7
+
+[Im Kampf Charakter 1 Unendlich MP]
+Type = Gameshark
+Activation = EndFrame
+80145F1A 03E7
+
+[Im Kampf Charakter 1 Immun gegen Status-Wechsel]
+Type = Gameshark
+Activation = EndFrame
+80145F10 0000
+
+[Im Kampf Charakter 2 Unendlich HP]
+Type = Gameshark
+Activation = EndFrame
+80146058 03E7
+
+[Im Kampf Charakter 2 Unendlich MP]
+Type = Gameshark
+Activation = EndFrame
+8014605A 03E7
+
+[Im Kampf Charakter 2 Immun gegen Status-Wechsel]
+Type = Gameshark
+Activation = EndFrame
+80146050 0000
+
+[Im Kampf Charakter 3 Unendlich HP]
+Type = Gameshark
+Activation = EndFrame
+80146198 03E7
+
+[Im Kampf Charakter 3 Unendlich MP]
+Type = Gameshark
+Activation = EndFrame
+8014619A 03E7
+
+[Im Kampf Charakter 3 Immun gegen Status-Wechsel]
+Type = Gameshark
+Activation = EndFrame
+80146190 0000
+
+[Eine Menge Zennies]
+Type = Gameshark
+Activation = EndFrame
+90144F50 00A84450
+
+[Zeit bleibt bei 00.00]
+Type = Gameshark
+Activation = EndFrame
+80144FC0 0000
+
+[Habe alle Drachen-Gene]
+Type = Gameshark
+Activation = EndFrame
+90145548 FFFFFFFF
+
+[Max Wurf-Kraft]
+Type = Gameshark
+Activation = EndFrame
+801440BC 0100
+
+[Verwandle Ausruhen-Button zu Gehe zu letztem gespeicherten Punkt]
+Type = Gameshark
+Activation = EndFrame
+8014504A 0001
+
+[Habe Holzstab]
+Type = Gameshark
+Activation = EndFrame
+801451DE 2E0E
+
+[Habe Bambusstab]
+Type = Gameshark
+Activation = EndFrame
+801451F0 2F0E
+
+[Habe Deluxe-Stab]
+Type = Gameshark
+Activation = EndFrame
+801451F2 300E
+
+[Habe Angel-Stab]
+Type = Gameshark
+Activation = EndFrame
+801451F4 310E
+
+[Habe Schraubenschlüssel]
+Type = Gameshark
+Activation = EndFrame
+801451F6 320E
+
+[Habe Stab des Meisters]
+Type = Gameshark
+Activation = EndFrame
+801451F8 330E
+
+[Keine Zufallskämpfe]
+Type = Gameshark
+Activation = EndFrame
+80143F22 0000
+

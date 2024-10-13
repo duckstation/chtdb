@@ -1,0 +1,24 @@
+; CHTDB: ; [ WCW/nWo Thunder (USA) (1999) (THQ) {SLUS-00779} <wcwnwo> ]
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801FB6B4 03E8
+
+[P2 Loses Power]
+Type = Gameshark
+Activation = EndFrame
+801FBC3C 0000
+
+[All Wrestlers]
+Type = Gameshark
+Activation = EndFrame
+50008001 0000
+30079F71 0001
+
+[Enable Might Meters All Wrestlers]
+Type = Gameshark
+Activation = EndFrame
+50007F02 0000
+8007A070 5741
+

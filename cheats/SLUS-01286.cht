@@ -1,0 +1,38 @@
+; CHTDB: ; [ Disney's The Little Mermaid II (USA) (2000) (THQ) {SLUS-01286} <mermaid2> ]
+
+[Infinite Health Air]
+Type = Gameshark
+Activation = EndFrame
+800E7D88 0064
+
+[Have All 50 Coins]
+Type = Gameshark
+Activation = EndFrame
+800E90FE 0032
+
+[Have All Pearls]
+Type = Gameshark
+Activation = EndFrame
+800E9116 0005
+
+[Press R1+R2 For Cheat Options (main menu)]
+Type = Gameshark
+Activation = EndFrame
+80077456 1000
+
+[FPS unlocker]
+Type = Gameshark
+Activation = EndFrame
+A701FD2A 0C021400
+
+[Pause doesn't darken screen or mute music]
+Type = Gameshark
+Activation = EndFrame
+A704BB22 10A01000
+A7087012 12001000
+
+[Stealth camo doesn't make you translucent]
+Type = Gameshark
+Activation = EndFrame
+A706381A 0C002400
+

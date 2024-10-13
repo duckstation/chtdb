@@ -1,0 +1,7 @@
+; CHTDB: ; [ Tenkuu no Escaflowne (Japan) {SLPS-01015} ]
+
+[Infinite HP in battle]
+Type = Gameshark
+Activation = EndFrame
+800ADEFA 000C
+

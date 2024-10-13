@@ -1,0 +1,30 @@
+; CHTDB: ; [ Alundra (Spain) {SLES-01258} ]
+
+[Vida Infinita]
+Type = Gameshark
+Activation = EndFrame
+80127D44 0032
+
+[Dinero Infinito]
+Type = Gameshark
+Activation = EndFrame
+800A8D94 270F
+801EB834 270F
+
+[99 Halcones Dorados]
+Type = Gameshark
+Activation = EndFrame
+801EB83A 0063
+
+[Tener Siempre Una Llave]
+Type = Gameshark
+Activation = EndFrame
+800C8D84 0001
+801EB934 0001
+
+[Magia Infinita]
+Type = Gameshark
+Activation = EndFrame
+800A828C 0001
+801EB830 0001
+

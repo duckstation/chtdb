@@ -1,0 +1,12 @@
+; CHTDB: ; [ Chou Hatsumei Boy Kanipan - Hirameki Wonderland (Jpn) (1999) (Taito) {SLPM-86299 (TCPS10009)} <kanipan> ]
+
+[Infinite Energy robot in battle]
+Type = Gameshark
+Activation = EndFrame
+801ADB42 0096
+
+[Infinite Bombs (Special attack)]
+Type = Gameshark
+Activation = EndFrame
+801ADB38 0007
+

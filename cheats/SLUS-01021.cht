@@ -1,0 +1,32 @@
+; CHTDB: ; [ Mort the Chicken (USA) (2000) (Crave Entertainment) {SLUS-01021} <mort> ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800BD544 0064
+
+[Unlock All Levels]
+Type = Gameshark
+Activation = EndFrame
+8009AD3E 0012
+
+[Have All Chicks After Saving One]
+Type = Gameshark
+Activation = EndFrame
+8004F14C 0032
+
+[Have All Coins On Pick-Up]
+Type = Gameshark
+Activation = EndFrame
+800B53E6 0064
+
+[Debug Mode\ON]
+Type = Gameshark
+Activation = EndFrame
+310B814C 0001
+
+[Debug Mode\OFF]
+Type = Gameshark
+Activation = EndFrame
+310B814C 0000
+

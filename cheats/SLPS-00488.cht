@@ -1,0 +1,12 @@
+; CHTDB: ; [ Zoku Gussun Oyoyo (Japan) {SLPS-00488} ]
+
+[P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+300A76E8 0063
+
+[P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+300A76E9 0063
+

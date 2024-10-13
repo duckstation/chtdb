@@ -1,0 +1,27 @@
+; CHTDB: ; [ Iwatobi Penguin Rocky x Hopper (Japan) {SLPS-00832} ]
+
+[Infinite Time in Catch shell mini game]
+Type = Gameshark
+Activation = EndFrame
+800CC1E0 003C
+
+[Have 99 shells in Catch shell mini game]
+Type = Gameshark
+Activation = EndFrame
+800CC1CC 0063
+
+[Have 0 shells left (win the mini game)]
+Type = Gameshark
+Activation = EndFrame
+800CC1B4 0000
+
+[P1 1 in TOTAL always]
+Type = Gameshark
+Activation = EndFrame
+80090F38 0001
+
+[Reward · SHOW TIME · Penguin House added to the OPTION · FREE GAME]
+Type = Gameshark
+Activation = EndFrame
+80053D50 0001
+

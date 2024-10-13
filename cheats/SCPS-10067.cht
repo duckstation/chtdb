@@ -1,0 +1,56 @@
+; CHTDB: ; [ Yarudora Series Vol. 3: Sampaguita (Japan) {SCPS-10067 | SCPS-10068} ]
+
+[Tips Mark If you go to choose a place that hint mark is displayed, you will get Good ending one in the letter]
+Type = Gameshark
+Activation = EndFrame
+801208F4 0001
+
+[Extra scenario generation flag When you select a person who tips mark does not appear to be selected in the first scene, you can go to extra scenario. it is possible to go to the Good ending 2]
+Type = Gameshark
+Activation = EndFrame
+8011F884 0001
+
+[Good ending three generation flag you can go from extra scenario.]
+Type = Gameshark
+Activation = EndFrame
+8011F90C 0001
+
+[Achievement rate Display]
+Type = Gameshark
+Activation = EndFrame
+80094DA4 0001
+
+[Benefits Available]
+Type = Gameshark
+Activation = EndFrame
+80120DC6 00DF
+
+[Title CG Chages 0-3]
+Type = Gameshark
+Activation = EndFrame
+8011F42C 0003
+
+[It will be seen all good ending]
+Type = Gameshark
+Activation = EndFrame
+80120904 0007
+
+[It will be seen all normal ending#]
+Type = Gameshark
+Activation = EndFrame
+80120944 001F
+
+[It will be seen all bad ending]
+Type = Gameshark
+Activation = EndFrame
+9012090C 000FFFFF
+
+[100% achievement rate]
+Type = Gameshark
+Activation = EndFrame
+50001808 0000
+80120B0C FFFF
+50001808 0000
+80120B0E FFFF
+80120BCE 8000
+

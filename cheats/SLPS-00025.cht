@@ -1,0 +1,32 @@
+; CHTDB: ; [ Toushinden (Japan) {SLPS-00025} ]
+
+[Choose Gaia]
+Type = Gameshark
+Activation = EndFrame
+801BB49A 0008
+
+[Choose Sho]
+Type = Gameshark
+Activation = EndFrame
+801BB49A 0009
+
+[Remove Arms]
+Type = Gameshark
+Activation = EndFrame
+801BB49C 000A
+
+[Remove Arms And Legs]
+Type = Gameshark
+Activation = EndFrame
+801BB49C 0005
+
+[Headmode]
+Type = Gameshark
+Activation = EndFrame
+801BB49C 0001
+
+[P1 Plays Automatic]
+Type = Gameshark
+Activation = EndFrame
+801BB496 0001
+

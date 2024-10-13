@@ -1,0 +1,1013 @@
+; CHTDB: ; [ Front Mission 3 (USA) (2000) (Square Electronic Arts) {SLUS-01011} <frontms3> ]
+
+[Other\Misc.\Instantly Win The Target Mission (In Battle) (Press Select+L1+L2)]
+Type = Gameshark
+Activation = EndFrame
+D0124890 0105
+801248D2 0001
+
+[Other\All Characters + Enemies\Infinite Pilot HP (All Allies)]
+Type = Gameshark
+Activation = EndFrame
+801184F6 270F
+8011866A 270F
+801187DE 270F
+80118952 270F
+80118AC6 270F
+80118C3A 270F
+80118DAE 270F
+80118F22 270F
+80119096 270F
+8011920A 270F
+8011937E 270F
+801194F2 270F
+80119666 270F
+801197DA 270F
+8011994E 270F
+80119AC2 270F
+80119C36 270F
+
+[Other\All Characters + Enemies\Infinite AP (All Allies)]
+Type = Gameshark
+Activation = EndFrame
+3011850C 0063
+30118680 0063
+301187F4 0063
+30118968 0063
+30118ADC 0063
+30118C50 0063
+30118DC4 0063
+30118F38 0063
+301190AC 0063
+30119220 0063
+30119394 0063
+30119508 0063
+3011967C 0063
+301197F0 0063
+30119964 0063
+30119AD8 0063
+30119C4C 0063
+
+[Other\All Characters + Enemies\Allies Can Always Move]
+Type = Gameshark
+Activation = EndFrame
+3011851A 0000
+3011868E 0000
+30118802 0000
+30118976 0000
+30118AEA 0000
+30118C5E 0000
+30118DD2 0000
+30118F46 0000
+301190BA 0000
+3011922E 0000
+301193A2 0000
+30119516 0000
+3011968A 0000
+301197FE 0000
+30119972 0000
+30119AE6 0000
+30119C5A 0000
+
+[Other\All Characters + Enemies\Infinite Body HP (All Allies)]
+Type = Gameshark
+Activation = EndFrame
+8011A016 270F
+8011A282 270F
+8011A4EE 270F
+8011A75A 270F
+8011A9C6 270F
+8011AC32 270F
+8011AE9E 270F
+8011B10A 270F
+8011B376 270F
+8011B5E2 270F
+8011B84E 270F
+8011BABA 270F
+8011BD26 270F
+8011BF92 270F
+8011C1FE 270F
+8011C46A 270F
+8011C6D6 270F
+
+[Other\All Characters + Enemies\Infinite Leg HP (All Allies)]
+Type = Gameshark
+Activation = EndFrame
+8011A046 270F
+8011A2B2 270F
+8011A51E 270F
+8011A78A 270F
+8011A9F6 270F
+8011AC62 270F
+8011AECE 270F
+8011B13A 270F
+8011B3A6 270F
+8011B612 270F
+8011B87E 270F
+8011BAEA 270F
+8011BD56 270F
+8011BFC2 270F
+8011C22E 270F
+8011C49A 270F
+8011C706 270F
+
+[Other\All Characters + Enemies\Infinite L Arm HP (All Allies)]
+Type = Gameshark
+Activation = EndFrame
+8011A076 270F
+8011A2E2 270F
+8011A54E 270F
+8011A7BA 270F
+8011AA26 270F
+8011AC92 270F
+8011AEFE 270F
+8011B16A 270F
+8011B3D6 270F
+8011B642 270F
+8011B8AE 270F
+8011BB1A 270F
+8011BD86 270F
+8011BFF2 270F
+8011C25E 270F
+8011C4CA 270F
+8011C736 270F
+
+[Other\All Characters + Enemies\Infinite R Arm HP (All Allies)]
+Type = Gameshark
+Activation = EndFrame
+8011A0A6 270F
+8011A312 270F
+8011A57E 270F
+8011A7EA 270F
+8011AA56 270F
+8011ACC2 270F
+8011AF2E 270F
+8011B19A 270F
+8011B406 270F
+8011B672 270F
+8011B8DE 270F
+8011BB4A 270F
+8011BDB6 270F
+8011C022 270F
+8011C28E 270F
+8011C4FA 270F
+8011C766 270F
+
+[Other\All Characters + Enemies\Enemies About To Surrender]
+Type = Gameshark
+Activation = EndFrame
+301E3D28 00FF
+301E3E9C 00FF
+301E4010 00FF
+301E4184 00FF
+301E42F8 00FF
+301E446C 00FF
+301E45E0 00FF
+301E4754 00FF
+301E48C8 00FF
+301E4A3C 00FF
+301E4BB0 00FF
+301E4D24 00FF
+301E4E98 00FF
+
+[Other\Misc.\Max Money]
+Type = Gameshark
+Activation = EndFrame
+9011E958 0098967F
+
+[Pilot\Alisa Takemura Pilot\Infinite Pilot HP]
+Type = Gameshark
+Activation = EndFrame
+8011920A 270F
+
+[Pilot\Alisa Takemura Pilot\Max Pilot HP]
+Type = Gameshark
+Activation = EndFrame
+8011920C 270F
+
+[Pilot\Alisa Takemura Pilot\Max Ace Rank]
+Type = Gameshark
+Activation = EndFrame
+8011920E 0190
+
+[Pilot\Alisa Takemura Pilot\Infinite AP]
+Type = Gameshark
+Activation = EndFrame
+30119220 0063
+
+[Pilot\Alisa Takemura Pilot\Max AP]
+Type = Gameshark
+Activation = EndFrame
+30119221 0063
+
+[Pilot\Alisa Takemura Pilot\Can Always Move]
+Type = Gameshark
+Activation = EndFrame
+3011922E 0000
+
+[Pilot\Alisa Takemura Pilot\All Skill Levels Max]
+Type = Gameshark
+Activation = EndFrame
+50000D02 0000
+801191E6 3390
+
+[Pilot\Alisa Takemura Pilot\Have 100 Of Every Battle Skill]
+Type = Gameshark
+Activation = EndFrame
+50003002 0000
+80119254 6565
+
+[Pilot\Alisa Takemura Pilot\Never Stunned]
+Type = Gameshark
+Activation = EndFrame
+30119245 0000
+
+[Pilot\Alisa Takemura Pilot\Never Confused]
+Type = Gameshark
+Activation = EndFrame
+30119246 0000
+
+[Pilot\Dennis Mcarth Pilot\Infinite Pilot HP]
+Type = Gameshark
+Activation = EndFrame
+80118952 270F
+
+[Pilot\Dennis Mcarth Pilot\Max Pilot HP]
+Type = Gameshark
+Activation = EndFrame
+80118954 270F
+
+[Pilot\Dennis Mcarth Pilot\Max Ace Rank]
+Type = Gameshark
+Activation = EndFrame
+80118956 0190
+
+[Pilot\Dennis Mcarth Pilot\Infinite AP]
+Type = Gameshark
+Activation = EndFrame
+30118968 0063
+
+[Pilot\Dennis Mcarth Pilot\Max AP]
+Type = Gameshark
+Activation = EndFrame
+30118969 0063
+
+[Pilot\Dennis Mcarth Pilot\Can Always Move]
+Type = Gameshark
+Activation = EndFrame
+30118976 0000
+
+[Pilot\Dennis Mcarth Pilot\All Skill Levels Max]
+Type = Gameshark
+Activation = EndFrame
+50000D02 0000
+8011892E 3390
+
+[Pilot\Dennis Mcarth Pilot\Have 100 Of Every Battle Skill]
+Type = Gameshark
+Activation = EndFrame
+50003002 0000
+8011899C 6565
+
+[Pilot\Dennis Mcarth Pilot\Never Stunned]
+Type = Gameshark
+Activation = EndFrame
+3011898D 0000
+
+[Pilot\Dennis Mcarth Pilot\Never Confused]
+Type = Gameshark
+Activation = EndFrame
+3011898E 0000
+
+[Pilot\Emma Klamsky Pilot\Infinite Pilot HP]
+Type = Gameshark
+Activation = EndFrame
+8011866A 270F
+
+[Pilot\Emma Klamsky Pilot\Max Pilot HP]
+Type = Gameshark
+Activation = EndFrame
+8011866C 270F
+
+[Pilot\Emma Klamsky Pilot\Max Ace Rank]
+Type = Gameshark
+Activation = EndFrame
+8011866E 0190
+
+[Pilot\Emma Klamsky Pilot\Infinite AP]
+Type = Gameshark
+Activation = EndFrame
+30118680 0063
+
+[Pilot\Emma Klamsky Pilot\Max AP]
+Type = Gameshark
+Activation = EndFrame
+30118681 0063
+
+[Pilot\Emma Klamsky Pilot\Can Always Move]
+Type = Gameshark
+Activation = EndFrame
+3011868E 0000
+
+[Pilot\Emma Klamsky Pilot\All Skill Levels Max]
+Type = Gameshark
+Activation = EndFrame
+50000D02 0000
+80118646 3390
+
+[Pilot\Emma Klamsky Pilot\Never Stunned]
+Type = Gameshark
+Activation = EndFrame
+301186A5 0000
+
+[Pilot\Emma Klamsky Pilot\Never Confused]
+Type = Gameshark
+Activation = EndFrame
+301186A6 0000
+
+[Pilot\Hei Fong Liu Pilot\Infinite Pilot HP]
+Type = Gameshark
+Activation = EndFrame
+8011937E 270F
+
+[Pilot\Hei Fong Liu Pilot\Max Pilot HP]
+Type = Gameshark
+Activation = EndFrame
+80119380 270F
+
+[Pilot\Hei Fong Liu Pilot\Max Ace Rank]
+Type = Gameshark
+Activation = EndFrame
+80119382 0190
+
+[Pilot\Hei Fong Liu Pilot\Infinite AP]
+Type = Gameshark
+Activation = EndFrame
+30119394 0063
+
+[Pilot\Hei Fong Liu Pilot\Max AP]
+Type = Gameshark
+Activation = EndFrame
+30119395 0063
+
+[Pilot\Hei Fong Liu Pilot\Can Always Move]
+Type = Gameshark
+Activation = EndFrame
+301193A2 0000
+
+[Pilot\Hei Fong Liu Pilot\All Skill Levels Max]
+Type = Gameshark
+Activation = EndFrame
+50000D02 0000
+8011935A 3390
+
+[Pilot\Hei Fong Liu Pilot\Have 100 Of Every Battle Skill]
+Type = Gameshark
+Activation = EndFrame
+50003002 0000
+801193C8 6565
+
+[Pilot\Hei Fong Liu Pilot\Never Stunned]
+Type = Gameshark
+Activation = EndFrame
+301193B9 0000
+
+[Pilot\Hei Fong Liu Pilot\Never Confused]
+Type = Gameshark
+Activation = EndFrame
+301193BA 0000
+
+[Pilot\Isao Takemura Pilot\Infinite Pilot HP]
+Type = Gameshark
+Activation = EndFrame
+80119AC2 270F
+
+[Pilot\Isao Takemura Pilot\Max Pilot HP]
+Type = Gameshark
+Activation = EndFrame
+80119AC4 270F
+
+[Pilot\Isao Takemura Pilot\Max Ace Rank]
+Type = Gameshark
+Activation = EndFrame
+80119AC6 0190
+
+[Pilot\Isao Takemura Pilot\Infinite AP]
+Type = Gameshark
+Activation = EndFrame
+30119AD8 0063
+
+[Pilot\Isao Takemura Pilot\Max AP]
+Type = Gameshark
+Activation = EndFrame
+30119AD9 0063
+
+[Pilot\Isao Takemura Pilot\Can Always Move]
+Type = Gameshark
+Activation = EndFrame
+30119AE6 0000
+
+[Pilot\Isao Takemura Pilot\All Skill Levels Max]
+Type = Gameshark
+Activation = EndFrame
+50000D02 0000
+80119A9E 3390
+
+[Pilot\Isao Takemura Pilot\Have 100 Of Every Battle Skill]
+Type = Gameshark
+Activation = EndFrame
+50003002 0000
+80119B0C 6565
+
+[Pilot\Isao Takemura Pilot\Never Stunned]
+Type = Gameshark
+Activation = EndFrame
+30119AFD 0000
+
+[Pilot\Isao Takemura Pilot\Always Stunned]
+Type = Gameshark
+Activation = EndFrame
+30119AFD 00FF
+
+[Pilot\Isao Takemura Pilot\Never Confused]
+Type = Gameshark
+Activation = EndFrame
+30119AFE 0000
+
+[Pilot\Isao Takemura Pilot\Always Confused]
+Type = Gameshark
+Activation = EndFrame
+30119AFE 00FF
+
+[Pilot\Jose Astrada Pilot\Infinite Pilot HP]
+Type = Gameshark
+Activation = EndFrame
+80118C3A 270F
+
+[Pilot\Jose Astrada Pilot\Max Pilot HP]
+Type = Gameshark
+Activation = EndFrame
+80118C3C 270F
+
+[Pilot\Jose Astrada Pilot\Max Ace Rank]
+Type = Gameshark
+Activation = EndFrame
+80118C3E 0190
+
+[Pilot\Jose Astrada Pilot\Infinite AP]
+Type = Gameshark
+Activation = EndFrame
+30118C50 0063
+
+[Pilot\Jose Astrada Pilot\Max AP]
+Type = Gameshark
+Activation = EndFrame
+30118C51 0063
+
+[Pilot\Jose Astrada Pilot\Can Always Move]
+Type = Gameshark
+Activation = EndFrame
+30118C5E 0000
+
+[Pilot\Jose Astrada Pilot\All Skill Levels Max]
+Type = Gameshark
+Activation = EndFrame
+50000D02 0000
+80118C16 3390
+
+[Pilot\Jose Astrada Pilot\Have 100 Of Every Battle Skill]
+Type = Gameshark
+Activation = EndFrame
+50003002 0000
+80118C84 6565
+
+[Pilot\Jose Astrada Pilot\Never Stunned]
+Type = Gameshark
+Activation = EndFrame
+30118C75 0000
+
+[Pilot\Jose Astrada Pilot\Never Confused]
+Type = Gameshark
+Activation = EndFrame
+30118C76 0000
+
+[Pilot\Kazuki Takemura Pilot\Infinite Pilot HP]
+Type = Gameshark
+Activation = EndFrame
+801184F6 270F
+
+[Pilot\Kazuki Takemura Pilot\Max Pilot HP]
+Type = Gameshark
+Activation = EndFrame
+801184F8 270F
+
+[Pilot\Kazuki Takemura Pilot\Max Ace Rank]
+Type = Gameshark
+Activation = EndFrame
+801184FA 0190
+
+[Pilot\Kazuki Takemura Pilot\Infinite AP]
+Type = Gameshark
+Activation = EndFrame
+3011850C 0063
+
+[Pilot\Kazuki Takemura Pilot\Max AP]
+Type = Gameshark
+Activation = EndFrame
+3011850D 0063
+
+[Pilot\Kazuki Takemura Pilot\Can Always Move]
+Type = Gameshark
+Activation = EndFrame
+3011851A 0000
+
+[Pilot\Kazuki Takemura Pilot\All Skill Levels Max]
+Type = Gameshark
+Activation = EndFrame
+50000D02 0000
+801184D2 3390
+
+[Pilot\Kazuki Takemura Pilot\Have 100 Of Every Battle Skill]
+Type = Gameshark
+Activation = EndFrame
+50003002 0000
+80118540 6565
+
+[Pilot\Kazuki Takemura Pilot\Never Stunned]
+Type = Gameshark
+Activation = EndFrame
+30118531 0000
+
+[Pilot\Kazuki Takemura Pilot\Never Confused]
+Type = Gameshark
+Activation = EndFrame
+30118532 0000
+
+[Pilot\Linny Barilar Pilot\Infinite Pilot HP]
+Type = Gameshark
+Activation = EndFrame
+80118F22 270F
+
+[Pilot\Linny Barilar Pilot\Max Pilot HP]
+Type = Gameshark
+Activation = EndFrame
+80118F24 270F
+
+[Pilot\Linny Barilar Pilot\Max Ace Rank]
+Type = Gameshark
+Activation = EndFrame
+80118F26 0190
+
+[Pilot\Linny Barilar Pilot\Infinite AP]
+Type = Gameshark
+Activation = EndFrame
+30118F38 0063
+
+[Pilot\Linny Barilar Pilot\Max AP]
+Type = Gameshark
+Activation = EndFrame
+30118F39 0063
+
+[Pilot\Linny Barilar Pilot\Can Always Move]
+Type = Gameshark
+Activation = EndFrame
+30118F46 0000
+
+[Pilot\Linny Barilar Pilot\All Skill Levels Max]
+Type = Gameshark
+Activation = EndFrame
+50000D02 0000
+80118EFE 3390
+
+[Pilot\Linny Barilar Pilot\Have 100 Of Every Battle Skill]
+Type = Gameshark
+Activation = EndFrame
+50003002 0000
+80118F6C 6565
+
+[Pilot\Linny Barilar Pilot\Never Stunned]
+Type = Gameshark
+Activation = EndFrame
+30118F5D 0000
+
+[Pilot\Linny Barilar Pilot\Never Confused]
+Type = Gameshark
+Activation = EndFrame
+30118F5E 0000
+
+[Pilot\Marcus Armstrong Pilot\Infinite Pilot HP]
+Type = Gameshark
+Activation = EndFrame
+80119096 270F
+
+[Pilot\Marcus Armstrong Pilot\Max Pilot HP]
+Type = Gameshark
+Activation = EndFrame
+80119098 270F
+
+[Pilot\Marcus Armstrong Pilot\Max Ace Rank]
+Type = Gameshark
+Activation = EndFrame
+8011909A 0190
+
+[Pilot\Marcus Armstrong Pilot\Infinite AP]
+Type = Gameshark
+Activation = EndFrame
+301190AC 0063
+
+[Pilot\Marcus Armstrong Pilot\Max AP]
+Type = Gameshark
+Activation = EndFrame
+301190AD 0063
+
+[Pilot\Marcus Armstrong Pilot\Can Always Move]
+Type = Gameshark
+Activation = EndFrame
+301190BA 0000
+
+[Pilot\Marcus Armstrong Pilot\All Skill Levels Max]
+Type = Gameshark
+Activation = EndFrame
+50000D02 0000
+80119072 3390
+
+[Pilot\Marcus Armstrong Pilot\Have 100 Of Every Battle Skill]
+Type = Gameshark
+Activation = EndFrame
+50003002 0000
+801190E0 6565
+
+[Pilot\Marcus Armstrong Pilot\Never Stunned]
+Type = Gameshark
+Activation = EndFrame
+301190D1 0000
+
+[Pilot\Marcus Armstrong Pilot\Never Confused]
+Type = Gameshark
+Activation = EndFrame
+301190D2 0000
+
+[Pilot\Mayor Edward Pilot\Infinite Pilot HP]
+Type = Gameshark
+Activation = EndFrame
+8011994E 270F
+
+[Pilot\Mayor Edward Pilot\Max Pilot HP]
+Type = Gameshark
+Activation = EndFrame
+80119950 270F
+
+[Pilot\Mayor Edward Pilot\Max Ace Rank]
+Type = Gameshark
+Activation = EndFrame
+80119952 0190
+
+[Pilot\Mayor Edward Pilot\Infinite AP]
+Type = Gameshark
+Activation = EndFrame
+30119964 0063
+
+[Pilot\Mayor Edward Pilot\Max AP]
+Type = Gameshark
+Activation = EndFrame
+30119965 0063
+
+[Pilot\Mayor Edward Pilot\Can Always Move]
+Type = Gameshark
+Activation = EndFrame
+30119972 0000
+
+[Pilot\Mayor Edward Pilot\All Skill Levels Max]
+Type = Gameshark
+Activation = EndFrame
+50000D02 0000
+8011992A 3390
+
+[Pilot\Mayor Edward Pilot\Have 100 Of Every Battle Skill]
+Type = Gameshark
+Activation = EndFrame
+50003002 0000
+80119998 6565
+
+[Pilot\Mayor Edward Pilot\Never Stunned]
+Type = Gameshark
+Activation = EndFrame
+30119989 0000
+
+[Pilot\Mayor Edward Pilot\Never Confused]
+Type = Gameshark
+Activation = EndFrame
+3011998A 0000
+
+[Pilot\Mijo Shinjo Pilot\Infinite Pilot HP]
+Type = Gameshark
+Activation = EndFrame
+801194F2 270F
+
+[Pilot\Mijo Shinjo Pilot\Max Pilot HP]
+Type = Gameshark
+Activation = EndFrame
+801194F4 270F
+
+[Pilot\Mijo Shinjo Pilot\Max Ace Rank]
+Type = Gameshark
+Activation = EndFrame
+801194F6 0190
+
+[Pilot\Mijo Shinjo Pilot\Infinite AP]
+Type = Gameshark
+Activation = EndFrame
+30119508 0063
+
+[Pilot\Mijo Shinjo Pilot\Max AP]
+Type = Gameshark
+Activation = EndFrame
+30119509 0063
+
+[Pilot\Mijo Shinjo Pilot\Can Always Move]
+Type = Gameshark
+Activation = EndFrame
+30119516 0000
+
+[Pilot\Mijo Shinjo Pilot\All Skill Levels Max]
+Type = Gameshark
+Activation = EndFrame
+50000D02 0000
+801194CE 3390
+
+[Pilot\Mijo Shinjo Pilot\Have 100 Of Every Battle Skill]
+Type = Gameshark
+Activation = EndFrame
+50003002 0000
+8011953C 6565
+
+[Pilot\Mijo Shinjo Pilot\Never Stunned]
+Type = Gameshark
+Activation = EndFrame
+3011952D 0000
+
+[Pilot\Mijo Shinjo Pilot\Never Confused]
+Type = Gameshark
+Activation = EndFrame
+3011952E 0000
+
+[Pilot\Pham Luis Pilot\Infinite Pilot HP]
+Type = Gameshark
+Activation = EndFrame
+80119666 270F
+
+[Pilot\Pham Luis Pilot\Max Pilot HP]
+Type = Gameshark
+Activation = EndFrame
+80119668 270F
+
+[Pilot\Pham Luis Pilot\Max Ace Rank]
+Type = Gameshark
+Activation = EndFrame
+8011966A 0190
+
+[Pilot\Pham Luis Pilot\Infinite AP]
+Type = Gameshark
+Activation = EndFrame
+3011967C 0063
+
+[Pilot\Pham Luis Pilot\Max AP]
+Type = Gameshark
+Activation = EndFrame
+3011967D 0063
+
+[Pilot\Pham Luis Pilot\Can Always Move]
+Type = Gameshark
+Activation = EndFrame
+3011968A 0000
+
+[Pilot\Pham Luis Pilot\All Skill Levels Max]
+Type = Gameshark
+Activation = EndFrame
+50000D02 0000
+80119642 3390
+
+[Pilot\Pham Luis Pilot\Have 100 Of Every Battle Skill]
+Type = Gameshark
+Activation = EndFrame
+50003002 0000
+801196B0 6565
+
+[Pilot\Pham Luis Pilot\Never Stunned]
+Type = Gameshark
+Activation = EndFrame
+301196A1 0000
+
+[Pilot\Pham Luis Pilot\Never Confused]
+Type = Gameshark
+Activation = EndFrame
+301196A2 0000
+
+[Pilot\Ryogo Kusama Pilot\Infinite Pilot HP]
+Type = Gameshark
+Activation = EndFrame
+801187DE 270F
+
+[Pilot\Ryogo Kusama Pilot\Max Pilot HP]
+Type = Gameshark
+Activation = EndFrame
+801187E0 270F
+
+[Pilot\Ryogo Kusama Pilot\Max Ace Rank]
+Type = Gameshark
+Activation = EndFrame
+801187E2 0190
+
+[Pilot\Ryogo Kusama Pilot\Infinite AP]
+Type = Gameshark
+Activation = EndFrame
+301187F4 0063
+
+[Pilot\Ryogo Kusama Pilot\Max AP]
+Type = Gameshark
+Activation = EndFrame
+301187F5 0063
+
+[Pilot\Ryogo Kusama Pilot\Can Always Move]
+Type = Gameshark
+Activation = EndFrame
+30118802 0000
+
+[Pilot\Ryogo Kusama Pilot\All Skill Levels Max]
+Type = Gameshark
+Activation = EndFrame
+50000D02 0000
+801187BA 3390
+
+[Pilot\Ryogo Kusama Pilot\Have 100 Of Every Battle Skill]
+Type = Gameshark
+Activation = EndFrame
+50003002 0000
+80118828 6565
+
+[Pilot\Ryogo Kusama Pilot\Never Stunned]
+Type = Gameshark
+Activation = EndFrame
+30118819 0000
+
+[Pilot\Ryogo Kusama Pilot\Never Confused]
+Type = Gameshark
+Activation = EndFrame
+3011881A 0000
+
+[Pilot\Xiang Mei Lu Pilot\Infinite Pilot HP]
+Type = Gameshark
+Activation = EndFrame
+80118DAE 270F
+
+[Pilot\Xiang Mei Lu Pilot\Max Pilot HP]
+Type = Gameshark
+Activation = EndFrame
+80118DB0 270F
+
+[Pilot\Xiang Mei Lu Pilot\Max Ace Rank]
+Type = Gameshark
+Activation = EndFrame
+80118DB2 0190
+
+[Pilot\Xiang Mei Lu Pilot\Infinite AP]
+Type = Gameshark
+Activation = EndFrame
+30118DC4 0063
+
+[Pilot\Xiang Mei Lu Pilot\Max AP]
+Type = Gameshark
+Activation = EndFrame
+30118DC5 0063
+
+[Pilot\Xiang Mei Lu Pilot\Can Always Move]
+Type = Gameshark
+Activation = EndFrame
+30118DD2 0000
+
+[Pilot\Xiang Mei Lu Pilot\All Skill Levels Max]
+Type = Gameshark
+Activation = EndFrame
+50000D02 0000
+80118D8A 3390
+
+[Pilot\Xiang Mei Lu Pilot\Have 100 Of Every Battle Skill]
+Type = Gameshark
+Activation = EndFrame
+50003002 0000
+80118DF8 6565
+
+[Pilot\Xiang Mei Lu Pilot\Never Stunned]
+Type = Gameshark
+Activation = EndFrame
+30118DE9 0000
+
+[Pilot\Xiang Mei Lu Pilot\Never Confused]
+Type = Gameshark
+Activation = EndFrame
+30118DEA 0000
+
+[Pilot\Xiao Hua Lan Pilot\Infinite Pilot HP]
+Type = Gameshark
+Activation = EndFrame
+801197DA 270F
+
+[Pilot\Xiao Hua Lan Pilot\Max Pilot HP]
+Type = Gameshark
+Activation = EndFrame
+801197DC 270F
+
+[Pilot\Xiao Hua Lan Pilot\Max Ace Rank]
+Type = Gameshark
+Activation = EndFrame
+801197DE 0190
+
+[Pilot\Xiao Hua Lan Pilot\Infinite AP]
+Type = Gameshark
+Activation = EndFrame
+301197F0 0063
+
+[Pilot\Xiao Hua Lan Pilot\Max AP]
+Type = Gameshark
+Activation = EndFrame
+301197F1 0063
+
+[Pilot\Xiao Hua Lan Pilot\Can Always Move]
+Type = Gameshark
+Activation = EndFrame
+301197FE 0000
+
+[Pilot\Xiao Hua Lan Pilot\All Skill Levels Max]
+Type = Gameshark
+Activation = EndFrame
+50000D02 0000
+801197B6 3390
+
+[Pilot\Xiao Hua Lan Pilot\Have 100 Of Every Battle Skill]
+Type = Gameshark
+Activation = EndFrame
+50003002 0000
+80119824 6565
+
+[Pilot\Xiao Hua Lan Pilot\Never Stunned]
+Type = Gameshark
+Activation = EndFrame
+30119815 0000
+
+[Pilot\Xiao Hua Lan Pilot\Never Confused]
+Type = Gameshark
+Activation = EndFrame
+30119816 0000
+
+[Pilot\Xiao Hua Lan Pilot\Yun Lai Fa Pilot\Infinite Pilot HP]
+Type = Gameshark
+Activation = EndFrame
+80118AC6 270F
+
+[Pilot\Xiao Hua Lan Pilot\Yun Lai Fa Pilot\Max Pilot HP]
+Type = Gameshark
+Activation = EndFrame
+80118AC8 270F
+
+[Pilot\Xiao Hua Lan Pilot\Yun Lai Fa Pilot\Max Ace Rank]
+Type = Gameshark
+Activation = EndFrame
+80118ACA 0190
+
+[Pilot\Xiao Hua Lan Pilot\Yun Lai Fa Pilot\Infinite AP]
+Type = Gameshark
+Activation = EndFrame
+30118ADC 0063
+
+[Pilot\Xiao Hua Lan Pilot\Yun Lai Fa Pilot\Max AP]
+Type = Gameshark
+Activation = EndFrame
+30118ADD 0063
+
+[Pilot\Xiao Hua Lan Pilot\Yun Lai Fa Pilot\Can Always Move]
+Type = Gameshark
+Activation = EndFrame
+30118AEA 0000
+
+[Pilot\Xiao Hua Lan Pilot\Yun Lai Fa Pilot\All Skill Levels Max]
+Type = Gameshark
+Activation = EndFrame
+50000D02 0000
+80118AA2 3390
+
+[Pilot\Xiao Hua Lan Pilot\Yun Lai Fa Pilot\Have 100 Of Every Battle Skill]
+Type = Gameshark
+Activation = EndFrame
+50003002 0000
+80118B10 6565
+
+[Pilot\Xiao Hua Lan Pilot\Yun Lai Fa Pilot\Never Stunned]
+Type = Gameshark
+Activation = EndFrame
+30118B01 0000
+
+[Pilot\Xiao Hua Lan Pilot\Yun Lai Fa Pilot\Never Confused]
+Type = Gameshark
+Activation = EndFrame
+30118B02 0000
+

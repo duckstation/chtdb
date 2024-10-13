@@ -1,0 +1,52 @@
+; CHTDB: ; [ Kileak, The Blood (Japan) {SLPS-00027} ]
+
+[Energy 100%]
+Type = Gameshark
+Activation = EndFrame
+800B1390 03E8
+
+[Radar 100%]
+Type = Gameshark
+Activation = EndFrame
+800B1420 0064
+
+[Shield 100% ']
+Type = Gameshark
+Activation = EndFrame
+800B1394 03E8
+
+[Weapon 100%]
+Type = Gameshark
+Activation = EndFrame
+800B4570 0064
+
+[999 Bullet Eritorokuruon]
+Type = Gameshark
+Activation = EndFrame
+800B13CC 03E7
+
+[999 Bullet Eroshion]
+Type = Gameshark
+Activation = EndFrame
+800B13DC 03E7
+
+[999 Bullet Be~eda]
+Type = Gameshark
+Activation = EndFrame
+800B13E0 03E7
+
+[999 BulletS Wallace cancer]
+Type = Gameshark
+Activation = EndFrame
+800B13C4 03E7
+
+[999 BulletS of Sachs]
+Type = Gameshark
+Activation = EndFrame
+800B13D0 03E7
+
+[Not Increase time]
+Type = Gameshark
+Activation = EndFrame
+800BB708 0000
+

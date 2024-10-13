@@ -1,0 +1,32 @@
+; CHTDB: ; [ Favorite Dear - Enkan no Monogatari (Jpn) (2001) (NEC Interchannel) {SLPS-03286 (NIPS-4014)} <favodenk> ]
+
+[999 AP Main Character]
+Type = Gameshark
+Activation = EndFrame
+8018C580 03E7
+
+[999 HP First Female Warrior]
+Type = Gameshark
+Activation = EndFrame
+8018C984 03E7
+
+[999 HP Second Female Warrior (Long Hair)]
+Type = Gameshark
+Activation = EndFrame
+8018CB34 03E7
+
+[999 HP Second Female Warrior (Short Hair)]
+Type = Gameshark
+Activation = EndFrame
+8018CA5C 03E7
+
+[999 HP Fourth Female warrior]
+Type = Gameshark
+Activation = EndFrame
+9018CAC8 03E703E7
+
+[999 HP Fifth Female warrior]
+Type = Gameshark
+Activation = EndFrame
+9018C9F0 03E703E7
+

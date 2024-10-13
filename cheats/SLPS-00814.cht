@@ -1,0 +1,68 @@
+; CHTDB: ; [ Shinsetsu Samurai Spirits - Bushidou Retsuden (Jpn) (1997) (SNK) {SLPS-00814} <samsprpg> ]
+
+[Infinite HP 1st Character in battle]
+Type = Gameshark
+Activation = EndFrame
+801255B2 03E7
+
+[Infinite Morale 1st Character in battle]
+Type = Gameshark
+Activation = EndFrame
+801255B6 270F
+
+[Infinite MP 1st Character in battle]
+Type = Gameshark
+Activation = EndFrame
+801255B6 03E7
+
+[Infinite HP 2nd Character in battle]
+Type = Gameshark
+Activation = EndFrame
+80125656 03E7
+
+[Infinite MP 2nd Character in battle]
+Type = Gameshark
+Activation = EndFrame
+8012565A 03E7
+
+[Infinite HP 3rd Character in battle]
+Type = Gameshark
+Activation = EndFrame
+801256FA 03E7
+
+[Infinite MP 3rd Character in battle]
+Type = Gameshark
+Activation = EndFrame
+801256FE 03E7
+
+[Quick Level Up]
+Type = Gameshark
+Activation = EndFrame
+800F63BC FFFF
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+800FD700 FFFF
+
+[Max Money]
+Type = Gameshark
+Activation = EndFrame
+900FD700 0098967F
+
+[All Mystery]
+Type = Gameshark
+Activation = EndFrame
+300FD4FF 00FF
+
+[I remember all mystery]
+Type = Gameshark
+Activation = EndFrame
+800FD4FC FFFF
+300FD4FE 00FF
+
+[No random battles]
+Type = Gameshark
+Activation = EndFrame
+301280DC 0000
+

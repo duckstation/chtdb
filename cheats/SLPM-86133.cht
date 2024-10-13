@@ -1,0 +1,37 @@
+; CHTDB: ; [ Bugi (Jpn) (1998) (Konami) {SLPM-86133 (VX084-J1)} <bugi> ]
+
+[P1 Infinite Life]
+Type = Gameshark
+Activation = EndFrame
+800D0B24 00C8
+
+[P2 Infinite Life]
+Type = Gameshark
+Activation = EndFrame
+800D1EC0 00C8
+
+[P1 1-Hit Death]
+Type = Gameshark
+Activation = EndFrame
+800D0B24 0000
+
+[P2 1-Hit Death]
+Type = Gameshark
+Activation = EndFrame
+800D1EC0 0000
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A70CA808 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A70CA808 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A70CA808 10000400
+

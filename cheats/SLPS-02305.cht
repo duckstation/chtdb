@@ -1,0 +1,10 @@
+; CHTDB: ; [ Hikari no Shima - Seven Lithographs in Shining Island (Jpn) (1999) (Affect) {SLPS-02305} <hikarish> ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800C90BE 001E
+800DB18C 001E
+800E2E8C 001E
+800F72D8 001E
+

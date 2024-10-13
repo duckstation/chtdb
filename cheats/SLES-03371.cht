@@ -1,0 +1,20 @@
+; CHTDB: ; [ Dave Mirra Freestyle BMX: Maximum Remix (Europe) {SLES-03371} ]
+
+[Unlock All cheats]
+Type = Gameshark
+Activation = EndFrame
+300832A0 00FF
+
+[Unlock	All characters]
+Type = Gameshark
+Activation = EndFrame
+300832A7 000E
+
+[Timer Stopped (Press L1 & L2)]
+Type = Gameshark
+Activation = EndFrame
+D00BD6F2 FAFF
+800D4FBC 0000
+D00BD6F2 FAFF
+800D4FB0 FFFF
+

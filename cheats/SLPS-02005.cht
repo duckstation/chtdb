@@ -1,0 +1,46 @@
+; CHTDB: ; [ Chou Jikuu Yousai Macross: Ai Oboete Imasu ka (Japan) {SLPS-02005 | SLPS-02006} ]
+
+[Infinite Bombs 1ST Cd]
+Type = Gameshark
+Activation = EndFrame
+A60A4060 00010004
+
+[Infinite Shield 1ST Cd]
+Type = Gameshark
+Activation = EndFrame
+800A4612 0065
+800AA8D6 0065
+
+[SDF 1ST Cd]
+Type = Gameshark
+Activation = EndFrame
+800A0B64 0064
+
+[Open Extra Options 1ST Cd]
+Type = Gameshark
+Activation = EndFrame
+800A0B64 0064
+900FE188 00010001
+
+[Infinite Bombs 2ND Cd]
+Type = Gameshark
+Activation = EndFrame
+A60ACC60 00010004
+
+[Infinite Shield 2ND Cd]
+Type = Gameshark
+Activation = EndFrame
+800AD392 0065
+800B34DE 0065
+
+[SDF 2ND CD]
+Type = Gameshark
+Activation = EndFrame
+800A97A4 0064
+
+[Open Extra Options 2ND Cd]
+Type = Gameshark
+Activation = EndFrame
+800A97A4 0064
+900F7BF8 00010001
+

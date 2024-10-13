@@ -1,0 +1,38 @@
+; CHTDB: ; [ ESPN Extreme Games (USA) (1995) (Sony Computer Entertainment America) {SCUS-94503} <espnxtrm> ]
+
+[Always Come In 1st Place]
+Type = Gameshark
+Activation = EndFrame
+8007B1D0 0000
+
+[All cars gets 100 mph]
+Type = Gameshark
+Activation = EndFrame
+8007AB6A 0086
+
+[All cars with higher accelerations]
+Type = Gameshark
+Activation = EndFrame
+8007AB4C 0250
+
+[Always 60 mph]
+Type = Gameshark
+Activation = EndFrame
+8007B1A2 0050
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8007A270 0500
+8007AB50 0500
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+801E9014 09D8
+
+[Stop Timer]
+Type = Gameshark
+Activation = EndFrame
+80043C3C 0000
+

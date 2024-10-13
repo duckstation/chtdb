@@ -1,0 +1,7 @@
+; CHTDB: ; [ Hissatsu Pachinko Station: Monster House Special (Japan) {SLPS-01577} ]
+
+[Have 99999999 money in story mode]
+Type = Gameshark
+Activation = EndFrame
+90010010 E5F5E0FF
+

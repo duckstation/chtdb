@@ -1,0 +1,12 @@
+; CHTDB: ; [ Driver (Italy) {SLES-01977} ]
+
+[No Damage]
+Type = Gameshark
+Activation = EndFrame
+8009ACD8 0000
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+8008A544 1333
+

@@ -1,0 +1,27 @@
+; CHTDB: ; [ Command & Conquer - Red Alert (USA) (1997) (Virgin Interactive Entertainment) {SLUS-00431 / SLUS-00485} <cncredal> ]
+
+[Infinite Energy (Soviet Disc Only)]
+Type = Gameshark
+Activation = EndFrame
+9011E6F0 0C07C000
+901F0000 9201007C
+801F0006 2400
+901F0008 2421FF88
+901F000C 14200002
+801F0012 2400
+901F0014 27FF0004
+901F0018 03E00008
+801F001E 2400
+
+[Infinite Power (Allied)]
+Type = Gameshark
+Activation = EndFrame
+D002A3F8 FFFF
+3002A3F1 00FF
+
+[Infinite Money (Allied)]
+Type = Gameshark
+Activation = EndFrame
+D002A3F8 FFFF
+3002A3D1 00FF
+

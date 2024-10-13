@@ -1,0 +1,55 @@
+; CHTDB: ; [ F1 2000 (Europe) {SLES-02722} ]
+
+[Stop Timer]
+Type = Gameshark
+Activation = EndFrame
+80034E14 0000
+
+[Start At Lap 4]
+Type = Gameshark
+Activation = EndFrame
+A6034E20 01010304
+
+[Always First (Display)]
+Type = Gameshark
+Activation = EndFrame
+D0088BA4 0001
+80088BA6 3402
+
+[Team Has 999 Points]
+Type = Gameshark
+Activation = EndFrame
+8003C3AA 03E7
+
+[Timer At 0.00.00 (Always Pole)(.Press L1 & L2 & R1 & R2]
+Type = Gameshark
+Activation = EndFrame
+D0038FA6 F0FF
+80034E14 0000
+
+[Other Drivers Can't Score (Press L1 & R1)]
+Type = Gameshark
+Activation = EndFrame
+D0038FA6 F3FF
+50001502 0000
+8003C380 0000
+
+[Team Has 288 Points (Press L2 & R2)]
+Type = Gameshark
+Activation = EndFrame
+D0038FA6 FCFF
+8003C3AA 0120
+
+[Other Teams Can't Score (Press L2 & R2)]
+Type = Gameshark
+Activation = EndFrame
+D0038FA6 FCFF
+5000B002 0000
+8003C3AC 0000
+
+[Slow Motion\On (Press Select & R2]
+Type = Gameshark
+Activation = EndFrame
+D0038FA6 FDFE
+3001C340 0000
+

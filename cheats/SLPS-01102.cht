@@ -1,0 +1,49 @@
+; CHTDB: ; [ Hybrid (Japan) {SLPS-01102} ]
+
+[Health Cheat]
+Type = Gameshark
+Activation = EndFrame
+800EE318 0078
+
+[Mine Cheat]
+Type = Gameshark
+Activation = EndFrame
+800DB644 0009
+
+[Gun Cheat]
+Type = Gameshark
+Activation = EndFrame
+80089770 1A1B
+
+[Ammo 2 Cheat]
+Type = Gameshark
+Activation = EndFrame
+800897F4 270E
+
+[Fully open map]
+Type = Gameshark
+Activation = EndFrame
+800ED0E6 0001
+
+[The number of credits]
+Type = Gameshark
+Activation = EndFrame
+800ED10C 0001
+
+[Does not decrease ammunition]
+Type = Gameshark
+Activation = EndFrame
+800ED0EC 0001
+300DB644 0063
+
+[You can teleport to the location of all (WARP) in the game load]
+Type = Gameshark
+Activation = EndFrame
+800ED112 0001
+800ED0EA 0001
+
+[All Sound Test & Pick level in the game PAUSED]
+Type = Gameshark
+Activation = EndFrame
+8009E7E0 0001
+

@@ -1,0 +1,82 @@
+; CHTDB: ; [ Disruptor (France) {SLES-00564} ]
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+8007815C 03E7
+
+[Infinite Psionic]
+Type = Gameshark
+Activation = EndFrame
+80078164 03E7
+
+[Infinite Ammo 18MM Guns]
+Type = Gameshark
+Activation = EndFrame
+80057490 03E7
+
+[Infinite Ammo Phase Guns]
+Type = Gameshark
+Activation = EndFrame
+80057494 03E7
+
+[Infinite HiFreq Ammo P. Guns]
+Type = Gameshark
+Activation = EndFrame
+80057498 03E7
+
+[Infinite Ammo AM Blaster Guns]
+Type = Gameshark
+Activation = EndFrame
+8005749C 03E7
+
+[Infinite Ammo Lock On Gun]
+Type = Gameshark
+Activation = EndFrame
+800574A0 03E7
+
+[Infinite Ammo Cyclone]
+Type = Gameshark
+Activation = EndFrame
+800574A4 03E7
+
+[Enable 18mm Automatic]
+Type = Gameshark
+Activation = EndFrame
+80077BF8 0001
+
+[Enable Fusil Laser]
+Type = Gameshark
+Activation = EndFrame
+80077BFC 0001
+
+[Enable Mitrailleuse Laser]
+Type = Gameshark
+Activation = EndFrame
+80077C00 0001
+
+[Enable Canon Traceur]
+Type = Gameshark
+Activation = EndFrame
+80077C04 0001
+
+[Enable Fusil Antimatier]
+Type = Gameshark
+Activation = EndFrame
+80077C08 0001
+
+[Enable Cyclone Antimatier]
+Type = Gameshark
+Activation = EndFrame
+80077C0C 0001
+
+[Enable Zodiaque]
+Type = Gameshark
+Activation = EndFrame
+80077C10 0001
+
+[Enable Lance A Plasma]
+Type = Gameshark
+Activation = EndFrame
+80077C14 0001
+

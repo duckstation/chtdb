@@ -1,0 +1,37 @@
+; CHTDB: ; [ Koudelka (USA) (2000) (Infogrames) {SLUS-01051 / SLUS-01100 / SLUS-01101 / SLUS-01102} <koudelka> ]
+
+[No Random Battles]
+Type = Gameshark
+Activation = EndFrame
+801D11D0 0821
+
+[Koudelka Infinite Hit Points]
+Type = Gameshark
+Activation = EndFrame
+801D13C8 7FFF
+
+[Koudelka Infinite Magic Points]
+Type = Gameshark
+Activation = EndFrame
+801D13D8 7FFF
+
+[Edward Infinite Hit Points]
+Type = Gameshark
+Activation = EndFrame
+801CF9D0 7FFF
+
+[Edward Infinite Magic Points]
+Type = Gameshark
+Activation = EndFrame
+801CF9E0 7FFF
+
+[James Infinite Hit Points]
+Type = Gameshark
+Activation = EndFrame
+801CDFD8 7FFF
+
+[James Infinite Magic Points]
+Type = Gameshark
+Activation = EndFrame
+801CDFE8 7FFF
+

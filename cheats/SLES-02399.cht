@@ -1,0 +1,44 @@
+; CHTDB: ; [ Grandia (Germany) {SLES-02399 | SLES-12399} ]
+
+[Unendlich HP Justin]
+Type = Gameshark
+Activation = EndFrame
+80010278 03E7
+
+[Max HP Justin]
+Type = Gameshark
+Activation = EndFrame
+80010276 03E7
+
+[Unendlich SP Justin]
+Type = Gameshark
+Activation = EndFrame
+80010284 03E7
+
+[Unendlich HP Feena]
+Type = Gameshark
+Activation = EndFrame
+800102F8 03E7
+
+[Max HP	Feena]
+Type = Gameshark
+Activation = EndFrame
+800102F6 03E7
+
+[Unendlich SP Feena]
+Type = Gameshark
+Activation = EndFrame
+80010304 03E7
+
+[Unendlich Goldstücke]
+Type = Gameshark
+Activation = EndFrame
+80010166 0098
+
+[Besitze alle Zauber alle Charaktere]
+Type = Gameshark
+Activation = EndFrame
+50003201 0000
+3001066C 00FF
+800106CE FFFF
+

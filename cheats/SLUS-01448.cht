@@ -1,0 +1,27 @@
+; CHTDB: ; [ Worms World Party (USA) (2002) (Ubi Soft Entertainment Software) {SLUS-01448} <wormswp> ]
+
+[P1 Infinite Health - Worm 1]
+Type = Gameshark
+Activation = EndFrame
+801A4F8E 0064
+
+[P1 Infinite Health - Worm 2]
+Type = Gameshark
+Activation = EndFrame
+801A69B6 0064
+
+[P1 Infinite Health - Worm 3]
+Type = Gameshark
+Activation = EndFrame
+801A3566 0064
+
+[P1 Infinite Health - Worm 4]
+Type = Gameshark
+Activation = EndFrame
+801A83FE 0064
+
+[Infinite Turn Time]
+Type = Gameshark
+Activation = EndFrame
+301A039D 00FF
+

@@ -1,0 +1,18 @@
+; CHTDB: ; [ Ray Tracers (Jpn) (1997) (Taito) {SLPS-00098} <raytracrj> ]
+
+[Infinite Nitro]
+Type = Gameshark
+Activation = EndFrame
+80057CB4 03B6
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80058088 06B8
+
+[Max Speed]
+Type = Gameshark
+Activation = EndFrame
+80058088 05F5
+80057CB4 03B6
+

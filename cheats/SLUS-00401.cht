@@ -1,0 +1,113 @@
+; CHTDB: ; [ MechWarrior 2 - 31st Century Combat - Arcade Combat Edition (USA) (1997) (Activision) {SLUS-00401} <mechwar2> ]
+
+[All CheatS]
+Type = Gameshark
+Activation = EndFrame
+80076CE4 FFFF
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80034B7A 2400
+
+[Infinite Weapon 1]
+Type = Gameshark
+Activation = EndFrame
+800D12DE 0064
+
+[Weapon 1 Rapid Fire]
+Type = Gameshark
+Activation = EndFrame
+800D12E0 0001
+
+[Infinite Weapon 2]
+Type = Gameshark
+Activation = EndFrame
+800D12FA 03E7
+
+[Weapon 2 Rapid Fire]
+Type = Gameshark
+Activation = EndFrame
+800D12FC 0001
+
+[Infinite Weapon 3]
+Type = Gameshark
+Activation = EndFrame
+800D1316 03E7
+
+[Weapon 3 Rapid Fire]
+Type = Gameshark
+Activation = EndFrame
+800D1318 0001
+
+[Infinite Weapon 4]
+Type = Gameshark
+Activation = EndFrame
+800D1332 03E7
+
+[Weapon 4 Rapid Fire]
+Type = Gameshark
+Activation = EndFrame
+800D1334 0001
+
+[Infinite Weapon 5]
+Type = Gameshark
+Activation = EndFrame
+800D134E 03E7
+
+[Weapon 5 Rapid Fire]
+Type = Gameshark
+Activation = EndFrame
+800D1350 0001
+
+[Infinite Weapon 6]
+Type = Gameshark
+Activation = EndFrame
+800D136A 03E7
+
+[Weapon 6 Rapid Fire]
+Type = Gameshark
+Activation = EndFrame
+800D136C 0001
+
+[Infinite Weapon 7]
+Type = Gameshark
+Activation = EndFrame
+800D1386 03E7
+
+[Weapon 7 Rapid Fire]
+Type = Gameshark
+Activation = EndFrame
+800D1388 0001
+
+[Infinite Weapon 8]
+Type = Gameshark
+Activation = EndFrame
+800D13A2 03E7
+
+[Weapon 8 Rapid Fire]
+Type = Gameshark
+Activation = EndFrame
+800D13A4 0001
+
+[Infinite Jump Jets]
+Type = Gameshark
+Activation = EndFrame
+800D164C 000A
+
+[Jumps Jets Always Activated (Always In Air)]
+Type = Gameshark
+Activation = EndFrame
+800D1648 0001
+
+[Never Overheat]
+Type = Gameshark
+Activation = EndFrame
+800D1268 0000
+800D126C 0000
+
+[Speed Increase]
+Type = Gameshark
+Activation = EndFrame
+800D163C 0343
+

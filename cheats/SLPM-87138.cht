@@ -1,0 +1,55 @@
+; CHTDB: ; [ Groove Adventure Rave - Mikan no Hiseki (Jpn) (2002) (Konami) {SLPM-87138 (VX265-J1)} <ravemh> ]
+
+[Infinite Energy in battle Haru Glory]
+Type = Gameshark
+Activation = EndFrame
+80115A16 03E7
+
+[Infinite Energy in battle Shuda]
+Type = Gameshark
+Activation = EndFrame
+8011595E 03E7
+
+[Infinite Energy in battle Elie]
+Type = Gameshark
+Activation = EndFrame
+80115ACE 03E7
+
+[Infinite Gold]
+Type = Gameshark
+Activation = EndFrame
+900F1628 0098967F
+
+[Recovey HP After Battle]
+Type = Gameshark
+Activation = EndFrame
+D0062294 0124
+800622B0 0001
+
+[No Random Battles]
+Type = Gameshark
+Activation = EndFrame
+800F1A56 0000
+
+[Password Busting Judge]
+Type = Gameshark
+Activation = EndFrame
+D00B5E00 1C94
+800B5EC2 1000
+
+[No Decrease Gauge]
+Type = Gameshark
+Activation = EndFrame
+D00674B0 1023
+800674B2 0060
+
+[Equipment / Weapons 00-36]
+Type = Gameshark
+Activation = EndFrame
+300F165A 0036
+
+[Nakajima warp destination All]
+Type = Gameshark
+Activation = EndFrame
+300F1A6F 00FF
+

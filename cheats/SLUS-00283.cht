@@ -1,0 +1,17 @@
+; CHTDB: ; [ Tempest X3 (USA) (1996) (Interplay Productions) {SLUS-00283} <tempx3> ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8009931A 0003
+
+[Infinite Zaps]
+Type = Gameshark
+Activation = EndFrame
+80099348 0001
+
+[Always Have Power Up (Tempest X Mode Only)]
+Type = Gameshark
+Activation = EndFrame
+80099316 0005
+

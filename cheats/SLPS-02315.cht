@@ -1,0 +1,48 @@
+; CHTDB: ; [ Soukou Kihei Votoms: Koutetsu no Gunzei (Japan) {SLPS-02315} ]
+
+[Infinite HP Main Unit]
+Type = Gameshark
+Activation = EndFrame
+800A55FE 0190
+
+[Infinite HP 2nd Unit]
+Type = Gameshark
+Activation = EndFrame
+800A56DE 0190
+
+[Instant Clear Stage]
+Type = Gameshark
+Activation = EndFrame
+A70237AE 1C401400
+
+[Clear flag * 3 3 clear flag, VS Red shoulder and story flow can be selected.]
+Type = Gameshark
+Activation = EndFrame
+80094AF2 0001
+
+[Full Story domination]
+Type = Gameshark
+Activation = EndFrame
+800A2658 00FF
+
+[All weapons can be selected]
+Type = Gameshark
+Activation = EndFrame
+A70C756E 10401400
+A70C75BE 10401400
+A70C75E6 10401400
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+A60208F2 00430040
+A602113A 00430040
+
+[Mortal blow Press Select+L2]
+Type = Gameshark
+Activation = EndFrame
+D00948EA 0101
+80025AE2 1040
+D00948EA 0102
+80025AE2 1440
+

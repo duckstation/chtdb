@@ -1,0 +1,147 @@
+; CHTDB: ; [ Street Fighter Alpha 2 (USA) (1996) (Capcom Entertainment) {SLUS-00258} <sfa2> ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80190324 6302
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801981F0 0090
+
+[P2 1-Hit Death]
+Type = Gameshark
+Activation = EndFrame
+A6198584 00900001
+
+[P1 Super Always Powered at Level 3]
+Type = Gameshark
+Activation = EndFrame
+8019825A 0090
+
+[P1 Select Character\Ryu (Arcade Mode)]
+Type = Gameshark
+Activation = EndFrame
+8019823A 0000
+
+[P1 Select Character\Ken (Arcade Mode)]
+Type = Gameshark
+Activation = EndFrame
+8019823A 0100
+
+[P1 Select Character\Akuma (Arcade Mode)]
+Type = Gameshark
+Activation = EndFrame
+8019823A 0200
+
+[P1 Select Character\Charlie (Arcade Mode)]
+Type = Gameshark
+Activation = EndFrame
+8019823A 0300
+
+[P1 Select Character\Chun Li (Arcade Mode)]
+Type = Gameshark
+Activation = EndFrame
+8019823A 0400
+
+[P1 Select Character\Adon (Arcade Mode)]
+Type = Gameshark
+Activation = EndFrame
+8019823A 0500
+
+[P1 Select Character\Sodom (Arcade Mode)]
+Type = Gameshark
+Activation = EndFrame
+8019823A 0600
+
+[P1 Select Character\Guy (Arcade Mode)]
+Type = Gameshark
+Activation = EndFrame
+8019823A 0700
+
+[P1 Select Character\Birdie (Arcade Mode)]
+Type = Gameshark
+Activation = EndFrame
+8019823A 0800
+
+[P1 Select Character\Rose (Arcade Mode)]
+Type = Gameshark
+Activation = EndFrame
+8019823A 0900
+
+[P1 Select Character\M.Bison (Arcade Mode)]
+Type = Gameshark
+Activation = EndFrame
+8019823A 0A00
+
+[P1 Select Character\Sagat (Arcade Mode)]
+Type = Gameshark
+Activation = EndFrame
+8019823A 0B00
+
+[P1 Select Character\Dan (Arcade Mode)]
+Type = Gameshark
+Activation = EndFrame
+8019823A 0C00
+
+[P1 Select Character\Sakura (Arcade Mode)]
+Type = Gameshark
+Activation = EndFrame
+8019823A 0D00
+
+[P1 Select Character\Rolento (Arcade Mode)]
+Type = Gameshark
+Activation = EndFrame
+8019823A 0E00
+
+[P1 Select Character\Dhalsim (Arcade Mode)]
+Type = Gameshark
+Activation = EndFrame
+8019823A 0F00
+
+[P1 Select Character\Zangief (Arcade Mode)]
+Type = Gameshark
+Activation = EndFrame
+8019823A 1000
+
+[P1 Select Character\Gen (Arcade Mode)]
+Type = Gameshark
+Activation = EndFrame
+8019823A 1100
+
+[P1 Select Character\Chun Li (SSF2 Turbo) (Arcade Mode)]
+Type = Gameshark
+Activation = EndFrame
+8019823A 1200
+
+[P1 Select Character\Gen (New) (Arcade Mode)]
+Type = Gameshark
+Activation = EndFrame
+8019823A 1900
+
+[P1 Select Character\Akuma (New) (Arcade Mode)]
+Type = Gameshark
+Activation = EndFrame
+8019823A 1600
+
+[P1 Select Character\Ryu (New) (Arcade Mode)]
+Type = Gameshark
+Activation = EndFrame
+8019823A 1B00
+
+[P1 Select Character\Rose (New) (Arcade Mode)]
+Type = Gameshark
+Activation = EndFrame
+8019823A 1700
+
+[P1 Select Character\Rolento (New) (Arcade Mode)]
+Type = Gameshark
+Activation = EndFrame
+8019823A 1800
+
+[P1 Select Character\Ken (New) (Arcade Mode)]
+Type = Gameshark
+Activation = EndFrame
+8019823A 1A00
+

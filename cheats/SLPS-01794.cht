@@ -1,0 +1,25 @@
+; CHTDB: ; [ Sound Novel Evolution 2: Kamaitachi no Yoru Tokubetsu Hen (Japan) {SLPS-01794} ]
+
+[Infinite Saves]
+Type = Gameshark
+Activation = EndFrame
+800792B6 0000
+
+[Unlock stories]
+Type = Gameshark
+Activation = EndFrame
+900110C8 99816981
+900110CC 99818F82
+800110D0 6A81
+900110D4 99816981
+900110D8 99818F82
+800110DC 6A81
+900110E4 99816981
+900110E8 99818F82
+800110EC 6A81
+
+[Kamaitachi no Yoru selectable naughty little .After the game start, enter the movement screen by pressing the Triangle button, please select the 126 number.]
+Type = Gameshark
+Activation = EndFrame
+301F5DB6 0001
+

@@ -1,0 +1,227 @@
+; CHTDB: ; [ ReBoot (USA) (1998) (Electronic Arts) {SLUS-00274} <reboot> ]
+
+[Family First\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+9009DB60 00000000
+
+[Family First\Infinite Weapon Energy]
+Type = Gameshark
+Activation = EndFrame
+8011319C 00FF
+
+[Family First\Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+801131D8 13AF
+
+[Family First\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80112F50 000F
+
+[Ready The Troops\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801061E6 03E8
+
+[Ready The Troops\Infinite Weapon Energy]
+Type = Gameshark
+Activation = EndFrame
+8011230C 0064
+
+[Ready The Troops\Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80112348 152A
+
+[Ready The Troops\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801120C0 000F
+
+[Scenerio 3\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80113014 000F
+
+[Scenerio 3\Infinite Weapon Energy]
+Type = Gameshark
+Activation = EndFrame
+80113260 0064
+
+[Scenerio 3\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80106D7E 03E8
+
+[Scenerio 3\Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+8011329C 152A
+
+[Scenerio 4\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801149FC 000F
+
+[Scenerio 4\Infinite Weapon Energy]
+Type = Gameshark
+Activation = EndFrame
+80114C48 0064
+
+[Scenerio 4\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80108A0E 03E8
+
+[Scenerio 4\Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80114C80 152A
+
+[Scenerio 5\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801120A4 000F
+
+[Scenerio 5\Infinite Weapon Energy]
+Type = Gameshark
+Activation = EndFrame
+801122F0 0064
+
+[Scenerio 5\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80105542 03E8
+
+[Scenerio 5\Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+8011232C 152A
+
+[Scenerio 6\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8011941C 000F
+
+[Scenerio 6\Infinite Weapon Energy]
+Type = Gameshark
+Activation = EndFrame
+80119668 0064
+
+[Scenerio 6\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8010CE4A 03E8
+
+[Scenerio 6\Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+801196A0 152A
+
+[Scenerio 7\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80106CBC 000F
+
+[Scenerio 7\Infinite Weapon Energy]
+Type = Gameshark
+Activation = EndFrame
+80106F08 0064
+
+[Scenerio 7\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800FB32A 03E8
+
+[Misc\Weapon Pistol 1]
+Type = Gameshark
+Activation = EndFrame
+80113194 0000
+
+[Misc\Weapon Pistol 2]
+Type = Gameshark
+Activation = EndFrame
+80113194 0001
+
+[Misc\Weapon Pistol 3]
+Type = Gameshark
+Activation = EndFrame
+80113194 0002
+
+[Misc\Weapon Blaster 1]
+Type = Gameshark
+Activation = EndFrame
+80113194 0003
+
+[Misc\Weapon Blaster 2]
+Type = Gameshark
+Activation = EndFrame
+80113194 0004
+
+[Misc\Weapon Blaster 3]
+Type = Gameshark
+Activation = EndFrame
+80113194 0005
+
+[Misc\Weapon Rocket 1]
+Type = Gameshark
+Activation = EndFrame
+80113194 0006
+
+[Misc\Weapon Rocket 2]
+Type = Gameshark
+Activation = EndFrame
+80113194 0007
+
+[Misc\Weapon Rocket 3]
+Type = Gameshark
+Activation = EndFrame
+80113194 0008
+
+[Misc\Glitch Tool Mend]
+Type = Gameshark
+Activation = EndFrame
+80113190 0009
+
+[Misc\Glitch Tool Mortar]
+Type = Gameshark
+Activation = EndFrame
+80113190 000A
+
+[Misc\Glitch Tool FlameThrower]
+Type = Gameshark
+Activation = EndFrame
+80113190 000B
+
+[Misc\Glitch Tool Box Gun]
+Type = Gameshark
+Activation = EndFrame
+80113190 000E
+
+[Misc\Glitch Tool Vampire]
+Type = Gameshark
+Activation = EndFrame
+80113190 000F
+
+[Misc\Glitch Tool Anti-Virus]
+Type = Gameshark
+Activation = EndFrame
+80113190 0011
+
+[Misc\Play As Dot Matrix]
+Type = Gameshark
+Activation = EndFrame
+30045ED0 0001
+
+[Misc\Play As Enzo]
+Type = Gameshark
+Activation = EndFrame
+30045ED0 0002
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+A70F0B8C 19991333
+

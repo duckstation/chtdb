@@ -1,0 +1,32 @@
+; CHTDB: ; [ Xevious 3D/G+ (Japan) {SLPS-00750} ]
+
+[Xevious\Invincibility]
+Type = Gameshark
+Activation = EndFrame
+80025E82 1000
+
+[Xevious 3D\P1 Infinite Life]
+Type = Gameshark
+Activation = EndFrame
+8012DC90 0003
+
+[Xevious 3D\P1 Full Gun Power]
+Type = Gameshark
+Activation = EndFrame
+8012DC28 0003
+
+[Xevious 3D\P2 Infinite Life]
+Type = Gameshark
+Activation = EndFrame
+8012DC94 0003
+
+[Xevious 3D\P2 Full Gun Power]
+Type = Gameshark
+Activation = EndFrame
+8012DC2C 0003
+
+[Xevious 3D\Invincibility]
+Type = Gameshark
+Activation = EndFrame
+8006E272 1000
+

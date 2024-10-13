@@ -1,0 +1,50 @@
+; CHTDB: ; [ Heart of Darkness (USA) (1998) (Interplay Productions) {SLUS-00696 / SLUS-00741} <heartdrk> ]
+
+[Invincibility (Almost Complete)]
+Type = Gameshark
+Activation = EndFrame
+800885CA C000
+
+[P1 Open All Cinematics]
+Type = Gameshark
+Activation = EndFrame
+900A02BC FFFFFFFF
+
+[P1 Open All Levels]
+Type = Gameshark
+Activation = EndFrame
+800A02BA 0007
+
+[Auto kill enemies "Press L3 to toggle on/off"]
+Type = Gameshark
+Activation = EndFrame
+D7010001 00000200
+F50356F6 14402400
+
+[Hit anywhere "Press R3 to toggle on/off"]
+Type = Gameshark
+Activation = EndFrame
+D7010001 01000400
+F503EE76 14401000
+F5029B5E 10402400
+F503B59E 10402400
+F50299DA 10402400
+F5036426 10402400
+
+[More aggresive lightning gun]
+Type = Gameshark
+Activation = EndFrame
+A7026B02 16222400
+
+[Underwater effect]
+Type = Gameshark
+Activation = EndFrame
+A705CE02 10641000
+
+[Throw full powered fire balls instantly]
+Type = Gameshark
+Activation = EndFrame
+A70282FE 14402400
+A70284EE 14442400
+A702A0F6 10621000
+

@@ -1,0 +1,302 @@
+; CHTDB: ; [ Disney/Pixar Toy Story 2 - Buzz Lightyear to the Rescue! (USA, v1.0) (1999) (Activision) {SLUS-00893} <toystor2a> ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800B221E 000F
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800B2222 0009
+
+[Have 99 Coins]
+Type = Gameshark
+Activation = EndFrame
+800B2226 0063
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800B21C8 0009
+800B221C 002A
+
+[Invincibility Alt]
+Type = Gameshark
+Activation = EndFrame
+A706B146 10401000
+
+[Invincibility No Hit]
+Type = Gameshark
+Activation = EndFrame
+A706AF3E 14401000
+
+[Infinite Comic Shield]
+Type = Gameshark
+Activation = EndFrame
+800B2220 0287
+
+[Slinky Challenges - All Levels - Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800A1360 0096
+800A1370 01C8
+
+[Slinky Challenges - All Objects - All Levels]
+Type = Gameshark
+Activation = EndFrame
+800A1104 0005
+
+[All 5 Things- Every Level]
+Type = Gameshark
+Activation = EndFrame
+800A11F8 0005
+
+[All Pizza Planet Tokens Start a new game get back to menu and continue game All Levels Completed and unlocked]
+Type = Gameshark
+Activation = EndFrame
+900C1618 1F1F1F1F
+900C161C 1F1F1F1F
+900C1620 1F1F1F1F
+800C1624 1F1F
+
+[Bombs Away - Boss - No Health]
+Type = Gameshark
+Activation = EndFrame
+800C2F14 E72F
+800C3F1A 0001
+
+[Final Shodown - Bosses - No Health]
+Type = Gameshark
+Activation = EndFrame
+800C2FB2 0001
+800C2EAE 0000
+
+[Toy Barn Encounter - Boss - No Health]
+Type = Gameshark
+Activation = EndFrame
+800C2F1A 0001
+800C32A4 0000
+
+[The Evil Emperor Zurg - Boss - No Health]
+Type = Gameshark
+Activation = EndFrame
+800C251A 0000
+800CE5BC 0000
+
+[Infinite Disk Launcher Ammo]
+Type = Gameshark
+Activation = EndFrame
+800A15C4 0008
+
+[Infinite Green Laser]
+Type = Gameshark
+Activation = EndFrame
+800A15E0 04B0
+
+[Hold L2/LT for Flying Shoes]
+Type = Gameshark
+Activation = EndFrame
+300A1674 0000
+D7200000 0001
+300A1674 0003
+
+[Hold R2/RT for Turbo Shoes]
+Type = Gameshark
+Activation = EndFrame
+300A12C0 0000
+D7200000 0002
+300A12C0 0008
+
+[No Falling]
+Type = Gameshark
+Activation = EndFrame
+A704D156 14401000
+;300A1320 0000
+
+[Al's Penthouse is full of water]
+Type = Gameshark
+Activation = EndFrame
+800D5B38 0000
+
+[Insta-Charge Laser]
+Type = Gameshark
+Activation = EndFrame
+A704A636 14402400
+;A704A5F0 20210040
+;A704A5F2 00443404
+
+[Insta-Charge Spin]
+Type = Gameshark
+Activation = EndFrame
+A704AD22 14402400
+;A704AD14 1021003C
+;A704AD16 00623402
+
+[Hit Anywhere]
+Type = Gameshark
+Activation = EndFrame
+A707E2F2 10402400
+
+[Laser Ricochet]
+Type = Gameshark
+Activation = EndFrame
+A707E476 13202400
+
+[Multi Jumps]
+Type = Gameshark
+Activation = EndFrame
+;A7049928 00050001
+A7049A4A 14622400
+
+[Rapid Jumps]
+Type = Gameshark
+Activation = EndFrame
+A70497BA 14622400
+;A7049928 00050002
+;A70499F8 00030002
+
+[Infinite Double Jumps]
+Type = Gameshark
+Activation = EndFrame
+A704995E 10402400
+
+[Infinite Single Jumps]
+Type = Gameshark
+Activation = EndFrame
+A70499BA A4202400
+A704D07A 00662400
+
+[Jump & Walk in Mid-Air "Hold L3/LS"]
+Type = Gameshark
+Activation = EndFrame
+A704974E 24001040
+D7200000 00000200
+A704974E 10402400
+
+[Moon Jump]
+Type = Gameshark
+Activation = EndFrame
+;Moon Jump cheat by Teh69thSpartan
+;Toy Story 2 [Europe v1.1]
+A7049BA4 008E3000
+A7049BA6 86020C00
+;Toy Story 2 [USA v1.0]
+A7049B58 008E3000
+A7049B5A 86020C00
+;Toy Story 2 [USA v1.1]
+A7049BC4 008E3000
+A7049BC6 86020C00
+;Buzz Lightyear of Star Command [USA]
+A704BAA4 008E3000
+A704BAA6 86020C00
+;Buzz Lightyear of Star Command [Europe]
+A704BA78 008E3000
+A704BA7A 86020C00
+;Common
+9000C000 27BDFFE8
+9000C004 AFA80010
+9000C008 3C08800B
+9000C00C 9108CE6B
+9000C014 00084027
+9000C018 31080040
+9000C01C 39080040
+9000C020 11000002
+9000C028 8602008E
+9000C030 8FA80010
+9000C034 27BD0018
+9000C038 03E00008
+
+[Increased 2nd Jump Height]
+Type = Gameshark
+Activation = EndFrame
+A70498BE 10402400
+
+[Grab the coins dropped by dead enemies from anywhere]
+Type = Gameshark
+Activation = EndFrame
+A706DD4C 10212000
+A706DD4E 00430800
+90008000 921B0008
+90008004 24010010
+90008008 103B0003
+90008010 0801B755
+90008018 0801B771
+
+[Grab the 5 items from anywhere]
+Type = Gameshark
+Activation = EndFrame
+A70D12E6 10402400
+A70D133E 10402400
+A70D19BE 10402400
+A70D14BA 10402400
+A70D19D2 10402400
+A70D1BDE 10402400
+A70D1842 10402400
+A70D17F2 10402400
+A70D17AA 10402400
+A70D1712 10402400
+
+[Grab anything from anywhere]
+Type = Gameshark
+Activation = EndFrame
+A7076AF6 10402400
+A7076CA0 00080003
+A7076CA2 92241000
+
+[Insta-KO Bosses]
+Type = Gameshark
+Activation = EndFrame
+A70C2F1A 0014000A
+A70C2F1A 00630009
+A70C2F1A 00130009
+A70C2F1A 001D0009
+A70C2FB2 001D0009
+A70C304A 001D0009
+
+[Insta-KO Mini-Bosses]
+Type = Gameshark
+Activation = EndFrame
+A70C33DA 00140009
+A70C3E8A 000A0001
+A70C3D5A 001E0001
+A70C30E2 00140001
+A70C2F1A 001D0009
+A70C46DA 001D0009
+A70C33DA 001E0001
+A70C35A2 001D0009
+A70C421A 001D0009
+A70C4A6A 001D0009
+
+[Hold R1+O/RB+B to Slump]
+Type = Gameshark
+Activation = EndFrame
+D7200000 00000028
+900A115C 00000001
+
+[Rapid Laser]
+Description = Square/X for Red Laser, Triangle/Y for Green Laser, Release for Yellow Laser
+Type = Gameshark
+Activation = EndFrame
+300A11F0 0040
+D7200000 0010
+300A10E0 000B
+800A15E0 04B0
+00000000 FFFF
+D7200000 0080
+300A10E0 000B
+800A15E0 0000
+00000000 FFFF
+
+[60 FPS]
+Type = Gameshark
+Activation = EndFrame
+800A1174 0001
+800A14D4 0001
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+8002CA58 4CCC
+8002CA60 CCCC
+

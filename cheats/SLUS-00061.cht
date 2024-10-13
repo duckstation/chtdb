@@ -1,0 +1,52 @@
+; CHTDB: ; [ Soviet Strike (USA) (1996) (Electronic Arts) {SLUS-00061} <sstrike> ]
+
+[Infinite Armor (All Levels)]
+Type = Gameshark
+Activation = EndFrame
+80083680 05DC
+
+[Infinite Attempts (All Levels)]
+Type = Gameshark
+Activation = EndFrame
+30074E60 0005
+
+[Select Level\1]
+Type = Gameshark
+Activation = EndFrame
+30074E61 0000
+
+[Select Level\2]
+Type = Gameshark
+Activation = EndFrame
+30074E61 0001
+
+[Select Level\3]
+Type = Gameshark
+Activation = EndFrame
+30074E61 0002
+
+[Select Level\4]
+Type = Gameshark
+Activation = EndFrame
+30074E61 0003
+
+[Select Level\5]
+Type = Gameshark
+Activation = EndFrame
+30074E61 0004
+
+[Enemies Won't Attack You]
+Type = Gameshark
+Activation = EndFrame
+80083776 0006
+
+[Infinite Fuel]
+Type = Gameshark
+Activation = EndFrame
+8002D83E 3C00
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+8004C1F2 3C00
+

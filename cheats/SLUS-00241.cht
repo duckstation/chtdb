@@ -1,0 +1,12 @@
+; CHTDB: ; [ Star Fighter (USA) (1996) (Acclaim Entertainment) {SLUS-00241} <starfght> ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80166B78 000A
+
+[Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+801051DC 0080
+

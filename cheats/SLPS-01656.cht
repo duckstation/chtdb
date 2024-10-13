@@ -1,0 +1,12 @@
+; CHTDB: ; [ Honkaku Hanafuda (Japan) {SLPS-01656} ]
+
+[Have 9999 points vs 1 opponent]
+Type = Gameshark
+Activation = EndFrame
+800F001E 270F
+
+[Have 9999 points vs 2 opponents]
+Type = Gameshark
+Activation = EndFrame
+800F18DA 270F
+

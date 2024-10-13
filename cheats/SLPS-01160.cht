@@ -1,0 +1,328 @@
+; CHTDB: ; [ Xenogears (Japan) {SLPS-01160 | SLPS-01161} ]
+
+[Can Get Level 99 After One Battle (For All Characters) .If you use this code, you need to press R1 & R2 together for once in the battle.]
+Type = Gameshark
+Activation = EndFrame
+D0058A10 000A
+800CC9A6 01C9
+
+[Save Anywhere]
+Type = Gameshark
+Activation = EndFrame
+800B1840 0001
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+9006E5E8 FF00FFFF
+
+[Infinite No. Of Item Of First Box]
+Type = Gameshark
+Activation = EndFrame
+8006EC54 6363
+
+[Total Time Of The Game = 00.00]
+Type = Gameshark
+Activation = EndFrame
+80058B24 0000
+
+[Max Combo]
+Type = Gameshark
+Activation = EndFrame
+D0058A10 0002
+300DDAE0 0003
+D0058A10 0012
+300DDAE0 0003
+D0058A10 0022
+300DDAE0 0003
+D0058A10 0082
+300DDAE0 0003
+
+[Character Status-Codes\First Character\Level 255]
+Type = Gameshark
+Activation = EndFrame
+8006CF92 00FF
+
+[Character Status-Codes\First Character\Now Hp]
+Type = Gameshark
+Activation = EndFrame
+8006CF7C FFFF
+
+[Character Status-Codes\First Character\Max. Hp]
+Type = Gameshark
+Activation = EndFrame
+8006CF7E FFFF
+
+[Character Status-Codes\First Character\Now Mp]
+Type = Gameshark
+Activation = EndFrame
+8006CF80 FFFF
+
+[Character Status-Codes\First Character\Max. Mp]
+Type = Gameshark
+Activation = EndFrame
+8006CF82 FFFF
+
+[Character Status-Codes\First Character\Weight = 0]
+Type = Gameshark
+Activation = EndFrame
+8006CFA6 0000
+
+[Character Status-Codes\First Character\Max Ap In The Battle]
+Type = Gameshark
+Activation = EndFrame
+800D29C0 001E
+
+[Character Status-Codes\2nd Character\Level 255]
+Type = Gameshark
+Activation = EndFrame
+8006D036 00FF
+
+[Character Status-Codes\2nd Character\Now Hp]
+Type = Gameshark
+Activation = EndFrame
+8006D020 FFFF
+
+[Character Status-Codes\2nd Character\Max Hp]
+Type = Gameshark
+Activation = EndFrame
+8006D022 FFFF
+
+[Character Status-Codes\2nd Character\Now Mp]
+Type = Gameshark
+Activation = EndFrame
+8006D024 FFFF
+
+[Character Status-Codes\2nd Character\Max Mp]
+Type = Gameshark
+Activation = EndFrame
+8006D026 FFFF
+
+[Character Status-Codes\2nd Character\Weight = 0]
+Type = Gameshark
+Activation = EndFrame
+8006D04A 0000
+
+[Character Status-Codes\3rd Character\Level 255]
+Type = Gameshark
+Activation = EndFrame
+8006D0DA 00FF
+
+[Character Status-Codes\3rd Character\Now Hp]
+Type = Gameshark
+Activation = EndFrame
+8006D0C4 FFFF
+
+[Character Status-Codes\3rd Character\Max Hp]
+Type = Gameshark
+Activation = EndFrame
+8006D0C6 FFFF
+
+[Character Status-Codes\3rd Character\Now Mp]
+Type = Gameshark
+Activation = EndFrame
+8006D0C8 FFFF
+
+[Character Status-Codes\3rd Character\Max Mp]
+Type = Gameshark
+Activation = EndFrame
+8006D0CA FFFF
+
+[Character Status-Codes\3rd Character\Weight = 0]
+Type = Gameshark
+Activation = EndFrame
+8006D0EE 0000
+
+[Character Status-Codes\4th Character\Level 255]
+Type = Gameshark
+Activation = EndFrame
+8006D17E 00FF
+
+[Character Status-Codes\4th Character\Now Hp]
+Type = Gameshark
+Activation = EndFrame
+8006D168 FFFF
+
+[Character Status-Codes\4th Character\Max Hp]
+Type = Gameshark
+Activation = EndFrame
+8006D16A FFFF
+
+[Character Status-Codes\4th Character\Now Mp]
+Type = Gameshark
+Activation = EndFrame
+8006D16C FFFF
+
+[Character Status-Codes\4th Character\Max Mp]
+Type = Gameshark
+Activation = EndFrame
+8006D16E FFFF
+
+[Character Status-Codes\4th Character\Weight = 0]
+Type = Gameshark
+Activation = EndFrame
+8006D192 0000
+
+[Character Status-Codes\5th Character\Level 255]
+Type = Gameshark
+Activation = EndFrame
+8006D222 00FF
+
+[Character Status-Codes\5th Character\Now Hp]
+Type = Gameshark
+Activation = EndFrame
+8006D20C FFFF
+
+[Character Status-Codes\5th Character\Max Hp]
+Type = Gameshark
+Activation = EndFrame
+8006D20E FFFF
+
+[Character Status-Codes\5th Character\Now Mp]
+Type = Gameshark
+Activation = EndFrame
+8006D210 FFFF
+
+[Character Status-Codes\5th Character\Max Mp]
+Type = Gameshark
+Activation = EndFrame
+8006D212 FFFF
+
+[Gear Status-Codes\Max Hp\1st Gear [Waltall]]
+Type = Gameshark
+Activation = EndFrame
+9006D69C 000F1869
+9006D6A0 000F1869
+
+[Gear Status-Codes\Max Hp\2nd Gear [Brigander]]
+Type = Gameshark
+Activation = EndFrame
+9006D7E4 000F1869
+9006D7E8 000F1869
+
+[Gear Status-Codes\Max Hp\3rd Gear [Vierge]]
+Type = Gameshark
+Activation = EndFrame
+9006D740 000F1869
+9006D744 000F1869
+
+[Gear Status-Codes\Max Hp\4th Gear [Heimdal]]
+Type = Gameshark
+Activation = EndFrame
+9006D888 000F1869
+9006D88C 000F1869
+
+[Gear Status-Codes\Max Hp\5th Gear [Renmazuo]]
+Type = Gameshark
+Activation = EndFrame
+9006D92C 000F1869
+9006D930 000F1869
+
+[Gear Status-Codes\Max Fuel\1st Gear [Waltall]]
+Type = Gameshark
+Activation = EndFrame
+9006D674 270F270F
+
+[Gear Status-Codes\Max Fuel\2nd Gear [Brigander]]
+Type = Gameshark
+Activation = EndFrame
+9006D7BC 270F270F
+
+[Gear Status-Codes\Max Fuel\3rd Gear [Vierge]]
+Type = Gameshark
+Activation = EndFrame
+9006D718 270F270F
+
+[Gear Status-Codes\Max Fuel\4th Gear [Heimdal]]
+Type = Gameshark
+Activation = EndFrame
+9006D860 270F270F
+
+[Gear Status-Codes\Max Fuel\5th Gear [Renmazuo]]
+Type = Gameshark
+Activation = EndFrame
+9006D904 270F270F
+
+[Gear Status-Codes\Max All Status\1st Gear [Waltall]]
+Type = Gameshark
+Activation = EndFrame
+3006D678 00FF
+3006D6B0 0026
+9006D6AC 26102610
+3006D6DA 00FF
+3006D6DB 00F0
+3006D6D4 00FF
+
+[Gear Status-Codes\Max All Status\2nd Gear [Brigander]]
+Type = Gameshark
+Activation = EndFrame
+3006D7C0 00FF
+3006D7F8 0026
+9006D7F4 26102610
+3006D822 00FF
+3006D823 00FF
+3006D81C 00FF
+
+[Gear Status-Codes\Max All Status\3rd Gear [Vierge]]
+Type = Gameshark
+Activation = EndFrame
+3006D71C 00FF
+3006D754 0026
+9006D750 26102610
+3006D77E 00FF
+3006D77F 00FF
+3006D778 00FF
+
+[Gear Status-Codes\Max All Status\4th Gear [Heimdal]]
+Type = Gameshark
+Activation = EndFrame
+3006D864 00FF
+3006D89C 0026
+9006D898 26102610
+3006D8C6 00FF
+3006D8C7 00FF
+3006D8C0 00FF
+
+[Gear Status-Codes\Max All Status\5th Gear [Renmazuo]]
+Type = Gameshark
+Activation = EndFrame
+3006D908 00FF
+3006D940 0026
+9006D93C 26102610
+3006D96A 00FF
+3006D96B 00FF
+3006D964 00FF
+
+[Gear Status-Codes\Weight = 0 Kg\1st Gear [Waltall]]
+Type = Gameshark
+Activation = EndFrame
+8006D6A4 0000
+
+[Gear Status-Codes\Weight = 0 Kg\2nd Gear [Brigander]]
+Type = Gameshark
+Activation = EndFrame
+8006D748 0000
+
+[Gear Status-Codes\Weight = 0 Kg\3rd Gear [Vierge]]
+Type = Gameshark
+Activation = EndFrame
+8006D7EC 0000
+
+[Gear Status-Codes\Weight = 0 Kg\4th Gear [Heimdal]]
+Type = Gameshark
+Activation = EndFrame
+8006D890 0000
+
+[Gear Status-Codes\Weight = 0 Kg\5th Gear [Renmazuo]]
+Type = Gameshark
+Activation = EndFrame
+8006D934 0000
+
+[No Random Baattles]
+Type = Gameshark
+Activation = EndFrame
+D0074A38 1400
+80074A3E 1000
+D00788F0 0094
+800788F2 1000
+

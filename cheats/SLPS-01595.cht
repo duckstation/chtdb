@@ -1,0 +1,13 @@
+; CHTDB: ; [ Oda Nobunaga Den (Jpn) (1998) (Koei) {SLPS-01595} <odanobu> ]
+
+[Infinite + max energy main character in battle]
+Type = Gameshark
+Activation = EndFrame
+800B2140 03E7
+800B20E0 03E7
+
+[Infinite Money 99999]
+Type = Gameshark
+Activation = EndFrame
+900C8E70 0001869F
+

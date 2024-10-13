@@ -1,0 +1,29 @@
+; CHTDB: ; [ Indy 500 (Europe) {SLES-00135} ]
+
+[Infinite Fuel]
+Type = Gameshark
+Activation = EndFrame
+800E6376 0041
+
+[Only Race one lap to win]
+Type = Gameshark
+Activation = EndFrame
+D01B89F0 0003
+A60E6394 00010003
+D01B89F0 0006
+A60E6394 00010006
+800EE990 0006
+D01B89F0 0008
+A60E6394 00010008
+800EE990 0008
+D01B89F0 0004
+A60E6394 00010004
+800EE990 0004
+800E6390 0000
+800ECEC0 0000
+
+[Freeze Total Lap Time]
+Type = Gameshark
+Activation = EndFrame
+800E63AE 0002
+

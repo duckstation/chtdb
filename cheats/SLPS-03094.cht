@@ -1,0 +1,42 @@
+; CHTDB: ; [ Fuuraiki (Jpn) (2001) (FOG) {SLPS-03094} <fuuraiki> ]
+
+[Infinite Strenght]
+Type = Gameshark
+Activation = EndFrame
+D001EC80 1284
+8001EC88 0000
+C002B6FC 0005
+9002B6FC 1000001B
+00000000 FFFF
+
+[Infinite + Max Stamina]
+Type = Gameshark
+Activation = EndFrame
+8009ABD4 00FF
+8009ABD8 00FF
+
+[Bonus mode Open]
+Type = Gameshark
+Activation = EndFrame
+801FBCC8 0003
+
+[Bonus mode fully open]
+Type = Gameshark
+Activation = EndFrame
+801FBCCC 0004
+
+[Japanese playing cards Hanafuda free competition All characters]
+Type = Gameshark
+Activation = EndFrame
+801FBF20 0003
+
+[Japanese playing cards Hanafuda free competition Player 99 points]
+Type = Gameshark
+Activation = EndFrame
+801FBA70 0063
+
+[Japanese playing cards Hanafuda free competition Rival 0 points]
+Type = Gameshark
+Activation = EndFrame
+801FBA74 0000
+

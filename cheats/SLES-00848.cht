@@ -1,0 +1,138 @@
+; CHTDB: ; [ Devil's Deception (Europe) {SLES-00848} ]
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800A0242 6464
+
+[Infinite Gold]
+Type = Gameshark
+Activation = EndFrame
+800A02C0 FFFF
+
+[Max Defense]
+Type = Gameshark
+Activation = EndFrame
+800A0244 FF00
+
+[Max Vsmagic & Heal]
+Type = Gameshark
+Activation = EndFrame
+800A0246 FFFF
+
+[Max Skill & Speed]
+Type = Gameshark
+Activation = EndFrame
+800A0248 FFFF
+
+[Always Have Antidotes & Savepoints]
+Type = Gameshark
+Activation = EndFrame
+8009C0A0 0101
+
+[Always Have Iron Key]
+Type = Gameshark
+Activation = EndFrame
+8009C0A2 0001
+
+[Always Have Speed & Armor Gems]
+Type = Gameshark
+Activation = EndFrame
+8009C0A4 0101
+
+[Always Have Skill Gem & Necklace]
+Type = Gameshark
+Activation = EndFrame
+8009C0A6 0101
+
+[Always Have Mp Gain & Sanity]
+Type = Gameshark
+Activation = EndFrame
+8009C0A8 0101
+
+[Always Have Herbs]
+Type = Gameshark
+Activation = EndFrame
+8009C0AA 0001
+
+[Always Have Boots]
+Type = Gameshark
+Activation = EndFrame
+8009C0AC 0001
+
+[Always Have Cure]
+Type = Gameshark
+Activation = EndFrame
+8009C0B4 0001
+
+[Always Have Evil Jewel & Sword]
+Type = Gameshark
+Activation = EndFrame
+8009C0B6 0101
+
+[Always Have Contract & Last Key]
+Type = Gameshark
+Activation = EndFrame
+8009C0BA 0101
+
+[Always Have Tiara]
+Type = Gameshark
+Activation = EndFrame
+8009C0BC 0001
+
+[Always Have Earring & Mantle]
+Type = Gameshark
+Activation = EndFrame
+8009C0BE 0101
+
+[Always Have Letter & Dardstone]
+Type = Gameshark
+Activation = EndFrame
+8009C0C0 0101
+
+[Always Have Amulet & Evil Crown]
+Type = Gameshark
+Activation = EndFrame
+8009C0C2 0101
+
+[Always Have Mask & Hourglass]
+Type = Gameshark
+Activation = EndFrame
+8009C0C4 0101
+
+[Always Have Skull Key & Old Book]
+Type = Gameshark
+Activation = EndFrame
+8009C0C6 0101
+
+[Always Have Black Orb & Map]
+Type = Gameshark
+Activation = EndFrame
+8009C0C8 0101
+
+[All Prisoners]
+Type = Gameshark
+Activation = EndFrame
+8009C084 0973
+8009C088 0973
+8009C08C 1111
+9009C090 10960668
+9009C094 31000973
+9009C098 09050600
+8009C09C 0006
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A706DD50 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A706DD50 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A706DD50 10000400
+

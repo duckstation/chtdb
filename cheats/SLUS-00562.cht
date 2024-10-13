@@ -1,0 +1,118 @@
+; CHTDB: ; [ Star Wars - Masters of TerÃ¤s KÃ¤si (USA) (1997) (LucasArts Entertainment Company) {SLUS-00562} <swterask> ]
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800AC274 1000
+
+[P2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800AC2BC 1000
+
+[P1 Full Super Bar]
+Type = Gameshark
+Activation = EndFrame
+800AC278 FFFF
+
+[P2 Full Super Bar]
+Type = Gameshark
+Activation = EndFrame
+800AC290 FFFF
+
+[P1 25% Energy]
+Type = Gameshark
+Activation = EndFrame
+A60AC274 10004000
+
+[P1 50% Energy]
+Type = Gameshark
+Activation = EndFrame
+A60AC274 10008000
+
+[P1 75% Energy]
+Type = Gameshark
+Activation = EndFrame
+A60AC274 1000C000
+
+[P1 No Energy]
+Type = Gameshark
+Activation = EndFrame
+800AC274 0000
+
+[P1 1-Hit Death]
+Type = Gameshark
+Activation = EndFrame
+A60AC274 10000100
+
+[P2 25% Energy]
+Type = Gameshark
+Activation = EndFrame
+A60AC2BC 10004000
+
+[P2 50% Energy]
+Type = Gameshark
+Activation = EndFrame
+A60AC2BC 10008000
+
+[P2 75% Energy]
+Type = Gameshark
+Activation = EndFrame
+A60AC2BC 1000C000
+
+[P2 No Energy]
+Type = Gameshark
+Activation = EndFrame
+800AC2BC 0000
+
+[P2 1-Hit Death]
+Type = Gameshark
+Activation = EndFrame
+A60AC2BC 10000100
+
+[P1 No Super Bar]
+Type = Gameshark
+Activation = EndFrame
+800AC278 0000
+
+[P2 No Super Bar]
+Type = Gameshark
+Activation = EndFrame
+800AC290 0000
+
+[Have All Hidden Characters .With this code, enable the characters then turn off the code, save them to memory card]
+Type = Gameshark
+Activation = EndFrame
+800BEF5E 00FF
+800C310E 0001
+800C3112 0001
+800C3114 0001
+800C3118 0001
+800C311C 0001
+
+[P2 Always Computer Controled]
+Type = Gameshark
+Activation = EndFrame
+800AC288 0100
+
+[Jedi Mind Trick .Press Select]
+Type = Gameshark
+Activation = EndFrame
+D00802C4 0100
+800AC28C 0000
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A702578C 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A702578C 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A702578C 10000400
+

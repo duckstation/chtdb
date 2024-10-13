@@ -1,0 +1,17 @@
+; CHTDB: ; [ Floating Runner - Quest for the 7 Crystals (USA) (1996) (THQ) {SLUS-00231} <floatrun> ]
+
+[Infinite Gems]
+Type = Gameshark
+Activation = EndFrame
+80146B44 03E7
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80146C10 FFFF
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80158564 0008
+

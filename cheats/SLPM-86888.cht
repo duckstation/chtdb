@@ -1,0 +1,7 @@
+; CHTDB: ; [ Momotarou Matsuri (Jpn) (2001) (Hudson) {SLPM-86888} <momomats> ]
+
+[Infinite Money (60000)]
+Type = Gameshark
+Activation = EndFrame
+8008C504 EA60
+

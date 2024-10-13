@@ -1,0 +1,17 @@
+; CHTDB: ; [ Johnny Bazookatone (USA) (1996) (U.S. Gold) {SLUS-00194} <jbazooka> ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800B5A94 0009
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800B5A98 0003
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+80094AA4 003C
+

@@ -1,0 +1,12 @@
+; CHTDB: ; [ Deadly Skies (Jpn) (1997) (Coconuts Japan) {SLPS-01036} <deadlysk> ]
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8013D630 0050
+
+[P2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8013FEC0 0050
+

@@ -1,0 +1,7 @@
+; CHTDB: ; [ Extreme Snow Break (Europe) {SLES-00501} ]
+
+[Have 999 points in championship mode]
+Type = Gameshark
+Activation = EndFrame
+8001001C 03E7
+

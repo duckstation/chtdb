@@ -1,0 +1,32 @@
+; CHTDB: ; [ Favorite Dear (Japan) {SLPS-01759} ]
+
+[Have 999 AP]
+Type = Gameshark
+Activation = EndFrame
+8001F5E4 03E7
+
+[First warrior infinite HP]
+Type = Gameshark
+Activation = EndFrame
+9001F6F4 03E703E7
+
+[Second warrior infinite HP]
+Type = Gameshark
+Activation = EndFrame
+9001F760 03E703E7
+
+[Third warrior infinite HP]
+Type = Gameshark
+Activation = EndFrame
+9001F7CC 03E703E7
+
+[Fourth warrior infinite HP]
+Type = Gameshark
+Activation = EndFrame
+9001F8A4 03E703E7
+
+[Fifth warrior infinite HP]
+Type = Gameshark
+Activation = EndFrame
+9001F9E8 03E703E7
+

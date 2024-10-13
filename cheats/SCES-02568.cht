@@ -1,0 +1,19 @@
+; CHTDB: ; [ Dragon Valor (Spain) {SCES-02568 | SCES-12568} ]
+
+[Hp Infinito 999]
+Type = Gameshark
+Activation = EndFrame
+8008A8D0 03E7
+8008A8CE 03E7
+
+[Mp Infinito 999]
+Type = Gameshark
+Activation = EndFrame
+8008A8D4 03E7
+8008A8D2 03E7
+
+[Dinero Infinito 9999]
+Type = Gameshark
+Activation = EndFrame
+800A30F0 270F
+

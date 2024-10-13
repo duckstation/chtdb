@@ -1,0 +1,27 @@
+; CHTDB: ; [ Shinseiden Megaseed Fukkatsu-Hen (Jpn) (1997) (Banpresto) {SLPS-00925} <megaseed> ]
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800C9058 005A
+
+[P1 Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+800C905A 002D
+
+[P2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800C9928 0064
+
+[P2 Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+800C9924 0028
+
+[Infiniye GP]
+Type = Gameshark
+Activation = EndFrame
+8009FFA0 270F
+

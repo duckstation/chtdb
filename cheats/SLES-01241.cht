@@ -1,0 +1,49 @@
+; CHTDB: ; [ Gekido: Urban Fighters (Europe) (Best of Infogrames, ZOO Classics) {SLES-01241} ]
+
+[Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+800B41DA 0009
+
+[Enable Code (Must Be On)]
+Type = Gameshark
+Activation = EndFrame
+D0099354 0008
+8009934C E080
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+8001C9F4 0000
+8001C9F8 0000
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800BB4DE 0666
+800BB4E0 0666
+
+[P2 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800BB67E 0666
+800BB680 0666
+
+[Unlock All Features]
+Type = Gameshark
+Activation = EndFrame
+300B46A0 0001
+300B46AC 0001
+300B46B8 0001
+300B46C4 0001
+
+[Unlock All Areas]
+Type = Gameshark
+Activation = EndFrame
+800B45FC FFFF
+
+[Unlock All Characters]
+Type = Gameshark
+Activation = EndFrame
+800B45F0 FFFF
+

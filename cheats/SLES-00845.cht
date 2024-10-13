@@ -1,0 +1,27 @@
+; CHTDB: ; [ Blaze & Blade: Eternal Quest (Europe) {SLES-00845} ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+900F026C 0001869F
+
+[P1 Infinite TP]
+Type = Gameshark
+Activation = EndFrame
+800F014C 270F
+
+[P1 Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+800F014E 270F
+
+[P2 Infinite TP]
+Type = Gameshark
+Activation = EndFrame
+800F214C 270F
+
+[P2 Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+800F214E 270F
+

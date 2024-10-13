@@ -1,0 +1,47 @@
+; CHTDB: ; [ Spice World (USA) (1998) (Psygnosis) {SLUS-00723} <spicewld> ]
+
+[Giant Ginger Spice]
+Type = Gameshark
+Activation = EndFrame
+8007629C 2710
+800762A0 1450
+800762A4 2710
+
+[Giant Scary Spice]
+Type = Gameshark
+Activation = EndFrame
+80076664 2710
+80076668 1450
+8007666C 2710
+
+[Giant Posh Spice]
+Type = Gameshark
+Activation = EndFrame
+80076848 2710
+8007684C 1450
+80076850 2710
+
+[Giant Baby Spice]
+Type = Gameshark
+Activation = EndFrame
+800760B8 2710
+800760BC 1450
+800760C0 2710
+
+[Giant Sporty Spice]
+Type = Gameshark
+Activation = EndFrame
+80076480 2710
+80076484 1450
+80076488 2710
+
+[Have Naked Spice Title Screen Enabled]
+Type = Gameshark
+Activation = EndFrame
+8008D220 0001
+
+[Have Handbag Mode Enabled]
+Type = Gameshark
+Activation = EndFrame
+8008D218 0001
+

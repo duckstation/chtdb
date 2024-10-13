@@ -1,0 +1,27 @@
+; CHTDB: ; [ Thrasher - Skate and Destroy (USA) (1999) (Rockstar Games) {SLUS-00935} <thrasher> ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800C3EA2 2400
+
+[Max Score]
+Type = Gameshark
+Activation = EndFrame
+800B2434 FFFF
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800DD6C2 2400
+
+[0 Points Inflicted To Overall Status]
+Type = Gameshark
+Activation = EndFrame
+8008C94E 0000
+
+[Unlock All Levels]
+Type = Gameshark
+Activation = EndFrame
+800B248C 0B03
+

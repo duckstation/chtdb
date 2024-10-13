@@ -1,0 +1,120 @@
+; CHTDB: ; [ Dino Crisis (Germany) {SLES-02209} ]
+
+[Max Stecker]
+Type = Gameshark
+Activation = EndFrame
+800BA460 03E7
+
+[Munition nimmt zu]
+Type = Gameshark
+Activation = EndFrame
+30063024 0023
+
+[Unendlich Gesundheit]
+Type = Gameshark
+Activation = EndFrame
+800B1ED4 2312
+
+[Habe alle Waffen (Regina)]
+Type = Gameshark
+Activation = EndFrame
+800B9F08 FFFF
+
+[Habe alle Objekte (Regina)]
+Type = Gameshark
+Activation = EndFrame
+50000402 FFFF
+800B9F0E 0000
+
+[Habe alle Karten]
+Type = Gameshark
+Activation = EndFrame
+50000302 FFFF
+800B9F30 0000
+
+[Jederzeit speichern Drücke L1 & L2]
+Type = Gameshark
+Activation = EndFrame
+D00AE1F8 0005
+300B03A8 0007
+
+[Kleiderwechsel freigeschaltet]
+Type = Gameshark
+Activation = EndFrame
+D00BA654 0001
+300BA654 000F
+A60C05A2 00030503
+
+[Extra Missionen freigeschaltet Drücke R1 & R2 im Hauptmenü]
+Type = Gameshark
+Activation = EndFrame
+D00AE232 F5FF
+800C05A2 0403
+
+[Alle Missionen]
+Type = Gameshark
+Activation = EndFrame
+300B9E22 0003
+
+[Nie gespeichert]
+Type = Gameshark
+Activation = EndFrame
+300B9E23 0000
+
+[Spielzeit bleibt 0.00.00]
+Type = Gameshark
+Activation = EndFrame
+900B9E24 00000000
+
+[Keine Continues verbraucht]
+Type = Gameshark
+Activation = EndFrame
+300B9E2A 0005
+
+[Schnellfeuer ohne Nachladen]
+Type = Gameshark
+Activation = EndFrame
+D00B1DFA 0102
+300B1DFA 0001
+50000302 0063
+800B2000 0000
+
+[Betrachte Endsequenz Erste (Mahlzeit !) Drücke Select & L1]
+Type = Gameshark
+Activation = EndFrame
+D00AE1F8 0104
+300B03A8 000A
+D00AE1F8 0104
+300B03BB 0000
+
+[Betrachte Endsequenz Zweite (Sonnenaufgang) Drücke Select & L2]
+Type = Gameshark
+Activation = EndFrame
+D00AE1F8 0101
+300B03A8 000A
+D00AE1F8 0101
+300B03BB 0001
+
+[Betrachte Endsequenz Dritte (Hubschrauber)Drücke Select & R1]
+Type = Gameshark
+Activation = EndFrame
+D00AE1F8 0108
+300B03A8 000A
+D00AE1F8 0108
+300B03BB 0002
+
+[WIPE OUT-MODUS Unendlich Zeit Mission 1]
+Type = Gameshark
+Activation = EndFrame
+800BA664 2330
+
+[WIPE OUT-MODUS Unendlich Zeit Mission 2]
+Type = Gameshark
+Activation = EndFrame
+800BA668 1C2C
+
+[WIPE OUT-MODUS Unendlich Zeit Mission 3]
+Type = Gameshark
+Activation = EndFrame
+800BA66C 1520
+

@@ -1,0 +1,34 @@
+; CHTDB: ; [ Aura Battler Dunbine - Seisenshi Densetsu (Jpn) (2000) (Bandai) {SLPS-02390} <dunbine> ]
+
+[Infinite Energy Main Character]
+Type = Gameshark
+Activation = EndFrame
+80110D5E 03E7
+80110D60 03E7
+
+[Infinite Energy Blonde Character]
+Type = Gameshark
+Activation = EndFrame
+80110DEA 03E7
+80110DEC 03E7
+
+[Infinite Energy Character Beard]
+Type = Gameshark
+Activation = EndFrame
+90110D18 03E703E7
+
+[Infinite Energy Character With Grey Hair]
+Type = Gameshark
+Activation = EndFrame
+90110DA4 03E703E7
+
+[Max Money]
+Type = Gameshark
+Activation = EndFrame
+9010E110 0098967F
+
+[Getting High Speed]
+Type = Gameshark
+Activation = EndFrame
+A6044688 FFE90001
+

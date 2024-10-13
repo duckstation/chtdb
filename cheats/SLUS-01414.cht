@@ -1,0 +1,24 @@
+; CHTDB: ; [ Hellboy - Asylum Seeker (USA) (2003) (DreamCatcher Interactive) {SLUS-01414} <hellboy> ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+900284BC 24030064
+900284C0 AC43003C
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+801291B0 0063
+80111AE4 0063
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+8007663C 1333
+
+[Dither Off]
+Type = Gameshark
+Activation = EndFrame
+A705B048 02000000
+

@@ -1,0 +1,12 @@
+; CHTDB: ; [ NanoTek Warrior (Europe) {SLES-00329} ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800CA500 0003
+
+[Infinite Energy/Shield]
+Type = Gameshark
+Activation = EndFrame
+800CA504 1000
+

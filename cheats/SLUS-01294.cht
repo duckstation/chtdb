@@ -1,0 +1,23 @@
+; CHTDB: ; [ In Cold Blood (USA) (2001) (DreamCatcher Interactive) {SLUS-01294 / SLUS-01314} <coldblod> ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8004B104 2400
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+80021AB2 2400
+
+[Extra Ammo]
+Type = Gameshark
+Activation = EndFrame
+80021AA8 1021
+
+[Can Play All Movies]
+Type = Gameshark
+Activation = EndFrame
+D007D1FC 0023
+8007D1FE 2400
+

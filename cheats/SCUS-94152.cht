@@ -1,0 +1,85 @@
+; CHTDB: ; [ Epidemic (USA) (1996) (Sony Computer Entertainment America) {SCUS-94152} <epidemic> ]
+
+[Infinite EP]
+Type = Gameshark
+Activation = EndFrame
+800A7E54 00C8
+
+[Infinite SP]
+Type = Gameshark
+Activation = EndFrame
+800A7E56 03E8
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800A7E52 03E8
+
+[Infinite Laser]
+Type = Gameshark
+Activation = EndFrame
+800A7E94 00C8
+
+[Infinite Zax Ammo]
+Type = Gameshark
+Activation = EndFrame
+800A7EA6 01F4
+
+[Infinite Veda Missiles]
+Type = Gameshark
+Activation = EndFrame
+800A7EAC 0028
+
+[Infinite Splash Arrow Missiles]
+Type = Gameshark
+Activation = EndFrame
+800A7EAE 0028
+
+[Infinite Napalm Launcher Missiles]
+Type = Gameshark
+Activation = EndFrame
+800A7EB0 0028
+
+[Infinite Erosion Missiles]
+Type = Gameshark
+Activation = EndFrame
+800A7EB2 0028
+
+[Infinite Brain Destructor Missiles]
+Type = Gameshark
+Activation = EndFrame
+800A7EB4 0028
+
+[Infinite Float Mine Missiles]
+Type = Gameshark
+Activation = EndFrame
+800A7EB6 0028
+
+[Energy Tank Always Full]
+Type = Gameshark
+Activation = EndFrame
+80017E98 0020
+
+[Elapsed Time is Always 00.00]
+Type = Gameshark
+Activation = EndFrame
+800D6364 0000
+800DBF88 0000
+
+[Walk through Walls]
+Type = Gameshark
+Activation = EndFrame
+A7017146 10621000
+A701718A 10621000
+A70170BA 10621000
+A70170F6 10621000
+A70171FA 10621000
+A701728E 10621000
+A70173AE 10621000
+A701730E 10481000
+
+[Kill All Enemies Automatically]
+Type = Gameshark
+Activation = EndFrame
+A701D172 10401400
+

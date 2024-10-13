@@ -1,0 +1,12 @@
+; CHTDB: ; [ VR Golf '97 (USA) (1996) (Interplay Productions) {SLUS-00198} <vrgolf97> ]
+
+[Only One Shot Recorded]
+Type = Gameshark
+Activation = EndFrame
+8019BD90 0000
+
+[Shot's Score 9]
+Type = Gameshark
+Activation = EndFrame
+801D928C 0000
+

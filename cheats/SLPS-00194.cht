@@ -1,0 +1,83 @@
+; CHTDB: ; [ Wizard's Harmony (Japan) {SLPS-00194} ]
+
+[Max Stats Rufus]
+Type = Gameshark
+Activation = EndFrame
+8016EBBE 03E7
+9016EBC0 03E703E7
+9016EBC4 03E703E7
+9016EBC8 03E703E7
+8016EBCC 03E7
+
+[Max Stats Chester]
+Type = Gameshark
+Activation = EndFrame
+9016EC08 03E703E7
+9016EC0C 03E703E7
+9016EC10 03E703E7
+9016EC14 03E703E7
+
+[Max Stats Maxx]
+Type = Gameshark
+Activation = EndFrame
+8016EC52 03E7
+9016EC54 03E703E7
+9016EC58 03E703E7
+9016EC5C 03E703E7
+8016EC60 03E7
+
+[Max Stats Sonia]
+Type = Gameshark
+Activation = EndFrame
+9016EC9C 03E703E7
+9016ECA0 03E703E7
+9016ECA4 03E703E7
+9016ECA8 03E703E7
+
+[Max Stats Melissa]
+Type = Gameshark
+Activation = EndFrame
+8016ECE6 03E7
+9016ECE8 03E703E7
+9016ECEC 03E703E7
+9016ECF0 03E703E7
+8016ECF4 03E7
+
+[Max Stats Arisia]
+Type = Gameshark
+Activation = EndFrame
+9016ED30 03E703E7
+9016ED34 03E703E7
+9016ED38 03E703E7
+9016ED3C 03E703E7
+
+[Max Affinity for the first person]
+Type = Gameshark
+Activation = EndFrame
+8017C716 03E7
+
+[Max Affinity for the second person]
+Type = Gameshark
+Activation = EndFrame
+8017C718 03E7
+
+[Max Affinity for the third person]
+Type = Gameshark
+Activation = EndFrame
+8017C71A 03E7
+
+[Max Affinity for the fourth person]
+Type = Gameshark
+Activation = EndFrame
+8017C71C 03E7
+
+[Max Affinity for the 5 person]
+Type = Gameshark
+Activation = EndFrame
+8017C71E 03E7
+
+[Max Affinity for 6 person]
+Type = Gameshark
+Activation = EndFrame
+8017C720 03E7
+

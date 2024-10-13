@@ -1,0 +1,82 @@
+; CHTDB: ; [ London Racer II (Europe) {SLES-03822} ]
+
+[Tournament Mode Unlock Int]
+Type = Gameshark
+Activation = EndFrame
+3007F9F4 0001
+
+[Tournament Mode Unlock Uk]
+Type = Gameshark
+Activation = EndFrame
+3007F9D0 0001
+
+[Single Mode Unlock All Cars]
+Type = Gameshark
+Activation = EndFrame
+8007F96A FFFF
+
+[Single Mode Unlock All Tracks]
+Type = Gameshark
+Activation = EndFrame
+8007F96C FFFF
+
+[65535 Infinite Money In Tournament Mode For Rholly]
+Type = Gameshark
+Activation = EndFrame
+8007F988 FFFF
+8007FC48 FFFF
+8007FF08 FFFF
+800801C8 FFFF
+80080488 FFFF
+80080748 FFFF
+
+[65535 Infinite Money In Tournament Mode For Gullburgh]
+Type = Gameshark
+Activation = EndFrame
+8007F98C FFFF
+8007FC4C FFFF
+8007FF0C FFFF
+800801CC FFFF
+8008048C FFFF
+8008074C FFFF
+
+[65535 Infinite Money In Tournament Mode For Richy]
+Type = Gameshark
+Activation = EndFrame
+8007F990 FFFF
+8007FC50 FFFF
+8007FF10 FFFF
+800801D0 FFFF
+80080490 FFFF
+80080750 FFFF
+
+[65535 Infinite Money In Tournament Mode For Jill Valentine]
+Type = Gameshark
+Activation = EndFrame
+8007F994 FFFF
+8007FC54 FFFF
+8007FF14 FFFF
+800801D4 FFFF
+80080494 FFFF
+80080754 FFFF
+
+[65535 Infinite Money In Tournament Mode For Rajit]
+Type = Gameshark
+Activation = EndFrame
+8007F998 FFFF
+8007FC58 FFFF
+8007FF18 FFFF
+800801D8 FFFF
+80080498 FFFF
+80080798 FFFF
+
+[65535 Infinite Money In Tournament Mode For Bryon]
+Type = Gameshark
+Activation = EndFrame
+8007F99C FFFF
+8007FC5C FFFF
+8007FF1C FFFF
+800801DC FFFF
+8008049C FFFF
+8008075C FFFF
+

@@ -1,0 +1,22 @@
+; CHTDB: ; [ NFL GameDay 2004 (USA) (2003) (Sony Computer Entertainment America) {SCUS-94690} <nflgd2k4> ]
+
+[Select Home Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+80102530 0000
+
+[Select Home Team Score\99]
+Type = Gameshark
+Activation = EndFrame
+80102530 0063
+
+[Select Away Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+8010252C 0000
+
+[Select Away Team Score\99]
+Type = Gameshark
+Activation = EndFrame
+8010252C 0063
+

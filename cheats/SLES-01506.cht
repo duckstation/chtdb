@@ -1,0 +1,44 @@
+; CHTDB: ; [ Metal Gear Solid (France) {SLES-01506 | SLES-11506} ]
+
+[Vie Infinie]
+Type = Gameshark
+Activation = EndFrame
+800B6396 0600
+800B6398 0600
+
+[Munitions Infinies]
+Type = Gameshark
+Activation = EndFrame
+90067D70 00000000
+
+[Vr Training Termine]
+Type = Gameshark
+Activation = EndFrame
+300B559B 0020
+
+[Toutes Les Armes]
+Type = Gameshark
+Activation = EndFrame
+800B63A2 03E7
+900B63A4 006303E7
+900B63A8 00630063
+900B63AC 00630063
+900B63B0 00630063
+800B63B4 0063
+
+[Tous Les Objets]
+Type = Gameshark
+Activation = EndFrame
+800B63CE 0001
+900B63D0 00010001
+900B63D4 00010001
+900B63D8 00010001
+900B63DC 00010001
+900B63E0 00010001
+900B63E4 00010005
+900B63E8 00010001
+900B63EC 03E70007
+900B63F0 00010001
+900B63F4 00010001
+800B63F8 0001
+

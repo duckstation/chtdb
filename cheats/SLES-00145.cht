@@ -1,0 +1,23 @@
+; CHTDB: ; [ Firestorm: Thunderhawk 2 (Europe) {SLES-00145} ]
+
+[Infinite Weapons]
+Type = Gameshark
+Activation = EndFrame
+8007362A 0063
+9007362C 00630063
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800734B8 00D5
+
+[Mission Complete]
+Type = Gameshark
+Activation = EndFrame
+80073694 0000
+
+[Negative View]
+Type = Gameshark
+Activation = EndFrame
+800736AE 0140
+

@@ -1,0 +1,34 @@
+; CHTDB: ; [ NASCAR Racing (USA) (1996) (Sierra On-Line) {SLUS-00374} <nascarcg> ]
+
+[Infinite Fuel]
+Type = Gameshark
+Activation = EndFrame
+800F02EC 00DC
+
+[Always Have Good Left Rear Tire]
+Type = Gameshark
+Activation = EndFrame
+8009D83E 0275
+
+[Always Have Good Right Rear Tire]
+Type = Gameshark
+Activation = EndFrame
+8009D842 0275
+
+[Always Have Good Left Front Tire]
+Type = Gameshark
+Activation = EndFrame
+8009D846 0275
+
+[Always Have Good Right Front Tire]
+Type = Gameshark
+Activation = EndFrame
+8009D84A 0275
+
+[Always Have 1st]
+Type = Gameshark
+Activation = EndFrame
+800EFD78 0000
+800EFED0 0000
+80145664 0000
+

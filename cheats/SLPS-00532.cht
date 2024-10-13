@@ -1,0 +1,52 @@
+; CHTDB: ; [ Tasogare no Ode (Japan) {SLPS-00532} ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+901DB5B4 0001869F
+
+[Level Up Every Battle]
+Type = Gameshark
+Activation = EndFrame
+901DA500 0001869F
+
+[Infinite & Max Energy Main Character]
+Type = Gameshark
+Activation = EndFrame
+801DA4FA 03E7
+801DA4FC 03E7
+
+[Infinite & Max Sp Main Character]
+Type = Gameshark
+Activation = EndFrame
+901DEE60 03E703E7
+
+[Infinite & max energy first female character]
+Type = Gameshark
+Activation = EndFrame
+801DA532 03E7
+801DA534 03E7
+
+[Infinite & Max Energy Second Character]
+Type = Gameshark
+Activation = EndFrame
+801DA5DA 03E7
+801DA5DC 03E7
+
+[Infinite & Max Energy Third Character]
+Type = Gameshark
+Activation = EndFrame
+801DA5A2 03E7
+801DA5A4 03E7
+
+[Infinite & Max Energy Fourth Character]
+Type = Gameshark
+Activation = EndFrame
+801DA56A 03E7
+801DA56C 03E7
+
+[No Random battles]
+Type = Gameshark
+Activation = EndFrame
+901C3E30 00000000
+

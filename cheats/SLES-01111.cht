@@ -1,0 +1,18 @@
+; CHTDB: ; [ Star Wars: Masters of Teräs Käsi (Europe) {SLES-01111} ]
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800B4A3C 1000
+
+[P1 One Hit Wins Game]
+Type = Gameshark
+Activation = EndFrame
+900B7A60 00640064
+800B7A64 0064
+
+[Extra Characters]
+Type = Gameshark
+Activation = EndFrame
+800C7726 FFFF
+

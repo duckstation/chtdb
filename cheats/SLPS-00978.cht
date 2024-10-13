@@ -1,0 +1,58 @@
+; CHTDB: ; [ Fighting Illusion: K-1 Revenge (Japan) {SLPS-00978} ]
+
+[P1 Codes\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800B82C4 03FF
+
+[P1 Codes\Low Health]
+Type = Gameshark
+Activation = EndFrame
+800B82C4 0001
+
+[P1 Codes\No Health]
+Type = Gameshark
+Activation = EndFrame
+800B82C4 0000
+
+[P1 Codes\Infinite Power Bar]
+Type = Gameshark
+Activation = EndFrame
+800B82BC 01FF
+
+[P1 Codes\No Power Bar]
+Type = Gameshark
+Activation = EndFrame
+800B82BC 0000
+
+[P1 Press Square buton and win for KO]
+Type = Gameshark
+Activation = EndFrame
+D00B8900 0080
+800B82E8 0003
+
+[P2 Codes\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800B82C8 03FF
+
+[P2 Codes\Low Health]
+Type = Gameshark
+Activation = EndFrame
+800B82C8 0001
+
+[P2 Codes\No Health]
+Type = Gameshark
+Activation = EndFrame
+800B82C8 0000
+
+[P2 Codes\Infinite Power Bar]
+Type = Gameshark
+Activation = EndFrame
+800B82C0 01FF
+
+[P2 Codes\No Power Bar]
+Type = Gameshark
+Activation = EndFrame
+800B82C0 0000
+

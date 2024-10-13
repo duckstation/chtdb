@@ -1,0 +1,200 @@
+; CHTDB: ; [ Contra: Legacy of War (Europe) {SLES-00608} ]
+
+[P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800DD25C 0009
+
+[Infinite Continues]
+Type = Gameshark
+Activation = EndFrame
+800DF7B2 0009
+
+[P1 Invincibility]
+Type = Gameshark
+Activation = EndFrame
+8008D458 0001
+
+[P1 Start With Highscore]
+Type = Gameshark
+Activation = EndFrame
+A60DD260 0000FFFF
+
+[P1 Has Flame Thrower]
+Type = Gameshark
+Activation = EndFrame
+E008C6DB 0000
+3008C6DB 0004
+
+[P1 Has Straight Laser (Red) .Press L1+Left]
+Type = Gameshark
+Activation = EndFrame
+D008D488 8004
+3008C6DC 0009
+
+[P1 Has Spread Grenade .Press L1+Left]
+Type = Gameshark
+Activation = EndFrame
+D008D488 2004
+3008C6DC 0008
+
+[P1 Has Spread Gun .Press L1+Up]
+Type = Gameshark
+Activation = EndFrame
+D008D488 1004
+3008C6DC 0003
+
+[P1 Has Sparkling Laser (Blue) .Press L1+Down]
+Type = Gameshark
+Activation = EndFrame
+D008D488 4004
+3008C6DC 0000
+
+[P1 Has Homing Missiles .Press R1+Left]
+Type = Gameshark
+Activation = EndFrame
+D008D488 8008
+3008C6DD 0007
+
+[P1 Has Homing Bullets .Press R1+Right]
+Type = Gameshark
+Activation = EndFrame
+D008D488 2008
+3008C6DD 0006
+
+[P1 Has Seeking Bullets .Press R1+Up]
+Type = Gameshark
+Activation = EndFrame
+D008D488 1008
+3008C6DD 0005
+
+[P1 Has Homing Laser .Press R1+Down]
+Type = Gameshark
+Activation = EndFrame
+D008D488 4008
+3008C6DD 0001
+
+[P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800DD284 0009
+
+[P2 Invincibility]
+Type = Gameshark
+Activation = EndFrame
+8008D520 0001
+
+[P2 Start With Highscore]
+Type = Gameshark
+Activation = EndFrame
+A60DD288 0000FFFF
+
+[P2 Has Flame Thrower]
+Type = Gameshark
+Activation = EndFrame
+E008C6DF 0000
+3008C6DF 0004
+
+[P2 Has Straight Laser (Red) .Press L1+Left]
+Type = Gameshark
+Activation = EndFrame
+D008D550 8004
+3008C6E0 0009
+
+[P2 Has Spread Grenade .Press L1+Right]
+Type = Gameshark
+Activation = EndFrame
+D008D550 2004
+3008C6E0 0008
+
+[P2 Has Spread Gun .Press L1+Up]
+Type = Gameshark
+Activation = EndFrame
+D008D550 1004
+3008C6E0 0003
+
+[P2 Has Sparkling Laser (Blue) .Press L1+Down]
+Type = Gameshark
+Activation = EndFrame
+D008D488 4004
+3008C6E0 0000
+
+[P2 Has Homing Missiles .Press R1+Left]
+Type = Gameshark
+Activation = EndFrame
+D008D488 8008
+3008C6E1 0007
+
+[P2 Has Homing Bullets .Press R1+Right]
+Type = Gameshark
+Activation = EndFrame
+D008D488 4008
+3008C6E1 0006
+
+[P2 Has Seeking Bullets .Press R1+Up]
+Type = Gameshark
+Activation = EndFrame
+D008D488 1008
+3008C6E1 0005
+
+[P2 Has Homing Laser .Press R1+Down]
+Type = Gameshark
+Activation = EndFrame
+D008D488 4008
+3008C6E1 0001
+
+[Bamboo Arcade Game\P1 Infinite Ships/Tanks]
+Type = Gameshark
+Activation = EndFrame
+A608D408 00010005
+
+[Bamboo Arcade Game\P1 Infinite Ammo (Ship)]
+Type = Gameshark
+Activation = EndFrame
+A608D440 00000001
+
+[Bamboo Arcade Game\P1 Infinite Ammo (Tank)]
+Type = Gameshark
+Activation = EndFrame
+A608D490 00000005
+
+[Bamboo Arcade Game\P1 Max Score]
+Type = Gameshark
+Activation = EndFrame
+A608C4A8 0000FFFF
+
+[Bamboo Arcade Game\P2 Infinite Ships/Tanks]
+Type = Gameshark
+Activation = EndFrame
+A608D4D0 00010005
+
+[Bamboo Arcade Game\P2 Infinite Ammo (Ship)]
+Type = Gameshark
+Activation = EndFrame
+A608D508 00000001
+
+[Bamboo Arcade Game\P2 Infinite Ammo (Tank)]
+Type = Gameshark
+Activation = EndFrame
+A608D558 00000005
+
+[Bamboo Arcade Game\P2 Max Score]
+Type = Gameshark
+Activation = EndFrame
+A608C4AC 0000FFFF
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A70DD4E0 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A70DD4E0 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A70DD4E0 10000400
+

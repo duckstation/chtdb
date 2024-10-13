@@ -1,0 +1,58 @@
+; CHTDB: ; [ Shellshock (Europe) {SLES-00026} ]
+
+[Invulnerable]
+Type = Gameshark
+Activation = EndFrame
+90087EF4 06000600
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+80085894 C350
+
+[Gun Never Overheats]
+Type = Gameshark
+Activation = EndFrame
+80087EE4 0000
+
+[Max Armour]
+Type = Gameshark
+Activation = EndFrame
+8008587E 0006
+80085880 0030
+
+[Max Sams]
+Type = Gameshark
+Activation = EndFrame
+80085882 0004
+
+[Max Air Support]
+Type = Gameshark
+Activation = EndFrame
+80085888 0001
+
+[Max Engine]
+Type = Gameshark
+Activation = EndFrame
+8008588A 0004
+
+[Max Tracks]
+Type = Gameshark
+Activation = EndFrame
+8008588C 0004
+
+[Max Reload Mech]
+Type = Gameshark
+Activation = EndFrame
+8008588E 0004
+
+[Max Targetting Comp]
+Type = Gameshark
+Activation = EndFrame
+80085890 0004
+
+[Max Coolant]
+Type = Gameshark
+Activation = EndFrame
+80085892 0004
+

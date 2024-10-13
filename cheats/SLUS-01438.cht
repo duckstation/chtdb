@@ -1,0 +1,91 @@
+; CHTDB: ; [ Creatures (USA) (2001) (Conspiracy Entertainment) {SLUS-01438} <creaturs> ]
+
+[Creature 1 All Max]
+Type = Gameshark
+Activation = EndFrame
+3008C6C6 00FF
+3008C6BA 00FF
+3008C6BB 0000
+8008C6BC 0000
+8008C6C0 0000
+
+[Creature 2 All Max]
+Type = Gameshark
+Activation = EndFrame
+3008C766 00FF
+3008C75A 00FF
+3008C75B 0000
+8008C75C 0000
+8008C760 0000
+
+[Boulder Norn\Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80104EF4 0300
+
+[Boulder Norn\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801063A4 0007
+
+[Boulder Norn\Level Mod]
+Type = Gameshark
+Activation = EndFrame
+8010641C 00??
+
+[Debug options menu]
+Type = Gameshark
+Activation = EndFrame
+D00926A6 FEFF
+80092634 010D
+
+[Enable Dbg Options (Alternate)]
+Type = Gameshark
+Activation = EndFrame
+3002CF34 0000
+
+[Enable DNA Option]
+Type = Gameshark
+Activation = EndFrame
+3002CF88 0000
+
+[Enable Exp Option]
+Type = Gameshark
+Activation = EndFrame
+3002CFA4 0000
+
+[Enable Reset All Option]
+Type = Gameshark
+Activation = EndFrame
+3002CFDC 0000
+
+[Enable Reset World Option]
+Type = Gameshark
+Activation = EndFrame
+3002CFC0 0000
+
+[Enable Status Option]
+Type = Gameshark
+Activation = EndFrame
+3002CF6C 0000
+
+[Enable Watches Option]
+Type = Gameshark
+Activation = EndFrame
+3002CF50 0000
+
+[Pac Norn\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8010B8C8 000A
+
+[Pac Norn\max score]
+Type = Gameshark
+Activation = EndFrame
+8010B8E0 FFFF
+
+[Item Info]
+Type = Gameshark
+Activation = EndFrame
+3010B2B4 0001
+

@@ -1,0 +1,34 @@
+; CHTDB: ; [ DragonHeart - Fire & Steel (USA) (1996) (Acclaim Entertainment) {SLUS-00226} <dheart> ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800858AC 0900
+
+[Infinite Energy All Levels]
+Type = Gameshark
+Activation = EndFrame
+90024010 00000000
+
+[Infinite Endurance]
+Type = Gameshark
+Activation = EndFrame
+9001EE44 00000000
+
+[Have Max Energy]
+Type = Gameshark
+Activation = EndFrame
+300858BB 00C8
+
+[Always Play Last Level]
+Type = Gameshark
+Activation = EndFrame
+800B6694 0012
+
+[Press Select For Level Select (main menu)]
+Type = Gameshark
+Activation = EndFrame
+8003DF86 8421
+9003DF8C 24022000
+8003DFB0 0001
+

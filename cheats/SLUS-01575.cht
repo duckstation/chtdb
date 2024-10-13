@@ -1,0 +1,17 @@
+; CHTDB: ; [ Rascal Racers (USA) (2004) (Mud Duck Productions) {SLUS-01575} <rascrace> ]
+
+[All Racers Enabled]
+Type = Gameshark
+Activation = EndFrame
+8008156C 03FF
+
+[All Tracks Enabled]
+Type = Gameshark
+Activation = EndFrame
+80081570 01FF
+
+[All Cups Enabled]
+Type = Gameshark
+Activation = EndFrame
+80081574 0007
+

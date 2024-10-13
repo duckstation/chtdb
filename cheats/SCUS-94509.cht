@@ -1,0 +1,37 @@
+; CHTDB: ; [ NCAA Football GameBreaker (USA) (1996) (Sony Computer Entertainment America) {SCUS-94509} <ncaagb> ]
+
+[Select Home Team Score\100]
+Type = Gameshark
+Activation = EndFrame
+800B1740 0064
+
+[Select Home Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+800B1740 0000
+
+[Select Away Team Score\100]
+Type = Gameshark
+Activation = EndFrame
+800B1744 0064
+
+[Select Away Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+800B1744 0000
+
+[P1 Infinite Time-Outs]
+Type = Gameshark
+Activation = EndFrame
+800B174A 0004
+
+[Infinite Time To Choose Play]
+Type = Gameshark
+Activation = EndFrame
+800B1832 0016
+
+[P2 Infinite Time-Outs]
+Type = Gameshark
+Activation = EndFrame
+800B1748 0004
+

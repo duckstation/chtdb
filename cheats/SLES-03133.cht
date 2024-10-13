@@ -1,0 +1,79 @@
+; CHTDB: ; [ MTV Sports: Skateboarding featuring Andy Macdonald (Europe) {SLES-03133} ]
+
+[All Characters]
+Type = Gameshark
+Activation = EndFrame
+50000302 0000
+8008D32A 0101
+
+[All Locations]
+Type = Gameshark
+Activation = EndFrame
+50001E01 0000
+3008D2B8 000A
+
+[All Boards]
+Type = Gameshark
+Activation = EndFrame
+50002301 0000
+3008D2DB 0001
+
+[LIFESTYLE MODE Have 4 icons (Press L1 & L2)]
+Type = Gameshark
+Activation = EndFrame
+D00A8B52 FAFF
+300A0528 0004
+
+[LIFESTYLE MODE Have 8 icons (Press R1 & R2)]
+Type = Gameshark
+Activation = EndFrame
+D00A8B52 F5FF
+300A0528 0008
+
+[LIFESTYLE MODE Get 10.0-ranking (Press Select)]
+Type = Gameshark
+Activation = EndFrame
+D00A8B52 FFFE
+50000524 0000
+80099C18 0064
+
+[MTV HUNT Gain 1 icon to end level]
+Type = Gameshark
+Activation = EndFrame
+D00A02A8 0001
+300A02A8 000A
+
+[Each Trick is Worth 50.000 Points]
+Type = Gameshark
+Activation = EndFrame
+D10A02B8 C350
+800A02B8 C350
+
+[Max Stats (All Characters)]
+Type = Gameshark
+Activation = EndFrame
+3004DCE4 000A
+8004DCE6 3406
+30051FFB 00A0
+30052027 00A0
+30052053 00A0
+3005207F 00A2
+
+[Start With Highscore]
+Type = Gameshark
+Activation = EndFrame
+A60A02A8 00008760
+D00A02AA 0000
+300A02AA 0003
+
+[Always perfect balance]
+Type = Gameshark
+Activation = EndFrame
+80024CEA 2400
+80024462 1000
+
+[Put any name in any mode to unlock everything]
+Type = Gameshark
+Activation = EndFrame
+8005658A 2400
+

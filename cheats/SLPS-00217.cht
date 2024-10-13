@@ -1,0 +1,99 @@
+; CHTDB: ; [ Ganbare Goemon - Uchuu Kaizoku Akogingu (Jpn) (1996) (Konami) {SLPS-00217 (VX011-J1)} <ggoemuka> ]
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+E0072760 0000
+30072760 0008
+E0072760 0001
+30072760 0009
+E0072760 0002
+30072760 000A
+E0072760 0003
+30072760 000B
+E0072760 0020
+30072760 0028
+
+[Infinite HP / Maximum HP Level]
+Type = Gameshark
+Activation = EndFrame
+800AA45E 7FFF
+800AA460 7FFF
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+300AA450 0064
+
+[Infinite Ryou]
+Type = Gameshark
+Activation = EndFrame
+800AA484 270F
+
+[Maximum Experience]
+Type = Gameshark
+Activation = EndFrame
+800AA464 C34F
+
+[Have All Characters Goroku + Baban In Party]
+Type = Gameshark
+Activation = EndFrame
+800AA454 0101
+300AA458 0003
+
+[2D Impact Stages Maximum HP]
+Type = Gameshark
+Activation = EndFrame
+8008FB88 0020
+
+[2D Impact Stages Maximum Money]
+Type = Gameshark
+Activation = EndFrame
+8008FB8A 0064
+
+[3D Impact Stages (Robot) For Maximum Oil HP]
+Type = Gameshark
+Activation = EndFrame
+800951C0 03E7
+
+[3D impact Stages (Robot) Max Special Gauge]
+Type = Gameshark
+Activation = EndFrame
+800951C4 0063
+
+[3D impact Stages (Robot) Max MP]
+Type = Gameshark
+Activation = EndFrame
+8008FFDA 0060
+
+[3D Impact Stages - Press L2+Up For Boss HP = 0]
+Type = Gameshark
+Activation = EndFrame
+D00A255C 1001
+8009CABC 0000
+
+[Have always 4 parts of the doll]
+Type = Gameshark
+Activation = EndFrame
+800AA477 0004
+
+[Have Best Armor]
+Type = Gameshark
+Activation = EndFrame
+300AA46E 0005
+
+[Have Best Helmet]
+Type = Gameshark
+Activation = EndFrame
+300AA46B 0005
+
+[Have Best Riceball]
+Type = Gameshark
+Activation = EndFrame
+300AA468 0002
+
+[Level select can be accessed by using the code and then going anywhere in the game that switches to another screen,]
+Type = Gameshark
+Activation = EndFrame
+80075174 005F
+

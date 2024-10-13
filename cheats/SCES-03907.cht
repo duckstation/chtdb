@@ -1,0 +1,36 @@
+; CHTDB: ; [ WRC: FIA World Rally Championship Arcade (Europe) {SCES-03907} ]
+
+[Checkpoint Time]
+Type = Gameshark
+Activation = EndFrame
+8009E4BA 0619
+
+[Overall Time]
+Type = Gameshark
+Activation = EndFrame
+8009E46C 0000
+
+[Freeze Time]
+Type = Gameshark
+Activation = EndFrame
+8009E46E 0000
+8009E4BA 004A
+
+[Opponents Stop Racing - Press Up]
+Type = Gameshark
+Activation = EndFrame
+D009AF06 FFEF
+8009E45C 0001
+
+[Opponents Resume Racing - Press Down - Before finish or game will freeze]
+Type = Gameshark
+Activation = EndFrame
+D009AF06 FFBF
+8009E45C 0005
+
+[All Gold In Grid Races]
+Type = Gameshark
+Activation = EndFrame
+50006C02 0000
+8009C61C 0101
+

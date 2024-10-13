@@ -1,0 +1,13 @@
+; CHTDB: ; [ Shichisei Toushin Guyferd: Crown Kaimetsu Sakusen (Japan) {SLPS-01619} ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800F5006 03E7
+
+[Character rest of stats at 999]
+Type = Gameshark
+Activation = EndFrame
+900F5008 03E703E7
+900F500C 03E703E7
+

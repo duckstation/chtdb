@@ -1,0 +1,79 @@
+; CHTDB: ; [ Yuukyuu Gensoukyoku 2nd Album (Japan) {SLPS-01258} ]
+
+[Infinite Money (60000)]
+Type = Gameshark
+Activation = EndFrame
+8009B4EC EA60
+
+[Infinite Energy Players Character In Battle]
+Type = Gameshark
+Activation = EndFrame
+800CE842 03E7
+
+[Infinite MP Players Character In Battle]
+Type = Gameshark
+Activation = EndFrame
+800CE844 03E7
+
+[Infinite Energy Players Character In Menu]
+Type = Gameshark
+Activation = EndFrame
+800CDFA2 03E7
+800CDFA6 03E7
+
+[Infinite MP Players Character In Menu]
+Type = Gameshark
+Activation = EndFrame
+800CDFA4 03E7
+800CDFA8 03E7
+
+[Reliability Max 1 Person]
+Type = Gameshark
+Activation = EndFrame
+300CDFB0 0063
+
+[Reliability Max 2 Person]
+Type = Gameshark
+Activation = EndFrame
+300CDFB1 0063
+
+[Reliability Max 3 person]
+Type = Gameshark
+Activation = EndFrame
+300CDFB2 0063
+
+[Reliability Max 4 person]
+Type = Gameshark
+Activation = EndFrame
+300CDFB3 0063
+
+[Heroic gauge]
+Type = Gameshark
+Activation = EndFrame
+8009B4E8 03E7
+
+[Possession GOLD]
+Type = Gameshark
+Activation = EndFrame
+9009B4EC 0001869F
+
+[Number of roulette]
+Type = Gameshark
+Activation = EndFrame
+3009B5A8 0006
+
+[Damage caused during combat Max]
+Type = Gameshark
+Activation = EndFrame
+800AEC32 03E7
+
+[All Profiles]
+Type = Gameshark
+Activation = EndFrame
+800CD4FF FFFF
+
+[All Event]
+Type = Gameshark
+Activation = EndFrame
+300CDFFF 00FF
+

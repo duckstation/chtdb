@@ -1,0 +1,171 @@
+; CHTDB: ; [ Tomb Raider II: Starring Lara Croft (Europe) {SLES-00718} ]
+
+[Level Completed (Presss L2 & R2 & Start)]
+Type = Gameshark
+Activation = EndFrame
+D008C602 FCF7
+30089E88 0001
+
+[Infinite Health All levels]
+Type = Gameshark
+Activation = EndFrame
+900426B0 340203E8
+900426B4 A6020022
+
+[Infinite Health 40 Fathoms]
+Type = Gameshark
+Activation = EndFrame
+80088178 03E8
+801BB5A6 03E8
+
+[Infinite Health Barkhang Monastery]
+Type = Gameshark
+Activation = EndFrame
+80088178 03E8
+801E327A 03E8
+
+[Infinite Health Bartolli's Hideout]
+Type = Gameshark
+Activation = EndFrame
+80088178 03E8
+801D0E6A 03E8
+
+[Infinite Health Catacombs of the Talion]
+Type = Gameshark
+Activation = EndFrame
+80088178 03E8
+801C59B2 03E8
+
+[Infinite Health Diving Area]
+Type = Gameshark
+Activation = EndFrame
+801BDF02 03E8
+
+[Infinite Health Floating Islands]
+Type = Gameshark
+Activation = EndFrame
+80088178 03E8
+801D1F5E 03E8
+
+[Infinite Health Ice Palace]
+Type = Gameshark
+Activation = EndFrame
+80088178 03E8
+801C85A6 03E8
+
+[Infinite Health Living Quarters]
+Type = Gameshark
+Activation = EndFrame
+80088178 03E8
+801B6AAA 03E8
+
+[Infinite Health Offshore Rig]
+Type = Gameshark
+Activation = EndFrame
+801BEDE6 03E8
+
+[Infinite Health Opera House]
+Type = Gameshark
+Activation = EndFrame
+80088178 03E8
+801CF3BA 03E8
+
+[Infinite Health Temple of Xian]
+Type = Gameshark
+Activation = EndFrame
+80088178 03E8
+801DB566 03E8
+
+[Infinite Health The Deck]
+Type = Gameshark
+Activation = EndFrame
+80088178 03E8
+801DCE82 03E8
+
+[Infinite Health The Dragon's Lair]
+Type = Gameshark
+Activation = EndFrame
+80088178 03E8
+801A2BBE 03E8
+
+[Infinite Health The End - Conclusion]
+Type = Gameshark
+Activation = EndFrame
+80088178 03E8
+801B2E2E 03E8
+
+[Infinite Health The Great Wall]
+Type = Gameshark
+Activation = EndFrame
+80088178 03E8
+8019D0B2 03E8
+
+[Infinite Health Tibetan Foothills]
+Type = Gameshark
+Activation = EndFrame
+80088178 03E8
+801DB82A 03E8
+
+[Infinite Health Venice]
+Type = Gameshark
+Activation = EndFrame
+801C1B46 03E8
+
+[Infinite Health Wreck of the Maria Doria]
+Type = Gameshark
+Activation = EndFrame
+801CFFA2 03E8
+
+[Infinite Oxygen]
+Type = Gameshark
+Activation = EndFrame
+8008C66E 0708
+
+[Infinite Small & large medi-pack]
+Type = Gameshark
+Activation = EndFrame
+90088C74 03E703E7
+
+[Have all levels when loading a saved game]
+Type = Gameshark
+Activation = EndFrame
+A606DFD8 08210013
+A606DFDA 00332402
+
+[Infinite Ammo (on pickup)]
+Type = Gameshark
+Activation = EndFrame
+80040B66 2400
+80046456 2400
+80046AA6 2400
+
+[Infinite Auto-gun ammo]
+Type = Gameshark
+Activation = EndFrame
+8008C71C 0028
+
+[Infinite Flares]
+Type = Gameshark
+Activation = EndFrame
+80088C72 03E7
+
+[Have All 3 secrets]
+Type = Gameshark
+Activation = EndFrame
+800DE7F2 000F
+
+[Have All special items]
+Type = Gameshark
+Activation = EndFrame
+80088CF8 0009
+
+[Have All weapons]
+Type = Gameshark
+Activation = EndFrame
+80088C64 000B
+
+[Stop timer]
+Type = Gameshark
+Activation = EndFrame
+800DE7E0 0000
+

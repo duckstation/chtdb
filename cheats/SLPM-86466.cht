@@ -1,0 +1,65 @@
+; CHTDB: ; [ Harukanaru Toki no Naka de (Jpn) (2000) (Koei) {SLPM-86466} <harukana> ]
+
+[Infinite Energy Green Hair Character]
+Type = Gameshark
+Activation = EndFrame
+80141BC0 03E7
+
+[Infinite Energy Main Character]
+Type = Gameshark
+Activation = EndFrame
+80141B80 03E7
+
+[Infinite Energy Blue Hair Character]
+Type = Gameshark
+Activation = EndFrame
+80141BA0 03E7
+
+[Enemy energy is always 0]
+Type = Gameshark
+Activation = EndFrame
+80141BE2 0000
+
+[Picture scroll All]
+Type = Gameshark
+Activation = EndFrame
+900C1670 FFFFFFFF
+900C1674 FFFFFFFF
+800C1678 FFFF
+300C167A 00FF
+
+[Beans Dictionary All]
+Type = Gameshark
+Activation = EndFrame
+300C16FF 00FF
+
+[Ghost level Max]
+Type = Gameshark
+Activation = EndFrame
+300C1538 0063
+
+[State ghost appearance]
+Type = Gameshark
+Activation = EndFrame
+300C1539 0040
+
+[State ghost sealed]
+Type = Gameshark
+Activation = EndFrame
+300C1539 0080
+
+[Ghost gauge Max]
+Type = Gameshark
+Activation = EndFrame
+300C153A 000F
+
+[PIECE OF MY HEART]
+Type = Gameshark
+Activation = EndFrame
+300C15D3 007F
+
+[heart to believe Max]
+Type = Gameshark
+Activation = EndFrame
+800C1488 03E8
+

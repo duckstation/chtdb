@@ -1,0 +1,28 @@
+; CHTDB: ; [ LEGO Racers (USA) (1999) (LEGO Media International) {SLUS-00581} <legorace> ]
+
+[Time is 0.00.00]
+Type = Gameshark
+Activation = EndFrame
+800B026E 2400
+
+[Unlock Everything]
+Type = Gameshark
+Activation = EndFrame
+D00687B0 4003
+8016ACE8 FFFF
+
+[Enable Maintain Speed Off Track]
+Type = Gameshark
+Activation = EndFrame
+8006BB08 0001
+
+[Enable Rocket Cars]
+Type = Gameshark
+Activation = EndFrame
+8006BB08 0002
+
+[Enable Turbo Mode]
+Type = Gameshark
+Activation = EndFrame
+8006BB08 0100
+

@@ -1,0 +1,27 @@
+; CHTDB: ; [ IHRA Drag Racing (USA) (2001) (Bethesda Softworks) {SLUS-01097} <ihradrag> ]
+
+[P1 Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+8006A210 C350
+
+[P2 Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+8006A288 C350
+
+[P1 After Race Mph Modifier]
+Type = Gameshark
+Activation = EndFrame
+800E72BC FFFF
+
+[P1 Damage 0]
+Type = Gameshark
+Activation = EndFrame
+800EB524 0000
+
+[P2 Damage 0]
+Type = Gameshark
+Activation = EndFrame
+800EB59C 0000
+

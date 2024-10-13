@@ -1,0 +1,12 @@
+; CHTDB: ; [ Breath of Fire III (France) {SLES-01319} ]
+
+[Max Health Ryu]
+Type = Gameshark
+Activation = EndFrame
+8014497C 03E7
+
+[Max Health Rei]
+Type = Gameshark
+Activation = EndFrame
+80144C0C 03E7
+

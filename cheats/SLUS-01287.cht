@@ -1,0 +1,28 @@
+; CHTDB: ; [ Snowboarding (USA) (2000) (Agetec / A1 Games) {SLUS-01287} <snowbrd> ]
+
+[All Numbers]
+Type = Gameshark
+Activation = EndFrame
+50001B7C 0000
+80053350 003F
+
+[Race Mode - Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80052724 0724
+
+[Trick Mode - Max Points]
+Type = Gameshark
+Activation = EndFrame
+8005272C 270F
+
+[Trick Mode - Point Limit Always 1]
+Type = Gameshark
+Activation = EndFrame
+80052728 0001
+
+[Play As A Guy With A Mohawk]
+Type = Gameshark
+Activation = EndFrame
+30054299 0003
+

@@ -1,0 +1,82 @@
+; CHTDB: ; [ Guilty Gear (USA, v1.0) (1998) (Atlus Software) {SLUS-00772} <ggear> ]
+
+[P1 Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+8007CB98 00BC
+
+[P2 Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+8007CB68 00BC
+
+[P2 Sudden death]
+Type = Gameshark
+Activation = EndFrame
+8007CB68 0001
+
+[P1 Select Character\Potemkin]
+Type = Gameshark
+Activation = EndFrame
+80139048 0000
+
+[P1 Select Character\Zato-1]
+Type = Gameshark
+Activation = EndFrame
+80139048 0001
+
+[P1 Select Character\Sol-Badguy]
+Type = Gameshark
+Activation = EndFrame
+80139048 0002
+
+[P1 Select Character\Ky Kiske]
+Type = Gameshark
+Activation = EndFrame
+80139048 0003
+
+[P1 Select Character\Chipp Zanuee]
+Type = Gameshark
+Activation = EndFrame
+80139048 0004
+
+[P1 Select Character\May]
+Type = Gameshark
+Activation = EndFrame
+80139048 0005
+
+[P1 Select Character\Axl Low]
+Type = Gameshark
+Activation = EndFrame
+80139048 0006
+
+[P1 Select Character\M]
+Type = Gameshark
+Activation = EndFrame
+80139048 0007
+
+[P1 Select Character\Kliff Undersn]
+Type = Gameshark
+Activation = EndFrame
+80139048 0008
+
+[P1 Select Character\Dr.Baldhead]
+Type = Gameshark
+Activation = EndFrame
+80139048 0009
+
+[P1 Select Character\Testament]
+Type = Gameshark
+Activation = EndFrame
+80139048 000A
+
+[P1 Select Character\Justice]
+Type = Gameshark
+Activation = EndFrame
+80139048 000B
+
+[P1 Select Character\Baiken]
+Type = Gameshark
+Activation = EndFrame
+80139048 000C
+

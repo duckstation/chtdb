@@ -1,0 +1,12 @@
+; CHTDB: ; [ Race Drivin' a Go! Go! (Japan) {SLPS-00167} ]
+
+[Infinite Time And Fuel]
+Type = Gameshark
+Activation = EndFrame
+801CD520 0A8C
+
+[Infinite Off-Road Time]
+Type = Gameshark
+Activation = EndFrame
+8012FF68 013E
+

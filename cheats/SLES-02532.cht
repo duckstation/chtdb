@@ -1,0 +1,59 @@
+; CHTDB: ; [ Resident Evil 3: Nemesis (Spain) {SLES-02532} ]
+
+[Energia Infinita]
+Type = Gameshark
+Activation = EndFrame
+800CEE28 00C8
+
+[Municion infinita rifle de asalto]
+Type = Gameshark
+Activation = EndFrame
+800D42DD 0063
+
+[Tiempo infinito]
+Type = Gameshark
+Activation = EndFrame
+800D4130 00C8
+
+[Municion Infinita pistola]
+Type = Gameshark
+Activation = EndFrame
+800D42CD 0063
+
+[Municion infinita escopeta]
+Type = Gameshark
+Activation = EndFrame
+800D42E5 0063
+
+[Infinitas cintas de maquina]
+Type = Gameshark
+Activation = EndFrame
+800D42E1 0063
+
+[Municion Arma Infinita (Carlos)]
+Type = Gameshark
+Activation = EndFrame
+800D440D 000C
+
+[Todos los pics en el epilogo]
+Type = Gameshark
+Activation = EndFrame
+800D40D6 0008
+
+[Auto Dodge Zombies (Hold L3)]
+Type = Gameshark
+Activation = EndFrame
+D5000000 00000200
+F4104BD0 00AA7000
+05004234 040062AE
+AAAAAAAA AAAAAAAA
+010DAAAA AAAAAAAA
+AAAAAAAA AAAAAAAA
+00000000 0000FFFF
+D6000000 00000200
+F4104BD0 00AA7000
+010D4234 040062AE
+AAAAAAAA AAAAAAAA
+0500AAAA AAAAAAAA
+AAAAAAAA AAAAAAAA
+

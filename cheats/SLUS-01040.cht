@@ -1,0 +1,1287 @@
+; CHTDB: ; [ Vagrant Story (USA) (2000) (Square Electronic Arts) {SLUS-01040} <vagstory> ]
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+9011FA58 03E703E7
+
+[Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+9011FA5C 03E703E7
+
+[Have All Normal + Key Items]
+Type = Gameshark
+Activation = EndFrame
+50002004 0001
+80060F68 0145
+50002004 0000
+80060F6A 0064
+50002004 0001
+80060FE8 01CA
+50002004 0000
+80060FEA 0001
+
+[One Combo Learn All Battle Abilities]
+Type = Gameshark
+Activation = EndFrame
+80060062 FFFF
+
+[Save Anywhere .With this code, when you save at places other than a save point, the saved file will say Corrupted file. The file is NOT corrupt, and will load/save properly.]
+Type = Gameshark
+Activation = EndFrame
+D0109FBC 4E6B
+80109FC6 2400
+
+[Have All Magic]
+Type = Gameshark
+Activation = EndFrame
+50003334 0000
+8004C4E0 9000
+50001B34 0000
+8004CF70 8000
+
+[Have All Battle Abilities]
+Type = Gameshark
+Activation = EndFrame
+50002034 0000
+8004BE60 9000
+
+[Character\Battle Abilities\Chain Abilities\Heavy Shot]
+Type = Gameshark
+Activation = EndFrame
+8004BE60 9000
+
+[Character\Battle Abilities\Chain Abilities\Gain Life]
+Type = Gameshark
+Activation = EndFrame
+8004BE94 9000
+
+[Character\Battle Abilities\Chain Abilities\Mind Assault]
+Type = Gameshark
+Activation = EndFrame
+8004BEC8 9000
+
+[Character\Battle Abilities\Chain Abilities\Gain Magic]
+Type = Gameshark
+Activation = EndFrame
+8004BEFC 9000
+
+[Character\Battle Abilities\Chain Abilities\Raging Ache]
+Type = Gameshark
+Activation = EndFrame
+8004BF30 9000
+
+[Character\Battle Abilities\Chain Abilities\Mind Ache]
+Type = Gameshark
+Activation = EndFrame
+8004BF64 9000
+
+[Character\Battle Abilities\Chain Abilities\Temper]
+Type = Gameshark
+Activation = EndFrame
+8004BF98 9000
+
+[Character\Battle Abilities\Chain Abilities\Crimson Pain]
+Type = Gameshark
+Activation = EndFrame
+8004BFCC 9000
+
+[Character\Battle Abilities\Chain Abilities\Instill]
+Type = Gameshark
+Activation = EndFrame
+8004C000 9000
+
+[Character\Battle Abilities\Chain Abilities\Phantom Pain]
+Type = Gameshark
+Activation = EndFrame
+8004C034 9000
+
+[Character\Battle Abilities\Chain Abilities\Paralysis Pulse]
+Type = Gameshark
+Activation = EndFrame
+8004C068 9000
+
+[Character\Battle Abilities\Chain Abilities\Numbing Claw]
+Type = Gameshark
+Activation = EndFrame
+8004C0D0 9000
+
+[Character\Battle Abilities\Chain Abilities\Dulling Impact]
+Type = Gameshark
+Activation = EndFrame
+8004C104 9000
+
+[Character\Battle Abilities\Chain Abilities\Snake Venom]
+Type = Gameshark
+Activation = EndFrame
+8004C16C 9000
+
+[Character\Battle Abilities\Defense Abilities\Ward]
+Type = Gameshark
+Activation = EndFrame
+8004C208 9000
+
+[Character\Battle Abilities\Defense Abilities\Siphon Soul]
+Type = Gameshark
+Activation = EndFrame
+8004C23C 9000
+
+[Character\Battle Abilities\Defense Abilities\Reflect Magic]
+Type = Gameshark
+Activation = EndFrame
+8004C270 9000
+
+[Character\Battle Abilities\Defense Abilities\Reflect Damage]
+Type = Gameshark
+Activation = EndFrame
+8004C2A4 9000
+
+[Character\Battle Abilities\Defense Abilities\Absorb Magic]
+Type = Gameshark
+Activation = EndFrame
+8004C2D8 9000
+
+[Character\Battle Abilities\Defense Abilities\Absorb Damage]
+Type = Gameshark
+Activation = EndFrame
+8004C30C 9000
+
+[Character\Battle Abilities\Defense Abilities\Impact Guard]
+Type = Gameshark
+Activation = EndFrame
+8004C340 9000
+
+[Character\Battle Abilities\Defense Abilities\Wind Break]
+Type = Gameshark
+Activation = EndFrame
+8004C374 9000
+
+[Character\Battle Abilities\Defense Abilities\Fire Proof]
+Type = Gameshark
+Activation = EndFrame
+8004C3A8 9000
+
+[Character\Battle Abilities\Defense Abilities\Terra Ward]
+Type = Gameshark
+Activation = EndFrame
+8004C3DC 9000
+
+[Character\Battle Abilities\Defense Abilities\Aqua Ward]
+Type = Gameshark
+Activation = EndFrame
+8004C410 9000
+
+[Character\Battle Abilities\Defense Abilities\Shadow Guard]
+Type = Gameshark
+Activation = EndFrame
+8004C444 9000
+
+[Character\Battle Abilities\Defense Abilities\Demonscale]
+Type = Gameshark
+Activation = EndFrame
+8004C478 9000
+
+[Character\Battle Abilities\Defense Abilities\Phantom Shield]
+Type = Gameshark
+Activation = EndFrame
+8004C4AC 9000
+
+[Character\Battle Abilities\Defense Abilities\Have All Battle Abilities]
+Type = Gameshark
+Activation = EndFrame
+50002034 0000
+8004BE60 9000
+
+[Character\Break Art\Dagger\Whistle Sting]
+Type = Gameshark
+Activation = EndFrame
+8004DF48 C000
+
+[Character\Break Art\Dagger\Shadoweave]
+Type = Gameshark
+Activation = EndFrame
+8004DF7C C000
+
+[Character\Break Art\Dagger\Double Fang]
+Type = Gameshark
+Activation = EndFrame
+8004DFB0 C000
+
+[Character\Break Art\Dagger\Wyrm Scorn]
+Type = Gameshark
+Activation = EndFrame
+8004DFE4 C000
+
+[Character\Break Art\Sword\Rending Gale]
+Type = Gameshark
+Activation = EndFrame
+8004E018 C000
+
+[Character\Break Art\Sword\Vile Scar]
+Type = Gameshark
+Activation = EndFrame
+8004E04C C000
+
+[Character\Break Art\Sword\Cherry Ronde]
+Type = Gameshark
+Activation = EndFrame
+8004E080 C000
+
+[Character\Break Art\Sword\Papillon Reel]
+Type = Gameshark
+Activation = EndFrame
+8004E0B4 C000
+
+[Character\Break Art\Great Sword\Sunder]
+Type = Gameshark
+Activation = EndFrame
+8004E0E8 C000
+
+[Character\Break Art\Great Sword\Thunderwave]
+Type = Gameshark
+Activation = EndFrame
+8004E11C C000
+
+[Character\Break Art\Great Sword\Swallow Slash]
+Type = Gameshark
+Activation = EndFrame
+8004E150 C000
+
+[Character\Break Art\Great Sword\Advent Sign]
+Type = Gameshark
+Activation = EndFrame
+8004E184 C000
+
+[Character\Break Art\Axe + Mace\Mistral Edge]
+Type = Gameshark
+Activation = EndFrame
+8004E1B8 C000
+
+[Character\Break Art\Axe + Mace\Glacial Gale]
+Type = Gameshark
+Activation = EndFrame
+8004E1EC C000
+
+[Character\Break Art\Axe + Mace\Killer Mantis]
+Type = Gameshark
+Activation = EndFrame
+8004E220 C000
+
+[Character\Break Art\Axe + Mace\Black Nebula]
+Type = Gameshark
+Activation = EndFrame
+8004E254 C000
+
+[Character\Break Art\Great Axe\Bear Claw]
+Type = Gameshark
+Activation = EndFrame
+8004E288 C000
+
+[Character\Break Art\Great Axe\Accursed Umbra]
+Type = Gameshark
+Activation = EndFrame
+8004E2BC C000
+
+[Character\Break Art\Great Axe\Iron Ripper]
+Type = Gameshark
+Activation = EndFrame
+8004E2F0 C000
+
+[Character\Break Art\Great Axe\Emetic Bomb]
+Type = Gameshark
+Activation = EndFrame
+8004E324 C000
+
+[Character\Break Art\Staff\Sirocco]
+Type = Gameshark
+Activation = EndFrame
+8004E358 C000
+
+[Character\Break Art\Staff\Riskbreak]
+Type = Gameshark
+Activation = EndFrame
+8004E38C C000
+
+[Character\Break Art\Staff\Gravis Aether]
+Type = Gameshark
+Activation = EndFrame
+8004E3C0 C000
+
+[Character\Break Art\Staff\Trinity Pulse]
+Type = Gameshark
+Activation = EndFrame
+8004E3F4 C000
+
+[Character\Break Art\Heavy Mace\Bonecrusher]
+Type = Gameshark
+Activation = EndFrame
+8004E428 C000
+
+[Character\Break Art\Heavy Mace\Quickshock]
+Type = Gameshark
+Activation = EndFrame
+8004E45C C000
+
+[Character\Break Art\Heavy Mace\Ignis Wheel]
+Type = Gameshark
+Activation = EndFrame
+8004E490 C000
+
+[Character\Break Art\Heavy Mace\Hex Flux]
+Type = Gameshark
+Activation = EndFrame
+8004E4C4 C000
+
+[Character\Break Art\Polearm\Ruination]
+Type = Gameshark
+Activation = EndFrame
+8004E4F8 C000
+
+[Character\Break Art\Polearm\Scythe Wind]
+Type = Gameshark
+Activation = EndFrame
+8004E52C C000
+
+[Character\Break Art\Polearm\Giga Tempest]
+Type = Gameshark
+Activation = EndFrame
+8004E560 C000
+
+[Character\Break Art\Polearm\Spiral Scourge]
+Type = Gameshark
+Activation = EndFrame
+8004E594 C000
+
+[Character\Break Art\Crossbow\Brimstone Hail]
+Type = Gameshark
+Activation = EndFrame
+8004E5C8 C000
+
+[Character\Break Art\Crossbow\Heaven's Scorn]
+Type = Gameshark
+Activation = EndFrame
+8004E5FC C000
+
+[Character\Break Art\Crossbow\Death Wail]
+Type = Gameshark
+Activation = EndFrame
+8004E630 C000
+
+[Character\Break Art\Crossbow\Sanctus Flare]
+Type = Gameshark
+Activation = EndFrame
+8004E664 C000
+
+[Character\Break Art\Bare Hands\Lotus Palm]
+Type = Gameshark
+Activation = EndFrame
+8004E698 C000
+
+[Character\Break Art\Bare Hands\Vertigo]
+Type = Gameshark
+Activation = EndFrame
+8004E6CC C000
+
+[Character\Break Art\Bare Hands\Vermillion Aura]
+Type = Gameshark
+Activation = EndFrame
+8004E700 C000
+
+[Character\Break Art\Bare Hands\Retribution]
+Type = Gameshark
+Activation = EndFrame
+8004E734 C000
+
+[Character\Break Art\Bare Hands\Have All Break Arts]
+Type = Gameshark
+Activation = EndFrame
+50002834 0000
+8004DF48 C000
+
+[Character\Character Misc.\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+D011FA2E 8011
+8011FA58 03E7
+8006006C 03E7
+
+[Character\Character Misc.\Max HP]
+Type = Gameshark
+Activation = EndFrame
+8006006E 03E7
+
+[Character\Character Misc.\Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+D011FA2E 8011
+8011FA5C 03E7
+80060070 03E7
+
+[Character\Character Misc.\Max MP]
+Type = Gameshark
+Activation = EndFrame
+80060072 03E7
+
+[Character\Character Misc.\Risk Always At Zero]
+Type = Gameshark
+Activation = EndFrame
+3011FA60 0000
+
+[Character\Character Misc.\Body Always Excellent]
+Type = Gameshark
+Activation = EndFrame
+3012006C 00C8
+
+[Character\Character Misc.\Right Arm Always Excellent]
+Type = Gameshark
+Activation = EndFrame
+3011FEB4 00C8
+
+[Character\Character Misc.\Left Arm Always Excellent]
+Type = Gameshark
+Activation = EndFrame
+3011FDD8 00C8
+
+[Character\Character Misc.\Head Always Excellent]
+Type = Gameshark
+Activation = EndFrame
+3011FF90 00C8
+
+[Character\Character Misc.\Legs Always Excellent]
+Type = Gameshark
+Activation = EndFrame
+30120148 00C8
+
+[Character\Character Misc.\Permanent Quicken x2]
+Type = Gameshark
+Activation = EndFrame
+E011FA73 0012
+3011FA73 001C
+
+[Character\Character Misc.\Ludicrous Speed]
+Type = Gameshark
+Activation = EndFrame
+E011FA73 0012
+3011FA73 007F
+
+[Character\Character Misc.\Super Strength]
+Type = Gameshark
+Activation = EndFrame
+D011FA2E 8011
+8011FA62 2690
+
+[Character\Character Misc.\Max Strength]
+Type = Gameshark
+Activation = EndFrame
+D011FA2E 8011
+8011FA64 03E7
+
+[Character\Character Misc.\Super Intelligence]
+Type = Gameshark
+Activation = EndFrame
+D011FA2E 8011
+8011FA66 2690
+
+[Character\Character Misc.\Max Intelligence]
+Type = Gameshark
+Activation = EndFrame
+D011FA2E 8011
+8011FA68 03E7
+
+[Character\Character Misc.\Super Agility]
+Type = Gameshark
+Activation = EndFrame
+D011FA2E 8011
+8011FA6A 2690
+
+[Character\Character Misc.\Max Agility]
+Type = Gameshark
+Activation = EndFrame
+D011FA2E 8011
+8011FA6C 03E7
+
+[Character\Character Misc.\When Attacking Hold Circle To Take Off 999 Damage]
+Type = Gameshark
+Activation = EndFrame
+D005E1C0 0020
+801FBC84 03E7
+
+[Character\Magic\Warlock\Drain Heart]
+Type = Gameshark
+Activation = EndFrame
+8004CD00 9000
+
+[Character\Magic\Warlock\Drain Mind]
+Type = Gameshark
+Activation = EndFrame
+8004CD34 9000
+
+[Character\Magic\Warlock\Solid Shock]
+Type = Gameshark
+Activation = EndFrame
+8004CD9C 9000
+
+[Character\Magic\Warlock\Lightning Bolt]
+Type = Gameshark
+Activation = EndFrame
+8004CDD0 C000
+
+[Character\Magic\Warlock\Fireball]
+Type = Gameshark
+Activation = EndFrame
+8004CE04 9000
+
+[Character\Magic\Warlock\Vulcan Lance]
+Type = Gameshark
+Activation = EndFrame
+8004CE38 9000
+
+[Character\Magic\Warlock\Aqua Blast]
+Type = Gameshark
+Activation = EndFrame
+8004CE6C 9000
+
+[Character\Magic\Warlock\Spirit Surge]
+Type = Gameshark
+Activation = EndFrame
+8004CEA0 9000
+
+[Character\Magic\Warlock\Dark Chant]
+Type = Gameshark
+Activation = EndFrame
+8004CED4 9000
+
+[Character\Magic\Warlock\Exorcism]
+Type = Gameshark
+Activation = EndFrame
+8004CF08 9000
+
+[Character\Magic\Warlock\Banish]
+Type = Gameshark
+Activation = EndFrame
+8004CF3C 9000
+
+[Character\Magic\Warlock\Explosion Level 1]
+Type = Gameshark
+Activation = EndFrame
+8004CF70 8000
+
+[Character\Magic\Warlock\Explosion Level 2]
+Type = Gameshark
+Activation = EndFrame
+8004CFA4 8000
+
+[Character\Magic\Warlock\Explosion Level 3]
+Type = Gameshark
+Activation = EndFrame
+8004CFD8 8000
+
+[Character\Magic\Warlock\Explosion Level 4]
+Type = Gameshark
+Activation = EndFrame
+8004D00C 8000
+
+[Character\Magic\Warlock\Thunderburst Level 1]
+Type = Gameshark
+Activation = EndFrame
+8004D040 8000
+
+[Character\Magic\Warlock\Thunderburst Level 2]
+Type = Gameshark
+Activation = EndFrame
+8004D074 8000
+
+[Character\Magic\Warlock\Thunderburst Level 3]
+Type = Gameshark
+Activation = EndFrame
+8004D0A8 8000
+
+[Character\Magic\Warlock\Thunderburst Level 4]
+Type = Gameshark
+Activation = EndFrame
+8004D0DC 8000
+
+[Character\Magic\Warlock\Flame Sphere Level 1]
+Type = Gameshark
+Activation = EndFrame
+8004D110 8000
+
+[Character\Magic\Warlock\Flame Sphere Level 2]
+Type = Gameshark
+Activation = EndFrame
+8004D144 8000
+
+[Character\Magic\Warlock\Flame Sphere Level 3]
+Type = Gameshark
+Activation = EndFrame
+8004D178 8000
+
+[Character\Magic\Warlock\Flame Sphere Level 4]
+Type = Gameshark
+Activation = EndFrame
+8004D1AC 8000
+
+[Character\Magic\Warlock\Gaea Strike Level 1]
+Type = Gameshark
+Activation = EndFrame
+8004D1E0 8000
+
+[Character\Magic\Warlock\Gaea Strike Level 2]
+Type = Gameshark
+Activation = EndFrame
+8004D214 8000
+
+[Character\Magic\Warlock\Gaea Strike Level 3]
+Type = Gameshark
+Activation = EndFrame
+8004D248 8000
+
+[Character\Magic\Warlock\Gaea Strike Level 4]
+Type = Gameshark
+Activation = EndFrame
+8004D27C 8000
+
+[Character\Magic\Warlock\Avalanche Level 1]
+Type = Gameshark
+Activation = EndFrame
+8004D2B0 8000
+
+[Character\Magic\Warlock\Avalanche Level 2]
+Type = Gameshark
+Activation = EndFrame
+8004D2E4 8000
+
+[Character\Magic\Warlock\Avalanche Level 3]
+Type = Gameshark
+Activation = EndFrame
+8004D318 8000
+
+[Character\Magic\Warlock\Avalanche Level 4]
+Type = Gameshark
+Activation = EndFrame
+8004D34C 8000
+
+[Character\Magic\Warlock\Radial Surge Level 1]
+Type = Gameshark
+Activation = EndFrame
+8004D380 8000
+
+[Character\Magic\Warlock\Radial Surge Level 2]
+Type = Gameshark
+Activation = EndFrame
+8004D3B4 8000
+
+[Character\Magic\Warlock\Radial Surge Level 3]
+Type = Gameshark
+Activation = EndFrame
+8004D3E8 8000
+
+[Character\Magic\Warlock\Radial Surge Level 4]
+Type = Gameshark
+Activation = EndFrame
+8004D41C 8000
+
+[Character\Magic\Warlock\Meteor Level 1]
+Type = Gameshark
+Activation = EndFrame
+8004D450 8000
+
+[Character\Magic\Warlock\Meteor Level 2]
+Type = Gameshark
+Activation = EndFrame
+8004D484 8000
+
+[Character\Magic\Warlock\Meteor Level 3]
+Type = Gameshark
+Activation = EndFrame
+8004D4B8 8000
+
+[Character\Magic\Warlock\Meteor Level 4]
+Type = Gameshark
+Activation = EndFrame
+8004D4EC 8000
+
+[Character\Magic\Shaman\Surging Balm]
+Type = Gameshark
+Activation = EndFrame
+8004C98C 9000
+
+[Character\Magic\Shaman\Restoration]
+Type = Gameshark
+Activation = EndFrame
+8004CB94 9000
+
+[Character\Magic\Shaman\Antidote]
+Type = Gameshark
+Activation = EndFrame
+8004CBC8 9000
+
+[Character\Magic\Shaman\Blessing]
+Type = Gameshark
+Activation = EndFrame
+8004CC30 9000
+
+[Character\Magic\Shaman\Clearance]
+Type = Gameshark
+Activation = EndFrame
+8004CC64 9000
+
+[Character\Magic\Shaman\Heal]
+Type = Gameshark
+Activation = EndFrame
+8004CD68 9000
+
+[Character\Magic\Sorcerer\Degenerate]
+Type = Gameshark
+Activation = EndFrame
+8004C4E0 9000
+
+[Character\Magic\Sorcerer\Psychodrain]
+Type = Gameshark
+Activation = EndFrame
+8004C514 9000
+
+[Character\Magic\Sorcerer\Leadbones]
+Type = Gameshark
+Activation = EndFrame
+8004C548 9000
+
+[Character\Magic\Sorcerer\Tarnish]
+Type = Gameshark
+Activation = EndFrame
+8004C57C 9000
+
+[Character\Magic\Sorcerer\Analyze]
+Type = Gameshark
+Activation = EndFrame
+8004C5B0 9000
+
+[Character\Magic\Sorcerer\Herakles]
+Type = Gameshark
+Activation = EndFrame
+8004C618 9000
+
+[Character\Magic\Sorcerer\Enlighten]
+Type = Gameshark
+Activation = EndFrame
+8004C64C 9000
+
+[Character\Magic\Sorcerer\Invigorate]
+Type = Gameshark
+Activation = EndFrame
+8004C680 9000
+
+[Character\Magic\Sorcerer\Prostasia]
+Type = Gameshark
+Activation = EndFrame
+8004C6B4 9000
+
+[Character\Magic\Sorcerer\Silence]
+Type = Gameshark
+Activation = EndFrame
+8004C924 9000
+
+[Character\Magic\Sorcerer\Magic Ward]
+Type = Gameshark
+Activation = EndFrame
+8004C958 9000
+
+[Character\Magic\Sorcerer\Fixate]
+Type = Gameshark
+Activation = EndFrame
+8004C9F4 B000
+
+[Character\Magic\Sorcerer\Dispel]
+Type = Gameshark
+Activation = EndFrame
+8004CA28 9000
+
+[Character\Magic\Sorcerer\Stun Cloud]
+Type = Gameshark
+Activation = EndFrame
+8004CA90 9000
+
+[Character\Magic\Sorcerer\Poison Mist]
+Type = Gameshark
+Activation = EndFrame
+8004CAC4 9000
+
+[Character\Magic\Sorcerer\Curse]
+Type = Gameshark
+Activation = EndFrame
+8004CB2C 9000
+
+[Character\Magic\Sorcerer\Unlock]
+Type = Gameshark
+Activation = EndFrame
+8004CC98 9000
+
+[Character\Magic\Sorcerer\Eureka]
+Type = Gameshark
+Activation = EndFrame
+8004CCCC B000
+
+[Character\Magic\Enchanter\Luft Fusion]
+Type = Gameshark
+Activation = EndFrame
+8004C750 9000
+
+[Character\Magic\Enchanter\Spark Fusion]
+Type = Gameshark
+Activation = EndFrame
+8004C784 9000
+
+[Character\Magic\Enchanter\Soil Fusion]
+Type = Gameshark
+Activation = EndFrame
+8004C7B8 9000
+
+[Character\Magic\Enchanter\Frost Fusion]
+Type = Gameshark
+Activation = EndFrame
+8004C7EC 9000
+
+[Character\Magic\Enchanter\Aero Guard]
+Type = Gameshark
+Activation = EndFrame
+8004C8BC 9000
+
+[Character\Magic\Enchanter\Pyro Guard]
+Type = Gameshark
+Activation = EndFrame
+8004C854 9000
+
+[Character\Magic\Enchanter\Terra Guard]
+Type = Gameshark
+Activation = EndFrame
+8004C888 9000
+
+[Character\Score Menu\All Titles]
+Type = Gameshark
+Activation = EndFrame
+9005FEA0 FFFFFFFF
+
+[Character\Score Menu\Have All Monsters In Encyclopaedia]
+Type = Gameshark
+Activation = EndFrame
+50001602 0000
+8005FF3C FFFF
+
+[Character\Score Menu\Gazette\Max Score]
+Type = Gameshark
+Activation = EndFrame
+9010A460 05F5E0FF
+
+[Character\Score Menu\Gazette\Max Games Completed]
+Type = Gameshark
+Activation = EndFrame
+80061598 FFFF
+
+[Character\Score Menu\Gazette\Chest Count Highscore 100%]
+Type = Gameshark
+Activation = EndFrame
+8005FF38 0034
+
+[Character\Score Menu\Gazette\Map Completion Highscore 100%]
+Type = Gameshark
+Activation = EndFrame
+8005FF34 016C
+
+[Character\Score Menu\Gazette\Max Chain Ability Highscore]
+Type = Gameshark
+Activation = EndFrame
+8005FF28 FFFF
+
+[Character\Score Menu\Kill List\Max Human Kills]
+Type = Gameshark
+Activation = EndFrame
+8005FEA4 FFFF
+
+[Character\Score Menu\Kill List\Max Beast Kills]
+Type = Gameshark
+Activation = EndFrame
+8005FEA6 FFFF
+
+[Character\Score Menu\Kill List\Max Undead Kills]
+Type = Gameshark
+Activation = EndFrame
+8005FEA8 FFFF
+
+[Character\Score Menu\Kill List\Max Phantom Kills]
+Type = Gameshark
+Activation = EndFrame
+8005FEAA FFFF
+
+[Character\Score Menu\Kill List\Max Dragon Kills]
+Type = Gameshark
+Activation = EndFrame
+8005FEAC FFFF
+
+[Character\Score Menu\Kill List\Max Evil Kills]
+Type = Gameshark
+Activation = EndFrame
+8005FEAE FFFF
+
+[Character\Score Menu\Weapon Usage\Unarmed]
+Type = Gameshark
+Activation = EndFrame
+8005FEB4 FFFF
+
+[Character\Score Menu\Weapon Usage\Dagger]
+Type = Gameshark
+Activation = EndFrame
+8005FEB6 FFFF
+
+[Character\Score Menu\Weapon Usage\Sword]
+Type = Gameshark
+Activation = EndFrame
+8005FEB8 FFFF
+
+[Character\Score Menu\Weapon Usage\Great Sword]
+Type = Gameshark
+Activation = EndFrame
+8005FEBA FFFF
+
+[Character\Score Menu\Weapon Usage\Axe + Mace]
+Type = Gameshark
+Activation = EndFrame
+8005FEBC FFFF
+
+[Character\Score Menu\Weapon Usage\Great Axe]
+Type = Gameshark
+Activation = EndFrame
+8005FEBE FFFF
+
+[Character\Score Menu\Weapon Usage\Staff]
+Type = Gameshark
+Activation = EndFrame
+8005FEC0 FFFF
+
+[Character\Score Menu\Weapon Usage\Heavy Mace]
+Type = Gameshark
+Activation = EndFrame
+8005FEC2 FFFF
+
+[Character\Score Menu\Weapon Usage\Polearm]
+Type = Gameshark
+Activation = EndFrame
+8005FEC4 FFFF
+
+[Character\Score Menu\Weapon Usage\Crossbow]
+Type = Gameshark
+Activation = EndFrame
+8005FEC6 FFFF
+
+[Character\Score Menu\Record Time\Minotaur\1st Time]
+Type = Gameshark
+Activation = EndFrame
+9005FEC8 80000032
+
+[Character\Score Menu\Record Time\Minotaur\2nd Time]
+Type = Gameshark
+Activation = EndFrame
+9005FECC 80000032
+
+[Character\Score Menu\Record Time\Minotaur\3rd Time]
+Type = Gameshark
+Activation = EndFrame
+9005FED0 80000032
+
+[Character\Score Menu\Record Time\Dragon\1st Time]
+Type = Gameshark
+Activation = EndFrame
+9005FED4 80000032
+
+[Character\Score Menu\Record Time\Dragon\2nd Time]
+Type = Gameshark
+Activation = EndFrame
+9005FED8 80000032
+
+[Character\Score Menu\Record Time\Dragon\3rd Time]
+Type = Gameshark
+Activation = EndFrame
+9005FEDC 80000032
+
+[Character\Score Menu\Record Time\Earth Dragon\1st Time]
+Type = Gameshark
+Activation = EndFrame
+9005FEE0 80000032
+
+[Character\Score Menu\Record Time\Earth Dragon\2nd Time]
+Type = Gameshark
+Activation = EndFrame
+9005FEE4 80000032
+
+[Character\Score Menu\Record Time\Earth Dragon\3rd Time]
+Type = Gameshark
+Activation = EndFrame
+9005FEE8 80000032
+
+[Character\Score Menu\Record Time\Snow Dragon\1st Time]
+Type = Gameshark
+Activation = EndFrame
+9005FEEC 80000032
+
+[Character\Score Menu\Record Time\Snow Dragon\2nd Time]
+Type = Gameshark
+Activation = EndFrame
+9005FEF0 80000032
+
+[Character\Score Menu\Record Time\Snow Dragon\3rd Time]
+Type = Gameshark
+Activation = EndFrame
+9005FEF4 80000032
+
+[Character\Score Menu\Record Time\Damascus Golem\1st Time]
+Type = Gameshark
+Activation = EndFrame
+9005FEF8 80000032
+
+[Character\Score Menu\Record Time\Damascus Golem\2nd Time]
+Type = Gameshark
+Activation = EndFrame
+9005FEFC 80000032
+
+[Character\Score Menu\Record Time\Damascus Golem\3rd Time]
+Type = Gameshark
+Activation = EndFrame
+9005FF00 80000032
+
+[Character\Score Menu\Record Time\Damascus Crab\1st Time]
+Type = Gameshark
+Activation = EndFrame
+9005FF04 80000032
+
+[Character\Score Menu\Record Time\Damascus Crab\2nd Time]
+Type = Gameshark
+Activation = EndFrame
+9005FF08 80000032
+
+[Character\Score Menu\Record Time\Damascus Crab\3rd Time]
+Type = Gameshark
+Activation = EndFrame
+9005FF0C 80000032
+
+[Character\Score Menu\Record Time\Death + Ogre Zombie\1st Time]
+Type = Gameshark
+Activation = EndFrame
+9005FF10 80000032
+
+[Character\Score Menu\Record Time\Death + Ogre Zombie\2nd Time]
+Type = Gameshark
+Activation = EndFrame
+9005FF14 80000032
+
+[Character\Score Menu\Record Time\Death + Ogre Zombie\3rd Time]
+Type = Gameshark
+Activation = EndFrame
+9005FF18 80000032
+
+[Character\Score Menu\Record Time\Asura\1st Time]
+Type = Gameshark
+Activation = EndFrame
+9005FF1C 80000032
+
+[Character\Score Menu\Record Time\Asura\2nd Time]
+Type = Gameshark
+Activation = EndFrame
+9005FF20 80000032
+
+[Character\Score Menu\Record Time\Asura\3rd Time]
+Type = Gameshark
+Activation = EndFrame
+9005FF24 80000032
+
+[Misc.\Unlock Teleport Location\Worker's Breakroom]
+Type = Gameshark
+Activation = EndFrame
+300616EE 0001
+
+[Misc.\Unlock Teleport Location\Wine Guild Hall]
+Type = Gameshark
+Activation = EndFrame
+300616EF 0001
+
+[Misc.\Unlock Teleport Location\Black Market]
+Type = Gameshark
+Activation = EndFrame
+300616F0 0001
+
+[Misc.\Unlock Teleport Location\Hall Of Revenge]
+Type = Gameshark
+Activation = EndFrame
+300616F1 0001
+
+[Misc.\Unlock Teleport Location\The Withered Spring]
+Type = Gameshark
+Activation = EndFrame
+300616F2 0001
+
+[Misc.\Unlock Teleport Location\Work Of Art Workshop]
+Type = Gameshark
+Activation = EndFrame
+300616F3 0001
+
+[Misc.\Unlock Teleport Location\Advent Ground]
+Type = Gameshark
+Activation = EndFrame
+300616F4 0001
+
+[Misc.\Unlock Teleport Location\Rue Vermillion]
+Type = Gameshark
+Activation = EndFrame
+300616F5 0001
+
+[Misc.\Unlock Teleport Location\Magic Hammer Workshop]
+Type = Gameshark
+Activation = EndFrame
+300616F6 0001
+
+[Misc.\Unlock Teleport Location\The Crossing]
+Type = Gameshark
+Activation = EndFrame
+300616F7 0001
+
+[Misc.\Unlock Teleport Location\The Dark Tunnel]
+Type = Gameshark
+Activation = EndFrame
+300616F8 0001
+
+[Misc.\Unlock Teleport Location\Rue Bouquet]
+Type = Gameshark
+Activation = EndFrame
+300616F9 0001
+
+[Misc.\Unlock Teleport Location\The Sunless Way]
+Type = Gameshark
+Activation = EndFrame
+300616FA 0001
+
+[Misc.\Unlock Teleport Location\The Faerie Circle]
+Type = Gameshark
+Activation = EndFrame
+300616FB 0001
+
+[Misc.\Unlock Teleport Location\Forest River]
+Type = Gameshark
+Activation = EndFrame
+300616FC 0001
+
+[Misc.\Unlock Teleport Location\The Wood Gate]
+Type = Gameshark
+Activation = EndFrame
+300616FD 0001
+
+[Misc.\Unlock Teleport Location\Valdiman Gates]
+Type = Gameshark
+Activation = EndFrame
+300616FE 0001
+
+[Misc.\Unlock Teleport Location\The Warrior's Rest]
+Type = Gameshark
+Activation = EndFrame
+300616FF 0001
+
+[Misc.\Unlock Teleport Location\Keane's Workshop]
+Type = Gameshark
+Activation = EndFrame
+30061700 0001
+
+[Misc.\Unlock Teleport Location\Sinner's Corner]
+Type = Gameshark
+Activation = EndFrame
+30061701 0001
+
+[Misc.\Unlock Teleport Location\Crumbling Market]
+Type = Gameshark
+Activation = EndFrame
+30061702 0001
+
+[Misc.\Unlock Teleport Location\Treaty Room]
+Type = Gameshark
+Activation = EndFrame
+30061703 0001
+
+[Misc.\Unlock Teleport Location\Bandits' Hollow]
+Type = Gameshark
+Activation = EndFrame
+30061704 0001
+
+[Misc.\Unlock Teleport Location\The Ore Road]
+Type = Gameshark
+Activation = EndFrame
+30061705 0001
+
+[Misc.\Unlock Teleport Location\The Auction Block]
+Type = Gameshark
+Activation = EndFrame
+30061706 0001
+
+[Misc.\Unlock Teleport Location\Way Down]
+Type = Gameshark
+Activation = EndFrame
+30061707 0001
+
+[Misc.\Unlock Teleport Location\Rue Lejour]
+Type = Gameshark
+Activation = EndFrame
+30061708 0001
+
+[Misc.\Unlock Teleport Location\Kesch Bridge]
+Type = Gameshark
+Activation = EndFrame
+30061709 0001
+
+[Misc.\Unlock Teleport Location\Metal Works Workshop]
+Type = Gameshark
+Activation = EndFrame
+3006170A 0001
+
+[Misc.\Unlock Teleport Location\Junction Point Workshop]
+Type = Gameshark
+Activation = EndFrame
+3006170B 0001
+
+[Misc.\Unlock Teleport Location\The Dark Coast]
+Type = Gameshark
+Activation = EndFrame
+3006170C 0001
+
+[Misc.\Unlock Teleport Location\Plateia Lumitar]
+Type = Gameshark
+Activation = EndFrame
+3006170D 0001
+
+[Misc.\Unlock Teleport Location\Sin And Punishment]
+Type = Gameshark
+Activation = EndFrame
+3006170E 0001
+
+[Misc.\Unlock Teleport Location\The Atrium]
+Type = Gameshark
+Activation = EndFrame
+3006170F 0001
+
+[Misc.\Unlock Teleport Location\Gods Hands Workshop]
+Type = Gameshark
+Activation = EndFrame
+30061710 0001
+
+[Misc.\Unlock Teleport Location\Debug Area Must Use Moon Jump To Get Out Of Wall!]
+Type = Gameshark
+Activation = EndFrame
+30061711 0001
+
+[Misc.\Unlock Teleport Location\Unlock All Teleport Locations]
+Type = Gameshark
+Activation = EndFrame
+50002401 0000
+300616EE 0001
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+A707AE6C 12000D80
+A70AED50 0E3812F5
+

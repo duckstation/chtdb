@@ -1,0 +1,26 @@
+; CHTDB: ; [ FIFA 2001 (France) {SLES-03141} ]
+
+[P1 Beginne mit letzter Frage]
+Type = Gameshark
+Activation = EndFrame
+D006FED4 0000
+3006FED4 000F
+
+[P1 Unendlich Joker alle Spieler 50 - 50]
+Type = Gameshark
+Activation = EndFrame
+D001E3C2 03E0
+8001E3C4 0000
+
+[P1 Unendlich Joker alle Spiele	Publikumsbefragung]
+Type = Gameshark
+Activation = EndFrame
+D001E3D2 03E0
+8001E3D4 0000
+
+[P1 Unendlich Joker alle Spiele	Telefonate]
+Type = Gameshark
+Activation = EndFrame
+D001E3E2 03E0
+8001E3E4 0000
+

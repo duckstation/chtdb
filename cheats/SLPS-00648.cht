@@ -1,0 +1,7 @@
+; CHTDB: ; [ Econo Kids: Ta ga Tame ni Kane wa Naru (Japan) {SLPS-00648} ]
+
+[Have 999999 money]
+Type = Gameshark
+Activation = EndFrame
+901B0980 000F423F
+

@@ -1,0 +1,44 @@
+; CHTDB: ; [ Trap Gunner (USA) (1998) (Atlus Software) {SLUS-00679} <trapgun> ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+801093D8 2328
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8012583A 03E8
+8012583C 03E8
+
+[P1 Infinite Bullets]
+Type = Gameshark
+Activation = EndFrame
+8012587C 0F00
+
+[Have All Levels Unlocked]
+Type = Gameshark
+Activation = EndFrame
+80124B12 0100
+
+[Have All Characters Unlocked]
+Type = Gameshark
+Activation = EndFrame
+80124B06 0101
+80124B08 0101
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A7138698 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A7138698 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A7138698 10000400
+

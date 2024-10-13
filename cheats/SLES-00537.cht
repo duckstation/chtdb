@@ -1,0 +1,111 @@
+; CHTDB: ; [ Re-Loaded (Europe) {SLES-00537} ]
+
+[Infinite Continues]
+Type = Gameshark
+Activation = EndFrame
+A60EEBD4 00040005
+
+[P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+A60ADDEA 0014001E
+
+[P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+A60ADEAA 001E0028
+
+[P1 Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+D00ADDE2 0000
+800ADDE6 03E7
+
+[P2 Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+D00ADE6E 0000
+800ADE72 03E7
+
+[P1 Infinite Special Attacks]
+Type = Gameshark
+Activation = EndFrame
+D00ADDE2 0000
+800ADDE8 0005
+
+[P2 Infinite Special Attacks]
+Type = Gameshark
+Activation = EndFrame
+D00ADE6E 0000
+800ADE74 0005
+
+[Select Perm Level\Gettin' Started]
+Type = Gameshark
+Activation = EndFrame
+A6056580 00010001
+
+[Select Perm Level\Smashing Pacifists]
+Type = Gameshark
+Activation = EndFrame
+A6056580 00010002
+
+[Select Perm Level\Goin' Underground]
+Type = Gameshark
+Activation = EndFrame
+A6056580 00010003
+
+[Select Perm Level\Keep Cool]
+Type = Gameshark
+Activation = EndFrame
+A6056580 00010004
+
+[Select Perm Level\Gettin' Hot]
+Type = Gameshark
+Activation = EndFrame
+A6056580 00010005
+
+[Select Perm Level\Make Some Noize]
+Type = Gameshark
+Activation = EndFrame
+A6056580 00010006
+
+[Select Perm Level\Hear No Evil]
+Type = Gameshark
+Activation = EndFrame
+A6056580 00010007
+
+[Select Perm Level\Saving Clones]
+Type = Gameshark
+Activation = EndFrame
+A6056580 00010008
+
+[Select Perm Level\Cheb's Island]
+Type = Gameshark
+Activation = EndFrame
+A6056580 00010009
+
+[Select Perm Level\The House On The Hill]
+Type = Gameshark
+Activation = EndFrame
+A6056580 0001000A
+
+[Select Perm Level\Bunsen And The Labs]
+Type = Gameshark
+Activation = EndFrame
+A6056580 0001000B
+
+[Select Perm Level\Kickin' Some Ass]
+Type = Gameshark
+Activation = EndFrame
+A6056580 0001000C
+
+[Select Perm Level\Happy?End]
+Type = Gameshark
+Activation = EndFrame
+A6056580 0001000D
+
+[Unlock All Extras Unlocks all pause menu cheats and replaces Sister Magpie with Fwank.]
+Type = Gameshark
+Activation = EndFrame
+300565E4 00FF
+

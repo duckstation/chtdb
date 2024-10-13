@@ -1,0 +1,23 @@
+; CHTDB: ; [ Worms Armageddon (Europe) {SLES-02332} ]
+
+[P1 All the Worms invulnerables]
+Type = Gameshark
+Activation = EndFrame
+80020034 00C8
+8014B360 00C8
+801A0DD6 00C8
+8014B3FC 00C8
+801A27EA 00C8
+801A27EE 00C8
+8014B534 00C8
+801A5C32 00C8
+801A5C36 00C8
+8014B498 00C8
+801A46A6 00C8
+801A46AA 00C8
+
+[Pluie de caisses]
+Type = Gameshark
+Activation = EndFrame
+8014BEA8 FFFF
+

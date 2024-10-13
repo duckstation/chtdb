@@ -1,0 +1,14 @@
+; CHTDB: ; [ Doukyuu re-mix: Billiards Multiple (Japan) {SLPS-02011} ]
+
+[Collection fully open]
+Type = Gameshark
+Activation = EndFrame
+30082065 00FF
+80082066 FFFF
+80082068 FFFF
+
+[All characters]
+Type = Gameshark
+Activation = EndFrame
+8008203C 0007
+

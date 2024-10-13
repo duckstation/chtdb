@@ -1,0 +1,22 @@
+; CHTDB: ; [ NFL Quarterback Club 97 (USA) (1996) (Acclaim Entertainment) {SLUS-00011} <nflqb97> ]
+
+[Select Home Team Score\99]
+Type = Gameshark
+Activation = EndFrame
+800D14C6 0063
+
+[Select Home Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+800D14C6 0000
+
+[Select Away Team Score\99]
+Type = Gameshark
+Activation = EndFrame
+800D3ACA 0063
+
+[Select Away Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+800D3ACA 0000
+

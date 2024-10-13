@@ -1,0 +1,8 @@
+; CHTDB: ; [ Tsumu (Japan) {SLPS-01746} ]
+
+[Infinite Moves]
+Type = Gameshark
+Activation = EndFrame
+8009F200 03E7
+801290A6 03E7
+

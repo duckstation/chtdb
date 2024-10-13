@@ -1,0 +1,45 @@
+; CHTDB: ; [ Ducati World - Racing Challenge (USA) (2001) (Acclaim Entertainment) {SLUS-01025} <ducatiw> ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+901B6FCC 000F423F
+
+[Freeze Time]
+Type = Gameshark
+Activation = EndFrame
+80092958 012C
+
+[All Tests + Licenses Passed]
+Type = Gameshark
+Activation = EndFrame
+D01732E8 02E4
+50001804 0000
+801B6F6C 0001
+
+[Quick Win]
+Type = Gameshark
+Activation = EndFrame
+E0011F32 0005
+30011F32 0003
+E00A9524 0000
+300A9524 0003
+E00A9526 0000
+300A9526 0003
+
+[Unlock Everything-Quick Race]
+Type = Gameshark
+Activation = EndFrame
+D01732E8 02E4
+50000404 0000
+801B70E4 FFFF
+D01732E8 02E4
+50000C04 0000
+801B70F4 0101
+
+[Unlock Full License]
+Type = Gameshark
+Activation = EndFrame
+D01732E8 02E4
+801B6FC4 0001
+

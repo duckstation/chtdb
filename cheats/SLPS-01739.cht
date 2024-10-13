@@ -1,0 +1,67 @@
+; CHTDB: ; [ Jouki Kikansha Unten Simulation: SL de Ikou! (Japan) {SLPS-01739} ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80049E70 270F
+
+[Infinite Penality Pts]
+Type = Gameshark
+Activation = EndFrame
+80049E7C 03E7
+
+[Left Counter Always 130]
+Type = Gameshark
+Activation = EndFrame
+80049E08 0082
+
+[Right Counter Always 130]
+Type = Gameshark
+Activation = EndFrame
+80049E76 07C6
+
+[Driving Sidewards Only activate one of this two]
+Type = Gameshark
+Activation = EndFrame
+80049C80 F1A7
+
+[Driving Backwards Only activate one of this two]
+Type = Gameshark
+Activation = EndFrame
+80049C50 D61A
+
+[Beginner mode cleared SL photo mode appears in OPTION]
+Type = Gameshark
+Activation = EndFrame
+8006E0A8 0001
+
+[Normal mode cleared SL photo mode appears in OPTION]
+Type = Gameshark
+Activation = EndFrame
+8006E0AC 0001
+
+[Professional mode cleared SL photo mode appears in OPTION]
+Type = Gameshark
+Activation = EndFrame
+8006E0B0 0001
+
+[Expert Mode cleared SL photo mode appears in OPTION]
+Type = Gameshark
+Activation = EndFrame
+8006E0B4 0001
+
+[Water MAX]
+Type = Gameshark
+Activation = EndFrame
+80049E76 3B90
+
+[Coal amount MAX]
+Type = Gameshark
+Activation = EndFrame
+80049E08 03E7
+
+[Points MAX]
+Type = Gameshark
+Activation = EndFrame
+80049E7C 03E7
+

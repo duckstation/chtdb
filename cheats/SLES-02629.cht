@@ -1,0 +1,7 @@
+; CHTDB: ; [ Army Men: Sarge's Heroes (Spain) {SLES-02629} ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80102A18 012C
+

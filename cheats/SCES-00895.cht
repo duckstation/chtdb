@@ -1,0 +1,13 @@
+; CHTDB: ; [ Disney Juego de AcciÃ³n Disney Presenta Hercules (Spain) (Platinum) {SCES-00895} ]
+
+[Energia Infinita]
+Type = Gameshark
+Activation = EndFrame
+8003506A 0080
+8003506C 0080
+
+[Vidas Infinitas]
+Type = Gameshark
+Activation = EndFrame
+80035054 0003
+

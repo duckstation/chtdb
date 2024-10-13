@@ -1,0 +1,95 @@
+; CHTDB: ; [ Rockman 3: Dr. Wily no Saigo!? (Japan) {SLPS-02262} ]
+
+[Infinite Energy navy mode]
+Type = Gameshark
+Activation = EndFrame
+8010AE7B 3200
+8010AE7C 0032
+
+[All Boss Stages Defeated]
+Type = Gameshark
+Activation = EndFrame
+1F800298 0012
+1F800299 00FF
+
+[BGM is Arranged-Type]
+Type = Gameshark
+Activation = EndFrame
+30055DEC 0001
+
+[Boss Attack Time = 00.00]
+Type = Gameshark
+Activation = EndFrame
+80055D90 0000
+80055DCC 0000
+
+[Have All Weapons & Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+1F8002DB 009C
+1F8002DC 009C
+1F8002DD 009C
+1F8002DE 009C
+1F8002DF 009C
+1F8002E0 009C
+1F8002E1 009C
+1F8002E2 009C
+1F8002E3 009C
+1F8002E4 009C
+1F8002E5 009C
+
+[Infinite E-Tanks]
+Type = Gameshark
+Activation = EndFrame
+1F8002E7 0009
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+1F8002DA 009C
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+1F8002E6 0009
+
+[One-Hit Kills for Most Enemies]
+Type = Gameshark
+Activation = EndFrame
+50000B01 0000
+3005CE5D 0000
+
+[Press L2+CIRCLE for Boss HP=0]
+Type = Gameshark
+Activation = EndFrame
+E0055C04 0021
+3005CE67 0000
+
+[Invincibility + Super Jump]
+Type = Gameshark
+Activation = EndFrame
+1F8002D0 0002
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+1F800271 0002
+
+[Zero change]
+Type = Gameshark
+Activation = EndFrame
+800D8AC8 1111
+
+[Air Dash Infinite]
+Type = Gameshark
+Activation = EndFrame
+800D8A6E 0178
+
+[Unlock All Extras]
+Type = Gameshark
+Activation = EndFrame
+50000302 0000
+8005C654 0001
+50008602 0000
+8005C754 FFFF
+

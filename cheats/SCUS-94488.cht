@@ -1,0 +1,660 @@
+; CHTDB: ; [ Gran Turismo 2 (USA, v1.2) (1999) (Sony Computer Entertainment America) {SCUS-94488} <gt2> ]
+
+[Simulation Disc\A Ton Of Cash]
+Type = Gameshark
+Activation = EndFrame
+901D0FC8 05F5E0FF
+
+[Simulation Disc 1.2\Hit/Tap Any AI Driver To Intimidate Them All]
+Description = Hit/tap any of them to make them turn to the side and drive very slow. Basically like Idiot AI, only a bit of user interaction is required
+Type = Gameshark
+Activation = EndFrame
+D00375E4 0660
+800375E6 2E8E
+
+[Simulation Disc\Stop Race Timer (Really Helpful In License Tests)]
+Type = Gameshark
+Activation = EndFrame
+8002F810 0000
+80046E84 0000
+
+[Simulation Disc\Gold Licenses B]
+Type = Gameshark
+Activation = EndFrame
+50000AA4 0000
+801CC760 0400
+
+[Simulation Disc\Gold Licenses A]
+Type = Gameshark
+Activation = EndFrame
+50000AA4 0000
+801CC0F8 0400
+
+[Simulation Disc\Gold Licenses I-C]
+Type = Gameshark
+Activation = EndFrame
+500009A4 0000
+801CBB34 0400
+
+[Simulation Disc\Gold Licenses I-B]
+Type = Gameshark
+Activation = EndFrame
+50000AA4 0000
+801CB428 0400
+801CBA90 0400
+
+[Simulation Disc\Gold Licenses I-A]
+Type = Gameshark
+Activation = EndFrame
+50000AA4 0000
+801CADC0 0400
+
+[Simulation Disc\Gold Super License]
+Type = Gameshark
+Activation = EndFrame
+50000AA4 0000
+801CA758 0400
+
+[Simulation Disc\Any Car Can Play Any Circuit]
+Description = With this cheat, it allows you to race cars with higher horse power in the lower class circuits. For ExampleYou can use the Dodge Viper in the first USA Nationals Circuit in the Gran Turismo League
+Type = Gameshark
+Activation = EndFrame
+D00148E0 000C
+800148E2 1000
+
+[Simulation Disc\Have All Gold Licenses]
+Type = Gameshark
+Activation = EndFrame
+50003CA4 0000
+801CA758 0400
+
+[Simulation Disc\Max Cash After One Race]
+Type = Gameshark
+Activation = EndFrame
+8005E6DA 2400
+
+[Simulation Disc\Money Never Decreases]
+Type = Gameshark
+Activation = EndFrame
+80017A42 2400
+80017D4A 2400
+
+[Simulation Disc\Start With $99,000,000+]
+Type = Gameshark
+Activation = EndFrame
+900107A0 3C0205F5
+
+[Simulation Disc\Start With All Gold Licenses (Alternate)]
+Type = Gameshark
+Activation = EndFrame
+8005DDBA A270
+
+[In-Battle, go compete in GT World League and win. Then the game will say you completed GT. Sim Credits will then be unlocked on Arcade Disc]
+Type = Gameshark
+Activation = EndFrame
+50004402 0000
+801C9458 1111
+
+[Arcade Disc\Road Tracks Complete/Unlock Arcade Credits/Unlock Extra Cars]
+Type = Gameshark
+Activation = EndFrame
+50000A02 0000
+801C93F8 0505
+301C940C 0005
+
+[Arcade Disc\Unlock All Road Tracks-1P Mode]
+Type = Gameshark
+Activation = EndFrame
+800F364E 0083
+
+[Arcade Disc\Unlock All Rally Tracks-1P Mode]
+Type = Gameshark
+Activation = EndFrame
+800F3656 0027
+
+[Arcade Disc\Unlock All Road Tracks-2P Mode]
+Type = Gameshark
+Activation = EndFrame
+800F3658 0015
+
+[Arcade Disc\Unlock All Rally Tracks-2P Mode]
+Type = Gameshark
+Activation = EndFrame
+800F365A 0006
+
+[Arcade Disc\Unlock All Tracks-Time Trial]
+Type = Gameshark
+Activation = EndFrame
+800F3652 0017
+
+[Arcade Disc\Unlock Ending Credits (Press Select At Credit Screen)]
+Type = Gameshark
+Activation = EndFrame
+C01F068A FFFE
+80052580 0001
+80052594 0001
+00000000 FFFF
+
+[Both Discs\Quick Win]
+Type = Gameshark
+Activation = EndFrame
+A60A99AC 00000002
+801D52CA 0200
+
+[Both Discs\P1 Nitrous Boost]
+Type = Gameshark
+Activation = EndFrame
+C00A9228 4000
+800A99DE 0020
+800A99DA 0020
+00000000 FFFF
+
+[Both Discs\P1 Auto-Pilot Press L1+R1/L2+R2]
+Type = Gameshark
+Activation = EndFrame
+D00A9228 1010
+80000002 4D43
+D00A9228 2020
+80000002 0000
+D0000002 4D43
+800A9B2A 0004
+
+[Both Discs\P2 Auto-Pilot Press R1+R2/L1+L2]
+Type = Gameshark
+Activation = EndFrame
+D00A9228 3000
+80000004 4D43
+D00A9228 0030
+80000004 0000
+D0000004 4D43
+800AA66A 0004
+
+[Both Discs\2-Player View Toggle]
+Type = Gameshark
+Activation = EndFrame
+D00A9228 0001
+801FFA86 0000
+D00A9228 0002
+801FFA86 0100
+
+[Both Discs\Solid Ghost In Rally]
+Type = Gameshark
+Activation = EndFrame
+A61D5476 00020001
+
+[More Misc.\Replay Screen Clear (Simulation Disc)]
+Type = Gameshark
+Activation = EndFrame
+A61FFA82 02000300
+
+[More Misc.\Replay Screen Clear (Arcade Disc)]
+Type = Gameshark
+Activation = EndFrame
+A61FFA8A 02000300
+
+[Moon Jump 'L2/LT is for CPU cars, R2/RT is for Player']
+Type = Gameshark
+Activation = EndFrame
+A70443D0 06309E70
+A70443D2 AE260C02
+900A7C00 3C05800A
+900A7C04 34A596B4
+900A7C08 16250013
+900A7C10 3C05801C
+900A7C14 34A597AA
+900A7C18 94A30000
+900A7C20 00031A42
+900A7C28 30630001
+900A7C30 14600005
+900A7C38 34021000
+900A7C40 00C23021
+900A7C48 AE260630
+900A7C50 03E00008
+900A7C58 3C05801C
+900A7C5C 34A597AA
+900A7C60 94A30000
+900A7C68 00031A02
+900A7C70 30630001
+900A7C78 14600005
+900A7C80 34021000
+900A7C88 00C23021
+900A7C90 AE260630
+900A7C98 03E00008
+
+[Nitrous 'Hold L3/LS']
+Type = Gameshark
+Activation = EndFrame
+A7044374 00019E98
+A7044376 26730C02
+A7044378 18210001
+A704437A 00622673
+900A7CA0 3206000F
+900A7CA4 34050004
+900A7CA8 14C5001D
+900A7CB0 3C05801C
+900A7CB4 34A597AA
+900A7CB8 94A40000
+900A7CC0 00042082
+900A7CC8 30840001
+900A7CD0 14800013
+900A7CD8 1C600007
+900A7CE0 3C05FFF1
+900A7CE4 34A59000
+900A7CE8 0065302A
+900A7CEC 14C00002
+900A7CF4 2463D000
+900A7CFC 04600007
+900A7D04 3C05000E
+900A7D08 34A57000
+900A7D0C 0065302A
+900A7D10 10C00002
+900A7D18 24633000
+900A7D20 00621821
+900A7D28 03E00008
+
+[Low-Rider]
+Type = Gameshark
+Activation = EndFrame
+A7044386 14402400
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+D0010000 FFE8
+8007B39C 0156
+D0010000 FFD0
+8007B39C 03DE
+D0010000 FFE0
+8007B39C 01AC
+8007B39E 3402
+
+[Widescreen 16-9 option Better Graphics]
+Type = Gameshark
+Activation = EndFrame
+800674EC 0060
+800674EE 3404
+
+[16-9 Widescreen 2.0]
+Type = Gameshark
+Activation = EndFrame
+;"Help" the game unload segments that normally are left unwritten to,
+;so further cheat detection is more reliable. This is safe as it overwrites dead code.
+;Reset the race overlay for Arcade
+A40529DC 801EFB39
+8005D5DC 0000
+80057054 0000
+00000000 FFFF
+;Reset the race overlay for Simulation
+A4052A70 000000F6
+8005D5DC 0000
+80057054 0000
+00000000 FFFF
+;Car Selection (Arcade)
+A4020A90 3084007F
+A701E578 FF80FF56
+A701E580 008000AA
+;Car Selection 2P Battle (Arcade)
+A70201C4 FF97FF74
+A70201CC 0069008C
+;Pre-race screen (Arcade)
+A701536C 014001AA
+00000000 FFFF
+;Race
+A401F888 AEB40008
+A70100D0 FF60FF2B
+A70100D4 00A000D5
+00000000 FFFF
+;Race (Rear view mirror)
+A403EC74 02602021
+A70295EC FFC4FFB0
+A70295F0 003C0050
+00000000 FFFF
+;Post-race screen #1
+A4057054 260201C0
+;a1 -> t1, *will* change visuals of some screens!
+;Other screens will get slightly resized to compensate for this.
+A70497CA A485A489
+A7049F48 00C8010A
+A7049F50 302100C8
+A7049F52 00A03406
+A704C194 00C8010A
+A704C19C 302100C8
+A704C19E 00A03406
+;Bonus screen (Licenses)
+;Use free space to re-fit li $a1, 160h \ sh $a1, C4h($a0)
+A704E07C 00000160
+A704E07E 00002405
+A704E088 022000C4
+A704E08A 8FB2A485
+A704E064 016001D5
+;Results screen
+A7050C14 FF50FF16
+A7050C1C 00B000EA
+00000000 FFFF
+;Post-race screen #2
+A405D5DC 8005A5F8
+A7058070 00C8010A
+A7058078 302100C8
+A705807A 00A03406
+A7058924 00C8010A
+A705892C 302100C8
+A705892E 00A03406
+;Bonus screen (Trophy)
+A7059A08 016001D5
+00000000 FFFF
+;GT Mode screens (Simulation)
+A402442C 800229A8
+A701CDF4 00B30086
+A701CDFC FFCEFFDB
+A701CE04 03200258
+00000000 FFFF
+
+[21-9 Widescreen 2.0]
+Type = Gameshark
+Activation = EndFrame
+;"Help" the game unload segments that normally are left unwritten to,
+;so further cheat detection is more reliable. This is safe as it overwrites dead code.
+;Reset the race overlay for Arcade
+A40529DC 801EFB39
+8005D5DC 0000
+80057054 0000
+00000000 FFFF
+;Reset the race overlay for Simulation
+A4052A70 000000F6
+8005D5DC 0000
+80057054 0000
+00000000 FFFF
+;Car Selection (Arcade)
+A4020A90 3084007F
+A701E578 FF80FF20
+A701E580 008000E0
+;Car Selection 2P Battle (Arcade)
+A70201C4 FF97FF49
+A70201CC 006900B7
+;Pre-race screen (Arcade)
+A701536C 01400230
+00000000 FFFF
+;Race
+A401F888 AEB40008
+A70100D0 FF60FEE8
+A70100D4 00A00118
+00000000 FFFF
+;Race (Rear view mirror)
+A403EC74 02602021
+A70295EC FFC4FF97
+A70295F0 003C0069
+00000000 FFFF
+;Post-race screen #1
+A4057054 260201C0
+;a1 -> t1, *will* change visuals of some screens!
+;Other screens will get slightly resized to compensate for this.
+A70497CA A485A489
+A7049F48 00C8015E
+A7049F50 302100C8
+A7049F52 00A03406
+A704C194 00C8015E
+A704C19C 302100C8
+A704C19E 00A03406
+;Bonus screen (Licenses)
+;Use free space to re-fit li $a1, 160h \ sh $a1, C4h($a0)
+A704E07C 00000160
+A704E07E 00002405
+A704E088 022000C4
+A704E08A 8FB2A485
+A704E064 01600268
+;Results screen
+A7050C14 FF50FECC
+A7050C1C 00B00134
+00000000 FFFF
+;Post-race screen #2
+A405D5DC 8005A5F8
+A7058070 00C8015E
+A7058078 302100C8
+A705807A 00A03406
+A7058924 00C8015E
+A705892C 302100C8
+A705892E 00A03406
+;Bonus screen (Trophy)
+A7059A08 01600268
+00000000 FFFF
+;GT Mode screens (Simulation)
+A402442C 800229A8
+A701CDF4 00B30066
+A701CDFC FFCEFFE4
+A701CE04 032001C9
+00000000 FFFF
+
+[60 FPS (+Re-enable tire smoke, sky in the read view mirror, rear view mirror)]
+Type = Gameshark
+Activation = EndFrame
+E01D5864 0002
+301D5864 0001
+A401F888 AEB40008
+;Re-enable tire smoke
+A70168C8 00020000
+;Re-enable sky in the read view mirror
+A7019644 00020000
+00000000 FFFF
+;Re-enable rear view mirror
+A003EC74 02602021
+A7029550 00020000
+
+[Metric units (imperial to metric)]
+Type = Gameshark
+Activation = EndFrame
+;"Help" the game unload segments that normally are left unwritten to,
+;so further cheat detection is more reliable. This is safe as it overwrites dead code.
+;Reset the race overlay for Arcade
+A00529DC 801EFB39
+80057054 0000
+;Reset the race overlay for Simulation
+A0052A70 000000F6
+80057054 0000
+;Localization changes
+;mph text -> km/h text (lap times)
+A71C6C87 706D6D6B
+A71C6C88 0068682F
+;lb text -> kg text (Arcade)
+A70F8677 626C676B
+;lb-ft text -> kgm text (Arcade)
+A70F86AF 626C676B
+A70F86B1 662D2F6D
+A70F86B3 2F746425
+A70F86B5 64257072
+A70F86B7 7072006D
+A70F86C0 626C676B
+A70F86C2 662D2F6D
+A70F86C4 2F74257E
+A70F86C6 257E7264
+A70F86C8 72646D70
+A70F86CA 6D700000
+;lb-ft text -> kgm text (Arcade graph)
+A70F85A6 626C676B
+A70F85A8 662D006D
+;mph launch speed -> km/h launch speed text (License tests)
+A71C7101 706D6D6B
+A71C7103 0068682F
+;lb text -> kg text (Simulation garage)
+A71EF6C3 626C676B
+;lb-ft text -> kgm text (Simulation garage)
+A71C30FF 626C676B
+A71C3101 662D206D
+A71C3103 2074202F
+A71C3105 202F0000
+;Code changes
+A403EC74 02602021
+;mph text -> km/h text (speedometer)
+A702F6FC B0D8A0C0
+A702F6FE 39233922
+;Speed unit scaling
+A7030570 000D0016
+A7030574 FBDD8000
+00000000 FFFF
+A4020A90 3084007F
+;Weight unit scaling (Arcade)
+A7018AE4 13030000
+A7018AE6 00090000
+A7018AEC 30230000
+A7018AEE 00463446
+;Torque unit scaling (Arcade)
+A7018C28 17C30000
+A7018C2A 000234A8
+A7018C3C 40230000
+A7018C3E 00620000
+;Torque graph scaling (Arcade)
+A70197B4 18230004
+A70197B6 00629683
+A70198CE ACC3ACC4
+00000000 FFFF
+;Speed unit scaling (License tests)
+A4057054 260201C0
+A704DA18 37C30000
+A704DA1A 00069506
+A704DA28 30230000
+A704DA2A 00460000
+00000000 FFFF
+A402442C 800229A8
+;Weight unit scaling (Simulation screens)
+A701C968 48100000
+A701C974 302303A4
+A701C976 00468D26
+A701C564 48100000
+A701C570 302303A4
+A701C572 00468D26
+;Torque unit scaling (Simulation screens)
+A701C808 40230000
+A701C80A 00620000
+00000000 FFFF
+
+[Full level of detail (LOD) AI cars (Needs 8MB RAM enabled)]
+Type = Gameshark
+Activation = EndFrame
+A401F888 AEB40008
+A7014344 00405112
+A7014346 16A00800
+;Set to 0003 to force the lowest LOD
+A7014348 00030001
+00000000 FFFF
+
+[Slightly higher draw distance]
+Type = Gameshark
+Activation = EndFrame
+A403EC74 02602021
+A7020420 0004810D
+A7020422 14400800
+00000000 FFFF
+
+[Use 8MB RAM for polygon buffers (Needs 8MB RAM enabled)]
+Type = Gameshark
+Activation = EndFrame
+A401F888 AEB40008
+;Codes will be skipped if RAM mirroring is in place (8MB mode disabled)
+D121F88A AEB4
+A7016A6C 000E8020
+D121F88A AEB4
+A7016A70 57000000
+D121F88A AEB4
+A7016A7C 00030007
+D121F88A AEB4
+A7016A78 28210000
+D121F88A AEB4
+A7016A7A 02250000
+D121F88A AEB4
+A7016A88 80000000
+00000000 FFFF
+
+[L3 to toggle Mirror (tap) and HUD (hold)]
+Type = Gameshark
+Activation = EndFrame
+A403EC74 02602021
+D7010001 00000200
+A0029524 1040000C
+;Always on
+90029524 00000001
+A0029524 0800A556
+;Default
+90029524 1040000C
+A0029524 00000000
+;Always off
+90029524 0800A556
+;Fixup canary
+A0029524 00000001
+90029524 00000000
+00000000 FFFF
+00000000 FFFF
+A403EC74 02602021
+D701003C 00000200
+F5029434 0022A530
+F5029436 14400800
+F5029424 BA060000
+F5029426 0C000000
+00000000 FFFF
+00000000 FFFF
+
+[Enable extra cameras in race]
+Type = Gameshark
+Activation = EndFrame
+A401F888 AEB40008
+A701031C 00030009
+A7010370 40F045C1
+;Replay off
+C30A92BC 0001
+A701171C 0106010E
+A7011778 45E945D7
+00000000 FFFF
+00000000 FFFF
+A401F888 AEB40008
+;Hold R1 to trigger a cinematic camera
+;Replay off
+C30A92BC 0001
+D701001E 01000008
+F5010148 40B6427F
+F5010A4C 006C8021
+F5010A4E 8C700000
+301FFA89 0002
+00000000 FFFF
+00000000 FFFF
+00000000 FFFF
+;Restore everything when replay is enabled
+A401F888 AEB40008
+C40A92BC 0000
+D001171C 010E
+8001171C 0106
+D0011778 45D7
+80011778 45E9
+A0010A4C 00008021
+90010A4C 8C70006C
+00000000 FFFF
+00000000 FFFF
+
+[True Endurance tweak]
+Type = Gameshark
+Activation = EndFrame
+;"Help" the game unload segments that normally are left unwritten to,
+;so further cheat detection is more reliable. This is safe as it overwrites dead code.
+;Reset the race overlay for Arcade
+A00529DC 801EFB39
+80057054 0000
+;Reset the race overlay for Simulation
+A0052A70 000000F6
+80057054 0000
+;Sets 2h Rome Endurance to 255 laps and hides the lap counter
+A4057054 260201C0
+;Set the endurance flag manually for 255 lap races, so replays work properly
+E01D586B 00FF
+E0046F69 0000
+30046F69 0001
+;Time limited race off
+E0046F69 0000
+;Restore the max laps counter
+A602CE24 00020006
+;Time limited race on
+C4046F69 0000
+;Turn off the max laps counter
+A702CE24 00060002
+;Set laps to 255
+E01D586B 0063
+301D586B 00FF
+00000000 FFFF
+00000000 FFFF
+

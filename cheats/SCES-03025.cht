@@ -1,0 +1,245 @@
+; CHTDB: ; [ Walt Disneys Das Dschungelbuch: Groove Party (Germany) {SCES-03025} ]
+
+[Verrückt-Modus freigeschaltet]
+Type = Gameshark
+Activation = EndFrame
+30057E12 0001
+
+[Story-Modus Der Dschungel ist kein Platz für einen Jungen Punkte]
+Type = Gameshark
+Activation = EndFrame
+A608E454 0000C350
+
+[Story-Modus Der Dschungel ist kein Platz für einen Jungen Unendlich Fallen]
+Type = Gameshark
+Activation = EndFrame
+D008E4B0 0002
+3008E4B0 0004
+
+[Story-Modus Der Dschungel ist kein Platz für einen Jungen Längste Combo = 100]
+Type = Gameshark
+Activation = EndFrame
+D308E830 0001
+3008E830 0064
+
+[Story-Modus Der Dschungel ist kein Platz für einen Jungen Volltreffer > 500]
+Type = Gameshark
+Activation = EndFrame
+A608E840 000101F4
+
+[Story-Modus Geh zum Militär ! Freigeschaltet]
+Type = Gameshark
+Activation = EndFrame
+30056871 0002
+
+[Story-Modus Geh zum Militär Punkte]
+Type = Gameshark
+Activation = EndFrame
+A608EE0C 0000C350
+
+[Story-Modus Geh zum Militär Unendlich Fallen]
+Type = Gameshark
+Activation = EndFrame
+D008E468 0002
+3008E468 0004
+
+[Story-Modus Geh zum Militär Längste Combo = 100]
+Type = Gameshark
+Activation = EndFrame
+D308F1E8 0001
+3008F1E8 0064
+
+[Story-Modus Geh zum Militär Volltreffer > 500]
+Type = Gameshark
+Activation = EndFrame
+A608F1F8 000101F4
+
+[Story-Modus Probier's mal mit Gemütlichkeit Freigeschaltet]
+Type = Gameshark
+Activation = EndFrame
+30056871 0003
+
+[Story-Modus Probier's mal mit Gemütlichkeit Punkte]
+Type = Gameshark
+Activation = EndFrame
+A608E15C 0000C350
+
+[Story-Modus Probier's mal mit Gemütlichkeit Unendlich Fallen]
+Type = Gameshark
+Activation = EndFrame
+D008E1B8 0002
+3008E1B8 0004
+
+[Story-Modus Probier's mal mit Gemütlichkeit Längste Combo = 100]
+Type = Gameshark
+Activation = EndFrame
+D308E538 0001
+3008E538 0064
+
+[Story-Modus Probier's mal mit Gemütlichkeit Volltreffer > 500]
+Type = Gameshark
+Activation = EndFrame
+A608E548 000101F4
+
+[Story-Modus Bananen in der Kokospalme Freigeschaltet]
+Type = Gameshark
+Activation = EndFrame
+30056871 0004
+
+[Story-Modus Bananen in der Kokospalme Punkte]
+Type = Gameshark
+Activation = EndFrame
+A608E57C 0000C350
+
+[Story-Modus Bananen in der Kokospalme Unendlich Fallen]
+Type = Gameshark
+Activation = EndFrame
+D008E5D8 0002
+3008E5D8 0004
+
+[Story-Modus Bananen in der Kokospalme Längste Combo = 100]
+Type = Gameshark
+Activation = EndFrame
+D308E958 0001
+3008E958 0064
+
+[Story-Modus Bananen in der Kokospalme Volltreffer > 500]
+Type = Gameshark
+Activation = EndFrame
+A608E968 000101F4
+
+[Story-Modus Ich wär gern wie du Freigeschaltet]
+Type = Gameshark
+Activation = EndFrame
+30056871 0005
+
+[Story-Modus Ich wär gern wie du Punkte]
+Type = Gameshark
+Activation = EndFrame
+A608DFD8 0000C350
+
+[Story-Modus Ich wär gern wie du Unendlich Fallen]
+Type = Gameshark
+Activation = EndFrame
+D008E034 0002
+3008E034 0004
+
+[Story-Modus Ich wär gern wie du Längste Combo = 100]
+Type = Gameshark
+Activation = EndFrame
+D308E3B4 0001
+3008E3B4 0064
+
+[Story-Modus Ich wär gern wie du Volltreffer > 500]
+Type = Gameshark
+Activation = EndFrame
+A608E3C4 000101F4
+
+[Story-Modus Lust auf einen Imbiss Freigeschaltet]
+Type = Gameshark
+Activation = EndFrame
+30056871 0006
+
+[Story-Modus Lust auf einen Imbiss Punkte]
+Type = Gameshark
+Activation = EndFrame
+A608DD9C 0000C350
+
+[Story-Modus Lust auf einen Imbiss Unendlich Fallen]
+Type = Gameshark
+Activation = EndFrame
+D008DDF8 0002
+3008DDF8 0004
+
+[Story-Modus Lust auf einen Imbiss Längste Combo = 100]
+Type = Gameshark
+Activation = EndFrame
+D308E178 0001
+3008E178 0064
+
+[Story-Modus Lust auf einen Imbiss Volltreffer > 500]
+Type = Gameshark
+Activation = EndFrame
+A608E188 000101F4
+
+[Story-Modus Wir sind die Geier Freigeschaltet]
+Type = Gameshark
+Activation = EndFrame
+30056871 0007
+
+[Story-Modus Wir sind die Geier Punkte]
+Type = Gameshark
+Activation = EndFrame
+A608DEC0 0000C350
+
+[Story-Modus Wir sind die Geier Unendlich Fallen]
+Type = Gameshark
+Activation = EndFrame
+D008DF1C 0002
+3008DF1C 0004
+
+[Story-Modus Wir sind die Geier Längste Combo = 100]
+Type = Gameshark
+Activation = EndFrame
+D308E29C 0001
+3008E29C 0064
+
+[Story-Modus Wir sind die Geier	Volltreffer > 500]
+Type = Gameshark
+Activation = EndFrame
+A608E2AC 000101F4
+
+[Story-Modus Lauf ! Freigeschaltet]
+Type = Gameshark
+Activation = EndFrame
+30056871 0008
+
+[Story-Modus Lauf ! Punkte]
+Type = Gameshark
+Activation = EndFrame
+A608E4EC 0000C350
+
+[Story-Modus Lauf ! Unendlich Fallen]
+Type = Gameshark
+Activation = EndFrame
+D008E548 0002
+3008E548 0004
+
+[Story-Modus Lauf ! Längste Combo = 100]
+Type = Gameshark
+Activation = EndFrame
+D308E8C8 0001
+3008E8C8 0064
+
+[Story-Modus Lauf ! Volltreffer > 500]
+Type = Gameshark
+Activation = EndFrame
+A608E8D8 000101F4
+
+[Story-Modus Ein neuer Tag Freigeschaltet]
+Type = Gameshark
+Activation = EndFrame
+30056871 0009
+
+[Story-Modus Ein neuer Tag Punkte]
+Type = Gameshark
+Activation = EndFrame
+A6092148 0000C350
+
+[Story-Modus Ein neuer Tag Unendlich Fallen]
+Type = Gameshark
+Activation = EndFrame
+D00921A4 0002
+300921A4 0004
+
+[Story-Modus Ein neuer Tag Längste Combo = 100]
+Type = Gameshark
+Activation = EndFrame
+D3092524 0001
+30092524 0064
+
+[Story-Modus Ein neuer Tag Volltreffer > 500]
+Type = Gameshark
+Activation = EndFrame
+A6092534 000101F4
+

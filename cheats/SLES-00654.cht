@@ -1,0 +1,7 @@
+; CHTDB: ; [ Star Wars: Rebel Assault II: The Hidden Empire (Europe) {SLES-00654 | SLES-10654} ]
+
+[Infinite Shields/Health]
+Type = Gameshark
+Activation = EndFrame
+800BDE24 1000
+

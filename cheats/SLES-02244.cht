@@ -1,0 +1,12 @@
+; CHTDB: ; [ Mighty Hits Special (Europe) {SLES-02244} ]
+
+[P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800F0600 0005
+
+[P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800F0604 0005
+

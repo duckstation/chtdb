@@ -1,0 +1,18 @@
+; CHTDB: ; [ Option Tuning Car Battle Spec-R (Jpn) (2000) (MTO) {SLPS-02587} <optionsr> ]
+
+[Infinite Tuning Coupon]
+Type = Gameshark
+Activation = EndFrame
+800BA764 03E7
+
+[Unlock All Arcade Cars - Unable To Save To Memory Card.]
+Type = Gameshark
+Activation = EndFrame
+900BA758 FFFFFFFF
+
+[Unlock All Arcade Cars/Tracks]
+Type = Gameshark
+Activation = EndFrame
+50001C02 0000
+800BA77E FFFF
+

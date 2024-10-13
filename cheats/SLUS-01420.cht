@@ -1,0 +1,12 @@
+; CHTDB: ; [ Spec Ops - Covert Assault (USA) (2001) (Take-Two Interactive Software) {SLUS-01420} <specopca> ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+A702D13A 00520040
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+A702BF70 FFFF0000
+

@@ -1,0 +1,44 @@
+; CHTDB: ; [ Machine Hunter (USA) (1997) (MGM Interactive) {SLUS-00470} <machuntr> ]
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800BFB98 005C
+
+[P2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800BFDB0 005C
+
+[P1 Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800BFB94 00AA
+
+[P2 Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800BFDAC 00AA
+
+[P1 Infinite Power]
+Type = Gameshark
+Activation = EndFrame
+80121594 1000
+80121598 1000
+
+[P2 Infinite Power]
+Type = Gameshark
+Activation = EndFrame
+801215FC 1000
+80121600 1000
+
+[Infinite Land Mines]
+Type = Gameshark
+Activation = EndFrame
+801215B4 0063
+
+[Infinite Proximity Bombs]
+Type = Gameshark
+Activation = EndFrame
+801215B0 0063
+

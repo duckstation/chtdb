@@ -1,0 +1,17 @@
+; CHTDB: ; [ Warhammer: Shadow of the Horned Rat (Europe) {SLES-00028} ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+800DB934 034A
+
+[Infinite Reserves]
+Type = Gameshark
+Activation = EndFrame
+800E0CB0 0007
+
+[BLACK AVENGERS Max troops]
+Type = Gameshark
+Activation = EndFrame
+800DBDA0 2000
+

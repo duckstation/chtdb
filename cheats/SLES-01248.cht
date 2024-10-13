@@ -1,0 +1,12 @@
+; CHTDB: ; [ Tank Racer (Europe) {SLES-01248} ]
+
+[Always First Place]
+Type = Gameshark
+Activation = EndFrame
+80086A88 0001
+
+[Have 9999 points]
+Type = Gameshark
+Activation = EndFrame
+800836F4 270F
+

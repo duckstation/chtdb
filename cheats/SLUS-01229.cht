@@ -1,0 +1,9 @@
+; CHTDB: ; [ Michelin Rally Masters - Race of Champions (USA) (2000) (Infogrames) {SLUS-01229} <michelin> ]
+
+[Max Score]
+Type = Gameshark
+Activation = EndFrame
+A609D90C 000003E7
+E009D913 0000
+3009D913 00FF
+

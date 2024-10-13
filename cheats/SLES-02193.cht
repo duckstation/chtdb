@@ -1,0 +1,56 @@
+; CHTDB: ; [ WCW Mayhem (Euro) (1999) (Electronic Arts) {SLES-02193 (EAX06102705D), SLES-02193#} <wcwmayhme> ]
+
+[Player on left has full Momentum meter]
+Type = Gameshark
+Activation = EndFrame
+800F9D1A 0000
+800F9D1C 0000
+
+[Player on right has full Momentum meter]
+Type = Gameshark
+Activation = EndFrame
+800F9D1A 00FF
+800F9D1C 00FF
+
+[Quest-Cheat Enabled (Press R1 in Start-Menu)]
+Type = Gameshark
+Activation = EndFrame
+D00AD6A2 F7FF
+3009CFF5 002F
+
+[Unlock all fighters ( press L1 in the Wrestlers Select menu)]
+Type = Gameshark
+Activation = EndFrame
+D00AD6A2 FBFF
+3009CFF5 0001
+
+[Stamina bar switch (Press Select & L1)]
+Type = Gameshark
+Activation = EndFrame
+D00AD6A2 FBFE
+3009CFF5 0020
+
+[Classic TNT Nitro set unlock ( Press R2 in the Start menu)]
+Type = Gameshark
+Activation = EndFrame
+D00AD6A2 FDFF
+3009CFF5 008F
+
+[P1 max stamina]
+Type = Gameshark
+Activation = EndFrame
+D009D700 0002
+800F9B78 07D0
+
+[P2 max stamina]
+Type = Gameshark
+Activation = EndFrame
+D009D700 0002
+800F9D18 07D0
+
+[P2 no stamina]
+Type = Gameshark
+Activation = EndFrame
+D009D700 0002
+800F9D18 0000
+

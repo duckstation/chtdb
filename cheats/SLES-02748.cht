@@ -1,0 +1,226 @@
+; CHTDB: ; [ Die Hard Trilogy 2: Viva Las Vegas (Germany) {SLES-02748} ]
+
+[3. Person-Action/Adventure-Codes\Unendlich Gesundheit]
+Type = Gameshark
+Activation = EndFrame
+E008CD7D 0001
+80102734 01F4
+
+[3. Person-Action/Adventure-Codes\Habe Alle Waffen]
+Type = Gameshark
+Activation = EndFrame
+E008CD7D 0001
+80102810 00FF
+
+[3. Person-Action/Adventure-Codes\Habe Rauchgranate]
+Type = Gameshark
+Activation = EndFrame
+E008CD7D 0001
+801027A0 00FF
+
+[3. Person-Action/Adventure-Codes\Habe Leuchtgranate]
+Type = Gameshark
+Activation = EndFrame
+E008CD7D 0001
+801027A4 00FF
+
+[3. Person-Action/Adventure-Codes\Habe Splittergranate]
+Type = Gameshark
+Activation = EndFrame
+E008CD7D 0001
+801027A8 00FF
+
+[3. Person-Action/Adventure-Codes\Habe Flammengranate]
+Type = Gameshark
+Activation = EndFrame
+E008CD7D 0001
+801027AC 00FF
+
+[3. Person-Action/Adventure-Codes\Habe AnnäHerungsgranate]
+Type = Gameshark
+Activation = EndFrame
+E008CD7D 0001
+801027B0 00FF
+
+[3. Person-Action/Adventure-Codes\Unendlich Munition Schrotgewehr]
+Type = Gameshark
+Activation = EndFrame
+E008CD7D 0001
+80102754 00FF
+
+[3. Person-Action/Adventure-Codes\Unendlich Munition Mp5]
+Type = Gameshark
+Activation = EndFrame
+E008CD7D 0001
+80102758 00FF
+
+[3. Person-Action/Adventure-Codes\Unendlich Munition Law 80-Raketenwerfer]
+Type = Gameshark
+Activation = EndFrame
+E008CD7D 0001
+8010275C 00FF
+
+[3. Person-Action/Adventure-Codes\Unendlich Munition Jackhammer]
+Type = Gameshark
+Activation = EndFrame
+E008CD7D 0001
+80102760 00FF
+
+[3. Person-Action/Adventure-Codes\Unendlich Munition Shock Rifle]
+Type = Gameshark
+Activation = EndFrame
+E008CD7D 0001
+80102764 00FF
+
+[3. Person-Action/Adventure-Codes\Unendlich Munition Flammenwerfer]
+Type = Gameshark
+Activation = EndFrame
+E008CD7D 0001
+80102768 00FF
+
+[3. Person-Action/Adventure-Codes\Waffen-Modifizierer Flammenwerfer (1-7)]
+Type = Gameshark
+Activation = EndFrame
+E008CD7D 0001
+80102740 0007
+
+[3. Person-Action/Adventure-Codes\Leute Haben Grosse KöPfe]
+Type = Gameshark
+Activation = EndFrame
+E008CD7D 0001
+80103080 0001
+
+[3. Person-Action/Adventure-Codes\KöPfe Fliegen Weg Wenn Getroffen]
+Type = Gameshark
+Activation = EndFrame
+E008CD7D 0001
+80103078 0001
+
+[3. Person-Action/Adventure-Codes\First Person-Modus Aktivierbar]
+Type = Gameshark
+Activation = EndFrame
+E008CD7D 0001
+80102652 000C
+E008CD7D 0001
+8010268E 000C
+
+[ScharfschüTzenmodus-Codes\Unendlich Gesundheit]
+Type = Gameshark
+Activation = EndFrame
+E008CD7D 0002
+800EE37C 01F4
+
+[ScharfschüTzenmodus-Codes\Habe Alle Waffen]
+Type = Gameshark
+Activation = EndFrame
+E008CD7D 0002
+800EE38C 00FF
+
+[ScharfschüTzenmodus-Codes\Kein Nachladen Pistole]
+Type = Gameshark
+Activation = EndFrame
+E008CD7D 0002
+800EE394 000F
+
+[ScharfschüTzenmodus-Codes\Kein Nachladen Schrotgewehr]
+Type = Gameshark
+Activation = EndFrame
+E008CD7D 0002
+800EE398 000F
+
+[ScharfschüTzenmodus-Codes\Kein Nachladen Mp5]
+Type = Gameshark
+Activation = EndFrame
+E008CD7D 0002
+800EE39C 000F
+
+[ScharfschüTzenmodus-Codes\Kein Nachladen Law 80-Raketenwerfer]
+Type = Gameshark
+Activation = EndFrame
+E008CD7D 0002
+800EE3A0 000F
+
+[ScharfschüTzenmodus-Codes\Kein Nachladen Jackhammer]
+Type = Gameshark
+Activation = EndFrame
+E008CD7D 0002
+800EE3A4 000F
+
+[ScharfschüTzenmodus-Codes\Kein Nachladen Shock Rifle]
+Type = Gameshark
+Activation = EndFrame
+E008CD7D 0002
+800EE3A8 000F
+
+[ScharfschüTzenmodus-Codes\Kein Nachladen Flammenwerfer]
+Type = Gameshark
+Activation = EndFrame
+E008CD7D 0002
+800EE3AC 000F
+
+[ScharfschüTzenmodus-Codes\Unendlich Munition Schrotgewehr]
+Type = Gameshark
+Activation = EndFrame
+E008CD7D 0002
+800EE3CC 00FF
+
+[ScharfschüTzenmodus-Codes\Unendlich Munition Mp5]
+Type = Gameshark
+Activation = EndFrame
+E008CD7D 0002
+800EE3D0 00FF
+
+[ScharfschüTzenmodus-Codes\Unendlich Munition Law 80-Raketenwerfer]
+Type = Gameshark
+Activation = EndFrame
+E008CD7D 0002
+800EE3D4 00FF
+
+[ScharfschüTzenmodus-Codes\Unendlich Munition Jackhammer]
+Type = Gameshark
+Activation = EndFrame
+E008CD7D 0002
+800EE3D8 00FF
+
+[ScharfschüTzenmodus-Codes\Unendlich Munition Shock Rifle]
+Type = Gameshark
+Activation = EndFrame
+E008CD7D 0002
+800EE3DC 00FF
+
+[ScharfschüTzenmodus-Codes\Unendlich Munition Flammenwerfer]
+Type = Gameshark
+Activation = EndFrame
+E008CD7D 0002
+800EE3E0 00FF
+
+[ScharfschüTzenmodus-Codes\Unendlich Splittergranaten]
+Type = Gameshark
+Activation = EndFrame
+E008CD7D 0002
+800EE3EC 00FF
+
+[ScharfschüTzenmodus-Codes\Waffenmodifizierer Flamenwerfer (1-7)]
+Type = Gameshark
+Activation = EndFrame
+E008CD7D 0002
+800EE400 0007
+
+[Action-Fahr-Modus-Codes\Unendlich Gesundheit]
+Type = Gameshark
+Activation = EndFrame
+E008CD7D 0003
+800FAD5C 01F4
+
+[Action-Fahr-Modus-Codes\Unendlich Nitro]
+Type = Gameshark
+Activation = EndFrame
+E008CD7D 0003
+800FAD68 1388
+
+[Action-Fahr-Modus-Codes\Unendlich Zeit]
+Type = Gameshark
+Activation = EndFrame
+E008CD7D 0003
+800FCB10 F000
+

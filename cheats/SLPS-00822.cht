@@ -1,0 +1,27 @@
+; CHTDB: ; [ Fighters' Impact (Jpn) (1997) (Taito) {SLPS-00822} <ftimpact> ]
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8016C674 00C8
+
+[P1 No Energy]
+Type = Gameshark
+Activation = EndFrame
+8016C674 0000
+
+[P2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8016D130 00C8
+
+[P2 No Energy]
+Type = Gameshark
+Activation = EndFrame
+8016D130 0000
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+8016F7F4 00DE
+

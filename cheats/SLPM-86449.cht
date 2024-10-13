@@ -1,0 +1,7 @@
+; CHTDB: ; [ Kisya de Go! (Jpn) (2000) (Taito) {SLPM-86449 (TCPS10020)} <kisyadeg> ]
+
+[Infinite Points]
+Type = Gameshark
+Activation = EndFrame
+8005CCF8 0064
+

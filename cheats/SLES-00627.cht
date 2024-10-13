@@ -1,0 +1,22 @@
+; CHTDB: ; [ Theme Hospital (Europe) {SLES-00627} ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+9013B810 05F5E0FF
+
+[High Reputation]
+Type = Gameshark
+Activation = EndFrame
+8013C538 0400
+
+[Maximum cures]
+Type = Gameshark
+Activation = EndFrame
+8013B9C6 FFFF
+
+[Raised G.P.'s price]
+Type = Gameshark
+Activation = EndFrame
+80011BAC FFFF
+

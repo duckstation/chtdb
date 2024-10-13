@@ -1,0 +1,41 @@
+; CHTDB: ; [ Tondemo Crisis! (Japan) {SLPS-02113} ]
+
+[Never Lose Tries]
+Type = Gameshark
+Activation = EndFrame
+801B5BC0 0005
+
+[Infinite Continues]
+Type = Gameshark
+Activation = EndFrame
+3019BC92 000A
+
+[All mini-games can be selected seed man]
+Type = Gameshark
+Activation = EndFrame
+901B5BCC 00000000
+901B5BD0 00000000
+801B5BD4 0000
+
+[All mini-games can be selected Tsuyoshi]
+Type = Gameshark
+Activation = EndFrame
+901B5BD8 00000000
+
+[All mini-games can be selected Etsuko]
+Type = Gameshark
+Activation = EndFrame
+901B5BE4 00000000
+801B5BE8 0000
+
+[All mini-games can be selected Lyrica]
+Type = Gameshark
+Activation = EndFrame
+901B5BF0 00000000
+
+[Unlock All Stages]
+Type = Gameshark
+Activation = EndFrame
+50001502 0000
+801B5BCC 0000
+

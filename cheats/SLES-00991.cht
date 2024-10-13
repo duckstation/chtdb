@@ -1,0 +1,20 @@
+; CHTDB: ; [ Bust-A-Move 3 DX aka Bust-A-Move 3DX (Europe) {SLES-00991} ]
+
+[Pointer Always Active]
+Type = Gameshark
+Activation = EndFrame
+A6056FA0 00020082
+
+[Reset P2 Score To 0 (Press L2)]
+Type = Gameshark
+Activation = EndFrame
+D0056C8C 0001
+8009D9C0 0000
+D0056C8C 0001
+8009D9C2 0000
+
+[Always Have Guide Line On]
+Type = Gameshark
+Activation = EndFrame
+80056CCC 0082
+

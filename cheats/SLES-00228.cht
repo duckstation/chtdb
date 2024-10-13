@@ -1,0 +1,125 @@
+; CHTDB: ; [ Resident Evil (Germany) {SLES-00228} ]
+
+[Chris & Jill Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+D00C8668 0000
+300C51AC 008C
+
+[Chris & Jill Save anywhere (Press L1 & Select Pad 2)]
+Type = Gameshark
+Activation = EndFrame
+D00B8F3A FBFF
+300C8456 0002
+D00B8F3A FBFF
+800C878E 022F
+
+[Rebecca Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+D00C8668 0300
+300C51AC 0058
+
+[Rebecca Save anywhere (Press L1 & Select Pad 2)]
+Type = Gameshark
+Activation = EndFrame
+D00B8F3A FBFF
+300C8456 0002
+D00B8F3A FBFF
+800C879A 022F
+
+[Change character to Chris (Press Square Pad 2) You have to go through any door before change is showing up	D00B8F3A 7FFF]
+Type = Gameshark
+Activation = EndFrame
+300C8669 0000
+
+[Change character to Jill (Press Circle Pad 2) You have to go through any door before change is showing up	D00B8F3A DFFF]
+Type = Gameshark
+Activation = EndFrame
+300C8669 0001
+
+[Change character to Rebecca (Press Triangle Pad 2) You have to go through any door before change is showing up]
+Type = Gameshark
+Activation = EndFrame
+D00B8F3A EFFF
+300C8669 0003
+
+[Save anywhere (Press L1 & Triangle)]
+Type = Gameshark
+Activation = EndFrame
+D00B8F12 EBFF
+300C8456 0002
+800189F2 2400
+
+[Flammenwerfer]
+Type = Gameshark
+Activation = EndFrame
+800C8784 FF06
+
+[Raketenwerfer]
+Type = Gameshark
+Activation = EndFrame
+A60C8784 0001FF0A
+
+[Uendlich Gesundheit]
+Type = Gameshark
+Activation = EndFrame
+300C51AC 004C
+
+[Alle Items (Set 1)]
+Type = Gameshark
+Activation = EndFrame
+900C8724 FF41FF3D
+900C8728 FF07FF06
+900C872C FF09FF08
+900C8730 FF13FF3E
+900C8734 FF15FF14
+900C8738 FF17FF16
+900C873C FF19FF18
+800C8740 FF1A
+
+[Alle Items (Set 2)]
+Type = Gameshark
+Activation = EndFrame
+800C8742 FF1B
+900C8744 FF1DFF1C
+900C8748 FF1FFF1E
+900C874C FF21FF20
+900C8750 FF23FF22
+900C8754 FF25FF24
+900C8758 FF27FF26
+900C875C FF29FF28
+
+[Alle Items (Set 3)]
+Type = Gameshark
+Activation = EndFrame
+900C8760 FF2BFF2A
+900C8764 FF2DFF2C
+900C8768 FF2FFF2E
+900C876C FF31FF30
+900C8770 FF34FF33
+900C8774 FF36FF35
+900C8778 FF38FF37
+800C877C FF39
+
+[Alle Items (Set 4)]
+Type = Gameshark
+Activation = EndFrame
+800C877E FF3A
+900C8780 FF3CFF3B
+
+[Unendlich Munition FüR Aktuelle Waffe]
+Type = Gameshark
+Activation = EndFrame
+800C878A 0F02
+
+[Uendlich FarbbäNder]
+Type = Gameshark
+Activation = EndFrame
+800C8788 042F
+
+[Besitze Colt Python]
+Type = Gameshark
+Activation = EndFrame
+800C8786 6404
+

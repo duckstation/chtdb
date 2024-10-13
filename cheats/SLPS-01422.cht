@@ -1,0 +1,42 @@
+; CHTDB: ; [ Dark Messiah (Japan) {SLPS-01422} ]
+
+[Never get tired]
+Type = Gameshark
+Activation = EndFrame
+800B7F78 0000
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+300B848C 0001
+
+[Specifying a partner Naomi Sugiura (You can specify only person specified partner has ever met)]
+Type = Gameshark
+Activation = EndFrame
+300B8488 0001
+300B8490 0000
+
+[Specifying a partner Kamiya two (You can specify only person specified partner has ever met)]
+Type = Gameshark
+Activation = EndFrame
+300B8488 0002
+300B8490 0000
+
+[Specifying a partner Leroy Ivanov (You can specify only person specified partner has ever met)]
+Type = Gameshark
+Activation = EndFrame
+300B8488 0003
+300B8490 0000
+
+[Specifying a partne Rene Lorraine (You can specify only person specified partner has ever met)]
+Type = Gameshark
+Activation = EndFrame
+300B8488 0004
+300B8490 0000
+
+[Specifying a partner Who wander (You can specify only person specified partner has ever met)]
+Type = Gameshark
+Activation = EndFrame
+300B8488 0005
+300B8490 0000
+

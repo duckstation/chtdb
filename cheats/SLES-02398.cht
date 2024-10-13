@@ -1,0 +1,22 @@
+; CHTDB: ; [ Grandia (France) (Ubisoft eXclusive) {SLES-02398 | SLES-12398} ]
+
+[Max Hp Justin]
+Type = Gameshark
+Activation = EndFrame
+800C0980 03E7
+
+[Max Hp Feena]
+Type = Gameshark
+Activation = EndFrame
+800C0B6C 03E7
+
+[Max Hp Rap]
+Type = Gameshark
+Activation = EndFrame
+800C0D58 03E7
+
+[Max Hp Liete]
+Type = Gameshark
+Activation = EndFrame
+800C0F44 03E7
+

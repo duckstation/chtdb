@@ -1,0 +1,33 @@
+; CHTDB: ; [ Gex 3D: Enter the Gecko aka Gex 3D: Return of the Gecko (Europe) {SLES-00596} ]
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800A3B1C 001D
+
+[Have All Collectables]
+Type = Gameshark
+Activation = EndFrame
+80098A98 0063
+80098A9C 0062
+80098AA0 0062
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80098A90 0009
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80098A94 0005
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+800424AC 0C00
+800424BC 0034
+800424BE AFA0
+800424C0 1000
+800424C2 2403
+

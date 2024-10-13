@@ -1,0 +1,17 @@
+; CHTDB: ; [ Monster Rancher Hop-A-Bout (USA) (2000) (Tecmo) {SLUS-01325} <mranchop> ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+30141451 0005
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+801413CA 0B8F
+
+[Max Score]
+Type = Gameshark
+Activation = EndFrame
+8014893C 270F
+

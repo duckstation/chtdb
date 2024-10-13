@@ -1,0 +1,37 @@
+; CHTDB: ; [ Koudelka (Spain) {SLES-02901 | SLES-12901 | SLES-22901 | SLES-32901} ]
+
+[Infinite Energy Koudelka]
+Type = Gameshark
+Activation = EndFrame
+801D13C0 270F
+
+[Infinite MP Koudelka]
+Type = Gameshark
+Activation = EndFrame
+801D13D0 03E7
+
+[Infinite Energy Edward]
+Type = Gameshark
+Activation = EndFrame
+801CF9C0 270F
+
+[Infinite MP Edward]
+Type = Gameshark
+Activation = EndFrame
+801CF9D0 03E7
+
+[Infinite Energy James]
+Type = Gameshark
+Activation = EndFrame
+801CDFC0 270F
+
+[Infinite MP James]
+Type = Gameshark
+Activation = EndFrame
+801CDFD0 03E7
+
+[No random battles]
+Type = Gameshark
+Activation = EndFrame
+801D11C8 0821
+

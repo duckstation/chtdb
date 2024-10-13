@@ -1,0 +1,19 @@
+; CHTDB: ; [ Need for Speed - V-Rally (USA) (1997) (Electronic Arts) {SLUS-00590} <vrally> ]
+
+[Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+800BACA4 0009
+
+[Stop Lap Timer]
+Type = Gameshark
+Activation = EndFrame
+900208EC 3C010010
+900208F4 00230824
+900208FC 10200002
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80020982 2400
+

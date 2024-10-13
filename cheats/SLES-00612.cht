@@ -1,0 +1,109 @@
+; CHTDB: ; [ Darkstone aka Darkstone: Evil Reigns (Europe) {SLES-00612} ]
+
+[Armor Equiped is Def 255 +127 Stats]
+Type = Gameshark
+Activation = EndFrame
+800EC45E 7FFF
+800EC460 7F7F
+
+[Max Strength Stat]
+Type = Gameshark
+Activation = EndFrame
+800EBEA0 0FFF
+
+[Pots Of Cash]
+Type = Gameshark
+Activation = EndFrame
+900EBE78 13881388
+
+[100% Magic Resistance]
+Type = Gameshark
+Activation = EndFrame
+800EBEE4 0064
+
+[Max Vitality Stat]
+Type = Gameshark
+Activation = EndFrame
+800EBEA6 0FFF
+
+[Max Dexterity Stat]
+Type = Gameshark
+Activation = EndFrame
+800EBEA4 0FFF
+
+[Max Magic Stat]
+Type = Gameshark
+Activation = EndFrame
+800EBEA2 0FFF
+
+[Primary Weapon Does 255 Damage]
+Type = Gameshark
+Activation = EndFrame
+800EC5C4 FFFF
+
+[100% Fire/Poison Resistance]
+Type = Gameshark
+Activation = EndFrame
+800EBEE6 6464
+
+[Maximum Strength]
+Type = Gameshark
+Activation = EndFrame
+800EBEA0 03E7
+800EBEB8 03E7
+
+[Maximum Magic]
+Type = Gameshark
+Activation = EndFrame
+800EBEA2 03E7
+800EBEBA 03E7
+
+[Maximum Dexterity]
+Type = Gameshark
+Activation = EndFrame
+800EBEA4 03E7
+800EBEBC 03E7
+
+[Maximum Vitality]
+Type = Gameshark
+Activation = EndFrame
+800EBEA6 03E7
+800EBEBE 03E7
+
+[Maximum Health]
+Type = Gameshark
+Activation = EndFrame
+800EBEC0 03E7
+800EBEC4 03E7
+
+[Maximum Mana]
+Type = Gameshark
+Activation = EndFrame
+800EBEC2 03E7
+800EBEC6 03E7
+
+[Maximum Armor class]
+Type = Gameshark
+Activation = EndFrame
+800EBECC 03E7
+
+[Maximum Hit %]
+Type = Gameshark
+Activation = EndFrame
+300EBEE2 0064
+
+[Maximum Magic resistance]
+Type = Gameshark
+Activation = EndFrame
+300EBEE4 0063
+
+[Fire resistance]
+Type = Gameshark
+Activation = EndFrame
+300EBEE5 0063
+
+[Poison resistance]
+Type = Gameshark
+Activation = EndFrame
+300EBEE6 0063
+

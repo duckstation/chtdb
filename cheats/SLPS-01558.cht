@@ -1,0 +1,12 @@
+; CHTDB: ; [ The Crown Knights: Jaja-Uma! Quartet: Mega Dream Destruction (Japan) {SLPS-01558} ]
+
+[Infinite HP in battle]
+Type = Gameshark
+Activation = EndFrame
+801B13AA 0050
+
+[Enemy HP is always 0 (Player always win)]
+Type = Gameshark
+Activation = EndFrame
+801B1392 0000
+

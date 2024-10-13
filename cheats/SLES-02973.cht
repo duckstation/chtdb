@@ -1,0 +1,177 @@
+; CHTDB: ; [ The Mummy (Europe) {SLES-02973} ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80101B52 00E1
+80101B66 00E2
+801020A4 0064
+801E16FC 0064
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+8009F0D2 0063
+801020D0 0063
+
+[Infinite Ammo Alternate]
+Type = Gameshark
+Activation = EndFrame
+300A0ED8 0001
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+300A0ED0 0001
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800C46D0 2400
+
+[Flares burn eternally (Press Select)]
+Type = Gameshark
+Activation = EndFrame
+D009EB82 FFFE
+800C77DE 2400
+
+[All Weapons]
+Type = Gameshark
+Activation = EndFrame
+300A0EC8 0001
+
+[Ruins of Hamunaptra All bonus game modes]
+Type = Gameshark
+Activation = EndFrame
+30081AF0 00AF
+
+[Ruins of Hamunaptra Level accessable]
+Type = Gameshark
+Activation = EndFrame
+30081AD0 0001
+
+[Ancient vaults All bonus game modes]
+Type = Gameshark
+Activation = EndFrame
+30081B40 00AF
+
+[Ancient vaults Level accessable]
+Type = Gameshark
+Activation = EndFrame
+30081B20 0001
+
+[Caverns of the Nile All bonus game modes]
+Type = Gameshark
+Activation = EndFrame
+30081B90 00AF
+
+[Caverns of the Nile Level accessable]
+Type = Gameshark
+Activation = EndFrame
+30081B70 0001
+
+[Beni's downfall Level accessable]
+Type = Gameshark
+Activation = EndFrame
+30081BC0 0001
+
+[Hall of Scarabs All bonus game modes]
+Type = Gameshark
+Activation = EndFrame
+30081C30 00FF
+
+[Hall of Scarabs Level accessable]
+Type = Gameshark
+Activation = EndFrame
+30081C10 0001
+
+[River of blood All bonus game modes]
+Type = Gameshark
+Activation = EndFrame
+30081C80 00AF
+
+[River of blood	Level accessable]
+Type = Gameshark
+Activation = EndFrame
+30081C70 0001
+
+[Storm of Sand All bonus game modes]
+Type = Gameshark
+Activation = EndFrame
+30081CD0 00AF
+
+[Storm of Sand Level accessable]
+Type = Gameshark
+Activation = EndFrame
+30081CB0 0001
+
+[Swarm of Gadflies All bonus game modes]
+Type = Gameshark
+Activation = EndFrame
+30081D20 00AF
+
+[Swarm of Gadflies Level accessable]
+Type = Gameshark
+Activation = EndFrame
+30081D00 0001
+
+[Anck-Su-Namun's crypt Level accessable]
+Type = Gameshark
+Activation = EndFrame
+30081D50 0001
+
+[Curse of boils	All bonus game modes]
+Type = Gameshark
+Activation = EndFrame
+30081DC0 00FF
+
+[Curse of boils Level accessable]
+Type = Gameshark
+Activation = EndFrame
+30081DA0 0001
+
+[Tombs of death	All bonus game modes]
+Type = Gameshark
+Activation = EndFrame
+30081E10 00FF
+
+[Tombs of death Level accessable]
+Type = Gameshark
+Activation = EndFrame
+30081DF0 0001
+
+[Plague of fire All bonus game modes]
+Type = Gameshark
+Activation = EndFrame
+30081E60 00AF
+
+[Plague of fire Level accessable]
+Type = Gameshark
+Activation = EndFrame
+30081E40 0001
+
+[Chamber of Anubis All bonus game modes]
+Type = Gameshark
+Activation = EndFrame
+30081EB0 00AF
+
+[Chamber of Anubis Level accessable]
+Type = Gameshark
+Activation = EndFrame
+30081E90 0001
+
+[Temple of priests All bonus game modes]
+Type = Gameshark
+Activation = EndFrame
+30081F00 00AF
+
+[Temple of priests Level accessable]
+Type = Gameshark
+Activation = EndFrame
+30081EE0 0001
+
+[Imhotep's lair Level accessable]
+Type = Gameshark
+Activation = EndFrame
+30081F30 0001
+

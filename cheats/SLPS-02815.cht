@@ -1,0 +1,12 @@
+; CHTDB: ; [ Omizu no Hanamichi (Japan) {SLPS-02815} ]
+
+[Have 99 points each day]
+Type = Gameshark
+Activation = EndFrame
+801BCB38 0063
+
+[Have 999 points (Money)]
+Type = Gameshark
+Activation = EndFrame
+801D9616 03E7
+

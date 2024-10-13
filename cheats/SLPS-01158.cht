@@ -1,0 +1,23 @@
+; CHTDB: ; [ Ishin no Arashi (Japan) {SLPS-01158} ]
+
+[In negotiations player always 240]
+Type = Gameshark
+Activation = EndFrame
+800CC992 00F0
+
+[In negotiations player bar always full]
+Type = Gameshark
+Activation = EndFrame
+800B7F2C 00FA
+800B7F3C 00FA
+
+[Opponent in fights energy =0]
+Type = Gameshark
+Activation = EndFrame
+800CC54D 0000
+
+[Player in fights energy =0]
+Type = Gameshark
+Activation = EndFrame
+800CC125 00C8
+

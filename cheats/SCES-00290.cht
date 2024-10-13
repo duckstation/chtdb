@@ -1,0 +1,23 @@
+; CHTDB: ; [ A.IV: Evolution Global (Europe) {SCES-00290} ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+800A6230 9400
+
+[Increase Money by Pressing Select]
+Type = Gameshark
+Activation = EndFrame
+E01C6955 0001
+100A6CD2 000A
+
+[Always bright]
+Type = Gameshark
+Activation = EndFrame
+800A6DBC 0000
+
+[Brightness doesn`t change]
+Type = Gameshark
+Activation = EndFrame
+8001B02A 3C00
+

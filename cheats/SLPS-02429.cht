@@ -1,0 +1,12 @@
+; CHTDB: ; [ Bakuryuu (Japan) {SLPS-02429} ]
+
+[Time - 00.00.000 / 1st Place]
+Type = Gameshark
+Activation = EndFrame
+90067E0C 00000000
+
+[character PEROKUN]
+Type = Gameshark
+Activation = EndFrame
+900102A0 BE7C3F04
+

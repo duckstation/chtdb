@@ -1,0 +1,26 @@
+; CHTDB: ; [ Formula Nippon '99 (Jpn) (1999) (TYO) {SLPS-02259} <fn99> ]
+
+[Always 1st When Finished]
+Type = Gameshark
+Activation = EndFrame
+800FB6E0 0001
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800FB6D8 0000
+
+[Speed Boost]
+Description = Press X+R2
+Type = Gameshark
+Activation = EndFrame
+D4000000 0042
+800E97DA 3E47
+
+[Instant Brake]
+Description = Press X+L2
+Type = Gameshark
+Activation = EndFrame
+D4000000 0041
+800E97DA FF47
+

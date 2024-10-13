@@ -1,0 +1,7 @@
+; CHTDB: ; [ The Game Maker (Jpn) (1998) (Axela) {SLPS-01583} <gamemakr> ]
+
+[Maximum Money]
+Type = Gameshark
+Activation = EndFrame
+9015F64C 05F5E0FF
+

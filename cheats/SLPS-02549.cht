@@ -1,0 +1,12 @@
+; CHTDB: ; [ Umihara Kawase Shun - Second Edition (Jpn, Maruan Series 1) (2000) (Xing) {SLPS-02549} <umihara2> ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800815DC 0005
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+8007F366 0009
+

@@ -1,0 +1,76 @@
+; CHTDB: ; [ Geki-Oh Shienryu (Jpn) (1999) (Warashi) {SLPS-02056} <gekiohj> ]
+
+[P1 Infinite Bombs]
+Type = Gameshark
+Activation = EndFrame
+80188290 0063
+
+[P1 Infinite Ships]
+Type = Gameshark
+Activation = EndFrame
+801882B0 0005
+
+[P2 Infinite Bombs]
+Type = Gameshark
+Activation = EndFrame
+80188292 0063
+
+[P2 Infinite Ships]
+Type = Gameshark
+Activation = EndFrame
+801882B2 0005
+
+[P1 Max Weapons Level]
+Type = Gameshark
+Activation = EndFrame
+801880B8 0003
+80188348 0003
+
+[P2 Max Weapons Level]
+Type = Gameshark
+Activation = EndFrame
+801880BC 0003
+8018834C 0003
+
+[Invincibility P1 + P2 (Version 1)]
+Type = Gameshark
+Activation = EndFrame
+800FE586 0000
+
+[Invincibility P1 + P2 (Version 2)]
+Type = Gameshark
+Activation = EndFrame
+801C10B4 0064
+801C1120 0064
+
+[Infinite Continues]
+Type = Gameshark
+Activation = EndFrame
+801FDAD0 0009
+
+[Press L1/R1/R2+Fire Buttons For Maruchi Buke Mode 8.Toggles Multi Weapons + Multi Bullets)]
+Type = Gameshark
+Activation = EndFrame
+D01881D0 0004
+80187FE0 0000
+D01F08CA 0008
+80187FE0 0001
+D01F08CA 0002
+80187FE0 0002
+
+[Infinite Lives Bonus Mode]
+Type = Gameshark
+Activation = EndFrame
+80187844 03E7
+
+[Infinite Energy Bonus Mode]
+Type = Gameshark
+Activation = EndFrame
+8018800E 0040
+
+[Invincibility Bonus Mode]
+Type = Gameshark
+Activation = EndFrame
+D01B3940 0001
+801A9098 0090
+

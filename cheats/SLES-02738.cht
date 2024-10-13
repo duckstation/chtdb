@@ -1,0 +1,44 @@
+; CHTDB: ; [ HBO Boxing (Europe) {SLES-02738} ]
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+D308DA1A 0001
+8008DA1A 03E7
+D208DA1C FFFF
+8008DA1C FFFF
+
+[P1 Sudden Death]
+Type = Gameshark
+Activation = EndFrame
+D308DA1A 0000
+8008DA1A 0000
+D308DA1C 0000
+8008DA1C 0000
+
+[P2 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+D308DC6E 0001
+8008DC6E 03E7
+D208DC70 FFFF
+8008DC70 FFFF
+
+[P2 Sudden Death]
+Type = Gameshark
+Activation = EndFrame
+D308DC6E 0000
+8008DC6E 0000
+D308DC70 0000
+8008DC70 0000
+
+[Create a fighter Infinite promoter points]
+Type = Gameshark
+Activation = EndFrame
+D006182E AC83
+8006182C 0000
+D0061456 AC86
+80061454 0000
+D0061D46 AE43
+80061D44 0000
+

@@ -1,0 +1,108 @@
+; CHTDB: ; [ Ridge Racer (USA) (1995) (Namco Hometek) {SCUS-94300, SLUS-00540} <ridgerac> ]
+
+[Infinite Check point time]
+Type = Gameshark
+Activation = EndFrame
+80130C5C 270F
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80139C5C 06C5
+
+[Always have Black Car]
+Type = Gameshark
+Activation = EndFrame
+80080196 000C
+
+[Always Come In 1st Place]
+Type = Gameshark
+Activation = EndFrame
+80080260 0001
+
+[Go Really Fast And Sometimes Spin Around]
+Type = Gameshark
+Activation = EndFrame
+80080234 07FF
+
+[Infinite Lap Time]
+Type = Gameshark
+Activation = EndFrame
+80080270 0000
+80080274 0000
+80080278 0000
+
+[Have All Cars]
+Type = Gameshark
+Activation = EndFrame
+80176AD8 000D
+
+[Have All Tracks]
+Type = Gameshark
+Activation = EndFrame
+80176C00 00FF
+
+[Super Handling]
+Type = Gameshark
+Activation = EndFrame
+8008022C 08FF
+
+[Super Speed]
+Type = Gameshark
+Activation = EndFrame
+80080246 0120
+
+[Super Traction]
+Type = Gameshark
+Activation = EndFrame
+8008022A 08FF
+
+[Play On Extra Track (Beginner Level)]
+Type = Gameshark
+Activation = EndFrame
+80080148 0005
+80139C5C 06C5
+
+[Play On Extra Track (Mid-Level)]
+Type = Gameshark
+Activation = EndFrame
+80080148 0006
+80139C5C 06C5
+
+[Play On Extra Track (High-Level)]
+Type = Gameshark
+Activation = EndFrame
+80080148 0007
+80139C5C 06C5
+
+[Play On Extra Track (Time Trial-Level)]
+Type = Gameshark
+Activation = EndFrame
+80080148 0008
+80139C5C 06C5
+
+[Car Doesn't Jump]
+Type = Gameshark
+Activation = EndFrame
+80080252 05FF
+
+[Invisible Car]
+Type = Gameshark
+Activation = EndFrame
+80080196 000F
+
+[Custom Logo Colors(Team Logo Design Screen Under Paint)]
+Type = Gameshark
+Activation = EndFrame
+3007F638 0001
+
+[Darwin Awards' Jato Car]
+Type = Gameshark
+Activation = EndFrame
+8009E480 0AAF
+
+[Test Mode]
+Type = Gameshark
+Activation = EndFrame
+A61D6D28 00030013
+

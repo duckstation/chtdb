@@ -1,0 +1,32 @@
+; CHTDB: ; [ Disney La Sirenetta II (Italy) {SCES-03035} ]
+
+[One coin == 50 coins]
+Type = Gameshark
+Activation = EndFrame
+9004FB18 24020032
+
+[One perl == 5 perls]
+Type = Gameshark
+Activation = EndFrame
+900509E4 24020005
+
+[Ariel\Melody's life always full]
+Type = Gameshark
+Activation = EndFrame
+800E769C 0064
+
+[Erik's health at 255]
+Type = Gameshark
+Activation = EndFrame
+8015E2D0 00FF
+
+[Morgana's life at 0]
+Type = Gameshark
+Activation = EndFrame
+80177AC8 0000
+
+[Ursula's life at 0]
+Type = Gameshark
+Activation = EndFrame
+801CD5F4 0000
+

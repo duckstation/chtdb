@@ -1,0 +1,210 @@
+; CHTDB: ; [ Wip3out (Europe) {SCES-01909} ]
+
+[Have A Total Of 99 Points In Tournament Mode]
+Type = Gameshark
+Activation = EndFrame
+E01879C8 0000
+301879C8 0063
+
+[Venom Class Tournament Open]
+Type = Gameshark
+Activation = EndFrame
+30187839 0001
+
+[Rapier Class Tournament Open]
+Type = Gameshark
+Activation = EndFrame
+30187842 0001
+
+[Phantom Class Tournament Open]
+Type = Gameshark
+Activation = EndFrame
+3018784B 0001
+
+[Have All Challenges Completed]
+Type = Gameshark
+Activation = EndFrame
+C1000000 6000
+50001002 0000
+801876EC 0303
+
+[Have Autopilot (Press Left+Square)]
+Type = Gameshark
+Activation = EndFrame
+D018E092 8080
+301F611E 0001
+D018E092 8080
+301F611F 0001
+D018E092 8080
+301F6120 0001
+
+[Have Invisibility (Press Up+Square)]
+Type = Gameshark
+Activation = EndFrame
+D018E092 8010
+301F611E 0001
+D018E092 8010
+301F611F 0002
+D018E092 8010
+301F6120 0002
+
+[Have Multiplerockets (Press L1+Left)]
+Type = Gameshark
+Activation = EndFrame
+D018E092 0480
+301F611E 0001
+D018E092 0480
+301F611F 0007
+D018E092 0480
+301F6120 0007
+
+[Have Reflector (Press L1+Right)]
+Type = Gameshark
+Activation = EndFrame
+D018E092 0420
+301F611E 0001
+D018E092 0420
+301F611F 000B
+D018E092 0420
+301F6120 000B
+
+[Have Energy Withdraw (Press R1+Left)]
+Type = Gameshark
+Activation = EndFrame
+D018E092 0880
+301F611E 0001
+D018E092 0880
+301F611F 0003
+D018E092 0880
+301F6120 0003
+
+[Have Powerwall (Press R1+Right)]
+Type = Gameshark
+Activation = EndFrame
+D018E092 0820
+301F611E 0001
+D018E092 0820
+301F611F 0004
+D018E092 0820
+301F6120 0004
+
+[P1 Infinite Auto-Pilot]
+Type = Gameshark
+Activation = EndFrame
+801F611E 0101
+
+[P1 Infinite Cloak]
+Type = Gameshark
+Activation = EndFrame
+801F611E 0201
+
+[P1 Infinite Energy Drain]
+Type = Gameshark
+Activation = EndFrame
+801F611E 0301
+
+[P1 Infinite Force Wall]
+Type = Gameshark
+Activation = EndFrame
+801F611E 0401
+
+[P1 Infinite Gravity Shield]
+Type = Gameshark
+Activation = EndFrame
+801F611E 0501
+
+[P1 Infinite Mines]
+Type = Gameshark
+Activation = EndFrame
+801F611E 0601
+
+[P1 Infinite Multi-Missiles]
+Type = Gameshark
+Activation = EndFrame
+801F611E 0701
+
+[P1 Infinite Plasma Bolt]
+Type = Gameshark
+Activation = EndFrame
+801F611E 0801
+
+[P1 Infinite Quake Disrupter]
+Type = Gameshark
+Activation = EndFrame
+801F611E 0A01
+
+[P1 Infinite Reflector]
+Type = Gameshark
+Activation = EndFrame
+801F611E 0B01
+
+[P1 Infinite Rocket]
+Type = Gameshark
+Activation = EndFrame
+801F611E 0C01
+
+[P1 Always Have Full Shield Energy]
+Type = Gameshark
+Activation = EndFrame
+801E5B94 0000
+
+[P2 Infinite Auto-Pilot]
+Type = Gameshark
+Activation = EndFrame
+801F628A 0101
+
+[P2Infinite Cloak]
+Type = Gameshark
+Activation = EndFrame
+801F628A 0201
+
+[P2 Infinite Energy Drain]
+Type = Gameshark
+Activation = EndFrame
+801F628A 0301
+
+[P2 Infinite Force Wall]
+Type = Gameshark
+Activation = EndFrame
+801F628A 0401
+
+[P2 Infinite Gravity Shield]
+Type = Gameshark
+Activation = EndFrame
+801F628A 0501
+
+[P2 Infinite Mines]
+Type = Gameshark
+Activation = EndFrame
+801F628A 0601
+
+[P2 Infinite Multi-Missiles]
+Type = Gameshark
+Activation = EndFrame
+801F628A 0701
+
+[P2 Infinite Plasma Bolt]
+Type = Gameshark
+Activation = EndFrame
+801F628A 0801
+
+[P2 Infinite Quake Disrupter]
+Type = Gameshark
+Activation = EndFrame
+801F628A 0A01
+
+[P2 Infinite Reflector]
+Type = Gameshark
+Activation = EndFrame
+801F628A 0B01
+
+[P2 Infinite Rockets]
+Type = Gameshark
+Activation = EndFrame
+801F628A 0C01
+
+[P2 Always Have Full Shield Energy]
+Type = Gameshark
+Activation = EndFrame
+801E5B98 0000
+

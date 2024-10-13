@@ -1,0 +1,162 @@
+; CHTDB: ; [ Philosoma (Europe) {SCES-00059} ]
+
+[Infinite Shield]
+Type = Gameshark
+Activation = EndFrame
+800F0EB0 0004
+
+[Invincibility Use only one of these codes at a time.]
+Type = Gameshark
+Activation = EndFrame
+A60F890E 00000001
+
+[Invisible Use only one of these codes at a time.]
+Type = Gameshark
+Activation = EndFrame
+A60F890E 00000002
+
+[Select Level\PHASE 1, Section 1]
+Type = Gameshark
+Activation = EndFrame
+A60F0D5C 00000000
+
+[Select Level\PHASE 1, Section 2]
+Type = Gameshark
+Activation = EndFrame
+A60F0D5C 00000001
+
+[Select Level\PHASE 1, Section 3]
+Type = Gameshark
+Activation = EndFrame
+A60F0D5C 00000002
+
+[Select Level\PHASE 1, Section 4]
+Type = Gameshark
+Activation = EndFrame
+A60F0D5C 00000003
+
+[Select Level\PHASE 1, Section 5]
+Type = Gameshark
+Activation = EndFrame
+A60F0D5C 00000004
+
+[Select Level\PHASE 2, Section 1]
+Type = Gameshark
+Activation = EndFrame
+A60F0D5C 00000005
+
+[Select Level\PHASE 2, Section 2]
+Type = Gameshark
+Activation = EndFrame
+A60F0D5C 00000006
+
+[Select Level\PHASE 2, Section 3]
+Type = Gameshark
+Activation = EndFrame
+A60F0D5C 00000007
+
+[Select Level\PHASE 2, Section 4]
+Type = Gameshark
+Activation = EndFrame
+A60F0D5C 00000008
+
+[Select Level\PHASE 2, Section 5]
+Type = Gameshark
+Activation = EndFrame
+A60F0D5C 00000009
+
+[Select Level\PHASE 3, Section 1]
+Type = Gameshark
+Activation = EndFrame
+A60F0D5C 0000000A
+
+[Select Level\PHASE 3, Section 2]
+Type = Gameshark
+Activation = EndFrame
+A60F0D5C 0000000B
+
+[Select Level\PHASE 3, Section 3]
+Type = Gameshark
+Activation = EndFrame
+A60F0D5C 0000000C
+
+[Select Level\PHASE 4, Section 1]
+Type = Gameshark
+Activation = EndFrame
+A60F0D5C 0000000D
+
+[Select Level\PHASE 4, Section 2]
+Type = Gameshark
+Activation = EndFrame
+A60F0D5C 0000000E
+
+[Select Level\PHASE 4, Section 3]
+Type = Gameshark
+Activation = EndFrame
+A60F0D5C 0000000F
+
+[Select Level\PHASE 4, Section 4]
+Type = Gameshark
+Activation = EndFrame
+A60F0D5C 00000010
+
+[Select Level\PHASE 4, Final Section]
+Type = Gameshark
+Activation = EndFrame
+A60F0D5C 00000011
+
+[Start With High-Score]
+Type = Gameshark
+Activation = EndFrame
+D00F0B68 0000
+800F0B6A 0001
+A60F0B68 000086A0
+
+[Infinite Stregas]
+Type = Gameshark
+Activation = EndFrame
+A60F0B78 0002000A
+
+[Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+A60F0C20 00020009
+
+[Infinite Lancer-Missiles Press L2]
+Type = Gameshark
+Activation = EndFrame
+D00F0B78 0001
+800F0F74 0001
+
+[Infinite Woodpecker-Missiles Press L1]
+Type = Gameshark
+Activation = EndFrame
+D00F0B78 0004
+800F0F74 0002
+
+[Vulcan At Level 3]
+Type = Gameshark
+Activation = EndFrame
+A60F0BFC 00000002
+
+[Laser At Level 3]
+Type = Gameshark
+Activation = EndFrame
+D00F0BFC 0000
+800F0BFE 0002
+
+[A-Break At Level 3]
+Type = Gameshark
+Activation = EndFrame
+A60F0C00 00000002
+
+[Ray-B At Level 3]
+Type = Gameshark
+Activation = EndFrame
+A60F0C02 00000002
+
+[Infinite Burster-Grenades]
+Type = Gameshark
+Activation = EndFrame
+A60F0EAC 0002000A
+

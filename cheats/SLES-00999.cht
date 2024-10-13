@@ -1,0 +1,17 @@
+; CHTDB: ; [ Nagano Winter Olympics '98 (Europe) {SLES-00999} ]
+
+[All Skating Events\Super Speed]
+Type = Gameshark
+Activation = EndFrame
+800A02CE 4280
+
+[All Skiing Events\No Disqualification]
+Type = Gameshark
+Activation = EndFrame
+800B2D28 0000
+
+[All Skiing Events\Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+8008D640 0000
+

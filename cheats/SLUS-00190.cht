@@ -1,0 +1,45 @@
+; CHTDB: ; [ Oddworld - Abe's Oddysee (USA, v1.0) (1997) (GT Interactive Software) {SLUS-00190} <abeodyssa> ]
+
+[Have 99 Escapes]
+Type = Gameshark
+Activation = EndFrame
+80082170 0063
+
+[Zero Casualties]
+Type = Gameshark
+Activation = EndFrame
+8008216E 0000
+
+[Instant Takeover]
+Type = Gameshark
+Activation = EndFrame
+8008213C FFFF
+
+[Bullet Proof Abe This cheat allows you to take over a guards body the instant you start chanting, no delay. Also with this cheat turn the game shark off when you come to a bird portal. After you send you escapees through the portal turn the shark back on.]
+Type = Gameshark
+Activation = EndFrame
+A6028868 00F40000
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+80082186 0001
+
+[Press L1+Triangle to Save Mudokons On The Spot]
+Type = Gameshark
+Activation = EndFrame
+9004DED8 0C001D80
+90007600 80A20000
+90007604 3403004B
+90007608 14430007
+9000760C 80A200F4
+90007610 34030004
+90007614 14430004
+90007618 34030001
+9000761C ACA300AC
+90007620 3403002C
+90007624 A0A300F4
+90007628 8CA2000C
+9000762C 8C420014
+90007630 03E00008
+

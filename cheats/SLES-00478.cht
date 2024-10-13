@@ -1,0 +1,70 @@
+; CHTDB: ; [ Excalibur 2555 A.D. (Europe) {SLES-00478} ]
+
+[Invulnerable]
+Type = Gameshark
+Activation = EndFrame
+8002853A 2400
+800286DA 2400
+800289FA 2400
+80030F16 2400
+
+[Select Stage\2]
+Type = Gameshark
+Activation = EndFrame
+8008C2F8 0002
+
+[Select Stage\3]
+Type = Gameshark
+Activation = EndFrame
+8008C2F8 0003
+
+[Select Stage\4]
+Type = Gameshark
+Activation = EndFrame
+8008C2F8 0004
+
+[Select Stage\5]
+Type = Gameshark
+Activation = EndFrame
+8008C2F8 0005
+
+[Select Stage\6]
+Type = Gameshark
+Activation = EndFrame
+8008C2F8 0006
+
+[Select Stage\7]
+Type = Gameshark
+Activation = EndFrame
+8008C2F8 0007
+
+[Select Stage\8]
+Type = Gameshark
+Activation = EndFrame
+8008C2F8 0008
+
+[Select Stage\9]
+Type = Gameshark
+Activation = EndFrame
+8008C2F8 0009
+
+[Select Stage\10]
+Type = Gameshark
+Activation = EndFrame
+8008C2F8 000A
+
+[Select Stage\11]
+Type = Gameshark
+Activation = EndFrame
+8008C2F8 000B
+
+[Select Stage\12]
+Type = Gameshark
+Activation = EndFrame
+8008C2F8 000C
+
+[Select Stage\13]
+Type = Gameshark
+Activation = EndFrame
+8008C2F8 000D
+

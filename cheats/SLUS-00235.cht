@@ -1,0 +1,47 @@
+; CHTDB: ; [ Iron Man / X-O Manowar in Heavy Metal (USA) (1996) (Acclaim Entertainment) {SLUS-00235} <ironmnxo> ]
+
+[Iron Man Can't Float]
+Type = Gameshark
+Activation = EndFrame
+80092076 0100
+
+[Iron Man Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+800920A8 001E
+
+[Iron Man Infinite Boost]
+Type = Gameshark
+Activation = EndFrame
+9001D66C 00000000
+
+[Iron Man Infinite Lives (Both Players)]
+Type = Gameshark
+Activation = EndFrame
+9001D990 00000000
+
+[Iron Man Once Hit Become Invincibility (Flashes)]
+Type = Gameshark
+Activation = EndFrame
+9001D770 00000000
+
+[X-O Manowar Can't Float]
+Type = Gameshark
+Activation = EndFrame
+800922F2 0100
+
+[X-O Manowar Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+80092324 0023
+
+[X-O Manowar Infinite Boost]
+Type = Gameshark
+Activation = EndFrame
+9002583C 00000000
+
+[X-O Manowar Once Hit Become Invincibility (Flashes)]
+Type = Gameshark
+Activation = EndFrame
+9002593C 00000000
+

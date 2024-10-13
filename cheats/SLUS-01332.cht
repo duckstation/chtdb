@@ -1,0 +1,89 @@
+; CHTDB: ; [ The King of Fighters '99 (USA) (2001) (Agetec) {SLUS-01332} <kof99> ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+300B8D42 0099
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+300B7EB4 0065
+
+[P1 No Energy]
+Type = Gameshark
+Activation = EndFrame
+300B7EB4 0000
+
+[P1 1-Hit Death]
+Type = Gameshark
+Activation = EndFrame
+E00B7EB4 0065
+300B7EB4 0001
+
+[P2 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+300B808C 0065
+
+[P2 1-Hit Death]
+Type = Gameshark
+Activation = EndFrame
+E00B808C 0065
+300B808C 0001
+
+[P1 Max Special]
+Type = Gameshark
+Activation = EndFrame
+300B7E71 0090
+
+[P1 No Special]
+Type = Gameshark
+Activation = EndFrame
+300B7E71 0000
+
+[P2 Max Special]
+Type = Gameshark
+Activation = EndFrame
+300B8049 0090
+
+[P2 No Special]
+Type = Gameshark
+Activation = EndFrame
+300B8049 0000
+
+[P1 Never Wins]
+Type = Gameshark
+Activation = EndFrame
+300B8D5E 0000
+
+[P1 Needs 1 Round To Win]
+Type = Gameshark
+Activation = EndFrame
+E00B8D5E 0000
+300B8D5E 0001
+
+[P2 Never Wins]
+Type = Gameshark
+Activation = EndFrame
+300B8D78 0000
+
+[P2 Needs 1 Round To Win]
+Type = Gameshark
+Activation = EndFrame
+E00B8D78 0000
+300B8D78 0001
+
+[P1 Play As Boss .With this code, highlight highlight Lori or Kyo and press L1+X and choose the shadowy image to play as the boss. This will work in all modes including normal 1-player Teamplay.]
+Type = Gameshark
+Activation = EndFrame
+C00BBCA0 0400
+800B15CE 0001
+800B121E 0001
+00000000 FFFF
+
+[Krizalid Enabled]
+Type = Gameshark
+Activation = EndFrame
+8008C8AE 0703
+

@@ -1,0 +1,19 @@
+; CHTDB: ; [ Incredible Crisis (USA) (2000) (Titus Software Corporation) {SLUS-01225} <incrisis> ]
+
+[Infinite Continues]
+Type = Gameshark
+Activation = EndFrame
+801AFCF8 000A
+
+[Have All Minigames]
+Type = Gameshark
+Activation = EndFrame
+901AFD04 00000000
+901AFD08 00000000
+301AFD0C 0000
+901AFD10 00000000
+801AFD14 0000
+901AFD1C 00000000
+901AFD28 00000000
+301AFD2C 0000
+

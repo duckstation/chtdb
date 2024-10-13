@@ -1,0 +1,302 @@
+; CHTDB: ; [ Quake II (Europe) {SLES-01534} ]
+
+[Infinite Health All]
+Type = Gameshark
+Activation = EndFrame
+800583FA 3C00
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+8004C23E 3C00
+8004C4FE 3C00
+8004C7BE 3C00
+8004A7CE 3C00
+8004CB1A 3C00
+8004D2C6 3C00
+
+[Moon Jump]
+Type = Gameshark
+Activation = EndFrame
+E00D6501 0080
+8004602A 3C00
+E10D6501 0080
+8004602A A603
+
+[Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+300C7CAE 00FF
+
+[Infinite Continues]
+Type = Gameshark
+Activation = EndFrame
+300B335D 0003
+
+[All secrets found]
+Type = Gameshark
+Activation = EndFrame
+C20B29F8 0001
+800B29FC 0000
+
+[P1-Codes\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+300CBB30 00FF
+
+[P1-Codes\Death Match Max Points]
+Type = Gameshark
+Activation = EndFrame
+300B3498 000F
+
+[P1-Codes\Have Super Shotgun Press L2+Left]
+Type = Gameshark
+Activation = EndFrame
+D00C7B60 0180
+300C7CC6 0003
+
+[P1-Codes\Have Machine Gun Press L2+Right]
+Type = Gameshark
+Activation = EndFrame
+D00C7B60 0120
+300C7CC6 0004
+
+[P1-Codes\Have Chain Gun Press L2+up]
+Type = Gameshark
+Activation = EndFrame
+D00C7B60 0110
+300C7CC6 0005
+
+[P1-Codes\Have Grenade Press L2+down]
+Type = Gameshark
+Activation = EndFrame
+D00C7B60 0140
+300C7CC6 0006
+
+[P1-Codes\Have Grenade Launcher Press R2+Left]
+Type = Gameshark
+Activation = EndFrame
+D00C7B60 0280
+300C7CC6 0007
+
+[P1-Codes\Have Rocket Launcher Press R2+Right]
+Type = Gameshark
+Activation = EndFrame
+D00C7B60 0220
+300C7CC6 0008
+
+[P1-Codes\Have Hyper Blaster .Press R2+up]
+Type = Gameshark
+Activation = EndFrame
+D00C7B60 0210
+300C7CC6 0009
+
+[P1-Codes\Have Rail Gun Press R2+down]
+Type = Gameshark
+Activation = EndFrame
+D00C7B60 0240
+300C7CC6 000A
+
+[P1-Codes\Have Bfg10K Press L2+R2]
+Type = Gameshark
+Activation = EndFrame
+D00C7B60 0300
+300C7CC6 000B
+
+[P2-Codes\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+300CC130 00FF
+
+[P2-Codes\Death Match Max Points]
+Type = Gameshark
+Activation = EndFrame
+300B349A 000F
+
+[P2-Codes\Have Super Shotgun Press L2+Left]
+Type = Gameshark
+Activation = EndFrame
+D00C7B72 0180
+300C7DA6 0003
+
+[P2-Codes\Have Machine Gun Press L2+Right]
+Type = Gameshark
+Activation = EndFrame
+D00C7B72 0120
+300C7DA6 0004
+
+[P2-Codes\Have Chain Gun Press L2+up]
+Type = Gameshark
+Activation = EndFrame
+D00C7B72 0110
+300C7DA6 0005
+
+[P2-Codes\Have Grenade Press L2+down]
+Type = Gameshark
+Activation = EndFrame
+D00C7B72 0140
+300C7DA6 0006
+
+[P2-Codes\Have Grenade Launcher Press R2+Left]
+Type = Gameshark
+Activation = EndFrame
+D00C7B72 0280
+300C7DA6 0007
+
+[P2-Codes\Have Rocket Launcher .Press R2+Right]
+Type = Gameshark
+Activation = EndFrame
+D00C7B72 0220
+300C7DA6 0008
+
+[P2-Codes\Have Hyper Blaster Press R2+up]
+Type = Gameshark
+Activation = EndFrame
+D00C7B72 0210
+300C7DA6 0009
+
+[P2-Codes\Have Rail Gun Press R2+down]
+Type = Gameshark
+Activation = EndFrame
+D00C7B72 0240
+300C7DA6 000A
+
+[P2-Codes\Have Bfg10K Press L2+R2]
+Type = Gameshark
+Activation = EndFrame
+D00C7B72 0300
+300C7DA6 000B
+
+[P3-Codes\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+300CC730 00FF
+
+[P3-Codes\Death Match Max Points]
+Type = Gameshark
+Activation = EndFrame
+300B349C 000F
+
+[P3-Codes\Have Super Shotgun Press L2+Left]
+Type = Gameshark
+Activation = EndFrame
+D00C7B84 0180
+300C7E86 0003
+
+[P3-Codes\Have Machine Gun Press L2+Right]
+Type = Gameshark
+Activation = EndFrame
+D00C7B84 0120
+300C7E86 0004
+
+[P3-Codes\Have Chain Gun Press L2+up]
+Type = Gameshark
+Activation = EndFrame
+D00C7B84 0110
+300C7E86 0005
+
+[P3-Codes\Have Grenade Press L2+down]
+Type = Gameshark
+Activation = EndFrame
+D00C7B84 0140
+300C7E86 0006
+
+[P3-Codes\Have Grenade Launcher Press R2+Left]
+Type = Gameshark
+Activation = EndFrame
+D00C7B84 0280
+300C7E86 0007
+
+[P3-Codes\Have Rocket Launcher Press R2+Right]
+Type = Gameshark
+Activation = EndFrame
+D00C7B84 0220
+300C7E86 0008
+
+[P3-Codes\Have Hyper Blaster Press R2+up]
+Type = Gameshark
+Activation = EndFrame
+D00C7B84 0210
+300C7E86 0009
+
+[P3-Codes\Have Rail Gun Press R2+down]
+Type = Gameshark
+Activation = EndFrame
+D00C7B84 0240
+300C7E86 000A
+
+[P3-Codes\Have Bfg10K Press L2+R2]
+Type = Gameshark
+Activation = EndFrame
+D00C7B84 0300
+300C7E86 000B
+
+[P4-Codes\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+300CCD30 00FF
+
+[P4-Codes\Death Match Max Points]
+Type = Gameshark
+Activation = EndFrame
+300B349E 000F
+
+[P4-Codes\Have Super Shotgun Press L2+Left]
+Type = Gameshark
+Activation = EndFrame
+D00C7B96 0180
+300C7DA6 0003
+
+[P4-Codes\Have Machine Gun Press L2+Right]
+Type = Gameshark
+Activation = EndFrame
+D00C7B96 0120
+300C7DA6 0004
+
+[P4-Codes\Have Chain Gun Press L2+up]
+Type = Gameshark
+Activation = EndFrame
+D00C7B96 0110
+300C7DA6 0005
+
+[P4-Codes\Have Grenade Press L2+down]
+Type = Gameshark
+Activation = EndFrame
+D00C7B96 0140
+300C7DA6 0006
+
+[P4-Codes\Have Grenade Launcher Press R2+Left]
+Type = Gameshark
+Activation = EndFrame
+D00C7B96 0280
+300C7DA6 0007
+
+[P4-Codes\Have Rocket Launcher Press R2+Right]
+Type = Gameshark
+Activation = EndFrame
+D00C7B96 0220
+300C7DA6 0008
+
+[P4-Codes\Have Hyper Blaster Press R2+up]
+Type = Gameshark
+Activation = EndFrame
+D00C7B96 0210
+300C7DA6 0009
+
+[P4-Codes\Have Rail Gun .Press R2+down]
+Type = Gameshark
+Activation = EndFrame
+D00C7B96 0240
+300C7DA6 000A
+
+[P4-Codes\Have Bfg10K Press L2+R2]
+Type = Gameshark
+Activation = EndFrame
+D00C7B96 0300
+300C7DA6 000B
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+800D5D46 0180
+

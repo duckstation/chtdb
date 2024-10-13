@@ -1,0 +1,82 @@
+; CHTDB: ; [ Final Fantasy Tactics (USA) (1998) (Sony Computer Entertainment America) {SCUS-94221} <ffantact> ]
+
+[FF Tactics Infinite HP Character 1]
+Type = Gameshark
+Activation = EndFrame
+901924F4 03E703E7
+
+[FF Tactics Infinite HP Character 2]
+Type = Gameshark
+Activation = EndFrame
+901926B4 03E703E7
+
+[FF Tactics Infinite HP Character 3]
+Type = Gameshark
+Activation = EndFrame
+90192874 03E703E7
+
+[FF Tactics Infinite HP Character 4]
+Type = Gameshark
+Activation = EndFrame
+90192A34 03E703E7
+
+[FF Tactics Infinite HP Character 5]
+Type = Gameshark
+Activation = EndFrame
+90192BF4 03E703E7
+
+[65535 Gil]
+Type = Gameshark
+Activation = EndFrame
+800577CC FFFF
+
+[Infinite Gil]
+Type = Gameshark
+Activation = EndFrame
+800577CE 0FFF
+
+[Infinite Move And Attack (In Battle) 1st Position]
+Type = Gameshark
+Activation = EndFrame
+30192653 0000
+30192654 0000
+
+[All Places Visited]
+Type = Gameshark
+Activation = EndFrame
+90057958 FFFFFFFF
+9005795C FFFFFFFF
+
+[Have All Items]
+Type = Gameshark
+Activation = EndFrame
+900597D0 63636363
+900597D4 63636363
+900597D8 63636363
+800597DC 6363
+8005975A 6363
+9005975C 63636363
+
+[Have All Records]
+Type = Gameshark
+Activation = EndFrame
+80057942 FFFF
+90057944 FFFFFFFF
+90057948 FFFFFFFF
+
+[Have Cloud]
+Type = Gameshark
+Activation = EndFrame
+90058874 00320932
+8005888A 0F0F
+8005889E FFFF
+80058932 2F0C
+90058934 FF273832
+
+[Open Map]
+Type = Gameshark
+Activation = EndFrame
+9005794C FFFFFFFF
+90057950 FFFFFFFF
+90057954 FFFFFFFF
+

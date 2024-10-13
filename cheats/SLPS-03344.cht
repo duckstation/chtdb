@@ -1,0 +1,83 @@
+; CHTDB: ; [ Kamen Rider Agito (Jpn) (2001) (Bandai) {SLPS-03344} <kamenrag> ]
+
+[P1 Infinite health alternate]
+Type = Gameshark
+Activation = EndFrame
+80085510 00E6
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8008564C FFFF
+
+[P1 One Hits Wins]
+Type = Gameshark
+Activation = EndFrame
+8008564A 0001
+
+[P2 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8008564A FFFF
+
+[P2 One Hits Wins]
+Type = Gameshark
+Activation = EndFrame
+8008564C 03E7
+
+[65535 Infinite Bullets]
+Type = Gameshark
+Activation = EndFrame
+80089B5A FFFF
+
+[P2 strength 0 Press Select + circle]
+Type = Gameshark
+Activation = EndFrame
+D0089C3A 0120
+800855F8 0000
+
+[P2 strength 0]
+Type = Gameshark
+Activation = EndFrame
+800855F8 0000
+
+[Unlock All Characters]
+Type = Gameshark
+Activation = EndFrame
+800DF054 000F
+
+[Unlock G3+Green Rider Mode]
+Type = Gameshark
+Activation = EndFrame
+80089B62 FFFF
+
+[Unlock G3Bus+Battle Mode]
+Type = Gameshark
+Activation = EndFrame
+80089B64 FFFF
+
+[Unlock All Gallery]
+Type = Gameshark
+Activation = EndFrame
+50008014 0000
+80109D94 03E7
+
+[Unlock All Gallery (Alternate)]
+Type = Gameshark
+Activation = EndFrame
+B0800014 0000
+80109D94 03E7
+
+[Card fully open]
+Type = Gameshark
+Activation = EndFrame
+50008014 0000
+80109D94 00FF
+
+[Hidden fully open]
+Type = Gameshark
+Activation = EndFrame
+A7013C72 14401400
+A70150EE 10401000
+A70147A2 10401400
+

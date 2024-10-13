@@ -1,0 +1,22 @@
+; CHTDB: ; [ Samurai Shodown III (Europe) {SCES-00563} ]
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800186B4 0080
+
+[P2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800185B4 0080
+
+[P1 New Fighter For]
+Type = Gameshark
+Activation = EndFrame
+800106C8 030C
+
+[P2 New Fighter For]
+Type = Gameshark
+Activation = EndFrame
+800106C8 0C02
+

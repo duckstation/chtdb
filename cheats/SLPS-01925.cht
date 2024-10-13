@@ -1,0 +1,142 @@
+; CHTDB: ; [ élan (Jpn) (1999) (Visco) {SLPS-01925} <elan> ]
+
+[No Stress]
+Type = Gameshark
+Activation = EndFrame
+8004C9D4 0000
+
+[Running 999]
+Type = Gameshark
+Activation = EndFrame
+8004C9B4 03E7
+
+[Strenght 999]
+Type = Gameshark
+Activation = EndFrame
+8004C9B8 03E7
+
+[Computer 999]
+Type = Gameshark
+Activation = EndFrame
+8004C9BC 03E7
+
+[Communications 999]
+Type = Gameshark
+Activation = EndFrame
+8004C9C0 03E7
+
+[Pilot Mecha 999]
+Type = Gameshark
+Activation = EndFrame
+8004C9C4 03E7
+
+[Virtual Reality 999]
+Type = Gameshark
+Activation = EndFrame
+8004C9C8 03E7
+
+[Flight Simulator 999]
+Type = Gameshark
+Activation = EndFrame
+8004C9CC 03E7
+
+[Gravity Simulator 999]
+Type = Gameshark
+Activation = EndFrame
+8004C9D0 03E7
+
+[Overall ranking]
+Type = Gameshark
+Activation = EndFrame
+3004C992 0063
+
+[Clear the number of events]
+Type = Gameshark
+Activation = EndFrame
+3004C99D 0063
+
+[POINTS 99]
+Type = Gameshark
+Activation = EndFrame
+3004C99E 0063
+
+[Select Bonus/voice actor interview\Age]
+Type = Gameshark
+Activation = EndFrame
+80046D58 0001
+
+[Select Bonus/voice actor interview\iodide]
+Type = Gameshark
+Activation = EndFrame
+80046D58 0002
+
+[Select Bonus/voice actor interview\nautical miles]
+Type = Gameshark
+Activation = EndFrame
+80046D58 0004
+
+[Select Bonus/voice actor interview\unbiased]
+Type = Gameshark
+Activation = EndFrame
+80046D58 0008
+
+[Select Bonus/voice actor interview\Natsuno]
+Type = Gameshark
+Activation = EndFrame
+80046D58 0010
+
+[Select Bonus/voice actor interview\Tomoe]
+Type = Gameshark
+Activation = EndFrame
+80046D58 0020
+
+[Select Bonus/voice actor interview\Rico]
+Type = Gameshark
+Activation = EndFrame
+80046D58 0040
+
+[Select Bonus/voice actor interview\Kaname]
+Type = Gameshark
+Activation = EndFrame
+80046D58 0080
+
+[Select Bonus/voice actor interview\Narisawa]
+Type = Gameshark
+Activation = EndFrame
+80046D58 0100
+
+[Select Bonus/voice actor interview\Sakaki]
+Type = Gameshark
+Activation = EndFrame
+80046D58 0200
+
+[Select Bonus/voice actor interview\Ray]
+Type = Gameshark
+Activation = EndFrame
+80046D58 0400
+
+[Select Bonus/voice actor interview\Sarai]
+Type = Gameshark
+Activation = EndFrame
+80046D58 0800
+
+[Select Sub character ending flag\Narisawa]
+Type = Gameshark
+Activation = EndFrame
+8004C8E0 0080
+
+[Select Sub character ending flag\Sakaki]
+Type = Gameshark
+Activation = EndFrame
+8004C8E0 0100
+
+[Select Sub character ending flag\Ray]
+Type = Gameshark
+Activation = EndFrame
+8004C8E0 0200
+
+[Select Sub character ending flag\Sarai]
+Type = Gameshark
+Activation = EndFrame
+8004C8E0 0400
+

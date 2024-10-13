@@ -1,0 +1,12 @@
+; CHTDB: ; [ Perfect Weapon (USA) (1996) (ASC Games) {SLUS-00341} <perfwpn> ]
+
+[Infinite Health Recovery's (On Pickup)]
+Type = Gameshark
+Activation = EndFrame
+8008D8E8 0500
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8011ADAC 1000
+

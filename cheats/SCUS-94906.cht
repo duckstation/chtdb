@@ -1,0 +1,33 @@
+; CHTDB: ; [ The Adventures of Lomax (USA) (1996) (Psygnosis) {SCUS-94906} <lomax> ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8006B854 0003
+
+[Always Have Helmet]
+Type = Gameshark
+Activation = EndFrame
+8006B714 FFFF
+8006B71C FFFF
+
+[Infinite Bridges]
+Type = Gameshark
+Activation = EndFrame
+8006B660 0009
+
+[Infinite Digging]
+Type = Gameshark
+Activation = EndFrame
+8006B8B4 0009
+
+[Infinite Flames]
+Type = Gameshark
+Activation = EndFrame
+8006B8C8 0009
+
+[Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+8006B7E0 0009
+

@@ -1,0 +1,402 @@
+; CHTDB: ; [ MediEvil II (USA) (2000) (Sony Computer Entertainment America) {SCUS-94564} <medievl2> ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+D00795FC FFFF
+80079602 2400
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800F152C 012C
+
+[Max Infinite Gold]
+Type = Gameshark
+Activation = EndFrame
+800F15B4 270F
+
+[Chalice Of Souls Full]
+Type = Gameshark
+Activation = EndFrame
+800EFE88 0064
+
+[Infinite Potions]
+Type = Gameshark
+Activation = EndFrame
+300F1533 0010
+300F1536 0001
+
+[Enable Danhand Ability]
+Type = Gameshark
+Activation = EndFrame
+300F1694 0001
+
+[Always Have Chalice Of Souls]
+Type = Gameshark
+Activation = EndFrame
+300EFE90 0001
+
+[Enable Cheat Menu]
+Type = Gameshark
+Activation = EndFrame
+E00D36BD 0001
+300D36BD 0000
+
+[God Code (Invincibility)]
+Type = Gameshark
+Activation = EndFrame
+800F152C 012C
+800F3860 012C
+800F3864 012C
+800F3868 012C
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+A7041CFA 17C21000
+
+[Moon Jump]
+Description = Don't jump too high or you'll receive fall damage
+Type = Gameshark
+Activation = EndFrame
+A703BD62 10001440
+D7200000 00000020
+A703BD62 14401000
+
+[Enable Big Head Dan]
+Type = Gameshark
+Activation = EndFrame
+E00EFF1E 0000
+300EFF1E 0004
+
+[Enable Matrixcam]
+Type = Gameshark
+Activation = EndFrame
+300EFF29 0002
+
+[Max Infinite Antidote]
+Type = Gameshark
+Activation = EndFrame
+800F1648 1004
+
+[Infinite Health-Danenstein]
+Type = Gameshark
+Activation = EndFrame
+801C9C9E 00C8
+
+[Infinite Health for the Boxing Match]
+Type = Gameshark
+Activation = EndFrame
+801C9C9E 00C8
+
+[Have All 12 Lost Souls]
+Type = Gameshark
+Activation = EndFrame
+800F15F4 000C
+
+[Have Small Sword]
+Type = Gameshark
+Activation = EndFrame
+800F155C 0000
+
+[Have Broad Sword]
+Type = Gameshark
+Activation = EndFrame
+800F1560 1000
+
+[Have Magic Sword]
+Type = Gameshark
+Activation = EndFrame
+800F1564 0000
+
+[Have Cane Stick]
+Type = Gameshark
+Activation = EndFrame
+800F1568 0000
+
+[Always have Infinite Pistol]
+Type = Gameshark
+Activation = EndFrame
+800F156C 00C8
+
+[Have Hammer]
+Type = Gameshark
+Activation = EndFrame
+800F1570 0001
+
+[Always have Infinite Crossbow]
+Type = Gameshark
+Activation = EndFrame
+800F1574 00C8
+
+[Always have Infinite Flaming Crossbow]
+Type = Gameshark
+Activation = EndFrame
+800F1578 00C8
+
+[Have Axe]
+Type = Gameshark
+Activation = EndFrame
+800F157C 0001
+
+[Always have Infinite Gatling Gun]
+Type = Gameshark
+Activation = EndFrame
+800F1580 03E7
+
+[Infinite Lightning]
+Type = Gameshark
+Activation = EndFrame
+800F1588 1000
+
+[Always have Infinite Blunderbuss]
+Type = Gameshark
+Activation = EndFrame
+800F1590 00C8
+
+[Infinite Bombs]
+Type = Gameshark
+Activation = EndFrame
+800F1594 001E
+
+[Infinite Drumsticks]
+Type = Gameshark
+Activation = EndFrame
+800F1598 0064
+
+[Have Torch]
+Type = Gameshark
+Activation = EndFrame
+800F159C 0001
+
+[Have Cooper Shield]
+Type = Gameshark
+Activation = EndFrame
+800F15A0 0096
+
+[Have Silver Shield]
+Type = Gameshark
+Activation = EndFrame
+800F15A4 00FA
+
+[Have Gold Shield]
+Type = Gameshark
+Activation = EndFrame
+800F15A8 0190
+
+[The Museum-Unlocked + Completed]
+Type = Gameshark
+Activation = EndFrame
+800E1734 0019
+
+[Kensington-Unlocked + Completed]
+Type = Gameshark
+Activation = EndFrame
+800E1754 0019
+
+[The Freakshow-Unlocked + Completed]
+Type = Gameshark
+Activation = EndFrame
+800E1774 0019
+
+[Greenwich Observatory-Unlocked + Completed]
+Type = Gameshark
+Activation = EndFrame
+800E1784 0019
+
+[Kew Gardens-Unlocked + Completed]
+Type = Gameshark
+Activation = EndFrame
+800E17A4 0019
+
+[Dankenstein-Unlocked + Completed]
+Type = Gameshark
+Activation = EndFrame
+800E17B4 0019
+
+[Iron Slugger-Unlocked + Completed]
+Type = Gameshark
+Activation = EndFrame
+800E17C4 0021
+
+[Wulfrun Hall-Unlocked + Completed]
+Type = Gameshark
+Activation = EndFrame
+800E17D4 0019
+
+[The Count-Unlocked + Completed]
+Type = Gameshark
+Activation = EndFrame
+800E17E4 0021
+
+[Whitechapel-Unlocked + Completed]
+Type = Gameshark
+Activation = EndFrame
+800E17F4 0019
+
+[The Sewers-Unlocked + Completed]
+Type = Gameshark
+Activation = EndFrame
+800E1804 0019
+
+[The Time Machine-Unlocked + Completed]
+Type = Gameshark
+Activation = EndFrame
+800E1814 0019
+
+[Cathedral Spires-Unlocked + Completed]
+Type = Gameshark
+Activation = EndFrame
+800E1844 0021
+
+[The Demon-Unlocked + Completed]
+Type = Gameshark
+Activation = EndFrame
+800E1864 0021
+
+[Always have Cannonball]
+Type = Gameshark
+Activation = EndFrame
+800F165C 0001
+
+[Always have Museum Key]
+Type = Gameshark
+Activation = EndFrame
+800F166C 0001
+
+[Always have Dinosaur Key]
+Type = Gameshark
+Activation = EndFrame
+800F1670 0001
+
+[Always have Scroll Of Sekhmet]
+Type = Gameshark
+Activation = EndFrame
+800F1630 0001
+
+[Always have Staff Of Anubis]
+Type = Gameshark
+Activation = EndFrame
+800F1634 0001
+
+[Always have Tablet Of Horus]
+Type = Gameshark
+Activation = EndFrame
+800F1638 0001
+
+[Always have Pocketwatch]
+Type = Gameshark
+Activation = EndFrame
+800F163C 0001
+
+[Always have Town House Key]
+Type = Gameshark
+Activation = EndFrame
+800F1640 0001
+
+[Always have Depot Key]
+Type = Gameshark
+Activation = EndFrame
+800F1668 0001
+
+[Always have Snakeman Keys]
+Type = Gameshark
+Activation = EndFrame
+800F15D4 0064
+
+[Always have Elephant Key 1]
+Type = Gameshark
+Activation = EndFrame
+800F1618 0001
+
+[Always have Elephant Key 2]
+Type = Gameshark
+Activation = EndFrame
+800F161C 0001
+
+[Always have Bellows]
+Type = Gameshark
+Activation = EndFrame
+800F15F0 0001
+
+[Always have Pond Room Valve]
+Type = Gameshark
+Activation = EndFrame
+800F164C 0001
+
+[Always have Hothouse Valve]
+Type = Gameshark
+Activation = EndFrame
+800F1650 0001
+
+[Always have Water Tank Valve]
+Type = Gameshark
+Activation = EndFrame
+800F1654 0001
+
+[Always have Potting Shed Key]
+Type = Gameshark
+Activation = EndFrame
+800F1660 0001
+
+[Always have Front Door Key]
+Type = Gameshark
+Activation = EndFrame
+801F1664 0001
+
+[Always have Poster]
+Type = Gameshark
+Activation = EndFrame
+800F15B0 0001
+
+[Always have Time Machine Piece 1]
+Type = Gameshark
+Activation = EndFrame
+800F1620 0001
+
+[Always have Time Machine Piece 2]
+Type = Gameshark
+Activation = EndFrame
+800F1624 0001
+
+[Always have Time Machine Piece 3]
+Type = Gameshark
+Activation = EndFrame
+800F1628 0001
+
+[Always have Time Stone]
+Type = Gameshark
+Activation = EndFrame
+800F1644 0001
+
+[Always have Library Key]
+Type = Gameshark
+Activation = EndFrame
+800F1610 0001
+
+[Always have Club Membership Card]
+Type = Gameshark
+Activation = EndFrame
+800F1614 0001
+
+[Always have Griffin Shield]
+Type = Gameshark
+Activation = EndFrame
+800F1600 0001
+
+[Always have Unicorn Shield]
+Type = Gameshark
+Activation = EndFrame
+800F1604 0001
+
+[Always have Beard]
+Type = Gameshark
+Activation = EndFrame
+800F160C 0001
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+A7129044 19991333
+

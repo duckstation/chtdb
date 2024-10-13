@@ -1,0 +1,17 @@
+; CHTDB: ; [ Kumitate Battle Kuttu Ketto (Japan) {SLPS-01208} ]
+
+[Infinite HP Character 1]
+Type = Gameshark
+Activation = EndFrame
+801BE87C 0100
+
+[Infinite HP Character 2]
+Type = Gameshark
+Activation = EndFrame
+801BE5FC 0100
+
+[Infinite HP Character 3]
+Type = Gameshark
+Activation = EndFrame
+801BE73C 0100
+

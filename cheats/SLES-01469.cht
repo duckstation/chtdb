@@ -1,0 +1,52 @@
+; CHTDB: ; [ Asteroids (Germany) {SLES-01469} ]
+
+[P1 Unendlich Leben]
+Type = Gameshark
+Activation = EndFrame
+80113C34 0063
+
+[P2 Unendlich Leben]
+Type = Gameshark
+Activation = EndFrame
+80113C38 0063
+
+[P1 Unendlich Sonderwaffen]
+Type = Gameshark
+Activation = EndFrame
+80113C6C FFFF
+
+[P1 Unendlich Continues]
+Type = Gameshark
+Activation = EndFrame
+80113A40 0003
+
+[UnzerstöRbar]
+Type = Gameshark
+Activation = EndFrame
+80113EBC 0000
+
+[Classic Asteroids\Klassisches Asteroids Freigeschaltet]
+Type = Gameshark
+Activation = EndFrame
+80113F04 0001
+
+[Classic Asteroids\P1 Unendlich Leben]
+Type = Gameshark
+Activation = EndFrame
+80115348 0005
+
+[Classic Asteroids\P1 UnzerstöRbar]
+Type = Gameshark
+Activation = EndFrame
+90114468 00000000
+
+[Classic Asteroids\P2 Unendlich Leben]
+Type = Gameshark
+Activation = EndFrame
+8011534C 0005
+
+[Classic Asteroids\P2 UnzerstöRbar]
+Type = Gameshark
+Activation = EndFrame
+9011446C 00000000
+

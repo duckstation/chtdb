@@ -1,0 +1,20 @@
+; CHTDB: ; [ Assault Rigs (USA) (1996) (Psygnosis) {SCUS-94405} <assrigs> ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+801CFEBC 00CB
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801C9850 00B4
+801C9848 00B4
+801C984C 00B4
+801C9854 00B4
+
+[Orbs Collected]
+Type = Gameshark
+Activation = EndFrame
+801C9880 00FF
+

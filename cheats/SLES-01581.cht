@@ -1,0 +1,18 @@
+; CHTDB: ; [ Small Soldiers (France) {SLES-01581} ]
+
+[All Weapons/Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+9007BD84 00000000
+D009ABCC 0001
+800E0CBC 0065
+D009ABCC 0001
+800E0CBE 0065
+D009ABCC 0001
+800E0CC0 0019
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+300A7191 000C
+

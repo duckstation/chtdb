@@ -1,0 +1,7 @@
+; CHTDB: ; [ Kattobi Tune (Jpn) (1998) (Genki) {SLPS-01253} <kattotun> ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+80064ACC FFFF
+

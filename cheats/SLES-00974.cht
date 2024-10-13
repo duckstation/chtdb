@@ -1,0 +1,355 @@
+; CHTDB: ; [ Resident Evil 2 (Germany) {SLES-00974 | SLES-10974} ]
+
+[Unendlich Lebenskraft]
+Type = Gameshark
+Activation = EndFrame
+800C6F12 00C8
+
+[Schrotgewehr L1 + Quadrat]
+Type = Gameshark
+Activation = EndFrame
+D00C5504 0084
+800CBC00 FF07
+
+[Spezialgewehr L2 + Dreieck]
+Type = Gameshark
+Activation = EndFrame
+D00C5504 0011
+800CBC00 FF08
+
+[Magnum L1 + Dreieck]
+Type = Gameshark
+Activation = EndFrame
+D00C5504 0014
+800CBC00 FF05
+
+[Spezial-Magnum L1 + X]
+Type = Gameshark
+Activation = EndFrame
+D00C5504 0044
+800CBC00 FF06
+
+[Gatling-Gun R2 + Quadrat]
+Type = Gameshark
+Activation = EndFrame
+D00C5504 0082
+800CBC00 FF12
+
+[Flammenwerfer R2 + Dreieck]
+Type = Gameshark
+Activation = EndFrame
+D00C5504 0012
+800CBC00 FF10
+
+[Raketenwerfer R2 + X]
+Type = Gameshark
+Activation = EndFrame
+D00C54A4 0042
+800CBB98 FF11
+
+[Durch WäNde Gehen L1 aktivieren/L2 deaktivieren]
+Type = Gameshark
+Activation = EndFrame
+D00C54A4 0004
+800C6E5A 0C0F
+D00C54A4 0001
+800C6E5A 1500
+
+[Kisteninhalt\Handfeuerwaffe]
+Type = Gameshark
+Activation = EndFrame
+800CBC2C FF04
+
+[Kisteninhalt\Magnum]
+Type = Gameshark
+Activation = EndFrame
+800CBC30 FF05
+
+[Kisteninhalt\Spezial-Magnum]
+Type = Gameshark
+Activation = EndFrame
+800CBC34 FF06
+
+[Kisteninhalt\Schrotgewehr]
+Type = Gameshark
+Activation = EndFrame
+800CBC38 FF07
+
+[Kisteninhalt\Spezialgewehr]
+Type = Gameshark
+Activation = EndFrame
+800CBC3C FF08
+
+[Kisteninhalt\Colt S.A.A.]
+Type = Gameshark
+Activation = EndFrame
+800CBBD4 FF0D
+
+[Kisteninhalt\Mg]
+Type = Gameshark
+Activation = EndFrame
+800CBBDC FF0F
+
+[Kisteninhalt\Flammenwerfer]
+Type = Gameshark
+Activation = EndFrame
+800CBC48 FF10
+
+[Kisteninhalt\Raketenwerfer]
+Type = Gameshark
+Activation = EndFrame
+800CBBE0 FF11
+
+[Kisteninhalt\Gatling-Gun]
+Type = Gameshark
+Activation = EndFrame
+800CBC50 FF12
+
+[Kisteninhalt\HauptschlüSsel]
+Type = Gameshark
+Activation = EndFrame
+800CBC78 0162
+
+[Kisteninhalt\Labor-SchlüSsel]
+Type = Gameshark
+Activation = EndFrame
+800CBCDC 0161
+
+[Kisteninhalt\Dietrich]
+Type = Gameshark
+Activation = EndFrame
+800CBC80 0130
+
+[Kisteninhalt\RevierschlüSsel]
+Type = Gameshark
+Activation = EndFrame
+800CBC84 0159
+
+[Kisteninhalt\KabinenschlüSsel]
+Type = Gameshark
+Activation = EndFrame
+800CBC88 0158
+
+[Kisteninhalt\SonderschlüSsel]
+Type = Gameshark
+Activation = EndFrame
+800CBC8C 0153
+
+[Kisteninhalt\G-Virus]
+Type = Gameshark
+Activation = EndFrame
+800CBC90 0152
+
+[Kisteninhalt\Wolfmedaille]
+Type = Gameshark
+Activation = EndFrame
+800CBC94 0149
+
+[Kisteninhalt\Adlermedaille]
+Type = Gameshark
+Activation = EndFrame
+800CBC98 0148
+
+[Kisteninhalt\Einhornmedaille]
+Type = Gameshark
+Activation = EndFrame
+800CBC9C 0147
+
+[Kisteninhalt\Roter Edelstein]
+Type = Gameshark
+Activation = EndFrame
+800CBCB8 0133
+
+[Kisteninhalt\KöNigsstecker]
+Type = Gameshark
+Activation = EndFrame
+800CBD04 013E
+
+[Kisteninhalt\Springerstecker]
+Type = Gameshark
+Activation = EndFrame
+800CBD08 013D
+
+[Kisteninhalt\Turmstecker]
+Type = Gameshark
+Activation = EndFrame
+800CBC0C 013C
+
+[Kisteninhalt\LäUferstecker]
+Type = Gameshark
+Activation = EndFrame
+800CBC10 013B
+
+[Kisteninhalt\Armbrustbolzen]
+Type = Gameshark
+Activation = EndFrame
+800CBCB0 041D
+
+[Kisteninhalt\Kabel]
+Type = Gameshark
+Activation = EndFrame
+800CBCB4 0156
+
+[Kisteninhalt\PlattformschlüSsel]
+Type = Gameshark
+Activation = EndFrame
+800CBC74 0163
+
+[Kisteninhalt\SchlüSsel]
+Type = Gameshark
+Activation = EndFrame
+800CBCBC 031F
+
+[Kisteninhalt\FarbbäNder]
+Type = Gameshark
+Activation = EndFrame
+800CBCC0 FF1E
+
+[Kleidung\Mit Tasche Am GüRtel]
+Type = Gameshark
+Activation = EndFrame
+800CB9F0 0002
+
+[Kleidung\Bandagiert]
+Type = Gameshark
+Activation = EndFrame
+800CB9F0 0004
+
+[Kleidung\Bandagiert Und Tasche]
+Type = Gameshark
+Activation = EndFrame
+800CB9F0 0006
+
+[Kleidung\Rpd (Geheime Kleidung 1)]
+Type = Gameshark
+Activation = EndFrame
+800CB9F0 0008
+
+[Kleidung\Lederanzug (Geheime Kleidung 2)]
+Type = Gameshark
+Activation = EndFrame
+800CB9F0 000A
+
+[Kleidung\Hunk.]
+Type = Gameshark
+Activation = EndFrame
+800CB9F0 000C
+
+[Kleidung\Tofu Block]
+Type = Gameshark
+Activation = EndFrame
+800CB9F0 000D
+
+[Kleidung\Ada (Frau)]
+Type = Gameshark
+Activation = EndFrame
+800CB9F0 000E
+
+[Unendliche Lebenskraft]
+Type = Gameshark
+Activation = EndFrame
+800C6EAA 00C8
+
+[Granatwerfer L1 + Dreieck]
+Type = Gameshark
+Activation = EndFrame
+D00C54A4 0014
+800CBB98 FF09
+
+[Granatwerfer (Feuer) L1 + X]
+Type = Gameshark
+Activation = EndFrame
+D00C54A4 0044
+800CBB98 FF0A
+
+[Granatwerfer (SäUre) L1 + Viereck]
+Type = Gameshark
+Activation = EndFrame
+D00C54A4 0084
+800CBB98 FF0B
+
+[Armbrust L2 + Dreieck]
+Type = Gameshark
+Activation = EndFrame
+D00C54A4 0011
+800CBB98 FF0C
+
+[Colt S.A.A..L2 + X]
+Type = Gameshark
+Activation = EndFrame
+D00C54A4 0041
+800CBB98 FF0D
+
+[Blitzwaffe L2 + Viereck]
+Type = Gameshark
+Activation = EndFrame
+D00C54A4 0081
+800CBB98 FF0E
+
+[Mg R2 + Dreieck]
+Type = Gameshark
+Activation = EndFrame
+D00C54A4 0012
+800CBB98 FF0F
+
+[Gatling Gun R2 + Viereck]
+Type = Gameshark
+Activation = EndFrame
+D00C54A4 0082
+800CBB98 FF12
+
+[Kisteninhalt\Schlangenstein]
+Type = Gameshark
+Activation = EndFrame
+800CBCAC 0136
+
+[Kisteninhalt\Jaguarstein]
+Type = Gameshark
+Activation = EndFrame
+800CBCA8 0137
+
+[Kisteninhalt\Adlerstein]
+Type = Gameshark
+Activation = EndFrame
+800CBCA4 013A
+
+[Kisteninhalt\Bombe + ZüNder]
+Type = Gameshark
+Activation = EndFrame
+800CBCA0 0142
+
+[Kisteninhalt\LaborschlüSsel]
+Type = Gameshark
+Activation = EndFrame
+800CBC7C 0161
+
+[Kisteninhalt\Granatwerfer]
+Type = Gameshark
+Activation = EndFrame
+800CBBC4 FF09
+
+[Kisteninhalt\Granatwerfer (Feuer)]
+Type = Gameshark
+Activation = EndFrame
+800CBBC8 FF0A
+
+[Kisteninhalt\Granatwerfer (SäUre)]
+Type = Gameshark
+Activation = EndFrame
+800CBBCC FF0B
+
+[Kisteninhalt\Armbrust]
+Type = Gameshark
+Activation = EndFrame
+800CBBD0 FF0C
+
+[Kisteninhalt\Blitzwaffe]
+Type = Gameshark
+Activation = EndFrame
+800CBBD8 FF0E
+
+[Kisteninhalt\Gattling Gun]
+Type = Gameshark
+Activation = EndFrame
+800CBBE4 FF12
+

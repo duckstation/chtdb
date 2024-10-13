@@ -1,0 +1,34 @@
+; CHTDB: ; [ Alla Ricerca della Valle Incantata: Ritorno alla Grande Vallata (Italy) {SLES-02984} ]
+
+[Have 98 leaves]
+Type = Gameshark
+Activation = EndFrame
+50000403 0000
+300D7DF3 0062
+
+[Have 99 lives]
+Type = Gameshark
+Activation = EndFrame
+50000403 0000
+300D7DF1 0063
+
+[Infinite Jumps]
+Type = Gameshark
+Activation = EndFrame
+D00992B2 BFFF
+800967E4 2440
+D00992B2 BFFF
+800967E6 0000
+D00992B2 BFEF
+800967E4 2440
+D00992B2 BFEF
+800967E6 0000
+D00992B2 BFCF
+800967E4 2440
+D00992B2 BFCF
+800967E6 0000
+D00992B2 BF6F
+800967E4 2440
+D00992B2 BF6F
+800967E6 0000
+

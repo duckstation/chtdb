@@ -1,0 +1,7 @@
+# Akuji the Heartless (USA) (1998) (Eidos Interactive)
+[60 FPS]
+Type = Gameshark
+Activation = EndFrame
+Description = Patches the game to render at 60fps, instead of 30fps.
+OverrideCPUOverclock = 250
+A7055FBA 14401400

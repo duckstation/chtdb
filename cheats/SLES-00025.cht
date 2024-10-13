@@ -1,0 +1,12 @@
+; CHTDB: ; [ Swagman (Europe) {SLES-00025} ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80108E58 0005
+
+[Have 99 scarabs]
+Type = Gameshark
+Activation = EndFrame
+80108BE2 0063
+

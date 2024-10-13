@@ -1,0 +1,71 @@
+; CHTDB: ; [ Street Fighter EX2 Plus (Japan) {SLPS-02508} ]
+
+[P1 Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+801E9204 00C8
+
+[P2 Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+801EAA80 00C8
+
+[P2 No HP]
+Type = Gameshark
+Activation = EndFrame
+801EAA80 0000
+
+[P1 Infinite Power Gauge]
+Type = Gameshark
+Activation = EndFrame
+801217AC 96C8
+801E9204 96C8
+
+[P2 Infinite Power Gauge]
+Type = Gameshark
+Activation = EndFrame
+801EAA80 96C8
+8012A554 96C8
+
+[All Hidden Characters]
+Type = Gameshark
+Activation = EndFrame
+901F47B0 FFFFFFFF
+
+[Expert all clear]
+Type = Gameshark
+Activation = EndFrame
+50001802 0000
+801F4778 FFFF
+
+[Maniac all clear]
+Type = Gameshark
+Activation = EndFrame
+901F4C78 53DD0001
+901F4C7C 56652705
+901F4C80 421F0DAB
+901F4C84 4D1D3EAD
+901F4C88 20DB2F5B
+901F4C8C 69AD2FE5
+901F4C90 261F161B
+901F4C94 6513525F
+901F4C98 66797E71
+901F4C9C 44FD3B6D
+901F4CA0 1FFF5011
+901F4CA4 5BAF5A19
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A71F6C80 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A71F6C80 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A71F6C80 10000400
+

@@ -1,0 +1,36 @@
+; CHTDB: ; [ NCAA Basketball Final Four 97 (USA) (1997) (Mindscape) {SLUS-00142} <ncaaff97> ]
+
+[Select Home Team Score\100]
+Type = Gameshark
+Activation = EndFrame
+801EE9DC 0064
+
+[Select Home Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+801EE9DC 0000
+
+[Select Away Team Score\100]
+Type = Gameshark
+Activation = EndFrame
+801EF50C 0064
+
+[Select Away Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+801EF50C 0000
+
+[Stop Shot Clock]
+Type = Gameshark
+Activation = EndFrame
+801743DC 5FB6
+801A5D98 5FB6
+801B6BDC 5FB6
+801D8844 5FB6
+
+[Stop Timer]
+Type = Gameshark
+Activation = EndFrame
+801A6264 2710
+801D8840 2710
+

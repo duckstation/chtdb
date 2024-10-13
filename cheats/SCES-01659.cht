@@ -1,0 +1,53 @@
+; CHTDB: ; [ Kingsley's Adventure (Europe) {SCES-01659} ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800E856A 000C
+
+[Have Dagger]
+Type = Gameshark
+Activation = EndFrame
+800D1B72 0001
+
+[Have Crossbow]
+Type = Gameshark
+Activation = EndFrame
+800D1BEA 0001
+
+[Infinite Arrows]
+Type = Gameshark
+Activation = EndFrame
+800E85CA 0063
+
+[Infinite Ammo After Pickup]
+Type = Gameshark
+Activation = EndFrame
+80047502 3C00
+
+[Infinite Coins]
+Type = Gameshark
+Activation = EndFrame
+800E85C4 0031
+
+[Have All Keys]
+Type = Gameshark
+Activation = EndFrame
+50000D02 0000
+800E85E0 0001
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800E8600 0063
+
+[Playing Time]
+Type = Gameshark
+Activation = EndFrame
+800E7798 0000
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+800E6FBC 0F00
+

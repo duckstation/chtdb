@@ -1,0 +1,12 @@
+; CHTDB: ; [ Battle Konchuuden (Japan) {SLPS-01779} ]
+
+[Infinite Money 999999]
+Type = Gameshark
+Activation = EndFrame
+900EAE5C 000F4237
+
+[Infinite Energy Insect 1]
+Type = Gameshark
+Activation = EndFrame
+800F5FAC 0BB8
+

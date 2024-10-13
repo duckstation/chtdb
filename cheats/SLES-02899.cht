@@ -1,0 +1,40 @@
+; CHTDB: ; [ Koudelka (Germany) {SLES-02899 | SLES-12899 | SLES-22899 | SLES-32899} ]
+
+[Koudelka Unendlich GP]
+Type = Gameshark
+Activation = EndFrame
+801D13C0 270F
+
+[Koudelka Unendlich MP]
+Type = Gameshark
+Activation = EndFrame
+801D13D0 270F
+
+[Edward Unendlich GP]
+Type = Gameshark
+Activation = EndFrame
+801CF9C0 270F
+
+[Edward Unendlich MP]
+Type = Gameshark
+Activation = EndFrame
+801CF9D0 270F
+
+[James Unendlich GP]
+Type = Gameshark
+Activation = EndFrame
+801CDFC0 270F
+
+[James Unendlich MP]
+Type = Gameshark
+Activation = EndFrame
+801CDFD0 270F
+
+[Unendlich Gegenstände / Munition]
+Type = Gameshark
+Activation = EndFrame
+D008B3EE AE00
+8008B3F0 0000
+D008B3EE AE00
+8008B3F2 0000
+

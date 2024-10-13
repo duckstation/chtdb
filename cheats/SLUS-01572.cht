@@ -1,0 +1,12 @@
+; CHTDB: ; [ ATV Racers (USA) (2003) (Mud Duck Productions) {SLUS-01572} <atvracer> ]
+
+[Enable Chloe]
+Type = Gameshark
+Activation = EndFrame
+30076A78 0001
+
+[Enable Picasso]
+Type = Gameshark
+Activation = EndFrame
+30076AF0 0001
+

@@ -1,0 +1,142 @@
+; CHTDB: ; [ Street Sk8er (USA) (1999) (Electronic Arts) {SLUS-00818} <strsk8> ]
+
+[Enable Levels]
+Type = Gameshark
+Activation = EndFrame
+80094230 3F00
+
+[Extra Characters]
+Type = Gameshark
+Activation = EndFrame
+80094138 FFFF
+
+[Extra Points]
+Type = Gameshark
+Activation = EndFrame
+8007B19C 8800
+
+[Infinite Checkpoint Time]
+Type = Gameshark
+Activation = EndFrame
+8007B19A 04A9
+
+[Total Time is 0'00'03']
+Type = Gameshark
+Activation = EndFrame
+8007B192 0000
+
+[Max Skill Bonus Points .For this code, press select to refill your skill bonus with 2 more points.]
+Type = Gameshark
+Activation = EndFrame
+D00D27E2 0100
+800A3230 0200
+
+[Character TJ]
+Type = Gameshark
+Activation = EndFrame
+800A31C4 0000
+
+[Character Jerry]
+Type = Gameshark
+Activation = EndFrame
+800A31C4 0001
+
+[Character Ginger]
+Type = Gameshark
+Activation = EndFrame
+800A31C4 0002
+
+[Character Frankie]
+Type = Gameshark
+Activation = EndFrame
+800A31C4 0003
+
+[Character Sarah]
+Type = Gameshark
+Activation = EndFrame
+800A31C4 0004
+
+[Character Mick]
+Type = Gameshark
+Activation = EndFrame
+800A31C4 0005
+
+[Character Bonobo]
+Type = Gameshark
+Activation = EndFrame
+800A31C4 0006
+
+[Character Shao]
+Type = Gameshark
+Activation = EndFrame
+800A31C4 0007
+
+[Time Limit On]
+Type = Gameshark
+Activation = EndFrame
+800A98E8 0001
+
+[Time Limit Off]
+Type = Gameshark
+Activation = EndFrame
+800A98E8 0000
+
+[Have All Levels]
+Type = Gameshark
+Activation = EndFrame
+80094230 3F3F
+
+[Enable Mirror Mode]
+Type = Gameshark
+Activation = EndFrame
+90094110 00092BE0
+90094114 000DA3A0
+90094118 000DA5B0
+90094128 000D3E7E
+90094134 030100FF
+
+[Have All Skate Boards]
+Type = Gameshark
+Activation = EndFrame
+9009413C 3FFFFFFF
+
+[Select Stage\L.A.]
+Type = Gameshark
+Activation = EndFrame
+800A315C 0000
+
+[Select Stage\N.Y.]
+Type = Gameshark
+Activation = EndFrame
+800A315C 0001
+
+[Select Stage\Tokyo]
+Type = Gameshark
+Activation = EndFrame
+800A315C 0002
+
+[Select Stage\Half Pipe]
+Type = Gameshark
+Activation = EndFrame
+800A315C 0003
+
+[Select Stage\Big Air]
+Type = Gameshark
+Activation = EndFrame
+800A315C 0004
+
+[Select Stage\Bowl]
+Type = Gameshark
+Activation = EndFrame
+800A315C 0005
+
+[Max Points]
+Type = Gameshark
+Activation = EndFrame
+9007B19C 00FFFFFF
+
+[Speed Modifier MAX]
+Type = Gameshark
+Activation = EndFrame
+8007B298 0FFF
+

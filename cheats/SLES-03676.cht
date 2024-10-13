@@ -1,0 +1,81 @@
+; CHTDB: ; [ Kirikou aka Kirikou: The Game (Europe) {SLES-03676} ]
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800644E8 0000
+
+[999 Bubbles]
+Type = Gameshark
+Activation = EndFrame
+800644B2 03E7
+
+[Have Weapon - First Level - Press Select]
+Type = Gameshark
+Activation = EndFrame
+D0062242 FFFE
+8015AC8C 0001
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800644D6 6301
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800644E0 00C8
+
+[All Teachings Mastered]
+Type = Gameshark
+Activation = EndFrame
+800644B0 FFFF
+
+[Infinite Jump]
+Type = Gameshark
+Activation = EndFrame
+D0062242 BFFF
+800644C8 0001
+D0062242 BFDF
+800644C8 0001
+
+[Select Level\1 The Savannah]
+Type = Gameshark
+Activation = EndFrame
+8006443C 0001
+
+[Select Level\2 The Marshlands]
+Type = Gameshark
+Activation = EndFrame
+8006443C 0002
+
+[Select Level\3 The Forest]
+Type = Gameshark
+Activation = EndFrame
+8006443C 0003
+
+[Select Level\4 The Large Embankment]
+Type = Gameshark
+Activation = EndFrame
+8006443C 0004
+
+[Select Level\5 The Cave]
+Type = Gameshark
+Activation = EndFrame
+8006443C 0005
+
+[Select Level\6 The Rocky Plateau]
+Type = Gameshark
+Activation = EndFrame
+8006443C 0006
+
+[Select Level\7 Karaba's Cabin]
+Type = Gameshark
+Activation = EndFrame
+8006443C 0007
+
+[Select Level\8 Bonus]
+Type = Gameshark
+Activation = EndFrame
+8006443C 0008
+

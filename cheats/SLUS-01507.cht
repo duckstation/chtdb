@@ -1,0 +1,77 @@
+; CHTDB: ; [ Rescue Copter (USA) (2002) (SVG Distribution) {SLUS-01507} <rescuecp> ]
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+801F4290 0000
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+801DC9CC 2710
+
+[Mission 1-3]
+Type = Gameshark
+Activation = EndFrame
+301F447C 0001
+
+[Mission 1-4]
+Type = Gameshark
+Activation = EndFrame
+301F447D 0001
+
+[Mission 1-5]
+Type = Gameshark
+Activation = EndFrame
+301F447E 0001
+
+[Mission 2-1]
+Type = Gameshark
+Activation = EndFrame
+301F447F 0001
+
+[Mission 2-2]
+Type = Gameshark
+Activation = EndFrame
+301F4480 0001
+
+[Mission 2-3]
+Type = Gameshark
+Activation = EndFrame
+301F4481 0001
+
+[Mission 2-4]
+Type = Gameshark
+Activation = EndFrame
+301F4482 0001
+
+[Mission 2-5]
+Type = Gameshark
+Activation = EndFrame
+301F4483 0001
+
+[Mission 3-1]
+Type = Gameshark
+Activation = EndFrame
+301F4484 0001
+
+[Mission 3-2]
+Type = Gameshark
+Activation = EndFrame
+301F4485 0001
+
+[Mission 3-3]
+Type = Gameshark
+Activation = EndFrame
+301F4486 0001
+
+[Mission 3-4]
+Type = Gameshark
+Activation = EndFrame
+301F4487 0001
+
+[Mission 3-5]
+Type = Gameshark
+Activation = EndFrame
+301F4488 0001
+

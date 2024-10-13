@@ -1,0 +1,27 @@
+; CHTDB: ; [ Strider 2 (Europe) (2 Games) {SLES-02867} ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+D00F7D34 A044
+300F7D34 0000
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+D00F7894 0096
+300F7894 0000
+A60F7896 A4A20000
+
+[Unlock Level Select (Press Select At Option Menu)]
+Type = Gameshark
+Activation = EndFrame
+D00834A2 FFFE
+8004D7FC 0001
+
+[Unlock Alternative Costumes (Press Select At Option Menu)]
+Type = Gameshark
+Activation = EndFrame
+D00834A2 FFFE
+8004D88E 0001
+

@@ -1,0 +1,17 @@
+; CHTDB: ; [ Treasures of the Deep (France) {SCES-01070} ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8009A018 003C
+
+[Infinite Nets]
+Type = Gameshark
+Activation = EndFrame
+80040AF8 0063
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+30040D85 000C
+

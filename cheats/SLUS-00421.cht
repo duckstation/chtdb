@@ -1,0 +1,19 @@
+; CHTDB: ; [ Resident Evil 2 (USA) (1998) (Capcom Entertainment) {SLUS-00421 / SLUS-00592} <revil2> ]
+
+[Infinite Health Leon]
+Type = Gameshark
+Activation = EndFrame
+800C7E7A 00C8
+
+[Have All Events Done]
+Type = Gameshark
+Activation = EndFrame
+50007D02 0000
+800CC95A FFFF
+
+[Save anywhere press L1 and X and have 1 ink ribbon]
+Type = Gameshark
+Activation = EndFrame
+D00C646C 0044
+900CC5C8 8004E5B0
+

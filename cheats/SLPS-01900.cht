@@ -1,0 +1,27 @@
+; CHTDB: ; [ Uchuu Senkan Yamato: Haruka naru Hoshi Iscandar (Japan) {SLPS-01900} ]
+
+[Infinite HP Ship in battle]
+Type = Gameshark
+Activation = EndFrame
+801E4C7C 270F
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+A6135F1E 00440040
+
+[Hp]
+Type = Gameshark
+Activation = EndFrame
+A6135EBA 00640060
+
+[White Soldier War One Strike Kill Hand to Hand Combat]
+Type = Gameshark
+Activation = EndFrame
+A615BB1A A602A600
+
+[One Strike Kill]
+Type = Gameshark
+Activation = EndFrame
+A6136EAE 00430000
+

@@ -1,0 +1,302 @@
+; CHTDB: ; [ Test Drive 5 (Europe) {SLES-01165} ]
+
+[Infinite Checkpoint Time]
+Type = Gameshark
+Activation = EndFrame
+800A16EC 6000
+
+[Have 9999 Cup Points]
+Type = Gameshark
+Activation = EndFrame
+800A6954 270F
+
+[Always Place 1st]
+Type = Gameshark
+Activation = EndFrame
+800A172A 0000
+
+[Enable Pitbull Cup]
+Type = Gameshark
+Activation = EndFrame
+300A6A70 0001
+
+[Enable Masters Cup]
+Type = Gameshark
+Activation = EndFrame
+300A6A71 0001
+
+[Enable Ultimate Cup]
+Type = Gameshark
+Activation = EndFrame
+30096A72 0001
+
+[Enable Cop Chase Mode]
+Type = Gameshark
+Activation = EndFrame
+300A6A73 0001
+
+[Enable Challenge Cup]
+Type = Gameshark
+Activation = EndFrame
+800A6A6E 0100
+
+[Enable Trackbei Bez]
+Type = Gameshark
+Activation = EndFrame
+300A6AC6 0002
+
+[Enable Trackmontego Bay]
+Type = Gameshark
+Activation = EndFrame
+300A6AC8 0002
+
+[Enable Trackkeswick 1]
+Type = Gameshark
+Activation = EndFrame
+300A6AA2 0002
+
+[Enable Tracksan Francisco 1]
+Type = Gameshark
+Activation = EndFrame
+300A6AA3 0002
+
+[Enable Trackbern 1]
+Type = Gameshark
+Activation = EndFrame
+300A6AA4 0002
+
+[Enable Trackkyoto 1]
+Type = Gameshark
+Activation = EndFrame
+300A6AA5 0002
+
+[Enable Trackwashington Dc 1]
+Type = Gameshark
+Activation = EndFrame
+300A6AA6 0002
+
+[Enable Trackmuenchen 1]
+Type = Gameshark
+Activation = EndFrame
+300A6AA7 0002
+
+[Enable Trackkewswick 2]
+Type = Gameshark
+Activation = EndFrame
+300A6AA8 0002
+
+[Enable Tracksan Francisco 2]
+Type = Gameshark
+Activation = EndFrame
+300A6AA9 0002
+
+[Enable Trackbern 2]
+Type = Gameshark
+Activation = EndFrame
+300A6AAA 0002
+
+[Enable Trackkyoto 2]
+Type = Gameshark
+Activation = EndFrame
+300A6AAB 0002
+
+[Enable Trackwashington Dc 2]
+Type = Gameshark
+Activation = EndFrame
+300A6AAC 0002
+
+[Enable Trackmuenchen 2]
+Type = Gameshark
+Activation = EndFrame
+300A6AAD 0002
+
+[Enable Trackhonolulu 1]
+Type = Gameshark
+Activation = EndFrame
+300A6AAE 0002
+
+[Enable Tracksydney 1]
+Type = Gameshark
+Activation = EndFrame
+300A6AAF 0002
+
+[Enable Tracktokio 1]
+Type = Gameshark
+Activation = EndFrame
+300A6AB0 0002
+
+[Enable Trackedinburgh 1]
+Type = Gameshark
+Activation = EndFrame
+300A6AB1 0002
+
+[Enable Trackblue Ridge Parkway Nc]
+Type = Gameshark
+Activation = EndFrame
+300A6AB2 0002
+
+[Enable Trackhonolulu 2]
+Type = Gameshark
+Activation = EndFrame
+300A6AB3 0002
+
+[Enable Tracksydney 2]
+Type = Gameshark
+Activation = EndFrame
+300A6AB4 0002
+
+[Enable Tracktokio 2]
+Type = Gameshark
+Activation = EndFrame
+300A6AB5 0002
+
+[Enable Trackedinburgh 2]
+Type = Gameshark
+Activation = EndFrame
+300A6AB6 0002
+
+[Enable Trackblue Ridge Parkway Nc 2]
+Type = Gameshark
+Activation = EndFrame
+300A6AB7 0002
+
+[Enable Trackmoskau]
+Type = Gameshark
+Activation = EndFrame
+300A6AB8 0002
+
+[Enable Trackmoskau Night]
+Type = Gameshark
+Activation = EndFrame
+300A6AB9 0002
+
+[Enable Trackcheddar George]
+Type = Gameshark
+Activation = EndFrame
+300A6ABA 0002
+
+[Enable Trackjarash]
+Type = Gameshark
+Activation = EndFrame
+300A6ABB 0002
+
+[Enable Trackcourmayeur]
+Type = Gameshark
+Activation = EndFrame
+300A6ABC 0002
+
+[Enable Trackmaui]
+Type = Gameshark
+Activation = EndFrame
+300A6ABD 0002
+
+[Enable Tracknewcastle Circuit]
+Type = Gameshark
+Activation = EndFrame
+300A6ABE 0002
+
+[Enable Car 99 Aston Martin]
+Type = Gameshark
+Activation = EndFrame
+300A6A86 0002
+
+[Enable Cars 98 Shelby Series 1]
+Type = Gameshark
+Activation = EndFrame
+300A6A87 0002
+
+[Enable Carstvr Speed 12]
+Type = Gameshark
+Activation = EndFrame
+300A6A88 0002
+
+[Enable Cars 98 Dodge Viper Gts-R]
+Type = Gameshark
+Activation = EndFrame
+300A6A89 0002
+
+[Enable Cars 94 Jaguar Xj220]
+Type = Gameshark
+Activation = EndFrame
+300A6A8A 0002
+
+[Enable Cars Caterham Super 7]
+Type = Gameshark
+Activation = EndFrame
+300A6A8B 0002
+
+[Enable Cars Chris Beast]
+Type = Gameshark
+Activation = EndFrame
+300A6A8C 0002
+
+[Enable Cars Caterham 21]
+Type = Gameshark
+Activation = EndFrame
+300A6A8D 0002
+
+[Enable Cars Police Tvr Cerbera]
+Type = Gameshark
+Activation = EndFrame
+300A6A8E 0002
+
+[Enable Cars69 Dodge Charger Daytona]
+Type = Gameshark
+Activation = EndFrame
+300A6A8F 0002
+
+[Enable Cars69 Chev. Camero Hotrod]
+Type = Gameshark
+Activation = EndFrame
+300A6A90 0002
+
+[Enable Cars68 Ford Mustang Hotrod]
+Type = Gameshark
+Activation = EndFrame
+300A6A91 0002
+
+[Enable Carsbehold The Mighty Maul]
+Type = Gameshark
+Activation = EndFrame
+300A6A92 0002
+
+[Enable Carsfear Factory Wagon]
+Type = Gameshark
+Activation = EndFrame
+300A6A93 0002
+
+[Enable Cars98 Ford Mustang]
+Type = Gameshark
+Activation = EndFrame
+300A6A94 0002
+
+[Enable Cars Nissan R390 Gt-1]
+Type = Gameshark
+Activation = EndFrame
+300A6A95 0002
+
+[Enable Cars 98 Police Ford Mustang]
+Type = Gameshark
+Activation = EndFrame
+300A6A96 0002
+
+[Enable Cars V69 Police Dodge Charger]
+Type = Gameshark
+Activation = EndFrame
+300A6A97 0002
+
+[Enable Cars V97 Police Chev. Camero]
+Type = Gameshark
+Activation = EndFrame
+300A6A98 0002
+
+[Enable Cars Pitbull Special]
+Type = Gameshark
+Activation = EndFrame
+300A6A99 0002
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+8009108C 1334
+

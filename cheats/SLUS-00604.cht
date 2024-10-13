@@ -1,0 +1,9 @@
+; CHTDB: ; [ Sentinel Returns (USA) (1998) (Psygnosis) {SLUS-00604} <sentinel> ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+D21A5A38 0008
+801A5A38 00FF
+A61A5A38 000F00FF
+

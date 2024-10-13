@@ -1,0 +1,14 @@
+; CHTDB: ; [ Puffy no P.S. I Love You (Japan) {ESPM-70003} ]
+
+[Have 999 cans shot]
+Type = Gameshark
+Activation = EndFrame
+800BA494 03E7
+12345799 1234
+
+[All Photos]
+Type = Gameshark
+Activation = EndFrame
+50005101 0000
+30047070 0001
+

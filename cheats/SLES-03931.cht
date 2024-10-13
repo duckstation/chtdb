@@ -1,0 +1,132 @@
+; CHTDB: ; [ Michael Schumacher Racing World Kart 2002 (Europe) {SLES-03931} ]
+
+[Start From 3rd Lap]
+Type = Gameshark
+Activation = EndFrame
+8012ECC6 0002
+
+[Championship Mode - Unlock Ica]
+Type = Gameshark
+Activation = EndFrame
+8007F112 03E7
+
+[Championship Mode - Unlock Fsa]
+Type = Gameshark
+Activation = EndFrame
+8007F11E 03E7
+
+[999 Points For Fun Stage]
+Type = Gameshark
+Activation = EndFrame
+8007F10C 03E7
+
+[999 Points For Jpn Mitzuma]
+Type = Gameshark
+Activation = EndFrame
+8007F10C 03E7
+
+[999 Points For Fra Lecombe]
+Type = Gameshark
+Activation = EndFrame
+8007F10E 03E7
+
+[999 Points For Nl Erasmuspark]
+Type = Gameshark
+Activation = EndFrame
+8007F110 03E7
+
+[Ica Stage - Gb Isle Of Man]
+Type = Gameshark
+Activation = EndFrame
+8007F114 03E7
+
+[Ica Stage - Aut Salzachbahn]
+Type = Gameshark
+Activation = EndFrame
+8007F116 03E7
+
+[Ica Stage - Nl Erasmuspark]
+Type = Gameshark
+Activation = EndFrame
+8007F118 03E7
+
+[Ica Stage - Fra Lecombe]
+Type = Gameshark
+Activation = EndFrame
+8007F11A 03E7
+
+[Ica Stage - Usa Desert View]
+Type = Gameshark
+Activation = EndFrame
+8007F11C 03E7
+
+[Fsa Stage - Ger Grune Meile]
+Type = Gameshark
+Activation = EndFrame
+8007F120 03E7
+
+[Fsa Stage - Ita Bagnaria Aba]
+Type = Gameshark
+Activation = EndFrame
+8007F122 03E7
+
+[Fsa Stage - Gb Isle Of Man]
+Type = Gameshark
+Activation = EndFrame
+8007F124 03E7
+
+[Fsa Stage - Aut Salzachbahn]
+Type = Gameshark
+Activation = EndFrame
+8007F126 03E7
+
+[Fsa Stage - Usa Desert View]
+Type = Gameshark
+Activation = EndFrame
+8007F128 03E7
+
+[Fsa Stage - Ger Grune Meile Rn]
+Type = Gameshark
+Activation = EndFrame
+8007F12A 03E7
+
+[Fsa Stage - Ita Bagnaria Aba Rn]
+Type = Gameshark
+Activation = EndFrame
+8007F12C 03E7
+
+[Fsa Stage - Hun Sasad Airport]
+Type = Gameshark
+Activation = EndFrame
+8007F12E 03E7
+
+[Duel Mode - Unlock Ica]
+Type = Gameshark
+Activation = EndFrame
+8007F138 03E7
+
+[Duel Mode - Unlock Fsa]
+Type = Gameshark
+Activation = EndFrame
+8007F144 03E7
+
+[Training Mode - Unlock Ica]
+Type = Gameshark
+Activation = EndFrame
+8007F0C6 0001
+
+[Training Mode - Unlock Fsa]
+Type = Gameshark
+Activation = EndFrame
+8007F0D2 0001
+
+[Trial Time Mode - Unlock Ica Change the 0001 to FFFF to be given the ticks.]
+Type = Gameshark
+Activation = EndFrame
+8007F0EC 0001
+
+[Trial Time Mode - Unlock Fsa Change the 0001 to FFFF to be given the ticks.]
+Type = Gameshark
+Activation = EndFrame
+8007F0F8 0001
+

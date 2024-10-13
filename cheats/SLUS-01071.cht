@@ -1,0 +1,153 @@
+; CHTDB: ; [ Lunar 2 - Eternal Blue Complete (USA) (2000) (Working Designs) {SLUS-01071, SLUS-01071A / SLUS-01239, SLUS-01239A / SLUS-01240, SLUS-01240A / SLUS-01257} <lunar2> ]
+
+[Max HP Hiro]
+Type = Gameshark
+Activation = EndFrame
+8008423E 03E7
+
+[Infinite HP Hiro]
+Type = Gameshark
+Activation = EndFrame
+8008423C 03E7
+
+[Max MP Hiro]
+Type = Gameshark
+Activation = EndFrame
+80084242 03E7
+
+[Infinite MP Hiro]
+Type = Gameshark
+Activation = EndFrame
+80084240 03E7
+
+[Infinite HP Gwyn]
+Type = Gameshark
+Activation = EndFrame
+80084610 03E7
+
+[Infinite MP Gwyn]
+Type = Gameshark
+Activation = EndFrame
+80084614 03E7
+
+[Max HP Ronfar]
+Type = Gameshark
+Activation = EndFrame
+80084302 03E7
+
+[Infinite HP Ronfar]
+Type = Gameshark
+Activation = EndFrame
+80084300 03E7
+
+[Max MP Ronfar]
+Type = Gameshark
+Activation = EndFrame
+80084306 03E7
+
+[Infinite MP Ronfar]
+Type = Gameshark
+Activation = EndFrame
+80084304 03E7
+
+[Max HP Jean]
+Type = Gameshark
+Activation = EndFrame
+800843C6 03E7
+
+[Infinite HP Jean]
+Type = Gameshark
+Activation = EndFrame
+800843C4 03E7
+
+[Max MP Jean]
+Type = Gameshark
+Activation = EndFrame
+800843CA 03E7
+
+[Infinite MP Jean]
+Type = Gameshark
+Activation = EndFrame
+800843C8 03E7
+
+[Mah HP Lemina]
+Type = Gameshark
+Activation = EndFrame
+8008454E 03E7
+
+[Infinite HP Lemina]
+Type = Gameshark
+Activation = EndFrame
+8008454C 03E7
+
+[Max MP Lemina]
+Type = Gameshark
+Activation = EndFrame
+80084552 03E7
+
+[Infinite MP Lemina]
+Type = Gameshark
+Activation = EndFrame
+80084550 03E7
+
+[Max HP Leo/Mystere]
+Type = Gameshark
+Activation = EndFrame
+8008448A 03E7
+
+[Infinite HP Leo/Mystere]
+Type = Gameshark
+Activation = EndFrame
+80084488 03E7
+
+[Max MP Leo/Mystere]
+Type = Gameshark
+Activation = EndFrame
+8008448E 03E7
+
+[Infinite MP Leo/Mystere]
+Type = Gameshark
+Activation = EndFrame
+8008448C 03E7
+
+[Mah HP Lucia]
+Type = Gameshark
+Activation = EndFrame
+800846D6 03E7
+
+[Infinite HP Lucia]
+Type = Gameshark
+Activation = EndFrame
+800846D4 03E7
+
+[Max MP Lucia]
+Type = Gameshark
+Activation = EndFrame
+800846DA 03E7
+
+[Infinite MP Lucia]
+Type = Gameshark
+Activation = EndFrame
+800846D8 03E7
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+8008A7BC FFFF
+
+[No Random Battles]
+Type = Gameshark
+Activation = EndFrame
+D008B1B8 0102
+80007800 0000
+D008B1B8 0108
+80007800 4D43
+D0007800 4D43
+8008B288 000C
+
+[Rememerizer Crystal Has All Events (Epilogue)]
+Type = Gameshark
+Activation = EndFrame
+90175BC0 FFFFFFFF
+90175BC4 FFFFFFFF
+

@@ -1,0 +1,29 @@
+; CHTDB: ; [ Tensen Nyannyan - Gekijou-ban (Jpn) (1998) (Time Point) {SLPS-01278} <tennyan> ]
+
+[Infinite Money Player]
+Type = Gameshark
+Activation = EndFrame
+900C8E60 000F423F
+
+[Opponent score 0]
+Type = Gameshark
+Activation = EndFrame
+800C931C 0000
+
+[Always Win]
+Type = Gameshark
+Activation = EndFrame
+800C8C40 0001
+800C8C44 0009
+800C8C48 0011
+800C8C4C 0019
+800C8C50 0021
+800C8C54 0029
+800C8C58 0031
+800C8C5C 0032
+800C8C60 0033
+800C8C64 0034
+800C8C68 0041
+800C8C6C 0042
+800C8C70 0043
+

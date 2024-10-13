@@ -1,0 +1,46 @@
+; CHTDB: ; [ Countdown Vampires (USA) (2000) (Bandai America) {SLUS-00898 / SLUS-01199} <countvmp> ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800B3F2E 0064
+
+[Stop Timer]
+Type = Gameshark
+Activation = EndFrame
+800CEB98 0017
+
+[Lots Of Cash]
+Type = Gameshark
+Activation = EndFrame
+800B3F38 270F
+
+[Infinite Stunt ammo]
+Type = Gameshark
+Activation = EndFrame
+800B3F52 000C
+
+[100 Rescues]
+Description = Needed For Ranking S
+Type = Gameshark
+Activation = EndFrame
+900B3F34 00640064
+
+[Makes The Game Think You Never Saved]
+Type = Gameshark
+Activation = EndFrame
+800B3EFA 0000
+
+[Matrix Mode (Press L3 to toggle on/off)]
+Type = Gameshark
+Activation = EndFrame
+D7010001 00000200
+F5015C8E 10401000
+F501801E 14431000
+
+[Walk through walls (Press R3 to toggle on/off)]
+Type = Gameshark
+Activation = EndFrame
+D7010001 01000400
+F501C02A 14401000
+

@@ -1,0 +1,54 @@
+; CHTDB: ; [ Poitter's Point 2 - Sodom no Inbou (Jpn) (1998) (Konami) {SLPM-86061 (VX091-J1)} <poitpnt2> ]
+
+[P1 Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800A880C 00AA
+
+[P1 Also Max Speed]
+Type = Gameshark
+Activation = EndFrame
+800A8810 00FF
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+900A58F0 0098967F
+
+[P1 Infinite Energy Press Select to Refresh]
+Type = Gameshark
+Activation = EndFrame
+D00A5504 0100
+800A880C 03E7
+
+[P2 Infinite Energy Press Select to Refresh]
+Type = Gameshark
+Activation = EndFrame
+D00A5584 0100
+800A8824 03E7
+
+[P1 Infinite Glove Energy]
+Type = Gameshark
+Activation = EndFrame
+800A8816 4268
+
+[P2 Infinite Glove Energy]
+Type = Gameshark
+Activation = EndFrame
+800A882E 4268
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A70E69D8 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A70E69D8 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A70E69D8 10000400
+

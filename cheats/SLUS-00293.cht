@@ -1,0 +1,42 @@
+; CHTDB: ; [ Lethal Enforcers I & II (USA) (1997) (Konami of America) {SLUS-00293} <lethalen> ]
+
+[P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80078C3C 0009
+
+[P1 Infinite Bullets]
+Type = Gameshark
+Activation = EndFrame
+80078C38 0016
+
+[P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80078C70 0009
+
+[P2 Infinite Bullets]
+Type = Gameshark
+Activation = EndFrame
+80078C6C 0016
+
+[Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+80078C2C 001D
+
+[Last Stage Lethal Enforcers]
+Type = Gameshark
+Activation = EndFrame
+8006C21C 0014
+
+[Last Stage Lethal Enforcers II]
+Type = Gameshark
+Activation = EndFrame
+8006C21C 0017
+
+[No Gun Flash]
+Type = Gameshark
+Activation = EndFrame
+A703741E 0C011400
+

@@ -1,0 +1,56 @@
+; CHTDB: ; [ Harry Potter to Kenja no Ishi (Japan) {SLPS-03355} ]
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+300817BD 0080
+
+[All Bean Challenges Complete]
+Type = Gameshark
+Activation = EndFrame
+300814E3 00FF
+300814E4 00FF
+
+[All Beans]
+Type = Gameshark
+Activation = EndFrame
+30081645 0020
+30081647 0060
+30081649 0000
+3008164B 0040
+50000404 0001
+30081646 0003
+
+[All Cards]
+Type = Gameshark
+Activation = EndFrame
+800814E6 FFFF
+300814E8 00FF
+
+[All Spells]
+Type = Gameshark
+Activation = EndFrame
+300814DD 00F0
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+3007B851 00FF
+
+[Max House Points]
+Type = Gameshark
+Activation = EndFrame
+30081635 0070
+30081636 003E
+
+[Press L1 For Invisibility]
+Type = Gameshark
+Activation = EndFrame
+E0077B67 00FB
+3007B7AA 00FF
+
+[Total Time = 00.00]
+Type = Gameshark
+Activation = EndFrame
+900817C8 00000000
+

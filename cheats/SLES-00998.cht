@@ -1,0 +1,42 @@
+; CHTDB: ; [ Street Fighter Collection (Europe) {SLES-00998 | SLES-10998} ]
+
+[Super Street Fighter II P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+90175134 00900090
+
+[Super Street Fighter II P2 No health]
+Type = Gameshark
+Activation = EndFrame
+901754A0 00000000
+
+[Super Street Fighter II Turbo P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+90175134 00900090
+
+[Super Street Fighter II Play as Akuma]
+Type = Gameshark
+Activation = EndFrame
+80175418 0100
+
+[Super Street Fighter II Turbo P2 No health]
+Type = Gameshark
+Activation = EndFrame
+901754A0 00000000
+
+[Street Fighter Alpha 2 Gold P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8019766C 0090
+
+[Street Fighter Alpha 2 Gold Play as Cammy in Vs-Mode]
+Type = Gameshark
+Activation = EndFrame
+801976B6 1E00
+
+[Street Fighter Alpha 2 Gold P2 No health]
+Type = Gameshark
+Activation = EndFrame
+80197A68 0000
+

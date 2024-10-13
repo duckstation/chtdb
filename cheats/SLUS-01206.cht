@@ -1,0 +1,110 @@
+; CHTDB: ; [ Dragon Warrior VII (USA) (2001) (Enix America) {SLUS-01206 / SLUS-01346} <dwarr7> ]
+
+[Infinite + Max Gold]
+Type = Gameshark
+Activation = EndFrame
+90011368 0098967F
+
+[Game Timer Dont Decrease]
+Type = Gameshark
+Activation = EndFrame
+8001003C 0000
+
+[Infinite Magic In Battle]
+Type = Gameshark
+Activation = EndFrame
+D0133014 0070
+80133016 2400
+
+[Infinite HP MP Character 2]
+Type = Gameshark
+Activation = EndFrame
+80011246 9FE7
+80011248 3E7F
+
+[Infinite HP MP Character 1]
+Type = Gameshark
+Activation = EndFrame
+80011126 9FE7
+80011128 3E7F
+
+[Infinite HP MP Gabo]
+Type = Gameshark
+Activation = EndFrame
+80011006 9FE7
+80011008 3E7F
+
+[Infinite HP MP Maribel]
+Type = Gameshark
+Activation = EndFrame
+80010EE6 9FE7
+80010EE8 3E7F
+
+[Infinite HP MP Kiefer]
+Type = Gameshark
+Activation = EndFrame
+80010DC6 9FE7
+80010DC8 3E7F
+
+[Infinite HP MP Hero]
+Type = Gameshark
+Activation = EndFrame
+80010CA6 9FE7
+80010CA8 3E7F
+
+[All Items]
+Type = Gameshark
+Activation = EndFrame
+5000FF04 0001
+80010424 0001
+5000FF04 0000
+80010426 0063
+5000FF04 0001
+80010820 0100
+5000FF04 0000
+80010822 0063
+50000404 0001
+80010C1C 01FF
+50000404 0000
+80010C1E 0063
+
+[Have All Monsters In Monster Park]
+Description = Enable these cheats, and talk to the person inside the house, and all monsters will be available. Exit the house, re-enter, and talk to them again, and they'll confirm that it's all the monsters possible, and you'll get an item from him for the effort
+Type = Gameshark
+Activation = EndFrame
+50001102 0000
+80011712 FFFF
+80011734 01FF
+
+[Have Complete Monster Book]
+Description = This gives you 900 of all monsters killed, which allows you to view all the moves the book can show, and shows you the complete set of stats. This also makes the book give you a Gospel Ring the next time you exit it
+Type = Gameshark
+Activation = EndFrame
+5000FF02 0000
+80011388 0E13
+5000AE02 0000
+80011586 0E13
+
+[Debug Menu press Select while in control of your character to access the menu]
+Type = Gameshark
+Activation = EndFrame
+800F2518 0100
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A7026544 10000C00
+A7026554 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A7026544 10000900
+A7026554 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A7026544 10000400
+A7026554 10000400
+

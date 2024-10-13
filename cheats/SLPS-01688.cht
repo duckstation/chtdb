@@ -1,0 +1,192 @@
+; CHTDB: ; [ R-Type Delta (Japan) {SLPS-01688} ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8001014E 0009
+
+[Max Beam Energy For R-13]
+Type = Gameshark
+Activation = EndFrame
+80175498 0068
+
+[Max Beam Energy For R-X]
+Type = Gameshark
+Activation = EndFrame
+801746B0 0060
+
+[Invincibility For R-13]
+Type = Gameshark
+Activation = EndFrame
+8017549C 0061
+
+[Invincibility For R-X]
+Type = Gameshark
+Activation = EndFrame
+801746B4 005D
+
+[Have Secret Aircraft And Choose Chapter]
+Type = Gameshark
+Activation = EndFrame
+90013A4C 00FFFFFF
+
+[Have Gallery]
+Type = Gameshark
+Activation = EndFrame
+80013A44 FFFF
+
+[Stage 1\Max Delta Attack]
+Type = Gameshark
+Activation = EndFrame
+3008CD4C 0000
+
+[Stage 1\Infinite Aircraft]
+Type = Gameshark
+Activation = EndFrame
+3008C156 0040
+
+[Stage 1\Max Power Attack]
+Type = Gameshark
+Activation = EndFrame
+300D34D0 0040
+
+[Stage 1\Invincibility For R-9]
+Type = Gameshark
+Activation = EndFrame
+80172274 0083
+
+[Stage 2\Max Delta Attack]
+Type = Gameshark
+Activation = EndFrame
+3007545C 0000
+
+[Stage 2\Infinite Aircraft]
+Type = Gameshark
+Activation = EndFrame
+30074866 0040
+
+[Stage 2\Max Power Attack]
+Type = Gameshark
+Activation = EndFrame
+300BAECC 0040
+
+[Stage 2\Invincibility For R-9]
+Type = Gameshark
+Activation = EndFrame
+8015256C 007B
+
+[Stage 3\Max Delta Attack]
+Type = Gameshark
+Activation = EndFrame
+3004C1D8 0000
+
+[Stage 3\Infinite Aircraft]
+Type = Gameshark
+Activation = EndFrame
+3004B5E2 0040
+
+[Stage 3\Max Power Attack]
+Type = Gameshark
+Activation = EndFrame
+30092B9C 0040
+
+[Stage 3\Invincibility For R-9]
+Type = Gameshark
+Activation = EndFrame
+8013B1AC 0083
+
+[Stage 4\Max Delta Attack]
+Type = Gameshark
+Activation = EndFrame
+30076AE0 0000
+
+[Stage 4\Infinite Aircraft]
+Type = Gameshark
+Activation = EndFrame
+30075F12 0040
+
+[Stage 4\Max Power Attack]
+Type = Gameshark
+Activation = EndFrame
+300BE010 0040
+
+[Stage 4\Invincibility For R-9]
+Type = Gameshark
+Activation = EndFrame
+80151A88 0083
+
+[Stage 5\Max Delta Attack]
+Type = Gameshark
+Activation = EndFrame
+30063DD0 0000
+
+[Stage 5\Infinite Aircraft]
+Type = Gameshark
+Activation = EndFrame
+300631DA 0040
+
+[Stage 5\Max Power Attack]
+Type = Gameshark
+Activation = EndFrame
+300A815C 0040
+
+[Stage 5\Invincibility For R-9]
+Type = Gameshark
+Activation = EndFrame
+8014C9C8 0083
+
+[Stage 6\Max Delta Attack]
+Type = Gameshark
+Activation = EndFrame
+3005EE88 0000
+
+[Stage 6\Infinite Aircraft]
+Type = Gameshark
+Activation = EndFrame
+3005E292 0040
+
+[Stage 6\Max Power Attack]
+Type = Gameshark
+Activation = EndFrame
+300A440C 0040
+
+[Stage 6\Invincibility For R-9]
+Type = Gameshark
+Activation = EndFrame
+8016D0A8 0083
+
+[Stage 7\Max Delta Attack]
+Type = Gameshark
+Activation = EndFrame
+3006D014 0000
+
+[Stage 7\Infinite Aircraft]
+Type = Gameshark
+Activation = EndFrame
+3006C42A 0040
+
+[Stage 7\Max Power Attack]
+Type = Gameshark
+Activation = EndFrame
+300B9990 0040
+
+[Stage 7\Invincibility For R-9]
+Type = Gameshark
+Activation = EndFrame
+801540B8 0083
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A71F7418 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A71F7418 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A71F7418 10000400
+

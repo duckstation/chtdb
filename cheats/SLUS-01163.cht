@@ -1,0 +1,52 @@
+; CHTDB: ; [ Strider 2 (USA) (2000) (Capcom Entertainment) {SLUS-01163} <strider2> ]
+
+[Infinite Boost]
+Type = Gameshark
+Activation = EndFrame
+800ABB28 012F
+800ABB38 0004
+300ABB3D 0001
+
+[Enable Boost Option]
+Type = Gameshark
+Activation = EndFrame
+800A8D58 0001
+
+[Enable Hien Mode]
+Type = Gameshark
+Activation = EndFrame
+800A8D5A 0001
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800ABA32 0006
+800ABA34 0006
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+300D9E03 0063
+
+[Unlock All Levels]
+Type = Gameshark
+Activation = EndFrame
+300D9E03 0006
+
+[Unlock Stage '00']
+Type = Gameshark
+Activation = EndFrame
+300A8D59 0001
+
+[Press L2+R2 To Skip Current Sub-Level]
+Type = Gameshark
+Activation = EndFrame
+D009FD4C 0003
+800D9DE0 0001
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800AB838 0002
+800AB83E 2400
+

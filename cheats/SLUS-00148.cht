@@ -1,0 +1,17 @@
+; CHTDB: ; [ Olympic Summer Games (USA) (1996) (Eidos Interactive) {SLUS-00148} <olympsum> ]
+
+[One-Hundred Metres\Red Bar Always Full]
+Type = Gameshark
+Activation = EndFrame
+801B9EE0 364C
+
+[Four-Hundred Metres\Red Bar Always Full]
+Type = Gameshark
+Activation = EndFrame
+801B9EE0 364C
+
+[Four-Hundred Metres\Blue Bar Always Full]
+Type = Gameshark
+Activation = EndFrame
+801AF88C 364C
+

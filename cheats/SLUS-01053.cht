@@ -1,0 +1,66 @@
+; CHTDB: ; [ Road Rash - Jailbreak (USA) (2000) (Electronic Arts) {SLUS-01053} <rrashjlb> ]
+
+[Infinite Biker's Health]
+Type = Gameshark
+Activation = EndFrame
+800D5766 5A5A
+
+[Infinite Bike Durability]
+Type = Gameshark
+Activation = EndFrame
+800D577C 4040
+
+[Finish The Race 1st]
+Type = Gameshark
+Activation = EndFrame
+800D577E 0102
+
+[Start Racing Before The Cpu Racers]
+Type = Gameshark
+Activation = EndFrame
+8005B2A8 006A
+
+[Max Tko]
+Type = Gameshark
+Activation = EndFrame
+800D81F0 FF00
+
+[Use Super Weapon Press up]
+Type = Gameshark
+Activation = EndFrame
+E00D6DE5 0010
+800D5786 FFFF
+
+[Quit Race + Have All Weapons Press L1+L2]
+Type = Gameshark
+Activation = EndFrame
+C00D6DE4 0005
+800D5782 FFFF
+800D5784 FFFF
+00000000 FFFF
+
+[Only 1 Race To Complete In Grunt Stage]
+Type = Gameshark
+Activation = EndFrame
+A60D81C8 000003F6
+
+[Only 1 Race To Complete In Captain Stage]
+Type = Gameshark
+Activation = EndFrame
+A60D81CA 000037FF
+
+[Max Hits]
+Type = Gameshark
+Activation = EndFrame
+800D81F2 00FF
+
+[Always Win]
+Type = Gameshark
+Activation = EndFrame
+300D577F 0001
+
+[Infinite Nitro]
+Type = Gameshark
+Activation = EndFrame
+300D81EC 000A
+

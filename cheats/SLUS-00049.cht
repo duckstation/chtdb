@@ -1,0 +1,79 @@
+; CHTDB: ; [ Bottom of the 9th (USA) (1996) (Konami of America) {SLUS-00049} <bottom9> ]
+
+[Select Away Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+8005777C  0000
+
+[Select Away Team Score\99]
+Type = Gameshark
+Activation = EndFrame
+8005777C  0099
+
+[Select Home Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+3005777D 0000
+
+[Select Home Team Score\99]
+Type = Gameshark
+Activation = EndFrame
+3005777D 0099
+
+[Always Out on Hitting Ball]
+Type = Gameshark
+Activation = EndFrame
+A70F64B6 10621000
+
+[Infinite Strikes]
+Type = Gameshark
+Activation = EndFrame
+82100F8C 0030
+
+[Infinite Balls]
+Type = Gameshark
+Activation = EndFrame
+82100F8C 0003
+
+[Infinite Outs]
+Type = Gameshark
+Activation = EndFrame
+82100F8C 00C0
+;#Select Balls\Infinite
+;30100F8C 0000
+;#Select Balls\Only One Needed for Walk
+;30100F8C 0003
+;#Select Balls\0
+;82100F8C 0003
+;81100F8C 0000
+;#Select Balls\1
+;82100F8C 0003
+;81100F8C 0001
+;#Select Balls\2
+;82100F8C 0003
+;81100F8C 0002
+;#Select Balls\3
+;82100F8C 0003
+;81100F8C 0003
+;#Select Strikes\0
+;82100F8C 0030
+;81100F8C 0000
+;#Select Strikes\1
+;82100F8C 0030
+;81100F8C 0010
+;#Select Strikes\2
+;82100F8C 0030
+;81100F8C 0020
+;#Select Outs\0
+;82100F8C 0180
+;81100F8C 0000
+;#Select Outs\1
+;82100F8C 0180
+;81100F8C 0040
+;#Select Outs\2
+;82100F8C 0180
+;81100F8C 0080
+;#Select Outs\3
+;82100F8C 0180
+;81100F8C 0100
+

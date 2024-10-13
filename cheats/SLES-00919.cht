@@ -1,0 +1,32 @@
+; CHTDB: ; [ Nuclear Strike (Europe) {SLES-00919} ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+90039D30 00000000
+
+[Infinite Weapons]
+Type = Gameshark
+Activation = EndFrame
+9005A984 00000000
+
+[Infinite Fuel]
+Type = Gameshark
+Activation = EndFrame
+90039998 00000000
+
+[SUPER APACHE\Infinite Armour]
+Type = Gameshark
+Activation = EndFrame
+800F5978 5FFF
+
+[HOVERCRAFT\Infinite Armour]
+Type = Gameshark
+Activation = EndFrame
+800F57D8 5FFF
+
+[HUEY\Infinite Armour]
+Type = Gameshark
+Activation = EndFrame
+800F5B68 5FFF
+

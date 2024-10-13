@@ -1,0 +1,31 @@
+; CHTDB: ; [ The Simpsons Wrestling (Europe) {SLES-03401} ]
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80075FD8 008C
+801B84F0 008C
+
+[P1 Needs only one win]
+Type = Gameshark
+Activation = EndFrame
+D00735AC 0001
+300735AC 0002
+
+[All characters selectable and players can select the same character]
+Type = Gameshark
+Activation = EndFrame
+8002852E 2400
+
+[Unlock All characters]
+Type = Gameshark
+Activation = EndFrame
+50000404 0000
+8006DD2C 0000
+
+[Unlock All circuits]
+Type = Gameshark
+Activation = EndFrame
+50000218 0000
+8006DF44 0001
+

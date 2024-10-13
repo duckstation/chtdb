@@ -1,0 +1,138 @@
+; CHTDB: ; [ Roll Away (USA) (1998) (Psygnosis) {SLUS-00724} <rollaway> ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800A33F8 1250
+800A573C 1250
+
+[Roll Over Gaps]
+Description = Note, if you jump you may still fall and some blocks are completely 3D
+Type = Gameshark
+Activation = EndFrame
+A702F8FA 04411000
+A702F946 04411000
+A70302DA 14401000
+A702F6B2 14401000
+900BA18C 00000000
+
+[Roll Over Spikes]
+Type = Gameshark
+Activation = EndFrame
+A703B036 14621000
+
+[Have All Fruit]
+Type = Gameshark
+Activation = EndFrame
+800A5664 00FF
+
+[Max Score]
+Type = Gameshark
+Activation = EndFrame
+900A53C8 0098967F
+
+[Quick Score Gain]
+Type = Gameshark
+Activation = EndFrame
+800A53C8 FFFF
+
+[Start At Level 151]
+Type = Gameshark
+Activation = EndFrame
+800A3454 0001
+
+[High Score]
+Type = Gameshark
+Activation = EndFrame
+800A5E84 FFFF
+
+[Negative Time In Time Attack]
+Type = Gameshark
+Activation = EndFrame
+800A5584 0000
+
+[Select Ball Type\Type 01 (Default)]
+Type = Gameshark
+Activation = EndFrame
+300A553C 00
+
+[Select Ball Type\Type 02]
+Type = Gameshark
+Activation = EndFrame
+300A553C 01
+
+[Select Ball Type\Type 03]
+Type = Gameshark
+Activation = EndFrame
+300A553C 02
+
+[Select Ball Type\Type 04]
+Type = Gameshark
+Activation = EndFrame
+300A553C 03
+
+[Select Ball Type\Type 05]
+Type = Gameshark
+Activation = EndFrame
+300A553C 04
+
+[Select Ball Type\Type 06]
+Type = Gameshark
+Activation = EndFrame
+300A553C 05
+
+[Select Ball Type\Type 07]
+Type = Gameshark
+Activation = EndFrame
+300A553C 06
+
+[Select Ball Type\Type 08]
+Type = Gameshark
+Activation = EndFrame
+300A553C 07
+
+[Select Ball Type\Type 09]
+Type = Gameshark
+Activation = EndFrame
+300A553C 08
+
+[Select Ball Type\Type 10]
+Type = Gameshark
+Activation = EndFrame
+300A553C 09
+
+[Select Ball Type\Type 11]
+Type = Gameshark
+Activation = EndFrame
+300A553C 0A
+
+[Select Ball Type\Type 12]
+Type = Gameshark
+Activation = EndFrame
+300A553C 0B
+
+[Select Ball Type\Type 13]
+Type = Gameshark
+Activation = EndFrame
+300A553C 0C
+
+[Select Ball Type\Type 14]
+Type = Gameshark
+Activation = EndFrame
+300A553C 0D
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A70A33D8 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A70A33D8 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A70A33D8 10000400
+

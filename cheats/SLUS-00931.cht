@@ -1,0 +1,172 @@
+; CHTDB: ; [ The Flintstones - Bedrock Bowling (USA) (2000) (SouthPeak Interactive) {SLUS-00931} <bedrockb> ]
+
+[P1 Have All Pins Collected]
+Type = Gameshark
+Activation = EndFrame
+3007AF9A 000A
+
+[P1 Have All Gems Collected]
+Type = Gameshark
+Activation = EndFrame
+C207AF9C 0001
+3009A29C 0000
+
+[P1 Have All Dodo Birds Collected]
+Type = Gameshark
+Activation = EndFrame
+3007AF9B 0003
+
+[P1 Quick Max Score]
+Type = Gameshark
+Activation = EndFrame
+8007AF80 FFFF
+
+[P1 Infinite Gutter Ball Tries]
+Type = Gameshark
+Activation = EndFrame
+3007AF98 0001
+
+[P1 Add Time In Bonus Rounds .Press Select]
+Type = Gameshark
+Activation = EndFrame
+D00A5B44 0100
+8009A314 03E7
+
+[P2 Quick Max Score]
+Type = Gameshark
+Activation = EndFrame
+8007AFD0 FFFF
+
+[P2 Infinite Gutter Ball Tries]
+Type = Gameshark
+Activation = EndFrame
+3007AFE8 0001
+
+[P2 Have All Pins Collected]
+Type = Gameshark
+Activation = EndFrame
+3007AFEA 000A
+
+[P2 Have All Dodo Birds Collected]
+Type = Gameshark
+Activation = EndFrame
+3007AFEB 0003
+
+[P2 Have All Gems Collected]
+Type = Gameshark
+Activation = EndFrame
+C207AFEC 0001
+3009A29C 0000
+
+[P3 Quick Max Score]
+Type = Gameshark
+Activation = EndFrame
+8007B020 FFFF
+
+[P3 Infinite Gutter Ball Tries]
+Type = Gameshark
+Activation = EndFrame
+3007B038 0001
+
+[P3 Have All Pins Collected]
+Type = Gameshark
+Activation = EndFrame
+3007B03A 000A
+
+[P3 Have All Dodo Birds Collected]
+Type = Gameshark
+Activation = EndFrame
+3007B03B 0003
+
+[P3 Have All Gems Collected]
+Type = Gameshark
+Activation = EndFrame
+C207B03C 0001
+3009A29C 0000
+
+[P4 Quick Max Score]
+Type = Gameshark
+Activation = EndFrame
+8007B070 FFFF
+
+[P4 Infinite Gutter Ball Tries]
+Type = Gameshark
+Activation = EndFrame
+3007B088 0001
+
+[P4 Have All Pins Collected]
+Type = Gameshark
+Activation = EndFrame
+3007B08A 000A
+
+[P4 Have All Dodo Birds Collected]
+Type = Gameshark
+Activation = EndFrame
+3007B08B 0003
+
+[P4 Have All Gems Collected]
+Type = Gameshark
+Activation = EndFrame
+C207B08C 0001
+3009A29C 0000
+
+[Select Level\Gravel Factory]
+Type = Gameshark
+Activation = EndFrame
+8007B668 0000
+
+[Select Level\Quarry]
+Type = Gameshark
+Activation = EndFrame
+8007B668 0001
+
+[Select Level\Flooded Quarry]
+Type = Gameshark
+Activation = EndFrame
+8007B668 0002
+
+[Select Level\Tar Pits]
+Type = Gameshark
+Activation = EndFrame
+8007B668 0003
+
+[Select Level\Bonus Level - The Rubbles Backyard Pool]
+Type = Gameshark
+Activation = EndFrame
+8007B668 0004
+
+[Select Level\Bedrock Freeway]
+Type = Gameshark
+Activation = EndFrame
+8007B668 0005
+
+[Select Level\Crystal Mine]
+Type = Gameshark
+Activation = EndFrame
+8007B668 0006
+
+[Select Level\Lava]
+Type = Gameshark
+Activation = EndFrame
+8007B668 0007
+
+[Select Level\Rockzilla]
+Type = Gameshark
+Activation = EndFrame
+8007B668 0008
+
+[Select Level\Bonus Lane - Water Buffalo Lodge]
+Type = Gameshark
+Activation = EndFrame
+8007B668 0009
+
+[Select Level\Zetox]
+Type = Gameshark
+Activation = EndFrame
+8007B668 000A
+
+[Select Level\Hidden Lane - Gazoo's Asteroid]
+Type = Gameshark
+Activation = EndFrame
+8007B668 000B
+

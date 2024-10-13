@@ -1,0 +1,12 @@
+; CHTDB: ; [ Frogger (Europe) {SLES-00704} ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+300B6BE8 0063
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800B3D90 0900
+

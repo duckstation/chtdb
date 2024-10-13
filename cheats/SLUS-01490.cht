@@ -1,0 +1,30 @@
+; CHTDB: ; [ Monster Bass (USA) (2002) (XS Games) {SLUS-01490} <monstbas> ]
+
+[Increase Time - Press L1,L2,R1 +R2]
+Type = Gameshark
+Activation = EndFrame
+D008E6FA F0FF
+900F03D8 1E001E00
+
+[No Line Stress]
+Type = Gameshark
+Activation = EndFrame
+800F03C0 0000
+
+[Max Fish + Weight]
+Type = Gameshark
+Activation = EndFrame
+800EF19C 0FFF
+
+[Fast Reel - Press X + R2 (You need to press a few times for it to work)]
+Type = Gameshark
+Activation = EndFrame
+D008E6FA BDFF
+800F03D0 0000
+
+[99 Fish Caught With All Lure]
+Type = Gameshark
+Activation = EndFrame
+50001B01 0000
+3007CBD7 0063
+

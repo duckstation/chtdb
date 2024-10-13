@@ -1,0 +1,132 @@
+; CHTDB: ; [ Xena: Warrior Princess (Germany) {SLES-02267} ]
+
+[Besitze Gesundheitsampullen]
+Type = Gameshark
+Activation = EndFrame
+800FBD18 0001
+
+[Besitze Homing Chakram]
+Type = Gameshark
+Activation = EndFrame
+800FBD60 0001
+
+[Besitze Feuerwaffe]
+Type = Gameshark
+Activation = EndFrame
+800FBD84 0001
+
+[Besitze Unverwundbarkeit]
+Type = Gameshark
+Activation = EndFrame
+800FBDA8 0001
+
+[Besitze Eiswaffe]
+Type = Gameshark
+Activation = EndFrame
+800FBDCC 0001
+
+[Besitze Harfe]
+Type = Gameshark
+Activation = EndFrame
+800FBDF0 0001
+
+[Besitze Auferstehung]
+Type = Gameshark
+Activation = EndFrame
+300F23A4 0001
+
+[Besitze SchlüSsel]
+Type = Gameshark
+Activation = EndFrame
+300F23A5 0001
+
+[Max Gesundheitsampullen]
+Type = Gameshark
+Activation = EndFrame
+300F23A6 00FF
+
+[Max Blitzwaffe]
+Type = Gameshark
+Activation = EndFrame
+300F23A7 00FF
+
+[Max Homing Chakram]
+Type = Gameshark
+Activation = EndFrame
+300F23A8 00FF
+
+[Max Feuerwaffe]
+Type = Gameshark
+Activation = EndFrame
+300F23A9 00FF
+
+[Max Unverwundbarkeit]
+Type = Gameshark
+Activation = EndFrame
+300F23AA 00FF
+
+[Max Eiwswaffe]
+Type = Gameshark
+Activation = EndFrame
+300F23AB 00FF
+
+[Max Harfe]
+Type = Gameshark
+Activation = EndFrame
+300F23AC 00FF
+
+[Max RüStungs-Upgrade]
+Type = Gameshark
+Activation = EndFrame
+300F23AD 0063
+
+[Max Schwert-Upgrade]
+Type = Gameshark
+Activation = EndFrame
+300F23AE 0063
+
+[Max Scrolls]
+Type = Gameshark
+Activation = EndFrame
+300F23A2 0063
+
+[Max Chakram]
+Type = Gameshark
+Activation = EndFrame
+300F0D7D 0064
+
+[Super Xena]
+Type = Gameshark
+Activation = EndFrame
+800F0D7E 02F5
+
+[Keine Feinde]
+Type = Gameshark
+Activation = EndFrame
+300F239C 00FF
+
+[Alle Geiseln Befreit]
+Type = Gameshark
+Activation = EndFrame
+300F239E 00FF
+
+[255 Kills]
+Type = Gameshark
+Activation = EndFrame
+300F239D 00FF
+
+[255 Geiseln Befreit]
+Type = Gameshark
+Activation = EndFrame
+300F239F 00FF
+
+[255 GegenstäNde]
+Type = Gameshark
+Activation = EndFrame
+800F23A0 FFFF
+
+[42 Scrolls]
+Type = Gameshark
+Activation = EndFrame
+300F23A3 002A
+

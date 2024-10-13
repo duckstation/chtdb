@@ -1,0 +1,19 @@
+; CHTDB: ; [ Medal of Honor: Underground (Euro) (2000) (Electronic Arts) {SLES-03124, SLES-03124/P} <mhonrunde> ]
+
+[Infinite Health all levels]
+Type = Gameshark
+Activation = EndFrame
+A704E166 AE022400
+A705B14A 8C822400
+
+[Invincibility all levels]
+Type = Gameshark
+Activation = EndFrame
+A704E15C 10232400
+A705B14A 8C822400
+
+[Open all cheats]
+Type = Gameshark
+Activation = EndFrame
+80039D24 FFFF
+

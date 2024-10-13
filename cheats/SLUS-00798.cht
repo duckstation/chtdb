@@ -1,0 +1,24 @@
+; CHTDB: ; [ G-Police - Weapons of Justice (USA) (1999) (Psygnosis) {SLUS-00798} <gpolwoj> ]
+
+[Unlock All Missions]
+Type = Gameshark
+Activation = EndFrame
+800402A4 1F1F
+300402A6 001F
+
+[All Database Features Opened]
+Type = Gameshark
+Activation = EndFrame
+50002002 0000
+8004025C FFFF
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+83F72423 0007
+
+[Infinite Ammo And Weapons]
+Type = Gameshark
+Activation = EndFrame
+83F70E7F 0007
+

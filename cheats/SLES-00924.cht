@@ -1,0 +1,44 @@
+; CHTDB: ; [ ReBoot (Germany) {SLES-00924} ]
+
+[Section 1+3 Unendlich Gesundheit]
+Type = Gameshark
+Activation = EndFrame
+80108C1E 03E8
+
+[Section 1+3 Unendlich Leben]
+Type = Gameshark
+Activation = EndFrame
+80114CC8 0005
+
+[Section 1+3 Unendlich Waffenenergie]
+Type = Gameshark
+Activation = EndFrame
+80114AF4 0064
+80114F14 0064
+
+[Section 1+3 Unendlich Zeit]
+Type = Gameshark
+Activation = EndFrame
+80114F50 1518
+
+[Section 2 + 4 Unendlich Gesundheit]
+Type = Gameshark
+Activation = EndFrame
+80107F2A 03E8
+
+[Section 2 + 4 Unendlich Leben]
+Type = Gameshark
+Activation = EndFrame
+80113E00 0005
+
+[Section 2 + 4 Unendlich Waffenenergie]
+Type = Gameshark
+Activation = EndFrame
+8011404C 0064
+80113CCC 0F0F
+
+[Section 2 + 4 Unendlich Zeit]
+Type = Gameshark
+Activation = EndFrame
+80114088 1518
+

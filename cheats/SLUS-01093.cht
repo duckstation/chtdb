@@ -1,0 +1,30 @@
+; CHTDB: ; [ SnoCross Championship Racing (USA) (2000) (Crave Entertainment) {SLUS-01093} <snocross> ]
+
+[Max Cash]
+Type = Gameshark
+Activation = EndFrame
+801FB776 00FF
+
+[Max Championship Points]
+Type = Gameshark
+Activation = EndFrame
+301FB770 00FF
+
+[Start On Last Lap/Place 1st]
+Type = Gameshark
+Activation = EndFrame
+E012DCFA 0000
+3012DCFA 0002
+E012DCFA 0000
+3012DCFB 0000
+
+[Unlock Everything]
+Type = Gameshark
+Activation = EndFrame
+301FB1FC 0007
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+8012DF84 1333
+

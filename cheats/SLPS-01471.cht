@@ -1,0 +1,61 @@
+; CHTDB: ; [ Goujin Senki (Japan) {SLPS-01471} ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+90178D48 0098967F
+
+[Main character HP 999/999 / Stats 99]
+Type = Gameshark
+Activation = EndFrame
+90177F04 03E703E7
+80177F08 6363
+80177F18 6363
+80177F16 6363
+8017888E 6363
+
+[Level 99-12 Character]
+Type = Gameshark
+Activation = EndFrame
+50000C1E 0000
+8017888E 6363
+
+[Infinite Hp-12 Character]
+Type = Gameshark
+Activation = EndFrame
+50000C2C 0000
+80177F04 03E7
+
+[Max Hp-12 Character]
+Type = Gameshark
+Activation = EndFrame
+50000C2C 0000
+80177F06 03E7
+
+[Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+50000C2C 0000
+80177F18 6363
+
+[Money 99999999]
+Type = Gameshark
+Activation = EndFrame
+90178D48 05F5E0FF
+
+[Blow deadly attack]
+Type = Gameshark
+Activation = EndFrame
+D00C72F0 0101
+80030930 0004
+D00C72F0 0101
+80030932 A440
+D00C72F0 0102
+80030930 0000
+D00C72F0 0102
+80030932 0000
+D00C72F0 0103
+80030930 0004
+D00C72F0 0103
+80030932 A451
+

@@ -1,0 +1,314 @@
+; CHTDB: ; [ Need for Speed: Road Challenge (Europe) {SLES-01788} ]
+
+[99999999 Credits]
+Type = Gameshark
+Activation = EndFrame
+90115DD0 05F5E0FF
+
+[Infinite Time In Pursuit Mode Change view to activate]
+Type = Gameshark
+Activation = EndFrame
+D011060C 0006
+8005E1EE 2400
+
+[Turbo Acceleration Mode]
+Type = Gameshark
+Activation = EndFrame
+801C1AD6 0001
+
+[Unlock Mercedes Clk-Gtr & Mclaren F1 Gtr]
+Type = Gameshark
+Activation = EndFrame
+8011576E 0101
+
+[Have Porsche 911 (Racer)]
+Type = Gameshark
+Activation = EndFrame
+30115770 0001
+301157A0 0001
+
+[Have Corvette (Racer)]
+Type = Gameshark
+Activation = EndFrame
+30115772 0001
+301157A2 0001
+
+[Have Corvette (Cop Car)]
+Type = Gameshark
+Activation = EndFrame
+80115778 0101
+801157A8 0101
+
+[Have Phantom Car]
+Type = Gameshark
+Activation = EndFrame
+30115773 0001
+301157A3 0001
+
+[Have Titan Car]
+Type = Gameshark
+Activation = EndFrame
+30115774 0001
+301157A4 0001
+
+[Have Porsche 911 Copcar]
+Type = Gameshark
+Activation = EndFrame
+3011577A 0001
+301157AA 0001
+
+[Lamborghini Diablo Copcar]
+Type = Gameshark
+Activation = EndFrame
+3011577B 0001
+301157AB 0001
+
+[Have Helicopter]
+Type = Gameshark
+Activation = EndFrame
+3011577C 0001
+301157AC 0001
+
+[Have Access To Kindiak Park Track Canada]
+Type = Gameshark
+Activation = EndFrame
+80115D4C 0001
+
+[Have Access To Celtic Ruins Track Great Britain]
+Type = Gameshark
+Activation = EndFrame
+80115D50 0001
+
+[Have Access To Dolphin Cove Track Usa]
+Type = Gameshark
+Activation = EndFrame
+80115D44 0001
+
+[Have Access To Snowy Ridgetrack Usa]
+Type = Gameshark
+Activation = EndFrame
+80115D3C 0001
+
+[Have Access To Raceway Track Italy]
+Type = Gameshark
+Activation = EndFrame
+80115D60 0001
+
+[Have Access To Raceway 2 Track Usa]
+Type = Gameshark
+Activation = EndFrame
+80115D5C 0001
+
+[Have Access To Raceway 3 Track Spain]
+Type = Gameshark
+Activation = EndFrame
+80115D64 0001
+
+[No Entrance-Stake Weekend Road Racing Classics]
+Type = Gameshark
+Activation = EndFrame
+80150E7C 0000
+
+[No Entrance-Stake Twilight Open Series]
+Type = Gameshark
+Activation = EndFrame
+80150ED0 0000
+
+[No Entrance-Stake International Open Road Tour]
+Type = Gameshark
+Activation = EndFrame
+80150F24 0000
+
+[No Entrance-Stake Knockout Challenge]
+Type = Gameshark
+Activation = EndFrame
+80150F78 0000
+
+[No Entrance-Stake Corvette Pro Cup]
+Type = Gameshark
+Activation = EndFrame
+80150FCC 0000
+
+[No Entrance-Stake Porsche Pro Cup]
+Type = Gameshark
+Activation = EndFrame
+80151020 0000
+
+[No Entrance-Stake Open Road Knockout Challenge]
+Type = Gameshark
+Activation = EndFrame
+80151074 0000
+
+[No Entrance-Stake Endurance Racing Competition]
+Type = Gameshark
+Activation = EndFrame
+901510C8 00000000
+
+[Racing Clockwise]
+Type = Gameshark
+Activation = EndFrame
+8017F340 0003
+
+[Racing Counter-Clockwise]
+Type = Gameshark
+Activation = EndFrame
+8017F340 0103
+
+[Mirrored Mode On]
+Type = Gameshark
+Activation = EndFrame
+8017F342 0001
+
+[Mirrored Mode Off]
+Type = Gameshark
+Activation = EndFrame
+8017F342 0000
+
+[1.000.000 Credits For Driving Safely]
+Type = Gameshark
+Activation = EndFrame
+9017FB58 000F4240
+
+[1.000.000 Credits Reward]
+Type = Gameshark
+Activation = EndFrame
+90180A14 000F4240
+
+[Solo, Tournament & Special Races\P1 Always Max Wins (High Stakes)]
+Type = Gameshark
+Activation = EndFrame
+3011592C 000F
+
+[Solo, Tournament & Special Races\P2 Always Max Wins (High Stakes)]
+Type = Gameshark
+Activation = EndFrame
+3011592D 000F
+
+[Solo, Tournament & Special Races\Get 100 Racing Points]
+Type = Gameshark
+Activation = EndFrame
+80115EE0 0064
+
+[Solo, Tournament & Special Races\Place 1st]
+Type = Gameshark
+Activation = EndFrame
+80110EB8 0001
+80113A68 0001
+80115EE2 0001
+
+[Solo, Tournament & Special Races\No Opponents]
+Type = Gameshark
+Activation = EndFrame
+8011489C 0001
+80115DCC 0001
+8011881C 0001
+8013DB1C 0001
+8013DB24 0001
+
+[Solo, Tournament & Special Races\No Repair Costs]
+Type = Gameshark
+Activation = EndFrame
+80180A18 0000
+
+[Trophy Room - Have Gold Trophies\Worldwide Roadster Classic]
+Type = Gameshark
+Activation = EndFrame
+30115FAD 0001
+
+[Trophy Room - Have Gold Trophies\Regional Club Circuit]
+Type = Gameshark
+Activation = EndFrame
+30115FAE 0001
+
+[Trophy Room - Have Gold Trophies\Super Sedan Challenge]
+Type = Gameshark
+Activation = EndFrame
+30115FAF 0001
+
+[Trophy Room - Have Gold Trophies\Grand Touring Competition]
+Type = Gameshark
+Activation = EndFrame
+30115FB0 0001
+
+[Trophy Room - Have Gold Trophies\International Supercar Series]
+Type = Gameshark
+Activation = EndFrame
+30115FB1 0001
+
+[Trophy Room - Have Gold Trophies\Gt Racing Championship]
+Type = Gameshark
+Activation = EndFrame
+30115FB2 0001
+
+[Trophy Room - Have Gold Trophies\Weekend Road Racing Classic]
+Type = Gameshark
+Activation = EndFrame
+30115FB3 0001
+
+[Trophy Room - Have Gold Trophies\Twilight Open Series]
+Type = Gameshark
+Activation = EndFrame
+30115FB4 0001
+
+[Trophy Room - Have Gold Trophies\International Open Road Tour]
+Type = Gameshark
+Activation = EndFrame
+30115FB5 0001
+
+[Trophy Room - Have Gold Trophies\Knockout Challenge]
+Type = Gameshark
+Activation = EndFrame
+30115FB6 0001
+
+[Trophy Room - Have Gold Trophies\Corvette Pro Cup]
+Type = Gameshark
+Activation = EndFrame
+30115FB7 0001
+
+[Trophy Room - Have Gold Trophies\Porsche Pro Cup]
+Type = Gameshark
+Activation = EndFrame
+30115FB8 0001
+
+[Trophy Room - Have Gold Trophies\Endurance Racing Competition]
+Type = Gameshark
+Activation = EndFrame
+30115FB9 0001
+
+[Trophy Room - Have Gold Trophies\Open Road Knockout Challenge]
+Type = Gameshark
+Activation = EndFrame
+30115FBB 0001
+
+[Trophy Room - Have Gold Trophies\Have All Gold Trophies (Replaces The Other Codes)]
+Type = Gameshark
+Activation = EndFrame
+50000D01 0000
+30115FAD 0001
+30115FBB 0001
+
+[Don't Drive Drunk-Mode]
+Type = Gameshark
+Activation = EndFrame
+8013E6D8 002F
+
+[Really, Don't Drive Drunk-Mode]
+Type = Gameshark
+Activation = EndFrame
+8013E6D8 001F
+
+[Dashboard View]
+Type = Gameshark
+Activation = EndFrame
+80114948 0001
+
+[Heavy Car]
+Type = Gameshark
+Activation = EndFrame
+801144B0 0002
+
+[Light Car]
+Type = Gameshark
+Activation = EndFrame
+801144B0 0004
+

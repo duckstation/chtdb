@@ -1,0 +1,58 @@
+; CHTDB: ; [ Batman & Robin (USA) (1998) (Acclaim Entertainment) {SLUS-00393} <batnrob> ]
+
+[Infinite Health All Characters]
+Type = Gameshark
+Activation = EndFrame
+8009A9F8 0000
+
+[Infinite Coins]
+Type = Gameshark
+Activation = EndFrame
+300D291A 0064
+
+[Infinite Batteries]
+Type = Gameshark
+Activation = EndFrame
+300D291B 0064
+
+[Select Cheat\Invincibility]
+Type = Gameshark
+Activation = EndFrame
+81069D7C 0001
+
+[Select Cheat\First Person view]
+Type = Gameshark
+Activation = EndFrame
+81069D7C 0002
+
+[Select Cheat\Give clues]
+Type = Gameshark
+Activation = EndFrame
+81069D7C 0004
+
+[Select Cheat\Level Select]
+Description = Pause game for it; X and Triangle to toggle it; press Start to load level; L1 to increase milliseconds; L2 to increase seconds
+Type = Gameshark
+Activation = EndFrame
+81069D7C 0008
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A7061B60 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A7061B60 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A7061B60 10000400
+
+[Widescreen 16-9 (Vert-)]
+Type = Gameshark
+Activation = EndFrame
+80061B64 1555
+

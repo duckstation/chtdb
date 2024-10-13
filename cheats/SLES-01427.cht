@@ -1,0 +1,22 @@
+; CHTDB: ; [ Madden NFL 99 (Europe) {SLES-01427} ]
+
+[Select Home Team Score\9]
+Type = Gameshark
+Activation = EndFrame
+8006A3BE 0009
+
+[Select Home Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+8006A3BE 0000
+
+[Select Away Team Score\9]
+Type = Gameshark
+Activation = EndFrame
+8006CE7E 0009
+
+[Select Away Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+8006CE7E 0000
+

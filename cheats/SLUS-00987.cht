@@ -1,0 +1,28 @@
+; CHTDB: ; [ International Track & Field 2000 (USA) (1999) (Konami of America) {SLUS-00987} <itf2k> ]
+
+[Arcade Mode Events Always Unlocked]
+Type = Gameshark
+Activation = EndFrame
+800A6DF4 0000
+
+[Arcade Mode P1 Max Score T]
+Type = Gameshark
+Activation = EndFrame
+800A699C FFFF
+
+[Hammer Throw P1 Always Throw for Max Distance]
+Type = Gameshark
+Activation = EndFrame
+900C8DC8 0098967F
+800C8DE4 0001
+
+[Long Jump P1 Always First Attempt]
+Type = Gameshark
+Activation = EndFrame
+A60A6828 00010000
+
+[P1 Max Weight On First Attempt]
+Type = Gameshark
+Activation = EndFrame
+900C4964 0098967F
+

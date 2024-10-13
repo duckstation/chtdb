@@ -1,0 +1,336 @@
+; CHTDB: ; [ Metal Gear Solid: Special Missions (Euro) (1999) (Konami of Europe) {SLES-02136} <mgssm> ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800B757E 0600
+800B7580 0600
+
+[Never Get A Cold]
+Type = Gameshark
+Activation = EndFrame
+800B7582 0000
+
+[Infinite Air]
+Type = Gameshark
+Activation = EndFrame
+800ACAAC 03E7
+
+[Radar Not Jammed When Spotted]
+Type = Gameshark
+Activation = EndFrame
+800ACA78 0000
+
+[Never Reload]
+Type = Gameshark
+Activation = EndFrame
+800ACA64 0019
+
+[Never Have Time Bomb In Pocket]
+Type = Gameshark
+Activation = EndFrame
+800B5E7E 0000
+
+[Ghost Mode]
+Type = Gameshark
+Activation = EndFrame
+900ACA88 00000000
+
+[Have Cigs]
+Type = Gameshark
+Activation = EndFrame
+800B5E5A 0001
+
+[Have Scope]
+Type = Gameshark
+Activation = EndFrame
+800B5E5C 0001
+
+[Have C. Box A]
+Type = Gameshark
+Activation = EndFrame
+800B5E5E 0001
+
+[Have C. Box B]
+Type = Gameshark
+Activation = EndFrame
+800B5E60 0001
+
+[Have C. Box c]
+Type = Gameshark
+Activation = EndFrame
+800B5E62 0001
+
+[Have Night Vision Goggles]
+Type = Gameshark
+Activation = EndFrame
+800B5E64 0001
+
+[Have Thermal Goggles]
+Type = Gameshark
+Activation = EndFrame
+800B5E66 0001
+
+[Have Gas Mask]
+Type = Gameshark
+Activation = EndFrame
+800B5E68 0001
+
+[Have Body Armor]
+Type = Gameshark
+Activation = EndFrame
+800B5E6A 0001
+
+[Have Ketchup]
+Type = Gameshark
+Activation = EndFrame
+800B5E6C 0001
+
+[Have Stealth]
+Type = Gameshark
+Activation = EndFrame
+800B5E6E 0001
+
+[Have Bandana]
+Type = Gameshark
+Activation = EndFrame
+800B5E70 0001
+
+[Have Camera]
+Type = Gameshark
+Activation = EndFrame
+800B5E72 0001
+
+[Have 255 Rations]
+Type = Gameshark
+Activation = EndFrame
+800B5E74 03E7
+800B5E8A 03E7
+
+[Have 255 Medicine]
+Type = Gameshark
+Activation = EndFrame
+800B5E76 03E7
+800B5E8C 03E7
+
+[Have 255 Diazepam]
+Type = Gameshark
+Activation = EndFrame
+800B5E78 03E7
+800B5E8E 03E7
+
+[Have Pal-Key]
+Type = Gameshark
+Activation = EndFrame
+800B5E7A 0001
+
+[Have Level 100 Key Card]
+Type = Gameshark
+Activation = EndFrame
+800B5E7C 0064
+
+[Have Mine Detector]
+Type = Gameshark
+Activation = EndFrame
+800B5E80 0001
+
+[Have Mo-Disc]
+Type = Gameshark
+Activation = EndFrame
+800B5E82 0001
+
+[Have Rope]
+Type = Gameshark
+Activation = EndFrame
+800B5E84 0001
+
+[Have Handker]
+Type = Gameshark
+Activation = EndFrame
+800B5E86 0001
+
+[Have Suppressor Active]
+Type = Gameshark
+Activation = EndFrame
+800B5E88 0000
+
+[Have All Items (Replaces Above Item-Codes)Press L2]
+Type = Gameshark
+Activation = EndFrame
+D00AC9CC 0001
+50001202 0000
+800B5E5A 0001
+D00AC9CC 0001
+50000502 0000
+800B5E80 0001
+
+[Have Socom Pistol]
+Type = Gameshark
+Activation = EndFrame
+800B5E32 03E7
+800B5E46 03E7
+
+[Have Famas]
+Type = Gameshark
+Activation = EndFrame
+800B5E34 03E7
+800B5E48 03E7
+
+[Have Grenades]
+Type = Gameshark
+Activation = EndFrame
+800B5E36 03E7
+800B5E4A 03E7
+
+[Have Nikita]
+Type = Gameshark
+Activation = EndFrame
+800B5E38 03E7
+800B5E4C 03E7
+
+[Have Stinger]
+Type = Gameshark
+Activation = EndFrame
+800B5E3A 03E7
+800B5E4E 03E7
+
+[Have Claymore Mines]
+Type = Gameshark
+Activation = EndFrame
+800B5E3C 03E7
+800B5E50 03E7
+
+[Have C4]
+Type = Gameshark
+Activation = EndFrame
+800B5E3E 03E7
+800B5E52 03E7
+
+[Have Stun-Grenades]
+Type = Gameshark
+Activation = EndFrame
+800B5E40 03E7
+800B5E54 03E7
+
+[Have Chaff Grenades]
+Type = Gameshark
+Activation = EndFrame
+800B5E42 03E7
+800B5E56 03E7
+
+[Have Sniper Rifle]
+Type = Gameshark
+Activation = EndFrame
+800B5E44 03E7
+800B5E58 03E7
+
+[Have Alle Weapons & Ammo Press R2 Use this code or the specified weapon/ammo codes.]
+Type = Gameshark
+Activation = EndFrame
+D00AC9CC 0002
+50001402 0000
+800B5E32 03E7
+
+[Special Mode Codes\All Missions Open]
+Type = Gameshark
+Activation = EndFrame
+800E58FC FFFF
+
+[Special Mode Codes\Vs. 12 Battle All Levels Open & Complete]
+Type = Gameshark
+Activation = EndFrame
+800E58FE FFFF
+800E5900 FFFF
+
+[Special Mode Codes\Ninja All Levels Open & Complete]
+Type = Gameshark
+Activation = EndFrame
+900E589C FFFFFFFF
+
+[Special Mode Codes\Ng Selection All Levels Open & Complete]
+Type = Gameshark
+Activation = EndFrame
+800E587E FFFF
+800E5880 FFFF
+
+[Special Mode Codes\Variety All Levels Open & Complete]
+Type = Gameshark
+Activation = EndFrame
+800E591A FFFF
+800E591C FFFF
+
+[Special Mode Codes\Puzzle All Levels Open & Complete]
+Type = Gameshark
+Activation = EndFrame
+800E593A FFFF
+800E593C FFFF
+
+[Special Mode Codes\Mystery All Levels Open & Complete]
+Type = Gameshark
+Activation = EndFrame
+800E594E FFFF
+800E5950 FFFF
+
+[Special Mode Codes\Vr Mission Complete]
+Type = Gameshark
+Activation = EndFrame
+800E5930 1000
+
+[1 Min. Battle Codes\Vs. Target All Levels Open & Complete]
+Type = Gameshark
+Activation = EndFrame
+900E5884 FFFFFFFF
+
+[1 Min. Battle Codes\Vs. Enemy All Levels Open & Complete]
+Type = Gameshark
+Activation = EndFrame
+900E586C FFFFFFFF
+
+[Sneak Mode - No Weapons\Practice All Levels Opened]
+Type = Gameshark
+Activation = EndFrame
+800E5830 FFFE
+
+[Sneak Mode - No Weapons\Time Attack All Levels Opened]
+Type = Gameshark
+Activation = EndFrame
+800E5848 FFFE
+
+[Sneak Mode - Socom\Practice All Levels Opened]
+Type = Gameshark
+Activation = EndFrame
+800E5800 FFFE
+
+[Sneak Mode - Socom\Time Attack All Levels Opened]
+Type = Gameshark
+Activation = EndFrame
+800E5818 FFFE
+
+[Weapon Mode - Time Attack\All Weapons, All Levels Opened]
+Type = Gameshark
+Activation = EndFrame
+800E581A 8FE0
+900E581C F0F83E0F
+900E5820 F83E0F8F
+
+[Weapon Mode - Practice\All Weapons, All Levels Opened]
+Type = Gameshark
+Activation = EndFrame
+800E5802 8FE0
+900E5804 F0F83E0F
+900E5808 F83E0F8F
+
+[Advanced Mode - Time Attack\All Weapons, All Levels Opened]
+Type = Gameshark
+Activation = EndFrame
+800E584A 8FE0
+900E584C F0F83E0F
+900E5850 F83E0F8F
+
+[Advanced Mode - Practice\All Weapons, All Levels Opened]
+Type = Gameshark
+Activation = EndFrame
+800E5832 8FE0
+900E5834 F0F83E0F
+900E5838 F83E0F8F
+

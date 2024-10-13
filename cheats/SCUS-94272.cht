@@ -1,0 +1,58 @@
+; CHTDB: ; [ Running Wild (USA) (1998) (989 Studios) {SCUS-94272} <runwild> ]
+
+[Always Place 1st]
+Type = Gameshark
+Activation = EndFrame
+8002864A 2402
+
+[Have All Secrets]
+Type = Gameshark
+Activation = EndFrame
+800CC69C FFFF
+
+[Extra Tracks-Play Expert]
+Type = Gameshark
+Activation = EndFrame
+800C8F20 0004
+
+[Select Play Difficulty\Medium Difficulty]
+Type = Gameshark
+Activation = EndFrame
+800CC698 0001
+
+[Select Play Difficulty\Hard Difficulty]
+Type = Gameshark
+Activation = EndFrame
+800CC698 0004
+
+[Select Play Difficulty\Expert Difficulty]
+Type = Gameshark
+Activation = EndFrame
+800CC698 000F
+
+[Widescreen 16-9 (1P & Main Menu)]
+Type = Gameshark
+Activation = EndFrame
+800C7E6C 1333
+800C815C 1333
+
+[Widescreen 16-9 (2P Only)]
+Type = Gameshark
+Activation = EndFrame
+800C80A0 0CD0
+800C7DB0 0CD0
+800C7E6C 0CD0
+800C815C 0CD0
+
+[Widescreen 16-9 (3P & 4P Only)]
+Type = Gameshark
+Activation = EndFrame
+800C7C38 0990
+800C7F28 0990
+800C7CF4 0990
+800C7FE4 0990
+800C7DB0 0990
+800C80A0 0990
+800C7E6C 0990
+800C815C 0990
+

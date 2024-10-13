@@ -1,0 +1,12 @@
+; CHTDB: ; [ Tekken (Europe) {SCES-00005} ]
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80173AAA 0080
+
+[P2 No health]
+Type = Gameshark
+Activation = EndFrame
+80174A6E 0000
+

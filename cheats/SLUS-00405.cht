@@ -1,0 +1,39 @@
+; CHTDB: ; [ Time Crisis (USA) (1997) (Namco Hometek) {SLUS-00405} <timecris> ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800B20C0 0005
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800B1DF8 0000
+800B1D64 0352
+
+[Infinite Bullets]
+Type = Gameshark
+Activation = EndFrame
+800B1DDC 0006
+
+[Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+800B1D5C 0009
+
+[Auto Reload On]
+Type = Gameshark
+Activation = EndFrame
+30109ED3 0001
+
+[Cheat Menu (Press Select)]
+Type = Gameshark
+Activation = EndFrame
+D010C426 FFFE
+800C37C8 0004
+
+[No Gun Flash]
+Type = Gameshark
+Activation = EndFrame
+A70137F6 10401000
+

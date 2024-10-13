@@ -1,0 +1,22 @@
+; CHTDB: ; [ Cleopatra's Fortune (USA) (2003) (Mud Duck Productions) {SLUS-01491} <cleopatr> ]
+
+[Quick Score Gain]
+Type = Gameshark
+Activation = EndFrame
+80140C64 FFFF
+
+[Max Score]
+Type = Gameshark
+Activation = EndFrame
+90140C64 05F5E0FF
+
+[Max Blocks]
+Type = Gameshark
+Activation = EndFrame
+80140C6C 270F
+
+[Max Level]
+Type = Gameshark
+Activation = EndFrame
+80113FA4 0063
+

@@ -1,0 +1,52 @@
+; CHTDB: ; [ Army Men - World War - Team Assault (USA) (2001) (The 3DO Company) {SLUS-01435} <amentass> ]
+
+[Infinite Health-Character 1]
+Type = Gameshark
+Activation = EndFrame
+90072B64 0801CC9E
+
+[Infinite Health-Character 2]
+Type = Gameshark
+Activation = EndFrame
+90072B80 0801CC9E
+
+[Infinite Rifle]
+Type = Gameshark
+Activation = EndFrame
+30110A4C 00C8
+
+[Infinite Grenades]
+Type = Gameshark
+Activation = EndFrame
+30110A4D 000A
+
+[Infinite Mortar]
+Type = Gameshark
+Activation = EndFrame
+30110A4E 000A
+
+[Infinite Rockets]
+Type = Gameshark
+Activation = EndFrame
+30110A4F 000A
+
+[Infinite Ammo Assualt Rifle]
+Type = Gameshark
+Activation = EndFrame
+30110A50 00C8
+
+[Infinite FlameThrower]
+Type = Gameshark
+Activation = EndFrame
+30110A51 00C8
+
+[Infinite Dynamite]
+Type = Gameshark
+Activation = EndFrame
+30110A52 0009
+
+[Infinite Mines]
+Type = Gameshark
+Activation = EndFrame
+30110A53 0009
+

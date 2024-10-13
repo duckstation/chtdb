@@ -1,0 +1,46 @@
+; CHTDB: ; [ Hot Wheels: Turbo Racing (Europe) {SLES-02198} ]
+
+[Max score (Cup-mode)]
+Type = Gameshark
+Activation = EndFrame
+3013C270 00FF
+
+[Unlock All Tracks]
+Type = Gameshark
+Activation = EndFrame
+3013C269 000F
+
+[Infinite Turbos]
+Type = Gameshark
+Activation = EndFrame
+3012B36C 0009
+
+[All Cars]
+Type = Gameshark
+Activation = EndFrame
+50000302 FFFF
+8013C260 0000
+
+[Unlock All Cars]
+Type = Gameshark
+Activation = EndFrame
+50000302 FFFF
+8013C320 0000
+
+[Indestructible]
+Type = Gameshark
+Activation = EndFrame
+D011CDD4 FFFE
+3012BD4E 0001
+
+[Start in lap 4 (Press L1 & R1)]
+Type = Gameshark
+Activation = EndFrame
+D011CDD4 F3FF
+3012BA08 0003
+
+[Start in lap 4]
+Type = Gameshark
+Activation = EndFrame
+3012BA08 0003
+

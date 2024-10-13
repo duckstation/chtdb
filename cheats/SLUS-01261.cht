@@ -1,0 +1,22 @@
+; CHTDB: ; [ Pro Pinball - Fantastic Journey (USA) (2000) (Empire Interactive Entertainment) {SLUS-01261} <ppinfntj> ]
+
+[P1 Infinite Balls]
+Type = Gameshark
+Activation = EndFrame
+8008FC28 0001
+
+[P2 Infinite Balls]
+Type = Gameshark
+Activation = EndFrame
+8008FCEC 0001
+
+[P3 Infinite Balls]
+Type = Gameshark
+Activation = EndFrame
+8008FDB0 0001
+
+[P4 Infinite Balls]
+Type = Gameshark
+Activation = EndFrame
+8008FE74 0001
+

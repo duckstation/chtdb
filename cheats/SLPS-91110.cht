@@ -1,0 +1,32 @@
+; CHTDB: ; [ Armored Core: Project Phantasma (Japan) (PlayStation the Best, PSone Books) {SLPS-91110} ]
+
+[Infinite Mission Timer]
+Type = Gameshark
+Activation = EndFrame
+801A1694 0F80
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801A4980 8300
+
+[Infinite Jet Packs]
+Type = Gameshark
+Activation = EndFrame
+80041A26 6D60
+
+[Infinite Rifle]
+Type = Gameshark
+Activation = EndFrame
+80041CF8 00C8
+
+[Infinite Small Missiles]
+Type = Gameshark
+Activation = EndFrame
+80041D36 0028
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+9003A634 50F5E0FF
+

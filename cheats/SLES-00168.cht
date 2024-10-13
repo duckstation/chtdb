@@ -1,0 +1,83 @@
+; CHTDB: ; [ PO'ed (Europe) {SLES-00168} ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8008D370 0066
+
+[Have Jetpack]
+Type = Gameshark
+Activation = EndFrame
+8008D378 0032
+8008D440 0100
+
+[Have Butcher Knife]
+Type = Gameshark
+Activation = EndFrame
+8008D388 0101
+
+[Have Drill]
+Type = Gameshark
+Activation = EndFrame
+8008D38A 0101
+
+[Have Missile-Cam]
+Type = Gameshark
+Activation = EndFrame
+8008D392 0001
+
+[Have Pulsegun]
+Type = Gameshark
+Activation = EndFrame
+3008D390 0001
+
+[Have Bfd 90]
+Type = Gameshark
+Activation = EndFrame
+3008D38C 0001
+
+[Infinite Ammo Pulse/Bfd 90]
+Type = Gameshark
+Activation = EndFrame
+8008D374 0064
+
+[Have Flamethrower]
+Type = Gameshark
+Activation = EndFrame
+3008D38D 0001
+
+[Infinite Flamer Ammo]
+Type = Gameshark
+Activation = EndFrame
+8008D378 03E7
+
+[Have Meatseeker]
+Type = Gameshark
+Activation = EndFrame
+3008D391 0001
+
+[Infinite Meatseeker Meat]
+Type = Gameshark
+Activation = EndFrame
+8008D380 03E7
+
+[Have Wailer]
+Type = Gameshark
+Activation = EndFrame
+3008D38E 0001
+
+[Infinite Wailer Ammo]
+Type = Gameshark
+Activation = EndFrame
+8008D37C 03E7
+
+[Have Rocket Launcher]
+Type = Gameshark
+Activation = EndFrame
+3008D38F 0001
+
+[Infinite Rockets]
+Type = Gameshark
+Activation = EndFrame
+8008D384 03E7
+

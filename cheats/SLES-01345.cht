@@ -1,0 +1,133 @@
+; CHTDB: ; [ Command & Conquer: Alarmstufe Rot: Gegenschlag (Die Alliierten) (Germany) (Software Pyramide) {SLES-01345 | SLES-11345} ]
+
+[Schnell Bauen]
+Type = Gameshark
+Activation = EndFrame
+D001008A 0004
+8002984C 0000
+
+[Alles Kostenlos]
+Type = Gameshark
+Activation = EndFrame
+D001008A 0004
+8002985C 0000
+
+[ÜBerall Bauen KöNnen .SELECT drð£«¥n]
+Type = Gameshark
+Activation = EndFrame
+D01B5530 0100
+801A9616 01FF
+
+[Eiserner Vorhang Immer Bereit]
+Type = Gameshark
+Activation = EndFrame
+8002CC78 000F
+801B4902 0015
+801B490A 0001
+801B490C 0015
+801B4914 0046
+801B4924 0007
+801B4934 0001
+
+[Die Alliierten-Codes\Unendlich Geld]
+Type = Gameshark
+Activation = EndFrame
+D001008A 0004
+8002A3D4 FFFF
+D001008A 0004
+8002A3D6 03FF
+
+[Die Alliierten-Codes\Unendlich Energie]
+Type = Gameshark
+Activation = EndFrame
+D001008A 0004
+8002A3F0 FFFF
+D001008A 0004
+8002A3F2 00FF
+
+[Die Alliierten-Codes\Kein Energieverbrauch]
+Type = Gameshark
+Activation = EndFrame
+D001008A 0004
+8002A3F4 FFFF
+
+[Die Alliierten-Codes\Keine Silos NöTig]
+Type = Gameshark
+Activation = EndFrame
+D001008A 0004
+8002A3D0 0000
+
+[Die Alliierten-Codes\Habe Immer Jede Spezialwaffe]
+Type = Gameshark
+Activation = EndFrame
+50000618 0000
+8002A294 000F
+
+[Die Sowjets-Codes\Unendlich Geld]
+Type = Gameshark
+Activation = EndFrame
+D001008A 0004
+8002A798 FFFF
+D001008A 0004
+8002A79A 03FF
+
+[Die Sowjets-Codes\Unendlich Energie]
+Type = Gameshark
+Activation = EndFrame
+D001008A 0004
+8002A7B4 FFFF
+D001008A 0004
+8002A7B6 00FF
+
+[Die Sowjets-Codes\Kein Energieverbrauch]
+Type = Gameshark
+Activation = EndFrame
+D001008A 0004
+8002A7B8 0000
+
+[Die Sowjets-Codes\Keine Silos NöTig]
+Type = Gameshark
+Activation = EndFrame
+D001008A 0004
+8002A794 0000
+
+[Die Sowjets-Codes\Habe Immer Jede Spezialwaffe]
+Type = Gameshark
+Activation = EndFrame
+50000618 0000
+8002A658 000F
+
+[GepläNkel-Codes\Unendlich Geld]
+Type = Gameshark
+Activation = EndFrame
+D001008A 0004
+8002CD40 FFFF
+D001008A 0004
+8002CD42 03FF
+
+[GepläNkel-Codes\Unendlich Energie]
+Type = Gameshark
+Activation = EndFrame
+D001008A 0004
+8002CD5C FFFF
+D001008A 0004
+8002CD5E 00FF
+
+[GepläNkel-Codes\Kein Energieverbrauch]
+Type = Gameshark
+Activation = EndFrame
+D001008A 0004
+8002CD60 0000
+
+[GepläNkel-Codes\Keine Silos NöTig]
+Type = Gameshark
+Activation = EndFrame
+D001008A 0004
+8002CD3C 0000
+
+[GepläNkel-Codes\Habe Immer Jede Spezialwaffe]
+Type = Gameshark
+Activation = EndFrame
+50000618 0000
+8002CC00 000F
+

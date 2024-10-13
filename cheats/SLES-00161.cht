@@ -1,0 +1,23 @@
+; CHTDB: ; [ D (France) {SLES-00161 | SLES-10161 | SLES-20161} ]
+
+[Unendlich Spiegelhinweise]
+Type = Gameshark
+Activation = EndFrame
+80008427 C0BE
+80001CCE 0000
+
+[Kein nerviges Spiegelblinken]
+Type = Gameshark
+Activation = EndFrame
+80008424 49E1
+8000B9E9 0000
+
+[Back timr to 15 clock Press L2 & r2 Buttons]
+Type = Gameshark
+Activation = EndFrame
+80007425 8F91
+800009F4 5424
+8000A86C D020
+80000425 F9F7
+8000209E 0000
+

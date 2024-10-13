@@ -1,0 +1,21 @@
+; CHTDB: ; [ C-12: Final Resistance (Europe) {SCES-03365} ]
+
+[Unendlich Schild]
+Type = Gameshark
+Activation = EndFrame
+A60F3600 000003E8
+D00326D4 0010
+300326D4 0000
+
+[Unendlich Gesundheit]
+Type = Gameshark
+Activation = EndFrame
+D0032744 0004
+30032744 0000
+
+[Sudden Death Gegner]
+Type = Gameshark
+Activation = EndFrame
+D00329C0 000E
+300329B6 00FB
+

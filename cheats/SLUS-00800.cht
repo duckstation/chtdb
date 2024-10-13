@@ -1,0 +1,73 @@
+; CHTDB: ; [ Rollcage (USA) (1999) (Psygnosis) {SLUS-00800, SLUS-00800LE} <rollcage> ]
+
+[Press Select To Start On Last Lap]
+Type = Gameshark
+Activation = EndFrame
+D0011CA6 0100
+3009CB60 0003
+
+[Enable Everything]
+Type = Gameshark
+Activation = EndFrame
+80010D30 FFFF
+
+[Weapons On]
+Type = Gameshark
+Activation = EndFrame
+30011096 0001
+
+[Weapons Off]
+Type = Gameshark
+Activation = EndFrame
+30011096 0000
+
+[Catch Up On]
+Type = Gameshark
+Activation = EndFrame
+30011097 0001
+
+[Catch Up Off]
+Type = Gameshark
+Activation = EndFrame
+30011097 0000
+
+[Weather Good]
+Type = Gameshark
+Activation = EndFrame
+30011099 0000
+
+[Weather Bad]
+Type = Gameshark
+Activation = EndFrame
+30011099 0001
+
+[Motron Blur On]
+Type = Gameshark
+Activation = EndFrame
+3001109B 0001
+
+[Motron Blur Off]
+Type = Gameshark
+Activation = EndFrame
+3001109B 0000
+
+[Select Mirror Mode\On]
+Type = Gameshark
+Activation = EndFrame
+80010B9A 0100
+
+[Select Mirror Mode\Off]
+Type = Gameshark
+Activation = EndFrame
+80010B9A 0000
+
+[Select Mega Time Attack\On]
+Type = Gameshark
+Activation = EndFrame
+80011094 0130
+
+[Select Mega Time Attack\Off]
+Type = Gameshark
+Activation = EndFrame
+80011094 0030
+

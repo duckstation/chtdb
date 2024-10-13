@@ -1,0 +1,66 @@
+; CHTDB: ; [ Parasite Eve II (Spain) {SLES-02561 | SLES-12561} ]
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+80074F70 270F
+
+[Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+80074EF4 0064
+
+[Infinite 9mm Ammo CD1]
+Type = Gameshark
+Activation = EndFrame
+80073BE9 0063
+
+[Infinite Granadas Ammo]
+Type = Gameshark
+Activation = EndFrame
+80073B51 0063
+
+[Infinite 5'56 mm Rifle Ammo CD1]
+Type = Gameshark
+Activation = EndFrame
+80073B79 0063
+
+[Infinite 9mm Hydra Ammo CD1]
+Type = Gameshark
+Activation = EndFrame
+80073B09 0063
+
+[Infinite 5'56 mm Rifle Ammo CD2]
+Type = Gameshark
+Activation = EndFrame
+80073BA1 0063
+
+[Infinite 9mm Hydra Ammo CD2]
+Type = Gameshark
+Activation = EndFrame
+80073B11 0063
+
+[Exp]
+Type = Gameshark
+Activation = EndFrame
+80074EE0 1770
+
+[Bp]
+Type = Gameshark
+Activation = EndFrame
+80074F64 FFFF
+
+[Invincibility (No Hit)]
+Type = Gameshark
+Activation = EndFrame
+F40DBDC8 00AA0800
+AAAA4010 21208002
+2128AAAA AAAAAAAA
+AAAA00AA AAAAAAAA
+AAAAAAAA AAAAAAAA
+F40DBC1C 00AA0800
+AAAA4010 02006230
+AAAA40AA AAAAAAAA
+AAAA00AA AAAAAAAA
+AAAAAAAA AAAAAAAA
+

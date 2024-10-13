@@ -1,0 +1,100 @@
+; CHTDB: ; [ Ultimate 8 Ball (USA) (1999) (THQ) {SLUS-00864} <ult8ball> ]
+
+[Sight Line On]
+Type = Gameshark
+Activation = EndFrame
+80153C06 0001
+
+[P1 Max Score]
+Type = Gameshark
+Activation = EndFrame
+8011DD3C 0063
+
+[P1 No Score]
+Type = Gameshark
+Activation = EndFrame
+8011DD3C 0000
+
+[P2 Max Score]
+Type = Gameshark
+Activation = EndFrame
+8012F042 0063
+
+[P2 No Score]
+Type = Gameshark
+Activation = EndFrame
+8012F042 0000
+
+[P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8011DD3C 0003
+
+[P1 Have 99 Games Won]
+Type = Gameshark
+Activation = EndFrame
+3011DBF8 0063
+
+[P1 Have 0 Games Won]
+Type = Gameshark
+Activation = EndFrame
+3011DBF8 0000
+
+[P2 Have 99 Games Won]
+Type = Gameshark
+Activation = EndFrame
+3011DBF9 0063
+
+[P2 Have 0 Games Won]
+Type = Gameshark
+Activation = EndFrame
+3011DBF9 0000
+
+[P1 Have No Fouls]
+Type = Gameshark
+Activation = EndFrame
+3011DC42 0000
+
+[P1 Have 3 Fouls]
+Type = Gameshark
+Activation = EndFrame
+3011DC42 0002
+
+[P2 Have No Fouls]
+Type = Gameshark
+Activation = EndFrame
+3011DC52 0000
+
+[P2 Have 3 Fouls]
+Type = Gameshark
+Activation = EndFrame
+3011DC52 0002
+
+[Time is 0.00.00]
+Type = Gameshark
+Activation = EndFrame
+80015916 2400
+
+[P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8011DD3E 0003
+
+[P2 No Lives]
+Type = Gameshark
+Activation = EndFrame
+8011DD3E 0000
+
+[Unlock Everything]
+Type = Gameshark
+Activation = EndFrame
+80153AC2 FFFF
+90153AC4 FFFFFFFF
+90153AC8 FFFFFFFF
+90153ACC FFFFFFFF
+
+[Maximum Credits]
+Type = Gameshark
+Activation = EndFrame
+8011DC2C 0063
+

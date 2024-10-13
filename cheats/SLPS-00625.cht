@@ -1,0 +1,7 @@
+; CHTDB: ; [ Extra Bright (Jpn) (1996) (ASCII) {SLPS-00625} <xbright> ]
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+8009FF40 0100
+

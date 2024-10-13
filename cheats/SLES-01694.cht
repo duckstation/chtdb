@@ -1,0 +1,36 @@
+; CHTDB: ; [ Max Power Racing (Europe) {SLES-01694} ]
+
+[All Seasons (Championship)]
+Type = Gameshark
+Activation = EndFrame
+80025950 0300
+
+[All Cars (Gti Pro/Am Champ)]
+Type = Gameshark
+Activation = EndFrame
+80025964 FFFF
+
+[All Cars (High Perf Pro/Am)]
+Type = Gameshark
+Activation = EndFrame
+80025966 FFFF
+
+[All Standard Cars (Arcade)]
+Type = Gameshark
+Activation = EndFrame
+8002595C 00FF
+
+[All Tracks (Arcade)]
+Type = Gameshark
+Activation = EndFrame
+80025526 0001
+90025528 00010001
+9002552C 00010001
+90025530 00010001
+90025534 00010001
+
+[All Advanced Cars (Arcade)]
+Type = Gameshark
+Activation = EndFrame
+8002595E 00FF
+

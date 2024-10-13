@@ -1,0 +1,17 @@
+; CHTDB: ; [ Final Round (Jpn) (1998) (Atlus) {SLPS-01266} <fround> ]
+
+[Max All Status]
+Type = Gameshark
+Activation = EndFrame
+800CCA36 2706
+900CCA38 27062706
+800CCA3E 2706
+800CCA40 2706
+800CCA46 2706
+800CCA4A 2706
+
+[Infinite Stimate]
+Type = Gameshark
+Activation = EndFrame
+800CCA4E 0000
+

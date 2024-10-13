@@ -1,0 +1,34 @@
+; CHTDB: ; [ Raiden DX (Jpn) (1997) (Nihon System) {SLPS-00728} <raidendxa> ]
+
+[P1 Infinite Ships]
+Description = Maybe need to disable at the end of stage
+Type = Gameshark
+Activation = EndFrame
+801E55B2 0008
+
+[P1 Full Power]
+Description = Maybe need to disable at the end of stage
+Type = Gameshark
+Activation = EndFrame
+801E55BC 0008
+801E55C6 0008
+
+[P1 Invincibility]
+Description = Maybe need to disable at the end of stage
+Type = Gameshark
+Activation = EndFrame
+800445A6 1400
+
+[P2 Invincibility]
+Description = Maybe need to disable at the end of stage
+Type = Gameshark
+Activation = EndFrame
+8004463A 1400
+
+[Invincibility]
+Description = Maybe need to disable at the end of stage
+Type = Gameshark
+Activation = EndFrame
+801E8830 0D01
+801E88EC 2224
+

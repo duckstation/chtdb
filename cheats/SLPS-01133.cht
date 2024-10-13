@@ -1,0 +1,33 @@
+; CHTDB: ; [ Battle Athletess: Daiundoukai Alternative (Japan) {SLPS-01133} ]
+
+[Max energy]
+Type = Gameshark
+Activation = EndFrame
+800E001E 03E7
+800E0020 03E7
+
+[Minimum fatigue]
+Type = Gameshark
+Activation = EndFrame
+800E0022 0001
+
+[Arm 999]
+Type = Gameshark
+Activation = EndFrame
+800E0016 03E7
+
+[Legs 999]
+Type = Gameshark
+Activation = EndFrame
+800E001A 03E7
+
+[Body 999]
+Type = Gameshark
+Activation = EndFrame
+800E0018 03E7
+
+[Guts 999]
+Type = Gameshark
+Activation = EndFrame
+800E0024 03E7
+

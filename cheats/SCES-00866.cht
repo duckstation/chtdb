@@ -1,0 +1,62 @@
+; CHTDB: ; [ Kurushi (Europe) {SCES-00866} ]
+
+[Start At Last Part Of Stage]
+Type = Gameshark
+Activation = EndFrame
+3006D588 0303
+
+[Select Stage\1]
+Type = Gameshark
+Activation = EndFrame
+8006D648 0001
+
+[Select Stage\2]
+Type = Gameshark
+Activation = EndFrame
+8006D648 0002
+
+[Select Stage\3]
+Type = Gameshark
+Activation = EndFrame
+8006D648 0003
+
+[Select Stage\4]
+Type = Gameshark
+Activation = EndFrame
+8006D648 0004
+
+[Select Stage\5]
+Type = Gameshark
+Activation = EndFrame
+8006D648 0005
+
+[Select Stage\6]
+Type = Gameshark
+Activation = EndFrame
+8006D648 0006
+
+[Select Stage\7]
+Type = Gameshark
+Activation = EndFrame
+8006D648 0007
+
+[Select Stage\8]
+Type = Gameshark
+Activation = EndFrame
+8006D648 0008
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A7098F98 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A7098F98 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A7098F98 10000400
+

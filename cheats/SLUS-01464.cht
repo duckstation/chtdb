@@ -1,0 +1,37 @@
+; CHTDB: ; [ Super Shot Soccer (USA) (2002) (Tecmo) {SLUS-01464} <sshotsoc> ]
+
+[Select Away Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+800F0E92 0000
+
+[Select Away Team Score\9]
+Type = Gameshark
+Activation = EndFrame
+800F0E92 0009
+
+[Select Home Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+800F0E90 0000
+
+[Select Home Team Score\9]
+Type = Gameshark
+Activation = EndFrame
+800F0E90 0009
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A711E878 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A711E878 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A711E878 10000400
+

@@ -1,0 +1,108 @@
+; CHTDB: ; [ Klonoa - Door to Phantomile (USA) (1998) (Namco Hometek) {SLUS-00585} <klonoa> ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8010E5D0 0006
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8010E5CA 0009
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800BF074 000F
+
+[Fly High the longer you hold down the X button the higher you will fly. Pushing X will also stop falls.]
+Type = Gameshark
+Activation = EndFrame
+C00BEE22 4000
+800BF07E 000F
+800BF072 0000
+00000000 FFFF
+C00BEE22 4080
+800BF07E 000F
+800BF072 0000
+00000000 FFFF
+C00BEE22 4020
+800BF07E 000F
+800BF072 0000
+00000000 FFFF
+
+[Infinite Keys]
+Type = Gameshark
+Activation = EndFrame
+800BE328 0001
+
+[Hold Jump To Fly]
+Type = Gameshark
+Activation = EndFrame
+800BF072 0000
+
+[Have All 6 Blocks]
+Type = Gameshark
+Activation = EndFrame
+8010E5CE 0006
+
+[Walk through walls]
+Description = Hold L2 + R2
+Type = Gameshark
+Activation = EndFrame
+A702FE9E 10000440
+D7200000 00000003
+A702FE9E 04401000
+
+[Collect dream stones from anywhere]
+Type = Gameshark
+Activation = EndFrame
+A7056B86 14602400
+A7056BEE 14602400
+A70689CA 10402400
+A7056BE2 10401000
+
+[Hit anywhere]
+Description = Hold L1+R1 during attack
+Type = Gameshark
+Activation = EndFrame
+A707109A 24001080
+D7200000 0000000C
+A707109A 10802400
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A710A440 10000C00
+A70C47EC 10000C00
+A70C4808 10000C00
+A70C4824 10000C00
+A70C47EC 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A710A440 10000900
+A70C47EC 10000900
+A70C4808 10000900
+A70C4824 10000900
+A70C47EC 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A710A440 10000400
+A70C47EC 10000400
+A70C4808 10000400
+A70C4824 10000400
+A70C47EC 10000400
+
+[Widescreen 16-9 [ALT]]
+Description = Fixes Most Sprites and 3D environment.
+Type = Gameshark
+Activation = EndFrame
+A7019FA0 00000C00
+A7019FA2 8CE22402
+A7019490 00000C00
+A7019492 8CA22402
+

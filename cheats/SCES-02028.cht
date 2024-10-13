@@ -1,0 +1,18 @@
+; CHTDB: ; [ Ape Escape (France) {SCES-02028} ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800EC3A8 0005
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800F4574 0002
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+D004689A 2484
+800AF190 0C00
+

@@ -1,0 +1,27 @@
+; CHTDB: ; [ Colony Wars: Vengeance (France) {SLES-01405} ]
+
+[Lance Sismique No Overheat]
+Type = Gameshark
+Activation = EndFrame
+8012F4CC 0000
+
+[Laser Anti-Bouc. No Overheat]
+Type = Gameshark
+Activation = EndFrame
+8012F41C 0000
+
+[Laser No Overheat]
+Type = Gameshark
+Activation = EndFrame
+8012F474 0000
+
+[Infinite Plasma Missiles]
+Type = Gameshark
+Activation = EndFrame
+3012F588 0002
+
+[Infinite Anti-Bouc. Missiles]
+Type = Gameshark
+Activation = EndFrame
+3012F530 0002
+

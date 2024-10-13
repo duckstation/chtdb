@@ -1,0 +1,52 @@
+; CHTDB: ; [ The Raiden Project (Europe) {SLES-00051} ]
+
+[Raiden\P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8012F804 0003
+
+[Raiden\P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8012F834 0003
+
+[Raiden\Infinite credits]
+Type = Gameshark
+Activation = EndFrame
+8004D5F2 0003
+
+[Raiden\P1 Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800FA0B0 000C
+
+[Raiden\P2 Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800FA194 000D
+
+[Raiden II\P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800ECFA4 0003
+
+[Raiden II\P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800ECFE4 0003
+
+[Raiden II\Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+800FFC88 0003
+
+[Raiden II\P1 Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800F7A32 0D01
+
+[Raiden II\P2 Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800F7B5A 0E01
+

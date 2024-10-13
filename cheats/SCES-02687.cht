@@ -1,0 +1,39 @@
+; CHTDB: ; [ Tombi! 2: Contra los cerdiablos aka Tombi 2 (Spain) {SCES-02687} ]
+
+[Energia Infinita]
+Type = Gameshark
+Activation = EndFrame
+800E8B0E 0008
+800E8B10 0008
+
+[Energia Infinita Con 4 De Energia]
+Type = Gameshark
+Activation = EndFrame
+800E8B0E 0004
+800E8B10 0004
+
+[Max Ap]
+Type = Gameshark
+Activation = EndFrame
+900C0394 05F5E0FF
+
+[Infinite Magic]
+Type = Gameshark
+Activation = EndFrame
+800C039E 7070
+
+[Infinite Time On The Trolley]
+Type = Gameshark
+Activation = EndFrame
+800E89E0 0157
+
+[Have All 137 Events in Clear]
+Type = Gameshark
+Activation = EndFrame
+300C03CA 0089
+
+[Have All 137 Events in Occur]
+Type = Gameshark
+Activation = EndFrame
+300C03C8 0089
+

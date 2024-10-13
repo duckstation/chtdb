@@ -1,0 +1,192 @@
+; CHTDB: ; [ Pandemonium 2 (USA) (1997) (Midway Home Entertainment) {SLUS-00578} <pandemn2> ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800ABD74 0403
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800ABD76 0004
+
+[Infinite Coins]
+Type = Gameshark
+Activation = EndFrame
+8008B70C 03E7
+
+[Infinite Coins (ALT)]
+Type = Gameshark
+Activation = EndFrame
+800ABD78 01F8
+
+[Invincibility]
+Description = When using these cheats with this Invincibility code, turn off the shark to fire the Weapons
+Type = Gameshark
+Activation = EndFrame
+800EA79A 0200
+
+[Always have Fireball]
+Type = Gameshark
+Activation = EndFrame
+800ABD7C 0100
+
+[Select Level\1]
+Type = Gameshark
+Activation = EndFrame
+8008A43C 0000
+
+[Select Level\02]
+Type = Gameshark
+Activation = EndFrame
+8008A43C 0001
+
+[Select Level\03]
+Type = Gameshark
+Activation = EndFrame
+8008A43C 0002
+
+[Select Level\04]
+Type = Gameshark
+Activation = EndFrame
+8008A43C 0003
+
+[Select Level\05]
+Type = Gameshark
+Activation = EndFrame
+8008A43C 0004
+
+[Select Level\06]
+Type = Gameshark
+Activation = EndFrame
+8008A43C 0005
+
+[Select Level\07]
+Type = Gameshark
+Activation = EndFrame
+8008A43C 0006
+
+[Select Level\08]
+Type = Gameshark
+Activation = EndFrame
+8008A43C 0007
+
+[Select Level\09]
+Type = Gameshark
+Activation = EndFrame
+8008A43C 0008
+
+[Select Level\10]
+Type = Gameshark
+Activation = EndFrame
+8008A43C 0009
+
+[Select Level\11]
+Type = Gameshark
+Activation = EndFrame
+8008A43C 000A
+
+[Select Level\12]
+Type = Gameshark
+Activation = EndFrame
+8008A43C 000B
+
+[Select Level\13]
+Type = Gameshark
+Activation = EndFrame
+8008A43C 000C
+
+[Select Level\14]
+Type = Gameshark
+Activation = EndFrame
+8008A43C 000D
+
+[Select Level\15]
+Type = Gameshark
+Activation = EndFrame
+8008A43C 000E
+
+[Select Level\16]
+Type = Gameshark
+Activation = EndFrame
+8008A43C 000F
+
+[Select Level\17]
+Type = Gameshark
+Activation = EndFrame
+8008A43C 0010
+
+[Select Level\18]
+Type = Gameshark
+Activation = EndFrame
+8008A43C 0011
+
+[Select Level\19]
+Type = Gameshark
+Activation = EndFrame
+8008A43C 0012
+
+[Moon Jump]
+Type = Gameshark
+Activation = EndFrame
+D7200000 00000040
+900ABD88 00000001
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+A7051016 10401000
+
+[Set any password to unlock all levels]
+Type = Gameshark
+Activation = EndFrame
+A706BA5A 14402400
+
+[Uncapped Fireball]
+Type = Gameshark
+Activation = EndFrame
+300ABD9C 0000
+
+[Rapid Fireball]
+Type = Gameshark
+Activation = EndFrame
+A7051A34 01003000
+A7051A36 3C050C00
+A7051A38 10240000
+A7051A3A 00650000
+9000C000 27BDFFE8
+9000C004 AFA80010
+9000C008 3C08800A
+9000C00C 91085C2B
+9000C014 00084027
+9000C018 31080080
+9000C01C 11000002
+9000C024 27FF0004
+9000C028 3C050100
+9000C02C 00651024
+9000C030 8FA80010
+9000C034 27BD0018
+9000C038 03E00008
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+80008200 0000
+80008202 8C88
+80008204 8001
+80008206 3C1B
+80008208 0180
+8000820A 237B
+8000820C 0002
+8000820E 1764
+80008212 2400
+80008214 0C00
+80008216 2408
+80008218 FA0F
+8000821A 0801
+8000821E 2400
+8007E834 2080
+8007E836 0800
+80064414 0C00
+80064416 240C
+

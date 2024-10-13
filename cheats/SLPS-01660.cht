@@ -1,0 +1,24 @@
+; CHTDB: ; [ Gakkou wo Tsukurou!! 2 (Jpn) (1998) (Victor Interactive Software) {SLPS-01660} <gakkots2> ]
+
+[Infinite Money 99999]
+Type = Gameshark
+Activation = EndFrame
+80157D94 0001
+80157D94 869F
+
+[Students Participants maximum]
+Type = Gameshark
+Activation = EndFrame
+80157B12 0190
+
+[All facilities can be installed]
+Type = Gameshark
+Activation = EndFrame
+80157B40 FFFF
+
+[Level 99 club and level up]
+Type = Gameshark
+Activation = EndFrame
+D007095A 1440
+90070958 00000000
+

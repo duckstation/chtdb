@@ -1,0 +1,17 @@
+; CHTDB: ; [ Future Racer (Europe) (Pocket Price Midas) {SLES-03508} ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800D6F50 2329
+
+[Infinite Roost]
+Type = Gameshark
+Activation = EndFrame
+80047C00 0000
+
+[Have 9999 points in race]
+Type = Gameshark
+Activation = EndFrame
+800D6FC8 270F
+

@@ -1,0 +1,13 @@
+; CHTDB: ; [ Master of Monsters - Disciples of Gaia (USA) (1998) (ASCII Entertainment Software) {SLUS-00595} <mmonster> ]
+
+[Infinite + Max HP - Main Unit (Law)]
+Type = Gameshark
+Activation = EndFrame
+800BC67E 03E7
+800BC680 03E7
+
+[Infinite Summon points]
+Type = Gameshark
+Activation = EndFrame
+800C6DC0 0000
+

@@ -1,0 +1,209 @@
+; CHTDB: ; [ Biohazard 3: Last Escape (Japan) {SLPS-02300} ]
+
+[Infinite HP All]
+Type = Gameshark
+Activation = EndFrame
+8003E6AA 0060
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800CC338 00C8
+
+[Status Fine]
+Type = Gameshark
+Activation = EndFrame
+300CC33F 0004
+
+[Turbo Shooting (.L2+R1+Square)]
+Type = Gameshark
+Activation = EndFrame
+E00CBED8 0089
+E10CBED9 0001
+E10CBED9 0008
+D00CC270 0501
+800CC272 0102
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+A606D974 FFFF0000
+A606D994 FFFF0000
+
+[One Hit Dead]
+Type = Gameshark
+Activation = EndFrame
+A6045720 00060001
+
+[Save Anywhere (.L1+Square)]
+Type = Gameshark
+Activation = EndFrame
+E00CBED8 0084
+800D13C0 1D00
+E00CBED8 0084
+800D13C2 8005
+
+[Item Box Anytime (.L2 + Square)]
+Type = Gameshark
+Activation = EndFrame
+D00CBED8 0081
+800D13C0 1E24
+D00CBED8 0081
+800D13C2 8005
+D00CBED8 0081
+800DF874 0002
+
+[Save = 0]
+Type = Gameshark
+Activation = EndFrame
+D01C35BA 2662
+801C35B8 0000
+
+[No Ink To Save (.You can save even NEVER having any INK, MUST use w/ #SV INK# code.)]
+Type = Gameshark
+Activation = EndFrame
+A6051D44 00080000
+
+[Infinite Sv Ink (.When save, don't decrease INK number)]
+Type = Gameshark
+Activation = EndFrame
+D006D68C 7C7C
+8006D60E 0040
+
+[Have 10 Slots]
+Type = Gameshark
+Activation = EndFrame
+300D1906 000A
+
+[Invisible (.Start Code = L2+R2 .Stop Code = L1+R1)]
+Type = Gameshark
+Activation = EndFrame
+D00CBED8 0003
+301E4358 0000
+D00CBED8 000C
+301E4358 0001
+
+[All Files]
+Type = Gameshark
+Activation = EndFrame
+900D17D4 FFFFFFFF
+
+[All Maps]
+Type = Gameshark
+Activation = EndFrame
+300D17CF 00FE
+300D17D3 00FE
+
+[Total Time(Get Grade S)]
+Type = Gameshark
+Activation = EndFrame
+900D15D0 00000000
+
+[All Pic In Epilogue]
+Type = Gameshark
+Activation = EndFrame
+300D15E6 0008
+
+[Omake .Start New Game Have All Secret]
+Type = Gameshark
+Activation = EndFrame
+800D15DA FFE0
+
+[Rapid Fire]
+Type = Gameshark
+Activation = EndFrame
+A603FC54 00030000
+
+[New Game To Make Item Stock = 10 In Heavy Mode, Just Like Getting The Backpack From Start.]
+Type = Gameshark
+Activation = EndFrame
+A606DA60 0008000A
+
+[Tofu Skin Code]
+Type = Gameshark
+Activation = EndFrame
+300D162E 000F
+
+[Quick Ending (.L1+L2+R1+R2)]
+Type = Gameshark
+Activation = EndFrame
+E00CBED8 000F
+800CBF00 C000
+E00CBED8 000F
+300CBF02 0001
+
+[Select Characters Anywhere Codes\Jill 1st Dress (.Up+L1)]
+Type = Gameshark
+Activation = EndFrame
+D00CBED8 1004
+800D162E 0000
+
+[Select Characters Anywhere Codes\Jill 2nd Dress (.Up+L2)]
+Type = Gameshark
+Activation = EndFrame
+D00CBED8 1001
+800D162E 0001
+
+[Select Characters Anywhere Codes\Jill 3Th Dress (.Up+R1)]
+Type = Gameshark
+Activation = EndFrame
+D00CBED8 1008
+800D162E 0002
+
+[Select Characters Anywhere Codes\Jill 4th Dress (.Up+R2)]
+Type = Gameshark
+Activation = EndFrame
+D00CBED8 1002
+800D162E 0003
+
+[Select Characters Anywhere Codes\Jill 5th Dress (.Up+L1+L2)]
+Type = Gameshark
+Activation = EndFrame
+D00CBED8 1005
+800D162E 0004
+
+[Select Characters Anywhere Codes\Jill 6th Dress (.Up+R1+R2)]
+Type = Gameshark
+Activation = EndFrame
+D00CBED8 100A
+800D162E 0005
+
+[Select Characters Anywhere Codes\Regina From Dino Crisis (.Up+L1+R1)]
+Type = Gameshark
+Activation = EndFrame
+D00CBED8 100C
+800D162E 0006
+
+[Select Characters Anywhere Codes\Carlos (.Up+L2+R2)]
+Type = Gameshark
+Activation = EndFrame
+D00CBED8 1003
+800D162E 0008
+
+[Select Characters Anywhere Codes\Mikhail (.Up+L1+R2)]
+Type = Gameshark
+Activation = EndFrame
+D00CBED8 1006
+800D162E 0009
+
+[Select Characters Anywhere Codes\Nicholai (.Up+L2+R1)]
+Type = Gameshark
+Activation = EndFrame
+D00CBED8 1009
+800D162E 000A
+
+[The Mercenaries Mode\Get Reward]
+Type = Gameshark
+Activation = EndFrame
+800CBEFA FFFF
+
+[The Mercenaries Mode\Reward Total]
+Type = Gameshark
+Activation = EndFrame
+900D1C94 0098967F
+
+[The Mercenaries Mode\Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800D1640 0078
+

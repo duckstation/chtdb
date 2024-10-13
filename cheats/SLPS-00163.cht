@@ -1,0 +1,14 @@
+; CHTDB: ; [ Angel Graffiti - Anata e no Profile (Jpn) (1996) (Coconuts Japan) {SLPS-00163} <angelgrf> ]
+
+[Character stats max]
+Type = Gameshark
+Activation = EndFrame
+900FE418 03E703E7
+900FE41C 03E703E7
+900FE420 03E703E7
+
+[Player have lots of money]
+Type = Gameshark
+Activation = EndFrame
+900FE424 000F423F
+

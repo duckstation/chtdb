@@ -1,0 +1,110 @@
+; CHTDB: ; [ MediEvil 2 (Europe) {SCES-02544} ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800F04B0 012C
+
+[Infinite Energy boxing stage]
+Type = Gameshark
+Activation = EndFrame
+800F2914 00C8
+801C933A 00C8
+
+[Infinite Energy (Alternate)]
+Type = Gameshark
+Activation = EndFrame
+800F11C0 012C
+
+[Max Money]
+Type = Gameshark
+Activation = EndFrame
+800F1248 270F
+
+[Infinite Potions]
+Type = Gameshark
+Activation = EndFrame
+300F11C9 000D
+800F11C4 0834
+
+[Full 'Chalice Of Souls']
+Type = Gameshark
+Activation = EndFrame
+800EFB1C 0064
+
+[Full Inventory (With Full Ammo)]
+Type = Gameshark
+Activation = EndFrame
+50001404 0000
+800F11F0 1000
+
+[Infinite Health (Boxing Level Alt)]
+Type = Gameshark
+Activation = EndFrame
+801C9966 00C8
+
+[Infinite Health Kiya]
+Type = Gameshark
+Activation = EndFrame
+801B02FC 00C8
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800F3668 003C
+
+[Infinite Time For Bringing 1 Limb Back At A Time]
+Type = Gameshark
+Activation = EndFrame
+800F35E8 001E
+
+[Infinite Super-Armour]
+Type = Gameshark
+Activation = EndFrame
+800F1240 01F4
+
+[All 12 Enchanted Spirits]
+Type = Gameshark
+Activation = EndFrame
+800F1288 000C
+
+[Infinite Antidote]
+Type = Gameshark
+Activation = EndFrame
+800F12DC 1004
+
+[Unlock Everything]
+Type = Gameshark
+Activation = EndFrame
+800D2DD8 0004
+
+[Sudden Death-Codes\Triceratops]
+Type = Gameshark
+Activation = EndFrame
+800F3604 0000
+
+[Sudden Death-Codes\Pterodactyl]
+Type = Gameshark
+Activation = EndFrame
+801B5D62 0000
+
+[Sudden Death-Codes\Demon]
+Type = Gameshark
+Activation = EndFrame
+801E8CC6 0000
+
+[Sudden Death-Codes\Iron Slugger]
+Type = Gameshark
+Activation = EndFrame
+801DF456 0000
+
+[Sudden Death-Codes\The Count]
+Type = Gameshark
+Activation = EndFrame
+801C5DC2 0000
+
+[Sudden Death-Codes\The Ripper]
+Type = Gameshark
+Activation = EndFrame
+801B1492 0000
+

@@ -1,0 +1,75 @@
+; CHTDB: ; [ Pocket Fighter (Jpn) (1998) (Capcom) {SLPS-01360} <pfghtj> ]
+
+[P1 Infinite Hp]
+Type = Gameshark
+Activation = EndFrame
+801E2150 0090
+
+[P1 Max Special Attack]
+Type = Gameshark
+Activation = EndFrame
+801E2272 0065
+
+[P2 Infinite Hp]
+Type = Gameshark
+Activation = EndFrame
+801E2438 0090
+
+[P2 Max Special Attack]
+Type = Gameshark
+Activation = EndFrame
+801E255A 0065
+
+[Computer Knock Down by One Attack]
+Type = Gameshark
+Activation = EndFrame
+801E2438 0000
+
+[Computer Lose Diamond press L1]
+Type = Gameshark
+Activation = EndFrame
+D01E08A8 0001
+801E23EE 0101
+
+[P1 All Gems Full After Getting Just One]
+Type = Gameshark
+Activation = EndFrame
+901E2288 00600060
+801E228C 0060
+
+[P2 All Gems Full After Getting Just One]
+Type = Gameshark
+Activation = EndFrame
+901E2570 00600060
+801E2524 0060
+
+[P2 strength 0]
+Type = Gameshark
+Activation = EndFrame
+801E2438 0000
+
+[Make the fighter character select when press L2 button Dan selectable]
+Type = Gameshark
+Activation = EndFrame
+D01E08A8 0001
+301FE524 000A
+
+[Make the fighter character select when press L2 button Akuma selectable]
+Type = Gameshark
+Activation = EndFrame
+D01E08A8 0002
+301FE524 000B
+
+[All The Fighter aligned card made]
+Type = Gameshark
+Activation = EndFrame
+801FE55A 0101
+901FE55C 01010101
+901FE560 01010101
+901FE564 01010101
+901FE568 01010101
+901FE56C 01010101
+901FE570 01010101
+901FE574 01010101
+801FE578 0101
+

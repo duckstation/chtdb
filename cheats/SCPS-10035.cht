@@ -1,0 +1,71 @@
+; CHTDB: ; [ Alundra (Japan) {SCPS-10035} ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+800AABB0 0FFF
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+801AE43C 0032
+
+[Max Hp]
+Type = Gameshark
+Activation = EndFrame
+801AE440 0032
+
+[Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+801DE5A4 0004
+
+[Max Mp]
+Type = Gameshark
+Activation = EndFrame
+801DE5A6 0004
+
+[Have All Keys]
+Type = Gameshark
+Activation = EndFrame
+801DE6A8 0063
+801DE6A8 0032
+801DE6D8 0001
+801DE6DC 0001
+801DE6E0 0001
+
+[Max Money]
+Type = Gameshark
+Activation = EndFrame
+801DE5A8 270F
+
+[Infinite Gold Bird]
+Type = Gameshark
+Activation = EndFrame
+801DE5AE 0063
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+801AE5F4 0002
+
+[entering the debug map]
+Type = Gameshark
+Activation = EndFrame
+80010000 FFFF
+
+[entering the debug map To switch the screen while holding down the L2 + R2 When the screen blacks out, that you release the button of L2 + R2 other than If the character is stuck, I press L1 + R1 button]
+Type = Gameshark
+Activation = EndFrame
+D01DE7C8 0003
+801E9E2C 000B
+D01DE7C8 000C
+801AE530 021C
+D01DE7C8 000C
+801AE542 01D8
+
+[A debug mode Pad 2 Select Debug ON / OFF L1 / L2 option menu To start confirmation]
+Type = Gameshark
+Activation = EndFrame
+301DE1B7 0080
+

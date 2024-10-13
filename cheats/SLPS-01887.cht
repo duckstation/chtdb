@@ -1,0 +1,25 @@
+; CHTDB: ; [ Weltorv Estleia (Jpn) (1999) (Hudson) {SLPS-01887} <estleia> ]
+
+[Infinite Money (60000)]
+Type = Gameshark
+Activation = EndFrame
+800A59C4 EA60
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800A5952 03E7
+800A5926 03E7
+
+[Max 2nd Stats]
+Type = Gameshark
+Activation = EndFrame
+800A5940 03E7
+800A5914 03E7
+
+[Max 3rd Stats]
+Type = Gameshark
+Activation = EndFrame
+800A5942 03E7
+800A5916 03E7
+

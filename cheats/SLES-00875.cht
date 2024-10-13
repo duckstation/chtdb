@@ -1,0 +1,38 @@
+; CHTDB: ; [ Bugriders: The Race of Kings (Europe) {SLES-00875} ]
+
+[Infinite Time In 2 Player-Mode]
+Type = Gameshark
+Activation = EndFrame
+800C2DCA 01FA
+
+[Bugspeedmodifikation (Full Speed)]
+Type = Gameshark
+Activation = EndFrame
+800C2950 157C
+
+[Exterminate Game Codes\Bug Stress]
+Type = Gameshark
+Activation = EndFrame
+800C2950 0BA9
+800CAEDA 0038
+
+[Exterminate Game Codes\Bugs Killed]
+Type = Gameshark
+Activation = EndFrame
+800C2E08 0063
+
+[Time Trial Game Codes\Rings (After you activate this code turn it off. When you get to the race turn it on and off before you start racing. You should come in first right away)]
+Type = Gameshark
+Activation = EndFrame
+800C2DE2 0049
+
+[Campaign Codes\Quick Win (After you activate this code turn it off. When you get to the race turn it on and off before you start racing. You should come in first right away)]
+Type = Gameshark
+Activation = EndFrame
+800C2DC4 0003
+
+[Campaign Codes\Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800C2DE8 0202
+

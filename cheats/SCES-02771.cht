@@ -1,0 +1,48 @@
+; CHTDB: ; [ Mr. Driller (Europe) {SCES-02771} ]
+
+[Infinite Air]
+Type = Gameshark
+Activation = EndFrame
+801F3819 0249
+
+[Infinite Air ALT]
+Type = Gameshark
+Activation = EndFrame
+A60CD260 00800000
+A60CD262 00800000
+A60CD210 FFFF0001
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+D00CCAEC D870
+800CCAEE 0000
+A60CCAEC D8700000
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+D01F3998 0001
+301F3998 0000
+
+[Time 00.00.00]
+Type = Gameshark
+Activation = EndFrame
+D119B818 0000
+8019B818 0000
+
+[Time Attack Mode Timer stopped]
+Type = Gameshark
+Activation = EndFrame
+800D421C 0000
+
+[Time Attack Mode All levels unlocked]
+Type = Gameshark
+Activation = EndFrame
+8019B6B8 03FF
+
+[Time Attack Mode All levels complete]
+Type = Gameshark
+Activation = EndFrame
+8019B730 03FF
+

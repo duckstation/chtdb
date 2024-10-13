@@ -1,0 +1,7 @@
+; CHTDB: ; [ Beat Planet Music (Jpn) (2000) (SCEI) {SCPS-18013} <beatplan> ]
+
+[Have 0 Lost Packet]
+Type = Gameshark
+Activation = EndFrame
+800F883C 0000
+

@@ -1,0 +1,12 @@
+; CHTDB: ; [ Oddworld: Abe's Oddysee (Euro) (1997) (GT Interactive Software Europe / Infogrames) {SLES-00664, SLES-00664#} <abeodysse> ]
+
+[Zero Casualties]
+Type = Gameshark
+Activation = EndFrame
+800B3D50 0000
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+30082286 0001
+

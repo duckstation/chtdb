@@ -1,0 +1,56 @@
+; CHTDB: ; [ Spider-Man (Jpn) (2001) (Success) {SLPM-86739} <spidermnj> ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+900706B8 34020064
+900706C0 A68200DE
+
+[Infinite Web gauge]
+Type = Gameshark
+Activation = EndFrame
+8005101E 1400
+
+[Infinite Web cartridge]
+Type = Gameshark
+Activation = EndFrame
+80051054 2400
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+8006E64A 1400
+
+[Unabated spider silk]
+Type = Gameshark
+Activation = EndFrame
+D0051018 1023
+3005101A 0060
+
+[Small enemy one hit kill]
+Type = Gameshark
+Activation = EndFrame
+90046234 00001820
+
+[Enable (LEVEL SELECT) special options]
+Type = Gameshark
+Activation = EndFrame
+B0210001 0000
+300ADEA2 0001
+
+[All bonus ,All images,costumes, animation of all, GALLRY option, all modes]
+Type = Gameshark
+Activation = EndFrame
+300ADEA1 0001
+800ADECC FFFF
+900ADED0 FFFFFFFF
+900ADED4 FFFFFFFF
+900ADED8 FFFFFFFF
+300ADEDC 00FF
+
+[Physical strength is reduced]
+Type = Gameshark
+Activation = EndFrame
+D00535CC 1023
+300535CC 0023
+

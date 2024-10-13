@@ -1,0 +1,24 @@
+; CHTDB: ; [ DonPachi (Jpn) (1996) (SPS) {SLPS-00548 (PS-052)} <donpachi> ]
+
+[P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80087884 0005
+
+[P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80087910 0005
+
+[P1 Infinite Bombs]
+Description = Deactivate after complete mission
+Type = Gameshark
+Activation = EndFrame
+800B7F1E 0003
+
+[P2 Infinite Bombs]
+Description = Deactivate after complete mission
+Type = Gameshark
+Activation = EndFrame
+800B7F5E 0003
+

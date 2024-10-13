@@ -1,0 +1,586 @@
+; CHTDB: ; [ 007: Der Morgen Stirbt Nie (Germany) {SLES-02376} ]
+
+[Y-Bildschirm Justieren Mit Select+Hoch/Runter]
+Type = Gameshark
+Activation = EndFrame
+E00C954C 1100
+20061340 0001
+E00C954C 4100
+21061340 0001
+
+[Alle Missionen Freischalten]
+Type = Gameshark
+Activation = EndFrame
+50000502 0000
+8001E284 0101
+
+[Alle Filme Freischalten]
+Type = Gameshark
+Activation = EndFrame
+50000602 0000
+8001E0C2 0101
+
+[Jeden Level AnwäHlen (Mit Hilfe Des Cheats)]
+Type = Gameshark
+Activation = EndFrame
+3006D5A4 0001
+
+[Unendlich Leben]
+Type = Gameshark
+Activation = EndFrame
+3001E0DA 0063
+
+[Unverwundbar Nach Einmal Gestorben Sein]
+Type = Gameshark
+Activation = EndFrame
+8002585C 0000
+
+[Mission 1-Codes\Unendlich Munition Pk7]
+Type = Gameshark
+Activation = EndFrame
+800EAD14 0063
+
+[Mission 1-Codes\Schnellfeuern Rk7]
+Type = Gameshark
+Activation = EndFrame
+800EAD34 0000
+
+[Mission 1-Codes\Habe ScharfschüTzengewehr]
+Type = Gameshark
+Activation = EndFrame
+800EADD0 002C
+
+[Mission 1-Codes\Unendlich Munition ScharfschüTzengewehr]
+Type = Gameshark
+Activation = EndFrame
+900EADDC 00630063
+
+[Mission 1-Codes\Max Munition ScharfschüTzengewehr]
+Type = Gameshark
+Activation = EndFrame
+800EADE0 0063
+
+[Mission 1-Codes\Schnellfeuern ScharfschüTzengewehr]
+Type = Gameshark
+Activation = EndFrame
+800EADF8 0000
+
+[Mission 1-Codes\Habe Angriffswaffe]
+Type = Gameshark
+Activation = EndFrame
+800EAD6C 0063
+
+[Mission 1-Codes\Unendlich Munition Angriffswaffe]
+Type = Gameshark
+Activation = EndFrame
+900EAD78 00630063
+
+[Mission 1-Codes\Max Munition Angriffswaffe]
+Type = Gameshark
+Activation = EndFrame
+800EAD7C 0063
+
+[Mission 1-Codes\Unendlich Medikits]
+Type = Gameshark
+Activation = EndFrame
+800EAEA4 0063
+
+[Mission 2-Codes\Unendlich Munition Pk7]
+Type = Gameshark
+Activation = EndFrame
+800D1D2C 0063
+
+[Mission 2-Codes\Schnellfeuern Rk7]
+Type = Gameshark
+Activation = EndFrame
+800D1D48 0000
+
+[Mission 2-Codes\Habe ScharfschüTzengewehr]
+Type = Gameshark
+Activation = EndFrame
+800D1DE8 002C
+
+[Mission 2-Codes\Unendlich Munition ScharfschüTzengewehr]
+Type = Gameshark
+Activation = EndFrame
+900D1DF4 00630063
+
+[Mission 2-Codes\Max Munition ScharfschüTzengewehr]
+Type = Gameshark
+Activation = EndFrame
+800D1DF8 0063
+
+[Mission 2-Codes\Schnellfeuern ScharfschüTzengewehr]
+Type = Gameshark
+Activation = EndFrame
+800D1E10 0063
+
+[Mission 2-Codes\Habe Angriffswaffe]
+Type = Gameshark
+Activation = EndFrame
+800D1D84 002C
+
+[Mission 2-Codes\Unendlich Munition Angriffswaffe]
+Type = Gameshark
+Activation = EndFrame
+800D1D92 0063
+800D1D94 0063
+
+[Mission 2-Codes\Max Munition Angriffswaffe]
+Type = Gameshark
+Activation = EndFrame
+800D1D96 0063
+
+[Mission 2-Codes\Schnellfeuern Angriffswaffe]
+Type = Gameshark
+Activation = EndFrame
+800D1DA8 0000
+
+[Mission 2-Codes\Unendlich Magnethaftminen]
+Type = Gameshark
+Activation = EndFrame
+800D1E58 0063
+800D1E5C 0063
+
+[Mission 2-Codes\Schnell Magnethaftminen Verteilen]
+Type = Gameshark
+Activation = EndFrame
+800D1E74 0000
+
+[Mission 2-Codes\Unendlich Medikits]
+Type = Gameshark
+Activation = EndFrame
+300D1EBC 0063
+
+[Mission 3-Codes\Habe Pk7]
+Type = Gameshark
+Activation = EndFrame
+800EDCA0 EE24
+
+[Mission 3-Codes\Unendlich Munition Pk7]
+Type = Gameshark
+Activation = EndFrame
+800EDCAC 0063
+
+[Mission 3-Codes\Schnellfeuern Rk7]
+Type = Gameshark
+Activation = EndFrame
+800EDCC8 0000
+
+[Mission 3-Codes\Habe Angriffswaffe]
+Type = Gameshark
+Activation = EndFrame
+800EDE08 002C
+
+[Mission 3-Codes\Unendlich Munition Angriffswaffe]
+Type = Gameshark
+Activation = EndFrame
+900EDE14 00630063
+
+[Mission 3-Codes\Max Munition Angriffswaffe]
+Type = Gameshark
+Activation = EndFrame
+800EDE18 0063
+
+[Mission 3-Codes\Schnellfeuern Angriffswaffe]
+Type = Gameshark
+Activation = EndFrame
+800EDE2E 0000
+
+[Mission 3-Codes\Habe Smg45]
+Type = Gameshark
+Activation = EndFrame
+800EDE6C EE24
+
+[Mission 3-Codes\Unendlich Munition Smg45]
+Type = Gameshark
+Activation = EndFrame
+900EDE78 00630063
+
+[Mission 3-Codes\Max Munition Smg45]
+Type = Gameshark
+Activation = EndFrame
+800EDD78 0063
+
+[Mission 3-Codes\Unendlich Medikits]
+Type = Gameshark
+Activation = EndFrame
+800EDEA0 0063
+
+[Mission 4-Codes\Unendlich Munition Pk7]
+Type = Gameshark
+Activation = EndFrame
+800F55A4 0063
+
+[Mission 4-Codes\Schnellfeuern Rk7]
+Type = Gameshark
+Activation = EndFrame
+800F55C0 0000
+
+[Mission 4-Codes\Habe Angriffswaffe]
+Type = Gameshark
+Activation = EndFrame
+800F55FC 002C
+
+[Mission 4-Codes\Unendlich Munition Angriffswaffe]
+Type = Gameshark
+Activation = EndFrame
+900F5608 00630063
+
+[Mission 4-Codes\Max Munition Angriffswaffe]
+Type = Gameshark
+Activation = EndFrame
+800F560C 0063
+
+[Mission 4-Codes\Schnellfeuern Angriffswaffe]
+Type = Gameshark
+Activation = EndFrame
+800F5624 0000
+
+[Mission 4-Codes\Unendlich Medikits]
+Type = Gameshark
+Activation = EndFrame
+800F566C 0063
+
+[Mission 5-Codes\Unendlich Munition Pk7]
+Type = Gameshark
+Activation = EndFrame
+80100076 0063
+80100078 0063
+
+[Mission 5-Codes\Schnellfeuern Rk7]
+Type = Gameshark
+Activation = EndFrame
+80100094 0000
+
+[Mission 5-Codes\Habe Angriffswaffe]
+Type = Gameshark
+Activation = EndFrame
+801000D0 002C
+
+[Mission 5-Codes\Unendlich Munition Angriffswaffe]
+Type = Gameshark
+Activation = EndFrame
+901000DC 00630063
+
+[Mission 5-Codes\Max Munition Angriffswaffe]
+Type = Gameshark
+Activation = EndFrame
+801000E0 0063
+
+[Mission 5-Codes\Schnellfeuern Angriffswaffe]
+Type = Gameshark
+Activation = EndFrame
+801000F8 0000
+
+[Mission 5-Codes\Unendlich Gasbomben]
+Type = Gameshark
+Activation = EndFrame
+80100208 0063
+
+[Mission 5-Codes\Unendlich Medikits]
+Type = Gameshark
+Activation = EndFrame
+801001A4 0063
+
+[Mission 6-Codes\Unendlich Munition Pk7]
+Type = Gameshark
+Activation = EndFrame
+800E0C44 0063
+
+[Mission 6-Codes\Schnellfeuern Rk7]
+Type = Gameshark
+Activation = EndFrame
+800E0C60 0000
+
+[Mission 6-Codes\Habe Ir-ScharfschüTzengewehr]
+Type = Gameshark
+Activation = EndFrame
+800E0D00 002C
+
+[Mission 6-Codes\Unendlich Munition Ir-ScharfschüTzengewehr]
+Type = Gameshark
+Activation = EndFrame
+900E0D0C 00630063
+
+[Mission 6-Codes\Max Munition Ir-ScharfschüTzengewehr]
+Type = Gameshark
+Activation = EndFrame
+800E0D10 0063
+
+[Mission 6-Codes\Schnellfeuern Ir-ScharfschüTzengewehr]
+Type = Gameshark
+Activation = EndFrame
+800E0D28 0000
+
+[Mission 6-Codes\Habe Angriffswaffe]
+Type = Gameshark
+Activation = EndFrame
+800E0C9C 002C
+
+[Mission 6-Codes\Unendlich Munition Angriffswaffe]
+Type = Gameshark
+Activation = EndFrame
+900E0CA8 00630063
+
+[Mission 6-Codes\Max Munition Angriffswaffe]
+Type = Gameshark
+Activation = EndFrame
+800E0CAC 0063
+
+[Mission 6-Codes\Unendlich Bmw-Raketen]
+Type = Gameshark
+Activation = EndFrame
+800E0E38 0063
+
+[Mission 6-Codes\Schnellfeuern Bmw-Raketen]
+Type = Gameshark
+Activation = EndFrame
+800E0E54 0000
+
+[Mission 6-Codes\Unendlich Medikits]
+Type = Gameshark
+Activation = EndFrame
+800E0D70 0063
+
+[Mission 7-Codes\Unendlich Munition Pk7]
+Type = Gameshark
+Activation = EndFrame
+800E5124 0063
+
+[Mission 7-Codes\Schnellfeuern Rk7]
+Type = Gameshark
+Activation = EndFrame
+800E5140 0000
+
+[Mission 7-Codes\Habe Angriffswaffe]
+Type = Gameshark
+Activation = EndFrame
+800E517C 002C
+
+[Mission 7-Codes\Unendlich Munition Angriffswaffe]
+Type = Gameshark
+Activation = EndFrame
+900E5188 00630063
+
+[Mission 7-Codes\Max Munition Angriffswaffe]
+Type = Gameshark
+Activation = EndFrame
+800E518C 0063
+
+[Mission 7-Codes\Schnellfeuern Angriffswaffe]
+Type = Gameshark
+Activation = EndFrame
+800E51A4 0000
+
+[Mission 7-Codes\Habe Ir-ScharfschüTzengewehr]
+Type = Gameshark
+Activation = EndFrame
+800E51E0 002C
+
+[Mission 7-Codes\Unendlich Munition Ir-ScharfschüTzengewehr]
+Type = Gameshark
+Activation = EndFrame
+900E51EC 00630063
+
+[Mission 7-Codes\Max Munition Ir-ScharfschüTzengewehr]
+Type = Gameshark
+Activation = EndFrame
+800E51F0 0063
+
+[Mission 7-Codes\Schnellfeuern Ir-ScharfschüTzengewehr]
+Type = Gameshark
+Activation = EndFrame
+800E5208 0000
+
+[Mission 7-Codes\Habe Auto 9mm]
+Type = Gameshark
+Activation = EndFrame
+800E53D0 EE24
+
+[Mission 7-Codes\Unendlich Munition Auto 9mm]
+Type = Gameshark
+Activation = EndFrame
+900E53E0 00630063
+
+[Mission 7-Codes\Max Munition Auto 9mm]
+Type = Gameshark
+Activation = EndFrame
+800E53E4 0063
+
+[Mission 7-Codes\Unendlich Medikits]
+Type = Gameshark
+Activation = EndFrame
+800E52B4 0063
+
+[Mission 8-Codes\Unendlich Munition Pk7]
+Type = Gameshark
+Activation = EndFrame
+800F9AD4 0063
+
+[Mission 8-Codes\Schnellfeuern Rk7]
+Type = Gameshark
+Activation = EndFrame
+800F9AF0 0000
+
+[Mission 8-Codes\Habe Angriffswaffe]
+Type = Gameshark
+Activation = EndFrame
+800F9B90 0063
+
+[Mission 8-Codes\Unendlich Munition Angriffswaffe]
+Type = Gameshark
+Activation = EndFrame
+900F9B9C 00630063
+
+[Mission 8-Codes\Max Munition Angriffswaffe]
+Type = Gameshark
+Activation = EndFrame
+800F9BA0 0063
+
+[Mission 8-Codes\Schnellfeuern Angriffswaffe]
+Type = Gameshark
+Activation = EndFrame
+800F9AEA 0000
+
+[Mission 8-Codes\Habe Auto 9mm]
+Type = Gameshark
+Activation = EndFrame
+800F9B2C EE24
+
+[Mission 8-Codes\Unendlich Munition Auto 9mm]
+Type = Gameshark
+Activation = EndFrame
+900F9B38 00630063
+
+[Mission 8-Codes\Max Munition Auto 9mm]
+Type = Gameshark
+Activation = EndFrame
+800F9B3C 0063
+
+[Mission 8-Codes\Unendlich Medikits]
+Type = Gameshark
+Activation = EndFrame
+800F9C64 0063
+
+[Mission 8-Codes\Besitze SchlüSsel]
+Type = Gameshark
+Activation = EndFrame
+800DE328 0001
+
+[Mission 9-Codes\Unendlich Munition Pk7]
+Type = Gameshark
+Activation = EndFrame
+800FFDA4 0063
+
+[Mission 9-Codes\Schnellfeuern Rk7]
+Type = Gameshark
+Activation = EndFrame
+800FFDCC 0000
+
+[Mission 9-Codes\Habe Angriffswaffe]
+Type = Gameshark
+Activation = EndFrame
+800FFDFC 002C
+
+[Mission 9-Codes\Unendlich Munition Angriffswaffe]
+Type = Gameshark
+Activation = EndFrame
+900FFE08 00630063
+
+[Mission 9-Codes\Max Munition Angriffswaffe]
+Type = Gameshark
+Activation = EndFrame
+800FFE0C 0063
+
+[Mission 9-Codes\Schnellfeuern Angriffswaffe]
+Type = Gameshark
+Activation = EndFrame
+800FFE24 0000
+
+[Mission 9-Codes\Habe Rl 66]
+Type = Gameshark
+Activation = EndFrame
+800FFEC4 002C
+
+[Mission 9-Codes\Unendlich Munition Rl 66]
+Type = Gameshark
+Activation = EndFrame
+800FFED0 0063
+800FFED4 0063
+
+[Mission 9-Codes\Schnellfeuern Rl 66]
+Type = Gameshark
+Activation = EndFrame
+800FFEEC 0000
+
+[Mission 9-Codes\Unendlich Medikits]
+Type = Gameshark
+Activation = EndFrame
+800FFE6C 0063
+
+[Mission 10-Codes\Unendlich Munition Pk7]
+Type = Gameshark
+Activation = EndFrame
+800FBC64 0063
+
+[Mission 10-Codes\Habe Angriffswaffe]
+Type = Gameshark
+Activation = EndFrame
+800FBCBC 002C
+
+[Mission 10-Codes\Unendlich Munition Angriffswaffe]
+Type = Gameshark
+Activation = EndFrame
+900FBCC8 00630063
+
+[Mission 10-Codes\Max Munition Angriffswaffe]
+Type = Gameshark
+Activation = EndFrame
+800FBCCC 0063
+
+[Mission 10-Codes\Schnellfeuern Angriffswaffe]
+Type = Gameshark
+Activation = EndFrame
+800FBCE4 0000
+
+[Mission 10-Codes\Habe Smg45]
+Type = Gameshark
+Activation = EndFrame
+800FBD84 EE24
+
+[Mission 10-Codes\Unendlich Munition Smg45]
+Type = Gameshark
+Activation = EndFrame
+900FBD90 00630063
+
+[Mission 10-Codes\Max Munition Smg45]
+Type = Gameshark
+Activation = EndFrame
+800FBD94 0063
+
+[Mission 10-Codes\Habe Gl40]
+Type = Gameshark
+Activation = EndFrame
+800FBD20 002C
+
+[Mission 10-Codes\Unendlich Munition Gl40]
+Type = Gameshark
+Activation = EndFrame
+900FBD2C 00630063
+
+[Mission 10-Codes\Max Munition Gl40]
+Type = Gameshark
+Activation = EndFrame
+800FBD30 0063
+
+[Mission 10-Codes\Schnellfeuern Munition Gl40]
+Type = Gameshark
+Activation = EndFrame
+800FBD48 0000
+
+[Mission 10-Codes\Unendlich Medikits]
+Type = Gameshark
+Activation = EndFrame
+800FBDF4 0063
+

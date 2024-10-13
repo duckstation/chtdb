@@ -1,0 +1,191 @@
+; CHTDB: ; [ Kaeru no Ehon - Nakushita Kioku o Motomete (Jpn) (1999) (Victor Interactive Software) {SLPS-02332} <kaeruehn> ]
+
+[Infinite + Max HP 999]
+Type = Gameshark
+Activation = EndFrame
+800F227A 03E7
+800F229E 03E7
+
+[Infinite + Max SP 999]
+Type = Gameshark
+Activation = EndFrame
+800F227C 03E7
+800F22A0 03E7
+
+[Mortal blow-invincible Press L2]
+Type = Gameshark
+Activation = EndFrame
+D00F1318 0001
+80087916 0000
+D00F1318 0000
+80087916 0060
+
+[Normally all picture book]
+Type = Gameshark
+Activation = EndFrame
+8010881E FFFF
+
+[Infinite Money (60000)]
+Type = Gameshark
+Activation = EndFrame
+801087C4 EA60
+
+[Infinite HP in battle]
+Type = Gameshark
+Activation = EndFrame
+800F227A 03E7
+800F2682 03E7
+
+[Infinite SP in battle]
+Type = Gameshark
+Activation = EndFrame
+800F227C 03E7
+800F2684 03E7
+
+[Experience value Max]
+Type = Gameshark
+Activation = EndFrame
+901087C0 0001869F
+
+[Fame value Max]
+Type = Gameshark
+Activation = EndFrame
+801087CC 2710
+
+[100 degrees of friendship Alter]
+Type = Gameshark
+Activation = EndFrame
+30108E03 0064
+
+[100 degrees of friendship Marlo]
+Type = Gameshark
+Activation = EndFrame
+30108E07 0064
+
+[100 degrees of friendship Lou]
+Type = Gameshark
+Activation = EndFrame
+30108E0B 0064
+
+[100 degrees of friendship Sheriku]
+Type = Gameshark
+Activation = EndFrame
+30108E0F 0064
+
+[100 degrees of friendship Honoka]
+Type = Gameshark
+Activation = EndFrame
+30108E13 0064
+
+[100 degrees of friendship Karin]
+Type = Gameshark
+Activation = EndFrame
+30108E17 0064
+
+[100 degrees of friendship Resources]
+Type = Gameshark
+Activation = EndFrame
+30108E1B 0064
+
+[100 degrees of friendship Dewey]
+Type = Gameshark
+Activation = EndFrame
+30108E1F 0064
+
+[100 degrees of friendship Retiru]
+Type = Gameshark
+Activation = EndFrame
+30108E23 0064
+
+[100 degrees of friendship These]
+Type = Gameshark
+Activation = EndFrame
+30108E27 0064
+
+[100 degrees of friendship Miyu]
+Type = Gameshark
+Activation = EndFrame
+30108E2B 0064
+
+[100 degrees of friendship Rod]
+Type = Gameshark
+Activation = EndFrame
+30108E2F 0064
+
+[100 degrees of friendship Ryutta]
+Type = Gameshark
+Activation = EndFrame
+30108E33 0064
+
+[100 degrees of friendship Rachel]
+Type = Gameshark
+Activation = EndFrame
+30108E37 0064
+
+[100 degrees of friendship Yoong]
+Type = Gameshark
+Activation = EndFrame
+30108E3B 0064
+
+[No Random Encounter]
+Type = Gameshark
+Activation = EndFrame
+800F2F24 0000
+
+[NPC this all complete (on DATA) I can be viewed in the Library. Half-hearted story is also complete.]
+Type = Gameshark
+Activation = EndFrame
+8010881E FFFF
+80108826 0000
+
+[Ability value 250 level up in the inn, at one time up]
+Type = Gameshark
+Activation = EndFrame
+D005426E 2462
+9005426C 240200FA
+
+[99 Roditaito blacksmith, armor in exchange]
+Type = Gameshark
+Activation = EndFrame
+C008A1DC 3023
+9008A1DC 24060063
+00000000 FFFF
+
+[Race of the luxury saloon moment clear]
+Type = Gameshark
+Activation = EndFrame
+A7056686 14601400
+
+[All special features and bonus game Open]
+Type = Gameshark
+Activation = EndFrame
+C005244E 1082
+301087B9 0001
+80108826 0000
+00000000 FFFF
+
+[Bonus game Invincibility]
+Type = Gameshark
+Activation = EndFrame
+D00E24AA 2442
+800E24A8 0000
+
+[Picture book / page number]
+Type = Gameshark
+Activation = EndFrame
+30109232 0064
+
+[Sequence of picture book + 01h]
+Type = Gameshark
+Activation = EndFrame
+301087E8 001F
+30108807 001F
+
+[Debug mode Procedure You press L2 + R2 when you open the special features in their room]
+Type = Gameshark
+Activation = EndFrame
+C00F1318 0003
+800AF7FA 000D
+800AF7FE 000D
+00000000 FFFF
+

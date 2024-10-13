@@ -1,0 +1,46 @@
+; CHTDB: ; [ Gakkou wo Tsukurou!! Koushou Sensei Monogatari (Jpn) (2000) (Victor Interactive Software) {SLPS-02998} <gakkotsk> ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+801C386C 05F5
+801C386C E0FF
+801CEDE0 05F5
+801CEDE0 E0FF
+
+[Infinite Heart]
+Type = Gameshark
+Activation = EndFrame
+801C3866 0064
+801CF78C 0064
+
+[Favorability MAX]
+Type = Gameshark
+Activation = EndFrame
+801CF78C 0064
+
+[Principal power MAX]
+Type = Gameshark
+Activation = EndFrame
+801CF78E 0064
+
+[School operating funds MAX]
+Type = Gameshark
+Activation = EndFrame
+901CEDE0 05F5E0FF
+
+[All Scenario]
+Type = Gameshark
+Activation = EndFrame
+301CF792 FFFF
+
+[All items]
+Type = Gameshark
+Activation = EndFrame
+901CF798 FFFFFFFF
+
+[Refuse collection maximum amount]
+Type = Gameshark
+Activation = EndFrame
+801CF790 0064
+

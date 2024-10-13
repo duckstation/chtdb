@@ -1,0 +1,7 @@
+; CHTDB: ; [ Time Bokan: Yattaman (Italy) {SLES-03651} ]
+
+[Infinite Continues]
+Type = Gameshark
+Activation = EndFrame
+8008512C 000A
+

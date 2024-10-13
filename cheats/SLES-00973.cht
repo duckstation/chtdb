@@ -1,0 +1,113 @@
+; CHTDB: ; [ Resident Evil 2 (France) {SLES-00973 | SLES-10973} ]
+
+[Leon-Codes\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800C6B52 00FF
+
+[Leon-Codes\Have Shot Gun L1 + Square]
+Type = Gameshark
+Activation = EndFrame
+D00C5144 0084
+800CB840 FF07
+
+[Leon-Codes\Have Custom Shotgun L2 + Triangle]
+Type = Gameshark
+Activation = EndFrame
+D00C5144 0011
+800CB840 FF08
+
+[Leon-Codes\Have Magnum L1 + Triangle]
+Type = Gameshark
+Activation = EndFrame
+D00C5144 0014
+800CB840 FF05
+
+[Leon-Codes\Have Custom Magnum L1 + X]
+Type = Gameshark
+Activation = EndFrame
+D00C5144 0044
+800CB840 FF06
+
+[Leon-Codes\Have Gatling Gun R2 + Square]
+Type = Gameshark
+Activation = EndFrame
+D00C5144 0082
+800CB840 FF12
+
+[Leon-Codes\Have Flame Thrower R2 + Triangle]
+Type = Gameshark
+Activation = EndFrame
+D00C5144 0012
+800CB840 FF10
+
+[Leon-Codes\Have Rocket Launcher R2 + X]
+Type = Gameshark
+Activation = EndFrame
+D00C5144 0042
+800CB840 FF11
+
+[Leon-Codes\Have The Bag]
+Type = Gameshark
+Activation = EndFrame
+800CB6C4 0001
+
+[Claire-Codes\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800C6AEA 00FF
+
+[Claire-Codes\Have Grenade Launcher L1 + Triangle]
+Type = Gameshark
+Activation = EndFrame
+D00C50E4 0014
+800CB7D8 FF09
+
+[Claire-Codes\Have Grenade Launcher (Fire).L1 + X]
+Type = Gameshark
+Activation = EndFrame
+D00C50E4 0044
+800CB7D8 FF0A
+
+[Claire-Codes\Have Grenade Launcher (Acid) L1 + Square]
+Type = Gameshark
+Activation = EndFrame
+D00C50E4 0084
+800CB7D8 FF0B
+
+[Claire-Codes\Have Bow Gun L2 + Triangle]
+Type = Gameshark
+Activation = EndFrame
+D00C50E4 0011
+800CB7D8 FF0C
+
+[Claire-Codes\Have Colt S.A.A. L2 + X]
+Type = Gameshark
+Activation = EndFrame
+D00C50E4 0041
+800CB7D8 FF0D
+
+[Claire-Codes\Have Spark Shot L2 + Square]
+Type = Gameshark
+Activation = EndFrame
+D00C50E4 0081
+800CB7D8 FF0E
+
+[Claire-Codes\Have Submachine Gun R2 + Triangle]
+Type = Gameshark
+Activation = EndFrame
+D00C50E4 0012
+800CB7D8 FF0F
+
+[Claire-Codes\Have Rocket Launcher R2 + X]
+Type = Gameshark
+Activation = EndFrame
+D00C50E4 0042
+800CB7D8 FF11
+
+[Claire-Codes\Have Gatling Gun R2 + Square]
+Type = Gameshark
+Activation = EndFrame
+D00C50E4 0082
+800CB7D8 FF12
+

@@ -1,0 +1,21 @@
+; CHTDB: ; [ Kyoutei Wars Makuru 6 (Japan) {SLPS-03451} ]
+
+[First piece prop stats max]
+Type = Gameshark
+Activation = EndFrame
+900DC5BC 00640064
+900DC5C0 00640064
+
+[Handsome prop stats max]
+Type = Gameshark
+Activation = EndFrame
+800DC5E0 0064
+900DC5E4 00640064
+800DC5E8 0064
+
+[Prop comedian stats max]
+Type = Gameshark
+Activation = EndFrame
+900DC604 00640064
+900DC608 00640064
+

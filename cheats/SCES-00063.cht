@@ -1,0 +1,33 @@
+; CHTDB: ; [ ESPN Extreme Games (Europe) {SCES-00063} ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8007A270 0500
+8007AB50 0500
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+801E9014 09D8
+
+[Always 60 Mph]
+Type = Gameshark
+Activation = EndFrame
+8007B1A2 0050
+
+[All Cars Gets 100 Mph]
+Type = Gameshark
+Activation = EndFrame
+8007AB6A 0086
+
+[All Cars With Higher Accelerations]
+Type = Gameshark
+Activation = EndFrame
+8007AB4C 0250
+
+[Mega-Acceleration]
+Type = Gameshark
+Activation = EndFrame
+8007AB4C 0100
+

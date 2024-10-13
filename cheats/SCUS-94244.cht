@@ -1,0 +1,350 @@
+; CHTDB: ; [ Crash Bandicoot - Warped (USA) (1998) (Sony Computer Entertainment America) {SCUS-94244, SCUS-94244CE} <crash3> ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+D303AE8D 0030
+8003AE8D 0000
+
+[99 Lives]
+Type = Gameshark
+Activation = EndFrame
+C005BEEC F64C
+800B5D4C 6300
+80068F58 6300
+00000000 FFFF
+
+[Enable All Powers]
+Type = Gameshark
+Activation = EndFrame
+80069178 003F
+
+[Have All Gems]
+Type = Gameshark
+Activation = EndFrame
+90068FB0 FFFFFFFF
+90068FB4 FF00FFFF
+
+[Have All Sapphires]
+Type = Gameshark
+Activation = EndFrame
+900691B4 FFFFFFFF
+800691B8 FFFF
+
+[Have All Crystals]
+Type = Gameshark
+Activation = EndFrame
+9006912C FFFFFFFF
+80069130 FFFF
+
+[Time Trial Timer]
+Type = Gameshark
+Activation = EndFrame
+80068EEC 0973
+
+[Select+Up Enable Invincibility. Select+Down Disable Invincibility (Version 2)]
+Type = Gameshark
+Activation = EndFrame
+D0065BCE FFEE
+80038016 2400
+D0065BCE FFBE
+80038016 0C00
+
+[Select+Up for Invincibility Enabled, Select+Down for Invincibility Disabled]
+Type = Gameshark
+Activation = EndFrame
+D0065BCE FFEE
+8001DDAA 2400
+D0065BCE FFBE
+8001DDAA 0C00
+
+[Walk/Drive Through Walls (Hold L2+R2)]
+Type = Gameshark
+Activation = EndFrame
+A718F866 10061000
+80044D46 00001000
+8002EDDE 00001000
+D7100000 00000003
+8002EDDE 00001060
+80044D46 000011C0
+
+[Temporary matrix mode]
+Description = Undo before passing last player by pressing R2
+Type = Gameshark
+Activation = EndFrame
+A71CA77A 10052400
+D7200000 00000002
+A71CA77A 24001005
+
+[Drive anywhere]
+Type = Gameshark
+Activation = EndFrame
+A701F4E6 10402400
+
+[Higher space jump without booster + multi jump in mid-air]
+Description = Tap R1 or L1 repeatedly
+Type = Gameshark
+Activation = EndFrame
+A705E326 10402400
+A7051D12 10401000
+A701DE1E 10401000
+
+[Higher space jump without booster + multi jump in mid-air]
+Description = Tap L1 repeatedly
+Type = Gameshark
+Activation = EndFrame
+A705E326 24001040
+A7051D12 10001040
+A701DE1E 10001040
+D7200000 00000004
+A705E326 10402400
+A7051D12 10401000
+A701DE1E 10401000
+
+[Infinite Laps]
+Type = Gameshark
+Activation = EndFrame
+A704172E 14621000
+
+[One lap to end race]
+Type = Gameshark
+Activation = EndFrame
+A704172E 14622400
+
+[Bazooka hits anywhere "Hold L1 + L2]
+Type = Gameshark
+Activation = EndFrame
+A701DF0A 24000C00
+D7200000 00000005
+A701DF0A 0C002400
+
+[Flat Wumpa Fruit]
+Type = Gameshark
+Activation = EndFrame
+A703F47E 0C012400
+
+[Most things are backwards]
+Type = Gameshark
+Activation = EndFrame
+A70422C2 04801000
+
+[Break boxes from anywhere "Hold L3"]
+Type = Gameshark
+Activation = EndFrame
+A701DD4C 00040004
+A701DD4E 24020000
+A701D1CE 10001062
+A702C842 24000C00
+D7200000 00000200
+A702C842 0C002400
+A701D1CE 10621000
+A701DD4C 00000004
+A701DD4E 00002402
+
+[Telekenetic Box Breaking as Crash]
+Type = Gameshark
+Activation = EndFrame
+A702C842 0C002400
+
+[Select Crash Speed Multiplier\Default]
+Type = Gameshark
+Activation = EndFrame
+9001EED8 0C002C00
+9001EEDC 00000000
+9000B000 8E030004
+9000B004 27BDFFE8
+9000B008 AFA80010
+9000B00C AFA90014
+9000B010 00000000
+9000B014 24080001
+9000B018 00004812
+9000B01C 00680018
+9000B020 00001812
+9000B024 01200013
+9000B028 8FA80010
+9000B02C 8FA90014
+9000B030 27BD0018
+9000B034 03E00008
+9000B038 00000000
+
+[Select Crash Speed Multiplier\x2]
+Type = Gameshark
+Activation = EndFrame
+9001EED8 0C002C00
+9001EEDC 00000000
+9000B000 8E030004
+9000B004 27BDFFE8
+9000B008 AFA80010
+9000B00C AFA90014
+9000B010 00000000
+9000B014 24080002
+9000B018 00004812
+9000B01C 00680018
+9000B020 00001812
+9000B024 01200013
+9000B028 8FA80010
+9000B02C 8FA90014
+9000B030 27BD0018
+9000B034 03E00008
+9000B038 00000000
+
+[Select Crash Speed Multiplier\x3]
+Type = Gameshark
+Activation = EndFrame
+9001EED8 0C002C00
+9001EEDC 00000000
+9000B000 8E030004
+9000B004 27BDFFE8
+9000B008 AFA80010
+9000B00C AFA90014
+9000B010 00000000
+9000B014 24080003
+9000B018 00004812
+9000B01C 00680018
+9000B020 00001812
+9000B024 01200013
+9000B028 8FA80010
+9000B02C 8FA90014
+9000B030 27BD0018
+9000B034 03E00008
+9000B038 00000000
+
+[Select Crash Speed Multiplier\x4]
+Type = Gameshark
+Activation = EndFrame
+9001EED8 0C002C00
+9001EEDC 00000000
+9000B000 8E030004
+9000B004 27BDFFE8
+9000B008 AFA80010
+9000B00C AFA90014
+9000B010 00000000
+9000B014 24080004
+9000B018 00004812
+9000B01C 00680018
+9000B020 00001812
+9000B024 01200013
+9000B028 8FA80010
+9000B02C 8FA90014
+9000B030 27BD0018
+9000B034 03E00008
+9000B038 00000000
+;hugopocked type 1, Teh69thSpartan type 2
+
+[Select Moon Jump Cheat\Type 1 (L3/LS to toggle on/off)]
+Type = Gameshark
+Activation = EndFrame
+D7010001 01000200
+F501F9D0 00882000
+F501F9D2 AE430800
+F501F9D6 00652400
+90008000 3C148006
+90008004 36945BCE
+90008008 96810000
+90008010 00010B82
+90008018 30210001
+90008020 14200005
+90008028 3063FFFF
+9000802C 3C14000D
+90008030 00741825
+90008038 AE430088
+9000803C 08007E76
+90008040 0065182A
+
+[Select Moon Jump Cheat\Type 2]
+Type = Gameshark
+Activation = EndFrame
+A701F95C 00AC2C00
+A701F95E 8E420C00
+9000B000 27BDFFE8
+9000B004 AFA80010
+9000B008 3C088006
+9000B00C 95085BCE
+9000B014 00084027
+9000B018 31084000
+9000B01C 39084000
+9000B020 11000002
+9000B028 8E4200AC
+9000B030 8FA80010
+9000B034 27BD0018
+9000B038 03E00008
+
+[Select Crash/Coco Speed\Enable this line and select speed multiplier]
+Type = Gameshark
+Activation = EndFrame
+8000C03E 240B
+9000C000 8E420104
+9000C004 27BDFFE0
+9000C008 AFA80010
+9000C00C AFA90014
+9000C010 AFAA0018
+9000C014 AFAB001C
+9000C01C 00004012
+9000C020 00004810
+9000C024 344A0000
+9000C028 340B0064
+9000C02C 014B001A
+9000C030 00005012
+9000C040 014B0018
+9000C044 00005012
+9000C048 004A1021
+9000C054 01000013
+9000C058 01200011
+9000C05C 8FA80010
+9000C060 8FA90014
+9000C064 8FAA0018
+9000C068 8FAB001C
+9000C06C 27BD0020
+9000C070 03E00008
+A701EF7C 01043000
+A701EF7E 8E420C00
+
+[Select Crash/Coco Speed\Normal Speed]
+Type = Gameshark
+Activation = EndFrame
+8000C03C 0000
+
+[Select Crash/Coco Speed\50% faster]
+Type = Gameshark
+Activation = EndFrame
+8000C03C 0019
+
+[Select Crash/Coco Speed\100% faster]
+Type = Gameshark
+Activation = EndFrame
+8000C03C 0032
+
+[Select Crash/Coco Speed\200% faster]
+Type = Gameshark
+Activation = EndFrame
+8000C03C 0064
+
+[Select Crash/Coco Speed\300% faster]
+Type = Gameshark
+Activation = EndFrame
+8000C03C 0096
+
+[Select Crash/Coco Speed\400% faster]
+Type = Gameshark
+Activation = EndFrame
+8000C03C 00C8
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+A7018A90 F0D90C00
+A7018A92 0C002402
+A7018A94 20231000
+A7018A96 00042413
+A7018AB2 A622A633
+
+[Enable 60 FPS (Play with Overclock to get preferred speed)]
+Type = Gameshark
+Activation = EndFrame
+A704B40E 10401000
+
+[Enable 60 FPS Alternative (Play with Overclock to get preferred speed)]
+Type = Gameshark
+Activation = EndFrame
+A704B2E2 04812400
+

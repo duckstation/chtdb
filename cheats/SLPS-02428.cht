@@ -1,0 +1,7 @@
+; CHTDB: ; [ Disc Derby: Meiba o Tsukurou!! (Japan) {SLPS-02428} ]
+
+[Have 9999999 Money]
+Type = Gameshark
+Activation = EndFrame
+9008FBDC 0098967F
+

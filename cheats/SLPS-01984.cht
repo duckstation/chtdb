@@ -1,0 +1,59 @@
+; CHTDB: ; [ Dosukoi Densetsu (Japan) {SLPS-01984} ]
+
+[Infinite Money (60000)]
+Type = Gameshark
+Activation = EndFrame
+801CA920 EA60
+
+[Infinite Strength]
+Type = Gameshark
+Activation = EndFrame
+80035E2C 0000
+
+[Parameter MAX judgment after practice once]
+Type = Gameshark
+Activation = EndFrame
+80034D98 0001
+
+[Parameter MAX concentration in lessons after once]
+Type = Gameshark
+Activation = EndFrame
+80034EB0 0001
+
+[Parameter MAX sustainability after practice once]
+Type = Gameshark
+Activation = EndFrame
+80034FC8 0001
+
+[Parameter MAX flexibility after practice once]
+Type = Gameshark
+Activation = EndFrame
+800350E0 0001
+
+[Parameter MAX instantaneous power after practice once]
+Type = Gameshark
+Activation = EndFrame
+800351F8 0001
+
+[Parameter MAX lower part of the body after practice once]
+Type = Gameshark
+Activation = EndFrame
+80035310 0001
+
+[Parameter MAX upper body after training once]
+Type = Gameshark
+Activation = EndFrame
+80035428 0001
+
+[Master parameter MAX#]
+Type = Gameshark
+Activation = EndFrame
+801CA912 03E7
+801CA916 03E7
+801CA91A 03E7
+
+[Support group persons MAX#]
+Type = Gameshark
+Activation = EndFrame
+901CA91C 3B9AC9FF
+

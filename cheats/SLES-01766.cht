@@ -1,0 +1,12 @@
+; CHTDB: ; [ Player Manager Ninety Nine (Germany) {SLES-01766} ]
+
+[Unendlich Geld]
+Type = Gameshark
+Activation = EndFrame
+80049BFA 3ABC
+
+[Managerwertung = 100]
+Type = Gameshark
+Activation = EndFrame
+80049AB2 0064
+

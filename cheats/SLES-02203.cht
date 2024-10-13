@@ -1,0 +1,66 @@
+; CHTDB: ; [ Jade Cocoon: Die Tamamayu Legende (Germany) {SLES-02203} ]
+
+[Max Yan]
+Type = Gameshark
+Activation = EndFrame
+8008B66E 0098
+
+[Kokonmeister-Codes\Max Leer]
+Type = Gameshark
+Activation = EndFrame
+8008B8F2 0001
+
+[Kokonmeister-Codes\Habe Alles Wertvolle]
+Type = Gameshark
+Activation = EndFrame
+50000302 0000
+8008B81C FFFF
+
+[Kokonmeister-Codes\Max Exp]
+Type = Gameshark
+Activation = EndFrame
+8008BE16 FFFF
+
+[Kokonmeister-Codes\Max Hp]
+Type = Gameshark
+Activation = EndFrame
+9008BE18 03E703E7
+
+[Kokonmeister-Codes\Max Stats]
+Type = Gameshark
+Activation = EndFrame
+50000501 0000
+3008BE3C 00FF
+
+[Kokonmeister-Codes\Max Fangen Stufe]
+Type = Gameshark
+Activation = EndFrame
+3008BE54 00FF
+
+[Kokonmeister-Codes\Volle Liste/Viel Gefangen]
+Type = Gameshark
+Activation = EndFrame
+50000E02 0000
+8008BE5C FFFF
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+8008B524 FFFF
+
+[Infinite Usage All Items]
+Type = Gameshark
+Activation = EndFrame
+800AD542 2400
+
+[SuddenDeath enemies]
+Type = Gameshark
+Activation = EndFrame
+800B14E4 0000
+800B156C 0000
+
+[50 empties]
+Type = Gameshark
+Activation = EndFrame
+8008B7A8 0032
+

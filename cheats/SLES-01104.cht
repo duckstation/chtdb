@@ -1,0 +1,27 @@
+; CHTDB: ; [ Vs. (Europe) {SLES-01104} ]
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8014582C 012C
+
+[P2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80146CA4 012C
+
+[P1 No Energy]
+Type = Gameshark
+Activation = EndFrame
+8014582C 0000
+
+[P2 No Energy]
+Type = Gameshark
+Activation = EndFrame
+80146CA4 0000
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80151910 0DFA
+

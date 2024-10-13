@@ -1,0 +1,27 @@
+; CHTDB: ; [ Felony 11-79 (USA) (1997) (ASCII Entertainment Software) {SLUS-00533} <fel1179> ]
+
+[No Damage]
+Type = Gameshark
+Activation = EndFrame
+8009AE64 0000
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800B707E 012C
+
+[Infinite Fuel]
+Type = Gameshark
+Activation = EndFrame
+800B52A2 0019
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+9009AE08 00FFFFFF
+
+[Access All Cars + Tracks]
+Type = Gameshark
+Activation = EndFrame
+8009A6D4 0001
+

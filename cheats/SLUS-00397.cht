@@ -1,0 +1,24 @@
+; CHTDB: ; [ WCW Nitro (USA) (1998) (THQ) {SLUS-00397} <wcwnitro> ]
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801EF64C 03E8
+
+[No Power P2 (Push Select To Lose Power)]
+Type = Gameshark
+Activation = EndFrame
+D008B190 0100
+801EFBAC 0000
+
+[P2 Always No Power]
+Type = Gameshark
+Activation = EndFrame
+801EFBAC 0000
+
+[Extra Characters]
+Type = Gameshark
+Activation = EndFrame
+50003004 0000
+80063320 0001
+

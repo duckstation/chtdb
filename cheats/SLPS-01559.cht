@@ -1,0 +1,39 @@
+; CHTDB: ; [ Dokapon! Ikari no Tekken (Japan) {SLPS-01559} ]
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+900B336C 03E703E7
+
+[P1 Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+900B31B8 05F5E0FF
+
+[P2 Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+900B3368 05F5E0FF
+
+[P3 Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+900B3518 05F5E0FF
+
+[P4 Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+900B36C8 05F5E0FF
+
+[Infinite Bonus Point (Press Select)]
+Type = Gameshark
+Activation = EndFrame
+D00B1304 0100
+800F16A4 0006
+
+[Infinite Bonus Point (Press Start)]
+Type = Gameshark
+Activation = EndFrame
+D00B1304 0800
+8000E2F8 0005
+

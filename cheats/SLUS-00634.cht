@@ -1,0 +1,82 @@
+; CHTDB: ; [ Croc 2 (USA) (1999) (Fox Interactive) {SLUS-00634} <croc2> ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800765E4 0003
+
+[Crystals O' Plenty]
+Type = Gameshark
+Activation = EndFrame
+80076660 00FF
+
+[Infinite Simple Jump Gummy]
+Type = Gameshark
+Activation = EndFrame
+80076670 0002
+
+[Infinite Double Jump Gummy]
+Type = Gameshark
+Activation = EndFrame
+80076674 0002
+
+[Infinite Long Jump Gummy]
+Type = Gameshark
+Activation = EndFrame
+8007666C 0002
+
+[Infinite Clockwork Gobbos]
+Type = Gameshark
+Activation = EndFrame
+8007667C 0002
+
+[Always Have Key]
+Type = Gameshark
+Activation = EndFrame
+80076B54 0001
+
+[Enable Cheat Menu (Press L2 + R2)]
+Type = Gameshark
+Activation = EndFrame
+8006FF88 0001
+
+[Invincibility Against Enemies L3/R3 On/Off (Turn off to pick up diamonds)]
+Type = Gameshark
+Activation = EndFrame
+D7000000 00000200
+80041B5E 00001000
+00000000 0000FFFF
+D7000000 00000400
+80041B5E 00001040
+
+[No Game Over]
+Type = Gameshark
+Activation = EndFrame
+A701252E 14621000
+
+[Slowmotion '20 FPS']
+Type = Gameshark
+Activation = EndFrame
+A70126CA 14622400
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+80014C64 C410
+80014C66 0801
+90071040 84880000
+90071044 00000000
+90071048 01084821
+9007104C 01284021
+90071050 00084083
+90071054 A4880000
+90071058 84880004
+9007105C 00000000
+90071060 01084821
+90071064 01284021
+90071068 00084083
+9007106C 0C014B24
+90071070 A4880004
+90071074 0800531B
+90071078 00000000
+

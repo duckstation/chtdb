@@ -1,0 +1,371 @@
+; CHTDB: ; [ Bugs Bunny & Taz: Time Busters (Europe) {SLES-02896} ]
+
+[Have all gears in level 1]
+Type = Gameshark
+Activation = EndFrame
+80010086 0064
+
+[Infinite Energy Bugs Bunny Aztec level]
+Type = Gameshark
+Activation = EndFrame
+800DCF63 0600
+
+[Infinite Energy Taz Aztec level]
+Type = Gameshark
+Activation = EndFrame
+800DD113 0606
+
+[Infinite Energy Bugs Bunny monkey level]
+Type = Gameshark
+Activation = EndFrame
+800E3EAB 0600
+
+[Infinite Energy Tags monkey level]
+Type = Gameshark
+Activation = EndFrame
+800100A5 0606
+
+[Infinite Carrots]
+Type = Gameshark
+Activation = EndFrame
+30010058 0064
+
+[Have all Gears collected]
+Type = Gameshark
+Activation = EndFrame
+50000202 01F4
+8001005C 0000
+30010060 00C8
+80010062 012C
+90010064 012C01F4
+30010068 00C8
+50000202 01F4
+8001006A 0000
+8001006E 0190
+50000202 012C
+80010070 0000
+50000202 01F4
+80010074 0000
+80010078 012C
+3001007A 00C8
+
+[Have all Boss tokens found]
+Type = Gameshark
+Activation = EndFrame
+50000502 0101
+800100D2 0000
+
+[Have all ACME boxes found]
+Type = Gameshark
+Activation = EndFrame
+50000801 0505
+800100BE 0000
+
+[Have all Characters found]
+Type = Gameshark
+Activation = EndFrame
+800100E6 0202
+900100E8 01020201
+900100EC 02010202
+
+[GRANWICH\Collect one gear to finish level]
+Type = Gameshark
+Activation = EndFrame
+D0010086 0000
+30010086 0009
+
+[AZTEC ERA Golden City\Have all gears collected]
+Type = Gameshark
+Activation = EndFrame
+8001005C 01F4
+
+[AZTEC ERA Golden City\Have boss token found]
+Type = Gameshark
+Activation = EndFrame
+300100D2 0001
+
+[AZTEC ERA Golden City\Have all ACME boxes found]
+Type = Gameshark
+Activation = EndFrame
+300100BE 0005
+
+[AZTEC ERA Golden City\Have all characters found]
+Type = Gameshark
+Activation = EndFrame
+300100E6 0002
+
+[AZTEC ERA Baboon Realm\Have all gears collected]
+Type = Gameshark
+Activation = EndFrame
+8001005E 01F4
+
+[AZTEC ERA Baboon Realm\Have boss token found]
+Type = Gameshark
+Activation = EndFrame
+300100D3 0001
+
+[AZTEC ERA Baboon Realm\Have all ACME boxes found]
+Type = Gameshark
+Activation = EndFrame
+300100BF 0005
+
+[AZTEC ERA Baboon Realm\Have all characters found]
+Type = Gameshark
+Activation = EndFrame
+300100E7 0002
+
+[AZTEC ERA Sacred Ride\Have all gears collected]
+Type = Gameshark
+Activation = EndFrame
+30010060 00C8
+
+[AZTEC ERA Sacred Ride\Have boss token found]
+Type = Gameshark
+Activation = EndFrame
+300100D4 0001
+
+[AZTEC ERA Sacred Ride\Have all ACME boxes found]
+Type = Gameshark
+Activation = EndFrame
+300100C0 0005
+
+[AZTEC ERA Sam's Temple\Have all gears collected]
+Type = Gameshark
+Activation = EndFrame
+80010062 012C
+
+[AZTEC ERA Sam's Temple\Have all ACME boxes found]
+Type = Gameshark
+Activation = EndFrame
+300100C1 0005
+
+[AZTEC ERA Sam's Temple\Have all characters found]
+Type = Gameshark
+Activation = EndFrame
+300100E8 0001
+
+[VIKING ERA Shore Village\Have all gears collected]
+Type = Gameshark
+Activation = EndFrame
+80010064 01F4
+
+[VIKING ERA Shore Village\Have boss token found]
+Type = Gameshark
+Activation = EndFrame
+300100D5 0001
+
+[VIKING ERA Shore Village\Have all ACME boxes found]
+Type = Gameshark
+Activation = EndFrame
+300100C2 0005
+
+[VIKING ERA Shore Village\Have all characters found]
+Type = Gameshark
+Activation = EndFrame
+300100E9 0002
+
+[VIKING ERA Moon Valley\Have all gears collected]
+Type = Gameshark
+Activation = EndFrame
+80010066 012C
+
+[VIKING ERA Moon Valley\Have boss token found]
+Type = Gameshark
+Activation = EndFrame
+300100D6 0001
+
+[VIKING ERA Moon Valley\Have all ACME boxes found]
+Type = Gameshark
+Activation = EndFrame
+300100C3 0005
+
+[VIKING ERA Moon Valley\Have all characters found]
+Type = Gameshark
+Activation = EndFrame
+300100EA 0002
+
+[VIKING ERA Shield Race\Have all gears collected]
+Type = Gameshark
+Activation = EndFrame
+30010068 00C8
+
+[VIKING ERA Shield Race\Have boss token found]
+Type = Gameshark
+Activation = EndFrame
+300100D7 0001
+
+[VIKING ERA Shield Race\Have all ACME boxes found]
+Type = Gameshark
+Activation = EndFrame
+300100C4 0005
+
+[VIKING ERA Elmer's Domain\Have all gears collected]
+Type = Gameshark
+Activation = EndFrame
+8001006A 01F4
+
+[VIKING ERA Elmer's Domain\Have all ACME boxes found]
+Type = Gameshark
+Activation = EndFrame
+300100C5 0005
+
+[VIKING ERA Elmer's Domain\Have all characters found]
+Type = Gameshark
+Activation = EndFrame
+300100EB 0001
+
+[ARABIAN ERA Sunset Alleys\Have all gears collected]
+Type = Gameshark
+Activation = EndFrame
+8001006C 01F4
+
+[ARABIAN ERA Sunset Alleys\Have boss token found]
+Type = Gameshark
+Activation = EndFrame
+300100D8 0001
+
+[ARABIAN ERA Sunset Alleys\Have all ACME boxes found]
+Type = Gameshark
+Activation = EndFrame
+300100C6 0005
+
+[ARABIAN ERA Sunset Alleys\Have all characters found]
+Type = Gameshark
+Activation = EndFrame
+300100EC 0002
+
+[ARABIAN ERA Royal Gardens\Have all gears collected]
+Type = Gameshark
+Activation = EndFrame
+8001006E 0190
+
+[ARABIAN ERA Royal Gardens\Have boss token found]
+Type = Gameshark
+Activation = EndFrame
+300100D9 0001
+
+[ARABIAN ERA Royal Gardens\Have all ACME boxes found]
+Type = Gameshark
+Activation = EndFrame
+300100C7 0005
+
+[ARABIAN ERA Royal Gardens\Have all characters found]
+Type = Gameshark
+Activation = EndFrame
+300100ED 0002
+
+[ARABIAN ERA Carpet Chase\Have all gears collected]
+Type = Gameshark
+Activation = EndFrame
+80010070 012C
+
+[ARABIAN ERA Carpet Chase\Have boss token found]
+Type = Gameshark
+Activation = EndFrame
+300100DA 0001
+
+[ARABIAN ERA Carpet Chase\Have all ACME boxes found]
+Type = Gameshark
+Activation = EndFrame
+300100C8 0005
+
+[ARABIAN ERA Babba's Cave\Have all gears collected]
+Type = Gameshark
+Activation = EndFrame
+80010072 012C
+
+[ARABIAN ERA Babba's Cave\Have all ACME boxes found]
+Type = Gameshark
+Activation = EndFrame
+300100C9 0005
+
+[ARABIAN ERA Babba's Cave\Have all characters found]
+Type = Gameshark
+Activation = EndFrame
+300100EE 0001
+
+[TRANSYLVANIAN ERA Ghost Town\Have all gears collected]
+Type = Gameshark
+Activation = EndFrame
+80010074 01F4
+
+[TRANSYLVANIAN ERA Ghost Town\Have boss token found]
+Type = Gameshark
+Activation = EndFrame
+300100DB 0001
+
+[TRANSYLVANIAN ERA Ghost Town\Have all ACME boxes found]
+Type = Gameshark
+Activation = EndFrame
+300100CA 0005
+
+[TRANSYLVANIAN ERA Ghost Town\Have all characters found]
+Type = Gameshark
+Activation = EndFrame
+300100EF 0002
+
+[TRANSYLVANIAN ERA Zoovania\Have all gears collected]
+Type = Gameshark
+Activation = EndFrame
+80010076 01F4
+
+[TRANSYLVANIAN ERA Zoovania\Have boss token found]
+Type = Gameshark
+Activation = EndFrame
+300100DC 0001
+
+[TRANSYLVANIAN ERA Zoovania\Have all ACME boxes found]
+Type = Gameshark
+Activation = EndFrame
+300100CB 0005
+
+[TRANSYLVANIAN ERA Zoovania\Have all characters found]
+Type = Gameshark
+Activation = EndFrame
+300100F0 0002
+
+[TRANSYLVANIAN ERA Haunted River\Have all gears collected]
+Type = Gameshark
+Activation = EndFrame
+80010078 012C
+
+[TRANSYLVANIAN ERA Haunted River\Have boss token found]
+Type = Gameshark
+Activation = EndFrame
+300100DD 0001
+
+[TRANSYLVANIAN ERA Haunted River\Have all ACME boxes found]
+Type = Gameshark
+Activation = EndFrame
+300100CC 0005
+
+[TRANSYLVANIAN ERA Count's Castle\Have all gears collected]
+Type = Gameshark
+Activation = EndFrame
+3001007A 00C8
+
+[TRANSYLVANIAN ERA Count's Castle\Have all ACME boxes found]
+Type = Gameshark
+Activation = EndFrame
+300100CD 0005
+
+[TRANSYLVANIAN ERA Count's Castle\Have all characters found]
+Type = Gameshark
+Activation = EndFrame
+300100F1 0001
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A7098A2C 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A7098A2C 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A7098A2C 10000400
+

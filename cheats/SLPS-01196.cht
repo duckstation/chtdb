@@ -1,0 +1,7 @@
+; CHTDB: ; [ The Star Bowling DX (Japan) {SLPS-01196 | SLPS-01197 | SLPS-01198 | SLPS-01199} ]
+
+[Slow Pointer]
+Type = Gameshark
+Activation = EndFrame
+8007DDE4 E4BB
+

@@ -1,0 +1,3850 @@
+; CHTDB: ; [ Tony Hawk's Pro Skater 3 (USA) (2001) (Activision) {SLUS-01419} <thps3> ]
+
+[Andrew Reynolds\Max Level Goals]
+Type = Gameshark
+Activation = EndFrame
+300BBDF0 0032
+
+[Andrew Reynolds\Max Overall Stat Points]
+Type = Gameshark
+Activation = EndFrame
+300BBDF1 00FF
+
+[Andrew Reynolds\All Level Goals + Medals]
+Type = Gameshark
+Activation = EndFrame
+50000802 0000
+800BBE00 FFFF
+
+[Andrew Reynolds\All Decks + Stat Points]
+Type = Gameshark
+Activation = EndFrame
+50000F04 0000
+300BBE2C 00FF
+
+[Andrew Reynolds\Have All Level Goal\Foundry]
+Type = Gameshark
+Activation = EndFrame
+800BBE00 FFFF
+
+[Andrew Reynolds\Have All Level Goal\Los Angeles]
+Type = Gameshark
+Activation = EndFrame
+800BBE02 FFFF
+
+[Andrew Reynolds\Have All Level Goal\Suburbia]
+Type = Gameshark
+Activation = EndFrame
+800BBE06 FFFF
+
+[Andrew Reynolds\Have All Level Goal\Airport]
+Type = Gameshark
+Activation = EndFrame
+800BBE08 FFFF
+
+[Andrew Reynolds\Have All Level Goal\Canada]
+Type = Gameshark
+Activation = EndFrame
+800BBE0C FFFF
+
+[Andrew Reynolds\Have Highest Medal\Rio De Janeiro]
+Type = Gameshark
+Activation = EndFrame
+800BBE04 FFFF
+
+[Andrew Reynolds\Have Highest Medal\Skater Island]
+Type = Gameshark
+Activation = EndFrame
+800BBE0A FFFF
+
+[Andrew Reynolds\Have Highest Medal\Tokyo]
+Type = Gameshark
+Activation = EndFrame
+800BBE0E FFFF
+
+[Andrew Reynolds\Have All Stat Points\Foundry]
+Type = Gameshark
+Activation = EndFrame
+300BBE2C 00FF
+
+[Andrew Reynolds\Have All Stat Points\Los Angeles]
+Type = Gameshark
+Activation = EndFrame
+300BBE34 00FF
+
+[Andrew Reynolds\Have All Stat Points\Rio De Janeiro]
+Type = Gameshark
+Activation = EndFrame
+300BBE3C 00FF
+
+[Andrew Reynolds\Have All Stat Points\Suburbia]
+Type = Gameshark
+Activation = EndFrame
+300BBE44 00FF
+
+[Andrew Reynolds\Have All Stat Points\Airport]
+Type = Gameshark
+Activation = EndFrame
+300BBE4C 00FF
+
+[Andrew Reynolds\Have All Stat Points\Skater Island]
+Type = Gameshark
+Activation = EndFrame
+300BBE54 00FF
+
+[Andrew Reynolds\Have All Stat Points\Canada]
+Type = Gameshark
+Activation = EndFrame
+300BBE5C 00FF
+
+[Andrew Reynolds\Have All Stat Points\Tokyo]
+Type = Gameshark
+Activation = EndFrame
+300BBE64 00FF
+
+[Andrew Reynolds\Have All Stat Points\All Levels]
+Type = Gameshark
+Activation = EndFrame
+50000808 0000
+300BBE2C 00FF
+
+[Andrew Reynolds\Have Deck\Foundry]
+Type = Gameshark
+Activation = EndFrame
+300BBE30 00FF
+
+[Andrew Reynolds\Have Deck\Los Angeles]
+Type = Gameshark
+Activation = EndFrame
+300BBE38 00FF
+
+[Andrew Reynolds\Have Deck\Rio De Janeiro]
+Type = Gameshark
+Activation = EndFrame
+300BBE40 00FF
+
+[Andrew Reynolds\Have Deck\Suburbia]
+Type = Gameshark
+Activation = EndFrame
+300BBE48 00FF
+
+[Andrew Reynolds\Have Deck\Airport]
+Type = Gameshark
+Activation = EndFrame
+300BBE50 00FF
+
+[Andrew Reynolds\Have Deck\Skater Island]
+Type = Gameshark
+Activation = EndFrame
+300BBE58 00FF
+
+[Andrew Reynolds\Have Deck\Canada]
+Type = Gameshark
+Activation = EndFrame
+300BBE60 00FF
+
+[Andrew Reynolds\Have Deck\All Levels]
+Type = Gameshark
+Activation = EndFrame
+50000708 0000
+300BBE30 00FF
+
+[Andrew Reynolds\Max Stat\Air]
+Type = Gameshark
+Activation = EndFrame
+300BBE20 000A
+
+[Andrew Reynolds\Max Stat\Hang Time]
+Type = Gameshark
+Activation = EndFrame
+300BBE21 000A
+
+[Andrew Reynolds\Max Stat\Ollie]
+Type = Gameshark
+Activation = EndFrame
+300BBE22 000A
+
+[Andrew Reynolds\Max Stat\Speed]
+Type = Gameshark
+Activation = EndFrame
+300BBE23 000A
+
+[Andrew Reynolds\Max Stat\Spin]
+Type = Gameshark
+Activation = EndFrame
+300BBE24 000A
+
+[Andrew Reynolds\Max Stat\Landing]
+Type = Gameshark
+Activation = EndFrame
+300BBE25 000A
+
+[Andrew Reynolds\Max Stat\Switch]
+Type = Gameshark
+Activation = EndFrame
+300BBE26 000A
+
+[Andrew Reynolds\Max Stat\Rail Bal]
+Type = Gameshark
+Activation = EndFrame
+300BBE27 000A
+
+[Andrew Reynolds\Max Stat\Lip Bal]
+Type = Gameshark
+Activation = EndFrame
+300BBE28 000A
+
+[Andrew Reynolds\Max Stat\Manuals]
+Type = Gameshark
+Activation = EndFrame
+300BBE29 000A
+
+[Andrew Reynolds\Max Stat\All Stats]
+Type = Gameshark
+Activation = EndFrame
+50000502 0000
+800BBE20 0A0A
+
+[Bam Margera\Max Level Goals]
+Type = Gameshark
+Activation = EndFrame
+300BC160 0032
+
+[Bam Margera\Max Overall Stat Points]
+Type = Gameshark
+Activation = EndFrame
+300BC161 00FF
+
+[Bam Margera\All Level Goals + Medals]
+Type = Gameshark
+Activation = EndFrame
+50000802 0000
+800BC170 FFFF
+
+[Bam Margera\All Decks + Stat Points]
+Type = Gameshark
+Activation = EndFrame
+50000F04 0000
+300BC19C 00FF
+
+[Bam Margera\Have All Level Goal\Foundry]
+Type = Gameshark
+Activation = EndFrame
+800BC170 FFFF
+
+[Bam Margera\Have All Level Goal\Los Angeles]
+Type = Gameshark
+Activation = EndFrame
+800BC172 FFFF
+
+[Bam Margera\Have All Level Goal\Suburbia]
+Type = Gameshark
+Activation = EndFrame
+800BC176 FFFF
+
+[Bam Margera\Have All Level Goal\Airport]
+Type = Gameshark
+Activation = EndFrame
+800BC178 FFFF
+
+[Bam Margera\Have All Level Goal\Canada]
+Type = Gameshark
+Activation = EndFrame
+800BC17C FFFF
+
+[Bam Margera\Have Highest Medal\Rio De Janeiro]
+Type = Gameshark
+Activation = EndFrame
+800BC174 FFFF
+
+[Bam Margera\Have Highest Medal\Skater Island]
+Type = Gameshark
+Activation = EndFrame
+800BC17A FFFF
+
+[Bam Margera\Have Highest Medal\Tokyo]
+Type = Gameshark
+Activation = EndFrame
+800BC17E FFFF
+
+[Bam Margera\Have All Stat Points\Foundry]
+Type = Gameshark
+Activation = EndFrame
+300BC19C 00FF
+
+[Bam Margera\Have All Stat Points\Los Angeles]
+Type = Gameshark
+Activation = EndFrame
+300BC1A4 00FF
+
+[Bam Margera\Have All Stat Points\Rio De Janeiro]
+Type = Gameshark
+Activation = EndFrame
+300BC1AC 00FF
+
+[Bam Margera\Have All Stat Points\Suburbia]
+Type = Gameshark
+Activation = EndFrame
+300BC1B4 00FF
+
+[Bam Margera\Have All Stat Points\Airport]
+Type = Gameshark
+Activation = EndFrame
+300BC1BC 00FF
+
+[Bam Margera\Have All Stat Points\Skater Island]
+Type = Gameshark
+Activation = EndFrame
+300BC1C4 00FF
+
+[Bam Margera\Have All Stat Points\Canada]
+Type = Gameshark
+Activation = EndFrame
+300BC1CC 00FF
+
+[Bam Margera\Have All Stat Points\Tokyo]
+Type = Gameshark
+Activation = EndFrame
+300BC1D4 00FF
+
+[Bam Margera\Have All Stat Points\All Levels]
+Type = Gameshark
+Activation = EndFrame
+50000808 0000
+300BC19C 00FF
+
+[Bam Margera\Have Deck\Foundry]
+Type = Gameshark
+Activation = EndFrame
+300BC1A0 00FF
+
+[Bam Margera\Have Deck\Los Angeles]
+Type = Gameshark
+Activation = EndFrame
+300BC1A8 00FF
+
+[Bam Margera\Have Deck\Rio De Janeiro]
+Type = Gameshark
+Activation = EndFrame
+300BC1B0 00FF
+
+[Bam Margera\Have Deck\Suburbia]
+Type = Gameshark
+Activation = EndFrame
+300BC1B8 00FF
+
+[Bam Margera\Have Deck\Airport]
+Type = Gameshark
+Activation = EndFrame
+300BC1C0 00FF
+
+[Bam Margera\Have Deck\Skater Island]
+Type = Gameshark
+Activation = EndFrame
+300BC1C8 00FF
+
+[Bam Margera\Have Deck\Canada]
+Type = Gameshark
+Activation = EndFrame
+300BC1D0 00FF
+
+[Bam Margera\Have Deck\All Levels]
+Type = Gameshark
+Activation = EndFrame
+50000708 0000
+300BC1A0 00FF
+
+[Bam Margera\Max Stat\Air]
+Type = Gameshark
+Activation = EndFrame
+300BC190 000A
+
+[Bam Margera\Max Stat\Hang Time]
+Type = Gameshark
+Activation = EndFrame
+300BC191 000A
+
+[Bam Margera\Max Stat\Ollie]
+Type = Gameshark
+Activation = EndFrame
+300BC192 000A
+
+[Bam Margera\Max Stat\Speed]
+Type = Gameshark
+Activation = EndFrame
+300BC193 000A
+
+[Bam Margera\Max Stat\Spin]
+Type = Gameshark
+Activation = EndFrame
+300BC194 000A
+
+[Bam Margera\Max Stat\Landing]
+Type = Gameshark
+Activation = EndFrame
+300BC195 000A
+
+[Bam Margera\Max Stat\Switch]
+Type = Gameshark
+Activation = EndFrame
+300BC196 000A
+
+[Bam Margera\Max Stat\Rail Bal]
+Type = Gameshark
+Activation = EndFrame
+300BC197 000A
+
+[Bam Margera\Max Stat\Lip Bal]
+Type = Gameshark
+Activation = EndFrame
+300BC198 000A
+
+[Bam Margera\Max Stat\Manuals]
+Type = Gameshark
+Activation = EndFrame
+300BC199 000A
+
+[Bam Margera\Max Stat\All Stats]
+Type = Gameshark
+Activation = EndFrame
+50000502 0000
+800BC190 0A0A
+
+[Bucky Lasek\Max Level Goals]
+Type = Gameshark
+Activation = EndFrame
+300BBB5C 0032
+
+[Bucky Lasek\Max Overall Stat Points]
+Type = Gameshark
+Activation = EndFrame
+300BBB5D 00FF
+
+[Bucky Lasek\All Level Goals + Medals]
+Type = Gameshark
+Activation = EndFrame
+50000802 0000
+800BBB6C FFFF
+
+[Bucky Lasek\All Decks + Stat Points]
+Type = Gameshark
+Activation = EndFrame
+50000F04 0000
+300BBB98 00FF
+
+[Bucky Lasek\Have All Level Goal\Foundry]
+Type = Gameshark
+Activation = EndFrame
+800BBB6C FFFF
+
+[Bucky Lasek\Have All Level Goal\Los Angeles]
+Type = Gameshark
+Activation = EndFrame
+800BBB6E FFFF
+
+[Bucky Lasek\Have All Level Goal\Suburbia]
+Type = Gameshark
+Activation = EndFrame
+800BBB72 FFFF
+
+[Bucky Lasek\Have All Level Goal\Airport]
+Type = Gameshark
+Activation = EndFrame
+800BBB74 FFFF
+
+[Bucky Lasek\Have All Level Goal\Canada]
+Type = Gameshark
+Activation = EndFrame
+800BBB78 FFFF
+
+[Bucky Lasek\Have Highest Medal\Rio De Janeiro]
+Type = Gameshark
+Activation = EndFrame
+800BBB70 FFFF
+
+[Bucky Lasek\Have Highest Medal\Skater Island]
+Type = Gameshark
+Activation = EndFrame
+800BBB76 FFFF
+
+[Bucky Lasek\Have Highest Medal\Tokyo]
+Type = Gameshark
+Activation = EndFrame
+800BBB7A FFFF
+
+[Bucky Lasek\Have All Stat Points\Foundry]
+Type = Gameshark
+Activation = EndFrame
+300BBB98 00FF
+
+[Bucky Lasek\Have All Stat Points\Los Angeles]
+Type = Gameshark
+Activation = EndFrame
+300BBBA0 00FF
+
+[Bucky Lasek\Have All Stat Points\Rio De Janeiro]
+Type = Gameshark
+Activation = EndFrame
+300BBBA8 00FF
+
+[Bucky Lasek\Have All Stat Points\Suburbia]
+Type = Gameshark
+Activation = EndFrame
+300BBBB0 00FF
+
+[Bucky Lasek\Have All Stat Points\Airport]
+Type = Gameshark
+Activation = EndFrame
+300BBBB8 00FF
+
+[Bucky Lasek\Have All Stat Points\Skater Island]
+Type = Gameshark
+Activation = EndFrame
+300BBBC0 00FF
+
+[Bucky Lasek\Have All Stat Points\Canada]
+Type = Gameshark
+Activation = EndFrame
+300BBBC8 00FF
+
+[Bucky Lasek\Have All Stat Points\Tokyo]
+Type = Gameshark
+Activation = EndFrame
+300BBBD0 00FF
+
+[Bucky Lasek\Have All Stat Points\All Levels]
+Type = Gameshark
+Activation = EndFrame
+50000808 0000
+300BBB98 00FF
+
+[Bucky Lasek\Have Deck\Foundry]
+Type = Gameshark
+Activation = EndFrame
+300BBB9C 00FF
+
+[Bucky Lasek\Have Deck\Los Angeles]
+Type = Gameshark
+Activation = EndFrame
+300BBBA4 00FF
+
+[Bucky Lasek\Have Deck\Rio De Janeiro]
+Type = Gameshark
+Activation = EndFrame
+300BBBAC 00FF
+
+[Bucky Lasek\Have Deck\Suburbia]
+Type = Gameshark
+Activation = EndFrame
+300BBBB4 00FF
+
+[Bucky Lasek\Have Deck\Airport]
+Type = Gameshark
+Activation = EndFrame
+300BBBBC 00FF
+
+[Bucky Lasek\Have Deck\Skater Island]
+Type = Gameshark
+Activation = EndFrame
+300BBBC4 00FF
+
+[Bucky Lasek\Have Deck\Canada]
+Type = Gameshark
+Activation = EndFrame
+300BBBCC 00FF
+
+[Bucky Lasek\Have Deck\All Levels]
+Type = Gameshark
+Activation = EndFrame
+50000708 0000
+300BBB9C 00FF
+
+[Bucky Lasek\Max Stat\Air]
+Type = Gameshark
+Activation = EndFrame
+300BBB8C 000A
+
+[Bucky Lasek\Max Stat\Hang Time]
+Type = Gameshark
+Activation = EndFrame
+300BBB8D 000A
+
+[Bucky Lasek\Max Stat\Ollie]
+Type = Gameshark
+Activation = EndFrame
+300BBB8E 000A
+
+[Bucky Lasek\Max Stat\Speed]
+Type = Gameshark
+Activation = EndFrame
+300BBB8F 000A
+
+[Bucky Lasek\Max Stat\Spin]
+Type = Gameshark
+Activation = EndFrame
+300BBB90 000A
+
+[Bucky Lasek\Max Stat\Landing]
+Type = Gameshark
+Activation = EndFrame
+300BBB91 000A
+
+[Bucky Lasek\Max Stat\Switch]
+Type = Gameshark
+Activation = EndFrame
+300BBB92 000A
+
+[Bucky Lasek\Max Stat\Rail Bal]
+Type = Gameshark
+Activation = EndFrame
+300BBB93 000A
+
+[Bucky Lasek\Max Stat\Lip Bal]
+Type = Gameshark
+Activation = EndFrame
+300BBB94 000A
+
+[Bucky Lasek\Max Stat\Manuals]
+Type = Gameshark
+Activation = EndFrame
+300BBB95 000A
+
+[Bucky Lasek\Max Stat\All Stats]
+Type = Gameshark
+Activation = EndFrame
+50000502 0000
+800BBB8C 0A0A
+
+[Chad Muska\Max Level Goals]
+Type = Gameshark
+Activation = EndFrame
+300BBD14 0032
+
+[Chad Muska\Max Overall Stat Points]
+Type = Gameshark
+Activation = EndFrame
+300BBD15 00FF
+
+[Chad Muska\All Level Goals + Medals]
+Type = Gameshark
+Activation = EndFrame
+50000802 0000
+800BBD24 FFFF
+
+[Chad Muska\All Decks + Stat Points]
+Type = Gameshark
+Activation = EndFrame
+50000F04 0000
+300BBD50 00FF
+
+[Chad Muska\Have All Level Goal\Foundry]
+Type = Gameshark
+Activation = EndFrame
+800BBD24 FFFF
+
+[Chad Muska\Have All Level Goal\Los Angeles]
+Type = Gameshark
+Activation = EndFrame
+800BBD26 FFFF
+
+[Chad Muska\Have All Level Goal\Suburbia]
+Type = Gameshark
+Activation = EndFrame
+800BBD2A FFFF
+
+[Chad Muska\Have All Level Goal\Airport]
+Type = Gameshark
+Activation = EndFrame
+800BBD2C FFFF
+
+[Chad Muska\Have All Level Goal\Canada]
+Type = Gameshark
+Activation = EndFrame
+800BBD30 FFFF
+
+[Chad Muska\Have Highest Medal\Rio De Janeiro]
+Type = Gameshark
+Activation = EndFrame
+800BBD28 FFFF
+
+[Chad Muska\Have Highest Medal\Skater Island]
+Type = Gameshark
+Activation = EndFrame
+800BBD2E FFFF
+
+[Chad Muska\Have Highest Medal\Tokyo]
+Type = Gameshark
+Activation = EndFrame
+800BBD32 FFFF
+
+[Chad Muska\Have All Stat Points\Foundry]
+Type = Gameshark
+Activation = EndFrame
+300BBD50 00FF
+
+[Chad Muska\Have All Stat Points\Los Angeles]
+Type = Gameshark
+Activation = EndFrame
+300BBD58 00FF
+
+[Chad Muska\Have All Stat Points\Rio De Janeiro]
+Type = Gameshark
+Activation = EndFrame
+300BBD60 00FF
+
+[Chad Muska\Have All Stat Points\Suburbia]
+Type = Gameshark
+Activation = EndFrame
+300BBD68 00FF
+
+[Chad Muska\Have All Stat Points\Airport]
+Type = Gameshark
+Activation = EndFrame
+300BBD70 00FF
+
+[Chad Muska\Have All Stat Points\Skater Island]
+Type = Gameshark
+Activation = EndFrame
+300BBD78 00FF
+
+[Chad Muska\Have All Stat Points\Canada]
+Type = Gameshark
+Activation = EndFrame
+300BBD80 00FF
+
+[Chad Muska\Have All Stat Points\Tokyo]
+Type = Gameshark
+Activation = EndFrame
+300BBD88 00FF
+
+[Chad Muska\Have All Stat Points\All Levels]
+Type = Gameshark
+Activation = EndFrame
+50000808 0000
+300BBD50 00FF
+
+[Chad Muska\Have Deck\Foundry]
+Type = Gameshark
+Activation = EndFrame
+300BBD54 00FF
+
+[Chad Muska\Have Deck\Los Angeles]
+Type = Gameshark
+Activation = EndFrame
+300BBD5C 00FF
+
+[Chad Muska\Have Deck\Rio De Janeiro]
+Type = Gameshark
+Activation = EndFrame
+300BBD64 00FF
+
+[Chad Muska\Have Deck\Suburbia]
+Type = Gameshark
+Activation = EndFrame
+300BBD6C 00FF
+
+[Chad Muska\Have Deck\Airport]
+Type = Gameshark
+Activation = EndFrame
+300BBD74 00FF
+
+[Chad Muska\Have Deck\Skater Island]
+Type = Gameshark
+Activation = EndFrame
+300BBD7C 00FF
+
+[Chad Muska\Have Deck\Canada]
+Type = Gameshark
+Activation = EndFrame
+300BBD84 00FF
+
+[Chad Muska\Have Deck\All Levels]
+Type = Gameshark
+Activation = EndFrame
+50000708 0000
+300BBD54 00FF
+
+[Chad Muska\Max Stat\Air]
+Type = Gameshark
+Activation = EndFrame
+300BBD44 000A
+
+[Chad Muska\Max Stat\Hang Time]
+Type = Gameshark
+Activation = EndFrame
+300BBD45 000A
+
+[Chad Muska\Max Stat\Ollie]
+Type = Gameshark
+Activation = EndFrame
+300BBD46 000A
+
+[Chad Muska\Max Stat\Speed]
+Type = Gameshark
+Activation = EndFrame
+300BBD47 000A
+
+[Chad Muska\Max Stat\Spin]
+Type = Gameshark
+Activation = EndFrame
+300BBD48 000A
+
+[Chad Muska\Max Stat\Landing]
+Type = Gameshark
+Activation = EndFrame
+300BBD49 000A
+
+[Chad Muska\Max Stat\Switch]
+Type = Gameshark
+Activation = EndFrame
+300BBD4A 000A
+
+[Chad Muska\Max Stat\Rail Bal]
+Type = Gameshark
+Activation = EndFrame
+300BBD4B 000A
+
+[Chad Muska\Max Stat\Lip Bal]
+Type = Gameshark
+Activation = EndFrame
+300BBD4C 000A
+
+[Chad Muska\Max Stat\Manuals]
+Type = Gameshark
+Activation = EndFrame
+300BBD4D 000A
+
+[Chad Muska\Max Stat\All Stats]
+Type = Gameshark
+Activation = EndFrame
+50000502 0000
+800BBD44 0A0A
+
+[Custom Skater 1\Max Level Goals]
+Type = Gameshark
+Activation = EndFrame
+300BC23C 0032
+
+[Custom Skater 1\Max Overall Stat Points]
+Type = Gameshark
+Activation = EndFrame
+300BC23D 00FF
+
+[Custom Skater 1\All Level Goals + Medals]
+Type = Gameshark
+Activation = EndFrame
+50000802 0000
+800BC24C FFFF
+
+[Custom Skater 1\All Decks + Stat Points]
+Type = Gameshark
+Activation = EndFrame
+50000F04 0000
+300BC278 00FF
+
+[Custom Skater 1\Have All Level Goal\Foundry]
+Type = Gameshark
+Activation = EndFrame
+800BC24C FFFF
+
+[Custom Skater 1\Have All Level Goal\Los Angeles]
+Type = Gameshark
+Activation = EndFrame
+800BC24E FFFF
+
+[Custom Skater 1\Have All Level Goal\Suburbia]
+Type = Gameshark
+Activation = EndFrame
+800BC252 FFFF
+
+[Custom Skater 1\Have All Level Goal\Airport]
+Type = Gameshark
+Activation = EndFrame
+800BC254 FFFF
+
+[Custom Skater 1\Have All Level Goal\Canada]
+Type = Gameshark
+Activation = EndFrame
+800BC258 FFFF
+
+[Custom Skater 1\Have Highest Medal\Rio De Janeiro]
+Type = Gameshark
+Activation = EndFrame
+800BC250 FFFF
+
+[Custom Skater 1\Have Highest Medal\Skater Island]
+Type = Gameshark
+Activation = EndFrame
+800BC256 FFFF
+
+[Custom Skater 1\Have Highest Medal\Tokyo]
+Type = Gameshark
+Activation = EndFrame
+800BC25A FFFF
+
+[Custom Skater 1\Have All Stat Points\Foundry]
+Type = Gameshark
+Activation = EndFrame
+300BC278 00FF
+
+[Custom Skater 1\Have All Stat Points\Los Angeles]
+Type = Gameshark
+Activation = EndFrame
+300BC280 00FF
+
+[Custom Skater 1\Have All Stat Points\Rio De Janeiro]
+Type = Gameshark
+Activation = EndFrame
+300BC288 00FF
+
+[Custom Skater 1\Have All Stat Points\Suburbia]
+Type = Gameshark
+Activation = EndFrame
+300BC290 00FF
+
+[Custom Skater 1\Have All Stat Points\Airport]
+Type = Gameshark
+Activation = EndFrame
+300BC298 00FF
+
+[Custom Skater 1\Have All Stat Points\Skater Island]
+Type = Gameshark
+Activation = EndFrame
+300BC2A0 00FF
+
+[Custom Skater 1\Have All Stat Points\Canada]
+Type = Gameshark
+Activation = EndFrame
+300BC2A8 00FF
+
+[Custom Skater 1\Have All Stat Points\Tokyo]
+Type = Gameshark
+Activation = EndFrame
+300BC2B0 00FF
+
+[Custom Skater 1\Have All Stat Points\All Levels]
+Type = Gameshark
+Activation = EndFrame
+50000808 0000
+300BC278 00FF
+
+[Custom Skater 1\Have Deck\Foundry]
+Type = Gameshark
+Activation = EndFrame
+300BC27C 00FF
+
+[Custom Skater 1\Have Deck\Los Angeles]
+Type = Gameshark
+Activation = EndFrame
+300BC284 00FF
+
+[Custom Skater 1\Have Deck\Rio De Janeiro]
+Type = Gameshark
+Activation = EndFrame
+300BC28C 00FF
+
+[Custom Skater 1\Have Deck\Suburbia]
+Type = Gameshark
+Activation = EndFrame
+300BC294 00FF
+
+[Custom Skater 1\Have Deck\Airport]
+Type = Gameshark
+Activation = EndFrame
+300BC29C 00FF
+
+[Custom Skater 1\Have Deck\Skater Island]
+Type = Gameshark
+Activation = EndFrame
+300BC2A4 00FF
+
+[Custom Skater 1\Have Deck\Canada]
+Type = Gameshark
+Activation = EndFrame
+300BC2AC 00FF
+
+[Custom Skater 1\Have Deck\All Levels]
+Type = Gameshark
+Activation = EndFrame
+50000708 0000
+300BC27C 00FF
+
+[Custom Skater 1\Max Stat\Air]
+Type = Gameshark
+Activation = EndFrame
+300BC26C 000A
+
+[Custom Skater 1\Max Stat\Hang Time]
+Type = Gameshark
+Activation = EndFrame
+300BC26D 000A
+
+[Custom Skater 1\Max Stat\Ollie]
+Type = Gameshark
+Activation = EndFrame
+300BC26E 000A
+
+[Custom Skater 1\Max Stat\Speed]
+Type = Gameshark
+Activation = EndFrame
+300BC26F 000A
+
+[Custom Skater 1\Max Stat\Spin]
+Type = Gameshark
+Activation = EndFrame
+300BC270 000A
+
+[Custom Skater 1\Max Stat\Landing]
+Type = Gameshark
+Activation = EndFrame
+300BC271 000A
+
+[Custom Skater 1\Max Stat\Switch]
+Type = Gameshark
+Activation = EndFrame
+300BC272 000A
+
+[Custom Skater 1\Max Stat\Rail Bal]
+Type = Gameshark
+Activation = EndFrame
+300BC273 000A
+
+[Custom Skater 1\Max Stat\Lip Bal]
+Type = Gameshark
+Activation = EndFrame
+300BC274 000A
+
+[Custom Skater 1\Max Stat\Manuals]
+Type = Gameshark
+Activation = EndFrame
+300BC275 000A
+
+[Custom Skater 1\Max Stat\All Stats]
+Type = Gameshark
+Activation = EndFrame
+50000502 0000
+800BC26C 0A0A
+
+[Custom Skater 2\Max Level Goals]
+Type = Gameshark
+Activation = EndFrame
+300BC318 0032
+
+[Custom Skater 2\Max Overall Stat Points]
+Type = Gameshark
+Activation = EndFrame
+300BC319 00FF
+
+[Custom Skater 2\All Level Goals + Medals]
+Type = Gameshark
+Activation = EndFrame
+50000802 0000
+800BC328 FFFF
+
+[Custom Skater 2\All Decks + Stat Points]
+Type = Gameshark
+Activation = EndFrame
+50000F04 0000
+300BC354 00FF
+
+[Custom Skater 2\Have All Level Goal\Foundry]
+Type = Gameshark
+Activation = EndFrame
+800BC328 FFFF
+
+[Custom Skater 2\Have All Level Goal\Los Angeles]
+Type = Gameshark
+Activation = EndFrame
+800BC32A FFFF
+
+[Custom Skater 2\Have All Level Goal\Suburbia]
+Type = Gameshark
+Activation = EndFrame
+800BC32E FFFF
+
+[Custom Skater 2\Have All Level Goal\Airport]
+Type = Gameshark
+Activation = EndFrame
+800BC330 FFFF
+
+[Custom Skater 2\Have All Level Goal\Canada]
+Type = Gameshark
+Activation = EndFrame
+800BC334 FFFF
+
+[Custom Skater 2\Have Highest Medal\Rio De Janeiro]
+Type = Gameshark
+Activation = EndFrame
+800BC32C FFFF
+
+[Custom Skater 2\Have Highest Medal\Skater Island]
+Type = Gameshark
+Activation = EndFrame
+800BC332 FFFF
+
+[Custom Skater 2\Have Highest Medal\Tokyo]
+Type = Gameshark
+Activation = EndFrame
+800BC336 FFFF
+
+[Custom Skater 2\Have All Stat Points\Foundry]
+Type = Gameshark
+Activation = EndFrame
+300BC354 00FF
+
+[Custom Skater 2\Have All Stat Points\Los Angeles]
+Type = Gameshark
+Activation = EndFrame
+300BC35C 00FF
+
+[Custom Skater 2\Have All Stat Points\Rio De Janeiro]
+Type = Gameshark
+Activation = EndFrame
+300BC364 00FF
+
+[Custom Skater 2\Have All Stat Points\Suburbia]
+Type = Gameshark
+Activation = EndFrame
+300BC36C 00FF
+
+[Custom Skater 2\Have All Stat Points\Airport]
+Type = Gameshark
+Activation = EndFrame
+300BC374 00FF
+
+[Custom Skater 2\Have All Stat Points\Skater Island]
+Type = Gameshark
+Activation = EndFrame
+300BC37C 00FF
+
+[Custom Skater 2\Have All Stat Points\Canada]
+Type = Gameshark
+Activation = EndFrame
+300BC384 00FF
+
+[Custom Skater 2\Have All Stat Points\Tokyo]
+Type = Gameshark
+Activation = EndFrame
+300BC38C 00FF
+
+[Custom Skater 2\Have All Stat Points\All Levels]
+Type = Gameshark
+Activation = EndFrame
+50000808 0000
+300BC354 00FF
+
+[Custom Skater 2\Have Deck\Foundry]
+Type = Gameshark
+Activation = EndFrame
+300BC358 00FF
+
+[Custom Skater 2\Have Deck\Los Angeles]
+Type = Gameshark
+Activation = EndFrame
+300BC360 00FF
+
+[Custom Skater 2\Have Deck\Rio De Janeiro]
+Type = Gameshark
+Activation = EndFrame
+300BC368 00FF
+
+[Custom Skater 2\Have Deck\Suburbia]
+Type = Gameshark
+Activation = EndFrame
+300BC370 00FF
+
+[Custom Skater 2\Have Deck\Airport]
+Type = Gameshark
+Activation = EndFrame
+300BC378 00FF
+
+[Custom Skater 2\Have Deck\Skater Island]
+Type = Gameshark
+Activation = EndFrame
+300BC380 00FF
+
+[Custom Skater 2\Have Deck\Canada]
+Type = Gameshark
+Activation = EndFrame
+300BC388 00FF
+
+[Custom Skater 2\Have Deck\All Levels]
+Type = Gameshark
+Activation = EndFrame
+50000708 0000
+300BC358 00FF
+
+[Custom Skater 2\Max Stat\Air]
+Type = Gameshark
+Activation = EndFrame
+300BC348 000A
+
+[Custom Skater 2\Max Stat\Hang Time]
+Type = Gameshark
+Activation = EndFrame
+300BC349 000A
+
+[Custom Skater 2\Max Stat\Ollie]
+Type = Gameshark
+Activation = EndFrame
+300BC34A 000A
+
+[Custom Skater 2\Max Stat\Speed]
+Type = Gameshark
+Activation = EndFrame
+300BC34B 000A
+
+[Custom Skater 2\Max Stat\Spin]
+Type = Gameshark
+Activation = EndFrame
+300BC34C 000A
+
+[Custom Skater 2\Max Stat\Landing]
+Type = Gameshark
+Activation = EndFrame
+300BC34D 000A
+
+[Custom Skater 2\Max Stat\Switch]
+Type = Gameshark
+Activation = EndFrame
+300BC34E 000A
+
+[Custom Skater 2\Max Stat\Rail Bal]
+Type = Gameshark
+Activation = EndFrame
+300BC34F 000A
+
+[Custom Skater 2\Max Stat\Lip Bal]
+Type = Gameshark
+Activation = EndFrame
+300BC350 000A
+
+[Custom Skater 2\Max Stat\Manuals]
+Type = Gameshark
+Activation = EndFrame
+300BC351 000A
+
+[Custom Skater 2\Max Stat\All Stats]
+Type = Gameshark
+Activation = EndFrame
+50000502 0000
+800BC348 0A0A
+
+[Custom Skater 3\Max Level Goals]
+Type = Gameshark
+Activation = EndFrame
+300BC3F4 0032
+
+[Custom Skater 3\Max Overall Stat Points]
+Type = Gameshark
+Activation = EndFrame
+300BC3F5 00FF
+
+[Custom Skater 3\All Level Goals + Medals]
+Type = Gameshark
+Activation = EndFrame
+50000802 0000
+800BC404 FFFF
+
+[Custom Skater 3\All Decks + Stat Points]
+Type = Gameshark
+Activation = EndFrame
+50000F04 0000
+300BC430 00FF
+
+[Custom Skater 3\Have All Level Goal\Foundry]
+Type = Gameshark
+Activation = EndFrame
+800BC404 FFFF
+
+[Custom Skater 3\Have All Level Goal\Los Angeles]
+Type = Gameshark
+Activation = EndFrame
+800BC406 FFFF
+
+[Custom Skater 3\Have All Level Goal\Suburbia]
+Type = Gameshark
+Activation = EndFrame
+800BC40A FFFF
+
+[Custom Skater 3\Have All Level Goal\Airport]
+Type = Gameshark
+Activation = EndFrame
+800BC40C FFFF
+
+[Custom Skater 3\Have All Level Goal\Canada]
+Type = Gameshark
+Activation = EndFrame
+800BC410 FFFF
+
+[Custom Skater 3\Have Highest Medal\Rio De Janeiro]
+Type = Gameshark
+Activation = EndFrame
+800BC408 FFFF
+
+[Custom Skater 3\Have Highest Medal\Skater Island]
+Type = Gameshark
+Activation = EndFrame
+800BC40E FFFF
+
+[Custom Skater 3\Have Highest Medal\Tokyo]
+Type = Gameshark
+Activation = EndFrame
+800BC412 FFFF
+
+[Custom Skater 3\Have All Stat Points\Foundry]
+Type = Gameshark
+Activation = EndFrame
+300BC430 00FF
+
+[Custom Skater 3\Have All Stat Points\Los Angeles]
+Type = Gameshark
+Activation = EndFrame
+300BC438 00FF
+
+[Custom Skater 3\Have All Stat Points\Rio De Janeiro]
+Type = Gameshark
+Activation = EndFrame
+300BC440 00FF
+
+[Custom Skater 3\Have All Stat Points\Suburbia]
+Type = Gameshark
+Activation = EndFrame
+300BC448 00FF
+
+[Custom Skater 3\Have All Stat Points\Airport]
+Type = Gameshark
+Activation = EndFrame
+300BC450 00FF
+
+[Custom Skater 3\Have All Stat Points\Skater Island]
+Type = Gameshark
+Activation = EndFrame
+300BC458 00FF
+
+[Custom Skater 3\Have All Stat Points\Canada]
+Type = Gameshark
+Activation = EndFrame
+300BC460 00FF
+
+[Custom Skater 3\Have All Stat Points\Tokyo]
+Type = Gameshark
+Activation = EndFrame
+300BC468 00FF
+
+[Custom Skater 3\Have All Stat Points\All Levels]
+Type = Gameshark
+Activation = EndFrame
+50000808 0000
+300BC430 00FF
+
+[Custom Skater 3\Have Deck\Foundry]
+Type = Gameshark
+Activation = EndFrame
+300BC434 00FF
+
+[Custom Skater 3\Have Deck\Los Angeles]
+Type = Gameshark
+Activation = EndFrame
+300BC43C 00FF
+
+[Custom Skater 3\Have Deck\Rio De Janeiro]
+Type = Gameshark
+Activation = EndFrame
+300BC444 00FF
+
+[Custom Skater 3\Have Deck\Suburbia]
+Type = Gameshark
+Activation = EndFrame
+300BC44C 00FF
+
+[Custom Skater 3\Have Deck\Airport]
+Type = Gameshark
+Activation = EndFrame
+300BC454 00FF
+
+[Custom Skater 3\Have Deck\Skater Island]
+Type = Gameshark
+Activation = EndFrame
+300BC45C 00FF
+
+[Custom Skater 3\Have Deck\Canada]
+Type = Gameshark
+Activation = EndFrame
+300BC464 00FF
+
+[Custom Skater 3\Have Deck\All Levels]
+Type = Gameshark
+Activation = EndFrame
+50000708 0000
+300BC434 00FF
+
+[Custom Skater 3\Max Stat\Air]
+Type = Gameshark
+Activation = EndFrame
+300BC424 000A
+
+[Custom Skater 3\Max Stat\Hang Time]
+Type = Gameshark
+Activation = EndFrame
+300BC425 000A
+
+[Custom Skater 3\Max Stat\Ollie]
+Type = Gameshark
+Activation = EndFrame
+300BC426 000A
+
+[Custom Skater 3\Max Stat\Speed]
+Type = Gameshark
+Activation = EndFrame
+300BC427 000A
+
+[Custom Skater 3\Max Stat\Spin]
+Type = Gameshark
+Activation = EndFrame
+300BC428 000A
+
+[Custom Skater 3\Max Stat\Landing]
+Type = Gameshark
+Activation = EndFrame
+300BC429 000A
+
+[Custom Skater 3\Max Stat\Switch]
+Type = Gameshark
+Activation = EndFrame
+300BC42A 000A
+
+[Custom Skater 3\Max Stat\Rail Bal]
+Type = Gameshark
+Activation = EndFrame
+300BC42B 000A
+
+[Custom Skater 3\Max Stat\Lip Bal]
+Type = Gameshark
+Activation = EndFrame
+300BC42C 000A
+
+[Custom Skater 3\Max Stat\Manuals]
+Type = Gameshark
+Activation = EndFrame
+300BC42D 000A
+
+[Custom Skater 3\Max Stat\All Stats]
+Type = Gameshark
+Activation = EndFrame
+50000502 0000
+800BC424 0A0A
+
+[Elissa Steamer\Max Level Goals]
+Type = Gameshark
+Activation = EndFrame
+300BBFA8 0032
+
+[Elissa Steamer\Max Overall Stat Points]
+Type = Gameshark
+Activation = EndFrame
+300BBFA9 00FF
+
+[Elissa Steamer\All Level Goals + Medals]
+Type = Gameshark
+Activation = EndFrame
+50000802 0000
+800BBFB8 FFFF
+
+[Elissa Steamer\All Decks + Stat Points]
+Type = Gameshark
+Activation = EndFrame
+50000F04 0000
+300BBFE4 00FF
+
+[Elissa Steamer\Have All Level Goal\Foundry]
+Type = Gameshark
+Activation = EndFrame
+800BBFB8 FFFF
+
+[Elissa Steamer\Have All Level Goal\Los Angeles]
+Type = Gameshark
+Activation = EndFrame
+800BBFBA FFFF
+
+[Elissa Steamer\Have All Level Goal\Suburbia]
+Type = Gameshark
+Activation = EndFrame
+800BBFBE FFFF
+
+[Elissa Steamer\Have All Level Goal\Airport]
+Type = Gameshark
+Activation = EndFrame
+800BBFC0 FFFF
+
+[Elissa Steamer\Have All Level Goal\Canada]
+Type = Gameshark
+Activation = EndFrame
+800BBFC4 FFFF
+
+[Elissa Steamer\Have Highest Medal\Rio De Janeiro]
+Type = Gameshark
+Activation = EndFrame
+800BBFBC FFFF
+
+[Elissa Steamer\Have Highest Medal\Skater Island]
+Type = Gameshark
+Activation = EndFrame
+800BBFC2 FFFF
+
+[Elissa Steamer\Have Highest Medal\Tokyo]
+Type = Gameshark
+Activation = EndFrame
+800BBFC6 FFFF
+
+[Elissa Steamer\Have All Stat Points\Foundry]
+Type = Gameshark
+Activation = EndFrame
+300BBFE4 00FF
+
+[Elissa Steamer\Have All Stat Points\Los Angeles]
+Type = Gameshark
+Activation = EndFrame
+300BBFEC 00FF
+
+[Elissa Steamer\Have All Stat Points\Rio De Janeiro]
+Type = Gameshark
+Activation = EndFrame
+300BBFF4 00FF
+
+[Elissa Steamer\Have All Stat Points\Suburbia]
+Type = Gameshark
+Activation = EndFrame
+300BBFFC 00FF
+
+[Elissa Steamer\Have All Stat Points\Airport]
+Type = Gameshark
+Activation = EndFrame
+300BC004 00FF
+
+[Elissa Steamer\Have All Stat Points\Skater Island]
+Type = Gameshark
+Activation = EndFrame
+300BC00C 00FF
+
+[Elissa Steamer\Have All Stat Points\Canada]
+Type = Gameshark
+Activation = EndFrame
+300BC014 00FF
+
+[Elissa Steamer\Have All Stat Points\Tokyo]
+Type = Gameshark
+Activation = EndFrame
+300BC01C 00FF
+
+[Elissa Steamer\Have All Stat Points\All Levels]
+Type = Gameshark
+Activation = EndFrame
+50000808 0000
+300BBFE4 00FF
+
+[Elissa Steamer\Have Deck\Foundry]
+Type = Gameshark
+Activation = EndFrame
+300BBFE8 00FF
+
+[Elissa Steamer\Have Deck\Los Angeles]
+Type = Gameshark
+Activation = EndFrame
+300BBFF0 00FF
+
+[Elissa Steamer\Have Deck\Rio De Janeiro]
+Type = Gameshark
+Activation = EndFrame
+300BBFF8 00FF
+
+[Elissa Steamer\Have Deck\Suburbia]
+Type = Gameshark
+Activation = EndFrame
+300BC000 00FF
+
+[Elissa Steamer\Have Deck\Airport]
+Type = Gameshark
+Activation = EndFrame
+300BC008 00FF
+
+[Elissa Steamer\Have Deck\Skater Island]
+Type = Gameshark
+Activation = EndFrame
+300BC010 00FF
+
+[Elissa Steamer\Have Deck\Canada]
+Type = Gameshark
+Activation = EndFrame
+300BC018 00FF
+
+[Elissa Steamer\Have Deck\All Levels]
+Type = Gameshark
+Activation = EndFrame
+50000708 0000
+300BBFE8 00FF
+
+[Elissa Steamer\Max Stat\Air]
+Type = Gameshark
+Activation = EndFrame
+300BBFD8 000A
+
+[Elissa Steamer\Max Stat\Hang Time]
+Type = Gameshark
+Activation = EndFrame
+300BBFD9 000A
+
+[Elissa Steamer\Max Stat\Ollie]
+Type = Gameshark
+Activation = EndFrame
+300BBFDA 000A
+
+[Elissa Steamer\Max Stat\Speed]
+Type = Gameshark
+Activation = EndFrame
+300BBFDB 000A
+
+[Elissa Steamer\Max Stat\Spin]
+Type = Gameshark
+Activation = EndFrame
+300BBFDC 000A
+
+[Elissa Steamer\Max Stat\Landing]
+Type = Gameshark
+Activation = EndFrame
+300BBFDD 000A
+
+[Elissa Steamer\Max Stat\Switch]
+Type = Gameshark
+Activation = EndFrame
+300BBFDE 000A
+
+[Elissa Steamer\Max Stat\Rail Bal]
+Type = Gameshark
+Activation = EndFrame
+300BBFDF 000A
+
+[Elissa Steamer\Max Stat\Lip Bal]
+Type = Gameshark
+Activation = EndFrame
+300BBFE0 000A
+
+[Elissa Steamer\Max Stat\Manuals]
+Type = Gameshark
+Activation = EndFrame
+300BBFE1 000A
+
+[Elissa Steamer\Max Stat\All Stats]
+Type = Gameshark
+Activation = EndFrame
+50000502 0000
+800BBFD8 0A0A
+
+[Eric Koston\Max Level Goals]
+Type = Gameshark
+Activation = EndFrame
+300BBA80 0032
+
+[Eric Koston\Max Overall Stat Points]
+Type = Gameshark
+Activation = EndFrame
+300BBA81 00FF
+
+[Eric Koston\All Level Goals + Medals]
+Type = Gameshark
+Activation = EndFrame
+50000802 0000
+800BBA90 FFFF
+
+[Eric Koston\All Decks + Stat Points]
+Type = Gameshark
+Activation = EndFrame
+50000F04 0000
+300BBABC 00FF
+
+[Eric Koston\Have All Level Goal\Foundry]
+Type = Gameshark
+Activation = EndFrame
+800BBA90 FFFF
+
+[Eric Koston\Have All Level Goal\Los Angeles]
+Type = Gameshark
+Activation = EndFrame
+800BBA92 FFFF
+
+[Eric Koston\Have All Level Goal\Suburbia]
+Type = Gameshark
+Activation = EndFrame
+800BBA96 FFFF
+
+[Eric Koston\Have All Level Goal\Airport]
+Type = Gameshark
+Activation = EndFrame
+800BBA98 FFFF
+
+[Eric Koston\Have All Level Goal\Canada]
+Type = Gameshark
+Activation = EndFrame
+800BBA9C FFFF
+
+[Eric Koston\Have Highest Medal\Rio De Janeiro]
+Type = Gameshark
+Activation = EndFrame
+800BBA94 FFFF
+
+[Eric Koston\Have Highest Medal\Skater Island]
+Type = Gameshark
+Activation = EndFrame
+800BBA9A FFFF
+
+[Eric Koston\Have Highest Medal\Tokyo]
+Type = Gameshark
+Activation = EndFrame
+800BBA9E FFFF
+
+[Eric Koston\Have All Stat Points\Foundry]
+Type = Gameshark
+Activation = EndFrame
+300BBABC 00FF
+
+[Eric Koston\Have All Stat Points\Los Angeles]
+Type = Gameshark
+Activation = EndFrame
+300BBAC4 00FF
+
+[Eric Koston\Have All Stat Points\Rio De Janeiro]
+Type = Gameshark
+Activation = EndFrame
+300BBACC 00FF
+
+[Eric Koston\Have All Stat Points\Suburbia]
+Type = Gameshark
+Activation = EndFrame
+300BBAD4 00FF
+
+[Eric Koston\Have All Stat Points\Airport]
+Type = Gameshark
+Activation = EndFrame
+300BBADC 00FF
+
+[Eric Koston\Have All Stat Points\Skater Island]
+Type = Gameshark
+Activation = EndFrame
+300BBAE4 00FF
+
+[Eric Koston\Have All Stat Points\Canada]
+Type = Gameshark
+Activation = EndFrame
+300BBAEC 00FF
+
+[Eric Koston\Have All Stat Points\Tokyo]
+Type = Gameshark
+Activation = EndFrame
+300BBAF4 00FF
+
+[Eric Koston\Have All Stat Points\All Levels]
+Type = Gameshark
+Activation = EndFrame
+50000808 0000
+300BBABC 00FF
+
+[Eric Koston\Have Deck\Foundry]
+Type = Gameshark
+Activation = EndFrame
+300BBAC0 00FF
+
+[Eric Koston\Have Deck\Los Angeles]
+Type = Gameshark
+Activation = EndFrame
+300BBAC8 00FF
+
+[Eric Koston\Have Deck\Rio De Janeiro]
+Type = Gameshark
+Activation = EndFrame
+300BBAD0 00FF
+
+[Eric Koston\Have Deck\Suburbia]
+Type = Gameshark
+Activation = EndFrame
+300BBAD8 00FF
+
+[Eric Koston\Have Deck\Airport]
+Type = Gameshark
+Activation = EndFrame
+300BBAE0 00FF
+
+[Eric Koston\Have Deck\Skater Island]
+Type = Gameshark
+Activation = EndFrame
+300BBAE8 00FF
+
+[Eric Koston\Have Deck\Canada]
+Type = Gameshark
+Activation = EndFrame
+300BBAF0 00FF
+
+[Eric Koston\Have Deck\All Levels]
+Type = Gameshark
+Activation = EndFrame
+50000708 0000
+300BBAC0 00FF
+
+[Eric Koston\Max Stat\Air]
+Type = Gameshark
+Activation = EndFrame
+300BBAB0 000A
+
+[Eric Koston\Max Stat\Hang Time]
+Type = Gameshark
+Activation = EndFrame
+300BBAB1 000A
+
+[Eric Koston\Max Stat\Ollie]
+Type = Gameshark
+Activation = EndFrame
+300BBAB2 000A
+
+[Eric Koston\Max Stat\Speed]
+Type = Gameshark
+Activation = EndFrame
+300BBAB3 000A
+
+[Eric Koston\Max Stat\Spin]
+Type = Gameshark
+Activation = EndFrame
+300BBAB4 000A
+
+[Eric Koston\Max Stat\Landing]
+Type = Gameshark
+Activation = EndFrame
+300BBAB5 000A
+
+[Eric Koston\Max Stat\Switch]
+Type = Gameshark
+Activation = EndFrame
+300BBAB6 000A
+
+[Eric Koston\Max Stat\Rail Bal]
+Type = Gameshark
+Activation = EndFrame
+300BBAB7 000A
+
+[Eric Koston\Max Stat\Lip Bal]
+Type = Gameshark
+Activation = EndFrame
+300BBAB8 000A
+
+[Eric Koston\Max Stat\Manuals]
+Type = Gameshark
+Activation = EndFrame
+300BBAB9 000A
+
+[Eric Koston\Max Stat\All Stats]
+Type = Gameshark
+Activation = EndFrame
+50000502 0000
+800BBAB0 0A0A
+
+[Geoff Rowley\Max Level Goals]
+Type = Gameshark
+Activation = EndFrame
+300BBECC 0032
+
+[Geoff Rowley\Max Overall Stat Points]
+Type = Gameshark
+Activation = EndFrame
+300BBECD 00FF
+
+[Geoff Rowley\All Level Goals + Medals]
+Type = Gameshark
+Activation = EndFrame
+50000802 0000
+800BBEDC FFFF
+
+[Geoff Rowley\All Decks + Stat Points]
+Type = Gameshark
+Activation = EndFrame
+50000F04 0000
+300BBF08 00FF
+
+[Geoff Rowley\Have All Level Goal Foundry]
+Type = Gameshark
+Activation = EndFrame
+800BBEDC FFFF
+
+[Geoff Rowley\Have All Level Goal Los Angeles]
+Type = Gameshark
+Activation = EndFrame
+800BBEDE FFFF
+
+[Geoff Rowley\Have All Level Goal Suburbia]
+Type = Gameshark
+Activation = EndFrame
+800BBEE2 FFFF
+
+[Geoff Rowley\Have All Level Goal Airport]
+Type = Gameshark
+Activation = EndFrame
+800BBEE4 FFFF
+
+[Geoff Rowley\Have All Level Goal Canada]
+Type = Gameshark
+Activation = EndFrame
+800BBEE8 FFFF
+
+[Geoff Rowley\Have Highest Medal Rio De Janeiro]
+Type = Gameshark
+Activation = EndFrame
+800BBEE0 FFFF
+
+[Geoff Rowley\Have Highest Medal Skater Island]
+Type = Gameshark
+Activation = EndFrame
+800BBEE6 FFFF
+
+[Geoff Rowley\Have Highest Medal Tokyo]
+Type = Gameshark
+Activation = EndFrame
+800BBEEA FFFF
+
+[Geoff Rowley\Have All Stat Points\Foundry]
+Type = Gameshark
+Activation = EndFrame
+300BBF08 00FF
+
+[Geoff Rowley\Have All Stat Points\Los Angeles]
+Type = Gameshark
+Activation = EndFrame
+300BBF10 00FF
+
+[Geoff Rowley\Have All Stat Points\Rio De Janeiro]
+Type = Gameshark
+Activation = EndFrame
+300BBF18 00FF
+
+[Geoff Rowley\Have All Stat Points\Suburbia]
+Type = Gameshark
+Activation = EndFrame
+300BBF20 00FF
+
+[Geoff Rowley\Have All Stat Points\Airport]
+Type = Gameshark
+Activation = EndFrame
+300BBF28 00FF
+
+[Geoff Rowley\Have All Stat Points\Skater Island]
+Type = Gameshark
+Activation = EndFrame
+300BBF30 00FF
+
+[Geoff Rowley\Have All Stat Points\Canada]
+Type = Gameshark
+Activation = EndFrame
+300BBF38 00FF
+
+[Geoff Rowley\Have All Stat Points\Tokyo]
+Type = Gameshark
+Activation = EndFrame
+300BBF40 00FF
+
+[Geoff Rowley\Have All Stat Points\All Levels]
+Type = Gameshark
+Activation = EndFrame
+50000808 0000
+300BBF08 00FF
+
+[Geoff Rowley\Have Deck\Foundry]
+Type = Gameshark
+Activation = EndFrame
+300BBF0C 00FF
+
+[Geoff Rowley\Have Deck\Los Angeles]
+Type = Gameshark
+Activation = EndFrame
+300BBF14 00FF
+
+[Geoff Rowley\Have Deck\Rio De Janeiro]
+Type = Gameshark
+Activation = EndFrame
+300BBF1C 00FF
+
+[Geoff Rowley\Have Deck\Suburbia]
+Type = Gameshark
+Activation = EndFrame
+300BBF24 00FF
+
+[Geoff Rowley\Have Deck\Airport]
+Type = Gameshark
+Activation = EndFrame
+300BBF2C 00FF
+
+[Geoff Rowley\Have Deck\Skater Island]
+Type = Gameshark
+Activation = EndFrame
+300BBF34 00FF
+
+[Geoff Rowley\Have Deck\Canada]
+Type = Gameshark
+Activation = EndFrame
+300BBF3C 00FF
+
+[Geoff Rowley\Have Deck\All Levels]
+Type = Gameshark
+Activation = EndFrame
+50000708 0000
+300BBF0C 00FF
+
+[Geoff Rowley\Max Stat\Air]
+Type = Gameshark
+Activation = EndFrame
+300BBEFC 000A
+
+[Geoff Rowley\Max Stat\Hang Time]
+Type = Gameshark
+Activation = EndFrame
+300BBEFD 000A
+
+[Geoff Rowley\Max Stat\Ollie]
+Type = Gameshark
+Activation = EndFrame
+300BBEFE 000A
+
+[Geoff Rowley\Max Stat\Speed]
+Type = Gameshark
+Activation = EndFrame
+300BBEFF 000A
+
+[Geoff Rowley\Max Stat\Spin]
+Type = Gameshark
+Activation = EndFrame
+300BBF00 000A
+
+[Geoff Rowley\Max Stat\Landing]
+Type = Gameshark
+Activation = EndFrame
+300BBF01 000A
+
+[Geoff Rowley\Max Stat\Switch]
+Type = Gameshark
+Activation = EndFrame
+300BBF02 000A
+
+[Geoff Rowley\Max Stat\Rail Bal]
+Type = Gameshark
+Activation = EndFrame
+300BBF03 000A
+
+[Geoff Rowley\Max Stat\Lip Bal]
+Type = Gameshark
+Activation = EndFrame
+300BBF04 000A
+
+[Geoff Rowley\Max Stat\Manuals]
+Type = Gameshark
+Activation = EndFrame
+300BBF05 000A
+
+[Geoff Rowley\Max Stat\All Stats]
+Type = Gameshark
+Activation = EndFrame
+50000502 0000
+800BBEFC 0A0A
+
+[Kareem Campbell\Max Level Goals]
+Type = Gameshark
+Activation = EndFrame
+300BB8C8 0032
+
+[Kareem Campbell\Max Overall Stat Points]
+Type = Gameshark
+Activation = EndFrame
+300BB8C9 00FF
+
+[Kareem Campbell\All Level Goals + Medals]
+Type = Gameshark
+Activation = EndFrame
+50000802 0000
+800BB8D8 FFFF
+
+[Kareem Campbell\All Decks + Stat Points]
+Type = Gameshark
+Activation = EndFrame
+50000F04 0000
+300BB904 00FF
+
+[Kareem Campbell\Have All Level Goal\Foundry]
+Type = Gameshark
+Activation = EndFrame
+800BB8D8 FFFF
+
+[Kareem Campbell\Have All Level Goal\Los Angeles]
+Type = Gameshark
+Activation = EndFrame
+800BB8DA FFFF
+
+[Kareem Campbell\Have All Level Goal\Suburbia]
+Type = Gameshark
+Activation = EndFrame
+800BB8DE FFFF
+
+[Kareem Campbell\Have All Level Goal\Airport]
+Type = Gameshark
+Activation = EndFrame
+800BB8E0 FFFF
+
+[Kareem Campbell\Have All Level Goal\Canada]
+Type = Gameshark
+Activation = EndFrame
+800BB8E4 FFFF
+
+[Kareem Campbell\Have Highest Medal\Rio De Janeiro]
+Type = Gameshark
+Activation = EndFrame
+800BB8DC FFFF
+
+[Kareem Campbell\Have Highest Medal\Skater Island]
+Type = Gameshark
+Activation = EndFrame
+800BB8E2 FFFF
+
+[Kareem Campbell\Have Highest Medal\Tokyo]
+Type = Gameshark
+Activation = EndFrame
+800BB8E6 FFFF
+
+[Kareem Campbell\Have All Stat Points\Foundry]
+Type = Gameshark
+Activation = EndFrame
+300BB904 00FF
+
+[Kareem Campbell\Have All Stat Points\Los Angeles]
+Type = Gameshark
+Activation = EndFrame
+300BB90C 00FF
+
+[Kareem Campbell\Have All Stat Points\Rio De Janeiro]
+Type = Gameshark
+Activation = EndFrame
+300BB914 00FF
+
+[Kareem Campbell\Have All Stat Points\Suburbia]
+Type = Gameshark
+Activation = EndFrame
+300BB91C 00FF
+
+[Kareem Campbell\Have All Stat Points\Airport]
+Type = Gameshark
+Activation = EndFrame
+300BB924 00FF
+
+[Kareem Campbell\Have All Stat Points\Skater Island]
+Type = Gameshark
+Activation = EndFrame
+300BB92C 00FF
+
+[Kareem Campbell\Have All Stat Points\Canada]
+Type = Gameshark
+Activation = EndFrame
+300BB934 00FF
+
+[Kareem Campbell\Have All Stat Points\Tokyo]
+Type = Gameshark
+Activation = EndFrame
+300BB93C 00FF
+
+[Kareem Campbell\Have All Stat Points\All Levels]
+Type = Gameshark
+Activation = EndFrame
+50000808 0000
+300BB904 00FF
+
+[Kareem Campbell\Have Deck\Foundry]
+Type = Gameshark
+Activation = EndFrame
+300BB908 00FF
+
+[Kareem Campbell\Have Deck\Los Angeles]
+Type = Gameshark
+Activation = EndFrame
+300BB910 00FF
+
+[Kareem Campbell\Have Deck\Rio De Janeiro]
+Type = Gameshark
+Activation = EndFrame
+300BB918 00FF
+
+[Kareem Campbell\Have Deck\Suburbia]
+Type = Gameshark
+Activation = EndFrame
+300BB920 00FF
+
+[Kareem Campbell\Have Deck\Airport]
+Type = Gameshark
+Activation = EndFrame
+300BB928 00FF
+
+[Kareem Campbell\Have Deck\Skater Island]
+Type = Gameshark
+Activation = EndFrame
+300BB930 00FF
+
+[Kareem Campbell\Have Deck\Canada]
+Type = Gameshark
+Activation = EndFrame
+300BB938 00FF
+
+[Kareem Campbell\Have Deck\All Levels]
+Type = Gameshark
+Activation = EndFrame
+50000708 0000
+300BB908 00FF
+
+[Kareem Campbell\Max Stat\Air]
+Type = Gameshark
+Activation = EndFrame
+300BB8F8 000A
+
+[Kareem Campbell\Max Stat\Hang Time]
+Type = Gameshark
+Activation = EndFrame
+300BB8F9 000A
+
+[Kareem Campbell\Max Stat\Ollie]
+Type = Gameshark
+Activation = EndFrame
+300BB8FA 000A
+
+[Kareem Campbell\Max Stat\Speed]
+Type = Gameshark
+Activation = EndFrame
+300BB8FB 000A
+
+[Kareem Campbell\Max Stat\Spin]
+Type = Gameshark
+Activation = EndFrame
+300BB8FC 000A
+
+[Kareem Campbell\Max Stat\Landing]
+Type = Gameshark
+Activation = EndFrame
+300BB8FD 000A
+
+[Kareem Campbell\Max Stat\Switch]
+Type = Gameshark
+Activation = EndFrame
+300BB8FE 000A
+
+[Kareem Campbell\Max Stat\Rail Bal]
+Type = Gameshark
+Activation = EndFrame
+300BB8FF 000A
+
+[Kareem Campbell\Max Stat\Lip Bal]
+Type = Gameshark
+Activation = EndFrame
+300BB900 000A
+
+[Kareem Campbell\Max Stat\Manuals]
+Type = Gameshark
+Activation = EndFrame
+300BB901 000A
+
+[Kareem Campbell\Max Stat\All Stats]
+Type = Gameshark
+Activation = EndFrame
+50000502 0000
+800BB8F8 0A0A
+
+[Jamie Thomas\Max Level Goals]
+Type = Gameshark
+Activation = EndFrame
+300BC084 0032
+
+[Jamie Thomas\Max Overall Stat Points]
+Type = Gameshark
+Activation = EndFrame
+300BC085 00FF
+
+[Jamie Thomas\All Level Goals + Medals]
+Type = Gameshark
+Activation = EndFrame
+50000802 0000
+800BC094 FFFF
+
+[Jamie Thomas\All Decks + Stat Points]
+Type = Gameshark
+Activation = EndFrame
+50000F04 0000
+300BC0C0 00FF
+
+[Jamie Thomas\Have All Level Goal\Foundry]
+Type = Gameshark
+Activation = EndFrame
+800BC094 FFFF
+
+[Jamie Thomas\Have All Level Goal\Los Angeles]
+Type = Gameshark
+Activation = EndFrame
+800BC096 FFFF
+
+[Jamie Thomas\Have All Level Goal\Suburbia]
+Type = Gameshark
+Activation = EndFrame
+800BC09A FFFF
+
+[Jamie Thomas\Have All Level Goal\Airport]
+Type = Gameshark
+Activation = EndFrame
+800BC09C FFFF
+
+[Jamie Thomas\Have All Level Goal\Canada]
+Type = Gameshark
+Activation = EndFrame
+800BC0A0 FFFF
+
+[Jamie Thomas\Have Highest Medal\Rio De Janeiro]
+Type = Gameshark
+Activation = EndFrame
+800BC098 FFFF
+
+[Jamie Thomas\Have Highest Medal\Skater Island]
+Type = Gameshark
+Activation = EndFrame
+800BC09E FFFF
+
+[Jamie Thomas\Have Highest Medal\Tokyo]
+Type = Gameshark
+Activation = EndFrame
+800BC0A2 FFFF
+
+[Jamie Thomas\Have All Stat Points\Foundry]
+Type = Gameshark
+Activation = EndFrame
+300BC0C0 00FF
+
+[Jamie Thomas\Have All Stat Points\Los Angeles]
+Type = Gameshark
+Activation = EndFrame
+300BC0C8 00FF
+
+[Jamie Thomas\Have All Stat Points\Rio De Janeiro]
+Type = Gameshark
+Activation = EndFrame
+300BC0D0 00FF
+
+[Jamie Thomas\Have All Stat Points\Suburbia]
+Type = Gameshark
+Activation = EndFrame
+300BC0D8 00FF
+
+[Jamie Thomas\Have All Stat Points\Airport]
+Type = Gameshark
+Activation = EndFrame
+300BC0E0 00FF
+
+[Jamie Thomas\Have All Stat Points\Skater Island]
+Type = Gameshark
+Activation = EndFrame
+300BC0E8 00FF
+
+[Jamie Thomas\Have All Stat Points\Canada]
+Type = Gameshark
+Activation = EndFrame
+300BC0F0 00FF
+
+[Jamie Thomas\Have All Stat Points\Tokyo]
+Type = Gameshark
+Activation = EndFrame
+300BC0F8 00FF
+
+[Jamie Thomas\Have All Stat Points\All Levels]
+Type = Gameshark
+Activation = EndFrame
+50000808 0000
+300BC0C0 00FF
+
+[Jamie Thomas\Have Deck\Foundry]
+Type = Gameshark
+Activation = EndFrame
+300BC0C4 00FF
+
+[Jamie Thomas\Have Deck\Los Angeles]
+Type = Gameshark
+Activation = EndFrame
+300BC0CC 00FF
+
+[Jamie Thomas\Have Deck\Rio De Janeiro]
+Type = Gameshark
+Activation = EndFrame
+300BC0D4 00FF
+
+[Jamie Thomas\Have Deck\Suburbia]
+Type = Gameshark
+Activation = EndFrame
+300BC0DC 00FF
+
+[Jamie Thomas\Have Deck\Airport]
+Type = Gameshark
+Activation = EndFrame
+300BC0E4 00FF
+
+[Jamie Thomas\Have Deck\Skater Island]
+Type = Gameshark
+Activation = EndFrame
+300BC0EC 00FF
+
+[Jamie Thomas\Have Deck\Canada]
+Type = Gameshark
+Activation = EndFrame
+300BC0F4 00FF
+
+[Jamie Thomas\Have Deck\All Levels]
+Type = Gameshark
+Activation = EndFrame
+50000708 0000
+300BC0C4 00FF
+
+[Jamie Thomas\Max Stat\Air]
+Type = Gameshark
+Activation = EndFrame
+300BC0B4 000A
+
+[Jamie Thomas\Max Stat\Hang Time]
+Type = Gameshark
+Activation = EndFrame
+300BC0B5 000A
+
+[Jamie Thomas\Max Stat\Ollie]
+Type = Gameshark
+Activation = EndFrame
+300BC0B6 000A
+
+[Jamie Thomas\Max Stat\Speed]
+Type = Gameshark
+Activation = EndFrame
+300BC0B7 000A
+
+[Jamie Thomas\Max Stat\Spin]
+Type = Gameshark
+Activation = EndFrame
+300BC0B8 000A
+
+[Jamie Thomas\Max Stat\Landing]
+Type = Gameshark
+Activation = EndFrame
+300BC0B9 000A
+
+[Jamie Thomas\Max Stat\Switch]
+Type = Gameshark
+Activation = EndFrame
+300BC0BA 000A
+
+[Jamie Thomas\Max Stat\Rail Bal]
+Type = Gameshark
+Activation = EndFrame
+300BC0BB 000A
+
+[Jamie Thomas\Max Stat\Lip Bal]
+Type = Gameshark
+Activation = EndFrame
+300BC0BC 000A
+
+[Jamie Thomas\Max Stat\Manuals]
+Type = Gameshark
+Activation = EndFrame
+300BC0BD 000A
+
+[Jamie Thomas\Max Stat\All Stats]
+Type = Gameshark
+Activation = EndFrame
+50000502 0000
+800BC0B4 0A0A
+
+[Officer Dick\Max Level Goals]
+Type = Gameshark
+Activation = EndFrame
+300BC4D0 0032
+
+[Officer Dick\Max Overall Stat Points]
+Type = Gameshark
+Activation = EndFrame
+300BC4D1 00FF
+
+[Officer Dick\All Level Goals + Medals]
+Type = Gameshark
+Activation = EndFrame
+50000802 0000
+800BC4E0 FFFF
+
+[Officer Dick\All Decks + Stat Points]
+Type = Gameshark
+Activation = EndFrame
+50000F04 0000
+300BC50C 00FF
+
+[Officer Dick\Have All Level Goal\Foundry]
+Type = Gameshark
+Activation = EndFrame
+800BC4E0 FFFF
+
+[Officer Dick\Have All Level Goal\Los Angeles]
+Type = Gameshark
+Activation = EndFrame
+800BC4E2 FFFF
+
+[Officer Dick\Have All Level Goal\Suburbia]
+Type = Gameshark
+Activation = EndFrame
+800BC4E6 FFFF
+
+[Officer Dick\Have All Level Goal\Airport]
+Type = Gameshark
+Activation = EndFrame
+800BC4E8 FFFF
+
+[Officer Dick\Have All Level Goal\Canada]
+Type = Gameshark
+Activation = EndFrame
+800BC4EC FFFF
+
+[Officer Dick\Have Highest Medal\Rio De Janeiro]
+Type = Gameshark
+Activation = EndFrame
+800BC4E4 FFFF
+
+[Officer Dick\Have Highest Medal\Skater Island]
+Type = Gameshark
+Activation = EndFrame
+800BC4EA FFFF
+
+[Officer Dick\Have Highest Medal\Tokyo]
+Type = Gameshark
+Activation = EndFrame
+800BC4EE FFFF
+
+[Officer Dick\Have All Stat Points\Foundry]
+Type = Gameshark
+Activation = EndFrame
+300BC50C 00FF
+
+[Officer Dick\Have All Stat Points\Los Angeles]
+Type = Gameshark
+Activation = EndFrame
+300BC514 00FF
+
+[Officer Dick\Have All Stat Points\Rio De Janeiro]
+Type = Gameshark
+Activation = EndFrame
+300BC51C 00FF
+
+[Officer Dick\Have All Stat Points\Suburbia]
+Type = Gameshark
+Activation = EndFrame
+300BC524 00FF
+
+[Officer Dick\Have All Stat Points\Airport]
+Type = Gameshark
+Activation = EndFrame
+300BC52C 00FF
+
+[Officer Dick\Have All Stat Points\Skater Island]
+Type = Gameshark
+Activation = EndFrame
+300BC534 00FF
+
+[Officer Dick\Have All Stat Points\Canada]
+Type = Gameshark
+Activation = EndFrame
+300BC53C 00FF
+
+[Officer Dick\Have All Stat Points\Tokyo]
+Type = Gameshark
+Activation = EndFrame
+300BC544 00FF
+
+[Officer Dick\Have All Stat Points\All Levels]
+Type = Gameshark
+Activation = EndFrame
+50000808 0000
+300BC50C 00FF
+
+[Officer Dick\Have Deck\Foundry]
+Type = Gameshark
+Activation = EndFrame
+300BC510 00FF
+
+[Officer Dick\Have Deck\Los Angeles]
+Type = Gameshark
+Activation = EndFrame
+300BC518 00FF
+
+[Officer Dick\Have Deck\Rio De Janeiro]
+Type = Gameshark
+Activation = EndFrame
+300BC520 00FF
+
+[Officer Dick\Have Deck\Suburbia]
+Type = Gameshark
+Activation = EndFrame
+300BC528 00FF
+
+[Officer Dick\Have Deck\Airport]
+Type = Gameshark
+Activation = EndFrame
+300BC530 00FF
+
+[Officer Dick\Have Deck\Skater Island]
+Type = Gameshark
+Activation = EndFrame
+300BC538 00FF
+
+[Officer Dick\Have Deck\Canada]
+Type = Gameshark
+Activation = EndFrame
+300BC540 00FF
+
+[Officer Dick\Have Deck\All Levels]
+Type = Gameshark
+Activation = EndFrame
+50000708 0000
+300BC510 00FF
+
+[Officer Dick\Max Stat\Air]
+Type = Gameshark
+Activation = EndFrame
+300BC500 000A
+
+[Officer Dick\Max Stat\Hang Time]
+Type = Gameshark
+Activation = EndFrame
+300BC501 000A
+
+[Officer Dick\Max Stat\Ollie]
+Type = Gameshark
+Activation = EndFrame
+300BC502 000A
+
+[Officer Dick\Max Stat\Speed]
+Type = Gameshark
+Activation = EndFrame
+300BC503 000A
+
+[Officer Dick\Max Stat\Spin]
+Type = Gameshark
+Activation = EndFrame
+300BC504 000A
+
+[Officer Dick\Max Stat\Landing]
+Type = Gameshark
+Activation = EndFrame
+300BC505 000A
+
+[Officer Dick\Max Stat\Switch]
+Type = Gameshark
+Activation = EndFrame
+300BC506 000A
+
+[Officer Dick\Max Stat\Rail Bal]
+Type = Gameshark
+Activation = EndFrame
+300BC507 000A
+
+[Officer Dick\Max Stat\Lip Bal]
+Type = Gameshark
+Activation = EndFrame
+300BC508 000A
+
+[Officer Dick\Max Stat\Manuals]
+Type = Gameshark
+Activation = EndFrame
+300BC509 000A
+
+[Officer Dick\Max Stat\All Stats]
+Type = Gameshark
+Activation = EndFrame
+50000502 0000
+800BC500 0A0A
+
+[Rodney Mullen\Max Level Goals]
+Type = Gameshark
+Activation = EndFrame
+300BBC38 0032
+
+[Rodney Mullen\Max Overall Stat Points]
+Type = Gameshark
+Activation = EndFrame
+300BBC39 00FF
+
+[Rodney Mullen\All Level Goals + Medals]
+Type = Gameshark
+Activation = EndFrame
+50000802 0000
+800BBC48 FFFF
+
+[Rodney Mullen\All Decks + Stat Points]
+Type = Gameshark
+Activation = EndFrame
+50000F04 0000
+300BBC74 00FF
+
+[Rodney Mullen\Have All Level Goal\Foundry]
+Type = Gameshark
+Activation = EndFrame
+800BBC48 FFFF
+
+[Rodney Mullen\Have All Level Goal\Los Angeles]
+Type = Gameshark
+Activation = EndFrame
+800BBC4A FFFF
+
+[Rodney Mullen\Have All Level Goal\Suburbia]
+Type = Gameshark
+Activation = EndFrame
+800BBC4E FFFF
+
+[Rodney Mullen\Have All Level Goal\Airport]
+Type = Gameshark
+Activation = EndFrame
+800BBC50 FFFF
+
+[Rodney Mullen\Have All Level Goal\Canada]
+Type = Gameshark
+Activation = EndFrame
+800BBC54 FFFF
+
+[Rodney Mullen\Have Highest Medal\Rio De Janeiro]
+Type = Gameshark
+Activation = EndFrame
+800BBC4C FFFF
+
+[Rodney Mullen\Have Highest Medal\Skater Island]
+Type = Gameshark
+Activation = EndFrame
+800BBC52 FFFF
+
+[Rodney Mullen\Have Highest Medal\Tokyo]
+Type = Gameshark
+Activation = EndFrame
+800BBC56 FFFF
+
+[Rodney Mullen\Have All Stat Points\Foundry]
+Type = Gameshark
+Activation = EndFrame
+300BBC74 00FF
+
+[Rodney Mullen\Have All Stat Points\Los Angeles]
+Type = Gameshark
+Activation = EndFrame
+300BBC7C 00FF
+
+[Rodney Mullen\Have All Stat Points\Rio De Janeiro]
+Type = Gameshark
+Activation = EndFrame
+300BBC84 00FF
+
+[Rodney Mullen\Have All Stat Points\Suburbia]
+Type = Gameshark
+Activation = EndFrame
+300BBC8C 00FF
+
+[Rodney Mullen\Have All Stat Points\Airport]
+Type = Gameshark
+Activation = EndFrame
+300BBC94 00FF
+
+[Rodney Mullen\Have All Stat Points\Skater Island]
+Type = Gameshark
+Activation = EndFrame
+300BBC9C 00FF
+
+[Rodney Mullen\Have All Stat Points\Canada]
+Type = Gameshark
+Activation = EndFrame
+300BBCA4 00FF
+
+[Rodney Mullen\Have All Stat Points\Tokyo]
+Type = Gameshark
+Activation = EndFrame
+300BBCAC 00FF
+
+[Rodney Mullen\Have All Stat Points\All Levels]
+Type = Gameshark
+Activation = EndFrame
+50000808 0000
+300BBC74 00FF
+
+[Rodney Mullen\Have Deck\Foundry]
+Type = Gameshark
+Activation = EndFrame
+300BBC78 00FF
+
+[Rodney Mullen\Have Deck\Los Angeles]
+Type = Gameshark
+Activation = EndFrame
+300BBC80 00FF
+
+[Rodney Mullen\Have Deck\Rio De Janeiro]
+Type = Gameshark
+Activation = EndFrame
+300BBC88 00FF
+
+[Rodney Mullen\Have Deck\Suburbia]
+Type = Gameshark
+Activation = EndFrame
+300BBC90 00FF
+
+[Rodney Mullen\Have Deck\Airport]
+Type = Gameshark
+Activation = EndFrame
+300BBC98 00FF
+
+[Rodney Mullen\Have Deck\Skater Island]
+Type = Gameshark
+Activation = EndFrame
+300BBCA0 00FF
+
+[Rodney Mullen\Have Deck\Canada]
+Type = Gameshark
+Activation = EndFrame
+300BBCA8 00FF
+
+[Rodney Mullen\Have Deck\All Levels]
+Type = Gameshark
+Activation = EndFrame
+50000708 0000
+300BBC78 00FF
+
+[Rodney Mullen\Max Stat\Air]
+Type = Gameshark
+Activation = EndFrame
+300BBC68 000A
+
+[Rodney Mullen\Max Stat\Hang Time]
+Type = Gameshark
+Activation = EndFrame
+300BBC69 000A
+
+[Rodney Mullen\Max Stat\Ollie]
+Type = Gameshark
+Activation = EndFrame
+300BBC6A 000A
+
+[Rodney Mullen\Max Stat\Speed]
+Type = Gameshark
+Activation = EndFrame
+300BBC6B 000A
+
+[Rodney Mullen\Max Stat\Spin]
+Type = Gameshark
+Activation = EndFrame
+300BBC6C 000A
+
+[Rodney Mullen\Max Stat\Landing]
+Type = Gameshark
+Activation = EndFrame
+300BBC6D 000A
+
+[Rodney Mullen\Max Stat\Switch]
+Type = Gameshark
+Activation = EndFrame
+300BBC6E 000A
+
+[Rodney Mullen\Max Stat\Rail Bal]
+Type = Gameshark
+Activation = EndFrame
+300BBC6F 000A
+
+[Rodney Mullen\Max Stat\Lip Bal]
+Type = Gameshark
+Activation = EndFrame
+300BBC70 000A
+
+[Rodney Mullen\Max Stat\Manuals]
+Type = Gameshark
+Activation = EndFrame
+300BBC71 000A
+
+[Rodney Mullen\Max Stat\All Stats]
+Type = Gameshark
+Activation = EndFrame
+50000502 0000
+800BBC68 0A0A
+
+[Rune Glifberg\Max Level Goals]
+Type = Gameshark
+Activation = EndFrame
+300BB9A4 0032
+
+[Rune Glifberg\Max Overall Stat Points]
+Type = Gameshark
+Activation = EndFrame
+300BB9A5 00FF
+
+[Rune Glifberg\All Level Goals + Medals]
+Type = Gameshark
+Activation = EndFrame
+50000802 0000
+800BB9B4 FFFF
+
+[Rune Glifberg\All Decks + Stat Points]
+Type = Gameshark
+Activation = EndFrame
+50000F04 0000
+300BB9E0 00FF
+
+[Rune Glifberg\Have All Level Goal\Foundry]
+Type = Gameshark
+Activation = EndFrame
+800BB9B4 FFFF
+
+[Rune Glifberg\Have All Level Goal\Los Angeles]
+Type = Gameshark
+Activation = EndFrame
+800BB9B6 FFFF
+
+[Rune Glifberg\Have All Level Goal\Suburbia]
+Type = Gameshark
+Activation = EndFrame
+800BB9BA FFFF
+
+[Rune Glifberg\Have All Level Goal\Airport]
+Type = Gameshark
+Activation = EndFrame
+800BB9BC FFFF
+
+[Rune Glifberg\Have All Level Goal\Canada]
+Type = Gameshark
+Activation = EndFrame
+800BB9C0 FFFF
+
+[Rune Glifberg\Have Highest Medal\Rio De Janeiro]
+Type = Gameshark
+Activation = EndFrame
+800BB9B8 FFFF
+
+[Rune Glifberg\Have Highest Medal\Skater Island]
+Type = Gameshark
+Activation = EndFrame
+800BB9BE FFFF
+
+[Rune Glifberg\Have Highest Medal\Tokyo]
+Type = Gameshark
+Activation = EndFrame
+800BB9C2 FFFF
+
+[Rune Glifberg\Have All Stat Points\Foundry]
+Type = Gameshark
+Activation = EndFrame
+300BB9E0 00FF
+
+[Rune Glifberg\Have All Stat Points\Los Angeles]
+Type = Gameshark
+Activation = EndFrame
+300BB9E8 00FF
+
+[Rune Glifberg\Have All Stat Points\Rio De Janeiro]
+Type = Gameshark
+Activation = EndFrame
+300BB9F0 00FF
+
+[Rune Glifberg\Have All Stat Points\Suburbia]
+Type = Gameshark
+Activation = EndFrame
+300BB9F8 00FF
+
+[Rune Glifberg\Have All Stat Points\Airport]
+Type = Gameshark
+Activation = EndFrame
+300BBA00 00FF
+
+[Rune Glifberg\Have All Stat Points\Skater Island]
+Type = Gameshark
+Activation = EndFrame
+300BBA08 00FF
+
+[Rune Glifberg\Have All Stat Points\Canada]
+Type = Gameshark
+Activation = EndFrame
+300BBA10 00FF
+
+[Rune Glifberg\Have All Stat Points\Tokyo]
+Type = Gameshark
+Activation = EndFrame
+300BBA18 00FF
+
+[Rune Glifberg\Have All Stat Points\All Levels]
+Type = Gameshark
+Activation = EndFrame
+50000808 0000
+300BB9E0 00FF
+
+[Rune Glifberg\Have Deck\Foundry]
+Type = Gameshark
+Activation = EndFrame
+300BB9E4 00FF
+
+[Rune Glifberg\Have Deck\Los Angeles]
+Type = Gameshark
+Activation = EndFrame
+300BB9EC 00FF
+
+[Rune Glifberg\Have Deck\Rio De Janeiro]
+Type = Gameshark
+Activation = EndFrame
+300BB9F4 00FF
+
+[Rune Glifberg\Have Deck\Suburbia]
+Type = Gameshark
+Activation = EndFrame
+300BB9FC 00FF
+
+[Rune Glifberg\Have Deck\Airport]
+Type = Gameshark
+Activation = EndFrame
+300BBA04 00FF
+
+[Rune Glifberg\Have Deck\Skater Island]
+Type = Gameshark
+Activation = EndFrame
+300BBA0C 00FF
+
+[Rune Glifberg\Have Deck\Canada]
+Type = Gameshark
+Activation = EndFrame
+300BBA14 00FF
+
+[Rune Glifberg\Have Deck\All Levels]
+Type = Gameshark
+Activation = EndFrame
+50000708 0000
+300BB9E4 00FF
+
+[Rune Glifberg\Max Stat\Air]
+Type = Gameshark
+Activation = EndFrame
+300BB9D4 000A
+
+[Rune Glifberg\Max Stat\Hang Time]
+Type = Gameshark
+Activation = EndFrame
+300BB9D5 000A
+
+[Rune Glifberg\Max Stat\Ollie]
+Type = Gameshark
+Activation = EndFrame
+300BB9D6 000A
+
+[Rune Glifberg\Max Stat\Speed]
+Type = Gameshark
+Activation = EndFrame
+300BB9D7 000A
+
+[Rune Glifberg\Max Stat\Spin]
+Type = Gameshark
+Activation = EndFrame
+300BB9D8 000A
+
+[Rune Glifberg\Max Stat\Landing]
+Type = Gameshark
+Activation = EndFrame
+300BB9D9 000A
+
+[Rune Glifberg\Max Stat\Switch]
+Type = Gameshark
+Activation = EndFrame
+300BB9DA 000A
+
+[Rune Glifberg\Max Stat\Rail Bal]
+Type = Gameshark
+Activation = EndFrame
+300BB9DB 000A
+
+[Rune Glifberg\Max Stat\Lip Bal]
+Type = Gameshark
+Activation = EndFrame
+300BB9DC 000A
+
+[Rune Glifberg\Max Stat\Manuals]
+Type = Gameshark
+Activation = EndFrame
+300BB9DD 000A
+
+[Rune Glifberg\Max Stat\All Stats]
+Type = Gameshark
+Activation = EndFrame
+50000502 0000
+800BB9D4 0A0A
+
+[Steve Caballero\Max Level Goals]
+Type = Gameshark
+Activation = EndFrame
+300BB7EC 0032
+
+[Steve Caballero\Max Overall Stat Points]
+Type = Gameshark
+Activation = EndFrame
+300BB7ED 00FF
+
+[Steve Caballero\All Level Goals + Medals]
+Type = Gameshark
+Activation = EndFrame
+50000802 0000
+800BB7FC FFFF
+
+[Steve Caballero\All Decks + Stat Points]
+Type = Gameshark
+Activation = EndFrame
+50000F04 0000
+300BB828 00FF
+
+[Steve Caballero\Have All Level Goal\Foundry]
+Type = Gameshark
+Activation = EndFrame
+800BB7FC FFFF
+
+[Steve Caballero\Have All Level Goal\Los Angeles]
+Type = Gameshark
+Activation = EndFrame
+800BB7FE FFFF
+
+[Steve Caballero\Have All Level Goal\Suburbia]
+Type = Gameshark
+Activation = EndFrame
+800BB802 FFFF
+
+[Steve Caballero\Have All Level Goal\Airport]
+Type = Gameshark
+Activation = EndFrame
+800BB804 FFFF
+
+[Steve Caballero\Have All Level Goal\Canada]
+Type = Gameshark
+Activation = EndFrame
+800BB808 FFFF
+
+[Steve Caballero\Have Highest Medal\Rio De Janeiro]
+Type = Gameshark
+Activation = EndFrame
+800BB800 FFFF
+
+[Steve Caballero\Have Highest Medal\Skater Island]
+Type = Gameshark
+Activation = EndFrame
+800BB806 FFFF
+
+[Steve Caballero\Have Highest Medal\Tokyo]
+Type = Gameshark
+Activation = EndFrame
+800BB80A FFFF
+
+[Steve Caballero\Have All Stat Points\Foundry]
+Type = Gameshark
+Activation = EndFrame
+300BB828 00FF
+
+[Steve Caballero\Have All Stat Points\Los Angeles]
+Type = Gameshark
+Activation = EndFrame
+300BB830 00FF
+
+[Steve Caballero\Have All Stat Points\Rio De Janeiro]
+Type = Gameshark
+Activation = EndFrame
+300BB838 00FF
+
+[Steve Caballero\Have All Stat Points\Suburbia]
+Type = Gameshark
+Activation = EndFrame
+300BB840 00FF
+
+[Steve Caballero\Have All Stat Points\Airport]
+Type = Gameshark
+Activation = EndFrame
+300BB848 00FF
+
+[Steve Caballero\Have All Stat Points\Skater Island]
+Type = Gameshark
+Activation = EndFrame
+300BB850 00FF
+
+[Steve Caballero\Have All Stat Points\Canada]
+Type = Gameshark
+Activation = EndFrame
+300BB858 00FF
+
+[Steve Caballero\Have All Stat Points\Tokyo]
+Type = Gameshark
+Activation = EndFrame
+300BB860 00FF
+
+[Steve Caballero\Have All Stat Points\All Levels]
+Type = Gameshark
+Activation = EndFrame
+50000808 0000
+300BB828 00FF
+
+[Steve Caballero\Have Deck\Foundry]
+Type = Gameshark
+Activation = EndFrame
+300BB82C 00FF
+
+[Steve Caballero\Have Deck\Los Angeles]
+Type = Gameshark
+Activation = EndFrame
+300BB834 00FF
+
+[Steve Caballero\Have Deck\Rio De Janeiro]
+Type = Gameshark
+Activation = EndFrame
+300BB83C 00FF
+
+[Steve Caballero\Have Deck\Suburbia]
+Type = Gameshark
+Activation = EndFrame
+300BB844 00FF
+
+[Steve Caballero\Have Deck\Airport]
+Type = Gameshark
+Activation = EndFrame
+300BB84C 00FF
+
+[Steve Caballero\Have Deck\Skater Island]
+Type = Gameshark
+Activation = EndFrame
+300BB854 00FF
+
+[Steve Caballero\Have Deck\Canada]
+Type = Gameshark
+Activation = EndFrame
+300BB85C 00FF
+
+[Steve Caballero\Have Deck\All Levels]
+Type = Gameshark
+Activation = EndFrame
+50000708 0000
+300BB82C 00FF
+
+[Steve Caballero\Max Stat\Air]
+Type = Gameshark
+Activation = EndFrame
+300BB81C 000A
+
+[Steve Caballero\Max Stat\Hang Time]
+Type = Gameshark
+Activation = EndFrame
+300BB81D 000A
+
+[Steve Caballero\Max Stat\Ollie]
+Type = Gameshark
+Activation = EndFrame
+300BB81E 000A
+
+[Steve Caballero\Max Stat\Speed]
+Type = Gameshark
+Activation = EndFrame
+300BB81F 000A
+
+[Steve Caballero\Max Stat\Spin]
+Type = Gameshark
+Activation = EndFrame
+300BB820 000A
+
+[Steve Caballero\Max Stat\Landing]
+Type = Gameshark
+Activation = EndFrame
+300BB821 000A
+
+[Steve Caballero\Max Stat\Switch]
+Type = Gameshark
+Activation = EndFrame
+300BB822 000A
+
+[Steve Caballero\Max Stat\Rail Bal]
+Type = Gameshark
+Activation = EndFrame
+300BB823 000A
+
+[Steve Caballero\Max Stat\Lip Bal]
+Type = Gameshark
+Activation = EndFrame
+300BB824 000A
+
+[Steve Caballero\Max Stat\Manuals]
+Type = Gameshark
+Activation = EndFrame
+300BB825 000A
+
+[Steve Caballero\Max Stat\All Stats]
+Type = Gameshark
+Activation = EndFrame
+50000502 0000
+800BB81C 0A0A
+
+[Tony Hawk\Max Level Goals]
+Type = Gameshark
+Activation = EndFrame
+300BB710 0032
+
+[Tony Hawk\Max Overall Stat Points]
+Type = Gameshark
+Activation = EndFrame
+300BB711 00FF
+
+[Tony Hawk\All Level Goals + Medals]
+Type = Gameshark
+Activation = EndFrame
+50000802 0000
+800BB720 FFFF
+
+[Tony Hawk\All Decks + Stat Points]
+Type = Gameshark
+Activation = EndFrame
+50000F04 0000
+300BB74C 00FF
+
+[Tony Hawk\Have All Level Goal\Foundry]
+Type = Gameshark
+Activation = EndFrame
+800BB720 FFFF
+
+[Tony Hawk\Have All Level Goal\Los Angeles]
+Type = Gameshark
+Activation = EndFrame
+800BB722 FFFF
+
+[Tony Hawk\Have All Level Goal\Suburbia]
+Type = Gameshark
+Activation = EndFrame
+800BB726 FFFF
+
+[Tony Hawk\Have All Level Goal\Airport]
+Type = Gameshark
+Activation = EndFrame
+800BB728 FFFF
+
+[Tony Hawk\Have All Level Goal\Canada]
+Type = Gameshark
+Activation = EndFrame
+800BB72C FFFF
+
+[Tony Hawk\Have Highest Medal\Rio De Janeiro]
+Type = Gameshark
+Activation = EndFrame
+800BB724 FFFF
+
+[Tony Hawk\Have Highest Medal\Skater Island]
+Type = Gameshark
+Activation = EndFrame
+800BB72A FFFF
+
+[Tony Hawk\Have Highest Medal\Tokyo]
+Type = Gameshark
+Activation = EndFrame
+800BB72E FFFF
+
+[Tony Hawk\Have All Stat Points\Foundry]
+Type = Gameshark
+Activation = EndFrame
+300BB74C 00FF
+
+[Tony Hawk\Have All Stat Points\Los Angeles]
+Type = Gameshark
+Activation = EndFrame
+300BB754 00FF
+
+[Tony Hawk\Have All Stat Points\Rio De Janeiro]
+Type = Gameshark
+Activation = EndFrame
+300BB75C 00FF
+
+[Tony Hawk\Have All Stat Points\Suburbia]
+Type = Gameshark
+Activation = EndFrame
+300BB764 00FF
+
+[Tony Hawk\Have All Stat Points\Airport]
+Type = Gameshark
+Activation = EndFrame
+300BB76C 00FF
+
+[Tony Hawk\Have All Stat Points\Skater Island]
+Type = Gameshark
+Activation = EndFrame
+300BB774 00FF
+
+[Tony Hawk\Have All Stat Points\Canada]
+Type = Gameshark
+Activation = EndFrame
+300BB77C 00FF
+
+[Tony Hawk\Have All Stat Points\Tokyo]
+Type = Gameshark
+Activation = EndFrame
+300BB784 00FF
+
+[Tony Hawk\Have All Stat Points\All Levels]
+Type = Gameshark
+Activation = EndFrame
+50000808 0000
+300BB74C 00FF
+
+[Tony Hawk\Have Deck\Foundry]
+Type = Gameshark
+Activation = EndFrame
+300BB750 00FF
+
+[Tony Hawk\Have Deck\Los Angeles]
+Type = Gameshark
+Activation = EndFrame
+300BB758 00FF
+
+[Tony Hawk\Have Deck\Rio De Janeiro]
+Type = Gameshark
+Activation = EndFrame
+300BB760 00FF
+
+[Tony Hawk\Have Deck\Suburbia]
+Type = Gameshark
+Activation = EndFrame
+300BB768 00FF
+
+[Tony Hawk\Have Deck\Airport]
+Type = Gameshark
+Activation = EndFrame
+300BB770 00FF
+
+[Tony Hawk\Have Deck\Skater Island]
+Type = Gameshark
+Activation = EndFrame
+300BB778 00FF
+
+[Tony Hawk\Have Deck\Canada]
+Type = Gameshark
+Activation = EndFrame
+300BB780 00FF
+
+[Tony Hawk\Have Deck\All Levels]
+Type = Gameshark
+Activation = EndFrame
+50000708 0000
+300BB750 00FF
+
+[Tony Hawk\Max Stat\Air]
+Type = Gameshark
+Activation = EndFrame
+300BB740 000A
+
+[Tony Hawk\Max Stat\Hang Time]
+Type = Gameshark
+Activation = EndFrame
+300BB741 000A
+
+[Tony Hawk\Max Stat\Ollie]
+Type = Gameshark
+Activation = EndFrame
+300BB742 000A
+
+[Tony Hawk\Max Stat\Speed]
+Type = Gameshark
+Activation = EndFrame
+300BB743 000A
+
+[Tony Hawk\Max Stat\Spin]
+Type = Gameshark
+Activation = EndFrame
+300BB744 000A
+
+[Tony Hawk\Max Stat\Landing]
+Type = Gameshark
+Activation = EndFrame
+300BB745 000A
+
+[Tony Hawk\Max Stat\Switch]
+Type = Gameshark
+Activation = EndFrame
+300BB746 000A
+
+[Tony Hawk\Max Stat\Rail Bal]
+Type = Gameshark
+Activation = EndFrame
+300BB747 000A
+
+[Tony Hawk\Max Stat\Lip Bal]
+Type = Gameshark
+Activation = EndFrame
+300BB748 000A
+
+[Tony Hawk\Max Stat\Manuals]
+Type = Gameshark
+Activation = EndFrame
+300BB749 000A
+
+[Tony Hawk\Max Stat\All Stats]
+Type = Gameshark
+Activation = EndFrame
+50000502 0000
+800BB740 0A0A
+
+[Wolverine\Max Level Goals]
+Type = Gameshark
+Activation = EndFrame
+300BC5AC 0032
+
+[Wolverine\Max Overall Stat Points]
+Type = Gameshark
+Activation = EndFrame
+300BC5AD 00FF
+
+[Wolverine\All Level Goals + Medals]
+Type = Gameshark
+Activation = EndFrame
+50000802 0000
+800BC5BC FFFF
+
+[Wolverine\All Decks + Stat Points]
+Type = Gameshark
+Activation = EndFrame
+50000F04 0000
+300BC5E8 00FF
+
+[Wolverine\Have All Level Goal\Foundry]
+Type = Gameshark
+Activation = EndFrame
+800BC5BC FFFF
+
+[Wolverine\Have All Level Goal\Los Angeles]
+Type = Gameshark
+Activation = EndFrame
+800BC5BE FFFF
+
+[Wolverine\Have All Level Goal\Suburbia]
+Type = Gameshark
+Activation = EndFrame
+800BC5C2 FFFF
+
+[Wolverine\Have All Level Goal\Airport]
+Type = Gameshark
+Activation = EndFrame
+800BC5C4 FFFF
+
+[Wolverine\Have All Level Goal\Canada]
+Type = Gameshark
+Activation = EndFrame
+800BC5C8 FFFF
+
+[Wolverine\Have Highest Medal\Rio De Janeiro]
+Type = Gameshark
+Activation = EndFrame
+800BC5C0 FFFF
+
+[Wolverine\Have Highest Medal\Skater Island]
+Type = Gameshark
+Activation = EndFrame
+800BC5C6 FFFF
+
+[Wolverine\Have Highest Medal\Tokyo]
+Type = Gameshark
+Activation = EndFrame
+800BC5CA FFFF
+
+[Wolverine\Have All Stat Points\Foundry]
+Type = Gameshark
+Activation = EndFrame
+300BC5E8 00FF
+
+[Wolverine\Have All Stat Points\Los Angeles]
+Type = Gameshark
+Activation = EndFrame
+300BC5F0 00FF
+
+[Wolverine\Have All Stat Points\Rio De Janeiro]
+Type = Gameshark
+Activation = EndFrame
+300BC5F8 00FF
+
+[Wolverine\Have All Stat Points\Suburbia]
+Type = Gameshark
+Activation = EndFrame
+300BC600 00FF
+
+[Wolverine\Have All Stat Points\Airport]
+Type = Gameshark
+Activation = EndFrame
+300BC608 00FF
+
+[Wolverine\Have All Stat Points\Skater Island]
+Type = Gameshark
+Activation = EndFrame
+300BC610 00FF
+
+[Wolverine\Have All Stat Points\Canada]
+Type = Gameshark
+Activation = EndFrame
+300BC618 00FF
+
+[Wolverine\Have All Stat Points\Tokyo]
+Type = Gameshark
+Activation = EndFrame
+300BC620 00FF
+
+[Wolverine\Have All Stat Points\All Levels]
+Type = Gameshark
+Activation = EndFrame
+50000808 0000
+300BC5E8 00FF
+
+[Wolverine\Have Deck\Foundry]
+Type = Gameshark
+Activation = EndFrame
+300BC5EC 00FF
+
+[Wolverine\Have Deck\Los Angeles]
+Type = Gameshark
+Activation = EndFrame
+300BC5F4 00FF
+
+[Wolverine\Have Deck\Rio De Janeiro]
+Type = Gameshark
+Activation = EndFrame
+300BC5FC 00FF
+
+[Wolverine\Have Deck\Suburbia]
+Type = Gameshark
+Activation = EndFrame
+300BC604 00FF
+
+[Wolverine\Have Deck\Airport]
+Type = Gameshark
+Activation = EndFrame
+300BC60C 00FF
+
+[Wolverine\Have Deck\Skater Island]
+Type = Gameshark
+Activation = EndFrame
+300BC614 00FF
+
+[Wolverine\Have Deck\Canada]
+Type = Gameshark
+Activation = EndFrame
+300BC61C 00FF
+
+[Wolverine\Have Deck\All Levels]
+Type = Gameshark
+Activation = EndFrame
+50000708 0000
+300BC5EC 00FF
+
+[Wolverine\Max Stat\Air]
+Type = Gameshark
+Activation = EndFrame
+300BC5DC 000A
+
+[Wolverine\Max Stat\Hang Time]
+Type = Gameshark
+Activation = EndFrame
+300BC5DD 000A
+
+[Wolverine\Max Stat\Ollie]
+Type = Gameshark
+Activation = EndFrame
+300BC5DE 000A
+
+[Wolverine\Max Stat\Speed]
+Type = Gameshark
+Activation = EndFrame
+300BC5DF 000A
+
+[Wolverine\Max Stat\Spin]
+Type = Gameshark
+Activation = EndFrame
+300BC5E0 000A
+
+[Wolverine\Max Stat\Landing]
+Type = Gameshark
+Activation = EndFrame
+300BC5E1 000A
+
+[Wolverine\Max Stat\Switch]
+Type = Gameshark
+Activation = EndFrame
+300BC5E2 000A
+
+[Wolverine\Max Stat\Rail Bal]
+Type = Gameshark
+Activation = EndFrame
+300BC5E3 000A
+
+[Wolverine\Max Stat\Lip Bal]
+Type = Gameshark
+Activation = EndFrame
+300BC5E4 000A
+
+[Wolverine\Max Stat\Manuals]
+Type = Gameshark
+Activation = EndFrame
+300BC5E5 000A
+
+[Wolverine\Max Stat\All Stats]
+Type = Gameshark
+Activation = EndFrame
+50000502 0000
+800BC5DC 0A0A
+
+[Other\Have All Gaps\Foundry]
+Type = Gameshark
+Activation = EndFrame
+900BC908 FFFFFFFF
+900BC90C FFFFFFFF
+
+[Other\Have All Gaps\Los Angeles]
+Type = Gameshark
+Activation = EndFrame
+900BC914 FFFFFFFF
+
+[Other\Have All Gaps\Rio De Janeiro]
+Type = Gameshark
+Activation = EndFrame
+900BC920 FFFFFFFF
+
+[Other\Have All Gaps\Suburbia]
+Type = Gameshark
+Activation = EndFrame
+800BC92C FFFF
+300BC92E FFFF
+
+[Other\Have All Gaps\Airport]
+Type = Gameshark
+Activation = EndFrame
+900BC938 FFFFFFFF
+800BC93C FFFF
+
+[Other\Have All Gaps\Skater Island]
+Type = Gameshark
+Activation = EndFrame
+900BC944 FFFFFFFF
+800BC948 FFFF
+
+[Other\Have All Gaps\Canada]
+Type = Gameshark
+Activation = EndFrame
+800BC950 FFFF
+
+[Other\Have All Gaps\Tokyo]
+Type = Gameshark
+Activation = EndFrame
+900BC95C FFFFFFFF
+
+[Other\Have Cheat\Officer Dick]
+Type = Gameshark
+Activation = EndFrame
+300BCA1C 00FF
+
+[Other\Have Cheat\Skip To Restart]
+Type = Gameshark
+Activation = EndFrame
+300BCA20 00FF
+
+[Other\Have Cheat\Kid Mode]
+Type = Gameshark
+Activation = EndFrame
+300BCA24 00FF
+
+[Other\Have Cheat\Perfect Balance]
+Type = Gameshark
+Activation = EndFrame
+300BCA28 00FF
+
+[Other\Have Cheat\Always Special]
+Type = Gameshark
+Activation = EndFrame
+300BCA2C 00FF
+
+[Other\Have Cheat\Stud]
+Type = Gameshark
+Activation = EndFrame
+300BCA30 00FF
+
+[Other\Have Cheat\Weight]
+Type = Gameshark
+Activation = EndFrame
+300BCA34 00FF
+
+[Other\Have Cheat\Wireframe]
+Type = Gameshark
+Activation = EndFrame
+300BCA38 00FF
+
+[Other\Have Cheat\Slow-Nic]
+Type = Gameshark
+Activation = EndFrame
+300BCA3C 00FF
+
+[Other\Have Cheat\Big Head]
+Type = Gameshark
+Activation = EndFrame
+300BCA40 00FF
+
+[Other\Have Cheat\Sim Mode]
+Type = Gameshark
+Activation = EndFrame
+300BCA44 00FF
+
+[Other\Have Cheat\Smooth]
+Type = Gameshark
+Activation = EndFrame
+300BCA48 00FF
+
+[Other\Have Cheat\Super Revert]
+Type = Gameshark
+Activation = EndFrame
+300BCA4C 00FF
+
+[Other\Have Cheat\Moon Physics]
+Type = Gameshark
+Activation = EndFrame
+300BCA50 00FF
+
+[Other\Have Cheat\Disco Mode]
+Type = Gameshark
+Activation = EndFrame
+300BCA54 00FF
+
+[Other\Have Cheat\Level Flip]
+Type = Gameshark
+Activation = EndFrame
+300BCA58 00FF
+
+[Other\Misc.\Hella Points Per Trick]
+Type = Gameshark
+Activation = EndFrame
+D0067754 1414
+90067758 24427FFF
+
+[Other\Misc.\Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+D003BA00 3974
+8003BA02 2400
+
+[Other\Misc.\Have Officer Dick]
+Type = Gameshark
+Activation = EndFrame
+800B9118 0001
+
+[Other\Misc.\Have Wolverine]
+Type = Gameshark
+Activation = EndFrame
+800B926C 0001
+
+[Other\Misc.\Unlock Downhill]
+Type = Gameshark
+Activation = EndFrame
+D0026318 0003
+8002631A 2400
+
+[Other\Misc.\Always Win Gold Medal]
+Type = Gameshark
+Activation = EndFrame
+800C2752 270F
+800C2758 270F
+

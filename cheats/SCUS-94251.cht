@@ -1,0 +1,37 @@
+; CHTDB: ; [ Cool Boarders 3 (USA) (1998) (989 Studios) {SCUS-94251} <coolboa3> ]
+
+[Have 50000 Points]
+Type = Gameshark
+Activation = EndFrame
+8009AD9C C350
+
+[Always Place First + Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+8009C694 0000
+
+[Have All Mountains]
+Type = Gameshark
+Activation = EndFrame
+80069078 0005
+
+[Have Extra Characters]
+Type = Gameshark
+Activation = EndFrame
+800BD7CC 0015
+
+[Have Extra Free Style Boards]
+Type = Gameshark
+Activation = EndFrame
+800BDDE0 000A
+
+[Have Extra Free Ride Boards]
+Type = Gameshark
+Activation = EndFrame
+800BDEF8 000A
+
+[Have Extra Alpine Boards]
+Type = Gameshark
+Activation = EndFrame
+800BE010 0003
+

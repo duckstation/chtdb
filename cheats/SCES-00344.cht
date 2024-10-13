@@ -1,0 +1,394 @@
+; CHTDB: ; [ Crash Bandicoot (Europe) {SCES-00344} ]
+
+[All Levels Selectable]
+Type = Gameshark
+Activation = EndFrame
+30061628 0040
+
+[Reset To 2nd Mask At Map]
+Type = Gameshark
+Activation = EndFrame
+800615D0 0200
+
+[Infinite Lives-Codes\N. Sanity Beach]
+Type = Gameshark
+Activation = EndFrame
+D00B078C 0000
+8009E218 6300
+
+[Infinite Lives-Codes\Jungle Rollers]
+Type = Gameshark
+Activation = EndFrame
+D00B078C 0001
+8009E27C 6300
+
+[Infinite Lives-Codes\The Great Gate]
+Type = Gameshark
+Activation = EndFrame
+D00B078C 0002
+8009E430 6300
+
+[Infinite Lives-Codes\Boulders]
+Type = Gameshark
+Activation = EndFrame
+D00B078C 0003
+8009E264 6300
+
+[Infinite Lives-Codes\Upstream]
+Type = Gameshark
+Activation = EndFrame
+D00B078C 0004
+8009E2BC 6300
+
+[Infinite Lives-Codes\Papu Papu]
+Type = Gameshark
+Activation = EndFrame
+D00B078C 0005
+8009DDB0 6300
+
+[Infinite Lives-Codes\Rolling Stones]
+Type = Gameshark
+Activation = EndFrame
+D00B078C 0006
+8009E2F0 6300
+
+[Infinite Lives-Codes\Hog Wild]
+Type = Gameshark
+Activation = EndFrame
+D00B078C 0007
+8009E32C 6300
+
+[Infinite Lives-Codes\Native Fortress]
+Type = Gameshark
+Activation = EndFrame
+D00B078C 0008
+8009E480 6300
+
+[Infinite Lives-Codes\Up The Creek]
+Type = Gameshark
+Activation = EndFrame
+D00B078C 0009
+8009E380 6300
+
+[Infinite Lives-Codes\Ripper Roo]
+Type = Gameshark
+Activation = EndFrame
+D00B078C 000A
+8009DDC0 6300
+
+[Infinite Lives-Codes\The Lost City]
+Type = Gameshark
+Activation = EndFrame
+D00B078C 000B
+8009E384 6300
+
+[Infinite Lives-Codes\Temple Ruins]
+Type = Gameshark
+Activation = EndFrame
+D00B078C 000C
+8009E32C 6300
+
+[Infinite Lives-Codes\Road To Nowhere]
+Type = Gameshark
+Activation = EndFrame
+D00B078C 000D
+8009E300 6300
+
+[Infinite Lives-Codes\Boulder Dash]
+Type = Gameshark
+Activation = EndFrame
+D00B078C 000E
+8009E4E8 6300
+
+[Infinite Lives-Codes\Sunset Vista]
+Type = Gameshark
+Activation = EndFrame
+D00B078C 000F
+8009E4F8 6300
+
+[Infinite Lives-Codes\Koala Kong]
+Type = Gameshark
+Activation = EndFrame
+D00B078C 0010
+8009DE78 6300
+
+[Infinite Lives-Codes\Heavy Machinery]
+Type = Gameshark
+Activation = EndFrame
+D00B078C 0011
+8009E508 6300
+
+[Infinite Lives-Codes\Cortex Power]
+Type = Gameshark
+Activation = EndFrame
+D00B078C 0012
+8009E45C 6300
+
+[Infinite Lives-Codes\Generator Room]
+Type = Gameshark
+Activation = EndFrame
+D00B078C 0013
+8009E22C 6300
+
+[Infinite Lives-Codes\Toxic Waste]
+Type = Gameshark
+Activation = EndFrame
+D00B078C 0014
+8009E1AC 6300
+
+[Infinite Lives-Codes\Pinstripe]
+Type = Gameshark
+Activation = EndFrame
+D00B078C 0015
+8009DE70 6300
+
+[Infinite Lives-Codes\The High Road]
+Type = Gameshark
+Activation = EndFrame
+D00B078C 0016
+8009E2A0 6300
+
+[Infinite Lives-Codes\Slippery Climb]
+Type = Gameshark
+Activation = EndFrame
+D00B078C 0017
+8009E2D0 6300
+
+[Infinite Lives-Codes\Lights Out]
+Type = Gameshark
+Activation = EndFrame
+D00B078C 0018
+8009E1E8 6300
+
+[Infinite Lives-Codes\Fumbling In The Dark]
+Type = Gameshark
+Activation = EndFrame
+8009E28C 6300
+
+[Infinite Lives-Codes\Jaws Of Darkness]
+Type = Gameshark
+Activation = EndFrame
+D00B078C 0019
+8009E458 6300
+
+[Infinite Lives-Codes\Castle Machinery]
+Type = Gameshark
+Activation = EndFrame
+D00B078C 001A
+8009E56C 6300
+
+[Infinite Lives-Codes\Nitrus Brio]
+Type = Gameshark
+Activation = EndFrame
+D00B078C 001B
+8009DE80 6300
+
+[Infinite Lives-Codes\The Lab]
+Type = Gameshark
+Activation = EndFrame
+D00B078C 001C
+8009E20C 6300
+
+[Infinite Lives-Codes\The Great Hall]
+Type = Gameshark
+Activation = EndFrame
+D00B078C 001D
+8009E048 6300
+
+[Infinite Lives-Codes\Dr. Neo Cortex]
+Type = Gameshark
+Activation = EndFrame
+D00B078C 001E
+8009DDD8 6300
+
+[99 Wumpa Fruits For Crash\N. Sanity Beach]
+Type = Gameshark
+Activation = EndFrame
+D00B078C 0000
+8009E214 6300
+
+[99 Wumpa Fruits For Crash\Jungle Rollers]
+Type = Gameshark
+Activation = EndFrame
+D00B078C 0001
+8009E278 6300
+
+[99 Wumpa Fruits For Crash\The Great Gate]
+Type = Gameshark
+Activation = EndFrame
+D00B078C 0002
+8009E42C 6300
+
+[99 Wumpa Fruits For Crash\Boulders]
+Type = Gameshark
+Activation = EndFrame
+D00B078C 0003
+8009E260 6300
+
+[99 Wumpa Fruits For Crash\Upstream]
+Type = Gameshark
+Activation = EndFrame
+D00B078C 0004
+8009E2BC 6300
+
+[99 Wumpa Fruits For Crash\Papu Papu]
+Type = Gameshark
+Activation = EndFrame
+D00B078C 0005
+8009DDAC 6300
+
+[99 Wumpa Fruits For Crash\Rolling Stones]
+Type = Gameshark
+Activation = EndFrame
+D00B078C 0006
+8009E2EC 6300
+
+[99 Wumpa Fruits For Crash\Hog Wild]
+Type = Gameshark
+Activation = EndFrame
+D00B078C 0007
+8009E328 6300
+
+[99 Wumpa Fruits For Crash\Native Fortress]
+Type = Gameshark
+Activation = EndFrame
+D00B078C 0008
+8009E4AC 6300
+
+[99 Wumpa Fruits For Crash\Up The Creek]
+Type = Gameshark
+Activation = EndFrame
+D00B078C 0009
+8009E37C 6300
+
+[99 Wumpa Fruits For Crash\Ripp Roo]
+Type = Gameshark
+Activation = EndFrame
+D00B078C 000A
+8009DDBC 6300
+
+[99 Wumpa Fruits For Crash\The Lost City]
+Type = Gameshark
+Activation = EndFrame
+D00B078C 000B
+8009E380 6300
+
+[99 Wumpa Fruits For Crash\Temple Ruins]
+Type = Gameshark
+Activation = EndFrame
+D00B078C 000C
+8009E328 6300
+
+[99 Wumpa Fruits For Crash\Road To Nowhere]
+Type = Gameshark
+Activation = EndFrame
+D00B078C 000D
+8009E2FC 6300
+
+[99 Wumpa Fruits For Crash\Boulder Dash]
+Type = Gameshark
+Activation = EndFrame
+D00B078C 000E
+8009E4E4 6300
+
+[99 Wumpa Fruits For Crash\Sunset Vista]
+Type = Gameshark
+Activation = EndFrame
+D00B078C 000F
+8009E4F4 6300
+
+[99 Wumpa Fruits For Crash\Koala Kong]
+Type = Gameshark
+Activation = EndFrame
+D00B078C 0010
+8009DE74 6300
+
+[99 Wumpa Fruits For Crash\Heavy Machinery]
+Type = Gameshark
+Activation = EndFrame
+D00B078C 0011
+8009E504 6300
+
+[99 Wumpa Fruits For Crash\Cortex Power]
+Type = Gameshark
+Activation = EndFrame
+D00B078C 0012
+8009E458 6300
+
+[99 Wumpa Fruits For Crash\Generator Room]
+Type = Gameshark
+Activation = EndFrame
+D00B078C 0013
+8009E228 6300
+
+[99 Wumpa Fruits For Crash\Toxic Waste]
+Type = Gameshark
+Activation = EndFrame
+D00B078C 0014
+8009E1A8 6300
+
+[99 Wumpa Fruits For Crash\Pinstripe]
+Type = Gameshark
+Activation = EndFrame
+D00B078C 0015
+8009DE6C 6300
+
+[99 Wumpa Fruits For Crash\The High Road]
+Type = Gameshark
+Activation = EndFrame
+D00B078C 0016
+8009E29C 6300
+
+[99 Wumpa Fruits For Crash\Slippery Climb]
+Type = Gameshark
+Activation = EndFrame
+D00B078C 0017
+8009E2CC 6300
+
+[99 Wumpa Fruits For Crash\Lights Out]
+Type = Gameshark
+Activation = EndFrame
+D00B078C 0018
+8009E1E4 6300
+
+[99 Wumpa Fruits For Crash\Fumbling In The Dark]
+Type = Gameshark
+Activation = EndFrame
+8009E288 6300
+
+[99 Wumpa Fruits For Crash\Jaws Of Darkness]
+Type = Gameshark
+Activation = EndFrame
+D00B078C 0019
+8009E454 6300
+
+[99 Wumpa Fruits For Crash\Castle Machinery]
+Type = Gameshark
+Activation = EndFrame
+D00B078C 001A
+8009E568 6300
+
+[99 Wumpa Fruits For Crash\Nitrus Brio]
+Type = Gameshark
+Activation = EndFrame
+D00B078C 001B
+8009DE7C 6300
+
+[99 Wumpa Fruits For Crash\The Lab]
+Type = Gameshark
+Activation = EndFrame
+D00B078C 001C
+8009E208 6300
+
+[99 Wumpa Fruits For Crash\The Great Hall]
+Type = Gameshark
+Activation = EndFrame
+D00B078C 001D
+8009E044 6300
+
+[99 Wumpa Fruits For Crash\Dr. Neo Cortex]
+Type = Gameshark
+Activation = EndFrame
+D00B078C 001E
+8009DDD4 6300
+

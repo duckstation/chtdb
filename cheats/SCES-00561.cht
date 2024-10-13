@@ -1,0 +1,12 @@
+; CHTDB: ; [ Real Bout Fatal Fury (Europe) {SCES-00561} ]
+
+[Infinite Health player one]
+Type = Gameshark
+Activation = EndFrame
+80195328 C000
+
+[Computer has 0 of energy]
+Type = Gameshark
+Activation = EndFrame
+80195454 0000
+

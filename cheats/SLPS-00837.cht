@@ -1,0 +1,18 @@
+; CHTDB: ; [ Carom Shot (Japan) {SLPS-00837} ]
+
+[Infinite Money in Story Mode]
+Type = Gameshark
+Activation = EndFrame
+900B3EA4 000F423F
+
+[All Secret Characters Unlocked]
+Type = Gameshark
+Activation = EndFrame
+800B38C2 0003
+
+[Not increase time]
+Type = Gameshark
+Activation = EndFrame
+80038160 0000
+80038164 0000
+

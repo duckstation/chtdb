@@ -1,0 +1,14 @@
+; CHTDB: ; [ Digimon Rumble Arena (USA) (2002) (Bandai America) {SLUS-01404} <digirmbl> ]
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+9007F36C 31210800
+9007F3A0 10200005
+
+[All Characters]
+Type = Gameshark
+Activation = EndFrame
+50001804 0000
+8012AB34 0001
+

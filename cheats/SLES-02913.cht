@@ -1,0 +1,18 @@
+; CHTDB: ; [ Alien Resurrection (Europe) {SLES-02913} ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+D011BE88 FFFF
+8010D7D4 1000
+
+[Timer Stopped (Level 2)]
+Type = Gameshark
+Activation = EndFrame
+A605C4C2 ACA20000
+
+[Cheat Menu]
+Type = Gameshark
+Activation = EndFrame
+30096DF0 0001
+

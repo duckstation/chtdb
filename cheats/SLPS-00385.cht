@@ -1,0 +1,58 @@
+; CHTDB: ; [ SD Gundam: Over Galaxian (Japan) {SLPS-00385} ]
+
+[Infinite Life]
+Type = Gameshark
+Activation = EndFrame
+80016430 0000
+
+[Infinite Life (Alternate)]
+Type = Gameshark
+Activation = EndFrame
+80010016 00FF
+
+[Speed At Level 2]
+Type = Gameshark
+Activation = EndFrame
+80010036 0002
+
+[Power At Level 2]
+Type = Gameshark
+Activation = EndFrame
+80010038 0002
+
+[Bazooka at Level 2]
+Type = Gameshark
+Activation = EndFrame
+8001003A 0002
+
+[Does not decrease the remaining machine]
+Type = Gameshark
+Activation = EndFrame
+80010034 0009
+
+[Movement speed MAX]
+Type = Gameshark
+Activation = EndFrame
+80010036 0009
+
+[Bullet speed MAX]
+Type = Gameshark
+Activation = EndFrame
+80010038 0009
+
+[Infinite Bazooka ammunition]
+Type = Gameshark
+Activation = EndFrame
+8001003A 0009
+
+[G CHANGER STORY for In ? button, deathblow gauge MAX]
+Type = Gameshark
+Activation = EndFrame
+D0066AA0 0010
+80066A54 0010
+
+[Score 999990]
+Type = Gameshark
+Activation = EndFrame
+90010048 0001869F
+

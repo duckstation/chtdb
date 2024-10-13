@@ -1,0 +1,69 @@
+; CHTDB: ; [ Action Man: Destruction X (Europe) {SLES-03083} ]
+
+[Infinite Health T-Wrex]
+Type = Gameshark
+Activation = EndFrame
+9007F048 03E803E8
+
+[Always First Race]
+Type = Gameshark
+Activation = EndFrame
+D00BDB10 0001
+300BDB10 0005
+
+[All Cheats Unlocked]
+Type = Gameshark
+Activation = EndFrame
+3005B180 003F
+
+[Fire At Dr Smith Laboratory No Damage]
+Type = Gameshark
+Activation = EndFrame
+800BB6A1 0000
+
+[Fire At Dr Smith Laboratory No Damage (Press L2 & Select)]
+Type = Gameshark
+Activation = EndFrame
+D006AE2E FBFE
+800BB6A0 0000
+
+[Infinite Water]
+Type = Gameshark
+Activation = EndFrame
+D006AE2E BFFF
+300BB290 00D9
+
+[Terrorist Bomb Threat Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800B94E0 0C00
+
+[Arrest Kidnap Gang No Kidnapper's Escape]
+Type = Gameshark
+Activation = EndFrame
+D00BCE6C 0001
+300BCE6C 0000
+
+[Arrest 40 Kidnap Gang]
+Type = Gameshark
+Activation = EndFrame
+800BCE6E 0028
+
+[Catch The Plane Tension Always Zero]
+Type = Gameshark
+Activation = EndFrame
+D006AE2E 7FFF
+800BE804 0000
+
+[Racing School Win Inmediately (Press select)]
+Type = Gameshark
+Activation = EndFrame
+D006AE2E FFFE
+300BD9E4 0005
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+80068258 0C00
+801C058C 1555
+

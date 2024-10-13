@@ -1,0 +1,17 @@
+; CHTDB: ; [ World Championship Snooker (Europe) {SLES-02196} ]
+
+[P1 Enable Easy Win]
+Type = Gameshark
+Activation = EndFrame
+A613597E 000000C8
+
+[P1 Can't Score]
+Type = Gameshark
+Activation = EndFrame
+8013597E 0000
+
+[P2 Can't Score]
+Type = Gameshark
+Activation = EndFrame
+80135980 0000
+

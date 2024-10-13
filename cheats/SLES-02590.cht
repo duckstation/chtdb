@@ -1,0 +1,80 @@
+; CHTDB: ; [ Hugo: The Quest for the Sunstones (Europe) {SLES-02590} ]
+
+[Have 99 diamonds]
+Type = Gameshark
+Activation = EndFrame
+80180A4A 0063
+
+[Have 99 lives]
+Type = Gameshark
+Activation = EndFrame
+80180A48 0063
+
+[Infinite Energy level 1]
+Type = Gameshark
+Activation = EndFrame
+80180A4C 0064
+801F4AFC 0064
+
+[Infinite Energy level 2]
+Type = Gameshark
+Activation = EndFrame
+80180488 0064
+
+[Infinite Energy level 3]
+Type = Gameshark
+Activation = EndFrame
+8018041C 0064
+801EC204 0064
+
+[Infinite Energy level 4]
+Type = Gameshark
+Activation = EndFrame
+8017FF9C 0064
+
+[Infinite Energy level 5]
+Type = Gameshark
+Activation = EndFrame
+80180ADC 0064
+
+[Infinite Energy level 6]
+Type = Gameshark
+Activation = EndFrame
+80179618 0064
+
+[Infinite Energy level 7]
+Type = Gameshark
+Activation = EndFrame
+8017F890 0064
+801F0700 0064
+
+[Infinite Energy level 8]
+Type = Gameshark
+Activation = EndFrame
+8017E750 0064
+801EC2D4 0064
+
+[Infinite Energy level 9]
+Type = Gameshark
+Activation = EndFrame
+8017E750 0064
+801F4FBC 0064
+
+[Infinite Energy level 10]
+Type = Gameshark
+Activation = EndFrame
+8017EA38 0064
+801F4AFC 0064
+
+[Infinite Energy level 11]
+Type = Gameshark
+Activation = EndFrame
+80180660 0064
+801ec15C 0064
+
+[Infinite Energy level 12]
+Type = Gameshark
+Activation = EndFrame
+80180230 0064
+801F3458 0064
+

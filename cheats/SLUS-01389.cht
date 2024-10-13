@@ -1,0 +1,8 @@
+; CHTDB: ; [ Pajama Sam - You Are What You Eat from Your Head to Your Feet (USA) (2001) (Infogrames) {SLUS-01389} <pjmasam> ]
+
+[Press L1+L2+R1+R2 For Cheat Menu]
+Type = Gameshark
+Activation = EndFrame
+D00A8FC4 000F
+300A96B8 0001
+

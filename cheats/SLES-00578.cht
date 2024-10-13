@@ -1,0 +1,12 @@
+; CHTDB: ; [ Area 51 (Europe) {SLES-00578} ]
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8006D970 0005
+
+[P2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8006DA1C 0005
+

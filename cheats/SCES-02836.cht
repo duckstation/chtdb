@@ -1,0 +1,145 @@
+; CHTDB: ; [ Terracon (Euro) (2000) (Sony) {SCES-02836} <terracon> ]
+
+[Infinite Health (Green Energy)]
+Type = Gameshark
+Activation = EndFrame
+800DDB3C 0064
+
+[Infinite Red Energy]
+Type = Gameshark
+Activation = EndFrame
+800DDAB2 2328
+
+[Infinite Yellow Energy]
+Type = Gameshark
+Activation = EndFrame
+800DDAB4 2710
+
+[Infinite Blue energy (Build)]
+Type = Gameshark
+Activation = EndFrame
+800DDAB0 2710
+
+[Infinite Money (For Duplications)]
+Type = Gameshark
+Activation = EndFrame
+8001001C 03E7
+
+[Collected Launch Code Cartridges (LCCs) Cheats\All movies open]
+Type = Gameshark
+Activation = EndFrame
+80010096 FFFF
+
+[Collected Launch Code Cartridges (LCCs) Cheats\Earth]
+Type = Gameshark
+Activation = EndFrame
+80010094 01FF
+
+[Collected Launch Code Cartridges (LCCs) Cheats\Jupiter]
+Type = Gameshark
+Activation = EndFrame
+80010092 01FF
+
+[Collected Launch Code Cartridges (LCCs) Cheats\Neptune]
+Type = Gameshark
+Activation = EndFrame
+80010090 01FF
+
+[Collected Launch Code Cartridges (LCCs) Cheats\Uranus]
+Type = Gameshark
+Activation = EndFrame
+8001008E 01FF
+
+[Collected Launch Code Cartridges (LCCs) Cheats\Venus]
+Type = Gameshark
+Activation = EndFrame
+8001008C 01FF
+
+[Terracon Outrider Pick-up Systems (TOPS) Cheats\Always have RADAR Sweeper (Blue)]
+Description = Puts RADAR in the top-left of the display
+Type = Gameshark
+Activation = EndFrame
+31010014 0002
+
+[Terracon Outrider Pick-up Systems (TOPS) Cheats\Always have Life-Force-Regenerator (Green)]
+Description = Absorbs incoming damage from enemies
+Type = Gameshark
+Activation = EndFrame
+31010014 0020
+
+[Terracon Outrider Pick-up Systems (TOPS) Cheats\Always have Turbo-Fire Aggregate (Dark Purple)]
+Description = Doubles the player's rate of fire
+Type = Gameshark
+Activation = EndFrame
+31010015 0001
+
+[Terracon Outrider Pick-up Systems (TOPS) Cheats\Always have Auxiliary Ggenergy-Projector (Red)]
+Description = Doubles the number of bolts from the genergy-projector, but maintains the usual rate of fire
+Type = Gameshark
+Activation = EndFrame
+31010014 0004
+
+[Terracon Outrider Pick-up Systems (TOPS) Cheats\Always have Holoflage-Emitter (Orange)]
+Description = Player is invisible to enemies, upon sustaining damage
+Type = Gameshark
+Activation = EndFrame
+31010014 0040
+
+[Terracon Outrider Pick-up Systems (TOPS) Cheats\Always have Firepower Supercharger (Light Purple)]
+Description = Player can fire a single shot of charged genergy
+Type = Gameshark
+Activation = EndFrame
+31010014 0080
+
+[Terracon Outrider Pick-up Systems (TOPS) Cheats\Always have Micro Missile-Launcher (Yellow)]
+Description = Small homing missiles of enemies and objects
+Type = Gameshark
+Activation = EndFrame
+31010014 0010
+
+[Terracon Outrider Pick-up Systems (TOPS) Cheats\Always have Time-Delay Unit (Grey)]
+Description = In later levels replenishes the player's oxygen for a few seconds
+Type = Gameshark
+Activation = EndFrame
+31010014 0008
+
+[Walk/Run on Water]
+Description = Jump to Sink
+Type = Gameshark
+Activation = EndFrame
+A702D1BE 14431000
+
+[One Hit Kills]
+Type = Gameshark
+Activation = EndFrame
+A706073A 14401400
+
+[Collect Life Energy (Green) from anywhere]
+Type = Gameshark
+Activation = EndFrame
+A7082D1E 10401400
+
+[Collect Geenergy Clusters (Red) on Sight]
+Type = Gameshark
+Activation = EndFrame
+A703FCAA 10401400
+;Buggy crashes game on end of level structures
+;#One Hit to Generate Meshes
+;A7026C8E 10401000
+
+[Collect LCCs from anywhere]
+Type = Gameshark
+Activation = EndFrame
+A7083C96 10401400
+
+[Walk through Beams]
+Type = Gameshark
+Activation = EndFrame
+A709D3AA 10401000
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+A70B27FE 10401000
+A702E0C6 14621000
+

@@ -1,0 +1,18 @@
+; CHTDB: ; [ Speedster (Europe) {SLES-00575} ]
+
+[Always 1st]
+Type = Gameshark
+Activation = EndFrame
+8010450C 0000
+80104524 0000
+
+[Infinite Damage]
+Type = Gameshark
+Activation = EndFrame
+801024DC 1F99
+
+[Infinite Checkpoint time]
+Type = Gameshark
+Activation = EndFrame
+80104508 0063
+

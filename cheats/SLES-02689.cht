@@ -1,0 +1,211 @@
+; CHTDB: ; [ Need for Speed: Porsche 2000 (Europe) {SLES-02689} ]
+
+[Stopwatch 00.00.00]
+Type = Gameshark
+Activation = EndFrame
+3007A526 0020
+
+[Timer frozen (Time trials)]
+Type = Gameshark
+Activation = EndFrame
+A6011EE8 FFFF0000
+
+[French Lanuage mode]
+Type = Gameshark
+Activation = EndFrame
+300BD524 0001
+
+[Spanish Lanuage mode]
+Type = Gameshark
+Activation = EndFrame
+300BD524 0003
+
+[Italian Lanuage mode]
+Type = Gameshark
+Activation = EndFrame
+300BD524 0004
+
+[Always good grip]
+Type = Gameshark
+Activation = EndFrame
+A602F03A 24632403
+
+[Infinite/Max Cash]
+Type = Gameshark
+Activation = EndFrame
+900BDB80 0FFFFFFF
+
+[No Repair-Costs]
+Type = Gameshark
+Activation = EndFrame
+9001D850 00000000
+
+[No Penalties (Factory Driver)]
+Type = Gameshark
+Activation = EndFrame
+D00104CA 0083
+800104CC 0000
+D00104CA 0083
+800104CE 0000
+D00104CA 0083
+800104E4 0000
+D00104CA 0083
+800104E6 0000
+
+[Instant Win (Chase Mode) .Press L1 & R1]
+Type = Gameshark
+Activation = EndFrame
+D00C4862 F3FF
+800C1BD4 FFFF
+
+[99 Points (Tournament Mode)]
+Type = Gameshark
+Activation = EndFrame
+300BDB86 0063
+
+[Have Tournament Trophies (Gold)\Classic-Class 3]
+Type = Gameshark
+Activation = EndFrame
+300BDED6 0001
+
+[Have Tournament Trophies (Gold)\Classic-Class 2]
+Type = Gameshark
+Activation = EndFrame
+300BDED5 0001
+
+[Have Tournament Trophies (Gold)\Classic-Class 1]
+Type = Gameshark
+Activation = EndFrame
+300BDED4 0001
+
+[Have Tournament Trophies (Gold)\Golden-Class 3]
+Type = Gameshark
+Activation = EndFrame
+300BDED9 0001
+
+[Have Tournament Trophies (Gold)\Golden-Class 2]
+Type = Gameshark
+Activation = EndFrame
+300BDED8 0001
+
+[Have Tournament Trophies (Gold)\Golden-Class 1]
+Type = Gameshark
+Activation = EndFrame
+300BDED7 0001
+
+[Have Tournament Trophies (Gold)\Modern-Class 3]
+Type = Gameshark
+Activation = EndFrame
+300BDEDC 0001
+
+[Have Tournament Trophies (Gold)\Modern-Class 2]
+Type = Gameshark
+Activation = EndFrame
+300BDEDB 0001
+
+[Have Tournament Trophies (Gold)\Modern-Class 1]
+Type = Gameshark
+Activation = EndFrame
+300BDEDA 0001
+
+[Have Tournament Trophies (Gold)\All Tournament Trophies (Gold)]
+Type = Gameshark
+Activation = EndFrame
+50000402 0000
+800BDED4 0101
+300BDEDC 0001
+
+[Have Weekend Trophies (Gold)\356]
+Type = Gameshark
+Activation = EndFrame
+300BE044 0001
+
+[Have Weekend Trophies (Gold)\914]
+Type = Gameshark
+Activation = EndFrame
+300BE045 0001
+
+[Have Weekend Trophies (Gold)\924]
+Type = Gameshark
+Activation = EndFrame
+300BE046 0001
+
+[Have Weekend Trophies (Gold)\944]
+Type = Gameshark
+Activation = EndFrame
+300BE047 0001
+
+[Have Weekend Trophies (Gold)\928]
+Type = Gameshark
+Activation = EndFrame
+300BE048 0001
+
+[Have Weekend Trophies (Gold)\959]
+Type = Gameshark
+Activation = EndFrame
+300BE049 0001
+
+[Have Weekend Trophies (Gold)\968]
+Type = Gameshark
+Activation = EndFrame
+300BE04A 0001
+
+[Have Weekend Trophies (Gold)\993]
+Type = Gameshark
+Activation = EndFrame
+300BE04B 0001
+
+[Have Weekend Trophies (Gold)\Boxster]
+Type = Gameshark
+Activation = EndFrame
+300BE04C 0001
+
+[Have Weekend Trophies (Gold)\995]
+Type = Gameshark
+Activation = EndFrame
+300BE04D 0001
+
+[Have Weekend Trophies (Gold)\All Weekend Trophies (Gold)]
+Type = Gameshark
+Activation = EndFrame
+50000502 0000
+800BE044 0001
+
+[Have Racing Trophies (Gold)\550 Spyder]
+Type = Gameshark
+Activation = EndFrame
+300BE228 0001
+
+[Have Racing Trophies (Gold)\917]
+Type = Gameshark
+Activation = EndFrame
+300BE229 0001
+
+[Have Racing Trophies (Gold)\Gt 3]
+Type = Gameshark
+Activation = EndFrame
+300BE22A 0001
+
+[Have Racing Trophies (Gold)\Gt 2]
+Type = Gameshark
+Activation = EndFrame
+300BE22B 0001
+
+[Have Racing Trophies (Gold)\Gt 1]
+Type = Gameshark
+Activation = EndFrame
+300BE22C 0001
+
+[Have Racing Trophies (Gold)\All Racing Trophies (Gold)]
+Type = Gameshark
+Activation = EndFrame
+50000202 0000
+800BE228 0001
+300BE22C 0001
+
+[Nitroboost\On Press R3 & Cross]
+Type = Gameshark
+Activation = EndFrame
+D00C4862 BFFB
+30031380 0000
+

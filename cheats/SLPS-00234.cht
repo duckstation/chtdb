@@ -1,0 +1,12 @@
+; CHTDB: ; [ Taikou Risshiden II (Japan) {SLPS-00234} ]
+
+[Infinite HP main character in 1 on 1 combats]
+Type = Gameshark
+Activation = EndFrame
+8019FD60 005A
+
+[Have stat in 100 in main game]
+Type = Gameshark
+Activation = EndFrame
+8014E1FC 0064
+

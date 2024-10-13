@@ -1,0 +1,59 @@
+; CHTDB: ; [ Nickelodeon Rugrats: Alla Ricerca di Reptar aka Rugrats: Alla Ricerca di Reptar (Italy) {SLES-01671} ]
+
+[One ballon == complete 1 box]
+Type = Gameshark
+Activation = EndFrame
+80052E2E 2400
+
+[One biscuit == complete mini-game]
+Type = Gameshark
+Activation = EndFrame
+80058C1A 2400
+
+[One coin == complete mini-game]
+Type = Gameshark
+Activation = EndFrame
+300E3BC8 0001
+
+[One egg == complete mini-game]
+Type = Gameshark
+Activation = EndFrame
+300E3BCC 0001
+
+[Clear the timer Press L2 button]
+Type = Gameshark
+Activation = EndFrame
+D00CF03A FEFF
+800C5924 0001
+
+[GodMode]
+Type = Gameshark
+Activation = EndFrame
+80078C0E 2400
+
+[Have all pieces of the puzzle]
+Type = Gameshark
+Activation = EndFrame
+800C6B44 0FFF
+
+[Infinite Flashlight's charge]
+Type = Gameshark
+Activation = EndFrame
+300F61DA 0000
+
+[Infinite Remote control's charge]
+Type = Gameshark
+Activation = EndFrame
+300EF0E6 0000
+
+[Infinite Tries at Angelica's circus]
+Type = Gameshark
+Activation = EndFrame
+8008111E 1000
+
+[Max time Press R1 button | Activate ONLY on levels with timer]
+Type = Gameshark
+Activation = EndFrame
+D00CF03A F7FF
+800C5924 FFFF
+

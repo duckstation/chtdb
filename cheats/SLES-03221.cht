@@ -1,0 +1,70 @@
+; CHTDB: ; [ Dino Crisis 2 (Europe) {SLES-03221} ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+A60224A6 86428645
+A60224BA 8643A645
+
+[Infinite Ammo all weapons]
+Type = Gameshark
+Activation = EndFrame
+D00524CC 0C60
+800524CE 2400
+
+[Rapid fire]
+Type = Gameshark
+Activation = EndFrame
+D00488C8 0006
+800488CA 2400
+
+[Have all key items]
+Type = Gameshark
+Activation = EndFrame
+900AEEE8 03FFFFFF
+
+[Have all files]
+Type = Gameshark
+Activation = EndFrame
+900AEEF0 FFF3FFFF
+
+[Infinite EXP-points]
+Type = Gameshark
+Activation = EndFrame
+900AEE20 0098967F
+
+[Most doors open]
+Type = Gameshark
+Activation = EndFrame
+800C1A48 FFFF
+
+[No laser bars(Press L2)]
+Type = Gameshark
+Activation = EndFrame
+D00ABAB2 FFB9
+50000C02 FEFF
+800C1500 0000
+
+[Shop and save anywhere]
+Description = Press Triangle & R2
+Type = Gameshark
+Activation = EndFrame
+D00ABAB2 EDFF
+800AE74E 0002
+
+[View ending FMV (select new game)]
+Type = Gameshark
+Activation = EndFrame
+A60AECBC 01010504
+
+[Extra crisis mode Unlocked From the main menu, go into options, exit again and a new menu will appear.]
+Type = Gameshark
+Activation = EndFrame
+900AECB8 01010100
+800AECBC 0101
+
+[Extra crisis mode All characters unlocked]
+Type = Gameshark
+Activation = EndFrame
+800AECBE 0FFF
+

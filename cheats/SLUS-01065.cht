@@ -1,0 +1,92 @@
+; CHTDB: ; [ Rampage - Through Time (USA) (2000) (Midway Home Entertainment) {SLUS-01065} <rampagtt> ]
+
+[Curtis\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801F6A56 0044
+
+[Curtis\Infinite Special]
+Type = Gameshark
+Activation = EndFrame
+801F6A5A 0044
+
+[Boris\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801F6BDA 0044
+
+[Boris\Infinite Special]
+Type = Gameshark
+Activation = EndFrame
+801F6BDE 0044
+
+[Ruby\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801F6D5E 0044
+
+[Ruby\Infinite Special]
+Type = Gameshark
+Activation = EndFrame
+801F6D62 0044
+
+[George\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801F6EE2 0044
+
+[George\Infinite Special]
+Type = Gameshark
+Activation = EndFrame
+801F6EE6 0044
+
+[Lizzie\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801F7066 0044
+
+[Lizzie\Infinite Special]
+Type = Gameshark
+Activation = EndFrame
+801F706A 0044
+
+[Ralph\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801F71EA 0044
+
+[Ralph\Infinite Special]
+Type = Gameshark
+Activation = EndFrame
+801F71EE 0044
+
+[Myukus\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801F736E 0044
+
+[Myukus\Infinite Special]
+Type = Gameshark
+Activation = EndFrame
+801F7372 0044
+
+[Harley\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801F74F2 0044
+
+[Harley\Infinite Special]
+Type = Gameshark
+Activation = EndFrame
+801F74F6 0044
+
+[P1 Have All 9 Stars]
+Type = Gameshark
+Activation = EndFrame
+801F8268 0009
+
+[Round Test Unlocked (Start Game menu)]
+Type = Gameshark
+Activation = EndFrame
+3009F7D4 0004
+

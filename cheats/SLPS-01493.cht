@@ -1,0 +1,79 @@
+; CHTDB: ; [ Merriment Carrying Caravan (Japan) {SLPS-01493} ]
+
+[Money 999999999]
+Type = Gameshark
+Activation = EndFrame
+900F7604 3B9AC9FF
+
+[Claire Max stats]
+Type = Gameshark
+Activation = EndFrame
+300F7544 0064
+300F7545 0064
+800F7546 03E7
+900F7548 03E703E7
+900F754C 03E703E7
+
+[Janet Max stats]
+Type = Gameshark
+Activation = EndFrame
+300F7572 0064
+300F7573 0064
+900F7574 03E703E7
+900F7578 03E703E7
+800F757C 03E7
+
+[Becky Max stats]
+Type = Gameshark
+Activation = EndFrame
+300F75A0 0064
+300F75A1 0064
+800F75A2 03E7
+900F75A4 03E703E7
+900F75A8 03E703E7
+
+[Connie Max stats]
+Type = Gameshark
+Activation = EndFrame
+300F75CE 0064
+300F75CF 0064
+900F75D0 03E703E7
+900F75D4 03E703E7
+800F75D8 03E7
+
+[Presents 99]
+Type = Gameshark
+Activation = EndFrame
+900F762C 63636363
+900F7630 63636363
+900F7634 63636363
+800F7638 6363
+300F763A 0063
+
+[Item 99 fighter]
+Type = Gameshark
+Activation = EndFrame
+300F7643 0063
+900F7644 63636363
+300F7648 0063
+
+[Rares 99]
+Type = Gameshark
+Activation = EndFrame
+300F7649 0063
+800F764A 6363
+900F764C 63636363
+800F7650 6363
+900F7654 63636363
+
+[Sudden combat victory]
+Type = Gameshark
+Activation = EndFrame
+A60AC528 00510000
+
+[Does not decrease during movement strength]
+Type = Gameshark
+Activation = EndFrame
+A601C0CC 02ED0000
+A601C0CE A0620000
+

@@ -1,0 +1,51 @@
+; CHTDB: ; [ Minna no Golf 2 (Japan) {SCPS-10093} ]
+
+[All Characters]
+Type = Gameshark
+Activation = EndFrame
+A6046E70 00071FFF
+
+[All Courses]
+Type = Gameshark
+Activation = EndFrame
+80046E82 0005
+
+[All Items]
+Type = Gameshark
+Activation = EndFrame
+90046E78 00FDFFFF
+30046E7C 0063
+
+[All items can be viewed Homepage]
+Type = Gameshark
+Activation = EndFrame
+80047854 00FF
+
+[Get all the trophies]
+Type = Gameshark
+Activation = EndFrame
+50000A02 0000
+80046E8C 0000
+
+[Always Hole In One]
+Type = Gameshark
+Activation = EndFrame
+A6046D3E 00020001
+A6046D40 00020001
+A6046D42 00020001
+A6046D44 00020001
+A6046D46 00020001
+A6046D48 00020001
+A6046D4A 00020001
+A6046D4C 00020001
+A6046D4E 00020001
+A6046D50 00020001
+A6046D52 00020001
+A6046D54 00020001
+A6046D56 00020001
+A6046D58 00020001
+A6046D5A 00020001
+A6046D5C 00020001
+A6046D5E 00020001
+A6046D60 00020001
+

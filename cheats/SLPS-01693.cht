@@ -1,0 +1,44 @@
+; CHTDB: ; [ Smash Court 2 (Japan) {SLPS-01693} ]
+
+[P1 set count 1]
+Type = Gameshark
+Activation = EndFrame
+80088208 0001
+
+[P1 set count 2]
+Type = Gameshark
+Activation = EndFrame
+80088208 0002
+
+[P1 set count 3]
+Type = Gameshark
+Activation = EndFrame
+80088208 0003
+
+[Choose hidden character]
+Type = Gameshark
+Activation = EndFrame
+8009C470 0001
+
+[All items]
+Type = Gameshark
+Activation = EndFrame
+5000C001 0000
+300CBA9C 0063
+
+[All equipment]
+Type = Gameshark
+Activation = EndFrame
+50003101 0000
+300CBA6A 0063
+
+[All Characters]
+Type = Gameshark
+Activation = EndFrame
+A61C5824 000B0001
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+900C8AB4 0098967F
+

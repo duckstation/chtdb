@@ -1,0 +1,237 @@
+; CHTDB: ; [ Pitfall 3D: Beyond the Jungle (Germany) {SLES-00837} ]
+
+[Level 1 Codes Unendlich Energie]
+Type = Gameshark
+Activation = EndFrame
+8007B258 00FF
+
+[Level 1 Codes Unendlich Leben]
+Type = Gameshark
+Activation = EndFrame
+80021D58 0000
+
+[Level 1 Codes 255 Kristalle]
+Type = Gameshark
+Activation = EndFrame
+8007B31C 00FF
+
+[Level 2 Codes Unendlich Energie]
+Type = Gameshark
+Activation = EndFrame
+8007D740 00FF
+
+[Level 2 Codes Unendlich Leben]
+Type = Gameshark
+Activation = EndFrame
+8002351C 0000
+
+[Level 2 Codes 255 Kristalle]
+Type = Gameshark
+Activation = EndFrame
+8007D7C0 00FF
+
+[Level 2 Codes Unendlich Bomben]
+Type = Gameshark
+Activation = EndFrame
+800DD8EC 0009
+
+[Level 3 Codes Unendlich Leben]
+Type = Gameshark
+Activation = EndFrame
+800259D4 0000
+
+[Level 3 Codes Unendlich Energie]
+Type = Gameshark
+Activation = EndFrame
+8007FE98 00FF
+
+[Level 3 Codes 255 Kristalle]
+Type = Gameshark
+Activation = EndFrame
+8007FF24 00FF
+
+[Level 3 CodesUnendlich "Schild"]
+Type = Gameshark
+Activation = EndFrame
+800DD4BC 0009
+
+[Level 4 Codes Unendlich Leben]
+Type = Gameshark
+Activation = EndFrame
+800270F0 0000
+
+[Level 4 Codes Unendlich Energie]
+Type = Gameshark
+Activation = EndFrame
+80081794 00FF
+
+[Level 4 Codes 255 Kristalle]
+Type = Gameshark
+Activation = EndFrame
+800816D8 00FF
+
+[Level 4 Codes Unendlich Bomben]
+Type = Gameshark
+Activation = EndFrame
+800F1AB8 0009
+
+[Level 5 Codes Unendlich Energie]
+Type = Gameshark
+Activation = EndFrame
+8007F42C 00FF
+
+[Level 5 Codes Unendlich Leben]
+Type = Gameshark
+Activation = EndFrame
+80024C4C 0000
+
+[Level 5 Codes 255 Kristalle]
+Type = Gameshark
+Activation = EndFrame
+8007F4DC 00FF
+
+[Level 5 Codes Unendlich Schild]
+Type = Gameshark
+Activation = EndFrame
+800DBE24 0009
+
+[Level 6 Codes Unendlich Energie]
+Type = Gameshark
+Activation = EndFrame
+80080514 00FF
+
+[Level 6 Codes Unendlich Leben]
+Type = Gameshark
+Activation = EndFrame
+800266C0 0000
+
+[Level 6 Codes 255 Kristalle]
+Type = Gameshark
+Activation = EndFrame
+800805CC 00FF
+
+[Level 6 Codes Unendlich Schild]
+Type = Gameshark
+Activation = EndFrame
+800DC7FC 0009
+
+[Level 7 Codes Unendlich Energie]
+Type = Gameshark
+Activation = EndFrame
+80085030 00FF
+
+[Level 7 Codes	Unendlich Leben]
+Type = Gameshark
+Activation = EndFrame
+80026B14 0000
+
+[Level 7 Codes 255 Kristalle]
+Type = Gameshark
+Activation = EndFrame
+800850E8 00FF
+
+[Level 8 Codes Unendlich Energie]
+Type = Gameshark
+Activation = EndFrame
+8007E640 00FF
+
+[Level 8 Codes Unendlich Leben]
+Type = Gameshark
+Activation = EndFrame
+800255A0 0000
+
+[Level 8 Codes 255 Kristalle]
+Type = Gameshark
+Activation = EndFrame
+8007E700 00FF
+
+[Level 9 Codes Unendlich Energie]
+Type = Gameshark
+Activation = EndFrame
+8007EF84 00FF
+
+[Level 9 Codes	Unendlich Leben]
+Type = Gameshark
+Activation = EndFrame
+80022450 0000
+
+[Level 9 Codes 255 Kristalle]
+Type = Gameshark
+Activation = EndFrame
+8007F03C 00FF
+
+[Level 10 Codes	Unendlich Energie]
+Type = Gameshark
+Activation = EndFrame
+8007A5A4 00FF
+
+[Level 10 Codes	Unendlich Leben]
+Type = Gameshark
+Activation = EndFrame
+80024CC8 0000
+
+[Level 10 Codes 255 Kristalle]
+Type = Gameshark
+Activation = EndFrame
+8007A664 00FF
+
+[Level 11 Codes Unendlich Energie]
+Type = Gameshark
+Activation = EndFrame
+80077FBC 00FF
+
+[Level 11 Codes Unendlich Leben]
+Type = Gameshark
+Activation = EndFrame
+80021E40 0000
+
+[Level 11 Codes 255 Kristalle]
+Type = Gameshark
+Activation = EndFrame
+80078078 00FF
+
+[Boss 1 Codes Unendlich Energie]
+Type = Gameshark
+Activation = EndFrame
+80059C18 0040
+
+[Boss 1 Codes Unendlich Leben]
+Type = Gameshark
+Activation = EndFrame
+800290C8 0000
+
+[Boss 2 Codes Unendlich Energie]
+Type = Gameshark
+Activation = EndFrame
+8005ABC8 0040
+
+[Boss 2 Codes Unendlich Leben]
+Type = Gameshark
+Activation = EndFrame
+8001CDC4 0000
+
+[Boss 3 Codes Unendlich Energie]
+Type = Gameshark
+Activation = EndFrame
+8005CBD4 0040
+
+[Boss 3 Codes Unendlich Leben]
+Type = Gameshark
+Activation = EndFrame
+8001CD94 0000
+
+[Atari 2600 Pitfall Codes Unendlich Health]
+Type = Gameshark
+Activation = EndFrame
+80036330 07D0
+
+[Atari 2600 Pitfall Codes Unendlich Leben]
+Type = Gameshark
+Activation = EndFrame
+8003632C 0002
+
+[Atari 2600 Pitfall Codes Unendlich Time]
+Type = Gameshark
+Activation = EndFrame
+80036338 00FF
+

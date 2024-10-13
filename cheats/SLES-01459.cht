@@ -1,0 +1,24 @@
+; CHTDB: ; [ R/C Stunt Copter (Europe) {SLES-01459} ]
+
+[Unlock all levels]
+Type = Gameshark
+Activation = EndFrame
+800CD5CC FFFF
+
+[All gold medals (Training)]
+Type = Gameshark
+Activation = EndFrame
+50000502 0000
+800CD5A4 0303
+
+[Max score]
+Type = Gameshark
+Activation = EndFrame
+900CD5EC 4FFFFFFF
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+D0186D18 969C
+80186D1A 2400
+

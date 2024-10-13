@@ -1,0 +1,25 @@
+; CHTDB: ; [ E.T. the Extra-Terrestrial - Interplanetary Mission (USA) (2001) (NewKidCo) {SLUS-01385} <etim> ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+30077234 0063
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+300776D8 0063
+
+[Max Flowers]
+Type = Gameshark
+Activation = EndFrame
+300776D4 0063
+
+[Press L1 For Matrix Mode]
+Type = Gameshark
+Activation = EndFrame
+E008F26B 00FB
+8007CEB0 0002
+E008F26B 00F9
+8007CEB0 0002
+

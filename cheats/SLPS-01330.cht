@@ -1,0 +1,12 @@
+; CHTDB: ; [ Soukou Kihei Votoms: Woodo Kummen (Japan) (Limited Edition) {SLPS-01330} ]
+
+[Infinite Ammo Machine Gun]
+Type = Gameshark
+Activation = EndFrame
+800BF858 03E7
+
+[Infinite Arm Punch]
+Type = Gameshark
+Activation = EndFrame
+800B3056 03E7
+

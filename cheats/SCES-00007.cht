@@ -1,0 +1,43 @@
+; CHTDB: ; [ Air Combat (Europe) (EDC Value Series) {SCES-00007} ]
+
+[Infinite Guns]
+Type = Gameshark
+Activation = EndFrame
+800EEB44 0027
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+300EDF1C 0027
+
+[Infinite Fuel]
+Type = Gameshark
+Activation = EndFrame
+800EDF0C 8FFF
+
+[No Damage]
+Type = Gameshark
+Activation = EndFrame
+800EEA60 00C8
+
+[Infinite Cannon Ammo]
+Type = Gameshark
+Activation = EndFrame
+A60EEB44 270E270F
+
+[Infinite Missiles]
+Type = Gameshark
+Activation = EndFrame
+800EDF18 0040
+
+[Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+D10EEA60 00C8
+800EEA60 00C8
+
+[Start Mini-Game With 1000 Points]
+Type = Gameshark
+Activation = EndFrame
+A605F300 000103E8
+

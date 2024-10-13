@@ -1,0 +1,39 @@
+; CHTDB: ; [ Cyberia (USA) (1996) (Interplay Productions) {SLUS-00053} <cyberia> ]
+
+[Infinite Energy Skeet Shoot]
+Type = Gameshark
+Activation = EndFrame
+80067C10 0007
+
+[Infinite Shooting Skeet Shoot]
+Description = Enter the #NEMROSIM# as your name.Then while playing the game, pause and select#Load# to view the passwords for any level and to start at that point. The master cheat will also allow difficulty level 1 to be chosen for both Arcade and Puzzle modes. The master cheat will also allow the game to be uncensored. This is most notable in level 22 (SLICEOMATIC).
+Type = Gameshark
+Activation = EndFrame
+80067C0C FF64
+
+[Infinite Energy And Shooting All Flying]
+Type = Gameshark
+Activation = EndFrame
+80068334 0190
+
+[Kill All Viruses]
+Description = With this cheat, the percent still changes, but it will kill the virus when you go all the way through it!
+Type = Gameshark
+Activation = EndFrame
+8006832C 0009
+
+[Open All Levels]
+Type = Gameshark
+Activation = EndFrame
+90052DB4 01010101
+30052DC1 0001
+80052DC2 0101
+80052DC4 0101
+90052DC8 01010101
+80052DCC 0101
+
+[Enable Easy Arcade + Easy Puzzle Levels]
+Type = Gameshark
+Activation = EndFrame
+90067E14 00000000
+

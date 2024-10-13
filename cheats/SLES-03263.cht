@@ -1,0 +1,111 @@
+; CHTDB: ; [ Warriors of Might and Magic (Europe) {SLES-03263} ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801ADAA8 270F
+
+[Maximum Health]
+Type = Gameshark
+Activation = EndFrame
+801ADB4C 270F
+
+[Infinite Mana]
+Type = Gameshark
+Activation = EndFrame
+801B5814 270F
+
+[Maximum Mana]
+Type = Gameshark
+Activation = EndFrame
+801B580C 270F
+
+[Mana Never Decreases]
+Type = Gameshark
+Activation = EndFrame
+D00637AC 0148
+800637AE 0000
+
+[Items\Never Decrease]
+Type = Gameshark
+Activation = EndFrame
+A6015C66 AC510000
+
+[Items\Start With Loads Of\Keys on pick-up]
+Type = Gameshark
+Activation = EndFrame
+A61B5870 000103E7
+
+[Items\Start With Loads Of\Gems on pick-up]
+Type = Gameshark
+Activation = EndFrame
+A61B5874 000103E7
+
+[Items\Start With Loads Of\Orbs on pick-up]
+Type = Gameshark
+Activation = EndFrame
+A61B5878 000103E7
+
+[Spells\Have Crossbow At Max]
+Type = Gameshark
+Activation = EndFrame
+301B5750 0004
+
+[Spells\Have Firestorm At Max]
+Type = Gameshark
+Activation = EndFrame
+301B5738 0004
+
+[Spells\Have Lightning At Max]
+Type = Gameshark
+Activation = EndFrame
+301B573A 0004
+
+[Spells\Have Rage At Max]
+Type = Gameshark
+Activation = EndFrame
+301B573C 0004
+
+[Spells\Hace Icy Lightning At Max]
+Type = Gameshark
+Activation = EndFrame
+301B573E 0004
+
+[Spells\Have Magic Shield At Max]
+Type = Gameshark
+Activation = EndFrame
+301B5740 0004
+
+[Spells\Have Healing At Max]
+Type = Gameshark
+Activation = EndFrame
+301B5742 0004
+
+[Spells\Have All At Max]
+Type = Gameshark
+Activation = EndFrame
+301B5750 0004
+50000602 0000
+301B5738 0004
+
+[Weapons\Axe At Max]
+Type = Gameshark
+Activation = EndFrame
+301B575A 0004
+
+[Weapons\Sword At Max]
+Type = Gameshark
+Activation = EndFrame
+301B5762 0004
+
+[Weapons\Hammer At Max]
+Type = Gameshark
+Activation = EndFrame
+301B5768 0004
+
+[Weapons\Shield At Max]
+Type = Gameshark
+Activation = EndFrame
+D01B56D0 0008
+301B56D0 000F
+

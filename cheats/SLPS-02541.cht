@@ -1,0 +1,17 @@
+; CHTDB: ; [ Heiwa Parlor! Pro Lupin Sansei Special (Jpn) (2000) (Nihon Telenet) {SLPS-02541} <heiwalup> ]
+
+[Issued 999999]
+Type = Gameshark
+Activation = EndFrame
+9003D178 0098967F
+
+[Time]
+Type = Gameshark
+Activation = EndFrame
+8003D180 FFFF
+
+[Time 2]
+Type = Gameshark
+Activation = EndFrame
+8003D182 FFFF
+

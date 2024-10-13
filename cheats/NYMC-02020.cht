@@ -1,0 +1,152 @@
+; CHTDB: ; [ Magic Castle {NYMC-02020} ]
+
+[English Cheats\Knight Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+90175A40 03E703E7
+
+[English Cheats\Knight Infinite SP]
+Type = Gameshark
+Activation = EndFrame
+90175A44 00630063
+
+[English Cheats\Wizard Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+90172BE0 03E703E7
+
+[English Cheats\Wizard Infinite SP]
+Type = Gameshark
+Activation = EndFrame
+90172BE4 00630063
+
+[English Cheats\Fighter Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+90155A10 03E703E7
+
+[English Cheats\Fighter Infinite SP]
+Type = Gameshark
+Activation = EndFrame
+90155A14 00630063
+
+[English Cheats\Archer Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+901743B0 03E703E7
+
+[English Cheats\Archer Infinite SP]
+Type = Gameshark
+Activation = EndFrame
+901743B4 00630063
+
+[Portugese Cheats\Warrior Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+90175FE0 03E703E7
+
+[Portugese Cheats\Warrior Infinite SP]
+Type = Gameshark
+Activation = EndFrame
+90175FE4 00630063
+
+[Portugese Cheats\Wizard Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+90173180 03E703E7
+
+[Portugese Cheats\Wizard Infinite SP]
+Type = Gameshark
+Activation = EndFrame
+90173184 00630063
+
+[Portugese Cheats\Fighter Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+9015AFB0 03E703E7
+
+[Portugese Cheats\Fighter Infinite SP]
+Type = Gameshark
+Activation = EndFrame
+9015AFB4 00630063
+
+[Portugese Cheats\Archer Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+90174950 03E703E7
+
+[Portugese Cheats\Archer Infinite SP]
+Type = Gameshark
+Activation = EndFrame
+90174954 00630063
+
+[Spanish Cheats\Warrior Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+90175E10 03E703E7
+
+[Spanish Cheats\Warrior Infinite SP]
+Type = Gameshark
+Activation = EndFrame
+90175E14 00630063
+
+[Italian Cheats\Warrior Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+90175FF0 03E703E7
+
+[Italian Cheats\Warrior Infinite SP]
+Type = Gameshark
+Activation = EndFrame
+90175FF4 00630063
+
+[Turkish Cheats\Warrior Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+90175D30 03E703E7
+
+[Turkish Cheats\Warrior Infinite SP]
+Type = Gameshark
+Activation = EndFrame
+90175D34 00630063
+
+[Japanese Cheats\Warrior Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+901756D0 03E703E7
+
+[Japanese Cheats\Warrior Infinite SP]
+Type = Gameshark
+Activation = EndFrame
+901756D4 00630063
+
+[Invincibility (Partial)]
+Type = Gameshark
+Activation = EndFrame
+A70FC6CA 12221000
+
+[One Hit Kills]
+Type = Gameshark
+Activation = EndFrame
+A70FA626 1C401400
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A7063F0C 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A7063F0C 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A7063F0C 10000400
+
+[Dither Off]
+Type = Gameshark
+Activation = EndFrame
+A70F13C4 02000000
+

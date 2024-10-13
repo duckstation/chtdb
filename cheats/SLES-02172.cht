@@ -1,0 +1,33 @@
+; CHTDB: ; [ Wu-Tang: Shaolin Style (Germany) {SLES-02172} ]
+
+[P1 Unendlich Gesundheit]
+Type = Gameshark
+Activation = EndFrame
+800A5BB0 A000
+
+[P2 Unendlich Gesundheit]
+Type = Gameshark
+Activation = EndFrame
+800A5F20 A000
+
+[P3 Unendlich Gesundheit]
+Type = Gameshark
+Activation = EndFrame
+800A6290 A000
+
+[P4 Unendlich Gesundheit]
+Type = Gameshark
+Activation = EndFrame
+800A6600 A000
+
+[Heiligtum, Videoplayer, Artwork & Spielmodi freigeschaltet]
+Type = Gameshark
+Activation = EndFrame
+D01EB1C2 0001
+301EB1C2 00FF
+
+[Alle Charaktere freischalten]
+Type = Gameshark
+Activation = EndFrame
+301EAD64 00FF
+

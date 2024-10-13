@@ -1,0 +1,128 @@
+; CHTDB: ; [ Startling Odyssey 1 - Blue Evolution (Jpn) (1999) (RayForce) {SLPS-02043} <startlin> ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+900A3348 05F5E0FF
+
+[Max Money]
+Type = Gameshark
+Activation = EndFrame
+900A3348 0098967F
+
+[1ST Character Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+900A2BA8 0001869F
+
+[After Combat And Money To The Full Value Of Experience]
+Type = Gameshark
+Activation = EndFrame
+900F780C 0098967F
+900F74D8 0098967F
+
+[All Arms and armor items]
+Type = Gameshark
+Activation = EndFrame
+50007602 0000
+800A2F18 6363
+900A3010 63636363
+
+[No random battles]
+Type = Gameshark
+Activation = EndFrame
+800A0820 0009
+800A0830 0009
+
+[Leon HP + SP Max]
+Type = Gameshark
+Activation = EndFrame
+800A2BA8 FFFF
+800A2BE0 FFFF
+800A2BAC FFFF
+800A2BE4 FFFF
+
+[Sofia HP + SP Max]
+Type = Gameshark
+Activation = EndFrame
+800A2C58 FFFF
+800A2C90 FFFF
+800A2C5C FFFF
+800A2C94 FFFF
+
+[Perun HP + SP Max]
+Type = Gameshark
+Activation = EndFrame
+800A2DB8 FFFF
+800A2DF0 FFFF
+800A2DBC FFFF
+800A2DF4 FFFF
+
+[Rosetta HP + SP Max]
+Type = Gameshark
+Activation = EndFrame
+800A2D08 FFFF
+800A2D40 FFFF
+800A2D0C FFFF
+800A2D44 FFFF
+
+[Level 99]
+Type = Gameshark
+Activation = EndFrame
+300A2BD6 0063
+
+[Max Exp]
+Type = Gameshark
+Activation = EndFrame
+900A2C44 0098967F
+
+[Next (Exp)]
+Type = Gameshark
+Activation = EndFrame
+900A2C48 00000000
+
+[Fast Level Up After One Battle]
+Type = Gameshark
+Activation = EndFrame
+800F780C FFFF
+D00E001C 182A
+300E0010 00A0
+
+[Now HP]
+Type = Gameshark
+Activation = EndFrame
+900A2BA8 0001869F
+
+[Max HP]
+Type = Gameshark
+Activation = EndFrame
+900A2BE0 0001869F
+
+[Now SP]
+Type = Gameshark
+Activation = EndFrame
+900A2BAC 0001869F
+
+[Max SP]
+Type = Gameshark
+Activation = EndFrame
+900A2BE4 0001869F
+
+[MAX experience after 1 battle]
+Type = Gameshark
+Activation = EndFrame
+900F780C 05F5E0FF
+
+[MAX always gauge impact in combat]
+Type = Gameshark
+Activation = EndFrame
+D00F9BB6 1040
+800F9BA2 1400
+
+[All Weapons and armor items]
+Type = Gameshark
+Activation = EndFrame
+50007602 0000
+800A2F18 6363
+900A3010 63636363
+

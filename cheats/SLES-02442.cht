@@ -1,0 +1,65 @@
+; CHTDB: ; [ Suikoden II (Europe) {SLES-02442} ]
+
+[Infinite & Max HP 1st character in Battle]
+Type = Gameshark
+Activation = EndFrame
+90195BB4 03E703E7
+
+[Infinite & Max HP 2nd character in Battle]
+Type = Gameshark
+Activation = EndFrame
+90195C30 03E703E7
+
+[Infinite & Max HP 3rd character in Battle]
+Type = Gameshark
+Activation = EndFrame
+90195CAC 03E703E7
+
+[Infinite & Max HP 4th character in Battle]
+Type = Gameshark
+Activation = EndFrame
+90195D28 03E703E7
+
+[Infinite & Max HP 5th character in Battle]
+Type = Gameshark
+Activation = EndFrame
+90195DA4 03E703E7
+
+[Infinite & Max HP 6th character in Battle]
+Type = Gameshark
+Activation = EndFrame
+90195E20 03E703E7
+
+[Max HP all characters in Battle]
+Type = Gameshark
+Activation = EndFrame
+5000067C 0000
+80195BB4 03E7
+
+[Infinite HP all characters in Battle]
+Type = Gameshark
+Activation = EndFrame
+5000067C 0000
+80195BB6 03E7
+
+[Infinite Rune MP all characters]
+Type = Gameshark
+Activation = EndFrame
+D0073B68 1821
+80073B6C 0000
+D0073B68 1821
+80073B6E 0000
+
+[No random battles]
+Type = Gameshark
+Activation = EndFrame
+D102566E 0000
+8002566E 0000
+
+[Infinite All inventory]
+Type = Gameshark
+Activation = EndFrame
+D00716B0 088A
+800716B2 0000
+A60716B0 088A0000
+

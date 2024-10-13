@@ -1,0 +1,7 @@
+; CHTDB: ; [ Jimmy Johnson's VR Football '98 (USA) (1997) (Interplay Productions) {SLUS-00500} <vrfb98> ]
+
+[Rival always score 0]
+Type = Gameshark
+Activation = EndFrame
+800C6F2A 0000
+

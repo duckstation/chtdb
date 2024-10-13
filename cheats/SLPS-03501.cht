@@ -1,0 +1,40 @@
+; CHTDB: ; [ Final Fantasy II (Japan) (Final Fantasy I+II Premium Package) {SLPS-03501} ]
+
+[Max money]
+Type = Gameshark
+Activation = EndFrame
+900AFA7C 0001869F
+
+[999 HP]
+Type = Gameshark
+Activation = EndFrame
+800AF892 03E7
+800AF894 03E7
+
+[Save Anywhere]
+Type = Gameshark
+Activation = EndFrame
+D013EC60 0024
+8013EC7E 1000
+
+[100% Monster Encyclopedia]
+Type = Gameshark
+Activation = EndFrame
+D0141F08 1040
+80141F14 83E7
+D0141F08 1040
+80141F16 2402
+D0141F08 1040
+80141F1A A462
+
+[100% item collection rate does not go out and see the effect once]
+Type = Gameshark
+Activation = EndFrame
+800149CE A060
+800149DC 0000
+
+[Complementary Art Gallery]
+Type = Gameshark
+Activation = EndFrame
+300AFB2B 00FF
+

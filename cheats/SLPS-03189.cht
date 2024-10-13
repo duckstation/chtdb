@@ -1,0 +1,199 @@
+; CHTDB: ; [ Gear Fighter Dendoh (Jpn) (2001) (Bandai) {SLPS-03189} <dendoh> ]
+
+[Unlock All Weapons/Stage - Vs Mode]
+Type = Gameshark
+Activation = EndFrame
+50000802 0000
+800CC5E0 0001
+
+[2D Stages Invincibility]
+Type = Gameshark
+Activation = EndFrame
+A70DF806 10401400
+
+[All data Weapon]
+Type = Gameshark
+Activation = EndFrame
+800CC622 0001
+900CC624 00010001
+900CC628 00010001
+900CC62C 00010001
+
+[Weapon all data (fighting)]
+Type = Gameshark
+Activation = EndFrame
+800CC5E2 0001
+900CC5E4 00010001
+900CC5E8 00010001
+900CC5EC 00010001
+
+[Infinite Health - Stage 1.1 (Use only the code of the stage)]
+Type = Gameshark
+Activation = EndFrame
+801D155C 0A00
+
+[Infinite Health - Stage 1.2]
+Type = Gameshark
+Activation = EndFrame
+801D9A1C 0A00
+
+[Infinite Health - Stage 1.3]
+Type = Gameshark
+Activation = EndFrame
+801D8BB4 0A00
+
+[Infinite Health - Stage 1.4]
+Type = Gameshark
+Activation = EndFrame
+8018A5CC 0A00
+
+[Infinite Health - Stage 2.1]
+Type = Gameshark
+Activation = EndFrame
+801DFDE0 0A00
+
+[Infinite Health - Stage 2.2]
+Type = Gameshark
+Activation = EndFrame
+801DBF00 0A00
+
+[Infinite Health - Stage 2.3]
+Type = Gameshark
+Activation = EndFrame
+801D21C8 0A00
+
+[Infinite Health - Stage 2.4]
+Type = Gameshark
+Activation = EndFrame
+8018A2E4 0A00
+
+[Infinite Health - Stage 3.1]
+Type = Gameshark
+Activation = EndFrame
+801E13F0 0A00
+
+[Infinite Health - Stage 3.2]
+Type = Gameshark
+Activation = EndFrame
+801DDBD0 0A00
+
+[Infinite Health - Stage 3.3]
+Type = Gameshark
+Activation = EndFrame
+801D78FC 0A00
+
+[Infinite Health - Stage 3.4]
+Type = Gameshark
+Activation = EndFrame
+80189A5C 0A00
+
+[Infinite Health - Stage 4.1]
+Type = Gameshark
+Activation = EndFrame
+801DC2EC 0A00
+
+[Infinite Health - Stage 4.2]
+Type = Gameshark
+Activation = EndFrame
+801DCBF8 0A00
+
+[Infinite Health - Stage 4.3]
+Type = Gameshark
+Activation = EndFrame
+801DC4C4 0A00
+
+[Infinite Health - Stage 4.4]
+Type = Gameshark
+Activation = EndFrame
+80189D74 0A00
+
+[Infinite Health - Stage 5.1]
+Type = Gameshark
+Activation = EndFrame
+801D0D50 0A00
+
+[Infinite Health - Stage 5.2]
+Type = Gameshark
+Activation = EndFrame
+801D7A0C 0A00
+
+[Infinite Health - Stage 5.3]
+Type = Gameshark
+Activation = EndFrame
+801D22C0 0A00
+
+[Infinite Health - Stage 5.4]
+Type = Gameshark
+Activation = EndFrame
+8018A790 0A00
+
+[Infinite Health - Stage 6.1]
+Type = Gameshark
+Activation = EndFrame
+801B8D00 0A00
+
+[Infinite Health - Stage 6.2]
+Type = Gameshark
+Activation = EndFrame
+801B6FFC 0A00
+
+[Infinite Health - Stage 6.3]
+Type = Gameshark
+Activation = EndFrame
+80189BA0 0A00
+
+[Infinite Health - Stage 7.1]
+Type = Gameshark
+Activation = EndFrame
+801B28FC 0A00
+
+[Infinite Health - Stage 7.2]
+Type = Gameshark
+Activation = EndFrame
+801B6324 0A00
+
+[Infinite Health - Stage 7.3]
+Type = Gameshark
+Activation = EndFrame
+801B6848 0A00
+
+[Infinite Health - Stage 7.4]
+Type = Gameshark
+Activation = EndFrame
+8018A47C 0A00
+
+[Infinite Health - Stage 8.1]
+Type = Gameshark
+Activation = EndFrame
+801DFBF8 0A00
+
+[Infinite Health - Stage 8.2]
+Type = Gameshark
+Activation = EndFrame
+801DD4BC 0A00
+
+[Infinite Health - Stage 8.3]
+Type = Gameshark
+Activation = EndFrame
+801DEF10 0A00
+
+[Infinite Health - Stage 8.4]
+Type = Gameshark
+Activation = EndFrame
+801DD604 0A00
+
+[Infinite Health - Stage 8.5]
+Type = Gameshark
+Activation = EndFrame
+801DD4CC 0A00
+
+[Infinite Health - Stage 9.1]
+Type = Gameshark
+Activation = EndFrame
+801CF300 0A00
+
+[Infinite Health - Stage 9.2]
+Type = Gameshark
+Activation = EndFrame
+801CB764 0A00
+

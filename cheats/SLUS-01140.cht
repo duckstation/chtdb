@@ -1,0 +1,92 @@
+; CHTDB: ; [ Mega Man Legends 2 (USA) (2000) (Capcom Entertainment) {SLUS-01140} <mmleg2> ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8008C120 0200
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+3008C19C 00FF
+
+[Max Zenny]
+Type = Gameshark
+Activation = EndFrame
+9009C820 0098967F
+
+[Time 0.00.00]
+Type = Gameshark
+Activation = EndFrame
+9009C818 00000000
+
+[Max Upgrade-All Special Weapons]
+Type = Gameshark
+Activation = EndFrame
+50006E01 0000
+3008C2BC 0003
+
+[Have All Items]
+Type = Gameshark
+Activation = EndFrame
+900985C8 FFF07F1F
+900985CC F03FFFFF
+800985D0 FFFF
+
+[Have All Key Items]
+Type = Gameshark
+Activation = EndFrame
+800985C2 07FF
+900985C4 0F8FFFF2
+
+[Unlock All Extra Modes]
+Type = Gameshark
+Activation = EndFrame
+8009C814 0003
+
+[Select Walk through walls\"Press and hold L3"]
+Type = Gameshark
+Activation = EndFrame
+A70B35D6 100010A0
+D7200000 00000200
+A70B35D6 10A01000
+
+[Select Walk through walls\Alternate "Hold L1+R1"]
+Type = Gameshark
+Activation = EndFrame
+A70B35D6 100010A0
+D7200000 0000000C
+A70B35D6 10A01000
+
+[Hold X to hover jump]
+Type = Gameshark
+Activation = EndFrame
+A70C71DA 24001040
+D7200000 00000040
+A70C71DA 10402400
+
+[Attach arms to head]
+Type = Gameshark
+Activation = EndFrame
+A7040426 0C012400
+
+[Spin head around "Hold R3"]
+Type = Gameshark
+Activation = EndFrame
+A70CD6DE 24001040
+A70CD6AE 24001440
+D7200000 00000400
+A70CD6DE 10402400
+A70CD6AE 14402400
+
+[Disable FPS lock]
+Type = Gameshark
+Activation = EndFrame
+A7010F62 14402400
+
+[Force 30 FPS]
+Type = Gameshark
+Activation = EndFrame
+A7010F4E 90632403
+A7010F4C 00050002
+

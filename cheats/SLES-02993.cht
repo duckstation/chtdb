@@ -1,0 +1,95 @@
+; CHTDB: ; [ Driver 2: Back on the Streets (Europe) {SLES-02993 | SLES-12993} ]
+
+[Invincibility ON]
+Type = Gameshark
+Activation = EndFrame
+800AA678 0001
+
+[Immunity ON]
+Type = Gameshark
+Activation = EndFrame
+800AA67C 0001
+
+[Unlock everything]
+Type = Gameshark
+Activation = EndFrame
+800AA5B0 0028
+
+[Unlock all cities]
+Type = Gameshark
+Activation = EndFrame
+D01C1308 F809
+801C130C 0000
+
+[Infinite Damage]
+Type = Gameshark
+Activation = EndFrame
+D001CDB8 0009
+8001CDBA 1043
+
+[Infinite Damage & Sudden Death for other cars]
+Type = Gameshark
+Activation = EndFrame
+D001CDB8 0009
+8001CDBA 1043
+D001CDCC 0003
+8001CDCE 1000
+
+[Invincibility on v1.1]
+Type = Gameshark
+Activation = EndFrame
+800AA428 0001
+
+[Immunity on v1.1]
+Type = Gameshark
+Activation = EndFrame
+800AA428 0001
+
+[No felony v1.1]
+Type = Gameshark
+Activation = EndFrame
+D004C31C 9568
+8004C326 A4A0
+D004C934 9568
+8004C93E A4A0
+
+[Unlock everything v1.1]
+Type = Gameshark
+Activation = EndFrame
+800AA360 0028
+
+[Unlock all cities v1.1]
+Type = Gameshark
+Activation = EndFrame
+D01C1308 F809
+801C130C 0000
+
+[Infinite Damage v1.1]
+Type = Gameshark
+Activation = EndFrame
+D001CDB8 0009
+8001CDBA 1043
+
+[Infinite Damage & Sudden Death for other cars v1.1]
+Type = Gameshark
+Activation = EndFrame
+D001CDB8 0009
+8001CDBA 1043
+D001CDCC 0003
+8001CDCE 1000
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A707F0F8 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A707F0F8 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A707F0F8 10000400
+

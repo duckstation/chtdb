@@ -1,0 +1,13 @@
+; CHTDB: ; [ SimCity 2000 (Japan) {SLPS-00420} ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+800E9700 FFFF
+300E9720 00FF
+
+[Max People]
+Type = Gameshark
+Activation = EndFrame
+800E6028 FFFF
+

@@ -1,0 +1,35 @@
+; CHTDB: ; [ Yu-Gi-Oh! Forbidden Memories (USA) (2002) (Konami of America) {SLUS-01411} <yugioh> ]
+
+[P1 Infinite LP]
+Type = Gameshark
+Activation = EndFrame
+800EA004 270F
+
+[P1 No LP]
+Type = Gameshark
+Activation = EndFrame
+800EA004 0000
+
+[P2 Infinite LP]
+Type = Gameshark
+Activation = EndFrame
+800EA024 270F
+
+[P2 No LP]
+Type = Gameshark
+Activation = EndFrame
+800EA024 0000
+
+[Infinite Starchips]
+Type = Gameshark
+Activation = EndFrame
+901D07E0 000F423F
+
+[Have All Cards]
+Type = Gameshark
+Activation = EndFrame
+5000FF02 0000
+801D0250 C8C8
+50006A02 0000
+80105F96 C8C8
+

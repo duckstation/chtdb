@@ -1,0 +1,22 @@
+; CHTDB: ; [ Santa Claus Saves the Earth (Europe) {SLES-04023} ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800560E4 0004
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80055FF4 0063
+
+[Infinite Tomotoes]
+Type = Gameshark
+Activation = EndFrame
+800560FE 0063
+
+[Infinite Snow Balls]
+Type = Gameshark
+Activation = EndFrame
+800560FA 0063
+

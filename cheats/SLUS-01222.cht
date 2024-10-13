@@ -1,0 +1,34 @@
+; CHTDB: ; [ Colin McRae Rally 2.0 (USA) (2000) (Sony Computer Entertainment America) {SLUS-01222} <mcrae20> ]
+
+[Instant Win-Rally]
+Type = Gameshark
+Activation = EndFrame
+A60E2BEC 00000FFF
+
+[Unlock All Tracks + Cars]
+Type = Gameshark
+Activation = EndFrame
+8004D9E4 FFFF
+
+[Unlock All Cheats]
+Type = Gameshark
+Activation = EndFrame
+3004C66C 00FF
+
+[Max Championship Points]
+Type = Gameshark
+Activation = EndFrame
+80050722 0064
+
+[Infinite Repair Time]
+Type = Gameshark
+Activation = EndFrame
+D0067554 0000
+80067556 2400
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+80056BB0 2EEE
+80056BB2 0001
+

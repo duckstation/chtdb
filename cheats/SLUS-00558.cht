@@ -1,0 +1,117 @@
+; CHTDB: ; [ Shipwreckers! (USA) (1997) (Psygnosis) {SLUS-00558} <shpwreck> ]
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+800B862C 0000
+
+[Infinite Ships]
+Type = Gameshark
+Activation = EndFrame
+8001ABAC 0000
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+3008B57A 0001
+
+[Level 1-1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800CDE9F 003F
+
+[Level 1-2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800D0A17 003F
+
+[Level 1-3 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800D0C87 003F
+
+[Level 1-4 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800CCDF7 003F
+
+[Level 2-1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800D2827 003F
+
+[Level 2-2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800D2277 003F
+
+[Level 2-3 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800D0D57 003F
+
+[Level 2-4 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800CD40F 003F
+
+[Level 3-1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800D01F7 003F
+
+[Level 3-2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800CE9FF 003F
+
+[Level 3-3 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800D14A7 003F
+
+[Level 3-4 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800CD8EF 003F
+
+[Level 4-1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800D1E67 003F
+
+[Level 4-2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800D0D57 003F
+
+[Level 4-3 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800D37FF 003F
+
+[Level 4-4 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800CD40F 003F
+
+[Level 5-1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800D0B4F 003F
+
+[Level 5-2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800D23AF 003F
+
+[Level 5-3 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800D1647 003F
+
+[Level 5-4 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800CD40F 003F
+

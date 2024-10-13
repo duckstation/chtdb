@@ -1,0 +1,217 @@
+; CHTDB: ; [ Resident Evil 3: Nemesis (Euro) (1999) (Eidos Interactive) {SLES-02529} <revil3e> ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800CEA48 00C8
+
+[Always 1 First Aid Pack]
+Type = Gameshark
+Activation = EndFrame
+300D3EFD 0001
+
+[Machinegun 100% This code can crash the game while loading]
+Type = Gameshark
+Activation = EndFrame
+300D3EED 0064
+
+[Condition Fine]
+Type = Gameshark
+Activation = EndFrame
+300CEA4F 0004
+
+[Save Anywhere Press L1+Triangle]
+Type = Gameshark
+Activation = EndFrame
+D0082AD2 0014
+800D3AD0 169C
+D0082AD2 0014
+800D3AD2 8005
+
+[Infinite Rocket Launcher]
+Type = Gameshark
+Activation = EndFrame
+900D3F58 0001990A
+
+[Infinite Gatling Gun]
+Type = Gameshark
+Activation = EndFrame
+900D3F58 0001990B
+
+[Infinite Western Custom]
+Type = Gameshark
+Activation = EndFrame
+900D3F58 00019910
+
+[Infinite Benelli M3S]
+Type = Gameshark
+Activation = EndFrame
+900D3F58 00019913
+
+[Infinite M97F Eagle]
+Type = Gameshark
+Activation = EndFrame
+900D3F58 00019912
+
+[Infinite Mine Thrower]
+Type = Gameshark
+Activation = EndFrame
+900D3F58 00019914
+
+[Infinite Eagle 6.0]
+Type = Gameshark
+Activation = EndFrame
+900D3F58 0001990D
+
+[Infinite Magnum]
+Type = Gameshark
+Activation = EndFrame
+900D3F58 00019914
+
+[Infinite Merc's Handgun]
+Type = Gameshark
+Activation = EndFrame
+900D3F58 00019902
+
+[Infinite Hanggun]
+Type = Gameshark
+Activation = EndFrame
+900D3F58 00019903
+
+[Infinite Grenade Launcher (Explocive Rounds)]
+Type = Gameshark
+Activation = EndFrame
+900D3F58 00019906
+
+[Infinite Grenade Launcher (Acid Rounds)]
+Type = Gameshark
+Activation = EndFrame
+900D3F58 00019909
+
+[Infinite Grenade Launcher (Flame Rounds)]
+Type = Gameshark
+Activation = EndFrame
+900D3F58 00019907
+
+[Hyper Mode]
+Type = Gameshark
+Activation = EndFrame
+800D6304 0002
+
+[Quick Ending Press L1+L2+R1+R2]
+Type = Gameshark
+Activation = EndFrame
+D00CE5E8 000F
+800CEA10 C000
+D00CE5E8 000F
+800CEA12 0001
+
+[Rapid Fire Press R1+R2+X]
+Type = Gameshark
+Activation = EndFrame
+D00CE5E8 004A
+300CEA45 001E
+
+[Total Time 0.00 .Get Grade S]
+Type = Gameshark
+Activation = EndFrame
+900D3CE0 00000000
+
+[Secret Mode With this code, it starts a new game with new weapons in chest and all weapons and infinite ink ribbons and a key to Boutique with all costumes!]
+Type = Gameshark
+Activation = EndFrame
+800D3CEA FFE0
+
+[Enhanced/Extra Ammo]
+Type = Gameshark
+Activation = EndFrame
+900D4018 01F401F4
+800D401E 01F4
+900D4020 01F401F4
+800D4024 01F4
+
+[Makes Game Think You Never Saved]
+Type = Gameshark
+Activation = EndFrame
+800D3CF8 0000
+
+[Select Character\Carlos]
+Type = Gameshark
+Activation = EndFrame
+800D3D3E 0008
+
+[Select Character\Mikhall]
+Type = Gameshark
+Activation = EndFrame
+800D3D3E 0009
+
+[Select Character\Nichotai]
+Type = Gameshark
+Activation = EndFrame
+800D3D3E 000A
+
+[Select Character\Tofu]
+Type = Gameshark
+Activation = EndFrame
+800D3D3E 000F
+
+[Sudden Death Enemies]
+Type = Gameshark
+Activation = EndFrame
+A604502C 00060001
+
+[Almost All Doors Open]
+Type = Gameshark
+Activation = EndFrame
+D0082AD2 0014
+800D3AD0 169C
+D0082AD2 0014
+800D3AD2 8005
+50000502 0000
+800D3E84 FFFF
+
+[Walk Thru Walls Activate with L1+R2, deactivate with L2+R2]
+Type = Gameshark
+Activation = EndFrame
+D0082AD2 0003
+80033CD6 1040
+D0082AD2 0003
+8004B576 12A0
+D0082AD2 0005
+80033CD6 1000
+D0082AD2 0005
+8004B576 1000
+
+[Mercenaries Always get Reward]
+Type = Gameshark
+Activation = EndFrame
+800CE60A FFFF
+
+[Mercenaries Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+900D43A4 0098967F
+
+[Mercenaries Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+D00D3D50 0077
+300D3D50 0078
+
+[Auto Dodge Zombies (Hold L3)]
+Type = Gameshark
+Activation = EndFrame
+D5000000 00000200
+F4104BD0 00AA7000
+05004234 040062AE
+AAAAAAAA AAAAAAAA
+010DAAAA AAAAAAAA
+AAAAAAAA AAAAAAAA
+00000000 0000FFFF
+D6000000 00000200
+F4104BD0 00AA7000
+010D4234 040062AE
+AAAAAAAA AAAAAAAA
+0500AAAA AAAAAAAA
+AAAAAAAA AAAAAAAA
+

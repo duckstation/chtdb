@@ -1,0 +1,22 @@
+; CHTDB: ; [ V-Rally: Championship Edition 2 (Europe) {SLES-01907} ]
+
+[No Laptime]
+Type = Gameshark
+Activation = EndFrame
+800C3E58 0000
+
+[No Repairing Time]
+Type = Gameshark
+Activation = EndFrame
+8001BD44 0000
+
+[Unlock Bonus Cars]
+Type = Gameshark
+Activation = EndFrame
+800C556C 1FFF
+
+[Unlock All Tracks]
+Type = Gameshark
+Activation = EndFrame
+800C556E 01FF
+

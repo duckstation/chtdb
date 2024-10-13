@@ -1,0 +1,26 @@
+; CHTDB: ; [ NASCAR Rumble (USA) (2000) (Electronic Arts) {SLUS-01068, SLUS-01068CE} <nascarmb> ]
+
+[Enable All Difficulty Levels]
+Type = Gameshark
+Activation = EndFrame
+300B7135 0002
+
+[Enable All Secret Cars]
+Type = Gameshark
+Activation = EndFrame
+50000A02 0000
+300B714E 0001
+
+[Enable Normal Tracks, Locales + Legend Drivers]
+Type = Gameshark
+Activation = EndFrame
+300B7136 0002
+50000B02 0000
+800B713A 0202
+
+[Unlock Bonus Tracks]
+Type = Gameshark
+Activation = EndFrame
+300B7137 0001
+800B7138 0001
+

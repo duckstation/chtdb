@@ -1,0 +1,49 @@
+; CHTDB: ; [ Oukyuu no Hihou - Tension (Jpn) (1996) (VAP) {SLPS-00438} <tension> ]
+
+[Infinite + Max energy]
+Type = Gameshark
+Activation = EndFrame
+8018B0CC 0063
+8018B168 0063
+
+[Infinite + Max MP]
+Type = Gameshark
+Activation = EndFrame
+8018B0D0 00C8
+8018B16C 00C8
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+9018B0EC 0001869F
+
+[It is not poisoned]
+Type = Gameshark
+Activation = EndFrame
+8018B102 0000
+
+[It is not applied to sleep]
+Type = Gameshark
+Activation = EndFrame
+8018B104 0000
+
+[Not be confused]
+Type = Gameshark
+Activation = EndFrame
+8018B106 0000
+
+[It does not become invisible eyes]
+Type = Gameshark
+Activation = EndFrame
+8018B170 0000
+
+[Empirical value]
+Type = Gameshark
+Activation = EndFrame
+9018B0D8 00030D40
+
+[Movement is not dull]
+Type = Gameshark
+Activation = EndFrame
+3018B0E3 0002
+

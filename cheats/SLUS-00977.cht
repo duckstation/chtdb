@@ -1,0 +1,113 @@
+; CHTDB: ; [ Xena - Warrior Princess (USA) (1999) (Electronic Arts) {SLUS-00977} <xena> ]
+
+[Unlock All Levels Save the game with this code enabled to unlock all levels]
+Type = Gameshark
+Activation = EndFrame
+800F123C 0009
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800F0CC2 016F
+800F0CDC 0001
+
+[Super Xena]
+Type = Gameshark
+Activation = EndFrame
+800F1136 02F5
+
+[Max Chakram]
+Type = Gameshark
+Activation = EndFrame
+300F1135 0064
+
+[Have Max Armor Upgrades]
+Type = Gameshark
+Activation = EndFrame
+300F2785 0063
+
+[Have Max Sword Upgrades]
+Type = Gameshark
+Activation = EndFrame
+300F2786 0063
+
+[Have Max Scrolls]
+Type = Gameshark
+Activation = EndFrame
+300F277A 0063
+
+[Have Max Lightning Weapon Item]
+Type = Gameshark
+Activation = EndFrame
+300F277F 00FF
+
+[Have Life Potion]
+Type = Gameshark
+Activation = EndFrame
+800FC0A8 0001
+
+[Have Max Life Potions]
+Type = Gameshark
+Activation = EndFrame
+300F277E 00FF
+
+[Have Homing Chakram Item]
+Type = Gameshark
+Activation = EndFrame
+800FC0F0 0001
+
+[Have Max Homing Chakram Item]
+Type = Gameshark
+Activation = EndFrame
+300F2780 00FF
+
+[Have Fire Weapon Item]
+Type = Gameshark
+Activation = EndFrame
+800FC114 0001
+
+[Have Max Fire Weapon Item]
+Type = Gameshark
+Activation = EndFrame
+300F2781 00FF
+
+[Have Invincibility Item]
+Type = Gameshark
+Activation = EndFrame
+800FC138 0001
+
+[Have Max Invincibility Item]
+Type = Gameshark
+Activation = EndFrame
+300F2782 00FF
+
+[Have Ice Weapon Item]
+Type = Gameshark
+Activation = EndFrame
+800FC15C 0001
+
+[Have Max Ice Weapon Item]
+Type = Gameshark
+Activation = EndFrame
+300F2783 00FF
+
+[Have Harp Item]
+Type = Gameshark
+Activation = EndFrame
+800FC180 0001
+
+[Have Max Harp Item]
+Type = Gameshark
+Activation = EndFrame
+300F2784 00FF
+
+[Have Resurrection Jewel]
+Type = Gameshark
+Activation = EndFrame
+300F277C 0001
+
+[Have Unlock Key]
+Type = Gameshark
+Activation = EndFrame
+300F277D 0001
+

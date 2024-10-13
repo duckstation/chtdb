@@ -1,0 +1,38 @@
+; CHTDB: ; [ NHL Blades of Steel 2000 (Europe) {SLES-02514} ]
+
+[Amount Of Goals Home Team 9]
+Type = Gameshark
+Activation = EndFrame
+801343D4 0009
+
+[Amount Of Goals Home Team 0]
+Type = Gameshark
+Activation = EndFrame
+801343D4 0000
+
+[Amount Of Goals Away Team 9]
+Type = Gameshark
+Activation = EndFrame
+801343FC 0009
+
+[Amount Of Goals Away Team 0]
+Type = Gameshark
+Activation = EndFrame
+801343FC 0000
+
+[Infinite Powerplay Time]
+Type = Gameshark
+Activation = EndFrame
+A6135516 10CB1106
+
+[Faster Powerplay-Counter]
+Type = Gameshark
+Activation = EndFrame
+8008D3A0 FFFE
+
+[Max Character Stats]
+Type = Gameshark
+Activation = EndFrame
+50000602 0000
+8015AC9C 6464
+

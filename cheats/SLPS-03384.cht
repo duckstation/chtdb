@@ -1,0 +1,22 @@
+; CHTDB: ; [ Nice Price Series Vol. 06: Quiz de Battle (Japan) {SLPS-03384} ]
+
+[P1 has 9999 points]
+Type = Gameshark
+Activation = EndFrame
+8005BF50 270F
+
+[P2 has 0 points]
+Type = Gameshark
+Activation = EndFrame
+8005C0F0 0000
+
+[P3 has 0 points]
+Type = Gameshark
+Activation = EndFrame
+8005C290 0000
+
+[P4 has 0 points]
+Type = Gameshark
+Activation = EndFrame
+8005C430 0000
+

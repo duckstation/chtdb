@@ -1,0 +1,33 @@
+; CHTDB: ; [ Monster Farm Jump (Japan) {SLPS-03160} ]
+
+[The number of stages Last (01-59)]
+Type = Gameshark
+Activation = EndFrame
+3008FFB9 0059
+
+[Infinite TIME]
+Type = Gameshark
+Activation = EndFrame
+8015C372 0A8C
+
+[Infinite LIFE]
+Type = Gameshark
+Activation = EndFrame
+3015C3F9 0003
+
+[Rucksack avaliable]
+Type = Gameshark
+Activation = EndFrame
+30165490 0001
+
+[Mode appeared thoroughly]
+Type = Gameshark
+Activation = EndFrame
+301654C2 005A
+
+[COMBO Max]
+Type = Gameshark
+Activation = EndFrame
+801654CC 967F
+301654CE 0098
+

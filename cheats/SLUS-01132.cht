@@ -1,0 +1,27 @@
+; CHTDB: ; [ Army Men - Air Attack 2 (USA) (2000) (The 3DO Company) {SLUS-01132} <amenair2> ]
+
+[Extra Health Level 1]
+Type = Gameshark
+Activation = EndFrame
+A61C6752 001100FF
+
+[Extra Health Level 2]
+Type = Gameshark
+Activation = EndFrame
+A61CB586 001100FF
+
+[Extra Health Level 3]
+Type = Gameshark
+Activation = EndFrame
+A61CC05A 001100FF
+
+[Extra Health Level 4]
+Type = Gameshark
+Activation = EndFrame
+A61CB452 001100FF
+
+[Extra Health Level 5 + 6]
+Type = Gameshark
+Activation = EndFrame
+A61CC65E 001100FF
+

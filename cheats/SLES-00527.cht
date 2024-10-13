@@ -1,0 +1,72 @@
+; CHTDB: ; [ Suikoden (Europe) {SLES-00527} ]
+
+[8X Experience (All)]
+Type = Gameshark
+Activation = EndFrame
+900E9958 00401821
+300E996C 00C0
+
+[Best Stats From Start (Hero)]
+Type = Gameshark
+Activation = EndFrame
+901B82A4 FFFFFFFF
+801B82A8 FFFF
+
+[Double Experience (All)]
+Type = Gameshark
+Activation = EndFrame
+800E9958 1821
+800E9E0A 3403
+300E996C 0040
+
+[Gain Mega Stats (All)]
+Type = Gameshark
+Activation = EndFrame
+900E9DEC 34030004
+900E9E08 34030004
+
+[Hyper Level-Up (Hero)]
+Type = Gameshark
+Activation = EndFrame
+301B82A3 0003
+
+[Infinite Bits]
+Type = Gameshark
+Activation = EndFrame
+301B801E 000E
+
+[Infinite Rune Spells (Hero)]
+Type = Gameshark
+Activation = EndFrame
+301B829D 0009
+301B829E 0009
+301B829F 0009
+301B82A0 0009
+
+[King Dragon Sword (Hero)]
+Type = Gameshark
+Activation = EndFrame
+801B82B8 104F
+
+[Quad Experience (All)]
+Type = Gameshark
+Activation = EndFrame
+900E9958 00401821
+300E996C 0080
+
+[Stay At Level 1 (Hero)]
+Type = Gameshark
+Activation = EndFrame
+301B82A1 0001
+
+[Stay At Level 99 (Hero)]
+Type = Gameshark
+Activation = EndFrame
+301B82A1 0063
+
+[Water Rune Piece X25 (Hero)]
+Type = Gameshark
+Activation = EndFrame
+301B82DA 0002
+301B82DC 0019
+

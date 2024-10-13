@@ -1,0 +1,27 @@
+; CHTDB: ; [ Infestation (Europe) {SLES-01870} ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801739E8 5000
+
+[Infinite Grenages]
+Type = Gameshark
+Activation = EndFrame
+801740BC 0009
+
+[Level Select Cheat]
+Type = Gameshark
+Activation = EndFrame
+8010F54C 0001
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+8010F54C 0002
+
+[All Cheats]
+Type = Gameshark
+Activation = EndFrame
+8010F54C 0067
+

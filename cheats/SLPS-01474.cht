@@ -1,0 +1,76 @@
+; CHTDB: ; [ Misaki Aggressive! (Jpn) (1998) (Shoeisha) {SLPS-01474} <misakiag> ]
+
+[Infinite + Max Health Misaki]
+Type = Gameshark
+Activation = EndFrame
+800E597E 03E7
+800E5980 03E7
+
+[999 Power Misaki]
+Type = Gameshark
+Activation = EndFrame
+800E5982 03E7
+
+[999 Defense Misaki]
+Type = Gameshark
+Activation = EndFrame
+800E5984 03E7
+
+[Misaki 999 Death Blow]
+Type = Gameshark
+Activation = EndFrame
+800E5992 03E7
+800E5994 03E7
+
+[Infinite + Max Health Character 2 (Pink Hair Girl)]
+Type = Gameshark
+Activation = EndFrame
+800E5B8A 03E7
+800E5B8C 03E7
+
+[999 Power Character 2 (Pink Hair Girl)]
+Type = Gameshark
+Activation = EndFrame
+800E5B8E 03E7
+
+[999 Defense Character 2 (Pink Hair Girl)]
+Type = Gameshark
+Activation = EndFrame
+800E5B90 03E7
+
+[999 Loyalty Character 2 (Pink Hair Girl)]
+Type = Gameshark
+Activation = EndFrame
+800E5B92 03E7
+
+[Character 2 (Pink Hair Girl) 999 Death Blow]
+Type = Gameshark
+Activation = EndFrame
+800E5B9E 03E7
+800E5BA0 03E7
+
+[Bonus mode appearance]
+Type = Gameshark
+Activation = EndFrame
+300DFAE6 0080
+
+[Character View All]
+Type = Gameshark
+Activation = EndFrame
+300DFB1F 00FF
+
+[Bonus / EVENT All]
+Type = Gameshark
+Activation = EndFrame
+300DFBFF 00FF
+
+[Many people can persuade]
+Type = Gameshark
+Activation = EndFrame
+300E5562 0031
+
+[Date]
+Type = Gameshark
+Activation = EndFrame
+300E55AA 0096
+

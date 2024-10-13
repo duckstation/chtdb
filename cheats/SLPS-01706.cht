@@ -1,0 +1,28 @@
+; CHTDB: ; [ 1-on-1 - Single Basketball (Jpn) (1998) (Jorudan) {SLPS-01706} <1on1> ]
+
+[P1 Easy Scores]
+Type = Gameshark
+Activation = EndFrame
+8019BBA4 000A
+
+[P2 Scores Nothing]
+Type = Gameshark
+Activation = EndFrame
+8019BBA2 0000
+
+[Freeze Timer At 60.0]
+Description = Switch Off code As Necessary
+Type = Gameshark
+Activation = EndFrame
+8019BB90 0E11
+
+[Have Gallery And All Pictures]
+Type = Gameshark
+Activation = EndFrame
+8019BC6A 07FF
+
+[Have All Hidden Players]
+Type = Gameshark
+Activation = EndFrame
+8019BC68 0007
+

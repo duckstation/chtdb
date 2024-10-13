@@ -1,0 +1,22 @@
+; CHTDB: ; [ Touge Max G (Jpn) (2000) (Atlus) {SLPS-02361} <tougemxg> ]
+
+[All Races Only 1 Lap To Race/ 1ST]
+Type = Gameshark
+Activation = EndFrame
+8006E060 0902
+
+[Max Drifting Points]
+Type = Gameshark
+Activation = EndFrame
+8006E25E FFFF
+
+[Always 1st]
+Type = Gameshark
+Activation = EndFrame
+8006E25A 0001
+
+[Stop Timer]
+Type = Gameshark
+Activation = EndFrame
+8007D41C 0001
+

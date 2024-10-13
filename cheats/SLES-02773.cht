@@ -1,0 +1,32 @@
+; CHTDB: ; [ BattleTanx: Global Assault (Europe) {SLES-02773} ]
+
+[Infinite Tank bucks]
+Type = Gameshark
+Activation = EndFrame
+800E278C 0063
+
+[P1 Infinite Health (BattleLord, Hold-Em, Tank Wars & Campaign)]
+Type = Gameshark
+Activation = EndFrame
+800DD4B0 007D
+
+[P1 Infinite Health (Deathmatch)]
+Type = Gameshark
+Activation = EndFrame
+800DCF18 007D
+
+[P1 Infinite Health (Frenzy & Family)]
+Type = Gameshark
+Activation = EndFrame
+800DCF18 007D
+
+[Infinite Ammo (normal weapons)]
+Type = Gameshark
+Activation = EndFrame
+A60433A0 FFFF0000
+
+[Infinite Ammo (all special weapons)]
+Type = Gameshark
+Activation = EndFrame
+A604345C FFFF0000
+

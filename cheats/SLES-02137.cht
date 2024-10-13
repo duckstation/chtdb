@@ -1,0 +1,39 @@
+; CHTDB: ; [ Aironauts (Europe) {SLES-02137} ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80106554 0009
+
+[Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+8010655C 0000
+
+[Infinite Time (Deactivate cheat after complete level)]
+Type = Gameshark
+Activation = EndFrame
+801160EC 0384
+
+[9999 Wings]
+Type = Gameshark
+Activation = EndFrame
+80106544 270F
+
+[Infinite Secondary Weapons]
+Type = Gameshark
+Activation = EndFrame
+801064AC 0009
+
+[Press Select For No Wings In Shop]
+Type = Gameshark
+Activation = EndFrame
+D00AA310 0100
+80010044 0000
+
+[Press L2 + R2 + x For No Assignments (Mines, Etc)]
+Type = Gameshark
+Activation = EndFrame
+D00AA310 0043
+801160BA 0000
+

@@ -1,0 +1,46 @@
+; CHTDB: ; [ Combat Choro Q (Japan) {SLPS-01904} ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+80083378 FFFF
+
+[Money Max]
+Type = Gameshark
+Activation = EndFrame
+90083378 0001869F
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+80142248 0384
+
+[Infinite Bullets]
+Type = Gameshark
+Activation = EndFrame
+80142528 0020
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800A8888 00BD
+
+[All parts possession]
+Type = Gameshark
+Activation = EndFrame
+30085838 00FF
+30085839 00FF
+3008583A 00FF
+3008583B 00FF
+3008583C 00FF
+3008583D 00FF
+3008583E 00FF
+3008583F 00FF
+30085840 00FF
+30085841 00FF
+30085842 00FF
+30085843 00FF
+30085844 00FF
+30085845 00FF
+30085846 00FF
+

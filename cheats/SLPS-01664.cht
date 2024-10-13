@@ -1,0 +1,42 @@
+; CHTDB: ; [ Meremanoid (Jpn) (1999) (Xing) {SLPS-01664} <meremand> ]
+
+[Infinite + Maximum HP]
+Type = Gameshark
+Activation = EndFrame
+900C2D50 03E703E7
+
+[Infinite + Maximum Magic]
+Type = Gameshark
+Activation = EndFrame
+900C2D54 03E703E7
+
+[99999 Gold]
+Type = Gameshark
+Activation = EndFrame
+900C4BF0 0001869F
+
+[Infinite HP In battles]
+Type = Gameshark
+Activation = EndFrame
+90119FB0 03E703E7
+
+[Infinite MP In battles]
+Type = Gameshark
+Activation = EndFrame
+90119FB4 03E703E7
+
+[Level 99]
+Type = Gameshark
+Activation = EndFrame
+300C2D90 0063
+
+[Menu screen / deathblow appearance]
+Type = Gameshark
+Activation = EndFrame
+300C2D7D 0001
+
+[Menu screen / magic appearance]
+Type = Gameshark
+Activation = EndFrame
+300C2D7E 0001
+

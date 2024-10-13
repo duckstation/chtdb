@@ -1,0 +1,22 @@
+; CHTDB: ; [ Guilty Gear (Jpn) (1998) (Arc System Works) {SLPS-01357} <ggearj> ]
+
+[P1 Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+80075EA0 00C8
+
+[P1 Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+80075EC0 0040
+
+[P2 Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+8007616C 00C8
+
+[P2 Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+8007618C 0040
+

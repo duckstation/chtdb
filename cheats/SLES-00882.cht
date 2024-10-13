@@ -1,0 +1,28 @@
+; CHTDB: ; [ NBA Pro 98 (Europe) {SLES-00882} ]
+
+[Infinite Time To Shoot]
+Type = Gameshark
+Activation = EndFrame
+8006BC3E 04B0
+8006BC46 04B0
+
+[Select Home Team Score\99]
+Type = Gameshark
+Activation = EndFrame
+80065378 0063
+
+[Select Away Team Score\99]
+Type = Gameshark
+Activation = EndFrame
+800653BC 0063
+
+[Select Home Team Score\00]
+Type = Gameshark
+Activation = EndFrame
+80065378 0000
+
+[Select Away Team Score\00]
+Type = Gameshark
+Activation = EndFrame
+800653BC 0000
+

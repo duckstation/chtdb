@@ -1,0 +1,88 @@
+; CHTDB: ; [ Umi no Nushi Tsuri - Takarajimi ni Mukatte (Jpn) (1999) (Pack-in-Soft) {SLPS-02172} <uminustm> ]
+
+[Infinite Money (60000)]
+Type = Gameshark
+Activation = EndFrame
+80174210 EA60
+
+[Infinite Energy (999)]
+Type = Gameshark
+Activation = EndFrame
+8017420A 03E7
+8017420C 03E7
+
+[Always 100 Possible Fishing Tries?]
+Type = Gameshark
+Activation = EndFrame
+8017420E 0064
+
+[Present location breakwater]
+Type = Gameshark
+Activation = EndFrame
+30174204 0001
+
+[Present location sandy]
+Type = Gameshark
+Activation = EndFrame
+30174204 0002
+
+[Present location rocky fishing spot]
+Type = Gameshark
+Activation = EndFrame
+30174204 0003
+
+[Present location coast]
+Type = Gameshark
+Activation = EndFrame
+30174204 0004
+
+[Present location Okishima]
+Type = Gameshark
+Activation = EndFrame
+30174204 0005
+
+[Present location open ocean]
+Type = Gameshark
+Activation = EndFrame
+30174204 0006
+
+[Present location remote island]
+Type = Gameshark
+Activation = EndFrame
+30174204 0007
+
+[Present location ghost ship]
+Type = Gameshark
+Activation = EndFrame
+30174204 0008
+
+[Present location Treasure Island]
+Type = Gameshark
+Activation = EndFrame
+30174204 0009
+
+[Present location fishing pond]
+Type = Gameshark
+Activation = EndFrame
+30174204 000A
+
+[Story mode / character 00 = Koichi]
+Type = Gameshark
+Activation = EndFrame
+301741E4 0000
+
+[Story mode / character 01 = Sachiko]
+Type = Gameshark
+Activation = EndFrame
+301741E4 0001
+
+[Story mode / Kenichi appearance]
+Type = Gameshark
+Activation = EndFrame
+301741E5 0001
+
+[Fishing mode appeared unrestrained]
+Type = Gameshark
+Activation = EndFrame
+30174203 0001
+

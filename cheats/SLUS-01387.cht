@@ -1,0 +1,27 @@
+; CHTDB: ; [ Men in Black - The Series - Crashdown (USA) (2001) (Infogrames) {SLUS-01387} <mibcrash> ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800EFF5C 0064
+
+[Unlock All Levels]
+Type = Gameshark
+Activation = EndFrame
+900955EC FFFFFFFF
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+80044886 2400
+
+[Have All Weapons]
+Type = Gameshark
+Activation = EndFrame
+801327EF 2401
+
+[Infinite Health For Godfather On Protect The Godfather Stage]
+Type = Gameshark
+Activation = EndFrame
+801F5F2C 012D
+

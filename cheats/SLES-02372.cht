@@ -1,0 +1,52 @@
+; CHTDB: ; [ Tom Clancy's Rainbow Six (Germany) {SLES-02372} ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+8004CB3A 3C00
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80055146 3C00
+
+[Infinite Grenades/Ammo nearly for all weapons]
+Type = Gameshark
+Activation = EndFrame
+80052B6A 3C00
+
+[Infinite Magazines]
+Type = Gameshark
+Activation = EndFrame
+8002675A 3C00
+
+[Invincibility (All Team Members)]
+Type = Gameshark
+Activation = EndFrame
+8007D3EC 0001
+
+[Open All Levels]
+Type = Gameshark
+Activation = EndFrame
+8007D3F0 0001
+
+[Finish Game Without Playing]
+Type = Gameshark
+Activation = EndFrame
+8007D400 0001
+
+[Invincibility Hostages]
+Type = Gameshark
+Activation = EndFrame
+8007D404 0001
+
+[No Enemies]
+Type = Gameshark
+Activation = EndFrame
+8007D408 0001
+
+[No Locked Doors]
+Type = Gameshark
+Activation = EndFrame
+8007D414 0001
+

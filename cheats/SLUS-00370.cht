@@ -1,0 +1,31 @@
+; CHTDB: ; [ Bubble Bobble also featuring Rainbow Islands (USA) (1996) (Acclaim Entertainment) {SLUS-00370} <bublbobl> ]
+
+[Bubble Bobble\Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+80176B30 0009
+
+[Bubble Bobble\P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80176AC8 0005
+80176ACC 0100
+30176AE0 0000
+
+[Bubble Bobble\P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80176A98 0003
+80176A9C 0100
+30176AB0 0000
+
+[Rainbow Islands\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8005DC3A 0003
+
+[Rainbow Islands\Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+8005D3E6 0009
+

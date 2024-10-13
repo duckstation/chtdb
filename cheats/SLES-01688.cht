@@ -1,0 +1,55 @@
+; CHTDB: ; [ Pool Hustler (Europe) {SLES-01688} ]
+
+[Have 99999 Money]
+Type = Gameshark
+Activation = EndFrame
+900BE06C 0001869F
+
+[Max Cash Press L1 to activate]
+Type = Gameshark
+Activation = EndFrame
+D0078E60 0004
+800BE06E FFFF
+
+[Unlock Stages Press L1 to activate]
+Type = Gameshark
+Activation = EndFrame
+D0078E60 0004
+800A4B80 FFFF
+
+[Always Ball In Hand]
+Type = Gameshark
+Activation = EndFrame
+80078E68 0000
+
+[Have All Cue Sticks Press L1 to activate]
+Type = Gameshark
+Activation = EndFrame
+D0078E60 0004
+800A4B68 000F
+
+[All Trick Shots Completed (Set 1)]
+Type = Gameshark
+Activation = EndFrame
+300A4B93 001F
+900A4B94 1F1F1F1F
+900A4B98 1F1F1F1F
+900A4B9C 1F1F1F1F
+900A4BA0 1F1F1F1F
+900A4BA4 1F1F1F1F
+900A4BA8 1F1F1F1F
+800A4BAC 1F1F
+
+[All Trick Shots Completed (Set 2)]
+Type = Gameshark
+Activation = EndFrame
+800A4BAE 1F1F
+800A4BB0 1F1F
+300A4BB2 001F
+
+[All Trick Shots Completed (Code 2)]
+Type = Gameshark
+Activation = EndFrame
+50002001 0000
+300A3F63 001F
+

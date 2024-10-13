@@ -1,0 +1,95 @@
+; CHTDB: ; [ The Legend of Dragoon (Germany) {SCES-03045 | SCES-13045 | SCES-23045 | SCES-33045} ]
+
+[Beginne mit viel Gold]
+Type = Gameshark
+Activation = EndFrame
+900BAF44 00038760
+
+[Gold nimmt zu]
+Type = Gameshark
+Activation = EndFrame
+D010B568 1023
+3010B568 0021
+
+[Jederzeit speichern]
+Type = Gameshark
+Activation = EndFrame
+3005A650 0001
+
+[Keine zufälligen Kämpfe]
+Type = Gameshark
+Activation = EndFrame
+800C6DD0 0000
+
+[Alle Charaktere Unendlich HP]
+Type = Gameshark
+Activation = EndFrame
+5000092C 0000
+800BB1E4 270F
+
+[Alle Charaktere Unendlich MP]
+Type = Gameshark
+Activation = EndFrame
+5000092C 0000
+800BB1E6 03E7
+
+[Alle Charaktere Unendlich SP]
+Type = Gameshark
+Activation = EndFrame
+5000092C 0000
+800BB1E8 03E7
+
+[Unendlich & Max HP Albert]
+Type = Gameshark
+Activation = EndFrame
+800BB2C0 270F
+800BEC66 270F
+
+[Unendlich & Max HP Dart]
+Type = Gameshark
+Activation = EndFrame
+800BB1E4 270F
+800BE946 270F
+
+[Unendlich & Max HP Haschel]
+Type = Gameshark
+Activation = EndFrame
+800BB294 270F
+800BEBC6 270F
+
+[Unendlich & Max HP Kongol]
+Type = Gameshark
+Activation = EndFrame
+800BB318 270F
+800BEDA6 270F
+
+[Unendlich & Max HP Lawitz]
+Type = Gameshark
+Activation = EndFrame
+800BB210 270F
+800BE9E6 270F
+
+[Unendlich & Max HP Meru]
+Type = Gameshark
+Activation = EndFrame
+800BB2EC 270F
+800BED06 270F
+
+[Unendlich & Max HP Miranda]
+Type = Gameshark
+Activation = EndFrame
+800BB344 270F
+800BEE46 270F
+
+[Unendlich & Max HP Rose]
+Type = Gameshark
+Activation = EndFrame
+800BB268 270F
+800BE676 270F
+
+[Unendlich & Max HP Shanna]
+Type = Gameshark
+Activation = EndFrame
+800BB23C 270F
+800BEA86 270F
+

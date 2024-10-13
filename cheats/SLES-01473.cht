@@ -1,0 +1,117 @@
+; CHTDB: ; [ T'ai Fu: Die Rache des Tigers (Germany) {SLES-01473} ]
+
+[80 Leben]
+Type = Gameshark
+Activation = EndFrame
+300768DC 0055
+
+[Unendlich Gesundheit-Codes\Panda-Tempel]
+Type = Gameshark
+Activation = EndFrame
+8014639E 0064
+
+[Unendlich Gesundheit-Codes\Bambus-Wald]
+Type = Gameshark
+Activation = EndFrame
+8013093E 0064
+
+[Unendlich Gesundheit-Codes\BambushüGel]
+Type = Gameshark
+Activation = EndFrame
+8012B0EE 0064
+
+[Unendlich Gesundheit-Codes\Tigerruinen]
+Type = Gameshark
+Activation = EndFrame
+8013CBFE 0064
+
+[Unendlich Gesundheit-Codes\Leopardendschungel]
+Type = Gameshark
+Activation = EndFrame
+8012D12E 0078
+
+[Unendlich Gesundheit-Codes\Leopardenfestung]
+Type = Gameshark
+Activation = EndFrame
+801238CE 0078
+
+[Unendlich Gesundheit-Codes\Leopardenturm]
+Type = Gameshark
+Activation = EndFrame
+8015D29E 0078
+
+[Unendlich Gesundheit-Codes\TempelbrüCken]
+Type = Gameshark
+Activation = EndFrame
+80120E2E 008C
+
+[Unendlich Gesundheit-Codes\HöHle Der Gottesanbeter]
+Type = Gameshark
+Activation = EndFrame
+8013508E 008C
+
+[Unendlich Gesundheit-Codes\Hort Der Gottesanbeter]
+Type = Gameshark
+Activation = EndFrame
+8013EA7E 008C
+
+[Unendlich Gesundheit-Codes\Kaverne Der Geister]
+Type = Gameshark
+Activation = EndFrame
+8014CA0E 008C
+
+[Unendlich Gesundheit-Codes\Wegkreuz 1]
+Type = Gameshark
+Activation = EndFrame
+801362BE 008C
+
+[Unendlich Gesundheit-Codes\Baumwipfel]
+Type = Gameshark
+Activation = EndFrame
+8012351E 008C
+
+[Unendlich Gesundheit-Codes\Affenkiste]
+Type = Gameshark
+Activation = EndFrame
+8013EABE 008C
+
+[Unendlich Gesundheit-Codes\Kranichhafen]
+Type = Gameshark
+Activation = EndFrame
+8012A62E 00A0
+
+[Unendlich Gesundheit-Codes\Piratendschunke]
+Type = Gameshark
+Activation = EndFrame
+8013CA7E 009E
+
+[Unendlich Gesundheit-Codes\Wegkreuz 2]
+Type = Gameshark
+Activation = EndFrame
+80131ABE 00C8
+
+[Unendlich Gesundheit-Codes\Chinesische Mauer]
+Type = Gameshark
+Activation = EndFrame
+8012550E 00B4
+
+[Unendlich Gesundheit-Codes\Tigerberge]
+Type = Gameshark
+Activation = EndFrame
+8013C29E 00B4
+
+[Unendlich Gesundheit-Codes\Bergpass]
+Type = Gameshark
+Activation = EndFrame
+8012DABE 00B4
+
+[Unendlich Gesundheit-Codes\Endspurt]
+Type = Gameshark
+Activation = EndFrame
+80127FAE 00C8
+
+[Unendlich Gesundheit-Codes\Verbotener Palast]
+Type = Gameshark
+Activation = EndFrame
+8012924E 00C8
+

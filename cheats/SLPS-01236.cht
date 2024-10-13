@@ -1,0 +1,92 @@
+; CHTDB: ; [ R-Types (Japan) {SLPS-01236} ]
+
+[R-Type 1\Invincibility]
+Type = Gameshark
+Activation = EndFrame
+80135A70 0001
+
+[R-Type 1\P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801359DC 0005
+
+[R-Type 1\P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801359E4 0005
+
+[R-Type 1\Max Speed And Laser Attack]
+Type = Gameshark
+Activation = EndFrame
+80132ADE 0A0A
+
+[R-Type 1\Have Shield]
+Type = Gameshark
+Activation = EndFrame
+80132ADA 0303
+
+[R-Type 1\Have Missiles]
+Type = Gameshark
+Activation = EndFrame
+80132ADC 0314
+
+[R-Type 1\Max Weapons]
+Type = Gameshark
+Activation = EndFrame
+80132AE6 0303
+
+[R-Type 1\Full Beam]
+Type = Gameshark
+Activation = EndFrame
+80132AE4 8000
+
+[R-Type 1\Credits]
+Type = Gameshark
+Activation = EndFrame
+801359AE 0099
+
+[R-Type 2\P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800FA352 0300
+
+[R-Type 2\P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800FA35A 0300
+
+[R-Type 2\Invincibility]
+Type = Gameshark
+Activation = EndFrame
+A60975F8 00400000
+
+[R-Type 2\Full Beam]
+Type = Gameshark
+Activation = EndFrame
+800F6B7A 00A0
+
+[R-Type 2\Max Speed]
+Type = Gameshark
+Activation = EndFrame
+800F6B6E 0002
+
+[R-Type 2\Have Shield]
+Type = Gameshark
+Activation = EndFrame
+800F6B6A 0303
+
+[R-Type 2\Have Missiles]
+Type = Gameshark
+Activation = EndFrame
+800F6B6C 0314
+
+[R-Type 2\Max Weapons]
+Type = Gameshark
+Activation = EndFrame
+800F6B76 0303
+
+[R-Type 2\Credits]
+Type = Gameshark
+Activation = EndFrame
+800FA326 0099
+

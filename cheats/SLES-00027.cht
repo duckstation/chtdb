@@ -1,0 +1,38 @@
+; CHTDB: ; [ Gunship (Europe) {SLES-00027} ]
+
+[Infinite Cannon]
+Type = Gameshark
+Activation = EndFrame
+800A2C00 0700
+
+[Infinite Inner Stores]
+Type = Gameshark
+Activation = EndFrame
+800A2C02 0014
+
+[Infinite Outer Stores]
+Type = Gameshark
+Activation = EndFrame
+800A2C04 0014
+
+[Infinite Wing Stores]
+Type = Gameshark
+Activation = EndFrame
+800A2C06 0014
+
+[Infinite Fuel]
+Type = Gameshark
+Activation = EndFrame
+800A2CE2 0064
+800A2CE4 0064
+
+[Infinite Chaff]
+Type = Gameshark
+Activation = EndFrame
+800A2CE4 001E
+
+[Infinite Flares]
+Type = Gameshark
+Activation = EndFrame
+800A2CE6 001E
+

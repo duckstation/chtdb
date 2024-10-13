@@ -1,0 +1,42 @@
+; CHTDB: ; [ XS Moto (USA) (2003) (XS Games) {SLUS-01506} <xsmoto> ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800F04D8 759C
+
+[Time Always 0.00]
+Type = Gameshark
+Activation = EndFrame
+800F0484 0000
+
+[Always Place First]
+Type = Gameshark
+Activation = EndFrame
+301BEF05 0001
+
+[Select Starting Lap\3]
+Type = Gameshark
+Activation = EndFrame
+A61BEF02 00000003
+
+[Select Starting Lap\5]
+Type = Gameshark
+Activation = EndFrame
+A61BEF02 00000005
+
+[Select Starting Lap\7]
+Type = Gameshark
+Activation = EndFrame
+A61BEF02 00000007
+
+[Select Starting Lap\9]
+Type = Gameshark
+Activation = EndFrame
+A61BEF02 00000009
+
+[Select Starting Lap\10]
+Type = Gameshark
+Activation = EndFrame
+A61BEF02 0000000A
+

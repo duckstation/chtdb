@@ -1,0 +1,58 @@
+; CHTDB: ; [ DigimonWorld (Japan) {SLPS-01797} ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+9013E294 0098967F
+
+[Max Power]
+Type = Gameshark
+Activation = EndFrame
+90141D40 00640064
+9016B0BC 03E703E7
+9016B0C0 03E703E7
+
+[Infiite & max HP]
+Type = Gameshark
+Activation = EndFrame
+8016C900 270F
+8016C904 270F
+
+[Infiite & max MP]
+Type = Gameshark
+Activation = EndFrame
+8016C902 270F
+8016C906 270F
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80141130 0008
+
+[All sales of bytes]
+Type = Gameshark
+Activation = EndFrame
+8013E174 FFFF
+
+[Digimon / Maximum HP]
+Type = Gameshark
+Activation = EndFrame
+8016B0CC 270F
+8016B0D0 270F
+
+[Digimon / Maximum MP]
+Type = Gameshark
+Activation = EndFrame
+8016B0CE 270F
+8016B0D2 270F
+
+[Possible to sleep at any time]
+Type = Gameshark
+Activation = EndFrame
+3012FE3E 0000
+
+[Get gold]
+Type = Gameshark
+Activation = EndFrame
+9013E26C 000F423F
+

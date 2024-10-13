@@ -1,0 +1,8 @@
+; CHTDB: ; [ Marvel Super Heroes (Europe) {SLES-00932} ]
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+90091BFC 00800080
+800923FC 0090
+

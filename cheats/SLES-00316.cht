@@ -1,0 +1,7 @@
+; CHTDB: ; [ Tempest X3 (Europe) {SLES-00316} ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800A13D6 0003
+

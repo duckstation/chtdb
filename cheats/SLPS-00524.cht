@@ -1,0 +1,7 @@
+; CHTDB: ; [ King of Parlor (Japan) {SLPS-00524} ]
+
+[Have 999999 money]
+Type = Gameshark
+Activation = EndFrame
+9010F8D8 00989676
+

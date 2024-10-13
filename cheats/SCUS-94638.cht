@@ -1,0 +1,22 @@
+; CHTDB: ; [ MLB 2002 (USA) (2001) (Sony Computer Entertainment America) {SCUS-94638} <mlb2k2> ]
+
+[Select Home Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+3001D453 0000
+
+[Select Home Team Score\99]
+Type = Gameshark
+Activation = EndFrame
+3001D453 0063
+
+[Select Away Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+3001D494 0000
+
+[Select Away Team Score\99]
+Type = Gameshark
+Activation = EndFrame
+3001D494 0063
+

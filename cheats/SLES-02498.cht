@@ -1,0 +1,42 @@
+; CHTDB: ; [ Army Men: Air Attack (Europe) {SLES-02498} ]
+
+[All Missions Enabled]
+Type = Gameshark
+Activation = EndFrame
+E00D9FEA 0001
+300D9FEA 0010
+
+[All Helicopters Enabled]
+Type = Gameshark
+Activation = EndFrame
+E00D9FEB 0001
+300D9FEB 0004
+
+[All Co-Pilots Enabled]
+Type = Gameshark
+Activation = EndFrame
+E00D9FEC 0003
+300D9FEC 0005
+
+[P1+P2 Invincibility]
+Type = Gameshark
+Activation = EndFrame
+8003BDEE 3C00
+
+[Only P1 Invincibility]
+Type = Gameshark
+Activation = EndFrame
+9003BDDC 32210100
+9003BDE8 10200002
+
+[Only P2 Invincibility]
+Type = Gameshark
+Activation = EndFrame
+9003BDDC 32210100
+9003BDE8 14200002
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+800509B6 3C00
+

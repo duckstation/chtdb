@@ -1,0 +1,12 @@
+; CHTDB: ; [ Gunners Heaven (Japan) {SCPS-10006} ]
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+801E50CC 0068
+801E2C58 0068
+801E0194 0068
+801E9DBC 0068
+801DB920 0068
+801DCAC4 0068
+

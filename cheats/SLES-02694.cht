@@ -1,0 +1,32 @@
+; CHTDB: ; [ London Racer (Europe) {SLES-02694} ]
+
+[No Damage]
+Type = Gameshark
+Activation = EndFrame
+80074958 0000
+
+[Infinite Warning]
+Type = Gameshark
+Activation = EndFrame
+80074A30 0000
+
+[No Repair Required]
+Type = Gameshark
+Activation = EndFrame
+800D634C 0000
+
+[Always 1st]
+Type = Gameshark
+Activation = EndFrame
+80074978 0000
+
+[Max Money]
+Type = Gameshark
+Activation = EndFrame
+800D633E 00FF
+
+[Start on lap 2]
+Type = Gameshark
+Activation = EndFrame
+800748AC 0001
+

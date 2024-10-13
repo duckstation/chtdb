@@ -1,0 +1,23 @@
+; CHTDB: ; [ Metal Slug X (USA) (2001) (Agetec) {SLUS-01212} <mslugx> ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800475AE 2400
+
+[Infinite Bombs]
+Type = Gameshark
+Activation = EndFrame
+800398BE 2400
+
+[Unlock Another Mission]
+Type = Gameshark
+Activation = EndFrame
+300D4213 00FF
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+8003273E 2400
+90032764 240500C8
+

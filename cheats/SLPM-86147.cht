@@ -1,0 +1,23 @@
+; CHTDB: ; [ Mystic Ark - Maboroshi Gekijou (Jpn) (1999) (Enix) {SLPM-86147} <mystark> ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800C4A18 000A
+8018C5F8 000A
+801B8243 000A
+
+[All the highest trust wizard]
+Type = Gameshark
+Activation = EndFrame
+50000708 0000
+300C578C 0063
+
+[Infinite Cards]
+Type = Gameshark
+Activation = EndFrame
+50000804 0010
+300C5909 0007
+50000804 0000
+300C590A 0001
+

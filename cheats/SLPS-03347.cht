@@ -1,0 +1,12 @@
+; CHTDB: ; [ Tonde! Tonde! Diet: Stepper Action Game (Japan) {SLPS-03347} ]
+
+[100% Calories]
+Type = Gameshark
+Activation = EndFrame
+801FD818 270F
+
+[Infinite Hits]
+Type = Gameshark
+Activation = EndFrame
+801FD7D8 000A
+

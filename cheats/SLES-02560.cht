@@ -1,0 +1,110 @@
+; CHTDB: ; [ Parasite Eve II (Germany) {SLES-02560 | SLES-12560} ]
+
+[Max Hp]
+Type = Gameshark
+Activation = EndFrame
+30074E5A 00FF
+
+[Unendlich Hp]
+Type = Gameshark
+Activation = EndFrame
+30074E58 00FF
+
+[Max Mp]
+Type = Gameshark
+Activation = EndFrame
+30074E5E 00FF
+
+[Unendlich Mp]
+Type = Gameshark
+Activation = EndFrame
+30074E5C 00FF
+
+[Zeit Nimmt Zu (Schiessstand)]
+Type = Gameshark
+Activation = EndFrame
+A61850BC FFFF0001
+
+[Unendlich Munition %NOTE]
+Type = Gameshark
+Activation = EndFrame
+D00B738C 0001
+300B738C 0000
+
+[Munition Nimmt Zu]
+Type = Gameshark
+Activation = EndFrame
+D00B738C 0001
+800B7384 0001
+
+[Hp & Mp Nehmen Nicht Ab]
+Type = Gameshark
+Activation = EndFrame
+3010AEB4 0000
+
+[Viel Bp]
+Type = Gameshark
+Activation = EndFrame
+80074E4C 8760
+30074E4E 0003
+
+[Bp Nimmt Nicht Ab]
+Type = Gameshark
+Activation = EndFrame
+301802D4 0000
+
+[Viel Exp]
+Type = Gameshark
+Activation = EndFrame
+80074E48 8760
+30074E4A 0003
+
+[Exp Nimmt Nicht Ab]
+Type = Gameshark
+Activation = EndFrame
+300D3B00 0000
+
+[Max Pe-Level\Feuer]
+Type = Gameshark
+Activation = EndFrame
+50000301 0000
+30073C70 0003
+
+[Max Pe-Level\Wind]
+Type = Gameshark
+Activation = EndFrame
+50000301 0000
+30073C73 0003
+
+[Max Pe-Level\Wasser]
+Type = Gameshark
+Activation = EndFrame
+50000301 0000
+30073C76 0003
+
+[Max Pe-Level\Erde]
+Type = Gameshark
+Activation = EndFrame
+50000301 0000
+30073C79 0003
+
+[Max Pe-Level\Alle Pes]
+Type = Gameshark
+Activation = EndFrame
+50000C01 0000
+30073C70 0003
+
+[Invincibility (No Hit)]
+Type = Gameshark
+Activation = EndFrame
+F40DBDC8 00AA0800
+AAAA4010 21208002
+2128AAAA AAAAAAAA
+AAAA00AA AAAAAAAA
+AAAAAAAA AAAAAAAA
+F40DBC1C 00AA0800
+AAAA4010 02006230
+AAAA40AA AAAAAAAA
+AAAA00AA AAAAAAAA
+AAAAAAAA AAAAAAAA
+

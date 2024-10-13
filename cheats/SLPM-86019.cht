@@ -1,0 +1,20 @@
+; CHTDB: ; [ Super Live Stadium (Jpn) (1998) (Squaresoft) {SLPM-86019} <slivstad> ]
+
+[Strike 2, 0 ball, 2 out in the select + left button]
+Type = Gameshark
+Activation = EndFrame
+C009DC68 7EFF
+8009D08C 0002
+8009C924 0000
+8009C798 0002
+00000000 FFFF
+
+[Strike 0, 3 ball, 0 out in the select + right button]
+Type = Gameshark
+Activation = EndFrame
+C009DC68 DEFF
+8009D08C 0000
+8009C924 0003
+8009C798 0000
+00000000 FFFF
+

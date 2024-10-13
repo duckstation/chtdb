@@ -1,0 +1,62 @@
+; CHTDB: ; [ Arcade's Greatest Hits - The Atari Collection 2 (USA) (1998) (Midway Home Entertainment) {SLUS-00449} <arcadea2> ]
+
+[Crystal Castles\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80170F8A 0003
+
+[Crystal Castles\Invincibility]
+Type = Gameshark
+Activation = EndFrame
+80170F90 0800
+
+[Gauntlet\Infinite Health Wizard]
+Type = Gameshark
+Activation = EndFrame
+801D7DD0 07CC
+
+[Gauntlet\Infinite Health Elf]
+Type = Gameshark
+Activation = EndFrame
+801D7DD4 07CC
+
+[Gauntlet\Infinite Health Warrior]
+Type = Gameshark
+Activation = EndFrame
+801D7DC8 07CC
+
+[Gauntlet\Infinite Health Valkyrie]
+Type = Gameshark
+Activation = EndFrame
+801D7DCC 07CC
+
+[Marble Madness\Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80133C7C 0063
+
+[Paperboy\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801E2388 0004
+
+[Paperboy\Infinite Papers]
+Type = Gameshark
+Activation = EndFrame
+801E2540 000A
+
+[Millipede\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8016782A 0203
+
+[Roadblaster\Invincibility]
+Type = Gameshark
+Activation = EndFrame
+8014F4C4 0041
+
+[Roadblaster\Infinite Fuel]
+Type = Gameshark
+Activation = EndFrame
+8014FA10 00DB
+

@@ -1,0 +1,27 @@
+; CHTDB: ; [ A2 Racer: Europa Tour aka A2 Racer III: Europa Tour (Netherlands) {SLES-02695} ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+8007F760 270F
+
+[Always First Place]
+Type = Gameshark
+Activation = EndFrame
+80078E08 0001
+
+[9999 Money]
+Type = Gameshark
+Activation = EndFrame
+8007F81C 270F
+
+[99 Points]
+Type = Gameshark
+Activation = EndFrame
+8007F930 0063
+801A8C98 0063
+801AB170 0063
+801AB180 0063
+801C126D 0063
+801ED034 0063
+

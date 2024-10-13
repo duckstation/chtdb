@@ -1,0 +1,99 @@
+; CHTDB: ; [ Kaette Kita Cyborg Kuro-chan (Japan) {SLPM-87174} ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+A7051652 24422400
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+A702DF0A 14401000
+
+[Unlock cyborg Kuro (Press up in menu)]
+Type = Gameshark
+Activation = EndFrame
+A70D8ECC 00000001
+
+[Walk through obstacles]
+Type = Gameshark
+Activation = EndFrame
+A704F3D2 10401000
+
+[Turbo fire Kuro (All projectile weapons except FT)]
+Type = Gameshark
+Activation = EndFrame
+A705683A 10601000
+A7057732 10601000
+A70550F2 10401000
+
+[Turbo fire Cyborg Kuro (Best not combine codes with normal Kuro)]
+Type = Gameshark
+Activation = EndFrame
+A705683A 10601000
+A7057732 10601000
+A70550F2 10401000
+A7055C1E 10601000
+
+[Turbo fire Matabi (All projectile weapons except MT and NC)]
+Type = Gameshark
+Activation = EndFrame
+A705E47A 10401000
+A7060662 10401000
+
+[Turbo fire Mie ((All projectile weapons except FT)]
+Type = Gameshark
+Activation = EndFrame
+A705A1BE 10401000
+A705B2C2 10401000
+A705C07E 10401000
+
+[P1 Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+300D8F42 00000003
+300D8F44 00000023
+300D8F46 00000032
+300D8F48 0000001E
+300D8F4A 00000006
+
+[Main infinite weapon hit anywhere]
+Type = Gameshark
+Activation = EndFrame
+A702DC5E 14402400
+A702DC76 14402400
+A702DC82 14402400
+
+[Instant dash double press]
+Type = Gameshark
+Activation = EndFrame
+A7052022 14512400
+
+[Instant dash one time press]
+Type = Gameshark
+Activation = EndFrame
+A7052022 14512400
+A704E6B2 14402400
+A704E6FA 14402400
+
+[30 FPS "Slow motion, press L3 to toggle on/off"]
+Type = Gameshark
+Activation = EndFrame
+D7010001 01000200
+F50C4FDA 04811000
+
+[FPS Unlock]
+Type = Gameshark
+Activation = EndFrame
+A70C5116 10401000
+
+[Enhanced Reverb]
+Type = Gameshark
+Activation = EndFrame
+A70C307E 10402400
+
+[Enhanced stereo delay parts]
+Type = Gameshark
+Activation = EndFrame
+A70C2EDE 10401000
+

@@ -1,0 +1,145 @@
+; CHTDB: ; [ Nuclear Strike (Germany) {SLES-00921} ]
+
+[Delta Apache Codes\Unendlich Fuel]
+Type = Gameshark
+Activation = EndFrame
+800F5B52 63EA
+
+[Delta Apache Codes\Unendlich Armour]
+Type = Gameshark
+Activation = EndFrame
+800F5AD0 05DC
+
+[Delta Apache Codes\Unendlich Mg]
+Type = Gameshark
+Activation = EndFrame
+800EF5D0 049A
+
+[Delta Apache Codes\Unendlich Rockets]
+Type = Gameshark
+Activation = EndFrame
+800EF5EC 0026
+
+[Delta Apache Codes\Unendlich Special Rockets]
+Type = Gameshark
+Activation = EndFrame
+800EF608 0008
+
+[Delta Apache Codes\Unendlich Wingtips]
+Type = Gameshark
+Activation = EndFrame
+800EF624 0008
+
+[Delta Huey Codes\Unendlich Fuel]
+Type = Gameshark
+Activation = EndFrame
+800F5D42 9600
+
+[Delta Huey Codes\Unendlich Armour]
+Type = Gameshark
+Activation = EndFrame
+800FFCC0 04B0
+800820A0 04B0
+80086CDC 04B0
+
+[Delta Huey Codes\Unendlich Mg]
+Type = Gameshark
+Activation = EndFrame
+800EF560 05DC
+
+[Delta Huey Codes\Unendlich Rockets]
+Type = Gameshark
+Activation = EndFrame
+800EF57C 0026
+
+[Delta Huey Codes\Unendlich Grenades]
+Type = Gameshark
+Activation = EndFrame
+800EF598 012C
+
+[Delta Huey Codes\Unendlich Wingtips]
+Type = Gameshark
+Activation = EndFrame
+8008ABC4 0008
+800EF5B4 0008
+
+[Island Apache Codes\Unendlich Fuel]
+Type = Gameshark
+Activation = EndFrame
+800F3F9A 48A4
+
+[Island Apache Codes\Unendlich Armour]
+Type = Gameshark
+Activation = EndFrame
+800F3F18 05DC
+
+[Island Apache Codes\Unendlich Mg]
+Type = Gameshark
+Activation = EndFrame
+800EF2B8 049A
+
+[Island Apache Codes\Unendlich Rockets]
+Type = Gameshark
+Activation = EndFrame
+800EF2D4 0026
+
+[Island Apache Codes\Unendlich Special Rockets]
+Type = Gameshark
+Activation = EndFrame
+800EF2F0 000C
+
+[Island Apache Codes\Unendlich Wingtips]
+Type = Gameshark
+Activation = EndFrame
+800EF30C 0004
+
+[Peace Chopper Codes\Unendlich Fuel]
+Type = Gameshark
+Activation = EndFrame
+800F3072 6190
+
+[Peace Chopper Codes\Unendlich Mg]
+Type = Gameshark
+Activation = EndFrame
+800EE254 04B0
+
+[Peace Chopper Codes\Unendlich Smoke]
+Type = Gameshark
+Activation = EndFrame
+800EE270 0018
+
+[Peace Chopper Codes\Unendlich T-Gas]
+Type = Gameshark
+Activation = EndFrame
+800EE28C 0008
+
+[Peace Cobra Codes\Unendlich Fuel]
+Type = Gameshark
+Activation = EndFrame
+800F3262 6400
+
+[Peace Cobra Codes\Unendlich Armour]
+Type = Gameshark
+Activation = EndFrame
+800F31E0 05DC
+
+[Peace Cobra Codes\Unendlich Mg]
+Type = Gameshark
+Activation = EndFrame
+800EE1E4 04B0
+
+[Peace Cobra Codes\Unendlich Rockets]
+Type = Gameshark
+Activation = EndFrame
+800EE200 004C
+
+[Peace Cobra Codes\Unendlich Wingtips]
+Type = Gameshark
+Activation = EndFrame
+800EE238 0008
+
+[Peace Cobra Codes\Unendlich Special Rockets]
+Type = Gameshark
+Activation = EndFrame
+800EE21C 0008
+

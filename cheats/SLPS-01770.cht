@@ -1,0 +1,106 @@
+; CHTDB: ; [ Tales of Phantasia (Japan) {SLPS-01770} ]
+
+[Infinite Energy In Battle Cless]
+Type = Gameshark
+Activation = EndFrame
+80138E2C 03E7
+
+[Infinite TP In Battle Cless]
+Type = Gameshark
+Activation = EndFrame
+80138E38 03E7
+
+[Infinite Energy In Battle Chester]
+Type = Gameshark
+Activation = EndFrame
+80139064 03E7
+
+[Infinite TP In Battle Chester]
+Type = Gameshark
+Activation = EndFrame
+80139070 03E7
+
+[Infinite Money (9999999)]
+Type = Gameshark
+Activation = EndFrame
+9008740C 0098967F
+
+[Infinite & Max HP out of Battle Cless]
+Type = Gameshark
+Activation = EndFrame
+80086F10 03E7
+80086F0E 03E7
+
+[Infinite & Max HP out of Battle Mint]
+Type = Gameshark
+Activation = EndFrame
+80086FB0 03E7
+80086FAE 03E7
+
+[Infinite & Max HP in Battle Mint]
+Type = Gameshark
+Activation = EndFrame
+80139064 03E7
+
+[Invincibility (May not work)]
+Type = Gameshark
+Activation = EndFrame
+800FBDB4 0004
+
+[No Random Battle]
+Type = Gameshark
+Activation = EndFrame
+80087ADC 0000
+
+[None Encounter]
+Type = Gameshark
+Activation = EndFrame
+30087ADC 00FF
+
+[Save Allowed anywhere]
+Type = Gameshark
+Activation = EndFrame
+300DCC8D 0000
+
+[Save Everywhere]
+Type = Gameshark
+Activation = EndFrame
+A60DCC8C 02000000
+
+[Cooking all learn]
+Type = Gameshark
+Activation = EndFrame
+90087C34 01FFFFFF
+
+[Collector picture book full Open]
+Type = Gameshark
+Activation = EndFrame
+50001902 0000
+80087A24 FFFF
+
+[100% Monster Guide]
+Type = Gameshark
+Activation = EndFrame
+30087B01 00FF
+30087BEE 00FF
+50007602 0000
+80087B02 FFFF
+
+[Walk Through Walls In Stages]
+Type = Gameshark
+Activation = EndFrame
+D00E9364 ADCE
+800E9394 1000
+
+[Walk Through Walls on Overworld]
+Type = Gameshark
+Activation = EndFrame
+D00E7ECE 1440
+800E7ECE 1000
+
+[Debug Room Hold L2 while entering another map to enter the debug room, whose ID is 0005. You can level-up your characters and warp to various locations, including a completely-removed area..]
+Type = Gameshark
+Activation = EndFrame
+D007F378 0001
+80087AD0 0005
+

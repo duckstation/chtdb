@@ -1,0 +1,22 @@
+; CHTDB: ; [ Shadow Master (USA) (1998) (Psygnosis) {SLUS-00545} <shadwmst> ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80083238 FF00
+
+[Infinite Primary + Secondary Weapons + Level Select]
+Type = Gameshark
+Activation = EndFrame
+8007AB5C 0616
+
+[Kill Enemies on Appearance]
+Type = Gameshark
+Activation = EndFrame
+A7049252 1C401400
+
+[Collect Diamonds from Anywhere]
+Type = Gameshark
+Activation = EndFrame
+A7060C46 14401400
+

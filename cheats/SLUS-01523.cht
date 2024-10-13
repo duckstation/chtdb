@@ -1,0 +1,27 @@
+; CHTDB: ; [ Phix - The Adventure (USA) (2003) (Agetec / A1 Games) {SLUS-01523} <phix> ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800E7778 FFFF
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800E7784 0003
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800E7786 0064
+
+[99 Crystals]
+Type = Gameshark
+Activation = EndFrame
+800E7780 0063
+
+[Infinite Shield]
+Type = Gameshark
+Activation = EndFrame
+800E8484 0074
+

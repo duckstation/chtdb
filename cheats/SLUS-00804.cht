@@ -1,0 +1,58 @@
+; CHTDB: ; [ No One Can Stop Mr. Domino (USA) (1998) (Acclaim Entertainment) {SLUS-00804} <mrdomino> ]
+
+[Infinite Continues]
+Type = Gameshark
+Activation = EndFrame
+800B6BAC 0005
+
+[Max Score]
+Type = Gameshark
+Activation = EndFrame
+9008CEE0 05F5E0FF
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800B2D54 0A50
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8008CC04 0015
+800B76B6 7BDE
+
+[Bruce Unlocked]
+Type = Gameshark
+Activation = EndFrame
+300B3764 0001
+
+[Select Perm Level\Phat Tony's Casino]
+Type = Gameshark
+Activation = EndFrame
+800B2D98 0001
+
+[Select Perm Level\Shop Til' You Drop]
+Type = Gameshark
+Activation = EndFrame
+800B2D98 0002
+
+[Select Perm Level\Grandpa's In The House]
+Type = Gameshark
+Activation = EndFrame
+800B2D98 0003
+
+[Select Perm Level\Tripping In The Park]
+Type = Gameshark
+Activation = EndFrame
+800B2D98 0004
+
+[Select Perm Level\Fun Park Massive]
+Type = Gameshark
+Activation = EndFrame
+800B2D98 0005
+
+[Select Perm Level\No One Can Stop Mr.Domino]
+Type = Gameshark
+Activation = EndFrame
+800B2D98 0006
+

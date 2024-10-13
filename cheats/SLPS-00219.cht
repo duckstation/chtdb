@@ -1,0 +1,13 @@
+; CHTDB: ; [ Zen Nihon GT Senshuken Kai (Japan) {SLPS-00219} ]
+
+[Maximum Speed]
+Type = Gameshark
+Activation = EndFrame
+800E23CE 000C
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+3006452D 0014
+30106149 0014
+

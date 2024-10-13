@@ -1,0 +1,222 @@
+; CHTDB: ; [ Soul Blade (Europe) {SCES-00577} ]
+
+[P1\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800C0006 00F1
+
+[P1\75% Health]
+Type = Gameshark
+Activation = EndFrame
+A60C0006 00F000B4
+
+[P1\50% Health]
+Type = Gameshark
+Activation = EndFrame
+A60C0006 00F00078
+
+[P1\25% Health]
+Type = Gameshark
+Activation = EndFrame
+A60C0006 00F0003C
+
+[P1\No Health]
+Type = Gameshark
+Activation = EndFrame
+800C0006 0000
+
+[P1\Suddendeath]
+Type = Gameshark
+Activation = EndFrame
+A60C0006 00F00001
+
+[P1\No Sword Power]
+Type = Gameshark
+Activation = EndFrame
+800C0162 0000
+
+[P1\Maximum Weapon Strength]
+Type = Gameshark
+Activation = EndFrame
+800C309A 0060
+
+[P2\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800C2F3E 00F1
+
+[P2\75% Health]
+Type = Gameshark
+Activation = EndFrame
+A60C2F3E 00F000B4
+
+[P2\50% Health]
+Type = Gameshark
+Activation = EndFrame
+A60C2F3E 00F00078
+
+[P2\25% Health]
+Type = Gameshark
+Activation = EndFrame
+A60C2F3E 00F0003C
+
+[P2\No Health]
+Type = Gameshark
+Activation = EndFrame
+800C2F3E 0000
+
+[P2\Suddendeath]
+Type = Gameshark
+Activation = EndFrame
+A60C2F3E 00F00001
+
+[P2\No Sword Power]
+Type = Gameshark
+Activation = EndFrame
+800C309A 0000
+
+[P2\Maximum Weapon Strength]
+Type = Gameshark
+Activation = EndFrame
+800C0162 0060
+
+[All Weapons\Mitsurugi]
+Type = Gameshark
+Activation = EndFrame
+800E9B3C 00FF
+800EA38C 00FF
+800EA3A0 00FF
+
+[All Weapons\Seung Mina]
+Type = Gameshark
+Activation = EndFrame
+800E9B3E 00FF
+800EE38E 00FF
+800EA3A2 00FF
+
+[All Weapons\Taki]
+Type = Gameshark
+Activation = EndFrame
+800E9B40 00FF
+800EA390 00FF
+800EA3A4 00FF
+
+[All Weapons\Li Long]
+Type = Gameshark
+Activation = EndFrame
+800E9B42 00FF
+800EA392 00FF
+800EA3A6 00FF
+
+[All Weapons\Voldo]
+Type = Gameshark
+Activation = EndFrame
+800E9B4E 00FF
+800EA39E 00FF
+800EA3B2 00FF
+
+[All Weapons\Sophitia]
+Type = Gameshark
+Activation = EndFrame
+800E9B46 00FF
+800EA396 00FF
+800EA3AA 00FF
+
+[All Weapons\Siegfried]
+Type = Gameshark
+Activation = EndFrame
+800E9B48 00FF
+800EA398 00FF
+800EA3AC 00FF
+
+[All Weapons\Rock]
+Type = Gameshark
+Activation = EndFrame
+800E9B4A 00FF
+800EA39A 00FF
+800EA3AE 00FF
+
+[All Weapons\Hwang]
+Type = Gameshark
+Activation = EndFrame
+800E9B4C 00FF
+800EA39C 00FF
+800EA3B0 00FF
+
+[All Weapons\All Characters]
+Type = Gameshark
+Activation = EndFrame
+50000A02 0000
+800E9B3C 00FF
+50000A02 0000
+800EA38C 00FF
+50000A02 0000
+800EA3A0 00FF
+
+[Enable Characters\Souledge]
+Type = Gameshark
+Activation = EndFrame
+3009ABEA 0001
+
+[Enable Characters\Han Myong]
+Type = Gameshark
+Activation = EndFrame
+3009ABEA 0004
+
+[Enable Characters\Souledge & Han Myong]
+Type = Gameshark
+Activation = EndFrame
+3009ABEA 0005
+
+[Players Can Choose More Than 1 Of The Same Character In Team Battle]
+Type = Gameshark
+Activation = EndFrame
+D00594C0 654B
+80059512 2400
+
+[Select Button Pauses Game Instead Of Start]
+Type = Gameshark
+Activation = EndFrame
+80053590 0100
+
+[Hit & Throw Anywhere Both Players]
+Type = Gameshark
+Activation = EndFrame
+80042EDA 2400
+
+[Infinite Weapon Power Both Players]
+Type = Gameshark
+Activation = EndFrame
+80043226 3C03
+
+[One Hit Weapon Loss Both Players]
+Type = Gameshark
+Activation = EndFrame
+90043224 3C030060
+
+[Stop Time Attack Timer]
+Type = Gameshark
+Activation = EndFrame
+30038ACA 0080
+30038AF2 0080
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800EDB2C 0063
+
+[Modify\Character Change At Continue]
+Type = Gameshark
+Activation = EndFrame
+3009ABD9 0001
+
+[Modify\Character Select Mode]
+Type = Gameshark
+Activation = EndFrame
+3009ABDA 0001
+
+[Modify\Cpu Character's Weapon]
+Type = Gameshark
+Activation = EndFrame
+3009ABE6 0001
+

@@ -1,0 +1,7 @@
+; CHTDB: ; [ 100 Man Yen Quiz Hunter (Japan) {SLPS-01730} ]
+
+[P1 has 9999990 money]
+Type = Gameshark
+Activation = EndFrame
+901D9FBC 0098967F
+

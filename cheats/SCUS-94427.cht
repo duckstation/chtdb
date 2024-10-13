@@ -1,0 +1,132 @@
+; CHTDB: ; [ Tiny Tank (USA) (1999) (Sony Computer Entertainment America) {SCUS-94427} <tinytank> ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800A802E 2400
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8009F832 2400
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8009F31A 2400
+
+[Infinite Health Underground Recycling Plant (Body Split Battle Only!)]
+Type = Gameshark
+Activation = EndFrame
+8010B126 000C
+D00716E8 1020
+800ACDBE AE42
+D00716E8 4020
+800ACDBE 2400
+
+[Infinite Teeny Weeny]
+Type = Gameshark
+Activation = EndFrame
+800A39CA 2400
+
+[Select Level\Dead River Canyon]
+Type = Gameshark
+Activation = EndFrame
+800714FE 0000
+
+[Select Level\Mortar-Villa Airfield]
+Type = Gameshark
+Activation = EndFrame
+800714FE 0001
+
+[Select Level\Underground Recycling Plant]
+Type = Gameshark
+Activation = EndFrame
+800714FE 000A
+
+[Select Level\Raw Material Nano Mine]
+Type = Gameshark
+Activation = EndFrame
+800714FE 0003
+
+[Select Level\Desert Robo-Train]
+Type = Gameshark
+Activation = EndFrame
+800714FE 0004
+
+[Select Level\Nanometal Curing + Cooling Center]
+Type = Gameshark
+Activation = EndFrame
+800714FE 0005
+
+[Select Level\The Nanometal Mountain]
+Type = Gameshark
+Activation = EndFrame
+800714FE 0006
+
+[Select Level\Steel-Earth Plains]
+Type = Gameshark
+Activation = EndFrame
+800714FE 0007
+
+[Select Level\Atmospheric Reduction Center]
+Type = Gameshark
+Activation = EndFrame
+800714FE 0008
+
+[Select Level\Magneto Synchrotron Transporter]
+Type = Gameshark
+Activation = EndFrame
+800714FE 0009
+
+[Select Level\The Frozen Lake]
+Type = Gameshark
+Activation = EndFrame
+800714FE 000B
+
+[Select Level\Mount Mutank]
+Type = Gameshark
+Activation = EndFrame
+800714FE 000C
+
+[Select Level\The Rail Gun Launcher]
+Type = Gameshark
+Activation = EndFrame
+800714FE 000D
+
+[Select Level\Unknown]
+Type = Gameshark
+Activation = EndFrame
+800714FE 000E
+
+[Select Level\The Maze (Final Mission)]
+Type = Gameshark
+Activation = EndFrame
+800714FE 000F
+
+[Select Level\Mutank Slide]
+Type = Gameshark
+Activation = EndFrame
+800714FE 0010
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A7083C80 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A7083C80 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A7083C80 10000400
+
+[Widescreen 16-9 (Adjusted)]
+Type = Gameshark
+Activation = EndFrame
+80083C80 0C00
+80083C90 0D00
+

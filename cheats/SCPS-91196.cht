@@ -1,0 +1,48 @@
+; CHTDB: ; [ Saru! Get You! (Japan) Rev 1 {SCPS-91196} ]
+
+[Have All Gadgets]
+Type = Gameshark
+Activation = EndFrame
+300F4E34 00FF
+
+[Infinite Air]
+Type = Gameshark
+Activation = EndFrame
+800F4A38 0258
+
+[Infinite Gadget Ammo]
+Type = Gameshark
+Activation = EndFrame
+300F4E31 0063
+300F4E32 0063
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800EBF38 0005
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800F4104 0064
+
+[Max Chips]
+Type = Gameshark
+Activation = EndFrame
+800F4130 0063
+
+[Total Time = 00.00]
+Type = Gameshark
+Activation = EndFrame
+900F4108 00000000
+
+[Complete Monkey Book]
+Type = Gameshark
+Activation = EndFrame
+5000FF02 0000
+800DF498 0202
+50005502 0000
+800DF696 0202
+50001002 0000
+800DF8E0 0202
+

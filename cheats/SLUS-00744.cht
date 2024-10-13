@@ -1,0 +1,34 @@
+; CHTDB: ; [ Formula 1 98 (USA) (1998) (Psygnosis) {SLUS-00744} <f1_98> ]
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800A1E5C B400
+
+[Unlock Everything]
+Type = Gameshark
+Activation = EndFrame
+50000402 0000
+800BE56C FFFF
+
+[P1 Only Needs 1 Win]
+Type = Gameshark
+Activation = EndFrame
+A60A1F28 00000001
+
+[P2 No Health]
+Type = Gameshark
+Activation = EndFrame
+800A2430 1400
+
+[View Ending After First Battle]
+Type = Gameshark
+Activation = EndFrame
+E009F0AC 0000
+3009F0AC 0009
+
+[Infinite Round Time]
+Type = Gameshark
+Activation = EndFrame
+3009EB44 0063
+

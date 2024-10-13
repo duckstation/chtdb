@@ -1,0 +1,28 @@
+; CHTDB: ; [ Blade (Europe) {SLES-03213} ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800C7490 05DC
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+800C3B00 03E7
+
+[All keys & keycards]
+Type = Gameshark
+Activation = EndFrame
+800CEA70 FFFF
+
+[All glyph]
+Type = Gameshark
+Activation = EndFrame
+800B7174 FFFF
+
+[All items]
+Type = Gameshark
+Activation = EndFrame
+800C3A6A 0F0F
+800B7176 F000
+

@@ -1,0 +1,18 @@
+; CHTDB: ; [ Koudelka (France) {SLES-02898 | SLES-12898 | SLES-22898 | SLES-32898} ]
+
+[Infinite Ammo All Weapons]
+Type = Gameshark
+Activation = EndFrame
+A608B312 A0832A00
+
+[Infinite MP All Characters]
+Type = Gameshark
+Activation = EndFrame
+A608AC0A A6022A00
+
+[No random battles On (Press L1)]
+Type = Gameshark
+Activation = EndFrame
+D00B709A FDFF
+80072FF2 2442
+

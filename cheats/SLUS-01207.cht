@@ -1,0 +1,12 @@
+; CHTDB: ; [ Batman Beyond - Return of the Joker (USA) (2000) (Ubi Soft Entertainment Software) {SLUS-01207} <batmnbey> ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8001A276 2400
+
+[Stop Timer]
+Type = Gameshark
+Activation = EndFrame
+8006CF1C 0000
+

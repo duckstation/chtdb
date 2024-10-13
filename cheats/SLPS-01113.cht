@@ -1,0 +1,28 @@
+; CHTDB: ; [ Toshinden Card Quest (Jpn) (1998) (Takara) {SLPS-01113} <toshicrd> ]
+
+[P1 Infinite Energy Story Mode]
+Type = Gameshark
+Activation = EndFrame
+8004B140 0063
+8004B000 0063
+
+[P1 Infinite Energy Card Battle]
+Type = Gameshark
+Activation = EndFrame
+800DCF78 0014
+
+[No Energy COM1 Card Battle]
+Type = Gameshark
+Activation = EndFrame
+800DCF74 0000
+
+[No Energy COM2 Card Battle]
+Type = Gameshark
+Activation = EndFrame
+800DCF7C 0000
+
+[No Energy COM3 Card Battle]
+Type = Gameshark
+Activation = EndFrame
+800DCF80 0000
+

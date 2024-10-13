@@ -1,0 +1,49 @@
+; CHTDB: ; [ Mortal Kombat Trilogy (Japan) {SLPS-00791} ]
+
+[P1 Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800321FA 00A6
+
+[P1 Always Has Full Aggressor]
+Type = Gameshark
+Activation = EndFrame
+800321FC 0030
+
+[P1 death blow]
+Type = Gameshark
+Activation = EndFrame
+A60321FA 00A60001
+
+[P2 Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+80032372 00A6
+
+[(Press SELECT button) 2P life 0]
+Type = Gameshark
+Activation = EndFrame
+D00B964C 0100
+80032372 0000
+
+[P2 Always Has Full Aggressor]
+Type = Gameshark
+Activation = EndFrame
+80032374 0030
+
+[P2 death blow]
+Type = Gameshark
+Activation = EndFrame
+A6032372 00A60001
+
+[? in Options is Available]
+Type = Gameshark
+Activation = EndFrame
+800326EC 0001
+
+[Unlock All Extras]
+Type = Gameshark
+Activation = EndFrame
+800326EC 0001
+8003CA30 0001
+

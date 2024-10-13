@@ -1,0 +1,20 @@
+; CHTDB: ; [ Dezaemon Plus Select 100 (Japan) Rev 1 {SLPS-01504} ]
+
+[Invincibility Disc Two Games]
+Type = Gameshark
+Activation = EndFrame
+D002FE2A 2442
+30112A55 0001
+
+[Infinite Lives Disc Two Games]
+Type = Gameshark
+Activation = EndFrame
+D002FE2A 2442
+8002FE28 0000
+
+[Bomb MAX Disc Two Games]
+Type = Gameshark
+Activation = EndFrame
+D002FE2A 2442
+80112B12 0009
+

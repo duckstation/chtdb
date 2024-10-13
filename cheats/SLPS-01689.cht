@@ -1,0 +1,46 @@
+; CHTDB: ; [ Advan Racing (Jpn) (1998) (Atlus) {SLPS-01689} <advanrac> ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+90010290 0FFFFFFF
+
+[Infinite Fuel And Tire Brake]
+Type = Gameshark
+Activation = EndFrame
+301E1D36 0010
+301E1D39 00FF
+301E1D3D 00FF
+
+[Speed Boost Code]
+Type = Gameshark
+Activation = EndFrame
+801E1CAC 0FFF
+
+[Max Points]
+Type = Gameshark
+Activation = EndFrame
+800E7AF0 0063
+
+[Start in Lap 3 Lap /1st]
+Type = Gameshark
+Activation = EndFrame
+A61B4054 00000003
+
+[Start in Lap 4 Lap /1st]
+Type = Gameshark
+Activation = EndFrame
+A61B4054 00000003
+
+[Start in Lap 5 Lap /1st]
+Type = Gameshark
+Activation = EndFrame
+A61B4054 00000003
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+801C56A6 0000
+;60 FPS
+;A717B234 02000105
+

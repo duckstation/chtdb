@@ -1,0 +1,254 @@
+; CHTDB: ; [ Worms Armageddon (Germany) (Best of Infogrames: Value Series) {SLES-02331} ]
+
+[Unendlich Zeit Pro Zug 1P+2P-Modi]
+Type = Gameshark
+Activation = EndFrame
+8019B940 3C00
+
+[Unendlich Zeit Pro Zug Trainings-Modus]
+Type = Gameshark
+Activation = EndFrame
+8019AF04 3C00
+
+[Unendlich Zeit Pro Zug Deathmodus]
+Type = Gameshark
+Activation = EndFrame
+8019CC98 3C00
+
+[Unendlich Zeit Pro Zug 3P-Modus]
+Type = Gameshark
+Activation = EndFrame
+8019CDB8 3C00
+
+[Unendlich Zeit Pro Zug 4P-Modus]
+Type = Gameshark
+Activation = EndFrame
+8019C37C 3C00
+
+[Zeit Pro Zug Anhalten Mit L2]
+Type = Gameshark
+Activation = EndFrame
+D01E5DA6 FEFF
+80086E52 3C00
+
+[Zeit Pro Zug Weiterlaufen Lassen Mit L1]
+Type = Gameshark
+Activation = EndFrame
+D01E5DA6 FBFF
+80086E52 AE42
+
+[Kein Kasten Um Timer...]
+Type = Gameshark
+Activation = EndFrame
+80182B70 0000
+
+[Keine HintergrundgeräUsche]
+Type = Gameshark
+Activation = EndFrame
+801E5D94 0000
+
+[P1 Unendlich Alle Waffen]
+Type = Gameshark
+Activation = EndFrame
+50004004 0001
+8014B9EC 0002
+
+[P2 Unendlich Alle Waffen]
+Type = Gameshark
+Activation = EndFrame
+50004004 0001
+8014BC04 0002
+
+[P3 Unendlich Alle Waffen]
+Type = Gameshark
+Activation = EndFrame
+50004004 0001
+8014BE1C 0002
+
+[P4 Unendlich Alle Waffen]
+Type = Gameshark
+Activation = EndFrame
+50004004 0001
+8014C034 0002
+
+[Alle Waffen Unendlich Benutzbar]
+Type = Gameshark
+Activation = EndFrame
+8004C85A 3C00
+
+[P1 Unendlich Energie Wurm 1]
+Type = Gameshark
+Activation = EndFrame
+3014AFA0 0064
+
+[P1 Unendlich Energie Wurm 2]
+Type = Gameshark
+Activation = EndFrame
+3014B03C 0064
+
+[P1 Unendlich Energie Wurm 3]
+Type = Gameshark
+Activation = EndFrame
+3014B0D8 0064
+
+[P1 Unendlich Energie Wurm 4]
+Type = Gameshark
+Activation = EndFrame
+3014B174 0064
+
+[P2 Unendlich Energie Wurm 1]
+Type = Gameshark
+Activation = EndFrame
+3014B24C 0064
+
+[P2 Unendlich Energie Wurm 2]
+Type = Gameshark
+Activation = EndFrame
+3014B2E8 0064
+
+[P2 Unendlich Energie Wurm 3]
+Type = Gameshark
+Activation = EndFrame
+3014B384 0064
+
+[P2 Unendlich Energie Wurm 4]
+Type = Gameshark
+Activation = EndFrame
+3014B420 0064
+
+[P3 Unendlich Energie Wurm 1]
+Type = Gameshark
+Activation = EndFrame
+3014B4F8 0064
+
+[P3 Unendlich Energie Wurm 2]
+Type = Gameshark
+Activation = EndFrame
+3014B594 0064
+
+[P3 Unendlich Energie Wurm 3]
+Type = Gameshark
+Activation = EndFrame
+3014B630 0064
+
+[P3 Unendlich Energie Wurm 4]
+Type = Gameshark
+Activation = EndFrame
+3014B6CC 0064
+
+[P4 Unendlich Energie Wurm 1]
+Type = Gameshark
+Activation = EndFrame
+3014B7A4 0064
+
+[P4 Unendlich Energie Wurm 2]
+Type = Gameshark
+Activation = EndFrame
+3014B840 0064
+
+[P4 Unendlich Energie Wurm 3]
+Type = Gameshark
+Activation = EndFrame
+3014B8DC 0064
+
+[P4 Unendlich Energie Wurm 4]
+Type = Gameshark
+Activation = EndFrame
+3014B978 0064
+
+[P1 Sudden Death Wurm 1 .Select+L1]
+Type = Gameshark
+Activation = EndFrame
+D0041ABC FBFE
+3014AFA0 0000
+
+[P1 Sudden Death Wurm 2 .Select+L1]
+Type = Gameshark
+Activation = EndFrame
+D0041ABC FBFE
+3014B03C 0000
+
+[P1 Sudden Death Wurm 3 .Select+L1]
+Type = Gameshark
+Activation = EndFrame
+D0041ABC FBFE
+3014B0D8 0000
+
+[P1 Sudden Death Wurm 4 .Select+L1]
+Type = Gameshark
+Activation = EndFrame
+D0041ABC FBFE
+3014B174 0000
+
+[P2 Sudden Death Wurm 1 .Select+L2]
+Type = Gameshark
+Activation = EndFrame
+D0041ABC FEFE
+3014B24C 0000
+
+[P2 Sudden Death Wurm 2 .Select+L2]
+Type = Gameshark
+Activation = EndFrame
+D0041ABC FEFE
+3014B2E8 0000
+
+[P2 Sudden Death Wurm 3 .Select+L2]
+Type = Gameshark
+Activation = EndFrame
+D0041ABC FEFE
+3014B384 0000
+
+[P2 Sudden Death Wurm 4 .Select+L2]
+Type = Gameshark
+Activation = EndFrame
+D0041ABC FEFE
+3014B420 0000
+
+[P3 Sudden Death Wurm 1 .Select+R1]
+Type = Gameshark
+Activation = EndFrame
+D0041ABC F7FE
+3014B4F8 0000
+
+[P3 Sudden Death Wurm 2 .Select+R1]
+Type = Gameshark
+Activation = EndFrame
+D0041ABC F7FE
+3014B594 0000
+
+[P3 Sudden Death Wurm 3 .Select+R1]
+Type = Gameshark
+Activation = EndFrame
+D0041ABC F7FE
+3014B630 0000
+
+[P3 Sudden Death Wurm 4 .Select+R1]
+Type = Gameshark
+Activation = EndFrame
+D0041ABC F7FE
+3014B6CC 0000
+
+[P4 Sudden Death Wurm 1 .Select+R2]
+Type = Gameshark
+Activation = EndFrame
+D0041ABC FDFE
+3014B7A4 0000
+
+[P4 Sudden Death Wurm 2 .Select+R2]
+Type = Gameshark
+Activation = EndFrame
+D0041ABC FDFE
+3014B840 0000
+
+[P4 Sudden Death Wurm 3 .Select+R2]
+Type = Gameshark
+Activation = EndFrame
+D0041ABC FDFE
+3014B8DC 0000
+
+[P4 Sudden Death Wurm 4 .Select+R2]
+Type = Gameshark
+Activation = EndFrame
+D0041ABC FDFE
+3014B978 0000
+

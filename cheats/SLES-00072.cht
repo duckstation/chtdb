@@ -1,0 +1,12 @@
+; CHTDB: ; [ Theme Park (Europe) {SLES-00072} ]
+
+[Have 99000000 to buy park]
+Type = Gameshark
+Activation = EndFrame
+900DC6F4 05E69EC0
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+901AF91C 017D7840
+

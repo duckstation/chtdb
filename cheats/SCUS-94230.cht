@@ -1,0 +1,65 @@
+; CHTDB: ; [ SaGa Frontier (USA) (1998) (Sony Computer Entertainment America) {SCUS-94230} <sagafrnt> ]
+
+[Infinite HP in battle 1st character]
+Type = Gameshark
+Activation = EndFrame
+8001D824 03E7
+
+[Infinite HP in battle 2nd character]
+Type = Gameshark
+Activation = EndFrame
+8001DA28 03E7
+
+[Infinite HP in battle 3rd character]
+Type = Gameshark
+Activation = EndFrame
+8001DC2C 03E7
+
+[Infinite HP in battle 4th character]
+Type = Gameshark
+Activation = EndFrame
+8001DE30 03E7
+
+[Infinite HP in battle 5th character]
+Type = Gameshark
+Activation = EndFrame
+8001DE34 03E7
+
+[Infinite Magic In Battle]
+Type = Gameshark
+Activation = EndFrame
+83FE27C7 03E7
+
+[Infinite Attack Points In Battle]
+Type = Gameshark
+Activation = EndFrame
+83FE27CB 03E7
+
+[Infinite LP In Battle]
+Type = Gameshark
+Activation = EndFrame
+83FE27CF 0063
+
+[Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+90012808 0098967F
+
+[ALL Regions Selectable On Region Map]
+Type = Gameshark
+Activation = EndFrame
+80012B7E 0000
+80012B80 0000
+
+[Have All Items]
+Type = Gameshark
+Activation = EndFrame
+5000FF02 0001
+8001288C 6300
+
+[Hold L1+L2+R1+R2, Then Attack Virgil (The Ring Lord) In Riki's Scenario To Win The Fight]
+Type = Gameshark
+Activation = EndFrame
+D012C008 000F
+3012C7EE 000A
+

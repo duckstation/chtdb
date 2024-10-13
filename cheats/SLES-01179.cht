@@ -1,0 +1,32 @@
+; CHTDB: ; [ Test Drive 4x4 (Europe) {SLES-01179} ]
+
+[Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+9006A81C 00FFFFFF
+
+[Checkpoint Timer]
+Type = Gameshark
+Activation = EndFrame
+300890F1 00FF
+
+[Huge amount of points in World tour mode]
+Type = Gameshark
+Activation = EndFrame
+800859D8 00DE
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A7074E78 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A7074E78 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A7074E78 10000400
+

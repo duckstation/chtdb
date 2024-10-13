@@ -1,0 +1,24 @@
+; CHTDB: ; [ Tombi! (Europe) {SCES-01330} ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+A60A5C08 00030004
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+A609C4A8 0103010F
+
+[Moonjump]
+Type = Gameshark
+Activation = EndFrame
+D009D198 4000
+800A5C88 0005
+
+[Experience]
+Type = Gameshark
+Activation = EndFrame
+8009C8C0 0009
+8009C8C4 003C
+

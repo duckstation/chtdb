@@ -1,0 +1,27 @@
+; CHTDB: ; [ Street Fighter Zero (Japan) {SLPS-00176} ]
+
+[Infinite Energy 1P]
+Type = Gameshark
+Activation = EndFrame
+8018720C 0090
+
+[Infinite Energy 2P]
+Type = Gameshark
+Activation = EndFrame
+801874D4 0090
+
+[No energy 2P]
+Type = Gameshark
+Activation = EndFrame
+801874D4 0000
+
+[P1 air deathblow]
+Type = Gameshark
+Activation = EndFrame
+8018727E 0090
+
+[P2 air deathblow]
+Type = Gameshark
+Activation = EndFrame
+80187546 0090
+

@@ -1,0 +1,43 @@
+; CHTDB: ; [ Disney/Pixar Toy Story 2: Buzz l'Eclair Ã  la Rescousse! (France) {SLES-02405} ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800B2612 0004
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800B260E 0010
+
+[Have 99 coins]
+Type = Gameshark
+Activation = EndFrame
+800B2616 0063
+
+[Infinite Disk launcher ammo]
+Type = Gameshark
+Activation = EndFrame
+800A19B4 0008
+
+[Moon Jump]
+Type = Gameshark
+Activation = EndFrame
+F4048000 00FF4000
+06000224 8C0002A6
+8E000286 00000000
+FFFFFFFF FFFFFFFF
+0030000C FFFFFFFF
+9000C000 27BDFFE8
+9000C004 AFA80010
+9000C008 3C08800A
+9000C00C 910841CB
+9000C014 00084027
+9000C018 31080040
+9000C01C 39080040
+9000C020 11000002
+9000C028 8602008E
+9000C030 8FA80010
+9000C034 27BD0018
+9000C038 03E00008
+

@@ -1,0 +1,37 @@
+; CHTDB: ; [ Bass Landing (USA) (1999) (Agetec) {SLUS-00873} <bassland> ]
+
+[Max Caught Fish Weight]
+Type = Gameshark
+Activation = EndFrame
+800B1464 B18D
+800B0E00 B18D
+
+[Max Caught Fish Length]
+Type = Gameshark
+Activation = EndFrame
+800AF618 6428
+800B0E02 6428
+
+[Always Catch Fish on First Throw (With this cheat, use the max weight and length cheats to give the fish stats.)]
+Type = Gameshark
+Activation = EndFrame
+800C0870 0004
+800C0874 0014
+800C08AC 0500
+
+[Always Catch Fish]
+Type = Gameshark
+Activation = EndFrame
+A6079414 00010004
+
+[Unlock All Locations]
+Type = Gameshark
+Activation = EndFrame
+80078A5C FFFF
+
+[Unlock All Lures]
+Type = Gameshark
+Activation = EndFrame
+50002402 0000
+80078930 FFFF
+

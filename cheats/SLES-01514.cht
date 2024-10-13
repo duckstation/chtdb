@@ -1,0 +1,115 @@
+; CHTDB: ; [ Silent Hill (Euro) (1999) (Konami Digital Entertainment) {SLES-01514, SLES-01514 - P} <silenthe> ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800B96AE 0006
+
+[Infinite Ammo & No Reloads]
+Type = Gameshark
+Activation = EndFrame
+800B95F8 0063
+
+[Have All Weapons]
+Type = Gameshark
+Activation = EndFrame
+800BC098 0180
+800BC09C 0181
+800BC0A4 0184
+800BC0A8 0185
+800BC0B0 0187
+800BC0B4 FFA0
+800BC0B8 FFA1
+800BC0C0 FFA3
+800BC0BC FFA2
+
+[Slide & Glide Mode]
+Type = Gameshark
+Activation = EndFrame
+800B9722 3800
+
+[Have Map]
+Type = Gameshark
+Activation = EndFrame
+300BC188 0002
+
+[Map Complete]
+Type = Gameshark
+Activation = EndFrame
+50000402 FFFF
+800BC1F8 0000
+
+[Flassh light Always on]
+Type = Gameshark
+Activation = EndFrame
+300BB94D 0001
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+8008BEA2 1000
+
+[Infinite Health (ASM)]
+Type = Gameshark
+Activation = EndFrame
+8007CB5E 2400
+
+[Infinite Ammo (ASM)]
+Type = Gameshark
+Activation = EndFrame
+80074A6E 2400
+
+[Total Time = 00.00]
+Type = Gameshark
+Activation = EndFrame
+900BC274 00000000
+
+[Saves = 0]
+Type = Gameshark
+Activation = EndFrame
+800BC0CA 0000
+
+[Have All Maps]
+Type = Gameshark
+Activation = EndFrame
+800BC188 FFFE
+300BC18A 00FF
+50006201 0000
+300BC1F8 00FF
+
+[Perfect Game Results]
+Type = Gameshark
+Activation = EndFrame
+800BC260 00CC
+50000702 0000
+800BC288 0000
+300BC29F 0000
+
+[Start New Game at Cafe (skip chasing Cheryl down the alley intro part)]
+Type = Gameshark
+Activation = EndFrame
+900BC18C FFFFFFFF
+
+[Language Option Always Available]
+Type = Gameshark
+Activation = EndFrame
+801E7698 0001
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A70C65D0 10000C00
+A70C65E0 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A70C65D0 10000900
+A70C65E0 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A70C65D0 10000400
+A70C65E0 10000400
+

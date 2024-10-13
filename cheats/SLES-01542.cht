@@ -1,0 +1,66 @@
+; CHTDB: ; [ TOCA 2 Touring Cars (Europe) {SLES-01542} ]
+
+[Infinite Checkpoint time (Press Select & L1 & R1) ,Press after race has started.]
+Type = Gameshark
+Activation = EndFrame
+D00E014E F3FE
+8008F9D2 1000
+
+[Stopwatch frozen (Press Select & L2 & R2) .Press after race has started.]
+Type = Gameshark
+Activation = EndFrame
+D00E014E FCFE
+8009CFAA 1000
+
+[Have all bonus tracks]
+Type = Gameshark
+Activation = EndFrame
+90010160 FFFFFFFF
+
+[Always good grip]
+Type = Gameshark
+Activation = EndFrame
+A60541A2 A046A040
+
+[All bonus tracks]
+Type = Gameshark
+Activation = EndFrame
+3001016D 0001
+
+[All cars]
+Type = Gameshark
+Activation = EndFrame
+3001016E 0001
+
+[Championship disqualification OFF]
+Type = Gameshark
+Activation = EndFrame
+3001016F 0001
+
+[Lap Bisect (Press Select & Up)]
+Type = Gameshark
+Activation = EndFrame
+D00E014E FFEE
+80029558 0002
+
+[Lap Default (Press Select & Down)]
+Type = Gameshark
+Activation = EndFrame
+D00E014E FFBE
+80029558 0001
+
+[Support team mode Always first]
+Type = Gameshark
+Activation = EndFrame
+800E77B4 000F
+
+[Support team mode Lots of points]
+Type = Gameshark
+Activation = EndFrame
+800DB6A0 0FFF
+
+[Drive Anywhere]
+Type = Gameshark
+Activation = EndFrame
+A7095E92 10401000
+

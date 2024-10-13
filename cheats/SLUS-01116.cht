@@ -1,0 +1,27 @@
+; CHTDB: ; [ Nickelodeon Rugrats in Paris - The Movie (USA) (2000) (THQ) {SLUS-01116} <rugparis> ]
+
+[Max Gold Tickets]
+Type = Gameshark
+Activation = EndFrame
+8008591C 03E7
+
+[Max Red Tickets]
+Type = Gameshark
+Activation = EndFrame
+8008591A 03E7
+
+[Have All Prizes]
+Type = Gameshark
+Activation = EndFrame
+80085910 1FFF
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80085394 0013
+
+[Infinite Sleep Chucky Chan]
+Type = Gameshark
+Activation = EndFrame
+80077BC8 0005
+

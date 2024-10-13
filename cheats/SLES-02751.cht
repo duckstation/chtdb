@@ -1,0 +1,88 @@
+; CHTDB: ; [ Nightmare Creatures II (Europe) {SLES-02751} ]
+
+[Level select]
+Type = Gameshark
+Activation = EndFrame
+300BA034 0001
+
+[Enable cheatmenu (Press Select)]
+Type = Gameshark
+Activation = EndFrame
+D00AB4FE FFFE
+800AC300 0209
+D00AB4FE FFFE
+300B9FB4 001F
+D00AB4FE FFFE
+50000510 0000
+800AC148 0001
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+A6072A10 01480000
+
+[Infinite Oxygen]
+Type = Gameshark
+Activation = EndFrame
+A6066328 04EC0000
+
+[Have pistol]
+Type = Gameshark
+Activation = EndFrame
+300AB55C 0001
+
+[Have Hellfire]
+Type = Gameshark
+Activation = EndFrame
+300AB562 0001
+
+[Have Bloodstarving Ghost]
+Type = Gameshark
+Activation = EndFrame
+300AB564 0001
+
+[Have poison]
+Type = Gameshark
+Activation = EndFrame
+300AB565 0001
+
+[Have Crown of pricks]
+Type = Gameshark
+Activation = EndFrame
+300AB566 0001
+
+[Have small silver key]
+Type = Gameshark
+Activation = EndFrame
+300AB56A 0001
+
+[Have silver key]
+Type = Gameshark
+Activation = EndFrame
+300AB568 0001
+
+[Have silver key 2]
+Type = Gameshark
+Activation = EndFrame
+300AB569 0001
+
+[Have silver key 3]
+Type = Gameshark
+Activation = EndFrame
+300AB56E 0001
+
+[Have bunch of keys]
+Type = Gameshark
+Activation = EndFrame
+300AB56B 0001
+
+[Have dynamite]
+Type = Gameshark
+Activation = EndFrame
+300AB56C 0001
+
+[Have clippers]
+Type = Gameshark
+Activation = EndFrame
+300AB56D 0001
+

@@ -1,0 +1,26 @@
+; CHTDB: ; [ Batman - Gotham City Racer (USA) (2001) (Ubi Soft Entertainment Software) {SLUS-01141} <gothamrc> ]
+
+[No Wall Damage]
+Type = Gameshark
+Activation = EndFrame
+D0044274 00F8
+80044276 2400
+
+[Infinite Turbo]
+Type = Gameshark
+Activation = EndFrame
+D00473D0 0190
+800473D2 2400
+
+[Stop Timer]
+Type = Gameshark
+Activation = EndFrame
+D0042ABC 00D0
+80042ABE 2400
+
+[Unlock All Levels]
+Description = You have to enter a game then exit. Then all the levels will be unlocked
+Type = Gameshark
+Activation = EndFrame
+80066236 0033
+

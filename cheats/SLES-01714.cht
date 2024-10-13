@@ -1,0 +1,63 @@
+; CHTDB: ; [ Grand Theft Auto: Mission Pack #1: London 1969 (Europe) {SLES-01714} ]
+
+[5 Million Points Score]
+Type = Gameshark
+Activation = EndFrame
+A602BF1C 00004FFF
+A602BF1E 0000004C
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8002C072 0004
+
+[Infinite Pistol Ammo]
+Type = Gameshark
+Activation = EndFrame
+3002C07D 0063
+
+[Infinite Machine Gun Ammo]
+Type = Gameshark
+Activation = EndFrame
+3002C07E 0063
+
+[Infinite Rocket Ammo]
+Type = Gameshark
+Activation = EndFrame
+3002C07F 0063
+
+[Infinite Flame Thrower Fuel]
+Type = Gameshark
+Activation = EndFrame
+3002C080 0063
+
+[Unlock Mods & Sods Level]
+Type = Gameshark
+Activation = EndFrame
+80026848 0001
+
+[Unlock Chelsea Smile Level]
+Type = Gameshark
+Activation = EndFrame
+8002684C 0001
+
+[Unlock Dead Certainty Level]
+Type = Gameshark
+Activation = EndFrame
+80026850 0001
+
+[Max Bonus Multiplier]
+Type = Gameshark
+Activation = EndFrame
+8002C06E 0063
+
+[Have Get Out Of Jail Free Card]
+Type = Gameshark
+Activation = EndFrame
+8002C08A 0001
+
+[No Cops]
+Type = Gameshark
+Activation = EndFrame
+8002BF08 0000
+

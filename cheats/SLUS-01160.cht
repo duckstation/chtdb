@@ -1,0 +1,30 @@
+; CHTDB: ; [ Transformers - Beast Wars Transmetals (USA) (2000) (BAM! Entertainment) {SLUS-01160} <bwtmetal> ]
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800D9B1A 00A8
+
+[P1 Quick Win]
+Type = Gameshark
+Activation = EndFrame
+800D981A 0000
+
+[P1 Only Needs 1 Win]
+Type = Gameshark
+Activation = EndFrame
+E00D9B3D 0000
+300D9B3D 0001
+
+[Unlock All Movies]
+Type = Gameshark
+Activation = EndFrame
+800D9924 FFFF
+800D9928 FFFF
+
+[Unlock All CG]
+Type = Gameshark
+Activation = EndFrame
+50000F02 0000
+800D992A 0103
+

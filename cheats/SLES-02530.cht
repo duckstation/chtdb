@@ -1,0 +1,61 @@
+; CHTDB: ; [ Resident Evil 3: Nemesis (France) {SLES-02530} ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800CEA50 00C8
+
+[All Maps]
+Type = Gameshark
+Activation = EndFrame
+300D3EE7 00FE
+300D3EEB 00FE
+
+[Machine Gun 100%]
+Type = Gameshark
+Activation = EndFrame
+800D3EF4 640F
+
+[Have 10 Slots In Hard Mode]
+Type = Gameshark
+Activation = EndFrame
+800D4016 000A
+
+[Rapid Fire Press R1+R2+X]
+Type = Gameshark
+Activation = EndFrame
+D00CE5E8 004A
+800CEA44 1E02
+
+[Hyper Mode]
+Type = Gameshark
+Activation = EndFrame
+800D6304 0002
+
+[The Real Have All Files]
+Type = Gameshark
+Activation = EndFrame
+900D3EE4 FFFFFFFF
+
+[Start With All Secrets]
+Type = Gameshark
+Activation = EndFrame
+800D3CEA FFE0
+
+[Auto Dodge Zombies (Hold L3)]
+Type = Gameshark
+Activation = EndFrame
+D5000000 00000200
+F4104BD0 00AA7000
+05004234 040062AE
+AAAAAAAA AAAAAAAA
+010DAAAA AAAAAAAA
+AAAAAAAA AAAAAAAA
+00000000 0000FFFF
+D6000000 00000200
+F4104BD0 00AA7000
+010D4234 040062AE
+AAAAAAAA AAAAAAAA
+0500AAAA AAAAAAAA
+AAAAAAAA AAAAAAAA
+

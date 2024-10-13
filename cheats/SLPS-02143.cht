@@ -1,0 +1,81 @@
+; CHTDB: ; [ Mirano no Arbeit Collection (Japan) {SLPS-02143} ]
+
+[Money Credits = 999991]
+Type = Gameshark
+Activation = EndFrame
+900773A8 000F4237
+
+[Milking Cows Job completed]
+Type = Gameshark
+Activation = EndFrame
+800861C4 0000
+
+[Job Adventure Timer Codes - Cooking Job]
+Type = Gameshark
+Activation = EndFrame
+800CC334 0005
+800CC684 0155
+800CC92C 0005
+
+[Job Adventure Timer Codes - Milking Cows Job]
+Type = Gameshark
+Activation = EndFrame
+800861D4 FCF0
+800861C0 0005
+800CCC2C 0005
+
+[Job Adventure Timer Codes - Washing Dishes Job]
+Type = Gameshark
+Activation = EndFrame
+800CC32C 0005
+800CC92C 0005
+800CC67C 0151
+
+[Job Adventure Timer Codes - Cashier At Burger Shop]
+Type = Gameshark
+Activation = EndFrame
+8008CC9C 0001
+800CF12C 0001
+800D4568 0221
+
+[Property 999,999 P]
+Type = Gameshark
+Activation = EndFrame
+900773BC 000F423F
+
+[Genki 99]
+Type = Gameshark
+Activation = EndFrame
+3007739D 0063
+
+[Knowledge 99]
+Type = Gameshark
+Activation = EndFrame
+3007739E 0063
+
+[Mind 99]
+Type = Gameshark
+Activation = EndFrame
+3007739F 0063
+
+[Height 999cm]
+Type = Gameshark
+Activation = EndFrame
+800773A0 270F
+
+[Weight 99kg]
+Type = Gameshark
+Activation = EndFrame
+800773A2 03E7
+
+[Catalog shopping all free]
+Type = Gameshark
+Activation = EndFrame
+A60885BE AD42AD40
+
+[255 kinds of items]
+Type = Gameshark
+Activation = EndFrame
+5000FF10 0001
+80077484 0000
+

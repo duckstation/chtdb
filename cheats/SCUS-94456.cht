@@ -1,0 +1,92 @@
+; CHTDB: ; [ Disney's Tarzan (USA, v1.0) (1999) (Sony Computer Entertainment America) {SCUS-94456} <tarzana> ]
+
+[Infinite Coins]
+Type = Gameshark
+Activation = EndFrame
+80059D6C 03E7
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+9008E03C 24020160
+
+[Max Health]
+Type = Gameshark
+Activation = EndFrame
+9008D10C 24050160
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80093572 2400
+
+[Have All Sketch Pieces/Tarzan Letters]
+Type = Gameshark
+Activation = EndFrame
+80059D3C FFFF
+
+[Always Have Weapon]
+Type = Gameshark
+Activation = EndFrame
+800A5218 0010
+
+[Infinite Time Bonus Level]
+Type = Gameshark
+Activation = EndFrame
+800A3470 1910
+
+[1-Hit Kill with the Knife]
+Type = Gameshark
+Activation = EndFrame
+A70985A0 FF60F7FF
+
+[1-Hit Kill with the Fruits]
+Type = Gameshark
+Activation = EndFrame
+A70987A4 FF80F7FF
+
+[1-Hit Kill Sabor]
+Type = Gameshark
+Activation = EndFrame
+A70D5D06 AC62AC60
+
+[Hit Sabor Anywhere]
+Type = Gameshark
+Activation = EndFrame
+A70DC8F2 10402400
+
+[Have All Levels/Movies]
+Type = Gameshark
+Activation = EndFrame
+50000D02 0000
+30059D73 00FF
+
+[Have All Levels 100% Complete]
+Type = Gameshark
+Activation = EndFrame
+50000D02 0000
+30059D74 0064
+
+[Infinite Purple Fruit (With these, the amounts must be zero when the code is to be activated)]
+Type = Gameshark
+Activation = EndFrame
+D005B150 0001
+800A567A 0063
+
+[Infinite Red Fruit (With these, the amounts must be zero when the code is to be activated)]
+Type = Gameshark
+Activation = EndFrame
+D005B150 0001
+800A5678 0063
+
+[Infinite Blue Fruit (With these, the amounts must be zero when the code is to be activated)]
+Type = Gameshark
+Activation = EndFrame
+D005B150 0001
+800A5676 0063
+
+[Infinite Fruit On Pick Up]
+Type = Gameshark
+Activation = EndFrame
+9009781C 24420001
+

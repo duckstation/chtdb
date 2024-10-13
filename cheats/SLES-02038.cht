@@ -1,0 +1,27 @@
+; CHTDB: ; [ Star Wars: Episodio I: La Amenaza Fantasma (Spain) {SLES-02038} ]
+
+[Infinite Health Obi Wan]
+Type = Gameshark
+Activation = EndFrame
+800B8AA0 0064
+
+[Infinite Ammo Gun 250]
+Type = Gameshark
+Activation = EndFrame
+800B8AB8 00FA
+
+[Infinite Health Qui-Gon]
+Type = Gameshark
+Activation = EndFrame
+800B8AEC 0064
+
+[Infinite Health Captain Panaka]
+Type = Gameshark
+Activation = EndFrame
+800B8A90 0064
+
+[Infinite Health Amidala]
+Type = Gameshark
+Activation = EndFrame
+800B8B84 0064
+

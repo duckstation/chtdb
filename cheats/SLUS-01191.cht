@@ -1,0 +1,22 @@
+; CHTDB: ; [ Tom and Jerry in House Trap (USA) (2000) (NewKidCo) {SLUS-01191} <tomjerry> ]
+
+[Infinite Health-Jerry]
+Type = Gameshark
+Activation = EndFrame
+8006BAFC 03E8
+
+[Quick Kill-Tom]
+Type = Gameshark
+Activation = EndFrame
+8006BF24 0000
+
+[Have All Levels]
+Type = Gameshark
+Activation = EndFrame
+80032610 000E
+
+[Cheat Mode All levels will be unlocked, you can modify the player health (pause menu), and warp to any level (pause menu).]
+Type = Gameshark
+Activation = EndFrame
+300325FC 0001
+

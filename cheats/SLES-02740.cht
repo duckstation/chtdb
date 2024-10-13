@@ -1,0 +1,31 @@
+; CHTDB: ; [ Dave Mirra Freestyle BMX (Europe) {SLES-02740} ]
+
+[Timer Frozen (Press L1 & L2)]
+Type = Gameshark
+Activation = EndFrame
+D00BB2BA FAFF
+800D1D70 0000
+
+[Each trick is worth 10.000 points]
+Type = Gameshark
+Activation = EndFrame
+D00D5FFE 0043
+800D5FFC 2710
+A60D5FFE 00432442
+
+[All cheats unlocked]
+Type = Gameshark
+Activation = EndFrame
+300B5C00 00FF
+
+[All characters unlocked]
+Type = Gameshark
+Activation = EndFrame
+300B5C07 000C
+
+[Get high ratings at medal-tracks (Press Select)]
+Type = Gameshark
+Activation = EndFrame
+D00BB2BA FFFE
+8008AA50 0C02
+

@@ -1,0 +1,65 @@
+; CHTDB: ; [ Gundam Battle Assault (USA) (2000) (Bandai America) {SLUS-01226} <gundbass> ]
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80157F3A 0002
+80157F3C 0000
+
+[P1 Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+80157F4A 01F4
+
+[P1 One Hit Kill]
+Type = Gameshark
+Activation = EndFrame
+80157F3A 0000
+80157F3C 7000
+
+[P2 One Hit Kill]
+Type = Gameshark
+Activation = EndFrame
+80185ED6 0000
+80185ED8 7000
+
+[Unlock Ball]
+Type = Gameshark
+Activation = EndFrame
+800E1410 0000
+
+[Unlock Big Zam]
+Type = Gameshark
+Activation = EndFrame
+800E13DC 0000
+
+[Unlock Char's Zaku]
+Type = Gameshark
+Activation = EndFrame
+800E1414 0000
+
+[Unlock Gundam]
+Type = Gameshark
+Activation = EndFrame
+800E13F0 0000
+
+[Unlock Hydra]
+Type = Gameshark
+Activation = EndFrame
+800E140C 0000
+
+[Unlock Neueziel]
+Type = Gameshark
+Activation = EndFrame
+800E13E4 0000
+
+[Unlock New Gundam]
+Type = Gameshark
+Activation = EndFrame
+800E13E8 0000
+
+[Unlock Psycho]
+Type = Gameshark
+Activation = EndFrame
+800E13EC 0000
+

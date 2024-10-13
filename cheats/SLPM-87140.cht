@@ -1,0 +1,12 @@
+; CHTDB: ; [ Simple 1500 Series Vol.99 - The Kendo - Ken no Hanamichi (Jpn) (2002) (D3 Publisher) {SLPM-87140} <ss099knd> ]
+
+[P1 score = 2]
+Type = Gameshark
+Activation = EndFrame
+80125398 0002
+
+[P2/CPU always score 0]
+Type = Gameshark
+Activation = EndFrame
+80125399 0000
+

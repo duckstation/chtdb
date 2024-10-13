@@ -1,0 +1,69 @@
+; CHTDB: ; [ White Diamond (Jpn) (1999) (Escot) {SLPS-02352} <whitedmd> ]
+
+[99999 G]
+Type = Gameshark
+Activation = EndFrame
+900DE194 0001869F
+
+[Infinite + Max HP + mp]
+Type = Gameshark
+Activation = EndFrame
+800DE138 03E7
+800DE13C 03E7
+800DE140 03E7
+800DE144 03E7
+
+[Level 99]
+Type = Gameshark
+Activation = EndFrame
+800DE158 0063
+800DE15C 0063
+800DE160 0063
+800DE164 0063
+
+[All Weapons / Jewel]
+Type = Gameshark
+Activation = EndFrame
+800DE1EE FFFF
+900DE1F0 FFFFFFFF
+
+[Favorability Max Artina]
+Type = Gameshark
+Activation = EndFrame
+800DE1AC FFFF
+
+[Favorability Max Elle]
+Type = Gameshark
+Activation = EndFrame
+800DE1AE FFFF
+
+[Favorability Max Lyra]
+Type = Gameshark
+Activation = EndFrame
+800DE1B0 FFFF
+
+[Favorability Max The main dish]
+Type = Gameshark
+Activation = EndFrame
+800DE1B2 FFFF
+
+[Favorability Max Miu]
+Type = Gameshark
+Activation = EndFrame
+800DE1B4 FFFF
+
+[Favorability Max Claire]
+Type = Gameshark
+Activation = EndFrame
+800DE1B6 FFFF
+
+[Favorability Max Mel]
+Type = Gameshark
+Activation = EndFrame
+800DE1B8 FFFF
+
+[Favorability Max The Risutin]
+Type = Gameshark
+Activation = EndFrame
+800DE1BA FFFF
+

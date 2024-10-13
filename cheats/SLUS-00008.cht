@@ -1,0 +1,12 @@
+; CHTDB: ; [ CyberSled (USA) (1995) (Namco Hometek) {SLUS-00008} <cybsled> ]
+
+[Infinite Missiles]
+Type = Gameshark
+Activation = EndFrame
+8014A648 0005
+
+[Infinite Shields]
+Type = Gameshark
+Activation = EndFrame
+8014A662 1000
+

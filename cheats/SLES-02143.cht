@@ -1,0 +1,26 @@
+; CHTDB: ; [ Bundesliga Stars 2000 (Germany) {SLES-02143} ]
+
+[Heimmannschaft Hat 99 Tore]
+Type = Gameshark
+Activation = EndFrame
+D0030BD8 0000
+30030BD8 0063
+
+[Gastmannschaft Hat 0 Tore]
+Type = Gameshark
+Activation = EndFrame
+D0030BDC 0001
+30030BDC 0000
+
+[Heimmannschaft Hat 0 Tore]
+Type = Gameshark
+Activation = EndFrame
+D0030BD8 0001
+30030BD8 0000
+
+[Gastmannschaft Hat 99 Tore]
+Type = Gameshark
+Activation = EndFrame
+D0030BDC 0000
+30030BDC 0063
+

@@ -1,0 +1,12 @@
+; CHTDB: ; [ Strike Force Hydra (Europe) {SLES-04046} ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+3003D7C5 0009
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8003E3A2 000A
+

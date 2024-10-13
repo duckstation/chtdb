@@ -1,0 +1,278 @@
+; CHTDB: ; [ Pitfall 3D - Beyond the Jungle (USA) (1998) (Activision) {SLUS-00254} <pitfl3d> ]
+
+[Arcade Mode\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8007C348 0005
+
+[Arcade Mode\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8007C388 00FF
+
+[Level 1\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8007C348 0005
+
+[Level 1\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8007C388 00FF
+
+[Level 2\Have 10 Gold Bars]
+Type = Gameshark
+Activation = EndFrame
+8007D308 000A
+
+[Level 2\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8007D208 0005
+
+[Level 2\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8007D248 00FF
+
+[Level 2\Infinite Flash Bombs]
+Type = Gameshark
+Activation = EndFrame
+800D315C 0009
+
+[Level 2\Infinite Time Bombs]
+Type = Gameshark
+Activation = EndFrame
+800D3160 0009
+
+[Level 3\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80082530 0005
+
+[Level 3\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80082570 00FF
+
+[Level 3\Infinite Time Bomb]
+Type = Gameshark
+Activation = EndFrame
+800DA7C4 0009
+
+[Level 3\Infinite Lightning]
+Type = Gameshark
+Activation = EndFrame
+800DA7C0 0009
+
+[Level 3\Have 10 Gold Bars]
+Type = Gameshark
+Activation = EndFrame
+8008262C 000A
+
+[Level 4\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80080E24 0005
+
+[Level 4\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80080E64 00FF
+
+[Level 4\Infinite Lightning]
+Type = Gameshark
+Activation = EndFrame
+800F1208 0009
+
+[Level 4\Infinite It]
+Type = Gameshark
+Activation = EndFrame
+800F120C 0009
+
+[Level 4\Have 10 Gold Bars]
+Type = Gameshark
+Activation = EndFrame
+80080F24 000A
+
+[Level 4\Super Jump]
+Type = Gameshark
+Activation = EndFrame
+D0081384 0040
+80080D64 0005
+
+[Gladiator Boss Level\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8005A500 0005
+
+[Gladiator Boss Level\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8005A540 00FF
+
+[Level 5\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8008BCE4 0005
+
+[Level 5\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8008BD24 00FF
+
+[Level 5\Infinite Lava]
+Type = Gameshark
+Activation = EndFrame
+800E288C 0009
+
+[Level 5\Infinite Power Boost]
+Type = Gameshark
+Activation = EndFrame
+800E2890 0009
+
+[Level 5\Have 10 Gold Bars]
+Type = Gameshark
+Activation = EndFrame
+8008BDD8 000A
+
+[Level 6\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80081520 0005
+
+[Level 6\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80081560 00FF
+
+[Level 7\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80083960 00FF
+
+[Level 7\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80083920 0005
+
+[Level 7\Have 10 Gold Bars]
+Type = Gameshark
+Activation = EndFrame
+80083A1C 000A
+
+[Boss 2\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80067B98 0008
+
+[Boss 2\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80067B94 0040
+
+[Level 8\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8007DC48 0005
+
+[Level 8\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8007DC88 00FF
+
+[Level 8\Infinite Time Bombs]
+Type = Gameshark
+Activation = EndFrame
+800D4250 0009
+
+[Level 8\Infinite Boomerangs]
+Type = Gameshark
+Activation = EndFrame
+800D4254 0009
+
+[Level 8\Have 10 Gold Bars]
+Type = Gameshark
+Activation = EndFrame
+8007DD4C 000A
+
+[Level 9\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8007DD58 0005
+
+[Level 9\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8007DD94 00FF
+
+[Level 9\Infinite Boomerangs]
+Type = Gameshark
+Activation = EndFrame
+800D7884 0009
+
+[Level 9\Infinite Power Boosts]
+Type = Gameshark
+Activation = EndFrame
+800D7888 0009
+
+[Level 9\Have 10 Gold Bars]
+Type = Gameshark
+Activation = EndFrame
+8007DE50 000A
+
+[Level 10\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8007986C 0005
+
+[Level 10\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800798AC 00FF
+
+[Level 10\Have 10 Gold Bars]
+Type = Gameshark
+Activation = EndFrame
+80079968 000A
+
+[Level 11\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80077A50 0005
+
+[Level 11\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80077A90 00FF
+
+[Level 11\Have 10 Gold Bars]
+Type = Gameshark
+Activation = EndFrame
+80077B50 000A
+
+[Level 11\Infinite Lightning]
+Type = Gameshark
+Activation = EndFrame
+800D0040 0009
+
+[Scourge Boss\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8005C9D0 0005
+
+[Scourge Boss\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8005C9CC 0040
+
+[Original 2600 game\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+A6030FA8 00010002
+
+[Original 2600 game\Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+A6030FB0 00130014
+

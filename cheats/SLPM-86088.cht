@@ -1,0 +1,42 @@
+; CHTDB: ; [ Astronoka (Jpn) (1998) (Enix) {SLPM-86088~SLPM-86089} <astronok> ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+90166F00 270F270F
+
+[Power-Up Pete]
+Type = Gameshark
+Activation = EndFrame
+30166F0A 0000
+
+[Power-Up Pete Early]
+Type = Gameshark
+Activation = EndFrame
+30166F0A 0000
+
+[Power-Up Second Pete]
+Type = Gameshark
+Activation = EndFrame
+30166F0A 0001
+
+[Power-Up Third Pete]
+Type = Gameshark
+Activation = EndFrame
+30166F0A 0002
+
+[Power-Up Pete Super]
+Type = Gameshark
+Activation = EndFrame
+30166F0A 0003
+
+[Power-Up Pete Final]
+Type = Gameshark
+Activation = EndFrame
+30166F0A 0004
+
+[Go to the city Sombrero]
+Type = Gameshark
+Activation = EndFrame
+30166F0C 0003
+

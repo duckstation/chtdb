@@ -1,0 +1,13 @@
+; CHTDB: ; [ Love Para: Lovely Tokyo Para-Para Musume (Japan) (Fukyuuban 1500) {SLPS-03097} ]
+
+[Max Chips]
+Type = Gameshark
+Activation = EndFrame
+901DBF38 3B9AC9FF
+
+[All Stages Open]
+Type = Gameshark
+Activation = EndFrame
+50000802 0000
+801C24D8 2222
+

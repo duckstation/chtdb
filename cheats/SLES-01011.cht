@@ -1,0 +1,110 @@
+; CHTDB: ; [ Rampage: World Tour (Europe) {SLES-01011} ]
+
+[George-Codes\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800D6F86 0064
+
+[George-Codes\Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800D706E 0239
+
+[George-Codes\High Score]
+Type = Gameshark
+Activation = EndFrame
+900D6FA4 00CF0FFF
+
+[George-Codes\More Power-Mode]
+Type = Gameshark
+Activation = EndFrame
+800D7070 0181
+800D70B8 0000
+
+[George-Codes\Damage Always 100%]
+Type = Gameshark
+Activation = EndFrame
+800DC474 0064
+
+[Scoring Screen\Property Damage]
+Type = Gameshark
+Activation = EndFrame
+800BB960 00FF
+
+[Scoring Screen\Max People]
+Type = Gameshark
+Activation = EndFrame
+800D7332 00FF
+
+[Scoring Screen\Max Food]
+Type = Gameshark
+Activation = EndFrame
+800D7334 00FF
+
+[Scoring Screen\Max Vehicles]
+Type = Gameshark
+Activation = EndFrame
+800D7336 00FF
+
+[Scoring Screen\Max Buddy Bashing]
+Type = Gameshark
+Activation = EndFrame
+800D733A 00FF
+
+[Lizzy-Codes\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800D7152 0064
+
+[Lizzy-Codes\High Score]
+Type = Gameshark
+Activation = EndFrame
+900D7170 00CF0FFF
+
+[Lizzy-Codes\Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800D723A 0239
+
+[Lizzy-Codes\Super Strength]
+Type = Gameshark
+Activation = EndFrame
+800D723C 0181
+800D7284 0000
+
+[Lizzy-Codes\Damage Always 100%]
+Type = Gameshark
+Activation = EndFrame
+800DC640 0064
+
+[Scoring Screen\Max Property Damage]
+Type = Gameshark
+Activation = EndFrame
+800BBCF8 00FF
+
+[Ralph-Codes\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800D731E 0063
+
+[Ralph-Codes\High Score]
+Type = Gameshark
+Activation = EndFrame
+900D733C 00CF0FFF
+
+[Ralph-Codes\Invinciblity]
+Type = Gameshark
+Activation = EndFrame
+800D7406 0239
+
+[Ralph-Codes\More Power-Mode]
+Type = Gameshark
+Activation = EndFrame
+800D7408 0181
+800D7450 0000
+
+[Ralph-Codes\Damage Always 100%]
+Type = Gameshark
+Activation = EndFrame
+800DC80C 0064
+

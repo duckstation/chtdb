@@ -1,0 +1,83 @@
+; CHTDB: ; [ Tales of Eternia (Japan) {SLPS-03050 | SLPS-03051 | SLPS-03052} ]
+
+[Max HP - Rid]
+Type = Gameshark
+Activation = EndFrame
+8013FCEA 270F
+8013FCEC 270F
+
+[LV Max Rid]
+Type = Gameshark
+Activation = EndFrame
+8013FCB6 03E7
+
+[Max HP - Farah]
+Type = Gameshark
+Activation = EndFrame
+9013FDB8 270F270F
+
+[Max HP - Meredy]
+Type = Gameshark
+Activation = EndFrame
+9013FF58 270F270F
+
+[Infinite HP in Combat HP 1 person]
+Type = Gameshark
+Activation = EndFrame
+8010B8C4 270F
+
+[Infinite HP in Combat HP 2 person]
+Type = Gameshark
+Activation = EndFrame
+8010BAC4 270F
+
+[Infinite HP in Combat HP 3 person]
+Type = Gameshark
+Activation = EndFrame
+8010BCC4 270F
+
+[Infinite HP in Combat HP 4 person]
+Type = Gameshark
+Activation = EndFrame
+8010BEC4 270F
+
+[Gold 99999]
+Type = Gameshark
+Activation = EndFrame
+901405E0 0001869F
+
+[Time 00.00.00]
+Type = Gameshark
+Activation = EndFrame
+901405E4 00000000
+
+[No random battle]
+Type = Gameshark
+Activation = EndFrame
+80140852 0634
+
+[None Encounter]
+Type = Gameshark
+Activation = EndFrame
+80140852 7FFF
+
+[All cooking items]
+Type = Gameshark
+Activation = EndFrame
+90140AAC FFFFFFFF
+80140AB0 000F
+
+[All Monster Picture Book]
+Type = Gameshark
+Activation = EndFrame
+D0119B80 0CF8
+80119B82 9040
+D0119B80 0CF8
+80119B88 001F
+D0119B80 0CF8
+80119B8A 2408
+D0119B80 0CF8
+80119B8C 0CF8
+D0119B80 0CF8
+80119B8E A048
+

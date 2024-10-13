@@ -1,0 +1,14 @@
+; CHTDB: ; [ Vigilante 8 (Japan) {SLPS-01703} ]
+
+[Invincibility / All Characters will be available]
+Type = Gameshark
+Activation = EndFrame
+80068040 9FFF
+
+[Hidden stage will be available for selection]
+Type = Gameshark
+Activation = EndFrame
+90068090 1F1F1F1F
+90068094 1F1F1F1F
+90068098 1F1F1F1F
+

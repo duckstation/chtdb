@@ -1,0 +1,22 @@
+; CHTDB: ; [ MLB 2005 (USA) (2004) (Sony Computer Entertainment America) {SCUS-94692} <mlb2k5> ]
+
+[Select Home Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+8001D495 0000
+
+[Select Home Team Score\99]
+Type = Gameshark
+Activation = EndFrame
+8001D495 0063
+
+[Select Away Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+8001D453 0000
+
+[Select Away Team Score\99]
+Type = Gameshark
+Activation = EndFrame
+8001D453 0063
+

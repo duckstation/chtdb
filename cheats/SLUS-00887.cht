@@ -1,0 +1,44 @@
+; CHTDB: ; [ Action Man - Operation Extreme (USA) (2000) (Hasbro Interactive) {SLUS-00887} <actionmn> ]
+
+[Have All Points And Unlock Everything]
+Type = Gameshark
+Activation = EndFrame
+50009002 0000
+800B3000 FFFF
+
+[City Streets\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8011724C 03E8
+;8011698C 03E8
+
+[City Streets\Easy to Kill Toxica]
+Type = Gameshark
+Activation = EndFrame
+A6116FF8 03E80001
+
+[Desert Base\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801C12FC 03E8
+
+[City Skies\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8010206E 03E8
+
+[Island Base\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801C0CF0 03E8
+
+[Ice Flow\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801338FA 03E8
+
+[Ice Base\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801C1570 03E8
+

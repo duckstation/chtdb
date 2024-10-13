@@ -1,0 +1,43 @@
+; CHTDB: ; [ Mr. Driller (USA) (2000) (Namco Hometek) {SLUS-01111} <mrdrillr> ]
+
+[Infinite Air]
+Type = Gameshark
+Activation = EndFrame
+801F0701 0249
+
+[Max Score]
+Type = Gameshark
+Activation = EndFrame
+801F06C8 FFFF
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8019A598 0003
+
+[Stop Timer]
+Type = Gameshark
+Activation = EndFrame
+800D2CFE 2400
+
+[Quick Win]
+Type = Gameshark
+Activation = EndFrame
+C219849C 0002
+801F069C 0000
+
+[Unlock All Levels]
+Type = Gameshark
+Activation = EndFrame
+901983E0 000FFFFF
+
+[All Levels Completed + Extra Outfit Unlocked]
+Type = Gameshark
+Activation = EndFrame
+90198458 000FFFFF
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+801F06C0 0000
+

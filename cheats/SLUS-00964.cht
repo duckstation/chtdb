@@ -1,0 +1,104 @@
+; CHTDB: ; [ Hot Wheels - Turbo Racing (USA) (1999) (Electronic Arts) {SLUS-00964} <hotwhltr> ]
+
+[Infinite Turbos]
+Type = Gameshark
+Activation = EndFrame
+30129840 0009
+
+[Add Turbos]
+Type = Gameshark
+Activation = EndFrame
+8003FD90 0001
+
+[Max Tournament Points]
+Type = Gameshark
+Activation = EndFrame
+801397C8 00FF
+
+[Max Points]
+Type = Gameshark
+Activation = EndFrame
+901295F0 000FFFFF
+
+[Start On Lap 4]
+Type = Gameshark
+Activation = EndFrame
+D01295AC 0000
+301295AC 0003
+
+[P1 Unlock All Cars + Cups]
+Type = Gameshark
+Activation = EndFrame
+901397B8 FFFFFFFF
+801397BC FFFF
+
+[P2 Unlock All Car + Cups]
+Type = Gameshark
+Activation = EndFrame
+90139878 FFFFFFFF
+8013987C FFFF
+
+[Unlock All Tracks]
+Type = Gameshark
+Activation = EndFrame
+801397C0 FFFF
+
+[Time Is Always 0.00.00 Press Select right before you cross the line to go into next lap and it will reset timer to 0.00.00]
+Type = Gameshark
+Activation = EndFrame
+D011B38A FFFE
+900D0E34 00000000
+
+[Car Is Invisible]
+Type = Gameshark
+Activation = EndFrame
+801298F0 FFFF
+
+[Crazy Whack Driving]
+Type = Gameshark
+Activation = EndFrame
+801292DA FFFF
+80129292 FFFF
+8012931A FFFF
+801293A2 FFFF
+
+[Have Towjam Car]
+Type = Gameshark
+Activation = EndFrame
+801397BC 0129
+
+[Activate Cheat Big Cars]
+Type = Gameshark
+Activation = EndFrame
+801397E0 0002
+
+[Activate Cheat Tiny Cars]
+Type = Gameshark
+Activation = EndFrame
+801397E0 0004
+
+[Activate Cheat Big Wheels]
+Type = Gameshark
+Activation = EndFrame
+801397E0 0020
+
+[Activate Cheat Shadow Car]
+Type = Gameshark
+Activation = EndFrame
+801397E0 0080
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A711A7DC 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A711A7DC 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A711A7DC 10000400
+

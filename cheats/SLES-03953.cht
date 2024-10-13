@@ -1,0 +1,24 @@
+; CHTDB: ; [ Truck Racing (Europe) {SLES-03953} ]
+
+[Freeze Time]
+Type = Gameshark
+Activation = EndFrame
+801E8780 0000
+
+[Start On Lap 2]
+Type = Gameshark
+Activation = EndFrame
+A61E85F0 00000002
+
+[End The Race - Press Select]
+Type = Gameshark
+Activation = EndFrame
+D01E84AC 0100
+801E85F0 0063
+
+[Speed Boost - Press x & Up]
+Type = Gameshark
+Activation = EndFrame
+D01E84AC 1040
+801E861C 0BB7
+

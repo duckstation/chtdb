@@ -1,0 +1,52 @@
+; CHTDB: ; [ Namco Museum Vol. 1 (Europe) {SCES-00243} ]
+
+[Bosconian\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80157514 0003
+
+[Galaga\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801A4144 0103
+
+[New Rally X\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800BEF60 0003
+
+[New Rally X\Infinite Fuel You must turn off to finish the level]
+Type = Gameshark
+Activation = EndFrame
+800BEF98 3C00
+
+[Pacman\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80117A88 0003
+
+[Pole Position\Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+8013196E 5A00
+
+[Rally X\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800BDED8 0003
+
+[Rally X\Infinite Time You must turn off to finish the level]
+Type = Gameshark
+Activation = EndFrame
+800BDF14 3C00
+
+[Toypop\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800FD518 0003
+
+[Toypop\Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800C5DE8 001A
+

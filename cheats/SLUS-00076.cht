@@ -1,0 +1,61 @@
+; CHTDB: ; [ Loaded (USA) (1995) (Interplay Productions) {SLUS-00076} <loaded> ]
+
+[Master Code]
+Type = Gameshark
+Activation = EndFrame
+D002A9A8 000D
+
+[P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800CDF42 001E
+
+[P1 Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+800CDF3E 03E8
+
+[P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+D004B138 0002
+800CDFCA 001E
+
+[P2 Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+D004B138 0002
+800CDFC6 03E8
+
+[Have All Keys]
+Type = Gameshark
+Activation = EndFrame
+80107AC4 000F
+
+[All pause menu cheats activated (press select after you start level 1)]
+Type = Gameshark
+Activation = EndFrame
+D00FC970 0100
+300A1484 003F
+
+[Level Select Cheat Activated (press select after you have started level 1 then quit)]
+Type = Gameshark
+Activation = EndFrame
+D00FC970 0100
+300A1486 0001
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A702CB16 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A702CB16 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A702CB16 10000400
+

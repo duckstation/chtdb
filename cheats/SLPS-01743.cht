@@ -1,0 +1,205 @@
+; CHTDB: ; [ True Love Story 2 (Japan) {SLPS-01743 | SLPS-01744 | SLPS-01745} ]
+
+[Home from school at the time of the conversation with the heroine, pounding heart up Press L2 button]
+Type = Gameshark
+Activation = EndFrame
+D016B6C0 0001
+8016B868 0064
+
+[Home from school at the time of the conversation with the heroine, palpitation gauge largest press R2 button]
+Type = Gameshark
+Activation = EndFrame
+D016B6C0 0002
+8016B86C 0064
+
+[Good friend degree maximum Morishita Akane]
+Type = Gameshark
+Activation = EndFrame
+8016BBCC 03E7
+
+[Longing maximum degree Morishita Akane]
+Type = Gameshark
+Activation = EndFrame
+8016C284 03E7
+
+[Good friend degree maximum Nanase Kasumi]
+Type = Gameshark
+Activation = EndFrame
+8016BB74 03E7
+
+[Longing maximum degree Nanase Kasumi#]
+Type = Gameshark
+Activation = EndFrame
+8016C1D4 03E7
+
+[Good friend degree maximum Hatano Aoi]
+Type = Gameshark
+Activation = EndFrame
+8016BB50 03E7
+
+[Longing maximum degree Hatano Aoi]
+Type = Gameshark
+Activation = EndFrame
+8016C16C 03E7
+
+[Good friend Sanae Miyama maximum degree]
+Type = Gameshark
+Activation = EndFrame
+8016BBDC 03E7
+
+[Longing maximum degree Sanae Miyama]
+Type = Gameshark
+Activation = EndFrame
+8016C290 03E7
+
+[Good friend degree maximum Sawada]
+Type = Gameshark
+Activation = EndFrame
+8016BBB4 03E7
+
+[Longing maximum degree Sawada]
+Type = Gameshark
+Activation = EndFrame
+8016C254 03E7
+
+[Good friend Yoko Okano maximum degree]
+Type = Gameshark
+Activation = EndFrame
+8016BB58 03E7
+
+[Longing maximum degree Yoko Okano]
+Type = Gameshark
+Activation = EndFrame
+8016C190 03E7
+
+[Good friend degree maximum Kosaka Maiko]
+Type = Gameshark
+Activation = EndFrame
+8016BBD8 03E7
+
+[Longing maximum degree Kosaka Maiko]
+Type = Gameshark
+Activation = EndFrame
+8016C28C 03E7
+
+[Good friend degree maximum Nakazato Kaori]
+Type = Gameshark
+Activation = EndFrame
+8016BB54 03E7
+
+[Longing maximum degree Nakazato Kaori]
+Type = Gameshark
+Activation = EndFrame
+8016C180 03E7
+
+[Good friend degree maximum Mizuki Ayumi]
+Type = Gameshark
+Activation = EndFrame
+8016BBD4 03E7
+
+[Longing maximum degree Mizuki Ayumi]
+Type = Gameshark
+Activation = EndFrame
+8016C288 03E7
+
+[Good friend degree maximum Kazama grove]
+Type = Gameshark
+Activation = EndFrame
+8016BB6C 03E7
+
+[Longing maximum degree Kazama grove]
+Type = Gameshark
+Activation = EndFrame
+8016C1C8 03E7
+
+[All IIllustrations in Album Morishita Akane]
+Type = Gameshark
+Activation = EndFrame
+901D1318 FFFFFFFF
+901D131C FFFFFFFF
+901D1320 FFFFFFFF
+801D1324 FFFF
+
+[All IIllustrations in Album Nanase Kasumi]
+Type = Gameshark
+Activation = EndFrame
+801D1326 FFFF
+901D1328 FFFFFFFF
+901D132C FFFFFFFF
+901D1330 FFFFFFFF
+801D1334 FFFF
+
+[All IIllustrations in Album Hatano AoI]
+Type = Gameshark
+Activation = EndFrame
+801D1336 FFFF
+901D1338 FFFFFFFF
+901D133C FFFFFFFF
+901D1340 FFFFFFFF
+
+[All IIllustrations in Album Sanae Miyama]
+Type = Gameshark
+Activation = EndFrame
+901D1344 FFFFFFFF
+901D1348 FFFFFFFF
+901D134C FFFFFFFF
+901D1350 FFFFFFFF
+
+[All IIllustrations in Album Sawada]
+Type = Gameshark
+Activation = EndFrame
+901D1354 FFFFFFFF
+901D1358 FFFFFFFF
+901D135C FFFFFFFF
+801D1360 FFFF
+
+[All IIllustrations in Album Yoko Okano]
+Type = Gameshark
+Activation = EndFrame
+801D1362 FFFF
+901D1364 FFFFFFFF
+901D1368 FFFFFFFF
+901D136C FFFFFFFF
+801D1370 FFFF
+
+[All IIllustrations in Album Kosaka Maiko]
+Type = Gameshark
+Activation = EndFrame
+801D1372 FFFF
+901D1374 FFFFFFFF
+901D1378 FFFFFFFF
+901D137C FFFFFFFF
+
+[All IIllustrations in Album Nakazato Kaori]
+Type = Gameshark
+Activation = EndFrame
+901D1380 FFFFFFFF
+901D1384 FFFFFFFF
+901D1388 FFFFFFFF
+901D138C FFFFFFFF
+
+[All IIllustrations in Album Mizuki Ayumi]
+Type = Gameshark
+Activation = EndFrame
+901D1390 FFFFFFFF
+901D1394 FFFFFFFF
+901D1398 FFFFFFFF
+801D139C FFFF
+
+[All IIllustrations in Album Kazama grove]
+Type = Gameshark
+Activation = EndFrame
+801D139E FFFF
+901D13A0 FFFFFFFF
+901D13A4 FFFFFFFF
+901D13A8 FFFFFFFF
+801D13AC FFFF
+
+[All IIllustrations in Album Other]
+Type = Gameshark
+Activation = EndFrame
+801D13AE FFFF
+901D13B0 FFFFFFFF
+901D13B4 FFFFFFFF
+801D13B8 FFFF
+

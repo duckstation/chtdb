@@ -1,0 +1,28 @@
+; CHTDB: ; [ Final Fantasy IX (Europe) {SLES-02965 | SLES-12965 | SLES-22965 | SLES-32965} ]
+
+[Hit Puts You Into Trance]
+Type = Gameshark
+Activation = EndFrame
+D00B834C 0003
+800B834E 1000
+
+[Always Max Ats Meter Upon Fill Up]
+Type = Gameshark
+Activation = EndFrame
+D00B2A14 CF9D
+800B2A2A 2400
+D00B2A14 CF9D
+800BEF12 2400
+
+[Infinite Trance]
+Type = Gameshark
+Activation = EndFrame
+D00B2A14 CF9D
+800B2B62 2400
+
+[Infinite MP in battle]
+Type = Gameshark
+Activation = EndFrame
+D00B959C 1021
+800B95A2 2400
+

@@ -1,0 +1,30 @@
+; CHTDB: ; [ Command & Conquer: Red Alert (Allies) (Europe) {SLES-00949 | SLES-10949} ]
+
+[Instant build]
+Type = Gameshark
+Activation = EndFrame
+900F2CB4 24020036
+
+[Max power]
+Type = Gameshark
+Activation = EndFrame
+90102978 240206FF
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+9011E950 0C07C000
+901F0000 9201007C
+801F0006 2400
+901F0008 2421FF4C
+901F000C 14200002
+801F0012 2400
+901F0014 27FF0004
+901F0018 03E00008
+801F001E 2400
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+8002A3D4 FFFF
+

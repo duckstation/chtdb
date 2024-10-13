@@ -1,0 +1,87 @@
+; CHTDB: ; [ Tactics Ogre (USA) (1998) (Atlus Software) {SLUS-00560} <tactogre> ]
+
+[In-Battle Can Always Move Cheats\Position 1]
+Type = Gameshark
+Activation = EndFrame
+800B6184 0000
+
+[In-Battle Quick Level Up Cheats\Position 1 If you don't have 10 characters in battle then the enemy's level goes up!.]
+Type = Gameshark
+Activation = EndFrame
+30139430 0064
+
+[In-Battle Quick Level Up Cheats\Position 2]
+Type = Gameshark
+Activation = EndFrame
+30139431 0064
+
+[In-Battle Quick Level Up Cheats\Position 3]
+Type = Gameshark
+Activation = EndFrame
+30139432 0064
+
+[In-Battle Quick Level Up Cheats\Position 4]
+Type = Gameshark
+Activation = EndFrame
+30139433 0064
+
+[In-Battle Quick Level Up Cheats\Position 5]
+Type = Gameshark
+Activation = EndFrame
+30139434 0064
+
+[In-Battle Quick Level Up Cheats\Position 6]
+Type = Gameshark
+Activation = EndFrame
+30139435 0064
+
+[In-Battle Quick Level Up Cheats\Position 7]
+Type = Gameshark
+Activation = EndFrame
+30139436 0064
+
+[In-Battle Quick Level Up Cheats\Position 8]
+Type = Gameshark
+Activation = EndFrame
+30139437 0064
+
+[In-Battle Quick Level Up Cheats\Position 9]
+Type = Gameshark
+Activation = EndFrame
+30139438 0064
+
+[In-Battle Quick Level Up Cheats\Position 10]
+Type = Gameshark
+Activation = EndFrame
+30139439 0064
+
+[In-Battle Quick Level Up Cheats\Invincibility Use Only in your turn]
+Type = Gameshark
+Activation = EndFrame
+800B61FC 0001
+
+[Other\Misc.\Infinite Goth]
+Type = Gameshark
+Activation = EndFrame
+800B61C0 FFFF
+
+[Other\Misc.\Max Goth]
+Type = Gameshark
+Activation = EndFrame
+900B61C0 05F5E0FF
+
+[Hold L2 To Stay Active (In-Battle)]
+Type = Gameshark
+Activation = EndFrame
+D011F338 0001
+800B6184 0000
+
+[Have All Items]
+Type = Gameshark
+Activation = EndFrame
+80124C24 00F0
+5000F001 0000
+3013F8C8 0062
+5000F001 0001
+30146B80 0001
+

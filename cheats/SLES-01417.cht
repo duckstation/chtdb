@@ -1,0 +1,238 @@
+; CHTDB: ; [ Rogue Trip: Vacation 2012 (Europe) {SLES-01417} ]
+
+[P1 Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+801D7EE4 014A
+
+[P1 Infinite Cash]
+Type = Gameshark
+Activation = EndFrame
+801D85B4 FFFF
+
+[Enable Goliath]
+Type = Gameshark
+Activation = EndFrame
+301B37D8 0001
+
+[Enable Nightshade]
+Type = Gameshark
+Activation = EndFrame
+301B37D9 0001
+
+[Enable Alien Saucer]
+Type = Gameshark
+Activation = EndFrame
+301B37DB 0001
+
+[Enable Helicopter]
+Type = Gameshark
+Activation = EndFrame
+301B37DC 0001
+
+[P1 Infinite Stingers]
+Type = Gameshark
+Activation = EndFrame
+301D8080 0063
+
+[P1 Infinite Blasters]
+Type = Gameshark
+Activation = EndFrame
+301D8081 0063
+
+[P1 Infinite Stalkers]
+Type = Gameshark
+Activation = EndFrame
+301D8082 0063
+
+[P1 Infinite Scorches]
+Type = Gameshark
+Activation = EndFrame
+301D8083 0063
+
+[P1 Infinite Meteors]
+Type = Gameshark
+Activation = EndFrame
+301D8084 0063
+
+[P1 Infinite Ejects]
+Type = Gameshark
+Activation = EndFrame
+301D8085 0063
+
+[P1 Infinite Rlbs]
+Type = Gameshark
+Activation = EndFrame
+301D8086 0063
+
+[P1 Infinite Prowlers]
+Type = Gameshark
+Activation = EndFrame
+301D8087 0063
+
+[P1 Upgraded Specials]
+Type = Gameshark
+Activation = EndFrame
+301D8088 0005
+
+[P1 Upgraded Stalkers]
+Type = Gameshark
+Activation = EndFrame
+301D808B 0005
+
+[P1 Upgraded Stingers]
+Type = Gameshark
+Activation = EndFrame
+301D8089 0005
+
+[P1 Upgraded Ejects]
+Type = Gameshark
+Activation = EndFrame
+301D808E 0005
+
+[P1 Upgraded Scorchs]
+Type = Gameshark
+Activation = EndFrame
+301D808C 0005
+
+[P1 Upgraded Blasters]
+Type = Gameshark
+Activation = EndFrame
+301D808A 0005
+
+[P1 Upgraded Meteors]
+Type = Gameshark
+Activation = EndFrame
+301D808D 0005
+
+[P1 Upgraded Prowlers]
+Type = Gameshark
+Activation = EndFrame
+301D8090 0005
+
+[P1 Upgraded Rlbs]
+Type = Gameshark
+Activation = EndFrame
+301D808F 0005
+
+[P2 Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+801D879C 00B4
+
+[P2 Infinite Cash]
+Type = Gameshark
+Activation = EndFrame
+801D8E6C FFFF
+
+[P2 Infinite Specials]
+Type = Gameshark
+Activation = EndFrame
+301D8937 0063
+
+[P2 Infinite Stingers]
+Type = Gameshark
+Activation = EndFrame
+301D8938 0063
+
+[P2 Infinite Blasters]
+Type = Gameshark
+Activation = EndFrame
+301D8939 0063
+
+[P2 Infinite Stalkers]
+Type = Gameshark
+Activation = EndFrame
+301D893A 0063
+
+[P2 Infinite Scorches]
+Type = Gameshark
+Activation = EndFrame
+301D893B 0063
+
+[P2 Infinite Meteors]
+Type = Gameshark
+Activation = EndFrame
+301D893C 0063
+
+[P2 Infinite Ejects]
+Type = Gameshark
+Activation = EndFrame
+301D893D 0063
+
+[P2 Infinite Rlbs]
+Type = Gameshark
+Activation = EndFrame
+301D893E 0063
+
+[P2 Infinite Prowlers]
+Type = Gameshark
+Activation = EndFrame
+301D893F 0063
+
+[P2 Upgraded Specials]
+Type = Gameshark
+Activation = EndFrame
+301D9400 0063
+
+[P2 Upgraded Stingers]
+Type = Gameshark
+Activation = EndFrame
+301D8941 0063
+
+[P2 Upgraded Blasters]
+Type = Gameshark
+Activation = EndFrame
+301D8942 0063
+
+[P2 Upgraded Stalkers]
+Type = Gameshark
+Activation = EndFrame
+301D8943 0063
+
+[P2 Upgraded Scorches]
+Type = Gameshark
+Activation = EndFrame
+301D8944 0063
+
+[P2 Upgraded Meteors]
+Type = Gameshark
+Activation = EndFrame
+301D8945 0063
+
+[P2 Upgraded Ejects]
+Type = Gameshark
+Activation = EndFrame
+301D8946 0063
+
+[P2 Upgraded Rlbs]
+Type = Gameshark
+Activation = EndFrame
+301D8947 0063
+
+[P2 Upgraded Prowlers]
+Type = Gameshark
+Activation = EndFrame
+301D8948 0063
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A71C2C8C 10000C00
+A71C2D4C 10000C00
+A71C2DAC 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A71C2C8C 10000900
+A71C2D4C 10000900
+A71C2DAC 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A71C2C8C 10000400
+A71C2D4C 10000400
+A71C2DAC 10000400
+

@@ -1,0 +1,42 @@
+; CHTDB: ; [ Frank Thomas Big Hurt Baseball (USA) (1996) (Acclaim Entertainment) {SLUS-00010} <bighurt> ]
+
+[Infinite Strikes]
+Type = Gameshark
+Activation = EndFrame
+80170908 0000
+
+[Infinite Balls]
+Type = Gameshark
+Activation = EndFrame
+80179A10 0000
+
+[Infinite Outs]
+Type = Gameshark
+Activation = EndFrame
+80173E30 0000
+
+[Select Away Team Score\9]
+Type = Gameshark
+Activation = EndFrame
+30173BD9 0009
+
+[Select Away Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+30173BD9 0000
+
+[Select Visiting Team Score\9]
+Type = Gameshark
+Activation = EndFrame
+30173BD8 0009
+
+[Select Visiting Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+30173BD8 0000
+
+[P1 Always Wins]
+Type = Gameshark
+Activation = EndFrame
+80073BD8 000F
+

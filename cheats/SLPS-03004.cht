@@ -1,0 +1,22 @@
+; CHTDB: ; [ Simple 1500 Series Vol. 39: The Mahjong 2 (Japan) {SLPS-03004} ]
+
+[Player has 99900 points]
+Type = Gameshark
+Activation = EndFrame
+901E3A20 0001869F
+
+[Opponent 1 has 0 points]
+Type = Gameshark
+Activation = EndFrame
+801E3A24 0000
+
+[Opponent 2 has 0 points]
+Type = Gameshark
+Activation = EndFrame
+801E3A28 0000
+
+[Opponent 3 has 0 points]
+Type = Gameshark
+Activation = EndFrame
+801E3A2C 0000
+

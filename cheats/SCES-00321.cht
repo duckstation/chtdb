@@ -1,0 +1,78 @@
+; CHTDB: ; [ Wild Arms (Europe) {SCES-00321} ]
+
+[Max / infinite gella]
+Type = Gameshark
+Activation = EndFrame
+900DE394 0098967F
+
+[Rudy Infinite & Max HP]
+Type = Gameshark
+Activation = EndFrame
+900DDFAC 270F270F
+
+[Jack Infinite & Max HP]
+Type = Gameshark
+Activation = EndFrame
+900DDFDC 270F270F
+
+[Jack Infinite & Max MP]
+Type = Gameshark
+Activation = EndFrame
+900DDFE0 270F270F
+
+[Cecilia]
+Type = Gameshark
+Activation = EndFrame
+900DE010 270F270F
+
+[Cecilia Infinite & Max MP]
+Type = Gameshark
+Activation = EndFrame
+900DE014 270F270F
+
+[Infinite HP In Battle Rudy (Only use agains final enemies and deactivate after defeat the enemy or the game will crash)]
+Type = Gameshark
+Activation = EndFrame
+80165E8C 270F
+
+[Infinite HP In Battle Jack (Only use agains final enemies and deactivate after defeat the enemy or the game will crash)]
+Type = Gameshark
+Activation = EndFrame
+80166064 270F
+
+[Infinite HP In Battle Cecilia (Only use agains final enemies and deactivate after defeat the enemy or the game will crash)]
+Type = Gameshark
+Activation = EndFrame
+8016623C 270F
+
+[Infinite MP In Battle All Characters (Only use agains final enemies and deactivate after defeat the enemy or the game will crash)]
+Type = Gameshark
+Activation = EndFrame
+8009CBDE 2400
+8006ED3E 2400
+80047162 2400
+
+[No random battles]
+Type = Gameshark
+Activation = EndFrame
+90064678 00000000
+
+[Infinite Items ( All slots)]
+Type = Gameshark
+Activation = EndFrame
+D0046254 0274
+80046256 2400
+D0050350 0274
+80050352 2400
+
+[Map select debug menu]
+Type = Gameshark
+Activation = EndFrame
+90056D9C 26B50001
+
+[Infinite / Max Items All slots]
+Type = Gameshark
+Activation = EndFrame
+50008002 0000
+800DE204 6363
+

@@ -1,0 +1,12 @@
+; CHTDB: ; [ Puzzle Star Sweep (USA) (2000) (Agetec / A1 Games) {SLUS-01307} <puzsweep> ]
+
+[Have 9999 Of Stardust]
+Type = Gameshark
+Activation = EndFrame
+80091C8C 270F
+
+[Max Score]
+Type = Gameshark
+Activation = EndFrame
+900923A8 000FF423
+

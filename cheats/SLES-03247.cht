@@ -1,0 +1,22 @@
+; CHTDB: ; [ Warm Up! aka Warm-Up! GP 2001 (Europe) {SLES-03247} ]
+
+[Always First Place Arcade Mode]
+Type = Gameshark
+Activation = EndFrame
+800B131C 0014
+
+[Current lap 3]
+Type = Gameshark
+Activation = EndFrame
+300AE3FA 0003
+
+[Current lap 4]
+Type = Gameshark
+Activation = EndFrame
+300AE3FA 0003
+
+[Current lap 5]
+Type = Gameshark
+Activation = EndFrame
+300AE3FA 0005
+

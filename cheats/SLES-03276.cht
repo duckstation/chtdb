@@ -1,0 +1,84 @@
+; CHTDB: ; [ Ford Racing (Europe) {SLES-03276} ]
+
+[Turbo (Note 1)]
+Type = Gameshark
+Activation = EndFrame
+D3080B7C 0000
+80080B7C FFFF
+D3080C0C 0000
+80080C0C FFFF
+
+[Stop Round Timer / Always Pole]
+Type = Gameshark
+Activation = EndFrame
+A6037A0A AC620000
+
+[Start In Lap 2 / Always 1St(Press R2)]
+Type = Gameshark
+Activation = EndFrame
+D00E4C92 FDFF
+300815A8 0001
+
+[Start In Lap 3 / Always 1St(Press L2)]
+Type = Gameshark
+Activation = EndFrame
+D00E4C92 FEFF
+300815A8 0002
+
+[Start In Lap 4 / Always 1St(Press L2 & Up)]
+Type = Gameshark
+Activation = EndFrame
+D00E4C92 FEEF
+300815A8 0003
+
+[Start In Lap 5 / Always 1St(Press L2 & Down)]
+Type = Gameshark
+Activation = EndFrame
+D00E4C92 FEBF
+300815A8 0004
+
+[Start In Lap 6 / Always 1St(Press L2 & R2)]
+Type = Gameshark
+Activation = EndFrame
+D00E4C92 FCFF
+300815A8 0005
+
+[All Tracks Unlocked]
+Type = Gameshark
+Activation = EndFrame
+30017013 0066
+
+[All Cars Unlocked]
+Type = Gameshark
+Activation = EndFrame
+30017014 0009
+
+[Always Good Grip]
+Type = Gameshark
+Activation = EndFrame
+A6030F62 30423402
+
+[Money Doesn't Decrease Career Mode(Note 2)]
+Type = Gameshark
+Activation = EndFrame
+90048298 00000000
+
+[Money Increases Career Mode(Note 2)]
+Type = Gameshark
+Activation = EndFrame
+D0048290 1023
+30048290 0021
+
+[Start With 200 Points Career Mode]
+Type = Gameshark
+Activation = EndFrame
+D00170E8 0000
+300170E8 0064
+
+[Other Drivers Get No Points Career Mode(Rom-Version 2.2 or Higher Required)]
+Type = Gameshark
+Activation = EndFrame
+D30170E8 0000
+50000502 0000
+300170EA 0000
+

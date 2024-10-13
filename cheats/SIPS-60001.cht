@@ -1,0 +1,15 @@
+; CHTDB: ; [ Destruction Derby (Japan) {SIPS-60001} ]
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+801E6FC6 0000
+901E6FC8 00000000
+901E6FCC 00000000
+801E6FD0 0000
+
+[Score 99 points]
+Type = Gameshark
+Activation = EndFrame
+301E6FEF 0063
+

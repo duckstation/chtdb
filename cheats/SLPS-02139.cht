@@ -1,0 +1,74 @@
+; CHTDB: ; [ Real Robot Sensen (Japan) {SLPS-02139} ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+8005501C 270F
+
+[Fast Level Up Press Select During The Battle]
+Type = Gameshark
+Activation = EndFrame
+D007D008 0100
+8006C450 270F
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+A60B4B3E 00430040
+A60C6216 00430040
+
+[Infinite SP]
+Type = Gameshark
+Activation = EndFrame
+A60B3858 00040000
+
+[Always Move]
+Type = Gameshark
+Activation = EndFrame
+A60B5940 00030000
+A60B5942 10400000
+
+[After the battle, Experience Gained 9999]
+Type = Gameshark
+Activation = EndFrame
+A60B36EC 1821270F
+A60B36EE 00552403
+
+[Main Character Max Power Weapons @1]
+Type = Gameshark
+Activation = EndFrame
+80061BAA 270F
+
+[Main Character Max Power Weapons @2]
+Type = Gameshark
+Activation = EndFrame
+80061BAC 270F
+
+[All aircraft picture book]
+Type = Gameshark
+Activation = EndFrame
+50003C02 0000
+800784D0 0101
+
+[All characters picture book]
+Type = Gameshark
+Activation = EndFrame
+50004502 0000
+800785A0 0101
+
+[Unlocking]
+Type = Gameshark
+Activation = EndFrame
+A60AAFFA 14621463
+A60AB02C 000600FF
+
+[Scenario 00-85 last stage maybe 80 or 82 selected 80]
+Type = Gameshark
+Activation = EndFrame
+30078739 0080
+
+[Scenario 00-85 last stage maybe 80 or 82 selected 82]
+Type = Gameshark
+Activation = EndFrame
+3007873A 0082
+

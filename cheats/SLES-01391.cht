@@ -1,0 +1,141 @@
+; CHTDB: ; [ O.D.T. (Europe) {SLES-01391} ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800A9D70 0068
+
+[Infinite Mana]
+Type = Gameshark
+Activation = EndFrame
+800A9F4E 0065
+
+[Select Level\1]
+Type = Gameshark
+Activation = EndFrame
+300A94EC 0000
+
+[Select Level\2]
+Type = Gameshark
+Activation = EndFrame
+300A94EC 0001
+
+[Select Level\3]
+Type = Gameshark
+Activation = EndFrame
+300A94EC 0002
+
+[Select Level\4]
+Type = Gameshark
+Activation = EndFrame
+300A94EC 0003
+
+[Select Level\5]
+Type = Gameshark
+Activation = EndFrame
+300A94EC 0004
+
+[Select Level\6]
+Type = Gameshark
+Activation = EndFrame
+300A94EC 0005
+
+[Select Level\7]
+Type = Gameshark
+Activation = EndFrame
+300A94EC 0006
+
+[Select Level\8]
+Type = Gameshark
+Activation = EndFrame
+300A94EC 0007
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800A9F48 0064
+
+[Infinite Light ammo]
+Type = Gameshark
+Activation = EndFrame
+800A9EFA 0065
+
+[Infinite Fire ammo]
+Type = Gameshark
+Activation = EndFrame
+800A9F02 0065
+
+[Infinite Ionic ammo]
+Type = Gameshark
+Activation = EndFrame
+800A9F0A 0065
+
+[Infinite Fusion ammo]
+Type = Gameshark
+Activation = EndFrame
+800A9F12 0065
+
+[Infinite Experience to distribute]
+Type = Gameshark
+Activation = EndFrame
+800A9F4C 6000
+
+[Infinite Grenade (on pickup)]
+Type = Gameshark
+Activation = EndFrame
+800AC6DC FF05
+800AC62C FF05
+
+[Infinite Mine (on pickup)]
+Type = Gameshark
+Activation = EndFrame
+800AC78C EE06
+
+[Infinite Gas (on pickup)]
+Type = Gameshark
+Activation = EndFrame
+800AC4CC FF1B
+800ACBAC FF1B
+
+[Max weapons powerup Light]
+Type = Gameshark
+Activation = EndFrame
+800A9EFC 0009
+
+[Max weapons powerup Fire]
+Type = Gameshark
+Activation = EndFrame
+800A9F04 0009
+
+[Max weapons powerup Ionic]
+Type = Gameshark
+Activation = EndFrame
+800A9F0C 0019
+
+[Max weapons powerup Fusion]
+Type = Gameshark
+Activation = EndFrame
+800A9F14 0009
+
+[All container (1st pickup)]
+Type = Gameshark
+Activation = EndFrame
+800AC4D2 00FF
+800AC582 00FF
+
+[All Psy key (1st pickup)]
+Type = Gameshark
+Activation = EndFrame
+800AC9A2 01FF
+
+[All spirit]
+Type = Gameshark
+Activation = EndFrame
+900A9F2C 0003FF6F
+
+[Max spirit powerup]
+Type = Gameshark
+Activation = EndFrame
+900A9F30 FFFF3CFF
+800A9F34 00FF
+

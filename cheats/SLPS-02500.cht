@@ -1,0 +1,17 @@
+; CHTDB: ; [ Nainai no Meitantei (Japan) {SLPS-02500} ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+900BAF88 0098967F
+
+[Money 32768 Yoshimoto circle]
+Type = Gameshark
+Activation = EndFrame
+800D6B24 8000
+
+[COIN 9999 sheets]
+Type = Gameshark
+Activation = EndFrame
+800BB0C4 270F
+

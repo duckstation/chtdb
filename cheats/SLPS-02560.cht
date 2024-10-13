@@ -1,0 +1,25 @@
+; CHTDB: ; [ Card Captor Sakura: Clowcard Magic (Japan) (Genteiban) {SLPS-02560} ]
+
+[Bonus Gallery]
+Type = Gameshark
+Activation = EndFrame
+800CD0E8 FFFF
+300CD0EA 00FF
+
+[Sakura 100000 coin]
+Type = Gameshark
+Activation = EndFrame
+9008E990 00011176
+
+[Voice data discovery flag (all 256 types)]
+Type = Gameshark
+Activation = EndFrame
+9008E7CC FFFFFFFF
+9008E7D0 FFFFFFFF
+9008E7D4 FFFFFFFF
+9008E7D8 FFFFFFFF
+9008E7DC FFFFFFFF
+9008E7E0 FFFFFFFF
+9008E7E4 FFFFFFFF
+9008E7E8 FFFFFFFF
+

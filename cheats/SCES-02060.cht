@@ -1,0 +1,191 @@
+; CHTDB: ; [ Destruction Derby Raw (Europe) {SCES-02060} ]
+
+[Singleplayer-Codes\Start With Lots Of Money]
+Type = Gameshark
+Activation = EndFrame
+A6066860 05DC4E10
+
+[Singleplayer-Codes\Have 5000 Crash-Points (Press L2 & R2)]
+Type = Gameshark
+Activation = EndFrame
+D00A0BEC FCFF
+800BDCC4 1388
+
+[Singleplayer-Codes\Have 5000 Race-Points (Press L2 & R2)]
+Type = Gameshark
+Activation = EndFrame
+D00A0BEC FCFF
+800BDCC2 1388
+
+[Singleplayer-Codes\Indestructible (All Cars)(.Press L1 & L2 & R1 & R2)(.Use only one of the codes. (P1 only + All cars))]
+Type = Gameshark
+Activation = EndFrame
+D00A0BEC F0FF
+800291B4 0000
+D00A0BEC F0FF
+800291B6 0000
+D00A0BEC F0FF
+80029B2C 0000
+D00A0BEC F0FF
+80029B2E 0000
+
+[Singleplayer-Codes\Turbo Increases]
+Type = Gameshark
+Activation = EndFrame
+A602E1C4 FFFF0001
+
+[Singleplayer-Codes\Indestructible (P1 Only)(Use only one of the codes. (P1 only + All cars)]
+Type = Gameshark
+Activation = EndFrame
+D00A9A82 0096
+800A9A80 0000
+D00A9A82 0096
+50000302 0000
+800DF310 0000
+
+[Singleplayer-Codes\Infinite Turbo (P1 Only) (Press L2)]
+Type = Gameshark
+Activation = EndFrame
+D00A0BEC FEFF
+800A9A7C 0190
+
+[Multiplayer-Codes\Infinite Turbo All Players]
+Type = Gameshark
+Activation = EndFrame
+D002DD70 FFFF
+8002DD74 0000
+D002DD70 FFFF
+8002DD76 0000
+
+[Multiplayer-Codes\Indestructible All Players]
+Type = Gameshark
+Activation = EndFrame
+D0028D3E 0022
+80028D40 0000
+D0028D3E 0022
+80028D42 0000
+D0029A94 0001
+80028D90 0000
+D0029A94 0001
+80028D92 0000
+
+[Multiplayer-Codes\P1-Codes\Infinite Turbo]
+Type = Gameshark
+Activation = EndFrame
+D00A7272 0096
+800A726C 0190
+
+[Multiplayer-Codes\P1-Codes\Indestructible]
+Type = Gameshark
+Activation = EndFrame
+D00A7272 0096
+800A7270 0000
+D00A7272 0096
+50000302 0000
+800DD50C 0000
+
+[Multiplayer-Codes\P1-Codes\9999 Crash-Points (Press Select)]
+Type = Gameshark
+Activation = EndFrame
+D009E40C FFFE
+800BBE64 270F
+
+[Multiplayer-Codes\P2-Codes\Infinite Turbo]
+Type = Gameshark
+Activation = EndFrame
+D00A7C32 0096
+800A7C2C 0190
+
+[Multiplayer-Codes\P2-Codes\Indestructible]
+Type = Gameshark
+Activation = EndFrame
+D00A7C32 0096
+800A7C30 0000
+D00A7C32 0096
+50000302 0000
+800DD53C 0000
+
+[Multiplayer-Codes\P2-Codes\9999 Crash-Points .Press Select]
+Type = Gameshark
+Activation = EndFrame
+D009E40E FFFE
+800BBF40 270F
+
+[Multiplayer-Codes\P3-Codes\Infinite Turbo]
+Type = Gameshark
+Activation = EndFrame
+D00A85F2 0096
+800A85EC 0190
+
+[Multiplayer-Codes\P3-Codes\Indestructible]
+Type = Gameshark
+Activation = EndFrame
+D00A85F2 0096
+800A85F0 0000
+D00A85F2 0096
+50000302 0000
+800DD56C 0000
+
+[Multiplayer-Codes\P3-Codes\9999 Crash-Points (Press Select)]
+Type = Gameshark
+Activation = EndFrame
+D009E410 FFFE
+800BC01C 270F
+
+[Multiplayer-Codes\P4-Codes\Infinite Turbo]
+Type = Gameshark
+Activation = EndFrame
+D00A8FB2 0096
+800A8FAC 0190
+
+[Multiplayer-Codes\P4-Codes\Indestructible]
+Type = Gameshark
+Activation = EndFrame
+D00A8FB2 0096
+800A8FB0 0000
+D00A8FB2 0096
+50000302 0000
+800DD59C 0000
+
+[Multiplayer-Codes\P4-Codes\9999 Crash-Points .Press Select]
+Type = Gameshark
+Activation = EndFrame
+D009E412 FFFE
+800BC0F8 270F
+
+[Upgrades At Max\Acceleration]
+Type = Gameshark
+Activation = EndFrame
+300C0E8D 0064
+300C0E8E 0064
+
+[Upgrades At Max\Rev/Power]
+Type = Gameshark
+Activation = EndFrame
+300C0E8F 0064
+300C0E90 0064
+
+[Upgrades At Max\Grip/Traction]
+Type = Gameshark
+Activation = EndFrame
+300C0E91 0064
+300C0E92 0064
+
+[Upgrades At Max\Brakes]
+Type = Gameshark
+Activation = EndFrame
+300C0E93 0064
+300C0E94 0064
+
+[Upgrades At Max\Durability]
+Type = Gameshark
+Activation = EndFrame
+300C0E95 0064
+300C0E96 0064
+
+[Upgrades At Max\All]
+Type = Gameshark
+Activation = EndFrame
+50000602 0000
+800C0E8C 6464
+

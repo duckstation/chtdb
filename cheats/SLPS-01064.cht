@@ -1,0 +1,12 @@
+; CHTDB: ; [ Battle Master (Japan) {SLPS-01064} ]
+
+[P1 stamina]
+Type = Gameshark
+Activation = EndFrame
+80159A38 0000
+
+[P2 stamina]
+Type = Gameshark
+Activation = EndFrame
+80159A3C 0001
+

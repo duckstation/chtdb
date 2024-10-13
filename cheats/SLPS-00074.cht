@@ -1,0 +1,22 @@
+; CHTDB: ; [ Sparrow Garden: Namco Mahjong (Japan) {SLPS-00074} ]
+
+[Player has 99999 points]
+Type = Gameshark
+Activation = EndFrame
+900D84BC 0001869F
+
+[Opponent 1 has 0 points]
+Type = Gameshark
+Activation = EndFrame
+800D84C8 0000
+
+[Opponent 2 has 0 points]
+Type = Gameshark
+Activation = EndFrame
+800D84C4 0000
+
+[Opponent 3 has 0 points]
+Type = Gameshark
+Activation = EndFrame
+800D84C0 0000
+

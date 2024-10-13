@@ -1,0 +1,35 @@
+; CHTDB: ; [ Driver 2: Back on the Streets (Germany) {SLES-02995 | SLES-12995} ]
+
+[Alle Städte und Missionen freigeschaltet]
+Type = Gameshark
+Activation = EndFrame
+D01C138A 2404
+301C1388 0000
+
+[Alle Geheimnisse freigeschaltet]
+Type = Gameshark
+Activation = EndFrame
+300AA4F4 0028
+
+[Kann weiterspielen, wenn Auto Schrott ist]
+Type = Gameshark
+Activation = EndFrame
+D0063BDA 1040
+30063BDA 0000
+
+[Verbrechensanzeige auf Null]
+Type = Gameshark
+Activation = EndFrame
+D004C4DE 0044
+8004C4E0 0000
+D004C4DE 0044
+8004C4E2 0000
+
+[Verkehr angehalten]
+Type = Gameshark
+Activation = EndFrame
+D0053FB4 0018
+80053FB0 0000
+D0053FB4 0018
+80053FB2 0000
+

@@ -1,0 +1,50 @@
+; CHTDB: ; [ Mortal Kombat Mythologies - Sub-Zero (USA) (1997) (Midway Home Entertainment) {SLUS-00476} <subzero> ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800D7D48 0009
+
+[Max EXP Modifier]
+Type = Gameshark
+Activation = EndFrame
+800AD200 270F
+
+[EXP Modifier]
+Type = Gameshark
+Activation = EndFrame
+800D7DC4 270F
+
+[Have All Spells]
+Type = Gameshark
+Activation = EndFrame
+800AD200 0F00
+800D7DC4 0F00
+
+[Infinite Energy With Infinite Energy + Infinite MP, they only work from boot up, once you die, they won't work anymore!]
+Type = Gameshark
+Activation = EndFrame
+800F9FBC 00A6
+
+[Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+800F9FBE 00A6
+
+[Infinite MP (All Levels + After Dying)]
+Type = Gameshark
+Activation = EndFrame
+90073764 00000000
+90073784 00000000
+
+[Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+800D784C 0009
+
+[Hit anywhere]
+Type = Gameshark
+Activation = EndFrame
+A703F7D2 16401000
+A703E98E 14402400
+

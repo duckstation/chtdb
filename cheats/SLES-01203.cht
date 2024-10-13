@@ -1,0 +1,22 @@
+; CHTDB: ; [ Puma Street Soccer (Europe) {SLES-01203} ]
+
+[P1 Select Score\9]
+Type = Gameshark
+Activation = EndFrame
+8006FFCC 0009
+
+[P1 Select Score\0]
+Type = Gameshark
+Activation = EndFrame
+8006FFCC 0000
+
+[P2 Select Score\9]
+Type = Gameshark
+Activation = EndFrame
+800707FC 0009
+
+[P2 Select Score\0]
+Type = Gameshark
+Activation = EndFrame
+800707FC 0000
+

@@ -1,0 +1,56 @@
+; CHTDB: ; [ Legend of Mana (USA) (2000) (Square Electronic Arts) {SLUS-01013} <mana> ]
+
+[Unlock Items, Equipment + World History Encyclopedias]
+Type = Gameshark
+Activation = EndFrame
+30043145 0007
+
+[All Characters In Encyclopedia]
+Type = Gameshark
+Activation = EndFrame
+50000702 0000
+800460B8 FFFF
+
+[All Lands In Encyclopedia]
+Type = Gameshark
+Activation = EndFrame
+50000302 0000
+800460EC FFFF
+
+[All Artifacts In Encyclopedia]
+Type = Gameshark
+Activation = EndFrame
+50000302 0000
+800460F4 FFFF
+
+[All Techniques In Encyclopedia]
+Type = Gameshark
+Activation = EndFrame
+50001802 0000
+80046100 FFFF
+
+[Main Character Always At 100% In Battle (Hp)]
+Type = Gameshark
+Activation = EndFrame
+80105AE4 004D
+
+[Main Character Infinite Special Meter In Battle (St)]
+Type = Gameshark
+Activation = EndFrame
+80105B28 00FF
+
+[Second Character Always At 100% HP (In-Battle)]
+Type = Gameshark
+Activation = EndFrame
+80105D20 004D
+
+[Second Character Infinite Special Meter St (In-Battle)]
+Type = Gameshark
+Activation = EndFrame
+80105D64 00FF
+
+[Max Lucre]
+Type = Gameshark
+Activation = EndFrame
+90043004 00989680
+

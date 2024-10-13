@@ -1,0 +1,20 @@
+; CHTDB: ; [ Fire Panic: Mack no Rescue Daisakusen (Japan) {SCPS-10055} ]
+
+[Infinite Water (Press L1)]
+Type = Gameshark
+Activation = EndFrame
+D003044C 0400
+80030C1C 0820
+
+[Infinite HP (Press L1)]
+Type = Gameshark
+Activation = EndFrame
+D003044C 0400
+80030B98 0064
+
+[Temp Will Not Increase (Press L1)]
+Type = Gameshark
+Activation = EndFrame
+D003044C 0400
+80030FC0 0000
+

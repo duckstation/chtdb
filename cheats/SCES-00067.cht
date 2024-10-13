@@ -1,0 +1,24 @@
+; CHTDB: ; [ Total NBA '96 (Europe) {SCES-00067} ]
+
+[Team 1 Starts With 100 Points]
+Type = Gameshark
+Activation = EndFrame
+D0092CCC 0000
+8009CCCC 0064
+
+[Team 1 Can't Score Points]
+Type = Gameshark
+Activation = EndFrame
+80092CCC 0000
+
+[Team 2 Starts With 100 Points]
+Type = Gameshark
+Activation = EndFrame
+D0092CD0 0000
+8009CCD0 0064
+
+[Team 2 Can't Score Points]
+Type = Gameshark
+Activation = EndFrame
+80092CD0 0000
+

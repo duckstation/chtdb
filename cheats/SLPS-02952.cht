@@ -1,0 +1,12 @@
+; CHTDB: ; [ Uchuu Senkan Yamato: Eiyuu no Kiseki (Japan) {SLPS-02952} ]
+
+[Max energy Battleship]
+Type = Gameshark
+Activation = EndFrame
+801E2355 004E
+
+[Infinite Battleship HP]
+Type = Gameshark
+Activation = EndFrame
+801AA64C 2710
+

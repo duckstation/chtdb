@@ -1,0 +1,324 @@
+; CHTDB: ; [ Medal of Honor - Underground (USA) (2000) (Electronic Arts) {SLUS-01270} <mhonrund> ]
+
+[Enable All Cheats]
+Type = Gameshark
+Activation = EndFrame
+80039D0C 01FF
+
+[Have All Mementos]
+Type = Gameshark
+Activation = EndFrame
+80039D08 FFFF
+
+[Infinite Rounds All Weapons]
+Type = Gameshark
+Activation = EndFrame
+D0049580 005E
+80049582 2400
+
+[Never Reload All Weapons]
+Type = Gameshark
+Activation = EndFrame
+D008D404 006E
+8008D406 2400
+
+[Mission 1 Level 1\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800F0CEA 0080
+
+[Mission 1 Level 2\Unlock Level]
+Type = Gameshark
+Activation = EndFrame
+80039E2C 0001
+
+[Mission 1 Level 2\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800E2DDA 0080
+
+[Mission 1 Level 3\Unlocked]
+Type = Gameshark
+Activation = EndFrame
+80039E5C 0001
+
+[Mission 1 Level 3\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800E6E2A 0080
+
+[Mission 1 Level 4\Unlocked]
+Type = Gameshark
+Activation = EndFrame
+80039E8C 0001
+
+[Mission 1 Level 4\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800E689A 0080
+
+[Mission 2 Level 1\Unlock Level]
+Type = Gameshark
+Activation = EndFrame
+80039EC4 0001
+
+[Mission 2 Level 1\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800E550A 0080
+
+[Mission 2 Level 2\Unlock Level]
+Type = Gameshark
+Activation = EndFrame
+80039EF4 0001
+
+[Mission 2 Level 2\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800D9C8A 0080
+
+[Mission 2 Level 3\Unlock Level]
+Type = Gameshark
+Activation = EndFrame
+80039F24 0001
+
+[Mission 2 Level 3\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800E57DA 0080
+
+[Mission 2 Level 4\Unlock Level]
+Type = Gameshark
+Activation = EndFrame
+80039F54 0001
+
+[Mission 2 Level 4\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800E74CA 0080
+
+[Mission 3 Level 1\Unlock Level]
+Type = Gameshark
+Activation = EndFrame
+80039F8C 0001
+
+[Mission 3 Level 1\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800EC48A 0080
+
+[Mission 3 Level 2\Unlock Level]
+Type = Gameshark
+Activation = EndFrame
+80039FBC 0001
+
+[Mission 3  Level 2\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800DCDEA 0080
+
+[Mission 3 Level 3\Unlock Level]
+Type = Gameshark
+Activation = EndFrame
+80039FEC 0001
+
+[Mission 3 Level 3\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800F147A 0080
+
+[Mission 4 Level 1\Unlock Level]
+Type = Gameshark
+Activation = EndFrame
+8003A054 0001
+
+[Mission 4 Level 1\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800D71AA 0080
+
+[Mission 4 Level 2\Unlock Level]
+Type = Gameshark
+Activation = EndFrame
+8003A084 0001
+
+[Mission 4 Level 2\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800DDCCA 0080
+
+[Mission 4 Level 3\Unlock Level]
+Type = Gameshark
+Activation = EndFrame
+8003A0B4 0001
+
+[Mission 4 Level 3\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800DE6BA 0080
+
+[Mission 5 Level 1\Unlock Level]
+Type = Gameshark
+Activation = EndFrame
+8003A11C 0001
+
+[Mission 5 Level 1\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800E48AA 0080
+
+[Mission 5 Level 2\Unlock Level]
+Type = Gameshark
+Activation = EndFrame
+8003A14C 0001
+
+[Mission 5 Level 2\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800E190A 0080
+
+[Mission 5 Level 3\Unlock Level]
+Type = Gameshark
+Activation = EndFrame
+8003A17C 0001
+
+[Mission 5 Level 3\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800E455A 0080
+
+[Mission 6 Level 1\Unlock Level]
+Type = Gameshark
+Activation = EndFrame
+8003A1E4 0001
+
+[Mission 6 Level 1\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800E264A 0080
+
+[Mission 6 Level 2\Unlock Level]
+Type = Gameshark
+Activation = EndFrame
+8003A214 0001
+
+[Mission 6 Level 2\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800FA97A 0080
+
+[Mission 6 Level 3\Unlock Level]
+Type = Gameshark
+Activation = EndFrame
+8003A244 0001
+
+[Mission 6 Level 3\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800E82EA 0080
+
+[Mission 7 Level 1\Unlock Level]
+Type = Gameshark
+Activation = EndFrame
+8003A2AC 0001
+
+[Mission 7 Level 1\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800DD80A 0080
+
+[Mission 7 Level 2\Unlock Level]
+Type = Gameshark
+Activation = EndFrame
+800392DC 0001
+
+[Mission 7 Level 2\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800DC5EA 0080
+
+[Mission 7 Level 3\Unlock Level]
+Type = Gameshark
+Activation = EndFrame
+8003930C 0001
+
+[Mission 7 Level 3\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800E4F9A 0080
+
+[Mission 7 Level 4\Unlock Level]
+Type = Gameshark
+Activation = EndFrame
+8003933C 0001
+
+[Mission 7 Level 4\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800DF53A 0080
+
+[Mission 8 Level 1\Unlock Level]
+Type = Gameshark
+Activation = EndFrame
+8003A374 0001
+
+[Mission 8 Level 1\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800E860A 0080
+
+[Mission 8 Level 2\Unlock Level]
+Type = Gameshark
+Activation = EndFrame
+8003A3A4 0001
+
+[Mission 8 Level 2\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800DFBCA 0080
+
+[Mission 8 Level 3\Unlock Level]
+Type = Gameshark
+Activation = EndFrame
+8003A3D4 0001
+
+[Mission 8 Level 3\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800E426A 0080
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+8004C3BC BE32
+8004C3BE 0C00
+8004C3C0 0000
+8004C3C2 0000
+8004C3DC BE32
+8004C3DE 0C00
+8004C3E0 0000
+8004C3E2 0000
+3002F8C8 000C
+8002F8CA 2403
+3002F8CC 0018
+3002F8CE 0043
+8002F8D0 1012
+8002F8D4 10C3
+3002F8D6 0002
+3002F8D8 0008
+8002F8DA 03E0
+8008D9DC BE39
+8008D9DE 0800
+3002F8E4 0009
+8002F8E6 240C
+8002F8E8 2900
+3002F8EA 0005
+3002F8EC 001A
+3002F8EE 00AC
+8002F8F0 2812
+8002F8F4 3679
+8002F8F6 0802
+8002F8F8 2180
+3002F8FA 0004
+8008A820 0A00
+

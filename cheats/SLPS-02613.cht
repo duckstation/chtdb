@@ -1,0 +1,61 @@
+; CHTDB: ; [ Driver: Sennyuu! Car Chase Daisakusen (Japan) {SLPS-02613} ]
+
+[All Driving Game & Take a ride]
+Type = Gameshark
+Activation = EndFrame
+30096924 0004
+
+[Damage 0]
+Type = Gameshark
+Activation = EndFrame
+8009B364 0000
+
+[Criminal 0]
+Type = Gameshark
+Activation = EndFrame
+8009784C 0000
+
+[UNDERCOVER (parking)]
+Type = Gameshark
+Activation = EndFrame
+901E35A0 0F0F0F0F
+901E35A4 0F0F0F0F
+801E35A8 0F0F
+
+[Chace Enemy Car damage MAX]
+Type = Gameshark
+Activation = EndFrame
+8009D6F8 4000
+
+[I fly in the sky in the R1 button Press and hold]
+Type = Gameshark
+Activation = EndFrame
+D0097238 0008
+8009B22C FE00
+D0097238 0008
+8009B22E 0000
+
+[Cheats Mode]
+Type = Gameshark
+Activation = EndFrame
+90086834 FFFFFFFE
+9008686C FFFFFFFE
+900868A4 FFFFFFFE
+900868DC FFFFFFFE
+90086914 FFFFFFFE
+9008694C FFFFFFFE
+900869BC FFFFFFFE
+
+[New Castle stage]
+Type = Gameshark
+Activation = EndFrame
+8009694C 0081
+
+[Not break through and lose ON the L1 button OFF by R1 button]
+Type = Gameshark
+Activation = EndFrame
+D00C9526 FBFF
+8004BCFA 1000
+D00C9526 F7FF
+8004BCFA 1840
+

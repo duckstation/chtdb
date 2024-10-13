@@ -1,0 +1,17 @@
+; CHTDB: ; [ Theme Park World (Euro) (2000) (Electronic Arts) {SLES-02688, SLES-02688/GER} <themepw> ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+801D56B8 A120
+
+[Number Of Visitors Max]
+Type = Gameshark
+Activation = EndFrame
+801D69C4 0FFF
+
+[Have 5 Golden Tickets]
+Type = Gameshark
+Activation = EndFrame
+80103984 0005
+

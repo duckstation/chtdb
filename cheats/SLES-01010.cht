@@ -1,0 +1,57 @@
+; CHTDB: ; [ Bloody Roar: Hyper Beast Duel (Europe) {SLES-01010} ]
+
+[Open Bonus Options & Art Gallery]
+Type = Gameshark
+Activation = EndFrame
+801B40A0 FFFF
+
+[P1 Codes\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+301B4088 0002
+
+[P1 Codes\Infinite Health, Beast & Rave]
+Type = Gameshark
+Activation = EndFrame
+301B4088 0003
+
+[P1 Codes\Big Arm Mode]
+Type = Gameshark
+Activation = EndFrame
+301B4088 0010
+
+[P1 Codes\Infinite Health & Big Arm Mode]
+Type = Gameshark
+Activation = EndFrame
+301B4088 0012
+
+[P1 Codes\Infinite Health, Big Arm Mode, Beast & Rave]
+Type = Gameshark
+Activation = EndFrame
+301B4088 0013
+
+[P2 Codes\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+301B4089 0002
+
+[P2 Codes\Infinite Health, Beast & Rave]
+Type = Gameshark
+Activation = EndFrame
+301B4089 0003
+
+[P2 Codes\Big Arm Mode]
+Type = Gameshark
+Activation = EndFrame
+301B4089 0010
+
+[P2 Codes\Infinite Health & Big Arm Mode]
+Type = Gameshark
+Activation = EndFrame
+301B4089 0012
+
+[P2 Codes\Infinite Health, Big Arm Mode, Beast & Rave]
+Type = Gameshark
+Activation = EndFrame
+301B4089 0013
+

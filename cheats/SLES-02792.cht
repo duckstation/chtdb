@@ -1,0 +1,22 @@
+; CHTDB: ; [ Silent Bomber (Europe) {SLES-02792} ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+900D96A4 00064000
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800D93E0 0000
+
+[Infinite Shield lander mission 5]
+Type = Gameshark
+Activation = EndFrame
+800D9E34 03E8
+
+[Have All Characters]
+Type = Gameshark
+Activation = EndFrame
+800D9D10 FFFF
+

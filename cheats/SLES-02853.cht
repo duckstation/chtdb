@@ -1,0 +1,37 @@
+; CHTDB: ; [ Frogger 2: Swampy's Revenge (Europe) {SLES-02853} ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800909F4 0063
+
+[Have 25 coins]
+Type = Gameshark
+Activation = EndFrame
+800909F2 0019
+
+[Quick level win (5 frogs rescued)]
+Type = Gameshark
+Activation = EndFrame
+8007C630 0005
+
+[All Levels Unlocked]
+Type = Gameshark
+Activation = EndFrame
+80083954 0009
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A70A4920 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A70A4920 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A70A4920 10000400
+

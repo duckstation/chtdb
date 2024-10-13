@@ -1,0 +1,17 @@
+; CHTDB: ; [ Blast Chamber (Europe) {SLES-00476} ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800B7540 0009
+
+[P1 Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800B753E 003C
+
+[P2 Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800B76AA 003C
+

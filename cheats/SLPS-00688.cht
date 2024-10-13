@@ -1,0 +1,12 @@
+; CHTDB: ; [ Sangokushi - Koumeiden (Jpn) (1997) (Koei) {SLPS-00688} <sangokou> ]
+
+[Infinite Energy in battle main character]
+Type = Gameshark
+Activation = EndFrame
+801490B4 0096
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+80103F30 FFFF
+

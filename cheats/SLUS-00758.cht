@@ -1,0 +1,73 @@
+; CHTDB: ; [ Pool Hustler (USA) (1998) (Activision) {SLUS-00758} <poolhust> ]
+
+[Always Your Turn]
+Type = Gameshark
+Activation = EndFrame
+80078238 0000
+
+[Max Cash (Press L1 To Activate)]
+Type = Gameshark
+Activation = EndFrame
+D0078230 0004
+900BD00C 0098967F
+
+[Unlock Stages (Press L1 To Activate)]
+Type = Gameshark
+Activation = EndFrame
+D0078230 0004
+800A3F50 FFFF
+
+[Infinite Cash]
+Type = Gameshark
+Activation = EndFrame
+800BD00C FFFF
+
+[Have All Cue Sticks (Press L1 To Activate)]
+Type = Gameshark
+Activation = EndFrame
+D0078230 0004
+800A3F38 000F
+
+[All Trick Shots Completed]
+Type = Gameshark
+Activation = EndFrame
+300A3F63 001F
+900A3F64 1F1F1F1F
+900A3F68 1F1F1F1F
+900A3F6C 1F1F1F1F
+900A3F70 1F1F1F1F
+900A3F74 1F1F1F1F
+900A3F78 1F1F1F1F
+900A3F7C 1F1F1F1F
+800A3F80 1F1F
+300A3F82 001F
+
+[Have Bowlliards Mode Open]
+Type = Gameshark
+Activation = EndFrame
+800A3F22 0C01
+
+[Always Have Ball In Hand (Press R2)]
+Type = Gameshark
+Activation = EndFrame
+D0078230 0002
+80078234 0013
+
+[Perfect Score On Each Trick Shot]
+Type = Gameshark
+Activation = EndFrame
+50001E01 0000
+300A3F65 000A
+
+[Only Have To Make 1st Trick Shot To See #Trick Shot FMV# + Get The Star Magician Pool Cue]
+Type = Gameshark
+Activation = EndFrame
+300A3F63 001E
+300A3F64 001F
+
+[Have All Tables Availible In Two Player Game]
+Type = Gameshark
+Activation = EndFrame
+50000602 0000
+300A425E 0001
+

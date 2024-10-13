@@ -1,0 +1,44 @@
+; CHTDB: ; [ Mr. Prospector: Horiate-kun (Japan) {SLPS-02226} ]
+
+[Infinite Oxygen]
+Type = Gameshark
+Activation = EndFrame
+800CB808 0034
+800CB810 0034
+800CBB78 0034
+800CBB80 0034
+800E3278 0034
+800E3280 0034
+800FB88A 0034
+80118191 0074
+
+[Have 9999999 G]
+Type = Gameshark
+Activation = EndFrame
+90117B1C 0098967F
+
+[Max Guard]
+Type = Gameshark
+Activation = EndFrame
+80117B38 03E7
+
+[Max Cleverness]
+Type = Gameshark
+Activation = EndFrame
+80117B3A 03E7
+
+[Max Vital capacity]
+Type = Gameshark
+Activation = EndFrame
+80117B3C 03E7
+
+[Max Speed]
+Type = Gameshark
+Activation = EndFrame
+80117B36 03E7
+
+[max Strength]
+Type = Gameshark
+Activation = EndFrame
+80117B3E 03E7
+

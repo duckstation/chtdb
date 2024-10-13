@@ -1,0 +1,33 @@
+; CHTDB: ; [ Ford Racing (USA) (2000) (Take-Two Interactive Software) {SLUS-01301} <fordrac> ]
+
+[Start On Lap 2 - Press x + Up Until Crossing The Starting Line]
+Type = Gameshark
+Activation = EndFrame
+D00E4A1E BFEF
+80081338 0001
+
+[Unlocked All Tracks - Arcade Mode]
+Type = Gameshark
+Activation = EndFrame
+80017012 6600
+
+[Unlocked All Cars - Arcade Mode]
+Type = Gameshark
+Activation = EndFrame
+80017014 0009
+
+[Max Cash]
+Type = Gameshark
+Activation = EndFrame
+800170BE 00FF
+
+[999 Pts]
+Type = Gameshark
+Activation = EndFrame
+800170E8 03E7
+
+[Always Place 1st]
+Type = Gameshark
+Activation = EndFrame
+80081594 0000
+

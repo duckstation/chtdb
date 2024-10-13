@@ -1,0 +1,84 @@
+; CHTDB: ; [ Ganbare Goemon - Ooedo Daikaiten (Jpn) (2001) (Konami) {SLPM-86774 (VX239-J1)} <ggoemoed> ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80045E58 0063
+
+[Infinite Health robot]
+Type = Gameshark
+Activation = EndFrame
+800A9CAC 03E7
+
+[Infinite Weapon robot]
+Type = Gameshark
+Activation = EndFrame
+800A9CAA 03E7
+
+[One-Hit Kill Bosses]
+Type = Gameshark
+Activation = EndFrame
+800642A6 0000
+
+[All Stages Open]
+Type = Gameshark
+Activation = EndFrame
+50000C02 0000
+80045D88 FFFF
+
+[Have All Passes]
+Type = Gameshark
+Activation = EndFrame
+50000501 0000
+30045D44 000B
+
+[Ammo takes on character model]
+Type = Gameshark
+Activation = EndFrame
+A70841B2 0C022400
+
+[Moon Jump]
+Type = Gameshark
+Activation = EndFrame
+A70865DA 14401000
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80063AC6 0006
+
+[P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800468D2 0009
+
+[P1 Infinite Coins]
+Type = Gameshark
+Activation = EndFrame
+800468C6 03E7
+
+[P2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80063B6E 0006
+
+[P1 Invincibility]
+Type = Gameshark
+Activation = EndFrame
+80063B18 0010
+
+[P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800530FA 0009
+
+[P2 Infinite Coins]
+Type = Gameshark
+Activation = EndFrame
+800530EE 03E7
+
+[P2 Invincibility]
+Type = Gameshark
+Activation = EndFrame
+80063BC0 0010
+

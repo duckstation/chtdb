@@ -1,0 +1,25 @@
+; CHTDB: ; [ Minna no Golf (Japan) {SCPS-10042} ]
+
+[Character level 5 and all courses can be selected]
+Type = Gameshark
+Activation = EndFrame
+80103C88 0007
+
+[All available characters]
+Type = Gameshark
+Activation = EndFrame
+90103C30 01010101
+90103C34 01010101
+80103C38 0101
+
+[Infinite Power Shots]
+Type = Gameshark
+Activation = EndFrame
+80103AD8 0C0A
+
+[Always recorded one shot]
+Type = Gameshark
+Activation = EndFrame
+50002402 0000
+801039D8 0002
+

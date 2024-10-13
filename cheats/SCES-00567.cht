@@ -1,0 +1,158 @@
+; CHTDB: ; [ Twisted Metal: World Tour (Europe) {SCES-00567} ]
+
+[Infinite Armour]
+Type = Gameshark
+Activation = EndFrame
+800E5ACE 2400
+800ED54E 2400
+
+[SuddenDeath All enemies]
+Type = Gameshark
+Activation = EndFrame
+900E5AF0 24020000
+
+[Infinite Ammo all weapons]
+Type = Gameshark
+Activation = EndFrame
+801046AE 2400
+
+[Enable Sweet Tooth]
+Type = Gameshark
+Activation = EndFrame
+30180C4C 0001
+
+[Enable Minion]
+Type = Gameshark
+Activation = EndFrame
+30180C4D 0001
+
+[P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801646C0 FF0A
+
+[P1 Infinite armour]
+Type = Gameshark
+Activation = EndFrame
+30187C30 0096
+
+[P1 Infinite turbo]
+Type = Gameshark
+Activation = EndFrame
+3018823A 03E0
+
+[P1 Infinite homing missiles]
+Type = Gameshark
+Activation = EndFrame
+3018821A 0009
+
+[P1 Infinite napalm]
+Type = Gameshark
+Activation = EndFrame
+30188220 0009
+
+[P1 Infinite lightning]
+Type = Gameshark
+Activation = EndFrame
+30188224 0009
+
+[P1 Infinite remote bombs]
+Type = Gameshark
+Activation = EndFrame
+3018821C 0009
+
+[P1 Infinite ricochet bombs]
+Type = Gameshark
+Activation = EndFrame
+30188222 0009
+
+[P1 Infinite power missiles]
+Type = Gameshark
+Activation = EndFrame
+3018821E 0009
+
+[P1 Infinite fire missiles]
+Type = Gameshark
+Activation = EndFrame
+30188218 0009
+
+[P1 Infinite specials]
+Type = Gameshark
+Activation = EndFrame
+30188216 0009
+
+[Play always level Los Angeles]
+Type = Gameshark
+Activation = EndFrame
+301646C4 0001
+
+[Play always level Moscow]
+Type = Gameshark
+Activation = EndFrame
+301646C4 0002
+
+[Play always level Paris]
+Type = Gameshark
+Activation = EndFrame
+301646C4 0003
+
+[Play always level Amazonia]
+Type = Gameshark
+Activation = EndFrame
+301646C4 0004
+
+[Play always level New York]
+Type = Gameshark
+Activation = EndFrame
+301646C4 0005
+
+[Play always level Antarctic]
+Type = Gameshark
+Activation = EndFrame
+301646C4 0006
+
+[Play always level Netherlands]
+Type = Gameshark
+Activation = EndFrame
+301646C4 0007
+
+[Play always level Hong Kong]
+Type = Gameshark
+Activation = EndFrame
+301646C4 0008
+
+[Play always level ???]
+Type = Gameshark
+Activation = EndFrame
+301646C4 0009
+
+[Play always level Jet Moto Course]
+Type = Gameshark
+Activation = EndFrame
+301646C4 000A
+
+[Play always level Cyburbia]
+Type = Gameshark
+Activation = EndFrame
+301646C4 000B
+
+[Play always level Rooftop]
+Type = Gameshark
+Activation = EndFrame
+301646C4 000C
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A717EC1C 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A717EC1C 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A717EC1C 10000400
+

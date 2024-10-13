@@ -1,0 +1,13 @@
+; CHTDB: ; [ Racingroovy VS (Japan) {SLPS-00417} ]
+
+[Max Speed]
+Type = Gameshark
+Activation = EndFrame
+800F47D0 0160
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+3008FA31 0014
+3008FA39 0014
+

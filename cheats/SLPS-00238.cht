@@ -1,0 +1,22 @@
+; CHTDB: ; [ Honkaku Mahjong: Tetsuman Special (Japan) {SLPS-00238} ]
+
+[Player has 999900 points]
+Type = Gameshark
+Activation = EndFrame
+800789CC 270F
+
+[Opponent 1 has 0 points]
+Type = Gameshark
+Activation = EndFrame
+800789D8 0000
+
+[Opponent 2 has 0 points]
+Type = Gameshark
+Activation = EndFrame
+800789D4 0000
+
+[Opponent 3 has 0 points]
+Type = Gameshark
+Activation = EndFrame
+800789D0 0000
+

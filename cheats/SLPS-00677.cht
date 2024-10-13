@@ -1,0 +1,57 @@
+; CHTDB: ; [ F-1 Grand Prix 1996: Team Un'ei Simulation (Japan) {SLPS-00677} ]
+
+[Max Money]
+Type = Gameshark
+Activation = EndFrame
+80010004 270F
+
+[High performance machine engine]
+Type = Gameshark
+Activation = EndFrame
+80010090 00FF
+
+[High performance machine Aerodynamic]
+Type = Gameshark
+Activation = EndFrame
+800100A0 00FF
+
+[High performance machine Suspension]
+Type = Gameshark
+Activation = EndFrame
+800100A8 00FF
+
+[High performance machineTransmission]
+Type = Gameshark
+Activation = EndFrame
+800100B8 00FF
+
+[High performance machine Electrical system]
+Type = Gameshark
+Activation = EndFrame
+800100B0 00FF
+
+[Durability machine engine]
+Type = Gameshark
+Activation = EndFrame
+80010098 00FF
+
+[Durability machine Aerodynamic]
+Type = Gameshark
+Activation = EndFrame
+800100A4 00FF
+
+[Durability machine Suspension]
+Type = Gameshark
+Activation = EndFrame
+800100AC 00FF
+
+[Durability machine Transmission]
+Type = Gameshark
+Activation = EndFrame
+800100BC 00FF
+
+[Durability machine Electrical system]
+Type = Gameshark
+Activation = EndFrame
+800100B4 00FF
+

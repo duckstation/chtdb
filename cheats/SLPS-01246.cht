@@ -1,0 +1,7 @@
+; CHTDB: ; [ Druid - Yamie no Tsuisekisha (Jpn) (1998) (Koei) {SLPS-01246} <druid> ]
+
+[Infinite HP in battle]
+Type = Gameshark
+Activation = EndFrame
+8008C812 0064
+

@@ -1,0 +1,12 @@
+; CHTDB: ; [ The Wild Thornberrys - Animal Adventures (USA) (2000) (Mattel Interactive) {SLUS-01128} <wthornb> ]
+
+[Infinite Strokes (Iceland Golf)]
+Type = Gameshark
+Activation = EndFrame
+8008D8FC 0009
+
+[All Postcards/All Levels Unlocked]
+Type = Gameshark
+Activation = EndFrame
+9008DA58 FFFFFFFF
+

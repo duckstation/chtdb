@@ -1,0 +1,57 @@
+; CHTDB: ; [ Fighting Force 2 (Europe) {SLES-02237} ]
+
+[Energia Infinita]
+Type = Gameshark
+Activation = EndFrame
+801173C8 03FC
+
+[Level Steel Mill]
+Type = Gameshark
+Activation = EndFrame
+801FFF5C 0001
+
+[Level Research Lab]
+Type = Gameshark
+Activation = EndFrame
+801FFF5C 0006
+
+[Level Tank Factory]
+Type = Gameshark
+Activation = EndFrame
+801FFF5C 000A
+
+[Level Polar Research Base]
+Type = Gameshark
+Activation = EndFrame
+801FFF5C 000F
+
+[Level Jungle Temple]
+Type = Gameshark
+Activation = EndFrame
+801FFF5C 0012
+
+[Level Chemical Plant]
+Type = Gameshark
+Activation = EndFrame
+801FFF5C 0016
+
+[Level Prison Island]
+Type = Gameshark
+Activation = EndFrame
+801FFF5C 001A
+
+[Level Undersea Base]
+Type = Gameshark
+Activation = EndFrame
+801FFF5C 001f
+
+[Level Skyscraper HQ]
+Type = Gameshark
+Activation = EndFrame
+801FFF5C 0023
+
+[Level Credits]
+Type = Gameshark
+Activation = EndFrame
+801FFF5C 0028
+

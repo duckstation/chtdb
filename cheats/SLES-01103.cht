@@ -1,0 +1,62 @@
+; CHTDB: ; [ Rat Attack (Europe) {SLES-01103} ]
+
+[Infinite Lives+Health]
+Type = Gameshark
+Activation = EndFrame
+80112CB8 000F
+
+[Have All Collected To Finish]
+Type = Gameshark
+Activation = EndFrame
+8010F800 0032
+
+[Max Score]
+Type = Gameshark
+Activation = EndFrame
+A610F6D0 0000FFFF
+
+[Unlock Banubis]
+Type = Gameshark
+Activation = EndFrame
+800CFDAC 00FF
+
+[Unlock Pearl]
+Type = Gameshark
+Activation = EndFrame
+800CFDBC 00FF
+
+[Unlock Garden]
+Type = Gameshark
+Activation = EndFrame
+800CFE5C 00FF
+
+[Unlock Funhouse]
+Type = Gameshark
+Activation = EndFrame
+800CFE6C 00FF
+
+[Unlock Haunted House]
+Type = Gameshark
+Activation = EndFrame
+800CFE7C 00FF
+
+[Unlock Museum]
+Type = Gameshark
+Activation = EndFrame
+800CFE8C 00FF
+
+[Unlock Art Gallery]
+Type = Gameshark
+Activation = EndFrame
+800CFE9C 00FF
+
+[Unlock Factory]
+Type = Gameshark
+Activation = EndFrame
+800CFEAC 00FF
+
+[Unlock Space]
+Type = Gameshark
+Activation = EndFrame
+800CFEBC 00FF
+

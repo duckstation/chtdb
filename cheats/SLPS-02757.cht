@@ -1,0 +1,12 @@
+; CHTDB: ; [ Screen (Japan) {SLPS-02757} ]
+
+[All CG Gallery Images & Mini-Games(May require a memory card save to work)]
+Type = Gameshark
+Activation = EndFrame
+30053979 00FF
+8005397A FFFF
+9005397C FFFFFFFF
+90053980 FFFFFFFF
+90053984 FFFFFFFF
+30053988 00FF
+

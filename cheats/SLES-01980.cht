@@ -1,0 +1,87 @@
+; CHTDB: ; [ WWF Attitude (Europe) {SLES-01980} ]
+
+[Infinite Attribute Points]
+Type = Gameshark
+Activation = EndFrame
+80069948 001E
+
+[0% In Move List]
+Type = Gameshark
+Activation = EndFrame
+800626F4 0000
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+D30EB260 0000
+800EB260 0000
+D30EB260 0000
+800EB262 0000
+
+[P2 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+D30ED8CC 0000
+800ED8CC 0000
+D30ED8CC 0000
+800ED8CE 0000
+
+[P3 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+D30EF6C4 0000
+800EF6C4 0000
+D30EF6C4 0000
+800EF6C6 0000
+
+[P4 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+D30F29A0 0000
+800F29A0 0000
+D30F29A0 0000
+800F29A2 0000
+
+[P1 Have No Health]
+Type = Gameshark
+Activation = EndFrame
+D20EB260 F264
+800EB260 F264
+D20EB260 F264
+800EB262 000C
+
+[P2 Have No Health]
+Type = Gameshark
+Activation = EndFrame
+D20ED8CC F264
+800ED8CC F264
+D20ED8CC F264
+800ED8CE 000C
+
+[P3 Have No Health]
+Type = Gameshark
+Activation = EndFrame
+D20EF6C4 F264
+800EF6C4 F264
+D20EF6C4 F264
+800EF6C6 000C
+
+[P4 Have No Health]
+Type = Gameshark
+Activation = EndFrame
+D20F29A0 F264
+800F29A0 F264
+D20F29A0 F264
+800F29A2 000C
+
+[Unlock All]
+Type = Gameshark
+Activation = EndFrame
+50000402 0000
+800CB338 FFFF
+
+[Infinite Out Of Ring Time]
+Type = Gameshark
+Activation = EndFrame
+8003886A 3C00
+

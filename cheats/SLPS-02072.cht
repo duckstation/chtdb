@@ -1,0 +1,289 @@
+; CHTDB: ; [ The Mystic Dragoons (Japan) {SLPS-02072} ]
+
+[Main Character Exp]
+Type = Gameshark
+Activation = EndFrame
+800E3AA8 03E7
+
+[1 Character Max Hp]
+Type = Gameshark
+Activation = EndFrame
+800E3AE0 270F
+
+[1 Character Max Mp]
+Type = Gameshark
+Activation = EndFrame
+800E3AE2 270F
+
+[1 Character Atc]
+Type = Gameshark
+Activation = EndFrame
+800E3AE4 03E7
+
+[1 Character Def]
+Type = Gameshark
+Activation = EndFrame
+800E3AE6 03E7
+
+[1 Character Mgc]
+Type = Gameshark
+Activation = EndFrame
+800E3AE8 03E7
+
+[1 Character Spd]
+Type = Gameshark
+Activation = EndFrame
+800E3AEA 03E7
+
+[1 Character Mdf]
+Type = Gameshark
+Activation = EndFrame
+800E3AEC 03E7
+
+[1 Character Luk]
+Type = Gameshark
+Activation = EndFrame
+800E3AEE 03E7
+
+[2nd Character Exp]
+Type = Gameshark
+Activation = EndFrame
+800E3B54 03E7
+
+[Second Character Max Hp]
+Type = Gameshark
+Activation = EndFrame
+800E3B8C 270F
+
+[Second Character Max Mp]
+Type = Gameshark
+Activation = EndFrame
+800E3B8E 270F
+
+[Second Character Atc]
+Type = Gameshark
+Activation = EndFrame
+800E3B90 03E7
+
+[Second Character Def]
+Type = Gameshark
+Activation = EndFrame
+800E3B92 03E7
+
+[Second Character Mgc]
+Type = Gameshark
+Activation = EndFrame
+800E3B94 03E7
+
+[Second Character Spd]
+Type = Gameshark
+Activation = EndFrame
+800E3B96 03E7
+
+[Second Character Mdf]
+Type = Gameshark
+Activation = EndFrame
+800E3B98 03E7
+
+[Second Character Luk]
+Type = Gameshark
+Activation = EndFrame
+800E3B9A 03E7
+
+[Debug Menu]
+Type = Gameshark
+Activation = EndFrame
+80112F60 0003
+
+[Gold 100.000]
+Type = Gameshark
+Activation = EndFrame
+800E5A3C 860A
+800E3AAA FFFF
+
+[Perso. 1 Stats 999/ Hp-Mp 9999]
+Type = Gameshark
+Activation = EndFrame
+900E3AE0 270F270F
+900E3AE4 03E703E7
+900E3AE8 03E703E7
+900E3AEC 03E703E7
+
+[P1 Stats 999 / HP-MP 9999]
+Type = Gameshark
+Activation = EndFrame
+800E3AA8 423F
+300E3AAA 000F
+900E3AE0 270F270F
+900E3AE4 03E703E7
+900E3AE8 03E703E7
+900E3AEC 03E703E7
+900E3B1C 270F270F
+300E3B28 00FF
+300E3B2A 00FF
+300E3B2C 00FF
+300E3B2E 00FF
+300E3B30 00FF
+300E3B32 00FF
+
+[P2 Stats 999/ HP-MP 9999]
+Type = Gameshark
+Activation = EndFrame
+800E3B54 423F
+300E3B56 000F
+900E3B8C 270F270F
+900E3B90 03E703E7
+900E3B94 03E703E7
+900E3B98 03E703E7
+900E3BC8 270F270F
+300E3BD4 00FF
+300E3BD6 00FF
+300E3BD8 00FF
+300E3BDA 00FF
+300E3BDC 00FF
+300E3BDE 00FF
+
+[P3 Stats 999/ HP-MP 9999]
+Type = Gameshark
+Activation = EndFrame
+800E3C00 423F
+300E3C02 000F
+900E3C38 270F270F
+900E3C3C 03E703E7
+900E3C40 03E703E7
+900E3C44 03E703E7
+900E3C74 270F270F
+300E3C80 00FF
+300E3C82 00FF
+300E3C84 00FF
+300E3C86 00FF
+300E3C88 00FF
+300E3C8A 00FF
+
+[P4 Stats 999/ HP-MP 9999]
+Type = Gameshark
+Activation = EndFrame
+800E3CAC 423F
+300E3CAE 000F
+900E3CE4 270F270F
+900E3CE8 03E703E7
+900E3CEC 03E703E7
+900E3CF0 03E703E7
+900E3D20 270F270F
+300E3D2C 00FF
+300E3D2E 00FF
+300E3D30 00FF
+300E3D32 00FF
+300E3D34 00FF
+300E3D36 00FF
+
+[P5 Stats 999/ HP-MP 9999]
+Type = Gameshark
+Activation = EndFrame
+800E3D58 423F
+300E3D5A 000F
+900E3D90 270F270F
+900E3D94 03E703E7
+900E3D98 03E703E7
+900E3D9C 03E703E7
+900E3DCC 270F270F
+300E3DD8 00FF
+300E3DDA 00FF
+300E3DDC 00FF
+300E3DDE 00FF
+300E3DE0 00FF
+300E3DE2 00FF
+
+[P6 Stats 999/ HP-MP 9999]
+Type = Gameshark
+Activation = EndFrame
+900E3E3C 270F270F
+900E3E78 270F270F
+900E3E04 FFFFFFFF
+900E3E40 03E703E7
+900E3E44 03E703E7
+900E3E48 03E703E7
+
+[Character 1 Level 99/ Exp. Max]
+Type = Gameshark
+Activation = EndFrame
+900E3AA8 FFFFFFFF
+
+[Time 00.00.00]
+Type = Gameshark
+Activation = EndFrame
+900E5A38 00000000
+
+[Learn all the magic after one]
+Type = Gameshark
+Activation = EndFrame
+901173A0 2403FFFF
+
+[Learn all the special moves in combat after 1 fight]
+Type = Gameshark
+Activation = EndFrame
+8010B4CC 0001
+
+[None Encounter]
+Type = Gameshark
+Activation = EndFrame
+800E5ED2 0000
+
+[No Random Battles .Enemy will appear when you move it while holding down the L2 + R2 buttons, and is not valid if you are riding in a vehicle.]
+Type = Gameshark
+Activation = EndFrame
+8011D86C 0001
+8011D7E6 8682
+D00CE928 0003
+800E5ED2 1E00
+
+[Infinite HP in combat HP 1 person]
+Type = Gameshark
+Activation = EndFrame
+80132A34 270F
+
+[Infinite HP in combat HP 2 person]
+Type = Gameshark
+Activation = EndFrame
+80132E9C 270F
+
+[Infinite HP in combat HP 3 person]
+Type = Gameshark
+Activation = EndFrame
+80133304 270F
+
+[Infinite HP in combat HP 4 person]
+Type = Gameshark
+Activation = EndFrame
+8013376C 270F
+
+[Infinite HP in combat HP 5 person]
+Type = Gameshark
+Activation = EndFrame
+80133BD4 270F
+
+[Infinite MP in combat HP 1 person]
+Type = Gameshark
+Activation = EndFrame
+80132A36 270F
+
+[Infinite MP in combat HP 2 person]
+Type = Gameshark
+Activation = EndFrame
+80132E9E 270F
+
+[Infinite MP in combat HP 3 person]
+Type = Gameshark
+Activation = EndFrame
+80133306 270F
+
+[Infinite MP in combat HP 4 person]
+Type = Gameshark
+Activation = EndFrame
+8013376E 270F
+
+[Infinite MP in combat HP 5 person]
+Type = Gameshark
+Activation = EndFrame
+80133BD6 270F
+

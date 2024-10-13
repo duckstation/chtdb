@@ -1,0 +1,89 @@
+; CHTDB: ; [ Tony Hawk's Pro Skater 2 (Germany) {SLES-02910} ]
+
+[50 000 Punkte für jeden Trick]
+Type = Gameshark
+Activation = EndFrame
+D0066364 1021
+80066366 3402
+A6066364 1021C350
+
+[Zeit angehalten]
+Type = Gameshark
+Activation = EndFrame
+300D72BD 0000
+
+[1 sammeln für 5]
+Type = Gameshark
+Activation = EndFrame
+D00D3C20 0000
+300D3C20 0004
+
+[Spezial auf maximal]
+Type = Gameshark
+Activation = EndFrame
+D001FD34 FFFE
+8001FD36 3402
+D001FD50 FFFE
+8001FD52 3402
+A601FD34 FFFEB0C0
+A601FD50 FFFEB0C0
+
+[Alle Gaps erledigt Hangar]
+Type = Gameshark
+Activation = EndFrame
+800BCC14 FFFF
+300BCC16 001F
+
+[Alle Gaps erledigt SchuleII]
+Type = Gameshark
+Activation = EndFrame
+900BCC20 FFFFFFFF
+800BCC24 07FF
+
+[Alle Gaps erledigt Marseille]
+Type = Gameshark
+Activation = EndFrame
+900BCC2C FFFFFFFF
+300BCC30 0001
+
+[Alle Gaps erledigt NY-City]
+Type = Gameshark
+Activation = EndFrame
+900BCC38 FFFFFFFF
+800BCC3C 01FF
+
+[Alle Gaps erledigt Venice Beach]
+Type = Gameshark
+Activation = EndFrame
+900BCC44 FFFFFFFF
+800BCC48 01FF
+
+[Alle Gaps erledigt Skatestreet]
+Type = Gameshark
+Activation = EndFrame
+900BCC50 FFFFFFFF
+300BCC54 00FF
+
+[Alle Gaps erledigt Philadelphia]
+Type = Gameshark
+Activation = EndFrame
+900BCC5C FFFFFFFF
+800BCC60 1FFF
+
+[Alle Gaps erledigt Die Stierarena]
+Type = Gameshark
+Activation = EndFrame
+900BCC68 7FFFFFFF
+
+[Alle Gaps erledigt Chopper Drop]
+Type = Gameshark
+Activation = EndFrame
+800BCC74 01FF
+
+[Alle Gaps erledigt Skate Heaven]
+Type = Gameshark
+Activation = EndFrame
+50000402 0000
+800BCC80 FFFF
+300BCC88 007F
+

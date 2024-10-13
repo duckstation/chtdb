@@ -1,0 +1,40 @@
+; CHTDB: ; [ Submarine Commander (Europe) {SLES-02728} ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800BD868 0000
+
+[Enemy Ships Destroyed - Press Select & L1]
+Type = Gameshark
+Activation = EndFrame
+D0069B8C 0104
+800C0920 012C
+D0069B8C 0104
+800C0B8C 012C
+D0069B8C 0104
+800C06B4 012C
+
+[Start with loads of money]
+Type = Gameshark
+Activation = EndFrame
+D005932C 03E8
+3005932E 0003
+A605932C 03E88760
+
+[Indestructible]
+Type = Gameshark
+Activation = EndFrame
+D0099FFC 0048
+30099FFC 0000
+
+[Enable Level Select]
+Type = Gameshark
+Activation = EndFrame
+800592A0 000B
+
+[Start On Last Stage]
+Type = Gameshark
+Activation = EndFrame
+A60592D0 00000016
+

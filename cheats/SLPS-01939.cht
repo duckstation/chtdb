@@ -1,0 +1,13 @@
+; CHTDB: ; [ Nurse Story (Japan) {SLPS-01939} ]
+
+[Infinite Money (99999)]
+Type = Gameshark
+Activation = EndFrame
+90095D84 0001869F
+
+[Infinite Hearts]
+Type = Gameshark
+Activation = EndFrame
+80095D81 3B06
+80095D82 003B
+

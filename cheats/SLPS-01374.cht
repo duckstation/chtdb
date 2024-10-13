@@ -1,0 +1,56 @@
+; CHTDB: ; [ Wakusei Koukitai: Little Cats (Japan) {SLPS-01374} ]
+
+[1st Character Infinite And Max Stats]
+Type = Gameshark
+Activation = EndFrame
+80137FEC 00FF
+80137FF0 00FF
+80137FF4 00FF
+80137FF8 00FF
+80137FFC 0001
+
+[2nd Character Infinite And Max Stats]
+Type = Gameshark
+Activation = EndFrame
+80138014 00FF
+80138018 00FF
+8013801C 00FF
+80138020 00FF
+80138024 0001
+
+[3rd Character Infinite And Max Stats]
+Type = Gameshark
+Activation = EndFrame
+8013803C 00FF
+80138040 00FF
+80138044 00FF
+80138048 00FF
+8013804C 0001
+
+[4th Character Infinite And Max Stats]
+Type = Gameshark
+Activation = EndFrame
+80138064 00FF
+80138068 00FF
+8013806C 00FF
+80138070 00FF
+80138074 0001
+
+[9999 Vp]
+Type = Gameshark
+Activation = EndFrame
+80137FC0 270F
+
+[In Battle Infinite HP All 4 Mechas]
+Type = Gameshark
+Activation = EndFrame
+80136D28 03E7
+80136D3C 03E7
+80136D50 03E7
+80136D64 03E7
+
+[Have Always 2 Turns deactivate it when you're going to defeat the last enemy]
+Type = Gameshark
+Activation = EndFrame
+801372CD 0002
+

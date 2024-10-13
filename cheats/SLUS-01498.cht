@@ -1,0 +1,37 @@
+; CHTDB: ; [ Gekioh - Shooting King (USA) (2002) (Natsume) {SLUS-01498} <gekioh> ]
+
+[P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80185520 0009
+
+[P1 Infinite Bombs]
+Type = Gameshark
+Activation = EndFrame
+8018550C 0063
+
+[P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80185522 0009
+
+[P2 Infinite Bombs]
+Type = Gameshark
+Activation = EndFrame
+8018550E 0063
+
+[Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+801F6748 0009
+
+[Infinite Lives In Bonus Mode]
+Type = Gameshark
+Activation = EndFrame
+801849F8 0009
+
+[P1 Invincibility]
+Type = Gameshark
+Activation = EndFrame
+801CE85C 0001
+

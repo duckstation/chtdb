@@ -1,0 +1,115 @@
+; CHTDB: ; [ Small Soldiers (Europe) {SLES-01580} ]
+
+[Infinite Health & ammo All Levels]
+Type = Gameshark
+Activation = EndFrame
+800393FC 0101
+
+[Infinite Lives	All Levels]
+Type = Gameshark
+Activation = EndFrame
+A7048B4A 24422400
+
+[Infinite Ammo All Levels]
+Type = Gameshark
+Activation = EndFrame
+A70FBD82 24422400
+
+[Infinite Health & Ammo Level 1]
+Type = Gameshark
+Activation = EndFrame
+800E11B2 0032
+900E14BC 00630063
+800E14C0 0019
+
+[Infinite Health & Ammo Level 2]
+Type = Gameshark
+Activation = EndFrame
+800F7692 0032
+900F799C 00640064
+800F79A0 0019
+
+[Infinite Health & Ammo Level 3]
+Type = Gameshark
+Activation = EndFrame
+800E8932 0032
+900E8C3C 00640064
+800E8C40 0019
+
+[Infinite Health & Ammo Level 4]
+Type = Gameshark
+Activation = EndFrame
+800E7982 0032
+900E7C8C 00640064
+800E7C90 0019
+
+[Infinite Health & Ammo	Level 5]
+Type = Gameshark
+Activation = EndFrame
+800EB982 0032
+900EBC8C 00640064
+800EBC90 0019
+
+[Infinite Health & Ammo	Level 6]
+Type = Gameshark
+Activation = EndFrame
+800EF2A2 0032
+900EF5AC 00640064
+800EF5B0 0019
+
+[Infinite Health & Ammo	Level 7]
+Type = Gameshark
+Activation = EndFrame
+800FAAE2 0032
+900FADEC 00640064
+800FADF0 0019
+
+[Infinite Health & Ammo	Level 9]
+Type = Gameshark
+Activation = EndFrame
+800E19D2 0032
+900E1CDC 00640064
+800E1CE0 0019
+
+[Infinite Health & Ammo Level 10]
+Type = Gameshark
+Activation = EndFrame
+800EA272 0032
+900EA57C 00640064
+800EA580 0019
+
+[Infinite Health & Ammo Level 11]
+Type = Gameshark
+Activation = EndFrame
+800D7A32 0032
+900D7D3C 00640064
+800D7D40 0019
+
+[Infinite Health & Ammo	Level 12]
+Type = Gameshark
+Activation = EndFrame
+800EABC2 0032
+900EAECC 00640064
+800EAED0 0019
+
+[Infinite Health & Ammo	Level 13]
+Type = Gameshark
+Activation = EndFrame
+800F6282 0032
+900F658C 00640064
+800F6590 0019
+
+[Infinite Health & Ammo Level 14]
+Type = Gameshark
+Activation = EndFrame
+800F9182 0032
+900F948C 00640064
+800F9490 0019
+
+[Infinite Health & AmmoLevel 15]
+Type = Gameshark
+Activation = EndFrame
+801465D2 0032
+901468DC 00640064
+801468E0 0019
+

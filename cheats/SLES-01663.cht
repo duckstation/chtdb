@@ -1,0 +1,32 @@
+; CHTDB: ; [ WCW/nWo Thunder (Europe) {SLES-01663} ]
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801FB884 03E8
+801FB888 03E8
+
+[P1 Infinite Health Partner]
+Type = Gameshark
+Activation = EndFrame
+801FC394 03E8
+801FC398 03E8
+
+[P2 No Health]
+Type = Gameshark
+Activation = EndFrame
+801FBE0C 0000
+801FBE10 0000
+
+[Enable all Characters]
+Type = Gameshark
+Activation = EndFrame
+50006001 0000
+3007A0A1 0001
+
+[Enable all Might Meters]
+Type = Gameshark
+Activation = EndFrame
+50003604 0000
+8007A180 6307
+

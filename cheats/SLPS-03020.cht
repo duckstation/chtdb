@@ -1,0 +1,34 @@
+; CHTDB: ; [ Super Hero Sakusen: Diedal no Yabou (Japan) {SLPS-03020} ]
+
+[Infinite Energy Character 1]
+Type = Gameshark
+Activation = EndFrame
+800B6868 03E7
+
+[If you buy items CR-MAX (HBP)]
+Type = Gameshark
+Activation = EndFrame
+A6074A66 10401440
+
+[Infinite TP (HBP)]
+Type = Gameshark
+Activation = EndFrame
+A605BAEE 00620060
+
+[HBP kana after combat LV-MAX]
+Type = Gameshark
+Activation = EndFrame
+A604DF88 00040001
+
+[The HP does not decrease in the L1 + R1]
+Type = Gameshark
+Activation = EndFrame
+D01FB83A F3FF
+800640AA 0060
+
+[Reduced HP in L2 + R2 Because the friend or foe common When he or she attacks Press L2 + R2]
+Type = Gameshark
+Activation = EndFrame
+D01FB83A FCFF
+800640AA 0065
+

@@ -1,0 +1,23 @@
+; CHTDB: ; [ Premier Manager 98 (Europe) {SLES-00738} ]
+
+[Always Free Transfer]
+Type = Gameshark
+Activation = EndFrame
+D000E044 0009
+80088FF8 0000
+D000E044 0009
+80088FFA 0000
+
+[Always Free Wage Bill]
+Type = Gameshark
+Activation = EndFrame
+D000E044 0009
+80079D38 0000
+D000E044 0009
+80079D3A 0000
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+900F352C 3B9AC9FF
+

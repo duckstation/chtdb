@@ -1,0 +1,53 @@
+; CHTDB: ; [ Bakumatsu Roman - Gekka no Kenshi (Jpn) (1999) (SNK) {SLPM-86118} <bakumats> ]
+
+[P1 Infinite HP Stage 1]
+Type = Gameshark
+Activation = EndFrame
+8007D32C 0100
+
+[P1 Infinite HP Stage 2]
+Type = Gameshark
+Activation = EndFrame
+80079BDC 0100
+
+[P1 Infinite HP Stage 3]
+Type = Gameshark
+Activation = EndFrame
+80079A04 0100
+
+[P1 Infinite HP Stage 4]
+Type = Gameshark
+Activation = EndFrame
+8007BEE4 0100
+
+[P1 Infinite HP Stage 5]
+Type = Gameshark
+Activation = EndFrame
+8007B784 0100
+
+[P1 Infinite HP Stage 8]
+Type = Gameshark
+Activation = EndFrame
+8007D154 0100
+
+[P1 Infinite HP Stage 9]
+Type = Gameshark
+Activation = EndFrame
+80079DB4 0100
+
+[P1 Infinite HP Stage 10]
+Type = Gameshark
+Activation = EndFrame
+8007C294 0100
+
+[Hidden characters added bonus fully open]
+Type = Gameshark
+Activation = EndFrame
+80071906 FFFF
+80075B96 00FF
+
+[Defeat the enemy with a single blow]
+Type = Gameshark
+Activation = EndFrame
+8002C7F0 0001
+

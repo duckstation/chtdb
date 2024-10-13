@@ -1,0 +1,418 @@
+; CHTDB: ; [ WWF SmackDown! (Europe) {SLES-02619} ]
+
+[Enable Extra Heads In Character Selection]
+Type = Gameshark
+Activation = EndFrame
+90090F7C 00FF00FF
+
+[Enable Extra Upper Body Parts]
+Type = Gameshark
+Activation = EndFrame
+90090F90 00FF00FF
+
+[Enable Extra Lower Body Parts]
+Type = Gameshark
+Activation = EndFrame
+90090FA4 00FF00FF
+
+[Have All Player Characteristics And Moves]
+Type = Gameshark
+Activation = EndFrame
+50000C02 0000
+80090700 FFFF
+
+[P1 Infinite Special Attacks\Single Match]
+Type = Gameshark
+Activation = EndFrame
+A60BB836 00000005
+
+[P1 Infinite Special Attacks\Hardcore]
+Type = Gameshark
+Activation = EndFrame
+A60BAEE2 00000005
+
+[P1 Infinite Special Attacks\Special Referee]
+Type = Gameshark
+Activation = EndFrame
+A60BC16A 00000005
+
+[P1 Infinite Special Attacks\Anywhere Fall]
+Type = Gameshark
+Activation = EndFrame
+A60BC16A 00000005
+
+[P1 Infinite Special Attacks\I Quit]
+Type = Gameshark
+Activation = EndFrame
+A60BAF7A 00000005
+
+[P1 Infinite Special Attacks\Cage Match]
+Type = Gameshark
+Activation = EndFrame
+A60BACFE 00000005
+
+[P1 Infinite Special Attacks\Survival Match]
+Type = Gameshark
+Activation = EndFrame
+A60BACFE 00000005
+
+[Full Power Bar & Earn A Special Every Hit\P1 I Quit]
+Type = Gameshark
+Activation = EndFrame
+A60BB834 00000064
+
+[Full Power Bar & Earn A Special Every Hit\P2 I Quit]
+Type = Gameshark
+Activation = EndFrame
+A60C48A8 00000064
+
+[Full Power Bar & Earn A Special Every Hit\P1 Special Referee]
+Type = Gameshark
+Activation = EndFrame
+A60BC168 00000064
+
+[Full Power Bar & Earn A Special Every Hit\P2 Special Referee]
+Type = Gameshark
+Activation = EndFrame
+A60C90A8 00000064
+
+[Full Power Bar & Earn A Special Every Hit\P1 Survival Match]
+Type = Gameshark
+Activation = EndFrame
+A60BC168 00000064
+
+[Full Power Bar & Earn A Special Every Hit\P2 Survival Match]
+Type = Gameshark
+Activation = EndFrame
+A60C9434 00000064
+
+[Full Power Bar & Earn A Special Every Hit\P1 Cage Match]
+Type = Gameshark
+Activation = EndFrame
+A60B6CA8 00000064
+
+[Full Power Bar & Earn A Special Every Hit\P2 Cage Match]
+Type = Gameshark
+Activation = EndFrame
+A60C4D54 00000064
+
+[Full Power Bar & Earn A Special Every Hit\P1 Anywhere Fall]
+Type = Gameshark
+Activation = EndFrame
+A60BB4A8 00000064
+
+[Full Power Bar & Earn A Special Every Hit\P2 Anywhere Fall]
+Type = Gameshark
+Activation = EndFrame
+A60C8D10 00000064
+
+[Full Power Bar & Earn A Special Every Hit\P1 King Of The Ring]
+Type = Gameshark
+Activation = EndFrame
+A60BB834 00000064
+
+[Full Power Bar & Earn A Special Every Hit\P2 King Of The Ring]
+Type = Gameshark
+Activation = EndFrame
+A60C8D10 00000064
+
+[Full Power Bar & Earn A Special Every Hit\P1 Single Match]
+Type = Gameshark
+Activation = EndFrame
+A60BB834 00000064
+
+[Full Power Bar & Earn A Special Every Hit\P2 Single Match]
+Type = Gameshark
+Activation = EndFrame
+A60C90A8 00000064
+
+[Full Power Bar & Earn A Special Every Hit\P1 Tag Match]
+Type = Gameshark
+Activation = EndFrame
+A60BB834 00000064
+
+[Full Power Bar & Earn A Special Every Hit\P2 Tag Match]
+Type = Gameshark
+Activation = EndFrame
+A60C90A8 00000064
+
+[Full Power Bar & Earn A Special Every Hit\P3 Tag Match]
+Type = Gameshark
+Activation = EndFrame
+A60D7968 00000064
+
+[Full Power Bar & Earn A Special Every Hit\P4 Tag Match]
+Type = Gameshark
+Activation = EndFrame
+A60E4510 00000064
+
+[Full Power Bar & Earn A Special Every Hit\P1 Handicapped 1 On 2]
+Type = Gameshark
+Activation = EndFrame
+A60BB834 00000064
+
+[Full Power Bar & Earn A Special Every Hit\P2 Handicapped 1 On 2]
+Type = Gameshark
+Activation = EndFrame
+A60C90A8 00000064
+
+[Full Power Bar & Earn A Special Every Hit\P3 Handicapped 1 On 2]
+Type = Gameshark
+Activation = EndFrame
+A60D7968 00000064
+
+[Full Power Bar & Earn A Special Every Hit\P1 Handicapped 1 On 3]
+Type = Gameshark
+Activation = EndFrame
+A60BB834 00000064
+
+[Full Power Bar & Earn A Special Every Hit\P2 Handicapped 1 On 3]
+Type = Gameshark
+Activation = EndFrame
+A60C90A8 00000064
+
+[Full Power Bar & Earn A Special Every Hit\P3 Handicapped 1 On 3]
+Type = Gameshark
+Activation = EndFrame
+A60D7968 00000064
+
+[Full Power Bar & Earn A Special Every Hit\P4 Handicapped 1 On 3]
+Type = Gameshark
+Activation = EndFrame
+A60E4510 00000064
+
+[Full Power Bar & Earn A Special Every Hit\P1 Battle Royal]
+Type = Gameshark
+Activation = EndFrame
+A60BB834 00000064
+
+[Full Power Bar & Earn A Special Every Hit\P2 Battle Royal]
+Type = Gameshark
+Activation = EndFrame
+A60C90A8 00000064
+
+[Full Power Bar & Earn A Special Every Hit\P3 Battle Royal]
+Type = Gameshark
+Activation = EndFrame
+A60D7968 00000064
+
+[Full Power Bar & Earn A Special Every Hit\P4 Battle Royal]
+Type = Gameshark
+Activation = EndFrame
+A60E4510 00000064
+
+[Full Power Bar & Earn A Special Every Hit\P1 Royal Rumble]
+Type = Gameshark
+Activation = EndFrame
+A60BB834 00000064
+
+[Full Power Bar & Earn A Special Every Hit\P2 Royal Rumble]
+Type = Gameshark
+Activation = EndFrame
+A60C90A8 00000064
+
+[Full Power Bar & Earn A Special Every Hit\P3 Royal Rumble]
+Type = Gameshark
+Activation = EndFrame
+A60D7968 00000064
+
+[Full Power Bar & Earn A Special Every Hit\P4 Royal Rumble]
+Type = Gameshark
+Activation = EndFrame
+A60E4510 00000064
+
+[P1 Starts With 5 Specials]
+Type = Gameshark
+Activation = EndFrame
+8007ACDE 0005
+
+[P2 Starts With 5 Specials]
+Type = Gameshark
+Activation = EndFrame
+8007ACF6 0005
+
+[P3 Starts With 5 Specials]
+Type = Gameshark
+Activation = EndFrame
+8007AD0E 0005
+
+[P4 Starts With 5 Specials]
+Type = Gameshark
+Activation = EndFrame
+8007AD26 0005
+
+[Never Add A Special]
+Type = Gameshark
+Activation = EndFrame
+80049878 0000
+
+[Never Lose A Special]
+Type = Gameshark
+Activation = EndFrame
+80047B44 0000
+
+[No Power-Meter]
+Type = Gameshark
+Activation = EndFrame
+80049856 3C00
+
+[Infinite Creation Points]
+Type = Gameshark
+Activation = EndFrame
+A60ED5EA 0040004A
+
+[Fight In The Crowd]
+Type = Gameshark
+Activation = EndFrame
+8007ACAC 0001
+
+[Infinite Special-Codes\P1]
+Type = Gameshark
+Activation = EndFrame
+80049878 0000
+80047B44 0000
+8007ACDE 0005
+8007ACF6 0000
+8007AD0E 0000
+8007AD26 0000
+
+[Infinite Special-Codes\P2]
+Type = Gameshark
+Activation = EndFrame
+80049878 0000
+80047B44 0000
+8007ACDE 0000
+8007ACF6 0005
+8007AD0E 0000
+8007AD26 0000
+
+[Infinite Special-Codes\P3/Ref]
+Type = Gameshark
+Activation = EndFrame
+80049878 0000
+80047B44 0000
+8007ACDE 0000
+8007ACF6 0000
+8007AD0E 0005
+8007AD26 0000
+
+[Infinite Special-Codes\P4]
+Type = Gameshark
+Activation = EndFrame
+80049878 0000
+80047B44 0000
+8007ACDE 0000
+8007ACF6 0000
+8007AD0E 0000
+8007AD26 0005
+
+[Infinite Special-Codes\P1/P2]
+Type = Gameshark
+Activation = EndFrame
+80049878 0000
+80047B44 0000
+8007ACDE 0005
+8007ACF6 0005
+8007AD0E 0000
+8007AD26 0000
+
+[Infinite Special-Codes\P1/P3/Ref]
+Type = Gameshark
+Activation = EndFrame
+80049878 0000
+80047B44 0000
+8007ACDE 0005
+8007ACF6 0000
+8007AD0E 0005
+8007AD26 0000
+
+[Infinite Special-Codes\P1/P4]
+Type = Gameshark
+Activation = EndFrame
+80049878 0000
+80047B44 0000
+8007ACDE 0005
+8007ACF6 0000
+8007AD0E 0000
+8007AD26 0005
+
+[Infinite Special-Codes\P1/P2/P3]
+Type = Gameshark
+Activation = EndFrame
+80049878 0000
+80047B44 0000
+8007ACDE 0005
+8007ACF6 0005
+8007AD0E 0005
+8007AD26 0000
+
+[Infinite Special-Codes\P1/P3/Ref/P4]
+Type = Gameshark
+Activation = EndFrame
+80049878 0000
+80047B44 0000
+8007ACDE 0005
+8007ACF6 0000
+8007AD0E 0005
+8007AD26 0005
+
+[Infinite Special-Codes\P1/P2/P4]
+Type = Gameshark
+Activation = EndFrame
+80049878 0000
+80047B44 0000
+8007ACDE 0005
+8007ACF6 0005
+8007AD0E 0000
+8007AD26 0005
+
+[Infinite Special-Codes\P2/P3/Ref]
+Type = Gameshark
+Activation = EndFrame
+80049878 0000
+80047B44 0000
+8007ACDE 0000
+8007ACF6 0005
+8007AD0E 0005
+8007AD26 0000
+
+[Infinite Special-Codes\P2/P4]
+Type = Gameshark
+Activation = EndFrame
+80049878 0000
+80047B44 0000
+8007ACDE 0000
+8007ACF6 0005
+8007AD0E 0000
+8007AD26 0005
+
+[Infinite Special-Codes\P2/P3/Ref/P4]
+Type = Gameshark
+Activation = EndFrame
+80049878 0000
+80047B44 0000
+8007ACDE 0000
+8007ACF6 0005
+8007AD0E 0005
+8007AD26 0005
+
+[Infinite Special-Codes\P3/Ref/P4]
+Type = Gameshark
+Activation = EndFrame
+80049878 0000
+80047B44 0000
+8007ACDE 0000
+8007ACF6 0000
+8007AD0E 0005
+8007AD26 0005
+
+[Infinite Special-Codes\P1/P2/P3/Ref/P4]
+Type = Gameshark
+Activation = EndFrame
+80049878 0000
+80047B44 0000
+8007ACDE 0005
+8007ACF6 0005
+8007AD0E 0005
+8007AD26 0005
+

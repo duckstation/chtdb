@@ -1,0 +1,22 @@
+; CHTDB: ; [ Irem Arcade Classics (Jpn) (1996) (I'Max) {SLPS-00341} <iremac> ]
+
+[Kung-Fu Master\Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8006695E 0280
+
+[Kung-Fu Master\Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+8005E250 1F1A
+
+[Kung-Fu Master\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80066964 0003
+
+[Zippy Race\Infinite Fuel]
+Type = Gameshark
+Activation = EndFrame
+80096644 3F2C
+

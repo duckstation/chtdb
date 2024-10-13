@@ -1,0 +1,29 @@
+; CHTDB: ; [ Klaymen Klaymen 2: Skullmonkey no Gyakushuu (Japan) {SLPS-01501} ]
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+300A4AE7 0063
+
+[Infinite Bullets]
+Type = Gameshark
+Activation = EndFrame
+300A4AE3 0063
+
+[Infinite Points]
+Type = Gameshark
+Activation = EndFrame
+300A4AE2 0063
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+300A4AE1 0063
+
+[Infinite All Weapons]
+Type = Gameshark
+Activation = EndFrame
+800A4AE4 6363
+300A4AE6 0063
+800A4AEC 0063
+

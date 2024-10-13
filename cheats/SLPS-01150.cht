@@ -1,0 +1,57 @@
+; CHTDB: ; [ Densha de Go! (Japan) {SLPS-01150} ]
+
+[Max People]
+Type = Gameshark
+Activation = EndFrame
+800535D0 03E7
+
+[Time Always 999]
+Type = Gameshark
+Activation = EndFrame
+800535D0 03E7
+
+[Will Not Reduce The Time When You Stop Not Regularly]
+Type = Gameshark
+Activation = EndFrame
+800276BA 8C22
+
+[Will Not Reduce The Time When You Can't Get To Stop At The Station]
+Type = Gameshark
+Activation = EndFrame
+8001E9DE 8C22
+
+[Total Point 100]
+Type = Gameshark
+Activation = EndFrame
+801F4CC0 0064
+
+[Move Very Fast (Press R1)]
+Type = Gameshark
+Activation = EndFrame
+D0053250 0008
+800692A6 42FF
+
+[Super Brake (Press R2)]
+Type = Gameshark
+Activation = EndFrame
+D0053250 0002
+800692A6 0000
+
+[74 Km/H (Press L1)]
+Type = Gameshark
+Activation = EndFrame
+D0053250 0004
+800692A6 41A5
+
+[44 Km/H (Press L2)]
+Type = Gameshark
+Activation = EndFrame
+D0053250 0001
+800692A6 4145
+
+[Autostop On Stopping Point]
+Type = Gameshark
+Activation = EndFrame
+D00531D8 0000
+800692A6 0000
+

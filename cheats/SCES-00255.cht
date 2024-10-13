@@ -1,0 +1,35 @@
+; CHTDB: ; [ Tekken 2 (Europe) {SCES-00255} ]
+
+[P1 Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800D0988 008C
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800A95E6 0099
+
+[Select all 25 characters]
+Type = Gameshark
+Activation = EndFrame
+900A370C 00FFFFFF
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800A3742 006E
+900A3744 00C800C8
+800A3748 00C8
+800D0AC6 006E
+
+[Automatic Win]
+Type = Gameshark
+Activation = EndFrame
+800AAE72 0000
+
+[Start On Final Stage]
+Type = Gameshark
+Activation = EndFrame
+800D6520 0009
+

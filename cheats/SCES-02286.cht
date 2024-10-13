@@ -1,0 +1,51 @@
+; CHTDB: ; [ Syphon Filter 2 (France) {SCES-02286 | SCES-12286} ]
+
+[Ammo And Items Increase .To have Ammo and Items increase instead of decrease click on L3 (i.e. left stick of analogue pad). To get back to normal click on R3 (i.e. right stick of analogue pad).]
+Type = Gameshark
+Activation = EndFrame
+D0122FFA FFFD
+80064820 0001
+D0122FFA FFFB
+80064820 FFFF
+
+[Mission Never Fails On (Press L2)]
+Type = Gameshark
+Activation = EndFrame
+D0122FFA FEFF
+80025D6E 2A00
+
+[Immune to fire]
+Type = Gameshark
+Activation = EndFrame
+8003B08A 2A00
+
+[No explosion]
+Type = Gameshark
+Activation = EndFrame
+8003B70A 2A00
+
+[All weapons after one pick-up]
+Type = Gameshark
+Activation = EndFrame
+80063170 FFFF
+
+[Timer frozen]
+Type = Gameshark
+Activation = EndFrame
+8005CACE 2A00
+
+[Timers increase]
+Type = Gameshark
+Activation = EndFrame
+8005CAC8 0001
+
+[Unlock menu cheat]
+Type = Gameshark
+Activation = EndFrame
+9011F4D0 FFFFFFFF
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+30120795 000C
+

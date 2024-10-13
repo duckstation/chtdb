@@ -1,0 +1,63 @@
+; CHTDB: ; [ Magical Medical (Jpn) (1998) (Konami) {SLPM-86099 (VX081-J1)} <magmedic> ]
+
+[Infinite + Max Energy]
+Type = Gameshark
+Activation = EndFrame
+8004D6C6 03E7
+8004D6CC 03E7
+
+[Time (Minutes)]
+Type = Gameshark
+Activation = EndFrame
+3004D956 0000
+
+[Time (Hours)]
+Type = Gameshark
+Activation = EndFrame
+3004D956 00FF
+
+[Infinite Time?]
+Type = Gameshark
+Activation = EndFrame
+A60578D8 00010000
+
+[Dfup Items Dfmax]
+Type = Gameshark
+Activation = EndFrame
+C007A5C8 03E8
+8007A5CC 0001
+8007A5E4 0001
+00000000 FFFF
+
+[Atup Items Atmax]
+Type = Gameshark
+Activation = EndFrame
+C007A4F0 03E8
+8007A4F4 0001
+8007A50C 0001
+00000000 FFFF
+
+[Hpup Items Hpmax]
+Type = Gameshark
+Activation = EndFrame
+C007A3D0 03E8
+8007A3D4 0001
+8007A3EC 0001
+00000000 FFFF
+
+[Tryptophan's Effect Up]
+Type = Gameshark
+Activation = EndFrame
+C007A584 000E
+8007A59C 00FF
+8007A5A4 0000
+00000000 FFFF
+
+[Prevent Abnormal Status]
+Type = Gameshark
+Activation = EndFrame
+D005FAFC 0011
+9005FB64 A640004C
+D00605E0 004C
+800605E2 A500
+

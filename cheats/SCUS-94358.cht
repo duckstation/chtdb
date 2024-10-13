@@ -1,0 +1,39 @@
+; CHTDB: ; [ Cool Boarders 2 (USA) (1997) (Sony Computer Entertainment America) {SCUS-94358} <coolboa2> ]
+
+[Infinite Checkpoint Time]
+Type = Gameshark
+Activation = EndFrame
+8009103C 0000
+
+[Always Place First]
+Type = Gameshark
+Activation = EndFrame
+80130994 0001
+
+[Perfect Score In Half Pipe]
+Type = Gameshark
+Activation = EndFrame
+8009A868 5555
+8009A87C 5555
+9009A880 55555555
+
+[Extra Boards]
+Type = Gameshark
+Activation = EndFrame
+80057102 0007
+
+[Extra Tracks]
+Type = Gameshark
+Activation = EndFrame
+800570FC 000A
+
+[Enable Extra Characters]
+Type = Gameshark
+Activation = EndFrame
+80057100 FFFF
+
+[Mirror Mode]
+Type = Gameshark
+Activation = EndFrame
+80057104 0001
+

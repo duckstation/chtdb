@@ -1,0 +1,19 @@
+; CHTDB: ; [ Nectaris - Military Madness (USA) (1999) (Jaleco USA) {SLUS-00764} <nectaris> ]
+
+[Instant Win]
+Type = Gameshark
+Activation = EndFrame
+50003801 0000
+30148B10 0014
+
+[Unlock All Scenarios]
+Type = Gameshark
+Activation = EndFrame
+9013EE80 FFFFFFFF
+9013EE84 FFFFFFFF
+
+[Game Time 0H 0M]
+Type = Gameshark
+Activation = EndFrame
+9013EE7C 00000000
+

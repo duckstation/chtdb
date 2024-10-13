@@ -1,0 +1,14 @@
+; CHTDB: ; [ Master of Monsters: Disciples of Gaia (Europe) {SLES-00244} ]
+
+[Infinite & Max HP Fist Character]
+Type = Gameshark
+Activation = EndFrame
+800BC956 03E7
+800BC958 03E7
+
+[Infinite & Max MP Fist Character]
+Type = Gameshark
+Activation = EndFrame
+800BC95A 0063
+800BC95C 0063
+

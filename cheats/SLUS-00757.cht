@@ -1,0 +1,65 @@
+; CHTDB: ; [ Quake II (USA) (1999) (Activision) {SLUS-00757} <quake2> ]
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800CBDA0 0064
+
+[P1 Have All Weapons it works, but you can not use the weapons till you get some ammo for them.]
+Type = Gameshark
+Activation = EndFrame
+800C7F38 0FFF
+
+[P1 Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+800C7F1E 0064
+
+[P1 Infinite Shotgun + Super Shotgun Ammo]
+Type = Gameshark
+Activation = EndFrame
+800C7F3C 0064
+
+[P1 Infinite Machine Gun + Chaingun Ammo]
+Type = Gameshark
+Activation = EndFrame
+800C7F3E 0064
+
+[P1 Infinite Grenades + Grenade Launcher Ammo]
+Type = Gameshark
+Activation = EndFrame
+800C7F40 0064
+
+[P1 Infinite Rocket Launcher Ammo]
+Type = Gameshark
+Activation = EndFrame
+800C7F42 0064
+
+[P1 Infinite Hyper Blaster + Bfg Ammo]
+Type = Gameshark
+Activation = EndFrame
+800C7F44 0064
+
+[P1 Infinite Rail Gun Ammo]
+Type = Gameshark
+Activation = EndFrame
+800C7F46 0064
+
+[P1 Super Jump Press Square]
+Type = Gameshark
+Activation = EndFrame
+D00C7DD0 8000
+800CBD86 FEC7
+
+[P1 Refresh Health In Level 3 Press Select+R2]
+Type = Gameshark
+Activation = EndFrame
+D00C7DD0 0201
+800CC3A0 0064
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+81055DF4 4CCC
+81055DF8 CCCD
+

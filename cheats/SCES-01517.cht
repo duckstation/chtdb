@@ -1,0 +1,67 @@
+; CHTDB: ; [ Disneys Tarzan (Germany) {SCES-01517} ]
+
+[Unendlich MüNzen]
+Type = Gameshark
+Activation = EndFrame
+8005B840 03E7
+
+[Max Energie]
+Type = Gameshark
+Activation = EndFrame
+9008E810 24050160
+
+[Unendlich Energie]
+Type = Gameshark
+Activation = EndFrame
+8008F51E 3C00
+
+[Unendlich Leben]
+Type = Gameshark
+Activation = EndFrame
+80094C76 3C00
+
+[Habe Alle Kartenteile/Tarzan]
+Type = Gameshark
+Activation = EndFrame
+8005B810 FFFF
+
+[Habe Immer Waffe]
+Type = Gameshark
+Activation = EndFrame
+800A6778 0010
+
+[Unendlich Zeit Im Bonus-Level]
+Type = Gameshark
+Activation = EndFrame
+800A49D0 3C00
+
+[Alle Level/Filme]
+Type = Gameshark
+Activation = EndFrame
+50000D02 0000
+3005B847 00FF
+
+[Alle Level Zu 100% Fertig]
+Type = Gameshark
+Activation = EndFrame
+50000D02 0000
+3005B848 0064
+
+[Unendlich Violette FrüChte]
+Type = Gameshark
+Activation = EndFrame
+D20A6BDA 0063
+800A6BDA 0063
+
+[Unendlich Rote FrüChte]
+Type = Gameshark
+Activation = EndFrame
+D20A6BD8 0063
+800A6BD8 0063
+
+[Unendlich Blaue FrüChte]
+Type = Gameshark
+Activation = EndFrame
+D20A6BD6 0063
+800A6BD6 0063
+

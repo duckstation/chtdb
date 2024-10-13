@@ -1,0 +1,13 @@
+; CHTDB: ; [ WCW Backstage Assault (USA) (2000) (Electronic Arts) {SLUS-01274} <wcwback> ]
+
+[Unlock Everything]
+Type = Gameshark
+Activation = EndFrame
+50000F02 0000
+800934C8 0000
+
+[Infinite Creation Points]
+Type = Gameshark
+Activation = EndFrame
+A61FFEB0 00010063
+

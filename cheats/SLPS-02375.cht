@@ -1,0 +1,12 @@
+; CHTDB: ; [ Break Volley (Jpn) (1999) (Aqua Rouge) {SLPS-02375} <bkvolley> ]
+
+[P1 Score 15]
+Type = Gameshark
+Activation = EndFrame
+8019CFF0 000F
+
+[TP (training points) 999]
+Type = Gameshark
+Activation = EndFrame
+801F02D8 03E7
+

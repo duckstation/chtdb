@@ -1,0 +1,72 @@
+; CHTDB: ; [ Macross Plus: Game Edition (Japan) {SLPS-02791} ]
+
+[Infinite Armor Activate after starting a mission and deactivate after finish]
+Type = Gameshark
+Activation = EndFrame
+801297DC 4132
+80129824 4132
+8012986C 4132
+801298B4 4132
+801298FC 4132
+80129944 4132
+8012998C 4132
+801299D4 4132
+80129A1C 4132
+80129A64 4132
+80129AAC 4132
+80129AF4 4132
+80129B3C 4132
+801A2844 4132
+
+[Does not decrease vernier gauge]
+Type = Gameshark
+Activation = EndFrame
+A61571D2 004A0040
+
+[Does not decrease bullet]
+Type = Gameshark
+Activation = EndFrame
+A615B67C 00010000
+
+[It does not increase TIME]
+Type = Gameshark
+Activation = EndFrame
+A6152D1C 00010000
+
+[Enemy destroyed Press Select Button]
+Type = Gameshark
+Activation = EndFrame
+D01A1458 0100
+801A28FC 0000
+
+[Does not decrease HP]
+Type = Gameshark
+Activation = EndFrame
+A6152CE2 00460040
+A6150E22 00500040
+
+[All aircraft selectable]
+Type = Gameshark
+Activation = EndFrame
+301F3B0D 0002
+
+[MOVIE fully open]
+Type = Gameshark
+Activation = EndFrame
+301F3B25 0010
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A71FB140 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A71FB140 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A71FB140 10000400
+

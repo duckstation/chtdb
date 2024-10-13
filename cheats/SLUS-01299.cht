@@ -1,0 +1,32 @@
+; CHTDB: ; [ Spec Ops - Ranger Elite (USA) (2001) (Take-Two Interactive Software) {SLUS-01299} <specopre> ]
+
+[Infinite Health (Both Rangers)]
+Type = Gameshark
+Activation = EndFrame
+8001C2C4 2400
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+8002A2E8 2400
+
+[Main Weapon - Extra Ammo]
+Type = Gameshark
+Activation = EndFrame
+8001B1C4 0001
+
+[Main Weapon - Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+8001B1C8 2400
+
+[Secondary Weapon - Extra Ammo]
+Type = Gameshark
+Activation = EndFrame
+800200E4 0001
+
+[Secondary Weapon - Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+800200E8 2400
+

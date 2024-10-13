@@ -1,0 +1,12 @@
+; CHTDB: ; [ Klaymen Gun-Hockey (Japan) {SLPS-02424} ]
+
+[P1 score = 99]
+Type = Gameshark
+Activation = EndFrame
+801D53B0 0063
+
+[Enemy score = 0]
+Type = Gameshark
+Activation = EndFrame
+801D53CC 0000
+

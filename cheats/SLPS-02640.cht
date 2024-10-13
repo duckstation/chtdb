@@ -1,0 +1,114 @@
+; CHTDB: ; [ Khamrai (Jpn) (2000) (Namco) {SLPS-02640} <khamrai> ]
+
+[Infinite Energy Character 2]
+Type = Gameshark
+Activation = EndFrame
+800BE56C 270F
+
+[Infinite Energy Character 3]
+Type = Gameshark
+Activation = EndFrame
+800BE400 270F
+800BE404 270F
+
+[Infinite Energy Character 4]
+Type = Gameshark
+Activation = EndFrame
+800BE5E0 270F
+800BE5E4 270F
+
+[Infinite Energy Character 5]
+Type = Gameshark
+Activation = EndFrame
+800BE4F0 270F
+800BE4F4 270F
+
+[Gold 100.000]
+Type = Gameshark
+Activation = EndFrame
+900BE7B4 000186A0
+
+[All Stats 9999]
+Type = Gameshark
+Activation = EndFrame
+50000E02 0000
+800BE37C 270F
+
+[Level 99]
+Type = Gameshark
+Activation = EndFrame
+800BE372 6300
+
+[Exp. 100.000]
+Type = Gameshark
+Activation = EndFrame
+900BE378 000186A0
+
+[Debug Menu (Battle Test)]
+Type = Gameshark
+Activation = EndFrame
+800397E8 0001
+
+[Infinite Bar (Hbp)]
+Type = Gameshark
+Activation = EndFrame
+A6031BF2 00650060
+
+[Items Not Decrease (Hbp)]
+Type = Gameshark
+Activation = EndFrame
+A6015500 FFFF0000
+
+[Not Decrease (Hbp)]
+Type = Gameshark
+Activation = EndFrame
+A60698E2 00C300C0
+A6052F32 00470040
+
+[Save Anywhere]
+Type = Gameshark
+Activation = EndFrame
+C00CB82E 0003
+300C6D1A 0001
+300C6D29 0000
+00000000 FFFF
+D00C6D1A 0000
+300C6D29 0001
+
+[Infinite Tool]
+Type = Gameshark
+Activation = EndFrame
+D00154F0 1821
+80015500 0000
+
+[Enemy does not come out]
+Type = Gameshark
+Activation = EndFrame
+800E0420 0000
+
+[No Random Battles Adversary is normal Press SELECT + r2 button ,does not appear press SELECT + L2 button]
+Type = Gameshark
+Activation = EndFrame
+D00CB82C 0101
+800334FE 1000
+D00CB82C 0102
+800334FE 1200
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A70E5C28 10000C00
+A70C1B74 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A70E5C28 10000900
+A70C1B74 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A70E5C28 10000400
+A70C1B74 10000400
+

@@ -1,0 +1,18 @@
+; CHTDB: ; [ Tiny Toon Adventures: Plucky's Big Adventure (Europe) {SLES-03547} ]
+
+[Infinite Energy Plucky]
+Type = Gameshark
+Activation = EndFrame
+8007E212 03E8
+8007E214 03E8
+
+[Infinite Energy Hampton]
+Type = Gameshark
+Activation = EndFrame
+8007D9BA 03E8
+
+[Infinite Energy Babs Bunny]
+Type = Gameshark
+Activation = EndFrame
+8007CBD2 03E8
+

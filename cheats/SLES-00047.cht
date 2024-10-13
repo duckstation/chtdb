@@ -1,0 +1,22 @@
+; CHTDB: ; [ Off-World Interceptor Extreme (Europe) {SLES-00047} ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+900CD8C8 0098967F
+
+[Infinite Clones]
+Type = Gameshark
+Activation = EndFrame
+800CD8C6 0009
+
+[Infinite Nitros]
+Type = Gameshark
+Activation = EndFrame
+800CD8C1 0009
+
+[Infinite Missiles]
+Type = Gameshark
+Activation = EndFrame
+800CD8C3 0009
+

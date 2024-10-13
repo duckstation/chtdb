@@ -1,0 +1,17 @@
+; CHTDB: ; [ Block Kuzushi - Kowashite Help! (Jpn) (2000) (Media Gallop) {SLPS-03042} <blockhlp> ]
+
+[P2 Infinite Continues]
+Type = Gameshark
+Activation = EndFrame
+80060BD8 0009
+
+[P1 Infinite Continues]
+Type = Gameshark
+Activation = EndFrame
+80060B4C 0009
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80060A84 176F
+

@@ -1,0 +1,48 @@
+; CHTDB: ; [ Twin Goddesses (Jpn) (1994) (PolyGram) {SLPS-00018} <twingodd> ]
+
+[Lots Of Money]
+Type = Gameshark
+Activation = EndFrame
+90083EDC 20000000
+
+[Infinite Lightning]
+Type = Gameshark
+Activation = EndFrame
+80083F48 0009
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80083EB8 00B4
+80083EC0 00B4
+
+[Select Legendary Mode Character\Carmilla]
+Type = Gameshark
+Activation = EndFrame
+8014BB94 0002
+
+[Select Legendary Mode Character\Goldrush]
+Type = Gameshark
+Activation = EndFrame
+8014BB94 0003
+
+[Select Legendary Mode Character\Ghom]
+Type = Gameshark
+Activation = EndFrame
+8014BB94 0004
+
+[Select Legendary Mode Character\Jinny]
+Type = Gameshark
+Activation = EndFrame
+8014BB94 0005
+
+[Select Legendary Mode Character\Fatman]
+Type = Gameshark
+Activation = EndFrame
+8014BB94 0006
+
+[Select Legendary Mode Character\Red Dawn]
+Type = Gameshark
+Activation = EndFrame
+8014BB94 0007
+

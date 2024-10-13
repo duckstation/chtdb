@@ -1,0 +1,72 @@
+; CHTDB: ; [ Zoids - Teikoku vs Kyouwakoku - Meka Seitai no Idenshi (Jpn) (2000) (Tomy) {SLPS-02982} <zoids> ]
+
+[Infinite HP first unit Mission 1]
+Type = Gameshark
+Activation = EndFrame
+901ED13C 270F270F
+
+[Infinite HP second unit Mission 1]
+Type = Gameshark
+Activation = EndFrame
+901ED238 270F270F
+
+[Infinite HP third unit Mission 1]
+Type = Gameshark
+Activation = EndFrame
+901ED1E4 270F270F
+
+[Infinite HP fourth unit Mission 1]
+Type = Gameshark
+Activation = EndFrame
+901ED190 270F270F
+
+[Have lot of gold]
+Type = Gameshark
+Activation = EndFrame
+901EC010 000F423F
+
+[Infinite HP first unit Mission 2]
+Type = Gameshark
+Activation = EndFrame
+901ED28C 270F270F
+
+[Infinite HP second unit Mission 2]
+Type = Gameshark
+Activation = EndFrame
+901ED388 270F270F
+
+[Full repair kit]
+Type = Gameshark
+Activation = EndFrame
+301EC04E 0063
+
+[Charge Kit 50]
+Type = Gameshark
+Activation = EndFrame
+301EC04F 0063
+
+[Charge Kit 100]
+Type = Gameshark
+Activation = EndFrame
+301EC050 0063
+
+[Charge Kit 150]
+Type = Gameshark
+Activation = EndFrame
+301EC051 0063
+
+[Charge Kit 200]
+Type = Gameshark
+Activation = EndFrame
+301EC052 0063
+
+[Charge Kit]
+Type = Gameshark
+Activation = EndFrame
+301EC053 0063
+
+[Full Charge Kit]
+Type = Gameshark
+Activation = EndFrame
+301EC054 0063
+

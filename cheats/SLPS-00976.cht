@@ -1,0 +1,22 @@
+; CHTDB: ; [ Command & Conquer Complete (GDI) (Japan) {SLPS-00976 | SLPS-00977} ]
+
+[Infinite Money For Gdi]
+Type = Gameshark
+Activation = EndFrame
+8011C564 270F
+
+[Infinite Power For Gdi]
+Type = Gameshark
+Activation = EndFrame
+8011C584 0600
+
+[Infinite Money For Nod]
+Type = Gameshark
+Activation = EndFrame
+8011CC4C 270F
+
+[Infinite Power For Nod]
+Type = Gameshark
+Activation = EndFrame
+8011CC6C 0600
+

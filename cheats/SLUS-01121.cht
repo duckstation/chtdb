@@ -1,0 +1,55 @@
+; CHTDB: ; [ Mary-Kate and Ashley - Magical Mystery Mall (USA) (2000) (Acclaim Entertainment) {SLUS-01121} <mnammm> ]
+
+[Maximum Tokens]
+Type = Gameshark
+Activation = EndFrame
+800C85C8 0039
+
+[Have All Jewels]
+Type = Gameshark
+Activation = EndFrame
+A60A686A 00000005
+
+[All Gems]
+Type = Gameshark
+Activation = EndFrame
+800A686A 0005
+
+[Everything Open/Completed]
+Type = Gameshark
+Activation = EndFrame
+900A688C FFFFFFFF
+
+[Max $]
+Type = Gameshark
+Activation = EndFrame
+800A6866 03E7
+
+[Infinite Time (Lizzie's Lunch)]
+Type = Gameshark
+Activation = EndFrame
+800DAE04 5000
+
+[Press L1 For Max Tips (Lizzie's Lunch)]
+Type = Gameshark
+Activation = EndFrame
+D00CDEB2 FBFF
+800DB75C FFFF
+
+[Press L2 For Max Sales (Lizzie's Lunch)]
+Type = Gameshark
+Activation = EndFrame
+D00CDEB2 FEFF
+800DADFC FFFF
+
+[Max Exposures Of Film (Photo Shoot)]
+Type = Gameshark
+Activation = EndFrame
+300C85C9 0036
+
+[Press R2 For More Picture Time (Photo Shoot)]
+Type = Gameshark
+Activation = EndFrame
+D00CDEB2 FDFF
+800A5154 5641
+

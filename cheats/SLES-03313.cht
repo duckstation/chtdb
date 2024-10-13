@@ -1,0 +1,72 @@
+; CHTDB: ; [ Disney/Pixar Captain Buzz Lightyear: Star Command (Germany) {SLES-03313} ]
+
+[Unendlich Energie]
+Type = Gameshark
+Activation = EndFrame
+800B8E6A 3E70
+
+[Habe Waffe]
+Type = Gameshark
+Activation = EndFrame
+300B4D28 0018
+
+[Alle Level & Missionen freigeschaltet & bestanden]
+Type = Gameshark
+Activation = EndFrame
+50000D01 0000
+300D4CEA 007F
+
+[Stoppuhr Angehalten (Drücke L2)]
+Type = Gameshark
+Activation = EndFrame
+D00E6702 FEFF
+800872C8 0000
+
+[Stoppuhr Läuft weiter (Drücke R2)]
+Type = Gameshark
+Activation = EndFrame
+D00E6702 FDFF
+800872C8 0D08
+
+[Habe alle kleinen, grünen Männchen]
+Type = Gameshark
+Activation = EndFrame
+800AA31C 0005
+800AA380 0005
+
+[Max Chips]
+Type = Gameshark
+Activation = EndFrame
+800B5C2E 03E7
+
+[Unendlich Gesundheit]
+Type = Gameshark
+Activation = EndFrame
+800B5C26 0188
+
+[Unendlich Jetpack-Treibstoff]
+Type = Gameshark
+Activation = EndFrame
+800AA928 0900
+
+[Moon Jump]
+Type = Gameshark
+Activation = EndFrame
+F4048000 00FF4000
+06000224 8C0002A6
+8E000286 00000000
+FFFFFFFF FFFFFFFF
+0030000C FFFFFFFF
+9000C000 27BDFFE8
+9000C004 AFA80010
+9000C008 3C08800B
+9000C00C 9108CE6B
+9000C014 00084027
+9000C018 31080040
+9000C01C 39080040
+9000C020 11000002
+9000C028 8602008E
+9000C030 8FA80010
+9000C034 27BD0018
+9000C038 03E00008
+

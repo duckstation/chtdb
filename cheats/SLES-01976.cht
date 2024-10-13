@@ -1,0 +1,35 @@
+; CHTDB: ; [ Driver (France) {SLES-01976} ]
+
+[Finish All Manouver In Park Test]
+Type = Gameshark
+Activation = EndFrame
+901E35B8 0F0F0F0F
+901E35BC 0F0F0F0F
+801E35C0 0F0F
+
+[Infinite Time In Park Test]
+Type = Gameshark
+Activation = EndFrame
+801E4290 0001
+
+[No Damage In Car Test]
+Type = Gameshark
+Activation = EndFrame
+801E35D0 0000
+
+[No Damage]
+Type = Gameshark
+Activation = EndFrame
+8009ACB0 0973
+
+[No Cops]
+Type = Gameshark
+Activation = EndFrame
+80097198 0000
+800970C4 0000
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+8008A52C 1333
+

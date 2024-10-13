@@ -1,0 +1,50 @@
+; CHTDB: ; [ Disney/Pixar Toy Story 2: Â¡Buzz Lightyear al Rescate! (Spain) {SLES-02408} ]
+
+[Infinite HP Buzz]
+Type = Gameshark
+Activation = EndFrame
+800B265E 000E
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800B2662 0009
+
+[99 Coins]
+Type = Gameshark
+Activation = EndFrame
+800B2666 0063
+
+[All Pizza Planet Tokens Start a new game get back to menu and continue game All Levels Completed and unlocked]
+Type = Gameshark
+Activation = EndFrame
+50000702 0000
+800C1A30 1F1F
+
+[All Movies Unlocked]
+Type = Gameshark
+Activation = EndFrame
+50000902 0000
+800C1A40 0101
+
+[Moon Jump]
+Type = Gameshark
+Activation = EndFrame
+F4048000 00FF4000
+06000224 8C0002A6
+8E000286 00000000
+FFFFFFFF FFFFFFFF
+0030000C FFFFFFFF
+9000C000 27BDFFE8
+9000C004 AFA80010
+9000C008 3C08800B
+9000C00C 9108CE6B
+9000C014 00084027
+9000C018 31080040
+9000C01C 39080040
+9000C020 11000002
+9000C028 8602008E
+9000C030 8FA80010
+9000C034 27BD0018
+9000C038 03E00008
+

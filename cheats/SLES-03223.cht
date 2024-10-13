@@ -1,0 +1,70 @@
+; CHTDB: ; [ Dino Crisis 2 (Germany) {SLES-03223} ]
+
+[Unendlich Gesundheit Version 1]
+Type = Gameshark
+Activation = EndFrame
+A6038C9C 01080000
+A6039568 01080000
+A6039718 01080000
+A6049198 01080000
+A60D181C 01080000
+A60D2234 01080000
+A60D2348 01080000
+A60D24EC 01080000
+A60D38BC 01080000
+
+[Unendlich Gesundheit Version 2]
+Type = Gameshark
+Activation = EndFrame
+D00224A4 010A
+800224A6 8645
+D00224B8 0108
+800224BA A645
+
+[INVENTAR Unendlich alle Objekte]
+Type = Gameshark
+Activation = EndFrame
+D0056094 FFFF
+D10F3420 0515
+D0056094 FFFF
+8005609A 0000
+
+[STORY MODUS Habe alle Objekte]
+Type = Gameshark
+Activation = EndFrame
+900AEAA0 03FFFFFF
+
+[STORY MODUS Habe alle Dateien]
+Type = Gameshark
+Activation = EndFrame
+900AEAA8 FFF3FD77
+
+[STORY MODUS Jederzeit Zugriff auf Terminal (Drücke L1 & Viereck)]
+Type = Gameshark
+Activation = EndFrame
+D00AB66A 7BFF
+800AE306 0002
+
+[STORY MODUS Betrachte Endsequenz / schnelles Ende (Wähle *Neues Spiel* im Hauptmenü)]
+Type = Gameshark
+Activation = EndFrame
+A60AE874 01010504
+
+[EXTRA CRISIS MODUS Anwählbar Im Startmenü Tastenkombination drücken, Optionen aufrufen, dann wieder zurück und der Modus ist anwählbar.(Drücke L1 & L2 & R1 & R2)]
+Type = Gameshark
+Activation = EndFrame
+D00AB66A F0FF
+300AE871 0001
+
+[EXTRA CRISIS MODUS Alle Charaktere & Dino Duel freigeschaltet (Drücke Select)]
+Type = Gameshark
+Activation = EndFrame
+D00AB66A FFFE
+800AE876 0FFF
+
+[EXTRA CRISIS MODUS Unendlich Zeit]
+Type = Gameshark
+Activation = EndFrame
+D0022210 FFFF
+80022214 0000
+

@@ -1,0 +1,43 @@
+; CHTDB: ; [ Tokyo Highway Battle (Europe) {SLES-00413} ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+8006630C FFFF
+
+[9.999.999 points]
+Type = Gameshark
+Activation = EndFrame
+8006630C 96DF
+8006630C 0098
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80066380 0000
+
+[Laptime 0.00.00 & always first]
+Type = Gameshark
+Activation = EndFrame
+30066378 0000
+
+[Start at lap 2]
+Type = Gameshark
+Activation = EndFrame
+A6066374 00000101
+
+[Start at lap 3]
+Type = Gameshark
+Activation = EndFrame
+A6066374 00000202
+
+[Only 1 lap to go]
+Type = Gameshark
+Activation = EndFrame
+D0066230 0202
+30066374 0001
+D0066230 0300
+30066374 0002
+D0066230 0301
+30066374 0002
+

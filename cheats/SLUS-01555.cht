@@ -1,0 +1,32 @@
+; CHTDB: ; [ Slots (USA) (2003) (Activision) {SLUS-01555} <slots> ]
+
+[Max Credits]
+Type = Gameshark
+Activation = EndFrame
+8005EDD0 0063
+
+[Max Total Bankroll]
+Type = Gameshark
+Activation = EndFrame
+90058C94 C9FF3B9A
+
+[Max Money Spent]
+Type = Gameshark
+Activation = EndFrame
+90058C98 C9FF3B9A
+
+[Max Money Won]
+Type = Gameshark
+Activation = EndFrame
+90058C9C C9FF3B9A
+
+[Max Points Earned]
+Type = Gameshark
+Activation = EndFrame
+80058CA6 FFFF
+
+[Max Points Spent]
+Type = Gameshark
+Activation = EndFrame
+90058CA8 FFFFFFFF
+

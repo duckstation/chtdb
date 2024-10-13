@@ -1,0 +1,270 @@
+; CHTDB: ; [ Chase the Express (Germany) {SCES-02814 | SCES-12814} ]
+
+[Zeit 0.00.05]
+Type = Gameshark
+Activation = EndFrame
+8001CE8E 0000
+
+[Unendlich Gesundheit]
+Type = Gameshark
+Activation = EndFrame
+80010402 1000
+
+[Unendlich Munition & GegenstäNde]
+Type = Gameshark
+Activation = EndFrame
+8007D6DE 0000
+
+[Alle Karten Komplett]
+Type = Gameshark
+Activation = EndFrame
+50000704 0000
+80010A80 0080
+50000804 0000
+80010AA0 0080
+50000404 0000
+80010AD0 0080
+50000204 0000
+80010AE4 0080
+50000704 0000
+80010B14 0080
+
+[Habe Alle Daten]
+Type = Gameshark
+Activation = EndFrame
+50002702 0202
+8001088C 0201
+
+[Habe Alle Waffen In Der Kiste (.Drücke Oben & L1)]
+Type = Gameshark
+Activation = EndFrame
+D00D8E8E FBEF
+50000202 0100
+80010470 0200
+D00D8E8E FBEF
+50000202 0200
+80010474 3000
+D00D8E8E FBEF
+50000202 0100
+80010478 3800
+D00D8E8E FBEF
+50000202 0100
+8001047C 3D00
+
+[Habe Alle SchlüSsel In Der Kiste (.Drücke Oben & L2)]
+Type = Gameshark
+Activation = EndFrame
+D00D8E8E FEEF
+50000E02 0100
+80010470 0A00
+
+[Habe Alle GegenstäNde In Der Kiste (Drücke Oben & R1)]
+Type = Gameshark
+Activation = EndFrame
+D00D8E8E F7EF
+50000502 0100
+80010470 0500
+D00D8E8E F7EF
+50001202 0100
+8001047A 1800
+
+[Max Anzahl GegenstäNde\Platz 1]
+Type = Gameshark
+Activation = EndFrame
+3001045C 00FF
+
+[Max Anzahl GegenstäNde\Platz 2]
+Type = Gameshark
+Activation = EndFrame
+3001045E 00FF
+
+[Max Anzahl GegenstäNde\Platz 3]
+Type = Gameshark
+Activation = EndFrame
+30010460 00FF
+
+[Max Anzahl GegenstäNde\Platz 4]
+Type = Gameshark
+Activation = EndFrame
+30010462 00FF
+
+[Max Anzahl GegenstäNde\Platz 5]
+Type = Gameshark
+Activation = EndFrame
+30010464 00FF
+
+[Max Anzahl GegenstäNde\Platz 6]
+Type = Gameshark
+Activation = EndFrame
+30010466 00FF
+
+[Max Anzahl GegenstäNde\Platz 7]
+Type = Gameshark
+Activation = EndFrame
+30010468 00FF
+
+[Max Anzahl GegenstäNde\Platz 8]
+Type = Gameshark
+Activation = EndFrame
+3001046A 00FF
+
+[Max Anzahl Der GegenstäNde In Der Kiste\Platz 1]
+Type = Gameshark
+Activation = EndFrame
+30010470 00FF
+
+[Max Anzahl Der GegenstäNde In Der Kiste\Platz 2]
+Type = Gameshark
+Activation = EndFrame
+30010472 00FF
+
+[Max Anzahl Der GegenstäNde In Der Kiste\Platz 3]
+Type = Gameshark
+Activation = EndFrame
+30010474 00FF
+
+[Max Anzahl Der GegenstäNde In Der Kiste\Platz 4]
+Type = Gameshark
+Activation = EndFrame
+30010476 00FF
+
+[Max Anzahl Der GegenstäNde In Der Kiste\Platz 5]
+Type = Gameshark
+Activation = EndFrame
+30010478 00FF
+
+[Max Anzahl Der GegenstäNde In Der Kiste\Platz 6]
+Type = Gameshark
+Activation = EndFrame
+3001047A 00FF
+
+[Max Anzahl Der GegenstäNde In Der Kiste\Platz 7]
+Type = Gameshark
+Activation = EndFrame
+3001047C 00FF
+
+[Max Anzahl Der GegenstäNde In Der Kiste\Platz 8]
+Type = Gameshark
+Activation = EndFrame
+3001047E 00FF
+
+[Max Anzahl Der GegenstäNde In Der Kiste\Platz 9]
+Type = Gameshark
+Activation = EndFrame
+30010480 00FF
+
+[Max Anzahl Der GegenstäNde In Der Kiste\Platz 10]
+Type = Gameshark
+Activation = EndFrame
+30010482 00FF
+
+[Max Anzahl Der GegenstäNde In Der Kiste\Platz 11]
+Type = Gameshark
+Activation = EndFrame
+30010484 00FF
+
+[Max Anzahl Der GegenstäNde In Der Kiste\Platz 12]
+Type = Gameshark
+Activation = EndFrame
+30010486 00FF
+
+[Max Anzahl Der GegenstäNde In Der Kiste\Platz 13]
+Type = Gameshark
+Activation = EndFrame
+30010488 00FF
+
+[Max Anzahl Der GegenstäNde In Der Kiste\Platz 14]
+Type = Gameshark
+Activation = EndFrame
+3001048A 00FF
+
+[Max Anzahl Der GegenstäNde In Der Kiste\Platz 15]
+Type = Gameshark
+Activation = EndFrame
+3001048C 00FF
+
+[Max Anzahl Der GegenstäNde In Der Kiste\Platz 16]
+Type = Gameshark
+Activation = EndFrame
+3001048E 00FF
+
+[Max Anzahl Der GegenstäNde In Der Kiste\Platz 17]
+Type = Gameshark
+Activation = EndFrame
+30010490 00FF
+
+[Max Anzahl Der GegenstäNde In Der Kiste\Platz 18]
+Type = Gameshark
+Activation = EndFrame
+30010492 00FF
+
+[Max Anzahl Der GegenstäNde In Der Kiste\Platz 19]
+Type = Gameshark
+Activation = EndFrame
+30010494 00FF
+
+[Max Anzahl Der GegenstäNde In Der Kiste\Platz 20]
+Type = Gameshark
+Activation = EndFrame
+30010496 00FF
+
+[Max Anzahl Der GegenstäNde In Der Kiste\Platz 21]
+Type = Gameshark
+Activation = EndFrame
+30010498 00FF
+
+[Max Anzahl Der GegenstäNde In Der Kiste\Platz 22]
+Type = Gameshark
+Activation = EndFrame
+3001049A 00FF
+
+[Max Anzahl Der GegenstäNde In Der Kiste\Platz 23]
+Type = Gameshark
+Activation = EndFrame
+3001049C 00FF
+
+[Max Anzahl Der GegenstäNde In Der Kiste\Platz 24]
+Type = Gameshark
+Activation = EndFrame
+3001049E 00FF
+
+[Max Anzahl Der GegenstäNde In Der Kiste\Platz 25]
+Type = Gameshark
+Activation = EndFrame
+300104A0 00FF
+
+[Max Anzahl Der GegenstäNde In Der Kiste\Platz 26]
+Type = Gameshark
+Activation = EndFrame
+300104A2 00FF
+
+[Max Anzahl Der GegenstäNde In Der Kiste\Platz 27]
+Type = Gameshark
+Activation = EndFrame
+300104A4 00FF
+
+[Max Anzahl Der GegenstäNde In Der Kiste\Platz 28]
+Type = Gameshark
+Activation = EndFrame
+300104A6 00FF
+
+[Max Anzahl Der GegenstäNde In Der Kiste\Platz 29]
+Type = Gameshark
+Activation = EndFrame
+300104A8 00FF
+
+[Max Anzahl Der GegenstäNde In Der Kiste\Platz 30]
+Type = Gameshark
+Activation = EndFrame
+300104AA 00FF
+
+[Max Anzahl Der GegenstäNde In Der Kiste\Platz 31]
+Type = Gameshark
+Activation = EndFrame
+300104AC 00FF
+
+[Max Anzahl Der GegenstäNde In Der Kiste\Platz 32]
+Type = Gameshark
+Activation = EndFrame
+300104AE 00FF
+

@@ -1,0 +1,48 @@
+; CHTDB: ; [ Invasion from Beyond (USA) (1998) (GT Interactive Software) {SLUS-00709} <invbeynd> ]
+
+[Infinite Scientists]
+Type = Gameshark
+Activation = EndFrame
+800856C8 0063
+
+[Infinite Component 1]
+Type = Gameshark
+Activation = EndFrame
+800856CC 0063
+
+[Infinite Component 2]
+Type = Gameshark
+Activation = EndFrame
+800856D0 0063
+
+[Infinite Component 3]
+Type = Gameshark
+Activation = EndFrame
+800856D4 0063
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80076D70 0400
+
+[Infinite Power]
+Type = Gameshark
+Activation = EndFrame
+80076D74 FFFF
+
+[Level Select With these, start a new game and then abort it, and the cheats will work]
+Type = Gameshark
+Activation = EndFrame
+30070E95 0001
+
+[All Ships + Weapons With these, start a new game and then abort it, and the cheats will work]
+Type = Gameshark
+Activation = EndFrame
+30070E96 0001
+
+[Infinite Shields]
+Type = Gameshark
+Activation = EndFrame
+80016174 0000
+8001634C 0000
+

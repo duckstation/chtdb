@@ -1,0 +1,473 @@
+; CHTDB: ; [ Vagrant Story (Germany) {SLES-02756} ]
+
+[Unendlich Hp]
+Type = Gameshark
+Activation = EndFrame
+D011FA2E 8011
+8011FA58 03E7
+
+[Max Hp]
+Type = Gameshark
+Activation = EndFrame
+D011FA2E 8011
+8011FA5A 03E7
+
+[Unendlich Mp]
+Type = Gameshark
+Activation = EndFrame
+D011FA2E 8011
+8011FA5C 03E7
+
+[Max Mp]
+Type = Gameshark
+Activation = EndFrame
+D011FA2E 8011
+
+[Moonjump]
+Type = Gameshark
+Activation = EndFrame
+D003FF5A 7FFF
+801203C2 FDF9
+
+[Zeit 00.00.00]
+Type = Gameshark
+Activation = EndFrame
+D0042BD4 15F4
+80042BD6 0000
+A6042BD4 15F40000
+8011FA5E 03E7
+
+['Risk' Immer Zero]
+Type = Gameshark
+Activation = EndFrame
+3011FA60 0000
+
+['Body' Immer Excellent]
+Type = Gameshark
+Activation = EndFrame
+3012006C 00C8
+
+['Right Arm' Immer Excellent]
+Type = Gameshark
+Activation = EndFrame
+3011FEB4 00C8
+
+['Left Arm' Immer Excellent]
+Type = Gameshark
+Activation = EndFrame
+3011FDD8 00C8
+
+['Head' Immer Excellent]
+Type = Gameshark
+Activation = EndFrame
+3011FF90 00C8
+
+['Legs' Immer Excellent]
+Type = Gameshark
+Activation = EndFrame
+30120148 00C8
+
+[Super Strength]
+Type = Gameshark
+Activation = EndFrame
+D011FA2E 8011
+8011FA62 270F
+
+[Max Strength]
+Type = Gameshark
+Activation = EndFrame
+D011FA2E 8011
+8011FA64 270F
+
+[Super Intelligence]
+Type = Gameshark
+Activation = EndFrame
+D011FA2E 8011
+8011FA66 270E
+
+[Max Intelligence]
+Type = Gameshark
+Activation = EndFrame
+D011FA2E 8011
+8011FA68 270E
+
+[Super Agility]
+Type = Gameshark
+Activation = EndFrame
+D011FA2E 8011
+8011FA6A 270F
+
+[Max Agility]
+Type = Gameshark
+Activation = EndFrame
+D011FA2E 8011
+8011FA6C 270F
+
+[Durch WäNde Gehen\An .Drð£«¥ L1 & L2 & R1 & R2]
+Type = Gameshark
+Activation = EndFrame
+D003FF5A F0FF
+800A571C 2400
+D003FF5A F0FF
+800A596A 1000
+D003FF5A F0FF
+800A59CE 2400
+D003FF5A F0FF
+800A59D6 1000
+D003FF5A F0FF
+800A5B7E 1000
+D003FF5A F0FF
+800A5C3E 1000
+D003FF5A F0FF
+800A5DD6 1000
+D003FF5A F0FF
+800A650E 2400
+D003FF5A F0FF
+800A70A6 2400
+D003FF5A F0FF
+800A752A 1000
+
+[Durch WäNde Gehen\Aus .Drð£«¥ L1 & L2 & R1 & R2 & Select]
+Type = Gameshark
+Activation = EndFrame
+D003FF5A F0FE
+800A571C 9821
+D003FF5A F0FE
+800A596A 1040
+D003FF5A F0FE
+800A59CE 1040
+D003FF5A F0FE
+800A59D6 1240
+D003FF5A F0FE
+800A5B7E 1645
+D003FF5A F0FE
+800A5C3E 1642
+D003FF5A F0FE
+800A5DD6 1860
+D003FF5A F0FE
+800A650E A600
+D003FF5A F0FE
+800A70A6 2402
+D003FF5A F0FE
+800A752A 1040
+
+[Max GegenstäNde-Codes\Inventarplatz 1]
+Type = Gameshark
+Activation = EndFrame
+300614EA 0064
+
+[Max GegenstäNde-Codes\Inventarplatz 2]
+Type = Gameshark
+Activation = EndFrame
+300614EE 0064
+
+[Max GegenstäNde-Codes\Inventarplatz 3]
+Type = Gameshark
+Activation = EndFrame
+300614F2 0064
+
+[Max GegenstäNde-Codes\Inventarplatz 4]
+Type = Gameshark
+Activation = EndFrame
+300614F6 0064
+
+[Max GegenstäNde-Codes\Inventarplatz 5]
+Type = Gameshark
+Activation = EndFrame
+300614FA 0064
+
+[Max GegenstäNde-Codes\Inventarplatz 6]
+Type = Gameshark
+Activation = EndFrame
+300614FE 0064
+
+[Max GegenstäNde-Codes\Inventarplatz 7]
+Type = Gameshark
+Activation = EndFrame
+30061502 0064
+
+[Max GegenstäNde-Codes\Inventarplatz 8]
+Type = Gameshark
+Activation = EndFrame
+30061506 0064
+
+[Max GegenstäNde-Codes\Inventarplatz 9]
+Type = Gameshark
+Activation = EndFrame
+3006150A 0064
+
+[Max GegenstäNde-Codes\Inventarplatz 10]
+Type = Gameshark
+Activation = EndFrame
+3006150E 0064
+
+[Max GegenstäNde-Codes\Inventarplatz 11]
+Type = Gameshark
+Activation = EndFrame
+30061512 0064
+
+[Max GegenstäNde-Codes\Inventarplatz 12]
+Type = Gameshark
+Activation = EndFrame
+30061516 0064
+
+[Max GegenstäNde-Codes\Inventarplatz 13]
+Type = Gameshark
+Activation = EndFrame
+3006151A 0064
+
+[Max GegenstäNde-Codes\Inventarplatz 14]
+Type = Gameshark
+Activation = EndFrame
+3006151E 0064
+
+[Max GegenstäNde-Codes\Inventarplatz 15]
+Type = Gameshark
+Activation = EndFrame
+30061522 0064
+
+[Max GegenstäNde-Codes\Inventarplatz 16]
+Type = Gameshark
+Activation = EndFrame
+30061526 0064
+
+[Max GegenstäNde-Codes\Inventarplatz 17]
+Type = Gameshark
+Activation = EndFrame
+3006152A 0064
+
+[Max GegenstäNde-Codes\Inventarplatz 18]
+Type = Gameshark
+Activation = EndFrame
+3006152E 0064
+
+[Max GegenstäNde-Codes\Inventarplatz 19]
+Type = Gameshark
+Activation = EndFrame
+30061532 0064
+
+[Max GegenstäNde-Codes\Inventarplatz 20]
+Type = Gameshark
+Activation = EndFrame
+30061536 0064
+
+[Max GegenstäNde-Codes\Inventarplatz 21]
+Type = Gameshark
+Activation = EndFrame
+3006153A 0064
+
+[Max GegenstäNde-Codes\Inventarplatz 22]
+Type = Gameshark
+Activation = EndFrame
+3006153E 0064
+
+[Max GegenstäNde-Codes\Inventarplatz 23]
+Type = Gameshark
+Activation = EndFrame
+30061542 0064
+
+[Max GegenstäNde-Codes\Inventarplatz 24]
+Type = Gameshark
+Activation = EndFrame
+30061546 0064
+
+[Max GegenstäNde-Codes\Inventarplatz 25]
+Type = Gameshark
+Activation = EndFrame
+3006154A 0064
+
+[Max GegenstäNde-Codes\Inventarplatz 26]
+Type = Gameshark
+Activation = EndFrame
+3006154E 0064
+
+[Max GegenstäNde-Codes\Inventarplatz 27]
+Type = Gameshark
+Activation = EndFrame
+30061552 0064
+
+[Max GegenstäNde-Codes\Inventarplatz 28]
+Type = Gameshark
+Activation = EndFrame
+30061556 0064
+
+[Max GegenstäNde-Codes\Inventarplatz 29]
+Type = Gameshark
+Activation = EndFrame
+3006155A 0064
+
+[Max GegenstäNde-Codes\Inventarplatz 30]
+Type = Gameshark
+Activation = EndFrame
+3006155E 0064
+
+[Max GegenstäNde-Codes\Inventarplatz 31]
+Type = Gameshark
+Activation = EndFrame
+30061562 0064
+
+[Max GegenstäNde-Codes\Inventarplatz 32]
+Type = Gameshark
+Activation = EndFrame
+30061566 0064
+
+[Max GegenstäNde-Codes\Inventarplatz 33]
+Type = Gameshark
+Activation = EndFrame
+3006156A 0064
+
+[Max GegenstäNde-Codes\Inventarplatz 34]
+Type = Gameshark
+Activation = EndFrame
+3006156E 0064
+
+[Max GegenstäNde-Codes\Inventarplatz 35]
+Type = Gameshark
+Activation = EndFrame
+30061572 0064
+
+[Max GegenstäNde-Codes\Inventarplatz 36]
+Type = Gameshark
+Activation = EndFrame
+30061576 0064
+
+[Max GegenstäNde-Codes\Inventarplatz 37]
+Type = Gameshark
+Activation = EndFrame
+3006157A 0064
+
+[Max GegenstäNde-Codes\Inventarplatz 38]
+Type = Gameshark
+Activation = EndFrame
+3006157E 0064
+
+[Max GegenstäNde-Codes\Inventarplatz 39]
+Type = Gameshark
+Activation = EndFrame
+30061582 0064
+
+[Max GegenstäNde-Codes\Inventarplatz 40]
+Type = Gameshark
+Activation = EndFrame
+30061586 0064
+
+[Max GegenstäNde-Codes\Inventarplatz 41]
+Type = Gameshark
+Activation = EndFrame
+3006158A 0064
+
+[Max GegenstäNde-Codes\Inventarplatz 42]
+Type = Gameshark
+Activation = EndFrame
+3006158E 0064
+
+[Max GegenstäNde-Codes\Inventarplatz 43]
+Type = Gameshark
+Activation = EndFrame
+30061592 0064
+
+[Max GegenstäNde-Codes\Inventarplatz 44]
+Type = Gameshark
+Activation = EndFrame
+30061596 0064
+
+[Max GegenstäNde-Codes\Inventarplatz 45]
+Type = Gameshark
+Activation = EndFrame
+3006159A 0064
+
+[Max GegenstäNde-Codes\Inventarplatz 46]
+Type = Gameshark
+Activation = EndFrame
+3006159E 0064
+
+[Max GegenstäNde-Codes\Inventarplatz 47]
+Type = Gameshark
+Activation = EndFrame
+300615A2 0064
+
+[Max GegenstäNde-Codes\Inventarplatz 48]
+Type = Gameshark
+Activation = EndFrame
+300615A6 0064
+
+[Max GegenstäNde-Codes\Inventarplatz 49]
+Type = Gameshark
+Activation = EndFrame
+300615AA 0064
+
+[Max GegenstäNde-Codes\Inventarplatz 50]
+Type = Gameshark
+Activation = EndFrame
+300615AE 0064
+
+[Max GegenstäNde-Codes\Inventarplatz 51]
+Type = Gameshark
+Activation = EndFrame
+300615B2 0064
+
+[Max GegenstäNde-Codes\Inventarplatz 52]
+Type = Gameshark
+Activation = EndFrame
+300615B6 0064
+
+[Max GegenstäNde-Codes\Inventarplatz 53]
+Type = Gameshark
+Activation = EndFrame
+300615BA 0064
+
+[Max GegenstäNde-Codes\Inventarplatz 54]
+Type = Gameshark
+Activation = EndFrame
+300615BE 0064
+
+[Max GegenstäNde-Codes\Inventarplatz 55]
+Type = Gameshark
+Activation = EndFrame
+300615C2 0064
+
+[Max GegenstäNde-Codes\Inventarplatz 56]
+Type = Gameshark
+Activation = EndFrame
+300615C6 0064
+
+[Max GegenstäNde-Codes\Inventarplatz 57]
+Type = Gameshark
+Activation = EndFrame
+300615CA 0064
+
+[Max GegenstäNde-Codes\Inventarplatz 58]
+Type = Gameshark
+Activation = EndFrame
+300615CE 0064
+
+[Max GegenstäNde-Codes\Inventarplatz 59]
+Type = Gameshark
+Activation = EndFrame
+300615D2 0064
+
+[Max GegenstäNde-Codes\Inventarplatz 60]
+Type = Gameshark
+Activation = EndFrame
+300615D6 0064
+
+[Max GegenstäNde-Codes\Inventarplatz 61]
+Type = Gameshark
+Activation = EndFrame
+300615DA 0064
+
+[Max GegenstäNde-Codes\Inventarplatz 62]
+Type = Gameshark
+Activation = EndFrame
+300615DE 0064
+
+[Max GegenstäNde-Codes\Inventarplatz 63]
+Type = Gameshark
+Activation = EndFrame
+300615E2 0064
+
+[Max GegenstäNde-Codes\Inventarplatz 64]
+Type = Gameshark
+Activation = EndFrame
+300615E6 0064
+

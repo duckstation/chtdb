@@ -1,0 +1,7 @@
+; CHTDB: ; [ Study Quest: Keisanjima no Daibouken (Japan) {SLPS-02725} ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+800C64BC 0063
+

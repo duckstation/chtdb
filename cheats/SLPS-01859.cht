@@ -1,0 +1,17 @@
+; CHTDB: ; [ Parlor! Pro 6 (Japan) {SLPS-01859} ]
+
+[Have 999999 money in the story mode]
+Type = Gameshark
+Activation = EndFrame
+901D923C 000F423F
+
+[Infinite Energy in story mode]
+Type = Gameshark
+Activation = EndFrame
+801933A9 0100
+
+[Infinite Bombs in story mode]
+Type = Gameshark
+Activation = EndFrame
+801933C8 0005
+

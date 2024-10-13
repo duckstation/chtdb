@@ -1,0 +1,32 @@
+; CHTDB: ; [ Herc's Adventures (Spain) {SLES-00645} ]
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800C525C 0032
+
+[P2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800C52C6 0032
+
+[Infinite Running (Hercules)]
+Type = Gameshark
+Activation = EndFrame
+800C5260 0046
+
+[Infinite Running (Jason)]
+Type = Gameshark
+Activation = EndFrame
+800C52CA 0032
+
+[P2 Infinite Spears]
+Type = Gameshark
+Activation = EndFrame
+800C52DC 03E7
+
+[P1 Infinite Coins]
+Type = Gameshark
+Activation = EndFrame
+800C5264 270F
+

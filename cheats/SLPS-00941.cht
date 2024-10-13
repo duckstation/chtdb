@@ -1,0 +1,12 @@
+; CHTDB: ; [ Michinoku Hitou Koi Monogatari - Bishoujo Hanafuda Kikou (Jpn) (1997) (FOG) {SLPS-00941} <michibhk> ]
+
+[Player has 99 points in hanafuda game]
+Type = Gameshark
+Activation = EndFrame
+8010001E 0063
+
+[Enemy has always 0 points in hanafuda game]
+Type = Gameshark
+Activation = EndFrame
+80100020 0000
+

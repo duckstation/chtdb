@@ -1,0 +1,33 @@
+; CHTDB: ; [ Hogs of War (Europe) (Best of Infogrames, ZOO Classics) {SLES-01041} ]
+
+[Suddendeath .Press L1 & L2 when own team battles, press R1 & R2 when enemies' team battles.]
+Type = Gameshark
+Activation = EndFrame
+800A205C 0000
+D002C922 FAFF
+800A205E 3403
+D002C922 F5FF
+800A205E 0000
+
+[More Time .Press L1 & R1]
+Type = Gameshark
+Activation = EndFrame
+D002C922 F3FF
+80029180 0F00
+
+[Less Time .Press L2 & R2 The battling team instantly changes.]
+Type = Gameshark
+Activation = EndFrame
+D002C922 FCFF
+80029180 FF00
+
+[Infinite Ammo & Items]
+Type = Gameshark
+Activation = EndFrame
+900A4144 00000000
+
+[Max Promotionpoints]
+Type = Gameshark
+Activation = EndFrame
+8002B5CE 03E7
+

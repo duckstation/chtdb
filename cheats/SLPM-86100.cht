@@ -1,0 +1,9 @@
+; CHTDB: ; [ Dancing Blade - Katteni Momotenshi! (Jpn) (1998) (Konami) {SLPM-86100~SLPM-86102 (VX124-J1)} <dancblad> ]
+
+[All Omake + Wath the Movie Open and bonus open]
+Type = Gameshark
+Activation = EndFrame
+9008A358 FFFFFFFF
+9008A35C FFFFFFFF
+3008A360 00FF
+

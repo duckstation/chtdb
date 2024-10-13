@@ -1,0 +1,82 @@
+; CHTDB: ; [ Tobal No. 1 (USA) (1996) (Sony Computer Entertainment America) {SCUS-94208} <tobal1> ]
+
+[P1 Infinite Energy (Both Modes)]
+Type = Gameshark
+Activation = EndFrame
+801F0116 0100
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800CC480 07C0
+
+[Infinite Time (Quest Mode)]
+Type = Gameshark
+Activation = EndFrame
+801F1BAC 0000
+
+[P2 1-Hit Death]
+Type = Gameshark
+Activation = EndFrame
+A61F1F5E 01000001
+
+[P1 Select Character\Chuji]
+Type = Gameshark
+Activation = EndFrame
+801F3D24 0000
+
+[P1 Select Character\Oliem]
+Type = Gameshark
+Activation = EndFrame
+801F3D24 0100
+
+[P1 Select Character\Epon]
+Type = Gameshark
+Activation = EndFrame
+801F3D24 0200
+
+[P1 Select Character\Hom]
+Type = Gameshark
+Activation = EndFrame
+801F3D24 0300
+
+[P1 Select Character\Fei]
+Type = Gameshark
+Activation = EndFrame
+801F3D24 0400
+
+[P1 Select Character\Mary]
+Type = Gameshark
+Activation = EndFrame
+801F3D24 0500
+
+[P1 Select Character\Illgoga]
+Type = Gameshark
+Activation = EndFrame
+801F3D24 0600
+
+[P1 Select Character\Gren]
+Type = Gameshark
+Activation = EndFrame
+801F3D24 0700
+
+[P1 Select Character\Mufu]
+Type = Gameshark
+Activation = EndFrame
+801F3D24 0800
+
+[P1 Select Character\Emperor Upan]
+Type = Gameshark
+Activation = EndFrame
+801F3D24 0900
+
+[P1 Select Character\Super Nork]
+Type = Gameshark
+Activation = EndFrame
+801F3D24 0A00
+
+[P1 Select Character\Tori]
+Type = Gameshark
+Activation = EndFrame
+801F3D24 0B00
+

@@ -1,0 +1,13 @@
+; CHTDB: ; [ Galaxy Fight (Europe) {SLES-00197} ]
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8017880D 00FF
+8019F723 00FF
+
+[Time = 0]
+Type = Gameshark
+Activation = EndFrame
+8018D5AD 0000
+

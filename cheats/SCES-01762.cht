@@ -1,0 +1,175 @@
+; CHTDB: ; [ R-Type Delta (Europe) {SCES-01762} ]
+
+[R9 Full Beam]
+Type = Gameshark
+Activation = EndFrame
+D0010142 0001
+80172360 00EB
+D0010142 0004
+80151DFC 00EB
+
+[R9 Invincibility]
+Type = Gameshark
+Activation = EndFrame
+D0010142 0001
+80172364 0040
+D0010142 0004
+80151E00 0040
+
+[R9 Full Dose]
+Type = Gameshark
+Activation = EndFrame
+D0010142 0001
+801723C0 1F40
+D0010142 0004
+80151DF0 1F40
+
+[Rx Full Beam]
+Type = Gameshark
+Activation = EndFrame
+D0010142 0001
+801747A8 00EB
+D0010142 0004
+80153C9C 00EB
+
+[Rx Invincibility]
+Type = Gameshark
+Activation = EndFrame
+D0010142 0001
+801747AC 0040
+D0010142 0004
+80153CA0 0040
+
+[Rx Full Dose]
+Type = Gameshark
+Activation = EndFrame
+D0010142 0001
+80174808 1F40
+D0010142 0004
+80153C90 1F40
+
+[R13 Full Beam]
+Type = Gameshark
+Activation = EndFrame
+D0010142 0001
+801755B0 00EB
+D0010142 0004
+80153C24 00EB
+
+[R13 Invincibility]
+Type = Gameshark
+Activation = EndFrame
+D0010142 0001
+801755B4 0040
+D0010142 0004
+80153C28 0040
+
+[R13 Full Dose]
+Type = Gameshark
+Activation = EndFrame
+D0010142 0001
+801755A4 1F40
+D0010142 0004
+80153C14 1F40
+
+[Pow Full Beam]
+Type = Gameshark
+Activation = EndFrame
+D0010142 0001
+801760B8 00EB
+D0010142 0004
+8015465C 00EB
+
+[Pow Invincibility]
+Type = Gameshark
+Activation = EndFrame
+D0010142 0001
+801760BC 0040
+D0010142 0004
+80154660 0040
+
+[Pow Full Dose]
+Type = Gameshark
+Activation = EndFrame
+D0010142 0001
+801760AC 1F40
+D0010142 0004
+80154650 1F40
+
+[Full Beam All Ships]
+Type = Gameshark
+Activation = EndFrame
+D0010142 0002
+801528D8 00EB
+D0010142 0003
+8013B520 00EB
+D0010142 0005
+8014CD34 00EB
+D0010142 0006
+8016D404 00EB
+D0010142 0007
+801543F4 00EB
+
+[Invincibility All Ships]
+Type = Gameshark
+Activation = EndFrame
+D0010142 0002
+801528DC 0040
+D0010142 0003
+8013B524 0040
+D0010142 0005
+8014CD38 0040
+D0010142 0006
+8016D408 0040
+D0010142 0007
+801543F8 0040
+
+[Full Dose All Ships]
+Type = Gameshark
+Activation = EndFrame
+D0010142 0002
+801528CC 1F40
+D0010142 0003
+8013B514 1F40
+D0010142 0005
+8014CD28 1F40
+D0010142 0006
+8015D3F8 1F40
+D0010142 0007
+801543E8 1F40
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8001014E 0009
+
+[Have Secret Aircraft And Choose Chapter]
+Type = Gameshark
+Activation = EndFrame
+90013A4C 00FFFFFF
+
+[Have Gallery]
+Type = Gameshark
+Activation = EndFrame
+80013A44 FFFF
+
+[Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+8001014C 0009
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A7193740 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A7193740 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A7193740 10000400
+

@@ -1,0 +1,47 @@
+; CHTDB: ; [ Space Adventure Cobra: The Shooting (Japan) {SLPS-00312} ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800847EC 0080
+80084848 0002
+
+[Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+800847B8 0063
+
+[Score 99999]
+Type = Gameshark
+Activation = EndFrame
+900847D8 000F423F
+
+[Play time 0]
+Type = Gameshark
+Activation = EndFrame
+800847E8 0000
+
+[Hit 100%]
+Type = Gameshark
+Activation = EndFrame
+800847E0 0064
+
+[All items]
+Type = Gameshark
+Activation = EndFrame
+300BE8F0 0001
+300BE8F4 0001
+300BE8F8 0001
+300BE8FC 0001
+300BE900 0001
+300BE904 0001
+300BE908 0001
+300BE90C 0001
+300BE910 0001
+300BE914 0001
+300BE918 0001
+300BE91C 0001
+300BE920 0001
+300BE924 0001
+300BE928 0001
+

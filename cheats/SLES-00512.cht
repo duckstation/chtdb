@@ -1,0 +1,22 @@
+; CHTDB: ; [ NHL 98 (Germany) {SLES-00512} ]
+
+[Heim-Mannschaft Hat 9 Punkte]
+Type = Gameshark
+Activation = EndFrame
+800475EC 0009
+
+[Heim-Mannschaft Hat 0 Punkte]
+Type = Gameshark
+Activation = EndFrame
+800475EC 0000
+
+[AuswäRtige Mannschaft Hat 9 Punkte]
+Type = Gameshark
+Activation = EndFrame
+800475B2 0009
+
+[AuswäRtige Mannschaft Hat 0 Punkte]
+Type = Gameshark
+Activation = EndFrame
+800475B2 0000
+

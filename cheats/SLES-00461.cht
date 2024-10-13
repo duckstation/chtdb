@@ -1,0 +1,35 @@
+; CHTDB: ; [ Heart of Darkness (Europe) {SLES-00461 | SLES-10461} ]
+
+[Enable all Levels]
+Type = Gameshark
+Activation = EndFrame
+80088650 0007
+
+[Protect From Most Enemies - Press R1]
+Type = Gameshark
+Activation = EndFrame
+D00767F0 0800
+8008858A C000
+
+[Turn Off Protect Code - Press L1]
+Type = Gameshark
+Activation = EndFrame
+D00767F0 0400
+8008858A 0000
+
+[Almost Invulnerable]
+Type = Gameshark
+Activation = EndFrame
+800885CA C000
+
+[Open All Movies]
+Type = Gameshark
+Activation = EndFrame
+900A02BC FFFFFFFF
+
+[Protect From Most Enemies - Press R1 If you need to use a rope to swing across anywhere this code must be turned off by pressing the L1 button]
+Type = Gameshark
+Activation = EndFrame
+D00767F0 0800
+8008858A C000
+

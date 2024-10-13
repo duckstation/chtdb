@@ -1,0 +1,32 @@
+; CHTDB: ; [ Space Invaders (Europe) {SLES-02144} ]
+
+[P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800EF4A4 0009
+
+[P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800EF570 0009
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800EF49C 000B
+
+[P1 invulnerable]
+Type = Gameshark
+Activation = EndFrame
+800EF47C 0001
+
+[P2 invulnerable]
+Type = Gameshark
+Activation = EndFrame
+800EF548 0001
+
+[Play the old space invader]
+Type = Gameshark
+Activation = EndFrame
+800D8838 0002
+

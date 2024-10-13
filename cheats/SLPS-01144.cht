@@ -1,0 +1,27 @@
+; CHTDB: ; [ Ore! Tomba (Jpn) (1997) (Whoopee Camp) {SLPS-01144} <tombaj> ]
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800A7C10 0004
+
+[Infinite AP]
+Type = Gameshark
+Activation = EndFrame
+8009E514 FFFF
+
+[Invinicible]
+Type = Gameshark
+Activation = EndFrame
+800A7C48 00FE
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8009E528 0103
+
+[Can jump Continuous]
+Type = Gameshark
+Activation = EndFrame
+300A7BE1 0001
+

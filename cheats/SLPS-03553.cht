@@ -1,0 +1,51 @@
+; CHTDB: ; [ Naruto: Shinobi no Sato no Jintori Gassen (Japan) {SLPS-03553} ]
+
+[Character 1 - 9999]
+Type = Gameshark
+Activation = EndFrame
+80070EB8 270F
+
+[All Characters/All Stages/All Box]
+Type = Gameshark
+Activation = EndFrame
+90070770 FFFFFFFF
+90070774 FFFFFFFF
+90070778 FFFFFFFF
+9007077C FFFFFFFF
+90070780 FFFFFFFF
+
+[Bingo book all display]
+Type = Gameshark
+Activation = EndFrame
+30070778 00FE
+30070779 003F
+30070782 0010
+
+[Treasure BOX all display]
+Type = Gameshark
+Activation = EndFrame
+90070770 FFFFFFFF
+80070774 FFFF
+30070776 00FF
+
+[Hidden mode appearance In the main menu Ninjutsu mentor Form mini-game appearance. In story mode re not Ki-hen" Kinohamaru Edition appearance.]
+Type = Gameshark
+Activation = EndFrame
+3007077B 00FF
+3007077C 00FF
+
+[Naruto Hen whole story appearance]
+Type = Gameshark
+Activation = EndFrame
+30070738 0009
+
+[Zabuza whole story appearance]
+Type = Gameshark
+Activation = EndFrame
+30070739 0002
+
+[KOnohamaru ed all talk emergence]
+Type = Gameshark
+Activation = EndFrame
+3007073A 0005
+

@@ -1,0 +1,12 @@
+; CHTDB: ; [ Spec Ops - Airborne Commando (USA) (2002) (Gotham Games) {SLUS-01447} <specopac> ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80087F54 0004
+
+[Infinite Run Power]
+Type = Gameshark
+Activation = EndFrame
+80087F62 0064
+

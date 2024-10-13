@@ -1,0 +1,126 @@
+; CHTDB: ; [ Doom (Europe) {SLES-00132} ]
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800A8888 0001
+800A8880 00C7
+800A887C 0064
+
+[Mega Rapid Fire!]
+Type = Gameshark
+Activation = EndFrame
+800A894C 0001
+
+[Infinite Bullets]
+Type = Gameshark
+Activation = EndFrame
+800A88F0 0064
+
+[Infinite Shotgun Shells]
+Type = Gameshark
+Activation = EndFrame
+800A88F4 0064
+
+[Infinite Rockets]
+Type = Gameshark
+Activation = EndFrame
+800A88FC 0064
+
+[Infinite Plasma]
+Type = Gameshark
+Activation = EndFrame
+800A88F8 0064
+
+[Have Shotgun]
+Type = Gameshark
+Activation = EndFrame
+800A88D4 0001
+
+[Have Double-Barrel Shotgun]
+Type = Gameshark
+Activation = EndFrame
+800A88D8 0001
+
+[Have Chaingun]
+Type = Gameshark
+Activation = EndFrame
+800A88DC 0001
+
+[Have Rocket Launcher]
+Type = Gameshark
+Activation = EndFrame
+800A88E0 0001
+
+[Have Plasma Rifle]
+Type = Gameshark
+Activation = EndFrame
+800A88E4 0001
+
+[Have Bfg]
+Type = Gameshark
+Activation = EndFrame
+800A88E8 0001
+
+[Have Chainsaw]
+Type = Gameshark
+Activation = EndFrame
+800A88EC 0001
+
+[Have Red Key]
+Type = Gameshark
+Activation = EndFrame
+800A88A0 0001
+
+[Have Blue Key]
+Type = Gameshark
+Activation = EndFrame
+800A88A4 0001
+
+[Have Yellow Key]
+Type = Gameshark
+Activation = EndFrame
+800A88A8 0001
+
+[Night Vision On]
+Type = Gameshark
+Activation = EndFrame
+800A889C 0001
+
+[Turn On Level Map]
+Type = Gameshark
+Activation = EndFrame
+800A8898 0001
+
+[God Mode]
+Type = Gameshark
+Activation = EndFrame
+800A8918 0002
+
+[X-Ray Vision]
+Type = Gameshark
+Activation = EndFrame
+800A8918 0080
+
+[X-Ray Vision And God Mode]
+Type = Gameshark
+Activation = EndFrame
+800A8918 0082
+
+[More Light]
+Type = Gameshark
+Activation = EndFrame
+800A889E 0001
+
+[Have All Guns (Use this code or the specified gun codes)]
+Type = Gameshark
+Activation = EndFrame
+50000704 0000
+800A88D4 0001
+
+[Infinite Ammo (Use this code or the specified gun codes)]
+Type = Gameshark
+Activation = EndFrame
+50000404 0000
+800A8664 0064
+

@@ -1,0 +1,89 @@
+; CHTDB: ; [ Aitakute... Your Smiles in My Heart (Jpn) (2000) (Konami) {SLPM-86254~SLPM-86257 (VX058-J1)} <aitakute> ]
+
+[Infinite Money (60000)]
+Type = Gameshark
+Activation = EndFrame
+800CFEF8 EA60
+
+[Status MAX National language]
+Type = Gameshark
+Activation = EndFrame
+800CFD16 03E7
+
+[Status MAX Mathematics]
+Type = Gameshark
+Activation = EndFrame
+800CFD1A 03E7
+
+[Status MAX English]
+Type = Gameshark
+Activation = EndFrame
+800CFD1E 03E7
+
+[Status MAX Rika]
+Type = Gameshark
+Activation = EndFrame
+800CFD22 03E7
+
+[Status MAX Society]
+Type = Gameshark
+Activation = EndFrame
+800CFD26 03E7
+
+[Status MAX Music]
+Type = Gameshark
+Activation = EndFrame
+800CFD2E 03E7
+
+[Status MAX Art]
+Type = Gameshark
+Activation = EndFrame
+800CFD32 03E7
+
+[Status MAX General knowledge]
+Type = Gameshark
+Activation = EndFrame
+800CFD46 03E7
+
+[Status MAX Courtesy]
+Type = Gameshark
+Activation = EndFrame
+800CFD4A 03E7
+
+[Status MAX Endurance]
+Type = Gameshark
+Activation = EndFrame
+800CFD3A 03E7
+
+[Status MAX Instantaneous force]
+Type = Gameshark
+Activation = EndFrame
+800CFD3E 03E7
+
+[Status MAX Style]
+Type = Gameshark
+Activation = EndFrame
+800CFD52 03E7
+
+[Status MAX Sense]
+Type = Gameshark
+Activation = EndFrame
+800CFD56 03E7
+
+[Status MAX Physical fitness]
+Type = Gameshark
+Activation = EndFrame
+800CFD66 03E7
+800CFD6A 03E7
+
+[Status MAX Spirit]
+Type = Gameshark
+Activation = EndFrame
+800CFD5A 03E7
+
+[Status MAX Luck]
+Type = Gameshark
+Activation = EndFrame
+800CFD5E 03E7
+800CFD62 03E7
+

@@ -1,0 +1,37 @@
+; CHTDB: ; [ Impact Racing (USA) (1996) (Acclaim Entertainment) {SLUS-00225} <impactrc> ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+8013824C 0625
+
+[Infinite Laser]
+Type = Gameshark
+Activation = EndFrame
+8013E554 0000
+
+[Infinite Front Armor]
+Type = Gameshark
+Activation = EndFrame
+800B9E8C 0064
+
+[Infinite Rear Armor]
+Type = Gameshark
+Activation = EndFrame
+800B9E90 0064
+
+[Infinite Mines (On Pickup)]
+Type = Gameshark
+Activation = EndFrame
+800B9E80 0063
+
+[Infinite Missiles (On Pickup)]
+Type = Gameshark
+Activation = EndFrame
+800B9E78 0063
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8013E524 0320
+

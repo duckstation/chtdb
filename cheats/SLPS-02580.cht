@@ -1,0 +1,40 @@
+; CHTDB: ; [ Brave Saga 2 (Jpn) (2000) (Takara) {SLPS-02580~SLPS-02581} <bravesg2> ]
+
+[Infinite + Max HP Main character]
+Description = Deactivate after defeat enemy
+Type = Gameshark
+Activation = EndFrame
+901D40F4 03E703E7
+
+[Infinite + Max EP Main character]
+Description = Deactivate after defeat enemy
+Type = Gameshark
+Activation = EndFrame
+801D40FA 03E7
+
+[Clear the stage after defeating 1 enemy only]
+Type = Gameshark
+Activation = EndFrame
+A701D34E 05211400
+
+[Holding CP 65535]
+Type = Gameshark
+Activation = EndFrame
+80019C16 FFFF
+
+[Mortal blow / Invincibility .Press Selct+R1]
+Type = Gameshark
+Activation = EndFrame
+D007C152 FEFE
+8003C776 0100
+D007C152 FDFE
+8003C776 0000
+D007C152 FFFE
+8003C776 0109
+
+[Library fully open]
+Type = Gameshark
+Activation = EndFrame
+50003102 0000
+801F7C44 FFFF
+

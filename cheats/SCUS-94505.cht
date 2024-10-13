@@ -1,0 +1,44 @@
+; CHTDB: ; [ NFL GameDay (USA) (1996) (Sony Computer Entertainment America) {SCUS-94505} <nflgday> ]
+
+[P1 Select Score\100]
+Type = Gameshark
+Activation = EndFrame
+800AFE56 0064
+
+[P1 Select Score\0]
+Type = Gameshark
+Activation = EndFrame
+800AFE56 0000
+
+[P2 Select Score\100]
+Type = Gameshark
+Activation = EndFrame
+800AFE56 0000
+800AFFF0 0064
+
+[P2 Select Score\0]
+Type = Gameshark
+Activation = EndFrame
+800AFE56 0000
+800AFFF0 0000
+
+[Infinite Time To Choose Your Play]
+Type = Gameshark
+Activation = EndFrame
+800B00CE 0027
+
+[P1 Infinite Time-Outs]
+Type = Gameshark
+Activation = EndFrame
+800AFFFA 0003
+
+[P2 Infinite Time-Outs]
+Type = Gameshark
+Activation = EndFrame
+800AFFF8 0003
+
+[Computer Always Throws Incomplete Passes]
+Type = Gameshark
+Activation = EndFrame
+800B0170 0020
+

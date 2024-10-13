@@ -1,0 +1,130 @@
+; CHTDB: ; [ Mike Tyson Boxing (Europe) {SLES-02839} ]
+
+[P1 Set K.O.-timer on zero (Press Select & Down)]
+Type = Gameshark
+Activation = EndFrame
+D012B52E FFBE
+30118D64 0000
+
+[P1 Set K.O.-timer on 10 (Press Select & Up)]
+Type = Gameshark
+Activation = EndFrame
+D012B52E FFEE
+30118D64 000A
+
+[Gym have max Rest]
+Type = Gameshark
+Activation = EndFrame
+30144CC4 0064
+
+[Gym have max Skipping]
+Type = Gameshark
+Activation = EndFrame
+30144CAC 0018
+
+[Gym have max Speedball]
+Type = Gameshark
+Activation = EndFrame
+30144CB0 0018
+
+[Gym have max Circuits]
+Type = Gameshark
+Activation = EndFrame
+30144CB4 0018
+
+[Gym have max Punchbag]
+Type = Gameshark
+Activation = EndFrame
+30144CB8 0018
+
+[Gym have max Weights]
+Type = Gameshark
+Activation = EndFrame
+30144CBC 0018
+
+[Gym have max Sparring]
+Type = Gameshark
+Activation = EndFrame
+30144CC0 0018
+
+[Gym have max Food Intake]
+Type = Gameshark
+Activation = EndFrame
+30144CC8 000A
+
+[Gym have max Earnings]
+Type = Gameshark
+Activation = EndFrame
+A6144D50 00008760
+A6144D52 00000003
+
+[Single Player K.O.-lamps always off]
+Type = Gameshark
+Activation = EndFrame
+D017BD68 0001
+3017BD68 0000
+
+[Single Player Give P2 3 K.O.-lamps (Press Select & Right)]
+Type = Gameshark
+Activation = EndFrame
+D012B52E FFDE
+301A0C5C 0003
+
+[World Mode 1st set Point bar completely red (Press Select & Right)]
+Type = Gameshark
+Activation = EndFrame
+D012B52E FFDE
+8017E360 0A28
+
+[World Mode 1st set K.O.-lamps always off]
+Type = Gameshark
+Activation = EndFrame
+D017E35C 0001
+3017E35C 0000
+
+[World Mode 1st set Give P2 3 K.O.-lamps (Press Select & Right)]
+Type = Gameshark
+Activation = EndFrame
+D012B52E FFDE
+301A31C4 0003
+
+[Unlocked Tao Zhu]
+Type = Gameshark
+Activation = EndFrame
+300FFA68 0001
+
+[Unlocked Samuel Jefferson]
+Type = Gameshark
+Activation = EndFrame
+300FFA6C 0001
+
+[Unlocked Fabian Van Hilten]
+Type = Gameshark
+Activation = EndFrame
+300FFA70 0001
+
+[Unlocked Patrice Demanger]
+Type = Gameshark
+Activation = EndFrame
+300FFA74 0001
+
+[Unlocked Frankie Zamboni]
+Type = Gameshark
+Activation = EndFrame
+300FFA88 0001
+
+[Unlocked Johnny Roberts]
+Type = Gameshark
+Activation = EndFrame
+300FFA8C 0001
+
+[Unlocked Mick Oshea]
+Type = Gameshark
+Activation = EndFrame
+300FFA90 0001
+
+[Unlocked Jimmy Silk]
+Type = Gameshark
+Activation = EndFrame
+300FFA94 0001
+

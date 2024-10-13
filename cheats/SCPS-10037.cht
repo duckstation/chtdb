@@ -1,0 +1,67 @@
+; CHTDB: ; [ Crime Crackers 2 (Jpn) (1997) (SCEI) {SCPS-10037} <crimecr2> ]
+
+[Infinite + Max HP Blonde Girl]
+Type = Gameshark
+Activation = EndFrame
+900F4774 03E703E7
+
+[Infinite + Max HP Pink Hair Girl]
+Type = Gameshark
+Activation = EndFrame
+900F4834 03E703E7
+
+[Infinite + Max HP Blue Hair Girl]
+Type = Gameshark
+Activation = EndFrame
+900F47A4 03E703E7
+
+[Infinite + Max HP Animal Character]
+Type = Gameshark
+Activation = EndFrame
+900F47D4 03E703E7
+
+[Infinite En Blonde Girl]
+Type = Gameshark
+Activation = EndFrame
+900F4778 03E703E7
+
+[Infinite En Animal Character]
+Type = Gameshark
+Activation = EndFrame
+900F47D8 03E703E7
+
+[Infinite En Blue Hair Girl]
+Type = Gameshark
+Activation = EndFrame
+900F47A8 03E703E7
+
+[Infinite En Pink Hair Girl]
+Type = Gameshark
+Activation = EndFrame
+900F4738 03E703E7
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+900F5900 0098967F
+
+[Infinite Level Up Apple]
+Type = Gameshark
+Activation = EndFrame
+300F59E5 0063
+
+[Infinite Countdown time]
+Type = Gameshark
+Activation = EndFrame
+800B6C30 003B
+
+[ROUTE / Stage Clear]
+Type = Gameshark
+Activation = EndFrame
+300EFE6F 00FF
+
+[ROUTE / SHERIFF STAR]
+Type = Gameshark
+Activation = EndFrame
+300EFE7F 00FF
+

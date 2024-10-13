@@ -1,0 +1,32 @@
+; CHTDB: ; [ Blast Lacrosse (USA) (2001) (Acclaim Entertainment) {SLUS-01380} <blacross> ]
+
+[Select Home Team Score\99]
+Type = Gameshark
+Activation = EndFrame
+80094FC0 0063
+
+[Select Home Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+80094FC0 0000
+
+[Select Away Team Score\99]
+Type = Gameshark
+Activation = EndFrame
+80095060 0063
+
+[Select Away Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+80095060 0000
+
+[Home Infinite Turbo]
+Type = Gameshark
+Activation = EndFrame
+800C2C14 00FF
+
+[Away Infinite Turbo]
+Type = Gameshark
+Activation = EndFrame
+800C2C18 00FF
+

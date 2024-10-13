@@ -1,0 +1,12 @@
+; CHTDB: ; [ Gamera 2000 (Jpn) (1997) (Virgin Interactive) {SLPS-00833} <gamera2k> ]
+
+[Infinite Energy/Shield]
+Type = Gameshark
+Activation = EndFrame
+8019BA38 0064
+
+[All Levels All Invincibility]
+Type = Gameshark
+Activation = EndFrame
+9003ACF8 00000000
+

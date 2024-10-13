@@ -1,0 +1,17 @@
+; CHTDB: ; [ Dare Devil Derby 3D (USA) (1996) (Mindscape) {SLUS-00300} <ddd3d> ]
+
+[Stop Timer]
+Type = Gameshark
+Activation = EndFrame
+800C06EC 0000
+
+[One Lap To Race]
+Type = Gameshark
+Activation = EndFrame
+801FC758 0001
+
+[Always Win 1st Place]
+Type = Gameshark
+Activation = EndFrame
+801FC7B0 0001
+

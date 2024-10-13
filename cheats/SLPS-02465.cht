@@ -1,0 +1,22 @@
+; CHTDB: ; [ Bakusou Dekotora Densetsu 2: Otoko Jinsei Yume Ichiro (Japan) {SLPS-02465} ]
+
+[Lots Of Money]
+Type = Gameshark
+Activation = EndFrame
+900B06A0 054C5638
+
+[Attention 300%]
+Type = Gameshark
+Activation = EndFrame
+800B06BC 012C
+
+[Legend degree 300%]
+Type = Gameshark
+Activation = EndFrame
+800B1908 012C
+
+[Max Speed]
+Type = Gameshark
+Activation = EndFrame
+800FA124 00F4
+

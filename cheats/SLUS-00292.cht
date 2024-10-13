@@ -1,0 +1,57 @@
+; CHTDB: ; [ Suikoden (USA, v1.0) (1996) (Konami of America) {SLUS-00292} <suikodena> ]
+
+[Position 1 Infinite HP in Battle]
+Type = Gameshark
+Activation = EndFrame
+90197774 03E703E7
+
+[Position 2 Infinite HP in Battle]
+Type = Gameshark
+Activation = EndFrame
+901977C8 03E703E7
+
+[Position 3 Infinite HP in Battle]
+Type = Gameshark
+Activation = EndFrame
+9019781C 03E703E7
+
+[Position 4 Infinite HP in Battle]
+Type = Gameshark
+Activation = EndFrame
+90197870 03E703E7
+
+[Position 5 Infinite HP in Battle]
+Type = Gameshark
+Activation = EndFrame
+901978C4 03E703E7
+
+[Position 6 Infinite HP in Battle]
+Type = Gameshark
+Activation = EndFrame
+90197918 03E703E7
+
+[Have All Items]
+Type = Gameshark
+Activation = EndFrame
+301B8091 0063
+50005602 0000
+801B8092 6363
+301B813E 0063
+301B8141 0063
+301B8142 0063
+
+[Max Money (On Status Screen)]
+Type = Gameshark
+Activation = EndFrame
+901B801C 0098967F
+
+[No Random Battles (Everywhere Else)]
+Type = Gameshark
+Activation = EndFrame
+80199B40 0000
+
+[No Random Battles (Overhead Map)]
+Type = Gameshark
+Activation = EndFrame
+8017D5F4 0000
+

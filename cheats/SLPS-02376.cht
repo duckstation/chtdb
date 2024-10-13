@@ -1,0 +1,92 @@
+; CHTDB: ; [ Little Princess - Marl Oukoku no Ningyou Hime 2 (Jpn) (1999) (Nippon Ichi Software) {SLPS-02376} <lilprinc> ]
+
+[Cheat to boot]
+Type = Gameshark
+Activation = EndFrame
+8001299C 0000
+
+[Inochiumu]
+Type = Gameshark
+Activation = EndFrame
+900867C0 0098967F
+
+[Possession Inochiumu]
+Type = Gameshark
+Activation = EndFrame
+90085F70 05F5E100
+
+[Thanks gauge MAX]
+Type = Gameshark
+Activation = EndFrame
+3010D7B4 001E
+
+[No random batles]
+Type = Gameshark
+Activation = EndFrame
+8005E2B4 0000
+
+[HP currently]
+Type = Gameshark
+Activation = EndFrame
+80085F7C 03E7
+
+[LV 99]
+Type = Gameshark
+Activation = EndFrame
+300863F2 0063
+
+[Less likely to encounter]
+Type = Gameshark
+Activation = EndFrame
+90009010 00000000
+
+[All Krull diary / Musicals]
+Type = Gameshark
+Activation = EndFrame
+300870FF 00FF
+
+[All Mini-game apPear]
+Type = Gameshark
+Activation = EndFrame
+300870C1 0020
+
+[Totokarucho Issue appearance]
+Type = Gameshark
+Activation = EndFrame
+300870D4 0002
+
+[All Observation notes]
+Type = Gameshark
+Activation = EndFrame
+300870FF 00FF
+
+[The number of dolls]
+Type = Gameshark
+Activation = EndFrame
+30087172 00C0
+
+[Number of party]
+Type = Gameshark
+Activation = EndFrame
+30087173 0005
+
+[Thanks gauge]
+Type = Gameshark
+Activation = EndFrame
+3010D7B4 001E
+
+[Nyanko slip / Invincibility]
+Type = Gameshark
+Activation = EndFrame
+301CB37E 0010
+
+[Nyanko slip / TIME]
+Type = Gameshark
+Activation = EndFrame
+801CBE04 12FB
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+900CA1DC 000F423F
+

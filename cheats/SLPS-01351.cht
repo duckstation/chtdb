@@ -1,0 +1,18 @@
+; CHTDB: ; [ Enigma (Jpn) (1998) (Koei) {SLPS-01351~SLPS-01352} <enigma> ]
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+801FE5B8 00FF
+
+[Infinite Bullet]
+Type = Gameshark
+Activation = EndFrame
+801FE5CE 0063
+
+[Infinite Secret stone Gauge]
+Type = Gameshark
+Activation = EndFrame
+801FBEDC 0064
+801FE63A 2EE0
+

@@ -1,0 +1,7 @@
+; CHTDB: ; [ World Destruction League: Thunder Tanks (Europe) {SLES-03232} ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800DE768 0200
+

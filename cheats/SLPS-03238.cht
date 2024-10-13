@@ -1,0 +1,66 @@
+; CHTDB: ; [ Summon Night 2 (Japan) Rev 1 {SLPS-91517 | SLPS-03238} ]
+
+[Infinite Energy Character 1]
+Type = Gameshark
+Activation = EndFrame
+900786E8 03E703E7
+
+[Infinite Energy Character 2]
+Type = Gameshark
+Activation = EndFrame
+90078728 03E703E7
+
+[Infinite Energy character 3]
+Type = Gameshark
+Activation = EndFrame
+90078768 03E703E7
+
+[Infinite Energy character 4]
+Type = Gameshark
+Activation = EndFrame
+900787A8 03E703E7
+
+[Infinite Energy character 5]
+Type = Gameshark
+Activation = EndFrame
+900787E8 03E703E7
+
+[Infinite Money (60000)]
+Type = Gameshark
+Activation = EndFrame
+800784DC EA60
+
+[All Gallery]
+Type = Gameshark
+Activation = EndFrame
+A60B8884 00030001
+
+[Unlock 150 Gallery]
+Type = Gameshark
+Activation = EndFrame
+90079D30 FFFFFFFF
+90079D34 FFFFFFFF
+90079D38 FFFFFFFF
+90079D3C FFFFFFFF
+90079D40 FFFFFFFF
+
+[All Summoning Dictionary combinations]
+Type = Gameshark
+Activation = EndFrame
+30078FFF 00FF
+
+[Gallery acquisition]
+Type = Gameshark
+Activation = EndFrame
+80079FFF 0101
+
+[All Gallery (title screen)]
+Type = Gameshark
+Activation = EndFrame
+30079DFF 00FF
+
+[Extra edition appearance It should be applied before you press Start at the title screen]
+Type = Gameshark
+Activation = EndFrame
+3007C0DA 0001
+

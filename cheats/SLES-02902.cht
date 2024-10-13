@@ -1,0 +1,30 @@
+; CHTDB: ; [ Batman of the Future: Return of the Joker (Europe) {SLES-02902} ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+D001B3FA A622
+8001B3F8 0000
+D0038426 A482
+80038424 0000
+
+[Sudden Death enemies]
+Type = Gameshark
+Activation = EndFrame
+D001AFE4 0018
+8001AFE0 0000
+D001AFE4 0018
+8001AFE2 3402
+
+[Infinite Dark knight discus]
+Type = Gameshark
+Activation = EndFrame
+D0029FBE A462
+80029FBC 0000
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+D001E756 A062
+8001E754 0000
+

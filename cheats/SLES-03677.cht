@@ -1,0 +1,67 @@
+; CHTDB: ; [ Kirikou aka KirikÃ¹ (Europe) {SLES-03677} ]
+
+[Have 99 Lives]
+Type = Gameshark
+Activation = EndFrame
+80064587 0063
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80064590 00C8
+
+[Have 999 bubbles]
+Type = Gameshark
+Activation = EndFrame
+80064562 03E7
+
+[Invinicble]
+Type = Gameshark
+Activation = EndFrame
+80064598 0000
+
+[All Teaching Mastered]
+Type = Gameshark
+Activation = EndFrame
+80064560 FFFF
+
+[Select Level\1 The Savannah]
+Type = Gameshark
+Activation = EndFrame
+800644EC 0001
+
+[Select Level\2 The Marshlands]
+Type = Gameshark
+Activation = EndFrame
+800644EC 0002
+
+[Select Level\3 The Forest]
+Type = Gameshark
+Activation = EndFrame
+800644EC 0003
+
+[Select Level\4 The Large Embankment]
+Type = Gameshark
+Activation = EndFrame
+800644EC 0004
+
+[Select Level\5 The Cave]
+Type = Gameshark
+Activation = EndFrame
+800644EC 0005
+
+[Select Level\6 The Rocky Plateau]
+Type = Gameshark
+Activation = EndFrame
+800644EC 0006
+
+[Select Level\7 Karaba's Cabin]
+Type = Gameshark
+Activation = EndFrame
+800644EC 0007
+
+[Select Level\8 Bonus]
+Type = Gameshark
+Activation = EndFrame
+800644EC 0008
+

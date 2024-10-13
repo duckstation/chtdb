@@ -1,0 +1,17 @@
+; CHTDB: ; [ Dragon Ball: Final Bout (France) {SLES-00964} ]
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A702219C 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A702219C 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A702219C 10000400
+

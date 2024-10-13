@@ -1,0 +1,72 @@
+; CHTDB: ; [ Spectral Tower II (Japan) {SLPS-01179} ]
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+80119F1E 03E7
+
+[Max Attack Ability]
+Type = Gameshark
+Activation = EndFrame
+80119F22 03E7
+90119F24 03E703E7
+90119F28 03E703E7
+80119F2C 03E7
+
+[Max Weapon Ability]
+Type = Gameshark
+Activation = EndFrame
+80119F2E 03E7
+
+[Max Magic Ability]
+Type = Gameshark
+Activation = EndFrame
+80119F30 03E7
+
+[Max Recover Ability]
+Type = Gameshark
+Activation = EndFrame
+80119F32 03E7
+
+[Max Attention Ability]
+Type = Gameshark
+Activation = EndFrame
+80119F34 03E7
+
+[All Attack Level Become Master]
+Type = Gameshark
+Activation = EndFrame
+900FCC0C FFFFFFFF
+900FCC10 FFFFFFFF
+900FCC14 FFFFFFFF
+
+[Infinite Money (9999)]
+Type = Gameshark
+Activation = EndFrame
+800FCC00 270F
+
+[Map appearance]
+Type = Gameshark
+Activation = EndFrame
+301B74F4 0001
+
+[Infinite & Max HP]
+Type = Gameshark
+Activation = EndFrame
+901B66BC 03E703E7
+
+[All Album]
+Type = Gameshark
+Activation = EndFrame
+301028ff 00ff
+
+[Kerotan summons]
+Type = Gameshark
+Activation = EndFrame
+30119F7D 0001
+
+[Fairy summons]
+Type = Gameshark
+Activation = EndFrame
+30119F7E 0001
+

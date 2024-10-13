@@ -1,0 +1,307 @@
+; CHTDB: ; [ Wild Arms (Germany) {SCES-01172} ]
+
+[Unendlich Geld]
+Type = Gameshark
+Activation = EndFrame
+800DE8A6 0098
+
+[Unendlich Inventar]
+Type = Gameshark
+Activation = EndFrame
+8004656C 2400
+
+[Rudy Codes\Unendlich Hp]
+Type = Gameshark
+Activation = EndFrame
+800DE4B8 270F
+
+[Rudy Codes\Max Hp]
+Type = Gameshark
+Activation = EndFrame
+800DE4BA 270F
+
+[Rudy Codes\Unendlich Mp]
+Type = Gameshark
+Activation = EndFrame
+800DE4BC 270F
+
+[Rudy Codes\Max Mp]
+Type = Gameshark
+Activation = EndFrame
+800DE4BE 270F
+
+[Rudy Codes\Sofort Auf Level 99]
+Type = Gameshark
+Activation = EndFrame
+800DE4D6 0FFF
+
+[Rudy Codes\Str & Atf Ist Voll]
+Type = Gameshark
+Activation = EndFrame
+800DE4C0 03E7
+
+[Rudy Codes\Vit & Def Ist Voll]
+Type = Gameshark
+Activation = EndFrame
+800DE4C2 03E7
+
+[Rudy Codes\Sor & Mgr Ist Voll]
+Type = Gameshark
+Activation = EndFrame
+800DE4C4 03E7
+
+[Rudy Codes\Res & Fry Ist Voll]
+Type = Gameshark
+Activation = EndFrame
+800DE4C6 03E7
+
+[Rudy Codes\Waffe 1 Max Atf]
+Type = Gameshark
+Activation = EndFrame
+300DE815 0007
+
+[Rudy Codes\Waffe 1 Max Hit]
+Type = Gameshark
+Activation = EndFrame
+300DE816 0007
+
+[Rudy Codes\Waffe 1 Max Anzahl]
+Type = Gameshark
+Activation = EndFrame
+300DE817 0007
+
+[Rudy Codes\Waffe 1 Unendlich Munition]
+Type = Gameshark
+Activation = EndFrame
+800DE818 0063
+
+[Rudy Codes\Waffe 2 Max Atf]
+Type = Gameshark
+Activation = EndFrame
+300DE81B 0007
+
+[Rudy Codes\Waffe 2 Max Hit]
+Type = Gameshark
+Activation = EndFrame
+300DE81C 0007
+
+[Rudy Codes\Waffe 2 Max Anzahl]
+Type = Gameshark
+Activation = EndFrame
+300DE81D 0007
+
+[Rudy Codes\Waffe 2 Unendlich Munition]
+Type = Gameshark
+Activation = EndFrame
+800DE81E 0063
+
+[Rudy Codes\Waffe 3 Max Atf]
+Type = Gameshark
+Activation = EndFrame
+300DE821 0007
+
+[Rudy Codes\Waffe 3 Max Hit]
+Type = Gameshark
+Activation = EndFrame
+300DE822 0007
+
+[Rudy Codes\Waffe 3 Max Anzahl]
+Type = Gameshark
+Activation = EndFrame
+300DE823 0007
+
+[Rudy Codes\Waffe 3 Unendlich Munition]
+Type = Gameshark
+Activation = EndFrame
+800DE824 0063
+
+[Rudy Codes\Waffe 4 Max Atf]
+Type = Gameshark
+Activation = EndFrame
+300DE827 0007
+
+[Rudy Codes\Waffe 4 Max Hit]
+Type = Gameshark
+Activation = EndFrame
+300DE828 0007
+
+[Rudy Codes\Waffe 4 Max Anzahl]
+Type = Gameshark
+Activation = EndFrame
+300DE829 0007
+
+[Rudy Codes\Waffe 4 Unendlich Munition]
+Type = Gameshark
+Activation = EndFrame
+800DE82A 0063
+
+[Rudy Codes\Waffe 5 Max Atf]
+Type = Gameshark
+Activation = EndFrame
+300DE82D 0007
+
+[Rudy Codes\Waffe 5 Max Hit]
+Type = Gameshark
+Activation = EndFrame
+300DE82E 0007
+
+[Rudy Codes\Waffe 5 Max Anzahl]
+Type = Gameshark
+Activation = EndFrame
+300DE82F 0007
+
+[Rudy Codes\Waffe 5 Unendlich Munition]
+Type = Gameshark
+Activation = EndFrame
+800DE830 0063
+
+[Rudy Codes\Waffe 6 Max Atf]
+Type = Gameshark
+Activation = EndFrame
+300DE833 0007
+
+[Rudy Codes\Waffe 6 Max Hit]
+Type = Gameshark
+Activation = EndFrame
+300DE834 0007
+
+[Rudy Codes\Waffe 6 Max Anzahl]
+Type = Gameshark
+Activation = EndFrame
+300DE835 0007
+
+[Rudy Codes\Waffe 6 Unendlich Munition]
+Type = Gameshark
+Activation = EndFrame
+800DE836 0063
+
+[Rudy Codes\Waffe 7 Max Atf]
+Type = Gameshark
+Activation = EndFrame
+300DE839 0007
+
+[Rudy Codes\Waffe 7 Max Hit]
+Type = Gameshark
+Activation = EndFrame
+300DE83A 0007
+
+[Rudy Codes\Waffe 7 Max Anzahl]
+Type = Gameshark
+Activation = EndFrame
+300DE83B 0007
+
+[Rudy Codes\Waffe 7 Unendlich Munition]
+Type = Gameshark
+Activation = EndFrame
+800DE83C 0063
+
+[Rudy Codes\Waffe 8 Max Atf]
+Type = Gameshark
+Activation = EndFrame
+300DE83F 0007
+
+[Rudy Codes\Waffe 8 Max Hit]
+Type = Gameshark
+Activation = EndFrame
+300DE840 0007
+
+[Rudy Codes\Waffe 8 Max Anzahl]
+Type = Gameshark
+Activation = EndFrame
+300DE841 0007
+
+[Rudy Codes\Waffe 8 Unendlich Munition]
+Type = Gameshark
+Activation = EndFrame
+800DE842 0063
+
+[Jack Codes\Unendlich Hp]
+Type = Gameshark
+Activation = EndFrame
+800DE4EC 270F
+
+[Jack Codes\Max Hp]
+Type = Gameshark
+Activation = EndFrame
+800DE4EE 270F
+
+[Jack Codes\Unendlich Mp]
+Type = Gameshark
+Activation = EndFrame
+800DE4F0 270F
+
+[Jack Codes\Max Mp]
+Type = Gameshark
+Activation = EndFrame
+800DE4F2 270F
+
+[Jack Codes\Sofort Auf Level 99]
+Type = Gameshark
+Activation = EndFrame
+800DE50A 0FFF
+
+[Jack Codes\Str & Atf Ist Voll]
+Type = Gameshark
+Activation = EndFrame
+800DE4F4 03E7
+
+[Jack Codes\Vit & Def Ist Voll]
+Type = Gameshark
+Activation = EndFrame
+800DE4F6 03E7
+
+[Jack Codes\Sor & Mgr Ist Voll]
+Type = Gameshark
+Activation = EndFrame
+800DE4F8 03E7
+
+[Jack Codes\Res & Fry Ist Voll]
+Type = Gameshark
+Activation = EndFrame
+800DE4FA 03E7
+
+[Cecilia Codes\Unendlich Hp]
+Type = Gameshark
+Activation = EndFrame
+800DE520 270F
+
+[Cecilia Codes\Max Hp]
+Type = Gameshark
+Activation = EndFrame
+800DE522 270F
+
+[Cecilia Codes\Unendlich Mp]
+Type = Gameshark
+Activation = EndFrame
+800DE524 270F
+
+[Cecilia Codes\Max Mp]
+Type = Gameshark
+Activation = EndFrame
+800DE526 270F
+
+[Cecilia Codes\Sofort Auf Level 99]
+Type = Gameshark
+Activation = EndFrame
+800DE53E 0FFF
+
+[Cecilia Codes\Str & Atf Ist Voll]
+Type = Gameshark
+Activation = EndFrame
+800DE528 03E7
+
+[Cecilia Codes\Vit & Def Ist Voll]
+Type = Gameshark
+Activation = EndFrame
+800DE52A 03E7
+
+[Cecilia Codes\Sor & Mgr Ist Voll]
+Type = Gameshark
+Activation = EndFrame
+800DE52C 03E7
+
+[Cecilia Codes\Res & Fry Ist Voll]
+Type = Gameshark
+Activation = EndFrame
+800DE52E 03E7
+

@@ -1,0 +1,78 @@
+; CHTDB: ; [ Wu-Tang: Taste the Pain (Europe) {SLES-02170} ]
+
+[P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800A57C8 0303
+
+[P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800A5B38 0404
+
+[P3 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800A5EA8 0404
+
+[P4 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800A6218 0404
+
+[Registers A 16 Hit Combo]
+Type = Gameshark
+Activation = EndFrame
+800A57E4 0010
+
+[Always Have Special Power Ability]
+Type = Gameshark
+Activation = EndFrame
+800A57C6 A000
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800A57C4 A000
+
+[P2 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800A5B34 A000
+
+[P3 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800A5EA4 A000
+
+[P4 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800A6214 A000
+
+[Sanctuary , Videoplayer, Artwork & Gamemodes unlocked]
+Type = Gameshark
+Activation = EndFrame
+D01EA61A 0001
+301EA61A 00FF
+
+[Unlock All characters]
+Type = Gameshark
+Activation = EndFrame
+901EA1BC 001FFFFF
+
+[Unlock All Extras]
+Type = Gameshark
+Activation = EndFrame
+801EA1BC FFFF
+301EA1BE 001F
+801EA1C0 FFFF
+50002D01 0000
+301EA438 00FF
+301EA4A4 00FF
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+8009BEF8 1333
+

@@ -1,0 +1,32 @@
+; CHTDB: ; [ Casper: Friends Around the World (Europe) {SLES-03113} ]
+
+[All levels unlocked]
+Type = Gameshark
+Activation = EndFrame
+800DE44D 000A
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800DE480 000A
+
+[Infinite Floating power]
+Type = Gameshark
+Activation = EndFrame
+80098E6C 0078
+
+[Infinite Continues]
+Type = Gameshark
+Activation = EndFrame
+800DE47E 0003
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800DE452 0009
+
+[Have 255 crystals]
+Type = Gameshark
+Activation = EndFrame
+800DE452 00FF
+

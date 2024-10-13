@@ -1,0 +1,77 @@
+; CHTDB: ; [ CT Special Forces (Europe) {SLES-03986} ]
+
+[Co-OP Mode\P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8009D8F0 0064
+
+[Co-OP Mode\P2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8009DA2C 0064
+
+[Co-OP Mode\P1 Infinite Grenades]
+Type = Gameshark
+Activation = EndFrame
+8009DA0C 0005
+
+[Co-Op Mode\P2 Infinite Grenades]
+Type = Gameshark
+Activation = EndFrame
+8009DB48 0005
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8004D318 0000
+
+[Infinite Time in sniper level]
+Type = Gameshark
+Activation = EndFrame
+80078674 1770
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+A7028FF2 10402400
+
+[Remove Enemies - Activate at Beginning Of Level]
+Type = Gameshark
+Activation = EndFrame
+A70284F6 14201000
+
+[FPS Unlock]
+Type = Gameshark
+Activation = EndFrame
+A7012126 04812400
+
+[Skip Level (Press L3)]
+Type = Gameshark
+Activation = EndFrame
+80023FCA 00001420
+D7010001 00000200
+80023FCA 00002400
+
+[Multi - Jump]
+Type = Gameshark
+Activation = EndFrame
+8004B93A 00001440
+D7010001 01000040
+8004B93A 00001000
+
+[Walk Through Walls (Hold L2+R2)]
+Type = Gameshark
+Activation = EndFrame
+8004D6FA 00001000
+8004D5E6 00001000
+8004B66A 00001000
+D7100000 02000003
+8004D6FA 00001441
+8004D5E6 00001441
+8004B66A 00001040
+
+[One Hit Kills]
+Type = Gameshark
+Activation = EndFrame
+A7028912 1C601400
+

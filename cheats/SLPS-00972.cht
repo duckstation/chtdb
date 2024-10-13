@@ -1,0 +1,35 @@
+; CHTDB: ; [ Hexen: Beyond Heretic (Japan) {SLPS-00972} ]
+
+[Infinite Life]
+Type = Gameshark
+Activation = EndFrame
+800C838C 0064
+800E8070 0064
+8015DDA4 0064
+
+[Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+800E8076 0064
+
+[Infinite Shield]
+Type = Gameshark
+Activation = EndFrame
+800E807A 0064
+
+[Infinite Helmet]
+Type = Gameshark
+Activation = EndFrame
+800E807E 0064
+
+[Life]
+Type = Gameshark
+Activation = EndFrame
+800C7F90 0064
+800C7F9C 0001
+
+[Cheat menu]
+Type = Gameshark
+Activation = EndFrame
+300CDECC 0001
+

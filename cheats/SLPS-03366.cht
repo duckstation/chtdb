@@ -1,0 +1,12 @@
+; CHTDB: ; [ Memorial Star Series - Sunsoft Vol.3 - Madoola no Tsubasa & Toukaidou Gojuusan Tsugi (Jpn) (2001) (Sunsoft) {SLPS-03366} <sunsoft3> ]
+
+[Infinite Lives - Toukaidou Gojuusan Tsugi (Deactivate after complete a level)]
+Type = Gameshark
+Activation = EndFrame
+8009BD80 0009
+
+[Infinite HP - The Wing of Madoola]
+Type = Gameshark
+Activation = EndFrame
+8009DD39 1000
+

@@ -1,0 +1,17 @@
+; CHTDB: ; [ F1 World Grand Prix - 1999 Season (USA) (2000) (Eidos Interactive) {SLUS-01036} <f1wgp99> ]
+
+[Always Race 5 Laps (Must Be On)]
+Type = Gameshark
+Activation = EndFrame
+800A6666 0005
+
+[Team Ferrari Start On Last Lap - Driver 1]
+Type = Gameshark
+Activation = EndFrame
+A60ABB72 01000504
+
+[Team Ferrari Start On Last Lap - Driver 2]
+Type = Gameshark
+Activation = EndFrame
+A60ABCC2 01000504
+

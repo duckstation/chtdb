@@ -1,0 +1,29 @@
+; CHTDB: ; [ Spyro the Dragon (Euro) (1998) (Sony Computer Entertainment Europe) {SCES-01438 (9750925)} <spyroe> ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8007C100 000F
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8007F54C 0003
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+8007C110 0A00
+
+[Moon Jump]
+Type = Gameshark
+Activation = EndFrame
+E007DD10 0040
+8007F468 0000
+
+[Have All found]
+Type = Gameshark
+Activation = EndFrame
+50000404 0000
+8007EFC0 0008
+

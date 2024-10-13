@@ -1,0 +1,89 @@
+; CHTDB: ; [ Codename - Tenka (USA, v1.0) (1997) (Psygnosis) {SCUS-94409} <cntenkaa> ]
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+300662D2 0001
+
+[Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+80019DDA 00C8
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80019DD8 0064
+
+[Have Red Key]
+Type = Gameshark
+Activation = EndFrame
+800519C8 0001
+
+[Have Green Key]
+Type = Gameshark
+Activation = EndFrame
+800519CA 0001
+
+[Have Blue Key]
+Type = Gameshark
+Activation = EndFrame
+800519CC 0001
+
+[Have Yellow Key]
+Type = Gameshark
+Activation = EndFrame
+800519CE 0001
+
+[Have Purple Key]
+Type = Gameshark
+Activation = EndFrame
+800519D0 0001
+
+[Have Light Blue Key]
+Type = Gameshark
+Activation = EndFrame
+800519D2 0001
+
+[Infinite Grenades]
+Type = Gameshark
+Activation = EndFrame
+80019DEE 0001
+
+[Have Double Shot]
+Type = Gameshark
+Activation = EndFrame
+80019DE2 0001
+
+[Have Rapid Fire]
+Type = Gameshark
+Activation = EndFrame
+80019DE4 0001
+
+[Have Burst Laser]
+Type = Gameshark
+Activation = EndFrame
+80019DEA 0001
+
+[Infinite Laser Power]
+Type = Gameshark
+Activation = EndFrame
+80059A70 0014
+
+[Have All Weapons Option (Pause Menu)]
+Type = Gameshark
+Activation = EndFrame
+800662CE 0001
+
+[Have Level Warp Option (Pause Menu)]
+Type = Gameshark
+Activation = EndFrame
+800662D0 0001
+
+[Infinite HPS (Health)]
+Type = Gameshark
+Activation = EndFrame
+300662D6 0001
+;#Widescreen 16-9 Y-
+;A702BC3E 10001333
+

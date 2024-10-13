@@ -1,0 +1,171 @@
+; CHTDB: ; [ Streak Hoverboard Racing (Europe) {SLES-01437} ]
+
+[Select Character\Pierce]
+Type = Gameshark
+Activation = EndFrame
+30057654 0000
+
+[Select Character\Havoc]
+Type = Gameshark
+Activation = EndFrame
+30057654 0001
+
+[Select Character\Grooves]
+Type = Gameshark
+Activation = EndFrame
+30057654 0002
+
+[Select Character\Jade]
+Type = Gameshark
+Activation = EndFrame
+30057654 0003
+
+[Select Character\Mogul]
+Type = Gameshark
+Activation = EndFrame
+30057654 0004
+
+[Select Character\Wheels]
+Type = Gameshark
+Activation = EndFrame
+30057654 0005
+
+[Select Character\Fatale]
+Type = Gameshark
+Activation = EndFrame
+30057654 0006
+
+[Select Character\Cat]
+Type = Gameshark
+Activation = EndFrame
+30057654 0007
+
+[Select Character\Sierra]
+Type = Gameshark
+Activation = EndFrame
+30057654 0008
+
+[Select Character\Edge]
+Type = Gameshark
+Activation = EndFrame
+30057654 0009
+
+[Select Character\Skid]
+Type = Gameshark
+Activation = EndFrame
+30057654 000A
+
+[Select Character\Showman]
+Type = Gameshark
+Activation = EndFrame
+30057654 000B
+
+[Select Track\windway park]
+Type = Gameshark
+Activation = EndFrame
+3005768C 0000
+
+[Select Track\barnum's alley]
+Type = Gameshark
+Activation = EndFrame
+3005768C 0001
+
+[Select Track\agua escudo]
+Type = Gameshark
+Activation = EndFrame
+3005768C 0002
+
+[Select Track\st morte's]
+Type = Gameshark
+Activation = EndFrame
+3005768C 0003
+
+[Select Track\skyview high]
+Type = Gameshark
+Activation = EndFrame
+3005768C 0004
+
+[Select Track\arey keep]
+Type = Gameshark
+Activation = EndFrame
+3005768C 0005
+
+[Select Track\rearden forge]
+Type = Gameshark
+Activation = EndFrame
+3005768C 0006
+
+[Select Track\matsuri]
+Type = Gameshark
+Activation = EndFrame
+3005768C 0007
+
+[Select Track\mainline]
+Type = Gameshark
+Activation = EndFrame
+3005768C 0008
+
+[Select Track\darklith falls]
+Type = Gameshark
+Activation = EndFrame
+3005768C 0009
+
+[Select Track\eiswald spitze]
+Type = Gameshark
+Activation = EndFrame
+3005768C 000A
+
+[Select Track\front line]
+Type = Gameshark
+Activation = EndFrame
+3005768C 000B
+
+[Quick win Press Select - just play until next Checkpoint]
+Type = Gameshark
+Activation = EndFrame
+D01BB362 FFFE
+801B5BD0 000?
+
+[Infinite Turbo boost]
+Type = Gameshark
+Activation = EndFrame
+801B5C3C 4000
+
+[Always condition fine]
+Type = Gameshark
+Activation = EndFrame
+801B5C20 0400
+
+[Have 4999 points Press Select]
+Type = Gameshark
+Activation = EndFrame
+D01BB362 FFFE
+801B5D8C 1387
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A71E9A3C 10000C00
+A71E997C 10000C00
+A71E99DC 10000C00
+A71E985C 10000C00
+A71E98BC 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A71E9A3C 10000900
+A71E997C 10000900
+A71E99DC 10000900
+A71E985C 10000900
+A71E98BC 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A71E9A3C 10000400
+A71E997C 10000400
+A71E99DC 10000400
+A71E985C 10000400
+A71E98BC 10000400
+

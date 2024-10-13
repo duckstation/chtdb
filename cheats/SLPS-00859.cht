@@ -1,0 +1,17 @@
+; CHTDB: ; [ Next King - Koi no Sennen Oukoku (Jpn) (1997) (Bandai) {SLPS-00859} <nextking> ]
+
+[Infinite HP in battle]
+Type = Gameshark
+Activation = EndFrame
+80101788 000F
+
+[The strength of the enemy 0]
+Type = Gameshark
+Activation = EndFrame
+80101814 0000
+
+[Degree of women of goodwill]
+Type = Gameshark
+Activation = EndFrame
+8007C91E 00FF
+

@@ -1,0 +1,55 @@
+; CHTDB: ; [ Rescue 24 Hours (Japan) {SLPS-00572} ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+801FD2F0 FFFF
+
+[Reputation value of 255]
+Type = Gameshark
+Activation = EndFrame
+801FD2F4 00FF
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801FD340 140A
+
+[Evaluation]
+Type = Gameshark
+Activation = EndFrame
+801FD2F4 FFFF
+
+[Infinite Damage Meters]
+Type = Gameshark
+Activation = EndFrame
+801FD340 3232
+
+[Urban area all unit arrangement]
+Type = Gameshark
+Activation = EndFrame
+301FD390 00FF
+
+[All area passable]
+Type = Gameshark
+Activation = EndFrame
+301FD397 0008
+
+[0 seconds rescue time L1 button]
+Type = Gameshark
+Activation = EndFrame
+D01FFC80 0004
+801FD3B0 0000
+
+[999 seconds in the rescue time R1 button]
+Type = Gameshark
+Activation = EndFrame
+D01FFC80 0008
+801FD3B0 03E8
+
+[0km / h in L2 button]
+Type = Gameshark
+Activation = EndFrame
+D01FFC80 0001
+801FD3A8 0000
+

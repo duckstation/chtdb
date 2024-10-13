@@ -1,0 +1,22 @@
+; CHTDB: ; [ South Park Rally (USA) (1999) (Acclaim Entertainment) {SLUS-00984} <sparkral> ]
+
+[Unlock All Characters + Extra Cheats]
+Type = Gameshark
+Activation = EndFrame
+900A338C FFFFFFFF
+
+[Unlock All Races]
+Type = Gameshark
+Activation = EndFrame
+800A3390 FFFF
+
+[Unlock All Tracks]
+Type = Gameshark
+Activation = EndFrame
+800A3394 FFFF
+
+[Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+8009C33C 0005
+

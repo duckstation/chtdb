@@ -1,0 +1,19 @@
+; CHTDB: ; [ Tenga Seiha (Japan) {SLPS-00712} ]
+
+[War funds 99999999]
+Type = Gameshark
+Activation = EndFrame
+900D85D8 05F5E0FF
+
+[In battle CPU side first person corps commander vitality 0]
+Type = Gameshark
+Activation = EndFrame
+301D16C2 0000
+
+[In battle Number CPU side legionaries 0]
+Type = Gameshark
+Activation = EndFrame
+901D16D8 00000000
+901D16DC 00000000
+801D16E0 0000
+

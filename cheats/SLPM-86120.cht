@@ -1,0 +1,52 @@
+; CHTDB: ; [ Itadaki Street - Gorgeous King (Jpn) (1998) (Enix) {SLPM-86120} <itadaki> ]
+
+[Has 99999999 money in story mode]
+Type = Gameshark
+Activation = EndFrame
+90173910 05F5E0FF
+
+[P1 Trump mark]
+Type = Gameshark
+Activation = EndFrame
+90015594 10100101
+
+[Hidden stage Unlock]
+Type = Gameshark
+Activation = EndFrame
+30184295 0001
+
+[Hidden characters can be used]
+Type = Gameshark
+Activation = EndFrame
+30184294 0000
+301842CE 0000
+30184370 0000
+
+[All cards collected sugoroku Town]
+Type = Gameshark
+Activation = EndFrame
+300101F7 0009
+900101F8 09090909
+
+[Card Illustrated 100%]
+Type = Gameshark
+Activation = EndFrame
+3017E921 0009
+8017E922 0909
+9017E924 09090909
+9017E928 09090909
+9017E92C 09090909
+9017E930 09090909
+9017E934 09090909
+9017E938 09090909
+9017E93C 09090909
+9017E940 09090909
+9017E944 09090909
+9017E948 09090909
+9017E94C 09090909
+9017E950 09090909
+9017E954 09090909
+9017E958 09090909
+9017E95C 09090909
+3017E960 0009
+

@@ -1,0 +1,17 @@
+; CHTDB: ; [ Tamago de Puzzle (Japan) {SCPS-10044} ]
+
+[CPU Never Wins (Arcade Mode)]
+Type = Gameshark
+Activation = EndFrame
+A61329E4 00010000
+
+[P1 Only 1 Finish To Stage Clear]
+Type = Gameshark
+Activation = EndFrame
+A61329E0 00000001
+
+[Secret Mode]
+Type = Gameshark
+Activation = EndFrame
+801F5306 0008
+

@@ -1,0 +1,52 @@
+; CHTDB: ; [ Big League Slugger Baseball (USA) (2003) (Agetec) {SLUS-01527} <blsbball> ]
+
+[Infinite Strikes]
+Type = Gameshark
+Activation = EndFrame
+80084D64 0000
+
+[Infinite Balls]
+Type = Gameshark
+Activation = EndFrame
+80084B9A 0000
+
+[Infinite Outs]
+Type = Gameshark
+Activation = EndFrame
+80084B4C 0000
+
+[1 Strike And You Are Out]
+Type = Gameshark
+Activation = EndFrame
+A6084D64 00000002
+
+[1 Ball And You Walk]
+Type = Gameshark
+Activation = EndFrame
+A6084B9A 00000300
+
+[1 Out And You Are Out]
+Type = Gameshark
+Activation = EndFrame
+A6084B4C 00000002
+
+[2 Strikes And You Are Out]
+Type = Gameshark
+Activation = EndFrame
+A6084D64 00000001
+
+[2 Balls And You Walk]
+Type = Gameshark
+Activation = EndFrame
+A6084B9A 00000200
+
+[2 Outs And You Are Out]
+Type = Gameshark
+Activation = EndFrame
+A6084B4C 00000001
+
+[3 Balls And You Walk]
+Type = Gameshark
+Activation = EndFrame
+A6084B9A 00000100
+

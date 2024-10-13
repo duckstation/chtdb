@@ -1,0 +1,58 @@
+; CHTDB: ; [ Dynamite Boxing (Jpn) (1998) (Victor Interactive Software) {SLPS-01387} <dboxing> ]
+
+[Refill Energy P1 (Press Select)]
+Type = Gameshark
+Activation = EndFrame
+800528AC 6666
+D0053408 0100
+80052C28 6666
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800528AC 6666
+80052C28 6666
+
+[P1 Max Stamina]
+Type = Gameshark
+Activation = EndFrame
+800528AE 6666
+80052C2A 6666
+
+[Quick Finish]
+Type = Gameshark
+Activation = EndFrame
+80052D5C 0010
+
+[Restart Count Down (Press L2 + R2)]
+Type = Gameshark
+Activation = EndFrame
+D0053408 0003
+300792AC 0000
+
+[Instant Count (Press L1 + R1)]
+Type = Gameshark
+Activation = EndFrame
+D0053408 000C
+300792AC 0000
+
+[P1 Never Knock Down]
+Type = Gameshark
+Activation = EndFrame
+80050B88 1FE9
+
+[P1 Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+80050B8A 1FE9
+
+[P2 Never Knock Down]
+Type = Gameshark
+Activation = EndFrame
+8005100C 1FE9
+
+[P2 Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+8005100E 1FE9
+

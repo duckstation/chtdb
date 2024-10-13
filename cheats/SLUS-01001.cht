@@ -1,0 +1,95 @@
+; CHTDB: ; [ Fatal Fury - Wild Ambition (USA) (1999) (SNK of America) {SLUS-01001} <fatfurwa> ]
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800ACE9A 0170
+
+[P1 Infinite Powerbar]
+Type = Gameshark
+Activation = EndFrame
+800ABF30 0060
+800ACECC 0030
+
+[P1 No Health]
+Type = Gameshark
+Activation = EndFrame
+800ACE9A 0000
+
+[P2 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800AE6BA 0170
+
+[P2 Infinite Powerbar]
+Type = Gameshark
+Activation = EndFrame
+800ABF50 0060
+800AE6EC 0030
+
+[P2 No Health]
+Type = Gameshark
+Activation = EndFrame
+800AE6BA 0000
+
+[Infinite Fight Time]
+Type = Gameshark
+Activation = EndFrame
+800AC040 1154
+
+[Freeze Total Time]
+Type = Gameshark
+Activation = EndFrame
+800A5E38 0000
+
+[1 Stage Fight In Arcade Mode]
+Type = Gameshark
+Activation = EndFrame
+800AC03A 0803
+
+[Access All Original Characters In Data]
+Description = This cheat will also enable Team Battle Mode
+Type = Gameshark
+Activation = EndFrame
+800AC134 FFFF
+
+[P1 Only Throws Hurt]
+Type = Gameshark
+Activation = EndFrame
+8002F67E 3C00
+
+[P2 Only Throws Hurt]
+Type = Gameshark
+Activation = EndFrame
+8002F636 3C00
+
+[Unlock All Characters]
+Type = Gameshark
+Activation = EndFrame
+800AC12A FFFF
+
+[Unlock All Commands, Open Team Battle + Data Menu]
+Type = Gameshark
+Activation = EndFrame
+800AC134 FFFF
+
+[Unlock All Movies]
+Type = Gameshark
+Activation = EndFrame
+900AC130 00FFFFFF
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A707B59C 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A707B59C 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A707B59C 10000400
+

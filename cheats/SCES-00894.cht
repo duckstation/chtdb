@@ -1,0 +1,83 @@
+; CHTDB: ; [ Disney Action Game Disney Presenta Hercules (Italy) {SCES-00894} ]
+
+[One hit kill boss Centaur, Minotaur, Black Hawks press Select button]
+Type = Gameshark
+Activation = EndFrame
+D00382C2 FFFE
+3007468E 0000
+
+[One hit kill boss Hades press Select button]
+Type = Gameshark
+Activation = EndFrame
+D00382C2 FFFE
+301E08FE 0000
+
+[One hit kill boss Hydra press Select button]
+Type = Gameshark
+Activation = EndFrame
+D00382C2 FFFE
+3007E948 0000
+
+[One hit kill boss Medusa press Select button]
+Type = Gameshark
+Activation = EndFrame
+D00382C2 FFFE
+3007AA2C 0000
+
+[Have all jars per level]
+Type = Gameshark
+Activation = EndFrame
+30035059 000F
+
+[Have all letters per level]
+Type = Gameshark
+Activation = EndFrame
+30035064 00FF
+
+[Have fire sword max charged]
+Type = Gameshark
+Activation = EndFrame
+80035070 7FFF
+
+[Have helmet max charged]
+Type = Gameshark
+Activation = EndFrame
+80035074 7FFF
+
+[Have lightning sword max charged]
+Type = Gameshark
+Activation = EndFrame
+8003506E 7FFF
+
+[Have thunder sword max charged]
+Type = Gameshark
+Activation = EndFrame
+80035072 7FFF
+
+[Instant super punch]
+Type = Gameshark
+Activation = EndFrame
+D00382C2 EFFF
+30074930 00FF
+
+[Max coins]
+Type = Gameshark
+Activation = EndFrame
+8003505C 7FFF
+80035060 7FFF
+
+[Max health (GodMode)]
+Type = Gameshark
+Activation = EndFrame
+8003506C 7FFF
+
+[Max length of the life's bar]
+Type = Gameshark
+Activation = EndFrame
+30035066 00FF
+
+[Max lives]
+Type = Gameshark
+Activation = EndFrame
+80035054 0009
+

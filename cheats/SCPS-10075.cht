@@ -1,0 +1,51 @@
+; CHTDB: ; [ Pocket Dungeon (Japan) {SCPS-10075} ]
+
+[Master code]
+Type = Gameshark
+Activation = EndFrame
+8013D618 0100
+
+[EXP 99999]
+Type = Gameshark
+Activation = EndFrame
+90010310 0001869F
+
+[HP 999]
+Type = Gameshark
+Activation = EndFrame
+8001031C 03E7
+
+[GOLD 9999]
+Type = Gameshark
+Activation = EndFrame
+8001031E 270F
+
+[LV 99]
+Type = Gameshark
+Activation = EndFrame
+80010324 0063
+
+[99 animals all monsters]
+Type = Gameshark
+Activation = EndFrame
+30010281 0063
+50001C02 0000
+80010282 6363
+300102BA 0063
+
+[Number of steps 99999999]
+Type = Gameshark
+Activation = EndFrame
+90010318 05F5E0FF
+
+[9 times medicine]
+Type = Gameshark
+Activation = EndFrame
+30010300 0009
+
+[All nine items]
+Type = Gameshark
+Activation = EndFrame
+50000802 0000
+80010300 0909
+

@@ -1,0 +1,112 @@
+; CHTDB: ; [ From TV Animation One Piece: Tobidase Kaizokudan! (Japan) {SLPS-03252} ]
+
+[Have 999999999 money]
+Type = Gameshark
+Activation = EndFrame
+901CD3E4 3B9AC9FF
+
+[Fame MAX]
+Type = Gameshark
+Activation = EndFrame
+901CD3E8 05F5E0FF
+
+[Pirate level MAX]
+Type = Gameshark
+Activation = EndFrame
+301CD3ED 00FF
+
+[Infinite Cannon balls]
+Type = Gameshark
+Activation = EndFrame
+801CD7FC 03E7
+
+[Infinite Ship HP in naval battles]
+Type = Gameshark
+Activation = EndFrame
+8018A7DC 00FA
+
+[Food not decrease]
+Type = Gameshark
+Activation = EndFrame
+801CD7B8 0096
+
+[Hull HP current value MAX]
+Type = Gameshark
+Activation = EndFrame
+801CD7F6 270F
+
+[Hull HP maximum value MAX]
+Type = Gameshark
+Activation = EndFrame
+801CD7F8 270F
+
+[Attack MAX#]
+Type = Gameshark
+Activation = EndFrame
+301CD7F4 00FF
+
+[Steering force MAX#]
+Type = Gameshark
+Activation = EndFrame
+801CD804 270F
+
+[Hero Physical fitness MAX]
+Type = Gameshark
+Activation = EndFrame
+801CD3FC 03E7
+
+[Hero Attack MAX#]
+Type = Gameshark
+Activation = EndFrame
+801CD400 270F
+
+[Hero Defense MAX#]
+Type = Gameshark
+Activation = EndFrame
+801CD402 270F
+
+[Hero MAX rapidity#]
+Type = Gameshark
+Activation = EndFrame
+801CD404 270F
+
+[Second Character Physical fitness MAX]
+Type = Gameshark
+Activation = EndFrame
+801CD454 03E7
+
+[Second Character Attack MAX#]
+Type = Gameshark
+Activation = EndFrame
+801CD458 270F
+
+[Second Character Defense MAX]
+Type = Gameshark
+Activation = EndFrame
+801CD45A 270F
+
+[Second Character MAX rapidity]
+Type = Gameshark
+Activation = EndFrame
+801CD45C 270F
+
+[Third Character Physical fitness MAX]
+Type = Gameshark
+Activation = EndFrame
+801CD4AC 03E7
+
+[Third CharacterAttack MAX]
+Type = Gameshark
+Activation = EndFrame
+801CD4B0 270F
+
+[Third Character Defense MAX]
+Type = Gameshark
+Activation = EndFrame
+801CD4B2 270F
+
+[Third Character MAX rapidity]
+Type = Gameshark
+Activation = EndFrame
+801CD4B4 270F
+

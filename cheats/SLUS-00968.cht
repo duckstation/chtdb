@@ -1,0 +1,62 @@
+; CHTDB: ; [ BoomBots (USA) (1999) (SouthPeak Interactive) {SLUS-00968} <boombots> ]
+
+[Enable All Characters]
+Type = Gameshark
+Activation = EndFrame
+8009F820 FFFF
+
+[Enable All Levels]
+Type = Gameshark
+Activation = EndFrame
+8009F822 FFFF
+
+[P1 Select Health\Infinite]
+Type = Gameshark
+Activation = EndFrame
+8009F7A0 0400
+
+[P1 Select Health\None]
+Type = Gameshark
+Activation = EndFrame
+8009F7A0 0000
+
+[P1 Select Power Bar\Maximum]
+Type = Gameshark
+Activation = EndFrame
+8009F7A4 0400
+
+[P1 Select Power Bar\Minimum]
+Type = Gameshark
+Activation = EndFrame
+8009F7A4 0000
+
+[P1 1 Hit Kill]
+Type = Gameshark
+Activation = EndFrame
+A609F7A0 04000001
+
+[P2 Select Health\Infinite]
+Type = Gameshark
+Activation = EndFrame
+8009F7A2 0400
+
+[P2 Select Health\None]
+Type = Gameshark
+Activation = EndFrame
+8009F7A2 0000
+
+[P2 Select Power Bar\Maximum]
+Type = Gameshark
+Activation = EndFrame
+8009F7A6 0400
+
+[P2 Select Power Bar\Minimum]
+Type = Gameshark
+Activation = EndFrame
+8009F7A6 0000
+
+[P2 1 Hit Kill]
+Type = Gameshark
+Activation = EndFrame
+A609F7A2 04000001
+

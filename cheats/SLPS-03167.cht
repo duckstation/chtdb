@@ -1,0 +1,17 @@
+; CHTDB: ; [ Zera-chan Puzzle: Pitatto Pair (Japan) {SLPS-03167} ]
+
+[Infinite Time In Vs Mode 1st Game Mode]
+Type = Gameshark
+Activation = EndFrame
+800A0C7D 0032
+
+[Infinite Dead Time In 2nd Game Mode]
+Type = Gameshark
+Activation = EndFrame
+800CE994 1C84
+
+[Infinite Time In 2nd Game Mode]
+Type = Gameshark
+Activation = EndFrame
+800CE9BC 0514
+

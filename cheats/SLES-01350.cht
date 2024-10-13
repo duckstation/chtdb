@@ -1,0 +1,17 @@
+; CHTDB: ; [ Martian Gothic: Unification (Europe) {SLES-01350} ]
+
+[Infinite Health Kenzo]
+Type = Gameshark
+Activation = EndFrame
+8010E6D4 0064
+
+[Infinite Health Karne]
+Type = Gameshark
+Activation = EndFrame
+8010E7DC 0064
+
+[Infinite Health Matlock]
+Type = Gameshark
+Activation = EndFrame
+8010E5CC 0064
+

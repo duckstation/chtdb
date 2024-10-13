@@ -1,0 +1,38 @@
+; CHTDB: ; [ K-1 The Arena Fighters (Europe) {SLES-00767} ]
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8008E958 03E8
+
+[P1 Infinite Stamina]
+Type = Gameshark
+Activation = EndFrame
+8008E950 01F4
+
+[P2 no Energy]
+Type = Gameshark
+Activation = EndFrame
+8008E95C 0000
+
+[P2 1-Hit Death]
+Type = Gameshark
+Activation = EndFrame
+A608E95C 03E80001
+A608E964 03E80001
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A70D1CE8 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A70D1CE8 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A70D1CE8 10000400
+

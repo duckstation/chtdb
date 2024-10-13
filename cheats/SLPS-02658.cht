@@ -1,0 +1,44 @@
+; CHTDB: ; [ Warera Mitsubayashi Tankentai!! (Jpn) (2000) (Victor Interactive Software) {SLPS-02658} <wareramt> ]
+
+[Have 60000 Food]
+Type = Gameshark
+Activation = EndFrame
+800FE710 EA60
+
+[Have 60000 Wood]
+Type = Gameshark
+Activation = EndFrame
+800FE70C EA60
+
+[Max Funds]
+Type = Gameshark
+Activation = EndFrame
+800FE6D8 FFFF
+800FE708 FFFF
+
+[Elapsed time and date]
+Type = Gameshark
+Activation = EndFrame
+800FE704 0001
+800FEA20 0000
+
+[Max physical fitness (Possibly invalid by character)]
+Type = Gameshark
+Activation = EndFrame
+8018DEF8 005F
+8018DF24 005F
+8018E0E0 005F
+8018E0B4 005F
+8018E088 005F
+8018E10C 005F
+8018E138 005F
+8018E164 005F
+8018E190 005F
+8018E3A8 005F
+8018E3D4 005F
+8018E400 005F
+8018E42C 005F
+8018E458 005F
+8018E484 005F
+8018E4B0 005F
+

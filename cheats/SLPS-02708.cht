@@ -1,0 +1,53 @@
+; CHTDB: ; [ Jang Jang Koi Shimashow Separate 1: Jang Jang Shimashow (Japan) {SLPS-02708} ]
+
+[Points]
+Type = Gameshark
+Activation = EndFrame
+9018C5E8 00989298
+
+[Item pi exchange]
+Type = Gameshark
+Activation = EndFrame
+3018F268 0001
+
+[Jar Manet scan]
+Type = Gameshark
+Activation = EndFrame
+3018F26C 0001
+
+[Hyper-Reach bar]
+Type = Gameshark
+Activation = EndFrame
+3018F274 0001
+
+[Transfer canceller]
+Type = Gameshark
+Activation = EndFrame
+3018F27C 0001
+
+[The · Lv1 crowded sins of silver]
+Type = Gameshark
+Activation = EndFrame
+3018F270 0001
+
+[The · Lv2 crowded sins of gold]
+Type = Gameshark
+Activation = EndFrame
+3018F278 0001
+
+[The · Lv3 crowded sins of illusion]
+Type = Gameshark
+Activation = EndFrame
+3018F280 0001
+
+[All Memorial Open]
+Type = Gameshark
+Activation = EndFrame
+900C21F8 0F0F0F0F
+800C21FC 0303
+
+[Can race against the conservative free competition]
+Type = Gameshark
+Activation = EndFrame
+300C20F2 0001
+

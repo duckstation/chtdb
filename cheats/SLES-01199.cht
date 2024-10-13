@@ -1,0 +1,27 @@
+; CHTDB: ; [ Men in Black: The Game (France) {SLES-01199} ]
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+80085A2C 0000
+
+[Infinite Health Packs]
+Type = Gameshark
+Activation = EndFrame
+8005A0E4 0000
+
+[Infinite Small Med Kits]
+Type = Gameshark
+Activation = EndFrame
+8005A118 0000
+
+[Widescreen 16-9 (Partial)]
+Type = Gameshark
+Activation = EndFrame
+90098248 15551555
+9009824C 15551555
+90098250 15551555
+90098254 15551555
+90098258 15551555
+8009825C 1555
+

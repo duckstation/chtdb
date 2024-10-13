@@ -1,0 +1,10 @@
+; CHTDB: ; [ Assault Rigs (Europe) {SLES-00093} ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801C3FC0 00A0
+801C3FC4 00A0
+801C3FC8 00A0
+801C3FCC 00A0
+

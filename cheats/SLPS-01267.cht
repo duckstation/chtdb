@@ -1,0 +1,12 @@
+; CHTDB: ; [ Arcade Gears - Image Fight & X-Multiply (Jpn) (1998) (Xing) {SLPS-01267} <imgftxm> ]
+
+[Infinite 1P Lives-Imagefight]
+Type = Gameshark
+Activation = EndFrame
+80145014 0003
+
+[Infinite 1P Lives-Xmultiply]
+Type = Gameshark
+Activation = EndFrame
+800C7B72 0003
+

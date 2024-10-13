@@ -1,0 +1,18 @@
+; CHTDB: ; [ Creature Shock (Jpn) (1996) (Data East) {SLPS-00120~SLPS-00121} <crshock> ]
+
+[Infinite Energy Ship]
+Type = Gameshark
+Activation = EndFrame
+80081C88 0077
+80089BC1 0770
+800A43BA 01C1
+800A43BE 01C1
+800A43D2 00D1
+800A43D6 00D1
+800F4AD1 0770
+
+[Infinite Energy 1st Person]
+Type = Gameshark
+Activation = EndFrame
+800BBA64 005A
+

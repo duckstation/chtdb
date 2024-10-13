@@ -1,0 +1,7 @@
+; CHTDB: ; [ Konami Open Golf (Europe) {SLES-00337} ]
+
+[Only one shot]
+Type = Gameshark
+Activation = EndFrame
+801FFE44 0001
+

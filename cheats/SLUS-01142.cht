@@ -1,0 +1,30 @@
+; CHTDB: ; [ Strider (USA) (2000) (Capcom Entertainment) {SLUS-01142} <strider> ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+8006308A 0064
+
+[P1 Max Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+30062F53 0005
+90062F54 81818181
+30062F58 0081
+300630B2 0000
+
+[Unlock Level Select (Options Menu)]
+Type = Gameshark
+Activation = EndFrame
+A604D824 00000001
+
+[Unlock Alternate Costumes (Options Menu)]
+Type = Gameshark
+Activation = EndFrame
+A604D8B6 00000001
+
+[Enable Robot Helper]
+Type = Gameshark
+Activation = EndFrame
+80062F86 0100
+

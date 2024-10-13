@@ -1,0 +1,77 @@
+; CHTDB: ; [ Die Hard Trilogy (Japan) {SLPS-00585} ]
+
+[Die Hard\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+801CC96E 000C
+801CCAD6 000C
+801CCC3E 000C
+801CCDA6 000C
+
+[Die Hard\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801D38C0 0009
+
+[Die Hard\Invincibility]
+Type = Gameshark
+Activation = EndFrame
+801CCACE 00FF
+801CCB36 00FF
+801CCC9E 00FF
+801CCE06 00FF
+
+[Die Hard\Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+801CC972 0063
+801CCADA 0063
+801CCC42 0063
+801CCDAA 0063
+
+[Die Hard\Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+801CC97C 0005
+801CCAE4 0005
+801CCC4C 0005
+801CCDB4 0005
+
+[Die Hard\Infinite Bombs/Grenades]
+Type = Gameshark
+Activation = EndFrame
+50000302 0000
+801CC974 0063
+50000302 0000
+801CCADC 0063
+50000302 0000
+801CCC44 0063
+50000302 0000
+801CCDAC 0063
+
+[Die Hard 2\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+D20B6DAC 0005
+800B6DAC 0005
+
+[Die Hard 2\Infinite Missiles]
+Type = Gameshark
+Activation = EndFrame
+800B6DBC 0063
+
+[Die Hard 2\Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+801F90E2 000F
+
+[Die Hard 2\Infinite Bombs]
+Type = Gameshark
+Activation = EndFrame
+800B6F54 0063
+
+[Die Hard III\Infinite LiVeS]
+Type = Gameshark
+Activation = EndFrame
+300B8B50 0003
+

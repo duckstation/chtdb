@@ -1,0 +1,120 @@
+; CHTDB: ; [ Crash Bandicoot 2 - Cortex Strikes Back (USA) (1997) (Sony Computer Entertainment America) {SCUS-94154} <crash2> ]
+
+[Have All Silver and Colored Gems]
+Type = Gameshark
+Activation = EndFrame
+9006CC28 FFFFFFFF
+9006CC2C FFFFFFFF
+
+[Have All Crystals]
+Description = Combine the 'Have all Crystals' code with the 'Have all Silver and Colored Gems' to access the real ending wherein you destroy the Cortex Vortex. The 'Have all Crystals' code still requires you to defeat each boss in order for you to enter the Warp Rooms. Combine the 'Have all Crystals' cheat with the 'Have all Silver and Colored Gems' to access the real ending wherein you destroy the Cortex Vortex. The 'Have all Crystals' cheat still requires you to def each boss in order for you to enter the Warp Rooms
+Type = Gameshark
+Activation = EndFrame
+9006CDA4 FFFFFFFF
+8006CDA8 FFFF
+
+[Always Have Aku Aku Mask (Warp Room)]
+Type = Gameshark
+Activation = EndFrame
+8006CBD4 0200
+
+[L2 for Invincibility Enabled, R2 for Invincibility Disabled]
+Type = Gameshark
+Activation = EndFrame
+D0069922 FEFF
+8001CE8E 2400
+D0069922 FDFF
+8001CE8E 0C00
+
+[L2 Enable Invincibility. R2 Disable Invincibility (Version 2)]
+Type = Gameshark
+Activation = EndFrame
+D0069922 FEFF
+8003944A 2400
+D0069922 FDFF
+8003944A 0C00
+
+[Collect from Anywhere/Easy Hit Boxes (Press R2)]
+Type = Gameshark
+Activation = EndFrame
+A702D9F2 14001040
+A702DA02 14001160
+A702DA16 14001040
+A702DD5A 14001560
+A702DD6A 14001160
+A702DD7E 14001040
+A702DCF6 10001160
+D7200000 00000002
+A702D9F2 10401400
+A702DA02 11601400
+A702DA16 10401400
+A702DD5A 15601400
+A702DD6A 11601400
+A702DD7E 10401400
+A702DCF6 11601000
+;f 0,fffff,w.1040,0,0,?,8fab,0,0,?,1160
+;f 0,fffff,w.1160,1,3c0b
+;f 0,fffff,w.1040,0,0,0100,8ee2
+;f 0,fffff,w.1560,0,0,?,8fab
+;f 0,fffff,w.1160,18,27a4
+;f 0,fffff,w.1040,2021,2e0
+;f 0,fffff,w.1160,0,0,?,8fab
+;hugopocked type 1, Teh69thSpartan type 2
+
+[Select Moon Jump Cheat\Type 1]
+Type = Gameshark
+Activation = EndFrame
+A701E2D0 00882000
+A701E2D2 AE230800
+A701E2D6 00652400
+90008000 3C148006
+90008004 36949922
+90008008 96930000
+90008010 00139B82
+90008018 32730001
+90008020 16600005
+90008028 3063FFFF
+9000802C 3C14000C
+90008030 00741825
+90008038 AE230088
+9000803C 080078B6
+90008040 0065182A
+
+[Select Moon Jump Cheat\Type 2]
+Type = Gameshark
+Activation = EndFrame
+A701E278 00AC2C00
+A701E27A 8E220C00
+9000B000 27BDFFE8
+9000B004 AFA80010
+9000B008 3C088007
+9000B00C 95089922
+9000B014 00084027
+9000B018 31084000
+9000B01C 39084000
+9000B020 11000002
+9000B028 8E2200AC
+9000B030 8FA80010
+9000B034 27BD0018
+9000B038 03E00008
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+A701CE36 14401000
+
+[Crates suddenly break]
+Description = Use with Invincibility cheat
+Type = Gameshark
+Activation = EndFrame
+A702B962 0C002400
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+A7017BFC F4D80C00
+A7017BFE 0C00241B
+A7017C00 20231000
+A7017C02 00042402
+A7017C1E A662A67B
+

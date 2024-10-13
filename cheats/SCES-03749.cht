@@ -1,0 +1,25 @@
+; CHTDB: ; [ Disney Pooh e Tigro! Ãˆ Qui la Festa (Italy) {SCES-03749} ]
+
+[Have 999 total honey jars]
+Type = Gameshark
+Activation = EndFrame
+800CCC84 03E7
+
+[Infinite Time during the decisions]
+Type = Gameshark
+Activation = EndFrame
+800CDF56 270F
+
+[Place always 3 bombs]
+Type = Gameshark
+Activation = EndFrame
+300D09E0 0003
+
+[Tigger's number of laps and lives\objects on mini-games Press Select button for 1 lap to win the race & press L1 button to have a lot of lives\objects on mini-games]
+Type = Gameshark
+Activation = EndFrame
+D00C90F6 FFFE
+800CCC88 0001
+D00C90F6 FBFF
+800CCC88 03E7
+

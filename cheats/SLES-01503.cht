@@ -1,0 +1,23 @@
+; CHTDB: ; [ Oddworld: Abe's Exoddus (Germany) {SLES-01503 | SLES-11503} ]
+
+[300 Mudokuns Befreit]
+Type = Gameshark
+Activation = EndFrame
+8007E5EA 012C
+
+[Sofortige ÜBernahme Press L1+L2]
+Type = Gameshark
+Activation = EndFrame
+D007E660 0005
+8007E5A8 FFFF
+
+[Unendlich Wurfsteine]
+Type = Gameshark
+Activation = EndFrame
+A61F389E 00080009
+
+[Keine Opfer]
+Type = Gameshark
+Activation = EndFrame
+8007E5E8 0000
+

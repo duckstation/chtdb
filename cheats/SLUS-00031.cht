@@ -1,0 +1,57 @@
+; CHTDB: ; [ Shellshock (USA) (1996) (U.S. Gold) {SLUS-00031} <shellshk> ]
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+80087C1E 0300
+
+[Infinite SAMS]
+Type = Gameshark
+Activation = EndFrame
+800855AE 0004
+
+[Infinite Cash]
+Type = Gameshark
+Activation = EndFrame
+800855C0 FFFF
+
+[Upgrade Target Computer]
+Type = Gameshark
+Activation = EndFrame
+800855BC 0004
+
+[Upgrade Engine]
+Type = Gameshark
+Activation = EndFrame
+800855B6 0004
+
+[Upgrade Track]
+Type = Gameshark
+Activation = EndFrame
+800855B8 0004
+
+[Upgrade Coolant]
+Type = Gameshark
+Activation = EndFrame
+800855BE 0004
+
+[Upgrade Reloader]
+Type = Gameshark
+Activation = EndFrame
+800855BA 0004
+
+[Upgrade Armor]
+Type = Gameshark
+Activation = EndFrame
+800855AC 0004
+
+[Infinite Air Support]
+Type = Gameshark
+Activation = EndFrame
+800855B4 0004
+
+[Enemy Targets to Kill = 0]
+Type = Gameshark
+Activation = EndFrame
+800887D4 0000
+

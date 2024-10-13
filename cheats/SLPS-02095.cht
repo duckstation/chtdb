@@ -1,0 +1,17 @@
+; CHTDB: ; [ Abe '99 (Japan) {SLPS-02095 | SLPS-02096} ]
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+8007F44E 0001
+
+[I have saved all Madokan]
+Type = Gameshark
+Activation = EndFrame
+8007F436 012C
+
+[With 0 casualties]
+Type = Gameshark
+Activation = EndFrame
+8007F434 0000
+

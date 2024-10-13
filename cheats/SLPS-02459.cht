@@ -1,0 +1,7 @@
+; CHTDB: ; [ Otona no Asobi (Japan) (Nichibutsu Collection 2000) {SLPS-02459} ]
+
+[Have lots of money deactivate after sending it]
+Type = Gameshark
+Activation = EndFrame
+9017B9CC 000F423F
+

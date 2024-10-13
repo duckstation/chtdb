@@ -1,0 +1,37 @@
+; CHTDB: ; [ Kensei: The King of Boxing (Japan) {SLPS-00502} ]
+
+[P1 Infinite Damage Gauge]
+Type = Gameshark
+Activation = EndFrame
+8007DB9C FFFF
+
+[P1 Infinite Power Gauge]
+Type = Gameshark
+Activation = EndFrame
+8007DBA4 FFFF
+
+[P1 Infinite Overall Gauge]
+Type = Gameshark
+Activation = EndFrame
+8007DBAC FFFF
+
+[P2 No Damage Gauge]
+Type = Gameshark
+Activation = EndFrame
+8007DE8C 0000
+
+[P2 No Power Gauge]
+Type = Gameshark
+Activation = EndFrame
+8007DE94 0000
+
+[P2 No Overall Gauge]
+Type = Gameshark
+Activation = EndFrame
+8007DE9C 0000
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+8007EA7A 00B3
+

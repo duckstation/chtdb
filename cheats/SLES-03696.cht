@@ -1,0 +1,18 @@
+; CHTDB: ; [ Barbie: Explorer (Spain) {SLES-03696} ]
+
+[Infinite Gems]
+Type = Gameshark
+Activation = EndFrame
+8008ED98 03E7
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8008ED90 0063
+8008FBE2 0063
+
+[Infinite Hearts]
+Type = Gameshark
+Activation = EndFrame
+8008EC0C 0009
+

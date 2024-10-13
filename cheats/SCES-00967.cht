@@ -1,0 +1,75 @@
+; CHTDB: ; [ Crash Bandicoot 2: Cortex Strikes Back (Europe) {SCES-00967} ]
+
+[100 Lives (To restore your lives to 100 you must enter the Warp Room)]
+Type = Gameshark
+Activation = EndFrame
+8006CE68 6400
+
+[All Crystals]
+Type = Gameshark
+Activation = EndFrame
+9006D03C FFFFFFFF
+8006D040 FFFF
+
+[All Gems]
+Type = Gameshark
+Activation = EndFrame
+9006CEC0 FFFFFFFF
+9006CEC4 FFFFFFFF
+
+[Collect from Anywhere/Easy Hit Boxes (Press R2)]
+Type = Gameshark
+Activation = EndFrame
+A702DD06 14001040
+A702DD16 14001160
+A702DD2A 14001040
+A702E06E 14001560
+A702E07E 14001160
+A702E092 14001040
+A702E00A 10001160
+D7200000 00000002
+A702DD06 10401400
+A702DD16 11601400
+A702DD2A 10401400
+A702E06E 15601400
+A702E07E 11601400
+A702E092 10401400
+A702E00A 11601000
+;Finds to duplicate above addresses for clones/regions
+;f 0,fffff,w.1040,0,0,?,8fab,0,0,?,1160
+;f 0,fffff,w.1160,1,3c0b
+;f 0,fffff,w.1040,0,0,0100,8ee2
+;f 0,fffff,w.1560,0,0,?,8fab
+;f 0,fffff,w.1160,18,27a4
+;f 0,fffff,w.1040,2021,2e0
+;f 0,fffff,w.1160,0,0,?,8fab
+
+[Open All Levels (This code must be used with all crystals and gems turned on)]
+Type = Gameshark
+Activation = EndFrame
+80008006 CE74
+800043C8 0000
+
+[Always have Aku Aku mask]
+Type = Gameshark
+Activation = EndFrame
+8006CE6C 0200
+9003A204 08001D80
+90007600 3C088007
+90007604 8D08CE48
+90007608 15100007
+9000760C 34090300
+90007610 85080174
+90007614 11090004
+90007618 3C088007
+9000761C 8D08CE48
+90007620 34090200
+90007624 A5090174
+90007628 03E00008
+
+[Always have the gray gem]
+Type = Gameshark
+Activation = EndFrame
+3006CF01 0000
+3006D059 0000
+

@@ -1,0 +1,37 @@
+; CHTDB: ; [ Creatures - Raised in Space (USA) (2003) (Conspiracy Entertainment) {SLUS-01553} <creatris> ]
+
+[Enable Debug Options]
+Type = Gameshark
+Activation = EndFrame
+300227B8 0000
+
+[Enable DNA]
+Type = Gameshark
+Activation = EndFrame
+3002280C 0000
+
+[Enable Exp]
+Type = Gameshark
+Activation = EndFrame
+30022828 0000
+
+[Enable Reset All]
+Type = Gameshark
+Activation = EndFrame
+30022844 0000
+
+[Enable Status]
+Type = Gameshark
+Activation = EndFrame
+300227F0 0000
+
+[Enable Watches]
+Type = Gameshark
+Activation = EndFrame
+300227D4 0000
+
+[Item Info]
+Type = Gameshark
+Activation = EndFrame
+300F4D60 0001
+

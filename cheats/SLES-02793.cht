@@ -1,0 +1,39 @@
+; CHTDB: ; [ Crisis Beat (Europe) {SLES-02793} ]
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800AEF4E 0064
+
+[P2 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800AF08E 0064
+
+[Stop time Only Enable In Game]
+Type = Gameshark
+Activation = EndFrame
+800AAAC2 0800
+
+[Sudden Death all enemies]
+Type = Gameshark
+Activation = EndFrame
+D00852A6 0043
+800852A4 0000
+A60852A6 00433402
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A705E510 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A705E510 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A705E510 10000400
+

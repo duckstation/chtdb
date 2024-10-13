@@ -1,0 +1,49 @@
+; CHTDB: ; [ Street Scooters (Europe) {SLES-02528} ]
+
+[Training\Max Limit]
+Type = Gameshark
+Activation = EndFrame
+800F5856 05DC
+
+[Training\Timer Stopped]
+Type = Gameshark
+Activation = EndFrame
+800F55C8 0000
+
+[Races\Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+A6048DD8 00020000
+D0048DD8 0002
+80048DDA 0000
+
+[Races\Countdown-Timer Frozen Use only one of the codes]
+Type = Gameshark
+Activation = EndFrame
+D005EB5C FFFF
+8005EB60 0000
+D005EB5C FFFF
+8005EB62 0000
+
+[Races\Countdown-Timer Increases Use only one of the codes]
+Type = Gameshark
+Activation = EndFrame
+A605EB5C FFFF0001
+
+[Races\Race-Timer Frozen]
+Type = Gameshark
+Activation = EndFrame
+3005EBD0 0000
+
+[Races\Always First]
+Type = Gameshark
+Activation = EndFrame
+300F55CC 0001
+300F84F2 0001
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+80091AFC 0D0B
+80091B7C 08B2
+

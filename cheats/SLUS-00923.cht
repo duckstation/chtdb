@@ -1,0 +1,506 @@
+; CHTDB: ; [ Resident Evil 3 - Nemesis (USA) (1999) (Capcom Entertainment) {SLUS-00923D, SLUS-00923GH} <revil3> ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800CCC90 00C8
+
+[Condition Fine]
+Type = Gameshark
+Activation = EndFrame
+300CCC97 0004
+
+[Save Anywhere Press L1+Triangle]
+Type = Gameshark
+Activation = EndFrame
+D00CC830 0014
+900D1D18 800513CC
+
+[Have 10 Slots]
+Type = Gameshark
+Activation = EndFrame
+800D225E 000A
+
+[Have All Maps]
+Type = Gameshark
+Activation = EndFrame
+300D2127 00FE
+300D212B 00FE
+
+[Have All Files]
+Type = Gameshark
+Activation = EndFrame
+900D212C FFFFFFFF
+
+[Access Item Box Anytime Press L1+Square]
+Type = Gameshark
+Activation = EndFrame
+C00CC830 0084
+800D1F2C 0200
+800E01C4 0002
+00000000 FFFF
+
+[Infinite Item Usage (All Slots)]
+Type = Gameshark
+Activation = EndFrame
+8006D0CA 2400
+
+[Almost All Doors Open]
+Type = Gameshark
+Activation = EndFrame
+50000502 0000
+800D20CC FFFF
+
+[Select Character\Carlos]
+Type = Gameshark
+Activation = EndFrame
+800D1F86 0008
+
+[Select Character\Mikhall]
+Type = Gameshark
+Activation = EndFrame
+800D1F86 0009
+
+[Select Character\Nichotai]
+Type = Gameshark
+Activation = EndFrame
+800D1F86 000A
+
+[Select Character\Tofu]
+Type = Gameshark
+Activation = EndFrame
+800D1F86 000F
+
+[Have All Pics In Epilogue]
+Type = Gameshark
+Activation = EndFrame
+800D1F3E 0008
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800C79BA 0000
+
+[Total Time (Get Grade S)]
+Type = Gameshark
+Activation = EndFrame
+900D1F28 00000000
+
+[Quick Ending Press L1+L2+R1+R2]
+Type = Gameshark
+Activation = EndFrame
+D00CC830 000F
+900CC858 0001C000
+
+[Rapid Fire Press R1+R2+X]
+Type = Gameshark
+Activation = EndFrame
+D00CC830 004A
+800CCC8C 1E02
+
+[Enhanced Extra Ammo]
+Type = Gameshark
+Activation = EndFrame
+900D2260 01F401F4
+800D2266 01F4
+900D2268 01F401F4
+800D226C 01F4
+
+[Chest True Infinite Item]
+Type = Gameshark
+Activation = EndFrame
+50004004 0000
+800D215E 0017
+
+[Makes Game Think You Never Saved]
+Type = Gameshark
+Activation = EndFrame
+800D1F40 0000
+
+[One-Hit Death]
+Type = Gameshark
+Activation = EndFrame
+A6044E18 00060001
+
+[Hyper Mode]
+Type = Gameshark
+Activation = EndFrame
+800D454C 0002
+
+[Secret Mode With this code, it starts a new game with new weapons in chest and ALL weapons and infinite ink ribbons and a key to Boutique with all costumes!]
+Type = Gameshark
+Activation = EndFrame
+800D1F32 FFE0
+
+[Walk Thru Walls]
+Type = Gameshark
+Activation = EndFrame
+800339FE 1000
+8004B2A2 1000
+
+[More Blood]
+Type = Gameshark
+Activation = EndFrame
+800BD8DE FFFF
+
+[Mercenaries Mode Get Reward]
+Type = Gameshark
+Activation = EndFrame
+800CC852 FFFF
+
+[Mercenaries Mode Max Reward Total]
+Type = Gameshark
+Activation = EndFrame
+900D25EC 0098967F
+
+[Mercenaries Mode Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800D1F98 0078
+
+[Start New Game At The Police Station]
+Type = Gameshark
+Activation = EndFrame
+80024670 A34B
+80024672 2402
+80024690 001A
+80024692 3402
+800246AC 0001
+800246AE 3402
+3009E4C0 0041
+3009E4C1 000D
+3009E4C8 0001
+3009E4C9 000F
+
+[Matrix Mode (Press L3 On/Off, Hold L1 for slo-mo)]
+Type = Gameshark
+Activation = EndFrame
+D7010001 00000200
+F501BBA6 10401000
+F5023E3A 10401000
+00000000 0000FFFF
+900292E8 92A3018C
+D7200000 01000004
+900292E8 24030004
+
+[Alt Matrix Mode (Press L3 On/Off, Press L1 On/Off for slo-mo)]
+Type = Gameshark
+Activation = EndFrame
+D7010001 00000200
+F501BBA6 10401000
+F5023E3A 10401000
+00000000 0000FFFF
+D7010001 01000004
+F50292E8 018C0006
+F50292EA 92A32403
+
+[Dodge On Command With R2]
+Type = Gameshark
+Activation = EndFrame
+8003925C 0701
+8003925E 3402
+8003A53C 0701
+8003A53E 3402
+80039778 0701
+8003977A 3402
+80039EC0 0701
+80039EC2 3402
+80039B24 0701
+80039B26 3402
+
+[Auto Dodge Zombies (Hold L3)]
+Type = Gameshark
+Activation = EndFrame
+D5000000 00000200
+F4104BD0 00AA7000
+05004234 040062AE
+AAAAAAAA AAAAAAAA
+010DAAAA AAAAAAAA
+AAAAAAAA AAAAAAAA
+00000000 0000FFFF
+D6000000 00000200
+F4104BD0 00AA7000
+010D4234 040062AE
+AAAAAAAA AAAAAAAA
+0500AAAA AAAAAAAA
+AAAAAAAA AAAAAAAA
+
+[Ready Your Weapon Faster - Disables Auto-Aim]
+Type = Gameshark
+Activation = EndFrame
+A703EE1A 10402400
+
+[Mines Have Red Electricity]
+Type = Gameshark
+Activation = EndFrame
+A701B906 14461000
+
+[Select initial 'Mine Thrower' damage type\Knife]
+Type = Gameshark
+Activation = EndFrame
+A70455DE 000C0001
+
+[Select initial 'Mine Thrower' damage type\Mercs Handgun]
+Type = Gameshark
+Activation = EndFrame
+A70455DE 000C0002
+
+[Select initial 'Mine Thrower' damage type\Handgun]
+Type = Gameshark
+Activation = EndFrame
+A70455DE 000C0003
+
+[Select initial 'Mine Thrower' damage type\Shotgun]
+Type = Gameshark
+Activation = EndFrame
+A70455DE 000C0004
+
+[Select initial 'Mine Thrower' damage type\Magnum]
+Type = Gameshark
+Activation = EndFrame
+A70455DE 000C0005
+
+[Select initial 'Mine Thrower' damage type\Grenade EXG]
+Type = Gameshark
+Activation = EndFrame
+A70455DE 000C0006
+
+[Select initial 'Mine Thrower' damage type\Grenade FLG]
+Type = Gameshark
+Activation = EndFrame
+A70455DE 000C0007
+
+[Select initial 'Mine Thrower' damage type\Grenade ACG]
+Type = Gameshark
+Activation = EndFrame
+A70455DE 000C0008
+
+[Select initial 'Mine Thrower' damage type\Grenade FRZ]
+Type = Gameshark
+Activation = EndFrame
+A70455DE 000C0009
+
+[Select initial 'Mine Thrower' damage type\R Launcher]
+Type = Gameshark
+Activation = EndFrame
+A70455DE 000C000A
+
+[Select initial 'Mine Thrower' damage type\Gatling Gun]
+Type = Gameshark
+Activation = EndFrame
+A70455DE 000C001B
+
+[Select initial 'Mine Thrower' damage type\Mine Thrower]
+Type = Gameshark
+Activation = EndFrame
+A70455DE 000C001C
+
+[Select initial 'Mine Thrower' damage type\Mine Thrower E]
+Type = Gameshark
+Activation = EndFrame
+A70455DE 000C0014
+
+[Select initial 'Mine Thrower' damage type\Eagle 6.0]
+Type = Gameshark
+Activation = EndFrame
+A70455DE 000C000D
+
+[Select initial 'Mine Thrower' damage type\AS Rifle]
+Type = Gameshark
+Activation = EndFrame
+A70455DE 000C000E
+
+[Select initial 'Mine Thrower' damage type\As Rifle 2]
+Type = Gameshark
+Activation = EndFrame
+A70455DE 000C000F
+
+[Select initial 'Mine Thrower' damage type\Western Custom]
+Type = Gameshark
+Activation = EndFrame
+A70455DE 000C0010
+
+[Select initial 'Mine Thrower' damage type\Sigpro E]
+Type = Gameshark
+Activation = EndFrame
+A70455DE 000C0011
+
+[Select initial 'Mine Thrower' damage type\M92F E]
+Type = Gameshark
+Activation = EndFrame
+A70455DE 000C0012
+
+[Select initial 'Mine Thrower' damage type\Benelli M3S E]
+Type = Gameshark
+Activation = EndFrame
+A70455DE 000C0013
+
+[Remote Detonate Mines (Hold L1)]
+Type = Gameshark
+Activation = EndFrame
+800464B2 00001000
+D7200000 01000004
+800464B2 00002400
+
+[Walk during cutscenes]
+Description = Allows you to walk away from things that would otherwise freeze you in place
+Type = Gameshark
+Activation = EndFrame
+A703847A 10401000
+
+[Jill shows up during interactions]
+Type = Gameshark
+Activation = EndFrame
+A70254F6 14401000
+
+[Increased Reverb]
+Type = Gameshark
+Activation = EndFrame
+A707E99A 112B1000
+
+[Remove Cutscene Black Bars]
+Type = Gameshark
+Activation = EndFrame
+A7029D62 10601000
+
+[Disable Choice Events]
+Type = Gameshark
+Activation = EndFrame
+A7023BA6 10401000
+
+[No choice menu]
+Type = Gameshark
+Activation = EndFrame
+A702FEBA 10401000
+
+[Combine Almost Any Item]
+Type = Gameshark
+Activation = EndFrame
+A706A8BE 14852400
+A706A8F6 10451000
+A706A8E6 14461000
+
+[Remove 'Fine' line]
+Type = Gameshark
+Activation = EndFrame
+A706E332 14401400
+
+[Item menu pulse, slow fade in]
+Type = Gameshark
+Activation = EndFrame
+A706E2E6 1C401000
+
+[Always Show Real Amount Of Items]
+Type = Gameshark
+Activation = EndFrame
+A706C71E 10621000
+
+[Never Show Item Amount]
+Type = Gameshark
+Activation = EndFrame
+A706C93A 10621000
+
+[Centre Item Amount]
+Type = Gameshark
+Activation = EndFrame
+A706C93A 10622400
+
+[No item description border bottom]
+Type = Gameshark
+Activation = EndFrame
+A706EABE 14402400
+
+[No item description border top]
+Type = Gameshark
+Activation = EndFrame
+A706E99E 14402400
+
+[Full FPS Unlock]
+Type = Gameshark
+Activation = EndFrame
+A70292FA 14401400
+
+[Make game Dark]
+Type = Gameshark
+Activation = EndFrame
+A70295E6 14622400
+
+[Enter random doors press X]
+Type = Gameshark
+Activation = EndFrame
+A7050A5A 10402400
+
+[Touching a door opens it]
+Type = Gameshark
+Activation = EndFrame
+A70507C2 10402400
+
+[Invisible Enemy Mode]
+Type = Gameshark
+Activation = EndFrame
+A702418E 16422400
+A7019DBE 16C02400
+
+[Disable auto aim]
+Type = Gameshark
+Activation = EndFrame
+A704426E 04401000
+
+[60 FPS Beta]
+Type = Gameshark
+Activation = EndFrame
+800101BC 0000FFFF
+10027F44 00000001
+D0027F44 00000002
+80027F44 00000000
+100271D0 00000001
+D30271D0 00000002
+800271D0 00000000
+E00CCBC9 0000000B
+800101BC 00000001
+E00CCBC9 0000000E
+800101BC 00000001
+E00CCBC9 0000000A
+800101BC 00000001
+E00CCBC9 0000000F
+800101BC 00000001
+
+[Giraffe Jill]
+Type = Gameshark
+Activation = EndFrame
+A70CCCE0 40A4407C
+
+[Most puzzle answers are always correct (Hold L1 on last digit or exiting puzzle menu)]
+Type = Gameshark
+Activation = EndFrame
+A7052C82 10001062
+D7200000 00000004
+A7052C82 10621000
+
+[Nemesis shoots poisonous rockets]
+Type = Gameshark
+Activation = EndFrame
+900A1AE0 AE020004
+900A1AE4 34020001
+900A1AE8 00000000
+900A1AEC 3C0A800C
+900A1AF0 354ACBC8
+900A1AF4 954B0000
+900A1AF8 00000000
+900A1AFC 340C0002
+900A1B00 3C0D800C
+900A1B04 35ADCC97
+900A1B08 34090802
+900A1B0C 152B0002
+900A1B10 00000000
+900A1B14 A1AC0000
+900A1B18 00000000
+900A1B1C 34090902
+900A1B20 152B0002
+900A1B24 00000000
+900A1B28 A1AC0000
+900A1B2C 03E00008
+900A1B30 00000000
+9004770C 0C0286B8
+90047710 00000000
+

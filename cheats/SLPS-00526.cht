@@ -1,0 +1,120 @@
+; CHTDB: ; [ Imadoki no Vampire: Bloody Bride (Japan) {SLPS-00526} ]
+
+[Infinite Soul]
+Type = Gameshark
+Activation = EndFrame
+800F9D40 270F
+801123E0 270F
+8013ECC8 270F
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800F9BC4 03E7
+801123F6 03E7
+
+[250 Ghost]
+Type = Gameshark
+Activation = EndFrame
+8011241E 00FA
+
+[Have 250 Intelligence]
+Type = Gameshark
+Activation = EndFrame
+80112406 00FA
+
+[Have 5 Desire]
+Type = Gameshark
+Activation = EndFrame
+8013ED02 0005
+
+[Have 300 Sense]
+Type = Gameshark
+Activation = EndFrame
+80112412 012C
+
+[Have 300 Power]
+Type = Gameshark
+Activation = EndFrame
+801123FE 012C
+
+[Have 300 App]
+Type = Gameshark
+Activation = EndFrame
+8011240A 012C
+
+[Have 300 Appearance]
+Type = Gameshark
+Activation = EndFrame
+8011240A 012C
+
+[Max Flame]
+Type = Gameshark
+Activation = EndFrame
+80103B36 03E7
+
+[Max Refrigeration]
+Type = Gameshark
+Activation = EndFrame
+80103B3A 03E7
+
+[Max Electric shock]
+Type = Gameshark
+Activation = EndFrame
+80103B3E 03E7
+
+[Max Recovery]
+Type = Gameshark
+Activation = EndFrame
+80103B42 03E7
+
+[Max Information]
+Type = Gameshark
+Activation = EndFrame
+80103B46 03E7
+
+[Bonus mode appearance]
+Type = Gameshark
+Activation = EndFrame
+300F9B88 0002
+
+[Bonus mode All movies]
+Type = Gameshark
+Activation = EndFrame
+300FA058 00FF
+
+[Bonus mode All events]
+Type = Gameshark
+Activation = EndFrame
+30104FFF 00FF
+
+[No random battles]
+Type = Gameshark
+Activation = EndFrame
+300F9D39 0000
+
+[Favorability of HijiriRyo Max]
+Type = Gameshark
+Activation = EndFrame
+300FA0E0 0064
+
+[Favorability of Erika Max]
+Type = Gameshark
+Activation = EndFrame
+300FA0E8 0064
+
+[Favorability of Anna Max]
+Type = Gameshark
+Activation = EndFrame
+300FA0EC 0064
+
+[Favorability of Lylica Max]
+Type = Gameshark
+Activation = EndFrame
+300FA0F0 0064
+
+[Favorability of Karen Max]
+Type = Gameshark
+Activation = EndFrame
+300FA0F8 0064
+

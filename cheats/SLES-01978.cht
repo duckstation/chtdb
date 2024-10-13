@@ -1,0 +1,40 @@
+; CHTDB: ; [ Driver (Spain) {SLES-01978} ]
+
+[Infinite Time Park Test]
+Type = Gameshark
+Activation = EndFrame
+801E42C8 0000
+
+[No Damage Park Test]
+Type = Gameshark
+Activation = EndFrame
+801E3608 0000
+
+[Have All Park Test Mode Passed]
+Type = Gameshark
+Activation = EndFrame
+801E35F0 003C
+801E35F1 003C
+801E35F2 003C
+801E35F3 003C
+801E35F4 003C
+801E35F5 003C
+801E35F6 003C
+801E35F7 003C
+801E35F8 003C
+
+[No Damage Regular Game]
+Type = Gameshark
+Activation = EndFrame
+8009AD09 0000
+
+[No Felony Regular Game]
+Type = Gameshark
+Activation = EndFrame
+800971F1 0000
+
+[Infinite Time Regular Game]
+Type = Gameshark
+Activation = EndFrame
+800C6C7D 13F5
+

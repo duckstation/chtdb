@@ -1,0 +1,55 @@
+; CHTDB: ; [ G.O.D pure (Japan) {SLPS-00944} ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+900E31E0 00999999
+
+[Infinite Hero HP Y MP in battle]
+Type = Gameshark
+Activation = EndFrame
+801082F6 270F
+801082F8 270F
+
+[Infinite Character 2 HP Y MP in battle]
+Type = Gameshark
+Activation = EndFrame
+8010833E 270F
+
+[Max Lv]
+Type = Gameshark
+Activation = EndFrame
+80116290 03E7
+
+[Max Exp]
+Type = Gameshark
+Activation = EndFrame
+901162D4 05F5E0FF
+
+[Hero Infinite & Max Hp 9999]
+Type = Gameshark
+Activation = EndFrame
+8011627A 270F
+80116280 270F
+
+[Hero Infinite & Max Mp 9999]
+Type = Gameshark
+Activation = EndFrame
+8011627C 270F
+80116282 270F
+
+[No random battles]
+Type = Gameshark
+Activation = EndFrame
+300E30FE 0000
+
+[Acquisition Cosmo Stone Max]
+Type = Gameshark
+Activation = EndFrame
+800E3102 03E7
+
+[All items]
+Type = Gameshark
+Activation = EndFrame
+3010D24f 00ff
+

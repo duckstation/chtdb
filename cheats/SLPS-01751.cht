@@ -1,0 +1,72 @@
+; CHTDB: ; [ Atelier Elie: Elie no Atelier: Salburg no Renkinjutsushi 2 (Japan) {SLPS-01751} ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+9010D7E8 0001869F
+
+[Infinite HP in battle Elie (.activate the code only during battles)]
+Type = Gameshark
+Activation = EndFrame
+901B2A74 03E703E7
+
+[Infinite MP in battle Elie (.activate the code only during battles)]
+Type = Gameshark
+Activation = EndFrame
+901B2A78 03E703E7
+
+[Fundage]
+Type = Gameshark
+Activation = EndFrame
+9010F5E0 0001869F
+
+[Recipes And Fill All 99 Items]
+Type = Gameshark
+Activation = EndFrame
+D004BB2E 1440
+8004BB2C 0001
+
+[Looking At The Completed Book Items Items]
+Type = Gameshark
+Activation = EndFrame
+D004BB2E 1440
+8004BB2C 0001
+
+[Workshop Will Clean Up]
+Type = Gameshark
+Activation = EndFrame
+800E3F5C 0000
+
+[Max Popular Status Other Than Companionship]
+Type = Gameshark
+Activation = EndFrame
+800CC52E 0000
+D00335FE 1040
+800335FC 0001
+
+[Elie Popularity Overnight 100]
+Type = Gameshark
+Activation = EndFrame
+D003340E 1040
+8002240C 0001
+
+[Bonus appearance]
+Type = Gameshark
+Activation = EndFrame
+901FFB64 00000000
+
+[Center theater appearance]
+Type = Gameshark
+Activation = EndFrame
+301FF8EF 0001
+
+[Character set appearance]
+Type = Gameshark
+Activation = EndFrame
+301FFFFF 0001
+
+[Word message appearance]
+Type = Gameshark
+Activation = EndFrame
+301FF9FF 0001
+

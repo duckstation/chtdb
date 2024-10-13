@@ -1,0 +1,54 @@
+; CHTDB: ; [ Ridge Racer Revolution (USA) (1996) (Namco Hometek) {SLUS-00214} <rrrev> ]
+
+[Always Place First]
+Type = Gameshark
+Activation = EndFrame
+8007C508 0001
+
+[Course Select]
+Type = Gameshark
+Activation = EndFrame
+801DC9C8 0707
+
+[Select Car\Black Lamborghini]
+Type = Gameshark
+Activation = EndFrame
+8007C43A 000C
+
+[Select Car\Black Lamborghini Kid]
+Type = Gameshark
+Activation = EndFrame
+8007C43A 000D
+
+[Select Car\White Angel]
+Type = Gameshark
+Activation = EndFrame
+8007C43A 000E
+
+[Extra Cars 1 Works by giving you a perfect score in the Galaga game. You have to wait all 4 rounds to activate the code!!]
+Type = Gameshark
+Activation = EndFrame
+801DE318 0028
+
+[Extra Cars 2]
+Type = Gameshark
+Activation = EndFrame
+801DD208 0001
+
+[Car Stuck]
+Type = Gameshark
+Activation = EndFrame
+8007C368 761E
+8007C448 761E
+
+[Always Hear The Checkpoint Chim Noise]
+Type = Gameshark
+Activation = EndFrame
+8007C368 761E
+8007C3F8 01E6
+
+[40 FPS unlock (Might speed up game)]
+Type = Gameshark
+Activation = EndFrame
+A7063B4A 10401000
+

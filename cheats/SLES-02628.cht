@@ -1,0 +1,27 @@
+; CHTDB: ; [ Army Men: Sarge's Heroes (Germany) {SLES-02628} ]
+
+[P1 Unendlich Gesundheit]
+Type = Gameshark
+Activation = EndFrame
+D006D61A 0062
+80105A30 012C
+
+[P2 Unendlich Gesundheit]
+Type = Gameshark
+Activation = EndFrame
+D006D61A 0062
+80105B64 012C
+
+[Unendlich Zeit (Feldlager)]
+Type = Gameshark
+Activation = EndFrame
+A60DD8D4 13381111
+
+[Unendlich Munition]
+Type = Gameshark
+Activation = EndFrame
+D0075114 0002
+80075112 3C00
+D007764C 0002
+8007764A 3C00
+

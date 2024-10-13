@@ -1,0 +1,81 @@
+; CHTDB: ; [ Cubix Robots for Everyone - Race 'n Robots (USA) (2001) (The 3DO Company) {SLUS-01422} <cubixrob> ]
+
+[Have 9999 credits in story mode]
+Type = Gameshark
+Activation = EndFrame
+8009572E 270F
+
+[P1 Select Weapon (Only One!)\Speed Boost]
+Type = Gameshark
+Activation = EndFrame
+30095724 0001
+
+[P1 Select Weapon (Only One!)\Mega Horn]
+Type = Gameshark
+Activation = EndFrame
+30095724 0002
+
+[P1 Select Weapon (Only One!)\Shield]
+Type = Gameshark
+Activation = EndFrame
+30095724 0003
+
+[P1 Select Weapon (Only One!)\Missiles]
+Type = Gameshark
+Activation = EndFrame
+30095724 0004
+
+[P1 Select Weapon (Only One!)\Mines]
+Type = Gameshark
+Activation = EndFrame
+30095724 0005
+
+[P1 99 Coins Coin Race Mode]
+Type = Gameshark
+Activation = EndFrame
+8009572C 0063
+
+[99 Coins Player 2 Coin Race Mode]
+Type = Gameshark
+Activation = EndFrame
+8009579C 0063
+
+[99 Coins Player 3 Coin Race Mode]
+Type = Gameshark
+Activation = EndFrame
+8009580C 0063
+
+[99 Coins Player 4 Coin Race Mode]
+Type = Gameshark
+Activation = EndFrame
+8009587C 0063
+
+[Never Lose Pts. P1 Versus Race Mode]
+Type = Gameshark
+Activation = EndFrame
+3007EDF2 0004
+
+[Never Lose Pts. P2 Versus Race Mode]
+Type = Gameshark
+Activation = EndFrame
+3007EF7A 0004
+
+[Never Lose Pts. P3 Versus Race Mode]
+Type = Gameshark
+Activation = EndFrame
+3007F102 0004
+
+[Never Lose Pts. P4 Versus Race Mode]
+Type = Gameshark
+Activation = EndFrame
+3007F28A 0004
+
+[Unlock Picture Gallery]
+Type = Gameshark
+Activation = EndFrame
+90095740 00010001
+90095744 00010001
+90095748 00010001
+9009574C 00010001
+80095750 0001
+

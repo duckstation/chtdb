@@ -1,0 +1,23 @@
+; CHTDB: ; [ Bakusou Dekotora Densetsu: Otoko Ippiki Yume Kaidou (Japan) {SLPS-01441} ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+8008AA78 4CE0
+
+[No Damage & Max Speed]
+Type = Gameshark
+Activation = EndFrame
+800C5334 0041
+D00EC51A EF7F
+800C5344 0041
+800C6176 003A
+800C8FAA 0E9E
+D00EC51A EFDF
+8010EEAA 7F7F
+800C6176 003A
+D00EC51A EFEF
+800C6176 003A
+D00EC51A EFFF
+800C6176 003A
+

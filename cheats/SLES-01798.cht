@@ -1,0 +1,12 @@
+; CHTDB: ; [ Civilization II (Spain) {SLES-01798} ]
+
+[Infinite Gold English]
+Type = Gameshark
+Activation = EndFrame
+9011A4F0 0001869F
+
+[Infinite Gold Spanish,Egyptians and Aztecs]
+Type = Gameshark
+Activation = EndFrame
+80119A00 7530
+

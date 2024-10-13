@@ -1,0 +1,41 @@
+; CHTDB: ; [ Fear Effect 2: Retro Helix (Europe) {SLES-03386 | SLES-13386 | SLES-23386 | SLES-33386} ]
+
+[No fear]
+Type = Gameshark
+Activation = EndFrame
+80047EC2 0000
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+D003FFC0 0004
+3003FFC0 0000
+
+[Infinite Rounds]
+Type = Gameshark
+Activation = EndFrame
+D0040A8C 00F0
+30040A8C 0000
+
+[No Fear Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+30049560 0000
+
+[No fear / infinite health On (Press Select)]
+Type = Gameshark
+Activation = EndFrame
+D00862D2 FFFE
+30049560 0000
+
+[Timer frozen Computer desk]
+Type = Gameshark
+Activation = EndFrame
+D00B3B1C 0004
+300B3B1C 0000
+
+[Time Frozen Bombsearch]
+Type = Gameshark
+Activation = EndFrame
+A60B9018 FFFF0001
+

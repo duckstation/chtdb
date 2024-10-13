@@ -1,0 +1,48 @@
+; CHTDB: ; [ Colony Wars - Red Sun (USA) (2000) (Midway Home Entertainment) {SLUS-00866} <cwarsrs> ]
+
+[Enable Complete Mission Cheat]
+Type = Gameshark
+Activation = EndFrame
+30041B2D 0001
+
+[Infinite Shields]
+Type = Gameshark
+Activation = EndFrame
+8004D478 FFFF
+
+[Enable All Weapons During Battle]
+Type = Gameshark
+Activation = EndFrame
+30041B28 0001
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+D0114108 000C
+8011410A 2400
+
+[Max Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+9004261C 3B9AC9FF
+
+[Unlock All Ships]
+Type = Gameshark
+Activation = EndFrame
+30041B29 0001
+
+[Unlock All Stations]
+Type = Gameshark
+Activation = EndFrame
+30041B2A 0001
+
+[Unlock All Weapons]
+Type = Gameshark
+Activation = EndFrame
+30041B2B 0001
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+A7119970 19991333
+

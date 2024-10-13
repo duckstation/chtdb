@@ -1,0 +1,14 @@
+; CHTDB: ; [ Battle Arena Toshinden 3 (USA) (1997) (Playmates Interactive Entertainment) {SLUS-00483} <toshin3> ]
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+90120DE0 32010008
+90120DE8 14200002
+
+[Extra Characters]
+Type = Gameshark
+Activation = EndFrame
+801B27B0 0001
+801B27AA 0001
+

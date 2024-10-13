@@ -1,0 +1,34 @@
+; CHTDB: ; [ Spot Goes to Hollywood (USA) (1996) (Virgin Interactive Entertainment) {SLUS-00014} <spotgo> ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8005E2B8 0003
+80062724 0003
+800628CC 0003
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80062ADC 0009
+
+[All 5 Stars Collected]
+Type = Gameshark
+Activation = EndFrame
+8006297C 001F
+
+[99 Spots Collected]
+Type = Gameshark
+Activation = EndFrame
+300629EF 0099
+
+[Have Cool Option Open]
+Type = Gameshark
+Activation = EndFrame
+300626FC 0001
+
+[Have All Levels Open In Cool Option]
+Type = Gameshark
+Activation = EndFrame
+3004DBAA 0001
+

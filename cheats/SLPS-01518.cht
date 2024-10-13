@@ -1,0 +1,22 @@
+; CHTDB: ; [ Echo Night (Japan) {SLPS-01518} ]
+
+[Always best condition]
+Type = Gameshark
+Activation = EndFrame
+801A4628 0005
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+800A0788 03E7
+
+[Map appearance]
+Type = Gameshark
+Activation = EndFrame
+301A462E 0001
+
+[Note emergence]
+Type = Gameshark
+Activation = EndFrame
+301A462F 0001
+

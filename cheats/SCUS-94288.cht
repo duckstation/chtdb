@@ -1,0 +1,163 @@
+; CHTDB: ; [ Disney/Pixar A Bug's Life (USA, v1.0) (1998) (Sony Computer Entertainment America) {SCUS-94288} <bugslifea> ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+300A65A0 0009
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800A6594 0004
+
+[Infinite Grain]
+Type = Gameshark
+Activation = EndFrame
+300A65A1 0063
+
+[FLIK]
+Type = Gameshark
+Activation = EndFrame
+300A65A2 000F
+
+[Have All Movies Unlocked]
+Type = Gameshark
+Activation = EndFrame
+80082284 000F
+9009B878 07070707
+9009B87C 07070707
+9009B880 07070707
+9009B884 07070707
+8009B888 0707
+
+[Have All Levels Unlocked]
+Type = Gameshark
+Activation = EndFrame
+80082284 000F
+
+[Have All Enemies Killed]
+Type = Gameshark
+Activation = EndFrame
+800A658E 0000
+
+[Always Have Super Jump]
+Type = Gameshark
+Activation = EndFrame
+800A6590 0020
+
+[Select Starting Berry\Blueberry]
+Type = Gameshark
+Activation = EndFrame
+800A6596 0100
+
+[Select Starting Berry\Goldberry]
+Type = Gameshark
+Activation = EndFrame
+800A6596 0300
+
+[Select Starting Berry\Homing Berry]
+Type = Gameshark
+Activation = EndFrame
+800A6596 0200
+
+[Jump in Mid-Air]
+Type = Gameshark
+Activation = EndFrame
+A7048B96 14401000
+
+[Grab stuff from anywhere]
+Type = Gameshark
+Activation = EndFrame
+A7053C62 10402400
+A7054554 80085174
+A7054556 3C020801
+
+[1-Hit Kills]
+Description = Disable when facing Hopper + Thud
+Type = Gameshark
+Activation = EndFrame
+A70591EE 1C402400
+
+[Attract grains from anywhere]
+Type = Gameshark
+Activation = EndFrame
+A7053BFA 10402400
+A7053C1E 14402400
+
+[Attract grains from anywhere when you have the grain machine]
+Type = Gameshark
+Activation = EndFrame
+A7053BFA 10402400
+
+[Moon Jump]
+Type = Gameshark
+Activation = EndFrame
+A7048D68 00823000
+A7048D6A 86220C00
+9000C000 27BDFFE8
+9000C004 AFA80010
+9000C008 3C088009
+9000C00C 9108903B
+9000C014 00084027
+9000C018 31080040
+9000C01C 39080040
+9000C020 11000002
+9000C028 86220082
+9000C030 8FA80010
+9000C034 27BD0018
+9000C038 03E00008
+
+[Rapid Berry Throw]
+Type = Gameshark
+Activation = EndFrame
+A7049084 00863010
+A7049086 86230C00
+A7049088 000A0000
+A704908A 24020000
+9000C040 27BDFFE8
+9000C044 AFA80010
+9000C048 3C088009
+9000C04C 9108903B
+9000C054 00084027
+9000C058 31080080
+9000C05C 39080080
+9000C060 11000006
+9000C068 86230086
+9000C06C 2402000A
+9000C074 08003020
+9000C07C 27FF0008
+9000C080 8FA80010
+9000C084 27BD0018
+9000C088 03E00008
+
+[Select Jump Height\Normal]
+Type = Gameshark
+Activation = EndFrame
+80048D78 0100
+
+[Select Jump Height\2x]
+Type = Gameshark
+Activation = EndFrame
+80048D78 0080
+
+[Select Jump Height\4x]
+Type = Gameshark
+Activation = EndFrame
+80048D78 0040
+
+[Select Jump Height\10x]
+Type = Gameshark
+Activation = EndFrame
+80048D78 001A
+
+[Select Jump Height\0.5x]
+Type = Gameshark
+Activation = EndFrame
+80048D78 0200
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+A7027DC0 66664CCC
+A7027DC8 6667CCCD
+

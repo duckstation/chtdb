@@ -1,0 +1,7 @@
+; CHTDB: ; [ Favorite Dear - Junpaku no Yogenmono (Jpn) (2000) (NEC Interchannel) {SLPS-02754 (NIPS-4008)} <favodjun> ]
+
+[Infinite HP in battles]
+Type = Gameshark
+Activation = EndFrame
+800D32F4 00BE
+

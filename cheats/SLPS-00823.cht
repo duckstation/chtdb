@@ -1,0 +1,44 @@
+; CHTDB: ; [ Neorude (Jpn) (1997) (TechnoSoft) {SLPS-00823~SLPS-00824} <neorude> ]
+
+[Infinite HP Character Til]
+Type = Gameshark
+Activation = EndFrame
+901C7FE4 03E703E7
+901C9180 03E703E7
+901C9184 03E703E7
+
+[Infinite HP In Battle Til]
+Type = Gameshark
+Activation = EndFrame
+801CCFC4 03E7
+
+[LV]
+Type = Gameshark
+Activation = EndFrame
+301C917C 0063
+
+[Infinite HP Character 2 Aria]
+Type = Gameshark
+Activation = EndFrame
+80138EF4 03E7
+8019FF40 03E7
+801C8034 03E7
+901C91A0 03E703E7
+901C91A4 03E703E7
+
+[Infinite HP In Battle Aria]
+Type = Gameshark
+Activation = EndFrame
+801CD0C4 03E7
+
+[Infinite HP Character 3 Rufrain]
+Type = Gameshark
+Activation = EndFrame
+801C8084 03E7
+901C91C4 03E703E7
+
+[Infinite HP In Battle Character 3 Rufrain]
+Type = Gameshark
+Activation = EndFrame
+801CD1C4 03E7
+

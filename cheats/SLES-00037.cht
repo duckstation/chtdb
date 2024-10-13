@@ -1,0 +1,28 @@
+; CHTDB: ; [ Alone in the Dark: Jack Is Back (Europe) {SLES-00037} ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80130D40 0063
+
+[Infinite Energy 2]
+Type = Gameshark
+Activation = EndFrame
+800E47F4 0063
+
+[Infinite Energy 3]
+Type = Gameshark
+Activation = EndFrame
+8010DA5C 0063
+
+[Infinite Thompson-Ammo]
+Type = Gameshark
+Activation = EndFrame
+80130D30 0063
+8010DA4C 0063
+
+[Infinite Gun-Ammo]
+Type = Gameshark
+Activation = EndFrame
+8010DA5E 0006
+

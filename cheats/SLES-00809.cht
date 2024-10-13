@@ -1,0 +1,19 @@
+; CHTDB: ; [ N2O (Europe) {SLES-00809} ]
+
+[P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8011AB54 0003
+
+[Infinite Smartbombs]
+Type = Gameshark
+Activation = EndFrame
+3011AA12 0009
+3011C958 0009
+
+[Infinite Special weapons]
+Type = Gameshark
+Activation = EndFrame
+3011AA13 0009
+3011C885 0009
+

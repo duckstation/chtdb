@@ -1,0 +1,135 @@
+; CHTDB: ; [ Silent Bomber (Japan) {SLPS-02334} ]
+
+[Can't Be Hit]
+Type = Gameshark
+Activation = EndFrame
+800E8934 0000
+
+[Complete Target (Until Mission 5)]
+Type = Gameshark
+Activation = EndFrame
+800E9388 0013
+800E9386 000B
+
+[Max Shield]
+Type = Gameshark
+Activation = EndFrame
+800E9384 03E8
+
+[Infinite Bombs On Pick Up]
+Type = Gameshark
+Activation = EndFrame
+800E9362 0009
+800E9364 0009
+
+[SCORE MAX]
+Type = Gameshark
+Activation = EndFrame
+900E93BC 05F5E0F6
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800E557A 0020
+
+[NAPALM LIQUID MAX]
+Type = Gameshark
+Activation = EndFrame
+300E9362 0063
+
+[PARALYSIS LIQUID MAX]
+Type = Gameshark
+Activation = EndFrame
+300E9363 0063
+
+[GRAVITY LIQUID MAX]
+Type = Gameshark
+Activation = EndFrame
+300E9364 0063
+
+[E-CHIP MAX]
+Type = Gameshark
+Activation = EndFrame
+300E9365 0063
+
+[Availability of me ALL MATERIAL LIQUID & E-CHIP MAX also (natural)]
+Type = Gameshark
+Activation = EndFrame
+800E9362 6363
+800E9364 6363
+
+[E-UNIT BOMB MAX]
+Type = Gameshark
+Activation = EndFrame
+300E9366 0021
+
+[E-UNIT RANGE MAX]
+Type = Gameshark
+Activation = EndFrame
+300E9367 0021
+
+[E-UNIT SHIELD MAX]
+Type = Gameshark
+Activation = EndFrame
+300E9368 0021
+
+[Infinitw SHIELD MISSION12 Henri]
+Type = Gameshark
+Activation = EndFrame
+D00F6410 0014
+800F6412 1400
+
+[MISSION13 time limit stop]
+Type = Gameshark
+Activation = EndFrame
+D00FA4A6 2442
+800FA4A4 0000
+
+[(No meaning at all) large jump in the R2 button]
+Type = Gameshark
+Activation = EndFrame
+D00C7940 0002
+800E5210 5000
+
+[ADVANCED MODE (required LOAD DATA)]
+Type = Gameshark
+Activation = EndFrame
+800E925E 0001
+
+[VS ARENA MODE ARENA all characters (on LOAD DATA obvious)]
+Type = Gameshark
+Activation = EndFrame
+800E9260 FFFF
+
+[VS ARENA MODE None (1P) JUTAH dedicated per decision]
+Type = Gameshark
+Activation = EndFrame
+800E557A 0020
+
+[VS ARENA MODE(1P) all characters for shield continuity]
+Type = Gameshark
+Activation = EndFrame
+801EBD38 0001
+801EBD44 1000
+
+[VS ARENA MODE(1P) shield gauge MAX]
+Type = Gameshark
+Activation = EndFrame
+801EBD44 1000
+
+[VS ARENA MODENone (2P) JUTAH dedicated per decision]
+Type = Gameshark
+Activation = EndFrame
+8014C386 0020
+
+[VS ARENA MODE(2P) all characters for shield continuity]
+Type = Gameshark
+Activation = EndFrame
+801EBD74 0001
+801EBD80 1000
+
+[VS ARENA MODE(2P) shield gauge MAX]
+Type = Gameshark
+Activation = EndFrame
+801EBD80 1000
+

@@ -1,0 +1,47 @@
+; CHTDB: ; [ Viewpoint (Europe) {SLES-00123} ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801D22AE 0003
+
+[Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+801E074E 0003
+
+[Indestructible]
+Type = Gameshark
+Activation = EndFrame
+801DFC98 0002
+
+[Select Level\1]
+Type = Gameshark
+Activation = EndFrame
+A61DFF9C 00000000
+
+[Select Starting Level\2]
+Type = Gameshark
+Activation = EndFrame
+A61DFF9C 00000001
+
+[Select Starting Level\3]
+Type = Gameshark
+Activation = EndFrame
+A61DFF9C 00000002
+
+[Select Starting Level\4]
+Type = Gameshark
+Activation = EndFrame
+A61DFF9C 00000003
+
+[Select Starting Level\5]
+Type = Gameshark
+Activation = EndFrame
+A61DFF9C 00000004
+
+[Select Starting Level\6]
+Type = Gameshark
+Activation = EndFrame
+A61DFF9C 00000005
+

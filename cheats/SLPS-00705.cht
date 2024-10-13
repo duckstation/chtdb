@@ -1,0 +1,107 @@
+; CHTDB: ; [ Namco Museum Vol. 5 (Japan) {SLPS-00705} ]
+
+[Metro Cross\Master Code]
+Type = Gameshark
+Activation = EndFrame
+D0020F40 0005
+
+[Metro Cross\Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80020F46 2000
+
+[Baraduke\Master code]
+Type = Gameshark
+Activation = EndFrame
+D00513E0 00C0
+
+[Baraduke\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800513DC 0000
+
+[Baraduke\Infinite Shield]
+Type = Gameshark
+Activation = EndFrame
+8002C108 0000
+
+[Dragon Spirit\Master Code]
+Type = Gameshark
+Activation = EndFrame
+D003CA80 0010
+
+[Dragon Spirit\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80020D50 0000
+
+[Dragon Spirit\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8003CA82 9044
+
+[Dragon Spirit\Invincibility]
+Type = Gameshark
+Activation = EndFrame
+301E91C8 0001
+
+[Pacmania\Master Code]
+Type = Gameshark
+Activation = EndFrame
+D0025C34 007B
+
+[Pacmania\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80020578 0000
+
+[Pacmania\Invincibility]
+Type = Gameshark
+Activation = EndFrame
+80025C36 A060
+
+[Legend Of Valkryie\Master Code]
+Type = Gameshark
+Activation = EndFrame
+D0025544 0050
+
+[Legend Of Valkryie\P1 Max Gold]
+Type = Gameshark
+Activation = EndFrame
+8018F4C6 FFFF
+
+[Legend Of Valkryie\P2 Max Gold]
+Type = Gameshark
+Activation = EndFrame
+8018F5CA FFFF
+
+[Legend Of Valkryie\P1 Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+8018F4C4 00C0
+
+[Legend Of Valkryie\P2 Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+8018F5C8 00C0
+
+[Legend Of Valkryie\P1 Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+8018F4C2 00C0
+
+[Legend Of Valkryie\P2 Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+8018F5C6 00C0
+
+[Legend Of Valkryie\P1 Invincibility]
+Type = Gameshark
+Activation = EndFrame
+8018F4B6 0024
+
+[Legend Of Valkryie\P2 Invincibility]
+Type = Gameshark
+Activation = EndFrame
+8018F5BA 0024
+

@@ -1,0 +1,22 @@
+; CHTDB: ; [ Madden NFL 2001 (USA) (2000) (Electronic Arts) {SLUS-01241} <maddn2k1> ]
+
+[Select Home Team Score\99]
+Type = Gameshark
+Activation = EndFrame
+3006EFF0 0063
+
+[Select Away Team Score\99]
+Type = Gameshark
+Activation = EndFrame
+300710D0 0063
+
+[Select Home Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+3006EFF0 0000
+
+[Select Away Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+300710D0 0000
+

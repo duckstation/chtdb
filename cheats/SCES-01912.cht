@@ -1,0 +1,136 @@
+; CHTDB: ; [ Syphon Filter (Germany) {SCES-01912} ]
+
+[Alle Missionen AnwäHlbar]
+Type = Gameshark
+Activation = EndFrame
+A6131450 00000013
+
+[Unendlich Zeit]
+Type = Gameshark
+Activation = EndFrame
+80040AAC 0000
+
+[Langer Arm (Fun-Code)]
+Type = Gameshark
+Activation = EndFrame
+80197678 0AB3
+
+[Unendlich Munition/Waffen Nach Aufnahme]
+Type = Gameshark
+Activation = EndFrame
+8004712A 2400
+
+[Unendlich Panzerung]
+Type = Gameshark
+Activation = EndFrame
+8006955E 2400
+
+[Immun Gegen Fast Alle Explosionen/Feuer]
+Type = Gameshark
+Activation = EndFrame
+9006A920 24010000
+9006A940 10290008
+
+[Immun Gegen Fast Alle Kugeln]
+Type = Gameshark
+Activation = EndFrame
+900692E4 24010000
+90069504 14200016
+
+[Rotes Blut]
+Type = Gameshark
+Activation = EndFrame
+8004F6D0 0020
+8004F6D8 20FF
+8004F870 0020
+8004F878 20FF
+800D243C 00FF
+
+[Waffe-In-Hand-Grundcode]
+Type = Gameshark
+Activation = EndFrame
+D010C2CE 001F
+80000000 5555
+D010C2CE 008F
+80000000 0000
+
+[Kein Nachladen-Codes\9-mm-Pistole]
+Type = Gameshark
+Activation = EndFrame
+8012F89E 000F
+
+[Kein Nachladen-Codes\45Er Pistole]
+Type = Gameshark
+Activation = EndFrame
+8012F8AA 000A
+
+[Kein Nachladen-Codes\G-18 Maschinenpistole]
+Type = Gameshark
+Activation = EndFrame
+8012F8AE 0021
+
+[Kein Nachladen-Codes\Biz-2 Maschinenpistole]
+Type = Gameshark
+Activation = EndFrame
+8012F8C2 0042
+
+[Kein Nachladen-Codes\Hk-5 Maschinenpistole]
+Type = Gameshark
+Activation = EndFrame
+8012F8C6 0020
+
+[Kein Nachladen-Codes\Schrotflinte]
+Type = Gameshark
+Activation = EndFrame
+8012F8B6 0019
+
+[Kein Nachladen-Codes\Kampfgewehr]
+Type = Gameshark
+Activation = EndFrame
+8012F8B2 001E
+
+[Kein Nachladen-Codes\Pk-102 Sturmgewehr]
+Type = Gameshark
+Activation = EndFrame
+8012F8BA 001E
+
+[Kein Nachladen-Codes\M-16 Sturmgewehr]
+Type = Gameshark
+Activation = EndFrame
+8012F8BE 001E
+
+[Kein Nachladen-Codes\K3G4 Sturmgewehr]
+Type = Gameshark
+Activation = EndFrame
+8012F8DE 0014
+
+[Kein Nachladen-Codes\ScharfschüTzengewehr]
+Type = Gameshark
+Activation = EndFrame
+8012F8CE 000A
+
+[Kein Nachladen-Codes\Nachtsichtgewehr]
+Type = Gameshark
+Activation = EndFrame
+8012F8CA 000A
+
+[Kein Nachladen-Codes\M-79 Granatwerfer]
+Type = Gameshark
+Activation = EndFrame
+8012F8DA 000A
+
+[Kein Nachladen-Codes\Unendlich Granaten]
+Type = Gameshark
+Activation = EndFrame
+8012F8E6 000A
+
+[Kein Nachladen-Codes\Unendlich Gasgranaten]
+Type = Gameshark
+Activation = EndFrame
+8012F8EA 000A
+
+[Kein Nachladen-Codes\Unendlich C4]
+Type = Gameshark
+Activation = EndFrame
+8012F8FA 0001
+

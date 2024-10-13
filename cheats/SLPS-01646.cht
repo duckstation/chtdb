@@ -1,0 +1,7 @@
+; CHTDB: ; [ Parlor! Pro 4 (Japan) {SLPS-01646} ]
+
+[Have 999999 money in the story mode (Always win)]
+Type = Gameshark
+Activation = EndFrame
+90083EE8 000F423F
+

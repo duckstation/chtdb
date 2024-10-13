@@ -1,0 +1,181 @@
+; CHTDB: ; [ Persona 2: Tsumi: Innocent Sin (Japan) {SLPS-02100} ]
+
+[Character 1 in battle 999 HP]
+Type = Gameshark
+Activation = EndFrame
+801492B2 03E7
+
+[Character 1 in battle 999 SP]
+Type = Gameshark
+Activation = EndFrame
+801492B8 03E7
+
+[Character 2 in battle 999 HP]
+Type = Gameshark
+Activation = EndFrame
+80149362 03E7
+
+[Character 2 in battle 999 SP]
+Type = Gameshark
+Activation = EndFrame
+80149368 03E7
+
+[Character 3 in battle 999 HP]
+Type = Gameshark
+Activation = EndFrame
+80149412 03E7
+
+[Character 3 in battle 999 SP]
+Type = Gameshark
+Activation = EndFrame
+80149418 03E7
+
+[Character 4 in battle 999 HP]
+Type = Gameshark
+Activation = EndFrame
+801494C2 03E7
+
+[Character 4 in battle 999 SP]
+Type = Gameshark
+Activation = EndFrame
+801494C8 03E7
+
+[Character 5 in battle 999 HP]
+Type = Gameshark
+Activation = EndFrame
+80149572 03E7
+
+[Character 5 in battle 999 SP]
+Type = Gameshark
+Activation = EndFrame
+80149578 03E7
+
+[Max money]
+Type = Gameshark
+Activation = EndFrame
+9007F428 05F5E0FF
+
+[999 all Tarot cards, except fool.]
+Type = Gameshark
+Activation = EndFrame
+50001502 0000
+8007F7B6 03E7
+8007F7E2 03E7
+
+[All material/incense/spell cards]
+Type = Gameshark
+Activation = EndFrame
+50006B02 0000
+3007F7E2 0063
+
+[Analyze all persona]
+Type = Gameshark
+Activation = EndFrame
+50000902 0000
+8007F9D0 FFFF
+3007F9E2 00FF
+
+[Analyze devil all]
+Type = Gameshark
+Activation = EndFrame
+30080949 00FF
+50003E02 0000
+8008094A FFFF
+300809D6 00FF
+
+[HP all recovery When you open the menu screen]
+Type = Gameshark
+Activation = EndFrame
+D009DF68 39B8
+8009DF6A 39BA
+
+[SP full recovery When you open the menu screen]
+Type = Gameshark
+Activation = EndFrame
+A609DFBC 39BC39BE
+
+[Level 99 in combat once]
+Type = Gameshark
+Activation = EndFrame
+A60D248E 14401040
+
+[Analyze all persona (NON PAR 2)]
+Type = Gameshark
+Activation = EndFrame
+9007F9D0 FFFFFFFF
+9007F9D4 FFFFFFFF
+9007F9D8 FFFFFFFF
+9007F9DC FFFFFFFF
+8007F9E0 FFFF
+3007F9E2 00FF
+
+[Analyze devil all (Non Pae 2)]
+Type = Gameshark
+Activation = EndFrame
+30080949 00FF
+8008094A FFFF
+9008094C FFFFFFFF
+90080950 FFFFFFFF
+90080954 FFFFFFFF
+90080958 FFFFFFFF
+9008095C FFFFFFFF
+90080960 FFFFFFFF
+90080964 FFFFFFFF
+90080968 FFFFFFFF
+9008096C FFFFFFFF
+90080970 FFFFFFFF
+90080974 FFFFFFFF
+90080978 FFFFFFFF
+9008097C FFFFFFFF
+90080980 FFFFFFFF
+90080984 FFFFFFFF
+90080988 FFFFFFFF
+9008098C FFFFFFFF
+90080990 FFFFFFFF
+90080994 FFFFFFFF
+90080998 FFFFFFFF
+9008099C FFFFFFFF
+900809A0 FFFFFFFF
+900809A4 FFFFFFFF
+900809A8 FFFFFFFF
+900809AC FFFFFFFF
+900809B0 FFFFFFFF
+900809B4 FFFFFFFF
+900809B8 FFFFFFFF
+900809BC FFFFFFFF
+900809C0 FFFFFFFF
+900809C4 FFFFFFFF
+900809C8 FFFFFFFF
+900809CC FFFFFFFF
+900809D0 FFFFFFFF
+800809D4 FFFF
+300809D6 00FF
+
+[No Random Battles (SELECT + R2 button not appear and SELECT + L2 button appear enemies)]
+Type = Gameshark
+Activation = EndFrame
+D007B2B8 0101
+8001765C 003A
+D007B2B8 0201
+8001765C 0001
+
+[Debug DEBUG, DBG magic added to the battle menu You can not see the menu Magic DBG is disabled]
+Type = Gameshark
+Activation = EndFrame
+A6102900 00040006
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A7087A68 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A7087A68 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A7087A68 10000400
+

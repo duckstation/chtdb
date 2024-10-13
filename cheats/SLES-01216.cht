@@ -1,0 +1,52 @@
+; CHTDB: ; [ CBZ: CyBall Zone (Germany) {SLES-01216} ]
+
+[P1 Unendlich Lasergewehre]
+Type = Gameshark
+Activation = EndFrame
+800B01C0 000F
+
+[P1 Unendlich Blendgranaten]
+Type = Gameshark
+Activation = EndFrame
+800B01C4 000F
+
+[P1 Unendlich TitaniumsäGen]
+Type = Gameshark
+Activation = EndFrame
+800B01C8 000F
+
+[P1 Anzahl Tore (?00-FF)]
+Type = Gameshark
+Activation = EndFrame
+800B0168 00FF
+
+[P2 Unendlich Lasergewehre]
+Type = Gameshark
+Activation = EndFrame
+800B01CC 000F
+
+[P2 Unendlich Blendgranaten]
+Type = Gameshark
+Activation = EndFrame
+800B01D0 000F
+
+[P2 Unendlich TitaniumsäGen]
+Type = Gameshark
+Activation = EndFrame
+800B01D4 000F
+
+[P2 Anzahl Tore ?00-FF]
+Type = Gameshark
+Activation = EndFrame
+800B016C 00??
+
+[Max Zeit]
+Type = Gameshark
+Activation = EndFrame
+800B0170 FFFF
+
+[Spielviertel-Modifizierer (?0-3)]
+Type = Gameshark
+Activation = EndFrame
+800B0174 0003
+

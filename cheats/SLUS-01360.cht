@@ -1,0 +1,132 @@
+; CHTDB: ; [ Final Fantasy Chronicles - Final Fantasy IV (USA, v1.0) (2001) (Square Electronic Arts) {SLUS-01360} <ffant4a> ]
+
+[Infinite HP character 1]
+Type = Gameshark
+Activation = EndFrame
+800D4408 E703
+
+[Char1-Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+300D1007 000F
+300D1008 0027
+
+[Char1-Max HP]
+Type = Gameshark
+Activation = EndFrame
+300D1009 000F
+300D100A 0027
+
+[Char1-Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+300D100B 000F
+300D100C 0027
+
+[Char1-Max MP]
+Type = Gameshark
+Activation = EndFrame
+300D100D 000F
+300D100E 0027
+
+[Char2-Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+300D1047 000F
+300D1048 0027
+
+[Char2-Max HP]
+Type = Gameshark
+Activation = EndFrame
+300D1049 000F
+300D104A 0027
+
+[Char2-Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+300D104B 000F
+300D104C 0027
+
+[Char2-Max MP]
+Type = Gameshark
+Activation = EndFrame
+300D104D 000F
+300D104E 0027
+
+[Char3-Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+300D1087 000F
+300D1088 0027
+
+[Char3-Max HP]
+Type = Gameshark
+Activation = EndFrame
+300D1089 000F
+300D108A 0027
+
+[Char3-Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+300D108B 000F
+300D108C 0027
+
+[Char3-Max MP]
+Type = Gameshark
+Activation = EndFrame
+300D108D 000F
+300D108E 0027
+
+[Char4-Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+300D10C7 000F
+300D10C8 0027
+
+[Char4-Max HP]
+Type = Gameshark
+Activation = EndFrame
+300D10C9 000F
+300D10CA 0027
+
+[Char4-Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+300D10CB 000F
+300D10CC 0027
+
+[Char4-Max MP]
+Type = Gameshark
+Activation = EndFrame
+300D10CD 000F
+300D10CE 0027
+
+[Char5-Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+300D1107 000F
+300D1108 0027
+
+[Char5-Max HP]
+Type = Gameshark
+Activation = EndFrame
+300D1109 000F
+300D110A 0027
+
+[Char5-Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+300D110B 000F
+300D110C 0027
+
+[Char5-Max MP]
+Type = Gameshark
+Activation = EndFrame
+300D110D 000F
+300D110E 0027
+
+[No Random Battles]
+Type = Gameshark
+Activation = EndFrame
+800D0686 0231
+

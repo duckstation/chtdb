@@ -1,0 +1,12 @@
+; CHTDB: ; [ Ikuzawa Touru Kanshuu - Meisha Retsuden - Greatest 70's (Jpn) (1997) (Epoch) {SLPS-01153} <meiretsu> ]
+
+[Maximum Speed]
+Type = Gameshark
+Activation = EndFrame
+80138220 21CC
+
+[Money]
+Type = Gameshark
+Activation = EndFrame
+901164AC FFFFFFFF
+

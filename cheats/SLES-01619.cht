@@ -1,0 +1,53 @@
+; CHTDB: ; [ Duke Nukem: Time to Kill (France) {SLES-01619} ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800D79BA 4DE0
+
+[Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+800D7BBC 1120
+
+[Infinite Jet Pac]
+Type = Gameshark
+Activation = EndFrame
+D00D7CE0 0000
+900D7CE0 77770001
+
+[Have Biomask]
+Type = Gameshark
+Activation = EndFrame
+800D7CE4 0001
+
+[Infini Biomask]
+Type = Gameshark
+Activation = EndFrame
+800D7CE6 7FFF
+
+[Have Medikits]
+Type = Gameshark
+Activation = EndFrame
+800D7CF0 0001
+
+[Infini Medikits]
+Type = Gameshark
+Activation = EndFrame
+800D7CF2 7FFF
+
+[Have Goggle]
+Type = Gameshark
+Activation = EndFrame
+800D7CE8 0001
+
+[Infini Goggle]
+Type = Gameshark
+Activation = EndFrame
+800D7CEA 7FFF
+
+[Have A Transport Room Id]
+Type = Gameshark
+Activation = EndFrame
+800D7CF8 0001
+

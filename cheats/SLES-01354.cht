@@ -1,0 +1,48 @@
+; CHTDB: ; [ No One Can Stop Mr. Domino (Europe) {SLES-01354} ]
+
+[Infinite Continues]
+Type = Gameshark
+Activation = EndFrame
+800B65D4 0005
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800B277C 096C
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8008C62C 0015
+800B70DE 7BDE
+
+[Select Perm Level\Phat Tony's Casino]
+Type = Gameshark
+Activation = EndFrame
+800B27C0 0001
+
+[Select Perm Level\Shop Til' You Drop]
+Type = Gameshark
+Activation = EndFrame
+800B27C0 0002
+
+[Select Perm Level\Grandpa's In The House]
+Type = Gameshark
+Activation = EndFrame
+800B27C0 0003
+
+[Select Perm Level\Tripping In The Park]
+Type = Gameshark
+Activation = EndFrame
+800B27C0 0004
+
+[Select Perm Level\Fun Park Massive]
+Type = Gameshark
+Activation = EndFrame
+800B27C0 0005
+
+[Select Perm Level\No One Can Stop Mr.Domino]
+Type = Gameshark
+Activation = EndFrame
+800B27C0 0006
+

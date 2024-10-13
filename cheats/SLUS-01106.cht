@@ -1,0 +1,60 @@
+; CHTDB: ; [ Walt Disney World Quest - Magical Racing Tour (USA) (2000) (Eidos Interactive) {SLUS-01106} <magracet> ]
+
+[Start On Last Lap/Always First]
+Type = Gameshark
+Activation = EndFrame
+A60912F4 00000003
+
+[Stop Timer]
+Type = Gameshark
+Activation = EndFrame
+8008D1F4 0000
+
+[Max Lucky Fairies]
+Type = Gameshark
+Activation = EndFrame
+80083278 0008
+
+[Infinite Gold Speed Coins (On Pickup)]
+Type = Gameshark
+Activation = EndFrame
+80064CD6 2400
+
+[Have Max Coins]
+Type = Gameshark
+Activation = EndFrame
+80064D10 001E
+
+[Have Max Trophies]
+Type = Gameshark
+Activation = EndFrame
+9005F9E4 24150008
+
+[Adventure Mode\Unlock All Levels]
+Type = Gameshark
+Activation = EndFrame
+8008344C 1FBF
+
+[Adventure Mode\Unlock Everything]
+Type = Gameshark
+Activation = EndFrame
+50000D20 0000
+80083450 0303
+50000D20 0000
+80083452 0800
+
+[Adventure Mode\Infinite Gold Speed Coins]
+Type = Gameshark
+Activation = EndFrame
+80083270 FFFF
+
+[Adventure Mode\Infinite Lucky Fairies]
+Type = Gameshark
+Activation = EndFrame
+80083278 FFFF
+
+[Adventure Mode\Trophy Collection Challenge Max]
+Type = Gameshark
+Activation = EndFrame
+80083270 000F
+

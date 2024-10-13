@@ -1,0 +1,8 @@
+; CHTDB: ; [ Ground Stroke: Advanced Tennis Game (Japan) {SLPS-00088} ]
+
+[Computer Player Scores Zero]
+Type = Gameshark
+Activation = EndFrame
+8009A520 0000
+8009CEF8 0000
+

@@ -1,0 +1,38 @@
+; CHTDB: ; [ Macross Digital Mission VF-X (Japan) {SLPS-00386} ]
+
+[Infinity Hp]
+Type = Gameshark
+Activation = EndFrame
+8013045C 05B0
+
+[Infinity Sp]
+Type = Gameshark
+Activation = EndFrame
+8009BDDC 0010
+
+[Infinity Missiles]
+Type = Gameshark
+Activation = EndFrame
+8017E308 0144
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+80017E2E 1000
+
+[Airframe select]
+Type = Gameshark
+Activation = EndFrame
+D009C040 0090
+80130122 0000
+D009C040 0030
+80130122 0001
+D009C040 0028
+80130122 0002
+D009C040 0022
+80130122 0003
+D009C040 0024
+80130122 0004
+D009C040 0021
+80130122 0005
+

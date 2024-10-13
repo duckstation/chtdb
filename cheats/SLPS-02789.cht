@@ -1,0 +1,57 @@
+; CHTDB: ; [ Slap Happy Rhythm Busters (Jpn) (2000) (ASK) {SLPS-02789} <slaphapp> ]
+
+[All Characters]
+Type = Gameshark
+Activation = EndFrame
+50000C02 0000
+8007A1A0 FFFF
+
+[Increase Time - Press Select]
+Type = Gameshark
+Activation = EndFrame
+D0088D72 FFFE
+8008501A 0063
+
+[P2 Can't Fight]
+Type = Gameshark
+Activation = EndFrame
+80085022 0001
+
+[Always Perfect In Dj Practice]
+Type = Gameshark
+Activation = EndFrame
+8008416A 0063
+80084142 0000
+8008414A 0000
+80084146 0000
+80084168 0000
+
+[Completed All Dj Practice - This code will also unlock all comics. Go to option menu.]
+Type = Gameshark
+Activation = EndFrame
+50001502 0000
+8007A214 0202
+
+[Unlock All Extras]
+Type = Gameshark
+Activation = EndFrame
+50000C02 0000
+8007A1A0 FFFF
+50001502 0000
+8007A214 0202
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A7200464 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A7200464 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A7200464 10000400
+

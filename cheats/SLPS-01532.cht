@@ -1,0 +1,37 @@
+; CHTDB: ; [ Hana to Ryuu (Japan) {SLPS-01532} ]
+
+[P1 have 99999 points in mahjong game]
+Type = Gameshark
+Activation = EndFrame
+900C487C 0001869F
+
+[Opponent 1 has always 0 points]
+Type = Gameshark
+Activation = EndFrame
+800C4878 0000
+
+[Opponent 2 has always 0 points]
+Type = Gameshark
+Activation = EndFrame
+800C4874 0000
+
+[Opponent 3 has always 0 points]
+Type = Gameshark
+Activation = EndFrame
+800C4870 0000
+
+[Have 9999999 money in story mode]
+Type = Gameshark
+Activation = EndFrame
+900B2F2C 0098967F
+
+[Player has 99 points in hanafuda game]
+Type = Gameshark
+Activation = EndFrame
+800C8088 0063
+
+[Opponent has 0 points in hanafuda game]
+Type = Gameshark
+Activation = EndFrame
+800C8110 0000
+

@@ -1,0 +1,98 @@
+; CHTDB: ; [ Tomb Raider: La Revelation Finale (France) {SLES-02239} ]
+
+[Vie infinie Angkor Vat]
+Type = Gameshark
+Activation = EndFrame
+801BB5E6 03E8
+
+[Vie infinie Le Défi de L'Iris]
+Type = Gameshark
+Activation = EndFrame
+801C63A2 03E8
+
+[Vie infinie Le Tombeau de Seith]
+Type = Gameshark
+Activation = EndFrame
+801C9A82 03E8
+
+[Vie infinie Les Chambres Sepulturales]
+Type = Gameshark
+Activation = EndFrame
+801C31FA 03E8
+
+[Vie infinie La Vallée des Rois]
+Type = Gameshark
+Activation = EndFrame
+801B5264 03E8
+
+[Vie infinie KV5]
+Type = Gameshark
+Activation = EndFrame
+801C25FE 03E8
+
+[Vie infinie Le Temple de Karnac]
+Type = Gameshark
+Activation = EndFrame
+801D24B6 03E8
+
+[Vie infinie La Monumentale Salle Hypostyle]
+Type = Gameshark
+Activation = EndFrame
+801CF066 03E8
+
+[Vie infinie Le Lac Sacré]
+Type = Gameshark
+Activation = EndFrame
+801B3742 03E8
+
+[Run infini]
+Type = Gameshark
+Activation = EndFrame
+800A7D18 0078
+
+[Oxygène infini]
+Type = Gameshark
+Activation = EndFrame
+800AB2CE 0708
+
+[Flares infinis]
+Type = Gameshark
+Activation = EndFrame
+800AB400 000F
+
+[Flares infinis (alternate)]
+Type = Gameshark
+Activation = EndFrame
+D00AA120 1400
+800AB2C0 0007
+
+[Small Medikit infinis]
+Type = Gameshark
+Activation = EndFrame
+800AB3FC FFFF
+
+[Big Medikit infinis]
+Type = Gameshark
+Activation = EndFrame
+800AB3FE FFFF
+
+[Munitions infinies]
+Type = Gameshark
+Activation = EndFrame
+900AB400 FFFFFFFF
+900AB404 FFFFFFFF
+900AB408 FFFFFFFF
+900AB40c FFFFFFFF
+900AB410 FFFFFFFF
+900AB414 FFFFFFFF
+
+[Tous les secrets]
+Type = Gameshark
+Activation = EndFrame
+800B23D6 0046
+
+[Avoir les flingues avec Lara jeune]
+Type = Gameshark
+Activation = EndFrame
+800AB2BE 0001
+

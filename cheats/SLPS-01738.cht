@@ -1,0 +1,34 @@
+; CHTDB: ; [ Marby Baby Story (Japan) {SLPS-01738} ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800562C8 000A
+
+[Infinite Bottoles]
+Type = Gameshark
+Activation = EndFrame
+80055FC0 000A
+
+[Infinite Bombs]
+Type = Gameshark
+Activation = EndFrame
+80055FBC 000A
+
+[Infinite Coins]
+Type = Gameshark
+Activation = EndFrame
+80055FC8 000A
+
+[Score Modifier]
+Description = You will need to manually edit '01' (the last 2 chars) in the code line as required
+Type = Gameshark
+Activation = EndFrame
+80056064 0001
+
+[Walk Through Enemies (Press L1 + L2)]
+Type = Gameshark
+Activation = EndFrame
+D00562D0 0005
+80056078 0001
+

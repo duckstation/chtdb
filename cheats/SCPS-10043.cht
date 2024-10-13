@@ -1,0 +1,95 @@
+; CHTDB: ; [ Koukaku Kidoutai: Ghost in the Shell (Japan) {SCPS-10043} ]
+
+[Mission 1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80120258 00C8
+
+[Mission 2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8011F390 00C8
+
+[Mission 3 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80120C30 00C8
+
+[Mission 3 Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80120C24 0DF7
+
+[Mission 4 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801227A4 00C8
+
+[Mission 4 Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80122798 0DF7
+
+[Mission 5 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8011FD4C 00C8
+
+[Mission 6 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801276E4 00C8
+
+[Mission 6 Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+801276D8 0DF7
+
+[Mission 7 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80125D04 00C8
+
+[Mission 8 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801204A8 00C8
+
+[Mission 9 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801253E4 00C8
+
+[Mission 9 Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+801253D8 0DF7
+
+[Mission 10 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80125084 00C8
+
+[Mission 11 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80122F84 00C8
+
+[Mission 12 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8012BD50 00C8
+
+[MOVIE REPLAY fully open]
+Type = Gameshark
+Activation = EndFrame
+50000802 0000
+800140A4 0101
+300140B4 0001
+
+[All selection stage (L1 + L2)]
+Type = Gameshark
+Activation = EndFrame
+D003E356 FAFF
+300140B8 000D
+

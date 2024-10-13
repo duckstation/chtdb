@@ -1,0 +1,149 @@
+; CHTDB: ; [ To Heart (Jpn) (1999) (Aqua Plus) {SLPS-01919~SLPS-01920} <toheart> ]
+
+[All Album of Memories CG Open]
+Type = Gameshark
+Activation = EndFrame
+301E3694 0096
+
+[Select all possible bonus]
+Type = Gameshark
+Activation = EndFrame
+30077A72 0001
+30077A78 00FF
+
+[Mini game Heart by Heart 1P Invincibility Alt]
+Type = Gameshark
+Activation = EndFrame
+301EBB92 0005
+300C7E9D 000E
+
+[Mini game Heart by Heart 1P Invincibility]
+Type = Gameshark
+Activation = EndFrame
+300C7E9D 000E
+
+[Mini game Heart by Heart 2P Invincibility]
+Type = Gameshark
+Activation = EndFrame
+300C8159 000E
+
+[Mini game Heart by Heart Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+301EBBA2 0064
+
+[Mini game Heart by Heart Infinite Credit]
+Type = Gameshark
+Activation = EndFrame
+301EBB96 00FF
+
+[Mini game Heart by Heart All characters available]
+Type = Gameshark
+Activation = EndFrame
+301EBB95 0007
+
+[Mini-games princess witch Infinite People]
+Type = Gameshark
+Activation = EndFrame
+300E8752 0008
+
+[Mini-games princess witch Infinite Bomb]
+Type = Gameshark
+Activation = EndFrame
+301114D6 0008
+
+[Mini-games princess witch Shoot red level MAX]
+Type = Gameshark
+Activation = EndFrame
+300D479C 0004
+
+[Mini-games princess witch Shoot blue level MAX]
+Type = Gameshark
+Activation = EndFrame
+300D479E 0004
+
+[Mini-games princess witch Shoot green level MAX]
+Type = Gameshark
+Activation = EndFrame
+300D47A0 0004
+
+[Mini-games princess witch Invincibility]
+Type = Gameshark
+Activation = EndFrame
+801114E6 00FF
+
+[Mini-games Water Survival Infinite Life]
+Type = Gameshark
+Activation = EndFrame
+301DEB9B 0004
+
+[Mini-games O,Triangl , X , Square All characters available]
+Type = Gameshark
+Activation = EndFrame
+801C8490 FFFF
+
+[Lighting]
+Type = Gameshark
+Activation = EndFrame
+301E3695 0018
+
+[Seri Shang]
+Type = Gameshark
+Activation = EndFrame
+301E3696 0011
+
+[Tomoko]
+Type = Gameshark
+Activation = EndFrame
+301E3697 000D
+
+[Shiho]
+Type = Gameshark
+Activation = EndFrame
+301E3698 0017
+
+[Aoi]
+Type = Gameshark
+Activation = EndFrame
+301E3699 000E
+
+[Multi]
+Type = Gameshark
+Activation = EndFrame
+301E369A 0010
+
+[Kotone]
+Type = Gameshark
+Activation = EndFrame
+301E369B 000B
+
+[Remyi]
+Type = Gameshark
+Activation = EndFrame
+301E369C 000C
+
+[Rio]
+Type = Gameshark
+Activation = EndFrame
+301E369D 0009
+
+[Kaoru Aya]
+Type = Gameshark
+Activation = EndFrame
+301E369E 0007
+
+[Other]
+Type = Gameshark
+Activation = EndFrame
+301E369F 0004
+
+[CG achievement rate All 100%]
+Type = Gameshark
+Activation = EndFrame
+901E36B0 FBFFFFFC
+901E36B4 FBFFEFFF
+901E36B8 FFFBFFFF
+901E36BC BFFBFFFD
+901E36C0 DFDFF7FF
+301E36C4 0003
+

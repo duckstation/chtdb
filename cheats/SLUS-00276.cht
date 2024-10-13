@@ -1,0 +1,12 @@
+; CHTDB: ; [ Need for Speed II (USA) (1997) (Electronic Arts) {SLUS-00276} <nfs2> ]
+
+[Super Engine]
+Type = Gameshark
+Activation = EndFrame
+80035B80 0001
+
+[Extra Car And Track]
+Type = Gameshark
+Activation = EndFrame
+800E292A 0803
+

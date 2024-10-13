@@ -1,0 +1,28 @@
+; CHTDB: ; [ Dolphin's Dream (Jpn) (1998) (Konami) {SLPM-86122 (VX071-J1)} <dolphdrm> ]
+
+[Max HP]
+Type = Gameshark
+Activation = EndFrame
+800C064A 0384
+
+[Max LP]
+Type = Gameshark
+Activation = EndFrame
+900F83A8 0098967F
+
+[Max Oxygen]
+Type = Gameshark
+Activation = EndFrame
+800C0644 1C20
+
+[Max Weapon]
+Type = Gameshark
+Activation = EndFrame
+800C0654 03E7
+
+[Treasure]
+Type = Gameshark
+Activation = EndFrame
+50000A02 0000
+800C05D0 FFFF
+

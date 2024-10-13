@@ -1,0 +1,61 @@
+; CHTDB: ; [ Syphon Filter 2 (Europe) {SCES-02285 | SCES-12285} ]
+
+[All Cheats And Multiplayer Stuff]
+Type = Gameshark
+Activation = EndFrame
+9011F770 FFFFFFFF
+
+[All Weapons And Items 1]
+Type = Gameshark
+Activation = EndFrame
+8012A7E4 FFFF
+
+[All Weapons And Items 2]
+Type = Gameshark
+Activation = EndFrame
+8012A7E6 FFFF
+
+[All Levels Selectable]
+Type = Gameshark
+Activation = EndFrame
+8014B1BC 0015
+
+[Expert Mode]
+Type = Gameshark
+Activation = EndFrame
+8011F704 0001
+
+[Logan immune (against explosions, head shots, vehicle hits & fire).You can still die from a fall.]
+Type = Gameshark
+Activation = EndFrame
+80089F8E 2400
+
+[Infinite Armour all levels]
+Type = Gameshark
+Activation = EndFrame
+A6089F38 00060000
+
+[Sudden Death (Hero Only)]
+Type = Gameshark
+Activation = EndFrame
+8011F760 0001
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+8012A7EE FFFF
+8012A7F6 FFFF
+8012A7FE FFFF
+8012A806 FFFF
+8012A80E FFFF
+8012A816 FFFF
+8012A81E FFFF
+8012A826 FFFF
+8012A7EA FFFF
+8012A7F2 FFFF
+8012A7FA FFFF
+8012A812 FFFF
+8012A81A FFFF
+8012A822 FFFF
+8012A82A FFFF
+

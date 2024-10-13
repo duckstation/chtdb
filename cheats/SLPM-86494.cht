@@ -1,0 +1,103 @@
+; CHTDB: ; [ Elder Gate (Jpn) (2000) (Konami) {SLPM-86494 (VX160-J1)} <eldrgate> ]
+
+[Time 00.00.00]
+Type = Gameshark
+Activation = EndFrame
+80082204 0000
+
+[Gp 99999]
+Type = Gameshark
+Activation = EndFrame
+90082200 00019F86
+
+[Exp Next 1]
+Type = Gameshark
+Activation = EndFrame
+8008324C 0001
+
+[Infinite + Max HP 1st character]
+Type = Gameshark
+Activation = EndFrame
+80083250 03E7
+80083254 03E7
+
+[Infinite + Max MP 1st character]
+Type = Gameshark
+Activation = EndFrame
+80083258 03E7
+8008325C 03E7
+
+[Level 99 1st character]
+Type = Gameshark
+Activation = EndFrame
+80083248 0063
+
+[Att 999 1st character]
+Type = Gameshark
+Activation = EndFrame
+80083278 03E7
+
+[Def 999 1st character]
+Type = Gameshark
+Activation = EndFrame
+8008327A 03E7
+
+[Infinite HP 2nd character]
+Type = Gameshark
+Activation = EndFrame
+80083410 03E7
+80083414 03E7
+
+[Infinite MP 2nd character]
+Type = Gameshark
+Activation = EndFrame
+80083418 03E7
+8008341C 03E7
+
+[Level 99 2nd character]
+Type = Gameshark
+Activation = EndFrame
+80083408 0063
+
+[Infinite HP 3rd character (girl)]
+Type = Gameshark
+Activation = EndFrame
+80083330 03E7
+80083334 03E7
+
+[Infinite MP 3rd character (girl)]
+Type = Gameshark
+Activation = EndFrame
+80083338 03E7
+8008333C 03E7
+
+[Global LV 99]
+Type = Gameshark
+Activation = EndFrame
+300828EC 0063
+
+[No Random Battles]
+Type = Gameshark
+Activation = EndFrame
+80082980 0000
+
+[Save Anywhere]
+Type = Gameshark
+Activation = EndFrame
+300861DC 0001
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A708D5B8 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A708D5B8 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A708D5B8 10000400
+

@@ -1,0 +1,67 @@
+; CHTDB: ; [ Susume! Taisen Puzzle-dama (Japan) {SLPS-00255} ]
+
+[P1 Max Score]
+Type = Gameshark
+Activation = EndFrame
+900BB200 05F5E0FF
+
+[P1 Send No Kougekidamas]
+Type = Gameshark
+Activation = EndFrame
+300BB508 0000
+
+[P2 Send No Kougekidamas]
+Type = Gameshark
+Activation = EndFrame
+300BB509 0000
+
+[P1 Send Max Kougekidamas]
+Type = Gameshark
+Activation = EndFrame
+300BB508 00FF
+
+[P2 Send Max Kougekidamas]
+Type = Gameshark
+Activation = EndFrame
+300BB509 00FF
+
+[P1 Select Character\Chen]
+Type = Gameshark
+Activation = EndFrame
+300BB1D0 000B
+
+[P2 Select Character\Chen]
+Type = Gameshark
+Activation = EndFrame
+300BB1D2 000B
+
+[P1 Select Character\Hattari]
+Type = Gameshark
+Activation = EndFrame
+300BB1D0 000E
+
+[P2 Select Character\Hattari]
+Type = Gameshark
+Activation = EndFrame
+300BB1D2 000E
+
+[P1 Select Character\Ichiba]
+Type = Gameshark
+Activation = EndFrame
+300BB1D0 000C
+
+[P2 Select Character\Ichiba]
+Type = Gameshark
+Activation = EndFrame
+300BB1D2 000C
+
+[P1 Select Character\Okugata]
+Type = Gameshark
+Activation = EndFrame
+300BB1D0 000D
+
+[P2 Select Character\Okugata]
+Type = Gameshark
+Activation = EndFrame
+300BB1D2 000D
+

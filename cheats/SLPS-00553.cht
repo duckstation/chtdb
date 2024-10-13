@@ -1,0 +1,17 @@
+; CHTDB: ; [ Super Robot Shooting (Japan) (Genteiban) {SLPS-00553} ]
+
+[Infinite Bomb]
+Type = Gameshark
+Activation = EndFrame
+8019B9F4 0003
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+8019BC50 003E
+
+[Infinite Extra]
+Type = Gameshark
+Activation = EndFrame
+8019B858 2B00
+

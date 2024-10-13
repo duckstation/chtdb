@@ -1,0 +1,70 @@
+; CHTDB: ; [ Lagnacure (Jpn) (1997) (Sony Music Entertainment) {SLPS-01009} <lagnacur> ]
+
+[Infinite Energy Character 1 (Main Character)]
+Type = Gameshark
+Activation = EndFrame
+800E9178 03E7
+8015DC21 03E7
+
+[Infinite Energy Character 2]
+Type = Gameshark
+Activation = EndFrame
+800E9174 03E7
+8015DE2D 03E7
+
+[Infinite Energy Character 3 (Girl)]
+Type = Gameshark
+Activation = EndFrame
+800E916C 03E7
+8015DE2D 03E7
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+801589A6 0F00
+
+[Invincibility in battle]
+Type = Gameshark
+Activation = EndFrame
+800E916C 03E7
+800E9170 03E7
+800E9174 03E7
+800E9178 03E7
+800E9180 03E7
+800E9184 03E7
+800E9188 03E7
+800E918C 03E7
+
+[No random battles]
+Type = Gameshark
+Activation = EndFrame
+800378E4 0000
+
+[None Encounter]
+Type = Gameshark
+Activation = EndFrame
+80142B40 0100
+
+[Rapid escalation of the hero and companion]
+Type = Gameshark
+Activation = EndFrame
+8015DC1E 0FFF
+8015DE2A 0FFF
+8015E036 0FFF
+8015E242 0FFF
+
+[Companion to learn the magic of hero and all]
+Type = Gameshark
+Activation = EndFrame
+8015DC94 FFFF
+8015DEA0 FFFF
+8015E0AC FFFF
+8015E2B8 FFFF
+
+[The instant death between both friends and enemies as you hold down the R2]
+Type = Gameshark
+Activation = EndFrame
+80054D98 000F
+D010D654 0002
+80054D98 0001
+

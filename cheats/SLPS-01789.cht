@@ -1,0 +1,23 @@
+; CHTDB: ; [ Tower Dream 2 (Japan) {SLPS-01789} ]
+
+[Infinite Money 1st Place]
+Type = Gameshark
+Activation = EndFrame
+901E7C4C 000F423F
+
+[Infinite Money 2nd Place]
+Type = Gameshark
+Activation = EndFrame
+801E7CA4 423F
+801E7C46 000F
+
+[Infinite Money 3rd Place]
+Type = Gameshark
+Activation = EndFrame
+901E7CFC 000F423F
+
+[Infinite Money 4th Place]
+Type = Gameshark
+Activation = EndFrame
+901E7D54 000F423F
+

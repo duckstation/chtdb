@@ -1,0 +1,70 @@
+; CHTDB: ; [ Wreckin Crew - Drive Dangerously (USA) (1998) (Telstar Electronic Studios) {SLUS-00587} <wreckcrw> ]
+
+[Enable All Characters]
+Type = Gameshark
+Activation = EndFrame
+800A6960 000A
+
+[Enable All Movies]
+Type = Gameshark
+Activation = EndFrame
+800A6542 03FF
+
+[Enable All Tracks Settings + Cups]
+Type = Gameshark
+Activation = EndFrame
+800A6962 0004
+
+[Select Lap\3]
+Type = Gameshark
+Activation = EndFrame
+800A18A0 0201
+
+[Select Lap\5]
+Type = Gameshark
+Activation = EndFrame
+800A18A0 0501
+
+[Select Lap\16]
+Type = Gameshark
+Activation = EndFrame
+800A18A0 0F01
+
+[Select Weapons\On]
+Type = Gameshark
+Activation = EndFrame
+800A18A2 0001
+
+[Select Weapons\Off]
+Type = Gameshark
+Activation = EndFrame
+800A18A2 0000
+
+[Lap Times is 0.00.00]
+Type = Gameshark
+Activation = EndFrame
+800BB750 0000
+800BB760 0000
+800BB770 0000
+
+[Infinite Turbos]
+Type = Gameshark
+Activation = EndFrame
+3010E2EF 0005
+
+[Max Stars]
+Type = Gameshark
+Activation = EndFrame
+3010E2EF 0063
+
+[Press Select To Start In First Place]
+Type = Gameshark
+Activation = EndFrame
+D00A6A1C 0002
+8010E2F6 0300
+
+[Max Points]
+Type = Gameshark
+Activation = EndFrame
+800B5EA0 00FF
+

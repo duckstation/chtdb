@@ -1,0 +1,41 @@
+; CHTDB: ; [ C-12: Final Resistance (Europe) {SCES-03364} ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80032746 2400
+
+[Infinite Bullets on pickup]
+Type = Gameshark
+Activation = EndFrame
+800734F2 2400
+
+[Infinite Grenades on pickup]
+Type = Gameshark
+Activation = EndFrame
+80073862 2400
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800F2B68 0073
+
+[Sudden Death all enemies]
+Type = Gameshark
+Activation = EndFrame
+D00329C0 000E
+300329B6 0024
+
+[Have All Weapons and items (Press L1 & L2 & R1 & R2)]
+Type = Gameshark
+Activation = EndFrame
+D0102826 F0FF
+5000FF02 0001
+800F30B4 0000
+
+[Have All Weapons and items Alt]
+Type = Gameshark
+Activation = EndFrame
+5000FF02 0001
+800F30B4 0000
+

@@ -1,0 +1,148 @@
+; CHTDB: ; [ Wu-Tang - Shaolin Style (USA) (1999) (Activision) {SLUS-00929} <wutang> ]
+
+[Blood On]
+Type = Gameshark
+Activation = EndFrame
+301EA22C 0001
+
+[Fatalities On]
+Type = Gameshark
+Activation = EndFrame
+301EA232 0001
+
+[Have All Chambers]
+Type = Gameshark
+Activation = EndFrame
+50001702 0000
+801EA458 FFFF
+
+[Have All Characters]
+Type = Gameshark
+Activation = EndFrame
+901EA1DC 001FFFFF
+
+[Have All Levels]
+Type = Gameshark
+Activation = EndFrame
+801EA1E0 FFFF
+
+[Have All Secrets]
+Type = Gameshark
+Activation = EndFrame
+301EA4C4 00FF
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800A5498 A000
+
+[P1 Always Max Power]
+Type = Gameshark
+Activation = EndFrame
+800A5E9E 0001
+
+[P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800A5E9C 0404
+
+[P1 Power Meter Full]
+Type = Gameshark
+Activation = EndFrame
+800A549A A000
+
+[P1 50% Health]
+Type = Gameshark
+Activation = EndFrame
+A60A5498 A0005000
+
+[P1 No Health]
+Type = Gameshark
+Activation = EndFrame
+800A5498 0000
+
+[P2 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800A5808 A000
+
+[P2 50% Health]
+Type = Gameshark
+Activation = EndFrame
+A60A5808 A0005000
+
+[P2 No Health]
+Type = Gameshark
+Activation = EndFrame
+800A5808 0000
+
+[P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800A580C 0404
+
+[P2 Power Meter Full]
+Type = Gameshark
+Activation = EndFrame
+800A580A A000
+
+[P3 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800A5B78 A000
+
+[P3 No Health]
+Type = Gameshark
+Activation = EndFrame
+800A5B78 0000
+
+[P3 50% Health]
+Type = Gameshark
+Activation = EndFrame
+A60A5B78 A0005000
+
+[P3 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800A5B7C 0404
+
+[P3 Power Meter Full]
+Type = Gameshark
+Activation = EndFrame
+800A5B7A A000
+
+[P4 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800A5EE8 A000
+
+[P4 No Health]
+Type = Gameshark
+Activation = EndFrame
+800A5EE8 0000
+
+[P4 50% Health]
+Type = Gameshark
+Activation = EndFrame
+A60A5EE8 A0005000
+
+[P4 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800A5EEC 0404
+
+[P4 Power Meter Full]
+Type = Gameshark
+Activation = EndFrame
+800A5EEA A000
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800A3FC8 0000
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+A709BEF0 19991333
+

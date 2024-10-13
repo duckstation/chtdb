@@ -1,0 +1,22 @@
+; CHTDB: ; [ South Park Rally (Europe) {SLES-02352} ]
+
+[All Characters And Extra Cheats Enabled]
+Type = Gameshark
+Activation = EndFrame
+900A3208 FFFFFFFF
+
+[All Racers Unlocked]
+Type = Gameshark
+Activation = EndFrame
+800A320C FFFF
+
+[All Tracks Unlocked]
+Type = Gameshark
+Activation = EndFrame
+800A3210 FFFF
+
+[Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+3009C1B8 0009
+

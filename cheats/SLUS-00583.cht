@@ -1,0 +1,178 @@
+; CHTDB: ; [ Duke Nukem - Time to Kill (USA) (1998) (GT Interactive Software) {SLUS-00583, SLUS-00583GH} <dukenktk> ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800D71CA 4E20
+
+[Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+800D73CC 4E20
+
+[Infinite Air]
+Type = Gameshark
+Activation = EndFrame
+800D73CE 2EC0
+
+[All Keys All Levels]
+Type = Gameshark
+Activation = EndFrame
+50000B04 0000
+800D7504 0001
+
+[Select Level\Level 2]
+Type = Gameshark
+Activation = EndFrame
+800BE570 0001
+
+[Select Level\Level 3]
+Type = Gameshark
+Activation = EndFrame
+800BE570 0002
+
+[Select Level\Level 4]
+Type = Gameshark
+Activation = EndFrame
+800BE570 0003
+
+[Select Level\Level 5]
+Type = Gameshark
+Activation = EndFrame
+800BE570 0004
+
+[Select Level\Level 6]
+Type = Gameshark
+Activation = EndFrame
+800BE570 0005
+
+[Select Level\Level 7]
+Type = Gameshark
+Activation = EndFrame
+800BE570 0006
+
+[Select Level\Level 8]
+Type = Gameshark
+Activation = EndFrame
+800BE570 0007
+
+[Select Level\Level 9]
+Type = Gameshark
+Activation = EndFrame
+800BE570 0008
+
+[Select Level\Level 10]
+Type = Gameshark
+Activation = EndFrame
+800BE570 0009
+
+[Select Level\Level 11]
+Type = Gameshark
+Activation = EndFrame
+800BE570 000A
+
+[Select Level\Level 12]
+Type = Gameshark
+Activation = EndFrame
+800BE570 000B
+
+[Select Level\Level 13]
+Type = Gameshark
+Activation = EndFrame
+800BE570 000C
+
+[Select Level\Level 14]
+Type = Gameshark
+Activation = EndFrame
+800BE570 000D
+
+[Select Level\Level 15]
+Type = Gameshark
+Activation = EndFrame
+800BE570 000E
+
+[Select Level\Level 16]
+Type = Gameshark
+Activation = EndFrame
+800BE570 000F
+
+[Select Level\Level 17]
+Type = Gameshark
+Activation = EndFrame
+800BE570 0010
+
+[Select Level\Level 18]
+Type = Gameshark
+Activation = EndFrame
+800BE570 0011
+
+[Select Level\Level 19]
+Type = Gameshark
+Activation = EndFrame
+800BE570 0012
+
+[Select Level\Level 20]
+Type = Gameshark
+Activation = EndFrame
+800BE570 0003
+
+[Select Level\Level 21]
+Type = Gameshark
+Activation = EndFrame
+800BE570 0014
+
+[Select Level\Level 22]
+Type = Gameshark
+Activation = EndFrame
+800BE570 0015
+
+[Select Level\Level 23]
+Type = Gameshark
+Activation = EndFrame
+800BE570 0016
+
+[Select Level\Level 24]
+Type = Gameshark
+Activation = EndFrame
+800BE570 0017
+
+[Select Level\Level 25]
+Type = Gameshark
+Activation = EndFrame
+800BE570 0018
+
+[Select Level\Level 26]
+Type = Gameshark
+Activation = EndFrame
+800BE570 0019
+
+[Select Level\Level 27]
+Type = Gameshark
+Activation = EndFrame
+800BE570 001A
+
+[Select Level\Level 28]
+Type = Gameshark
+Activation = EndFrame
+800BE570 001B
+
+[Select Level\Level 29]
+Type = Gameshark
+Activation = EndFrame
+800BE570 001C
+
+[Select Level\Level 30]
+Type = Gameshark
+Activation = EndFrame
+800BE570 001D
+
+[Infinite Ammo + Items]
+Type = Gameshark
+Activation = EndFrame
+800C3CC4 0001
+
+[Kill Last Boss in 1 Hit]
+Type = Gameshark
+Activation = EndFrame
+8018EFC2 0000
+

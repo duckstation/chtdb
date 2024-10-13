@@ -1,0 +1,20 @@
+; CHTDB: ; [ The Airs (Jpn) (1999) (Victor Interactive Software) {SLPS-01916} <airs> ]
+
+[Infinite + Max HP Main character (boy)]
+Type = Gameshark
+Activation = EndFrame
+800E26B8 0063
+800E2658 0063
+
+[Infinite + Max HP 2nd character (girl)]
+Type = Gameshark
+Activation = EndFrame
+800E26BA 0063
+800E265A 0063
+
+[Infinite + Max HP 3rd character (pet)]
+Type = Gameshark
+Activation = EndFrame
+800E26BC 0063
+800E265C 0063
+

@@ -1,0 +1,27 @@
+; CHTDB: ; [ Rise 2 - Resurrection (USA) (1996) (Acclaim Entertainment) {SLUS-00186} <rise2> ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800672EC 0D00
+
+[P1 Select Health\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8007D3C6 0078
+
+[P1 Select Health\No Health]
+Type = Gameshark
+Activation = EndFrame
+8007D3C6 0000
+
+[P2 Select Health\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8007D462 0078
+
+[P2 Select Health\No Health]
+Type = Gameshark
+Activation = EndFrame
+8007D462 0000
+

@@ -1,0 +1,64 @@
+; CHTDB: ; [ Killer Loop (Europe) {SLES-01878} ]
+
+[Have All Killer Loop Modes]
+Type = Gameshark
+Activation = EndFrame
+D0010116 6C68
+8006417A FFFF
+
+[Unlock All Ships & Tracks]
+Type = Gameshark
+Activation = EndFrame
+D0010116 6C68
+50000602 0000
+80064810 0101
+
+[Never Lose Energy]
+Type = Gameshark
+Activation = EndFrame
+D0016F92 8CE2
+8001273E 2402
+D0016F92 8CE2
+8001273C FFFF
+
+[Infinite Magnet Energy]
+Type = Gameshark
+Activation = EndFrame
+D0016F92 8CE2
+800133AA 3C00
+
+[Time Stays At 0.00.00]
+Type = Gameshark
+Activation = EndFrame
+D00167B4 1021
+80016822 3C00
+D00167B4 1021
+800167BA 3C00
+
+[Quick Win Press Select before start of race]
+Type = Gameshark
+Activation = EndFrame
+8008836A 0300
+D0081712 FFFE
+80190F78 0301
+D0081712 FFFE
+80191624 0301
+D0081712 FFFE
+801DCA8C 0301
+D0081712 FFFE
+801A9EB0 0301
+D0081712 FFFE
+800CC088 0301
+D0081712 FFFE
+801D7ED4 0301
+D0081712 FFFE
+800CF394 0301
+D0081712 FFFE
+801C7BAC 0301
+
+[Have 25% Fast Modes]
+Type = Gameshark
+Activation = EndFrame
+D0010116 6C68
+80064178 FFFF
+

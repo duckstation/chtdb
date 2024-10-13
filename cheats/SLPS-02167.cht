@@ -1,0 +1,23 @@
+; CHTDB: ; [ Echo Night #2: Nemuri no Shihaisha (Japan) {SLPS-02167} ]
+
+[Infinite Stamina]
+Type = Gameshark
+Activation = EndFrame
+A602F73A 00640060
+
+[Physical condition]
+Type = Gameshark
+Activation = EndFrame
+301B090C 0008
+
+[State Normal]
+Type = Gameshark
+Activation = EndFrame
+301B0A9A 0000
+
+[All Maps]
+Type = Gameshark
+Activation = EndFrame
+301B0AA0 00FF
+301B0ABF 00FF
+

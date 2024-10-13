@@ -1,0 +1,22 @@
+; CHTDB: ; [ NHL Open Ice - 2 on 2 Challenge (USA) (1996) (Midway Home Entertainment) {SLUS-00327} <nhl2on2> ]
+
+[Select Home Team Score\9]
+Type = Gameshark
+Activation = EndFrame
+8005E6FE 0009
+
+[Select Home Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+8005E6FE 0000
+
+[Select Away Team Score\9]
+Type = Gameshark
+Activation = EndFrame
+8005E706 0009
+
+[Select Away Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+8005E706 0000
+

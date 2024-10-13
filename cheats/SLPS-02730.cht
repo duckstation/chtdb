@@ -1,0 +1,32 @@
+; CHTDB: ; [ Suzu Monogatari (Japan) {SLPS-02730} ]
+
+[Infinite & Max energy]
+Type = Gameshark
+Activation = EndFrame
+90090DA0 03E703E7
+
+[Infinite Money (9999)]
+Type = Gameshark
+Activation = EndFrame
+80090DA8 270F
+
+[Battle Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+80090350 03E7
+
+[During combat enemy HP 0]
+Type = Gameshark
+Activation = EndFrame
+800903C8 0000
+
+[No random encounter]
+Type = Gameshark
+Activation = EndFrame
+8007C8D8 FFFF
+
+[Experience Gained Max]
+Type = Gameshark
+Activation = EndFrame
+300902CC 270F
+

@@ -1,0 +1,12 @@
+; CHTDB: ; [ The Bombing Islands (Europe) {SLES-03163} ]
+
+[Infinite Step]
+Type = Gameshark
+Activation = EndFrame
+80072F6E 0000
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80072EE0 270F
+

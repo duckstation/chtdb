@@ -1,0 +1,34 @@
+; CHTDB: ; [ Disney/Pixar Monstres & Cie: L'ile de l'Ã‰pouvante (France) (Platinum) {SCES-03763} ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800100A3 0063
+
+[Movie theater Fully Open]
+Type = Gameshark
+Activation = EndFrame
+90010118 FFFFFFFF
+
+[All Medals]
+Type = Gameshark
+Activation = EndFrame
+900100C8 63636363
+900100CC 63636363
+800100D0 6363
+300100D2 0063
+300100C7 0063
+900100D4 FFFFFFFF
+900100D8 FFFFFFFF
+900100DC FFFFFFFF
+
+[All stages]
+Type = Gameshark
+Activation = EndFrame
+800100EE FFFF
+800100F0 FFFF
+900100F8 FFFFFFFF
+800100FC FFFF
+900100F4 FFFFFFFF
+300100F3 00FF
+

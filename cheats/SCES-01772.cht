@@ -1,0 +1,7 @@
+; CHTDB: ; [ Destrega (Spain) {SCES-01772} ]
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800C912C 00C8
+

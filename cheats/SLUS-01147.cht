@@ -1,0 +1,77 @@
+; CHTDB: ; [ Ready 2 Rumble Boxing - Round 2 (USA) (2000) (Midway Home Entertainment) {SLUS-01147} <r2rumbl2> ]
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800B0D30 0064
+
+[P1 Infinite Stamina]
+Type = Gameshark
+Activation = EndFrame
+800B0D34 0064
+
+[Start On Last Match (Arcade Mode)]
+Type = Gameshark
+Activation = EndFrame
+A60A101C 0000000B
+
+[Max Money]
+Type = Gameshark
+Activation = EndFrame
+900B3418 000F423F
+
+[You Da Champ]
+Type = Gameshark
+Activation = EndFrame
+800B3408 0000
+
+[Start At Championship Fight]
+Type = Gameshark
+Activation = EndFrame
+A60B3408 000C0001
+
+[Unlock Michael Jackson]
+Type = Gameshark
+Activation = EndFrame
+800B5748 0003
+
+[Unlock G.C. Thunder]
+Type = Gameshark
+Activation = EndFrame
+800B574C 0003
+
+[Unlock Shaq]
+Type = Gameshark
+Activation = EndFrame
+800B5750 0003
+
+[Unlock Rocket Samchav]
+Type = Gameshark
+Activation = EndFrame
+800B5754 0003
+
+[Unlock Robox Ressea]
+Type = Gameshark
+Activation = EndFrame
+800B5758 0003
+
+[Unlock First Lady]
+Type = Gameshark
+Activation = EndFrame
+800B575C 0003
+
+[Unlock Mr President]
+Type = Gameshark
+Activation = EndFrame
+800B5760 0003
+
+[Unlock Rumbleman]
+Type = Gameshark
+Activation = EndFrame
+800B5764 0003
+
+[Unlock Random Select]
+Type = Gameshark
+Activation = EndFrame
+800B5768 0003
+

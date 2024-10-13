@@ -1,0 +1,72 @@
+; CHTDB: ; [ Countdown Vampires (Japan) {SLPS-02504 | SLPS-02505} ]
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800B2F86 0064
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+800B2FAA 000C
+
+[Infinite Cash]
+Type = Gameshark
+Activation = EndFrame
+800B2F90 270F
+
+[Weapon In Slot 1]
+Type = Gameshark
+Activation = EndFrame
+800B2F9A 006A
+
+[Weapon In Slot 2]
+Type = Gameshark
+Activation = EndFrame
+800B2FA0 006B
+
+[Weapon In Slot 3]
+Type = Gameshark
+Activation = EndFrame
+800B2FA6 006D
+
+[All maps]
+Type = Gameshark
+Activation = EndFrame
+800B3800 FFFF
+
+[All Files]
+Type = Gameshark
+Activation = EndFrame
+900B3808 FFFFFFFF
+900B380C FFFFFFFF
+
+[All Mail]
+Type = Gameshark
+Activation = EndFrame
+900B3848 FFFFFFFF
+
+[Free mode]
+Type = Gameshark
+Activation = EndFrame
+800B2F4C 0002
+
+[Vampire mode]
+Type = Gameshark
+Activation = EndFrame
+800B35EE 5250
+900B35F0 45434E49
+800B3602 4400
+900B3604 4E4B5241
+900B3608 00535345
+
+[Selection Stage 00-63 Enabled the Last]
+Type = Gameshark
+Activation = EndFrame
+800B2F4A 0063
+
+[Save 00]
+Type = Gameshark
+Activation = EndFrame
+800B2F52 0000
+

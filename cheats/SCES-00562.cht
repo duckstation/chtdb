@@ -1,0 +1,37 @@
+; CHTDB: ; [ The King of Fighters '95 (Europe) (Promo) {SCES-00562} ]
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800BF5AC 00CF
+
+[P2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800BF5AE 00CF
+
+[P2 No Energy]
+Type = Gameshark
+Activation = EndFrame
+800BF5AE 0000
+
+[P1 Maximum Pow]
+Type = Gameshark
+Activation = EndFrame
+800F4534 007F
+
+[P2 Maximum Pow]
+Type = Gameshark
+Activation = EndFrame
+800F4536 007F
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800F4540 633C
+
+[Slow-Motion]
+Type = Gameshark
+Activation = EndFrame
+80087F60 3534
+

@@ -1,0 +1,250 @@
+; CHTDB: ; [ Motor Toon Grand Prix (USA) (1996) (Sony Computer Entertainment America) {SCUS-94355} <mtoongp> ]
+
+[Infinite Continues]
+Type = Gameshark
+Activation = EndFrame
+800DD21C 0003
+
+[Infinite Coins]
+Type = Gameshark
+Activation = EndFrame
+800DC3C6 0900
+
+[Infinite Of Current Item]
+Type = Gameshark
+Activation = EndFrame
+800E38EC 0007
+
+[Turn On Extra Character Goodie]
+Type = Gameshark
+Activation = EndFrame
+300E4574 0001
+
+[Turn On Extra Track Goodie]
+Type = Gameshark
+Activation = EndFrame
+300E4575 000A
+
+[Turn On Tank Combat Goodie]
+Type = Gameshark
+Activation = EndFrame
+300E4576 0001
+
+[Turn On Submarine x Goodie]
+Type = Gameshark
+Activation = EndFrame
+800E4577 0001
+
+[Turn On Motortoon Gpr Goodie]
+Type = Gameshark
+Activation = EndFrame
+300E4578 0001
+
+[Always In Big, Bigger, Biggest Mode]
+Type = Gameshark
+Activation = EndFrame
+800DC3D6 0114
+
+[Always In Super Shield Mode]
+Type = Gameshark
+Activation = EndFrame
+800DC3D8 0114
+
+[Always Have 32T On You]
+Type = Gameshark
+Activation = EndFrame
+800DC3DA 0114
+
+[Always In Pandora's Box Confusion]
+Type = Gameshark
+Activation = EndFrame
+800DC3DE 0114
+
+[Always Hit By Crazy Mushroom]
+Type = Gameshark
+Activation = EndFrame
+800DC3D2 0114
+
+[Fireballs Freeze On The Screen]
+Type = Gameshark
+Activation = EndFrame
+800E3148 02FF
+
+[Grand Prix]
+Description = Always Get 1st Place
+Type = Gameshark
+Activation = EndFrame
+800B59BC 0001
+
+[Grand Prix 1P Modes - Always Super Toon]
+Type = Gameshark
+Activation = EndFrame
+300B59C1 0001
+
+[P1 Press L2 To Select Zako]
+Type = Gameshark
+Activation = EndFrame
+E01FFC30 0001
+80057534 0005
+
+[Always Have 1st Place]
+Type = Gameshark
+Activation = EndFrame
+300DC21E 0001
+
+[Time Never Goes Past 2]
+Type = Gameshark
+Activation = EndFrame
+800DD73A 0000
+
+[Select Starting Lap\2]
+Type = Gameshark
+Activation = EndFrame
+D00DC21E 0108
+300DC21F 0002
+300DC3FB 0002
+300DC5D7 0002
+
+[Select Starting Lap\3]
+Type = Gameshark
+Activation = EndFrame
+D00DC21E 0108
+300DC21F 0003
+300DC3FB 0003
+300DC5D7 0003
+
+[Select Stealth Field\Doesn't Flash]
+Type = Gameshark
+Activation = EndFrame
+800DC3D4 0114
+
+[Select Stealth Field\Invisible]
+Type = Gameshark
+Activation = EndFrame
+800DC3D4 0112
+
+[Select One Perm Item\Bomb]
+Type = Gameshark
+Activation = EndFrame
+800DC3CA 0000
+
+[Select One Perm Item\Fireball]
+Type = Gameshark
+Activation = EndFrame
+800DC3CA 0100
+
+[Select One Perm Item\Missile]
+Type = Gameshark
+Activation = EndFrame
+800DC3CA 0200
+
+[Select One Perm Item\Turbo]
+Type = Gameshark
+Activation = EndFrame
+800DC3CA 0300
+
+[Select One Perm Item\Jump]
+Type = Gameshark
+Activation = EndFrame
+800DC3CA 0400
+
+[Select One Perm Item\Crazy Mushroom]
+Type = Gameshark
+Activation = EndFrame
+800DC3CA 0500
+
+[Select One Perm Item\Stealth Field]
+Type = Gameshark
+Activation = EndFrame
+800DC3CA 0600
+
+[Select One Perm Item\Big, Bigger, Biggest]
+Type = Gameshark
+Activation = EndFrame
+800DC3CA 0700
+
+[Select One Perm Item\Tiny, Tiny, Tiny]
+Type = Gameshark
+Activation = EndFrame
+800DC3CA 0800
+
+[Select One Perm Item\Oil Can]
+Type = Gameshark
+Activation = EndFrame
+800DC3CA 0900
+
+[Select One Perm Item\Pandora's Box]
+Type = Gameshark
+Activation = EndFrame
+800DC3CA 0A00
+
+[Select One Perm Item\Dynamite]
+Type = Gameshark
+Activation = EndFrame
+800DC3CA 0B00
+
+[Select One Perm Item\Super Shield]
+Type = Gameshark
+Activation = EndFrame
+800DC3CA 0C00
+
+[Select One Perm Item\Magic Hand]
+Type = Gameshark
+Activation = EndFrame
+800DC3CA 0D00
+
+[Select One Perm Item\Wonder Clock]
+Type = Gameshark
+Activation = EndFrame
+800DC3CA 0E00
+
+[Select One Perm Item\32T Weight]
+Type = Gameshark
+Activation = EndFrame
+800DC3CA 0F00
+
+[Select One Perm Item\Power up]
+Type = Gameshark
+Activation = EndFrame
+800DC3CA 1000
+
+[P1 Select Car\Captain Rock]
+Type = Gameshark
+Activation = EndFrame
+8008C7AC 0001
+
+[P1 Select Car\Princess Jean]
+Type = Gameshark
+Activation = EndFrame
+8008C7AC 0002
+
+[P1 Select Car\Bolbox]
+Type = Gameshark
+Activation = EndFrame
+8008C7AC 0003
+
+[P1 Select Car\Penguin Bros]
+Type = Gameshark
+Activation = EndFrame
+8008C7AC 0004
+
+[P1 Select Car\Raptor + Raptor]
+Type = Gameshark
+Activation = EndFrame
+8008C7AC 0005
+
+[P1 Select Car\Vanity]
+Type = Gameshark
+Activation = EndFrame
+8008C7AC 0006
+
+[P1 Select Car\Billy The Tough]
+Type = Gameshark
+Activation = EndFrame
+8008C7AC 0007
+
+[P1 Select Car\Ching Tong Shang]
+Type = Gameshark
+Activation = EndFrame
+8008C7AC 0008
+

@@ -1,0 +1,62 @@
+; CHTDB: ; [ Tokimeki Memorial Taisen Puzzle-Dama (Jpn) (1996) (Konami) {SLPM-86005 (VX036-J1)} <tkpzldm> ]
+
+[P1 Instant Max Combo]
+Type = Gameshark
+Activation = EndFrame
+E009D85E 0001
+3009D85E 0014
+
+[P2 Instant Max Combo]
+Type = Gameshark
+Activation = EndFrame
+E009D85F 0001
+3009D85F 0014
+
+[P1 Massive Kougekidamas]
+Type = Gameshark
+Activation = EndFrame
+3009D85B 00FF
+
+[P2 Massive Kougekidamas]
+Type = Gameshark
+Activation = EndFrame
+3009D85A 00FF
+
+[P1 Max Score]
+Type = Gameshark
+Activation = EndFrame
+9009D554 05F5E0FF
+
+[P2 Max Score]
+Type = Gameshark
+Activation = EndFrame
+9009D558 05F5E0FF
+
+[P1 No Kougekidamas]
+Type = Gameshark
+Activation = EndFrame
+3009D85B 0000
+
+[P2 No Kougekidamas]
+Type = Gameshark
+Activation = EndFrame
+3009D85A 0000
+
+[P1 Press L2 for Zendamas]
+Type = Gameshark
+Activation = EndFrame
+E008C9A0 0001
+8009D550 0808
+
+[P2 Press L2 for Zendamas]
+Type = Gameshark
+Activation = EndFrame
+E008C9F0 0001
+8009D552 0808
+
+[Unlock All Extras]
+Type = Gameshark
+Activation = EndFrame
+8008CB72 FFFB
+8009D34C FFFF
+

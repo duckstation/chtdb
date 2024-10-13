@@ -1,0 +1,70 @@
+; CHTDB: ; [ Anna Kournikova's Smash Court Tennis (Europe) (Promo) {SCES-01833} ]
+
+[P1 40 Gamepoints]
+Type = Gameshark
+Activation = EndFrame
+8007A658 0003
+
+[P2 0 Gamepoints]
+Type = Gameshark
+Activation = EndFrame
+8007A65C 0000
+
+[P1 Set 1 Won]
+Type = Gameshark
+Activation = EndFrame
+8015C380 0005
+
+[P1 Set 1 Won (.Press Select+L1+L2)]
+Type = Gameshark
+Activation = EndFrame
+D00D0DC4 0105
+8015C380 0005
+
+[P1 5 Points Set 2]
+Type = Gameshark
+Activation = EndFrame
+8015C384 0005
+
+[P1 5 Points Set 3]
+Type = Gameshark
+Activation = EndFrame
+8015C388 0005
+
+[P1 5 Points Set 4]
+Type = Gameshark
+Activation = EndFrame
+8015C38C 0005
+
+[P1 5 Points Set 5]
+Type = Gameshark
+Activation = EndFrame
+8015C390 0005
+
+[9999 Point In Tournament Mode]
+Type = Gameshark
+Activation = EndFrame
+8015E448 270F
+
+[All Items]
+Type = Gameshark
+Activation = EndFrame
+50001801 0000
+3015E7DF 0001
+
+[P1 All Sets Max Wins]
+Type = Gameshark
+Activation = EndFrame
+50000504 0000
+8015C380 0006
+50000504 0000
+8015C390 0000
+
+[P2 All Sets Max Wins]
+Type = Gameshark
+Activation = EndFrame
+50000504 0000
+8015C380 0000
+50000504 0000
+8015C390 0006
+

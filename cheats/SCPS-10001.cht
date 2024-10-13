@@ -1,0 +1,40 @@
+; CHTDB: ; [ Motor Toon Grand Prix (Japan) {SCPS-10001} ]
+
+[Grand Prix - Always Get 1st Place]
+Type = Gameshark
+Activation = EndFrame
+800B59BC 0001
+
+[Grand prix - Time = 00.00]
+Type = Gameshark
+Activation = EndFrame
+D01FFE54 2400
+801FFE58 0000
+D01FFE54 2400
+801FFE5A 0000
+
+[1P Mode - Start on 3rd Lap]
+Type = Gameshark
+Activation = EndFrame
+E00B59C0 0001
+300B59C0 0003
+
+[1P Modes - Always Super Toon]
+Type = Gameshark
+Activation = EndFrame
+300B59C1 0001
+
+[Press L2 for P1 Select Zako]
+Type = Gameshark
+Activation = EndFrame
+E01FFC30 0001
+80057534 0005
+
+[Time Trial - Time = 00.00]
+Type = Gameshark
+Activation = EndFrame
+D01FFD28 6363
+801FFD30 0000
+D01FFD28 6363
+801FFD32 0000
+

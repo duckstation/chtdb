@@ -1,0 +1,243 @@
+; CHTDB: ; [ Tekken 3 (USA) (1998) (Namco Hometek) {SLUS-00402} <tekken3> ]
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+300A961E 008C
+
+[P2 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+300AAEAA 008C
+
+[P1 No Health]
+Type = Gameshark
+Activation = EndFrame
+300A961E 0000
+
+[P2 No Health]
+Type = Gameshark
+Activation = EndFrame
+300AAEAA 0000
+
+[P1 1-Hit Death]
+Type = Gameshark
+Activation = EndFrame
+A60A961E 008C0001
+
+[P2 1-Hit Death]
+Type = Gameshark
+Activation = EndFrame
+A60AAEAA 008C0001
+
+[Hit Anywhere]
+Type = Gameshark
+Activation = EndFrame
+A7047D02 14401000
+;f 0,fffff,w.1440,0,0,1,2610
+
+[Absolutely Everything Unlocked]
+Type = Gameshark
+Activation = EndFrame
+80097EF0 FFFF
+30097EF2 001F
+80097EF4 0382
+30097EF6 0005
+80097EF8 FFFF
+30097EFA 001F
+30097EFD 0009
+30097EFE 0001
+80097F26 0101
+
+[Walk through stage boundaries]
+Type = Gameshark
+Activation = EndFrame
+A70433B2 14401000
+
+[Disable 'Tekken Ball' stage line boundary]
+Type = Gameshark
+Activation = EndFrame
+A70431D2 04412400
+
+[Hit 'Tekken Ball' ball from anywhere]
+Type = Gameshark
+Activation = EndFrame
+A7047EB6 14401000
+
+[Select CPU Cheat\Player 2 Cpu is unable to fight (Press L3 to toggle on/off)]
+Type = Gameshark
+Activation = EndFrame
+D7010001 00000200
+F502C2A2 14402400
+
+[Select CPU Cheat\P1 vs P2 Cpu (Press R3 to toggle on/off)]
+Type = Gameshark
+Activation = EndFrame
+D7010001 01000400
+A702C2A2 14401000
+
+[Select Stage (Arcade Mode)\1]
+Type = Gameshark
+Activation = EndFrame
+D00AFAAC 0000
+300AFAAC 0000
+
+[Select Stage (Arcade Mode)\2]
+Type = Gameshark
+Activation = EndFrame
+D00AFAAC 0000
+300AFAAC 0001
+
+[Select Stage (Arcade Mode)\3]
+Type = Gameshark
+Activation = EndFrame
+D00AFAAC 0000
+300AFAAC 0002
+
+[Select Stage (Arcade Mode)\4]
+Type = Gameshark
+Activation = EndFrame
+D00AFAAC 0000
+300AFAAC 0003
+
+[Select Stage (Arcade Mode)\5]
+Type = Gameshark
+Activation = EndFrame
+D00AFAAC 0000
+300AFAAC 0004
+
+[Select Stage (Arcade Mode)\6]
+Type = Gameshark
+Activation = EndFrame
+D00AFAAC 0000
+300AFAAC 0005
+
+[Select Stage (Arcade Mode)\7]
+Type = Gameshark
+Activation = EndFrame
+D00AFAAC 0000
+300AFAAC 0006
+
+[Select Stage (Arcade Mode)\8]
+Type = Gameshark
+Activation = EndFrame
+D00AFAAC 0000
+300AFAAC 0007
+
+[Select Stage (Arcade Mode)\9]
+Type = Gameshark
+Activation = EndFrame
+D00AFAAC 0000
+300AFAAC 0008
+
+[Select Stage (Arcade Mode)\10]
+Type = Gameshark
+Activation = EndFrame
+D00AFAAC 0000
+300AFAAC 0009
+
+[Replace The Force Mode Enemies' Moves With Better Ones\No Black Bgs (For True Ogre Fights)]
+Type = Gameshark
+Activation = EndFrame
+300AFAA0 0000
+
+[Super Ultra Top-Secret Code!\Set 1]
+Type = Gameshark
+Activation = EndFrame
+C00A8F6C 10AC
+900B8E94 53524556
+900B8E98 42205355
+900B8E9C 534B4F4F
+800B8EA0 0000
+00000000 FFFF
+
+[Super Ultra Top-Secret Code!\Set 2]
+Type = Gameshark
+Activation = EndFrame
+C00A8F6C 10AC
+800B8F0C 0000
+900B8F20 4C494B53
+900B8F24 0021214C
+900B8F28 4B434F52
+00000000 FFFF
+
+[Super Ultra Top-Secret Code!\Set 3]
+Type = Gameshark
+Activation = EndFrame
+C00A8F6C 10AC
+900B8F2C 49572053
+900B8F30 00204854
+00000000 FFFF
+
+[P1 Grip Of Death]
+Type = Gameshark
+Activation = EndFrame
+800A9282 0017
+
+[P1 Infinite Supercharge]
+Type = Gameshark
+Activation = EndFrame
+800A934A 006F
+800A9286 00FF
+
+[Infinite Force Mode Time]
+Type = Gameshark
+Activation = EndFrame
+800ADBCC FFFF
+
+[Tekken Force Stage Skip]
+Type = Gameshark
+Activation = EndFrame
+D00A8C48 4100
+800B6C04 0001
+
+[Neon Glow]
+Type = Gameshark
+Activation = EndFrame
+8009E5EC FFFF
+
+[Play 5 Stages In Force Mode Instead Of 4 .With this code, it will only work if Dr. Boskonovitch has NOT been enabled.]
+Type = Gameshark
+Activation = EndFrame
+80097F18 0103
+
+[P1 Is Dr. Boskonovitch]
+Type = Gameshark
+Activation = EndFrame
+300ADD5C 0013
+
+[P2 Is Always Computer Controled]
+Type = Gameshark
+Activation = EndFrame
+300AAB79 0001
+
+[P1 P1 Press L1 To Gain Power]
+Type = Gameshark
+Activation = EndFrame
+D00A9130 0004
+200A961E 0001
+
+[P1 P1 Press L2 To Lose Power]
+Type = Gameshark
+Activation = EndFrame
+D00A9130 0001
+210A961E 0001
+
+[P2 P1 Press R1 To Gain Power]
+Type = Gameshark
+Activation = EndFrame
+D00A9130 0008
+200AAEAA 0001
+
+[P2 P1 Press R2 To Lose Power]
+Type = Gameshark
+Activation = EndFrame
+D00A9130 0002
+210AAEAA 0001
+
+[P2 Infinite Supercharge]
+Type = Gameshark
+Activation = EndFrame
+800AABD6 006F
+800AAB12 00FF
+

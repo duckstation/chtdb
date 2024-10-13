@@ -1,0 +1,12 @@
+; CHTDB: ; [ Army Men: Omega Soldier (Europe) {SLES-03431} ]
+
+[Infinite Energy level 1]
+Type = Gameshark
+Activation = EndFrame
+801952A0 12D0
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800EDF44 0063
+

@@ -1,0 +1,14 @@
+; CHTDB: ; [ Happy Hotel (Jpn) (1997) (Tohoku Shinsha) {SLPS-01110} <happyhtl> ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+90010008 05F5E0FF
+
+[Occupation Ranking]
+Type = Gameshark
+Activation = EndFrame
+8001000E 3F3F
+80010010 3F3F
+3001023B 0014
+

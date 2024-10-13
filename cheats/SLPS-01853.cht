@@ -1,0 +1,53 @@
+; CHTDB: ; [ Chippoke Ralph no Daibouken - The Adventure of Little Ralph (Jpn) (1999) (New) {SLPS-01853} <ralph> ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800B9C18 0009
+
+[Infinite Time 1]
+Type = Gameshark
+Activation = EndFrame
+800B9BF8 9999
+
+[Infiinite Time 2]
+Type = Gameshark
+Activation = EndFrame
+D00CF3A6 2462
+800CF3A4 0000
+
+[Infinite HP 1]
+Type = Gameshark
+Activation = EndFrame
+801F94DA 0320
+
+[Infinite HP 2]
+Type = Gameshark
+Activation = EndFrame
+800B9C08 0005
+
+[Infinite Energy - Desert Level]
+Type = Gameshark
+Activation = EndFrame
+8017D74E 0005
+
+[Infinite Energy - Pyramid Level]
+Type = Gameshark
+Activation = EndFrame
+801DFE4E 0005
+
+[Infinite Energy - Dolan Highlands]
+Type = Gameshark
+Activation = EndFrame
+80197D4E 0005
+
+[1-Hit Death]
+Type = Gameshark
+Activation = EndFrame
+8018874E 0001
+
+[Walk Through Enemies]
+Type = Gameshark
+Activation = EndFrame
+8018874E FFFF
+

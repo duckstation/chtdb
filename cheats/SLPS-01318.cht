@@ -1,0 +1,30 @@
+; CHTDB: ; [ Advanced V.G. 2 (Japan) {SLPS-01318} ]
+
+[P1 Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800C8E70 00DC
+
+[P2 Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800C8E78 00DC
+
+[P1 Max Power]
+Type = Gameshark
+Activation = EndFrame
+900C9364 012C012C
+
+[P2 Max Power]
+Type = Gameshark
+Activation = EndFrame
+900C9900 012C012C
+
+[P2 Health 0 Press Select]
+Type = Gameshark
+Activation = EndFrame
+D0062A62 0100
+800C8E78 0000
+D0062A62 0100
+800C8E7A 0000
+

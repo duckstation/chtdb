@@ -1,0 +1,113 @@
+; CHTDB: ; [ Vandal Hearts II (USA) (1999) (Konami of America) {SLUS-00940} <vandalh2> ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+801CF3B0 FFFF
+
+[Enemies Can Only Move Once]
+Type = Gameshark
+Activation = EndFrame
+C001CBE8 5110
+9001CBF8 2C410014
+9001CBFC 10200002
+9001CC04 A0800010
+00000000 FFFF
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+50001480 0000
+801DD4E6 03E7
+
+[Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+50001480 0000
+801DD4EE 03E7
+
+[Young Hero\Infinite + Max HP]
+Type = Gameshark
+Activation = EndFrame
+901DD4E4 03E703E7
+
+[Young Hero\Infinite + Max MP]
+Type = Gameshark
+Activation = EndFrame
+901DD4EC 03E703E7
+
+[Yuri\Infinite + Max HP]
+Type = Gameshark
+Activation = EndFrame
+901DD5EC 03E703E7
+
+[Clive\Infinite + Max HP]
+Type = Gameshark
+Activation = EndFrame
+901DD564 03E703E7
+
+[Clive\Infinite + Max MP]
+Type = Gameshark
+Activation = EndFrame
+901DD56C 03E703E7
+
+[Rosaly\Infinite + Max HP]
+Type = Gameshark
+Activation = EndFrame
+901DDC64 03E703E7
+
+[Rosaly\Infinite + Max MP]
+Type = Gameshark
+Activation = EndFrame
+901DDC6C 03E703E7
+
+[Adult Hero\Infinite + Max HP]
+Type = Gameshark
+Activation = EndFrame
+901DD664 03E703E7
+
+[Adult Hero\Infinite + Max MP]
+Type = Gameshark
+Activation = EndFrame
+901DD66C 03E703E7
+
+[Vlad\Infinite + Max HP]
+Type = Gameshark
+Activation = EndFrame
+901DD764 03E703E7
+
+[Vlad\Infinite + Max MP]
+Type = Gameshark
+Activation = EndFrame
+901DD76C 03E703E7
+
+[Pike\Infinite + Max HP]
+Type = Gameshark
+Activation = EndFrame
+901DD6E4 03E703E7
+
+[Pike\Infinite + Max MP]
+Type = Gameshark
+Activation = EndFrame
+901DD6EC 03E703E7
+
+[Pratau\Infinite + Max HP]
+Type = Gameshark
+Activation = EndFrame
+901DD864 03E703E7
+
+[Pratau\Infinite + Max MP]
+Type = Gameshark
+Activation = EndFrame
+901DD86C 03E703E7
+
+[Lira\Infinite + Max HP]
+Type = Gameshark
+Activation = EndFrame
+901DD7E4 03E703E7
+
+[Lira\Infinite + Max MP]
+Type = Gameshark
+Activation = EndFrame
+901DD7EC 03E703E7
+

@@ -1,0 +1,168 @@
+; CHTDB: ; [ Vanguard Bandits (USA) (2000) (Working Designs) {SLUS-01070A} <vbandits> ]
+
+[Infinite Health (In-Battle)]
+Type = Gameshark
+Activation = EndFrame
+90007600 10000002
+90007604 96021570
+90007608 9602155C
+9000760C 90810020
+80007612 2400
+90007614 14200002
+8000761A 2400
+9000761C 27FF0004
+90007620 03E00008
+80007626 2400
+90007680 10000002
+90007684 86621570
+90007688 8662155C
+9000768C 91410020
+90007690 03E00008
+80007696 2400
+9002143C 0C001D80
+90021554 0C001D82
+9008D694 0C001DA0
+9008D69C 10200029
+9008D76C 0C001DA2
+9008D774 10200031
+
+[Infinite AP (In-Battle)]
+Type = Gameshark
+Activation = EndFrame
+8001E792 2400
+8001E9A6 2400
+80021026 2400
+8002102A 2400
+8002102E 2400
+8008E4BE 0040
+
+[All Attacks Cost 0 FP (In-Battle)]
+Type = Gameshark
+Activation = EndFrame
+8008BB7A 2400
+8008BB80 0000
+8008C548 0000
+8008C594 0000
+8008E4D2 0040
+
+[Max Level + HP (All Positions)]
+Type = Gameshark
+Activation = EndFrame
+50000C38 0000
+300B7965 00FF
+50000C38 0000
+800B7966 01F4
+
+[Max Money]
+Type = Gameshark
+Activation = EndFrame
+900B78EC 000F423F
+
+[Select Chapters Completed\1]
+Type = Gameshark
+Activation = EndFrame
+300B78F2 0001
+
+[Select Chapters Completed\2]
+Type = Gameshark
+Activation = EndFrame
+300B78F2 0002
+
+[Select Chapters Completed\3]
+Type = Gameshark
+Activation = EndFrame
+300B78F2 0003
+
+[Select Chapters Completed\4]
+Type = Gameshark
+Activation = EndFrame
+300B78F2 0004
+
+[Select Chapters Completed\5]
+Type = Gameshark
+Activation = EndFrame
+300B78F2 0005
+
+[Select Chapters Completed\6]
+Type = Gameshark
+Activation = EndFrame
+300B78F2 0006
+
+[Select Chapters Completed\7]
+Type = Gameshark
+Activation = EndFrame
+300B78F2 0007
+
+[Select Chapters Completed\8]
+Type = Gameshark
+Activation = EndFrame
+300B78F2 0008
+
+[Select Chapters Completed\9]
+Type = Gameshark
+Activation = EndFrame
+300B78F2 0009
+
+[Select Chapters Completed\10]
+Type = Gameshark
+Activation = EndFrame
+300B78F2 000A
+
+[Select Chapters Completed\11]
+Type = Gameshark
+Activation = EndFrame
+300B78F2 000B
+
+[Select Chapters Completed\12]
+Type = Gameshark
+Activation = EndFrame
+300B78F2 000C
+
+[Select Chapters Completed\13]
+Type = Gameshark
+Activation = EndFrame
+300B78F2 000D
+
+[Select Chapters Completed\14]
+Type = Gameshark
+Activation = EndFrame
+300B78F2 000E
+
+[Select Chapters Completed\15]
+Type = Gameshark
+Activation = EndFrame
+300B78F2 000F
+
+[Select Chapters Completed\16]
+Type = Gameshark
+Activation = EndFrame
+300B78F2 0010
+
+[Select Chapters Completed\17]
+Type = Gameshark
+Activation = EndFrame
+300B78F2 0011
+
+[Select Chapters Completed\18]
+Type = Gameshark
+Activation = EndFrame
+300B78F2 0012
+
+[Select Chapters Completed\19]
+Type = Gameshark
+Activation = EndFrame
+300B78F2 0013
+
+[Select Chapters Completed\20]
+Type = Gameshark
+Activation = EndFrame
+300B78F2 0014
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+800710A8 0C00
+800710C8 0C00
+800B7F1C 1000
+800E0B50 1000
+

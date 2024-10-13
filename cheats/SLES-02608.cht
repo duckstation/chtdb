@@ -1,0 +1,62 @@
+; CHTDB: ; [ Star Wars: Episode I: Jedi Power Battles (France) {SLES-02608} ]
+
+[Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+800B2054 000F
+
+[Infinite Special]
+Type = Gameshark
+Activation = EndFrame
+800E1188 B14B
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800B2060 0064
+
+[P1 Infinite Force]
+Type = Gameshark
+Activation = EndFrame
+800B2068 0064
+
+[Level Select, Unlock Hidden Level Droid Kass At level select screen press L1 & L2 & R1 & R2 to load level]
+Type = Gameshark
+Activation = EndFrame
+D00B27C2 F0FF
+800B1EC4 0202
+D00B27C2 FFFE
+800ACFBC 000B
+
+[Level Select, Unlock Hidden Level Kadus' race At level select screen press L1 & L2 & R1 & R2 to load level automatically.]
+Type = Gameshark
+Activation = EndFrame
+D00B27C2 F0FF
+800B1EC4 0202
+D00B27C2 FFFE
+800ACFBC 000C
+
+[Level Select, Unlock Hidden Level Jar Jar's capture At level select screen press L1 & L2 & R1 & R2 to load level automatically.]
+Type = Gameshark
+Activation = EndFrame
+D00B27C2 F0FF
+800B1EC4 0202
+D00B27C2 FFFE
+800ACFBC 000C
+
+[Level Select, Unlock Hidden Level Law of power At level select screen press L1 & L2 & R1 & R2 to load level automatically.]
+Type = Gameshark
+Activation = EndFrame
+D00B27C2 F0FF
+800B1EC4 0202
+D00B27C2 FFFE
+800ACFBC 000D
+
+[Level Select, Unlock Hidden Level Coruskan At level select screen press L1 & L2 & R1 & R2 to load level automatically.]
+Type = Gameshark
+Activation = EndFrame
+D00B27C2 F0FF
+800B1EC4 0202
+D00B27C2 FFFE
+800ACFBC 000F
+

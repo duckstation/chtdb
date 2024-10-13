@@ -1,0 +1,132 @@
+; CHTDB: ; [ Star Wars: Episode I: Jedi Power Battles (Germany) {SLES-02609} ]
+
+[P1 Codes\999.999 Punkte]
+Type = Gameshark
+Activation = EndFrame
+900B2050 000F423F
+
+[P1 Codes\Ue Lebensenergie]
+Type = Gameshark
+Activation = EndFrame
+300B2054 00FE
+
+[P1 Codes\Max Lebensenergie]
+Type = Gameshark
+Activation = EndFrame
+300B2056 00FE
+
+[P1 Codes\Ue Macht]
+Type = Gameshark
+Activation = EndFrame
+300B205C 00FE
+
+[P1 Codes\Max Macht]
+Type = Gameshark
+Activation = EndFrame
+300B205E 00FE
+
+[P1 Codes\Ue Spezialgegenstaende]
+Type = Gameshark
+Activation = EndFrame
+300B2062 00FF
+
+[P1 Codes\Jederzeit Blocken]
+Type = Gameshark
+Activation = EndFrame
+800961AC 0000
+
+[P2 Codes\999.999 Punkte]
+Type = Gameshark
+Activation = EndFrame
+900B206C 000F423F
+
+[P2 Codes\Ue Lebensenergie]
+Type = Gameshark
+Activation = EndFrame
+300B2070 00FE
+
+[P2 Codes\Max Lebensenergie]
+Type = Gameshark
+Activation = EndFrame
+300B2072 00FE
+
+[P2 Codes\Ue Macht]
+Type = Gameshark
+Activation = EndFrame
+300B2078 00FE
+
+[P2 Codes\Max Macht]
+Type = Gameshark
+Activation = EndFrame
+300B207A 00FE
+
+[P2 Codes\Ue Spezialgegenstaende]
+Type = Gameshark
+Activation = EndFrame
+300B207E 00FF
+
+[P2 Codes\Jederzeit Blocken]
+Type = Gameshark
+Activation = EndFrame
+800961B8 0000
+
+[Obi Wan Kenobi Codes\Level 1 - 10 Freigeschaltet]
+Type = Gameshark
+Activation = EndFrame
+50000602 0000
+800B2240 0101
+
+[Obi Wan Kenobi Codes\Habe Alle FäHigkeiten]
+Type = Gameshark
+Activation = EndFrame
+50000602 0000
+8008C79A 0404
+
+[Qui-Gon Jinn Codes\Level 1 - 10 Freigeschaltet]
+Type = Gameshark
+Activation = EndFrame
+50000602 0000
+800B2260 0101
+
+[Qui-Gon Jinn Codes\Habe Alle FäHigkeiten]
+Type = Gameshark
+Activation = EndFrame
+50000602 0000
+8008C7AC 0404
+
+[Mace Windu Codes\Level 1 - 10 Freigeschaltet]
+Type = Gameshark
+Activation = EndFrame
+50000602 0000
+800B227E 0101
+
+[Mace Windu Codes\Habe Alle FäHigkeiten]
+Type = Gameshark
+Activation = EndFrame
+50000602 0000
+8008C7BE 0404
+
+[Plo Koon Codes\Level 1 - 10 Freigeschaltet]
+Type = Gameshark
+Activation = EndFrame
+50000602 0000
+800B22BC 0101
+
+[Plo Koon Codes\Habe Alle FäHigkeiten]
+Type = Gameshark
+Activation = EndFrame
+50000602 0000
+8008C7E2 0404
+
+[Adi Gallia Codes\Level 1 - 10 Freigeschaltet]
+Type = Gameshark
+Activation = EndFrame
+50000702 0000
+800B229E 0101
+
+[Adi Gallia Codes\Habe Alle FäHigkeiten]
+Type = Gameshark
+Activation = EndFrame
+50000602 0000
+8008C7D0 0404
+

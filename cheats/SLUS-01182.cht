@@ -1,0 +1,51 @@
+; CHTDB: ; [ Darkstone (USA) (2001) (Take-Two Interactive Software) {SLUS-01182} <drkstone> ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+800EB878 FFFF
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800EB8C0 0064
+800EB8C4 03E7
+
+[Infinite Mana]
+Type = Gameshark
+Activation = EndFrame
+800EB8C2 03E7
+800EB8C6 03E7
+
+[Have All Spells-Max Level]
+Type = Gameshark
+Activation = EndFrame
+D00EBB24 6F63
+50001010 0000
+300EB90C 0008
+D00EBB24 6F63
+50001010 0000
+300EB90E 0008
+D00EBB24 6F63
+50001010 0000
+300EB914 0008
+D00EBB24 6F63
+50001010 0000
+300EB916 0008
+
+[Have All Skills-Max Level]
+Type = Gameshark
+Activation = EndFrame
+D00EBB24 6F63
+50000B10 0000
+300EBA0C 000A
+D00EBB24 6F63
+50000B10 0000
+300EBA0E 000A
+D00EBB24 6F63
+50000B10 0000
+300EBA14 000A
+D00EBB24 6F63
+50000B10 0000
+300EBA16 000A
+

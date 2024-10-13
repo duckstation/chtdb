@@ -1,0 +1,13 @@
+; CHTDB: ; [ Memorial Star Series - Sunsoft Vol.4 - Chou Wakusei Senki Metafight & Ripple Island (Jpn) (2002) (Sunsoft) {SLPS-03382} <sunsoft4> ]
+
+[Infinite Lives Chou wakusei senki metafight]
+Type = Gameshark
+Activation = EndFrame
+800C2C3D 0003
+
+[Infinite Energy Chou wakusei senki metafight]
+Type = Gameshark
+Activation = EndFrame
+800C2F6C FF00
+800C2F6D 00FF
+

@@ -1,0 +1,12 @@
+; CHTDB: ; [ Herc's Adventures (Europe) {SLES-00653} ]
+
+[Infinite Power]
+Type = Gameshark
+Activation = EndFrame
+800C5238 0046
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800C5234 0032
+

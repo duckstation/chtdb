@@ -1,0 +1,8 @@
+; CHTDB: ; [ Batman: Gotham City Racer (Europe) {SLES-02874} ]
+
+[Increasing Time]
+Type = Gameshark
+Activation = EndFrame
+D0042B40 FFFF
+30042B40 0001
+

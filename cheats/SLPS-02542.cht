@@ -1,0 +1,95 @@
+; CHTDB: ; [ Summon Night (Japan) {SLPS-02542} ]
+
+[Infinite Energy Character 1]
+Type = Gameshark
+Activation = EndFrame
+90099404 03E703E7
+
+[Infinite Energy Gazel]
+Type = Gameshark
+Activation = EndFrame
+90099444 03E703E7
+
+[Charactere 1 Stats max]
+Type = Gameshark
+Activation = EndFrame
+800993FE 0063
+90099404 03E703E7
+90099408 03E703E7
+9009940C FFFFFFFF
+90099410 090909FF
+
+[Charactere 2 Stats max]
+Type = Gameshark
+Activation = EndFrame
+8009943E 0263
+90099444 03E703E7
+90099448 03E703E7
+9009944C FFFFFFFF
+90099450 090909FF
+
+[Charactere 3 Stats max]
+Type = Gameshark
+Activation = EndFrame
+8009947E 0063
+90099484 03E703E7
+90099488 03E703E7
+9009948C FFFFFFFF
+90099490 090909FF
+
+[Charactere 4 Stats max]
+Type = Gameshark
+Activation = EndFrame
+800994BE 0363
+900994C4 03E703E7
+900994C8 03E703E7
+900994CC FFFFFFFF
+900994D0 090909FF
+
+[Money 9999999]
+Type = Gameshark
+Activation = EndFrame
+90097AC4 0098967F
+
+[Stone Items 99]
+Type = Gameshark
+Activation = EndFrame
+8009D20A 6363
+9009D20C 63636363
+9009D210 63636363
+
+[Infinite Money (60000)]
+Type = Gameshark
+Activation = EndFrame
+80097AC4 EA60
+
+[All accessories MAX]
+Type = Gameshark
+Activation = EndFrame
+50004602 0000
+8009936A 6363
+
+[All Armor MAX]
+Type = Gameshark
+Activation = EndFrame
+50004602 0000
+8009D17A 6363
+
+[All weapons MAX]
+Type = Gameshark
+Activation = EndFrame
+50007902 0000
+8009D242 6363
+
+[All Items MAX]
+Type = Gameshark
+Activation = EndFrame
+50001802 0000
+8009D20A 6363
+
+[All summoning stone MAX]
+Type = Gameshark
+Activation = EndFrame
+50002602 0000
+8009D33A 6363
+

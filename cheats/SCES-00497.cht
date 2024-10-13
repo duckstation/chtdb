@@ -1,0 +1,47 @@
+; CHTDB: ; [ Tobal No. 1 (Europe) {SCES-00497} ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800CC9BC 07C0
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801F07EA 0100
+
+[P1 No Energy]
+Type = Gameshark
+Activation = EndFrame
+801F07EA 0000
+
+[P1 1-Hit Death]
+Type = Gameshark
+Activation = EndFrame
+A61F07EA 01000001
+
+[P2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801F2632 0100
+
+[P2 No Energy]
+Type = Gameshark
+Activation = EndFrame
+A61F2632 00000000
+
+[P2 1-Hit Death]
+Type = Gameshark
+Activation = EndFrame
+A61F2632 01000001
+
+[P1 Never Wins]
+Type = Gameshark
+Activation = EndFrame
+801F1218 0000
+
+[All Characters Selectable]
+Type = Gameshark
+Activation = EndFrame
+800DC656 1F0F
+

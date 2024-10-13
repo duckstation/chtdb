@@ -1,0 +1,12 @@
+; CHTDB: ; [ Simple 1500 Series Vol. 46: The Mahjong Ochigee: Raku Jongg (Japan) {SLPS-03035} ]
+
+[Player has 999000 points in Story mode]
+Type = Gameshark
+Activation = EndFrame
+9010BC70 000F3E58
+
+[Opponent has 0 points in Story mode]
+Type = Gameshark
+Activation = EndFrame
+8010D020 0000
+

@@ -1,0 +1,7 @@
+; CHTDB: ; [ Zeus II: Carnage Heart (Japan) {SLPS-02318} ]
+
+[Main unit infinite AP]
+Type = Gameshark
+Activation = EndFrame
+800C835C 23F0
+

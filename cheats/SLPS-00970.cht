@@ -1,0 +1,33 @@
+; CHTDB: ; [ Kosodate Quiz My Angel (Japan) {SLPS-00970} ]
+
+[P1 Infinite Hearts]
+Type = Gameshark
+Activation = EndFrame
+800818D2 0003
+
+[P2 Infinite Hearts]
+Type = Gameshark
+Activation = EndFrame
+800818EE 0003
+
+[P1 Infinite Money Bar]
+Type = Gameshark
+Activation = EndFrame
+8007810A 0140
+
+[Child support MAX]
+Type = Gameshark
+Activation = EndFrame
+90081B38 3B9AC9FE
+
+[Quota remaining one question]
+Type = Gameshark
+Activation = EndFrame
+3008193C 0001
+3008193E 0001
+
+[Wedding suddenly]
+Type = Gameshark
+Activation = EndFrame
+80081B2E 0001
+

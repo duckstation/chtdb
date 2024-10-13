@@ -1,0 +1,18 @@
+; CHTDB: ; [ FOX Sports Golf '99 (USA) (1998) (Fox Interactive) {SLUS-00636} <foxglf99> ]
+
+[Skip FMV]
+Type = Gameshark
+Activation = EndFrame
+D001784C 7ED2
+8001784E 2400
+
+[Only One Shot Recorded]
+Type = Gameshark
+Activation = EndFrame
+8018CF18 0000
+
+[Shot Score = 0]
+Type = Gameshark
+Activation = EndFrame
+801C9038 0000
+

@@ -1,0 +1,29 @@
+; CHTDB: ; [ Boxing (USA) (2001) (Agetec / A1 Games) {SLUS-01309} <boxing> ]
+
+[Extra Points]
+Type = Gameshark
+Activation = EndFrame
+801FE850 FFFF
+
+[Unlock All Characters]
+Type = Gameshark
+Activation = EndFrame
+50000702 0000
+801FE6D0 0101
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801FEDD8 0AF0
+801FEDDC 0AF0
+
+[Infinite Stamina]
+Type = Gameshark
+Activation = EndFrame
+801FEDE0 0AF0
+
+[Infinite Rush]
+Type = Gameshark
+Activation = EndFrame
+801FEDD0 0032
+

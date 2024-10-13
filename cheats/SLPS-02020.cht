@@ -1,0 +1,88 @@
+; CHTDB: ; [ Ace Combat 3: Electrosphere (Japan) {SLPS-02020 | SLPS-02021} ]
+
+[Invincibility against Buildings & Ground]
+Type = Gameshark
+Activation = EndFrame
+A7072502 10401000
+
+[Infinite Missiles]
+Type = Gameshark
+Activation = EndFrame
+A7071AC8 FFFF0000
+
+[Rapid Missile Fire]
+Type = Gameshark
+Activation = EndFrame
+A70719E2 A0860000
+;All commented out - the few I tried are nosense
+;#Infinite Time For Battle
+;A6054332 24422402
+;#Infinite Time For Landing
+;D0054D6A 2442
+;80054D68 0000
+;#Infinite Time For Story
+;D005434A 2442
+;80054348 0000
+;D005437A 2442
+;80054378 0000
+;D0054526 2442
+;80054524 0000
+;#Infinite Missiles
+;800719A4 0000
+;#Can Use Missiles Continously
+;A60718B4 00040001
+;#Invincibility
+;A7072382 10401000
+;A70723C2 10401000
+;A7073886 10401000
+;#Infinite HP
+;90072498 00000000
+;90072214 00000000
+;800723F0 0064
+;#Can Use All Aircrafts (.It will display the same aircraft in selection screen, but you can use left right to change aircrafts...)
+;D00BF32E 0100
+;800006FC 0000
+;D00BF32E 0200
+;800006FC 0024
+;D00FA174 0037
+;800FA176 0C00
+;D00FA174 0037
+;800FA178 0001
+;D00FA174 0037
+;800FA17A 2404
+;D00FA214 000F
+;800FA216 0C00
+;D00FA214 000F
+;800FA218 FFFF
+;D00FA214 000F
+;800FA21A 2404
+;D00FA5E0 FAB5
+;800FA5D8 01C0
+;D00FA5E0 FAB5
+;800FA5DA 0800
+;D00FA5E0 FAB5
+;800FA5DC 06FC
+;D00FA5E0 FAB5
+;800FA5DE 8002
+;A60FA174 00370200
+;A60FA214 000F0200
+;90000700 8464038C
+;90000704 00003021
+;90000708 0803E978
+;90000800 8C0206FC
+;90000808 00441021
+;90000810 AC0206FC
+;90000818 03E00008
+;9000081C 24020000
+;#Search engine (SEARCH) all selectable
+;50001F02 0000
+;800C0018 0202
+;#History information (ARCHIVE) all selectable
+;300C0116 0002
+;50004A02 0000
+;800C0082 0202
+;#Mission Select last enemy / m3 # 0 (00-3B)
+;300BF65C 0039
+;#Mission electrosphere # 1 / end-b
+;300BF65C 003A
+

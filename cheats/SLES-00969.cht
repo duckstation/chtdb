@@ -1,0 +1,33 @@
+; CHTDB: ; [ Resident Evil: Director's Cut (Europe) {SLES-00969} ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800C51AC 00C8
+
+[L1 + X Button For Save Anywhere (Maybe needs 1 Ink Ribbon)]
+Type = Gameshark
+Activation = EndFrame
+D00Cf844 0044
+800C8456 0002
+800343F2 2400
+8003446E 2400
+
+[Infinite Ammo Gun]
+Type = Gameshark
+Activation = EndFrame
+800C8786 0F02
+
+[Have All Maps and Files]
+Type = Gameshark
+Activation = EndFrame
+300C8714 003F
+900C871C FFFF0FFF
+300C8721 00CF
+800C8722 FFFF
+
+[Infinite Ink ribbons when you get one]
+Type = Gameshark
+Activation = EndFrame
+800345FA 2402
+

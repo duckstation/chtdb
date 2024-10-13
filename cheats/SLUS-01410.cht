@@ -1,0 +1,96 @@
+; CHTDB: ; [ Razor Racing (USA) (2001) (Crave Entertainment) {SLUS-01410} <rzrracng> ]
+
+[Unlock City Thrashers]
+Type = Gameshark
+Activation = EndFrame
+9009E3A4 FFFFFFFF
+9009E3A8 FFFFFFFF
+9009E3AC FFFFFFFF
+9009E3B0 FFFFFFFF
+
+[Unlock East. Lightning]
+Type = Gameshark
+Activation = EndFrame
+9009E394 FFFFFFFF
+9009E398 FFFFFFFF
+9009E39C FFFFFFFF
+9009E3A0 FFFFFFFF
+
+[Unlock Front Runners]
+Type = Gameshark
+Activation = EndFrame
+9009E384 FFFFFFFF
+9009E388 FFFFFFFF
+9009E38C FFFFFFFF
+9009E390 FFFFFFFF
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800A0A0C DB83
+
+[Max Score]
+Type = Gameshark
+Activation = EndFrame
+900A0594 05F5E0FF
+
+[Unlock Melissa]
+Type = Gameshark
+Activation = EndFrame
+3009E388 00FF
+
+[Unlock Tank]
+Type = Gameshark
+Activation = EndFrame
+3009E38C 00FF
+
+[Unlock Ref]
+Type = Gameshark
+Activation = EndFrame
+3009E390 00FF
+
+[Unlock Claudida]
+Type = Gameshark
+Activation = EndFrame
+3009E398 00FF
+
+[Unlock Chippy]
+Type = Gameshark
+Activation = EndFrame
+3009E39C 00FF
+
+[Unlock Professor Otto Von Thrash]
+Type = Gameshark
+Activation = EndFrame
+3009E3A0 00FF
+
+[Unlock Mikey]
+Type = Gameshark
+Activation = EndFrame
+3009E3A8 00FF
+
+[Unlock Streak]
+Type = Gameshark
+Activation = EndFrame
+3009E3AC 00FF
+
+[Unlock Granny]
+Type = Gameshark
+Activation = EndFrame
+3009E3B0 00FF
+
+[Unlock All Scooters of Front Runners]
+Type = Gameshark
+Activation = EndFrame
+3009E384 00FF
+
+[Unlock All Scooters of East. Lightning]
+Type = Gameshark
+Activation = EndFrame
+3009E394 00FF
+
+[Unlock All Scooters City Thrashers]
+Type = Gameshark
+Activation = EndFrame
+3009E3A4 00FF
+

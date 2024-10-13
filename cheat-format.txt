@@ -1,0 +1,806 @@
+;*******************************************************************************
+;Duckstation Cheat File
+;**********************
+;
+; To edit this file I recommend Notepad++ and set up a user defined language
+; for the cheat File as it helps readability.
+;
+;1. Start any comment lines with a semi-colon, this can be useful to split up
+;   sections of cheats to improve readability as well as adding comments to
+;   aid in understanding of the cheats. These comments do not appear in
+;   Duckstation so remember to keep explanations in cheats for users. Try to
+;   keep comment lines under 80 characters
+;
+;2. Cheat Naming conventions for multiplayer games is 'Px Cheat Description'
+;   where x is the player number. Eg. P1 Infinite Lives. If the cheat is for all
+;   players or you have only tested it for P1 then don't mention P1 eg
+;   'Infinite Lives'
+;
+;3. Try to order cheats in a logical order if possible, like so:
+;   * Cheats for all Players for all levels
+;   * Cheats for P1 for all levels
+;   * Cheats for P2 for all levels
+;   * Cheats for P3 for all levels
+;   * Cheats for P4 for all levels
+;   * Cheats for all Players for level 1
+;   * Cheats for P1 for level 1
+;   * Cheats for P2 for level 1
+;   * Cheats for P3 for level 1
+;   * Cheats for P4 for level 1
+;   * Cheats for all Players for level 2
+;   * Cheats for P1 for level 2
+;   * Cheats for P2 for level 2
+;   * Cheats for P3 for level 2
+;   * Cheats for P4 for level 2
+;     repeat for other levels
+;   * Cheats that you don't want to appear in the above list, I think this
+;      should be kept for Debug Mode Cheats, 60FPS Cheats and the like.
+;
+;4. Cheats should be grouped if possible and worthwhile using the backslash '\'
+;   character. Especially true for cheats that poke the same address(es) with
+;   different value(s). This will make the cheat menus easier to skip long
+;   option lists when you only need to enable one option.
+;
+;5. Header format:
+;  ; [ Game Name (Region) (Year) (Publisher) {GAME_ID Numbers} <mameshortname> ]
+;  :GAME_ID1
+;  :GAME_ID2  <--repeat as necessary
+;
+; Well that's the plan anyway....let's see how it tracks out  Pugsy, 04 DEC 2020
+;
+;
+; CODE FORMAT INFORMATION
+; ***********************
+;
+; (address) = the current value stored in the address
+;
+; NOTE: Codes will only ever contain hexadecimal characters (0-F) any other
+;       characters (like WXYZ) in the following descriptions are for
+;       documentation purposes only.
+;
+;  8 Char by 8 Char Code Types (includes 32 bit codes)
+;  ***************************************************
+;* 90XXXXXX YYYYYYYY - 32-Bit Constant Write, Poke $80XXXXXX with 0xYYYYYYYY
+;* 91XXXXXX YYYYYYYY - 32-Bit Constant Bit Set, OR ($80XXXXXX) with 0xYYYYYYYY and Poke
+;* 92XXXXXX YYYYYYYY - 32-Bit Constant Bit Clear, AND ($80XXXXXX) with ~0xYYYYYYYY and Poke
+;* A0XXXXXX YYYYYYYY - 32-Bit If Equal To, activate next code if (80XXXXXX)==0xYYYYYYYY
+;* A1XXXXXX YYYYYYYY - 32-Bit If Not Equal To, activate next code if (80XXXXXX)!=0xYYYYYYYY
+;* A2XXXXXX YYYYYYYY - 32-Bit If Less Than, activate next code if (80XXXXXX)<0xYYYYYYYY
+;* A3XXXXXX YYYYYYYY - 32-Bit If Greater Than, activate next code if (80XXXXXX)>0xYYYYYYYY
+;* 60XXXXXX YYYYYYYY - 32-Bit Increment Once, Poke $80XXXXXX with ($80XXXXXX)+0xYYYYYYYY
+;* 61XXXXXX YYYYYYYY - 32-Bit Decrement Once, Poke $80XXXXXX with ($80XXXXXX)-0xYYYYYYYY
+;* A5000XXX YYYYYYYY - 32-Bit Scratchpad Constant Write, Poke $1F800XXX with
+;                      YYYYYYYY, where XXX is between 000 & 3FF.
+;* A6XXXXXX YYYYZZZZ - 16-Bit If Equal To Write, if (80XXXXXX)==0xYYYY, Poke
+;                      $80XXXXXX with 0xZZZZ. Single line alternative to a D0,80
+;                      code which use the same address.
+;* A7XXXXXX YYYYZZZZ - 16-Bit If Equal To Write with Restore, if
+;                      (80XXXXXX)==0xYYYY, Poke $80XXXXXX with 0xZZZZ. On
+;                      disabling the cheat if (80XXXXXX)==0xZZZZ, Poke $80XXXXXX
+;                      with 0xYYYY. This can be used for a ASM cheat that has
+;                      poked dynamic memory with less danger of crashing the
+;                      game or for 16:9 cheats to go back to 4:3 when disabled
+;* F0XXXXXX HHSSULLL - 8-Bit Force Range, if (80XXXXXX)<0xLL, Poke $80XXXXXX with
+;                      0xSS. If (80XXXXXX)>0xUL, Poke $80XXXXXX with 0xHH.
+;* F1XXXXXX ULULLLLL - 16-Bit Force Range to Limit, if (80XXXXXX)<0xLLLL, Poke
+;                      $80XXXXXX with 0xLLLL. If (80XXXXXX)>0xULUL, Poke
+;                      $80XXXXXX with 0xULUL.
+;* F2XXXXXX ULULLLLL - 16-Bit Force Range to Opposite Limit, if
+;                      (80XXXXXX)<0xLLLL, Poke $80XXXXXX with 0xULUL. If
+;                      (80XXXXXX)>0xULUL, Poke $80XXXXXX with 0xLLLL.
+;* F3XXXXXX ULULLLLL - 16-Bit Force Range, if (80XXXXXX)<0xLLLL, Poke $80XXXXXX
+;  F3000000 HHHHSSSS   with 0xSSSS. If (80XXXXXX)>0xULUL, Poke $80XXXXXX with
+;                      0xHHHH.
+;* F4XXXXXY 00WWSIZE - 8-Bit Find and Replace, Find and Replace for 16 bytes.
+;  aabbccdd eeffgghh   WW = Wildcard Byte, SIZE = Size of Area to Search/4 so FFFF=256K,
+;  iijjkkll mmnnoopp   XXXXXY = Address @ centre of Search Area (Y must be even 0/2/4/6/8/A/C/E)
+;  AABBCCDD EEFFGGHH   Find aa,bb,cc,dd,ee,ff,gg,hh,ii,jj,kk,ll,mm,nn,oo,pp and
+;  IIJJKKLL MMNNOOPP   replace with AA,BB,CC,DD,EE,FF,GG,HH,II,JJ,KK,LL,MM,NN,OO,PP.
+;                      Any byte matching the WW character in the find bytes will
+;                      be ignored. Any byte matching the WW character in the
+;                      replace bytes will be ignored, ideally all bytes in the
+;                      replace line should be WW with the exception of where
+;                      an actual replacement is required.
+;* F5XXXXXX YYYYZZZZ - 16-Bit Toggle, if (80XXXXXX)=0xYYYY, Poke $80XXXXXX
+;                      with 0xZZZZ. if (80XXXXXX)=0xZZZZ, Poke $80XXXXXX with
+;                      0xYYYY.
+;  16 Bit Code Types
+;  *****************
+;* 80XXXXXX YYYY - 16-Bit Constant Write, Poke $80XXXXXX with 0xYYYY  **COMMON**
+;* 81XXXXXX YYYY - 16-Bit Constant Bit Set, OR ($80XXXXXX) with 0xYYYY and Poke
+;* 82XXXXXX YYYY - 16-Bit Constant Bit Clear, AND ($80XXXXXX) with ~0xYYYY and Poke
+;* D0XXXXXX YYYY - 16-Bit If Equal To, activate next code if (80XXXXXX)==0xYYYY
+;* D1XXXXXX YYYY - 16-Bit If Not Equal To, activate next code if (80XXXXXX)!=0xYYYY
+;* D2XXXXXX YYYY - 16-Bit If Less Than, activate next code if (80XXXXXX)<0xYYYY
+;* D3XXXXXX YYYY - 16-Bit If Greater Than, activate next code if (80XXXXXX)>0xYYYY
+;* D4000000 YYYY - 16-Bit Universal Joker, add up the hex values to combine into
+;                  a multi-button joker.
+;                         0000 Nothing
+;                         0001 L2 Button
+;                         0002 R2 Button
+;                         0004 L1 Button
+;                         0008 R1 Button
+;                         0010 Triangle Button
+;                         0020 Circle Button
+;                         0040 X Button
+;                         0080 Square Button
+;                         0100 Select Button
+;                         0200 L3 Button
+;                         0400 R3 Button
+;                         0800 Start Button
+;                         1000 Up Direction
+;                         2000 Right Direction
+;                         4000 Down Direction
+;                         8000 Left Direction
+;* 10XXXXXX YYYY - 16-Bit Increment Once, Poke $80XXXXXX with ($80XXXXXX)+0xYYYY
+;* 11XXXXXX YYYY - 16-Bit Decrement Once, Poke $80XXXXXX with ($80XXXXXX)-0xYYYY
+;* 1F000XXX YYYY - 16-Bit Scratchpad Constant Write, Poke $1F800XXX with YYYY,
+;                      where XXX is between 000 & 3FF.
+
+;  8 Bit Code Types
+;  ****************
+;* 30XXXXXX 00YY - 8-Bit Constant Write, Poke $80XXXXXX with 0xYY     **COMMON**
+;* 31XXXXXX 00YY - 8-Bit Constant Bit Set, OR ($80XXXXXX) with 0xYY and Poke
+;* 32XXXXXX 00YY - 8-Bit Constant Bit Clear, AND ($80XXXXXX) with ~0xYY and Poke
+;* E0XXXXXX 00YY - 8-Bit If Equal To, activate next code if (80XXXXXX)==0xYY
+;* E1XXXXXX 00YY - 8-Bit If Not Equal To, activate next code if (80XXXXXX)!=0xYY
+;* E2XXXXXX 00YY - 8-Bit If Less Than, activate next code if (80XXXXXX)<0xYY
+;* E3XXXXXX 00YY - 8-Bit If Greater Than, activate next code if (80XXXXXX)>0xYY
+;* 20XXXXXX 00YY - 8-Bit Increment Once, Poke $80XXXXXX with ($80XXXXXX)+0xYY
+;* 21XXXXXX 00YY - 8-Bit Decrement Once ,Poke $80XXXXXX with ($80XXXXXX)-0xYY
+;
+;  Copy Data Code Types
+;  ********************
+;* C2XXXXXX YYYY - Copy Memory, copy memory between $80XXXXXX and $80XXXXXX+0xYYYY
+;* 80ZZZZZZ 0000                              to $80ZZZZZZ
+;* 5000PPQQ TTTT - Serial Repeater/Slide, pokes multiple serially increasing
+;  X0YYYYYY ZZZZ                    addresses with a possible increasing value.
+;                    poke_size = X0 (30 for byte or 80 for word)
+;                    start_address = YYYYYY
+;                    start_value = ZZZZ
+;                    number_of_addresses = PP (needs to be >02 to be worthwhile)
+;                    address_step = QQ (commonly 01 for type 30, 02 for type 80)
+;                    value_step = TTTT (most commonly 0000)
+;* 53WVPPPP QQQQTTTT - Improved Serial Repeater/Slide, pokes multiple serially changing
+;  X0YYYYYY ZZZZZZZZ   addresses with a possible changing value.
+;                    address_change = W ( 0 = increasing, 1 = decreasing)
+;                    value_change = V ( 0 = increasing, 1 = decreasing)
+;                    poke_size = X0 (30 for byte, 80 for word or 90 for longword)
+;                    start_address = YYYYYY
+;                    start_value = ZZZZZZZZ
+;                    number_of_addresses = PPPP (needs to be >02 to be worthwhile)
+;                    address_step = QQQQ (commonly 01 for type 30, 02 for
+;                                         type 80, 04 for type 90)
+;                    value_step = TTTT (most commonly 0000)
+;
+;  Block Conditionals
+;  ******************
+;  If the condition is met these will execute all the following codes to either
+;  a 000000000 FFFF line is reached or it reaches the end of that cheat. You
+;  should always use a 00000000 FFFF line though (dont be lazy!).
+;
+;* A4XXXXXX YYYYYYYY - 32-Bit Master Code, if ($XXXXXX) contains 0xYYYYYYYY poke
+;  00000000 FFFF       all following codes for rest of the cheat or until it reaches
+;                      the 00000000 FFFF line.
+;* C0XXXXXX YYYY - 16-Bit Master Code, if ($XXXXXX) contains 0xYYYY poke all
+;  00000000 FFFF       following codes for rest of the cheat or until it reaches the
+;                      00000000 FFFF line.
+;* C3XXXXXX 00YY - 8-Bit Master Code, if ($XXXXXX) is less than 0xYY poke all
+;  00000000 FFFF       following codes for rest of the cheat or until it reaches the
+;                      00000000 FFFF line.
+;* C4XXXXXX 00YY - 8-Bit Master Code, if ($XXXXXX) is greater than 0xYY poke all
+;  00000000 FFFF       following codes for rest of the cheat or until it reaches the
+;                      00000000 FFFF line.
+;* C5XXXXXX YYYY - 16-Bit Master Code, if ($XXXXXX) is less than 0xYYYY poke all
+;  00000000 FFFF       following codes for rest of the cheat or until it reaches the
+;                      00000000 FFFF line.
+;* C6XXXXXX YYYY - 16-Bit Master Code, if ($XXXXXX) is greater than 0xYYYY poke all
+;  00000000 FFFF       following codes for rest of the cheat or until it reaches the
+;                      00000000 FFFF line.
+;* D5000000 YYYY - 16-Bit All Codes On
+;* D6000000 YYYY - 16-Bit All Codes Off
+;* D7PQRRRR TTYYYYYY - 24-Bit Universal BIT Joker, OR the hex values to
+;                     combine into a multi-button joker. Because it is BIT
+;                     based it is better than D4, D5, D6 or using a D0 joker as
+;                     you do not need to worry about any other buttons being
+;                     pressed at the same time and you get both analog
+;                     sticks for extra functionality. Note if you want to use it
+;                     just as a enhanced joker just use D7000000 00YYYYYY when
+;                     the buttons/directions are pressed or D7100000 00YYYYYY
+;                     when you want to ensure they are not all pressed.
+;                        YYYYYY = 000001 L2 Button
+;                        YYYYYY = 000002 R2 Button
+;                        YYYYYY = 000004 L1 Button
+;                        YYYYYY = 000008 R1 Button
+;                        YYYYYY = 000010 Triangle Button
+;                        YYYYYY = 000020 Circle Button
+;                        YYYYYY = 000040 X Button
+;                        YYYYYY = 000080 Square Button
+;                        YYYYYY = 000100 Select Button
+;                        YYYYYY = 000200 L3 Button
+;                        YYYYYY = 000400 R3 Button
+;                        YYYYYY = 000800 Start Button
+;                        YYYYYY = 001000 Up (Digital)
+;                        YYYYYY = 002000 Right (Digital)
+;                        YYYYYY = 004000 Down (Digital)
+;                        YYYYYY = 008000 Left (Digital)
+;                        YYYYYY = 010000 Up (Right Thumb)
+;                        YYYYYY = 020000 Right (Right Thumb)
+;                        YYYYYY = 040000 Down (Right Thumb)
+;                        YYYYYY = 080000 Left (Right Thumb)
+;                        YYYYYY = 100000 Up (Left Thumb)
+;                        YYYYYY = 200000 Right (Left Thumb)
+;                        YYYYYY = 400000 Down (Left Thumb)
+;                        YYYYYY = 800000 Left (Left Thumb)
+;                      P = 0 or 1. 0 = Check ALL YYYYYY Bits are ON
+;                                  1 = Check ALL YYYYYY Bits are OFF
+;
+;                     QRRRR TT provides the capability of only activating the
+;                     following codes after the keys have been held in for a set
+;                     amount of frames. 003C = 60 Frames = 1 Second at 100% Speed.
+;                       Q = Frame Comparison 0 = Dont do any comparison
+;                                            1 = Check that the button combination
+;                                                has been held down for exactly
+;                                                RRRR frames.
+;                                            2 = Check that the button combination
+;                                                has been held down for at least
+;                                                RRRR frames.
+;                                            3 = Check that the button combination
+;                                                has been held down for less than
+;                                                RRRR frames.
+;                                            4 = Check that the button combination
+;                                                has been held down for anything
+;                                                but RRRR frames.
+;                       TT=Temp Register 00-FF, 00 will mean it wont be used, if
+;                            it's not 00 do not use the same value for jokers
+;                            using different keypress combinations for the same
+;                            game.
+;                       RRRR = 0000 to FFFF, Frame Comparison Value
+;                       NOTE: If you have multiple D7 lines using frame counting
+;                             and the same register, the temp register will be
+;                             out by that factor. Eg. If you have 2 D7 lines
+;                             accessing register 05, then after 60 frames -
+;                             register 05 will contain 120 (0x78)
+;
+;                      It will then poke all following codes for rest of cheat
+;  00000000 FFFF       or until it reaches the 00000000 FFFF line.
+;
+;* 52XXXXXX YYYYYYYY - Register Master Code, if ($XXXXXX) contains 0xYYYYYYYY poke
+;  00000000 FFFF       all following codes for rest of the cheat or until it reaches
+;                      the 00000000 FFFF line.
+;
+;  Other Code Types
+;  ****************
+;  These are only needed on hardware when you can't enable & disable codes after
+;  the game has started without the use of delays or global jokers. They are
+;  supported by Duckstation but ideally dont use them if you can help it.
+;* C1XXXXXX YYYY - Activate Codes On Delay
+;
+;  Register Code Types
+;  *******************
+;  These codes utilise the internal global 256 32-bit cheat registers. As they
+;  are global they will work across all cheats for a game so be careful not
+;  to re-use registers unintendingly. Type 51 codes can be used to copy and
+;  manipulate register contents between registers and memory. Type 52 codes are
+;  block conditionals that you can test the registers with and branch accordingly.
+;
+;  These code types will only need to be used with very advanced cheats, only
+;  use them if you need them as they may blow your mind....
+;
+;  General Notes:
+;  ==============
+;  RegXX or RegYY means the immediate value of the register
+;  (RegXX) or (RegYY) means the indirect value of the register = contents of the
+;                     address held in RegXX or RegYY
+;  TTTTTTTT = Write to Address TTTTTTTT
+;  (TTTTTTTT) = Read from Address TTTTTTTT
+;  ZZ,ZZZZ,ZZZZZZZ = Value
+;  Note RegXX, RegYY, RegWW can be the same register
+;
+;  8 BIT operations:
+;  =================
+;* 510000XX TTTTTTTT - 8-Bit Address Write from Register, Poke address TTTTTTTT
+;                      with the 8-bit contents of Register XX.
+;                      u8Poke TTTTTTTT, RegXX
+;* 510100XX TTTTTTTT - 8-Bit Address Read to Register, Peek the 8-bit contents of
+;                      address TTTTTTTT and store it in Register XX.
+;                      u8Poke RegXX, (TTTTTTTT)
+;* 510200XX 000000ZZ - 8-Bit Indirect Register Write, poke ZZ to the 32-Bit
+;                      address stored in Register XX.
+;                      u8Poke (RegXX), ZZ
+;* 5103YYXX 000000ZZ - 8-Bit Register Addition, add ZZ and the 8-bit contents
+;                      of Register YY together and write it to Register XX.
+;                      u8Poke RegXX, RegYY + ZZ
+;* 5104YYXX 000000ZZ - 8-Bit Indirect Register Write with addition, add ZZ and
+;                      the 8-bit contents of Register YY together and write it
+;                      to the 32-Bit address stored in Register XX.
+;                      u8Poke (RegXX), RegYY + ZZ
+;* 510500XX 000000ZZ - 8-Bit Direct Register Write, poke ZZ to Register XX.
+;                      u8Poke RegXX, ZZ
+;* 5106YYXX ZZZZZZZZ - 8-Bit Indirect Register Read, Peek the 8-bit contents
+;                      of (32-Bit address in Register YY + ZZZZZZZZ) and write it
+;                      to Register XX.
+;                      u8Poke RegXX, (RegYY + ZZZZZZZZ)
+;
+; 16 BIT operations:
+; ==================
+;* 514000XX TTTTTTTT - 16-Bit Address Write from Register, Poke address TTTTTTTT
+;                      with the 16-bit contents of Register XX.
+;                      u16Poke TTTTTTTT, RegXX
+;* 514100XX TTTTTTTT - 16-Bit Address Read to Register, Peek the 16-bit contents
+;                      of address TTTTTTTT and store it in Register XX.
+;                      u16Poke RegXX, (TTTTTTTT)
+;* 514200XX 0000ZZZZ - 16-Bit Indirect Register Write, poke ZZZZ to the 32-Bit
+;                      address stored in Register XX.
+;                      u16Poke (RegXX), ZZZZ
+;* 5143YYXX 0000ZZZZ - 16-Bit Register Addition, add ZZZZ and the 16 bit contents
+;                      of Register YY together and write it to Register XX.
+;                      u16Poke RegXX, RegYY + ZZZZ
+;* 5144YYXX 0000ZZZZ - 16-Bit Indirect Register Write with addition, add ZZZZ
+;                      and the 16 bit contents of Register YY together and write
+;                      it to the 32-Bit address stored in Register XX.
+;                      u16Poke (RegXX), RegYY + ZZZZ
+;* 514500XX 0000ZZZZ - 16-Bit Direct Register Write, poke ZZZZ to Register XX.
+;                      u16Poke RegXX, ZZZZ
+;* 5146YYXX ZZZZZZZZ - 16-Bit Indirect Register Read, Peek the 16-bit contents
+;                      of (32-Bit address in Register YY + ZZZZZZZZ) and write it
+;                      to Register XX.
+;                      u16Poke RegXX, (RegYY + ZZZZZZZZ)
+;
+; 32 BIT operations:
+; ==================
+;* 518000XX TTTTTTTT - 32-Bit Address Write from Register, Poke address TTTTTTTT
+;                      with the 32-bit contents of Register XX.
+;                      u32Poke TTTTTTTT, RegXX
+;* 518100XX TTTTTTTT - 32-Bit Address Read to Register, Peek the 32-bit contents
+;                      of address TTTTTTTT and store it in Register XX.
+;                      u32Poke RegXX, (TTTTTTTT)
+;* 518200XX ZZZZZZZZ - 32-Bit Indirect Register Write, poke ZZZZZZZZ to the
+;                      32-Bit address stored in Register XX.
+;                      u32Poke (RegXX), ZZZZZZZZ
+;* 5183YYXX ZZZZZZZZ - 32-Bit Register Addition, add ZZZZZZZZ and the 32 bit
+;                      contents of Register YY together and write it to
+;                      Register XX.
+;                      u32Poke RegXX, RegYY + ZZZZZZZZ
+;* 5184YYXX 0000ZZZZ - 32-Bit Indirect Register Write with addition, add
+;                      ZZZZZZZZ and the 32 bit contents of Register YY together
+;                      and write it to the 32-Bit address stored in Register XX.
+;                      u32Poke (RegXX), RegYY + ZZZZZZZZ
+;* 518500XX ZZZZZZZZ - 32-Bit Direct Register Write, poke ZZZZZZZZ to Register XX.
+;                      u32Poke RegXX, ZZZZZZZZ. Note: This is useful to write
+;                      the actual address to a register.
+;* 5186YYXX ZZZZZZZZ - 32-Bit Indirect Register Read, Peek the 32-bit contents
+;                      of (32-Bit address in Register YY + ZZZZZZZZ) and write it
+;                      to Register XX.
+;                      u32Poke RegXX, (RegYY + ZZZZZZZZ)
+;
+; Generic Register Operations:
+; ============================
+; All these generic register only codes are 32 Bit, but you can read any register
+; register as a u8, u16 or a u32.
+;
+;* 51C0YYXX 000000RR - Add Register YY to Register XX and store result in
+;                      Register RR.
+;                      u32Poke RegRR, RegYY + RegXX
+;* 51C1YYXX 000000RR - Subtract Register XX from Register YY and store result in
+;                      Register RR.
+;                      u32Poke RegRR, RegYY - RegXX
+;* 51C2YYXX 000000RR - Multiply Register YY by Register XX and store result in
+;                      Register RR.
+;                      u32Poke RegRR, RegYY * RegXX
+;* 51C3YYXX 000000RR - Divide Register YY by Register XX and store result in
+;                      Register RR. Note: If Register XX contains 0, RR will be
+;                      set to 0.
+;                      u32Poke RegRR, RegYY / RegXX
+;* 51C4YYXX 000000RR - Divide Register YY by Register XX and store remainder in
+;                      Register RR. Note: If Register XX contains 0, RR will be
+;                      set to RegYY.
+;                      u32Poke RegRR, RegYY % RegXX
+;* 51C5YYXX 000000RR - Bitwise AND Register YY and Register XX and store result
+;                      in Register RR.
+;                      u32Poke RegRR, RegYY & RegXX
+;* 51C6YYXX 000000RR - Bitwise OR Register YY and Register XX and store result
+;                      in Register RR.
+;                      u32Poke RegRR, RegYY | RegXX
+;* 51C7YYXX 000000RR - Bitwise XOR Register YY and Register XX and store result
+;                      in Register RR.
+;                      u32Poke RegRR, RegYY ^ RegXX
+;* 51C800XX 000000RR - Bitwise NOT Register XX and store result in Register RR.
+;                      aka One's Complement
+;                      u32Poke RegRR, ~RegXX
+;* 51C9TTXX 000000RR - Bitwise LSHIFT Register XX by TT and store result in
+;                      Register RR.
+;                      u32Poke RegRR, RegXX << TT
+;* 51CATTXX 000000RR - Bitwise RSHIFT Register XX by TT and store result in
+;                      Register RR.
+;                      u32Poke RegRR, RegXX >> TT
+;*********************************NEW TO BE ADDED*********************************
+;* 51D0YYXX ZZZZZZZZ - Bitwise AND Register YY with ZZZZZZZZ and store result
+;                      in Register XX.
+;                      u32Poke RegXX, RegYY & ZZZZZZZZ
+;* 51D1YYXX ZZZZZZZZ - Bitwise OR Register YY with ZZZZZZZZ and store result
+;                      in Register XX.
+;                      u32Poke RegXX, RegYY | ZZZZZZZZ
+;* 51D2YYXX ZZZZZZZZ - Bitwise XOR Register YY with ZZZZZZZZ and store result
+;                      in Register XX.
+;                      u32Poke RegXX, RegYY ^ ZZZZZZZZ
+;
+; Register Block Conditionals:
+; ============================
+;
+;* 5200YYXX 00000000 - If u8RegYY == u8RegXX poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 5201YYXX 00000000 - If u8RegYY != u8RegXX poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 5202YYXX 00000000 - If u8RegYY > u8RegXX poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 5203YYXX 00000000 - If u8RegYY => u8RegXX poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 5204YYXX 00000000 - If u8RegYY < u8RegXX poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 5205YYXX 00000000 - If u8RegYY =< u8RegXX poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 5206YYXX 00000000 - If u8RegYY & u8RegXX = u8RegXX poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 5207YYXX 00000000 - If u8RegYY & u8RegXX != u8RegXX poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 520AYYXX 00000000 - If u8RegYY & u8RegXX = u8RegYY poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 520BYYXX 00000000 - If u8RegYY & u8RegXX != u8RegYY poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 521000XX 000000ZZ - If u8RegXX == ZZ poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 521100XX 000000ZZ - If u8RegXX != ZZ poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 521200XX 000000ZZ - If u8RegXX > ZZ poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 521300XX 000000ZZ - If u8RegXX => ZZ poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 521400XX 000000ZZ - If u8RegXX < ZZ poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 521500XX 000000ZZ - If u8RegXX =< ZZ poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 521600XX 000000ZZ - If u8RegXX & ZZ = ZZ poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 521700XX 000000ZZ - If u8RegXX & ZZ != ZZ poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 521800XX 00TT00ZZ - If u8RegXX > ZZ && u8RegXX < TT poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 521900XX 00TT00ZZ - If u8RegXX => ZZ && u8RegXX <= TT poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 521A00XX 000000ZZ - If u8RegXX & ZZ = u8RegXX poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 521B00XX 000000ZZ - If u8RegXX & ZZ != u8RegXX poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 5220YYXX 00000000 - If u8(RegYY) == u8(RegXX) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 5221YYXX 00000000 - If u8(RegYY) != u8(RegXX) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 5222YYXX 00000000 - If u8(RegYY) > u8(RegXX) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 5223YYXX 00000000 - If u8(RegYY) => u8(RegXX) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 5224YYXX 00000000 - If u8(RegYY) < u8(RegXX) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 5225YYXX 00000000 - If u8(RegYY) =< u8(RegXX) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line
+;
+;* 522600XX 000000ZZ - If u8(RegXX) & ZZ = ZZ poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 522700XX 000000ZZ - If u8(RegXX) & ZZ != ZZ poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 522800XX 00TT00ZZ - If u8(RegXX) > ZZ && u8(RegXX) < TT poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 522900XX 00TT00ZZ - If u8(RegXX) => ZZ && u8(RegXX) <= TT poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 522A00XX 000000ZZ - If u8(RegXX) & ZZ = u8(RegXX) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 522B00XX 000000ZZ - If u8(RegXX) & ZZ != u8(RegXX) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 523000XX TTTTTTTT - If u8RegXX == (TTTTTTTT) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 523100XX TTTTTTTT - If u8RegXX != (TTTTTTTT) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 523200XX TTTTTTTT - If u8RegXX > (TTTTTTTT) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 523300XX TTTTTTTT - If u8RegXX => (TTTTTTTT) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 523400XX TTTTTTTT - If u8RegXX < (TTTTTTTT) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 523600XX TTTTTTTT - If u8RegXX & (TTTTTTTT) = (TTTTTTTT) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 523700XX TTTTTTTT - If u8RegXX & (TTTTTTTT) != (TTTTTTTT) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 523A00XX TTTTTTTT - If u8RegXX & (TTTTTTTT) = u8RegXX poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 523B00XX TTTTTTTT - If u8RegXX & (TTTTTTTT) != u8RegXX poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 5240YYXX 00000000 - If u16RegYY == u16RegXX poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 5241YYXX 00000000 - If u16RegYY != u16RegXX poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 5242YYXX 00000000 - If u16RegYY > u16RegXX poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 5243YYXX 00000000 - If u16RegYY => u16RegXX poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 5244YYXX 00000000 - If u16RegYY < u16RegXX poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 5245YYXX 00000000 - If u16RegYY =< u16RegXX poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 5246YYXX 00000000 - If u16RegYY & u16RegXX = u16RegXX poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 5247YYXX 00000000 - If u16RegYY & u16RegXX != u16RegXX poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 524AYYXX 00000000 - If u16RegYY & u16RegXX = u16RegYY poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 524BYYXX 00000000 - If u16RegYY & u16RegXX != u16RegYY poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 525000XX 0000ZZZZ - If u16RegXX == ZZZZ poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 525100XX 0000ZZZZ - If u16RegXX != ZZZZ poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 525200XX 0000ZZZZ - If u16RegXX > ZZZZ poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 525300XX 0000ZZZZ - If u16RegXX => ZZZZ poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 525400XX 0000ZZZZ - If u16RegXX < ZZZZ poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 525500XX 0000ZZZZ - If u16RegXX =< ZZZZ poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 525600XX 0000ZZZZ - If u16RegXX & ZZZZ = ZZZZ poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 525700XX 0000ZZZZ - If u16RegXX & ZZZZ != ZZZZ poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 525800XX TTTTZZZZ - If u16RegXX > ZZZZ && u16RegXX < TTTT poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 525900XX TTTTZZZZ - If u16RegXX => ZZZZ && u16RegXX <= TTTT poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 525A00XX 0000ZZZZ - If u16RegXX & ZZZZ = u16RegXX poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 525B00XX 0000ZZZZ - If u16RegXX & ZZZZ != u16RegXX poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 5260YYXX 00000000 - If u16(RegYY) == u16(RegXX) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 5261YYXX 00000000 - If u16(RegYY) != u16(RegXX) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 5262YYXX 00000000 - If u16(RegYY) > u16(RegXX) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 5263YYXX 00000000 - If u16(RegYY) => u16(RegXX) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 5264YYXX 00000000 - If u16(RegYY) < u16(RegXX) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 5265YYXX 00000000 - If u16(RegYY) =< u16(RegXX) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line
+;
+;* 526600XX 0000ZZZZ - If u16(RegXX) & ZZZZ = ZZZZ poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 526700XX 0000ZZZZ - If u16(RegXX) & ZZZZ != ZZZZ poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 526800XX TTTTZZZZ - If u16(RegXX) > ZZZZ && u16(RegXX) < TTTT poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 526900XX TTTTZZZZ - If u16(RegXX) => ZZZZ && u16(RegXX) <= TTTT poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 526A00XX 0000ZZZZ - If u16(RegXX) & ZZZZ = u16(RegXX) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 526B00XX 0000ZZZZ - If u16(RegXX) & ZZZZ != u16(RegXX) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 527000XX TTTTTTTT - If u16RegXX == (TTTTTTTT) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 527100XX TTTTTTTT - If u16RegXX != (TTTTTTTT) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 527200XX TTTTTTTT - If u16RegXX > (TTTTTTTT) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 527300XX TTTTTTTT - If u16RegXX => (TTTTTTTT) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 527400XX TTTTTTTT - If u16RegXX < (TTTTTTTT) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 527600XX TTTTTTTT - If u16RegXX & (TTTTTTTT) = (TTTTTTTT) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 527700XX TTTTTTTT - If u16RegXX & (TTTTTTTT) != (TTTTTTTT) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 527A00XX TTTTTTTT - If u16RegXX & (TTTTTTTT) = u16RegXX poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 527B00XX TTTTTTTT - If u16RegXX & (TTTTTTTT) != u16RegXX poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 5280YYXX 00000000 - If u32RegYY == u32RegXX poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 5281YYXX 00000000 - If u32RegYY != u32RegXX poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 5282YYXX 00000000 - If u32RegYY > u32RegXX poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 5283YYXX 00000000 - If u32RegYY => u32RegXX poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 5284YYXX 00000000 - If u32RegYY < u32RegXX poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 5285YYXX 00000000 - If u32RegYY =< u32RegXX poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 5286YYXX 00000000 - If u32RegYY & u32RegXX = u32RegXX poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 5287YYXX 00000000 - If u32RegYY & u32RegXX != u32RegXX poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 528AYYXX 00000000 - If u32RegYY & u32RegXX = u32RegYY poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 528BYYXX 00000000 - If u32RegYY & u32RegXX != u32RegYY poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 529000XX ZZZZZZZZ - If u32RegXX == ZZZZZZZZ poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 529100XX ZZZZZZZZ - If u32RegXX != ZZZZZZZZ poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 529200XX ZZZZZZZZ - If u32RegXX > ZZZZZZZZ poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 529300XX ZZZZZZZZ - If u32RegXX => ZZZZZZZZ poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 529400XX ZZZZZZZZ - If u32RegXX < ZZZZZZZZ poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 529500XX ZZZZZZZZ - If u32RegXX =< ZZZZZZZZ poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 529600XX ZZZZZZZZ - If u32RegXX & ZZZZZZZZ = ZZZZZZZZ poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 529700XX ZZZZZZZZ - If u32RegXX & ZZZZZZZZ != ZZZZZZZZ poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 529A00XX ZZZZZZZZ - If u32RegXX & ZZZZZZZZ = u32RegXX poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 529B00XX ZZZZZZZZ - If u32RegXX & ZZZZZZZZ != u32RegXX poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 52A0YYXX 00000000 - If u32(RegYY) == u32(RegXX) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 52A1YYXX 00000000 - If u32(RegYY) != u32(RegXX) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 52A2YYXX 00000000 - If u32(RegYY) > u32(RegXX) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 52A3YYXX 00000000 - If u32(RegYY) => u32(RegXX) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 52A4YYXX 00000000 - If u32(RegYY) < u32(RegXX) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 52A5YYXX 00000000 - If u32(RegYY) =< u32(RegXX) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line
+;
+;* 52A600XX ZZZZZZZZ - If u32(RegXX) & ZZZZZZZZ = ZZZZZZZZ poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 52A700XX ZZZZZZZZ - If u32(RegXX) & ZZZZZZZZ != ZZZZZZZZ poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 52AA00XX ZZZZZZZZ - If u32(RegXX) & ZZZZZZZZ = u32(RegXX) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 52AB00XX ZZZZZZZZ - If u32(RegXX) & ZZZZZZZZ != u32(RegXX) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 52B000XX TTTTTTTT - If u32RegXX == (TTTTTTTT) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 52B100XX TTTTTTTT - If u32RegXX != (TTTTTTTT) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 52B200XX TTTTTTTT - If u32RegXX > (TTTTTTTT) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 52B300XX TTTTTTTT - If u32RegXX => (TTTTTTTT) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 52B400XX TTTTTTTT - If u32RegXX < (TTTTTTTT) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 52B600XX TTTTTTTT - If u32RegXX & (TTTTTTTT) = (TTTTTTTT) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 52B700XX TTTTTTTT - If u32RegXX & (TTTTTTTT) != (TTTTTTTT) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 52BA00XX TTTTTTTT - If u32RegXX & (TTTTTTTT) = u32RegXX poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 52BB00XX TTTTTTTT - If u32RegXX & (TTTTTTTT) != u32RegXX poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+
+;*******************************************************************************

@@ -1,0 +1,8 @@
+; CHTDB: ; [ Animal Snap: Rescue Them 2 by 2 (Europe) {SLES-04036} ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+8002E241 E900
+8002E243 35A4
+

@@ -1,0 +1,13 @@
+; CHTDB: ; [ Wheel of Fortune (USA) (1998) (Hasbro Interactive) {SLUS-00683, SLUS-00683GH} <wheelfor> ]
+
+[P1 Lots Of Money]
+Type = Gameshark
+Activation = EndFrame
+800C6704 FFFF
+800C670A 0FFF
+
+[P1 Infinite Free Spins]
+Type = Gameshark
+Activation = EndFrame
+800C6700 0001
+

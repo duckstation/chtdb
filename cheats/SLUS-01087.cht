@@ -1,0 +1,186 @@
+; CHTDB: ; [ Resident Evil - Survivor (USA) (2000) (Capcom Entertainment) {SLUS-01087} <revilsrv> ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800A8584 00C8
+
+[Infinite Continues]
+Type = Gameshark
+Activation = EndFrame
+A60B608C 00010004
+
+[Infinite Ammo gun A]
+Type = Gameshark
+Activation = EndFrame
+800AF802 0063
+
+[Infinite Ammo gun B]
+Type = Gameshark
+Activation = EndFrame
+800AF812 0063
+
+[Infinite Ammo gun C]
+Type = Gameshark
+Activation = EndFrame
+800AF822 0063
+
+[Infinite Ammo gun D]
+Type = Gameshark
+Activation = EndFrame
+800AF832 0063
+
+[Walk through walls]
+Type = Gameshark
+Activation = EndFrame
+A707C9DA 12401000
+
+[Remove Firing Speed Cap + Turbo Fire]
+Type = Gameshark
+Activation = EndFrame
+A7077D4C FFFE0000
+A7077D4E 24A23402
+E00B3CC4 00000028
+300B3CC4 00000008
+
+[Open All Doors]
+Type = Gameshark
+Activation = EndFrame
+A7087C9A 04611000
+
+[One Hit Kill Normal Zombies]
+Type = Gameshark
+Activation = EndFrame
+A7102326 1C401400
+A7101356 10401000
+
+[One Hit Kill Dogs]
+Type = Gameshark
+Activation = EndFrame
+A710223A 18401000
+
+[See through walls]
+Type = Gameshark
+Activation = EndFrame
+A706D252 10401400
+
+[Alley zombie back attacks you]
+Type = Gameshark
+Activation = EndFrame
+A702BC9A 10C01000
+
+[Invisible enemies + npc]
+Type = Gameshark
+Activation = EndFrame
+A706D342 14402400
+
+[Enemies will one hit kill you]
+Type = Gameshark
+Activation = EndFrame
+A70844AA 14401000
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+A706FDC2 A4822400
+
+[Blood red filter]
+Type = Gameshark
+Activation = EndFrame
+A7082622 10401400
+
+[Press R3 to toggle hud on/off]
+Type = Gameshark
+Activation = EndFrame
+D7010001 01000400
+F5093406 14401400
+F5092F8A 10401400
+F506D682 14401000
+
+[Select Matrix mode\"Press L3 to toggle on/off"]
+Type = Gameshark
+Activation = EndFrame
+D7010001 02000200
+F507FF8E 14401000
+F507E3F6 10601000
+
+[Select Matrix mode\"No extra visual effects" (Press circle to toggle on/off)]
+Type = Gameshark
+Activation = EndFrame
+D7010001 02000020
+F507FF8E 14401000
+F507E3F6 10601000
+
+[Matrix mode ++ "Press L3 to toggle on/off"]
+Type = Gameshark
+Activation = EndFrame
+D7010001 04000200
+F506D252 10401400
+F5082622 10401400
+F507FF8E 14401000
+F507E3F6 10601000
+F507C9DA 12401000
+
+[Free cam (Includes improved controls)]
+Type = Gameshark
+Activation = EndFrame
+A707C9DA 12401000
+A70820AA 1A001000
+A70F3BFA 10622400
+A7078A16 A4822400
+A7078A32 A4822400
+A7078A4A A4802400
+A7092EDE 10401000
+D7000000 00000002
+610A85DC 00000032
+00000000 0000FFFF
+D7000000 00000001
+600A85DC 00000032
+00000000 0000FFFF
+D7000000 00040000
+600A865C 00000016
+00000000 0000FFFF
+D7000000 00010000
+610A865C 00000016
+00000000 0000FFFF
+A707786E 24001040
+D7200000 00080000
+A707786E 10402400
+00000000 0000FFFF
+A70777FA 24001040
+D7200000 00020000
+A70777FA 10402400
+00000000 0000FFFF
+A707749E 24001040
+D7200000 00000200
+A707749E 10402400
+00000000 0000FFFF
+A70774CA 24001040
+D7200000 00000400
+A70774CA 10402400
+00000000 0000FFFF
+A701196A 24001040
+D7200000 00100200
+A701196A 10402400
+00000000 0000FFFF
+D7000000 00400400
+600A865C 00000016
+00000000 0000FFFF
+D7000000 00100400
+610A865C 00000016
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A7065B90 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A7065B90 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A7065B90 10000400
+

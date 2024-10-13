@@ -1,0 +1,20 @@
+; CHTDB: ; [ Boxer's Road (Japan) Rev 1 {SLPS-91007} ]
+
+[Life Max]
+Type = Gameshark
+Activation = EndFrame
+90010274 FFFFFFFF
+
+[Endurance Max]
+Type = Gameshark
+Activation = EndFrame
+80010280 FFFF
+8001028C FFFF
+
+[Punch Speed Max]
+Type = Gameshark
+Activation = EndFrame
+80010178 FFFF
+80010184 FFFF
+80010190 FFFF
+

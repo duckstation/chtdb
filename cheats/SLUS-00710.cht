@@ -1,0 +1,43 @@
+; CHTDB: ; [ Oddworld - Abe's Exoddus (USA) (1998) (GT Interactive Software) {SLUS-00710 / SLUS-00731} <abexodus> ]
+
+[All 300 Modokons Saved]
+Type = Gameshark
+Activation = EndFrame
+8007E43A 012C
+
+[Instant Possession Press L1+L2]
+Type = Gameshark
+Activation = EndFrame
+D007E4B0 0005
+8007E3F8 FFFF
+
+[Have Zero Casualties]
+Type = Gameshark
+Activation = EndFrame
+8007E438 0000
+
+[Immune To Fleeches And Gunfire]
+Type = Gameshark
+Activation = EndFrame
+801F3618 00B3
+
+[Always Invisible]
+Type = Gameshark
+Activation = EndFrame
+801F3604 00A0
+
+[Extra Escapees]
+Type = Gameshark
+Activation = EndFrame
+800B2D38 0005
+
+[No Casualties]
+Type = Gameshark
+Activation = EndFrame
+800B4784 0000
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+8007E452 0001
+

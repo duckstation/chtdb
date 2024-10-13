@@ -1,0 +1,17 @@
+; CHTDB: ; [ Sesame Street - Elmo's Number Journey (USA) (1999) (NewKidCo) {SLUS-00622, SLUS-00622TP} <elmonumb> ]
+
+[Have All Numbers]
+Type = Gameshark
+Activation = EndFrame
+8007409C 000C
+
+[Infinite Strikes]
+Type = Gameshark
+Activation = EndFrame
+800740A0 0000
+
+[Have No Numbers]
+Type = Gameshark
+Activation = EndFrame
+8007409C 0000
+

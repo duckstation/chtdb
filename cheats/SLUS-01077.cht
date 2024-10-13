@@ -1,0 +1,530 @@
+; CHTDB: ; [ Test Drive Le Mans (USA) (2000) (Infogrames) {SLUS-01077} <tdlemans> ]
+
+[Car Never Overheats]
+Type = Gameshark
+Activation = EndFrame
+D0087204 0440
+8008720A 2400
+D0087228 0006
+8008722E 2400
+D008725C 1021
+80087262 2400
+
+[Amateur Championship GT1 Complete]
+Type = Gameshark
+Activation = EndFrame
+3002794E 0001
+
+[Amateur Championship Prototype Complete]
+Type = Gameshark
+Activation = EndFrame
+3002794D 0001
+
+[Amatuer Lemans LM GT1 Winner Complete]
+Type = Gameshark
+Activation = EndFrame
+30027951 0001
+
+[Amatuer Lemans LM GT2 Winner Complete]
+Type = Gameshark
+Activation = EndFrame
+3002794F 0001
+
+[Amatuer Lemans LM Prototype Winner Complete]
+Type = Gameshark
+Activation = EndFrame
+30027950 0001
+
+[Amatuer Lemans LM Winner Complete]
+Type = Gameshark
+Activation = EndFrame
+30027952 0001
+
+[Arcade Challenge-Amateur Cup GT1 Complete]
+Type = Gameshark
+Activation = EndFrame
+3002793C 0001
+
+[Arcade Challenge-Amateur Cup GT2 Complete]
+Type = Gameshark
+Activation = EndFrame
+3002793A 0001
+
+[Arcade Challenge-Amateur Cup Prototype Complete]
+Type = Gameshark
+Activation = EndFrame
+3002793B 0001
+
+[Arcade Challenge-Pro Cup GT1 Complete]
+Type = Gameshark
+Activation = EndFrame
+3002793F 0001
+
+[Arcade Challenge-Pro Cup GT2 Complete]
+Type = Gameshark
+Activation = EndFrame
+3002793D 0001
+
+[Arcade Challenge-Pro Cup Prototype Complete]
+Type = Gameshark
+Activation = EndFrame
+3002793E 0001
+
+[Arcade Challenge-Pro Cup Reverse GT1 Complete]
+Type = Gameshark
+Activation = EndFrame
+30027942 0001
+
+[Arcade Challenge-Pro Cup Reverse GT2 Complete]
+Type = Gameshark
+Activation = EndFrame
+30027940 0001
+
+[Arcade Challenge-Pro Cup Reverse Prototype Complete]
+Type = Gameshark
+Activation = EndFrame
+30027941 0001
+
+[Arcade Time Attack-Amateur Cup GT1 Complete]
+Type = Gameshark
+Activation = EndFrame
+30027945 0001
+
+[Arcade Time Attack-Amateur Cup GT2 Complete]
+Type = Gameshark
+Activation = EndFrame
+30027943 0001
+
+[Arcade Time Attack-Amateur Cup Proto Complete]
+Type = Gameshark
+Activation = EndFrame
+30027944 0001
+
+[Arcade Time Attack-Pro Cup GT1 Complete]
+Type = Gameshark
+Activation = EndFrame
+30027948 0001
+
+[Arcade Time Attack-Pro Cup GT2 Complete]
+Type = Gameshark
+Activation = EndFrame
+30027946 0001
+
+[Arcade Time Attack-Pro Cup Prototype Complete]
+Type = Gameshark
+Activation = EndFrame
+30027947 0001
+
+[Arcade Time Attack-Pro Cup Reverse GT1 Complete]
+Type = Gameshark
+Activation = EndFrame
+3002794B 0001
+
+[Arcade Time Attack-Pro Cup Reverse GT2 Complete]
+Type = Gameshark
+Activation = EndFrame
+30027949 0001
+
+[Arcade Time Attack-Pro Cup Reverse Prototype Complete]
+Type = Gameshark
+Activation = EndFrame
+3002794A 0001
+
+[Pro Championship GT1 Complete]
+Type = Gameshark
+Activation = EndFrame
+30027955 0001
+
+[Pro Championship GT2 Complete]
+Type = Gameshark
+Activation = EndFrame
+30027953 0001
+
+[Pro Championship Prototype Complete]
+Type = Gameshark
+Activation = EndFrame
+30027954 0001
+
+[Pro Lemans All Races Complete]
+Type = Gameshark
+Activation = EndFrame
+50002001 0000
+3002793A 0001
+
+[Pro Lemans Amatuer Challenge GT1-Unlock All Cars]
+Type = Gameshark
+Activation = EndFrame
+80027ABE 002F
+
+[Pro Lemans Amatuer Challenge GT2-Unlock All Cars]
+Type = Gameshark
+Activation = EndFrame
+80027ABA 000F
+
+[Pro Lemans Amatuer Challenge Prototype-Unlock All Cars]
+Type = Gameshark
+Activation = EndFrame
+80027ABC 001F
+
+[Pro Lemans Amatuer Time Attack GT1-Unlock All Cars]
+Type = Gameshark
+Activation = EndFrame
+80027ACA 002F
+
+[Pro Lemans Amatuer Time Attack GT2-Unlock All Cars]
+Type = Gameshark
+Activation = EndFrame
+80027AC6 000F
+
+[Pro Lemans Amatuer Time Attack Prototype-Unlock All Cars]
+Type = Gameshark
+Activation = EndFrame
+80027AC8 001F
+
+[Pro Lemans Infinite Fuel]
+Type = Gameshark
+Activation = EndFrame
+80088736 2400
+
+[Pro Lemans LM GT1 Winner Complete]
+Type = Gameshark
+Activation = EndFrame
+30027958 0001
+
+[Pro Lemans LM GT2 Winner Complete]
+Type = Gameshark
+Activation = EndFrame
+30027956 0001
+
+[Pro Lemans LM Prototype Winner Complete]
+Type = Gameshark
+Activation = EndFrame
+30027957 0001
+
+[Pro Lemans LM Winner Complete]
+Type = Gameshark
+Activation = EndFrame
+30027959 0001
+
+[Pro Lemans Professional Challenge GT1-Unlock All Cars]
+Type = Gameshark
+Activation = EndFrame
+80027AC4 002F
+
+[Pro Lemans Professional Challenge GT2-Unlock All Cars]
+Type = Gameshark
+Activation = EndFrame
+80027AC0 000F
+
+[Pro Lemans Professional Challenge Prototype-Unlock All Cars]
+Type = Gameshark
+Activation = EndFrame
+80027AC2 001F
+
+[Pro Lemans Professional Time Attack GT1-Unlock All Cars]
+Type = Gameshark
+Activation = EndFrame
+80027AD0 002F
+
+[Pro Lemans Professional Time Attack GT2-Unlock All Cars]
+Type = Gameshark
+Activation = EndFrame
+80027ACC 000F
+
+[Pro Lemans Professional Time Attack Prototype-Unlock All Cars]
+Type = Gameshark
+Activation = EndFrame
+80027ACE 001F
+
+[Pro Lemans Quick Win-Chamberlain Viper, Philippe Gache Motorsport, + JB Giesse Team (GT1)]
+Type = Gameshark
+Activation = EndFrame
+300281CA 0003
+E0046CA4 0000
+30046CA4 0003
+
+[Pro Lemans Quick Win-Chrysler Viper Oreca, Joest Racing, + Nissan Motorsports]
+Type = Gameshark
+Activation = EndFrame
+300281CA 0003
+E0049C34 0000
+30049C34 0003
+
+[Pro Lemans Quick Win-Cirtek, Courage Competition, + GTC Competition]
+Type = Gameshark
+Activation = EndFrame
+300281CA 0003
+E004846C 0000
+3004846C 0003
+
+[Pro Lemans Quick Win-Konrad Motorsport, La Filier, + Panoz Motorsports (Gray Car)]
+Type = Gameshark
+Activation = EndFrame
+300281CA 0003
+E0047888 0000
+30047888 0003
+
+[Pro Lemans Quick Win-Larbre Competition, BMW Motorsport, + Toyota Motorsports]
+Type = Gameshark
+Activation = EndFrame
+300281CA 0003
+E004A818 0000
+3004A818 0003
+
+[Pro Lemans Quick Win-Roock Racing (GT2), JB Giesse Team (Proto), + Panoz Motorsports (Purple Car)]
+Type = Gameshark
+Activation = EndFrame
+300281CA 0003
+E0049050 0000
+30049050 0003
+
+[Pro Lemans Quick Win-Team Agusta Racing, Pilot Racing, + Roock Racing (GT1)]
+Type = Gameshark
+Activation = EndFrame
+300281CA 0003
+E00460C0 0000
+300460C0 0003
+
+[Pro Lemans Quick Win-Team Marcos, Kremer Racing, + Lister Cars]
+Type = Gameshark
+Activation = EndFrame
+300281CA 0003
+E00454DC 0000
+300454DC 0003
+
+[Pro Lemans Stop Checkpoint Timer]
+Type = Gameshark
+Activation = EndFrame
+D00757E8 FFFF
+800757F2 2400
+
+[Pro Lemans Stop Lap Timer]
+Type = Gameshark
+Activation = EndFrame
+D0068614 0001
+8006861A 2400
+
+[Pro Lemans Stop Total Time Timer]
+Type = Gameshark
+Activation = EndFrame
+D0075728 0001
+8007572E 2400
+
+[Pro Lemans Unlock All Cars (Arcade Mode)]
+Type = Gameshark
+Activation = EndFrame
+50000406 0000
+80027ABA 000F
+50000406 0000
+80027ABC 001F
+50000406 0000
+80027ABE 002F
+
+[Pro Lemans Win in LaMans Mode Easily-Chamberlain Viper, Philippe Gache Motorsport, + JB Giesse Team (GT1)]
+Type = Gameshark
+Activation = EndFrame
+E0046CA4 0000
+30046CA4 00C8
+
+[Pro Lemans Win in LaMans Mode Easily-Chrysler Viper Oreca, Joest Racing, + Nissan Motorsports]
+Type = Gameshark
+Activation = EndFrame
+E0049C34 0000
+30049C34 00C8
+
+[Pro Lemans Win in LaMans Mode Easily-Cirtek, Courage Competition, + GTC Competition]
+Type = Gameshark
+Activation = EndFrame
+E004846C 0000
+3004846C 00C8
+
+[Pro Lemans Win in LaMans Mode Easily-Konrad Motorsport, La Filier, + Panoz Motorsports (Gray Car)]
+Type = Gameshark
+Activation = EndFrame
+E0047888 0000
+30047888 00C8
+
+[Pro Lemans Win in LaMans Mode Easily-Larbre Competition, BMW Motorsport, + Toyota Motorsports]
+Type = Gameshark
+Activation = EndFrame
+E004A818 0000
+3004A818 00C8
+
+[Pro Lemans Win in LaMans Mode Easily-Roock Racing (GT2), JB Giesse Team (Proto), + Panoz Motorsports (Purple Car)]
+Type = Gameshark
+Activation = EndFrame
+E0049050 0000
+30049050 00C8
+
+[Pro Lemans Win in LaMans Mode Easily-Team Agusta Racing, Pilot Racing, + Roock Racing (GT1)]
+Type = Gameshark
+Activation = EndFrame
+E00460C0 0000
+300460C0 00C8
+
+[Pro Lemans Win in LaMans Mode Easily-Team Marcos, Kremer Racing, + Lister Cars]
+Type = Gameshark
+Activation = EndFrame
+E00454DC 0000
+300454DC 00C8
+
+[Max Championship Points Chamberlin Viper-55]
+Type = Gameshark
+Activation = EndFrame
+800279DE 00FF
+
+[Max Championship Points Chamberlin Viper-56]
+Type = Gameshark
+Activation = EndFrame
+800279E0 00FF
+
+[Max Championship Points Cirtek-48]
+Type = Gameshark
+Activation = EndFrame
+800279E8 00FF
+
+[Max Championship Points Cirtek-49]
+Type = Gameshark
+Activation = EndFrame
+800279E6 00FF
+
+[Max Championship Points Courage Competition-13]
+Type = Gameshark
+Activation = EndFrame
+80027A08 00FF
+
+[Max Championship Points Courage Competition-14]
+Type = Gameshark
+Activation = EndFrame
+80027A06 00FF
+
+[Max Championship Points GTC Competition-40]
+Type = Gameshark
+Activation = EndFrame
+80027A16 00FF
+
+[Max Championship Points GTC Competition-41]
+Type = Gameshark
+Activation = EndFrame
+80027A18 00FF
+
+[Max Championship Points JB Giesse Team-25]
+Type = Gameshark
+Activation = EndFrame
+80027A0E 00FF
+
+[Max Championship Points JB Giesse Team-26]
+Type = Gameshark
+Activation = EndFrame
+80027A10 00FF
+
+[Max Championship Points JB Giesse Team-5]
+Type = Gameshark
+Activation = EndFrame
+80027A0A 00FF
+
+[Max Championship Points JB Giesse Team-6]
+Type = Gameshark
+Activation = EndFrame
+80027A0C 00FF
+
+[Max Championship Points Konrad Motorsport-70]
+Type = Gameshark
+Activation = EndFrame
+800279E2 00FF
+
+[Max Championship Points Konrad Motorsport-73]
+Type = Gameshark
+Activation = EndFrame
+800279E4 00FF
+
+[Max Championship Points Kremer Racing-16]
+Type = Gameshark
+Activation = EndFrame
+800279F6 00FF
+
+[Max Championship Points Kremer Racing-17]
+Type = Gameshark
+Activation = EndFrame
+800279F8 00FF
+
+[Max Championship Points La Filiere-15]
+Type = Gameshark
+Activation = EndFrame
+80027A02 00FF
+
+[Max Championship Points La Filiere-19]
+Type = Gameshark
+Activation = EndFrame
+80027A04 00FF
+
+[Max Championship Points Panoz Motorsports-44]
+Type = Gameshark
+Activation = EndFrame
+80027A14 00FF
+
+[Max Championship Points Panoz Motorsports-45]
+Type = Gameshark
+Activation = EndFrame
+80027A12 00FF
+
+[Max Championship Points Panoz Motorsports-46]
+Type = Gameshark
+Activation = EndFrame
+80027A1C 00FF
+
+[Max Championship Points Panoz Motorsports-47]
+Type = Gameshark
+Activation = EndFrame
+80027A1A 00FF
+
+[Max Championship Points Phillippe Gache Racing-20]
+Type = Gameshark
+Activation = EndFrame
+800279FE 00FF
+
+[Max Championship Points Phillippe Gache Racing-21]
+Type = Gameshark
+Activation = EndFrame
+80027A00 00FF
+
+[Max Championship Points Pilot Racing-10]
+Type = Gameshark
+Activation = EndFrame
+800279FA 00FF
+
+[Max Championship Points Pilot Racing-11]
+Type = Gameshark
+Activation = EndFrame
+800279FC 00FF
+
+[Max Championship Points Roock Racing-64]
+Type = Gameshark
+Activation = EndFrame
+800279EC 00FF
+
+[Max Championship Points Roock Racing-65]
+Type = Gameshark
+Activation = EndFrame
+800279EA 00FF
+
+[Max Championship Points Team Agusta Racing-59]
+Type = Gameshark
+Activation = EndFrame
+800279DC 00FF
+
+[Max Championship Points Team Agusta Racing-60]
+Type = Gameshark
+Activation = EndFrame
+800279DA 00FF
+
+[Max Championship Points Team Marcos-52]
+Type = Gameshark
+Activation = EndFrame
+800279D8 00FF
+
+[Max Championship Points Team Marcos-53]
+Type = Gameshark
+Activation = EndFrame
+800279D6 00FF
+

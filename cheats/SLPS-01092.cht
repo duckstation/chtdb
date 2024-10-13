@@ -1,0 +1,24 @@
+; CHTDB: ; [ Photo Genic (Japan) (Genteiban) {SLPS-01092} ]
+
+[Infinite TP]
+Type = Gameshark
+Activation = EndFrame
+8009CCFE 03E7
+9009CCF8 03E703E7
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+8009CCF2 03E7
+8009CD5E 03E7
+
+[Max Sensitive Ability]
+Type = Gameshark
+Activation = EndFrame
+8009CD60 03E7
+
+[Max Photo Ability]
+Type = Gameshark
+Activation = EndFrame
+8009CD68 03E7
+

@@ -1,0 +1,12 @@
+; CHTDB: ; [ Macross Digital Mission VF-X (Japan) Rev 1 {SLPS-91058} ]
+
+[Damage (Stage 1)]
+Type = Gameshark
+Activation = EndFrame
+80111DC8 04B0
+
+[Damage (Stage 2)]
+Type = Gameshark
+Activation = EndFrame
+80112BFC 04B0
+

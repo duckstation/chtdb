@@ -1,0 +1,78 @@
+; CHTDB: ; [ TOCA Championship Racing (USA) (1998) (The 3DO Company) {SLUS-00611} <toca> ]
+
+[1 Lap To Win (Single Race Mode)]
+Type = Gameshark
+Activation = EndFrame
+800B6D6C 0040
+
+[1 Lap To Win (Championship Mode)]
+Type = Gameshark
+Activation = EndFrame
+800B68BC 0040
+
+[500 Race Points]
+Type = Gameshark
+Activation = EndFrame
+80010494 01F4
+
+[Access All Levels]
+Type = Gameshark
+Activation = EndFrame
+300100B8 0009
+
+[Enable Tank]
+Type = Gameshark
+Activation = EndFrame
+300100B5 0001
+
+[Turn Off Collision Detection]
+Type = Gameshark
+Activation = EndFrame
+300100C4 0001
+
+[Disco Fog Mode]
+Type = Gameshark
+Activation = EndFrame
+300100C8 0001
+
+[Low Gravity Mode]
+Type = Gameshark
+Activation = EndFrame
+300100C1 0001
+
+[Rain Up Mode]
+Type = Gameshark
+Activation = EndFrame
+300100C2 0001
+
+[Double Speed Mode]
+Type = Gameshark
+Activation = EndFrame
+300100CD 0001
+
+[Enable Trackside View]
+Type = Gameshark
+Activation = EndFrame
+300100C9 0001
+
+[Mean Driver Mode]
+Type = Gameshark
+Activation = EndFrame
+300100C0 0001
+
+[Big Hands Mode]
+Type = Gameshark
+Activation = EndFrame
+300100C6 0001
+
+[1 Lap To Win (Both Modes)]
+Type = Gameshark
+Activation = EndFrame
+800B627C 0003
+
+[Drive Anywhere]
+Type = Gameshark
+Activation = EndFrame
+A702CB9E 10801000
+A702CAD2 04401400
+

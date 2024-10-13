@@ -1,0 +1,96 @@
+; CHTDB: ; [ 007 - Tomorrow Never Dies (USA) (1999) (Electronic Arts) {SLUS-00975, SLUS-00975CE, SLUS-00975GH} <007tnd> ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8001E096 0063
+
+[Infinite Pk7 Ammo]
+Type = Gameshark
+Activation = EndFrame
+800EA846 000F
+
+[Infinite Assault Rifle Ammo]
+Type = Gameshark
+Activation = EndFrame
+800EA8B2 000F
+
+[Infinite Ammo Sniper Rifle]
+Type = Gameshark
+Activation = EndFrame
+800EA916 000F
+
+[Infinite Medikits]
+Type = Gameshark
+Activation = EndFrame
+800EA9DC 0007
+
+[Invincibility (All Missions)]
+Description = With this cheat, you need to die once first to activate it
+Type = Gameshark
+Activation = EndFrame
+A7025882 A0202400
+
+[Unlock All Missions]
+Type = Gameshark
+Activation = EndFrame
+50000A01 0000
+3001E240 0001
+
+[Unlock All Movies]
+Type = Gameshark
+Activation = EndFrame
+50000A01 0000
+3001E07F 0001
+
+[Level 1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80118079 0258
+801F7A2D 0258
+
+[Level 2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801008AD 0258
+
+[Level 3 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801F2835 0258
+
+[Level 4 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801F30DD 0258
+
+[Level 5 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801F484D 0258
+
+[Level 6 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801F4AA5 0258
+
+[Level 7 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801F6575 0258
+
+[Level 8 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801F3705 0249
+
+[Level 9 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801F3555 0258
+
+[Level 10 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801F30DD 0266
+

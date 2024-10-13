@@ -1,0 +1,7 @@
+; CHTDB: ; [ International Moto-X (Japan) {SLPS-00433} ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+800D6B80 FFFF
+

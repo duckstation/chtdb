@@ -1,0 +1,70 @@
+; CHTDB: ; [ Astro Trooper Vanark (Japan) {SLPS-01862} ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80015C22 00B3
+
+[Randall release device (shock frustrated bar) clear]
+Type = Gameshark
+Activation = EndFrame
+30015C25 0003
+
+[Infinite Continues]
+Type = Gameshark
+Activation = EndFrame
+30015C5F 0009
+
+[Infinite Health Training Mission]
+Type = Gameshark
+Activation = EndFrame
+D01F5FFA 22B8
+801F6016 00C8
+
+[Infinite Health Stage 1]
+Type = Gameshark
+Activation = EndFrame
+D01F2552 22B8
+801F256E 00C8
+
+[Infinite Health Stage 2]
+Type = Gameshark
+Activation = EndFrame
+D01F2552 22B8
+801F256E 00C8
+
+[Infinite Health Stage 3]
+Type = Gameshark
+Activation = EndFrame
+D01F2E0A 22B8
+801F2E26 00C8
+
+[Infinite Health Stage 4]
+Type = Gameshark
+Activation = EndFrame
+D01EF432 22B8
+801EF44E 00C8
+
+[Infinite Health Stage 5]
+Type = Gameshark
+Activation = EndFrame
+D00F5E0A 22B8
+800F5E26 00C8
+
+[Infinite Health Stage 6]
+Type = Gameshark
+Activation = EndFrame
+D00E21FA 22B8
+800E2216 00C8
+
+[Infinite Health Stage 7]
+Type = Gameshark
+Activation = EndFrame
+D00E6C5A 22B8
+800E6C76 00C8
+
+[Stage Select Mode]
+Type = Gameshark
+Activation = EndFrame
+30015C4D 0001
+

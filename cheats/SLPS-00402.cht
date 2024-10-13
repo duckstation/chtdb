@@ -1,0 +1,22 @@
+; CHTDB: ; [ Pro Mahjong Kiwame Plus (Jpn) (1996) (Athena) {SLPS-00402} <mjkiwamp> ]
+
+[Player has 99999 points]
+Type = Gameshark
+Activation = EndFrame
+901F5A24 0001869F
+
+[Opponent 3 has 0 points]
+Type = Gameshark
+Activation = EndFrame
+801F5D04 0000
+
+[Opponent 1 has 0 points]
+Type = Gameshark
+Activation = EndFrame
+801F5E74 0000
+
+[Opponent 2 has 0 points]
+Type = Gameshark
+Activation = EndFrame
+801F5B94 0000
+

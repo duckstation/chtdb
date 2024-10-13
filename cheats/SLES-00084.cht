@@ -1,0 +1,57 @@
+; CHTDB: ; [ Krazy Ivan (Europe) {SLES-00084} ]
+
+[Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+800C4CD0 0064
+800C4CD4 0064
+800C4CD8 0032
+800C4CDC 0032
+800C4CE0 0032
+800C4CE4 0032
+800C4CE8 0032
+800C4CEC 0064
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+8008D1A4 012C
+8008D1A8 00FA
+8008D1AC 003C
+8008D1B0 0046
+
+[Infinite Missiles]
+Type = Gameshark
+Activation = EndFrame
+8008D1D4 000A
+8008D1D8 000A
+8008D1DC 000A
+8008D1E0 000A
+8008D1E4 000A
+8008D1E8 000A
+
+[Infinite Specials]
+Type = Gameshark
+Activation = EndFrame
+8008D1B4 0005
+8008D1B8 0003
+8008D1BC 0001
+8008D1C0 0001
+8008D1C4 0001
+8008D1C8 0001
+
+[Max Energy-Cores]
+Type = Gameshark
+Activation = EndFrame
+80089670 00D0
+
+[Cannon-Cooler]
+Type = Gameshark
+Activation = EndFrame
+800D1C6C 0000
+
+[Stops Timer]
+Type = Gameshark
+Activation = EndFrame
+800C4CF2 0009
+

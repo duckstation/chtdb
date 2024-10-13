@@ -1,0 +1,12 @@
+; CHTDB: ; [ Virtual Kasparov (USA) (2001) (Titus Software Corporation) {SLUS-01341} <kasparov> ]
+
+[P1 No Move Time]
+Type = Gameshark
+Activation = EndFrame
+800969F0 0000
+
+[P2 No Move Time]
+Type = Gameshark
+Activation = EndFrame
+800969F4 0000
+

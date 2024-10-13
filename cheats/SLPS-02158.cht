@@ -1,0 +1,12 @@
+; CHTDB: ; [ Finger Flashing (Japan) {SLPS-02158} ]
+
+[Max Power Gauge]
+Type = Gameshark
+Activation = EndFrame
+800ED88C 0780
+
+[Max Score]
+Type = Gameshark
+Activation = EndFrame
+900ED84C 05F5E0FF
+

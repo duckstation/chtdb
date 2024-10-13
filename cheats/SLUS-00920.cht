@@ -1,0 +1,1097 @@
+; CHTDB: ; [ Fear Effect (USA) (2000) (Eidos Interactive) {SLUS-00920 / SLUS-01056 / SLUS-01057 / SLUS-01058} <fearfx> ]
+
+[Infinite Ammo Smg]
+Type = Gameshark
+Activation = EndFrame
+80081820 03E7
+8008DF16 03E7
+
+[Infinite Ammo .90 Pistol]
+Type = Gameshark
+Activation = EndFrame
+8008DF96 03E7
+
+[Infinite Ammo Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+8008DF1E 03E7
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+D003DCE0 0002
+8003DCE2 2400
+
+[Stop Time]
+Type = Gameshark
+Activation = EndFrame
+D0028508 0008
+8002850A 2400
+
+[No Fear]
+Type = Gameshark
+Activation = EndFrame
+D0047D88 0068
+80047D8A 2400
+
+[Stop Countdown Timer]
+Type = Gameshark
+Activation = EndFrame
+D00AFA2C 18F0
+800AFA2E 2400
+
+[Hana Weapon\Have Duel .90 Pistols]
+Type = Gameshark
+Activation = EndFrame
+9008DF10 63630002
+
+[Hana Weapon\Have Smg]
+Type = Gameshark
+Activation = EndFrame
+9008DF14 63630002
+
+[Hana Weapon\Have Shot Pistol]
+Type = Gameshark
+Activation = EndFrame
+9008DF18 63630002
+
+[Hana Weapon\Have Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+9008DF1C 00630001
+
+[Hana Weapon\Have Shotgun]
+Type = Gameshark
+Activation = EndFrame
+9008DF24 00630001
+
+[Hana Weapon\Have Hk v Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+9008DF28 00630001
+
+[Royce Weapon\Have .90 Pistol]
+Type = Gameshark
+Activation = EndFrame
+9008DF94 63630002
+
+[Royce Weapon\Have Smg]
+Type = Gameshark
+Activation = EndFrame
+9008DF98 63630002
+
+[Royce Weapon\Have Shot Pistol]
+Type = Gameshark
+Activation = EndFrame
+9008DF9C 63630002
+
+[Royce Weapon\Have Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+9008DFA0 00630001
+
+[Royce Weapon\Have Shotgun]
+Type = Gameshark
+Activation = EndFrame
+9008DFA8 00630001
+
+[Royce Weapon\Have Mk v Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+9008DFAC 00630001
+
+[Deke Weapon\Have .90 Pistol]
+Type = Gameshark
+Activation = EndFrame
+9008E018 63630002
+
+[Deke Weapon\Have Smg]
+Type = Gameshark
+Activation = EndFrame
+9008E01C 63630002
+
+[Deke Weapon\Have Shot Pistol]
+Type = Gameshark
+Activation = EndFrame
+9008E020 63630002
+
+[Deke Weapon\Have Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+9008E024 00630001
+
+[Deke Weapon\Have Shotgun]
+Type = Gameshark
+Activation = EndFrame
+9008E02C 00630001
+
+[Deke Weapon\Have Mk v Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+9008E030 00630001
+
+[Hana Item Disc 1\Have Stone Scroll]
+Type = Gameshark
+Activation = EndFrame
+E008DF5A 0000
+3008DF5A 0001
+
+[Hana Item Disc 1\Have Stone Willow]
+Type = Gameshark
+Activation = EndFrame
+E008DF5B 0000
+3008DF5B 0001
+
+[Hana Item Disc 1\Have Stone Eye]
+Type = Gameshark
+Activation = EndFrame
+E008DF5C 0000
+3008DF5C 0001
+
+[Hana Item Disc 1\Have Flash Disc]
+Type = Gameshark
+Activation = EndFrame
+E008DF64 0000
+3008DF64 0001
+
+[Hana Item Disc 1\Have Gate Key]
+Type = Gameshark
+Activation = EndFrame
+E008DF65 0000
+3008DF65 0001
+
+[Hana Item Disc 1\Have Sign Key]
+Type = Gameshark
+Activation = EndFrame
+E008DF66 0000
+3008DF66 0001
+
+[Hana Item Disc 1\Have Red Keycard]
+Type = Gameshark
+Activation = EndFrame
+E008DF67 0000
+3008DF67 0001
+
+[Hana Item Disc 1\Have Blue Keycard]
+Type = Gameshark
+Activation = EndFrame
+E008DF68 0000
+3008DF68 0001
+
+[Hana Item Disc 1\Have Locker Key]
+Type = Gameshark
+Activation = EndFrame
+E008DF69 0000
+3008DF69 0001
+
+[Hana Item Disc 1\Have Fuse]
+Type = Gameshark
+Activation = EndFrame
+E008DF6A 0000
+3008DF6A 0001
+
+[Hana Item Disc 1\Have Pipe]
+Type = Gameshark
+Activation = EndFrame
+E008DF6B 0000
+3008DF6B 0001
+
+[Hana Item Disc 1\Have Wire Cutters]
+Type = Gameshark
+Activation = EndFrame
+E008DF6C 0000
+3008DF6C 0001
+
+[Hana Item Disc 1\Have Explosives]
+Type = Gameshark
+Activation = EndFrame
+E008DF6D 0000
+3008DF6D 0001
+
+[Royce Item Disc 1\Have Stone Scroll]
+Type = Gameshark
+Activation = EndFrame
+E008DFDE 0000
+3008DFDE 0001
+
+[Royce Item Disc 1\Have Stone Willow]
+Type = Gameshark
+Activation = EndFrame
+E008DFDF 0000
+3008DFDF 0001
+
+[Royce Item Disc 1\Have Stone Eye]
+Type = Gameshark
+Activation = EndFrame
+E008DFE0 0000
+3008DFE0 0001
+
+[Royce Item Disc 1\Have Flash Disc]
+Type = Gameshark
+Activation = EndFrame
+E008DFE8 0000
+3008DFE8 0001
+
+[Royce Item Disc 1\Have Gate Key]
+Type = Gameshark
+Activation = EndFrame
+E008DFE9 0000
+3008DFE9 0001
+
+[Royce Item Disc 1\Have Sign Key]
+Type = Gameshark
+Activation = EndFrame
+E008DFEA 0000
+3008DFEA 0001
+
+[Royce Item Disc 1\Have Red Keycard]
+Type = Gameshark
+Activation = EndFrame
+E008DFEB 0000
+3008DFEB 0001
+
+[Royce Item Disc 1\Have Blue Keycard]
+Type = Gameshark
+Activation = EndFrame
+E008DFEC 0000
+3008DFEC 0001
+
+[Royce Item Disc 1\Have Locker Key]
+Type = Gameshark
+Activation = EndFrame
+E008DFED 0000
+3008DFED 0001
+
+[Royce Item Disc 1\Have Fuse]
+Type = Gameshark
+Activation = EndFrame
+E008DFEE 0000
+3008DFEE 0001
+
+[Royce Item Disc 1\Have Pipe]
+Type = Gameshark
+Activation = EndFrame
+E008DFEF 0000
+3008DFEF 0001
+
+[Royce Item Disc 1\Have Wire Cutters]
+Type = Gameshark
+Activation = EndFrame
+E008DFF0 0000
+3008DFF0 0001
+
+[Royce Item Disc 1\Have Explosives]
+Type = Gameshark
+Activation = EndFrame
+E008DFE1 0000
+3008DFF1 0001
+
+[Hana Item Disc 2\Have Stone Scroll]
+Type = Gameshark
+Activation = EndFrame
+E008DF5A 0000
+3008DF5A 0001
+
+[Hana Item Disc 2\Have Stone Willow]
+Type = Gameshark
+Activation = EndFrame
+E008DF5B 0000
+3008DF5B 0001
+
+[Hana Item Disc 2\Have Stone Eye]
+Type = Gameshark
+Activation = EndFrame
+E008DF5C 0000
+3008DF5C 0001
+
+[Hana Item Disc 2\Have Wet Towel]
+Type = Gameshark
+Activation = EndFrame
+E008DF64 0000
+3008DF64 0001
+
+[Hana Item Disc 2\Have Flask Of Water]
+Type = Gameshark
+Activation = EndFrame
+E008DF65 0000
+3008DF65 0001
+
+[Hana Item Disc 2\Have Train Key]
+Type = Gameshark
+Activation = EndFrame
+E008DF66 0000
+3008DF66 0001
+
+[Hana Item Disc 2\Have Po Mon Key]
+Type = Gameshark
+Activation = EndFrame
+E008DF69 0000
+3008DF69 0001
+
+[Hana Item Disc 2\Have Truck Key]
+Type = Gameshark
+Activation = EndFrame
+E008DF6A 0000
+3008DF6A 0001
+
+[Hana Item Disc 2\Have Ladder Access Card]
+Type = Gameshark
+Activation = EndFrame
+E008DF6B 0000
+3008DF6B 0001
+
+[Hana Item Disc 2\Have X1 Mon Key]
+Type = Gameshark
+Activation = EndFrame
+E008DF6C 0000
+3008DF6C 0001
+
+[Royce Item Disc 2\Have Stone Scroll]
+Type = Gameshark
+Activation = EndFrame
+E008DFDE 0000
+3008DFDE 0001
+
+[Royce Item Disc 2\Have Stone Willow]
+Type = Gameshark
+Activation = EndFrame
+E008DFDF 0000
+3008DFDF 0001
+
+[Royce Item Disc 2\Have Stone Eye]
+Type = Gameshark
+Activation = EndFrame
+E008DFE0 0000
+3008DFE0 0001
+
+[Royce Item Disc 2\Have Wet Towel]
+Type = Gameshark
+Activation = EndFrame
+E008DFE8 0000
+3008DFE8 0001
+
+[Royce Item Disc 2\Have Flask Of Water]
+Type = Gameshark
+Activation = EndFrame
+E008DFE9 0000
+3008DFE9 0001
+
+[Royce Item Disc 2\Have Train Key]
+Type = Gameshark
+Activation = EndFrame
+E008DFEA 0000
+3008DFEA 0001
+
+[Royce Item Disc 2\Have Po Mon Key]
+Type = Gameshark
+Activation = EndFrame
+E008DFED 0000
+3008DFED 0001
+
+[Royce Item Disc 2\Have Truck Key]
+Type = Gameshark
+Activation = EndFrame
+E008DFEE 0000
+3008DFEE 0001
+
+[Royce Item Disc 2\Have Ladder Access Card]
+Type = Gameshark
+Activation = EndFrame
+E008DFEF 0000
+3008DFEF 0001
+
+[Royce Item Disc 2\Have X1 Mon Key]
+Type = Gameshark
+Activation = EndFrame
+E008DFF0 0000
+3008DFF0 0001
+
+[Deke Item Disc 2\Have Stone Scroll]
+Type = Gameshark
+Activation = EndFrame
+E008E062 0000
+3008E062 0001
+
+[Deke Item Disc 2\Have Stone Willow]
+Type = Gameshark
+Activation = EndFrame
+E008E063 0000
+3008E063 0001
+
+[Deke Item Disc 2\Have Stone Eye]
+Type = Gameshark
+Activation = EndFrame
+E008E064 0000
+3008E064 0001
+
+[Deke Item Disc 2\Have Wet Towel]
+Type = Gameshark
+Activation = EndFrame
+E008E06C 0000
+3008E06C 0001
+
+[Deke Item Disc 2\Have Flask Of Water]
+Type = Gameshark
+Activation = EndFrame
+E008E06D 0000
+3008E06D 0001
+
+[Deke Item Disc 2\Have Train Key]
+Type = Gameshark
+Activation = EndFrame
+E008E06E 0000
+3008E06E 0001
+
+[Deke Item Disc 2\Have Po Mon Key]
+Type = Gameshark
+Activation = EndFrame
+E008E071 0000
+3008E071 0001
+
+[Deke Item Disc 2\Have Truck Key]
+Type = Gameshark
+Activation = EndFrame
+E008E072 0000
+3008E072 0001
+
+[Deke Item Disc 2\Have Ladder Access Card]
+Type = Gameshark
+Activation = EndFrame
+E008E073 0000
+3008E073 0001
+
+[Deke Item Disc 2\Have X1 Mon Key]
+Type = Gameshark
+Activation = EndFrame
+E008E074 0000
+3008E074 0001
+
+[Royce Item Disc 3\Have Stone Scroll]
+Type = Gameshark
+Activation = EndFrame
+E008DFDE 0000
+3008DFDE 0001
+
+[Royce Item Disc 3\Have Stone Willow]
+Type = Gameshark
+Activation = EndFrame
+E008DFDF 0000
+3008DFDF 0001
+
+[Royce Item Disc 3\Have Stone Eye]
+Type = Gameshark
+Activation = EndFrame
+E008DFE0 0000
+3008DFE0 0001
+
+[Royce Item Disc 3\Have Coin]
+Type = Gameshark
+Activation = EndFrame
+E008DFE8 0000
+3008DFE8 0001
+
+[Royce Item Disc 3\Have Sunflower]
+Type = Gameshark
+Activation = EndFrame
+E008DFE9 0000
+3008DFE9 0001
+
+[Royce Item Disc 3\Have Mach Gun 'o Love]
+Type = Gameshark
+Activation = EndFrame
+E008DFEA 0000
+3008DFEA 0001
+
+[Royce Item Disc 3\Have Pistol Whipper]
+Type = Gameshark
+Activation = EndFrame
+E008DFEB 0000
+3008DFEB 0001
+
+[Royce Item Disc 3\Have Flowers]
+Type = Gameshark
+Activation = EndFrame
+E008DFEC 0000
+3008DFEC 0001
+
+[Royce Item Disc 3\Have Cooking Oil]
+Type = Gameshark
+Activation = EndFrame
+E008DFED 0000
+3008DFED 0001
+
+[Royce Item Disc 3\Have Office Key]
+Type = Gameshark
+Activation = EndFrame
+E008DFEE 0000
+3008DFEE 0001
+
+[Royce Item Disc 3\Have Lounge Key]
+Type = Gameshark
+Activation = EndFrame
+E008DFEF 0000
+3008DFEF 0001
+
+[Royce Item Disc 3\Have Wire Cutters]
+Type = Gameshark
+Activation = EndFrame
+E008DFF0 0000
+3008DFF0 0001
+
+[Royce Item Disc 3\Have Elevator Key]
+Type = Gameshark
+Activation = EndFrame
+E008DFE1 0000
+3008DFF1 0001
+
+[Royce Item Disc 3\Have Storeroom Key]
+Type = Gameshark
+Activation = EndFrame
+E008DFF2 0000
+3008DFF2 0001
+
+[Royce Item Disc 3\Have A New Desire]
+Type = Gameshark
+Activation = EndFrame
+E008DFF3 0000
+3008DFF3 0001
+
+[Royce Item Disc 3\Have Wrench]
+Type = Gameshark
+Activation = EndFrame
+E008DFF4 0000
+3008DFF4 0001
+
+[Royce Item Disc 3\Have Meat Locker Key]
+Type = Gameshark
+Activation = EndFrame
+E008DFF5 0000
+3008DFF5 0001
+
+[Royce Item Disc 3\Have White Vase]
+Type = Gameshark
+Activation = EndFrame
+E008DFF6 0000
+3008DFF6 0001
+
+[Royce Item Disc 3\Have Black Vase]
+Type = Gameshark
+Activation = EndFrame
+E008DFF7 0000
+3008DFF7 0001
+
+[Royce Item Disc 3\Have Red Vase]
+Type = Gameshark
+Activation = EndFrame
+E008DFF8 0000
+3008DFF8 0001
+
+[Royce Item Disc 3\Have Paper Madam Chen]
+Type = Gameshark
+Activation = EndFrame
+E008DFF9 0000
+3008DFF9 0001
+
+[Royce Item Disc 3\Have Madam Room Key]
+Type = Gameshark
+Activation = EndFrame
+E008DFFA 0000
+3008DFFA 0001
+
+[Hana Item Disc 3\Have Stone Scroll]
+Type = Gameshark
+Activation = EndFrame
+E008DF5A 0000
+3008DF5A 0001
+
+[Hana Item Disc 3\Have Stone Willow]
+Type = Gameshark
+Activation = EndFrame
+E008DF5B 0000
+3008DF5B 0001
+
+[Hana Item Disc 3\Have Stone Eye]
+Type = Gameshark
+Activation = EndFrame
+E008DF5C 0000
+3008DF5C 0001
+
+[Hana Item Disc 3\Have Coin]
+Type = Gameshark
+Activation = EndFrame
+E008DF64 0000
+3008DF64 0001
+
+[Hana Item Disc 3\Have Sunflower]
+Type = Gameshark
+Activation = EndFrame
+E008DF65 0000
+3008DF65 0001
+
+[Hana Item Disc 3\Have Mach Gun 'o Love]
+Type = Gameshark
+Activation = EndFrame
+E008DF66 0000
+3008DF67 0001
+
+[Hana Item Disc 3\Have Pistol Whipper]
+Type = Gameshark
+Activation = EndFrame
+E008DF68 0000
+3008DF68 0001
+
+[Hana Item Disc 3\Have Flowers]
+Type = Gameshark
+Activation = EndFrame
+E008DF69 0000
+3008DF69 0001
+
+[Hana Item Disc 3\Have Cooking Oil]
+Type = Gameshark
+Activation = EndFrame
+E008DF6A 0000
+3008DF6A 0001
+
+[Hana Item Disc 3\Have Office Key]
+Type = Gameshark
+Activation = EndFrame
+E008DF6B 0000
+3008DF6B 0001
+
+[Hana Item Disc 3\Have Lounge Key]
+Type = Gameshark
+Activation = EndFrame
+E008DF6C 0000
+3008DF6C 0001
+
+[Hana Item Disc 3\Have Wire Cutters]
+Type = Gameshark
+Activation = EndFrame
+E008DF6D 0000
+3008DF6D 0001
+
+[Hana Item Disc 3\Have Elevator Key]
+Type = Gameshark
+Activation = EndFrame
+E008DF6E 0000
+3008DF6E 0001
+
+[Hana Item Disc 3\Have Storeroom Key]
+Type = Gameshark
+Activation = EndFrame
+E008DF6F 0000
+3008DF6F 0001
+
+[Hana Item Disc 3\Have A New Desire]
+Type = Gameshark
+Activation = EndFrame
+E008DF70 0000
+3008DF70 0001
+
+[Hana Item Disc 3\Have Wrench]
+Type = Gameshark
+Activation = EndFrame
+E008DF71 0000
+3008DF71 0001
+
+[Hana Item Disc 3\Have Meat Locker Key]
+Type = Gameshark
+Activation = EndFrame
+E008DF72 0000
+3008DF72 0001
+
+[Hana Item Disc 3\Have White Vase]
+Type = Gameshark
+Activation = EndFrame
+E008DF73 0000
+3008DF73 0001
+
+[Hana Item Disc 3\Have Black Vase]
+Type = Gameshark
+Activation = EndFrame
+E008DF74 0000
+3008DF74 0001
+
+[Hana Item Disc 3\Have Red Vase]
+Type = Gameshark
+Activation = EndFrame
+E008DF75 0000
+3008DF75 0001
+
+[Hana Item Disc 3\Have Paper Madam Chen]
+Type = Gameshark
+Activation = EndFrame
+E008DF76 0000
+3008DF76 0001
+
+[Hana Item Disc 3\Have Madam Room Key]
+Type = Gameshark
+Activation = EndFrame
+E008DF77 0000
+3008DF77 0001
+
+[Deke Item Disc 3\Have Stone Scroll]
+Type = Gameshark
+Activation = EndFrame
+E008E062 0000
+3008E062 0001
+
+[Deke Item Disc 3\Have Stone Willow]
+Type = Gameshark
+Activation = EndFrame
+E008E063 0000
+3008E063 0001
+
+[Deke Item Disc 3\Have Stone Eye]
+Type = Gameshark
+Activation = EndFrame
+E008E064 0000
+3008E064 0001
+
+[Deke Item Disc 3\Have Coin]
+Type = Gameshark
+Activation = EndFrame
+E008DF6C 0000
+3008DF6C 0001
+
+[Deke Item Disc 3\Have Sunflower]
+Type = Gameshark
+Activation = EndFrame
+E008DF6D 0000
+3008DF6D 0001
+
+[Deke Item Disc 3\Have Mach Gun 'o Love]
+Type = Gameshark
+Activation = EndFrame
+E008DF6E 0000
+3008DF6E 0001
+
+[Deke Item Disc 3\Have Pistol Whipper]
+Type = Gameshark
+Activation = EndFrame
+E008DF6F 0000
+3008DF6F 0001
+
+[Deke Item Disc 3\Have Flowers]
+Type = Gameshark
+Activation = EndFrame
+E008DF70 0000
+3008DF70 0001
+
+[Deke Item Disc 3\Have Cooking Oil]
+Type = Gameshark
+Activation = EndFrame
+E008DF71 0000
+3008DF71 0001
+
+[Deke Item Disc 3\Have Office Key]
+Type = Gameshark
+Activation = EndFrame
+E008DF72 0000
+3008DF72 0001
+
+[Deke Item Disc 3\Have Lounge Key]
+Type = Gameshark
+Activation = EndFrame
+E008DF73 0000
+3008DF73 0001
+
+[Deke Item Disc 3\Have Wire Cutters]
+Type = Gameshark
+Activation = EndFrame
+E008DF74 0000
+3008DF74 0001
+
+[Deke Item Disc 3\Have Elevator Key]
+Type = Gameshark
+Activation = EndFrame
+E008DF75 0000
+3008DF75 0001
+
+[Deke Item Disc 3\Have Storeroom Key]
+Type = Gameshark
+Activation = EndFrame
+E008DF76 0000
+3008DF76 0001
+
+[Deke Item Disc 3\Have A New Desire]
+Type = Gameshark
+Activation = EndFrame
+E008DF77 0000
+3008DF77 0001
+
+[Deke Item Disc 3\Have Wrench]
+Type = Gameshark
+Activation = EndFrame
+E008DF78 0000
+3008DF78 0001
+
+[Deke Item Disc 3\Have Meat Locker Key]
+Type = Gameshark
+Activation = EndFrame
+E008DF79 0000
+3008DF79 0001
+
+[Deke Item Disc 3\Have White Vase]
+Type = Gameshark
+Activation = EndFrame
+E008DF7A 0000
+3008DF7A 0001
+
+[Deke Item Disc 3\Have Black Vase]
+Type = Gameshark
+Activation = EndFrame
+E008DF7B 0000
+3008DF7B 0001
+
+[Deke Item Disc 3\Have Red Vase]
+Type = Gameshark
+Activation = EndFrame
+E008DF7C 0000
+3008DF7C 0001
+
+[Deke Item Disc 3\Have Paper Madam Chen]
+Type = Gameshark
+Activation = EndFrame
+E008DF7D 0000
+3008DF7D 0001
+
+[Deke Item Disc 3\Have Madam Room Key]
+Type = Gameshark
+Activation = EndFrame
+E008DF7E 0000
+3008DF7E 0001
+
+[Deke Item Disc 3\Activate Cheat Infinite Ammo, No Fear + Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80077810 000F
+
+[Hana Item Disc 4\Have Stone Scroll]
+Type = Gameshark
+Activation = EndFrame
+E008DF70 0000
+3008DF70 0001
+
+[Hana Item Disc 4\Have Stone Willow]
+Type = Gameshark
+Activation = EndFrame
+E008DF5B 0000
+3008DF5B 0001
+
+[Hana Item Disc 4\Have Stone Eye]
+Type = Gameshark
+Activation = EndFrame
+E008DF73 0000
+3008DF73 0001
+
+[Hana Item Disc 4\Have Paper Gate]
+Type = Gameshark
+Activation = EndFrame
+E008DF64 0000
+3008DF64 0001
+
+[Hana Item Disc 4\Have Paper Gate Key]
+Type = Gameshark
+Activation = EndFrame
+E008DF65 0000
+3008DF65 0001
+
+[Hana Item Disc 4\Have Tree Branch]
+Type = Gameshark
+Activation = EndFrame
+E008DF71 0000
+3008DF71 0001
+
+[Hana Item Disc 4\Have Paper Pistol]
+Type = Gameshark
+Activation = EndFrame
+E008DF67 0000
+3008DF67 0001
+
+[Hana Item Disc 4\Have Paper Shotgun]
+Type = Gameshark
+Activation = EndFrame
+E008DF68 0000
+3008DF68 0001
+
+[Hana Item Disc 4\Have Paper Smg]
+Type = Gameshark
+Activation = EndFrame
+E008DF69 0000
+3008DF69 0001
+
+[Hana Item Disc 4\Have Paper Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+E008DF6A 0000
+3008DF6A 0001
+
+[Hana Item Disc 4\Have Pistol Ammo]
+Type = Gameshark
+Activation = EndFrame
+E008DF6B 0000
+3008DF6B 0001
+
+[Hana Item Disc 4\Have Shotgun Ammo]
+Type = Gameshark
+Activation = EndFrame
+E008DF6C 0000
+3008DF6C 0001
+
+[Hana Item Disc 4\Have Smg Ammo]
+Type = Gameshark
+Activation = EndFrame
+E008DF6D 0000
+3008DF6D 0001
+
+[Hana Item Disc 4\Have Assault Rifle Ammo]
+Type = Gameshark
+Activation = EndFrame
+E008DF6E 0000
+3008DF6E 0001
+
+[Hana Item Disc 4\Have Doll]
+Type = Gameshark
+Activation = EndFrame
+E008DF6F 0000
+3008DF6F 0001
+
+[Hana Item Disc 4\Have Gate Key]
+Type = Gameshark
+Activation = EndFrame
+E008DF72 0000
+3008DF72 0001
+
+[Hana Item Disc 4\Have Stone Tree Half]
+Type = Gameshark
+Activation = EndFrame
+E008DF74 0000
+3008DF74 0001
+
+[Hana Item Disc 4\Have Stone Tree Whole]
+Type = Gameshark
+Activation = EndFrame
+E008DF75 0000
+3008DF75 0001
+
+[Hana Item Disc 4\Have Crank]
+Type = Gameshark
+Activation = EndFrame
+E008DF76 0000
+3008DF76 0001
+
+[Royce Item Disc 4\Have Stone Scroll]
+Type = Gameshark
+Activation = EndFrame
+E008DFF4 0000
+3008DFF4 0001
+
+[Royce Item Disc 4\Have Stone Willow]
+Type = Gameshark
+Activation = EndFrame
+E008DFDF 0000
+3008DFDF 0001
+
+[Royce Item Disc 4\Have Stone Eye]
+Type = Gameshark
+Activation = EndFrame
+E008DFF7 0000
+3008DFF7 0001
+
+[Royce Item Disc 4\Have Paper Gate]
+Type = Gameshark
+Activation = EndFrame
+E008DFE8 0000
+3008DFE8 0001
+
+[Royce Item Disc 4\Have Paper Gate Key]
+Type = Gameshark
+Activation = EndFrame
+E008DFE9 0000
+3008DFE9 0001
+
+[Royce Item Disc 4\Have Tree Branch]
+Type = Gameshark
+Activation = EndFrame
+E008DFF5 0000
+3008DFF5 0001
+
+[Royce Item Disc 4\Have Paper Pistol]
+Type = Gameshark
+Activation = EndFrame
+E008DFEB 0000
+3008DFEB 0001
+
+[Royce Item Disc 4\Have Paper Shotgun]
+Type = Gameshark
+Activation = EndFrame
+E008DFEC 0000
+3008DFEC 0001
+
+[Royce Item Disc 4\Have Paper Smg]
+Type = Gameshark
+Activation = EndFrame
+E008DFED 0000
+3008DFED 0001
+
+[Royce Item Disc 4\Have Paper Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+E008DFEE 0000
+3008DFEE 0001
+
+[Royce Item Disc 4\Have Pistol Ammo]
+Type = Gameshark
+Activation = EndFrame
+E008DFEF 0000
+3008DFEF 0001
+
+[Royce Item Disc 4\Have Shotgun Ammo]
+Type = Gameshark
+Activation = EndFrame
+E008DFF0 0000
+3008DFF0 0001
+
+[Royce Item Disc 4\Have Smg Ammo]
+Type = Gameshark
+Activation = EndFrame
+E008DFF1 0000
+3008DFF1 0001
+
+[Royce Item Disc 4\Have Assault Rifle Ammo]
+Type = Gameshark
+Activation = EndFrame
+E008DFF2 0000
+3008DFF2 0001
+
+[Royce Item Disc 4\Have Doll]
+Type = Gameshark
+Activation = EndFrame
+E008DFF3 0000
+3008DFF3 0001
+
+[Royce Item Disc 4\Have Gate Key]
+Type = Gameshark
+Activation = EndFrame
+E008DFF6 0000
+3008DFF6 0001
+
+[Royce Item Disc 4\Have Stone Tree Half]
+Type = Gameshark
+Activation = EndFrame
+E008DFF8 0000
+3008DFF8 0001
+
+[Royce Item Disc 4\Have Stone Tree Whole]
+Type = Gameshark
+Activation = EndFrame
+E008DFF9 0000
+3008DFF9 0001
+
+[Royce Item Disc 4\Have Crank]
+Type = Gameshark
+Activation = EndFrame
+E008DFFA 0000
+3008DFFA 0001
+

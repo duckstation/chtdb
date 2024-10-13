@@ -1,0 +1,17 @@
+; CHTDB: ; [ Bakushou!! All Yoshimoto Quiz-ou Kettei-sen DX (Japan) {SLPS-00158} ]
+
+[Infinite HP in Comical Quest]
+Type = Gameshark
+Activation = EndFrame
+8012355A 0006
+
+[Infinite Time in Comical Quest]
+Type = Gameshark
+Activation = EndFrame
+90123548 00030D40
+
+[Have 999 points in Yoshimoto Club Quiz mode]
+Type = Gameshark
+Activation = EndFrame
+801097E8 03E7
+

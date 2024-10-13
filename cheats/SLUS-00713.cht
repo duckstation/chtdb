@@ -1,0 +1,49 @@
+; CHTDB: ; [ Assault - Retribution (USA) (1998) (Midway Home Entertainment) {SLUS-00713} <assretrb> ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+9004D458 0C07C000
+901F0000 3C018009
+901F0004 34213288
+901F0008 14300002
+901F000C 27FF00C0
+901F0010 27FF0010
+901F0014 03E00008
+801F001A 2400
+
+[P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800936BC 0009
+
+[P1 Have All Weapons]
+Type = Gameshark
+Activation = EndFrame
+90093681 03030303
+
+[P1 Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+800936B6 0006
+
+[Easy Kills (Normal Enemies)]
+Type = Gameshark
+Activation = EndFrame
+A7039F22 14401400
+
+[Easy Kills (Bosses)]
+Type = Gameshark
+Activation = EndFrame
+A704047E 1C401400
+
+[Invincibility (Not against Falls) [WIP PARTIAL]]
+Type = Gameshark
+Activation = EndFrame
+A703E392 18401000
+A703831A 14401000
+A7032F0E 10801000
+A704073A 14401000
+A703C98A 10401000
+A71158F2 18401000
+

@@ -1,0 +1,22 @@
+; CHTDB: ; [ Men in Black: The Game (Germany) {SLES-01200} ]
+
+[Unendlich Energie]
+Type = Gameshark
+Activation = EndFrame
+8002E0A0 0000
+
+[Unendlich groÃŸe Medipacks]
+Type = Gameshark
+Activation = EndFrame
+8005A77C 0000
+
+[Unendlich kleine Medipacks]
+Type = Gameshark
+Activation = EndFrame
+8005A7B0 0000
+
+[Unendlich Pistolen-Munition]
+Type = Gameshark
+Activation = EndFrame
+8008619C 0000
+

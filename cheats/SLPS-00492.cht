@@ -1,0 +1,45 @@
+; CHTDB: ; [ Krazy Ivan (Japan) {SLPS-00492} ]
+
+[All stages]
+Type = Gameshark
+Activation = EndFrame
+800815D0 0000
+800815D4 0000
+800815D8 0000
+800815DC 0000
+800815E0 0000
+
+[Infinie Armor]
+Type = Gameshark
+Activation = EndFrame
+800BD1A4 0064
+800BD1A8 0064
+800BD1AC 0032
+800BD1B0 0032
+800BD1B4 0032
+800BD1B8 0032
+800BD1BC 0032
+800BD1C0 0064
+
+[Infinite Weapons]
+Type = Gameshark
+Activation = EndFrame
+80085478 012C
+80085454 03E7
+800854A8 0009
+80085488 0005
+8008547C 012C
+8008549C 0009
+800854BC 0009
+80085480 012C
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800BD1C6 0009
+
+[MaxCORE energy]
+Type = Gameshark
+Activation = EndFrame
+8009A890 0000
+

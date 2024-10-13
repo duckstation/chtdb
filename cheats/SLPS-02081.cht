@@ -1,0 +1,76 @@
+; CHTDB: ; [ Lunar 2 - Eternal Blue (Jpn) (1999) (Kadokawa Shoten) {SLPS-02081~SLPS-02083} <lunar2j> ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+90088544 0098967F
+
+[All Character Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+B00700C4 0000
+80081DFC 03E7
+B00700C4 0000
+80081DFE 03E7
+
+[All Character Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+B00700C4 0000
+80081E00 03E7
+B00700C4 0000
+80081E02 03E7
+
+[HP / 1 person in combat]
+Type = Gameshark
+Activation = EndFrame
+8015401C 03E7
+
+[HP / 2 person in combat]
+Type = Gameshark
+Activation = EndFrame
+80154218 03E7
+
+[HP / 3 person in combat]
+Type = Gameshark
+Activation = EndFrame
+80154414 03E7
+
+[Not encounter]
+Type = Gameshark
+Activation = EndFrame
+30088FD0 00FF
+
+[(L2 + Select Press) ON without random encounter (R2 + Select Press) OFF No random encounter]
+Type = Gameshark
+Activation = EndFrame
+D0088F00 1001
+80000700 0001
+D0088F00 1002
+80000700 0000
+C0000700 0001
+80088FD0 0063
+80088FA0 0063
+00000000 FFFF
+
+[All Items]
+Type = Gameshark
+Activation = EndFrame
+50010024 0000
+80198224 0063
+
+[Level MAX in a single battle]
+Type = Gameshark
+Activation = EndFrame
+800592D4 0001
+
+[Destination of the Medallion of Lucia's All]
+Type = Gameshark
+Activation = EndFrame
+30173B9F 00FF
+
+[Crystal Memories All Movies]
+Type = Gameshark
+Activation = EndFrame
+30173BCF 00FF
+

@@ -1,0 +1,107 @@
+; CHTDB: ; [ Intellivision Classic Games (USA) (1999) (Activision) {SLUS-00906} <intvclas> ]
+
+[Astrosmash\Quick Score Gain]
+Type = Gameshark
+Activation = EndFrame
+800C1CC4 270F
+
+[Astrosmash\Slowest Speed]
+Type = Gameshark
+Activation = EndFrame
+800C1610 0000
+
+[Boxing\P1 Select Boxer\Blue]
+Type = Gameshark
+Activation = EndFrame
+800C172C 0001
+
+[Boxing\P1 Select Boxer\Red]
+Type = Gameshark
+Activation = EndFrame
+800C172C 0002
+
+[Boxing\P1 Select Boxer\Tan]
+Type = Gameshark
+Activation = EndFrame
+800C172C 0003
+
+[Boxing\P1 Select Boxer\Dark Green]
+Type = Gameshark
+Activation = EndFrame
+800C172C 0004
+
+[Boxing\P1 Select Boxer\Yellow]
+Type = Gameshark
+Activation = EndFrame
+800C172C 0006
+
+[Boxing\P1 Select Boxer\White]
+Type = Gameshark
+Activation = EndFrame
+800C172C 0007
+
+[Boxing\P1 Select Boxer\Black]
+Type = Gameshark
+Activation = EndFrame
+800C172C 0008
+
+[Boxing\P2 Select Boxer\Blue]
+Type = Gameshark
+Activation = EndFrame
+800C01F0 0001
+
+[Boxing\P2 Select Boxer\Red]
+Type = Gameshark
+Activation = EndFrame
+800C01F0 0002
+
+[Boxing\P2 Select Boxer\Tan]
+Type = Gameshark
+Activation = EndFrame
+800C01F0 0003
+
+[Boxing\P2 Select Boxer\Dark Green]
+Type = Gameshark
+Activation = EndFrame
+800C01F0 0004
+
+[Boxing\P2 Select Boxer\Yellow]
+Type = Gameshark
+Activation = EndFrame
+800C01F0 0006
+
+[Boxing\P2 Select Boxer\White]
+Type = Gameshark
+Activation = EndFrame
+800C01F0 0007
+
+[Boxing\P2 Select Boxer\Black]
+Type = Gameshark
+Activation = EndFrame
+800C01F0 0008
+
+[Hover Force\Infinite Fuel]
+Type = Gameshark
+Activation = EndFrame
+800C162C 012C
+
+[Hover Force\Infinite Laser]
+Type = Gameshark
+Activation = EndFrame
+800C1634 012C
+
+[Hover Force\Infinite H20]
+Type = Gameshark
+Activation = EndFrame
+800C163C 012C
+
+[Hover Force\Max Enemies Killed]
+Type = Gameshark
+Activation = EndFrame
+800C164C 00FF
+
+[Star Strike\Score does not decrease]
+Type = Gameshark
+Activation = EndFrame
+800C1606 1F42
+

@@ -1,0 +1,13 @@
+; CHTDB: ; [ Panzer Front (Europe) {SLES-03339} ]
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+D0090A28 006C
+30090A28 0000
+
+[Mission always completed]
+Type = Gameshark
+Activation = EndFrame
+A6083D48 73D40000
+

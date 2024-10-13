@@ -1,0 +1,47 @@
+; CHTDB: ; [ Revolution X - Music Is the Weapon (USA) (1996) (Acclaim Entertainment) {SLUS-00012} <revx> ]
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800FF0BC 3200
+
+[P1 Infinite Cd's]
+Type = Gameshark
+Activation = EndFrame
+800FEF44 0019
+
+[P1 Has All Wings]
+Type = Gameshark
+Activation = EndFrame
+800FEB00 0005
+
+[P1 Infinite Laserdiscs]
+Type = Gameshark
+Activation = EndFrame
+800FEE04 000A
+
+[P2 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800FF0C4 3200
+
+[P2 Infinite Cd's]
+Type = Gameshark
+Activation = EndFrame
+800FEF48 0019
+
+[P2 Infinite Lasediscs]
+Type = Gameshark
+Activation = EndFrame
+800FEE08 000A
+
+[P2 Has All Wings]
+Type = Gameshark
+Activation = EndFrame
+800FEB04 0005
+
+[Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+800FF1E4 000E
+

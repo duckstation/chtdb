@@ -1,0 +1,7 @@
+; CHTDB: ; [ Fisherman's Bait 3 (Europe) {SLES-03295} ]
+
+[Every Fish Caught Will Weigh 9999G in Tournament mode]
+Type = Gameshark
+Activation = EndFrame
+80198F68 270F
+

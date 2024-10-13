@@ -1,0 +1,47 @@
+; CHTDB: ; [ Community Pom - Omoide o Dakishimete (Jpn) (1999) (Family Soft) {SLPS-02116} <compomod> ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8012C3DC 0008
+8017085D 0008
+
+[Infinite % Max HP]
+Type = Gameshark
+Activation = EndFrame
+301E215C 00FF
+301E215E 00FF
+
+[Infinite + Max Life]
+Type = Gameshark
+Activation = EndFrame
+8012A57A 270F
+8012A7A4 270F
+
+[LEVEL 999]
+Type = Gameshark
+Activation = EndFrame
+8012A57E 03E7
+
+[Max Energy]
+Type = Gameshark
+Activation = EndFrame
+8012C3DC 03E7
+8017085D 03E7
+
+[Level 99]
+Type = Gameshark
+Activation = EndFrame
+8012C028 0063
+8012C294 0063
+
+[Invincibility Alt]
+Type = Gameshark
+Activation = EndFrame
+3012C430 00FF
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+3012A7E4 00FF
+

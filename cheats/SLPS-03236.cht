@@ -1,0 +1,48 @@
+; CHTDB: ; [ Kid Mix Section: Character Collection (Japan) {SLPS-03236} ]
+
+[Have 999 Points In Mahjong]
+Type = Gameshark
+Activation = EndFrame
+80106A30 03E7
+
+[Enemy has 0 and you win]
+Type = Gameshark
+Activation = EndFrame
+80106A34 0000
+
+[Open all of the puzzle image other than items of survival bonus]
+Type = Gameshark
+Activation = EndFrame
+901082C0 FFFFFFFF
+901082C4 FFFFFFFF
+801082C8 FFFF
+
+[Memories Off completed puzzle image]
+Type = Gameshark
+Activation = EndFrame
+901082A0 01000100
+801082A4 0100
+
+[Infinity completed puzzle image]
+Type = Gameshark
+Activation = EndFrame
+801082A6 0100
+801082A8 0100
+
+[Tsubasa puzzle image completion of a dream]
+Type = Gameshark
+Activation = EndFrame
+801082AA 0100
+801082AC 0100
+
+[Ten balls puzzle image completion]
+Type = Gameshark
+Activation = EndFrame
+801082AE 0100
+901082B0 01000100
+
+[Aine completed puzzle image]
+Type = Gameshark
+Activation = EndFrame
+801082B4 0100
+

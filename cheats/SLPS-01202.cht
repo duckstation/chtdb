@@ -1,0 +1,33 @@
+; CHTDB: ; [ Shura no Mon (Jpn) (1998) (Kodansha) {SLPS-01202} <shuramon> ]
+
+[P1 Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+80059B50 1A0A
+
+[P2 Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+80059B54 1A0A
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A7071C44 10000C00
+A7071BCC 10000C00
+A7064EE4 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A7071C44 10000900
+A7071BCC 10000900
+A7064EE4 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A7071C44 10000400
+A7071BCC 10000400
+A7064EE4 10000400
+

@@ -1,0 +1,11 @@
+; CHTDB: ; [ Zutto Issho - With Me Everytime... (Jpn, Major Wave Series) (2000) (Hamster) {SLPM-86523} <zuttoiss> ]
+
+[Max stats]
+Type = Gameshark
+Activation = EndFrame
+800C8AB0 000A
+800C8AB4 000A
+800C8AB8 000A
+800C8ABC 000A
+800C8B18 0014
+

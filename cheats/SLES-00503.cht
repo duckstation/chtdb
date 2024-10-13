@@ -1,0 +1,124 @@
+; CHTDB: ; [ Mega Man X3 (Europe) {SLES-00503} ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800D9090 9000
+
+[Bug Hole]
+Type = Gameshark
+Activation = EndFrame
+800D8754 5C00
+
+[Acid Rush]
+Type = Gameshark
+Activation = EndFrame
+800D874A 5C00
+
+[Parasitic Bomb]
+Type = Gameshark
+Activation = EndFrame
+800D874C 5C00
+
+[Ray Splasher]
+Type = Gameshark
+Activation = EndFrame
+800D8752 5C00
+
+[Triad Thunder]
+Type = Gameshark
+Activation = EndFrame
+800D874E 5C00
+
+[Frost Shield]
+Type = Gameshark
+Activation = EndFrame
+800D8756 5C00
+
+[Tornado Fang]
+Type = Gameshark
+Activation = EndFrame
+800D8758 5C00
+
+[Spinning Blade]
+Type = Gameshark
+Activation = EndFrame
+800D8750 5C00
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+8003B2F2 1000
+
+[Infinite HP / Max HP]
+Type = Gameshark
+Activation = EndFrame
+300D8761 0020
+300D9091 00A0
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+300D8743 0009
+
+[Have All Hearts]
+Type = Gameshark
+Activation = EndFrame
+300D8763 00FF
+
+[Have All Tanks & Armour]
+Type = Gameshark
+Activation = EndFrame
+800D8746 8F8F
+800D8748 8F8F
+300D8760 00FF
+
+[Have All Chips & Ride Armour]
+Type = Gameshark
+Activation = EndFrame
+800D8766 00FF
+
+[All Bosses Defeated & Have All Weapons]
+Type = Gameshark
+Activation = EndFrame
+50000902 0000
+300D874B 00DC
+
+[All Bosses Defeated 2nd Time (Sigma Stages)]
+Type = Gameshark
+Activation = EndFrame
+300D8769 00FF
+
+[All Mid-Bosses Defeated]
+Type = Gameshark
+Activation = EndFrame
+300D8762 00FF
+
+[Infinite Air Dashes]
+Type = Gameshark
+Activation = EndFrame
+300D90BB 0001
+
+[Infinite Dash]
+Type = Gameshark
+Activation = EndFrame
+E0135194 0020
+300D90AE 000F
+
+[Moon Jumps]
+Type = Gameshark
+Activation = EndFrame
+E0135194 0040
+800D9084 0293
+
+[X has Beam-Sabre]
+Type = Gameshark
+Activation = EndFrame
+300D8741 0080
+
+[Zero has Beam-Sabre]
+Type = Gameshark
+Activation = EndFrame
+E00D9115 0002
+300D9116 0001
+

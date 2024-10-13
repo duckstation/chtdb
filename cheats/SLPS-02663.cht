@@ -1,0 +1,12 @@
+; CHTDB: ; [ Puzz Loop (Japan) {SLPS-02663} ]
+
+[Max Score]
+Type = Gameshark
+Activation = EndFrame
+900CB148 0098423F
+
+[Fast Max Score]
+Type = Gameshark
+Activation = EndFrame
+900CF7FC 000F423F
+

@@ -1,0 +1,22 @@
+; CHTDB: ; [ NBA Live 98 (Europe) {SLES-00906} ]
+
+[Select Home Team Score\100]
+Type = Gameshark
+Activation = EndFrame
+3007E284 0064
+
+[Select Home Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+3007E284 0000
+
+[Select Away Team Score\100]
+Type = Gameshark
+Activation = EndFrame
+8007F6E8 0064
+
+[Select Away Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+8007F6E8 0000
+

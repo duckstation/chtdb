@@ -1,0 +1,38 @@
+; CHTDB: ; [ 3D Baseball: The Majors (Japan) {SLPS-00693} ]
+
+[999 points table Presss select + L2]
+Type = Gameshark
+Activation = EndFrame
+D00A7322 FEFE
+800B6BDA 03E7
+
+[999 points back Presss Select + R2]
+Type = Gameshark
+Activation = EndFrame
+D00A7322 FDFE
+800B6BD8 03E7
+
+[3 balls Presss select + left]
+Type = Gameshark
+Activation = EndFrame
+D00A7322 FF7E
+300B6BCF 0003
+
+[Two strikes Presss select + up]
+Type = Gameshark
+Activation = EndFrame
+D00A7322 FFEE
+300B6BD0 0002
+
+[2 out Presss select + right]
+Type = Gameshark
+Activation = EndFrame
+D00A7322 FFDE
+300B6BD1 0002
+
+[9 innings in the first Presss Select + Down]
+Type = Gameshark
+Activation = EndFrame
+D00A7322 FFBE
+300B6BD3 0009
+

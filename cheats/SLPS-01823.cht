@@ -1,0 +1,27 @@
+; CHTDB: ; [ Snobow Kids Plus (Jpn) (1999) (ASCII) {SLPS-01823} <snobokid> ]
+
+[Start Race With 9999 Coins]
+Type = Gameshark
+Activation = EndFrame
+80120EAC 270F
+
+[Infinite Weapons (Not Special Attacks)]
+Type = Gameshark
+Activation = EndFrame
+801217D0 0003
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A713F870 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A713F870 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A713F870 10000400
+

@@ -1,0 +1,18 @@
+; CHTDB: ; [ Floating Runner: 7-tsu no Suishou no Monogatari (Japan) {SLPS-00147} ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80151880 0008
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+801430DC 0001
+
+[Hold Down Square To Make 1st Shot Fly Straight]
+Type = Gameshark
+Activation = EndFrame
+D0143090 0080
+80152DCC 4000
+

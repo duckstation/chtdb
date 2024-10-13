@@ -1,0 +1,36 @@
+; CHTDB: ; [ Whizz (Europe) {SLES-00141} ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8006D038 0038
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+8006d528 0063
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80012D28 0000
+
+[One Flag Counts As Ten]
+Type = Gameshark
+Activation = EndFrame
+300226F4 000A
+
+[MoonJump On (Press Select & L1)]
+Type = Gameshark
+Activation = EndFrame
+D00B121E FBFE
+80007F00 1234
+D0007F00 1234
+8006D3A8 0000
+
+[Moonjump Off (Press Select & L2)]
+Type = Gameshark
+Activation = EndFrame
+D00B121E FEFE
+80007F00 0000
+

@@ -1,0 +1,32 @@
+; CHTDB: ; [ Ridge Racer (Japan) {SLPS-00001} ]
+
+[Select Black Car]
+Type = Gameshark
+Activation = EndFrame
+8007C25A 000C
+
+[Have All Cars]
+Type = Gameshark
+Activation = EndFrame
+80173300 000D
+
+[Have All Courses]
+Type = Gameshark
+Activation = EndFrame
+801E90A8 0008
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+8012CD20 0BB9
+
+[Speed MAX (AT)]
+Type = Gameshark
+Activation = EndFrame
+801D7F48 4FFF
+
+[Speed MAX (MT)]
+Type = Gameshark
+Activation = EndFrame
+801D7F40 0688
+

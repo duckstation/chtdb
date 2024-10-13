@@ -1,0 +1,391 @@
+; CHTDB: ; [ Queen's Road (Japan) {SLPS-00711} ]
+
+[After training all the parameters MAX]
+Type = Gameshark
+Activation = EndFrame
+800402FE 1000
+
+[Interval Scale MAX]
+Type = Gameshark
+Activation = EndFrame
+801E978A 0048
+
+[Always 0 interval gauge of enemy]
+Type = Gameshark
+Activation = EndFrame
+801E978E 0000
+
+[Max Status Arsea Country Maverick]
+Type = Gameshark
+Activation = EndFrame
+80089370 0063
+8008935A 03E7
+80089366 0063
+8008935E 03E7
+80089362 0063
+80089364 0063
+80089360 0063
+
+[Max Status Arsea Minerva]
+Type = Gameshark
+Activation = EndFrame
+8008939C 0063
+80089386 03E7
+80089392 0063
+8008938A 03E7
+8008938E 0063
+80089390 0063
+8008938C 0063
+
+[Max Status Arsea Kassim]
+Type = Gameshark
+Activation = EndFrame
+800893C8 0063
+800893B2 03E7
+800893BE 0063
+800893B6 03E7
+800893BA 0063
+800893BC 0063
+800893B8 0063
+
+[Max Status Arsea Cordoba]
+Type = Gameshark
+Activation = EndFrame
+800893F4 0063
+800893DE 03E7
+800893EA 0063
+800893E2 03E7
+800893E6 0063
+800893E8 0063
+800893E4 0063
+
+[Max Status Arsea Haren]
+Type = Gameshark
+Activation = EndFrame
+80089420 0063
+8008940A 03E7
+80089416 0063
+8008940C 03E7
+80089412 0063
+80089414 0063
+80089410 0063
+
+[Max Status Arsea Saibari]
+Type = Gameshark
+Activation = EndFrame
+8008944C 0063
+80089436 03E7
+80089442 0063
+8008943A 03E7
+8008943E 0063
+80089440 0063
+8008943C 0063
+
+[Max Status Arsea Halsey]
+Type = Gameshark
+Activation = EndFrame
+800894A4 0063
+8008948E 03E7
+8008949A 0063
+80089492 03E7
+80089496 0063
+80089498 0063
+80089494 0063
+
+[Max Status Caerleon Country Emilia]
+Type = Gameshark
+Activation = EndFrame
+8008A0A0 0063
+8008A08A 03E7
+8008A096 0063
+8008A08E 03E7
+8008A092 0063
+8008A094 0063
+8008A090 0063
+
+[Max Status Caerleon Country Near card]
+Type = Gameshark
+Activation = EndFrame
+8008A0CC 0063
+8008A0B6 03E7
+8008A0C2 0063
+8008A0BA 03E7
+8008A0BE 0063
+8008A0C0 0063
+8008A0BC 0063
+
+[Max Status Caerleon Country Cornelian]
+Type = Gameshark
+Activation = EndFrame
+8008A0F8 0063
+8008A0E2 03E7
+8008A0EE 0063
+8008A0E6 03E7
+8008A0EA 0063
+8008A0EC 0063
+8008A0E8 0063
+
+[Max Status Caerleon Country Sadler]
+Type = Gameshark
+Activation = EndFrame
+8008A124 0063
+8008A10E 03E7
+8008A11A 0063
+8008A112 03E7
+8008A116 0063
+8008A118 0063
+8008A114 0063
+
+[Max Status Caerleon Country Jean-Jacques]
+Type = Gameshark
+Activation = EndFrame
+8008A150 0063
+8008A13A 03E7
+8008A146 0063
+8008A13E 03E7
+8008A142 0063
+8008A144 0063
+8008A140 0063
+
+[Max Status Caerleon Country Hedin]
+Type = Gameshark
+Activation = EndFrame
+8008A17C 0063
+8008A166 03E7
+8008A172 0063
+8008A16A 03E7
+8008A16E 0063
+8008A170 0063
+8008A16C 0063
+
+[Max Status Dynaress Country Ludwig]
+Type = Gameshark
+Activation = EndFrame
+800897E4 0063
+800897CE 03E7
+800897DA 0063
+800897D2 03E7
+800897D6 0063
+800897D8 0063
+800897D4 0063
+
+[Max Status Dynaress Country Ramses]
+Type = Gameshark
+Activation = EndFrame
+80089810 0063
+800897FA 03E7
+80089806 0063
+800897FE 03E7
+80089802 0063
+80089804 0063
+80089800 0063
+
+[Max Status Dynaress Country Jose fan]
+Type = Gameshark
+Activation = EndFrame
+80089868 0063
+80089852 03E7
+8008985E 0063
+80089856 03E7
+8008985A 0063
+8008985C 0063
+80089858 0063
+
+[Max Status Dynaress Country Nevada]
+Type = Gameshark
+Activation = EndFrame
+80089894 0063
+8008987E 03E7
+8008988A 0063
+80089882 03E7
+80089886 0063
+80089888 0063
+80089884 0063
+
+[Max Status Dynaress Country Bellman]
+Type = Gameshark
+Activation = EndFrame
+80089918 0063
+80089902 03E7
+8008990E 0063
+80089906 03E7
+8008990A 0063
+8008990C 0063
+80089908 0063
+
+[Max Status Dynaress Country Ryan]
+Type = Gameshark
+Activation = EndFrame
+80089944 0063
+8008992E 03E7
+8008993A 0063
+80089932 03E7
+80089936 0063
+80089938 0063
+80089934 0063
+
+[Max Status Dynaress Country Sirius]
+Type = Gameshark
+Activation = EndFrame
+80089970 0063
+8008995A 03E7
+80089966 0063
+8008995E 03E7
+80089962 0063
+80089964 0063
+80089960 0063
+
+[Max Status Drasion Country Wales]
+Type = Gameshark
+Activation = EndFrame
+80088EA4 0063
+80088E8E 03E7
+80088E9A 0063
+80088E92 03E7
+80088E96 0063
+80088E98 0063
+80088E94 0063
+
+[Max Status Drasion Country Leave]
+Type = Gameshark
+Activation = EndFrame
+80088ED0 0063
+80088EBA 03E7
+80088EC6 0063
+80088EBE 03E7
+80088EC2 0063
+80088EC4 0063
+80088EC0 0063
+
+[Max Status Drasion Country Martinez]
+Type = Gameshark
+Activation = EndFrame
+80088EFC 0063
+80088EE6 03E7
+80088EF2 0063
+80088EEA 03E7
+80088EEE 0063
+80088EF0 0063
+80088EEC 0063
+
+[Max Status Drasion Country Albert]
+Type = Gameshark
+Activation = EndFrame
+80088F28 0063
+80088F12 03E7
+80088F1E 0063
+80088F16 03E7
+80088F1A 0063
+80088F1C 0063
+80088F18 0063
+
+[Max Status Drasion Country Rex]
+Type = Gameshark
+Activation = EndFrame
+80088F80 0063
+80088F6A 03E7
+80088F76 0063
+80088F6E 03E7
+80088F72 0063
+80088F74 0063
+80088F70 0063
+
+[Max Status Drasion Country De la]
+Type = Gameshark
+Activation = EndFrame
+80089004 0063
+80088FEE 03E7
+80088FFA 0063
+80088FF2 03E7
+80088FF6 0063
+80088FF8 0063
+80088FF4 0063
+
+[Max Status Drasion country Garnet]
+Type = Gameshark
+Activation = EndFrame
+80089030 0063
+8008901A 03E7
+80089026 0063
+8008901E 03E7
+80089022 0063
+80089024 0063
+80089020 0063
+
+[Max Status Zol country Bahamut]
+Type = Gameshark
+Activation = EndFrame
+80089C58 0063
+80089C42 03E7
+80089C4E 0063
+80089C46 03E7
+80089C4A 0063
+80089C4C 0063
+80089C48 0063
+
+[Max Status Zol country Galleria]
+Type = Gameshark
+Activation = EndFrame
+80089CB0 0063
+80089C9A 03E7
+80089CA6 0063
+80089C9E 03E7
+80089CA2 0063
+80089CA4 0063
+80089CA0 0063
+
+[Max Status Zol country Oldenburg]
+Type = Gameshark
+Activation = EndFrame
+80089CDC 0063
+80089CC6 03E7
+80089CD2 0063
+80089CCA 03E7
+80089CCE 0063
+80089CD0 0063
+80089CCC 0063
+
+[Max Status Zol country Puroshido]
+Type = Gameshark
+Activation = EndFrame
+80089D08 0063
+80089CF2 03E7
+80089CFE 0063
+80089CF6 03E7
+80089CFA 0063
+80089CFC 0063
+80089CF8 0063
+
+[Max Status Zol country Suvu~arogu]
+Type = Gameshark
+Activation = EndFrame
+80089D34 0063
+80089D1E 03E7
+80089D2A 0063
+80089D22 03E7
+80089D26 0063
+80089D28 0063
+80089D24 0063
+
+[Max Status Zol country Pamela]
+Type = Gameshark
+Activation = EndFrame
+80089D60 0063
+80089D4A 03E7
+80089D56 0063
+80089D4E 03E7
+80089D52 0063
+80089D54 0063
+80089D50 0063
+
+[Max Status sol country Flare]
+Type = Gameshark
+Activation = EndFrame
+80089D8C 0063
+80089D76 03E7
+80089D82 0063
+80089D7A 03E7
+80089D7E 0063
+80089D80 0063
+80089D7C 0063
+

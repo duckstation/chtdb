@@ -1,0 +1,27 @@
+; CHTDB: ; [ Victory Boxing Challenger (Europe) {SLES-02727} ]
+
+[Infinite Practice Points]
+Type = Gameshark
+Activation = EndFrame
+80088ED0 0001
+
+[P1 Always 2 Killer Punches]
+Type = Gameshark
+Activation = EndFrame
+80089FFE 0002
+
+[P2 Always 2 Killer Punches]
+Type = Gameshark
+Activation = EndFrame
+8008AFDA 0002
+
+[Infinite Killer Punches]
+Type = Gameshark
+Activation = EndFrame
+8006C8A0 0000
+
+[Amount Of Loss At Life-Powerbar Max]
+Type = Gameshark
+Activation = EndFrame
+9002AC50 240300FF
+

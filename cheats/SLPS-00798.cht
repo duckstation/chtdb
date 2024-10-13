@@ -1,0 +1,28 @@
+; CHTDB: ; [ Blam! -MachineHead (Jpn) (1997) (Virgin Interactive) {SLPS-00798} <blam> ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800BAAD4 00FF
+
+[Infinite Weapons Invincibility all becomes available.]
+Type = Gameshark
+Activation = EndFrame
+800BAE66 0101
+
+[Stage Select In the title screen, press R1]
+Type = Gameshark
+Activation = EndFrame
+800BAE6C 0101
+
+[All Weapons]
+Type = Gameshark
+Activation = EndFrame
+800BD5E8 00FA
+800BD5F0 000A
+800BD5EC 0014
+800BD5F8 0001
+800BD5F4 0001
+800BD5FC 0001
+800BD600 0001
+

@@ -1,0 +1,63 @@
+; CHTDB: ; [ NBA Live 2000 (USA) (1999) (Electronic Arts) {SLUS-00998} <nbaliv2k> ]
+
+[Select Home Team Score\100]
+Type = Gameshark
+Activation = EndFrame
+800AE118 0064
+
+[Select Home Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+800AE118 0000
+
+[Select Away Team Score\100]
+Type = Gameshark
+Activation = EndFrame
+800AE768 0064
+
+[Select Away Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+800AE768 0000
+
+[Unlock All Legends]
+Type = Gameshark
+Activation = EndFrame
+50000402 0000
+8008267C FFFF
+
+[Select Home Team Timeouts\Infinite Timeouts]
+Type = Gameshark
+Activation = EndFrame
+800AE120 0007
+
+[Select Home Team Timeouts\No Timeouts]
+Type = Gameshark
+Activation = EndFrame
+800AE120 0000
+
+[Select Away Team Timeouts\Infinite Timeouts]
+Type = Gameshark
+Activation = EndFrame
+800AE770 0007
+
+[Away Team Timeouts\No Timeouts]
+Type = Gameshark
+Activation = EndFrame
+800AE770 0000
+
+[Max Stats]
+Type = Gameshark
+Activation = EndFrame
+D008235A 0BB8
+50000902 0000
+801FFD84 6464
+
+[Infinite Shot Clock Time]
+Type = Gameshark
+Activation = EndFrame
+800B5930 0330
+800B9FF2 0107
+800BA006 00D9
+8013874E 0231
+

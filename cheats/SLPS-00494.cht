@@ -1,0 +1,22 @@
+; CHTDB: ; [ Ninja Jajamaru-kun - Onigiri Ninpouchou (Jpn) (1997) (Jaleco) {SLPS-00494} <ninjajaj> ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800B5400 4640
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800B55B0 005C
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800B5648 0003
+
+[Infinite Magic]
+Type = Gameshark
+Activation = EndFrame
+800B5650 0003
+

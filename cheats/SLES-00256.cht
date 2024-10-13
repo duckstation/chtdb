@@ -1,0 +1,12 @@
+; CHTDB: ; [ Trash It aka Trash-It (Europe) {SLES-00256} ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+8005BE2A 2400
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80020424 0009
+

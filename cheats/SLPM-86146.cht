@@ -1,0 +1,17 @@
+; CHTDB: ; [ Pop'n Tanks! (Jpn) (1999) (Enix) {SLPM-86146} <popntank> ]
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+80184288 03E7
+
+[Infinite Power]
+Type = Gameshark
+Activation = EndFrame
+8013B908 0005
+
+[Infinite Bullet]
+Type = Gameshark
+Activation = EndFrame
+8018428A 0005
+

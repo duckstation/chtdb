@@ -1,0 +1,171 @@
+; CHTDB: ; [ Tomb Raider II - Starring Lara Croft (USA, v1.0) (1997) (Eidos Interactive) {SLUS-00437, SLUS-00437A} <traid2c> ]
+
+[Barkhang Monastery\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801E31C6 03E8
+
+[Bartoli's Hideout\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801D0CBE 03E8
+
+[Catacombs of The Talion\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801C5852 03E8
+
+[Diving Area\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801BDDA2 03E8
+
+[Dragon's Lair\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801A2A5E 03E8
+
+[Dragon's Lair\Kill Boss With One Shot]
+Type = Gameshark
+Activation = EndFrame
+D008AAD4 0040
+801A31CA 0000
+
+[Fathoms\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801BB482 03E8
+
+[Floating Islands\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801D1E42 03E8
+
+[Great Wall\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8019CF52 03E8
+
+[Home Sweet Home\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801B2CCE 03E8
+
+[Ice Palace\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801C8456 03E8
+
+[Ice Palace\Kill Boss With One Shot]
+Type = Gameshark
+Activation = EndFrame
+D008AAD4 0040
+801C9F0E 0000
+
+[Living Quarters\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801B6916 03E8
+
+[Offshore Rig\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801BEC86 03E8
+
+[Opera House\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801CF2F6 03E8
+
+[Temple of Xian\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801DB426 03E8
+
+[The Deck\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801DCD1A 03E8
+
+[Tibetan Foothills\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801DB6F2 03E8
+
+[Venice\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801C19E6 03E8
+
+[Wreck of The Maria Doria\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801CFE86 03E8
+
+[Wreck of The Maria Doria\Have All 3 Circuit Breakers]
+Type = Gameshark
+Activation = EndFrame
+80088B48 0003
+
+[Lara's Home Secret Door Open]
+Type = Gameshark
+Activation = EndFrame
+8017D04A 0001
+8010BA08 1672
+
+[Infinite Oxygen]
+Type = Gameshark
+Activation = EndFrame
+8008C4FE 0708
+
+[Infinite Large Medi Packs]
+Type = Gameshark
+Activation = EndFrame
+80088AB8 03E7
+
+[Have All Special Items]
+Type = Gameshark
+Activation = EndFrame
+80088B34 0009
+
+[Have All Weapons]
+Type = Gameshark
+Activation = EndFrame
+80088AA0 000B
+
+[Infinite Automatic Pistols Ammo]
+Type = Gameshark
+Activation = EndFrame
+8008C5AC 0028
+
+[Infinite Flares]
+Type = Gameshark
+Activation = EndFrame
+80088AAA 03E7
+
+[Infinite Grenade Launcher Ammo]
+Type = Gameshark
+Activation = EndFrame
+8008C5BC 0008
+
+[Infinite M-16 Ammo]
+Type = Gameshark
+Activation = EndFrame
+8008C5C0 0050
+
+[Infinite Shotgun Ammo]
+Type = Gameshark
+Activation = EndFrame
+8008C5B4 0012
+
+[Infinite Uzis Ammo]
+Type = Gameshark
+Activation = EndFrame
+8008C5B0 00A0
+
+[Have All Levels (You Must Load A Saved Game)]
+Type = Gameshark
+Activation = EndFrame
+D006E678 0821
+9006E67C 24020013
+

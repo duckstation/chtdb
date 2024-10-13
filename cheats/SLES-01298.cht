@@ -1,0 +1,22 @@
+; CHTDB: ; [ Akuji the Heartless (Europe) {SLES-01298} ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8006E0C2 2400
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800856E2 2400
+
+[Infinite Spells]
+Type = Gameshark
+Activation = EndFrame
+80097F4A 2400
+
+[Debug Menu]
+Type = Gameshark
+Activation = EndFrame
+300C516A 000F
+

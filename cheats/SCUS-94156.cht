@@ -1,0 +1,29 @@
+; CHTDB: ; [ Cardinal Syn (USA) (1998) (989 Studios) {SCUS-94156} <cardsyn> ]
+
+[Infinite Health All Stages]
+Type = Gameshark
+Activation = EndFrame
+901946E4 32010008
+901946EC 14200002
+
+[Extra Characters]
+Type = Gameshark
+Activation = EndFrame
+50000D02 0000
+801E7B2A 0100
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A71EAD78 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A71EAD78 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A71EAD78 10000400
+

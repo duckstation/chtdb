@@ -1,0 +1,18 @@
+; CHTDB: ; [ GeGeGe no Kitarou - Gyakushuu! Youkai Daikessen (Jpn) (2003) (Konami) {SLPM-87286 (VX278-J1)} <gegegeyd> ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+300E93F0 000A
+
+[Views exhaustion]
+Type = Gameshark
+Activation = EndFrame
+300E942C 0063
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+300E97A4 0001
+300E97A8 0000
+

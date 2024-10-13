@@ -1,0 +1,62 @@
+; CHTDB: ; [ Monaco Grand Prix (USA) (1999) (Ubi Soft Entertainment Software) {SLUS-00834} <monacogp> ]
+
+[Start On Lap 5]
+Type = Gameshark
+Activation = EndFrame
+A60DC120 00010005
+
+[Max Pts Team 1]
+Type = Gameshark
+Activation = EndFrame
+801DA630 03E7
+
+[Max Pts Team 2]
+Type = Gameshark
+Activation = EndFrame
+801DA632 03E7
+
+[Max Pts Team 3]
+Type = Gameshark
+Activation = EndFrame
+801DA634 03E7
+
+[Max Pts Team 4]
+Type = Gameshark
+Activation = EndFrame
+801DA636 03E7
+
+[Max Pts Team 5]
+Type = Gameshark
+Activation = EndFrame
+801DA638 03E7
+
+[Max Pts Team 6]
+Type = Gameshark
+Activation = EndFrame
+801DA63A 03E7
+
+[Max Pts Team 7]
+Type = Gameshark
+Activation = EndFrame
+801DA63C 03E7
+
+[Max Pts Team 8]
+Type = Gameshark
+Activation = EndFrame
+801DA63E 03E7
+
+[Max Pts Team 9]
+Type = Gameshark
+Activation = EndFrame
+801DA640 03E7
+
+[Max Pts Team 10]
+Type = Gameshark
+Activation = EndFrame
+801DA642 03E7
+
+[Max Pts Team 11]
+Type = Gameshark
+Activation = EndFrame
+801DA644 03E7
+

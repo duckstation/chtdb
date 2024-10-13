@@ -1,0 +1,22 @@
+; CHTDB: ; [ Out Live - Be Eliminate Yesterday (Jpn) (1997) (Sunsoft) {SLPS-00746} <outlive> ]
+
+[GP 100% always]
+Type = Gameshark
+Activation = EndFrame
+8002C044 0064
+
+[L2 Weapon ammo 9999]
+Type = Gameshark
+Activation = EndFrame
+8002C112 270F
+
+[Infinite EP]
+Type = Gameshark
+Activation = EndFrame
+8002C026 00C8
+
+[The Largest Fund,]
+Type = Gameshark
+Activation = EndFrame
+9002C0B8 FFFFFFFF
+

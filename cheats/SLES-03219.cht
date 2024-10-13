@@ -1,0 +1,27 @@
+; CHTDB: ; [ Mat Hoffman's Pro BMX (Germany) {SLES-03219} ]
+
+[Unendlich Zeit]
+Type = Gameshark
+Activation = EndFrame
+D002D4D2 0003
+8002D4D4 0000
+
+[MAT HOFFMAN Alle Cover]
+Type = Gameshark
+Activation = EndFrame
+D005FDA4 1F40
+3005FDB4 001C
+
+[MAT HOFFMAN Alle Bikes freigeschaltet]
+Type = Gameshark
+Activation = EndFrame
+D005FDA4 1F40
+3005FDE2 000F
+
+[Alle Ziele erledigt]
+Type = Gameshark
+Activation = EndFrame
+D005FDA4 1F40
+50000502 3F3F
+8005FDB8 0000
+

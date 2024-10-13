@@ -1,0 +1,89 @@
+; CHTDB: ; [ Tomb Raider 2 (Japan) {SLPS-01200} ]
+
+[Infinite Health (All Levels)]
+Type = Gameshark
+Activation = EndFrame
+90014D90 240403E8
+90014D9C A4440022
+
+[Infinite Items]
+Type = Gameshark
+Activation = EndFrame
+50000C02 0000
+80088A5C 03E7
+
+[Perfect Stage Results]
+Type = Gameshark
+Activation = EndFrame
+50000402 0000
+800DE648 0000
+800DE650 270F
+50000302 0000
+800DE652 0000
+900DE658 0007270F
+
+[Press L2+R2 to Skip to Next Stage]
+Type = Gameshark
+Activation = EndFrame
+E008C46B 00FC
+80089CF4 0001
+
+[All Levels\Infinite Oxygen]
+Type = Gameshark
+Activation = EndFrame
+8008C4D6 0708
+
+[All Levels\Infinite Shotgun Ammo]
+Type = Gameshark
+Activation = EndFrame
+8008C58C 0063
+
+[All Levels\Infinite Flares]
+Type = Gameshark
+Activation = EndFrame
+80088A62 0063
+
+[All Levels\Infinite Large Medic Packs .You can use infinite medic packs instead of the infinite health codes because the medic pack 's codes are working in all level.]
+Type = Gameshark
+Activation = EndFrame
+80088A64 0063
+
+[All Levels\Infinite Small Medic Packs]
+Type = Gameshark
+Activation = EndFrame
+80088A66 0063
+
+[Have All Guns]
+Type = Gameshark
+Activation = EndFrame
+80088A54 000B
+50000904 0054
+80088A8C 7F80
+80088AB0 8514
+80088AB4 84C0
+
+[Can't Get Crushed by Boulders]
+Type = Gameshark
+Activation = EndFrame
+8005EF0A 1000
+
+[Great Wall\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8019D17A 03E8
+
+[Great Wall\Long Jump]
+Type = Gameshark
+Activation = EndFrame
+8019D176 006B
+
+[Venice\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801C1C1A 03E8
+
+[Venice\Long Jump]
+Type = Gameshark
+Activation = EndFrame
+801C1C16 006B
+

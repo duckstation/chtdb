@@ -1,0 +1,39 @@
+; CHTDB: ; [ Dezaemon Plus (Jpn) (1996) (Athena) {SLPS-00335} <dezaepls> ]
+
+[Bombs Remain Active After Launching]
+Type = Gameshark
+Activation = EndFrame
+D00EA03A 0001
+8016F940 00FF
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8014E62C 0002
+
+[Infinite Bombs]
+Type = Gameshark
+Activation = EndFrame
+8014E99C 0003
+
+[Always At Full Speed]
+Type = Gameshark
+Activation = EndFrame
+8014E7B0 0003
+
+[Always Have Shields]
+Type = Gameshark
+Activation = EndFrame
+8014E9C4 0001
+
+[Always Have Fully Powered Weapons]
+Type = Gameshark
+Activation = EndFrame
+8014E1E8 0003
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+D002FE2A 2442
+30112A55 0001
+

@@ -1,0 +1,66 @@
+; CHTDB: ; [ Dragon Ball GT - Final Bout (USA) (1997) (Bandai America) {SLUS-00493} <dballgt> ]
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80072840 0880
+
+[P1 Select Power\Maximum]
+Type = Gameshark
+Activation = EndFrame
+80072842 00C4
+
+[P1 Select Power\Minimum]
+Type = Gameshark
+Activation = EndFrame
+80072842 0000
+
+[P2 Infinite Life Meter]
+Type = Gameshark
+Activation = EndFrame
+800728BC 0880
+
+[P2 Select Power\Maximum]
+Type = Gameshark
+Activation = EndFrame
+800728BE 00C4
+
+[P2 Select Power\Minimum]
+Type = Gameshark
+Activation = EndFrame
+800728BE 0000
+
+[Enable All Blocks (Build-Up Mode)]
+Type = Gameshark
+Activation = EndFrame
+8003BC7C 0107
+
+[All Secret Characters]
+Description = For access to Super Baby hold Select while pushing Square
+Type = Gameshark
+Activation = EndFrame
+9003BCC4 FFFFFFFF
+D005686C 0180
+9003BCA4 00110011
+
+[Quick Level Up]
+Type = Gameshark
+Activation = EndFrame
+8003B860 0001
+8003B864 0400
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A703BE30 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A703BE30 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A703BE30 10000400
+

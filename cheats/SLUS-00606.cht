@@ -1,0 +1,55 @@
+; CHTDB: ; [ Dead or Alive (USA) (1998) (Tecmo) {SLUS-00606} <doa> ]
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80093C30 00A0
+
+[Enable Raidou + Ayane]
+Type = Gameshark
+Activation = EndFrame
+80092CC8 0101
+
+[Enable Extra Config]
+Type = Gameshark
+Activation = EndFrame
+80092CDA 7F40
+
+[Enable Extra Config alt]
+Type = Gameshark
+Activation = EndFrame
+80092CE2 7F40
+
+[Enable extra voices]
+Type = Gameshark
+Activation = EndFrame
+80092FAC 0001
+90092FA8 00010001
+90092FA4 00010001
+90092FA0 00010001
+80092F9E 0001
+90092F98 00010001
+
+[Enable extra costumes]
+Type = Gameshark
+Activation = EndFrame
+90092F84 0F0F0F0F
+90092F88 0F0F0F0F
+80092F8C 0F0F
+30092F8E 000F
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A7049F10 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A7049F10 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A7049F10 10000400
+

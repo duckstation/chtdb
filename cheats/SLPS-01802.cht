@@ -1,0 +1,91 @@
+; CHTDB: ; [ America Oudan Ultra Quiz (Japan) (PSone Books, Fukkokuban) {SLPS-01802} ]
+
+[Time recovery SELECT + L2 button]
+Type = Gameshark
+Activation = EndFrame
+D00BBFD0 0101
+8008FA04 0000
+
+[Time 0 SELECT + R2 button]
+Type = Gameshark
+Activation = EndFrame
+D00BBFD0 0102
+8008FA04 012C
+
+[The Kachinuke a dome 1 answers right in Press SELECT + D-Pad Up button]
+Type = Gameshark
+Activation = EndFrame
+D00BBFD0 1100
+801FFBA0 0008
+
+[I Kachinuke if you win once rock-paper-scissors in the SELECT + D-Pad Down button]
+Type = Gameshark
+Activation = EndFrame
+D00BBFD0 4100
+801FFEB8 0002
+
+[The flight Kachinuke quiz]
+Type = Gameshark
+Activation = EndFrame
+8008FEE4 0032
+
+[To reach the Kachinuke Hawaii SELECT + D-Pad Left button]
+Type = Gameshark
+Activation = EndFrame
+D00BBFD0 8100
+801FFD08 0002
+
+[To reach the Kachinuke Santa Fe SELECT + Triangle button#]
+Type = Gameshark
+Activation = EndFrame
+D00BBFD0 0110
+801FFF38 0001
+
+[New Orleans 10 points acquired in Press the SELECT + × button#]
+Type = Gameshark
+Activation = EndFrame
+D00BBFD0 0140
+801FFC50 000A
+
+[To reach the Kachinuke Orlando Press SELECT + START button#]
+Type = Gameshark
+Activation = EndFrame
+D00BBFD0 0900
+801FFF68 0001
+
+[Lake Powell vote already in the SELECT + right button .Press after setting the 1 remaining votes.]
+Type = Gameshark
+Activation = EndFrame
+D00BBFD0 2100
+801FFE70 0001
+D00BBFD0 2100
+801FFE72 0001
+D00BBFD0 2100
+801FFE74 0001
+D00BBFD0 2100
+801FFE76 0001
+D00BBFD0 2100
+801FFE78 0001
+D00BBFD0 2100
+801FFE7A 0001
+D00BBFD0 2100
+801FFE7C 0001
+D00BBFD0 2100
+801FFE7E 0001
+D00BBFD0 2100
+801FFE80 0001
+D00BBFD0 2100
+801FFE82 0001
+
+[Philadelphia 100 points acquired in the SELECT + L1 button]
+Type = Gameshark
+Activation = EndFrame
+D00BBFD0 0104
+801FFC20 0064
+
+[I reach in New York won Press SELECT + R1 button]
+Type = Gameshark
+Activation = EndFrame
+D00BBFD0 0108
+801FFCF2 0009
+

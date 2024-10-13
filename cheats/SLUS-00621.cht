@@ -1,0 +1,17 @@
+; CHTDB: ; [ Sesame Street - Elmo's Letter Adventure (USA) (1999) (NewKidCo) {SLUS-00621TP} <elmolett> ]
+
+[Have All Letters]
+Type = Gameshark
+Activation = EndFrame
+800719C8 000C
+
+[Infinite Strikes]
+Type = Gameshark
+Activation = EndFrame
+800719CC 0000
+
+[Have No Letters]
+Type = Gameshark
+Activation = EndFrame
+800719C8 0000
+

@@ -1,0 +1,17 @@
+; CHTDB: ; [ Kids Station - Kamen Rider Heroes (Jpn) (2002) (Bandai) {SLPS-03403} <kamenher> ]
+
+[Infinite Lives Destroy Objects]
+Type = Gameshark
+Activation = EndFrame
+8003E7C6 0003
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8003E768 03E8
+
+[Infinite Lives obstacle race]
+Type = Gameshark
+Activation = EndFrame
+8003E7C2 0003
+

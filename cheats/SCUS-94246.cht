@@ -1,0 +1,22 @@
+; CHTDB: ; [ NCAA GameBreaker 99 (USA) (1998) (989 Sports) {SCUS-94246} <ncaagb99> ]
+
+[Select Home Team Score\99]
+Type = Gameshark
+Activation = EndFrame
+80113624 0063
+
+[Select Home Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+80113624 0000
+
+[Select Away Team Score\99]
+Type = Gameshark
+Activation = EndFrame
+80113628 0063
+
+[Select Away Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+80113628 0000
+

@@ -1,0 +1,14 @@
+; CHTDB: ; [ World Pro Tennis '98 (Jpn) (1998) (I.Magic) {SLPS-01379} <wptenn98> ]
+
+[Player win 6 games]
+Type = Gameshark
+Activation = EndFrame
+80168030 0006
+80168031 0006
+80168032 0006
+
+[Computer never win a game]
+Type = Gameshark
+Activation = EndFrame
+80168035 0000
+

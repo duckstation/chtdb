@@ -1,0 +1,12 @@
+; CHTDB: ; [ Magic Carpet (Europe) {SLES-00211} ]
+
+[Infinite Health level 1]
+Type = Gameshark
+Activation = EndFrame
+8014E138 2710
+
+[Infinite Health level 2]
+Type = Gameshark
+Activation = EndFrame
+8013E5A8 2710
+

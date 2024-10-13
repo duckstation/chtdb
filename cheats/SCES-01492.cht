@@ -1,0 +1,66 @@
+; CHTDB: ; [ MediEvil (France) {SCES-01492} ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+D00F0D4C 000B
+800F8514 012C
+
+[Infinite Club]
+Type = Gameshark
+Activation = EndFrame
+800F85A0 0FF0
+
+[Infinite Knives]
+Type = Gameshark
+Activation = EndFrame
+800F85A8 0063
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+D00F0D4C 000B
+800F862C 7FFF
+
+[Have All Weapons]
+Type = Gameshark
+Activation = EndFrame
+D00F0D4C 000B
+50000F04 0000
+800F8594 1000
+
+[Have All Five Runes]
+Type = Gameshark
+Activation = EndFrame
+D00F0D4C 000B
+50000504 0000
+800F85D0 1000
+
+[Have All Shields]
+Type = Gameshark
+Activation = EndFrame
+D00F0D4C 000B
+800F861C 1000
+D00F0D4C 000B
+800F8620 1000
+D00F0D4C 000B
+800F82CC 1000
+
+[100% Souls Energy]
+Type = Gameshark
+Activation = EndFrame
+D00F0D4C 000B
+800F8634 1000
+
+[Have Dragon Shield]
+Type = Gameshark
+Activation = EndFrame
+D00F0D4C 000B
+800F8638 0000
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+A70F8594 19991333
+A70F8C9C 19991333
+

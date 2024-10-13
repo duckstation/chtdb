@@ -1,0 +1,8 @@
+; CHTDB: ; [ Max Surfing 2nd (Japan) {SLPS-02871} ]
+
+[Restore Time To 30 Sec (Push R2)]
+Type = Gameshark
+Activation = EndFrame
+D0087C7A FDFF
+800D5F88 001E
+

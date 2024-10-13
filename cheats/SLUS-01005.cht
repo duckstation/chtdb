@@ -1,0 +1,23 @@
+; CHTDB: ; [ EA Sports Supercross 2000 (USA) (1999) (Electronic Arts) {SLUS-01005} <easupx2k> ]
+
+[Start On Last Lap/Always First]
+Type = Gameshark
+Activation = EndFrame
+E00A1FAA 0000
+300A1FAA 0004
+
+[Max Season Points]
+Type = Gameshark
+Activation = EndFrame
+800FCA24 FFFF
+
+[Time is 0.00.00]
+Type = Gameshark
+Activation = EndFrame
+9009DFC8 00019CA6
+
+[Enable All Cheats .Press R1 On Quick Race Option]
+Type = Gameshark
+Activation = EndFrame
+900A1AC0 FFFFFFFF
+

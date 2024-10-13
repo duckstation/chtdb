@@ -1,0 +1,24 @@
+; CHTDB: ; [ Gundam Battle Assault 2 (USA) (2002) (Bandai America) {SLUS-01418} <gundbas2> ]
+
+[Infinite HP P1 don't enable it until you're in battle]
+Type = Gameshark
+Activation = EndFrame
+8017B554 6000
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80186F18 0063
+80186F1C 003C
+
+[P1 Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+8017B566 01F4
+
+[Everything Unlocked]
+Type = Gameshark
+Activation = EndFrame
+50001C02 0000
+800DF37E 0101
+

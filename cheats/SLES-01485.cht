@@ -1,0 +1,38 @@
+; CHTDB: ; [ Mega Man Legends (Europe) {SLES-01485} ]
+
+[Infinite Zenny]
+Type = Gameshark
+Activation = EndFrame
+900C1B94 000F423F
+
+[Infinite Life]
+Type = Gameshark
+Activation = EndFrame
+800B5286 00C4
+
+[Time 00.00]
+Type = Gameshark
+Activation = EndFrame
+900C1B84 00000000
+
+[Have all Normal Items]
+Type = Gameshark
+Activation = EndFrame
+900BE488 FFFFFFFF
+900BE48C FFFFFFFF
+
+[Have all Special Items]
+Type = Gameshark
+Activation = EndFrame
+900BE484 FFFFFFFF
+
+[Have all Special Weapons]
+Type = Gameshark
+Activation = EndFrame
+800BE478 FFFF
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+300B5328 0001
+

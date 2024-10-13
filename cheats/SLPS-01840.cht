@@ -1,0 +1,32 @@
+; CHTDB: ; [ Refrain Love 2 (Japan) {SLPS-01840 | SLPS-01841} ]
+
+[Enable graphics, music, and movie mode press the ENTER button after pressing the SELECT button on the start menu screen]
+Type = Gameshark
+Activation = EndFrame
+D007B670 0100
+8007B4E4 0004
+
+[Enable debug mode press the ENTER button after pressing the SELECT button on the start menu screen]
+Type = Gameshark
+Activation = EndFrame
+D007B670 0100
+8007B4E4 0005
+
+[Enable ending (This is the ending heroine setting and latter part (DISK2) Start ? "Kaoru" of (hidden character)) press the ENTER button after pressing the SELECT button on the start menu screen]
+Type = Gameshark
+Activation = EndFrame
+D007B670 0100
+8007B4E4 0006
+
+[Enable game modes press the ENTER button after pressing the SELECT button on the start menu screen]
+Type = Gameshark
+Activation = EndFrame
+D007B670 0100
+8007B4E4 0007
+
+[heroine setting & Part (DISK2) Start It is ending Kaoru of (hidden character) press the ENTER button after pressing the SELECT button on the start menu screen]
+Type = Gameshark
+Activation = EndFrame
+D007B670 0100
+8007B4E4 0008
+

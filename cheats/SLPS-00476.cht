@@ -1,0 +1,43 @@
+; CHTDB: ; [ Spectral Tower (Japan) {SLPS-00476} ]
+
+[HP Status]
+Type = Gameshark
+Activation = EndFrame
+8019329C 03E7
+
+[Max HP]
+Type = Gameshark
+Activation = EndFrame
+801932A0 03E7
+
+[Always dice 1]
+Type = Gameshark
+Activation = EndFrame
+80189B94 0000
+
+[Always have a key]
+Type = Gameshark
+Activation = EndFrame
+8019329E 0001
+
+[fairy stick]
+Type = Gameshark
+Activation = EndFrame
+801931D0 0001
+
+[Stage Clear]
+Type = Gameshark
+Activation = EndFrame
+800C0954 0001
+
+[Status MAX]
+Type = Gameshark
+Activation = EndFrame
+8019329C 03E7
+901932A0 03E703E7
+901932A4 03E703E7
+901932A8 03E703E7
+901932AC 03E703E7
+901932B0 03E703E7
+901932B4 00000000
+

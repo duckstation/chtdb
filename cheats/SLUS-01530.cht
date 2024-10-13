@@ -1,0 +1,67 @@
+; CHTDB: ; [ Extreme Go-Kart Racing (USA) (2003) (Agetec / A1 Games) {SLUS-01530} <exgokart> ]
+
+[ALways Place First]
+Type = Gameshark
+Activation = EndFrame
+800B95F6 0000
+
+[Infinite Turbo]
+Type = Gameshark
+Activation = EndFrame
+900B9618 00FF0009
+
+[Start On Last Lap]
+Type = Gameshark
+Activation = EndFrame
+800B962A 0003
+
+[Enable Loop]
+Type = Gameshark
+Activation = EndFrame
+30010040 0000
+
+[Enable Karo]
+Type = Gameshark
+Activation = EndFrame
+30010041 0000
+
+[Enable Woot]
+Type = Gameshark
+Activation = EndFrame
+30010042 0000
+
+[Enable Buzz]
+Type = Gameshark
+Activation = EndFrame
+30010043 0000
+
+[Enable Valley Course]
+Type = Gameshark
+Activation = EndFrame
+3001002D 0000
+
+[Enable Artic Course]
+Type = Gameshark
+Activation = EndFrame
+3001002E 0000
+
+[Enable Bridge Course]
+Type = Gameshark
+Activation = EndFrame
+3001002F 0000
+
+[Enable Ocean Course]
+Type = Gameshark
+Activation = EndFrame
+30010034 0000
+
+[Enable Desert Course]
+Type = Gameshark
+Activation = EndFrame
+30010035 0000
+
+[Enable Space Course]
+Type = Gameshark
+Activation = EndFrame
+30010037 0000
+

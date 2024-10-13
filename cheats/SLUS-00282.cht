@@ -1,0 +1,49 @@
+; CHTDB: ; [ Red Asphalt (USA) (1998) (Interplay Productions) {SLUS-00282} <rdasphlt> ]
+
+[Enable Next World]
+Type = Gameshark
+Activation = EndFrame
+D0098DFA 0800
+80056274 000C
+
+[Have 65 Million Dollars Code Press Select at the main menu screen Use the money code alone]
+Type = Gameshark
+Activation = EndFrame
+D0098DFA 0100
+80099954 FFFF
+
+[Infinite Nitro]
+Type = Gameshark
+Activation = EndFrame
+900845B8 00000000
+
+[Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+90065B30 00000000
+
+[Infinite Offensive Weapon Energy]
+Type = Gameshark
+Activation = EndFrame
+8005981A 6464
+
+[4000 Experience Points After Your First Race]
+Type = Gameshark
+Activation = EndFrame
+80099956 0FFF
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A7099750 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A7099750 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A7099750 10000400
+

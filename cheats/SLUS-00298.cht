@@ -1,0 +1,62 @@
+; CHTDB: ; [ Herc's Adventures (USA) (1997) (LucasArts Entertainment Company) {SLUS-00298} <hercsadv> ]
+
+[Walk through Walls]
+Type = Gameshark
+Activation = EndFrame
+A707EB66 14401000
+A707EC22 14401000
+
+[Walk through Water]
+Type = Gameshark
+Activation = EndFrame
+A707B5F2 10401000
+
+[No Biting Fish]
+Type = Gameshark
+Activation = EndFrame
+A7076466 14401400
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800C4AE0 0032
+
+[P1 Infinite A Keys]
+Type = Gameshark
+Activation = EndFrame
+800C4B3A 0009
+
+[P2 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800C4B4A 0032
+
+[P2 Infinite Strengh]
+Type = Gameshark
+Activation = EndFrame
+800C4B4E 0046
+
+[P1 Have All Items (Set One)]
+Type = Gameshark
+Activation = EndFrame
+900C4AF0 00630063
+900C4AF4 00630063
+800C4AF8 0063
+900C4AFC 00630063
+900C4B00 00630063
+900C4B04 00630063
+900C4B08 00630063
+900C4B0C 00630063
+
+[P1 Have All Items (Set Two)]
+Type = Gameshark
+Activation = EndFrame
+800C4B1A 0063
+900C4B1C 00630063
+900C4B20 00630063
+900C4B24 00630063
+900C4B28 00630063
+900C4B2C 00630063
+900C4B30 00630063
+900C4B34 00630063
+

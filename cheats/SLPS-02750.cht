@@ -1,0 +1,32 @@
+; CHTDB: ; [ Chiisana Oukoku Erutoria (Jpn) (2000) (KSS) {SLPS-02750} <erutoria> ]
+
+[Have 999999G]
+Type = Gameshark
+Activation = EndFrame
+9009EEDC 000F423F
+
+[Have 60000 population]
+Type = Gameshark
+Activation = EndFrame
+800D4138 EA60
+
+[Infinite Energy in battle main character]
+Type = Gameshark
+Activation = EndFrame
+8009DE54 03E7
+
+[Infinite Energy in battle character 2]
+Type = Gameshark
+Activation = EndFrame
+8009DFB4 03E7
+
+[Infinite Energy in battle character 3]
+Type = Gameshark
+Activation = EndFrame
+8009E114 03E7
+
+[Infinite Energy in battle character 4]
+Type = Gameshark
+Activation = EndFrame
+8009E274 03E7
+

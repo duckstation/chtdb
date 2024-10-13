@@ -1,0 +1,12 @@
+; CHTDB: ; [ Thunder Storm & Road Blaster (Thunder Storm) (Japan) {SLPS-00094 | SLPS-00095} ]
+
+[Thunder Storm - Infinite Life]
+Type = Gameshark
+Activation = EndFrame
+8016C990 0005
+
+[Road Blaster - Infinite Life]
+Type = Gameshark
+Activation = EndFrame
+8016D6A0 0005
+

@@ -1,0 +1,17 @@
+; CHTDB: ; [ Simple 1500 Series Vol. 11: The Pinball: 3D (Japan) (Culture Publishers) {SLPS-02178} ]
+
+[Multiple Millions Mode]
+Type = Gameshark
+Activation = EndFrame
+80084720 FFFF
+
+[No Tilt Mode]
+Type = Gameshark
+Activation = EndFrame
+80084636 0000
+
+[Infinite Tries]
+Type = Gameshark
+Activation = EndFrame
+8008470C 0003
+

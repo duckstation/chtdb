@@ -1,0 +1,79 @@
+; CHTDB: ; [ TwinBee RPG (Jpn) (1998) (Konami) {SLPM-86077 (VX060-J1)} <twinbrpg> ]
+
+[Twinbee Infinite + Max HP]
+Type = Gameshark
+Activation = EndFrame
+801BED62 03E7
+801BED64 03E7
+
+[Twinbee Infinite + Max BP]
+Type = Gameshark
+Activation = EndFrame
+801BED66 03E7
+801BED68 03E7
+
+[Guinb Infinite + Max HP]
+Type = Gameshark
+Activation = EndFrame
+801BEDA6 03E7
+801BEDA8 03E7
+
+[BT-01 Infinite + Max HP]
+Type = Gameshark
+Activation = EndFrame
+801BEDC6 03E7
+801BEDC8 03E7
+
+[BT-02 Infinite + Max HP]
+Type = Gameshark
+Activation = EndFrame
+801BEDE6 03E7
+801BEDE8 03E7
+
+[Morte Infinite + Max HP]
+Type = Gameshark
+Activation = EndFrame
+801BEE06 03E7
+801BEE08 03E7
+
+[Firen Infinite + Max HP]
+Type = Gameshark
+Activation = EndFrame
+801BEE26 03E7
+801BEE28 03E7
+
+[Main Character Level]
+Type = Gameshark
+Activation = EndFrame
+801BED56 0099
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+801BEF4A 0098
+
+[Infinite BP]
+Type = Gameshark
+Activation = EndFrame
+801C2D56 03E7
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+801C2D1E 03E7
+
+[Max Status]
+Type = Gameshark
+Activation = EndFrame
+901BED58 03E703E7
+901BED5C 03E703E7
+901BED60 03E703E7
+901BED64 03E703E7
+801BED68 03E7
+
+[Fast Level Up]
+Type = Gameshark
+Activation = EndFrame
+8019BD2C 270F
+8019BD40 270F
+

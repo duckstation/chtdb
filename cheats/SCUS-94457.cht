@@ -1,0 +1,54 @@
+; CHTDB: ; [ Grandia (USA) (1999) (Sony Computer Entertainment America) {SCUS-94457 / SCUS-94465} <grandia> ]
+
+[Character 1 - Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800C0980 03E7
+
+[Character 1 - Max HP]
+Type = Gameshark
+Activation = EndFrame
+800C0982 03E7
+
+[Character 2 - Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800C0B6C 03E7
+
+[Character 2 - Max HP]
+Type = Gameshark
+Activation = EndFrame
+800C0B6E 03E7
+
+[Character 3 - Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800C0D58 03E7
+
+[Character 3 - Max HP]
+Type = Gameshark
+Activation = EndFrame
+800C0D5A 03E7
+
+[Character 4 - Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800C0F44 03E7
+
+[Character 4 - Max HP]
+Type = Gameshark
+Activation = EndFrame
+800C0F46 03E7
+
+[Have All Magic (All Characters)]
+Type = Gameshark
+Activation = EndFrame
+50003201 0000
+3001066C 00FF
+800106CE FFFF
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+80010164 FFFF
+

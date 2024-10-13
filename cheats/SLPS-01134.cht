@@ -1,0 +1,45 @@
+; CHTDB: ; [ Jan Jan Koi Shimasho: Lovely Pop 2 in 1 (Japan) {SLPS-01134} ]
+
+[Enemy has always 0 points]
+Type = Gameshark
+Activation = EndFrame
+8013718C 0000
+
+[Player has always 9999 points]
+Type = Gameshark
+Activation = EndFrame
+8013711C 270F
+
+[Have 999000 points]
+Type = Gameshark
+Activation = EndFrame
+90137170 000F3E58
+
+[Enemy has 0 points in hanafuda]
+Type = Gameshark
+Activation = EndFrame
+801F9B64 0000
+
+[Player has 99 points in hanafuda]
+Type = Gameshark
+Activation = EndFrame
+801F9B4C 0063
+
+[four large-hidden treasure Omake Made]
+Type = Gameshark
+Activation = EndFrame
+3011FAB0 0031
+3011FAB4 0031
+3011FAB8 0031
+3011FABC 0032
+3011FAC0 0032
+3011FAC4 0032
+3011FAC8 0033
+3011FACC 0033
+3011FAD0 0033
+3011FAD4 0034
+3011FAD8 0034
+3011FADC 0034
+3011FAE0 0037
+3011FAE4 0037
+

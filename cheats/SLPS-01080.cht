@@ -1,0 +1,128 @@
+; CHTDB: ; [ Puyo Puyo Sun: Ketteiban (Japan) {SLPS-01080} ]
+
+[P1 Max No. Of Win For]
+Type = Gameshark
+Activation = EndFrame
+801CDD28 0063
+
+[P2 Max No. Of Win For]
+Type = Gameshark
+Activation = EndFrame
+801CDD2C 0063
+
+[All Gallery Unlock]
+Type = Gameshark
+Activation = EndFrame
+901CDD1C 0003FFFF
+
+[The large fall 2P]
+Type = Gameshark
+Activation = EndFrame
+9003D370 30821000
+8003D376 1440
+8003D378 004E
+8003D386 AC80
+
+[Easy Difficulty level]
+Type = Gameshark
+Activation = EndFrame
+801CDD3C 0000
+
+[1P Mode\Arle Starts @ Extra Stage vs. Carbuncle]
+Type = Gameshark
+Activation = EndFrame
+A61CDB00 0001000E
+
+[1P Mode\Arle Starts @ Final Stage vs. Satan]
+Type = Gameshark
+Activation = EndFrame
+A61CDB00 0001000D
+
+[1P Mode\Schezo Starts @ Extra Stage vs. Carbuncle]
+Type = Gameshark
+Activation = EndFrame
+A61CDB00 00010009
+
+[1P Mode\Schezo Starts @ Final Stage vs. Satan]
+Type = Gameshark
+Activation = EndFrame
+A61CDB00 00010008
+
+[Endless Mode\P1 Max Level]
+Type = Gameshark
+Activation = EndFrame
+801CDDFC 0063
+
+[P1 Get 1 Sun Puyo per Turn]
+Type = Gameshark
+Activation = EndFrame
+80120DE0 0001
+
+[P2 Get 1 Sun Puyo per Turn]
+Type = Gameshark
+Activation = EndFrame
+80121210 0001
+
+[P1 Massive Ojama Puyos]
+Type = Gameshark
+Activation = EndFrame
+80120D94 001E
+
+[P2 Massive Ojama Puyos]
+Type = Gameshark
+Activation = EndFrame
+801211C8 001E
+
+[P1 Max Score]
+Type = Gameshark
+Activation = EndFrame
+901CDDE4 05F5E0FF
+
+[P2 Max Score]
+Type = Gameshark
+Activation = EndFrame
+901CDDE8 05F5E0FF
+
+[Nazo Puyo Mode\All Clear]
+Type = Gameshark
+Activation = EndFrame
+50000D01 0000
+301D42A0 00FF
+
+[P1 No Ojama Puyos]
+Type = Gameshark
+Activation = EndFrame
+80120D94 0000
+
+[P2 No Ojama Puyos]
+Type = Gameshark
+Activation = EndFrame
+801211C8 0000
+
+[P1 No Sun Puyos]
+Type = Gameshark
+Activation = EndFrame
+80120DE0 0000
+
+[P2 No Sun Puyos]
+Type = Gameshark
+Activation = EndFrame
+80121210 0000
+
+[P1 No Warning Puyos]
+Type = Gameshark
+Activation = EndFrame
+801060C8 0000
+
+[P2 No Warning Puyos]
+Type = Gameshark
+Activation = EndFrame
+801060CC 0000
+
+[Unlock All Extras]
+Type = Gameshark
+Activation = EndFrame
+901CDD1C 0003FFFF
+901CDD24 07FFFFFF
+801CDD98 0079
+

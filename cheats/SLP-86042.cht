@@ -1,0 +1,12 @@
+; CHTDB: ; [ Gradius Gaiden (Japan) {SLP-86042} ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+A7043A94 FFFF0000
+
+[Invincibility against Sprites]
+Type = Gameshark
+Activation = EndFrame
+A70420D6 10401000
+

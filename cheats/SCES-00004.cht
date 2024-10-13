@@ -1,0 +1,42 @@
+; CHTDB: ; [ Rapid Reload (Europe) {SCES-00004} ]
+
+[Infinite Continues]
+Type = Gameshark
+Activation = EndFrame
+801A82DC 0009
+
+[Infinite Bombs]
+Type = Gameshark
+Activation = EndFrame
+801E2EF4 0001
+
+[Infinite Health Level 1]
+Type = Gameshark
+Activation = EndFrame
+801E3660 0068
+
+[Infinite Health Level 2]
+Type = Gameshark
+Activation = EndFrame
+801E2E9C 0068
+
+[Infinite Health Level 3]
+Type = Gameshark
+Activation = EndFrame
+801DE5B4 0068
+
+[Infinite Health Level 4]
+Type = Gameshark
+Activation = EndFrame
+801E8300 0068
+
+[Infinite Health Level 5]
+Type = Gameshark
+Activation = EndFrame
+801DBAE4 0068
+
+[Infinite Health Level 6]
+Type = Gameshark
+Activation = EndFrame
+801DAFE8 0068
+

@@ -1,0 +1,38 @@
+; CHTDB: ; [ Rescue Heroes - Molten Menace (USA) (2001) (Mattel Interactive) {SLUS-01373} <rscheros> ]
+
+[Billy Blazes]
+Type = Gameshark
+Activation = EndFrame
+50000A04 0000
+80064BC6 270F
+
+[Ariel Flyer]
+Type = Gameshark
+Activation = EndFrame
+50000C04 0000
+80064BF2 270F
+
+[Rocky Canyon]
+Type = Gameshark
+Activation = EndFrame
+50001004 0000
+80064C26 270F
+
+[Air Rescue Spec]
+Type = Gameshark
+Activation = EndFrame
+50001004 0000
+80064C6A 270F
+
+[Gil Gripper]
+Type = Gameshark
+Activation = EndFrame
+50000A04 0000
+80064CAE 270F
+
+[Jake Justice]
+Type = Gameshark
+Activation = EndFrame
+50000C04 0000
+80064CDA 270F
+

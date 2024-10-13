@@ -1,0 +1,116 @@
+; CHTDB: ; [ Soul Edge (Japan) {SLPS-00555} ]
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800C33AA 00F0
+
+[Life does not decrease 1P]
+Type = Gameshark
+Activation = EndFrame
+800BCBCA 00F0
+
+[Does not decrease 1P weapon gauge]
+Type = Gameshark
+Activation = EndFrame
+800BCD26 0060
+
+[K.O. 0 blow 2P Life]
+Type = Gameshark
+Activation = EndFrame
+800BFB02 0000
+
+[P2 No Energy]
+Type = Gameshark
+Activation = EndFrame
+800C62E2 0000
+
+[P1 Infinite Health Alternate]
+Type = Gameshark
+Activation = EndFrame
+800BCBCA 00F0
+800BCBCE 00F0
+
+[P1 Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800BCBCA 00F0
+
+[All Weapons Cervantes]
+Type = Gameshark
+Activation = EndFrame
+800E6D52 00FF
+800E7692 00FF
+
+[All Weapons Hwang]
+Type = Gameshark
+Activation = EndFrame
+800E6D50 00FF
+800E7690 00FF
+
+[All Weapons Li Long]
+Type = Gameshark
+Activation = EndFrame
+800E6D46 00FF
+800E7686 00FF
+
+[All Weapons Mitsurugi]
+Type = Gameshark
+Activation = EndFrame
+800E6D40 00FF
+800E7680 00FF
+
+[All Weapons Rock]
+Type = Gameshark
+Activation = EndFrame
+800E6D4E 00FF
+800E768E 00FF
+
+[All Weapons Seigfried]
+Type = Gameshark
+Activation = EndFrame
+800E6D4C 00FF
+800E768C 00FF
+
+[All Weapons Seung Mina]
+Type = Gameshark
+Activation = EndFrame
+800E6D42 00FF
+800E7682 00FF
+
+[All Weapons Taki]
+Type = Gameshark
+Activation = EndFrame
+800E6D44 00FF
+800E7684 00FF
+
+[All Weapons Voldo]
+Type = Gameshark
+Activation = EndFrame
+800E6D48 00FF
+800E7688 00FF
+
+[All Weapons Sophitia]
+Type = Gameshark
+Activation = EndFrame
+800E6D4A 00FF
+800E768A 00FF
+
+[Unlock SoulEdge & Han Myong]
+Type = Gameshark
+Activation = EndFrame
+8009DF3E 1107
+
+[Unlock Extras + Bonus]
+Type = Gameshark
+Activation = EndFrame
+8009987E FFFF
+300A078B 000E
+900A078C 14121110
+900A0790 19181615
+50000A02 0000
+300E6D40 00FF
+50000A02 0000
+300E7680 00FF
+800E77CC 0017
+

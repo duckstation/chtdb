@@ -1,0 +1,7 @@
+; CHTDB: ; [ Shanghai: Banri no Choujou (Japan) (Mouse Set) {SCPS-10005} ]
+
+[Infinite Helps in Arcade Mode]
+Type = Gameshark
+Activation = EndFrame
+800FF170 0003
+

@@ -1,0 +1,43 @@
+; CHTDB: ; [ Apocalypse (USA) (1998) (Activision) {SLUS-00373} <apocalyp> ]
+
+[All Weapons]
+Type = Gameshark
+Activation = EndFrame
+80018BD2 2400
+90018BE4 240203E8
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+80022B46 2400
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8005DF06 2400
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800FF874 0005
+
+[Infinite Smart Bombs]
+Type = Gameshark
+Activation = EndFrame
+8005D45E 2400
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800FF31C 0001
+
+[Have Debug Screen Open]
+Type = Gameshark
+Activation = EndFrame
+800FF33C 0001
+
+[Stage Select]
+Type = Gameshark
+Activation = EndFrame
+800FF338 0001
+

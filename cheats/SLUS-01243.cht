@@ -1,0 +1,63 @@
+; CHTDB: ; [ The Dukes of Hazzard II - Daisy Dukes It Out (USA) (2000) (SouthPeak Interactive) {SLUS-01243} <hazzard2> ]
+
+[No Car Damage]
+Type = Gameshark
+Activation = EndFrame
+A703E446 A4822400
+A703E46A A4822400
+A703E49E A4822400
+A703E4BE A4822400
+
+[Stop Timer]
+Type = Gameshark
+Activation = EndFrame
+A703B5DE A4622400
+
+[Infinite Turbos]
+Type = Gameshark
+Activation = EndFrame
+E00C1CA0 0000
+300C1CA0 0009
+
+[Infinite Wrenches]
+Type = Gameshark
+Activation = EndFrame
+E00C1CA2 0000
+300C1CA2 0009
+
+[Infinite Oil]
+Type = Gameshark
+Activation = EndFrame
+E00C1CA6 0000
+300C1CA6 0009
+
+[Infinite Arrows]
+Type = Gameshark
+Activation = EndFrame
+E00C1CA8 0000
+300C1CA8 0009
+
+[Only Need 1 Flag]
+Type = Gameshark
+Activation = EndFrame
+E00C18A9 0005
+300C18A9 0001
+
+[Only Have 1 Letter Left]
+Type = Gameshark
+Activation = EndFrame
+E00C18A9 000A
+300C18A9 0001
+
+[Only Need 1 Trophies]
+Type = Gameshark
+Activation = EndFrame
+E00C18A9 0008
+300C18A9 0001
+
+[Have All Levels]
+Description = With this cheat, you need to either have a save game or go start a game then exit the level so you have a personal file created
+Type = Gameshark
+Activation = EndFrame
+8005BB9E 0012
+

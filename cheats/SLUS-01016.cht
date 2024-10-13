@@ -1,0 +1,410 @@
+; CHTDB: ; [ Mission - Impossible (USA) (1999) (Infogrames) {SLUS-01016} <missimp> ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+8008FD7C 00FF
+;#Select Starting Level\Icy Cold - Lundkwist-Base
+;D008F894 0000
+;3008F894 0000
+;#Select Starting Level\Icy Cold - Submarine Harbor
+;D008F894 0000
+;3008F894 0001
+;#Select Starting Level\The NOC-List - The Embassy
+;D008F894 0000
+;3008F894 0002
+;#Select Starting Level\The NOC-List - The Camp
+;D008F894 0000
+;3008F894 0003
+;#Select Starting Level\The NOC-List - KGB-HQ
+;D008F894 0000
+;3008F894 0004
+;#Select Starting Level\The NOC-List - Security corridor
+;D008F894 0000
+;3008F894 0005
+;#Select Starting Level\The NOC-List - Sewer
+;D008F894 0000
+;3008F894 0006
+;#Select Starting Level\The NOC-List - On the Run
+;D008F894 0000
+;3008F894 0007
+;#Select Starting Level\The NOC-List - On the Run II
+;D008F894 0000
+;3008F894 0008
+;#Select Starting Level\The NOC-List - Fire Alarm
+;D008F894 0000
+;3008F894 0009
+;#Select Starting Level\Escape the CIA - The Interrogation
+;D008F894 0000
+;3008F894 000A
+;#Select Starting Level\Escape the CIA - Serum
+;D008F894 0000
+;3008F894 000B
+;#Select Starting Level\Escape the CIA - Medical Room
+;D008F894 0000
+;3008F894 000C
+;#Select Starting Level\Escape the CIA - Rooftops
+;D008F894 0000
+;3008F894 000D
+;#Select Starting Level\Escape the CIA - Terminal Room
+;D008F894 0000
+;3008F894 000E
+;#Select Starting Level\Escape the CIA - Escape the Roof
+;D008F894 0000
+;3008F894 000F
+;#Select Starting Level\The Mole - Waterloo Station
+;D008F894 0000
+;3008F894 0010
+;#Select Starting Level\The Mole - TGV
+;D008F894 0000
+;3008F894 0011
+;#Select Starting Level\The Mole - TGV II
+;D008F894 0000
+;3008F894 0012
+;#Select Starting Level\The Mole - On the Roof
+;D008F894 0000
+;3008F894 0013
+;#Select Starting Level\Ice Storm - Submarine Harbor
+;D008F894 0000
+;3008F894 0014
+;#Select Starting Level\Ice Storm - Tunnel
+;D008F894 0000
+;3008F894 0015
+;#Select Starting Level\Ice Storm - The Base
+;D008F894 0000
+;3008F894 0016
+;#Select Starting Level\Ice Storm - Gunboat
+;D008F894 0000
+;3008F894 0017
+
+[Infinite Ammo (All Weapons) {ASM]]
+Type = Gameshark
+Activation = EndFrame
+800454AA 2400
+;#Infinite Ammo after pickup (ASM ALT)
+;80045446 3C00
+;#Infinite Ammo (RAM)
+;301F5812 0063
+
+[Infinite Fire extinguisher]
+Type = Gameshark
+Activation = EndFrame
+301F5820 00FF
+
+[Infinite Masks]
+Type = Gameshark
+Activation = EndFrame
+301F5822 0063
+
+[Infinite Teaser]
+Type = Gameshark
+Activation = EndFrame
+301F5832 0064
+
+[Infinite Blue Spray]
+Type = Gameshark
+Activation = EndFrame
+301F5852 0064
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8008FC0C 0196
+3008FC1C 00FF
+
+[Infinite Health (ALT)]
+Type = Gameshark
+Activation = EndFrame
+8008FE04 00FF
+
+[Unlock All Missions]
+Type = Gameshark
+Activation = EndFrame
+8008FA8C 00FF
+8008FB10 FFFF
+
+[Long Jump - ON (Press UP, then X), OFF (Press UP, then X)]
+Type = Gameshark
+Activation = EndFrame
+D008F888 1040
+3008FA28 0001
+D008F888 0040
+3008FA28 0000
+
+[No AI - ON (Press Select & L1 Pad 2), OFF (Press Select & L2 Pad 2)]
+Type = Gameshark
+Activation = EndFrame
+D01FADBC FBFE
+3008F8EC 0001
+D01FADBC FEFE
+3008F8EC 0000
+;#Walk Through Walls - ON (Press Select & Left), OFF (Press Select & Right)
+;D01FAD9A FF7E
+;80048E4A 1000
+;D01FAD9A FFDE
+;80048E4A 1040
+
+[Paralysed Enemies - ON (Press Select & Up), OFF (Press Select & Down)]
+Type = Gameshark
+Activation = EndFrame
+D01FAD9A FFEE
+3006CB38 0000
+D01FAD9A FFBE
+3006CB38 0004
+
+[Turbo Mode - ON (Press Select & R1 Pad 2), OFF (Press Select & R2 Pad 2)]
+Type = Gameshark
+Activation = EndFrame
+D01FADBC F7FE
+9008E808 00020002
+D01FADBC FDFE
+9008E808 00010001
+
+[Slow Motion - ON (Press L1 & R1 Pad 2), OFF (Press L2 & R2 Pad 2)]
+Type = Gameshark
+Activation = EndFrame
+D01FADBC F3FF
+50000202 0002
+8008E808 FFFD
+D01FADBC FCFF
+8008E808 0001
+D01FADBC FCFF
+8008E80A 0001
+
+[Super Jump\Enabled]
+Type = Gameshark
+Activation = EndFrame
+8008FC14 0001
+
+[Super Jump\Disabled]
+Type = Gameshark
+Activation = EndFrame
+8008FC14 0000
+
+[Select Slow Motion Mode (ALT)\Enabled]
+Type = Gameshark
+Activation = EndFrame
+9008E9D0 FFFFFFFD
+
+[Select Slow Motion Mode (ALT)\Disabled]
+Type = Gameshark
+Activation = EndFrame
+9008E9D0 00000001
+
+[Select Turbo Mode (ALT)\Enabled]
+Type = Gameshark
+Activation = EndFrame
+8008E9D0 0004
+
+[Select Turbo Mode (ALT)\Disabled]
+Type = Gameshark
+Activation = EndFrame
+8008E9D0 0001
+
+[Select Stupid AI Mode (ALT)\Enabled]
+Type = Gameshark
+Activation = EndFrame
+8008FADC 0001
+
+[Select Stupid AI Mode (ALT)\Disabled]
+Type = Gameshark
+Activation = EndFrame
+8008FADC 0000
+
+[DIRECTORSCUT Password]
+Type = Gameshark
+Activation = EndFrame
+3008FA94 0001
+
+[GOFIRSTFRAME Password]
+Type = Gameshark
+Activation = EndFrame
+301E3B08 0001
+
+[Select Weather\Snow]
+Type = Gameshark
+Activation = EndFrame
+3008F894 0000
+
+[Select Weather\Sun]
+Type = Gameshark
+Activation = EndFrame
+3008F894 0002
+
+[Select Weather\Rain]
+Type = Gameshark
+Activation = EndFrame
+3008F894 000F
+
+[View FMV Sequence\XAP-Logo]
+Type = Gameshark
+Activation = EndFrame
+D008F888 000F
+800E6148 3558
+D008F888 0100
+800E6148 2858
+
+[View FMV Sequence\Intro]
+Type = Gameshark
+Activation = EndFrame
+D008F888 000F
+800E6148 358C
+D008F888 0100
+800E6148 2858
+
+[View FMV Sequence\Menue]
+Type = Gameshark
+Activation = EndFrame
+D008F888 000F
+800E6148 35C0
+D008F888 0100
+800E6148 2858
+
+[View FMV Sequence\Ice hit briefing]
+Type = Gameshark
+Activation = EndFrame
+D008F888 000F
+800E6148 35F4
+D008F888 0100
+800E6148 2858
+
+[View FMV Sequence\NOC briefing]
+Type = Gameshark
+Activation = EndFrame
+D008F888 000F
+800E6148 3628
+D008F888 0100
+800E6148 2858
+
+[View FMV Sequence\Arrested I]
+Type = Gameshark
+Activation = EndFrame
+D008F888 000F
+800E6148 365C
+D008F888 0100
+800E6148 2858
+
+[View FMV Sequence\Arrested II]
+Type = Gameshark
+Activation = EndFrame
+D008F888 000F
+800E6148 3690
+D008F888 0100
+800E6148 2858
+
+[View FMV Sequence\Arrested III]
+Type = Gameshark
+Activation = EndFrame
+D008F888 000F
+800E6148 36C4
+D008F888 0100
+800E6148 2858
+
+[View FMV Sequence\The rooftop]
+Type = Gameshark
+Activation = EndFrame
+D008F888 000F
+800E6148 36F8
+D008F888 0100
+800E6148 2858
+
+[View FMV Sequence\Falling down]
+Type = Gameshark
+Activation = EndFrame
+D008F888 000F
+800E6148 372C
+D008F888 0100
+800E6148 2858
+
+[View FMV Sequence\Meeting Candice I]
+Type = Gameshark
+Activation = EndFrame
+D008F888 000F
+800E6148 3760
+D008F888 0100
+800E6148 2858
+
+[View FMV Sequence\Meeting Candice II]
+Type = Gameshark
+Activation = EndFrame
+D008F888 000F
+800E6148 3794
+D008F888 0100
+800E6148 2858
+
+[View FMV Sequence\Bomb on board]
+Type = Gameshark
+Activation = EndFrame
+D008F888 000F
+800E6148 37C8
+D008F888 0100
+800E6148 2858
+
+[View FMV Sequence\The mole escapes]
+Type = Gameshark
+Activation = EndFrame
+D008F888 000F
+800E6148 37FC
+D008F888 0100
+800E6148 2858
+
+[View FMV Sequence\A new mission ?]
+Type = Gameshark
+Activation = EndFrame
+D008F888 000F
+800E6148 3830
+D008F888 0100
+800E6148 2858
+
+[View FMV Sequence\Ice storm briefing]
+Type = Gameshark
+Activation = EndFrame
+D008F888 000F
+800E6148 3864
+D008F888 0100
+800E6148 2858
+
+[View FMV Sequence\Tunnel explosion]
+Type = Gameshark
+Activation = EndFrame
+D008F888 000F
+800E6148 3898
+D008F888 0100
+800E6148 2858
+
+[View FMV Sequence\The end]
+Type = Gameshark
+Activation = EndFrame
+D008F888 000F
+800E6148 38CC
+D008F888 0100
+800E6148 2858
+
+[View FMV Sequence\Action outro]
+Type = Gameshark
+Activation = EndFrame
+D008F888 000F
+800E6148 3900
+D008F888 0100
+800E6148 2858
+
+[Turn Music OFF]
+Type = Gameshark
+Activation = EndFrame
+3008E85F 0000
+
+[Y-Fix]
+Type = Gameshark
+Activation = EndFrame
+8007F218 0000
+
+[FMV-screen]
+Type = Gameshark
+Activation = EndFrame
+3008F868 0001
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+80077F34 1555
+

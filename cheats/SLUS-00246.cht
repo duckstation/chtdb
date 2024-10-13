@@ -1,0 +1,68 @@
+; CHTDB: ; [ WWF In Your House (USA, v1.0) (1996) (Acclaim Entertainment) {SLUS-00246} <wwfiyha> ]
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8006F4A0 0078
+
+[P2 No Energy]
+Type = Gameshark
+Activation = EndFrame
+8006F4A8 0000
+
+[P1 Needs 1 Match to Win]
+Type = Gameshark
+Activation = EndFrame
+D0076E94 0000
+30076E94 0001
+
+[P1 Select Character\Shawn Michaels]
+Type = Gameshark
+Activation = EndFrame
+301B2F90 0000
+
+[P1 Select Character\Brett Hart]
+Type = Gameshark
+Activation = EndFrame
+301B2F90 0001
+
+[P1 Select Character\Ahmed Johnson]
+Type = Gameshark
+Activation = EndFrame
+301B2F90 0002
+
+[P1 Select Character\Undertaker]
+Type = Gameshark
+Activation = EndFrame
+301B2F90 0003
+
+[P1 Select Character\Ultimate Warrior]
+Type = Gameshark
+Activation = EndFrame
+301B2F90 0004
+
+[P1 Select Character\Vader]
+Type = Gameshark
+Activation = EndFrame
+301B2F90 0005
+
+[P1 Select Character\Owen Hart]
+Type = Gameshark
+Activation = EndFrame
+301B2F90 0006
+
+[P1 Select Character\British Bulldog]
+Type = Gameshark
+Activation = EndFrame
+301B2F90 0007
+
+[P1 Select Character\Goldust]
+Type = Gameshark
+Activation = EndFrame
+301B2F90 0008
+
+[P1 Select Character\Hunter H.H.]
+Type = Gameshark
+Activation = EndFrame
+301B2F90 0009
+

@@ -1,0 +1,43 @@
+; CHTDB: ; [ Muppet Monster Adventure (USA) (2000) (Midway Home Entertainment) {SLUS-01238} <muppetma> ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+300B8908 0009
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+300B8909 0003
+
+[Unlock Bonus Level 1]
+Type = Gameshark
+Activation = EndFrame
+300CCB86 00FF
+
+[All Bosses Defeated]
+Type = Gameshark
+Activation = EndFrame
+300B8904 0005
+
+[Always Have Access To Hub (Pause Menu)]
+Type = Gameshark
+Activation = EndFrame
+C0060FA8 1021
+90060FBC 34840100
+80060FC2 1000
+90060FC4 AC640008
+00000000 FFFF
+C0060E80 1021
+90060E94 34840100
+80060E9A 1000
+90060E9C AC640008
+00000000 FFFF
+
+[Unlock All Levels]
+Type = Gameshark
+Activation = EndFrame
+800B88FE 270F
+300B8906 00FF
+300B8904 0005
+

@@ -1,0 +1,73 @@
+; CHTDB: ; [ Rushdown (USA) (1999) (Electronic Arts) {SLUS-00828} <rushdown> ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+801F4744 13AA
+
+[Always Place 1st]
+Type = Gameshark
+Activation = EndFrame
+801F4740 1000
+801F473A 0000
+
+[Unlock Europe-Snowboarding]
+Type = Gameshark
+Activation = EndFrame
+30010088 0001
+
+[Unlock Europe-Kayaking]
+Type = Gameshark
+Activation = EndFrame
+30010094 0001
+
+[Unlock Europe-Mt. Bike]
+Type = Gameshark
+Activation = EndFrame
+300100A0 0001
+
+[Unlock America-Snowboarding]
+Type = Gameshark
+Activation = EndFrame
+300100AC 0001
+
+[Unlock America-Kayaking]
+Type = Gameshark
+Activation = EndFrame
+300100B8 0001
+
+[Unlock America-Mt. Bike]
+Type = Gameshark
+Activation = EndFrame
+300100C4 0001
+
+[Unlock Asia-Snowboarding]
+Type = Gameshark
+Activation = EndFrame
+300100D0 0001
+
+[Unlock Asia-Kayaking]
+Type = Gameshark
+Activation = EndFrame
+300100DC 0001
+
+[Unlock Asia-Mt. Bike]
+Type = Gameshark
+Activation = EndFrame
+300100E8 0001
+
+[Unlock Japan-Snowboarding]
+Type = Gameshark
+Activation = EndFrame
+300100F4 0001
+
+[Unlock Japan-Kayaking]
+Type = Gameshark
+Activation = EndFrame
+30010100 0001
+
+[Unlock Japan-Mt. Bike]
+Type = Gameshark
+Activation = EndFrame
+3001010C 0001
+

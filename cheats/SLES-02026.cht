@@ -1,0 +1,27 @@
+; CHTDB: ; [ Legacy of Kain: Soul Reaver (Spain) {SLES-02026} ]
+
+[Energia Infinita Mundo Alma Desactivar cheat antes de pasaral Mundo Material]
+Type = Gameshark
+Activation = EndFrame
+800D5DAA 0186
+
+[Energia Infinita Mundo Material Desactivar cheat antes de pasaral Mundo del Alma]
+Type = Gameshark
+Activation = EndFrame
+800D5DAA 0499
+
+[Infinite Glyph Power]
+Type = Gameshark
+Activation = EndFrame
+800D5DBC 0063
+
+[All Abilities (Including Shift-at-Will) ALT]
+Type = Gameshark
+Activation = EndFrame
+800D04DA FFFF
+
+[All Forged and Special Abilities ALT]
+Type = Gameshark
+Activation = EndFrame
+800D5DB6 FFBF
+

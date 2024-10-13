@@ -1,0 +1,8 @@
+; CHTDB: ; [ Sentinel Returns (Europe) {SLES-01051} ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+D21A5A38 0008
+801A5A38 00FF
+

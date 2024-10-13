@@ -1,0 +1,12 @@
+; CHTDB: ; [ Azito 2 (Japan) {SLPS-01526} ]
+
+[Clear map]
+Type = Gameshark
+Activation = EndFrame
+300225F3 0001
+
+[MAX Money]
+Type = Gameshark
+Activation = EndFrame
+9002264C 1017DF7E
+

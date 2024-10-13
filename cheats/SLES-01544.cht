@@ -1,0 +1,684 @@
+; CHTDB: ; [ Premier Manager Ninety Nine (Europe) {SLES-01544} ]
+
+[Wages = 0 (England)]
+Type = Gameshark
+Activation = EndFrame
+900E7EC0 00000000
+
+[Infinite Money (England)]
+Type = Gameshark
+Activation = EndFrame
+900E7EB0 1FFFFFFF
+
+[Only 1 Day To Upgrade Facilities Press L2 to do it]
+Type = Gameshark
+Activation = EndFrame
+D0102BE0 0100
+801223DE 0001
+
+[Only 1 Day To Upgrade Capacity Press L1 to do it]
+Type = Gameshark
+Activation = EndFrame
+D0102BE0 0400
+801223E2 0001
+
+[Wages = 0 (Italy)]
+Type = Gameshark
+Activation = EndFrame
+900DBE24 00000000
+
+[Infinite Money (Italy)]
+Type = Gameshark
+Activation = EndFrame
+900DBE14 1FFFFFFF
+
+[Premier League\Arsenal]
+Type = Gameshark
+Activation = EndFrame
+900E48E0 3B9AC9FF
+
+[Premier League\Aston Villa]
+Type = Gameshark
+Activation = EndFrame
+900E4984 3B9AC9FF
+
+[Premier League\Blackburn Rovers]
+Type = Gameshark
+Activation = EndFrame
+900E4B70 3B9AC9FF
+
+[Premier League\Charlton Athletic]
+Type = Gameshark
+Activation = EndFrame
+900E579C 3B9AC9FF
+
+[Premier League\Chelsea]
+Type = Gameshark
+Activation = EndFrame
+900E4C14 3B9AC9FF
+
+[Premier League\Coventry City]
+Type = Gameshark
+Activation = EndFrame
+900E4CB8 3B9AC9FF
+
+[Premier League\Derby County]
+Type = Gameshark
+Activation = EndFrame
+900E4E00 3B9AC9FF
+
+[Premier League\Everton]
+Type = Gameshark
+Activation = EndFrame
+900E4EA4 3B9AC9FF
+
+[Premier League\Leeds United]
+Type = Gameshark
+Activation = EndFrame
+900E4F48 3B9AC9FF
+
+[Premier League\Leicester City]
+Type = Gameshark
+Activation = EndFrame
+900E4FEC 3B9AC9FF
+
+[Premier League\Liverpool]
+Type = Gameshark
+Activation = EndFrame
+900E5090 3B9AC9FF
+
+[Premier League\Manchester United]
+Type = Gameshark
+Activation = EndFrame
+900E5134 3B9AC9FF
+
+[Premier League\Middlesbrough]
+Type = Gameshark
+Activation = EndFrame
+900E5AD0 3B9AC9FF
+
+[Premier League\New Castle United]
+Type = Gameshark
+Activation = EndFrame
+900E51D8 3B9AC9FF
+
+[Premier League\Nottingham Forest]
+Type = Gameshark
+Activation = EndFrame
+900E5C18 3B9AC9FF
+
+[Premier League\Sheffield Wed]
+Type = Gameshark
+Activation = EndFrame
+900E527C 3B9AC9FF
+
+[Premier League\Southampton]
+Type = Gameshark
+Activation = EndFrame
+900E5320 3B9AC9FF
+
+[Premier League\Tottenham Hotspur]
+Type = Gameshark
+Activation = EndFrame
+900E53C4 3B9AC9FF
+
+[Premier League\West Ham United]
+Type = Gameshark
+Activation = EndFrame
+900E5468 3B9AC9FF
+
+[Premier League\Wimbledon]
+Type = Gameshark
+Activation = EndFrame
+900E550C 3B9AC9FF
+
+[Division 1\Barnsley]
+Type = Gameshark
+Activation = EndFrame
+900E4A28 3B9AC9FF
+
+[Division 1\Birmingham City]
+Type = Gameshark
+Activation = EndFrame
+900E55B0 3B9AC9FF
+
+[Division 1\Bolton Wanderers]
+Type = Gameshark
+Activation = EndFrame
+900E4ACC 3B9AC9FF
+
+[Division 1\Bradford City]
+Type = Gameshark
+Activation = EndFrame
+900E5654 3B9AC9FF
+
+[Division 1\Bristol City]
+Type = Gameshark
+Activation = EndFrame
+900E66FC 3B9AC9FF
+
+[Division 1\Bury]
+Type = Gameshark
+Activation = EndFrame
+900E56F8 3B9AC9FF
+
+[Division 1\Crewe Alexandra]
+Type = Gameshark
+Activation = EndFrame
+900E5840 3B9AC9FF
+
+[Division 1\Crystal Palace]
+Type = Gameshark
+Activation = EndFrame
+900E4D5C 3B9AC9FF
+
+[Division 1\Grimsby Town]
+Type = Gameshark
+Activation = EndFrame
+900E6B78 3B9AC9FF
+
+[Division 1\Huddersfield Town]
+Type = Gameshark
+Activation = EndFrame
+900E58E4 3B9AC9FF
+
+[Division 1\Ipswich Town]
+Type = Gameshark
+Activation = EndFrame
+900E5988 3B9AC9FF
+
+[Division 1\Norwich City]
+Type = Gameshark
+Activation = EndFrame
+900E5B74 3B9AC9FF
+
+[Division 1\Oxford United]
+Type = Gameshark
+Activation = EndFrame
+900E5CBC 3B9AC9FF
+
+[Division 1\Port Vale]
+Type = Gameshark
+Activation = EndFrame
+900E5D60 3B9AC9FF
+
+[Division 1\Portsmouth]
+Type = Gameshark
+Activation = EndFrame
+900E5E04 3B9AC9FF
+
+[Division 1\Qpr]
+Type = Gameshark
+Activation = EndFrame
+900E5EA8 3B9AC9FF
+
+[Division 1\Sheffield United]
+Type = Gameshark
+Activation = EndFrame
+900E5FF0 3B9AC9FF
+
+[Division 1\Stockport County]
+Type = Gameshark
+Activation = EndFrame
+900E6094 3B9AC9FF
+
+[Division 1\Sunderland]
+Type = Gameshark
+Activation = EndFrame
+900E61DC 3B9AC9FF
+
+[Division 1\Swindon Town]
+Type = Gameshark
+Activation = EndFrame
+900E6280 3B9AC9FF
+
+[Division 1\Tranmere Rovers]
+Type = Gameshark
+Activation = EndFrame
+900E6324 3B9AC9FF
+
+[Division 1\Watford]
+Type = Gameshark
+Activation = EndFrame
+900E713C 3B9AC9FF
+
+[Division 1\West Brom]
+Type = Gameshark
+Activation = EndFrame
+900E63C8 3B9AC9FF
+
+[Division 1\Wolves]
+Type = Gameshark
+Activation = EndFrame
+900E646C 3B9AC9FF
+
+[Division 2\Blackpool]
+Type = Gameshark
+Activation = EndFrame
+900E6510 3B9AC9FF
+
+[Division 2\Bournemouth]
+Type = Gameshark
+Activation = EndFrame
+900E65B4 3B9AC9FF
+
+[Division 2\Bristol Rovers]
+Type = Gameshark
+Activation = EndFrame
+900E67A0 3B9AC9FF
+
+[Division 2\Burnley]
+Type = Gameshark
+Activation = EndFrame
+900E6844 3B9AC9FF
+
+[Division 2\Chester Field]
+Type = Gameshark
+Activation = EndFrame
+900E698C 3B9AC9FF
+
+[Division 2\Colchester Utd]
+Type = Gameshark
+Activation = EndFrame
+900E77A4 3B9AC9FF
+
+[Division 2\Fulham]
+Type = Gameshark
+Activation = EndFrame
+900E6A30 3B9AC9FF
+
+[Division 2\Gilingham]
+Type = Gameshark
+Activation = EndFrame
+900E6AD4 3B9AC9FF
+
+[Division 2\Lincoln City]
+Type = Gameshark
+Activation = EndFrame
+900E7C20 3B9AC9FF
+
+[Division 2\Luton Town]
+Type = Gameshark
+Activation = EndFrame
+900E6C1C 3B9AC9FF
+
+[Division 2\Macclesfield]
+Type = Gameshark
+Activation = EndFrame
+900E7CC4 3B9AC9FF
+
+[Division 2\Manchester City]
+Type = Gameshark
+Activation = EndFrame
+900E5A2C 3B9AC9FF
+
+[Division 2\Millwall]
+Type = Gameshark
+Activation = EndFrame
+900E6CC0 3B9AC9FF
+
+[Division 2\Northampton Town]
+Type = Gameshark
+Activation = EndFrame
+900E6D64 3B9AC9FF
+
+[Division 2\Notts County]
+Type = Gameshark
+Activation = EndFrame
+900E7E0C 3B9AC9FF
+
+[Division 2\Oldham Athletic]
+Type = Gameshark
+Activation = EndFrame
+900E6E08 3B9AC9FF
+
+[Division 2\Perston North End]
+Type = Gameshark
+Activation = EndFrame
+900E6F50 3B9AC9FF
+
+[Division 2\Reading]
+Type = Gameshark
+Activation = EndFrame
+900E5F4C 3B9AC9FF
+
+[Division 2\Stoke City]
+Type = Gameshark
+Activation = EndFrame
+900E6138 3B9AC9FF
+
+[Division 2\Walsall]
+Type = Gameshark
+Activation = EndFrame
+900E7098 3B9AC9FF
+
+[Division 2\Wigan Athletic]
+Type = Gameshark
+Activation = EndFrame
+900E71E0 3B9AC9FF
+
+[Division 2\Wrexham]
+Type = Gameshark
+Activation = EndFrame
+900E7284 3B9AC9FF
+
+[Division 2\Wycombe Wndrs]
+Type = Gameshark
+Activation = EndFrame
+900E7328 3B9AC9FF
+
+[Division 2\York City]
+Type = Gameshark
+Activation = EndFrame
+900E73CC 3B9AC9FF
+
+[Division 3\Barnet]
+Type = Gameshark
+Activation = EndFrame
+900E7470 3B9AC9FF
+
+[Division 3\Breatford]
+Type = Gameshark
+Activation = EndFrame
+900E6658 3B9AC9FF
+
+[Division 3\Brighton]
+Type = Gameshark
+Activation = EndFrame
+900E7514 3B9AC9FF
+
+[Division 3\Cambridge United]
+Type = Gameshark
+Activation = EndFrame
+900E75B8 3B9AC9FF
+
+[Division 3\Cardiff City]
+Type = Gameshark
+Activation = EndFrame
+900E765C 3B9AC9FF
+
+[Division 3\Carlisle United]
+Type = Gameshark
+Activation = EndFrame
+900E68E8 3B9AC9FF
+
+[Division 3\Chester City]
+Type = Gameshark
+Activation = EndFrame
+900E7700 3B9AC9FF
+
+[Division 3\Darlington]
+Type = Gameshark
+Activation = EndFrame
+900E7848 3B9AC9FF
+
+[Division 3\Exeter City]
+Type = Gameshark
+Activation = EndFrame
+900E78EC 3B9AC9FF
+
+[Division 3\Halifax Town]
+Type = Gameshark
+Activation = EndFrame
+900E7990 3B9AC9FF
+
+[Division 3\Hartlepool United]
+Type = Gameshark
+Activation = EndFrame
+900E7A34 3B9AC9FF
+
+[Division 3\Hull City]
+Type = Gameshark
+Activation = EndFrame
+900E7AD8 3B9AC9FF
+
+[Division 3\Leyton Orient]
+Type = Gameshark
+Activation = EndFrame
+900E7B7C 3B9AC9FF
+
+[Division 3\Mansfield Town]
+Type = Gameshark
+Activation = EndFrame
+900E7D68 3B9AC9FF
+
+[Division 3\Peterborough Utd.]
+Type = Gameshark
+Activation = EndFrame
+900E7EB0 3B9AC9FF
+
+[Division 3\Phymouth Argyle]
+Type = Gameshark
+Activation = EndFrame
+900E6EAC 3B9AC9FF
+
+[Division 3\Rochdale]
+Type = Gameshark
+Activation = EndFrame
+900E7F54 3B9AC9FF
+
+[Division 3\Rotherham United]
+Type = Gameshark
+Activation = EndFrame
+900E7FF8 3B9AC9FF
+
+[Division 3\Scarborough]
+Type = Gameshark
+Activation = EndFrame
+900E809C 3B9AC9FF
+
+[Division 3\Scunthorpe Utd.]
+Type = Gameshark
+Activation = EndFrame
+900E8140 3B9AC9FF
+
+[Division 3\Shrewsbury Town]
+Type = Gameshark
+Activation = EndFrame
+900E81E4 3B9AC9FF
+
+[Division 3\Southend United]
+Type = Gameshark
+Activation = EndFrame
+900E6FF4 3B9AC9FF
+
+[Division 3\Swansea City]
+Type = Gameshark
+Activation = EndFrame
+900E8288 3B9AC9FF
+
+[Division 3\Torquay United]
+Type = Gameshark
+Activation = EndFrame
+900E832C 3B9AC9FF
+
+[Serie A\A.C.Milan]
+Type = Gameshark
+Activation = EndFrame
+900DB0A0 3B9AC9FF
+
+[Serie A\Bari]
+Type = Gameshark
+Activation = EndFrame
+900DB1E8 3B9AC9FF
+
+[Serie A\Bologna]
+Type = Gameshark
+Activation = EndFrame
+900DB28C 3B9AC9FF
+
+[Serie A\Cagliari]
+Type = Gameshark
+Activation = EndFrame
+900DB3D4 3B9AC9FF
+
+[Serie A\Empoli]
+Type = Gameshark
+Activation = EndFrame
+900DB708 3B9AC9FF
+
+[Serie A\Fiorentina]
+Type = Gameshark
+Activation = EndFrame
+900DB850 3B9AC9FF
+
+[Serie A\Inter Milan]
+Type = Gameshark
+Activation = EndFrame
+900DB998 3B9AC9FF
+
+[Serie A\Juventus]
+Type = Gameshark
+Activation = EndFrame
+900DBA3C 3B9AC9FF
+
+[Serie A\Lazio]
+Type = Gameshark
+Activation = EndFrame
+900DBAE0 3B9AC9FF
+
+[Serie A\Parma]
+Type = Gameshark
+Activation = EndFrame
+900DBE14 3B9AC9FF
+
+[Serie A\Perugia]
+Type = Gameshark
+Activation = EndFrame
+900DBEB8 3B9AC9FF
+
+[Serie A\Piacenza]
+Type = Gameshark
+Activation = EndFrame
+900DC000 3B9AC9FF
+
+[Serie A\Roma]
+Type = Gameshark
+Activation = EndFrame
+900DC290 3B9AC9FF
+
+[Serie A\Salernitana]
+Type = Gameshark
+Activation = EndFrame
+900DC334 3B9AC9FF
+
+[Serie A\Sampdoria]
+Type = Gameshark
+Activation = EndFrame
+900DC3D8 3B9AC9FF
+
+[Serie A\Udinese]
+Type = Gameshark
+Activation = EndFrame
+900DC668 3B9AC9FF
+
+[Serie A\Venezia]
+Type = Gameshark
+Activation = EndFrame
+900DC70C 3B9AC9FF
+
+[Serie A\Vicenza]
+Type = Gameshark
+Activation = EndFrame
+900DC854 3B9AC9FF
+
+[Serie B\Atalanta]
+Type = Gameshark
+Activation = EndFrame
+900DB144 3B9AC9FF
+
+[Serie B\Brescia]
+Type = Gameshark
+Activation = EndFrame
+900DB330 3B9AC9FF
+
+[Serie B\Cesena]
+Type = Gameshark
+Activation = EndFrame
+900DB478 3B9AC9FF
+
+[Serie B\Chievo]
+Type = Gameshark
+Activation = EndFrame
+900DB51C 3B9AC9FF
+
+[Serie B\Cosenza]
+Type = Gameshark
+Activation = EndFrame
+900DB5C0 3B9AC9FF
+
+[Serie B\Cremonese]
+Type = Gameshark
+Activation = EndFrame
+900DB664 3B9AC9FF
+
+[Serie B\Fidelis Andria]
+Type = Gameshark
+Activation = EndFrame
+900DB7AC 3B9AC9FF
+
+[Serie B\Gonoa]
+Type = Gameshark
+Activation = EndFrame
+900DB8F4 3B9AC9FF
+
+[Serie B\Lecce]
+Type = Gameshark
+Activation = EndFrame
+900DBB84 3B9AC9FF
+
+[Serie B\Lucchese]
+Type = Gameshark
+Activation = EndFrame
+900DBC28 3B9AC9FF
+
+[Serie B\Monza]
+Type = Gameshark
+Activation = EndFrame
+900DBCCC 3B9AC9FF
+
+[Serie B\Napoli]
+Type = Gameshark
+Activation = EndFrame
+900DBD70 3B9AC9FF
+
+[Serie B\Pescara]
+Type = Gameshark
+Activation = EndFrame
+900DBF5C 3B9AC9FF
+
+[Serie B\Ravenna]
+Type = Gameshark
+Activation = EndFrame
+900DC0A4 3B9AC9FF
+
+[Serie B\Reggiana]
+Type = Gameshark
+Activation = EndFrame
+900DC148 3B9AC9FF
+
+[Serie B\Reggina]
+Type = Gameshark
+Activation = EndFrame
+900DC1EC 3B9AC9FF
+
+[Serie B\Ternana]
+Type = Gameshark
+Activation = EndFrame
+900DC47C 3B9AC9FF
+
+[Serie B\Torino]
+Type = Gameshark
+Activation = EndFrame
+900DC520 3B9AC9FF
+
+[Serie B\Treviso]
+Type = Gameshark
+Activation = EndFrame
+900DC5C4 3B9AC9FF
+
+[Serie B\Verona]
+Type = Gameshark
+Activation = EndFrame
+900DC7B0 3B9AC9FF
+

@@ -1,0 +1,17 @@
+; CHTDB: ; [ Arthur! Ready to Race (USA) (2000) (The Learning Company) {SLUS-01090} <arthur> ]
+
+[Infinite Cards]
+Type = Gameshark
+Activation = EndFrame
+8009345C 0063
+
+[Infinite Coins]
+Type = Gameshark
+Activation = EndFrame
+80093468 0063
+
+[Time Always 00.00.00]
+Type = Gameshark
+Activation = EndFrame
+800191B0 0000
+

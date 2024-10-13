@@ -1,0 +1,88 @@
+; CHTDB: ; [ Warzone 2100 (USA) (1999) (Eidos Interactive) {SLUS-00819} <wzon2100> ]
+
+[All Tanks Blink]
+Type = Gameshark
+Activation = EndFrame
+800DDABC 6E6E
+
+[Cheat Activator]
+Type = Gameshark
+Activation = EndFrame
+800DAA40 0001
+
+[Instant Research]
+Type = Gameshark
+Activation = EndFrame
+800DBB4C 0040
+
+[Make Everything Visible On Radar]
+Type = Gameshark
+Activation = EndFrame
+800D9764 0001
+
+[Super Units All Campaigns]
+Type = Gameshark
+Activation = EndFrame
+800DCB38 F000
+
+[True Infinite Power]
+Type = Gameshark
+Activation = EndFrame
+800DC7A0 0000
+
+[Select Campaign\1]
+Type = Gameshark
+Activation = EndFrame
+800DAD04 0001
+
+[Select Campaign\2]
+Type = Gameshark
+Activation = EndFrame
+800DAD04 0002
+
+[Select Campaign\3]
+Type = Gameshark
+Activation = EndFrame
+800DAD04 0003
+
+[Select Campaign\4]
+Type = Gameshark
+Activation = EndFrame
+800DAD04 0004
+
+[Select Campaign\5]
+Type = Gameshark
+Activation = EndFrame
+800DAD04 0005
+
+[Select Campaign\6]
+Type = Gameshark
+Activation = EndFrame
+800DAD04 0006
+
+[Select Campaign\7]
+Type = Gameshark
+Activation = EndFrame
+800DAD04 0007
+
+[Have Almost All Un-Researched Base Tech]
+Type = Gameshark
+Activation = EndFrame
+50008101 0000
+3012F4A0 0080
+
+[Infinite Build Units]
+Type = Gameshark
+Activation = EndFrame
+800DC350 0000
+
+[Infinite Power]
+Type = Gameshark
+Activation = EndFrame
+9014CE94 0098967F
+
+[Power Never Decreases]
+Type = Gameshark
+Activation = EndFrame
+8006FE0E 2400
+

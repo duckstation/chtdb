@@ -1,0 +1,139 @@
+; CHTDB: ; [ Souten no Shiroki Kami no Kura: Great Peak (Japan) {SCPS-10058} ]
+
+[99999999 Total Budget]
+Type = Gameshark
+Activation = EndFrame
+900A584C 05F5E0FF
+
+[Full Base Camp]
+Type = Gameshark
+Activation = EndFrame
+900A592C 270F270F
+900A5930 270F270F
+900A5934 270F270F
+900A5938 270F270F
+800A593C 0000
+800A5946 270F
+900A5948 270F270F
+900A594C 270F270F
+
+[Perfcect Tie 1]
+Type = Gameshark
+Activation = EndFrame
+900A5D14 270F270F
+900A5D18 270F270F
+900A5D1C 270F270F
+900A5D20 270F270F
+800A5D24 0000
+800A5D2E 270F
+900A5D30 270F270F
+900A5D34 270F270F
+
+[Full Members]
+Type = Gameshark
+Activation = EndFrame
+800A66D6 270F
+900A66D8 270F270F
+800A66E4 0800
+900A66E8 63636363
+900A66EC FFFFFFFF
+800A66F0 FFFF
+300A66FD 00FF
+800A66FE FFFF
+900A6700 FFFFFFFF
+300A6704 00FF
+900A6708 00000000
+800A670C 6363
+300A670E 0000
+300A6710 0063
+
+[But Many Times Recruiting New Members]
+Type = Gameshark
+Activation = EndFrame
+300A5927 0000
+
+[Infinite Life]
+Type = Gameshark
+Activation = EndFrame
+A603AA10 00140000
+A603AA12 A2030000
+
+[Infinite Stamina]
+Type = Gameshark
+Activation = EndFrame
+A603AA6C 00160000
+A603AA6E A0820000
+
+[Infinite Stomach]
+Type = Gameshark
+Activation = EndFrame
+A60523C4 00380000
+A60523C6 A2020000
+
+[Not Sleepy]
+Type = Gameshark
+Activation = EndFrame
+A60524A0 00390000
+A60524A2 A2020000
+
+[Infinite Morale]
+Type = Gameshark
+Activation = EndFrame
+A6052A54 003C0000
+A6052A56 A2420000
+A6044368 003C0000
+A604436A A2020000
+
+[Not Frostbite.]
+Type = Gameshark
+Activation = EndFrame
+A605310C 00360000
+A605310E A2500000
+
+[Not injured]
+Type = Gameshark
+Activation = EndFrame
+A60506E8 00350000
+A60506EA A2240000
+
+[Survive A Highly Failure]
+Type = Gameshark
+Activation = EndFrame
+A6052C18 00340000
+A6052C1A A2500000
+
+[Avoid Ill-Health]
+Type = Gameshark
+Activation = EndFrame
+A6052ACC 00370000
+A6052ACE A2420000
+
+[Infinite Set-Groomed]
+Type = Gameshark
+Activation = EndFrame
+A60584E8 00120000
+A60584EA A6020000
+
+[Infinite Tent]
+Type = Gameshark
+Activation = EndFrame
+A6058860 000C0000
+A6058862 A67E0000
+
+[Infinite Hill-Climbing / Climbing Wall Set]
+Type = Gameshark
+Activation = EndFrame
+A605810C 00040000
+A605810E A4A40000
+
+[Infinite Mobile Food]
+Type = Gameshark
+Activation = EndFrame
+A603692C 00040000
+A603692E A4820000
+
+[Infinite Oxygen]
+Type = Gameshark
+Activation = EndFrame
+A602DE58 A4450000
+

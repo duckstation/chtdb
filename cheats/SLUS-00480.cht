@@ -1,0 +1,79 @@
+; CHTDB: ; [ WarCraft II - The Dark Saga (USA) (1997) (Electronic Arts) {SLUS-00480} <warcrft2> ]
+
+[Cheat Selector .Press L1+SELECT for quick build and upgrade Press L2+SELECT for invincible units and buildings.Press R1+SELECT for full upgrades.Press R2+SELECT for show map]
+Type = Gameshark
+Activation = EndFrame
+D01619C8 0104
+80160314 0002
+D01619C8 0101
+80160314 0006
+D01619C8 0108
+80160314 0017
+D01619C8 0102
+80160314 0007
+
+[Tides Of Darkness\Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+800101C4 FFFF
+
+[Tides Of Darkness\Infinite Wood]
+Type = Gameshark
+Activation = EndFrame
+80010184 FFFF
+
+[Tides Of Darkness\Infinite Oil]
+Type = Gameshark
+Activation = EndFrame
+80010124 FFFF
+
+[Tides Of Darkness\Infinite Food]
+Type = Gameshark
+Activation = EndFrame
+800995B4 FFFF
+
+[Tides Of Darkness\Production Modifier Lumber +25]
+Type = Gameshark
+Activation = EndFrame
+80099454 0001
+
+[Human Alliance\Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+80010188 FFFF
+
+[Human Alliance\Infinite Wood]
+Type = Gameshark
+Activation = EndFrame
+800101C8 FFFF
+
+[Human Alliance\Infinite Oil]
+Type = Gameshark
+Activation = EndFrame
+80010208 FFFF
+
+[Human Alliance\Infinite Food]
+Type = Gameshark
+Activation = EndFrame
+800995B6 FFFF
+
+[Human Alliance\Production Modifier Lumber +25]
+Type = Gameshark
+Activation = EndFrame
+80099456 0001
+
+[Beyond The Dark Portal\Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+800101D8 FFFF
+
+[Beyond The Dark Portal\Infinite Wood]
+Type = Gameshark
+Activation = EndFrame
+80010198 FFFF
+
+[Beyond The Dark Portal\Infinite Oil]
+Type = Gameshark
+Activation = EndFrame
+80010218 FFFF
+

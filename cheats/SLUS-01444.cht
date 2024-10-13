@@ -1,0 +1,61 @@
+; CHTDB: ; [ X-Bladez - Inline Skater (USA) (2002) (Crave Entertainment) {SLUS-01444} <xbladez> ]
+
+[All Levels]
+Type = Gameshark
+Activation = EndFrame
+50000902 0000
+80051348 0101
+
+[All Levels Alternate]
+Type = Gameshark
+Activation = EndFrame
+90051348 01010101
+9005134C 01010101
+90051350 01010101
+90051354 01010101
+
+[Always 2X Trick]
+Type = Gameshark
+Activation = EndFrame
+30051326 0079
+
+[Maximum Points]
+Type = Gameshark
+Activation = EndFrame
+8005131C 6D60
+
+[Unlock Kevin]
+Type = Gameshark
+Activation = EndFrame
+30051340 0001
+
+[Unlock Stephanie]
+Type = Gameshark
+Activation = EndFrame
+30051341 0001
+
+[Unlock Flapjax]
+Type = Gameshark
+Activation = EndFrame
+30051345 0001
+
+[Unlock Gage]
+Type = Gameshark
+Activation = EndFrame
+30051343 0001
+
+[Unlock Harlie]
+Type = Gameshark
+Activation = EndFrame
+30051344 0001
+
+[Unlock Robot]
+Type = Gameshark
+Activation = EndFrame
+30051346 0001
+
+[Unlock Tyler]
+Type = Gameshark
+Activation = EndFrame
+30051342 0001
+

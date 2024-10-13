@@ -1,0 +1,13 @@
+; CHTDB: ; [ Hakaioh - King of Crusher (Jpn) (1998) (FAB Communications) {SLPS-01677} <kingcrsh> ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801B5810 0BB8
+801B582C 0BB8
+
+[Achievement rate of destruction]
+Type = Gameshark
+Activation = EndFrame
+801806CC 000B
+

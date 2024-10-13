@@ -1,0 +1,46 @@
+; CHTDB: ; [ Tail Concerto (Japan) {SLPS-01299} ]
+
+[Infinite Helth]
+Type = Gameshark
+Activation = EndFrame
+800C99E4 0064
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800B1A2C 0013
+
+[Play time 0]
+Type = Gameshark
+Activation = EndFrame
+900D0584 00000000
+
+[99 Whistle]
+Type = Gameshark
+Activation = EndFrame
+300D056B 0063
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+300C99F6 00FE
+
+[Robo jet energy full tank]
+Type = Gameshark
+Activation = EndFrame
+800C99E2 012C
+
+[Photo album filled all]
+Type = Gameshark
+Activation = EndFrame
+900D0528 0F0F0F0F
+900D052C 0F0F0F0F
+900D0530 0F0F0F0F
+800D0534 0F0F
+300D0536 000F
+
+[If you look at the album, it becomes clear data (bonus ed)]
+Type = Gameshark
+Activation = EndFrame
+300D0537 000F
+

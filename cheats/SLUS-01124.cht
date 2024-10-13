@@ -1,0 +1,62 @@
+; CHTDB: ; [ Rock 'Em Sock 'Em Robots Arena (USA) (2000) (Mattel Interactive) {SLUS-01124} <robarena> ]
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+9007187C 00010000
+
+[P2 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+90071C58 00010000
+
+[P1 Quick Kill]
+Type = Gameshark
+Activation = EndFrame
+9007187C 00000000
+
+[P2 Quick Kill]
+Type = Gameshark
+Activation = EndFrame
+90071C58 00000000
+
+[Go Straight To The Champ (Career)]
+Type = Gameshark
+Activation = EndFrame
+800B4290 0001
+
+[Max Money]
+Type = Gameshark
+Activation = EndFrame
+900B4294 05F5E0FF
+
+[Have All Right Arms]
+Type = Gameshark
+Activation = EndFrame
+50000902 0000
+800B4364 6363
+300B4375 0063
+
+[Have All Left Arms]
+Type = Gameshark
+Activation = EndFrame
+50000902 0000
+800B4340 6363
+
+[Have All Legs]
+Type = Gameshark
+Activation = EndFrame
+50000902 0000
+800B4380 6363
+
+[Have All Parts]
+Type = Gameshark
+Activation = EndFrame
+50002802 0000
+800B45B8 6464
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+A7064394 19991333
+

@@ -1,0 +1,18 @@
+; CHTDB: ; [ Dino Crisis (Europe) {SLES-02207} ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800B9A1C 083C
+
+[All Weapons]
+Type = Gameshark
+Activation = EndFrame
+800C1A50 FFFF
+
+[Save Anywhere (Press L1 + L2)]
+Type = Gameshark
+Activation = EndFrame
+D00B18C0 0005
+800B7EF0 0007
+

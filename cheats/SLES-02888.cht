@@ -1,0 +1,29 @@
+; CHTDB: ; [ Spider-Man (Germany) {SLES-02888} ]
+
+[Infinite Energie]
+Type = Gameshark
+Activation = EndFrame
+A7014C66 26AC2400
+
+[Infinite Web Carts]
+Type = Gameshark
+Activation = EndFrame
+A7016A42 FB7E2400
+
+[Unlock All]
+Type = Gameshark
+Activation = EndFrame
+50000A02 0000
+800A6014 FFFF
+
+[Level Select]
+Type = Gameshark
+Activation = EndFrame
+300B5848 0001
+80000000 0001
+
+[Enable What If Contest]
+Type = Gameshark
+Activation = EndFrame
+300B5824 0001
+

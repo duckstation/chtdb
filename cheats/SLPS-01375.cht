@@ -1,0 +1,12 @@
+; CHTDB: ; [ Paranoia Scape (Jpn) (1998) (Mathilda) {SLPS-01375} <paranoia> ]
+
+[Infinite Balls]
+Type = Gameshark
+Activation = EndFrame
+800B6E3A 0063
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800B6E7E 0320
+

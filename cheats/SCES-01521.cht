@@ -1,0 +1,65 @@
+; CHTDB: ; [ Disney/Pixar Das grosse Krabbeln (Germany) {SCES-01521} ]
+
+[Unendlich Leben]
+Type = Gameshark
+Activation = EndFrame
+800A91B0 0005
+
+[Unendlich Energie]
+Type = Gameshark
+Activation = EndFrame
+800A91A4 0004
+
+[50 Samen]
+Type = Gameshark
+Activation = EndFrame
+300A91B1 0032
+
+[Flik]
+Type = Gameshark
+Activation = EndFrame
+800A91B2 000F
+
+[Alle Level AnwäHlbar]
+Type = Gameshark
+Activation = EndFrame
+80082914 000F
+
+[Unverwundbar]
+Type = Gameshark
+Activation = EndFrame
+800A91A2 0021
+
+[Unendlich Springen .Kreis-Taste]
+Type = Gameshark
+Activation = EndFrame
+D0082974 2000
+300A9141 00F9
+
+[Starte Mit Blauer Beere (Immer nur einen Beerencode aktivieren)]
+Type = Gameshark
+Activation = EndFrame
+800A6596 0100
+
+[Starte Mit GrüNer Beere (Immer nur einen Beerencode aktivieren)]
+Type = Gameshark
+Activation = EndFrame
+800A6596 0200
+
+[Starte Mit Goldener Beere (Immer nur einen Beerencode aktivieren)]
+Type = Gameshark
+Activation = EndFrame
+800A6596 0300
+
+[Alle Widersacher Erledigt]
+Type = Gameshark
+Activation = EndFrame
+800A658E 0000
+
+[22 Filmclips]
+Type = Gameshark
+Activation = EndFrame
+80084E94 000F
+50000C02 0000
+8009E488 0707
+

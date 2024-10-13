@@ -1,0 +1,17 @@
+; CHTDB: ; [ Toys Dream (Jpn) (1998) (KSS) {SLPS-01704} <toysdrem> ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+8007910C EA60
+
+[Infinite Stamina Mia]
+Type = Gameshark
+Activation = EndFrame
+8007721C 0050
+
+[Max Weight]
+Type = Gameshark
+Activation = EndFrame
+8007714A 03E7
+

@@ -1,0 +1,14 @@
+; CHTDB: ; [ Heart of Darkness (Germany) {SLES-00463 | SLES-10463 | SLES-10463} ]
+
+[Unverwundbar Drücke R1]
+Type = Gameshark
+Activation = EndFrame
+D00882CC 0800
+8008858A FF00
+
+[Wieder verwundbar Drücke L1]
+Type = Gameshark
+Activation = EndFrame
+D00882CC 0400
+8008858A 0000
+

@@ -1,0 +1,22 @@
+; CHTDB: ; [ Soukou Kihei Votoms Gaiden - Ao no Kishi Berserga Monogatari (Jpn) (1997) (Takara) {SLPS-00982} <berserga> ]
+
+[P1 Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+80191264 01C2
+
+[P2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80191266 03E7
+
+[Money MAX]
+Type = Gameshark
+Activation = EndFrame
+801CCCC4 270F
+
+[Infinite Turbo available]
+Type = Gameshark
+Activation = EndFrame
+801E5FD0 0009
+

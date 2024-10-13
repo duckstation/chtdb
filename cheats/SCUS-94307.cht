@@ -1,0 +1,74 @@
+; CHTDB: ; [ Bogey - Dead 6 (USA) (1996) (Sony Computer Entertainment America) {SCUS-94307} <bogey> ]
+
+[Infinite Mission Time]
+Type = Gameshark
+Activation = EndFrame
+80080B24 0253
+
+[Infinite Chaff Loads]
+Type = Gameshark
+Activation = EndFrame
+800816C2 000A
+
+[Infinite Amraam Missiles]
+Type = Gameshark
+Activation = EndFrame
+800BC686 0063
+
+[Infinite Sidewinder Missiles]
+Type = Gameshark
+Activation = EndFrame
+800BC684 0063
+
+[Infinite Harm Anit-Radiation Missiles]
+Type = Gameshark
+Activation = EndFrame
+800BC688 0063
+
+[Infinite Maverick Missiles]
+Type = Gameshark
+Activation = EndFrame
+800BC68A 0063
+
+[Infinite Vulcan 20mm Cannon]
+Type = Gameshark
+Activation = EndFrame
+800BC68E 03E7
+
+[Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+801B9FDC 0A6E
+
+[High Engine Thrust]
+Type = Gameshark
+Activation = EndFrame
+800816A4 0064
+
+[Infinite Fuel]
+Type = Gameshark
+Activation = EndFrame
+801C2170 31A5
+80081712 2F61
+
+[Infinite Continues]
+Type = Gameshark
+Activation = EndFrame
+801C29C2 0005
+
+[Infinite Misiles]
+Type = Gameshark
+Activation = EndFrame
+50000602 0000
+800BC684 0064
+
+[Have All Fighters Unlocked]
+Type = Gameshark
+Activation = EndFrame
+801C2A36 0001
+
+[Have All Missions Unlocked]
+Type = Gameshark
+Activation = EndFrame
+801C2A34 0001
+

@@ -1,0 +1,12 @@
+; CHTDB: ; [ Yuukyuu no Eden: The Eternal Eden (Japan) Rev 1 {SLPS-02987} ]
+
+[Infinite Energy boy]
+Type = Gameshark
+Activation = EndFrame
+80085874 03E7
+
+[Infinite Energy cat girl]
+Type = Gameshark
+Activation = EndFrame
+800859BC 03E7
+

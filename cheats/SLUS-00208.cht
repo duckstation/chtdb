@@ -1,0 +1,49 @@
+; CHTDB: ; [ Buster Bros. Collection (USA) (1997) (Capcom Entertainment) {SLUS-00208} <bbroscl> ]
+
+[Buster Bros P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800C5940 0003
+
+[Buster Bros P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800C59C0 0003
+
+[Buster Bros Infinite Credits]
+Description = Both Players
+Type = Gameshark
+Activation = EndFrame
+800C7012 0403
+
+[Super Buster Bros P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800A4A10 0403
+
+[Super Buster Bros P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800A4A90 0403
+
+[Super Buster Bros Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800A4970 9900
+
+[Super Buster Bros Infinite Credits]
+Description = Both Players
+Type = Gameshark
+Activation = EndFrame
+800A6492 0304
+
+[Buster Buddies P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+30171226 0003
+
+[Buster Buddies P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+30171227 0003
+

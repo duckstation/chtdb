@@ -1,0 +1,36 @@
+; CHTDB: ; [ Sol Divide (USA) (2002) (XS Games) {SLUS-01519} <soldivid> ]
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800A7116 0320
+
+[P2 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800A71CE 0380
+
+[P1 Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800A7160 0003
+
+[P2 Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800A7218 0003
+
+[P1 Have All Special Attacks]
+Type = Gameshark
+Activation = EndFrame
+800A716A 01FF
+50000402 0000
+800A716E 0606
+
+[P2 Have All Special Attacks]
+Type = Gameshark
+Activation = EndFrame
+800A7222 01FF
+50000402 0000
+800A7226 0606
+

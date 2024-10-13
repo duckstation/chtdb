@@ -1,0 +1,214 @@
+; CHTDB: ; [ Evo's Space Adventures (Europe) {SLES-01871} ]
+
+[Select Level\1]
+Type = Gameshark
+Activation = EndFrame
+8005FF70 0000
+
+[Select Level\2]
+Type = Gameshark
+Activation = EndFrame
+8005FF70 0001
+
+[Select Level\3]
+Type = Gameshark
+Activation = EndFrame
+8005FF70 0002
+
+[Select Level\4]
+Type = Gameshark
+Activation = EndFrame
+8005FF70 0003
+
+[Select Level\5]
+Type = Gameshark
+Activation = EndFrame
+8005FF70 0004
+
+[Select Level\6]
+Type = Gameshark
+Activation = EndFrame
+8005FF70 0005
+
+[Select Level\7]
+Type = Gameshark
+Activation = EndFrame
+8005FF70 0006
+
+[Select Level\8]
+Type = Gameshark
+Activation = EndFrame
+8005FF70 0007
+
+[Select Level\9]
+Type = Gameshark
+Activation = EndFrame
+8005FF70 0008
+
+[Select Level\10]
+Type = Gameshark
+Activation = EndFrame
+8005FF70 0009
+
+[Select Level\11]
+Type = Gameshark
+Activation = EndFrame
+8005FF70 000A
+
+[Select Level\12]
+Type = Gameshark
+Activation = EndFrame
+8005FF70 000B
+
+[Select Level\13]
+Type = Gameshark
+Activation = EndFrame
+8005FF70 000C
+
+[Select Level\14]
+Type = Gameshark
+Activation = EndFrame
+8005FF70 000D
+
+[Select Level\15]
+Type = Gameshark
+Activation = EndFrame
+8005FF70 000E
+
+[Select Level\16]
+Type = Gameshark
+Activation = EndFrame
+8005FF70 000F
+
+[Select Level\17]
+Type = Gameshark
+Activation = EndFrame
+8005FF70 0010
+
+[Select Level\18]
+Type = Gameshark
+Activation = EndFrame
+8005FF70 0011
+
+[Select Level\19]
+Type = Gameshark
+Activation = EndFrame
+8005FF70 0012
+
+[Select Level\20]
+Type = Gameshark
+Activation = EndFrame
+8005FF70 0013
+
+[Select Level\21]
+Type = Gameshark
+Activation = EndFrame
+8005FF70 0014
+
+[Select Level\22]
+Type = Gameshark
+Activation = EndFrame
+8005FF70 0015
+
+[Select Level\23]
+Type = Gameshark
+Activation = EndFrame
+8005FF70 0016
+
+[Select Level\24]
+Type = Gameshark
+Activation = EndFrame
+8005FF70 0017
+
+[Select Level\25]
+Type = Gameshark
+Activation = EndFrame
+8005FF70 0018
+
+[Select Level\26]
+Type = Gameshark
+Activation = EndFrame
+8005FF70 0019
+
+[Select Level\27]
+Type = Gameshark
+Activation = EndFrame
+8005FF70 001A
+
+[Select Level\28]
+Type = Gameshark
+Activation = EndFrame
+8005FF70 001B
+
+[Select Level\29]
+Type = Gameshark
+Activation = EndFrame
+8005FF70 001C
+
+[Select Level\30]
+Type = Gameshark
+Activation = EndFrame
+8005FF70 001D
+
+[Select Level\31]
+Type = Gameshark
+Activation = EndFrame
+8005FF70 001E
+
+[Select Level\32]
+Type = Gameshark
+Activation = EndFrame
+8005FF70 001F
+
+[Select Level\33]
+Type = Gameshark
+Activation = EndFrame
+8005FF70 0020
+
+[Select Level\34]
+Type = Gameshark
+Activation = EndFrame
+8005FF70 0021
+
+[Select Level\35]
+Type = Gameshark
+Activation = EndFrame
+8005FF70 0022
+
+[Select Level\36]
+Type = Gameshark
+Activation = EndFrame
+8005FF70 0023
+
+[Select Level\37]
+Type = Gameshark
+Activation = EndFrame
+8005FF70 0024
+
+[Infinite Health - dog]
+Type = Gameshark
+Activation = EndFrame
+D003B9FC 014C
+8003B9FE 0000
+A603B9FC 014C0000
+
+[Infinite Health - chip]
+Type = Gameshark
+Activation = EndFrame
+A601D448 FFFF0000
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A7132760 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A7132760 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A7132760 10000400
+

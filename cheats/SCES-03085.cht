@@ -1,0 +1,53 @@
+; CHTDB: ; [ Ms. Pac-Man Maze Madness (Europe) {SCES-03085} ]
+
+[Infinite Health QUEST MODE]
+Type = Gameshark
+Activation = EndFrame
+80043E1C 0000
+
+[Max Pac-Dots QUEST MODE]
+Type = Gameshark
+Activation = EndFrame
+801F7B7A 0FFF
+
+[Time Frozen in time trials QUEST MODE]
+Type = Gameshark
+Activation = EndFrame
+D00478D2 0043
+800478D4 0000
+
+[All Keys QUEST MODE]
+Type = Gameshark
+Activation = EndFrame
+50000502 0000
+3010D18E 0001
+
+[Have All Stars(Levels Unlocked) QUEST MODE]
+Type = Gameshark
+Activation = EndFrame
+50001510 0000
+801FF3A8 0101
+50001510 0000
+801FF3AA 0101
+
+[Infinite Lives both players CLASSIC MODE]
+Type = Gameshark
+Activation = EndFrame
+D003620C FFFF
+80036212 0000
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A71F32C8 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A71F32C8 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A71F32C8 10000400
+

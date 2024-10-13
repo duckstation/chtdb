@@ -1,0 +1,56 @@
+; CHTDB: ; [ WipEout 3 (Japan) {SCPS-10098} ]
+
+[Phantom class appearance]
+Type = Gameshark
+Activation = EndFrame
+3018CDB3 0001
+
+[Prototype mode appearance]
+Type = Gameshark
+Activation = EndFrame
+3018D150 0001
+
+[Tournament mode appearance]
+Type = Gameshark
+Activation = EndFrame
+3018D152 0001
+3018CF2B 0001
+
+[Challenge Mode]
+Type = Gameshark
+Activation = EndFrame
+3018D153 0001
+3018CE07 0001
+
+[All tracks appearance VECTOR (Beginner)]
+Type = Gameshark
+Activation = EndFrame
+9018CD6C 01010101
+8018CD70 0101
+9018CD78 01010101
+9018CD7C 01010101
+8018CD80 0101
+
+[All tracks appearance RAPIER (Advanced)]
+Type = Gameshark
+Activation = EndFrame
+9018CDA0 01010101
+8018CD9E 0101
+9018CDB0 01010101
+8018CDAE 0101
+
+[All tracks appearance VENOM (Intermediate)]
+Type = Gameshark
+Activation = EndFrame
+8018CD82 0101
+9018CD84 01010101
+8018CD88 0101
+8018CD96 0101
+8018CD98 0101
+
+[All tracks appearance PHANTOM]
+Type = Gameshark
+Activation = EndFrame
+9018CDB8 01010101
+9018CDC8 01010101
+

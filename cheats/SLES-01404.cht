@@ -1,0 +1,142 @@
+; CHTDB: ; [ Grand Theft Auto 2 (Euro, Rev. 1) (1999) (Rockstar Games) {SLES-01404#} <gta2e> ]
+
+[Stop Kill Frenzy Time]
+Type = Gameshark
+Activation = EndFrame
+801683F0 0C97
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80120004 0009
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80145A96 0064
+
+[Always have Infinite Pistol]
+Type = Gameshark
+Activation = EndFrame
+80164D68 0122
+
+[Always have Infinite Machine Gun]
+Type = Gameshark
+Activation = EndFrame
+80164D90 0122
+
+[Always have Infinite Rocket Launcher]
+Type = Gameshark
+Activation = EndFrame
+80164DB8 0122
+
+[Always have Infinite Electric Gun]
+Type = Gameshark
+Activation = EndFrame
+80164DE0 0122
+
+[Always have Infinite Petrol Bombs]
+Type = Gameshark
+Activation = EndFrame
+80164E08 0122
+
+[Always have Infinite Grenades]
+Type = Gameshark
+Activation = EndFrame
+80164E30 0122
+
+[Always have Infinite Shotgun]
+Type = Gameshark
+Activation = EndFrame
+80164E58 0122
+
+[Always have Infinite Stun Rod]
+Type = Gameshark
+Activation = EndFrame
+80164E80 0122
+
+[Always have Infinite Flame Thrower]
+Type = Gameshark
+Activation = EndFrame
+80164EA8 0122
+
+[Always have Infinite Silenced Machine Gun]
+Type = Gameshark
+Activation = EndFrame
+80164ED0 0122
+
+[Always have Infinite 2 Way Firing Pistol]
+Type = Gameshark
+Activation = EndFrame
+80164EF8 0122
+
+[Other Weapons And Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+80164FC0 0122
+80164FE8 0122
+80165038 0122
+80165150 0122
+80165178 0122
+801651C8 0122
+801651F0 0122
+80165268 0122
+801652B8 0122
+801652E0 0122
+
+[Lots Of Cash!]
+Type = Gameshark
+Activation = EndFrame
+8011FD0A 0098
+
+[Number Of Kills 0]
+Type = Gameshark
+Activation = EndFrame
+8012A86C 0000
+
+[No Cops]
+Type = Gameshark
+Activation = EndFrame
+80145A8A 0000
+
+[All Cops]
+Type = Gameshark
+Activation = EndFrame
+80145A8A 2EE0
+
+[Have Police And Swat After You .Use only 1 code at a time.]
+Type = Gameshark
+Activation = EndFrame
+80145A8A 8813
+
+[21 Have Police, Swat And Spy's After You]
+Type = Gameshark
+Activation = EndFrame
+80145A8A 401F
+
+[Have Police, Swat, Spy's And The Army After You]
+Type = Gameshark
+Activation = EndFrame
+80145A8A E02E
+
+[Infinite Ammo After Pickup]
+Type = Gameshark
+Activation = EndFrame
+800FD452 3C00
+
+[All Weapons]
+Type = Gameshark
+Activation = EndFrame
+50000B28 0000
+80164D68 FFFF
+
+[Infinite Bonus & Kill Frenzy Time]
+Type = Gameshark
+Activation = EndFrame
+800A40C8 3C00
+
+[Max Points]
+Type = Gameshark
+Activation = EndFrame
+8011FD08 FFFF
+

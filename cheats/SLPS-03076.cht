@@ -1,0 +1,70 @@
+; CHTDB: ; [ Doraemon 3: Makai no Dungeon (Japan) {SLPS-03076} ]
+
+[Infinite Energy Nobita]
+Type = Gameshark
+Activation = EndFrame
+80114FEC 03E7
+80120214 03E7
+80120215 03E7
+
+[Level 99 Nobita]
+Type = Gameshark
+Activation = EndFrame
+80120210 0062
+901206F0 00620062
+801206F4 0062
+801206F5 0062
+801206F9 0062
+
+[Money MAX]
+Type = Gameshark
+Activation = EndFrame
+90114B38 0001869F
+
+[All buried secret tools Illustrated]
+Type = Gameshark
+Activation = EndFrame
+50000E02 0000
+80114DC4 FFFF
+
+[MAX Total number of characters MAX Adventure]
+Type = Gameshark
+Activation = EndFrame
+50000502 0000
+80114DF8 03E7
+
+[Door without opening the advent of]
+Type = Gameshark
+Activation = EndFrame
+30113A25 0055
+
+[Character Doraemon]
+Type = Gameshark
+Activation = EndFrame
+30114E24 0000
+
+[Character Nobita]
+Type = Gameshark
+Activation = EndFrame
+30114E24 0001
+
+[Character quiet]
+Type = Gameshark
+Activation = EndFrame
+30114E24 0002
+
+[Character Gian]
+Type = Gameshark
+Activation = EndFrame
+30114E24 0003
+
+[Character Suneo]
+Type = Gameshark
+Activation = EndFrame
+30114E24 0004
+
+[PocketStation game Score MAX]
+Type = Gameshark
+Activation = EndFrame
+801139E6 03E7
+

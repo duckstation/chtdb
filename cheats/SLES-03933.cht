@@ -1,0 +1,13 @@
+; CHTDB: ; [ All Star Racing 2 (Europe) {SLES-03933} ]
+
+[Always First Place]
+Type = Gameshark
+Activation = EndFrame
+301E8D64 0000
+
+[Turbo Boost (Press Circle For Boost)]
+Type = Gameshark
+Activation = EndFrame
+D015CF8A DFFF
+301E8508 00FF
+

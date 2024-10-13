@@ -1,0 +1,54 @@
+; CHTDB: ; [ Fighting Illusion: K-1 GP 2000 (Japan) {SLPS-02985} ]
+
+[HP currently]
+Type = Gameshark
+Activation = EndFrame
+8010B608 0063
+3010B60A 0063
+
+[Maximum HP]
+Type = Gameshark
+Activation = EndFrame
+8010B60C 0063
+3010B60E 0063
+
+[Currently stamina]
+Type = Gameshark
+Activation = EndFrame
+8010B614 0063
+3010B616 0063
+
+[Maximum stamina]
+Type = Gameshark
+Activation = EndFrame
+8010B618 0063
+3010B61A 0063
+
+[K-1 challenge for all skill mastered]
+Type = Gameshark
+Activation = EndFrame
+900A3650 FFFFFFFC
+900A3654 FFFFFFFF
+900A3658 FFFFFFFF
+900A365C FFFFFFFF
+900A3660 FFFFFFFF
+900A3664 FFFFFFFF
+900A3668 FFFFFFFF
+800A366C FFFF
+300A366E 000F
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A70DF7D0 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A70DF7D0 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A70DF7D0 10000400
+

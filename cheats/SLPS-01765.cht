@@ -1,0 +1,128 @@
+; CHTDB: ; [ Bass Landing (Japan) {SLPS-01765} ]
+
+[Catch Fish 1]
+Type = Gameshark
+Activation = EndFrame
+300AE8E0 0000
+300B97E0 0000
+
+[Catch Fish 2]
+Type = Gameshark
+Activation = EndFrame
+300AE8E0 0001
+300B97E0 0001
+
+[Catch Fish 3]
+Type = Gameshark
+Activation = EndFrame
+300AE8E0 0002
+300B97E0 0002
+
+[Catch Fish 4]
+Type = Gameshark
+Activation = EndFrame
+300AE8E0 0003
+300B97E0 0003
+
+[Catch Fish 5]
+Type = Gameshark
+Activation = EndFrame
+300AE8E0 0004
+300B97E0 0004
+
+[Catch Fish 6]
+Type = Gameshark
+Activation = EndFrame
+300AE8E0 0005
+300B97E0 0005
+
+[Catch Fish 7]
+Type = Gameshark
+Activation = EndFrame
+300AE8E0 0006
+300B97E0 0006
+
+[Catch Fish 8]
+Type = Gameshark
+Activation = EndFrame
+300AE8E0 0007
+300B97E0 0007
+
+[Catch Fish 9]
+Type = Gameshark
+Activation = EndFrame
+300AE8E0 0008
+300B97E0 0008
+
+[Catch Fish 10]
+Type = Gameshark
+Activation = EndFrame
+300AE8E0 0009
+300B97E0 0009
+
+[Catch Fish 11]
+Type = Gameshark
+Activation = EndFrame
+300AE8E0 000A
+300B97E0 000A
+
+[Catch Fish 12]
+Type = Gameshark
+Activation = EndFrame
+300AE8E0 000B
+300B97E0 000B
+
+[Catch Fish 13]
+Type = Gameshark
+Activation = EndFrame
+300AE8E0 000C
+300B97E0 000C
+
+[Catch Fish 14]
+Type = Gameshark
+Activation = EndFrame
+300AE8E0 000D
+300B97E0 000D
+
+[Maximum Fish Length]
+Type = Gameshark
+Activation = EndFrame
+800AE8F0 270F
+800B97EC 270F
+
+[Maximum Fish Weight]
+Type = Gameshark
+Activation = EndFrame
+800B0734 FFFF
+800B97E6 FFFF
+
+[Select Scenario\1]
+Type = Gameshark
+Activation = EndFrame
+300AE8B0 0001
+
+[Select Scenario\2]
+Type = Gameshark
+Activation = EndFrame
+300AE8B0 0002
+
+[Select Scenario\3]
+Type = Gameshark
+Activation = EndFrame
+300AE8B0 0003
+
+[Select Scenario\4]
+Type = Gameshark
+Activation = EndFrame
+300AE8B0 0004
+
+[Select Scenario\5]
+Type = Gameshark
+Activation = EndFrame
+300AE8B0 0005
+
+[Select Scenario\6]
+Type = Gameshark
+Activation = EndFrame
+300AE8B0 0006
+

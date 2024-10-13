@@ -1,0 +1,12 @@
+; CHTDB: ; [ Pachio-kun: Pachinko Land Adventure (Japan) {SLPS-00037} ]
+
+[Have 99000000 money]
+Type = Gameshark
+Activation = EndFrame
+900B08D4 05E69EC0
+
+[Have 9999 in gambling machine]
+Type = Gameshark
+Activation = EndFrame
+800ECD20 270F
+

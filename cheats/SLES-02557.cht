@@ -1,0 +1,56 @@
+; CHTDB: ; [ Psychic Force 2 (Europe) {SLES-02557} ]
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800CDE68 03E8
+
+[All characters]
+Type = Gameshark
+Activation = EndFrame
+8007559E FFFF
+
+[Start on last stage]
+Type = Gameshark
+Activation = EndFrame
+D0075532 0000
+30075532 0007
+
+[P2 Sudden Death]
+Type = Gameshark
+Activation = EndFrame
+800CDE7A 0000
+
+[Unlock All Album]
+Type = Gameshark
+Activation = EndFrame
+50001004 0000
+30074E4A 007F
+
+[Unlock All Player Colors]
+Type = Gameshark
+Activation = EndFrame
+50000802 0000
+300755A0 0303
+
+[Unlock All Skills in Psy-Expand Mode]
+Type = Gameshark
+Activation = EndFrame
+50004302 0000
+80075488 FFFF
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A7076CA0 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A7076CA0 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A7076CA0 10000400
+

@@ -1,0 +1,12 @@
+; CHTDB: ; [ Gung-Ho Brigade (Jpn) (2000) (Tomy) {SLPS-01902} <gunghobr> ]
+
+[Infinite HP Main character (boy)]
+Type = Gameshark
+Activation = EndFrame
+80010130 0BB8
+
+[Infinite HP Second character (girl)]
+Type = Gameshark
+Activation = EndFrame
+800101A6 08FC
+

@@ -1,0 +1,76 @@
+; CHTDB: ; [ Sotsugyou III: Wedding Bell (Japan) {SLPS-01332} ]
+
+[Yasuko Ozaki all stats at max]
+Type = Gameshark
+Activation = EndFrame
+900A5E30 64646464
+900A5E34 64646464
+300A5E38 0064
+
+[Yasuko Ozaki Unlock all albums]
+Type = Gameshark
+Activation = EndFrame
+900B3794 FFFFFFFF
+900B3798 FFFFFFFF
+300B379C 0003
+
+[Kimi Kikuti all stats at max]
+Type = Gameshark
+Activation = EndFrame
+800A5E5E 6464
+900A5E60 64646464
+800A5E64 6464
+300A5E66 0064
+
+[Kimi Kikuti Unlock all albums]
+Type = Gameshark
+Activation = EndFrame
+800B379E FFFF
+900B37A0 FFFFFFFF
+800B37A4 FFFF
+300B37A6 0003
+
+[Yukari Saitou all stats at max]
+Type = Gameshark
+Activation = EndFrame
+900A5E8C 64646464
+900A5E90 64646464
+300A5E94 0064
+
+[Yukari Saitou Unlock all albums]
+Type = Gameshark
+Activation = EndFrame
+900B37A8 FFFFFFFF
+900B37AC FFFFFFFF
+300B37B0 0003
+
+[Misaki Matsuyama all stats at max]
+Type = Gameshark
+Activation = EndFrame
+800A5EBA 6464
+900A5EBC 64646464
+800A5EC0 6464
+300A5EC2 0064
+
+[Misaki Matsuyama Unlock all albums]
+Type = Gameshark
+Activation = EndFrame
+800B37B2 FFFF
+900B37B4 FFFFFFFF
+800B37B8 FFFF
+300B37BA 0003
+
+[Kazue Watanabe all stats at max]
+Type = Gameshark
+Activation = EndFrame
+900A5EE8 64646464
+900A5EEC 64646464
+300A5EF0 0064
+
+[Kazue Watanabe Unlock all albums]
+Type = Gameshark
+Activation = EndFrame
+900B37BC FFFFFFFF
+900B37C0 FFFFFFFF
+300B37C4 0003
+

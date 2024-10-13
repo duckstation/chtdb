@@ -1,0 +1,32 @@
+; CHTDB: ; [ Disney's Treasure Planet (USA) (2002) (Sony Computer Entertainment America) {SCUS-94647} <treaspln> ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800EB68E 0063
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800C766E 0003
+
+[Max Drubloons]
+Type = Gameshark
+Activation = EndFrame
+800C4980 03E7
+
+[Max Crystals]
+Type = Gameshark
+Activation = EndFrame
+800EB6BC 0063
+
+[Max Special]
+Type = Gameshark
+Activation = EndFrame
+800C766E 0803
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800EEA04 7000
+

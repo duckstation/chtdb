@@ -1,0 +1,42 @@
+; CHTDB: ; [ World Stadium 3 (Japan) {SLPS-01970} ]
+
+[Story Mode Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+8010031E 0000
+
+[999Km per hour at a speed ball]
+Type = Gameshark
+Activation = EndFrame
+80067976 03E7
+
+[999Km per hour throwing normally]
+Type = Gameshark
+Activation = EndFrame
+80067978 03E7
+
+[1Km per hour with a fork ball]
+Type = Gameshark
+Activation = EndFrame
+80067974 0001
+
+[Strike count 3]
+Type = Gameshark
+Activation = EndFrame
+80064470 0003
+
+[Ball count 3]
+Type = Gameshark
+Activation = EndFrame
+80064474 0003
+
+[Count out 3]
+Type = Gameshark
+Activation = EndFrame
+80064478 0003
+
+[Bat first total score 9]
+Type = Gameshark
+Activation = EndFrame
+800643D4 0009
+

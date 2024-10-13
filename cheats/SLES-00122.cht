@@ -1,0 +1,30 @@
+; CHTDB: ; [ Bubsy 3D: Furbitten Planet (Europe) {SLES-00122} ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801D9378 0063
+
+[Infinite Shields]
+Type = Gameshark
+Activation = EndFrame
+801D937C 0063
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A71CF2C0 10000C00
+A71DE128 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A71CF2C0 10000900
+A71DE128 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A71CF2C0 10000400
+A71DE128 10000400
+

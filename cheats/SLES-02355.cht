@@ -1,0 +1,101 @@
+; CHTDB: ; [ Urban Chaos (Germany) {SLES-02355} ]
+
+[Alle Level anwählbar]
+Type = Gameshark
+Activation = EndFrame
+D0106238 8011
+8010623A 3405
+D0106238 8011
+8010623C 0000
+D0106238 8011
+8010623E 0000
+A6106238 80110001
+
+[Kein Schaden am Auto]
+Type = Gameshark
+Activation = EndFrame
+9007DCFC 00000000
+
+[Unendlich Gesundheit]
+Type = Gameshark
+Activation = EndFrame
+3002383C 0021
+30025F6C 0021
+300583D8 0021
+
+[Unendlich Pistolen-Munition]
+Type = Gameshark
+Activation = EndFrame
+8005AF28 0000
+
+[Unendlich Schrotflinten- & AK47-Munition]
+Type = Gameshark
+Activation = EndFrame
+9005AE54 00000000
+
+[Unendlich Handgranaten]
+Type = Gameshark
+Activation = EndFrame
+80076410 0000
+
+[Sudden Death An (Drücke L1 & R1) Deaktivieren, wenn Feinde nur verhaftet werden sollen.]
+Type = Gameshark
+Activation = EndFrame
+D00E8A12 F3FF
+80023842 A460
+
+[Zeit Angehalten\Fahrtraining Bronze]
+Type = Gameshark
+Activation = EndFrame
+80196CB8 3C00
+
+[Zeit Angehalten\Fahrtraining Silber]
+Type = Gameshark
+Activation = EndFrame
+80196A54 3C00
+
+[Zeit Angehalten\Fahrtraining Gold]
+Type = Gameshark
+Activation = EndFrame
+80196E0C 3C00
+
+[Zeit Angehalten\Physisches Training]
+Type = Gameshark
+Activation = EndFrame
+80196FC8 3C00
+
+[Kein Schaden An Fahrzeugen\Fahrtraining Bronze]
+Type = Gameshark
+Activation = EndFrame
+80197462 012C
+
+[Kein Schaden An Fahrzeugen\Fahrtraining Silber]
+Type = Gameshark
+Activation = EndFrame
+80197356 012C
+
+[Kein Schaden An Fahrzeugen\Fahrtraining Gold]
+Type = Gameshark
+Activation = EndFrame
+801975C2 012C
+
+[Kein Schaden An Fahrzeugen\Der Verkehrsunfall]
+Type = Gameshark
+Activation = EndFrame
+80194786 012C
+
+[Unendlich Gesundheit\Geiselnahme]
+Type = Gameshark
+Activation = EndFrame
+80197A4C 00C8
+
+[Unendlich Gesundheit\Der Verkehrsunfall]
+Type = Gameshark
+Activation = EndFrame
+8019532C 00C8
+
+[Unendlich Gesundheit\Der SelbstmöRder]
+Type = Gameshark
+Activation = EndFrame
+80194E0C 00C8
+

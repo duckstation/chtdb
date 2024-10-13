@@ -1,0 +1,50 @@
+; CHTDB: ; [ Saibara Rieko no Mahjong Toriatama Kikou (Japan) {SLPS-02611} ]
+
+[Medal Max]
+Type = Gameshark
+Activation = EndFrame
+901D7E50 3B9AC9FF
+
+[Money Max]
+Type = Gameshark
+Activation = EndFrame
+901F8034 3B9AC9FF
+
+[Score Max]
+Type = Gameshark
+Activation = EndFrame
+901E6BC8 3B9AC9FF
+
+[Money MAX]
+Type = Gameshark
+Activation = EndFrame
+901F7CE4 7FFFFFFF
+
+[Holding point of Mahjong]
+Type = Gameshark
+Activation = EndFrame
+901E6878 0001FFFF
+901E687C 000000C8
+901E6880 000000C8
+901E6884 000000C8
+
+[Player has 99999 points]
+Type = Gameshark
+Activation = EndFrame
+901E6878 0001869F
+
+[Opponent 1 has 0 points]
+Type = Gameshark
+Activation = EndFrame
+801E6880 0000
+
+[Opponent 2 has 0 points]
+Type = Gameshark
+Activation = EndFrame
+801E6884 0000
+
+[Opponent 3 has 0 points]
+Type = Gameshark
+Activation = EndFrame
+801E687C 0000
+

@@ -1,0 +1,107 @@
+; CHTDB: ; [ NBA Fastbreak '98 (USA) (1997) (Midway Home Entertainment) {SLUS-00492} <nbafb98> ]
+
+[Select Home Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+800EB230 0000
+
+[Select Home Team Score\100]
+Type = Gameshark
+Activation = EndFrame
+800EB230 0064
+
+[Select Away Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+800EB234 0000
+
+[Select Away Team Score\100]
+Type = Gameshark
+Activation = EndFrame
+800EB234 0064
+
+[Max Agility]
+Type = Gameshark
+Activation = EndFrame
+80168810 0063
+
+[Max Speed]
+Type = Gameshark
+Activation = EndFrame
+80168814 0063
+
+[Max Shooting]
+Type = Gameshark
+Activation = EndFrame
+8016881C 0063
+
+[Max Endurance]
+Type = Gameshark
+Activation = EndFrame
+80168820 0063
+
+[Max Rebounding]
+Type = Gameshark
+Activation = EndFrame
+80168824 0063
+
+[Max Jumping]
+Type = Gameshark
+Activation = EndFrame
+80168828 0063
+
+[Max Blocking]
+Type = Gameshark
+Activation = EndFrame
+8016882C 0063
+
+[Max Stealing]
+Type = Gameshark
+Activation = EndFrame
+80168830 0063
+
+[Max Free Throws]
+Type = Gameshark
+Activation = EndFrame
+80168834 0063
+
+[Max 3 Points]
+Type = Gameshark
+Activation = EndFrame
+80168838 0063
+
+[Max Ball Handling]
+Type = Gameshark
+Activation = EndFrame
+8016883C 0063
+
+[Max Passing]
+Type = Gameshark
+Activation = EndFrame
+80168840 0063
+
+[Max Driving]
+Type = Gameshark
+Activation = EndFrame
+80168844 0063
+
+[Max Aggresiveness]
+Type = Gameshark
+Activation = EndFrame
+80168848 0063
+
+[Max Dunking]
+Type = Gameshark
+Activation = EndFrame
+8016884C 0063
+
+[Max Strength]
+Type = Gameshark
+Activation = EndFrame
+80168818 0063
+
+[Infinite Player Builder Points]
+Type = Gameshark
+Activation = EndFrame
+8016880C 01C2
+

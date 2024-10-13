@@ -1,0 +1,13 @@
+; CHTDB: ; [ Engacho! (Jpn) (1999) (Nihon Application) {SLPS-02263} <engacho> ]
+
+[Always 1 step in story mode]
+Type = Gameshark
+Activation = EndFrame
+80060DC8 0001
+
+[Stage Clear Press Select Button]
+Type = Gameshark
+Activation = EndFrame
+D0076252 FFFE
+30060DEC 000B
+

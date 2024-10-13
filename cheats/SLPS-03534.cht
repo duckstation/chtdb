@@ -1,0 +1,136 @@
+; CHTDB: ; [ Oujisama Lv1.5: Oujisama no Tamago (Japan) {SLPS-03534} ]
+
+[Infinite HP Canaan]
+Type = Gameshark
+Activation = EndFrame
+800B895A 0009
+
+[Infinite HP Celest]
+Type = Gameshark
+Activation = EndFrame
+800B8958 0009
+
+[Infinite HP Girl]
+Type = Gameshark
+Activation = EndFrame
+800B895C 0009
+
+[Infinite HP Priest]
+Type = Gameshark
+Activation = EndFrame
+800B895E 0009
+
+[Cg & Mode Full Bookmarker]
+Type = Gameshark
+Activation = EndFrame
+300B8417 0000
+300B842B 0000
+300B842F 0000
+300B8433 0000
+90007820 3C02800C
+90007824 24428376
+90007828 240A0011
+9000782C 24030101
+80007832 A443
+90007834 24420002
+90007838 1480FFFD
+9000783C 2484FFFF
+90007840 24420072
+90007844 30440008
+90007848 1480FFF9
+9000784C 2404001B
+90007850 0800DE6D
+8001FB8C 1E08
+
+[Prince 1 / 16 Infinite Item]
+Type = Gameshark
+Activation = EndFrame
+80066074 0001
+
+[Prince 1/16 Infinite Food]
+Type = Gameshark
+Activation = EndFrame
+80066838 0001
+800668F6 3000
+
+[Prince 1/16 9999 Money]
+Type = Gameshark
+Activation = EndFrame
+800B8CC0 270F
+
+[Cg All Unlock]
+Type = Gameshark
+Activation = EndFrame
+900B9000 017F7FFF
+90007800 3C02800C
+90007804 24428F40
+80007808 2021
+9000780C 24020001
+90007810 03E00008
+80007816 A082
+9006A458 0C001E00
+
+[Hakuho's Blaming His Henchmen All Modes Selectable]
+Type = Gameshark
+Activation = EndFrame
+800B852E 0101
+900B8530 01010101
+800B8534 0101
+
+[Hakuho Infinite Time Presss Select]
+Type = Gameshark
+Activation = EndFrame
+80054CD4 0000
+30054CD6 0042
+D00A0DF8 0100
+30054CD6 0002
+
+[Hakuko Cg All Unlock]
+Type = Gameshark
+Activation = EndFrame
+900B84D4 02020202
+900B84D8 02020202
+900B84DC 02020202
+300B84E0 0002
+
+[Quiz! i Sero Sabora 7 Life]
+Type = Gameshark
+Activation = EndFrame
+300B87CC 0007
+
+[Quiz Max Time]
+Type = Gameshark
+Activation = EndFrame
+300B87D0 0095
+
+[Quiz All Stages Avaliable]
+Type = Gameshark
+Activation = EndFrame
+300B87A8 0006
+
+[No. 1 is Always The Right Answer]
+Type = Gameshark
+Activation = EndFrame
+80041D1E 3000
+
+[Quiz Cg All Unlock]
+Type = Gameshark
+Activation = EndFrame
+900B83A8 01010101
+800B83AC 0101
+
+[Battle Jigsaw All Stages Avaliables]
+Type = Gameshark
+Activation = EndFrame
+3009C660 0005
+
+[Jigsaw Get Incapacitated Partner]
+Type = Gameshark
+Activation = EndFrame
+8002C28A 1000
+
+[Jigsaw Cg All Unlock]
+Type = Gameshark
+Activation = EndFrame
+800B856A 0101
+

@@ -1,0 +1,12 @@
+; CHTDB: ; [ Test Drive Off-Road 2 (Japan) {SLPS-01965} ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+9006A7CC 0FFFFFFF
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800890A0 4800
+

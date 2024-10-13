@@ -1,0 +1,65 @@
+; CHTDB: ; [ Getter Robo Daikessen! (Japan) {SLPS-02232} ]
+
+[Infinite Energy Main unit]
+Type = Gameshark
+Activation = EndFrame
+800FF830 270F
+800FF834 270F
+
+[Infinite Energy 2nd unit]
+Type = Gameshark
+Activation = EndFrame
+800FF930 270F
+800FF934 270F
+
+[Infinite Energy 3rd unit]
+Type = Gameshark
+Activation = EndFrame
+800FFA30 270F
+800FFA34 270F
+
+[Infinite Energy 4th unit]
+Type = Gameshark
+Activation = EndFrame
+800FFAB0 270F
+800FFAB4 270F
+
+[Infinite Energy 5th unit]
+Type = Gameshark
+Activation = EndFrame
+800FF9B0 270F
+800FF9B4 270F
+
+[Scenario can be selected Press Triangle + L2/R2.]
+Type = Gameshark
+Activation = EndFrame
+D008538A 0011
+E31AB6E4 0000
+211AB6E4 0001
+D008538A 0012
+E21AB6E4 0014
+201AB6E4 0001
+
+[1 Fight For 1000 Exp]
+Description = Push Select+L1+R1 In Finish Battle
+Type = Gameshark
+Activation = EndFrame
+A60A14AC 102103E8
+A60A14AE 00622402
+
+[Infinite Ge & En]
+Type = Gameshark
+Activation = EndFrame
+D009EE5C 1023
+8009EE5E 0060
+D009E6AC 1023
+8009E6AE 0040
+D009E930 1023
+8009E932 0040
+
+[Level Up 99]
+Type = Gameshark
+Activation = EndFrame
+A605D384 00010063
+A605D386 24C62406
+

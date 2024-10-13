@@ -1,0 +1,22 @@
+; CHTDB: ; [ Alexi Lalas International Soccer (USA) (1999) (Take-Two Interactive Software) {SLUS-00872} <lalas> ]
+
+[Select Home Team Score\9]
+Type = Gameshark
+Activation = EndFrame
+8011FF54 0009
+
+[Select Home Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+8011FF54 0000
+
+[Select Away Team Score\9]
+Type = Gameshark
+Activation = EndFrame
+80120178 0009
+
+[Select Away Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+80120178 0000
+

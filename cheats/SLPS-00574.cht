@@ -1,0 +1,32 @@
+; CHTDB: ; [ Darius Gaiden (Japan) {SLPS-00574} ]
+
+[P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801051CC 0009
+
+[P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80105244 0009
+
+[P1 Infinite Bombs]
+Type = Gameshark
+Activation = EndFrame
+801051BE 0003
+
+[P2 Infinite Bombs]
+Type = Gameshark
+Activation = EndFrame
+80105236 0003
+
+[P1 Invincibility]
+Type = Gameshark
+Activation = EndFrame
+801051A8 007F
+
+[P2 Invincibility]
+Type = Gameshark
+Activation = EndFrame
+80105220 007F
+

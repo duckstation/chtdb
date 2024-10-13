@@ -1,0 +1,43 @@
+; CHTDB: ; [ Spider - The Video Game (USA) (1997) (BMG Interactive Entertainment) {SLUS-00230} <spider> ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+3001642A 0002
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+30016428 0005
+
+[Always Have 99 DNA]
+Type = Gameshark
+Activation = EndFrame
+30016429 0063
+
+[Infinite Missiles (On Pickup)]
+Type = Gameshark
+Activation = EndFrame
+3001642B 0004
+
+[Infinite Flame (On Pickup)]
+Type = Gameshark
+Activation = EndFrame
+30016431 00FF
+
+[Infinite Electro (On Pickup)]
+Type = Gameshark
+Activation = EndFrame
+30016433 00FF
+
+[Infinite Poison (On Pickup)]
+Type = Gameshark
+Activation = EndFrame
+30016435 00FF
+
+[Remove restrictions on map (Basically unlocks all levels)]
+Type = Gameshark
+Activation = EndFrame
+A701BDD2 14601000
+A701BE42 14621000
+

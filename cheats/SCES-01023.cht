@@ -1,0 +1,53 @@
+; CHTDB: ; [ Steel Reign (Europe) {SCES-01023} ]
+
+[Infinite Shields]
+Type = Gameshark
+Activation = EndFrame
+900B7A70 00C800C8
+900B7A74 00C800C8
+
+[Infinite Cannon]
+Type = Gameshark
+Activation = EndFrame
+800B7C14 0008
+
+[Infinite Guided Missiles]
+Type = Gameshark
+Activation = EndFrame
+800B7BBA 0008
+
+[Infinite Ion Cannon]
+Type = Gameshark
+Activation = EndFrame
+800B7B84 0100
+
+[Infinite Specials]
+Type = Gameshark
+Activation = EndFrame
+800B7BDE 00E8
+
+[Infinite Mines]
+Type = Gameshark
+Activation = EndFrame
+800B7C02 0010
+
+[Infinite Phoenix Missiles]
+Type = Gameshark
+Activation = EndFrame
+800B7BCC 0008
+
+[Infinite Plasma]
+Type = Gameshark
+Activation = EndFrame
+800B7B96 0100
+
+[Infinite Laser Mark 1]
+Type = Gameshark
+Activation = EndFrame
+800B7B60 0100
+
+[Infinite Laser Mark 2]
+Type = Gameshark
+Activation = EndFrame
+800B7B72 0100
+

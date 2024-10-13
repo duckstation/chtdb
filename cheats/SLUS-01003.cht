@@ -1,0 +1,34 @@
+; CHTDB: ; [ Need for Speed - V-Rally 2 (USA) (1999) (Electronic Arts) {SLUS-01003} <vrally2> ]
+
+[Infinite Checkpoint + Lap Time]
+Type = Gameshark
+Activation = EndFrame
+800C52E8 0F0F
+
+[Unlock All Cars]
+Type = Gameshark
+Activation = EndFrame
+800C6A1C FFFF
+
+[Unlock All Tracks + Modes]
+Type = Gameshark
+Activation = EndFrame
+800C6A1E FFFF
+
+[Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+D00C5314 2F18
+30017C7F 0003
+
+[Max Points (Championship Mode)]
+Type = Gameshark
+Activation = EndFrame
+300C6910 00FF
+
+[Infinite Repair Time]
+Type = Gameshark
+Activation = EndFrame
+D00B8540 7EF4
+8001077A 2400
+

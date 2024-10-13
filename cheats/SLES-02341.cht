@@ -1,0 +1,32 @@
+; CHTDB: ; [ Autobahn Raser II (Germany) {SLES-02341} ]
+
+[Ne Menge Geld]
+Type = Gameshark
+Activation = EndFrame
+800DA4E6 0098
+
+[0 Schaden]
+Type = Gameshark
+Activation = EndFrame
+80048422 0000
+
+[Erster Sein]
+Type = Gameshark
+Activation = EndFrame
+80076F8C 0000
+
+[Starte In Letzter Runde]
+Type = Gameshark
+Activation = EndFrame
+80076EC0 0002
+
+[Unendlich Turbo]
+Type = Gameshark
+Activation = EndFrame
+80048848 0000
+
+[0 Verwarnungen]
+Type = Gameshark
+Activation = EndFrame
+8004D670 0000
+

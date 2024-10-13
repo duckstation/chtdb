@@ -1,0 +1,14 @@
+; CHTDB: ; [ Klonoa Beach Volleyball (Europe) {SCES-03922} ]
+
+[Player team has 10 points]
+Type = Gameshark
+Activation = EndFrame
+800D0220 000A
+800D0224 000A
+
+[Unlocks all extras characters, balls, modes, and courts]
+Type = Gameshark
+Activation = EndFrame
+50000D04 0000
+800D10B8 0003
+

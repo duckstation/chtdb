@@ -1,0 +1,12 @@
+; CHTDB: ; [ Psychometrer Eiji (Japan) {SLPS-01869} ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801DA008 012C
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+801DF9B1 270F
+

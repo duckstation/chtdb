@@ -1,0 +1,12 @@
+; CHTDB: ; [ Monkey Magic (Japan) {SLPS-02583} ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8006F188 0009
+
+[Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+8006F180 0064
+

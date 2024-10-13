@@ -1,0 +1,101 @@
+; CHTDB: ; [ Rockman X3 (Japan) {SLPS-00283} ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800D8A44 9600
+
+[Infinite Bug Hole]
+Type = Gameshark
+Activation = EndFrame
+800D8108 5C00
+
+[Infinite Acid Rush]
+Type = Gameshark
+Activation = EndFrame
+800D80FE 5C00
+
+[Infinite Parasitic Bomb]
+Type = Gameshark
+Activation = EndFrame
+800D8100 5C00
+
+[Infinite Ray Splasher]
+Type = Gameshark
+Activation = EndFrame
+800D8106 5C00
+
+[Infinite Triad Thunder]
+Type = Gameshark
+Activation = EndFrame
+800D8102 5C00
+
+[Infinite Frost Shield]
+Type = Gameshark
+Activation = EndFrame
+800D810A 5C00
+
+[Infinite Tornado Fang]
+Type = Gameshark
+Activation = EndFrame
+800D810C 5C00
+
+[Infinite Spinning Blade]
+Type = Gameshark
+Activation = EndFrame
+800D8104 5C00
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+8003B3BA 0100
+
+[Have All Weapons]
+Type = Gameshark
+Activation = EndFrame
+90141A60 FF03FF00
+
+[Have Gold Armor & All Robot-Ride Armor]
+Type = Gameshark
+Activation = EndFrame
+300D811A 00FF
+
+[Have Nova Strike]
+Type = Gameshark
+Activation = EndFrame
+80141A4E FF00
+801722BE 1F29
+
+[Infinite Aiming Laser & Double Cyclone]
+Type = Gameshark
+Activation = EndFrame
+80141A56 3030
+
+[Infinite Air Slides [providing you have the boots]]
+Type = Gameshark
+Activation = EndFrame
+300D8A6F 0001
+
+[Infinite Frost Tower & Soul Body]
+Type = Gameshark
+Activation = EndFrame
+80141A52 3030
+
+[Infinite Rising Fire & Ground Hunter]
+Type = Gameshark
+Activation = EndFrame
+80141A54 3030
+
+[Play as Zero]
+Type = Gameshark
+Activation = EndFrame
+800D8AC8 1111
+
+[Realtime Character Switch![Select+L1=Megaman,Select+R1=Zero]]
+Type = Gameshark
+Activation = EndFrame
+D0134B48 0104
+800D8AC9 0000
+D0134B48 0108
+800D8AC9 0002
+

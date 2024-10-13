@@ -1,0 +1,17 @@
+; CHTDB: ; [ Nickelodeon Rugrats - Search for Reptar (USA) (1998) (THQ) {SLUS-00650} <rugrept> ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800E2CBC 00FF
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800C4404 C503
+
+[Infinite Battery Energy]
+Type = Gameshark
+Activation = EndFrame
+800F4D74 7800
+

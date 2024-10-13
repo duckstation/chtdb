@@ -1,0 +1,30 @@
+; CHTDB: ; [ Who Wants to Be a Millionaire (Europe) {SLES-02988} ]
+
+[Infinite 50 / 50]
+Type = Gameshark
+Activation = EndFrame
+D007208C 0001
+3007208C 0000
+
+[Infinite Ask the audience]
+Type = Gameshark
+Activation = EndFrame
+D0072094 0001
+30072094 0000
+
+[Infinite Phone a friend]
+Type = Gameshark
+Activation = EndFrame
+D0072090 0001
+30072090 0000
+
+[Start with million pound question V1]
+Type = Gameshark
+Activation = EndFrame
+A60720F0 0000000F
+
+[Start with million pound question V2]
+Type = Gameshark
+Activation = EndFrame
+A60720A0 0000000F
+

@@ -1,0 +1,22 @@
+; CHTDB: ; [ Kyuin (Jpn) (1996) (Media Entertainment) {SLPS-00214 (100010)} <kyuin> ]
+
+[P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801F3F10 0003
+
+[P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801F400C 0003
+
+[P1 Infinite Laser]
+Type = Gameshark
+Activation = EndFrame
+801F3F18 0003
+
+[P2 Infinite Laser]
+Type = Gameshark
+Activation = EndFrame
+801F4014 0003
+

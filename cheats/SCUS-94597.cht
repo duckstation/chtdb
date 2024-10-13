@@ -1,0 +1,39 @@
+; CHTDB: ; [ Cool Boarders 2001 (USA) (2000) (Sony Computer Entertainment America) {SCUS-94597} <coolb2k1> ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800A7F4C 03B8
+
+[Infinite Misses]
+Type = Gameshark
+Activation = EndFrame
+80077864 0000
+
+[Unlock All Levels]
+Type = Gameshark
+Activation = EndFrame
+9006BE34 FFFFFFFF
+8006BE38 FFFF
+3006BE3A 00FF
+
+[Unlock All Characters]
+Type = Gameshark
+Activation = EndFrame
+8006C2FC FFFF
+
+[Unlock All Boards]
+Type = Gameshark
+Activation = EndFrame
+3006BF0C 00FF
+
+[Have All Medals]
+Type = Gameshark
+Activation = EndFrame
+9006BE3C FFFFFFFF
+
+[Always 1st Place]
+Type = Gameshark
+Activation = EndFrame
+800A6892 0000
+

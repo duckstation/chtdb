@@ -1,0 +1,47 @@
+; CHTDB: ; [ Star Trek - Invasion (USA) (2000) (Activision) {SLUS-00924} <strekinv> ]
+
+[Unlock All Levels]
+Type = Gameshark
+Activation = EndFrame
+9005BD68 FFFFFFFF
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80061BB0 18CC
+
+[Infinite Photon Torpedoes]
+Type = Gameshark
+Activation = EndFrame
+8011AC38 0063
+
+[Infinite Quantum Torpedoes]
+Type = Gameshark
+Activation = EndFrame
+8011AC64 0063
+
+[Infinite Protomater Missles]
+Type = Gameshark
+Activation = EndFrame
+8011AC90 0063
+
+[Infinite Shields]
+Type = Gameshark
+Activation = EndFrame
+8005FDB8 02BC
+
+[Infinite Hull]
+Type = Gameshark
+Activation = EndFrame
+8005FDBC 00F5
+
+[Have All Dual Levels Completed]
+Type = Gameshark
+Activation = EndFrame
+8005BD70 FFFF
+
+[Have All Levels Completed]
+Type = Gameshark
+Activation = EndFrame
+9005BD6C FFFFFFFF
+

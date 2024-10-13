@@ -1,0 +1,18 @@
+; CHTDB: ; [ Spawn: The Eternal (Europe) {SCES-01056} ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8007F5B8 0800
+
+[Infinite Energy for all Magics]
+Type = Gameshark
+Activation = EndFrame
+90044158 34050800
+8004415C 0000
+
+[Level select (00-18)Enabled Last Level]
+Type = Gameshark
+Activation = EndFrame
+8007F582 0018
+

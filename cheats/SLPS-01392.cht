@@ -1,0 +1,30 @@
+; CHTDB: ; [ Murakoshi Seikai no Bakuchou Nihon Rettou (Japan) {SLPS-01392} ]
+
+[Have 999999 money]
+Type = Gameshark
+Activation = EndFrame
+9008374C 000F423F
+
+[999cm fish caught]
+Type = Gameshark
+Activation = EndFrame
+800BDDAA 03E7
+
+[999kg fish caught]
+Type = Gameshark
+Activation = EndFrame
+800BDDAE 03E7
+
+[No burden on the Line]
+Type = Gameshark
+Activation = EndFrame
+800BDD42 0000
+
+[Without burdock Press L2 + R2]
+Type = Gameshark
+Activation = EndFrame
+D007BD9A 0003
+800BDD2E 0000
+D007BD9A 0003
+800BDDEA 0000
+

@@ -1,0 +1,12 @@
+; CHTDB: ; [ Irritating Stick (USA) (1998) (Jaleco USA) {SLUS-00775} <irrstick> ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8004EF60 0003
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+8004F068 0905
+

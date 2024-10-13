@@ -1,0 +1,96 @@
+; CHTDB: ; [ Dragon Ball Z: Idainaru Dragon Ball Densetsu (Japan) {SLPS-00355} ]
+
+[Unlock SP Mode]
+Type = Gameshark
+Activation = EndFrame
+801FF018 0007
+
+[Select Starting Saga\Saiyan Saga]
+Type = Gameshark
+Activation = EndFrame
+801FF002 0000
+
+[Select Starting Saga\Ginyu Saga]
+Type = Gameshark
+Activation = EndFrame
+801FF002 0001
+
+[Select Starting Saga\Freeza Saga]
+Type = Gameshark
+Activation = EndFrame
+801FF002 0002
+
+[Select Starting Saga\Android Saga]
+Type = Gameshark
+Activation = EndFrame
+801FF002 0003
+
+[Select Starting Saga\Cell Saga]
+Type = Gameshark
+Activation = EndFrame
+801FF002 0004
+
+[Select Starting Saga\Buu Saga (Dabura/Majin Buu)]
+Type = Gameshark
+Activation = EndFrame
+801FF002 0005
+
+[Select Starting Saga\Buu Saga (Majin Buu/Super Buu)]
+Type = Gameshark
+Activation = EndFrame
+801FF002 0006
+
+[Select Starting Saga\Buu Saga (Super Buu/Kid Buu)]
+Type = Gameshark
+Activation = EndFrame
+801FF002 0007
+
+[Press Select to Unlock All Characters [Title Screen]]
+Type = Gameshark
+Activation = EndFrame
+D0055B6C 0100
+801FF002 0007
+
+[P1 Infinite super power]
+Type = Gameshark
+Activation = EndFrame
+80019498 3E80
+
+[P1 No Powerbar]
+Type = Gameshark
+Activation = EndFrame
+80017FC2 0009
+
+[Power Balance full blue]
+Type = Gameshark
+Activation = EndFrame
+8001AF10 7FFF
+
+[Power Balance, Balanced]
+Type = Gameshark
+Activation = EndFrame
+8001AF10 0000
+
+[Power Balance full red]
+Type = Gameshark
+Activation = EndFrame
+8001AF10 8AD0
+
+[All Attacks Hurt P2 (Game Mode)]
+Type = Gameshark
+Activation = EndFrame
+D00566F4 0023
+300566F4 0021
+
+[All Attacks Hurt P2 (SP Mode)]
+Type = Gameshark
+Activation = EndFrame
+D00565BC 0023
+300565BC 0021
+
+[All Attacks Hurt P2 (VS Mode)]
+Type = Gameshark
+Activation = EndFrame
+D0056250 0023
+30056250 0021
+

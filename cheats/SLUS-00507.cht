@@ -1,0 +1,42 @@
+; CHTDB: ; [ Monopoly (USA) (1997) (Hasbro Interactive) {SLUS-00507} <monopoly> ]
+
+[P1 Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+800DA694 FFFF
+
+[P2 Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+800DA6C4 FFFF
+
+[P3 Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+800DA6F4 FFFF
+
+[P4 Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+800DB724 FFFF
+
+[P1 1 Trillion Dollars]
+Type = Gameshark
+Activation = EndFrame
+800DA696 3B9B
+
+[P2 1 Trillion Dollars]
+Type = Gameshark
+Activation = EndFrame
+800DA6C6 3B9B
+
+[P3 1 Trillion Dollars]
+Type = Gameshark
+Activation = EndFrame
+800DA6F6 3B9B
+
+[P4 1 Trillion Dollars]
+Type = Gameshark
+Activation = EndFrame
+800DB726 3B9B
+

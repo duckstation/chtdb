@@ -1,0 +1,37 @@
+; CHTDB: ; [ Mahoutsukai ni Naru Houhou (Jpn) (1999) (TGL) {SLPS-01754} <mahotsuk> ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800C39E0 0064
+
+[Infinite Magic]
+Type = Gameshark
+Activation = EndFrame
+800C39F4 0064
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+300C3A5E 00FF
+
+[It is not a lack of sleep]
+Type = Gameshark
+Activation = EndFrame
+900C3B3C 00000000
+
+[Rank Clear purpose and title also changes]
+Type = Gameshark
+Activation = EndFrame
+300F66B9 000A
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+900F7068 000F4240
+
+[Success rate]
+Type = Gameshark
+Activation = EndFrame
+300F7070 0009
+

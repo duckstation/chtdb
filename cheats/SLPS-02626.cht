@@ -1,0 +1,28 @@
+; CHTDB: ; [ TRL: The Rail Loaders (Japan) {SLPS-02626} ]
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80189208 0002
+
+[P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801891E4 0003
+
+[P2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80189270 0002
+
+[P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8018924C 0003
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+8010F98C 26AA
+8010F990 26AC
+

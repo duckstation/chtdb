@@ -1,0 +1,22 @@
+; CHTDB: ; [ Team Buddies (Europe) {SCES-01923} ]
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+D00779E4 FFFF
+800779E8 0000
+D00779E4 FFFF
+800779EA 0000
+
+[Infinite Health Buddie 1]
+Type = Gameshark
+Activation = EndFrame
+D11123BE 0000
+301123BE 0000
+
+[Infinite Health Buddie 2]
+Type = Gameshark
+Activation = EndFrame
+D1112762 0000
+30112762 0000
+

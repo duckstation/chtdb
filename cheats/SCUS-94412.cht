@@ -1,0 +1,85 @@
+; CHTDB: ; [ Blasto (USA) (1998) (Sony Computer Entertainment America) {SCUS-94412} <blasto> ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801F1972 0005
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801F04D4 1770
+
+[Moon Jump]
+Type = Gameshark
+Activation = EndFrame
+D00CDC08 0040
+801F0318 FFA6
+
+[Weapon Mega Blast]
+Type = Gameshark
+Activation = EndFrame
+800CD432 0008
+
+[Infinite Ammo (Bpc)]
+Type = Gameshark
+Activation = EndFrame
+D00CDC08 0020
+8008BD68 0000
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+301F1970 0001
+
+[Max Power Blaster]
+Type = Gameshark
+Activation = EndFrame
+D00CDC08 0080
+800CD434 0003
+
+[Super Jump]
+Type = Gameshark
+Activation = EndFrame
+801F0484 0003
+
+[Climbing Blasto]
+Description = Press triangle and then up
+Type = Gameshark
+Activation = EndFrame
+D00CDC08 0010
+801F1520 0005
+
+[Unlock 'Return To Hub' Menu-Option]
+Type = Gameshark
+Activation = EndFrame
+300100B6 0001
+
+[Unlock 'View Babes' Menu Option]
+Type = Gameshark
+Activation = EndFrame
+300100AC 0001
+
+[Unlock Cheat Menu]
+Type = Gameshark
+Activation = EndFrame
+300100B4 0001
+
+[Evil Blasto]
+Type = Gameshark
+Activation = EndFrame
+300100B4 0001
+300100B9 0002
+
+[All Cheats]
+Type = Gameshark
+Activation = EndFrame
+300100B4 0001
+800100B8 FFFF
+300100BA 000F
+
+[Blasto Costume Underwear]
+Type = Gameshark
+Activation = EndFrame
+301F1910 0001
+

@@ -1,0 +1,218 @@
+; CHTDB: ; [ Attack of the Saucerman (Europe) {SLES-01718} ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80055F74 000F
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80055F7A 0009
+
+[No. Of Neds To Capture ?00-FF]
+Type = Gameshark
+Activation = EndFrame
+80055FBA 00??
+
+[No. Of Neds Captured ?00-FF]
+Type = Gameshark
+Activation = EndFrame
+80055FBE 00??
+
+[Infinite Blaster-Ammo]
+Type = Gameshark
+Activation = EndFrame
+80055FFC 03E7
+
+[Finish Bonus-Levels Successfully]
+Type = Gameshark
+Activation = EndFrame
+A6055FBA 00640001
+A6055FBE 00000063
+
+[Select Level\Alien Containment Facility]
+Type = Gameshark
+Activation = EndFrame
+A6056020 00010001
+
+[Select Level\Security Level]
+Type = Gameshark
+Activation = EndFrame
+A6056020 00010002
+
+[Select Level\Airfield Under Attack]
+Type = Gameshark
+Activation = EndFrame
+A6056020 00010003
+
+[Select Level\Airforce Assault]
+Type = Gameshark
+Activation = EndFrame
+A6056020 00010004
+
+[Select Level\This Space Intentionally Blank]
+Type = Gameshark
+Activation = EndFrame
+A6056020 00010005
+
+[Select Level\Chiswick Park Ned Farm]
+Type = Gameshark
+Activation = EndFrame
+A6056020 00010006
+
+[Select Level\Big Ben Time Machine]
+Type = Gameshark
+Activation = EndFrame
+A6056020 00010007
+
+[Select Level\Body Snatchers]
+Type = Gameshark
+Activation = EndFrame
+A6056020 00010008
+
+[Select Level\The Tower Of London]
+Type = Gameshark
+Activation = EndFrame
+A6056020 00010009
+
+[Select Level\Stonehenge Time Gate]
+Type = Gameshark
+Activation = EndFrame
+A6056020 0001000A
+
+[Select Level\Mexican Jungle]
+Type = Gameshark
+Activation = EndFrame
+A6056020 0001000B
+
+[Select Level\Aztec City Limits]
+Type = Gameshark
+Activation = EndFrame
+A6056020 0001000C
+
+[Select Level\Aztec Suburbia]
+Type = Gameshark
+Activation = EndFrame
+A6056020 0001000D
+
+[Select Level\Aztec Airport]
+Type = Gameshark
+Activation = EndFrame
+A6056020 0001000E
+
+[Select Level\Shamanic Temple]
+Type = Gameshark
+Activation = EndFrame
+A6056020 0001000F
+
+[Select Level\Stoneage Starport]
+Type = Gameshark
+Activation = EndFrame
+A6056020 00010010
+
+[Select Level\Pterydactyl Terror]
+Type = Gameshark
+Activation = EndFrame
+A6056020 00010011
+
+[Select Level\Inside The Volcano]
+Type = Gameshark
+Activation = EndFrame
+A6056020 00010012
+
+[Select Level\Grimloid Magma Plant]
+Type = Gameshark
+Activation = EndFrame
+A6056020 00010013
+
+[Select Level\The Reactor Core]
+Type = Gameshark
+Activation = EndFrame
+A6056020 00010014
+
+[Select Level\Grimloid Starport]
+Type = Gameshark
+Activation = EndFrame
+A6056020 00010015
+
+[Select Level\Baggage Handling]
+Type = Gameshark
+Activation = EndFrame
+A6056020 00010016
+
+[Select Level\Downtown Homeworld]
+Type = Gameshark
+Activation = EndFrame
+A6056020 00010017
+
+[Select Level\NEDCO's Flagship]
+Type = Gameshark
+Activation = EndFrame
+A6056020 00010018
+
+[Select Level\Big Bubba's Bridge]
+Type = Gameshark
+Activation = EndFrame
+A6056020 00010019
+
+[Select Level\Intro]
+Type = Gameshark
+Activation = EndFrame
+A6056020 0001001A
+
+[Select Level\Outro]
+Type = Gameshark
+Activation = EndFrame
+A6056020 0001001B
+
+[Select Level\Bonus Level 1]
+Type = Gameshark
+Activation = EndFrame
+A6056020 0001001C
+
+[Select Level\Bonus Level 2]
+Type = Gameshark
+Activation = EndFrame
+A6056020 0001001D
+
+[Select Level\Bonus Level 3]
+Type = Gameshark
+Activation = EndFrame
+A6056020 0001001E
+
+[Select Level\Bonus Level 4]
+Type = Gameshark
+Activation = EndFrame
+A6056020 0001001F
+
+[Select Level\Demo Level 1]
+Type = Gameshark
+Activation = EndFrame
+A6056020 00010024
+
+[Select Level\Demo Level 2]
+Type = Gameshark
+Activation = EndFrame
+A6056020 00010025
+
+[P.O.D.-Codes (On Pickup)\Infinite Explosives,Smart Bombs S, Bubble Bombs,Impact Scatter Grenades, Skinner Missiles]
+Type = Gameshark
+Activation = EndFrame
+80056000 03E7
+
+[P.O.D.-Codes (On Pickup)\Infinite Bubble-Bombs]
+Type = Gameshark
+Activation = EndFrame
+80056004 03E7
+
+[P.O.D.-Codes (On Pickup)\Infinite Love Bombs]
+Type = Gameshark
+Activation = EndFrame
+80056008 03E7
+
+[P.O.D.-Codes (On Pickup)\Infinite Hoverned-Traps]
+Type = Gameshark
+Activation = EndFrame
+8005600C 03E7
+

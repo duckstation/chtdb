@@ -1,0 +1,33 @@
+; CHTDB: ; [ Rayman Brain Games (USA) (2001) (Ubi Soft Entertainment Software) {SLUS-01265} <raymanbg> ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80095218 0009
+
+[Max Blue Balls]
+Type = Gameshark
+Activation = EndFrame
+8009521E 0031
+
+[Press L1+L2+R1+R2 To Skip Timed Levels]
+Type = Gameshark
+Activation = EndFrame
+D009443C 000F
+8009533C FFFF
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+30095221 0004
+
+[Invincibility (Press L2+Select To Activate, R2+Select To Deactivate)]
+Type = Gameshark
+Activation = EndFrame
+D009443C 0101
+80007800 4D43
+D009443C 0102
+80007800 0000
+D0007800 4D43
+800C2CCC 0000
+

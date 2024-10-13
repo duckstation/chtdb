@@ -1,0 +1,51 @@
+; CHTDB: ; [ Akuji the Heartless (USA) (1998) (Eidos Interactive) {SLUS-00715} <akuji> ]
+
+[Play game at 60 FPS]
+Type = Gameshark
+Activation = EndFrame
+A7055FBA 14401400
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800BA746 06CA
+
+[Infinite Spells On Pick-Up]
+Type = Gameshark
+Activation = EndFrame
+800BA744 0010
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+A706981E A4C22400
+
+[Extra Spell Ammo]
+Type = Gameshark
+Activation = EndFrame
+80091C24 0001
+
+[Enable All Levels]
+Type = Gameshark
+Activation = EndFrame
+800C4704 000F
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80080346 2400
+
+[Have Debug Option In Pause Menu]
+Type = Gameshark
+Activation = EndFrame
+300BA742 000C
+
+[Widescreen 16-9 (Vert-)]
+Type = Gameshark
+Activation = EndFrame
+8005A310 0C00
+8005A32C 0034
+8005A32E AFA0
+8005A330 1000
+8005A332 AFA0
+

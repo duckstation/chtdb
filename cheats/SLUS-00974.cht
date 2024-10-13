@@ -1,0 +1,173 @@
+; CHTDB: ; [ Medal of Honor (USA) (1999) (Electronic Arts) {SLUS-00974, SLUS-00974CE, SLUS-00974GH} <mhonr> ]
+
+[Enable + Unlock All Secret Codes]
+Type = Gameshark
+Activation = EndFrame
+800386A0 00FF
+800386A4 00FF
+
+[Have All Medals]
+Type = Gameshark
+Activation = EndFrame
+8003869C FFFF
+
+[Infinite Ammo on Pickup (All Levels)]
+Type = Gameshark
+Activation = EndFrame
+A70461AA A4622400
+A707DC26 A4622400
+
+[Infinite Health (All Levels)]
+Type = Gameshark
+Activation = EndFrame
+A704ACC2 A7A22400
+D0055F5C 00F4
+80055F5E 2400
+
+[Infinite Health Everyone (All Levels)]
+Type = Gameshark
+Activation = EndFrame
+8004ACC2 2400
+
+[Invinciblity (All Levels)]
+Type = Gameshark
+Activation = EndFrame
+D004ACB8 1023
+8004ACBA 2400
+D0055F5C 00F4
+80055F5E 2400
+
+[Objectives Always Accomplished]
+Type = Gameshark
+Activation = EndFrame
+800988DC 0001
+800988E0 0001
+800988E4 0001
+800988E8 0001
+800988EC 0001
+800988F0 0001
+
+[One-Hit Death Everyone (All Levels)]
+Type = Gameshark
+Activation = EndFrame
+8004ACBE 2400
+
+[Super Turbo Mode]
+Type = Gameshark
+Activation = EndFrame
+80097FCC 1276
+
+[P1 Easy Aim = On]
+Type = Gameshark
+Activation = EndFrame
+300386AC 0001
+
+[P1 Fast Aim = On]
+Type = Gameshark
+Activation = EndFrame
+300386B4 0001
+
+[P1 Invert Y-axis = Off]
+Type = Gameshark
+Activation = EndFrame
+300386A8 0000
+
+[P1 Vibration = On]
+Type = Gameshark
+Activation = EndFrame
+300386B0 0001
+8007BDF8 7300
+
+[P1 Zoom Aim = On]
+Type = Gameshark
+Activation = EndFrame
+300386B8 0001
+
+[P2 Easy Aim = On]
+Type = Gameshark
+Activation = EndFrame
+300386C0 0001
+
+[P2 Fast Aim = On]
+Type = Gameshark
+Activation = EndFrame
+300386C8 0001
+
+[P2 Invert Y-axis = Off]
+Type = Gameshark
+Activation = EndFrame
+300386BC 0000
+
+[P2 Vibration = On]
+Type = Gameshark
+Activation = EndFrame
+300386C4 0001
+8007BE20 7300
+
+[P2 Zoom Aim = On]
+Type = Gameshark
+Activation = EndFrame
+300386CC 0001
+
+[BGM/BackGround-Music = Ambience Only]
+Type = Gameshark
+Activation = EndFrame
+30038658 0001
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+80048FEC B892
+80048FEE 0C00
+80048FF0 0000
+80048FF2 0000
+8004900C B892
+8004900E 0C00
+80049010 0000
+80049012 0000
+8002E248 000C
+8002E24A 2403
+8002E24C 0018
+8002E24E 0043
+8002E250 1012
+8002E254 10C3
+8002E256 0002
+8002E258 0008
+8002E25A 03E0
+8007E1F4 B898
+8007E1F6 0800
+8002E264 0009
+8002E266 240C
+8002E268 2900
+8002E26A 0005
+8002E26C 001A
+8002E26E 00AC
+8002E270 2812
+8002E274 F87F
+8002E276 0801
+8002E278 2180
+8002E27A 0004
+8007B590 0A00
+
+[Select Right analog turn option\Option 1]
+Type = Gameshark
+Activation = EndFrame
+80060106 00001040
+D7000000 00020000
+80060106 00002400
+800D0C86 0000FFDF
+00000000 0000FFFF
+D7000000 00080000
+80060106 00002400
+800D0C86 0000FF7F
+
+[Select Right analog turn option\Option 2]
+Type = Gameshark
+Activation = EndFrame
+80060106 00001040
+D7000000 00020000
+800D0C86 0000FFDF
+00000000 0000FFFF
+D7000000 00080000
+800D0C86 0000FF7F
+

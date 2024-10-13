@@ -1,0 +1,73 @@
+; CHTDB: ; [ RayStorm (Europe) {SCES-00742} ]
+
+[P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800D4D2C 0005
+
+[P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800D7194 0005
+
+[Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+800D4950 0009
+
+[Select Level\1]
+Type = Gameshark
+Activation = EndFrame
+A60BABD4 00010000
+
+[Select Level\2]
+Type = Gameshark
+Activation = EndFrame
+A60BABD4 00010001
+
+[Select Level\3]
+Type = Gameshark
+Activation = EndFrame
+A60BABD4 00010002
+
+[Select Level\4]
+Type = Gameshark
+Activation = EndFrame
+A60BABD4 00010003
+
+[Select Level\5]
+Type = Gameshark
+Activation = EndFrame
+A60BABD4 00010004
+
+[Select Level\6]
+Type = Gameshark
+Activation = EndFrame
+A60BABD4 00010005
+
+[Select Level\7]
+Type = Gameshark
+Activation = EndFrame
+A60BABD4 00010006
+
+[Select Level\8]
+Type = Gameshark
+Activation = EndFrame
+A60BABD4 00010007
+
+[Select Level\9]
+Type = Gameshark
+Activation = EndFrame
+A60BABD4 00010008
+
+[Select Level\10]
+Type = Gameshark
+Activation = EndFrame
+A60BABD4 00010009
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+800878B8 0C00
+800878D8 1500
+

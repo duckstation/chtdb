@@ -1,0 +1,70 @@
+; CHTDB: ; [ Galerians (USA) (2000) (Crave Entertainment) {SLUS-00986 / SLUS-01098 / SLUS-01099} <galerian> ]
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+801C2F9C 00C8
+
+[Always Empty AP]
+Type = Gameshark
+Activation = EndFrame
+801AF96C 0000
+
+[Infinite Nalcon Ppec Gauge]
+Type = Gameshark
+Activation = EndFrame
+801AF978 00C8
+
+[Infinite Red Ppec Gauge]
+Type = Gameshark
+Activation = EndFrame
+801AF97C 00C8
+
+[Infinite D-Felon Ppec Gauge]
+Type = Gameshark
+Activation = EndFrame
+801AF980 00C8
+
+[Psychic Power Level Maxed]
+Type = Gameshark
+Activation = EndFrame
+301AF994 0003
+
+[Have D-Felon Ability]
+Type = Gameshark
+Activation = EndFrame
+801AF9AE FFFF
+
+[Overall Time Is 0.00.00]
+Type = Gameshark
+Activation = EndFrame
+801AFDEC 0000
+
+[Have Max Item Slots]
+Type = Gameshark
+Activation = EndFrame
+801AFAFE 0028
+
+[Have All Movies]
+Type = Gameshark
+Activation = EndFrame
+901FD004 FFFFFFFF
+
+[Walk Through Walls]
+Type = Gameshark
+Activation = EndFrame
+A71212A6 16221000
+
+[Quick Turn  - Down + Square]
+Description = Works like Resident Evil 3
+Type = Gameshark
+Activation = EndFrame
+E01AC8D9 00000040
+E01AC8DC 00000080
+601C2F8C 000003E8
+
+[All movies]
+Type = Gameshark
+Activation = EndFrame
+901FD004 FFFFFFFF
+

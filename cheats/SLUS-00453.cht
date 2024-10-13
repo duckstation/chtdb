@@ -1,0 +1,205 @@
+; CHTDB: ; [ Mega Man 8 (USA) (1997) (Capcom Entertainment) {SLUS-00453, SLUS-00453GH} <megaman8> ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8015E282 2800
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+8015E2AA 2D00
+
+[1-Hit Death To Bosses]
+Type = Gameshark
+Activation = EndFrame
+8015B1BA 0100
+
+[One Hit Kills]
+Type = Gameshark
+Activation = EndFrame
+801074BE 2400
+
+[Warp To Last Stage]
+Type = Gameshark
+Activation = EndFrame
+C00FFC8C 0840
+900FFC98 2403000A
+900FFCC0 24020000
+00000000 FFFF
+
+[Wily's Stage Level Select Intro Stage 00 Intro Stage]
+Type = Gameshark
+Activation = EndFrame
+301C336D 0000
+
+[Wily's Stage Level Select Frost Man]
+Type = Gameshark
+Activation = EndFrame
+301C336D 0001
+
+[Wily's Stage Level Select Clown Man Stage]
+Type = Gameshark
+Activation = EndFrame
+301C336D 0002
+
+[Wily's Stage Level Select Tengu Man Stage]
+Type = Gameshark
+Activation = EndFrame
+301C336D 0003
+
+[Wily's Stage Level Select Grenade Stage]
+Type = Gameshark
+Activation = EndFrame
+301C336D 0004
+
+[Wily's Stage Level Select Sword Man Stage]
+Type = Gameshark
+Activation = EndFrame
+301C336D 0005
+
+[Wily's Stage Level Select Aqua Man Stage]
+Type = Gameshark
+Activation = EndFrame
+301C336D 0006
+
+[Wily's Stage Level Select Astro Man Stage]
+Type = Gameshark
+Activation = EndFrame
+301C336D 0007
+
+[Wily's Stage Level Select Search Man Stage]
+Type = Gameshark
+Activation = EndFrame
+301C336D 0008
+
+[Wily's Stage Level Select Duo Stage]
+Type = Gameshark
+Activation = EndFrame
+301C336D 0009
+
+[Wily's Stage Level Select Wily Tower 1 Stage]
+Type = Gameshark
+Activation = EndFrame
+301C336D 000A
+
+[Wily's Stage Level Select Wily Tower 2 Stage]
+Type = Gameshark
+Activation = EndFrame
+301C336D 000B
+
+[Wily's Stage Level Select Wily Tower 3 Stage]
+Type = Gameshark
+Activation = EndFrame
+301C336D 000C
+
+[Wily's Stage Level Select Wily Tower 4 Stage]
+Type = Gameshark
+Activation = EndFrame
+301C336D 000D
+
+[Always Have Mega Ball]
+Type = Gameshark
+Activation = EndFrame
+801B1EB0 0001
+
+[Infinite Mega Balls]
+Type = Gameshark
+Activation = EndFrame
+801B1EB2 2D00
+
+[Always Have Flash Bomb]
+Type = Gameshark
+Activation = EndFrame
+801B1EB4 0001
+
+[Infinite Flash Bombs]
+Type = Gameshark
+Activation = EndFrame
+801B1EB6 2D00
+
+[Always Have Thunder Claw]
+Type = Gameshark
+Activation = EndFrame
+801B1EB8 0001
+
+[Infinite Thunder Claws]
+Type = Gameshark
+Activation = EndFrame
+801B1EBA 2D00
+
+[Always Have Ice Wave]
+Type = Gameshark
+Activation = EndFrame
+801B1EBC 0001
+
+[Infinite Ice Waves]
+Type = Gameshark
+Activation = EndFrame
+801B1EBE 2D00
+
+[Always Have Tornado Hold]
+Type = Gameshark
+Activation = EndFrame
+801B1EC0 0001
+
+[Infinite Tornado Holds]
+Type = Gameshark
+Activation = EndFrame
+801B1EC2 2D00
+
+[Always Have Water Balloon]
+Type = Gameshark
+Activation = EndFrame
+801B1EC4 0001
+
+[Infinite Water Balloons]
+Type = Gameshark
+Activation = EndFrame
+801B1EC6 2D00
+
+[Always Have Flame Sword]
+Type = Gameshark
+Activation = EndFrame
+801B1EC8 0001
+
+[Infinite Flame Swords]
+Type = Gameshark
+Activation = EndFrame
+801B1ECA 2D00
+
+[Always Have Homing Sniper]
+Type = Gameshark
+Activation = EndFrame
+801B1ECC 0001
+
+[Infinite Homing Snipers]
+Type = Gameshark
+Activation = EndFrame
+801B1ECE 2D00
+
+[Always Have Astro Crush]
+Type = Gameshark
+Activation = EndFrame
+801B1ED0 0001
+
+[Infinite Astro Crushes]
+Type = Gameshark
+Activation = EndFrame
+801B1ED2 2D00
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801C3370 0005
+
+[Infinite Bolts]
+Type = Gameshark
+Activation = EndFrame
+8016D2F0 0009
+
+[Infinite Rush Energy]
+Type = Gameshark
+Activation = EndFrame
+801B2990 0027
+

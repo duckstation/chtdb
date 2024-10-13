@@ -1,0 +1,155 @@
+; CHTDB: ; [ Jet Moto (USA) (1996) (Sony Computer Entertainment America) {SCUS-94309} <jetmoto> ]
+
+[Enable All Tracks]
+Type = Gameshark
+Activation = EndFrame
+80176664 0003
+
+[Infinite Turbos]
+Type = Gameshark
+Activation = EndFrame
+80176700 0004
+80188B48 0004
+
+[Infinite Grapple]
+Type = Gameshark
+Activation = EndFrame
+80188B50 0064
+801792BE 0019
+8017963A 0019
+801799B6 0019
+80179D32 0019
+8017A0AE 0019
+8017A42A 0019
+8017A7A6 0019
+8017AB22 0019
+8017AE9E 0019
+8017B21A 0019
+8017B596 0019
+8017B912 0019
+8017BC8E 0019
+8017C00A 0019
+8017C386 0019
+8017C702 0019
+8017CA7E 0019
+8017CDFA 0019
+8017D176 0019
+8017D4F2 0019
+
+[Race Only 1 Lap (Place 1St)]
+Type = Gameshark
+Activation = EndFrame
+80188988 0003
+8017CB5C 0002
+
+[Always Come In First Place]
+Type = Gameshark
+Activation = EndFrame
+80186D10 0000
+80188194 0000
+
+[Turbo is Enabled]
+Type = Gameshark
+Activation = EndFrame
+80016F06 0102
+8001679E 0102
+
+[Turbo is Disabled]
+Type = Gameshark
+Activation = EndFrame
+80016F06 0002
+80016FBE 0002
+
+[Grapple is Enabled]
+Type = Gameshark
+Activation = EndFrame
+80017166 0102
+8001721E 0102
+
+[Grapple is Disabled]
+Type = Gameshark
+Activation = EndFrame
+80017166 0002
+8001721E 0002
+
+[Trophy Presenter is Rider's Choice]
+Type = Gameshark
+Activation = EndFrame
+80017416 0003
+80017522 0003
+
+[Trophy Presenter is Female]
+Type = Gameshark
+Activation = EndFrame
+80017416 0103
+80017522 0003
+
+[Trophy Presenter is Male]
+Type = Gameshark
+Activation = EndFrame
+80017416 0203
+80017522 0203
+
+[Bike Hud is On]
+Type = Gameshark
+Activation = EndFrame
+800176CE 0102
+80017786 0102
+
+[Bike Hud is Off]
+Type = Gameshark
+Activation = EndFrame
+800176CE 0002
+80017786 0002
+
+[Cinematic Camera is On]
+Type = Gameshark
+Activation = EndFrame
+8001792E 0102
+800179E6 0102
+
+[Cinematic Camera is Off]
+Type = Gameshark
+Activation = EndFrame
+8001792E 0002
+800179E6 0002
+
+[Stunt Race is On]
+Type = Gameshark
+Activation = EndFrame
+80017C06 0102
+80017CBE 0102
+
+[Stunt Race is Off]
+Type = Gameshark
+Activation = EndFrame
+80017C06 0002
+80017CBE 0002
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A716EBBC 10000C00
+A716E91C 10000C00
+A716E97C 10000C00
+A716EA3C 10000C00
+A716EA9C 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A716EBBC 10000900
+A716E91C 10000900
+A716E97C 10000900
+A716EA3C 10000900
+A716EA9C 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A716EBBC 10000400
+A716E91C 10000400
+A716E97C 10000400
+A716EA3C 10000400
+A716EA9C 10000400
+

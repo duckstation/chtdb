@@ -1,0 +1,65 @@
+; CHTDB: ; [ Monster Rancher Battle Card - Episode II (USA) (2000) (Tecmo) {SLUS-01178} <mranchb2> ]
+
+[P1 Infinite Guts]
+Type = Gameshark
+Activation = EndFrame
+801199C2 0063
+
+[P1 No Guts]
+Type = Gameshark
+Activation = EndFrame
+801199C2 0000
+
+[P1 Infinite Cards]
+Type = Gameshark
+Activation = EndFrame
+801199C0 0063
+
+[P1 No Cards]
+Type = Gameshark
+Activation = EndFrame
+801199C0 0000
+
+[P1 Infinite HP All 3 Cards]
+Type = Gameshark
+Activation = EndFrame
+801199DE 0063
+80119A1E 0063
+80119A5E 0063
+
+[P1 Press L1 For Quick Win]
+Type = Gameshark
+Activation = EndFrame
+C0083472 FEFF
+80119C30 0000
+80119C70 0000
+80119CB0 0000
+00000000 FFFF
+
+[P2 Infinite Guts]
+Type = Gameshark
+Activation = EndFrame
+80119C14 0063
+
+[P2 No Guts]
+Type = Gameshark
+Activation = EndFrame
+80119C14 0000
+
+[P2 Infinite Cards]
+Type = Gameshark
+Activation = EndFrame
+80119C12 0063
+
+[P2  No Cards]
+Type = Gameshark
+Activation = EndFrame
+80119C12 0000
+
+[P2 Infinite HP All 3 Cards]
+Type = Gameshark
+Activation = EndFrame
+80119CB0 0063
+80119C30 0063
+80119C70 0063
+

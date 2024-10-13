@@ -1,0 +1,26 @@
+; CHTDB: ; [ UEFA Champions League: Season 1998/99 (Europe) {SLES-01622} ]
+
+[Select Away Team Score\9 goals]
+Type = Gameshark
+Activation = EndFrame
+8007469E 0009
+80074958 0009
+
+[Select Away Team Score\0 goals]
+Type = Gameshark
+Activation = EndFrame
+8007469E 0000
+80074958 0000
+
+[Select Home Team Score\9 goals]
+Type = Gameshark
+Activation = EndFrame
+8007469C 0009
+80074940 0009
+
+[Select Home Team Score\0 Goals]
+Type = Gameshark
+Activation = EndFrame
+8007469E 0000
+80074940 0000
+

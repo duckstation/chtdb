@@ -1,0 +1,7 @@
+; CHTDB: ; [ Pro Pinball - Timeshock! (USA) (1998) (Empire Interactive Entertainment) {SLUS-00639} <ppintime> ]
+
+[P1 Infinite Balls]
+Type = Gameshark
+Activation = EndFrame
+800BC934 0001
+

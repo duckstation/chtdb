@@ -1,0 +1,12 @@
+; CHTDB: ; [ Star Wars: Rebel Assault II: The Hidden Empire (Spain) {SLES-00644 | SLES-10644} ]
+
+[Infinite Armour]
+Type = Gameshark
+Activation = EndFrame
+800BE068 1000
+
+[Enable All Levels]
+Type = Gameshark
+Activation = EndFrame
+800C93A8 0010
+

@@ -1,0 +1,69 @@
+; CHTDB: ; [ Suna no Embrace: Edin no Sato no Navel (Japan) {SLPS-02858} ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+90153B98 270F270F
+
+[Infinite Water]
+Type = Gameshark
+Activation = EndFrame
+900FD6E8 00640064
+
+[Brawn Max]
+Type = Gameshark
+Activation = EndFrame
+80153B9C 270F
+
+[Physical fitness Max]
+Type = Gameshark
+Activation = EndFrame
+80153B9E 270F
+
+[Intelligence Max]
+Type = Gameshark
+Activation = EndFrame
+80153BA0 270F
+
+[Spirit Max]
+Type = Gameshark
+Activation = EndFrame
+80153BA2 270F
+
+[Reaction Max]
+Type = Gameshark
+Activation = EndFrame
+80153BA4 270F
+
+[Deft Max]
+Type = Gameshark
+Activation = EndFrame
+80153BA6 270F
+
+[Emotion degree Max]
+Type = Gameshark
+Activation = EndFrame
+80153BDA 012C
+
+[No Random Battles]
+Type = Gameshark
+Activation = EndFrame
+300FDE64 0000
+
+[Infinite Water in combat]
+Type = Gameshark
+Activation = EndFrame
+D00765A0 1021
+800765A2 0002
+
+[Infinite HP in combat]
+Type = Gameshark
+Activation = EndFrame
+D008AD74 1823
+8008AD76 0060
+
+[Album appearance]
+Type = Gameshark
+Activation = EndFrame
+301D55FF 0001
+

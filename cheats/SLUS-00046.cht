@@ -1,0 +1,31 @@
+; CHTDB: ; [ Criticom (USA) (1995) (Vic Tokai) {SLUS-00046} <criticom> ]
+
+[P1 Invincibility]
+Type = Gameshark
+Activation = EndFrame
+80059DE8 0300
+80059F58 0320
+8005A0C8 0320
+
+[P2 Invincibility]
+Type = Gameshark
+Activation = EndFrame
+80059C78 0320
+80059B08 0320
+80059DE8 0300
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A70DC888 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A70DC888 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A70DC888 10000400
+

@@ -1,0 +1,746 @@
+; CHTDB: ; [ Final Fantasy VIII (USA) (1999) (Square Electronic Arts) {SLUS-00892, SLUS-00892GH / SLUS-00908, SLUS-00908GH / SLUS-00909, SLUS-00909GH / SLUS-00910, SLUS-00910GH} <ffant8> ]
+
+[Save Anywhere]
+Type = Gameshark
+Activation = EndFrame
+80070652 0100
+
+[Teleport (Press L3 to store location, R3 to warp)]
+Type = Gameshark
+Activation = EndFrame
+C0082DEE 00000200
+C20C9868 00000004
+9000C000 00000000
+C20C986C 00000004
+9000C004 00000000
+C20C9870 00000004
+9000C008 00000000
+C20C977B 00000004
+9000C00C 00000000
+00000000 0000FFFF
+C0082DEE 00000400
+C200C000 00000004
+900C9868 00000000
+C200C004 00000004
+900C986C 00000000
+C200C008 00000004
+900C9870 00000000
+C200C00C 00000004
+900C977B 00000000
+
+[Max Gil]
+Type = Gameshark
+Activation = EndFrame
+90077E84 0098967F
+
+[No Random Battles]
+Type = Gameshark
+Activation = EndFrame
+80078DF8 000C
+
+[In-Battle 1st Position Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80078892 270F
+
+[In-Battle 2nd Position Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80078A62 270F
+
+[In-Battle 3rd Position Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80078C32 270F
+
+[In-Battle Infinite Magic (All Characters)]
+Type = Gameshark
+Activation = EndFrame
+800AF486 2400
+
+[In-Battle 1st Position Infinite Health Gf]
+Type = Gameshark
+Activation = EndFrame
+80078738 270F
+
+[In-Battle 2nd Position Infinite Health Gf]
+Type = Gameshark
+Activation = EndFrame
+80078908 270F
+
+[In-Battle 3rd Position Infinite Health Gf]
+Type = Gameshark
+Activation = EndFrame
+80078AD8 270F
+
+[Guardian Forces\Alexander\Unlock It]
+Type = Gameshark
+Activation = EndFrame
+30077681 0001
+
+[Guardian Forces\Alexander\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+80078DB0 270F
+
+[Guardian Forces\Alexander\Max HP]
+Type = Gameshark
+Activation = EndFrame
+80078DB2 270F
+
+[Guardian Forces\Alexander\Max Exp]
+Type = Gameshark
+Activation = EndFrame
+90078DB4 05F5E0FF
+
+[Guardian Forces\Alexander\Level 99]
+Type = Gameshark
+Activation = EndFrame
+80078DB8 0063
+
+[Guardian Forces\Bahamut\Unlock It]
+Type = Gameshark
+Activation = EndFrame
+30077709 0001
+
+[Guardian Forces\Bahamut\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+80078DC8 270F
+
+[Guardian Forces\Bahamut\Max HP]
+Type = Gameshark
+Activation = EndFrame
+80078DCA 270F
+
+[Guardian Forces\Bahamut\Max Exp]
+Type = Gameshark
+Activation = EndFrame
+90078DCC 05F5E0FF
+
+[Guardian Forces\Bahamut\Level 99]
+Type = Gameshark
+Activation = EndFrame
+80078DD0 0063
+
+[Guardian Forces\Brothers\Unlock It]
+Type = Gameshark
+Activation = EndFrame
+300774E9 0001
+
+[Guardian Forces\Brothers\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+80078D68 270F
+
+[Guardian Forces\Brothers\Max HP]
+Type = Gameshark
+Activation = EndFrame
+80078D6A 270F
+
+[Guardian Forces\Brothers\Max Exp]
+Type = Gameshark
+Activation = EndFrame
+90078D6C 05F5E0FF
+
+[Guardian Forces\Brothers\Level 99]
+Type = Gameshark
+Activation = EndFrame
+80078D70 0063
+
+[Guardian Forces\Cactuar\Unlock It]
+Type = Gameshark
+Activation = EndFrame
+3007774D 0001
+
+[Guardian Forces\Cactuar\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+80078DD4 270F
+
+[Guardian Forces\Cactuar\Max HP]
+Type = Gameshark
+Activation = EndFrame
+80078DD6 270F
+
+[Guardian Forces\Cactuar\Max Exp]
+Type = Gameshark
+Activation = EndFrame
+90078DD8 05F5E0FF
+
+[Guardian Forces\Cactuar\Level 99]
+Type = Gameshark
+Activation = EndFrame
+80078DDC 0063
+
+[Guardian Forces\Carbuncle\Unlock It]
+Type = Gameshark
+Activation = EndFrame
+30077571 0001
+
+[Guardian Forces\Carbuncle\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+80078D80 270F
+
+[Guardian Forces\Carbuncle\Max HP]
+Type = Gameshark
+Activation = EndFrame
+80078D82 270F
+
+[Guardian Forces\Carbuncle\Max Exp]
+Type = Gameshark
+Activation = EndFrame
+90078D84 05F5E0FF
+
+[Guardian Forces\Carbuncle\Level 99]
+Type = Gameshark
+Activation = EndFrame
+80078D88 0063
+
+[Guardian Forces\Cerberus\Unlock It]
+Type = Gameshark
+Activation = EndFrame
+3007763D 0001
+
+[Guardian Forces\Cerberus\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+80078DA4 270F
+
+[Guardian Forces\Cerberus\Max HP]
+Type = Gameshark
+Activation = EndFrame
+80078DA6 270F
+
+[Guardian Forces\Cerberus\Max Exp]
+Type = Gameshark
+Activation = EndFrame
+90078DA8 05F5E0FF
+
+[Guardian Forces\Cerberus\Level 99]
+Type = Gameshark
+Activation = EndFrame
+80078DAC 0063
+
+[Guardian Forces\Diablos\Unlock It]
+Type = Gameshark
+Activation = EndFrame
+3007752D 0001
+
+[Guardian Forces\Diablos\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+80078D74 270F
+
+[Guardian Forces\Diablos\Max HP]
+Type = Gameshark
+Activation = EndFrame
+80078D76 270F
+
+[Guardian Forces\Diablos\Max Exp]
+Type = Gameshark
+Activation = EndFrame
+90078D78 05F5E0FF
+
+[Guardian Forces\Diablos\Level 99]
+Type = Gameshark
+Activation = EndFrame
+80078D7C 0063
+
+[Guardian Forces\Doomtrain\Unlock It]
+Type = Gameshark
+Activation = EndFrame
+300776C5 0001
+
+[Guardian Forces\Doomtrain\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+80078DBC 270F
+
+[Guardian Forces\Doomtrain\Max HP]
+Type = Gameshark
+Activation = EndFrame
+80078DBE 270F
+
+[Guardian Forces\Doomtrain\Max Exp]
+Type = Gameshark
+Activation = EndFrame
+90078DC0 05F5E0FF
+
+[Guardian Forces\Doomtrain\Level 99]
+Type = Gameshark
+Activation = EndFrame
+80078DC4 0063
+
+[Guardian Forces\Eden\Unlock It]
+Type = Gameshark
+Activation = EndFrame
+300777D5 0001
+
+[Guardian Forces\Eden\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+80078DEC 270F
+
+[Guardian Forces\Eden\Max HP]
+Type = Gameshark
+Activation = EndFrame
+80078DEE 270F
+
+[Guardian Forces\Eden\Max Exp]
+Type = Gameshark
+Activation = EndFrame
+90078DF0 05F5E0FF
+
+[Guardian Forces\Eden\Level 99]
+Type = Gameshark
+Activation = EndFrame
+80078DF4 0063
+
+[Guardian Forces\Ifrit\Unlock It]
+Type = Gameshark
+Activation = EndFrame
+30077461 0001
+
+[Guardian Forces\Ifrit\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+80078D50 270F
+
+[Guardian Forces\Ifrit\Max HP]
+Type = Gameshark
+Activation = EndFrame
+80078D52 270F
+
+[Guardian Forces\Ifrit\Mgx Exp]
+Type = Gameshark
+Activation = EndFrame
+90078D54 05F5E0FF
+
+[Guardian Forces\Ifrit\Level 99]
+Type = Gameshark
+Activation = EndFrame
+80078D58 0063
+
+[Guardian Forces\Leviathan\Unlock It]
+Type = Gameshark
+Activation = EndFrame
+300775B5 0001
+
+[Guardian Forces\Leviathan\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+80078D8C 270F
+
+[Guardian Forces\Leviathan\Max HP]
+Type = Gameshark
+Activation = EndFrame
+80078D8E 270F
+
+[Guardian Forces\Leviathan\Max Exp]
+Type = Gameshark
+Activation = EndFrame
+90078D90 05F5E0FF
+
+[Guardian Forces\Leviathan\Level 99]
+Type = Gameshark
+Activation = EndFrame
+80078D94 0063
+
+[Guardian Forces\Pandemona\Unlock It]
+Type = Gameshark
+Activation = EndFrame
+300775F9 0001
+
+[Guardian Forces\Pandemona\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+80078D98 270F
+
+[Guardian Forces\Pandemona\Max HP]
+Type = Gameshark
+Activation = EndFrame
+80078D9A 270F
+
+[Guardian Forces\Pandemona\Max Exp]
+Type = Gameshark
+Activation = EndFrame
+90078D9C 05F5E0FF
+
+[Guardian Forces\Pandemona\Level 99]
+Type = Gameshark
+Activation = EndFrame
+80078DA0 0063
+
+[Guardian Forces\Quezacotl\Unlock It]
+Type = Gameshark
+Activation = EndFrame
+300773D9 0001
+
+[Guardian Forces\Quezacotl\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+80078D38 270F
+
+[Guardian Forces\Quezacotl\Max HP]
+Type = Gameshark
+Activation = EndFrame
+80078D3A 270F
+
+[Guardian Forces\Quezacotl\Max Exp]
+Type = Gameshark
+Activation = EndFrame
+90078D3C 05F5E0FF
+
+[Guardian Forces\Quezacotl\Level 99]
+Type = Gameshark
+Activation = EndFrame
+80078D40 0063
+
+[Guardian Forces\Shiva\Unlock It]
+Type = Gameshark
+Activation = EndFrame
+3007741D 0001
+
+[Guardian Forces\Shiva\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+80078D44 270F
+
+[Guardian Forces\Shiva\Max HP]
+Type = Gameshark
+Activation = EndFrame
+80078D46 270F
+
+[Guardian Forces\Shiva\Max Exp]
+Type = Gameshark
+Activation = EndFrame
+90078D48 05F5E0FF
+
+[Guardian Forces\Shiva\Level 99]
+Type = Gameshark
+Activation = EndFrame
+80078D4C 0063
+
+[Guardian Forces\Siren\Unlock It]
+Type = Gameshark
+Activation = EndFrame
+300774A5 0001
+
+[Guardian Forces\Siren\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+80078D5C 270F
+
+[Guardian Forces\Siren\Max HP]
+Type = Gameshark
+Activation = EndFrame
+80078D5E 270F
+
+[Guardian Forces\Siren\Max Exp]
+Type = Gameshark
+Activation = EndFrame
+90078D60 05F5E0FF
+
+[Guardian Forces\Siren\Level 99]
+Type = Gameshark
+Activation = EndFrame
+80078D64 0063
+
+[Guardian Forces\Tonberry\Unlock It]
+Type = Gameshark
+Activation = EndFrame
+30077791 0001
+
+[Guardian Forces\Tonberry\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+80078DE0 270F
+
+[Guardian Forces\Tonberry\Max HP]
+Type = Gameshark
+Activation = EndFrame
+80078DE2 270F
+
+[Guardian Forces\Tonberry\Max Exp]
+Type = Gameshark
+Activation = EndFrame
+90078DE4 05F5E0FF
+
+[Guardian Forces\Tonberry\Level 99]
+Type = Gameshark
+Activation = EndFrame
+80078DE8 0063
+
+[All Level 1-7 Cards]
+Type = Gameshark
+Activation = EndFrame
+300786A0 FFFF
+300786A1 FFFF
+300786A2 FFFF
+300786A3 FFFF
+300786A4 FFFF
+30078658 FFFF
+30078659 FFFF
+3007865A FFFF
+3007865B FFFF
+3007865C FFFF
+3007865D FFFF
+3007865E FFFF
+3007865F FFFF
+30078660 FFFF
+30078661 FFFF
+30078662 FFFF
+30078663 FFFF
+30078664 FFFF
+30078665 FFFF
+30078666 FFFF
+30078667 FFFF
+30078668 FFFF
+30078669 FFFF
+3007866A FFFF
+3007866B FFFF
+3007866C FFFF
+3007866D FFFF
+3007866E FFFF
+3007866F FFFF
+30078670 FFFF
+30078671 FFFF
+30078672 FFFF
+30078673 FFFF
+30078674 FFFF
+30078675 FFFF
+30078676 FFFF
+30078677 FFFF
+30078678 FFFF
+30078679 FFFF
+3007867A FFFF
+3007867B FFFF
+3007867C FFFF
+3007867D FFFF
+3007867E FFFF
+3007867F FFFF
+30078680 FFFF
+30078681 FFFF
+30078682 FFFF
+30078683 FFFF
+30078684 FFFF
+30078685 FFFF
+30078686 FFFF
+30078687 FFFF
+30078688 FFFF
+30078689 FFFF
+3007868A FFFF
+3007868B FFFF
+3007868C FFFF
+3007868D FFFF
+3007868E FFFF
+3007868F FFFF
+30078690 FFFF
+30078691 FFFF
+30078692 FFFF
+30078693 FFFF
+30078694 FFFF
+30078695 FFFF
+30078696 FFFF
+30078697 FFFF
+30078698 FFFF
+30078699 FFFF
+3007869A FFFF
+3007869B FFFF
+3007869C FFFF
+3007869D FFFF
+3007869E FFFF
+3007869F FFFF
+
+[All Level 8-10 Cards]
+Type = Gameshark
+Activation = EndFrame
+800786C6 FFFF
+800786C8 FFFF
+300786CA 0001
+300786A5 00F0
+800786A6 F0F0
+900786A8 F0F0F0F0
+900786AC F0F0F0F0
+900786B0 F0F0F0F0
+900786B4 F0F0F0F0
+900786B8 F0F0F0F0
+900786BC F0F0F0F0
+900786C0 F0F0F0F0
+800786C4 F0F0
+
+[Easier escapes from battles]
+Type = Gameshark
+Activation = EndFrame
+D005F146 0003
+800AE9E6 2400
+
+[Summon OP Odin  "Press/hold R3 in/before-battle"]
+Type = Gameshark
+Activation = EndFrame
+C005F146 00000003
+D7000000 00000400
+900ADFBC 34050007
+300ED470 00000001
+300ED540 00000001
+300ED610 00000001
+300ED6E0 00000001
+
+[Receive 100 items after-battle]
+Type = Gameshark
+Activation = EndFrame
+D005F146 0003
+800AF03C 0064
+D005F146 0003
+800AF03E 3402
+
+[Entire party can share GF's]
+Type = Gameshark
+Activation = EndFrame
+D01EA52A 1462
+801EA52A 2400
+
+[Everyone has all GF available in-battle]
+Type = Gameshark
+Activation = EndFrame
+80022F14 FFFF
+80022F16 3405
+
+[Carding an enemy gives 100 cards]
+Type = Gameshark
+Activation = EndFrame
+D005F146 0003
+80023940 00E3
+D005F146 0003
+80023942 3403
+
+[Infinite Item Usage In-Battle]
+Type = Gameshark
+Activation = EndFrame
+D005F146 0003
+800DA17E 2400
+
+[Draw 100 magic (Battle)]
+Type = Gameshark
+Activation = EndFrame
+D00A34E8 BCD6
+800A3506 1000
+
+[Draw 100 magic (Field)]
+Type = Gameshark
+Activation = EndFrame
+D00B603C 846D
+800B605A 1000
+
+[Draw 100 magic (World)]
+Type = Gameshark
+Activation = EndFrame
+D00B9EF8 BF81
+800B9EF4 0064
+
+[Overworld fast travel "Hold R3 to bring up map and use left analog to travel"]
+Type = Gameshark
+Activation = EndFrame
+A709B992 240010C0
+A70B0272 10001040
+A709966E 24001462
+A709E0BA 24001040
+A704D606 240010A0
+A702BFDE 10001040
+A70AF132 10001462
+D7200000 00000400
+A709B992 10C02400
+A70B0272 10401000
+A709966E 14622400
+A709E0BA 10402400
+A704D606 10A02400
+A702BFDE 10401000
+A70AF132 14621000
+D009966E 00002400
+800C4D28 00000000
+00000000 0000FFFF
+D7000000 00200400
+D009966E 00002400
+600C9868 00000190
+00000000 0000FFFF
+D7000000 00800400
+D009966E 00002400
+610C9868 00000190
+00000000 0000FFFF
+D7000000 00400400
+D009966E 00002400
+600C986C 00000190
+00000000 0000FFFF
+D7000000 00100400
+D009966E 00002400
+610C986C 00000190
+
+[Walk Anywhere On The World Map + No Enc "Hold Square"]
+Type = Gameshark
+Activation = EndFrame
+E0082DEE 0080
+800A44E4 0000
+E0082DEE 0000
+800A44E4 0002
+E0082DEE 0080
+80078DF8 001B
+E0082DEE 0000
+80078DF8 0000
+D005F146 0003
+800A44E4 0018
+
+[Infinite Card Usage]
+Type = Gameshark
+Activation = EndFrame
+A709F2EA 18402400
+
+[Peek at teams cards before starting "Hold select"]
+Type = Gameshark
+Activation = EndFrame
+A709AF56 24000440
+A70A444A 24000C00
+D7200000 00000100
+A709AF56 04402400
+A70A444A 0C002400
+
+[Force card spin animation on]
+Type = Gameshark
+Activation = EndFrame
+A709FFE2 10401000
+
+[Force card spin animation off]
+Type = Gameshark
+Activation = EndFrame
+A709FFE2 10402400
+
+[Skip FMVs]
+Type = Gameshark
+Activation = EndFrame
+A70B15A2 14602400
+
+[Select Widescreen (In Battle)\16-9]
+Type = Gameshark
+Activation = EndFrame
+C005F146 00000003
+A70577A0 10000C00
+A7142386 10000C00
+A714540A 10000C00
+
+[Select Widescreen (In Battle)\20-9]
+Type = Gameshark
+Activation = EndFrame
+C005F146 00000003
+A70577A0 10000900
+A7142386 10000900
+A714540A 10000900
+
+[Select Widescreen (In Battle)\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+C005F146 00000003
+A70577A0 10000500
+A7142386 10000500
+A714540A 10000500
+

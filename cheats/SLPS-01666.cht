@@ -1,0 +1,17 @@
+; CHTDB: ; [ Zeus: Carnage Heart Second (Japan) {SLPS-01666} ]
+
+[Have 20000 VP]
+Type = Gameshark
+Activation = EndFrame
+800B443E 4E20
+
+[Infinite HP main unit]
+Type = Gameshark
+Activation = EndFrame
+8012E054 0348
+
+[Infinite Fuel main unit]
+Type = Gameshark
+Activation = EndFrame
+8012E095 0070
+

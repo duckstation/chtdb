@@ -1,0 +1,44 @@
+; CHTDB: ; [ Hot Shots Golf (USA) (1998) (Sony Computer Entertainment America) {SCUS-94188} <hotshots> ]
+
+[Quick Level Up]
+Type = Gameshark
+Activation = EndFrame
+80101F44 FFFF
+
+[P1 Infinite Power Hits]
+Type = Gameshark
+Activation = EndFrame
+30101D97 000C
+
+[P2 Infinite Power Hits]
+Type = Gameshark
+Activation = EndFrame
+30101D98 000C
+
+[P3 Infinite Power Hits]
+Type = Gameshark
+Activation = EndFrame
+30101D99 000C
+
+[P4 Infinite Power Hits]
+Type = Gameshark
+Activation = EndFrame
+30101D9A 000C
+
+[Press L2 To Play As The Hidden Characters]
+Type = Gameshark
+Activation = EndFrame
+D0103864 0001
+90101DB4 09090909
+
+[Have All Characters]
+Type = Gameshark
+Activation = EndFrame
+50000502 0000
+80101EF0 0101
+
+[Have All Curses]
+Type = Gameshark
+Activation = EndFrame
+80101F48 0005
+

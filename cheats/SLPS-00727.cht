@@ -1,0 +1,48 @@
+; CHTDB: ; [ Final Doom (Jpn) (1997) (Soft Bank) {SLPS-00727} <findoomj> ]
+
+[Infinite Armour]
+Type = Gameshark
+Activation = EndFrame
+300AB3AC 0064
+
+[Max Physical fitness]
+Type = Gameshark
+Activation = EndFrame
+800AB3A8 0064
+800AB3B4 0001
+801E5E08 0064
+
+[Stage selection (PAUSE game, L1) Invincibility (R1)]
+Type = Gameshark
+Activation = EndFrame
+D00990CA FBFF
+800AB444 0020
+D00990CA F7FF
+800AB444 0002
+
+[All weapons possession]
+Type = Gameshark
+Activation = EndFrame
+A60AB3FC 00000001
+A60AB400 00000001
+A60AB404 00000001
+A60AB408 00000001
+A60AB40C 00000001
+A60AB410 00000001
+A60AB414 00000001
+A60AB41C 00000001
+A60AB420 00000002
+A60AB424 00000028
+A60AB428 00000001
+
+[Infinite Ammo (HBP)]
+Type = Gameshark
+Activation = EndFrame
+A6020F90 FFFF0000
+A6020FF4 FFD80000
+A6021064 FFFF0000
+A60212BC FFFF0000
+A6021450 FFFF0000
+A6021608 FFFE0000
+A6021848 FFFF0000
+

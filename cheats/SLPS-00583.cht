@@ -1,0 +1,13 @@
+; CHTDB: ; [ Mighty Hits (Japan) {SLPS-00583} ]
+
+[Infinite Life]
+Type = Gameshark
+Activation = EndFrame
+800A8510 000C
+
+[Time 98 when youe press select]
+Type = Gameshark
+Activation = EndFrame
+D008D976 FFFE
+300D01CD 0016
+

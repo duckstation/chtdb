@@ -1,0 +1,28 @@
+; CHTDB: ; [ Populous: The Beginning (Europe) {SLES-01760} ]
+
+[All Spells]
+Type = Gameshark
+Activation = EndFrame
+301DC2E3 0004
+901DC2E4 03040403
+301DC2E8 0002
+801DC2EA 0302
+901DC2EC 03010174
+901DC2F0 04040401
+301DC2F4 0044
+
+[All Levels Selectable]
+Type = Gameshark
+Activation = EndFrame
+800D850C 0019
+
+[Max Spell Charge Rate]
+Type = Gameshark
+Activation = EndFrame
+801DC2CC 0000
+
+[Have All Build Options]
+Type = Gameshark
+Activation = EndFrame
+801DC2D0 FFFF
+

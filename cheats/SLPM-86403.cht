@@ -1,0 +1,7 @@
+; CHTDB: ; [ Bokujyou Keieiteki Board Game Umapoly (Jpn) (1999) (Konami) {SLPM-86403 (VX167-J1)} <umapoly> ]
+
+[P1 Infinite Money (999990)]
+Type = Gameshark
+Activation = EndFrame
+9015539C 0001869F
+

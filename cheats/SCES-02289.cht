@@ -1,0 +1,48 @@
+; CHTDB: ; [ Syphon Filter 2: ConspiraciÃ³n Mortal (Spain) {SCES-02289 | SCES-12289} ]
+
+[Nivel 1 Montañas de Colorado Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+801AC38E 0258
+801ABE6A 0258
+
+[Nivel 1 Montañas de Colorado Infinite Munición Pistola]
+Type = Gameshark
+Activation = EndFrame
+8012A556 000F
+
+[Nivel 1 Montañas de Colorado Infinite Minición M-16]
+Type = Gameshark
+Activation = EndFrame
+8012A55E 000F
+
+[Nivel 3 Colorado Interstate 70 Infinite Armor HO FUNCIONA]
+Type = Gameshark
+Activation = EndFrame
+801A8CA2 0258
+
+[Unlock All Levels Deactivate After send It]
+Type = Gameshark
+Activation = EndFrame
+8012AFC0 0014
+
+[Todos los Trucos Pausa el juego ve a opcione y en el menu de trucos activa los que quieras]
+Type = Gameshark
+Activation = EndFrame
+9011F4D0 FFFFFFFF
+
+[Mision Never Fails]
+Type = Gameshark
+Activation = EndFrame
+80025D6E 2A00
+
+[All weapons after one pick-up]
+Type = Gameshark
+Activation = EndFrame
+80063170 FFFF
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+8011F594 FFFF
+

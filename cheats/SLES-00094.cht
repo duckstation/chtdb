@@ -1,0 +1,29 @@
+; CHTDB: ; [ Firo & Klawd (Europe) {SLES-00094} ]
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800D928C 0050
+800D9324 0050
+
+[P2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800BE24C 0050
+800BE2E4 0050
+
+[P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800B6724 0009
+
+[P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800B6748 0009
+
+[Cheat (Password) Mode open in options]
+Type = Gameshark
+Activation = EndFrame
+300B273C 0004
+

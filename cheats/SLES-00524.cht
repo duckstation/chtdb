@@ -1,0 +1,1287 @@
+; CHTDB: ; [ Castlevania: Symphony of the Night (Europe) {SLES-00524} ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+90097C00 000F423F
+
+[Level Up Booster]
+Type = Gameshark
+Activation = EndFrame
+90097BFC 000F423F
+
+[Max Attack]
+Type = Gameshark
+Activation = EndFrame
+800F4C06 1400
+
+[Max Guard]
+Type = Gameshark
+Activation = EndFrame
+800F505E 1400
+
+[Max Strength]
+Type = Gameshark
+Activation = EndFrame
+80097BC8 03E7
+
+[Max Condition]
+Type = Gameshark
+Activation = EndFrame
+80097BCC 03E7
+
+[Max Intelligence]
+Type = Gameshark
+Activation = EndFrame
+80097BD0 03E7
+
+[Max Luck]
+Type = Gameshark
+Activation = EndFrame
+80097BD4 03E7
+
+[All Relics]
+Type = Gameshark
+Activation = EndFrame
+50000E02 0000
+80097974 0303
+
+[Infinite HP For Richter]
+Type = Gameshark
+Activation = EndFrame
+80087BB0 003C
+80136C14 003C
+
+[Quick Level Gain]
+Type = Gameshark
+Activation = EndFrame
+80097BEC FFFF
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+80097BA0 03E7
+
+[Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+80097BB0 03E7
+
+[Infinite Hearts]
+Type = Gameshark
+Activation = EndFrame
+80097BA8 0063
+
+[999 Attack]
+Type = Gameshark
+Activation = EndFrame
+800F4BF6 1400
+
+[All Familiars At Level 99]
+Type = Gameshark
+Activation = EndFrame
+80097C54 0063
+80097C60 0063
+80097C6C 0063
+80097C78 0063
+80097C84 0063
+
+[Sudden Death Dracula i (.Press L1+L2)]
+Type = Gameshark
+Activation = EndFrame
+E0072EF0 0005
+80076EDE 0000
+
+[Sudden Death Dracula II (.Press R1+R2)]
+Type = Gameshark
+Activation = EndFrame
+E0072EF0 000A
+8007728A 0000
+
+[Amount Of Visited Rooms]
+Type = Gameshark
+Activation = EndFrame
+3003C768 00FF
+
+[Amount Of Killed Enemies]
+Type = Gameshark
+Activation = EndFrame
+30097C04 0FFF
+
+[Have Superjump]
+Type = Gameshark
+Activation = EndFrame
+30097458 0090
+
+[Playing Time 00.00.00]
+Type = Gameshark
+Activation = EndFrame
+80097C48 0000
+
+[All Have Exp 99]
+Type = Gameshark
+Activation = EndFrame
+5000050C 0000
+30097C58 0063
+
+[Japanese Demon-Level 99]
+Type = Gameshark
+Activation = EndFrame
+30097C9C 0063
+
+[Japanese Demon-Exp 99]
+Type = Gameshark
+Activation = EndFrame
+30097CA0 0063
+
+[Menu At Maximum]
+Type = Gameshark
+Activation = EndFrame
+800F505E 03E7
+800F4C06 03E7
+50000404 0000
+80097BC8 03E7
+
+[X-Code i]
+Type = Gameshark
+Activation = EndFrame
+50000504 0000
+30097BB0 00FF
+
+[X-Code II]
+Type = Gameshark
+Activation = EndFrame
+50000204 0000
+80097BFC 2710
+
+[Have All Spells]
+Type = Gameshark
+Activation = EndFrame
+50000402 0202
+80097992 8081
+
+[Inventory\Have Knight Shield]
+Type = Gameshark
+Activation = EndFrame
+300979A0 00FF
+
+[Inventory\Have Iron Shield]
+Type = Gameshark
+Activation = EndFrame
+300979A1 00FF
+
+[Inventory\Have Axelord]
+Type = Gameshark
+Activation = EndFrame
+300979A2 00FF
+
+[Inventory\Have Herald Shield]
+Type = Gameshark
+Activation = EndFrame
+300979A3 00FF
+
+[Inventory\Have Dark Shield]
+Type = Gameshark
+Activation = EndFrame
+300979A4 00FF
+
+[Inventory\Have Goddess Shield]
+Type = Gameshark
+Activation = EndFrame
+300979A5 00FF
+
+[Inventory\Have Shaman Shield]
+Type = Gameshark
+Activation = EndFrame
+300979A6 00FF
+
+[Inventory\Have Medusa Shield]
+Type = Gameshark
+Activation = EndFrame
+300979A7 00FF
+
+[Inventory\Have Skull Shield]
+Type = Gameshark
+Activation = EndFrame
+300979A8 00FF
+
+[Inventory\Have Fire Shield]
+Type = Gameshark
+Activation = EndFrame
+300979A9 00FF
+
+[Inventory\Have Alucard Shield]
+Type = Gameshark
+Activation = EndFrame
+30097A41 00FF
+
+[Inventory\Have Sword Of Dawn]
+Type = Gameshark
+Activation = EndFrame
+300979AB 00FF
+
+[Inventory\Have Basilard]
+Type = Gameshark
+Activation = EndFrame
+300979AC 00FF
+
+[Inventory\Have Short Sword]
+Type = Gameshark
+Activation = EndFrame
+300979AD 00FF
+
+[Inventory\Have Combat Knife]
+Type = Gameshark
+Activation = EndFrame
+300979AE 00FF
+
+[Inventory\Have Nunchaku]
+Type = Gameshark
+Activation = EndFrame
+300979AF 00FF
+
+[Inventory\Have Were Bane]
+Type = Gameshark
+Activation = EndFrame
+300979B0 00FF
+
+[Inventory\Have Rapier]
+Type = Gameshark
+Activation = EndFrame
+300979B1 00FF
+
+[Inventory\Have Karma Coin]
+Type = Gameshark
+Activation = EndFrame
+300979B2 00FF
+
+[Inventory\Have Magic Missile]
+Type = Gameshark
+Activation = EndFrame
+300979B3 00FF
+
+[Inventory\Have Red Dust]
+Type = Gameshark
+Activation = EndFrame
+300979B4 00FF
+
+[Inventory\Have Takemitsu]
+Type = Gameshark
+Activation = EndFrame
+300979B5 00FF
+
+[Inventory\Have Shotel]
+Type = Gameshark
+Activation = EndFrame
+300979B6 00FF
+
+[Inventory\Have Orange]
+Type = Gameshark
+Activation = EndFrame
+300979B7 00FF
+
+[Inventory\Have Apple]
+Type = Gameshark
+Activation = EndFrame
+300979B8 00FF
+
+[Inventory\Have Banana]
+Type = Gameshark
+Activation = EndFrame
+300979B9 00FF
+
+[Inventory\Have Grapes]
+Type = Gameshark
+Activation = EndFrame
+300979BA 00FF
+
+[Inventory\Have Strawberry]
+Type = Gameshark
+Activation = EndFrame
+300979BB 00FF
+
+[Inventory\Have Pineapple]
+Type = Gameshark
+Activation = EndFrame
+300979BC 00FF
+
+[Inventory\Have Peanuts]
+Type = Gameshark
+Activation = EndFrame
+300979BD 00FF
+
+[Inventory\Have Toadstool]
+Type = Gameshark
+Activation = EndFrame
+300979BE 00FF
+
+[Inventory\Have Shiltake]
+Type = Gameshark
+Activation = EndFrame
+300979BF 00FF
+
+[Inventory\Have Cheese Cake]
+Type = Gameshark
+Activation = EndFrame
+300979C0 00FF
+
+[Inventory\Have Short Cake]
+Type = Gameshark
+Activation = EndFrame
+300979C1 00FF
+
+[Inventory\Have Tart]
+Type = Gameshark
+Activation = EndFrame
+300979C2 00FF
+
+[Inventory\Have Parfait]
+Type = Gameshark
+Activation = EndFrame
+300979C3 00FF
+
+[Inventory\Have Pudding]
+Type = Gameshark
+Activation = EndFrame
+300979C4 00FF
+
+[Inventory\Have Ice Ceam]
+Type = Gameshark
+Activation = EndFrame
+300979C5 00FF
+
+[Inventory\Have Frankfurter]
+Type = Gameshark
+Activation = EndFrame
+300979C6 00FF
+
+[Inventory\Have Hamburger]
+Type = Gameshark
+Activation = EndFrame
+300979C7 00FF
+
+[Inventory\Have Pizza]
+Type = Gameshark
+Activation = EndFrame
+300979C8 00FF
+
+[Inventory\Have Cheese]
+Type = Gameshark
+Activation = EndFrame
+300979C9 00FF
+
+[Inventory\Have Ham And Eggs]
+Type = Gameshark
+Activation = EndFrame
+300979CA 00FF
+
+[Inventory\Have Omelette]
+Type = Gameshark
+Activation = EndFrame
+300979CB 00FF
+
+[Inventory\Have Morning Set]
+Type = Gameshark
+Activation = EndFrame
+300979CC 00FF
+
+[Inventory\Have Lunch A]
+Type = Gameshark
+Activation = EndFrame
+300979CD 00FF
+
+[Inventory\Have Lunch B]
+Type = Gameshark
+Activation = EndFrame
+300979CE 00FF
+
+[Inventory\Have Curry Rice]
+Type = Gameshark
+Activation = EndFrame
+300979CF 00FF
+
+[Inventory\Have Gyros Plate]
+Type = Gameshark
+Activation = EndFrame
+300979D0 00FF
+
+[Inventory\Have Spaghetti]
+Type = Gameshark
+Activation = EndFrame
+300979D1 00FF
+
+[Inventory\Have Grape Juice]
+Type = Gameshark
+Activation = EndFrame
+300979D2 00FF
+
+[Inventory\Have Barley Tea]
+Type = Gameshark
+Activation = EndFrame
+300979D3 00FF
+
+[Inventory\Have Green Tea]
+Type = Gameshark
+Activation = EndFrame
+300979D4 00FF
+
+[Inventory\Have Natou]
+Type = Gameshark
+Activation = EndFrame
+300979D5 00FF
+
+[Inventory\Have Ramen]
+Type = Gameshark
+Activation = EndFrame
+300979D6 00FF
+
+[Inventory\Have Miso Soup]
+Type = Gameshark
+Activation = EndFrame
+300979D7 00FF
+
+[Inventory\Have Sushi]
+Type = Gameshark
+Activation = EndFrame
+300979D8 00FF
+
+[Inventory\Have Pork Bun]
+Type = Gameshark
+Activation = EndFrame
+300979D9 00FF
+
+[Inventory\Have Red Bean Bun]
+Type = Gameshark
+Activation = EndFrame
+300979DA 00FF
+
+[Inventory\Have Chinese Bun]
+Type = Gameshark
+Activation = EndFrame
+300979DB 00FF
+
+[Inventory\Have Dim Sum Set]
+Type = Gameshark
+Activation = EndFrame
+300979DC 00FF
+
+[Inventory\Have Pot Roast]
+Type = Gameshark
+Activation = EndFrame
+300979DD 00FF
+
+[Inventory\Have Sirloin]
+Type = Gameshark
+Activation = EndFrame
+300979DE 00FF
+
+[Inventory\Have Turkey]
+Type = Gameshark
+Activation = EndFrame
+300979DF 00FF
+
+[Inventory\Have Meal Ticket]
+Type = Gameshark
+Activation = EndFrame
+300979E0 00FF
+
+[Inventory\Have Neutron Bomb]
+Type = Gameshark
+Activation = EndFrame
+300979E1 00FF
+
+[Inventory\Have Power Of Sire]
+Type = Gameshark
+Activation = EndFrame
+300979E2 00FF
+
+[Inventory\Have Pentagram]
+Type = Gameshark
+Activation = EndFrame
+300979E3 00FF
+
+[Inventory\Have Bat Pentagram]
+Type = Gameshark
+Activation = EndFrame
+300979E4 00FF
+
+[Inventory\Have Shuriken]
+Type = Gameshark
+Activation = EndFrame
+300979E5 00FF
+
+[Inventory\Have Cross Shuriken]
+Type = Gameshark
+Activation = EndFrame
+300979E6 00FF
+
+[Inventory\Have Buffalo Star]
+Type = Gameshark
+Activation = EndFrame
+300979E7 00FF
+
+[Inventory\Have Flame Star]
+Type = Gameshark
+Activation = EndFrame
+300979E8 00FF
+
+[Inventory\Have Tnt]
+Type = Gameshark
+Activation = EndFrame
+300979E9 00FF
+
+[Inventory\Have Bwaka Knife]
+Type = Gameshark
+Activation = EndFrame
+300979EA 00FF
+
+[Inventory\Have Boomerang]
+Type = Gameshark
+Activation = EndFrame
+300979EB 00FF
+
+[Inventory\Have Javelin]
+Type = Gameshark
+Activation = EndFrame
+300979EC 00FF
+
+[Inventory\Have Tyrfing]
+Type = Gameshark
+Activation = EndFrame
+300979ED 00FF
+
+[Inventory\Have Namakura]
+Type = Gameshark
+Activation = EndFrame
+300979EE 00FF
+
+[Inventory\Have Knuckle Buster]
+Type = Gameshark
+Activation = EndFrame
+300979EF 00FF
+
+[Inventory\Have Gladius]
+Type = Gameshark
+Activation = EndFrame
+300979F0 00FF
+
+[Inventory\Have Scimitar]
+Type = Gameshark
+Activation = EndFrame
+300979F1 00FF
+
+[Inventory\Have Cutlass]
+Type = Gameshark
+Activation = EndFrame
+300979F2 00FF
+
+[Inventory\Have Saber]
+Type = Gameshark
+Activation = EndFrame
+300979F3 00FF
+
+[Inventory\Have Palomion]
+Type = Gameshark
+Activation = EndFrame
+300979F4 00FF
+
+[Inventory\Have Broadsword]
+Type = Gameshark
+Activation = EndFrame
+300979F5 00FF
+
+[Inventory\Have Bekatowa]
+Type = Gameshark
+Activation = EndFrame
+300979F6 00FF
+
+[Inventory\Have Damascus Sword]
+Type = Gameshark
+Activation = EndFrame
+300979F7 00FF
+
+[Inventory\Have Hunter Sword]
+Type = Gameshark
+Activation = EndFrame
+300979F8 00FF
+
+[Inventory\Have Estoc]
+Type = Gameshark
+Activation = EndFrame
+300979F9 00FF
+
+[Inventory\Have Bastard Sword]
+Type = Gameshark
+Activation = EndFrame
+300979FA 00FF
+
+[Inventory\Have Jewel Knuckles]
+Type = Gameshark
+Activation = EndFrame
+300979FB 00FF
+
+[Inventory\Have Claymore]
+Type = Gameshark
+Activation = EndFrame
+300979FC 00FF
+
+[Inventory\Have Talwar]
+Type = Gameshark
+Activation = EndFrame
+300979FD 00FF
+
+[Inventory\Have Katana]
+Type = Gameshark
+Activation = EndFrame
+300979FE 00FF
+
+[Inventory\Have Flamberge]
+Type = Gameshark
+Activation = EndFrame
+300979FF 00FF
+
+[Inventory\Have Iron Fistke]
+Type = Gameshark
+Activation = EndFrame
+30097A00 00FF
+
+[Inventory\Have Zweihander]
+Type = Gameshark
+Activation = EndFrame
+30097A01 00FF
+
+[Inventory\Have Sword Of Hador]
+Type = Gameshark
+Activation = EndFrame
+30097A02 00FF
+
+[Inventory\Have Luminus]
+Type = Gameshark
+Activation = EndFrame
+30097A03 00FF
+
+[Inventory\Have Harper]
+Type = Gameshark
+Activation = EndFrame
+30097A04 00FF
+
+[Inventory\Have Obsidian Sword]
+Type = Gameshark
+Activation = EndFrame
+30097A05 00FF
+
+[Inventory\Have Gram]
+Type = Gameshark
+Activation = EndFrame
+30097A06 00FF
+
+[Inventory\Have Jewel Sword]
+Type = Gameshark
+Activation = EndFrame
+30097A07 00FF
+
+[Inventory\Have Mormegil]
+Type = Gameshark
+Activation = EndFrame
+30097A08 00FF
+
+[Inventory\Have Firebrand]
+Type = Gameshark
+Activation = EndFrame
+30097A09 00FF
+
+[Inventory\Have Thunderbrand]
+Type = Gameshark
+Activation = EndFrame
+30097A0A 00FF
+
+[Inventory\Have Kebrand]
+Type = Gameshark
+Activation = EndFrame
+30097A0B 00FF
+
+[Inventory\Have Stone Sword]
+Type = Gameshark
+Activation = EndFrame
+30097A0C 00FF
+
+[Inventory\Have Holy Sword]
+Type = Gameshark
+Activation = EndFrame
+30097A0D 00FF
+
+[Inventory\Have Terminus Est]
+Type = Gameshark
+Activation = EndFrame
+30097A0E 00FF
+
+[Inventory\Have Marsil]
+Type = Gameshark
+Activation = EndFrame
+30097A0F 00FF
+
+[Inventory\Have Dark Blade]
+Type = Gameshark
+Activation = EndFrame
+30097A10 00FF
+
+[Inventory\Have Heaven Sword]
+Type = Gameshark
+Activation = EndFrame
+30097A11 00FF
+
+[Inventory\Have Fist Of Tulkas]
+Type = Gameshark
+Activation = EndFrame
+30097A12 00FF
+
+[Inventory\Have Gurthang]
+Type = Gameshark
+Activation = EndFrame
+30097A13 00FF
+
+[Inventory\Have Mourne Blade]
+Type = Gameshark
+Activation = EndFrame
+30097A14 00FF
+
+[Inventory\Have Alucard Sword]
+Type = Gameshark
+Activation = EndFrame
+30097A42 00FF
+
+[Inventory\Have Mablune Sword]
+Type = Gameshark
+Activation = EndFrame
+30097A16 00FF
+
+[Inventory\Have Badelaire]
+Type = Gameshark
+Activation = EndFrame
+30097A17 00FF
+
+[Inventory\Have Sword Familiar]
+Type = Gameshark
+Activation = EndFrame
+30097A18 00FF
+
+[Inventory\Have Great Sword]
+Type = Gameshark
+Activation = EndFrame
+30097A19 00FF
+
+[Inventory\Have Mace]
+Type = Gameshark
+Activation = EndFrame
+30097A1A 00FF
+
+[Inventory\Have Morning Star]
+Type = Gameshark
+Activation = EndFrame
+30097A1B 00FF
+
+[Inventory\Have Holy Rod]
+Type = Gameshark
+Activation = EndFrame
+30097A1C 00FF
+
+[Inventory\Have Star Flail]
+Type = Gameshark
+Activation = EndFrame
+30097A1D 00FF
+
+[Inventory\Have Moon Rod]
+Type = Gameshark
+Activation = EndFrame
+30097A1E 00FF
+
+[Inventory\Have Chakram]
+Type = Gameshark
+Activation = EndFrame
+30097A1F 00FF
+
+[Inventory\Have Fire Boomerang]
+Type = Gameshark
+Activation = EndFrame
+30097A20 00FF
+
+[Inventory\Have Iron Ball]
+Type = Gameshark
+Activation = EndFrame
+30097A21 00FF
+
+[Inventory\Have Holbein Dagger]
+Type = Gameshark
+Activation = EndFrame
+30097A22 00FF
+
+[Inventory\Have Bl Infinite Knuckles]
+Type = Gameshark
+Activation = EndFrame
+30097A23 00FF
+
+[Inventory\Have Dynamite]
+Type = Gameshark
+Activation = EndFrame
+30097A24 00FF
+
+[Inventory\Have Osafune Katana]
+Type = Gameshark
+Activation = EndFrame
+30097A25 00FF
+
+[Inventory\Have Masamune]
+Type = Gameshark
+Activation = EndFrame
+30097A26 00FF
+
+[Inventory\Have Muramasa]
+Type = Gameshark
+Activation = EndFrame
+30097A27 00FF
+
+[Inventory\Have Heart Refresh]
+Type = Gameshark
+Activation = EndFrame
+30097A28 00FF
+
+[Inventory\Have Rune Sword]
+Type = Gameshark
+Activation = EndFrame
+30097A29 00FF
+
+[Inventory\Have Antivenom]
+Type = Gameshark
+Activation = EndFrame
+30097A2A 00FF
+
+[Inventory\Have Uncurse]
+Type = Gameshark
+Activation = EndFrame
+30097A2B 00FF
+
+[Inventory\Have Life Apple]
+Type = Gameshark
+Activation = EndFrame
+30097A2C 00FF
+
+[Inventory\Have Hammer]
+Type = Gameshark
+Activation = EndFrame
+30097A2D 00FF
+
+[Inventory\Have Strength.Potion]
+Type = Gameshark
+Activation = EndFrame
+30097A2E 00FF
+
+[Inventory\Have Luck Potion]
+Type = Gameshark
+Activation = EndFrame
+30097A2F 00FF
+
+[Inventory\Have Smart Potion]
+Type = Gameshark
+Activation = EndFrame
+30097A30 00FF
+
+[Inventory\Have Attack Potion]
+Type = Gameshark
+Activation = EndFrame
+30097A31 00FF
+
+[Inventory\Have Shield Potion]
+Type = Gameshark
+Activation = EndFrame
+30097A32 00FF
+
+[Inventory\Have Resist Fire]
+Type = Gameshark
+Activation = EndFrame
+30097A33 00FF
+
+[Inventory\Have Resist Thunder]
+Type = Gameshark
+Activation = EndFrame
+30097A34 00FF
+
+[Inventory\Have Resist Ice]
+Type = Gameshark
+Activation = EndFrame
+30097A35 00FF
+
+[Inventory\Have Resist Stone]
+Type = Gameshark
+Activation = EndFrame
+30097A36 00FF
+
+[Inventory\Have Resist Holy]
+Type = Gameshark
+Activation = EndFrame
+30097A37 00FF
+
+[Inventory\Have Resist Dark]
+Type = Gameshark
+Activation = EndFrame
+30097A38 00FF
+
+[Inventory\Have High Potion]
+Type = Gameshark
+Activation = EndFrame
+30097A3A 00FF
+
+[Inventory\Have Elixir]
+Type = Gameshark
+Activation = EndFrame
+30097A3B 00FF
+
+[Inventory\Have Manna Prism]
+Type = Gameshark
+Activation = EndFrame
+30097A3C 00FF
+
+[Inventory\Have Vorpal Blade]
+Type = Gameshark
+Activation = EndFrame
+30097A3D 00FF
+
+[Inventory\Have Crissaegrim]
+Type = Gameshark
+Activation = EndFrame
+30097A3E 00FF
+
+[Inventory\Have Yasutsuna]
+Type = Gameshark
+Activation = EndFrame
+30097A3F 00FF
+
+[Inventory\Have Library Card]
+Type = Gameshark
+Activation = EndFrame
+30097A40 00FF
+
+[Inventory\Have Cloth Cape]
+Type = Gameshark
+Activation = EndFrame
+30097A74 00FF
+
+[Inventory\Have Reverse Cloak]
+Type = Gameshark
+Activation = EndFrame
+30097A75 00FF
+
+[Inventory\Have Elven Cloak]
+Type = Gameshark
+Activation = EndFrame
+30097A76 00FF
+
+[Inventory\Have Crystal Cloak]
+Type = Gameshark
+Activation = EndFrame
+30097A77 00FF
+
+[Inventory\Have Royal Cloak]
+Type = Gameshark
+Activation = EndFrame
+30097A78 00FF
+
+[Inventory\Have Blood Cloak]
+Type = Gameshark
+Activation = EndFrame
+30097A79 00FF
+
+[Inventory\Have Joseph's Cloak]
+Type = Gameshark
+Activation = EndFrame
+30097A7A 00FF
+
+[Inventory\Have Twilight Cloak]
+Type = Gameshark
+Activation = EndFrame
+30097A7B 00FF
+
+[Inventory\Have Moonstone]
+Type = Gameshark
+Activation = EndFrame
+30097A7D 00FF
+
+[Inventory\Have Sunstone]
+Type = Gameshark
+Activation = EndFrame
+30097A7E 00FF
+
+[Inventory\Have Bloodstone]
+Type = Gameshark
+Activation = EndFrame
+30097A7F 00FF
+
+[Inventory\Have Staurolite]
+Type = Gameshark
+Activation = EndFrame
+30097A80 00FF
+
+[Inventory\Have Ring Of Pales]
+Type = Gameshark
+Activation = EndFrame
+30097A81 00FF
+
+[Inventory\Have Zircon]
+Type = Gameshark
+Activation = EndFrame
+30097A82 00FF
+
+[Inventory\Have Aquamarine]
+Type = Gameshark
+Activation = EndFrame
+30097A83 00FF
+
+[Inventory\Have Turquoise]
+Type = Gameshark
+Activation = EndFrame
+30097A84 00FF
+
+[Inventory\Have Onyx]
+Type = Gameshark
+Activation = EndFrame
+30097A85 00FF
+
+[Inventory\Have Garnet]
+Type = Gameshark
+Activation = EndFrame
+30097A86 00FF
+
+[Inventory\Have Opal]
+Type = Gameshark
+Activation = EndFrame
+30097A87 00FF
+
+[Inventory\Have Diamond]
+Type = Gameshark
+Activation = EndFrame
+30097A88 00FF
+
+[Inventory\Have Lapislazuli]
+Type = Gameshark
+Activation = EndFrame
+30097A89 00FF
+
+[Inventory\Have Ring Of Ares]
+Type = Gameshark
+Activation = EndFrame
+30097A8A 00FF
+
+[Inventory\Have Gold Ring]
+Type = Gameshark
+Activation = EndFrame
+30097A8B 00FF
+
+[Inventory\Have Silver Ring]
+Type = Gameshark
+Activation = EndFrame
+30097A8C 00FF
+
+[Inventory\Have Ring Of Varda]
+Type = Gameshark
+Activation = EndFrame
+30097A8D 00FF
+
+[Inventory\Have Ring Of Arcana]
+Type = Gameshark
+Activation = EndFrame
+30097A8E 00FF
+
+[Inventory\Have Mystic Pendant]
+Type = Gameshark
+Activation = EndFrame
+30097A8F 00FF
+
+[Inventory\Have Heart Broach]
+Type = Gameshark
+Activation = EndFrame
+30097A90 00FF
+
+[Inventory\Have Necklace Of J]
+Type = Gameshark
+Activation = EndFrame
+30097A91 00FF
+
+[Inventory\Have Gauntlet]
+Type = Gameshark
+Activation = EndFrame
+30097A92 00FF
+
+[Inventory\Have Ankh Of Life]
+Type = Gameshark
+Activation = EndFrame
+30097A93 00FF
+
+[Inventory\Have Ring Of Feanor]
+Type = Gameshark
+Activation = EndFrame
+30097A94 00FF
+
+[Inventory\Have Medal]
+Type = Gameshark
+Activation = EndFrame
+30097A95 00FF
+
+[Inventory\Have Talisman]
+Type = Gameshark
+Activation = EndFrame
+30097A96 00FF
+
+[Inventory\Have Duplicator]
+Type = Gameshark
+Activation = EndFrame
+30097A97 00FF
+
+[Inventory\Have King's Stone]
+Type = Gameshark
+Activation = EndFrame
+30097A98 00FF
+
+[Inventory\Have Convenant Stone]
+Type = Gameshark
+Activation = EndFrame
+30097A99 00FF
+
+[Inventory\Have Nauglamir]
+Type = Gameshark
+Activation = EndFrame
+30097A9A 00FF
+
+[Inventory\Have Secret Boots]
+Type = Gameshark
+Activation = EndFrame
+30097A9B 00FF
+
+[Inventory\Have Alucart Mail]
+Type = Gameshark
+Activation = EndFrame
+30097A9C 00FF
+
+[Inventory\Have Ballroom Mask]
+Type = Gameshark
+Activation = EndFrame
+30097A5F 00FF
+
+[Inventory\Have Bandana]
+Type = Gameshark
+Activation = EndFrame
+30097A60 00FF
+
+[Inventory\Have Felt Hat]
+Type = Gameshark
+Activation = EndFrame
+30097A61 00FF
+
+[Inventory\Have Velvet Hat]
+Type = Gameshark
+Activation = EndFrame
+30097A62 00FF
+
+[Inventory\Have Goggles]
+Type = Gameshark
+Activation = EndFrame
+30097A63 00FF
+
+[Inventory\Have Leather Hat]
+Type = Gameshark
+Activation = EndFrame
+30097A64 00FF
+
+[Inventory\Have Holy Glasses]
+Type = Gameshark
+Activation = EndFrame
+30097A65 00FF
+
+[Inventory\Have Steel Helmet]
+Type = Gameshark
+Activation = EndFrame
+30097A66 00FF
+
+[Inventory\Have Stone Mask]
+Type = Gameshark
+Activation = EndFrame
+30097A67 00FF
+
+[Inventory\Have Fire Mail]
+Type = Gameshark
+Activation = EndFrame
+30097A4D 00FF
+
+[Inventory\Have Lightning Mail]
+Type = Gameshark
+Activation = EndFrame
+30097A4E 00FF
+
+[Inventory\Have Ice Mail]
+Type = Gameshark
+Activation = EndFrame
+30097A4F 00FF
+
+[Inventory\Have Mirror Cuirass]
+Type = Gameshark
+Activation = EndFrame
+30097A50 00FF
+
+[Inventory\Have Spikebreaker]
+Type = Gameshark
+Activation = EndFrame
+30097A51 00FF
+
+[Inventory\Have Alucard Mail]
+Type = Gameshark
+Activation = EndFrame
+30097A52 00FF
+
+[Inventory\Have Dark Armor]
+Type = Gameshark
+Activation = EndFrame
+30097A53 00FF
+
+[Inventory\Have Healing Mail]
+Type = Gameshark
+Activation = EndFrame
+30097A54 00FF
+
+[Inventory\Have Holy Mail]
+Type = Gameshark
+Activation = EndFrame
+30097A55 00FF
+
+[Inventory\Have Walk Armor]
+Type = Gameshark
+Activation = EndFrame
+30097A56 00FF
+
+[Inventory\Have Brilliant Mail]
+Type = Gameshark
+Activation = EndFrame
+30097A57 00FF
+
+[Inventory\Have Moso Mail]
+Type = Gameshark
+Activation = EndFrame
+30097A58 00FF
+
+[Inventory\Have Fury Plate]
+Type = Gameshark
+Activation = EndFrame
+30097A59 00FF
+
+[Inventory\Have Dracula Tunic]
+Type = Gameshark
+Activation = EndFrame
+30097A5A 00FF
+
+[Inventory\Have God's Garb]
+Type = Gameshark
+Activation = EndFrame
+30097A5B 00FF
+
+[Inventory\Have Axelord Armor]
+Type = Gameshark
+Activation = EndFrame
+30097A5C 00FF
+

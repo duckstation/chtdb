@@ -1,0 +1,36 @@
+; CHTDB: ; [ Ao no Roku-gou - Antarctica (Jpn) (2000) (Bandai) {SLPS-02940~SLPS-02941} <antartca> ]
+
+[Infinite Energy Mayumi Kino (Grampus)]
+Type = Gameshark
+Activation = EndFrame
+80092FC8 012C
+
+[Infinite Energy Estelar Bloom (Orcea)]
+Type = Gameshark
+Activation = EndFrame
+80093084 015E
+
+[Deadly blow Switching + friend or foe common and regular deadly blow at 1 SEL + L2 / R2]
+Type = Gameshark
+Activation = EndFrame
+D00D1BC8 0101
+80015F66 A420
+D00D1BC8 0102
+80015F66 A423
+
+[Mission Clear To Clear suddenly at Select 2 times + L1]
+Type = Gameshark
+Activation = EndFrame
+C00D1BC8 0104
+8008A350 0001
+801B2F1C 0001
+801C13F4 0001
+00000000 FFFF
+
+[Mission Clear]
+Type = Gameshark
+Activation = EndFrame
+8008A350 0001
+801B2F1C 0001
+801C13F4 0001
+

@@ -1,0 +1,85 @@
+; CHTDB: ; [ FIFA 2000 (Europe) {SLES-02315} ]
+
+[Select Home Team Score\20 Goals]
+Type = Gameshark
+Activation = EndFrame
+80032514 0014
+
+[Select Home Team Score\0 Goals]
+Type = Gameshark
+Activation = EndFrame
+80032514 0000
+
+[Select Away Team Score\20 Goals]
+Type = Gameshark
+Activation = EndFrame
+80032518 0014
+
+[Select Away Team Score\0 Goals]
+Type = Gameshark
+Activation = EndFrame
+80032518 0000
+
+[Outfield Players cant tackle]
+Type = Gameshark
+Activation = EndFrame
+;Euro Rev1
+A70C1002 10401000
+A70C10BA 12511000
+A70C10DE 12951000
+;Euro
+A70C0EFE 10401000
+A70C0FB6 12511000
+A70C0FDA 12951000
+;USA
+A70C0EF6 10401000
+A70C0FAE 12511000
+A70C0FD2 12951000
+
+[Goalkeeper can't tackle or save ball]
+Type = Gameshark
+Activation = EndFrame
+;Euro Rev1
+A70F1C36 10401000
+;Euro
+A70F1B32 10401000
+;USA
+A70F1B2A 10401000
+
+[Team with ball have it easy (R3 on, L3 off)]
+Description = Combines Outfield Players cant tackle & Goalkeeper can't tackle or save ball cheats
+Type = Gameshark
+Activation = EndFrame
+D7010001 01000400
+;Euro Rev1
+A70C1002 10401000
+A70C10BA 12511000
+A70C10DE 12951000
+A70F1C36 10401000
+;Euro
+A70C0EFE 10401000
+A70C0FB6 12511000
+A70C0FDA 12951000
+A70F1B32 10401000
+;USA
+A70C0EF6 10401000
+A70C0FAE 12511000
+A70C0FD2 12951000
+A70F1B2A 10401000
+D7010001 01000200
+;Euro Rev1
+A70C1002 10001040
+A70C10BA 10001251
+A70C10DE 10001295
+A70F1C36 10001040
+;Euro
+A70C0EFE 10001040
+A70C0FB6 10001251
+A70C0FDA 10001295
+A70F1B32 10001040
+;USA
+A70C0EF6 10001040
+A70C0FAE 10001251
+A70C0FD2 10001295
+A70F1B2A 10001040
+

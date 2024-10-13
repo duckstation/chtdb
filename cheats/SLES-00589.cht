@@ -1,0 +1,37 @@
+; CHTDB: ; [ Crusader: No Remorse (Germany) {SLES-00589} ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8014612E 2880
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8014612C 0078
+
+[Infinite Spider Bombs]
+Type = Gameshark
+Activation = EndFrame
+801460CA 0063
+
+[Infinite Mines]
+Type = Gameshark
+Activation = EndFrame
+801460C6 0063
+
+[Infinite Medikit]
+Type = Gameshark
+Activation = EndFrame
+801460CE 0063
+
+[Infinite Det-Pak]
+Type = Gameshark
+Activation = EndFrame
+801460BE 0063
+
+[Infinite Batteries]
+Type = Gameshark
+Activation = EndFrame
+801460D2 0063
+

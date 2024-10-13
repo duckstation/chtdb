@@ -1,0 +1,27 @@
+; CHTDB: ; [ Hokuto no Ken (Jpn) (1996) (Banpresto) {SLPS-00369} <hokuto> ]
+
+[P1 Infinite Energy (If the game freezes deactivate code and send it after being hit)]
+Type = Gameshark
+Activation = EndFrame
+8008C73C 0064
+
+[Life enemy 0]
+Type = Gameshark
+Activation = EndFrame
+8008C7B0 0000
+
+[Trick enemy OFF]
+Type = Gameshark
+Activation = EndFrame
+9008C7E0 FFFFFFFF
+9008C7E4 FFFFFFFF
+8008C7E8 FFFF
+
+[P1 Life / yell PRESS (Select)]
+Type = Gameshark
+Activation = EndFrame
+C0073FF8 0100
+8008C73C 0060
+8008C744 0060
+00000000 FFFF
+

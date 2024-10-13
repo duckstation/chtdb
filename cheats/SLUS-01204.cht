@@ -1,0 +1,78 @@
+; CHTDB: ; [ Warriors of Might and Magic (USA) (2000) (The 3DO Company) {SLUS-01204} <womm> ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801AD3CC 0200
+
+[Infinite Magic]
+Type = Gameshark
+Activation = EndFrame
+801B5138 0200
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+A701C32A 14401000
+A70652F2 10401000
+
+[Hit Anywhere (Partial)]
+Type = Gameshark
+Activation = EndFrame
+A7065F1E 14601400
+
+[Select Level\EXODUS You need to have at least 1 save game on your memory card with any of these and then choose load game]
+Type = Gameshark
+Activation = EndFrame
+800DC6A8 0005
+
+[Select Level\CANYON]
+Type = Gameshark
+Activation = EndFrame
+800DC6A8 000A
+
+[Select Level\STRONGHOLD]
+Type = Gameshark
+Activation = EndFrame
+800DC6A8 000F
+
+[Select Level\ENROTHS]
+Type = Gameshark
+Activation = EndFrame
+800DC6A8 0014
+
+[Select Level\BURIED CITY]
+Type = Gameshark
+Activation = EndFrame
+800DC6A8 0019
+
+[Select Level\FORGOTTEN WAY]
+Type = Gameshark
+Activation = EndFrame
+800DC6A8 001E
+
+[Select Level\WESTERN DISTRICT]
+Type = Gameshark
+Activation = EndFrame
+800DC6A8 0023
+
+[Select Level\EASTERN DISTRICT]
+Type = Gameshark
+Activation = EndFrame
+800DC6A8 0028
+
+[Select Level\THE MONASTERY]
+Type = Gameshark
+Activation = EndFrame
+800DC6A8 002D
+
+[Select Level\DAGLATHOR]
+Type = Gameshark
+Activation = EndFrame
+800DC6A8 0032
+
+[Select Level\LAST FIGHT WITH THE BOSS]
+Type = Gameshark
+Activation = EndFrame
+800DC6A8 0036
+

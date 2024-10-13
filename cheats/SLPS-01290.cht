@@ -1,0 +1,58 @@
+; CHTDB: ; [ Clock Tower - Ghost Head (Jpn) (1998) (Human) {SLPS-01290} <clocktgh> ]
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800730F8 0003
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+8001CAAE 1000
+
+[Have All Hints]
+Type = Gameshark
+Activation = EndFrame
+8007172A 00FF
+
+[Have All Endings + Extra Mode]
+Type = Gameshark
+Activation = EndFrame
+80071728 FFFF
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80073128 0FB8
+80073134 0000
+
+[Infinite Ammo All Weapons]
+Type = Gameshark
+Activation = EndFrame
+80073034 0009
+
+[Select Character\Alyssa]
+Type = Gameshark
+Activation = EndFrame
+80070A20 0000
+
+[Select Character\Bates]
+Type = Gameshark
+Activation = EndFrame
+80070A20 0020
+
+[Sound test mode can be used immediately]
+Type = Gameshark
+Activation = EndFrame
+30071770 00FE
+
+[Prop machine gun]
+Type = Gameshark
+Activation = EndFrame
+800731FC 0004
+
+[I want to limit the GATE EXTRA mode Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800DA50A 0700
+

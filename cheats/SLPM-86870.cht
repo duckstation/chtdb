@@ -1,0 +1,34 @@
+; CHTDB: ; [ Simple 1500 Series vol.71 - The Ren'ai Simulation 2 (Jpn) (2001) (D3 Publisher) {SLPM-86870} <ss071rn2> ]
+
+[Friendship point Max]
+Type = Gameshark
+Activation = EndFrame
+8007F182 00FF
+
+[Bonus fully open]
+Type = Gameshark
+Activation = EndFrame
+9007F178 FFFFFFFF
+
+[Image fully open]
+Type = Gameshark
+Activation = EndFrame
+A703CC4E 10801400
+A703C3C6 10601400
+
+[Music fully open]
+Type = Gameshark
+Activation = EndFrame
+A703E20E 10401400
+
+[Sentences Skip accessible]
+Type = Gameshark
+Activation = EndFrame
+A701C89E 10401400
+
+[Automatic random selection]
+Type = Gameshark
+Activation = EndFrame
+A702955E 10401400
+A702960E 10401400
+

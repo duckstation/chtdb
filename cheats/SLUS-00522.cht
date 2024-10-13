@@ -1,0 +1,32 @@
+; CHTDB: ; [ Auto Destruct (USA) (1997) (Electronic Arts) {SLUS-00522} <autodest> ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+800A7C6C FFFF
+
+[Infinite Fuel]
+Type = Gameshark
+Activation = EndFrame
+800A7E10 0064
+
+[Infinite Damage]
+Type = Gameshark
+Activation = EndFrame
+800A86A0 0800
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800A84A0 0004
+
+[Infinite Nitro]
+Type = Gameshark
+Activation = EndFrame
+800A5EF8 0003
+
+[Level Modifier (0-A)]
+Type = Gameshark
+Activation = EndFrame
+800A854C 000A
+

@@ -1,0 +1,27 @@
+; CHTDB: ; [ NBA ShootOut 98 (USA) (1998) (Sony Computer Entertainment America) {SCUS-94171} <nbaso98> ]
+
+[Infinite Player Creation Points]
+Type = Gameshark
+Activation = EndFrame
+8001057C 02D0
+
+[Select Away Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+800C63F8 0000
+
+[Select Away Team Score\99]
+Type = Gameshark
+Activation = EndFrame
+800C63F8 0063
+
+[Select Home Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+800C63F4 0000
+
+[Select Home Team Score\99]
+Type = Gameshark
+Activation = EndFrame
+800C63F4 0063
+

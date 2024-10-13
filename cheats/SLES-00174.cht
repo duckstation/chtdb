@@ -1,0 +1,24 @@
+; CHTDB: ; [ Buggy (Europe) {SLES-00174} ]
+
+[Open All Tracks And Modes]
+Type = Gameshark
+Activation = EndFrame
+8002DE27 0001
+
+[Activate End Sequence]
+Type = Gameshark
+Activation = EndFrame
+8002DE2B 0001
+
+[Always 1st Place]
+Type = Gameshark
+Activation = EndFrame
+8007C986 0000
+80079EA2 0000
+8007EA26 0000
+
+[Add All Camera Views (Press T)]
+Type = Gameshark
+Activation = EndFrame
+8002DE2F 0001
+

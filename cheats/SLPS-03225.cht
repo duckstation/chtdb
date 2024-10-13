@@ -1,0 +1,22 @@
+; CHTDB: ; [ Super Price Series: Mahjong (Japan) {SLPS-03225} ]
+
+[Player has 99999 points]
+Type = Gameshark
+Activation = EndFrame
+900598C0 0001869F
+
+[Opponent 1 has 0 points]
+Type = Gameshark
+Activation = EndFrame
+80059D70 0000
+
+[Opponent 2 has 0 points]
+Type = Gameshark
+Activation = EndFrame
+80059BE0 0000
+
+[Opponent 3 has 0 points]
+Type = Gameshark
+Activation = EndFrame
+80059A50 0000
+

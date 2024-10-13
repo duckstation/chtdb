@@ -1,0 +1,22 @@
+; CHTDB: ; [ The Great Battle VI (Jpn) (1997) (Banpresto) {SLPS-00719} <gbattle6> ]
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800E256C 000A
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800E2654 638A
+
+[Infinite Life]
+Type = Gameshark
+Activation = EndFrame
+800E26C0 000A
+
+[Infinite Power]
+Type = Gameshark
+Activation = EndFrame
+800E26E8 0009
+

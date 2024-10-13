@@ -1,0 +1,43 @@
+; CHTDB: ; [ Victory Boxing 2 (Europe) {SLES-01393} ]
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8005232E 1912
+
+[P1 Infinite Power]
+Type = Gameshark
+Activation = EndFrame
+8005232C 1914
+
+[P1 Can't Loose With Knock Outs]
+Type = Gameshark
+Activation = EndFrame
+80052330 0000
+
+[P2 Infinite Power]
+Type = Gameshark
+Activation = EndFrame
+800527DC 1914
+
+[P2 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800527DE 1912
+
+[P2 Can't Loose With Knock Outs]
+Type = Gameshark
+Activation = EndFrame
+800527D0 0000
+
+[P1 Refresh Time Press R1+L1]
+Type = Gameshark
+Activation = EndFrame
+D0052E3A 000C
+80077B7E 00BB
+
+[Don't Recover Power]
+Type = Gameshark
+Activation = EndFrame
+80066CBE 3C00
+

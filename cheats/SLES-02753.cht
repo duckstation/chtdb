@@ -1,0 +1,35 @@
+; CHTDB: ; [ K-1 Grand Prix (Europe) {SLES-02753} ]
+
+[P1 Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+50000302 0000
+800E5E28 0C80
+
+[P1 Down gauge at zero]
+Type = Gameshark
+Activation = EndFrame
+D10E5E38 0000
+800E5E38 0000
+
+[P2 Sudden Death]
+Type = Gameshark
+Activation = EndFrame
+50000302 0000
+800E6104 0000
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A70C69F0 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A70C69F0 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A70C69F0 10000400
+

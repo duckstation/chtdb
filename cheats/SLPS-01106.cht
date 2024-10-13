@@ -1,0 +1,12 @@
+; CHTDB: ; [ Guntu: Western Front June, 1944: Tetsu no Kioku (Japan) {SLPS-01106} ]
+
+[Infinite Energy / Time]
+Type = Gameshark
+Activation = EndFrame
+8009E34C 0999
+
+[Infinite Bombs]
+Type = Gameshark
+Activation = EndFrame
+8009E300 0009
+

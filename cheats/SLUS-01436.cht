@@ -1,0 +1,249 @@
+; CHTDB: ; [ Digimon World 3 (USA) (2002) (Bandai America) {SLUS-01436GH} <digiwld3> ]
+
+[Max/Infinite Bit]
+Type = Gameshark
+Activation = EndFrame
+90048554 05F5E0FF
+
+[Kotemon Max Health]
+Type = Gameshark
+Activation = EndFrame
+90048C70 270F270F
+
+[Kotemon Max MP]
+Type = Gameshark
+Activation = EndFrame
+90048C74 270F270F
+
+[Kotemon Max Level]
+Type = Gameshark
+Activation = EndFrame
+80048C6C 0063
+
+[Kotemon Max Exp]
+Type = Gameshark
+Activation = EndFrame
+90048C68 05F5E0FF
+
+[Kotemon Max Stats]
+Type = Gameshark
+Activation = EndFrame
+90048C78 03E703E7
+90048C7C 03E703E7
+90048C80 03E703E7
+90048C84 03E703E7
+90048C88 03E703E7
+90048C8C 03E703E7
+80048C90 03E7
+
+[Kumamaon Max Health]
+Type = Gameshark
+Activation = EndFrame
+9004904C 270F270F
+
+[Kumamaon Max MP]
+Type = Gameshark
+Activation = EndFrame
+90049050 270F270F
+
+[Kumamaon Max Level]
+Type = Gameshark
+Activation = EndFrame
+80049048 0063
+
+[Kumamaon Max Exp]
+Type = Gameshark
+Activation = EndFrame
+90049044 05F5E0FF
+
+[Kumamaon Max Stats]
+Type = Gameshark
+Activation = EndFrame
+90049054 03E703E7
+90049058 03E703E7
+9004905C 03E703E7
+90049060 03E703E7
+90049064 03E703E7
+90049068 03E703E7
+8004906C 03E7
+
+[Monmon Max Health]
+Type = Gameshark
+Activation = EndFrame
+90049428 270F270F
+
+[Monmon Max MP]
+Type = Gameshark
+Activation = EndFrame
+9004942C 270F270F
+
+[Monmon Max Level]
+Type = Gameshark
+Activation = EndFrame
+80049424 0063
+
+[Monmon Max Exp]
+Type = Gameshark
+Activation = EndFrame
+90049420 05F5E0FF
+
+[Monmon Max Stats]
+Type = Gameshark
+Activation = EndFrame
+90049430 03E703E7
+90049434 03E703E7
+90049438 03E703E7
+9004943C 03E703E7
+90049440 03E703E7
+90049444 03E703E7
+80049448 03E7
+
+[Agumon Max Health]
+Type = Gameshark
+Activation = EndFrame
+90049804 270F270F
+
+[Agumon Max MP]
+Type = Gameshark
+Activation = EndFrame
+90049808 270F270F
+
+[Agumon Max Level]
+Type = Gameshark
+Activation = EndFrame
+80049800 0063
+
+[Agumon Max Exp]
+Type = Gameshark
+Activation = EndFrame
+900497FC 05F5E0FF
+
+[Agumon Max Stats]
+Type = Gameshark
+Activation = EndFrame
+8004980C 03E7
+90049810 03E703E7
+90049814 03E703E7
+90049818 03E703E7
+9004981C 03E703E7
+90049820 03E703E7
+80049824 03E7
+
+[Guilmon Max Health]
+Type = Gameshark
+Activation = EndFrame
+90049FBC 270F270F
+
+[Guilmon Max MP]
+Type = Gameshark
+Activation = EndFrame
+90049FC0 270F270F
+
+[Guilmon Max Level]
+Type = Gameshark
+Activation = EndFrame
+80049FB8 0063
+
+[Guilmon Max Exp]
+Type = Gameshark
+Activation = EndFrame
+90049FB4 05F5E0FF
+
+[Guilmon Max Stats]
+Type = Gameshark
+Activation = EndFrame
+90049FC4 03E703E7
+90049FC8 03E703E7
+90049FCC 03E703E7
+90049FD0 03E703E7
+90049FD4 03E703E7
+90049FD8 03E703E7
+80049FDC 03E7
+
+[Renamon Max Health]
+Type = Gameshark
+Activation = EndFrame
+9004A398 270F270F
+
+[Renamon Max MP]
+Type = Gameshark
+Activation = EndFrame
+9004A39C 270F270F
+
+[Renamon Max Level]
+Type = Gameshark
+Activation = EndFrame
+8004A394 0063
+
+[Renamon Max Exp]
+Type = Gameshark
+Activation = EndFrame
+9004A390 05F5E0FF
+
+[Renamon Max Stats]
+Type = Gameshark
+Activation = EndFrame
+9004A3A0 03E703E7
+9004A3A4 03E703E7
+9004A3A8 03E703E7
+9004A3AC 03E703E7
+9004A3B0 03E703E7
+9004A3B4 03E703E7
+8004A3B8 03E7
+
+[Patamon Max Health]
+Type = Gameshark
+Activation = EndFrame
+9004A774 270F270F
+
+[Patamon Max MP]
+Type = Gameshark
+Activation = EndFrame
+9004A778 270F270F
+
+[Patamon Max Level]
+Type = Gameshark
+Activation = EndFrame
+8004A770 0063
+
+[Patamon Max Exp]
+Type = Gameshark
+Activation = EndFrame
+9004A76C 05F5E0FF
+
+[Patamon Max Stats]
+Type = Gameshark
+Activation = EndFrame
+9004A77C 03E703E7
+9004A780 03E703E7
+9004A784 03E703E7
+9004A788 03E703E7
+9004A78C 03E703E7
+9004A790 03E703E7
+8004A794 03E7
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A7080B10 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A7080B10 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A7080B10 10000400
+
+[Select Reverb\Disable Reverb]
+Type = Gameshark
+Activation = EndFrame
+A70367EE 10401000
+
+[Select Reverb\Maximize Reverb]
+Type = Gameshark
+Activation = EndFrame
+A70367EE 10402400
+

@@ -1,0 +1,42 @@
+; CHTDB: ; [ Ray Tracers (USA) (1997) (THQ) {SLUS-00534} <raytracr> ]
+
+[Infinite Time Chase Mode]
+Type = Gameshark
+Activation = EndFrame
+80058E88 06D6
+
+[Infinite Nitro Chase Mode]
+Type = Gameshark
+Activation = EndFrame
+80058A40 03B6
+
+[Unlock All Secret Players]
+Type = Gameshark
+Activation = EndFrame
+8005F7CC 007F
+
+[Time Attack Lap 2 Time 00'00'00]
+Type = Gameshark
+Activation = EndFrame
+8005EC54 0000
+
+[Time Attack Lap 3 Time 00'00'00]
+Type = Gameshark
+Activation = EndFrame
+8005EC58 0000
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A705F600 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A705F600 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A705F600 10000400
+

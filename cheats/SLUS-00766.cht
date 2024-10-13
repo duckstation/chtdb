@@ -1,0 +1,34 @@
+; CHTDB: ; [ K-1 Revenge (USA) (1999) (Jaleco USA) {SLUS-00766} <k1rev> ]
+
+[P1 Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800BB2C8 03FF
+800BB2D0 03FF
+
+[Extra Characters]
+Type = Gameshark
+Activation = EndFrame
+800BB2B4 000F
+
+[P2 No Health]
+Type = Gameshark
+Activation = EndFrame
+800BB2CC 0000
+800BB2D4 0000
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A7109F90 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A7109F90 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A7109F90 10000400
+

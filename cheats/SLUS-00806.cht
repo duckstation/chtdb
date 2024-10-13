@@ -1,0 +1,246 @@
+; CHTDB: ; [ Gex 3 - Deep Cover Gecko (USA) (1999) (Eidos Interactive) {SLUS-00806} <gex3> ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80072E7E 2400
+
+[Infinite Air]
+Type = Gameshark
+Activation = EndFrame
+8007ADB6 2400
+
+[99 Lives]
+Type = Gameshark
+Activation = EndFrame
+800A8E10 0063
+
+[Infinite Powerup Time]
+Type = Gameshark
+Activation = EndFrame
+8008137E 2400
+
+[Total 99 Flies]
+Type = Gameshark
+Activation = EndFrame
+800A8E18 0063
+
+[Total 99 Green Palms]
+Type = Gameshark
+Activation = EndFrame
+800A8E1C 0063
+
+[Total 99 Gold Coins]
+Type = Gameshark
+Activation = EndFrame
+800A8E20 0063
+
+[Total 99 Remotes]
+Type = Gameshark
+Activation = EndFrame
+800A8E24 0063
+
+[Have All Special Remotes]
+Type = Gameshark
+Activation = EndFrame
+900AA5EC FFFFFFFF
+
+[Have All Remotes\Totally Scrooged]
+Type = Gameshark
+Activation = EndFrame
+300A8DF0 000F
+
+[Have All Remotes\Clueless In Seattle]
+Type = Gameshark
+Activation = EndFrame
+300A8DF1 000F
+
+[Have All Remotes\Holy Moses!]
+Type = Gameshark
+Activation = EndFrame
+300A8DF2 000F
+
+[Have All Remotes\War Is Heck]
+Type = Gameshark
+Activation = EndFrame
+300A8DF3 000F
+
+[Have All Remotes\The Organ Trail]
+Type = Gameshark
+Activation = EndFrame
+300A8DF4 000F
+
+[Have All Remotes\Cut Cheese Island]
+Type = Gameshark
+Activation = EndFrame
+300A8DF5 000F
+
+[Have All Remotes\Unsolved Mythstories]
+Type = Gameshark
+Activation = EndFrame
+300A8DF6 000F
+
+[Have All Remotes\Red Riding In The Hood]
+Type = Gameshark
+Activation = EndFrame
+300A8DF7 000F
+
+[Have All Remotes\When Sushi Goes Bad]
+Type = Gameshark
+Activation = EndFrame
+300A8DF8 000F
+
+[Have All Remotes\My Three Goons]
+Type = Gameshark
+Activation = EndFrame
+300A8DF9 000F
+
+[Have All Remotes\Superzeroes]
+Type = Gameshark
+Activation = EndFrame
+300A8DFA 000F
+
+[Have All Remotes\Mission Control]
+Type = Gameshark
+Activation = EndFrame
+300A8E07 000A
+
+[Have All Remotes\Lake Flaccid]
+Type = Gameshark
+Activation = EndFrame
+300A8E08 0002
+
+[Have All Remotes\Slappy Valley]
+Type = Gameshark
+Activation = EndFrame
+300A8E09 0002
+
+[Have All Remotes\Funky Town]
+Type = Gameshark
+Activation = EndFrame
+300A8E0A 0002
+
+[Have All Gold Coins\Totally Scrooged]
+Type = Gameshark
+Activation = EndFrame
+800A8E6C 000E
+
+[Have All Gold Coins\Clueless In Seattle]
+Type = Gameshark
+Activation = EndFrame
+800A8E6E 000E
+
+[Have All Gold Coins\Holy Moses!]
+Type = Gameshark
+Activation = EndFrame
+800A8E70 000E
+
+[Have All Gold Coins\War Is Heck]
+Type = Gameshark
+Activation = EndFrame
+800A8E72 000E
+
+[Have All Gold Coins\The Organ Trail]
+Type = Gameshark
+Activation = EndFrame
+800A8E74 000E
+
+[Have All Gold Coins\Cut Cheese Island]
+Type = Gameshark
+Activation = EndFrame
+800A8E76 000E
+
+[Have All Gold Coins\Unsolved Mythstories]
+Type = Gameshark
+Activation = EndFrame
+800A8E78 000E
+
+[Have All Gold Coins\Red Riding In The Hood]
+Type = Gameshark
+Activation = EndFrame
+800A8E7A 000E
+
+[Have All Gold Coins\When Sushi Goes Bad]
+Type = Gameshark
+Activation = EndFrame
+800A8E7C 000E
+
+[Have All Gold Coins\My Three Goons]
+Type = Gameshark
+Activation = EndFrame
+800A8E7E 000E
+
+[Have All Gold Coins\Superzeroes]
+Type = Gameshark
+Activation = EndFrame
+800A8E80 000E
+
+[Have All Gold Coins\Mission Control]
+Type = Gameshark
+Activation = EndFrame
+800A8E9A 000E
+
+[Have All Gold Coins\Lake Flaccid]
+Type = Gameshark
+Activation = EndFrame
+800A8E9C 000E
+
+[Have All Gold Coins\Slappy Valley]
+Type = Gameshark
+Activation = EndFrame
+800A8E9E 000E
+
+[Have All Gold Coins\Funky Town]
+Type = Gameshark
+Activation = EndFrame
+800A8EA0 000E
+
+[Clueless In Seattle\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800A8E14 0004
+
+[Clueless In Seattle\Infinite Air]
+Type = Gameshark
+Activation = EndFrame
+800B212E 03E7
+
+[Clueless In Seattle\Infinite Bonus Time]
+Type = Gameshark
+Activation = EndFrame
+801A417A 2400
+
+[Gextreme Sports\Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+801207AC 0078
+
+[Dial 'A' For Arson\Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80129ED4 1532
+
+[Dial 'A' For Arson\Have 50 Flies]
+Type = Gameshark
+Activation = EndFrame
+800A8E18 0032
+
+[Marsupial Madness\Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80125804 0078
+
+[Brave Heartless\Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+801605BC 1064
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+800311CC 0C00
+800311DC 0034
+800311DE AFA0
+800311E0 1000
+800311E2 2403
+

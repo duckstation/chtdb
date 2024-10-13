@@ -1,0 +1,104 @@
+; CHTDB: ; [ Poy Poy (USA) (1997) (Konami of America) {SLUS-00486} <poypoy> ]
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+900DCB68 00C800C8
+
+[P1 Lots Of Points]
+Type = Gameshark
+Activation = EndFrame
+800DCCF0 0099
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800DB0D8 088E
+
+[P2 Lots Of Points]
+Type = Gameshark
+Activation = EndFrame
+800DCCF2 0099
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+800DCCFC 045F
+
+[P1 Infinite Glove Power]
+Type = Gameshark
+Activation = EndFrame
+900DCB70 4CEA4CEA
+
+[Win Lots Of Money (Battle Mode)]
+Type = Gameshark
+Activation = EndFrame
+800DCCF0 0110
+
+[P1 Have All Gloves]
+Type = Gameshark
+Activation = EndFrame
+900DCD04 FFFFFFFF
+900DCD08 FFFFFFFF
+800DCD0C 001F
+
+[Select Stage\Practice]
+Type = Gameshark
+Activation = EndFrame
+800DB0E0 0000
+
+[Select Stage\Flatland]
+Type = Gameshark
+Activation = EndFrame
+800DB0E0 0001
+
+[Select Stage\Moi Island]
+Type = Gameshark
+Activation = EndFrame
+800DB0E0 0002
+
+[Select Stage\Park]
+Type = Gameshark
+Activation = EndFrame
+800DB0E0 0003
+
+[Select Stage\Robots]
+Type = Gameshark
+Activation = EndFrame
+800DB0E0 0004
+
+[Select Stage\Desert]
+Type = Gameshark
+Activation = EndFrame
+800DB0E0 0005
+
+[Select Stage\Iceberg]
+Type = Gameshark
+Activation = EndFrame
+800DB0E0 0006
+
+[Select Stage\Stage Infinity]
+Type = Gameshark
+Activation = EndFrame
+800DB0E0 0007
+
+[Select Stage\Technical Bonus]
+Type = Gameshark
+Activation = EndFrame
+800DB0E0 0008
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A710D54C 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A710D54C 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A710D54C 10000400
+

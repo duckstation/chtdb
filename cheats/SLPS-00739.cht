@@ -1,0 +1,29 @@
+; CHTDB: ; [ Saber Marionette J: Battle Sabers (Japan) {SLPS-00739} ]
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800A38E8 0074
+800A3DA0 0074
+
+[P2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800A38EC 0074
+800A3DA4 0074
+
+[P1 Full Power Bar]
+Type = Gameshark
+Activation = EndFrame
+800A30A8 0040
+
+[P2 Full Power Bar]
+Type = Gameshark
+Activation = EndFrame
+800A30AC 0040
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800A3F98 0DEA
+

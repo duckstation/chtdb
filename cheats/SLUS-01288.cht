@@ -1,0 +1,7 @@
+; CHTDB: ; [ Bowling (USA) (2000) (Agetec / A1 Games) {SLUS-01288} <bowling> ]
+
+[Infinite Balls Quest Mode]
+Type = Gameshark
+Activation = EndFrame
+801A2B28 0063
+

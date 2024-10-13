@@ -1,0 +1,48 @@
+; CHTDB: ; [ Madden NFL 2000 (Europe) {SLES-02192} ]
+
+[Heimmannschaft Hat 9]
+Type = Gameshark
+Activation = EndFrame
+3007203A 0009
+
+[Heimmannschaft Hat 0]
+Type = Gameshark
+Activation = EndFrame
+3007203A 0000
+
+[Gastmannschaft Hat 9]
+Type = Gameshark
+Activation = EndFrame
+30074E3A 0009
+
+[Gastmannschaft Hat 0]
+Type = Gameshark
+Activation = EndFrame
+30074E3A 0000
+
+[Heimmannschaft Hat Unendlich Auszeiten]
+Type = Gameshark
+Activation = EndFrame
+3007203C 0003
+
+[Heimmannschaft Hat Keine Auszeiten]
+Type = Gameshark
+Activation = EndFrame
+3007203C 0000
+
+[Gastmannschaft Hat Unendlich Auszeiten]
+Type = Gameshark
+Activation = EndFrame
+30074E3C 0003
+
+[Gastmannschaft Hat Keine Auszeiten]
+Type = Gameshark
+Activation = EndFrame
+30074E3C 0000
+
+[Timer ZurüCksetzen Select drücken]
+Type = Gameshark
+Activation = EndFrame
+D006DFA6 0001
+30077782 0018
+

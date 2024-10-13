@@ -1,0 +1,37 @@
+; CHTDB: ; [ Capcom Generation: Dai-3-shuu Koko ni Rekishi Hajimaru (Japan) {SLPS-01649} ]
+
+[Vulgus\P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800A9BA0 0005
+
+[Vulgus\P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800A9B80 0005
+
+[Vulgus\Infinite Missiles]
+Type = Gameshark
+Activation = EndFrame
+800A9B86 1505
+
+[Higemaru\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800A4708 0005
+
+[Son Son\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80113F08 0606
+
+[Exed Eyes\Invincibility]
+Type = Gameshark
+Activation = EndFrame
+8010F010 AD00
+
+[Exed Eyes\Infinite Bombs]
+Type = Gameshark
+Activation = EndFrame
+8010E040 0006
+

@@ -1,0 +1,25 @@
+; CHTDB: ; [ F1 Racing Championship (Europe) {SLES-02501} ]
+
+[Championship-Drive Off Road]
+Type = Gameshark
+Activation = EndFrame
+300C8A8C 0000
+300C8B04 0000
+300C8B7C 0000
+300C8BF4 0000
+
+[Max Race Pts. Championship]
+Type = Gameshark
+Activation = EndFrame
+800ADB8C 270F
+
+[Quick Win]
+Type = Gameshark
+Activation = EndFrame
+800C8994 000F
+
+[Start in Lap 4]
+Type = Gameshark
+Activation = EndFrame
+800C8994 0404
+

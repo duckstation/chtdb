@@ -1,0 +1,76 @@
+; CHTDB: ; [ RC Revenge (USA) (2000) (Acclaim Entertainment) {SLUS-01168} <rcrevnge> ]
+
+[Unlock All Normal Tracks]
+Type = Gameshark
+Activation = EndFrame
+50000F01 0000
+300BDD70 0001
+
+[Unlock Bronze Reverse Cup]
+Type = Gameshark
+Activation = EndFrame
+A61A0074 00600000
+
+[Unlock Gold Cup]
+Type = Gameshark
+Activation = EndFrame
+A61A0130 00600000
+
+[Unlock Gold Reverse Cup]
+Type = Gameshark
+Activation = EndFrame
+A619FF74 00600000
+
+[Unlock Platinum Cup]
+Type = Gameshark
+Activation = EndFrame
+A61A00D8 00600000
+
+[Unlock Platinum Reverse Cup]
+Type = Gameshark
+Activation = EndFrame
+A619FEF8 00600000
+
+[Unlock Silver Cup]
+Type = Gameshark
+Activation = EndFrame
+A61A0190 00600000
+
+[Unlock Silver Reverse Cup]
+Type = Gameshark
+Activation = EndFrame
+A619FFF4 00600000
+
+[Select Starting Lap P1 (Single Player Mode-Affects Place As Well)\1]
+Type = Gameshark
+Activation = EndFrame
+D0016A68 0008
+90016A6C 0C001D80
+90007600 14450002
+90007604 2402FFFF
+90007608 24020000
+9000760C 03E00008
+80007612 2400
+
+[Select Starting Lap P1 (Single Player Mode-Affects Place As Well)\2]
+Type = Gameshark
+Activation = EndFrame
+D0016A68 0008
+90016A6C 0C001D80
+90007600 14450002
+90007604 2402FFFF
+90007608 24020001
+9000760C 03E00008
+80007612 2400
+
+[Select Starting Lap P1 (Single Player Mode-Affects Place As Well)\3]
+Type = Gameshark
+Activation = EndFrame
+D0016A68 0008
+90016A6C 0C001D80
+90007600 14450002
+90007604 2402FFFF
+90007608 24020002
+9000760C 03E00008
+80007612 2400
+

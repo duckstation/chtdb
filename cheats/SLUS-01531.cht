@@ -1,0 +1,17 @@
+; CHTDB: ; [ Motocross Mania 2 (USA) (2003) (Take-Two Interactive Software) {SLUS-01531} <mxmania2> ]
+
+[Infinite Restarts]
+Type = Gameshark
+Activation = EndFrame
+80050662 0003
+
+[Dont come off bike on Jumps]
+Type = Gameshark
+Activation = EndFrame
+80025A0E 1000
+
+[Dont come off bike on Barriers]
+Type = Gameshark
+Activation = EndFrame
+80028246 1000
+

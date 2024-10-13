@@ -1,0 +1,101 @@
+; CHTDB: ; [ Mary-Kate and Ashley - Crush Course (USA) (2001) (Acclaim Entertainment) {SLUS-01386} <mnacrush> ]
+
+[Always Win Carnival Games]
+Type = Gameshark
+Activation = EndFrame
+3017CAFC 00FF
+3017CCFE 00FF
+3017CB08 00FF
+
+[Hit Select For Instant Win (Mb)]
+Type = Gameshark
+Activation = EndFrame
+D009A8FA FFFE
+800C1B78 0000
+
+[Infinite Exposures (Journalism)]
+Type = Gameshark
+Activation = EndFrame
+300C179C 000C
+
+[Infinite Time (Journalism + Marine Biology)]
+Type = Gameshark
+Activation = EndFrame
+30091F01 00D0
+
+[Max Stars (Beach Tryouts)]
+Type = Gameshark
+Activation = EndFrame
+30151AD6 0080
+
+[Max Stars (Field Tryout)]
+Type = Gameshark
+Activation = EndFrame
+301972C2 0080
+
+[Always 1 Strokeall Holes]
+Type = Gameshark
+Activation = EndFrame
+50000602 0000
+8009357C 0101
+
+[Atom Smasher]
+Type = Gameshark
+Activation = EndFrame
+3009357F 0001
+
+[Fun Factory]
+Type = Gameshark
+Activation = EndFrame
+30093581 0001
+
+[Get Connected!]
+Type = Gameshark
+Activation = EndFrame
+3009357D 0001
+
+[Great Pyramids]
+Type = Gameshark
+Activation = EndFrame
+30093582 0001
+
+[Great Wall]
+Type = Gameshark
+Activation = EndFrame
+30093584 0001
+
+[Mayan Temple]
+Type = Gameshark
+Activation = EndFrame
+30093585 0001
+
+[Pinball]
+Type = Gameshark
+Activation = EndFrame
+3009357E 0001
+
+[Refrigerator]
+Type = Gameshark
+Activation = EndFrame
+30093580 0001
+
+[Stone Henge]
+Type = Gameshark
+Activation = EndFrame
+30093583 0001
+
+[The Capitol]
+Type = Gameshark
+Activation = EndFrame
+30093587 0001
+
+[The New World]
+Type = Gameshark
+Activation = EndFrame
+30093586 0001
+
+[Time Lapse]
+Type = Gameshark
+Activation = EndFrame
+3009357C 0001
+

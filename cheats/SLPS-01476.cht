@@ -1,0 +1,12 @@
+; CHTDB: ; [ Ski Air Mix (Japan) {SLPS-01476} ]
+
+[No Checkpoint Time Limit]
+Type = Gameshark
+Activation = EndFrame
+8007BF80 0063
+
+[Slow Motion]
+Type = Gameshark
+Activation = EndFrame
+80074E6C 6CD7
+

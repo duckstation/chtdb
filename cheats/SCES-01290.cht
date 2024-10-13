@@ -1,0 +1,7 @@
+; CHTDB: ; [ Zero Divide 2: The Secret Wish (Spain) {SCES-01290} ]
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8006F1B6 00C8
+

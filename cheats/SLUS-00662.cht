@@ -1,0 +1,228 @@
+; CHTDB: ; [ Parasite Eve (USA) (1998) (Square Electronic Arts) {SLUS-00662 / SLUS-00668} <paraseve> ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800B8A2C 03E7
+800B8A3C 03E7
+
+[Infinite Parasite Energy]
+Type = Gameshark
+Activation = EndFrame
+800B8A2A 270F
+800B8A4E 270F
+
+[Walk Faster (Hold R2)]
+Type = Gameshark
+Activation = EndFrame
+A7073BDA 10001040
+D7200000 00000002
+A7073BDA 10401000
+
+[Max At Points]
+Type = Gameshark
+Activation = EndFrame
+800B8A30 FFFF
+
+[Quick Level Gain]
+Type = Gameshark
+Activation = EndFrame
+8009CFE8 FFFF
+
+[Start With SMG]
+Type = Gameshark
+Activation = EndFrame
+D00A76BC 03E8
+800C0E50 0067
+
+[Max Item Slots]
+Type = Gameshark
+Activation = EndFrame
+800C0E0C 0032
+
+[Level 99]
+Type = Gameshark
+Activation = EndFrame
+800C0E0A 0063
+
+[Max Bonus Points]
+Type = Gameshark
+Activation = EndFrame
+800C0E10 FFFF
+
+[Infinite Bonus Points (Bpc)]
+Type = Gameshark
+Activation = EndFrame
+8004AAAC 0000
+
+[Infinite Ammo Everything (Bpc)]
+Type = Gameshark
+Activation = EndFrame
+80056BE0 0000
+
+[Time 00.00.00]
+Type = Gameshark
+Activation = EndFrame
+900A76BC 00000000
+
+[Activate Tools + BP Menu]
+Type = Gameshark
+Activation = EndFrame
+8009CEF0 FFFF
+
+[Have All Parasite Spells]
+Type = Gameshark
+Activation = EndFrame
+800C0E24 1FFF
+
+[Have Lots Of Experience]
+Type = Gameshark
+Activation = EndFrame
+800C0E00 FFFF
+
+[Max Offense]
+Type = Gameshark
+Activation = EndFrame
+800C0E2A 03E0
+
+[Max Defense]
+Type = Gameshark
+Activation = EndFrame
+800C0E2C 03E0
+
+[Max Penergy]
+Type = Gameshark
+Activation = EndFrame
+800C0E2E 03E0
+
+[Max Status Recover]
+Type = Gameshark
+Activation = EndFrame
+800C0E30 03E0
+
+[Max Active Time]
+Type = Gameshark
+Activation = EndFrame
+800C0E32 03E0
+
+[Max Item Capacity]
+Type = Gameshark
+Activation = EndFrame
+800C0E34 03E0
+
+[Access Hidden Option 1 (L1+L2)]
+Type = Gameshark
+Activation = EndFrame
+D009D0F0 0005
+3009CEA0 0005
+
+[Access Hidden Option 2 (L1+R2)]
+Type = Gameshark
+Activation = EndFrame
+D009D0F0 0006
+3009CEA0 0006
+
+[No Random Battles]
+Type = Gameshark
+Activation = EndFrame
+800A781A 8000
+
+[Debug Room]
+Type = Gameshark
+Activation = EndFrame
+C009D0F0 0003
+8009D280 6048
+3009D282 0006
+00000000 FFFF
+
+[Select All Ammo In Storage]
+Type = Gameshark
+Activation = EndFrame
+C009D0F0 0100
+800C1F1E 0001
+900C1F20 00030002
+900C1F24 00050004
+00000000 FFFF
+
+[Select All Cards In Storage]
+Type = Gameshark
+Activation = EndFrame
+C009D0F0 0100
+800C1F0E 00E7
+900C1F10 00E900E8
+900C1F14 00EB00EA
+00000000 FFFF
+
+[Select All Charms In Storage]
+Type = Gameshark
+Activation = EndFrame
+C009D0F0 0100
+900C1EF4 00CC00CB
+800C1EF8 00CD
+00000000 FFFF
+
+[Select All C Keys In Storage]
+Type = Gameshark
+Activation = EndFrame
+C009D0F0 0100
+800C1ECA 0038
+900C1ECC 003A0039
+900C1ED0 003C003B
+900C1ED4 003E003D
+00000000 FFFF
+
+[Select All Crates In Storage]
+Type = Gameshark
+Activation = EndFrame
+C009D0F0 0100
+900C1F18 001B001A
+800C1F1C 001C
+00000000 FFFF
+
+[Select All Cures In Storage]
+Type = Gameshark
+Activation = EndFrame
+C009D0F0 0100
+900C1EB8 000E000D
+900C1EBC 0010000F
+800C1EC0 0011
+00000000 FFFF
+
+[Select All Fuses In Storage]
+Type = Gameshark
+Activation = EndFrame
+C009D0F0 0100
+800C1EEE 00CE
+900C1EF0 00D000CF
+00000000 FFFF
+
+[Select All Keys In Storage]
+Type = Gameshark
+Activation = EndFrame
+C009D0F0 0100
+900C1ED8 00D100CA
+900C1EDC 00D300D2
+900C1EE0 00D500D4
+900C1EE4 00D700D6
+900C1EE8 00DB00DA
+800C1EEC 00DC
+00000000 FFFF
+
+[Select All Med Wayne's Storage]
+Type = Gameshark
+Activation = EndFrame
+C009D0F0 0100
+900C1F28 00070006
+900C1F2C 00090008
+800C1F30 000A
+00000000 FFFF
+
+[Select All Tools Wayne's Storage]
+Type = Gameshark
+Activation = EndFrame
+C009D0F0 0100
+800C1EC2 0016
+900C1EC4 00350017
+800C1EC8 0036
+00000000 FFFF
+

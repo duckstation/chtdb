@@ -1,0 +1,265 @@
+; CHTDB: ; [ WWF SmackDown! (USA) (2000) (THQ) {SLUS-00927GH} <wwfsmack> ]
+
+[Unlock All Characteristics]
+Type = Gameshark
+Activation = EndFrame
+50000C02 0000
+80090700 FFFF
+
+[Unlock All Match Options]
+Type = Gameshark
+Activation = EndFrame
+E0149F90 0001
+21149F90 0001
+E0149F91 0001
+21149F91 0001
+E0149F92 0001
+21149F92 0001
+E0149F93 0001
+21149F93 0001
+E0149F94 0001
+21149F94 0001
+E0149F95 0001
+21149F95 0001
+
+[P1 Start With 5 Specials]
+Type = Gameshark
+Activation = EndFrame
+8007AC5E 0005
+
+[P2 Start With 5 Specials]
+Type = Gameshark
+Activation = EndFrame
+8007AC76 0005
+
+[P3 Start With 5 Specials]
+Type = Gameshark
+Activation = EndFrame
+8007AC8E 0005
+
+[P4 Start With 5 Specials]
+Type = Gameshark
+Activation = EndFrame
+8007ACA6 0005
+
+[Never Add A Special (All Players)]
+Type = Gameshark
+Activation = EndFrame
+800497FE 2400
+
+[Never Lose A Special (All Players)]
+Type = Gameshark
+Activation = EndFrame
+80047ACA 2400
+
+[P1 Infinite Special]
+Type = Gameshark
+Activation = EndFrame
+80047ACA 2400
+800497FE 2400
+8007AC5E 0005
+8007AC76 0000
+8007AC8E 0000
+8007ACA6 0000
+
+[P2 Infinite Special]
+Type = Gameshark
+Activation = EndFrame
+80047ACA 2400
+800497FE 2400
+8007AC5E 0000
+8007AC76 0005
+8007AC8E 0000
+8007ACA6 0000
+
+[P3/Ref Infinite Special]
+Type = Gameshark
+Activation = EndFrame
+80047ACA 2400
+800497FE 2400
+8007AC5E 0000
+8007AC76 0000
+8007AC8E 0005
+8007ACA6 0000
+
+[P4 Infinite Special]
+Type = Gameshark
+Activation = EndFrame
+80047ACA 2400
+800497FE 2400
+8007AC5E 0000
+8007AC76 0000
+8007AC8E 0000
+8007ACA6 0005
+
+[P1/P2 Infinite Special]
+Type = Gameshark
+Activation = EndFrame
+80047ACA 2400
+800497FE 2400
+8007AC5E 0005
+8007AC76 0005
+8007AC8E 0000
+8007ACA6 0000
+
+[P1/P3/Ref Infinite Special]
+Type = Gameshark
+Activation = EndFrame
+80047ACA 2400
+800497FE 2400
+8007AC5E 0005
+8007AC76 0000
+8007AC8E 0005
+8007ACA6 0000
+
+[P1/P4 Infinite Special]
+Type = Gameshark
+Activation = EndFrame
+80047ACA 2400
+800497FE 2400
+8007AC5E 0005
+8007AC76 0000
+8007AC8E 0000
+8007ACA6 0005
+
+[P1/P2/P3/Ref Infinite Special]
+Type = Gameshark
+Activation = EndFrame
+80047ACA 2400
+800497FE 2400
+8007AC5E 0005
+8007AC76 0005
+8007AC8E 0005
+8007ACA6 0000
+
+[P1/P3/Ref/P4 Infinite Special]
+Type = Gameshark
+Activation = EndFrame
+80047ACA 2400
+800497FE 2400
+8007AC5E 0005
+8007AC76 0000
+8007AC8E 0005
+8007ACA6 0005
+
+[P1/P2/P4 Infinite Special]
+Type = Gameshark
+Activation = EndFrame
+80047ACA 2400
+800497FE 2400
+8007AC5E 0005
+8007AC76 0005
+8007AC8E 0000
+8007ACA6 0005
+
+[P2/P3/Ref Infinite Special]
+Type = Gameshark
+Activation = EndFrame
+80047ACA 2400
+800497FE 2400
+8007AC5E 0000
+8007AC76 0005
+8007AC8E 0005
+8007ACA6 0000
+
+[P2/P4 Infinite Special]
+Type = Gameshark
+Activation = EndFrame
+80047ACA 2400
+800497FE 2400
+8007AC5E 0000
+8007AC76 0005
+8007AC8E 0000
+8007ACA6 0005
+
+[P2/P3/Ref/P4 Infinite Special]
+Type = Gameshark
+Activation = EndFrame
+80047ACA 2400
+800497FE 2400
+8007AC5E 0000
+8007AC76 0005
+8007AC8E 0005
+8007ACA6 0005
+
+[P3/Ref/P4 Infinite Special]
+Type = Gameshark
+Activation = EndFrame
+80047ACA 2400
+800497FE 2400
+8007AC5E 0000
+8007AC76 0000
+8007AC8E 0005
+8007ACA6 0005
+
+[P1/P2/P3/Ref/P4 Infinite Special]
+Type = Gameshark
+Activation = EndFrame
+80047ACA 2400
+800497FE 2400
+8007AC5E 0005
+8007AC76 0005
+8007AC8E 0005
+8007ACA6 0005
+
+[No Power Meter (All Players)]
+Type = Gameshark
+Activation = EndFrame
+800497DA 2400
+
+[Enable Extra Heads]
+Type = Gameshark
+Activation = EndFrame
+90090F7C 00FF00FF
+
+[Enable Extra Tops]
+Type = Gameshark
+Activation = EndFrame
+90090F90 00FF00FF
+
+[Enable Extra Bottoms]
+Type = Gameshark
+Activation = EndFrame
+90090FA4 00FF00FF
+
+[Infinite Creation Points]
+Type = Gameshark
+Activation = EndFrame
+D00ED41A 0000
+100ED41A 00FF
+
+[Super Smackdown Code NEEDS MULTITAP AND CONTROL ALL CHARACTERS]
+Type = Gameshark
+Activation = EndFrame
+8007AC58 0000
+8007AC70 0000
+8007AC88 0000
+8007ACA0 0000
+
+[Season Mode-Infinite Special]
+Description = With this cheat, this makes whoever is a human controlled player have 5 specials and their infinite. Plus the non-human players never get specials.
+Type = Gameshark
+Activation = EndFrame
+80047ACA 2400
+800497FE 2400
+D007AC58 0000
+8007AC5E 0005
+D007AC70 0000
+8007AC76 0005
+D007AC88 0000
+8007AC8E 0005
+D007ACA0 0000
+8007ACA6 0005
+D007AC88 0100
+8007AC8E 0005
+
+[Widescreen 16-9 (In-Game,Demo)]
+Type = Gameshark
+Activation = EndFrame
+800216FC 0C00
+
+[Widescreen 16-9 (Create A Superstar)]
+Type = Gameshark
+Activation = EndFrame
+80108C7C 0C00
+

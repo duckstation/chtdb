@@ -1,0 +1,81 @@
+; CHTDB: ; [ Sled Storm (Europe) {SLES-02194} ]
+
+[Start On Last Lap]
+Type = Gameshark
+Activation = EndFrame
+C20D69D4 0001
+800DB18C 0000
+
+[Lots Of Points]
+Type = Gameshark
+Activation = EndFrame
+800DB182 000E
+
+[Time Is Freezed]
+Type = Gameshark
+Activation = EndFrame
+80031D7A 3C00
+
+[Infinite Cash]
+Type = Gameshark
+Activation = EndFrame
+800C2664 FFFF
+
+[Infinite Continues In Championship Mode]
+Type = Gameshark
+Activation = EndFrame
+8006DB58 3C00
+
+[Enable All Mountain Tracks]
+Type = Gameshark
+Activation = EndFrame
+800D6AFA 0E02
+800D6B00 0305
+
+[Enable All Super Cross Tracks]
+Type = Gameshark
+Activation = EndFrame
+800D6B0E 0A0C
+
+[Enable All Sleds]
+Type = Gameshark
+Activation = EndFrame
+50003701 0000
+300D7439 0002
+
+[Enable Mirror Mode]
+Type = Gameshark
+Activation = EndFrame
+800C2ECC 0001
+
+[Championship - Only 1 race to win]
+Type = Gameshark
+Activation = EndFrame
+300C2E94 0005
+
+[Enable Fog-Mode]
+Type = Gameshark
+Activation = EndFrame
+300C2EBC 0001
+
+[Enable Night-Mode]
+Type = Gameshark
+Activation = EndFrame
+300C2EBE 0001
+
+[Enable Sergei]
+Type = Gameshark
+Activation = EndFrame
+300C2EC4 0001
+
+[Enable Jackal]
+Type = Gameshark
+Activation = EndFrame
+300C2EC6 0001
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+800E27F0 1333
+800E2900 0E66
+

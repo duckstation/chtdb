@@ -1,0 +1,34 @@
+; CHTDB: ; [ Neko Zamurai (Japan) {SLPS-01543 | SLPS-01544 | SLPS-01545} ]
+
+[No Fatigue]
+Type = Gameshark
+Activation = EndFrame
+8006D0F8 00FF
+
+[Do not tired]
+Type = Gameshark
+Activation = EndFrame
+A602A680 FFFF0000
+
+[Heal]
+Type = Gameshark
+Activation = EndFrame
+A602A680 FFFF0001
+
+[All memories and mini-games fully open]
+Type = Gameshark
+Activation = EndFrame
+50000E02 0000
+8006D040 FFFF
+
+[All memories and mini-games fully open Alternate]
+Type = Gameshark
+Activation = EndFrame
+9006D040 FFFFFFFF
+9006D044 FFFFFFFF
+9006D048 FFFFFFFF
+9006D04C FFFFFFFF
+9006D050 FFFFFFFF
+9006D054 FFFFFFFF
+9006D058 FFFFFFFF
+

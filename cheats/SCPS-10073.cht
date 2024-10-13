@@ -1,0 +1,171 @@
+; CHTDB: ; [ Crash Bandicoot 3: Buttobi! Sekai Isshuu (Japan) {SCPS-10073} ]
+
+[99 Lives]
+Type = Gameshark
+Activation = EndFrame
+9001DD04 24056300
+9001DD0C AE050144
+
+[Get All power-ups]
+Type = Gameshark
+Activation = EndFrame
+800695C8 001F
+
+[Crash Invincibility valid in stage 3 and 10]
+Type = Gameshark
+Activation = EndFrame
+8001DFFC 0001
+
+[MAX number of remaining]
+Type = Gameshark
+Activation = EndFrame
+300AD89D 0063
+
+[Remaining 99 crash]
+Type = Gameshark
+Activation = EndFrame
+800693A8 6300
+
+[All power-up]
+Type = Gameshark
+Activation = EndFrame
+800695C8 001F
+
+[Two Akuaku stage at the time of entering]
+Type = Gameshark
+Activation = EndFrame
+800693AC 0200
+
+[All Crystal]
+Type = Gameshark
+Activation = EndFrame
+90069400 FFFFFFFF
+90069404 FF00FFFF
+90069604 FFFFFFFF
+80069608 FFFF
+9006957C FFFFFFFF
+80069600 FFFF
+
+[All Stages]
+Type = Gameshark
+Activation = EndFrame
+800693B4 00F8
+9006957C FFFFFFFF
+9006963C 08FFFFFF
+
+[Infinite Jump (Press Select + Left ON, Select + Right OFF)]
+Type = Gameshark
+Activation = EndFrame
+D0065FCE FF7E
+8001FE74 0000
+D0065FCE FFDE
+8001FE74 00A8
+;hugopocked type 1, Teh69thSpartan type 2
+
+[Select Moon Jump Cheat\Type 1 (L3/LS to toggle on/off)]
+Type = Gameshark
+Activation = EndFrame
+D7010001 01000200
+F501FC74 00882000
+F501FC76 AE430800
+F501FC7A 00652400
+90008000 3C148006
+90008004 36945FCE
+90008008 96810000
+90008010 00010B82
+90008018 30210001
+90008020 14200005
+90008028 3063FFFF
+9000802C 3C14000D
+90008030 00741825
+90008038 AE430088
+9000803C 08007F1F
+90008040 0065182A
+
+[Select Moon Jump Cheat\Type 2]
+Type = Gameshark
+Activation = EndFrame
+A701FC00 00AC2C00
+A701FC02 8E420C00
+9000B000 27BDFFE8
+9000B004 AFA80010
+9000B008 3C088006
+9000B00C 95085FCE
+9000B014 00084027
+9000B018 31084000
+9000B01C 39084000
+9000B020 11000002
+9000B028 8E4200AC
+9000B030 8FA80010
+9000B034 27BD0018
+9000B038 03E00008
+
+[Select Crash/Coco Speed\Enable this line and select speed multiplier]
+Type = Gameshark
+Activation = EndFrame
+8000C03E 240B
+9000C000 8E420104
+9000C004 27BDFFE0
+9000C008 AFA80010
+9000C00C AFA90014
+9000C010 AFAA0018
+9000C014 AFAB001C
+9000C01C 00004012
+9000C020 00004810
+9000C024 344A0000
+9000C028 340B0064
+9000C02C 014B001A
+9000C030 00005012
+9000C040 014B0018
+9000C044 00005012
+9000C048 004A1021
+9000C054 01000013
+9000C058 01200011
+9000C05C 8FA80010
+9000C060 8FA90014
+9000C064 8FAA0018
+9000C068 8FAB001C
+9000C06C 27BD0020
+9000C070 03E00008
+A701F220 01043000
+A701F222 8E420C00
+
+[Select Crash/Coco Speed\Normal Speed]
+Type = Gameshark
+Activation = EndFrame
+8000C03C 0000
+
+[Select Crash/Coco Speed\50% faster]
+Type = Gameshark
+Activation = EndFrame
+8000C03C 0019
+
+[Select Crash/Coco Speed\100% faster]
+Type = Gameshark
+Activation = EndFrame
+8000C03C 0032
+
+[Select Crash/Coco Speed\200% faster]
+Type = Gameshark
+Activation = EndFrame
+8000C03C 0064
+
+[Select Crash/Coco Speed\300% faster]
+Type = Gameshark
+Activation = EndFrame
+8000C03C 0096
+
+[Select Crash/Coco Speed\400% faster]
+Type = Gameshark
+Activation = EndFrame
+8000C03C 00C8
+
+[Widescreen]
+Type = Gameshark
+Activation = EndFrame
+A7018C54 F1C60C00
+A7018C56 0C002402
+A7018C58 20231000
+A7018C5A 00042413
+A7018C76 A622A633
+

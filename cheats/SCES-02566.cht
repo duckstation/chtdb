@@ -1,0 +1,28 @@
+; CHTDB: ; [ Dragon Valor (Germany) {SCES-02566 | SCES-12566} ]
+
+[Unendlich Gp]
+Type = Gameshark
+Activation = EndFrame
+8008A8CE 0064
+8008A8D0 0064
+
+[Unendlich Mp]
+Type = Gameshark
+Activation = EndFrame
+90029C10 00000000
+
+[Max Str]
+Type = Gameshark
+Activation = EndFrame
+8008A8D6 03E7
+
+[Max Abw]
+Type = Gameshark
+Activation = EndFrame
+8008A8D8 03E7
+
+[Max Val]
+Type = Gameshark
+Activation = EndFrame
+A60A30F0 0001270F
+

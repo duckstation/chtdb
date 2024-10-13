@@ -1,0 +1,17 @@
+; CHTDB: ; [ Farland Story - Yottsu no Fuuin (Jpn) (1997) (TGL) {SLPS-00797} <farland> ]
+
+[Infinite HP Boy]
+Type = Gameshark
+Activation = EndFrame
+900DD99C 03E703E7
+
+[Infinite HP Man With Helmet]
+Type = Gameshark
+Activation = EndFrame
+900DD9B8 03E703E7
+
+[Infinite HP Girl]
+Type = Gameshark
+Activation = EndFrame
+900DD9D4 03E703E7
+

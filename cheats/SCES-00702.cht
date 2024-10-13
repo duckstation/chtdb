@@ -1,0 +1,22 @@
+; CHTDB: ; [ Namco Museum Vol. 5 (Europe) {SCES-00702} ]
+
+[Pacmania\Infinite Lives activate codes when you are in the game itself]
+Type = Gameshark
+Activation = EndFrame
+301E0621 0005
+
+[Dragon Spirit\Infinite Lives activate codes when you are in the game itself]
+Type = Gameshark
+Activation = EndFrame
+301E9007 0005
+
+[Metro Cross\Infinite Time activate codes when you are in the game itself and deactivate at level end!]
+Type = Gameshark
+Activation = EndFrame
+801E1442 0010
+
+[Baraduke\Infinite Lives activate codes when you are in the game itself]
+Type = Gameshark
+Activation = EndFrame
+801600C0 0005
+

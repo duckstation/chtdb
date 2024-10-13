@@ -1,0 +1,46 @@
+; CHTDB: ; [ Lord of Fist (Jpn) (1999) (MediaWorks) {SLPS-02168} <lordfist> ]
+
+[RPG Mode All Items (Obi)]
+Type = Gameshark
+Activation = EndFrame
+800BA006 FFFF
+900BA008 FFFFFFFF
+
+[RPG Mode Infinite Vitality]
+Type = Gameshark
+Activation = EndFrame
+8019155C 0090
+8019156C 0090
+
+[RPG Mode Max Copper]
+Type = Gameshark
+Activation = EndFrame
+80188CF6 03E7
+
+[RPG Mode Max HP]
+Type = Gameshark
+Activation = EndFrame
+80188D04 03E7
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8016E998 0200
+
+[1 Hit Killed (Up To 4 Players Mode)]
+Type = Gameshark
+Activation = EndFrame
+8016F918 0000
+80170898 0000
+80171818 0000
+
+[Max Copper]
+Type = Gameshark
+Activation = EndFrame
+80188CF6 03E7
+
+[Max HP]
+Type = Gameshark
+Activation = EndFrame
+80188D04 03E7
+

@@ -1,0 +1,13 @@
+; CHTDB: ; [ Geometry Duel (Japan) {SLPS-01575} ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800BDB0E 03E7
+800BDB18 03E7
+
+[Infinite Gold]
+Type = Gameshark
+Activation = EndFrame
+800BF0AC FFFF
+

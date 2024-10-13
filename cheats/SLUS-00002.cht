@@ -1,0 +1,47 @@
+; CHTDB: ; [ NBA Jam - Tournament Edition (USA) (1995) (Acclaim Entertainment) {SLUS-00002} <nbajamte> ]
+
+[P1 Select Score\100]
+Type = Gameshark
+Activation = EndFrame
+8007D098 0064
+
+[P1 Select Score\0]
+Type = Gameshark
+Activation = EndFrame
+8007D098 0000
+
+[P2 Select Score\100]
+Type = Gameshark
+Activation = EndFrame
+8007D09C 0064
+
+[P2 Select Score\0]
+Type = Gameshark
+Activation = EndFrame
+8007D09C 0000
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+8007D048 3000
+
+[P1 Infinite Turbo]
+Type = Gameshark
+Activation = EndFrame
+80084500 002F
+
+[P2 Infinite Turbo]
+Type = Gameshark
+Activation = EndFrame
+80084684 002F
+
+[P3 Infinite Turbo]
+Type = Gameshark
+Activation = EndFrame
+80084808 002F
+
+[Infinite Shot Clock Time]
+Type = Gameshark
+Activation = EndFrame
+8007D034 0012
+

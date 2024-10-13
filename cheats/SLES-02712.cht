@@ -1,0 +1,25 @@
+; CHTDB: ; [ Mort the Chicken (Europe) {SLES-02712} ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800B40D0 0064
+
+[All levels unlocked]
+Type = Gameshark
+Activation = EndFrame
+D0099086 0001
+30099086 0012
+
+[Save one chicken to have saved all]
+Type = Gameshark
+Activation = EndFrame
+D004DAF2 2442
+3004DAF0 0006
+
+[All coins on pickup]
+Type = Gameshark
+Activation = EndFrame
+D30B3DE8 0000
+300B39BE 0064
+

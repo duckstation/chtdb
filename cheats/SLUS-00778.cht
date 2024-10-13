@@ -1,0 +1,28 @@
+; CHTDB: ; [ Hello Kitty - Cube Frenzy (USA) (1999) (NewKidCo) {SLUS-00778} <hkcubefr> ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80154EF4 007A
+
+[P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800522C0 0005
+
+[P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800522D8 0005
+
+[Enable Everything]
+Type = Gameshark
+Activation = EndFrame
+800632F0 FFFF
+900632F4 07FFFFFF
+
+[Infinite Kitty's]
+Type = Gameshark
+Activation = EndFrame
+8011C49E 0003
+

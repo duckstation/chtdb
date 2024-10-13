@@ -1,0 +1,42 @@
+; CHTDB: ; [ Lunatic Dawn Odyssey (Jpn) (1999) (Artdink) {SLPS-02420} <ldawnody> ]
+
+[Infinite HP Main character]
+Type = Gameshark
+Activation = EndFrame
+800F1E26 03E7
+
+[Infinite MP Main character]
+Type = Gameshark
+Activation = EndFrame
+800F1E28 270F
+
+[A Lot Of Money]
+Type = Gameshark
+Activation = EndFrame
+900EEA5C 0098967F
+
+[Degree of friendship Max]
+Type = Gameshark
+Activation = EndFrame
+300E6830 0064
+
+[All Album Item]
+Type = Gameshark
+Activation = EndFrame
+300F18FF 00FF
+
+[All Album Monster]
+Type = Gameshark
+Activation = EndFrame
+300F18FF 00FF
+
+[Graphics hero]
+Type = Gameshark
+Activation = EndFrame
+800F1DF4 FFFF
+
+[All Poetry album minstrel]
+Type = Gameshark
+Activation = EndFrame
+301DED35 0007
+

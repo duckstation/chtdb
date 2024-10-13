@@ -1,0 +1,22 @@
+; CHTDB: ; [ Nice Price Series Vol. 01: Nihon Pro Mahjong Renmei Kounin: Honkaku Pro Mahjong (Japan) {SLPS-03351} ]
+
+[Player has 999900 points]
+Type = Gameshark
+Activation = EndFrame
+80074D70 270F
+
+[Opponent 1 has 0 points]
+Type = Gameshark
+Activation = EndFrame
+80074D7C 0000
+
+[Opponent 2 has 0 points]
+Type = Gameshark
+Activation = EndFrame
+80074D78 0000
+
+[Opponent 3 has 0 points]
+Type = Gameshark
+Activation = EndFrame
+80074D74 0000
+

@@ -1,0 +1,7 @@
+; CHTDB: ; [ ATV Racers (Europe) {SLES-04059} ]
+
+[Always lap 5]
+Type = Gameshark
+Activation = EndFrame
+8006D030 0005
+

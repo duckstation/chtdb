@@ -1,0 +1,12 @@
+; CHTDB: ; [ Hamster Club-i (Japan) {SLPS-03266} ]
+
+[P1 Infinite Energy in vs fighting]
+Type = Gameshark
+Activation = EndFrame
+80102808 03E8
+
+[P1 Infinite Energy in Pipe throwing fight]
+Type = Gameshark
+Activation = EndFrame
+800F5E9C 000F
+

@@ -1,0 +1,13 @@
+; CHTDB: ; [ Cyber Egg: Battle Champion (Japan) {SLPS-01048} ]
+
+[Infinite Points]
+Type = Gameshark
+Activation = EndFrame
+80158BD0 001F
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8014892E 1900
+800FC780 0064
+

@@ -1,0 +1,27 @@
+; CHTDB: ; [ Rageball (Europe) (Pocket Price Midas) {SLES-03511} ]
+
+[Infinite Credits 9999]
+Type = Gameshark
+Activation = EndFrame
+800F0BA4 270F
+
+[P1 always score 0]
+Type = Gameshark
+Activation = EndFrame
+800E4420 0000
+
+[P1 always score 99]
+Type = Gameshark
+Activation = EndFrame
+800E4420 0063
+
+[P2 always score 0]
+Type = Gameshark
+Activation = EndFrame
+800E4422 0000
+
+[P2 always score 99]
+Type = Gameshark
+Activation = EndFrame
+800E4422 0063
+

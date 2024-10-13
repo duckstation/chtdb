@@ -1,0 +1,12 @@
+; CHTDB: ; [ Fire Pro Wrestling: Iron Slam '96 (Japan) {SLPS-00277} ]
+
+[P1 Rush Mode-On]
+Type = Gameshark
+Activation = EndFrame
+80082D7C 0012
+
+[P2 Rush Mode-On]
+Type = Gameshark
+Activation = EndFrame
+80083300 001A
+

@@ -1,0 +1,256 @@
+; CHTDB: ; [ Break Out (USA) (2000) (Hasbro Interactive) {SLUS-01170} <breakout> ]
+
+[Infinite Balls]
+Type = Gameshark
+Activation = EndFrame
+A61F4520 00020003
+
+[Open Continue + Challenge Mode (Single Player)]
+Type = Gameshark
+Activation = EndFrame
+800F4E88 0003
+
+[Overall Ranking Superstar (Map)]
+Type = Gameshark
+Activation = EndFrame
+801EA230 0000
+
+[Unlock All Areas On Map (Map)]
+Type = Gameshark
+Activation = EndFrame
+801EA224 0006
+
+[Start At Final Area Point (Map)]
+Type = Gameshark
+Activation = EndFrame
+801EA22C 0005
+
+[Unlock All Levels On Map + Art Viewer (Prison Area)]
+Type = Gameshark
+Activation = EndFrame
+801EA238 0005
+
+[All Levels Completed (Prison Area)]
+Type = Gameshark
+Activation = EndFrame
+801EA240 0001
+
+[Level 1 Ranking Superstar (Prison Area)]
+Type = Gameshark
+Activation = EndFrame
+801EA25C 0001
+801EA268 0000
+
+[Level 2 Ranking Superstar (Prison Area)]
+Type = Gameshark
+Activation = EndFrame
+801EA270 0001
+801EA27C 0000
+
+[Level 3 Ranking Superstar (Prison Area)]
+Type = Gameshark
+Activation = EndFrame
+801EA284 0001
+801EA290 0000
+
+[Level 4 Ranking Superstar (Prison Area)]
+Type = Gameshark
+Activation = EndFrame
+801EA298 0001
+801EA2A4 0000
+
+[Unlock All Levels On Map (Pyramid Area)]
+Type = Gameshark
+Activation = EndFrame
+801EA2D4 0004
+
+[Activate Area Icon (Pyramid Area)]
+Type = Gameshark
+Activation = EndFrame
+801EA2D8 0001
+
+[All Levels Completed + Unlock Area Character (Pyramid Area)]
+Type = Gameshark
+Activation = EndFrame
+801EA2DC 0001
+
+[Level 1 Ranking Superstar (Pyramid Area)]
+Type = Gameshark
+Activation = EndFrame
+801EA2F8 0001
+801EA304 0000
+
+[Level 2 Ranking Superstar (Pyramid Area)]
+Type = Gameshark
+Activation = EndFrame
+801EA30C 0001
+801EA318 0000
+
+[Level 3 Ranking Superstar (Pyramid Area)]
+Type = Gameshark
+Activation = EndFrame
+801EA320 0001
+801EA32C 0000
+
+[Level 4 Ranking Superstar (Pyramid Area)]
+Type = Gameshark
+Activation = EndFrame
+801EA334 0001
+801EA340 0000
+
+[Unlock All Levels On Map (Farm Area)]
+Type = Gameshark
+Activation = EndFrame
+801EA370 0004
+
+[Activate Area Icon (Farm Area)]
+Type = Gameshark
+Activation = EndFrame
+801EA374 0001
+
+[All Levels Completed + Unlock Area Character (Farm Area)]
+Type = Gameshark
+Activation = EndFrame
+801EA378 0001
+
+[Level 1 Ranking Superstar (Farm Area)]
+Type = Gameshark
+Activation = EndFrame
+801EA394 0001
+801EA3A0 0000
+
+[Level 2 Ranking Superstar (Farm Area)]
+Type = Gameshark
+Activation = EndFrame
+801EA3A8 0001
+801EA3B4 0000
+
+[Level 3 Ranking Superstar (Farm Area)]
+Type = Gameshark
+Activation = EndFrame
+801EA3BC 0001
+801EA3C8 0000
+
+[Level 4 Ranking Superstar (Farm Area)]
+Type = Gameshark
+Activation = EndFrame
+801EA3D0 0001
+801EA3DC 0000
+
+[Unlock All Levels On Map (Castle Area)]
+Type = Gameshark
+Activation = EndFrame
+801EA40C 0004
+
+[Activate Area Icon (Castle Area)]
+Type = Gameshark
+Activation = EndFrame
+801EA410 0001
+
+[All Levels Completed + Unlock Area Character (Castle Area)]
+Type = Gameshark
+Activation = EndFrame
+801EA414 0001
+
+[Level 1 Ranking Superstar (Castle Area)]
+Type = Gameshark
+Activation = EndFrame
+801EA430 0001
+801EA43C 0000
+
+[Level 2 Ranking Superstar (Castle Area)]
+Type = Gameshark
+Activation = EndFrame
+801EA444 0001
+801EA450 0000
+
+[Level 3 Ranking Superstar (Castle Area)]
+Type = Gameshark
+Activation = EndFrame
+801EA458 0001
+801EA464 0000
+
+[Level 4 Ranking Superstar (Castle Area)]
+Type = Gameshark
+Activation = EndFrame
+801EA46C 0001
+801EA478 0000
+
+[Unlock All Levels On Map (Factory Area)]
+Type = Gameshark
+Activation = EndFrame
+801EA4A8 0004
+
+[Activate Area Icon (Factory Area)]
+Type = Gameshark
+Activation = EndFrame
+801EA4AC 0001
+
+[All Levels Completed + Unlock Area Character (Factory Area)]
+Type = Gameshark
+Activation = EndFrame
+801EA4B0 0001
+
+[Level 1 Ranking Superstar (Factory Area)]
+Type = Gameshark
+Activation = EndFrame
+801EA4CC 0001
+801EA4D8 0000
+
+[Level 2 Ranking Superstar (Factory Area)]
+Type = Gameshark
+Activation = EndFrame
+801EA4E0 0001
+801EA4EC 0000
+
+[Level 3 Ranking Superstar (Factory Area)]
+Type = Gameshark
+Activation = EndFrame
+801EA4F4 0001
+801EA500 0000
+
+[Level 4 Ranking Superstar (Factory Area)]
+Type = Gameshark
+Activation = EndFrame
+801EA508 0001
+801EA514 0000
+
+[Unlock All Levels On Map (Space Area)]
+Type = Gameshark
+Activation = EndFrame
+801EA544 0004
+
+[Activate Area Icon (Space Area)]
+Type = Gameshark
+Activation = EndFrame
+801EA548 0001
+
+[All Levels Completed + Unlock Area Character (Space Area)]
+Type = Gameshark
+Activation = EndFrame
+801EA54C 0001
+
+[Level 1 Ranking Superstar (Space Area)]
+Type = Gameshark
+Activation = EndFrame
+801EA568 0001
+801EA574 0000
+
+[Level 2 Ranking Superstar (Space Area)]
+Type = Gameshark
+Activation = EndFrame
+801EA57C 0001
+801EA588 0000
+
+[Level 3 Ranking Superstar (Space Area)]
+Type = Gameshark
+Activation = EndFrame
+801EA590 0001
+801EA59C 0000
+
+[Level 4 Ranking Superstar (Space Area)]
+Type = Gameshark
+Activation = EndFrame
+801EA5A4 0001
+801EA5B0 0000
+

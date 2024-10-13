@@ -1,0 +1,17 @@
+; CHTDB: ; [ Star Ocean: The Second Story (Europe) {SCES-02159 | SCES-12159} ]
+
+[Start With Lots Of Fol]
+Type = Gameshark
+Activation = EndFrame
+8009BFB0 FFFF
+
+[Save Anywhere]
+Type = Gameshark
+Activation = EndFrame
+800743F8 0001
+
+[Debug mode You have to have the code turned off before starting the game, else it'll crash. Turn it on when you have loaded your save data and go into your items screen. Press X twice and you'll see a list of options, most of which are pretty self explanatory. SP MAX, ALL SLV MAX, TECH and all the options on]
+Type = Gameshark
+Activation = EndFrame
+801FFDD8 000B
+

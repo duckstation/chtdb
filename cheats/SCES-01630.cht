@@ -1,0 +1,32 @@
+; CHTDB: ; [ Running Wild (Europe) {SCES-01630} ]
+
+[Have All Secrets]
+Type = Gameshark
+Activation = EndFrame
+800CE7F8 FFFF
+
+[Always Play Medium Difficulty]
+Type = Gameshark
+Activation = EndFrame
+800CE7F4 0001
+
+[Always Play Hard Difficulty]
+Type = Gameshark
+Activation = EndFrame
+800CE7F4 0004
+
+[Always Play Expert Difficulty]
+Type = Gameshark
+Activation = EndFrame
+800CE7F4 000F
+
+[Extra Tracks (Play Expert)]
+Type = Gameshark
+Activation = EndFrame
+800CB07C 0004
+
+[Always Finish 1St!]
+Type = Gameshark
+Activation = EndFrame
+80028B36 2402
+

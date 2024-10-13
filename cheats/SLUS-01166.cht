@@ -1,0 +1,7 @@
+; CHTDB: ; [ NASCAR Heat (USA) (2000) (Hasbro Interactive) {SLUS-01166} <nascheat> ]
+
+[Lap Modifier 6 (0000-FFFF)]
+Type = Gameshark
+Activation = EndFrame
+A6083B48 00010006
+

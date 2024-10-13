@@ -1,0 +1,59 @@
+; CHTDB: ; [ Yuukyuu Gensoukyoku 3: Perpetual Blue (Japan) {SLPS-02517} ]
+
+[Lucid Hp/Mp 999 (Battle Only)]
+Type = Gameshark
+Activation = EndFrame
+900BB560 03E703E7
+900BB564 03E703E7
+
+[Stats 255]
+Type = Gameshark
+Activation = EndFrame
+900BB7CC 00FF00FF
+900BB7D0 00FF00FF
+
+[Bisette Hp/Mp 999 (Battle Only)]
+Type = Gameshark
+Activation = EndFrame
+900BB6F8 03E703E7
+900BB6FC 03E703E7
+
+[Vircia Hp/Mp 999 (Battle Only)]
+Type = Gameshark
+Activation = EndFrame
+900BB890 03E703E7
+900BB894 03E703E7
+
+[Ruety Hp/Mp 999 (Battle Only)]
+Type = Gameshark
+Activation = EndFrame
+900BB7C4 03E703E7
+900BB7C8 03E703E7
+
+[Favorability rating Max]
+Type = Gameshark
+Activation = EndFrame
+8005416D 869F
+3005416F 0001
+
+[Favorability / calico-Cher Liese Max]
+Type = Gameshark
+Activation = EndFrame
+800550FD 869F
+300550FF 0001
+
+[Left Enemy HP 0 in combat]
+Type = Gameshark
+Activation = EndFrame
+800BB960 0000
+
+[Right Enemy HP 0 in combat]
+Type = Gameshark
+Activation = EndFrame
+800BBA2C 0000
+
+[Center Enemy HP 0 in combat]
+Type = Gameshark
+Activation = EndFrame
+800BBAF8 0000
+

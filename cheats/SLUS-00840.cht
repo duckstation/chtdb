@@ -1,0 +1,64 @@
+; CHTDB: ; [ Test Drive Off-Road 3 (USA) (1999) (Infogrames) {SLUS-00840} <tdoffr3> ]
+
+[Activate All Cheats]
+Type = Gameshark
+Activation = EndFrame
+8009BCE8 FFFF
+
+[Unlock All Cheats]
+Type = Gameshark
+Activation = EndFrame
+8009BCE4 FFFF
+
+[Always Place First]
+Type = Gameshark
+Activation = EndFrame
+80012BB6 2400
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+8007EB34 6E35
+
+[Start on Final Lap]
+Type = Gameshark
+Activation = EndFrame
+8007ED5E 0101
+
+[World Tour - All Trucks in Garage]
+Type = Gameshark
+Activation = EndFrame
+9013D9A4 FFFFFFFF
+
+[World Tour - Have Gold Cups All Divisions]
+Type = Gameshark
+Activation = EndFrame
+50000502 0000
+8013DA34 0000
+
+[World Tour - Max Credits]
+Type = Gameshark
+Activation = EndFrame
+9013DA24 0098967F
+
+[World Tour - Open All Divisions]
+Type = Gameshark
+Activation = EndFrame
+8013D998 001F
+8013DA6C 0001
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A707C6AC 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A707C6AC 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A707C6AC 10000400
+

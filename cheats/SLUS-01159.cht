@@ -1,0 +1,45 @@
+; CHTDB: ; [ Bust A Groove 2 (USA) (2000) (Enix America) {SLUS-01159} <bag2> ]
+
+[P1 Max Dance Score]
+Type = Gameshark
+Activation = EndFrame
+8005FBE8 FFFF
+
+[P1 Infinite Specials]
+Type = Gameshark
+Activation = EndFrame
+3005FC33 0002
+
+[P2 No Dance Score]
+Type = Gameshark
+Activation = EndFrame
+8005FBEC 0000
+
+[P2 No Specials]
+Type = Gameshark
+Activation = EndFrame
+3005FC65 0000
+
+[Unlock All Characters]
+Type = Gameshark
+Activation = EndFrame
+50000801 0000
+3004F667 0001
+
+[Start On Last Stage]
+Type = Gameshark
+Activation = EndFrame
+E005FC7C 0000
+3005FC7C 0007
+
+[Unlock Dance View Mode]
+Type = Gameshark
+Activation = EndFrame
+30191C30 0001
+
+[Unlock All Dance View Players]
+Type = Gameshark
+Activation = EndFrame
+50001201 0000
+3004F66F 0001
+

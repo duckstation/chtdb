@@ -1,0 +1,131 @@
+; CHTDB: ; [ Croc - Legend of the Gobbos (USA) (1997) (Fox Interactive) {SLUS-00530} <croc> ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80074FDC 0003
+
+[Always have 100 crystals]
+Type = Gameshark
+Activation = EndFrame
+80074964 0064
+
+[Always have saved 6 Gobbos]
+Type = Gameshark
+Activation = EndFrame
+8007496C 0006
+
+[Have all 5 colored crystals]
+Type = Gameshark
+Activation = EndFrame
+80074AC8 001F
+
+[Always have gold key]
+Type = Gameshark
+Activation = EndFrame
+80074AC0 0001
+
+[Always have silver key]
+Type = Gameshark
+Activation = EndFrame
+80074AC4 0001
+
+[Have all 8 jigsaw pieces]
+Type = Gameshark
+Activation = EndFrame
+80074E6C 0008
+
+[Lava Will Not Kill You]
+Type = Gameshark
+Activation = EndFrame
+80074964 FFFF
+8007C0DE 0000
+
+[Have Level Unlocked (88-DE Next level is 2 more (88-90)]
+Type = Gameshark
+Activation = EndFrame
+8007BFDE 8000
+
+[Unlock Shoutin Lava Lava Lava]
+Type = Gameshark
+Activation = EndFrame
+8007BF8A 8006
+
+[Level 1 Teleport (L3 store location, R3 to warp)]
+Type = Gameshark
+Activation = EndFrame
+C007BF42 FFFD
+C20D8B2E 0002
+8000C000 0000
+C20D8B38 0002
+8000C002 0000
+C20D8B3C 0002
+8000C004 0000
+C20D8B84 0002
+8000C006 0000
+00000000 FFFF
+C007BF42 FFFB
+C200C000 0002
+800D8B2E 0000
+C200C002 0002
+800D8B38 0000
+C200C004 0002
+800D8B3C 0000
+C200C006 0002
+800D8B84 0000
+00000000 FFFF
+
+[Croc went through puberty]
+Type = Gameshark
+Activation = EndFrame
+A7067146 10401000
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+800168EC 2082
+800168EE 0800
+8001C010 0C00
+8001C012 240C
+80008208 FFE0
+8000820A 8486
+8000820C FFE0
+8000820E 2484
+80008210 D883
+80008212 0006
+80008214 3043
+80008216 0006
+80008218 3021
+8000821A 00DB
+8000821C 0000
+8000821E A486
+80008220 0004
+80008222 8486
+80008224 0000
+80008226 0000
+80008228 D883
+8000822A 0006
+8000822C 3043
+8000822E 0006
+80008230 3021
+80008232 00DB
+80008234 5A3D
+80008236 0800
+80008238 0004
+8000823A A486
+
+[FPS unlock]
+Type = Gameshark
+Activation = EndFrame
+A705934A 10401000
+
+[Alternative FPS unlock]
+Type = Gameshark
+Activation = EndFrame
+A705921E 04811400
+
+[FPS uncap + 60FPS lock]
+Type = Gameshark
+Activation = EndFrame
+A7014606 14521000
+

@@ -1,0 +1,17 @@
+; CHTDB: ; [ NASCAR 98 Collector's Edition (USA) (1998) (Electronic Arts) {SLUS-00647} <nasc98ce> ]
+
+[Lap Time is 00.00.000]
+Type = Gameshark
+Activation = EndFrame
+800C2A24 0000
+
+[One Lap Needed To Finish Race]
+Type = Gameshark
+Activation = EndFrame
+800C29A2 0009
+
+[Always First Place]
+Type = Gameshark
+Activation = EndFrame
+800C29CF 0101
+

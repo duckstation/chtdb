@@ -1,0 +1,63 @@
+; CHTDB: ; [ Gourmet Action Game: Manpuku!! Nabe Kazoku (Japan) {SLPS-03381} ]
+
+[P1 Quick Win]
+Type = Gameshark
+Activation = EndFrame
+800FFE9A 0300
+800FFEDA 0300
+
+[P1 Max Scoer]
+Type = Gameshark
+Activation = EndFrame
+80098E18 FFFF
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80098894 1747
+
+[Select Stage\1]
+Type = Gameshark
+Activation = EndFrame
+A6098E12 00000001
+
+[Select Stage\2]
+Type = Gameshark
+Activation = EndFrame
+A6098E12 00000002
+
+[Select Stage\3]
+Type = Gameshark
+Activation = EndFrame
+A6098E12 00000003
+
+[Select Stage\4]
+Type = Gameshark
+Activation = EndFrame
+A6098E12 00000004
+
+[Select Stage\5]
+Type = Gameshark
+Activation = EndFrame
+A6098E12 00000005
+
+[Select Stage\6]
+Type = Gameshark
+Activation = EndFrame
+A6098E12 00000006
+
+[Select Stage\7]
+Type = Gameshark
+Activation = EndFrame
+A6098E12 00000007
+
+[Select Stage\8]
+Type = Gameshark
+Activation = EndFrame
+A6098E12 00000008
+
+[Select Stage\9]
+Type = Gameshark
+Activation = EndFrame
+A6098E12 00000009
+

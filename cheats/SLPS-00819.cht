@@ -1,0 +1,63 @@
+; CHTDB: ; [ Treasure Gear (Japan) {SLPS-00819} ]
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+900E9220 270F270F
+
+[Level Max]
+Type = Gameshark
+Activation = EndFrame
+800E9208 270F
+
+[Occupation level Max]
+Type = Gameshark
+Activation = EndFrame
+800E920A 270F
+
+[Offensive power Max]
+Type = Gameshark
+Activation = EndFrame
+800E98CA 270F
+
+[Phylactic power Max]
+Type = Gameshark
+Activation = EndFrame
+800E98CC 270F
+
+[Witchcraft Max]
+Type = Gameshark
+Activation = EndFrame
+800E98CE 270F
+
+[Empirical value Max]
+Type = Gameshark
+Activation = EndFrame
+800E920C 270F
+
+[Belongings maximum number]
+Type = Gameshark
+Activation = EndFrame
+300E9228 0063
+
+[Energy Max]
+Type = Gameshark
+Activation = EndFrame
+800E9224 270F
+
+[Fast Level Up]
+Type = Gameshark
+Activation = EndFrame
+800E920C FFFF
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+800E9214 869F
+300E9216 0001
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+300E921E 0004
+

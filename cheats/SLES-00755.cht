@@ -1,0 +1,93 @@
+; CHTDB: ; [ Judge Dredd (Europe) {SLES-00755} ]
+
+[Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+801E222E 0A00
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800DFFFE 03E8
+
+[P1 Infinite Lawgiver Ammo]
+Type = Gameshark
+Activation = EndFrame
+300E000D 0008
+
+[P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+300E000C 0005
+
+[P1 Start With Max Points]
+Type = Gameshark
+Activation = EndFrame
+A60DFFE0 0000FFFF
+
+[P1 Infinite High Explosive Weapon]
+Type = Gameshark
+Activation = EndFrame
+800E000E 0900
+
+[P1 Infinite Armour Piercing Ammo]
+Type = Gameshark
+Activation = EndFrame
+D10DFFF4 0000
+800DFFF4 00B8
+
+[P1 Infinite Scatter]
+Type = Gameshark
+Activation = EndFrame
+D10DFFFA 0000
+800DFFFA 0123
+
+[P1 Rapid Fire Automatic Gun]
+Type = Gameshark
+Activation = EndFrame
+D10DFFF8 0000
+800DFFF8 0064
+
+[P2 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800E0046 03E8
+
+[P2 Infinite Lawgiver Ammo]
+Type = Gameshark
+Activation = EndFrame
+300E0055 0008
+
+[P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+300E0054 0005
+
+[P2 Start With Max Points]
+Type = Gameshark
+Activation = EndFrame
+A60E0028 0000FFFF
+
+[P2 Infinite High Explosive Weapon]
+Type = Gameshark
+Activation = EndFrame
+800E0056 0900
+
+[P2 Infinite Armour Piercing Ammo]
+Type = Gameshark
+Activation = EndFrame
+D10E003C 0000
+800E003C 00B8
+
+[P2 Infinite Scatter]
+Type = Gameshark
+Activation = EndFrame
+D10E0042 0000
+800E0042 0123
+
+[P2 Rapid Fire Automatic Gun]
+Type = Gameshark
+Activation = EndFrame
+D10E0040 0000
+800E0040 0064
+

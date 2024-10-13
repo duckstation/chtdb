@@ -1,0 +1,17 @@
+; CHTDB: ; [ Total Eclipse Turbo (Japan) {SLPS-00105} ]
+
+[Infinite Credit]
+Type = Gameshark
+Activation = EndFrame
+80074BA0 0005
+
+[Infinite Bomb]
+Type = Gameshark
+Activation = EndFrame
+800772D4 0003
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+8007754A 0001
+

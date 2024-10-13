@@ -1,0 +1,82 @@
+; CHTDB: ; [ Frogger (USA) (1997) (Hasbro Interactive) {SLUS-00506} <frogger> ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+D0012630 077C
+800B3DF8 0000
+D0012632 AF82
+800B3DF8 0000
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800B6C50 0009
+
+[Unlock Dark Dark Cavern]
+Type = Gameshark
+Activation = EndFrame
+300A4BEC 0006
+300A4C48 0004
+300A4CA4 0004
+
+[Unlock Looney Ballons]
+Type = Gameshark
+Activation = EndFrame
+300A4D00 0006
+300A4D5C 0004
+300A4DB8 0004
+300A4E14 0004
+
+[Unlock Bang Bang Barrel]
+Type = Gameshark
+Activation = EndFrame
+300A4E70 0006
+300A4ECC 0004
+300A4F28 0004
+300A4F84 0004
+300A4FE0 0004
+
+[Unlock Cactus Point]
+Type = Gameshark
+Activation = EndFrame
+300A503C 0006
+300A5098 0004
+300A50F4 0004
+300A5150 0004
+300A51AC 0004
+
+[Unlock Tropical Trouble]
+Type = Gameshark
+Activation = EndFrame
+300A5208 0006
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+900B3690 FFFFFFFF
+
+[Doom Mode]
+Type = Gameshark
+Activation = EndFrame
+800BD3D6 FF20
+800BD3D8 FF20
+
+[Have All Gold Frogs]
+Type = Gameshark
+Activation = EndFrame
+800B3950 0FFF
+
+[Unlock All Stages]
+Type = Gameshark
+Activation = EndFrame
+5000205C 0000
+800A4688 0007
+300A5208 0006
+
+[Press L1 To Complete Stage]
+Type = Gameshark
+Activation = EndFrame
+E00BCAF7 0001
+800B3AC0 001F
+

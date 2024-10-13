@@ -1,0 +1,19 @@
+; CHTDB: ; [ Battle Arena Toshinden 2 (Europe) {SCES-00232} ]
+
+[P1 Infinite Health (Only P1!)]
+Type = Gameshark
+Activation = EndFrame
+9016140C 32010008
+90161414 10200002
+
+[P2 Infinite Health (Only P2!)]
+Type = Gameshark
+Activation = EndFrame
+9016140C 32010008
+90161414 14200002
+
+[P1+P2 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8016141E 3C00
+

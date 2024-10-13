@@ -1,0 +1,108 @@
+; CHTDB: ; [ Pandora Max Series Vol. 6: Oni Zero: Fukkatsu (Japan) {SLPS-03106} ]
+
+[Infinite Energy Boy With Brown Hair]
+Type = Gameshark
+Activation = EndFrame
+801C5970 03E7
+801C596C 03E7
+
+[Infinite Energy Boy With Green Hair]
+Type = Gameshark
+Activation = EndFrame
+801C59A0 03E7
+801C599C 03E7
+
+[Infinite Energy Girl]
+Type = Gameshark
+Activation = EndFrame
+801C59D0 03E7
+801C59CC 03E7
+
+[Money]
+Type = Gameshark
+Activation = EndFrame
+801B3C30 7530
+
+[Infinite & Max HP - Man]
+Type = Gameshark
+Activation = EndFrame
+801C5A00 03E7
+801C59FC 03E7
+
+[Infinite Energy in battle all party]
+Type = Gameshark
+Activation = EndFrame
+801B2FDC 03E7
+
+[All God open]
+Type = Gameshark
+Activation = EndFrame
+801B3A10 FFFF
+
+[I do not reduce Oni-shin]
+Type = Gameshark
+Activation = EndFrame
+A616FA52 00430040
+
+[Divine power does not decrease]
+Type = Gameshark
+Activation = EndFrame
+A616FA12 00430040
+
+[Maximum strength]
+Type = Gameshark
+Activation = EndFrame
+801C596C 270F
+
+[Maximum divine power]
+Type = Gameshark
+Activation = EndFrame
+801C596E 270F
+
+[Current physical fitness]
+Type = Gameshark
+Activation = EndFrame
+801C5970 270F
+
+[Now God force]
+Type = Gameshark
+Activation = EndFrame
+801C5972 270F
+
+[Demon heart]
+Type = Gameshark
+Activation = EndFrame
+801C5974 270F
+
+[Ending is from the beginning]
+Type = Gameshark
+Activation = EndFrame
+801B4C34 0003
+
+[Status MAX When God negotiations in villages and towns]
+Type = Gameshark
+Activation = EndFrame
+801B4E6E 270F
+901B4E70 03E7270F
+901B4E74 03E703E7
+901B4E78 03E703E7
+901B4E7C 03E703E7
+
+[Status MAX When God negotiations in the dungeon]
+Type = Gameshark
+Activation = EndFrame
+801B4EEE 270F
+901B4EF0 03E7270F
+901B4EF4 03E703E7
+901B4EF8 03E703E7
+901B4EFC 03E703E7
+
+[All tools]
+Type = Gameshark
+Activation = EndFrame
+50000B04 0000
+801B3E34 0014
+801B3EF0 0014
+50000704 0000
+801B403C 0014
+

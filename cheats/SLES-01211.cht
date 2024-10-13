@@ -1,0 +1,17 @@
+; CHTDB: ; [ Pro Pinball: Big Race USA (Euro) (1998) (Empire Interactive Entertainment) {SLES-01211} <ppinbrue> ]
+
+[P1 Infinite Balls]
+Type = Gameshark
+Activation = EndFrame
+A60AABE0 00020001
+
+[Ballsaver always active]
+Type = Gameshark
+Activation = EndFrame
+800AC004 0800
+
+[Airbag always active]
+Type = Gameshark
+Activation = EndFrame
+800AC010 0800
+

@@ -1,0 +1,20 @@
+; CHTDB: ; [ Silent Möbius - Genei no Datenshi (Jpn, Disc 1 Only) (1998) (Bandai) {SLPS-01803} <silentmb> ]
+
+[Katsumi Infinite HP In Battle]
+Type = Gameshark
+Activation = EndFrame
+801EBA9C 00B4
+801BF5E0 00B4
+
+[Kiddy Infinite HP In Battle]
+Type = Gameshark
+Activation = EndFrame
+801EBBF4 00C8
+801BF738 00C8
+
+[Nami Infinite HP In Battle]
+Type = Gameshark
+Activation = EndFrame
+801EBD4C 0096
+801BF890 0096
+

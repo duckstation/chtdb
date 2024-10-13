@@ -1,0 +1,37 @@
+; CHTDB: ; [ Kuma no Pooh-tarou: Sora wa Pink da! Zen'in Shuugou!! (Japan) {SLPS-00115} ]
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80068850 0064
+
+[P1 Have 9 bombs]
+Type = Gameshark
+Activation = EndFrame
+8009DFD8 0009
+
+[P1 Have 9 Hammers]
+Type = Gameshark
+Activation = EndFrame
+8009DFE4 0009
+
+[P1 Have 9 Blocks]
+Type = Gameshark
+Activation = EndFrame
+8009DFE0 0009
+
+[P1 Have 9 Toges]
+Type = Gameshark
+Activation = EndFrame
+8009DFDC 0009
+
+[P1 Have 9 Drinks]
+Type = Gameshark
+Activation = EndFrame
+8009DFE8 0009
+
+[P1 Have 9 Jets]
+Type = Gameshark
+Activation = EndFrame
+8009DFEC 0009
+

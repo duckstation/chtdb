@@ -1,0 +1,37 @@
+; CHTDB: ; [ Disney's Tarzan (Europe) {SCES-01431} ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8008E5C0 0120
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80093AF6 0005
+
+[Infinite Fruits]
+Type = Gameshark
+Activation = EndFrame
+A60A5A3A 00000005
+A60A5A3C 00000005
+A60A5A3E 00000005
+
+[Letters & pic pieces found]
+Type = Gameshark
+Activation = EndFrame
+A605A5A8 00003F0F
+
+[Timer frozen (Bonus areas)]
+Type = Gameshark
+Activation = EndFrame
+8008B1D0 1910
+
+[Moon Jump (Hold X)]
+Type = Gameshark
+Activation = EndFrame
+D00796E6 BFFF
+800920C0 0000
+D10796E6 BFFF
+800920C0 0020
+

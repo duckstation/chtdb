@@ -1,0 +1,38 @@
+; CHTDB: ; [ Diablo (USA) (1998) (Electronic Arts) {SLUS-00619} <diablo> ]
+
+[P2 Infinite Life]
+Type = Gameshark
+Activation = EndFrame
+900DAD3C 0001FFFF
+
+[P1 Infinite Life]
+Type = Gameshark
+Activation = EndFrame
+900D9354 0001FFFF
+
+[P1 Active + Max Levels For All Spells]
+Type = Gameshark
+Activation = EndFrame
+800D92AA 0F0F
+900D92AC 0F0F0F0F
+900D92B0 0F0F0F0F
+900D92B4 0F0F0F0F
+900D92B8 0F0F0F0F
+900D92BC 0F0F0F0F
+800D92C0 0F0F
+800D92C6 0F0F
+900D92C8 0F0F0F0F
+
+[Active + Max Levels For All Spells Player2]
+Type = Gameshark
+Activation = EndFrame
+800DAC92 0F0F
+900DAC94 0F0F0F0F
+900DAC98 0F0F0F0F
+900DAC9C 0F0F0F0F
+900DACA0 0F0F0F0F
+900DACA4 0F0F0F0F
+800DACA8 0F0F
+800DACAE 0F0F
+900DACB0 0F0F0F0F
+

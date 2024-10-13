@@ -1,0 +1,152 @@
+; CHTDB: ; [ Moto Racer World Tour (USA) (2000) (Infogrames) {SLUS-01321} <motorcwt> ]
+
+[Infinite Arcade Timer]
+Type = Gameshark
+Activation = EndFrame
+80110E6C FFFF
+
+[Infinite Trial Time]
+Type = Gameshark
+Activation = EndFrame
+80108A00 FFFF
+
+[Freestyle-Max Score]
+Type = Gameshark
+Activation = EndFrame
+90108AE8 00007FFF
+
+[Unlock Reygades]
+Type = Gameshark
+Activation = EndFrame
+8012F2EC 0001
+
+[Unlock Belo Horizonte]
+Type = Gameshark
+Activation = EndFrame
+8012F2E8 0001
+
+[Unlock Stade De France]
+Type = Gameshark
+Activation = EndFrame
+8012F2DC 0001
+
+[Unlock Eastern Creek]
+Type = Gameshark
+Activation = EndFrame
+8012F2F8 0001
+
+[Unlock Isle of Man-Hills]
+Type = Gameshark
+Activation = EndFrame
+8012F2FC 0001
+
+[Unlock Isle of Man-Town]
+Type = Gameshark
+Activation = EndFrame
+8012F300 0001
+
+[Unlock Isle of Man-Road]
+Type = Gameshark
+Activation = EndFrame
+8012F304 0001
+
+[Unlock Traffic]
+Type = Gameshark
+Activation = EndFrame
+8012F314 0001
+
+[Unlock Dragster]
+Type = Gameshark
+Activation = EndFrame
+8012F31C 0001
+
+[Unlock Freestyle]
+Type = Gameshark
+Activation = EndFrame
+8012F310 0001
+
+[Unlock Trial]
+Type = Gameshark
+Activation = EndFrame
+8012F308 0001
+
+[Unlock Cross Championship]
+Type = Gameshark
+Activation = EndFrame
+8012F2D8 0001
+
+[Last Lap Sachsenring]
+Type = Gameshark
+Activation = EndFrame
+A610F3A4 FFFFFF02
+A610F370 FFFFFF02
+
+[Last Lap Suzuka]
+Type = Gameshark
+Activation = EndFrame
+A61128F8 FFFFFF02
+A61128C4 FFFFFF02
+
+[Last Lap Isle of Man (Road)]
+Type = Gameshark
+Activation = EndFrame
+A610E968 FFFFFF03
+A610E920 FFFFFF03
+
+[Last Lap Eastern Creek]
+Type = Gameshark
+Activation = EndFrame
+A610FA80 FFFFFF03
+A610FA48 FFFFFF03
+
+[Last Lap Isle of Man (Hills)]
+Type = Gameshark
+Activation = EndFrame
+A610CC90 FFFFFF02
+A610CC48 FFFFFF02
+
+[Last Lap Barcelona]
+Type = Gameshark
+Activation = EndFrame
+A6108808 FF00FF06
+A61085E0 FF00FF05
+
+[Last Lap USA Park]
+Type = Gameshark
+Activation = EndFrame
+A6114C18 FFFFFF02
+A6114BB8 FFFFFF02
+
+[Last Lap Stade de France]
+Type = Gameshark
+Activation = EndFrame
+A6109590 FF00FF03
+A610937C FF00FF03
+
+[Last Lap Reygades]
+Type = Gameshark
+Activation = EndFrame
+A6112168 FFFFFF01
+A6112120 FFFFFF01
+
+[Last Lap Belo Horizonte]
+Type = Gameshark
+Activation = EndFrame
+A6107E1C FF00FF04
+A6107C08 FF00FF04
+
+[Last Lap Isle of Man (Town)]
+Type = Gameshark
+Activation = EndFrame
+A610E00C FFFFFF03
+
+[Last Lap Speed Ring]
+Type = Gameshark
+Activation = EndFrame
+A610B5B4 FFFFFF06
+
+[Last Lap Rive Gauchie]
+Type = Gameshark
+Activation = EndFrame
+A610F414 FFFFFF01
+

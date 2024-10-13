@@ -1,0 +1,36 @@
+; CHTDB: ; [ Simple Character 2000 Series Vol. 08: Kagaku Ninjatai Gatchaman: The Shooting (Japan) {SLPS-03444} ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801507B8 0014
+
+[Infinite Bombs]
+Type = Gameshark
+Activation = EndFrame
+801507C8 0003
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+301507E0 0008
+
+[Shot level MAX]
+Type = Gameshark
+Activation = EndFrame
+301507D0 0005
+
+[Gallery fully open]
+Type = Gameshark
+Activation = EndFrame
+901E88B4 01010101
+901E88B8 01010101
+901E88BC 01010101
+901E88C0 01010101
+901E88C4 01010101
+901E88C8 01010101
+901E88CC 01010101
+901E88D0 01010101
+901E88D4 01010101
+301E88D8 0001
+

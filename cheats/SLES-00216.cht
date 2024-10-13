@@ -1,0 +1,57 @@
+; CHTDB: ; [ Shellshock (Germany) {SLES-00216} ]
+
+[Unverwundbar]
+Type = Gameshark
+Activation = EndFrame
+80087F32 0600
+
+[Unendlich Geld]
+Type = Gameshark
+Activation = EndFrame
+80085868 C350
+
+[Waffe ÜBerhitzt Nie]
+Type = Gameshark
+Activation = EndFrame
+80087F20 0000
+
+[Max Panzerung]
+Type = Gameshark
+Activation = EndFrame
+80085852 0006
+
+[Max Sams]
+Type = Gameshark
+Activation = EndFrame
+80085856 0004
+
+[Max Air Support]
+Type = Gameshark
+Activation = EndFrame
+8008585C 0001
+
+[Max Motor]
+Type = Gameshark
+Activation = EndFrame
+8008585E 0004
+
+[Max Tracks]
+Type = Gameshark
+Activation = EndFrame
+80085860 0004
+
+[Max Reload Mech]
+Type = Gameshark
+Activation = EndFrame
+80085862 0004
+
+[Max Ziel-Computer]
+Type = Gameshark
+Activation = EndFrame
+80085864 0004
+
+[Max KüHlung]
+Type = Gameshark
+Activation = EndFrame
+80085866 0004
+

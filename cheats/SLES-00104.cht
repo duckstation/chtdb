@@ -1,0 +1,26 @@
+; CHTDB: ; [ Wing Commander III: Heart of the Tiger (France) {SLES-00104 | SLES-10104 | SLES-20104 | SLES-30104} ]
+
+[Infinite Lasers]
+Type = Gameshark
+Activation = EndFrame
+801DE548 02A8
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801DF02C 00A4
+801DF030 00A4
+801DF034 00A4
+801DF038 00A4
+
+[Infinite Imrec Missiles]
+Type = Gameshark
+Activation = EndFrame
+801DE6C0 0003
+801DE6F0 0003
+
+[Infinite Decoys]
+Type = Gameshark
+Activation = EndFrame
+801DE558 0018
+

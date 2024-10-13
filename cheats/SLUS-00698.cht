@@ -1,0 +1,75 @@
+; CHTDB: ; [ O.D.T. (USA) (1998) (Psygnosis) {SLUS-00698} <odt> ]
+
+[P1 Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+300AA04A 0064
+300AA052 0064
+300AA05A 0064
+300AA062 0064
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800A9EC0 0064
+
+[Select Level\1]
+Type = Gameshark
+Activation = EndFrame
+800A963C 0000
+
+[Select Level\2]
+Type = Gameshark
+Activation = EndFrame
+800A963C 0001
+
+[Select Level\3]
+Type = Gameshark
+Activation = EndFrame
+800A963C 0002
+
+[Select Level\4]
+Type = Gameshark
+Activation = EndFrame
+800A963C 0003
+
+[Select Level\5]
+Type = Gameshark
+Activation = EndFrame
+800A963C 0004
+
+[Select Level\6]
+Type = Gameshark
+Activation = EndFrame
+800A963C 0005
+
+[Select Level\7]
+Type = Gameshark
+Activation = EndFrame
+800A963C 0006
+
+[Select Level\8]
+Type = Gameshark
+Activation = EndFrame
+800A963C 0007
+
+[Infinite Experience]
+Type = Gameshark
+Activation = EndFrame
+800AA09C FFFF
+
+[Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+800AA0A0 6666
+
+[Infinite Weapon]
+Type = Gameshark
+Activation = EndFrame
+800AA0A2 6666
+
+[Infinite Spirit]
+Type = Gameshark
+Activation = EndFrame
+800AA0A4 6666
+

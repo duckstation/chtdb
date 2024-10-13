@@ -1,0 +1,22 @@
+; CHTDB: ; [ Men in Black: The Series: Crashdown (Germany) {SLES-03521} ]
+
+[Unendlich Gesundheit]
+Type = Gameshark
+Activation = EndFrame
+D10EFFCC 0064
+300EFFCC 0064
+
+[Unendlich Munition]
+Type = Gameshark
+Activation = EndFrame
+D10A5CD0 0008
+300A5CD0 0008
+D10A5CD4 0008
+300A5CD4 0008
+
+[Have All Levels]
+Type = Gameshark
+Activation = EndFrame
+D00A5B0C 0000
+300A5B0C 0002
+

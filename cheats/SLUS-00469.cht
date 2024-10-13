@@ -1,0 +1,66 @@
+; CHTDB: ; [ One (USA) (1997) (ASC Games) {SLUS-00469} <one> ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8010BA8C 0005
+
+[Infinite Rage Meter]
+Type = Gameshark
+Activation = EndFrame
+8010B690 00C0
+
+[Mid Air Jumps Press the X button repeatedly and quickly to do the mid air jump.]
+Type = Gameshark
+Activation = EndFrame
+8010B6C0 0002
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+8010AC3C FFFF
+
+[Infinite Special Weapon Energy]
+Type = Gameshark
+Activation = EndFrame
+8010B6D8 FFFF
+
+[Have Missile Launcher]
+Type = Gameshark
+Activation = EndFrame
+8010B6D4 0001
+
+[Have Homing Missiles]
+Type = Gameshark
+Activation = EndFrame
+8010B6D4 0002
+
+[Have Flame Thrower]
+Type = Gameshark
+Activation = EndFrame
+8010B6D4 0003
+
+[Have Pulse Laser]
+Type = Gameshark
+Activation = EndFrame
+8010B6D4 0004
+
+[Have Grenade Launcher]
+Type = Gameshark
+Activation = EndFrame
+8010B6D4 0005
+
+[Weapon Select Push Select+Up for Missile Launcher Push Select+Left for Homing Missile Push Select+Right for Flame Thrower Push Select+Down for Pulse Laser Push Select+L1 for Grenade Launcher]
+Type = Gameshark
+Activation = EndFrame
+D010B85C 0401
+8010B6D4 0001
+D010B85C 0404
+8010B6D4 0002
+D010B85C 0408
+8010B6D4 0003
+D010B85C 0402
+8010B6D4 0004
+D010B85C 0500
+8010B6D4 0005
+

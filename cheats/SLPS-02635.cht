@@ -1,0 +1,60 @@
+; CHTDB: ; [ Medarot R - Parts Collection (Jpn) (2000) (Imageneer) {SLPS-02635} <medacol> ]
+
+[Max Point]
+Type = Gameshark
+Activation = EndFrame
+8007C2B0 270F
+
+[Max Point Inf.Missile]
+Type = Gameshark
+Activation = EndFrame
+80078784 03E7
+
+[Max HP Head]
+Type = Gameshark
+Activation = EndFrame
+80078788 03E7
+80078798 03E7
+
+[Max HP Right-Hand]
+Type = Gameshark
+Activation = EndFrame
+80078790 03E7
+800787A0 03E7
+
+[Max HP Left-Hand]
+Type = Gameshark
+Activation = EndFrame
+80078794 03E7
+800787A4 03E7
+
+[Max HP Leg]
+Type = Gameshark
+Activation = EndFrame
+8007878C 03E7
+8007879C 03E7
+
+[All Head Parts]
+Type = Gameshark
+Activation = EndFrame
+5000FF01 0000
+30079B40 0050
+
+[All Left-Hand Parts]
+Type = Gameshark
+Activation = EndFrame
+5000FF01 0000
+30079C40 0050
+
+[All Right-Hand Parts]
+Type = Gameshark
+Activation = EndFrame
+5000FF01 0000
+30079D40 0050
+
+[All Leg Parts]
+Type = Gameshark
+Activation = EndFrame
+5000FF01 0000
+30079E40 0050
+

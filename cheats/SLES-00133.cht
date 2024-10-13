@@ -1,0 +1,22 @@
+; CHTDB: ; [ Gex (Europe) {SLES-00133} ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80097B2C 0064
+
+[Unbeatable]
+Type = Gameshark
+Activation = EndFrame
+80097B1C 0003
+
+[Skip intro video]
+Type = Gameshark
+Activation = EndFrame
+80027866 1000
+
+[Skip warning image]
+Type = Gameshark
+Activation = EndFrame
+8002782E 1000
+

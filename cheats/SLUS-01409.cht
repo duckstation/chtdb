@@ -1,0 +1,61 @@
+; CHTDB: ; [ Pipe Dreams 3D (USA) (2001) (Empire Interactive Entertainment) {SLUS-01409} <piped3d> ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8010D210 0009
+
+[Extra Lives]
+Type = Gameshark
+Activation = EndFrame
+800174C8 0001
+
+[L1 For Extra Lives]
+Type = Gameshark
+Activation = EndFrame
+C00D2DCE FBFF
+8010D210 0010
+8010D1E0 0010
+8011A6C8 0010
+00000000 FFFF
+
+[Select Starting Level\Level 1]
+Type = Gameshark
+Activation = EndFrame
+300D5510 0000
+
+[Select Starting Level\Level 2]
+Type = Gameshark
+Activation = EndFrame
+300D5510 0001
+
+[Select Starting Level\Level 3]
+Type = Gameshark
+Activation = EndFrame
+300D5510 0002
+
+[Select Starting Level\Level 4]
+Type = Gameshark
+Activation = EndFrame
+300D5510 0003
+
+[Select Starting Level\Level 5]
+Type = Gameshark
+Activation = EndFrame
+300D5510 0004
+
+[Select Starting Level\Level 6]
+Type = Gameshark
+Activation = EndFrame
+300D5510 0005
+
+[Select Starting Level\Level 7]
+Type = Gameshark
+Activation = EndFrame
+300D5510 0006
+
+[Select Starting Level\Level 8]
+Type = Gameshark
+Activation = EndFrame
+300D5510 0007
+

@@ -1,0 +1,138 @@
+; CHTDB: ; [ Contra - Legacy of War (USA) (1996) (Konami of America) {SLUS-00288} <contralw> ]
+
+[P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800DC784 0009
+
+[P1 Invincibility]
+Type = Gameshark
+Activation = EndFrame
+8008C9D4 0065
+
+[P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800DC7AC 0009
+
+[P2 Invincibility]
+Type = Gameshark
+Activation = EndFrame
+8008CA9C 0065
+
+[Infinite Continues]
+Type = Gameshark
+Activation = EndFrame
+800DEC92 0009
+
+[Infinite Bamboo]
+Description = This Cheat is for the cheat mode in the game - press L2, L1, DOWN, UP, R1, R2 to access
+Type = Gameshark
+Activation = EndFrame
+8008C950 0005
+
+[2nd Weapon Slot\P1 Always Has Flame Gun]
+Type = Gameshark
+Activation = EndFrame
+3008BC15 0004
+
+[2nd Weapon Slot\P2 Always Has Flame Gun]
+Type = Gameshark
+Activation = EndFrame
+3008BC19 0004
+
+[3rd Weapon Slot\P1 Always Has Red Laser]
+Type = Gameshark
+Activation = EndFrame
+3008BC16 0009
+
+[3rd Weapon Slot\P1 Always Has 1-Shot To Spread]
+Type = Gameshark
+Activation = EndFrame
+3008BC16 0008
+
+[3rd Weapon Slot\P1 Always Has Spread]
+Type = Gameshark
+Activation = EndFrame
+3008BC16 0003
+
+[3rd Weapon Slot\P1 Always Has Blue Pulse]
+Type = Gameshark
+Activation = EndFrame
+3008BC16 0000
+
+[3rd Weapon Slot\P2 Always Has Red Laser]
+Type = Gameshark
+Activation = EndFrame
+3008BC1A 0009
+
+[3rd Weapon Slot\P2 Always Has 1-Shot To Spread]
+Type = Gameshark
+Activation = EndFrame
+3008BC1A 0008
+
+[3rd Weapon Slot\P2 Always Has Spread]
+Type = Gameshark
+Activation = EndFrame
+3008BC1A 0003
+
+[3rd Weapon Slot\P2 Always Has Blue Pulse]
+Type = Gameshark
+Activation = EndFrame
+3008BC1A 0000
+
+[4th Weapon Slot\P1 Alw. Has Homing Missiles]
+Type = Gameshark
+Activation = EndFrame
+3008BC17 0007
+
+[4th Weapon Slot\P1 Alw. Homing Blue Missiles]
+Type = Gameshark
+Activation = EndFrame
+3008BC17 0006
+
+[4th Weapon Slot\P1 Always Has 3-Shot Spread]
+Type = Gameshark
+Activation = EndFrame
+3008BC17 0005
+
+[4th Weapon Slot\P1 Always Has Homing Laser]
+Type = Gameshark
+Activation = EndFrame
+3008BC17 0001
+
+[4th Weapon Slot\P2 Alw Has Homing Missiles]
+Type = Gameshark
+Activation = EndFrame
+3008BC1B 0007
+
+[4th Weapon Slot\P2 Alw Homing Blue Missiles]
+Type = Gameshark
+Activation = EndFrame
+3008BC1B 0006
+
+[4th Weapon Slot\P2 Always Has 3-Shot Spread]
+Type = Gameshark
+Activation = EndFrame
+3008BC1B 0005
+
+[4th Weapon Slot\P2 Always Has Homing Laser]
+Type = Gameshark
+Activation = EndFrame
+3008BC1B 0001
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A70DCA08 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A70DCA08 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A70DCA08 10000400
+

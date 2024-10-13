@@ -1,0 +1,52 @@
+; CHTDB: ; [ Harukaze Sentai V-Force (Japan) {SLPS-00578 | SLPS-00579 | SLPS-00580} ]
+
+[Infinite Energy character 1 mission 1]
+Type = Gameshark
+Activation = EndFrame
+800819E8 0012
+
+[Infinite Energy character 1 mission 2]
+Type = Gameshark
+Activation = EndFrame
+80081A60 0014
+
+[Infinite Energy character 2 mission 2]
+Type = Gameshark
+Activation = EndFrame
+80081A24 0014
+
+[Infinite Energy character 3 mission 2]
+Type = Gameshark
+Activation = EndFrame
+80081AD8 0014
+
+[Max level after the battle]
+Type = Gameshark
+Activation = EndFrame
+90033D00 34020064
+
+[Infinite Moves]
+Type = Gameshark
+Activation = EndFrame
+8002F2A6 9264
+
+[Infinite Attack]
+Type = Gameshark
+Activation = EndFrame
+8002F56C 0000
+
+[Infinite Options]
+Type = Gameshark
+Activation = EndFrame
+8002F6A0 0000
+
+[Infinite Bullets]
+Type = Gameshark
+Activation = EndFrame
+80033786 0060
+
+[It is not attacked by enemy]
+Type = Gameshark
+Activation = EndFrame
+8003865A 1400
+

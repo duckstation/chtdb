@@ -1,0 +1,18 @@
+; CHTDB: ; [ Mobile Armor (USA) (2002) (Tommo) {SLUS-01469} <mobilarm> ]
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+8018E45B 270F
+8018E45D 270F
+9018E45C 270F270F
+8018E45F 270F
+8018E461 270F
+8018E463 270F
+8018E465 270F
+
+[Infinite Shooting Power]
+Type = Gameshark
+Activation = EndFrame
+8018E4D8 251C
+

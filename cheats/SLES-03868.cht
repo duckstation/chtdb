@@ -1,0 +1,17 @@
+; CHTDB: ; [ Marcel Desailly Pro Football (France) {SLES-03868} ]
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A70BB4A8 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A70BB4A8 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A70BB4A8 10000400
+

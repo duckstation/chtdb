@@ -1,0 +1,22 @@
+; CHTDB: ; [ In Cold Blood (Europe) {SCES-02149 | SCES-12149} ]
+
+[Infinite Ammo MP]
+Type = Gameshark
+Activation = EndFrame
+90020F4C 00000000
+
+[Infinite Medicine]
+Type = Gameshark
+Activation = EndFrame
+90020FB4 00000000
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+900490E0 00000000
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+8008BD48 0000
+

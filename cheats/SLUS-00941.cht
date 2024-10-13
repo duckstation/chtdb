@@ -1,0 +1,33 @@
+; CHTDB: ; [ K-1 Grand Prix (USA) (2000) (Jaleco USA) {SLUS-00941} <k1gp> ]
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+900DC434 16A00002
+900DC444 16A00008
+
+[P1 Infinite Rush]
+Type = Gameshark
+Activation = EndFrame
+800E5EE6 0128
+
+[P2 No health]
+Type = Gameshark
+Activation = EndFrame
+900E61BC 00000000
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A70C6A68 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A70C6A68 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A70C6A68 10000400
+

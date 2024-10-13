@@ -1,0 +1,22 @@
+; CHTDB: ; [ Eternal Eyes (Europe) {SLES-02270} ]
+
+[Infinite Health Luke]
+Type = Gameshark
+Activation = EndFrame
+8009038E 03E7
+
+[Tons of Maica]
+Type = Gameshark
+Activation = EndFrame
+8008DD08 0FFF
+
+[Infinite HP Magic Puppet 1]
+Type = Gameshark
+Activation = EndFrame
+800903CA 03E7
+
+[Infinite Health Magic Puppet 2]
+Type = Gameshark
+Activation = EndFrame
+80090406 03E7
+

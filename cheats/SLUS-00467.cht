@@ -1,0 +1,42 @@
+; CHTDB: ; [ Ogre Battle - Limited Edition (USA) (1997) (Atlus Software) {SLUS-00467} <ogrebatl> ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+901C9EA4 FFFFFFFF
+
+[Max Reputation]
+Type = Gameshark
+Activation = EndFrame
+801C9E54 0064
+
+[Infinite + Max HP Main character]
+Type = Gameshark
+Activation = EndFrame
+801C62DC 03E7
+801C7FF8 03E7
+
+[Infinite + Max Second character]
+Type = Gameshark
+Activation = EndFrame
+801C62E0 03E7
+801C7FFC 03E7
+
+[Infinite + Max Third character]
+Type = Gameshark
+Activation = EndFrame
+801C62E2 03E7
+801C7FFE 03E7
+
+[Infinite + Max Fourth character]
+Type = Gameshark
+Activation = EndFrame
+801C62E4 03E7
+801C8000 03E7
+
+[Infinite + Max Fifth character]
+Type = Gameshark
+Activation = EndFrame
+801C62DE 03E7
+801C7FFA 03E7
+

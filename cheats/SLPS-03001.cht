@@ -1,0 +1,34 @@
+; CHTDB: ; [ Smash Court 3 (Japan) {SLPS-03001} ]
+
+[Rival score always 0]
+Type = Gameshark
+Activation = EndFrame
+80078E9C 0000
+
+[Opponent Can't Return Ball - Press L1]
+Type = Gameshark
+Activation = EndFrame
+D00E178C 0004
+800E4770 001A
+
+[Infinite Ball - Mini Game Mode]
+Type = Gameshark
+Activation = EndFrame
+801933C8 0009
+
+[Score - Mini Game Mode]
+Type = Gameshark
+Activation = EndFrame
+801933B8 FFFF
+
+[Run Faster]
+Type = Gameshark
+Activation = EndFrame
+800E17EA 0009
+
+[One Mission and unlock all characters]
+Type = Gameshark
+Activation = EndFrame
+80078CE8 0000
+800A5556 FF1D
+

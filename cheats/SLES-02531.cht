@@ -1,0 +1,143 @@
+; CHTDB: ; [ Resident Evil 3: Nemesis (Germany) {SLES-02531} ]
+
+[Unendlich Gesundheit]
+Type = Gameshark
+Activation = EndFrame
+800CF2E0 00C8
+
+[Gesundheit Immer Gut]
+Type = Gameshark
+Activation = EndFrame
+300CF2E7 0004
+
+[Immer 10 Einheiten In Tasche]
+Type = Gameshark
+Activation = EndFrame
+800D48AE 000A
+
+[Habe Alle Karten]
+Type = Gameshark
+Activation = EndFrame
+300D4777 00FE
+300D477B 00FE
+
+[Habe Alle Files]
+Type = Gameshark
+Activation = EndFrame
+900D477C FFFFFFFF
+
+[Geheimmodus Mit diesem Code ein neues Spiel starten und es gibt alle und neue Waffen in der Truhe mit unendlich Farbbändern und dem Schlüssel zu der Boutique mit allen Kostümen.]
+Type = Gameshark
+Activation = EndFrame
+800D4582 FFE0
+
+[Immer Zugang Zu Truhen L1+Quadrat]
+Type = Gameshark
+Activation = EndFrame
+D00CEE80 0084
+800D457C 0200
+D00CEE80 0084
+800E2814 0002
+
+[Gesamtzeit 0 (Erhalte Stufe S)]
+Type = Gameshark
+Activation = EndFrame
+900D4578 00000000
+
+[Schnelles Ende L1+L2+R1+R2]
+Type = Gameshark
+Activation = EndFrame
+D00CEE80 000F
+800CEEA8 C000
+D00CEE80 000F
+800CEEAA 0001
+
+[Schnellfeuer R1+R2+X]
+Type = Gameshark
+Activation = EndFrame
+D00CEE80 004A
+800CF2DC 1E02
+
+[ÜBerall Speichern L1+Dreieck]
+Type = Gameshark
+Activation = EndFrame
+D00CEE80 0014
+800D4368 13CC
+D00CEE80 0014
+800D436A 8005
+
+[Habe Alle Bilder Im Epilog]
+Type = Gameshark
+Activation = EndFrame
+800D458E 0008
+
+[Spiel Denkt Du Hast Nie Gespeichert]
+Type = Gameshark
+Activation = EndFrame
+800D4590 0000
+
+[Fast Alle TüRen Sind Offen]
+Type = Gameshark
+Activation = EndFrame
+50000502 0000
+800D471C FFFF
+
+[Erweiterte/Extra Munition]
+Type = Gameshark
+Activation = EndFrame
+900D48B0 01F401F4
+800D48B6 01F4
+900D48B8 01F401F4
+800D48BC 01F4
+
+[Unendlich GegenstäNde In Tasche]
+Type = Gameshark
+Activation = EndFrame
+50000A04 0000
+800D4786 0017
+
+[Unendlich GegenstäNde In Truhe]
+Type = Gameshark
+Activation = EndFrame
+50004004 0000
+800D47AE 0017
+
+[Unendlich Gegenstandsbenutzung]
+Type = Gameshark
+Activation = EndFrame
+8006D65E 3C00
+
+[One-Hit-Death]
+Type = Gameshark
+Activation = EndFrame
+A6045478 00060001
+
+[Durch WäNde Gehen Einschalten mit L2+R2 Ausschalten mit L2+R2]
+Type = Gameshark
+Activation = EndFrame
+D00CEE80 0005
+30034116 0000
+D00CEE80 0005
+3004B9CA 0000
+D00CEE80 0003
+30034116 0040
+D00CEE80 0003
+3004B9CA 0040
+
+[Auto Dodge Zombies (Hold L3)]
+Type = Gameshark
+Activation = EndFrame
+D5000000 00000200
+F4104BD0 00AA7000
+05004234 040062AE
+AAAAAAAA AAAAAAAA
+010DAAAA AAAAAAAA
+AAAAAAAA AAAAAAAA
+00000000 0000FFFF
+D6000000 00000200
+F4104BD0 00AA7000
+010D4234 040062AE
+AAAAAAAA AAAAAAAA
+0500AAAA AAAAAAAA
+AAAAAAAA AAAAAAAA
+

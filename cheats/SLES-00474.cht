@@ -1,0 +1,27 @@
+; CHTDB: ; [ Agent Armstrong (Europe) {SLES-00474} ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800A5782 2400
+
+[Infinite Grenade]
+Type = Gameshark
+Activation = EndFrame
+80099A7A 2400
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+8009A046 2400
+
+[Infinite Air]
+Type = Gameshark
+Activation = EndFrame
+800FB876 2400
+
+[Mission Select (Start 1 mission and push select)]
+Type = Gameshark
+Activation = EndFrame
+800D3D22 0001
+

@@ -1,0 +1,22 @@
+; CHTDB: ; [ Darklight Conflict (USA) (1997) (Electronic Arts) {SLUS-00457} <dlconfl> ]
+
+[Infinite On Board Energy]
+Type = Gameshark
+Activation = EndFrame
+80087028 1F00
+
+[Always Play Last Level]
+Type = Gameshark
+Activation = EndFrame
+8010CF28 0031
+
+[Enable Extra Menu]
+Type = Gameshark
+Activation = EndFrame
+80069DB4 0004
+
+[High Durability]
+Type = Gameshark
+Activation = EndFrame
+8010E564 0000
+

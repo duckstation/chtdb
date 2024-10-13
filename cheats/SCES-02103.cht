@@ -1,0 +1,82 @@
+; CHTDB: ; [ Shadow Madness (Spain) {SCES-02103 | SCES-12103} ]
+
+[1Er Item Infinito]
+Type = Gameshark
+Activation = EndFrame
+800AD91E 0063
+
+[99 Pocion Eter 1Er PosicióN]
+Type = Gameshark
+Activation = EndFrame
+800ADFAE 0063
+
+[99 Resucitar 1Er PosicióN]
+Type = Gameshark
+Activation = EndFrame
+800AE09E 0063
+
+[99 Aceite De Ulk 1Er PosicióN]
+Type = Gameshark
+Activation = EndFrame
+800AE116 0063
+
+[Windleaf Nivel Max.]
+Type = Gameshark
+Activation = EndFrame
+8010E8DC D69C
+
+[Vida Stinger Infinita]
+Type = Gameshark
+Activation = EndFrame
+8010E98E 03E7
+
+[Vida Windleaf Infinita]
+Type = Gameshark
+Activation = EndFrame
+8010E8D4 03E7
+
+[Vida Harv-5 Infinita]
+Type = Gameshark
+Activation = EndFrame
+8010E9CC 03E7
+
+[Magia Windleaf Infinita]
+Type = Gameshark
+Activation = EndFrame
+8010E8D8 03E7
+
+[Vida Xero Infinita]
+Type = Gameshark
+Activation = EndFrame
+8010E950 03E7
+
+[Magia Xero Infinita]
+Type = Gameshark
+Activation = EndFrame
+8010E954 03E7
+
+[Vida Clemett Infinita]
+Type = Gameshark
+Activation = EndFrame
+8010EA0A 03E7
+
+[Magia Clemett Infinita]
+Type = Gameshark
+Activation = EndFrame
+8010EA0E 03E7
+
+[Vida Jirina Infinita]
+Type = Gameshark
+Activation = EndFrame
+8010E912 03E7
+
+[Magia Jirina Infinita]
+Type = Gameshark
+Activation = EndFrame
+8010E916 03E7
+
+[Dinero Infinito]
+Type = Gameshark
+Activation = EndFrame
+800AE789 018B
+

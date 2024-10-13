@@ -1,0 +1,58 @@
+; CHTDB: ; [ Agile Warrior: F-111X (Europe) {SLES-00124} ]
+
+[Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+800D43DC 0064
+
+[Infinite Sidewinders]
+Type = Gameshark
+Activation = EndFrame
+80060F26 0020
+
+[Infinite Rockets]
+Type = Gameshark
+Activation = EndFrame
+80060F28 0020
+
+[Infinite Mavericks]
+Type = Gameshark
+Activation = EndFrame
+80060F2A 0020
+
+[Infinite Napalm]
+Type = Gameshark
+Activation = EndFrame
+80060F2C 0020
+
+[Infinite Bunker Busters]
+Type = Gameshark
+Activation = EndFrame
+80060F2E 0020
+
+[Infinite Cluster Bombs]
+Type = Gameshark
+Activation = EndFrame
+80060F30 0020
+
+[Infinite Fuel Air Explosives]
+Type = Gameshark
+Activation = EndFrame
+80060F32 0020
+
+[Infinite B61 Sram]
+Type = Gameshark
+Activation = EndFrame
+80060F34 0020
+
+[Infinite Amraam]
+Type = Gameshark
+Activation = EndFrame
+80060F36 0020
+
+[Infinite Weapons (.Use this code or the specified Weapon-codes.)]
+Type = Gameshark
+Activation = EndFrame
+50000902 0000
+80060F26 0020
+

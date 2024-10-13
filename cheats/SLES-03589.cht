@@ -1,0 +1,38 @@
+; CHTDB: ; [ Who Wants to Be a Millionaire: 2nd Edition (Europe) {SLES-03589} ]
+
+[P1 Only 2 answers left]
+Type = Gameshark
+Activation = EndFrame
+D007EA14 0000
+3007EA14 0001
+
+[P1 Start with last question]
+Type = Gameshark
+Activation = EndFrame
+D007EA34 0000
+3007EA34 000F
+
+[P1 Telephone hint given]
+Type = Gameshark
+Activation = EndFrame
+D007EA18 0000
+3007EA18 0001
+
+[Infinite Lifelines 50 - 50]
+Type = Gameshark
+Activation = EndFrame
+D007EA20 0001
+3007EA20 0000
+
+[Infinite Lifelines Ask the audience]
+Type = Gameshark
+Activation = EndFrame
+D007EA88 0001
+3007EA88 0000
+
+[Infinite Lifelines Phone a friend]
+Type = Gameshark
+Activation = EndFrame
+D007EA24 0001
+3007EA24 0000
+

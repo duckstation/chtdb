@@ -1,0 +1,17 @@
+; CHTDB: ; [ Tigershark (USA) (1997) (GT Interactive Software) {SLUS-00346} <tigershk> ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80084798 0003
+
+[Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+900BFEF4 00F000F0
+
+[Laser Never Overheats]
+Type = Gameshark
+Activation = EndFrame
+800BFF3A 07D0
+

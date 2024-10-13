@@ -1,0 +1,39 @@
+; CHTDB: ; [ Floating Runner aka Floating Runner: Quest for the 7 Crystals (Europe) {SLES-00453} ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+901081C8 00000000
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80158594 0008
+
+[500 gems]
+Type = Gameshark
+Activation = EndFrame
+80146B74 01F4
+
+[Walk on water]
+Type = Gameshark
+Activation = EndFrame
+8010AD1E 1000
+
+[Survive deep fall]
+Type = Gameshark
+Activation = EndFrame
+8010AF0C 0000
+
+[Play as Cress (Press Select & R1)]
+Type = Gameshark
+Activation = EndFrame
+D0007572 F7FE
+30146B7C 0001
+
+[Play as Lay (Press Select & L1)]
+Type = Gameshark
+Activation = EndFrame
+D0007572 FBFE
+30146B7C 0000
+

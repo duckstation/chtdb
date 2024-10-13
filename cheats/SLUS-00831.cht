@@ -1,0 +1,92 @@
+; CHTDB: ; [ WWF Attitude (USA) (1999) (Acclaim Entertainment) {SLUS-00831} <wwfatt> ]
+
+[Infinite Attribute Points]
+Type = Gameshark
+Activation = EndFrame
+80069950 0000
+
+[0% In Move List]
+Type = Gameshark
+Activation = EndFrame
+800626FC 0000
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+D0038C04 1021
+900EC2A4 00000000
+
+[P2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+D0038C04 1021
+900EE910 00000000
+
+[P3 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+D0038C04 1021
+900F0708 00000000
+
+[P4 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+D0038C04 1021
+900F2500 00000000
+
+[P1 No Energy]
+Type = Gameshark
+Activation = EndFrame
+D0038C04 1021
+900EC2A4 00FF00FF
+
+[P2 No Energy]
+Type = Gameshark
+Activation = EndFrame
+D0038C04 1021
+900EE910 00FF00FF
+
+[P3 No Energy]
+Type = Gameshark
+Activation = EndFrame
+D0038C04 1021
+900F0708 00FF00FF
+
+[P4 No Energy]
+Type = Gameshark
+Activation = EndFrame
+D0038C04 1021
+900F2500 00FF00FF
+
+[Enable Everything]
+Type = Gameshark
+Activation = EndFrame
+900CB338 F00009FF
+900CB33C FFFFAF5C
+
+[Infinite Time Out Of Ring]
+Type = Gameshark
+Activation = EndFrame
+D0038C04 1021
+800EC1A0 0359
+
+[P1 Tie Up Meter Full]
+Type = Gameshark
+Activation = EndFrame
+800EE890 FFFF
+
+[P1 Tie Up Meter Empty]
+Type = Gameshark
+Activation = EndFrame
+800EE890 0000
+
+[P2 Tie Up Meter Full]
+Type = Gameshark
+Activation = EndFrame
+800EC224 FFFF
+
+[P2 Tie Up Meter Empty]
+Type = Gameshark
+Activation = EndFrame
+800EC224 0000
+

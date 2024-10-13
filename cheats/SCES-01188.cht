@@ -1,0 +1,17 @@
+; CHTDB: ; [ Klonoa: Door to Phantomile (Spain) {SCES-01188} ]
+
+[Energia Infinita]
+Type = Gameshark
+Activation = EndFrame
+8010E428 0006
+
+[Tener Todas Las Piezas Del Puzzle]
+Type = Gameshark
+Activation = EndFrame
+8010E426 0006
+
+[Invencible]
+Type = Gameshark
+Activation = EndFrame
+800BF21C 000F
+

@@ -1,0 +1,22 @@
+; CHTDB: ; [ Tekken 2 (Japan) Rev 1 {SLPS-00300} ]
+
+[P1 Invincibility]
+Type = Gameshark
+Activation = EndFrame
+300CF6B6 008B
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800CF6B6 006E
+
+[P2 No Energy]
+Type = Gameshark
+Activation = EndFrame
+800D08BE 0000
+
+[Enable all characters]
+Type = Gameshark
+Activation = EndFrame
+900A2A18 007FFFFF
+

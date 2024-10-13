@@ -1,0 +1,12 @@
+; CHTDB: ; [ Vermin Kids (Jpn) (1996) (Electronic Arts) {SLPS-00558} <verminkd> ]
+
+[Have 1 Alien Only To Clear Stage]
+Type = Gameshark
+Activation = EndFrame
+800C9D34 0001
+
+[Stage Always Cleared]
+Type = Gameshark
+Activation = EndFrame
+800C9D34 0000
+

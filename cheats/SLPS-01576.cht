@@ -1,0 +1,122 @@
+; CHTDB: ; [ Blaze & Blade - Busters (Jpn) (1998) (T&E Soft) {SLPS-01576} <bnbbustr> ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+900F426C 000F423F
+
+[Infinite Bonus]
+Type = Gameshark
+Activation = EndFrame
+80054772 0001
+
+[First Character Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800F4148 270F
+800F414C 270F
+
+[1ST Character Infinite Magic]
+Type = Gameshark
+Activation = EndFrame
+800F414A 270F
+800F414E 270F
+
+[1ST Character Max Level]
+Type = Gameshark
+Activation = EndFrame
+800F4144 0063
+
+[1ST Character Max Exp]
+Type = Gameshark
+Activation = EndFrame
+800F4158 03E7
+
+[Second Character Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800F6148 270F
+800F614C 270F
+
+[2ND Character Infinite Magic]
+Type = Gameshark
+Activation = EndFrame
+800F614A 270F
+800F614E 270F
+
+[2ND Character Max Level]
+Type = Gameshark
+Activation = EndFrame
+800F6144 0063
+
+[2ND Character Max Exp]
+Type = Gameshark
+Activation = EndFrame
+800F6158 03E7
+
+[Third Character Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800F8148 270F
+800F814C 270F
+
+[3RD Character Infinite Magic]
+Type = Gameshark
+Activation = EndFrame
+800F814A 270F
+800F814E 270F
+
+[3RD Character Max Level]
+Type = Gameshark
+Activation = EndFrame
+800F8144 0063
+
+[3RD Character Max Exp]
+Type = Gameshark
+Activation = EndFrame
+800F8158 03E7
+
+[Fourth Character Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800FA148 270F
+800FA14C 270F
+
+[4Rd Character Infinite Magic]
+Type = Gameshark
+Activation = EndFrame
+800FA14A 270F
+800FA14E 270F
+
+[4Rd Character Max Level]
+Type = Gameshark
+Activation = EndFrame
+800FA144 0063
+
+[4Rd Character Max Exp]
+Type = Gameshark
+Activation = EndFrame
+800FA158 03E7
+
+[Fifth Character Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800FC148 270F
+800FC14C 270F
+
+[5TH Character Infinite Magic]
+Type = Gameshark
+Activation = EndFrame
+800FC14A 270F
+800FC14E 270F
+
+[5TH Character Max Level]
+Type = Gameshark
+Activation = EndFrame
+800FC144 0063
+
+[5TH Character Max Exp]
+Type = Gameshark
+Activation = EndFrame
+800FC158 03E7
+

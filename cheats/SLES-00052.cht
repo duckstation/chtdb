@@ -1,0 +1,52 @@
+; CHTDB: ; [ True Pinball (Europe) {SLES-00052} ]
+
+[Infinite Balls]
+Type = Gameshark
+Activation = EndFrame
+80044220 0001
+
+[Shoot Again Always On]
+Type = Gameshark
+Activation = EndFrame
+800442B0 016F
+
+[Infinite Tilt]
+Type = Gameshark
+Activation = EndFrame
+800442CC 0002
+
+[Extreme Sport\255 Extreme Letters On]
+Type = Gameshark
+Activation = EndFrame
+80073262 00FF
+
+[Extreme Sport\255 Speed Ramps]
+Type = Gameshark
+Activation = EndFrame
+80076FAA 00FF
+
+[Extreme Sport\255 Modes On]
+Type = Gameshark
+Activation = EndFrame
+8007843A 00FF
+
+[Extreme Sport\255 Combos On]
+Type = Gameshark
+Activation = EndFrame
+80072E0E 00FF
+
+[Vikings\255 Combos On]
+Type = Gameshark
+Activation = EndFrame
+8007400A 00FF
+
+[Law And Justice\255 Combos On]
+Type = Gameshark
+Activation = EndFrame
+80073322 00FF
+
+[Law And Justice\255 Modes On]
+Type = Gameshark
+Activation = EndFrame
+80073B12 00FF
+

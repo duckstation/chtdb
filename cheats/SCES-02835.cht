@@ -1,0 +1,604 @@
+; CHTDB: ; [ Spyro: Year of the Dragon (Euro, Rev. 1) (2001) (Sony Computer Entertainment Europe) {SCES-02835} <spyro3e> ]
+
+[Have 999 jewels]
+Type = Gameshark
+Activation = EndFrame
+8006F9F8 03E7
+
+[Have 15000 jewels]
+Type = Gameshark
+Activation = EndFrame
+8006F9F8 3A98
+
+[Have 20000 jewels]
+Type = Gameshark
+Activation = EndFrame
+8006F9F8 4e20
+
+[Have all eggs]
+Type = Gameshark
+Activation = EndFrame
+8006F93C 0096
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+A60738A4 00020003
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+A606FA60 00030004
+
+[Moon Jump (Press Up & X)]
+Type = Gameshark
+Activation = EndFrame
+D0074736 BFEF
+3007362D 00A0
+
+[Boarding More Time(Press L1 & L2)]
+Type = Gameshark
+Activation = EndFrame
+D0074736 FAFF
+8018BCD0 2312
+
+[Start With Lots Of Points]
+Type = Gameshark
+Activation = EndFrame
+A618A160 00002710
+
+[Sunrise Spring Worlds Unlocked]
+Type = Gameshark
+Activation = EndFrame
+3007546C 0001
+
+[Sunny Villa Unlocked]
+Type = Gameshark
+Activation = EndFrame
+3007546D 0001
+
+[Cloud Spires Unlocked]
+Type = Gameshark
+Activation = EndFrame
+3007546E 0001
+
+[Molten Crater Unlocked]
+Type = Gameshark
+Activation = EndFrame
+3007546F 0001
+
+[Seashell Shore Unlocked]
+Type = Gameshark
+Activation = EndFrame
+30075470 0001
+
+[Mushroom Speedway Unlocked]
+Type = Gameshark
+Activation = EndFrame
+30075471 0001
+
+[Sheila's Alp Unlocked]
+Type = Gameshark
+Activation = EndFrame
+30075472 0001
+
+[Buzz's Dungeon Unlocked]
+Type = Gameshark
+Activation = EndFrame
+30075473 0001
+
+[Midday Garden Worlds Unlocked]
+Type = Gameshark
+Activation = EndFrame
+30075475 0001
+
+[Icy Peak Unlocked]
+Type = Gameshark
+Activation = EndFrame
+30075476 0001
+
+[Enchanted Towers Unlocked]
+Type = Gameshark
+Activation = EndFrame
+30075477 0001
+
+[Spooky Swamp Unlocked]
+Type = Gameshark
+Activation = EndFrame
+30075478 0001
+
+[Bamboo Terrace Unlocked]
+Type = Gameshark
+Activation = EndFrame
+30075479 0001
+
+[Country Speedway Unlocked]
+Type = Gameshark
+Activation = EndFrame
+3007547A 0001
+
+[Sgt. Byrd's Base Unlocked]
+Type = Gameshark
+Activation = EndFrame
+3007547B 0001
+
+[Spike's Arena Unlocked]
+Type = Gameshark
+Activation = EndFrame
+3007547C 0001
+
+[Evening Lake Worlds Unlocked]
+Type = Gameshark
+Activation = EndFrame
+3007547E 0001
+
+[Frozen Altars Unlocked]
+Type = Gameshark
+Activation = EndFrame
+3007547F 0001
+
+[Last Fleet Unlocked]
+Type = Gameshark
+Activation = EndFrame
+30075480 0001
+
+[Firewords Factory Unlocked]
+Type = Gameshark
+Activation = EndFrame
+30075481 0001
+
+[Charmed Ridge Unlocked]
+Type = Gameshark
+Activation = EndFrame
+30075482 0001
+
+[Honey Speedway Unlocked]
+Type = Gameshark
+Activation = EndFrame
+30075483 0001
+
+[Bentley's Outpost Unlocked]
+Type = Gameshark
+Activation = EndFrame
+30075484 0001
+
+[Scorch's Pit Unlocked]
+Type = Gameshark
+Activation = EndFrame
+30075485 0001
+
+[Midnight Mountain Worlds Unlocked]
+Type = Gameshark
+Activation = EndFrame
+30075487 0001
+
+[Crystal Islands Unlocked]
+Type = Gameshark
+Activation = EndFrame
+30075488 0001
+
+[Desert Ruins Unlocked]
+Type = Gameshark
+Activation = EndFrame
+30075489 0001
+
+[Haunted Tomb Unlocked]
+Type = Gameshark
+Activation = EndFrame
+3007548A 0001
+
+[Dino Mines Unlocked]
+Type = Gameshark
+Activation = EndFrame
+3007548B 0001
+
+[Harbor Speedway Unlocked]
+Type = Gameshark
+Activation = EndFrame
+3007548C 0001
+
+[Agent 9's Lab Unlocked]
+Type = Gameshark
+Activation = EndFrame
+3007548D 0001
+
+[Sorceress's Lair Unlocked]
+Type = Gameshark
+Activation = EndFrame
+3007548E 0001
+
+[Sparx Worlds Unlocked]
+Type = Gameshark
+Activation = EndFrame
+30075474 0001
+
+[Spider Town Unlocked]
+Type = Gameshark
+Activation = EndFrame
+3007547D 0001
+
+[Starfish Reef Unlocked]
+Type = Gameshark
+Activation = EndFrame
+30075486 0001
+
+[Bugbot Factory Unlocked]
+Type = Gameshark
+Activation = EndFrame
+3007548F 0001
+
+[Super Bonus World Unlocked]
+Type = Gameshark
+Activation = EndFrame
+30075490 0001
+
+[Have All Eggs Codes\Sunrise Spring Home]
+Type = Gameshark
+Activation = EndFrame
+300735FC 001F
+
+[Have All Eggs Codes\Sunny Villa]
+Type = Gameshark
+Activation = EndFrame
+300735FD 003F
+
+[Have All Eggs Codes\Cloud Spires]
+Type = Gameshark
+Activation = EndFrame
+300735FE 003F
+
+[Have All Eggs Codes\Molten Crater]
+Type = Gameshark
+Activation = EndFrame
+300735FF 003F
+
+[Have All Eggs Codes\Seashell Shore]
+Type = Gameshark
+Activation = EndFrame
+30073600 003F
+
+[Have All Eggs Codes\Mushroom Speedway]
+Type = Gameshark
+Activation = EndFrame
+30073601 0007
+
+[Have All Eggs Codes\Sheila's Alp]
+Type = Gameshark
+Activation = EndFrame
+30073602 0007
+
+[Have All Eggs Codes\Buzz's Dungeon]
+Type = Gameshark
+Activation = EndFrame
+30073603 0001
+
+[Have All Eggs Codes\Crawdad Farm]
+Type = Gameshark
+Activation = EndFrame
+30073604 0001
+
+[Have All Eggs Codes\Midday Garden Home]
+Type = Gameshark
+Activation = EndFrame
+30073605 001F
+
+[Have All Eggs Codes\Icy Peak]
+Type = Gameshark
+Activation = EndFrame
+30073606 003F
+
+[Have All Eggs Codes\Enchanted Towers]
+Type = Gameshark
+Activation = EndFrame
+30073607 003F
+
+[Have All Eggs Codes\Spooky Swamp]
+Type = Gameshark
+Activation = EndFrame
+30073608 003F
+
+[Have All Eggs Codes\Bamboo Terrace]
+Type = Gameshark
+Activation = EndFrame
+30073609 003F
+
+[Have All Eggs Codes\Country Speedway]
+Type = Gameshark
+Activation = EndFrame
+3007360A 0007
+
+[Have All Eggs Codes\Sgt. Byrd's Base]
+Type = Gameshark
+Activation = EndFrame
+3007360B 0007
+
+[Have All Eggs Codes\Spike's Arena]
+Type = Gameshark
+Activation = EndFrame
+3007360C 0001
+
+[Have All Eggs Codes\Spider Town]
+Type = Gameshark
+Activation = EndFrame
+3007360D 0001
+
+[Have All Eggs Codes\Evening Lake Home]
+Type = Gameshark
+Activation = EndFrame
+3007360E 001F
+
+[Have All Eggs Codes\Frozen Altars]
+Type = Gameshark
+Activation = EndFrame
+3007360F 003F
+
+[Have All Eggs Codes\Last Fleet]
+Type = Gameshark
+Activation = EndFrame
+30073610 003F
+
+[Have All Eggs Codes\Firewords Factory]
+Type = Gameshark
+Activation = EndFrame
+30073611 003F
+
+[Have All Eggs Codes\Charmed Ridge]
+Type = Gameshark
+Activation = EndFrame
+30073612 003F
+
+[Have All Eggs Codes\Honey Speedway]
+Type = Gameshark
+Activation = EndFrame
+30073613 0007
+
+[Have All Eggs Codes\Bentley's Outpost]
+Type = Gameshark
+Activation = EndFrame
+30073614 0007
+
+[Have All Eggs Codes\Scorch's Pit]
+Type = Gameshark
+Activation = EndFrame
+30073615 0001
+
+[Have All Eggs Codes\Starfish Reef]
+Type = Gameshark
+Activation = EndFrame
+30073616 0001
+
+[Have All Eggs Codes\Midnight Mountain Home]
+Type = Gameshark
+Activation = EndFrame
+30073617 003F
+
+[Have All Eggs Codes\Crystal Islands]
+Type = Gameshark
+Activation = EndFrame
+30073618 003F
+
+[Have All Eggs Codes\Desert Ruins]
+Type = Gameshark
+Activation = EndFrame
+30073619 003F
+
+[Have All Eggs Codes\Haunted Tomb]
+Type = Gameshark
+Activation = EndFrame
+3007361A 003F
+
+[Have All Eggs Codes\Dino Mines]
+Type = Gameshark
+Activation = EndFrame
+3007361B 003F
+
+[Have All Eggs Codes\Harbor Speedway]
+Type = Gameshark
+Activation = EndFrame
+3007361C 0007
+
+[Have All Eggs Codes\Agent 9's Lab]
+Type = Gameshark
+Activation = EndFrame
+3007361D 0007
+
+[Have All Eggs Codes\Sorceress' Lair]
+Type = Gameshark
+Activation = EndFrame
+3007361E 0001
+
+[Have All Eggs Codes\Bugbot Factory]
+Type = Gameshark
+Activation = EndFrame
+3007361F 0001
+
+[Have All Eggs Codes\Super Bonus World]
+Type = Gameshark
+Activation = EndFrame
+30073620 0001
+
+[Max Gems Codes\Sunrise Spring Home]
+Type = Gameshark
+Activation = EndFrame
+80074ECC 0190
+
+[Max Gems Codes\Sunny Villa]
+Type = Gameshark
+Activation = EndFrame
+80074ED0 0190
+
+[Max Gems Codes\Cloud Spires]
+Type = Gameshark
+Activation = EndFrame
+80074ED4 0190
+
+[Max Gems Codes\Molten Crater]
+Type = Gameshark
+Activation = EndFrame
+80074ED8 0190
+
+[Max Gems Codes\Seashell Shore]
+Type = Gameshark
+Activation = EndFrame
+80074EDC 0190
+
+[Max Gems Codes\Mushroom Speedway]
+Type = Gameshark
+Activation = EndFrame
+80074EE0 0190
+
+[Max Gems Codes\Sheila's Alp]
+Type = Gameshark
+Activation = EndFrame
+80074EE4 0190
+
+[Max Gems Codes\Buzz's Dungeon]
+Type = Gameshark
+Activation = EndFrame
+80074EE8 0000
+
+[Max Gems Codes\Crawdad Farm]
+Type = Gameshark
+Activation = EndFrame
+80074EEC 00C8
+
+[Max Gems Codes\Midday Garden Home]
+Type = Gameshark
+Activation = EndFrame
+80074EF0 0190
+
+[Max Gems Codes\Icy Peak]
+Type = Gameshark
+Activation = EndFrame
+80074EF4 01F4
+
+[Max Gems Codes\Enchanted Towers]
+Type = Gameshark
+Activation = EndFrame
+80074EF8 01F4
+
+[Max Gems Codes\Spooky Swamp]
+Type = Gameshark
+Activation = EndFrame
+80074EFC 01F4
+
+[Max Gems Codes\Bamboo Terrace]
+Type = Gameshark
+Activation = EndFrame
+80074F00 01F4
+
+[Max Gems Codes\Country Speedway]
+Type = Gameshark
+Activation = EndFrame
+80074F04 0190
+
+[Max Gems Codes\Sgt. Byrd's Base]
+Type = Gameshark
+Activation = EndFrame
+80074F08 01F4
+
+[Max Gems Codes\Spike's Arena]
+Type = Gameshark
+Activation = EndFrame
+80074F0C 0000
+
+[Max Gems Codes\Spider Town]
+Type = Gameshark
+Activation = EndFrame
+80074F10 00C8
+
+[Max Gems Codes\Evening Lake Home]
+Type = Gameshark
+Activation = EndFrame
+80074F14 0190
+
+[Max Gems Codes\Frozen Altars]
+Type = Gameshark
+Activation = EndFrame
+80074F18 0258
+
+[Max Gems Codes\Last Fleet]
+Type = Gameshark
+Activation = EndFrame
+80074F1C 0258
+
+[Max Gems Codes\Firewords Factory]
+Type = Gameshark
+Activation = EndFrame
+80074F20 0258
+
+[Max Gems Codes\Charmed Ridge]
+Type = Gameshark
+Activation = EndFrame
+80074F24 0258
+
+[Max Gems Codes\Honey Speedway]
+Type = Gameshark
+Activation = EndFrame
+80074F28 0190
+
+[Max Gems Codes\Bentley's Outpost]
+Type = Gameshark
+Activation = EndFrame
+80074F2C 0258
+
+[Max Gems Codes\Scorch's Pit]
+Type = Gameshark
+Activation = EndFrame
+80074F30 0000
+
+[Max Gems Codes\Starfish Reef]
+Type = Gameshark
+Activation = EndFrame
+80074F34 00C8
+
+[Max Gems Codes\Midnight Mountain Home]
+Type = Gameshark
+Activation = EndFrame
+80074F38 0190
+
+[Max Gems Codes\Crystal Islands]
+Type = Gameshark
+Activation = EndFrame
+80074F3C 02BC
+
+[Max Gems Codes\Desert Ruins]
+Type = Gameshark
+Activation = EndFrame
+80074F40 02BC
+
+[Max Gems Codes\Haunted Tomb]
+Type = Gameshark
+Activation = EndFrame
+80074F44 02BC
+
+[Max Gems Codes\Dino Mines]
+Type = Gameshark
+Activation = EndFrame
+80074F48 02BC
+
+[Max Gems Codes\Harbor Speedway]
+Type = Gameshark
+Activation = EndFrame
+80074F4C 0190
+
+[Max Gems Codes\Agent 9's Lab]
+Type = Gameshark
+Activation = EndFrame
+80074F50 02BC
+
+[Max Gems Codes\Sorceress' Lair]
+Type = Gameshark
+Activation = EndFrame
+80074F54 0000
+
+[Max Gems Codes\Bugbot Factory]
+Type = Gameshark
+Activation = EndFrame
+80074F58 00C8
+
+[Max Gems Codes\Extra bonus world]
+Type = Gameshark
+Activation = EndFrame
+80074F5C 1388
+

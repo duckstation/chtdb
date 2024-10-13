@@ -1,0 +1,17 @@
+; CHTDB: ; [ Porsche Challenge (Japan) {SIPS-60016} ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800DA334 0608
+
+[Always Place 1st]
+Type = Gameshark
+Activation = EndFrame
+800DA31E 0001
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+800CA178 1222
+

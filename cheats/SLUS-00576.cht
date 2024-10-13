@@ -1,0 +1,227 @@
+; CHTDB: ; [ Crime Killer (USA) (1998) (Interplay Entertainment) {SLUS-00576} <crimekl> ]
+
+[Level Modifier Code (16 Levels 0-F)]
+Type = Gameshark
+Activation = EndFrame
+80120630 000?
+
+[Hitting The Streets\More Time]
+Type = Gameshark
+Activation = EndFrame
+80159D62 0000
+80159D64 0000
+
+[Hitting The Streets\Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+8015AB0C 00FF
+
+[Hitting The Streets\Infinite Shields]
+Type = Gameshark
+Activation = EndFrame
+8015AB10 00FF
+
+[Suburbia\More Time]
+Type = Gameshark
+Activation = EndFrame
+8017B4D2 0000
+8017B4D4 0000
+
+[Suburbia\Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+8017C284 00FF
+
+[Suburbia\Infinite Shields]
+Type = Gameshark
+Activation = EndFrame
+8017C288 00FF
+
+[The Break In\More Time]
+Type = Gameshark
+Activation = EndFrame
+801A991A 0000
+801A991C 0000
+
+[The Break In\Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+801AA784 00FF
+
+[The Break In\Infinite Shields]
+Type = Gameshark
+Activation = EndFrame
+801AA788 00FF
+
+[Rapid Response\More Time]
+Type = Gameshark
+Activation = EndFrame
+8019C06A 0000
+8019C06C 0000
+
+[Rapid Response\Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+8019CE4C 00FF
+
+[Rapid Response\Infinite Shields]
+Type = Gameshark
+Activation = EndFrame
+8019CE50 00FF
+
+[Cult Moves\More Time]
+Type = Gameshark
+Activation = EndFrame
+8019F702 0000
+8019F704 0000
+
+[Cult Moves\Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+801A053C 00FF
+
+[Cult Moves\Infinite Shields]
+Type = Gameshark
+Activation = EndFrame
+801A0540 00FF
+
+[The Kidnap\More Time]
+Type = Gameshark
+Activation = EndFrame
+801AB0AA 0000
+801AB0AC 0000
+
+[The Kidnap\Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+801ABED4 00FF
+
+[The Kidnap\Infinite Shields]
+Type = Gameshark
+Activation = EndFrame
+801ABED8 00FF
+
+[Family\More Time]
+Type = Gameshark
+Activation = EndFrame
+801A80DC 0000
+801A80E0 0000
+
+[Family\Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+801A8EFC 00FF
+
+[Family\Infinite Shields]
+Type = Gameshark
+Activation = EndFrame
+801A8F00 00FF
+
+[Police Hijack\More Time]
+Type = Gameshark
+Activation = EndFrame
+8019CCFE 0000
+8019CD00 0000
+
+[Police Hijack\Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+8019DAEC 00FF
+
+[Police Hijack\Infinite Shields]
+Type = Gameshark
+Activation = EndFrame
+8019DAF0 00FF
+
+[The Rescue\More Time]
+Type = Gameshark
+Activation = EndFrame
+801994EE 0000
+801994F0 0000
+
+[The Rescue\Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+8019A33C 00FF
+
+[The Rescue\Infinite Shields]
+Type = Gameshark
+Activation = EndFrame
+8019A340 00FF
+
+[Static\More Time]
+Type = Gameshark
+Activation = EndFrame
+801A6B8A 0000
+801A6B8C 0000
+
+[Static\Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+801A7A3C 00FF
+
+[Static\Infinite Shields]
+Type = Gameshark
+Activation = EndFrame
+801A7A40 00FF
+
+[Use Of Force\More Time]
+Type = Gameshark
+Activation = EndFrame
+801A06E6 0000
+801A06E8 0000
+
+[Use Of Force\Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+801A14BC 00FF
+
+[Use Of Force\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801A14C0 00FF
+
+[The Deadline\More Time]
+Type = Gameshark
+Activation = EndFrame
+801A2062 0000
+801A2064 0000
+
+[The Deadline\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801A2E08 00FF
+
+[M.E.\More Time]
+Type = Gameshark
+Activation = EndFrame
+801AB1F6 0000
+801AB1F8 0000
+
+[M.E.\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801AC068 00FF
+
+[Freeway Racers\More Time]
+Type = Gameshark
+Activation = EndFrame
+8015486E 0000
+80154870 0000
+
+[Freeway Racers\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801555F0 00FF
+
+[Revelation\More Time]
+Type = Gameshark
+Activation = EndFrame
+801A3FC6 0000
+801A3FC8 0000
+
+[Revelation\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801A4E30 00FF
+

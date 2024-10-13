@@ -1,0 +1,67 @@
+; CHTDB: ; [ OverBlood 2 (Japan) {SLPS-01261 | SLPS-01262} ]
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+801BF49C 0B40
+8004AFE2 0040
+
+[Infinite CP]
+Type = Gameshark
+Activation = EndFrame
+801BF4A0 04B0
+80056CBC 0000
+
+[Gun]
+Type = Gameshark
+Activation = EndFrame
+801BF61E 0009
+
+[All Recovery Items]
+Type = Gameshark
+Activation = EndFrame
+801BF638 000B
+801BF644 000C
+801BF650 000D
+801BF63A 0001
+801BF646 0001
+801BF652 0001
+801BF63C 0063
+801BF648 0063
+801BF654 0063
+
+[Kill Enemy Fast]
+Type = Gameshark
+Activation = EndFrame
+80044FAE 0000
+
+[Infinite Bullets]
+Type = Gameshark
+Activation = EndFrame
+8006F3F6 8482
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A71F0F80 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A71F0F80 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A71F0F80 10000400
+
+[Widescreen 16-9 (Optional Extra)]
+Type = Gameshark
+Activation = EndFrame
+A71F0FC0 10000C00
+
+[Dither Off]
+Type = Gameshark
+Activation = EndFrame
+A7088048 02000000
+

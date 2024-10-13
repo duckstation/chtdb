@@ -1,0 +1,42 @@
+; CHTDB: ; [ Ore no Ryouri (Jpn) (1999) (SCEI) {SCPS-10099} <oreryuri> ]
+
+[Instant Clear 12000 points]
+Type = Gameshark
+Activation = EndFrame
+801D3244 2EE0
+
+[Press R1, Instant Clear 12000 points]
+Type = Gameshark
+Activation = EndFrame
+D0089E24 0001
+801D3244 2EE0
+
+[Press R1, Instant Clear 06000 points]
+Type = Gameshark
+Activation = EndFrame
+D0089E24 0001
+801D3244 1770
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+50000658 0000
+801D339A 09C4
+
+[No Ojamas]
+Type = Gameshark
+Activation = EndFrame
+50000658 0000
+801D3380 0006
+
+[Press L2 to Clear Stage]
+Type = Gameshark
+Activation = EndFrame
+E0089E24 0001
+801D3244 1770
+
+[Unlock All Stages]
+Type = Gameshark
+Activation = EndFrame
+80093AE8 01FF
+

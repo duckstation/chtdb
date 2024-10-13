@@ -1,0 +1,45 @@
+; CHTDB: ; [ Mass Destruction (USA) (1997) (ASC Games) {SLUS-00462} <massdest> ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800AC370 0FA0
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800791B4 0000
+
+[Infinite Hi-Explosive Shells]
+Type = Gameshark
+Activation = EndFrame
+900A8018 0001270F
+
+[Infinite Mortar Shells]
+Type = Gameshark
+Activation = EndFrame
+800A801E 270F
+800A8020 0001
+
+[Infinite Mines]
+Type = Gameshark
+Activation = EndFrame
+900A8024 0001270F
+
+[Infinite Torus Bombs]
+Type = Gameshark
+Activation = EndFrame
+800A802A 270F
+800A802C 0001
+
+[Infinite Flame Thrower]
+Type = Gameshark
+Activation = EndFrame
+900A8030 270F270F
+
+[Infinite Guided Missiles]
+Type = Gameshark
+Activation = EndFrame
+800A8036 270F
+800A8038 0001
+

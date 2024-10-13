@@ -1,0 +1,28 @@
+; CHTDB: ; [ Ichigeki - Hagane no Hito (Jpn) (1999) (Bandai) {SLPS-02199} <ichigeki> ]
+
+[Total player appearance]
+Type = Gameshark
+Activation = EndFrame
+3007A2CA 000F
+
+[Quotations fully open]
+Type = Gameshark
+Activation = EndFrame
+8007A2C4 FFFF
+
+[Training mode parameter MAX]
+Type = Gameshark
+Activation = EndFrame
+80045460 0001
+
+[CPU fight without]
+Type = Gameshark
+Activation = EndFrame
+D00BBE70 0003
+800BBE72 1000
+
+[One-shot KO]
+Type = Gameshark
+Activation = EndFrame
+A609F2D0 00020001
+

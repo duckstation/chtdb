@@ -1,0 +1,88 @@
+; CHTDB: ; [ Dead or Alive (Japan) {SLPS-01289} ]
+
+[P1 Infinite Life]
+Type = Gameshark
+Activation = EndFrame
+80093860 00C8
+
+[P2 Infinite Life]
+Type = Gameshark
+Activation = EndFrame
+800938B8 00C8
+
+[Life 0 of 2P side in the SELECT button]
+Type = Gameshark
+Activation = EndFrame
+D008E010 0100
+800938B8 0000
+
+[Time 00.00.00]
+Type = Gameshark
+Activation = EndFrame
+80092B88 0000
+
+[Extra Config]
+Type = Gameshark
+Activation = EndFrame
+80092912 7F40
+
+[Last Stage]
+Type = Gameshark
+Activation = EndFrame
+80085A9A 000A
+
+[Motion Mode]
+Type = Gameshark
+Activation = EndFrame
+300938F8 0001
+
+[Unlock Raidou]
+Type = Gameshark
+Activation = EndFrame
+30192900 0001
+
+[Unlock Ayane]
+Type = Gameshark
+Activation = EndFrame
+30192901 0001
+
+[Unlock Extra Voices]
+Type = Gameshark
+Activation = EndFrame
+90092BC8 00010001
+90092BCC 00010001
+90092BD0 00010001
+90092BD4 00010001
+90092BD8 00010001
+80092BDC 0001
+
+[Unlock Extra Costumes]
+Type = Gameshark
+Activation = EndFrame
+30092BBC 0005
+30092BBD 000E
+30092BBE 0005
+30092BBF 0005
+30092BC0 000E
+30092BC1 0005
+30092BC2 0005
+30092BC3 000E
+30092BC4 0005
+30092BC5 000E
+80092BC6 000E
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A7049EC0 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A7049EC0 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A7049EC0 10000400
+

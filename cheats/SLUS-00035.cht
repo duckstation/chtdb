@@ -1,0 +1,59 @@
+; CHTDB: ; [ Road Rash (USA) (1995) (Electronic Arts) {SLUS-00035} <roadrash> ]
+
+[Infinite Nitro's]
+Type = Gameshark
+Activation = EndFrame
+800837EC 000A
+
+[Infinite Bike Energy]
+Type = Gameshark
+Activation = EndFrame
+801DD048 0080
+
+[Infinite Energy For Yourself]
+Type = Gameshark
+Activation = EndFrame
+800831C0 0BB0
+
+[All Tracks Qualified]
+Type = Gameshark
+Activation = EndFrame
+800DAD3C 001F
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+90023180 00000000
+900231C4 00000000
+900231C8 00000000
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+900DAD40 0098967F
+
+[Select Starting Level\1]
+Type = Gameshark
+Activation = EndFrame
+A60DAD3A 00000000
+
+[Select Starting Level\2]
+Type = Gameshark
+Activation = EndFrame
+A60DAD3A 00000100
+
+[Select Starting Level\3]
+Type = Gameshark
+Activation = EndFrame
+A60DAD3A 00000200
+
+[Select Starting Level\4]
+Type = Gameshark
+Activation = EndFrame
+A60DAD3A 00000300
+
+[Select Starting Level\5]
+Type = Gameshark
+Activation = EndFrame
+A60DAD3A 00000400
+

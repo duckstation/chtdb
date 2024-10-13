@@ -1,0 +1,616 @@
+; CHTDB: ; [ RC Revenge (Europe) {SLES-02824} ]
+
+[Max Points To Win Championships]
+Type = Gameshark
+Activation = EndFrame
+D00BD000 000C
+300BD002 0040
+D10BD000 000C
+300BD002 0000
+
+[Quick Finish/Best Lap Time The race will be over as soon as you cross the line, but you will not be first. So use the max points codes to win the championships. In time-trials cross the line, then quit to have best time.]
+Type = Gameshark
+Activation = EndFrame
+D00194DC 0001
+300194DC 0004
+
+[Unlocked\Silver Cup]
+Type = Gameshark
+Activation = EndFrame
+D01A0190 0060
+301A0190 0000
+
+[Unlocked\Gold Cup]
+Type = Gameshark
+Activation = EndFrame
+D01A0130 0060
+301A0130 0000
+
+[Unlocked\Platinum Cup]
+Type = Gameshark
+Activation = EndFrame
+D01A00D8 0060
+301A00D8 0000
+
+[Unlocked\Bronze Reverse Cup]
+Type = Gameshark
+Activation = EndFrame
+D01A0074 0060
+301A0074 0000
+
+[Unlocked\Silver Reverse Cup]
+Type = Gameshark
+Activation = EndFrame
+D019FFF4 0060
+3019FFF4 0000
+
+[Unlocked\Gold Reverse Cup]
+Type = Gameshark
+Activation = EndFrame
+D019FF74 0060
+3019FF74 0000
+
+[Unlocked\Platinum Reverse Cup]
+Type = Gameshark
+Activation = EndFrame
+D019FEF8 0060
+3019FEF8 0000
+
+[Unlocked\Jungle Ranger]
+Type = Gameshark
+Activation = EndFrame
+300BD634 0001
+
+[Unlocked\Sarge]
+Type = Gameshark
+Activation = EndFrame
+300BD6C4 0001
+
+[Unlocked\Yella]
+Type = Gameshark
+Activation = EndFrame
+300BD70C 0001
+
+[Unlocked\Skull Duggery]
+Type = Gameshark
+Activation = EndFrame
+300BD6E8 0001
+
+[Unlocked\Ufo]
+Type = Gameshark
+Activation = EndFrame
+300BD730 0001
+
+[Unlocked\Concept 3000]
+Type = Gameshark
+Activation = EndFrame
+300BD5A4 0001
+
+[Unlocked\Bronze Won, Silver Unlocked]
+Type = Gameshark
+Activation = EndFrame
+300BD950 0001
+
+[Unlocked\Silver Won, Gold & Jungle Ranger Unlocked]
+Type = Gameshark
+Activation = EndFrame
+300BD950 0002
+
+[Unlocked\Gold Won, Platin Unlocked]
+Type = Gameshark
+Activation = EndFrame
+300BD950 0003
+
+[Unlocked\Platin Won, Bronze (R) & Yella Unlocked]
+Type = Gameshark
+Activation = EndFrame
+300BD950 0004
+
+[Unlocked\Bronze (R) Won, Silver (R) Unlocked]
+Type = Gameshark
+Activation = EndFrame
+300BD950 0005
+
+[Unlocked\Silver (R) Won, Gold (R) & Sarge Unlocked]
+Type = Gameshark
+Activation = EndFrame
+300BD950 0006
+
+[Unlocked\Gold (R) Won, Platin (R) Unlocked]
+Type = Gameshark
+Activation = EndFrame
+300BD950 0007
+
+[Track Codes\All Tracks Unlocked]
+Type = Gameshark
+Activation = EndFrame
+50001501 0000
+300BDFFF 000F
+
+[Horror World\Trials From The Crypt\Reverse Mode]
+Type = Gameshark
+Activation = EndFrame
+300BDFFF 0003
+
+[Horror World\Trials From The Crypt\Mirror Mode]
+Type = Gameshark
+Activation = EndFrame
+300BDFFF 0007
+
+[Horror World\I Know What You Drove Last Summer\Unlocked]
+Type = Gameshark
+Activation = EndFrame
+300BE004 0001
+
+[Horror World\I Know What You Drove Last Summer\Reverse Mode]
+Type = Gameshark
+Activation = EndFrame
+300BE004 0003
+
+[Horror World\I Know What You Drove Last Summer\Mirror Mode]
+Type = Gameshark
+Activation = EndFrame
+300BE004 0007
+
+[Horror World\Trials From The Crypt - The Director's Cut\Unlocked]
+Type = Gameshark
+Activation = EndFrame
+300BE009 0001
+
+[Horror World\Trials From The Crypt - The Director's Cut\Reverse Mode]
+Type = Gameshark
+Activation = EndFrame
+300BE009 0003
+
+[Horror World\Trials From The Crypt - The Director's Cut\Mirror Mode]
+Type = Gameshark
+Activation = EndFrame
+300BE009 0007
+
+[Horror World\I Still Know What You Drove Last Summer\Unlocked]
+Type = Gameshark
+Activation = EndFrame
+300BE00E 0001
+
+[Horror World\I Still Know What You Drove Last Summer\Reverse Mode]
+Type = Gameshark
+Activation = EndFrame
+300BE00E 0003
+
+[Horror World\I Still Know What You Drove Last Summer\Mirror Mode]
+Type = Gameshark
+Activation = EndFrame
+300BE00E 0007
+
+[Planet Adventure\Cars Attacks!\Reverse Mode]
+Type = Gameshark
+Activation = EndFrame
+300BE000 0003
+
+[Planet Adventure\Cars Attacks!\Mirror Mode]
+Type = Gameshark
+Activation = EndFrame
+300BE000 0007
+
+[Planet Adventure\20.01 A Space Odd Rc\Unlocked]
+Type = Gameshark
+Activation = EndFrame
+300BE005 0001
+
+[Planet Adventure\20.01 A Space Odd Rc\Reverse Mode]
+Type = Gameshark
+Activation = EndFrame
+300BE005 0003
+
+[Planet Adventure\20.01 A Space Odd Rc\Mirror Mode]
+Type = Gameshark
+Activation = EndFrame
+300BE005 0007
+
+[Planet Adventure\Cars Attacks! Again!\Unlocked]
+Type = Gameshark
+Activation = EndFrame
+300BE00A 0001
+
+[Planet Adventure\Cars Attacks! Again!\Reverse Mode]
+Type = Gameshark
+Activation = EndFrame
+300BE00A 0003
+
+[Planet Adventure\Cars Attacks! Again!\Mirror Mode]
+Type = Gameshark
+Activation = EndFrame
+300BE00A 0007
+
+[Planet Adventure\20.01 A Space Odd Rc - Digitally Remastered\Unlocked]
+Type = Gameshark
+Activation = EndFrame
+300BE00F 0001
+
+[Planet Adventure\20.01 A Space Odd Rc - Digitally Remastered\Reverse Mode]
+Type = Gameshark
+Activation = EndFrame
+300BE00F 0003
+
+[Planet Adventure\20.01 A Space Odd Rc - Digitally Remastered\Mirror Mode]
+Type = Gameshark
+Activation = EndFrame
+300BE00F 0007
+
+[Jungle World\Tempel Of Vroom\Reverse Mode]
+Type = Gameshark
+Activation = EndFrame
+300BE001 0003
+
+[Jungle World\Tempel Of Vroom\Mirror Mode]
+Type = Gameshark
+Activation = EndFrame
+300BE001 0007
+
+[Jungle World\Racers Of The Lost Park\Unlocked]
+Type = Gameshark
+Activation = EndFrame
+300BE006 0001
+
+[Jungle World\Racers Of The Lost Park\Reverse Mode]
+Type = Gameshark
+Activation = EndFrame
+300BE006 0003
+
+[Jungle World\Racers Of The Lost Park\Mirror Mode]
+Type = Gameshark
+Activation = EndFrame
+300BE006 0007
+
+[Jungle World\Tempel Of Vroom - The Awakening\Unlocked]
+Type = Gameshark
+Activation = EndFrame
+300BE00B 0001
+
+[Jungle World\Tempel Of Vroom - The Awakening\Reverse Mode]
+Type = Gameshark
+Activation = EndFrame
+300BE00B 0003
+
+[Jungle World\Tempel Of Vroom - The Awakening\Mirror Mode]
+Type = Gameshark
+Activation = EndFrame
+300BE00B 0007
+
+[Jungle World\Racers Of The Lost Park - Collector's Edition\Unlocked]
+Type = Gameshark
+Activation = EndFrame
+300BE010 0001
+
+[Jungle World\Racers Of The Lost Park - Collector's Edition\Reverse Mode]
+Type = Gameshark
+Activation = EndFrame
+300BE010 0003
+
+[Jungle World\Racers Of The Lost Park - Collector's Edition\Mirror Mode]
+Type = Gameshark
+Activation = EndFrame
+300BE010 0007
+
+[Aklm Studios\Hilltop Hairpins\Reverse Mode]
+Type = Gameshark
+Activation = EndFrame
+300BE002 0003
+
+[Aklm Studios\Hilltop Hairpins\Mirror Mode]
+Type = Gameshark
+Activation = EndFrame
+300BE002 0007
+
+[Aklm Studios\Calamity Canyon\Unlocked]
+Type = Gameshark
+Activation = EndFrame
+300BE007 0001
+
+[Aklm Studios\Calamity Canyon\Reverse Mode]
+Type = Gameshark
+Activation = EndFrame
+300BE007 0003
+
+[Aklm Studios\Calamity Canyon\Mirror Mode]
+Type = Gameshark
+Activation = EndFrame
+300BE007 0007
+
+[Aklm Studios\Hilltop Hairpins - The Special Edition\Unlocked]
+Type = Gameshark
+Activation = EndFrame
+300BE00A 0001
+
+[Aklm Studios\Hilltop Hairpins - The Special Edition\Reverse Mode]
+Type = Gameshark
+Activation = EndFrame
+300BE00C 0003
+
+[Aklm Studios\Hilltop Hairpins - The Special Edition\Mirror Mode]
+Type = Gameshark
+Activation = EndFrame
+300BE00C 0007
+
+[Aklm Studios\Calamity Canyon - Live And Dangerous\Unlocked]
+Type = Gameshark
+Activation = EndFrame
+300BE011 0001
+
+[Aklm Studios\Calamity Canyon - Live And Dangerous\Reverse Mode]
+Type = Gameshark
+Activation = EndFrame
+300BE011 0003
+
+[Aklm Studios\Calamity Canyon - Live And Dangerous\Mirror Mode]
+Type = Gameshark
+Activation = EndFrame
+300BE011 0007
+
+[Monster World\It Came To Have A Race\Reverse Mode]
+Type = Gameshark
+Activation = EndFrame
+300BE003 0003
+
+[Monster World\It Came To Have A Race\Mirror Mode]
+Type = Gameshark
+Activation = EndFrame
+300BE003 0007
+
+[Monster World\Attack Of The Killer Toy Motors\Unlocked]
+Type = Gameshark
+Activation = EndFrame
+300BE008 0001
+
+[Monster World\Attack Of The Killer Toy Motors\Reverse Mode]
+Type = Gameshark
+Activation = EndFrame
+300BE008 0003
+
+[Monster World\Attack Of The Killer Toy Motors\Mirror Mode]
+Type = Gameshark
+Activation = EndFrame
+300BE008 0007
+
+[Monster World\It Returned To Have Another Race\Unlocked]
+Type = Gameshark
+Activation = EndFrame
+300BE00D 0001
+
+[Monster World\It Returned To Have Another Race\Reverse Mode]
+Type = Gameshark
+Activation = EndFrame
+300BE00D 0003
+
+[Monster World\It Returned To Have Another Race\Mirror Mode]
+Type = Gameshark
+Activation = EndFrame
+300BE00D 0007
+
+[Monster World\Return Of The Killer Toy Motors\Unlocked]
+Type = Gameshark
+Activation = EndFrame
+300BE012 0001
+
+[Monster World\Return Of The Killer Toy Motors\Reverse Mode]
+Type = Gameshark
+Activation = EndFrame
+300BE012 0003
+
+[Monster World\Return Of The Killer Toy Motors\Mirror Mode]
+Type = Gameshark
+Activation = EndFrame
+300BE012 0007
+
+[Track Codes\Time Trials - Best Times\All Normal Tracks]
+Type = Gameshark
+Activation = EndFrame
+50001404 0000
+800BD8B0 1000
+
+[Track Codes\Time Trials - Best Times\All Reverse Tracks]
+Type = Gameshark
+Activation = EndFrame
+50001404 0000
+800BD900 1000
+
+[Track Codes\Trials From The Crypt\Normal]
+Type = Gameshark
+Activation = EndFrame
+800BD8B0 1000
+
+[Track Codes\Trials From The Crypt\Reverse]
+Type = Gameshark
+Activation = EndFrame
+800BD900 1000
+
+[Track Codes\Cars Attacks!\Normal]
+Type = Gameshark
+Activation = EndFrame
+800BD8B4 1000
+
+[Track Codes\Cars Attacks!\Reverse]
+Type = Gameshark
+Activation = EndFrame
+800BD904 1000
+
+[Track Codes\Tempel Of Vroom\Normal]
+Type = Gameshark
+Activation = EndFrame
+800BD8B8 1000
+
+[Track Codes\Tempel Of Vroom\Reverse]
+Type = Gameshark
+Activation = EndFrame
+800BD908 1000
+
+[Track Codes\Hilltop Hairpins\Normal]
+Type = Gameshark
+Activation = EndFrame
+800BD8BC 1000
+
+[Track Codes\Hilltop Hairpins\Reverse]
+Type = Gameshark
+Activation = EndFrame
+800BD90C 1000
+
+[Track Codes\It Came To Have A Race\Normal]
+Type = Gameshark
+Activation = EndFrame
+800BD8C0 1000
+
+[Track Codes\It Came To Have A Race\Reverse]
+Type = Gameshark
+Activation = EndFrame
+800BD910 1000
+
+[Track Codes\I Know What You Drove Last Summer\Normal]
+Type = Gameshark
+Activation = EndFrame
+800BD8C4 1000
+
+[Track Codes\I Know What You Drove Last Summer\Reverse]
+Type = Gameshark
+Activation = EndFrame
+800BD914 1000
+
+[Track Codes\20.01 A Space Odd Rc\Normal]
+Type = Gameshark
+Activation = EndFrame
+800BD8C8 1000
+
+[Track Codes\20.01 A Space Odd Rc\Reverse]
+Type = Gameshark
+Activation = EndFrame
+800BD918 1000
+
+[Track Codes\Racers Of The Lost Park\Normal]
+Type = Gameshark
+Activation = EndFrame
+800BD8CC 1000
+
+[Track Codes\Racers Of The Lost Park\Reverse]
+Type = Gameshark
+Activation = EndFrame
+800BD91C 1000
+
+[Track Codes\Calamity Canyon\Normal]
+Type = Gameshark
+Activation = EndFrame
+800BD8D0 1000
+
+[Track Codes\Calamity Canyon\Reverse]
+Type = Gameshark
+Activation = EndFrame
+800BD920 1000
+
+[Track Codes\Attack Of The Killer Toy Motors\Normal]
+Type = Gameshark
+Activation = EndFrame
+800BD8D4 1000
+
+[Track Codes\Attack Of The Killer Toy Motors\Reverse]
+Type = Gameshark
+Activation = EndFrame
+800BD924 1000
+
+[Track Codes\Trials From The Crypt - The Director's Cut\Normal]
+Type = Gameshark
+Activation = EndFrame
+800BD8D8 1000
+
+[Track Codes\Trials From The Crypt - The Director's Cut\Reverse]
+Type = Gameshark
+Activation = EndFrame
+800BD928 1000
+
+[Track Codes\Cars Attacks! - Again!\Normal]
+Type = Gameshark
+Activation = EndFrame
+800BD8DC 1000
+
+[Track Codes\Cars Attacks! - Again!\Reverse]
+Type = Gameshark
+Activation = EndFrame
+800BD92C 1000
+
+[Track Codes\Tempel Of Vroom - The Awakening\Normal]
+Type = Gameshark
+Activation = EndFrame
+800BD8E0 1000
+
+[Track Codes\Tempel Of Vroom - The Awakening\Reverse]
+Type = Gameshark
+Activation = EndFrame
+800BD930 1000
+
+[Track Codes\Hilltop Hairpins - The Special Edition\Normal]
+Type = Gameshark
+Activation = EndFrame
+800BD8E4 1000
+
+[Track Codes\Hilltop Hairpins - The Special Edition\Reverse]
+Type = Gameshark
+Activation = EndFrame
+800BD934 1000
+
+[Track Codes\It Returned To Have Another Race\Normal]
+Type = Gameshark
+Activation = EndFrame
+800BD8E8 1000
+
+[Track Codes\It Returned To Have Another Race\Reverse]
+Type = Gameshark
+Activation = EndFrame
+800BD938 1000
+
+[Track Codes\I Still Know What You Drove Last Summer\Normal]
+Type = Gameshark
+Activation = EndFrame
+800BD8EC 1000
+
+[Track Codes\I Still Know What You Drove Last Summer\Reverse]
+Type = Gameshark
+Activation = EndFrame
+800BD93C 1000
+
+[Track Codes\20.01 A Space Odd Rc - Digitally Remastered\Normal]
+Type = Gameshark
+Activation = EndFrame
+800BD8F0 1000
+
+[Track Codes\20.01 A Space Odd Rc - Digitally Remastered\Reverse]
+Type = Gameshark
+Activation = EndFrame
+800BD940 1000
+
+[Track Codes\Racers Of The Lost Park - Collector's Edition\Normal]
+Type = Gameshark
+Activation = EndFrame
+800BD8F4 1000
+
+[Track Codes\Racers Of The Lost Park - Collector's Edition\Reverse]
+Type = Gameshark
+Activation = EndFrame
+800BD944 1000
+
+[Track Codes\Calamity Canyon - Live And Dangerous\Normal]
+Type = Gameshark
+Activation = EndFrame
+800BD8F8 1000
+
+[Track Codes\Calamity Canyon - Live And Dangerous\Reverse]
+Type = Gameshark
+Activation = EndFrame
+800BD948 1000
+
+[Track Codes\Return Of The Killer Toy Motors\Normal]
+Type = Gameshark
+Activation = EndFrame
+800BD8FC 1000
+
+[Track Codes\Return Of The Killer Toy Motors\Reverse]
+Type = Gameshark
+Activation = EndFrame
+800BD94C 1000
+

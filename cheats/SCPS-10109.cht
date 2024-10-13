@@ -1,0 +1,52 @@
+; CHTDB: ; [ Chase the Express (Japan, Asia) {SCPS-10109 | SCPS-10110} ]
+
+[Unlock Protect]
+Type = Gameshark
+Activation = EndFrame
+A70EA6DE 10401000
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+80010402 1000
+
+[Start Game Have Special Gun]
+Type = Gameshark
+Activation = EndFrame
+3001045D 0033
+3001045F 0036
+30010461 0002
+30010463 002E
+
+[Infinite Health Pack]
+Type = Gameshark
+Activation = EndFrame
+80010464 00FF
+
+[Infinite Number of bullets Please re-start after you save, once you have loaded data, Infinite Bullets!]
+Type = Gameshark
+Activation = EndFrame
+900103D4 FFFFFFF0
+
+[All Files]
+Type = Gameshark
+Activation = EndFrame
+50001C02 0101
+8001088C 1D01
+
+[Christina Use to save on]
+Type = Gameshark
+Activation = EndFrame
+30010405 0001
+
+[Special MOVIE TEST / SOUND TEST (L1 + L2)]
+Type = Gameshark
+Activation = EndFrame
+D00DDFDA FAFF
+301B21DC 0003
+
+[Special MOVIE TEST / SOUND TEST]
+Type = Gameshark
+Activation = EndFrame
+301B21DC 0003
+

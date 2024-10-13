@@ -1,0 +1,63 @@
+; CHTDB: ; [ Hikaru no Go - Heian Gensou Ibunroku (Jpn) (2002) (Konami) {SLPM-87059 (VX262-J1)} <hikaruhg> ]
+
+[Fujiwara Gyoyo-ha Balls 0 Maybe deactivate after using]
+Type = Gameshark
+Activation = EndFrame
+300A7764 0000
+
+[Fujiwara Gyoyo-ha Balls 20]
+Type = Gameshark
+Activation = EndFrame
+300A7764 0014
+
+[Zama Nagafusa school Balls 0]
+Type = Gameshark
+Activation = EndFrame
+300A7765 0000
+
+[Zama Nagafusa school Balls 20]
+Type = Gameshark
+Activation = EndFrame
+300A7765 0014
+
+[Kiryoku of Light Balls 0]
+Type = Gameshark
+Activation = EndFrame
+300A7763 0000
+
+[Kiryoku of Light Balls 20]
+Type = Gameshark
+Activation = EndFrame
+300A7763 0014
+
+[Free Mode all characters selectables]
+Type = Gameshark
+Activation = EndFrame
+C005A020 0125
+8005A042 A064
+8005A04A 1000
+00000000 FFFF
+
+[It can be viewed without picture scroll clear data. save data is required you can view all CG.]
+Type = Gameshark
+Activation = EndFrame
+C005E9D8 0046
+900496E4 24020001
+8005E9DA 1000
+00000000 FFFF
+
+[99 copies get your check marks all Gough]
+Type = Gameshark
+Activation = EndFrame
+50001002 0000
+800A776A 6363
+300A778A 0063
+
+[Picture scroll fully open Maybe save game needed]
+Type = Gameshark
+Activation = EndFrame
+50001F02 0000
+800A8EB2 0101
+300A8EB1 0001
+300A8EF0 0001
+

@@ -1,0 +1,94 @@
+; CHTDB: ; [ 40 Winks (USA) (1999) (GT Interactive Software) {SLUS-00874} <40winks> ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+A7013352 A4622400
+
+[Infinite Zzzs (Energy)]
+Type = Gameshark
+Activation = EndFrame
+A701326E A6822400
+
+[Infinite Air]
+Type = Gameshark
+Activation = EndFrame
+A702B8CE A6622400
+
+[Infinite Moons]
+Type = Gameshark
+Activation = EndFrame
+A703280E A4822400
+
+[Infinite Costume Time]
+Type = Gameshark
+Activation = EndFrame
+A702C452 A6A42400
+
+[Infinite Cogs]
+Type = Gameshark
+Activation = EndFrame
+800B06AA 0064
+
+[Have All Dreamkeys]
+Type = Gameshark
+Activation = EndFrame
+50000C02 0000
+8009059C FFFF
+
+[All Levels Unlocked]
+Type = Gameshark
+Activation = EndFrame
+50000202 0000
+80090596 FFFF
+
+[Have All Winks]
+Type = Gameshark
+Activation = EndFrame
+50000302 0000
+8009058C FFFF
+
+[Big Head Mode]
+Type = Gameshark
+Activation = EndFrame
+8008E2DC 0100
+
+[Invincibility]
+Description = You will need to turn it off to hit levers, so assign a hotkey to it
+Type = Gameshark
+Activation = EndFrame
+A702F272 04411000
+A702C21A 10A01000
+A702EA26 16871000
+
+[Fall from Height Safely]
+Type = Gameshark
+Activation = EndFrame
+A702A8DA 10401000
+
+[Walk on Lava]
+Type = Gameshark
+Activation = EndFrame
+A702DE2A 10401000
+
+[Multi-Jump]
+Type = Gameshark
+Activation = EndFrame
+A702B312 10401400
+
+[One Hit Kills]
+Type = Gameshark
+Activation = EndFrame
+A702DB86 04411400
+
+[Collect Anywhere]
+Type = Gameshark
+Activation = EndFrame
+A702E946 04411400
+A702E922 10401400
+
+[Faster FPS]
+Type = Gameshark
+Activation = EndFrame
+A7057A54 00020001
+

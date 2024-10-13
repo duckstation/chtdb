@@ -1,0 +1,39 @@
+; CHTDB: ; [ Rescue Shot Bubibo (Japan) {SLPS-02555} ]
+
+[Infinite Lives (Hbp)]
+Type = Gameshark
+Activation = EndFrame
+80040E78 0003
+
+[Max A Glass Ball]
+Type = Gameshark
+Activation = EndFrame
+800332C0 0063
+
+[P1 Infinite Bomb(Select)]
+Type = Gameshark
+Activation = EndFrame
+D0032C70 0001
+80050E2C 6301
+
+[Infinite Power]
+Type = Gameshark
+Activation = EndFrame
+8014726C 0006
+
+[P2 Infinite Bomb(Select)]
+Type = Gameshark
+Activation = EndFrame
+D0032C90 0001
+80050E3C 6301
+
+[Infinite Life In Stage 1]
+Type = Gameshark
+Activation = EndFrame
+A614726C 00050006
+
+[Infinite Life In Stage 2]
+Type = Gameshark
+Activation = EndFrame
+A6157C38 00050006
+

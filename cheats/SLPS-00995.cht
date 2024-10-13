@@ -1,0 +1,33 @@
+; CHTDB: ; [ Afraid Gear (Jpn) (1998) (Asmik Ace) {SLPS-00995} <afragear> ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+90080B44 3B9AC9FF
+
+[Infinite Bonus For Tunning]
+Type = Gameshark
+Activation = EndFrame
+800D5224 270F
+
+[P2 out of fuel (Press Select)]
+Type = Gameshark
+Activation = EndFrame
+D00703A8 0100
+800C7656 0000
+
+[Deadly blow]
+Type = Gameshark
+Activation = EndFrame
+A6095732 00460000
+
+[Status Perfect]
+Type = Gameshark
+Activation = EndFrame
+800C74E6 270F
+900C74E8 270F270F
+900C74EC C350270F
+800C7A1E 270F
+900C7A20 270F270F
+800C7A24 270F
+

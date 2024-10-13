@@ -1,0 +1,57 @@
+; CHTDB: ; [ Metal Gear Solid (Italy) {SLES-01508 | SLES-11508} ]
+
+[Razioni Infinite]
+Type = Gameshark
+Activation = EndFrame
+800B5EBC 0063
+
+[Socom Con Munizioni Infinite]
+Type = Gameshark
+Activation = EndFrame
+800B5E7A 03E7
+
+[Famas Con Munizioni Infinite]
+Type = Gameshark
+Activation = EndFrame
+800B5E7C 03E7
+
+[Granate Infinite]
+Type = Gameshark
+Activation = EndFrame
+800B5E7E 03E7
+
+[Granate Stun Infinite]
+Type = Gameshark
+Activation = EndFrame
+800B5E88 03E7
+
+[Granate Chaff Infinite]
+Type = Gameshark
+Activation = EndFrame
+800B5E8A 03E7
+
+[C4 Infinito]
+Type = Gameshark
+Activation = EndFrame
+800B5E86 03E7
+
+[Nikita Con Munizioni Infinite]
+Type = Gameshark
+Activation = EndFrame
+800B5E80 03E7
+
+[Psg 1 Con Munizioni Infinite]
+Type = Gameshark
+Activation = EndFrame
+800B5E8C 03E7
+
+[Stinger Con Munizioni Infinite]
+Type = Gameshark
+Activation = EndFrame
+800B5E82 0063
+
+[Diazepam Infiniti]
+Type = Gameshark
+Activation = EndFrame
+800B5EC0 0063
+

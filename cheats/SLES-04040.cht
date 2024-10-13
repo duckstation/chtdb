@@ -1,0 +1,28 @@
+; CHTDB: ; [ International Karate + aka IK+: The Ultimate Martial Arts Simulation (Europe) {SLES-04040} ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800412A4 0019
+
+[P1 Have always 6 points]
+Type = Gameshark
+Activation = EndFrame
+800416F0 0006
+
+[Press L2 White has 6 pts.]
+Type = Gameshark
+Activation = EndFrame
+E0040FC4 0001
+300416F0 0006
+
+[P2 Have always 0 points]
+Type = Gameshark
+Activation = EndFrame
+800416F1 0000
+
+[P3 Have always 0 points]
+Type = Gameshark
+Activation = EndFrame
+800416F2 0000
+

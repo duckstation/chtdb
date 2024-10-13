@@ -1,0 +1,24 @@
+; CHTDB: ; [ Knockout Kings 2000 (USA) (1999) (Electronic Arts) {SLUS-00993} <koking2k> ]
+
+[Infinite Health P1 ONLY]
+Type = Gameshark
+Activation = EndFrame
+9001DABC 0277082B
+8001DAC6 1420
+
+[Infinite Stamina P1 ONLY]
+Type = Gameshark
+Activation = EndFrame
+9002184C 32211000
+80021852 1020
+
+[Infinite Creation Points]
+Type = Gameshark
+Activation = EndFrame
+800C5698 00FF
+
+[Unlock Mills Lane]
+Type = Gameshark
+Activation = EndFrame
+800F43F0 0001
+

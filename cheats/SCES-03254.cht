@@ -1,0 +1,26 @@
+; CHTDB: ; [ Liberogrande International (Europe) {SCES-03254} ]
+
+[P1 Scores 9 goals]
+Type = Gameshark
+Activation = EndFrame
+800BAA18 0009
+800BA9F8 0009
+
+[P1 Scores no goals]
+Type = Gameshark
+Activation = EndFrame
+800BAA18 0000
+800BA9F8 0000
+
+[P2 Scores 9 goals]
+Type = Gameshark
+Activation = EndFrame
+800BAA60 0009
+800BAA40 0009
+
+[P2 Scores no goals]
+Type = Gameshark
+Activation = EndFrame
+800BAA60 0000
+800BAA40 0000
+

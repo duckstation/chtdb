@@ -1,0 +1,67 @@
+; CHTDB: ; [ The Family Restaurant - Shijou Saikyou no Menu (Jpn) (1998) (Human) {SLPS-01763} <familyre> ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+8014C848 EA60
+
+[Kim]
+Type = Gameshark
+Activation = EndFrame
+9014C848 05F5E0FF
+
+[Manager (Next To The Clerk +40 H)Coping Max]
+Type = Gameshark
+Activation = EndFrame
+3014C8AC 0063
+
+[Max Service]
+Type = Gameshark
+Activation = EndFrame
+3014C8B4 0063
+
+[Checkout Max]
+Type = Gameshark
+Activation = EndFrame
+3014C8FC 0063
+
+[Max Customer Service]
+Type = Gameshark
+Activation = EndFrame
+3014C904 0063
+
+[Clerk 1 (Next To The Clerk +40 H)Max Service]
+Type = Gameshark
+Activation = EndFrame
+3014C8F4 0063
+
+[Max Cumulative number of visitors]
+Type = Gameshark
+Activation = EndFrame
+9014E870 3B9AC9FF
+
+[Max Sales of the head office]
+Type = Gameshark
+Activation = EndFrame
+9014C9E8 3B9ACA00
+
+[5 star level Head office]
+Type = Gameshark
+Activation = EndFrame
+3014CA07 0005
+
+[5 star level second shop]
+Type = Gameshark
+Activation = EndFrame
+3014CD03 0005
+
+[Plate Length (Assistant To +40 H)Coping Max]
+Type = Gameshark
+Activation = EndFrame
+3014C96C 0063
+
+[Cooking]
+Type = Gameshark
+Activation = EndFrame
+3014C98C 0063
+

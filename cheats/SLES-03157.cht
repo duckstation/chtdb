@@ -1,0 +1,31 @@
+; CHTDB: ; [ Spec Ops: Ranger Elite (Europe) {SLES-03157} ]
+
+[Timer stopped (Press L1 & L2 & R1 & R2)]
+Type = Gameshark
+Activation = EndFrame
+D000004A 9C19
+8004BBFB D1A1
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80044A12 32BC
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A7091974 10000C00
+A70919E4 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A7091974 10000900
+A70919E4 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A7091974 10000400
+A70919E4 10000400
+

@@ -1,0 +1,55 @@
+; CHTDB: ; [ Maze Heroes - Meikyuu Densetsu (Jpn) (2002) (Media Entertainment) {SLPS-03490} <mazehero> ]
+
+[Infinite HP Main Character]
+Type = Gameshark
+Activation = EndFrame
+800D0632 0064
+800D0648 0064
+
+[Status Max Main Character]
+Type = Gameshark
+Activation = EndFrame
+300D0642 00FF
+300D0644 00FF
+300D0646 00FF
+300D063E 00FF
+
+[Second character Maximum HP]
+Type = Gameshark
+Activation = EndFrame
+300D06EC 0064
+
+[Second characte Status Max]
+Type = Gameshark
+Activation = EndFrame
+300D06EA 00FF
+300D06E8 00FF
+300D06E6 00FF
+300D06E2 00FF
+
+[Third character Maximum HP]
+Type = Gameshark
+Activation = EndFrame
+300D0790 0064
+
+[Third character Status Max]
+Type = Gameshark
+Activation = EndFrame
+300D078E 00FF
+300D078C 00FF
+300D078A 00FF
+300D0786 00FF
+
+[Fourth character Maximum HP]
+Type = Gameshark
+Activation = EndFrame
+300D0834 0064
+
+[Fourth characterStatus Max]
+Type = Gameshark
+Activation = EndFrame
+300D0830 00FF
+300D082A 00FF
+300D082E 00FF
+300D0832 00FF
+

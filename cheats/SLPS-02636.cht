@@ -1,0 +1,137 @@
+; CHTDB: ; [ Super Robot Taisen Alpha (Japan) {SLPS-02636} ]
+
+[Infinite HP Mazinger Z]
+Type = Gameshark
+Activation = EndFrame
+8013A3EE 270F
+8013A698 270F
+
+[Infinite HP Aphrodite A]
+Type = Gameshark
+Activation = EndFrame
+801384FC 270F
+80138252 270F
+
+[Infinite & Max HP Kouji Kabuto]
+Type = Gameshark
+Activation = EndFrame
+80139B64 270F
+801398BA 270F
+
+[Infinite HP GaoGaiGar]
+Type = Gameshark
+Activation = EndFrame
+80139C76 270F
+80139F20 270F
+
+[Infinite HP Boss Borot]
+Type = Gameshark
+Activation = EndFrame
+8013860E 270F
+801388B8 270F
+
+[Max Money]
+Type = Gameshark
+Activation = EndFrame
+9006E8F0 05F5E0FF
+
+[All Items]
+Type = Gameshark
+Activation = EndFrame
+9016C2DC FFFFFFFF
+
+[Infinite Movement]
+Type = Gameshark
+Activation = EndFrame
+D0154A78 0101
+8007C04C 0001
+D0154A78 0102
+8007C04C 0000
+
+[Weapons Level 15]
+Type = Gameshark
+Activation = EndFrame
+3013A440 000F
+3013B1D8 000F
+301330E8 000F
+
+[Infinite Bullets]
+Type = Gameshark
+Activation = EndFrame
+D007993E 2442
+8007993C 0000
+
+[Infinite En]
+Type = Gameshark
+Activation = EndFrame
+A60B7392 00650060
+
+[All Demos]
+Type = Gameshark
+Activation = EndFrame
+A70E4C2E 10401400
+
+[No Need For Must Have Attack Power]
+Type = Gameshark
+Activation = EndFrame
+A70BE08A 14401400
+
+[Mortal blow]
+Type = Gameshark
+Activation = EndFrame
+D005C208 0101
+800C09BA 1400
+D005C208 0102
+800C09BA 1440
+
+[Select Stage!(01-81) Enabled Last Stage]
+Type = Gameshark
+Activation = EndFrame
+800701DC 0081
+
+[LV99 If you gain experience]
+Type = Gameshark
+Activation = EndFrame
+A60B49D6 10401440
+
+[Infinite Behavior]
+Type = Gameshark
+Activation = EndFrame
+A60D7FF6 10401440
+
+[Not decrease SP (full version)]
+Type = Gameshark
+Activation = EndFrame
+A60B4F32 00520040
+A60B4FFA 00450040
+A60B4FA2 00520040
+
+[Not decrease EN (full version)]
+Type = Gameshark
+Activation = EndFrame
+A60B6EF8 02CA0020
+A60B7392 00650060
+A60B7342 00B000A0
+
+[Demo select fully open]
+Type = Gameshark
+Activation = EndFrame
+8005C4D0 FFFF
+
+[Robot Dictionary fully open + 02h]
+Type = Gameshark
+Activation = EndFrame
+8009E790 FFFF
+8009E7C6 FFFF
+
+[Character dictionary fully open + 02h]
+Type = Gameshark
+Activation = EndFrame
+8009E7D0 FFFF
+8009E7FA FFFF
+
+[Savw anywhere]
+Type = Gameshark
+Activation = EndFrame
+A710977E 10401000
+

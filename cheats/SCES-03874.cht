@@ -1,0 +1,39 @@
+; CHTDB: ; [ Disney Lilo & Stitch: Grossi Guai alle Hawaii (Italy) (Platinum) {SCES-03874} ]
+
+[Always have 4 out of 4 figurines]
+Type = Gameshark
+Activation = EndFrame
+900CCE34 000F0004
+
+[No damage (God mode)]
+Type = Gameshark
+Activation = EndFrame
+900615EC 03E00008
+800615F2 2400
+
+[Stitch can roll without taking coffee cups]
+Type = Gameshark
+Activation = EndFrame
+300CCD7E 0001
+80025924 0000
+80025936 1000
+
+[Take one object to have 100 out of 100]
+Type = Gameshark
+Activation = EndFrame
+80030812 2400
+
+[Get objects anywhere]
+Type = Gameshark
+Activation = EndFrame
+8002FE0A 2400
+8002FE1A 2400
+8002FE22 2400
+8002FE4E 2400
+
+[MoonJump]
+Type = Gameshark
+Activation = EndFrame
+80027634 0003
+80023604 0003
+

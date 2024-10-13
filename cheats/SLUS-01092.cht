@@ -1,0 +1,196 @@
+; CHTDB: ; [ Dragon Valor (USA) (2000) (Namco Hometek) {SLUS-01092 / SLUS-01164} <dvalor> ]
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+8008A5AE 03E7
+
+[Max HP]
+Type = Gameshark
+Activation = EndFrame
+8008A5B0 03E7
+
+[Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+8008A5B2 03E7
+
+[Max MP]
+Type = Gameshark
+Activation = EndFrame
+8008A5B4 03E7
+
+[Max Str]
+Type = Gameshark
+Activation = EndFrame
+8008A5B6 03E7
+
+[Max Def]
+Type = Gameshark
+Activation = EndFrame
+8008A5B8 03E7
+
+[Infinite Val]
+Type = Gameshark
+Activation = EndFrame
+800A2DD0 270F
+
+[Max Gems]
+Type = Gameshark
+Activation = EndFrame
+800A2DB8 03E7
+
+[Max Chalices]
+Type = Gameshark
+Activation = EndFrame
+800A2DBA 03E7
+
+[Max Scrolls]
+Type = Gameshark
+Activation = EndFrame
+800A2DBC 03E7
+
+[Max Pendants]
+Type = Gameshark
+Activation = EndFrame
+800A2DD4 03E7
+
+[Max Lithographs]
+Type = Gameshark
+Activation = EndFrame
+800A2DD6 03E7
+
+[Max Rings]
+Type = Gameshark
+Activation = EndFrame
+800A2DD8 03E7
+
+[Max Talismans]
+Type = Gameshark
+Activation = EndFrame
+800A2DDA 03E7
+
+[Max Bracelets]
+Type = Gameshark
+Activation = EndFrame
+800A2DDC 03E7
+
+[Max Earrings]
+Type = Gameshark
+Activation = EndFrame
+800A2DDE 03E7
+
+[Max Pepper]
+Type = Gameshark
+Activation = EndFrame
+800A2DF0 03E7
+
+[Max Wine]
+Type = Gameshark
+Activation = EndFrame
+800A2DF2 03E7
+
+[Max Horn]
+Type = Gameshark
+Activation = EndFrame
+800A2DF4 03E7
+
+[Max Perfume]
+Type = Gameshark
+Activation = EndFrame
+800A2DF6 03E7
+
+[Max Tea]
+Type = Gameshark
+Activation = EndFrame
+800A2DF8 03E7
+
+[Max Mask]
+Type = Gameshark
+Activation = EndFrame
+800A2DFA 03E7
+
+[Max Tiara]
+Type = Gameshark
+Activation = EndFrame
+800A2DFC 03E7
+
+[Max Harp]
+Type = Gameshark
+Activation = EndFrame
+800A2DFE 03E7
+
+[Max Golden Keys]
+Type = Gameshark
+Activation = EndFrame
+800A2E00 03E7
+
+[Max Silver Keys]
+Type = Gameshark
+Activation = EndFrame
+800A2E02 03E7
+
+[Max Copper Keys]
+Type = Gameshark
+Activation = EndFrame
+800A2E04 03E7
+
+[Have Heal Magic/Max Level]
+Type = Gameshark
+Activation = EndFrame
+300A2E06 0003
+
+[Have Defense Magic/Max Level]
+Type = Gameshark
+Activation = EndFrame
+300A2E07 0003
+
+[Have Fire Magic/Max Level]
+Type = Gameshark
+Activation = EndFrame
+300A2E08 0003
+
+[Have Ice Magic/Max Level]
+Type = Gameshark
+Activation = EndFrame
+300A2E09 0003
+
+[Have Thunder Magic/Max Level]
+Type = Gameshark
+Activation = EndFrame
+300A2E0A 0003
+
+[Have Mine Magic/Max Level]
+Type = Gameshark
+Activation = EndFrame
+300A2E0B 0003
+
+[Have Stealth Magic/Max Level]
+Type = Gameshark
+Activation = EndFrame
+300A2E0C 0003
+
+[Have Vortex Magic/Max Level]
+Type = Gameshark
+Activation = EndFrame
+300A2E0D 0003
+
+[Have All Magic/Max Level]
+Type = Gameshark
+Activation = EndFrame
+50000801 0000
+300A2E06 0003
+
+[Collect items from anywhere]
+Type = Gameshark
+Activation = EndFrame
+A7034A72 14401000
+
+[Hit anywhere with weapon]
+Type = Gameshark
+Activation = EndFrame
+A70419BA 14402400
+A7042552 14402400
+A70425BE 14402400
+A70419F6 10401000
+

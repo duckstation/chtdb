@@ -1,0 +1,27 @@
+; CHTDB: ; [ Nage Libre - Rasen No Soukoku (Jpn) (1997) (Varie) {SLPS-00692} <nagelibr> ]
+
+[Infinite HP Makoto]
+Type = Gameshark
+Activation = EndFrame
+900B3820 03E703E7
+
+[Infinite HP Ann]
+Type = Gameshark
+Activation = EndFrame
+900B3780 03E703E7
+
+[Infinite HP Mio]
+Type = Gameshark
+Activation = EndFrame
+900B38C0 03E703E7
+
+[Infinite HP Sinobu]
+Type = Gameshark
+Activation = EndFrame
+900B3870 03E703E7
+
+[Infinite HP Ituki]
+Type = Gameshark
+Activation = EndFrame
+900B37D0 03E703E7
+

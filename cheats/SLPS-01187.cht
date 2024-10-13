@@ -1,0 +1,19 @@
+; CHTDB: ; [ Alnam no Tsubasa: Shoujin no Sora no Kanata e (Japan) {SLPS-01187 | SLPS-01188 | SLPS-01189} ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+80064630 EA60
+
+[99 synthetic Kaiinochi]
+Type = Gameshark
+Activation = EndFrame
+50001504 0063
+801F0F82 0000
+
+[Kusumida Infinite & Max Hp]
+Type = Gameshark
+Activation = EndFrame
+800897C4 270F
+801F0784 270F
+

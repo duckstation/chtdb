@@ -1,0 +1,44 @@
+; CHTDB: ; [ Peak Performance (USA) (1997) (Atlus Software) {SLUS-00400} <peakperf> ]
+
+[Always Place 1st]
+Type = Gameshark
+Activation = EndFrame
+8009CA0C 0000
+800A1FF2 0000
+
+[Slow Motion]
+Type = Gameshark
+Activation = EndFrame
+8009C468 F550
+
+[Stop Timer]
+Type = Gameshark
+Activation = EndFrame
+8009CA18 0000
+8009CA14 0000
+
+[Max Speed]
+Type = Gameshark
+Activation = EndFrame
+8009C632 000F
+
+[Select Perm Lap\1]
+Type = Gameshark
+Activation = EndFrame
+8009CA10 0000
+
+[Select Perm Lap\2]
+Type = Gameshark
+Activation = EndFrame
+8009CA10 0001
+
+[Start On Lap 2]
+Type = Gameshark
+Activation = EndFrame
+A609CA10 00000001
+
+[Accelerate Faster Than Normal]
+Type = Gameshark
+Activation = EndFrame
+8009C552 FFFF
+

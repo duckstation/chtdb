@@ -1,0 +1,115 @@
+; CHTDB: ; [ Breath of Fire III (Europe) {SLES-01304} ]
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80145F18 03E7
+
+[P2 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80146058 03E7
+
+[P3 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80146198 03E7
+
+[P1 Infinite magic]
+Type = Gameshark
+Activation = EndFrame
+80145F1A 03E7
+
+[P2 Infinite magic]
+Type = Gameshark
+Activation = EndFrame
+8014619A 03E7
+
+[P3 Infinite magic]
+Type = Gameshark
+Activation = EndFrame
+8014619A 03E7
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+80144F50 FFFF
+
+[Rei-Codes\100 Health Points]
+Type = Gameshark
+Activation = EndFrame
+80144C0C 0064
+80144C14 0064
+
+[Rei-Codes\Infinite Attack Points]
+Type = Gameshark
+Activation = EndFrame
+8014619A 0064
+80144C16 0064
+
+[Teepo-Codes\100 Health Points]
+Type = Gameshark
+Activation = EndFrame
+80144B68 0064
+80144B70 0064
+
+[Teepo-Codes\Infinite Attack Points]
+Type = Gameshark
+Activation = EndFrame
+8014605A 0064
+80144B72 0064
+
+[Ryu-Codes\Infinite Attack Points]
+Type = Gameshark
+Activation = EndFrame
+80145F1A 0064
+80144986 0064
+
+[Ryu-Codes\Full Power]
+Type = Gameshark
+Activation = EndFrame
+80144988 03E7
+
+[Ryu-Codes\Full Defence]
+Type = Gameshark
+Activation = EndFrame
+8014498A 03E7
+
+[Ryu-Codes\Full Agility]
+Type = Gameshark
+Activation = EndFrame
+8014498C 03E7
+
+[Ryu-Codes\Full Intelligence]
+Type = Gameshark
+Activation = EndFrame
+8014498E 03E7
+
+[Ryu-Codes\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8014497C 03E7
+80144984 03E7
+
+[Ryu-Codes\Infinite Magic]
+Type = Gameshark
+Activation = EndFrame
+8014497E 03E7
+80144986 03E7
+
+[Ryu-Codes\Max Level 99]
+Type = Gameshark
+Activation = EndFrame
+8014496E 0063
+
+[Ryu-Codes\Max Experience]
+Type = Gameshark
+Activation = EndFrame
+80144972 03E7
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+80179D54 0C00
+80179D56 2409
+

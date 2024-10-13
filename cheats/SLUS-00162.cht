@@ -1,0 +1,24 @@
+; CHTDB: ; [ Casper (USA) (1996) (Interplay Productions) {SLUS-00162} <casper> ]
+
+[Infinite Healvh]
+Type = Gameshark
+Activation = EndFrame
+8007F01C 0064
+8007F02C 0064
+800FBD80 0064
+
+[Brass Key]
+Type = Gameshark
+Activation = EndFrame
+8007EA28 0001
+
+[Iron Key]
+Type = Gameshark
+Activation = EndFrame
+8007EA2C 0001
+
+[Infinite Fools Gold]
+Type = Gameshark
+Activation = EndFrame
+8007EA30 FFFF
+

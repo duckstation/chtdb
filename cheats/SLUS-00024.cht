@@ -1,0 +1,12 @@
+; CHTDB: ; [ Geom Cube (USA) (1995) (American Technos) {SLUS-00024} <geomcube> ]
+
+[Max Score]
+Type = Gameshark
+Activation = EndFrame
+80096F38 FFFF
+
+[Puzzle Modifier = (0-63)]
+Type = Gameshark
+Activation = EndFrame
+80096F50 0063
+

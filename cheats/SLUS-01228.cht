@@ -1,0 +1,26 @@
+; CHTDB: ; [ V.I.P. (USA) (2001) (Ubi Soft Entertainment Software) {SLUS-01228} <vip> ]
+
+[No Reloading]
+Type = Gameshark
+Activation = EndFrame
+8008167C 0008
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80081574 0018
+
+[Unlock All Photos/Movies .You'll need to have one game save]
+Type = Gameshark
+Activation = EndFrame
+50004A08 0000
+30075438 0002
+
+[Have Lots Of Points/Cash - Press L1,L2,R1,R2 .It's advisable to start from the first stage as the changed per stage]
+Type = Gameshark
+Activation = EndFrame
+C0094DEE F0FF
+80081716 00FF
+800888A2 00FF
+00000000 FFFF
+

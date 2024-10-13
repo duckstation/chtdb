@@ -1,0 +1,31 @@
+; CHTDB: ; [ Duke Nukem (Europe) {SLES-00703} ]
+
+[God mode]
+Type = Gameshark
+Activation = EndFrame
+800B53C0 00FF
+
+[Enable debug menu]
+Type = Gameshark
+Activation = EndFrame
+800B54EA 0200
+
+[Infinite Health All levels (After pressing several buttons on the Joypad Duke`s health will be filled up. Try it!)]
+Type = Gameshark
+Activation = EndFrame
+D00EC988 0001
+800EC95A FF00
+D00EC988 0000
+800EC95A 0000
+
+[Finish level successful (Press L1 & L2)]
+Type = Gameshark
+Activation = EndFrame
+D00B6172 0005
+300EC952 0001
+
+[Weapon-in-hand-modifier (0-8)]
+Type = Gameshark
+Activation = EndFrame
+300EC91C 0008
+

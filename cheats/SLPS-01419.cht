@@ -1,0 +1,22 @@
+; CHTDB: ; [ Formation Soccer '98: Ganbare Nippon in France (Japan) {SLPS-01419} ]
+
+[P1 Score 9]
+Type = Gameshark
+Activation = EndFrame
+800CFF8C 0009
+
+[P1 Score 0]
+Type = Gameshark
+Activation = EndFrame
+800CFF8C 0000
+
+[P2 Score 9]
+Type = Gameshark
+Activation = EndFrame
+800CFF90 0009
+
+[P2 Score 0]
+Type = Gameshark
+Activation = EndFrame
+800CFF90 0000
+

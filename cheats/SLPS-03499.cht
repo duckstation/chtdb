@@ -1,0 +1,12 @@
+; CHTDB: ; [ Kogepan: Pan mo Game o Yarurashii... (Japan) {SLPS-03499} ]
+
+[Infinite Time puzzle mode]
+Type = Gameshark
+Activation = EndFrame
+8019129C 0DAC
+
+[Only 1 second in running mini game mode]
+Type = Gameshark
+Activation = EndFrame
+800BE61A 0001
+

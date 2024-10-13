@@ -1,0 +1,62 @@
+; CHTDB: ; [ Formula 1 (USA, v1.0) (1996) (Psygnosis) {SCUS-94353} <f1a> ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800CE750 1896
+
+[Bike Mode]
+Type = Gameshark
+Activation = EndFrame
+8009DC02 0100
+
+[Gibberish Mode]
+Type = Gameshark
+Activation = EndFrame
+8009DC04 0100
+
+[Lava Mode]
+Type = Gameshark
+Activation = EndFrame
+8009DC04 0001
+
+[Roving Camera]
+Type = Gameshark
+Activation = EndFrame
+8009DC0C 0001
+
+[Bonus Track]
+Type = Gameshark
+Activation = EndFrame
+8009DC06 0001
+
+[Buggy Mode]
+Type = Gameshark
+Activation = EndFrame
+8009DC02 0001
+
+[Enable English Commentary]
+Type = Gameshark
+Activation = EndFrame
+8009DC06 0100
+
+[Enable French Commentary]
+Type = Gameshark
+Activation = EndFrame
+8009DC08 0001
+
+[Enable German Commentary]
+Type = Gameshark
+Activation = EndFrame
+8009DC08 0100
+
+[Enable Italian Commentary]
+Type = Gameshark
+Activation = EndFrame
+8009DC0A 0100
+
+[Enable Spanish Commentary]
+Type = Gameshark
+Activation = EndFrame
+8009DC0A 0001
+

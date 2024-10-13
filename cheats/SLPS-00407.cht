@@ -1,0 +1,12 @@
+; CHTDB: ; [ Strikers 1945 (Japan) {SLPS-00407} ]
+
+[P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801B0D20 0004
+
+[P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801B0D94 0004
+

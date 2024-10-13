@@ -1,0 +1,19 @@
+; CHTDB: ; [ EA Sports Supercross (USA) (2000) (Electronic Arts) {SLUS-01319} <easupx> ]
+
+[Unlock All Tracks]
+Type = Gameshark
+Activation = EndFrame
+50000302 0000
+800C2FDA 0101
+300C304D 0001
+300C304E 0001
+300C304A 0001
+
+[Unlock All Characters]
+Type = Gameshark
+Activation = EndFrame
+50001C01 0000
+300C3005 0001
+50000302 0000
+800C2FFA 0101
+

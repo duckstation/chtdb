@@ -1,0 +1,71 @@
+; CHTDB: ; [ Marl Oukoku no Ningyou-hime: The Adventure of Puppet Princess (Japan) {SLPS-01734} ]
+
+[Money 9999999]
+Type = Gameshark
+Activation = EndFrame
+90044220 0098967F
+
+[99 All Items]
+Type = Gameshark
+Activation = EndFrame
+50002302 0000
+80044224 6363
+3004426A 0063
+
+[First character EXP]
+Type = Gameshark
+Activation = EndFrame
+9004462C 05F5E0FF
+
+[Second character EXP]
+Type = Gameshark
+Activation = EndFrame
+90044650 05F5E0FF
+
+[The third character EXP]
+Type = Gameshark
+Activation = EndFrame
+90044674 05F5E0FF
+
+[Infinite & Max HP]
+Type = Gameshark
+Activation = EndFrame
+80044634 270F
+80044638 270F
+
+[Infinite & Max MP]
+Type = Gameshark
+Activation = EndFrame
+80044636 270F
+8004463A 270F
+
+[Infinite & Max HP in combat Character 1]
+Type = Gameshark
+Activation = EndFrame
+800DFE48 270F
+
+[Infinite & Max HP in combat Character 2]
+Type = Gameshark
+Activation = EndFrame
+800DFE6C 270F
+
+[Infinite & Max HP in combat Character 3]
+Type = Gameshark
+Activation = EndFrame
+800DFE90 270F
+
+[Infinite & Max HP in combat Character 4]
+Type = Gameshark
+Activation = EndFrame
+800DFEB4 270F
+
+[Infinite & Max MP in combat Character 1]
+Type = Gameshark
+Activation = EndFrame
+800DFEB6 270F
+
+[No random battles]
+Type = Gameshark
+Activation = EndFrame
+300DFFDA 0000
+

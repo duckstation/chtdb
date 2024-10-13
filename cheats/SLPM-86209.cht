@@ -1,0 +1,56 @@
+; CHTDB: ; [ Aizouban Houshin Engi (Jpn) (1999) (Koei) {SLPM-86209} <aizhosen> ]
+
+[Infinite + Max HP Character 1]
+Type = Gameshark
+Activation = EndFrame
+80134DA4 03E7
+80134D58 03E7
+
+[Infinite + Max TP Character 1]
+Type = Gameshark
+Activation = EndFrame
+80134DA6 03E7
+80134D5A 03E7
+
+[Infinite + Max HP Character 2]
+Type = Gameshark
+Activation = EndFrame
+80134DB0 03E7
+80134DFC 03E7
+
+[Infinite + Max TP Character 2]
+Type = Gameshark
+Activation = EndFrame
+80134DFE 03E7
+80134DB2 03E7
+
+[Infinite + Max HP Character 3]
+Type = Gameshark
+Activation = EndFrame
+80134EAC 03E7
+80134E60 03E7
+
+[Infinite + Max TP Character 3]
+Type = Gameshark
+Activation = EndFrame
+80134EAE 03E7
+80134E62 03E7
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+80135B88 FFFF
+
+[Mortal blow mode .OFF ON, Press Select + R2 or Press Select + L2.]
+Type = Gameshark
+Activation = EndFrame
+D00E0A34 0101
+80030CD6 0000
+D00E0A34 0102
+80030CD6 00A0
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+801792B0 0C04
+

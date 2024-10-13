@@ -1,0 +1,68 @@
+; CHTDB: ; [ Seireiki Rayblade (Japan) {SLPS-02652} ]
+
+[Infinite & Max HP Main character]
+Type = Gameshark
+Activation = EndFrame
+800CD60C 03E7
+800CD240 03E7
+
+[Infinite & Max MP Main character]
+Type = Gameshark
+Activation = EndFrame
+800CD603 0063
+800CD24A 0063
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+800CDA7C FFFF
+
+[All Characters Infinite SP & Morale Max Up]
+Type = Gameshark
+Activation = EndFrame
+50000A18 0000
+
+[Unlock character & album mode]
+Type = Gameshark
+Activation = EndFrame
+800CDB12 FFFF
+900CDB14 FFFFFFFF
+900CDB18 FFFFFFFF
+900CDB1C FFFFFFFF
+900CDB20 FFFFFFFF
+900CDB24 FFFFFFFF
+900CDB28 FFFFFFFF
+300CDB2C 00FF
+300CDB2F 00FF
+
+[MAX level after one battle]
+Type = Gameshark
+Activation = EndFrame
+8004D82C 0001
+
+[MAX funds afte one battle]
+Type = Gameshark
+Activation = EndFrame
+800504FC 0001
+
+[MAX immediately reliability]
+Type = Gameshark
+Activation = EndFrame
+80058DEC 0001
+80050594 0001
+
+[MAX immediately affection degree]
+Type = Gameshark
+Activation = EndFrame
+80058F28 0001
+
+[Do not reduce topic point]
+Type = Gameshark
+Activation = EndFrame
+8005B040 0001
+
+[Memories album fully open]
+Type = Gameshark
+Activation = EndFrame
+80079C78 0001
+

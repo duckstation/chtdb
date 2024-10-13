@@ -1,0 +1,47 @@
+; CHTDB: ; [ Crypt Killer (Europe) {SLES-00292} ]
+
+[P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800FC02C 0003
+
+[P1 Infinite Bombs]
+Type = Gameshark
+Activation = EndFrame
+800FC032 0003
+
+[P1 Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+300FC03D 0006
+
+[P1 Weapon Automatic]
+Type = Gameshark
+Activation = EndFrame
+800FC030 0004
+
+[P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800FC088 0005
+
+[P2 Infinite Smart Bombs]
+Type = Gameshark
+Activation = EndFrame
+800FC08E 0009
+
+[P2 Weapon Automatic]
+Type = Gameshark
+Activation = EndFrame
+800FC08C 0004
+
+[P2 Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+300FC099 0006
+
+[Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+80022646 0601
+

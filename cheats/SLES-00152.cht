@@ -1,0 +1,10 @@
+; CHTDB: ; [ Tilt! (Europe) {SLES-00152} ]
+
+[Infinite Balls .Press Start]
+Type = Gameshark
+Activation = EndFrame
+D005D434 0008
+8005D2C8 0001
+D005D434 0008
+8006D19C 0001
+

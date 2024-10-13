@@ -1,0 +1,17 @@
+; CHTDB: ; [ Sangokushi - Eiketsuden (Jpn) (1996) (Koei) {SLPS-00309} <sangoeik> ]
+
+[Infinite Energy in battle main character]
+Type = Gameshark
+Activation = EndFrame
+8010C8E8 00C8
+
+[Max Money]
+Type = Gameshark
+Activation = EndFrame
+8010AE3C FFFF
+
+[?? level 99]
+Type = Gameshark
+Activation = EndFrame
+3010D1B1 0063
+

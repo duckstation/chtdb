@@ -1,0 +1,25 @@
+; CHTDB: ; [ MeltyLancer - The 3rd Planet (Jpn) (1999) (Konami) {SLPM-86231~SLPM-86232 (VX126-J1)} <melty3rd> ]
+
+[CG Gallery Fully Open]
+Type = Gameshark
+Activation = EndFrame
+900C9F18 FFFFFFFF
+900C9F1C FFFFFFFF
+900C9F20 FFFFFFFF
+900C9F24 FFFFFFFF
+
+[Movie Gallery Fully Open]
+Type = Gameshark
+Activation = EndFrame
+800C9F28 FFFF
+
+[Combat level]
+Type = Gameshark
+Activation = EndFrame
+300C9F73 0001
+
+[Investigation level]
+Type = Gameshark
+Activation = EndFrame
+300C9F74 0001
+

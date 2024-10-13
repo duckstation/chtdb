@@ -1,0 +1,28 @@
+; CHTDB: ; [ Cooly Skunk (Japan) {SLPS-00499} ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80184500 0063
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+801844E0 000F
+
+[Max Stars]
+Type = Gameshark
+Activation = EndFrame
+801844E4 0063
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8018457C 0003
+
+[Press L2 for Max HP]
+Type = Gameshark
+Activation = EndFrame
+E0184548 0001
+8018457C 0003
+

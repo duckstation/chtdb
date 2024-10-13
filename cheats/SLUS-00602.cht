@@ -1,0 +1,192 @@
+; CHTDB: ; [ Newman Haas Racing (USA) (1998) (Psygnosis) {SLUS-00602} <newmanh> ]
+
+[Drive Through Other Cars]
+Type = Gameshark
+Activation = EndFrame
+A704D09A 12001000
+
+[Drive Anywhere]
+Type = Gameshark
+Activation = EndFrame
+A706F552 14401000
+A70708EE 10401000
+
+[Infinite Turbo]
+Type = Gameshark
+Activation = EndFrame
+800D3C80 E04C
+
+[A. Luyendyk Max Championship Points]
+Type = Gameshark
+Activation = EndFrame
+D00DE6EC FFF6
+800DE6FC 7FFF
+
+[A. Ribeiro Max Championship Points]
+Type = Gameshark
+Activation = EndFrame
+D00DE6EC FFF6
+800DE704 7FFF
+
+[A. Zanardi Max Championship Points]
+Type = Gameshark
+Activation = EndFrame
+D00DE6EC FFF6
+800DE6FA 7FFF
+
+[B. Herta Max Championship Points]
+Type = Gameshark
+Activation = EndFrame
+D00DE6EC FFF6
+800DE70E 7FFF
+
+[C. Fittipaldi Max Championship Points]
+Type = Gameshark
+Activation = EndFrame
+D00DE6EC FFF6
+800DE6F2 7FFF
+
+[G. De Ferran Max Championship Points]
+Type = Gameshark
+Activation = EndFrame
+D00DE6EC FFF6
+800DE700 7FFF
+
+[J. Vasser Max Championship Points]
+Type = Gameshark
+Activation = EndFrame
+D00DE6EC FFF6
+800DE706 7FFF
+
+[M. Andretti Max Championship Points]
+Type = Gameshark
+Activation = EndFrame
+D00DE6EC FFF6
+800DE6F0 7FFF
+
+[M. Blundell Max Championship Points]
+Type = Gameshark
+Activation = EndFrame
+D00DE6EC FFF6
+800DE70C 7FFF
+
+[M. Gugelmin Max Championship Points]
+Type = Gameshark
+Activation = EndFrame
+D00DE6EC FFF6
+800DE70A 7FFF
+
+[P. Carpentier Max Championship Points]
+Type = Gameshark
+Activation = EndFrame
+D00DE6EC FFF6
+800DE708 7FFF
+
+[R. Boesel Max Championship Points]
+Type = Gameshark
+Activation = EndFrame
+D00DE6EC FFF6
+800DE6F8 7FFF
+
+[R. Gordon Max Championship Points]
+Type = Gameshark
+Activation = EndFrame
+D00DE6EC FFF6
+800DE6F6 7FFF
+
+[R. Moreno Max Championship Points]
+Type = Gameshark
+Activation = EndFrame
+D00DE6EC FFF6
+800DE6F4 7FFF
+
+[S. Pruett Max Championship Points]
+Type = Gameshark
+Activation = EndFrame
+D00DE6EC FFF6
+800DE6FE 7FFF
+
+[Select Track\Milwaukee Mile]
+Type = Gameshark
+Activation = EndFrame
+D007B48C 0000
+3007B674 0000
+
+[Select Track\Toronto]
+Type = Gameshark
+Activation = EndFrame
+D007B48C 0000
+3007B674 0001
+
+[Select Track\Midohio 200]
+Type = Gameshark
+Activation = EndFrame
+D007B48C 0000
+3007B674 0002
+
+[Select Track\Long Beach]
+Type = Gameshark
+Activation = EndFrame
+D007B48C 0000
+3007B674 0003
+
+[Select Track\Laguna Seca Raceway]
+Type = Gameshark
+Activation = EndFrame
+D007B48C 0000
+3007B674 0004
+
+[Select Track\Portland Raceway]
+Type = Gameshark
+Activation = EndFrame
+D007B48C 0000
+3007B674 0005
+
+[Select Track\Surfers Paradise]
+Type = Gameshark
+Activation = EndFrame
+D007B48C 0000
+3007B674 0006
+
+[Select Track\Road America]
+Type = Gameshark
+Activation = EndFrame
+D007B48C 0000
+3007B674 0007
+
+[Select Track\Emmerson Fittipaldi Speedway]
+Type = Gameshark
+Activation = EndFrame
+D007B48C 0000
+3007B674 0008
+
+[Select Track\Houston Grand Prix]
+Type = Gameshark
+Activation = EndFrame
+D007B48C 0000
+3007B674 0009
+
+[Select Track\Kahoona Massive]
+Type = Gameshark
+Activation = EndFrame
+D007B48C 0000
+3007B674 000A
+
+[Select Track\Pennsylvania Speedway]
+Type = Gameshark
+Activation = EndFrame
+D007B48C 0000
+3007B674 000B
+
+[Select Track\Woodshole 200]
+Type = Gameshark
+Activation = EndFrame
+D007B48C 0000
+3007B674 000C
+
+[Select Track\Hill Fields 200]
+Type = Gameshark
+Activation = EndFrame
+D007B48C 0000
+3007B674 000D
+

@@ -1,0 +1,29 @@
+; CHTDB: ; [ Hexen (USA) (1997) (id Software) {SLUS-00348} <hexen> ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800C7F90 0064
+800C7F9C 0001
+
+[Infinite Blue Mana]
+Type = Gameshark
+Activation = EndFrame
+800E7DC0 00C8
+
+[Infinite Green Mana]
+Type = Gameshark
+Activation = EndFrame
+800E7DC4 00C8
+
+[High Armor Class]
+Description = With this cheat, it gives you virtual invincibility. It puts your armor high enough that at the rate it depletes it can count for invincibility. The effect is different for each character. Poisonous gas and some other things will still hurt you
+Type = Gameshark
+Activation = EndFrame
+800E7C7E 01E0
+
+[All Keys]
+Type = Gameshark
+Activation = EndFrame
+800E7DA0 FFFF
+

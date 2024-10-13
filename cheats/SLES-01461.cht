@@ -1,0 +1,79 @@
+; CHTDB: ; [ Lemmings & Oh No! More Lemmings (Europe) {SLES-01461} ]
+
+[Enable all Stages]
+Type = Gameshark
+Activation = EndFrame
+50006C02 0001
+8004C280 0101
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80084EF0 003B
+
+[Minimum Release Rate = 1]
+Type = Gameshark
+Activation = EndFrame
+80057DEC 0001
+
+[Only 1 Lemming To Rescue]
+Type = Gameshark
+Activation = EndFrame
+8005CE84 0001
+
+[Infinite Climbers]
+Type = Gameshark
+Activation = EndFrame
+8005CEB0 0063
+
+[Infinite Floaters]
+Type = Gameshark
+Activation = EndFrame
+8005CEB4 0063
+
+[Infinite Bombers]
+Type = Gameshark
+Activation = EndFrame
+8005CEB8 0063
+
+[Infinite Blockers]
+Type = Gameshark
+Activation = EndFrame
+8005CEBC 0063
+
+[Infinite Builders]
+Type = Gameshark
+Activation = EndFrame
+8005CEC0 0063
+
+[Infinite Bashers]
+Type = Gameshark
+Activation = EndFrame
+8005CEC4 0063
+
+[Infinite Miners]
+Type = Gameshark
+Activation = EndFrame
+8005CEC8 0063
+
+[Infinite Diggers]
+Type = Gameshark
+Activation = EndFrame
+8005CECC 0063
+
+[Enable All Stages]
+Type = Gameshark
+Activation = EndFrame
+50006C02 0001
+8004C280 0101
+
+[Infinite Item Use]
+Type = Gameshark
+Activation = EndFrame
+8002487A 3C00
+
+[Saved Lemmings Worth Modifier 00-FF]
+Type = Gameshark
+Activation = EndFrame
+80014880 0001
+

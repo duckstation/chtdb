@@ -1,0 +1,37 @@
+; CHTDB: ; [ Psybadek (USA) (1998) (Psygnosis) {SLUS-00730} <psybadek> ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800AA698 6300
+
+[Infinite Stars]
+Type = Gameshark
+Activation = EndFrame
+800B05E4 03E7
+
+[Infinite Penguins (Level 2)]
+Type = Gameshark
+Activation = EndFrame
+800920CC 003C
+
+[Activate Cheat\Invincibility]
+Type = Gameshark
+Activation = EndFrame
+8009AEC4 0400
+
+[Activate Cheat\Enable Level Select]
+Type = Gameshark
+Activation = EndFrame
+8009AEC4 0004
+
+[Activate Cheat\Upside Down Mode]
+Type = Gameshark
+Activation = EndFrame
+8009AEC4 0100
+
+[Activate Cheat\Jelly Mode]
+Type = Gameshark
+Activation = EndFrame
+8009AEC4 0800
+

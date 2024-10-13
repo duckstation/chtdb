@@ -1,0 +1,36 @@
+; CHTDB: ; [ Chou Aniki - Kyuukyoku Muteki Ginga Saikyou Otoko (Jpn) (1995) (NCS) {SLPS-00183} <choaniki> ]
+
+[P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800D6A98 0004
+
+[P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800D6A9A 0004
+
+[P1 Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800D2B34 000E
+
+[P2 Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800D2B98 000E
+
+[P1 special attacks all]
+Type = Gameshark
+Activation = EndFrame
+300D6E08 002D
+300D6E0A 001A
+300D6E0C 001A
+
+[P2 special attacks all]
+Type = Gameshark
+Activation = EndFrame
+300D6E0E 002D
+300D6E10 001A
+300D6E12 001A
+

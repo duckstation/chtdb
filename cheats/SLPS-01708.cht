@@ -1,0 +1,11 @@
+; CHTDB: ; [ First Kiss Monogatari (Jpn) (1998) (HuneX) {SLPS-01708~SLPS-01709} <1stkiss> ]
+
+[All Unlock]
+Type = Gameshark
+Activation = EndFrame
+C01C50A4 0603
+801C5008 0016
+801C500C 0000
+8009E380 0500
+00000000 FFFF
+

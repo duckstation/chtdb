@@ -1,0 +1,67 @@
+; CHTDB: ; [ Final Fantasy Origins: Final Fantasy II (Europe) {SLES-14034} ]
+
+[Infinite HP Character 1]
+Type = Gameshark
+Activation = EndFrame
+801F6ACA 270F
+
+[Max Hp Character 1]
+Type = Gameshark
+Activation = EndFrame
+801F6ACE 270F
+
+[Infinite MP Characer 1]
+Type = Gameshark
+Activation = EndFrame
+801F6ACC 03E7
+
+[Max Mp Character 1]
+Type = Gameshark
+Activation = EndFrame
+801F6AD0 03E7
+
+[Infinite HP Character 2]
+Type = Gameshark
+Activation = EndFrame
+801F6C96 270F
+
+[Max Hp Character 2]
+Type = Gameshark
+Activation = EndFrame
+801F6C9A 270F
+
+[Infinite MP Character 2]
+Type = Gameshark
+Activation = EndFrame
+801F6C98 03E7
+
+[Max Mp Character 2]
+Type = Gameshark
+Activation = EndFrame
+801F6C9C 03E7
+
+[Infinite HP Character 3]
+Type = Gameshark
+Activation = EndFrame
+801F6E62 270F
+
+[Max Hp Character 3]
+Type = Gameshark
+Activation = EndFrame
+801F6E66 270F
+
+[Infinite MP Character 3]
+Type = Gameshark
+Activation = EndFrame
+801F6E64 03E7
+
+[Max Mp Character 3]
+Type = Gameshark
+Activation = EndFrame
+801F6E68 03E7
+
+[Infinite HP Character 4]
+Type = Gameshark
+Activation = EndFrame
+801F702E 270F
+

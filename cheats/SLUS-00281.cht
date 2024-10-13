@@ -1,0 +1,81 @@
+; CHTDB: ; [ VR Baseball '97 (USA) (1997) (Interplay Productions) {SLUS-00281} <vrbb97> ]
+
+[Select Away Team Score\9]
+Type = Gameshark
+Activation = EndFrame
+8005BEF0 0009
+800B021C 0009
+
+[Select Away Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+8005BEF0 0000
+800B021C 0000
+
+[Select Home Team Score\9]
+Type = Gameshark
+Activation = EndFrame
+8005BEEC 0009
+800B0218 0009
+
+[Select Home Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+8005BEEC 0000
+800B0218 0000
+
+[Field of Dreams Field]
+Type = Gameshark
+Activation = EndFrame
+8005B09A 0001
+
+[Infinite Balls]
+Type = Gameshark
+Activation = EndFrame
+8005B100 0000
+
+[Infinite Outs]
+Type = Gameshark
+Activation = EndFrame
+8005B114 0000
+
+[Infinite Strikes]
+Type = Gameshark
+Activation = EndFrame
+8005B0FC 0000
+
+[1 Ball And You Walk]
+Type = Gameshark
+Activation = EndFrame
+A605B100 00000003
+
+[1 Out And You Are Out]
+Type = Gameshark
+Activation = EndFrame
+A605B114 00000002
+
+[1 Strike And You Are Out]
+Type = Gameshark
+Activation = EndFrame
+A605B0FC 00000002
+
+[2 Balls And You Walk]
+Type = Gameshark
+Activation = EndFrame
+A605B100 00000002
+
+[2 Outs And You Are Out]
+Type = Gameshark
+Activation = EndFrame
+A605B114 00000001
+
+[2 Strikes And You Are Out]
+Type = Gameshark
+Activation = EndFrame
+A605B0FC 00000001
+
+[3 Balls And You Walk]
+Type = Gameshark
+Activation = EndFrame
+A605B100 00000001
+

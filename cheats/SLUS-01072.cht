@@ -1,0 +1,56 @@
+; CHTDB: ; [ Evil Dead - Hail to the King (USA) (2000) (THQ) {SLUS-01072 / SLUS-01326} <evildead> ]
+
+[Infinite Save tapes]
+Type = Gameshark
+Activation = EndFrame
+80076FD8 0063
+
+[Infinite Ammo Knowby's Pistol]
+Type = Gameshark
+Activation = EndFrame
+80077768 03E7
+
+[Infinite Fuel Chainsaw]
+Type = Gameshark
+Activation = EndFrame
+80077870 00FF
+
+[Infinite Health Disc 1]
+Type = Gameshark
+Activation = EndFrame
+80076C14 0064
+
+[Infinite Health Disc 2]
+Type = Gameshark
+Activation = EndFrame
+80076D5C 0064
+
+[Invincibility Disc 1]
+Type = Gameshark
+Activation = EndFrame
+3007720C 0064
+
+[Invincibility Disc 2]
+Type = Gameshark
+Activation = EndFrame
+30077354 0064
+
+[Save Anywhere]
+Description = With this cheat, save only works if you have a Save Tape
+Type = Gameshark
+Activation = EndFrame
+A61310A4 00000001
+
+[Save Anywhere Disc 2 (Press L2 + R2)]
+Description = Activate this cheat while in inventory screen)
+Type = Gameshark
+Activation = EndFrame
+D01DF872 FCFF
+8012FA68 0001
+
+[Walk through walls "Press L3 to toggle on/off"]
+Type = Gameshark
+Activation = EndFrame
+D7010001 01000200
+F50252DE 12601000
+

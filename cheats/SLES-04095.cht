@@ -1,0 +1,22 @@
+; CHTDB: ; [ XS Moto (Europe) {SLES-04095} ]
+
+[Lap modifier circuit one (1-A)]
+Type = Gameshark
+Activation = EndFrame
+801BF0DA 000A
+
+[Lap modifier circuit two (1-A)]
+Type = Gameshark
+Activation = EndFrame
+801BB222 000A
+
+[Lap modifier circuit three (1-A)]
+Type = Gameshark
+Activation = EndFrame
+801C6A26 000A
+
+[999 Points in championship]
+Type = Gameshark
+Activation = EndFrame
+8009E3E8 03E7
+

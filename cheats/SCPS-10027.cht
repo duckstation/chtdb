@@ -1,0 +1,38 @@
+; CHTDB: ; [ Velldeselba Senki: Tsubasa no Kunshou (Japan) {SCPS-10027} ]
+
+[Infinite Ammo cannon 1]
+Type = Gameshark
+Activation = EndFrame
+8007E9B4 03E7
+
+[Infinite Ammo cannon 3]
+Type = Gameshark
+Activation = EndFrame
+8007E9B0 03E7
+
+[Infinite Ammo cannon 4]
+Type = Gameshark
+Activation = EndFrame
+8007E9B2 03E7
+
+[Infinite Shield]
+Type = Gameshark
+Activation = EndFrame
+8007A010 00C8
+800ED066 00C8
+
+[Gold Max After the battle]
+Type = Gameshark
+Activation = EndFrame
+90010BD0 05F5E0FF
+
+[Level Max After the battle]
+Type = Gameshark
+Activation = EndFrame
+8006D542 1400
+
+[Infinite Bullet]
+Type = Gameshark
+Activation = EndFrame
+8006287E 0040
+

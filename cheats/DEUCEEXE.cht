@@ -1,0 +1,17 @@
+; CHTDB: ; [ Deuce (USA) (Prototype) {Unlicensed} ]
+
+[Select Widescreen\16-9]
+Type = Gameshark
+Activation = EndFrame
+A70925D0 19991333
+
+[Select Widescreen\20-9]
+Type = Gameshark
+Activation = EndFrame
+A70925D0 19990E66
+
+[Select Widescreen\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A70925D0 19990666
+

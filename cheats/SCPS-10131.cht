@@ -1,0 +1,65 @@
+; CHTDB: ; [ Aconcagua (Jpn) (2000) (SCEI) {SCPS-10131~SCPS-10132} <aconcagu> ]
+
+[Infinite Energy Pachamama]
+Type = Gameshark
+Activation = EndFrame
+80164742 1000
+801692CA 1000
+
+[Infinite Energy Katoh]
+Type = Gameshark
+Activation = EndFrame
+8016470A 1000
+80169292 1000
+
+[Infinite Energy Steve]
+Type = Gameshark
+Activation = EndFrame
+801647B2 1000
+8016933A 1000
+8014E1E2 1000
+
+[Infinite Energy Julia]
+Type = Gameshark
+Activation = EndFrame
+8016477A 1000
+80169302 1000
+
+[Infinite Energy Lopez]
+Type = Gameshark
+Activation = EndFrame
+80169372 1000
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80170B9C 0DEA
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A7161F60 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A7161F60 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A7161F60 10000400
+
+[Widescreen 16-9 (Secondary)]
+Type = Gameshark
+Activation = EndFrame
+A7161F60 10000C00
+
+[Widescreen 16-9 (Cut Scenes)]
+Type = Gameshark
+Activation = EndFrame
+A7066F70 10000C00
+A7071F40 10000C00
+A707B4F0 10000C00
+A7116A68 10000C00
+

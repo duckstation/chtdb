@@ -1,0 +1,17 @@
+; CHTDB: ; [ Puzznic (USA) (2003) (Mud Duck Productions) {SLUS-01492} <puzznic> ]
+
+[Time Always 00.00]
+Type = Gameshark
+Activation = EndFrame
+8009B418 0000
+
+[Max Score]
+Type = Gameshark
+Activation = EndFrame
+8009B408 270F
+
+[Infinite Continues]
+Type = Gameshark
+Activation = EndFrame
+8009B410 0003
+

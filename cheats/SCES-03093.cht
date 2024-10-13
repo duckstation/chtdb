@@ -1,0 +1,29 @@
+; CHTDB: ; [ Muppet Monster Adventure (Spain) {SCES-03093} ]
+
+[Infinite Stars]
+Type = Gameshark
+Activation = EndFrame
+800B867A 270F
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+300B8685 0063
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800B8684 0063
+
+[Have All Bonus Pieces]
+Type = Gameshark
+Activation = EndFrame
+800B7E5C 0005
+
+[Unlock All Levels]
+Type = Gameshark
+Activation = EndFrame
+800B8B82 270F
+300B8B8A 00FF
+300B8B88 0005
+

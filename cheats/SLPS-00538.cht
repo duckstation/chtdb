@@ -1,0 +1,12 @@
+; CHTDB: ; [ Fist (Jpn) (1996) (Imageneer) {SLPS-00538} <fist> ]
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8015053E 0100
+
+[P2 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80150AFA 0100
+

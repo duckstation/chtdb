@@ -1,0 +1,105 @@
+; CHTDB: ; [ Omega Boost (Japan) {SCPS-10020} ]
+
+[Infinite Time (1) Select only one Infinite Time code]
+Type = Gameshark
+Activation = EndFrame
+80146BBC 1770
+
+[Infinite Time (2) Select only one Infinite Time code]
+Type = Gameshark
+Activation = EndFrame
+A60299D8 00010000
+
+[Infinite Power Boost]
+Type = Gameshark
+Activation = EndFrame
+800A34B4 1000
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800A34A8 03E8
+800A34AC 03E8
+
+[Infinite Continues]
+Type = Gameshark
+Activation = EndFrame
+A6053F3A FFFF0000
+
+[No Damage]
+Type = Gameshark
+Activation = EndFrame
+A602ED42 00500040
+
+[Vb Gauge 1]
+Type = Gameshark
+Activation = EndFrame
+A70364EC 00041000
+A7062264 00011000
+
+[Vb Gauge Always Max]
+Type = Gameshark
+Activation = EndFrame
+A605F43C FFF40000
+A605FE30 FC000000
+
+[Rk Maximum]
+Type = Gameshark
+Activation = EndFrame
+800A34C0 0010
+800A34C8 0010
+800A34D0 000D
+
+[Stage 1 - 1]
+Type = Gameshark
+Activation = EndFrame
+A712B01A AE63AE60
+
+[Stage 1 - 2]
+Type = Gameshark
+Activation = EndFrame
+A7125786 AE43AE40
+
+[Stage 2 - 1]
+Type = Gameshark
+Activation = EndFrame
+A7126146 AEA3AEA0
+
+[Stage 2 - 2]
+Type = Gameshark
+Activation = EndFrame
+A7129A2E AE42AE40
+
+[Stage 3 - 1]
+Type = Gameshark
+Activation = EndFrame
+A712627A AE43AE40
+
+[Stage 3 - 2]
+Type = Gameshark
+Activation = EndFrame
+A712D01A AE63AE60
+
+[Stage 4 - 1]
+Type = Gameshark
+Activation = EndFrame
+A7129846 AE43AE40
+
+[Stage 4 - 2]
+Type = Gameshark
+Activation = EndFrame
+A712B4CE AE42AE40
+
+[Stage 4 - 3]
+Type = Gameshark
+Activation = EndFrame
+A7133626 AE62AE60
+
+[All Stage Selectable]
+Type = Gameshark
+Activation = EndFrame
+9009703C 454B4F4A
+30097040 0052
+50001102 0000
+800A3410 0101
+

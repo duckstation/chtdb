@@ -1,0 +1,41 @@
+; CHTDB: ; [ NHL Rock the Rink (Europe) {SLES-02794} ]
+
+[1 goal counts 5 goals]
+Type = Gameshark
+Activation = EndFrame
+300116A4 0005
+
+[Red player Needs one goal to win]
+Type = Gameshark
+Activation = EndFrame
+D0090014 0000
+30090014 0004
+
+[Red player Never wins]
+Type = Gameshark
+Activation = EndFrame
+D0090014 0001
+30090014 0000
+
+[Blue player Needs one goal to win]
+Type = Gameshark
+Activation = EndFrame
+D0090060 0000
+30090060 0004
+
+[Blue player Never wins]
+Type = Gameshark
+Activation = EndFrame
+D0090060 0001
+30090060 0000
+
+[World Unlocked]
+Type = Gameshark
+Activation = EndFrame
+300915A0 0001
+
+[NHL Elite Unlocked]
+Type = Gameshark
+Activation = EndFrame
+300915B0 0001
+

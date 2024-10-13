@@ -1,0 +1,27 @@
+; CHTDB: ; [ Poy Poy (Europe) {SLES-00785} ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800DB73C 0BA9
+
+[Infinie Energy]
+Type = Gameshark
+Activation = EndFrame
+900DD1CC 00960096
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A710DBB0 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A710DBB0 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A710DBB0 10000400
+

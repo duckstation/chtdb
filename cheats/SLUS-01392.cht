@@ -1,0 +1,28 @@
+; CHTDB: ; [ Skydiving Extreme (USA) (2001) (Natsume) {SLUS-01392} <skydivng> ]
+
+[P1 Height At Top]
+Type = Gameshark
+Activation = EndFrame
+800807CA 00D8
+
+[P1 Height At Bottom]
+Type = Gameshark
+Activation = EndFrame
+800807CA 0000
+
+[P2 Height At Top]
+Type = Gameshark
+Activation = EndFrame
+8008087E 00D8
+
+[P2 Height At Bottom]
+Type = Gameshark
+Activation = EndFrame
+8008087E 0000
+
+[Infinite Time For Evolution hold R2 button in evolution time or on all game time and make one air combination for a stage]
+Type = Gameshark
+Activation = EndFrame
+D008538A 0002
+300807DE 0032
+

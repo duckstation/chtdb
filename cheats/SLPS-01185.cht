@@ -1,0 +1,52 @@
+; CHTDB: ; [ Hissatsu Pachinko Station 2 (Japan) {SLPS-01185} ]
+
+[Have 9999999 Cr in story mode]
+Type = Gameshark
+Activation = EndFrame
+9001000C 0098967F
+
+[Select Jackpot Picture\1]
+Type = Gameshark
+Activation = EndFrame
+80071552 0000
+
+[Select Jackpot Picture\2]
+Type = Gameshark
+Activation = EndFrame
+80071552 0001
+
+[Select Jackpot Picture\3]
+Type = Gameshark
+Activation = EndFrame
+80071552 0002
+
+[Select Jackpot Picture\4]
+Type = Gameshark
+Activation = EndFrame
+80071552 0003
+
+[Select Jackpot Picture\5]
+Type = Gameshark
+Activation = EndFrame
+80071552 0004
+
+[Select Jackpot Picture\6]
+Type = Gameshark
+Activation = EndFrame
+80071552 0005
+
+[Select Jackpot Picture\7]
+Type = Gameshark
+Activation = EndFrame
+80071552 0006
+
+[Select Jackpot Picture\8]
+Type = Gameshark
+Activation = EndFrame
+80071552 0007
+
+[Select Jackpot Picture\9]
+Type = Gameshark
+Activation = EndFrame
+80071552 0008
+

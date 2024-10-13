@@ -1,0 +1,22 @@
+; CHTDB: ; [ Cool Boarders 4 (Europe) {SCES-02283} ]
+
+[Have 10000 Points]
+Type = Gameshark
+Activation = EndFrame
+800A24AC 2710
+
+[No Penalties For Missing Gates]
+Type = Gameshark
+Activation = EndFrame
+800A26BA 6300
+
+[Unlock All Mountains, Boards And Riders]
+Type = Gameshark
+Activation = EndFrame
+800679F4 0005
+
+[Each trick is worth 4000 points]
+Type = Gameshark
+Activation = EndFrame
+9002F2FC 24070FA0
+

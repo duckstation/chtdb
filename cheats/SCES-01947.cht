@@ -1,0 +1,22 @@
+; CHTDB: ; [ Legend of Legaia (Spain) {SCES-01947} ]
+
+[Infinite HP Vahn]
+Type = Gameshark
+Activation = EndFrame
+900855DC 270F270F
+
+[Infinite HP Gala]
+Type = Gameshark
+Activation = EndFrame
+90085E04 270F270F
+
+[Infinite HP Noa]
+Type = Gameshark
+Activation = EndFrame
+900859F0 270F270F
+
+[Infinite Money 99000000]
+Type = Gameshark
+Activation = EndFrame
+9008536C 3B023380
+

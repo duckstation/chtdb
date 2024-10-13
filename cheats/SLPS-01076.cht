@@ -1,0 +1,12 @@
+; CHTDB: ; [ Transformers: Beast Wars (Japan) {SLPS-01076} ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800DC714 1518
+
+[Infinite Energon]
+Type = Gameshark
+Activation = EndFrame
+800DC8B2 FFFF
+

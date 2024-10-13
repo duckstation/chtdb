@@ -1,0 +1,101 @@
+; CHTDB: ; [ Thousand Arms (Japan) {SLPS-01780 | SLPS-01781} ]
+
+[Character Muza\Hp]
+Type = Gameshark
+Activation = EndFrame
+8005DD40 0064
+
+[Character Muza\Ep]
+Type = Gameshark
+Activation = EndFrame
+8005DD44 0064
+
+[Character Uina Infinite & Max Hp]
+Type = Gameshark
+Activation = EndFrame
+8005DDDC 03E7
+8005DD0E 03E7
+
+[Character Uina Infinite & Max Ep]
+Type = Gameshark
+Activation = EndFrame
+9005DD10 03E703E7
+
+[Character Uina\Ep]
+Type = Gameshark
+Activation = EndFrame
+8005DDE0 0064
+
+[MAX money]
+Type = Gameshark
+Activation = EndFrame
+9005DEA8 000F423F
+
+[Level-up, the status MAX]
+Type = Gameshark
+Activation = EndFrame
+9002A45C 24100063
+9002A134 2410270F
+9002A260 241003E7
+9002A53C 24100063
+9002A5A4 24100063
+
+[No Random Battles]
+Type = Gameshark
+Activation = EndFrame
+A60A35A2 00500040
+A6078D66 00510040
+
+[Kiss old man appeared]
+Type = Gameshark
+Activation = EndFrame
+3005E0CF 0001
+
+[Total of Kiss Max]
+Type = Gameshark
+Activation = EndFrame
+8005EDB6 270F
+
+[Enemy does not come out in the dungeon]
+Type = Gameshark
+Activation = EndFrame
+90096A58 0000FFFF
+
+[Enemy does not come out in the field]
+Type = Gameshark
+Activation = EndFrame
+900A9EC0 FFFFFFFF
+
+[Infinite & Max HP in combat 1st Character]
+Type = Gameshark
+Activation = EndFrame
+800B7836 03E7
+800B7B56 03E7
+
+[Infinite & Max HP in combat 2nd Character]
+Type = Gameshark
+Activation = EndFrame
+800B7926 03E7
+800B7946 03E7
+
+[Infinite & Max HP in combat 3rd Character]
+Type = Gameshark
+Activation = EndFrame
+800B7A16 03E7
+800B7A36 03E7
+
+[Hall of Fame / issue number of knowledge]
+Type = Gameshark
+Activation = EndFrame
+301F53CC 000A
+
+[Hall of Fame / number of correct answers of knowledge]
+Type = Gameshark
+Activation = EndFrame
+301F53D0 000A
+
+[Hall of Fame / remaining time of knowledge]
+Type = Gameshark
+Activation = EndFrame
+301F5678 00FF
+

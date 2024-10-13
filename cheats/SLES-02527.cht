@@ -1,0 +1,29 @@
+; CHTDB: ; [ Formula Nippon (Europe) {SLES-02527} ]
+
+[Time is 0.00.00]
+Type = Gameshark
+Activation = EndFrame
+D006B230 0001
+3006B230 0000
+
+[Enable All Scenario Mode]
+Type = Gameshark
+Activation = EndFrame
+D001F7B6 0000
+3001F7B6 0003
+
+[Always First (Press Select + L2 Button)]
+Type = Gameshark
+Activation = EndFrame
+D00A2A02 FEFE
+30106F84 0008
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+A608A3E4 10000C00
+A608A4F4 10000C00
+A608A454 10000C00
+A608A3B4 10000C00
+A608A548 10000C00
+

@@ -1,0 +1,22 @@
+; CHTDB: ; [ Syndicate Wars (USA) (1997) (Electronic Arts) {SLUS-00262} <syndwars> ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+900E39AC 3B9AC9FF
+
+[Infinite Shield (Mission 1)]
+Type = Gameshark
+Activation = EndFrame
+8016474E 0400
+
+[Infinite Shield (Mission 2)]
+Type = Gameshark
+Activation = EndFrame
+80167492 0400
+
+[Infinite Shield (Mission 3)]
+Type = Gameshark
+Activation = EndFrame
+8016ED42 0400
+

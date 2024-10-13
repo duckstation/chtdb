@@ -1,0 +1,61 @@
+; CHTDB: ; [ Spider-Man 2: Enter: Electro (Germany) {SLES-03625} ]
+
+[Unendlich Netzflüssigkeit]
+Type = Gameshark
+Activation = EndFrame
+D0050E12 0067
+80050E14 2400
+
+[Unendlich Gesundheit]
+Type = Gameshark
+Activation = EndFrame
+D005370A 0043
+8004370C 2400
+
+[Training Alle Level freigeschaltet]
+Type = Gameshark
+Activation = EndFrame
+800B3FAC FFFF
+
+[Levelanwahl]
+Type = Gameshark
+Activation = EndFrame
+300C2CCC 0001
+
+[Charakterbetrachter Galerie]
+Type = Gameshark
+Activation = EndFrame
+800B3F7C FFFF
+800B37FE 000F
+
+[Filmbetrachter & Storyboards Galerie]
+Type = Gameshark
+Activation = EndFrame
+800B3F55 0002
+900B3F80 0FFFFFFF
+
+[Comicsammlung Galerie]
+Type = Gameshark
+Activation = EndFrame
+900B3F88 FFFFFFFF
+
+[Bugle-Schlagzeilen Galerie]
+Type = Gameshark
+Activation = EndFrame
+800B3F84 FFFF
+
+[Parkers Portfolio Galerie]
+Type = Gameshark
+Activation = EndFrame
+900B3F8C 00FFFFFF
+
+[Alle Outfits freigeschaltet]
+Type = Gameshark
+Activation = EndFrame
+900B3F78 000FFFFF
+
+[Alle Kräfte freigeschaltet]
+Type = Gameshark
+Activation = EndFrame
+300B3F90 007F
+

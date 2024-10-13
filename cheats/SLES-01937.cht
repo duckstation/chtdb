@@ -1,0 +1,45 @@
+; CHTDB: ; [ 40 Winks aka 40 Winks: Conquer Your Dream (Europe) {SLES-01937} ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800B0592 0003
+
+[Infinite Zzz's (Health)]
+Type = Gameshark
+Activation = EndFrame
+800B0590 0063
+
+[Have 99 Cogs]
+Type = Gameshark
+Activation = EndFrame
+800B058E 0063
+
+[Infinite Moons]
+Type = Gameshark
+Activation = EndFrame
+800B058C 0063
+
+[Infinite Tokens]
+Type = Gameshark
+Activation = EndFrame
+800B0598 0063
+
+[Have All Dreamkeys For All Levels]
+Type = Gameshark
+Activation = EndFrame
+50000C02 0000
+80090480 FFFF
+
+[Have All Levels Open]
+Type = Gameshark
+Activation = EndFrame
+50000202 0000
+8009047A FFFF
+
+[Have All Winks]
+Type = Gameshark
+Activation = EndFrame
+50000302 0000
+80090470 FFFF
+

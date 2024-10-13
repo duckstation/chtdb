@@ -1,0 +1,110 @@
+; CHTDB: ; [ Sim Theme Park (USA) (2000) (Electronic Arts) {SLUS-01069} <simtprk> ]
+
+[Start/Stop Date Press L1+R2 To Start + L1+R1 To Stop]
+Type = Gameshark
+Activation = EndFrame
+D0109C36 F9FF
+90066E78 AE04000C
+D0109C36 F3FF
+80066E7A 2400
+
+[Money Never Decreases]
+Type = Gameshark
+Activation = EndFrame
+80088D62 2400
+
+[Max Gold Tickets]
+Type = Gameshark
+Activation = EndFrame
+80103358 0032
+
+[Infinite Stock-Rides]
+Type = Gameshark
+Activation = EndFrame
+8005EA72 2400
+
+[Infinite Stock-Shops]
+Type = Gameshark
+Activation = EndFrame
+8005E4DE 2400
+
+[Infinite Stock-Sideshows]
+Type = Gameshark
+Activation = EndFrame
+8005E20E 2400
+
+[Infinite Stock-Features]
+Type = Gameshark
+Activation = EndFrame
+8005E376 2400
+
+[Infinite Stock-Track Rides]
+Type = Gameshark
+Activation = EndFrame
+8005E7A2 2400
+
+[Infinite Stock-Roller Coasters]
+Type = Gameshark
+Activation = EndFrame
+8005E646 2400
+
+[Infinite Stock-Guards]
+Type = Gameshark
+Activation = EndFrame
+8005D87E 2400
+
+[Infinite Stock-Mechanics]
+Type = Gameshark
+Activation = EndFrame
+8005D722 2400
+
+[Infinite Stock-Janitors]
+Type = Gameshark
+Activation = EndFrame
+8005D5C6 2400
+
+[Infinite Stock-Researchers]
+Type = Gameshark
+Activation = EndFrame
+8005D46A 2400
+
+[Infinite Stock-Entertainers]
+Type = Gameshark
+Activation = EndFrame
+8005D30E 2400
+
+[Max/Infinite Money (Practice Park)]
+Type = Gameshark
+Activation = EndFrame
+901D565C 0FFFFFFF
+
+[Prehistoric Park\Max/Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+901D56B8 0FFFFFFF
+
+[Prehistoric Park\Quick Research-Rides]
+Type = Gameshark
+Activation = EndFrame
+A61D561E 000000FF
+
+[Prehistoric Park\Quick Research-Shops]
+Type = Gameshark
+Activation = EndFrame
+A61D563A 000000FF
+
+[Prehistoric Park\Quick Research-Sideshows]
+Type = Gameshark
+Activation = EndFrame
+A61D5656 000000FF
+
+[Prehistoric Park\Quick Research-Features]
+Type = Gameshark
+Activation = EndFrame
+A61D5672 000000FF
+
+[Prehistoric Park\Quick Research-Upgrades]
+Type = Gameshark
+Activation = EndFrame
+A61D568E 000000FF
+

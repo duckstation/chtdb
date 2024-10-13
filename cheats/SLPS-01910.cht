@@ -1,0 +1,130 @@
+; CHTDB: ; [ Cyber Org (Japan) {SLPS-01910} ]
+
+[Infinite EP - TJ]
+Type = Gameshark
+Activation = EndFrame
+801174E8 0096
+
+[Infinite LP - TJ]
+Type = Gameshark
+Activation = EndFrame
+801174E4 0064
+
+[Infinite AP (50000) - TJ]
+Type = Gameshark
+Activation = EndFrame
+8011C504 C350
+
+[Always have 9 medicine gauges]
+Type = Gameshark
+Activation = EndFrame
+8011EA60 0009
+
+[Infinite EP]
+Type = Gameshark
+Activation = EndFrame
+A617D16E 00430040
+A61810D8 FFFF0000
+A617CB6A 00620060
+A617BFEE 00460040
+
+[Character T.J. Attack 100%]
+Type = Gameshark
+Activation = EndFrame
+80117590 0064
+
+[Character T.J. Defense 100%]
+Type = Gameshark
+Activation = EndFrame
+80117592 0064
+
+[Character T.J. Extra Ap (Press L2 + R2)]
+Type = Gameshark
+Activation = EndFrame
+D0053DDA 0003
+8011C504 00FF
+
+[Character T.J. Extra Lp (Press L2 + R2)]
+Type = Gameshark
+Activation = EndFrame
+D0053DDA 0003
+801174E4 03E7
+D0053DDA 0003
+801174E6 03E7
+
+[Character T.J. Extra Ep (Press L2 + R2)]
+Type = Gameshark
+Activation = EndFrame
+D0053DDA 0003
+801174E8 03E7
+D0053DDA 0003
+801174EA 03E7
+
+[Character T.J. Extra Gp (Press L2 + R2)]
+Type = Gameshark
+Activation = EndFrame
+D0053DDA 0003
+80117574 03E7
+D0053DDA 0003
+80117576 03E7
+
+[Second Character Extra Ap (Press L2 + R2)]
+Type = Gameshark
+Activation = EndFrame
+D0053DDA 0003
+801172DE 0064
+
+[Second Character Extra Lp (Press L2 + R2)]
+Type = Gameshark
+Activation = EndFrame
+D0053DDA 0003
+8011724C 01F4
+D0053DDA 0003
+8011724E 01F4
+
+[Second Character Extra Ep (Press L2 + R2)]
+Type = Gameshark
+Activation = EndFrame
+D0053DDA 0003
+80117250 01F4
+D0053DDA 0003
+80117252 01F4
+
+[Second Character Extra Gp (Press L2 + R2)]
+Type = Gameshark
+Activation = EndFrame
+D0053DDA 0003
+8011C504 01F4
+D0053DDA 0003
+801172DC 0064
+
+[3rd Character Extra Ap (Press L2 + R2)]
+Type = Gameshark
+Activation = EndFrame
+D0053DDA 0003
+8011742A 0064
+
+[3rd Character Extra Lp (Press L2 + R2)]
+Type = Gameshark
+Activation = EndFrame
+D0053DDA 0003
+80117398 01F4
+D0053DDA 0003
+8011739A 01F4
+
+[3rd Character Extra Ep (Press L2 + R2)]
+Type = Gameshark
+Activation = EndFrame
+D0053DDA 0003
+8011739C 01F4
+D0053DDA 0003
+8011739E 01F4
+
+[3rd Character Extra Gp (Press L2 + R2)]
+Type = Gameshark
+Activation = EndFrame
+D0053DDA 0003
+8011C504 01F4
+D0053DDA 0003
+80117428 0064
+

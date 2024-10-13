@@ -1,0 +1,30 @@
+; CHTDB: ; [ Gensei Kyokou Seirei Kidoudan: Elemental Gearbolt (Japan) {SCPS-10038} ]
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8009473A 0190
+
+[P2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8009474C 0190
+
+[P1 No Need to Reload]
+Type = Gameshark
+Activation = EndFrame
+E0095ACC 00EA
+30095ACC 00FF
+
+[P2 No Need to Reload]
+Type = Gameshark
+Activation = EndFrame
+E0095ADC 00EA
+30095ADC 00FF
+
+[Press L2+R2 on Options for Debug Menu]
+Type = Gameshark
+Activation = EndFrame
+E0051A00 0003
+3000E2E0 0003
+

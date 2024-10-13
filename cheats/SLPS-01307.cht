@@ -1,0 +1,67 @@
+; CHTDB: ; [ Lost Sword: Ushinawareta Seiken (Japan) {SLPS-01307} ]
+
+[Select Stage\2]
+Type = Gameshark
+Activation = EndFrame
+30073B2C 0002
+
+[Select Stage\3]
+Type = Gameshark
+Activation = EndFrame
+30073B2C 0003
+
+[Select Stage\4]
+Type = Gameshark
+Activation = EndFrame
+30073B2C 0004
+
+[Select Stage\5]
+Type = Gameshark
+Activation = EndFrame
+30073B2C 0005
+
+[Select Stage\6]
+Type = Gameshark
+Activation = EndFrame
+30073B2C 0006
+
+[Select Stage\7]
+Type = Gameshark
+Activation = EndFrame
+30073B2C 0007
+
+[Select Stage\8]
+Type = Gameshark
+Activation = EndFrame
+30073B2C 0008
+
+[Select Stage\9]
+Type = Gameshark
+Activation = EndFrame
+30073B2C 0009
+
+[Select Stage\10]
+Type = Gameshark
+Activation = EndFrame
+30073B2C 000A
+
+[Select Stage\11]
+Type = Gameshark
+Activation = EndFrame
+30073B2C 000B
+
+[Select Stage\12]
+Type = Gameshark
+Activation = EndFrame
+30073B2C 000C
+
+[Select Stage\13]
+Type = Gameshark
+Activation = EndFrame
+30073B2C 000D
+
+[Map display]
+Type = Gameshark
+Activation = EndFrame
+30057438 0001
+

@@ -1,0 +1,27 @@
+; CHTDB: ; [ Fisherman's Bait - A Bass Challenge (USA) (1999) (Konami of America) {SLUS-00802} <fbait> ]
+
+[Access All Levels]
+Type = Gameshark
+Activation = EndFrame
+800648EA 00FF
+
+[Disable Timer]
+Type = Gameshark
+Activation = EndFrame
+800B0F54 76A8
+
+[Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+800B060A 0009
+
+[Always Catch Larger Fish]
+Type = Gameshark
+Activation = EndFrame
+800A84CE 00FF
+
+[Have Total Count List (Options - Press Select To View)]
+Type = Gameshark
+Activation = EndFrame
+801F9058 0008
+

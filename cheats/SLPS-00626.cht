@@ -1,0 +1,8 @@
+; CHTDB: ; [ Goo-Cho de Park: Theme Park Monogatari (Japan) {SLPS-00626} ]
+
+[P1 has 99999 money]
+Type = Gameshark
+Activation = EndFrame
+800A4DBC 270F
+800A3890 270F
+

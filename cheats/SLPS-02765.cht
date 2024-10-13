@@ -1,0 +1,7 @@
+; CHTDB: ; [ Hissatsu Pachinko Station 9: Ushiwaka to Lemi (Japan) {SLPS-02765} ]
+
+[Have 9000000 gold in story mode]
+Type = Gameshark
+Activation = EndFrame
+9012308C 00895440
+

@@ -1,0 +1,70 @@
+; CHTDB: ; [ Tenshi Doumei (Japan) {SLPS-01228} ]
+
+[Yang Main Character All Stat Max]
+Type = Gameshark
+Activation = EndFrame
+300D708D 00FF
+800D708E FFFF
+300D708F 00FF
+800D7090 FFFF
+300D7091 00FF
+300D7092 000F
+
+[Gil Main Robot Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+300D71AE 00FF
+300D71AF 00FF
+300D71B0 00FF
+
+[Gil Main Robot Infinite RES]
+Type = Gameshark
+Activation = EndFrame
+300D71B5 00FF
+300D71B6 00FF
+
+[Gil Main Robot Infinite WHT]
+Type = Gameshark
+Activation = EndFrame
+300D71B8 00FF
+300D71B9 00FF
+300D71BA 0000
+
+[Gil Main Robot All Other Stat Max]
+Type = Gameshark
+Activation = EndFrame
+300D70B1 00FF
+800D70B2 FFFF
+800D70B4 FFFF
+300D70B6 000F
+300D71B7 00FF
+
+[Gil Main Robot Infinite Move]
+Type = Gameshark
+Activation = EndFrame
+300D71C6 000F
+
+[Case All Stat Max]
+Type = Gameshark
+Activation = EndFrame
+300D7099 00FF
+800D709A FFFF
+800D709C FFFF
+300D709E 000F
+
+[Elliott All Stat Max]
+Type = Gameshark
+Activation = EndFrame
+300D70A5 00FF
+800D70A6 FFFF
+800D70A8 FFFF
+300D70AA 000F
+
+[Shinkai All Stat Max]
+Type = Gameshark
+Activation = EndFrame
+300D70BD 00FF
+800D70BE FFFF
+800D70C0 FFFF
+300D70C2 000F
+

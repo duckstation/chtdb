@@ -1,0 +1,12 @@
+; CHTDB: ; [ Doko Demo Hamster: Bi! Click Tanken-tai (Japan) {SLPS-03356} ]
+
+[Infinite Lives In Dinosaur Mini Game]
+Type = Gameshark
+Activation = EndFrame
+8012298C 0003
+
+[Infinite Energy Boat Mini Game]
+Type = Gameshark
+Activation = EndFrame
+80122974 0080
+

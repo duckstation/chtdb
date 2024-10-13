@@ -1,0 +1,57 @@
+; CHTDB: ; [ Inuyasha (Japan) (Shokai Seisanban) {SLPS-03361} ]
+
+[Infinite & Max Health Inuyasha 998]
+Type = Gameshark
+Activation = EndFrame
+800D0426 03E7
+800D0446 03E7
+
+[Infinite Magic Inuyasha 999]
+Type = Gameshark
+Activation = EndFrame
+800D0428 03E7
+800D0448 03E7
+
+[Infinite HP Inuyasha in battle]
+Type = Gameshark
+Activation = EndFrame
+800CCEF4 03E7
+800CCF14 03E7
+
+[Infinite & Max HP Kagome in battle]
+Type = Gameshark
+Activation = EndFrame
+800CCFF0 03E7
+800CD010 03E7
+
+[Infinite MP Kagome in battle]
+Type = Gameshark
+Activation = EndFrame
+800CCFF2 0063
+
+[Infinite & Max MP Inuyasha in battle]
+Type = Gameshark
+Activation = EndFrame
+800CCEF6 0063
+800CCF16 0063
+
+[Fragments of Four Souls]
+Type = Gameshark
+Activation = EndFrame
+800B64E4 006c
+
+[Enemy does not come out]
+Type = Gameshark
+Activation = EndFrame
+300B65D0 0000
+
+[Homeless anywhere]
+Type = Gameshark
+Activation = EndFrame
+300B660C 0001
+
+[Mica possible at any time]
+Type = Gameshark
+Activation = EndFrame
+300D2750 00C2
+

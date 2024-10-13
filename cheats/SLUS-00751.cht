@@ -1,0 +1,22 @@
+; CHTDB: ; [ Eggs of Steel - Charlie's Eggcellent Adventure (USA) (1998) (Atlus Software) {SLUS-00751} <eggsteel> ]
+
+[Infinite Bolts]
+Type = Gameshark
+Activation = EndFrame
+80078B20 0025
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80122FA8 000C
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80078B14 000A
+
+[Low Temperature Gauge]
+Type = Gameshark
+Activation = EndFrame
+80078B18 0170
+

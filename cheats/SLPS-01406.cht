@@ -1,0 +1,62 @@
+; CHTDB: ; [ Thunder Force V - Perfect System (Jpn) (1998) (TechnoSoft) {SLPS-01406} <tf5j> ]
+
+[Infinite Life]
+Type = Gameshark
+Activation = EndFrame
+800978AE 0003
+
+[Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+800949E2 0063
+
+[Infinite Weapons]
+Type = Gameshark
+Activation = EndFrame
+800978BA 001F
+
+[Craww]
+Type = Gameshark
+Activation = EndFrame
+80097856 0003
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800978DE 0091
+
+[CRAW energy MAX]
+Type = Gameshark
+Activation = EndFrame
+80097868 3000
+
+[I can use all weapons]
+Type = Gameshark
+Activation = EndFrame
+300978BA 00FF
+
+[The possible + Time Attack watch digital viewer]
+Type = Gameshark
+Activation = EndFrame
+90097720 FFFFFFFF
+90097724 FFFFFFFF
+80097728 FFFF
+3009772A 00FF
+
+[You can free Kontini MASTER difficulty can be selected I use booster machine in Time Attack]
+Type = Gameshark
+Activation = EndFrame
+80097746 FFFF
+80097764 FFFF
+8009776C FFFE
+
+[Time Attack mode Remaining time (0000 ~ FFFF)]
+Type = Gameshark
+Activation = EndFrame
+80083BF0 FFFF
+
+[TOTAL ATTACK TIME 00.00.00]
+Type = Gameshark
+Activation = EndFrame
+90083C4C 00000000
+

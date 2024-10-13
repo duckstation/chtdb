@@ -1,0 +1,104 @@
+; CHTDB: ; [ Hugo: Black Diamond Fever (Europe) {SLES-03513} ]
+
+[Unlock All Levels]
+Type = Gameshark
+Activation = EndFrame
+5000080C 0000
+80161E04 0001
+
+[Refill Health Lv 1 - Palm Beach - Press L1]
+Type = Gameshark
+Activation = EndFrame
+D008C8B6 FBFF
+80151F18 000B
+
+[99 Lives Lv 1 - Press Select]
+Type = Gameshark
+Activation = EndFrame
+D008C8B6 FFFE
+80151F14 0064
+
+[Refill Health Lv 2 - Der Old Kiku Pfad - Press L1]
+Type = Gameshark
+Activation = EndFrame
+D008C8B6 FBFF
+801531EC 000B
+
+[99 Lives Lv 2 - Press Select]
+Type = Gameshark
+Activation = EndFrame
+D008C8B6 FFFE
+801531E8 0064
+
+[Refill Health Lv 3 - Die Diamanten Hohle - Press L1]
+Type = Gameshark
+Activation = EndFrame
+D008C8B6 FBFF
+80145A40 000B
+
+[99 Lives - Lv3 - Press Select]
+Type = Gameshark
+Activation = EndFrame
+D008C8B6 FFFE
+80145A3C 0064
+
+[Refill Health Lv 4 - Am Laufenden Band -Press L1]
+Type = Gameshark
+Activation = EndFrame
+D008C8B6 FBFF
+80152574 000B
+
+[99 Lives - Lv 4 - Press Select]
+Type = Gameshark
+Activation = EndFrame
+D008C8B6 FFFE
+80152570 0064
+
+[Refill Health Lv 5 - Die Olbohr Insel - Press L1]
+Type = Gameshark
+Activation = EndFrame
+D008C8B6 FBFF
+80151748 000B
+
+[99 Lives - Lv 5 - Press Select]
+Type = Gameshark
+Activation = EndFrame
+D008C8B6 FFFE
+80151744 0064
+
+[Refill Health - Lv 6 - Die Diamanten Fabrik - Press L1 .Pay special attention to Lv 6 codes - L2 is the button instead of Select. When you fall of a cliff or something and about to die do not not activate the refill health codes as this will freeze the game.]
+Type = Gameshark
+Activation = EndFrame
+D008C8B6 FBFF
+80145A7C 000B
+
+[99 Lives - Lv 6 - Press L2 .Pay special attention to Lv 6 codes - L2 is the button instead of Select. When you fall of a cliff or something and about to die do not not activate the refill health codes as this will freeze the game.]
+Type = Gameshark
+Activation = EndFrame
+D008C8B6 FEFF
+80145A78 0064
+
+[Refill Health - Lv 7 - Vollig Uberlastet - Press L1]
+Type = Gameshark
+Activation = EndFrame
+D008C8B6 FBFF
+8014FA88 000B
+
+[99 Lives - Lv 7 - Press Select]
+Type = Gameshark
+Activation = EndFrame
+D008C8B6 FFFE
+8014FA84 0064
+
+[Refill Health - Lv 8 - Die Flucht - Press L1]
+Type = Gameshark
+Activation = EndFrame
+D008C8B6 FBFF
+80145078 000B
+
+[99 Lives - Lv 8 - Press Select]
+Type = Gameshark
+Activation = EndFrame
+D008C8B6 FFFE
+80145074 0064
+

@@ -1,0 +1,127 @@
+; CHTDB: ; [ Rittai Ninja Katsugeki: Tenchu 2 (Japan) {SLPS-03040} ]
+
+[Dragon circle available]
+Type = Gameshark
+Activation = EndFrame
+30010008 000F
+D010F928 10F0
+8010F950 0001
+
+[99 of each of the items in ninja tools]
+Type = Gameshark
+Activation = EndFrame
+D00D17A4 6450
+800D1788 0063
+D00D17A4 6450
+800D178A 2403
+D00D17A4 6450
+800D178C 0018
+D00D17A4 6450
+800D178E A043
+
+[Dragon circle and all mission Available]
+Type = Gameshark
+Activation = EndFrame
+D0110438 017C
+8011046C 0001
+A61104D4 001B0001
+
+[0 time required]
+Type = Gameshark
+Activation = EndFrame
+D001740C 0640
+8001740E AF80
+D0063E4C 5BD4
+80063E04 0001
+D0063E4C 5BD4
+80063E06 3402
+
+[255 of all ninja tools]
+Type = Gameshark
+Activation = EndFrame
+D0051640 0C31
+8005167C 00FF
+D0051640 0C31
+8005167E 2402
+D0051640 0C31
+80051680 0150
+D0051640 0C31
+80051682 A062
+D0051640 0C31
+80051784 0001
+
+[Infinite Physical strength .It is not valid for the death blow]
+Type = Gameshark
+Activation = EndFrame
+D006586C 0560
+80065878 0064
+D006586C 0560
+8006587A 3411
+D006586C 0560
+80065894 0008
+D006586C 0560
+80065896 A491
+D006586C 0560
+80065898 0006
+D006586C 0560
+8006589A 1040
+
+[Time by 32 cloak of invisibility effect]
+Type = Gameshark
+Activation = EndFrame
+A60584E0 03857700
+
+[Cloak of invisibility effect is available in the ninja tools]
+Type = Gameshark
+Activation = EndFrame
+D0023634 0678
+8002365E 1000
+
+[Infinite Oxygen]
+Type = Gameshark
+Activation = EndFrame
+D001F02C 5555
+8001F012 1400
+
+[Infinite Time Cheat Sheet]
+Type = Gameshark
+Activation = EndFrame
+D00179BC 07D0
+800179BE AF80
+D004C00C 3DB6
+8004C000 0001
+D004C00C 3DB6
+8004C01C 0001
+
+[All Mission Cheat Sheet]
+Type = Gameshark
+Activation = EndFrame
+D00CC8E4 079C
+800CC8E6 A044
+D00CC8E4 079C
+800CC8EC 0001
+
+[Infinite Physical strength Cheat Sheet .It is not valid for the death blow.]
+Type = Gameshark
+Activation = EndFrame
+D004A1AC 3E58
+8004A1B0 0064
+D004A1AC 3E58
+8004A1B2 3403
+D004A1AC 3E58
+8004A1D4 0008
+D004A1AC 3E58
+8004A1D6 A4A3
+
+[Infinite Oxygen Cheat Sheet]
+Type = Gameshark
+Activation = EndFrame
+D001F46C 4220
+8001F466 1400
+
+[Infinite Ninja tools Cheat Sheet]
+Type = Gameshark
+Activation = EndFrame
+D0039FD4 0150
+80039FD0 0000
+

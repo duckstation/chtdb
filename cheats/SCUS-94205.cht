@@ -1,0 +1,18 @@
+; CHTDB: ; [ The King of Fighters '95 (USA) (1996) (Sony Computer Entertainment America) {SCUS-94205} <kof95> ]
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800BCFA0 00CF
+
+[P1 Needs 1 Round To Win]
+Type = Gameshark
+Activation = EndFrame
+D00B41E0 0000
+300B41E1 0001
+
+[P2 No Energy]
+Type = Gameshark
+Activation = EndFrame
+800BCFA2 0000
+

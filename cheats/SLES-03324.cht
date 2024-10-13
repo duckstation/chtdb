@@ -1,0 +1,88 @@
+; CHTDB: ; [ Astérix: Mega Madness (Europe) {SLES-03324} ]
+
+[Unlock All Stages]
+Type = Gameshark
+Activation = EndFrame
+301FE8A0 0004
+
+[Unlock All Stages (.Press/Hold L1,L2,R1,R2 at the main menu.)]
+Type = Gameshark
+Activation = EndFrame
+D0075E4A F0FF
+301FE8A0 0004
+
+[Maximum score in Crossbow mini game]
+Type = Gameshark
+Activation = EndFrame
+80086658 270F
+
+[Maximum score in Recipes mini game]
+Type = Gameshark
+Activation = EndFrame
+8008D438 270F
+
+[Maximum score in Eating mini game]
+Type = Gameshark
+Activation = EndFrame
+80081B7C 270F
+
+[Maximum score catching jabali mini game]
+Type = Gameshark
+Activation = EndFrame
+800896E4 270F
+
+[Maximum score carrier racing mini game]
+Type = Gameshark
+Activation = EndFrame
+800868D0 270F
+
+[Maximum score destructing roman camp mini game]
+Type = Gameshark
+Activation = EndFrame
+80097BEC 270F
+
+[Maximum score catapult race mini game]
+Type = Gameshark
+Activation = EndFrame
+801A7540 270F
+
+[Maximum score collecting roman helmets mini game]
+Type = Gameshark
+Activation = EndFrame
+8008D670 270F
+
+[Maximum score rowing race mini game]
+Type = Gameshark
+Activation = EndFrame
+801CADB8 270F
+
+[Infinite Energy in fighting on shield mini game]
+Type = Gameshark
+Activation = EndFrame
+8008CDBC 0064
+
+[Maximum score fighting on shield mini game]
+Type = Gameshark
+Activation = EndFrame
+8018D648 270F
+
+[Maximum score hide & seek mini game]
+Type = Gameshark
+Activation = EndFrame
+8008DCE4 270F
+
+[Maximum score galley crash mini game]
+Type = Gameshark
+Activation = EndFrame
+801C95F0 270F
+
+[Maximum score obstacle race mini game]
+Type = Gameshark
+Activation = EndFrame
+80083ED0 270F
+
+[Maximum score shoot or die mini game]
+Type = Gameshark
+Activation = EndFrame
+80086658 270F
+

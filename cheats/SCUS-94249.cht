@@ -1,0 +1,92 @@
+; CHTDB: ; [ Twisted Metal III (USA, v1.0) (1998) (989 Studios) {SCUS-94249} <twistmt3a> ]
+
+[Ammo Never Decrease (All Players)]
+Type = Gameshark
+Activation = EndFrame
+80033ED6 2400
+
+[P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800D300C 0002
+
+[P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800D309C 0002
+
+[Select Character\Minion]
+Type = Gameshark
+Activation = EndFrame
+800D28D0 0007
+
+[Select Character\Sweettooth]
+Type = Gameshark
+Activation = EndFrame
+800D28D0 000B
+
+[Infinite Turbo All Players]
+Type = Gameshark
+Activation = EndFrame
+800201B2 2400
+
+[Infinite Special Meter All Players]
+Type = Gameshark
+Activation = EndFrame
+8001975E 2400
+
+[Start With All Weapons, Specials + Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+8007EBFC 0001
+
+[God Mode]
+Type = Gameshark
+Activation = EndFrame
+8007EC84 0001
+
+[Enable Sweet Tooth]
+Type = Gameshark
+Activation = EndFrame
+8007EBDC 0001
+
+[Enable Minion]
+Type = Gameshark
+Activation = EndFrame
+8007EBE4 0001
+
+[Start Deathmatch In Club Kids House]
+Type = Gameshark
+Activation = EndFrame
+8007EBCC 0001
+
+[Start Deathmatch In Warehouse 1]
+Type = Gameshark
+Activation = EndFrame
+8007EBC4 0001
+
+[Start Deathmatch In Warehouse 2]
+Type = Gameshark
+Activation = EndFrame
+8007EBD4 0001
+
+[Enable High Napalms]
+Type = Gameshark
+Activation = EndFrame
+8007EC14 0001
+
+[Enable Homing Rain]
+Type = Gameshark
+Activation = EndFrame
+8007EC2C 0001
+
+[Enable Giant Richochet Bombs]
+Type = Gameshark
+Activation = EndFrame
+8007EC34 0001
+
+[CPU Cars Ignore Ammo When Low]
+Type = Gameshark
+Activation = EndFrame
+8007EC9C 0001
+

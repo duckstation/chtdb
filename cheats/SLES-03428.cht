@@ -1,0 +1,12 @@
+; CHTDB: ; [ Evil Dead: Hail to the King (Europe) {SLES-03428 | SLES-13428} ]
+
+[Invincibility Disc 1]
+Type = Gameshark
+Activation = EndFrame
+8007720C 0064
+
+[Invincibility Disc 2]
+Type = Gameshark
+Activation = EndFrame
+80077354 0064
+

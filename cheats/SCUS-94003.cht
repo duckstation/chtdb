@@ -1,0 +1,28 @@
+; CHTDB: ; [ Battle Arena Toshinden (USA) (1995) (Sony Computer Entertainment America) {SCUS-94003, SCUS-94200} <toshin> ]
+
+[P1 Infinite Health (Code 1)]
+Type = Gameshark
+Activation = EndFrame
+801B82D0 00FE
+
+[P1 Infinite Health]
+Description = Use this cheat or cheat 2
+Type = Gameshark
+Activation = EndFrame
+801BC188 0000
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+801CA6E8 0B3A
+
+[Choose Gaia]
+Type = Gameshark
+Activation = EndFrame
+801BC11A 0008
+
+[Choose Sho]
+Type = Gameshark
+Activation = EndFrame
+801BC11A 0009
+

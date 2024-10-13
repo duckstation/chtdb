@@ -1,0 +1,20 @@
+; CHTDB: ; [ Road & Track Presents: The Need for Speed (Europe) {SLES-00223} ]
+
+[Lap 4 (Press Select & Circle)]
+Type = Gameshark
+Activation = EndFrame
+D00F7C5E DFFE
+3011A45C 0004
+
+[Lap 6 (Press Select & X)]
+Type = Gameshark
+Activation = EndFrame
+D00F7C5E BFFE
+3011A45C 0006
+
+[Lap 8 (Press Select & Square)]
+Type = Gameshark
+Activation = EndFrame
+D00F7C5E BFFE
+3011A45C 0008
+

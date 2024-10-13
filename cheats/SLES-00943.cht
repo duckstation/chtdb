@@ -1,0 +1,27 @@
+; CHTDB: ; [ Lucky Luke (Europe) {SLES-00943} ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8009FE70 00FF
+
+[Infinite B's]
+Type = Gameshark
+Activation = EndFrame
+8009FE78 00FF
+
+[Infinite Dynamite]
+Type = Gameshark
+Activation = EndFrame
+8009FE76 00FF
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+8009FE74 00FF
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8009FE72 0003
+

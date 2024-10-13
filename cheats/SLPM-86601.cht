@@ -1,0 +1,12 @@
+; CHTDB: ; [ Najavu no Daibouken - My Favorite Namjatown (Jpn) (2000) (Namco) {SLPM-86601} <najavu> ]
+
+[99 Diamonds On Imatation & Jumping Over Cliffs Games]
+Type = Gameshark
+Activation = EndFrame
+80072A60 0063
+
+[Have 9999 Diamonds]
+Type = Gameshark
+Activation = EndFrame
+800747AC 270F
+

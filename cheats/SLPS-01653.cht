@@ -1,0 +1,22 @@
+; CHTDB: ; [ Nihon Pro Mahjong Renmei Kounin: Honkaku Pro Mahjong: Shin Tetsuman (Japan) {SLPS-01653} ]
+
+[Player has 999900 points]
+Type = Gameshark
+Activation = EndFrame
+8007A328 270F
+
+[Opponent 1 has 0 points]
+Type = Gameshark
+Activation = EndFrame
+8007A334 0000
+
+[Opponent 2 has 0 points]
+Type = Gameshark
+Activation = EndFrame
+8007A330 0000
+
+[Opponent 3 has 0 points]
+Type = Gameshark
+Activation = EndFrame
+8007A32C 0000
+

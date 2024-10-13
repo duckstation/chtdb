@@ -1,0 +1,53 @@
+; CHTDB: ; [ N2O - Nitrous Oxide (USA) (1998) (Fox Interactive) {SLUS-00637} <n2o> ]
+
+[P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8011B354 0103
+
+[P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8011B36C 0103
+
+[Driller Counter]
+Type = Gameshark
+Activation = EndFrame
+8011B488 0E60
+
+[P1 Infinite Special Weapon Ammo + Firewalls]
+Type = Gameshark
+Activation = EndFrame
+8011B212 0A63
+
+[P1 Infinite Shields]
+Type = Gameshark
+Activation = EndFrame
+8011B1FC 1117
+
+[P2 Infinite Shields]
+Type = Gameshark
+Activation = EndFrame
+8011B27C 0FFA
+
+[Have All Missions Unlocked This takes you to the last level. All you have to do is beat it, then goto options and save setup. Then you can on any level anytime.]
+Type = Gameshark
+Activation = EndFrame
+80091250 001D
+80091254 001D
+
+[Bonus Level Access]
+Type = Gameshark
+Activation = EndFrame
+3011B473 0001
+
+[Have Speedcore Ship Unlocked]
+Type = Gameshark
+Activation = EndFrame
+8011B4DC 0005
+
+[Unlock All Levels]
+Type = Gameshark
+Activation = EndFrame
+3011B477 0001
+

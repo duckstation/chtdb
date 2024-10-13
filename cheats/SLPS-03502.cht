@@ -1,0 +1,53 @@
+; CHTDB: ; [ Final Fantasy II (Jpn) (2002) (Squaresoft) {SLPS-03502} <ffant2> ]
+
+[Max money]
+Type = Gameshark
+Activation = EndFrame
+900AFA7C 0001869F
+
+[999 HP]
+Type = Gameshark
+Activation = EndFrame
+800AF892 03E7
+800AF894 03E7
+
+[Save Anywhere]
+Type = Gameshark
+Activation = EndFrame
+D013EC60 0024
+8013EC7E 1000
+
+[100% Monster Encyclopedia]
+Type = Gameshark
+Activation = EndFrame
+C0141F08 1040
+90141F14 240283E7
+80141F1A A462
+00000000 FFFF
+
+[100% item collection rate does not go out and see the effect once]
+Type = Gameshark
+Activation = EndFrame
+800149CE A060
+800149DC 0000
+
+[Complementary Art Gallery]
+Type = Gameshark
+Activation = EndFrame
+300AFB2B 00FF
+
+[None Encounter with SELECT + ?]
+Description = It will be canceled without the encounter with ? + x. When set to ON without the encounter end of combat after you encounter one every step.
+Type = Gameshark
+Activation = EndFrame
+D011CA7A DFFE
+8003FAD0 0000
+D011CA7A 9FFF
+8003FAD0 FFFF
+
+[Mini-games anywhere]
+Type = Gameshark
+Activation = EndFrame
+D011CA7A FFFE
+800B0174 FE0B
+

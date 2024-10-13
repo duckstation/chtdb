@@ -1,0 +1,42 @@
+; CHTDB: ; [ Point Blank 2 (USA) (1999) (Namco Hometek) {SLUS-00796} <ptblank2> ]
+
+[Infinite Bullets All Modes]
+Type = Gameshark
+Activation = EndFrame
+800B29F4 0010
+
+[Point Blank Castle Mode\P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800BD4E8 0009
+
+[Point Blank Castle Mode\P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800BD4EA 0009
+
+[Theme Park Mode\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800A8D48 0009
+
+[Theme Park Mode\Super Bullet Train - Max Targets Hit]
+Type = Gameshark
+Activation = EndFrame
+A60B30BC 00000FFF
+
+[Theme Park Mode\Cosmic Drive - Max Targets Hit]
+Type = Gameshark
+Activation = EndFrame
+A60B3248 00000063
+
+[Theme Park Mode\Abyss Tours - Max Targets Hit]
+Type = Gameshark
+Activation = EndFrame
+A60A8F12 00000063
+
+[Theme Park Mode\Haunted House - Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800B263C 012C
+

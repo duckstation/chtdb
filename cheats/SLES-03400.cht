@@ -1,0 +1,7 @@
+; CHTDB: ; [ Pipe Mania 3D (Europe) {SLES-03400} ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8010BB0C 0009
+

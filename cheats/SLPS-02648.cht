@@ -1,0 +1,22 @@
+; CHTDB: ; [ Jishaku de Tonjau!? Phix no Daibouken (Japan) {SLPS-02648} ]
+
+[Number of credits]
+Type = Gameshark
+Activation = EndFrame
+900E73B4 00030005
+
+[99 Crystals]
+Type = Gameshark
+Activation = EndFrame
+800E73B0 0063
+
+[Infinite Shield]
+Type = Gameshark
+Activation = EndFrame
+800E80B4 0074
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800E73A8 07D0
+

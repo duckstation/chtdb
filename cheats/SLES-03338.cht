@@ -1,0 +1,32 @@
+; CHTDB: ; [ BursTrick: Wake Boarding!! (Europe) {SLES-03338} ]
+
+[Stop Timer]
+Type = Gameshark
+Activation = EndFrame
+30066758 0DA1
+
+[Infinite Bt]
+Type = Gameshark
+Activation = EndFrame
+80012DFC 0009
+
+[Trick mode Get 50.000 points for each trick]
+Type = Gameshark
+Activation = EndFrame
+D006367E 0044
+8006367C 61A8
+A606367E 00442442
+D00636AE 0044
+800636AC 61A8
+A60636AE 00442442
+
+[Unlocked Ten]
+Type = Gameshark
+Activation = EndFrame
+30110677 0001
+
+[Unlock All Boards]
+Type = Gameshark
+Activation = EndFrame
+30110679 0101
+

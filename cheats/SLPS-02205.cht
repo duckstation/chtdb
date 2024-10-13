@@ -1,0 +1,52 @@
+; CHTDB: ; [ Choro-Q Wonderful! (Jpn) (1999) (Takara) {SLPS-02205} <choroqwf> ]
+
+[Speed Turbo = 300Km]
+Type = Gameshark
+Activation = EndFrame
+801E3E24 4580
+
+[Speed Turbo = 300Km (Presss L1+R1+X)]
+Type = Gameshark
+Activation = EndFrame
+D01E4EEA B3FF
+801E3E24 4580
+
+[Super Dise Brake (Press Square)]
+Type = Gameshark
+Activation = EndFrame
+D01E4EEA 7FFF
+801E3E24 0000
+
+[All Parts]
+Type = Gameshark
+Activation = EndFrame
+301F7DB8 00FF
+801F7DBC 03FF
+301F7DC0 000F
+301F7DC4 000F
+301F7DC8 003F
+301F7DCC 001F
+
+[All Items]
+Type = Gameshark
+Activation = EndFrame
+801F7DD0 0FFF
+
+[All Stamps]
+Type = Gameshark
+Activation = EndFrame
+901F7CBC FFFFFFFF
+901F7CC0 FFFFFFFF
+901F7CC4 FFFFFFFF
+301F7CC8 000F
+
+[All Memos]
+Type = Gameshark
+Activation = EndFrame
+901F7F48 FFFFFFFF
+
+[Max Km.]
+Type = Gameshark
+Activation = EndFrame
+901F7DD8 05F5E0FF
+

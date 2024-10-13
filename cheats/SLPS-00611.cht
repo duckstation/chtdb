@@ -1,0 +1,35 @@
+; CHTDB: ; [ Super Puzzle Fighter II X (Japan) {SLPS-00611} ]
+
+[P1 Max Score]
+Type = Gameshark
+Activation = EndFrame
+901A958C 0098967F
+
+[P1 Step 99 Chain]
+Type = Gameshark
+Activation = EndFrame
+301A97D4 0063
+
+[P1 No Counter Gems]
+Type = Gameshark
+Activation = EndFrame
+301A9A12 0000
+
+[P2 No Counter Gems]
+Type = Gameshark
+Activation = EndFrame
+301A9766 0000
+
+[P1 99 Counter Gems]
+Type = Gameshark
+Activation = EndFrame
+301A9A12 0063
+
+[Unlock Extras]
+Type = Gameshark
+Activation = EndFrame
+50000504 0000
+8016B308 07FF
+50000901 0000
+3016B31C 0001
+

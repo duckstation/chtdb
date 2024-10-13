@@ -1,0 +1,64 @@
+; CHTDB: ; [ Colin McRae Rally 2.0 (Europe) {SLES-02605} ]
+
+[99 Laps Selectable]
+Type = Gameshark
+Activation = EndFrame
+D10A39BE 0091
+300A39BE 0063
+
+[All Unlocked]
+Type = Gameshark
+Activation = EndFrame
+8004D9D4 FFFF
+
+[Rally-Mode\Infinite Setup- & Repair-Time]
+Type = Gameshark
+Activation = EndFrame
+D006765E AC85
+8006765C 0000
+A606765E AC850000
+
+[Rally-Mode\Timer Stopped / Always 1st]
+Type = Gameshark
+Activation = EndFrame
+D006F768 0004
+8006F76A 0000
+A606F768 00040000
+
+[Rally-Mode\Always 1st (Display)]
+Type = Gameshark
+Activation = EndFrame
+D006F142 A222
+3006F142 0020
+D00E89B2 A043
+300E89B2 0040
+
+[Rally-Mode\Timer Stopped (Alternate)]
+Type = Gameshark
+Activation = EndFrame
+D006F764 D0A3
+50000402 0000
+8006F764 0000
+
+[Rally-Mode\Have 136 Points (Championship Won)]
+Type = Gameshark
+Activation = EndFrame
+3005068E 0088
+
+[Arcade-Mode\Have 20 Points (Championship Won)]
+Type = Gameshark
+Activation = EndFrame
+30050712 0014
+
+[Arcade-Mode\Cpu-Cars Make No Points]
+Type = Gameshark
+Activation = EndFrame
+50000504 0000
+80050716 0000
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+80056BA0 2EEE
+80056BA2 0001
+

@@ -1,0 +1,22 @@
+; CHTDB: ; [ Backstreet Billiards (USA) (1998) (ASCII Entertainment Software) {SLUS-00659} <bsbillrd> ]
+
+[CPU Always Loses Turn]
+Type = Gameshark
+Activation = EndFrame
+800E1544 0000
+
+[Have Maximum Cue Shot Power]
+Type = Gameshark
+Activation = EndFrame
+800BA54C 000B
+
+[Have Maximum Player's Technique]
+Type = Gameshark
+Activation = EndFrame
+800BA550 000C
+
+[Have Maximum Player's Mentality]
+Type = Gameshark
+Activation = EndFrame
+800BA554 000B
+

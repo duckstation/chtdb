@@ -1,0 +1,12 @@
+; CHTDB: ; [ Need for Speed II (Euro) (1997) (Electronic Arts) {SLES-00658} <nfs2e> ]
+
+[All cars upgraded]
+Type = Gameshark
+Activation = EndFrame
+300360A0 0001
+
+[Bonuslap Hollywood]
+Type = Gameshark
+Activation = EndFrame
+800E2C90 0006
+

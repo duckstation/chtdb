@@ -1,0 +1,37 @@
+; CHTDB: ; [ Virtual Pro Wrestling (Jpn) (1996) (Asmik Ace) {SLPS-00449} <vprowres> ]
+
+[Infinite Match Time]
+Type = Gameshark
+Activation = EndFrame
+50000302 0000
+80074DBC 0000
+
+[P1 Max Spirit]
+Type = Gameshark
+Activation = EndFrame
+D00CEA0E 0305
+800CEA0C 0064
+
+[P2 Max Spirit]
+Type = Gameshark
+Activation = EndFrame
+D00CECBA 0305
+800CECB8 0064
+
+[P1 No Spirit]
+Type = Gameshark
+Activation = EndFrame
+D00CEA0E 0305
+800CEA0C 0000
+
+[P2 No Spirit]
+Type = Gameshark
+Activation = EndFrame
+D00CECBA 0305
+800CECB8 0000
+
+[Unlock Extras]
+Type = Gameshark
+Activation = EndFrame
+800A3974 FFFF
+

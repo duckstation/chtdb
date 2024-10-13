@@ -1,0 +1,71 @@
+; CHTDB: ; [ Freestyle Motocross: McGrath vs. Pastrana (Europe) {SLES-02820} ]
+
+[Start On Last Lap]
+Type = Gameshark
+Activation = EndFrame
+E008B45D 0000
+3008B45D 0002
+
+[Start With Lots Of Points]
+Type = Gameshark
+Activation = EndFrame
+A608B58C 00008760
+D008B58C 0000
+3008B58C 0003
+
+[250Cc Class]
+Type = Gameshark
+Activation = EndFrame
+300BC3A2 0001
+
+[250Cc Custom Class]
+Type = Gameshark
+Activation = EndFrame
+300BC3A3 0001
+
+[Open Class]
+Type = Gameshark
+Activation = EndFrame
+300BC3A4 0001
+
+[Mirror Mode]
+Type = Gameshark
+Activation = EndFrame
+300BC390 0001
+
+[All Tracks]
+Type = Gameshark
+Activation = EndFrame
+50000402 0000
+800BC388 0101
+
+[Arctic]
+Type = Gameshark
+Activation = EndFrame
+300BC389 0001
+
+[Desert]
+Type = Gameshark
+Activation = EndFrame
+300BC38B 0001
+
+[Inca]
+Type = Gameshark
+Activation = EndFrame
+300BC38C 0001
+
+[Japanese Garden]
+Type = Gameshark
+Activation = EndFrame
+300BC388 0001
+
+[Mars]
+Type = Gameshark
+Activation = EndFrame
+300BC38F 0001
+
+[Vegas]
+Type = Gameshark
+Activation = EndFrame
+300BC38E 0001
+

@@ -1,0 +1,28 @@
+; CHTDB: ; [ N-Gen Racing (Europe) {SLES-02086} ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+90074BA8 3B9AC9FF
+
+[Time Frozen]
+Type = Gameshark
+Activation = EndFrame
+A60DEB30 00010000
+A60DEB32 00010000
+
+[Infinite Afterburner]
+Type = Gameshark
+Activation = EndFrame
+800C021C 0032
+
+[Infinite Armour]
+Type = Gameshark
+Activation = EndFrame
+300BCF70 0021
+
+[255 Racing-points/always win class]
+Type = Gameshark
+Activation = EndFrame
+30086BF4 00FF
+

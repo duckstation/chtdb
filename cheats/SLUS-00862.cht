@@ -1,0 +1,12 @@
+; CHTDB: ; [ The Next Tetris (USA) (1999) (Hasbro Interactive) {SLUS-00862} <ntetris> ]
+
+[Infinite Timer]
+Type = Gameshark
+Activation = EndFrame
+801187F0 0078
+
+[Maximum Score With this code, it works for both P1 + P2.]
+Type = Gameshark
+Activation = EndFrame
+8018E420 FFFF
+

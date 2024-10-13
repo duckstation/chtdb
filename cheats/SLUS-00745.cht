@@ -1,0 +1,58 @@
+; CHTDB: ; [ Darkstalkers 3 (USA) (1998) (Capcom Entertainment) {SLUS-00745} <dstlk3> ]
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+901C0E54 01200120
+
+[P2 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+901C1228 01200120
+
+[P1 Super Power Bar Full]
+Type = Gameshark
+Activation = EndFrame
+801C0ECA FFFF
+
+[P1 Super Power Bar Empty]
+Type = Gameshark
+Activation = EndFrame
+801C0ECA 0000
+
+[P2 Super Power Bar Full]
+Type = Gameshark
+Activation = EndFrame
+801C129E FFFF
+
+[P2 Super Power Bar Empty]
+Type = Gameshark
+Activation = EndFrame
+801C129E 0000
+
+[P1 Infinite Time In Demension]
+Type = Gameshark
+Activation = EndFrame
+801C0F2C 0070
+
+[P2 Infinite Time In Demension]
+Type = Gameshark
+Activation = EndFrame
+801C1300 0070
+
+[Max Level Up For Original Character Mode]
+Type = Gameshark
+Activation = EndFrame
+901C1768 FFFFFFFF
+801C176C FFFF
+
+[Have All Collection]
+Type = Gameshark
+Activation = EndFrame
+901C1D74 FFFFFFFF
+
+[Enable Dx + Ex Option Modes]
+Type = Gameshark
+Activation = EndFrame
+801C1D78 0003
+

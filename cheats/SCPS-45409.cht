@@ -1,0 +1,33 @@
+; CHTDB: ; [ Garou Densetsu: Wild Ambition (Japan, Asia) {SCPS-45409} ]
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800AD7EE 0170
+
+[P1 Infinite Health (Special Status)]
+Type = Gameshark
+Activation = EndFrame
+800AD7EE 0070
+
+[P2 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800AF00E 0170
+
+[P2 Infinite Health (Special Status)]
+Type = Gameshark
+Activation = EndFrame
+800AF00E 0070
+
+[Unlock Team Battle Mode & All Data Mode]
+Type = Gameshark
+Activation = EndFrame
+900ACA84 007FFFFF
+800ACA88 FFFF
+
+[Use Secret Character]
+Type = Gameshark
+Activation = EndFrame
+300ACA7E 0003
+

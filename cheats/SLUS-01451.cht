@@ -1,0 +1,13 @@
+; CHTDB: ; [ Pink Panther - Pinkadelic Pursuit (USA) (2002) (DreamCatcher Interactive / Wanadoo Edition) {SLUS-01451} <pink> ]
+
+;These work
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80070C1E 0408
+
+[Max Coins]
+Type = Gameshark
+Activation = EndFrame
+80070C16 270F
+

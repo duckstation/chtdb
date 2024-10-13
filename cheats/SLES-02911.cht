@@ -1,0 +1,27 @@
+; CHTDB: ; [ Nickelodeon Rugrats: ExcursiÃ³n al estudio aka Rugrats: ExcursiÃ³n al estudio (Spain) {SLES-02911} ]
+
+[Espacio esterior - Solo un alien para acabar nivel]
+Type = Gameshark
+Activation = EndFrame
+800C9BB2 0001
+
+[Mina de oro - solo 1 pepita para acabar nivel]
+Type = Gameshark
+Activation = EndFrame
+300E7E5B 0001
+
+[99 Reptars]
+Type = Gameshark
+Activation = EndFrame
+800C9BAE 0063
+
+[99 Llaves]
+Type = Gameshark
+Activation = EndFrame
+800C9BA8 0063
+
+[4 llaves fantasmagoricas]
+Type = Gameshark
+Activation = EndFrame
+800E7E5E 0004
+

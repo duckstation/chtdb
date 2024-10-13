@@ -1,0 +1,117 @@
+; CHTDB: ; [ Deception III - Dark Delusion (USA) (2000) (Tecmo) {SLUS-01067} <decept3> ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800C3386 0190
+
+[All Free Training Maps]
+Type = Gameshark
+Activation = EndFrame
+800C35B4 01FF
+
+[Arc Level Modifier]
+Type = Gameshark
+Activation = EndFrame
+300C5738 0063
+
+[Enemy Attacks Don't Slow You Down]
+Type = Gameshark
+Activation = EndFrame
+800C338E 0019
+
+[Press L1 + L2 For No Enemy Health (Top Left Meter)]
+Type = Gameshark
+Activation = EndFrame
+D00C054A 0005
+800BB152 0000
+
+[Press L1 + L2 For No Enemy Health (Top Right Meter)]
+Type = Gameshark
+Activation = EndFrame
+D00C054A 0005
+800BB21A 0000
+
+[Enemy Spell's Cast Against You Only Last A Second]
+Type = Gameshark
+Activation = EndFrame
+800C32F2 0001
+
+[Have All Emblems]
+Type = Gameshark
+Activation = EndFrame
+800BAD2E 03FF
+
+[Have All Rings]
+Type = Gameshark
+Activation = EndFrame
+800BAD30 007F
+
+[Select Hyper Mode\ON]
+Type = Gameshark
+Activation = EndFrame
+80090014 0000
+
+[Select Hyper Mode\OFF]
+Type = Gameshark
+Activation = EndFrame
+80090014 0005
+
+[Infinite Dreak]
+Type = Gameshark
+Activation = EndFrame
+900B8DA4 05F5E0FF
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800C3386 0190
+
+[Infinite Mission Ark]
+Type = Gameshark
+Activation = EndFrame
+800B8DB0 270F
+
+[Infinite Total Ark]
+Type = Gameshark
+Activation = EndFrame
+800B8DAC FFFF
+
+[No Load Time For Traps]
+Type = Gameshark
+Activation = EndFrame
+50003794 0000
+800C0D54 0000
+
+[Player Damage Always 0]
+Type = Gameshark
+Activation = EndFrame
+800C57C4 0000
+
+[Traps Dont Affect You]
+Description = You can still lose health,but traps won't pull,push or knock you down,you can walk right through them.
+Type = Gameshark
+Activation = EndFrame
+800C32E8 0000
+
+[Expert Mode\Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+801ACF78 0630
+
+[Expert Mode\Unlock All Stages]
+Type = Gameshark
+Activation = EndFrame
+50000702 0000
+800C35A0 FFFF
+
+[Trap License\Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+801AA890 0630
+
+[Trap License\Have All Levels]
+Type = Gameshark
+Activation = EndFrame
+300B8DB7 0006
+

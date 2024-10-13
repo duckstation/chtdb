@@ -1,0 +1,8 @@
+; CHTDB: ; [ Nessa no Hoshi (Japan) {SLPS-00913 | SLPS-00914} ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8008E664 00C8
+8008E668 00C8
+

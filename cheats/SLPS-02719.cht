@@ -1,0 +1,68 @@
+; CHTDB: ; [ Flamberge no Seirei (Japan) {SLPS-02719} ]
+
+[All CG Gallerie Open]
+Type = Gameshark
+Activation = EndFrame
+30105B56 00FF
+30105B57 00FF
+30105B5A 00FF
+30105B5B 00FF
+30105B5E 00FF
+30105B5F 00FF
+30105B62 00FF
+30105B66 00FF
+30105B6A 00FF
+30105B6E 00FF
+30105B72 00FF
+30105B76 00FF
+
+[Town development]
+Type = Gameshark
+Activation = EndFrame
+30105AE6 0063
+
+[Max Intimacy Spirit]
+Type = Gameshark
+Activation = EndFrame
+30105AD4 00FF
+
+[Max Intimacy Charlotte]
+Type = Gameshark
+Activation = EndFrame
+30105AD6 00FF
+
+[Max Intimacy Shifone]
+Type = Gameshark
+Activation = EndFrame
+30105AD8 00FF
+
+[Max Intimacy Tear]
+Type = Gameshark
+Activation = EndFrame
+30105ADA 00FF
+
+[Max Intimacy Camellia]
+Type = Gameshark
+Activation = EndFrame
+30105ADC 00FF
+
+[Max Intimacy Ririru]
+Type = Gameshark
+Activation = EndFrame
+30105ADe 00FF
+
+[Max Intimacy Rose]
+Type = Gameshark
+Activation = EndFrame
+30105AE0 00FF
+
+[Max Intimacy Anne]
+Type = Gameshark
+Activation = EndFrame
+30105AE2 00FF
+
+[Max Intimacy Sandra]
+Type = Gameshark
+Activation = EndFrame
+30105AE4 00FF
+

@@ -1,0 +1,38 @@
+; CHTDB: ; [ Yagami Hiroki no Game-Taste - Munasawagi no Yokan (Jpn) (1999) (Kodansha) {SLPS-02064} <munasawa> ]
+
+[Always have 999 points]
+Type = Gameshark
+Activation = EndFrame
+801C88AC 03E7
+
+[Date manipulation]
+Type = Gameshark
+Activation = EndFrame
+D018A0AC 0101
+E31AE8CC 0001
+211AE8CC 0001
+D018A0AC 0102
+E21AE8CC 008C
+201AE8CC 0001
+
+[Bonus ON]
+Type = Gameshark
+Activation = EndFrame
+801AE820 0001
+
+[All CG viewable]
+Type = Gameshark
+Activation = EndFrame
+5000B704 0000
+801CAF50 0001
+
+[Favorability rating - Fumika (+4 h)]
+Type = Gameshark
+Activation = EndFrame
+801C88D0 03E8
+
+[Favorability rating - dream together]
+Type = Gameshark
+Activation = EndFrame
+801C88D4 03E8
+

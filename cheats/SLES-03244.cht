@@ -1,0 +1,23 @@
+; CHTDB: ; [ Technomage: El Retorno de la Eternidad (Spain) {SLES-03244} ]
+
+[Have 999999 Gold]
+Type = Gameshark
+Activation = EndFrame
+90092104 000F423F
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+801C3A20 000A
+
+[Infinite & Max Hp]
+Type = Gameshark
+Activation = EndFrame
+901C3A20 01C801C8
+
+[Infinite & Max Mana]
+Type = Gameshark
+Activation = EndFrame
+801C3A26 0195
+801C3A28 0195
+

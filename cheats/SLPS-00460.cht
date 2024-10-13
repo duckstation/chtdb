@@ -1,0 +1,29 @@
+; CHTDB: ; [ Mahou Shoujo Fancy CoCo (Japan) {SLPS-00460} ]
+
+[Have all stats at maximum]
+Type = Gameshark
+Activation = EndFrame
+90115510 03E703E7
+90115514 03E703E7
+90115518 03E703E7
+9011551C 03E703E7
+90115520 03E703E7
+90115524 03E703E7
+90115528 03E703E7
+9011552C 03E703E7
+90115530 03E703E7
+90115534 03E703E7
+
+[Have other stats at maximum]
+Type = Gameshark
+Activation = EndFrame
+80115502 0063
+90115504 03E70063
+90115508 00630063
+8011550C 0063
+
+[Have 60000 money]
+Type = Gameshark
+Activation = EndFrame
+80115538 EA60
+

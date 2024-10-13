@@ -1,0 +1,33 @@
+; CHTDB: ; [ Scooter Racing (Europe) {SLES-03770} ]
+
+[99999 Points]
+Type = Gameshark
+Activation = EndFrame
+800A07E4 270F
+
+[Lap 1]
+Type = Gameshark
+Activation = EndFrame
+80089B00 0001
+
+[Lap 2]
+Type = Gameshark
+Activation = EndFrame
+80089B00 0002
+
+[Lap 3]
+Type = Gameshark
+Activation = EndFrame
+80089B00 0003
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800A0C5D 0FA0
+
+[CPU Riders can`t win]
+Type = Gameshark
+Activation = EndFrame
+50000204 0001
+80089B04 0000
+

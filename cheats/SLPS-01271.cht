@@ -1,0 +1,220 @@
+; CHTDB: ; [ Seirei Shoukan - Princess of Darkness (Jpn) (1998) (Shoeisha) {SLPS-01271} <seireisk> ]
+
+[Infinite HP Girl]
+Type = Gameshark
+Activation = EndFrame
+8006E94C 03E7
+
+[Infinite MP Girl]
+Type = Gameshark
+Activation = EndFrame
+8006E950 03E7
+
+[Infinite HP Boy]
+Type = Gameshark
+Activation = EndFrame
+8006E8E0 03E7
+
+[Infinite MP Boy]
+Type = Gameshark
+Activation = EndFrame
+8006E8E4 03E7
+
+[Infinite HP Red Hair Girl]
+Type = Gameshark
+Activation = EndFrame
+8006E9B8 03E7
+
+[Infinite MP Red Hair Girl]
+Type = Gameshark
+Activation = EndFrame
+8006E9BC 03E7
+
+[Infinite HP Blue Hair Girl]
+Type = Gameshark
+Activation = EndFrame
+8006EA24 03E7
+
+[Infinite MP Blue Hair Girl]
+Type = Gameshark
+Activation = EndFrame
+8006EA28 03E7
+
+[Infinite HP Green Hair Girl]
+Type = Gameshark
+Activation = EndFrame
+8006EA90 03E7
+
+[Infinite MP Green Hair Girl]
+Type = Gameshark
+Activation = EndFrame
+8006EA94 03E7
+
+[Max Str]
+Type = Gameshark
+Activation = EndFrame
+8006E8F8 00FF
+
+[Max Def]
+Type = Gameshark
+Activation = EndFrame
+8006E8FC 00FF
+
+[Max Agi]
+Type = Gameshark
+Activation = EndFrame
+8006E900 00FF
+
+[Max Int]
+Type = Gameshark
+Activation = EndFrame
+8006E904 00FF
+
+[Max Luk]
+Type = Gameshark
+Activation = EndFrame
+8006E908 00FF
+
+[Blow deadly attack]
+Type = Gameshark
+Activation = EndFrame
+A602E4FA 00430000
+
+[Mortal blow magic]
+Type = Gameshark
+Activation = EndFrame
+A602F4D2 00430000
+
+[Select Scenario (Press Select at Camp)\1]
+Type = Gameshark
+Activation = EndFrame
+D0041F42 FFFE
+30010000 0001
+
+[Select Scenario (Press Select at Camp)\2]
+Type = Gameshark
+Activation = EndFrame
+D0041F42 FFFE
+30010000 0002
+
+[Select Scenario (Press Select at Camp)\3]
+Type = Gameshark
+Activation = EndFrame
+D0041F42 FFFE
+30010000 0003
+
+[Select Scenario (Press Select at Camp)\4]
+Type = Gameshark
+Activation = EndFrame
+D0041F42 FFFE
+30010000 0004
+
+[Select Scenario (Press Select at Camp)\5]
+Type = Gameshark
+Activation = EndFrame
+D0041F42 FFFE
+30010000 0005
+
+[Select Scenario (Press Select at Camp)\6]
+Type = Gameshark
+Activation = EndFrame
+D0041F42 FFFE
+30010000 0006
+
+[Select Scenario (Press Select at Camp)\7]
+Type = Gameshark
+Activation = EndFrame
+D0041F42 FFFE
+30010000 0007
+
+[Select Scenario (Press Select at Camp)\8]
+Type = Gameshark
+Activation = EndFrame
+D0041F42 FFFE
+30010000 0008
+
+[Select Scenario (Press Select at Camp)\9]
+Type = Gameshark
+Activation = EndFrame
+D0041F42 FFFE
+30010000 0009
+
+[Select Scenario (Press Select at Camp)\10]
+Type = Gameshark
+Activation = EndFrame
+D0041F42 FFFE
+30010000 000A
+
+[Select Scenario (Press Select at Camp)\11]
+Type = Gameshark
+Activation = EndFrame
+D0041F42 FFFE
+30010000 000B
+
+[Select Scenario (Press Select at Camp)\12]
+Type = Gameshark
+Activation = EndFrame
+D0041F42 FFFE
+30010000 000C
+
+[Select Scenario (Press Select at Camp)\13]
+Type = Gameshark
+Activation = EndFrame
+D0041F42 FFFE
+30010000 000D
+
+[99 Equipment]
+Type = Gameshark
+Activation = EndFrame
+30010154 0063
+30010158 0063
+3001015C 0063
+30010160 0063
+30010164 0063
+30010168 0063
+3001016C 0063
+30010170 0063
+30010174 0063
+30010178 0063
+
+[99 items]
+Type = Gameshark
+Activation = EndFrame
+3001017C 0063
+30010180 0063
+30010184 0063
+30010188 0063
+3001018C 0063
+30010190 0063
+30010194 0063
+30010198 0063
+3001019C 0063
+300101A0 0063
+300101A4 0063
+300101A8 0063
+
+[Favorability Max / Prim]
+Type = Gameshark
+Activation = EndFrame
+30010140 0063
+
+[Favorability Max / Shura]
+Type = Gameshark
+Activation = EndFrame
+30010144 0063
+
+[Favorability Max / ma'am]
+Type = Gameshark
+Activation = EndFrame
+30010148 0063
+
+[Favorability Max / Silk]
+Type = Gameshark
+Activation = EndFrame
+3001014C 0063
+
+[Favorability Max / Gaia]
+Type = Gameshark
+Activation = EndFrame
+30010150 0063
+

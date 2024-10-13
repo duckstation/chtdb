@@ -1,0 +1,7 @@
+; CHTDB: ; [ Novastorm (Europe) {SCES-00011 | SCES-10011} ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800DE4B6 0104
+

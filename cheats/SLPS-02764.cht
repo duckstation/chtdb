@@ -1,0 +1,9 @@
+; CHTDB: ; [ Oh No! (Japan) {SLPS-02764} ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80095B79 0053
+80095BBD 0053
+80095BCF 0253
+

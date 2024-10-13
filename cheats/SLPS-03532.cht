@@ -1,0 +1,64 @@
+; CHTDB: ; [ Kaitou Apricot (Japan) {SLPS-03532} ]
+
+[Have 50 peaches in peaches mini game]
+Type = Gameshark
+Activation = EndFrame
+801C6E78 0032
+
+[Infinite Time in board mini game]
+Type = Gameshark
+Activation = EndFrame
+80066F9F C350
+
+[Broadcast section Games / remaining time]
+Type = Gameshark
+Activation = EndFrame
+800657F0 0063
+300657F2 0063
+
+[Number of times that took a nervous breakdown game / card Clear at once]
+Type = Gameshark
+Activation = EndFrame
+30066F30 000E
+
+[Mini-games and bonus / event scene Not advent]
+Type = Gameshark
+Activation = EndFrame
+30100000 0000
+
+[Mini-games and bonus / event scene emergence]
+Type = Gameshark
+Activation = EndFrame
+30100A0A 000A
+
+[Album appearance]
+Type = Gameshark
+Activation = EndFrame
+301081E4 0001
+
+[Album / CG All + 01h]
+Type = Gameshark
+Activation = EndFrame
+301082D8 00FF
+301082F6 00FF
+
+[Nervous breakdown Games / Otetsuki number]
+Type = Gameshark
+Activation = EndFrame
+301C70B0 0007
+
+[Kaito degree Max]
+Type = Gameshark
+Activation = EndFrame
+300A4418 0064
+
+[Date / month Ending Proceeding in place of the date night]
+Type = Gameshark
+Activation = EndFrame
+300A430C 0008
+
+[Date / day Ending Proceeding in place of the date night]
+Type = Gameshark
+Activation = EndFrame
+300A4310 001B
+

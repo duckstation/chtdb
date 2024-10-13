@@ -1,0 +1,49 @@
+; CHTDB: ; [ Virtual Hiryuu no Ken (Jpn) (1997) (Culture Brain) {SLPS-00338} <vhiryukn> ]
+
+[P1 Full Energy]
+Type = Gameshark
+Activation = EndFrame
+80098610 00C8
+
+[P2 Full Energy]
+Type = Gameshark
+Activation = EndFrame
+8009878C 00C8
+
+[P2 No Energy]
+Type = Gameshark
+Activation = EndFrame
+8009878C 0000
+
+[One-shot deal]
+Type = Gameshark
+Activation = EndFrame
+8003CD36 0000
+8004768A 0000
+
+[Judo mode KO in one shot throwing techniques. Blow technique is invalid.]
+Type = Gameshark
+Activation = EndFrame
+8003CD36 0060
+8004768A 0000
+
+[P1 Dragon devil available to determine the character while holding down the R2 and L2 which character ANYTHING.]
+Type = Gameshark
+Activation = EndFrame
+80098FC8 0001
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A709AA48 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A709AA48 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A709AA48 10000400
+

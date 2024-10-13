@@ -1,0 +1,46 @@
+; CHTDB: ; [ Andretti Racing (USA) (1996) (Electronic Arts) {SLUS-00264} <andretti> ]
+
+[Infinite Fuel]
+Type = Gameshark
+Activation = EndFrame
+801EB3A8 3D60
+801ECA8C 3732
+801E0194 0040
+801E019C 0040
+
+[Always Have 1st Place]
+Type = Gameshark
+Activation = EndFrame
+801EB318 0001
+
+[Gives You 1st Place Without Racing]
+Type = Gameshark
+Activation = EndFrame
+801EB2D8 0063
+
+[Qualify In 1st]
+Type = Gameshark
+Activation = EndFrame
+801EB35C A36D
+801EB360 C9AE
+801EB374 0111
+
+[Unlock Stock Cars In Career Mode]
+Type = Gameshark
+Activation = EndFrame
+90082114 42204F47
+90082118 53524145
+8008211C 0021
+
+[Unlock Formula 1 Cars In Career Mode]
+Type = Gameshark
+Activation = EndFrame
+90082114 42204F47
+90082118 4E495552
+8008211C 2153
+
+[Play game at 60 FPS]
+Type = Gameshark
+Activation = EndFrame
+A7184972 0C061400
+

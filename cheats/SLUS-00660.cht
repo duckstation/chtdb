@@ -1,0 +1,49 @@
+; CHTDB: ; [ Tail Concerto (USA) (1999) (Atlus U.S.A.) {SLUS-00660} <tailcon> ]
+
+[Infinite Energy Robo]
+Type = Gameshark
+Activation = EndFrame
+800CD742 012C
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800CD744 0064
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800CD756 0025
+
+[Stop Timer]
+Type = Gameshark
+Activation = EndFrame
+800D42E8 0000
+
+[Time 00.00.00]
+Type = Gameshark
+Activation = EndFrame
+900D42E8 00000000
+
+[Max Whistles]
+Type = Gameshark
+Activation = EndFrame
+300D42CB 0063
+
+[Infinite Jet Pack Fuel With Black Smoke]
+Type = Gameshark
+Activation = EndFrame
+800CD742 FFFF
+
+[Open All Pictures]
+Type = Gameshark
+Activation = EndFrame
+50000F01 0000
+300D4288 000F
+
+[Open Bonus Pictures/Movies/+ Be At The End Of The Game!]
+Type = Gameshark
+Activation = EndFrame
+50003301 0000
+300D4297 00FF
+

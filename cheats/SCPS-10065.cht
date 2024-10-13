@@ -1,0 +1,24 @@
+; CHTDB: ; [ G-Police (Jpn) (1998) (SCEI) {SCPS-10065~SCPS-10066} <gpolicej> ]
+
+[All weapons available]
+Type = Gameshark
+Activation = EndFrame
+800F8DD4 0063
+800F8DC0 0063
+800F8DC4 0063
+800F8DC8 0063
+800F8DCC 0063
+800F8DD0 0063
+800F8DD8 0063
+800F8DDC 0063
+800F8DE0 0063
+800F8DE4 0063
+800F8DE8 0063
+800F8DEC 0063
+800F8DF4 0063
+
+[Practice All stages]
+Type = Gameshark
+Activation = EndFrame
+8009683C 003F
+

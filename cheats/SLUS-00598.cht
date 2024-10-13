@@ -1,0 +1,56 @@
+; CHTDB: ; [ Gex - Enter the Gecko (USA) (1998) (Crystal Dynamics) {SLUS-00598} <gex2> ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80095310 0009
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80095314 0004
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800A039C 001D
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80140C88 1388
+
+[Have All Collectables]
+Type = Gameshark
+Activation = EndFrame
+80095318 0063
+8009531C 0062
+80095320 0062
+
+[MEGA CHEAT!]
+Type = Gameshark
+Activation = EndFrame
+800975DC 00FF
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+8003EB14 0C00
+8003EB24 0034
+8003EB26 AFA0
+8003EB28 1000
+8003EB2A 2403
+800324AC 0C00
+800324AE 2402
+8003236C 0C00
+8003236E 2402
+800668E4 00BF
+80066920 002A
+80066858 004A
+80066860 005A
+800668AC 01B5
+800668B4 01C5
+80032F48 0C00
+80032F4A 240C
+80033532 001F
+

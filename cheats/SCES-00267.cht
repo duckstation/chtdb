@@ -1,0 +1,37 @@
+; CHTDB: ; [ Namco Museum Vol. 2 (Europe) {SCES-00267} ]
+
+[Super Pacman\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801E1006 0300
+
+[Dragon Buster\Infinite Vitality You must turn off before you kill the dragon, then re-enable it]
+Type = Gameshark
+Activation = EndFrame
+800C9A04 0080
+
+[Dragon Buster\Infinite Smart Bombs]
+Type = Gameshark
+Activation = EndFrame
+800C99A4 0003
+
+[Gaplus\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80151104 0003
+
+[Grobda\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800CAFA8 0003
+
+[Mappy\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801E4274 0300
+
+[Xevious\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8019C760 0003
+

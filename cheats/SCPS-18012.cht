@@ -1,0 +1,66 @@
+; CHTDB: ; [ Vib-Ribbon (Japan) {SCPS-18012} ]
+
+[Evolution in one success]
+Type = Gameshark
+Activation = EndFrame
+A704477E 14821400
+
+[Do not degenerate]
+Type = Gameshark
+Activation = EndFrame
+A6049DA4 00010000
+A6049D6C 00030000
+A604488C 00030000
+
+[Start with Mushiburi]
+Type = Gameshark
+Activation = EndFrame
+A6042EB0 0003000B
+
+[Max Score]
+Type = Gameshark
+Activation = EndFrame
+80074ABC 270F
+
+[BONUS]
+Type = Gameshark
+Activation = EndFrame
+80074AC0 270F
+
+[Evolution evolution meter Max]
+Type = Gameshark
+Activation = EndFrame
+A6044774 00120012
+
+[Peace ignored#]
+Type = Gameshark
+Activation = EndFrame
+A7049CEA 10601000
+
+[Does not decrease sinkers meter]
+Type = Gameshark
+Activation = EndFrame
+A6044860 05C80000
+A6044862 AF800000
+A6044864 31278C62
+A6044866 0C010C00
+A6049D44 05C80000
+A6049D46 AF800000
+A6049D48 31278C62
+A6049D4A 0C010C00
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A707F624 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A707F624 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A707F624 10000400
+

@@ -1,0 +1,42 @@
+; CHTDB: ; [ Critical Blow (Japan) {SLPS-01044} ]
+
+[P1 Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+8011A0C8 008C
+
+[P2 Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+8011B420 008C
+
+[P1 Infinite Special Attack]
+Type = Gameshark
+Activation = EndFrame
+3010FBC0 0004
+
+[P2 Infinite Special Attack]
+Type = Gameshark
+Activation = EndFrame
+3010FBC1 0004
+
+[Secret Character]
+Type = Gameshark
+Activation = EndFrame
+80068C54 0FF7
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A7082400 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A7082400 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A7082400 10000400
+

@@ -1,0 +1,14 @@
+; CHTDB: ; [ Himitsu Kessha Q (Japan) {SLPS-01334} ]
+
+[Infinite Energy main character]
+Type = Gameshark
+Activation = EndFrame
+801DA756 03E7
+801DA758 03E7
+801DA748 03E7
+
+[Infinite Energy second character]
+Type = Gameshark
+Activation = EndFrame
+800B6A78 03E7
+

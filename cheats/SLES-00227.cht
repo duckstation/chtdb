@@ -1,0 +1,26 @@
+; CHTDB: ; [ Resident Evil (France) {SLES-00227} ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800C51AC 0060
+
+[Have All Files]
+Type = Gameshark
+Activation = EndFrame
+300C8721 00CF
+800C8722 FFFF
+
+[Infinite Ammo gun]
+Type = Gameshark
+Activation = EndFrame
+800C9787 0063
+
+[Have All Maps And Files]
+Type = Gameshark
+Activation = EndFrame
+300C8714 003F
+900C871C FFFF0FFF
+300C8721 00CF
+800C8722 FFFF
+

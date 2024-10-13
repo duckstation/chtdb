@@ -1,0 +1,27 @@
+; CHTDB: ; [ O.D.T. (France) {SLES-01409} ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800AA06A 0020
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800AA138 00FF
+
+[Infinite Blue Phaser Ammo]
+Type = Gameshark
+Activation = EndFrame
+800AA0EA 00FF
+
+[Infinite Flame Thrower]
+Type = Gameshark
+Activation = EndFrame
+800AA0F2 00FF
+
+[Grenades infinies pour Ike Hawkins]
+Type = Gameshark
+Activation = EndFrame
+800AC8CC FF05
+

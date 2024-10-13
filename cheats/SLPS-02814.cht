@@ -1,0 +1,16 @@
+; CHTDB: ; [ Ooedo Huusui Ingaritsu: Hanabi 2 (Japan) {SLPS-02814} ]
+
+[P1 Have 250 in all stats]
+Type = Gameshark
+Activation = EndFrame
+800B8EC4 00FA
+800B8EC5 00FA
+800B8EC6 00FA
+800B8EC7 00FA
+800B8EC8 00FA
+
+[Have 9999 of the other stat]
+Type = Gameshark
+Activation = EndFrame
+800B8EC2 270F
+

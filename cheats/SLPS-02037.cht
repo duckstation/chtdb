@@ -1,0 +1,31 @@
+; CHTDB: ; [ Dragon Money (Jpn) (1999) (Micro Cabin) {SLPS-02037} <drgmoney> ]
+
+[1st Character Max Status]
+Type = Gameshark
+Activation = EndFrame
+800B9CBE 03E7
+900B9CC0 03E703E7
+800B9CC4 03E7
+800B9CCC 0063
+
+[2nd Character Max Status]
+Type = Gameshark
+Activation = EndFrame
+800B9D1E 03E7
+900B9D20 03E703E7
+800B9D24 03E7
+800B9D2C 0063
+
+[3rd Character Max Status]
+Type = Gameshark
+Activation = EndFrame
+800B9D7E 03E7
+900B9D80 03E703E7
+800B9D84 03E7
+800B9D8C 0063
+
+[Infinite Days]
+Type = Gameshark
+Activation = EndFrame
+800C7C74 03E7
+

@@ -1,0 +1,22 @@
+; CHTDB: ; [ Titan Wars (Europe) {SLES-00275} ]
+
+[Infinite Ships]
+Type = Gameshark
+Activation = EndFrame
+300AD844 0009
+
+[Infinite Shield Energy]
+Type = Gameshark
+Activation = EndFrame
+300AD848 0069
+
+[Infinite Special Weapon Strength]
+Type = Gameshark
+Activation = EndFrame
+300AD846 0069
+
+[Infinite Missiles]
+Type = Gameshark
+Activation = EndFrame
+300AD845 0009
+

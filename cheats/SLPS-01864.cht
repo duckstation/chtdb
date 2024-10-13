@@ -1,0 +1,12 @@
+; CHTDB: ; [ Cyber Daisenryaku: Shutsugeki! Haruka Tai (Japan) {SLPS-01864} ]
+
+[Infinite HP First Unit (Tank) In battle]
+Type = Gameshark
+Activation = EndFrame
+800E5F96 00C8
+
+[Infinite HP Second Unit (Plane) In battle]
+Type = Gameshark
+Activation = EndFrame
+800E5F8A 0064
+

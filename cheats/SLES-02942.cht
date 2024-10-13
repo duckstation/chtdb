@@ -1,0 +1,32 @@
+; CHTDB: ; [ Castrol Honda VTR aka Castrol Honda World Superbike Team VTR (Europe) {SLES-02942} ]
+
+[Enabled Everything (This code will enable all tracks in single race and championship mode....instantly passed the skilled test. You need to turn off the gameshark if you enable it in the championship mode then scroll to the left or right to select the tracks)]
+Type = Gameshark
+Activation = EndFrame
+50002202 0000
+800A5438 0101
+
+[Time Frozen Championship Finish one lap, then retire to be always on pole]
+Type = Gameshark
+Activation = EndFrame
+D00253FE AE22
+300253FC 0000
+
+[Time Frozen Skill Test]
+Type = Gameshark
+Activation = EndFrame
+D002539A AE22
+30025398 0000
+
+[Start with 100 points in championship]
+Type = Gameshark
+Activation = EndFrame
+D00A546C 0000
+300A546C 0064
+
+[Always good grip & accelaration]
+Type = Gameshark
+Activation = EndFrame
+D011BF16 A483
+3011BF14 0000
+

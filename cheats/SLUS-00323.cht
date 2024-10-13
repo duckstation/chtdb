@@ -1,0 +1,45 @@
+; CHTDB: ; [ Grid Runner (USA) (1996) (Virgin Interactive Entertainment) {SLUS-00323} <gridrun> ]
+
+[P1 Easy Win]
+Type = Gameshark
+Activation = EndFrame
+3009D4A2 000F
+E009D4A2 000F
+3009D3DF 000E
+
+[First Person To A Flag Wins]
+Type = Gameshark
+Activation = EndFrame
+3009D4A2 0001
+
+[Infinite Bonus Level Time]
+Type = Gameshark
+Activation = EndFrame
+800912B8 FFFF
+
+[Infinite Magic]
+Type = Gameshark
+Activation = EndFrame
+8009D3D2 000F
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A7079672 10000C00
+A709D3BC 10000C00
+A709D3F4 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A7079672 10000900
+A709D3BC 10000900
+A709D3F4 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A7079672 10000400
+A709D3BC 10000400
+A709D3F4 10000400
+

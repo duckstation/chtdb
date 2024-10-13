@@ -1,0 +1,132 @@
+; CHTDB: ; [ Defcon 5 (Europe) {SLES-00081} ]
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+800D01F8 0019
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800E2B14 0064
+
+[Infinite Ammo In Turret 1]
+Type = Gameshark
+Activation = EndFrame
+800F05E0 00C8
+
+[Infinite Ammo In Turret 2]
+Type = Gameshark
+Activation = EndFrame
+800F05FC 00C8
+
+[Infinite Ammo In Turret 3]
+Type = Gameshark
+Activation = EndFrame
+800F0618 00C8
+
+[Infinite Ammo In Turret 4]
+Type = Gameshark
+Activation = EndFrame
+800F0634 00C8
+
+[Infinite Ammo In Turret 5]
+Type = Gameshark
+Activation = EndFrame
+800F0650 00C8
+
+[Infinite Ammo In Turret 6]
+Type = Gameshark
+Activation = EndFrame
+800F066C 00C8
+
+[Gun Always Cool In Turret 1]
+Type = Gameshark
+Activation = EndFrame
+800F05DC 0000
+
+[Gun Always Cool In Turret 2]
+Type = Gameshark
+Activation = EndFrame
+800F05F8 0000
+
+[Gun Always Cool In Turret 3]
+Type = Gameshark
+Activation = EndFrame
+800F0614 0000
+
+[Gun Always Cool In Turret 4]
+Type = Gameshark
+Activation = EndFrame
+800F0630 0000
+
+[Gun Always Cool In Turret 5]
+Type = Gameshark
+Activation = EndFrame
+800F064C 0000
+
+[Gun Always Cool In Turret 6]
+Type = Gameshark
+Activation = EndFrame
+800F0668 0000
+
+[Infinite Energy In Turret 1]
+Type = Gameshark
+Activation = EndFrame
+800E80D8 0000
+
+[Infinite Energy In Turret 2]
+Type = Gameshark
+Activation = EndFrame
+800E80E0 0000
+
+[Infinite Energy In Turret 3]
+Type = Gameshark
+Activation = EndFrame
+800E80E8 0000
+
+[Infinite Energy In Turret 4]
+Type = Gameshark
+Activation = EndFrame
+800E80F0 0000
+
+[Infinite Energy In Turret 5]
+Type = Gameshark
+Activation = EndFrame
+800E80F8 0000
+
+[Infinite Energy In Turret 6]
+Type = Gameshark
+Activation = EndFrame
+800E8100 0000
+
+[Infinite Missiles In Turret 1]
+Type = Gameshark
+Activation = EndFrame
+800F05E4 0005
+
+[Infinite Missiles In Turret 2]
+Type = Gameshark
+Activation = EndFrame
+800F0600 0005
+
+[Infinite Missiles In Turret 3]
+Type = Gameshark
+Activation = EndFrame
+800F062C 0005
+
+[Infinite Missiles In Turret 4]
+Type = Gameshark
+Activation = EndFrame
+800F0638 0005
+
+[Infinite Missiles In Turret 5]
+Type = Gameshark
+Activation = EndFrame
+800F0654 0005
+
+[Infinite Missiles In Turret 6]
+Type = Gameshark
+Activation = EndFrame
+800F0670 0005
+

@@ -1,0 +1,80 @@
+; CHTDB: ; [ Tom Clancy's Rainbow Six (USA) (1999) (Red Storm Entertainment) {SLUS-00947, SLUS-00947GH} <rainbow6> ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8005518A 2400
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+80052BAE 2400
+800AE5B6 0063
+800AE8EA 0063
+800AEC1E 0063
+
+[Have All Levels Unlocked]
+Type = Gameshark
+Activation = EndFrame
+8007E7E0 0001
+80080B68 000D
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800CBAF2 2400
+
+[Never Fail]
+Type = Gameshark
+Activation = EndFrame
+80076074 0017
+80076094 0000
+800760BC 0000
+8007F49C 0000
+80080B9C 0000
+
+[Entire Team Invincibility]
+Type = Gameshark
+Activation = EndFrame
+8007D430 0001
+
+[All Levels Unlocked]
+Type = Gameshark
+Activation = EndFrame
+8007D434 0001
+
+[Display Cordinates]
+Type = Gameshark
+Activation = EndFrame
+8007D43C 0001
+
+[Show Credits]
+Type = Gameshark
+Activation = EndFrame
+8007D444 0001
+
+[Hostages Can't Die]
+Type = Gameshark
+Activation = EndFrame
+8007D448 0001
+
+[No Terrorists]
+Type = Gameshark
+Activation = EndFrame
+8007D44C 0001
+
+[All Doors Unlocked]
+Type = Gameshark
+Activation = EndFrame
+8007D458 0001
+
+[Maxed Out Attributes]
+Type = Gameshark
+Activation = EndFrame
+800810EC 0001
+
+[Victory Conditions Off]
+Type = Gameshark
+Activation = EndFrame
+8007D450 0000
+

@@ -1,0 +1,24 @@
+; CHTDB: ; [ Tonzura-kun (Japan) {SLPS-00430} ]
+
+[Infinite Insects Tonzura]
+Type = Gameshark
+Activation = EndFrame
+80013004 0000
+8001B3AC 0000
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80011D00 0000
+
+[Box to fly high]
+Type = Gameshark
+Activation = EndFrame
+80013C02 1000
+
+[Stage select ?00-32 (Enabled last stage)]
+Type = Gameshark
+Activation = EndFrame
+900192FC 34040032
+90019308 AF840158
+

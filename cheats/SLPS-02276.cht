@@ -1,0 +1,12 @@
+; CHTDB: ; [ Digital Glider Airman (Japan) {SLPS-02276} ]
+
+[Distance Max (0-9999)]
+Type = Gameshark
+Activation = EndFrame
+800FE19E 1250
+
+[Have 50.00.00 minutes of flight time]
+Type = Gameshark
+Activation = EndFrame
+80082B84 EA60
+

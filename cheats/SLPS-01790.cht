@@ -1,0 +1,42 @@
+; CHTDB: ; [ Fuujin Ryouiki Eretzvaju (Jpn) (1999) (Yuke's) {SLPS-01790} <eretzvaj> ]
+
+[All Characters]
+Type = Gameshark
+Activation = EndFrame
+800A83E0 FFFF
+
+[Extra Option]
+Type = Gameshark
+Activation = EndFrame
+800A83E2 FFFF
+900A83E4 FFFFFFFF
+
+[Main Character (Danizaver) Recover HP Press Square]
+Type = Gameshark
+Activation = EndFrame
+C00A6064 0080
+800E19CA 0100
+800E47D2 0100
+800D396E 0100
+800D313A 0100
+800D9D46 0100
+800D9D32 0100
+800D9B0A 0100
+800DCCB6 0100
+800D9D0A 0100
+800D9AD6 0100
+00000000 FFFF
+
+[One Hit Kill]
+Type = Gameshark
+Activation = EndFrame
+90045B74 00000000
+90045B7C 04410002
+D00A6064 0008
+90045B7C 00000000
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+90045B6C 10800002
+

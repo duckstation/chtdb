@@ -1,0 +1,103 @@
+; CHTDB: ; [ Dangan (Jpn) (2000) (KSS) {SLPS-02609} <dangan> ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8013E540 01F4
+
+[Refill Energy (Press L1+L2)]
+Type = Gameshark
+Activation = EndFrame
+D0007572 FAFF
+8013E540 01F4
+
+[Infinite Bullets]
+Type = Gameshark
+Activation = EndFrame
+A601B150 FFFF0000
+
+[Infinite Anmo on pick up of machine gun]
+Type = Gameshark
+Activation = EndFrame
+8013E566 03E7
+
+[Laser gun]
+Type = Gameshark
+Activation = EndFrame
+8013E564 03E7
+
+[Flame gun]
+Type = Gameshark
+Activation = EndFrame
+8013E568 03E7
+
+[Grenade launcher]
+Type = Gameshark
+Activation = EndFrame
+8013E56A 03E7
+
+[Final boss low health (Press select)]
+Type = Gameshark
+Activation = EndFrame
+C014C074 0100
+8013F658 0001
+80140770 0001
+00000000 FFFF
+
+[Select Level (Do not change weapon if you use the level modifier code as this will freeze the game)\2]
+Type = Gameshark
+Activation = EndFrame
+8014C1C6 0300
+
+[Select Level (Do not change weapon if you use the level modifier code as this will freeze the game)\3]
+Type = Gameshark
+Activation = EndFrame
+8014C1C6 0800
+
+[Select Level (Do not change weapon if you use the level modifier code as this will freeze the game)\4]
+Type = Gameshark
+Activation = EndFrame
+8014C1C6 0D00
+
+[Select Level (Do not change weapon if you use the level modifier code as this will freeze the game)\5A]
+Type = Gameshark
+Activation = EndFrame
+8014C1C6 1100
+
+[Select Level (Do not change weapon if you use the level modifier code as this will freeze the game)\5B]
+Type = Gameshark
+Activation = EndFrame
+8014C1C6 1300
+
+[Select Level (Do not change weapon if you use the level modifier code as this will freeze the game)\6]
+Type = Gameshark
+Activation = EndFrame
+8014C1C6 1700
+
+[Select Level (Do not change weapon if you use the level modifier code as this will freeze the game)\7]
+Type = Gameshark
+Activation = EndFrame
+8014C1C6 1C00
+
+[Select Level (Do not change weapon if you use the level modifier code as this will freeze the game)\8]
+Type = Gameshark
+Activation = EndFrame
+8014C1C6 2000
+
+[Select Level (Do not change weapon if you use the level modifier code as this will freeze the game)\8B]
+Type = Gameshark
+Activation = EndFrame
+8014C1C6 2300
+
+[Move Fast L1 + select]
+Type = Gameshark
+Activation = EndFrame
+D0007572 FBFE
+80038760 0001
+
+[Move Normal L2 + select]
+Type = Gameshark
+Activation = EndFrame
+D0007572 FEFE
+80038760 FFE9
+

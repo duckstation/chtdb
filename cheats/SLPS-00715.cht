@@ -1,0 +1,8 @@
+; CHTDB: ; [ Zen Nihon GT Senshuken Max Rev. (Japan) {SLPS-00715 | SLPS-00716} ]
+
+[Boost Code (Press L1 Button For Boost Mode)]
+Type = Gameshark
+Activation = EndFrame
+D00828F0 0004
+800E23CE 000F
+

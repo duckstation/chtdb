@@ -1,0 +1,132 @@
+; CHTDB: ; [ Disney/Pixar Buzz Lightyear of Star Command (USA) (2000) (Activision) {SLUS-01192} <buzzlght> ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800B57DE 0190
+
+[Max Gold Triangles]
+Type = Gameshark
+Activation = EndFrame
+800B57E6 03E7
+
+[Infinite Fuel]
+Type = Gameshark
+Activation = EndFrame
+800AA4E0 0900
+
+[Have All Green People]
+Type = Gameshark
+Activation = EndFrame
+800A9ED4 0005
+800A9F38 0005
+
+[All Levels + Missions Unlocked]
+Type = Gameshark
+Activation = EndFrame
+50000D01 0000
+300D48A2 007F
+
+[Infinite Ammo-All Weapons]
+Type = Gameshark
+Activation = EndFrame
+50000802 0000
+800B8A14 0640
+
+[Press L2 To Start Timer + Press R2 To Stop Timer]
+Type = Gameshark
+Activation = EndFrame
+D00A9FBC 0100
+80086E06 AF82
+D00A9FBC 0200
+80086E06 2400
+
+[Disable HUDs (Press L3 to toggle on/off)]
+Type = Gameshark
+Activation = EndFrame
+D7010001 01000200
+F504835A 0C022400
+F50474B6 0C022400
+F50744EA 0C012400
+F5074496 0C012400
+F50479A6 0C022400
+F5047022 0C022400
+
+[Disable flying height cap]
+Type = Gameshark
+Activation = EndFrame
+A704B692 10401000
+
+[Collectables move with player]
+Type = Gameshark
+Activation = EndFrame
+A7044CEE 0C002400
+
+[Walk through walls (Press R3 to toggle on/off)]
+Type = Gameshark
+Activation = EndFrame
+D7010001 02000400
+F50527D2 14431000
+
+[Hit Anywhere]
+Type = Gameshark
+Activation = EndFrame
+A70818DA 11601400
+
+[Moon Jump]
+Type = Gameshark
+Activation = EndFrame
+;Moon Jump cheat by Teh69thSpartan
+;Toy Story 2 [Europe v1.1]
+A7049BA4 008E3000
+A7049BA6 86020C00
+;Toy Story 2 [USA v1.0]
+A7049B58 008E3000
+A7049B5A 86020C00
+;Toy Story 2 [USA v1.1]
+A7049BC4 008E3000
+A7049BC6 86020C00
+;Buzz Lightyear of Star Command [USA]
+A704BAA4 008E3000
+A704BAA6 86020C00
+;Buzz Lightyear of Star Command [Europe]
+A704BA78 008E3000
+A704BA7A 86020C00
+;Common
+9000C000 27BDFFE8
+9000C004 AFA80010
+9000C008 3C08800B
+9000C00C 9108CE6B
+9000C014 00084027
+9000C018 31080040
+9000C01C 39080040
+9000C020 11000002
+9000C028 8602008E
+9000C030 8FA80010
+9000C034 27BD0018
+9000C038 03E00008
+;Note: Affects the jumping platforms as well. Use also the Invincility codes if using this.
+;With these codes enabled, you start further than your starting point in some levels.
+;Please disable it in levels 10, 11, 12 and 13 to avoid problems.
+
+[Grab stuff from anywhere (L3/LS to toggle on/off)]
+Description = Use with Invincibility and Disable on Levels 10-13
+Type = Gameshark
+Activation = EndFrame
+D7010001 01000200
+F50826CA 10402400
+F50826E2 10402400
+F50826FA 10402400
+F5082742 10402400
+
+[Grab dead enemies' triangles from anywhere]
+Type = Gameshark
+Activation = EndFrame
+A7070B12 10402400
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+A702E804 66664CCC
+A702E80C 6667CCCC
+

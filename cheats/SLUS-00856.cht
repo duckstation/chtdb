@@ -1,0 +1,17 @@
+; CHTDB: ; [ Brunswick Circuit Pro Bowling 2 (USA) (2000) (THQ) {SLUS-00856} <brunscp2> ]
+
+[Max Accuracy]
+Type = Gameshark
+Activation = EndFrame
+80132A54 0006
+
+[Max Power]
+Type = Gameshark
+Activation = EndFrame
+80132A68 0006
+
+[Max Spin]
+Type = Gameshark
+Activation = EndFrame
+80132A7C 0006
+

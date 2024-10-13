@@ -1,0 +1,17 @@
+; CHTDB: ; [ Bio F.R.E.A.K.S. (USA) (1998) (Midway Home Entertainment) {SLUS-00502} <biofreak> ]
+
+[P1 Extra Health]
+Type = Gameshark
+Activation = EndFrame
+8009A038 6400
+
+[P1 Infinite Shields]
+Type = Gameshark
+Activation = EndFrame
+8009A03C 6400
+
+[P1 Shields Always Active]
+Type = Gameshark
+Activation = EndFrame
+8009A048 0022
+

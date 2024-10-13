@@ -1,0 +1,12 @@
+; CHTDB: ; [ Command & Conquer (GDI) (France) {SLES-00531 | SLES-10531} ]
+
+[Infinite Credits GDI]
+Type = Gameshark
+Activation = EndFrame
+8011C0F8 FFFF
+
+[Infinite Credits NOD]
+Type = Gameshark
+Activation = EndFrame
+8011BA10 FFFF
+

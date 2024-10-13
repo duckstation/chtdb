@@ -1,0 +1,17 @@
+; CHTDB: ; [ World Soccer Jikkyou Winning Eleven 3: World Cup France '98 (Japan) {SLP-86086} ]
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A70F1D18 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A70F1D18 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A70F1D18 10000400
+

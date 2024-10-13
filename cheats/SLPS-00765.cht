@@ -1,0 +1,102 @@
+; CHTDB: ; [ Namco Museum Encore (Japan) (Shokai Gentei Special Box) {SLPS-00765} ]
+
+[Rolling Thunder Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+8017B3B6 0999
+
+[Rolling Thunder P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80171C5C 4003
+
+[Rolling Thunder P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80171C7C 4003
+
+[Rolling Thunder Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8017B47A 0040
+
+[Rolling Thunder Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+8016E94C 0063
+
+[Motos Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801A3D25 0003
+
+[Dragon Saber P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801412B8 0003
+
+[Dragon Saber P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801413BC 0003
+
+[Dragon Saber Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+801A3D06 9900
+
+[Sky Kid Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+800C76B4 0063
+
+[Sky Kid P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800C7054 0003
+
+[Sky Kid P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800C7058 0003
+
+[Rompers Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800BE248 0003
+
+[Rompers Infinite Time To make this code work, you must skip the intro]
+Type = Gameshark
+Activation = EndFrame
+800BE12A 0558
+
+[Rompers Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+8012CD5E 0063
+
+[King & Balloon Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+8004D968 9900
+
+[King & Balloon Infinite Kings]
+Type = Gameshark
+Activation = EndFrame
+8004D65E 0404
+
+[Wonder Momo Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+8012459C 0063
+
+[Wonder Momo Infinite Vital]
+Type = Gameshark
+Activation = EndFrame
+80124404 007F
+
+[Wonder Momo Infinite Wonder]
+Type = Gameshark
+Activation = EndFrame
+801245F0 007F
+

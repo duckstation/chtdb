@@ -1,0 +1,12 @@
+; CHTDB: ; [ No-appointment Gals Olympos: Apo Nashi Gals Olympos (Japan) (Shokai Gentei Cell-Ga Package) {SLPS-00493} ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800F3EE4 0096
+
+[Infinite Power]
+Type = Gameshark
+Activation = EndFrame
+800A33CA 0031
+

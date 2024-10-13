@@ -1,0 +1,88 @@
+; CHTDB: ; [ Driver 2 (USA, v1.0) (2000) (Infogrames) {SLUS-01161 / SLUS-01318} <driver2a> ]
+
+[Infinite Mass/Remote Controlled Car]
+Type = Gameshark
+Activation = EndFrame
+D00D9382 BBFF
+D10D9382 BBFF
+800D1500 0700
+800D1500 0100
+
+[Time Change Night]
+Type = Gameshark
+Activation = EndFrame
+800AA7D8 0003
+
+[Live in Flipping/Fully Damaged car]
+Type = Gameshark
+Activation = EndFrame
+D0063878 0058
+8006387A 1000
+
+[Unlock All Cities, Extra Tracks, Vehicles and Secrets]
+Type = Gameshark
+Activation = EndFrame
+800AA624 0028
+800AAF8C FFFF
+
+[Law Enforcement Nightmare]
+Type = Gameshark
+Activation = EndFrame
+800AACE8 0001
+
+[All cars are Cop Cars]
+Type = Gameshark
+Activation = EndFrame
+800AB0FE 0000
+
+[Mission-Complete All Levels (press L3+R3)]
+Type = Gameshark
+Activation = EndFrame
+D00D9382-FFF9
+80138488-0002
+D00D9382-FFF9
+801384C8-0002
+D00D9382-FFF9
+80138508-0002
+D00D9382-FFF9
+80138548-0002
+D00D9382-FFF9
+80138588-0002
+D00D9382-FFF9
+801385C8-0002
+D00D9382-FFF9
+80138608-0002
+D00D9382-FFF9
+80138648-0002
+D00D9382-FFF9
+80138688-0002
+D00D9382-FFF9
+801386C8-0002
+D00D9382-FFF9
+80138708-0002
+D00D9382-FFF9
+80138748-0002
+D00D9382-FFF9
+80138788-0002
+D00D9382-FFF9
+801387C8-0002
+D00D9382-FFF9
+80138808-0002
+D00D9382-FFF9
+80138848-0002
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A707EC48 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A707EC48 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A707EC48 10000400
+

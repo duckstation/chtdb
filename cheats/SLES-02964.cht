@@ -1,0 +1,93 @@
+; CHTDB: ; [ Magical Drop III (Magical Drop III) aka Magical Drop III: Special Edition (Europe) {SLES-02964 | SLES-12964} ]
+
+[Set debit at 0/quick win P1 (Press L1 & L2)]
+Type = Gameshark
+Activation = EndFrame
+D0007572 FAFF
+800DBDB0 0000
+
+[Story Mode - Begin With A Lot Of Talern]
+Type = Gameshark
+Activation = EndFrame
+A60D9704 000003E8
+
+[Story Mode - Set Target To Zero Quick Win P1(Press L1 & L2)]
+Type = Gameshark
+Activation = EndFrame
+D0007572 FAFF
+800DBDB0 0001
+
+[Story Mode More Time(Press R1)]
+Type = Gameshark
+Activation = EndFrame
+D0007572 F7FF
+800DDBE0 1111
+
+[Magical Drop Plus 1 Start With LOt of Points]
+Type = Gameshark
+Activation = EndFrame
+A608E460 00005A56
+
+[Magical Drop Plus 1! Single Player Mode Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+A607823C 00C80190
+
+[Magical Drop Plus 1! Single Player Mode Infinite Time (Alternate)]
+Type = Gameshark
+Activation = EndFrame
+D00249F0 8009
+800249F4 0000
+
+[Magical Drop Plus 1! Single Player Mode Start at level 100]
+Type = Gameshark
+Activation = EndFrame
+D00780CC 0001
+300780CC 0064
+
+[Magical Drop Plus 1! PUZZLE MODE Infinite draws]
+Type = Gameshark
+Activation = EndFrame
+A60349F0 FFFF0000
+
+[Magical Drop Plus 1! PUZZLE MODE All Puzzles Solved Beginner]
+Type = Gameshark
+Activation = EndFrame
+9006CE14 3FFFFFFF
+
+[Magical Drop Plus 1! PUZZLE MODE All Puzzles Solved Very easy]
+Type = Gameshark
+Activation = EndFrame
+9006CE18 3FFFFFFF
+
+[Magical Drop Plus 1! PUZZLE MODE All Puzzles Solved Easy]
+Type = Gameshark
+Activation = EndFrame
+9006CE1C 3FFFFFFF
+
+[Magical Drop Plus 1! PUZZLE MODE All Puzzles Solved Normal]
+Type = Gameshark
+Activation = EndFrame
+9006CE20 3FFFFFFF
+
+[Magical Drop Plus 1! PUZZLE MODE All Puzzles Solved Hard]
+Type = Gameshark
+Activation = EndFrame
+9006CE24 3FFFFFFF
+
+[Magical Drop Plus 1! PUZZLE MODE All Puzzles Solved Very hard]
+Type = Gameshark
+Activation = EndFrame
+9006CE28 3FFFFFFF
+
+[Magical Drop Plus 1! PUZZLE MODE All Puzzles Solved Expert]
+Type = Gameshark
+Activation = EndFrame
+9006CE2C 3FFFFFFF
+
+[Magical Drop Plus 1 2 PLAYER MODE Only 1 row to clear]
+Type = Gameshark
+Activation = EndFrame
+D008E464 00C8
+3008E464 0001
+

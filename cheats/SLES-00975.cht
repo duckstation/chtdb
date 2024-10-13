@@ -1,0 +1,102 @@
+; CHTDB: ; [ Resident Evil 2 (Italy) {SLES-00975 | SLES-10975} ]
+
+[Leon-Codes\Energia Infinita]
+Type = Gameshark
+Activation = EndFrame
+800C6F4A 00C8
+
+[Leon-Codes\Salvataggi Infiniti]
+Type = Gameshark
+Activation = EndFrame
+800CBC40 051E
+
+[Tutte Le Armi Hanno Munizioni Infinite\Magnum %NOTE]
+Type = Gameshark
+Activation = EndFrame
+800CBC38 0505
+
+[Tutte Le Armi Hanno Munizioni Infinite\Magnum Modificata %NOTE]
+Type = Gameshark
+Activation = EndFrame
+800CBC38 0506
+
+[Tutte Le Armi Hanno Munizioni Infinite\Fucile %NOTE]
+Type = Gameshark
+Activation = EndFrame
+800CBC38 0507
+
+[Tutte Le Armi Hanno Munizioni Infinite\Fucile Modificato %NOTE]
+Type = Gameshark
+Activation = EndFrame
+800CBC38 0508
+
+[Tutte Le Armi Hanno Munizioni Infinite\Lanciafiamme %NOTE]
+Type = Gameshark
+Activation = EndFrame
+800CBC38 6410
+
+[Tutte Le Armi Hanno Munizioni Infinite\Lanciarazzi %NOTE]
+Type = Gameshark
+Activation = EndFrame
+800CBC38 0511
+
+[Tutte Le Armi Hanno Munizioni Infinite\Rotellone %NOTE]
+Type = Gameshark
+Activation = EndFrame
+800CBC38 0512
+
+[Claire Energia infinita]
+Type = Gameshark
+Activation = EndFrame
+800C6EF2 00C8
+
+[Claire Salvataggi infiniti]
+Type = Gameshark
+Activation = EndFrame
+800CBBE8 071E
+
+[Tutte Le Armi Hanno Munizioni Infinite\Balestra]
+Type = Gameshark
+Activation = EndFrame
+800CBBE0 FF0C
+
+[Tutte Le Armi Hanno Munizioni Infinite\Colt S.A.A.]
+Type = Gameshark
+Activation = EndFrame
+800CBBE0 FF0D
+
+[Tutte Le Armi Hanno Munizioni Infinite\Lanciagranate (Esplosive)]
+Type = Gameshark
+Activation = EndFrame
+800CBBE0 FF09
+
+[Tutte Le Armi Hanno Munizioni Infinite\Lanciagranate (Incendiarie)]
+Type = Gameshark
+Activation = EndFrame
+800CBBE0 FF0A
+
+[Tutte Le Armi Hanno Munizioni Infinite\Lanciagranate (Acide)]
+Type = Gameshark
+Activation = EndFrame
+800CBBE0 FF0B
+
+[Tutte Le Armi Hanno Munizioni Infinite\Taser]
+Type = Gameshark
+Activation = EndFrame
+800CBBE0 FF0E
+
+[Tutte Le Armi Hanno Munizioni Infinite\Mitra]
+Type = Gameshark
+Activation = EndFrame
+800CBBE0 FF0F
+
+[Tutte Le Armi Hanno Munizioni Infinite\Lanciarazzi]
+Type = Gameshark
+Activation = EndFrame
+800CBBE0 FF11
+
+[Tutte Le Armi Hanno Munizioni Infinite\Rotellone]
+Type = Gameshark
+Activation = EndFrame
+800CBBE0 FF12
+

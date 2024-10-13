@@ -1,0 +1,252 @@
+; CHTDB: ; [ Planet of the Apes (Europe) {SLES-03844} ]
+
+[Infinite Health Level 1]
+Type = Gameshark
+Activation = EndFrame
+801E5FF4 0100
+
+[Infinite Health Level 2]
+Type = Gameshark
+Activation = EndFrame
+801E602C 0100
+
+[Infinite Health Level 3]
+Type = Gameshark
+Activation = EndFrame
+801E607C 0100
+
+[Infinite Medikits]
+Type = Gameshark
+Activation = EndFrame
+801E74B8 0009
+
+[Select Level\Mediacal Center Part 2]
+Type = Gameshark
+Activation = EndFrame
+801F6A4C 0006
+
+[Select Level\Mediacal Center Part 3]
+Type = Gameshark
+Activation = EndFrame
+801F6A4C 0007
+
+[Select Level\Mediacal Center Part End Sequence]
+Type = Gameshark
+Activation = EndFrame
+801F6A4C 0008
+
+[Select Level\Monastery Part 1]
+Type = Gameshark
+Activation = EndFrame
+801F6A4C 0009
+
+[Select Level\Monastery Part 2]
+Type = Gameshark
+Activation = EndFrame
+801F6A4C 000A
+
+[Select Level\Monastery Part 3]
+Type = Gameshark
+Activation = EndFrame
+801F6A4C 000B
+
+[Select Level\Monastery Part 4]
+Type = Gameshark
+Activation = EndFrame
+801F6A4C 000C
+
+[Select Level\Monastery End Sequence]
+Type = Gameshark
+Activation = EndFrame
+801F6A4C 000D
+
+[Select Level\Mines Part 1]
+Type = Gameshark
+Activation = EndFrame
+801F6A4C 000E
+
+[Select Level\Mines Part 2]
+Type = Gameshark
+Activation = EndFrame
+801F6A4C 000F
+
+[Select Level\Mines Part 3]
+Type = Gameshark
+Activation = EndFrame
+801F6A4C 0010
+
+[Select Level\Mines End Sequence]
+Type = Gameshark
+Activation = EndFrame
+801F6A4C 0011
+
+[Select Level\Entering Ruined City]
+Type = Gameshark
+Activation = EndFrame
+801F6A4C 0012
+
+[Select Level\Ruined City 2]
+Type = Gameshark
+Activation = EndFrame
+801F6A4C 0013
+
+[Select Level\Ruined City 3]
+Type = Gameshark
+Activation = EndFrame
+801F6A4C 0014
+
+[Select Level\Ruined City End Seququenxe]
+Type = Gameshark
+Activation = EndFrame
+801F6A4C 0015
+
+[Select Level\Human Village Part 1]
+Type = Gameshark
+Activation = EndFrame
+801F6A4C 0016
+
+[Select Level\Human Village Part 2]
+Type = Gameshark
+Activation = EndFrame
+801F6A4C 0017
+
+[Select Level\Human Village Part 3]
+Type = Gameshark
+Activation = EndFrame
+801F6A4C 0018
+
+[Select Level\The Canyo Sequence]
+Type = Gameshark
+Activation = EndFrame
+801F6A4C 0019
+
+[Select Level\Human Village End Sequence]
+Type = Gameshark
+Activation = EndFrame
+801F6A4C 001A
+
+[Select Level\University Part 1]
+Type = Gameshark
+Activation = EndFrame
+801F6A4C 001B
+
+[Select Level\University Part 2]
+Type = Gameshark
+Activation = EndFrame
+801F6A4C 001C
+
+[Select Level\Meeting Mathias 1 Sequence]
+Type = Gameshark
+Activation = EndFrame
+801F6A4C 001D
+
+[Select Level\Entering Prison Sequence]
+Type = Gameshark
+Activation = EndFrame
+801F6A4C 001E
+
+[Select Level\Prison 4]
+Type = Gameshark
+Activation = EndFrame
+801F6A4C 001F
+
+[Select Level\Prison End Sequence]
+Type = Gameshark
+Activation = EndFrame
+801F6A4C 0020
+
+[Select Level\Military Base]
+Type = Gameshark
+Activation = EndFrame
+801F6A4C 0021
+
+[Select Level\Meeting Mathias 2 Sequence]
+Type = Gameshark
+Activation = EndFrame
+801F6A4C 0022
+
+[Select Level\Factory Underground]
+Type = Gameshark
+Activation = EndFrame
+801F6A4C 0023
+
+[Select Level\Factory Underground End Cutscene]
+Type = Gameshark
+Activation = EndFrame
+801F6A4C 0024
+
+[Select Level\Archives Part 1]
+Type = Gameshark
+Activation = EndFrame
+801F6A4C 0025
+
+[Select Level\Archives Part 2]
+Type = Gameshark
+Activation = EndFrame
+801F6A4C 0026
+
+[Select Level\Archives Part 3]
+Type = Gameshark
+Activation = EndFrame
+801F6A4C 0027
+
+[Select Level\Archives End Sequence]
+Type = Gameshark
+Activation = EndFrame
+801F6A4C 0028
+
+[Select Level\Meeting Mathias 3 Sequence]
+Type = Gameshark
+Activation = EndFrame
+801F6A4C 0029
+
+[Select Level\The Statue]
+Type = Gameshark
+Activation = EndFrame
+801F6A4C 002A
+
+[Select Level\The Statue Sequence 2]
+Type = Gameshark
+Activation = EndFrame
+801F6A4C 002B
+
+[Select Level\The Statue or Pentagon 1]
+Type = Gameshark
+Activation = EndFrame
+801F6A4C 002C
+
+[Select Level\Pentagon Part 2]
+Type = Gameshark
+Activation = EndFrame
+801F6A4C 002D
+
+[Select Level\Pentagon Part 3]
+Type = Gameshark
+Activation = EndFrame
+801F6A4C 002E
+
+[Select Level\The Encounter Sequence]
+Type = Gameshark
+Activation = EndFrame
+801F6A4C 002F
+
+[Select Level\Monastery 5 Sequence]
+Type = Gameshark
+Activation = EndFrame
+801F6A4C 0030
+
+[Select Level\Ape Palace Sequence]
+Type = Gameshark
+Activation = EndFrame
+801F6A4C 0031
+
+[Select Level\Ape Palace]
+Type = Gameshark
+Activation = EndFrame
+801F6A4C 0032
+
+[Select Level\Ape Palace End Sequence]
+Type = Gameshark
+Activation = EndFrame
+801F6A4C 0033
+

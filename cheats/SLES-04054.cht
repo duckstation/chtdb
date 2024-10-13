@@ -1,0 +1,7 @@
+; CHTDB: ; [ Robo Pit 2 (Europe) {SLES-04054} ]
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800C6F54 03E7
+

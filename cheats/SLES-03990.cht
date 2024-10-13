@@ -1,0 +1,73 @@
+; CHTDB: ; [ Extreme Ghostbusters: The Ultimate Invasion (Europe) {SLES-03990} ]
+
+[Extreme Ghostbuster\P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80067734 0063
+
+[Extreme Ghostbuster\P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800676A0 0063
+
+[Extreme Ghostbuster\Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+8006788E 00B4
+
+[Extreme Ghostbuster\P2 Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+80067724 0057
+
+[Extreme Ghostbuster\P1 Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+80067690 0057
+
+[P1 Have lots of points]
+Type = Gameshark
+Activation = EndFrame
+800676A8 FFFF
+
+[Adventure Game\Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+8006788E 00B4
+
+[P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800676A0 0063
+
+[P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80067734 0063
+
+[P1 No Reload]
+Type = Gameshark
+Activation = EndFrame
+80067698 0064
+
+[P2 No Reload]
+Type = Gameshark
+Activation = EndFrame
+8006772C 0064
+
+[P1 Perfect Results]
+Type = Gameshark
+Activation = EndFrame
+800676B0 0063
+800676B4 0000
+800676B8 0063
+800676BC 0000
+
+[P2 Perfect Results]
+Type = Gameshark
+Activation = EndFrame
+80067744 0063
+80067748 0000
+8006774C 0063
+80067750 0000
+

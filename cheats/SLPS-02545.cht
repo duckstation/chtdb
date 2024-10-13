@@ -1,0 +1,52 @@
+; CHTDB: ; [ Kimero!! Hero Gakuen: Eiyuu ni Kotae Nashi (Japan) {SLPS-02545} ]
+
+[First character max stats]
+Type = Gameshark
+Activation = EndFrame
+8007754A 03E7
+8007754E 03E7
+80077550 03E7
+8007754C 03E7
+80077552 03E7
+90077554 03E703E7
+90077558 03E703E7
+
+[Second character max stats]
+Type = Gameshark
+Activation = EndFrame
+800775FC 03E7
+90077600 03E703E7
+800775FE 03E7
+90077604 03E703E7
+90077608 03E703E7
+8007760C 03E7
+
+[Third character max stats]
+Type = Gameshark
+Activation = EndFrame
+800776AE 03E7
+800776B2 03E7
+800776B4 03E7
+800776B0 03E7
+800776B6 03E7
+900776B8 03E703E7
+900776BC 03E703E7
+
+[Fourth character max stats]
+Type = Gameshark
+Activation = EndFrame
+90077760 03E703E7
+90077764 03E703E7
+90077768 03E703E7
+9007776C 03E703E7
+80077770 03E7
+
+[Fifth character max stats]
+Type = Gameshark
+Activation = EndFrame
+80077812 03E7
+90077814 03E703E7
+90077818 03E703E7
+9007781C 03E703E7
+90077820 03E703E7
+

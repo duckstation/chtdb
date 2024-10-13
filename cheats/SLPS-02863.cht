@@ -1,0 +1,65 @@
+; CHTDB: ; [ Super Tokusatsu Taisen 2001 (Japan) {SLPS-02863} ]
+
+[Infinite HP Main character (boy)]
+Type = Gameshark
+Activation = EndFrame
+80131596 03E7
+80131598 03E7
+801315C8 03E7
+
+[Infinite HP Main character (girl)]
+Type = Gameshark
+Activation = EndFrame
+801315FA 03E7
+801315FC 03E7
+
+[Infinite HP Kamen Rider]
+Type = Gameshark
+Activation = EndFrame
+801316C2 03E7
+801316C4 03E7
+
+[Infinite HP Kamen Rider (human shape)]
+Type = Gameshark
+Activation = EndFrame
+90131690 03E703E7
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+9013022C 0098967F
+
+[Damage 9999 Presss select+L2]
+Type = Gameshark
+Activation = EndFrame
+D00BD6B0 0101
+800556D6 1400
+D00BD6B0 0102
+800556D6 1440
+
+[99 All Items]
+Type = Gameshark
+Activation = EndFrame
+80130326 FFFF
+90130328 FFFFFFFF
+801302C6 6363
+901302C8 63636363
+901302CC 63636363
+901302D0 63636363
+901302D4 63636363
+901302D8 63636363
+901302DC 63636363
+901302E0 63636363
+801302E4 6363
+
+[Music video full Open]
+Type = Gameshark
+Activation = EndFrame
+A7040E86 10401400
+
+[Picture book full open]
+Type = Gameshark
+Activation = EndFrame
+A706C69E 10401400
+A706C74A 10401400
+

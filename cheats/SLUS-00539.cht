@@ -1,0 +1,67 @@
+; CHTDB: ; [ Clock Tower (USA) (1997) (ASCII Entertainment Software) {SLUS-00539} <clocktow> ]
+
+[Have Office Key]
+Type = Gameshark
+Activation = EndFrame
+80095900 0100
+
+[Enable All Hints]
+Type = Gameshark
+Activation = EndFrame
+800959EA 0100
+900959EC 01010101
+900959F0 01010101
+800959F4 0101
+
+[Enable All Endings Jennifer]
+Type = Gameshark
+Activation = EndFrame
+900959F4 01010101
+800959F8 0101
+
+[Enable All Endings Helen]
+Type = Gameshark
+Activation = EndFrame
+800959FA 0101
+900959FC 01010101
+
+[Rio\Office Door Open]
+Type = Gameshark
+Activation = EndFrame
+80095900 0200
+
+[Rio\Ladder Door Open]
+Type = Gameshark
+Activation = EndFrame
+80095854 0001
+
+[Scenerios Excep\Invincibility]
+Type = Gameshark
+Activation = EndFrame
+8009580E 0000
+
+[Jennifer Scenario 1 Ladder Door Open]
+Type = Gameshark
+Activation = EndFrame
+80095854 0001
+
+[Jennifer Scenario 1 Office Door Open]
+Type = Gameshark
+Activation = EndFrame
+80095900 0200
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A7066144 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A7066144 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A7066144 10000400
+

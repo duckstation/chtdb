@@ -1,0 +1,27 @@
+; CHTDB: ; [ Fantastic Four (Europe) {SLES-00548} ]
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800E03EE 0040
+
+[P2 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800E05EE 0040
+
+[P3 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800E07EE 0040
+
+[P4 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800E09EE 0040
+
+[Level Skip ((Press L1+L2+R1+R2 while in game to go to the Level Skip screen. Press X to skip a level or Triangle to go back a level)]
+Type = Gameshark
+Activation = EndFrame
+800910D2 0001
+

@@ -1,0 +1,38 @@
+; CHTDB: ; [ F1 2000 (USA) (2000) (Electronic Arts) {SLUS-01120} <f1_2k> ]
+
+[Time Always Under A Second]
+Type = Gameshark
+Activation = EndFrame
+80034E20 0000
+
+[Start On Lap 4]
+Type = Gameshark
+Activation = EndFrame
+E0034E2D 0000
+30034E2D 0004
+
+[Select Stage\4]
+Type = Gameshark
+Activation = EndFrame
+30034E2D 0004
+
+[Select Stage\8]
+Type = Gameshark
+Activation = EndFrame
+30034E2D 0008
+
+[Select Stage\16]
+Type = Gameshark
+Activation = EndFrame
+30034E2D 0010
+
+[Difficulty Modifier Expert]
+Type = Gameshark
+Activation = EndFrame
+8014657C 0003
+
+[Damage Off]
+Type = Gameshark
+Activation = EndFrame
+80146578 0000
+

@@ -1,0 +1,12 @@
+; CHTDB: ; [ Hexamoon Guardians (Japan) {SLPS-02641 | SLPS-02642} ]
+
+[Main character infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800736D4 01F4
+
+[Main character infinite voltage (Special attacks)]
+Type = Gameshark
+Activation = EndFrame
+8006A5D2 0064
+

@@ -1,0 +1,38 @@
+; CHTDB: ; [ ECW Anarchy Rulz (USA) (2000) (Acclaim Entertainment) {SLUS-01169} <ecwar> ]
+
+[Infinite Creation Points]
+Type = Gameshark
+Activation = EndFrame
+30080248 0000
+
+[Unlock Belt Mode]
+Type = Gameshark
+Activation = EndFrame
+300BFE28 000F
+
+[Everything Unlocked]
+Type = Gameshark
+Activation = EndFrame
+900B85C0 F7FFFFFF
+900B85C4 FFFFFFFF
+900B85CC FFFFFFFF
+
+[P1 Only Super Code]
+Description = With this cheat The give Infinite Health to the player, and the rest of the characters have 1-Hit Deaths
+Type = Gameshark
+Activation = EndFrame
+C0034720 004D
+90034728 0C001D80
+9003472C 8E220120
+00000000 FFFF
+90007600 3C018008
+90007604 8C211378
+8000760A 2400
+9000760C 14310002
+80007612 2400
+90007614 27FF0024
+90007618 03E00008
+8000761E 2400
+D0034720 004D
+9003474C 3C0200FF
+

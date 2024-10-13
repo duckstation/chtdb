@@ -1,0 +1,12 @@
+; CHTDB: ; [ Grid Runner (Japan) {SLPS-00659} ]
+
+[Infinite Life]
+Type = Gameshark
+Activation = EndFrame
+8009C46A 0000
+
+[Infinite Magic]
+Type = Gameshark
+Activation = EndFrame
+8009C426 000F
+

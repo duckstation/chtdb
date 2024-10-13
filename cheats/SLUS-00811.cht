@@ -1,0 +1,65 @@
+; CHTDB: ; [ Guardian's Crusade (USA) (1999) (Activision) {SLUS-00811} <gcrusade> ]
+
+[Infinite + maximum HP]
+Type = Gameshark
+Activation = EndFrame
+801CD79C 03E7
+801CD7A0 03E7
+
+[Pp Infinite]
+Type = Gameshark
+Activation = EndFrame
+801CD79E 03E7
+801CD7A2 03E7
+
+[Have 99999 rubies]
+Type = Gameshark
+Activation = EndFrame
+901B5518 0001869F
+
+[Infinite + maximum HP Baby]
+Type = Gameshark
+Activation = EndFrame
+801CD7C4 03E7
+801CD7C8 03E7
+
+[Have All Living Toys]
+Type = Gameshark
+Activation = EndFrame
+801B551A FFFF
+901B551C FFFFFFFF
+901B5520 FFFFFFFF
+801B5524 FFFF
+
+[Have All Items]
+Type = Gameshark
+Activation = EndFrame
+50000E02 0001
+301B53F1 0004
+
+[Have All Junk]
+Type = Gameshark
+Activation = EndFrame
+50001E02 0001
+301B5419 00B8
+
+[Select Zoom\Zoom In]
+Type = Gameshark
+Activation = EndFrame
+A717682C 10001800
+
+[Select Zoom\Zoom Out]
+Type = Gameshark
+Activation = EndFrame
+A717682C 10000C00
+
+[Select Zoom\Zoom Out More]
+Type = Gameshark
+Activation = EndFrame
+A717682C 10000800
+
+[Widescreen 16-9 Y-]
+Type = Gameshark
+Activation = EndFrame
+A71B76A8 10001333
+

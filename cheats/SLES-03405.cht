@@ -1,0 +1,7 @@
+; CHTDB: ; [ Duke Nukem: Land of the Babes (Europe) {SLES-03405} ]
+
+[Enable all cheats]
+Type = Gameshark
+Activation = EndFrame
+8006F150 FFFF
+

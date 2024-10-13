@@ -1,0 +1,22 @@
+; CHTDB: ; [ Jeopardy! 2nd Edition (USA) (2000) (Hasbro Interactive) {SLUS-01173} <jeopard2> ]
+
+[P1 Max Money]
+Type = Gameshark
+Activation = EndFrame
+900ACFAC 05F5E0FF
+
+[P2 Max Money]
+Type = Gameshark
+Activation = EndFrame
+900B1250 05F5E0FF
+
+[P3 Max Money]
+Type = Gameshark
+Activation = EndFrame
+900B1274 05F5E0FF
+
+[Infinite Time To Answer]
+Type = Gameshark
+Activation = EndFrame
+800AD098 0000
+

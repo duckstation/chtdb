@@ -1,0 +1,9 @@
+; CHTDB: ; [ Gensou no Altemis - Actress School Mystery Adventure (Jpn) (2000) (Shoeisha) {SLPS-02563} <altemis> ]
+
+[Special mode ON and fully opened]
+Type = Gameshark
+Activation = EndFrame
+800AEE72 0001
+900AEE74 00010001
+900AEE78 00010001
+

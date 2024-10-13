@@ -1,0 +1,12 @@
+; CHTDB: ; [ Monster Punish (Japan) {SLPS-02491} ]
+
+[P1 Infinite HP main character]
+Type = Gameshark
+Activation = EndFrame
+800BE254 0064
+
+[Player has 999999 points]
+Type = Gameshark
+Activation = EndFrame
+900C95AC 000F423F
+

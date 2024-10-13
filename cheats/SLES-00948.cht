@@ -1,0 +1,44 @@
+; CHTDB: ; [ Test Drive 4 (Europe) {SLES-00948} ]
+
+[All cars]
+Type = Gameshark
+Activation = EndFrame
+80064722 0B0A
+90064724 0F0E0D0C
+
+[All reverse tracks]
+Type = Gameshark
+Activation = EndFrame
+90064758 08070604
+8006475C 0A09
+
+[Infinite Checkpoint time]
+Type = Gameshark
+Activation = EndFrame
+90039828 00000000
+
+[1000 points lead (Championship)]
+Type = Gameshark
+Activation = EndFrame
+A607F1D2 000003E8
+
+[Hypermode 120%]
+Type = Gameshark
+Activation = EndFrame
+8005DF48 0002
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A706F2D8 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A706F2D8 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A706F2D8 10000400
+

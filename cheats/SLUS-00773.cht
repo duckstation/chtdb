@@ -1,0 +1,73 @@
+; CHTDB: ; [ Asteroids (USA) (1998) (Activision) {SLUS-00773} <asteroid> ]
+
+[Stage Select+Invincibility]
+Description = With this cheat, when playing hold Select and Press Start to goto the menu, and then use L1 to select a stage.
+Type = Gameshark
+Activation = EndFrame
+801104B4 0001
+
+[P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8011013C 0009
+
+[P1 Select Ship\Dagger]
+Type = Gameshark
+Activation = EndFrame
+800DF7C4 0000
+
+[P1 Select Ship\Rapier]
+Type = Gameshark
+Activation = EndFrame
+800DF7C4 0001
+
+[P1 Select Ship\Long Sword]
+Type = Gameshark
+Activation = EndFrame
+800DF7C4 0002
+
+[P1 Select Ship\Excalibur]
+Type = Gameshark
+Activation = EndFrame
+800DF7C4 0003
+
+[P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80110140 0063
+
+[P2 Select Ship\Dagger]
+Type = Gameshark
+Activation = EndFrame
+800DF7C8 0000
+
+[P2 Select Ship\Rapier]
+Type = Gameshark
+Activation = EndFrame
+800DF7C8 0001
+
+[P2 Select Ship\Long Sword]
+Type = Gameshark
+Activation = EndFrame
+800DF7C8 0002
+
+[P2 Select Ship\Excalibur]
+Type = Gameshark
+Activation = EndFrame
+800DF7C8 0003
+
+[Enable Classic Asteroids]
+Type = Gameshark
+Activation = EndFrame
+80110428 0001
+
+[P1 Infinite Lives (Classic Asteroids)]
+Type = Gameshark
+Activation = EndFrame
+80111848 0003
+
+[P2 Infinite Lives (Classic Asteroids)]
+Type = Gameshark
+Activation = EndFrame
+8011184C 0003
+

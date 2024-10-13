@@ -1,0 +1,42 @@
+; CHTDB: ; [ Final Fantasy VIII (Germany) {SLES-02082 | SLES-12082 | SLES-22082 | SLES-32082} ]
+
+[Infinite HP in battle 1 Position]
+Type = Gameshark
+Activation = EndFrame
+80078DA2 270F
+
+[Infinite HP in battle 2 Position]
+Type = Gameshark
+Activation = EndFrame
+80078F72 270F
+
+[Infinite HP in battle 3 Position]
+Type = Gameshark
+Activation = EndFrame
+80079142 270F
+
+[Infinite HP in battle G.F. 1 Position]
+Type = Gameshark
+Activation = EndFrame
+80078C48 270F
+
+[Infinite HP in battle G.F. 2 Position]
+Type = Gameshark
+Activation = EndFrame
+80078E18 270F
+
+[Infinite HP in battle G.F. 3 Position]
+Type = Gameshark
+Activation = EndFrame
+80078FE8 270F
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+90078394 0160D02C
+
+[No random battles]
+Type = Gameshark
+Activation = EndFrame
+80079308 000C
+

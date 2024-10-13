@@ -1,0 +1,29 @@
+; CHTDB: ; [ Fighting Force (Europe) {SLES-00731} ]
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800B42F2 017C
+
+[P2 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800B43E6 017C
+
+[Red Blood With German Menus]
+Type = Gameshark
+Activation = EndFrame
+3005C3F4 0000
+
+[Enables level select & Invincibility cheat]
+Type = Gameshark
+Activation = EndFrame
+D0093D00 0000
+30093D00 0003
+
+[Finish level (Press L2 & R2 & Circle)]
+Type = Gameshark
+Activation = EndFrame
+D00946E2 DCFF
+800B42B0 B800
+

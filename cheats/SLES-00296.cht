@@ -1,0 +1,23 @@
+; CHTDB: ; [ Street Racer (Europe) {SLES-00296} ]
+
+[Always First Place]
+Type = Gameshark
+Activation = EndFrame
+800FB1F0 0000
+801CD2EA 0000
+
+[Infinite Turbo]
+Type = Gameshark
+Activation = EndFrame
+801CD224 0FFF
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801CD2C0 00FF
+
+[Extra Car And Creature (Rabbit)]
+Type = Gameshark
+Activation = EndFrame
+8010858C 0008
+

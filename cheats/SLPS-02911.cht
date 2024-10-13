@@ -1,0 +1,72 @@
+; CHTDB: ; [ Yuukyuu Kumikyoku: All Star Project (Japan) {SLPS-02911} ]
+
+[All characters intimacy MAX]
+Type = Gameshark
+Activation = EndFrame
+50002602 0000
+80056300 270F
+
+[Missions fully open]
+Type = Gameshark
+Activation = EndFrame
+50000D02 0000
+80056298 FFFF
+300562B2 0007
+
+[Album fully open]
+Type = Gameshark
+Activation = EndFrame
+50000C02 0000
+800562B8 FFFF
+
+[Food and Drink MAX]
+Type = Gameshark
+Activation = EndFrame
+50001E02 0000
+8005634C 6363
+
+[Booklet MAX"]
+Type = Gameshark
+Activation = EndFrame
+50001A02 0000
+80056388 6363
+300563BC 0063
+
+[Medical and cosmetic MAX]
+Type = Gameshark
+Activation = EndFrame
+50001C02 0000
+800563C4 6363
+300563FC 0063
+
+[Hazardous materials specified MAX]
+Type = Gameshark
+Activation = EndFrame
+50001A02 0000
+80056400 6363
+
+[School equipment MAX]
+Type = Gameshark
+Activation = EndFrame
+50001E02 0000
+8005643C 6363
+
+[Sporting Goods MAX]
+Type = Gameshark
+Activation = EndFrame
+50001A02 0000
+80056478 6363
+300564AC 0063
+
+[Goods MAX hobby]
+Type = Gameshark
+Activation = EndFrame
+50001E02 0000
+800564B4 6363
+
+[Rare thing MAX]
+Type = Gameshark
+Activation = EndFrame
+50001502 0000
+800564F0 6363
+

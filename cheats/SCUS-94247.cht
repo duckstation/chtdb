@@ -1,0 +1,17 @@
+; CHTDB: ; [ Rally Cross 2 (USA) (1998) (989 Studios) {SCUS-94247} <rallyx2> ]
+
+[Extra Tracks And Cars]
+Type = Gameshark
+Activation = EndFrame
+80059BFE 0003
+
+[Always Place 1st]
+Type = Gameshark
+Activation = EndFrame
+800721C0 0001
+
+[One Lap To Race]
+Type = Gameshark
+Activation = EndFrame
+800606BE 0104
+

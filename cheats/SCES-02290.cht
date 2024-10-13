@@ -1,0 +1,88 @@
+; CHTDB: ; [ Space Debris (Europe) {SCES-02290} ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800F0426 0009
+
+[Start With 9,999 Score]
+Type = Gameshark
+Activation = EndFrame
+A60F03C0 0000270F
+
+[Infinite Speed]
+Type = Gameshark
+Activation = EndFrame
+800F042A 1000
+
+[Infinite Smart Bombs]
+Type = Gameshark
+Activation = EndFrame
+300F042E 0009
+
+[Enable Level Select]
+Type = Gameshark
+Activation = EndFrame
+A60F03DA 00000009
+A60F03DC 00000009
+
+[Enable All Secrets And Difficulties Mode All the options under the #secret# menu]
+Type = Gameshark
+Activation = EndFrame
+800F03DE FFFF
+800F03E0 FFFF
+
+[Infinite Energy - Levels 1, 2, 4, 5, 7, 10]
+Type = Gameshark
+Activation = EndFrame
+800E34F0 0C00
+
+[Infinite Energy - Level 3]
+Type = Gameshark
+Activation = EndFrame
+800E3900 0C00
+
+[Infinite Energy - Level 6]
+Type = Gameshark
+Activation = EndFrame
+800E4460 0C00
+
+[Infinite Energy - Level 8]
+Type = Gameshark
+Activation = EndFrame
+800E3AA0 0C00
+
+[Infinite Energy - Level 9]
+Type = Gameshark
+Activation = EndFrame
+800E3760 0C00
+
+[Invincibility against Shots]
+Type = Gameshark
+Activation = EndFrame
+A702E8BA 14401000
+
+[Invincibility against Backgrounds-Obstacles-Ships]
+Type = Gameshark
+Activation = EndFrame
+A702ECA2 10401000
+
+[Nova Bomb (Press R3)]
+Description = Dont go to mad, it will destroy everything bad on the map and may cause problems on some levels
+Type = Gameshark
+Activation = EndFrame
+A7034656 14001040
+D7010001 01000400
+A7034656 10401400
+
+[Easier to Kill or Bypass Bosses]
+Description = You can also use this if you are too quick smart bombing bosses
+Type = Gameshark
+Activation = EndFrame
+A701D332 10401000
+A7017E96 14601400
+A7049B6A 10401400
+A7049982 14401000
+A701406E 14401000
+A7049B9E 1C601400
+

@@ -1,0 +1,220 @@
+; CHTDB: ; [ T.R.A.G. - Mission of Mercy (USA) (1999) (Sunsoft) {SLUS-00813} <trag> ]
+
+[Burns (Infinite Health)]
+Type = Gameshark
+Activation = EndFrame
+800F3EDE 03E7
+
+[Burns (Max Health)]
+Type = Gameshark
+Activation = EndFrame
+800F3EE6 03E7
+
+[Alex (Infinite Health)]
+Type = Gameshark
+Activation = EndFrame
+800F36DA 03E7
+
+[Alex (Max Health)]
+Type = Gameshark
+Activation = EndFrame
+800F36E2 03E7
+
+[Alex (Infinite He Bullets)]
+Type = Gameshark
+Activation = EndFrame
+800981AA 0064
+
+[Alex (Infinite AP Bullets)]
+Type = Gameshark
+Activation = EndFrame
+800981A8 012C
+
+[Michelle (Infinite Health)]
+Type = Gameshark
+Activation = EndFrame
+800F26D8 03E7
+
+[Michelle (Max Health)]
+Type = Gameshark
+Activation = EndFrame
+800F26E0 03E7
+
+[Rachel (Infinite Health)]
+Type = Gameshark
+Activation = EndFrame
+800F3EDC 03E7
+
+[Rachel (Max Health)]
+Type = Gameshark
+Activation = EndFrame
+800F3EE4 03E7
+
+[Enable All Arms For Everyone]
+Type = Gameshark
+Activation = EndFrame
+8013A45A FFFF
+9013A45C FFFFFFFF
+8013A460 FFFF
+8013A464 FFFF
+
+[Have Accident Report]
+Type = Gameshark
+Activation = EndFrame
+300B9B27 0002
+
+[Have Admin. Log]
+Type = Gameshark
+Activation = EndFrame
+300B9B2B 0002
+
+[Have Byford Bomb]
+Type = Gameshark
+Activation = EndFrame
+300B9B0D 0002
+
+[Have Device #1]
+Type = Gameshark
+Activation = EndFrame
+300B9B1A 0002
+
+[Have Device #2]
+Type = Gameshark
+Activation = EndFrame
+300B9B1B 0002
+
+[Have Device #3]
+Type = Gameshark
+Activation = EndFrame
+300B9B1C 0002
+
+[Have Disengagment]
+Type = Gameshark
+Activation = EndFrame
+300B9B2A 0002
+
+[Have Internal Report 1]
+Type = Gameshark
+Activation = EndFrame
+300B9B31 0002
+
+[Have Internal Report 2]
+Type = Gameshark
+Activation = EndFrame
+300B9B32 0002
+
+[Have Internal Report 3]
+Type = Gameshark
+Activation = EndFrame
+300B9B33 0002
+
+[Have Internet E-Mail]
+Type = Gameshark
+Activation = EndFrame
+300B9B24 0002
+
+[Have Journal]
+Type = Gameshark
+Activation = EndFrame
+300B9B26 0002
+
+[Have Keycard A]
+Type = Gameshark
+Activation = EndFrame
+300B9B19 0002
+
+[Have Keycard B]
+Type = Gameshark
+Activation = EndFrame
+300B9B09 0002
+
+[Have Letter]
+Type = Gameshark
+Activation = EndFrame
+300B9B25 0002
+
+[Have Locker Key]
+Type = Gameshark
+Activation = EndFrame
+300B9B0B 0002
+
+[Have Medal 1]
+Type = Gameshark
+Activation = EndFrame
+300B9B17 0002
+
+[Have Medal 2]
+Type = Gameshark
+Activation = EndFrame
+300B9B1E 0002
+
+[Have News Cutting 1]
+Type = Gameshark
+Activation = EndFrame
+300B9B22 0002
+
+[Have News Cutting 2]
+Type = Gameshark
+Activation = EndFrame
+300B9B23 0002
+
+[Have Pass Card]
+Type = Gameshark
+Activation = EndFrame
+300B9B18 0002
+
+[Have Power Handle]
+Type = Gameshark
+Activation = EndFrame
+300B9B13 0002
+
+[Have Roulette Ball]
+Type = Gameshark
+Activation = EndFrame
+300B9B14 0002
+
+[Have Secret Code Card]
+Type = Gameshark
+Activation = EndFrame
+300B9B16 0002
+
+[Have Steel Wire]
+Type = Gameshark
+Activation = EndFrame
+300B9B0A 0002
+
+[Have System Disk]
+Type = Gameshark
+Activation = EndFrame
+300B9B15 0002
+
+[Have Unknown Data 1]
+Type = Gameshark
+Activation = EndFrame
+300B9B28 0002
+
+[Have Unknown Data 2]
+Type = Gameshark
+Activation = EndFrame
+300B9B2D 0002
+
+[Have Unknown Data 3]
+Type = Gameshark
+Activation = EndFrame
+300B9B2E 0002
+
+[Have Unknown Data 4]
+Type = Gameshark
+Activation = EndFrame
+300B9B2F 0002
+
+[Have Unknown Data 5]
+Type = Gameshark
+Activation = EndFrame
+300B9B30 0002
+
+[Have Vault Key]
+Type = Gameshark
+Activation = EndFrame
+300B9B0C 0002
+

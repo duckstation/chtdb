@@ -1,0 +1,17 @@
+; CHTDB: ; [ Glint Glitters (Jpn) (1999) (Konami) {SLPM-86200 (VX226-J1)} <glintglt> ]
+
+[Select Infinite Money Amount/(20000) / win the 1st game]
+Type = Gameshark
+Activation = EndFrame
+8008CA78 4E20
+
+[Select Infinite Money Amount/(30000) / win the 2nd game]
+Type = Gameshark
+Activation = EndFrame
+8008CA78 7530
+
+[Select Infinite Money Amount/(40000) / win the 3rd game]
+Type = Gameshark
+Activation = EndFrame
+8008CA78 9C40
+

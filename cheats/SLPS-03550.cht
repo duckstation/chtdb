@@ -1,0 +1,22 @@
+; CHTDB: ; [ From TV Animation One Piece: Oceans of Dreams! (Japan) {SLPS-03550} ]
+
+[Infinite HP in battle Lufi]
+Type = Gameshark
+Activation = EndFrame
+801DC454 0190
+
+[Infinite Attack power]
+Type = Gameshark
+Activation = EndFrame
+801DC424 0004
+
+[Have 999999999 money]
+Type = Gameshark
+Activation = EndFrame
+90146700 05F5E0FF
+
+[Infinite HP Ship (Going Mary)]
+Type = Gameshark
+Activation = EndFrame
+801981BA 0145
+

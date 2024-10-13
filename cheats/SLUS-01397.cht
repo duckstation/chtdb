@@ -1,0 +1,18 @@
+; CHTDB: ; [ Saltwater Sportfishing (USA) (2001) (Take-Two Interactive Software) {SLUS-01397} <saltwatr> ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+3013E4D0 57F7
+
+[Unlock All Locations]
+Type = Gameshark
+Activation = EndFrame
+8013E66C FFFF
+
+[All Challenges Completed]
+Type = Gameshark
+Activation = EndFrame
+50002401 0000
+301327C7 0001
+

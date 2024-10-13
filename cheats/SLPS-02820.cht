@@ -1,0 +1,93 @@
+; CHTDB: ; [ Kidou Senshi Gundam: Gihren no Yabou: Zeon no Keifu: Kouryaku Shireisho (Japan) {SLPS-02820} ]
+
+[Max total funds]
+Type = Gameshark
+Activation = EndFrame
+901ED174 0098967F
+
+[Max total resources]
+Type = Gameshark
+Activation = EndFrame
+901ED178 0098967F
+
+[Do not reduce response time]
+Type = Gameshark
+Activation = EndFrame
+A6062C8A 00620060
+
+[Problem 1 game#]
+Type = Gameshark
+Activation = EndFrame
+A7062DD2 14401400
+
+[100% accuracy rate in question 1 correct answer]
+Type = Gameshark
+Activation = EndFrame
+A6062C08 00010014
+
+[Endurance 99#]
+Type = Gameshark
+Activation = EndFrame
+80069194 0063
+
+[Select Stage\1]
+Type = Gameshark
+Activation = EndFrame
+300691BE 0000
+
+[Select Stage\2]
+Type = Gameshark
+Activation = EndFrame
+300691BE 0001
+
+[Select Stage\3]
+Type = Gameshark
+Activation = EndFrame
+300691BE 0002
+
+[Select Stage\4]
+Type = Gameshark
+Activation = EndFrame
+300691BE 0003
+
+[Select Stage\5]
+Type = Gameshark
+Activation = EndFrame
+300691BE 0004
+
+[Select Stage\6]
+Type = Gameshark
+Activation = EndFrame
+300691BE 0005
+
+[Select Stage\7]
+Type = Gameshark
+Activation = EndFrame
+300691BE 0006
+
+[Select Stage\8]
+Type = Gameshark
+Activation = EndFrame
+300691BE 0007
+
+[Select Stage\9]
+Type = Gameshark
+Activation = EndFrame
+300691BE 0008
+
+[All clear in one side]
+Type = Gameshark
+Activation = EndFrame
+A706302E 14621400
+A7062A7A 14621400
+
+[Hidden element fully open]
+Type = Gameshark
+Activation = EndFrame
+A7062ABE 14621400
+
+[Back Gundam puzzle]
+Type = Gameshark
+Activation = EndFrame
+301FA494 0001
+

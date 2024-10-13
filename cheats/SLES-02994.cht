@@ -1,0 +1,17 @@
+; CHTDB: ; [ Driver 2: Back on the Streets (France) {SLES-02994 | SLES-12994} ]
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A707F2F8 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A707F2F8 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A707F2F8 10000400
+

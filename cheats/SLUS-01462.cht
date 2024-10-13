@@ -1,0 +1,37 @@
+; CHTDB: ; [ Equestrian Showcase (USA) (2003) (Mud Duck Productions) {SLUS-01462} <eqshowc> ]
+
+[No Refusals Cross Country]
+Type = Gameshark
+Activation = EndFrame
+900554D8 24010000
+900554E0 AE010024
+
+[Infinite Falls Cross Country]
+Type = Gameshark
+Activation = EndFrame
+800510D2 2400
+
+[Max Last Score Dressing]
+Type = Gameshark
+Activation = EndFrame
+D01FC286 001F
+901FC344 0000A000
+
+[No Falls Show Jumping]
+Type = Gameshark
+Activation = EndFrame
+D01FB7AE 001F
+801FB7C0 0000
+
+[No Refusals Show Jumping]
+Type = Gameshark
+Activation = EndFrame
+D01FB7AE 001F
+801FB7C8 0000
+
+[No Penalties Show Jumping]
+Type = Gameshark
+Activation = EndFrame
+D01FB7AE 001F
+901FB948 00000000
+

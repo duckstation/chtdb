@@ -1,0 +1,43 @@
+; CHTDB: ; [ Front Mission 1st (Jpn) (2003) (Square Enix) {SLPM-87317} <frontmis> ]
+
+[Main unit Infinite Body HP]
+Type = Gameshark
+Activation = EndFrame
+80022D99 03E7
+80022D9B 03E7
+
+[2nd unit (Sakata) Infinite Body HP]
+Type = Gameshark
+Activation = EndFrame
+90022E24 03E703E7
+
+[3rd unit (Natalie) Infinite Body HP]
+Type = Gameshark
+Activation = EndFrame
+80022EAF 03E7
+80022EB1 03E7
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+8002EA99 967F
+8002EA9B 0098
+
+[Select all Parts]
+Type = Gameshark
+Activation = EndFrame
+D015D1C8 74CD
+8015D0C8 0001
+
+[Select all items]
+Type = Gameshark
+Activation = EndFrame
+D01610FC 2B9E
+80160F54 0001
+
+[Infinite Behavior]
+Type = Gameshark
+Activation = EndFrame
+D014B930 327E
+8014B95E 3300
+

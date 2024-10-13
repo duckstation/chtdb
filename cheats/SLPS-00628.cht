@@ -1,0 +1,12 @@
+; CHTDB: ; [ Doraemon 2 - SOS! Otogi no Kuni (Jpn) (1997) (Epoch) {SLPS-00628} <doraemn2> ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800C5D88 0004
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800C60C0 022C
+

@@ -1,0 +1,58 @@
+; CHTDB: ; [ 007 Racing (USA) (2000) (Electronic Arts) {SLUS-01300, SLUS-01300CE} <007rcng> ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8005DF0A 0000
+
+[Stop Timer]
+Type = Gameshark
+Activation = EndFrame
+A70CFDEA AC852400
+
+[Unlock All Missions + Movies]
+Type = Gameshark
+Activation = EndFrame
+50000602 0000
+8003DA7E 0101
+
+[Infinite Ammo (On Pickup)]
+Type = Gameshark
+Activation = EndFrame
+A70C1C7A ACC22400
+
+[Infinite Shields (On Pickup)]
+Type = Gameshark
+Activation = EndFrame
+A70C1C12 AC822400
+
+[Max Score]
+Type = Gameshark
+Activation = EndFrame
+9005E240 05F5E0FF
+
+[Press R1 For All Weapons]
+Type = Gameshark
+Activation = EndFrame
+C003C1FA F7FF
+8005E9CC 03E8
+8005E9D0 000A
+8005E9D4 0005
+8005E9D8 0078
+8005E9DC 000A
+8005E9E0 1000
+8005E9F0 0064
+8005E9F4 0001
+8005E9F8 000A
+8005E9FC 0064
+8005EA00 0001
+8005EA08 0001
+8005EA0C 00B4
+00000000 FFFF
+
+[Play game at 60 FPS]
+Type = Gameshark
+Activation = EndFrame
+E006ABB0 0003
+3006ABB0 0001
+

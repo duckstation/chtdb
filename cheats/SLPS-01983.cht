@@ -1,0 +1,17 @@
+; CHTDB: ; [ Black Jack vs. Matsuda Jun (Jpn) (2000) (Pony Canyon) {SLPS-01983} <blackjac> ]
+
+[Infinite 99999 Money]
+Type = Gameshark
+Activation = EndFrame
+901D3974 0001869F
+
+[Have 9999 Money In Black Jack Game]
+Type = Gameshark
+Activation = EndFrame
+801C7ED8 270F
+
+[Max Jackpot]
+Type = Gameshark
+Activation = EndFrame
+901C3F88 0098967F
+

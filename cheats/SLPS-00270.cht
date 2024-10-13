@@ -1,0 +1,14 @@
+; CHTDB: ; [ GalaxianÂ³ (Japan) {SLPS-00270} ]
+
+[The Rising Of Gourb Infinite Shield]
+Type = Gameshark
+Activation = EndFrame
+800B9090 0064
+800B91E8 2710
+
+[Project Dragoon Infinite Shield]
+Type = Gameshark
+Activation = EndFrame
+800AC15C 0064
+800AC2B4 2710
+

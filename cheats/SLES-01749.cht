@@ -1,0 +1,79 @@
+; CHTDB: ; [ The Smurfs aka Les Schtroumpfs: Die Schlümpfe: Los Pitufos: I Puffi: De Smurfen (Europe) {SLES-01749} ]
+
+[Infinite Health in Story Mode (It's No Picnic) Start of Adventure]
+Type = Gameshark
+Activation = EndFrame
+801E291C 000A
+
+[Infinite Health in Story Mode (It's No Picnic) Night Ride]
+Type = Gameshark
+Activation = EndFrame
+80195818 000A
+
+[Infinite Health in Story Mode (It's No Picnic) Underground Exploration]
+Type = Gameshark
+Activation = EndFrame
+801D28D4 000A
+
+[Infinite Health in Story Mode (It's No Picnic) Snowbound]
+Type = Gameshark
+Activation = EndFrame
+801DB410 000A
+
+[Infinite Health in Story Mode (It's No Picnic) On the Mountain Top]
+Type = Gameshark
+Activation = EndFrame
+801BAF38 000A
+
+[Infinite Health in Story Mode (It's No Picnic) Alone in the Dark]
+Type = Gameshark
+Activation = EndFrame
+801E1328 000A
+
+[Infinite Health in Story Mode (It's No Picnic) Ice Cave]
+Type = Gameshark
+Activation = EndFrame
+801BE12C 000A
+
+[Infinite Health in Story Mode (It's No Picnic) The Diamond Mine]
+Type = Gameshark
+Activation = EndFrame
+801EA6C8 000A
+
+[Infinite Health in Story Mode (It's No Picnic) Splish Splash]
+Type = Gameshark
+Activation = EndFrame
+80183758 000A
+
+[Infinite Health in Story Mode (It's No Picnic) Gargamel's Castle]
+Type = Gameshark
+Activation = EndFrame
+801DD608 000A
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800A2802 0009
+
+[Unlock All Levels]
+Type = Gameshark
+Activation = EndFrame
+50000918 0000
+800A1D84 FFFF
+
+[Have Al Quarters Moons]
+Type = Gameshark
+Activation = EndFrame
+50000A01 0000
+300C1B59 0007
+
+[Infinite Health Activate this code with pressing L1. If you should fall off a ledge or similar, press R1 to deactivate the code! When your game starts over, simply press L1 ro activate it again.]
+Type = Gameshark
+Activation = EndFrame
+D009C950 0004
+800276CA 3C00
+D009C950 0008
+800276CA A472
+D009C950 0008
+800276C8 00F8
+

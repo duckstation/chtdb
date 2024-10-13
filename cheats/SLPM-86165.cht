@@ -1,0 +1,72 @@
+; CHTDB: ; [ Angelique Tenkuu no Requiem (Jpn) (1999) (Koei) {SLPM-86165} <angtreq> ]
+
+[Infinite + Max HP Angelique]
+Type = Gameshark
+Activation = EndFrame
+801170E8 270F
+801170EC 270F
+
+[Infinite + Max HP Second character]
+Type = Gameshark
+Activation = EndFrame
+801172F0 270F
+801172F4 270F
+
+[Infinite + Max HP Third character]
+Type = Gameshark
+Activation = EndFrame
+801173C0 270F
+801173C4 270F
+
+[Infinite + Max HP Fourth character]
+Type = Gameshark
+Activation = EndFrame
+80117358 270F
+8011735C 270F
+
+[Infinite + Max HP Fifth character]
+Type = Gameshark
+Activation = EndFrame
+80117428 270F
+8011742C 270F
+
+[Have 99999 money]
+Type = Gameshark
+Activation = EndFrame
+900E3BE8 0001869F
+
+[Angelique Max]
+Type = Gameshark
+Activation = EndFrame
+301174E8 00FF
+
+[Angelique Max MP]
+Type = Gameshark
+Activation = EndFrame
+301174E9 00FF
+
+[Angelique Max Attack Force]
+Type = Gameshark
+Activation = EndFrame
+301174EA 00FF
+
+[Angelique Max Defenses]
+Type = Gameshark
+Activation = EndFrame
+301174EB 00FF
+
+[Angelique Max Magic Power]
+Type = Gameshark
+Activation = EndFrame
+301174EC 00FF
+
+[Angelique Max Anti-Magic]
+Type = Gameshark
+Activation = EndFrame
+301174ED 00FF
+
+[Angelique Max Rapidity]
+Type = Gameshark
+Activation = EndFrame
+301174EE 00FF
+

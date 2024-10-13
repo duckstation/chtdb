@@ -1,0 +1,151 @@
+; CHTDB: ; [ Spider-Man (USA) (2000) (Activision) {SLUS-00875} <spidermn> ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+A704B1BE A6222400
+
+[Infinite Webbing]
+Type = Gameshark
+Activation = EndFrame
+A7048C42 AE032400
+
+[Enable All Costumes]
+Type = Gameshark
+Activation = EndFrame
+900A5708 FFFFFFFF
+
+[Enable All Characters in Viewer]
+Type = Gameshark
+Activation = EndFrame
+900A570C FFFFFFFF
+
+[Enable All Movies]
+Type = Gameshark
+Activation = EndFrame
+900A5710 FFFFFFFF
+
+[Enable All Comic Collections]
+Type = Gameshark
+Activation = EndFrame
+900A5714 FFFFFFFF
+
+[Enable Game Covers]
+Type = Gameshark
+Activation = EndFrame
+900A5718 FFFFFFFF
+
+[Enable Everything]
+Type = Gameshark
+Activation = EndFrame
+50000A02 0000
+800A5708 FFFF
+
+[Unlock Story Boards]
+Type = Gameshark
+Activation = EndFrame
+800A56DC 0102
+
+[Enable Level Select]
+Type = Gameshark
+Activation = EndFrame
+800B4F80 0001
+
+[Invincibility Cheat Enabled]
+Type = Gameshark
+Activation = EndFrame
+800B4F6C 0001
+
+[Enable What If Contest?]
+Type = Gameshark
+Activation = EndFrame
+800B4F5C 0001
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+A70B5930 10000400
+A70B5934 19990666
+
+[Widescreen 16-9 (Vert-)]
+Type = Gameshark
+Activation = EndFrame
+A70B5934 19991333
+
+[Walk through walls "Press L3 to toggle on/off"]
+Type = Gameshark
+Activation = EndFrame
+D7010001 01000200
+F5080116 05E01000
+F50800E6 05C01400
+
+[Punches and kicks hit anywhere "Press R3 + D-pad up to toggle on/off"]
+Type = Gameshark
+Activation = EndFrame
+D7010001 02001400
+F505510A 10402400
+F505506E 10402400
+
+[Collect items from anywhere "Press R3 + D-pad down to toggle on/off"]
+Type = Gameshark
+Activation = EndFrame
+D7010001 03004400
+F5045AFA 10402400
+
+[Moon jump + hover "Hold X on the way down to slowly hover downwards"]
+Type = Gameshark
+Activation = EndFrame
+A7045822 10001860
+D7200000 00000040
+A7045822 18601000
+00000000 0000FFFF
+A704578A 10001C60
+D7200000 00000040
+A704578A 1C601000
+
+[All suits have stealth ability "Press L2 to toggle on/off"]
+Type = Gameshark
+Activation = EndFrame
+A703EC76 14832400
+
+[All suits have invincibility ability]
+Type = Gameshark
+Activation = EndFrame
+A704AFA6 10621000
+
+[All suits have infinite webbing]
+Type = Gameshark
+Activation = EndFrame
+A7048BFA 10621000
+
+[See through almost anything "Hold R3"]
+Type = Gameshark
+Activation = EndFrame
+A70766CE 24001060
+D7200000 00000400
+A70766CE 10602400
+
+[Faster spider web balls]
+Type = Gameshark
+Activation = EndFrame
+A704241E 10402400
+
+[Turbo fire spider web balls "D-pad up + triangle"]
+Type = Gameshark
+Activation = EndFrame
+A705A372 10001040
+D7200000 00001010
+A705A372 10401000
+
+[Turbo fire spider web balls "Left analog-up + triangle"]
+Type = Gameshark
+Activation = EndFrame
+A705A372 10001040
+D7200000 00100010
+A705A372 10401000
+
+[Shadow Spider Man]
+Type = Gameshark
+Activation = EndFrame
+A707664E 10401000
+

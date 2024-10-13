@@ -1,0 +1,341 @@
+; CHTDB: ; [ Gran Turismo (USA, v1.0) (1998) (Sony Computer Entertainment America) {SCUS-94194} <gt1a> ]
+
+[Always Place 1st (Arcade Mode)]
+Type = Gameshark
+Activation = EndFrame
+A60B6F18 06000100
+
+[Unlock Bonus Items\High Speed Ring\A]
+Type = Gameshark
+Activation = EndFrame
+300816D8 0004
+
+[Unlock Bonus Items\High Speed Ring\B]
+Type = Gameshark
+Activation = EndFrame
+300816D9 0004
+
+[Unlock Bonus Items\High Speed Ring\C]
+Type = Gameshark
+Activation = EndFrame
+300816DA 0004
+
+[Unlock Bonus Items\Trial Mountain\A]
+Type = Gameshark
+Activation = EndFrame
+300816DC 0004
+
+[Unlock Bonus Items\Trial Mountain\B]
+Type = Gameshark
+Activation = EndFrame
+300816DD 0004
+
+[Unlock Bonus Items\Trial Mountain\C]
+Type = Gameshark
+Activation = EndFrame
+300816DE 0004
+
+[Unlock Bonus Items\Grand Valley\A]
+Type = Gameshark
+Activation = EndFrame
+300816E0 0004
+
+[Unlock Bonus Items\Grand Valley\B]
+Type = Gameshark
+Activation = EndFrame
+300816E1 0004
+
+[Unlock Bonus Items\Grand Valley\C]
+Type = Gameshark
+Activation = EndFrame
+300816E2 0004
+
+[Unlock Bonus Items\Clubman Stage 5\A]
+Type = Gameshark
+Activation = EndFrame
+300816E4 0004
+
+[Unlock Bonus Items\Clubman Stage 5\B]
+Type = Gameshark
+Activation = EndFrame
+300816E5 0004
+
+[Unlock Bonus Items\Clubman Stage 5\C]
+Type = Gameshark
+Activation = EndFrame
+300816E6 0004
+
+[Unlock Bonus Items\Autumn Ring\A]
+Type = Gameshark
+Activation = EndFrame
+300816E8 0004
+
+[Unlock Bonus Items\Autumn Ring\B]
+Type = Gameshark
+Activation = EndFrame
+300816E9 0004
+
+[Unlock Bonus Items\Autumn Ring\C]
+Type = Gameshark
+Activation = EndFrame
+300816EA 0004
+
+[Unlock Bonus Items\Deep Forest\A]
+Type = Gameshark
+Activation = EndFrame
+300816EC 0004
+
+[Unlock Bonus Items\Deep Forest\B]
+Type = Gameshark
+Activation = EndFrame
+300816ED 0004
+
+[Unlock Bonus Items\Deep Forest\C]
+Type = Gameshark
+Activation = EndFrame
+300816EE 0004
+
+[Unlock Bonus Items\Ss R5\A]
+Type = Gameshark
+Activation = EndFrame
+300816F0 0004
+
+[Unlock Bonus Items\Ss R5\B]
+Type = Gameshark
+Activation = EndFrame
+300816F1 0004
+
+[Unlock Bonus Items\Ss R5\C]
+Type = Gameshark
+Activation = EndFrame
+300816F2 0004
+
+[Unlock Bonus Items\Grand Valley Speedway\A]
+Type = Gameshark
+Activation = EndFrame
+300816F4 0004
+
+[Unlock Bonus Items\Grand Valley Speedway\B]
+Type = Gameshark
+Activation = EndFrame
+300816F5 0004
+
+[Unlock Bonus Items\Grand Valley Speedway\C]
+Type = Gameshark
+Activation = EndFrame
+300816F6 0004
+
+[Unlock Bonus Items\Simulation Mode\1 Billion Dollars]
+Type = Gameshark
+Activation = EndFrame
+9009B864 3B9ACA00
+
+[Unlock Bonus Items\B-Class License Gold\Test 1]
+Type = Gameshark
+Activation = EndFrame
+3009E3B4 0003
+
+[Unlock Bonus Items\B-Class License Gold\Test 2]
+Type = Gameshark
+Activation = EndFrame
+3009E3B5 0003
+
+[Unlock Bonus Items\B-Class License Gold\Test 3]
+Type = Gameshark
+Activation = EndFrame
+3009E3B6 0003
+
+[Unlock Bonus Items\B-Class License Gold\Test 4]
+Type = Gameshark
+Activation = EndFrame
+3009E3B7 0003
+
+[Unlock Bonus Items\B-Class License Gold\Test 5]
+Type = Gameshark
+Activation = EndFrame
+3009E3B8 0003
+
+[Unlock Bonus Items\B-Class License Gold\Test 6]
+Type = Gameshark
+Activation = EndFrame
+3009E3B9 0003
+
+[Unlock Bonus Items\B-Class License Gold\Test 7]
+Type = Gameshark
+Activation = EndFrame
+3009E3BA 0003
+
+[Unlock Bonus Items\B-Class License Gold\Test 8]
+Type = Gameshark
+Activation = EndFrame
+3009E3BB 0003
+
+[Unlock Bonus Items\A-Class License Gold\Test 1]
+Type = Gameshark
+Activation = EndFrame
+3009E3BC 0003
+
+[Unlock Bonus Items\A-Class License Gold\Test 2]
+Type = Gameshark
+Activation = EndFrame
+3009E3BD 0003
+
+[Unlock Bonus Items\A-Class License Gold\Test 3]
+Type = Gameshark
+Activation = EndFrame
+3009E3BE 0003
+
+[Unlock Bonus Items\A-Class License Gold\Test 4]
+Type = Gameshark
+Activation = EndFrame
+3009E3BF 0003
+
+[Unlock Bonus Items\A-Class License Gold\Test 5]
+Type = Gameshark
+Activation = EndFrame
+3009E3C0 0003
+
+[Unlock Bonus Items\A-Class License Gold\Test 6]
+Type = Gameshark
+Activation = EndFrame
+3009E3C1 0003
+
+[Unlock Bonus Items\A-Class License Gold\Test 7]
+Type = Gameshark
+Activation = EndFrame
+3009E3C2 0003
+
+[Unlock Bonus Items\A-Class License Gold\Test 8]
+Type = Gameshark
+Activation = EndFrame
+3009E3C3 0003
+
+[Unlock Bonus Items\International A-Class License Gold\Test 1]
+Type = Gameshark
+Activation = EndFrame
+3009E3C4 0003
+
+[Unlock Bonus Items\International A-Class License Gold\Test 2]
+Type = Gameshark
+Activation = EndFrame
+3009E3C5 0003
+
+[Unlock Bonus Items\International A-Class License Gold\Test 3]
+Type = Gameshark
+Activation = EndFrame
+3009E3C6 0003
+
+[Unlock Bonus Items\International A-Class License Gold\Test 4]
+Type = Gameshark
+Activation = EndFrame
+3009E3C7 0003
+
+[Unlock Bonus Items\International A-Class License Gold\Test 5]
+Type = Gameshark
+Activation = EndFrame
+3009E3C8 0003
+
+[Unlock Bonus Items\International A-Class License Gold\Test 6]
+Type = Gameshark
+Activation = EndFrame
+3009E3C9 0003
+
+[Unlock Bonus Items\International A-Class License Gold\Test 7]
+Type = Gameshark
+Activation = EndFrame
+3009E3CA 0003
+
+[Unlock Bonus Items\International A-Class License Gold\Test 8]
+Type = Gameshark
+Activation = EndFrame
+3009E3CB 0003
+
+[Garage - Have 100 Cars Of Your Choice!\Set 1 - Do Not Change Must Be Used!]
+Type = Gameshark
+Activation = EndFrame
+8007DA48 0064
+8009B87A 0064
+
+[P1 Press R3 For Nitrous Boost]
+Description = R3 is the second Dual Analog Stick when you press down on it so it clicks
+Type = Gameshark
+Activation = EndFrame
+C00BC1C6 0004
+800B6F3E 0006
+800B6F42 0006
+00000000 FFFF
+
+[P2 Press R3 For Nitrous Boost]
+Description = R3 is the second Dual Analog Stick when you press down on it so it clicks
+Type = Gameshark
+Activation = EndFrame
+C00BC286 0004
+800B7C72 0006
+800B7C76 0006
+00000000 FFFF
+
+[Cruise Control]
+Type = Gameshark
+Activation = EndFrame
+D00D6F18 0600
+300B6F18 0001
+D00B6F18 0100
+300B6F18 0001
+
+[Select Simulation Mode License\Simulation Mode A license in garage]
+Type = Gameshark
+Activation = EndFrame
+80058634 007C
+
+[Select Simulation Mode License\Simulation Mode B license in garage]
+Type = Gameshark
+Activation = EndFrame
+80058634 007D
+
+[Select Simulation Mode License\Simulation Mode IA license in garage]
+Type = Gameshark
+Activation = EndFrame
+80058634 007E
+
+[All Manufacturers Unlocked (Single Race + Time Trial)Greatest Hits]
+Type = Gameshark
+Activation = EndFrame
+D004E204 0006
+3004E204 000A
+
+[Autumn Ring Unlocked Greatest Hits]
+Type = Gameshark
+Activation = EndFrame
+D004E294 0042
+3004E294 0002
+
+[Deep Forest Unlocked Greatest Hits]
+Type = Gameshark
+Activation = EndFrame
+D004E2A0 0042
+3004E2A0 0002
+
+[Grand Valley Unlocked Greatest Hits]
+Type = Gameshark
+Activation = EndFrame
+D004E2B8 0042
+3004E2B8 0002
+
+[Special Stage Route 5 Unlocked Greatest Hits]
+Type = Gameshark
+Activation = EndFrame
+D004E2AC 0042
+3004E2AC 0002
+
+[Simulation Mode 1 Billion Dollars]
+Type = Gameshark
+Activation = EndFrame
+9009B8F4 3B9ACA00
+
+[60 FPS (+e-enable tire smoke, re-enable rear view mirror)]
+Type = Gameshark
+Activation = EndFrame
+A60B6318 00020001
+A702E580 00020001
+A702AA74 00020001
+

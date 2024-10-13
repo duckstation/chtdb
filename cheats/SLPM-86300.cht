@@ -1,0 +1,12 @@
+; CHTDB: ; [ Nobunaga no Yabou - Retsuupuden (Jpn) (1999) (Koei) {SLPM-86300} <nobunaga> ]
+
+[Have 9999 Gold]
+Type = Gameshark
+Activation = EndFrame
+8012ACC8 270F
+
+[Have 9999 Food]
+Type = Gameshark
+Activation = EndFrame
+8012ACCA 270F
+

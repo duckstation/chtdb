@@ -1,0 +1,36 @@
+; CHTDB: ; [ Heaven's Gate (Jpn) (1996) (Atlus) {SLPS-00667} <hvnsgate> ]
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800F7964 0091
+80100786 0091
+801010EA 00FA
+801044CA 0091
+80104E2E 00FA
+
+[P1 Infinite Sol Power Guage -]
+Type = Gameshark
+Activation = EndFrame
+80104E30 00F0
+
+[Freeze Total Time]
+Type = Gameshark
+Activation = EndFrame
+8002C91C 0000
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A711AC6C 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A711AC6C 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A711AC6C 10000400
+

@@ -1,0 +1,21 @@
+; CHTDB: ; [ Firebugs (Euro) (2002) (Sony) {SCES-03884} <firebugs> ]
+
+[Quick Win - Press L1,L2,R1 + R2 (Pressing the above buttons before crossing the starting line will give you immediate win. By pressing those buttons after crossing the starting line will let you race for one lap only. The code works in qualifier round and racing against four other opponents only. By activating this code it'll give you max points and does not matter if you loose the one two race)]
+Type = Gameshark
+Activation = EndFrame
+D00C3460 F0FF
+300D3BE0 0005
+
+[Unlock Aurora And Sonic League]
+Description = Save those to your memory card and discard. Failing to do so will freeze up the game before the race starts
+Type = Gameshark
+Activation = EndFrame
+301EF2F7 0101
+301EF2F8 0101
+
+[Unlock Extra Firebugs Pilots/Vehicles (Save those to your memory card and discard the. Failing to do so will freeze up the game before the race starts)]
+Type = Gameshark
+Activation = EndFrame
+B0050001 0000
+301EF164 0202
+

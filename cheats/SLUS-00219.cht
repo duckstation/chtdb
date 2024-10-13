@@ -1,0 +1,127 @@
+; CHTDB: ; [ Blast Chamber (USA) (1996) (Activision) {SLUS-00219} <blastchm> ]
+
+[Infinite Chamber Time]
+Type = Gameshark
+Activation = EndFrame
+800B504E 00B4
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800B438C 0009
+
+[Green Arrows Always Function]
+Type = Gameshark
+Activation = EndFrame
+8008D050 0001
+
+[Walk on the Floor (L1 & R1)]
+Type = Gameshark
+Activation = EndFrame
+D00B4336 000C
+8008D018 0000
+
+[Walk on the Ceiling (L2 & R2)]
+Type = Gameshark
+Activation = EndFrame
+D00B4336 0003
+8008D018 0002
+
+[Walk on the Left Wall (L1 & L2)]
+Type = Gameshark
+Activation = EndFrame
+D00B4336 0005
+8008D018 0003
+
+[Walk on the Right Wall (R1 & R2)]
+Type = Gameshark
+Activation = EndFrame
+D00B4336 000A
+8008D018 0001
+
+[P1 Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800B438A 0037
+
+[P1 Can Jump Much Higher]
+Type = Gameshark
+Activation = EndFrame
+800B436A 0001
+
+[P1 Runs Faster]
+Type = Gameshark
+Activation = EndFrame
+800B436E 000F
+
+[P1 Has No Deaths]
+Type = Gameshark
+Activation = EndFrame
+800B4388 0000
+
+[P2 Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800B44F6 0037
+
+[P2 Can Jump Much Higher]
+Type = Gameshark
+Activation = EndFrame
+800B44D6 0001
+
+[P2 Runs Faster]
+Type = Gameshark
+Activation = EndFrame
+800B44DA 000F
+
+[P2 Has 999 Deaths]
+Type = Gameshark
+Activation = EndFrame
+800B44F4 03E7
+
+[P3 Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800B4662 0037
+
+[P3 Can Jump Much Higher]
+Type = Gameshark
+Activation = EndFrame
+800B4642 0001
+
+[P3 Runs Faster]
+Type = Gameshark
+Activation = EndFrame
+800B4646 000F
+
+[P3 Has 999 Deaths]
+Type = Gameshark
+Activation = EndFrame
+800B4660 03E7
+
+[P4 Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800B47CE 0037
+
+[P4 Can Jump Much Higher]
+Type = Gameshark
+Activation = EndFrame
+800B47AE 0001
+
+[P4 Runs Faster]
+Type = Gameshark
+Activation = EndFrame
+800B47B2 000F
+
+[P4 Has 999 Deaths]
+Type = Gameshark
+Activation = EndFrame
+800B47CC 03E7
+
+[Access Multi-Tap Mode]
+Type = Gameshark
+Activation = EndFrame
+D008E55C 0003
+3008E618 0006
+

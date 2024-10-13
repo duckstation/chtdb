@@ -1,0 +1,62 @@
+; CHTDB: ; [ Wipeout XL (USA, Prototype) (1996) (Psygnosis) {SCUS-94351} <wpoutxlp> ]
+
+[Infinite Time To Checkpoint]
+Type = Gameshark
+Activation = EndFrame
+80094CE8 0BA6
+
+[Infinite Shield]
+Type = Gameshark
+Activation = EndFrame
+8009FD90 0000
+
+[Always Have Weapon Machine Gun]
+Type = Gameshark
+Activation = EndFrame
+80111246 0F0F
+
+[Enable Team Piranha]
+Type = Gameshark
+Activation = EndFrame
+801FE4AC 0100
+
+[Enable Phantom Class]
+Type = Gameshark
+Activation = EndFrame
+801FE4D2 0100
+
+[Enable Challenge 1]
+Type = Gameshark
+Activation = EndFrame
+801FE4A8 0100
+
+[Enable Challenge 2]
+Type = Gameshark
+Activation = EndFrame
+801FE4AA 0001
+
+[Race All Tracks (Any Level)]
+Type = Gameshark
+Activation = EndFrame
+801FE4D2 0001
+
+[Enable Mini-Gun]
+Type = Gameshark
+Activation = EndFrame
+8009452C 0001
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+8009452A 0101
+
+[Infinite Weapons]
+Type = Gameshark
+Activation = EndFrame
+30094528 0001
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+30094529 0001
+

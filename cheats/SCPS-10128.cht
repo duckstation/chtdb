@@ -1,0 +1,63 @@
+; CHTDB: ; [ Spyro x Sparx: Tondemo Tours (Japan) {SCPS-10128} ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8006CE04 0003
+
+[Score Gem Max]
+Type = Gameshark
+Activation = EndFrame
+800697F0 FFFF
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80069850 0004
+
+[Bonus Screen Infinite time]
+Type = Gameshark
+Activation = EndFrame
+8006C464 070A
+
+[And (rising gradually to jump) airborne]
+Type = Gameshark
+Activation = EndFrame
+8006CC44 05FF
+
+[Collect gems from anywhere]
+Type = Gameshark
+Activation = EndFrame
+C006A900 00000000
+F4070000 00AAFFFF
+AAAAAA14 00000000
+0C00AA86 00000000
+AAAA0024 AAAAAAAA
+AAAAAAAA AAAAAAAA
+
+[Talk to NPC's from anywhere]
+Type = Gameshark
+Activation = EndFrame
+A703CA0E 0C002400
+
+[Matrix mode "Press L3 to toggle on/off"]
+Type = Gameshark
+Activation = EndFrame
+D7010001 01000200
+F504304A 04401000
+
+[No swim interval cap]
+Type = Gameshark
+Activation = EndFrame
+F4076000 00AAFFFF
+AAAA4014 28000424
+AAAA0108 00000000
+AAAA0010 AAAAAAAA
+AAAAAAAA AAAAAAAA
+D7100000 00000080
+F4076000 00AAFFFF
+AAAA0010 28000424
+AAAA0108 00000000
+AAAA4014 AAAAAAAA
+AAAAAAAA AAAAAAAA
+

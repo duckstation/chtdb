@@ -1,0 +1,116 @@
+; CHTDB: ; [ Parasite Eve (Japan) {SLPS-01230 | SLPS-01231} ]
+
+[Current Hp]
+Type = Gameshark
+Activation = EndFrame
+800B84EC 270F
+
+[Max Hp]
+Type = Gameshark
+Activation = EndFrame
+800B84FC 270F
+
+[Current P.E.]
+Type = Gameshark
+Activation = EndFrame
+800B84EA 270F
+
+[Max P.E.]
+Type = Gameshark
+Activation = EndFrame
+800B850A 270F
+
+[All Special Ability]
+Type = Gameshark
+Activation = EndFrame
+900C08E4 000C1FFF
+
+[Infinite Bullet Box]
+Type = Gameshark
+Activation = EndFrame
+900514B8 340203E7
+
+[Max Bonus Point]
+Type = Gameshark
+Activation = EndFrame
+900C08D0 0001869F
+
+[Fast Level Up - One Fight For Level 99]
+Type = Gameshark
+Activation = EndFrame
+8009CDC6 7FFF
+
+[Level 99]
+Type = Gameshark
+Activation = EndFrame
+800C08CA 0062
+
+[Max At (Active Time) In The Battle]
+Type = Gameshark
+Activation = EndFrame
+800B84F0 2328
+
+[Total Time = 00'00'00]
+Type = Gameshark
+Activation = EndFrame
+900A717C 00000000
+
+[Max Offence]
+Type = Gameshark
+Activation = EndFrame
+800C08EA 0630
+
+[Max Defence]
+Type = Gameshark
+Activation = EndFrame
+800C08EC 0630
+
+[Max P.Energy]
+Type = Gameshark
+Activation = EndFrame
+800C08EE 0630
+
+[Max Status Recover]
+Type = Gameshark
+Activation = EndFrame
+800C08F0 0630
+
+[Max Active Time]
+Type = Gameshark
+Activation = EndFrame
+800C08F2 0630
+
+[Max Item Capacity]
+Type = Gameshark
+Activation = EndFrame
+800C08F4 0630
+
+[Key For 70 Floor Building This code allows you to have a key for the 70 floor building]
+Type = Gameshark
+Activation = EndFrame
+900C0908 00390038
+900C090C 003B003A
+900C0910 003D003C
+800C0914 003E
+
+[Special Code\Walk Faster]
+Type = Gameshark
+Activation = EndFrame
+80070BF0 000A
+
+[Special Code\Run Faster]
+Type = Gameshark
+Activation = EndFrame
+80070E70 002C
+
+[Battle immediately completed]
+Type = Gameshark
+Activation = EndFrame
+800A73F2 FFFF
+
+[Debug Room]
+Type = Gameshark
+Activation = EndFrame
+8009CD3C 6048
+3009CD3E 0006
+

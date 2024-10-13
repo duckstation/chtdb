@@ -1,0 +1,128 @@
+; CHTDB: ; [ Pandemonium! (USA) (1996) (Crystal Dynamics) {SLUS-00232} <pandemon> ]
+
+[Have Access To All Levels (Except Bonus Levels)]
+Type = Gameshark
+Activation = EndFrame
+8007202C 0014
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8009311A 0010
+30093119 0010
+
+[1 Coin To Get An Extra Life]
+Type = Gameshark
+Activation = EndFrame
+8009311C 012B
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+30093118 0005
+
+[Once Hit Become Invincibility]
+Type = Gameshark
+Activation = EndFrame
+8009313E 0020
+
+[Always Invincibility]
+Type = Gameshark
+Activation = EndFrame
+8009313E 0020
+801AE60A 0208
+
+[Fireball Always On]
+Type = Gameshark
+Activation = EndFrame
+80093120 0100
+
+[Uncapped Fireball]
+Type = Gameshark
+Activation = EndFrame
+30093140 0000
+
+[Rapid Fireball]
+Type = Gameshark
+Activation = EndFrame
+A7042644 01003000
+A7042646 3C050C00
+A7042648 10240000
+A704264A 00650000
+9000C000 27BDFFE8
+9000C004 AFA80010
+9000C008 3C088009
+9000C00C 9108C9AF
+9000C014 00084027
+9000C018 31080080
+9000C01C 11000002
+9000C024 27FF0004
+9000C028 3C050100
+9000C02C 00651024
+9000C030 8FA80010
+9000C034 27BD0018
+9000C038 03E00008
+
+[Grab stuff from anywhere]
+Type = Gameshark
+Activation = EndFrame
+A7030012 14402400
+A7030032 14402400
+A7030052 14402400
+A70300D6 10402400
+A70300EA 10402400
+
+[Moon Jump]
+Type = Gameshark
+Activation = EndFrame
+D7200000 00000040
+9009312C 00000001
+
+[Every coin gives the fireball & shield]
+Type = Gameshark
+Activation = EndFrame
+A70410C6 08012400
+A70410EE 08012400
+A7041186 08012400
+A704118E 08012400
+
+[Jump Height Modifier]
+Description = You will need to manually edit '0002' in the code line or you will see NO effect
+Type = Gameshark
+Activation = EndFrame
+800932D8 0002
+
+[Jumping Speed Modifier]
+Description = You will need to manually edit '1000' in the code line or you will see NO effect
+Type = Gameshark
+Activation = EndFrame
+800932C4 1000
+
+[Running Speed Modifier]
+Description = You will need to manually edit '1778' in the code line or you will see NO effect
+Type = Gameshark
+Activation = EndFrame
+800932BC 1778
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+80066F64 2080
+80066F66 0800
+80008200 0000
+80008202 8C88
+80008204 8000
+80008206 3C1B
+80008208 D824
+8000820A 009B
+8000820C 0002
+8000820E 101B
+80008212 2400
+80008214 0C00
+80008216 2408
+80008218 9BDB
+8000821A 0801
+8000821E 2400
+8004D8AC 0C00
+8004D8AE 240D
+

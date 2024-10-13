@@ -1,0 +1,61 @@
+; CHTDB: ; [ King's Field (Japan) {SLPS-00017} ]
+
+[Infinite HP (ENG TRANLATION)]
+Type = Gameshark
+Activation = EndFrame
+900A0790 03E703E7
+
+[Infinite MP (ENG TRANLATION)]
+Type = Gameshark
+Activation = EndFrame
+900A0794 03E703E7
+
+[Have 999999 Gold (ENG TRANLATION)]
+Type = Gameshark
+Activation = EndFrame
+900A07AC 000F423F
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+90016664 00000000
+8002358A 0000
+
+[Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+800193B2 0000
+800156AA 0000
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+900A07AC 000F423F
+
+[Max Exp]
+Type = Gameshark
+Activation = EndFrame
+80016090 0000
+
+[Exp 999999]
+Type = Gameshark
+Activation = EndFrame
+900A0780 0098967F
+
+[Level 99]
+Type = Gameshark
+Activation = EndFrame
+800A0788 0063
+
+[Magic / Power 255]
+Type = Gameshark
+Activation = EndFrame
+800A07A6 00FF
+800A07A8 00FF
+
+[Stats 255]
+Type = Gameshark
+Activation = EndFrame
+50000C02 0000
+800A07B0 00FF
+

@@ -1,0 +1,45 @@
+; CHTDB: ; [ Mobile Suit Gundam: Perfect One Year War (Japan) {SLPS-00920} ]
+
+[Infinite HP main character]
+Type = Gameshark
+Activation = EndFrame
+801EA602 044C
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801EA604 FFFF
+
+[Max Action]
+Type = Gameshark
+Activation = EndFrame
+301EA607 0064
+
+[Full Value Parameter]
+Type = Gameshark
+Activation = EndFrame
+901EBAA4 FFFF6364
+301EBAA9 0063
+
+[Skill]
+Type = Gameshark
+Activation = EndFrame
+801EBAAA FFFF
+801EBAAC FFFF
+901EBAB0 FFFFFFFF
+
+[Have Full Weapon]
+Type = Gameshark
+Activation = EndFrame
+901EA608 02030001
+901EA60C 06070405
+
+[Level 99 - Main Character]
+Type = Gameshark
+Activation = EndFrame
+801EB02C FFFF
+801EBAB6 FFFF
+801EBB2E FFFF
+801EBC96 FFFF
+801EBE3A FFFF
+

@@ -1,0 +1,32 @@
+; CHTDB: ; [ LEGO Rock Raiders (Europe) {SLES-01690} ]
+
+[Ammo]
+Type = Gameshark
+Activation = EndFrame
+801E6CA0 61A8
+
+[Timer]
+Type = Gameshark
+Activation = EndFrame
+8009E6EC 0000
+
+[Lego-Ore]
+Type = Gameshark
+Activation = EndFrame
+800AE218 FFFF
+
+[Red Crystal]
+Type = Gameshark
+Activation = EndFrame
+800AE21C FFFF
+
+[Green Crystal]
+Type = Gameshark
+Activation = EndFrame
+800AE220 FFFF
+
+[Saved Rock Raiders]
+Type = Gameshark
+Activation = EndFrame
+800AE228 FFFF
+

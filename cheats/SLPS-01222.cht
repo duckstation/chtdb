@@ -1,0 +1,120 @@
+; CHTDB: ; [ Biohazard 2 (Leon-hen) (Japan) {SLPS-01222 | SLPS-01223} ]
+
+[Infinite HP Leon Kennedy]
+Type = Gameshark
+Activation = EndFrame
+800D06BE 00C8
+
+[Ending Game]
+Type = Gameshark
+Activation = EndFrame
+800D04E6 4022
+
+[Extreme Battle Mode / Unlock 3 Level and Chris & Ada charactere]
+Type = Gameshark
+Activation = EndFrame
+A60D04E6 00000100
+900D0508 00020200
+
+[One Hit To Kill Leon Kennedy]
+Type = Gameshark
+Activation = EndFrame
+90041D70 2402FFFF
+
+[Total Time 00.00.00 Leon Kennedy]
+Type = Gameshark
+Activation = EndFrame
+900D5014 00000000
+
+[Final Stop Timer Leon Kennedy]
+Type = Gameshark
+Activation = EndFrame
+800D51A2 0126
+
+[Infinite Time for escaping at the last boss Leon Kennedy]
+Type = Gameshark
+Activation = EndFrame
+8002D35C 0000
+
+[10 item slots Bag Leon Kennedy]
+Type = Gameshark
+Activation = EndFrame
+300D5230 0001
+
+[Save Everywhere (L1 + R1) Leon Kennedy]
+Type = Gameshark
+Activation = EndFrame
+D00CEC6C 000C
+800D4E0C 1F9C
+D00CEC6C 000C
+800D4E0E 8005
+
+[LEON B]
+Type = Gameshark
+Activation = EndFrame
+A60D054A 00004000
+
+[The 4 Survivor HUNK]
+Type = Gameshark
+Activation = EndFrame
+300D04E4 0008
+
+[The 4 Survivor TOFU]
+Type = Gameshark
+Activation = EndFrame
+300D04E4 0009
+
+[Infinite HP Claire Redfield]
+Type = Gameshark
+Activation = EndFrame
+800D0766 00C8
+
+[One Attack Kill Enemy Claire Redfield]
+Type = Gameshark
+Activation = EndFrame
+90041D48 2402FFFF
+
+[Number of Save Zero Claire Redfield]
+Type = Gameshark
+Activation = EndFrame
+800D50DC 0000
+
+[Total Time 00.00.00 Claire Redfield]
+Type = Gameshark
+Activation = EndFrame
+900D50BC 00000000
+
+[Infinite Time for escaping at the last boss Claire Redfield]
+Type = Gameshark
+Activation = EndFrame
+8002D404 0000
+
+[10 Item slot Bag Claire Redfield]
+Type = Gameshark
+Activation = EndFrame
+300D52D8 0001
+
+[Ink use count Claire Redfield]
+Type = Gameshark
+Activation = EndFrame
+300D53D4 0000
+
+[Save anywhere by pressing L2 Claire Redfield]
+Type = Gameshark
+Activation = EndFrame
+D00CED14 0001
+800D4EB4 1F74
+D00CED14 0001
+800D4EB6 8005
+
+[Infinite Bullet Claire Redfield]
+Type = Gameshark
+Activation = EndFrame
+A60697CA 00C100C6
+
+[Infinite Ink ribbon Claire Redfield]
+Type = Gameshark
+Activation = EndFrame
+D01C0AB2 2442
+801C0AB0 0000
+

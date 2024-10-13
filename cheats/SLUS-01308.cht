@@ -1,0 +1,22 @@
+; CHTDB: ; [ Space Shot (USA) (2001) (Agetec / A1 Games) {SLUS-01308} <spacesht> ]
+
+[Infinite Shields]
+Type = Gameshark
+Activation = EndFrame
+800B5648 0005
+
+[Max Score]
+Type = Gameshark
+Activation = EndFrame
+900B564C 540BE3FF
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800B564A 0003
+
+[Invisible + Infinite Special]
+Type = Gameshark
+Activation = EndFrame
+800BCCD4 0080
+

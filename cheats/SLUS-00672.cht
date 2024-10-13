@@ -1,0 +1,20 @@
+; CHTDB: ; [ Devil Dice (USA) (1998) (THQ) {SLUS-00672} <devildce> ]
+
+[Move One Dice to Clear Level]
+Type = Gameshark
+Activation = EndFrame
+800CAE4E 1000
+800CAEAE 2400
+800CA40E 2400
+800CA452 2400
+
+[P1 Infinite Energy (War Mode)]
+Type = Gameshark
+Activation = EndFrame
+8017E500 0063
+
+[P1 Maxed Out Score (Trial Mode)]
+Type = Gameshark
+Activation = EndFrame
+8017E504 FFFF
+

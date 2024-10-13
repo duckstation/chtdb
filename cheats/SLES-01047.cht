@@ -1,0 +1,37 @@
+; CHTDB: ; [ Men in Black: The Game (Europe) {SLES-01047} ]
+
+[Infinite Energy Jay]
+Type = Gameshark
+Activation = EndFrame
+800DFA7C 0064
+
+[Infinite Energy Elle]
+Type = Gameshark
+Activation = EndFrame
+800DEE68 0064
+
+[Infinite Energy Kay]
+Type = Gameshark
+Activation = EndFrame
+800E5DA8 0064
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+80085514 0000
+
+[Infinite Health Packs]
+Type = Gameshark
+Activation = EndFrame
+80059CA0 0000
+
+[Infinite Small Med Kits]
+Type = Gameshark
+Activation = EndFrame
+80059CD4 0000
+
+[MIB Mission Archive]
+Type = Gameshark
+Activation = EndFrame
+30037BE0 0004
+

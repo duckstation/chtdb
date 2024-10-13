@@ -1,0 +1,42 @@
+; CHTDB: ; [ Machine Head (USA) (1996) (Eidos Interactive) {SLUS-00383} <machhead> ]
+
+[Infinite Missiles]
+Type = Gameshark
+Activation = EndFrame
+800C2178 0064
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800BF660 00FD
+
+[Infinite Flame Thrower]
+Type = Gameshark
+Activation = EndFrame
+800C2174 00FA
+
+[Infinite Grenades]
+Type = Gameshark
+Activation = EndFrame
+800C2184 000A
+
+[Infinite Disruptor]
+Type = Gameshark
+Activation = EndFrame
+800C2188 0064
+
+[Infinite Homing Missiles]
+Type = Gameshark
+Activation = EndFrame
+800C217C 0064
+
+[Infinite Io-Storm]
+Type = Gameshark
+Activation = EndFrame
+800C218C 0064
+
+[Infinite Photons]
+Type = Gameshark
+Activation = EndFrame
+800C2180 0064
+

@@ -1,0 +1,37 @@
+; CHTDB: ; [ Croc! Pau-Pau Island (Japan) {SLPS-01055} ]
+
+[Always Have 100 Crystals]
+Type = Gameshark
+Activation = EndFrame
+80074964 0064
+
+[Always Have Saved 6 Gobbos]
+Type = Gameshark
+Activation = EndFrame
+8007496C 0006
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80074FDC 0003
+
+[Have All 5 Colored Crystals]
+Type = Gameshark
+Activation = EndFrame
+80074AC8 001F
+
+[Always Have Gold Key]
+Type = Gameshark
+Activation = EndFrame
+80074AC0 0001
+
+[Always Have Silver Key]
+Type = Gameshark
+Activation = EndFrame
+80074AC4 0001
+
+[Have All 8 Jigsaw Pieces]
+Type = Gameshark
+Activation = EndFrame
+80074E6C 0008
+

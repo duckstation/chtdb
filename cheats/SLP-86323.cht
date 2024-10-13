@@ -1,0 +1,17 @@
+; CHTDB: ; [ Jet de Go! Let's Go by Airliner (Japan) {SLP-86323} ]
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A71472D0 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A71472D0 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A71472D0 10000400
+

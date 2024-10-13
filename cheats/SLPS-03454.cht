@@ -1,0 +1,27 @@
+; CHTDB: ; [ Kowai Shashin: Shinrei Shashin Kitan (Japan) {SLPS-03454} ]
+
+[Infinite Spiritual energy]
+Type = Gameshark
+Activation = EndFrame
+800FFA7F 012C
+
+[Max Spiritual Energy]
+Type = Gameshark
+Activation = EndFrame
+800FFA7E 2710
+
+[Do not reduce exorcism mark timer]
+Type = Gameshark
+Activation = EndFrame
+300FFC3A 0059
+
+[0 endurance of the spirit]
+Type = Gameshark
+Activation = EndFrame
+800FFA90 0000
+
+[Lap four clear count - Unlocked ghost photo mode,Portrait woven scarlet mode & secret photo album woven Scarlet Mode]
+Type = Gameshark
+Activation = EndFrame
+3009FE2A 0003
+

@@ -1,0 +1,148 @@
+; CHTDB: ; [ Rayman 2: The Great Escape (Europe) {SLES-02905} ]
+
+[Infinite Air]
+Type = Gameshark
+Activation = EndFrame
+D00669CA 1000
+800669CC 0000
+
+[Have level complete The Clearing]
+Type = Gameshark
+Activation = EndFrame
+D00100D4 4465
+300A6BAC 000A
+
+[Have level complete The Fairy Glade]
+Type = Gameshark
+Activation = EndFrame
+D00100D4 4465
+300A6BAD 003C
+D00100D4 4465
+300A6BE9 0004
+D00100D4 4465
+300A6C01 0002
+
+[Have level complete The Marshes Of Awakening]
+Type = Gameshark
+Activation = EndFrame
+D00100D4 4465
+300A6BAF 0023
+D00100D4 4465
+300A6C1B 0002
+
+[Have level complete The Bayou]
+Type = Gameshark
+Activation = EndFrame
+D00100D4 4465
+300A6BB0 002D
+D00100D4 4465
+300A6C1C 0004
+
+[Have level complete The Walk Of Life]
+Type = Gameshark
+Activation = EndFrame
+D00100D4 4465
+300A6BB1 001E
+
+[Have Level Complete Whale Bay]
+Type = Gameshark
+Activation = EndFrame
+D00100D4 4465
+300A6BB2 0023
+D00100D4 4465
+300A6C06 0002
+
+[Have level complete The Menhir Hills]
+Type = Gameshark
+Activation = EndFrame
+D00100D4 4465
+300A6BB4 0037
+D00100D4 4465
+300A6BF0 0002
+D00100D4 4465
+300A6C08 0003
+
+[Have level complete The Cave Of Bad Dreams]
+Type = Gameshark
+Activation = EndFrame
+D00100D4 4465
+300A6BB5 0041
+
+[Have level complete The Canopy]
+Type = Gameshark
+Activation = EndFrame
+D00100D4 4465
+300A6BB6 0041
+D00100D4 4465
+300A6BF2 0002
+D00100D4 4465
+300A6C22 0004
+
+[Have level complete The Sanctuary Of Stone & Fire]
+Type = Gameshark
+Activation = EndFrame
+D00100D4 4465
+300A6BB7 0055
+D00100D4 4465
+300A6C0B 0006
+
+[Have levels complete The Echoing Caves]
+Type = Gameshark
+Activation = EndFrame
+D00100D4 4465
+300A6BB9 003C
+D00100D4 4465
+300A6BF5 0002
+D00100D4 4465
+300A6C25 0005
+
+[Have levels complete The Precipice]
+Type = Gameshark
+Activation = EndFrame
+D00100D4 4465
+300A6BBB 0041
+D00100D4 4465
+300A6C0F 0004
+D00100D4 4465
+300A6C27 0001
+
+[Have levels complete The Sanctuary Of Rock & Lava]
+Type = Gameshark
+Activation = EndFrame
+D00100D4 4465
+300A6BBC 002D
+D00100D4 4465
+300A6C28 0005
+
+[Have levels complete The Walk Of Power]
+Type = Gameshark
+Activation = EndFrame
+D00100D4 4465
+300A6BBD 0028
+
+[Have levels complete Beneath The Sanctuary Of Rock & Lava]
+Type = Gameshark
+Activation = EndFrame
+D00100D4 4465
+300A6BBE 0032
+D00100D4 4465
+300A6C2A 0004
+
+[Have levels complete Tomb Of The Ancients]
+Type = Gameshark
+Activation = EndFrame
+D00100D4 4465
+300A6BC0 0014
+D00100D4 4465
+300A6C14 0004
+
+[Have levels complete The Gloomy Island]
+Type = Gameshark
+Activation = EndFrame
+D00100D4 4465
+300A6BC1 0023
+D00100D4 4465
+300A6BFC 0002
+D00100D4 4465
+300A6C15 0002
+

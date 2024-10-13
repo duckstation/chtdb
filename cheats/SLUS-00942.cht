@@ -1,0 +1,22 @@
+; CHTDB: ; [ Gallop Racer (USA) (1999) (Tecmo) {SLUS-00942} <glpracr> ]
+
+[Infinite Jockey Points]
+Type = Gameshark
+Activation = EndFrame
+801FA288 FFFF
+
+[Infinite Stamina 1S Position]
+Type = Gameshark
+Activation = EndFrame
+800EAD76 00FF
+
+[Jockey Points Never Decrease]
+Type = Gameshark
+Activation = EndFrame
+A7134EB2 AC432400
+
+[Infinite Stamina All Positions]
+Type = Gameshark
+Activation = EndFrame
+A70B5AE2 ACC42400
+

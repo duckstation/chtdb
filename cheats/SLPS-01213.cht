@@ -1,0 +1,28 @@
+; CHTDB: ; [ Wangan Trial (Jpn) (1998) (Pack-in-Soft) {SLPS-01213~SLPS-01214} <wangantr> ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800527B8 0621
+
+[Infinite Lap Time + Total Time]
+Type = Gameshark
+Activation = EndFrame
+800524C0 0000
+
+[Top Speed]
+Type = Gameshark
+Activation = EndFrame
+80078CF4 2AFF
+
+[Use Formula-1 To Race]
+Type = Gameshark
+Activation = EndFrame
+800E7E0A 0137
+
+[Unlock All Cars And Courses]
+Type = Gameshark
+Activation = EndFrame
+50000A02 0000
+8005F6B0 0001
+

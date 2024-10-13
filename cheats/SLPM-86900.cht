@@ -1,0 +1,12 @@
+; CHTDB: ; [ Simple 1500 Series vol.73 - The Invaders - Space Invaders 1500 (Jpn) (2001) (D3 Publisher) {SLPM-86900} <ss073inv> ]
+
+[Infinite Lives classic mode with background artwork]
+Type = Gameshark
+Activation = EndFrame
+801311C8 0005
+
+[Infinite Lives Space Invaders 3D]
+Type = Gameshark
+Activation = EndFrame
+801FFF84 0006
+

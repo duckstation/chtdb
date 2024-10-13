@@ -1,0 +1,60 @@
+; CHTDB: ; [ Chicken Run (Europe) {SLES-03285} ]
+
+[Enable All Levels]
+Type = Gameshark
+Activation = EndFrame
+50000C01 0000
+300ADC66 0001
+
+[99 Eggs (Press L1 & L2)]
+Type = Gameshark
+Activation = EndFrame
+D00B94EA FAFF
+300D25E0 0063
+
+[Have all movies]
+Type = Gameshark
+Activation = EndFrame
+50000B01 0000
+300ADC50 0001
+
+[Have All Map Pieces]
+Type = Gameshark
+Activation = EndFrame
+900AA128 01010101
+900AA12C 01010101
+900AA130 01010101
+900AA134 01010101
+
+[Have all Gold Medals]
+Type = Gameshark
+Activation = EndFrame
+50000601 0000
+300ADC72 0003
+
+[Have all pictures]
+Type = Gameshark
+Activation = EndFrame
+50000A01 0000
+300ADC5B 0001
+
+[Infinite Sprouts]
+Type = Gameshark
+Activation = EndFrame
+A6069BF0 FFFF0001
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A70B6D0C 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A70B6D0C 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A70B6D0C 10000400
+

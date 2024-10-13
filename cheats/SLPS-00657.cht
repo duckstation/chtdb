@@ -1,0 +1,34 @@
+; CHTDB: ; [ Clock Tower 2 (Japan) {SLPS-00657} ]
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+8001CAAE 1000
+
+[Have All Endings]
+Type = Gameshark
+Activation = EndFrame
+50000A01 0000
+30095C81 0001
+
+[Have All Hints]
+Type = Gameshark
+Activation = EndFrame
+50000A01 0000
+30095C77 0001
+
+[Unlock BUYOBUYO in Pause Menu]
+Type = Gameshark
+Activation = EndFrame
+80095B46 0001
+
+[Unlock Extra Mode in Pamphlet]
+Type = Gameshark
+Activation = EndFrame
+80095B40 0001
+
+[Unlock Message Type in Pause Menu]
+Type = Gameshark
+Activation = EndFrame
+80095B44 0001
+

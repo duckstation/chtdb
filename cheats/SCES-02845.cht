@@ -1,0 +1,38 @@
+; CHTDB: ; [ WipEout 3: Special Edition (Europe) {SCES-02845} ]
+
+[Infinite Checkpoint time]
+Type = Gameshark
+Activation = EndFrame
+801934E8 5000
+
+[P1 Max Points in tournament]
+Type = Gameshark
+Activation = EndFrame
+8018AD90 00FF
+
+[P1 Always first Race Finish After Activate]
+Type = Gameshark
+Activation = EndFrame
+801931FC 0101
+
+[P1 Infinite Energy turbo]
+Type = Gameshark
+Activation = EndFrame
+801EA7BD 0000
+
+[Laptime 0.00.00]
+Type = Gameshark
+Activation = EndFrame
+D010DF36 AC83
+3010DF36 0000
+
+[Prototype-mode (Vector) unlocked]
+Type = Gameshark
+Activation = EndFrame
+3018A85A 0001
+
+[SINGLE RACES & TIME RACES & ELIMINATOR MODE Phantom-class unlocked]
+Type = Gameshark
+Activation = EndFrame
+3018A8C9 0001
+

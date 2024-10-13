@@ -1,0 +1,42 @@
+; CHTDB: ; [ Kyousouba Ikusei Simulation: Derby Stallion (Japan) {SLPS-00777} ]
+
+[First Horse Status]
+Type = Gameshark
+Activation = EndFrame
+800EAAEC FFFF
+800EAAEA FFFF
+800EAAF0 FFFF
+800EAAEE FFFF
+
+[Second Horse Status]
+Type = Gameshark
+Activation = EndFrame
+800EAB5A FFFF
+900EAB5C FFFFFFFF
+800EAB60 FFFF
+
+[Infinite Money 99999]
+Type = Gameshark
+Activation = EndFrame
+900E7D30 000F423F
+
+[Money 9.9 billion yen]
+Type = Gameshark
+Activation = EndFrame
+900E7D18 05E69EC0
+
+[Hidden foreign stallions all unlocked]
+Type = Gameshark
+Activation = EndFrame
+800E7FAA FFFF
+900E7FAC FFFFFFFF
+900E7FB0 FFFFFFFF
+900E7FB4 FFFFFFFF
+900E7FB8 FFFFFFFF
+900E7FBC FFFFFFFF
+900E7FC0 FFFFFFFF
+900E7FC4 FFFFFFFF
+900E7FC8 FFFFFFFF
+900E7FCC FFFFFFFF
+800E7FD0 FFFF
+

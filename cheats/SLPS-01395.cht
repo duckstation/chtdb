@@ -1,0 +1,13 @@
+; CHTDB: ; [ Kitchen Panic (Jpn) (1998) (Panther Software) {SLPS-01395} <kitchpnc> ]
+
+[Infinite Life]
+Type = Gameshark
+Activation = EndFrame
+801500FC 0030
+8015016C 0030
+
+[Slow Motion]
+Type = Gameshark
+Activation = EndFrame
+800C6A14 0E57
+

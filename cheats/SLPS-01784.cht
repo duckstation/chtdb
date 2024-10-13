@@ -1,0 +1,33 @@
+; CHTDB: ; [ Lucifer Ring (Jpn) (1998) (Toshiba EMI) {SLPS-01784} <lucifer> ]
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+8007F296 03E7
+8007F29A 03E7
+
+[Infinite SP]
+Type = Gameshark
+Activation = EndFrame
+8007F29C 03E7
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8012F0CE 0009
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A709BD00 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A709BD00 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A709BD00 10000400
+

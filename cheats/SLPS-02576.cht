@@ -1,0 +1,27 @@
+; CHTDB: ; [ Our Graduation: Mahjong de Pon! Hanafuda de Koi! (Mahjong de Pon!) (Japan) {SLPS-02576 | SLPS-02577} ]
+
+[Player has 999900 points]
+Type = Gameshark
+Activation = EndFrame
+80161324 270F
+
+[Opponent 1 has 0 points]
+Type = Gameshark
+Activation = EndFrame
+80161528 0000
+
+[Opponent 2 has 0 points]
+Type = Gameshark
+Activation = EndFrame
+8016147C 0000
+
+[Opponent 3 has 0 points]
+Type = Gameshark
+Activation = EndFrame
+801613D0 0000
+
+[Player has 99 points in hanafuda game]
+Type = Gameshark
+Activation = EndFrame
+80063F4C 0063
+

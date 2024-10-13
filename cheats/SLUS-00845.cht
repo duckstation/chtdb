@@ -1,0 +1,56 @@
+; CHTDB: ; [ Thousand Arms (USA) (1999) (Atlus U.S.A.) {SLUS-00845 / SLUS-00858} <1000arms> ]
+
+[Infinite Energy In Battle Character 1]
+Type = Gameshark
+Activation = EndFrame
+900BE024 270F270F
+
+[Infinite EP In Battle Character 1]
+Type = Gameshark
+Activation = EndFrame
+900BE028 03E703E7
+
+[Infinite Energy In Battle Character 2]
+Type = Gameshark
+Activation = EndFrame
+900BE034 270F270F
+
+[Infinite EP In Battle Character 2]
+Type = Gameshark
+Activation = EndFrame
+900BE038 03E703E7
+
+[Infinite Energy In Battle Character 3]
+Type = Gameshark
+Activation = EndFrame
+900BE044 270F270F
+
+[Infinite EP In Battle Character 3]
+Type = Gameshark
+Activation = EndFrame
+900BE048 03E703E7
+
+[Infinite Gg]
+Type = Gameshark
+Activation = EndFrame
+8005FA50 FFFF
+
+[Max MP]
+Type = Gameshark
+Activation = EndFrame
+8005F8A8 EA60
+
+[All Items]
+Type = Gameshark
+Activation = EndFrame
+5000C614 0000
+300510B6 0063
+
+[Call Save Damashi Anytime]
+Type = Gameshark
+Activation = EndFrame
+C005B1C8 0F00
+9009B124 00000001
+8005FA1C 000D
+00000000 FFFF
+

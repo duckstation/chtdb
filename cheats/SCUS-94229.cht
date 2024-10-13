@@ -1,0 +1,67 @@
+; CHTDB: ; [ Turbo Prop Racing (USA) (1998) (Sony Computer Entertainment America) {SCUS-94229} <tproprac> ]
+
+[P1 Always Place 1st]
+Type = Gameshark
+Activation = EndFrame
+800FD190 0100
+
+[P1 Infinite Turbos]
+Type = Gameshark
+Activation = EndFrame
+800FD3D0 0003
+
+[Have All Boats Unlocked]
+Type = Gameshark
+Activation = EndFrame
+800E76FA 0101
+900E76FC 01010101
+
+[Track Master Code .This code must be on when activating the Unlock Track.]
+Type = Gameshark
+Activation = EndFrame
+800E76AC 0303
+
+[Have All Day Tracks Unlocked + Completed]
+Type = Gameshark
+Activation = EndFrame
+900E76E0 06060606
+800E76E4 0606
+
+[Have All Night Tracks Unlocked + Completed]
+Type = Gameshark
+Activation = EndFrame
+800E76E6 0606
+900E76E8 06060606
+
+[Have Fractral Tracks Unlocked + Completed]
+Type = Gameshark
+Activation = EndFrame
+800E76F2 0606
+900E76F4 06060606
+
+[Have All Mirror Tracks Unlocked + Completed]
+Type = Gameshark
+Activation = EndFrame
+900E76EC 06060606
+800E76F0 0606
+
+[Duck Cheat On Don't use the Duck Cheat with any of the Boat or Track.]
+Type = Gameshark
+Activation = EndFrame
+800E7548 0004
+
+[Hurracane Boat Cheat On]
+Type = Gameshark
+Activation = EndFrame
+800E7AF8 0001
+
+[P1 All Yellow Bouys]
+Type = Gameshark
+Activation = EndFrame
+800FD3C6 0005
+
+[Widescreen 16-9 (Vert-)]
+Type = Gameshark
+Activation = EndFrame
+8002ABB8 0C00
+

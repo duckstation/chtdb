@@ -1,0 +1,82 @@
+; CHTDB: ; [ Cool Boarders 3 (Europe) {SCES-01615} ]
+
+[Mega Points]
+Type = Gameshark
+Activation = EndFrame
+8009AEE4 FFFF
+
+[No Time Penalties For Missed Gates]
+Type = Gameshark
+Activation = EndFrame
+8009AFFA 0000
+
+[Stop Timer For First Place]
+Type = Gameshark
+Activation = EndFrame
+8009C7DC 0000
+
+[Open All Courses]
+Type = Gameshark
+Activation = EndFrame
+8006903C 0005
+
+[Select Extra Character\Eddie]
+Type = Gameshark
+Activation = EndFrame
+800690B0 010D
+
+[Select Extra Character\Mars]
+Type = Gameshark
+Activation = EndFrame
+800690B0 010E
+
+[Select Extra Character\Kimber]
+Type = Gameshark
+Activation = EndFrame
+800690B0 010F
+
+[Select Extra Character\Irving]
+Type = Gameshark
+Activation = EndFrame
+800690B0 0110
+
+[Select Extra Character\Bob]
+Type = Gameshark
+Activation = EndFrame
+800690B0 0111
+
+[Select Extra Character\Joshua]
+Type = Gameshark
+Activation = EndFrame
+800690B0 0112
+
+[Select Extra Character\Cool]
+Type = Gameshark
+Activation = EndFrame
+800690B0 0113
+
+[Select Extra Character\Burg]
+Type = Gameshark
+Activation = EndFrame
+800690B0 0114
+
+[Have Extra Characters]
+Type = Gameshark
+Activation = EndFrame
+800BDB9C 0015
+
+[Have Extra Free Ride Boards]
+Type = Gameshark
+Activation = EndFrame
+800BE1B0 000A
+
+[Have Extra Free Style Boards]
+Type = Gameshark
+Activation = EndFrame
+800BE2C8 000A
+
+[Have Extra Alpine Boards]
+Type = Gameshark
+Activation = EndFrame
+800BE3E0 0003
+

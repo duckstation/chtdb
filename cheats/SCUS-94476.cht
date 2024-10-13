@@ -1,0 +1,689 @@
+; CHTDB: ; [ Hot Shots Golf 2 (USA) (2000) (Sony Computer Entertainment America) {SCUS-94476} <hotshot2> ]
+
+[Misc.\Unlock All Characters]
+Type = Gameshark
+Activation = EndFrame
+D2046B98 FFFF
+80046B98 FFFF
+D2046B9A FFFF
+80046B9A FFFF
+
+[Misc.\Unlock All Goodies]
+Type = Gameshark
+Activation = EndFrame
+D2046BA0 FFFF
+80046BA0 FFFF
+D2046BA2 FFFF
+80046BA2 FFFF
+E2046BA4 0063
+30046BA4 0063
+
+[Misc.\Unlock All Courses]
+Type = Gameshark
+Activation = EndFrame
+E2046BAA 0005
+30046BAA 0005
+E204757C 00FF
+3004757C 00FF
+
+[Misc.\Press L2 + R2 To Finish 18 Hole Game Quickly]
+Type = Gameshark
+Activation = EndFrame
+D004AC04 0003
+8004666C 0012
+
+[Misc.\Unlock All Tournaments Difficulties]
+Type = Gameshark
+Activation = EndFrame
+D20D364E 0004
+800D364E 0004
+
+[Misc.\No Wind]
+Type = Gameshark
+Activation = EndFrame
+800F9FDC 0000
+
+[Misc.\Easy Shot Mode]
+Type = Gameshark
+Activation = EndFrame
+800466CA 0001
+
+[Misc.\2-Player Battle (Vs. Mode)]
+Type = Gameshark
+Activation = EndFrame
+80046780 0000
+
+[Misc.\Play As Cpu (Vs. Mode)]
+Type = Gameshark
+Activation = EndFrame
+80046780 0001
+
+[P1 Always Win\Hole 1]
+Type = Gameshark
+Activation = EndFrame
+D3046A66 0001
+80046A66 0001
+
+[P1 Always Win\Hole 2]
+Type = Gameshark
+Activation = EndFrame
+D3046A68 0001
+80046A68 0001
+
+[P1 Always Win\Hole 3]
+Type = Gameshark
+Activation = EndFrame
+D3046A6A 0001
+80046A6A 0001
+
+[P1 Always Win\Hole 4]
+Type = Gameshark
+Activation = EndFrame
+D3046A6C 0001
+80046A6C 0001
+
+[P1 Always Win\Hole 5]
+Type = Gameshark
+Activation = EndFrame
+D3046A6E 0001
+80046A6E 0001
+
+[P1 Always Win\Hole 6]
+Type = Gameshark
+Activation = EndFrame
+D3046A70 0001
+80046A70 0001
+
+[P1 Always Win\Hole 7]
+Type = Gameshark
+Activation = EndFrame
+D3046A72 0001
+80046A72 0001
+
+[P1 Always Win\Hole 8]
+Type = Gameshark
+Activation = EndFrame
+D3046A74 0001
+80046A74 0001
+
+[P1 Always Win\Hole 9]
+Type = Gameshark
+Activation = EndFrame
+D3046A76 0001
+80046A76 0001
+
+[P1 Always Win\Hole 10]
+Type = Gameshark
+Activation = EndFrame
+D3046A78 0001
+80046A78 0001
+
+[P1 Always Win\Hole 11]
+Type = Gameshark
+Activation = EndFrame
+D3046A7A 0001
+80046A7A 0001
+
+[P1 Always Win\Hole 12]
+Type = Gameshark
+Activation = EndFrame
+D3046A7C 0001
+80046A7C 0001
+
+[P1 Always Win\Hole 13]
+Type = Gameshark
+Activation = EndFrame
+D3046A7E 0001
+80046A7E 0001
+
+[P1 Always Win\Hole 14]
+Type = Gameshark
+Activation = EndFrame
+D3046A80 0001
+80046A80 0001
+
+[P1 Always Win\Hole 15]
+Type = Gameshark
+Activation = EndFrame
+D3046A82 0001
+80046A82 0001
+
+[P1 Always Win\Hole 16]
+Type = Gameshark
+Activation = EndFrame
+D3046A84 0001
+80046A84 0001
+
+[P1 Always Win\Hole 17]
+Type = Gameshark
+Activation = EndFrame
+D3046A86 0001
+80046A86 0001
+
+[P1 Always Win\Hole 18]
+Type = Gameshark
+Activation = EndFrame
+D3046A88 0001
+80046A88 0001
+
+[P2 Always Win\Hole 1]
+Type = Gameshark
+Activation = EndFrame
+D3046A8A 0001
+80046A8A 0001
+
+[P2 Always Win\Hole 2]
+Type = Gameshark
+Activation = EndFrame
+D3046A8C 0001
+80046A8C 0001
+
+[P2 Always Win\Hole 3]
+Type = Gameshark
+Activation = EndFrame
+D3046A8E 0001
+80046A8E 0001
+
+[P2 Always Win\Hole 4]
+Type = Gameshark
+Activation = EndFrame
+D3046A90 0001
+80046A90 0001
+
+[P2 Always Win\Hole 5]
+Type = Gameshark
+Activation = EndFrame
+D3046A92 0001
+80046A92 0001
+
+[P2 Always Win\Hole 6]
+Type = Gameshark
+Activation = EndFrame
+D3046A94 0001
+80046A94 0001
+
+[P2 Always Win\Hole 7]
+Type = Gameshark
+Activation = EndFrame
+D3046A96 0001
+80046A96 0001
+
+[P2 Always Win\Hole 8]
+Type = Gameshark
+Activation = EndFrame
+D3046A98 0001
+80046A98 0001
+
+[P2 Always Win\Hole 9]
+Type = Gameshark
+Activation = EndFrame
+D3046A9A 0001
+80046A9A 0001
+
+[P2 Always Win\Hole 10]
+Type = Gameshark
+Activation = EndFrame
+D3046A9C 0001
+80046A9C 0001
+
+[P2 Always Win\Hole 11]
+Type = Gameshark
+Activation = EndFrame
+D3046A9E 0001
+80046A9E 0001
+
+[P2 Always Win\Hole 12]
+Type = Gameshark
+Activation = EndFrame
+D3046AA0 0001
+80046AA0 0001
+
+[P2 Always Win\Hole 13]
+Type = Gameshark
+Activation = EndFrame
+D3046AA2 0001
+80046AA2 0001
+
+[P2 Always Win\Hole 14]
+Type = Gameshark
+Activation = EndFrame
+D3046AA4 0001
+80046AA4 0001
+
+[P2 Always Win\Hole 15]
+Type = Gameshark
+Activation = EndFrame
+D3046AA6 0001
+80046AA6 0001
+
+[P2 Always Win\Hole 16]
+Type = Gameshark
+Activation = EndFrame
+D3046AA8 0001
+80046AA8 0001
+
+[P2 Always Win\Hole 17]
+Type = Gameshark
+Activation = EndFrame
+D3046AAA 0001
+80046AAA 0001
+
+[P2 Always Win\Hole 18]
+Type = Gameshark
+Activation = EndFrame
+D3046AAC 0001
+80046AAC 0001
+
+[P3 Always Win\Hole 1]
+Type = Gameshark
+Activation = EndFrame
+D3046AAE 0001
+80046AAE 0001
+
+[P3 Always Win\Hole 2]
+Type = Gameshark
+Activation = EndFrame
+D3046AB0 0001
+80046AB0 0001
+
+[P3 Always Win\Hole 3]
+Type = Gameshark
+Activation = EndFrame
+D3046AB2 0001
+80046AB2 0001
+
+[P3 Always Win\Hole 4]
+Type = Gameshark
+Activation = EndFrame
+D3046AB4 0001
+80046AB4 0001
+
+[P3 Always Win\Hole 5]
+Type = Gameshark
+Activation = EndFrame
+D3046AB6 0001
+80046AB6 0001
+
+[P3 Always Win\Hole 6]
+Type = Gameshark
+Activation = EndFrame
+D3046AB8 0001
+80046AB8 0001
+
+[P3 Always Win\Hole 7]
+Type = Gameshark
+Activation = EndFrame
+D3046ABA 0001
+80046ABA 0001
+
+[P3 Always Win\Hole 8]
+Type = Gameshark
+Activation = EndFrame
+D3046ABC 0001
+80046ABC 0001
+
+[P3 Always Win\Hole 9]
+Type = Gameshark
+Activation = EndFrame
+D3046ABE 0001
+80046ABE 0001
+
+[P3 Always Win\Hole 10]
+Type = Gameshark
+Activation = EndFrame
+D3046AC0 0001
+80046AC0 0001
+
+[P3 Always Win\Hole 11]
+Type = Gameshark
+Activation = EndFrame
+D3046AC2 0001
+80046AC2 0001
+
+[P3 Always Win\Hole 12]
+Type = Gameshark
+Activation = EndFrame
+D3046AC4 0001
+80046AC4 0001
+
+[P3 Always Win\Hole 13]
+Type = Gameshark
+Activation = EndFrame
+D3046AC6 0001
+80046AC6 0001
+
+[P3 Always Win\Hole 14]
+Type = Gameshark
+Activation = EndFrame
+D3046AC8 0001
+80046AC8 0001
+
+[P3 Always Win\Hole 15]
+Type = Gameshark
+Activation = EndFrame
+D3046ACA 0001
+80046ACA 0001
+
+[P3 Always Win\Hole 16]
+Type = Gameshark
+Activation = EndFrame
+D3046ACC 0001
+80046ACC 0001
+
+[P3 Always Win\Hole 17]
+Type = Gameshark
+Activation = EndFrame
+D3046ACE 0001
+80046ACE 0001
+
+[P3 Always Win\Hole 18]
+Type = Gameshark
+Activation = EndFrame
+D3046AD0 0001
+80046AD0 0001
+
+[P4 Always Win\Hole 1]
+Type = Gameshark
+Activation = EndFrame
+D3046AD2 0001
+80046AD2 0001
+
+[P4 Always Win\Hole 2]
+Type = Gameshark
+Activation = EndFrame
+D3046AD4 0001
+80046AD4 0001
+
+[P4 Always Win\Hole 3]
+Type = Gameshark
+Activation = EndFrame
+D3046AD6 0001
+80046AD6 0001
+
+[P4 Always Win\Hole 4]
+Type = Gameshark
+Activation = EndFrame
+D3046AD8 0001
+80046AD8 0001
+
+[P4 Always Win\Hole 5]
+Type = Gameshark
+Activation = EndFrame
+D3046ADA 0001
+80046ADA 0001
+
+[P4 Always Win\Hole 6]
+Type = Gameshark
+Activation = EndFrame
+D3046ADC 0001
+80046ADC 0001
+
+[P4 Always Win\Hole 7]
+Type = Gameshark
+Activation = EndFrame
+D3046ADE 0001
+80046ADE 0001
+
+[P4 Always Win\Hole 8]
+Type = Gameshark
+Activation = EndFrame
+D3046AE0 0001
+80046AE0 0001
+
+[P4 Always Win\Hole 9]
+Type = Gameshark
+Activation = EndFrame
+D3046AE2 0001
+80046AE2 0001
+
+[P4 Always Win\Hole 10]
+Type = Gameshark
+Activation = EndFrame
+D3046AE4 0001
+80046AE4 0001
+
+[P4 Always Win\Hole 11]
+Type = Gameshark
+Activation = EndFrame
+D3046AE6 0001
+80046AE6 0001
+
+[P4 Always Win\Hole 12]
+Type = Gameshark
+Activation = EndFrame
+D3046AE8 0001
+80046AE8 0001
+
+[P4 Always Win\Hole 13]
+Type = Gameshark
+Activation = EndFrame
+D3046AEA 0001
+80046AEA 0001
+
+[P4 Always Win\Hole 14]
+Type = Gameshark
+Activation = EndFrame
+D3046AEC 0001
+80046AEC 0001
+
+[P4 Always Win\Hole 15]
+Type = Gameshark
+Activation = EndFrame
+D3046AEE 0001
+80046AEE 0001
+
+[P4 Always Win\Hole 16]
+Type = Gameshark
+Activation = EndFrame
+D3046AF0 0001
+80046AF0 0001
+
+[P4 Always Win\Hole 17]
+Type = Gameshark
+Activation = EndFrame
+D3046AF2 0001
+80046AF2 0001
+
+[P4 Always Win\Hole 18]
+Type = Gameshark
+Activation = EndFrame
+D3046AF4 0001
+80046AF4 0001
+
+[Unlock Trophy\Dandelion Tour]
+Type = Gameshark
+Activation = EndFrame
+30046BB4 0000
+
+[Unlock Trophy\Waterfront Open]
+Type = Gameshark
+Activation = EndFrame
+30046BB5 0000
+
+[Unlock Trophy\Pacific Cup]
+Type = Gameshark
+Activation = EndFrame
+30046BB6 0000
+
+[Unlock Trophy\Amateur Cup]
+Type = Gameshark
+Activation = EndFrame
+30046BB7 0000
+
+[Unlock Trophy\Royal Garden Open]
+Type = Gameshark
+Activation = EndFrame
+30046BB8 0000
+
+[Unlock Trophy\Summer Open]
+Type = Gameshark
+Activation = EndFrame
+30046BB9 0000
+
+[Unlock Trophy\Brownleaf Invitational]
+Type = Gameshark
+Activation = EndFrame
+30046BBA 0000
+
+[Unlock Trophy\Blizzard Falls Cup]
+Type = Gameshark
+Activation = EndFrame
+30046BBB 0000
+
+[Unlock Trophy\Blue Skies Tour]
+Type = Gameshark
+Activation = EndFrame
+30046BBC 0000
+
+[Unlock Trophy\Woodbury Open]
+Type = Gameshark
+Activation = EndFrame
+30046BBD 0000
+
+[Unlock Trophy\Fall Open]
+Type = Gameshark
+Activation = EndFrame
+30046BBE 0000
+
+[Unlock Trophy\Frozen Lakes Championship]
+Type = Gameshark
+Activation = EndFrame
+30046BBF 0000
+
+[Unlock Trophy\Spring Open]
+Type = Gameshark
+Activation = EndFrame
+30046BC0 0000
+
+[Unlock Trophy\Atlantic Open]
+Type = Gameshark
+Activation = EndFrame
+30046BC1 0000
+
+[Unlock Trophy\Lakeview Championship]
+Type = Gameshark
+Activation = EndFrame
+30046BC2 0000
+
+[Unlock Trophy\Winter Open]
+Type = Gameshark
+Activation = EndFrame
+30046BC3 0000
+
+[Unlock Trophy\National Invitational]
+Type = Gameshark
+Activation = EndFrame
+30046BC4 0000
+
+[Unlock Trophy\International Cup]
+Type = Gameshark
+Activation = EndFrame
+30046BC5 0000
+
+[Unlock Trophy\Tour Championship]
+Type = Gameshark
+Activation = EndFrame
+30046BC6 0000
+
+[Unlock Trophy\Hot Shots Open]
+Type = Gameshark
+Activation = EndFrame
+30046BC7 0000
+
+[Unlock Trophy\Unlock All Trophys]
+Type = Gameshark
+Activation = EndFrame
+50000A02 0000
+80046BB4 0000
+
+[Max Tournament Point\Spring-Amateur + Top Pro]
+Type = Gameshark
+Activation = EndFrame
+80046BD0 270F
+
+[Max Tournament Point\Summer-Amateur + Top Pro]
+Type = Gameshark
+Activation = EndFrame
+80046BD2 270F
+
+[Max Tournament Point\Fall-Amateur + Top Pro]
+Type = Gameshark
+Activation = EndFrame
+80046BD4 270F
+
+[Max Tournament Point\Winter-Amateur + Top Pro]
+Type = Gameshark
+Activation = EndFrame
+80046BD6 270F
+
+[Max Tournament Point\Spring-Semi Pro]
+Type = Gameshark
+Activation = EndFrame
+80046BD8 270F
+
+[Max Tournament Point\Summer-Semi Pro]
+Type = Gameshark
+Activation = EndFrame
+80046BDA 270F
+
+[Max Tournament Point\Fall-Semi Pro]
+Type = Gameshark
+Activation = EndFrame
+80046BDC 270F
+
+[Max Tournament Point\Winter-Semi Pro]
+Type = Gameshark
+Activation = EndFrame
+80046BDE 270F
+
+[Max Tournament Point\Spring-Pro]
+Type = Gameshark
+Activation = EndFrame
+80046BE0 270F
+
+[Max Tournament Point\Summer-Pro]
+Type = Gameshark
+Activation = EndFrame
+80046BE2 270F
+
+[Max Tournament Point\Fall-Pro]
+Type = Gameshark
+Activation = EndFrame
+80046BE4 270F
+
+[Max Tournament Point\Winter-Pro]
+Type = Gameshark
+Activation = EndFrame
+80046BE6 270F
+
+[Max Tournament Point\Spring-Tour Pro]
+Type = Gameshark
+Activation = EndFrame
+80046BE8 270F
+
+[Max Tournament Point\Summer-Tour Pro]
+Type = Gameshark
+Activation = EndFrame
+80046BEA 270F
+
+[Max Tournament Point\Fall-Tour Pro]
+Type = Gameshark
+Activation = EndFrame
+80046BEC 270F
+
+[Max Tournament Point\Winter-Tour Pro]
+Type = Gameshark
+Activation = EndFrame
+80046BEE 270F
+
+[Max Tournament Point\Overall Max Points For The Year]
+Type = Gameshark
+Activation = EndFrame
+80046BAC 2710
+
+[Max Tournament Point\Max Tournament Points]
+Type = Gameshark
+Activation = EndFrame
+50001002 0000
+80046BD0 270F
+

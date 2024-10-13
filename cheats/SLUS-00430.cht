@@ -1,0 +1,137 @@
+; CHTDB: ; [ Treasures of the Deep (USA) (1997) (Namco Hometek) {SLUS-00430} <tresdeep> ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+900406C0 7FFFFFFF
+
+[Infinite Nets]
+Type = Gameshark
+Activation = EndFrame
+8004094C 0014
+
+[Infinite Torpedos]
+Type = Gameshark
+Activation = EndFrame
+8004094E 0014
+
+[Infinite Mines]
+Type = Gameshark
+Activation = EndFrame
+80040950 000E
+
+[Infinite Smart Missiles]
+Type = Gameshark
+Activation = EndFrame
+80040952 000B
+
+[Infinite Seeker Mines]
+Type = Gameshark
+Activation = EndFrame
+80040954 000A
+
+[Infinite Sonic Torpedos]
+Type = Gameshark
+Activation = EndFrame
+80040956 000D
+
+[Infinite Plasma Bombs]
+Type = Gameshark
+Activation = EndFrame
+80040958 0002
+
+[Infinite Medical Kits]
+Type = Gameshark
+Activation = EndFrame
+80040962 0005
+
+[Infinite Pony Tanks]
+Type = Gameshark
+Activation = EndFrame
+80040964 0002
+
+[Infinite Damage]
+Type = Gameshark
+Activation = EndFrame
+800B97D0 EA60
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800B9700 EA60
+
+[Infinite Oxygen]
+Type = Gameshark
+Activation = EndFrame
+80116BEC 0164
+
+[Unlock Mission Atlantis]
+Type = Gameshark
+Activation = EndFrame
+300324B3 0001
+
+[Unlock Mission Bermuda Triangle]
+Type = Gameshark
+Activation = EndFrame
+300324AE 0001
+
+[Unlock Mission Bottom of the Earth]
+Type = Gameshark
+Activation = EndFrame
+300324AC 0001
+
+[Unlock Mission Deep Freeze]
+Type = Gameshark
+Activation = EndFrame
+300324B1 0001
+
+[Unlock Mission Diver Straits]
+Type = Gameshark
+Activation = EndFrame
+300324A9 0001
+
+[Unlock Mission Great Barrier Reef]
+Type = Gameshark
+Activation = EndFrame
+300324AB 0001
+
+[Unlock Mission Hitler's Lost Gold]
+Type = Gameshark
+Activation = EndFrame
+300324B2 0001
+
+[Unlock Mission Maru Rescue]
+Type = Gameshark
+Activation = EndFrame
+300324AF 0001
+
+[Unlock Mission Montezuma's Revenge]
+Type = Gameshark
+Activation = EndFrame
+300324AD 0001
+
+[Unlock Mission Safe Passage]
+Type = Gameshark
+Activation = EndFrame
+300324B0 0001
+
+[Unlock Mission Shark Attack]
+Type = Gameshark
+Activation = EndFrame
+300324B4 0001
+
+[Unlock Mission Sub-Traficante]
+Type = Gameshark
+Activation = EndFrame
+300324AA 0001
+
+[Have All Subs]
+Type = Gameshark
+Activation = EndFrame
+8004400C 00FF
+
+[Collect Gold from Anywhere]
+Type = Gameshark
+Activation = EndFrame
+A7053356 10401400
+

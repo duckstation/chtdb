@@ -1,0 +1,22 @@
+; CHTDB: ; [ Mortal Kombat 3 (Japan) {SIPS-60006} ]
+
+[P1 Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+301CC1C0 00A6
+
+[P1 Infinite Run]
+Type = Gameshark
+Activation = EndFrame
+801EF1B8 C350
+
+[P2 One Hit Death]
+Type = Gameshark
+Activation = EndFrame
+A61CC218 00A60001
+
+[P2 Can't Run]
+Type = Gameshark
+Activation = EndFrame
+801EF1BC 0000
+

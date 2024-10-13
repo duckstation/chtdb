@@ -1,0 +1,105 @@
+; CHTDB: ; [ Tomoyasu Hotei: Stolen Song (Japan) (VPick Included) {SCPS-18007 | SCPS-18008} ]
+
+[Practice All]
+Type = Gameshark
+Activation = EndFrame
+301E219C 0008
+
+[Challenge Mode BATTLE OF GUITARISTS Score 999]
+Type = Gameshark
+Activation = EndFrame
+801E25E0 03E7
+
+[(I always win) wins score of 0 RIFF1]
+Type = Gameshark
+Activation = EndFrame
+801E2670 0000
+
+[Winning score of 0 RIFF2]
+Type = Gameshark
+Activation = EndFrame
+801E2674 0000
+
+[Easy Scoring]
+Type = Gameshark
+Activation = EndFrame
+801E2670 0000
+801E2674 0000
+
+[Max Gauge]
+Type = Gameshark
+Activation = EndFrame
+801E1734 0019
+
+[The degree of advance of the scene Scene 1]
+Type = Gameshark
+Activation = EndFrame
+801E14A4 0001
+
+[The degree of advance of the scene Scene 2]
+Type = Gameshark
+Activation = EndFrame
+801E14A4 0002
+
+[The degree of advance of the scene Scene 3]
+Type = Gameshark
+Activation = EndFrame
+801E14A4 0003
+
+[The degree of advance of the scene Scene 4]
+Type = Gameshark
+Activation = EndFrame
+801E14A4 0004
+
+[The degree of advance of the scene Scene 5]
+Type = Gameshark
+Activation = EndFrame
+801E14A4 0005
+
+[The degree of advance of the scene Scene 6]
+Type = Gameshark
+Activation = EndFrame
+801E14A4 0006
+
+[The degree of advance of the scene Scene 7]
+Type = Gameshark
+Activation = EndFrame
+801E14A4 0007
+
+[The degree of advance of the scene Scene 8]
+Type = Gameshark
+Activation = EndFrame
+801E14A4 0008
+
+[The degree of advance of the scene Scene 9]
+Type = Gameshark
+Activation = EndFrame
+801E14A4 0009
+
+[The degree of advance of the scene Scene 10]
+Type = Gameshark
+Activation = EndFrame
+801E14A4 000A
+
+[The degree of advance of the scene Scene 11]
+Type = Gameshark
+Activation = EndFrame
+801E14A4 000B
+
+[The degree of advance of the scene Scene 12]
+Type = Gameshark
+Activation = EndFrame
+801E14A4 000C
+
+[GUITAR RACK]
+Type = Gameshark
+Activation = EndFrame
+301E1188 0001
+301E118C 0001
+301E1190 0001
+301E1194 0001
+301E1198 0001
+301E119C 0001
+301E11A0 0001
+301E11A4 0001
+

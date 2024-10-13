@@ -1,0 +1,8 @@
+; CHTDB: ; [ Doki Doki Shutter Chance - Koi no Puzzle o Kumitatete (Jpn) (1997) (Nippon Ichi Software) {SLPS-01038} <dokishut> ]
+
+[Have All Pieces Of The Puzzle]
+Type = Gameshark
+Activation = EndFrame
+800E018A 0024
+800F7944 0024
+

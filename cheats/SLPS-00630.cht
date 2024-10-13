@@ -1,0 +1,40 @@
+; CHTDB: ; [ Rockman 8: Metal Heroes (Japan) {SLPS-00630} ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801C27C4 000A
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8015D6D6 6400
+
+[Infinite Balls]
+Type = Gameshark
+Activation = EndFrame
+801B1306 2800
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+3015D6FF 0011
+
+[Does not decrease the screw]
+Type = Gameshark
+Activation = EndFrame
+3016C744 0063
+
+[Infinite Special weapons energy]
+Type = Gameshark
+Activation = EndFrame
+301B1307 0028
+301B130B 0028
+301B130F 0028
+301B1313 0028
+301B1317 0028
+301B131B 0028
+301B131F 0028
+301B1323 0028
+301B1327 0028
+

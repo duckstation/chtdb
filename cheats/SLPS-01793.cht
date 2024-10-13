@@ -1,0 +1,50 @@
+; CHTDB: ; [ Initial D (Japan) {SLPS-01793} ]
+
+[Speed Boost Code .Press Select]
+Type = Gameshark
+Activation = EndFrame
+D00585B8 0100
+80193F52 0120
+
+[Always finish first]
+Type = Gameshark
+Activation = EndFrame
+80193B48 0001
+80193E68 0000
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80193E6C 0000
+
+[Opponent Car Damage Press circle-button]
+Type = Gameshark
+Activation = EndFrame
+D00585B8 0020
+80193C0A FFDE
+
+[Infinite Points]
+Type = Gameshark
+Activation = EndFrame
+8008544C 0000
+
+[Free-run mode all cars available]
+Type = Gameshark
+Activation = EndFrame
+90010AEC FFFFFFFF
+90010AF0 FFFFFFFF
+90010AF4 FFFFFFFF
+90010AF8 FFFFFFFF
+80010AFC FFFF
+
+[Free-run mode all courses can be selected]
+Type = Gameshark
+Activation = EndFrame
+90010B2C FFFFFFFF
+80010B30 FFFF
+
+[Enemy vehicles get stuck]
+Type = Gameshark
+Activation = EndFrame
+80193C32 0000
+

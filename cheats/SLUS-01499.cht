@@ -1,0 +1,17 @@
+; CHTDB: ; [ Turnabout (USA) (2002) (Natsume) {SLUS-01499} <trnabout> ]
+
+[Enable All Levels]
+Type = Gameshark
+Activation = EndFrame
+8015C188 0009
+
+[Puzzle Modifier 00-63 Enabled Last]
+Type = Gameshark
+Activation = EndFrame
+8015C1B8 0063
+
+[Always No Steps]
+Type = Gameshark
+Activation = EndFrame
+8015C1E4 0000
+

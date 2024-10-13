@@ -1,0 +1,35 @@
+; CHTDB: ; [ WarCraft II: The Dark Saga (Europe) {SLES-00878} ]
+
+[Max Gold In Mine]
+Type = Gameshark
+Activation = EndFrame
+8011EC86 FFFF
+
+[Tides Of Darkness\Orcs .The Tides of darkness codes for the ORCISH horde gives infinite credits while in scenarios for both races - Humans & Orcish.]
+Type = Gameshark
+Activation = EndFrame
+800101C4 FFFF
+80010184 FFFF
+80010204 FFFF
+
+[Tides Of Darkness\Humans]
+Type = Gameshark
+Activation = EndFrame
+80010188 FFFF
+800101C8 FFFF
+80010208 FFFF
+
+[Beyond The Dark Portal\Orcs]
+Type = Gameshark
+Activation = EndFrame
+800101D4 FFFF
+80010184 FFFF
+80010214 FFFF
+
+[Beyond The Dark Portal\Humans]
+Type = Gameshark
+Activation = EndFrame
+800101D8 FFFF
+80010198 FFFF
+80010218 FFFF
+

@@ -1,0 +1,40 @@
+; CHTDB: ; [ Tenchi wo Kurau II - Sekiheki no Tatakai (Jpn) (1996) (Capcom) {SLPS-00203} <tenchik2> ]
+
+[Credit MAX]
+Type = Gameshark
+Activation = EndFrame
+801E8214 0063
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+801E8F6E 0002
+801E8F70 3C00
+
+[Infinite Time (Boss)]
+Type = Gameshark
+Activation = EndFrame
+801E8F9E 6400
+
+[P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+301E8EF7 000F
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801E8FDE 0068
+801EE276 0068
+
+[P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+301E8EF8 000F
+
+[P2 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801E8FFE 0068
+801EE366 0068
+

@@ -1,0 +1,92 @@
+; CHTDB: ; [ Nickelodeon Rugrats: La BÃºsqueda de Reptar aka Rugrats: La BÃºsqueda de Reptar (Spain) {SLES-02049} ]
+
+[Have 12 puzzle pieces]
+Type = Gameshark
+Activation = EndFrame
+800C6BCC 0FFF
+
+[50 Reptar Bars]
+Type = Gameshark
+Activation = EndFrame
+800C6BD8 0127
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800E41FC 00FF
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+300C5979 0069
+
+[25 Globos Recogidos espejo al coger uno]
+Type = Gameshark
+Activation = EndFrame
+300E4201 0018
+
+[El Circo Angelicus Spike ha reunido 12 huesos]
+Type = Gameshark
+Activation = EndFrame
+800E4200 0C00
+
+[Infinite Battery]
+Type = Gameshark
+Activation = EndFrame
+800F622C 5800
+
+[La Carrera de las galletas / Tommy's Touchdown Once again only eat / drink]
+Type = Gameshark
+Activation = EndFrame
+800C60E6 0001
+
+[Los viajes de Cynthia Bone spikes Max]
+Type = Gameshark
+Activation = EndFrame
+800E41FC 00FF
+
+[La Montaña del helado Hole 1 Always hole in one]
+Type = Gameshark
+Activation = EndFrame
+300E420E 0001
+
+[La Montaña del helado Hole 2 Always hole in one]
+Type = Gameshark
+Activation = EndFrame
+300E420F 0001
+
+[La Montaña del helado Hole 3 Always hole in one]
+Type = Gameshark
+Activation = EndFrame
+300E4210 0001
+
+[La Montaña del helado Hole 4 Always hole in one]
+Type = Gameshark
+Activation = EndFrame
+300E4211 0001
+
+[La Montaña del helado Hole 5 Always hole in one]
+Type = Gameshark
+Activation = EndFrame
+300E4212 0001
+
+[La Montaña del helado Hole 6 Always hole in one]
+Type = Gameshark
+Activation = EndFrame
+300E4213 0001
+
+[La Montaña del helado Hole 7 Always hole in one]
+Type = Gameshark
+Activation = EndFrame
+300E4214 0001
+
+[La Montaña del helado Hole 8 Always hole in one]
+Type = Gameshark
+Activation = EndFrame
+300E4215 0001
+
+[La Montaña del helado Hole 9 Always hole in one]
+Type = Gameshark
+Activation = EndFrame
+300E4216 0001
+

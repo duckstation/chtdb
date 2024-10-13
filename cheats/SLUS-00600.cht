@@ -1,0 +1,34 @@
+; CHTDB: ; [ Kensei - Sacred Fist (USA) (1998) (Konami of America) {SLUS-00600} <kensei> ]
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800C4D70 0090
+800CE25C 00C0
+
+[P2 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800C4D86 0090
+800CF5F8 00C0
+
+[Extra Characters]
+Type = Gameshark
+Activation = EndFrame
+90010588 003FFFFF
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A70C7F40 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A70C7F40 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A70C7F40 10000400
+

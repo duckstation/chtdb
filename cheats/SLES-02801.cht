@@ -1,0 +1,27 @@
+; CHTDB: ; [ Alone in the Dark: The New Nightmare (Europe) {SLES-02801 | SLES-12801} ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801450D8 0064
+
+[Invulnerable]
+Type = Gameshark
+Activation = EndFrame
+8002151E 2400
+
+[Infinite Ammo all weapons]
+Type = Gameshark
+Activation = EndFrame
+8003EE94 0000
+
+[Infinite Revolver Ammo]
+Type = Gameshark
+Activation = EndFrame
+801452C8 000C
+
+[Infinite Charm Of Saving (on pickup)]
+Type = Gameshark
+Activation = EndFrame
+8003F32A 0000
+

@@ -1,0 +1,14 @@
+; CHTDB: ; [ Jigsaw Island: Japan Graffiti (Japan) {SLPS-00473} ]
+
+[Have 2 Out Of 3 Puzzles Completed In Story Mode]
+Type = Gameshark
+Activation = EndFrame
+800E6BE0 0002
+
+[Enable Debug Menu]
+Type = Gameshark
+Activation = EndFrame
+30086AA8 0000
+D0086FF8 0100
+30086FBC 0000
+

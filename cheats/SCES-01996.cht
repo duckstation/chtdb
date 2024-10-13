@@ -1,0 +1,12 @@
+; CHTDB: ; [ Tiny Toon Adventures: Buster and the Beanstalk (Europe) (Promo) {SCES-01996} ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80016F70 0000
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800406A8 0001
+

@@ -1,0 +1,35 @@
+; CHTDB: ; [ SuperCross Circuit (USA) (1999) (989 Sports) {SCUS-94453} <scircuit> ]
+
+[Infinite Cash - Career Mode]
+Type = Gameshark
+Activation = EndFrame
+800522D8 FFFF
+
+[1st Place Freezer]
+Type = Gameshark
+Activation = EndFrame
+E005D1AD 0001
+80031DD2 2400
+E005D1AD 0000
+80031DD2 A043
+
+[Unlock All Series]
+Type = Gameshark
+Activation = EndFrame
+800522E0 0105
+
+[Stop Race Timer]
+Type = Gameshark
+Activation = EndFrame
+80042072 2400
+
+[Max Season Points]
+Type = Gameshark
+Activation = EndFrame
+80052318 FFFF
+
+[Have All Bonus Game Options Open]
+Type = Gameshark
+Activation = EndFrame
+300520FC 00FF
+

@@ -1,0 +1,17 @@
+; CHTDB: ; [ Korokoro Post Nin (Jpn) (2002) (Media Entertainment) {SLPS-03479} <koropost> ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800FA156 0BB8
+
+[Max Pts]
+Type = Gameshark
+Activation = EndFrame
+800FA160 FFFF
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800FA154 0064
+

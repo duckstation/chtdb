@@ -1,0 +1,30 @@
+; CHTDB: ; [ Swagman (USA) (1997) (Eidos Interactive) {SLUS-00151} <swagman> ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80109008 0005
+
+[Moon Jump]
+Type = Gameshark
+Activation = EndFrame
+D010906E 007F
+800CDE3C 5000
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800CDFB0 0028
+
+[Push Triangle For 99 Scarabs]
+Type = Gameshark
+Activation = EndFrame
+D0109080 007F
+80108D96 0063
+
+[Push R2 For 99 Bombs]
+Type = Gameshark
+Activation = EndFrame
+D0108DA4 7F00
+80108D00 0063
+

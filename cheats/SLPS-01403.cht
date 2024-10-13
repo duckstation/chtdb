@@ -1,0 +1,57 @@
+; CHTDB: ; [ Colony Wars (Japan) {SLPS-01403 | SLPS-01404} ]
+
+[Own machine shield]
+Type = Gameshark
+Activation = EndFrame
+30045564 00C8
+
+[Own machine durability]
+Type = Gameshark
+Activation = EndFrame
+30045568 00C8
+
+[Heat Gauge 0]
+Type = Gameshark
+Activation = EndFrame
+8011773C 0000
+80117770 0000
+801177A4 0000
+801177D8 0000
+
+[Infinite Laser Attack]
+Type = Gameshark
+Activation = EndFrame
+8011776C 0000
+80117774 0000
+
+[Infinite L.A. Laser Attack]
+Type = Gameshark
+Activation = EndFrame
+8011773C 0000
+80117740 0000
+
+[Infinite Electric Attack]
+Type = Gameshark
+Activation = EndFrame
+801177B0 0006
+
+[Level Select]
+Type = Gameshark
+Activation = EndFrame
+30011215 0001
+
+[Invincibility shield]
+Type = Gameshark
+Activation = EndFrame
+30011214 0001
+
+[Invincibility weapon]
+Type = Gameshark
+Activation = EndFrame
+80011216 0101
+
+[Restart Game / Pilot Stat]
+Type = Gameshark
+Activation = EndFrame
+3001120B 0001
+

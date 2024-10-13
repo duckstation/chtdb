@@ -1,0 +1,30 @@
+; CHTDB: ; [ Shin Nihon Pro Wrestling: Toukon Retsuden (Japan) {SLPS-00084} ]
+
+[P1 always in fighting spirit rush state]
+Type = Gameshark
+Activation = EndFrame
+80082D7C 0012
+
+[P2 always in fighting spirit rush state]
+Type = Gameshark
+Activation = EndFrame
+80083300 001A
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A702C634 10000C00
+A702C6C8 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A702C634 10000900
+A702C6C8 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A702C634 10000400
+A702C6C8 10000400
+

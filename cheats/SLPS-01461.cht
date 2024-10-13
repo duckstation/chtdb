@@ -1,0 +1,13 @@
+; CHTDB: ; [ Spin Tail (Japan) {SLPS-01461} ]
+
+[P1 Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+80099DCC 0005
+
+[P1 Infinite Live]
+Type = Gameshark
+Activation = EndFrame
+9008D948 00630063
+80099DC8 0063
+

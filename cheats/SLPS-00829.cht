@@ -1,0 +1,32 @@
+; CHTDB: ; [ Riot Stars (Jpn) (1997) (Hect) {SLPS-00829} <riotstar> ]
+
+[Infinite Energy Character 1]
+Type = Gameshark
+Activation = EndFrame
+8015A23C 0063
+
+[Infinite Energy Character 2 (Group 1 Leader)]
+Type = Gameshark
+Activation = EndFrame
+8015A05C 0063
+
+[Infinite Energy Character 3]
+Type = Gameshark
+Activation = EndFrame
+8015A2B4 0063
+
+[Infinite Energy Character 4]
+Type = Gameshark
+Activation = EndFrame
+8015A32C 0063
+
+[Infinite Energy Character 5 (Group 2 Leader)]
+Type = Gameshark
+Activation = EndFrame
+8015A0D4 0063
+
+[Infinite Energy Character 6]
+Type = Gameshark
+Activation = EndFrame
+8015A3A4 0063
+

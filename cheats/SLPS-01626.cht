@@ -1,0 +1,55 @@
+; CHTDB: ; [ Himitsu Sentai Metamor V Deluxe (Jpn, Disc 1 Only) (1998) (Mycom) {SLPS-01626} <metamorv> ]
+
+[Have all 5 hearts with brown hair girl]
+Type = Gameshark
+Activation = EndFrame
+801F7002 03E7
+
+[Have all 5 hearts with green hair girl]
+Type = Gameshark
+Activation = EndFrame
+801F7004 03E7
+
+[Have all 5 hearts with pink hair girl]
+Type = Gameshark
+Activation = EndFrame
+801F7006 03E7
+
+[Have all 5 hearts with blue hair girl]
+Type = Gameshark
+Activation = EndFrame
+801F7000 03E7
+
+[Have 900 energy in battle]
+Type = Gameshark
+Activation = EndFrame
+80073F72 0384
+
+[All Keyword]
+Type = Gameshark
+Activation = EndFrame
+901F7018 01010101
+901F701C 01010101
+901F7020 01010101
+
+[All Metamorphosis Book]
+Type = Gameshark
+Activation = EndFrame
+801F7206 0101
+901F7208 01010101
+901F720C 01010101
+901F7210 01010101
+901F7214 01010101
+801F7218 0101
+
+[All Endings]
+Type = Gameshark
+Activation = EndFrame
+901F7200 01010101
+801F7204 0101
+
+[Mortal blow]
+Type = Gameshark
+Activation = EndFrame
+A603566E 00430000
+

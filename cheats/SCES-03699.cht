@@ -1,0 +1,43 @@
+; CHTDB: ; [ Syphon Filter 3 (Germany) (Platinum) {SCES-03699} ]
+
+[Alle Missionen freigeschaltet]
+Type = Gameshark
+Activation = EndFrame
+3011FC22 0005
+
+[Alle Cheats & Mini-Spiel freigeschaltet]
+Type = Gameshark
+Activation = EndFrame
+80172A1C 2DC8
+
+[Unendlich Gesundheit]
+Type = Gameshark
+Activation = EndFrame
+800D3CC0 4EFC
+
+[Unendlich Gesundheit (Alt)]
+Type = Gameshark
+Activation = EndFrame
+D0005414 EA13
+8000541C 42E8
+D0005414 EA13
+8000541E 64AA
+D0005414 EA13
+80005412 E476
+
+[Unendlich Panzer]
+Type = Gameshark
+Activation = EndFrame
+800D3EBC D246
+
+[Unendlich Munition]
+Type = Gameshark
+Activation = EndFrame
+80039686 36D8
+
+[Zeit Nimmt zu (Drücke L1 & L2 & Dreieck Pad 2]
+Type = Gameshark
+Activation = EndFrame
+D01755E9 073E
+80001B37 75FC
+

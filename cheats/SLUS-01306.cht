@@ -1,0 +1,34 @@
+; CHTDB: ; [ M&M's - Shell Shocked (USA) (2001) (Simon & Schuster Interactive) {SLUS-01306} <mmshell> ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8006873C 0009
+
+[Maximum M+M]
+Type = Gameshark
+Activation = EndFrame
+80068742 0063
+
+[Max Minis Rescued]
+Type = Gameshark
+Activation = EndFrame
+80068742 03E7
+80068744 03E7
+
+[Max Worth]
+Type = Gameshark
+Activation = EndFrame
+8003FDDC 0063
+
+[All Levels Unlocked]
+Type = Gameshark
+Activation = EndFrame
+30068748 001B
+
+[Cheat God Mode]
+Description = Triangle=Reset M+M, L2=VRAM Viewer, R1=Add Life, R2=Skip Level
+Type = Gameshark
+Activation = EndFrame
+80068820 0004
+

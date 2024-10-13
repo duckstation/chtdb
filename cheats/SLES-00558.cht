@@ -1,0 +1,22 @@
+; CHTDB: ; [ Descent II aka Descent 2 (Europe) {SLES-00558} ]
+
+[Infinite Energy (.This code provides you with an amount of about 100000 extra points on the scoreboard at the end of each level!)]
+Type = Gameshark
+Activation = EndFrame
+800E80C6 2710
+
+[Infinite Shields]
+Type = Gameshark
+Activation = EndFrame
+800380CA 0064
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+300E80CC 000A
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+300E80C0 0001
+

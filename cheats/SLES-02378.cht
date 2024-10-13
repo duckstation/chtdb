@@ -1,0 +1,14 @@
+; CHTDB: ; [ Army Men 3D (Europe) {SLES-02378} ]
+
+[Infinite Ammo All Weapons/Items]
+Type = Gameshark
+Activation = EndFrame
+800576A6 3C00
+80058512 3C00
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80042206 2402
+80062204 0080
+

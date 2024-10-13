@@ -1,0 +1,65 @@
+; CHTDB: ; [ Jeremy McGrath Supercross 2000 (USA) (2000) (Acclaim Entertainment) {SLUS-00832} <jmg2k> ]
+
+[P1 Always 1st]
+Type = Gameshark
+Activation = EndFrame
+800925D4 0000
+
+[P1 Max Points]
+Type = Gameshark
+Activation = EndFrame
+80093A80 0378
+
+[Start On Lap 5]
+Type = Gameshark
+Activation = EndFrame
+800925DC 0004
+
+[Unlock Table Top]
+Type = Gameshark
+Activation = EndFrame
+8009410C 0001
+
+[Unlock Chasm]
+Type = Gameshark
+Activation = EndFrame
+80094110 0001
+
+[Unlock Jim Jam]
+Type = Gameshark
+Activation = EndFrame
+80094114 0001
+
+[Unlock Moon]
+Type = Gameshark
+Activation = EndFrame
+80094118 0001
+
+[Unlock All Stunt Tracks]
+Type = Gameshark
+Activation = EndFrame
+50000404 0000
+8009410C 0001
+
+[Unlock All Series]
+Type = Gameshark
+Activation = EndFrame
+80094138 0005
+
+[Crazy Bikers Press L1]
+Type = Gameshark
+Activation = EndFrame
+C0096FA8 0400
+800B58CC 0008
+800B5C28 0008
+800B5F84 0008
+800B62E0 0008
+800B663C 0008
+00000000 FFFF
+
+[P1 Quick Win]
+Type = Gameshark
+Activation = EndFrame
+800925D4 0000
+A60925DC 00000004
+

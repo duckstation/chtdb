@@ -1,0 +1,46 @@
+; CHTDB: ; [ Black Dawn (Europe) {SLES-00407} ]
+
+[Armour]
+Type = Gameshark
+Activation = EndFrame
+8006048C 0064
+
+[Fuel]
+Type = Gameshark
+Activation = EndFrame
+8006048A 0575
+
+[Missiles]
+Type = Gameshark
+Activation = EndFrame
+80060554 0063
+3006055E 0005
+
+[Rockets]
+Type = Gameshark
+Activation = EndFrame
+80060556 0063
+3006055F 0005
+
+[Napalm]
+Type = Gameshark
+Activation = EndFrame
+80060558 0063
+30060560 0005
+
+[Nuclearbombs]
+Type = Gameshark
+Activation = EndFrame
+8006055A 0063
+30060561 0005
+
+[Secret]
+Type = Gameshark
+Activation = EndFrame
+8006055C 0063
+
+[Weapon]
+Type = Gameshark
+Activation = EndFrame
+30060562 0005
+

@@ -1,0 +1,163 @@
+; CHTDB: ; [ Independence Day: The Game (Europe) {SLES-00607} ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800BDB1C 003B
+
+[Mission Select (Press L1 & L2 At Recon Mission Screen)]
+Type = Gameshark
+Activation = EndFrame
+D00D5F0C 0005
+800BA758 0000
+
+[Grand Canyon No Damage]
+Type = Gameshark
+Activation = EndFrame
+D00D5F0C 0040
+800D1754 015C
+
+[Grand Cannyon Infinite Missiles]
+Type = Gameshark
+Activation = EndFrame
+D00D5F0C 0040
+800D1772 0014
+
+[Washington D.C. No Damage]
+Type = Gameshark
+Activation = EndFrame
+D00D5F0C 0040
+800CC380 015C
+
+[Washington Dc Infinite Missiles]
+Type = Gameshark
+Activation = EndFrame
+D00D5F0C 0040
+800CC39E 0014
+
+[New York No Damage]
+Type = Gameshark
+Activation = EndFrame
+D00D5F0C 0040
+800CEC7C 015C
+
+[New York Infinite Missiles]
+Type = Gameshark
+Activation = EndFrame
+D00D5F0C 0040
+800CEC9A 0014
+
+[Cape Canaveral No Damage]
+Type = Gameshark
+Activation = EndFrame
+D00D5F0C 0040
+800D183C 015C
+
+[Cape Canaveral Infinite Missiles]
+Type = Gameshark
+Activation = EndFrame
+D00D5F0C 0040
+800D185A 0014
+
+[Paris No Damage]
+Type = Gameshark
+Activation = EndFrame
+D00D5F0C 0040
+800CC364 015C
+
+[Paris Infinite Missiles]
+Type = Gameshark
+Activation = EndFrame
+D00D5F0C 0040
+800CC382 0063
+
+[Moscow No Damage]
+Type = Gameshark
+Activation = EndFrame
+D00D5F0C 0040
+800C4FB0 015C
+
+[Moscow Infinite Missiles]
+Type = Gameshark
+Activation = EndFrame
+D00D5F0C 0040
+800C4FCE 0014
+
+[Nakhoda No Damage]
+Type = Gameshark
+Activation = EndFrame
+D00D5F0C 0040
+800D0E80 015C
+
+[Nakhoda Infinite Missiles]
+Type = Gameshark
+Activation = EndFrame
+D00D5F0C 0040
+800D0E9E 0014
+
+[Tokyo No Damage]
+Type = Gameshark
+Activation = EndFrame
+D00D5F0C 0040
+800CF0B8 015C
+
+[Tokio Infinite Missiles]
+Type = Gameshark
+Activation = EndFrame
+D00D5F0C 0040
+800CF0D6 0014
+
+[Oahu No Damage]
+Type = Gameshark
+Activation = EndFrame
+D00D5F0C 0040
+800CC524 015C
+
+[Oahu Infinite Missiles]
+Type = Gameshark
+Activation = EndFrame
+D00D5F0C 0040
+800CC542 0014
+
+[Antarctic No Damage]
+Type = Gameshark
+Activation = EndFrame
+D00D5F0C 0040
+800D0F68 015C
+
+[Antartic Infinite Missiles]
+Type = Gameshark
+Activation = EndFrame
+D00D5F0C 0040
+800D0F86 0014
+
+[Las Vegas No Damage]
+Type = Gameshark
+Activation = EndFrame
+D00D5F0C 0040
+800CE88C 015C
+
+[Las Vegas Infinite Missiles]
+Type = Gameshark
+Activation = EndFrame
+D00D5F0C 0040
+800CE8AA 0014
+
+[Area 51 No Damage]
+Type = Gameshark
+Activation = EndFrame
+D00D5F0C 0040
+800D0044 015C
+
+[Area 51 Infinite Missiles]
+Type = Gameshark
+Activation = EndFrame
+D00D5F0C 0040
+800D0062 0014
+
+[Mothership No Damage]
+Type = Gameshark
+Activation = EndFrame
+D00D5F0C 0040
+800D1E14 01C5
+

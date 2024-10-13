@@ -1,0 +1,28 @@
+; CHTDB: ; [ Saban's Power Rangers - Time Force (USA) (2001) (THQ) {SLUS-01351} <prtf> ]
+
+[Extra Lives]
+Type = Gameshark
+Activation = EndFrame
+80091960 0001
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+90095AD0 240200FF
+90095AD4 A48200BC
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800919C6 2400
+
+[Infinite Special]
+Type = Gameshark
+Activation = EndFrame
+8009C616 2400
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800C9B1E 0FFF
+

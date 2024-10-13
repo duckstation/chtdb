@@ -1,0 +1,17 @@
+; CHTDB: ; [ Hot Shot (Europe) {SLES-04050} ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800845F8 0009
+
+[Only One Hit To Complet Level 1]
+Type = Gameshark
+Activation = EndFrame
+800747D8 0001
+
+[Only One Hit to Destroy Tank]
+Type = Gameshark
+Activation = EndFrame
+8003D4AC 0001
+

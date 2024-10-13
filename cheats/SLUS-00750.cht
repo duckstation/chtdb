@@ -1,0 +1,17 @@
+; CHTDB: ; [ Rosco McQueen Firefighter Extreme (USA) (1998) (Psygnosis) {SLUS-00750} <mcqueen> ]
+
+[Infinite Energy (Laundry 1)]
+Type = Gameshark
+Activation = EndFrame
+80030BA0 0064
+
+[Infinite Energy (Harold 1)]
+Type = Gameshark
+Activation = EndFrame
+80035120 0064
+
+[Infinite Water (Laundry 1)]
+Type = Gameshark
+Activation = EndFrame
+80030C24 0820
+

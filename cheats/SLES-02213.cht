@@ -1,0 +1,34 @@
+; CHTDB: ; [ Glover (Europe) {SLES-02213} ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+300D2E7D 0003
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8004B736 3C00
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800D2E84 3C00
+
+[Moon Jump (Press L2 right after the jump)]
+Type = Gameshark
+Activation = EndFrame
+E00C2801 0001
+800C2A14 C300
+
+[Max Score]
+Type = Gameshark
+Activation = EndFrame
+800C2B82 0098
+
+[Have all cards]
+Type = Gameshark
+Activation = EndFrame
+C20C2C94 0001
+300C2C70 0000
+

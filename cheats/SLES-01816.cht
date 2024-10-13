@@ -1,0 +1,308 @@
+; CHTDB: ; [ Driver (Europe) {SLES-01816} ]
+
+[No Damage]
+Type = Gameshark
+Activation = EndFrame
+8009AC5C 0000
+8009D308 0000
+
+[No Damage In Car Park Test]
+Type = Gameshark
+Activation = EndFrame
+801E35B8 0000
+
+[Stop Clock]
+Type = Gameshark
+Activation = EndFrame
+801E4278 0018
+800C6BD2 0001
+
+[Felony Meter Always At 0]
+Type = Gameshark
+Activation = EndFrame
+80097144 0000
+
+[All Tracks]
+Type = Gameshark
+Activation = EndFrame
+80096234 0004
+
+[Enable Invincibility Cheat]
+Type = Gameshark
+Activation = EndFrame
+80096270 0001
+
+[Enable No Police/Immunity Cheat]
+Type = Gameshark
+Activation = EndFrame
+80096274 0001
+
+[Lowered Suspension]
+Type = Gameshark
+Activation = EndFrame
+50000404 0000
+3009AB58 0040
+
+[Dune Buggy Suspension]
+Type = Gameshark
+Activation = EndFrame
+9009A980 FF3F00FF
+8009A984 015E
+9009A988 FF0000FF
+8009A98C FEDE
+9009A990 FF3FFF00
+8009A994 015E
+9009A998 FF00FF00
+8009A99C FEDE
+
+[Tornado Mode]
+Type = Gameshark
+Activation = EndFrame
+8009AA4C 2BBA
+8009AA54 F2AA
+8009AA5C 4DA7
+8009AA64 D1EE
+8009AAAC 2BBA
+8009AAB4 F2AA
+8009AABC 4DA7
+8009AAC4 D1EE
+
+[Max Score]
+Type = Gameshark
+Activation = EndFrame
+801E4018 FFFF
+
+[Training Mode-Have 0 Penalties]
+Type = Gameshark
+Activation = EndFrame
+80096E98 0000
+
+[Press R1 + R2 To Lose Cops]
+Type = Gameshark
+Activation = EndFrame
+E0096F80 000A
+800C4FF0 0000
+
+[Dirt Track 1 Start On Final Lap]
+Type = Gameshark
+Activation = EndFrame
+A60C6A14 00000005
+
+[Dirt Track 2 Start On Final Lap]
+Type = Gameshark
+Activation = EndFrame
+A60C6A14 00000004
+
+[Dirt Track 3 Start On Final Lap]
+Type = Gameshark
+Activation = EndFrame
+A60C6A14 00000003
+
+[Dirt Track 4 Start On Final Lap]
+Type = Gameshark
+Activation = EndFrame
+A60C6A14 00000002
+
+[Have Burnout Complete]
+Type = Gameshark
+Activation = EndFrame
+301E35A0 003C
+
+[Have Hand Brake Complete]
+Type = Gameshark
+Activation = EndFrame
+301E35A1 003C
+
+[Have Slalom Complete]
+Type = Gameshark
+Activation = EndFrame
+301E35A2 003C
+
+[Have 180° Complete]
+Type = Gameshark
+Activation = EndFrame
+301E35A3 003C
+
+[Have 360° Complete]
+Type = Gameshark
+Activation = EndFrame
+301E35A4 003C
+
+[Have Reverse 180° Complete]
+Type = Gameshark
+Activation = EndFrame
+301E35A5 003C
+
+[Have Speed Complete]
+Type = Gameshark
+Activation = EndFrame
+301E35A6 003C
+
+[Have Brake Complete]
+Type = Gameshark
+Activation = EndFrame
+301E35A7 003C
+
+[Have Lap Complete]
+Type = Gameshark
+Activation = EndFrame
+301E35A8 003C
+
+[Have All Tests Complete]
+Type = Gameshark
+Activation = EndFrame
+50000901 0000
+301E35A0 003C
+
+[Unlock Invincibility Cheat]
+Type = Gameshark
+Activation = EndFrame
+900861A8 FFFFFFFE
+
+[Unlock Immune Cheat]
+Type = Gameshark
+Activation = EndFrame
+900861E0 FFFFFFFE
+
+[Unlock Rear Wheel Cheat]
+Type = Gameshark
+Activation = EndFrame
+90086218 FFFFFFFE
+
+[Unlock Stilts Cheat]
+Type = Gameshark
+Activation = EndFrame
+90086288 FFFFFFFE
+
+[Unlock Mini Cars Cheat]
+Type = Gameshark
+Activation = EndFrame
+90086250 FFFEFFFE
+
+[Unlock Antipodean Cheat]
+Type = Gameshark
+Activation = EndFrame
+900862F8 FFFFFFFE
+
+[Unlock View Credits Cheat]
+Type = Gameshark
+Activation = EndFrame
+90086170 FFFFFFFE
+
+[Drive Thru Walls]
+Type = Gameshark
+Activation = EndFrame
+8004B7E2 1000
+
+[No Engine Noise]
+Type = Gameshark
+Activation = EndFrame
+8009AC60 0000
+
+[Level Modifier (Survival Etc) Up For La & Right For Ny]
+Type = Gameshark
+Activation = EndFrame
+801CDF30 0003
+
+[Level Modifier - Pursuit Etc (0-F)]
+Type = Gameshark
+Activation = EndFrame
+801CE264 000F
+
+[Always Play Mission Modifier (00-2C)]
+Type = Gameshark
+Activation = EndFrame
+8009625C 002C
+
+[Rear Wheel Cheat On]
+Type = Gameshark
+Activation = EndFrame
+8009D320 0001
+
+[Rear Wheel Cheat Off]
+Type = Gameshark
+Activation = EndFrame
+8009D320 0000
+
+[Minis Cheat On]
+Type = Gameshark
+Activation = EndFrame
+8009D318 0001
+
+[Minis Cheat Off]
+Type = Gameshark
+Activation = EndFrame
+8009D318 0000
+
+[Stilts Cheat On]
+Type = Gameshark
+Activation = EndFrame
+8009D320 0001
+
+[Stilts Cheat Off]
+Type = Gameshark
+Activation = EndFrame
+8009D320 0000
+
+[Antipodean Cheat On]
+Type = Gameshark
+Activation = EndFrame
+8009D328 0001
+
+[Antipodean Cheat Off]
+Type = Gameshark
+Activation = EndFrame
+8009D328 0000
+
+[Music Volume Max]
+Type = Gameshark
+Activation = EndFrame
+800966E4 0000
+
+[Music Volume Zero]
+Type = Gameshark
+Activation = EndFrame
+800966E4 D8F0
+
+[Enemy Cars Are Dead]
+Type = Gameshark
+Activation = EndFrame
+8009CFF0 3DAB
+
+[Drive Thru Walls-Works Alot Better!]
+Type = Gameshark
+Activation = EndFrame
+8004AD02 1000
+
+[No Surface Damage]
+Type = Gameshark
+Activation = EndFrame
+50000D02 0000
+8009ABF4 0000
+
+[No Traffic]
+Type = Gameshark
+Activation = EndFrame
+800961FC 0000
+
+[60 Frames Per Second]
+Type = Gameshark
+Activation = EndFrame
+80096378 0000
+
+[Schizophrenic Police]
+Type = Gameshark
+Activation = EndFrame
+80097144 7F00
+
+[Turbo Boost (L1+X)]
+Type = Gameshark
+Activation = EndFrame
+E0096B38 0044
+8009ABD0 FFFF
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+8008A48C 1333
+

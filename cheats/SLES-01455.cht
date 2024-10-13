@@ -1,0 +1,22 @@
+; CHTDB: ; [ NBA Live 99 (Germany) {SLES-01455} ]
+
+[100 Punkte Heimmannschaft]
+Type = Gameshark
+Activation = EndFrame
+800911BC 0064
+
+[0 Punkte Heimmannschaft]
+Type = Gameshark
+Activation = EndFrame
+800911BC 0000
+
+[100 Punkte Gastmannschaft]
+Type = Gameshark
+Activation = EndFrame
+8009FD5C 0064
+
+[0 Punkte Gastmannschaft]
+Type = Gameshark
+Activation = EndFrame
+8009FD5C 0000
+

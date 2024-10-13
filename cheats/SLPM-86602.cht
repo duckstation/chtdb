@@ -1,0 +1,12 @@
+; CHTDB: ; [ Blade Arts - Tasogare no Miyako R'lyeh (Jpn) (2000) (Enix) {SLPM-86602} <bladeart> ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+300D3F94 00C8
+
+[Infinite Sphere nerves (99999)]
+Type = Gameshark
+Activation = EndFrame
+9015DA44 0001869F
+

@@ -1,0 +1,52 @@
+; CHTDB: ; [ Space Invaders (USA) (1999) (Activision) {SLUS-00928} <spaceinv> ]
+
+[P1 Max Score]
+Type = Gameshark
+Activation = EndFrame
+A60EF6CC 0000FFFF
+
+[P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800EF6C8 FF63
+
+[P1 Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800EF6C0 004A
+
+[P2 Max Score]
+Type = Gameshark
+Activation = EndFrame
+A60EF798 0000FFFF
+
+[P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800EF794 FF63
+
+[P2 Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800EF78C 004A
+
+[Add A Life (Both Players)]
+Type = Gameshark
+Activation = EndFrame
+8005DB30 0001
+
+[Infinite Lives (Both Players)]
+Type = Gameshark
+Activation = EndFrame
+8005DB3A 2400
+
+[Infinite Continue Time]
+Type = Gameshark
+Activation = EndFrame
+8003DF36 2400
+
+[Enable Classic Mode]
+Type = Gameshark
+Activation = EndFrame
+800A3A96 0100
+

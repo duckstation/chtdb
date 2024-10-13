@@ -1,0 +1,67 @@
+; CHTDB: ; [ Vigilante 8 (Germany) {SLES-01214} ]
+
+[Alle Tracks Freigeschaltet]
+Type = Gameshark
+Activation = EndFrame
+90065C28 1F1F1F1F
+90065C2C 1F1F1F1F
+90065C30 1F1F1F1F
+
+[Unendlich Munition]
+Type = Gameshark
+Activation = EndFrame
+900331C4 00000000
+90032228 00000000
+90034B7C 00000000
+900358C8 00000000
+9003BAD8 00000000
+9003388C 00000000
+
+[Alle Charaktere freigeschaltet-Arcade (Druecke Select & L2 & R2)]
+Type = Gameshark
+Activation = EndFrame
+D00CFACA FCFE
+3006A925 0002
+
+[Alle Cheats aus (Druecke L1 & L2 & R1 & R2)]
+Type = Gameshark
+Activation = EndFrame
+D00CFACA F0FF
+50000202 0000
+8006A924 0000
+
+[Alle FMVs (Druecke Select & Dreieck)]
+Type = Gameshark
+Activation = EndFrame
+D00CFACA EFFE
+3006A924 0010
+
+[Alle Original-V8 Level freigeschaltet]
+Type = Gameshark
+Activation = EndFrame
+3006A926 0010
+
+[Hoehergelegt (Druecke Select & R2)]
+Type = Gameshark
+Activation = EndFrame
+D00CFACA FDFE
+3006A926 0004
+
+[Leichtes Auto (Druecke Select & L1 & R2)]
+Type = Gameshark
+Activation = EndFrame
+D00CFACA F9FE
+3006A926 0008
+
+[Mehr Zerstoerungskraft (Druecke Select & Rechts)]
+Type = Gameshark
+Activation = EndFrame
+D00CFACA FFDE
+3006A925 0004
+
+[Monster-Reifen (Druecke Select & Links)]
+Type = Gameshark
+Activation = EndFrame
+D00CFACA FF7E
+3006A924 0001
+

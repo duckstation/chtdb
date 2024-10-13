@@ -1,0 +1,22 @@
+; CHTDB: ; [ Shusse Mahjong Daisettai (Japan) {SLPS-00276} ]
+
+[Player has 99999 points]
+Type = Gameshark
+Activation = EndFrame
+9013AB38 0001869F
+
+[Opponent 1 has 0 points]
+Type = Gameshark
+Activation = EndFrame
+8013AB44 0000
+
+[Opponent 2 has 0 points]
+Type = Gameshark
+Activation = EndFrame
+8013AB40 0000
+
+[Opponent 3 has 0 points]
+Type = Gameshark
+Activation = EndFrame
+8013AB3C 0000
+

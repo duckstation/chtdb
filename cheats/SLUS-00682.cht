@@ -1,0 +1,7 @@
+; CHTDB: ; [ Jeopardy! (USA) (1998) (Hasbro Interactive) {SLUS-00682} <jeopardy> ]
+
+[Have Max Money Points]
+Type = Gameshark
+Activation = EndFrame
+8009C300 FFFF
+

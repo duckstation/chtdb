@@ -1,0 +1,33 @@
+; CHTDB: ; [ Crusader - No Remorse (USA) (1996) (Electronic Arts) {SLUS-00268} <crusader> ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801457D0 0078
+
+[Infinite Batteries + Energy Cells]
+Type = Gameshark
+Activation = EndFrame
+80145776 000A
+
+[Infinite Datalinks]
+Description = Useless,only need one
+Type = Gameshark
+Activation = EndFrame
+80145766 000A
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+801457D8 FFFF
+
+[Infinite Medi Kits]
+Type = Gameshark
+Activation = EndFrame
+80145772 000A
+
+[Infinite Landmines]
+Type = Gameshark
+Activation = EndFrame
+8014576A 000A
+

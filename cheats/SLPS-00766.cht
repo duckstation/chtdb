@@ -1,0 +1,27 @@
+; CHTDB: ; [ X2 - No Relief (Jpn) (1997) (Capcom) {SLPS-00766} <x2> ]
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+80017FE6 1000
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801E997E 008C
+
+[P2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801E9B1E 008C
+
+[P1 Infinite Bombs]
+Type = Gameshark
+Activation = EndFrame
+801EBC8C 0003
+
+[P2 Infinite Bombs]
+Type = Gameshark
+Activation = EndFrame
+801EC32C 0003
+

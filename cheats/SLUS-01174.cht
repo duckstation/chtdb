@@ -1,0 +1,44 @@
+; CHTDB: ; [ Wheel of Fortune - 2nd Edition (USA) (2000) (Hasbro Interactive) {SLUS-01174} <wheelfr2> ]
+
+[P1 Max Cash]
+Type = Gameshark
+Activation = EndFrame
+900B7DF8 0001869F
+
+[P1 No Cash]
+Type = Gameshark
+Activation = EndFrame
+800B7DF8 0000
+
+[P2 Max Cash]
+Type = Gameshark
+Activation = EndFrame
+900B7E18 0001869F
+
+[P2 No Cash]
+Type = Gameshark
+Activation = EndFrame
+800B7E18 0000
+
+[P3 Max Cash]
+Type = Gameshark
+Activation = EndFrame
+900B7E38 0001869F
+
+[P3 No Cash]
+Type = Gameshark
+Activation = EndFrame
+800B7E38 0000
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800B7B50 002E
+800B7B54 002E
+800B7B58 002E
+
+[Infinite Exam Time]
+Type = Gameshark
+Activation = EndFrame
+800781AE 2400
+

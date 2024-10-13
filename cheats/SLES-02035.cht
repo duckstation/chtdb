@@ -1,0 +1,67 @@
+; CHTDB: ; [ Star Wars: Episode I: La Menace FantÃ´me (France) {SLES-02035} ]
+
+[Energie infinie Obi Wan]
+Type = Gameshark
+Activation = EndFrame
+800B8BA0 0064
+
+[Energie infinie Qui Gon Jin]
+Type = Gameshark
+Activation = EndFrame
+800B8BEC 0064
+
+[Energie infinie Amidala]
+Type = Gameshark
+Activation = EndFrame
+800B8C38 0064
+
+[Energie infinie Panaka]
+Type = Gameshark
+Activation = EndFrame
+800B8C84 0064
+
+[Cheat Menu Appuyez sur Select]
+Type = Gameshark
+Activation = EndFrame
+D0086978 0100
+800B4160 0004
+
+[Force infinie]
+Type = Gameshark
+Activation = EndFrame
+800B89AC 1000
+
+[Armes infinies]
+Type = Gameshark
+Activation = EndFrame
+800B8BB4 03E7
+800B8BB8 03E7
+800B8BC0 03E7
+800B8BC4 03E7
+800B8BC8 03E7
+800B8BCC 03E7
+800B8BD4 03E7
+800B8BD8 03E7
+800B8BDC 03E7
+
+[Armes d'Obi Wan pour tous les persos]
+Type = Gameshark
+Activation = EndFrame
+800B8E04 0000
+
+[Tous les objets]
+Type = Gameshark
+Activation = EndFrame
+800B8282 FFFF
+900B8284 FFFFFFFF
+
+[Test]
+Type = Gameshark
+Activation = EndFrame
+D4000710 0008
+800B8A64 1000
+D4000710 0004
+100B8AB0 0045
+D4000710 0004
+100B8AB8 0045
+

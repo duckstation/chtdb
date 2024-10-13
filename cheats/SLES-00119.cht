@@ -1,0 +1,52 @@
+; CHTDB: ; [ Worms (Europe) {SLES-00119} ]
+
+[Stops Timer]
+Type = Gameshark
+Activation = EndFrame
+801454AC 0B89
+
+[P1 Infinite Energy Worm 1 (No in water)]
+Type = Gameshark
+Activation = EndFrame
+801441FC 0064
+
+[P1 Infinite Energy Worm 2 (No in water)]
+Type = Gameshark
+Activation = EndFrame
+801442A8 0064
+
+[P1 Infinite Energy Worm 3 (No in water)]
+Type = Gameshark
+Activation = EndFrame
+80144354 0064
+
+[P1 Infinite Energy Worm 4 (No in water)]
+Type = Gameshark
+Activation = EndFrame
+80144400 0064
+
+[P2 Sudden Death Worm 1]
+Type = Gameshark
+Activation = EndFrame
+A61444AC 00640001
+
+[P2 Sudden Death Worm 2]
+Type = Gameshark
+Activation = EndFrame
+A6144558 00640001
+
+[P2 Sudden Death Worm 3]
+Type = Gameshark
+Activation = EndFrame
+A6144604 00640001
+
+[P2 Sudden Death Worm 4]
+Type = Gameshark
+Activation = EndFrame
+A6144680 00640001
+
+[Infinite Weapons for all worms]
+Type = Gameshark
+Activation = EndFrame
+8003A40A 3C00
+

@@ -1,0 +1,30 @@
+; CHTDB: ; [ Army Men - Green Rogue (USA) (2001) (The 3DO Company) {SLUS-01330} <amengrog> ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800EDDEC 0063
+
+[Unlock All Levels]
+Type = Gameshark
+Activation = EndFrame
+800EDB4E 0001
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+D005BF94 6FED
+8005BF9A 2400
+D005C604 718A
+8005C60A 2400
+
+[Max Weapon]
+Type = Gameshark
+Activation = EndFrame
+300EE110 0003
+
+[Max Grenades]
+Type = Gameshark
+Activation = EndFrame
+300EE111 0003
+

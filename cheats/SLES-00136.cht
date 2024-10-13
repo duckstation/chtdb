@@ -1,0 +1,23 @@
+; CHTDB: ; [ Critical Depth (Europe) {SLES-00136} ]
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A71CF60C 10000C00
+A71CF66C 10000C00
+A71CF6CC 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A71CF60C 10000900
+A71CF66C 10000900
+A71CF6CC 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A71CF60C 10000400
+A71CF66C 10000400
+A71CF6CC 10000400
+

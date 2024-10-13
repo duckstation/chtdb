@@ -1,0 +1,17 @@
+; CHTDB: ; [ Suiko Enbu - Outlaws of the Lost Dynasty (Jpn) (1996) (Data East) {SLPS-00137} <suikoenb> ]
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80099EA0 007D
+
+[P2 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8009A014 007D
+
+[Enemy has no energy(one hit to defeat)]
+Type = Gameshark
+Activation = EndFrame
+8009A014 0000
+

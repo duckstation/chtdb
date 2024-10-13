@@ -1,0 +1,14 @@
+; CHTDB: ; [ RC de Go! (Europe) {SLES-03068} ]
+
+[Infinite Points (Money)]
+Type = Gameshark
+Activation = EndFrame
+800B9DDC FFFF
+
+[Always First (Press L2 & X)]
+Description = Press Buttons When Crossing The Line At Final Lap.
+Type = Gameshark
+Activation = EndFrame
+D00C5E3A BEFF
+800ABBD6 1001
+

@@ -1,0 +1,23 @@
+; CHTDB: ; [ Barbie - Explorer (USA) (2001) (Vivendi Universal Games) {SLUS-01361} <barbiexp> ]
+
+[Infinite Gems]
+Type = Gameshark
+Activation = EndFrame
+8008CD40 0064
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8008DB8A 000F
+
+[Unlock Babylon]
+Type = Gameshark
+Activation = EndFrame
+8008C8FA 0001
+
+[Enable All Locations]
+Type = Gameshark
+Activation = EndFrame
+50001802 0000
+8008E0B6 6363
+

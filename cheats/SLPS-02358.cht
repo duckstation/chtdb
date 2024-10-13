@@ -1,0 +1,132 @@
+; CHTDB: ; [ Hyouryuu Ki - The Reportage Beyond the Sea (Jpn) (1999) (KSS) {SLPS-02358} <hyoryuki> ]
+
+[Boy (Toru) Has Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+8007A766 2710
+
+[Explorer (Man With Hat) Shinichiro Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+8007AEE6 2710
+
+[Hostess Girl Koyanagi Erina Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+8007AD66 2710
+
+[Short Blue Hair Girl Kurashima Saori Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+8007AA66 2710
+
+[Brown Long Hair Girl Nakajima Rika Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+8007ABE6 2710
+
+[Ayase Suzune Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+8007A8E6 2710
+
+[Main Character Pow=100]
+Type = Gameshark
+Activation = EndFrame
+8007A768 2710
+
+[Main Character Atn=100]
+Type = Gameshark
+Activation = EndFrame
+8007A76A 2710
+
+[Main Character Int=100]
+Type = Gameshark
+Activation = EndFrame
+8007A76C 2710
+
+[Main Character Vit=100]
+Type = Gameshark
+Activation = EndFrame
+8007A76E 2710
+
+[Main Character Ofe=100]
+Type = Gameshark
+Activation = EndFrame
+8007A770 2710
+
+[Main Character Def=100]
+Type = Gameshark
+Activation = EndFrame
+8007A772 2710
+
+[Have 99 Of Each Peice Picked Up (I think you build stuff with these. You hit start during gameplay and go to last option in menue and hit circle)]
+Type = Gameshark
+Activation = EndFrame
+8007CC2E 6363
+9007CC30 63636363
+3007CC34 0063
+
+[9999 Water]
+Type = Gameshark
+Activation = EndFrame
+8007B75A 270F
+
+[9999 Food]
+Type = Gameshark
+Activation = EndFrame
+8007B75C 270F
+
+[9999 Fuel]
+Type = Gameshark
+Activation = EndFrame
+8007B75E 027F
+
+[Hero status Max]
+Type = Gameshark
+Activation = EndFrame
+8007A766 7F00
+9007A768 7F007F00
+9007A76C 7F007F00
+9007A770 7F007F00
+
+[Reina status Max]
+Type = Gameshark
+Activation = EndFrame
+8007A8E6 7F00
+9007A8E8 7F007F00
+9007A8EC 7F007F00
+9007A8F0 7F007F00
+
+[Erina status Max]
+Type = Gameshark
+Activation = EndFrame
+8007AD66 7F00
+9007AD68 7F007F00
+9007AD6C 7F007F00
+9007AD70 7F007F00
+
+[Professor status Max]
+Type = Gameshark
+Activation = EndFrame
+8007AEE6 7F00
+9007AEE8 7F007F00
+9007AEEC 7F007F00
+9007AEF0 7F007F00
+
+[Saori status Max]
+Type = Gameshark
+Activation = EndFrame
+8007AA66 7F00
+9007AA68 7F007F00
+9007AA6C 7F007F00
+9007AA70 7F007F00
+
+[Rika status Max]
+Type = Gameshark
+Activation = EndFrame
+8007ABE6 7F00
+9007ABE8 7F007F00
+9007ABEC 7F007F00
+9007ABF0 7F007F00
+

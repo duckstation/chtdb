@@ -1,0 +1,37 @@
+; CHTDB: ; [ Ancient Roman - Power of the Dark Side (Jpn) (1998) (Nihon Systems) {SLPS-01108~SLPS-01109} <ancroman> ]
+
+[Infinite GP]
+Type = Gameshark
+Activation = EndFrame
+90122028 00FFFFFF
+
+[After One Battle 1st Character Level 99 + Exp]
+Type = Gameshark
+Activation = EndFrame
+901573D4 0060967F
+
+[2nd Character Level 99 + Exp]
+Type = Gameshark
+Activation = EndFrame
+90157448 0060967F
+
+[3rd Character Level 99 + Exp]
+Type = Gameshark
+Activation = EndFrame
+901574BC 0060967F
+
+[4th Character Level 99 + Exp]
+Type = Gameshark
+Activation = EndFrame
+90157530 0060967F
+
+[5th Character Level 99 + Exp]
+Type = Gameshark
+Activation = EndFrame
+901575A4 0060967F
+
+[6th Character Level 99 + Exp]
+Type = Gameshark
+Activation = EndFrame
+90157618 0060967F
+

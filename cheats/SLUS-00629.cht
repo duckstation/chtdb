@@ -1,0 +1,44 @@
+; CHTDB: ; [ Streak Hoverboard Racing (USA) (1998) (GT Interactive Software) {SLUS-00629} <streakhr> ]
+
+[Infinite Turbo]
+Type = Gameshark
+Activation = EndFrame
+801B5B84 4000
+
+[Select Confidence Meter\Above Maximum]
+Type = Gameshark
+Activation = EndFrame
+801B5C20 FFFF
+
+[Select Confidence Meter\Full]
+Type = Gameshark
+Activation = EndFrame
+801B5C20 0FFF
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A71E9984 10000C00
+A71E98C4 10000C00
+A71E9924 10000C00
+A71E97A4 10000C00
+A71E9804 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A71E9984 10000900
+A71E98C4 10000900
+A71E9924 10000900
+A71E97A4 10000900
+A71E9804 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A71E9984 10000400
+A71E98C4 10000400
+A71E9924 10000400
+A71E97A4 10000400
+A71E9804 10000400
+

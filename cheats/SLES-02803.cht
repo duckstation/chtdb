@@ -1,0 +1,60 @@
+; CHTDB: ; [ Alone in the Dark: The New Nightmare (Germany) {SLES-02803 | SLES-12803} ]
+
+[Unendlich Lebenskraft]
+Type = Gameshark
+Activation = EndFrame
+301450DC 0064
+
+[Sudden Death Gegner]
+Type = Gameshark
+Activation = EndFrame
+8007C63A A480
+
+[Unendlich Munition alle Waffen]
+Type = Gameshark
+Activation = EndFrame
+A603EDF0 00060000
+A603EE54 00040000
+
+[Zeit Angehalten Carnby & Aline (Press L1 & L2 Pad2)]
+Type = Gameshark
+Activation = EndFrame
+D00D211E FAFF
+800356EC 0000
+
+[Starte auf Disc 2]
+Type = Gameshark
+Activation = EndFrame
+D011370C 0001
+3011370C 0002
+
+[Enable Cheat Mode (Press Triangle to access your inventory to use the Cheat Mode option. If you want to save or load your game at any time, press Select. To view the build information for the game, pause and hold L2)]
+Type = Gameshark
+Activation = EndFrame
+300C34EC 0002
+
+[God Mode]
+Type = Gameshark
+Activation = EndFrame
+800BA734 0004
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+800BA734 0008
+
+[All Items]
+Type = Gameshark
+Activation = EndFrame
+800BA734 0020
+
+[Infinite Medikits]
+Type = Gameshark
+Activation = EndFrame
+800BA734 0040
+
+[Weapon Reload Infinite]
+Type = Gameshark
+Activation = EndFrame
+800BA734 0080
+

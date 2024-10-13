@@ -1,0 +1,168 @@
+; CHTDB: ; [ Missile Command (USA) (1999) (Atari Interactive) {SLUS-00992} <missile> ]
+
+[Ultimate Mode\Infinite Missles (All Pods)]
+Type = Gameshark
+Activation = EndFrame
+8004B39A 2400
+80059932 2400
+
+[Ultimate Mode\Max Score]
+Type = Gameshark
+Activation = EndFrame
+900C1CD0 000FFFFF
+
+[Ultimate Mode\Max Money]
+Type = Gameshark
+Activation = EndFrame
+900C1CDC 000FFFFF
+
+[Ultimate Mode\Max Credits]
+Type = Gameshark
+Activation = EndFrame
+800C3364 FFFF
+
+[Ultimate Mode\Center Gun (Infinite Ammo)]
+Type = Gameshark
+Activation = EndFrame
+800AE790 000A
+
+[Ultimate Mode\Left Gun (Infinite Ammo)]
+Type = Gameshark
+Activation = EndFrame
+800AE800 000A
+
+[Ultimate Mode\Right Gun (Infinite Ammo)]
+Type = Gameshark
+Activation = EndFrame
+800AE870 000A
+
+[Ultimate Mode\Indestructable City 1]
+Type = Gameshark
+Activation = EndFrame
+800AE468 0001
+
+[Ultimate Mode\Indestructable City 2]
+Type = Gameshark
+Activation = EndFrame
+800AE4AC 0001
+
+[Ultimate Mode\Indestructible City 3]
+Type = Gameshark
+Activation = EndFrame
+800AE4F0 0001
+
+[Ultimate Mode\Indestructible City 4]
+Type = Gameshark
+Activation = EndFrame
+800AE534 0001
+
+[Ultimate Mode\Indestructible City 5]
+Type = Gameshark
+Activation = EndFrame
+800AE578 0001
+
+[Boss Battle\Center Gun (Infinite Ammo)]
+Type = Gameshark
+Activation = EndFrame
+800C1378 000A
+
+[Boss Battle\Left Gun (Infinite Ammo)]
+Type = Gameshark
+Activation = EndFrame
+800C13E8 000A
+
+[Boss Battle\Right Gun (Infinite Ammo)]
+Type = Gameshark
+Activation = EndFrame
+800C1458 000A
+
+[Boss Battle\Indestructible Left Gun]
+Type = Gameshark
+Activation = EndFrame
+800C1374 0001
+
+[Boss Battle\Indestructible Center Gun]
+Type = Gameshark
+Activation = EndFrame
+800C13E4 0001
+
+[Boss Battle\Indestructible Right Gun]
+Type = Gameshark
+Activation = EndFrame
+800C1454 0001
+
+[Classic Mode\Right Gun (Infinite Ammo)]
+Type = Gameshark
+Activation = EndFrame
+8009DC78 000A
+
+[Classic Mode\Left Gun (Infinite Ammo)]
+Type = Gameshark
+Activation = EndFrame
+8009DBF8 000A
+
+[Classic Mode\Center Gun (Infinite Ammo)]
+Type = Gameshark
+Activation = EndFrame
+8009DC38 000A
+
+[Classic Mode\Never Reload]
+Type = Gameshark
+Activation = EndFrame
+8009C1E0 0000
+
+[Classic Mode\Indestructible City 1]
+Type = Gameshark
+Activation = EndFrame
+8009DCB8 0001
+
+[Classic Mode\Indestructible City 2]
+Type = Gameshark
+Activation = EndFrame
+8009DCD8 0001
+
+[Classic Mode\Indestructible City 3]
+Type = Gameshark
+Activation = EndFrame
+8009DCF8 0001
+
+[Classic Mode\Indestructible City 4]
+Type = Gameshark
+Activation = EndFrame
+8009DD18 0001
+
+[Classic Mode\Indestructible City 5]
+Type = Gameshark
+Activation = EndFrame
+8009DD38 0001
+
+[Classic Mode\Indestructible City 6]
+Type = Gameshark
+Activation = EndFrame
+8009DD58 0001
+
+[Classic Mode\Indestructible Left Gun]
+Type = Gameshark
+Activation = EndFrame
+8009DBFC 0001
+
+[Classic Mode\Indestructible Center Gun]
+Type = Gameshark
+Activation = EndFrame
+8009DC3C 0001
+
+[Classic Mode\Indestructible Right Gun]
+Type = Gameshark
+Activation = EndFrame
+8009DC7C 0001
+
+[Classic Mode\Infinite Missiles (All Pods)]
+Type = Gameshark
+Activation = EndFrame
+80032302 2400
+
+[Classic Mode\Max Points]
+Type = Gameshark
+Activation = EndFrame
+9009C1A8 000FFFFF
+

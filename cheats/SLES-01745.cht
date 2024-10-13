@@ -1,0 +1,31 @@
+; CHTDB: ; [ UEFA Champions League: Saison 1998/99 (Germany) {SLES-01745} ]
+
+[P1 Anzahl Tore 9]
+Type = Gameshark
+Activation = EndFrame
+30074744 0009
+300749E8 0009
+
+[P1 Anzahl Tore 0]
+Type = Gameshark
+Activation = EndFrame
+30074744 0000
+300749E8 0000
+
+[P2 AnzahlTore 9]
+Type = Gameshark
+Activation = EndFrame
+30074746 0009
+30074A00 0009
+
+[P2 AnzahlTore 0]
+Type = Gameshark
+Activation = EndFrame
+30074746 0000
+30074A00 0000
+
+[Alle Tore ZäHlen 99 Punkte]
+Type = Gameshark
+Activation = EndFrame
+80089C68 0063
+

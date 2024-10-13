@@ -1,0 +1,17 @@
+; CHTDB: ; [ Bust-A-Move 4 (Europe) {SLES-01389} ]
+
+[P1 Always have guide]
+Type = Gameshark
+Activation = EndFrame
+A60DA344 000000A0
+
+[Elapsed time always 0]
+Type = Gameshark
+Activation = EndFrame
+800AF438 0000
+
+[P1 Infinite time while playing]
+Type = Gameshark
+Activation = EndFrame
+800DA324 0000
+

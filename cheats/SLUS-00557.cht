@@ -1,0 +1,12 @@
+; CHTDB: ; [ Lode Runner (USA) (1998) (Natsume) {SLUS-00557} <ldrun> ]
+
+[P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800CB384 0005
+
+[P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800CB398 0005
+

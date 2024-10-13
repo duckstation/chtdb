@@ -1,0 +1,35 @@
+; CHTDB: ; [ Burning Road (Jpn) (1997) (Vic Tokai) {SLPS-00518} <broadj> ]
+
+[Max Speed]
+Type = Gameshark
+Activation = EndFrame
+800CF402 05BC
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80052EF8 0063
+
+[Always Finish 1st]
+Type = Gameshark
+Activation = EndFrame
+80052E3C 0001
+80052E40 0001
+800C734A 0001
+
+[Zero Lap Time]
+Type = Gameshark
+Activation = EndFrame
+800530BC 0000
+
+[Go to last lap]
+Type = Gameshark
+Activation = EndFrame
+800CF416 0004
+
+[LAST LAP Press SELECT]
+Type = Gameshark
+Activation = EndFrame
+D005C006 FFFE
+800CF416 0004
+

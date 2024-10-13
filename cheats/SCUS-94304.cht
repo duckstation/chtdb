@@ -1,0 +1,122 @@
+; CHTDB: ; [ Twisted Metal (USA) (1995) (Sony Computer Entertainment America) {SCUS-94304} <twistmtl> ]
+
+[Unbeatable]
+Type = Gameshark
+Activation = EndFrame
+801A1914 0080
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8018EFD0 0003
+
+[Infinite Fire-Guns]
+Type = Gameshark
+Activation = EndFrame
+801A1C00 0002
+
+[Infinite Ice-Guns]
+Type = Gameshark
+Activation = EndFrame
+801A1C02 0002
+
+[Infinite Search-Guns]
+Type = Gameshark
+Activation = EndFrame
+801A1C04 0002
+
+[Infinite Power-Guns]
+Type = Gameshark
+Activation = EndFrame
+801A1C06 0002
+
+[Infinite Tag-Guns]
+Type = Gameshark
+Activation = EndFrame
+801A1C08 0002
+
+[Infinite Rear-Guns]
+Type = Gameshark
+Activation = EndFrame
+801A1C0A 0002
+
+[Infinite Catapults]
+Type = Gameshark
+Activation = EndFrame
+801A1C0C 0002
+
+[Infinite Rear Flame]
+Type = Gameshark
+Activation = EndFrame
+801A1C0E 0002
+
+[Infinite Mines]
+Type = Gameshark
+Activation = EndFrame
+801A1C10 0002
+
+[Infinite Oil]
+Type = Gameshark
+Activation = EndFrame
+801A1C12 0002
+
+[Infinite Spikes]
+Type = Gameshark
+Activation = EndFrame
+801A1C14 0002
+
+[Infinite Specials]
+Type = Gameshark
+Activation = EndFrame
+801A1C16 0014
+
+[Select Perm Level\Arena Duel]
+Type = Gameshark
+Activation = EndFrame
+8018ED04 0000
+
+[Select Perm Level\Warehouse]
+Type = Gameshark
+Activation = EndFrame
+8018ED04 0001
+
+[Select Perm Level\Freeway]
+Type = Gameshark
+Activation = EndFrame
+8018ED04 0002
+
+[Select Perm Level\Park]
+Type = Gameshark
+Activation = EndFrame
+8018ED04 0003
+
+[Select Perm Level\Cyburbia (1P Mode Only)]
+Type = Gameshark
+Activation = EndFrame
+8018ED04 0004
+
+[Select Perm Level\Rooftop]
+Type = Gameshark
+Activation = EndFrame
+8018ED04 0005
+
+[Select Perm Level\Arena]
+Type = Gameshark
+Activation = EndFrame
+8018ED04 0006
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A7173F9C 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A7173F9C 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A7173F9C 10000400
+

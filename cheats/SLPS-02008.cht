@@ -1,0 +1,68 @@
+; CHTDB: ; [ Virus - The Battle Field (Jpn) (1999) (PolyGram) {SLPS-02008} <virus> ]
+
+[Erika maximum HP .You must deactivate the code when you are attack and send it again when you need to restore the health]
+Type = Gameshark
+Activation = EndFrame
+800809E4 0053
+
+[Serge Character\Vit .You must deactivate the code when you are attack and send it again when you need to restore the health]
+Type = Gameshark
+Activation = EndFrame
+8007D8E8 0063
+8007D8F4 0063
+
+[Main Character\Attack]
+Type = Gameshark
+Activation = EndFrame
+8007D8F8 0063
+8007D8EC 0063
+
+[Main Character\Def]
+Type = Gameshark
+Activation = EndFrame
+8007D8F0 0063
+8007D8FC 0063
+
+[Main Character\Charge]
+Type = Gameshark
+Activation = EndFrame
+8007D900 0063
+
+[P2 (Cpu) HP]
+Type = Gameshark
+Activation = EndFrame
+800808F8 0063
+80080A28 0063
+
+[P2(Cpu) Atack 2P (Cpu) Attack]
+Type = Gameshark
+Activation = EndFrame
+800808FC 0063
+80809A2C 0063
+
+[P2(Cpu) Deffence 2P (Cpu) Deffence]
+Type = Gameshark
+Activation = EndFrame
+80080900 0063
+80080A30 0063
+
+[P2(Cpu) Charge 2P (Cpu) Charge]
+Type = Gameshark
+Activation = EndFrame
+80080904 0063
+80080A34 0063
+
+[All Special Cg Filled]
+Type = Gameshark
+Activation = EndFrame
+C0024E74 0012
+3004ECB8 0001
+3004ECBC 0001
+3004ECC0 0001
+3004ECC4 0001
+3004ECC8 0001
+3004ECCC 0001
+3004ECD0 0001
+3004ECD4 0001
+00000000 FFFF
+

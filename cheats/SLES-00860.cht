@@ -1,0 +1,52 @@
+; CHTDB: ; [ Colony Wars (Europe) {SLES-00860 | SLES-10860} ]
+
+[Access All Levels]
+Type = Gameshark
+Activation = EndFrame
+80011934 0100
+
+[Infinite Shield]
+Type = Gameshark
+Activation = EndFrame
+800463C4 00C8
+
+[Infinite Weapons Shield]
+Type = Gameshark
+Activation = EndFrame
+80119C24 0000
+
+[Infinite Stun Missiles]
+Type = Gameshark
+Activation = EndFrame
+80119C98 0006
+
+[Infinite A.S. Missiles]
+Type = Gameshark
+Activation = EndFrame
+80119D00 0006
+
+[Infinite Tracker Missiles]
+Type = Gameshark
+Activation = EndFrame
+80119CCC 0006
+
+[Fast Fire A.S. Laser]
+Type = Gameshark
+Activation = EndFrame
+80119C28 0000
+
+[Fast Fire Laser]
+Type = Gameshark
+Activation = EndFrame
+80119C5C 0000
+
+[Fast Fire Emp Gun]
+Type = Gameshark
+Activation = EndFrame
+80119C90 0000
+
+[Fast Fire Scatter Gun]
+Type = Gameshark
+Activation = EndFrame
+80119CC4 0000
+

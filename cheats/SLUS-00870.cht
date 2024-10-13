@@ -1,0 +1,325 @@
+; CHTDB: ; [ Formula One 99 (USA) (1999) (Psygnosis) {SLUS-00870} <fone99> ]
+
+[Select Mode\Quick Race]
+Type = Gameshark
+Activation = EndFrame
+800A0B8A 0000
+
+[Select Mode\Single Race]
+Type = Gameshark
+Activation = EndFrame
+800A0B8A 0001
+
+[Select Mode\Championship]
+Type = Gameshark
+Activation = EndFrame
+800A0B8A 0002
+
+[Select Mode\Test Drive]
+Type = Gameshark
+Activation = EndFrame
+800A0B8A 0003
+
+[Select Mode\High Speed]
+Type = Gameshark
+Activation = EndFrame
+800A0B8A 0004
+
+[Select Mode\Medium Speed]
+Type = Gameshark
+Activation = EndFrame
+800A0B8A 0005
+
+[Select Mode\Low Speed]
+Type = Gameshark
+Activation = EndFrame
+800A0B8A 0006
+
+[Select Mode\Quick Race+]
+Type = Gameshark
+Activation = EndFrame
+800A0B8A 0007
+
+[Select Position View\1st]
+Type = Gameshark
+Activation = EndFrame
+800CC9F0 0000
+
+[Select Position View\2nd]
+Type = Gameshark
+Activation = EndFrame
+800CC9F0 0001
+
+[Select Position View\3rd]
+Type = Gameshark
+Activation = EndFrame
+800CC9F0 0002
+
+[Select Position View\4th]
+Type = Gameshark
+Activation = EndFrame
+800CC9F0 0003
+
+[Select Position View\5th]
+Type = Gameshark
+Activation = EndFrame
+800CC9F0 0004
+
+[Select Position View\6th]
+Type = Gameshark
+Activation = EndFrame
+800CC9F0 0005
+
+[Select Position View\7th]
+Type = Gameshark
+Activation = EndFrame
+800CC9F0 0006
+
+[Select Position View\8th]
+Type = Gameshark
+Activation = EndFrame
+800CC9F0 0007
+
+[Select Position View\9th]
+Type = Gameshark
+Activation = EndFrame
+800CC9F0 0008
+
+[Select Position View\10th]
+Type = Gameshark
+Activation = EndFrame
+800CC9F0 0009
+
+[Select Position View\11th]
+Type = Gameshark
+Activation = EndFrame
+800CC9F0 000A
+
+[Select Position View\12th]
+Type = Gameshark
+Activation = EndFrame
+800CC9F0 000B
+
+[Select Position View\13th]
+Type = Gameshark
+Activation = EndFrame
+800CC9F0 000C
+
+[Select Position View\14th]
+Type = Gameshark
+Activation = EndFrame
+800CC9F0 000D
+
+[Select Position View\15th]
+Type = Gameshark
+Activation = EndFrame
+800CC9F0 000E
+
+[Select Position View\16th]
+Type = Gameshark
+Activation = EndFrame
+800CC9F0 000F
+
+[Select Position View\17th]
+Type = Gameshark
+Activation = EndFrame
+800CC9F0 0010
+
+[Select Position View\18th]
+Type = Gameshark
+Activation = EndFrame
+800CC9F0 0011
+
+[Select Position View\19th]
+Type = Gameshark
+Activation = EndFrame
+800CC9F0 0012
+
+[Select Position View\20th]
+Type = Gameshark
+Activation = EndFrame
+800CC9F0 0013
+
+[Select Position View\21st]
+Type = Gameshark
+Activation = EndFrame
+800CC9F0 0014
+
+[Select Position View\22nd]
+Type = Gameshark
+Activation = EndFrame
+800CC9F0 0015
+
+[Stop Race Timer]
+Description = 1 Player Mode
+Type = Gameshark
+Activation = EndFrame
+8005027A 2400
+800502E2 2400
+
+[Select Driver (Press Select)\Team McLaren - Mika Hakkinen]
+Type = Gameshark
+Activation = EndFrame
+D00A69DC 0001
+800A0B74 0001
+
+[Select Driver (Press Select)\Team McLaren - David Coulthard]
+Type = Gameshark
+Activation = EndFrame
+D00A69DC 0001
+800A0B74 0002
+
+[Select Driver (Press Select)\Team Ferrari - Mike Schumacher]
+Type = Gameshark
+Activation = EndFrame
+D00A69DC 0001
+800A0B74 0003
+
+[Select Driver (Press Select)\Team Ferrari - Eddie Irvine]
+Type = Gameshark
+Activation = EndFrame
+D00A69DC 0001
+800A0B74 0004
+
+[Select Driver (Press Select)\Team Williams - Alessandro Zanardi]
+Type = Gameshark
+Activation = EndFrame
+D00A69DC 0001
+800A0B74 0005
+
+[Select Driver (Press Select)\Team Williams - Ralf Schumacher]
+Type = Gameshark
+Activation = EndFrame
+D00A69DC 0001
+800A0B74 0006
+
+[Select Driver (Press Select)\Team Jordan - Damon Hill]
+Type = Gameshark
+Activation = EndFrame
+D00A69DC 0001
+800A0B74 0007
+
+[Select Driver (Press Select)\Team Jordan - Heinz-Harald Frentzen]
+Type = Gameshark
+Activation = EndFrame
+D00A69DC 0001
+800A0B74 0008
+
+[Select Driver (Press Select)\Team Benetton - Giancarlo Fisichella]
+Type = Gameshark
+Activation = EndFrame
+D00A69DC 0001
+800A0B74 0009
+
+[Select Driver (Press Select)\Team Benetton - Alexander Wurz]
+Type = Gameshark
+Activation = EndFrame
+D00A69DC 0001
+800A0B74 000A
+
+[Select Driver (Press Select)\Team Sauber - Jean Alesi]
+Type = Gameshark
+Activation = EndFrame
+D00A69DC 0001
+800A0B74 000B
+
+[Select Driver (Press Select)\Team Sauber - Pedro Diniz]
+Type = Gameshark
+Activation = EndFrame
+D00A69DC 0001
+800A0B74 000C
+
+[Select Driver (Press Select)\Team Arrows - Pedro de la Rosa]
+Type = Gameshark
+Activation = EndFrame
+D00A69DC 0001
+800A0B74 000D
+
+[Select Driver (Press Select)\Team Arrows - Toranosuke Takagi]
+Type = Gameshark
+Activation = EndFrame
+D00A69DC 0001
+800A0B74 000E
+
+[Select Driver (Press Select)\Team Stewart - Rubens Barrichello]
+Type = Gameshark
+Activation = EndFrame
+D00A69DC 0001
+800A0B74 000F
+
+[Select Driver (Press Select)\Team Stewart - Johnny Herbert]
+Type = Gameshark
+Activation = EndFrame
+D00A69DC 0001
+800A0B74 0010
+
+[Select Driver (Press Select)\Team Prost - Olivier Panis]
+Type = Gameshark
+Activation = EndFrame
+D00A69DC 0001
+800A0B74 0011
+
+[Select Driver (Press Select)\Team Prost - Jarno Trulli]
+Type = Gameshark
+Activation = EndFrame
+D00A69DC 0001
+800A0B74 0012
+
+[Select Driver (Press Select)\Team Minardi - Luca Badoer]
+Type = Gameshark
+Activation = EndFrame
+D00A69DC 0001
+800A0B74 0013
+
+[Select Driver (Press Select)\Team Minardi - Marc Gene]
+Type = Gameshark
+Activation = EndFrame
+D00A69DC 0001
+800A0B74 0014
+
+[Select Driver (Press Select)\Team British American Racing - Jacques Villeneuve]
+Type = Gameshark
+Activation = EndFrame
+D00A69DC 0001
+800A0B74 0015
+
+[Select Driver (Press Select)\Team British American Racing - Ricardo Zonta]
+Type = Gameshark
+Activation = EndFrame
+D00A69DC 0001
+800A0B74 0016
+
+[Select Driver (Press Select)\Team Safety Car - Mika Salo (Glitchy Fast Car)]
+Type = Gameshark
+Activation = EndFrame
+D00A69DC 0001
+800A0B74 0017
+
+[Select Driver (Press Select)\Team Safety Car - Stephane Sarrazin (Glitchy Fast Car)]
+Type = Gameshark
+Activation = EndFrame
+D00A69DC 0001
+800A0B74 0018
+
+[Top Speed Increase]
+Type = Gameshark
+Activation = EndFrame
+D00CD288 0070
+800CD288 03E7
+
+[Instant Win/Place 1st]
+Type = Gameshark
+Activation = EndFrame
+D00CCA4C 0003
+800CCA4C 0005
+D00D4830 0000
+800D4830 0005
+D00D4830 0005
+800E0D9C 0000
+D00D4830 0005
+800E0F3C 0000
+D00D4830 0005
+800E100C 0000
+D00D4830 0005
+800E1EAC 0004
+

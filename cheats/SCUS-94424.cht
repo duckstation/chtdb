@@ -1,0 +1,55 @@
+; CHTDB: ; [ Bloody Roar II (USA) (1999) (Sony Computer Entertainment America) {SCUS-94424} <bldyror2> ]
+
+[P1 Infinite Health (Only)]
+Type = Gameshark
+Activation = EndFrame
+90178A5C 32210100
+90178A64 1020000D
+
+[P1+P2 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80178A9A 2400
+
+[Infinite Time To Choose Character]
+Type = Gameshark
+Activation = EndFrame
+801FFE1C 1760
+
+[Have All Characters]
+Type = Gameshark
+Activation = EndFrame
+801C0FF4 FFFF
+
+[Have All Movies]
+Type = Gameshark
+Activation = EndFrame
+801C0FD0 FFFF
+
+[Get All Pictures]
+Type = Gameshark
+Activation = EndFrame
+901C0FFC FFFFFFFF
+901C1000 FFFFFFFF
+801C1004 FFFF
+
+[Have All Custom]
+Type = Gameshark
+Activation = EndFrame
+901C0FEC FFFFFFFF
+
+[Only 1 Fight to Win Game]
+Type = Gameshark
+Activation = EndFrame
+901529EC 24020007
+
+[1-Hit K. O.]
+Type = Gameshark
+Activation = EndFrame
+900530D8 00000000
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+A71F0018 19991333
+

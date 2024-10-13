@@ -1,0 +1,67 @@
+; CHTDB: ; [ Alien Trilogy (Europe) {SLES-00101} ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8009A784 03E7
+
+[Infinite Charge Grenades]
+Type = Gameshark
+Activation = EndFrame
+8009A5EC 03E7
+
+[Infinite Pulse-Laser]
+Type = Gameshark
+Activation = EndFrame
+8009A5E0 03E7
+
+[Infinite Gun-Ammo]
+Type = Gameshark
+Activation = EndFrame
+8009A78A 03E7
+
+[Infinite Rifle-Ammo]
+Type = Gameshark
+Activation = EndFrame
+8009A78E 03E7
+
+[Infinite Flamethrower]
+Type = Gameshark
+Activation = EndFrame
+8009A5E6 03E7
+
+[Infinite Smart Gun]
+Type = Gameshark
+Activation = EndFrame
+8009A5E8 03E7
+
+[Infinite Batteries]
+Type = Gameshark
+Activation = EndFrame
+8009A5EE 03E7
+
+[Rifle Equipped]
+Type = Gameshark
+Activation = EndFrame
+8008F8D2 0001
+
+[Flamethrower Equipped]
+Type = Gameshark
+Activation = EndFrame
+8008F8DE 0001
+
+[Pulse-Laser Equipped]
+Type = Gameshark
+Activation = EndFrame
+8008F8D6 0001
+
+[Smart Gun Equipped]
+Type = Gameshark
+Activation = EndFrame
+8008F8DA 0001
+
+[Rapid Firing]
+Type = Gameshark
+Activation = EndFrame
+8009A5BA 0001
+

@@ -1,0 +1,22 @@
+; CHTDB: ; [ Gunbalina (Japan) {SLPS-03100} ]
+
+[P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800A5640 0003
+
+[P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800A5642 0003
+
+[P1 Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+800955EC 7FFF
+
+[P2 Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+800955EE 7FFF
+

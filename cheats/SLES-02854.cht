@@ -1,0 +1,24 @@
+; CHTDB: ; [ Breakout: A Story of Bat Meets Ball...! (Europe) {SLES-02854} ]
+
+[Infinite Balls]
+Type = Gameshark
+Activation = EndFrame
+D01F4790 0002
+301F4790 0003
+
+[Open continue & challenge mode (Single Player)]
+Type = Gameshark
+Activation = EndFrame
+D00F50F8 0001
+300F50F8 0003
+
+[Overall ranking - Superstar]
+Type = Gameshark
+Activation = EndFrame
+301EA4A0 0000
+
+[Unlock all areas]
+Type = Gameshark
+Activation = EndFrame
+301EA494 0006
+

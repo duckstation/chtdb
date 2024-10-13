@@ -1,0 +1,95 @@
+; CHTDB: ; [ Kagero - Deception II (USA) (1998) (Tecmo) {SLUS-00677} <kagero> ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800E7C4E 0196
+
+[Infinite Ark]
+Type = Gameshark
+Activation = EndFrame
+800E7C5C 2710
+
+[Mission Modifier (00-2C) ENABLED LAST LEVEL]
+Type = Gameshark
+Activation = EndFrame
+A60DB4C2 0001002C
+
+[No Charge Time For Traps\1Th Room]
+Type = Gameshark
+Activation = EndFrame
+800E5FEA 0000
+800E6066 0000
+800E60E2 0000
+
+[No Charge Time For Traps\2nd Room]
+Type = Gameshark
+Activation = EndFrame
+800E615E 0000
+800E61DA 0000
+800E6256 0000
+
+[No Charge Time For Traps\3rd Room]
+Type = Gameshark
+Activation = EndFrame
+800E62D2 0000
+800E634E 0000
+800E63CA 0000
+
+[No Charge Time For Traps\4th Room]
+Type = Gameshark
+Activation = EndFrame
+800E6446 0000
+800E64C2 0000
+800E653E 0000
+
+[No Charge Time For Traps\5th Room]
+Type = Gameshark
+Activation = EndFrame
+800E65BA 0000
+800E6636 0000
+800E66B2 0000
+
+[No Charge Time For Traps\6th Room]
+Type = Gameshark
+Activation = EndFrame
+800E672E 0000
+800E67AA 0000
+800E6826 0000
+
+[No Charge Time For Traps\7th Room]
+Type = Gameshark
+Activation = EndFrame
+800E68A2 0000
+800E691E 0000
+800E699A 0000
+
+[No Charge Time For Traps\8th Room]
+Type = Gameshark
+Activation = EndFrame
+800E6A16 0000
+800E6A92 0000
+800E6B0E 0000
+
+[No Charge Time For Traps\9th Room]
+Type = Gameshark
+Activation = EndFrame
+800E6B8A 0000
+800E6C06 0000
+800E6C82 0000
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A70EECE0 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A70EECE0 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A70EECE0 10000400
+

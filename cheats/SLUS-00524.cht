@@ -1,0 +1,33 @@
+; CHTDB: ; [ Road Rash 3D (USA) (1998) (Electronic Arts) {SLUS-00524} <rrash3d> ]
+
+[All In Trash Mode Unlocked]
+Type = Gameshark
+Activation = EndFrame
+50002101 0000
+800B68AD 0001
+
+[1 Billion Dollars]
+Type = Gameshark
+Activation = EndFrame
+900B6F7C 3B9ACA00
+
+[Trade-In Value 1 Billion Dollars]
+Type = Gameshark
+Activation = EndFrame
+900B6F88 3B9ACA00
+
+[Infinite Bike Durability]
+Type = Gameshark
+Activation = EndFrame
+8010EEAA 7F7F
+
+[Infinite Biker Health]
+Type = Gameshark
+Activation = EndFrame
+8010EE72 8080
+
+[Infinite Nitro Speed For Any Bike]
+Type = Gameshark
+Activation = EndFrame
+800D677C 0000
+

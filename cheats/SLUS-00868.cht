@@ -1,0 +1,31 @@
+; CHTDB: ; [ Vigilante 8 - 2nd Offense (USA) (1999) (Activision) {SLUS-00868} <vigil2nd> ]
+
+[P1 Unlock All Characters/Quest Mode Complete With Everyone]
+Type = Gameshark
+Activation = EndFrame
+5000120A 0000
+8006B9E8 01FF
+
+[P1 Maxed Out Stats All Characters]
+Type = Gameshark
+Activation = EndFrame
+5000120A 0000
+8006B9EE 6464
+5000120A 0000
+8006B9F0 6464
+
+[Open All Original V8 Levels + Wacky Mode]
+Type = Gameshark
+Activation = EndFrame
+8006A832 001F
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+8006A830 0008
+
+[View All Endings]
+Type = Gameshark
+Activation = EndFrame
+8006A830 0010
+

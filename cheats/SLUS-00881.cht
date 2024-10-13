@@ -1,0 +1,39 @@
+; CHTDB: ; [ Danger Girl (USA) (2000) (THQ) {SLUS-00881} <dangergl> ]
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+80061B40 2400
+
+[Have All Cheats]
+Description = Press Start during play
+Type = Gameshark
+Activation = EndFrame
+800E8B04 0FFF
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+A7075D52 00571400
+A7075D56 00771400
+
+[Select the Brightness of the Enemies\Brighter]
+Type = Gameshark
+Activation = EndFrame
+A7042BD6 10401400
+
+[Select the Brightness of the Enemies\Darker]
+Type = Gameshark
+Activation = EndFrame
+A7042FFE 10401400
+
+[Walk through Doors]
+Type = Gameshark
+Activation = EndFrame
+A7031D6A 10401000
+
+[No Bullets for Enemy Guns]
+Type = Gameshark
+Activation = EndFrame
+A703D572 14401000
+

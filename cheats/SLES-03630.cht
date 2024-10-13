@@ -1,0 +1,39 @@
+; CHTDB: ; [ X-Men: Mutant Academy 2 (Europe) {SLES-03630} ]
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+900AD85C B400B400
+
+[Needs one win to suceed]
+Type = Gameshark
+Activation = EndFrame
+A60AD928 00000001
+
+[P2 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+900ADEB0 B400B400
+
+[P2 No health]
+Type = Gameshark
+Activation = EndFrame
+900ADEB0 00000000
+
+[All characters Highlight Cyclops and press L1 to get Spider-Man, highlight Magneto and press L1 to get Xavier.]
+Type = Gameshark
+Activation = EndFrame
+D01F7A76 8011
+50000A02 0000
+801F7A48 0000
+
+[All characters - alternate Highlight Cyclops and press L1 to get Spider-Man, highlight Magneto and press L1 to get Xavier.]
+Type = Gameshark
+Activation = EndFrame
+A61CFE92 A262A260
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+800A20AC 1333
+

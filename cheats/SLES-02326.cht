@@ -1,0 +1,22 @@
+; CHTDB: ; [ Roadsters (Europe) {SLES-02326} ]
+
+[Have 999999 money]
+Type = Gameshark
+Activation = EndFrame
+900101E0 000F423F
+
+[Always start in lap 6]
+Type = Gameshark
+Activation = EndFrame
+80160168 0006
+
+[Unlock Category 'A']
+Type = Gameshark
+Activation = EndFrame
+30010204 0001
+
+[Unlock Category 'B']
+Type = Gameshark
+Activation = EndFrame
+30010206 0001
+

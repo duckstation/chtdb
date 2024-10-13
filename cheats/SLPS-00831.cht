@@ -1,0 +1,16 @@
+; CHTDB: ; [ Hatsukoi Valentine (Jpn) (1997) (Family Soft) {SLPS-00831} <hatsuval> ]
+
+[Max Stats (60000)]
+Type = Gameshark
+Activation = EndFrame
+800AEDBC EA60
+800AEDC4 EA60
+800AEDC0 EA60
+800AEDC8 EA60
+800AEDB8 EA60
+
+[Max Money]
+Type = Gameshark
+Activation = EndFrame
+800AEDCC 270F
+

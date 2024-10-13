@@ -1,0 +1,104 @@
+; CHTDB: ; [ From TV Animation One Piece: Grand Battle! 2 (Japan) {SLPS-03408} ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80198CD4 22A9
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80198D0A 00B6
+
+[Infinite Continues]
+Type = Gameshark
+Activation = EndFrame
+801B6910 0005
+
+[P2 Life = 0]
+Type = Gameshark
+Activation = EndFrame
+301A4EEA 0000
+
+[Grand Battle 9999]
+Type = Gameshark
+Activation = EndFrame
+801B6FE8 270F
+
+[Bingo Card 9999]
+Type = Gameshark
+Activation = EndFrame
+8019B760 270F
+
+[Secret Sound]
+Type = Gameshark
+Activation = EndFrame
+901B6960 0FFEFFE0
+
+[Max Card]
+Type = Gameshark
+Activation = EndFrame
+8019B760 FFFF
+
+[P1 Special Moves level 3]
+Type = Gameshark
+Activation = EndFrame
+30198D1C 0003
+
+[P1 Invincibility]
+Type = Gameshark
+Activation = EndFrame
+D0198CEA 0000
+30198D0A 00FF
+D0198CEA 0000
+30198EE0 00FF
+D0198CEA 0000
+30199434 00FF
+D0198CEA 0000
+301A422E 00FF
+
+[P1 deathblow all-you-can-eat]
+Type = Gameshark
+Activation = EndFrame
+D0198CEA 0000
+30198D1C 0003
+
+[P2 HP 0]
+Type = Gameshark
+Activation = EndFrame
+30198D56 0000
+
+[All characters selectables and treasures]
+Type = Gameshark
+Activation = EndFrame
+801B6964 FFFF
+301B6966 00FF
+
+[The system adds voice and fully open to options]
+Type = Gameshark
+Activation = EndFrame
+801B6958 FFFF
+301B695A 00FF
+
+[Voice of treasure fully open mode character]
+Type = Gameshark
+Activation = EndFrame
+801B6950 FFFF
+301B6952 00FF
+
+[Treasure Theater mode fully open]
+Type = Gameshark
+Activation = EndFrame
+801B695C FFFF
+301B695E 00FF
+
+[Treasure Gallery fully open mode]
+Type = Gameshark
+Activation = EndFrame
+901B6960 FFFFFFFF
+
+[Visual adventure full open]
+Type = Gameshark
+Activation = EndFrame
+301B6FE8 00AB
+

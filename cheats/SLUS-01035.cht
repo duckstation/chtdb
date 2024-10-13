@@ -1,0 +1,146 @@
+; CHTDB: ; [ Vanark (USA) (2000) (Jaleco USA) {SLUS-01035} <vanark> ]
+
+[Stage Select Mode]
+Type = Gameshark
+Activation = EndFrame
+30015C4D 0001
+
+[Infinite Continues]
+Type = Gameshark
+Activation = EndFrame
+80015C60 0009
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80015C22 00B3
+
+[Mission 1\Infinite Boost]
+Type = Gameshark
+Activation = EndFrame
+D01D7DCC 6BFF
+301D7DD0 00C8
+
+[Mission 1\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+301F141E 00C8
+
+[Mission 1\No Health Enemy]
+Type = Gameshark
+Activation = EndFrame
+D01EF980 0000
+301EF984 0000
+
+[Mission 2\Infinite Boost]
+Type = Gameshark
+Activation = EndFrame
+D01DA26C 77DC
+301DA270 00C8
+
+[Mission 2\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+301F38B6 00C8
+
+[Mission 2\No Health Enemy]
+Type = Gameshark
+Activation = EndFrame
+D01F1E18 0000
+301F1E1C 0000
+
+[Mission 3\Infinite Boost]
+Type = Gameshark
+Activation = EndFrame
+D01DA2AC 3EDF
+301DA2B0 00C8
+
+[Mission 3\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+301F3A9E 00C8
+
+[Mission 3\No Health Enemy]
+Type = Gameshark
+Activation = EndFrame
+D01F2000 0000
+801F2004 0000
+
+[Mission 4\Infinite Boost]
+Type = Gameshark
+Activation = EndFrame
+D01D6A44 FFFF
+301D6A48 00C8
+
+[Mission 4\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+301F008E 00C8
+
+[Mission 4\No Health Enemy]
+Type = Gameshark
+Activation = EndFrame
+D01EE5F0 0000
+801EE5F4 0000
+
+[Mission 5\Infinite Boost]
+Type = Gameshark
+Activation = EndFrame
+D00DBE4C 8000
+300DBE50 00C8
+
+[Mission 5\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+300F6B46 00C8
+
+[Mission 5\No Health Enemy]
+Type = Gameshark
+Activation = EndFrame
+D00F4870 0000
+800F4874 0000
+
+[Mission 6\Infinite Boost]
+Type = Gameshark
+Activation = EndFrame
+D00C812C 0000
+300C8130 00C8
+
+[Mission 6\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+300E2E2E 00C8
+
+[Mission 7\Infinite Boost]
+Type = Gameshark
+Activation = EndFrame
+D00CB17C 0000
+300CB180 00C8
+
+[Mission 7\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+300E4DCE 00C8
+
+[Mission 7\No Health Enemy]
+Type = Gameshark
+Activation = EndFrame
+D00E3330 0000
+800E3334 0000
+
+[Training Mission\Infinite Boost]
+Type = Gameshark
+Activation = EndFrame
+D01DBA2C FFFF
+301DBA30 00C8
+
+[Training Mission\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+301F6C7E 00C8
+
+[Full Shields]
+Type = Gameshark
+Activation = EndFrame
+801F141E 00C8
+

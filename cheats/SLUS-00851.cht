@@ -1,0 +1,313 @@
+; CHTDB: ; [ Re-Volt (USA) (1999) (Acclaim Entertainment) {SLUS-00851} <revolt> ]
+
+[Start On Lap 3]
+Type = Gameshark
+Activation = EndFrame
+A60B9318 00000002
+
+[One Stage To Race In Championship Mode]
+Type = Gameshark
+Activation = EndFrame
+A60BE36C 00000003
+
+[One Stage To Race In Championship Mode Platinum Cup]
+Type = Gameshark
+Activation = EndFrame
+A60BE36C 00000005
+
+[Time is 0.00.00]
+Type = Gameshark
+Activation = EndFrame
+900B11B0 00000000
+
+[Max Points in Championship Mode]
+Type = Gameshark
+Activation = EndFrame
+800BE37C 0063
+
+[Infinite Tries]
+Type = Gameshark
+Activation = EndFrame
+800BE370 0003
+
+[Time Trial - Time is 0.00.00]
+Type = Gameshark
+Activation = EndFrame
+8006AD32 2400
+
+[Add A Retry]
+Type = Gameshark
+Activation = EndFrame
+8002DA40 0001
+
+[Have Progress Table Complete + All Trophies Complete]
+Type = Gameshark
+Activation = EndFrame
+50000D04 0000
+80111EFC FFFF
+
+[Infinite Time In Time Trial Mode]
+Type = Gameshark
+Activation = EndFrame
+800B931C 0000
+
+[Start With Infinite Missiles]
+Type = Gameshark
+Activation = EndFrame
+800B9A0C FFFF
+
+[Have All Stunt Arena Stars + Enable Clockwork Carnage]
+Type = Gameshark
+Activation = EndFrame
+800BE644 0014
+
+[Unlock Dynamo San]
+Type = Gameshark
+Activation = EndFrame
+801EE49C 0100
+
+[Unlock Candy Pebbles]
+Type = Gameshark
+Activation = EndFrame
+801EE848 0100
+
+[Unlock Genghis Kar]
+Type = Gameshark
+Activation = EndFrame
+801EEBF4 0100
+
+[Unlock Aquasoni]
+Type = Gameshark
+Activation = EndFrame
+801EEFA0 0100
+
+[Unlock Mouse]
+Type = Gameshark
+Activation = EndFrame
+801EF34C 0100
+
+[Unlock Evil Weasel]
+Type = Gameshark
+Activation = EndFrame
+801EF6F8 0100
+
+[Unlock Panga TC]
+Type = Gameshark
+Activation = EndFrame
+801EFAA4 0100
+
+[Unlock R6 Turbo]
+Type = Gameshark
+Activation = EndFrame
+801EFE50 0100
+
+[Unlock NY54]
+Type = Gameshark
+Activation = EndFrame
+801F01FC 0100
+
+[Unlock Bertha Ballistics]
+Type = Gameshark
+Activation = EndFrame
+801F05A8 0100
+
+[Unlock Pest Control]
+Type = Gameshark
+Activation = EndFrame
+801F0954 0100
+
+[Unlock Adeon]
+Type = Gameshark
+Activation = EndFrame
+801F0D00 0100
+
+[Unlock Pole Poz]
+Type = Gameshark
+Activation = EndFrame
+801F10AC 0100
+
+[Unlock Zipper]
+Type = Gameshark
+Activation = EndFrame
+801F1458 0100
+
+[Unlock Rotar]
+Type = Gameshark
+Activation = EndFrame
+801F1804 0100
+
+[Unlock Cougar]
+Type = Gameshark
+Activation = EndFrame
+801F1BB0 0100
+
+[Unlock Humma]
+Type = Gameshark
+Activation = EndFrame
+801F1F5C 0100
+
+[Unlock Toyeca]
+Type = Gameshark
+Activation = EndFrame
+801F2308 0100
+
+[Unlock AMW]
+Type = Gameshark
+Activation = EndFrame
+801F26B4 0100
+
+[Unlock Panga]
+Type = Gameshark
+Activation = EndFrame
+801F2A60 0100
+
+[Unlock Trolley they do not save to memory card.]
+Type = Gameshark
+Activation = EndFrame
+801F2E0C 0100
+
+[Unlock Clockwork]
+Type = Gameshark
+Activation = EndFrame
+801F3CBC 0100
+
+[Unlock Clockwork 2]
+Type = Gameshark
+Activation = EndFrame
+801F3564 0100
+
+[Unlock Clockwork 3]
+Type = Gameshark
+Activation = EndFrame
+801F3910 0100
+
+[Unlock Probe UFO]
+Type = Gameshark
+Activation = EndFrame
+801F4068 0100
+
+[Unlock RC]
+Type = Gameshark
+Activation = EndFrame
+801F4414 0100
+
+[Unlock LA54]
+Type = Gameshark
+Activation = EndFrame
+801F47C0 0100
+
+[Unlock MT XL]
+Type = Gameshark
+Activation = EndFrame
+801F4B6C 0100
+
+[Unlock Shocker]
+Type = Gameshark
+Activation = EndFrame
+801F4F18 0100
+
+[Unlock JG 2]
+Type = Gameshark
+Activation = EndFrame
+801F52C4 0100
+
+[Unlock Groovster]
+Type = Gameshark
+Activation = EndFrame
+801F5670 0100
+
+[Unlock JG-7]
+Type = Gameshark
+Activation = EndFrame
+801F5A1C 0100
+
+[Unlock RG1]
+Type = Gameshark
+Activation = EndFrame
+801F5DC8 0100
+
+[Unlock RV Loco]
+Type = Gameshark
+Activation = EndFrame
+801F6174 0100
+
+[Unlock SNW 35]
+Type = Gameshark
+Activation = EndFrame
+801F6520 0100
+
+[Unlock Purp XL]
+Type = Gameshark
+Activation = EndFrame
+801F68CC 0100
+
+[Unlock Fulon X]
+Type = Gameshark
+Activation = EndFrame
+801F6C78 0100
+
+[Unlock Toys In The Hood 1]
+Type = Gameshark
+Activation = EndFrame
+8009DDEC 001F
+
+[Unlock Supermarket 2]
+Type = Gameshark
+Activation = EndFrame
+8009DE1C 001F
+
+[Unlock Museum 2]
+Type = Gameshark
+Activation = EndFrame
+8009DE4C 001F
+
+[Unlock Botanical Gardens]
+Type = Gameshark
+Activation = EndFrame
+8009DE7C 001F
+
+[Unlock Toy World 1]
+Type = Gameshark
+Activation = EndFrame
+8009DEAC 001F
+
+[Unlock Ghost Town 1]
+Type = Gameshark
+Activation = EndFrame
+8009DEDC 001F
+
+[Unlock Toy World 2 With this code, it doesn't unlock this in 2 Player mode.]
+Type = Gameshark
+Activation = EndFrame
+8009DF0C 001F
+
+[Unlock Toys In The Hood 2]
+Type = Gameshark
+Activation = EndFrame
+8009DF3C 001F
+
+[Unlock Toytanic 1]
+Type = Gameshark
+Activation = EndFrame
+8009DF6C 001F
+
+[Unlock Museum 1]
+Type = Gameshark
+Activation = EndFrame
+8009DF9C 001F
+
+[Unlock Supermarket 1]
+Type = Gameshark
+Activation = EndFrame
+8009DFCC 001F
+
+[Unlock Ghost Town 2]
+Type = Gameshark
+Activation = EndFrame
+8009DFFC 001F
+
+[Unlock Toytanic 2]
+Type = Gameshark
+Activation = EndFrame
+8009E02C 001F
+

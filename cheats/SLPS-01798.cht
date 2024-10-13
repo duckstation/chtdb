@@ -1,0 +1,91 @@
+; CHTDB: ; [ R4: Ridge Racer Type 4 (Japan) (R4 + JogCon) {SLPS-01798} ]
+
+[Instant win Press X & Select On the last race shooting hoops you still need to race for a short distance.]
+Type = Gameshark
+Activation = EndFrame
+D00F381A 0140
+800ABE66 000C
+
+[Unlock All Team Drt - Cars]
+Type = Gameshark
+Activation = EndFrame
+900F3710 FFFFFFFF
+900F3714 FFFFFFFF
+900F3718 FFFFFFFF
+900F371C FFFFFFFF
+
+[Unlock All Team Mmm - Cars]
+Type = Gameshark
+Activation = EndFrame
+900F3720 FFFFFFFF
+900F3724 FFFFFFFF
+900F3728 FFFFFFFF
+900F372C FFFFFFFF
+
+[Unlock All Team Prc - Cars]
+Type = Gameshark
+Activation = EndFrame
+900F3730 FFFFFFFF
+900F3734 FFFFFFFF
+900F3738 FFFFFFFF
+900F373C FFFFFFFF
+
+[Unlock All Team Solvalou - Cars]
+Type = Gameshark
+Activation = EndFrame
+900F3740 FFFFFFFF
+900F3744 FFFFFFFF
+900F3748 FFFFFFFF
+900F374C FFFFFFFF
+
+[All Cars]
+Type = Gameshark
+Activation = EndFrame
+900F3710 FFFFFFFF
+900F3714 FFFFFFFF
+900F3718 FFFFFFFF
+900F371C FFFFFFFF
+900F3720 FFFFFFFF
+900F3724 FFFFFFFF
+900F3728 FFFFFFFF
+900F372C FFFFFFFF
+900F3730 FFFFFFFF
+900F3734 FFFFFFFF
+900F3738 FFFFFFFF
+900F373C FFFFFFFF
+900F3740 FFFFFFFF
+900F3744 FFFFFFFF
+900F3748 FFFFFFFF
+900F374C FFFFFFFF
+
+[Unlock All Courses]
+Type = Gameshark
+Activation = EndFrame
+800F370C FFFF
+300F3754 0001
+900F3758 01010101
+
+[Unlock Extra Trial]
+Type = Gameshark
+Activation = EndFrame
+800F3754 0001
+
+[Complete Extra Trial]
+Type = Gameshark
+Activation = EndFrame
+900F375C 01010101
+
+[Max Speed]
+Type = Gameshark
+Activation = EndFrame
+D00F381A 0101
+800ABEB8 0E47
+
+[Shift Picture .with L2, L1]
+Type = Gameshark
+Activation = EndFrame
+E00F381A 0001
+20093590 0001
+E00F381A 0004
+21093590 0001
+

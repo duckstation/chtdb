@@ -1,0 +1,7 @@
+; CHTDB: ; [ Colony Wars: Vengeance (Spain) {SLES-01408} ]
+
+[Infinite Shields]
+Type = Gameshark
+Activation = EndFrame
+8004647C 0064
+

@@ -1,0 +1,37 @@
+; CHTDB: ; [ Dance Dance Revolution - 2nd Remix Append Club Version Vol. 2 (Jpn) (1999) (Konami) {SLPM-86399 (VX175-J1)} <ddr2rc2> ]
+
+[P1 Max Guard]
+Type = Gameshark
+Activation = EndFrame
+800891CE 03E8
+
+[P1 Max Point]
+Type = Gameshark
+Activation = EndFrame
+900891D8 3B9AC9FF
+
+[All Hidden SonCheat Device]
+Type = Gameshark
+Activation = EndFrame
+3008894D 0000
+D001004C 0100
+3008894B 0000
+
+[All Infomation]
+Type = Gameshark
+Activation = EndFrame
+30010B80 001F
+30010B85 00FF
+30010B86 00FF
+30010BB0 001F
+30010BB1 00FF
+30010BB2 00FF
+
+[All SonCheat Device In Endless Mode]
+Type = Gameshark
+Activation = EndFrame
+30010B80 00FF
+30010B83 00FF
+30010BB0 00FF
+30010BB3 00FF
+

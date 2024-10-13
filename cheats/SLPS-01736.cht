@@ -1,0 +1,12 @@
+; CHTDB: ; [ The Famires (Japan) {SLPS-01736} ]
+
+[Have 999999 points]
+Type = Gameshark
+Activation = EndFrame
+901D070C 000F423F
+
+[Have 99999999 money]
+Type = Gameshark
+Activation = EndFrame
+901D0274 05F5E0FF
+

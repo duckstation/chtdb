@@ -1,0 +1,22 @@
+; CHTDB: ; [ Nichibutsu Mahjong: Joshikou Meijinsen (Japan) {SLPS-00038} ]
+
+[Player has 99900 points]
+Type = Gameshark
+Activation = EndFrame
+80188B08 03E7
+
+[Opponent 1 has 0 points]
+Type = Gameshark
+Activation = EndFrame
+80186D70 0000
+
+[Opponent 2 has 0 points]
+Type = Gameshark
+Activation = EndFrame
+80186D50 0000
+
+[Opponent 3 has 0 points]
+Type = Gameshark
+Activation = EndFrame
+80186D60 0000
+

@@ -1,0 +1,72 @@
+; CHTDB: ; [ Satomi no Nazo (Jpn) (1996) (Sound Technology Japan) {SLPS-00613} <satominz> ]
+
+[Infinite And Max HP Main Character]
+Type = Gameshark
+Activation = EndFrame
+801B5DAE 270F
+801B5DB2 270F
+
+[Infinite And Max MP Main Character]
+Type = Gameshark
+Activation = EndFrame
+801B5DB0 270F
+801B5DB4 270F
+
+[Max Money]
+Type = Gameshark
+Activation = EndFrame
+90092610 0001869F
+
+[Saya Max HP]
+Type = Gameshark
+Activation = EndFrame
+801B5E6E 270F
+801B5E72 270F
+
+[Saya Max MP]
+Type = Gameshark
+Activation = EndFrame
+801B5E70 270F
+801B5E74 270F
+
+[Izumi Max HP]
+Type = Gameshark
+Activation = EndFrame
+801B5E9E 270F
+801B5EA2 270F
+
+[Izumi Max MP]
+Type = Gameshark
+Activation = EndFrame
+801B5EA0 270F
+801B5EA4 270F
+
+[Lovelyy Max HP]
+Type = Gameshark
+Activation = EndFrame
+801B5ECE 270F
+801B5ED2 270F
+
+[Lovely Max MP]
+Type = Gameshark
+Activation = EndFrame
+801B5ED0 270F
+801B5ED4 270F
+
+[Haeckel Max HP]
+Type = Gameshark
+Activation = EndFrame
+801B5EFE 270F
+801B5E02 270F
+
+[Haeckel Max MP]
+Type = Gameshark
+Activation = EndFrame
+801B5E00 270F
+801B5E04 270F
+
+[Enemy does not come out]
+Type = Gameshark
+Activation = EndFrame
+30079C8C 0000
+

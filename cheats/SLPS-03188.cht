@@ -1,0 +1,27 @@
+; CHTDB: ; [ Time Crisis: Project Titan (Japan) {SLPS-03188} ]
+
+[Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+8002C546 2400
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8001E83E 2400
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80022BDA 2400
+
+[No Reload]
+Type = Gameshark
+Activation = EndFrame
+8001E516 2400
+
+[Overall Time Is 0.00.00]
+Type = Gameshark
+Activation = EndFrame
+80022C76 2400
+

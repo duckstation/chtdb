@@ -1,0 +1,17 @@
+; CHTDB: ; [ RTL Skispringen 2002 (Germany) {SLES-03772} ]
+
+[Button Command]
+Type = Gameshark
+Activation = EndFrame
+D00644FA 0000
+
+[1st Created Jumper Codes 99999999 Cash]
+Type = Gameshark
+Activation = EndFrame
+9005FDD0 05F5E0FF
+
+[1st Created Jumper Codes 999 Points In Ranking List]
+Type = Gameshark
+Activation = EndFrame
+8005DC4C 03E7
+

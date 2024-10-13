@@ -1,0 +1,12 @@
+; CHTDB: ; [ Crusaders of Might and Magic (Spain) {SLES-02691} ]
+
+[Infinite Magic]
+Type = Gameshark
+Activation = EndFrame
+80105664 0064
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800F1FAC 0096
+

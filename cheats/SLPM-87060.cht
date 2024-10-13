@@ -1,0 +1,40 @@
+; CHTDB: ; [ Captain Tsubasa - Aratanaru Densetsu Joshou (Jpn) (2002) (Konami) {SLPM-87060 (VX260-J1)} <ctsubaad> ]
+
+[Player team always score 9]
+Type = Gameshark
+Activation = EndFrame
+800E75F1 0009
+
+[Enemy team always score 0]
+Type = Gameshark
+Activation = EndFrame
+300E75F2 0000
+
+[Card album fully open]
+Type = Gameshark
+Activation = EndFrame
+900C9380 FFFFFFFF
+900C9384 FFFFFFFF
+900C9388 FFFFFFFF
+900C938C FFFFFFFF
+900C9390 FFFFFFFF
+800C9394 0003
+
+[Movie album fully open]
+Type = Gameshark
+Activation = EndFrame
+900C93A0 FFFFFFFF
+900C93A4 000FFFFF
+
+[Character File fully open]
+Type = Gameshark
+Activation = EndFrame
+900C93B0 FFFFFFFF
+900C93B4 FFFFFFFF
+
+[Sound Test fully open]
+Type = Gameshark
+Activation = EndFrame
+800C9356 FFFF
+800C9358 FFFF
+

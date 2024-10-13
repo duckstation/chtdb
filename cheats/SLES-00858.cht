@@ -1,0 +1,17 @@
+; CHTDB: ; [ Rascal (Europe) {SLES-00858} ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8009AF3C 0003
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+8009AF96 0040
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8009B1EA 0020
+

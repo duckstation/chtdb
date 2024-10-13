@@ -1,0 +1,58 @@
+; CHTDB: ; [ Barbie - Race & Ride (USA) (1999) (Mattel Interactive) {SLUS-00981} <barbierr> ]
+
+[Training Complete/Unlock Lvls]
+Type = Gameshark
+Activation = EndFrame
+800B2AEC 0100
+
+[1st Place Beach]
+Type = Gameshark
+Activation = EndFrame
+300B2AEF 0001
+
+[1st Place Meadow]
+Type = Gameshark
+Activation = EndFrame
+300B2AEE 0001
+
+[1st Place Forest]
+Type = Gameshark
+Activation = EndFrame
+300B2AF0 0001
+
+[1st Place Secret Ranch]
+Type = Gameshark
+Activation = EndFrame
+300B2AF1 0001
+
+[Unlock Beach At Night]
+Type = Gameshark
+Activation = EndFrame
+300B2ADF 0001
+
+[Unlock Meadows At Night]
+Type = Gameshark
+Activation = EndFrame
+300B2AE0 0001
+
+[Unlock Forest At Night]
+Type = Gameshark
+Activation = EndFrame
+300B2AE1 0001
+
+[Unlock Mountains At Night]
+Type = Gameshark
+Activation = EndFrame
+300B2AE2 0001
+
+[Unlock Secret Ranch/All Stars]
+Type = Gameshark
+Activation = EndFrame
+50000401 0000
+300B2ADB 0001
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800132F6 2400
+

@@ -1,0 +1,42 @@
+; CHTDB: ; [ Vampire Savior: EX Edition (Japan) {SLPS-01700} ]
+
+[P1 Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+901C0CCC 01200120
+
+[Special Stock MAX]
+Type = Gameshark
+Activation = EndFrame
+301C0D41 0063
+
+[Infinite Dark force gauge]
+Type = Gameshark
+Activation = EndFrame
+801C0DA4 0070
+801C0DF2 0070
+
+[Collection mode fully open]
+Type = Gameshark
+Activation = EndFrame
+901C1BEC FFFFFFFF
+
+[EX Options & DX Options Available]
+Type = Gameshark
+Activation = EndFrame
+301C1BF0 0003
+
+[Ending fully opened EX Options]
+Type = Gameshark
+Activation = EndFrame
+901C1BE8 FFFFFFFF
+
+[Unlock All Extras]
+Type = Gameshark
+Activation = EndFrame
+50000402 0000
+801C1BE8 FFFF
+301C1BF0 0003
+A61D9E0C 00080009
+A61DB544 00080009
+

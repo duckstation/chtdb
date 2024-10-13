@@ -1,0 +1,67 @@
+; CHTDB: ; [ Densetsu no Ogre Battle (Japan) {SLPS-00481} ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+90143CA4 00FFFFFF
+
+[Infinite & Maximum HP Main Character]
+Type = Gameshark
+Activation = EndFrame
+801CC24C 03E7
+801CDF68 03E7
+
+[Level 99]
+Type = Gameshark
+Activation = EndFrame
+301CC148 0063
+
+[Chaos frame]
+Type = Gameshark
+Activation = EndFrame
+30143C98 0064
+
+[Stage 1 Clear]
+Type = Gameshark
+Activation = EndFrame
+301CD401 0001
+
+[Stage 2 Clear]
+Type = Gameshark
+Activation = EndFrame
+301CD402 0001
+
+[Stage 3 Appear]
+Type = Gameshark
+Activation = EndFrame
+301CD401 0000
+
+[Infinite Life]
+Type = Gameshark
+Activation = EndFrame
+901CDF68 00FF00FF
+901CDF6C 00FF00FF
+901CDF70 00FF00FF
+901CDF74 00FF00FF
+901CDF78 00FF00FF
+901CDF7C 00FF00FF
+901CDF80 00FF00FF
+901CDF84 00FF00FF
+901CDF88 00FF00FF
+901CDF8C 00FF00FF
+901CDF90 00FF00FF
+901CDF94 00FF00FF
+901CDF98 00FF00FF
+901CDF9C 00FF00FF
+901CDFA0 00FF00FF
+901CDFA4 00FF00FF
+901CDFA8 00FF00FF
+901CDFAC 00FF00FF
+901CDFB0 00FF00FF
+901CDFB4 00FF00FF
+901CDFB8 00FF00FF
+901CDFBC 00FF00FF
+901CDFC0 00FF00FF
+901CDFC4 00FF00FF
+801CDFC8 00FF
+

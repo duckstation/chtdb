@@ -1,0 +1,182 @@
+; CHTDB: ; [ Destruction Derby Raw (USA) (2000) (Midway Home Entertainment) {SLUS-00912} <dderbyrw> ]
+
+[Alway Start On Last Lap (Assault Battle Mode)]
+Type = Gameshark
+Activation = EndFrame
+D00BF120 FFFF
+C20AA40C 0004
+800BF120 0000
+
+[Infinite Time To Pass Da Bomb (Pass Da Bomb Battle Mode)]
+Type = Gameshark
+Activation = EndFrame
+800BFDCC 00FF
+
+[Infinite Damege Left Front]
+Type = Gameshark
+Activation = EndFrame
+300E0154 0000
+
+[Infinite Damage Left Middle]
+Type = Gameshark
+Activation = EndFrame
+300E0156 0000
+
+[Infinite Damage Left Rear]
+Type = Gameshark
+Activation = EndFrame
+300E0158 0000
+
+[Infinite Damage Right Middle]
+Type = Gameshark
+Activation = EndFrame
+300E0157 0000
+
+[Infin ite Damage Right Rear]
+Type = Gameshark
+Activation = EndFrame
+300E0159 0000
+
+[Infinite Damage Right Right]
+Type = Gameshark
+Activation = EndFrame
+300E0155 0000
+
+[Max Points (Assault Battle Mode)]
+Type = Gameshark
+Activation = EndFrame
+800BF07C 270F
+
+[Max Points (Wreckin Racin Mode, Destruction Derby Battle Mode, Skyscraper Battle + Pass Da Bomb Mode)]
+Type = Gameshark
+Activation = EndFrame
+800BEA78 270F
+
+[Unlock Path To Avalanche]
+Type = Gameshark
+Activation = EndFrame
+300C0DCB 0000
+
+[Unlock Path To Avalanche 2]
+Type = Gameshark
+Activation = EndFrame
+300C0EBB 0000
+
+[Unlock Path To Axe Head]
+Type = Gameshark
+Activation = EndFrame
+300C0C8D 0000
+
+[Unlock Path To Axe Head 2]
+Type = Gameshark
+Activation = EndFrame
+300C0F35 0000
+
+[Unlock Path To Carpark]
+Type = Gameshark
+Activation = EndFrame
+300C0E6B 0000
+
+[Unlock Path To Cyclone]
+Type = Gameshark
+Activation = EndFrame
+300C0FD5 0000
+
+[Unlock Path To Dragonfly 2]
+Type = Gameshark
+Activation = EndFrame
+300C0EE5 0000
+
+[Unlock Path To Fall Out]
+Type = Gameshark
+Activation = EndFrame
+300C0CB5 0000
+
+[Unlock Path To Fall Out 2]
+Type = Gameshark
+Activation = EndFrame
+300C0D7B 0000
+
+[Unlock Path To Four]
+Type = Gameshark
+Activation = EndFrame
+300C0FAB 0000
+
+[Unlock Path To Jagged Edge]
+Type = Gameshark
+Activation = EndFrame
+300C0E45 0000
+
+[Unlock Path To Jagged Edge 2]
+Type = Gameshark
+Activation = EndFrame
+300C0E95 0000
+
+[Unlock Path To Karsutra]
+Type = Gameshark
+Activation = EndFrame
+300C0D55 0000
+
+[Unlock Path To Leap Of Faith]
+Type = Gameshark
+Activation = EndFrame
+300C0F85 0000
+
+[Unlock Path To Loops Of Fury]
+Type = Gameshark
+Activation = EndFrame
+300C0E1B 0000
+
+[Unlock Path To Loops Of Fury 2]
+Type = Gameshark
+Activation = EndFrame
+300C0F5B 0000
+
+[Unlock Path To Oilslick]
+Type = Gameshark
+Activation = EndFrame
+300C0C65 0000
+
+[Unlock Path To Overflow]
+Type = Gameshark
+Activation = EndFrame
+300C0CDB 0000
+
+[Unlock Path To Overflow 2]
+Type = Gameshark
+Activation = EndFrame
+300C0DA5 0000
+
+[Unlock Path To Sidewinder]
+Type = Gameshark
+Activation = EndFrame
+300C0D2B 0000
+
+[Unlock Path To Slammer]
+Type = Gameshark
+Activation = EndFrame
+300C0FFB 0000
+
+[Unlock Path To Stadium]
+Type = Gameshark
+Activation = EndFrame
+300C0F0D 0000
+
+[Unlock Path To Up N Over]
+Type = Gameshark
+Activation = EndFrame
+300C0D05 0000
+
+[Unlock Path To Up N Over 2]
+Type = Gameshark
+Activation = EndFrame
+300C0DF5 0000
+
+[Press X for No Overall Damage]
+Type = Gameshark
+Activation = EndFrame
+C00AA5C0 4000
+800AA722 0000
+800AA724 0000
+00000000 FFFF
+

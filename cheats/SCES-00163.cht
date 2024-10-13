@@ -1,0 +1,22 @@
+; CHTDB: ; [ Mickey's Wild Adventure (Europe) (Platinum) {SCES-00163} ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800B037C 0003
+
+[Infinite Marbles]
+Type = Gameshark
+Activation = EndFrame
+800AFFC4 000A
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800AFBF0 0033
+
+[Level Select]
+Type = Gameshark
+Activation = EndFrame
+300AFF34 0001
+

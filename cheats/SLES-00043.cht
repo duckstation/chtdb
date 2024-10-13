@@ -1,0 +1,228 @@
+; CHTDB: ; [ Super Pang Collection (Europe) {SLES-00043} ]
+
+[Pomping World Codes\Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+800C91DA 0303
+
+[Pomping World Codes\Infinite Time To Choose]
+Type = Gameshark
+Activation = EndFrame
+800C9B78 0A24
+
+[Pomping World Codes\Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800FD4E4 006F
+
+[Pomping World Codes\P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800C7B08 0006
+
+[Pomping World Codes\P1 Have Shield Press L1]
+Type = Gameshark
+Activation = EndFrame
+D00D8550 0004
+800C7B00 0002
+
+[Pomping World Codes\P1 Have Pistol Press L2]
+Type = Gameshark
+Activation = EndFrame
+D00D8550 0001
+800C7B04 0001
+
+[Pomping World Codes\P1 Have Powerwire Press R1]
+Type = Gameshark
+Activation = EndFrame
+D00D8550 0008
+800C7B1C 0101
+
+[Pomping World Codes\P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800C7B88 0006
+
+[Pomping World Codes\P2 Have Shield Press L1]
+Type = Gameshark
+Activation = EndFrame
+D00D8554 0004
+800C7B80 0002
+
+[Pomping World Codes\P2 Have Pistol Press L2]
+Type = Gameshark
+Activation = EndFrame
+D00D8554 0001
+800C7B84 0001
+
+[Pomping World Codes\P2 Have Powerwire Press R1]
+Type = Gameshark
+Activation = EndFrame
+D00D8554 0008
+800C7B9C 0101
+
+[Super Pang Codes\Infinite Time To Choose]
+Type = Gameshark
+Activation = EndFrame
+800862C8 0009
+
+[Super Pang Codes\Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800A5B88 9815
+
+[Super Pang Codes\Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+800A76AA 0303
+
+[Super Pang Codes\P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800929C8 0005
+
+[Super Pang Codes\P1 Have Powerwire Press L1]
+Type = Gameshark
+Activation = EndFrame
+D00BCCCC 0004
+800A5C1E 0400
+
+[Super Pang Codes\P1 Have Double Harpoon Press L2]
+Type = Gameshark
+Activation = EndFrame
+D00BCCCC 0001
+800A5C1E 0200
+
+[Super Pang Codes\P1 Have Pistol Press R1]
+Type = Gameshark
+Activation = EndFrame
+D00BCCCC 0008
+800A5C1E 0600
+
+[Super Pang Codes\P1 Have Shield Press R2]
+Type = Gameshark
+Activation = EndFrame
+D00BCCCC 0002
+800A5C1C 0402
+
+[Super Pang Codes\P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800929D8 0005
+
+[Super Pang Codes\P2 Have Powerwires Press L1]
+Type = Gameshark
+Activation = EndFrame
+D00BCCD4 0004
+800A5C9E 0400
+
+[Super Pang Codes\P2 Have Double Harpoon Press L2]
+Type = Gameshark
+Activation = EndFrame
+D008CCD4 0001
+800A5C9E 0200
+
+[Super Pang Codes\P2 Have Pistol Press R1]
+Type = Gameshark
+Activation = EndFrame
+D008CCD4 0008
+800A5C9E 0600
+
+[Super Pang Codes\P2 Have Shield Press R2]
+Type = Gameshark
+Activation = EndFrame
+D008CCD4 0002
+800A5C9C 0002
+
+[Pang! 3 Codes\Infinit Credits]
+Type = Gameshark
+Activation = EndFrame
+8008CF34 0005
+
+[Pang! 3 Codes\Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80173F38 FFFF
+
+[Pang! 3 Codes\P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+30173F3E 0005
+
+[Pang! 3 Codes\P1 Have Shield Press L1]
+Type = Gameshark
+Activation = EndFrame
+D0078B58 0004
+8009201C 0001
+
+[Pang! 3 Codes\P1 Have Powerwire Press L2]
+Type = Gameshark
+Activation = EndFrame
+D0078B58 0001
+80091FF0 0001
+
+[Pang! 3 Codes\P1 Have Blaster Press R1]
+Type = Gameshark
+Activation = EndFrame
+D0078B58 0008
+80091FF0 0002
+
+[Pang! 3 Codes\P1 Have Diagonal Wires Press R2]
+Type = Gameshark
+Activation = EndFrame
+D0078B58 0002
+80091FF0 0003
+
+[Pang! 3 Codes\P1 Have Single Wire Press L1+L2]
+Type = Gameshark
+Activation = EndFrame
+D0078B58 0005
+80091FF0 0004
+
+[Pang! 3 Codes\P1 Have Double Harpoon Press R1+R2]
+Type = Gameshark
+Activation = EndFrame
+D0078B58 000A
+80091FF0 0000
+
+[Pang! 3 Codes\P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+30173F3F 0003
+
+[Pang! 3 Codes\P2 Have Shield Press L1]
+Type = Gameshark
+Activation = EndFrame
+D0078B5C 0004
+800920DC 0001
+
+[Pang! 3 Codes\P2 Have Powerwire Press L2]
+Type = Gameshark
+Activation = EndFrame
+D0078B5C 0001
+800920B0 0001
+
+[Pang! 3 Codes\P2 Have Blaster Press R1]
+Type = Gameshark
+Activation = EndFrame
+D0078B5C 0008
+800920B0 0002
+
+[Pang! 3 Codes\P2 Have Diagonal Wires Press R2]
+Type = Gameshark
+Activation = EndFrame
+D0078B5C 0002
+800920B0 0003
+
+[Pang! 3 Codes\P2 Have Single Wire Press L1+L2]
+Type = Gameshark
+Activation = EndFrame
+D0078B5C 0005
+800920B0 0004
+
+[Pang! 3 Codes\P2 Have Double Harpoon Press R1+R2]
+Type = Gameshark
+Activation = EndFrame
+D0078B5C 000A
+800920B0 0000
+

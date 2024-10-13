@@ -1,0 +1,50 @@
+; CHTDB: ; [ Ace Combat (Japan) {SLPS-00061} ]
+
+[Infinite Missiles]
+Type = Gameshark
+Activation = EndFrame
+800EDF18 0040
+
+[Infinite Guns]
+Type = Gameshark
+Activation = EndFrame
+300EDF1C 0027
+
+[Infinite Fuel]
+Type = Gameshark
+Activation = EndFrame
+800EDF0C 8FFF
+
+[Infinite Bullet]
+Type = Gameshark
+Activation = EndFrame
+800EDF1C 0050
+
+[Aircraft recognition number FULL!]
+Type = Gameshark
+Activation = EndFrame
+80010150 0008
+
+[Airplane hangar in all]
+Type = Gameshark
+Activation = EndFrame
+80010150 000F
+90010158 02030001
+9001015C 06070405
+90010160 0A0B0809
+90010164 0E0F0C0D
+
+[All routes]
+Type = Gameshark
+Activation = EndFrame
+900101AC 01010101
+900101B0 01010101
+900101B4 01010101
+900101B8 01010101
+800101BC 0101
+
+[Does not receive damage]
+Type = Gameshark
+Activation = EndFrame
+800EDE38 010E
+

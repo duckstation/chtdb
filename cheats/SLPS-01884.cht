@@ -1,0 +1,61 @@
+; CHTDB: ; [ World Neverland 2: Pluto Kyouwakoku Monogatari (Japan) {SLPS-01884} ]
+
+[Indispensable Code Please Input]
+Type = Gameshark
+Activation = EndFrame
+800383C4 02D0
+90000BF0 0800ADE2
+
+[Money Largest]
+Type = Gameshark
+Activation = EndFrame
+90000B40 3403869F
+90000B44 A6C30008
+90000B48 34030001
+90000B4C A2C3000A
+
+[No Tiredness & Stress]
+Type = Gameshark
+Activation = EndFrame
+90000B50 A6C0000E
+
+[Every Experience Price Largest .speed, stamina, spiritus]
+Type = Gameshark
+Activation = EndFrame
+90000B60 3403270F
+90000B64 A6C30064
+90000B68 A6C30066
+90000B6C A6C30068
+
+[Job Point Largest]
+Type = Gameshark
+Activation = EndFrame
+90000B80 3403FFFF
+90000B84 A6C30034
+90000B88 A6C30036
+
+[War Record Maximum]
+Type = Gameshark
+Activation = EndFrame
+90000B90 34030009
+90000B94 A2C30070
+80000B98 0071
+80000B5A A2C0
+90000B9C A2C30072
+90000BA0 340300FF
+90000BA4 A2C30073
+90000BA8 A2C00074
+90000BAC A2C30075
+90000BB0 A2C30076
+90000BB4 A2C30077
+
+[Number Largest On Warehouse Item]
+Type = Gameshark
+Activation = EndFrame
+8003A178 FFFF
+8003A118 0002
+D01D0CD0 0010
+8003A178 0000
+D01D0CD0 0010
+8003A118 0001
+

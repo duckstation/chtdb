@@ -1,0 +1,96 @@
+; CHTDB: ; [ Star Wars: Episode I: The Phantom Menace (Europe) {SLES-02034} ]
+
+[Infinite Health (Still Die From Falling To Far)]
+Type = Gameshark
+Activation = EndFrame
+800B868C 0063
+
+[Always Full Force Power]
+Type = Gameshark
+Activation = EndFrame
+800B8498 1000
+
+[Legs Don't Work]
+Type = Gameshark
+Activation = EndFrame
+80088CDA 0020
+
+[Always have Infinite Blaster]
+Type = Gameshark
+Activation = EndFrame
+800B86A4 0063
+
+[Always have Infinite Light Repeating Blaster]
+Type = Gameshark
+Activation = EndFrame
+800B86A8 0063
+
+[Always have Infinite Proton Missile Launcher]
+Type = Gameshark
+Activation = EndFrame
+800B86AC 0063
+
+[Always have Infinite Thermal Detonator]
+Type = Gameshark
+Activation = EndFrame
+800B86B0 0063
+
+[Always have Infinite Gungan Energy Ball]
+Type = Gameshark
+Activation = EndFrame
+800B86B4 0063
+
+[Always have Infinite Flash Grenade]
+Type = Gameshark
+Activation = EndFrame
+800B86B8 0063
+
+[Have Droid Stunner]
+Type = Gameshark
+Activation = EndFrame
+800B86C0 0001
+
+[Always have Infinite R-65 Heavy Blaster]
+Type = Gameshark
+Activation = EndFrame
+800B86C4 0063
+
+[Always have Infinite Naboo Blaster]
+Type = Gameshark
+Activation = EndFrame
+800B86C8 0063
+
+[Infinite Health Qui-Gon Jinn]
+Type = Gameshark
+Activation = EndFrame
+800B86D8 0064
+
+[Captain Panaka Have Weapons + Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+800B8740 01F4
+800B8760 004B
+800B875C 0064
+
+[Queen Amidala Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800B8770 0064
+
+[Press R1 To Get A Speed Boost]
+Type = Gameshark
+Activation = EndFrame
+E0077774 0008
+800B8354 1000
+
+[Hold Jump For Moon Jump]
+Type = Gameshark
+Activation = EndFrame
+E0077774 0040
+800B8358 0190
+
+[Infinite Health Captain Panaka]
+Type = Gameshark
+Activation = EndFrame
+800B8724 0064
+

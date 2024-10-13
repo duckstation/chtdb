@@ -1,0 +1,32 @@
+; CHTDB: ; [ XS Junior League Dodgeball (USA) (2003) (XS Games) {SLUS-01560} <xsdodgeb> ]
+
+[P1 Infinite Energy Lead Player]
+Type = Gameshark
+Activation = EndFrame
+80067EF0 0030
+
+[P1 Infinite Energy Helper 1]
+Type = Gameshark
+Activation = EndFrame
+80067F5C 001C
+
+[P1 Infinite Energy Helper 2]
+Type = Gameshark
+Activation = EndFrame
+80067FC8 0023
+
+[P1 Infinite Energy Helper 3]
+Type = Gameshark
+Activation = EndFrame
+80068034 001C
+
+[Infinite Magic]
+Type = Gameshark
+Activation = EndFrame
+80066E12 0055
+
+[Start of Final Round]
+Type = Gameshark
+Activation = EndFrame
+80067028 0006
+

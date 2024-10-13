@@ -1,0 +1,12 @@
+; CHTDB: ; [ Hugo 2 (Europe) {SLES-01805} ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8010CC14 0003
+
+[All The Films Unlockeds]
+Type = Gameshark
+Activation = EndFrame
+8019A112 0004
+

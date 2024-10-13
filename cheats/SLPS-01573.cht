@@ -1,0 +1,12 @@
+; CHTDB: ; [ Doki Doki Poyatchio!! (Japan) {SLPS-01573} ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80082B71 007D
+
+[Infinite Money (60000)]
+Type = Gameshark
+Activation = EndFrame
+80082B76 EA60
+

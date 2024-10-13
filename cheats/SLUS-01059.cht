@@ -1,0 +1,376 @@
+; CHTDB: ; [ Marvel vs. Capcom - Clash of Super Heroes (USA) (2000) (Capcom Entertainment) {SLUS-01059} <mvsc> ]
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8007C124 0090
+
+[P1 1 Hit Kill]
+Type = Gameshark
+Activation = EndFrame
+A607C124 00900001
+
+[P1 Instant Death]
+Type = Gameshark
+Activation = EndFrame
+8007C124 0000
+
+[P2 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8007C534 0090
+
+[P2 1 Hit Kill]
+Type = Gameshark
+Activation = EndFrame
+A607C534 00900001
+
+[P2 Instant Death]
+Type = Gameshark
+Activation = EndFrame
+8007C534 0000
+
+[Unlock Everything]
+Type = Gameshark
+Activation = EndFrame
+50000302 0000
+8007B72C FFFF
+
+[Unlock Hidden Characters + Gallery Options]
+Type = Gameshark
+Activation = EndFrame
+9007B72C FFFFFFFF
+8007B730 FFFF
+
+[Infinite Round Timer]
+Type = Gameshark
+Activation = EndFrame
+8007B832 6363
+
+[P1 Select Hyper Combo Gauge\Full]
+Type = Gameshark
+Activation = EndFrame
+8007C126 0090
+
+[P1 Select Hyper Combo Gauge\Empty]
+Type = Gameshark
+Activation = EndFrame
+8007C126 0000
+
+[P2 Select Hyper Combo Gauge\Full]
+Type = Gameshark
+Activation = EndFrame
+8007C536 0090
+
+[P2 Select Hyper Combo Gauge\Empty]
+Type = Gameshark
+Activation = EndFrame
+8007C536 0000
+
+[P1 Select  Hyper Combo\Level 0]
+Type = Gameshark
+Activation = EndFrame
+8007C128 0000
+
+[P1 Select  Hyper Combo\Level 1]
+Type = Gameshark
+Activation = EndFrame
+8007C128 0001
+
+[P1 Select  Hyper Combo\Level 2]
+Type = Gameshark
+Activation = EndFrame
+8007C128 0002
+
+[P1 Select  Hyper Combo\Level 3]
+Type = Gameshark
+Activation = EndFrame
+8007C128 0003
+
+[P2 Select  Hyper Combo\Level 0]
+Type = Gameshark
+Activation = EndFrame
+8007C538 0000
+
+[P2 Select  Hyper Combo\Level 1]
+Type = Gameshark
+Activation = EndFrame
+8007C538 0001
+
+[P2 Select  Hyper Combo\Level 2]
+Type = Gameshark
+Activation = EndFrame
+8007C538 0002
+
+[P2 Select  Hyper Combo\Level 3]
+Type = Gameshark
+Activation = EndFrame
+8007C538 0003
+
+[P1 Partner Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8007C984 0090
+
+[P1 Partner 1 Hit Kill]
+Type = Gameshark
+Activation = EndFrame
+A607C984 00900001
+
+[P1 Partner Instant Death]
+Type = Gameshark
+Activation = EndFrame
+8007C984 0000
+
+[P2 Partner Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8007CD8C 0090
+
+[P2 Partner 1 Hit Kill]
+Type = Gameshark
+Activation = EndFrame
+A607CD8C 00900001
+
+[P2 Partner Instant Death]
+Type = Gameshark
+Activation = EndFrame
+8007CD8C 0000
+
+[P1 Infinite Special Partner Attacks]
+Type = Gameshark
+Activation = EndFrame
+8007C17A 0005
+
+[P1 No Special Partner Attacks]
+Type = Gameshark
+Activation = EndFrame
+8007C17A 0000
+
+[P2 Infinite Special Partner Attacks]
+Type = Gameshark
+Activation = EndFrame
+8007CDE2 0005
+
+[P2 No Special Partner Attacks]
+Type = Gameshark
+Activation = EndFrame
+8007CDE2 0000
+
+[P1 Max Wins]
+Type = Gameshark
+Activation = EndFrame
+8007B896 03E7
+
+[P2 Max Wins]
+Type = Gameshark
+Activation = EndFrame
+8007B898 03E7
+
+[P1 Quick Max Score]
+Type = Gameshark
+Activation = EndFrame
+8007C168 FFFF
+
+[P2 Quick Max Score]
+Type = Gameshark
+Activation = EndFrame
+8007C578 FFFF
+
+[Start On Last Stage]
+Type = Gameshark
+Activation = EndFrame
+E007B888 0000
+3007B888 0007
+
+[P1 Only Needs One Win]
+Type = Gameshark
+Activation = EndFrame
+E007B82A 0000
+3007B82A 0001
+
+[P1 Never Wins]
+Type = Gameshark
+Activation = EndFrame
+3007B82A 0000
+
+[P2 Only Needs One Win]
+Type = Gameshark
+Activation = EndFrame
+E007B82B 0000
+3007B82B 0001
+
+[P2 Never Wins]
+Type = Gameshark
+Activation = EndFrame
+3007B82B 0000
+
+[P1 Ryu With Ken Moves]
+Type = Gameshark
+Activation = EndFrame
+3007B8E4 0002
+
+[P1 Ryu With Akuma Moves]
+Type = Gameshark
+Activation = EndFrame
+3007B8E4 0004
+
+[P1 Infinite Duo Team Attack]
+Type = Gameshark
+Activation = EndFrame
+A607B862 02300240
+
+[P1 Infinite Wolverine Berserk Mode]
+Type = Gameshark
+Activation = EndFrame
+8007C222 01FF
+
+[P2 Infinite Duo Team Attack]
+Type = Gameshark
+Activation = EndFrame
+A607B864 02300240
+
+[P2 Infinite Wolverine Berserk Mode]
+Type = Gameshark
+Activation = EndFrame
+8007C632 01FF
+
+[P2 Ryu With Ken Moves]
+Type = Gameshark
+Activation = EndFrame
+3007B8E5 0002
+
+[P2 Ryu With Akuma Moves]
+Type = Gameshark
+Activation = EndFrame
+3007B8E5 0004
+
+[P1 Infinite Time For Mega Man Specials]
+Type = Gameshark
+Activation = EndFrame
+8007C236 0010
+
+[P2 Infinite Time For Mega Man Specials]
+Type = Gameshark
+Activation = EndFrame
+8007C646 0010
+
+[Enter Ex Mode (L1/R1/Select)]
+Type = Gameshark
+Activation = EndFrame
+D0028808 0C01
+8007B6E8 0108
+
+[P1 Jin Has Super Armor]
+Type = Gameshark
+Activation = EndFrame
+8007C258 00FF
+
+[P1 Rapid Attack]
+Type = Gameshark
+Activation = EndFrame
+8007BF76 0000
+
+[P1 Mega Man Has Magnetic Shockwave]
+Type = Gameshark
+Activation = EndFrame
+8007C24E 0001
+
+[P1 Mega Man's Mega Buster At Max]
+Type = Gameshark
+Activation = EndFrame
+8007C238 00FF
+
+[P2 Jin Has Super Armor]
+Type = Gameshark
+Activation = EndFrame
+8007C668 00FF
+
+[P2 Rapid Attack]
+Type = Gameshark
+Activation = EndFrame
+8007CBFE 0000
+
+[P2 Mega Man Has Magnetic Shockwave]
+Type = Gameshark
+Activation = EndFrame
+8007C65E 0001
+
+[P2 Mega Man's Mega Buster At Max]
+Type = Gameshark
+Activation = EndFrame
+8007C648 00FF
+
+[P1 Super Hyper Attack Mode]
+Type = Gameshark
+Activation = EndFrame
+8007BF2C 0000
+
+[P2 Super Hyper Attack Mode]
+Type = Gameshark
+Activation = EndFrame
+8007C33C 0000
+
+[P1 All Attacks Hurt]
+Type = Gameshark
+Activation = EndFrame
+800489CE 8E13
+80048A02 0260
+80048A1A 2400
+
+[P2 All Attacks Hurt]
+Type = Gameshark
+Activation = EndFrame
+8004889E 8E13
+800488D2 0260
+800488EA 2400
+
+[P1 Invinciblity-Hit Anywhere Only!]
+Type = Gameshark
+Activation = EndFrame
+80048888 C2A0
+800497F2 2400
+
+[Ex Menu Cheat Modifier\Vs. Mode\Hyper Combo Gauge Full]
+Type = Gameshark
+Activation = EndFrame
+3007B6FB 0001
+
+[Ex Menu Cheat Modifier\Vs. Mode\Hyper Combo Gauge Normal]
+Type = Gameshark
+Activation = EndFrame
+3007B6FB 0000
+
+[Ex Menu Cheat Modifier\Vs. Mode\P1 Rapid Kill (Press Select)]
+Type = Gameshark
+Activation = EndFrame
+D00287B0 0100
+8004AD26 2400
+D00287B0 0000
+8004AD26 A0A0
+
+[Ex Menu Cheat Modifier\Vs. Mode\P2 Rapid Kill (Press Select)]
+Type = Gameshark
+Activation = EndFrame
+D00287B2 0100
+8004AD26 2400
+D00287B2 0000
+8004AD26 A0A0
+
+[Ex Menu Cheat Modifier\Vs. Mode\Immune To Throws (Both Players)]
+Type = Gameshark
+Activation = EndFrame
+800536FE 2400
+
+[P2 Ex Menu Cheat Modifier\Vs. Mode\Invincibility P1 + Immune To Throws]
+Type = Gameshark
+Activation = EndFrame
+80048902 2400
+800536FE 2400
+
+[P1 Ex Menu Cheat Modifier\Vs. Mode\Invincibility P2 + Immune To Throws]
+Type = Gameshark
+Activation = EndFrame
+80048A32 2400
+800536FE 2400
+

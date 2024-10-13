@@ -1,0 +1,42 @@
+; CHTDB: ; [ Everybody's Golf 2 (Euro) (2000) (Sony Computer Entertainment Europe) {SCES-02146} <evryglf2> ]
+
+[Enable All Characters]
+Type = Gameshark
+Activation = EndFrame
+A6046EB0 00071FFF
+
+[Enable All Stages]
+Type = Gameshark
+Activation = EndFrame
+80047894 00FF
+
+[P1 Always Win]
+Type = Gameshark
+Activation = EndFrame
+50001202 0000
+80046D7E 0002
+
+[P1 Max Status]
+Type = Gameshark
+Activation = EndFrame
+90046EB8 00FDFFFF
+30046E8C 0063
+80046EC2 0005
+
+[Hole In One Every Shot]
+Type = Gameshark
+Activation = EndFrame
+800FA75C 0001
+
+[20 Under Par]
+Type = Gameshark
+Activation = EndFrame
+80046E76 FFEC
+
+[Hole In One All Courses (Press L2)]
+Type = Gameshark
+Activation = EndFrame
+D004B020 0001
+50001202 0000
+80046D7E 0001
+

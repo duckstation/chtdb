@@ -1,0 +1,15 @@
+; CHTDB: ; [ Silent MÃ¶bius: Case: Titanic (Japan) {SLPS-01618} ]
+
+[Infinite Bt Bullets]
+Type = Gameshark
+Activation = EndFrame
+D00B9C32 2462
+800B9C30 0000
+
+[No Enemy Press X and Circle together]
+Type = Gameshark
+Activation = EndFrame
+801BA628 0000
+D0095252 0060
+801BA628 0FFF
+

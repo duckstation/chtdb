@@ -1,0 +1,82 @@
+; CHTDB: ; [ Final Fantasy VIII (Italy) {SLES-02083 | SLES-12083 | SLES-22083 | SLES-32083} ]
+
+[Squall HP infinito]
+Type = Gameshark
+Activation = EndFrame
+80077CDA 270F
+
+[Rhinoa HP infinito]
+Type = Gameshark
+Activation = EndFrame
+80077F3A 270F
+
+[Ricarica immediata barra energia durante il combattimento]
+Type = Gameshark
+Activation = EndFrame
+80078D74 2EE0
+80078F44 2EE0
+80079114 2EE0
+
+[Nessun combattimento casuale]
+Type = Gameshark
+Activation = EndFrame
+800792C8 000C
+
+[Soldi infiniti]
+Type = Gameshark
+Activation = EndFrame
+80078354 0FFF
+80068356 5F5E
+
+[Salva ovunque]
+Type = Gameshark
+Activation = EndFrame
+80070B22 0100
+
+[Tutte le carte]
+Type = Gameshark
+Activation = EndFrame
+50002602 0000
+80078B28 E4E4
+30078B74 00E4
+50001002 0000
+80078B76 F0F0
+30078B75 00F0
+80078B96 FFFF
+80078B98 FFFF
+30078B9A 00FF
+
+[Super Chocobo]
+Type = Gameshark
+Activation = EndFrame
+9009B548 04010000
+
+[Tutte le acquisizioni di Ifrid e Shiva]
+Type = Gameshark
+Activation = EndFrame
+900778AC FFFFFFFF
+50000502 0000
+800778B0 FFFF
+800778BA 00FF
+50000702 0000
+800778F0 FFFF
+800778FE 00FF
+
+[Usare attacchi speciali durante la battaglia 1. personaggio (L1 & L2)]
+Type = Gameshark
+Activation = EndFrame
+D00832BE 0005
+80078C10 0400
+
+[Usare attacchi speciali durante la battaglia 2. personaggio (R1 & R2)]
+Type = Gameshark
+Activation = EndFrame
+D00832BE 000A
+80078DE0 0400
+
+[Usare attacchi speciali durante la battaglia 3. personaggio (L1 & R1)]
+Type = Gameshark
+Activation = EndFrame
+D00832BE 000C
+80078FB0 0400
+

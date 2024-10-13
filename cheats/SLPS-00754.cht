@@ -1,0 +1,32 @@
+; CHTDB: ; [ Odo Odo Oddity (Jpn) (1997) (I.D.C.) {SLPS-00754} <odoodo> ]
+
+[Infinite Magic + Life]
+Type = Gameshark
+Activation = EndFrame
+800A8978 0063
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800C358C 0003
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+80017ADA 1000
+
+[Infinite Player]
+Type = Gameshark
+Activation = EndFrame
+8001521C 0000
+
+[Infinite Bookmark]
+Type = Gameshark
+Activation = EndFrame
+8001A862 0040
+
+[Infinite Balloon]
+Type = Gameshark
+Activation = EndFrame
+80017BDC 0000
+

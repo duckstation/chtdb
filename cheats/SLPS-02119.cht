@@ -1,0 +1,18 @@
+; CHTDB: ; [ Acid (Jpn) (1999) (Taki) {SLPS-02119} <acid> ]
+
+[Infinite Shots]
+Type = Gameshark
+Activation = EndFrame
+800A24B2 000A
+
+[Time = 00'00'00]
+Type = Gameshark
+Activation = EndFrame
+800A28E2 0000
+800A28E4 0000
+
+[Infinite Spreed Shots]
+Type = Gameshark
+Activation = EndFrame
+800A25B0 0009
+

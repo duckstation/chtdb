@@ -1,0 +1,68 @@
+; CHTDB: ; [ Oasis Road (Jpn) (1999) (Idea Factory) {SLPS-01899} <oasisrd> ]
+
+[Infinite Energy Character 1 In Battle]
+Type = Gameshark
+Activation = EndFrame
+80129972 0063
+
+[Infinite Energy Character 2 In Battle]
+Type = Gameshark
+Activation = EndFrame
+801299A2 0063
+
+[Infinite Energy Character 3 In Battle]
+Type = Gameshark
+Activation = EndFrame
+801299D2 0063
+
+[Infinite Energy Character 4 In Battle]
+Type = Gameshark
+Activation = EndFrame
+80129A02 0063
+
+[Food]
+Type = Gameshark
+Activation = EndFrame
+301EDFF0 0064
+
+[Fuel]
+Type = Gameshark
+Activation = EndFrame
+301EDFF4 0064
+
+[Fame]
+Type = Gameshark
+Activation = EndFrame
+801EDFF8 03E7
+
+[Gold Coins]
+Type = Gameshark
+Activation = EndFrame
+801EDFFC 03E7
+
+[Infinite Fuel]
+Type = Gameshark
+Activation = EndFrame
+D00B3E20 0004
+800B3E22 1000
+
+[Infinite Food]
+Type = Gameshark
+Activation = EndFrame
+900B4294 1000000E
+
+[Code For Combatcara Until Next +30 Hhp's High-1]
+Type = Gameshark
+Activation = EndFrame
+30129972 00FF
+
+[1 Eye-Gauge Power]
+Type = Gameshark
+Activation = EndFrame
+30129973 0009
+
+[Second Power Gauge]
+Type = Gameshark
+Activation = EndFrame
+301299A3 0009
+

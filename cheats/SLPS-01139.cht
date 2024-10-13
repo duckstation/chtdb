@@ -1,0 +1,7 @@
+; CHTDB: ; [ Tsuridou: Umizuri-hen (Japan) {SLPS-01139} ]
+
+[Have 999999 money in story mode]
+Type = Gameshark
+Activation = EndFrame
+901E7E7C 000F423F
+

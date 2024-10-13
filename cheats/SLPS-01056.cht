@@ -1,0 +1,39 @@
+; CHTDB: ; [ Spectral Force (Japan) {SLPS-01056} ]
+
+[Infinite Fund\Dark Kingdom]
+Type = Gameshark
+Activation = EndFrame
+901F1868 03E703E7
+901F186C 03E703E7
+
+[Infinite Fund\Holy Kingdom]
+Type = Gameshark
+Activation = EndFrame
+901F1C00 03E703E7
+901F1C04 03E703E7
+
+[Infinite Fund\Green Kingdom]
+Type = Gameshark
+Activation = EndFrame
+901F24FC 03E703E7
+901F2500 03E703E7
+
+[Infinite Fund\East Kingdom]
+Type = Gameshark
+Activation = EndFrame
+901F266C 03E703E7
+901F2670 03E703E7
+
+[HP 999]
+Type = Gameshark
+Activation = EndFrame
+801CBB7A 03E7
+801CBB9E 03E7
+801CBBC2 03E7
+801CBBE6 03E7
+
+[Infinite Army]
+Type = Gameshark
+Activation = EndFrame
+801C6EF0 270F
+

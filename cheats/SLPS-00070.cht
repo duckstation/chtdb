@@ -1,0 +1,72 @@
+; CHTDB: ; [ Street Fighter: Real Battle on Film (Japan) {SLPS-00070} ]
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801B77AA 0070
+
+[P2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801B7B4A 0070
+
+[P1 Infinite Super Meter]
+Type = Gameshark
+Activation = EndFrame
+801B78C2 3030
+
+[P2 Infinite Super Meter]
+Type = Gameshark
+Activation = EndFrame
+801B7C62 3030
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+801DA574 6300
+
+[P1 No Energy]
+Type = Gameshark
+Activation = EndFrame
+801B77AA 0000
+
+[P2 No Energy]
+Type = Gameshark
+Activation = EndFrame
+801B7B4A 0000
+
+[P1 No Super Meter]
+Type = Gameshark
+Activation = EndFrame
+801B78C2 0000
+
+[P2 No Super Meter]
+Type = Gameshark
+Activation = EndFrame
+801B7C62 0000
+
+[P1 Level 1 Super Bar]
+Type = Gameshark
+Activation = EndFrame
+801B78C2 1010
+
+[P1 Level 2 Super Bar]
+Type = Gameshark
+Activation = EndFrame
+801B78C2 2020
+
+[P1 Level 3 Super Bar]
+Type = Gameshark
+Activation = EndFrame
+801B78C2 3030
+
+[P1 Play As Gouki]
+Type = Gameshark
+Activation = EndFrame
+801B7AAE 0707
+
+[Unlock Video-Clip In Options]
+Type = Gameshark
+Activation = EndFrame
+301B8CF6 0001
+

@@ -1,0 +1,12 @@
+; CHTDB: ; [ The Bombing Islands (USA) (2001) (Kemco U.S.A.) {SLUS-01292} <bombisl> ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80072E08 10FD
+
+[Always 1 Step]
+Type = Gameshark
+Activation = EndFrame
+80072E96 0001
+

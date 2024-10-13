@@ -1,0 +1,46 @@
+; CHTDB: ; [ Mystic Mind: Yureru Omoi (Japan) {SLPS-01562 | SLPS-01563} ]
+
+[Have 999900 money]
+Type = Gameshark
+Activation = EndFrame
+8007A456 270F
+
+[Have all stats at maximum (except latest one that is tired)]
+Type = Gameshark
+Activation = EndFrame
+9007A444 03E703E7
+9007A448 03E703E7
+9007A44C 03E703E7
+9007A450 03E703E7
+8007A454 0000
+
+[friendship max]
+Type = Gameshark
+Activation = EndFrame
+8007A462 0063
+
+[affinity max]
+Type = Gameshark
+Activation = EndFrame
+8007A464 0063
+
+[Favorability rating max]
+Type = Gameshark
+Activation = EndFrame
+3007A466 0063
+
+[Number of times it has been preaching to Ayako teacher]
+Type = Gameshark
+Activation = EndFrame
+8007A3F4 270F
+
+[Ending flag kei]
+Type = Gameshark
+Activation = EndFrame
+3007A766 0001
+
+[Ending flag grace]
+Type = Gameshark
+Activation = EndFrame
+3007A766 0002
+

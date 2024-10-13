@@ -1,0 +1,38 @@
+; CHTDB: ; [ RayCrisis - Series Termination (USA) (2000) (Working Designs) {SLUS-01217} <raycris> ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+300DBAAF 0002
+
+[Max Score]
+Type = Gameshark
+Activation = EndFrame
+900D9C8C 3B9AC9FF
+
+[Always Have Round Divider]
+Type = Gameshark
+Activation = EndFrame
+800D9C96 0010
+
+[Have Max Lock-Ons]
+Type = Gameshark
+Activation = EndFrame
+800DBAB8 001A
+
+[Unlock Art Gallery]
+Type = Gameshark
+Activation = EndFrame
+800B26BA 0001
+
+[Unlock all art gallery]
+Type = Gameshark
+Activation = EndFrame
+800BDDE0 000B
+
+[100% Enchroachment]
+Type = Gameshark
+Activation = EndFrame
+800D7306 0064
+800D730C 0064
+

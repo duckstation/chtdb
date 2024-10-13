@@ -1,0 +1,159 @@
+; CHTDB: ; [ Disney/Pixar Monstruos, S.A.: Isla de los Sustos (Spain) (Promo) {SCES-03767} ]
+
+[Asustometro A 100%]
+Type = Gameshark
+Activation = EndFrame
+800976B5 0064
+
+[Energia Infinita Mike Level 1 Parque]
+Type = Gameshark
+Activation = EndFrame
+800F53F4 0005
+
+[Energia Infinita Sulley Level 1 Parque]
+Type = Gameshark
+Activation = EndFrame
+800F5644 0005
+
+[Energia Infinita Mike Level 2 Centro]
+Type = Gameshark
+Activation = EndFrame
+800E5534 0005
+
+[Energia Infinita Sulley Level 2 Centro]
+Type = Gameshark
+Activation = EndFrame
+800E55DC 0005
+
+[Energia Infinita Mike Level 3 Muelles]
+Type = Gameshark
+Activation = EndFrame
+800E6860 0005
+
+[Energia Infinita Sulley Level 3 Muelles]
+Type = Gameshark
+Activation = EndFrame
+800E6C74 0005
+
+[Energia Infinita Mike Level 4 Mercado]
+Type = Gameshark
+Activation = EndFrame
+800E7974 0005
+
+[Energia Infinita Sulley Level 4 Mercado]
+Type = Gameshark
+Activation = EndFrame
+800E7A20 0005
+
+[Energia Infinita Mike Level 5 Esfinge]
+Type = Gameshark
+Activation = EndFrame
+800E6830 0005
+
+[Energia Infinita Sulley Level 5 Esfinge]
+Type = Gameshark
+Activation = EndFrame
+800E6C14 0005
+
+[Energia Infinita Mike Level 6 Oasis]
+Type = Gameshark
+Activation = EndFrame
+800F28D8 0005
+
+[Energia Infinita Sulley Level 6 Oasis]
+Type = Gameshark
+Activation = EndFrame
+800F2EC4 0005
+
+[Energia Infinita Mike Level 7 Tumba]
+Type = Gameshark
+Activation = EndFrame
+800E4410 0005
+
+[Energia Infinita Sulley Level 7 Tumba]
+Type = Gameshark
+Activation = EndFrame
+800E4804 0005
+
+[Energia Infinita Mike Level 8 Piramide]
+Type = Gameshark
+Activation = EndFrame
+800E992C 0005
+
+[Energia Infinita Sulley Level 8 Piramide]
+Type = Gameshark
+Activation = EndFrame
+800E9B8C 0005
+
+[Energia Infinita Mike Level 9 Choza]
+Type = Gameshark
+Activation = EndFrame
+800EF59C 0005
+
+[Energia Infinita Sulley Level 9 Choza]
+Type = Gameshark
+Activation = EndFrame
+800EF9BC 0005
+
+[Energia Infinita Mike Level 10 Telesqui]
+Type = Gameshark
+Activation = EndFrame
+800E0420 0005
+
+[Energia Infinita Sulley Level 10 Telesqui]
+Type = Gameshark
+Activation = EndFrame
+800E0690 0005
+
+[Energia Infinita Mike Level 11 Iceberg]
+Type = Gameshark
+Activation = EndFrame
+800E2FE0 0005
+
+[Energia Infinita Sulley Level 11 Iceberg]
+Type = Gameshark
+Activation = EndFrame
+800E341C 0005
+
+[Energia Infinita Mike Level 12 Fuentes]
+Type = Gameshark
+Activation = EndFrame
+800E5AC4 0005
+
+[Energia Infinita Sulley Level 12 Fuentes]
+Type = Gameshark
+Activation = EndFrame
+800E5D54 0005
+
+[Vidas Infinitas]
+Type = Gameshark
+Activation = EndFrame
+800100A3 0063
+
+[Movie theater Fully Open]
+Type = Gameshark
+Activation = EndFrame
+90010118 FFFFFFFF
+
+[All Medals]
+Type = Gameshark
+Activation = EndFrame
+900100C8 63636363
+900100CC 63636363
+800100D0 6363
+300100D2 0063
+300100C7 0063
+900100D4 FFFFFFFF
+900100D8 FFFFFFFF
+900100DC FFFFFFFF
+
+[All stages]
+Type = Gameshark
+Activation = EndFrame
+800100EE FFFF
+800100F0 FFFF
+900100F8 FFFFFFFF
+800100FC FFFF
+900100F4 FFFFFFFF
+300100F3 00FF
+

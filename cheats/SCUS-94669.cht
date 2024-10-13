@@ -1,0 +1,119 @@
+; CHTDB: ; [ Stuart Little 2 (USA) (2002) (Sony Computer Entertainment America) {SCUS-94669} <stuartl2> ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800CA09A 0303
+
+[Infinite Fruit]
+Type = Gameshark
+Activation = EndFrame
+800C7728 0063
+
+[Level 1 - All Fish/Blocks]
+Type = Gameshark
+Activation = EndFrame
+800C773E 5006
+
+[Level 1 - All Rings]
+Type = Gameshark
+Activation = EndFrame
+800C773C 00FF
+
+[Level 2 - All Fish/Blocks]
+Type = Gameshark
+Activation = EndFrame
+800C7742 5006
+
+[Level 2 - All Rings]
+Type = Gameshark
+Activation = EndFrame
+800C7740 00FF
+
+[Level 3 - All Fish/Blocks]
+Type = Gameshark
+Activation = EndFrame
+800C7746 5006
+
+[Level 3 - All Rings]
+Type = Gameshark
+Activation = EndFrame
+800C7744 00FF
+
+[Level 4 - All Fish/Blocks]
+Type = Gameshark
+Activation = EndFrame
+800C774A 5006
+
+[Level 4 - All Rings]
+Type = Gameshark
+Activation = EndFrame
+800C7748 00FF
+
+[Level 5 - All Fish/Blocks]
+Type = Gameshark
+Activation = EndFrame
+800C774E 5006
+
+[Level 5 - All Rings]
+Type = Gameshark
+Activation = EndFrame
+800C774C 00FF
+
+[Level 6 - All Fish/Blocks]
+Type = Gameshark
+Activation = EndFrame
+800C7752 5006
+
+[Level 6 - All Rings]
+Type = Gameshark
+Activation = EndFrame
+800C7750 00FF
+
+[Unlock Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+300EAD4C 0001
+
+[Unlock Infinite Energy/Invincibility]
+Type = Gameshark
+Activation = EndFrame
+300EAD84 0001
+
+[Unlock Full Ammo]
+Type = Gameshark
+Activation = EndFrame
+300EAD68 0001
+
+[Unlock All Levels]
+Type = Gameshark
+Activation = EndFrame
+300EAD30 0001
+
+[Unlock Gallery Movies]
+Type = Gameshark
+Activation = EndFrame
+300EAE10 0001
+
+[Unlock Display Debug Info]
+Type = Gameshark
+Activation = EndFrame
+300EADA0 0001
+
+[Unlock Flycam (On Select Menu)]
+Type = Gameshark
+Activation = EndFrame
+300EADF4 0001
+
+[Unlock ???1]
+Description = Unlocks something maybe but not sure what
+Type = Gameshark
+Activation = EndFrame
+300EADBC 0001
+
+[Unlock ???2]
+Description = Unlocks something maybe but not sure what
+Type = Gameshark
+Activation = EndFrame
+300EADD8 0002
+

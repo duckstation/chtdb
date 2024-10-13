@@ -1,0 +1,168 @@
+; CHTDB: ; [ Hokuto no Ken: Seikimatsu Kyuuseishu Densetsu (Japan) {SLPS-02993} ]
+
+[1-Hit Kills]
+Type = Gameshark
+Activation = EndFrame
+A70ED7E6 14401000
+
+[1-Hit Kills 'ALT']
+Type = Gameshark
+Activation = EndFrame
+A70ED93E 14401000
+
+[1-Hit to make enemies explode]
+Type = Gameshark
+Activation = EndFrame
+A70EDA0A 1C402400
+
+[Invincibility - Also affects P2 & some bosses]
+Type = Gameshark
+Activation = EndFrame
+A70DCAA6 14622400
+
+[Enemies are frozen]
+Type = Gameshark
+Activation = EndFrame
+A70EDAEA 14401000
+
+[Walk Anywhere]
+Type = Gameshark
+Activation = EndFrame
+A702C366 14401000
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80172FFC 0800
+
+[P1 Infinite Guard Bar]
+Type = Gameshark
+Activation = EndFrame
+801730F4 0000
+
+[P2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8017341C 0800
+
+[P2 Infinite Guard Bar]
+Type = Gameshark
+Activation = EndFrame
+80173514 0000
+
+[Special Mode]
+Type = Gameshark
+Activation = EndFrame
+8008FD8C 0001
+
+[Hit button Any input success!]
+Type = Gameshark
+Activation = EndFrame
+A70E8DE2 14431400
+A70F617E 14A21400
+
+[2 Players Mode]
+Type = Gameshark
+Activation = EndFrame
+8008FD90 0001
+
+[The Abeshi Mode]
+Type = Gameshark
+Activation = EndFrame
+8008FD8E 0001
+
+[Stop Timer (Abeshi Mode)]
+Type = Gameshark
+Activation = EndFrame
+8017355C 0708
+
+[Killed People Modifier]
+Type = Gameshark
+Activation = EndFrame
+8007734C 03E7
+
+[Use Century theater]
+Type = Gameshark
+Activation = EndFrame
+8008FD8A 0008
+8008FD8C 0001
+
+[All of the century theater unllocked]
+Type = Gameshark
+Activation = EndFrame
+8008FC78 0001
+8008FD5A 0001
+
+[All of the century theater unllocked and fillesd]
+Type = Gameshark
+Activation = EndFrame
+50007202 0000
+8008FC78 0101
+
+[All Characters (2P Mode)]
+Type = Gameshark
+Activation = EndFrame
+50000E02 0000
+8008FDAE 0001
+
+[All Stages (2P Mode)]
+Type = Gameshark
+Activation = EndFrame
+50000E02 0000
+8008FDD0 0001
+
+[Select Level\Chapter I - Messianic advent]
+Type = Gameshark
+Activation = EndFrame
+8008FD8A 0000
+
+[Select Level\Chapter II - The devil incarnate]
+Type = Gameshark
+Activation = EndFrame
+8008FD8A 0001
+
+[Select Level\Chapter III - Nanto Man]
+Type = Gameshark
+Activation = EndFrame
+8008FD8A 0002
+
+[Select Level\Chapter IV - Resume tragedy]
+Type = Gameshark
+Activation = EndFrame
+8008FD8A 0003
+
+[Select Level\Chapter V - Century Champion]
+Type = Gameshark
+Activation = EndFrame
+8008FD8A 0004
+
+[Select Level\Chapter VI - Souther]
+Type = Gameshark
+Activation = EndFrame
+8008FD8A 0005
+
+[Select Level\Chapter VII - Last Nanto Future]
+Type = Gameshark
+Activation = EndFrame
+8008FD8A 0006
+
+[Select Level\Chapter VIII - Farewell to the Final]
+Type = Gameshark
+Activation = EndFrame
+8008FD8A 0008
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A7166C00 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A7166C00 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A7166C00 10000400
+

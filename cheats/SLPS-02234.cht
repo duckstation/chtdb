@@ -1,0 +1,22 @@
+; CHTDB: ; [ Submarine Hunter Shachi (Japan) {SLPS-02234} ]
+
+[No torpedo loading time]
+Type = Gameshark
+Activation = EndFrame
+900C79D8 00000000
+900C79DC 00000000
+900C79E0 00000000
+900C79E4 00000000
+
+[Torpedoes, Harpoon all types, decoys, chaff 99]
+Type = Gameshark
+Activation = EndFrame
+50000A02 0000
+3006DA3A 0063
+
+[No torpedo loading time (Par 3 code)]
+Type = Gameshark
+Activation = EndFrame
+50000802 0000
+800C79D8 0000
+

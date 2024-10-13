@@ -1,0 +1,18 @@
+; CHTDB: ; [ Austin Powers Pinball (USA) (2002) (Gotham Games) {SLUS-01456} <apowerpb> ]
+
+[Infinite Balls]
+Type = Gameshark
+Activation = EndFrame
+801F4370 0000
+
+[Max Score]
+Type = Gameshark
+Activation = EndFrame
+801F444A E0FF
+801F444C 05F5
+
+[Quick Score Gain]
+Type = Gameshark
+Activation = EndFrame
+801F444A FFFF
+

@@ -1,0 +1,24 @@
+; CHTDB: ; [ Pocket MuuMuu (Jpn) (1999) (SCEI) {SCPS-10076} <pocketmu> ]
+
+[Infinite Money 999999]
+Type = Gameshark
+Activation = EndFrame
+90010814 000F423F
+
+[Unlock Code]
+Type = Gameshark
+Activation = EndFrame
+9001F7B4 106F576D
+
+[All Games]
+Type = Gameshark
+Activation = EndFrame
+50003302 0000
+8001083A 0101
+
+[Moon Jump Push L2; only works in the Amusement Park!]
+Type = Gameshark
+Activation = EndFrame
+D00C5FD8 0001
+800C5F4E FED3
+

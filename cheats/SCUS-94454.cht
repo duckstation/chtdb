@@ -1,0 +1,165 @@
+; CHTDB: ; [ Tomba! 2 - The Evil Swine Return (USA) (1999) (Sony Computer Entertainment America) {SCUS-94454} <tomba2> ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800E7FEE 0010
+
+[Max AP]
+Type = Gameshark
+Activation = EndFrame
+900BF874 05F5E0FF
+
+[Overall Time is 0.00.00]
+Type = Gameshark
+Activation = EndFrame
+800BF878 0000
+
+[Have All 137 Events in Clear]
+Type = Gameshark
+Activation = EndFrame
+300BF8AA 0089
+
+[Have All 137 Events in Occur]
+Type = Gameshark
+Activation = EndFrame
+300BF8A8 0089
+
+[Have All Events Complete]
+Type = Gameshark
+Activation = EndFrame
+300BF8A8 0087
+300BF8AA 0087
+50003E01 0000
+300BF8B5 00FF
+50004B01 0000
+300BF8F4 00FF
+
+[Infinite Magic]
+Type = Gameshark
+Activation = EndFrame
+800BF87E 7070
+
+[Infinite Time On The Trolley]
+Type = Gameshark
+Activation = EndFrame
+800E7EC0 0157
+
+[Teleport (Press L3 to store location, R3 to warp)]
+Type = Gameshark
+Activation = EndFrame
+C00ECF53 0200
+C20E7EAC 0002
+8000C004 0000
+C20E7EAE 0002
+8000C006 0000
+C20E7EB0 0002
+8000C008 0000
+C20E7EB2 0002
+8000C00A 0000
+C20E7EB4 0002
+8000C00C 0000
+C20E7EB6 0002
+8000C00E 0000
+00000000 FFFF
+C00ECF53 0400
+C200C004 0002
+800E7EAC 0000
+C200C006 0002
+800E7EAE 0000
+C200C008 0002
+800E7EB0 0000
+C200C00A 0002
+800E7EB2 0000
+C200C00C 0002
+800E7EB4 0000
+C200C00E 0002
+800E7EB6 0000
+
+[Hit Pigs From Anywhere]
+Type = Gameshark
+Activation = EndFrame
+80021A1E 00002400
+D7100000 00000020
+80021A1E 00001080
+
+[Grapple Almost Anything]
+Type = Gameshark
+Activation = EndFrame
+A706997E 15022400
+
+[Infinite Weapons Range (All Weapons)]
+Type = Gameshark
+Activation = EndFrame
+D7000000 00000020
+8006A26E 00001400
+8006B22A 00001400
+00000000 0000FFFF
+D7100000 00000020
+8006A26E 00001067
+8006B22A 00001067
+
+[Collect berry nuts from anywhere]
+Type = Gameshark
+Activation = EndFrame
+A710A196 14401000
+
+[Equip any piece of clothing while being mini]
+Type = Gameshark
+Activation = EndFrame
+A7034A36 14621000
+A7034A46 10602400
+A7025F82 14402400
+A705541E 04402400
+A702520E 14402400
+
+[Tomba flails wildly while walking]
+Type = Gameshark
+Activation = EndFrame
+A7075FC6 14402400
+;#Global size modifier
+;A70A6492 1000????
+;#Tomba size modifier
+;A70E7F38 1000????
+;A70E7F3A 1000????
+
+[Play as Charles (Glitchy)]
+Description = Equip any piece of clothing to have the change take effect, modify the value of 000B for different costumes, npc's
+Type = Gameshark
+Activation = EndFrame
+800E7FFE 000B
+
+[Play as other characters **BETA** (Be careful with weapons)]
+Type = Gameshark
+Activation = EndFrame
+800547AA 1000
+80054D52 2400
+8002364E 2400
+E20BF88C 0009
+8005DAB6 2400
+E20BF88C 0006
+8005DAB6 1443
+E00BF88C 0009
+8005DAB6 1443
+E20BF88C 0009
+8002363E 2400
+E20BF88C 0006
+8002363E 1462
+E00BF88C 0009
+8002363E 1462
+
+[FOV hack]
+Type = Gameshark
+Activation = EndFrame
+A7051794 10000C00
+
+[Uncap FPS Full]
+Type = Gameshark
+Activation = EndFrame
+A7050CF2 14402400
+
+[Uncap FPS At 60 FPS (Needs Slight Overclock to remain stable)]
+Type = Gameshark
+Activation = EndFrame
+A7050CDA 00432400
+

@@ -1,0 +1,82 @@
+; CHTDB: ; [ NFL Blitz (USA) (1998) (Midway Home Entertainment) {SLUS-00617} <blitz> ]
+
+[Home Team Gains A Extra Point\Always]
+Type = Gameshark
+Activation = EndFrame
+30150745 0001
+
+[Home Team Gains A Extra Point\Never]
+Type = Gameshark
+Activation = EndFrame
+30150745 0000
+
+[Away Team Gains A Extra Point\Always]
+Type = Gameshark
+Activation = EndFrame
+30150744 0001
+
+[Away Team Gains A Extra Point\Never]
+Type = Gameshark
+Activation = EndFrame
+30150744 0000
+
+[Points Gained Per Touchdown\10]
+Type = Gameshark
+Activation = EndFrame
+800435E0 000A
+
+[Points Gained Per Touchdown\0]
+Type = Gameshark
+Activation = EndFrame
+800435E0 0000
+
+[1st Quarter 0 Points (Home Team Score Modifier)]
+Type = Gameshark
+Activation = EndFrame
+80171F24 0000
+
+[2nd Quarter 0 Points (Home Team Score Modifier)]
+Type = Gameshark
+Activation = EndFrame
+80171F28 0000
+
+[3rd Quarter 0 Points (Home Team Score Modifier)]
+Type = Gameshark
+Activation = EndFrame
+80171F2C 0000
+
+[4th Quarter 100 Points (Home Team Score Modifier)]
+Type = Gameshark
+Activation = EndFrame
+80171F30 0064
+
+[4th Quarter 0 Points (Home Team Score Modifier)]
+Type = Gameshark
+Activation = EndFrame
+80171F30 0000
+
+[1st Quarter 0 Points (Away Team Score Modifier)]
+Type = Gameshark
+Activation = EndFrame
+80171F40 0000
+
+[2nd Quarter 0 Points (Away Team Score Modifier)]
+Type = Gameshark
+Activation = EndFrame
+80171F44 0000
+
+[3rd Quarter 0 Points (Away Team Score Modifier)]
+Type = Gameshark
+Activation = EndFrame
+80171F48 0000
+
+[4th Quarter 100 Points (Away Team Score Modifier)]
+Type = Gameshark
+Activation = EndFrame
+80171F4C 0064
+
+[4th Quarter 0 Points (Away Team Score Modifier)]
+Type = Gameshark
+Activation = EndFrame
+80171F4C 0000
+

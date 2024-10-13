@@ -1,0 +1,23 @@
+; CHTDB: ; [ Jade Cocoon - Story of the Tamamayu (USA) (1999) (Crave Entertainment) {SLUS-00854} <jadecoc> ]
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+8008BD40 03E7
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+8008B594 FFFF
+
+[All enemies At 0 HP - 1st PosItion]
+Type = Gameshark
+Activation = EndFrame
+800B1314 0000
+
+[Infinite Items all positions]
+Type = Gameshark
+Activation = EndFrame
+900AD1A8 24020063
+800AD1AE A042
+

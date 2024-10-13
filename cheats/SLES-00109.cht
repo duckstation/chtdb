@@ -1,0 +1,12 @@
+; CHTDB: ; [ The Incredible Hulk: The Pantheon Saga (Europe) {SLES-00109} ]
+
+[Infinite Continues]
+Type = Gameshark
+Activation = EndFrame
+80087D50 0003
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+80087BEC 0039
+

@@ -1,0 +1,12 @@
+; CHTDB: ; [ Omiai Commando - Bakappuru ni Tsukkomi o (Jpn) (2000) (Enix) {SLPM-86439} <omiaicom> ]
+
+[Couple affinity = 100 Mission 1]
+Type = Gameshark
+Activation = EndFrame
+800BC584 0064
+
+[Have 99000000 Money]
+Type = Gameshark
+Activation = EndFrame
+901F481C 05E69EC0
+

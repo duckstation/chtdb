@@ -1,0 +1,47 @@
+; CHTDB: ; [ Eliminator (Europe) {SLES-01364} ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800F3BBC 3FFF
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+300F3B91 0063
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80113A7A 0190
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+300F3B94 0063
+
+[Infinite Dual Missiles]
+Type = Gameshark
+Activation = EndFrame
+300F484F 0063
+
+[Infinite Rockets]
+Type = Gameshark
+Activation = EndFrame
+300F4850 0063
+
+[Infinite Stinger]
+Type = Gameshark
+Activation = EndFrame
+300F4853 0063
+
+[Infinite Smart]
+Type = Gameshark
+Activation = EndFrame
+300F4854 0063
+
+[Infinite Doomsday]
+Type = Gameshark
+Activation = EndFrame
+300F4855 0063
+

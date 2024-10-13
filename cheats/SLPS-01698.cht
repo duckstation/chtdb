@@ -1,0 +1,37 @@
+; CHTDB: ; [ Cool Boarders 3 (Japan) {SLPS-01698} ]
+
+[Total trick point MAX]
+Type = Gameshark
+Activation = EndFrame
+9009AFDC 000F423F
+
+[Elapsed time 0.00.00 (0.00.03 displayed)]
+Type = Gameshark
+Activation = EndFrame
+8009C8D4 0000
+
+[Penalty 0.00.00]
+Type = Gameshark
+Activation = EndFrame
+3009B0F2 0000
+
+[All course selection possible]
+Type = Gameshark
+Activation = EndFrame
+30069228 0005
+
+[All Characters Available]
+Type = Gameshark
+Activation = EndFrame
+300BDAF8 0015
+
+[All board can be selected by pressing the SELECT button on the board when selecting]
+Type = Gameshark
+Activation = EndFrame
+D006AA30 0100
+300BE10C 000A
+D006AA30 0100
+300BE224 000A
+D006AA30 0100
+300BE33C 0003
+

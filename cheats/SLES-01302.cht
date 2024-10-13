@@ -1,0 +1,23 @@
+; CHTDB: ; [ Viper (Europe) {SLES-01302} ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801C2D7C 2710
+8018DF48 2710
+
+[Infinite Shields]
+Type = Gameshark
+Activation = EndFrame
+801E8F0C 000F
+
+[Infinite Smart-Bombs]
+Type = Gameshark
+Activation = EndFrame
+801E8F00 000F
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801E8F04 000F
+

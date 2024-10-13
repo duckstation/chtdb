@@ -1,0 +1,27 @@
+; CHTDB: ; [ Pandemonium 2 (Europe) {SLES-00965} ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800ACB3E 0004
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800ACB3C 0403
+
+[Any password unlocks all levels]
+Type = Gameshark
+Activation = EndFrame
+8006BFAA 2400
+
+[GodMode]
+Type = Gameshark
+Activation = EndFrame
+80050FF2 1000
+
+[GodMode level 14]
+Type = Gameshark
+Activation = EndFrame
+800BA70E 0000
+

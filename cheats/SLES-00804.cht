@@ -1,0 +1,87 @@
+; CHTDB: ; [ WWF War Zone (Europe) {SLES-00804} ]
+
+[Unlock All Features .Simply press R1 + L1 repeatedly in the main menu to load cheat menu! This code unlocks alle secret characters plus some more goodies.]
+Type = Gameshark
+Activation = EndFrame
+9007A6D0 100007FF
+
+[Unlock All Modes .Simply press R1 + L1 repeatedly in the main menu to load cheat menu! This code unlocks alle secret characters plus some more goodies.]
+Type = Gameshark
+Activation = EndFrame
+9007A6D4 20003FFF
+
+[Infinite Match Time]
+Type = Gameshark
+Activation = EndFrame
+80078204 44C4
+
+[Player Creation Codes\Infinite Attributes-Points]
+Type = Gameshark
+Activation = EndFrame
+800B6AEC 0000
+
+[Player Creation Codes\Max Strength]
+Type = Gameshark
+Activation = EndFrame
+800B6878 0032
+
+[Player Creation Codes\Max Toughness]
+Type = Gameshark
+Activation = EndFrame
+800B687A 0032
+
+[Player Creation Codes\Max Speed]
+Type = Gameshark
+Activation = EndFrame
+800B687C 0032
+
+[Player Creation Codes\Max Recovery]
+Type = Gameshark
+Activation = EndFrame
+800B687E 0032
+
+[Player Creation Codes\Max Charisma]
+Type = Gameshark
+Activation = EndFrame
+800B6880 0032
+
+[P1 Codes\Always Stunned]
+Type = Gameshark
+Activation = EndFrame
+800D5CD0 FFFF
+
+[P1 Codes\Can't Be Stunned]
+Type = Gameshark
+Activation = EndFrame
+800D5CD0 0000
+
+[P1 Codes\Always Can Be Counted Out]
+Type = Gameshark
+Activation = EndFrame
+800D5CD8 8000
+
+[P1 Codes\Can't Be Counted Out]
+Type = Gameshark
+Activation = EndFrame
+800D5CD8 0000
+
+[P2 Codes\Always Stunned]
+Type = Gameshark
+Activation = EndFrame
+800D94EC FFFF
+
+[P2 Codes\Can't Be Stunned]
+Type = Gameshark
+Activation = EndFrame
+800D94EC 0000
+
+[P2 Codes\Always Can Be Counted Out]
+Type = Gameshark
+Activation = EndFrame
+800D94F4 4000
+
+[P2 Codes\Can't Be Counted Out]
+Type = Gameshark
+Activation = EndFrame
+800D94F4 0000
+

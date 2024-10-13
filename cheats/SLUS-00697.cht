@@ -1,0 +1,101 @@
+; CHTDB: ; [ Circuit Breakers (USA) (1998) (Mindscape) {SLUS-00697} <circbrk> ]
+
+[Night Time Mode]
+Type = Gameshark
+Activation = EndFrame
+800A6D0C 0001
+
+[Race Upside Down]
+Type = Gameshark
+Activation = EndFrame
+800A6E28 0001
+
+[P1 Always 1st]
+Type = Gameshark
+Activation = EndFrame
+801F76F8 0001
+
+[Access To Groups 5,6,7,+ 8]
+Type = Gameshark
+Activation = EndFrame
+901D809C 01010101
+901D80A0 01010101
+
+[Group 2 Arctic 1]
+Type = Gameshark
+Activation = EndFrame
+901D803C 01010101
+901D8040 01010101
+
+[Group 2 Jungle 2]
+Type = Gameshark
+Activation = EndFrame
+901D8024 01010101
+901D8028 01010101
+
+[Group 2 Swamp 2]
+Type = Gameshark
+Activation = EndFrame
+901D8034 01010101
+901D8038 01010101
+
+[Group 2 Venice]
+Type = Gameshark
+Activation = EndFrame
+901D802C 01010101
+901D8030 01010101
+
+[Group 3 Arctic 2]
+Type = Gameshark
+Activation = EndFrame
+901D805C 01010101
+901D8060 01010101
+
+[Group 3 Canyon]
+Type = Gameshark
+Activation = EndFrame
+901D8044 01010101
+901D8048 01010101
+
+[Group 3 Subaoua 1]
+Type = Gameshark
+Activation = EndFrame
+901D8054 01010101
+901D8058 01010101
+
+[Group 3 Venice 2]
+Type = Gameshark
+Activation = EndFrame
+901D804C 01010101
+901D8050 01010101
+
+[Group 4 Canyon 2]
+Type = Gameshark
+Activation = EndFrame
+901D8064 01010101
+901D8068 01010101
+
+[Group 4 Egypt 2]
+Type = Gameshark
+Activation = EndFrame
+901D807C 01010101
+901D8080 01010101
+901D8084 01010101
+901D8088 01010101
+901D808C 01010101
+901D8090 01010101
+901D8094 01010101
+901D8098 01010101
+
+[Group 4 Highway 2]
+Type = Gameshark
+Activation = EndFrame
+901D806C 01010101
+901D8070 01010101
+
+[Group 4 Subaoua 2]
+Type = Gameshark
+Activation = EndFrame
+901D8074 01010101
+901D8078 01010101
+

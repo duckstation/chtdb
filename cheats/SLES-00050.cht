@@ -1,0 +1,22 @@
+; CHTDB: ; [ Street Fighter: The Movie (Europe) {SLES-00050} ]
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801B75D2 0070
+
+[P1 Super Hit-Combo]
+Type = Gameshark
+Activation = EndFrame
+801B76EA 3030
+
+[P2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801B7972 0070
+
+[P2 No Energy]
+Type = Gameshark
+Activation = EndFrame
+801B7972 0000
+

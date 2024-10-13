@@ -1,0 +1,139 @@
+; CHTDB: ; [ Kidou Senshi Gundam: Gihren no Yabou: Zeon no Keifu (Earth Federation Disc) (Japan) {SLPS-02570 | SLPS-02571} ]
+
+[Maximum funds]
+Type = Gameshark
+Activation = EndFrame
+901ED174 0098967F
+
+[Maximum resource]
+Type = Gameshark
+Activation = EndFrame
+901ED178 0098967F
+
+[Intelligence capacity 100%]
+Type = Gameshark
+Activation = EndFrame
+301ED162 0064
+
+[Largest trade and production]
+Type = Gameshark
+Activation = EndFrame
+901ED190 0001869F
+
+[Production period one turn]
+Type = Gameshark
+Activation = EndFrame
+D009F028 0043
+8009F026 A058
+
+[Development period one turn]
+Type = Gameshark
+Activation = EndFrame
+D00D44F0 536F
+800D44E6 A258
+
+[Infinite Movement]
+Type = Gameshark
+Activation = EndFrame
+A606B682 A0A2A0A0
+
+[Victory in the base one place conquered]
+Type = Gameshark
+Activation = EndFrame
+A706EFEE 14471400
+
+[All personnel information can be viewed]
+Type = Gameshark
+Activation = EndFrame
+A709915A 14401400
+
+[Mechanic picture book fully open]
+Type = Gameshark
+Activation = EndFrame
+50009302 0000
+801FD2D6 0101
+
+[Picture book character fully open]
+Type = Gameshark
+Activation = EndFrame
+50004D02 0000
+801FD3FC 0101
+301FD496 0001
+
+[Movie theater fully open]
+Type = Gameshark
+Activation = EndFrame
+50001602 0000
+801FD2A8 0101
+301FD2D4 0001
+
+[Mechanic picture book all federal Disc]
+Type = Gameshark
+Activation = EndFrame
+D00734B0 02D6
+800734BC 02D6
+D00734B0 02D6
+800734BE A0A3
+D00734B0 02D6
+800734B2 2403
+A60734B0 02D60001
+
+[Picture book character all federal Disc]
+Type = Gameshark
+Activation = EndFrame
+D006A5F8 03FC
+8006A5FC 03FC
+D006A5F8 03FC
+8006A5FE A082
+D006A5F8 03FC
+8006A5FA 2402
+A606A5F8 03FC0001
+
+[Movie replay all federal Disc]
+Type = Gameshark
+Activation = EndFrame
+D006A634 02A6
+8006A630 1821
+D006A634 02A6
+8006A638 02A6
+D006A634 02A6
+8006A63A A062
+D006A634 02A6
+8006A636 2402
+A606A634 02A60001
+
+[Mechanic picture book all dione Disc for]
+Type = Gameshark
+Activation = EndFrame
+D00734E4 02D6
+800734F0 02D6
+D00734E4 02D6
+800734F2 A0A3
+D00734E4 02D6
+800734E6 2403
+A60734E4 02D60001
+
+[Picture book character all dione Disc for]
+Type = Gameshark
+Activation = EndFrame
+D006A628 03FC
+8006A62C 03FC
+D006A628 03FC
+8006A62E A082
+D006A628 03FC
+8006A62A 2402
+A606A628 03FC0001
+
+[Movie replay all dione Disc for]
+Type = Gameshark
+Activation = EndFrame
+D006A664 02A6
+8006A660 1821
+D006A664 02A6
+8006A668 02A6
+D006A664 02A6
+8006A66A A062
+D006A664 02A6
+8006A666 2402
+A606A664 02A60001
+

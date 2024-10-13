@@ -1,0 +1,42 @@
+; CHTDB: ; [ True Love Story Fan Disc (Japan) {SLPS-02404} ]
+
+[Age-Misaki]
+Type = Gameshark
+Activation = EndFrame
+80152040 0001
+
+[Number of days elapsed, Kimiko]
+Type = Gameshark
+Activation = EndFrame
+80152044 0001
+
+[Tips ? index outside is also displayed in the item]
+Type = Gameshark
+Activation = EndFrame
+801C6320 FFFF
+801C6338 FFFF
+
+[Item (incremented by 4h)]
+Type = Gameshark
+Activation = EndFrame
+801C61E8 0001
+801C6324 0001
+
+[SD Chara (incremented by 4h)]
+Type = Gameshark
+Activation = EndFrame
+801C74C4 0001
+801C753C 0001
+
+[Music (incremented by 4h)]
+Type = Gameshark
+Activation = EndFrame
+801C6390 0001
+801C63AC 0001
+
+[Pokesute (incremented by 4h)]
+Type = Gameshark
+Activation = EndFrame
+801C68D8 0001
+801C6998 0001
+

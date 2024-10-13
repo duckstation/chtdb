@@ -1,0 +1,22 @@
+; CHTDB: ; [ Olympic Soccer (USA) (1996) (Eidos Interactive) {SLUS-00156} <olympsoc> ]
+
+[Select Team 1 Score\9]
+Type = Gameshark
+Activation = EndFrame
+801A7D8C 0009
+
+[Select Team 1 Score\0]
+Type = Gameshark
+Activation = EndFrame
+801A7D8C 0000
+
+[Select Team 2 Score\0]
+Type = Gameshark
+Activation = EndFrame
+801B0BA4 0000
+
+[Select Team 2 Score\9]
+Type = Gameshark
+Activation = EndFrame
+801B0BA4 0009
+

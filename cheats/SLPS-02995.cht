@@ -1,0 +1,22 @@
+; CHTDB: ; [ Mahjong de Asobo (Japan) {SLPS-02995} ]
+
+[Player has 99999 points]
+Type = Gameshark
+Activation = EndFrame
+90089CBC 0001869F
+
+[Rina has 0 points]
+Type = Gameshark
+Activation = EndFrame
+80089CC0 0000
+
+[Akiko has 0 points]
+Type = Gameshark
+Activation = EndFrame
+80089CC4 0000
+
+[Manami has 0 points]
+Type = Gameshark
+Activation = EndFrame
+80089CC8 0000
+

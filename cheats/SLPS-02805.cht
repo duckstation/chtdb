@@ -1,0 +1,45 @@
+; CHTDB: ; [ Punch the Monkey! Game Edition (Japan) {SLPS-02805} ]
+
+[Max Points]
+Type = Gameshark
+Activation = EndFrame
+900798D8 00FF9678
+
+[Unlock All Stages]
+Type = Gameshark
+Activation = EndFrame
+80079886 0700
+
+[Good Performance Chart]
+Type = Gameshark
+Activation = EndFrame
+900798B4 00640064
+900798B8 00000000
+800798D4 FFFF
+
+[Watch Fmv Without Shooting Press L1 it will be game over the moment you lift your finger off L1 and you have to start again.]
+Type = Gameshark
+Activation = EndFrame
+D00D407A FBFF
+8007D4EC 13F1
+
+[Watch Fmv Without Shooting]
+Type = Gameshark
+Activation = EndFrame
+8007D4EC 13F1
+
+[Bonus Game\Infinite Bullets]
+Type = Gameshark
+Activation = EndFrame
+800745E8 0006
+
+[Bonus Game\Max Hits]
+Type = Gameshark
+Activation = EndFrame
+800898EA 03E7
+
+[Bonus Game\Never Miss (Perfect)]
+Type = Gameshark
+Activation = EndFrame
+800898EE 0000
+

@@ -1,0 +1,41 @@
+; CHTDB: ; [ Mega Man X4 (Europe) {SLES-01176} ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801301EC 2020
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8016008C 0009
+
+[Infinite Leg Jets]
+Type = Gameshark
+Activation = EndFrame
+80130214 0C00
+
+[Have All Weapons]
+Type = Gameshark
+Activation = EndFrame
+80130248 FF01
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+90130238 30303030
+9013023C 30303030
+90130240 30303030
+90130244 30303030
+
+[Kill Most Bosses With One Shot]
+Type = Gameshark
+Activation = EndFrame
+D0155464 0080
+8012AE84 0000
+
+[Best Shot]
+Type = Gameshark
+Activation = EndFrame
+80130236 0404
+

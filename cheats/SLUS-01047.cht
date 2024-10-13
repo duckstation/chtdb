@@ -1,0 +1,15 @@
+; CHTDB: ; [ Nicktoons Racing (USA) (2001) (Infogrames) {SLUS-01047} <nicktrcg> ]
+
+[Press Select To Start In Last Lap]
+Type = Gameshark
+Activation = EndFrame
+C00A879E FFFE
+80061F58 0002
+80061F5C 0003
+00000000 FFFF
+
+[Infinite Turbo Easy Mode]
+Type = Gameshark
+Activation = EndFrame
+80061EC6 0004
+

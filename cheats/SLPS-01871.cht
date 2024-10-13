@@ -1,0 +1,27 @@
+; CHTDB: ; [ Chou Sentou Kyuugi Vanborg (Japan) {SLPS-01871} ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+800B4B20 FFFF
+
+[P1 Maximum Power Bar]
+Type = Gameshark
+Activation = EndFrame
+8007D884 00A0
+
+[P1 Score Modifier]
+Type = Gameshark
+Activation = EndFrame
+80077CB0 00??
+
+[P2 Maximum Power Bar]
+Type = Gameshark
+Activation = EndFrame
+80083714 00A0
+
+[P2 Score Modifier]
+Type = Gameshark
+Activation = EndFrame
+80077CB2 0000
+

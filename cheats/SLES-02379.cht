@@ -1,0 +1,17 @@
+; CHTDB: ; [ Mary King's Riding Star (Europe) {SLES-02379} ]
+
+[Points always 0 in show jumping]
+Type = Gameshark
+Activation = EndFrame
+80182D94 0000
+
+[Points always 0 in cross country]
+Type = Gameshark
+Activation = EndFrame
+80137668 0000
+
+[0 errors in dressage]
+Type = Gameshark
+Activation = EndFrame
+8019F0B8 0000
+

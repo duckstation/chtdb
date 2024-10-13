@@ -1,0 +1,113 @@
+; CHTDB: ; [ Nightmare Creatures II (USA) (2000) (Konami of America) {SLUS-01112} <ncreatr2> ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+90071A20 00000000
+
+[Have Silver Key]
+Type = Gameshark
+Activation = EndFrame
+300AA848 0001
+
+[Have Silver Key 2]
+Type = Gameshark
+Activation = EndFrame
+300AA849 0001
+
+[Have Small Silver Key]
+Type = Gameshark
+Activation = EndFrame
+300AA84A 0001
+
+[Have Keys On A Ring]
+Type = Gameshark
+Activation = EndFrame
+300AA84B 0001
+
+[Have Dynamite]
+Type = Gameshark
+Activation = EndFrame
+300AA84C 0001
+
+[Have Clippers]
+Type = Gameshark
+Activation = EndFrame
+300AA84D 0001
+
+[Have Silver Key 3]
+Type = Gameshark
+Activation = EndFrame
+300AA84E 0001
+
+[Walk Thru Walls]
+Type = Gameshark
+Activation = EndFrame
+D007C220 0059
+8007C222 1000
+
+[Debug Info]
+Type = Gameshark
+Activation = EndFrame
+300B92F0 0001
+
+[Level Select+Streamzone]
+Type = Gameshark
+Activation = EndFrame
+300B9300 0001
+9002639C 24150001
+
+[Infinite Health\Level 1]
+Type = Gameshark
+Activation = EndFrame
+D01ABCD8 0000
+8018E518 0064
+
+[Infinite Health\Level 2]
+Type = Gameshark
+Activation = EndFrame
+D01ABCD8 0001
+8018DF58 0064
+
+[Infinite Health\Level 3]
+Type = Gameshark
+Activation = EndFrame
+D01ABCD8 0002
+8018CFB0 0064
+
+[Infinite Health\Level 4]
+Type = Gameshark
+Activation = EndFrame
+D01ABCD8 0003
+8018EEE8 0064
+
+[Infinite Health\Level 5]
+Type = Gameshark
+Activation = EndFrame
+D01ABCD8 0004
+8018DF98 0064
+
+[Infinite Health\Level 6]
+Type = Gameshark
+Activation = EndFrame
+D01ABCD8 0005
+8018EC30 0064
+
+[Infinite Health\Level 7]
+Type = Gameshark
+Activation = EndFrame
+D01ABCD8 0006
+8018D448 0064
+
+[Infinite Health\Level 8]
+Type = Gameshark
+Activation = EndFrame
+D01ABCD8 0007
+8018E178 0064
+
+[Infinite Health\Level 9]
+Type = Gameshark
+Activation = EndFrame
+D01ABCD8 0008
+8018D998 0064
+

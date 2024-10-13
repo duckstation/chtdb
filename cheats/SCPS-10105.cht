@@ -1,0 +1,77 @@
+; CHTDB: ; [ Brightis (Japan) {SCPS-10105} ]
+
+[Hp 999]
+Type = Gameshark
+Activation = EndFrame
+8011DC4C 03E7
+8011DC4A 03E7
+
+[Mp 999]
+Type = Gameshark
+Activation = EndFrame
+800AEC5A 03E7
+800AEB3E 03E7
+
+[Gold 9999]
+Type = Gameshark
+Activation = EndFrame
+800AEAD8 270F
+
+[Skill 999]
+Type = Gameshark
+Activation = EndFrame
+800AEA84 03E7
+
+[Exp. 9999999]
+Type = Gameshark
+Activation = EndFrame
+900AEB9C 0001869F
+
+[Level 99]
+Type = Gameshark
+Activation = EndFrame
+8011DC64 6300
+
+[Stats 999]
+Type = Gameshark
+Activation = EndFrame
+8011DC4E 03E7
+9011DC50 03E703E7
+8011DC54 03E7
+
+[Light Gauge Max]
+Type = Gameshark
+Activation = EndFrame
+800AEC24 2000
+
+[All items 99]
+Type = Gameshark
+Activation = EndFrame
+50005402 0000
+800C0060 6363
+
+[Number of key elements]
+Type = Gameshark
+Activation = EndFrame
+300AEBD6 007F
+
+[possible learning technique Sword emergence]
+Type = Gameshark
+Activation = EndFrame
+301142BF 0040
+
+[possible learning technique Sword dance]
+Type = Gameshark
+Activation = EndFrame
+301142BF 0080
+
+[possible learning technique Sword attack]
+Type = Gameshark
+Activation = EndFrame
+301142BF 0100
+
+[Blacksmith appearance]
+Type = Gameshark
+Activation = EndFrame
+801142D5 0041
+

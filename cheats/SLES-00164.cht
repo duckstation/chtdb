@@ -1,0 +1,22 @@
+; CHTDB: ; [ Rise 2: Resurrection (Europe) {SLES-00164} ]
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8007D3C6 0078
+
+[P2 No Energy]
+Type = Gameshark
+Activation = EndFrame
+8007D462 0000
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800672EC 0D00
+
+[P2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8007D462 0078
+

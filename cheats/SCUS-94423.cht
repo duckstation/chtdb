@@ -1,0 +1,74 @@
+; CHTDB: ; [ Ape Escape (USA) (1999) (Sony Computer Entertainment America) {SCUS-94423} <apescape> ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800EC2C8 0005
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800F448C 0064
+
+[Infinite Air]
+Type = Gameshark
+Activation = EndFrame
+800F4DC8 0258
+
+[Catch 1 Monkey to End Level]
+Type = Gameshark
+Activation = EndFrame
+800F44B6 00CE
+
+[Max Gold Triangle]
+Type = Gameshark
+Activation = EndFrame
+800F44B8 0063
+
+[Timer is 0.00.00]
+Type = Gameshark
+Activation = EndFrame
+800F4490 0000
+
+[Have All Gadgets]
+Type = Gameshark
+Activation = EndFrame
+D00F51C4 0003
+300F51C4 00FF
+
+[Have All Spectar Coins]
+Type = Gameshark
+Activation = EndFrame
+800F44BA 003C
+
+[Moon Jump (Press R1 for Moon Jump, and R2 for a Normal Jump.)]
+Type = Gameshark
+Activation = EndFrame
+D00E5478 0008
+800EC23E 0008
+
+[Complete Monkey Book]
+Type = Gameshark
+Activation = EndFrame
+5000FF02 0000
+800DF828 0202
+50005502 0000
+800DFA26 0202
+50001002 0000
+800DFC70 0202
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A70AF0A0 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A70AF0A0 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A70AF0A0 10000400
+

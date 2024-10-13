@@ -1,0 +1,23 @@
+; CHTDB: ; [ Trick'n Snowboarder aka Trick'n Snowboarder: Freestyle Snowboarding (Europe) {SLES-02304} ]
+
+[Have Much Points]
+Type = Gameshark
+Activation = EndFrame
+800C130E 0001
+
+[Each Jump Worth Lots Of Points]
+Type = Gameshark
+Activation = EndFrame
+800C11D4 1388
+
+[Unlock all characters]
+Type = Gameshark
+Activation = EndFrame
+50000502 0000
+800E3F3C 0101
+
+[Time Frozen]
+Type = Gameshark
+Activation = EndFrame
+800AAE68 0000
+

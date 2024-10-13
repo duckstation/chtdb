@@ -1,0 +1,32 @@
+; CHTDB: ; [ Cellophanes (Japan) {SLPS-01081} ]
+
+[Have 99 balls in Breakout in the zoo]
+Type = Gameshark
+Activation = EndFrame
+801147A8 0063
+
+[Have 4 balls in delta]
+Type = Gameshark
+Activation = EndFrame
+800C2BEC 0004
+
+[Have 9 ships in Mystery Planet]
+Type = Gameshark
+Activation = EndFrame
+800C4FAA 0009
+
+[Have 1000 fuel in Mystery Planet]
+Type = Gameshark
+Activation = EndFrame
+800C4F9E 03E8
+
+[Infinite Oxygen in Sea Fighter]
+Type = Gameshark
+Activation = EndFrame
+8012A2E6 0064
+
+[Have always 8 bullets in Carnival Hunt]
+Type = Gameshark
+Activation = EndFrame
+800A470C 0008
+

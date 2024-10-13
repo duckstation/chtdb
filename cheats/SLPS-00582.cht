@@ -1,0 +1,74 @@
+; CHTDB: ; [ Beltlogger 9 (Japan) {SLPS-00582} ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+9005CC90 00000000
+
+[Infinite Ammos]
+Type = Gameshark
+Activation = EndFrame
+900610F0 00000000
+900610CC 00000000
+9006111C 00000000
+
+[Infinite Items]
+Type = Gameshark
+Activation = EndFrame
+900608D8 00000000
+
+[Infinite Wpas]
+Type = Gameshark
+Activation = EndFrame
+90060ACC 00000000
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800EAAE2 04B0
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800EAB34 0000
+
+[No Overheat]
+Type = Gameshark
+Activation = EndFrame
+800EA846 0000
+
+[Infinite Rifle]
+Type = Gameshark
+Activation = EndFrame
+800EAA2C 03E8
+
+[Infinite Missile]
+Type = Gameshark
+Activation = EndFrame
+800EAA30 0032
+
+[Infinite Bomb]
+Type = Gameshark
+Activation = EndFrame
+800EAA34 0003
+
+[Launcher]
+Type = Gameshark
+Activation = EndFrame
+800EAA32 0064
+
+[Infinite Laser]
+Type = Gameshark
+Activation = EndFrame
+800EAAE2 04B0
+
+[Infinite Durability]
+Type = Gameshark
+Activation = EndFrame
+900EAA1C 05B005B0
+
+[Invincibility state]
+Type = Gameshark
+Activation = EndFrame
+8005C8DE 1400
+

@@ -1,0 +1,92 @@
+; CHTDB: ; [ Diver's Dream (Europe) {SLES-01535} ]
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800C04DA 0384
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800C04DA 0376
+
+[Infinite Spears]
+Type = Gameshark
+Activation = EndFrame
+800C04E4 0004
+
+[Infinite Air]
+Type = Gameshark
+Activation = EndFrame
+800C04D4 1C08
+
+[Max LP]
+Type = Gameshark
+Activation = EndFrame
+900C04DC 000F423E
+
+[All treasures]
+Type = Gameshark
+Activation = EndFrame
+50000A02 0000
+800C0460 FFFF
+
+[FRENCH\Infinite Air]
+Type = Gameshark
+Activation = EndFrame
+800C139C 1C20
+
+[FRENCH\Max $]
+Type = Gameshark
+Activation = EndFrame
+900C13A4 000F423F
+
+[FRENCH\Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+50000602 0000
+800C13AC 03E7
+
+[FRENCH\All Equipment]
+Type = Gameshark
+Activation = EndFrame
+900C13A8 FFFFFFFF
+
+[FRENCH\All Treasures]
+Type = Gameshark
+Activation = EndFrame
+50000A02 0000
+800C1328 FFFF
+
+[GERMAN\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800C101A 0384
+
+[GERMAN\Infinite Air]
+Type = Gameshark
+Activation = EndFrame
+800C1014 1C20
+
+[GERMAN\Max $]
+Type = Gameshark
+Activation = EndFrame
+900C101C 000F423F
+
+[GERMAN\Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+50000602 0000
+800C1624 03E7
+
+[GERMAN\All Equipment]
+Type = Gameshark
+Activation = EndFrame
+900C1620 FFFFFFFF
+
+[GERMAN\All Treasures]
+Type = Gameshark
+Activation = EndFrame
+50000A02 0000
+800C0FA0 FFFF
+

@@ -1,0 +1,63 @@
+; CHTDB: ; [ Slayers Wonderful (Japan) {SLPS-01599} ]
+
+[Infinite HP in battle character 1]
+Type = Gameshark
+Activation = EndFrame
+801F9570 03E7
+
+[Infinite HP in battle character 2]
+Type = Gameshark
+Activation = EndFrame
+801F9600 03E7
+
+[Infinite HP in battle character 3]
+Type = Gameshark
+Activation = EndFrame
+801FA690 03E7
+
+[Save Actived]
+Type = Gameshark
+Activation = EndFrame
+800C2D0A 0100
+
+[Gold 99999]
+Type = Gameshark
+Activation = EndFrame
+900C2E30 0001869F
+
+[After Battle Gain Exp 99999]
+Type = Gameshark
+Activation = EndFrame
+900C3178 0001869F
+
+[Character 1 Hp/Mp 999]
+Type = Gameshark
+Activation = EndFrame
+9007E380 03E703E7
+9007E37C 03E703E7
+
+[Character 1 Stats 999]
+Type = Gameshark
+Activation = EndFrame
+9007E378 03E703E7
+9007E370 03E703E7
+9007E374 03E703E7
+
+[Character 2 Hp/Mp 999]
+Type = Gameshark
+Activation = EndFrame
+9007E460 03E703E7
+9007E464 03E703E7
+
+[Character 2 Stats 999]
+Type = Gameshark
+Activation = EndFrame
+9007E454 03E703E7
+9007E458 03E703E7
+9007E45C 03E703E7
+
+[No Random Battles]
+Type = Gameshark
+Activation = EndFrame
+90099EDC 00000000
+

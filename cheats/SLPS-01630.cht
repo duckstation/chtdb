@@ -1,0 +1,115 @@
+; CHTDB: ; [ Kasei Monogatari (Japan) {SLPS-01630} ]
+
+[Infinite HP Phobos in battle (main character)]
+Type = Gameshark
+Activation = EndFrame
+800BDB6A 03E7
+
+[Infinite & Max HP Phobos (main character)]
+Type = Gameshark
+Activation = EndFrame
+80010762 03E7
+80010764 03E7
+
+[Infinite & Max MP Phobos (main character)]
+Type = Gameshark
+Activation = EndFrame
+80010766 270F
+80010768 270F
+
+[Infinite Money (9999999)]
+Type = Gameshark
+Activation = EndFrame
+9001001C 0098967F
+
+[Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+D00BA77C 1023
+800BA77E 0040
+
+[Infinite Item]
+Type = Gameshark
+Activation = EndFrame
+D00B5B5A 2442
+800B5B58 0000
+
+[Infinite MP In Battle]
+Type = Gameshark
+Activation = EndFrame
+D002AF8A A466
+8002AF88 0000
+A602AF8A A4660000
+
+[Infinite ??????????Combat]
+Type = Gameshark
+Activation = EndFrame
+D002AF62 A066
+8002AF60 0000
+A602AF62 A0660000
+
+[Items Not Decrease During Combat You have to have two units]
+Type = Gameshark
+Activation = EndFrame
+D0025EE0 1023
+80025EE2 0060
+
+[All Items possession]
+Type = Gameshark
+Activation = EndFrame
+D00B6C3A 1440
+800B6C2C 00FF
+D00B6C3A 1440
+800B6C2E 2402
+D00B6C3A 1440
+800B6C32 A062
+D00B6C3A 1440
+800B6C42 A464
+D00B6C3A 1440
+800B6C38 0001
+
+[The number of planets]
+Type = Gameshark
+Activation = EndFrame
+8001074C FFFF
+
+[Hyper Athletic / clear time / 1st]
+Type = Gameshark
+Activation = EndFrame
+3004FE70 0039
+3004FE71 0039
+3004FE73 0039
+3004FE74 0039
+3004FE76 0039
+3004FE77 0039
+
+[Hyper Athletic / elapsed time]
+Type = Gameshark
+Activation = EndFrame
+9005771C 0000D2EB
+
+[Runaway bus / SCORE Max]
+Type = Gameshark
+Activation = EndFrame
+90064F2C 7FFFFFFF
+
+[Playtime]
+Type = Gameshark
+Activation = EndFrame
+9006F0FC 01498900
+
+[Ards attacker / SCORE Max]
+Type = Gameshark
+Activation = EndFrame
+90073274 7FFFFFFF
+
+[Sugoroku mode / movement number]
+Type = Gameshark
+Activation = EndFrame
+30085868 00FF
+
+[Interlude views It also affects the mini-games and Shop]
+Type = Gameshark
+Activation = EndFrame
+300EAD4C 001D
+

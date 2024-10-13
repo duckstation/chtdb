@@ -1,0 +1,14 @@
+; CHTDB: ; [ 007 - Tomorrow Never Dies (Jpn) (2000) (Electronic Arts Square) {SLPS-02604} <007tndj> ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8001E07A 0063
+
+[Can Select All Mission]
+Type = Gameshark
+Activation = EndFrame
+9001E224 01010101
+9001E228 01010101
+8001E22C 0101
+

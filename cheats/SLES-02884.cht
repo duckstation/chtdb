@@ -1,0 +1,103 @@
+; CHTDB: ; [ Star Trek: Invasion (Germany) {SLES-02884} ]
+
+[Starte als Elite Pilot]
+Type = Gameshark
+Activation = EndFrame
+A605C038 00001A80
+D005C03A 0000
+3005C03A 0006
+
+[Immer 1000 Abschüsse]
+Type = Gameshark
+Activation = EndFrame
+D105C19E 0000
+8005C19E 03E8
+
+[Unendlich Energie]
+Type = Gameshark
+Activation = EndFrame
+D0077F68 0120
+80077F6A 0000
+D0077FDC 0120
+80077FDE 0000
+A6077F68 01200000
+A6077FDC 01200000
+
+[Unendlich Sekundärwaffen]
+Type = Gameshark
+Activation = EndFrame
+D007B6D0 0010
+8007B6CC 0000
+D007B6D0 0010
+8007B6CE 0000
+
+[Sekundärwaffen nehmen zu]
+Type = Gameshark
+Activation = EndFrame
+A607B6C8 FFFF0001
+
+[Max 1. Sekundärwaffe]
+Type = Gameshark
+Activation = EndFrame
+3011B520 00FF
+
+[Max 2. Sekundärwaffe]
+Type = Gameshark
+Activation = EndFrame
+3011B54C 00FF
+
+[Max 3. Sekundärwaffe]
+Type = Gameshark
+Activation = EndFrame
+3011B578 00FF
+
+[Keine Schilde / SuddenDeath]
+Type = Gameshark
+Activation = EndFrame
+D00BBEFA 0002
+800BBEFC 0000
+D00BBEFA 0002
+800BBEFE 3402
+
+[Max Schild]
+Type = Gameshark
+Activation = EndFrame
+D1060108 0000
+80060108 03E8
+
+[Max Hülle]
+Type = Gameshark
+Activation = EndFrame
+D1060108 0000
+8006010C 03E8
+
+[Max Schild (Mission 13)]
+Type = Gameshark
+Activation = EndFrame
+D006027C BAEC
+80060274 03E8
+
+[Max Hülle (Mission 13)]
+Type = Gameshark
+Activation = EndFrame
+D006027C BAEC
+80060278 03E8
+
+[Max Schild Typhon (Mission 10a, 13c, 14a)]
+Type = Gameshark
+Activation = EndFrame
+D011EA72 00C8
+8005FF9C 2EE0
+
+[Max Hülle Typhon (Mission 10a, 13c, 14a)]
+Type = Gameshark
+Activation = EndFrame
+D011EA72 00C8
+8005FFA0 1D4C
+
+[Keine Überhitzung Typhon]
+Type = Gameshark
+Activation = EndFrame
+D011EA72 00C8
+8011EA6E 0000
+

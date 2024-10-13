@@ -1,0 +1,12 @@
+; CHTDB: ; [ EOS - Edge of Skyhigh (Jpn) (1997) (Micronet) {SLPS-00820} <eos> ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800F4E90 0050
+
+[Infinite Bombs]
+Type = Gameshark
+Activation = EndFrame
+800CD3C8 2000
+

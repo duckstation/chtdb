@@ -1,0 +1,32 @@
+; CHTDB: ; [ Double Dragon (Jpn) (1996) (Technos Japan) {SLPS-00191} <doubledr> ]
+
+[P1 Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+8008CFD8 0000
+
+[P1 Infinite HP (Tiny 3D mode only)]
+Type = Gameshark
+Activation = EndFrame
+8008B4C8 0000
+
+[P1 Infinite POW]
+Type = Gameshark
+Activation = EndFrame
+8008CFE0 6800
+
+[P1 Infinite POW (Tiny 3D mode only)]
+Type = Gameshark
+Activation = EndFrame
+8008B4D0 6800
+
+[P2 No HP]
+Type = Gameshark
+Activation = EndFrame
+8008CFDA 6800
+
+[P2 No HP (Tiny 3D mode only)]
+Type = Gameshark
+Activation = EndFrame
+8008B4CA 6800
+

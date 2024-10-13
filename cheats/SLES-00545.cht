@@ -1,0 +1,12 @@
+; CHTDB: ; [ V2000 (Europe) {SLES-00545} ]
+
+[No Damage]
+Type = Gameshark
+Activation = EndFrame
+8012DA38 55F0
+
+[Infinite Grenades]
+Type = Gameshark
+Activation = EndFrame
+80124804 0004
+

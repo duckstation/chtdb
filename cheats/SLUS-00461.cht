@@ -1,0 +1,53 @@
+; CHTDB: ; [ Xevious 3D/G+ (USA) (1997) (Namco Hometek) {SLUS-00461} <xevi3dgp> ]
+
+[Xevious+Super Xevious\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+D0022BBC 0038
+80022BBC 0000
+D0022BBE AE03
+80022BBE 0000
+
+[Xevious Arrangement\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+D00417C8 0038
+800417C8 0000
+D00417CA AE02
+800417CA 0000
+
+[Xevious 3D\P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8012DD58 0009
+
+[Xevious 3D\P1 Invincibility]
+Type = Gameshark
+Activation = EndFrame
+80146A18 0002
+
+[Xevious 3D\P1 Weapon Power Up]
+Type = Gameshark
+Activation = EndFrame
+80131EA4 0002
+
+[Xevious 3D\P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8012DD5C 0009
+
+[Xevious 3D\P2 Invincibility]
+Type = Gameshark
+Activation = EndFrame
+801468D4 0002
+
+[Widescreen 16-9 (3D/G)]
+Type = Gameshark
+Activation = EndFrame
+80178740 0C00
+
+[Widescreen 16-9 (Main Menu)]
+Type = Gameshark
+Activation = EndFrame
+8018F330 0C00
+

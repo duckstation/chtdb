@@ -1,0 +1,22 @@
+; CHTDB: ; [ NBA in the Zone 2 (Europe) {SLES-00560} ]
+
+[Select Home Team Score\100]
+Type = Gameshark
+Activation = EndFrame
+8006EF64 0064
+
+[Select Home Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+8006EF64 0000
+
+[Select Away Team Score\100]
+Type = Gameshark
+Activation = EndFrame
+8006F0F8 0064
+
+[Select Away Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+8006F0F8 0000
+

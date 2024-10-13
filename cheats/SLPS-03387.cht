@@ -1,0 +1,7 @@
+; CHTDB: ; [ Super Price Series: Hanafuda (Japan) {SLPS-03387} ]
+
+[Player has always 999 points]
+Type = Gameshark
+Activation = EndFrame
+800C7F88 03E7
+

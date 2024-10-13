@@ -1,0 +1,52 @@
+; CHTDB: ; [ Moto Racer 2 (USA) (1998) (Electronic Arts) {SLUS-00738} <motorcr2> ]
+
+[Start On 2nd Lap]
+Type = Gameshark
+Activation = EndFrame
+A60CF826 00000001
+
+[Have 100 Points In Championship Modes]
+Type = Gameshark
+Activation = EndFrame
+80102CA8 C80C
+
+[Infinite Checkpoint Time]
+Type = Gameshark
+Activation = EndFrame
+800C0E24 AB3E
+
+[Have Mirror, Reverse +Reversed Mirror Options Unlocked]
+Type = Gameshark
+Activation = EndFrame
+80010040 0163
+
+[Unlock Ultimate Challenge]
+Type = Gameshark
+Activation = EndFrame
+800C97C8 0001
+
+[Start On Last Track In Superbike Championship]
+Type = Gameshark
+Activation = EndFrame
+80012398 0007
+
+[Start On Last Track In Moto x Championship]
+Type = Gameshark
+Activation = EndFrame
+80013068 0007
+
+[Start On Last Track In Dual Sport Championship]
+Type = Gameshark
+Activation = EndFrame
+80013D38 0007
+
+[Start On Last Track In Custom Championship]
+Type = Gameshark
+Activation = EndFrame
+8001011C 0007
+
+[Start On Last Track In Ultimate Championship]
+Type = Gameshark
+Activation = EndFrame
+80014A08 0007
+

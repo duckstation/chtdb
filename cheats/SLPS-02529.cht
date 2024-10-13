@@ -1,0 +1,31 @@
+; CHTDB: ; [ Super Robot Taisen EX (Japan) {SLPS-02529} ]
+
+[Enhanced parts MAX]
+Type = Gameshark
+Activation = EndFrame
+9019BAA0 09090900
+
+[Money 9999999]
+Type = Gameshark
+Activation = EndFrame
+8019B9D6 967F
+8019B9D8 0098
+
+[Infinite Bullet]
+Type = Gameshark
+Activation = EndFrame
+A60734C4 FFFF0000
+
+[Infinite Mental]
+Type = Gameshark
+Activation = EndFrame
+A607AF7E 00430040
+A607AF8A 00640060
+
+[Infinite EN]
+Type = Gameshark
+Activation = EndFrame
+A6073506 00440040
+A608BE26 00440040
+A608EF7A 00430040
+

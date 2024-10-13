@@ -1,0 +1,27 @@
+; CHTDB: ; [ Street Racquetball (USA) (2002) (Agetec) {SLUS-01450} <sracquet> ]
+
+[Time Always 00.00]
+Type = Gameshark
+Activation = EndFrame
+8007DBEC 0000
+
+[P1 Max Score]
+Type = Gameshark
+Activation = EndFrame
+800BDEB8 000F
+
+[P1 No Score]
+Type = Gameshark
+Activation = EndFrame
+800BDEB8 0000
+
+[P2 Max Score]
+Type = Gameshark
+Activation = EndFrame
+800BE870 000F
+
+[P2 No Score]
+Type = Gameshark
+Activation = EndFrame
+800BE870 0000
+

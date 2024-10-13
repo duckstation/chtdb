@@ -1,0 +1,32 @@
+; CHTDB: ; [ Triple Play 99 (USA) (1998) (Electronic Arts) {SLUS-00618} <tplay99> ]
+
+[Infinite Balls]
+Type = Gameshark
+Activation = EndFrame
+8008ECB0 0000
+
+[Infinite Strikes]
+Type = Gameshark
+Activation = EndFrame
+3008ECAF 0000
+
+[Select Home Team Score\9]
+Type = Gameshark
+Activation = EndFrame
+3008E9C5 0009
+
+[Select Home Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+3008E9C5 0000
+
+[Select Away Team Score\9]
+Type = Gameshark
+Activation = EndFrame
+3008E9C1 0009
+
+[Select Away Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+3008E9C1 0000
+

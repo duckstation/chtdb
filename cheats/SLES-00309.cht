@@ -1,0 +1,7 @@
+; CHTDB: ; [ Hyper Tennis: Final Match (Europe) {SLES-00309} ]
+
+[Enemy always score 0]
+Type = Gameshark
+Activation = EndFrame
+8018CFB8 0000
+

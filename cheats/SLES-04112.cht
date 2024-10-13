@@ -1,0 +1,12 @@
+; CHTDB: ; [ Robocod: James Pond II aka James Pond: Codename Robocod (Europe) {SLES-04112} ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80129F3E 0003
+
+[Have all elves rescued to complete level]
+Type = Gameshark
+Activation = EndFrame
+80129FBA 0000
+

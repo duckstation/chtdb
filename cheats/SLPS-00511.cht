@@ -1,0 +1,12 @@
+; CHTDB: ; [ TFX - Tactical Fighter Experiment (Jpn) (1996) (Imageneer) {SLPS-00511} <tfx> ]
+
+[Infinite Fuel]
+Type = Gameshark
+Activation = EndFrame
+80085EB4 3373
+
+[Infinite Bullets]
+Type = Gameshark
+Activation = EndFrame
+80086244 270F
+

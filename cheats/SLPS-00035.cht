@@ -1,0 +1,12 @@
+; CHTDB: ; [ Mobile Suit Gundam (Japan) {SLPS-00035} ]
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800F560C 0320
+
+[Maximum weapon]
+Type = Gameshark
+Activation = EndFrame
+800F93A0 0500
+

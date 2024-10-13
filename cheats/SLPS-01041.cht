@@ -1,0 +1,12 @@
+; CHTDB: ; [ Soukuu no Tsubasa: Gotha World (Japan) {SLPS-01041 | SLPS-01042} ]
+
+[Infinite Barrier Ship 1]
+Type = Gameshark
+Activation = EndFrame
+800DCDC6 03E7
+
+[Infinite Barrier Ship 2]
+Type = Gameshark
+Activation = EndFrame
+800DCD1E 03E7
+

@@ -1,0 +1,23 @@
+; CHTDB: ; [ Battle Arena Nitoushinden (Japan) {SLPS-00485} ]
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80097F48 007A
+
+[P2 Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+80098148 007A
+
+[P2 No HP]
+Type = Gameshark
+Activation = EndFrame
+80098148 0000
+
+[Access All Characters]
+Type = Gameshark
+Activation = EndFrame
+80056C4C 1686
+80097F48 007A
+

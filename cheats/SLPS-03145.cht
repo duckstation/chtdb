@@ -1,0 +1,57 @@
+; CHTDB: ; [ SD Gundam Eiyuu Den Daikessen!! - Kishi vs. Musha (Jpn) (2001) (Bandai) {SLPS-03145} <sdgunkvm> ]
+
+[Enemy energy = 0 (Always Win)]
+Type = Gameshark
+Activation = EndFrame
+8011F86C 0000
+
+[9999 Gold]
+Type = Gameshark
+Activation = EndFrame
+80095ABC 270F
+
+[Parts of all types]
+Type = Gameshark
+Activation = EndFrame
+A60B5FD0 00050000
+A60B5FD2 146BA04B
+
+[All types of weapons]
+Type = Gameshark
+Activation = EndFrame
+A60C0204 00050000
+A60C0206 1469A049
+A60C0324 00050000
+A60C0326 1469A049
+
+[Items of all types]
+Type = Gameshark
+Activation = EndFrame
+A60C04C0 00050000
+A60C04C2 1469A049
+
+[All characters and bonus selection]
+Type = Gameshark
+Activation = EndFrame
+90095E38 01010101
+90095E3C 01010101
+90095E40 01010101
+90095E44 01010101
+
+[Mortal blow]
+Type = Gameshark
+Activation = EndFrame
+A60C0488 A642A640
+
+[Other items fully open PAR]
+Type = Gameshark
+Activation = EndFrame
+50000802 0000
+80095AAA 0101
+
+[All characters can be selected + bonus PAR]
+Type = Gameshark
+Activation = EndFrame
+50000802 0000
+80095E38 0101
+

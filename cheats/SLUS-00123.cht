@@ -1,0 +1,22 @@
+; CHTDB: ; [ VMX Racing (USA) (1997) (Playmates Interactive Entertainment) {SLUS-00123} <vmxracng> ]
+
+[Points Cooper]
+Type = Gameshark
+Activation = EndFrame
+80162350 00FF
+
+[Points Becker]
+Type = Gameshark
+Activation = EndFrame
+80164260 00FF
+
+[Points Duncan]
+Type = Gameshark
+Activation = EndFrame
+801632D8 00FF
+
+[Points Emitt]
+Type = Gameshark
+Activation = EndFrame
+801613C8 00FF
+

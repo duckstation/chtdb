@@ -1,0 +1,29 @@
+; CHTDB: ; [ B-Movie (Germany) {SLES-01550} ]
+
+[Unendlich Komponenten]
+Type = Gameshark
+Activation = EndFrame
+8008558C 0066
+80085590 0066
+80085594 0066
+
+[Unendlich Forscher]
+Type = Gameshark
+Activation = EndFrame
+80085588 0066
+
+[Infinite Shields]
+Type = Gameshark
+Activation = EndFrame
+80015F30 2400
+
+[Unendlich Zeit]
+Type = Gameshark
+Activation = EndFrame
+80032400 E942
+
+[Missionsanwahl(01-12)]
+Type = Gameshark
+Activation = EndFrame
+800711D4 0012
+

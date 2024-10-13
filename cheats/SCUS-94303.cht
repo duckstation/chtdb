@@ -1,0 +1,81 @@
+; CHTDB: ; [ Krazy Ivan (USA) (1996) (Psygnosis) {SCUS-94303} <krazyivn> ]
+
+[Infinite Missiles]
+Type = Gameshark
+Activation = EndFrame
+8008D1D4 0063
+
+[Infinite Shields 1st mission]
+Type = Gameshark
+Activation = EndFrame
+800C4D0C 0064
+
+[Infinite Shields ALTERNATE]
+Type = Gameshark
+Activation = EndFrame
+800C4CD0 0064
+800C4CD4 0064
+800C4CD8 0032
+800C4CDC 0032
+800C4CE0 0032
+800C4CE4 0032
+800C4CE8 0032
+800C4CEC 0064
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800C4CF2 0009
+
+[Never Overheat]
+Type = Gameshark
+Activation = EndFrame
+800D1CB8 0000
+
+[Full Cheat Mode]
+Type = Gameshark
+Activation = EndFrame
+800BB078 00FF
+
+[Select Level\Japan (JAPTEX)]
+Type = Gameshark
+Activation = EndFrame
+50000704 0000
+8008D5D8 0DFC
+
+[Select Level\North America (USA)]
+Type = Gameshark
+Activation = EndFrame
+50000704 0000
+8008D5D8 0E0C
+
+[Select Level\France (EUROPE)]
+Type = Gameshark
+Activation = EndFrame
+50000704 0000
+8008D5D8 0E18
+
+[Select Level\Saudi Arabia (MIDDLE)]
+Type = Gameshark
+Activation = EndFrame
+50000704 0000
+8008D5D8 0E28
+
+[Select Level\Russia (RUSSIA)]
+Type = Gameshark
+Activation = EndFrame
+50000704 0000
+8008D5D8 0E38
+
+[Select Level\Secret]
+Type = Gameshark
+Activation = EndFrame
+50000704 0000
+8008D5D8 0DEC
+
+[Select Level\fIN]
+Type = Gameshark
+Activation = EndFrame
+50000704 0000
+8008D5D8 0DE0
+

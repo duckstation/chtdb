@@ -1,0 +1,14 @@
+; CHTDB: ; [ The Mission (Europe) {SLES-03234} ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+D005C0FA AE22
+8005C0F8 0000
+
+[P1 All power ups (Press select)]
+Type = Gameshark
+Activation = EndFrame
+D00F7ADA FFFE
+800D562C FFFF
+

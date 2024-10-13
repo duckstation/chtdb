@@ -1,0 +1,31 @@
+; CHTDB: ; [ Rollcage Stage II (USA) (2000) (Midway Home Entertainment) {SLUS-00867} <rollcag2> ]
+
+[Quick Win]
+Type = Gameshark
+Activation = EndFrame
+E00D23F8 0000
+300D23F8 0003
+
+[Quick Max Score]
+Type = Gameshark
+Activation = EndFrame
+80019ADC FFFF
+
+[99 League Points]
+Type = Gameshark
+Activation = EndFrame
+30019A0C 0063
+
+[Lap Time Is 0.00.00]
+Type = Gameshark
+Activation = EndFrame
+800B2D04 0000
+
+[Unlock Everything]
+Type = Gameshark
+Activation = EndFrame
+80019DEC 2000
+90019DF0 0000005A
+90019DF4 00000000
+80019DF8 0000
+

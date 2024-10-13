@@ -1,0 +1,32 @@
+; CHTDB: ; [ Namco Museum Vol. 4 (Japan) {SLPS-00540} ]
+
+[Assault Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801E2956 000F
+
+[Assault Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+801E2976 00A0
+
+[Ordyne Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+800C45E0 0063
+
+[The Return of Ishtar Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+8015A3CC 03E7
+
+[Pacland Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80057FD5 0003
+
+[Pacland Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+8005803C 0909
+

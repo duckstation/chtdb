@@ -1,0 +1,32 @@
+; CHTDB: ; [ Galaga - Destination Earth (USA) (2000) (Hasbro Interactive) {SLUS-01258} <galagade> ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8008C054 0063
+
+[Infinite Shield]
+Type = Gameshark
+Activation = EndFrame
+8008C07E 0008
+
+[Always Have Smart Bomb]
+Type = Gameshark
+Activation = EndFrame
+8008C0B0 0001
+
+[Rapid Fire]
+Type = Gameshark
+Activation = EndFrame
+800EBE98 0000
+
+[Have all 22 escape pods]
+Type = Gameshark
+Activation = EndFrame
+800E1BF2 0016
+
+[Cheats Option Unlocked (main menu)]
+Type = Gameshark
+Activation = EndFrame
+3008CC44 0001
+

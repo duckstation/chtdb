@@ -1,0 +1,42 @@
+; CHTDB: ; [ Crisis Beat (Japan) {SLPS-01430} ]
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800B12AC 0060
+
+[P2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800B13EC 0060
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800585A0 0909
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+900ACE20 09090909
+
+[Unlock All Extras]
+Type = Gameshark
+Activation = EndFrame
+80058586 FFFF
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A7061E30 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A7061E30 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A7061E30 10000400
+

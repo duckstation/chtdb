@@ -1,0 +1,22 @@
+; CHTDB: ; [ HardBall 5 (USA) (1996) (Accolade) {SLUS-00108} <hardbal5> ]
+
+[P1 Select Score\9]
+Type = Gameshark
+Activation = EndFrame
+300E593D 0009
+
+[P1 Select Score\0]
+Type = Gameshark
+Activation = EndFrame
+300E593D 0000
+
+[P2 Select Score\9]
+Type = Gameshark
+Activation = EndFrame
+300E593C 0009
+
+[P2 Select Score\0]
+Type = Gameshark
+Activation = EndFrame
+300E593C 0000
+

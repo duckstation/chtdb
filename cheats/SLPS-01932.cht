@@ -1,0 +1,53 @@
+; CHTDB: ; [ Vampir Kyuuketsuki Densetsu (Jpn) (1999) (Artdink) {SLPS-01932} <vampir> ]
+
+[Infinite Power Bar]
+Type = Gameshark
+Activation = EndFrame
+80096868 0032
+
+[Does not decrease blood flow during blood-sucking]
+Type = Gameshark
+Activation = EndFrame
+800243FA 2402
+
+[Nosferatu of blood-sucking in the once]
+Type = Gameshark
+Activation = EndFrame
+9002405C 240F0063
+800240EA A64F
+
+[Infinite Power transformation]
+Type = Gameshark
+Activation = EndFrame
+8002EF3C 0000
+
+[Infinite Summoning power]
+Type = Gameshark
+Activation = EndFrame
+D00D2140 005C
+800D2142 1400
+
+[All Status]
+Type = Gameshark
+Activation = EndFrame
+50000802 0000
+30096868 0063
+
+[All Status Alternate]
+Type = Gameshark
+Activation = EndFrame
+50000802 0063
+80096868 0000
+
+[Christopher Max (critical physical fitness, blood volume)]
+Type = Gameshark
+Activation = EndFrame
+800BCE90 00FF
+80096870 00FF
+
+[Duran Max (critical physical fitness, blood volume)]
+Type = Gameshark
+Activation = EndFrame
+800BCE90 00FF
+800967D0 00FF
+

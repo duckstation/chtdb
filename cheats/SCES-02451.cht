@@ -1,0 +1,28 @@
+; CHTDB: ; [ NHL FaceOff 2000 (Europe) {SCES-02451} ]
+
+[Select Home Team Score\9]
+Type = Gameshark
+Activation = EndFrame
+800CD31E 0009
+
+[Select Home Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+800CD31E 0000
+
+[Select Away Team Score\9]
+Type = Gameshark
+Activation = EndFrame
+800CD320 0009
+
+[Select Away Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+800CD320 0000
+
+[Max Stats at Character Creation]
+Type = Gameshark
+Activation = EndFrame
+50000B04 0000
+8015C31C 0063
+

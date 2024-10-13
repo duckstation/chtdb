@@ -1,0 +1,85 @@
+; CHTDB: ; [ Digimon Digital Card Battle (USA) (2001) (Bandai America) {SLUS-01328} <digidcb> ]
+
+[P1 Max HP (Deactivate after sending it)]
+Type = Gameshark
+Activation = EndFrame
+800B3E84 270F
+
+[P1 Max Circle Attack Battle (Press L1+L2)]
+Type = Gameshark
+Activation = EndFrame
+D008D310 0005
+800B3EC4 270F
+
+[P1 Max Circle Attack Overall (Press L1+L2)]
+Type = Gameshark
+Activation = EndFrame
+D008D310 0005
+800B3E86 270F
+
+[All Fire Cards]
+Type = Gameshark
+Activation = EndFrame
+50002201 0000
+300C9E16 0056
+
+[All Ice Cards]
+Type = Gameshark
+Activation = EndFrame
+50002201 0000
+300C9E38 0056
+
+[All Nature Cards]
+Type = Gameshark
+Activation = EndFrame
+50002301 0000
+300C9E5A 0056
+
+[All Darkness Card]
+Type = Gameshark
+Activation = EndFrame
+50002301 0000
+300C9E7E 0056
+
+[All Rare Card]
+Type = Gameshark
+Activation = EndFrame
+50002201 0000
+300C9EA1 0056
+
+[Option Cards]
+Type = Gameshark
+Activation = EndFrame
+50005201 0000
+302C9ED5 0056
+
+[All Digi Jewell Cards]
+Type = Gameshark
+Activation = EndFrame
+50000C01 0000
+300C9F27 0056
+
+[All Speed Digivolve Cards]
+Type = Gameshark
+Activation = EndFrame
+50000701 0000
+300C9F3C 0056
+
+[Apokarimon cards]
+Type = Gameshark
+Activation = EndFrame
+300C9E7D 0056
+
+[All Sevens Cards + Rosemon Lure + Download Digivolve]
+Type = Gameshark
+Activation = EndFrame
+50000901 0000
+300C9F33 0056
+
+[All Partner Cards Including their Armor Digivolve]
+Description = Untested, may break the game
+Type = Gameshark
+Activation = EndFrame
+50001301 0000
+300C9EC1 0056
+

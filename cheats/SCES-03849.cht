@@ -1,0 +1,17 @@
+; CHTDB: ; [ Stuart Little 2 (Spain) {SCES-03849} ]
+
+[Have 99 fruits]
+Type = Gameshark
+Activation = EndFrame
+800C7958 0063
+
+[Have 80 fishes]
+Type = Gameshark
+Activation = EndFrame
+800C796F 0050
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800CA2C9 0303
+

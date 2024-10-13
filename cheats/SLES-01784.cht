@@ -1,0 +1,42 @@
+; CHTDB: ; [ YoYo's Puzzle Park (Europe) {SLES-01784} ]
+
+[Infinite Puzzle Cards]
+Type = Gameshark
+Activation = EndFrame
+80036C20 FFFF
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+30036BD4 0063
+
+[Infinite Time - Musical World]
+Type = Gameshark
+Activation = EndFrame
+80129B74 FFFF
+
+[Infinite Time - Sea World]
+Type = Gameshark
+Activation = EndFrame
+801433E4 FFFF
+
+[Infinite Time - Nanado World]
+Type = Gameshark
+Activation = EndFrame
+8012756C 196A
+
+[Infinite Time - Lounge World]
+Type = Gameshark
+Activation = EndFrame
+80131DB4 FFFF
+
+[Infinite Time - Jungle World]
+Type = Gameshark
+Activation = EndFrame
+8013DC84 FFFF
+
+[Infinite Time - Castle World]
+Type = Gameshark
+Activation = EndFrame
+80146A94 16F2
+

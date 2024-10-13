@@ -1,0 +1,19 @@
+; CHTDB: ; [ NASCAR Thunder 2002 (USA) (2001) (Electronic Arts) {SLUS-01403} <nascr2k2> ]
+
+[No Car Damage]
+Type = Gameshark
+Activation = EndFrame
+800449E6 2400
+
+[Quick Win]
+Type = Gameshark
+Activation = EndFrame
+90085974 240201F4
+8008597A A602
+
+[All Cards]
+Type = Gameshark
+Activation = EndFrame
+50004804 0000
+300C1005 0063
+

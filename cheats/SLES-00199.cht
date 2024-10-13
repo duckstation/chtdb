@@ -1,0 +1,72 @@
+; CHTDB: ; [ Street Fighter Alpha: Warriors' Dreams (Europe) {SLES-00199} ]
+
+[Normal Codes\Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+8019638C 6300
+
+[Normal Codes\P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80189204 0090
+
+[Normal Codes\P1 Infinite Autoblocks]
+Type = Gameshark
+Activation = EndFrame
+80189348 3F00
+
+[Normal Codes\P1 Infinite Supercombos]
+Type = Gameshark
+Activation = EndFrame
+80189276 00FF
+
+[Normal Codes\P2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801894CC 0090
+
+[Normal Codes\P2 Infinite Autoblocks]
+Type = Gameshark
+Activation = EndFrame
+80189610 3F00
+
+[Normal Codes\P2 Infinite Supercombos]
+Type = Gameshark
+Activation = EndFrame
+8018953E 00FF
+
+[Low Value Codes\Infinite Time (Low)]
+Type = Gameshark
+Activation = EndFrame
+8019638C 0100
+
+[Low Value Codes\P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80189204 0001
+
+[Low Value Codes\P1 Infinite Autoblocks]
+Type = Gameshark
+Activation = EndFrame
+80189348 0100
+
+[Low Value Codes\P1 Infinite Supercombos]
+Type = Gameshark
+Activation = EndFrame
+80189276 0001
+
+[Low Value Codes\P2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801894CC 0001
+
+[Low Value Codes\P2 Infinite Autoblocks]
+Type = Gameshark
+Activation = EndFrame
+80189610 0100
+
+[Low Value Codes\P2 Infinite Supercombos]
+Type = Gameshark
+Activation = EndFrame
+8018953E 0001
+

@@ -1,0 +1,97 @@
+; CHTDB: ; [ 3D Lemmings (USA) (1997) (Psygnosis) {SCUS-94601} <3dlemmin> ]
+
+[Infinite Blockers]
+Type = Gameshark
+Activation = EndFrame
+30113794 0005
+
+[Infinite Turners]
+Type = Gameshark
+Activation = EndFrame
+30113795 0005
+
+[Infinite Bombers]
+Type = Gameshark
+Activation = EndFrame
+30113796 0005
+
+[Infinite Builders]
+Type = Gameshark
+Activation = EndFrame
+30113797 0005
+
+[Infinite Bashers]
+Type = Gameshark
+Activation = EndFrame
+30113798 0005
+
+[Infinite Miners]
+Type = Gameshark
+Activation = EndFrame
+30113799 0005
+
+[Infinite Diggers]
+Type = Gameshark
+Activation = EndFrame
+3011379A 0005
+
+[Infinite Climbers]
+Type = Gameshark
+Activation = EndFrame
+3011379B 0005
+
+[Infinite Floaters]
+Type = Gameshark
+Activation = EndFrame
+3011379C 0005
+
+[Select Perm. Release Rate\99]
+Type = Gameshark
+Activation = EndFrame
+80089F14 0063
+
+[Select Perm. Release Rate\50]
+Type = Gameshark
+Activation = EndFrame
+80089F14 0032
+
+[Select Perm. Release Rate\10]
+Type = Gameshark
+Activation = EndFrame
+80089F14 000A
+
+[Select Perm. Release Rate\1]
+Type = Gameshark
+Activation = EndFrame
+80089F14 0001
+
+[Select Perm. Minimum Release Rate\99]
+Type = Gameshark
+Activation = EndFrame
+80107336 0063
+
+[Select Perm. Minimum Release Rate\50]
+Type = Gameshark
+Activation = EndFrame
+80107336 0032
+
+[Select Perm. Minimum Release Rate\10]
+Type = Gameshark
+Activation = EndFrame
+80107336 000A
+
+[Select Perm. Minimum Release Rate\1]
+Type = Gameshark
+Activation = EndFrame
+80107336 0001
+
+[All Lemmings Accounted For]
+Type = Gameshark
+Activation = EndFrame
+8010733A 0000
+
+[Rescued Lemmings Modifier Beat levels by entering the amounts of Lemmings you need to rescue(Selected 5)]
+Type = Gameshark
+Activation = EndFrame
+80089F34 0005
+

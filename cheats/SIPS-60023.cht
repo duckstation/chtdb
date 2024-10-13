@@ -1,0 +1,20 @@
+; CHTDB: ; [ Formula 1 97 (Japan) {SIPS-60023} ]
+
+[Infinite Time in arcade mode]
+Type = Gameshark
+Activation = EndFrame
+D0038E2E 3C01
+80038E32 8C22
+
+[MAX speed on the button + X button when pressed Arcade mode]
+Type = Gameshark
+Activation = EndFrame
+D00BD140 6000
+800C71E8 FFFF
+
+[MAX speed on the button + X button when pressed Time Attack mode]
+Type = Gameshark
+Activation = EndFrame
+D00BD140 6000
+800C1A4C FFFF
+

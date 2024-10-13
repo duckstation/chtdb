@@ -1,0 +1,24 @@
+; CHTDB: ; [ El Tetris Un MÃ¡gico DesafÃ­o (Spain) {SCES-02177} ]
+
+[P1 Maximum Score]
+Type = Gameshark
+Activation = EndFrame
+901E01FC 3B9AC9FF
+
+[P1 Max Gauge (use it with the other gauge code and deactivate this one after use it)]
+Type = Gameshark
+Activation = EndFrame
+801E015A 9800
+
+[P1 Max Gauge - Press L2]
+Type = Gameshark
+Activation = EndFrame
+E01E1154 0001
+801E015A 9800
+
+[P1 Max Gauge Alt 1 - Press L2]
+Type = Gameshark
+Activation = EndFrame
+E01E1140 0001
+801E072A 9800
+

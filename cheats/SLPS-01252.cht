@@ -1,0 +1,12 @@
+; CHTDB: ; [ Prism Land Story (Japan) {SLPS-01252} ]
+
+[Infinite Live]
+Type = Gameshark
+Activation = EndFrame
+801CBDD4 0103
+
+[Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+801CBDD6 012C
+

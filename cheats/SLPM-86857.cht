@@ -1,0 +1,12 @@
+; CHTDB: ; [ Youkai Hana Asobi (Jpn) (2001) (Unbalance) {SLPM-86857} <yokaihan> ]
+
+[Enemy Points = 0]
+Type = Gameshark
+Activation = EndFrame
+800DFD6A 0000
+
+[Have 99 Points]
+Type = Gameshark
+Activation = EndFrame
+800DFD68 0063
+

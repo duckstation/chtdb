@@ -1,0 +1,72 @@
+; CHTDB: ; [ Disney/Pixar Monsters, Inc. - Scream Team (USA) (2001) (Sony Computer Entertainment America) {SCUS-94635} <monstinc> ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800100A3 0063
+
+[Infinite Health (Mike) Level 1]
+Type = Gameshark
+Activation = EndFrame
+800F4EBC 0005
+
+[Infinite Health (Sulley) Level 1]
+Type = Gameshark
+Activation = EndFrame
+800E525C 0005
+
+[Movie theater Fully Open]
+Type = Gameshark
+Activation = EndFrame
+90010118 FFFFFFFF
+
+[All Medals]
+Type = Gameshark
+Activation = EndFrame
+900100C8 63636363
+900100CC 63636363
+800100D0 6363
+300100D2 0063
+300100C7 0063
+900100D4 FFFFFFFF
+900100D8 FFFFFFFF
+900100DC FFFFFFFF
+
+[All stages]
+Type = Gameshark
+Activation = EndFrame
+800100EE FFFF
+800100F0 FFFF
+900100F8 FFFFFFFF
+800100FC FFFF
+900100F4 FFFFFFFF
+300100F3 00FF
+
+[Select Moon Jump\Hold X]
+Type = Gameshark
+Activation = EndFrame
+A7036B94 FFB00072
+A7036B96 34029662
+D7200000 00000040
+A7036B94 0072FFB0
+A7036B96 96623402
+
+[Select Moon Jump\Hold L1+R1+X]
+Type = Gameshark
+Activation = EndFrame
+A7036B94 FFB00072
+A7036B96 34029662
+D7200000 0000004C
+A7036B94 0072FFB0
+A7036B96 96623402
+
+[Walk through Walls (Hold L1+R1)]
+Description = Be careful falling and holding as you will go through the ground
+Type = Gameshark
+Activation = EndFrame
+A7030ED2 100010B0
+A703C746 24000C00
+D7200000 0000000C
+A703C746 0C002400
+A7030ED2 10B01000
+

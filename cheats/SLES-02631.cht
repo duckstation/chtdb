@@ -1,0 +1,32 @@
+; CHTDB: ; [ Wild Rapids (Europe) {SLES-02631} ]
+
+[Have 3 Turbos]
+Type = Gameshark
+Activation = EndFrame
+30069270 0003
+
+[Turbos Never Decrease]
+Type = Gameshark
+Activation = EndFrame
+80018658 0000
+
+[Timer Stopped 0.00.00/Always First]
+Type = Gameshark
+Activation = EndFrame
+D00259A0 0178
+800259A2 0000
+A60259A0 01780000
+
+[Everythings Unlocked]
+Type = Gameshark
+Activation = EndFrame
+800102A0 FFFF
+
+[Timer Stopped 9.59.59/Always First]
+Type = Gameshark
+Activation = EndFrame
+D00259A0 0178
+8002599C FFFF
+D00259A0 0178
+8002599E 3402
+

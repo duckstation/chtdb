@@ -1,0 +1,12 @@
+; CHTDB: ; [ Uno (Japan) {SLPS-01349} ]
+
+[Have 500 Points]
+Type = Gameshark
+Activation = EndFrame
+80115BD8 01F4
+
+[Have 0 Cards In Story Mode]
+Type = Gameshark
+Activation = EndFrame
+80119328 0000
+

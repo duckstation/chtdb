@@ -1,0 +1,17 @@
+; CHTDB: ; [ The Misadventures of Tron Bonne (Europe) {SLES-02795} ]
+
+[Infinite Zenny/Money]
+Type = Gameshark
+Activation = EndFrame
+800C86CC FFFF
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800C8720 10F0
+
+[Max Health]
+Type = Gameshark
+Activation = EndFrame
+800C8722 10F0
+

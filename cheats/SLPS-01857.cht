@@ -1,0 +1,23 @@
+; CHTDB: ; [ Option: Tuning Car Battle 2 (Japan) {SLPS-01857} ]
+
+[Infinite Tuning Money Coupon]
+Type = Gameshark
+Activation = EndFrame
+800A62B0 5FFF
+
+[No Gear Boost Mode]
+Type = Gameshark
+Activation = EndFrame
+50000702 0000
+801FF07E 01B6
+
+[Lap Timer = 0]
+Type = Gameshark
+Activation = EndFrame
+8017E48C 0000
+
+[Total Timer = 0]
+Type = Gameshark
+Activation = EndFrame
+8017E490 0000
+

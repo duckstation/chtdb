@@ -1,0 +1,27 @@
+; CHTDB: ; [ Youchien Gaiden: Karei naru Casino Club: Double Draw (Japan) {SLPS-03098} ]
+
+[Player has 9999999 Money in story mode]
+Type = Gameshark
+Activation = EndFrame
+900E9F70 0098967F
+
+[P1 Max money]
+Type = Gameshark
+Activation = EndFrame
+900EA494 0098967F
+
+[P2 has 0 money]
+Type = Gameshark
+Activation = EndFrame
+900EA498 00000000
+
+[P3 has 0 Money]
+Type = Gameshark
+Activation = EndFrame
+900EA49C 00000000
+
+[P4 has 0 money]
+Type = Gameshark
+Activation = EndFrame
+900EA4A0 00000000
+

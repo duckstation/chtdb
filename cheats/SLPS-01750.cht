@@ -1,0 +1,71 @@
+; CHTDB: ; [ Ehrgeiz: God Bless the Ring (Japan) {SLPS-01750} ]
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8011E70E 00B8
+
+[P2 Life 0 Press Select]
+Type = Gameshark
+Activation = EndFrame
+D0121662 0100
+80122522 0000
+
+[Enable All Characters]
+Type = Gameshark
+Activation = EndFrame
+901F162C FFFFFFFF
+
+[Enable All Endings]
+Type = Gameshark
+Activation = EndFrame
+801F1630 FFFF
+
+[RPG Mode Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801E7B90 0080
+
+[RPG Mode Max Power Bar]
+Type = Gameshark
+Activation = EndFrame
+801F2CFE 0080
+
+[RPG Mode Max Magic/Fireballs]
+Type = Gameshark
+Activation = EndFrame
+801F2E68 FFFF
+
+[RPG Mode Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+801F2E90 FFFF
+
+[RPG Mode Max Bomb]
+Type = Gameshark
+Activation = EndFrame
+801F2E68 270F
+
+[RPG Mode Max HP]
+Type = Gameshark
+Activation = EndFrame
+301F2D06 00FF
+301F2D14 00FF
+
+[RPG Mode Max Status]
+Type = Gameshark
+Activation = EndFrame
+301F2D04 00FF
+301F2D1E 00FF
+301F2D06 00FF
+301F2D0C 00FF
+301F2D1E 00FF
+301F2D2C 00FF
+301F2D0E 00FF
+
+[RPG Mode Use Special Character]
+Type = Gameshark
+Activation = EndFrame
+801F162C FFFF
+301F162E 00FF
+

@@ -1,0 +1,69 @@
+; CHTDB: ; [ The Fifth Element (Europe) {SCES-01285} ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801FFF46 000A
+
+[Infinite Shields]
+Type = Gameshark
+Activation = EndFrame
+800DAD0C 00FF
+801FFF96 0001
+
+[Korben Dallas Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+800DAD48 0163
+
+[Korben Dallas	Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+E10E61B8 0000
+801EF492 00FF
+
+[Leeloo	Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+E10E61B8 0000
+801D4D0A 00FF
+E10E61B8 0000
+801E673E 00FF
+
+[Have Z Key-Card]
+Type = Gameshark
+Activation = EndFrame
+801FFF64 0001
+
+[Have Fhloston Key]
+Type = Gameshark
+Activation = EndFrame
+801FFF68 0001
+
+[Have Have Mondoshawan Key]
+Type = Gameshark
+Activation = EndFrame
+801FFF6C 0001
+
+[Have Key Pass]
+Type = Gameshark
+Activation = EndFrame
+801FFF7A 0001
+
+[Have All weapons]
+Type = Gameshark
+Activation = EndFrame
+A60321D6 00000100
+
+[Have All element]
+Type = Gameshark
+Activation = EndFrame
+50000402 0000
+801FFF5C 0001
+
+[Have All activator]
+Type = Gameshark
+Activation = EndFrame
+50000402 0000
+801FFF70 0001
+

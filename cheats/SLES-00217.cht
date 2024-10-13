@@ -1,0 +1,18 @@
+; CHTDB: ; [ Sampras Extreme Tennis (Europe) {SLES-00217} ]
+
+[P1 40 Points Advantage]
+Type = Gameshark
+Activation = EndFrame
+A61EAF74 00000003
+
+[P2 Can't Win]
+Type = Gameshark
+Activation = EndFrame
+A61EAF80 00010000
+
+[All Players Selectable]
+Type = Gameshark
+Activation = EndFrame
+50001604 0000
+801EAE5C 0001
+

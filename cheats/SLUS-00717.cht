@@ -1,0 +1,63 @@
+; CHTDB: ; [ Motorhead (USA) (1998) (Fox Interactive) {SLUS-00717} <motorhd> ]
+
+[All Cars Unlocked]
+Type = Gameshark
+Activation = EndFrame
+801AAA04 0001
+801AAA1C 0001
+801AAA34 0001
+801AAA4C 0001
+801AAA64 0001
+801AAA94 0001
+801AAAAC 0001
+
+[All Tracks Unlocked 1]
+Type = Gameshark
+Activation = EndFrame
+8003D0C0 000F
+
+[All Tracks Unlocked 2]
+Type = Gameshark
+Activation = EndFrame
+801AAAC8 0001
+801AAAE0 0001
+801AAAF0 0001
+801AAFC8 0001
+801AAB08 0001
+801AAB14 0001
+801AAB20 0001
+801AAB2C 0001
+801AAB38 0001
+801AAB44 0001
+801AAB5C 0001
+801AAB68 0001
+801AAB74 0001
+
+[Select Difficulty\Easy]
+Type = Gameshark
+Activation = EndFrame
+801A8388 0000
+
+[Select Difficulty\Medium]
+Type = Gameshark
+Activation = EndFrame
+801A8388 0001
+
+[Select Difficulty\Hard]
+Type = Gameshark
+Activation = EndFrame
+801A8388 0002
+
+[Finish First]
+Type = Gameshark
+Activation = EndFrame
+800CAB48 0001
+800CBC88 0001
+800C5588 0001
+800DAC68 0001
+800C3DD0 0001
+800D94B0 0001
+800D0CA8 0001
+800C5FC0 0001
+8013C650 0001
+

@@ -1,0 +1,8 @@
+; CHTDB: ; [ Board Game - Top Shop (USA) (2001) (A1 Games) {SLUS-01333} <topshop> ]
+
+[P1 Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+80113D50 FFFF
+80113D54 FFFF
+

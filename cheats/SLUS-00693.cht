@@ -1,0 +1,102 @@
+; CHTDB: ; [ Dead in the Water (USA) (1999) (ASC Games) {SLUS-00693} <ditw> ]
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80113264 FFFF
+
+[Battle Mode\Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+80113264 00F9
+
+[Battle Mode\Infinite Ghosts]
+Type = Gameshark
+Activation = EndFrame
+80113210 0003
+
+[Battle Mode\Infinite Mossles]
+Type = Gameshark
+Activation = EndFrame
+801131E8 0003
+
+[Battle Mode\Infinite Mines]
+Type = Gameshark
+Activation = EndFrame
+80113204 0003
+
+[Battle Mode\Infinite Grenades]
+Type = Gameshark
+Activation = EndFrame
+801131F4 0003
+
+[Battle Mode\Infinite Skip Disk]
+Type = Gameshark
+Activation = EndFrame
+80113124 0003
+
+[Battle Mode\Infinite Shockwave]
+Type = Gameshark
+Activation = EndFrame
+801131FC 0003
+
+[Battle Mode\Infinite Flamethrower]
+Type = Gameshark
+Activation = EndFrame
+801131F8 000A
+
+[Battle Mode\Infinite Torpedoes]
+Type = Gameshark
+Activation = EndFrame
+801131E4 0003
+
+[Enable Big Wave Mode]
+Type = Gameshark
+Activation = EndFrame
+8010D828 0005
+
+[Enable Chicken Mode]
+Type = Gameshark
+Activation = EndFrame
+800AB018 0001
+
+[Enable Flipped Tracks]
+Type = Gameshark
+Activation = EndFrame
+800B3598 0001
+
+[Enable Hong Kong Level]
+Type = Gameshark
+Activation = EndFrame
+800A86C0 0001
+
+[Enable Loch Ness Level]
+Type = Gameshark
+Activation = EndFrame
+800A86C6 0001
+
+[Enable RC Boat Mode]
+Type = Gameshark
+Activation = EndFrame
+800AB010 0001
+
+[Enable The Amazon Level]
+Type = Gameshark
+Activation = EndFrame
+800A86CC 0001
+
+[Enable The Bayou Level]
+Type = Gameshark
+Activation = EndFrame
+800A86C2 0001
+
+[Enable The Bermuda Triangle Level]
+Type = Gameshark
+Activation = EndFrame
+800A86D0 0001
+
+[Enable The Log Ride Level]
+Type = Gameshark
+Activation = EndFrame
+800A86CE 0001
+

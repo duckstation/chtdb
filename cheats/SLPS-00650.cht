@@ -1,0 +1,85 @@
+; CHTDB: ; [ Battle Arena Toushinden 3 (Japan) {SLPS-00650} ]
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801F95D6 0000
+
+[P2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801F972E 0000
+
+[P1 Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+1F80023A 0006
+1F80023C 0002
+
+[P2 Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+1F80036E 0006
+1F800370 0002
+
+[P1 Infinite Bombs]
+Type = Gameshark
+Activation = EndFrame
+1F800274 0002
+
+[P2 Infinite Bombs]
+Type = Gameshark
+Activation = EndFrame
+1F8003A8 0002
+
+[P1 Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+1F8001F0 0000
+
+[P2 Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+1F800324 0000
+
+[P1 Max Gauge]
+Type = Gameshark
+Activation = EndFrame
+1F800201 000F
+
+[P2 Max Gauge]
+Type = Gameshark
+Activation = EndFrame
+1F800335 000F
+
+[P1 Air Mode]
+Type = Gameshark
+Activation = EndFrame
+801F95CC 0001
+
+[P2 Air Mode]
+Type = Gameshark
+Activation = EndFrame
+801F9724 0001
+
+[Select All Characters]
+Type = Gameshark
+Activation = EndFrame
+9017EF6C 00010001
+9017EF70 00010001
+8017EF74 0001
+
+[Unlock Extras]
+Type = Gameshark
+Activation = EndFrame
+110000F4 0003
+50001202 0000
+8017EF6C 0001
+8017EF76 0001
+9017EF78 00010001
+9017EF7C 00010001
+9017EF80 00010001
+9017EF84 00010001
+9017EF88 00010001
+9017EF8C 00010001
+

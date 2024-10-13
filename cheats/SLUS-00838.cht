@@ -1,0 +1,99 @@
+; CHTDB: ; [ Bugs Bunny - Lost in Time (USA) (2000) (Infogrames) {SLUS-00838} <bugsblit> ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+30010042 0006
+
+[Maximum Normal Carrots]
+Type = Gameshark
+Activation = EndFrame
+30010043 0063
+
+[Maximum Golden Carrots]
+Type = Gameshark
+Activation = EndFrame
+30010047 00FF
+
+[Maximum Clocks]
+Type = Gameshark
+Activation = EndFrame
+30010045 00FF
+
+[Faster and more fluid Bugs Bunny (L3/R3 On/Off)]
+Description = The code makes for a smoother experience but makes things faster, you can jump farther as well but when pushing boxes for example it is best to turn the code of temporarily, other characters might become faster too.
+Type = Gameshark
+Activation = EndFrame
+E001000D 0002
+8001C958 7257
+E001000D 0002
+8001C95A 0800
+E001000D 0002
+8001C940 7251
+E001000D 0002
+8001C942 0800
+E001000D 0004
+8001C958 00EC
+E001000D 0004
+8001C95A AE22
+E001000D 0004
+8001C940 00E4
+E001000D 0004
+8001C942 AE22
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+30069690 001E
+
+[Low gravity jumps (L2+R2+X)]
+Type = Gameshark
+Activation = EndFrame
+E0010010 0043
+8002021C 0001
+E1010010 0043
+8002021C 0400
+
+[Moonjump (Hold X to Moonjump)]
+Type = Gameshark
+Activation = EndFrame
+E0010010 0040
+8002479C FFF0
+E0010010 0040
+8002479E 21AD
+E1010010 0040
+8002479C 6820
+E1010010 0040
+8002479E 01AA
+
+[Multi-Jumps & Float/Walk in air (L2+R2+X jump/L2+R2 float&walk)]
+Type = Gameshark
+Activation = EndFrame
+E0010010 0043
+800247C6 2400
+E1010010 0043
+800247C6 1040
+E0010010 0003
+8002479E 2400
+E1010010 0003
+8002479E 01AA
+
+[Walk through Stage Boundaries]
+Description = But it'll lead to death if there is nothing there.
+Type = Gameshark
+Activation = EndFrame
+A701ADD2 14621000
+A701C346 14621000
+A702347A 10821000
+
+[Select Widescreen\16-9]
+Type = Gameshark
+Activation = EndFrame
+A7076150 10000C00
+
+[Select Widescreen\Eyefinity]
+Description = GPU Intense, massive slowdown, de-syncs+/breaks cutscenes
+Type = Gameshark
+Activation = EndFrame
+A7076150 10000400
+

@@ -1,0 +1,39 @@
+; CHTDB: ; [ Detective Barbie - The Mystery Cruise (USA) (2000) (Mattel Interactive) {SLUS-01221} <barbiemc> ]
+
+[Have All Clues + Gadgets]
+Type = Gameshark
+Activation = EndFrame
+90010144 FFFFFFFF
+
+[Have All Fingerprints]
+Type = Gameshark
+Activation = EndFrame
+80010148 FFFF
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A70EC4AC 10000C00
+A71048C4 10000C00
+A71049C4 10000C00
+A710230C 10000C00
+A7089BE8 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A70EC4AC 1000090
+A71048C4 1000090
+A71049C4 1000090
+A710230C 1000090
+A7089BE8 1000090
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A70EC4AC 10000400
+A71048C4 10000400
+A71049C4 10000400
+A710230C 10000400
+A7089BE8 10000400
+

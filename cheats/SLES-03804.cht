@@ -1,0 +1,34 @@
+; CHTDB: ; [ Worms World Party (Europe) {SLES-03804} ]
+
+[Infinite Baseball bat]
+Type = Gameshark
+Activation = EndFrame
+8014E99C 000F
+
+[Infinite Jetpack]
+Type = Gameshark
+Activation = EndFrame
+8014EA00 000F
+
+[Infinite Ninja rope]
+Type = Gameshark
+Activation = EndFrame
+8014E9A4 000F
+
+[Invincibility Team 1]
+Type = Gameshark
+Activation = EndFrame
+8014DDF8 02EE
+8014DEA0 02EE
+8014DF48 02EE
+8014DFF0 02EE
+
+[Invincibility (Press L3) Team 1]
+Type = Gameshark
+Activation = EndFrame
+D00432C2 FFFD
+8014DDF8 02EE
+8014DEA0 02EE
+8014DF48 02EE
+8014DFF0 02EE
+

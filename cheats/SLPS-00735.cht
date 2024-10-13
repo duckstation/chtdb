@@ -1,0 +1,34 @@
+; CHTDB: ; [ Soviet Strike (Japan) {SLPS-00735} ]
+
+[Infinite Fuel]
+Type = Gameshark
+Activation = EndFrame
+80083C06 6400
+
+[Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+80083B00 05DC
+
+[Infinite Ammunition]
+Type = Gameshark
+Activation = EndFrame
+800F569C 05DC
+
+[Infinite Fuel Program Code]
+Type = Gameshark
+Activation = EndFrame
+A602DBE6 00430040
+
+[Infinite Bullets Program Code]
+Type = Gameshark
+Activation = EndFrame
+D004C36A 2482
+8004C368 0000
+
+[Infinite Attempts Program Code]
+Type = Gameshark
+Activation = EndFrame
+D002DFEE 2482
+8002DFEC 0000
+

@@ -1,0 +1,233 @@
+; CHTDB: ; [ Wild Arms 2 (USA) (2000) (Sony Computer Entertainment America) {SCUS-94484 / SCUS-94498} <wildarm2> ]
+
+[Max Money]
+Type = Gameshark
+Activation = EndFrame
+9011AEEC 0098967F
+
+[Infinite HP (All Allies)]
+Type = Gameshark
+Activation = EndFrame
+5000087C 0000
+8011A72C 270F
+
+[Max HP (All Allies)]
+Type = Gameshark
+Activation = EndFrame
+5000087C 0000
+8011A730 270F
+5000087C 0000
+8011A734 270F
+
+[Save Anywhere (Press L2+X)]
+Type = Gameshark
+Activation = EndFrame
+D00F5F9C 0001
+3011AB28 0080
+9011A4DC 80145390
+8011A4E8 5000
+9011A4EC FFFFBC00
+8011A4F0 F000
+8011A4FA 0003
+8011A502 1400
+8011A504 1428
+9011A510 FFFF0006
+9011A524 0006004F
+8011A52C 8000
+
+[No Random Battles]
+Type = Gameshark
+Activation = EndFrame
+8011E010 0000
+
+[Max Luck (All Allies)]
+Type = Gameshark
+Activation = EndFrame
+5000087C 0000
+3011A77E 0004
+
+[100 PS Points (All Allies)]
+Type = Gameshark
+Activation = EndFrame
+5000087C 0000
+3011A795 0064
+
+[All Items]
+Type = Gameshark
+Activation = EndFrame
+5000FF02 0001
+8011ABE8 FE00
+50008102 0001
+8011ADE8 FEFF
+
+[Have All Force Abilities (All Allies)]
+Type = Gameshark
+Activation = EndFrame
+5000087C 0000
+3011A79F 00F0
+
+[Have All Personal Skills (All Allies)]
+Type = Gameshark
+Activation = EndFrame
+5000087C 0000
+8011A798 FFFF
+5000087C 0000
+8011A79A FFFF
+5000087C 0000
+8011A79C FFFF
+5000087C 0000
+3011A79E 00FF
+
+[Infinite ARMS Bullets]
+Type = Gameshark
+Activation = EndFrame
+8009AD3E 0040
+
+[Infinite FP (All Allies)]
+Type = Gameshark
+Activation = EndFrame
+5000087C 0000
+8011A73A 03EE
+5000087C 0000
+8011A73C 03EE
+
+[Infinite Gimel Coin (Continues)]
+Type = Gameshark
+Activation = EndFrame
+30125688 00FF
+
+[Infinite PS Points]
+Type = Gameshark
+Activation = EndFrame
+D017A22C 1823
+8017A22E 0060
+
+[Max Damage All Allies]
+Type = Gameshark
+Activation = EndFrame
+90114588 000F423F
+90114D90 000F423F
+90115598 000F423F
+
+[One Hit Kill (All Enemies)]
+Type = Gameshark
+Activation = EndFrame
+D31256CC 0001
+801256CC 0001
+D31256CE 0000
+801256CE 0000
+D312574C 0001
+8012574C 0001
+D312574E 0000
+8012574E 0000
+D31257CC 0001
+801257CC 0001
+D31257CE 0000
+801257CE 0000
+D312584C 0001
+8012584C 0001
+D312584E 0000
+8012584E 0000
+D31258CC 0001
+801258CC 0001
+D31258CE 0000
+801258CE 0000
+
+[Always Have Pooka In Battle]
+Type = Gameshark
+Activation = EndFrame
+801027D0 0CCC
+
+[Can Always Upgrade ARMS]
+Type = Gameshark
+Activation = EndFrame
+8009AA30 0000
+
+[Ashley Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+8011A72C 270F
+
+[Ashley Infinite FP]
+Type = Gameshark
+Activation = EndFrame
+8011A73A 03EE
+8011A73C 03EE
+
+[Anastasia Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+8011AA14 270F
+
+[Anastasia Infinite FP]
+Type = Gameshark
+Activation = EndFrame
+8011AA22 03EE
+8011AA24 03EE
+
+[Brad Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+8011A7A8 270F
+
+[Brad Infinite FP]
+Type = Gameshark
+Activation = EndFrame
+8011A7B6 03EE
+8011A7B8 03EE
+
+[Kanon Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+8011A91C 270F
+
+[Kanon Nfinite FP]
+Type = Gameshark
+Activation = EndFrame
+8011A92A 03EE
+8011A92C 03EE
+
+[Lilka Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+8011A824 270F
+
+[Lilka Infinite FP]
+Type = Gameshark
+Activation = EndFrame
+8011A832 03EE
+8011A834 03EE
+
+[Lucied Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+8011AA90 270F
+
+[Lucied Infinite FP]
+Type = Gameshark
+Activation = EndFrame
+8011AA9E 03EE
+8011AAA0 03EE
+
+[Marivel Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+8011A998 270F
+
+[Marivel Infinite FP]
+Type = Gameshark
+Activation = EndFrame
+8011A9A6 03EE
+8011A9A8 03EE
+
+[Tim Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+8011A8A0 270F
+
+[Tim Infinite FP]
+Type = Gameshark
+Activation = EndFrame
+8011A8AE 03EE
+8011A8B0 03EE
+

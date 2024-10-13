@@ -1,0 +1,46 @@
+; CHTDB: ; [ Panekit: Infinitive Crafting Toy Case (Japan) {SCPS-10096} ]
+
+[POWER 100%]
+Type = Gameshark
+Activation = EndFrame
+D00CB188 0046
+300CB188 00E6
+300CB189 0000
+
+[Preset model is fully open]
+Type = Gameshark
+Activation = EndFrame
+50000702 0000
+800B55FC FFFF
+
+[Map fully open]
+Type = Gameshark
+Activation = EndFrame
+50002A02 0000
+800B5618 FFFF
+
+[Total time 0.00.00]
+Type = Gameshark
+Activation = EndFrame
+900B5740 00000000
+
+[COMPLETE]
+Type = Gameshark
+Activation = EndFrame
+300B5675 00FF
+
+[Panel]
+Type = Gameshark
+Activation = EndFrame
+800CB1D0 0000
+
+[Tire]
+Type = Gameshark
+Activation = EndFrame
+800CB1D2 0000
+
+[Joint]
+Type = Gameshark
+Activation = EndFrame
+900CB1D4 00000000
+

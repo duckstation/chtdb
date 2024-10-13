@@ -1,0 +1,33 @@
+; CHTDB: ; [ Dancing Stage: Disney Mix (Europe) {SLES-03384} ]
+
+[All Lessons Clear]
+Type = Gameshark
+Activation = EndFrame
+50000C02 0000
+80010E5C 0101
+
+[Dance Magic Mode\P1 Max Power Gauge]
+Type = Gameshark
+Activation = EndFrame
+900E433C 00FF0002
+
+[Dance Magic Mode\P2 Max Power Gauge]
+Type = Gameshark
+Activation = EndFrame
+900E4348 00FF0002
+
+[P1 Max Dance Gauge]
+Type = Gameshark
+Activation = EndFrame
+8008132C 03E8
+
+[P2 Max Dance Gauge]
+Type = Gameshark
+Activation = EndFrame
+80082E84 03E8
+
+[Unlock All Extras]
+Type = Gameshark
+Activation = EndFrame
+80010E5A 1000
+

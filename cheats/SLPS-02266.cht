@@ -1,0 +1,73 @@
+; CHTDB: ; [ Zoku Mikagura Shoujo Tanteidan: Kanketsuhen (Japan) {SLPS-02266 | SLPS-02267 | SLPS-02268 | SLPS-02269} ]
+
+[Have always 20 trigger points]
+Type = Gameshark
+Activation = EndFrame
+8007327A 0014
+
+[Trigger automatic calculation]
+Type = Gameshark
+Activation = EndFrame
+A703404E 10401400
+A70340DA 10401400
+
+[Time does not decrease maze]
+Type = Gameshark
+Activation = EndFrame
+A6026550 FFFF0000
+
+[Pong remaining number of times at the same time]
+Type = Gameshark
+Activation = EndFrame
+8007A692 0002
+
+[Game overs]
+Type = Gameshark
+Activation = EndFrame
+80073288 0000
+
+[Reasoning misses]
+Type = Gameshark
+Activation = EndFrame
+8007328A 0000
+
+[Resolution misses]
+Type = Gameshark
+Activation = EndFrame
+8007328C 0000
+
+[Do not reasoning miscount]
+Type = Gameshark
+Activation = EndFrame
+A6034190 00010000
+A60352A2 00640060
+
+[Elapsed time 0]
+Type = Gameshark
+Activation = EndFrame
+90073208 00000000
+9007320C 00000000
+
+[Not increase the elapsed time]
+Type = Gameshark
+Activation = EndFrame
+A60174EC 00010000
+
+[Progress]
+Type = Gameshark
+Activation = EndFrame
+80073214 0005
+
+[100 points all results]
+Type = Gameshark
+Activation = EndFrame
+90073218 00640064
+9007321C 00640064
+80073220 0064
+
+[Menu fully open]
+Type = Gameshark
+Activation = EndFrame
+A7087A2E 10401400
+A7087EF2 10401400
+

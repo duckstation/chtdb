@@ -1,0 +1,30 @@
+; CHTDB: ; [ Klonoa: Door to Phantomile (France) {SCES-01185} ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8010E472 0006
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8010E478 0004
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A710A2E8 10000C00
+A70BEE12 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A710A2E8 10000900
+A70BEE12 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A710A2E8 10000400
+A70BEE12 10000400
+

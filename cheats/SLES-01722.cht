@@ -1,0 +1,50 @@
+; CHTDB: ; [ Bloody Roar 2: Bringer of the New Age (Europe) {SLES-01722} ]
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+90178CB4 32210100
+90178CCC 1020000D
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80178CF2 3C00
+
+[Start With Full Beastmeters]
+Type = Gameshark
+Activation = EndFrame
+80175964 3A00
+
+[Have All Movies]
+Type = Gameshark
+Activation = EndFrame
+801C1228 FFFF
+
+[Have All Pictures]
+Type = Gameshark
+Activation = EndFrame
+50000502 0000
+801C1254 FFFF
+
+[Have All Characters]
+Type = Gameshark
+Activation = EndFrame
+801C124C FFFF
+
+[Have All Custom]
+Type = Gameshark
+Activation = EndFrame
+801C1242 FFFF
+801C1244 FFFF
+
+[Infinite Time To Chose Character]
+Type = Gameshark
+Activation = EndFrame
+801FFE1C 1760
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+801F0270 1333
+

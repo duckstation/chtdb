@@ -1,0 +1,12 @@
+; CHTDB: ; [ 360 Three Sixty (Europe) {SLES-02089} ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801350A4 0900
+
+[Infinite Machine Gun Ammo]
+Type = Gameshark
+Activation = EndFrame
+801350A2 1000
+

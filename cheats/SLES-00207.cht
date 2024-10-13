@@ -1,0 +1,30 @@
+; CHTDB: ; [ Space Hulk: Vengeance of the Blood Angels (Europe) {SLES-00207} ]
+
+[Infinite Freeze Time]
+Type = Gameshark
+Activation = EndFrame
+800C5A68 003D
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+8007C20E 2400
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800A2D80 007F
+800A2E38 007F
+800A2EF0 007F
+800A2FA8 007F
+800A3060 007F
+
+[Full Experience]
+Type = Gameshark
+Activation = EndFrame
+800A2D84 007F
+800A2E3C 007F
+800A2EF4 007F
+800A2FAC 007F
+800A3064 007F
+

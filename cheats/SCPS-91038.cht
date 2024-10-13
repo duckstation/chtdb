@@ -1,0 +1,139 @@
+; CHTDB: ; [ Wild Arms (Japan) Rev 1 {SCPS-91038} ]
+
+[1st Character Max Experience]
+Type = Gameshark
+Activation = EndFrame
+8013DB24 FFFF
+
+[1st Character Max HP]
+Type = Gameshark
+Activation = EndFrame
+8013DB08 270F
+
+[2nd Character Max Experience]
+Type = Gameshark
+Activation = EndFrame
+8013DB58 FFFF
+
+[2nd Character Max HP]
+Type = Gameshark
+Activation = EndFrame
+8013DB3C 270F
+
+[3rd Character Max Experience]
+Type = Gameshark
+Activation = EndFrame
+8013DB8C FFFF
+
+[3rd Character Max HP]
+Type = Gameshark
+Activation = EndFrame
+8013DB70 270F
+
+[Level up to 65535]
+Type = Gameshark
+Activation = EndFrame
+8016403C FFFF
+
+[MAX Gellas]
+Type = Gameshark
+Activation = EndFrame
+9013DEF4 0098967F
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+90073C88 00000000
+
+[Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+8004A176 0000
+800A2C3E 0000
+
+[Maximum Experience]
+Type = Gameshark
+Activation = EndFrame
+800488F0 0000
+
+[Maximum Money]
+Type = Gameshark
+Activation = EndFrame
+80078FEC 0000
+
+[More Money]
+Type = Gameshark
+Activation = EndFrame
+8013DEF4 FFFF
+
+[HP all recovery After open the menu]
+Type = Gameshark
+Activation = EndFrame
+9005DAAC A6450004
+
+[MP full recovery After open the menu]
+Type = Gameshark
+Activation = EndFrame
+9005DAEC A6450008
+
+[The 99 possession of all items]
+Type = Gameshark
+Activation = EndFrame
+80047DA8 0001
+80047DDA A025
+90047DE4 24020063
+
+[The possession of all the goods]
+Type = Gameshark
+Activation = EndFrame
+3013DB87 0000
+8013DB88 0201
+3013DB8A 0003
+3013DBBB 0004
+8013DBBC 0605
+3013DBBE 0007
+3013DBEF 0008
+8013DBF0 0A09
+3013DBF2 000B
+
+[No random battles while pushing L2]
+Type = Gameshark
+Activation = EndFrame
+D00DCD78 0001
+300DC738 0000
+
+[No random battles]
+Type = Gameshark
+Activation = EndFrame
+300DC738 0000
+
+[Rudy all arms]
+Type = Gameshark
+Activation = EndFrame
+800479AA 24C2
+800479AE A022
+
+[Jack Master all shoot]
+Type = Gameshark
+Activation = EndFrame
+80047A26 24C2
+80047A2A A022
+
+[Cecilia learn all Magic]
+Type = Gameshark
+Activation = EndFrame
+80047A96 24C2
+80047A9A A022
+
+[Not reduce the remaining number of bullets of the arm]
+Type = Gameshark
+Activation = EndFrame
+800A2490 0000
+
+[You can do with free modification of the arm]
+Type = Gameshark
+Activation = EndFrame
+800B1ADA AC20
+800B1C9A 1000
+800B1D12 0040
+

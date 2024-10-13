@@ -1,0 +1,32 @@
+; CHTDB: ; [ Yoshimoto Mahjong Club Deluxe (Japan) {SLPS-01758} ]
+
+[Maximum money]
+Type = Gameshark
+Activation = EndFrame
+9002D39C 000F423F
+
+[Experience maximum value]
+Type = Gameshark
+Activation = EndFrame
+8002D398 03E7
+
+[Player has 99900 points]
+Type = Gameshark
+Activation = EndFrame
+800F86A8 03E7
+
+[Enemy 1 has 0 points]
+Type = Gameshark
+Activation = EndFrame
+800F86B0 0000
+
+[Enemy 2 has 0 points]
+Type = Gameshark
+Activation = EndFrame
+800F86B4 0000
+
+[Enemy 3 has 0 points]
+Type = Gameshark
+Activation = EndFrame
+800F86AC 0000
+

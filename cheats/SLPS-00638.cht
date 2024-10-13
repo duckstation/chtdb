@@ -1,0 +1,12 @@
+; CHTDB: ; [ Star Wars: Rebel Assault II: The Hidden Empire (Japan) {SLPS-00638 | SLPS-00639} ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800E621C 0003
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800C0EE8 1000
+

@@ -1,0 +1,11 @@
+; CHTDB: ; [ Psychic Force: Puzzle Taisen (Game Disc) (Japan) {SLPS-01018 | SLPS-01019} ]
+
+[All Gallery Unlocked]
+Type = Gameshark
+Activation = EndFrame
+900E3F34 FFFFFFFF
+900E3F38 FFFFFFFF
+900E3F3C FFFFFFFF
+900E3F40 FFFFFFFF
+800E3F44 FFFF
+

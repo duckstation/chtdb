@@ -1,0 +1,37 @@
+; CHTDB: ; [ The Firemen 2 - Pete & Danny (Jpn) (1995) (Human) {SLPS-00148} <firemen2> ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800ADDA2 003B
+
+[Pete\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800ADDD4 0002
+
+[Pete\Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800ADDCC 000C
+
+[Pete\Infinite Bombs]
+Type = Gameshark
+Activation = EndFrame
+800ADDD6 0002
+
+[Danny\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800ADE30 0002
+
+[Danny\Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800ADE28 000C
+
+[Danny\Infinite Bombs]
+Type = Gameshark
+Activation = EndFrame
+800ADE32 0002
+

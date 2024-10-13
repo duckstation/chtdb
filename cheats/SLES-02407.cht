@@ -1,0 +1,114 @@
+; CHTDB: ; [ Disney/Pixar Toy Story 2: Woody e Buzz alla riscossa! (Italy) {SLES-02407} ]
+
+[One disc == 99 discs]
+Type = Gameshark
+Activation = EndFrame
+800770AA 2400
+800770B2 2400
+
+[One hit kill bosses]
+Type = Gameshark
+Activation = EndFrame
+A60C3302 00140009
+A60C3302 001D0009
+A60C3302 00630009
+A60C339A 001D0009
+A60C3432 001D0009
+
+[One hit kill mini-bosses]
+Type = Gameshark
+Activation = EndFrame
+A60C37C2 00140009
+A60C37C2 001E0009
+A60C4272 000A0009
+A60C4142 001E0009
+A60C34CA 00140009
+A60C4AC2 001D0009
+A60C398A 001D0009
+A60C4602 001D0009
+A60C4E52 001D0009
+
+[Have 5 of 5 items to find]
+Type = Gameshark
+Activation = EndFrame
+300A1608 0005
+
+[Have 50 coins]
+Type = Gameshark
+Activation = EndFrame
+300B2636 0032
+
+[Have 9 lives]
+Type = Gameshark
+Activation = EndFrame
+300B2632 0009
+
+[All levels unlocked\All tokens taken]
+Type = Gameshark
+Activation = EndFrame
+900C1A00 1F801F1F
+900C1A04 1F1F801F
+900C1A08 801F1F80
+900C1A0C 00801F1F
+
+[Always have 99 discs]
+Type = Gameshark
+Activation = EndFrame
+300A19D4 0063
+
+[Always have piece of Mr. Potato]
+Type = Gameshark
+Activation = EndFrame
+300A17CB 00F0
+D00A17C8 0000
+300A17CB 0000
+
+[Buzz go through the enemies (invulnerable) Select to activate | Triangle + select to deactivate]
+Type = Gameshark
+Activation = EndFrame
+D00A41EA FFFE
+800B262E FFFF
+D00A41EA EFFE
+800B262E 000E
+
+[Green laser always full]
+Type = Gameshark
+Activation = EndFrame
+800A19F0 04B0
+
+[Instant turnaround]
+Type = Gameshark
+Activation = EndFrame
+9004B01C 3402003C
+
+[Instant yellow laser]
+Type = Gameshark
+Activation = EndFrame
+9004A8F8 34040040
+
+[Stop timer]
+Type = Gameshark
+Activation = EndFrame
+800D3CA0 0000
+
+[Moon Jump]
+Type = Gameshark
+Activation = EndFrame
+F4048000 00FF4000
+06000224 8C0002A6
+8E000286 00000000
+FFFFFFFF FFFFFFFF
+0030000C FFFFFFFF
+9000C000 27BDFFE8
+9000C004 AFA80010
+9000C008 3C08800A
+9000C00C 910841EB
+9000C014 00084027
+9000C018 31080040
+9000C01C 39080040
+9000C020 11000002
+9000C028 8602008E
+9000C030 8FA80010
+9000C034 27BD0018
+9000C038 03E00008
+

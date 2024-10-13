@@ -1,0 +1,29 @@
+; CHTDB: ; [ UEFA Euro 2000 (Europe) {SLES-02704} ]
+
+[Select Home Team Score\15 Goals]
+Type = Gameshark
+Activation = EndFrame
+8003C29C 000F
+
+[Select Home Team Score\No Goals]
+Type = Gameshark
+Activation = EndFrame
+8003C29C 0000
+
+[Select Away Team Score\15 Goals]
+Type = Gameshark
+Activation = EndFrame
+8003C2A0 000F
+
+[Select Away Team Score\No Goals]
+Type = Gameshark
+Activation = EndFrame
+8003C2A0 0000
+
+[Crazy Keepers]
+Type = Gameshark
+Activation = EndFrame
+80128F2C 007F
+801283D8 001D
+80129276 00C5
+

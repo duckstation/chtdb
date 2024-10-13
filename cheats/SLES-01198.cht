@@ -1,0 +1,25 @@
+; CHTDB: ; [ Alundra aka The Adventures of Alundra (France) {SLES-01198} ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+30127D44 0032
+30127D48 0032
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+801EB834 270F
+
+[Have 99 Gilded Falcons]
+Type = Gameshark
+Activation = EndFrame
+301EB83A 0063
+
+[Have Keys]
+Type = Gameshark
+Activation = EndFrame
+301EB934 0063
+301EB96C 0001
+301EB964 0001
+

@@ -1,0 +1,37 @@
+; CHTDB: ; [ Sidewinder (Jpn) (1996) (Asmik) {SLPS-00156} <sidewind> ]
+
+[Infinite Gun]
+Type = Gameshark
+Activation = EndFrame
+80074CF6 3165
+800AE3A2 03E7
+
+[Infinite Rocket]
+Type = Gameshark
+Activation = EndFrame
+800AC398 0020
+800AE39A 0010
+
+[Infinite Shield It is not valid if you hit the ground]
+Type = Gameshark
+Activation = EndFrame
+80074CA6 000A
+80139CAC 0A6E
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80082280 03E7
+
+[Infinite Bullet + missile]
+Type = Gameshark
+Activation = EndFrame
+50000402 0000
+800BC01C 03E7
+800BC026 03E7
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+801B9968 FFFF
+

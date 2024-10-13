@@ -1,0 +1,13 @@
+; CHTDB: ; [ Missland 2 (Japan) {SLPS-01715} ]
+
+[Infinite Time Press Select]
+Type = Gameshark
+Activation = EndFrame
+D0075100 0100
+80054CC0 4636
+
+[Infinite Life]
+Type = Gameshark
+Activation = EndFrame
+800547B2 0042
+

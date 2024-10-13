@@ -1,0 +1,12 @@
+; CHTDB: ; [ Air Hockey (USA) (2002) (Mud Duck Productions) {SLUS-01467} <airhckey> ]
+
+[Player score = 99]
+Type = Gameshark
+Activation = EndFrame
+8009CF00 0063
+
+[Opponent score = 0]
+Type = Gameshark
+Activation = EndFrame
+8009CF06 0000
+

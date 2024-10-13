@@ -1,0 +1,34 @@
+; CHTDB: ; [ Dai-4-Ji Super Robot Taisen S (Japan) Rev 1 {SLPS-91014} ]
+
+[MAX money]
+Type = Gameshark
+Activation = EndFrame
+901048C4 0098967F
+
+[Nine possession strengthening parts all types]
+Type = Gameshark
+Activation = EndFrame
+90104804 99999999
+90104808 99999999
+8010480C 0099
+
+[Select all demo fully open]
+Type = Gameshark
+Activation = EndFrame
+80104822 FFFF
+80104824 00FF
+
+[100% robot Encyclopedia May need a save]
+Type = Gameshark
+Activation = EndFrame
+901061CC FFFFFFFF
+901061D0 FFFFFFFF
+901061D4 FFFFFFFF
+901061D8 FFFFFFFF
+901061DC FFFFFFFF
+901061E0 FFFFFFFF
+901061E4 FFFFFFFF
+901061E8 FFFFFFFF
+901061EC FFFFFFFF
+801061F0 FFFF
+

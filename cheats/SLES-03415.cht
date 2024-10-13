@@ -1,0 +1,19 @@
+; CHTDB: ; [ Europe Racer (Europe) {SLES-03415} ]
+
+[Lots Of Euros ( $ )]
+Type = Gameshark
+Activation = EndFrame
+90033A40 054C5638
+
+[Reset Time - Time Trial Mode - Press L1]
+Type = Gameshark
+Activation = EndFrame
+D01FF41A FBFF
+80072510 0B6D
+
+[End Game Immediately - Press x & Up (.Wait till you're first only then press and hold X & Up for about 5 seconds until the word #race finished# appears on the screen)]
+Type = Gameshark
+Activation = EndFrame
+D01FF41A BFEF
+801C7A50 000A
+

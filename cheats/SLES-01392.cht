@@ -1,0 +1,52 @@
+; CHTDB: ; [ Colony Wars: Vengeance (Europe) {SLES-01392} ]
+
+[Anti Shield Laser]
+Type = Gameshark
+Activation = EndFrame
+8012E4DC 0000
+
+[Standard Laser]
+Type = Gameshark
+Activation = EndFrame
+8012E534 0000
+
+[Seismic Lance]
+Type = Gameshark
+Activation = EndFrame
+8012E58C 0000
+
+[Infinite Shields]
+Type = Gameshark
+Activation = EndFrame
+80045FB4 0063
+
+[Infinite Ships Hull]
+Type = Gameshark
+Activation = EndFrame
+80045FB8 0063
+
+[Infinite Plasma Missiles]
+Type = Gameshark
+Activation = EndFrame
+8012E648 0005
+
+[Infinite Anti Shield Missiles]
+Type = Gameshark
+Activation = EndFrame
+8012E5F0 0005
+
+[Infinite Afterburners]
+Type = Gameshark
+Activation = EndFrame
+8011A5A0 0000
+
+[Infinite Defence Pods]
+Type = Gameshark
+Activation = EndFrame
+8012E6A0 0005
+
+[Infinite Upgrade Tokens]
+Type = Gameshark
+Activation = EndFrame
+800C4D14 0001
+

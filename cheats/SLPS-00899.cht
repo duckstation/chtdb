@@ -1,0 +1,33 @@
+; CHTDB: ; [ Panzer Bandit (Jpn) (1997) (Banpresto) {SLPS-00899} <panzband> ]
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801DDDA0 00C0
+
+[P1 Full Power]
+Type = Gameshark
+Activation = EndFrame
+801DDDA8 00C0
+
+[P2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801DE3E8 00C0
+
+[P2 Full Power]
+Type = Gameshark
+Activation = EndFrame
+801DE3F0 00C0
+
+[All characters]
+Type = Gameshark
+Activation = EndFrame
+801FFF4C 000C
+
+[Secret character]
+Type = Gameshark
+Activation = EndFrame
+801FFF48 000C
+801FFF4C 000C
+

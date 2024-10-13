@@ -1,0 +1,48 @@
+; CHTDB: ; [ Star Wars - Demolition (USA) (2000) (LucasArts Entertainment Company) {SLUS-01183} <swdmltn> ]
+
+[Max Cash]
+Type = Gameshark
+Activation = EndFrame
+9006BAB0 000F423F
+
+[All Characters Unlocked]
+Type = Gameshark
+Activation = EndFrame
+50000402 0000
+800D8796 0101
+
+[Tamtel Skreej Unlocked]
+Type = Gameshark
+Activation = EndFrame
+300D8797 0001
+
+[Pugwis Unlocked]
+Type = Gameshark
+Activation = EndFrame
+300D8798 0001
+
+[Wittin Unlocked]
+Type = Gameshark
+Activation = EndFrame
+300D8799 0001
+
+[Malakiki Unlocked]
+Type = Gameshark
+Activation = EndFrame
+300D879A 0001
+
+[Lobot Unlocked]
+Type = Gameshark
+Activation = EndFrame
+300D879B 0001
+
+[Boushh Unlocked]
+Type = Gameshark
+Activation = EndFrame
+300D879C 0001
+
+[Darth Maul Unlocked]
+Type = Gameshark
+Activation = EndFrame
+300D879D 0001
+

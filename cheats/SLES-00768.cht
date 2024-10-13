@@ -1,0 +1,22 @@
+; CHTDB: ; [ OverBlood (Europe) {SLES-00768} ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800CFB18 0063
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A70EBE94 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A70EBE94 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A70EBE94 10000400
+

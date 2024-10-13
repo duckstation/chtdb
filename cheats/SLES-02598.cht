@@ -1,0 +1,71 @@
+; CHTDB: ; [ Street Fighter EX2 Plus (Europe) {SLES-02598} ]
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+301EA024 00C8
+
+[P2 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+301EB8A0 00C8
+
+[P2 No health]
+Type = Gameshark
+Activation = EndFrame
+301EB8A0 0000
+
+[Start On Last Stage]
+Type = Gameshark
+Activation = EndFrame
+A61E6F2E 00000006
+
+[Everything unlocked]
+Type = Gameshark
+Activation = EndFrame
+801F57B6 FFFF
+801F57B8 FFFF
+
+[Barrel-Codes\Increase Time .Press L1 & R1 & Start]
+Type = Gameshark
+Activation = EndFrame
+D01EF3E2 F3F7
+801F38D0 1C20
+
+[Barrel-Codes\Decrease Time .Press L2 & R2 & Start]
+Type = Gameshark
+Activation = EndFrame
+D01EF3E2 FCF7
+801F38D0 003C
+
+[Barrel-Codes\No Barrels Missed]
+Type = Gameshark
+Activation = EndFrame
+D01EF360 0103
+301EF361 0000
+
+[Barrel-Codes\Max Barrels]
+Type = Gameshark
+Activation = EndFrame
+301EF366 00FF
+
+[Barrel-Codes\99 Combo]
+Type = Gameshark
+Activation = EndFrame
+301EF367 0063
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A71F7C90 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A71F7C90 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A71F7C90 10000400
+

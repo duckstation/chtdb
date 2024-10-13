@@ -1,0 +1,13 @@
+; CHTDB: ; [ Stakes Winner 2: Saikyouba Densetsu (Japan) {SLPS-00850} ]
+
+[Full Life Bar]
+Type = Gameshark
+Activation = EndFrame
+800DDE5A F103
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+800E50A8 423F
+800E50A6 000F
+

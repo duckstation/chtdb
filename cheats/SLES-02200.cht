@@ -1,0 +1,27 @@
+; CHTDB: ; [ Championship Motocross featuring Ricky Carmichael (Europe) {SLES-02200} ]
+
+[Unlock all classes]
+Type = Gameshark
+Activation = EndFrame
+800873E0 000F
+
+[Unlock all tracks]
+Type = Gameshark
+Activation = EndFrame
+800873E4 0FFF
+
+[Unlock Mirror Mode]
+Type = Gameshark
+Activation = EndFrame
+800873E8 0001
+
+[Unlock View Fox Movie]
+Type = Gameshark
+Activation = EndFrame
+800873F4 0001
+
+[Big Head Mode]
+Type = Gameshark
+Activation = EndFrame
+800873AC 0001
+

@@ -1,0 +1,75 @@
+; CHTDB: ; [ Heroine Dream (Japan) (Shokai Genteiban) {SLPS-00470} ]
+
+[All Stat at Max 999 Main Character]
+Type = Gameshark
+Activation = EndFrame
+800DC986 03E7
+900DC988 03E703E7
+900DC98C 03E703E7
+900DC990 03E703E7
+800DC994 03E7
+800DC984 0000
+800DC996 03E7
+
+[Kagura Himeko All Stats at Max]
+Type = Gameshark
+Activation = EndFrame
+900DC94C 03E70000
+900DC950 03E703E7
+900DC954 03E703E7
+900DC958 03E703E7
+800DC95C 03E7
+
+[Nemu All Stat at Max 999]
+Type = Gameshark
+Activation = EndFrame
+800E992E 03E7
+900E9930 03E703E7
+900E9934 03E703E7
+900E9938 03E703E7
+800E993C 03E7
+
+[Miwa Li All Stats at Max 999]
+Type = Gameshark
+Activation = EndFrame
+800E5D96 03E7
+900E5D98 03E703E7
+900E5D9C 03E703E7
+900E5DA0 03E703E7
+800E5DA4 03E7
+
+[MAX relationship with Mogi static]
+Type = Gameshark
+Activation = EndFrame
+800DC99C 0064
+
+[MAX relationship with Nemu]
+Type = Gameshark
+Activation = EndFrame
+800DC99E 0064
+
+[Relationship MAX source of dance Yuki]
+Type = Gameshark
+Activation = EndFrame
+800DC9A0 0064
+
+[MAX relationship with Miwa Li]
+Type = Gameshark
+Activation = EndFrame
+800DC9A2 0064
+
+[MAX relationship with Kagura Himeko]
+Type = Gameshark
+Activation = EndFrame
+800DC9A4 0064
+
+[Specialist recruitment command appearance]
+Type = Gameshark
+Activation = EndFrame
+30094814 001F
+
+[The number of UFO catcher]
+Type = Gameshark
+Activation = EndFrame
+301FFF3E 0003
+

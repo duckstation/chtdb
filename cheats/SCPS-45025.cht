@@ -1,0 +1,82 @@
+; CHTDB: ; [ Tobal 2 (Japan, Asia) {SCPS-45025} ]
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80123E70 0100
+
+[P1 Infinity Hp]
+Type = Gameshark
+Activation = EndFrame
+80123E70 0100
+80124A80 0100
+
+[Hungry Indicator]
+Type = Gameshark
+Activation = EndFrame
+80125760 01FF
+
+[All Part--Lv99]
+Type = Gameshark
+Activation = EndFrame
+901256D4 63636363
+901256D8 63636363
+901256DC 63636363
+
+[Infinity Catch Stone]
+Type = Gameshark
+Activation = EndFrame
+800F5552 EEEE
+
+[P2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801260B4 0100
+
+[P2No Energy]
+Type = Gameshark
+Activation = EndFrame
+801260B4 0000
+
+[Have All Boss Characters]
+Type = Gameshark
+Activation = EndFrame
+801282E8 FFFF
+
+[Have All Quest Mode Enemies]
+Type = Gameshark
+Activation = EndFrame
+90100D60 FFFFFFFF
+90100D64 FFFFFFFF
+90100D68 FFFFFFFF
+90100D6C FFFFFFFF
+90100D70 FFFFFFFF
+90100D74 FFFFFFFF
+90100D78 FFFFFFFF
+90100D7C FFFFFFFF
+90100D80 FFFFFFFF
+90100D84 FFFFFFFF
+90100D88 FFFFFFFF
+80100D8C FFFF
+80100D6E 0003
+
+[Infinite Stamina (Quest Mode)]
+Type = Gameshark
+Activation = EndFrame
+80125760 018E
+
+[Stop Timer (Quest Mode)]
+Type = Gameshark
+Activation = EndFrame
+800F8BD8 0000
+
+[Invincibility (Quest Mode)]
+Type = Gameshark
+Activation = EndFrame
+8012576C 0100
+
+[Max Money (Quest Mode)]
+Type = Gameshark
+Activation = EndFrame
+9012575C 0001869F
+

@@ -1,0 +1,59 @@
+; CHTDB: ; [ Bounty Sword: Double Edge (Japan) {SLPS-01479} ]
+
+[Infinite HP And Sp For Main Character]
+Type = Gameshark
+Activation = EndFrame
+800D74EA 0063
+800D74EC 0063
+
+[Max Status For Main Character]
+Type = Gameshark
+Activation = EndFrame
+900D74F0 00FF00FF
+900D74F4 00FF00FF
+800D74F8 1414
+
+[Infinite HP And Sp For 2nd Character]
+Type = Gameshark
+Activation = EndFrame
+800D76B6 0063
+800D76B8 0063
+
+[Max Status For 2nd Character]
+Type = Gameshark
+Activation = EndFrame
+900D76BC 00FF00FF
+900D76C0 00FF00FF
+800D76C4 1414
+
+[Infinite HP And Sp For 3rd Character]
+Type = Gameshark
+Activation = EndFrame
+800D7882 0063
+800D7884 0063
+
+[Max Status For 3rd Character]
+Type = Gameshark
+Activation = EndFrame
+900D7888 00FF00FF
+900D788C 00FF00FF
+800D7890 1414
+
+[Infinite HP And Sp For 4th Character]
+Type = Gameshark
+Activation = EndFrame
+800D7A48 0063
+800D7A50 0063
+
+[Max Status For 4th Character]
+Type = Gameshark
+Activation = EndFrame
+900D7A54 00FF00FF
+900D7A58 00FF00FF
+800D7A5C 1414
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+800BD26C FFFF
+

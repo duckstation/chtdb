@@ -1,0 +1,62 @@
+; CHTDB: ; [ Ginga Eiyuu Densetsu (Jpn) (1998) (Tokuma Shoten) {SLPS-01358} <gingaed> ]
+
+[Infinite Money 999999 Empire Ally Common)]
+Type = Gameshark
+Activation = EndFrame
+900A1958 000F423F
+
+[Infinite Money 999999 Empire Ally Common]
+Type = Gameshark
+Activation = EndFrame
+900A195C 000F423F
+
+[Infinite HP ship on battle (9999)]
+Type = Gameshark
+Activation = EndFrame
+800DA97E 270F
+
+[Total fleet number 20000]
+Type = Gameshark
+Activation = EndFrame
+801046C4 4E20
+
+[Fleet number 20000 currently]
+Type = Gameshark
+Activation = EndFrame
+801046C6 4E20
+
+[Fatigue 0]
+Type = Gameshark
+Activation = EndFrame
+301046FC 0064
+
+[Operations 120]
+Type = Gameshark
+Activation = EndFrame
+301046FF 0078
+
+[Attack 120]
+Type = Gameshark
+Activation = EndFrame
+30104701 0078
+
+[Defense 120]
+Type = Gameshark
+Activation = EndFrame
+30104702 0078
+
+[Mobile 120]
+Type = Gameshark
+Activation = EndFrame
+30104703 0078
+
+[Occupation 120]
+Type = Gameshark
+Activation = EndFrame
+30104704 0078
+
+[60 days of supply]
+Type = Gameshark
+Activation = EndFrame
+30104706 003A
+

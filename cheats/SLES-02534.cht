@@ -1,0 +1,79 @@
+; CHTDB: ; [ Vanishing Point (Euro) (2001) (Acclaim Entertainment) {SLES-02534} <vanishpte> ]
+
+[Always 1st]
+Type = Gameshark
+Activation = EndFrame
+80010CC8 0000
+
+[Always Have 100 Points]
+Type = Gameshark
+Activation = EndFrame
+80010CC6 0000
+
+[Stage Time 00.00.00 / Always First]
+Type = Gameshark
+Activation = EndFrame
+3002BDC6 0000
+
+[Unlock All Cars]
+Type = Gameshark
+Activation = EndFrame
+50000202 0000
+8003CE94 FFFF
+
+[Unock All Stages]
+Type = Gameshark
+Activation = EndFrame
+50000402 0000
+8003CEA0 FFFF
+
+[Unlock Tune Up Shop]
+Type = Gameshark
+Activation = EndFrame
+8003CEAC FFFF
+
+[Unlock Series-Option]
+Type = Gameshark
+Activation = EndFrame
+3003CEAA 0001
+
+[Unlock Aggressive Traffic]
+Type = Gameshark
+Activation = EndFrame
+3003CEAA 0002
+
+[Unlock Both]
+Type = Gameshark
+Activation = EndFrame
+3003CEAA 0003
+
+[Unlock All Intros, Fmvs & Dias]
+Type = Gameshark
+Activation = EndFrame
+8003CEAE 3FFF
+
+[Unlock Cwg-Rally]
+Type = Gameshark
+Activation = EndFrame
+3003CDA0 0001
+
+[Stunt driver All Events Time 0'00'00]
+Type = Gameshark
+Activation = EndFrame
+50000F04 0000
+8003FE30 0000
+
+[Stunt driver All Events Have 100 Points]
+Type = Gameshark
+Activation = EndFrame
+50000F04 0000
+8003FE32 6400
+
+[Stunt driver Always get 100 points (even when failed)]
+Type = Gameshark
+Activation = EndFrame
+D0094634 1021
+80094638 0064
+D0094634 1021
+8009463A 3403
+

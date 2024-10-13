@@ -1,0 +1,77 @@
+; CHTDB: ; [ Psychic Force (Europe) {SLES-00629} ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800D6A10 0063
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80101F9C 03E8
+
+[P2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801020E0 03E8
+
+[P1 Infinite Psv]
+Type = Gameshark
+Activation = EndFrame
+80101F9E 0190
+
+[P1 No Psv]
+Type = Gameshark
+Activation = EndFrame
+80101F9E 0000
+
+[P2 Infinite Psv]
+Type = Gameshark
+Activation = EndFrame
+801020E2 0190
+
+[P2 No Psv]
+Type = Gameshark
+Activation = EndFrame
+801020E2 0000
+
+[P1 Never Wins]
+Type = Gameshark
+Activation = EndFrame
+80101FB6 0001
+
+[P2 Never Wins]
+Type = Gameshark
+Activation = EndFrame
+801020FA 0001
+
+[P1 1 Hit Death]
+Type = Gameshark
+Activation = EndFrame
+A6101F9C 03E80001
+
+[P2 1 Hit Death]
+Type = Gameshark
+Activation = EndFrame
+A61020E0 03E80001
+
+[Infinite Time To Select Character]
+Type = Gameshark
+Activation = EndFrame
+8011F484 0320
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A71CE78C 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A71CE78C 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A71CE78C 10000400
+

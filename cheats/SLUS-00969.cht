@@ -1,0 +1,159 @@
+; CHTDB: ; [ Demolition Racer (USA) (1999) (Infogrames) {SLUS-00969} <demracer> ]
+
+[P1 Infinite Damage]
+Type = Gameshark
+Activation = EndFrame
+80066E54 0000
+
+[Enable Redneck Raceway Track]
+Type = Gameshark
+Activation = EndFrame
+300596CD 0000
+
+[Enable Lyon Stadium Track]
+Type = Gameshark
+Activation = EndFrame
+300596D2 0000
+
+[Enable Meltdown Track]
+Type = Gameshark
+Activation = EndFrame
+300596D3 0000
+
+[Enable Hunters Quarry Track]
+Type = Gameshark
+Activation = EndFrame
+300596D5 0000
+
+[Enable Chemical Plant Track]
+Type = Gameshark
+Activation = EndFrame
+300596D7 0000
+
+[Enable Scrap Heap Track]
+Type = Gameshark
+Activation = EndFrame
+300596D8 0000
+
+[Enable Go Cart Carnage Track]
+Type = Gameshark
+Activation = EndFrame
+300596D9 0000
+
+[Enable Pelton Stadium Track]
+Type = Gameshark
+Activation = EndFrame
+300596DA 0000
+
+[Enable Reverse Tracks]
+Type = Gameshark
+Activation = EndFrame
+300596DC 0000
+
+[Enable Predator Car]
+Type = Gameshark
+Activation = EndFrame
+300596EF 0000
+
+[Enable Renegade Car]
+Type = Gameshark
+Activation = EndFrame
+300596F0 0000
+
+[Enable Mantis Car]
+Type = Gameshark
+Activation = EndFrame
+300596F1 0000
+
+[Enable Widowmaker Car]
+Type = Gameshark
+Activation = EndFrame
+300596F2 0000
+
+[Enable Vandal Car]
+Type = Gameshark
+Activation = EndFrame
+300596F3 0000
+
+[Enable Chase Mode]
+Type = Gameshark
+Activation = EndFrame
+300596F5 0000
+
+[Enable Chicken Mode]
+Type = Gameshark
+Activation = EndFrame
+300596F6 0000
+
+[Enable Suicide Mode]
+Type = Gameshark
+Activation = EndFrame
+300596F8 0000
+
+[Enable Semi Pro League]
+Type = Gameshark
+Activation = EndFrame
+30064B30 0000
+
+[Enable Pro League League]
+Type = Gameshark
+Activation = EndFrame
+30064B34 0000
+
+[Enable Endurance League]
+Type = Gameshark
+Activation = EndFrame
+30064B38 0000
+
+[Select car even if it's locked]
+Type = Gameshark
+Activation = EndFrame
+A7095A5E 10502400
+A70959DE 10502400
+
+[Select any circuit even if it's locked]
+Type = Gameshark
+Activation = EndFrame
+A709501E 10502400
+
+[Select any game mode even if it's locked]
+Type = Gameshark
+Activation = EndFrame
+A7096F32 10502400
+
+[Infinite Laps V1 (Has lap counter active, randomly cycles after round 9)]
+Type = Gameshark
+Activation = EndFrame
+A701717E 10402400
+
+[Infinite Laps V2 (Freezes lap counter)]
+Type = Gameshark
+Activation = EndFrame
+A7016FFA 86302400
+
+[Infinite Laps + CPU controlling P1]
+Type = Gameshark
+Activation = EndFrame
+A70B7C32 10402400
+A7016FFA 86302400
+
+[CPU controls P1]
+Type = Gameshark
+Activation = EndFrame
+A70B7C32 10402400
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A7065168 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A7065168 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A7065168 10000400
+

@@ -1,0 +1,174 @@
+; CHTDB: ; [ R/C Stunt Copter (Germany) {SLES-02140} ]
+
+[Unendlich Zeit im Training]
+Type = Gameshark
+Activation = EndFrame
+8009F144 22B7
+
+[Alle Trainingsübungen bestanden]
+Type = Gameshark
+Activation = EndFrame
+50000A02 0000
+800C3BAC FFFF
+
+[Einzelspielermodus und alle Hubschrauber freigeschaltet]
+Type = Gameshark
+Activation = EndFrame
+50000502 0000
+800C3B94 0303
+
+[Amateur Unendlich Treibstoff Schweben 1]
+Type = Gameshark
+Activation = EndFrame
+D217CB7E 0100
+8017CB7E 0100
+
+[Amateur Unendlich Treibstoff Landung 1]
+Type = Gameshark
+Activation = EndFrame
+D217FDA2 0100
+8017FDA2 0100
+
+[Amateur Unendlich Treibstoff Schiessen 1]
+Type = Gameshark
+Activation = EndFrame
+D217EEEA 0100
+8017EEEA 0100
+
+[Niedrige Rundenzeit]
+Type = Gameshark
+Activation = EndFrame
+E117D480 0000
+3017D480 0001
+
+[Zeit verlängert Drücke Select]
+Type = Gameshark
+Activation = EndFrame
+D00BA74A FFFE
+801800E0 1264
+
+[Unendlich Treibstoff Ziel 1]
+Type = Gameshark
+Activation = EndFrame
+D2180C26 0100
+80180C26 0100
+
+[Unendlich Treibstoff Schweben 2]
+Type = Gameshark
+Activation = EndFrame
+D217CB32 0100
+8017CB32 0100
+
+[Unendlich Treibstoff Landung 2]
+Type = Gameshark
+Activation = EndFrame
+D218125A 0100
+8018125A 0100
+
+[Zeit verlängert Slalom 2 Drücke Select+Links]
+Type = Gameshark
+Activation = EndFrame
+D00BA74A FF7E
+8018012C 1264
+
+[Unendlich Treibstoff Ziel 2]
+Type = Gameshark
+Activation = EndFrame
+D2183396 0100
+80183396 0100
+
+[Unendlich Treibstoff Schweben 3]
+Type = Gameshark
+Activation = EndFrame
+D21869F2 0100
+801869F2 0100
+
+[Unendlich Treibstoff Landung 3]
+Type = Gameshark
+Activation = EndFrame
+D21820CA 0100
+801820CA 0100
+
+[Unendlich Treibstoff Slalom 3]
+Type = Gameshark
+Activation = EndFrame
+D217D8E6 0100
+8017D8E6 0100
+
+[Zeit verlängert Schiessen 3 Drücke Select+Rechts]
+Type = Gameshark
+Activation = EndFrame
+D00BA74A FFCE
+80190D1C 1264
+
+[Unendlich Treibstoff Ziel 3]
+Type = Gameshark
+Activation = EndFrame
+D218337E 0100
+8018337E 0100
+
+[Unendlich Treibstoff Schweben 4]
+Type = Gameshark
+Activation = EndFrame
+D2186E9E 0100
+80186E9E 0100
+
+[Unendlich Treibstoff Landung 4]
+Type = Gameshark
+Activation = EndFrame
+D2183FEA 0100
+80183FEA 0100
+
+[Unendlich Treibstoff Slalom 4]
+Type = Gameshark
+Activation = EndFrame
+D217EBE2 0100
+8017EBE2 0100
+
+[Zeit verlängert Schiessen 4 Drücke Select+Unten]
+Type = Gameshark
+Activation = EndFrame
+D00BA74A FFBE
+8017ECC0 1264
+
+[Unendlich Treibstoff Ziel 4]
+Type = Gameshark
+Activation = EndFrame
+D2182462 0100
+80182462 0100
+
+[Unendlich Treibstoff Schweben 5]
+Type = Gameshark
+Activation = EndFrame
+D217C4AA 0100
+8017C4AA 0100
+
+[Unendlich Treibstoff Landung 5]
+Type = Gameshark
+Activation = EndFrame
+D217CC0E 0100
+8017CC0E 0100
+
+[Unendlich Treibstoff Slalom 5]
+Type = Gameshark
+Activation = EndFrame
+D217EC2E 0100
+8017EC2E 0100
+
+[Unendlich Treibstoff Schiessen 3]
+Type = Gameshark
+Activation = EndFrame
+A61835B2 01000100
+
+[Unendlich Treibstoff Ziel 5]
+Type = Gameshark
+Activation = EndFrame
+D2184D3A 0100
+80184D3A 0100
+
+[Unendlich Treibstoff Bonus-Level]
+Type = Gameshark
+Activation = EndFrame
+D219CA36 0100
+8019CA36 0100
+

@@ -1,0 +1,123 @@
+; CHTDB: ; [ Colin McRae Rally (Europe) {SLES-00477} ]
+
+[Freeze Race Timer]
+Type = Gameshark
+Activation = EndFrame
+A60C607E 000F000A
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800C5FD8 003C
+
+[Always Pass The Rally School]
+Type = Gameshark
+Activation = EndFrame
+80010358 FFFF
+
+[All Tracks & Cars In Expert Mode]
+Type = Gameshark
+Activation = EndFrame
+80010098 FFFF
+
+[To End Race And Always Be In First Place (.This cheat reqiures that you press the R1 button by itself once during each race. This will make the game believe that the race is finished. When you decide to end the race is up to you. If you want to drive through most of the course you can or you can finish as youstart.)]
+Type = Gameshark
+Activation = EndFrame
+9007BDF0 00000000
+D00CE0E4 0800
+800C6C38 02F0
+
+[Infinite Time In Setup At Rally School]
+Type = Gameshark
+Activation = EndFrame
+800CF160 003C
+
+[Stop Timer In Rally School]
+Type = Gameshark
+Activation = EndFrame
+800CF206 0001
+
+[Select Difficulty\Novice]
+Type = Gameshark
+Activation = EndFrame
+801E5534 0000
+
+[Select Difficulty\Intermediate]
+Type = Gameshark
+Activation = EndFrame
+801E5534 0001
+
+[Select Difficulty\Expert]
+Type = Gameshark
+Activation = EndFrame
+801E5534 0002
+
+[Press R1 + x For Nitrous Boost]
+Type = Gameshark
+Activation = EndFrame
+E00CE0E5 0048
+800D537A 000C
+E00CE0E5 0048
+800D537E 000C
+E00CE0E5 0048
+800D5382 000C
+E00CE0E5 0048
+800D5386 000C
+E00CE0E5 0048
+800DB912 000C
+E00CE0E5 0048
+800DB916 000C
+E00CE0E5 0048
+800DB91A 000C
+E00CE0E5 0048
+800DB91E 000C
+E00CE0E5 0048
+800D54D6 0006
+
+[Elektricity]
+Type = Gameshark
+Activation = EndFrame
+300101D2 0000
+300101D4 0064
+
+[Behaviour]
+Type = Gameshark
+Activation = EndFrame
+300101D5 0000
+300101D7 0064
+
+[Brakes]
+Type = Gameshark
+Activation = EndFrame
+300101D8 0000
+300101DA 0064
+
+[Engine]
+Type = Gameshark
+Activation = EndFrame
+300101DB 0000
+300101DD 0064
+
+[Gearbox]
+Type = Gameshark
+Activation = EndFrame
+300101DE 0000
+300101E0 0064
+
+[Championship qualification]
+Type = Gameshark
+Activation = EndFrame
+300C6C18 0001
+
+[Infinite Repair- & Setup-Time]
+Type = Gameshark
+Activation = EndFrame
+800C5D0C 003C
+800C5C98 003C
+
+[Infinite Time In Time Trial Mode]
+Type = Gameshark
+Activation = EndFrame
+800C5D3C 0000
+800C6900 0000
+

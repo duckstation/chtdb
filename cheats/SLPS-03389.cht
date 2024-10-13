@@ -1,0 +1,29 @@
+; CHTDB: ; [ Zoids 2 - Helic Kyouwakoku vs Guylos Teikoku (Jpn) (2002) (Tomy) {SLPS-03389} <zoids2> ]
+
+[Infinite HP Main character Mission 1]
+Type = Gameshark
+Activation = EndFrame
+801F0232 270F
+801F0234 270F
+
+[Infinite HP Main character Mission 2]
+Type = Gameshark
+Activation = EndFrame
+901F037C 270F270F
+
+[Infinite HP Main character Mission 3]
+Type = Gameshark
+Activation = EndFrame
+801F067E 270F
+801F0680 270F
+
+[Infinite EP Main Character Mission 2]
+Type = Gameshark
+Activation = EndFrame
+801F0308 00F0
+
+[Have lots of money]
+Type = Gameshark
+Activation = EndFrame
+901EE988 0001869F
+

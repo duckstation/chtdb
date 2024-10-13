@@ -1,0 +1,40 @@
+; CHTDB: ; [ NBA Shoot Out '97 (USA) (1997) (Sony Computer Entertainment America) {SCUS-94552} <nbaso97> ]
+
+[Select Home Team Score\100]
+Type = Gameshark
+Activation = EndFrame
+800B3E38 0064
+
+[Select Home Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+800B3E38 0000
+
+[Select Away Team Score\100]
+Type = Gameshark
+Activation = EndFrame
+800B3E3C 0064
+
+[Select Away Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+800B3E3C 0000
+
+[Home Team Infinite Turbo]
+Type = Gameshark
+Activation = EndFrame
+8010DE3A 0006
+8010DE72 0006
+8010DEAA 0006
+8010DEE2 0006
+8010DE1A 0006
+
+[Away Team Infinite Turbo]
+Type = Gameshark
+Activation = EndFrame
+8010DF52 0006
+8010DF8A 0006
+8010DFC2 0006
+8010DFFA 0006
+8010E032 0006
+

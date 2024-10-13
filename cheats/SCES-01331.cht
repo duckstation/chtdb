@@ -1,0 +1,16 @@
+; CHTDB: ; [ Tombi! (Europe) {SCES-01331} ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8009C488 0005
+900A5BF8 00050005
+900B0F88 00050005
+800B0F8C 0005
+801FE264 0005
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8009C498 000A
+

@@ -1,0 +1,34 @@
+; CHTDB: ; [ Spider-Man 2: Enter: Electro (Europe, Australia) Rev 1 {SLES-03623} ]
+
+[Infinite Health Level 2]
+Type = Gameshark
+Activation = EndFrame
+801DBA02 00C8
+
+[Bomb Timer Frozen]
+Type = Gameshark
+Activation = EndFrame
+800C28A8 1AE0
+
+[Invulnerable]
+Type = Gameshark
+Activation = EndFrame
+A7052FBE A6222400
+
+[Infinite Web]
+Type = Gameshark
+Activation = EndFrame
+A70506FA AE032400
+
+[All Levels]
+Type = Gameshark
+Activation = EndFrame
+50000C02 0101
+800B33D6 0001
+
+[All Extras]
+Type = Gameshark
+Activation = EndFrame
+50000F02 0000
+800B33F6 FFFF
+

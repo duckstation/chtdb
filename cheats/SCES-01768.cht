@@ -1,0 +1,42 @@
+; CHTDB: ; [ Destrega (Europe) {SCES-01768} ]
+
+[P1 Select Health\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800C923C 00C8
+
+[P1 Select Health\No Health (P2 Instant Win)]
+Type = Gameshark
+Activation = EndFrame
+800C923C 0000
+
+[P2 Select Health\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800C9414 00C8
+
+[P1 Select Health\No Health (P1 Instant Win)]
+Type = Gameshark
+Activation = EndFrame
+800C9414 0000
+
+[P1 Select Special Powers\Infinite Special Powers]
+Type = Gameshark
+Activation = EndFrame
+800C923E 0708
+
+[P1 Select Special Powers\No Special Powers]
+Type = Gameshark
+Activation = EndFrame
+800C923E 0000
+
+[P2 Select Special Powers\Infinite Special Powers]
+Type = Gameshark
+Activation = EndFrame
+800C9416 0708
+
+[P2 Select Special Powers\No Special Powers]
+Type = Gameshark
+Activation = EndFrame
+800C9416 0000
+

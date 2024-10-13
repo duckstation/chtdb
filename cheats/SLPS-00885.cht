@@ -1,0 +1,17 @@
+; CHTDB: ; [ Stressless Lesson: Les Les (Japan) {SLPS-00885} ]
+
+[Player has always 6 attack hearts]
+Type = Gameshark
+Activation = EndFrame
+800B8900 0006
+
+[Opponent has always 0 attack hearts]
+Type = Gameshark
+Activation = EndFrame
+800B8902 0000
+
+[Opponent has always 0 points]
+Type = Gameshark
+Activation = EndFrame
+800B87D4 0000
+

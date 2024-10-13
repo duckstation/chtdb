@@ -1,0 +1,72 @@
+; CHTDB: ; [ Rapid Racer (Europe) {SCES-00394} ]
+
+[P1 Infinite Turbos]
+Type = Gameshark
+Activation = EndFrame
+800F64F8 0003
+800F64EE 0005
+
+[P1 No Damage]
+Type = Gameshark
+Activation = EndFrame
+800F64E4 0000
+
+[Night & Mirror Mode Open]
+Type = Gameshark
+Activation = EndFrame
+300E05DB 0003
+
+[Unlock All Boats - EASY]
+Type = Gameshark
+Activation = EndFrame
+50000402 0000
+800E0628 0101
+
+[Unlock All Boats - HARD]
+Type = Gameshark
+Activation = EndFrame
+50000402 0000
+800E084C 0101
+
+[Unlock All Boats - MEDIUM]
+Type = Gameshark
+Activation = EndFrame
+50000402 0000
+800E073A 0101
+
+[Unlock All Day Tracks - EASY]
+Type = Gameshark
+Activation = EndFrame
+50000202 0000
+800E0610 0606
+
+[Unlock All Day Tracks - HARD]
+Type = Gameshark
+Activation = EndFrame
+50000302 0000
+800E0832 0606
+
+[Unlock All Day Tracks - MEDIUM]
+Type = Gameshark
+Activation = EndFrame
+50000302 0000
+800E0720 0606
+
+[Unlock All Night Tracks - EASY]
+Type = Gameshark
+Activation = EndFrame
+50000302 0000
+800E0614 0606
+
+[Unlock All Night Tracks - HARD]
+Type = Gameshark
+Activation = EndFrame
+50000302 0000
+800E0838 0606
+
+[Unlock All Night Tracks - MEDIUM]
+Type = Gameshark
+Activation = EndFrame
+50000302 0000
+800E0726 0606
+

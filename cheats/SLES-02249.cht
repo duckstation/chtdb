@@ -1,0 +1,32 @@
+; CHTDB: ; [ Dune 2000 (Germany) {SLES-02249} ]
+
+[Unendlich Spice]
+Type = Gameshark
+Activation = EndFrame
+800E090E 0098
+
+[GebäUde Bauen Kostet Nichts]
+Type = Gameshark
+Activation = EndFrame
+800E0622 5A00
+
+[Sofortiges Bauen Von GebäUden]
+Type = Gameshark
+Activation = EndFrame
+800E061C FFFF
+
+[Einheiten Bauen Kostet Nichts]
+Type = Gameshark
+Activation = EndFrame
+800E062C FFFF
+
+[Sofortiges Bauen Von Einheiten]
+Type = Gameshark
+Activation = EndFrame
+800E0632 5A00
+
+[Sofortiges AufrüSten]
+Type = Gameshark
+Activation = EndFrame
+800E06D2 59FF
+

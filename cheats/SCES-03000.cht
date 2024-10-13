@@ -1,0 +1,17 @@
+; CHTDB: ; [ Disney's Aladdin in Nasira's Revenge (Europe) {SCES-03000} ]
+
+[999 Tokens]
+Type = Gameshark
+Activation = EndFrame
+8007D9D0 03E8
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80085A32 0008
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80085A2C 9000
+

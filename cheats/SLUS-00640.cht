@@ -1,0 +1,36 @@
+; CHTDB: ; [ RPG Maker (USA) (2000) (Agetec) {SLUS-00640} <rpgmaker> ]
+
+[Goblis Adventure\Infinite HP (All Characters)]
+Type = Gameshark
+Activation = EndFrame
+9012A46C 0230082B
+9012A474 14200014
+D0128578 0022
+8012857A 2400
+
+[Goblis Adventure\Infinite MP (All Characters)]
+Type = Gameshark
+Activation = EndFrame
+8011E4C4 FFE8
+8011E4C8 0004
+
+[Goblis Adventure\Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+901E84B4 05F5E0FF
+
+[Goblis Adventure\Infinite Red Berries]
+Type = Gameshark
+Activation = EndFrame
+301E8317 0063
+
+[Goblis Adventure\Infinite Blue Berry]
+Type = Gameshark
+Activation = EndFrame
+301E8318 0063
+
+[Goblis Adventure\Infinite Forest Herb]
+Type = Gameshark
+Activation = EndFrame
+301E831B 0063
+

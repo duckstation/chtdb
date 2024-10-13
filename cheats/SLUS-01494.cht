@@ -1,0 +1,29 @@
+; CHTDB: ; [ Pinobee (USA) (2003) (Hudson Soft Company) {SLUS-01494} <pinobee> ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+8004A68A 2400
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8004DE4E 2400
+
+[Invincibility]
+Description = Spikes may make you flicker the 1st time you hit them on each level
+Type = Gameshark
+Activation = EndFrame
+A704DCC2 10401000
+A70672AA 14401000
+
+[Quick Ending]
+Type = Gameshark
+Activation = EndFrame
+801E689A 001B
+
+[Low Times]
+Type = Gameshark
+Activation = EndFrame
+800FB100 0001
+

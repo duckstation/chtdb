@@ -1,0 +1,49 @@
+; CHTDB: ; [ Yusha: Heaven's Gate (Europe) {SLES-00713} ]
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801053EE 00FA
+
+[P2 Infinite Sol Power Gauge]
+Type = Gameshark
+Activation = EndFrame
+80107A98 00FA
+
+[P2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801083FE 00FA
+
+[Freeze Total Time]
+Type = Gameshark
+Activation = EndFrame
+801053EE 00FA
+
+[P1 Infinite Sol Power Gauge]
+Type = Gameshark
+Activation = EndFrame
+801053F0 00FA
+
+[Unlock All Characters]
+Type = Gameshark
+Activation = EndFrame
+300F7EF8 0001
+800F7F00 0101
+800F7F08 0101
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A711B148 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A711B148 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A711B148 10000400
+

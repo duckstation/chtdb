@@ -1,0 +1,17 @@
+; CHTDB: ; [ Return Fire (Europe) {SLES-00177} ]
+
+[Infinite Fuel]
+Type = Gameshark
+Activation = EndFrame
+800F1E8E 0019
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+800F1EAA 0028
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80082196 0016
+

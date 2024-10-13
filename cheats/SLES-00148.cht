@@ -1,0 +1,137 @@
+; CHTDB: ; [ Defcon 5 (Germany) {SLES-00148} ]
+
+[Unendlich Munition]
+Type = Gameshark
+Activation = EndFrame
+800D0750 0019
+
+[Unendlich Gesundheit]
+Type = Gameshark
+Activation = EndFrame
+800E3074 0064
+
+[Unendlich Munition Turm 1]
+Type = Gameshark
+Activation = EndFrame
+800EBA24 00C8
+
+[Unendlich Munition Turm 2]
+Type = Gameshark
+Activation = EndFrame
+800EBA40 00C8
+
+[Unendlich Munition Turm 3]
+Type = Gameshark
+Activation = EndFrame
+800EBA5C 00C8
+
+[Unendlich Munition Turm 4]
+Type = Gameshark
+Activation = EndFrame
+800EBA78 00C8
+
+[Unendlich Munition Turm 5]
+Type = Gameshark
+Activation = EndFrame
+800EBA94 00C8
+
+[Unendlich Munition Turm 6]
+Type = Gameshark
+Activation = EndFrame
+800EBAB0 00C8
+
+[Turm 1 Bleibt Kalt]
+Type = Gameshark
+Activation = EndFrame
+800EBA20 0000
+
+[Turm 2 Bleibt Kalt]
+Type = Gameshark
+Activation = EndFrame
+800EBA3C 0000
+
+[Turm 3 Bleibt Kalt]
+Type = Gameshark
+Activation = EndFrame
+800EBA58 0000
+
+[Turm 4 Bleibt Kalt]
+Type = Gameshark
+Activation = EndFrame
+800EBA74 0000
+
+[Turm 5 Bleibt Kalt]
+Type = Gameshark
+Activation = EndFrame
+800EBA90 0000
+
+[Turm 6 Bleibt Kalt]
+Type = Gameshark
+Activation = EndFrame
+800EBAAC 0000
+
+[Unendlich Raketen Turm 1]
+Type = Gameshark
+Activation = EndFrame
+800EBA28 0005
+
+[Unendlich Raketen Turm 2]
+Type = Gameshark
+Activation = EndFrame
+800EBA44 0005
+
+[Unendlich Raketen Turm 3]
+Type = Gameshark
+Activation = EndFrame
+800EBA60 0005
+
+[Unendlich Raketen Turm 4]
+Type = Gameshark
+Activation = EndFrame
+800EBA7C 0005
+
+[Unendlich Raketen Turm 5]
+Type = Gameshark
+Activation = EndFrame
+800EBA98 0005
+
+[Unendlich Raketen Turm 6]
+Type = Gameshark
+Activation = EndFrame
+800EBAB4 0005
+
+[Unendlich Energie Turm 1]
+Type = Gameshark
+Activation = EndFrame
+800E351C 0000
+
+[Unendlich Energie Turm 2]
+Type = Gameshark
+Activation = EndFrame
+800E3524 0000
+
+[Unendlich Energie Turm 3]
+Type = Gameshark
+Activation = EndFrame
+800E352C 0000
+
+[Unendlich Energie Turm 4]
+Type = Gameshark
+Activation = EndFrame
+800E3534 0000
+
+[Unendlich Energie Turm 5]
+Type = Gameshark
+Activation = EndFrame
+800E353C 0000
+
+[Unendlich Energie Turm 6]
+Type = Gameshark
+Activation = EndFrame
+800E3544 0000
+
+[Patronen]
+Type = Gameshark
+Activation = EndFrame
+800D0752 0007
+

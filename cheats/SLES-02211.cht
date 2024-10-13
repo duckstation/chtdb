@@ -1,0 +1,22 @@
+; CHTDB: ; [ Dino Crisis (Spain) {SLES-02211} ]
+
+[Salud Infinita]
+Type = Gameshark
+Activation = EndFrame
+800B1F2C 03E8
+
+[Tiempo Ilimitado]
+Type = Gameshark
+Activation = EndFrame
+800BA6BC 2330
+
+[Misiones Extra]
+Type = Gameshark
+Activation = EndFrame
+800BA6B8 00FF
+
+[Balas Infinitas para la pistola 9mm]
+Type = Gameshark
+Activation = EndFrame
+800BEC5C 0009
+

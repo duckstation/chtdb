@@ -1,0 +1,221 @@
+; CHTDB: ; [ Tekken 3 (Europe) {SCES-01237} ]
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800A95E6 0082
+
+[P2 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800AAE72 0082
+
+[Enable Theatre Mode]
+Type = Gameshark
+Activation = EndFrame
+30097EEF 0003
+
+[Enable All Movies In Theatre]
+Type = Gameshark
+Activation = EndFrame
+90097EC0 FFFFFFFF
+80097EC4 FFFF
+
+[Enable Tekken Ball Mode]
+Type = Gameshark
+Activation = EndFrame
+30097EEE 0003
+
+[Enable All Characters]
+Type = Gameshark
+Activation = EndFrame
+90097EB8 FFFFFFFF
+80097EBC FFFF
+
+[Enable Tiger Characters .To select to fight with Tiger you must select Eddy with START button.]
+Type = Gameshark
+Activation = EndFrame
+80097EBC 0382
+
+[No Health Enemies Tekken Force Mode .This code also effects Player 2 health in other modes.]
+Type = Gameshark
+Activation = EndFrame
+800AAE72 0000
+800AC6FE 0000
+
+[Infinite Time To Choose]
+Type = Gameshark
+Activation = EndFrame
+80118764 03FF
+
+[Infinite Time In Force Mode]
+Type = Gameshark
+Activation = EndFrame
+800ADB94 134F
+
+[P1 No Health]
+Type = Gameshark
+Activation = EndFrame
+300A95E6 0000
+
+[P2 No Health]
+Type = Gameshark
+Activation = EndFrame
+300AAE72 0000
+
+[P1 1-Hit Death]
+Type = Gameshark
+Activation = EndFrame
+A60A95E6 008C0001
+
+[P2 1-Hit Death]
+Type = Gameshark
+Activation = EndFrame
+A60AAE72 008C0001
+
+[P1 Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800AAADA 1000
+800AAAE0 1000
+800AAAFE 1000
+800AAB04 0000
+
+[Hit Anywhere]
+Type = Gameshark
+Activation = EndFrame
+A7047CEA 14401000
+;f 0,fffff,w.1440,0,0,1,2610
+
+[Select Stage (Arcade Mode)\1]
+Type = Gameshark
+Activation = EndFrame
+D00AFA74 0000
+300AFA74 0000
+
+[Select Stage (Arcade Mode)\2]
+Type = Gameshark
+Activation = EndFrame
+D00AFA74 0000
+300AFA74 0001
+
+[Select Stage (Arcade Mode)\3]
+Type = Gameshark
+Activation = EndFrame
+D00AFA74 0000
+300AFA74 0002
+
+[Select Stage (Arcade Mode)\4]
+Type = Gameshark
+Activation = EndFrame
+D00AFA74 0000
+300AFA74 0003
+
+[Select Stage (Arcade Mode)\5]
+Type = Gameshark
+Activation = EndFrame
+D00AFA74 0000
+300AFA74 0004
+
+[Select Stage (Arcade Mode)\6]
+Type = Gameshark
+Activation = EndFrame
+D00AFA74 0000
+300AFA74 0005
+
+[Select Stage (Arcade Mode)\7]
+Type = Gameshark
+Activation = EndFrame
+D00AFA74 0000
+300AFA74 0006
+
+[Select Stage (Arcade Mode)\8]
+Type = Gameshark
+Activation = EndFrame
+D00AFA74 0000
+300AFA74 0007
+
+[Select Stage (Arcade Mode)\9]
+Type = Gameshark
+Activation = EndFrame
+D00AFA74 0000
+300AFA74 0008
+
+[Select Stage (Arcade Mode)\10]
+Type = Gameshark
+Activation = EndFrame
+D00AFA74 0000
+300AFA74 0009
+
+[P1 Grip Of Death]
+Type = Gameshark
+Activation = EndFrame
+800A924A 0017
+
+[P1 The Glow]
+Type = Gameshark
+Activation = EndFrame
+800A9312 006F
+800A924E 00FF
+
+[Neon Glow]
+Type = Gameshark
+Activation = EndFrame
+8009E5B4 FFFF
+
+[Enable Final Stage In Force Mode .This code will only work if Dr. Boskonovitch has NOT been enabled.]
+Type = Gameshark
+Activation = EndFrame
+80097EE0 0103
+
+[P1 is Dr. Boskonovitch]
+Type = Gameshark
+Activation = EndFrame
+300ADD24 0013
+
+[P1 Press L1 To Gain Power]
+Type = Gameshark
+Activation = EndFrame
+D00A90F8 0004
+200A95E6 0001
+
+[P1 Press L2 To Lose Power]
+Type = Gameshark
+Activation = EndFrame
+D00A90F8 0001
+210A95E6 0001
+
+[P2 Press R1 To Gain Power]
+Type = Gameshark
+Activation = EndFrame
+D00A90F8 0008
+200AAE72 0001
+
+[P2 Press R2 To Lose Power]
+Type = Gameshark
+Activation = EndFrame
+D00A90F8 0002
+210AAE72 0001
+
+[Hit Opponent Anywhere On Screen (Both Players)]
+Type = Gameshark
+Activation = EndFrame
+80047802 2400
+80047772 2400
+80047B1E 2400
+
+[Cpu's Back Is Always Turned .Using this code, the P2 character's back will always be turned, so he can't hit you.]
+Type = Gameshark
+Activation = EndFrame
+300AAB43 0001
+
+[No Black Backgrounds (For True Ogre Fights).This code will remove the darkness that covers Backgrounds during True Ogre fights.]
+Type = Gameshark
+Activation = EndFrame
+300AFA68 0000
+
+[Play As The Cpu In Arcade Mode .Using this code, the P2 pad will control the opponent in 1P Arcade Mode.]
+Type = Gameshark
+Activation = EndFrame
+300AAB41 0000
+

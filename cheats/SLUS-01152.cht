@@ -1,0 +1,68 @@
+; CHTDB: ; [ Disney's 102 Dalmatians - Puppies to the Rescue (USA) (2000) (Eidos Interactive) {SLUS-01152} <102dalm> ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8001DB40 2400
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8001DF94 2400
+
+[Have All Puppies Found]
+Type = Gameshark
+Activation = EndFrame
+8007E1AC 0006
+
+[Have All Bones Found]
+Type = Gameshark
+Activation = EndFrame
+8007E23C 0064
+
+[Unlock All Levels + Mini-Games]
+Type = Gameshark
+Activation = EndFrame
+8007E5F8 001F
+
+[6 Puppies Rescued]
+Type = Gameshark
+Activation = EndFrame
+8007CB1C 0006
+8007E1AC 0006
+
+[Press L2+R2 To Save Anywhere]
+Type = Gameshark
+Activation = EndFrame
+D00B29B2 FCFF
+8007E678 0005
+
+[Unlock All Stickers]
+Type = Gameshark
+Activation = EndFrame
+50000802 0000
+8007E22C FFFF
+
+[Perfect Minigolf]
+Type = Gameshark
+Activation = EndFrame
+80169BAC 0001
+80169C10 0001
+8016A104 0001
+8016ABC4 0001
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A707A09C 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A707A09C 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A707A09C 10000400
+

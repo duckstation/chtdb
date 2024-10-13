@@ -1,0 +1,27 @@
+; CHTDB: ; [ Small Soldiers (USA) (1998) (Electronic Arts) {SLUS-00781} <smallsol> ]
+
+[Infinite Ammo (All Levels)]
+Type = Gameshark
+Activation = EndFrame
+A707BC46 A4622400
+
+[Infinite Lives (All Levels)]
+Type = Gameshark
+Activation = EndFrame
+A7048A7A AC622400
+
+[Infinite Health (All Levels)]
+Type = Gameshark
+Activation = EndFrame
+C0052B7A 8E22
+90052B7C 00030C03
+90052B84 24080144
+90052BF0 1028006B
+00000000 FFFF
+
+[Have All + Infinite Special Weapons (Level 1)]
+Type = Gameshark
+Activation = EndFrame
+900E14BC 00640064
+800E14C0 0019
+

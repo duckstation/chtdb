@@ -1,0 +1,31 @@
+; CHTDB: ; [ The Guardian of Darkness (Europe) {SLES-01776} ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800F8A6C 0064
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800F5D64 03E8
+800F8A68 03E8
+
+[Infinite Erase Tendrills]
+Type = Gameshark
+Activation = EndFrame
+A60B1BEC 00010004
+A60B1BF0 00010004
+
+[Infinite Send]
+Type = Gameshark
+Activation = EndFrame
+A60B1BAC 00000001
+A60B1BB0 00000001
+
+[Infinite See Energy]
+Type = Gameshark
+Activation = EndFrame
+A60B192C 00000001
+A60B1930 00000001
+

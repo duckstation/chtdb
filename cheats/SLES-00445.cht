@@ -1,0 +1,271 @@
+; CHTDB: ; [ Die Hard Trilogy (Europe) {SLES-00445} ]
+
+[Die Hard\Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801CEB46 000C
+801CE9DE 000C
+
+[Die Hard\Infinite Bullets]
+Type = Gameshark
+Activation = EndFrame
+801CEB4A 000F
+801CE9E2 000F
+
+[Die Hard\Infinite Smoke Grenades]
+Type = Gameshark
+Activation = EndFrame
+801CEB4C 000F
+801CE9E4 000F
+
+[Die Hard\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801D5930 0009
+
+[Die Hard\Infinite Flash Bang Grenades]
+Type = Gameshark
+Activation = EndFrame
+801CEB4E 000F
+801CE9E6 000F
+
+[Die Hard\Infinite Grenades]
+Type = Gameshark
+Activation = EndFrame
+801CEB50 000F
+801CE9E8 000F
+
+[Die Hard\Infinite Time Set 1]
+Type = Gameshark
+Activation = EndFrame
+A61CFB36 028C0300
+A61CFC9E 028C0300
+A61D00D6 028C0300
+A61CFE06 028C0300
+A61D023E 028C0300
+A61D0946 028C0300
+A61CFF6E 028C0300
+
+[Die Hard\Infinite Time Set 2]
+Type = Gameshark
+Activation = EndFrame
+A61D03A6 028C0300
+
+[Die Hard\Weapon Modifier M60 Machine Gun (0-6)]
+Type = Gameshark
+Activation = EndFrame
+D11CEB48 000?
+801CEB48 0006
+
+[Die Hard\#The Saint#-Mode On (.Press L1 & L2)]
+Type = Gameshark
+Activation = EndFrame
+D00A6BD0 0005
+801C5794 0001
+
+[Die Hard\#Hit-And-Fly#-Mode On (Press L1 & R1)]
+Type = Gameshark
+Activation = EndFrame
+D00A6BD0 000C
+801C5788 0001
+
+[Die Hard\#Weightwatchers#-Mode On (Press L1 & R2)]
+Type = Gameshark
+Activation = EndFrame
+D00A6BD0 0006
+801C5786 0001
+
+[Die Hard\Start With High Score]
+Type = Gameshark
+Activation = EndFrame
+A61D58FC 0000FFFF
+A61D58FE 0000FFFF
+
+[Die Hard\Last Level Select (00-16)]
+Type = Gameshark
+Activation = EndFrame
+A60A6B60 00000016
+
+[Die Hard\Bonus-Level Select (.Use Together With Level Select Code.)]
+Type = Gameshark
+Activation = EndFrame
+D00A6B60 0019
+800A6D3C 0019
+;$03 Bonuslevel 4
+;$08 Bonuslevel 8
+;$0D Bonuslevel 12
+;$12 Bonuslevel 16
+;$16 Bonuslevel 19
+
+[Die Hard\Reverse Mode]
+Type = Gameshark
+Activation = EndFrame
+801C5792 0001
+
+[Die Hard\Hold Select To Levitate]
+Type = Gameshark
+Activation = EndFrame
+E00A6BE5 0001
+801CEA82 0081
+
+[Die Hard\Invincibility]
+Type = Gameshark
+Activation = EndFrame
+801CEBA6 0051
+
+[Die Hard\Rapid Fire (Pistol)]
+Type = Gameshark
+Activation = EndFrame
+8005C93E 3C00
+
+[Die Hard\Faster Grenade Throwing]
+Type = Gameshark
+Activation = EndFrame
+8005DAF2 3C00
+
+[Die Hard 2 - Die Harder\Infinite Rockets]
+Type = Gameshark
+Activation = EndFrame
+800B95C0 000F
+
+[Die Hard 2 - Die Harder\Infinite Grenades]
+Type = Gameshark
+Activation = EndFrame
+800B9758 000F
+
+[Die Hard 2 - Die Harder\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+A60B95B0 00040005
+
+[Die Hard 2 - Die Harder\Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+801FA0F6 000E
+
+[Die Hard 2 - Die Harder\Skeleton-Mode On (Press Select & L1)]
+Type = Gameshark
+Activation = EndFrame
+D00B9660 0104
+800112BE 0001
+
+[Die Hard 2 - Die Harder\Dwarfs & Giants-Mode On (Press Select & L2)]
+Type = Gameshark
+Activation = EndFrame
+D00B9660 0101
+800112BC 0001
+
+[Die Hard 2 - Die Harder\Map-Editor On (Press Select Select & Start)]
+Type = Gameshark
+Activation = EndFrame
+D00B9660 0900
+800112B0 0001
+
+[Die Hard 2 - Die Harder\All Innocents Saved]
+Type = Gameshark
+Activation = EndFrame
+800B96F8 0000
+
+[Die Hard 2 - Die Harder\Start With High Score]
+Type = Gameshark
+Activation = EndFrame
+A60B9364 FFFFFFFF
+D00B9364 FFFF
+800B9366 FFFF
+
+[Die Hard 2 - Die Harder\Stop Timer]
+Type = Gameshark
+Activation = EndFrame
+801D41A0 0ABE
+
+[Die Hard 2 - Die Harder\Stop Timer (Press L1 & L2)]
+Type = Gameshark
+Activation = EndFrame
+D00B9660 0005
+801D41A0 0ABE
+
+[Die Hard 2 - Die Harder\Weapon Modifier AK-47 (0-7)]
+Type = Gameshark
+Activation = EndFrame
+801FA114 0007
+
+[Die Hard 2 - Die Harder\Last Level Select (0-7)]
+Type = Gameshark
+Activation = EndFrame
+D00B9660 000A
+800B9B60 0007
+
+[Die Hard With A Vengeance\Infinite Turbos]
+Type = Gameshark
+Activation = EndFrame
+800B83B4 0009
+
+[Die Hard With A Vengeance\Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+801D86FC 61E0
+801D87FC 61E0
+801D88FC 61E0
+801D89FC 61E0
+801D8AFC 61E0
+801D8BFC 61E0
+
+[Die Hard With A Vengeance\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800B8154 0009
+
+[Die Hard With A Vengeance\All Bomb Cars Dies Faster]
+Type = Gameshark
+Activation = EndFrame
+A61D1E70 00040000
+A61D2A70 00040000
+A61D3270 00040000
+A61D3670 00040000
+A61D3A70 00040000
+
+[Die Hard With A Vengeance\Full Safety Margin]
+Type = Gameshark
+Activation = EndFrame
+801D9598 0000
+
+[Die Hard With A Vengeance\No Damage At 100 %]
+Type = Gameshark
+Activation = EndFrame
+800B85C4 0000
+
+[Die Hard With A Vengeance\Start With High Score]
+Type = Gameshark
+Activation = EndFrame
+A60B7ED0 0000FFFF
+A60B7ED2 0000FFFF
+
+[Die Hard With A Vengeance\#Goliath#-Mode On (Press L1)]
+Type = Gameshark
+Activation = EndFrame
+D01D3E26 0004
+800112DA 0001
+
+[Die Hard With A Vengeance Last Level (0-F)]
+Type = Gameshark
+Activation = EndFrame
+A60B8614 0000000F
+
+[Die Hard With A Vengeance\Debug Mode (Press Select to open the Debug Mode, L2+R2 to deactivate)]
+Type = Gameshark
+Activation = EndFrame
+D00B81CC 0100
+800B78FE 0001
+D00B81CC 0003
+800B78FE 0000
+
+[Die Hard With A Vengeance\Press Circle For Jump Boost]
+Type = Gameshark
+Activation = EndFrame
+9002B9C8 3C003C00
+
+[Die Hard With A Vengeance\Infinite Time (All Levels)]
+Type = Gameshark
+Activation = EndFrame
+800511FC 3C00
+

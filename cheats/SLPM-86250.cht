@@ -1,0 +1,63 @@
+; CHTDB: ; [ Goo! Goo! Soundy (Jpn) (1999) (Konami) {SLPM-86250 (VX097-J1)} <gogosndy> ]
+
+[Max Exp From Lesson]
+Type = Gameshark
+Activation = EndFrame
+C0025A58 1021
+90025A58 24427FFF
+00000000 FFFF
+
+[JUDGEMENT SCORE 999999]
+Type = Gameshark
+Activation = EndFrame
+900BA304 000F423F
+
+[TRANSFORM form all]
+Type = Gameshark
+Activation = EndFrame
+50000604 0000
+800A6214 0002
+
+[EFFECT all (PAR2 only)]
+Type = Gameshark
+Activation = EndFrame
+50002402 0000
+800A9D84 0101
+
+[Gauge MAX]
+Type = Gameshark
+Activation = EndFrame
+800CB394 03E7
+
+[Does not fall gauge]
+Type = Gameshark
+Activation = EndFrame
+D00353FE 1040
+800353EA 1400
+
+[Gauge MAX GOOD, in PERFECT]
+Type = Gameshark
+Activation = EndFrame
+D0035342 2442
+80035340 03E7
+
+[9999 times combo]
+Type = Gameshark
+Activation = EndFrame
+800CB2B8 270F
+800CB3C8 270F
+
+[All Saundi Level 7]
+Type = Gameshark
+Activation = EndFrame
+50001228 0000
+800A6250 0007
+
+[All Saundi Exp MAX]
+Type = Gameshark
+Activation = EndFrame
+50001228 0000
+800A625C FFFF
+50001228 0000
+800A625E 70FF
+

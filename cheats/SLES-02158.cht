@@ -1,0 +1,244 @@
+; CHTDB: ; [ South Park (Europe) {SLES-02158} ]
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+8008FCA0 0001
+
+[Levelselect (1P-Mode) Turkey butt - Faire game]
+Type = Gameshark
+Activation = EndFrame
+D0098F2C 0000
+30098F2C 0000
+
+[Levelselect (1P-Mode) Turkey butt - Turkey shoot]
+Type = Gameshark
+Activation = EndFrame
+D0098F2C 0000
+30098F2C 0001
+
+[Levelselect (1P-Mode) Turkey butt - Search and destroy]
+Type = Gameshark
+Activation = EndFrame
+D0098F2C 0000
+30098F2C 0002
+
+[Levelselect (1P-Mode) Turkey butt - Homecoming]
+Type = Gameshark
+Activation = EndFrame
+D0098F2C 0000
+30098F2C 0003
+
+[Levelselect (1P-Mode) A Clone of your own - There goes the neighborhood]
+Type = Gameshark
+Activation = EndFrame
+D0098F2C 0000
+30098F2C 0004
+
+[Levelselect (1P-Mode) A Clone of your own - Warehouse run]
+Type = Gameshark
+Activation = EndFrame
+D0098F2C 0000
+30098F2C 0005
+
+[Levelselect (1P-Mode) A Clone of your own - Mother lovin' spoonful]
+Type = Gameshark
+Activation = EndFrame
+D0098F2C 0000
+30098F2C 0006
+
+[Levelselect (1P-Mode) Close encounters of the bovine kind - The visitors return]
+Type = Gameshark
+Activation = EndFrame
+D0098F2C 0000
+30098F2C 0007
+
+[Levelselect (1P-Mode) Close encounters of the bovine kind - One mother of a ship]
+Type = Gameshark
+Activation = EndFrame
+D0098F2C 0000
+30098F2C 0008
+
+[Levelselect (1P-Mode) Close encounters of the bovine kind - Blow the core]
+Type = Gameshark
+Activation = EndFrame
+D0098F2C 0000
+30098F2C 0009
+
+[Levelselect (1P-Mode) Something wicked this way clunks - Seismic rumble]
+Type = Gameshark
+Activation = EndFrame
+D0098F2C 0000
+30098F2C 000A
+
+[Levelselect (1P-Mode) Something wicked this way clunks - Nuts and boltz]
+Type = Gameshark
+Activation = EndFrame
+D0098F2C 0000
+30098F2C 000B
+
+[Levelselect (1P-Mode) Some disassembly required - Toy rampage]
+Type = Gameshark
+Activation = EndFrame
+D0098F2C 0000
+30098F2C 000C
+
+[Levelselect (1P-Mode) Some disassembly required - Parking problem]
+Type = Gameshark
+Activation = EndFrame
+D0098F2C 0000
+30098F2C 000D
+
+[Levelselect (1P-Mode) Some disassembly required - Batteries included]
+Type = Gameshark
+Activation = EndFrame
+D0098F2C 0000
+30098F2C 000E
+
+[P1 Score]
+Type = Gameshark
+Activation = EndFrame
+A6098EE0 0000190C
+
+[Enable All Multi-Player Characters]
+Type = Gameshark
+Activation = EndFrame
+80098570 FFFF
+30098572 0001
+
+[P1 Infinite Dodgeballs]
+Type = Gameshark
+Activation = EndFrame
+300872B6 0064
+
+[P1 Infinite Ammo Toilet Plunger Gun]
+Type = Gameshark
+Activation = EndFrame
+300872CE 0064
+
+[P1 Infinite Terence And Phillip Dolls]
+Type = Gameshark
+Activation = EndFrame
+3008732E 0064
+
+[P1 Infinite Ammo For The Sponge Dart Gun]
+Type = Gameshark
+Activation = EndFrame
+30087306 0064
+
+[P1 Infinite Ammo For Warpo Ray]
+Type = Gameshark
+Activation = EndFrame
+30087356 0064
+
+[P1 Infinite Sniper Chicken Ammo]
+Type = Gameshark
+Activation = EndFrame
+3008737E 0064
+
+[P1 Infinite Cows (For The Cow Launcher)]
+Type = Gameshark
+Activation = EndFrame
+300873CE 0064
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800A55C0 0800
+
+[P1 Max Wins]
+Type = Gameshark
+Activation = EndFrame
+300A1568 00FF
+
+[Time Stretched Press Up+Select]
+Type = Gameshark
+Activation = EndFrame
+E0098C61 0011
+80098530 2312
+
+[P1 Time Shortened .Press Down+Select]
+Type = Gameshark
+Activation = EndFrame
+E0098C61 0041
+80098530 0000
+
+[P2 Infinite Dodgeballs]
+Type = Gameshark
+Activation = EndFrame
+3008741E 0064
+
+[P2 Infinite Ammo Toilet Plunger Gun]
+Type = Gameshark
+Activation = EndFrame
+30087446 0064
+
+[P2 Infinite Terence And Phillip Dolls]
+Type = Gameshark
+Activation = EndFrame
+30087496 0064
+
+[P2 Infinite Ammo For The Sponge Dart Gun]
+Type = Gameshark
+Activation = EndFrame
+3008746E 0064
+
+[P2 Infinite Ammo For Warpo Ray]
+Type = Gameshark
+Activation = EndFrame
+300874BE 0064
+
+[P2 Infinite Sniper Chicken Ammo]
+Type = Gameshark
+Activation = EndFrame
+300874E6 0064
+
+[P2 Infinite Cows (For The Cow Launcher)]
+Type = Gameshark
+Activation = EndFrame
+30087536 0064
+
+[P2 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800A56C0 0800
+
+[P2 Time Stretched .Press Up+Select]
+Type = Gameshark
+Activation = EndFrame
+E0098C63 0011
+80098530 2312
+
+[P2 Time Shortened .Press Down+Select]
+Type = Gameshark
+Activation = EndFrame
+E0098C63 0041
+80098530 0000
+
+[P1 Infinite Alien Dancing Gizmo's]
+Type = Gameshark
+Activation = EndFrame
+800873A6 000A
+
+[P1 Instant Bazooka Foams For Dart Gun]
+Type = Gameshark
+Activation = EndFrame
+8009FEF0 0005
+
+[Infinite Armour]
+Type = Gameshark
+Activation = EndFrame
+800A14E4 0180
+
+[Rapid Fire]
+Type = Gameshark
+Activation = EndFrame
+E0098C60 0010
+8009FFE8 0003
+
+[Big Jump]
+Type = Gameshark
+Activation = EndFrame
+E0098C60 0040
+800A5606 0000
+

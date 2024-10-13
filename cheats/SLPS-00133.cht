@@ -1,0 +1,12 @@
+; CHTDB: ; [ D no Shokutaku: Complete Graphics (Japan) {SLPS-00133 | SLPS-00134 | SLPS-00135} ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+9012B4C4 00000000
+
+[Infinite Mirror Hints]
+Type = Gameshark
+Activation = EndFrame
+801514F4 0000
+

@@ -1,0 +1,98 @@
+; CHTDB: ; [ Roswell Conspiracies - Aliens, Myths & Legends (USA) (2001) (Ubi Soft Entertainment Software) {SLUS-01062} <roswell> ]
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+800EAF1C 000A
+
+[Infinite Health The Beginning]
+Type = Gameshark
+Activation = EndFrame
+800EA55A 0064
+
+[Infinite Health The Dye Factory]
+Type = Gameshark
+Activation = EndFrame
+800E145A 0064
+
+[Infinite Health Underground Resistance]
+Type = Gameshark
+Activation = EndFrame
+800E4B76 0064
+
+[Infinite Health - Ruck]
+Type = Gameshark
+Activation = EndFrame
+800D9CEE 0064
+
+[Infinite Health The Beach]
+Type = Gameshark
+Activation = EndFrame
+800F2846 0064
+
+[Infinite Health Precious Elements]
+Type = Gameshark
+Activation = EndFrame
+800E626A 0064
+
+[Infinite Health Crystal Chambers]
+Type = Gameshark
+Activation = EndFrame
+800E289E 0064
+
+[Infinite Health Khan Mort]
+Type = Gameshark
+Activation = EndFrame
+800DF42A 0064
+
+[Infinite Health The Bay]
+Type = Gameshark
+Activation = EndFrame
+800F0752 0064
+
+[Infinite Health The Rock]
+Type = Gameshark
+Activation = EndFrame
+800E015A 0064
+
+[Infinite Health Baron Samedi]
+Type = Gameshark
+Activation = EndFrame
+800DCD4E 0064
+
+[Infinite Health Crash Site]
+Type = Gameshark
+Activation = EndFrame
+800E7CC2 0064
+
+[Infinite Health Powerup]
+Type = Gameshark
+Activation = EndFrame
+800F392E 0064
+
+[Infinite Health Descent]
+Type = Gameshark
+Activation = EndFrame
+800E9CAE 0064
+
+[Infinite Health The Shadoen]
+Type = Gameshark
+Activation = EndFrame
+800D9D16 0064
+
+[No Enemy Health]
+Type = Gameshark
+Activation = EndFrame
+800E9B98 0000
+
+[Unlock All Levels - Press L1,L2,R1,R2 At The Main Screen]
+Type = Gameshark
+Activation = EndFrame
+D009A0F4 000F
+8009DB40 0010
+
+[Unlock All Levels]
+Type = Gameshark
+Activation = EndFrame
+8009DB40 0010
+

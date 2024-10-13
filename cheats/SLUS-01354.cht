@@ -1,0 +1,12 @@
+; CHTDB: ; [ Point Blank 3 (USA) (2001) (Namco Hometek) {SLUS-01354} <ptblank3> ]
+
+[P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800AD990 0003
+
+[P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800AD992 0003
+

@@ -1,0 +1,56 @@
+; CHTDB: ; [ AbalaBurn (Japan) {SLPS-01280} ]
+
+[Story Mode\Max Level]
+Type = Gameshark
+Activation = EndFrame
+301C3EF9 0063
+
+[Story Mode\Hp Max]
+Type = Gameshark
+Activation = EndFrame
+801C3E7E 270F
+
+[Story Mode\Max Defence]
+Type = Gameshark
+Activation = EndFrame
+301C3EFB 00FF
+
+[Story Mode\Max Attack]
+Type = Gameshark
+Activation = EndFrame
+301C3EFD 00FF
+301C3F01 00FF
+301C3F03 00FF
+
+[Story Mode\Fast Level Up]
+Type = Gameshark
+Activation = EndFrame
+301C3F07 00FF
+
+[Story Mode\Max Other Status]
+Type = Gameshark
+Activation = EndFrame
+801AC5E0 0090
+801AC5F0 0090
+801AC5FC 0090
+801AC604 0090
+801AC60C 0090
+801AC614 0090
+801AC620 0090
+801AC630 0090
+
+[Arcade Mode\1P Hp Max]
+Type = Gameshark
+Activation = EndFrame
+801C3E7E 270F
+
+[Arcade Mode\Infinite MP For Player One]
+Type = Gameshark
+Activation = EndFrame
+801C3E62 0005
+
+[Arcade Mode\Infinite MP For Player Two]
+Type = Gameshark
+Activation = EndFrame
+801C3F8A 0005
+

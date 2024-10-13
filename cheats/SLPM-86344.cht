@@ -1,0 +1,17 @@
+; CHTDB: ; [ Side by Side Special 2000 (Jpn) (1999) (Taito) {SLPM-86344 (TCPS10011)} <sidebs2k> ]
+
+[Infinite Checkpoint Time]
+Type = Gameshark
+Activation = EndFrame
+8008B38C 08CA
+
+[Freeze Laptime]
+Type = Gameshark
+Activation = EndFrame
+8008B3C0 0000
+
+[Total Time 00.00.00/1st]
+Type = Gameshark
+Activation = EndFrame
+8008B418 0000
+

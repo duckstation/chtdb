@@ -1,0 +1,7 @@
+; CHTDB: ; [ Caesars Palace (Europe) {SLES-01008} ]
+
+[P1 Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+800BBB98 FFFF
+

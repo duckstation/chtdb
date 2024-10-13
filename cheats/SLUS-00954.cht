@@ -1,0 +1,16 @@
+; CHTDB: ; [ RC Stunt Copter (USA) (1999) (Interplay Entertainment) {SLUS-00954} <rcstunt> ]
+
+[Enable All Stages]
+Type = Gameshark
+Activation = EndFrame
+900CD43C FFFFFFFF
+900CD440 FFFFFFFF
+900CD444 FFFFFFFF
+900CD448 FFFFFFFF
+900CD44C FFFFFFFF
+
+[Max Score]
+Type = Gameshark
+Activation = EndFrame
+900CD468 000FFFFF
+

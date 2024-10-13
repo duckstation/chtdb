@@ -1,0 +1,46 @@
+; CHTDB: ; [ Renegade Racers (Europe) {SLES-02274} ]
+
+[Unlock All Characters deactivate acter using it and save the game load that gamesave, go to the difficulty-modifier and press so often left, that the words easy, medium or hard are appearing. Then save again and all will be right.]
+Type = Gameshark
+Activation = EndFrame
+80091286 0024
+
+[Finish 1st]
+Type = Gameshark
+Activation = EndFrame
+300AAD17 0000
+300AAD18 0000
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800235FE 3C00
+
+[Don't Reset Laps After One Race play the first race and since the lap number remain you will finish next races after just a few seconds as a winner!]
+Type = Gameshark
+Activation = EndFrame
+D00492AA 0064
+80013248 3C00
+D00492AA 0064
+8001324C 3C00
+D00492AA 0064
+80013250 3C00
+D00492AA 0064
+80013254 3C00
+
+[Jumps Finished]
+Type = Gameshark
+Activation = EndFrame
+800AAFC6 7FFF
+800AAFCA 7FFF
+
+[All Items Found]
+Type = Gameshark
+Activation = EndFrame
+800AAFF8 7FFF
+
+[Max Points]
+Type = Gameshark
+Activation = EndFrame
+800AAFD8 7FFF
+

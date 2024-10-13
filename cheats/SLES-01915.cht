@@ -1,0 +1,8 @@
+; CHTDB: ; [ Sports Car GT (France) {SLES-01915} ]
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+800B1370 1333
+300B1381 000C
+

@@ -1,0 +1,7 @@
+; CHTDB: ; [ The Vision of Escaflowne (Jpn, Limited Edition) (1997) (Bandai) {SLPS-01014} <escaflwn> ]
+
+[Infinite HP in battle]
+Type = Gameshark
+Activation = EndFrame
+800ADEFA 000C
+

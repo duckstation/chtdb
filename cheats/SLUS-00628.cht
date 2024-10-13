@@ -1,0 +1,57 @@
+; CHTDB: ; [ Lunar - Silver Star Story Complete (USA) (1999) (Working Designs) {SLUS-00628 / SLUS-00899 / SLUS-00921} <lunar> ]
+
+[Alex (Main Character)\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+801DBFC0 03E7
+
+[Alex (Main Character)\Max HP]
+Type = Gameshark
+Activation = EndFrame
+801DBFC2 03E7
+
+[Alex (Main Character)\Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+801DBFC4 03E7
+
+[Alex (Main Character)\Max MP]
+Type = Gameshark
+Activation = EndFrame
+801DBFC6 03E7
+
+[Infinite MP In Battle (All Characters)]
+Type = Gameshark
+Activation = EndFrame
+8002E7E6 2400
+
+[Infinite HP In Battle (All Characters)]
+Type = Gameshark
+Activation = EndFrame
+80030660 0055
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+801DC37C FFFF
+
+[No random battles]
+Type = Gameshark
+Activation = EndFrame
+800B8C1A 0003
+
+[All Movies Open In Rememberizer]
+Type = Gameshark
+Activation = EndFrame
+901DC3AC FFFFFFFF
+
+[Secret Pictures (Press L2+Start)]
+Type = Gameshark
+Activation = EndFrame
+C00B8854 0801
+901DC300 94939291
+901DC304 98979695
+901DC308 A59B9A99
+801DC30C B5A7
+00000000 FFFF
+

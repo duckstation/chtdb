@@ -1,0 +1,97 @@
+; CHTDB: ; [ Dune 2000 aka Dune (Europe) {SLES-02247} ]
+
+[Atreides\Infinite Spice]
+Type = Gameshark
+Activation = EndFrame
+800E090E 0098
+
+[Atreides\Structures Are Free]
+Type = Gameshark
+Activation = EndFrame
+800E061C FFFF
+
+[Atreides\Units Are Free]
+Type = Gameshark
+Activation = EndFrame
+800E062C FFFF
+
+[Atreides\Instant Build Structures]
+Type = Gameshark
+Activation = EndFrame
+800E0622 5A00
+
+[Atreides\Instant Build Units]
+Type = Gameshark
+Activation = EndFrame
+800E0632 5A00
+
+[Atreides\Instant Upgrade]
+Type = Gameshark
+Activation = EndFrame
+800E06D2 59FF
+
+[Harkonnenn\Infinite Spice]
+Type = Gameshark
+Activation = EndFrame
+800E15BA 0098
+
+[Harkonnenn\Structures Are Free]
+Type = Gameshark
+Activation = EndFrame
+800E12C8 FFFF
+
+[Harkonnenn\Units Are Free]
+Type = Gameshark
+Activation = EndFrame
+800E12D8 FFFF
+
+[Harkonnenn\Instant Build Structures]
+Type = Gameshark
+Activation = EndFrame
+800E12CE 5A00
+
+[Harkonnenn\Instant Build Units]
+Type = Gameshark
+Activation = EndFrame
+800E12DE 5A00
+
+[Harkonnenn\Instant Upgrade]
+Type = Gameshark
+Activation = EndFrame
+800E137E 59FF
+
+[Ordos\Infinite Spice]
+Type = Gameshark
+Activation = EndFrame
+800E2266 0098
+
+[Ordos\Structures Are Free]
+Type = Gameshark
+Activation = EndFrame
+800E1F74 FFFF
+
+[Ordos\Units Are Free]
+Type = Gameshark
+Activation = EndFrame
+800E1F84 FFFF
+
+[Ordos\Instant Build Structures]
+Type = Gameshark
+Activation = EndFrame
+800E1F7A 5A00
+
+[Ordos\Instant Build Units]
+Type = Gameshark
+Activation = EndFrame
+800E1F8A 5A00
+
+[Ordos\Instant Upgrade]
+Type = Gameshark
+Activation = EndFrame
+800E202A 59FF
+
+[Infinite Spice in practice mode (All houses)]
+Type = Gameshark
+Activation = EndFrame
+800E090C 6980
+

@@ -1,0 +1,114 @@
+; CHTDB: ; [ Rising Zan: The Samurai Gunman (Europe) {SLES-01779} ]
+
+[Max Hero Meter]
+Type = Gameshark
+Activation = EndFrame
+D20918B4 0059
+800918B4 0058
+
+[Enable All Impacts (Normal)]
+Type = Gameshark
+Activation = EndFrame
+D209173E 00FF
+8009173E 00FF
+
+[Enable All Impacts (Hard)]
+Type = Gameshark
+Activation = EndFrame
+D2091740 00FF
+80091740 00FF
+
+[Enable All Impacts (Expert)]
+Type = Gameshark
+Activation = EndFrame
+D2091742 00FF
+80091742 00FF
+
+[Max Hero Badges]
+Type = Gameshark
+Activation = EndFrame
+E20918B8 0003
+300918B8 0003
+
+[Infinite Time Impact 2]
+Type = Gameshark
+Activation = EndFrame
+A60D0BA4 00020001
+
+[Infinite Time Impact 4]
+Type = Gameshark
+Activation = EndFrame
+A60EEE84 00020001
+
+[Enable Hard + Sapphire]
+Type = Gameshark
+Activation = EndFrame
+E009184D 0000
+3009184D 0001
+
+[Enable Expert + Serious Mode]
+Type = Gameshark
+Activation = EndFrame
+E009184E 0000
+3009184E 0001
+
+[Enable Hustle Time Mode]
+Type = Gameshark
+Activation = EndFrame
+E009184F 0000
+3009184F 0001
+
+[Infinite Health\Impact 1]
+Type = Gameshark
+Activation = EndFrame
+D20F45E8 0050
+800F45E8 0064
+
+[Infinite Health\Impact 2]
+Type = Gameshark
+Activation = EndFrame
+D2117398 0050
+80117398 0064
+
+[Infinite Health\Impact 3]
+Type = Gameshark
+Activation = EndFrame
+D20F2878 0050
+800F2878 0064
+
+[Infinite Health\Impact 4]
+Type = Gameshark
+Activation = EndFrame
+D20F27D8 0050
+800F27D8 0064
+
+[Infinite Health\Impact 5]
+Type = Gameshark
+Activation = EndFrame
+D20FE678 0050
+800FE678 0064
+
+[Infinite Health\Impact 6]
+Type = Gameshark
+Activation = EndFrame
+D20F5928 0050
+800F5928 0064
+
+[Infinite Health\Impact 7]
+Type = Gameshark
+Activation = EndFrame
+D20FAE78 0050
+800FAE78 0064
+
+[Infinite Health\Impact 8]
+Type = Gameshark
+Activation = EndFrame
+D20F9E18 0050
+800F9E18 0064
+
+[Infinite Health\Impact Finish]
+Type = Gameshark
+Activation = EndFrame
+D20EB3B8 0050
+800EB3B8 0064
+

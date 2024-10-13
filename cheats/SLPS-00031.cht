@@ -1,0 +1,17 @@
+; CHTDB: ; [ Kyuutenkai (Japan) {SLPS-00031} ]
+
+[Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+900397E4 00000000
+
+[Infinite Opm]
+Type = Gameshark
+Activation = EndFrame
+800ADE38 03E8
+
+[Fatal Strike]
+Type = Gameshark
+Activation = EndFrame
+800391FA 0063
+

@@ -1,0 +1,12 @@
+; CHTDB: ; [ Hugo 2 (Germany) {SLES-01807} ]
+
+[Unendlich Leben]
+Type = Gameshark
+Activation = EndFrame
+80038E42 2400
+
+[Alle Filme]
+Type = Gameshark
+Activation = EndFrame
+800C6340 0004
+

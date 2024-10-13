@@ -1,0 +1,38 @@
+; CHTDB: ; [ The Fifth Element (Japan) {SLPS-01555} ]
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+801E2326 00FF
+
+[Infinite Bullets]
+Type = Gameshark
+Activation = EndFrame
+800D8AF8 01FF
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801FFF0E 0063
+
+[Cheat codes (START Press) at the title screen]
+Type = Gameshark
+Activation = EndFrame
+301FFF56 007F
+
+[Does not decrease life gauge]
+Type = Gameshark
+Activation = EndFrame
+801EDF06 00FF
+
+[Does not decrease credit]
+Type = Gameshark
+Activation = EndFrame
+801FFF46 000A
+
+[Possessed item]
+Type = Gameshark
+Activation = EndFrame
+50000E02 0000
+801FFF5C 0001
+

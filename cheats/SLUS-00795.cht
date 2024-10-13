@@ -1,0 +1,23 @@
+; CHTDB: ; [ Shanghai - True Valor (USA) (1999) (Activision) {SLUS-00795} <shanghai> ]
+
+[Arcade Shanghai\Infinite Time To Choose]
+Type = Gameshark
+Activation = EndFrame
+800E1228 2AF8
+
+[Arcade Shanghai\Infinite Helps]
+Type = Gameshark
+Activation = EndFrame
+80067542 0009
+
+[Arcade Shanghai\Infinite Backs]
+Type = Gameshark
+Activation = EndFrame
+80089EE4 0003
+
+[Match Dis-simular Tiles]
+Type = Gameshark
+Activation = EndFrame
+A70CBD72 10821000
+A70CEB9E 10821000
+

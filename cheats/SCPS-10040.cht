@@ -1,0 +1,17 @@
+; CHTDB: ; [ Arc the Lad: Monster Game with Casino Game (Monster Game) (Japan) {SCPS-10040 | SCPS-10041} ]
+
+[Max Gold]
+Type = Gameshark
+Activation = EndFrame
+90010014 0098967F
+
+[Time MAX]
+Type = Gameshark
+Activation = EndFrame
+80010010 FFFF
+
+[All trophy]
+Type = Gameshark
+Activation = EndFrame
+80010094 FFFF
+

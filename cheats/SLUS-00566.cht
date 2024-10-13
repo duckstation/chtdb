@@ -1,0 +1,187 @@
+; CHTDB: ; [ Ian Livingstone's Deathtrap Dungeon (USA) (1998) (Eidos Interactive) {SLUS-00566} <deathtrp> ]
+
+[Infinite HP Male Character Level 2]
+Type = Gameshark
+Activation = EndFrame
+801BCB95 1900
+
+[Level Select (Load Game Menu)]
+Type = Gameshark
+Activation = EndFrame
+300556D4 0008
+
+[Infinite Fireballs]
+Type = Gameshark
+Activation = EndFrame
+800C6CA0 FFFF
+
+[Infinite Razor Spell]
+Type = Gameshark
+Activation = EndFrame
+800C6CA4 FFFF
+
+[Infinite Jetspell]
+Type = Gameshark
+Activation = EndFrame
+800C6CA8 FFFF
+
+[Infinite Greater Razorspell]
+Type = Gameshark
+Activation = EndFrame
+800C6CAC FFFF
+
+[Infinite Arc Of Power]
+Type = Gameshark
+Activation = EndFrame
+800C6CB0 FFFF
+
+[Infinite War Pig]
+Type = Gameshark
+Activation = EndFrame
+800C6CB4 FFFF
+
+[Infinite Firefly]
+Type = Gameshark
+Activation = EndFrame
+800C6C98 FFFF
+
+[Infinite Starspell]
+Type = Gameshark
+Activation = EndFrame
+800C6C9C FFFF
+
+[Have Silver Key]
+Type = Gameshark
+Activation = EndFrame
+800C6CF0 018E
+
+[Have Red Key]
+Type = Gameshark
+Activation = EndFrame
+800C6CF4 018E
+
+[Have Gold Key]
+Type = Gameshark
+Activation = EndFrame
+800C6CEC 018E
+
+[Infinite Health Potion]
+Type = Gameshark
+Activation = EndFrame
+800C6CC4 FFFF
+
+[Infinite Antidote]
+Type = Gameshark
+Activation = EndFrame
+800C6CC8 FFFF
+
+[Infinite Strength]
+Type = Gameshark
+Activation = EndFrame
+800C6CCC FFFF
+
+[Infinite Speed]
+Type = Gameshark
+Activation = EndFrame
+800C6CD0 FFFF
+
+[Infinite Charm Of Icy Cool]
+Type = Gameshark
+Activation = EndFrame
+800C6CD4 FFFF
+
+[Infinite Warding]
+Type = Gameshark
+Activation = EndFrame
+800C6CD8 FFFF
+
+[Infinite Magic Charm]
+Type = Gameshark
+Activation = EndFrame
+800C6CDC FFFF
+
+[Infinite Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800C6CE0 FFFF
+
+[Infinite Flame Lance]
+Type = Gameshark
+Activation = EndFrame
+800C6C80 FFFF
+
+[Infinite Bombs]
+Type = Gameshark
+Activation = EndFrame
+800C6C7C FFFF
+
+[Infinite Firethrower]
+Type = Gameshark
+Activation = EndFrame
+800C6C78 FFFF
+
+[Infinite Grenade Launcher]
+Type = Gameshark
+Activation = EndFrame
+800C6C84 FFFF
+
+[Infinite Blunderbuss]
+Type = Gameshark
+Activation = EndFrame
+800C6C88 FFFF
+
+[Infinite Infernal Device]
+Type = Gameshark
+Activation = EndFrame
+800C6C8C FFFF
+
+[Have Magic Warhammer]
+Type = Gameshark
+Activation = EndFrame
+800C6C68 0106
+
+[Have Venom Sword]
+Type = Gameshark
+Activation = EndFrame
+800C6C64 0106
+
+[Have Silver Sword]
+Type = Gameshark
+Activation = EndFrame
+800C6C60 0106
+
+[Have Black Spirit Sword]
+Type = Gameshark
+Activation = EndFrame
+800C6C5C 0106
+
+[Have Red Sword]
+Type = Gameshark
+Activation = EndFrame
+800C6C58 0106
+
+[Have Warhammer]
+Type = Gameshark
+Activation = EndFrame
+800C6C50 0106
+
+[Infinite Gold]
+Type = Gameshark
+Activation = EndFrame
+801AFEFA FF1B
+
+[Male Health]
+Type = Gameshark
+Activation = EndFrame
+8019AB9E 0018
+
+[Female Health]
+Type = Gameshark
+Activation = EndFrame
+8019B3A2 0018
+
+[Faster FPS]
+Type = Gameshark
+Activation = EndFrame
+A7086ADC 00040001
+

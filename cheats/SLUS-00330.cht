@@ -1,0 +1,37 @@
+; CHTDB: ; [ Mortal Kombat Trilogy (USA, v1.0) (1996) (Midway Home Entertainment) {SLUS-00330} <mktrilgya> ]
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8003219E 00A6
+
+[P1 Always Has Full Aggressor]
+Type = Gameshark
+Activation = EndFrame
+80032698 00CC
+
+[All Treasure Open No Matter What Destiny You Pick]
+Type = Gameshark
+Activation = EndFrame
+8003363C 000B
+
+[P2 No Energy]
+Type = Gameshark
+Activation = EndFrame
+80032316 0000
+
+[Stage Select is ON]
+Type = Gameshark
+Activation = EndFrame
+8003C940 0001
+
+[Infinite Health P1 (Version 1.1)]
+Type = Gameshark
+Activation = EndFrame
+80032146 00A6
+
+[P1 Always Has Full Aggressor (Version 1.1)]
+Type = Gameshark
+Activation = EndFrame
+80032646 00CC
+

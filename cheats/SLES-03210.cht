@@ -1,0 +1,12 @@
+; CHTDB: ; [ The Hunter (Europe) (Pocket Price Midas) {SLES-03210} ]
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800CCE0E 0063
+
+[Max HP]
+Type = Gameshark
+Activation = EndFrame
+800CCE0F 0063
+

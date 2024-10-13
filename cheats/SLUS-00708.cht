@@ -1,0 +1,290 @@
+; CHTDB: ; [ Legacy of Kain - Soul Reaver (USA) (1999) (Eidos Interactive) {SLUS-00708} <kain2> ]
+
+[Select Weapon\Sword fighting style]
+Type = Gameshark
+Activation = EndFrame
+800D5664 000A
+
+[Select Weapon\Spear]
+Type = Gameshark
+Activation = EndFrame
+800D5664 0001
+
+[Select Weapon\Torch]
+Type = Gameshark
+Activation = EndFrame
+800D5664 0002
+
+[Select Weapon\Boulder (cant open doors)]
+Type = Gameshark
+Activation = EndFrame
+800D5664 0003
+
+[Select Weapon\Soul Reaver w/Blue Swipe]
+Type = Gameshark
+Activation = EndFrame
+800D5664 0004
+
+[Select Weapon\Soul Reaver no swipe]
+Type = Gameshark
+Activation = EndFrame
+800D5664 0005
+
+[Select Weapon\Never Lose Material Reaver]
+Type = Gameshark
+Activation = EndFrame
+800D5664 1000
+800D567C 0000
+801A7FFC 0101
+
+[Enemies Dont Attack You]
+Type = Gameshark
+Activation = EndFrame
+800D567E 0001
+
+[Select Reaver\Spectral(Cant shoot force projectile)]
+Type = Gameshark
+Activation = EndFrame
+801A8000 0000
+
+[Select Reaver\Spectral(Can shoot force projectile)]
+Type = Gameshark
+Activation = EndFrame
+801A8000 0001
+
+[Select Reaver\Material(Can shoot force projectile)]
+Type = Gameshark
+Activation = EndFrame
+801A8000 0002
+
+[Select Reaver\Aerial(Can shoot force projectile)]
+Type = Gameshark
+Activation = EndFrame
+801A8000 0003
+
+[Select Reaver\Material(Cant shoot force projectile)]
+Type = Gameshark
+Activation = EndFrame
+801A8000 0004
+
+[Select Reaver\Light?(Cant shoot force projectile)]
+Type = Gameshark
+Activation = EndFrame
+801A8000 0005
+
+[Select Reaver\Fire(Can shoot force projectile)]
+Type = Gameshark
+Activation = EndFrame
+801A8000 0006
+
+[Select Reaver\Kain(Can shoot force projectile)]
+Type = Gameshark
+Activation = EndFrame
+801A8000 0007
+
+[Select Reaver\Water?(Can shoot force projectile)]
+Type = Gameshark
+Activation = EndFrame
+801A8000 0008
+
+[Select Reaver\Bright Green?(Can shoot force projectile)]
+Type = Gameshark
+Activation = EndFrame
+801A8000 0009
+
+[Select Reaver\Light?(Can shoot force projectile)]
+Type = Gameshark
+Activation = EndFrame
+801A8000 000A
+
+[Select Reaver\Bright Green w/Dark Green Arm Electricity]
+Type = Gameshark
+Activation = EndFrame
+801A8000 000B
+
+[Gate Walking]
+Description = L1+L2=On R1+R2=Off
+Type = Gameshark
+Activation = EndFrame
+D00D1058 0500
+900D5284 800A87BC
+C00D1058 0A00
+800D1960 0000
+800D1964 0000
+00000000 FFFF
+
+[Infinite Health (Spirit Plain Only)]
+Type = Gameshark
+Activation = EndFrame
+900D5674 000186A0
+
+[Infinite Health (Material Plain Only)]
+Type = Gameshark
+Activation = EndFrame
+900D5674 0007A120
+
+[Infinite Health (Works With Max Stamina Level Code)]
+Type = Gameshark
+Activation = EndFrame
+D00D56B0 0002
+900D5674 000186A0
+D00D56B0 0001
+900D5674 0007A120
+
+[Always High Jump]
+Type = Gameshark
+Activation = EndFrame
+800D55D8 0020
+
+[Have All Forged + Special Abilities]
+Type = Gameshark
+Activation = EndFrame
+800D5680 FFBF
+
+[Have All Glyph Abilities]
+Type = Gameshark
+Activation = EndFrame
+800CFDBE 03FF
+800D5682 03FF
+
+[All 5 Emblem Pieces]
+Type = Gameshark
+Activation = EndFrame
+800D492A 0005
+800D492C 0005
+
+[Infinite Glyph Power]
+Type = Gameshark
+Activation = EndFrame
+900D5688 00630063
+
+[Max Stamina Level]
+Type = Gameshark
+Activation = EndFrame
+800D5670 0004
+
+[Shift Almost Anywhere]
+Type = Gameshark
+Activation = EndFrame
+800A5A7E 2400
+900B00C4 1000FFD0
+
+[Hyper Mode]
+Type = Gameshark
+Activation = EndFrame
+800D123E 0021
+
+[Skips Start Game Intro]
+Type = Gameshark
+Activation = EndFrame
+800CDD88 0000
+800D10E0 000A
+800D1150 0000
+900D1154 00000000
+800D2A78 0000
+
+[Walk Through Walls]
+Type = Gameshark
+Activation = EndFrame
+801A8190 762E
+801A8198 762E
+
+[Walk Through Walls]
+Description = When L3 Is Pressed - In Any Direction
+Type = Gameshark
+Activation = EndFrame
+C00D1080 1001
+801A8190 762E
+801A8198 762E
+00000000 FFFF
+C00D1080 1002
+801A8190 762E
+801A8198 762E
+00000000 FFFF
+C00D1080 1004
+801A8190 762E
+801A8198 762E
+00000000 FFFF
+C00D1080 1005
+801A8190 762E
+801A8198 762E
+00000000 FFFF
+C00D1080 1006
+801A8190 762E
+801A8198 762E
+00000000 FFFF
+C00D1080 1008
+801A8190 762E
+801A8198 762E
+00000000 FFFF
+C00D1080 1009
+801A8190 762E
+801A8198 762E
+00000000 FFFF
+C00D1080 100A
+801A8190 762E
+801A8198 762E
+00000000 FFFF
+
+[In-Game Cheats\Have All Abilities (Including Shift Anywhere)]
+Type = Gameshark
+Activation = EndFrame
+800CFDBC FFFF
+
+[In-Game Cheats\Have All Glyphs]
+Type = Gameshark
+Activation = EndFrame
+800CFDC6 03FF
+
+[In-Game Cheats\Have Kain Reaver]
+Type = Gameshark
+Activation = EndFrame
+800CFDC2 0001
+
+[In-Game Cheats\Have Unknown Purple Reaver]
+Type = Gameshark
+Activation = EndFrame
+800CFDC2 0002
+
+[In-Game Cheats\Have Spectral Reaver]
+Type = Gameshark
+Activation = EndFrame
+800CFDC0 0400
+
+[In-Game Cheats\Have Material Reaver]
+Type = Gameshark
+Activation = EndFrame
+800CFDC0 0800
+
+[In-Game Cheats\Have Aerial Reaver]
+Type = Gameshark
+Activation = EndFrame
+800CFDC0 1000
+
+[In-Game Cheats\Have Fire Reaver]
+Type = Gameshark
+Activation = EndFrame
+800CFDC0 8000
+
+[In-Game Cheats\Moon Jump]
+Type = Gameshark
+Activation = EndFrame
+D00D1080 0080
+801F418C 0090
+
+[In-Game Cheats\All Portals Open]
+Type = Gameshark
+Activation = EndFrame
+800D198A 0009
+800D1A0A 0009
+800D1A4A 0009
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+8003A374 0C00
+8003A384 0034
+8003A386 AFA0
+8003A388 1000
+8003A38A 2403
+

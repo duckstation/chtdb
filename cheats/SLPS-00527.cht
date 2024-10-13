@@ -1,0 +1,12 @@
+; CHTDB: ; [ Choujin Gakuen Gowcaizer (Jpn) (1997) (Urban Plant) {SLPS-00527} <gowcaizr> ]
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8001200C 0140
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80012002 0063
+

@@ -1,0 +1,23 @@
+; CHTDB: ; [ Mortal Kombat 4 (Europe) {SLES-01349} ]
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800AAEC0 FFFF
+
+[Unlock all movies]
+Type = Gameshark
+Activation = EndFrame
+50000F01 0000
+300D9B7C 0001
+
+[P1 Play as Meat]
+Type = Gameshark
+Activation = EndFrame
+800AAF54 0001
+
+[1 round to win]
+Type = Gameshark
+Activation = EndFrame
+800D8BBC 0001
+

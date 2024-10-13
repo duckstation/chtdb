@@ -1,0 +1,8 @@
+; CHTDB: ; [ Simple 1500 Series Vol. 47: The Skateboard (Japan) {SLPS-03037} ]
+
+[99999 points will be a successful one trick]
+Type = Gameshark
+Activation = EndFrame
+D007C6B2 1080
+8007C6B0 0000
+

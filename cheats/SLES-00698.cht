@@ -1,0 +1,22 @@
+; CHTDB: ; [ Little Big Adventure (Europe) {SLES-00698} ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800B5B00 0032
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+300A61A8 00FF
+
+[Infinite Keys]
+Type = Gameshark
+Activation = EndFrame
+800A7AB4 0001
+
+[Infinite Magic]
+Type = Gameshark
+Activation = EndFrame
+800E388C 0014
+

@@ -1,0 +1,12 @@
+; CHTDB: ; [ Blaster Master: Blasting Again (Europe) {SLES-02273} ]
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800F83A5 1000
+
+[Infinite HP Alt 1]
+Type = Gameshark
+Activation = EndFrame
+300F83A5 00FF
+

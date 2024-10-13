@@ -1,0 +1,23 @@
+; CHTDB: ; [ Army Men - Sarge's Heroes 2 (USA) (2000) (The 3DO Company) {SLUS-01202} <amensar2> ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80127ACC 0001
+
+[All Levels Unlocked]
+Type = Gameshark
+Activation = EndFrame
+80127B28 0002
+80127B2C 0004
+
+[Have All Weapons + Ammo]
+Type = Gameshark
+Activation = EndFrame
+50001002 0000
+8013672A FFFF
+50000D04 0000
+80136750 0001
+80136788 0001
+8013678C 0001
+

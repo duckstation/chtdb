@@ -1,0 +1,136 @@
+; CHTDB: ; [ Guardian's Crusade (Germany) {SLES-01800} ]
+
+[Max Rubine]
+Type = Gameshark
+Activation = EndFrame
+901B595C 0098967F
+
+[Unendlich Tp]
+Type = Gameshark
+Activation = EndFrame
+801CDC1C FFFF
+
+[Unendlich Pp]
+Type = Gameshark
+Activation = EndFrame
+801CDC1E FFFF
+
+[Max Tp]
+Type = Gameshark
+Activation = EndFrame
+801CDC20 FFFF
+
+[Max Pp]
+Type = Gameshark
+Activation = EndFrame
+801CDC22 FFFF
+
+[HöChster Level]
+Type = Gameshark
+Activation = EndFrame
+801CDC24 FFFF
+
+[Max Fitness]
+Type = Gameshark
+Activation = EndFrame
+801CDC26 FFFF
+
+[Max StäRke]
+Type = Gameshark
+Activation = EndFrame
+801CDC28 FFFF
+
+[Max Energie]
+Type = Gameshark
+Activation = EndFrame
+801CDC2A FFFF
+
+[GlüCk = Super]
+Type = Gameshark
+Activation = EndFrame
+801CDC2E FFFF
+
+[Max Erfahrung]
+Type = Gameshark
+Activation = EndFrame
+901CDC34 0098CA00
+
+[Besitze StäRkstes Schwert]
+Type = Gameshark
+Activation = EndFrame
+301B5851 0042
+
+[Besitze StäRkste RüStung]
+Type = Gameshark
+Activation = EndFrame
+301B5853 0078
+
+[Besitze StäRksten Helm]
+Type = Gameshark
+Activation = EndFrame
+301B5855 007C
+
+[Besitze StäRkstes Schild]
+Type = Gameshark
+Activation = EndFrame
+301B5857 00A3
+
+[Besitze Gesamten Plunder]
+Type = Gameshark
+Activation = EndFrame
+50001E02 0001
+301B585D 00B8
+
+[Besitze Gesamtes Inventar]
+Type = Gameshark
+Activation = EndFrame
+50000E02 0001
+301B5835 0004
+
+[Baby-Codes\Unendlich Tp]
+Type = Gameshark
+Activation = EndFrame
+801CDC44 FFFF
+
+[Baby-Codes\Max Tp]
+Type = Gameshark
+Activation = EndFrame
+801CDC48 FFFF
+
+[Baby-Codes\HöChster Level]
+Type = Gameshark
+Activation = EndFrame
+801CDC4C FFFF
+
+[Baby-Codes\Max Fitness]
+Type = Gameshark
+Activation = EndFrame
+801CDC4E FFFF
+
+[Baby-Codes\Max StäRke]
+Type = Gameshark
+Activation = EndFrame
+801CDC50 FFFF
+
+[Baby-Codes\Max Energie]
+Type = Gameshark
+Activation = EndFrame
+801CDC52 FFFF
+
+[Baby-Codes\GlüCk = Super]
+Type = Gameshark
+Activation = EndFrame
+801CDC56 FFFF
+
+[Baby-Codes\Max Erfahrung]
+Type = Gameshark
+Activation = EndFrame
+901CDC5C 0098CA00
+
+[Baby-Codes\Besitze Gesamtes Inventory Drücke L1+R2]
+Type = Gameshark
+Activation = EndFrame
+D0147EC0 011C
+5000BA01 0000
+301B5441 00FF
+

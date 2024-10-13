@@ -1,0 +1,247 @@
+; CHTDB: ; [ Final Fantasy VII (Europe) {SCES-00867 | SCES-10867 | SCES-20867} ]
+
+[Save Anywhere]
+Type = Gameshark
+Activation = EndFrame
+8009D172 0000
+
+[Max Money]
+Type = Gameshark
+Activation = EndFrame
+9009D12C 00FFFFFF
+
+[Exp. After Battle]
+Type = Gameshark
+Activation = EndFrame
+9009D6A4 00FFFFFF
+
+[AP After Battle]
+Type = Gameshark
+Activation = EndFrame
+9009D6A8 0000C350
+
+[Cloud\All Limit Breaks]
+Type = Gameshark
+Activation = EndFrame
+8009C626 0FFF
+
+[Cloud\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+8009C630 270F
+
+[Cloud\Max HP]
+Type = Gameshark
+Activation = EndFrame
+8009C632 270F
+
+[Cloud\Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+8009C634 03E7
+
+[Cloud\Max MP]
+Type = Gameshark
+Activation = EndFrame
+8009C636 03E7
+
+[Barret\All Limit Breaks]
+Type = Gameshark
+Activation = EndFrame
+8009C6AA 0FFF
+
+[Barret\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+8009C6B4 270F
+
+[Barret\Max HP]
+Type = Gameshark
+Activation = EndFrame
+8009C6B6 270F
+
+[Barret\Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+8009C6B8 03E7
+
+[Barret\Max MP]
+Type = Gameshark
+Activation = EndFrame
+8009C6BA 03E7
+
+[Tifa\All Limit Breaks]
+Type = Gameshark
+Activation = EndFrame
+8009C72E 0FFF
+
+[Tifa\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+8009C738 270F
+
+[Tifa\Max HP]
+Type = Gameshark
+Activation = EndFrame
+8009C73A 270F
+
+[Tifa\Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+8009C73C 03E7
+
+[Tifa\Max MP]
+Type = Gameshark
+Activation = EndFrame
+8009C73E 03E7
+
+[Aeris\All Limit Breaks]
+Type = Gameshark
+Activation = EndFrame
+8009C7B2 0FFF
+
+[Aeris\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+8009C7BC 270F
+
+[Aeris\Max HP]
+Type = Gameshark
+Activation = EndFrame
+8009C7BE 270F
+
+[Aeris\Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+8009C7C0 03E7
+
+[Aeris\Max MP]
+Type = Gameshark
+Activation = EndFrame
+8009C7C2 03E7
+
+[Red XIII\All Limit Breaks]
+Type = Gameshark
+Activation = EndFrame
+8009C834 0FFF
+
+[Red XIII\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+8009C840 270F
+
+[Red XIII\Max HP]
+Type = Gameshark
+Activation = EndFrame
+8009C842 270F
+
+[Red XIII\Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+8009C844 03E7
+
+[Red XIII\Max MP]
+Type = Gameshark
+Activation = EndFrame
+8009C846 03E7
+
+[Yuffie\All Limit Breaks]
+Type = Gameshark
+Activation = EndFrame
+8009C8BA 0FFF
+
+[Yuffie\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+8009C8C4 270F
+
+[Yuffie\Max HP]
+Type = Gameshark
+Activation = EndFrame
+8009C8C6 270F
+
+[Yuffie\Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+8009C8C8 03E7
+
+[Yuffie\Max MP]
+Type = Gameshark
+Activation = EndFrame
+8009C8CA 03E7
+
+[Cait Sith\All Limit Breaks]
+Type = Gameshark
+Activation = EndFrame
+8009C93E 0FFF
+
+[Cait Sith\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+8009C948 270F
+
+[Cait Sith\Max HP]
+Type = Gameshark
+Activation = EndFrame
+8009C94A 270F
+
+[Cait Sith\Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+8009C94C 03E7
+
+[Cait Sith\Max MP]
+Type = Gameshark
+Activation = EndFrame
+8009C94E 03E7
+
+[Vincent\All Limit Breaks]
+Type = Gameshark
+Activation = EndFrame
+8009C9C2 0FFF
+
+[Vincent\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+8009C9CC 270F
+
+[Vincent\Max HP]
+Type = Gameshark
+Activation = EndFrame
+8009C9CE 270F
+
+[Vincent\Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+8009C9D0 03E7
+
+[Vincent\Max MP]
+Type = Gameshark
+Activation = EndFrame
+8009C9D2 03E7
+
+[Cid\All Limit Breaks]
+Type = Gameshark
+Activation = EndFrame
+8009CA46 0FFF
+
+[Cid\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+8009CA50 270F
+
+[Cid\Max HP]
+Type = Gameshark
+Activation = EndFrame
+8009CA52 270F
+
+[Cid\Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+8009CA54 03E7
+
+[Cid\Max MP]
+Type = Gameshark
+Activation = EndFrame
+8009CA56 03E7
+

@@ -1,0 +1,23 @@
+; CHTDB: ; [ Nya Nyan ga Nyan - Light Fantasy Gaiden (Jpn) (1999) (Tonkin House) {SLPS-02336} <nyanyan> ]
+
+[Infinite Healing Gold items]
+Type = Gameshark
+Activation = EndFrame
+800C2178 0063
+
+[Infinite Money 60000]
+Type = Gameshark
+Activation = EndFrame
+800C1E18 EA60
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8013F83C 0D48
+
+[Encounter rate decrease]
+Type = Gameshark
+Activation = EndFrame
+80099754 0000
+900B4EC8 00000000
+

@@ -1,0 +1,57 @@
+; CHTDB: ; [ Disney Pato Donald: Cuac Attack (Spain) {SLES-03099} ]
+
+[99 Stars]
+Type = Gameshark
+Activation = EndFrame
+800AA88E 0063
+
+[99 Lives]
+Type = Gameshark
+Activation = EndFrame
+800AA88C 0063
+
+[Forest Edge Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800AA88C 0009
+
+[Dangerous Cliffs Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800A7284 0009
+
+[Hueys Track Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800A2CB8 0009
+
+[The Gorge Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800A2D5C 0009
+
+[Bernadettes Peak Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8009AC40 0009
+
+[First Avenue Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800A6D64 0009
+
+[The Roofs Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800A33FC 0009
+
+[Deweys Rooftops Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800A093C 0009
+
+[Urban High Rises Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800A4370 0009
+

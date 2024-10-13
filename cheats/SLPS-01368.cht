@@ -1,0 +1,87 @@
+; CHTDB: ; [ Chou Mashin Eiyuuden Wataru: Another Step (Japan) {SLPS-01368} ]
+
+[Infinite HP character 1]
+Type = Gameshark
+Activation = EndFrame
+900BF924 03E703E7
+
+[Infinite MP character 1]
+Type = Gameshark
+Activation = EndFrame
+901015B4 03E703E7
+
+[Infinite HP character 2]
+Type = Gameshark
+Activation = EndFrame
+900BF990 03E703E7
+
+[Infinite HP character 3]
+Type = Gameshark
+Activation = EndFrame
+900BF9FC 03E703E7
+
+[Infinite Energy robot]
+Type = Gameshark
+Activation = EndFrame
+900BEBA4 03E703E7
+
+[HP Robot Battle / enemy 0]
+Type = Gameshark
+Activation = EndFrame
+800BEF04 0000
+
+[Gold-999999]
+Type = Gameshark
+Activation = EndFrame
+9009C8B4 000F423F
+
+[The Genie Battle added IQ and Battle in configuration]
+Type = Gameshark
+Activation = EndFrame
+3009C681 0001
+
+[It is not the battle even hit the enemy]
+Type = Gameshark
+Activation = EndFrame
+3009C8B2 0001
+
+[Select Story Number\2]
+Type = Gameshark
+Activation = EndFrame
+3009C90C 0002
+
+[Select Story Number\3]
+Type = Gameshark
+Activation = EndFrame
+3009C90C 0003
+
+[Select Story Number\4]
+Type = Gameshark
+Activation = EndFrame
+3009C90C 0004
+
+[Select Story Number\5]
+Type = Gameshark
+Activation = EndFrame
+3009C90C 0005
+
+[Select Story Number\6]
+Type = Gameshark
+Activation = EndFrame
+3009C90C 0006
+
+[Select Story Number\7]
+Type = Gameshark
+Activation = EndFrame
+3009C90C 0007
+
+[Select Story Number\8]
+Type = Gameshark
+Activation = EndFrame
+3009C90C 0008
+
+[Select Story Number\9]
+Type = Gameshark
+Activation = EndFrame
+3009C90C 0009
+

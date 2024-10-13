@@ -1,0 +1,19 @@
+; CHTDB: ; [ Hydro Thunder (Europe) {SLES-02337} ]
+
+[Always place first]
+Type = Gameshark
+Activation = EndFrame
+8009EBC0 0001
+
+[Max cash]
+Type = Gameshark
+Activation = EndFrame
+800974C8 FFFF
+
+[Unlock all tracks & boats]
+Type = Gameshark
+Activation = EndFrame
+50000602 0000
+800A30A4 0000
+300A30B0 0000
+

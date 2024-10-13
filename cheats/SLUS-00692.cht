@@ -1,0 +1,67 @@
+; CHTDB: ; [ S.C.A.R.S. (USA) (1998) (Ubi Soft Entertainment Software) {SLUS-00692} <scars> ]
+
+[Enable Crystal Cup]
+Type = Gameshark
+Activation = EndFrame
+801295D0 0001
+
+[Enable Diamond Cup]
+Type = Gameshark
+Activation = EndFrame
+801295D2 0001
+
+[Enable Zenith Cup + Mirror Mode]
+Type = Gameshark
+Activation = EndFrame
+801295D4 0001
+
+[Enable All Tracks]
+Type = Gameshark
+Activation = EndFrame
+801295D6 0001
+
+[Enable Challenge Mode]
+Type = Gameshark
+Activation = EndFrame
+801F58D4 0001
+
+[Enable Cobra Challenge]
+Type = Gameshark
+Activation = EndFrame
+801F58D6 0001
+
+[Enable Cheetah Challenge]
+Type = Gameshark
+Activation = EndFrame
+801F58D8 0001
+
+[Enable Panther Challenge]
+Type = Gameshark
+Activation = EndFrame
+801F58DA 0001
+
+[Enable Super Challenge]
+Type = Gameshark
+Activation = EndFrame
+801F58DC 0001
+
+[Enable Scorpion Car]
+Type = Gameshark
+Activation = EndFrame
+801F72FA 0001
+
+[Enable Cobra Car]
+Type = Gameshark
+Activation = EndFrame
+801F72FC 0001
+
+[Enable Cheetah Car]
+Type = Gameshark
+Activation = EndFrame
+801F72FE 0001
+
+[Enable Panther Car]
+Type = Gameshark
+Activation = EndFrame
+801F7300 0001
+

@@ -1,0 +1,39 @@
+; CHTDB: ; [ Firo & Klawd (Germany) {SLES-00253} ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+9003EEC0 00000000
+
+[Time frozen]
+Type = Gameshark
+Activation = EndFrame
+800B203C 2900
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+300B6760 0003
+
+[Firo All weapons]
+Type = Gameshark
+Activation = EndFrame
+50000402 0000
+800D9316 3232
+
+[Klawd All weapons]
+Type = Gameshark
+Activation = EndFrame
+50000402 0000
+800BE2D8 3232
+
+[Firo Bulletproof waistcoat]
+Type = Gameshark
+Activation = EndFrame
+300D9364 0001
+
+[Klawd Bulletproof waistcoat]
+Type = Gameshark
+Activation = EndFrame
+300BE324 0001
+

@@ -1,0 +1,20 @@
+; CHTDB: ; [ Motorhead (Europe) {SLES-00556} ]
+
+[Difficulty is Always Easy]
+Type = Gameshark
+Activation = EndFrame
+801A8388 0000
+
+[Finish 1st and unlock all cars and tracks]
+Type = Gameshark
+Activation = EndFrame
+800CAB48 0001
+800CBC88 0001
+800C5588 0001
+800DAC68 0001
+800C3DD0 0001
+800D94B0 0001
+800D0CA8 0001
+800C5FC0 0001
+8013C650 0001
+

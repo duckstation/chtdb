@@ -1,0 +1,30 @@
+; CHTDB: ; [ Adiboo & Paziral's Secret (Europe) {SLES-04108} ]
+
+[Infinite Energy Aeroplane]
+Type = Gameshark
+Activation = EndFrame
+8017C906 0064
+801837C1 0C00
+801837C2 000C
+801E7BA8 0064
+
+[Have 40 feathers in Aeroplane level]
+Type = Gameshark
+Activation = EndFrame
+8017C9FE 0028
+
+[Have 220 bonus in Roofs level]
+Type = Gameshark
+Activation = EndFrame
+801C9A4E 00DC
+
+[Have 5 robots defeated in Woods Level]
+Type = Gameshark
+Activation = EndFrame
+801D5ED6 0005
+
+[have 151 Bonus in Woods Level]
+Type = Gameshark
+Activation = EndFrame
+801D5FC6 0097
+

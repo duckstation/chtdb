@@ -1,0 +1,19 @@
+; CHTDB: ; [ Kindaichi Shounen no Jikenbo: Hihoutou Aratanaru Sangeki (Japan) {SLPS-00601} ]
+
+[Item (Use To Find Kutsuhimo)]
+Type = Gameshark
+Activation = EndFrame
+801002BE 000B
+901002C0 06050301
+901002C4 0A090807
+801002C8 0C0B
+
+[Add Character Data]
+Type = Gameshark
+Activation = EndFrame
+801002CE 0101
+901002D0 01010101
+901002D4 01010101
+901002D8 01010101
+901002DC 01010101
+

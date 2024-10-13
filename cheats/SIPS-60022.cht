@@ -1,0 +1,14 @@
+; CHTDB: ; [ Rally Cross (Japan) {SIPS-60022} ]
+
+[Freeze time 1P]
+Type = Gameshark
+Activation = EndFrame
+80066EA4 0000
+
+[CPU does not increase the current number of laps]
+Type = Gameshark
+Activation = EndFrame
+30066F0E 0000
+30066F7E 0000
+30066FEE 0000
+

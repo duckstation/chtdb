@@ -1,0 +1,41 @@
+; CHTDB: ; [ Jeremy McGrath Supercross 98 (USA) (1998) (Acclaim Entertainment) {SLUS-00479} <jmg98> ]
+
+[Unlock All Tracks]
+Type = Gameshark
+Activation = EndFrame
+80077068 0009
+
+[Enable Reverse Mode]
+Type = Gameshark
+Activation = EndFrame
+80077062 0100
+
+[Press L2 For Hidden 80Cc Blue Bike]
+Type = Gameshark
+Activation = EndFrame
+D0088402 0100
+80076F18 0000
+
+[Press L1 To Make Your Curent Lap Your Last\3 Lap Races]
+Type = Gameshark
+Activation = EndFrame
+D0088402 0001
+80088A28 0102
+
+[Press L1 To Make Your Curent Lap Your Last\4 Lap Races]
+Type = Gameshark
+Activation = EndFrame
+D0088402 0001
+80088A28 0103
+
+[Press L1 To Make Your Curent Lap Your Last\5 Lap Races]
+Type = Gameshark
+Activation = EndFrame
+D0088402 0001
+80088A28 0104
+
+[Press L1 To Make Your Curent Lap Your Last\Enable Cheat Menu]
+Type = Gameshark
+Activation = EndFrame
+80076C1A 0001
+

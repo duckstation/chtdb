@@ -1,0 +1,90 @@
+; CHTDB: ; [ Vandal Hearts II (Europe) {SLES-02469} ]
+
+[All Characters	Can always move]
+Type = Gameshark
+Activation = EndFrame
+50001480 0000
+801E68C0 0000
+
+[Level 99]
+Type = Gameshark
+Activation = EndFrame
+50001480 0000
+801E68C4 0063
+
+[All Characters	EXP 99 (Press Start)]
+Type = Gameshark
+Activation = EndFrame
+D01F7158 F7FF
+50001480 0000
+801E68C6 0063
+
+[All Characters	Max Max Hp]
+Type = Gameshark
+Activation = EndFrame
+50001480 0000
+801E68DA 03E7
+
+[All Characters	Max Hp]
+Type = Gameshark
+Activation = EndFrame
+50001480 0000
+801E68D4 03E7
+
+[All Characters Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+50001480 0000
+801E68D6 03E7
+
+[All Characters	Max Max Mp]
+Type = Gameshark
+Activation = EndFrame
+50001480 0000
+801E68E2 03E7
+
+[All Characters	Max Mp]
+Type = Gameshark
+Activation = EndFrame
+50001480 0000
+801E68DC 03E7
+
+[All Characters	Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+50001480 0000
+801E68DE 03E7
+
+[All weapon infinite in shop]
+Type = Gameshark
+Activation = EndFrame
+301DE6F5 0009
+50007002 0000
+801DE6F6 0909
+
+[SuddenDeath ON - Invincibility OFF]
+Description = Works for both parties, so use it just when you're sure you will hit the enemy.(Press L1 & L2)
+Type = Gameshark
+Activation = EndFrame
+D0007572 FAFF
+80049030 0000
+D0007572 FAFF
+80049032 3402
+D0007572 FAFF
+80049038 0026
+D0007572 FAFF
+8004903A A662
+
+[SuddenDeath OFF - Invincibility ON]
+Description = Works for both parties, so use it just when you're sure you will hit the enemy.(Press R1 & R2)
+Type = Gameshark
+Activation = EndFrame
+D0007572 F5FF
+80049030 1023
+D0007572 F5FF
+80049032 0050
+D0007572 F5FF
+80049038 0000
+D0007572 F5FF
+8004903A 0000
+

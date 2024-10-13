@@ -1,0 +1,22 @@
+; CHTDB: ; [ Star Ixiom (Japan) {SLPS-01680} ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800E0950 FFFF
+
+[Infinite Shield]
+Type = Gameshark
+Activation = EndFrame
+800E6344 FFFF
+
+[Infinite Sub Weapon]
+Type = Gameshark
+Activation = EndFrame
+800E095C 03E7
+
+[Infinite Proton]
+Type = Gameshark
+Activation = EndFrame
+800E0962 0010
+

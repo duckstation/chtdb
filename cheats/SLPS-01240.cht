@@ -1,0 +1,49 @@
+; CHTDB: ; [ Shiritsu Justice Gakuen - Legion of Heroes (Jpn) (1998) (Capcom) {SLPS-01240~SLPS-01241} <jgakuen> ]
+
+[All Classmate Become Friendly (Press up + triangle) Evolution Disk]
+Type = Gameshark
+Activation = EndFrame
+C01F60A0 1010
+901F18A8 1F1F1F1F
+901F18AC 1F1F1F1F
+901F18B0 1F1F1F1F
+901F18B4 1F1F1F1F
+801F18B8 1F1F
+00000000 FFFF
+
+[Infinite Time For Practice + Exam Evolution Disk]
+Type = Gameshark
+Activation = EndFrame
+A61F1F54 00010000
+
+[Max All Status in School Life (Press Select) Evolution Disk]
+Type = Gameshark
+Activation = EndFrame
+C01F60A0 0100
+801F181E 0200
+801F1820 0200
+901F1824 02000200
+801F182A 0200
+801F182C 0200
+901F1830 02000200
+801F1836 0200
+801F1838 0200
+901F183C 02000200
+801F1842 0200
+801F1848 0200
+00000000 FFFF
+
+[Only Play One Part Can Finish Exam Evolution Disk]
+Type = Gameshark
+Activation = EndFrame
+801F1F14 0A00
+
+[Evolution DISC for When you open the use status in the hot-blooded youth diary Friendship degree of all MAX]
+Type = Gameshark
+Activation = EndFrame
+C00A4D44 0018
+900A4E30 2403001F
+900A4E38 A02318A8
+800A4E3C 000B
+00000000 FFFF
+

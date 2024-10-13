@@ -1,0 +1,53 @@
+; CHTDB: ; [ Dance Dance Revolution - Extra Mix (Jpn) (2001) (Konami) {SLPM-86831 (VX244-J1)} <ddrextm> ]
+
+[P1 Score Modifier]
+Type = Gameshark
+Activation = EndFrame
+800C234C 270F
+
+[P1 Maximum Score]
+Type = Gameshark
+Activation = EndFrame
+900C234C 3B9AC9FF
+
+[P1 Full Dance Bar]
+Type = Gameshark
+Activation = EndFrame
+800C2342 07FF
+
+[P2 Full Dance Bar]
+Type = Gameshark
+Activation = EndFrame
+800C35A6 07FF
+
+[P1 Max Kcal]
+Type = Gameshark
+Activation = EndFrame
+900C2358 3B9AC9FF
+
+[All Challenges Clear]
+Type = Gameshark
+Activation = EndFrame
+50000802 0000
+800E65D0 FFFF
+
+[All Lessons Clear]
+Type = Gameshark
+Activation = EndFrame
+50000C02 0000
+800E6350 0202
+
+[Unlock All Extras]
+Type = Gameshark
+Activation = EndFrame
+800E4E30 01FF
+300E4E34 0003
+300E4E9C 003F
+50001E04 0000
+800E6370 FFFF
+
+[Emi Has No Hat]
+Type = Gameshark
+Activation = EndFrame
+800B3E34 0001
+

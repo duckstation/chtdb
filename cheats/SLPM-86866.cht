@@ -1,0 +1,12 @@
+; CHTDB: ; [ Simple 1500 Series Hello Kitty vol.01 - Hello Kitty Bowling (Jpn) (2001) (D3 Publisher) {SLPM-86866} <shkv1bwl> ]
+
+[P1 Always Bowls 300]
+Type = Gameshark
+Activation = EndFrame
+80195E1C 012C
+
+[Infinite Tries In Story Mode]
+Type = Gameshark
+Activation = EndFrame
+80195E28 0002
+

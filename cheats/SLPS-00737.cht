@@ -1,0 +1,19 @@
+; CHTDB: ; [ Magical Hoppers (Japan) {SLPS-00737} ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800934EE 0002
+
+[All stages]
+Type = Gameshark
+Activation = EndFrame
+30097766 0014
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+8003B80A 1000
+8003B86E 1000
+800416FA 1000
+

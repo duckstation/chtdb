@@ -1,0 +1,54 @@
+; CHTDB: ; [ Gex: Deep Cover Gecko (Europe) {SLES-01908} ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80073E52 2400
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800AB88C 0063
+
+[Infinite Air]
+Type = Gameshark
+Activation = EndFrame
+8007C096 2400
+
+[99 Flies]
+Type = Gameshark
+Activation = EndFrame
+800AB894 0063
+
+[99 Paws]
+Type = Gameshark
+Activation = EndFrame
+800AB898 0063
+
+[99 Bonus-Coins]
+Type = Gameshark
+Activation = EndFrame
+800AB89C 0063
+
+[99 Remotes]
+Type = Gameshark
+Activation = EndFrame
+800AB8A0 0063
+
+[Have All Remotes]
+Type = Gameshark
+Activation = EndFrame
+50000B01 0000
+300AB86C 000F
+300AB883 000A
+50000301 0000
+300AB884 0002
+
+[Have All Gold Coins]
+Type = Gameshark
+Activation = EndFrame
+50000B02 0000
+800AB8E8 000E
+50000402 0000
+800AB916 000E
+

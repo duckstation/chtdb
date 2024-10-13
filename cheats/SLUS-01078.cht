@@ -1,0 +1,37 @@
+; CHTDB: ; [ Striker Pro 2000 (USA) (2000) (Infogrames) {SLUS-01078} <stkpro2k> ]
+
+[Select Away Team Score\9]
+Type = Gameshark
+Activation = EndFrame
+800C89A8 0009
+
+[Select Away Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+800C89A8 0000
+
+[Select Home Team Score\9]
+Type = Gameshark
+Activation = EndFrame
+800C89A4 0009
+
+[Select Home Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+800C89A4 0000
+
+[Have Ability To Change Body Looks At Enter Code Screen]
+Type = Gameshark
+Activation = EndFrame
+300B91C0 0001
+
+[Pass All Certifications]
+Type = Gameshark
+Activation = EndFrame
+800B9074 000A
+
+[Unlock Hidden Stadiums]
+Type = Gameshark
+Activation = EndFrame
+30016C38 0001
+

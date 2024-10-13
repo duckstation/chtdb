@@ -1,0 +1,12 @@
+; CHTDB: ; [ International Moto X (Europe) {SLES-00099} ]
+
+[Have 9999 money]
+Type = Gameshark
+Activation = EndFrame
+800D853C 270F
+
+[Have 999 points in Championship mode]
+Type = Gameshark
+Activation = EndFrame
+800D8540 03E7
+

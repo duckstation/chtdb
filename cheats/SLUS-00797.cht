@@ -1,0 +1,154 @@
+; CHTDB: ; [ R4 - Ridge Racer Type 4 (USA) (1999) (Namco Hometek) {SLUS-00797, SLUS-90049} <rr4> ]
+
+[Unlock Extra Trial]
+Type = Gameshark
+Activation = EndFrame
+800F3B24 0001
+
+[Complete Extra Trial]
+Type = Gameshark
+Activation = EndFrame
+900F3B2C 01010101
+
+[Unlock All Team DRT Cars]
+Type = Gameshark
+Activation = EndFrame
+900F3AE0 FFFFFFFF
+900F3AE4 FFFFFFFF
+900F3AE8 FFFFFFFF
+900F3AEC FFFFFFFF
+
+[Unlock All Team MMM Cars]
+Type = Gameshark
+Activation = EndFrame
+900F3AF0 FFFFFFFF
+900F3AF4 FFFFFFFF
+900F3AF8 FFFFFFFF
+900F3AFC FFFFFFFF
+
+[Unlock All Team PRC Cars]
+Type = Gameshark
+Activation = EndFrame
+900F3B00 FFFFFFFF
+900F3B04 FFFFFFFF
+900F3B08 FFFFFFFF
+900F3B0C FFFFFFFF
+
+[Unlock All Team Solvalou Cars]
+Type = Gameshark
+Activation = EndFrame
+900F3B10 FFFFFFFF
+900F3B14 FFFFFFFF
+900F3B18 FFFFFFFF
+900F3B1C FFFFFFFF
+
+[All Tracks Unlocked]
+Type = Gameshark
+Activation = EndFrame
+800F3ADC FFFF
+300F3B24 0001
+800F3B28 0101
+800F3B2C 0101
+
+[Infinite Tries]
+Type = Gameshark
+Activation = EndFrame
+800AD698 0303
+
+[Speed Max]
+Type = Gameshark
+Activation = EndFrame
+D00F3BEA 0100
+800AC288 0E47
+
+[Have All Cars]
+Type = Gameshark
+Activation = EndFrame
+50002002 0000
+800F3AE0 FFFF
+
+[Lap 1 is 0.00.00]
+Type = Gameshark
+Activation = EndFrame
+800F4D58 0000
+
+[Lap 2 is 0.00.00]
+Type = Gameshark
+Activation = EndFrame
+800F4D5C 0000
+
+[Lap 3 is 0.00.00]
+Type = Gameshark
+Activation = EndFrame
+800F4D60 0000
+
+[Lap 4 is 0.00.00]
+Type = Gameshark
+Activation = EndFrame
+800F4D64 0000
+
+[Lap 5 is 0.00.00]
+Type = Gameshark
+Activation = EndFrame
+800F4D68 0000
+
+[Lap 6 is 0.00.00]
+Type = Gameshark
+Activation = EndFrame
+800F4D6C 0000
+
+[Unlock All Decals]
+Type = Gameshark
+Activation = EndFrame
+900F3B28 01010101
+
+[Start On Last Race Of Season With this code, press L1 at the yellow screen that tells you the heat. You will still race on first track but the code tricks the game into thinking you are on the last race so just come in first + win the Season.]
+Type = Gameshark
+Activation = EndFrame
+D00F3BEA 0004
+800AD6A6 0700
+
+[CPU Difficulty Easy]
+Type = Gameshark
+Activation = EndFrame
+300AD6D8 0001
+
+[Use Older Analog (Non-Dual Shock) Analog Controllers In Analog Mode]
+Type = Gameshark
+Activation = EndFrame
+8004C276 2400
+8004C282 2400
+9009A738 0C07C000
+901F0000 3C018011
+901F0004 30660020
+901F0008 10C00002
+801F000E 2400
+901F0010 24210028
+901F0014 9024C2D7
+801F001A 2400
+901F001C 1080000C
+901F0020 240600E3
+901F0024 9024C2D6
+901F0028 A026C2D1
+901F002C 2C860086
+901F0030 10C00005
+901F0034 2484FF80
+901F0038 2886FFF9
+901F003C 14C00002
+801F0042 2400
+901F0044 24040000
+901F0048 3084FFFF
+901F004C AC24C2D4
+901F0050 03E00008
+
+[Always 1st/Drive Thru Cars (Press Select) You will only race for half a lap or so and you must activate it before the cars in front of you ent...]
+Type = Gameshark
+Activation = EndFrame
+D00F3BEA 0100
+800AC236 0003
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+A706E458 10000E00
+

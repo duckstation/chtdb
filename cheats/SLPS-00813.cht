@@ -1,0 +1,137 @@
+; CHTDB: ; [ Daibouken Deluxe - Harukanaru Umi (Jpn) (1997) (Soft Office) {SLPS-00813} <daibokdx> ]
+
+[Infinite HP Ship In Battle]
+Type = Gameshark
+Activation = EndFrame
+801EAF58 270F
+
+[Infinite Ship Cannon Balls]
+Type = Gameshark
+Activation = EndFrame
+801EC87C 270F
+
+[Infinite Money (60000)]
+Type = Gameshark
+Activation = EndFrame
+8005027C EA60
+
+[Infinite Energy In Battle Character 1]
+Type = Gameshark
+Activation = EndFrame
+800F1952 270F
+
+[Infinite Energy In Battle Character 2]
+Type = Gameshark
+Activation = EndFrame
+800F1954 270F
+
+[Level 99]
+Type = Gameshark
+Activation = EndFrame
+30050295 0063
+
+[Infinite + Maximum HP]
+Type = Gameshark
+Activation = EndFrame
+90050298 03E703E7
+
+[Equipment / cannon carmine]
+Type = Gameshark
+Activation = EndFrame
+300503E5 0005
+
+[Equipment / cannon battle cannon]
+Type = Gameshark
+Activation = EndFrame
+300503E5 0001
+
+[Equipment / armor steel]
+Type = Gameshark
+Activation = EndFrame
+300503E6 0001
+
+[Durability Msx Ship]
+Type = Gameshark
+Activation = EndFrame
+800503E8 270F
+
+[Sailor Max Ship]
+Type = Gameshark
+Activation = EndFrame
+800503EC 270F
+
+[Water Max Ship]
+Type = Gameshark
+Activation = EndFrame
+800503EE 270F
+
+[Food Max Ship]
+Type = Gameshark
+Activation = EndFrame
+800503F0 270F
+
+[Ammunition Max Ship]
+Type = Gameshark
+Activation = EndFrame
+800503F2 270F
+
+[Materials Max Ship]
+Type = Gameshark
+Activation = EndFrame
+800503F4 270F
+
+[Propulsion Max Ship]
+Type = Gameshark
+Activation = EndFrame
+801E7A34 270F
+
+[Battle force Max Ship]
+Type = Gameshark
+Activation = EndFrame
+801EA6A4 270F
+
+[Porthole number Max Ship]
+Type = Gameshark
+Activation = EndFrame
+801EA960 270F
+
+[Voyage force Max Ship]
+Type = Gameshark
+Activation = EndFrame
+801EA980 270F
+
+[Endurance Max Ship]
+Type = Gameshark
+Activation = EndFrame
+801EAF58 270F
+
+[Armor Max Ship]
+Type = Gameshark
+Activation = EndFrame
+801EC590 270F
+
+[The strength of the cannon Max Ship]
+Type = Gameshark
+Activation = EndFrame
+801EC89C 270F
+
+[A sailor Max Ship]
+Type = Gameshark
+Activation = EndFrame
+801EFE6C 270F
+
+[Secret Stone]
+Type = Gameshark
+Activation = EndFrame
+30050201 0006
+
+[The number of parties]
+Type = Gameshark
+Activation = EndFrame
+30050284 0009
+
+[Ship number]
+Type = Gameshark
+Activation = EndFrame
+300503D0 0008
+

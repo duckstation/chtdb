@@ -1,0 +1,781 @@
+; CHTDB: ; [ Digimon World (USA) (1999) (Bandai America) {SLUS-01032} <digiwld> ]
+
+[Max Offense]
+Type = Gameshark
+Activation = EndFrame
+801557E0 03E7
+
+[Max Defense]
+Type = Gameshark
+Activation = EndFrame
+801557E2 03E7
+
+[Max Speed]
+Type = Gameshark
+Activation = EndFrame
+801557E4 03E7
+
+[Max Brains]
+Type = Gameshark
+Activation = EndFrame
+801557E6 03E7
+
+[Max HP]
+Type = Gameshark
+Activation = EndFrame
+801557F0 270F
+
+[Max MP]
+Type = Gameshark
+Activation = EndFrame
+801557F2 270F
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+801557F4 270F
+
+[Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+801557F6 270F
+
+[Max Bits]
+Type = Gameshark
+Activation = EndFrame
+90134EB8 05F5E0FF
+
+[Best Happiness]
+Type = Gameshark
+Activation = EndFrame
+8013848A 0064
+
+[Best Discipline]
+Type = Gameshark
+Activation = EndFrame
+80138488 0000
+
+[Max Item in Slot 1]
+Type = Gameshark
+Activation = EndFrame
+3013D492 0063
+
+[Max Item in Slot 2]
+Type = Gameshark
+Activation = EndFrame
+3013D493 0063
+
+[Max Item in Slot 3]
+Type = Gameshark
+Activation = EndFrame
+3013D494 0063
+
+[Max Item in Slot 4]
+Type = Gameshark
+Activation = EndFrame
+3013D495 0063
+
+[Max Item in Slot 5]
+Type = Gameshark
+Activation = EndFrame
+3013D496 0063
+
+[Max Item in Slot 6]
+Type = Gameshark
+Activation = EndFrame
+3013D497 0063
+
+[Max Item in Slot 7]
+Type = Gameshark
+Activation = EndFrame
+3013D498 0063
+
+[Max Item in Slot 8]
+Type = Gameshark
+Activation = EndFrame
+3013D499 0063
+
+[Max Item in Slot 9]
+Type = Gameshark
+Activation = EndFrame
+3013D49A 0063
+
+[Max Item in Slot 10]
+Type = Gameshark
+Activation = EndFrame
+3013D49B 0063
+
+[Press O To Beat The Game]
+Type = Gameshark
+Activation = EndFrame
+D0135450 FFDF
+80134EB4 0003
+
+[Auto-Kill Most Enemies]
+Type = Gameshark
+Activation = EndFrame
+80155874 0000
+801559AC 0000
+80155A14 0000
+80155944 0000
+801558DC 0000
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80155824 0003
+
+[Always Have Finish]
+Type = Gameshark
+Activation = EndFrame
+8013D65A 0AF1
+
+[Have All Attacks]
+Type = Gameshark
+Activation = EndFrame
+90155800 FFFFFFFF
+90155804 FFFFFFFF
+
+[Have All Medals]
+Type = Gameshark
+Activation = EndFrame
+801BDFFA FFFF
+801BDFFC FFFF
+
+[Press Square To Lay A Pile Of Poop]
+Type = Gameshark
+Activation = EndFrame
+D0135450 FF7F
+80138460 FFFF
+
+[Max Storage Item\Digimushrm]
+Type = Gameshark
+Activation = EndFrame
+301BDF58 0063
+
+[Max Storage Item\Icemushrm]
+Type = Gameshark
+Activation = EndFrame
+301BDF59 0063
+
+[Max Storage Item\Deluxmushrm]
+Type = Gameshark
+Activation = EndFrame
+301BDF5A 0063
+
+[Max Storage Item\Digipine]
+Type = Gameshark
+Activation = EndFrame
+301BDF5B 0063
+
+[Max Storage Item\Blue Apple]
+Type = Gameshark
+Activation = EndFrame
+301BDF5C 0063
+
+[Max Storage Item\Red Berry]
+Type = Gameshark
+Activation = EndFrame
+301BDF5D 0063
+
+[Max Storage Item\Gold Acorn]
+Type = Gameshark
+Activation = EndFrame
+301BDF5E 0063
+
+[Max Storage Item\Big Berry]
+Type = Gameshark
+Activation = EndFrame
+301BDF5F 0063
+
+[Max Storage Item\Sweet Nut]
+Type = Gameshark
+Activation = EndFrame
+301BDF60 0063
+
+[Max Storage Item\Super Veggy]
+Type = Gameshark
+Activation = EndFrame
+301BDF61 0063
+
+[Max Storage Item\Pricklypear]
+Type = Gameshark
+Activation = EndFrame
+301BDF62 0063
+
+[Max Storage Item\Orange Bana]
+Type = Gameshark
+Activation = EndFrame
+301BDF63 0063
+
+[Max Storage Item\Power Fruit]
+Type = Gameshark
+Activation = EndFrame
+301BDF64 0063
+
+[Max Storage Item\Power Ice]
+Type = Gameshark
+Activation = EndFrame
+301BDF65 0063
+
+[Max Storage Item\Speed Leaf]
+Type = Gameshark
+Activation = EndFrame
+301BDF66 0063
+
+[Max Storage Item\Sage Fruit]
+Type = Gameshark
+Activation = EndFrame
+301BDF67 0063
+
+[Max Storage Item\Muscle Yam]
+Type = Gameshark
+Activation = EndFrame
+301BDF68 0063
+
+[Max Storage Item\Calm Berry]
+Type = Gameshark
+Activation = EndFrame
+301BDF69 0063
+
+[Max Storage Item\Digianchovy]
+Type = Gameshark
+Activation = EndFrame
+301BDF6A 0063
+
+[Max Storage Item\Digisnapper]
+Type = Gameshark
+Activation = EndFrame
+301BDF6B 0063
+
+[Max Storage Item\Digitrout]
+Type = Gameshark
+Activation = EndFrame
+301BDF6C 0063
+
+[Max Storage Item\Black Trout]
+Type = Gameshark
+Activation = EndFrame
+301BDF6D 0063
+
+[Max Storage Item\Digi Catfish]
+Type = Gameshark
+Activation = EndFrame
+301BDF6E 0063
+
+[Max Storage Item\Digiseabass]
+Type = Gameshark
+Activation = EndFrame
+301BDF6F 0063
+
+[Max Storage Item\Moldy Meat]
+Type = Gameshark
+Activation = EndFrame
+301BDF70 0063
+
+[Max Storage Item\Happymuahrm]
+Type = Gameshark
+Activation = EndFrame
+301BDF71 0063
+
+[Max Storage Item\Chain Melon]
+Type = Gameshark
+Activation = EndFrame
+301BDF72 0063
+
+[Max Storage Item\Grey Claws]
+Type = Gameshark
+Activation = EndFrame
+301BDF73 0063
+
+[Max Storage Item\Fireball]
+Type = Gameshark
+Activation = EndFrame
+301BDF74 0063
+
+[Max Storage Item\Flamingwing]
+Type = Gameshark
+Activation = EndFrame
+301BDF75 0063
+
+[Max Storage Item\Iron Hoof]
+Type = Gameshark
+Activation = EndFrame
+301BDF76 0063
+
+[Max Storage Item\Mono Stone]
+Type = Gameshark
+Activation = EndFrame
+301BDF77 0063
+
+[Max Storage Item\Steel Drill]
+Type = Gameshark
+Activation = EndFrame
+301BDF78 0063
+
+[Max Storage Item\White Fang]
+Type = Gameshark
+Activation = EndFrame
+301BDF79 0063
+
+[Max Storage Item\Black Wing]
+Type = Gameshark
+Activation = EndFrame
+301BDF7A 0063
+
+[Max Storage Item\Spike Club]
+Type = Gameshark
+Activation = EndFrame
+301BDF7B 0063
+
+[Max Storage Item\Flamingmane]
+Type = Gameshark
+Activation = EndFrame
+301BDF7C 0063
+
+[Max Storage Item\White Wing]
+Type = Gameshark
+Activation = EndFrame
+301BDF7D 0063
+
+[Max Storage Item\Torn Tatter]
+Type = Gameshark
+Activation = EndFrame
+301BDF7E 0063
+
+[Max Storage Item\Electo Ring]
+Type = Gameshark
+Activation = EndFrame
+301BDF7F 0063
+
+[Max Storage Item\Rainbowhorn]
+Type = Gameshark
+Activation = EndFrame
+301BDF80 0063
+
+[Max Storage Item\Rooster]
+Type = Gameshark
+Activation = EndFrame
+301BDF81 0063
+
+[Max Storage Item\Unihorn]
+Type = Gameshark
+Activation = EndFrame
+301BDF82 0063
+
+[Max Storage Item\Horn Helmet]
+Type = Gameshark
+Activation = EndFrame
+301BDF83 0063
+
+[Max Storage Item\Scissor Jaw]
+Type = Gameshark
+Activation = EndFrame
+301BDF84 0063
+
+[Max Storage Item\Fertilizer]
+Type = Gameshark
+Activation = EndFrame
+301BDF85 0063
+
+[Max Storage Item\Koga Laws]
+Type = Gameshark
+Activation = EndFrame
+301BDF86 0063
+
+[Max Storage Item\Waterbottle]
+Type = Gameshark
+Activation = EndFrame
+301BDF87 0063
+
+[Max Storage Item\North Star]
+Type = Gameshark
+Activation = EndFrame
+301BDF88 0063
+
+[Max Storage Item\Red Shell]
+Type = Gameshark
+Activation = EndFrame
+301BDF89 0063
+
+[Max Storage Item\Hard Scale]
+Type = Gameshark
+Activation = EndFrame
+301BDF8A 0063
+
+[Max Storage Item\Blue Crystal]
+Type = Gameshark
+Activation = EndFrame
+301BDF8B 0063
+
+[Max Storage Item\Ice Crystal]
+Type = Gameshark
+Activation = EndFrame
+301BDF8C 0063
+
+[Max Storage Item\Hair Grower]
+Type = Gameshark
+Activation = EndFrame
+301BDF8D 0063
+
+[Max Storage Item\Sunglasses]
+Type = Gameshark
+Activation = EndFrame
+301BDF8E 0063
+
+[Max Storage Item\Metal Part]
+Type = Gameshark
+Activation = EndFrame
+301BDF8F 0063
+
+[Max Storage Item\Fatal Bone]
+Type = Gameshark
+Activation = EndFrame
+301BDF90 0063
+
+[Max Storage Item\Cyber Part]
+Type = Gameshark
+Activation = EndFrame
+301BDF91 0063
+
+[Max Storage Item\Mega Hand]
+Type = Gameshark
+Activation = EndFrame
+301BDF92 0063
+
+[Max Storage Item\Silver Ball]
+Type = Gameshark
+Activation = EndFrame
+301BDF93 0063
+
+[Max Storage Item\Metal Armor]
+Type = Gameshark
+Activation = EndFrame
+301BDF94 0063
+
+[Max Storage Item\Chainsaw]
+Type = Gameshark
+Activation = EndFrame
+301BDF95 0063
+
+[Max Storage Item\Small Spear]
+Type = Gameshark
+Activation = EndFrame
+301BDF96 0063
+
+[Max Storage Item\X Bandage]
+Type = Gameshark
+Activation = EndFrame
+301BDF97 0063
+
+[Max Storage Item\Ray Gun]
+Type = Gameshark
+Activation = EndFrame
+301BDF98 0063
+
+[Max Storage Item\Gold Banana]
+Type = Gameshark
+Activation = EndFrame
+301BDF99 0063
+
+[Max Storage Item\Mysty Egg]
+Type = Gameshark
+Activation = EndFrame
+301BDF9A 0063
+
+[Max Storage Item\Red Ruby]
+Type = Gameshark
+Activation = EndFrame
+301BDF9B 0063
+
+[Max Storage Item\Beetlepearl]
+Type = Gameshark
+Activation = EndFrame
+301BDF9C 0063
+
+[Max Storage Item\Coral Charm]
+Type = Gameshark
+Activation = EndFrame
+301BDF9D 0063
+
+[Max Storage Item\Moon Mirror]
+Type = Gameshark
+Activation = EndFrame
+301BDF9E 0063
+
+[Max Storage Item\Blue Flute]
+Type = Gameshark
+Activation = EndFrame
+301BDF9F 0063
+
+[Max Storage Item\Old Fishrod]
+Type = Gameshark
+Activation = EndFrame
+301BDFA0 0063
+
+[Max Storage Item\Amazing Fishrod]
+Type = Gameshark
+Activation = EndFrame
+301BDFA1 0063
+
+[Max Storage Item\Leomon Stone]
+Type = Gameshark
+Activation = EndFrame
+301BDFA2 0063
+
+[Max Storage Item\Mansion Key]
+Type = Gameshark
+Activation = EndFrame
+301BDFA3 0063
+
+[Max Storage Item\Gear]
+Type = Gameshark
+Activation = EndFrame
+301BDFA4 0063
+
+[Max Storage Item\Rain Plant]
+Type = Gameshark
+Activation = EndFrame
+301BDFA5 0063
+
+[Max Storage Item\Steak]
+Type = Gameshark
+Activation = EndFrame
+301BDFA6 0063
+
+[Max Storage Item\Frig Key]
+Type = Gameshark
+Activation = EndFrame
+301BDFA7 0063
+
+[Max Storage Item\As Decoder]
+Type = Gameshark
+Activation = EndFrame
+301BDFA8 0063
+
+[Max Storage Item\Giga Hand]
+Type = Gameshark
+Activation = EndFrame
+301BDFA9 0063
+
+[Max Storage Item\Noble Mane]
+Type = Gameshark
+Activation = EndFrame
+301BDFAA 0063
+
+[Max Storage Item\Metal Banana]
+Type = Gameshark
+Activation = EndFrame
+301BDFAB 0063
+
+[More Misc.\Have Card No 0+1]
+Type = Gameshark
+Activation = EndFrame
+301BDFAC 00FF
+
+[More Misc.\Have Card No 2+3]
+Type = Gameshark
+Activation = EndFrame
+301BDFAD 00FF
+
+[More Misc.\Have Card No 4+5]
+Type = Gameshark
+Activation = EndFrame
+301BDFAE 00FF
+
+[More Misc.\Have Card No 6+7]
+Type = Gameshark
+Activation = EndFrame
+301BDFAF 00FF
+
+[More Misc.\Have Card No 8+9]
+Type = Gameshark
+Activation = EndFrame
+301BDFB0 00FF
+
+[More Misc.\Have Card No 10+11]
+Type = Gameshark
+Activation = EndFrame
+301BDFB1 00FF
+
+[More Misc.\Have Card No 12+13]
+Type = Gameshark
+Activation = EndFrame
+301BDFB2 00FF
+
+[More Misc.\Have Card No 14+15]
+Type = Gameshark
+Activation = EndFrame
+301BDFB3 00FF
+
+[More Misc.\Have Card No 16+17]
+Type = Gameshark
+Activation = EndFrame
+301BDFB4 00FF
+
+[More Misc.\Have Card No 18+19]
+Type = Gameshark
+Activation = EndFrame
+301BDFB5 00FF
+
+[More Misc.\Have Card No 20+21]
+Type = Gameshark
+Activation = EndFrame
+301BDFB6 00FF
+
+[More Misc.\Have Card No 22+23]
+Type = Gameshark
+Activation = EndFrame
+301BDFB7 00FF
+
+[More Misc.\Have Card No 24+25]
+Type = Gameshark
+Activation = EndFrame
+301BDFB8 00FF
+
+[More Misc.\Have Card No 26+27]
+Type = Gameshark
+Activation = EndFrame
+301BDFB9 00FF
+
+[More Misc.\Have Card No 28+29]
+Type = Gameshark
+Activation = EndFrame
+301BDFBA 00FF
+
+[More Misc.\Have Card No 30+31]
+Type = Gameshark
+Activation = EndFrame
+301BDFBB 00FF
+
+[More Misc.\Have Card No 32+33]
+Type = Gameshark
+Activation = EndFrame
+301BDFBC 00FF
+
+[More Misc.\Have Card No 34+35]
+Type = Gameshark
+Activation = EndFrame
+301BDFBD 00FF
+
+[More Misc.\Have Card No 36+37]
+Type = Gameshark
+Activation = EndFrame
+301BDFBE 00FF
+
+[More Misc.\Have Card No 38+39]
+Type = Gameshark
+Activation = EndFrame
+301BDFBF 00FF
+
+[More Misc.\Have Card No 40+41]
+Type = Gameshark
+Activation = EndFrame
+301BDFC0 00FF
+
+[More Misc.\Have Card No 42+43]
+Type = Gameshark
+Activation = EndFrame
+301BDFC1 00FF
+
+[More Misc.\Have Card No 44+45]
+Type = Gameshark
+Activation = EndFrame
+301BDFC2 00FF
+
+[More Misc.\Have Card No 46+47]
+Type = Gameshark
+Activation = EndFrame
+301BDFC3 00FF
+
+[More Misc.\Have Card No 48+49]
+Type = Gameshark
+Activation = EndFrame
+301BDFC4 00FF
+
+[More Misc.\Have Card No 50+51]
+Type = Gameshark
+Activation = EndFrame
+301BDFC5 00FF
+
+[More Misc.\Have Card No 52+53]
+Type = Gameshark
+Activation = EndFrame
+301BDFC6 00FF
+
+[More Misc.\Have Card No 54+55]
+Type = Gameshark
+Activation = EndFrame
+301BDFC7 00FF
+
+[More Misc.\Have Card No 56+57]
+Type = Gameshark
+Activation = EndFrame
+301BDFC8 00FF
+
+[More Misc.\Have Card No 58+59]
+Type = Gameshark
+Activation = EndFrame
+301BDFC9 00FF
+
+[More Misc.\Have Card No 60+61]
+Type = Gameshark
+Activation = EndFrame
+301BDFCA 00FF
+
+[More Misc.\Have Card No 62+63]
+Type = Gameshark
+Activation = EndFrame
+301BDFCB 00FF
+
+[More Misc.\Have Card No 64+65]
+Type = Gameshark
+Activation = EndFrame
+301BDFCC 00FF
+
+[More Misc.\Have All Digimon On The Chart/All Evolved]
+Type = Gameshark
+Activation = EndFrame
+301BE00D 00FF
+801BE00E FFFF
+901BE010 FFFFFFFF
+301BE014 00FF
+
+[More Misc.\All Digimon In City]
+Type = Gameshark
+Activation = EndFrame
+301557C5 0037
+801557C6 0037
+
+[More Misc.\Have Key Items]
+Type = Gameshark
+Activation = EndFrame
+801BDFD2 FFFF
+
+[More Misc.\Have All Cards]
+Type = Gameshark
+Activation = EndFrame
+50002001 0000
+301BDFAC 00FF
+
+[More Misc.\All Digimon Raised]
+Type = Gameshark
+Activation = EndFrame
+50000801 0000
+301BE00D 00FF
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A7136F64 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A7136F64 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A7136F64 10000400
+

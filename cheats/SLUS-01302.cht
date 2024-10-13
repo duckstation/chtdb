@@ -1,0 +1,52 @@
+; CHTDB: ; [ Starfighter Sanvein (USA) (2000) (Agetec / A1 Games) {SLUS-01302} <ssanvein> ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+801F02C4 270F
+
+[Enemy boss energy 0]
+Type = Gameshark
+Activation = EndFrame
+80102018 0000
+
+[Stop Timer Countdown]
+Type = Gameshark
+Activation = EndFrame
+A715844A A6022400
+
+[Damage Doesn't Reduce Time]
+Type = Gameshark
+Activation = EndFrame
+A7158D7A A4A22400
+
+[Max Attack Power]
+Type = Gameshark
+Activation = EndFrame
+801F4CC6 0060
+
+[Unlock Options]
+Type = Gameshark
+Activation = EndFrame
+8005E012 0018
+
+[Start Time 999.9]
+Type = Gameshark
+Activation = EndFrame
+8005DEF4 270F
+
+[Extend Time Value 999.9]
+Type = Gameshark
+Activation = EndFrame
+8005DEF6 270F
+
+[Infinite Selection Time]
+Type = Gameshark
+Activation = EndFrame
+A7144426 A6022400
+
+[Infinite Special Bar]
+Type = Gameshark
+Activation = EndFrame
+80102E50 0200
+

@@ -1,0 +1,34 @@
+; CHTDB: ; [ Bomberman World (Japan) {SLPS-01155} ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+300CE1D0 0009
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+300731E0 0063
+300731E2 0063
+
+[Have all Crystal]
+Type = Gameshark
+Activation = EndFrame
+90073090 00010001
+
+[Max number of bomb]
+Type = Gameshark
+Activation = EndFrame
+300CE184 000A
+300CE186 000A
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800CE192 0200
+
+[Enemy sleep paralysis]
+Type = Gameshark
+Activation = EndFrame
+800CE190 0003
+

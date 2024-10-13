@@ -1,0 +1,67 @@
+; CHTDB: ; [ iS: Internal Section (Japan) {SLPS-01868} ]
+
+[Infinite Life]
+Type = Gameshark
+Activation = EndFrame
+30138044 0063
+
+[Infinite Eraser]
+Type = Gameshark
+Activation = EndFrame
+3010AF53 0003
+
+[Full Auto]
+Type = Gameshark
+Activation = EndFrame
+3013808C 0008
+
+[Muteki!!]
+Type = Gameshark
+Activation = EndFrame
+30138048 0001
+
+[Select Stage\1]
+Type = Gameshark
+Activation = EndFrame
+30138045 0001
+
+[Select Stage\2]
+Type = Gameshark
+Activation = EndFrame
+30138045 0002
+
+[Select Stage\3]
+Type = Gameshark
+Activation = EndFrame
+30138045 0003
+
+[Select Stage\4]
+Type = Gameshark
+Activation = EndFrame
+30138045 0004
+
+[Select Stage\5]
+Type = Gameshark
+Activation = EndFrame
+30138045 0005
+
+[Select Stage\6]
+Type = Gameshark
+Activation = EndFrame
+30138045 0006
+
+[Select Stage\7]
+Type = Gameshark
+Activation = EndFrame
+30138045 0007
+
+[Select Stage\8]
+Type = Gameshark
+Activation = EndFrame
+30138045 0008
+
+[Start at Debug Screen After Reset]
+Type = Gameshark
+Activation = EndFrame
+A603D708 0007000C
+

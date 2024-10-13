@@ -1,0 +1,33 @@
+; CHTDB: ; [ CyberSpeed (USA, v1.0) (1995) (Mindscape) {SLUS-00116} <cybspeeda> ]
+
+[Infinite Turbo]
+Type = Gameshark
+Activation = EndFrame
+80097CB0 0009
+
+[Always Place 1st]
+Type = Gameshark
+Activation = EndFrame
+80097CE8 0001
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+80097CC4 0000
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+90097CA4 00002B3A
+
+[Freeze Cpu]
+Type = Gameshark
+Activation = EndFrame
+80096FD0 0000
+80097180 0020
+80097330 0040
+800974E0 0060
+80097690 0080
+80097840 00A0
+800979F0 00C0
+

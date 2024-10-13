@@ -1,0 +1,22 @@
+; CHTDB: ; [ Mortal Kombat 4 (USA) (1998) (Midway Home Entertainment) {SLUS-00605} <mk4> ]
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+900AABA8 00010000
+
+[Hit Anywhere]
+Type = Gameshark
+Activation = EndFrame
+A7061F6E 14402400
+
+[Hit Anywhere Alternative]
+Type = Gameshark
+Activation = EndFrame
+A7061806 10402400
+
+[Walk Through Enemies]
+Type = Gameshark
+Activation = EndFrame
+A705E1AE 14401000
+

@@ -1,0 +1,209 @@
+; CHTDB: ; [ World Destruction League - Thunder Tanks (USA) (2000) (The 3DO Company) {SLUS-01175} <wdltt> ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800DF654 0208
+
+[Press L2 To Refill Health]
+Type = Gameshark
+Activation = EndFrame
+D00F8C62 FEFF
+800DF654 0110
+
+[Press L1 For Rapid Fire]
+Type = Gameshark
+Activation = EndFrame
+D00F8C62 FBFF
+800D6C22 0001
+
+[Select Level Non Tournament Modes\Minneapolis]
+Type = Gameshark
+Activation = EndFrame
+800A96FC 0000
+
+[Select Level Non Tournament Modes\Cape Canaveral]
+Type = Gameshark
+Activation = EndFrame
+800A96FC 0001
+
+[Select Level Non Tournament Modes\Ginza(Glitch)]
+Type = Gameshark
+Activation = EndFrame
+800A96FC 0002
+
+[Select Level Non Tournament Modes\Sicily]
+Type = Gameshark
+Activation = EndFrame
+800A96FC 0003
+
+[Select Level Non Tournament Modes\Detroit]
+Type = Gameshark
+Activation = EndFrame
+800A96FC 0004
+
+[Select Level Non Tournament Modes\Greece]
+Type = Gameshark
+Activation = EndFrame
+800A96FC 0005
+
+[Select Level Non Tournament Modes\Monaco]
+Type = Gameshark
+Activation = EndFrame
+800A96FC 0006
+
+[Select Level Non Tournament Modes\Red Square]
+Type = Gameshark
+Activation = EndFrame
+800A96FC 0007
+
+[Select Level Non Tournament Modes\St Petersburg]
+Type = Gameshark
+Activation = EndFrame
+800A96FC 0008
+
+[Select Level Non Tournament Modes\Rome]
+Type = Gameshark
+Activation = EndFrame
+800A96FC 0009
+
+[Select Level Non Tournament Modes\Castle Menhdhiem]
+Type = Gameshark
+Activation = EndFrame
+800A96FC 000A
+
+[Select Level Non Tournament Modes\Atlantis]
+Type = Gameshark
+Activation = EndFrame
+800A96FC 000B
+
+[Select Level Non Tournament Modes\NY Sewers]
+Type = Gameshark
+Activation = EndFrame
+800A96FC 000C
+
+[Select Level Non Tournament Modes\Tokyo Harbor]
+Type = Gameshark
+Activation = EndFrame
+800A96FC 000D
+
+[Select Level Non Tournament Modes\Fort Knox]
+Type = Gameshark
+Activation = EndFrame
+800A96FC 000E
+
+[Select Level Non Tournament Modes\Pisa]
+Type = Gameshark
+Activation = EndFrame
+800A96FC 000F
+
+[Select Level Non Tournament Modes\Pittsburg]
+Type = Gameshark
+Activation = EndFrame
+800A96FC 0010
+
+[Select Level Non Tournament Modes\Leningrad]
+Type = Gameshark
+Activation = EndFrame
+800A96FC 0011
+
+[Select Level Non Tournament Modes\Kyoto]
+Type = Gameshark
+Activation = EndFrame
+800A96FC 0012
+
+[Select Level Non Tournament Modes\Osaka]
+Type = Gameshark
+Activation = EndFrame
+800A96FC 0013
+
+[Infinite 3 Way Missile (On Pickup)]
+Type = Gameshark
+Activation = EndFrame
+800DF67C 0009
+
+[Infinite Lightning (On Pickup)]
+Type = Gameshark
+Activation = EndFrame
+800DF67E 0009
+
+[Infinite Guided Missile (On Pickup)]
+Type = Gameshark
+Activation = EndFrame
+800DF680 0009
+
+[Infinite Regeneration (On Pickup)]
+Type = Gameshark
+Activation = EndFrame
+800DF682 0009
+
+[Infinite Mines (On Pickup)]
+Type = Gameshark
+Activation = EndFrame
+800DF684 0009
+
+[Infinite Nukes (On Pickup)]
+Type = Gameshark
+Activation = EndFrame
+800DF686 0009
+
+[Infinite The Spectre i Teleporter (On Pickup)]
+Type = Gameshark
+Activation = EndFrame
+800DF688 0009
+
+[Infinite Plasma Bolts (On Pickup)]
+Type = Gameshark
+Activation = EndFrame
+800DF68A 0009
+
+[Infinite Turbo (On Pickup)]
+Type = Gameshark
+Activation = EndFrame
+800DF68C 0009
+
+[Infinite Health Packages (On Pickup)]
+Type = Gameshark
+Activation = EndFrame
+800DF68E 0009
+
+[Infinite Flamethrower (On Pickup)]
+Type = Gameshark
+Activation = EndFrame
+800DF690 0009
+
+[Infinite Cloak (On Pickup)]
+Type = Gameshark
+Activation = EndFrame
+800DF692 0009
+
+[Infinite Grenades (On Pickup)]
+Type = Gameshark
+Activation = EndFrame
+800DF694 0009
+
+[Infinite Auto Cannons (On Pickup)]
+Type = Gameshark
+Activation = EndFrame
+800DF696 0009
+
+[Infinite Death Blossom (On Pickup)]
+Type = Gameshark
+Activation = EndFrame
+800DF69A 0009
+
+[Infinite K+H Wolverine Grenade Launcher (On Pickup)]
+Type = Gameshark
+Activation = EndFrame
+800DF69C 0009
+
+[Infinite Shock Ring (On Pickup)]
+Type = Gameshark
+Activation = EndFrame
+800DF69E 0009
+
+[Infinite Laser Cannon (On Pickup)]
+Type = Gameshark
+Activation = EndFrame
+800DF6A0 0009
+

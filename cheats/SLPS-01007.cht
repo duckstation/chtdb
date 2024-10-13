@@ -1,0 +1,28 @@
+; CHTDB: ; [ J's Racin' (Japan) {SLPS-01007} ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800BA70C 0000
+
+[No Lap Time]
+Type = Gameshark
+Activation = EndFrame
+800BA710 0000
+
+[Always Place First]
+Type = Gameshark
+Activation = EndFrame
+800BA772 0000
+
+[Max Speed]
+Type = Gameshark
+Activation = EndFrame
+800BAFC6 01F4
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+8007A368 0D0B
+8007A3E8 08B2
+

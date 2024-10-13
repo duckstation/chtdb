@@ -1,0 +1,75 @@
+; CHTDB: ; [ Ruff & Tumble aka Ruff & Tumble: De Droomkrijgers (Netherlands) {SLES-02384} ]
+
+[Cheat Menu .Druk op L2 in het huis terwijl het spel op pauze staat en je cursor verdwijnt. Druk dan op X en je komt in het Cheat-Menu]
+Description = WAARSCHUWING - Het Cheat-Menu is onstabiel en kan het spel laten vastlopen.
+Type = Gameshark
+Activation = EndFrame
+D0092D88 0100
+30092ABC 0002
+
+[Oneindige Zzz's]
+Type = Gameshark
+Activation = EndFrame
+800B4F4C 03E7
+
+[Oneindige Manen]
+Type = Gameshark
+Activation = EndFrame
+800B4F48 03E7
+
+[Oneindige Tandwielen]
+Type = Gameshark
+Activation = EndFrame
+800B4F4A 03E7
+
+[Oneindige Levens]
+Type = Gameshark
+Activation = EndFrame
+800B4F4E 03E7
+
+[Oneindige Kostuum Tijd]
+Type = Gameshark
+Activation = EndFrame
+80097944 047D
+
+[RT's]
+Type = Gameshark
+Activation = EndFrame
+800B4F54 03E7
+
+[Normaal Hoofd]
+Type = Gameshark
+Activation = EndFrame
+80092B7E 0000
+
+[Groot Hoofd]
+Type = Gameshark
+Activation = EndFrame
+80092B7E 0100
+
+[Groter Hoofd]
+Type = Gameshark
+Activation = EndFrame
+80092B7E 02BC
+
+[Gigantisch Hoofd]
+Type = Gameshark
+Activation = EndFrame
+80092B7E 03E7
+
+[Vreemde Sprong Als je R2 en X tegelijkertijd indrukt spring je naar een onwillekeurige plaats.]
+Type = Gameshark
+Activation = EndFrame
+D0092D88 4200
+3009587A 00FF
+
+[Beweeg voeten niet]
+Type = Gameshark
+Activation = EndFrame
+30095820 00FF
+
+[Laserkaars Deze is stom - de kaars schiet kleine straaltje die er uitzien als lasers]
+Type = Gameshark
+Activation = EndFrame
+3009331A 00FF
+

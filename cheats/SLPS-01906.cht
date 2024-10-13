@@ -1,0 +1,69 @@
+; CHTDB: ; [ Monster Farm 2 (Japan) {SLPS-01906} ]
+
+[Money Max]
+Type = Gameshark
+Activation = EndFrame
+90096F6C 05F5E0FF
+
+[Combat playerr Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801FFCDC 03E7
+
+[Combat player Guts Infinite]
+Type = Gameshark
+Activation = EndFrame
+801FFCFC 00FF
+
+[Combat enemy energy 0]
+Type = Gameshark
+Activation = EndFrame
+801FFC5C 0000
+
+[Combat enemy energy 0 R2 + SELECT]
+Type = Gameshark
+Activation = EndFrame
+D009185E 0102
+801FFC5C 0000
+
+[Enemy Guts Zero R2 + SELECT]
+Type = Gameshark
+Activation = EndFrame
+D009185E 0102
+801FFC7C 0000
+
+[All Monster Cards]
+Type = Gameshark
+Activation = EndFrame
+50009802 0000
+8009703C 0101
+
+[All Emblem S]
+Type = Gameshark
+Activation = EndFrame
+80097010 0001
+80097014 0001
+80097018 0001
+8009701C 0001
+80097020 0001
+
+[Alway's Rank S]
+Type = Gameshark
+Activation = EndFrame
+30095B42 0005
+
+[Max Status]
+Type = Gameshark
+Activation = EndFrame
+900959D0 03E703E7
+900959D4 03E703E7
+900959D8 03E703E7
+800959E0 03E7
+800959E8 03E7
+
+[Max Loyalty]
+Type = Gameshark
+Activation = EndFrame
+300959EC 00C8
+300959ED 00C8
+

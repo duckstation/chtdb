@@ -1,0 +1,7 @@
+; CHTDB: ; [ Oshigotoshiki Jinsei Game - Mezase Shokugyou-oh (Jpn) (2000) (Takara) {SLPS-03056} <oshijins> ]
+
+[Player has 999999 money]
+Type = Gameshark
+Activation = EndFrame
+900C2214 000F423F
+

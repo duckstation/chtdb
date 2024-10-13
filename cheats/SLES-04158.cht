@@ -1,0 +1,17 @@
+; CHTDB: ; [ Wanted (Europe) {SLES-04158} ]
+
+[Infinite LIves]
+Type = Gameshark
+Activation = EndFrame
+80084848 0009
+
+[Only One Hit To Complet Level 1]
+Type = Gameshark
+Activation = EndFrame
+80054A28 0001
+
+[Only One Hit To Complet Other Levels]
+Type = Gameshark
+Activation = EndFrame
+80074A28 0001
+

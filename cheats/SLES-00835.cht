@@ -1,0 +1,42 @@
+; CHTDB: ; [ Apocalypse (Germany) {SLES-00835} ]
+
+[Unendlich Leben]
+Type = Gameshark
+Activation = EndFrame
+800FF7A8 000F
+
+[Unverwundbar(.benutzt eingebauten Cheat, also Vorsicht)]
+Type = Gameshark
+Activation = EndFrame
+800FF250 0001
+
+[Alle Waffen AnwäHlbar]
+Type = Gameshark
+Activation = EndFrame
+800FF24C 0001
+
+[Alle Level AnwäHlbar]
+Type = Gameshark
+Activation = EndFrame
+800FF264 0001
+
+[Alle Checkpoints AnwäHlbar]
+Type = Gameshark
+Activation = EndFrame
+800FF26C 0001
+
+[Unendlich Smartbombs]
+Type = Gameshark
+Activation = EndFrame
+8005D008 0000
+
+[Unendlich Gesundheit]
+Type = Gameshark
+Activation = EndFrame
+8005DAB2 3C00
+
+[Unendlich Munition]
+Type = Gameshark
+Activation = EndFrame
+80022C5E 3C00
+

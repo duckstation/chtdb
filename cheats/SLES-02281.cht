@@ -1,0 +1,24 @@
+; CHTDB: ; [ Shadow Man (Italy) {SLES-02281} ]
+
+[Get dark souls anywhere (if they are not closed)]
+Type = Gameshark
+Activation = EndFrame
+80056C2E 2400
+
+[Mike\Shadow Man is invulnerable]
+Type = Gameshark
+Activation = EndFrame
+90040B64 03E00008
+80040B68 2400
+
+[Shadow level and Voodoo level at MAX from start]
+Type = Gameshark
+Activation = EndFrame
+800C1C20 2710
+800C1C28 2710
+
+[Start the game with life at max]
+Type = Gameshark
+Activation = EndFrame
+80041932 238D
+

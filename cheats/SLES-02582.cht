@@ -1,0 +1,122 @@
+; CHTDB: ; [ Crusaders of Might and Magic (Europe) {SLES-02582} ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800F1D80 0064
+
+[Infinite Mana]
+Type = Gameshark
+Activation = EndFrame
+80105438 0064
+
+[Infinite Gold]
+Type = Gameshark
+Activation = EndFrame
+80105428 0064
+
+[Infinite Healing Potions]
+Type = Gameshark
+Activation = EndFrame
+8010542A 0063
+
+[Infinite Mana Potions]
+Type = Gameshark
+Activation = EndFrame
+8010542C 0063
+
+[Infinite Vanish Dusts]
+Type = Gameshark
+Activation = EndFrame
+80105430 0063
+
+[Infinite Throwing Axes]
+Type = Gameshark
+Activation = EndFrame
+801053B4 0063
+
+[Infinite Exploding Gems]
+Type = Gameshark
+Activation = EndFrame
+801053B8 0063
+
+[Have Battle Axe]
+Type = Gameshark
+Activation = EndFrame
+80105394 0001
+
+[Have Long Sword]
+Type = Gameshark
+Activation = EndFrame
+80105396 0001
+
+[Have Mace]
+Type = Gameshark
+Activation = EndFrame
+80105398 0001
+
+[Have War Hammer]
+Type = Gameshark
+Activation = EndFrame
+8010539A 0001
+
+[Have Spiked Shield]
+Type = Gameshark
+Activation = EndFrame
+801053CA 0001
+
+[Have Kite Shield]
+Type = Gameshark
+Activation = EndFrame
+801053CC 0001
+
+[Have Tower Shield]
+Type = Gameshark
+Activation = EndFrame
+801053CE 0001
+
+[Have Thunder Maker-Talisman]
+Type = Gameshark
+Activation = EndFrame
+801053F4 0001
+
+[Have Bonemender-Talisman]
+Type = Gameshark
+Activation = EndFrame
+801053F6 0001
+
+[Have Nightbringer-Talisman]
+Type = Gameshark
+Activation = EndFrame
+801053F8 0001
+
+[Have Oakheart-Talisman]
+Type = Gameshark
+Activation = EndFrame
+801053FA 0001
+
+[Have Flamefang-Talisman]
+Type = Gameshark
+Activation = EndFrame
+801053FC 0001
+
+[Have Star of Erathia-Talisman]
+Type = Gameshark
+Activation = EndFrame
+801053FE 0001
+
+[Have Razors Edge-Talisman]
+Type = Gameshark
+Activation = EndFrame
+80105400 0001
+
+[Have Soul Bastion-Talisman]
+Type = Gameshark
+Activation = EndFrame
+80105402 0001
+
+[Have Ice Claw-Talisman]
+Type = Gameshark
+Activation = EndFrame
+80105404 0001
+

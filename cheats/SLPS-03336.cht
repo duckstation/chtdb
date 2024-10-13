@@ -1,0 +1,27 @@
+; CHTDB: ; [ Mr. Driller G (Jpn) (2001) (Namco) {SLPS-03336} <mrdrilrg> ]
+
+[Infinite Air]
+Type = Gameshark
+Activation = EndFrame
+801CB3F1 0258
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801CB300 0003
+
+[P2 air 0]
+Type = Gameshark
+Activation = EndFrame
+801CB5A5 0000
+
+[Driller dedicated Hidden Character selection alone Hidden in the R1 button Chara rabbit]
+Type = Gameshark
+Activation = EndFrame
+D00C8B20 000B
+D0198F14 0800
+300C8B32 0006
+D00C8B20 003F
+D0198F14 0800
+300C8B32 0006
+

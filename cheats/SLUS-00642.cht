@@ -1,0 +1,32 @@
+; CHTDB: ; [ Blast Radius (USA) (1999) (Psygnosis) {SLUS-00642} <bradius> ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800EF16A 0060
+
+[Infinite Fuel]
+Type = Gameshark
+Activation = EndFrame
+800EDA7E 0064
+
+[Infinite Shields]
+Type = Gameshark
+Activation = EndFrame
+800EF168 00C8
+
+[Infinite Infinite Secondary Weapon Ammo]
+Type = Gameshark
+Activation = EndFrame
+800EF172 03E8
+
+[Max Credits]
+Type = Gameshark
+Activation = EndFrame
+900AB724 0098967F
+
+[Activate All Cheat]
+Type = Gameshark
+Activation = EndFrame
+300AB4C0 001F
+

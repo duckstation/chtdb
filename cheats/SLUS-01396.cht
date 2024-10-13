@@ -1,0 +1,23 @@
+; CHTDB: ; [ Scooby-Doo and the Cyber Chase (USA) (2001) (THQ) {SLUS-01396, SLUS-01396GH} <scoobycc> ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+3014E0F0 0005
+
+[Max Pies]
+Type = Gameshark
+Activation = EndFrame
+3014E0F2 0033
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+3014E0F3 0063
+
+[All Levels]
+Type = Gameshark
+Activation = EndFrame
+50000C02 0000
+8014E112 0101
+

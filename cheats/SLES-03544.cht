@@ -1,0 +1,17 @@
+; CHTDB: ; [ Nickelodeon Rugrats: Totally Angelica aka Rugrats: Totally Angelica (Europe) {SLES-03544} ]
+
+[Infinite Time In Fluffy's Maze]
+Type = Gameshark
+Activation = EndFrame
+8013BBE0 3AA2
+
+[9999 Points after winning a minigame & go to fashing show]
+Type = Gameshark
+Activation = EndFrame
+801DC5C6 270F
+
+[Unlock All Floors (Go To 5th Floor To See Ending) Activate after go to fashion show]
+Type = Gameshark
+Activation = EndFrame
+801062B0 0005
+

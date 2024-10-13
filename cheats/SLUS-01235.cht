@@ -1,0 +1,253 @@
+; CHTDB: ; [ Rayman 2 - The Great Escape (USA) (2000) (Ubi Soft Entertainment Software) {SLUS-01235} <rayman2> ]
+
+[Infinite Health The Clearing]
+Type = Gameshark
+Activation = EndFrame
+800BCC7A 00A0
+
+[Infinite Health The Fairy Glade]
+Type = Gameshark
+Activation = EndFrame
+800B9BD6 00A0
+
+[Infinite Health The Marshes of Awakening]
+Type = Gameshark
+Activation = EndFrame
+800C5A48 00A0
+
+[Infinite Health The Bayou]
+Type = Gameshark
+Activation = EndFrame
+800BA838 00A0
+
+[Infinite Time The Walk of Life]
+Type = Gameshark
+Activation = EndFrame
+800B39FC 0063
+
+[Infinite Health Whale Bay]
+Type = Gameshark
+Activation = EndFrame
+800B5F70 00A0
+
+[Infinite Health The Menhir Hills]
+Type = Gameshark
+Activation = EndFrame
+800C43DA 00A0
+
+[Infinite Health The Cave of Bad Dreams]
+Type = Gameshark
+Activation = EndFrame
+800BCE76 00A0
+
+[Infinite Health the Canopy]
+Type = Gameshark
+Activation = EndFrame
+800B136A 00A0
+
+[Infinite Health The Sanctuary of Stone and Fire]
+Type = Gameshark
+Activation = EndFrame
+800B96C8 00A0
+
+[Infinite Health the Echoing Caves]
+Type = Gameshark
+Activation = EndFrame
+800C1450 00A0
+
+[Infinite Health the Precipice]
+Type = Gameshark
+Activation = EndFrame
+800BDA14 00A0
+800BDD00 00A0
+
+[Infinite Health The Sanctuary of Rock and Lava]
+Type = Gameshark
+Activation = EndFrame
+800B6CB0 00A0
+
+[Infinite Time The Walk of Power]
+Type = Gameshark
+Activation = EndFrame
+800B2BEC 0063
+
+[Infinite Health Beneath The Sanctuary of Rock and Lava]
+Type = Gameshark
+Activation = EndFrame
+800BE55A 00A0
+
+[Infinite Health Tomb of the Ancients]
+Type = Gameshark
+Activation = EndFrame
+800B3C58 00A0
+
+[Infinite Health the Gloomy Island]
+Type = Gameshark
+Activation = EndFrame
+800B7688 00A0
+
+[Infinite Health the Prision Ship]
+Type = Gameshark
+Activation = EndFrame
+800B6BC0 00A0
+
+[Infinite Health the Crow's Nest]
+Type = Gameshark
+Activation = EndFrame
+800BCFFC 00A0
+
+[Infinite Air]
+Type = Gameshark
+Activation = EndFrame
+A60669E2 A604A600
+
+[Moon Jump]
+Type = Gameshark
+Activation = EndFrame
+F406A000 00AA5000
+4400048E 00000000
+0D008128 0E002014
+AAAA0024 AAAAAAAA
+AAAAAAAA AAAAAAAA
+
+[Have level complete The Clearing]
+Type = Gameshark
+Activation = EndFrame
+D00100D4 4465
+300A6BB0 000A
+
+[Have level complete The Fairy Glade]
+Type = Gameshark
+Activation = EndFrame
+C00100D4 4465
+300A6BB1 003C
+300A6BED 0004
+300A6C05 0002
+00000000 FFFF
+
+[Have level complete The Marshes Of Awakening]
+Type = Gameshark
+Activation = EndFrame
+300A6BB3 0023
+300A6C1F 0002
+
+[Have level complete The Bayou]
+Type = Gameshark
+Activation = EndFrame
+300A6BB4 002D
+300A6C20 0004
+
+[Have level complete The Walk Of Life]
+Type = Gameshark
+Activation = EndFrame
+D00100D4 4465
+300A6BB5 001E
+
+[Have Level Complete Whale Bay]
+Type = Gameshark
+Activation = EndFrame
+C00100D4 4465
+300A6BB6 0023
+300A6C0A 0002
+00000000 FFFF
+
+[Have level complete The Menhir Hills]
+Type = Gameshark
+Activation = EndFrame
+C00100D4 4465
+300A6BB8 0037
+300A6BF4 0002
+300A6C0C 0003
+00000000 FFFF
+
+[Have level complete The Cave Of Bad Dreams]
+Type = Gameshark
+Activation = EndFrame
+D00100D4 4465
+300A6BB9 0041
+
+[Have level complete The Canopy]
+Type = Gameshark
+Activation = EndFrame
+C00100D4 4465
+300A6BBA 0041
+300A6BF6 0002
+300A6C26 0004
+00000000 FFFF
+
+[Have level complete The Sanctuary Of Stone + Fire]
+Type = Gameshark
+Activation = EndFrame
+C00100D4 4465
+300A6BBB 0055
+300A6C0F 0006
+00000000 FFFF
+
+[Have levels complete The Echoing Caves]
+Type = Gameshark
+Activation = EndFrame
+C00100D4 4465
+300A6BBD 003C
+300A6BF9 0002
+300A6C29 0005
+00000000 FFFF
+
+[Have levels complete The Precipice]
+Type = Gameshark
+Activation = EndFrame
+C00100D4 4465
+300A6BBF 0041
+300A6C13 0004
+300A6C2B 0001
+00000000 FFFF
+
+[Have levels complete The Sanctuary Of Rock + Lava]
+Type = Gameshark
+Activation = EndFrame
+C00100D4 4465
+300A6BC0 002D
+300A6C2C 0005
+00000000 FFFF
+
+[Have levels complete The Walk Of Power]
+Type = Gameshark
+Activation = EndFrame
+D00100D4 4465
+300A6BC1 0028
+
+[Have levels complete Beneath The Sanctuary Of Rock + Lava]
+Type = Gameshark
+Activation = EndFrame
+C00100D4 4465
+300A6BC2 0032
+300A6C2E 0004
+00000000 FFFF
+
+[Have levels complete Tomb Of The Ancients]
+Type = Gameshark
+Activation = EndFrame
+C00100D4 4465
+300A6BC4 0014
+300A6C18 0004
+00000000 FFFF
+
+[Have levels complete The Gloomy Island]
+Type = Gameshark
+Activation = EndFrame
+C00100D4 4465
+300A6BC5 0023
+300A6C00 0002
+300A6C19 0002
+00000000 FFFF
+
+[Select 60 FPS Unlock\Needs slight overclock]
+Type = Gameshark
+Activation = EndFrame
+A701217A 14802400
+A7012232 14432400
+
+[Select 60 FPS Unlock\Needs Higher overclock but may be more Stable]
+Type = Gameshark
+Activation = EndFrame
+A7012232 14432400
+

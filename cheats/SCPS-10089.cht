@@ -1,0 +1,176 @@
+; CHTDB: ; [ Wild Arms: 2nd Ignition (Japan) {SCPS-10089 | SCPS-10090} ]
+
+[Gold 99999]
+Type = Gameshark
+Activation = EndFrame
+9011AF5C 0098967F
+
+[Exp 99999]
+Type = Gameshark
+Activation = EndFrame
+9011A810 0001869F
+
+[All Items 99]
+Type = Gameshark
+Activation = EndFrame
+9003457C 24E3C5FF
+90034580 A4C304F8
+
+[No Random Battle]
+Type = Gameshark
+Activation = EndFrame
+8011E084 0000
+
+[1st Character Infinite & Max HP]
+Type = Gameshark
+Activation = EndFrame
+8011A79C 270F
+8011A7A0 270F
+
+[1st Character Infinite & Max FP]
+Type = Gameshark
+Activation = EndFrame
+8011A7AA 03F0
+8011A7AC 03F0
+
+[2nd Character Character Infinite & Max HP]
+Type = Gameshark
+Activation = EndFrame
+8011A818 270F
+8011A81C 270F
+
+[2nd Character Character Infinite & Max FP]
+Type = Gameshark
+Activation = EndFrame
+8011A826 03F0
+8011A828 03F0
+
+[3rd Character Character Infinite & Max HP]
+Type = Gameshark
+Activation = EndFrame
+8011A894 270F
+8011A898 270F
+
+[3rd Character Character Infinite & Max FP]
+Type = Gameshark
+Activation = EndFrame
+8011A8A2 03F0
+8011A8A4 03F0
+
+[Have All Albums]
+Type = Gameshark
+Activation = EndFrame
+50001D02 0000
+800F6260 FFFF
+
+[Fp Max In Battle]
+Type = Gameshark
+Activation = EndFrame
+D00A31EE 0C02
+800A31EC 03F0
+A60A31EE 0C022402
+
+[Ashley Level 98]
+Type = Gameshark
+Activation = EndFrame
+3011A7A8 0062
+
+[Not decrease ally character HP]
+Type = Gameshark
+Activation = EndFrame
+900A3220 3C028012
+900A3228 0242102B
+900A322C 10400002
+800A3334 AE46
+
+[Enemies death blow]
+Type = Gameshark
+Activation = EndFrame
+800A31FC 8012
+900A3200 0206302B
+900A3204 24020001
+900A3208 10C00002
+
+[FP MAX in battle]
+Type = Gameshark
+Activation = EndFrame
+800A31F6 A646
+
+[Always activate critical advanced guard counter]
+Type = Gameshark
+Activation = EndFrame
+80072E1A 1000
+
+[I can teleport to all locations]
+Type = Gameshark
+Activation = EndFrame
+800899C8 0001
+
+[Maximum HPMAX & full recovery · When you open the status screen]
+Type = Gameshark
+Activation = EndFrame
+8008174C 1E00
+90007800 2405270F
+90007804 AE850008
+90007808 0800D78D
+9000780C AE850004
+
+[EXP MAX]
+Type = Gameshark
+Activation = EndFrame
+90081D90 08001E04
+90007810 3C020098
+90007814 3442967F
+90007818 08020766
+9000781C AE220078
+
+[MAX level of the arm]
+Type = Gameshark
+Activation = EndFrame
+8009A55A A070
+8009A57E A070
+
+[Number 99 rounds remaining bullets of the arm]
+Type = Gameshark
+Activation = EndFrame
+9009A84C 240F0063
+8009A852 A04F
+8009A85A 01E0
+
+[Special abilities all learn all characters Please use the code below only Guardian Lore]
+Type = Gameshark
+Activation = EndFrame
+80034E9E A0A7
+80034EA4 0001
+
+[Guardian lower all learning]
+Type = Gameshark
+Activation = EndFrame
+80034D1A A127
+80034D20 0001
+80034D78 A100
+80034D82 3004
+
+[Debug Press Select (With Controller 2) No Fight Press select + start All Monsters Book 100% Walk to wall Press X]
+Type = Gameshark
+Activation = EndFrame
+80011018 FFFF
+D00F5CA6 0100
+300F5C1A 00F7
+D00F5CA6 0100
+300F5C40 0001
+D00F5CA6 0800
+300F5C1A 00D0
+D00F5CA6 0800
+300F5C40 0000
+
+[Attack disable security robot]
+Type = Gameshark
+Activation = EndFrame
+8011DEC6 FFFF
+
+[None Encounter]
+Type = Gameshark
+Activation = EndFrame
+3011E080 0000
+

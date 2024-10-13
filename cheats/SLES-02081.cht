@@ -1,0 +1,73 @@
+; CHTDB: ; [ Final Fantasy VIII (France) {SLES-02081 | SLES-12081 | SLES-22081 | SLES-32081} ]
+
+[No Enemy]
+Type = Gameshark
+Activation = EndFrame
+80079290 0008
+
+[Save Anywhere]
+Type = Gameshark
+Activation = EndFrame
+30078641 0003
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+9007831C 05F5E0FF
+
+[Always Use Limits]
+Type = Gameshark
+Activation = EndFrame
+30078BD9 0004
+30078DA9 0004
+30078F79 0004
+
+[Use Gf Fast]
+Type = Gameshark
+Activation = EndFrame
+80078BCC 0000
+80078D9C 0000
+80078F6C 0000
+
+[Unlock All Gf]
+Type = Gameshark
+Activation = EndFrame
+50001044 0000
+30077871 0001
+
+[All Items]
+Type = Gameshark
+Activation = EndFrame
+5000C602 0001
+30078354 0001
+
+[Infinite Items]
+Type = Gameshark
+Activation = EndFrame
+5000C602 0000
+30078355 0063
+
+[All Cards]
+Type = Gameshark
+Activation = EndFrame
+50003701 0000
+30078AF0 00E3
+50001601 0000
+30078B27 00E3
+50002101 0000
+30078B3D 00F0
+50000501 0000
+30078B5E 00FF
+
+[Always Time = 00.00]
+Type = Gameshark
+Activation = EndFrame
+900784E0 00000000
+
+[Infinite HP In Battle]
+Type = Gameshark
+Activation = EndFrame
+80078D2A 270F
+80078EFA 270F
+800790CA 270F
+

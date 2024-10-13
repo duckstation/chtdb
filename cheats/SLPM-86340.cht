@@ -1,0 +1,19 @@
+; CHTDB: ; [ That's QT (Jpn) (2000) (Koei) {SLPM-86340} <thatsqt> ]
+
+[Infinite Money (60000)]
+Type = Gameshark
+Activation = EndFrame
+80170BDC EA60
+
+[All colors]
+Type = Gameshark
+Activation = EndFrame
+90171560 FFFFFFFF
+90171564 007FFFFF
+
+[All clothes catalog]
+Type = Gameshark
+Activation = EndFrame
+80170B94 FFFF
+90170BD0 1FFFFFFF
+

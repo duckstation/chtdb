@@ -1,0 +1,12 @@
+; CHTDB: ; [ Dinomaster Party (Europe) {SLES-03989} ]
+
+[P1 has 999 points]
+Type = Gameshark
+Activation = EndFrame
+8006D0EC 03E7
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8006D0E8 0005
+

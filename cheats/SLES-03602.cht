@@ -1,0 +1,48 @@
+; CHTDB: ; [ Hidden & Dangerous (Europe) {SLES-03602} ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800797A4 00C8
+
+[Infinite Ammo pistol]
+Type = Gameshark
+Activation = EndFrame
+8006EF64 0009
+
+[Infinite Grenades]
+Type = Gameshark
+Activation = EndFrame
+8006EF6E 0009
+
+[Infinite Ammo machine gun]
+Type = Gameshark
+Activation = EndFrame
+8006EF7C 03E7
+
+[Infinite Ammo sniper rifle]
+Type = Gameshark
+Activation = EndFrame
+8006EF94 0064
+
+[Infinite Dinamite]
+Type = Gameshark
+Activation = EndFrame
+8006EF5C 0009
+
+[Open All Missions when loading a saved game]
+Type = Gameshark
+Activation = EndFrame
+8006EEC8 001F
+3006EECB 000F
+9006EECC 031F0F0F
+8006EED8 0200
+
+[Sudden Death All Enemies]
+Type = Gameshark
+Activation = EndFrame
+D0035B22 0004
+80035B24 0000
+D0035B22 0004
+80035B26 3403
+

@@ -1,0 +1,24 @@
+; CHTDB: ; [ Magische Tetris Uitdaging (Netherlands) {SCES-02178} ]
+
+[P1 Max Score]
+Type = Gameshark
+Activation = EndFrame
+901E04E4 3B9AC9FF
+
+[P2 Max Score]
+Type = Gameshark
+Activation = EndFrame
+901E0624 3B9AC9FF
+
+[Press L2 For P1 Max Gauge]
+Type = Gameshark
+Activation = EndFrame
+E01E1140 0001
+801E0442 9800
+
+[Press L2 For P2 Max Gauge]
+Type = Gameshark
+Activation = EndFrame
+E01E1154 0001
+801E0582 9800
+

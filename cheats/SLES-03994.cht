@@ -1,0 +1,7 @@
+; CHTDB: ; [ Formula GP (Europe) {SLES-03994} ]
+
+[Start on lap 3]
+Type = Gameshark
+Activation = EndFrame
+801E8318 0003
+

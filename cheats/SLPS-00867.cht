@@ -1,0 +1,26 @@
+; CHTDB: ; [ Metal Angel 3 (Jpn) (1997) (Pack-in-Soft) {SLPS-00867~SLPS-00868} <metalan3> ]
+
+[1st Character Max Stats]
+Type = Gameshark
+Activation = EndFrame
+8006561C 03E7
+80065628 03E7
+80065634 03E7
+80065640 03E7
+8006564C 03E7
+80065658 03E7
+80065664 03E7
+800655EC 03E7
+800655F8 03E7
+80065604 03E7
+
+[Infinite Point To Upgrade Armor Suit disconnect this code when you assigned the points that you want]
+Type = Gameshark
+Activation = EndFrame
+800655EC 03E7
+
+[Other Points disconnect this code when you assigned the points that you want]
+Type = Gameshark
+Activation = EndFrame
+80043568 0063
+

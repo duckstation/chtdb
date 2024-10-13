@@ -1,0 +1,19 @@
+; CHTDB: ; [ Hajime no Ippo: The Fighting! (Japan) {SLPS-00945} ]
+
+[Max Stats]
+Type = Gameshark
+Activation = EndFrame
+900564B8 76007600
+900564BC 76007600
+900564C0 76007600
+900564C4 76007600
+900564C8 76007600
+900564CC 76007600
+900564D0 76007600
+800564D4 0000
+
+[Never Tired]
+Type = Gameshark
+Activation = EndFrame
+800564D4 0000
+

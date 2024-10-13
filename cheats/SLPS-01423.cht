@@ -1,0 +1,7 @@
+; CHTDB: ; [ King of Parlor 2 (Japan) {SLPS-01423} ]
+
+[Have 999999 money]
+Type = Gameshark
+Activation = EndFrame
+900E70C8 00989676
+

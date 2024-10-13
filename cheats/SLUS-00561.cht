@@ -1,0 +1,177 @@
+; CHTDB: ; [ Mega Man X4 (USA) (1997) (Capcom Entertainment) {SLUS-00561} <megamnx4> ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80141924 3023
+80172206 3030
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80172204 0909
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+80141928 0100
+
+[Infinite Weapons]
+Type = Gameshark
+Activation = EndFrame
+50000502 0000
+80141970 3030
+
+[Hit Select For 'Suicide' To go with the Infinite Energy code, for when you fall in pits and get stuck.]
+Type = Gameshark
+Activation = EndFrame
+D0166C08 0100
+301418CC 0003
+
+[All Subtanks + L2 To Fill]
+Type = Gameshark
+Activation = EndFrame
+8017221A F000
+D0166C08 0001
+9017221C 00202020
+
+[Infinite Lightning Web, Nova Strike + Rakuhouha]
+Type = Gameshark
+Activation = EndFrame
+80141970 3030
+
+[Infinite Leg Jets]
+Description = With this cheat, Press 'X' to turn jets off
+Type = Gameshark
+Activation = EndFrame
+8014199C 9D00
+
+[Death Touch (sets the energy of your opponent to zero whenever you use the square (fire) button)]
+Type = Gameshark
+Activation = EndFrame
+D0166C08 0080
+8013BF2C 0000
+
+[Death Touch 2 (sets the energy of Magma Dragoon to zero whenever you use the square (fire) button)]
+Type = Gameshark
+Activation = EndFrame
+D0166C08 0080
+8013C19C 0000
+
+[Death Touch 3 (sets the energy of Iris + Double to zero whenever you use the square (fire) button)]
+Type = Gameshark
+Activation = EndFrame
+D0166C08 0080
+8013BFC8 0000
+
+[Costume Change\Special Costume]
+Type = Gameshark
+Activation = EndFrame
+801721F6 0100
+
+[Costume Change\Old Costume]
+Type = Gameshark
+Activation = EndFrame
+801721F6 0000
+
+[Floater Code]
+Type = Gameshark
+Activation = EndFrame
+D0166C08 0040
+801418EE 0000
+
+[Air x Code]
+Type = Gameshark
+Activation = EndFrame
+801418EC 6E00
+
+[Sky Masters]
+Type = Gameshark
+Activation = EndFrame
+8014194E 0000
+
+[Lethal Ordinance X's weapon is permanently set to four stored charge]
+Type = Gameshark
+Activation = EndFrame
+3014196E 0404
+
+[Super Jump For Mega (Air x Variation)]
+Type = Gameshark
+Activation = EndFrame
+D0166C08 0040
+801418EC 9000
+D0166C08 2040
+801418EC 9000
+
+[Infinite Frost Tower + Infinite Soul Body]
+Type = Gameshark
+Activation = EndFrame
+80141972 3030
+
+[Infinite Rising Fire + Infinite Ground Hunter]
+Type = Gameshark
+Activation = EndFrame
+80141974 3030
+
+[Infinite Aiming Laser + Infinite Double Cyclone]
+Type = Gameshark
+Activation = EndFrame
+80141976 3030
+
+[Infinite Twin Slasher]
+Type = Gameshark
+Activation = EndFrame
+80141978 3030
+
+[Have All Weapons (Can't Advace To Spaceport)]
+Type = Gameshark
+Activation = EndFrame
+30141981 00FF
+
+[Have All Enhancement Parts]
+Type = Gameshark
+Activation = EndFrame
+3014196F 00FF
+
+[X-Buster With Weapon Always Charged]
+Type = Gameshark
+Activation = EndFrame
+30141963 0002
+
+[X-Buster Always Charged (Other Fire Button)]
+Type = Gameshark
+Activation = EndFrame
+30141964 0002
+
+[Arm Enhancement Type 1, Plasma Blast (Other Fire Button)]
+Type = Gameshark
+Activation = EndFrame
+30141980 0002
+30141964 0002
+
+[Arm Enhancemen Type 2, Quadra Blast]
+Type = Gameshark
+Activation = EndFrame
+30141980 0001
+3014196E 0004
+
+[Infinite Leg Jets Press X Button To Turn Jets Off]
+Type = Gameshark
+Activation = EndFrame
+8014199C 9D00
+
+[Always Have Shadows]
+Type = Gameshark
+Activation = EndFrame
+80141954 0001
+
+[Infinite Dash (No Dash Jump)]
+Type = Gameshark
+Activation = EndFrame
+8014194C 0000
+
+[Infinite Dash (Easy Dash Jump)]
+Type = Gameshark
+Activation = EndFrame
+8014194C 0001
+

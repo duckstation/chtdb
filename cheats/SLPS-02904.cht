@@ -1,0 +1,46 @@
+; CHTDB: ; [ Hoshigami - Shizumiyuku Aoki Daichi (Jpn) (2002) (MaxFive) {SLPS-02904} <hoshigamj> ]
+
+[MAX money]
+Type = Gameshark
+Activation = EndFrame
+900AAE60 0098967F
+
+[Infinite + Max HP]
+Type = Gameshark
+Activation = EndFrame
+800A9BC0 270F
+800A9BCC 270F
+
+[Mortal blow]
+Type = Gameshark
+Activation = EndFrame
+D00A72AC 0101
+800FB822 0000
+D00A72AC 0102
+800FB822 0043
+
+[All items max]
+Type = Gameshark
+Activation = EndFrame
+900673C4 241A0063
+900673CC A05A0004
+
+[Pick-your-own skills temple]
+Type = Gameshark
+Activation = EndFrame
+90042EE4 241A0063
+80042F0E A05A
+80042F26 AFBA
+
+[One level up in a single battle]
+Type = Gameshark
+Activation = EndFrame
+C00FC434 002C
+900FC41C 8E620018
+800FC422 1400
+900FC424 30420010
+900FC428 10400003
+900FC42C 24020064
+800FC436 AE62
+00000000 FFFF
+

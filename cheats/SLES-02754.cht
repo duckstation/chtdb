@@ -1,0 +1,447 @@
+; CHTDB: ; [ Vagrant Story (Europe) {SLES-02754} ]
+
+[Time 00.00.00]
+Type = Gameshark
+Activation = EndFrame
+D0042BD4 15F4
+80042BD6 0000
+A6042BD4 15F40000
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+D011FA2E 8011
+8011FA58 03E7
+
+[Max Hp]
+Type = Gameshark
+Activation = EndFrame
+D011FA2E 8011
+8011FA5A 03E7
+
+[Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+D011FA2E 8011
+8011FA5C 03E7
+
+[Max Mp]
+Type = Gameshark
+Activation = EndFrame
+D011FA2E 8011
+8011FA5E 03E7
+
+['Risk' Always Zero]
+Type = Gameshark
+Activation = EndFrame
+3011FA60 0000
+
+[Save anywhere]
+Type = Gameshark
+Activation = EndFrame
+D0109FA0 4E63
+80109FAA 2400
+
+[Moonjump]
+Type = Gameshark
+Activation = EndFrame
+D003FF5A 7FFF
+801203C2 FDF9
+
+['Body' Always Excellent]
+Type = Gameshark
+Activation = EndFrame
+3012006C 00C8
+
+['Right Arm' Always Excellent]
+Type = Gameshark
+Activation = EndFrame
+3011FEB4 00C8
+
+['Left Arm' Always Excellent]
+Type = Gameshark
+Activation = EndFrame
+3011FDD8 00C8
+
+['Head' Always Excellent]
+Type = Gameshark
+Activation = EndFrame
+3011FF90 00C8
+
+['Legs' Always Excellent]
+Type = Gameshark
+Activation = EndFrame
+30120148 00C8
+
+[Super Strength]
+Type = Gameshark
+Activation = EndFrame
+D011FA2E 8011
+8011FA62 270F
+
+[Max Strength]
+Type = Gameshark
+Activation = EndFrame
+D011FA2E 8011
+8011FA64 270F
+
+[Super Intelligence]
+Type = Gameshark
+Activation = EndFrame
+D011FA2E 8011
+8011FA66 270E
+
+[Max Intelligence]
+Type = Gameshark
+Activation = EndFrame
+D011FA2E 8011
+8011FA68 270E
+
+[Super Agility]
+Type = Gameshark
+Activation = EndFrame
+D011FA2E 8011
+8011FA6A 270F
+
+[Max Agility]
+Type = Gameshark
+Activation = EndFrame
+D011FA2E 8011
+8011FA6C 270F
+
+[Activate teleportation spell (from magic menu)]
+Type = Gameshark
+Activation = EndFrame
+80061BC4 0105
+
+[Enable all teleport locations]
+Type = Gameshark
+Activation = EndFrame
+50001202 0000
+80061C66 0101
+
+[No Slowdown]
+Type = Gameshark
+Activation = EndFrame
+8005E24C 0002
+
+[Max Item-Codes\Slot 1]
+Type = Gameshark
+Activation = EndFrame
+300614EA 0064
+
+[Max Item-Codes\Slot 2]
+Type = Gameshark
+Activation = EndFrame
+300614EE 0064
+
+[Max Item-Codes\Slot 3]
+Type = Gameshark
+Activation = EndFrame
+300614F2 0064
+
+[Max Item-Codes\Slot 4]
+Type = Gameshark
+Activation = EndFrame
+300614F6 0064
+
+[Max Item-Codes\Slot 5]
+Type = Gameshark
+Activation = EndFrame
+300614FA 0064
+
+[Max Item-Codes\Slot 6]
+Type = Gameshark
+Activation = EndFrame
+300614FE 0064
+
+[Max Item-Codes\Slot 7]
+Type = Gameshark
+Activation = EndFrame
+30061502 0064
+
+[Max Item-Codes\Slot 8]
+Type = Gameshark
+Activation = EndFrame
+30061506 0064
+
+[Max Item-Codes\Slot 9]
+Type = Gameshark
+Activation = EndFrame
+3006150A 0064
+
+[Max Item-Codes\Slot 10]
+Type = Gameshark
+Activation = EndFrame
+3006150E 0064
+
+[Max Item-Codes\Slot 11]
+Type = Gameshark
+Activation = EndFrame
+30061512 0064
+
+[Max Item-Codes\Slot 12]
+Type = Gameshark
+Activation = EndFrame
+30061516 0064
+
+[Max Item-Codes\Slot 13]
+Type = Gameshark
+Activation = EndFrame
+3006151A 0064
+
+[Max Item-Codes\Slot 14]
+Type = Gameshark
+Activation = EndFrame
+3006151E 0064
+
+[Max Item-Codes\Slot 15]
+Type = Gameshark
+Activation = EndFrame
+30061522 0064
+
+[Max Item-Codes\Slot 16]
+Type = Gameshark
+Activation = EndFrame
+30061526 0064
+
+[Max Item-Codes\Slot 17]
+Type = Gameshark
+Activation = EndFrame
+3006152A 0064
+
+[Max Item-Codes\Slot 18]
+Type = Gameshark
+Activation = EndFrame
+3006152E 0064
+
+[Max Item-Codes\Slot 19]
+Type = Gameshark
+Activation = EndFrame
+30061532 0064
+
+[Max Item-Codes\Slot 20]
+Type = Gameshark
+Activation = EndFrame
+30061536 0064
+
+[Max Item-Codes\Slot 21]
+Type = Gameshark
+Activation = EndFrame
+3006153A 0064
+
+[Max Item-Codes\Slot 22]
+Type = Gameshark
+Activation = EndFrame
+3006153E 0064
+
+[Max Item-Codes\Slot 23]
+Type = Gameshark
+Activation = EndFrame
+30061542 0064
+
+[Max Item-Codes\Slot 24]
+Type = Gameshark
+Activation = EndFrame
+30061546 0064
+
+[Max Item-Codes\Slot 25]
+Type = Gameshark
+Activation = EndFrame
+3006154A 0064
+
+[Max Item-Codes\Slot 26]
+Type = Gameshark
+Activation = EndFrame
+3006154E 0064
+
+[Max Item-Codes\Slot 27]
+Type = Gameshark
+Activation = EndFrame
+30061552 0064
+
+[Max Item-Codes\Slot 28]
+Type = Gameshark
+Activation = EndFrame
+30061556 0064
+
+[Max Item-Codes\Slot 29]
+Type = Gameshark
+Activation = EndFrame
+3006155A 0064
+
+[Max Item-Codes\Slot 30]
+Type = Gameshark
+Activation = EndFrame
+3006155E 0064
+
+[Max Item-Codes\Slot 31]
+Type = Gameshark
+Activation = EndFrame
+30061562 0064
+
+[Max Item-Codes\Slot 32]
+Type = Gameshark
+Activation = EndFrame
+30061566 0064
+
+[Max Item-Codes\Slot 33]
+Type = Gameshark
+Activation = EndFrame
+3006156A 0064
+
+[Max Item-Codes\Slot 34]
+Type = Gameshark
+Activation = EndFrame
+3006156E 0064
+
+[Max Item-Codes\Slot 35]
+Type = Gameshark
+Activation = EndFrame
+30061572 0064
+
+[Max Item-Codes\Slot 36]
+Type = Gameshark
+Activation = EndFrame
+30061576 0064
+
+[Max Item-Codes\Slot 37]
+Type = Gameshark
+Activation = EndFrame
+3006157A 0064
+
+[Max Item-Codes\Slot 38]
+Type = Gameshark
+Activation = EndFrame
+3006157E 0064
+
+[Max Item-Codes\Slot 39]
+Type = Gameshark
+Activation = EndFrame
+30061582 0064
+
+[Max Item-Codes\Slot 40]
+Type = Gameshark
+Activation = EndFrame
+30061586 0064
+
+[Max Item-Codes\Slot 41]
+Type = Gameshark
+Activation = EndFrame
+3006158A 0064
+
+[Max Item-Codes\Slot 42]
+Type = Gameshark
+Activation = EndFrame
+3006158E 0064
+
+[Max Item-Codes\Slot 43]
+Type = Gameshark
+Activation = EndFrame
+30061592 0064
+
+[Max Item-Codes\Slot 44]
+Type = Gameshark
+Activation = EndFrame
+30061596 0064
+
+[Max Item-Codes\Slot 45]
+Type = Gameshark
+Activation = EndFrame
+3006159A 0064
+
+[Max Item-Codes\Slot 46]
+Type = Gameshark
+Activation = EndFrame
+3006159E 0064
+
+[Max Item-Codes\Slot 47]
+Type = Gameshark
+Activation = EndFrame
+300615A2 0064
+
+[Max Item-Codes\Slot 48]
+Type = Gameshark
+Activation = EndFrame
+300615A6 0064
+
+[Max Item-Codes\Slot 49]
+Type = Gameshark
+Activation = EndFrame
+300615AA 0064
+
+[Max Item-Codes\Slot 50]
+Type = Gameshark
+Activation = EndFrame
+300615AE 0064
+
+[Max Item-Codes\Slot 51]
+Type = Gameshark
+Activation = EndFrame
+300615B2 0064
+
+[Max Item-Codes\Slot 52]
+Type = Gameshark
+Activation = EndFrame
+300615B6 0064
+
+[Max Item-Codes\Slot 53]
+Type = Gameshark
+Activation = EndFrame
+300615BA 0064
+
+[Max Item-Codes\Slot 54]
+Type = Gameshark
+Activation = EndFrame
+300615BE 0064
+
+[Max Item-Codes\Slot 55]
+Type = Gameshark
+Activation = EndFrame
+300615C2 0064
+
+[Max Item-Codes\Slot 56]
+Type = Gameshark
+Activation = EndFrame
+300615C6 0064
+
+[Max Item-Codes\Slot 57]
+Type = Gameshark
+Activation = EndFrame
+300615CA 0064
+
+[Max Item-Codes\Slot 58]
+Type = Gameshark
+Activation = EndFrame
+300615CE 0064
+
+[Max Item-Codes\Slot 59]
+Type = Gameshark
+Activation = EndFrame
+300615D2 0064
+
+[Max Item-Codes\Slot 60]
+Type = Gameshark
+Activation = EndFrame
+300615D6 0064
+
+[Max Item-Codes\Slot 61]
+Type = Gameshark
+Activation = EndFrame
+300615DA 0064
+
+[Max Item-Codes\Slot 62]
+Type = Gameshark
+Activation = EndFrame
+300615DE 0064
+
+[Max Item-Codes\Slot 63]
+Type = Gameshark
+Activation = EndFrame
+300615E2 0064
+
+[Max Item-Codes\Slot 64]
+Type = Gameshark
+Activation = EndFrame
+300615E6 0064
+

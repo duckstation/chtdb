@@ -1,0 +1,119 @@
+; CHTDB: ; [ Die Hard Trilogy 2 - Viva Las Vegas (USA) (2000) (Fox Interactive) {SLUS-01015} <diehard2> ]
+
+[3rd Person Action/Adventure\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80101C94 01F4
+
+[3rd Person Action/Adventure\Invincibility]
+Type = Gameshark
+Activation = EndFrame
+E008C5AD 0001
+800F4804 0001
+
+[3rd Person Action/Adventure\First Person Mode Enabled]
+Type = Gameshark
+Activation = EndFrame
+E008C5AD 0001
+80101BB2 000C
+E008C5AD 0001
+80101BEE 000C
+
+[3rd Person Action/Adventure\Have All Weapons]
+Type = Gameshark
+Activation = EndFrame
+E008C5AD 0001
+80101D70 00FF
+
+[3rd Person Action/Adventure\Infinite Ammo (All Weapons)]
+Type = Gameshark
+Activation = EndFrame
+D00DD9D4 0144
+800DD9D6 2400
+
+[Extreme Driving\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800FA284 01F4
+
+[Extreme Driving Infinite Nitro]
+Type = Gameshark
+Activation = EndFrame
+E008C5AD 0003
+800FA290 1388
+
+[Extreme Driving\Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800FC038 647C
+
+[Extreme Driving\Invincibility]
+Type = Gameshark
+Activation = EndFrame
+E008C5AD 0003
+800FA2D4 0001
+
+[Extreme Driving\1-Hit To Destroy Cars]
+Type = Gameshark
+Activation = EndFrame
+800DA5EE 2400
+
+[Extreme Driving\1-Hit To Destroy Cars In Highway 2]
+Type = Gameshark
+Activation = EndFrame
+E008C5AD 0003
+800FB08C 0000
+E008C5AD 0003
+800FB470 0000
+
+[Extreme Driving\Enable Rainy Weather]
+Type = Gameshark
+Activation = EndFrame
+E008C5AD 0003
+8008D910 0001
+
+[Extreme Driving\Have Nitro]
+Type = Gameshark
+Activation = EndFrame
+E008C5AD 0003
+800FA292 0000
+
+[Sharp Shooting\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800FA870 01F4
+
+[Sharp Shooting\Invincibility]
+Type = Gameshark
+Activation = EndFrame
+E008C5AD 0002
+800EC4B4 0001
+
+[Sharp Shooting\Enable Auto Reload]
+Type = Gameshark
+Activation = EndFrame
+E008C5AD 0002
+800FA964 0001
+
+[Sharp Shooting\Have All Weapons]
+Type = Gameshark
+Activation = EndFrame
+E008C5AD 0002
+800FA880 00FF
+
+[Sharp Shooting\Infinite Ammo (All Weapons)]
+Type = Gameshark
+Activation = EndFrame
+D00EA7B8 0050
+800EA7BA 2400
+
+[Debug Menu]
+Type = Gameshark
+Activation = EndFrame
+D008C682 FAFF
+800CCF90 0000
+D008C682 EFFF
+800CCF90 0001
+D008C682 FAFF
+8008CFAC 0004
+

@@ -1,0 +1,98 @@
+; CHTDB: ; [ Incredible Crisis (Europe) {SLES-02933} ]
+
+[All Mini Games Open]
+Type = Gameshark
+Activation = EndFrame
+801D3654 0000
+801D3658 0000
+801D365C 0000
+801D3660 0000
+801D3664 0000
+801D3668 0000
+801D366C 0000
+801D3670 0000
+801D3674 0000
+801D3678 0000
+801D367C 0000
+801D3680 0000
+801D3684 0000
+801D3688 0000
+801D368C 0000
+801D3690 0000
+801D3694 0000
+801D3698 0000
+801D369C 0000
+801D36A0 0000
+801D36A4 0000
+801D36A8 0000
+801D36AC 0000
+801D36B0 0000
+801D36B4 0000
+
+[Perfect Dance]
+Type = Gameshark
+Activation = EndFrame
+D01D5762 FFFF
+801D5738 0014
+D01D5762 FFFF
+801D573A 0064
+D01D5762 FFFF
+801D573C 0000
+
+[Bowling Inferno Perfect Run]
+Type = Gameshark
+Activation = EndFrame
+D01D6918 000C
+801D6922 1000
+D01D6620 000C
+801D6624 0000
+D01D6620 000C
+801D6626 FFFF
+
+[Elevator Of Doom Stop Elevator Quickly]
+Type = Gameshark
+Activation = EndFrame
+D01D82B4 FFFF
+801D8236 0013
+
+[Nerd On A Wire Stop Timer]
+Type = Gameshark
+Activation = EndFrame
+D01BC640 0003
+801BC618 0B00
+
+[Paramedics The A Team Only Need 1 Correct Answer]
+Type = Gameshark
+Activation = EndFrame
+D01D3514 0000
+301D3514 000A
+
+[Let's Go by Stretcher Quick Win]
+Type = Gameshark
+Activation = EndFrame
+A61D601C 07D00001
+
+[Love, Fireworks & Ferris Wheel Quick Win]
+Type = Gameshark
+Activation = EndFrame
+A61D4C5A 00010014
+
+[Independence Bay Quick Win]
+Type = Gameshark
+Activation = EndFrame
+A61D5DD0 0A680004
+
+[Titanic Away Quick Win]
+Type = Gameshark
+Activation = EndFrame
+D01D999C 0000
+801D9A14 A600
+D01D999E 0000
+801D9A16 000E
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801AFD6C 0000
+801AFD70 0005
+

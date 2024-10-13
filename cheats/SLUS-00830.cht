@@ -1,0 +1,22 @@
+; CHTDB: ; [ High Heat Baseball 2000 (USA) (1999) (The 3DO Company) {SLUS-00830} <highh2k> ]
+
+[Select Away Team Score\9]
+Type = Gameshark
+Activation = EndFrame
+800A252C 0009
+
+[Select Away Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+800A252C 0000
+
+[Select Home Team Score\9]
+Type = Gameshark
+Activation = EndFrame
+800A2528 0009
+
+[Select Home Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+800A2528 0000
+

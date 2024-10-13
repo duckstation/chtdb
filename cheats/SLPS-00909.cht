@@ -1,0 +1,12 @@
+; CHTDB: ; [ Zap! Snowboarding Trix '98 (Jpn) (1997) (Pony Canyon) {SLPS-00909} <zap> ]
+
+[Total Points]
+Type = Gameshark
+Activation = EndFrame
+8010FEA0 0888
+
+[Boarder Ability]
+Type = Gameshark
+Activation = EndFrame
+80103A30 0005
+

@@ -1,0 +1,51 @@
+; CHTDB: ; [ Hard Boiled (Germany) {SLES-00852} ]
+
+[Unverwundbar]
+Type = Gameshark
+Activation = EndFrame
+3005F860 001B
+
+[Unendlich Schildenergie]
+Type = Gameshark
+Activation = EndFrame
+3005F8E8 0014
+
+[Unendlich Stinger-Raketen]
+Type = Gameshark
+Activation = EndFrame
+3005F8F8 0064
+
+[Unendlich SäGeteller .Dreieck+L1]
+Type = Gameshark
+Activation = EndFrame
+D005FB74 1400
+3005FD48 0001
+D005FB74 1400
+3005FC78 0014
+
+[Unendlich Megablast .Dreieck+L2]
+Type = Gameshark
+Activation = EndFrame
+D005FB74 1100
+3005FD58 002A
+D005FB74 1100
+3005FC80 0014
+
+[Alle Nukes Gesammelt Level 1 .Select+Links]
+Type = Gameshark
+Activation = EndFrame
+D005FB74 0081
+3005FB64 0032
+
+[Alle Nukes Gesammelt Level 2 .Select+Rechts]
+Type = Gameshark
+Activation = EndFrame
+D005FB74 0021
+3005FB64 0082
+
+[Alle Nukes Gesammelt Level 4 Select+Oben]
+Type = Gameshark
+Activation = EndFrame
+D005FB74 0011
+3005FB64 0064
+

@@ -1,0 +1,181 @@
+; CHTDB: ; [ Mission: Impossible (Europe) {SLES-01906} ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8008FC0C 0196
+8008FC1C 00FF
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+301F5812 0063
+
+[Infinite Fire Extinguisher]
+Type = Gameshark
+Activation = EndFrame
+301F5820 00FF
+
+[Infinite Teaser]
+Type = Gameshark
+Activation = EndFrame
+301F5832 0064
+
+[Infinite Blue Spray]
+Type = Gameshark
+Activation = EndFrame
+301F5852 0064
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+8008FD7C 00FF
+
+[Infinite Masks]
+Type = Gameshark
+Activation = EndFrame
+301F5822 0063
+
+[Infinite Ammo After Pickup]
+Type = Gameshark
+Activation = EndFrame
+80045446 3C00
+
+[Select Level\Lundkwist-Base]
+Type = Gameshark
+Activation = EndFrame
+D008F894 0000
+3008F894 0000
+
+[Select Level\Submarine Harbor]
+Type = Gameshark
+Activation = EndFrame
+D008F894 0000
+3008F894 0014
+
+[Select Level\The Embassy]
+Type = Gameshark
+Activation = EndFrame
+D008F894 0000
+3008F894 0002
+
+[Select Level\The Camp]
+Type = Gameshark
+Activation = EndFrame
+D008F894 0000
+3008F894 0003
+
+[Select Level\KGB-HQ]
+Type = Gameshark
+Activation = EndFrame
+D008F894 0000
+3008F894 0004
+
+[Select Level\Security corridor]
+Type = Gameshark
+Activation = EndFrame
+D008F894 0000
+3008F894 0005
+
+[Select Level\Sewer]
+Type = Gameshark
+Activation = EndFrame
+D008F894 0000
+3008F894 0006
+
+[Select Level\On the Run]
+Type = Gameshark
+Activation = EndFrame
+D008F894 0000
+3008F894 0007
+
+[Select Level\On the Run II]
+Type = Gameshark
+Activation = EndFrame
+D008F894 0000
+3008F894 0008
+
+[Select Level\Fire Alarm]
+Type = Gameshark
+Activation = EndFrame
+D008F894 0000
+3008F894 0009
+
+[Select Level\The Interrogation]
+Type = Gameshark
+Activation = EndFrame
+D008F894 0000
+3008F894 000A
+
+[Select Level\Serum]
+Type = Gameshark
+Activation = EndFrame
+D008F894 0000
+3008F894 000B
+
+[Select Level\Medical Room]
+Type = Gameshark
+Activation = EndFrame
+D008F894 0000
+3008F894 000c
+
+[Select Level\Rooftops]
+Type = Gameshark
+Activation = EndFrame
+D008F894 0000
+3008F894 000D
+
+[Select Level\Terminal Room]
+Type = Gameshark
+Activation = EndFrame
+D008F894 0000
+3008F894 000E
+
+[Select Level\Escape the Roof]
+Type = Gameshark
+Activation = EndFrame
+D008F894 0000
+3008F894 000F
+
+[Select Level\Waterloo Station]
+Type = Gameshark
+Activation = EndFrame
+D008F894 0000
+3008F894 0010
+
+[Select Level\IGV]
+Type = Gameshark
+Activation = EndFrame
+D008F894 0000
+3008F894 0011
+
+[Select Level\IGV II]
+Type = Gameshark
+Activation = EndFrame
+D008F894 0000
+3008F894 0012
+
+[Select Level\On the Roof]
+Type = Gameshark
+Activation = EndFrame
+D008F894 0000
+3008F894 0013
+
+[Select Level\Tunnel]
+Type = Gameshark
+Activation = EndFrame
+D008F894 0000
+3008F894 0015
+
+[Select Level\The Base]
+Type = Gameshark
+Activation = EndFrame
+D008F894 0000
+3008F894 0016
+
+[Select Level\Gunboat]
+Type = Gameshark
+Activation = EndFrame
+D008F894 0000
+3008F894 0017
+

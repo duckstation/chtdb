@@ -1,0 +1,71 @@
+; CHTDB: ; [ Monkey Hero (USA) (1999) (Take-Two Interactive Software) {SLUS-00765} <monkhero> ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8008E0F8 04FF
+
+[Infinite Coins]
+Type = Gameshark
+Activation = EndFrame
+E208E0FA 009C
+3008E0FA 009C
+3008E0FB 00FF
+
+[Infinite Coins (ALT)]
+Type = Gameshark
+Activation = EndFrame
+8008E0FA DF9E
+
+[Infinite Gold Keys]
+Type = Gameshark
+Activation = EndFrame
+8008E10A 0090
+
+[Infinite Silver Keys]
+Type = Gameshark
+Activation = EndFrame
+3008E105 00FF
+
+[Infinite Golden keys (ALT)]
+Type = Gameshark
+Activation = EndFrame
+3008E0A6 0090
+
+[Infinite Silver keys (ALT)]
+Type = Gameshark
+Activation = EndFrame
+3008E0A1 0090
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800D717C 0002
+
+[Have All Weapons/Items]
+Type = Gameshark
+Activation = EndFrame
+50000901 0000
+3008E0FC 00FF
+
+[Infinite Spear & Firecracker]
+Type = Gameshark
+Activation = EndFrame
+8008E0FC 03C7
+
+[Infinite Exploding Spears]
+Type = Gameshark
+Activation = EndFrame
+8008E0FD 0020
+00000000 0000
+
+[Infinite Firefly container]
+Type = Gameshark
+Activation = EndFrame
+8008E0FB 001C
+
+[Infinite Beauty Fly]
+Type = Gameshark
+Activation = EndFrame
+8008E102 0100
+

@@ -1,0 +1,195 @@
+; CHTDB: ; [ Puyo Puyo Box (Jpn) (2000) (Compile) {SLPS-03114} <puyobox> ]
+
+[Gochamaze Puyo Puyo 1P Final Stage]
+Type = Gameshark
+Activation = EndFrame
+D00BE0F0 0000
+800BE0F4 0009
+D00BE0F0 0001
+800BE0F4 0013
+D00BE0F0 0002
+800BE0F4 001D
+
+[Gochamaze Puyo Puyo 1P Infinite Specials (Player)]
+Type = Gameshark
+Activation = EndFrame
+300D2DFE 0005
+
+[Gochamaze Puyo Puyo 1P Massive Ojama Puyos (CPU)]
+Type = Gameshark
+Activation = EndFrame
+800D427C 001E
+
+[Gochamaze Puyo Puyo 1P No Ojama Puyos (Player)]
+Type = Gameshark
+Activation = EndFrame
+800D2E64 0000
+
+[Gochamaze Puyo Puyo 1P Slow Speed (Player)]
+Type = Gameshark
+Activation = EndFrame
+300D2E1D 0000
+
+[Puyo Puyo Tsuu 1P Final Stage]
+Type = Gameshark
+Activation = EndFrame
+800B6C58 0008
+
+[Puyo Puyo Tsuu 1P Max Exp.]
+Type = Gameshark
+Activation = EndFrame
+900B6C5C 000F423F
+
+[P1 Puyo Puyo Tsuu Can't Pop Puyos]
+Type = Gameshark
+Activation = EndFrame
+300CBDF4 007F
+
+[P2 Puyo Puyo Tsuu Can't Pop Puyos]
+Type = Gameshark
+Activation = EndFrame
+300CD190 007F
+
+[P1 Puyo Puyo Tsuu Massive Ojama Puyos]
+Type = Gameshark
+Activation = EndFrame
+800CBE64 001E
+
+[P2 Puyo Puyo Tsuu Massive Ojama Puyos]
+Type = Gameshark
+Activation = EndFrame
+800CD200 001E
+
+[P1 Puyo Puyo Tsuu Max Score]
+Type = Gameshark
+Activation = EndFrame
+900CBE74 05F5E0FF
+
+[P2 Puyo Puyo Tsuu Max Score]
+Type = Gameshark
+Activation = EndFrame
+900CD210 05F5E0FF
+
+[P1 Puyo Puyo Tsuu No Ojama Puyos]
+Type = Gameshark
+Activation = EndFrame
+800CBE64 0000
+
+[P2 Puyo Puyo Tsuu No Ojama Puyos]
+Type = Gameshark
+Activation = EndFrame
+800CD200 0000
+
+[P1 Puyo Puyo Tsuu Slow Speed]
+Type = Gameshark
+Activation = EndFrame
+300CBE1D 0000
+
+[P2 Puyo Puyo Tsuu Slow Speed]
+Type = Gameshark
+Activation = EndFrame
+300CD1B9 0000
+
+[P1 Puyo Puyo Can't Pop Puyos]
+Type = Gameshark
+Activation = EndFrame
+300CB0A4 007F
+
+[P2 Puyo Puyo Can't Pop Puyos]
+Type = Gameshark
+Activation = EndFrame
+300CC440 007F
+
+[Puyo Puyo Final Stage]
+Type = Gameshark
+Activation = EndFrame
+800B46EC 000F
+
+[P1 Puyo Puyo Massive Ojama Puyos]
+Type = Gameshark
+Activation = EndFrame
+800CB114 001E
+
+[P2 Puyo Puyo Massive Ojama Puyos]
+Type = Gameshark
+Activation = EndFrame
+800CC4B0 001E
+
+[P1 Puyo Puyo Max Score]
+Type = Gameshark
+Activation = EndFrame
+900CB124 05F5E0FF
+
+[P2 Puyo Puyo Max Score]
+Type = Gameshark
+Activation = EndFrame
+900CC4C0 05F5E0FF
+
+[P1 Puyo Puyo No Ojama Puyos]
+Type = Gameshark
+Activation = EndFrame
+800CB114 0000
+
+[P2 Puyo Puyo No Ojama Puyos]
+Type = Gameshark
+Activation = EndFrame
+800CC4B0 0000
+
+[P1 Puyo Puyo Slow Speed]
+Type = Gameshark
+Activation = EndFrame
+300CB0CD 0000
+
+[P2 Puyo Puyo Slow Speed]
+Type = Gameshark
+Activation = EndFrame
+300CC469 0000
+
+[Puyo Puyo Unlock Sound Test]
+Type = Gameshark
+Activation = EndFrame
+80095C90 0001
+
+[Puyo Puyo Quest Mode Have All Keys]
+Type = Gameshark
+Activation = EndFrame
+300FBF52 001E
+300FBF60 0003
+
+[Puyo Puyo Quest Mode Have All Medals]
+Type = Gameshark
+Activation = EndFrame
+300FBF65 003F
+
+[Puyo Puyo Quest Mode Infinite HP / Max HP]
+Type = Gameshark
+Activation = EndFrame
+300FBF49 0008
+300FBF4A 0008
+
+[Puyo Puyo Quest Mode Invisible]
+Type = Gameshark
+Activation = EndFrame
+300FBF64 0001
+
+[Puyo Puyo Quest Mode Max $]
+Type = Gameshark
+Activation = EndFrame
+900FBF5C 05F5E0FF
+
+[Puyo Puyo Quest Mode Max All Stats]
+Type = Gameshark
+Activation = EndFrame
+50000302 0000
+800FBF4C 00FF
+
+[Puyo Puyo Quest Mode Max Exp.]
+Type = Gameshark
+Activation = EndFrame
+900FBF54 05F5E0FF
+
+[Puyo Puyo Quest Mode Max Level]
+Type = Gameshark
+Activation = EndFrame
+300FBF48 0063
+

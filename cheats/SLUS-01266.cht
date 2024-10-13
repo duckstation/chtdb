@@ -1,0 +1,33 @@
+; CHTDB: ; [ Fear Effect 2 - Retro Helix (USA, v1.0) (2001) (Eidos Interactive) {SLUS-01266 / SLUS-01275 / SLUS-01276 / SLUS-01277} <fearfx2a> ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80087780 0002
+
+[No Fear]
+Type = Gameshark
+Activation = EndFrame
+D00495EC 0068
+800495EE 2400
+
+[Infinite Ammo No Fear All Weapons]
+Type = Gameshark
+Activation = EndFrame
+8007B4F8 0103
+
+[Access Art Gallery (All Discs)]
+Type = Gameshark
+Activation = EndFrame
+800BC4DC 0001
+
+[All Weapons]
+Type = Gameshark
+Activation = EndFrame
+3007B4F9 0001
+
+[Game Time (00.00.00)]
+Type = Gameshark
+Activation = EndFrame
+9007B4F4 00000000
+

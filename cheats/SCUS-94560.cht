@@ -1,0 +1,58 @@
+; CHTDB: ; [ Twisted Metal 4 (USA) (1999) (989 Studios) {SCUS-94560} <twistmt4> ]
+
+[Access All Characters]
+Type = Gameshark
+Activation = EndFrame
+D005D810 0134
+8007D458 1000
+
+[P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8005A3C8 0004
+
+[Enable God Mode]
+Type = Gameshark
+Activation = EndFrame
+8004ECF8 0001
+
+[Enable King of The Kill Level]
+Type = Gameshark
+Activation = EndFrame
+80062700 0001
+
+[Enable Nowhere To Hide Level]
+Type = Gameshark
+Activation = EndFrame
+800625C8 0001
+
+[Enable Octa-Gone Level]
+Type = Gameshark
+Activation = EndFrame
+80062660 0001
+
+[Enable Son of A Ditch Level]
+Type = Gameshark
+Activation = EndFrame
+800628C8 0001
+
+[Enable The Citadel Level]
+Type = Gameshark
+Activation = EndFrame
+80062530 0001
+
+[Enable The Islands Level]
+Type = Gameshark
+Activation = EndFrame
+80062830 0001
+
+[Enable The Pits Level]
+Type = Gameshark
+Activation = EndFrame
+80062498 0001
+
+[Enable Tic-Tac-Toast Level]
+Type = Gameshark
+Activation = EndFrame
+80062798 0001
+

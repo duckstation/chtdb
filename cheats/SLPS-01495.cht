@@ -1,0 +1,174 @@
+; CHTDB: ; [ Ojousama Express (Jpn) (1998) (MediaWorks) {SLPS-01495~SLPS-01496} <ojousama> ]
+
+[Have 999999 medals]
+Type = Gameshark
+Activation = EndFrame
+900B4A70 000F423F
+
+[All Alarm possession]
+Type = Gameshark
+Activation = EndFrame
+8004AAB4 3FFF
+
+[Bonus Available]
+Type = Gameshark
+Activation = EndFrame
+8004AAB0 0001
+
+[All Bonus mini-games selectables]
+Type = Gameshark
+Activation = EndFrame
+8004AA6C 00FF
+
+[All-selectable bonus within one monument-Mi]
+Type = Gameshark
+Activation = EndFrame
+8004AAB2 0001
+90072230 01010101
+90072234 01010101
+90072238 01010101
+9007223C 01010101
+80072240 0101
+
+[MAX intimacy with everyone]
+Type = Gameshark
+Activation = EndFrame
+50000D02 0000
+8004CDF4 00FF
+
+[Do not get angry and Nobody is jealous]
+Type = Gameshark
+Activation = EndFrame
+50000D02 0000
+8004CE0C 0000
+
+[MAX intimacy Yamaguchi Sena]
+Type = Gameshark
+Activation = EndFrame
+8004CDF4 00FF
+
+[MAX intimacy Ito wheat]
+Type = Gameshark
+Activation = EndFrame
+8004CDF6 00FF
+
+[MAX intimacy Elena Yuri Nodisu]
+Type = Gameshark
+Activation = EndFrame
+8004CDF8 00FF
+
+[MAX intimacy Nanao Tsubasa]
+Type = Gameshark
+Activation = EndFrame
+8004CDFA 00FF
+
+[MAX intimacy Sakurai Mami]
+Type = Gameshark
+Activation = EndFrame
+8004CDFC 00FF
+
+[MAX intimacy Chitose Satomi]
+Type = Gameshark
+Activation = EndFrame
+8004CDFE 00FF
+
+[MAX intimacy Kakogawa Akiko]
+Type = Gameshark
+Activation = EndFrame
+8004CE00 00FF
+
+[MAX intimacy Matsuura love]
+Type = Gameshark
+Activation = EndFrame
+8004CE02 00FF
+
+[MAX intimacy North green]
+Type = Gameshark
+Activation = EndFrame
+8004CE04 00FF
+
+[MAX intimacy Tsuyama Nanako]
+Type = Gameshark
+Activation = EndFrame
+8004CE06 00FF
+
+[MAX intimacy Kashima Hana]
+Type = Gameshark
+Activation = EndFrame
+8004CE08 00FF
+
+[MAX intimacy Iwaizumi]
+Type = Gameshark
+Activation = EndFrame
+8004CE0A 00FF
+
+[MAX intimacy Iiyama Future]
+Type = Gameshark
+Activation = EndFrame
+8004CE0C 00FF
+
+[Do not get angry and Yamaguchi Sena is not jealous]
+Type = Gameshark
+Activation = EndFrame
+8004CDD0 0000
+
+[Do not get angry and Ito wheat is not jealous]
+Type = Gameshark
+Activation = EndFrame
+8004CDD2 0000
+
+[Do not get angry and Elena Yuri Nodisu is not jealous]
+Type = Gameshark
+Activation = EndFrame
+8004CDD4 0000
+
+[Do not get angry and Nanao Tsubasa is not jealous]
+Type = Gameshark
+Activation = EndFrame
+8004CDD6 0000
+
+[Do not get angry and Sakurai Mami is not jealous]
+Type = Gameshark
+Activation = EndFrame
+8004CDD8 0000
+
+[Do not get angry and Chitose Satomi is not jealous]
+Type = Gameshark
+Activation = EndFrame
+8004CDDA 0000
+
+[Do not get angry and Kakogawa Akiko is not jealous]
+Type = Gameshark
+Activation = EndFrame
+8004CDDC 0000
+
+[Do not get angry and Matsuura love is not jealous]
+Type = Gameshark
+Activation = EndFrame
+8004CDDE 0000
+
+[Do not get angry and North green is not jealous]
+Type = Gameshark
+Activation = EndFrame
+8004CDE0 0000
+
+[Do not get angry and Tsuyama Nanako is not jealous]
+Type = Gameshark
+Activation = EndFrame
+8004CDE2 0000
+
+[Do not get angry and Kashima Hana is not jealous]
+Type = Gameshark
+Activation = EndFrame
+8004CDE4 0000
+
+[Do not get angry and Iwaizumi is not jealous]
+Type = Gameshark
+Activation = EndFrame
+8004CDE6 0000
+
+[Do not get angry and Iiyama Future is not jealous]
+Type = Gameshark
+Activation = EndFrame
+8004CDE8 0000
+

@@ -1,0 +1,151 @@
+; CHTDB: ; [ Medal of Honor (Germany) {SLES-02472} ]
+
+[Überlebe Explosionen]
+Type = Gameshark
+Activation = EndFrame
+D007CFD0 3239
+8007CFD2 2400
+
+[Überlebe Schüsse]
+Type = Gameshark
+Activation = EndFrame
+D007D00C 3239
+8007D00E 2400
+
+[Überlebe alles (Unverwundbar)]
+Type = Gameshark
+Activation = EndFrame
+D007CFD0 3239
+5000023C 2400
+8007CFD2 0000
+
+[Unverwundbar & Sudden Death Gegner]
+Type = Gameshark
+Activation = EndFrame
+D004B3F0 00F4
+8004B3F2 AE00
+D007CFD0 3239
+5000023C 2400
+8007CFD2 0000
+
+[Schnellfeuer]
+Type = Gameshark
+Activation = EndFrame
+D007E86C 0048
+3007E86C 0000
+
+[Abenteuer in der Stadt Freigeschaltet]
+Type = Gameshark
+Activation = EndFrame
+30038934 0001
+
+[Jagd in den Kanälen Freigeschaltet]
+Type = Gameshark
+Activation = EndFrame
+30038958 0001
+
+[Abenteuer Eisenbahn Freigeschaltet]
+Type = Gameshark
+Activation = EndFrame
+300389A8 0001
+
+[Ein kleines Geschenk Freigeschaltet]
+Type = Gameshark
+Activation = EndFrame
+300389CC 0001
+
+[Durch das Nadelöhr Freigeschaltet]
+Type = Gameshark
+Activation = EndFrame
+300389F0 0001
+
+[Ein Treffen mit Greta Freigeschaltet]
+Type = Gameshark
+Activation = EndFrame
+30038A14 0001
+
+[Flucht von der Wolfram Freigeschaltet]
+Type = Gameshark
+Activation = EndFrame
+30038A40 0001
+
+[Über den Dächern von Dachsmag Freigeschaltet]
+Type = Gameshark
+Activation = EndFrame
+30038A64 0001
+
+[In der Höhle des Löwen Freigeschaltet]
+Type = Gameshark
+Activation = EndFrame
+30038A88 0001
+
+[Tauchen ! Freigeschaltet]
+Type = Gameshark
+Activation = EndFrame
+30038AAC 0001
+
+[Der Siegfriedshain Freigeschaltet]
+Type = Gameshark
+Activation = EndFrame
+30038AD8 0001
+
+[Quartier der Offiziersquartiere Freigeschaltet]
+Type = Gameshark
+Activation = EndFrame
+30038AFC 0001
+
+[Senfgasproduktion Freigeschaltet]
+Type = Gameshark
+Activation = EndFrame
+30038B20 0001
+
+[Das Lied der Turbinen Freigeschaltet]
+Type = Gameshark
+Activation = EndFrame
+30038B70 0001
+
+[Generatoren der Zerstörung Freigeschaltet]
+Type = Gameshark
+Activation = EndFrame
+30038B94 0001
+
+[Verrat im Lande des Telemarks Freigeschaltet]
+Type = Gameshark
+Activation = EndFrame
+30038BB8 0001
+
+[Schweres Wasser Freigeschaltet]
+Type = Gameshark
+Activation = EndFrame
+30038BDC 0001
+
+[Der Gebirgspass Freigeschaltet]
+Type = Gameshark
+Activation = EndFrame
+30038CA0 0001
+
+[Merkers Mine Freigeschaltet]
+Type = Gameshark
+Activation = EndFrame
+30038CC4 0001
+
+[Die Schatzhöhlen Freigeschaltet]
+Type = Gameshark
+Activation = EndFrame
+30038CE8 0001
+
+[V-Waffen-Montage Freigeschaltet]
+Type = Gameshark
+Activation = EndFrame
+30038DD0 0001
+
+[Vergeltungsmassnahmen Freigeschaltet]
+Type = Gameshark
+Activation = EndFrame
+30038DF4 0001
+
+[Götterdämmerung Freigeschaltet]
+Type = Gameshark
+Activation = EndFrame
+30038E18 0001
+

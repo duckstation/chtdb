@@ -1,0 +1,23 @@
+; CHTDB: ; [ Silverload (USA) (1996) (Vic Tokai) {SLUS-00050} <silverld> ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+3011F438 003C
+
+[Max Money]
+Type = Gameshark
+Activation = EndFrame
+301159BC 0063
+80115C00 03E7
+
+[Max Bullets]
+Type = Gameshark
+Activation = EndFrame
+8011F440 03E7
+
+[No Reload Gun]
+Type = Gameshark
+Activation = EndFrame
+30115A94 0006
+

@@ -1,0 +1,24 @@
+; CHTDB: ; [ MediEvil (Spain) {SCES-01495} ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800F8450 012C
+
+[Start With Chalice At 100]
+Type = Gameshark
+Activation = EndFrame
+800EEC58 0064
+
+[Extended Cheat Mode Pause the game to have access to View FMV, Sound Test, Camera, Cheats and Debug.]
+Type = Gameshark
+Activation = EndFrame
+300EF11A 0003
+
+[Unlock All Levels]
+Type = Gameshark
+Activation = EndFrame
+300F84A3 0001
+50001401 0000
+300F84BA 0001
+

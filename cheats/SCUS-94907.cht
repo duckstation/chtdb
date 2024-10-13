@@ -1,0 +1,44 @@
+; CHTDB: ; [ Jersey Devil (USA) (1998) (Sony Computer Entertainment America) {SCUS-94907} <jerseydv> ]
+
+[Push Triangle To Have All 5 Letters]
+Type = Gameshark
+Activation = EndFrame
+D001000C 0010
+8005AE70 0020
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+80053E08 004B
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80010044 1950
+
+[Push Triangle For 99 Pumpkins]
+Type = Gameshark
+Activation = EndFrame
+D001000C 0010
+80010040 0063
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80010042 0900
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A7048164 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A7048164 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A7048164 10000400
+

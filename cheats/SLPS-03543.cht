@@ -1,0 +1,35 @@
+; CHTDB: ; [ Kids Station: Hello Kitty to Album Nikki o Tsukurimasho! (Japan) (Kids Station Controller Set) {SLPS-03543} ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800B9906 0003
+
+[Infinite TP]
+Type = Gameshark
+Activation = EndFrame
+800B990A 0004
+
+[Infinite Bt]
+Type = Gameshark
+Activation = EndFrame
+800B990E 0001
+
+[Infinite Health PRESS SELECT TO ACTIVATE]
+Type = Gameshark
+Activation = EndFrame
+D01B8D72 FFFE
+800B9906 0003
+
+[Infinite TP PRESS SELECT TO ACTIVATE]
+Type = Gameshark
+Activation = EndFrame
+D01B8D72 FFFE
+800B990A 0004
+
+[Infinite Bt PRESS SELECT TO ACTIVATE]
+Type = Gameshark
+Activation = EndFrame
+D01B8D72 FFFE
+800B990E 0001
+

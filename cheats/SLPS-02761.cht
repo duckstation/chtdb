@@ -1,0 +1,129 @@
+; CHTDB: ; [ Saraba Uchuu Senkan Yamato: Ai no Senshi-tachi (Japan) {SLPS-02761 | SLPS-02762 | SLPS-02763} ]
+
+[Yamato Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+801B55B4 2710
+
+[Yamato Infinite EN]
+Type = Gameshark
+Activation = EndFrame
+801B550A 4E20
+
+[Space Battleship Yamato Yamato hull]
+Type = Gameshark
+Activation = EndFrame
+801B55B4 7530
+301B7C8C 00C8
+
+[Space Battleship Yamato Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801B550A 5DC0
+801EDA84 5DC0
+
+[First main gun Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+801B7BF4 03E8
+
+[Second main gun Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+801B7BFC 03E8
+
+[Third main gun Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+801B7C04 03E8
+
+[Ancient Susumu HP Max]
+Type = Gameshark
+Activation = EndFrame
+301B7AD0 0064
+
+[Daisuke Island HP Max]
+Type = Gameshark
+Activation = EndFrame
+301B7ADC 0064
+
+[Forest snow HP Max]
+Type = Gameshark
+Activation = EndFrame
+301B7AE8 0064
+
+[Shiro Sanada HP Max]
+Type = Gameshark
+Activation = EndFrame
+301B7AF4 0064
+
+[Yoshikazu Aihara HP Max]
+Type = Gameshark
+Activation = EndFrame
+301B7B00 0064
+
+[Southern Yasuo HP Max]
+Type = Gameshark
+Activation = EndFrame
+301B7B0C 0064
+
+[Kenjiro Ota HP Max]
+Type = Gameshark
+Activation = EndFrame
+301B7B18 0064
+
+[Tokugawa Hikozaemon HP Max]
+Type = Gameshark
+Activation = EndFrame
+301B7B24 0064
+
+[Saito Hajime HP Max]
+Type = Gameshark
+Activation = EndFrame
+301B7B30 0064
+
+[Saburo Kato HP Max]
+Type = Gameshark
+Activation = EndFrame
+301B7B3C 0064
+
+[Akira Yamamoto HP Max]
+Type = Gameshark
+Activation = EndFrame
+301B7B48 0064
+
+[Sado brewing HP Max]
+Type = Gameshark
+Activation = EndFrame
+301B7B54 0064
+
+[Novice Hyota HP Max]
+Type = Gameshark
+Activation = EndFrame
+301B7B60 0064
+
+[Analyzer HP Max]
+Type = Gameshark
+Activation = EndFrame
+301B7B6C 0064
+
+[Hand-to-hand combat 1 person Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+801EDBB2 0064
+
+[Hand-to-hand combat 2 person Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+801EDBE6 0064
+
+[Hand-to-hand combat 3 person Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+801EDC1A 0064
+
+[Hand-to-hand combat 4 person Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+801EDC4E 0064
+

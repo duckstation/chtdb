@@ -1,0 +1,22 @@
+; CHTDB: ; [ Actua Pool (Europe) {SLES-01647} ]
+
+[Turn Aiming Line On]
+Type = Gameshark
+Activation = EndFrame
+8015FE1C 0001
+
+[Turn Aiming Line Off]
+Type = Gameshark
+Activation = EndFrame
+8015FE1C 0000
+
+[Turn Sight Line On]
+Type = Gameshark
+Activation = EndFrame
+8015FFEA 0001
+
+[Turn Sight Line Off]
+Type = Gameshark
+Activation = EndFrame
+8015FFEA 0000
+

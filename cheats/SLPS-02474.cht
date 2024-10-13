@@ -1,0 +1,33 @@
+; CHTDB: ; [ Simple 1500 Series Vol. 24: The Gun Shooting (Japan) {SLPS-02474} ]
+
+[P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8018D284 0003
+
+[P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8018D288 0003
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8018D578 00C8
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+8018D5A4 0008
+
+[Start With 9,999 Score]
+Type = Gameshark
+Activation = EndFrame
+A6153278 0000270F
+
+[Have Machine Gun]
+Type = Gameshark
+Activation = EndFrame
+8018D4DC 0261
+8018D4E4 0BA0
+

@@ -1,0 +1,8 @@
+; CHTDB: ; [ Primal Rage (Europe) {SLES-00140} ]
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8009A804 0000
+800A739E 0000
+

@@ -1,0 +1,29 @@
+; CHTDB: ; [ Muppet Monster Adventure (Germany) {SCES-03091} ]
+
+[Unendlich Sub-Leben]
+Type = Gameshark
+Activation = EndFrame
+300B8685 000F
+300B8686 000F
+
+[Sub-Leben nehmen nicht ab]
+Type = Gameshark
+Activation = EndFrame
+30037054 0000
+
+[Unendlich Leben]
+Type = Gameshark
+Activation = EndFrame
+300B8684 0005
+
+[Unbesiegbar]
+Type = Gameshark
+Activation = EndFrame
+D00689BC FFFF
+800689C0 0000
+
+[Starte mit viel Böser Energie]
+Type = Gameshark
+Activation = EndFrame
+A60B867A 00002328
+

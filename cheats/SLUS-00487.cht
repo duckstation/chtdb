@@ -1,0 +1,71 @@
+; CHTDB: ; [ Test Drive 4 (USA) (1997) (Accolade) {SLUS-00487} <td4> ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80079956 783B
+
+[Always Place First]
+Type = Gameshark
+Activation = EndFrame
+80079972 0001
+
+[Secret Car Select .With this code, hold L1+UP For Secret Car 1, hold L2+UP For Secret Car 2, hold R1+UP For Secret Car 3,hold R2+UP For Secret Car 4, then Select Any Car!]
+Type = Gameshark
+Activation = EndFrame
+D006F264 0410
+8006EDA8 000A
+D006F264 0110
+8006EDA8 000B
+D006F264 0810
+8006EDA8 000C
+D006F264 0210
+8006EDA8 000D
+
+[Unlock Secret Cars]
+Type = Gameshark
+Activation = EndFrame
+80064712 0B0A
+80064714 0D0C
+
+[Unlock Secret Tracks]
+Type = Gameshark
+Activation = EndFrame
+90064748 08070604
+8006474C 0A09
+
+[Points Max]
+Type = Gameshark
+Activation = EndFrame
+8007F1C2 FFFF
+
+[Unlock Slime (Hidden)]
+Type = Gameshark
+Activation = EndFrame
+30064717 000F
+
+[Unlock Hovercraft (Hidden)]
+Type = Gameshark
+Activation = EndFrame
+30064716 000E
+
+[Nitro Boost (press R1)]
+Type = Gameshark
+Activation = EndFrame
+30067385 0001
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A706F2C8 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A706F2C8 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A706F2C8 10000400
+

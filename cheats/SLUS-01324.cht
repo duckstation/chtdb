@@ -1,0 +1,96 @@
+; CHTDB: ; [ Breath of Fire IV (USA) (2000) (Capcom Entertainment) {SLUS-01324} <bof4> ]
+
+[Slot 1-Max Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+801C7A68 270F
+801C7B08 270F
+
+[Slot 2-Max Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+801C7C0C 270F
+801C7CAC 270F
+
+[Slot 3-Max Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+801C7DB0 270F
+801C7E50 270F
+
+[Infinite Zenny]
+Type = Gameshark
+Activation = EndFrame
+8011AD80 FFFF
+
+[Max Zenny]
+Type = Gameshark
+Activation = EndFrame
+9011AD80 0098967F
+
+[Time 0.00]
+Type = Gameshark
+Activation = EndFrame
+9011AD90 00000000
+8011AD94 0000
+
+[Have All Skills In Camp List]
+Type = Gameshark
+Activation = EndFrame
+9011B5C8 FFFFFFFF
+9011B5CC FFFFFFFF
+8011B5D0 FFFF
+
+[Max Stamp Cards]
+Type = Gameshark
+Activation = EndFrame
+801ABA36 2400
+
+[No Random Battles]
+Description = With this cheat, turn off during boss battles, in Ludia when rescuing Cray, and while on the Golden Plain or the game could crash.
+Type = Gameshark
+Activation = EndFrame
+801172A6 1702
+
+[All Faries Have Full Heart And Work Diligentlly]
+Type = Gameshark
+Activation = EndFrame
+50001428 0000
+8011B9FE 6400
+
+[Have All Items]
+Type = Gameshark
+Activation = EndFrame
+50007602 0001
+8011AD98 6301
+
+[Have All Weapons]
+Type = Gameshark
+Activation = EndFrame
+50005702 0001
+8011AF98 6301
+
+[Have All Dragon Forms]
+Type = Gameshark
+Activation = EndFrame
+50000C06 0000
+8011B8D8 0001
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+8016AE1C 0C00
+8016AE1E 240A
+8016AE24 1000
+8016AE26 240A
+8016AE94 0C00
+8016AE96 240A
+8016AE9C 1000
+8016AE9E 240A
+
+[Walk through walls "Press L3 to toggle on/off"]
+Type = Gameshark
+Activation = EndFrame
+D7010001 01000200
+F51D16E6 12932400
+

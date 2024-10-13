@@ -1,0 +1,22 @@
+; CHTDB: ; [ Choro Q 2 (Japan) {SLPS-00710} ]
+
+[Money Up To $65535]
+Type = Gameshark
+Activation = EndFrame
+801EB0D8 FFFF
+
+[Lap Time]
+Type = Gameshark
+Activation = EndFrame
+801EB0C8 0000
+
+[Max Speed]
+Type = Gameshark
+Activation = EndFrame
+801EBA98 3800
+
+[aLWAYS No. 1]
+Type = Gameshark
+Activation = EndFrame
+8017DE6A A220
+

@@ -1,0 +1,43 @@
+; CHTDB: ; [ Shin Seiki Evangelion: Eva to Yukai na Nakama-tachi (Japan) {SLPS-01485} ]
+
+[Player Score 999900]
+Type = Gameshark
+Activation = EndFrame
+800E9024 270F
+
+[Opponent score 0]
+Type = Gameshark
+Activation = EndFrame
+800E91B4 0000
+
+[Misato Hen appearance]
+Type = Gameshark
+Activation = EndFrame
+30052A78 0000
+
+[Ritsuko usable]
+Type = Gameshark
+Activation = EndFrame
+30052A74 0005
+
+[Coach usable]
+Type = Gameshark
+Activation = EndFrame
+30052A75 0005
+
+[Gendou usable]
+Type = Gameshark
+Activation = EndFrame
+30052A76 0004
+
+[Thirteen face waiting Tenpai thirteen orphans]
+Type = Gameshark
+Activation = EndFrame
+900E9000 00080000
+900E9004 00110009
+900E9008 001A0012
+900E900C 001C001B
+900E9010 001E001D
+900E9014 0020001F
+800E9018 0021
+

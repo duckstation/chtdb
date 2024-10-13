@@ -1,0 +1,40 @@
+; CHTDB: ; [ Dragon Ball Z: Ultimate Battle 22 (France) {SLES-00291} ]
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800A6D54 0190
+800BB2F8 0190
+
+[Full Energy]
+Type = Gameshark
+Activation = EndFrame
+800A80F4 0200
+800BB2FA 0200
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80072678 0188
+
+[P2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800726F4 0188
+
+[P2 No Energy]
+Type = Gameshark
+Activation = EndFrame
+800726F4 0000
+
+[Have all characters]
+Type = Gameshark
+Activation = EndFrame
+8003BC14 FFFF
+
+[Have all characters Alternate]
+Type = Gameshark
+Activation = EndFrame
+8004C63E 2800
+9004A6F8 FFFF2403
+

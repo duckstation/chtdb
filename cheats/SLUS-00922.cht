@@ -1,0 +1,300 @@
+; CHTDB: ; [ Dino Crisis (USA, v1.0) (1999) (Capcom Entertainment) {SLUS-00922} <dinocrisa> ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800B9574 04B0
+
+[Have All Maps]
+Type = Gameshark
+Activation = EndFrame
+900C15D0 FFFFFFFF
+900C15D4 FFFFFFFF
+900C15D8 FFFFFFFF
+
+[All Weapons (Regina)]
+Type = Gameshark
+Activation = EndFrame
+800C15A8 FFFF
+
+[Have All Items (Regina)]
+Type = Gameshark
+Activation = EndFrame
+900C15A4 FFFFFFFF
+900C15AC FFFFFFFF
+900C15B0 FFFFFFFF
+900C15B4 FFFFFFFF
+900C15B8 FFFFFFFF
+800C15BC FFFF
+
+[Max Supplies (Regina)\Slot 1]
+Type = Gameshark
+Activation = EndFrame
+300C18CD 00FF
+
+[Max Supplies (Regina)\Slot 2]
+Type = Gameshark
+Activation = EndFrame
+300C18D1 00FF
+
+[Max Supplies (Regina)\Slot 3]
+Type = Gameshark
+Activation = EndFrame
+300C18D5 00FF
+
+[Max Supplies (Regina)\Slot 4]
+Type = Gameshark
+Activation = EndFrame
+300C18D9 00FF
+
+[Max Supplies (Regina)\Slot 5]
+Type = Gameshark
+Activation = EndFrame
+300C18DD 00FF
+
+[Max Supplies (Regina)\Slot 6]
+Type = Gameshark
+Activation = EndFrame
+300C18E1 00FF
+
+[Max Supplies (Regina)\Slot 7]
+Type = Gameshark
+Activation = EndFrame
+300C18E5 00FF
+
+[Max Supplies (Regina)\Slot 8]
+Type = Gameshark
+Activation = EndFrame
+300C18E9 00FF
+
+[Max Supplies (Regina)\Slot 9]
+Type = Gameshark
+Activation = EndFrame
+300C18ED 00FF
+
+[Max Supplies (Regina)\Slot 10]
+Type = Gameshark
+Activation = EndFrame
+300C18F1 00FF
+
+[View First Ending]
+Description = Press Select with this cheat, do not press button to see ending during a FMV scene
+Type = Gameshark
+Activation = EndFrame
+C00B1418 0100
+800B7A48 000A
+300B7A5B 0000
+00000000 FFFF
+
+[View Second Ending]
+Description = Press Select with this cheat, do not press button to see ending during a FMV scene
+Type = Gameshark
+Activation = EndFrame
+C00B1418 0100
+800B7A48 000A
+300B7A5B 0001
+00000000 FFFF
+
+[View Third Ending]
+Description = Press Select with this cheat, do not press button to see ending during a FMV scene
+Type = Gameshark
+Activation = EndFrame
+C00B1418 0100
+800B7A48 000A
+300B7A5B 0002
+00000000 FFFF
+
+[Turbo Boost (Press X)]
+Type = Gameshark
+Activation = EndFrame
+D00B1418 0040
+800B94A0 0100
+
+[Save Anywhere]
+Description = Press L1 + L2
+Type = Gameshark
+Activation = EndFrame
+D00B1418 0005
+800B7A48 0007
+
+[Mini Me (Regina)]
+Type = Gameshark
+Activation = EndFrame
+800B9500 0500
+800B9504 0500
+800B9508 0600
+
+[Giant (Regina)]
+Type = Gameshark
+Activation = EndFrame
+800B9500 1F00
+800B9504 1F00
+800B9508 1F00
+
+[Infinite Ammo + Items]
+Type = Gameshark
+Activation = EndFrame
+8006AC06 2400
+
+[Enable Costume Change]
+Type = Gameshark
+Activation = EndFrame
+A60C1CF4 0001000F
+A60C7C42 00030503
+
+[Enable Extra Missions]
+Type = Gameshark
+Activation = EndFrame
+800C7C42 0403
+
+[Enable Extra Missions (Press R1+R2 At Main Menu)]
+Type = Gameshark
+Activation = EndFrame
+D00B1418 000A
+800C7C42 0403
+
+[Infinite Time-Wipeout Missions]
+Type = Gameshark
+Activation = EndFrame
+800C1D04 1EC8
+800C1D08 184F
+800C1D0C 10D1
+
+[Clear Time Is 0.00.00]
+Type = Gameshark
+Activation = EndFrame
+900C14C4 00000000
+
+[Used 0 Continues]
+Type = Gameshark
+Activation = EndFrame
+300C14CA 0005
+
+[Haven't Saved]
+Type = Gameshark
+Activation = EndFrame
+300C14C3 0000
+
+[Have A Lot Of Plugs On Pickup]
+Type = Gameshark
+Activation = EndFrame
+800C1B00 00FF
+
+[Max Item Box\Slot 1]
+Type = Gameshark
+Activation = EndFrame
+300C1745 00FF
+
+[Max Item Box\Slot 2]
+Type = Gameshark
+Activation = EndFrame
+300C1749 00FF
+
+[Max Item Box\Slot 3]
+Type = Gameshark
+Activation = EndFrame
+300C174D 00FF
+
+[Max Item Box\Slot 4]
+Type = Gameshark
+Activation = EndFrame
+300C1751 00FF
+
+[Max Item Box\Slot 5]
+Type = Gameshark
+Activation = EndFrame
+300C1755 00FF
+
+[Max Item Box\Slot 6]
+Type = Gameshark
+Activation = EndFrame
+300C1759 00FF
+
+[Max Item Box\Slot 7]
+Type = Gameshark
+Activation = EndFrame
+300C175D 00FF
+
+[Max Item Box\Slot 8]
+Type = Gameshark
+Activation = EndFrame
+300C1761 00FF
+
+[Max Item Box\Slot 9]
+Type = Gameshark
+Activation = EndFrame
+300C1765 00FF
+
+[Max Item Box\Slot 10]
+Type = Gameshark
+Activation = EndFrame
+300C1769 00FF
+
+[Invisible Regina]
+Type = Gameshark
+Activation = EndFrame
+800B9472 FFFF
+
+[Turbo Shooting + No Reload]
+Type = Gameshark
+Activation = EndFrame
+A60B949A 01020101
+300B96A0 0063
+300B96A2 0063
+300B96A4 0063
+
+[Change Size Regina Anywhere (Press L1 For Smaller + R2 For Bigger)]
+Type = Gameshark
+Activation = EndFrame
+D00B1418 0001
+D30B9500 0500
+110B9500 0010
+D00B1418 0002
+D20B9500 1F00
+100B9500 0010
+D00B1418 0001
+D30B9504 0500
+110B9504 0010
+D00B1418 0002
+D20B9504 1F00
+100B9504 0010
+D00B1418 0001
+D30B9508 0500
+110B9508 0010
+D00B1418 0002
+D20B9508 1F00
+100B9508 0010
+
+[Walk Thru Walls]
+Type = Gameshark
+Activation = EndFrame
+80080916 2400
+8008093A 2400
+
+[Slow Motion]
+Type = Gameshark
+Activation = EndFrame
+800ABF28 A803
+
+[Transform Size Of Dinosaur's Anytime (Press L2 For Smaller + L1 For Bigger)]
+Type = Gameshark
+Activation = EndFrame
+D00B1418 0001
+D30B7D40 0200
+110B7D40 0010
+D00B1418 0001
+D30B7D44 0200
+110B7D44 0010
+D00B1418 0001
+D30B7D48 0200
+110B7D48 0010
+D00B1418 0004
+D20B7D48 3500
+100B7D48 0010
+D00B1418 0004
+D20B7D44 3500
+100B7D44 0010
+D00B1418 0004
+D20B7D40 3500
+100B7D40 0010
+

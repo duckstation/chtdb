@@ -1,0 +1,7 @@
+; CHTDB: ; [ Panzer Front (USA) (2001) (Agetec) {SLUS-01399} <pnzfront> ]
+
+[Never Reload Cannon]
+Type = Gameshark
+Activation = EndFrame
+801B0D58 0000
+

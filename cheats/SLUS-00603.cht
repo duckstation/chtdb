@@ -1,0 +1,89 @@
+; CHTDB: ; [ Mega Man Legends (USA) (1998) (Capcom Entertainment) {SLUS-00603, SLUS-00603GH} <mmleg> ]
+
+[Infinite Life]
+Type = Gameshark
+Activation = EndFrame
+800B521E 00C4
+
+[Time 00]
+Type = Gameshark
+Activation = EndFrame
+900C1B1C 00000000
+
+[Invincibility Megaman]
+Type = Gameshark
+Activation = EndFrame
+300B52C0 0001
+
+[Stop Clock In Minigames]
+Type = Gameshark
+Activation = EndFrame
+800BF520 007F
+
+[Infinite Money zenny 999999]
+Type = Gameshark
+Activation = EndFrame
+900C1B2C 0001869F
+
+[Have All Special Weapons]
+Type = Gameshark
+Activation = EndFrame
+800BE410 FFFF
+
+[Have All Normal Items]
+Type = Gameshark
+Activation = EndFrame
+900BE420 FFFFFFFF
+900BE424 FFFFFFFF
+
+[Have All Special Items]
+Type = Gameshark
+Activation = EndFrame
+900BE41C FFFFFFFF
+
+[Infinite Health Boat + Airship]
+Type = Gameshark
+Activation = EndFrame
+80100E02 2400
+
+[Unlock All Extra Modes]
+Type = Gameshark
+Activation = EndFrame
+900C1B28 00010001
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+80038058 2082
+8003805A 0800
+80008208 00C0
+8000820A 8485
+8000820C 0000
+8000820E 0000
+80008210 D883
+80008212 0005
+80008214 2843
+80008216 0005
+80008218 2821
+8000821A 00BB
+8000821C 00C0
+8000821E A485
+80008220 00CC
+80008222 8485
+80008224 0000
+80008226 0000
+80008228 D883
+8000822A 0005
+8000822C 2843
+8000822E 0005
+80008230 2821
+80008232 00BB
+80008234 00CC
+80008236 A485
+80008238 00C0
+8000823A 2484
+8000823C E018
+8000823E 0800
+80008240 1F80
+80008242 3C05
+

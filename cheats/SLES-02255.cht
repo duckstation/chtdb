@@ -1,0 +1,449 @@
+; CHTDB: ; [ WWF Attitude (Germany) {SLES-02255} ]
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+D0038CF0 1021
+800EB130 0000
+D0038CF0 1021
+800EB132 0000
+
+[P2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+D0038CF0 1021
+800ED79C 0000
+D0038CF0 1021
+800ED79E 0000
+
+[P3 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+D0038CF0 1021
+800EF594 0000
+D0038CF0 1021
+800EF596 0000
+
+[P4 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+D0038CF0 1021
+800F138C 0000
+D0038CF0 1021
+800F138E 0000
+
+[P1 No Energy]
+Type = Gameshark
+Activation = EndFrame
+D0038CF0 1021
+800EB130 00FF
+D0038CF0 1021
+800EB132 00FF
+
+[P2 No Energy]
+Type = Gameshark
+Activation = EndFrame
+D0038CF0 1021
+800ED79C 00FF
+D0038CF0 1021
+800ED79E 00FF
+
+[P3 No Energy]
+Type = Gameshark
+Activation = EndFrame
+D0038CF0 1021
+800EF594 00FF
+D0038CF0 1021
+800EF596 00FF
+
+[P4 No Energy]
+Type = Gameshark
+Activation = EndFrame
+D0038CF0 1021
+800F138C 00FF
+D0038CF0 1021
+800F138E 00FF
+
+[Infinite Time Out Of Ring]
+Type = Gameshark
+Activation = EndFrame
+D0038CF0 1021
+800EB02C 0333
+
+[P1 Super Strength]
+Type = Gameshark
+Activation = EndFrame
+D0038CF0 1021
+800EB188 FFFF
+
+[P1 Invincibility]
+Type = Gameshark
+Activation = EndFrame
+D0038CF0 1021
+800EB18C 0000
+
+[P1 Super Speed]
+Type = Gameshark
+Activation = EndFrame
+D0038CF0 1021
+800EB190 FFFF
+
+[P1 Super Stamina]
+Type = Gameshark
+Activation = EndFrame
+D0038CF0 1021
+800EB194 FFFF
+
+[P1 Instant Recovery]
+Type = Gameshark
+Activation = EndFrame
+D0038CF0 1021
+800EB198 FFFF
+
+[P2 Super Strength]
+Type = Gameshark
+Activation = EndFrame
+D0038CF0 1021
+800ED7F4 FFFF
+
+[P2 Invincibility]
+Type = Gameshark
+Activation = EndFrame
+D0038CF0 1021
+800ED7F8 0000
+
+[P2 Super Speed]
+Type = Gameshark
+Activation = EndFrame
+D0038CF0 1021
+800ED7FC FFFF
+
+[P2 Super Stamina]
+Type = Gameshark
+Activation = EndFrame
+D0038CF0 1021
+800ED800 FFFF
+
+[P2 Instant Recovery]
+Type = Gameshark
+Activation = EndFrame
+D0038CF0 1021
+800ED804 FFFF
+
+[P3 Super Strength]
+Type = Gameshark
+Activation = EndFrame
+D0038CF0 1021
+800EF5EC FFFF
+
+[P3 Invincibility]
+Type = Gameshark
+Activation = EndFrame
+D0038CF0 1021
+800EF5F0 0000
+
+[P3 Super Speed]
+Type = Gameshark
+Activation = EndFrame
+D0038CF0 1021
+800EF5F4 FFFF
+
+[P3 Super Stamina]
+Type = Gameshark
+Activation = EndFrame
+D0038CF0 1021
+800EF5F8 FFFF
+
+[P3 Instant Recovery]
+Type = Gameshark
+Activation = EndFrame
+D0038CF0 1021
+800EF5FC FFFF
+
+[P4 Super Strength]
+Type = Gameshark
+Activation = EndFrame
+D0038CF0 1021
+800F13E4 FFFF
+
+[P4 Invincibility]
+Type = Gameshark
+Activation = EndFrame
+D0038CF0 1021
+800F13E8 0000
+
+[P4 Super Speed]
+Type = Gameshark
+Activation = EndFrame
+D0038CF0 1021
+800F13EC FFFF
+
+[P4 Super Stamina]
+Type = Gameshark
+Activation = EndFrame
+D0038CF0 1021
+800F13F0 FFFF
+
+[P4 Instant Recovery]
+Type = Gameshark
+Activation = EndFrame
+D0038CF0 1021
+800F13F4 FFFF
+
+[P1 Can't Be Pinned]
+Type = Gameshark
+Activation = EndFrame
+D0038CF0 1021
+800EB0B8 0000
+
+[P1 - P2 Quick Pin .Press Select]
+Type = Gameshark
+Activation = EndFrame
+D00D0A58 0100
+800ED724 0086
+
+[P1 - P3 Quick Pin .Press Select]
+Type = Gameshark
+Activation = EndFrame
+D00D0A58 0100
+800EF51C 0086
+
+[P1 - P4 Quick Pin .Press Select]
+Type = Gameshark
+Activation = EndFrame
+D00D0A58 0100
+800F1314 0086
+
+[P2 Can't Be Pinned]
+Type = Gameshark
+Activation = EndFrame
+D0038CF0 1021
+800ED724 0000
+
+[P2 - P1 Quick Pin .Press Select]
+Type = Gameshark
+Activation = EndFrame
+D00D0A5C 0100
+800EB0B8 0086
+
+[P2 - P3 Quick Pin .Press Select]
+Type = Gameshark
+Activation = EndFrame
+D00D0A5C 0100
+800EF51C 0086
+
+[P2 - P4 Quick Pin .Press Select]
+Type = Gameshark
+Activation = EndFrame
+D00D0A5C 0100
+800F1314 0086
+
+[P3 Can't Be Pinned]
+Type = Gameshark
+Activation = EndFrame
+D0038CF0 1021
+800EF51C 0000
+
+[P3 - P1 Quick Pin .Press Select]
+Type = Gameshark
+Activation = EndFrame
+D00D0A60 0100
+800EB0B8 0086
+
+[P3 - P2 Quick Pin .Press Select]
+Type = Gameshark
+Activation = EndFrame
+D00D0A60 0100
+800ED724 0086
+
+[P3 - P4 Quick Pin .Press Select]
+Type = Gameshark
+Activation = EndFrame
+D00D0A60 0100
+800F1314 0086
+
+[P4 Can't Be Pinned]
+Type = Gameshark
+Activation = EndFrame
+D0038CF0 1021
+800F1314 0000
+
+[P4 - P1 Quick Pin .Press Select]
+Type = Gameshark
+Activation = EndFrame
+D00D0A64 0100
+800EB0B8 0086
+
+[P4 - P2 Quick Pin .Press Select]
+Type = Gameshark
+Activation = EndFrame
+D00D0A64 0100
+800ED724 0086
+
+[P4 - P3 Quick Pin .Press Select]
+Type = Gameshark
+Activation = EndFrame
+D00D0A64 0100
+800EF51C 0086
+
+[No Countout Everyone]
+Type = Gameshark
+Activation = EndFrame
+800388AA 3C00
+
+[P1 No Countout]
+Type = Gameshark
+Activation = EndFrame
+D0038CF0 1021
+800EB02C 0384
+
+[P1 - P2 Quick Countout .Press X]
+Type = Gameshark
+Activation = EndFrame
+D00D0A58 0040
+800ED698 0000
+
+[P1 - P3 Quick Countout .Press X]
+Type = Gameshark
+Activation = EndFrame
+D00D0A58 0040
+800EF490 0000
+
+[P1 - P4 Quick Countout .Press X]
+Type = Gameshark
+Activation = EndFrame
+D00D0A58 0040
+800F1288 0000
+
+[P2 No Countout]
+Type = Gameshark
+Activation = EndFrame
+D0038CF0 1021
+800ED698 0384
+
+[P2 - P1 Quick Countout .Press X]
+Type = Gameshark
+Activation = EndFrame
+D00D0A58 0040
+800EB02C 0000
+
+[P2 - P3 Quick Countout .Press X]
+Type = Gameshark
+Activation = EndFrame
+D00D0A58 0040
+800EF490 0000
+
+[P2 - P4 Quick Countout .Press X]
+Type = Gameshark
+Activation = EndFrame
+D00D0A58 0040
+800F1288 0000
+
+[P3 No Countout]
+Type = Gameshark
+Activation = EndFrame
+D0038CF0 1021
+800EF490 0384
+
+[P3 - P1 Quick Countout .Press X]
+Type = Gameshark
+Activation = EndFrame
+D00D0A58 0040
+800EB02C 0000
+
+[P3 - P2 Quick Countout .Press X]
+Type = Gameshark
+Activation = EndFrame
+D00D0A58 0040
+800ED698 0000
+
+[P3 - P4 Quick Countout .Press X]
+Type = Gameshark
+Activation = EndFrame
+D00D0A58 0040
+800F1288 0000
+
+[P4 No Countout]
+Type = Gameshark
+Activation = EndFrame
+D0038CF0 1021
+800F1288 0384
+
+[P4 - P1 Quick Countout .Press X]
+Type = Gameshark
+Activation = EndFrame
+D00D0A58 0040
+800EB02C 0000
+
+[P4 - P2 Quick Countout .Press X]
+Type = Gameshark
+Activation = EndFrame
+D00D0A58 0040
+800ED698 0000
+
+[P4 - P3 Quick Countout .Press X]
+Type = Gameshark
+Activation = EndFrame
+D00D0A58 0040
+800EF490 0000
+
+[P1 Tie Up Meter Full]
+Type = Gameshark
+Activation = EndFrame
+800ED71C FFFF
+
+[P1 Tie Up Meter Empty]
+Type = Gameshark
+Activation = EndFrame
+800ED71C 0000
+
+[P2 Tie Up Meter Full]
+Type = Gameshark
+Activation = EndFrame
+800EB0B0 FFFF
+
+[P2 Tie Up Meter Empty]
+Type = Gameshark
+Activation = EndFrame
+800EB0B0 0000
+
+[Character Creation Points\Infinite Attribute Points]
+Type = Gameshark
+Activation = EndFrame
+80069810 0000
+
+[Character Creation Points\0% In Move List]
+Type = Gameshark
+Activation = EndFrame
+800626D0 0000
+
+[Character Creation Points\Max Strength]
+Type = Gameshark
+Activation = EndFrame
+300CB618 000B
+
+[Character Creation Points\Max Toughness]
+Type = Gameshark
+Activation = EndFrame
+300CB619 000B
+
+[Character Creation Points\Max Speed]
+Type = Gameshark
+Activation = EndFrame
+300CB61A 000B
+
+[Character Creation Points\Max Recovery]
+Type = Gameshark
+Activation = EndFrame
+300CB61B 000B
+
+[Character Creation Points\Max Charisma]
+Type = Gameshark
+Activation = EndFrame
+300CB61C 000B
+
+[Character Creation Points\Max Mat Skills]
+Type = Gameshark
+Activation = EndFrame
+300CB61D 000B
+

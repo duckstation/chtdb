@@ -1,0 +1,17 @@
+; CHTDB: ; [ Retro Force (Europe) {SLES-01661} ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+A7015460 FFFF0000
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+A703E126 00502400
+
+[Infinite Bombs]
+Type = Gameshark
+Activation = EndFrame
+A705DBDC FFFF0000
+

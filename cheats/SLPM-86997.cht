@@ -1,0 +1,82 @@
+; CHTDB: ; [ Goemon - Shin Sedai Shuumei (Jpn) (2001) (Konami) {SLPM-86997 (VX251-J1)} <goemnsss> ]
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+3007A536 000A
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+8005C420 0063
+
+[Money Max]
+Type = Gameshark
+Activation = EndFrame
+8005D2D6 7530
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+3005D2EC 0063
+
+[Infinite Gas (Robot)]
+Type = Gameshark
+Activation = EndFrame
+800D3418 270F
+
+[Max Power (Robot)]
+Type = Gameshark
+Activation = EndFrame
+800D3428 012C
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+8007A590 0010
+
+[Maxed-Out Weapons]
+Type = Gameshark
+Activation = EndFrame
+8005D2E2 0303
+8005D2E4 0303
+
+[All Arrests Complete]
+Type = Gameshark
+Activation = EndFrame
+50000402 0000
+8005C2D2 0B0B
+
+[All Stages Open]
+Type = Gameshark
+Activation = EndFrame
+50000D02 0000
+8005C34E FFFF
+
+[Have All Characters]
+Type = Gameshark
+Activation = EndFrame
+3005C34D 000F
+
+[Have Best Armor]
+Type = Gameshark
+Activation = EndFrame
+8005D2D2 6312
+
+[Have Best Helmet]
+Type = Gameshark
+Activation = EndFrame
+8005D2D4 6316
+
+[Have Best Riceball]
+Type = Gameshark
+Activation = EndFrame
+8005D2D0 010E
+
+[Press L2+CIRCLE to Play as Yoshitsune]
+Type = Gameshark
+Activation = EndFrame
+D005A5A4 0002
+E005A503 0021
+8005D2F4 0404
+

@@ -1,0 +1,49 @@
+; CHTDB: ; [ In einem Land vor unserer Zeit: Die Rückkehr ins GroÃŸe Tal (Germany) {SLES-02983} ]
+
+[Infinite Lives everyone]
+Type = Gameshark
+Activation = EndFrame
+D0037B98 FFFF
+80037B9E 0000
+
+[Cera\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+300D7DD7 0009
+
+[Cera\Have 98 leaves]
+Type = Gameshark
+Activation = EndFrame
+D0099292 F3FF
+300D7DD9 0062
+
+[Ducky\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+300D7DD4 0009
+
+[Ducky\Have 98 leaves]
+Type = Gameshark
+Activation = EndFrame
+300D7DD6 0062
+
+[Little Foot\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+300D7DD1 0009
+
+[Little Foot\Have 98 leaves]
+Type = Gameshark
+Activation = EndFrame
+300D7DD3 0062
+
+[Spike\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+300D7DDA 0009
+
+[Spike\Have 98 leaves]
+Type = Gameshark
+Activation = EndFrame
+300D7DDC 0062
+

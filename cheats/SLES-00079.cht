@@ -1,0 +1,22 @@
+; CHTDB: ; [ Onside Complete Soccer (Europe) {SLES-00079} ]
+
+[P1 (Left Side) Select Score\9]
+Type = Gameshark
+Activation = EndFrame
+800B0BF4 0009
+
+[P1 (Left Side) Select Score\0]
+Type = Gameshark
+Activation = EndFrame
+800B0BF4 0000
+
+[P2 (Right Side) Select Score\9]
+Type = Gameshark
+Activation = EndFrame
+800B0BF8 0009
+
+[P2 (Right Side) Select Score\0]
+Type = Gameshark
+Activation = EndFrame
+800B0BF8 0000
+

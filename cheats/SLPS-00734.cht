@@ -1,0 +1,18 @@
+; CHTDB: ; [ Mad Stalker - Full Metal Force (Jpn) (1997) (Family Soft) {SLPS-00734} <madstalk> ]
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+801BA250 00C0
+
+[Over Drive]
+Type = Gameshark
+Activation = EndFrame
+801BA260 00C0
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80074368 0063
+801B719C 0243
+

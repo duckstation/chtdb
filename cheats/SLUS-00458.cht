@@ -1,0 +1,197 @@
+; CHTDB: ; [ Forsaken (USA) (1998) (Acclaim Entertainment) {SLUS-00458} <forsaken> ]
+
+[Have Cheat Menu]
+Type = Gameshark
+Activation = EndFrame
+800CCA3C 011F
+
+[Infinite Pulsar]
+Type = Gameshark
+Activation = EndFrame
+8008628C 8000
+
+[Infinite Mug]
+Type = Gameshark
+Activation = EndFrame
+800862D6 0507
+
+[Infinite Mfrl And Graviton]
+Type = Gameshark
+Activation = EndFrame
+800862DC 2A01
+
+[Infinite Purge]
+Type = Gameshark
+Activation = EndFrame
+800862DE 0009
+
+[Infinite Solaris Missiles]
+Type = Gameshark
+Activation = EndFrame
+800862D8 0009
+
+[Infinite Shields]
+Type = Gameshark
+Activation = EndFrame
+80086284 1000
+
+[Infinite Hull]
+Type = Gameshark
+Activation = EndFrame
+80086286 1000
+
+[Infinite Titan + Scatter Missiles]
+Type = Gameshark
+Activation = EndFrame
+800862DA 0507
+
+[Infinite Quantum + Pine Mines]
+Type = Gameshark
+Activation = EndFrame
+800862E0 0507
+
+[Infinite Suss Gun Energy]
+Type = Gameshark
+Activation = EndFrame
+80086290 8000
+
+[Infinite Transpulsar, Beam Laser + Trojax Energy]
+Type = Gameshark
+Activation = EndFrame
+8008628C 8000
+
+[Infinite Pyrolite Rifle Energy]
+Type = Gameshark
+Activation = EndFrame
+8008628E 8000
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800CCA40 0005
+
+[Have Max Power Pods]
+Type = Gameshark
+Activation = EndFrame
+800862B0 0003
+
+[Have Choas Shield]
+Type = Gameshark
+Activation = EndFrame
+800862A0 05B1
+
+[Infinite Nitro]
+Type = Gameshark
+Activation = EndFrame
+80086294 0800
+
+[Have Golden Powerpod]
+Type = Gameshark
+Activation = EndFrame
+800862B8 04AB
+
+[Have Stealth Mantle]
+Type = Gameshark
+Activation = EndFrame
+80086288 0696
+
+[Primary Weapon Suss Gun]
+Type = Gameshark
+Activation = EndFrame
+800862A4 0500
+
+[Select Starting Stage\1 Volcano]
+Type = Gameshark
+Activation = EndFrame
+300CCA3E 0000
+
+[Select Starting Stage\2 Abandoned Subway]
+Type = Gameshark
+Activation = EndFrame
+300CCA3E 0001
+
+[Select Starting Stage\3 Nuclear Power Facility]
+Type = Gameshark
+Activation = EndFrame
+300CCA3E 0002
+
+[Select Starting Stage\4 Thermal Power Station]
+Type = Gameshark
+Activation = EndFrame
+300CCA3E 0003
+
+[Select Starting Stage\5 Federal Bank Vault]
+Type = Gameshark
+Activation = EndFrame
+300CCA3E 0004
+
+[Select Starting Stage\6 Prison Ship]
+Type = Gameshark
+Activation = EndFrame
+300CCA3E 0005
+
+[Select Starting Stage\7 Asteroid Base]
+Type = Gameshark
+Activation = EndFrame
+300CCA3E 0006
+
+[Select Starting Stage\8 Biosphere]
+Type = Gameshark
+Activation = EndFrame
+300CCA3E 0007
+
+[Select Starting Stage\9 Sub Terran Decontamination Unit]
+Type = Gameshark
+Activation = EndFrame
+300CCA3E 0008
+
+[Select Starting Stage\10 Capsized Ship]
+Type = Gameshark
+Activation = EndFrame
+300CCA3E 0009
+
+[Select Starting Stage\11 Orbital Space Station]
+Type = Gameshark
+Activation = EndFrame
+300CCA3E 000A
+
+[Select Starting Stage\12 Military Research Base]
+Type = Gameshark
+Activation = EndFrame
+300CCA3E 000B
+
+[Select Starting Stage\13 Temple of Tloloc]
+Type = Gameshark
+Activation = EndFrame
+300CCA3E 000C
+
+[Select Starting Stage\14 Ancient Temple]
+Type = Gameshark
+Activation = EndFrame
+300CCA3E 000D
+
+[Select Starting Stage\15 Death Match - Pandora's Box]
+Type = Gameshark
+Activation = EndFrame
+300CCA3E 000E
+
+[Select Starting Stage\16 Death Match - Ship]
+Type = Gameshark
+Activation = EndFrame
+300CCA3E 000F
+
+[Select Starting Stage\17 Death Match - Alpha]
+Type = Gameshark
+Activation = EndFrame
+300CCA3E 0010
+
+[Select Starting Stage\18 Death Match - Arena]
+Type = Gameshark
+Activation = EndFrame
+300CCA3E 0011
+
+[Select Starting Stage\19 Death Match - Nuke]
+Type = Gameshark
+Activation = EndFrame
+300CCA3E 0012
+

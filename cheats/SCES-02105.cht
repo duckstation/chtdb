@@ -1,0 +1,143 @@
+; CHTDB: ; [ CTR: Crash Team Racing (Europe) {SCES-02105} ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80035416 3C00
+
+[Complete Adventure Mode Quickly After Visiting One Race]
+Type = Gameshark
+Activation = EndFrame
+50000D02 0000
+8008FF58 FFFF
+
+[One Lap Race/Finish First\Crash Cove]
+Type = Gameshark
+Activation = EndFrame
+801F0D3C 0003
+
+[One Lap Race/Finish First\Roo's Tubes]
+Type = Gameshark
+Activation = EndFrame
+801D4638 0003
+
+[One Lap Race/Finish First\Sewer Speedway]
+Type = Gameshark
+Activation = EndFrame
+801DD5AC 0003
+
+[One Lap Race/Finish First\Mystery Caves]
+Type = Gameshark
+Activation = EndFrame
+801F4E1C 0003
+
+[One Lap Race/Finish First\Ripper Roo]
+Type = Gameshark
+Activation = EndFrame
+801BEA20 0003
+
+[One Lap Race/Finish First\Coco Park]
+Type = Gameshark
+Activation = EndFrame
+801BF908 0003
+
+[One Lap Race/Finish First\Tiger Temple]
+Type = Gameshark
+Activation = EndFrame
+801F3328 0003
+
+[One Lap Race/Finish First\Papu's Pyramid]
+Type = Gameshark
+Activation = EndFrame
+801EC2A8 0003
+
+[One Lap Race/Finish First\Dingo Canyon]
+Type = Gameshark
+Activation = EndFrame
+801C2148 0003
+
+[One Lap Race/Finish First\Papu Papu's Challenge]
+Type = Gameshark
+Activation = EndFrame
+801D6744 0003
+
+[One Lap Race/Finish First\Blizzard Bluff]
+Type = Gameshark
+Activation = EndFrame
+801EC374 0003
+
+[One Lap Race/Finish First\Dragon Mines]
+Type = Gameshark
+Activation = EndFrame
+801E8BD8 0003
+
+[One Lap Race/Finish First\Tiny Arena]
+Type = Gameshark
+Activation = EndFrame
+801F0094 0003
+
+[One Lap Race/Finish First\Komodo Joe's Challenge]
+Type = Gameshark
+Activation = EndFrame
+801D472C 0003
+
+[One Lap Race/Finish First\N.Gin's Labs]
+Type = Gameshark
+Activation = EndFrame
+801F3BE0 0003
+
+[One Lap Race/Finish First\Cortex Castle]
+Type = Gameshark
+Activation = EndFrame
+801F4520 0003
+
+[One Lap Race/Finish First\Hot Air Skyway]
+Type = Gameshark
+Activation = EndFrame
+801F3CA0 0003
+
+[One Lap Race/Finish First\Oxide Station]
+Type = Gameshark
+Activation = EndFrame
+801F3D20 0003
+
+[One Lap Race/Finish First\Pinstripe's Challenge]
+Type = Gameshark
+Activation = EndFrame
+801DEEC4 0003
+
+[One Lap Race/Finish First\N. Oxides Challenge]
+Type = Gameshark
+Activation = EndFrame
+801D8E48 0003
+
+[Battle Mode\P1 Max Apples]
+Type = Gameshark
+Activation = EndFrame
+801863BC 0064
+
+[Battle Mode\Voodoo-Mask Lasts Forever]
+Type = Gameshark
+Activation = EndFrame
+8018245A 0200
+
+[Battle Mode\P2 Max Apples]
+Type = Gameshark
+Activation = EndFrame
+80186A2C 0064
+
+[Battle Mode\Fruit Worth Modifier (All Players) ?00-FF]
+Type = Gameshark
+Activation = EndFrame
+D00AC39C 0030
+800AC394 00??
+D00AC39C 0030
+800AC396 2402
+D00AC39C 0030
+800AC39A 3C00
+
+[Battle Mode MaxPoints]
+Type = Gameshark
+Activation = EndFrame
+300AC030 00FF
+

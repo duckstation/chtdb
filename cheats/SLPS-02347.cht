@@ -1,0 +1,22 @@
+; CHTDB: ; [ Pro Mahjong Kiwame Tengensenhen (Jpn) (1999) (Athena) {SLPS-02347} <mjkiwamt> ]
+
+[Player has 99999 points]
+Type = Gameshark
+Activation = EndFrame
+900C65FC 0001869F
+
+[Opponent 3 has 0 points]
+Type = Gameshark
+Activation = EndFrame
+800C660C 0000
+
+[Opponent 1 has 0 points]
+Type = Gameshark
+Activation = EndFrame
+800C661C 0000
+
+[Opponent 2 has 0 points]
+Type = Gameshark
+Activation = EndFrame
+800C662C 0000
+

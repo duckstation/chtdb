@@ -1,0 +1,17 @@
+; CHTDB: ; [ Disney's Dinosaur (USA) (2000) (Ubi Soft Entertainment Software) {SLUS-01167} <dinosaur> ]
+
+[Aladar Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8006118C 03E7
+
+[Zini Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80061150 03E7
+
+[Flia Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800611C8 03E7
+

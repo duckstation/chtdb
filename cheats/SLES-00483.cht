@@ -1,0 +1,12 @@
+; CHTDB: ; [ Worms Pinball (Europe) {SLES-00483} ]
+
+[Worms table\P1 Infinite balls]
+Type = Gameshark
+Activation = EndFrame
+801DE588 0003
+
+[World Rally Fever\P1 Infinite balls]
+Type = Gameshark
+Activation = EndFrame
+801DE718 0003
+

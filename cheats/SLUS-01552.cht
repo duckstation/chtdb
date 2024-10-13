@@ -1,0 +1,72 @@
+; CHTDB: ; [ Dirt Jockey - Heavy Equipment Operator (USA) (2003) (Mastiff) {SLUS-01552} <dirtjock> ]
+
+[Hydraulic Excavation\Licence Stage 1]
+Type = Gameshark
+Activation = EndFrame
+801A4B40 0064
+
+[Hydraulic Excavation\Licence Stage 2]
+Type = Gameshark
+Activation = EndFrame
+801A4B44 0064
+
+[Hydraulic Excavation\Licence Stage 3]
+Type = Gameshark
+Activation = EndFrame
+801A4B48 0064
+
+[Hydraulic Excavation\Licence Stage 4]
+Type = Gameshark
+Activation = EndFrame
+801A4B4C 0064
+
+[Dump Truck\Licence Stage 1]
+Type = Gameshark
+Activation = EndFrame
+801A4B50 0064
+
+[Dump Truck\Licence Stage 2]
+Type = Gameshark
+Activation = EndFrame
+801A4B54 0064
+
+[Dump Truck\Licence Test]
+Type = Gameshark
+Activation = EndFrame
+801A4B58 0064
+
+[Wheel Loader\Licence Stage 1]
+Type = Gameshark
+Activation = EndFrame
+801A4B60 0064
+
+[Wheel Loader\Licence Stage 2]
+Type = Gameshark
+Activation = EndFrame
+801A4B64 0064
+
+[Bulldozer Stage 1]
+Type = Gameshark
+Activation = EndFrame
+801A4B70 0064
+
+[Bulldozer Stage 2]
+Type = Gameshark
+Activation = EndFrame
+801A4B74 0064
+
+[Bulldozer Test]
+Type = Gameshark
+Activation = EndFrame
+801A4B78 0064
+
+[License Mission Unlock Levels]
+Type = Gameshark
+Activation = EndFrame
+801A0CFC 0001
+
+[Crane Training Test]
+Type = Gameshark
+Activation = EndFrame
+801A4B6C 0064
+

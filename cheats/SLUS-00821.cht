@@ -1,0 +1,112 @@
+; CHTDB: ; [ Street Fighter Alpha 3 (USA) (1999) (Capcom Entertainment) {SLUS-00821, SLUS-00821GH} <sfa3> ]
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80194310 0090
+
+[P1 One Hit Kill]
+Type = Gameshark
+Activation = EndFrame
+A6194310 00900001
+
+[P2 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80194758 0090
+
+[P2 One Hit Kill]
+Type = Gameshark
+Activation = EndFrame
+A6194758 00900001
+
+[P2 No Health]
+Type = Gameshark
+Activation = EndFrame
+80194758 0000
+
+[Enable Everything]
+Type = Gameshark
+Activation = EndFrame
+8017E05E FFFF
+
+[Start On Last Stage]
+Type = Gameshark
+Activation = EndFrame
+80198C8C 0009
+
+[P1 Can Do Specials In Air]
+Type = Gameshark
+Activation = EndFrame
+301942E9 0000
+
+[P2 Can Do Specials In Air]
+Type = Gameshark
+Activation = EndFrame
+30194731 0000
+
+[P1 Can't Do Specials]
+Type = Gameshark
+Activation = EndFrame
+301942E9 0001
+
+[P2 Can't Do Specials]
+Type = Gameshark
+Activation = EndFrame
+30194731 0001
+
+[Only 2 Opponents To Fight In Survival Mode Per Match]
+Type = Gameshark
+Activation = EndFrame
+80198CE4 0005
+
+[Refill Your Drama Partners/ Single Opponents Energy With Pressing R2]
+Type = Gameshark
+Activation = EndFrame
+D0198862 0002
+80194758 00B8
+
+[Press L2 To Bring Survival And Drama Opponents To One Hit .Press Select to bring opponent down to one hit may kill if taunt hits opponent.]
+Type = Gameshark
+Activation = EndFrame
+C0198862 0001
+8019E990 0000
+8019E548 0000
+00000000 FFFF
+
+[P1 Infinite Taunts]
+Type = Gameshark
+Activation = EndFrame
+801943A2 0001
+
+[World Tour Mode\Max Exp For Character]
+Type = Gameshark
+Activation = EndFrame
+90194160 0098967F
+
+[World Tour Mode\Max Exp For Xism8]
+Type = Gameshark
+Activation = EndFrame
+90194164 0098967F
+
+[World Tour Mode\Max Exp For Aism]
+Type = Gameshark
+Activation = EndFrame
+90194168 0098967F
+
+[World Tour Mode\Max Exp For Vism]
+Type = Gameshark
+Activation = EndFrame
+9019416C 0098967F
+
+[Complete 1 Stage to See Ending (Both Players)]
+Type = Gameshark
+Activation = EndFrame
+D0198CC0 0009
+30198CC0 0000
+
+[Rounds to Fight 1 (All Modes)]
+Type = Gameshark
+Activation = EndFrame
+30198C80 0001
+

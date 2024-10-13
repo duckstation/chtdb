@@ -1,0 +1,57 @@
+; CHTDB: ; [ Ouji-sama LV1 (Jpn) (2002) (KID) {SLPS-03412} <oujilv1> ]
+
+[Infinite HP Character 1]
+Type = Gameshark
+Activation = EndFrame
+8010D26A 03E7
+8010D264 03E7
+
+[Infinite MP Character 1]
+Type = Gameshark
+Activation = EndFrame
+8010D270 03E7
+8010D274 03E7
+
+[Infinite HP Character 2]
+Type = Gameshark
+Activation = EndFrame
+8010D266 03E7
+8010D26C 03E7
+
+[Infinite MP Character 2]
+Type = Gameshark
+Activation = EndFrame
+8010D272 03E7
+8010D276 03E7
+
+[Infinite Gold]
+Type = Gameshark
+Activation = EndFrame
+8010D260 270F
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+8010DEE8 0063
+
+[Character shop appearance]
+Type = Gameshark
+Activation = EndFrame
+3010DF46 000C
+
+[LV 99]
+Type = Gameshark
+Activation = EndFrame
+3010E168 0063
+
+[Recollection mode]
+Type = Gameshark
+Activation = EndFrame
+3010EDFF 00FF
+
+[CG mode + 01h]
+Type = Gameshark
+Activation = EndFrame
+3010ED86 00FF
+3010ED8F 00FF
+

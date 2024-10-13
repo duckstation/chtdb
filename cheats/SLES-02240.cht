@@ -1,0 +1,40 @@
+; CHTDB: ; [ Tomb Raider IV: The Last Revelation (Germany) {SLES-02240} ]
+
+[Unendlich Luft]
+Type = Gameshark
+Activation = EndFrame
+800AB2CE 0708
+
+[Unendlich Gesundheit]
+Type = Gameshark
+Activation = EndFrame
+90051F9C 340203E8
+90051FA0 A6020022
+
+[Level-Anwahl Im Titelbildschirm L1 & L2 & R1 & R2 drücken. Die Geräusche sind normal]
+Type = Gameshark
+Activation = EndFrame
+D00AA0D6 F0FF
+300A6AEF 0002
+
+[Unendlich Alle Gegenstände]
+Type = Gameshark
+Activation = EndFrame
+D00AA0D6 FFFE
+50000302 0063
+800AB3FC 0000
+
+[Alle Waffen]
+Type = Gameshark
+Activation = EndFrame
+D00AA0D6 FFFE
+50000402 0D0D
+800AB3D4 0000
+
+[Unendlich Munition Für alle Waffen]
+Type = Gameshark
+Activation = EndFrame
+D00AA0D6 FFFE
+50000A02 00FC
+800AB404 0000
+

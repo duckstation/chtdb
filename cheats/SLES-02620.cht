@@ -1,0 +1,17 @@
+; CHTDB: ; [ Army Men: Air Attack (Europe) {SLES-02620} ]
+
+[P1 Infinite Energy mission 1]
+Type = Gameshark
+Activation = EndFrame
+801BF259 0190
+
+[P1 Infinite Energy mission 2]
+Type = Gameshark
+Activation = EndFrame
+801BE069 0190
+
+[P1 Infinite Energy mission 3]
+Type = Gameshark
+Activation = EndFrame
+801C1CA1 0190
+

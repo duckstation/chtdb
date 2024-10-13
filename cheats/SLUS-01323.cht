@@ -1,0 +1,203 @@
+; CHTDB: ; [ Armored Core (USA, v1.1) (1997) (Sony Computer Entertainment America) {SLUS-01323} <armcore> ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+8019F52C FFFF
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80040FBE 6D60
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+8003A2D4 FFFF
+
+[Infinite Money (ALT)]
+Type = Gameshark
+Activation = EndFrame
+80039CA6 00FF
+
+[Infinite Weapon 1]
+Type = Gameshark
+Activation = EndFrame
+8004128A 00C8
+
+[Infinite Weapon 2]
+Type = Gameshark
+Activation = EndFrame
+800412C6 00C8
+
+[Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+801A2818 7000
+
+[Change View to Far View]
+Type = Gameshark
+Activation = EndFrame
+801987EC F3E7
+
+[Change View to Left View]
+Type = Gameshark
+Activation = EndFrame
+801987F4 F3E7
+
+[Have All Head Parts]
+Type = Gameshark
+Activation = EndFrame
+90031A94 01010101
+90031A98 01010101
+80031A9C 0101
+
+[Have All Core Parts]
+Type = Gameshark
+Activation = EndFrame
+80031A9E 0101
+80031AA0 0101
+
+[Have All Arm Parts]
+Type = Gameshark
+Activation = EndFrame
+80031AA2 0101
+90031AA4 01010101
+90031AA8 01010101
+90031AAC 01010101
+80031AB0 0101
+
+[Have All Leg Parts]
+Type = Gameshark
+Activation = EndFrame
+80031AB2 0101
+90031AB4 01010101
+90031AB8 01010101
+90031ABC 01010101
+90031AC0 01010101
+90031AC4 01010101
+90031AC8 01010101
+90031ACC 01010101
+80031AD0 0101
+
+[Have All Generator Parts]
+Type = Gameshark
+Activation = EndFrame
+80031AD2 0101
+90031AD4 01010101
+
+[Have All FCS Parts]
+Type = Gameshark
+Activation = EndFrame
+90031AD8 01010101
+90031ADC 01010101
+
+[Have All Optional Parts]
+Type = Gameshark
+Activation = EndFrame
+90031AE0 01010101
+90031AE4 01010101
+90031AE8 01010101
+
+[Have All Booster Parts]
+Type = Gameshark
+Activation = EndFrame
+90031AEC 01010101
+80031AF0 0101
+
+[Have All Left & Right Back Weapons]
+Type = Gameshark
+Activation = EndFrame
+80031AF2 0101
+90031AF4 01010101
+90031AF8 01010101
+90031AFC 01010101
+90031B00 01010101
+90031B04 01010101
+90031B08 01010101
+90031B0C 01010101
+90031B10 01010101
+
+[Have All Right Arm Weapons]
+Type = Gameshark
+Activation = EndFrame
+90031B14 01010101
+90031B18 01010101
+90031B1C 01010101
+90031B20 01010101
+
+[Have All Left Arm Weapons]
+Type = Gameshark
+Activation = EndFrame
+90031B24 01010101
+
+[Human Plus Mode]
+Type = Gameshark
+Activation = EndFrame
+80039D20 0001
+
+[Rapid Fire]
+Type = Gameshark
+Activation = EndFrame
+80045492 0000
+
+[Tin Enemies]
+Type = Gameshark
+Activation = EndFrame
+801A2988 0000
+801A2AF8 0000
+801A2C68 0000
+801A2DD8 0000
+801A2F48 0000
+801A30B8 0000
+
+[Infinite Ammo All Weapons]
+Type = Gameshark
+Activation = EndFrame
+800412C6 0028
+8004128A 01F4
+80041302 0028
+
+[Hand Weapon Range Max]
+Type = Gameshark
+Activation = EndFrame
+8004128E 7D00
+80041290 7D00
+
+[Max Capacity Hand Weapon Ammo]
+Type = Gameshark
+Activation = EndFrame
+80041288 03E8
+
+[Fastest Lock On]
+Type = Gameshark
+Activation = EndFrame
+80041292 00FF
+
+[FCS-Hand Weapon (Widest Lock On)]
+Type = Gameshark
+Activation = EndFrame
+80041296 00FF
+80041298 00FF
+
+[FCS-Missile Locks Max (All Weapons Autofire)]
+Type = Gameshark
+Activation = EndFrame
+8004129C 0006
+
+[Back Weapon Maximum Range]
+Type = Gameshark
+Activation = EndFrame
+800412CA 7D00
+800412CC 7D00
+80041306 7D00
+80041308 7D00
+
+[FCS-Back Weapons (Widest Lock On)]
+Type = Gameshark
+Activation = EndFrame
+800412D2 00FF
+800412D4 00FF
+8004130E 00FF
+80041310 00FF
+

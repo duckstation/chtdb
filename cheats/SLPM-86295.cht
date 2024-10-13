@@ -1,0 +1,32 @@
+; CHTDB: ; [ Exciting Bass 2 (Jpn) (1999) (Konami) {SLPM-86295 (VX154-J1)} <excitbs2> ]
+
+[Enable Code]
+Type = Gameshark
+Activation = EndFrame
+A70177BA 10401000
+A7017A6C 60A75EBC
+A7017EF6 10401000
+
+[Infinite Continues]
+Type = Gameshark
+Activation = EndFrame
+800BDDF8 0009
+
+[Press Select To Have Extra Time]
+Type = Gameshark
+Activation = EndFrame
+D011D778 0100
+800BDF94 7800
+
+[Large Fish/Monster]
+Type = Gameshark
+Activation = EndFrame
+80121332 270F
+90128C90 270F22B8
+
+[Quick Fish Pull-Up (Press L2)]
+Type = Gameshark
+Activation = EndFrame
+D011D778 0001
+80127740 0000
+

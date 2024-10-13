@@ -1,0 +1,92 @@
+; CHTDB: ; [ Tokyo Majin Gakuen: Kenpuuchou (You) (Japan) {SLPS-01432 | SLPS-01433} ]
+
+[Infinite Energy character 1]
+Type = Gameshark
+Activation = EndFrame
+80145CEA 03E7
+80145B92 03E7
+
+[Infinite Energy character 2]
+Type = Gameshark
+Activation = EndFrame
+80145E86 03E7
+80145D2E 03E7
+
+[Infinite Energy character 3]
+Type = Gameshark
+Activation = EndFrame
+80146066 03E7
+801461BE 03E7
+
+[Infinite Energy character 4]
+Type = Gameshark
+Activation = EndFrame
+80146202 03E7
+8014635A 03E7
+
+[Infinite Energy character 5]
+Type = Gameshark
+Activation = EndFrame
+80145ECA 03E7
+80146022 03E7
+
+[Max money]
+Type = Gameshark
+Activation = EndFrame
+90138E40 05F5E0FF
+
+[99 possession all items]
+Type = Gameshark
+Activation = EndFrame
+50007601 0000
+3013926A 0063
+
+[Battle scene switching In OFF ON SEL in R2]
+Type = Gameshark
+Activation = EndFrame
+D010E676 0002
+30138EAB 0000
+D010E676 0100
+30138EAB 0003
+
+[Magami newspaper all available]
+Type = Gameshark
+Activation = EndFrame
+50000E01 0000
+301392F8 0001
+
+[All Kisaragi antique store item 99]
+Type = Gameshark
+Activation = EndFrame
+5000FF02 0000
+80139CE0 6300
+5000FF02 0000
+80139EDE 6300
+50006B02 0000
+8013A0DC 6300
+
+[All character likeability maximum, total capacity correction value + 71%]
+Type = Gameshark
+Activation = EndFrame
+5000FF02 0000
+80138EB2 03E7
+50007602 0000
+801390B0 03E7
+
+[The old school building rank selection +1 Floor in ? + R1 in rank selection screen, -1 floor in ? + L1, ? + +10 floor in the R1, will be the floor at -10 ? + L1. It becomes 65535 floor and less than the first floor.]
+Type = Gameshark
+Activation = EndFrame
+D010E676 0018
+10139386 0001
+D010E676 0014
+11139386 0001
+D010E676 0088
+10139386 000A
+D010E676 0084
+11139386 000A
+
+[Story (00-46) Selected last]
+Type = Gameshark
+Activation = EndFrame
+30138EAE 0046
+

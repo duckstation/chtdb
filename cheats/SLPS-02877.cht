@@ -1,0 +1,12 @@
+; CHTDB: ; [ Shinobi no Roku (Japan) {SLPS-02877} ]
+
+[Max Energy (win game)]
+Type = Gameshark
+Activation = EndFrame
+800F5D44 270F
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800F5D44 0064
+

@@ -1,0 +1,22 @@
+; CHTDB: ; [ Punky Skunk (USA) (1998) (Jaleco USA) {SLUS-00579} <punkysk> ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80172D4C 0003
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+80172CCE 2403
+
+[Moon Jump]
+Type = Gameshark
+Activation = EndFrame
+8018064A 0004
+
+[Have 99 Stars]
+Type = Gameshark
+Activation = EndFrame
+80172CD0 0063
+

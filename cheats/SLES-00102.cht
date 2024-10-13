@@ -1,0 +1,109 @@
+; CHTDB: ; [ Batman & Robin (Europe) {SLES-00102} ]
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+80069F4C 0001
+
+[First Person view]
+Type = Gameshark
+Activation = EndFrame
+80069F4C 0001
+
+[Give clues]
+Type = Gameshark
+Activation = EndFrame
+80069F4C 0004
+
+[Level Select (Pause game for it; X and Triangle to toggle it; press Start to load level; L1 to increase milliseconds; L2 to increase seconds)]
+Type = Gameshark
+Activation = EndFrame
+80069F4C 0008
+
+[Infinite Batteries]
+Type = Gameshark
+Activation = EndFrame
+300D2913 0064
+
+[Infinite Coins]
+Type = Gameshark
+Activation = EndFrame
+300D2912 0064
+
+[Infinite Health For Batman, Batgirl & Robin]
+Type = Gameshark
+Activation = EndFrame
+8009AB74 0000
+
+[Infinite Health For Vehicles]
+Type = Gameshark
+Activation = EndFrame
+801E312E 00FA
+
+[Robin Codes\All Weapons]
+Type = Gameshark
+Activation = EndFrame
+800CF5C8 FFFF
+
+[Robin Codes\Infinite Boost]
+Type = Gameshark
+Activation = EndFrame
+800CF5C2 0606
+
+[Robin Codes\Max Speed]
+Type = Gameshark
+Activation = EndFrame
+800CF5C0 9632
+
+[Batman Codes\Have All Tools]
+Type = Gameshark
+Activation = EndFrame
+800CF50A 0F0F
+800CF50C FFFF
+
+[Batman Codes\Have All Weapons]
+Type = Gameshark
+Activation = EndFrame
+800CF508 FFFF
+
+[Batman Codes\Infinite Boost]
+Type = Gameshark
+Activation = EndFrame
+800CF502 0606
+
+[Batman Codes\Max Speed]
+Type = Gameshark
+Activation = EndFrame
+800CF500 9632
+
+[Batgirl Codes\Have All Tools]
+Type = Gameshark
+Activation = EndFrame
+800CF56A 0F0F
+800CF56C FFFF
+
+[Batgirl Codes\Have All Weapons]
+Type = Gameshark
+Activation = EndFrame
+800CF568 FFFF
+
+[Batgirl Codes\Infinite Boost]
+Type = Gameshark
+Activation = EndFrame
+800CF562 0606
+
+[Batgirl Codes\Max Speed]
+Type = Gameshark
+Activation = EndFrame
+800CF560 9632
+
+[Remove Batman's cape]
+Type = Gameshark
+Activation = EndFrame
+A703A6D6 0C002400
+
+[Batman is invisible except for his cape]
+Type = Gameshark
+Activation = EndFrame
+A703A21A 0C012400
+

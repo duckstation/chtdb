@@ -1,0 +1,12 @@
+; CHTDB: ; [ 2Xtreme (Europe) {SCES-00400} ]
+
+[Infinite Skill Points]
+Type = Gameshark
+Activation = EndFrame
+801FE13C 0064
+801FE148 0064
+801FE154 0064
+801FE160 0064
+80130004 0064
+8012F6CC 0064
+

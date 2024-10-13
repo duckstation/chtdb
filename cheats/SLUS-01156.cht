@@ -1,0 +1,295 @@
+; CHTDB: ; [ Valkyrie Profile (USA) (2000) (Enix America) {SLUS-01156 / SLUS-01179} <valkyrpf> ]
+
+[In Battle Infinite HP (Position 1-Front)]
+Type = Gameshark
+Activation = EndFrame
+D00EDD70 FE9C
+900EDD74 05F5E0FF
+
+[In Battle Infinite HP (Position 2-Top)]
+Type = Gameshark
+Activation = EndFrame
+D00EE42C 09AC
+900EE430 05F5E0FF
+
+[In Battle Infinite HP (Position 3-Bottom)]
+Type = Gameshark
+Activation = EndFrame
+D00EEAE8 0074
+900EEAEC 05F5E0FF
+
+[In Battle Infinite HP (Position 4-Back)]
+Type = Gameshark
+Activation = EndFrame
+D00EF1A4 0160
+900EF1A8 05F5E0FF
+
+[Save Anywhere]
+Type = Gameshark
+Activation = EndFrame
+301F6274 0011
+
+[Max Evaluation Points]
+Type = Gameshark
+Activation = EndFrame
+801F6264 270F
+
+[Max Materialize Points]
+Type = Gameshark
+Activation = EndFrame
+901F5F80 7FFFFFFF
+
+[Voice Collection 100%]
+Type = Gameshark
+Activation = EndFrame
+50005F02 0000
+80060A04 FFFF
+
+[Open Seraphic Gate (Main Menu)]
+Type = Gameshark
+Activation = EndFrame
+8005E422 0011
+
+[Infinite Time (Brahm Castle)]
+Type = Gameshark
+Activation = EndFrame
+801E5C4C 3B03
+
+[Boot new game into debug]
+Type = Gameshark
+Activation = EndFrame
+A703F674 001E0000
+
+[FPS uncap]
+Type = Gameshark
+Activation = EndFrame
+A701FF9A 14402400
+
+[Valyrie Mirrors dark Valkyrie colors (Dark Valkyrie battle)]
+Type = Gameshark
+Activation = EndFrame
+A7060B12 14401000
+
+[Valyrie Mirrors dark attack colors (Dark Valkyrie battle)]
+Type = Gameshark
+Activation = EndFrame
+A70623F6 10621000
+
+[Valyrie Mirrors Dark Valkyrie colors experimental (Dark Valkyrie battle,"needs to be toggled on and off during load")]
+Type = Gameshark
+Activation = EndFrame
+A7068192 06412400
+A706815E 14531000
+
+[Black and white characters in-battle]
+Type = Gameshark
+Activation = EndFrame
+A7060CAE 10602400
+
+[One hit kills]
+Description = Hold L2+R2 during attack
+Type = Gameshark
+Activation = EndFrame
+A703BBEA 24000441
+A705C10A 24000441
+D7200000 00000003
+A703BBEA 04412400
+A705C10A 04412400
+
+[Walk through walls]
+Description = Press R3 to toggle on/off
+Type = Gameshark
+Activation = EndFrame
+D7010001 01000400
+F503363A 10401000
+F5033612 10401000
+F5033C12 10401000
+F503102E 10401000
+F503228E 10401000
+
+[Uncap weapon + ice speed "Hold R1 during]
+Type = Gameshark
+Activation = EndFrame
+A7067366 24001082
+A706736E 24001082
+A7067376 24001082
+A70672AA 10001060
+D7200000 00000008
+A7067366 10822400
+A706736E 10822400
+A7067376 10822400
+A70672AA 10601000
+F50323DA 10401000
+
+[No random battles "Hold select to temporarily disable"]
+Type = Gameshark
+Activation = EndFrame
+A7030602 10001040
+D7100000 00000100
+A7030602 10401000
+
+[In-battle debug menu v1 "Press select in-battle, scroll left/right"]
+Type = Gameshark
+Activation = EndFrame
+A709D36A 10402400
+A709D128 00060007
+A709D0D0 00050006
+
+[In-battle debug menu v2 "Hold L1+R1 in-battle"]
+Type = Gameshark
+Activation = EndFrame
+A709CE1A 24001040
+A709D19E 24001040
+A709D36A 24001040
+D7200000 0000000C
+A709D36A 10402400
+A709CE1A 10402400
+A709D19E 10402400
+A70A9762 00000006
+
+[Enable attacking guarded enemies in-battle]
+Type = Gameshark
+Activation = EndFrame
+A7030186 14402400
+
+[Enemy will not attack]
+Type = Gameshark
+Activation = EndFrame
+A7066452 17C02400
+
+[Moon jump]
+Description = Hold L3 to clip through ground/ceiling
+Type = Gameshark
+Activation = EndFrame
+A706707E 24001040
+D7200000 00000020
+A706707E 10402400
+00000000 0000FFFF
+A7031182 24001440
+D7200000 00000200
+A7031182 14402400
+
+[Jump in mid-air]
+Description = Hold L3 to clip through ground/ceiling
+Type = Gameshark
+Activation = EndFrame
+A7030DF2 14401000
+00000000 0000FFFF
+A7031182 24001440
+D7200000 00000200
+A7031182 14402400
+
+[Maximize volume]
+Type = Gameshark
+Activation = EndFrame
+A7017AEA 10401000
+
+[Be able to open menus from the start]
+Type = Gameshark
+Activation = EndFrame
+A703608E 14402400
+
+[Create ice blocks from anywhere]
+Type = Gameshark
+Activation = EndFrame
+A703E4FE 10402400
+
+[Freeze enemies in place]
+Type = Gameshark
+Activation = EndFrame
+A703BB72 10402400
+
+[Uncap ice firing speed]
+Type = Gameshark
+Activation = EndFrame
+A70672AA 10601000
+
+[Uncap weapon speed]
+Type = Gameshark
+Activation = EndFrame
+A7067366 10822400
+A706736E 10822400
+A7067376 10822400
+
+[Ice can carry you without breaking]
+Type = Gameshark
+Activation = EndFrame
+A7030BB6 14431000
+
+[Add extra counter digit to huds in-battle]
+Type = Gameshark
+Activation = EndFrame
+A707B262 10402400
+
+[Enable use of right analog stick on the world map]
+Type = Gameshark
+Activation = EndFrame
+A703051A 24001040
+D7200000 00010000
+A703051A 10402400
+
+[Hit anywhere "Works on enemies on the same level"]
+Type = Gameshark
+Activation = EndFrame
+A7030BB6 14431000
+
+[Valkyrie has afterimage effect]
+Type = Gameshark
+Activation = EndFrame
+A705D422 10402400
+
+[Walk on spikes]
+Type = Gameshark
+Activation = EndFrame
+A7089A12 10622400
+
+[Unlock more songs in sound mode]
+Description = Scroll beyond 61
+Type = Gameshark
+Activation = EndFrame
+A7040C2A 14401000
+A7040B8E 04411000
+
+[Turbo controls]
+Type = Gameshark
+Activation = EndFrame
+3002B698 00000000
+
+[Re-open chests (Will be useful for item farming)]
+Type = Gameshark
+Activation = EndFrame
+A7044ABA 14402400
+
+[Show way pointers on map from anywhere]
+Type = Gameshark
+Activation = EndFrame
+A7043572 10411000
+
+[Hide clouds on world map]
+Type = Gameshark
+Activation = EndFrame
+A7031A1E 10401000
+
+[Disable LOD]
+Type = Gameshark
+Activation = EndFrame
+A703B522 19801000
+A703AB1E 19E01000
+
+[Blue skybox]
+Type = Gameshark
+Activation = EndFrame
+A7039C16 0C002400
+
+[Fly on ground world map]
+Type = Gameshark
+Activation = EndFrame
+A7030CDE 0C002400
+
+[Descend to word map "Hold R3 and press left analog stick up"]
+Type = Gameshark
+Activation = EndFrame
+A7030D02 24000C00
+D7200000 00000400
+A7030D02 0C002400
+

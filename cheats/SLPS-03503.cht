@@ -1,0 +1,22 @@
+; CHTDB: ; [ Inuyasha: Sengoku Otogi Gassen (Japan) (Special Pack) {SLPS-03503} ]
+
+[P1 Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800AC3C6 03E7
+
+[Unlock All Character, Stages & Picture Galleries]
+Type = Gameshark
+Activation = EndFrame
+800ABEC0 FFFF
+800ABEC6 FFFF
+50000C04 0000
+800ABEF0 0001
+50000D10 0000
+800ABF40 FFFF
+50000D10 0000
+800ABF42 FFFF
+300ABF84 00FF
+800BFB32 FFFF
+800BFB34 FFFF
+

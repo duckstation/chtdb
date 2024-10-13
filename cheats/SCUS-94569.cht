@@ -1,0 +1,44 @@
+; CHTDB: ; [ Disney's Aladdin in Nasira's Revenge (USA) (2001) (Sony Computer Entertainment America) {SCUS-94569} <nasirarv> ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80087C9C 3000
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80087CA2 0008
+
+[Infinite Coins]
+Type = Gameshark
+Activation = EndFrame
+8007F9B8 0064
+
+[Infinite Apples]
+Type = Gameshark
+Activation = EndFrame
+80082B14 1000
+8007F9CA 000A
+
+[999 Red Gems]
+Type = Gameshark
+Activation = EndFrame
+8007F9A8 03E7
+
+[No Magic Lamp Interruptions]
+Type = Gameshark
+Activation = EndFrame
+80083228 0000
+800834B0 0001
+
+[Extra Slot Machine Tokens]
+Type = Gameshark
+Activation = EndFrame
+80087C98 000A
+
+[Out of Body Experience]
+Type = Gameshark
+Activation = EndFrame
+801860BC FFFF
+

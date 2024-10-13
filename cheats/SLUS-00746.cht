@@ -1,0 +1,57 @@
+; CHTDB: ; [ Street Fighter Collection 2 (USA) (1998) (Capcom Entertainment) {SLUS-00746} <sfcoll2> ]
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+9016BEA8 00900090
+
+[P2 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+9016C1B0 00900090
+
+[P2 No Health]
+Type = Gameshark
+Activation = EndFrame
+9016C1B0 00000000
+
+[Enable Sfii Secrets]
+Type = Gameshark
+Activation = EndFrame
+80148292 0001
+
+[Enable Sfii-Ce Secrets]
+Type = Gameshark
+Activation = EndFrame
+801482C6 0001
+
+[Enable Sfii-Thf Sound Test]
+Type = Gameshark
+Activation = EndFrame
+801482FA 0001
+
+[Enable Deluxe Versus]
+Type = Gameshark
+Activation = EndFrame
+80149824 0101
+
+[Enable Sound Remix]
+Type = Gameshark
+Activation = EndFrame
+8014825E 0001
+
+[Enable Cpu Battle]
+Type = Gameshark
+Activation = EndFrame
+80148262 0001
+
+[P1 Can Do Most Moves In Mid-Air]
+Type = Gameshark
+Activation = EndFrame
+3016BF85 0000
+
+[P2 Can Do Most Moves In Mid-Air]
+Type = Gameshark
+Activation = EndFrame
+3016C28D 0000
+

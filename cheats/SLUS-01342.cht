@@ -1,0 +1,105 @@
+; CHTDB: ; [ Crossroad Crisis (USA) (2001) (Agetec / A1 Games) {SLUS-01342} <crosscrs> ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8011EFF8 0003
+
+[Extra Lives]
+Type = Gameshark
+Activation = EndFrame
+80055614 0001
+
+[Infinite Time]
+Description = Assembler
+Type = Gameshark
+Activation = EndFrame
+800272E6 2400
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+801C02DE 0177
+801C01E6 0177
+801AF17E 0177
+801DE85E 0177
+
+[Expert mode]
+Type = Gameshark
+Activation = EndFrame
+801C4A54 0002
+801BEDA4 0002
+801EE9AC 0002
+801B5424 0002
+801C4B4C 0002
+
+[Expert Mode (Complete)]
+Type = Gameshark
+Activation = EndFrame
+801C4A54 0002
+801BEDA4 0002
+801EE9AC 0002
+801B5424 0002
+801C4B4C 0002
+
+[Goal Appears Immediately]
+Type = Gameshark
+Activation = EndFrame
+90023610 24020000
+90023614 AE024330
+
+[Select Stage\Stage 01]
+Type = Gameshark
+Activation = EndFrame
+8011EFEC 0000
+
+[Select Stage\Stage 02]
+Type = Gameshark
+Activation = EndFrame
+8011EFEC 0001
+
+[Select Stage\Stage 03]
+Type = Gameshark
+Activation = EndFrame
+8011EFEC 0002
+
+[Select Stage\Stage 04]
+Type = Gameshark
+Activation = EndFrame
+8011EFEC 0003
+
+[Select Stage\Stage 05]
+Type = Gameshark
+Activation = EndFrame
+8011EFEC 0004
+
+[Select Stage\Stage 06]
+Type = Gameshark
+Activation = EndFrame
+8011EFEC 0005
+
+[Select Stage\Stage 07]
+Type = Gameshark
+Activation = EndFrame
+8011EFEC 0006
+
+[Select Stage\Stage 08]
+Type = Gameshark
+Activation = EndFrame
+8011EFEC 0007
+
+[Select Stage\Stage 09]
+Type = Gameshark
+Activation = EndFrame
+8011EFEC 0008
+
+[Select Stage\Stage 10]
+Type = Gameshark
+Activation = EndFrame
+8011EFEC 0009
+
+[Select Stage\Stage 11]
+Type = Gameshark
+Activation = EndFrame
+8011EFEC 000A
+

@@ -1,0 +1,14 @@
+; CHTDB: ; [ Independence Day (USA) (1997) (Fox Interactive) {SLUS-00221} <indepday> ]
+
+[Mega Cheat]
+Description = This will give you Invinciblity, Infinite Weapons Ammo, Fast Reload, One Hit Kill, and No Timer
+Type = Gameshark
+Activation = EndFrame
+800BDC8C 0492
+
+[Alternate Mega Cheat]
+Description = This will give you Invinciblity, Infinite Weapons Ammo, Fast Reload, One Hit Kill, and No Timer
+Type = Gameshark
+Activation = EndFrame
+800BDC8C 0192
+

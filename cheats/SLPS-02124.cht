@@ -1,0 +1,84 @@
+; CHTDB: ; [ Grandia (Japan) {SLPS-02124 | SLPS-02125} ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+90010164 0098967F
+
+[Infinite & Max SP 1st character]
+Type = Gameshark
+Activation = EndFrame
+800C09EE 03E7
+800C09F0 03E7
+
+[Infinite Magic Point 1st Character]
+Type = Gameshark
+Activation = EndFrame
+900102A8 63636363
+800102AC 6363
+
+[Infinite & Max SP 2nd Character]
+Type = Gameshark
+Activation = EndFrame
+800C0BDA 03E7
+800C0BDC 03E7
+
+[Infinite Magic Point 2nd Character]
+Type = Gameshark
+Activation = EndFrame
+900103A8 63636363
+800103AC 6363
+
+[Infinite & Max HP in combat 1st Character]
+Type = Gameshark
+Activation = EndFrame
+900C0980 03E703E7
+
+[No Random Battle]
+Type = Gameshark
+Activation = EndFrame
+80011EBE 0400
+
+[Alt. No Random Battle]
+Type = Gameshark
+Activation = EndFrame
+80041CA4 000E
+
+[Not encounter]
+Type = Gameshark
+Activation = EndFrame
+300A9F20 00FF
+
+[After 1 Battle level 99/9999999 gold]
+Type = Gameshark
+Activation = EndFrame
+D009C670 8000
+8009C688 FFFF
+D009C670 8000
+8009C68A 1300
+D009C670 8000
+8009C68C FFFF
+D009C670 8000
+8009C68E 1300
+
+[All items]
+Type = Gameshark
+Activation = EndFrame
+50002601 0000
+300121A9 0063
+50001201 0000
+300121DE 0063
+50000B01 0000
+300121F1 0063
+5000B501 0000
+300121FD 0063
+50002801 0000
+300122B3 0063
+5000A401 0000
+300122DC 0063
+
+[The Debug menu Laissez votre doigt sur L2 et press START pour activer ou desactiver ce debug.]
+Type = Gameshark
+Activation = EndFrame
+30011EBC 0080
+

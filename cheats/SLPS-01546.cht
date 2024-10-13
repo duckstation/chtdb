@@ -1,0 +1,42 @@
+; CHTDB: ; [ Rami-Chan no Ooedo Surogoku - Keiou Yuugekitai Gaiden (Jpn) (1998) (Victor Interactive Software) {SLPS-01546} <keiogaid> ]
+
+[P1 (in order) Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+800670DC EA60
+
+[P2 (in order) Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+80067130 EA60
+
+[P3 (in order) Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+80067184 EA60
+
+[P4 (in order) Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+800671D8 EA60
+
+[P1 (in order) No money]
+Type = Gameshark
+Activation = EndFrame
+800670DC 0000
+
+[P2 (in order) No money]
+Type = Gameshark
+Activation = EndFrame
+80067130 0000
+
+[P3 (in order) No money]
+Type = Gameshark
+Activation = EndFrame
+80067184 0000
+
+[P4 (in order) No money]
+Type = Gameshark
+Activation = EndFrame
+800671D8 0000
+

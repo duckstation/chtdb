@@ -1,0 +1,18 @@
+; CHTDB: ; [ Shanghai: True Valor (Europe) {SLES-01618} ]
+
+[Arcade Shanghai\Infinite Time To Choose]
+Type = Gameshark
+Activation = EndFrame
+800562E8 03B6
+80085E88 0130
+
+[Arcade Shanghai\Infinite Helps]
+Type = Gameshark
+Activation = EndFrame
+30067072 0003
+
+[Arcade Shanghai\Infinite Backs]
+Type = Gameshark
+Activation = EndFrame
+30067071 0003
+

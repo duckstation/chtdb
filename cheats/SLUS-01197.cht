@@ -1,0 +1,66 @@
+; CHTDB: ; [ The Grinch (USA) (2000) (Konami of America) {SLUS-01197} <grinch> ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800E03FC 0078
+
+[Infinite Rotten Eggs]
+Type = Gameshark
+Activation = EndFrame
+80010058 00C8
+
+[Have All 3000 Presents]
+Type = Gameshark
+Activation = EndFrame
+8001005A 0BB8
+
+[All Missions Completed]
+Type = Gameshark
+Activation = EndFrame
+800100BE FFFF
+300100C5 000A
+800100C6 0A0A
+900100C8 0A0A0A0A
+800100CC 0A0A
+300100E5 000A
+800100E6 050A
+300100EE 000A
+300100FE 000A
+
+[Unlock All Levels]
+Type = Gameshark
+Activation = EndFrame
+800100AA 00FF
+
+[Have All Blueprints]
+Type = Gameshark
+Activation = EndFrame
+900100F4 10090404
+900100F8 00100909
+
+[Stop Timer]
+Type = Gameshark
+Activation = EndFrame
+8008F6CA 002B
+
+[Cheat - Level Select (all regular levels open),200 Eggs + All Gadgets]
+Type = Gameshark
+Activation = EndFrame
+3001008C 0007
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A709A704 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A709A704 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A709A704 10000400
+

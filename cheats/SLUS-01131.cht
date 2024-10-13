@@ -1,0 +1,40 @@
+; CHTDB: ; [ Spec Ops - Stealth Patrol (USA) (2000) (Take-Two Interactive Software) {SLUS-01131} <specopsp> ]
+
+[Infinite Time (All Missions)]
+Type = Gameshark
+Activation = EndFrame
+80065EBC DDF8
+
+[Infinite Health (All Missions)]
+Type = Gameshark
+Activation = EndFrame
+D00254C0 0039
+800254C6 2400
+
+[Infinite Ammo-All Guns (All Missions)]
+Type = Gameshark
+Activation = EndFrame
+D002676C 0000
+8002676E 2400
+
+[Infinite Supply-Plastic (All Missions)]
+Type = Gameshark
+Activation = EndFrame
+D0032FB8 013A
+80032FBA 2400
+
+[Infinite Grenades (All Missions)]
+Type = Gameshark
+Activation = EndFrame
+D0032F08 0000
+80032F0A 2400
+
+[Start/Stop Timer]
+Description = Press L1 + L2 to start the timer + press R1 + R2 to stop it.
+Type = Gameshark
+Activation = EndFrame
+D0065CDE 0005
+90015ED4 AF839CDC
+D0065CDE 000A
+80015ED6 2400
+

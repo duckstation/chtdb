@@ -1,0 +1,47 @@
+; CHTDB: ; [ Genei Tougi - Shadow Struggle (Jpn) (1996) (Banpresto) {SLPS-00491} <geneitou> ]
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800E63E2 0075
+
+[P2 No energy]
+Type = Gameshark
+Activation = EndFrame
+300E724A 0000
+
+[99999 CR in Arena Mode]
+Type = Gameshark
+Activation = EndFrame
+900E9974 0001869F
+
+[All of the skills in Arena Mode]
+Type = Gameshark
+Activation = EndFrame
+800E9970 270F
+
+[Special Power Always On]
+Type = Gameshark
+Activation = EndFrame
+800E625A 4C00
+
+[All Hidden characters availables]
+Type = Gameshark
+Activation = EndFrame
+300D4124 0002
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A70E9980 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A70E9980 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A70E9980 10000400
+

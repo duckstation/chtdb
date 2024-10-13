@@ -1,0 +1,100 @@
+; CHTDB: ; [ Star Wars - Episode I - Jedi Power Battles (USA) (2000) (LucasArts Entertainment Company) {SLUS-01046} <swep1jpb> ]
+
+[P1 Max Score]
+Type = Gameshark
+Activation = EndFrame
+900B2408 000F423F
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800B240C 0064
+
+[P1 Infinite Force]
+Type = Gameshark
+Activation = EndFrame
+800B2414 0064
+
+[P1 Infinite Bombs]
+Type = Gameshark
+Activation = EndFrame
+800B241A 0005
+
+[P2 Max Score]
+Type = Gameshark
+Activation = EndFrame
+900B2424 000F423F
+
+[P2 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800B2428 0064
+
+[P2 Infinite Force]
+Type = Gameshark
+Activation = EndFrame
+800B2430 0064
+
+[P2 Infinite Bombs]
+Type = Gameshark
+Activation = EndFrame
+800B2436 0005
+
+[All Levels Unlocked + Skill Maxed Out\Plo Koon]
+Type = Gameshark
+Activation = EndFrame
+300B2675 0001
+50000402 0000
+800B2676 0101
+300B267E 0001
+3008C9F7 0004
+50000402 0000
+8008C9F8 0404
+3008CA00 0004
+
+[All Levels Unlocked + Skill Maxed Out\Qui-Gon Jinn]
+Type = Gameshark
+Activation = EndFrame
+300B2619 0001
+50000402 0000
+800B261A 0101
+300B2622 0001
+3008C9C1 0004
+50000402 0000
+8008C9C2 0404
+3008C9CA 0004
+
+[All Levels Unlocked + Skill Maxed Out\Mace Windu]
+Type = Gameshark
+Activation = EndFrame
+300B2637 0001
+50000402 0000
+800B2638 0101
+300B2640 0001
+3008C9D3 0004
+50000402 0000
+8008C9D4 0404
+3008C9DB 0004
+
+[All Levels Unlocked + Skill Maxed Out\Obi-Wan Kenobi]
+Type = Gameshark
+Activation = EndFrame
+300B25F9 0001
+50000402 0000
+800B25FA 0101
+300B2602 0001
+3008C9AF 0004
+50000402 0000
+8008C9B0 0404
+3008C9B8 0004
+
+[All Levels Unlocked + Skill Maxed Out\Ad Gallia]
+Type = Gameshark
+Activation = EndFrame
+3008C9E5 0004
+50000402 0000
+8008C9E6 0404
+3008C9EE 0004
+50000502 0000
+800B2656 0101
+

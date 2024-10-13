@@ -1,0 +1,34 @@
+; CHTDB: ; [ Rollcage Stage II (Europe) {SCES-01922} ]
+
+[Quick Win Press Select]
+Type = Gameshark
+Activation = EndFrame
+D00C2A4C FFFE
+300D2274 0004
+
+[Unlock Everything]
+Type = Gameshark
+Activation = EndFrame
+80019DEC 0300
+30019DEE 0019
+90019DF0 000000FF
+80019DF4 0000
+
+[60Fps-Mode L2 to activate]
+Type = Gameshark
+Activation = EndFrame
+D00C2A4C FEFF
+80019CAC 0100
+D00C2A4C FDFF
+80019CAC 0000
+
+[Another Hyper-Mode]
+Type = Gameshark
+Activation = EndFrame
+800B2B84 0000
+
+[Turbo Powerups Never Decrease]
+Type = Gameshark
+Activation = EndFrame
+8008BB96 2A00
+

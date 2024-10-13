@@ -1,0 +1,25 @@
+; CHTDB: ; [ Contender (USA) (1999) (Sony Computer Entertainment America) {SCUS-94294} <contendr> ]
+
+[P1 Infinite Health + Stamina]
+Type = Gameshark
+Activation = EndFrame
+A60669D4 00000050
+A60669D6 00003241
+A6066A1C 0000000E
+A6066A1E 00001420
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A7059958 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A7059958 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A7059958 10000400
+

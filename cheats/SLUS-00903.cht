@@ -1,0 +1,82 @@
+; CHTDB: ; [ Scrabble (USA) (1999) (Hasbro Interactive) {SLUS-00903} <scrabble> ]
+
+[P1 Max Score]
+Type = Gameshark
+Activation = EndFrame
+8008978E 7FFF
+
+[P1 No Score]
+Type = Gameshark
+Activation = EndFrame
+8008978E 0000
+
+[P1 Always Have An Any Letter Tile]
+Type = Gameshark
+Activation = EndFrame
+30092979 005B
+
+[P1 Never Has An Any Letter Tile]
+Type = Gameshark
+Activation = EndFrame
+30092979 0000
+
+[P2 Max Score]
+Type = Gameshark
+Activation = EndFrame
+800897A4 7FFF
+
+[P2 No Score]
+Type = Gameshark
+Activation = EndFrame
+800897A4 0000
+
+[P2 Always Have An Any Letter Tile]
+Type = Gameshark
+Activation = EndFrame
+30092980 005B
+
+[P2 Never Has An Any Letter Tile]
+Type = Gameshark
+Activation = EndFrame
+30092980 0000
+
+[P3 Max Score]
+Type = Gameshark
+Activation = EndFrame
+800897BA 7FFF
+
+[P3 No Score]
+Type = Gameshark
+Activation = EndFrame
+800897BA 0000
+
+[P3 Always Have An Any Letter Tile]
+Type = Gameshark
+Activation = EndFrame
+30092987 005B
+
+[P3 Never Has An Any Letter Tile]
+Type = Gameshark
+Activation = EndFrame
+30092987 0000
+
+[P4 Max Score]
+Type = Gameshark
+Activation = EndFrame
+800897D0 7FFF
+
+[P4 No Score]
+Type = Gameshark
+Activation = EndFrame
+800897D0 0000
+
+[P4 Always Have An Any Letter Tile]
+Type = Gameshark
+Activation = EndFrame
+3009298E 005B
+
+[P4 Never Has An Any Letter Tile]
+Type = Gameshark
+Activation = EndFrame
+3009298E 0000
+

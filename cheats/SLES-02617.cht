@@ -1,0 +1,104 @@
+; CHTDB: ; [ Armorines: Project S.W.A.R.M. (Europe) {SLES-02617} ]
+
+[Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+90047960 00000000
+
+[Infinite Ammo (After Pick-Up)]
+Type = Gameshark
+Activation = EndFrame
+90047CD8 00000000
+
+[P1-Codes\Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+3006164D 0064
+
+[P1-Codes\Infinite Ammo Shot Blaster]
+Type = Gameshark
+Activation = EndFrame
+8006166A 03E7
+
+[P1-Codes\Infinite Ammo Rocket Launcher]
+Type = Gameshark
+Activation = EndFrame
+80061660 03E7
+
+[P1-Codes\Have Timed Mine]
+Type = Gameshark
+Activation = EndFrame
+8006165C 03E7
+
+[P1-Codes\Have Thumper Attract]
+Type = Gameshark
+Activation = EndFrame
+8006165E 03E7
+
+[P1-Codes\Have Smart Bomb Beacons]
+Type = Gameshark
+Activation = EndFrame
+80061662 03E7
+
+[P2-Codes\Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+30061CA5 0064
+
+[P2-Codes\Infinite Ammo Lightbringer]
+Type = Gameshark
+Activation = EndFrame
+80061CC0 03E7
+
+[P2-Codes\Infinite Ammo Grenade-Launcher]
+Type = Gameshark
+Activation = EndFrame
+80061CC4 03E7
+
+[P2-Codes\Have Timed Mines]
+Type = Gameshark
+Activation = EndFrame
+80061CB4 03E7
+
+[P2-Codes\Have Thumper Attract]
+Type = Gameshark
+Activation = EndFrame
+80061CB6 03E7
+
+[P2-Codes\Have Smart Bomb Beacons]
+Type = Gameshark
+Activation = EndFrame
+80061CBA 03E7
+
+[Multiplayer-Codes\P1\Suddendeath]
+Type = Gameshark
+Activation = EndFrame
+D006164C 6400
+3006164D 0001
+
+[Multiplayer-Codes\P1\Infinite Unknown Weapon (After Pick-Up)]
+Type = Gameshark
+Activation = EndFrame
+8006166E 03E7
+
+[Multiplayer-Codes\P1\Infinite Shaft Of The Pharaoh (After Pick-Up)]
+Type = Gameshark
+Activation = EndFrame
+80061674 03E7
+
+[Multiplayer-Codes\P2\Suddendeath]
+Type = Gameshark
+Activation = EndFrame
+D0061CA4 6400
+30061CA5 0001
+
+[Multiplayer-Codes\P2\Infinite Unknown Weapon (After Pick-Up)]
+Type = Gameshark
+Activation = EndFrame
+80061CC6 03E7
+
+[Multiplayer-Codes\P2\Infinite Shaft Of The Pharaoh (After Pick-Up)]
+Type = Gameshark
+Activation = EndFrame
+80061CCC 03E7
+

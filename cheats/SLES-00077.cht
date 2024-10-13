@@ -1,0 +1,47 @@
+; CHTDB: ; [ X-COM: Terror from the Deep (Europe) {SLES-00077} ]
+
+[Infinite Energy Soldier 1]
+Type = Gameshark
+Activation = EndFrame
+8001AE42 03E7
+
+[Infinite Energy Soldier 2]
+Type = Gameshark
+Activation = EndFrame
+8001AF4A 03E7
+
+[Infinite Energy Soldier 3]
+Type = Gameshark
+Activation = EndFrame
+8001AEC6 03E7
+
+[Infinite Energy Soldier 4]
+Type = Gameshark
+Activation = EndFrame
+8001AFCE 03E7
+
+[Infinite Moves Soldier 1]
+Type = Gameshark
+Activation = EndFrame
+8001AE44 5500
+
+[Infinite Moves Soldier 2]
+Type = Gameshark
+Activation = EndFrame
+8001AF4C 5500
+
+[Infinite Moves Soldier 3]
+Type = Gameshark
+Activation = EndFrame
+8001AEC8 5500
+
+[Infinite Moves Soldier 4]
+Type = Gameshark
+Activation = EndFrame
+8001AFD0 5500
+
+[Infinite Money .Don`t activate this code while in battle otherwise the game crashes. To prevent this start the game with this code (immediately 30 mill. Credits), save the game to Memory Card and start the game now]
+Type = Gameshark
+Activation = EndFrame
+800DF30E 03E7
+

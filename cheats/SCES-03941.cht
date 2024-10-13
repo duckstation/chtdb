@@ -1,0 +1,32 @@
+; CHTDB: ; [ Disney El planeta del tesoro (Spain) (Platinum) {SCES-03941} ]
+
+[Energia Infinita]
+Type = Gameshark
+Activation = EndFrame
+800C765E 0003
+
+[Infinitos Diodos]
+Type = Gameshark
+Activation = EndFrame
+800B63C0 0063
+
+[999 Monedas]
+Type = Gameshark
+Activation = EndFrame
+800C4970 03E7
+
+[Todas las peliculas,escenarios y personajes (Necesita una partida guardada para funcionar)]
+Type = Gameshark
+Activation = EndFrame
+300C49C9 001D
+
+[6 Piezas Del Diario]
+Type = Gameshark
+Activation = EndFrame
+800C49cA 0006
+
+[99 Atomos Piratas]
+Type = Gameshark
+Activation = EndFrame
+800C4998 0063
+

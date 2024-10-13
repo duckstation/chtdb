@@ -1,0 +1,18 @@
+; CHTDB: ; [ Fighting Eyes (Japan) {SLPS-01313} ]
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8005E0B8 0080
+
+[P2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8005E0BC 0080
+
+[freeze 2P Press (SELECT)]
+Type = Gameshark
+Activation = EndFrame
+D006063A FFFE
+3005E0EC 0000
+

@@ -1,0 +1,105 @@
+; CHTDB: ; [ Ace Combat 2 (Japan) {SLPS-00830} ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8002CEEC 0000
+
+[Infinite Missiles For A4]
+Type = Gameshark
+Activation = EndFrame
+801859EC 00F0
+
+[Infinite Missiles For F4]
+Type = Gameshark
+Activation = EndFrame
+80185604 00F0
+
+[Infinite Missiles For Kfc7]
+Type = Gameshark
+Activation = EndFrame
+80189954 00F0
+
+[Infinite Missiles For F16]
+Type = Gameshark
+Activation = EndFrame
+8018A22C 00F0
+
+[Infinite Missiles For X29]
+Type = Gameshark
+Activation = EndFrame
+8018A03C 00F0
+
+[Infinite Missiles For A10]
+Type = Gameshark
+Activation = EndFrame
+8018A08C 00F0
+
+[Infinite Missiles For Mig29]
+Type = Gameshark
+Activation = EndFrame
+8018AF8C 00F0
+
+[Infinite Missiles For F14]
+Type = Gameshark
+Activation = EndFrame
+8018B064 00F0
+
+[Infinite Missiles For F117A]
+Type = Gameshark
+Activation = EndFrame
+801887F4 00F0
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+90010C1C 0098967F
+
+[Level Up]
+Type = Gameshark
+Activation = EndFrame
+80010C20 7530
+
+[Infinite Missiles All - Break Point Code]
+Type = Gameshark
+Activation = EndFrame
+9002D634 00000000
+
+[Infinite Fuel All - Break Point Code]
+Type = Gameshark
+Activation = EndFrame
+90039E1C 00000000
+
+[Unlock All Hidden Aircrafts]
+Type = Gameshark
+Activation = EndFrame
+90010C44 01010101
+90010C48 01010101
+90010C4C 01010101
+90010C50 01010101
+
+[Mission Swlect (00-20)20 = FIGHTER'S HONOR]
+Type = Gameshark
+Activation = EndFrame
+30010030 0020
+
+[Hidden element Extra]
+Type = Gameshark
+Activation = EndFrame
+30010AB5 0002
+
+[Hidden element FREE MISSION]
+Type = Gameshark
+Activation = EndFrame
+30010AB5 0002
+
+[Hidden element MUSIC PLAYER]
+Type = Gameshark
+Activation = EndFrame
+30010AB5 0004
+
+[Hidden element MODEL DISPLAY]
+Type = Gameshark
+Activation = EndFrame
+30010AB5 0008
+

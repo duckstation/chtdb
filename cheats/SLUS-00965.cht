@@ -1,0 +1,26 @@
+; CHTDB: ; [ NHL 2000 (USA) (1999) (Electronic Arts) {SLUS-00965} <nhl2k> ]
+
+[Select Home Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+80047C72 0000
+80117BA0 0000
+
+[Select Away Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+80047CCE 0000
+80117C3C 0000
+
+[Select Home Team Score\99]
+Type = Gameshark
+Activation = EndFrame
+80047C72 0063
+80117BA0 0063
+
+[Select Away Team Score\99]
+Type = Gameshark
+Activation = EndFrame
+80047CCE 0063
+80117C3C 0063
+

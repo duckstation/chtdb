@@ -1,0 +1,12 @@
+; CHTDB: ; [ Spec Ops: Airborne Commando (Europe) {SLES-03891} ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80088750 0004
+
+[Infinite Ammo pistol]
+Type = Gameshark
+Activation = EndFrame
+80087E86 0063
+

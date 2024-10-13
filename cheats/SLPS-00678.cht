@@ -1,0 +1,67 @@
+; CHTDB: ; [ RayStorm (Japan) {SLPS-00678} ]
+
+[P1 & 2 Infinite Life]
+Type = Gameshark
+Activation = EndFrame
+800D5E90 000F
+
+[P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800D3A24 0005
+
+[P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800D5E88 0005
+
+[Infinite Credit]
+Type = Gameshark
+Activation = EndFrame
+800D3644 0009
+
+[Infinite Bomb]
+Type = Gameshark
+Activation = EndFrame
+800D3A52 1000
+
+[Powerful Weapon]
+Type = Gameshark
+Activation = EndFrame
+800D3A26 0006
+
+[Infinite Life]
+Type = Gameshark
+Activation = EndFrame
+800D3A24 0005
+
+[P1 Max Laser]
+Type = Gameshark
+Activation = EndFrame
+800D3A30 0010
+
+[P1 Max Shot Power]
+Type = Gameshark
+Activation = EndFrame
+800D3A26 000F
+
+[P1 Infinite Lock]
+Type = Gameshark
+Activation = EndFrame
+800D3A3A 0008
+
+[P2 Infinite Special Attack]
+Type = Gameshark
+Activation = EndFrame
+800D5EB6 1000
+
+[P2 Max Shot Power]
+Type = Gameshark
+Activation = EndFrame
+800D5E8A 0006
+
+[P2 Infinite Lock]
+Type = Gameshark
+Activation = EndFrame
+800D5E9E 0008
+

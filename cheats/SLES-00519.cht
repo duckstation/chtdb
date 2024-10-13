@@ -1,0 +1,62 @@
+; CHTDB: ; [ The Raven Project (Germany) {SLES-00519 | SLES-10519} ]
+
+[Infinite Shield]
+Type = Gameshark
+Activation = EndFrame
+8011390C 0320
+
+[Infinite Power]
+Type = Gameshark
+Activation = EndFrame
+80113858 0000
+
+[Infinite Fuel]
+Type = Gameshark
+Activation = EndFrame
+8011380E 001C
+
+[Infinite Laser]
+Type = Gameshark
+Activation = EndFrame
+80113864 0000
+
+[Infinite Photon Cannon]
+Type = Gameshark
+Activation = EndFrame
+80113870 0001
+
+[Infinite Induction]
+Type = Gameshark
+Activation = EndFrame
+80113874 012C
+
+[Infinite Gatling Gun]
+Type = Gameshark
+Activation = EndFrame
+8011387A 0001
+
+[Infinite Hs3096]
+Type = Gameshark
+Activation = EndFrame
+8011386C 000A
+
+[Infinite Plasma Rockets]
+Type = Gameshark
+Activation = EndFrame
+8011386E 012B
+
+[Infinite Srl Zero]
+Type = Gameshark
+Activation = EndFrame
+80113872 0014
+
+[Infinite Emp-83C]
+Type = Gameshark
+Activation = EndFrame
+80113876 0014
+
+[Infinite Flame Cloud]
+Type = Gameshark
+Activation = EndFrame
+80113878 0001
+

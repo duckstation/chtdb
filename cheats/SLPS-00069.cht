@@ -1,0 +1,43 @@
+; CHTDB: ; [ King's Field II (Japan) {SLPS-00069} ]
+
+[Max Gold]
+Type = Gameshark
+Activation = EndFrame
+901984FC 0098967F
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800244E6 0040
+
+[Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+80027362 0040
+800273EA 0040
+
+[ITEMS 99x]
+Type = Gameshark
+Activation = EndFrame
+50001702 0000
+8009A632 0063
+
+[EXP 999999]
+Type = Gameshark
+Activation = EndFrame
+901984D0 0098967F
+
+[LV 99]
+Type = Gameshark
+Activation = EndFrame
+801984D8 0063
+
+[STATUS 255]
+Type = Gameshark
+Activation = EndFrame
+901984F8 00FF00FF
+50000802 0000
+80198500 270F
+50000902 0000
+80198512 270F
+

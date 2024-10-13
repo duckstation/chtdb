@@ -1,0 +1,46 @@
+; CHTDB: ; [ Schrödinger no Neko - Die Katze von Schrödinger (Jpn) (1997) (Takara) {SLPS-00780} <schrodin> ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80154A04 0063
+
+[Maximum HP]
+Type = Gameshark
+Activation = EndFrame
+90154A04 00FF00FF
+
+[Max Gold]
+Type = Gameshark
+Activation = EndFrame
+80154A0C 00FF
+
+[Max Silver]
+Type = Gameshark
+Activation = EndFrame
+80154A0E 00FF
+
+[Max Copper]
+Type = Gameshark
+Activation = EndFrame
+80154A10 00FF
+
+[Status Ok]
+Type = Gameshark
+Activation = EndFrame
+80154A08 0000
+
+[Map fully open key 100%]
+Type = Gameshark
+Activation = EndFrame
+50003B02 0000
+80154A44 FFFF
+
+[All Keys]
+Type = Gameshark
+Activation = EndFrame
+50002004 0001
+80156C9C 0041
+50002004 0000
+80156C9E 0001
+

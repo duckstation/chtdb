@@ -1,0 +1,17 @@
+; CHTDB: ; [ Army Men 3D (USA) (1999) (The 3DO Company) {SLUS-00491, SLUS-00491CE} <armymn3d> ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800432A0 2400
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+80057FD2 2400
+
+[Infinite Flamethrower Fuel]
+Type = Gameshark
+Activation = EndFrame
+80058E3E 2400
+

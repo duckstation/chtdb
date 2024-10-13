@@ -1,0 +1,7 @@
+; CHTDB: ; [ Power Rangers Pinball (Japan) {SLPS-00490} ]
+
+[Infinite Balls]
+Type = Gameshark
+Activation = EndFrame
+8008549C 0005
+

@@ -1,0 +1,64 @@
+; CHTDB: ; [ Chocobo Racing (USA) (1999) (Square Electronic Arts) {SLUS-00844} <chocorac> ]
+
+[Max Stats In Edit Mode]
+Description = Press Select
+Type = Gameshark
+Activation = EndFrame
+C007B120 0100
+8008D75A 6363
+8008D75C 6363
+3008D75E 0063
+00000000 FFFF
+
+[Have All Crowns + Classes]
+Type = Gameshark
+Activation = EndFrame
+901E9290 FFFFFFFF
+
+[Enable All Music]
+Type = Gameshark
+Activation = EndFrame
+900E9294 FFFFFFFF
+
+[Enable All Movies]
+Type = Gameshark
+Activation = EndFrame
+801E9298 FFFF
+
+[Enable All Characters + Tracks]
+Type = Gameshark
+Activation = EndFrame
+801E929C FFFF
+300AF04F 0008
+
+[Time is 0.00.00]
+Type = Gameshark
+Activation = EndFrame
+80030338 2400
+
+[99 Points-Grand Prix Mode]
+Type = Gameshark
+Activation = EndFrame
+8008C028 0063
+
+[Quick Finish]
+Description = Storybook Mode-Press Select To Finish The Race
+Type = Gameshark
+Activation = EndFrame
+C007B120 0100
+30105848 0004
+30103578 0004
+300FEAD8 0004
+300FBC68 0004
+300FE560 0004
+300E3C80 0004
+300DF9C0 0004
+300DD028 0004
+300E5AB8 0004
+300E9DD8 0004
+300EA510 0004
+300E0568 0004
+300EB2F8 0004
+300E0470 0004
+00000000 FFFF
+

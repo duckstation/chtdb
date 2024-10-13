@@ -1,0 +1,22 @@
+; CHTDB: ; [ Disney Lilo & Stitch en Problemas en el ParaÃ­so (Spain) {SCES-03875} ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800CCF50 0003
+
+[Max flowers]
+Type = Gameshark
+Activation = EndFrame
+800CCF52 0064
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800CCF56 0063
+
+[Have all pictures]
+Type = Gameshark
+Activation = EndFrame
+800CCF58 0004
+

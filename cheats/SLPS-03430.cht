@@ -1,0 +1,114 @@
+; CHTDB: ; [ Final Fantasy (Jpn) (2002) (Squaresoft) {SLPS-03430} <ffant> ]
+
+[Max Gill]
+Type = Gameshark
+Activation = EndFrame
+900BF2D8 05F5E0FF
+
+[All Crystals]
+Type = Gameshark
+Activation = EndFrame
+800BF30A F0FF
+800BF30C 000F
+
+[P1 Maximum HP]
+Type = Gameshark
+Activation = EndFrame
+900BF0D8 03E703E7
+
+[P2 Maximum HP]
+Type = Gameshark
+Activation = EndFrame
+900BF124 03E703E7
+
+[P3 Maximum HP]
+Type = Gameshark
+Activation = EndFrame
+900BF170 03E703E7
+
+[P4 Maximum HP]
+Type = Gameshark
+Activation = EndFrame
+900BF1BC 03E703E7
+
+[Empirical value]
+Type = Gameshark
+Activation = EndFrame
+800BF0D4 FFFF
+
+[Status Max]
+Type = Gameshark
+Activation = EndFrame
+800BF0EC 03E7
+
+[No Random Battles]
+Type = Gameshark
+Activation = EndFrame
+300851AC 0000
+D00DDFC4 0001
+300DDFC4 0000
+D00DDFE4 0003
+300DDFE4 0000
+A60DDFEC 77FE7816
+
+[100% bonus]
+Type = Gameshark
+Activation = EndFrame
+50008002 0000
+800BF360 0001
+50001002 0000
+800BF470 FFFF
+800BF0C8 0100
+800BF460 0001
+800BF490 0001
+800BF49C 0101
+
+[Item you want to open all]
+Type = Gameshark
+Activation = EndFrame
+50002802 0001
+800BF20A 0140
+50002802 0001
+800BF25A 0170
+50000602 0001
+800BF2AA 6320
+
+[Critical time, all characters attack power tremendous]
+Type = Gameshark
+Activation = EndFrame
+9001C960 24A57F00
+
+[The ship + Airship ship appeared to Cornelia in the SELECT + START]
+Type = Gameshark
+Activation = EndFrame
+C00C7DBA FFF6
+300BF308 0020
+300BF203 0091
+300BF204 00A2
+300BF30A 0020
+300BF205 0091
+300BF206 00A0
+00000000 FFFF
+
+[Last Boss before you use teleportation in the inn of Cornelia Use since the beginning twice inn]
+Type = Gameshark
+Activation = EndFrame
+700BF1FE 003B
+800E6A1A 2404
+700BF1FE 003B
+800E6A18 0027
+
+[Not increase time of 15 puzzle]
+Type = Gameshark
+Activation = EndFrame
+D00C9CE4 0001
+300C9CE4 0000
+
+[All events end state in SELECT + START button]
+Type = Gameshark
+Activation = EndFrame
+C00C7DBA FFF6
+900BF308 FFFFFFFE
+800BF30C 07BF
+00000000 FFFF
+

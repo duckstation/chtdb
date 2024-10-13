@@ -1,0 +1,574 @@
+; CHTDB: ; [ Spyro - Year of the Dragon (USA, v1.0) (2000) (Sony Computer Entertainment America) {SCUS-94467} <spyro3a> ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800705A8 0003
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8006C784 0004
+
+[Gem's Worth Max]
+Type = Gameshark
+Activation = EndFrame
+C0036EC0 C71C
+90036EB4 244200FF
+90036EB8 246300FF
+00000000 FFFF
+
+[Press L1 For Moon Jump]
+Type = Gameshark
+Activation = EndFrame
+D007143A FBFF
+11070330 0100
+
+[Have All Eggs\Sunrise Spring Home]
+Type = Gameshark
+Activation = EndFrame
+30070300 001F
+
+[Have All Eggs\Sunny Villa]
+Type = Gameshark
+Activation = EndFrame
+30070301 003F
+
+[Have All Eggs\Cloud Spires]
+Type = Gameshark
+Activation = EndFrame
+30070302 003F
+
+[Have All Eggs\Molten Crater]
+Type = Gameshark
+Activation = EndFrame
+30070303 003F
+
+[Have All Eggs\Seashell Shore]
+Type = Gameshark
+Activation = EndFrame
+30070304 003F
+
+[Have All Eggs\Mushroom Speedway]
+Type = Gameshark
+Activation = EndFrame
+30070305 0007
+
+[Have All Eggs\Sheila's Alp]
+Type = Gameshark
+Activation = EndFrame
+30070306 0007
+
+[Have All Eggs\Buzz's Dungeon]
+Type = Gameshark
+Activation = EndFrame
+30070307 0001
+
+[Have All Eggs\Midday Garden Home]
+Type = Gameshark
+Activation = EndFrame
+30070309 001F
+
+[Have All Eggs\Icy Peak]
+Type = Gameshark
+Activation = EndFrame
+3007030A 003F
+
+[Have All Eggs\Enchanted Towers]
+Type = Gameshark
+Activation = EndFrame
+3007030B 003F
+
+[Have All Eggs\Spooky Swamp]
+Type = Gameshark
+Activation = EndFrame
+3007030C 003F
+
+[Have All Eggs\Bamboo Terrace]
+Type = Gameshark
+Activation = EndFrame
+3007030D 003F
+
+[Have All Eggs\Country Speedway]
+Type = Gameshark
+Activation = EndFrame
+3007030E 0007
+
+[Have All Eggs\Sgt. Byrd's Base]
+Type = Gameshark
+Activation = EndFrame
+3007030F 0007
+
+[Have All Eggs\Spike's Arena]
+Type = Gameshark
+Activation = EndFrame
+30070310 0001
+
+[Have All Eggs\Crawdad Farm]
+Type = Gameshark
+Activation = EndFrame
+30070308 0001
+
+[Have All Eggs\Spider Town]
+Type = Gameshark
+Activation = EndFrame
+30070311 0001
+
+[Have All Eggs\Starfish Reef]
+Type = Gameshark
+Activation = EndFrame
+3007031A 0001
+
+[Have All Eggs\Bugbot Factory]
+Type = Gameshark
+Activation = EndFrame
+30070323 0001
+
+[Have All Eggs\Evening Lake Home]
+Type = Gameshark
+Activation = EndFrame
+30070312 001F
+
+[Have All Eggs\Frozen Altars]
+Type = Gameshark
+Activation = EndFrame
+30070313 003F
+
+[Have All Eggs\Last Fleet]
+Type = Gameshark
+Activation = EndFrame
+30070314 003F
+
+[Have All Eggs\Firewords Factory]
+Type = Gameshark
+Activation = EndFrame
+30070315 003F
+
+[Have All Eggs\Charmed Ridge]
+Type = Gameshark
+Activation = EndFrame
+30070316 003F
+
+[Have All Eggs\Honey Speedway]
+Type = Gameshark
+Activation = EndFrame
+30070317 0007
+
+[Have All Eggs\Bentley's Outpost]
+Type = Gameshark
+Activation = EndFrame
+30070318 0007
+
+[Have All Eggs\Scorch's Pit]
+Type = Gameshark
+Activation = EndFrame
+30070319 0001
+
+[Have All Eggs\Midnight Mountain Home]
+Type = Gameshark
+Activation = EndFrame
+3007031B 001F
+
+[Have All Eggs\Crystal Islands]
+Type = Gameshark
+Activation = EndFrame
+3007031C 003F
+
+[Have All Eggs\Desert Ruins]
+Type = Gameshark
+Activation = EndFrame
+3007031D 003F
+
+[Have All Eggs\Haunted Tomb]
+Type = Gameshark
+Activation = EndFrame
+3007031E 003F
+
+[Have All Eggs\Dino Mines]
+Type = Gameshark
+Activation = EndFrame
+3007031F 003F
+
+[Have All Eggs\Harbor Speedway]
+Type = Gameshark
+Activation = EndFrame
+30070320 0007
+
+[Have All Eggs\Agent 9's Lab]
+Type = Gameshark
+Activation = EndFrame
+30070321 0007
+
+[Have All Eggs\Sorceress' Lair]
+Type = Gameshark
+Activation = EndFrame
+30070322 0001
+
+[Max Gems\Sunrise Spring Home]
+Type = Gameshark
+Activation = EndFrame
+80071A10 0190
+
+[Max Gems\Sunny Villa]
+Type = Gameshark
+Activation = EndFrame
+80071A14 0190
+
+[Max Gems\Cloud Spires]
+Type = Gameshark
+Activation = EndFrame
+80071A18 0190
+
+[Max Gems\Molten Crater]
+Type = Gameshark
+Activation = EndFrame
+80071A1C 0190
+
+[Max Gems\Seashell Shore]
+Type = Gameshark
+Activation = EndFrame
+80071A20 0190
+
+[Max Gems\Mushroom Speedway]
+Type = Gameshark
+Activation = EndFrame
+80071A24 0190
+
+[Max Gems\Sheila's Alp]
+Type = Gameshark
+Activation = EndFrame
+80071A28 0190
+
+[Max Gems\Buzz's Dungeon]
+Type = Gameshark
+Activation = EndFrame
+80071A2C 0190
+
+[Max Gems\Midday Garden Home]
+Type = Gameshark
+Activation = EndFrame
+80071A34 0190
+
+[Max Gems\Icy Peak]
+Type = Gameshark
+Activation = EndFrame
+80071A38 01F4
+
+[Max Gems\Enchanted Towers]
+Type = Gameshark
+Activation = EndFrame
+80071A3C 01F4
+
+[Max Gems\Spooky Swamp]
+Type = Gameshark
+Activation = EndFrame
+80071A40 01F4
+
+[Max Gems\Bamboo Terrace]
+Type = Gameshark
+Activation = EndFrame
+80071A44 01F4
+
+[Max Gems\Country Speedway]
+Type = Gameshark
+Activation = EndFrame
+80071A48 0190
+
+[Max Gems\Sgt. Byrd's Base]
+Type = Gameshark
+Activation = EndFrame
+80071A4C 01F4
+
+[Max Gems\Spike's Arena]
+Type = Gameshark
+Activation = EndFrame
+80071A50 0190
+
+[Max Gems\Crawdad Farm]
+Type = Gameshark
+Activation = EndFrame
+80071A30 00C8
+
+[Max Gems\Spider Town]
+Type = Gameshark
+Activation = EndFrame
+80071A54 00C8
+
+[Max Gems\Starfish Reef]
+Type = Gameshark
+Activation = EndFrame
+80071A78 00C8
+
+[Max Gems\Bugbot Factory]
+Type = Gameshark
+Activation = EndFrame
+80071A9C 00C8
+
+[Max Gems\Evening Lake Home]
+Type = Gameshark
+Activation = EndFrame
+80071A58 0190
+
+[Max Gems\Frozen Altars]
+Type = Gameshark
+Activation = EndFrame
+80071A5C 0258
+
+[Max Gems\Last Fleet]
+Type = Gameshark
+Activation = EndFrame
+80071A60 0258
+
+[Max Gems\Firewords Factory]
+Type = Gameshark
+Activation = EndFrame
+80071A64 0258
+
+[Max Gems\Charmed Ridge]
+Type = Gameshark
+Activation = EndFrame
+80071A68 0258
+
+[Max Gems\Honey Speedway]
+Type = Gameshark
+Activation = EndFrame
+80071A6C 0190
+
+[Max Gems\Bentley's Outpost]
+Type = Gameshark
+Activation = EndFrame
+80071A70 0258
+
+[Max Gems\Scorch's Pit]
+Type = Gameshark
+Activation = EndFrame
+80071A74 0190
+
+[Max Gems\Midnight Mountain Home]
+Type = Gameshark
+Activation = EndFrame
+80071A7C 0190
+
+[Max Gems\Crystal Islands]
+Type = Gameshark
+Activation = EndFrame
+80071A80 02BC
+
+[Max Gems\Desert Ruins]
+Type = Gameshark
+Activation = EndFrame
+80071A84 02BC
+
+[Max Gems\Haunted Tomb]
+Type = Gameshark
+Activation = EndFrame
+80071A88 02BC
+
+[Max Gems\Dino Mines]
+Type = Gameshark
+Activation = EndFrame
+80071A8C 02BC
+
+[Max Gems\Harbor Speedway]
+Type = Gameshark
+Activation = EndFrame
+80071A90 0190
+
+[Max Gems\Agent 9's Lab]
+Type = Gameshark
+Activation = EndFrame
+80071A94 02BC
+
+[Max Gems\Sorceress' Lair]
+Type = Gameshark
+Activation = EndFrame
+80071A98 0190
+
+[Unlock Level\Sunrise Spring Worlds + Sunrise Spring Home]
+Type = Gameshark
+Activation = EndFrame
+30071FB0 0001
+
+[Unlock Level\Sunny Villa]
+Type = Gameshark
+Activation = EndFrame
+30071FB1 0001
+
+[Unlock Level\Cloud Spires]
+Type = Gameshark
+Activation = EndFrame
+30071FB2 0001
+
+[Unlock Level\Molten Crater]
+Type = Gameshark
+Activation = EndFrame
+30071FB3 0001
+
+[Unlock Level\Seashell Shore]
+Type = Gameshark
+Activation = EndFrame
+30071FB4 0001
+
+[Unlock Level\Mushroom Speedway]
+Type = Gameshark
+Activation = EndFrame
+30071FB5 0001
+
+[Unlock Level\Sheila's Alp]
+Type = Gameshark
+Activation = EndFrame
+30071FB6 0001
+
+[Unlock Level\Buzz's Dungeon]
+Type = Gameshark
+Activation = EndFrame
+30071FB7 0001
+
+[Unlock Level\Midday Gardens Worlds + Midday Garden Home]
+Type = Gameshark
+Activation = EndFrame
+30071FB9 0001
+
+[Unlock Level\Icy Peak]
+Type = Gameshark
+Activation = EndFrame
+30071FBA 0001
+
+[Unlock Level\Enchanted Towers]
+Type = Gameshark
+Activation = EndFrame
+30071FBB 0001
+
+[Unlock Level\Spooky Swamp]
+Type = Gameshark
+Activation = EndFrame
+30071FBC 0001
+
+[Unlock Level\Bamboo Terrace]
+Type = Gameshark
+Activation = EndFrame
+30071FBD 0001
+
+[Unlock Level\Country Speedway]
+Type = Gameshark
+Activation = EndFrame
+30071FBE 0001
+
+[Unlock Level\Sgt. Byrd's Base]
+Type = Gameshark
+Activation = EndFrame
+30071FBF 0001
+
+[Unlock Level\Spike's Arena]
+Type = Gameshark
+Activation = EndFrame
+30071FC0 0001
+
+[Unlock Level\Sparx Worlds + Crawdad Farm]
+Type = Gameshark
+Activation = EndFrame
+30071FB8 0001
+
+[Unlock Level\Spider Town]
+Type = Gameshark
+Activation = EndFrame
+30071FC1 0001
+
+[Unlock Level\Starfish Reef]
+Type = Gameshark
+Activation = EndFrame
+30071FCA 0001
+
+[Unlock Level\Bugbot Factory]
+Type = Gameshark
+Activation = EndFrame
+30071FD3 0001
+
+[Unlock Level\Evening Lake Worlds + Evening Lake Home]
+Type = Gameshark
+Activation = EndFrame
+30071FC2 0001
+
+[Unlock Level\Frozen Altars]
+Type = Gameshark
+Activation = EndFrame
+30071FC3 0001
+
+[Unlock Level\Last Fleet]
+Type = Gameshark
+Activation = EndFrame
+30071FC4 0001
+
+[Unlock Level\Firewords Factory]
+Type = Gameshark
+Activation = EndFrame
+30071FC5 0001
+
+[Unlock Level\Charmed Ridge]
+Type = Gameshark
+Activation = EndFrame
+30071FC6 0001
+
+[Unlock Level\Honey Speedway]
+Type = Gameshark
+Activation = EndFrame
+30071FC7 0001
+
+[Unlock Level\Bentley's Outpost]
+Type = Gameshark
+Activation = EndFrame
+30071FC8 0001
+
+[Unlock Level\Scorch's Pit]
+Type = Gameshark
+Activation = EndFrame
+30071FC9 0001
+
+[Unlock Level\Midnight Mountain Worlds + Midnight Mountain Home]
+Type = Gameshark
+Activation = EndFrame
+30071FCB 0001
+
+[Unlock Level\Crystal Islands]
+Type = Gameshark
+Activation = EndFrame
+30071FCC 0001
+
+[Unlock Level\Desert Ruins]
+Type = Gameshark
+Activation = EndFrame
+30071FCD 0001
+
+[Unlock Level\Haunted Tomb]
+Type = Gameshark
+Activation = EndFrame
+30071FCE 0001
+
+[Unlock Level\Dino Mines]
+Type = Gameshark
+Activation = EndFrame
+30071FCF 0001
+
+[Unlock Level\Harbor Speedway]
+Type = Gameshark
+Activation = EndFrame
+30071FD0 0001
+
+[Unlock Level\Agent 9's Lab]
+Type = Gameshark
+Activation = EndFrame
+30071FD1 0001
+
+[Unlock Level\Sorceress' Lair]
+Type = Gameshark
+Activation = EndFrame
+30071FD2 0001
+
+[Crash Bash Demo Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+D00127C4 1012
+800127C8 0900
+D00127C4 1012
+800127C8 2402
+

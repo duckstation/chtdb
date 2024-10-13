@@ -1,0 +1,57 @@
+; CHTDB: ; [ Ape Escape (Euro) (1999) (Sony Computer Entertainment Europe) {SCES-01564} <apescapee> ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800EC268 0005
+
+[Infinite Oxygen]
+Type = Gameshark
+Activation = EndFrame
+800F4D68 0258
+
+[All Weapons]
+Type = Gameshark
+Activation = EndFrame
+800F5284 00FF
+
+[Infinite Missiles]
+Type = Gameshark
+Activation = EndFrame
+800F5282 010A
+
+[Infinite Bombs]
+Type = Gameshark
+Activation = EndFrame
+300F5281 0009
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800F442C 0005
+
+[Lots Of Gold Triangles]
+Type = Gameshark
+Activation = EndFrame
+800F4456 FFFF
+
+[Get One Monkey To Finish Level]
+Type = Gameshark
+Activation = EndFrame
+800F4454 00FF
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A70AF050 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A70AF050 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A70AF050 10000400
+

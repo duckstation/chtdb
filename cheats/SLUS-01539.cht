@@ -1,0 +1,12 @@
+; CHTDB: ; [ Patriotic Pinball (USA) (2003) (Gotham Games) {SLUS-01539} <ptriotpb> ]
+
+[Max Score]
+Type = Gameshark
+Activation = EndFrame
+901240FC 5368D4A4
+
+[Infinite Balls]
+Type = Gameshark
+Activation = EndFrame
+80124024 0001
+

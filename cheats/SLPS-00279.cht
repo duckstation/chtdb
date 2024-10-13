@@ -1,0 +1,19 @@
+; CHTDB: ; [ C1 Circuit (Jpn) (1996) (Invex) {SLPS-00279} <c1circ> ]
+
+[Have 9999 points]
+Type = Gameshark
+Activation = EndFrame
+8003653C 270F
+
+[Speed Max 300 Km/h]
+Type = Gameshark
+Activation = EndFrame
+800D19FA 001F
+800D19EE 001F
+
+[Timer Freezes At Zero]
+Type = Gameshark
+Activation = EndFrame
+8006CC48 0000
+8006CC4C 0000
+

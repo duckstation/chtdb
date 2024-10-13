@@ -1,0 +1,33 @@
+; CHTDB: ; [ Samurai Spirits: Amakusa Kourin Special (Japan) {SLPS-01171} ]
+
+[P1 Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800A5318 00FC
+
+[P2 Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800A5430 00FC
+
+[P1 Infinite Attack Bar]
+Type = Gameshark
+Activation = EndFrame
+800A5322 4000
+
+[P2 Infinite Attack Bar]
+Type = Gameshark
+Activation = EndFrame
+800A543A 4000
+
+[Play As Zankuro]
+Type = Gameshark
+Activation = EndFrame
+800A6FDC 000D
+800A72E0 000D
+
+[P2 strength 0]
+Type = Gameshark
+Activation = EndFrame
+800A5430 0000
+

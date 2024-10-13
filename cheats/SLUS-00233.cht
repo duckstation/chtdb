@@ -1,0 +1,24 @@
+; CHTDB: ; [ Bust-A-Move 2 - Arcade Edition (USA) (1996) (Acclaim Entertainment) {SLUS-00233} <bam2> ]
+
+[Infinite Continues]
+Type = Gameshark
+Activation = EndFrame
+800F3C2C 0008
+80143BAE 00C0
+80143BC8 0008
+
+[Arrow Aimer Is Always On]
+Type = Gameshark
+Activation = EndFrame
+80152DBC 0001
+
+[Stop Timer]
+Type = Gameshark
+Activation = EndFrame
+8014209C 0000
+
+[Last Level]
+Type = Gameshark
+Activation = EndFrame
+80142014 001E
+

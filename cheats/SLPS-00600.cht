@@ -1,0 +1,62 @@
+; CHTDB: ; [ Rage Racer (Japan) {SLPS-00600} ]
+
+[Max Speed]
+Type = Gameshark
+Activation = EndFrame
+8009DECE 03E7
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+9019BFB0 00FFFFFF
+
+[Always Place first]
+Type = Gameshark
+Activation = EndFrame
+8009DEDC 0001
+
+[Loads of Race Credits]
+Type = Gameshark
+Activation = EndFrame
+901E371C 00984236
+
+[Loads of Race Credits (Extra GP)]
+Type = Gameshark
+Activation = EndFrame
+901E6500 00989676
+
+[Infinite Chances]
+Type = Gameshark
+Activation = EndFrame
+801E396A 0003
+
+[Unlock Extra GP]
+Type = Gameshark
+Activation = EndFrame
+8019C168 0001
+
+[Infinite Chances (Extra GP)]
+Type = Gameshark
+Activation = EndFrame
+8009DF22 0003
+
+[Extra GP Race victory MYTHICAL COAST]
+Type = Gameshark
+Activation = EndFrame
+3009DF1C 0001
+
+[Extra GP Race victory OVER PASS CITY]
+Type = Gameshark
+Activation = EndFrame
+3009DF1D 0001
+
+[Extra GP Race victory LAKESIDE GATE]
+Type = Gameshark
+Activation = EndFrame
+3009DF1E 0001
+
+[Extra GP Race victory THE EXTREAM OVAL]
+Type = Gameshark
+Activation = EndFrame
+3009DF1F 0001
+

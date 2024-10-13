@@ -1,0 +1,119 @@
+; CHTDB: ; [ Dragon Knight 4 (Jpn) (1997) (Banpresto) {SLPS-00664} <dknight4> ]
+
+[P1 HP 99]
+Type = Gameshark
+Activation = EndFrame
+800ED59A 0063
+900ED59C FFFF0063
+900ED588 00630063
+800ED5C8 0063
+900ED5B4 00630063
+900ED5E0 00630063
+800ED5F4 0063
+
+[Level 99]
+Type = Gameshark
+Activation = EndFrame
+8006C88C 6329
+
+[Exp 999]
+Type = Gameshark
+Activation = EndFrame
+8006C880 03E7
+
+[At/Def]
+Type = Gameshark
+Activation = EndFrame
+8006C882 03E7
+8006C884 03E7
+
+[Ra/Mv]
+Type = Gameshark
+Activation = EndFrame
+8006C88A 9900
+
+[Level Gain]
+Type = Gameshark
+Activation = EndFrame
+800EE2FA 03E7
+
+[Intimacy Max Nereid]
+Type = Gameshark
+Activation = EndFrame
+300731E0 000A
+
+[Intimacy Max Natasha]
+Type = Gameshark
+Activation = EndFrame
+300731E6 000A
+
+[Intimacy Max Neptune]
+Type = Gameshark
+Activation = EndFrame
+300731EC 000A
+
+[Intimacy Max Mayfair]
+Type = Gameshark
+Activation = EndFrame
+300731F2 000A
+
+[Intimacy Max Clarice]
+Type = Gameshark
+Activation = EndFrame
+300731F8 000A
+
+[Intimacy Max Pandora]
+Type = Gameshark
+Activation = EndFrame
+300731FE 000A
+
+[Intimacy Max Bianca]
+Type = Gameshark
+Activation = EndFrame
+30073204 000A
+
+[Intimacy Max Sara]
+Type = Gameshark
+Activation = EndFrame
+3007320A 000A
+
+[Intimacy Max Rosalind]
+Type = Gameshark
+Activation = EndFrame
+30073210 000A
+
+[Intimacy Max Gina]
+Type = Gameshark
+Activation = EndFrame
+30073216 000A
+
+[Intimacy Max Rare]
+Type = Gameshark
+Activation = EndFrame
+3007321C 000A
+
+[Intimacy Max Tanyan]
+Type = Gameshark
+Activation = EndFrame
+30073222 000A
+
+[Intimacy Max Sarah]
+Type = Gameshark
+Activation = EndFrame
+30073228 000A
+
+[Intimacy Max Beiritto]
+Type = Gameshark
+Activation = EndFrame
+3007322E 000A
+
+[Intimacy Max Marlene]
+Type = Gameshark
+Activation = EndFrame
+30073234 000A
+
+[Intimacy Max Helen]
+Type = Gameshark
+Activation = EndFrame
+3007323A 000A
+

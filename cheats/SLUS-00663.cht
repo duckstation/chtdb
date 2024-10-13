@@ -1,0 +1,119 @@
+; CHTDB: ; [ Bushido Blade 2 (USA) (1998) (Square Electronic Arts) {SLUS-00663} <bblade2> ]
+
+[All Enemies Die Instantly (Story Mode)]
+Type = Gameshark
+Activation = EndFrame
+801023AA 0001
+
+[Have Utsusemi]
+Type = Gameshark
+Activation = EndFrame
+3009BC7F 0003
+
+[Have Red Shadow]
+Type = Gameshark
+Activation = EndFrame
+3009BC80 0003
+
+[Have Tsubame]
+Type = Gameshark
+Activation = EndFrame
+3009BC81 0003
+
+[Have Sazanka]
+Type = Gameshark
+Activation = EndFrame
+3009BC82 0003
+
+[Have Suminasashi]
+Type = Gameshark
+Activation = EndFrame
+3009BC83 0003
+
+[Have Nightstalker]
+Type = Gameshark
+Activation = EndFrame
+3009BC84 0003
+
+[Have Matsu Mushi]
+Type = Gameshark
+Activation = EndFrame
+3009BC85 0003
+
+[Have Hongou]
+Type = Gameshark
+Activation = EndFrame
+3009BC89 0003
+
+[Have Katze]
+Type = Gameshark
+Activation = EndFrame
+3009BC8A 0003
+
+[Have Highway Man]
+Type = Gameshark
+Activation = EndFrame
+3009BC8B 0003
+
+[Have Chihiro]
+Type = Gameshark
+Activation = EndFrame
+3009BC8C 0003
+
+[Have Utamaru]
+Type = Gameshark
+Activation = EndFrame
+3009BC8D 0003
+
+[Have Tonu Umeda]
+Type = Gameshark
+Activation = EndFrame
+3009BC8E 0003
+
+[Have Iso Hachi]
+Type = Gameshark
+Activation = EndFrame
+3009BC8F 0003
+
+[Have Extra Character 1]
+Type = Gameshark
+Activation = EndFrame
+3009BC90 0003
+
+[Have Extra Character 2]
+Type = Gameshark
+Activation = EndFrame
+3009BC91 0003
+
+[Extra Characters]
+Type = Gameshark
+Activation = EndFrame
+50001301 0000
+3009BC7F 0003
+
+[Kill 1 Ninja To Beat Slash Mode (99 Kills)]
+Description = This cheat will start you with 99 kills. Kill the opponent you're facing and you win. This helps you get the four secret characters that require you to beat Slash Mode under 15 minutes and without dying
+Type = Gameshark
+Activation = EndFrame
+800A38E2 0064
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A70FF650 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A70FF650 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A70FF650 10000400
+
+[Dither OFF]
+Type = Gameshark
+Activation = EndFrame
+A707C788 02000000
+

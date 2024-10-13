@@ -1,0 +1,73 @@
+; CHTDB: ; [ Shiritsu Justice Gakuen - Nekketsu Seishun Nikki 2 (Jpn) (1999) (Capcom) {SLPS-02120} <jgakuen2> ]
+
+[P1 Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+801EFA02 00C8
+
+[P1 Infinite SP]
+Type = Gameshark
+Activation = EndFrame
+801EFC18 0900
+
+[All Omake Options]
+Type = Gameshark
+Activation = EndFrame
+B00E0002 0000
+801F5B08 FFFF
+
+[P2 No Energy]
+Type = Gameshark
+Activation = EndFrame
+801EFE02 0000
+
+[Option character hidden + buried]
+Type = Gameshark
+Activation = EndFrame
+801F65D0 00FF
+801F65D4 00FF
+901F65D8 FFFFFFFF
+801F65DC FFFF
+301F65DE 00FF
+
+[Illustrations all]
+Description = Nekketsu video Flag of the card, poster CD illustrations Pokesute
+Type = Gameshark
+Activation = EndFrame
+801F5B08 FFFF
+801F5B22 FFFF
+801F5B0A FFFF
+901F5B0C FFFFFFFF
+901F65D8 FFFFFFFF
+801F5B10 FFFF
+801F65DC FFFF
+801F5B12 FFFF
+801F65DE FFFF
+901F5B14 FFFFFFFF
+901F5B18 FFFFFFFF
+
+[Evolution DISC]
+Description = For when you open the use status in the hot-blooded youth diary Friendship degree of all MAX
+Type = Gameshark
+Activation = EndFrame
+C00A4D44 0018
+900A4E30 2403001F
+900A4E38 A02318A8
+800A4E3C 000B
+00000000 FFFF
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A71F6120 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A71F6120 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A71F6120 10000400
+

@@ -1,0 +1,13 @@
+; CHTDB: ; [ Ehrgeiz: God Bless the Ring (Europe) {SLES-02111} ]
+
+[Quest Mode Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+301E8910 0080
+
+[Quest Mode Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+50000202 0000
+801F3A7E 0080
+

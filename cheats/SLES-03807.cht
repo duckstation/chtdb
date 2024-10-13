@@ -1,0 +1,7 @@
+; CHTDB: ; [ Shonen Jump's One Piece: Grand Battle (Europe) {SLES-03807} ]
+
+[P1 Infinite Energy Only activate during battles]
+Type = Gameshark
+Activation = EndFrame
+8019A01E 00B6
+

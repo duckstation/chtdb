@@ -1,0 +1,12 @@
+; CHTDB: ; [ Ao Zora to Nakama Tachi - Yume No Bouken (Jpn) (2003) (MTO) {SLPS-03564} <aozorant> ]
+
+[Max Apples]
+Type = Gameshark
+Activation = EndFrame
+8018014C 00E7
+
+[Max And Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80180149 0006
+

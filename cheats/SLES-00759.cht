@@ -1,0 +1,57 @@
+; CHTDB: ; [ Brian Lara Cricket (Europe) {SLES-00759} ]
+
+[99 Runs, 1st Bat]
+Type = Gameshark
+Activation = EndFrame
+800DA5A0 0063
+
+[99 Runs, 2nd Bat]
+Type = Gameshark
+Activation = EndFrame
+800DA5A2 0063
+
+[Classic Match 2]
+Type = Gameshark
+Activation = EndFrame
+80099E98 0002
+
+[Classic Match 3]
+Type = Gameshark
+Activation = EndFrame
+80099E98 0003
+
+[Classic Match 4]
+Type = Gameshark
+Activation = EndFrame
+80099E98 0004
+
+[Classic Match 5]
+Type = Gameshark
+Activation = EndFrame
+80099E98 0005
+
+[Classic Match 6]
+Type = Gameshark
+Activation = EndFrame
+80099E98 0006
+
+[Classic Match 7]
+Type = Gameshark
+Activation = EndFrame
+80099E98 0007
+
+[Classic Match 8]
+Type = Gameshark
+Activation = EndFrame
+80099E98 0008
+
+[Classic Match 9]
+Type = Gameshark
+Activation = EndFrame
+80099E98 0009
+
+[Classic Match 10]
+Type = Gameshark
+Activation = EndFrame
+80099E98 0010
+

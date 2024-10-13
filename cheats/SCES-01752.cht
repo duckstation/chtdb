@@ -1,0 +1,63 @@
+; CHTDB: ; [ Legend of Legaia (Europe) {SCES-01752} ]
+
+[Gaia Max In-Battle HP]
+Type = Gameshark
+Activation = EndFrame
+80084F1E 270F
+800ECFC4 270F
+800ECFEA 270F
+
+[Gaia Max In-Battle MP]
+Type = Gameshark
+Activation = EndFrame
+80084F22 03E7
+800ECFC8 03E7
+800ECFEC 03E7
+
+[Noa Max In-Battle HP]
+Type = Gameshark
+Activation = EndFrame
+80084B0A 270F
+800ECCF0 270F
+800ECD16 270F
+
+[Noa Max In-Battle MP]
+Type = Gameshark
+Activation = EndFrame
+80084B0E 03E7
+800ECCF4 03E7
+800ECD18 03E7
+
+[Vahn Max In-Battle HP]
+Type = Gameshark
+Activation = EndFrame
+800846F6 270F
+800ECA1C 270F
+800ECA42 270F
+
+[Vahn Max In-Battle MP]
+Type = Gameshark
+Activation = EndFrame
+800846FA 03E7
+800ECA20 03E7
+800ECA44 03E7
+
+[Infinite Gold]
+Type = Gameshark
+Activation = EndFrame
+90084484 0015FFFF
+
+[No random battles]
+Type = Gameshark
+Activation = EndFrame
+8007A5A4 0200
+8007B4E4 0200
+
+[Save anywhere]
+Type = Gameshark
+Activation = EndFrame
+D007B6A8 0108
+8007B590 0001
+D007B6A8 0102
+8007B590 0000
+

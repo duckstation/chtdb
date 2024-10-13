@@ -1,0 +1,46 @@
+; CHTDB: ; [ Formula One 99 (Europe) {SCES-01979} ]
+
+[Have 160 points in championship mode - Hakkinen]
+Type = Gameshark
+Activation = EndFrame
+80010E5E 00A0
+
+[Racetime 00.00.00]
+Type = Gameshark
+Activation = EndFrame
+D0050492 AC22
+30050492 0020
+
+[No time wasted pole & pitstop]
+Type = Gameshark
+Activation = EndFrame
+A606D176 A622A620
+
+[Always good grip]
+Type = Gameshark
+Activation = EndFrame
+A60AA966 A646A640
+
+[Start with last race]
+Type = Gameshark
+Activation = EndFrame
+D0010700 00FF
+30010701 000F
+
+[View outro]
+Type = Gameshark
+Activation = EndFrame
+A6010700 00FF1010
+
+[Championship won Team McLaren Mika Häkkinen]
+Type = Gameshark
+Activation = EndFrame
+D00A3C5E 0001
+30010E5C 0096
+
+[Championship Won Team Ferrari Michael Schumacher]
+Type = Gameshark
+Activation = EndFrame
+D00A3C5E 0001
+30010E60 0096
+

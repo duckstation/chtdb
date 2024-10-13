@@ -1,0 +1,154 @@
+; CHTDB: ; [ Razor Freestyle Scooter (USA) (2000) (Crave Entertainment) {SLUS-01322} <razorfs> ]
+
+[Max Wheels]
+Type = Gameshark
+Activation = EndFrame
+80097DE8 03E7
+
+[Max Score]
+Type = Gameshark
+Activation = EndFrame
+8009784C FFFF
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80097DC4 8168
+
+[Select Character\DARY - Press L1 At The Character Select Screen]
+Type = Gameshark
+Activation = EndFrame
+D00A5CB6 FBFF
+801FFF8C 0002
+
+[Select Character\HECTOR - Press L1 At The Character Select Screen]
+Type = Gameshark
+Activation = EndFrame
+D00A5CB6 FBFF
+801FFF8C 0003
+
+[Select Character\BRITTANY - Press L1 At The Character Select Screen]
+Type = Gameshark
+Activation = EndFrame
+D00A5CB6 FBFF
+801FFF8C 0004
+
+[Select Character\TITO ORTIZ - Press L1 At The Character Select Screen]
+Type = Gameshark
+Activation = EndFrame
+D00A5CB6 FBFF
+801FFF8C 0005
+
+[Select Character\CHIPPIE - Press L1 At The Character Select Screen]
+Type = Gameshark
+Activation = EndFrame
+D00A5CB6 FBFF
+801FFF8C 0006
+
+[Select Character\TIKIMAN - Press L1 At The Character Select Screen]
+Type = Gameshark
+Activation = EndFrame
+D00A5CB6 FBFF
+801FFF8C 0007
+
+[Select Character\NORTON - Press L1 At The Character Select Screen]
+Type = Gameshark
+Activation = EndFrame
+D00A5CB6 FBFF
+801FFF8C 0008
+
+[All Levels Unlocked/Completed]
+Type = Gameshark
+Activation = EndFrame
+50000404 0000
+8009537C 0001
+50000404 0000
+800953BC 0001
+50000404 0000
+800953FC 0001
+50000404 0000
+8009543C 0001
+50000404 0000
+8009547C 0001
+50000404 0000
+800954BC 0001
+
+[Have All Wheels]
+Type = Gameshark
+Activation = EndFrame
+C20921A8 0002
+80097DE8 0000
+
+[Unlock All Levels]
+Type = Gameshark
+Activation = EndFrame
+8009537C 0001
+80095380 0001
+80095384 0001
+800953BC 0001
+800953C0 0001
+800953C4 0001
+800953FC 0001
+80095400 0001
+80095404 0001
+8009543C 0001
+80095440 0001
+80095444 0001
+8009547C 0001
+80095480 0001
+80095484 0001
+800954BC 0001
+800954C0 0001
+800954C4 0001
+
+[Unlock Brittany]
+Type = Gameshark
+Activation = EndFrame
+80095408 0001
+
+[Unlock Chippie]
+Type = Gameshark
+Activation = EndFrame
+80095488 0001
+
+[Unlock Daryl]
+Type = Gameshark
+Activation = EndFrame
+80095388 0001
+
+[Unlock Hector]
+Type = Gameshark
+Activation = EndFrame
+800953C8 0001
+
+[Unlock Norton]
+Type = Gameshark
+Activation = EndFrame
+80095508 0001
+
+[Unlock Tikiman]
+Type = Gameshark
+Activation = EndFrame
+800954C8 0001
+
+[Unlock Tito Ortiz]
+Type = Gameshark
+Activation = EndFrame
+80095448 0001
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+8007BBD8 0C00
+
+[Widescreen 16-9 (Vert-)]
+Type = Gameshark
+Activation = EndFrame
+8007BBE0 1555
+
+[Widescreen 16-9 (Vert- Adjusted)]
+Type = Gameshark
+Activation = EndFrame
+8007BBE0 1555
+8007BBE8 1040
+

@@ -1,0 +1,53 @@
+; CHTDB: ; [ Ayakashi Ninden Kunoichiban (Jpn) (1997) (Shoeisha) {SLPS-00946~SLPS-00947} <ankuno> ]
+
+[Language Max]
+Type = Gameshark
+Activation = EndFrame
+800C7700 03E7
+
+[Arithmetic Max]
+Type = Gameshark
+Activation = EndFrame
+800C7702 03E7
+
+[Pharmaceutical Max]
+Type = Gameshark
+Activation = EndFrame
+800C7704 03E7
+
+[Medicine Max]
+Type = Gameshark
+Activation = EndFrame
+800C7706 03E7
+
+[Body surgery Max]
+Type = Gameshark
+Activation = EndFrame
+800C7708 03E7
+
+[Etiquette Max]
+Type = Gameshark
+Activation = EndFrame
+800C770A 03E7
+
+[Ninjutsu Max]
+Type = Gameshark
+Activation = EndFrame
+800C770C 03E7
+
+[Ninjutsu practical Max]
+Type = Gameshark
+Activation = EndFrame
+800C770E 03E7
+
+[CG Gallery]
+Type = Gameshark
+Activation = EndFrame
+300C0AAD 00FF
+300C0ABD 00FF
+
+[all theater replay]
+Type = Gameshark
+Activation = EndFrame
+300C0AFF 00FF
+

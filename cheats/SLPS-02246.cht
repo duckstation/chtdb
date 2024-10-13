@@ -1,0 +1,85 @@
+; CHTDB: ; [ Gate Keepers (Jpn) (1999) (Kadokawa Shoten) {SLPS-02246~SLPS-02247} <gatekeep> ]
+
+[Infinite HP In Battle Main Character]
+Type = Gameshark
+Activation = EndFrame
+901AB36C 03E703E7
+
+[Infinite HP In Battle Second Character]
+Type = Gameshark
+Activation = EndFrame
+901AB714 03E703E7
+
+[Infinite HP In Battle Third Character]
+Type = Gameshark
+Activation = EndFrame
+901ABABC 03E703E7
+
+[Not decrease the number of gates used technique]
+Type = Gameshark
+Activation = EndFrame
+D0028FCC 0008
+80029048 0000
+D002F808 0008
+8002F9A2 0060
+
+[Unlock all album pictures]
+Type = Gameshark
+Activation = EndFrame
+C008B470 0010
+9008B4E0 24020001
+9008B54C 24020001
+00000000 FFFF
+
+[All Movies]
+Type = Gameshark
+Activation = EndFrame
+D008B470 0010
+9008B2DC 24030001
+
+[All Songs Unlocked]
+Type = Gameshark
+Activation = EndFrame
+D008B470 0010
+9008B3C0 24020001
+
+[kusawa Ruriko favorability rating Max]
+Type = Gameshark
+Activation = EndFrame
+801F1F4E 03E7
+
+[Konoe Kaoru favorability rating Max]
+Type = Gameshark
+Activation = EndFrame
+801F1F52 03E7
+
+[Sakimori Misao favorability rating Max]
+Type = Gameshark
+Activation = EndFrame
+801F1F56 03E7
+
+[Asagiri Reiko favorability rating Max]
+Type = Gameshark
+Activation = EndFrame
+801F1F5A 03E7
+
+[Jun Sanders favorability rating Max]
+Type = Gameshark
+Activation = EndFrame
+801F1F5E 03E7
+
+[Feng Feirin favorability rating Max]
+Type = Gameshark
+Activation = EndFrame
+801F1F62 03E7
+
+[Hojo Yukino favorability rating Max]
+Type = Gameshark
+Activation = EndFrame
+801F1F66 03E7
+
+[Francine Aryu Maju favorability rating Max]
+Type = Gameshark
+Activation = EndFrame
+801F1F6A 03E7
+

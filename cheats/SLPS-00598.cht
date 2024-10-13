@@ -1,0 +1,28 @@
+; CHTDB: ; [ Wing Over (Jpn) (1997) (Pack-In Soft) {SLPS-00598} <wingover> ]
+
+[Infinite Missiles]
+Type = Gameshark
+Activation = EndFrame
+800A159A 0008
+
+[Infinite Gun]
+Type = Gameshark
+Activation = EndFrame
+800A1598 03E8
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+90096014 0F00FFF0
+
+[All aircraft available]
+Type = Gameshark
+Activation = EndFrame
+80048BF2 1000
+80048C8A 1000
+
+[No damage]
+Type = Gameshark
+Activation = EndFrame
+800A15A4 0000
+

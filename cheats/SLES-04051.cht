@@ -1,0 +1,7 @@
+; CHTDB: ; [ Omega Assault (Europe) {SLES-04051} ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8008B8CC 0040
+

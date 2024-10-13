@@ -1,0 +1,12 @@
+; CHTDB: ; [ Yu-Gi-Oh! Forbidden Memories (Germany) {SLES-03949} ]
+
+[P1 9999 Lebenspunkte]
+Type = Gameshark
+Activation = EndFrame
+800EB28C 270F
+
+[P2 keine Lebenspunkte]
+Type = Gameshark
+Activation = EndFrame
+800EB2AC 0000
+

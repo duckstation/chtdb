@@ -1,0 +1,22 @@
+; CHTDB: ; [ Sanvein (Europe) (Pocket Price Midas: Value Series) {SLES-02919} ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+D0158434 FFFF
+80158438 0000
+
+[Max Energy]
+Type = Gameshark
+Activation = EndFrame
+D016FF64 00F8
+3016FF64 0000
+D016E088 00F8
+3016E088 0000
+
+[Max Attack Power (Press L1 & L2)]
+Type = Gameshark
+Activation = EndFrame
+D00BADDA FAFF
+30102EA8 0006
+

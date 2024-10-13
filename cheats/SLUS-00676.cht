@@ -1,0 +1,152 @@
+; CHTDB: ; [ The Unholy War (USA) (1998) (Eidos Interactive) {SLUS-00676} <unholywr> ]
+
+[P1 Infinite Aur]
+Type = Gameshark
+Activation = EndFrame
+8011C5B8 FFFF
+
+[All Maps (Strategy Mode)]
+Type = Gameshark
+Activation = EndFrame
+800DE9B8 0001
+
+[P1 Quicksilver Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801AF610 0258
+
+[P1 Quicksilver Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801AF614 01F4
+
+[P1 Telsa Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801AFA48 0258
+
+[P1 Telsa Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801AFA4C 0640
+
+[P1 Killcycle Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801AF9D0 01F4
+
+[P1 Killcycle Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801AF9D4 0258
+
+[P1 Jaeger Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801AF710 03E8
+
+[P1 Jaegar Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801AF714 0640
+
+[P1 Mantis Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801AF7A8 02EE
+
+[P1 Mantis Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801AF7AC 03E8
+
+[P1 Razorfane Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801AF610 0320
+
+[P1 Razorfane Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801AF614 01F4
+
+[P1 Wasp Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801AF7B0 0190
+
+[P1 Wasp Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801AF7B4 0258
+
+[P1 Ecton Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801AF938 01F4
+
+[P1 Ecton Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801AF93C 0640
+
+[P1 Prana Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801AF688 0258
+
+[P1 Prana Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801AF68C 03E8
+
+[P1 Magnus Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801AF7A8 03E8
+
+[P1 Magnus Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801AF7AC 01F4
+
+[P1 Brontu Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801AF540 03E8
+
+[P1 Brontu Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801AF544 05DC
+
+[P1 Firewitch Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801AFA00 01F4
+
+[P1 Firewitch Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801AFA04 01F4
+
+[P1 Angel Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801AF710 0315
+
+[P1 Angel Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801AF714 03E8
+
+[P1 Mogalin Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801AF7F0 01F4
+
+[P1 Mogalin Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801AF7F4 0384
+

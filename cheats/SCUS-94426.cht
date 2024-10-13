@@ -1,0 +1,3632 @@
+; CHTDB: ; [ CTR - Crash Team Racing (USA) (1999) (Sony Computer Entertainment America) {SCUS-94426} <ctr> ]
+
+[Adventure Mode All Tracks\Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80035416 3C00
+
+[Adventure Mode All Tracks\Complete adventure mode quickly after visiting one race]
+Type = Gameshark
+Activation = EndFrame
+50000D02 0000
+8008FF58 FFFF
+
+[Adventure Mode N. Sanity Beach Track - Infinite Part (Choose 1)\Turbo]
+Type = Gameshark
+Activation = EndFrame
+D31EFC26 0000
+801EFC26 0300
+D31D3522 0000
+801D3522 0300
+D31F3D06 0000
+801F3D06 0300
+D31DC496 0000
+801DC496 0300
+D31BD90A 0000
+801BD90A 0300
+
+[Adventure Mode N. Sanity Beach Track - Infinite Part (Choose 1)\Explosive Crate]
+Type = Gameshark
+Activation = EndFrame
+D31EFC26 0003
+801EFC26 0303
+D31D3522 0003
+801D3522 0303
+D31F3D06 0003
+801F3D06 0303
+D31DC496 0003
+801DC496 0303
+D31BD90A 0003
+801BD90A 0303
+
+[Adventure Mode N. Sanity Beach Track - Infinite Part (Choose 1)\N. Brio’s Beaker]
+Type = Gameshark
+Activation = EndFrame
+D31EFC26 0004
+801EFC26 0304
+D31D3522 0004
+801D3522 0304
+D31F3D06 0004
+801F3D06 0304
+D31DC496 0004
+801DC496 0304
+D31BD90A 0004
+801BD90A 0304
+
+[Adventure Mode N. Sanity Beach Track - Infinite Part (Choose 1)\Power Shield]
+Type = Gameshark
+Activation = EndFrame
+D31EFC26 0006
+801EFC26 0306
+D31D3522 0006
+801D3522 0306
+D31F3D06 0006
+801F3D06 0306
+D31DC496 0006
+801DC496 0306
+D31BD90A 0006
+801BD90A 0306
+
+[Adventure Mode N. Sanity Beach Track - Infinite Part (Choose 1)\Aku Aku Mask]
+Type = Gameshark
+Activation = EndFrame
+D31EFC26 0007
+801EFC26 0307
+D31D3522 0007
+801D3522 0307
+D31F3D06 0007
+801F3D06 0307
+D31DC496 0007
+801DC496 0307
+D31BD90A 0007
+801BD90A 0307
+
+[Adventure Mode N. Sanity Beach Track - Infinite Part (Choose 1)\N. Tropy Clock]
+Type = Gameshark
+Activation = EndFrame
+D31EFC26 0008
+801EFC26 0308
+D31D3522 0008
+801D3522 0308
+D31F3D06 0008
+801F3D06 0308
+D31DC496 0008
+801DC496 0308
+D31BD90A 0008
+801BD90A 0308
+
+[Adventure Mode N. Sanity Beach Track - Infinite Part (Choose 1)\Warp Orb]
+Type = Gameshark
+Activation = EndFrame
+D31EFC26 0009
+801EFC26 0309
+D31D3522 0009
+801D3522 0309
+D31F3D06 0009
+801F3D06 0309
+D31DC496 0009
+801DC496 0309
+D31BD90A 0009
+801BD90A 0309
+
+[Adventure Mode N. Sanity Beach Track - Infinite Part (Choose 1)\Bomb]
+Type = Gameshark
+Activation = EndFrame
+D31EFC26 000A
+801EFC26 030A
+D31D3522 000A
+801D3522 030A
+D31F3D06 000A
+801F3D06 030A
+D31DC496 000A
+801DC496 030A
+D31BD90A 000A
+801BD90A 030A
+
+[Adventure Mode N. Sanity Beach Track - Infinite Part (Choose 1)\Rocket]
+Type = Gameshark
+Activation = EndFrame
+D31EFC26 000B
+801EFC26 030B
+D31D3522 000B
+801D3522 030B
+D31F3D06 000B
+801F3D06 030B
+D31DC496 000B
+801DC496 030B
+D31BD90A 000B
+801BD90A 030B
+
+[Adventure Mode N. Sanity Beach Track - Infinite Part (Choose 1)\Invisible]
+Type = Gameshark
+Activation = EndFrame
+D31EFC26 000C
+801EFC26 030C
+D31D3522 000C
+801D3522 030C
+D31F3D06 000C
+801F3D06 030C
+D31DC496 000C
+801DC496 030C
+D31BD90A 000C
+801BD90A 030C
+
+[Adventure Mode N. Sanity Beach Track - Infinite Part (Choose 1)\Super Engine]
+Type = Gameshark
+Activation = EndFrame
+D31EFC26 000D
+801EFC26 030D
+D31D3522 000D
+801D3522 030D
+D31F3D06 000D
+801F3D06 030D
+D31DC496 000D
+801DC496 030D
+D31BD90A 000D
+801BD90A 030D
+
+[Adventure Mode N. Sanity Beach Track - Infinite Part (Choose 1)\Nothing]
+Type = Gameshark
+Activation = EndFrame
+D31EFC26 000E
+801EFC26 030E
+D31D3522 000E
+801D3522 030E
+D31F3D06 000E
+801F3D06 030E
+D31DC496 000E
+801DC496 030E
+D31BD90A 000E
+801BD90A 030E
+
+[Adventure Mode The Lost Ruins Track - Infinite Part (Choose 1)\Turbo]
+Type = Gameshark
+Activation = EndFrame
+D31F2212 0000
+801F2212 0300
+D31C1032 0000
+801C1032 0300
+D31EB192 0000
+801EB192 0300
+D31D562E 0000
+801D562E 0300
+D31BE7F2 0000
+801BE7F2 0300
+
+[Adventure Mode The Lost Ruins Track - Infinite Part (Choose 1)\Explosive Crate]
+Type = Gameshark
+Activation = EndFrame
+D31F2212 0003
+801F2212 0303
+D31C1032 0003
+801C1032 0303
+D31EB192 0003
+801EB192 0303
+D31D562E 0003
+801D562E 0303
+D31BE7F2 0003
+801BE7F2 0303
+
+[Adventure Mode The Lost Ruins Track - Infinite Part (Choose 1)\N. Brio’s Beaker]
+Type = Gameshark
+Activation = EndFrame
+D31F2212 0004
+801F2212 0304
+D31C1032 0004
+801C1032 0304
+D31EB192 0004
+801EB192 0304
+D31D562E 0004
+801D562E 0304
+D31BE7F2 0004
+801BE7F2 0304
+
+[Adventure Mode The Lost Ruins Track - Infinite Part (Choose 1)\Power Shield]
+Type = Gameshark
+Activation = EndFrame
+D31F2212 0006
+801F2212 0306
+D31C1032 0006
+801C1032 0306
+D31EB192 0006
+801EB192 0306
+D31D562E 0006
+801D562E 0306
+D31BE7F2 0006
+801BE7F2 0306
+
+[Adventure Mode The Lost Ruins Track - Infinite Part (Choose 1)\Aku Aku Mask]
+Type = Gameshark
+Activation = EndFrame
+D31F2212 0007
+801F2212 0307
+D31C1032 0007
+801C1032 0307
+D31EB192 0007
+801EB192 0307
+D31D562E 0007
+801D562E 0307
+D31BE7F2 0007
+801BE7F2 0307
+
+[Adventure Mode The Lost Ruins Track - Infinite Part (Choose 1)\N. Tropy Clock]
+Type = Gameshark
+Activation = EndFrame
+D31F2212 0008
+801F2212 0308
+D31C1032 0008
+801C1032 0308
+D31EB192 0008
+801EB192 0308
+D31D562E 0008
+801D562E 0308
+D31BE7F2 0008
+801BE7F2 0308
+
+[Adventure Mode The Lost Ruins Track - Infinite Part (Choose 1)\Warp Orb]
+Type = Gameshark
+Activation = EndFrame
+D31F2212 0009
+801F2212 0309
+D31C1032 0009
+801C1032 0309
+D31EB192 0009
+801EB192 0309
+D31D562E 0009
+801D562E 0309
+D31BE7F2 0009
+801BE7F2 0309
+
+[Adventure Mode The Lost Ruins Track - Infinite Part (Choose 1)\Bomb]
+Type = Gameshark
+Activation = EndFrame
+D31F2212 000A
+801F2212 030A
+D31C1032 000A
+801C1032 030A
+D31EB192 000A
+801EB192 030A
+D31D562E 000A
+801D562E 030A
+D31BE7F2 000A
+801BE7F2 030A
+
+[Adventure Mode The Lost Ruins Track - Infinite Part (Choose 1)\Rocket]
+Type = Gameshark
+Activation = EndFrame
+D31F2212 000B
+801F2212 030B
+D31C1032 000B
+801C1032 030B
+D31EB192 000B
+801EB192 030B
+D31D562E 000B
+801D562E 030B
+D31BE7F2 000B
+801BE7F2 030B
+
+[Adventure Mode The Lost Ruins Track - Infinite Part (Choose 1)\Invisible]
+Type = Gameshark
+Activation = EndFrame
+D31F2212 000C
+801F2212 030C
+D31C1032 000C
+801C1032 030C
+D31EB192 000C
+801EB192 030C
+D31D562E 000C
+801D562E 030C
+D31BE7F2 000C
+801BE7F2 030C
+
+[Adventure Mode The Lost Ruins Track - Infinite Part (Choose 1)\Super Engine]
+Type = Gameshark
+Activation = EndFrame
+D31F2212 000D
+801F2212 030D
+D31C1032 000D
+801C1032 030D
+D31EB192 000D
+801EB192 030D
+D31D562E 000D
+801D562E 030D
+D31BE7F2 000D
+801BE7F2 030D
+
+[Adventure Mode The Lost Ruins Track - Infinite Part (Choose 1)\Nothing]
+Type = Gameshark
+Activation = EndFrame
+D31F2212 000E
+801F2212 030E
+D31C1032 000E
+801C1032 030E
+D31EB192 000E
+801EB192 030E
+D31D562E 000E
+801D562E 030E
+D31BE7F2 000E
+801BE7F2 030E
+
+[Adventure Mode Glacier Park Track - Infinite Part (Choose 1)\Turbo]
+Type = Gameshark
+Activation = EndFrame
+D31F398E 0000
+801F398E 0300
+D31D3616 0000
+801D3616 0300
+D31EEF7E 0000
+801EEF7E 0300
+D31E7AC2 0000
+801E7AC2 0300
+D31EB25E 0000
+801EB25E 0300
+
+[Adventure Mode Glacier Park Track - Infinite Part (Choose 1)\Explosive Crate]
+Type = Gameshark
+Activation = EndFrame
+D31F398E 0003
+801F398E 0303
+D31D3616 0003
+801D3616 0303
+D31EEF7E 0003
+801EEF7E 0303
+D31E7AC2 0003
+801E7AC2 0303
+D31EB25E 0003
+801EB25E 0303
+
+[Adventure Mode Glacier Park Track - Infinite Part (Choose 1)\N. Brio’s Beaker]
+Type = Gameshark
+Activation = EndFrame
+D31F398E 0004
+801F398E 0304
+D31D3616 0004
+801D3616 0304
+D31EEF7E 0004
+801EEF7E 0304
+D31E7AC2 0004
+801E7AC2 0304
+D31EB25E 0004
+801EB25E 0304
+
+[Adventure Mode Glacier Park Track - Infinite Part (Choose 1)\Power Shield]
+Type = Gameshark
+Activation = EndFrame
+D31F398E 0006
+801F398E 0306
+D31D3616 0006
+801D3616 0306
+D31EEF7E 0006
+801EEF7E 0306
+D31E7AC2 0006
+801E7AC2 0306
+D31EB25E 0006
+801EB25E 0306
+
+[Adventure Mode Glacier Park Track - Infinite Part (Choose 1)\Aku Aku Mask]
+Type = Gameshark
+Activation = EndFrame
+D31F398E 0007
+801F398E 0307
+D31D3616 0007
+801D3616 0307
+D31EEF7E 0007
+801EEF7E 0307
+D31E7AC2 0007
+801E7AC2 0307
+D31EB25E 0007
+801EB25E 0307
+
+[Adventure Mode Glacier Park Track - Infinite Part (Choose 1)\N. Tropy Clock]
+Type = Gameshark
+Activation = EndFrame
+D31F398E 0008
+801F398E 0308
+D31D3616 0008
+801D3616 0308
+D31EEF7E 0008
+801EEF7E 0308
+D31E7AC2 0008
+801E7AC2 0308
+D31EB25E 0008
+801EB25E 0308
+
+[Adventure Mode Glacier Park Track - Infinite Part (Choose 1)\Warp Orb]
+Type = Gameshark
+Activation = EndFrame
+D31F398E 0009
+801F398E 0309
+D31D3616 0009
+801D3616 0309
+D31EEF7E 0009
+801EEF7E 0309
+D31E7AC2 0009
+801E7AC2 0309
+D31EB25E 0009
+801EB25E 0309
+
+[Adventure Mode Glacier Park Track - Infinite Part (Choose 1)\Bomb]
+Type = Gameshark
+Activation = EndFrame
+D31F398E 000A
+801F398E 030A
+D31D3616 000A
+801D3616 030A
+D31EEF7E 000A
+801EEF7E 030A
+D31E7AC2 000A
+801E7AC2 030A
+D31EB25E 000A
+801EB25E 030A
+
+[Adventure Mode Glacier Park Track - Infinite Part (Choose 1)\Rocket]
+Type = Gameshark
+Activation = EndFrame
+D31F398E 000B
+801F398E 030B
+D31D3616 000B
+801D3616 030B
+D31EEF7E 000B
+801EEF7E 030B
+D31E7AC2 000B
+801E7AC2 030B
+D31EB25E 000B
+801EB25E 030B
+
+[Adventure Mode Glacier Park Track - Infinite Part (Choose 1)\Invisible]
+Type = Gameshark
+Activation = EndFrame
+D31F398E 000C
+801F398E 030C
+D31D3616 000C
+801D3616 030C
+D31EEF7E 000C
+801EEF7E 030C
+D31E7AC2 000C
+801E7AC2 030C
+D31EB25E 000C
+801EB25E 030C
+
+[Adventure Mode Glacier Park Track - Infinite Part (Choose 1)\Super Engine]
+Type = Gameshark
+Activation = EndFrame
+D31F398E 000D
+801F398E 030D
+D31D3616 000D
+801D3616 030D
+D31EEF7E 000D
+801EEF7E 030D
+D31E7AC2 000D
+801E7AC2 030D
+D31EB25E 000D
+801EB25E 030D
+
+[Adventure Mode Glacier Park Track - Infinite Part (Choose 1)\Nothing]
+Type = Gameshark
+Activation = EndFrame
+D31F398E 000E
+801F398E 030E
+D31D3616 000E
+801D3616 030E
+D31EEF7E 000E
+801EEF7E 030E
+D31E7AC2 000E
+801E7AC2 030E
+D31EB25E 000E
+801EB25E 030E
+
+[Adventure Mode Citadel City Track - Infinite Part (Choose 1)\Turbo]
+Type = Gameshark
+Activation = EndFrame
+D31D7D32 0000
+801D7D32 0300
+D31F2ACA 0000
+801F2ACA 0300
+D31F340A 0000
+801F340A 0300
+D31DDDAE 0000
+801DDDAE 0300
+D31F2B8A 0000
+801F2B8A 0300
+D31F2C0A 0000
+801F2C0A 0300
+
+[Adventure Mode Citadel City Track - Infinite Part (Choose 1)\Explosive Crate]
+Type = Gameshark
+Activation = EndFrame
+D31D7D32 0003
+801D7D32 0303
+D31F2ACA 0003
+801F2ACA 0303
+D31F340A 0003
+801F340A 0303
+D31DDDAE 0003
+801DDDAE 0303
+D31F2B8A 0003
+801F2B8A 0303
+D31F2C0A 0003
+801F2C0A 0303
+
+[Adventure Mode Citadel City Track - Infinite Part (Choose 1)\N. Brio’s Beaker]
+Type = Gameshark
+Activation = EndFrame
+D31D7D32 0004
+801D7D32 0304
+D31F2ACA 0004
+801F2ACA 0304
+D31F340A 0004
+801F340A 0304
+D31DDDAE 0004
+801DDDAE 0304
+D31F2B8A 0004
+801F2B8A 0304
+D31F2C0A 0004
+801F2C0A 0304
+
+[Adventure Mode Citadel City Track - Infinite Part (Choose 1)\Power Shield]
+Type = Gameshark
+Activation = EndFrame
+D31D7D32 0006
+801D7D32 0306
+D31F2ACA 0006
+801F2ACA 0306
+D31F340A 0006
+801F340A 0306
+D31DDDAE 0006
+801DDDAE 0306
+D31F2B8A 0006
+801F2B8A 0306
+D31F2C0A 0006
+801F2C0A 0306
+
+[Adventure Mode Citadel City Track - Infinite Part (Choose 1)\Aku Aku Mas]
+Type = Gameshark
+Activation = EndFrame
+D31D7D32 0007
+801D7D32 0307
+D31F2ACA 0007
+801F2ACA 0307
+D31F340A 0007
+801F340A 0307
+D31DDDAE 0007
+801DDDAE 0307
+D31F2B8A 0007
+801F2B8A 0307
+D31F2C0A 0007
+801F2C0A 0307
+
+[Adventure Mode Citadel City Track - Infinite Part (Choose 1)\N. Tropy Clock]
+Type = Gameshark
+Activation = EndFrame
+D31D7D32 0008
+801D7D32 0308
+D31F2ACA 0008
+801F2ACA 0308
+D31F340A 0008
+801F340A 0308
+D31DDDAE 0008
+801DDDAE 0308
+D31F2B8A 0008
+801F2B8A 0308
+D31F2C0A 0008
+801F2C0A 0308
+
+[Adventure Mode Citadel City Track - Infinite Part (Choose 1)\Warp Orb]
+Type = Gameshark
+Activation = EndFrame
+D31D7D32 0009
+801D7D32 0309
+D31F2ACA 0009
+801F2ACA 0309
+D31F340A 0009
+801F340A 0309
+D31DDDAE 0009
+801DDDAE 0309
+D31F2B8A 0009
+801F2B8A 0309
+D31F2C0A 0009
+801F2C0A 0309
+
+[Adventure Mode Citadel City Track - Infinite Part (Choose 1)\Bomb]
+Type = Gameshark
+Activation = EndFrame
+D31D7D32 000A
+801D7D32 030A
+D31F2ACA 000A
+801F2ACA 030A
+D31F340A 000A
+801F340A 030A
+D31DDDAE 000A
+801DDDAE 030A
+D31F2B8A 000A
+801F2B8A 030A
+D31F2C0A 000A
+801F2C0A 030A
+
+[Adventure Mode Citadel City Track - Infinite Part (Choose 1)\Rocket]
+Type = Gameshark
+Activation = EndFrame
+D31D7D32 000B
+801D7D32 030B
+D31F2ACA 000B
+801F2ACA 030B
+D31F340A 000B
+801F340A 030B
+D31DDDAE 000B
+801DDDAE 030B
+D31F2B8A 000B
+801F2B8A 030B
+D31F2C0A 000B
+801F2C0A 030B
+
+[Adventure Mode Citadel City Track - Infinite Part (Choose 1)\Invisible]
+Type = Gameshark
+Activation = EndFrame
+D31D7D32 000C
+801D7D32 030C
+D31F2ACA 000C
+801F2ACA 030C
+D31F340A 000C
+801F340A 030C
+D31DDDAE 000C
+801DDDAE 030C
+D31F2B8A 000C
+801F2B8A 030C
+D31F2C0A 000C
+801F2C0A 030C
+
+[Adventure Mode Citadel City Track - Infinite Part (Choose 1)\Super Engine]
+Type = Gameshark
+Activation = EndFrame
+D31D7D32 000D
+801D7D32 030D
+D31F2ACA 000D
+801F2ACA 030D
+D31F340A 000D
+801F340A 030D
+D31DDDAE 000D
+801DDDAE 030D
+D31F2B8A 000D
+801F2B8A 030D
+D31F2C0A 000D
+801F2C0A 030D
+
+[Adventure Mode Citadel City Track - Infinite Part (Choose 1)\Nothing]
+Type = Gameshark
+Activation = EndFrame
+D31D7D32 000E
+801D7D32 030E
+D31F2ACA 000E
+801F2ACA 030E
+D31F340A 000E
+801F340A 030E
+D31DDDAE 000E
+801DDDAE 030E
+D31F2B8A 000E
+801F2B8A 030E
+D31F2C0A 000E
+801F2C0A 030E
+
+[Unlock Everything (Characters And Tracks)]
+Type = Gameshark
+Activation = EndFrame
+50000302 0000
+8008E6EC FFFF
+
+[Freezes Clock In All Timed Races/Prevents Bosses From Using Power-Ups]
+Type = Gameshark
+Activation = EndFrame
+80098830 0000
+
+[Have All Awards]
+Type = Gameshark
+Activation = EndFrame
+9008FBA4 FFFFFFFF
+9008FBA8 FFFFFFFF
+9008FBAC FFFFFFFF
+9008FBB0 FFFFFFFF
+
+[P1\Aku-Aku-/Uka-Uka-masks last forever]
+Type = Gameshark
+Activation = EndFrame
+8018245A 0200
+
+[P1\Max apples]
+Type = Gameshark
+Activation = EndFrame
+801863BC 0064
+
+[P1\P1 has total 99 points (CUP Racing)]
+Type = Gameshark
+Activation = EndFrame
+30098980 0063
+
+[P2\Max apples]
+Type = Gameshark
+Activation = EndFrame
+80186A2C 0064
+
+[P2\P2 has total 99 points (CUP Racing)]
+Type = Gameshark
+Activation = EndFrame
+30098984 0063
+
+[P3\P3 has total 99 points (CUP Racing)]
+Type = Gameshark
+Activation = EndFrame
+30098988 0063
+
+[P4\P4 has total 99 points (CUP Racing)]
+Type = Gameshark
+Activation = EndFrame
+3009898C 0063
+
+[CUPS\Blue Gem-Cup won]
+Type = Gameshark
+Activation = EndFrame
+3008FF65 0010
+
+[CUPS\Green Gem-Cup won]
+Type = Gameshark
+Activation = EndFrame
+3008FF65 0008
+
+[CUPS\Purple Gem-Cup won]
+Type = Gameshark
+Activation = EndFrame
+3008FF65 0040
+
+[CUPS\Red Gem-Cup won]
+Type = Gameshark
+Activation = EndFrame
+3008FF65 0004
+
+[CUPS\Yellow Gem-Cup won]
+Type = Gameshark
+Activation = EndFrame
+3008FF65 0020
+
+[Blizzard Bluff\All time-crates]
+Type = Gameshark
+Activation = EndFrame
+301DBB32 0028
+
+[Blizzard Bluff\Have Aku-Aku-/Uka-Uka-masks (Press L2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DEFF
+301EC366 0007
+
+[Blizzard Bluff\Have CTR-chip]
+Type = Gameshark
+Activation = EndFrame
+3008FF61 0040
+
+[Blizzard Bluff\Have Gold-relict]
+Type = Gameshark
+Activation = EndFrame
+3008FF5D 0004
+
+[Blizzard Bluff\Have M.Brios cup (Press Down + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DFBF
+301EC366 0004
+
+[Blizzard Bluff\Have N.-Trophy-clocks (Press L2 + R2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DCFF
+301EC366 0008
+
+[Blizzard Bluff\Have Platin-relict]
+Type = Gameshark
+Activation = EndFrame
+3008FF5F 0010
+
+[Blizzard Bluff\Have Sapphire-relict]
+Type = Gameshark
+Activation = EndFrame
+3008FF5B 0001
+
+[Blizzard Bluff\Have TNT-crates (Press L1 + L2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DAFF
+301EC366 0003
+
+[Blizzard Bluff\Have bowling-bombs (Press Right + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DFDF
+301EC366 0001
+
+[Blizzard Bluff\Have elastic springs (Press L1 + R1)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A F3FF
+301EC366 0005
+
+[Blizzard Bluff\Have homing missiles (Press Up + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DFEF
+301EC366 0002
+
+[Blizzard Bluff\Have powershields (Press R1 + R2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A D5FF
+301EC366 0006
+
+[Blizzard Bluff\Have turbos (Press X + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A 9FFF
+301EC366 0000
+
+[Blizzard Bluff\Have warp-balls (Press Left + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DF7F
+301EC366 0009
+
+[Blizzard Bluff\Infinite Wumpa-Fruits]
+Type = Gameshark
+Activation = EndFrame
+D01EC360 0000
+301EC360 000A
+
+[Blizzard Bluff\Infinite pickups]
+Type = Gameshark
+Activation = EndFrame
+D01EC367 0000
+301EC367 000A
+
+[Blizzard Bluff\Race won]
+Type = Gameshark
+Activation = EndFrame
+3008FF59 0001
+
+[Blizzard Bluff\Start on 3rd lap]
+Type = Gameshark
+Activation = EndFrame
+D01EC374 0000
+301EC374 0002
+
+[Coco Park\All time-crates]
+Type = Gameshark
+Activation = EndFrame
+301AFCAE 0028
+
+[Coco Park\Have Aku-Aku-/Uka-Uka-masks (Press L2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DEFF
+301BF8FA 0007
+
+[Coco Park\Have CTR-chip]
+Type = Gameshark
+Activation = EndFrame
+3008FF63 0004
+
+[Coco Park\Have Gold-relict]
+Type = Gameshark
+Activation = EndFrame
+3008FF5E 0040
+
+[Coco Park\Have M.Brios cup (Press Down + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DFBF
+301BF8FA 0004
+
+[Coco Park\Have N.-Trophy-clocks (Press L2 + R2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DCFF
+301BF8FA 0008
+
+[Coco Park\Have Platin-relict]
+Type = Gameshark
+Activation = EndFrame
+3008FF61 0001
+
+[Coco Park\Have Sapphire-relict]
+Type = Gameshark
+Activation = EndFrame
+3008FF5C 0010
+
+[Coco Park\Have TNT-crates (Press L1 + L2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DAFF
+301BF8FA 0003
+
+[Coco Park\Have bowling-bombs (Press Right + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DFDF
+301BF8FA 0001
+
+[Coco Park\Have elastic springs (Press L1 + R1)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A F3FF
+301BF8FA 0005
+
+[Coco Park\Have homing missiles (Press Up + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DFEF
+301BF8FA 0002
+
+[Coco Park\Have powershields (Press R1 + R2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A D5FF
+301BF8FA 0006
+
+[Coco Park\Have turbos (Press X + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A 9FFF
+301BF8FA 0000
+
+[Coco Park\Have warp-balls (Press Left + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DF7F
+301BF8FA 0009
+
+[Coco Park\Infinite Wumpa-Fruits]
+Type = Gameshark
+Activation = EndFrame
+D01BF8F4 0000
+301BF8F4 000A
+
+[Coco Park\Infinite pickups]
+Type = Gameshark
+Activation = EndFrame
+D01BF8FB 0000
+301BF8FB 000A
+
+[Coco Park\Race won]
+Type = Gameshark
+Activation = EndFrame
+3008FF5A 0010
+
+[Coco Park\Start on 3rd lap]
+Type = Gameshark
+Activation = EndFrame
+D01BF908 0000
+301BF908 0002
+
+[Cortex Castle\All time-crates]
+Type = Gameshark
+Activation = EndFrame
+301E3DB2 003E
+
+[Cortex Castle\Have Aku-Aku-/Uka-Uka-masks (Press L2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DEFF
+301F4512 0007
+
+[Cortex Castle\Have CTR-chip]
+Type = Gameshark
+Activation = EndFrame
+3008FF62 0040
+
+[Cortex Castle\Have Gold-relict]
+Type = Gameshark
+Activation = EndFrame
+3008FF5E 0004
+
+[Cortex Castle\Have M.Brios cup (Press Down + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DFBF
+301F4512 0004
+
+[Cortex Castle\Have N.-Trophy-clocks (Press L2 + R2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DCFF
+301F4512 0008
+
+[Cortex Castle\Have Platin-relict]
+Type = Gameshark
+Activation = EndFrame
+3008FF60 0010
+
+[Cortex Castle\Have Sapphire-relict]
+Type = Gameshark
+Activation = EndFrame
+3008FF5C 0001
+
+[Cortex Castle\Have TNT-crates (Press L1 + L2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DAFF
+301F4512 0003
+
+[Cortex Castle\Have bowling-bombs (Press Right + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DFDF
+301F4512 0001
+
+[Cortex Castle\Have elastic springs (Press L1 + R1)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A F3FF
+301F4512 0005
+
+[Cortex Castle\Have homing missiles (Press Up + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DFEF
+301F4512 0002
+
+[Cortex Castle\Have powershields (Press R1 + R2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A D5FF
+301F4512 0006
+
+[Cortex Castle\Have turbos (Press X + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A 9FFF
+301F4512 0000
+
+[Cortex Castle\Have warp-balls (Press Left + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DF7F
+301F4512 0009
+
+[Cortex Castle\Infinite Wumpa-Fruits]
+Type = Gameshark
+Activation = EndFrame
+D01F450C 0000
+301F450C 000A
+
+[Cortex Castle\Infinite pickups]
+Type = Gameshark
+Activation = EndFrame
+D01F4513 0000
+301F4513 000A
+
+[Cortex Castle\Race won]
+Type = Gameshark
+Activation = EndFrame
+3008FF5A 0001
+
+[Cortex Castle\Start on 3rd lap]
+Type = Gameshark
+Activation = EndFrame
+D01F4520 0000
+301F4520 0002
+
+[Crash Cove\All time-crates]
+Type = Gameshark
+Activation = EndFrame
+301E0072 0020
+
+[Crash Cove\Have Aku-Aku-/Uka-Uka-masks (Press L2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DEFF
+301F0D2E 0007
+
+[Crash Cove\Have CTR-chip]
+Type = Gameshark
+Activation = EndFrame
+3008FF61 0080
+
+[Crash Cove\Have Gold-relict]
+Type = Gameshark
+Activation = EndFrame
+3008FF5D 0008
+
+[Crash Cove\Have M.Brios cup (Press Down + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DFBF
+301F0D2E 0004
+
+[Crash Cove\Have N.-Trophy-clocks (Press L2 + R2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DCFF
+301F0D2E 0008
+
+[Crash Cove\Have Platin-relict]
+Type = Gameshark
+Activation = EndFrame
+3008FF5F 0020
+
+[Crash Cove\Have Sapphire-relict]
+Type = Gameshark
+Activation = EndFrame
+3008FF5B 0002
+
+[Crash Cove\Have TNT-crates (Press L1 + L2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DAFF
+301F0D2E 0003
+
+[Crash Cove\Have bowling-bombs (Press Right + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DFDF
+301F0D2E 0001
+
+[Crash Cove\Have elastic springs (Press L1 + R1)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A F3FF
+301F0D2E 0005
+
+[Crash Cove\Have homing missiles (Press Up + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DFEF
+301F0D2E 0002
+
+[Crash Cove\Have powershields (Press R1 + R2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A D5FF
+301F0D2E 0006
+
+[Crash Cove\Have turbos (Press X + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A 9FFF
+301F0D2E 0000
+
+[Crash Cove\Have warp-balls (Press Left + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DF7F
+301F0D2E 0009
+
+[Crash Cove\Infinite Wumpa-Fruits]
+Type = Gameshark
+Activation = EndFrame
+D01F0D28 0000
+301F0D28 000A
+
+[Crash Cove\Infinite pickups]
+Type = Gameshark
+Activation = EndFrame
+D01F0D2F 0000
+301F0D2F 000A
+
+[Crash Cove\Race won]
+Type = Gameshark
+Activation = EndFrame
+3008FF59 0002
+
+[Crash Cove\Start on 3rd lap]
+Type = Gameshark
+Activation = EndFrame
+D01F0D3C 0000
+301F0D3C 0002
+
+[Dingo Canyon\All time-crates]
+Type = Gameshark
+Activation = EndFrame
+301B1716 0026
+
+[Dingo Canyon\Have Aku-Aku-/Uka-Uka-masks (Press L2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DEFF
+301C213A 0007
+D0096E8A DEFF
+301E9122 0007
+D0096E8C DEFF
+301B5166 0007
+D0096E94 DEFF
+301B57D6 0007
+D0096E9C DEFF
+301B5E46 0007
+D0096EA4 DEFF
+301B64B6 0007
+D0096EAC DEFF
+301E9792 0007
+
+[Dingo Canyon\Have CTR-chip]
+Type = Gameshark
+Activation = EndFrame
+3008FF61 0010
+
+[Dingo Canyon\Have Gold-relict]
+Type = Gameshark
+Activation = EndFrame
+3008FF5D 0001
+
+[Dingo Canyon\Have M.Brios cup (Press Down + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DFBF
+301C213A 0004
+D0096E8A DFBF
+301E9122 0004
+D0096E8C DFBF
+301B5166 0004
+D0096E94 DFBF
+301B57D6 0004
+D0096E9C DFBF
+301B5E46 0004
+D0096EA4 DFBF
+301B64B6 0004
+D0096EAC DFBF
+301E9792 0004
+
+[Dingo Canyon\Have N.-Trophy-clocks (Press L2 + R2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DCFF
+301C213A 0008
+D0096E8A DCFF
+301E9122 0008
+D0096E8C DCFF
+301B5166 0008
+D0096E94 DCFF
+301B57D6 0008
+D0096E9C DCFF
+301B5E46 0008
+D0096EA4 DCFF
+301B64B6 0008
+D0096EAC DCFF
+301E9792 0008
+
+[Dingo Canyon\Have Platin-relict]
+Type = Gameshark
+Activation = EndFrame
+3008FF5F 0004
+
+[Dingo Canyon\Have Sapphire-relict]
+Type = Gameshark
+Activation = EndFrame
+3008FF5A 0040
+
+[Dingo Canyon\Have TNT-crates (Press L1 + L2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DAFF
+301C213A 0003
+D0096E8A DAFF
+301E9122 0003
+D0096E8C DAFF
+301B5166 0003
+D0096E94 DAFF
+301B57D6 0003
+D0096E9C DAFF
+301B5E46 0003
+D0096EA4 DAFF
+301B64B6 0003
+D0096EAC DAFF
+301E9792 0003
+
+[Dingo Canyon\Have bowling-bombs (Press Right + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DFDF
+301C213A 0001
+D0096E8A DFDF
+301E9122 0001
+D0096E8C DFDF
+301B5166 0001
+D0096E94 DFDF
+301B57D6 0001
+D0096E9C DFDF
+301B5E46 0001
+D0096EA4 DFDF
+301B64B6 0001
+D0096EAC DFDF
+301E9792 0001
+
+[Dingo Canyon\Have elastic springs (Press L1 + R1)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A F3FF
+301C213A 0005
+D0096E8A F3FF
+301E9122 0005
+D0096E8C F3FF
+301B5166 0005
+D0096E94 F3FF
+301B57D6 0005
+D0096E9C F3FF
+301B5E46 0005
+D0096EA4 F3FF
+301B64B6 0005
+D0096EAC F3FF
+301E9792 0005
+
+[Dingo Canyon\Have homing missiles (Press Up + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DFEF
+301C213A 0002
+D0096E8A DFEF
+301E9122 0002
+D0096E8C DFEF
+301B5166 0002
+D0096E94 DFEF
+301B57D6 0002
+D0096E9C DFEF
+301B5E46 0002
+D0096EA4 DFEF
+301B64B6 0002
+D0096EAC DFEF
+301E9792 0002
+
+[Dingo Canyon\Have powershields (Press R1 + R2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A D5FF
+301C213A 0006
+D0096E8A D5FF
+301E9122 0006
+D0096E8C D5FF
+301B5166 0006
+D0096E94 D5FF
+301B57D6 0006
+D0096E9C D5FF
+301B5E46 0006
+D0096EA4 D5FF
+301B64B6 0006
+D0096EAC D5FF
+301E9792 0006
+
+[Dingo Canyon\Have turbos (Press X + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A 9FFF
+301C213A 0000
+D0096E8A 9FFF
+301E9122 0000
+D0096E8C 9FFF
+301B5166 0000
+D0096E94 9FFF
+301B57D6 0000
+D0096E9C 9FFF
+301B5E46 0000
+D0096EA4 9FFF
+301B64B6 0000
+D0096EAC 9FFF
+301E9792 0000
+
+[Dingo Canyon\Have warp-balls (Press Left + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DF7F
+301C213A 0009
+D0096E8A DF7F
+301E9122 0009
+D0096E8C DF7F
+301B5166 0009
+D0096E94 DF7F
+301B57D6 0009
+D0096E9C DF7F
+301B5E46 0009
+D0096EA4 DF7F
+301B64B6 0009
+D0096EAC DF7F
+301E9792 0009
+
+[Dingo Canyon\Infinite Wumpa-Fruits]
+Type = Gameshark
+Activation = EndFrame
+D01E978C 0000
+301E978C 000A
+
+[Dingo Canyon\Infinite pickups]
+Type = Gameshark
+Activation = EndFrame
+D01E9793 0000
+301E9793 000A
+
+[Dingo Canyon\Race won]
+Type = Gameshark
+Activation = EndFrame
+3008FF58 0040
+
+[Dingo Canyon\Start on 3rd lap]
+Type = Gameshark
+Activation = EndFrame
+D01E97A0 0000
+301E97A0 0002
+
+[Dragon Mines\All time-crates]
+Type = Gameshark
+Activation = EndFrame
+301D77FA 0027
+
+[Dragon Mines\Have Aku-Aku-/Uka-Uka-masks (Press L2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DEFF
+301E8BCA 0007
+
+[Dragon Mines\Have CTR-chip]
+Type = Gameshark
+Activation = EndFrame
+3008FF61 0020
+
+[Dragon Mines\Have Gold-relict]
+Type = Gameshark
+Activation = EndFrame
+3008FF5D 0002
+
+[Dragon Mines\Have M.Brios cup (Press Down + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DFBF
+301E8BCA 0004
+
+[Dragon Mines\Have N.-Trophy-clocks (Press L2 + R2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DCFF
+301E8BCA 0008
+
+[Dragon Mines\Have Platin-relict]
+Type = Gameshark
+Activation = EndFrame
+3008FF5F 0008
+
+[Dragon Mines\Have Sapphire-relict]
+Type = Gameshark
+Activation = EndFrame
+3008FF5A 0080
+
+[Dragon Mines\Have TNT-crates (Press L1 + L2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DAFF
+301E8BCA 0003
+
+[Dragon Mines\Have bowling-bombs (Press Right + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DFDF
+301E8BCA 0001
+
+[Dragon Mines\Have elastic springs (Press L1 + R1)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A F3FF
+301E8BCA 0005
+
+[Dragon Mines\Have homing missiles (Press Up + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DFEF
+301E8BCA 0002
+
+[Dragon Mines\Have powershields (Press R1 + R2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A D5FF
+301E8BCA 0006
+
+[Dragon Mines\Have turbos (Press X + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A 9FFF
+301E8BCA 0000
+
+[Dragon Mines\Have warp-balls (Press Left + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DF7F
+301E8BCA 0009
+
+[Dragon Mines\Infinite Wumpa-Fruits]
+Type = Gameshark
+Activation = EndFrame
+D01E8BC4 0000
+301E8BC4 000A
+
+[Dragon Mines\Infinite pickups]
+Type = Gameshark
+Activation = EndFrame
+D01E8BCB 0000
+301E8BCB 000A
+
+[Dragon Mines\Race won]
+Type = Gameshark
+Activation = EndFrame
+3008FF58 0080
+
+[Dragon Mines\Start on 3rd lap]
+Type = Gameshark
+Activation = EndFrame
+D01E8BD8 0000
+301E8BD8 0002
+
+[Freezes Clock In All Timed Races]
+Type = Gameshark
+Activation = EndFrame
+80098830 0000
+
+[Hot Air Skyway\All time-crates]
+Type = Gameshark
+Activation = EndFrame
+301E09EE 0038
+
+[Hot Air Skyway\Have Aku-Aku-/Uka-Uka-masks (Press L2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DEFF
+301F3C92 0007
+
+[Hot Air Skyway\Have CTR-chip]
+Type = Gameshark
+Activation = EndFrame
+3008FF62 0008
+
+[Hot Air Skyway\Have Gold-relict]
+Type = Gameshark
+Activation = EndFrame
+3008FF5D 0080
+
+[Hot Air Skyway\Have M.Brios cup (Press Down + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DFBF
+301F3C92 0004
+
+[Hot Air Skyway\Have N.-Trophy-clocks (Press L2 + R2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DCFF
+301F3C92 0008
+
+[Hot Air Skyway\Have Platin-relict]
+Type = Gameshark
+Activation = EndFrame
+3008FF60 0002
+D01E0A00 0000
+301E0A00 0002
+
+[Hot Air Skyway\Have Sapphire-relict]
+Type = Gameshark
+Activation = EndFrame
+3008FF5B 0020
+
+[Hot Air Skyway\Have TNT-crates (Press L1 + L2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DAFF
+301F3C92 0003
+
+[Hot Air Skyway\Have bowling-bombs (Press Right + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DFDF
+301F3C92 0001
+
+[Hot Air Skyway\Have elastic springs (Press L1 + R1)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A F3FF
+301F3C92 0005
+
+[Hot Air Skyway\Have homing missiles (Press Up + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DFEF
+301F3C92 0002
+
+[Hot Air Skyway\Have powershields (Press R1 + R2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A D5FF
+301F3C92 0006
+
+[Hot Air Skyway\Have turbos (Press X + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A 9FFF
+301F3C92 0000
+
+[Hot Air Skyway\Have warp-balls (Press Left + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DF7F
+301F3C92 0009
+
+[Hot Air Skyway\Infinite Wumpa-Fruits]
+Type = Gameshark
+Activation = EndFrame
+D01F3C8C 0000
+301F3C8C 000A
+
+[Hot Air Skyway\Infinite pickups]
+Type = Gameshark
+Activation = EndFrame
+D01F3C93 0000
+301F3C93 000A
+
+[Hot Air Skyway\Race won]
+Type = Gameshark
+Activation = EndFrame
+3008FF59 0020
+
+[Hot Air Skyway\Start on 3rd lap]
+Type = Gameshark
+Activation = EndFrame
+D01F3CA0 0000
+301F3CA0 0002
+
+[Komodo Joe's Challenge\Have Aku-Aku-/Uka-Uka-masks (Press L2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DEFF
+301D471E 0007
+
+[Komodo Joe's Challenge\Have M.Brios cup (Press Down + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DFBF
+301D471E 0004
+
+[Komodo Joe's Challenge\Have N.-Trophy-clocks (Press L2 + R2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DCFF
+301D471E 0008
+
+[Komodo Joe's Challenge\Have TNT-crates (Press L1 + L2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DAFF
+301D471E 0003
+
+[Komodo Joe's Challenge\Have boss-key]
+Type = Gameshark
+Activation = EndFrame
+3008FF64 0001
+
+[Komodo Joe's Challenge\Have bowling-bombs (Press Right + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DFDF
+301D471E 0001
+
+[Komodo Joe's Challenge\Have elastic springs (Press L1 + R1)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A F3FF
+301D471E 0005
+
+[Komodo Joe's Challenge\Have homing missiles (Press Up + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DFEF
+301D471E 0002
+
+[Komodo Joe's Challenge\Have powershields (Press R1 + R2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A D5FF
+301D471E 0006
+
+[Komodo Joe's Challenge\Have turbos (Press X + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A 9FFF
+301D471E 0000
+
+[Komodo Joe's Challenge\Have warp-balls (Press Left + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DF7F
+301D471E 0009
+
+[Komodo Joe's Challenge\Infinite Wumpa-Fruits]
+Type = Gameshark
+Activation = EndFrame
+D01D4718 0000
+301D4718 000A
+
+[Komodo Joe's Challenge\Infinite pickups]
+Type = Gameshark
+Activation = EndFrame
+D01D471F 0000
+301D471F 000A
+
+[Komodo Joe's Challenge\Start on 3rd lap]
+Type = Gameshark
+Activation = EndFrame
+D01D472C 0000
+301D472C 0002
+
+[Mystery Caves\All time-crates]
+Type = Gameshark
+Activation = EndFrame
+301E388A 0041
+
+[Mystery Caves\Have Aku-Aku-/Uka-Uka-masks (Press L2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DEFF
+301F4E0E 0007
+
+[Mystery Caves\Have CTR-chip]
+Type = Gameshark
+Activation = EndFrame
+3008FF62 0020
+
+[Mystery Caves\Have Gold-relict]
+Type = Gameshark
+Activation = EndFrame
+3008FF5E 0002
+
+[Mystery Caves\Have M.Brios cup (Press Down + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DFBF
+301F4E0E 0004
+
+[Mystery Caves\Have N.-Trophy-clocks (Press L2 + R2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DCFF
+301F4E0E 0008
+
+[Mystery Caves\Have Platin-relict]
+Type = Gameshark
+Activation = EndFrame
+3008FF60 0008
+
+[Mystery Caves\Have Sapphire-relict]
+Type = Gameshark
+Activation = EndFrame
+3008FF5B 0080
+
+[Mystery Caves\Have TNT-crates (Press L1 + L2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DAFF
+301F4E0E 0003
+
+[Mystery Caves\Have bowling-bombs (Press Right + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DFDF
+301F4E0E 0001
+
+[Mystery Caves\Have elastic springs (Press L1 + R1)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A F3FF
+301F4E0E 0005
+
+[Mystery Caves\Have homing missiles (Press Up + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DFEF
+301F4E0E 0002
+
+[Mystery Caves\Have powershields (Press R1 + R2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A D5FF
+301F4E0E 0006
+
+[Mystery Caves\Have turbos (Press X + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A 9FFF
+301F4E0E 0000
+
+[Mystery Caves\Have warp-balls (Press Left + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DF7F
+301F4E0E 0009
+
+[Mystery Caves\Infinite Wumpa-Fruits]
+Type = Gameshark
+Activation = EndFrame
+D01F4E08 0000
+301F4E08 000A
+
+[Mystery Caves\Infinite pickups]
+Type = Gameshark
+Activation = EndFrame
+D01F4E0F 0000
+301F4E0F 000A
+
+[Mystery Caves\Race won]
+Type = Gameshark
+Activation = EndFrame
+3008FF59 0080
+
+[Mystery Caves\Start on 3rd lap]
+Type = Gameshark
+Activation = EndFrame
+D01F4E1C 0000
+301F4E1C 0002
+
+[N.Gin Laboratory\All time-crates]
+Type = Gameshark
+Activation = EndFrame
+301E45DA 0046
+
+[N.Gin Laboratory\Have Gold-relict]
+Type = Gameshark
+Activation = EndFrame
+3008FF5E 0008
+
+[N.Gin Laboratory\Have Platin-relict]
+Type = Gameshark
+Activation = EndFrame
+3008FF60 0020
+
+[N.Gin Laboratory\Have Sapphire-relict]
+Type = Gameshark
+Activation = EndFrame
+3008FF5C 0002
+
+[N.Gin Laboratory\Start on 3rd lap]
+Type = Gameshark
+Activation = EndFrame
+D01E45EC 0000
+301E45EC 0002
+
+[N.Gin Labs\Have Aku-Aku-/Uka-Uka-masks (Press L2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DEFF
+301F3BD2 0007
+
+[N.Gin Labs\Have CTR-chip]
+Type = Gameshark
+Activation = EndFrame
+3008FF62 0080
+
+[N.Gin Labs\Have M.Brios cup (Press Down + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DFBF
+301F3BD2 0004
+
+[N.Gin Labs\Have N.-Trophy-clocks (Press L2 + R2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DCFF
+301F3BD2 0008
+
+[N.Gin Labs\Have TNT-crates (Press L1 + L2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DAFF
+301F3BD2 0003
+
+[N.Gin Labs\Have bowling-bombs (Press Right + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DFDF
+301F3BD2 0001
+
+[N.Gin Labs\Have elastic springs (Press L1 + R1)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A F3FF
+301F3BD2 0005
+
+[N.Gin Labs\Have homing missiles (Press Up + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DFEF
+301F3BD2 0002
+
+[N.Gin Labs\Have powershields (Press R1 + R2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A D5FF
+301F3BD2 0006
+
+[N.Gin Labs\Have turbos (Press X + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A 9FFF
+301F3BD2 0000
+
+[N.Gin Labs\Have warp-balls (Press Left + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DF7F
+301F3BD2 0009
+
+[N.Gin Labs\Infinite Wumpa-Fruits]
+Type = Gameshark
+Activation = EndFrame
+D01F3BCC 0000
+301F3BCC 000A
+
+[N.Gin Labs\Infinite pickups]
+Type = Gameshark
+Activation = EndFrame
+D01F3BD3 0000
+301F3BD3 000A
+
+[N.Gin Labs\Race won]
+Type = Gameshark
+Activation = EndFrame
+3008FF5A 0002
+
+[N.Gin Labs\Start on 3rd lap]
+Type = Gameshark
+Activation = EndFrame
+D01F3BE0 0000
+301F3BE0 0002
+
+[N.Oxid's Challenge\Have Aku-Aku-/Uka-Uka-masks (Press L2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DEFF
+301D8E3A 0007
+
+[N.Oxid's Challenge\Have M.Brios cup (Press Down + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DFBF
+301D8E3A 0004
+
+[N.Oxid's Challenge\Have N.-Trophy-clocks (Press L2 + R2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DCFF
+301D8E3A 0008
+
+[N.Oxid's Challenge\Have TNT-crates (Press L1 + L2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DAFF
+301D8E3A 0003
+
+[N.Oxid's Challenge\Have bowling-bombs (Press Right + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DFDF
+301D8E3A 0001
+
+[N.Oxid's Challenge\Have elastic springs (Press L1 + R1)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A F3FF
+301D8E3A 0005
+
+[N.Oxid's Challenge\Have homing missiles (Press Up + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DFEF
+301D8E3A 0002
+
+[N.Oxid's Challenge\Have powershields (Press R1 + R2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A D5FF
+301D8E3A 0006
+
+[N.Oxid's Challenge\Have turbos (Press X + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A 9FFF
+301D8E3A 0000
+
+[N.Oxid's Challenge\Have warp-balls (Press Left + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DF7F
+301D8E3A 0009
+
+[N.Oxid's Challenge\Infinite Wumpa-Fruits]
+Type = Gameshark
+Activation = EndFrame
+D01D8E34 0000
+301D8E34 000A
+
+[N.Oxid's Challenge\Infinite pickups]
+Type = Gameshark
+Activation = EndFrame
+D01D8E3B 0000
+301D8E3B 000A
+
+[N.Oxid's Challenge\Start on 3rd lap]
+Type = Gameshark
+Activation = EndFrame
+D01D8E48 0000
+301D8E48 0002
+
+[Nitro Court\Have Aku-Aku-/Uka-Uka-masks (Press L2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DEFF
+3019A3D2 0007
+
+[Nitro Court\Have CTR-chip]
+Type = Gameshark
+Activation = EndFrame
+3008FF66 00C4
+
+[Nitro Court\Have M.Brios cup (Press Down + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DFBF
+3019A3D2 0004
+
+[Nitro Court\Have N.-Trophy-clocks (Press L2 + R2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DCFF
+3019A3D2 0008
+
+[Nitro Court\Have TNT-crates (Press L1 + L2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DAFF
+3019A3D2 0003
+
+[Nitro Court\Have bowling-bombs (Press Right + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DFDF
+3019A3D2 0001
+
+[Nitro Court\Have elastic springs (Press L1 + R1)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A F3FF
+3019A3D2 0005
+
+[Nitro Court\Have homing missiles (Press Up + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DFEF
+3019A3D2 0002
+
+[Nitro Court\Have powershields (Press R1 + R2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A D5FF
+3019A3D2 0006
+
+[Nitro Court\Have turbos (Press X + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A 9FFF
+3019A3D2 0000
+
+[Nitro Court\Have warp-balls (Press Left + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DF7F
+3019A3D2 0009
+
+[Nitro Court\Infinite pickups]
+Type = Gameshark
+Activation = EndFrame
+8000D019 A3D3
+80000000 3019A3D3
+8000000A 0000
+
+[Nitro Court\Only 1 gem to collect]
+Type = Gameshark
+Activation = EndFrame
+8000D019 A3CD
+80000000 3019A3CD
+80000013 0000
+
+[Oxide Station\All time-crates]
+Type = Gameshark
+Activation = EndFrame
+301E3B02 0031
+
+[Oxide Station\Have Aku-Aku-/Uka-Uka-masks (Press L2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DEFF
+301F3D12 0007
+
+[Oxide Station\Have CTR-chip]
+Type = Gameshark
+Activation = EndFrame
+3008FF63 0002
+
+[Oxide Station\Have Gold-relict]
+Type = Gameshark
+Activation = EndFrame
+3008FF5E 0020
+
+[Oxide Station\Have M.Brios cup (Press Down + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DFBF
+301F3D12 0004
+
+[Oxide Station\Have N.-Trophy-clocks (Press L2 + R2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DCFF
+301F3D12 0008
+
+[Oxide Station\Have Platin-relict]
+Type = Gameshark
+Activation = EndFrame
+3008FF60 0080
+
+[Oxide Station\Have Sapphire-relict]
+Type = Gameshark
+Activation = EndFrame
+3008FF5C 0008
+
+[Oxide Station\Have TNT-crates (Press L1 + L2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DAFF
+301F3D12 0003
+
+[Oxide Station\Have bowling-bombs (Press Right + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DFDF
+301F3D12 0001
+
+[Oxide Station\Have elastic springs (Press L1 + R1)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A F3FF
+301F3D12 0005
+
+[Oxide Station\Have homing missiles (Press Up + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DFEF
+301F3D12 0002
+
+[Oxide Station\Have powershields (Press R1 + R2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A D5FF
+301F3D12 0006
+
+[Oxide Station\Have turbos (Press X + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A 9FFF
+301F3D12 0000
+
+[Oxide Station\Have warp-balls (Press Left + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DF7F
+301F3D12 0009
+
+[Oxide Station\Infinite Wumpa-Fruits]
+Type = Gameshark
+Activation = EndFrame
+D01F3D0C 0000
+301F3D0C 000A
+
+[Oxide Station\Infinite pickups]
+Type = Gameshark
+Activation = EndFrame
+D01F3D13 0000
+301F3D13 000A
+
+[Oxide Station\Race won]
+Type = Gameshark
+Activation = EndFrame
+3008FF5A 0008
+
+[Oxide Station\Start on 3rd lap]
+Type = Gameshark
+Activation = EndFrame
+D01F3D20 0000
+301F3D20 0002
+
+[Papu Papu's Challenge\Have Aku-Aku-/Uka-Uka-masks (Press L2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DEFF
+301D6736 0007
+
+[Papu Papu's Challenge\Have M.Brios cup (Press Down + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DFBF
+301D6736 0004
+
+[Papu Papu's Challenge\Have N.-Trophy-clocks (Press L2 + R2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DCFF
+301D6736 0008
+
+[Papu Papu's Challenge\Have TNT-crates (Press L1 + L2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DAFF
+301D6736 0003
+
+[Papu Papu's Challenge\Have boss-key]
+Type = Gameshark
+Activation = EndFrame
+3008FF63 0080
+
+[Papu Papu's Challenge\Have bowling-bombs (Press Right + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DFDF
+301D6736 0001
+
+[Papu Papu's Challenge\Have elastic springs (Press L1 + R1)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A F3FF
+301D6736 0005
+
+[Papu Papu's Challenge\Have homing missiles (Press Up + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DFEF
+301D6736 0002
+
+[Papu Papu's Challenge\Have powershields (Press R1 + R2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A D5FF
+301D6736 0006
+
+[Papu Papu's Challenge\Have turbos (Press X + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A 9FFF
+301D6736 0000
+
+[Papu Papu's Challenge\Have warp-balls (Press Left + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DF7F
+301D6736 0009
+
+[Papu Papu's Challenge\Infinite Wumpa-Fruits]
+Type = Gameshark
+Activation = EndFrame
+8000D01D 6730
+80000000 301D6730
+8000000A 0000
+
+[Papu Papu's Challenge\Infinite pickups]
+Type = Gameshark
+Activation = EndFrame
+8000D01D 6737
+80000000 301D6737
+8000000A 0000
+
+[Papu Papu's Challenge\Start on 3rd lap]
+Type = Gameshark
+Activation = EndFrame
+8000D01D 6744
+80000000 301D6744
+80000002 0000
+
+[Papu's Pyramid\All time-crates]
+Type = Gameshark
+Activation = EndFrame
+301DDDDE 0030
+
+[Papu's Pyramid\Have Aku-Aku-/Uka-Uka-masks (Press L2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DEFF
+301EC29A 0007
+
+[Papu's Pyramid\Have CTR-chip]
+Type = Gameshark
+Activation = EndFrame
+3008FF62 0002
+
+[Papu's Pyramid\Have Gold-relict]
+Type = Gameshark
+Activation = EndFrame
+3008FF5D 0020
+
+[Papu's Pyramid\Have M.Brios cup (Press Down + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DFBF
+301EC29A 0004
+
+[Papu's Pyramid\Have N.-Trophy-clocks (Press L2 + R2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DCFF
+301EC29A 0008
+
+[Papu's Pyramid\Have Platin-relict]
+Type = Gameshark
+Activation = EndFrame
+3008FF5F 0080
+
+[Papu's Pyramid\Have Sapphire-relict]
+Type = Gameshark
+Activation = EndFrame
+3008FF5B 0008
+
+[Papu's Pyramid\Have TNT-crates (Press L1 + L2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DAFF
+301EC29A 0003
+
+[Papu's Pyramid\Have bowling-bombs (Press Right + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DFDF
+301EC29A 0001
+
+[Papu's Pyramid\Have elastic springs (Press L1 + R1)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A F3FF
+301EC29A 0005
+
+[Papu's Pyramid\Have homing missiles (Press Up + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DFEF
+301EC29A 0002
+
+[Papu's Pyramid\Have powershields (Press R1 + R2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A D5FF
+301EC29A 0006
+
+[Papu's Pyramid\Have turbos (Press X + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A 9FFF
+301EC29A 0000
+
+[Papu's Pyramid\Have warp-balls (Press Left + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DF7F
+301EC29A 0009
+
+[Papu's Pyramid\Infinite Wumpa-Fruits]
+Type = Gameshark
+Activation = EndFrame
+D01EC294 0000
+301EC294 000A
+
+[Papu's Pyramid\Infinite pickups]
+Type = Gameshark
+Activation = EndFrame
+D01EC29B 0000
+301EC29B 000A
+
+[Papu's Pyramid\Race won]
+Type = Gameshark
+Activation = EndFrame
+3008FF59 0008
+
+[Papu's Pyramid\Start on 3rd lap]
+Type = Gameshark
+Activation = EndFrame
+D01EC2A8 0000
+301EC2A8 0002
+
+[Pinstripe's Challenge\Have Aku-Aku-/Uka-Uka-masks (Press L2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DEFF
+301DEEB6 0007
+
+[Pinstripe's Challenge\Have M.Brios cup (Press Down + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DFBF
+301DEEB6 0004
+
+[Pinstripe's Challenge\Have N.-Trophy-clocks (Press L2 + R2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DCFF
+301DEEB6 0008
+
+[Pinstripe's Challenge\Have TNT-crates (Press L1 + L2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DAFF
+301DEEB6 0003
+
+[Pinstripe's Challenge\Have boss-key]
+Type = Gameshark
+Activation = EndFrame
+3008FF64 0002
+
+[Pinstripe's Challenge\Have bowling-bombs (Press Right + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DFDF
+301DEEB6 0001
+
+[Pinstripe's Challenge\Have elastic springs (Press L1 + R1)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A F3FF
+301DEEB6 0005
+
+[Pinstripe's Challenge\Have homing missiles (Press Up + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DFEF
+301DEEB6 0002
+
+[Pinstripe's Challenge\Have powershields (Press R1 + R2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A D5FF
+301DEEB6 0006
+
+[Pinstripe's Challenge\Have turbos (Press X + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A 9FFF
+301DEEB6 0000
+
+[Pinstripe's Challenge\Have warp-balls (Press Left + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DF7F
+301DEEB6 0009
+
+[Pinstripe's Challenge\Infinite Wumpa-Fruits]
+Type = Gameshark
+Activation = EndFrame
+D01DEEB0 0000
+301DEEB0 000A
+
+[Pinstripe's Challenge\Infinite pickups]
+Type = Gameshark
+Activation = EndFrame
+D01DEEB7 0000
+301DEEB7 000A
+
+[Pinstripe's Challenge\Start on 3rd lap]
+Type = Gameshark
+Activation = EndFrame
+D01DEEC4 0000
+301DEEC4 0002
+
+[Polar Pass\All time-crates]
+Type = Gameshark
+Activation = EndFrame
+301E1D12 0026
+
+[Polar Pass\Have Aku-Aku-/Uka-Uka-masks (Press L2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DEFF
+301F3296 0007
+
+[Polar Pass\Have CTR-chip]
+Type = Gameshark
+Activation = EndFrame
+3008FF63 0001
+
+[Polar Pass\Have Gold-relict]
+Type = Gameshark
+Activation = EndFrame
+3008FF5E 0010
+
+[Polar Pass\Have M.Brios cup (Press Down + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DFBF
+301F3296 0004
+
+[Polar Pass\Have N.-Trophy-clocks (Press L2 + R2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DCFF
+301F3296 0008
+
+[Polar Pass\Have Platin-relict]
+Type = Gameshark
+Activation = EndFrame
+3008FF60 0040
+
+[Polar Pass\Have Sapphire-relict]
+Type = Gameshark
+Activation = EndFrame
+3008FF5C 0004
+
+[Polar Pass\Have TNT-crates (Press L1 + L2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DAFF
+301F3296 0003
+
+[Polar Pass\Have bowling-bombs (Press Right + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DFDF
+301F3296 0001
+
+[Polar Pass\Have elastic springs (Press L1 + R1)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A F3FF
+301F3296 0005
+
+[Polar Pass\Have homing missiles (Press Up + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DFEF
+301F3296 0002
+
+[Polar Pass\Have powershields (Press R1 + R2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A D5FF
+301F3296 0006
+
+[Polar Pass\Have turbos (Press X + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A 9FFF
+301F3296 0000
+
+[Polar Pass\Have warp-balls (Press Left + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DF7F
+301F3296 0009
+
+[Polar Pass\Infinite Wumpa-Fruits]
+Type = Gameshark
+Activation = EndFrame
+D01F3290 0000
+301F3290 000A
+
+[Polar Pass\Infinite pickups]
+Type = Gameshark
+Activation = EndFrame
+D01F3297 0000
+301F3297 000A
+
+[Polar Pass\Race won]
+Type = Gameshark
+Activation = EndFrame
+3008FF5A 0004
+
+[Polar Pass\Start on 3rd lap]
+Type = Gameshark
+Activation = EndFrame
+D01F32A4 0000
+301F32A4 0002
+
+[Rampage Ruins\Have Aku-Aku-/Uka-Uka-masks (Press L2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DEFF
+3018D9DE 0007
+
+[Rampage Ruins\Have CTR-chip]
+Type = Gameshark
+Activation = EndFrame
+3008FF66 00C1
+
+[Rampage Ruins\Have M.Brios cup (Press Down + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DFBF
+3018D9DE 0004
+
+[Rampage Ruins\Have N.-Trophy-clocks (Press L2 + R2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DCFF
+3018D9DE 0008
+
+[Rampage Ruins\Have TNT-crates (Press L1 + L2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DAFF
+3018D9DE 0003
+
+[Rampage Ruins\Have bowling-bombs (Press Right + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DFDF
+3018D9DE 0001
+
+[Rampage Ruins\Have elastic springs (Press L1 + R1)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A F3FF
+3018D9DE 0005
+
+[Rampage Ruins\Have homing missiles (Press Up + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DFEF
+3018D9DE 0002
+
+[Rampage Ruins\Have powershields (Press R1 + R2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A D5FF
+3018D9DE 0006
+
+[Rampage Ruins\Have turbos (Press X + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A 9FFF
+3018D9DE 0000
+
+[Rampage Ruins\Have warp-balls (Press Left + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DF7F
+3018D9DE 0009
+
+[Rampage Ruins\Infinite pickups]
+Type = Gameshark
+Activation = EndFrame
+8000D018 D9DF
+80000000 3018D9DF
+8000000A 0000
+
+[Rampage Ruins\Only 1 gem to collect]
+Type = Gameshark
+Activation = EndFrame
+8000D018 D9D9
+80000000 3018D9D9
+80000013 0000
+
+[Ripper Roo's Challenge\Have Aku-Aku-/Uka-Uka-masks (Press L2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DEFF
+301BEA12 0007
+
+[Ripper Roo's Challenge\Have M.Brios cup (Press Down + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DFBF
+301BEA12 0004
+
+[Ripper Roo's Challenge\Have N.-Trophy-clocks (Press L2 + R2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DCFF
+301BEA12 0008
+
+[Ripper Roo's Challenge\Have TNT-crates (Press L1 + L2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DAFF
+301BEA12 0003
+
+[Ripper Roo's Challenge\Have boss-key]
+Type = Gameshark
+Activation = EndFrame
+3008FF63 0040
+
+[Ripper Roo's Challenge\Have bowling-bombs (Press Right + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DFDF
+301BEA12 0001
+
+[Ripper Roo's Challenge\Have elastic springs (Press L1 + R1)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A F3FF
+301BEA12 0005
+
+[Ripper Roo's Challenge\Have homing missiles (Press Up + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DFEF
+301BEA12 0002
+
+[Ripper Roo's Challenge\Have powershields (Press R1 + R2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A D5FF
+301BEA12 0006
+
+[Ripper Roo's Challenge\Have turbos (Press X + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A 9FFF
+301BEA12 0000
+
+[Ripper Roo's Challenge\Have warp-balls (Press Left + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DF7F
+301BEA12 0009
+
+[Ripper Roo's Challenge\Infinite Wumpa-Fruits]
+Type = Gameshark
+Activation = EndFrame
+D01BEA0C 0000
+301BEA0C 000A
+
+[Ripper Roo's Challenge\Infinite pickups]
+Type = Gameshark
+Activation = EndFrame
+D01BEA13 0000
+301BEA13 000A
+
+[Ripper Roo's Challenge\Start on 3rd lap]
+Type = Gameshark
+Activation = EndFrame
+D01BEA20 0000
+301BEA20 0002
+
+[Rocky Road\Have Aku-Aku-/Uka-Uka-masks (Press L2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DEFF
+301825FA 0007
+
+[Rocky Road\Have CTR-chip]
+Type = Gameshark
+Activation = EndFrame
+3008FF66 00C2
+
+[Rocky Road\Have M.Brios cup (Press Down + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DFBF
+301825FA 0004
+
+[Rocky Road\Have N.-Trophy-clocks (Press L2 + R2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DCFF
+301825FA 0008
+
+[Rocky Road\Have TNT-crates (Press L1 + L2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DAFF
+301825FA 0003
+
+[Rocky Road\Have bowling-bombs (Press Right + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DFDF
+301825FA 0001
+
+[Rocky Road\Have elastic springs (Press L1 + R1)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A F3FF
+301825FA 0005
+
+[Rocky Road\Have homing missiles (Press Up + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DFEF
+301825FA 0002
+
+[Rocky Road\Have powershields (Press R1 + R2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A D5FF
+301825FA 0006
+
+[Rocky Road\Have turbos (Press X + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A 9FFF
+301825FA 0000
+
+[Rocky Road\Have warp-balls (Press Left + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DF7F
+301825FA 0009
+
+[Rocky Road\Infinite pickups]
+Type = Gameshark
+Activation = EndFrame
+8000D018 25FB
+80000000 301825FB
+8000000A 0000
+
+[Rocky Road\Only 1 gem to collect]
+Type = Gameshark
+Activation = EndFrame
+8000D018 25F4
+80000000 301825F5
+80000013 0000
+
+[Roo's Tubes\All time-crates]
+Type = Gameshark
+Activation = EndFrame
+301C3062 0020
+
+[Roo's Tubes\Have Aku-Aku-/Uka-Uka-masks (Press L2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DEFF
+301D462A 0007
+
+[Roo's Tubes\Have CTR-chip]
+Type = Gameshark
+Activation = EndFrame
+3008FF62 0004
+
+[Roo's Tubes\Have Gold-relict]
+Type = Gameshark
+Activation = EndFrame
+3008FF5D 0040
+
+[Roo's Tubes\Have M.Brios cup (Press Down + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DFBF
+301D462A 0004
+
+[Roo's Tubes\Have N.-Trophy-clocks (Press L2 + R2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DCFF
+301D462A 0008
+
+[Roo's Tubes\Have Platin-relict]
+Type = Gameshark
+Activation = EndFrame
+3008FF60 0001
+
+[Roo's Tubes\Have Sapphire-relict]
+Type = Gameshark
+Activation = EndFrame
+3008FF5B 0010
+
+[Roo's Tubes\Have TNT-crates (Press L1 + L2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DAFF
+301D462A 0003
+
+[Roo's Tubes\Have bowling-bombs (Press Right + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DFDF
+301D462A 0001
+
+[Roo's Tubes\Have elastic springs (Press L1 + R1)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A F3FF
+301D462A 0005
+
+[Roo's Tubes\Have homing missiles (Press Up + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DFEF
+301D462A 0002
+
+[Roo's Tubes\Have powershields (Press R1 + R2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A D5FF
+301D462A 0006
+
+[Roo's Tubes\Have turbos (Press X + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A 9FFF
+301D462A 0000
+
+[Roo's Tubes\Have warp-balls (Press Left + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DF7F
+301D462A 0009
+
+[Roo's Tubes\Infinite Wumpa-Fruits]
+Type = Gameshark
+Activation = EndFrame
+D01D4624 0000
+301D4624 000A
+
+[Roo's Tubes\Infinite pickups]
+Type = Gameshark
+Activation = EndFrame
+D01D462B 0000
+301D462B 000A
+
+[Roo's Tubes\Race won]
+Type = Gameshark
+Activation = EndFrame
+3008FF59 0010
+
+[Roo's Tubes\Start on 3rd lap]
+Type = Gameshark
+Activation = EndFrame
+D01D4638 0000
+301D4638 0002
+
+[Sewer Speeding\All time-crates]
+Type = Gameshark
+Activation = EndFrame
+301CEFD6 0041
+
+[Sewer Speeding\Have Aku-Aku-/Uka-Uka-masks (Press L2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DEFF
+301DD59E 0007
+
+[Sewer Speeding\Have CTR-chip]
+Type = Gameshark
+Activation = EndFrame
+3008FF62 0010
+
+[Sewer Speeding\Have Gold-relict]
+Type = Gameshark
+Activation = EndFrame
+3008FF5E 0001
+
+[Sewer Speeding\Have M.Brios cup (Press Down + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DFBF
+301DD59E 0004
+
+[Sewer Speeding\Have N.-Trophy-clocks (Press L2 + R2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DCFF
+301DD59E 0008
+
+[Sewer Speeding\Have Platin-relict]
+Type = Gameshark
+Activation = EndFrame
+3008FF60 0004
+
+[Sewer Speeding\Have Sapphire-relict]
+Type = Gameshark
+Activation = EndFrame
+3008FF5B 0040
+
+[Sewer Speeding\Have TNT-crates (Press L1 + L2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DAFF
+301DD59E 0003
+
+[Sewer Speeding\Have bowling-bombs (Press Right + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DFDF
+301DD59E 0001
+
+[Sewer Speeding\Have elastic springs (Press L1 + R1)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A F3FF
+301DD59E 0005
+
+[Sewer Speeding\Have homing missiles (Press Up + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DFEF
+301DD59E 0002
+
+[Sewer Speeding\Have powershields (Press R1 + R2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A D5FF
+301DD59E 0006
+
+[Sewer Speeding\Have turbos (Press X + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A 9FFF
+301DD59E 0000
+
+[Sewer Speeding\Have warp-balls (Press Left + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DF7F
+301DD59E 0009
+
+[Sewer Speeding\Infinite Wumpa-Fruits]
+Type = Gameshark
+Activation = EndFrame
+D01DD598 0000
+301DD598 000A
+
+[Sewer Speeding\Infinite pickups]
+Type = Gameshark
+Activation = EndFrame
+D01DD59F 0000
+301DD59F 000A
+
+[Sewer Speeding\Race won]
+Type = Gameshark
+Activation = EndFrame
+3008FF59 0040
+
+[Sewer Speeding\Start on 3rd lap]
+Type = Gameshark
+Activation = EndFrame
+D01DD5AC 0000
+301DD5AC 0002
+
+[Skull Rock\Have Aku-Aku-/Uka-Uka-masks (Press L2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DEFF
+3018B85A 0007
+
+[Skull Rock\Have CTR-chip]
+Type = Gameshark
+Activation = EndFrame
+3008FF65 0080
+
+[Skull Rock\Have M.Brios cup (Press Down + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DFBF
+3018B85A 0004
+
+[Skull Rock\Have N.-Trophy-clocks (Press L2 + R2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DCFF
+3018B85A 0008
+
+[Skull Rock\Have TNT-crates (Press L1 + L2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DAFF
+3018B85A 0003
+
+[Skull Rock\Have bowling-bombs (Press Right + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DFDF
+3018B85A 0001
+
+[Skull Rock\Have elastic springs (Press L1 + R1)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A F3FF
+3018B85A 0005
+
+[Skull Rock\Have homing missiles (Press Up + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DFEF
+3018B85A 0002
+
+[Skull Rock\Have powershields (Press R1 + R2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A D5FF
+3018B85A 0006
+
+[Skull Rock\Have turbos (Press X + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A 9FFF
+3018B85A 0000
+
+[Skull Rock\Have warp-balls (Press Left + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DF7F
+3018B85A 0009
+
+[Skull Rock\Infinite pickups]
+Type = Gameshark
+Activation = EndFrame
+D018B85B 0000
+3018B85B 000A
+
+[Skull Rock\Only 1 gem to collect]
+Type = Gameshark
+Activation = EndFrame
+D018B854 0000
+3018B855 0013
+
+[Slide Coliseum\All time-crates]
+Type = Gameshark
+Activation = EndFrame
+301D366A 002D
+
+[Slide Coliseum\Have Gold-relict]
+Type = Gameshark
+Activation = EndFrame
+3008FF5F 0001
+
+[Slide Coliseum\Have Platin-relict]
+Type = Gameshark
+Activation = EndFrame
+3008FF61 0004
+
+[Slide Coliseum\Have Sapphire-relict]
+Type = Gameshark
+Activation = EndFrame
+3008FF5C 0040
+
+[Slide Coliseum\Start on 3rd lap]
+Type = Gameshark
+Activation = EndFrame
+D01D367C 0000
+301D367C 0002
+
+[Tiger Temple\Have Aku-Aku-/Uka-Uka-masks (Press L2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DEFF
+301F331A 0007
+
+[Tiger Temple\Have CTR-chip]
+Type = Gameshark
+Activation = EndFrame
+3008FF62 0001
+
+[Tiger Temple\Have M.Brios cup (Press Down + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DFBF
+301F331A 0004
+
+[Tiger Temple\Have N.-Trophy-clocks (Press L2 + R2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DCFF
+301F331A 0008
+
+[Tiger Temple\Have TNT-crates (Press L1 + L2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DAFF
+301F331A 0003
+
+[Tiger Temple\Have bowling-bombs (Press Right + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DFDF
+301F331A 0001
+
+[Tiger Temple\Have elastic springs (Press L1 + R1)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A F3FF
+301F331A 0005
+
+[Tiger Temple\Have homing missiles (Press Up + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DFEF
+301F331A 0002
+
+[Tiger Temple\Have powershields (Press R1 + R2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A D5FF
+301F331A 0006
+
+[Tiger Temple\Have turbos (Press X + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A 9FFF
+301F331A 0000
+
+[Tiger Temple\Have warp-balls (Press Left + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DF7F
+301F331A 0009
+
+[Tiger Temple\Infinite Wumpa-Fruits]
+Type = Gameshark
+Activation = EndFrame
+D01F3314 0000
+301F3314 000A
+
+[Tiger Temple\Infinite pickups]
+Type = Gameshark
+Activation = EndFrame
+D01F331B 0000
+301F331B 000A
+
+[Tiger Temple\Race won]
+Type = Gameshark
+Activation = EndFrame
+3008FF59 0004
+
+[Tiger Temple\Start on 3rd lap]
+Type = Gameshark
+Activation = EndFrame
+D01F3328 0000
+301F3328 0002
+
+[Tiger-Temple\All time-crates]
+Type = Gameshark
+Activation = EndFrame
+301E4406 0034
+
+[Tiger-Temple\Have Gold-relict]
+Type = Gameshark
+Activation = EndFrame
+3008FF5D 0010
+
+[Tiger-Temple\Have Platin-relict]
+Type = Gameshark
+Activation = EndFrame
+3008FF5F 0040
+
+[Tiger-Temple\Have Sapphire-relict]
+Type = Gameshark
+Activation = EndFrame
+3008FF5B 0004
+
+[Tiger-Temple\Start on 3rd lap]
+Type = Gameshark
+Activation = EndFrame
+D01E4418 0000
+301E4418 0002
+
+[Time Always 0.00.00]
+Type = Gameshark
+Activation = EndFrame
+80035012 2400
+
+[Tiny Arena\All time-crates]
+Type = Gameshark
+Activation = EndFrame
+301E37CA 003C
+
+[Tiny Arena\Have Aku-Aku-/Uka-Uka-masks (Press L2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DEFF
+301F0086 0007
+
+[Tiny Arena\Have CTR-chip]
+Type = Gameshark
+Activation = EndFrame
+3008FF63 0008
+
+[Tiny Arena\Have Gold-relict]
+Type = Gameshark
+Activation = EndFrame
+3008FF5E 0080
+
+[Tiny Arena\Have M.Brios cup (Press Down + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DFBF
+301F0086 0004
+
+[Tiny Arena\Have N.-Trophy-clocks (Press L2 + R2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DCFF
+301F0086 0008
+
+[Tiny Arena\Have Platin-relict]
+Type = Gameshark
+Activation = EndFrame
+3008FF61 0002
+
+[Tiny Arena\Have Sapphire-relict]
+Type = Gameshark
+Activation = EndFrame
+3008FF5C 0020
+
+[Tiny Arena\Have TNT-crates (Press L1 + L2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DAFF
+301F0086 0003
+
+[Tiny Arena\Have bowling-bombs (Press Right + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DFDF
+301F0086 0001
+
+[Tiny Arena\Have elastic springs (Press L1 + R1)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A F3FF
+301F0086 0005
+
+[Tiny Arena\Have homing missiles (Press Up + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DFEF
+301F0086 0002
+
+[Tiny Arena\Have powershields (Press R1 + R2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A D5FF
+301F0086 0006
+
+[Tiny Arena\Have turbos (Press X + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A 9FFF
+301F0086 0000
+
+[Tiny Arena\Have warp-balls (Press Left + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0096E8A DF7F
+301F0086 0009
+
+[Tiny Arena\Infinite Wumpa-Fruits]
+Type = Gameshark
+Activation = EndFrame
+D01F0080 0000
+301F0080 000A
+
+[Tiny Arena\Infinite pickups]
+Type = Gameshark
+Activation = EndFrame
+D01F0087 0000
+301F0087 000A
+
+[Tiny Arena\Race won]
+Type = Gameshark
+Activation = EndFrame
+3008FF5A 0020
+
+[Tiny Arena\Start on 3rd lap]
+Type = Gameshark
+Activation = EndFrame
+D01F0094 0000
+301F0094 0002
+
+[Turbo Track\All time-crates]
+Type = Gameshark
+Activation = EndFrame
+301E6A3E 0034
+
+[Turbo Track\Have Gold-relict]
+Type = Gameshark
+Activation = EndFrame
+3008FF5F 0002
+
+[Turbo Track\Have Platin-relict]
+Type = Gameshark
+Activation = EndFrame
+3008FF61 0008
+
+[Turbo Track\Have Sapphire-relict]
+Type = Gameshark
+Activation = EndFrame
+3008FF5C 0080
+
+[Turbo Track\Start on 3rd lap]
+Type = Gameshark
+Activation = EndFrame
+D01E6A50 0000
+301E6A50 0002
+
+[Drive through most obstacles]
+Description = Press select to toggle on/off
+Type = Gameshark
+Activation = EndFrame
+D7010001 01000100
+F501F93E 14682400
+
+[Matrix mode]
+Description = Press R3 To toggle on/off
+Type = Gameshark
+Activation = EndFrame
+D7010001 02000400
+F501408E 18402400
+F5071646 10601000
+F50716A6 10601000
+F5036232 10401000
+F501407E 1C401000
+
+[Boost]
+Description = Press or hold L3
+Type = Gameshark
+Activation = EndFrame
+A705EC2A 24001040
+D7200000 00000200
+A705EC2A 10402400
+
+[Invisible mode]
+Type = Gameshark
+Activation = EndFrame
+A70711EA 1C601000
+
+[Crashing against walls does not stun you]
+Type = Gameshark
+Activation = EndFrame
+A70212EA 10401000
+
+[Mass spawn]
+Description = Keep holding circle when picking something up
+Type = Gameshark
+Activation = EndFrame
+A7066722 24001040
+D7200000 03000020
+A7066722 10402400
+
+[Disable mask from saving you]
+Type = Gameshark
+Activation = EndFrame
+A701EA9A 10401000
+
+[Grass/sand/water etc won't slow you down]
+Type = Gameshark
+Activation = EndFrame
+A7062726 12021000
+
+[Never spin out during drifts]
+Type = Gameshark
+Activation = EndFrame
+A70637EE 14402400
+
+[Instantly go max speed]
+Description = Hold X + Left analog forward
+Type = Gameshark
+Activation = EndFrame
+A705E41A 24001040
+D7200000 00100040
+A705E41A 10402400
+
+[Hide huds]
+Type = Gameshark
+Activation = EndFrame
+A70365AA 10402400
+A704C816 10432400
+A704CA76 10432400
+
+[Uncap FPS lock]
+Type = Gameshark
+Activation = EndFrame
+A70378CA 1C402400
+
+[Camera detach + matrix mode (Useful for free cams)]
+Type = Gameshark
+Activation = EndFrame
+A707166A 10601000
+
+[Enable reverb anywhere]
+Type = Gameshark
+Activation = EndFrame
+A702FBEA 10402400
+
+[Disable reverb anywhere]
+Type = Gameshark
+Activation = EndFrame
+A702FBEA 10401000
+
+[Collect crystals from anywhere]
+Type = Gameshark
+Activation = EndFrame
+A7054482 10402400
+
+[Space jump + booster]
+Type = Gameshark
+Activation = EndFrame
+A705E326 10402400
+
+[Space jump without booster]
+Type = Gameshark
+Activation = EndFrame
+A705E326 10402400
+A7051C82 10401000
+
+[Higher space jump + jump in mid-air]
+Type = Gameshark
+Activation = EndFrame
+A705E326 10402400
+A701DE1E 10401000
+
+[Higher space jump without booster + multi jump in mid-air]
+Description = Tap R1 or L1 repeatedly
+Type = Gameshark
+Activation = EndFrame
+A705E326 10402400
+A7051D12 10401000
+A701DE1E 10401000
+
+[Infinite Laps]
+Type = Gameshark
+Activation = EndFrame
+A704172E 14621000
+
+[One lap to end race]
+Type = Gameshark
+Activation = EndFrame
+A704172E 14622400
+
+[Remove competition]
+Type = Gameshark
+Activation = EndFrame
+A70158D2 10401000
+
+[Competition cheats]
+Type = Gameshark
+Activation = EndFrame
+A701408E 18401000
+
+[Widescreen]
+Type = Gameshark
+Activation = EndFrame
+9002305C 24040C00
+800230C6 000E
+900230A0 00037300
+90022608 08002080
+9002260C 84510000
+90008200 241B0003
+90008204 03710019
+90008208 00008812
+9000820C 00118883
+90008210 08008984
+90008214 2442003A
+8006C2F8 0C00
+90043168 24040400
+
+[Widescreen 16-9 ALT]
+Type = Gameshark
+Activation = EndFrame
+8006C2F8 0C00
+8006C2EE 3000
+90043168 24040400
+9002305C 24040C00
+800230C6 000E
+900230A0 00037300
+90022608 08002080
+9002260C 84510000
+90008200 241B0003
+90008204 03710019
+90008208 00008812
+9000820C 00118883
+90008210 08008984
+90008214 2442003A
+900224A4 08002086
+900224A8 84C20000
+90008218 00000000
+9000821C 0002D883
+90008220 00021043
+90008224 0800892B
+90008228 005B1021
+D00B077E AFA2
+800B0778 00C0
+;#P1 Use Nitros Oxide:Press L2 after selecting your character. May not work at all in VS mode for player 1. For Adventure mode, press L1 before entering a portal/challenge. Press L2 before returning to the map. Freezes on some tracks. ? is the character you want to be in Adventure Mode map.
+;D0096AD6 FEFF
+;80086E84 000F
+;D0096AD6 FBFF
+;80086E84 000?
+

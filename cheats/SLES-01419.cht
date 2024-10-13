@@ -1,0 +1,7 @@
+; CHTDB: ; [ Global Domination (Europe) {SLES-01419} ]
+
+[Have always 100 missiles in mission 1]
+Type = Gameshark
+Activation = EndFrame
+801403A6 0063
+

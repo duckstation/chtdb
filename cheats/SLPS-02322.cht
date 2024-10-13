@@ -1,0 +1,12 @@
+; CHTDB: ; [ Wonder B-Cruise - Dogiborn Daisakusen (Jpn) (1999) (Sunsoft) {SLPS-02322} <wondbcrs> ]
+
+[Infinite Money 999999]
+Type = Gameshark
+Activation = EndFrame
+90177538 000F423F
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800A04D8 4650
+

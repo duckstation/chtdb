@@ -1,0 +1,18 @@
+; CHTDB: ; [ Kosodate Quiz Motto My Angel (Jpn) (1999) (Namco) {SLPS-01885} <mmyangel> ]
+
+[P1 Infinite Hearts]
+Type = Gameshark
+Activation = EndFrame
+8014BF36 0007
+
+[P1 Infinite Heart Tries]
+Type = Gameshark
+Activation = EndFrame
+8014BE0A 0005
+
+[Quota 0 in L1, R1 simultaneous press]
+Type = Gameshark
+Activation = EndFrame
+D007C698 000C
+8014C142 0000
+

@@ -1,0 +1,100 @@
+; CHTDB: ; [ Jet Rider 2 (Europe) {SCES-01045} ]
+
+[Infinite Turbo For All Characters]
+Type = Gameshark
+Activation = EndFrame
+80152190 0000
+
+[Infinite Grapple Li'l Dave]
+Type = Gameshark
+Activation = EndFrame
+8016C4FE 0006
+
+[Infinite Grapple Wild Ride]
+Type = Gameshark
+Activation = EndFrame
+8016D466 0006
+
+[Infinite Grapple Blade]
+Type = Gameshark
+Activation = EndFrame
+8016E3CE 0006
+
+[Infinite Grapple The Technician]
+Type = Gameshark
+Activation = EndFrame
+8016F336 0006
+
+[Infinite Grapple The Max]
+Type = Gameshark
+Activation = EndFrame
+8017029E 0006
+
+[Infinite Grapple Vampeera]
+Type = Gameshark
+Activation = EndFrame
+80171206 0006
+
+[Infinite Grapple Gadget]
+Type = Gameshark
+Activation = EndFrame
+8017216E 0006
+
+[Infinite Grapple Steele]
+Type = Gameshark
+Activation = EndFrame
+801730D6 0006
+
+[Infinite Grapple The Hun]
+Type = Gameshark
+Activation = EndFrame
+8017403E 0006
+
+[Infinite Grapple Bomber]
+Type = Gameshark
+Activation = EndFrame
+8017AFA6 0006
+
+[Infinite Grapple Enigma]
+Type = Gameshark
+Activation = EndFrame
+80175F0E 0006
+
+[Race In Wireframe-Mode]
+Type = Gameshark
+Activation = EndFrame
+8016B4F8 0101
+
+[Always Come In 1st]
+Type = Gameshark
+Activation = EndFrame
+8017DB14 0001
+8017008C 0003
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A7194CD4 10000C00
+A7194C14 10000C00
+A7194C74 10000C00
+A7194AF4 10000C00
+A7194B54 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A7194CD4 10000900
+A7194C14 10000900
+A7194C74 10000900
+A7194AF4 10000900
+A7194B54 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A7194CD4 10000400
+A7194C14 10000400
+A7194C74 10000400
+A7194AF4 10000400
+A7194B54 10000400
+

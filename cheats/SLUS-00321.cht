@@ -1,0 +1,131 @@
+; CHTDB: ; [ Black Dawn (USA) (1996) (Virgin Interactive Entertainment) {SLUS-00321} <blackdwn> ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80054C54 0000
+80054C64 0000
+8005772C 0000
+8005FC60 0000
+8005FC64 0000
+
+[Infinite Msc's]
+Type = Gameshark
+Activation = EndFrame
+8005FCF0 0063
+
+[Infinite Rkt's]
+Type = Gameshark
+Activation = EndFrame
+8005FCF2 03E7
+
+[Infinite Nap's]
+Type = Gameshark
+Activation = EndFrame
+8005FCF4 0063
+
+[Infinite Tac's]
+Type = Gameshark
+Activation = EndFrame
+8005FCF6 0063
+
+[Always Play Level\Urban Strike]
+Type = Gameshark
+Activation = EndFrame
+800F23DC 0000
+
+[Always Play Level\Black Out]
+Type = Gameshark
+Activation = EndFrame
+800F23DC 0001
+
+[Always Play Level\Ice Storm]
+Type = Gameshark
+Activation = EndFrame
+800F23DC 0002
+
+[Always Play Level\Desert Fury]
+Type = Gameshark
+Activation = EndFrame
+800F23DC 0003
+
+[Always Play Level\Riger Trap]
+Type = Gameshark
+Activation = EndFrame
+800F23DC 0004
+
+[Always Play Level\Crack Down]
+Type = Gameshark
+Activation = EndFrame
+800F23DC 0005
+
+[Always Play Level\Hurricane]
+Type = Gameshark
+Activation = EndFrame
+800F23DC 0005
+
+[Select Starting Level\Urban Strike]
+Type = Gameshark
+Activation = EndFrame
+A60F23DC 00000000
+
+[Select Starting Level\Black Out]
+Type = Gameshark
+Activation = EndFrame
+A60F23DC 00000001
+
+[Select Starting Level\Ice Storm]
+Type = Gameshark
+Activation = EndFrame
+A60F23DC 00000002
+
+[Select Starting Level\Desert Fury]
+Type = Gameshark
+Activation = EndFrame
+A60F23DC 00000003
+
+[Select Starting Level\Riger Trap]
+Type = Gameshark
+Activation = EndFrame
+A60F23DC 00000004
+
+[Select Starting Level\Crack Down]
+Type = Gameshark
+Activation = EndFrame
+A60F23DC 00000005
+
+[Select Starting Level\Hurricane]
+Type = Gameshark
+Activation = EndFrame
+A60F23DC 00000005
+
+[Msc's Fully Powered Up]
+Type = Gameshark
+Activation = EndFrame
+3005FCFA 0003
+
+[Rkt's Fully Powered Up]
+Type = Gameshark
+Activation = EndFrame
+3005FCFB 0003
+
+[Nap's Fully Powered Up]
+Type = Gameshark
+Activation = EndFrame
+3005FCFC 0003
+
+[Tac's Fully Powered Up]
+Type = Gameshark
+Activation = EndFrame
+3005FCFD 0003
+
+[Gun Fully Powered Up]
+Type = Gameshark
+Activation = EndFrame
+3005FCFE 0003
+
+['Perfect' Pause Enabled]
+Type = Gameshark
+Activation = EndFrame
+8005EF78 0001
+

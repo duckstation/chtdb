@@ -1,0 +1,37 @@
+; CHTDB: ; [ Apocalypse (Europe) {SLES-00460} ]
+
+[Infinite Health - White House]
+Type = Gameshark
+Activation = EndFrame
+8012739E 2400
+
+[Infinite Health - Final Stage]
+Type = Gameshark
+Activation = EndFrame
+80113556 0064
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800FFEFC 0006
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800FF9A4 0001
+
+[Have All Weapons]
+Type = Gameshark
+Activation = EndFrame
+300FF9A0 0001
+
+[Open All Re-Start Points In The Level]
+Type = Gameshark
+Activation = EndFrame
+800FF9C0 0001
+
+[Open A Debug Window During Game]
+Type = Gameshark
+Activation = EndFrame
+800FF9C4 0001
+

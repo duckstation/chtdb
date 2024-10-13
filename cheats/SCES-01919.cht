@@ -1,0 +1,36 @@
+; CHTDB: ; [ G-Police: Weapons of Justice (Spain) {SCES-01919} ]
+
+[All 30 missions & difficulties open]
+Type = Gameshark
+Activation = EndFrame
+30043DF8 001F
+30043DF9 001F
+30043DFA 001F
+
+[Open all database]
+Type = Gameshark
+Activation = EndFrame
+80043DB4 03FF
+80043DBc 00FF
+80043DC4 7FFF
+90043DCC 0003FFFF
+90043DD4 0003FFFF
+90043DDC 0003FFFF
+90043DE4 0003FFFF
+90043DEC 0003FFFF
+
+[Infinite Shield Raptor	.Only use in missions]
+Type = Gameshark
+Activation = EndFrame
+801EF4EC 36B1
+
+[Infinite Shield Havoc .Only use in missions]
+Type = Gameshark
+Activation = EndFrame
+801EF631 001D
+
+[Infinite Shield Venom Gunship .Only use in missions]
+Type = Gameshark
+Activation = EndFrame
+801EF630 1D4D
+

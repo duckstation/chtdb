@@ -1,0 +1,23 @@
+; CHTDB: ; [ Fantastic Night Dreams: Cotton Original (Japan) {SLPS-02034} ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800E0890 0004
+
+[Invinvible]
+Type = Gameshark
+Activation = EndFrame
+801E4338 0031
+
+[Infinite Weapons]
+Type = Gameshark
+Activation = EndFrame
+900E08A4 03040102
+800E08A8 0500
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+300DB229 000C
+

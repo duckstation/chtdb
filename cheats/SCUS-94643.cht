@@ -1,0 +1,32 @@
+; CHTDB: ; [ Peter Pan in Disney's Return to Never Land (USA) (2002) (Sony Computer Entertainment America) {SCUS-94643} <petpanrn> ]
+
+[All Movies Open]
+Type = Gameshark
+Activation = EndFrame
+800F32C6 001F
+
+[Have All Skills]
+Type = Gameshark
+Activation = EndFrame
+800F32B2 000F
+
+[Infinite Feathers]
+Type = Gameshark
+Activation = EndFrame
+800F32AE 270F
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800F32AA 000A
+
+[Infinite Pixie Dust]
+Type = Gameshark
+Activation = EndFrame
+800F32AC 0006
+
+[Max Hearts]
+Type = Gameshark
+Activation = EndFrame
+800F32B0 000A
+

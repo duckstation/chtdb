@@ -1,0 +1,8 @@
+; CHTDB: ; [ Wacky Races (Europe) {SLES-02468} ]
+
+[All Races]
+Type = Gameshark
+Activation = EndFrame
+900AB4BC 01010101
+800AB4C0 0101
+

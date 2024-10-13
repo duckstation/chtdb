@@ -1,0 +1,155 @@
+; CHTDB: ; [ Puyo Puyo Tsuu: Ketteiban (Japan) {SLPS-00530} ]
+
+[Endless Mode\P1 Max Points]
+Type = Gameshark
+Activation = EndFrame
+800B3F92 270F
+
+[Endless Mode\P2 Max Points]
+Type = Gameshark
+Activation = EndFrame
+800B4012 270F
+
+[Endless Mode\P1 Slow Speed]
+Type = Gameshark
+Activation = EndFrame
+800B3FC8 0000
+
+[Endless Mode\P2 Slow Speed]
+Type = Gameshark
+Activation = EndFrame
+800B4048 0000
+
+[P1 Get Zen-Keshi Bonus Each Turn]
+Type = Gameshark
+Activation = EndFrame
+800B3F92 0010
+
+[P2 Get Zen-Keshi Bonus Each Turn]
+Type = Gameshark
+Activation = EndFrame
+800B4012 0010
+
+[Main Game\Stage select 1]
+Type = Gameshark
+Activation = EndFrame
+800B0D7C 0001
+
+[Main Game\Stage select 2]
+Type = Gameshark
+Activation = EndFrame
+800B0D7C 0002
+
+[Main Game\Stage select 3]
+Type = Gameshark
+Activation = EndFrame
+800B0D7C 0003
+
+[Main Game\Stage select 4]
+Type = Gameshark
+Activation = EndFrame
+800B0D7C 0004
+
+[Main Game\Stage select 5]
+Type = Gameshark
+Activation = EndFrame
+800B0D7C 0005
+
+[Main Game\Stage select 6]
+Type = Gameshark
+Activation = EndFrame
+800B0D7C 0006
+
+[Main Game\Final Stage	7]
+Type = Gameshark
+Activation = EndFrame
+800B0D7C 0007
+
+[Main Game\P1 Slow Speed]
+Type = Gameshark
+Activation = EndFrame
+300B3F82 0000
+
+[Main Game\P2 Slow Speed]
+Type = Gameshark
+Activation = EndFrame
+300B4002 0000
+
+[P1 Select Ojama Puyos\Massive Amount]
+Type = Gameshark
+Activation = EndFrame
+800B3F8C 001E
+
+[P1 Select Ojama Puyos\None]
+Type = Gameshark
+Activation = EndFrame
+800B3F8C 0000
+
+[P2 Select Ojama Puyos\Massive Amount]
+Type = Gameshark
+Activation = EndFrame
+800B400C 001E
+
+[P2 Select Ojama Puyos\None]
+Type = Gameshark
+Activation = EndFrame
+800B400C 0000
+
+[P1 Max Combo]
+Type = Gameshark
+Activation = EndFrame
+300B3F83 0007
+
+[P2 Max Combo]
+Type = Gameshark
+Activation = EndFrame
+800B4003 0007
+
+[Max Exp.Always fight Masked Satan as the final boss.]
+Type = Gameshark
+Activation = EndFrame
+900B0AD0 000F423F
+
+[P1 Max Score]
+Type = Gameshark
+Activation = EndFrame
+900B3F84 0098967F
+
+[P2 Max Score]
+Type = Gameshark
+Activation = EndFrame
+900B4004 0098967F
+
+[P1 No Zen-Keshi Bonus]
+Type = Gameshark
+Activation = EndFrame
+800B3F92 0000
+
+[P2 No Zen-Keshi Bonus]
+Type = Gameshark
+Activation = EndFrame
+800B4012 0000
+
+[Total Time = 00.00]
+Type = Gameshark
+Activation = EndFrame
+800B0AC4 0000
+800B0E28 0000
+
+[Tsuu Mode\All Clear]
+Type = Gameshark
+Activation = EndFrame
+800B0B70 0024
+
+[Tsuu Mode\P1 Final Stage (Press L1 to activate)]
+Type = Gameshark
+Activation = EndFrame
+E00B0C7C 0004
+800B413E 0023
+
+[Tsuu Mode\P2 Final Stage (Press L1 to activate)]
+Type = Gameshark
+Activation = EndFrame
+E00B0C84 0004
+800B413E 0023
+

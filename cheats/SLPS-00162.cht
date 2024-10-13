@@ -1,0 +1,52 @@
+; CHTDB: ; [ Stahlfeder - Tetsukou Hikuudan (Jpn) (1996) (Santos) {SLPS-00162} <stahlfed> ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80020414 0005
+
+[Infinite Bombs]
+Type = Gameshark
+Activation = EndFrame
+8002041C 0004
+
+[Gun Power = 5]
+Type = Gameshark
+Activation = EndFrame
+80020410 0005
+
+[Second Gun Power = 5]
+Type = Gameshark
+Activation = EndFrame
+800204DC 0005
+
+[Select Ship Type\1]
+Type = Gameshark
+Activation = EndFrame
+80020408 0001
+
+[Select Ship Type\2]
+Type = Gameshark
+Activation = EndFrame
+80020408 0002
+
+[Select Ship Type\3]
+Type = Gameshark
+Activation = EndFrame
+80020408 0003
+
+[Select Ship Type\4]
+Type = Gameshark
+Activation = EndFrame
+80020408 0004
+
+[Max Shots Level 5]
+Type = Gameshark
+Activation = EndFrame
+8002040C 0005
+
+[Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+8002050C 0005
+

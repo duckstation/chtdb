@@ -1,0 +1,7 @@
+; CHTDB: ; [ 3D Lemmings (Japan) {SIPS-60002} ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80088DB0 0005
+

@@ -1,0 +1,91 @@
+; CHTDB: ; [ Memories Off (Japan) {SLPS-02296} ]
+
+[Max Favorability Ya Ima-zaka smile]
+Type = Gameshark
+Activation = EndFrame
+300F2A54 0064
+
+[Max Favorability Kaoru Otowa]
+Type = Gameshark
+Activation = EndFrame
+300F2A55 0064
+
+[Max Favorability Ibuki water]
+Type = Gameshark
+Activation = EndFrame
+300F2A56 0064
+
+[Max Favorability Shion Futami]
+Type = Gameshark
+Activation = EndFrame
+300F2A57 0064
+
+[Max Favorability Kirishima Sayomi]
+Type = Gameshark
+Activation = EndFrame
+300F2A58 0064
+
+[Max Favorability Other Girl]
+Type = Gameshark
+Activation = EndFrame
+300F2A59 0064
+
+[Unlock all Music & Voice]
+Type = Gameshark
+Activation = EndFrame
+300F2A88 0001
+300F2A89 0001
+300F2A8A 0001
+300F2A8B 0001
+300F2A8C 0001
+300F2A8D 0001
+
+[Unlock all Album galleries]
+Type = Gameshark
+Activation = EndFrame
+900DC600 03FF00FF
+900DC604 00FF03FF
+900DC608 03FF01FF
+
+[All Cgs Hinokitsuki Ayaka]
+Type = Gameshark
+Activation = EndFrame
+800DD380 00FF
+
+[All Cgs Ibuki water]
+Type = Gameshark
+Activation = EndFrame
+800DD382 03FF
+
+[All Cgs Kaoru Otowa]
+Type = Gameshark
+Activation = EndFrame
+800DD384 03FF
+
+[All Cgs Kirishima Sayomi]
+Type = Gameshark
+Activation = EndFrame
+800DD386 00FF
+
+[All Cgs Shion Futami]
+Type = Gameshark
+Activation = EndFrame
+800DD388 01FF
+
+[All Cgs Ima-zaka YuiEmi]
+Type = Gameshark
+Activation = EndFrame
+800DD38A 03FF
+
+[Item occurrence of VOICE (all worth + clear flag)]
+Type = Gameshark
+Activation = EndFrame
+300F3809 0001
+800F380A 0101
+900F380C 01010101
+
+[Item occurrence of MUSIC]
+Type = Gameshark
+Activation = EndFrame
+300F3808 0001
+

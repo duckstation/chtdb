@@ -1,0 +1,745 @@
+; CHTDB: ; [ Tenchu 2 - Birth of the Stealth Assassins (USA) (2000) (Activision) {SLUS-00939, SLUS-00939GH} <tenchu2> ]
+
+[Rikimaru\Record\The Training Course\Grand Master Status]
+Type = Gameshark
+Activation = EndFrame
+30010074 0006
+
+[Rikimaru\Record\The Training Course\Max Kills]
+Type = Gameshark
+Activation = EndFrame
+30010075 00FF
+
+[Rikimaru\Record\The Training Course\Max Score]
+Type = Gameshark
+Activation = EndFrame
+80010076 7FFF
+
+[Rikimaru\Record\The Training Course\Time 0.00.0/Enables Mission]
+Type = Gameshark
+Activation = EndFrame
+80010078 EA5F
+
+[Rikimaru\Record\The Gang Of Thieves\Grand Master Status]
+Type = Gameshark
+Activation = EndFrame
+3001007C 0006
+
+[Rikimaru\Record\The Gang Of Thieves\Max Kills]
+Type = Gameshark
+Activation = EndFrame
+3001007D 00FF
+
+[Rikimaru\Record\The Gang Of Thieves\Max Score]
+Type = Gameshark
+Activation = EndFrame
+8001007E 7FFF
+
+[Rikimaru\Record\The Gang Of Thieves\Time 0.00.0/Enables Mission]
+Type = Gameshark
+Activation = EndFrame
+80010080 EA5F
+
+[Rikimaru\Record\Treason At Gohde Castle\Grand Master Status]
+Type = Gameshark
+Activation = EndFrame
+30010084 0006
+
+[Rikimaru\Record\Treason At Gohde Castle\Max Kills]
+Type = Gameshark
+Activation = EndFrame
+30010085 00FF
+
+[Rikimaru\Record\Treason At Gohde Castle\Max Score]
+Type = Gameshark
+Activation = EndFrame
+80010086 7FFF
+
+[Rikimaru\Record\Treason At Gohde Castle\Time 0.00.0/Enables Mission]
+Type = Gameshark
+Activation = EndFrame
+80010088 EA5F
+
+[Rikimaru\Record\Lord Toda's War Camp\Grand Master Status]
+Type = Gameshark
+Activation = EndFrame
+3001008C 0006
+
+[Rikimaru\Record\Lord Toda's War Camp\Max Kills]
+Type = Gameshark
+Activation = EndFrame
+3001008D 00FF
+
+[Rikimaru\Record\Lord Toda's War Camp\Max Score]
+Type = Gameshark
+Activation = EndFrame
+8001008E 7FFF
+
+[Rikimaru\Record\Lord Toda's War Camp\Time 0.00.0/Enables Mission]
+Type = Gameshark
+Activation = EndFrame
+80010090 EA5F
+
+[Rikimaru\Record\Demon Mountain\Grand Master Status]
+Type = Gameshark
+Activation = EndFrame
+30010094 0006
+
+[Rikimaru\Record\Demon Mountain\Max Kills]
+Type = Gameshark
+Activation = EndFrame
+30010095 00FF
+
+[Rikimaru\Record\Demon Mountain\Max Score]
+Type = Gameshark
+Activation = EndFrame
+80010096 7FFF
+
+[Rikimaru\Record\Demon Mountain\Time 0.00.0/Enables Mission]
+Type = Gameshark
+Activation = EndFrame
+80010098 EA5F
+
+[Rikimaru\Record\The Secret Harbor\Grand Master Status]
+Type = Gameshark
+Activation = EndFrame
+3001009C 0006
+
+[Rikimaru\Record\The Secret Harbor\Max Kills]
+Type = Gameshark
+Activation = EndFrame
+3001009D 00FF
+
+[Rikimaru\Record\The Secret Harbor\Max Score]
+Type = Gameshark
+Activation = EndFrame
+8001009E 7FFF
+
+[Rikimaru\Record\The Secret Harbor\Time 0.00.0/Enables Mission]
+Type = Gameshark
+Activation = EndFrame
+800100A0 EA5F
+
+[Rikimaru\Record\The Temple Of Dreams\Grand Master Status]
+Type = Gameshark
+Activation = EndFrame
+300100A4 0006
+
+[Rikimaru\Record\The Temple Of Dreams\Max Kills]
+Type = Gameshark
+Activation = EndFrame
+300100A5 00FF
+
+[Rikimaru\Record\The Temple Of Dreams\Max Score]
+Type = Gameshark
+Activation = EndFrame
+800100A6 7FFF
+
+[Rikimaru\Record\The Temple Of Dreams\Time 0.00.0/Enables Mission]
+Type = Gameshark
+Activation = EndFrame
+800100A8 EA5F
+
+[Rikimaru\Record\Ninja Village Under Attack\Grand Master Status]
+Type = Gameshark
+Activation = EndFrame
+300100AC 0006
+
+[Rikimaru\Record\Ninja Village Under Attack\Max Kills]
+Type = Gameshark
+Activation = EndFrame
+300100AD 00FF
+
+[Rikimaru\Record\Ninja Village Under Attack\Max Score]
+Type = Gameshark
+Activation = EndFrame
+800100AE 7FFF
+
+[Rikimaru\Record\Ninja Village Under Attack\Time 0.00.0/Enables Mission]
+Type = Gameshark
+Activation = EndFrame
+800100B0 EA5F
+
+[Rikimaru\Record\In Pursuit Of Tatsumaru\Grand Master Status]
+Type = Gameshark
+Activation = EndFrame
+300100B4 0006
+
+[Rikimaru\Record\In Pursuit Of Tatsumaru\Max Kills]
+Type = Gameshark
+Activation = EndFrame
+300100B5 00FF
+
+[Rikimaru\Record\In Pursuit Of Tatsumaru\Max Score]
+Type = Gameshark
+Activation = EndFrame
+800100B6 7FFF
+
+[Rikimaru\Record\In Pursuit Of Tatsumaru\Time 0.00.0/Enables Mission]
+Type = Gameshark
+Activation = EndFrame
+800100B8 EA5F
+
+[Rikimaru\Record\The Kansen Caverns\Grand Master Status]
+Type = Gameshark
+Activation = EndFrame
+300100BC 0006
+
+[Rikimaru\Record\The Kansen Caverns\Max Kills]
+Type = Gameshark
+Activation = EndFrame
+300100BD 00FF
+
+[Rikimaru\Record\The Kansen Caverns\Max Score]
+Type = Gameshark
+Activation = EndFrame
+800100BE 7FFF
+
+[Rikimaru\Record\The Kansen Caverns\Time 0.00.0/Enables Mission]
+Type = Gameshark
+Activation = EndFrame
+800100C0 EA5F
+
+[Rikimaru\Record\The Sea Battle\Grand Master Status]
+Type = Gameshark
+Activation = EndFrame
+300100C4 0006
+
+[Rikimaru\Record\The Sea Battle\Max Kills]
+Type = Gameshark
+Activation = EndFrame
+300100C5 00FF
+
+[Rikimaru\Record\The Sea Battle\Max Score]
+Type = Gameshark
+Activation = EndFrame
+800100C6 7FFF
+
+[Rikimaru\Record\The Sea Battle\Time 0.00.0/Enables Mission]
+Type = Gameshark
+Activation = EndFrame
+800100C8 EA5F
+
+[Rikimaru\Record\The Sea Battle\Have All Items]
+Type = Gameshark
+Activation = EndFrame
+50001401 0000
+30010019 0063
+
+[Ayame\Record\The Training Course\Grand Master Status]
+Type = Gameshark
+Activation = EndFrame
+300100CC 0006
+
+[Ayame\Record\The Training Course\Max Kills]
+Type = Gameshark
+Activation = EndFrame
+300100CD 00FF
+
+[Ayame\Record\The Training Course\Max Score]
+Type = Gameshark
+Activation = EndFrame
+800100CE 7FFF
+
+[Ayame\Record\The Training Course\Time 0.00.0/Enables Mission]
+Type = Gameshark
+Activation = EndFrame
+800100D0 EA5F
+
+[Ayame\Record\The Mountain Bandits\Grand Master Status]
+Type = Gameshark
+Activation = EndFrame
+300100D4 0006
+
+[Ayame\Record\The Mountain Bandits\Max Kills]
+Type = Gameshark
+Activation = EndFrame
+300100D5 00FF
+
+[Ayame\Record\The Mountain Bandits\Max Score]
+Type = Gameshark
+Activation = EndFrame
+800100D6 7FFF
+
+[Ayame\Record\The Mountain Bandits\Time 0.00.0/Enables Mission]
+Type = Gameshark
+Activation = EndFrame
+800100D8 EA5F
+
+[Ayame\Record\Lady Kei In Danger\Grand Master Status]
+Type = Gameshark
+Activation = EndFrame
+300100DC 0006
+
+[Ayame\Record\Lady Kei In Danger\Max Kills]
+Type = Gameshark
+Activation = EndFrame
+300100DD 00FF
+
+[Ayame\Record\Lady Kei In Danger\Max Score]
+Type = Gameshark
+Activation = EndFrame
+800100DE 7FFF
+
+[Ayame\Record\Lady Kei In Danger\Time 0.00.0/Enables Mission]
+Type = Gameshark
+Activation = EndFrame
+800100E0 EA5F
+
+[Ayame\Record\To Save A Princess\Grand Master Status]
+Type = Gameshark
+Activation = EndFrame
+300100E4 0006
+
+[Ayame\Record\To Save A Princess\Max Kills]
+Type = Gameshark
+Activation = EndFrame
+300100E5 00FF
+
+[Ayame\Record\To Save A Princess\Max Score]
+Type = Gameshark
+Activation = EndFrame
+800100E6 7FFF
+
+[Ayame\Record\To Save A Princess\Time 0.00.0/Enables Mission]
+Type = Gameshark
+Activation = EndFrame
+800100E8 EA5F
+
+[Ayame\Record\Kuban Island\Grand Master Status]
+Type = Gameshark
+Activation = EndFrame
+300100EC 0006
+
+[Ayame\Record\Kuban Island\Max Kills]
+Type = Gameshark
+Activation = EndFrame
+300100ED 00FF
+
+[Ayame\Record\Kuban Island\Max Score]
+Type = Gameshark
+Activation = EndFrame
+800100EE 7FFF
+
+[Ayame\Record\Kuban Island\Time 0.00.0/Enables Mission]
+Type = Gameshark
+Activation = EndFrame
+800100F0 EA5F
+
+[Ayame\Record\The Island Fort\Grand Master Status]
+Type = Gameshark
+Activation = EndFrame
+300100F4 0006
+
+[Ayame\Record\The Island Fort\Max Kills]
+Type = Gameshark
+Activation = EndFrame
+300100F5 00FF
+
+[Ayame\Record\The Island Fort\Max Score]
+Type = Gameshark
+Activation = EndFrame
+800100F6 7FFF
+
+[Ayame\Record\The Island Fort\Time 0.00.0/Enables Mission]
+Type = Gameshark
+Activation = EndFrame
+800100F8 EA5F
+
+[Ayame\Record\The Quarantine Village\Grand Master Status]
+Type = Gameshark
+Activation = EndFrame
+300100FC 0006
+
+[Ayame\Record\The Quarantine Village\Max Kills]
+Type = Gameshark
+Activation = EndFrame
+300100FD 00FF
+
+[Ayame\Record\The Quarantine Village\Max Score]
+Type = Gameshark
+Activation = EndFrame
+800100FE 7FFF
+
+[Ayame\Record\The Quarantine Village\Time 0.00.0/Enables Mission]
+Type = Gameshark
+Activation = EndFrame
+80010100 EA5F
+
+[Ayame\Record\Cherry Tree Hill\Grand Master Status]
+Type = Gameshark
+Activation = EndFrame
+30010104 0006
+
+[Ayame\Record\Cherry Tree Hill\Max Kills]
+Type = Gameshark
+Activation = EndFrame
+30010105 00FF
+
+[Ayame\Record\Cherry Tree Hill\Max Score]
+Type = Gameshark
+Activation = EndFrame
+80010106 7FFF
+
+[Ayame\Record\Cherry Tree Hill\Time 0.00.0/Enables Mission]
+Type = Gameshark
+Activation = EndFrame
+80010108 EA5F
+
+[Ayame\Record\In Pursuit Of Tatsumaru\Grand Master Status]
+Type = Gameshark
+Activation = EndFrame
+3001010C 0006
+
+[Ayame\Record\In Pursuit Of Tatsumaru\Max Kills]
+Type = Gameshark
+Activation = EndFrame
+3001010D 00FF
+
+[Ayame\Record\In Pursuit Of Tatsumaru\Max Score]
+Type = Gameshark
+Activation = EndFrame
+8001010E 7FFF
+
+[Ayame\Record\In Pursuit Of Tatsumaru\Time 0.00.0/Enables Mission]
+Type = Gameshark
+Activation = EndFrame
+80010110 EA5F
+
+[Ayame\Record\The Kansen Caverns\Grand Master Status]
+Type = Gameshark
+Activation = EndFrame
+30010114 0006
+
+[Ayame\Record\The Kansen Caverns\Max Kills]
+Type = Gameshark
+Activation = EndFrame
+30010115 00FF
+
+[Ayame\Record\The Kansen Caverns\Max Score]
+Type = Gameshark
+Activation = EndFrame
+80010116 7FFF
+
+[Ayame\Record\The Kansen Caverns\Time 0.00.0/Enables Mission]
+Type = Gameshark
+Activation = EndFrame
+80010118 EA5F
+
+[Ayame\Record\The Fire Demon\Grand Master Status]
+Type = Gameshark
+Activation = EndFrame
+3001011C 0006
+
+[Ayame\Record\The Fire Demon\Max Kills]
+Type = Gameshark
+Activation = EndFrame
+3001011D 00FF
+
+[Ayame\Record\The Fire Demon\Max Score]
+Type = Gameshark
+Activation = EndFrame
+8001011E 7FFF
+
+[Ayame\Record\The Fire Demon\Time 0.00.0/Enables Mission]
+Type = Gameshark
+Activation = EndFrame
+80010120 EA5F
+
+[Ayame\Record\The Fire Demon\Have All Items]
+Type = Gameshark
+Activation = EndFrame
+50001401 0000
+30010037 0063
+
+[All Character\Max Item\Slot 1]
+Type = Gameshark
+Activation = EndFrame
+D00856E2 0100
+801FFDBA 0063
+
+[All Character\Max Item\Slot 2]
+Type = Gameshark
+Activation = EndFrame
+D00856E2 0100
+801FFDBE 0063
+
+[All Character\Max Item\Slot 3]
+Type = Gameshark
+Activation = EndFrame
+D00856E2 0100
+801FFDC2 0063
+
+[All Character\Max Item\Slot 4]
+Type = Gameshark
+Activation = EndFrame
+D00856E2 0100
+801FFDC6 0063
+
+[All Character\Max Item\Slot 5]
+Type = Gameshark
+Activation = EndFrame
+D00856E2 0100
+801FFDCA 0063
+
+[All Character\Max Item\Slot 6]
+Type = Gameshark
+Activation = EndFrame
+D00856E2 0100
+801FFDCE 0063
+
+[All Character\Max Item\Infinite Remaining Items]
+Type = Gameshark
+Activation = EndFrame
+A61FFE40 000B000C
+
+[All Character\Max Item\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+D10104B0 0000
+8013F010 0064
+
+[All Character\Max Item\All Items (In-Battle)]
+Type = Gameshark
+Activation = EndFrame
+D00104B0 0001
+50001401 0000
+3013F159 0063
+
+[All Character\Unlock Mission Editor Level\Emancipation]
+Type = Gameshark
+Activation = EndFrame
+30010481 0001
+
+[All Character\Unlock Mission Editor Level\Into The Enemy's Lair]
+Type = Gameshark
+Activation = EndFrame
+30010482 0001
+
+[All Character\Unlock Mission Editor Level\The Demon Encampment]
+Type = Gameshark
+Activation = EndFrame
+30010483 0001
+
+[All Character\Unlock Mission Editor Level\The Floating Temple]
+Type = Gameshark
+Activation = EndFrame
+30010484 0001
+
+[All Character\Unlock Mission Editor Level\The Howling Wind]
+Type = Gameshark
+Activation = EndFrame
+30010485 0001
+
+[All Character\Unlock Mission Editor Level\A Moonless Night]
+Type = Gameshark
+Activation = EndFrame
+30010486 0001
+
+[All Character\Unlock Mission Editor Level\Silent Forest]
+Type = Gameshark
+Activation = EndFrame
+30010487 0001
+
+[All Character\Unlock Mission Editor Level\The Depths Of Despair]
+Type = Gameshark
+Activation = EndFrame
+30010488 0001
+
+[All Character\Unlock Mission Editor Level\Washed Ashore]
+Type = Gameshark
+Activation = EndFrame
+30010489 0001
+
+[All Character\Unlock Mission Editor Level\A Brand New Evil]
+Type = Gameshark
+Activation = EndFrame
+3001048A 0001
+
+[All Character\Unlock Mission Editor Level\Tenchu, Inc]
+Type = Gameshark
+Activation = EndFrame
+3001048B 0001
+
+[All Character\Unlock Mission Editor Level\Unlock All Mission Editor Levels]
+Type = Gameshark
+Activation = EndFrame
+50000B01 0000
+30010481 0001
+
+[All Character\Unlock Mission Editor Level\Unlock Tatsumaru]
+Type = Gameshark
+Activation = EndFrame
+80010008 FFFF
+
+[Tatsumaru\Record\A Shadow\Grand Master Status]
+Type = Gameshark
+Activation = EndFrame
+30010124 0006
+
+[Tatsumaru\Record\A Shadow\Max Kills]
+Type = Gameshark
+Activation = EndFrame
+30010125 00FF
+
+[Tatsumaru\Record\A Shadow\Max Score]
+Type = Gameshark
+Activation = EndFrame
+80010126 7FFF
+
+[Tatsumaru\Record\A Shadow\Time 0.00.00/Enable Mission]
+Type = Gameshark
+Activation = EndFrame
+80010128 EA5F
+
+[Tatsumaru\Record\The Head Of Lord Toda\Grand Master Status]
+Type = Gameshark
+Activation = EndFrame
+3001012C 0006
+
+[Tatsumaru\Record\The Head Of Lord Toda\Max Kills]
+Type = Gameshark
+Activation = EndFrame
+3001012D 00FF
+
+[Tatsumaru\Record\The Head Of Lord Toda\Max Score]
+Type = Gameshark
+Activation = EndFrame
+8001012E 7FFF
+
+[Tatsumaru\Record\The Head Of Lord Toda\Time 0.00.00/Enable Mission]
+Type = Gameshark
+Activation = EndFrame
+80010130 EA5F
+
+[Tatsumaru\Record\Labor Shortage\Grand Master Status]
+Type = Gameshark
+Activation = EndFrame
+30010134 0006
+
+[Tatsumaru\Record\Labor Shortage\Max Kills]
+Type = Gameshark
+Activation = EndFrame
+30010135 00FF
+
+[Tatsumaru\Record\Labor Shortage\Max Score]
+Type = Gameshark
+Activation = EndFrame
+80010136 7FFF
+
+[Tatsumaru\Record\Labor Shortage\Time 0.00.00/Enable Mission]
+Type = Gameshark
+Activation = EndFrame
+80010138 EA5F
+
+[Tatsumaru\Record\Guarding The Secret Harbor\Grand Master Status]
+Type = Gameshark
+Activation = EndFrame
+3001013C 0006
+
+[Tatsumaru\Record\Guarding The Secret Harbor\Max Kills]
+Type = Gameshark
+Activation = EndFrame
+3001013D 00FF
+
+[Tatsumaru\Record\Guarding The Secret Harbor\Max Score]
+Type = Gameshark
+Activation = EndFrame
+8001013E 7FFF
+
+[Tatsumaru\Record\Guarding The Secret Harbor\Time 0.00.00/Enable Mission]
+Type = Gameshark
+Activation = EndFrame
+80010140 EA5F
+
+[Tatsumaru\Record\No Mercy Unlocked\Grand Master Status]
+Type = Gameshark
+Activation = EndFrame
+30010144 0006
+
+[Tatsumaru\Record\No Mercy Unlocked\Max Kills]
+Type = Gameshark
+Activation = EndFrame
+30010145 00FF
+
+[Tatsumaru\Record\No Mercy Unlocked\Max Score]
+Type = Gameshark
+Activation = EndFrame
+80010146 7FFF
+
+[Tatsumaru\Record\No Mercy Unlocked\Time 0.00.00/Enable Mission]
+Type = Gameshark
+Activation = EndFrame
+80010148 EA5F
+
+[Tatsumaru\Record\Assault On The Ninja Village\Grand Master Status]
+Type = Gameshark
+Activation = EndFrame
+3001014C 0006
+
+[Tatsumaru\Record\Assault On The Ninja Village\Max Kills]
+Type = Gameshark
+Activation = EndFrame
+3001014D 00FF
+
+[Tatsumaru\Record\Assault On The Ninja Village\Max Score]
+Type = Gameshark
+Activation = EndFrame
+8001014E 7FFF
+
+[Tatsumaru\Record\Assault On The Ninja Village\Time 0.00.00/Enable Mission]
+Type = Gameshark
+Activation = EndFrame
+80010150 EA5F
+
+[Tatsumaru\Record\The Final Dawn\Grand Master Status]
+Type = Gameshark
+Activation = EndFrame
+30010154 0006
+
+[Tatsumaru\Record\The Final Dawn\Max Kills]
+Type = Gameshark
+Activation = EndFrame
+30010155 00FF
+
+[Tatsumaru\Record\The Final Dawn\Max Score]
+Type = Gameshark
+Activation = EndFrame
+80010156 7FFF
+
+[Tatsumaru\Record\The Final Dawn\Time 0.00.00/Enable Mission]
+Type = Gameshark
+Activation = EndFrame
+80010158 EA5F
+
+[Tatsumaru\Record\The Final Dawn\Have All Items]
+Type = Gameshark
+Activation = EndFrame
+50001401 0000
+30010055 0063
+
+[Tatsumaru\Record\The Final Dawn\Tatsumaru-Everything Perfect]
+Type = Gameshark
+Activation = EndFrame
+50000708 0000
+80010124 FF06
+50000708 0000
+80010126 7FFF
+50000708 0000
+80010128 EA5F
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A70CD358 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A70CD358 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A70CD358 10000400
+

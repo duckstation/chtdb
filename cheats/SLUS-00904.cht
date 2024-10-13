@@ -1,0 +1,28 @@
+; CHTDB: ; [ Q*bert (USA) (1999) (Atari Interactive) {SLUS-00904} <qbert> ]
+
+[Adventure Mode\Max Score]
+Type = Gameshark
+Activation = EndFrame
+80146A28 FFFF
+
+[Adventure Mode\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+30146A35 0003
+
+[Adventure Mode\Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800C7A3C 0000
+
+[Adventure Mode\Unlock All Levels + Max Score]
+Type = Gameshark
+Activation = EndFrame
+50003504 0000
+80145D9C FFFF
+
+[Classic Mode\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+301131B0 0003
+

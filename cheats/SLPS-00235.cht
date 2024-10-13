@@ -1,0 +1,50 @@
+; CHTDB: ; [ Blood Factory (Jpn) (1996) (Interplay) {SLPS-00235} <bloodfac> ]
+
+[P1 Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+D00D15E8 FFFF
+800D15EE 03E7
+
+[P2 Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+D00D1670 FFFF
+800D1676 03E7
+
+[P1 Infinite Bombs]
+Type = Gameshark
+Activation = EndFrame
+D00D15E8 FFFF
+800D15F0 0005
+
+[P2 Infinite Bombs]
+Type = Gameshark
+Activation = EndFrame
+D00D1670 FFFF
+800D1678 0005
+
+[P1 Max Weapon]
+Type = Gameshark
+Activation = EndFrame
+D00D15E8 FFFF
+800D15EC 7FFF
+
+[P2 Max Weapon]
+Type = Gameshark
+Activation = EndFrame
+D00D1670 FFFF
+800D1674 7FFF
+
+[All Keys]
+Type = Gameshark
+Activation = EndFrame
+D0108B3A 0000
+80108B38 000F
+
+[Invincibility When the icon appears, press the SELECT button]
+Type = Gameshark
+Activation = EndFrame
+D0050E6E FFFE
+300D1607 00FF
+

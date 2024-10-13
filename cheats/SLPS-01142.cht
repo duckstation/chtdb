@@ -1,0 +1,54 @@
+; CHTDB: ; [ Mobile Suit Z-Gundam (Japan) {SLPS-01142 | SLPS-01143} ]
+
+[Infinite Health DIsc 1]
+Type = Gameshark
+Activation = EndFrame
+800C25E6 03E8
+
+[Infinite Bullets Disc 1]
+Type = Gameshark
+Activation = EndFrame
+800C82F4 0063
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800C4FC4 0000
+
+[Infinite Health DIsc 2]
+Type = Gameshark
+Activation = EndFrame
+800BE436 03E8
+
+[Infinite Bullets Disc 2]
+Type = Gameshark
+Activation = EndFrame
+800BE424 0063
+
+[All Stage And All MS]
+Type = Gameshark
+Activation = EndFrame
+801FE040 02DE
+
+[Infinite Health disc 1 VS Mode]
+Type = Gameshark
+Activation = EndFrame
+800C8306 03E8
+
+[Infinite Gun disc 1 VS Mode]
+Type = Gameshark
+Activation = EndFrame
+800C3494 0063
+
+[yOU can play all the VS CPU FREE & BATTLE Disc 2]
+Type = Gameshark
+Activation = EndFrame
+80063628 FFFF
+9006362C 001FFFFF
+
+[You can choose all in MOVIE VIEWER Disc 1]
+Type = Gameshark
+Activation = EndFrame
+30063634 000E
+30063640 0008
+

@@ -1,0 +1,40 @@
+; CHTDB: ; [ BallBlazer Champions (USA) (1997) (LucasArts Entertainment Company) {SLUS-00068} <ballblzr> ]
+
+[Rapid Fire]
+Type = Gameshark
+Activation = EndFrame
+D007CB76 EFFF
+8009F5DE 0001
+
+[Always Have Turbo]
+Type = Gameshark
+Activation = EndFrame
+D007CB76 DFFF
+8009F47E 0D00
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+C007CB76 EFFF
+800C6D9C 0032
+800C6DA0 0004
+800C6DA0 0032
+00000000 FFFF
+
+[Select Widescreen Type\Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+A7043BC8 10001555
+A7043BCC 10001555
+
+[Select Widescreen Type\Widescreen 16-9 (Vert-)]
+Type = Gameshark
+Activation = EndFrame
+A7043BC8 10001555
+
+[Select Widescreen Type\Widescreen 16-9 (Vert- Adjusted)]
+Type = Gameshark
+Activation = EndFrame
+A7043BC8 10001555
+A7043BCC 10001150
+

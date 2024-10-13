@@ -1,0 +1,32 @@
+; CHTDB: ; [ Chocobo Racing (Europe) {SLES-02079} ]
+
+[Time is 0.00.00]
+Type = Gameshark
+Activation = EndFrame
+80030336 3C00
+
+[99 Points In Gp-Mode]
+Type = Gameshark
+Activation = EndFrame
+8008BEB0 0063
+
+[Enable All Characters & Tracks In Gp-Mode]
+Type = Gameshark
+Activation = EndFrame
+801E929C FFFF
+
+[Enable All Movies]
+Type = Gameshark
+Activation = EndFrame
+801E9298 FFFF
+
+[Enable All Music]
+Type = Gameshark
+Activation = EndFrame
+901E9294 FFFFFFFF
+
+[Have All Crowns & Classes]
+Type = Gameshark
+Activation = EndFrame
+901E9290 FFFFFFFF
+

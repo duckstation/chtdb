@@ -1,0 +1,10 @@
+; CHTDB: ; [ Lake Masters Pro - Nihon Juudan Kuro Masu Kikou (Jpn) (1999) (DaZZ) {SLPS-02177 (PS-0012)} <lakempro> ]
+
+[All Lures]
+Type = Gameshark
+Activation = EndFrame
+9006B590 FFFFFFFF
+9006B594 FFFFFFFF
+9006B598 FFFFFFFF
+9006B59C FFFFFFFF
+

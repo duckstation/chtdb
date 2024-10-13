@@ -1,0 +1,69 @@
+; CHTDB: ; [ Renegade Racers (USA) (2000) (Interplay Entertainment) {SLUS-01012} <renegadr> ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800C4BA0 8700
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800AA642 0800
+
+[Jump Distance Complete]
+Type = Gameshark
+Activation = EndFrame
+800AB80A 2F00
+
+[Start On 3rd Lap]
+Type = Gameshark
+Activation = EndFrame
+D00AB554 0001
+900AB554 00030003
+
+[Always Have Missiles In First Slot]
+Type = Gameshark
+Activation = EndFrame
+800ABAF8 0004
+800ABAF4 0003
+
+[1000 Pts Collected]
+Type = Gameshark
+Activation = EndFrame
+800AB81C 03E8
+
+[1000 Items Collected]
+Type = Gameshark
+Activation = EndFrame
+800AB83C 03E8
+
+[Enable Franklin Stein]
+Type = Gameshark
+Activation = EndFrame
+80091AB8 01FF
+
+[Enable Mastov Kartnov]
+Type = Gameshark
+Activation = EndFrame
+80091ABC FF01
+
+[Enable Sparks]
+Type = Gameshark
+Activation = EndFrame
+80091ABE 01FF
+
+[Enable Chase Rainbow]
+Type = Gameshark
+Activation = EndFrame
+80091AC2 FF01
+
+[Enable The Mummy]
+Type = Gameshark
+Activation = EndFrame
+80091AC4 01FF
+
+[Enable Buck Billionaire]
+Type = Gameshark
+Activation = EndFrame
+80091AC8 FF01
+

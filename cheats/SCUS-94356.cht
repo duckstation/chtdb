@@ -1,0 +1,73 @@
+; CHTDB: ; [ Cool Boarders (USA) (1997) (Sony Computer Entertainment America) {SCUS-94356} <coolboar> ]
+
+[Select Track\Advanced]
+Type = Gameshark
+Activation = EndFrame
+801E35E8 0001
+
+[Select Track\Expert]
+Type = Gameshark
+Activation = EndFrame
+801E35E8 0002
+
+[Select Track\Extra]
+Type = Gameshark
+Activation = EndFrame
+801E35E8 0003
+
+[Infinite Check Point Time + Stop Total Timer]
+Type = Gameshark
+Activation = EndFrame
+8018B44C 67A4
+801FFEE0 044B
+
+[Select Extra\Extra Boards]
+Type = Gameshark
+Activation = EndFrame
+801EF82E 0007
+
+[Select Extra\Always Be Snowman Boarder]
+Type = Gameshark
+Activation = EndFrame
+801EF82E 0017
+
+[Extra Tracks]
+Type = Gameshark
+Activation = EndFrame
+801EF82A 0005
+
+[High Stability]
+Type = Gameshark
+Activation = EndFrame
+801827A4 0000
+
+[High Scoring]
+Type = Gameshark
+Activation = EndFrame
+90016210 00000000
+
+[Have Score Sheet]
+Type = Gameshark
+Activation = EndFrame
+8005D0C6 FFFF
+8005D1D2 FFFF
+
+[Tiny Boarder]
+Type = Gameshark
+Activation = EndFrame
+8018EF28 0F00
+
+[All Awards]
+Type = Gameshark
+Activation = EndFrame
+801EF97C 000F
+801EFAB8 000F
+801EFBF4 000F
+801EFD30 000F
+801EFE6C 000F
+
+[Camera Angle 1]
+Type = Gameshark
+Activation = EndFrame
+8018EF30 01A0
+

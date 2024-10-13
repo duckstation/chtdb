@@ -1,0 +1,12 @@
+; CHTDB: ; [ Oddworld: L'Odyssée d'Abe (France) (Best of Infogrames) {SLES-00838} ]
+
+[Have 200 Mudokons]
+Type = Gameshark
+Activation = EndFrame
+8007E53E 012C
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+8007E556 0001
+

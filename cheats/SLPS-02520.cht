@@ -1,0 +1,50 @@
+; CHTDB: ; [ Chocobo Stallion (Japan) {SLPS-02520} ]
+
+[Infinite Cash]
+Type = Gameshark
+Activation = EndFrame
+80079082 0090
+
+[Funds 9999999]
+Type = Gameshark
+Activation = EndFrame
+90079080 0098967F
+
+[Hp Infinite In Training]
+Type = Gameshark
+Activation = EndFrame
+800192FE A083
+
+[Not Decrease Next Month When Funds]
+Type = Gameshark
+Activation = EndFrame
+8001AF52 0060
+80019034 0000
+
+[G? · G? · G? all content unlocked]
+Type = Gameshark
+Activation = EndFrame
+D0087318 38C8
+80087374 0001
+
+[It does not take a year breeding a Chocobo]
+Type = Gameshark
+Activation = EndFrame
+8001B1B8 0000
+
+[do not get sick]
+Type = Gameshark
+Activation = EndFrame
+80019BCA 1000
+80019BE8 0000
+
+[Always best condition]
+Type = Gameshark
+Activation = EndFrame
+90019390 340200A3
+
+[Many times trainable]
+Type = Gameshark
+Activation = EndFrame
+8001941E 2000
+

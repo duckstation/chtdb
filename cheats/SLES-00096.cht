@@ -1,0 +1,12 @@
+; CHTDB: ; [ Davis Cup Complete Tennis (Europe) {SLES-00096} ]
+
+[P1 40 Points Advantage]
+Type = Gameshark
+Activation = EndFrame
+A60C2000 00000028
+
+[P2 Can't Win]
+Type = Gameshark
+Activation = EndFrame
+800C2002 0000
+

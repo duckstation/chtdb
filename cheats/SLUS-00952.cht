@@ -1,0 +1,77 @@
+; CHTDB: ; [ Arcade Party Pak (USA) (1999) (Midway Home Entertainment) {SLUS-00952} <arcadepp> ]
+
+[720\Max Score]
+Type = Gameshark
+Activation = EndFrame
+A61E3DE0 0000FFFF
+
+[720\Infinite Cash]
+Type = Gameshark
+Activation = EndFrame
+801E3E08 0064
+
+[720\Infinite Timer]
+Type = Gameshark
+Activation = EndFrame
+801E40FC 007F
+
+[Klax\P1 Max Score]
+Type = Gameshark
+Activation = EndFrame
+80189E60 FFFF
+
+[Klax\P1 Quick Win (When Counting Klax)]
+Type = Gameshark
+Activation = EndFrame
+80189FD8 0000
+
+[Klax\P1 Infinite Drop Meter]
+Type = Gameshark
+Activation = EndFrame
+80189E94 0000
+
+[Rampage\Infinite Health (All Players)]
+Type = Gameshark
+Activation = EndFrame
+800A4E86 2400
+
+[Smash TV\P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801A8C64 0009
+
+[Smash TV\P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801A8C9C 0009
+
+[Smash TV\Infinite Lives (Both Players)]
+Type = Gameshark
+Activation = EndFrame
+80089E8E 2400
+
+[Toobin\P1 Max Score]
+Type = Gameshark
+Activation = EndFrame
+A60F9B20 0000FFFF
+
+[Toobin\P1 Infinite Cans]
+Type = Gameshark
+Activation = EndFrame
+300F944A 0006
+
+[Toobin\P2 Infinite Cans]
+Type = Gameshark
+Activation = EndFrame
+300F944B 0006
+
+[Toobin\P1 Infinite Patches]
+Type = Gameshark
+Activation = EndFrame
+300F9732 0003
+
+[Toobin\P2 Infinite Patches]
+Type = Gameshark
+Activation = EndFrame
+300F9733 0003
+

@@ -1,0 +1,634 @@
+; CHTDB: ; [ Rosco McQueen (Europe) {SCES-00257} ]
+
+[Laundry 1 Codes\Infinite Water]
+Type = Gameshark
+Activation = EndFrame
+80030CC4 0600
+8003127C 0600
+
+[Laundry 1 Codes\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80030C44 0064
+80031274 0064
+
+[Laundry 1 Codes\Temperature Don't Raises]
+Type = Gameshark
+Activation = EndFrame
+800310A4 0000
+
+[Laundry 1 Codes\Infinite Waterbombs]
+Type = Gameshark
+Activation = EndFrame
+80030E68 00FF
+
+[Laundry 1 Codes\Infinite Throwing Axes]
+Type = Gameshark
+Activation = EndFrame
+80030E64 00FF
+
+[Laundry 1 Codes\Infinite Super Axes]
+Type = Gameshark
+Activation = EndFrame
+80030E60 00FF
+
+[Laundry 1 Codes\Infinite Fire Extinguisher]
+Type = Gameshark
+Activation = EndFrame
+80030E20 00FF
+
+[Laundry 2 Codes (Password - Fluffy)\Infinite Water]
+Type = Gameshark
+Activation = EndFrame
+80030E6C 0600
+8003A528 0600
+
+[Laundry 2 Codes (Password - Fluffy)\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80030DEC 0064
+80031520 0064
+
+[Laundry 2 Codes (Password - Fluffy)\Temperature Don't Raises]
+Type = Gameshark
+Activation = EndFrame
+80031350 0000
+
+[Laundry 2 Codes (Password - Fluffy)\Infinite Waterbombs]
+Type = Gameshark
+Activation = EndFrame
+80030CC0 00FF
+
+[Laundry 2 Codes (Password - Fluffy)\Infinite Throwing Axes]
+Type = Gameshark
+Activation = EndFrame
+80030CBC 00FF
+
+[Laundry 2 Codes (Password - Fluffy)\Infinite Super Axes]
+Type = Gameshark
+Activation = EndFrame
+80030CB8 00FF
+
+[Laundry 2 Codes (Password - Fluffy)\Infinite Fire Extinguisher]
+Type = Gameshark
+Activation = EndFrame
+80030C78 00FF
+
+[Laundry 3 Codes (Password - Sweaty)\Infinite Water]
+Type = Gameshark
+Activation = EndFrame
+8003102C 0600
+8003162C 0600
+
+[Laundry 3 Codes (Password - Sweaty)\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80030FAC 0064
+80031624 0064
+
+[Laundry 3 Codes (Password - Sweaty)\Temperature Don't Raises]
+Type = Gameshark
+Activation = EndFrame
+80031454 0000
+
+[Laundry 3 Codes (Password - Sweaty)\Infinite Waterbombs]
+Type = Gameshark
+Activation = EndFrame
+80031028 00FF
+
+[Laundry 3 Codes (Password - Sweaty)\Infinite Throwing Axes]
+Type = Gameshark
+Activation = EndFrame
+80031024 00FF
+
+[Laundry 3 Codes (Password - Sweaty)\Infinite Super Axes]
+Type = Gameshark
+Activation = EndFrame
+80031020 00FF
+
+[Laundry 3 Codes (Password - Sweaty)\Infinite Fire Extinguisher]
+Type = Gameshark
+Activation = EndFrame
+80030FE0 00FF
+
+[Auto 1 Codes (Password - Hotrod)\Infinite Water]
+Type = Gameshark
+Activation = EndFrame
+80030E10 0600
+800313DC 0600
+
+[Auto 1 Codes (Password - Hotrod)\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80030D90 0064
+800313D4 0064
+
+[Auto 1 Codes (Password - Hotrod)\Temperature Don't Raises]
+Type = Gameshark
+Activation = EndFrame
+80031200 0000
+
+[Auto 1 Codes (Password - Hotrod)\Infinite Waterbombs]
+Type = Gameshark
+Activation = EndFrame
+80030E0C 00FF
+
+[Auto 1 Codes (Password - Hotrod)\Infinite Throwing Axes]
+Type = Gameshark
+Activation = EndFrame
+80030E08 00FF
+
+[Auto 1 Codes (Password - Hotrod)\Infinite Super Axes]
+Type = Gameshark
+Activation = EndFrame
+80030E04 00FF
+
+[Auto 1 Codes (Password - Hotrod)\Infinite Fire Extinguisher]
+Type = Gameshark
+Activation = EndFrame
+80030DC4 00FF
+
+[Auto 2 Codes (Password - Grease)\Infinite Water]
+Type = Gameshark
+Activation = EndFrame
+80030F54 0600
+80031480 0600
+
+[Auto 2 Codes (Password - Grease)\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80030ED4 0064
+80031478 0064
+
+[Auto 2 Codes (Password - Grease)\Temperature Don't Raises]
+Type = Gameshark
+Activation = EndFrame
+800312A4 0000
+
+[Auto 2 Codes (Password - Grease)\Infinite Waterbombs]
+Type = Gameshark
+Activation = EndFrame
+80030F50 00FF
+
+[Auto 2 Codes (Password - Grease)\Infinite Throwing Axes]
+Type = Gameshark
+Activation = EndFrame
+80030F4C 00FF
+
+[Auto 2 Codes (Password - Grease)\Infinite Super Axes]
+Type = Gameshark
+Activation = EndFrame
+80030F48 00FF
+
+[Auto 2 Codes (Password - Grease)\Infinite Fire Extinguisher]
+Type = Gameshark
+Activation = EndFrame
+80030F08 00FF
+
+[Auto 3 Codes (Password - Bigend)\Infinite Water]
+Type = Gameshark
+Activation = EndFrame
+800311C0 0600
+800317B0 0600
+
+[Auto 3 Codes (Password - Bigend)\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80031140 0064
+800317A8 0064
+
+[Auto 3 Codes (Password - Bigend)\Temperature Don't Raises]
+Type = Gameshark
+Activation = EndFrame
+800315D4 0000
+800315D8 0000
+
+[Auto 3 Codes (Password - Bigend)\Infinite Waterbombs]
+Type = Gameshark
+Activation = EndFrame
+800311BC 00FF
+
+[Auto 3 Codes (Password - Bigend)\Infinite Throwing Axes]
+Type = Gameshark
+Activation = EndFrame
+800311B8 00FF
+
+[Auto 3 Codes (Password - Bigend)\Infinite Super Axes]
+Type = Gameshark
+Activation = EndFrame
+800311B4 00FF
+
+[Auto 3 Codes (Password - Bigend)\Infinite Fire Extinguisher]
+Type = Gameshark
+Activation = EndFrame
+80031174 00FF
+
+[Harold's 1 Codes (Password - Smelly)\Infinite Water]
+Type = Gameshark
+Activation = EndFrame
+800351C4 0600
+80035810 0600
+
+[Harold's 1 Codes (Password - Smelly)\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80035144 0064
+80035808 0064
+
+[Harold's 1 Codes (Password - Smelly)\Temperature Don't Raises]
+Type = Gameshark
+Activation = EndFrame
+80035634 0000
+80035638 0000
+
+[Harold's 1 Codes (Password - Smelly)\Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800355CC 3828
+80100E80 3828
+
+[Harold's 1 Codes (Password - Smelly)\Infinite Waterbombs]
+Type = Gameshark
+Activation = EndFrame
+800351C0 00FF
+
+[Harold's 1 Codes (Password - Smelly)\Infinite Throwing Axes]
+Type = Gameshark
+Activation = EndFrame
+800351BC 00FF
+
+[Harold's 1 Codes (Password - Smelly)\Infinite Super Axes]
+Type = Gameshark
+Activation = EndFrame
+800351B8 00FF
+
+[Harold's 1 Codes (Password - Smelly)\Infinite Fire Extinguisher]
+Type = Gameshark
+Activation = EndFrame
+80035178 00FF
+
+[Harold's 2 Codes (Password - Widetv)\Infinite Water]
+Type = Gameshark
+Activation = EndFrame
+80034F20 0600
+80035594 0600
+
+[Harold's 2 Codes (Password - Widetv)\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80034EA0 0064
+8003558C 0064
+
+[Harold's 2 Codes (Password - Widetv)\Temperature Don't Raises]
+Type = Gameshark
+Activation = EndFrame
+800353BC 0000
+800353C0 0000
+
+[Harold's 2 Codes (Password - Widetv)\Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80035354 3828
+800F71E4 3828
+800F7764 3828
+800F7974 3828
+
+[Harold's 2 Codes (Password - Widetv)\Infinite Waterbombs]
+Type = Gameshark
+Activation = EndFrame
+80034F1C 00FF
+
+[Harold's 2 Codes (Password - Widetv)\Infinite Throwing Axes]
+Type = Gameshark
+Activation = EndFrame
+80034F18 00FF
+
+[Harold's 2 Codes (Password - Widetv)\Infinite Super Axes]
+Type = Gameshark
+Activation = EndFrame
+80034F14 00FF
+
+[Harold's 2 Codes (Password - Widetv)\Infinite Fire Extinguisher]
+Type = Gameshark
+Activation = EndFrame
+80034ED4 00FF
+
+[Harold's 3 Codes (Password - Pillow)\Infinite Water]
+Type = Gameshark
+Activation = EndFrame
+8003502C 0600
+80035668 0600
+
+[Harold's 3 Codes (Password - Pillow)\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80034FAC 0064
+80035660 0064
+
+[Harold's 3 Codes (Password - Pillow)\Temperature Don't Raises]
+Type = Gameshark
+Activation = EndFrame
+80035490 0000
+80035494 0000
+80035808 0000
+80035840 0000
+80035844 0000
+
+[Harold's 3 Codes (Password - Pillow)\Infinite Throwing Axes]
+Type = Gameshark
+Activation = EndFrame
+80035024 00FF
+
+[Harold's 3 Codes (Password - Pillow)\Infinite Fire Extinguisher]
+Type = Gameshark
+Activation = EndFrame
+80034FE0 00FF
+
+[Harold's 3 Codes (Password - Pillow)\Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80035424 3828
+800F622C 3828
+800F6CD4 3828
+800F6D00 3828
+
+[Harold's 3 Codes (Password - Pillow)\Infinite Waterbombs]
+Type = Gameshark
+Activation = EndFrame
+80035028 00FF
+
+[Harold's 3 Codes (Password - Pillow)\Infinite Super Axes]
+Type = Gameshark
+Activation = EndFrame
+80035020 00FF
+
+[Leisure 1 Codes (Password - Tricep)\Infinite Water]
+Type = Gameshark
+Activation = EndFrame
+800347C8 0600
+80034F88 0600
+
+[Leisure 1 Codes (Password - Tricep)\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80034748 0064
+80034F80 0064
+
+[Leisure 1 Codes (Password - Tricep)\Temperature Don't Raises]
+Type = Gameshark
+Activation = EndFrame
+80034DB0 0000
+80034F5C 0000
+80035128 0000
+80035160 0000
+80035164 0000
+
+[Leisure 1 Codes (Password - Tricep)\Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80034D44 3828
+800F6C80 3828
+800F6F98 3828
+
+[Leisure 1 Codes (Password - Tricep)\Infinite Throwing Axes]
+Type = Gameshark
+Activation = EndFrame
+800347C0 00FF
+
+[Leisure 1 Codes (Password - Tricep)\Infinite Waterbombs]
+Type = Gameshark
+Activation = EndFrame
+800347C4 00FF
+
+[Leisure 1 Codes (Password - Tricep)\Infinite Super Axes]
+Type = Gameshark
+Activation = EndFrame
+800347BC 00FF
+
+[Leisure 1 Codes (Password - Tricep)\Infinite Fire Extinguisher]
+Type = Gameshark
+Activation = EndFrame
+8003477C 00FF
+
+[Leisure 2 Codes (Password - Motion)\Infinite Water]
+Type = Gameshark
+Activation = EndFrame
+800320BC 0600
+800325AC 0600
+
+[Leisure 2 Codes (Password - Motion)\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8003203C 0064
+800325A4 0064
+
+[Leisure 2 Codes (Password - Motion)\Temperature Don't Raises]
+Type = Gameshark
+Activation = EndFrame
+800323D4 0000
+
+[Leisure 2 Codes (Password - Motion)\Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80032368 3828
+800F0634 3828
+800F0660 3828
+800F2918 3828
+
+[Leisure 2 Codes (Password - Motion)\Infinite Throwing Axes]
+Type = Gameshark
+Activation = EndFrame
+800320B4 00FF
+
+[Leisure 2 Codes (Password - Motion)\Infinite Waterbombs]
+Type = Gameshark
+Activation = EndFrame
+800320B8 00FF
+
+[Leisure 2 Codes (Password - Motion)\Infinite Super Axes]
+Type = Gameshark
+Activation = EndFrame
+800320B0 00FF
+
+[Leisure 2 Codes (Password - Motion)\Infinite Fire Extinguisher]
+Type = Gameshark
+Activation = EndFrame
+80032070 00FF
+
+[Leisure 3 Codes (Password - Hiphop)\Infinite Water]
+Type = Gameshark
+Activation = EndFrame
+800315AC 0600
+80031CB8 0600
+
+[Leisure 3 Codes (Password - Hiphop)\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8003152C 0064
+80031CB0 0064
+
+[Leisure 3 Codes (Password - Hiphop)\Temperature Don't Raises]
+Type = Gameshark
+Activation = EndFrame
+80030B2A 0000
+
+[Leisure 3 Codes (Password - Hiphop)\Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80031A64 0CFF
+800F77EA 0CFF
+800F7810 0CFF
+800F783C 0CFF
+
+[Leisure 3 Codes (Password - Hiphop)\Infinite Throwing Axes]
+Type = Gameshark
+Activation = EndFrame
+800315A4 00FF
+
+[Leisure 3 Codes (Password - Hiphop)\Infinite Waterbombs]
+Type = Gameshark
+Activation = EndFrame
+800315A8 00FF
+
+[Leisure 3 Codes (Password - Hiphop)\Infinite Super Axes]
+Type = Gameshark
+Activation = EndFrame
+800315A0 00FF
+
+[Leisure 3 Codes (Password - Hiphop)\Infinite Fire Extinguisher]
+Type = Gameshark
+Activation = EndFrame
+80031560 00FF
+
+[Residential 1 Codes (Password - Kennel)\Infinite Water]
+Type = Gameshark
+Activation = EndFrame
+80033108 0600
+8003371C 0600
+
+[Residential 1 Codes (Password - Kennel)\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80033088 0064
+80033714 0064
+
+[Residential 1 Codes (Password - Kennel)\Temperature Don't Raises]
+Type = Gameshark
+Activation = EndFrame
+800334AC 0000
+
+[Residential 1 Codes (Password - Kennel)\Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80033440 3828
+800F4B40 3828
+
+[Residential 1 Codes (Password - Kennel)\Infinite Throwing Axes]
+Type = Gameshark
+Activation = EndFrame
+80033100 00FF
+
+[Residential 1 Codes (Password - Kennel)\Infinite Waterbombs]
+Type = Gameshark
+Activation = EndFrame
+80033104 00FF
+
+[Residential 1 Codes (Password - Kennel)\Infinite Super Axes]
+Type = Gameshark
+Activation = EndFrame
+800330FC 00FF
+
+[Residential 1 Codes (Password - Kennel)\Infinite Fire Extinguisher]
+Type = Gameshark
+Activation = EndFrame
+800330BC 00FF
+
+[Residential 2 Codes (Password - Barrel)\Infinite Water]
+Type = Gameshark
+Activation = EndFrame
+80033204 0600
+8003370C 0600
+
+[Residential 2 Codes (Password - Barrel)\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80033184 0064
+80033704 0064
+
+[Residential 2 Codes (Password - Barrel)\Temperature Don't Raises]
+Type = Gameshark
+Activation = EndFrame
+80033534 0000
+80033538 0000
+
+[Residential 2 Codes (Password - Barrel)\Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800EEF84 36EF
+800EF0E4 36EF
+800F0660 36EF
+800F0D6C 36EF
+
+[Residential 2 Codes (Password - Barrel)\Infinite Throwing Axes]
+Type = Gameshark
+Activation = EndFrame
+800331FC 00FF
+
+[Residential 2 Codes (Password - Barrel)\Infinite Waterbombs]
+Type = Gameshark
+Activation = EndFrame
+80033200 00FF
+
+[Residential 2 Codes (Password - Barrel)\Infinite Super Axes]
+Type = Gameshark
+Activation = EndFrame
+800331F8 00FF
+
+[Residential 2 Codes (Password - Barrel)\Infinite Fire Extinguisher]
+Type = Gameshark
+Activation = EndFrame
+800331B8 00FF
+
+[Runaround Codes (Password - Splash)\Infinite Water]
+Type = Gameshark
+Activation = EndFrame
+80049848 0600
+80049E6C 0600
+
+[Runaround Codes (Password - Splash)\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800497C8 0064
+80049E64 0064
+
+[Runaround Codes (Password - Splash)\Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80049C28 4636
+80049C2C 4636
+
+[Runaround Codes (Password - Splash)\Infinite Air]
+Type = Gameshark
+Activation = EndFrame
+80049582 1000
+
+[Runaround Codes (Password - Splash)\Infinite Throwing Axes]
+Type = Gameshark
+Activation = EndFrame
+80049840 00FF
+
+[Runaround Codes (Password - Splash)\Infinite Waterbombs]
+Type = Gameshark
+Activation = EndFrame
+80049844 00FF
+
+[Runaround Codes (Password - Splash)\Infinite Super Axes]
+Type = Gameshark
+Activation = EndFrame
+8004983C 00FF
+
+[Runaround Codes (Password - Splash)\Infinite Fire Extinguisher]
+Type = Gameshark
+Activation = EndFrame
+800497FC 00FF
+

@@ -1,0 +1,43 @@
+; CHTDB: ; [ Nightmare Creatures (Europe) {SCES-00582} ]
+
+[Infinite Adrenaline]
+Type = Gameshark
+Activation = EndFrame
+80057176 2400
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800CDCE6 0063
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8004FAE4 2400
+
+[Enable all cheats]
+Type = Gameshark
+Activation = EndFrame
+A61FFF84 00002000
+A61FFF86 08000C01
+A61FFFA2 000000FF
+
+[All weapons and infinite ammo]
+Type = Gameshark
+Activation = EndFrame
+800CDD3A 0009
+900CDD3C 00090009
+900CDD40 00090009
+900CDD44 00090009
+900CDD48 00090009
+900CDD4C 00090009
+900CDD50 00090009
+
+[Have all items]
+Type = Gameshark
+Activation = EndFrame
+50000D20 0000
+800CDD3A 0001
+800CDCE6 0004
+800CDCF2 0100
+

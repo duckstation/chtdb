@@ -1,0 +1,12 @@
+; CHTDB: ; [ All Star Racing (Europe) {SLES-03740} ]
+
+[Start On Lap 2]
+Type = Gameshark
+Activation = EndFrame
+A61C338C 00000002
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+801C351C 0000
+

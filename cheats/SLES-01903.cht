@@ -1,0 +1,14 @@
+; CHTDB: ; [ Evil Zone (Europe) {SLES-01903} ]
+
+[P1 Infinite Health ONLY]
+Type = Gameshark
+Activation = EndFrame
+9004698C 10800002
+
+[Unlock Everything]
+Type = Gameshark
+Activation = EndFrame
+800A84DA FFFF
+900A84DC FFFFFFFF
+800A84E0 FFFF
+

@@ -1,0 +1,28 @@
+; CHTDB: ; [ Sorcerer's Maze (USA) (2002) (XS Games) {SLUS-01495} <sorcmaze> ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801C363C 0009
+
+[Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+801C363E 015F
+
+[Automatically Finish Levels]
+Type = Gameshark
+Activation = EndFrame
+8011322E 0000
+
+[Max Score]
+Type = Gameshark
+Activation = EndFrame
+8011315E FFFF
+80113160 FFFF
+
+[Always Keep One Ball in Play]
+Type = Gameshark
+Activation = EndFrame
+F0115BF9 48005500
+

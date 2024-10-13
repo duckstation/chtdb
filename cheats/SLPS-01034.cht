@@ -1,0 +1,37 @@
+; CHTDB: ; [ Fantastic Four (Japan) {SLPS-01034} ]
+
+[Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+800B9E98 0005
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800E038E 0040
+
+[P2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800E058E 0040
+
+[P3 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800E078E 0040
+
+[P4 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800E098E 0040
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+80091070 0001
+
+[Level Skip (Press L1+L2+R1+R2 while in game to go to the Level Skip screen. Press X to skip a level or Triangle to go back a level)]
+Type = Gameshark
+Activation = EndFrame
+80091072 0001
+

@@ -1,0 +1,20 @@
+; CHTDB: ; [ Tiger Woods 99 PGA Tour Golf (Europe) {SLES-01674} ]
+
+[Only one shot recorded]
+Type = Gameshark
+Activation = EndFrame
+800A879C 0000
+800A9B5C 0000
+8007A45C 0000
+8007A5D8 0000
+
+[Always slow swinging]
+Type = Gameshark
+Activation = EndFrame
+800BA584 2000
+
+[No Wind]
+Type = Gameshark
+Activation = EndFrame
+800B7978 0000
+

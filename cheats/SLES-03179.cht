@@ -1,0 +1,12 @@
+; CHTDB: ; [ Disney's Tigger's Honey Hunt (Europe) (Platinum) {SLES-03179} ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+300C7668 0003
+
+[Have 99 honey pots]
+Type = Gameshark
+Activation = EndFrame
+300C766C 0063
+

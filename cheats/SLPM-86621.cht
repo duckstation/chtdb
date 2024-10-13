@@ -1,0 +1,38 @@
+; CHTDB: ; [ Kero Kero King (Jpn) (2000) (Media Factory) {SLPM-86621} <keroking> ]
+
+[P1 has 9999999 money]
+Type = Gameshark
+Activation = EndFrame
+90082D80 0098967F
+
+[Item (Pawaesa-bait, B Kerochin)]
+Type = Gameshark
+Activation = EndFrame
+90082D5C 00630063
+80082D62 0063
+
+[Battle (number of holes) 1]
+Type = Gameshark
+Activation = EndFrame
+800843CA 0001
+
+[Battle (number of holes) 10]
+Type = Gameshark
+Activation = EndFrame
+800843CA 000A
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A7078630 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A7078630 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A7078630 10000400
+

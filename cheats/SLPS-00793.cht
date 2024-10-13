@@ -1,0 +1,22 @@
+; CHTDB: ; [ Nihon Pro Mahjong Renmei Kounin: Doujou Yaburi (Japan) {SLPS-00793} ]
+
+[Player has 999900 points]
+Type = Gameshark
+Activation = EndFrame
+8008DC70 270F
+
+[Opponent 1 has 0 points]
+Type = Gameshark
+Activation = EndFrame
+8008DC7C 0000
+
+[Opponent 2 has 0 points]
+Type = Gameshark
+Activation = EndFrame
+8008DC78 0000
+
+[Opponent 3 has 0 points]
+Type = Gameshark
+Activation = EndFrame
+8008DC74 0000
+

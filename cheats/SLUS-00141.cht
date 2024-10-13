@@ -1,0 +1,307 @@
+; CHTDB: ; [ X-COM - UFO Defense (USA) (1995) (MicroProse Software) {SLUS-00141} <xcom> ]
+
+[Infinite Cash]
+Type = Gameshark
+Activation = EndFrame
+D000E110 2000
+800CEE36 0FFF
+
+[1st Soldier\Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80019A12 2240
+
+[1st Soldier\Infinite Stamina]
+Type = Gameshark
+Activation = EndFrame
+80019A14 4000
+
+[1st Soldier\Infinite Shots]
+Type = Gameshark
+Activation = EndFrame
+800146CC 0014
+
+[2nd Soldier\Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80019A8E 243A
+
+[2nd Soldier\Infinite Stamina]
+Type = Gameshark
+Activation = EndFrame
+80019A90 4400
+
+[2nd Soldier\Infinite Shots]
+Type = Gameshark
+Activation = EndFrame
+800146DC 0012
+
+[3rd Soldier\Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80019B0A 283C
+
+[3rd Soldier\Infinite Stamina]
+Type = Gameshark
+Activation = EndFrame
+80019B0C 3B00
+
+[3rd Soldier\Infinite Shots]
+Type = Gameshark
+Activation = EndFrame
+800146EC 0014
+
+[4th Soldier\Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80019B86 2432
+
+[4th Soldier\Infinite Stamina]
+Type = Gameshark
+Activation = EndFrame
+80019B88 3A00
+
+[4th Soldier\Infinite Shots]
+Type = Gameshark
+Activation = EndFrame
+800146FC 0014
+
+[5th Soldier\Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80019C02 1B33
+
+[5th Soldier\Infinite Stamina]
+Type = Gameshark
+Activation = EndFrame
+80019C04 2E00
+
+[5th Soldier\Infinite Shots]
+Type = Gameshark
+Activation = EndFrame
+8001470C 0014
+
+[6th Soldier\Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80019C7E 1D32
+
+[6th Soldier\Infinite Stamina]
+Type = Gameshark
+Activation = EndFrame
+80019C80 4300
+
+[6th Soldier\Infinite Shots]
+Type = Gameshark
+Activation = EndFrame
+8001471C 0014
+
+[7th Soldier\Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80019CFA 1C34
+
+[7th Soldier\Infinite Stamina]
+Type = Gameshark
+Activation = EndFrame
+80019CFC 3500
+
+[7th Soldier\Infinite Shots]
+Type = Gameshark
+Activation = EndFrame
+8001479C 0006
+
+[8th Soldier\Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80019D76 283C
+
+[8th Soldier\Infinite Stamina]
+Type = Gameshark
+Activation = EndFrame
+80019D78 4400
+
+[8th Soldier\Infinite Shots]
+Type = Gameshark
+Activation = EndFrame
+8001461C 000C
+
+[9th Soldier\Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80019DF2 2135
+
+[9th Soldier\Infinite Stamina]
+Type = Gameshark
+Activation = EndFrame
+80019DF4 2E00
+
+[9th Soldier\Infinite Shots]
+Type = Gameshark
+Activation = EndFrame
+8001471C 000E
+
+[10th Soldier\Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80019E6E 1B38
+
+[10th Soldier\Infinite Stamina]
+Type = Gameshark
+Activation = EndFrame
+80019E70 2900
+
+[10th Soldier\Infinite Shots]
+Type = Gameshark
+Activation = EndFrame
+8001472C 000E
+
+[Infinite Elerium 115]
+Type = Gameshark
+Activation = EndFrame
+80010DE4 00DC
+
+[Infinite Time (All Soldiers)]
+Type = Gameshark
+Activation = EndFrame
+800516FC 0000
+8004C5B0 0000
+800493A8 0000
+
+[Infinite Stamina (All Soldiers)]
+Type = Gameshark
+Activation = EndFrame
+80051704 0000
+
+[Super Stats\1st Position]
+Type = Gameshark
+Activation = EndFrame
+80019A12 FFFF
+90019A14 FFFFFF00
+90019A18 FFFFFFFF
+30019A1C 00FF
+80019A2A FF00
+80019A3E FF00
+80019A40 00FF
+
+[Super Stats\2nd Position]
+Type = Gameshark
+Activation = EndFrame
+80019A8E FFFF
+90019A90 FFFFFF00
+90019A94 FFFFFFFF
+30019A98 00FF
+80019AA6 FF00
+80019ABA FF00
+80019ABC 00FF
+
+[Super Stats\3rd Position]
+Type = Gameshark
+Activation = EndFrame
+80019B0A FFFF
+90019B0C FFFFFF00
+90019B10 FFFFFFFF
+30019B14 00FF
+80019B22 FF00
+80019B36 FF00
+80019B38 00FF
+
+[Super Stats\4th Position]
+Type = Gameshark
+Activation = EndFrame
+80019B86 FFFF
+90019B88 FFFFFF00
+90019B8C FFFFFFFF
+30019B90 00FF
+80019B9E FF00
+80019BB2 FF00
+80019BB4 00FF
+
+[Super Stats\5th Position]
+Type = Gameshark
+Activation = EndFrame
+80019C02 FFFF
+90019C04 FFFFFF00
+90019C08 FFFFFFFF
+30019C0C 00FF
+80019C1A FF00
+80019C2E FF00
+80019C30 00FF
+
+[Super Stats\6th Position]
+Type = Gameshark
+Activation = EndFrame
+80019C7E FFFF
+90019C80 FFFFFF00
+90019C84 FFFFFFFF
+30019C88 00FF
+80019C96 FF00
+80019CAA FF00
+80019CAC 00FF
+
+[Super Stats\7th Position]
+Type = Gameshark
+Activation = EndFrame
+80019CFA FFFF
+90019CFC FFFFFF00
+90019D00 FFFFFFFF
+30019D04 00FF
+80019D12 FF00
+80019D26 FF00
+80019D28 00FF
+
+[Super Stats\8th Position]
+Type = Gameshark
+Activation = EndFrame
+80019D76 FFFF
+90019D78 FFFFFF00
+90019D7C FFFFFFFF
+30019D80 00FF
+80019D8E FF00
+80019DA2 FF00
+80019DA4 00FF
+
+[Super Stats\9th Position]
+Type = Gameshark
+Activation = EndFrame
+80019DF2 FFFF
+90019DF4 FFFFFF00
+90019DF8 FFFFFFFF
+30019DFC 00FF
+80019E0A FF00
+80019E1E FF00
+80019E20 00FF
+
+[Super Stats\10th Position]
+Type = Gameshark
+Activation = EndFrame
+80019E6E FFFF
+90019E70 FFFFFF00
+90019E74 FFFFFFFF
+30019E78 00FF
+80019E86 FF00
+80019E9A FF00
+80019E9C 00FF
+
+[Super Stats\11Th Position]
+Type = Gameshark
+Activation = EndFrame
+80019EEA FFFF
+90019EEC FFFFFF00
+90019EF0 FFFFFFFF
+30019EF4 00FF
+80019F02 FF00
+80019F16 FF00
+80019F18 00FF
+
+[Super Stats\12Th Position]
+Type = Gameshark
+Activation = EndFrame
+80019F66 FFFF
+90019F68 FFFFFF00
+90019F6C FFFFFFFF
+30019F70 00FF
+80019F7E FF00
+80019F92 FF00
+80019F94 00FF
+

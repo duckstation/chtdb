@@ -1,0 +1,32 @@
+; CHTDB: ; [ Mahjong Station Mazin (Japan) {SLPS-00005} ]
+
+[Player has 99900 points]
+Type = Gameshark
+Activation = EndFrame
+8009C58C 2706
+
+[Opponent 1 has 0 points]
+Type = Gameshark
+Activation = EndFrame
+8009C538 0000
+
+[Opponent 2 has 0 points]
+Type = Gameshark
+Activation = EndFrame
+8009C4E4 0000
+
+[Opponent 3 has 0 points]
+Type = Gameshark
+Activation = EndFrame
+8009C490 0000
+
+[Widescreen 16-9 (Normal Release)]
+Type = Gameshark
+Activation = EndFrame
+A70AD02C 10000C00
+
+[Widescreen 16-9 (Rev 1 Release)]
+Type = Gameshark
+Activation = EndFrame
+A70ACF84 10000C00
+

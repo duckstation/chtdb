@@ -1,0 +1,7 @@
+; CHTDB: ; [ Sorcerer's Maze (Europe) {SLES-04086} ]
+
+[P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801E3F04 0003
+

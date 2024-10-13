@@ -1,0 +1,17 @@
+; CHTDB: ; [ Shock Wave: Operation JumpGate (Japan) {SLPS-00516} ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8006AEB4 02EE
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+8006AE88 03E8
+
+[Infinite Fuel]
+Type = Gameshark
+Activation = EndFrame
+8006AE5C 0258
+

@@ -1,0 +1,27 @@
+; CHTDB: ; [ International Superstar Soccer Deluxe (Europe) (Konami XXL Sports Series) {SLES-00511} ]
+
+[P1 Select Score\9]
+Type = Gameshark
+Activation = EndFrame
+801C7BBE 0009
+
+[P1 Select Score\0]
+Type = Gameshark
+Activation = EndFrame
+801C7BBE 0000
+
+[P2 Select Score\9]
+Type = Gameshark
+Activation = EndFrame
+801C7C56 0009
+
+[P2 Select Score\0]
+Type = Gameshark
+Activation = EndFrame
+801C7C56 0000
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+8017FC64 03E7
+

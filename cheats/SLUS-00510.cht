@@ -1,0 +1,54 @@
+; CHTDB: ; [ Vigilante 8 (USA, v1.0) (1998) (Activision) {SLUS-00510} <vigil8a> ]
+
+[Unlock Everything]
+Type = Gameshark
+Activation = EndFrame
+90065950 1F1F1F1F
+90065954 1F1F1F1F
+90065958 1F1F1F1F
+
+[Basic Weapons\Infinite Landmine Ammo]
+Type = Gameshark
+Activation = EndFrame
+300356DC 0000
+
+[Basic Weapons\Infinite Heat Seeker Ammo]
+Type = Gameshark
+Activation = EndFrame
+30032FF4 0000
+
+[Basic Weapons\Infinite Tube Cannon Ammo]
+Type = Gameshark
+Activation = EndFrame
+300349B0 0000
+
+[Basic Weapons\Infinite Cannon Ammo]
+Type = Gameshark
+Activation = EndFrame
+300336BC 0000
+
+[Basic Weapons\Infinite Missile Ammo]
+Type = Gameshark
+Activation = EndFrame
+30032010 0000
+
+[Special Weapons\Infinite Lightning Ammo]
+Type = Gameshark
+Activation = EndFrame
+3003893C 0000
+
+[Special Weapons\Infinite Grid Lock Ammo]
+Type = Gameshark
+Activation = EndFrame
+3003B7D4 0000
+
+[Special Weapons\Infinite Dual Cannon Ammo]
+Type = Gameshark
+Activation = EndFrame
+3003AFC0 0000
+
+[Special Weapons\Invincibility, Big Wheel, + Deadly Missle Mode]
+Type = Gameshark
+Activation = EndFrame
+80065908 0F0F
+

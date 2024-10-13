@@ -1,0 +1,132 @@
+; CHTDB: ; [ Rival Schools: United by Fate (Evolution Disc) (Europe) {SLES-01436 | SLES-11436} ]
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801EFA02 00CF
+
+[P1 1 Hit To Knock Out]
+Type = Gameshark
+Activation = EndFrame
+801EFA02 0001
+
+[P2 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801EFE02 00CF
+
+[P2 1 Hit To Knock Out]
+Type = Gameshark
+Activation = EndFrame
+801EFE02 0001
+
+[P1 Win 1 Round To Win Fight]
+Type = Gameshark
+Activation = EndFrame
+80095482 0002
+
+[P1 Cant Win Any Rounds]
+Type = Gameshark
+Activation = EndFrame
+80095482 0000
+
+[P2 Win 1 Round To Win Fight]
+Type = Gameshark
+Activation = EndFrame
+80095484 0002
+
+[P2 Cant Win Any Rounds]
+Type = Gameshark
+Activation = EndFrame
+80095484 0000
+
+[P1 Full Burning Vigor Gauge]
+Type = Gameshark
+Activation = EndFrame
+801C7BAC 0050
+801C7BCC 0050
+
+[P1 Empty Burning Vigor Gauge]
+Type = Gameshark
+Activation = EndFrame
+801C7BAC 0000
+801C7BCC 0000
+
+[P2 1 Hit Kill]
+Type = Gameshark
+Activation = EndFrame
+801EFE02 0000
+
+[P1 1 Round Win]
+Type = Gameshark
+Activation = EndFrame
+800953BA 0002
+800953BC 0404
+
+[Unlock all]
+Type = Gameshark
+Activation = EndFrame
+50000802 0000
+801F65D0 FFFF
+
+[Lesson Mode Only 1 move to complete lesson]
+Type = Gameshark
+Activation = EndFrame
+801F1F14 0A00
+
+[Lesson Mode 100 Energy]
+Type = Gameshark
+Activation = EndFrame
+801F1F1C 0064
+
+[Lesson Mode 100 Accuracy]
+Type = Gameshark
+Activation = EndFrame
+801F1F1E 0064
+
+[Lesson Mode 100 Agility]
+Type = Gameshark
+Activation = EndFrame
+801F1F20 0064
+
+[Lesson Mode Total = S]
+Type = Gameshark
+Activation = EndFrame
+801F1F22 012F
+
+[All lessons completed]
+Type = Gameshark
+Activation = EndFrame
+50001102 0000
+801F5B04 0606
+
+[Home Run Mode 999 Hi-Score]
+Type = Gameshark
+Activation = EndFrame
+801F1F3C 03E7
+
+[Service Mode 99999 Hi-Score]
+Type = Gameshark
+Activation = EndFrame
+901F1F1C 0001869F
+
+[Target Mode 9999 Hi-Score]
+Type = Gameshark
+Activation = EndFrame
+801F1F66 270F
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A71F6120 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A71F6120 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A71F6120 10000400
+

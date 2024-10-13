@@ -1,0 +1,17 @@
+; CHTDB: ; [ Senryaku Shidan - Tora! Tora! Tora! Rikusen-hen (Jpn) (2000) (DaZZ) {SLPS-02631 (PS-0014)} <senryaku> ]
+
+[Have 999999 points]
+Type = Gameshark
+Activation = EndFrame
+901FFE44 000F423F
+
+[Infinite Energy 1st unit in mission 1]
+Type = Gameshark
+Activation = EndFrame
+800B1D80 0064
+
+[Infinite Energy 2nd unit in mission 1]
+Type = Gameshark
+Activation = EndFrame
+800B2158 0064
+

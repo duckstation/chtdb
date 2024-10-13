@@ -1,0 +1,77 @@
+; CHTDB: ; [ élan plus (Jpn) (2000) (Visco) {SLPS-02759} <elanplus> ]
+
+[No stress]
+Type = Gameshark
+Activation = EndFrame
+80051164 0000
+
+[Running 999]
+Type = Gameshark
+Activation = EndFrame
+80051144 03E7
+
+[Strengh 999]
+Type = Gameshark
+Activation = EndFrame
+80051148 03E7
+
+[Computer 999]
+Type = Gameshark
+Activation = EndFrame
+8005114C 03E7
+
+[Communications 999]
+Type = Gameshark
+Activation = EndFrame
+80051150 03E7
+
+[Pilot mecha 999]
+Type = Gameshark
+Activation = EndFrame
+80051154 03E7
+
+[Virtual Reality 999]
+Type = Gameshark
+Activation = EndFrame
+80051158 03E7
+
+[Flight Simulator 999]
+Type = Gameshark
+Activation = EndFrame
+8005115C 03E7
+
+[Gravity simulator 999]
+Type = Gameshark
+Activation = EndFrame
+80051160 03E7
+
+[Overall ranking]
+Type = Gameshark
+Activation = EndFrame
+30051122 0063
+
+[Event clear number of times]
+Type = Gameshark
+Activation = EndFrame
+3005112D 0063
+
+[POINTS 99]
+Type = Gameshark
+Activation = EndFrame
+3005112E 0063
+
+[Clear state All characters becomes clear state]
+Type = Gameshark
+Activation = EndFrame
+300527AF 00FF
+
+[Male version Gallery / Age]
+Type = Gameshark
+Activation = EndFrame
+300527FF 00FF
+
+[Female version Gallery / Age]
+Type = Gameshark
+Activation = EndFrame
+300527BF 00FF
+

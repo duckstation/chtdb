@@ -1,0 +1,56 @@
+; CHTDB: ; [ Puyo Puyo 4 - Car-kun to Issho (Jpn) (1999) (Compile) {SLPS-02412} <puyopuy4> ]
+
+[P1 bubble does not turn on]
+Type = Gameshark
+Activation = EndFrame
+80136780 0000
+80136788 0000
+
+[Always fall 2P bubble]
+Type = Gameshark
+Activation = EndFrame
+801473C8 FFFF
+801473D0 FFFF
+
+[There is no magic 2P]
+Type = Gameshark
+Activation = EndFrame
+30145C10 0000
+
+[P1 Infinite Special Attacks]
+Type = Gameshark
+Activation = EndFrame
+80134FC8 0003
+
+[P2 Infinite Special Attacks]
+Type = Gameshark
+Activation = EndFrame
+80145C10 0003
+
+[P1 Massive Ojama Puyos]
+Type = Gameshark
+Activation = EndFrame
+80136780 001E
+80136788 001E
+8013678C 001E
+
+[P2 Massive Ojama Puyos]
+Type = Gameshark
+Activation = EndFrame
+801473C8 001E
+801473D0 001E
+801473D4 001E
+
+[Total Time = 00.00]
+Type = Gameshark
+Activation = EndFrame
+9016E000 00000000
+
+[Unlock All Extras]
+Type = Gameshark
+Activation = EndFrame
+80125838 0001
+8012583C 0001
+50001D04 0000
+80125918 0001
+

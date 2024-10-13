@@ -1,0 +1,124 @@
+; CHTDB: ; [ Pac-Man World 20th Anniversary (Germany) {SCES-02278} ]
+
+[Max Punkte Missions- Und Irrgarten-Modus]
+Type = Gameshark
+Activation = EndFrame
+A6153C62 00000098
+
+[Original-Modus\Max Punkte]
+Type = Gameshark
+Activation = EndFrame
+801BDE22 0098
+
+[Original-Modus\Unendlich Leben]
+Type = Gameshark
+Activation = EndFrame
+801A9C10 003C
+
+[Original-Modus\Weniger Krach]
+Type = Gameshark
+Activation = EndFrame
+A61F53F0 00020003
+
+[Missions-Modus\Unendlich Leben]
+Type = Gameshark
+Activation = EndFrame
+80154394 003C
+
+[Missions-Modus\Unendlich Energie]
+Type = Gameshark
+Activation = EndFrame
+80154388 0003
+
+[Missions-Modus\Max Pac-Punkte]
+Type = Gameshark
+Activation = EndFrame
+80154398 00FF
+
+[Missions-Modus\Habe Pacman Select drücken]
+Type = Gameshark
+Activation = EndFrame
+E014D223 0001
+30154588 0001
+E014D223 0001
+3015458A 0001
+E014D223 0001
+3015458C 0001
+E014D223 0001
+3015458E 0001
+E014D223 0001
+30154590 0001
+E014D223 0001
+30154592 0001
+
+[Missions-Modus\100 Kirschen Nach Aufnahme]
+Type = Gameshark
+Activation = EndFrame
+80154546 0063
+
+[Missions-Modus\100 Erdbeeren Nach Aufnahme]
+Type = Gameshark
+Activation = EndFrame
+80154548 0063
+
+[Missions-Modus\100 Orangen Nach Aufnahme]
+Type = Gameshark
+Activation = EndFrame
+8015454A 0063
+
+[Missions-Modus\100 ÄPfel Nach Aufnahme]
+Type = Gameshark
+Activation = EndFrame
+8015454E 0063
+
+[Missions-Modus\100 Bananen Nach Aufnahme]
+Type = Gameshark
+Activation = EndFrame
+80154550 0063
+
+[Irrgarten-Modus\Alle IrrgäRten Komplett Und Gallerie Offen]
+Type = Gameshark
+Activation = EndFrame
+50000802 0000
+80154456 00FF
+50001C02 0000
+801544D2 00FF
+
+[Irrgarten-Modus\Alle Level Freigeschaltet]
+Type = Gameshark
+Activation = EndFrame
+50000804 0000
+80154598 00FF
+50000F04 0000
+80154418 00FF
+
+[Irrgarten-Modus\100 Melonen Nach Aufnahme]
+Type = Gameshark
+Activation = EndFrame
+80154552 0063
+
+[Irrgarten-Modus\100 Zitronen Nach Aufnahme]
+Type = Gameshark
+Activation = EndFrame
+80154554 0063
+
+[Irrgarten-Modus\100 Pfirsiche Nach Aufnahme]
+Type = Gameshark
+Activation = EndFrame
+8015454C 0063
+
+[Irrgarten-Modus\100 Glocken Nach Aufnahme]
+Type = Gameshark
+Activation = EndFrame
+80154558 0063
+
+[Irrgarten-Modus\100 Galaxien Nach Aufnahme]
+Type = Gameshark
+Activation = EndFrame
+80154556 0063
+
+[Irrgarten-Modus\100 SchlüSsel Nach Aufnahme]
+Type = Gameshark
+Activation = EndFrame
+8015455E 0063
+

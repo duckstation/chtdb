@@ -1,0 +1,116 @@
+; CHTDB: ; [ Vampire Hunter D (Japan) {SLPS-02477} ]
+
+[Hp Max]
+Type = Gameshark
+Activation = EndFrame
+300A3DDC 00C8
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800A3CC0 0001
+
+[Infinite SP]
+Type = Gameshark
+Activation = EndFrame
+900CD5C8 00500050
+
+[L-Hand Max]
+Type = Gameshark
+Activation = EndFrame
+300A3DF8 0012
+
+[Vp Max]
+Type = Gameshark
+Activation = EndFrame
+300A3DF4 0020
+
+[Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+800A3DDC 00C8
+
+[Infinite VP]
+Type = Gameshark
+Activation = EndFrame
+800A3DF4 001A
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+800A3DF8 0012
+
+[1 Hit To Kill Final Boss]
+Type = Gameshark
+Activation = EndFrame
+800A43BC 0000
+
+[Unlock Doors]
+Type = Gameshark
+Activation = EndFrame
+8009FEAE 0101
+8009FEC2 0100
+8009FEC6 0200
+8009FED2 0100
+8009FED4 0001
+8009FEDA 0001
+
+[Have All Complete Maps]
+Type = Gameshark
+Activation = EndFrame
+50000402 0000
+800A4200 0101
+50000402 0000
+800A4248 0101
+50000702 0000
+800AB640 FFFF
+
+[All Consumption Items]
+Type = Gameshark
+Activation = EndFrame
+300A41F9 0063
+300A41FA 0063
+300A41FB 0063
+300A41FC 0063
+300A41FD 0063
+300A41FE 0063
+300A41FF 0063
+
+[All Item Of Importance]
+Type = Gameshark
+Activation = EndFrame
+300A4208 0001
+300A420A 0001
+300A420B 0001
+300A420C 0001
+300A420D 0001
+300A420E 0001
+300A420F 0001
+300A4210 0001
+300A4211 0001
+300A4212 0001
+300A4213 0001
+300A4214 0001
+300A4215 0001
+300A4216 0001
+300A4217 0001
+300A421A 0001
+300A421B 0001
+
+[All Map AcquisitioN]
+Type = Gameshark
+Activation = EndFrame
+300A4200 0001
+300A4201 0001
+300A4202 0001
+300A4203 0001
+300A4204 0001
+300A4205 0001
+300A4206 0001
+300A4207 0001
+
+[Total Time = 00.00]
+Type = Gameshark
+Activation = EndFrame
+900A0218 00000000
+

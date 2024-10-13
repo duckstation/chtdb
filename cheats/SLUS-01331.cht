@@ -1,0 +1,84 @@
+; CHTDB: ; [ NBA Hoopz (USA) (2001) (Midway Home Entertainment) {SLUS-01331} <nbahoopz> ]
+
+[Select Away Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+8009D4D0 0000
+8009D4D4 0000
+8009D4DA 0000
+8009D4DE 0000
+
+[Select Away Team Score\100]
+Type = Gameshark
+Activation = EndFrame
+8009D4D0 0019
+8009D4D4 0019
+8009D4DA 0019
+8009D4DE 0019
+
+[Select Home Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+8009D4B4 0000
+8009D4B8 0000
+8009D4BC 0000
+8009D4C0 0000
+
+[Select Home Team Score\200]
+Type = Gameshark
+Activation = EndFrame
+8009D4B4 0019
+8009D4B8 0019
+8009D4BC 0019
+8009D4C0 0019
+
+[ABA Ball]
+Type = Gameshark
+Activation = EndFrame
+8008422C 0001
+
+[Away Uniform]
+Type = Gameshark
+Activation = EndFrame
+80084218 0001
+
+[Beach Court]
+Type = Gameshark
+Activation = EndFrame
+800841EC 0001
+
+[Big Head Mode]
+Type = Gameshark
+Activation = EndFrame
+80084228 0003
+
+[Granny Shots]
+Type = Gameshark
+Activation = EndFrame
+800841E8 0001
+
+[Home Uniform]
+Type = Gameshark
+Activation = EndFrame
+80084214 0001
+
+[Infinite Shot Clock]
+Type = Gameshark
+Activation = EndFrame
+3009D4A9 0009
+
+[Street Court]
+Type = Gameshark
+Activation = EndFrame
+800841F0 0001
+
+[Tiny Heads]
+Type = Gameshark
+Activation = EndFrame
+800841D8 0003
+
+[Tiny Players]
+Type = Gameshark
+Activation = EndFrame
+800841DC 0001
+

@@ -1,0 +1,26 @@
+; CHTDB: ; [ Extreme Pinball (USA) (1996) (Electronic Arts) {SLUS-00200} <extpinb> ]
+
+[Medieval Knights\Infinite Balls]
+Type = Gameshark
+Activation = EndFrame
+80049EDC 0000
+8004C934 0000
+
+[Monkey Mayhem\Infinite Balls]
+Type = Gameshark
+Activation = EndFrame
+80055B3C 0000
+800583FC 0000
+
+[Rock Fantasy\Infinite Balls]
+Type = Gameshark
+Activation = EndFrame
+80046840 0000
+800490E8 0000
+
+[Urban Chaos\Infinite Balls]
+Type = Gameshark
+Activation = EndFrame
+80048368 0000
+8004B070 0000
+

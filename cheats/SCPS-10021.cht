@@ -1,0 +1,22 @@
+; CHTDB: ; [ Jumping Flash! 2: Aloha Danshaku Ooyowari no Maki (Japan) {SCPS-10021} ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80102EF4 0005
+
+[SUPPORT AI (Select)]
+Type = Gameshark
+Activation = EndFrame
+D004BAC6 FFFE
+3016FE48 0002
+
+[Unlock All Extras all stages, bonuses, and medals.]
+Type = Gameshark
+Activation = EndFrame
+C1000000 0000
+80014498 FFFF
+800144A6 FFFF
+800144C2 FFFF
+800144C6 0100
+

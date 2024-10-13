@@ -1,0 +1,43 @@
+; CHTDB: ; [ Sougaku Toshi - Osaka (Jpn) (1999) (King Records) {SLPS-01722~SLPS-01723} <osaka> ]
+
+[Infinite HP Genji]
+Type = Gameshark
+Activation = EndFrame
+8012DA00 03E7
+8012D490 03E7
+
+[Infinite MP Genji]
+Type = Gameshark
+Activation = EndFrame
+8012D748 03E7
+8012D1D8 03E7
+
+[Infinite HP Gleun]
+Type = Gameshark
+Activation = EndFrame
+80132068 03E7
+801327F8 03E7
+
+[Infinite MP Gleun]
+Type = Gameshark
+Activation = EndFrame
+80132AB0 03E7
+80132540 03E7
+
+[Infinite HP Kugiri]
+Type = Gameshark
+Activation = EndFrame
+80109C50 03E7
+801096E0 03E7
+
+[Infinite MP Kugiri]
+Type = Gameshark
+Activation = EndFrame
+80109998 03E7
+80109428 03E7
+
+[Infinite Money (60000)]
+Type = Gameshark
+Activation = EndFrame
+800C2F08 EA60
+

@@ -1,0 +1,57 @@
+; CHTDB: ; [ Project V6 (Japan) {SLPS-01260} ]
+
+[Infinite Energy in battle]
+Type = Gameshark
+Activation = EndFrame
+80144578 005C
+
+[All Trading Cards]
+Type = Gameshark
+Activation = EndFrame
+900FF770 000F000F
+
+[All Trading Cards Alternate]
+Type = Gameshark
+Activation = EndFrame
+900FF770 00050005
+
+[Max dance]
+Type = Gameshark
+Activation = EndFrame
+801C504C 270F
+
+[Max Acting]
+Type = Gameshark
+Activation = EndFrame
+801C504E 270F
+
+[Max Sing]
+Type = Gameshark
+Activation = EndFrame
+801C5050 270F
+
+[Max Talent]
+Type = Gameshark
+Activation = EndFrame
+801C5052 270F
+
+[Max Physical fitness]
+Type = Gameshark
+Activation = EndFrame
+801C5054 270F
+
+[Max Degree of reliability]
+Type = Gameshark
+Activation = EndFrame
+801C5056 270F
+
+[No Fatigue]
+Type = Gameshark
+Activation = EndFrame
+801C5058 0000
+
+[No Stress]
+Type = Gameshark
+Activation = EndFrame
+801C505A 0000
+

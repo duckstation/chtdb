@@ -1,0 +1,18 @@
+; CHTDB: ; [ RC Helicopter (USA) (2002) (Agetec) {SLUS-01376} <rcheli> ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8014C194 0005
+8014C19E 0200
+
+[Time Always 0 (Enable when you start the level)]
+Type = Gameshark
+Activation = EndFrame
+80101CD4 0000
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+90101C0C 000F423F
+

@@ -1,0 +1,17 @@
+; CHTDB: ; [ Novastorm (USA) (1995) (Psygnosis) {SCUS-94404 / SCUS-94407} <novastrm> ]
+
+[Enable Level Select]
+Type = Gameshark
+Activation = EndFrame
+801FDFFC 0001
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+1F800130 0007
+
+[Infinite Bombs]
+Type = Gameshark
+Activation = EndFrame
+1F80014C 0009
+

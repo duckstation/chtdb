@@ -1,0 +1,62 @@
+; CHTDB: ; [ Need for Speed III - Hot Pursuit (USA) (1998) (Electronic Arts) {SLUS-00620} <nfs3> ]
+
+[Select Starting Lap\4 (Tournament)]
+Type = Gameshark
+Activation = EndFrame
+A611DD30 00000003
+
+[Select Starting Lap\2 (Knock-Out)]
+Type = Gameshark
+Activation = EndFrame
+A611DD30 00000001
+
+[Enable Empire City And El Nino]
+Type = Gameshark
+Activation = EndFrame
+800FA9E0 003D
+
+[Enable Nazda C2]
+Type = Gameshark
+Activation = EndFrame
+8004392E 0101
+
+[Enable Ferrari 550 + Diablo]
+Type = Gameshark
+Activation = EndFrame
+80043930 0101
+
+[Enable Jaguar Xjr-15 + Mercedes]
+Type = Gameshark
+Activation = EndFrame
+80043932 0101
+
+[Unlock All Cars + All Bonus + Hidden Tracks]
+Type = Gameshark
+Activation = EndFrame
+80125F10 01FF
+
+[Enables Ferrari 355 F1 (Hot Pursuit Mode)]
+Type = Gameshark
+Activation = EndFrame
+8004392C 0101
+
+[German Language For Police In Hot Pursuit Mode]
+Type = Gameshark
+Activation = EndFrame
+800F9F7C 0020
+
+[French Language For Police In Hot Pursuit Mode]
+Type = Gameshark
+Activation = EndFrame
+800F9F7C 0040
+
+[Spanish Language For Police In Hot Pursuit Mode]
+Type = Gameshark
+Activation = EndFrame
+800F9F7C 0080
+
+[Italian Language For Police In Hot Pursuit Mode]
+Type = Gameshark
+Activation = EndFrame
+800F9F7C 0100
+

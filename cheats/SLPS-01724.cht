@@ -1,0 +1,53 @@
+; CHTDB: ; [ Mobile Suit Gundam: Char's Counterattack (Japan) {SLPS-01724} ]
+
+[Amuro Char Story Mode Unlock All Levels]
+Type = Gameshark
+Activation = EndFrame
+80060750 0B03
+
+[Amuro Char Story Mode Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80123828 03E8
+801237CC 03E8
+
+[Amuro Char Story Mode Infinite Rifle]
+Type = Gameshark
+Activation = EndFrame
+8012382E 0063
+801237D2 0063
+
+[Infinite Health Battle Mode]
+Type = Gameshark
+Activation = EndFrame
+801237CC 03E8
+
+[P1 Power Battle mode]
+Type = Gameshark
+Activation = EndFrame
+801237D0 2710
+
+[More Gundam To Choose Battle Mode]
+Type = Gameshark
+Activation = EndFrame
+80060752 0003
+
+[Infinite Normal Weapons Battle mode]
+Type = Gameshark
+Activation = EndFrame
+801237D2 0063
+801237D6 0063
+901237D8 00630063
+
+[Infinite Short Range Weapons Battle mode]
+Type = Gameshark
+Activation = EndFrame
+901237DC 00630063
+801237E0 0063
+
+[Victory Press Select]
+Type = Gameshark
+Activation = EndFrame
+D0060528 0100
+801267E8 0000
+

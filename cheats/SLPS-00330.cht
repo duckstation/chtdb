@@ -1,0 +1,22 @@
+; CHTDB: ; [ Taiyou no Shippo: Wild, Pure, Simple Life (Japan) {SLPS-00330} ]
+
+[Weapon Level MAX]
+Type = Gameshark
+Activation = EndFrame
+800C9284 000B
+
+[TOWER finished]
+Type = Gameshark
+Activation = EndFrame
+800C9294 00FF
+
+[Stamina maximum value MAX]
+Type = Gameshark
+Activation = EndFrame
+900C8C64 0012C000
+
+[Stamina current value MAX]
+Type = Gameshark
+Activation = EndFrame
+900C8C68 0012C000
+

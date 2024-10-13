@@ -1,0 +1,32 @@
+; CHTDB: ; [ Hello Charlie!! (Jpn) (1998) (Enix) {SLPM-86083} <hellochr> ]
+
+[Infinite Screws 1]
+Type = Gameshark
+Activation = EndFrame
+80078618 0063
+
+[Infinite Screws 2/Coins]
+Type = Gameshark
+Activation = EndFrame
+8007861C 0063
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+8007860C 000A
+
+[Max Point]
+Type = Gameshark
+Activation = EndFrame
+90078608 3B9AC9FF
+
+[Temperature rise 0]
+Type = Gameshark
+Activation = EndFrame
+80078610 0000
+
+[Game speed]
+Type = Gameshark
+Activation = EndFrame
+800403C0 0001
+

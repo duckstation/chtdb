@@ -1,0 +1,96 @@
+; CHTDB: ; [ Army Men - World War (USA) (2000) (The 3DO Company) {SLUS-01079} <amenwwar> ]
+
+[Select Effect\Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800FEB7C 0490
+
+[Select Effect\Small Soldiers]
+Type = Gameshark
+Activation = EndFrame
+800FEB7C 00A8
+
+[Select Effect\Reallly Small Soldiers]
+Type = Gameshark
+Activation = EndFrame
+800FEB7C 0044
+
+[Select Effect\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800FEB7C 0310
+
+[Always have Infinite Grenades]
+Type = Gameshark
+Activation = EndFrame
+300F8999 0005
+
+[Always have Infinite Mortar]
+Type = Gameshark
+Activation = EndFrame
+300F899A 000A
+
+[Always have Infinite Bazooka]
+Type = Gameshark
+Activation = EndFrame
+300F899B 000A
+
+[Always have Infinite Flame Thrower]
+Type = Gameshark
+Activation = EndFrame
+300F899C 0064
+
+[Always have Infinite Auto Rifle]
+Type = Gameshark
+Activation = EndFrame
+300F899D 00FA
+
+[Always have Infinite Explosives]
+Type = Gameshark
+Activation = EndFrame
+300F899E 0005
+
+[Infinite Medpacks]
+Type = Gameshark
+Activation = EndFrame
+300F89A0 0003
+
+[Have Mine Detector]
+Type = Gameshark
+Activation = EndFrame
+300F89A1 00FF
+
+[All Levels Unlocked (At main menu go to the options and select audio. Instead of going into the audio menu you will go into the level select menu.)]
+Type = Gameshark
+Activation = EndFrame
+800F7AD8 0002
+800F7ADC 0006
+D0156410 FF74
+800F87C4 F52C
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+D00586D0 D5C0
+800586D2 2400
+
+[Infinite Armor - PT Boat]
+Type = Gameshark
+Activation = EndFrame
+800FECA0 17F0
+
+[Infinite Armor - Jeep]
+Type = Gameshark
+Activation = EndFrame
+800FF808 14B0
+
+[Infinite Armor - Tank]
+Type = Gameshark
+Activation = EndFrame
+800FFA50 EAD0
+
+[Infinite Armor - Train]
+Type = Gameshark
+Activation = EndFrame
+80100C90 1FF0
+

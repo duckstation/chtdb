@@ -1,0 +1,98 @@
+; CHTDB: ; [ Worms Armageddon (Europe) {SLES-02217} ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+8019B444 FFFF
+8019B448 FFFF
+
+[Infinite Time In Training Mode]
+Type = Gameshark
+Activation = EndFrame
+8019AA0C B234
+
+[Moon Gravity]
+Type = Gameshark
+Activation = EndFrame
+80148DF0 0000
+
+[Infinite Health-Codes\P1 - Worm 1]
+Type = Gameshark
+Activation = EndFrame
+8014AAA8 0064
+
+[Infinite Health-Codes\P1 - Worm 2]
+Type = Gameshark
+Activation = EndFrame
+8014AB44 0064
+
+[Infinite Health-Codes\P1 - Worm 3]
+Type = Gameshark
+Activation = EndFrame
+8014ABE0 0064
+
+[Infinite Health-Codes\P1 - Worm 4]
+Type = Gameshark
+Activation = EndFrame
+8014AC7C 0064
+
+[Infinite Health-Codes\P2 - Worm 1]
+Type = Gameshark
+Activation = EndFrame
+8014AF28 0064
+
+[Infinite Health-Codes\P2 - Worm 2]
+Type = Gameshark
+Activation = EndFrame
+8014AD54 0064
+
+[Infinite Health-Codes\P2 - Worm 3]
+Type = Gameshark
+Activation = EndFrame
+8014ADF0 0064
+
+[Infinite Health-Codes\P2 - Worm 4]
+Type = Gameshark
+Activation = EndFrame
+8014AE8C 0064
+
+[Infinite Health-Codes\P3 - Worm 1]
+Type = Gameshark
+Activation = EndFrame
+8014B000 0064
+
+[Infinite Health-Codes\P3 - Worm 2]
+Type = Gameshark
+Activation = EndFrame
+8014B09C 0064
+
+[Infinite Health-Codes\P3 - Worm 3]
+Type = Gameshark
+Activation = EndFrame
+8014B138 0064
+
+[Infinite Health-Codes\P3 - Worm 4]
+Type = Gameshark
+Activation = EndFrame
+8014B1D4 0064
+
+[Infinite Health-Codes\P4 - Worm 1]
+Type = Gameshark
+Activation = EndFrame
+8014B2AC 0064
+
+[Infinite Health-Codes\P4 - Worm 2]
+Type = Gameshark
+Activation = EndFrame
+8014B348 0064
+
+[Infinite Health-Codes\P4 - Worm 3]
+Type = Gameshark
+Activation = EndFrame
+8014B3E4 0064
+
+[Infinite Health-Codes\P4 - Worm 4]
+Type = Gameshark
+Activation = EndFrame
+8014B480 0064
+

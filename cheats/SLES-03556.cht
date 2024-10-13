@@ -1,0 +1,221 @@
+; CHTDB: ; [ Mega Man Legends 2 (Europe) {SLES-03556} ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+3008C110 00A0
+
+[Max health]
+Type = Gameshark
+Activation = EndFrame
+3008C112 00A0
+
+[Water pressure at max]
+Type = Gameshark
+Activation = EndFrame
+8008C23A 0100
+
+[Time 00.00.00]
+Type = Gameshark
+Activation = EndFrame
+8009C808 0000
+
+[Have all items]
+Type = Gameshark
+Activation = EndFrame
+900985B8 FFF07F1F
+900985BC F03FFFFF
+800985C0 FFFF
+
+[Have all key items]
+Type = Gameshark
+Activation = EndFrame
+800985B2 07FF
+900985B4 0F8FFFF2
+
+[Moon Jump (Press X, then L2)]
+Type = Gameshark
+Activation = EndFrame
+D009BEC2 BEFF
+8008C0DA FF20
+
+[Select Weapon Slot 1\Lifter]
+Type = Gameshark
+Activation = EndFrame
+3008C22E 0000
+
+[Select Weapon Slot 1\Kick]
+Type = Gameshark
+Activation = EndFrame
+3008C22E 0001
+
+[Select Weapon Slot 1\Mega Buster]
+Type = Gameshark
+Activation = EndFrame
+3008C22E 0002
+
+[Select Weapon Slot 1\Crusher]
+Type = Gameshark
+Activation = EndFrame
+3008C22E 0003
+
+[Select Weapon Slot 1\Buster Cannon]
+Type = Gameshark
+Activation = EndFrame
+3008C22E 0004
+
+[Select Weapon Slot 1\Hyper Shell]
+Type = Gameshark
+Activation = EndFrame
+3008C22E 0005
+
+[Select Weapon Slot 1\Homing Missile]
+Type = Gameshark
+Activation = EndFrame
+3008C22E 0006
+
+[Select Weapon Slot 1\Ground Crawler]
+Type = Gameshark
+Activation = EndFrame
+3008C22E 0007
+
+[Select Weapon Slot 1\Vacuum Arm]
+Type = Gameshark
+Activation = EndFrame
+3008C22E 0008
+
+[Select Weapon Slot 1\Reflector Arm]
+Type = Gameshark
+Activation = EndFrame
+3008C22E 0009
+
+[Select Weapon Slot 1\Shield Arm]
+Type = Gameshark
+Activation = EndFrame
+3008C22E 000A
+
+[Select Weapon Slot 1\Blade Arm]
+Type = Gameshark
+Activation = EndFrame
+3008C22E 000B
+
+[Select Weapon Slot 1\Shining Laser]
+Type = Gameshark
+Activation = EndFrame
+3008C22E 000C
+
+[Select Weapon Slot 1\Machine Gun Arm]
+Type = Gameshark
+Activation = EndFrame
+3008C22E 000D
+
+[Select Weapon Slot 1\Spread Buster]
+Type = Gameshark
+Activation = EndFrame
+3008C22E 000E
+
+[Select Weapon Slot 1\Aqua Blaster]
+Type = Gameshark
+Activation = EndFrame
+3008C22E 000F
+
+[Select Weapon Slot 1\Hunter Seeker]
+Type = Gameshark
+Activation = EndFrame
+3008C22E 0010
+
+[Select Weapon Slot 1\Drill Arm]
+Type = Gameshark
+Activation = EndFrame
+3008C22E 0011
+
+[Select Weapon Slot 2\Lifter]
+Type = Gameshark
+Activation = EndFrame
+3008C22F 0000
+
+[Select Weapon Slot 2\Kick]
+Type = Gameshark
+Activation = EndFrame
+3008C22F 0001
+
+[Select Weapon Slot 2\Mega Buster]
+Type = Gameshark
+Activation = EndFrame
+3008C22F 0002
+
+[Select Weapon Slot 2\Crusher]
+Type = Gameshark
+Activation = EndFrame
+3008C22F 0003
+
+[Select Weapon Slot 2\Buster Cannon]
+Type = Gameshark
+Activation = EndFrame
+3008C22F 0004
+
+[Select Weapon Slot 2\Hyper Shell]
+Type = Gameshark
+Activation = EndFrame
+3008C22F 0005
+
+[Select Weapon Slot 2\Homing Missile]
+Type = Gameshark
+Activation = EndFrame
+3008C22F 0006
+
+[Select Weapon Slot 2\Ground Crawler]
+Type = Gameshark
+Activation = EndFrame
+3008C22F 0007
+
+[Select Weapon Slot 2\Vacuum Arm]
+Type = Gameshark
+Activation = EndFrame
+3008C22F 0008
+
+[Select Weapon Slot 2\Reflector Arm]
+Type = Gameshark
+Activation = EndFrame
+3008C22F 0009
+
+[Select Weapon Slot 2\Shield Arm]
+Type = Gameshark
+Activation = EndFrame
+3008C22F 000A
+
+[Select Weapon Slot 2\Blade Arm]
+Type = Gameshark
+Activation = EndFrame
+3008C22F 000B
+
+[Select Weapon Slot 2\Shining Laser]
+Type = Gameshark
+Activation = EndFrame
+3008C22F 000C
+
+[Select Weapon Slot 2\Machine Gun Arm]
+Type = Gameshark
+Activation = EndFrame
+3008C22F 000D
+
+[Select Weapon Slot 2\Spread Buster]
+Type = Gameshark
+Activation = EndFrame
+3008C22F 000E
+
+[Select Weapon Slot 2\Aqua Blaster]
+Type = Gameshark
+Activation = EndFrame
+3008C22F 000F
+
+[Select Weapon Slot 2\Hunter Seeker]
+Type = Gameshark
+Activation = EndFrame
+3008C22F 0010
+
+[Select Weapon Slot 2\Drill Arm]
+Type = Gameshark
+Activation = EndFrame
+3008C22F 0011
+

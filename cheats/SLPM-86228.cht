@@ -1,0 +1,77 @@
+; CHTDB: ; [ Konami 80's Arcade Gallery (Jpn) (1999) (Konami) {SLPM-86228 (VX144-J1)} <konam80s> ]
+
+[Circus Charlie\P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+300C7590 0005
+
+[Circus Charlie\P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+300C7610 0005
+
+[Gyruss\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+300CE930 0004
+
+[Kung-fu\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800CA39C 0008
+
+[Pooyan\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+300CDC18 0005
+
+[Rock'n Rope\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800CA3D0 0005
+
+[Scramble\Infinite Fuel]
+Type = Gameshark
+Activation = EndFrame
+300C9415 00FF
+
+[Scramble\P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800C9458 0005
+
+[Scramble\P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800C9498 0005
+
+[Shao-lin's Road\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800C7D88 0005
+
+[Super Contra\Infinite Fuel]
+Type = Gameshark
+Activation = EndFrame
+300CD415 00FF
+
+[Super Contra\P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800CD458 0005
+
+[Super Contra\P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800CD498 0005
+
+[Time Pilot\P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+300D0020 0005
+
+[Time Pilot\P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+300D0030 0005
+

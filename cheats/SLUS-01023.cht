@@ -1,0 +1,72 @@
+; CHTDB: ; [ NCAA March Madness 2000 (USA) (1999) (Electronic Arts) {SLUS-01023} <ncaamm2k> ]
+
+[Select Home Team Score\100]
+Type = Gameshark
+Activation = EndFrame
+800153EC 0064
+
+[Select Home Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+800153EC 0000
+
+[Select Away Team Score\100]
+Type = Gameshark
+Activation = EndFrame
+80016828 0064
+
+[Select Away Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+80016828 0000
+
+[Infinite Creation Points]
+Type = Gameshark
+Activation = EndFrame
+8014B904 0258
+
+[Select Home Team Timeouts\Infinite Timeouts]
+Type = Gameshark
+Activation = EndFrame
+300153F0 0007
+
+[Select Home Team Timeouts\No Timeouts]
+Type = Gameshark
+Activation = EndFrame
+300153F0 0000
+
+[Select Home Team Timeouts\Infinite 20 Sec Timeouts]
+Type = Gameshark
+Activation = EndFrame
+300153F1 0007
+
+[Select Home Team Timeouts\No 20 Sec Timeouts]
+Type = Gameshark
+Activation = EndFrame
+300153F1 0000
+
+[Select Away Team Timeouts\Infinite Timeouts]
+Type = Gameshark
+Activation = EndFrame
+3001682C 0007
+
+[Select Away Team Timeouts\No Timeouts]
+Type = Gameshark
+Activation = EndFrame
+3001682C 0000
+
+[Select Away Team Timeouts\Infinite 20 Sec Timeouts]
+Type = Gameshark
+Activation = EndFrame
+3001682D 0007
+
+[Select Away Team Timeouts\No 20 Sec Timeouts]
+Type = Gameshark
+Activation = EndFrame
+3001682D 0000
+
+[Infinite Shot Clock]
+Type = Gameshark
+Activation = EndFrame
+801613A8 0609
+

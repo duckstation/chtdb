@@ -1,0 +1,32 @@
+; CHTDB: ; [ 4x4 World Trophy (Europe) {SLES-02017} ]
+
+[All Cheats]
+Type = Gameshark
+Activation = EndFrame
+8009DDEC FFFF
+
+[Infinite Checkpoint Time]
+Type = Gameshark
+Activation = EndFrame
+900330EC 00000000
+
+[Always First]
+Type = Gameshark
+Activation = EndFrame
+80023086 0040
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A707E7B0 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A707E7B0 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A707E7B0 10000400
+

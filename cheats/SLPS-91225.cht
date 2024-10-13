@@ -1,0 +1,20 @@
+; CHTDB: ; [ Sound Novel Evolution 1: Otogirisou: Sosei-hen (Japan) Rev 1 {SLPS-91225} ]
+
+[Pink bookmarks .Bookmarks will appear in pink and save]
+Type = Gameshark
+Activation = EndFrame
+3007C2B3 0001
+3007C2B8 0001
+3007C2BA 0001
+3007C2BD 0001
+3007C2C0 0001
+3007C2C3 0001
+3007C2C4 0001
+3007C2C6 0001
+3007C2C9 0001
+
+[Gold bookmarks ·Gold bookmarks will appear and save.]
+Type = Gameshark
+Activation = EndFrame
+3007C2D3 0001
+

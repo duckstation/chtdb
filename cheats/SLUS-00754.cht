@@ -1,0 +1,128 @@
+; CHTDB: ; [ Bust-A-Move 4 (USA) (1998) (Natsume) {SLUS-00754} <bam4> ]
+
+[Always Have Guide]
+Type = Gameshark
+Activation = EndFrame
+80192EFC 0080
+
+[Elapsed Time Is Always 0]
+Type = Gameshark
+Activation = EndFrame
+80167BC0 0000
+
+[P1 Select Bubbles\Always Gets Bubbles]
+Type = Gameshark
+Activation = EndFrame
+80192F76 0007
+
+[P1 Select Bubbles\Never Gets Bubbles]
+Type = Gameshark
+Activation = EndFrame
+80192F76 0000
+
+[P2 Select Bubbles\Always Gets Bubbles]
+Type = Gameshark
+Activation = EndFrame
+80192E32 0007
+
+[P2 Select Bubbles\Never Gets Bubbles]
+Type = Gameshark
+Activation = EndFrame
+80192E32 0000
+
+[New Tarot Reading Menu (Options)]
+Type = Gameshark
+Activation = EndFrame
+80167A70 0101
+
+[Ura Puzzle Mode (Different Set Of Games)]
+Type = Gameshark
+Activation = EndFrame
+80167A96 0001
+
+[Talk Demo (Options)]
+Description = Must Have All Characters + Tarot Reading Cheats In For It To Work
+Type = Gameshark
+Activation = EndFrame
+80167A48 0001
+
+[Bub (Enable Character Modifier)]
+Type = Gameshark
+Activation = EndFrame
+30187D2C 0001
+
+[Al Kanet (Enable Character Modifier)]
+Type = Gameshark
+Activation = EndFrame
+30187D2D 0001
+
+[Marino (Enable Character Modifier)]
+Type = Gameshark
+Activation = EndFrame
+30187D2E 0001
+
+[Kurol (Enable Character Modifier)]
+Type = Gameshark
+Activation = EndFrame
+30187D2F 0001
+
+[Tamtam (Enable Character Modifier)]
+Type = Gameshark
+Activation = EndFrame
+30187D30 0001
+
+[Cleon (Enable Character Modifier)]
+Type = Gameshark
+Activation = EndFrame
+30187D31 0001
+
+[G (Enable Character Modifier)]
+Type = Gameshark
+Activation = EndFrame
+30187D32 0001
+
+[Bramb (Enable Character Modifier)]
+Type = Gameshark
+Activation = EndFrame
+30187D33 0001
+
+[Develon (Enable Character Modifier)]
+Type = Gameshark
+Activation = EndFrame
+30187D34 0001
+
+[Gigant (Enable Character Modifier)]
+Type = Gameshark
+Activation = EndFrame
+30187D35 0001
+
+[Madam Luna (Enable Character Modifier)]
+Type = Gameshark
+Activation = EndFrame
+30187D36 0001
+
+[Dreg (Enable Character Modifier)]
+Type = Gameshark
+Activation = EndFrame
+30187D37 0001
+
+[Woolen (Enable Character Modifier)]
+Type = Gameshark
+Activation = EndFrame
+30187D38 0001
+
+[Packy (Enable Character Modifier)]
+Type = Gameshark
+Activation = EndFrame
+30187D39 0001
+
+[Monsta (Enable Character Modifier)]
+Type = Gameshark
+Activation = EndFrame
+30187D3A 0001
+
+[Maita (Enable Character Modifier)]
+Type = Gameshark
+Activation = EndFrame
+30187D3B 0001
+

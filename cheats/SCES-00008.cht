@@ -1,0 +1,7 @@
+; CHTDB: ; [ Destruction Derby (Europe) {SCES-00008} ]
+
+[Maximum Race Points]
+Type = Gameshark
+Activation = EndFrame
+801E6462 6300
+

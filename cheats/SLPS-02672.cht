@@ -1,0 +1,43 @@
+; CHTDB: ; [ Taisen Ren'ai Simulation: Trifers Mahou Gakuen (Japan) {SLPS-02672} ]
+
+[P1 always has 99 AP]
+Type = Gameshark
+Activation = EndFrame
+8008222C 0063
+
+[P1 APMAX]
+Type = Gameshark
+Activation = EndFrame
+8008222C 0063
+8008B9BC 0063
+
+[P2 APMAX]
+Type = Gameshark
+Activation = EndFrame
+80082230 0063
+8008BDE0 0063
+
+[P1 favvorability UP]
+Type = Gameshark
+Activation = EndFrame
+9008AECC 00000000
+9008AED0 00FFFFFF
+9008AF54 00000000
+9008AF58 00FFFFFF
+9008AFDC 00000000
+9008AFE0 00FFFFFF
+9008B064 00000000
+9008B068 00FFFFFF
+9008B0EC 00000000
+9008B0F0 00FFFFFF
+9008B174 00000000
+9008B178 00FFFFFF
+9008B1FC 00000000
+9008B200 00FFFFFF
+
+[(Check the time of lunch in the summer) (1P) the degree of swelling]
+Type = Gameshark
+Activation = EndFrame
+301D68FE 0063
+301D6900 0063
+

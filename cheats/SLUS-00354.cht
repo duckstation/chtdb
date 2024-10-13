@@ -1,0 +1,25 @@
+; CHTDB: ; [ Bugriders - The Race of Kings (USA) (1997) (GT Interactive Software) {SLUS-00354} <bugridrs> ]
+
+[Bug Stress (Exterminate Game)]
+Type = Gameshark
+Activation = EndFrame
+800BFF50 0BA9
+800C84DA 0038
+
+[Bugs Killed (Exterminate Game)]
+Type = Gameshark
+Activation = EndFrame
+800C0408 0060
+
+[Rings (Time Trial Game)]
+Description = After activating this cheat turn it off. When you get to the race turn it on and off in the game otherwise you'll lose a life
+Type = Gameshark
+Activation = EndFrame
+800C03E2 0049
+
+[Quick Win (Campaign)]
+Description = After activating this cheat turn it off. When you get to the race turn it on and off in the game otherwise you'll lose a life
+Type = Gameshark
+Activation = EndFrame
+800C03C4 0003
+

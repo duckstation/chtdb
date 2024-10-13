@@ -1,0 +1,22 @@
+; CHTDB: ; [ Mahjong Taikai II Special (Japan) {SLPS-00603} ]
+
+[Player has always 99900 points]
+Type = Gameshark
+Activation = EndFrame
+800D77A6 03E7
+
+[Enemy 1 has 0 points]
+Type = Gameshark
+Activation = EndFrame
+800D7896 0000
+
+[Enemy 2 has 0 points]
+Type = Gameshark
+Activation = EndFrame
+800D77F6 0000
+
+[Enemy 3 has 0 points]
+Type = Gameshark
+Activation = EndFrame
+800D7846 0000
+

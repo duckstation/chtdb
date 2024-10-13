@@ -1,0 +1,117 @@
+; CHTDB: ; [ Everybody's Golf (Europe) {SCES-00983} ]
+
+[Enable course 2]
+Type = Gameshark
+Activation = EndFrame
+801045F4 0002
+
+[Enable course 3]
+Type = Gameshark
+Activation = EndFrame
+801045F4 0003
+
+[Enable course 4]
+Type = Gameshark
+Activation = EndFrame
+801045F4 0004
+
+[Enable course 5]
+Type = Gameshark
+Activation = EndFrame
+801045F4 0005
+
+[Always hole in two hole 1]
+Type = Gameshark
+Activation = EndFrame
+80104668 0002
+
+[Always hole in two hole 2]
+Type = Gameshark
+Activation = EndFrame
+8010466A 0002
+
+[Always hole in two hole 3]
+Type = Gameshark
+Activation = EndFrame
+8010466C 0002
+
+[Always hole in two hole 4]
+Type = Gameshark
+Activation = EndFrame
+8010466E 0002
+
+[Always hole in two hole 5]
+Type = Gameshark
+Activation = EndFrame
+80104670 0002
+
+[Always hole in two hole 6]
+Type = Gameshark
+Activation = EndFrame
+80104672 0002
+
+[Always hole in two hole 7]
+Type = Gameshark
+Activation = EndFrame
+80104674 0002
+
+[Always hole in two hole 8]
+Type = Gameshark
+Activation = EndFrame
+80104676 0002
+
+[Always hole in two hole 9]
+Type = Gameshark
+Activation = EndFrame
+80104678 0002
+
+[Always hole in two hole 10]
+Type = Gameshark
+Activation = EndFrame
+8010467A 0002
+
+[Always hole in two hole 11]
+Type = Gameshark
+Activation = EndFrame
+8010467C 0002
+
+[Always hole in two hole 12]
+Type = Gameshark
+Activation = EndFrame
+8010467E 0002
+
+[Always hole in two hole 13]
+Type = Gameshark
+Activation = EndFrame
+80104680 0002
+
+[Always hole in two hole 14]
+Type = Gameshark
+Activation = EndFrame
+80104682 0002
+
+[Always hole in two hole 15]
+Type = Gameshark
+Activation = EndFrame
+80104684 0002
+
+[Always hole in two hole 16]
+Type = Gameshark
+Activation = EndFrame
+80104686 0002
+
+[Always hole in two hole 17]
+Type = Gameshark
+Activation = EndFrame
+80104688 0002
+
+[Always hole in two hole 18]
+Type = Gameshark
+Activation = EndFrame
+8010468A 0002
+
+[Have Extra Characters]
+Type = Gameshark
+Activation = EndFrame
+A6104784 00000009
+

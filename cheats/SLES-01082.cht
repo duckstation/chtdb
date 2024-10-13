@@ -1,0 +1,392 @@
+; CHTDB: ; [ Dodgem Arena (Europe) {SLES-01082} ]
+
+[CPU 1 Never Scores]
+Type = Gameshark
+Activation = EndFrame
+8008664C 0000
+80086D34 0000
+
+[CPU 2 Never Scores]
+Type = Gameshark
+Activation = EndFrame
+80086650 0000
+80086D38 0000
+
+[CPU 3 Never Scores]
+Type = Gameshark
+Activation = EndFrame
+80086654 0000
+80086D3C 0000
+
+[P1 Score Always At 20.000]
+Type = Gameshark
+Activation = EndFrame
+80086648 4E20
+80086D30 4E20
+
+[P2 Score Always At 20.000]
+Type = Gameshark
+Activation = EndFrame
+8008664C 4E20
+80086D34 4E20
+
+[P1 - Osaka\Battery]
+Type = Gameshark
+Activation = EndFrame
+800AA0CC 0005
+
+[P1 - Osaka\Triple Laser]
+Type = Gameshark
+Activation = EndFrame
+800AA0DC 07DA
+
+[P1 - Osaka\Rockets]
+Type = Gameshark
+Activation = EndFrame
+800AA0E0 0003
+
+[P1 - Osaka\Grappler]
+Type = Gameshark
+Activation = EndFrame
+800AA0E4 0064
+
+[P1 - Osaka\Boost]
+Type = Gameshark
+Activation = EndFrame
+800AA0E8 0005
+
+[P1 - Osaka\Autopilot]
+Type = Gameshark
+Activation = EndFrame
+800AA0EC 0096
+
+[P1 - New York\Battery]
+Type = Gameshark
+Activation = EndFrame
+800AA51C 0005
+
+[P1 - New York\Grappler]
+Type = Gameshark
+Activation = EndFrame
+800AA53C 0064
+
+[P1 - New York\Boost]
+Type = Gameshark
+Activation = EndFrame
+800AA538 0005
+
+[P1 - Los Angeles\Battery]
+Type = Gameshark
+Activation = EndFrame
+800AA668 0005
+
+[P1 - Los Angeles\Boost]
+Type = Gameshark
+Activation = EndFrame
+800AA684 0005
+
+[P1 - Los Angeles\Rockets]
+Type = Gameshark
+Activation = EndFrame
+800AA67C 0003
+
+[P1 - Jungle & Kala Pathar\Triple Laser]
+Type = Gameshark
+Activation = EndFrame
+800AA2A0 07DA
+
+[P1 - Jungle & Kala Pathar\Rockets]
+Type = Gameshark
+Activation = EndFrame
+800AA2A4 0003
+
+[P1 - Jungle & Kala Pathar\Battery]
+Type = Gameshark
+Activation = EndFrame
+800AA290 0005
+
+[P1 - Jungle & Kala Pathar\Grappler]
+Type = Gameshark
+Activation = EndFrame
+800AA2A8 0064
+
+[P1 - Jungle & Kala Pathar\Boost]
+Type = Gameshark
+Activation = EndFrame
+800AA2AC 0005
+
+[P1 - Jungle & Kala Pathar\Autopilot]
+Type = Gameshark
+Activation = EndFrame
+800AA3B0 0096
+
+[P1 - Dark Side Resort\Battery]
+Type = Gameshark
+Activation = EndFrame
+800AA190 0005
+
+[P1 - Dark Side Resort\Triple Laser]
+Type = Gameshark
+Activation = EndFrame
+800AA1A0 07DA
+
+[P1 - Dark Side Resort\Rockets]
+Type = Gameshark
+Activation = EndFrame
+800AA1A4 0003
+
+[P1 - Dark Side Resort\Grappler]
+Type = Gameshark
+Activation = EndFrame
+800AA1A8 0064
+
+[P1 - Dark Side Resort\Boost]
+Type = Gameshark
+Activation = EndFrame
+800AA1AC 0005
+
+[P1 - Dark Side Resort\Autopilot]
+Type = Gameshark
+Activation = EndFrame
+800AA2B0 0096
+
+[P1 - Tharsis Ring\Battery]
+Type = Gameshark
+Activation = EndFrame
+800AA2E4 0005
+
+[P1 - Tharsis Ring\Triple Laser]
+Type = Gameshark
+Activation = EndFrame
+800AA2F4 07DA
+
+[P1 - Tharsis Ring\Rockets]
+Type = Gameshark
+Activation = EndFrame
+800AA2F8 0003
+
+[P1 - Tharsis Ring\Grappler]
+Type = Gameshark
+Activation = EndFrame
+800AA2FC 0064
+
+[P1 - Tharsis Ring\Boost]
+Type = Gameshark
+Activation = EndFrame
+800AA300 0005
+
+[P1 - Tharsis Ring\Autopilot]
+Type = Gameshark
+Activation = EndFrame
+800AA304 0096
+
+[P1 - Outpost\Battery]
+Type = Gameshark
+Activation = EndFrame
+800AA400 0005
+
+[P1 - Outpost\Triple Laser]
+Type = Gameshark
+Activation = EndFrame
+800AA410 07DA
+
+[P1 - Outpost\Rockets]
+Type = Gameshark
+Activation = EndFrame
+800AA414 0003
+
+[P1 - Outpost\Grapple]
+Type = Gameshark
+Activation = EndFrame
+800AA418 0064
+
+[P1 - Outpost\Boost]
+Type = Gameshark
+Activation = EndFrame
+800AA41C 0005
+
+[P1 - Outpost\Autopilot]
+Type = Gameshark
+Activation = EndFrame
+800AA420 0096
+
+[P2 - Osaka\Battery]
+Type = Gameshark
+Activation = EndFrame
+800AA12C 0005
+
+[P2 - Osaka\Triple Laser]
+Type = Gameshark
+Activation = EndFrame
+800AA13C 07DA
+
+[P2 - Osaka\Rockets]
+Type = Gameshark
+Activation = EndFrame
+800AA140 0003
+
+[P2 - Osaka\Grappler]
+Type = Gameshark
+Activation = EndFrame
+800AA144 0064
+
+[P2 - Osaka\Boost]
+Type = Gameshark
+Activation = EndFrame
+800AA148 0005
+
+[P2 - Osaka\Autopilot]
+Type = Gameshark
+Activation = EndFrame
+800AA14C 0096
+
+[P2 - New York\Battery]
+Type = Gameshark
+Activation = EndFrame
+800AA57C 0005
+
+[P2 - New York\Grappler]
+Type = Gameshark
+Activation = EndFrame
+800AA59C 0064
+
+[P2 - New York\Boost]
+Type = Gameshark
+Activation = EndFrame
+800AA598 0005
+
+[P2 - Los Angeles\Battery]
+Type = Gameshark
+Activation = EndFrame
+800AA6C8 0005
+
+[P2 - Los Angeles\Boost]
+Type = Gameshark
+Activation = EndFrame
+800AA6E4 0005
+
+[P2 - Los Angeles\Rockets]
+Type = Gameshark
+Activation = EndFrame
+800AA6DC 0003
+
+[P2 - Jungle/ Kala Pathar\Battery]
+Type = Gameshark
+Activation = EndFrame
+800AA2F0 0005
+
+[P2 - Jungle/ Kala Pathar\Laser]
+Type = Gameshark
+Activation = EndFrame
+800AA300 07DA
+
+[P2 - Jungle/ Kala Pathar\Rockets]
+Type = Gameshark
+Activation = EndFrame
+800AA304 0003
+
+[P2 - Jungle/ Kala Pathar\Grappler]
+Type = Gameshark
+Activation = EndFrame
+800AA308 0064
+
+[P2 - Jungle/ Kala Pathar\Boost]
+Type = Gameshark
+Activation = EndFrame
+800AA30C 0005
+
+[P2 - Jungle/ Kala Pathar\Autopilot]
+Type = Gameshark
+Activation = EndFrame
+800AA310 0096
+
+[P2 - Dark Side Resort\Battery]
+Type = Gameshark
+Activation = EndFrame
+800AA1F0 0005
+
+[P2 - Dark Side Resort\Triple Laser]
+Type = Gameshark
+Activation = EndFrame
+800AA200 07DA
+
+[P2 - Dark Side Resort\Rockets]
+Type = Gameshark
+Activation = EndFrame
+800AA204 0003
+
+[P2 - Dark Side Resort\Grappler]
+Type = Gameshark
+Activation = EndFrame
+800AA208 0064
+
+[P2 - Dark Side Resort\Boost]
+Type = Gameshark
+Activation = EndFrame
+800AA20C 0005
+
+[P2 - Dark Side Resort\Autopilot]
+Type = Gameshark
+Activation = EndFrame
+800AA210 0096
+
+[P2 - Tharsis Ring\Battery]
+Type = Gameshark
+Activation = EndFrame
+800AA344 0005
+
+[P2 - Tharsis Ring\Triple Laser]
+Type = Gameshark
+Activation = EndFrame
+800AA354 07DA
+
+[P2 - Tharsis Ring\Rockets]
+Type = Gameshark
+Activation = EndFrame
+800AA358 0003
+
+[P2 - Tharsis Ring\Grappler]
+Type = Gameshark
+Activation = EndFrame
+800AA35C 0064
+
+[P2 - Tharsis Ring\Boost]
+Type = Gameshark
+Activation = EndFrame
+800AA360 0005
+
+[P2 - Tharsis Ring\Autopilot]
+Type = Gameshark
+Activation = EndFrame
+800AA364 0096
+
+[P2 - Outpost\Battery]
+Type = Gameshark
+Activation = EndFrame
+800AA460 0005
+
+[P2 - Outpost\Triple Laser]
+Type = Gameshark
+Activation = EndFrame
+800AA470 07DA
+
+[P2 - Outpost\Rockets]
+Type = Gameshark
+Activation = EndFrame
+800AA474 0003
+
+[P2 - Outpost\Grappler]
+Type = Gameshark
+Activation = EndFrame
+800AA478 0064
+
+[P2 - Outpost\Boost]
+Type = Gameshark
+Activation = EndFrame
+800AA47C 0005
+
+[P2 - Outpost\Autopilot]
+Type = Gameshark
+Activation = EndFrame
+800AA480 0096
+

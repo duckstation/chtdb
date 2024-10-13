@@ -1,0 +1,7 @@
+; CHTDB: ; [ Elemental Pinball (Europe) {SLES-04038} ]
+
+[Infinite Balls]
+Type = Gameshark
+Activation = EndFrame
+8006E188 0009
+

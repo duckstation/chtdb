@@ -1,0 +1,244 @@
+; CHTDB: ; [ Final Doom (USA) (1996) (Williams Entertainment) {SLUS-00331} <findoom> ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800AB330 0064
+800AB33C 0001
+80127C58 0064
+
+[Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+800AB334 0064
+
+[Infinite Bullets]
+Type = Gameshark
+Activation = EndFrame
+800AB3A4 0063
+
+[Infinite Shotgun Shells]
+Type = Gameshark
+Activation = EndFrame
+800AB3A8 0063
+
+[Infinite Plasma]
+Type = Gameshark
+Activation = EndFrame
+800AB3AC 0063
+
+[Infinite Rockets]
+Type = Gameshark
+Activation = EndFrame
+800AB3B0 0063
+
+[Have Shotgun]
+Type = Gameshark
+Activation = EndFrame
+800AB388 0001
+
+[Have Double Barrel-Shotgun]
+Type = Gameshark
+Activation = EndFrame
+800AB38C 0001
+
+[Have Chain Gun]
+Type = Gameshark
+Activation = EndFrame
+800AB390 0001
+
+[Have Rocket Launcher]
+Type = Gameshark
+Activation = EndFrame
+800AB394 0001
+
+[Have Plasma Rifle]
+Type = Gameshark
+Activation = EndFrame
+800AB398 0001
+
+[Have B.F.G. 9000]
+Type = Gameshark
+Activation = EndFrame
+800AB39C 0001
+
+[Have Chainsaw]
+Type = Gameshark
+Activation = EndFrame
+800AB3A0 0001
+
+[Always Have Red Key]
+Type = Gameshark
+Activation = EndFrame
+800AB354 0001
+
+[Always Have Blue Key]
+Type = Gameshark
+Activation = EndFrame
+800AB358 0001
+
+[Always Have Yellow Key]
+Type = Gameshark
+Activation = EndFrame
+800AB35C 0001
+
+[Mega Rapid Fire]
+Type = Gameshark
+Activation = EndFrame
+800AB3F8 0001
+
+[Always Have Map]
+Type = Gameshark
+Activation = EndFrame
+800AB34C 0001
+
+[Select Starting Level\01 Attack]
+Type = Gameshark
+Activation = EndFrame
+A607AB68 00010000
+
+[Select Starting Level\02 Virgil]
+Type = Gameshark
+Activation = EndFrame
+A607AB68 00010001
+
+[Select Starting Level\03 Canyon]
+Type = Gameshark
+Activation = EndFrame
+A607AB68 00010002
+
+[Select Starting Level\04 Combine]
+Type = Gameshark
+Activation = EndFrame
+A607AB68 00010003
+
+[Select Starting Level\05 Catwalk]
+Type = Gameshark
+Activation = EndFrame
+A607AB68 00010004
+
+[Select Starting Level\06 Fistula]
+Type = Gameshark
+Activation = EndFrame
+A607AB68 00010005
+
+[Select Starting Level\07 Geryon]
+Type = Gameshark
+Activation = EndFrame
+A607AB68 00010006
+
+[Select Starting Level\08 Minos]
+Type = Gameshark
+Activation = EndFrame
+A607AB68 00010007
+
+[Select Starting Level\09 Nessus]
+Type = Gameshark
+Activation = EndFrame
+A607AB68 00010008
+
+[Select Starting Level\10 Paradox]
+Type = Gameshark
+Activation = EndFrame
+A607AB68 00010009
+
+[Select Starting Level\11 Subspace]
+Type = Gameshark
+Activation = EndFrame
+A607AB68 0001000A
+
+[Select Starting Level\12 Subterra]
+Type = Gameshark
+Activation = EndFrame
+A607AB68 0001000B
+
+[Select Starting Level\13 Vesperas]
+Type = Gameshark
+Activation = EndFrame
+A607AB68 0001000C
+
+[Select Starting Level\14 System Control]
+Type = Gameshark
+Activation = EndFrame
+A607AB68 0001000D
+
+[Select Starting Level\15 Human Barbecue]
+Type = Gameshark
+Activation = EndFrame
+A607AB68 0001000E
+
+[Select Starting Level\16 Wormhole]
+Type = Gameshark
+Activation = EndFrame
+A607AB68 0001000F
+
+[Select Starting Level\17 Crater]
+Type = Gameshark
+Activation = EndFrame
+A607AB68 00010010
+
+[Select Starting Level\18 Nukage Proccesing]
+Type = Gameshark
+Activation = EndFrame
+A607AB68 00010011
+
+[Select Starting Level\19 Deepest Reaches]
+Type = Gameshark
+Activation = EndFrame
+A607AB68 00010012
+
+[Select Starting Level\20 Processing Area]
+Type = Gameshark
+Activation = EndFrame
+A607AB68 00010013
+
+[Select Starting Level\21 Lunar Mining Project]
+Type = Gameshark
+Activation = EndFrame
+A607AB68 00010014
+
+[Select Starting Level\22 Quarry]
+Type = Gameshark
+Activation = EndFrame
+A607AB68 00010015
+
+[Select Starting Level\23 Ballistyx]
+Type = Gameshark
+Activation = EndFrame
+A607AB68 00010016
+
+[Select Starting Level\24 Heck]
+Type = Gameshark
+Activation = EndFrame
+A607AB68 00010017
+
+[Select Starting Level\25 Congo]
+Type = Gameshark
+Activation = EndFrame
+A607AB68 00010018
+
+[Select Starting Level\26 Aztec]
+Type = Gameshark
+Activation = EndFrame
+A607AB68 00010019
+
+[Select Starting Level\27 Ghost Town]
+Type = Gameshark
+Activation = EndFrame
+A607AB68 0001001A
+
+[Select Starting Level\28 Baron's Lair]
+Type = Gameshark
+Activation = EndFrame
+A607AB68 0001001B
+
+[Select Starting Level\29 The Death Domain]
+Type = Gameshark
+Activation = EndFrame
+A607AB68 0001001C
+
+[Select Starting Level\30 Onslaught]
+Type = Gameshark
+Activation = EndFrame
+A607AB68 0001001D
+

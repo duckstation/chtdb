@@ -1,0 +1,47 @@
+; CHTDB: ; [ War Gods (Europe) {SLES-00538} ]
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80099350 0001
+
+[P1 No Health]
+Type = Gameshark
+Activation = EndFrame
+80099350 0000
+
+[P2 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80099354 0001
+
+[P2 No Health]
+Type = Gameshark
+Activation = EndFrame
+80099354 0000
+
+[Stop Timer]
+Type = Gameshark
+Activation = EndFrame
+8009E1EC 0064
+
+[Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+80098658 0009
+
+[P1 X-Tra Damage]
+Type = Gameshark
+Activation = EndFrame
+80099358 0001
+
+[P2 X-Tra Damage]
+Type = Gameshark
+Activation = EndFrame
+8009935C 0001
+
+[Continues No Limit]
+Type = Gameshark
+Activation = EndFrame
+800986C4 000A
+

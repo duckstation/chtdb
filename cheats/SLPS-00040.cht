@@ -1,0 +1,17 @@
+; CHTDB: ; [ Tekken (Japan) {SLPS-00040} ]
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80128A0A 007D
+
+[P2 No Energy]
+Type = Gameshark
+Activation = EndFrame
+80129A3A 0000
+
+[Use all characters]
+Type = Gameshark
+Activation = EndFrame
+9012E154 00FFFFFF
+

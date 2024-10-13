@@ -1,0 +1,27 @@
+; CHTDB: ; [ Dancing Stage featuring Dreams Come True (Jpn) (2000) (Konami) {SLPM-86505 (VX186-J1)} <dsfdct> ]
+
+[P1 Gauge Max]
+Type = Gameshark
+Activation = EndFrame
+800853D4 03E8
+
+[All Styles Available]
+Type = Gameshark
+Activation = EndFrame
+80010EB4 FFFF
+
+[Unlock All Extras]
+Type = Gameshark
+Activation = EndFrame
+80010EB4 FFFF
+8008A5C8 000D
+8008A5FC 0005
+
+[P1 Perfect Stage Results]
+Type = Gameshark
+Activation = EndFrame
+800853DE 03E7
+80086CEC 03E7
+50000402 0000
+80086CEE 0000
+

@@ -1,0 +1,82 @@
+; CHTDB: ; [ NCAA March Madness 99 (USA) (1998) (Electronic Arts) {SLUS-00805} <ncaamm99> ]
+
+[Select Home Team Score\100]
+Type = Gameshark
+Activation = EndFrame
+800152C4 0064
+
+[Select Home Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+800152C4 0000
+
+[Select Away Team Score\100]
+Type = Gameshark
+Activation = EndFrame
+80016700 0064
+
+[Select Away Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+80016700 0000
+
+[Infinite Creation Points]
+Type = Gameshark
+Activation = EndFrame
+8013E148 0259
+
+[Full Momentum Home Team]
+Type = Gameshark
+Activation = EndFrame
+80122B90 0063
+
+[Full Momentum Away Team]
+Type = Gameshark
+Activation = EndFrame
+80122B90 0000
+
+[Select Home Team Timeouts\Infinite Timeouts]
+Type = Gameshark
+Activation = EndFrame
+30016704 0004
+
+[Select Home Team Timeouts\No Timeouts]
+Type = Gameshark
+Activation = EndFrame
+30016704 0000
+
+[Select Home Team Timeouts\Infinite 20 Sec Timeouts]
+Type = Gameshark
+Activation = EndFrame
+30016705 0002
+
+[Select Home Team Timeouts\No 20 Sec Timeouts]
+Type = Gameshark
+Activation = EndFrame
+30016705 0000
+
+[Select Away Team Timeouts\Infinite Timeouts]
+Type = Gameshark
+Activation = EndFrame
+300152C8 0004
+
+[Select Away Team Timeouts\No Timeouts]
+Type = Gameshark
+Activation = EndFrame
+300152C8 0000
+
+[Select Away Team Timeouts\Infinite 20 Sec Timeouts]
+Type = Gameshark
+Activation = EndFrame
+300152C9 0002
+
+[Select Away Team Timeouts\No 20 Sec Timeouts]
+Type = Gameshark
+Activation = EndFrame
+300152C9 0000
+
+[No Shot Clock]
+Type = Gameshark
+Activation = EndFrame
+800E8A54 0000
+

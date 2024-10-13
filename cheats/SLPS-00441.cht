@@ -1,0 +1,18 @@
+; CHTDB: ; [ Fuuun Gokuu Ninden (Jpn) (1996) (AiCOM) {SLPS-00441} <gokunind> ]
+
+[Invincibility All Characters]
+Type = Gameshark
+Activation = EndFrame
+80060E48 004F
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80060D7C 0060
+80072A64 0060
+
+[Have 99 blue power gems (used for special attack)]
+Type = Gameshark
+Activation = EndFrame
+80060E88 0063
+

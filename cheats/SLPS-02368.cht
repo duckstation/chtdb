@@ -1,0 +1,17 @@
+; CHTDB: ; [ Marvel vs. Capcom - Clash of Super Heroes - EX Edition (Jpn) (1999) (Capcom) {SLPS-02368} <mvscj> ]
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8007C0CC 0090
+
+[Unlock All Illustrations + Endings]
+Type = Gameshark
+Activation = EndFrame
+9007B6D4 FFFFFFFF
+
+[Unlock Special Partners]
+Type = Gameshark
+Activation = EndFrame
+8007B6D8 FFFF
+

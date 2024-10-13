@@ -1,0 +1,34 @@
+; CHTDB: ; [ Star Gladiator: Episode I: Final Crusade (Europe) {SLES-00495} ]
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801D8210 00C8
+
+[Extra-characters]
+Type = Gameshark
+Activation = EndFrame
+901EAE54 00010101
+
+[P1 - Plasma]
+Type = Gameshark
+Activation = EndFrame
+801BE4FA 7A8D
+801BE51A 7A8D
+801D7F8C 0000
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A71D8B98 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A71D8B98 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A71D8B98 10000400
+

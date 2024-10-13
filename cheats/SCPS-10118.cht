@@ -1,0 +1,50 @@
+; CHTDB: ; [ Crash Bandicoot Racing (Japan) {SCPS-10118} ]
+
+[Ultra hard arcade mode (CPU's are a lot faster)]
+Type = Gameshark
+Activation = EndFrame
+8009BE9C 0280
+
+[Hard Mode CTR Japan]
+Type = Gameshark
+Activation = EndFrame
+80099FE2 0020
+
+[Always 1st Place]
+Type = Gameshark
+Activation = EndFrame
+801F5ACA 0000
+
+[Infinite Items]
+Type = Gameshark
+Activation = EndFrame
+801F5674 000A
+
+[Unlock All Extras]
+Type = Gameshark
+Activation = EndFrame
+50000702 0000
+80091B98 FFFF
+50000F01 0000
+30093058 00FF
+
+[Open all stages]
+Type = Gameshark
+Activation = EndFrame
+90093058 FFFFFFFF
+9009305C FFFFFFFF
+90093060 FFFFFFFF
+80093064 FFFF
+30093066 00FF
+
+[All character appearance]
+Type = Gameshark
+Activation = EndFrame
+90091B98 FFFFFFFF
+90091B9C FFFFFFFF
+
+[Play time]
+Type = Gameshark
+Activation = EndFrame
+80036ECE 2400
+

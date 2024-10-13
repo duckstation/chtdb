@@ -1,0 +1,12 @@
+; CHTDB: ; [ Arcade Hits - Crazy Climber (Jpn, Major Wave Series) (2002) (Hamster) {SLPM-87067} <cclimber> ]
+
+[Crazy Climber\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800458B0 0005
+
+[Crazy Climber '85\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80048730 0005
+

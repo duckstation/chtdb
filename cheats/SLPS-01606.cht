@@ -1,0 +1,38 @@
+; CHTDB: ; [ Aubirdforce: After (Japan) {SLPS-01606} ]
+
+[Infinite HP Main unit]
+Type = Gameshark
+Activation = EndFrame
+801DE3F8 270F
+801DE400 270f
+
+[Carrier-based aircraft original data Vu~aresuta total current HPMAX]
+Type = Gameshark
+Activation = EndFrame
+80078E3C 270F
+
+[Carrier-based aircraft original data Vu~aresuta No.1 machine currently HPMAX]
+Type = Gameshark
+Activation = EndFrame
+80078E3E 0005
+
+[Carrier-based aircraft original data Vu~aresuta No.2 machine currently HPMAX]
+Type = Gameshark
+Activation = EndFrame
+80078E40 0D05
+
+[Carrier-based aircraft original data Vu~aresuta No.3 machine currently HPMAX]
+Type = Gameshark
+Activation = EndFrame
+80078E42 0D05
+
+[Carrier-based aircraft original data Vu~aresuta total maximum HPMAX]
+Type = Gameshark
+Activation = EndFrame
+80078E44 270F
+
+[Carrier-based aircraft original data Vu~aresuta each machine maximum HPMAX]
+Type = Gameshark
+Activation = EndFrame
+80078E46 0D05
+

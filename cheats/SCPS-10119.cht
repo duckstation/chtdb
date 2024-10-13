@@ -1,0 +1,102 @@
+; CHTDB: ; [ The Legend of Dragoon (Jpn) (1999) (SCEI) {SCPS-10119~SCPS-10122} <ldragoonj> ]
+
+[Max Gold]
+Type = Gameshark
+Activation = EndFrame
+900B995C 0098967F
+
+[Tickets MAX]
+Type = Gameshark
+Activation = EndFrame
+300B993C 0063
+
+[Stardust number MAX]
+Type = Gameshark
+Activation = EndFrame
+300B9964 0063
+
+[1 Fight For Max Gold]
+Type = Gameshark
+Activation = EndFrame
+800BB620 FFFF
+
+[1 Fight For Max Exp.]
+Type = Gameshark
+Activation = EndFrame
+900BB65C 000F423F
+
+[Play Time 00.00]
+Type = Gameshark
+Activation = EndFrame
+900B9968 00000000
+
+[Save Anywhere]
+Type = Gameshark
+Activation = EndFrame
+30059068 0001
+
+[Dragoon MAX level after one battle]
+Type = Gameshark
+Activation = EndFrame
+D010B7D4 7001
+8010B7D8 0001
+
+[Experience value MAX in combat once]
+Type = Gameshark
+Activation = EndFrame
+D010B5F0 423E
+8010B5F8 0001
+
+[MAX level in the implementation of Adishonaru once]
+Type = Gameshark
+Activation = EndFrame
+A60CBEF8 00020001
+
+[No Random Battles]
+Type = Gameshark
+Activation = EndFrame
+D00E23F0 5808
+800E23F2 AC20
+D00E3E74 5808
+800E3E76 AC80
+
+[Have all weapons]
+Type = Gameshark
+Activation = EndFrame
+800B9AAC 009E
+300B9B4E 00FF
+50009B01 0001
+300B9AB0 0000
+
+[Enemies weakened beat with a single blow almost.]
+Type = Gameshark
+Activation = EndFrame
+C00EDD00 0028
+900EDD1C 24080001
+800ED022 A4A8
+800EDD2E A4A8
+800EDD3A A4A8
+800EDD46 A4A8
+800EDD56 A4A8
+00000000 FFFF
+
+[SP500 at the start of battle]
+Type = Gameshark
+Activation = EndFrame
+C00F2FFC 0007
+800F300C 0001
+800F2FFC 0001
+00000000 FFFF
+
+[All characters can be selected Save data and Turn OFF code]
+Type = Gameshark
+Activation = EndFrame
+900B9954 00000008
+900B9958 00000001
+300B9CA8 0003
+300B9CD4 0003
+300B9D00 0003
+300B9D2C 0003
+300B9C7C 0003
+300B9C50 0003
+

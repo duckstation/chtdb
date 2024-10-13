@@ -1,0 +1,37 @@
+; CHTDB: ; [ Dragon Valor (Jpn) (1999) (Namco) {SLPS-02190~SLPS-02191} <dvalorj> ]
+
+[Can't Be Hit (Invincibility) (With this code, Only The Poison Could Hurt You!)]
+Type = Gameshark
+Activation = EndFrame
+A6089A34 FFFF0000
+A6089BF4 FFFF0000
+
+[Infinite + Max HP Main Character]
+Type = Gameshark
+Activation = EndFrame
+80089A6E 03E7
+80089A70 03E7
+
+[Infinite + Max MP Main Character]
+Type = Gameshark
+Activation = EndFrame
+80089A72 03E7
+80089A74 03E7
+
+[mAX STR]
+Type = Gameshark
+Activation = EndFrame
+800857E4 03E7
+80089A76 03E7
+
+[Max DEF]
+Type = Gameshark
+Activation = EndFrame
+800857E6 03E7
+80089A78 03E7
+
+[Invincibility not to POISON]
+Type = Gameshark
+Activation = EndFrame
+80089A34 7FFF
+

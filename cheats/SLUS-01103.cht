@@ -1,0 +1,245 @@
+; CHTDB: ; [ Mobil 1 Rally Championship (USA) (2000) (Electronic Arts) {SLUS-01103} <mobil1rc> ]
+
+[Have All Cars]
+Type = Gameshark
+Activation = EndFrame
+D009CF7C 0006
+8009CF80 0018
+D009CF38 73EA
+8009CF3E 0017
+
+[Max Points]
+Type = Gameshark
+Activation = EndFrame
+3001B20D 00FF
+
+[Stop Timer/Always Place 1st You need to turn off the code to let the time goes up a little bit before the race ends as the champ mode does not accept 00.00.00 as your time]
+Type = Gameshark
+Activation = EndFrame
+800F6FB4 06EC
+
+[Select Difficulty\Hard]
+Type = Gameshark
+Activation = EndFrame
+3001AFDC 0000
+
+[Select Difficulty\Medium]
+Type = Gameshark
+Activation = EndFrame
+3001AFDC 0001
+
+[Select Difficulty\Easy]
+Type = Gameshark
+Activation = EndFrame
+3001AFDC 0002
+
+[Select Track\Vauxhall Rally Of Wales - Clocaenag]
+Type = Gameshark
+Activation = EndFrame
+8006AB0E 0000
+
+[Select Track\Vauxhall Rally Of Wales - Penmachno]
+Type = Gameshark
+Activation = EndFrame
+8006AB0E 0001
+
+[Select Track\Vauxhall Rally Of Wales - Myherin]
+Type = Gameshark
+Activation = EndFrame
+8006AB0E 0002
+
+[Select Track\Vauxhall Rally Of Wales - Hafren]
+Type = Gameshark
+Activation = EndFrame
+8006AB0E 0003
+
+[Select Track\Vauxhall Rally Of Wales - Dyfi]
+Type = Gameshark
+Activation = EndFrame
+8006AB0E 0004
+
+[Select Track\Vauxhall Rally Of Wales - Gartheiniog]
+Type = Gameshark
+Activation = EndFrame
+8006AB0E 0005
+
+[Select Track\Pirelli International Rally - Chirdonhead]
+Type = Gameshark
+Activation = EndFrame
+8006AB0E 0006
+
+[Select Track\Pirelli International Rally - Falstone]
+Type = Gameshark
+Activation = EndFrame
+8006AB0E 0007
+
+[Select Track\Pirelli International Rally - Kershope]
+Type = Gameshark
+Activation = EndFrame
+8006AB0E 0008
+
+[Select Track\Pirelli International Rally - Pundershaw]
+Type = Gameshark
+Activation = EndFrame
+8006AB0E 0009
+
+[Select Track\Pirelli International Rally - Riccarton]
+Type = Gameshark
+Activation = EndFrame
+8006AB0E 000A
+
+[Select Track\Pirelli International Rally - Newcastleton]
+Type = Gameshark
+Activation = EndFrame
+8006AB0E 000B
+
+[Select Track\Scottish Rally - Twiglees]
+Type = Gameshark
+Activation = EndFrame
+8006AB0E 000C
+
+[Select Track\Scottish Rally - Yair]
+Type = Gameshark
+Activation = EndFrame
+8006AB0E 000D
+
+[Select Track\Scottish Rally - Cardrona]
+Type = Gameshark
+Activation = EndFrame
+8006AB0E 000E
+
+[Select Track\Scottish Rally - Black Lock]
+Type = Gameshark
+Activation = EndFrame
+8006AB0E 000F
+
+[Select Track\Scottish Rally - Glentrool]
+Type = Gameshark
+Activation = EndFrame
+8006AB0E 0010
+
+[Select Track\Scottish Rally - Ae]
+Type = Gameshark
+Activation = EndFrame
+8006AB0E 0011
+
+[Select Track\The Seat Jim Clark Memorial Rally - Moons And Stars]
+Type = Gameshark
+Activation = EndFrame
+8006AB0E 0012
+
+[Select Track\The Seat Jim Clark Memorial Rally - Bothwell]
+Type = Gameshark
+Activation = EndFrame
+8006AB0E 0013
+
+[Select Track\The Seat Jim Clark Memorial Rally - Whitchester]
+Type = Gameshark
+Activation = EndFrame
+8006AB0E 0014
+
+[Select Track\The Seat Jim Clark Memorial Rally - Eccles]
+Type = Gameshark
+Activation = EndFrame
+8006AB0E 0015
+
+[Select Track\The Seat Jim Clark Memorial Rally - Langton]
+Type = Gameshark
+Activation = EndFrame
+8006AB0E 0016
+
+[Select Track\The Seat Jim Clark Memorial Rally - Fogo]
+Type = Gameshark
+Activation = EndFrame
+8006AB0E 0017
+
+[Select Track\Stena Line Ulster Rally - Hamiltons Fally]
+Type = Gameshark
+Activation = EndFrame
+8006AB0E 0018
+
+[Select Track\Stena Line Ulster Rally - Tyrones Ditches]
+Type = Gameshark
+Activation = EndFrame
+8006AB0E 0019
+
+[Select Track\Stena Line Ulster Rally - Feeny]
+Type = Gameshark
+Activation = EndFrame
+8006AB0E 001A
+
+[Select Track\Stena Line Ulster Rally - Parkanaur]
+Type = Gameshark
+Activation = EndFrame
+8006AB0E 001B
+
+[Select Track\Stena Line Ulster Rally - Lisnamuck]
+Type = Gameshark
+Activation = EndFrame
+8006AB0E 001C
+
+[Select Track\Stena Line Ulster Rally - Tardree]
+Type = Gameshark
+Activation = EndFrame
+8006AB0E 001D
+
+[Select Track\Manx International - Port Saderick]
+Type = Gameshark
+Activation = EndFrame
+8006AB0E 001E
+
+[Select Track\Manx International - Ballagyr]
+Type = Gameshark
+Activation = EndFrame
+8006AB0E 001F
+
+[Select Track\Manx International - Curraghs]
+Type = Gameshark
+Activation = EndFrame
+8006AB0E 0020
+
+[Select Track\Manx International - Tholt-Y-Will]
+Type = Gameshark
+Activation = EndFrame
+8006AB0E 0021
+
+[Select Track\Manx International - Injerbreck]
+Type = Gameshark
+Activation = EndFrame
+8006AB0E 0022
+
+[Select Track\Manx International - Cringle]
+Type = Gameshark
+Activation = EndFrame
+8006AB0E 0023
+
+[Select Track\2-Player Game - Foresters Creek]
+Type = Gameshark
+Activation = EndFrame
+8006AB0E 0024
+
+[Select Track\2-Player Game - Frozen Forest]
+Type = Gameshark
+Activation = EndFrame
+8006AB0E 0025
+
+[Select Track\2-Player Game - Sundown]
+Type = Gameshark
+Activation = EndFrame
+8006AB0E 0026
+
+[Select Track\2-Player Game - Farmers Hazard]
+Type = Gameshark
+Activation = EndFrame
+8006AB0E 0027
+
+[Select Track\2-Player Game - Palm Beach]
+Type = Gameshark
+Activation = EndFrame
+8006AB0E 0028
+
+[Select Track\2-Player Game - Settlers]
+Type = Gameshark
+Activation = EndFrame
+8006AB0E 0029
+

@@ -1,0 +1,17 @@
+; CHTDB: ; [ World Soccer Jikkyou Winning Eleven 2000: U-23 Medal e no Chousen (Japan) {SLP-86600} ]
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A7072A48 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A7072A48 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A7072A48 10000400
+

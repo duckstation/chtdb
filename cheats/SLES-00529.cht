@@ -1,0 +1,7 @@
+; CHTDB: ; [ NBA Jam Extreme (Europe) {SLES-00529} ]
+
+[Other Team Gets No Points]
+Type = Gameshark
+Activation = EndFrame
+8007D09C 0000
+

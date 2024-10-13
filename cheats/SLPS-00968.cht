@@ -1,0 +1,12 @@
+; CHTDB: ; [ Battle Formation (Japan) {SLPS-00968} ]
+
+[P1 Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+8004F862 270F
+
+[P2 Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+8004F8C0 240F
+

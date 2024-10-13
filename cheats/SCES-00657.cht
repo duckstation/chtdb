@@ -1,0 +1,43 @@
+; CHTDB: ; [ Time Crisis (Europe) {SCES-00657} ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800B6590 0005
+
+[Infinite Bullets (No Reload)]
+Type = Gameshark
+Activation = EndFrame
+800B6170 0006
+
+[Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+800B60A8 0009
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800B60B8 0DDD
+
+[Playing Time = 0]
+Type = Gameshark
+Activation = EndFrame
+800B61A4 0000
+
+[Always 1 Shot]
+Type = Gameshark
+Activation = EndFrame
+A60B63E0 00000001
+
+[Always Perfect]
+Type = Gameshark
+Activation = EndFrame
+C20B6270 0001
+800B63E0 0000
+
+[Timer Counts Up]
+Type = Gameshark
+Activation = EndFrame
+800527D0 0001
+

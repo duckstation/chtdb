@@ -1,0 +1,72 @@
+; CHTDB: ; [ Bubsy 3D - Furbitten Planet (USA) (1996) (Accolade) {SLUS-00110} <bubsy3d> ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8002DDC6 2400
+
+[Extra Health]
+Type = Gameshark
+Activation = EndFrame
+8002E23E 2400
+
+[Gliding High Jump (Press triangle)]
+Type = Gameshark
+Activation = EndFrame
+F4020000 00AAFFFF
+3A004104 00000000
+AAAAAAAA AAAAAAAA
+AAAA0024 AAAAAAAA
+AAAAAAAA AAAAAAAA
+
+[Invincibility against common enemies (L3/R3 On/Off)]
+Type = Gameshark
+Activation = EndFrame
+D5000000 00000200
+F4035000 00AA5000
+11004014 00000000
+AAAA033C AAAA6390
+AAAA0010 AAAAAAAA
+1880AAAA 6364AAAA
+00000000 0000FFFF
+D5000000 00000400
+F4035000 00AA5000
+11000010 00000000
+1880AAAA 6364AAAA
+AAAA4014 AAAAAAAA
+AAAAAAAA AAAAAAAA
+
+[Atom Pickup Amount Modifier]
+Type = Gameshark
+Activation = EndFrame
+F402C000 00995000
+01004224 02008014
+999922AE 99998487
+99999999 99999999
+99999999 99999999
+F402C000 00995000
+01004224 01006324
+999982AF 9999422C
+99999999 99999999
+99999999 99999999
+F402C000 00995000
+01006324 A80282AF
+9999422C 999983AF
+99999999 99999999
+99999999 99999999
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A71CBF20 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A71CBF20 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A71CBF20 10000400
+

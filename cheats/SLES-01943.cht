@@ -1,0 +1,23 @@
+; CHTDB: ; [ Radikal Bikers (Europe) {SLES-01943} ]
+
+[Always have perfect pizza]
+Type = Gameshark
+Activation = EndFrame
+800CC2D0 0010
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+800CC2A8 423F
+300CC2AA 000F
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+900AC4DC 00000000
+
+[Opponent and vehicles don't move]
+Type = Gameshark
+Activation = EndFrame
+8009DEA2 1000
+

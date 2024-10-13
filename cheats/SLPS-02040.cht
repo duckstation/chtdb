@@ -1,0 +1,12 @@
+; CHTDB: ; [ Moto Racer 2 (Japan) {SLPS-02040} ]
+
+[Enable All Courses And Modes]
+Type = Gameshark
+Activation = EndFrame
+80010040 FFFF
+
+[Start On 2nd Lap]
+Type = Gameshark
+Activation = EndFrame
+A60CF826 07000701
+

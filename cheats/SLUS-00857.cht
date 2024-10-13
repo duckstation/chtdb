@@ -1,0 +1,28 @@
+; CHTDB: ; [ Ready 2 Rumble Boxing (USA) (1999) (Midway Home Entertainment) {SLUS-00857, SLUS-00857GH} <r2rumble> ]
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80095BD8 0064
+
+[P1 Have RUMBLE]
+Type = Gameshark
+Activation = EndFrame
+80095BE4 0030
+
+[P1 Infinite Health (Alternate Version)]
+Type = Gameshark
+Activation = EndFrame
+900317B0 10800004
+
+[Max Cash]
+Type = Gameshark
+Activation = EndFrame
+90097AD8 00FFFFFF
+
+[Class Champ/Unlocked]
+Type = Gameshark
+Activation = EndFrame
+5011004C 0000
+80097ADE 0003
+

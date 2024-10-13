@@ -1,0 +1,150 @@
+; CHTDB: ; [ Pong - The Next Level (USA) (1999) (Hasbro Interactive) {SLUS-00889} <pongnext> ]
+
+[P1 All Power Ups]
+Type = Gameshark
+Activation = EndFrame
+50000E02 0001
+301F5020 0001
+
+[Unlock Zone 2]
+Type = Gameshark
+Activation = EndFrame
+801F1CD0 0100
+
+[Unlock Zone 3]
+Type = Gameshark
+Activation = EndFrame
+801F1D10 0100
+
+[Unlock Zone 4]
+Type = Gameshark
+Activation = EndFrame
+801F1D50 0100
+
+[Unlock Zone 5]
+Type = Gameshark
+Activation = EndFrame
+801F1D90 0100
+
+[Unlock Zone 6]
+Type = Gameshark
+Activation = EndFrame
+801F1DD0 0100
+
+[Unlock Zone 7]
+Type = Gameshark
+Activation = EndFrame
+801F1E10 0100
+
+[Unlock Zone 8/Old School Pong]
+Type = Gameshark
+Activation = EndFrame
+801F1E50 0100
+
+[Golden Atari Sign]
+Type = Gameshark
+Activation = EndFrame
+801F1E90 0015
+801F1E94 0015
+801F1E98 0015
+
+[Have All The Gold Bars you need this code on when using the 'All Levels Unlocked']
+Type = Gameshark
+Activation = EndFrame
+801F1C84 0063
+
+[All Penguin Pong Levels Unlocked]
+Type = Gameshark
+Activation = EndFrame
+901F1C94 01010105
+
+[All Soccer Stars Levels Unlocked]
+Type = Gameshark
+Activation = EndFrame
+901F1CA0 01010105
+
+[All Log Jam Level Unlocked]
+Type = Gameshark
+Activation = EndFrame
+901F1CAC 01010105
+
+[All Clown Around Levels Unlocked]
+Type = Gameshark
+Activation = EndFrame
+901F1CB8 01010105
+
+[All Beach Party Levels Unlocked]
+Type = Gameshark
+Activation = EndFrame
+901F1CD4 01010105
+
+[All Rock N Roll Levels Unlocked]
+Type = Gameshark
+Activation = EndFrame
+901F1CE0 01010105
+
+[All Seal Jungle Levels Unlocked]
+Type = Gameshark
+Activation = EndFrame
+901F1CEC 01010101
+
+[All In A Spin Levels Unlocked]
+Type = Gameshark
+Activation = EndFrame
+901F1D14 01010105
+
+[All Puck Pong Levels Unlocked]
+Type = Gameshark
+Activation = EndFrame
+901F1D20 01010105
+
+[All Fishing Frenzy Levels Unlocked]
+Type = Gameshark
+Activation = EndFrame
+901F1D2C 01010101
+
+[All Jungle Japes Levels Unlocked]
+Type = Gameshark
+Activation = EndFrame
+901F1D54 01010105
+
+[All Balloon Circus Levels Unlocked]
+Type = Gameshark
+Activation = EndFrame
+901F1D60 01010101
+
+[All Flock Fiasco Levels Unlocked]
+Type = Gameshark
+Activation = EndFrame
+901F1D6C 01010101
+
+[All Dervish Danger Levels Unlocked]
+Type = Gameshark
+Activation = EndFrame
+901F1D94 01010501
+
+[All Pongball Wizard Levels Unlocked]
+Type = Gameshark
+Activation = EndFrame
+901F1DA0 01010101
+
+[All Frog Follies Levels Unlocked]
+Type = Gameshark
+Activation = EndFrame
+901F1DAC 01010101
+
+[All Henhouse Surprise Levels Unlocked]
+Type = Gameshark
+Activation = EndFrame
+901F1DD4 01010501
+
+[All Polar Pivot Levels Unlocked]
+Type = Gameshark
+Activation = EndFrame
+901F1DE0 01010101
+
+[All Zone 7 Levels Unlocked]
+Type = Gameshark
+Activation = EndFrame
+901F1E14 01010101
+

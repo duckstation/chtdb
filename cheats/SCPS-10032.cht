@@ -1,0 +1,72 @@
+; CHTDB: ; [ Princess Maker: Yumemiru Yousei (Japan) {SCPS-10032} ]
+
+[Infinite Money (60000)]
+Type = Gameshark
+Activation = EndFrame
+80163818 EA60
+
+[Getting all clothes]
+Type = Gameshark
+Activation = EndFrame
+800F81E0 0FFF
+
+[Ability of daughter Stamina Max]
+Type = Gameshark
+Activation = EndFrame
+80179078 270F
+
+[Ability of daughter Intelligence Max]
+Type = Gameshark
+Activation = EndFrame
+8017907C 270F
+
+[Ability of daughter Pep Max]
+Type = Gameshark
+Activation = EndFrame
+80179084 270F
+
+[Ability of daughter Pride Max]
+Type = Gameshark
+Activation = EndFrame
+80179088 270F
+
+[Ability of daughter Moral Max]
+Type = Gameshark
+Activation = EndFrame
+8017908C 270F
+
+[Ability of daughter Dignity Max]
+Type = Gameshark
+Activation = EndFrame
+80179090 270F
+
+[Ability of daughter Cast of mind Max]
+Type = Gameshark
+Activation = EndFrame
+80179094 270F
+
+[Ability of daughter Sense Max]
+Type = Gameshark
+Activation = EndFrame
+80179098 270F
+
+[Ability of daughter Attractive Max]
+Type = Gameshark
+Activation = EndFrame
+8017909C 270F
+
+[Ability of daughter Stress Max]
+Type = Gameshark
+Activation = EndFrame
+801790A0 270F
+
+[Ability of daughter Valor Max]
+Type = Gameshark
+Activation = EndFrame
+801790A4 270F
+
+[Ability of daughter Reliability Max]
+Type = Gameshark
+Activation = EndFrame
+801790A8 03E8
+

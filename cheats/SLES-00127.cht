@@ -1,0 +1,57 @@
+; CHTDB: ; [ Krazy Ivan (Germany) {SLES-00127} ]
+
+[Unendlich Schilde]
+Type = Gameshark
+Activation = EndFrame
+800C4D9C 0064
+800C4DA0 0064
+800C4DA4 0032
+800C4DA8 0032
+800C4DAC 0032
+800C4DB0 0032
+800C4DB4 0032
+800C4DB8 0064
+
+[Unendlich Munition]
+Type = Gameshark
+Activation = EndFrame
+8008D270 012C
+8008D274 00FA
+8008D278 003C
+8008D27C 0046
+
+[Unendlich Raketen]
+Type = Gameshark
+Activation = EndFrame
+8008D2A0 000A
+8008D2A4 000A
+8008D2A8 000A
+8008D2AC 000A
+8008D2B0 000A
+8008D2B4 000A
+
+[Unendlich Specials]
+Type = Gameshark
+Activation = EndFrame
+8008D280 0005
+8008D284 0003
+8008D288 0001
+8008D28C 0001
+8008D290 0001
+8008D294 0001
+
+[Max. Energy-Cores]
+Type = Gameshark
+Activation = EndFrame
+8008973C 00D0
+
+[LaserküHler]
+Type = Gameshark
+Activation = EndFrame
+800D1D38 0000
+
+[HäLt Zeit An]
+Type = Gameshark
+Activation = EndFrame
+800C4DBE 0009
+

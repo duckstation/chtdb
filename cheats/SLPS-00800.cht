@@ -1,0 +1,44 @@
+; CHTDB: ; [ Street Fighter Collection (Jpn) (1997) (Capcom) {SLPS-00800~SLPS-00801} <sfcollj> ]
+
+[Street Fighter II\P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80175458 0090
+
+[Street Fighter II\P2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801757C4 0090
+
+[Street Fighter II\P2 No Energy]
+Type = Gameshark
+Activation = EndFrame
+801757C4 0000
+
+[Street Fighter IIX\P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80175458 0090
+
+[Street Fighter IIX\P2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801757C4 0090
+
+[Street Fighter IIX\P2 No Energy]
+Type = Gameshark
+Activation = EndFrame
+801757C4 0000
+
+[Street Fighter IIX\P1 Maximum Super Bar]
+Type = Gameshark
+Activation = EndFrame
+80175666 3000
+80175668 0030
+
+[Street Fighter IIX\P2 Maximum Super Bar]
+Type = Gameshark
+Activation = EndFrame
+801759D2 3000
+801759D4 0030
+

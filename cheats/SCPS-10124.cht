@@ -1,0 +1,95 @@
+; CHTDB: ; [ Love & Destroy (Jpn) (1999) (SCEI) {SCPS-10124} <lovedest> ]
+
+[No Damage]
+Type = Gameshark
+Activation = EndFrame
+D0073828 6400
+80073826 6400
+D0074670 6400
+8007466E 6400
+D0077210 6400
+8007720E 6400
+D0079680 6400
+8007967E 6400
+D007D5A0 6400
+8007D59E 6400
+D007D270 6400
+8007D26E 6400
+
+[All Movies]
+Type = Gameshark
+Activation = EndFrame
+9017A8C0 FFFFFFFF
+9017A8C4 FFFFFFFF
+9017A8C8 0001FFFF
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+801765F4 0000
+
+[Present appearance]
+Type = Gameshark
+Activation = EndFrame
+3015F56F 0080
+
+[ViVi ROOM fully open]
+Type = Gameshark
+Activation = EndFrame
+9015F560 FFFFFFFF
+9015F564 FFFFFFFF
+9015F568 FFFFFFFF
+8015F56C 000F
+
+[LuLu ROOM fully open]
+Type = Gameshark
+Activation = EndFrame
+9015F570 FFFFFFFF
+9015F574 FFFFFFFF
+9015F578 FFFFFFFF
+8015F57C 000F
+
+[KiKi ROOM fully open]
+Type = Gameshark
+Activation = EndFrame
+9015F580 FFFFFFFF
+9015F584 FFFFFFFF
+9015F588 FFFFFFFF
+8015F58C 000F
+
+[ViVi/LuLu/Kiki love degree]
+Type = Gameshark
+Activation = EndFrame
+8015F6C8 03E7
+
+[ViVi/LuLu/Kiki selection frequency]
+Type = Gameshark
+Activation = EndFrame
+8015F6D4 0003
+
+[Invincibility and boss killer blow]
+Type = Gameshark
+Activation = EndFrame
+A6178056 A487A480
+A605A1E6 A662A660
+A617773A 00430040
+A6073826 00006400
+A607466E 00006400
+A607720E 00006400
+A607967E 00006400
+A607D59E 00006400
+A607D26E 00006400
+
+[Mortal blow .Presss Select+Triangle]
+Type = Gameshark
+Activation = EndFrame
+D015B74A 0110
+80177752 1400
+D015B74A 0180
+80177752 1C80
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+80152FA0 0CD3
+

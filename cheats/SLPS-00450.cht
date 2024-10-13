@@ -1,0 +1,40 @@
+; CHTDB: ; [ Smash Court (Japan) {SLPS-00450} ]
+
+[Hidden Character]
+Type = Gameshark
+Activation = EndFrame
+8009C470 0001
+
+[P1 Games Win 5]
+Type = Gameshark
+Activation = EndFrame
+800C2B68 0005
+
+[P1 Games Win 6]
+Type = Gameshark
+Activation = EndFrame
+800C2B68 0006
+
+[P1 Points 40]
+Type = Gameshark
+Activation = EndFrame
+8009C434 0003
+
+[To be able to put things as long as you allow the place in your own coat]
+Type = Gameshark
+Activation = EndFrame
+8009C624 0000
+801F16EE 0000
+901F16F0 00000000
+
+[Coupon MAX]
+Type = Gameshark
+Activation = EndFrame
+801F156E 03E7
+
+[Item fully open]
+Type = Gameshark
+Activation = EndFrame
+50007F01 0000
+301F157C 0063
+

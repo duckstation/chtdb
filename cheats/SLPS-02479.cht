@@ -1,0 +1,73 @@
+; CHTDB: ; [ Soumatou (Japan) {SLPS-02479} ]
+
+[Infinite Life]
+Type = Gameshark
+Activation = EndFrame
+800C22AE 0190
+
+[Possession Dreak Max]
+Type = Gameshark
+Activation = EndFrame
+900B7CDC 7FFFFFFF
+
+[All special trap available]
+Type = Gameshark
+Activation = EndFrame
+50000602 0000
+800B9E18 0001
+50000604 0001
+800B9F70 0064
+
+[HP0 enemy that appeared Press select button]
+Type = Gameshark
+Activation = EndFrame
+D00BF472 0100
+800BA07A 0000
+D00BF472 0100
+800BA142 0000
+
+[Player Damage 0]
+Type = Gameshark
+Activation = EndFrame
+800C24FC 0000
+
+[Scenario select Press L2 + R2 button (01-20) Slected 20]
+Type = Gameshark
+Activation = EndFrame
+D00BF472 0003
+300BEFF2 0020
+
+[Kokumeikan fully open]
+Type = Gameshark
+Activation = EndFrame
+50006402 0000
+800B9D50 00FF
+50000602 0000
+800B9E18 0001
+
+[Enemy death One animal died in the first select + L2 Two animals died in the first SELECT + R2]
+Type = Gameshark
+Activation = EndFrame
+D00BF472 0101
+800BA07A 0000
+D00BF472 0102
+800BA142 0000
+
+[Expert Mode Cleared]
+Type = Gameshark
+Activation = EndFrame
+900C24C0 FFFFFFFF
+900C24C4 FFFFFFFF
+900C24C8 FFFFFFFF
+800C24CC 00FF
+
+[Does not decrease stamina]
+Type = Gameshark
+Activation = EndFrame
+A6118762 A4A2A4A3
+
+[Charge time 0]
+Type = Gameshark
+Activation = EndFrame
+A611695E A4E2A4E0
+

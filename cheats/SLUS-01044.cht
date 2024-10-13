@@ -1,0 +1,49 @@
+; CHTDB: ; [ BattleTanx - Global Assault (USA) (2000) (The 3DO Company) {SLUS-01044} <btltanx> ]
+
+[Infinite Ammo (All Special Weapons On Pick Up)]
+Type = Gameshark
+Activation = EndFrame
+D0042E48 FFFF
+30042E4C 0064
+
+[Infinite Tank Bucks]
+Type = Gameshark
+Activation = EndFrame
+800E3DC0 0063
+
+[Infinite Ammo (Normal Weapon)]
+Type = Gameshark
+Activation = EndFrame
+D0042D8C FFFF
+80042D90 0064
+
+[P1 Infinite Health (Deathmatch Modes)]
+Type = Gameshark
+Activation = EndFrame
+800AAF64 0030
+
+[P1 Infinite Health (Frenzy + Family Modes)]
+Type = Gameshark
+Activation = EndFrame
+800DE54C 007D
+
+[P1 Infinite Health (Battlelord, Hold-Em, Tank Wars + Campaign Modes)]
+Type = Gameshark
+Activation = EndFrame
+800DEAE4 007D
+
+[P2 Infinite Health (Battlelord, Frenzy, Hold Em, Family, Tank Wars + Deathmatch Modes)]
+Type = Gameshark
+Activation = EndFrame
+800DF614 007D
+
+[P2 Infinite Health (Campaign Modes)]
+Type = Gameshark
+Activation = EndFrame
+800DF07C 007D
+
+[Unlock All Levels]
+Type = Gameshark
+Activation = EndFrame
+800A60D8 0005
+

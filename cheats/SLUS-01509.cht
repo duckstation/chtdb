@@ -1,0 +1,30 @@
+; CHTDB: ; [ Jigsaw Madness (USA) (2002) (XS Games) {SLUS-01509} <jigsawmd> ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800DAC58 0000
+
+[Story Mode/Opponent Select]
+Type = Gameshark
+Activation = EndFrame
+D0098518 0001
+800C0014 0003
+
+[Enable Debug Menu]
+Type = Gameshark
+Activation = EndFrame
+30098156 0000
+D0098518 0100
+300984F8 0000
+
+[Infinite Items]
+Type = Gameshark
+Activation = EndFrame
+800E72AC 7464
+
+[Infinite Power]
+Type = Gameshark
+Activation = EndFrame
+800E7270 6B10
+

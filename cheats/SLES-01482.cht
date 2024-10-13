@@ -1,0 +1,54 @@
+; CHTDB: ; [ Future Cop: L.A.P.D. (Germany) {SLES-01482} ]
+
+[Unendlich Munition]
+Type = Gameshark
+Activation = EndFrame
+8006BF98 0000
+
+[Unendlich Munition FüR Updates]
+Type = Gameshark
+Activation = EndFrame
+8006BF90 0000
+
+[Alle Zonen AnwäHlbar .Diesen Code nicht im Revierkampf-Modus aktivieren.]
+Type = Gameshark
+Activation = EndFrame
+8009FBAA 0007
+
+[Alle Zonen Abgeschlossen .Diesen Code nicht im Revierkampf-Modus aktivieren.]
+Type = Gameshark
+Activation = EndFrame
+8009F7A4 0008
+
+[Alle 4 Leichten Waffen]
+Type = Gameshark
+Activation = EndFrame
+8009C3FE 0004
+
+[Alle 4 Schweren Waffen]
+Type = Gameshark
+Activation = EndFrame
+8009C412 0004
+
+[Alle 4 Spezial-Waffen]
+Type = Gameshark
+Activation = EndFrame
+8009C426 0004
+
+[Unendlich Panzerung]
+Type = Gameshark
+Activation = EndFrame
+80058558 2400
+
+[Revierkampf Codes\P1 Unendlich Punkte Drücke L2 + R2]
+Type = Gameshark
+Activation = EndFrame
+D009FD5A 0030
+801FBF60 00FF
+
+[Revierkampf Codes\P2 Unendlich Punkte Drücke L2 + R2]
+Type = Gameshark
+Activation = EndFrame
+D009FD5E 0030
+801FBF64 00FF
+

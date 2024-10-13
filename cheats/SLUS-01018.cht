@@ -1,0 +1,98 @@
+; CHTDB: ; [ Ms. Pac-Man Maze Madness (USA, v1.0) (2000) (Namco Hometek) {SLUS-01018} <mspacmma> ]
+
+[Have Cherry]
+Type = Gameshark
+Activation = EndFrame
+80109510 0001
+
+[Have Stawberry]
+Type = Gameshark
+Activation = EndFrame
+80109512 0001
+
+[Have Peach]
+Type = Gameshark
+Activation = EndFrame
+80109514 0001
+
+[Have Pretzel]
+Type = Gameshark
+Activation = EndFrame
+80109516 0001
+
+[Have Apple]
+Type = Gameshark
+Activation = EndFrame
+80109518 0001
+
+[Have Pear]
+Type = Gameshark
+Activation = EndFrame
+8010951A 0001
+
+[Have Banana]
+Type = Gameshark
+Activation = EndFrame
+8010951C 0001
+
+[Have Gold Key]
+Type = Gameshark
+Activation = EndFrame
+8010951E 0001
+
+[Have Red Key]
+Type = Gameshark
+Activation = EndFrame
+80109520 0001
+
+[Have Blue Key]
+Type = Gameshark
+Activation = EndFrame
+80109522 0001
+
+[Have Green Key]
+Type = Gameshark
+Activation = EndFrame
+80109524 0001
+
+[Have Purple Key]
+Type = Gameshark
+Activation = EndFrame
+80109526 0001
+
+[Ms. Pac-Skate Mode]
+Type = Gameshark
+Activation = EndFrame
+8010961A 0001
+
+[Plenty Of Pac-Dots]
+Type = Gameshark
+Activation = EndFrame
+A61F81CA 000103E7
+
+[Have All Fruit And Keys]
+Type = Gameshark
+Activation = EndFrame
+50000C02 0000
+80109510 0001
+
+[Infinite Lives-Classic Mode]
+Type = Gameshark
+Activation = EndFrame
+A60F5800 00020063
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A71F3828 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A71F3828 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A71F3828 10000400
+

@@ -1,0 +1,111 @@
+; CHTDB: ; [ Forsaken (Europe) {SLES-00745} ]
+
+[Primary Weapons\Trojax]
+Type = Gameshark
+Activation = EndFrame
+30086742 0001
+800866FC 8000
+
+[Primary Weapons\Pyrolite]
+Type = Gameshark
+Activation = EndFrame
+30086743 0001
+800866FE 8000
+
+[Primary Weapons\Beamlaser]
+Type = Gameshark
+Activation = EndFrame
+30086744 0001
+80086602 8000
+
+[Primary Weapons\Orbit Pulsar]
+Type = Gameshark
+Activation = EndFrame
+8008672E 0001
+
+[Primary Weapons\Transpulse]
+Type = Gameshark
+Activation = EndFrame
+30086741 0001
+
+[Primary Weapons\Suss Gun]
+Type = Gameshark
+Activation = EndFrame
+30086745 0001
+80086700 8000
+
+[Primary Weapons\Pulsar]
+Type = Gameshark
+Activation = EndFrame
+800866FC 8000
+
+[Secondary Weapons\Infinite Mug]
+Type = Gameshark
+Activation = EndFrame
+80086746 0507
+
+[Secondary Weapons\Infinite Solaris]
+Type = Gameshark
+Activation = EndFrame
+80086748 000F
+
+[Secondary Weapons\Infinite Gravgon]
+Type = Gameshark
+Activation = EndFrame
+8008674C 000F
+
+[Secondary Weapons\Infinite Scatter]
+Type = Gameshark
+Activation = EndFrame
+3008674A 000F
+
+[Secondary Weapons\Infinite Purge]
+Type = Gameshark
+Activation = EndFrame
+8008674E 000F
+
+[Secondary Weapons\Infinite Pine]
+Type = Gameshark
+Activation = EndFrame
+30086750 000F
+
+[Secondary Weapons\Infinite Mfrl]
+Type = Gameshark
+Activation = EndFrame
+3008674D 000F
+
+[Secondary Weapons\Infinite Quantum]
+Type = Gameshark
+Activation = EndFrame
+30086751 000F
+
+[Secondary Weapons\Infinite Titan]
+Type = Gameshark
+Activation = EndFrame
+3008674B 000F
+
+[Secondary Weapons\Infinite Shield]
+Type = Gameshark
+Activation = EndFrame
+800866F4 1000
+
+[Secondary Weapons\Infinite Hull]
+Type = Gameshark
+Activation = EndFrame
+800866F6 1000
+
+[Secondary Weapons\Infinite Bikes]
+Type = Gameshark
+Activation = EndFrame
+300CCEB0 00FF
+
+[Secondary Weapons\Infinite Crystals]
+Type = Gameshark
+Activation = EndFrame
+300CCEB1 00FF
+
+[Secondary Weapons\Infinite Powerpods]
+Type = Gameshark
+Activation = EndFrame
+80086720 00FF
+

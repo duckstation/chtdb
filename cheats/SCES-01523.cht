@@ -1,0 +1,17 @@
+; CHTDB: ; [ Disney/Pixar Bichos Una Aventura en Miniatura (Spain) (Platinum) {SCES-01523} ]
+
+[Energia Infinita]
+Type = Gameshark
+Activation = EndFrame
+800A8C94 0004
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800B288A 0009
+
+[Have All Levels Unlocked]
+Type = Gameshark
+Activation = EndFrame
+80082404 000F
+

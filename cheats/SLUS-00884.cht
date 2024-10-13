@@ -1,0 +1,373 @@
+; CHTDB: ; [ Star Wars - Episode I - The Phantom Menace (USA) (1999) (LucasArts Entertainment Company) {SLUS-00884} <swep1> ]
+
+[Open Cheat Menu (Press Select At Title Screen)]
+Type = Gameshark
+Activation = EndFrame
+D0086268 0100
+800B3A50 0004
+
+[Invincibility (All Characters)]
+Type = Gameshark
+Activation = EndFrame
+800B6944 0001
+
+[Infinite Ammo (All Characters)]
+Type = Gameshark
+Activation = EndFrame
+8004E036 2400
+
+[Max Force]
+Type = Gameshark
+Activation = EndFrame
+800B829C 1000
+
+[Have All Items]
+Type = Gameshark
+Activation = EndFrame
+800B7B72 FFFF
+900B7B74 FFFFFFFF
+
+[Stop Game Timer]
+Type = Gameshark
+Activation = EndFrame
+800B4096 0000
+
+[Moonjump (Hold X for Moonjump L1+R1 to hover)]
+Description = Don't jump too high or you will fall to your death.
+Type = Gameshark
+Activation = EndFrame
+E00775F4 0040
+100B81A4 001E
+E00775F4 0040
+300B82E8 0003
+E00775F4 000C
+300B82E8 0003
+
+[Hover + Multi-Jump (Keep holding X to hover, hold longer to double jump)]
+Type = Gameshark
+Activation = EndFrame
+E00775F4 0040
+300B82E8 0003
+
+[All Characters Use Obi-Wan's Weapon Codes]
+Type = Gameshark
+Activation = EndFrame
+800B86F4 0000
+
+[Walk Through Walls L3/R3 On/Off]
+Type = Gameshark
+Activation = EndFrame
+E00775F5 0002
+8005A732 1400
+E00775F5 0004
+8005A732 0500
+
+[Look Through Walls (Hold L1+R1)]
+Type = Gameshark
+Activation = EndFrame
+800538A2 00001000
+D7100000 0000000C
+800538A2 0000106C
+00000000 0000FFFF
+
+[Select Action\Swing Sword (Fast)]
+Type = Gameshark
+Activation = EndFrame
+80086674 0001
+
+[Select Action\Double Jump]
+Type = Gameshark
+Activation = EndFrame
+80086674 0002
+
+[Select Starting Level\Trade Federation Ship]
+Type = Gameshark
+Activation = EndFrame
+E00B3A3B 0000
+300B3A3B 0000
+
+[Select Starting Level\The Swamps of Naboo]
+Type = Gameshark
+Activation = EndFrame
+E00B3A3B 0000
+300B3A3B 0001
+
+[Select Starting Level\Otoh Gunqa]
+Type = Gameshark
+Activation = EndFrame
+E00B3A3B 0000
+300B3A3B 0002
+
+[Select Starting Level\Gardens of Theed]
+Type = Gameshark
+Activation = EndFrame
+E00B3A3B 0000
+300B3A3B 0003
+
+[Select Starting Level\Escape from Theed]
+Type = Gameshark
+Activation = EndFrame
+E00B3A3B 0000
+300B3A3B 0004
+
+[Select Starting Level\Mos Espa]
+Type = Gameshark
+Activation = EndFrame
+300B3A3B 0005
+E00B3A3B 0000
+
+[Select Starting Level\The Mos Espa Arena]
+Type = Gameshark
+Activation = EndFrame
+E00B3A3B 0000
+300B3A3B 0006
+
+[Select Starting Level\Encounter in the Desert]
+Type = Gameshark
+Activation = EndFrame
+E00B3A3B 0000
+300B3A3B 0007
+
+[Select Starting Level\Coruscant]
+Type = Gameshark
+Activation = EndFrame
+E00B3A3B 0000
+300B3A3B 0008
+
+[Select Starting Level\Assualt on Theed]
+Type = Gameshark
+Activation = EndFrame
+E00B3A3B 0000
+300B3A3B 0009
+
+[Select Starting Level\The Final Battle]
+Type = Gameshark
+Activation = EndFrame
+E00B3A3B 0000
+300B3A3B 000A
+
+[Captain Panaka Codes\Have 999 Flash Grenades]
+Type = Gameshark
+Activation = EndFrame
+800B8554 03E7
+
+[Captain Panaka Codes\Have 999 Gungan Energy Balls]
+Type = Gameshark
+Activation = EndFrame
+800B8550 03E7
+
+[Captain Panaka Codes\Have 999 Thermal Detonators]
+Type = Gameshark
+Activation = EndFrame
+800B854C 03E7
+
+[Captain Panaka Codes\Have Blaster With 999 Ammo]
+Type = Gameshark
+Activation = EndFrame
+800B8540 03E7
+
+[Captain Panaka Codes\Have Droid Stunner]
+Type = Gameshark
+Activation = EndFrame
+800B855C 0001
+
+[Captain Panaka Codes\Have Light Repeating Blaster With 999 Ammo]
+Type = Gameshark
+Activation = EndFrame
+800B8544 03E7
+
+[Captain Panaka Codes\Have Lightsaber]
+Type = Gameshark
+Activation = EndFrame
+800B853C 0001
+
+[Captain Panaka Codes\Have Naboo Blaster With 999 Ammo]
+Type = Gameshark
+Activation = EndFrame
+800B8564 03E7
+
+[Captain Panaka Codes\Have Proton Missle Launcher With 999 Ammo]
+Type = Gameshark
+Activation = EndFrame
+800B8548 03E7
+
+[Captain Panaka Codes\Have R-65 Heavy Blaster With 999 Ammo]
+Type = Gameshark
+Activation = EndFrame
+800B8560 03E7
+
+[Captain Panaka Codes\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800B8528 0064
+
+[Obi-Wan Kenobi Codes\Have 999 Flash Grenades]
+Type = Gameshark
+Activation = EndFrame
+800B84BC 03E7
+
+[Obi-Wan Kenobi Codes\Have 999 Gungan Energy Balls]
+Type = Gameshark
+Activation = EndFrame
+800B84B8 03E7
+
+[Obi-Wan Kenobi Codes\Have 999 Thermal Detonators]
+Type = Gameshark
+Activation = EndFrame
+800B84B4 03E7
+
+[Obi-Wan Kenobi Codes\Have Blaster With 999 Ammo]
+Type = Gameshark
+Activation = EndFrame
+800B84A8 03E7
+
+[Obi-Wan Kenobi Codes\Have Droid Stunner]
+Type = Gameshark
+Activation = EndFrame
+800B84C4 0001
+
+[Obi-Wan Kenobi Codes\Have Light Repeating Blaster With 999 Ammo]
+Type = Gameshark
+Activation = EndFrame
+800B84AC 03E7
+
+[Obi-Wan Kenobi Codes\Have Lightsaber]
+Type = Gameshark
+Activation = EndFrame
+800B84A4 0001
+
+[Obi-Wan Kenobi Codes\Have Naboo Blaster With 999 Ammo]
+Type = Gameshark
+Activation = EndFrame
+800B84CC 03E7
+
+[Obi-Wan Kenobi Codes\Have Proton Missle Launcher With 999 Ammo]
+Type = Gameshark
+Activation = EndFrame
+800B84B0 03E7
+
+[Obi-Wan Kenobi Codes\Have R-65 Heavy Blaster With 999 Ammo]
+Type = Gameshark
+Activation = EndFrame
+800B84C8 03E7
+
+[Obi-Wan Kenobi Codes\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800B8490 0064
+
+[Queen Amidala Codes\Have 999 Flash Grenades]
+Type = Gameshark
+Activation = EndFrame
+800B85A0 03E7
+
+[Queen Amidala Codes\Have 999 Gungan Energy Balls]
+Type = Gameshark
+Activation = EndFrame
+800B859C 03E7
+
+[Queen Amidala Codes\Have 999 Thermal Detonators]
+Type = Gameshark
+Activation = EndFrame
+800B8598 03E7
+
+[Queen Amidala Codes\Have Blaster With 999 Ammo]
+Type = Gameshark
+Activation = EndFrame
+800B858C 03E7
+
+[Queen Amidala Codes\Have Debug Menu Open (Press L1+Select+Triangle On Main Menu)]
+Type = Gameshark
+Activation = EndFrame
+80077A38 0924
+
+[Queen Amidala Codes\Have Droid Stunner]
+Type = Gameshark
+Activation = EndFrame
+800B85A8 0001
+
+[Queen Amidala Codes\Have Light Repeating Blaster With 999 Ammo]
+Type = Gameshark
+Activation = EndFrame
+800B8590 03E7
+
+[Queen Amidala Codes\Have Lightsaber]
+Type = Gameshark
+Activation = EndFrame
+800B8588 0001
+
+[Queen Amidala Codes\Have Naboo Blaster With 999 Ammo]
+Type = Gameshark
+Activation = EndFrame
+800B85B0 03E7
+
+[Queen Amidala Codes\Have Proton Missle Launcher With 999 Ammo]
+Type = Gameshark
+Activation = EndFrame
+800B8594 03E7
+
+[Queen Amidala Codes\Have R-65 Heavy Blaster With 999 Ammo]
+Type = Gameshark
+Activation = EndFrame
+800B85AC 03E7
+
+[Queen Amidala Codes\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800B8574 0064
+
+[Qui-Gon Jinn Codes\Have 999 Flash Grenades]
+Type = Gameshark
+Activation = EndFrame
+800B8508 03E7
+
+[Qui-Gon Jinn Codes\Have 999 Gungan Energy Balls]
+Type = Gameshark
+Activation = EndFrame
+800B8504 03E7
+
+[Qui-Gon Jinn Codes\Have 999 Thermal Detonators]
+Type = Gameshark
+Activation = EndFrame
+800B8500 03E7
+
+[Qui-Gon Jinn Codes\Have Blaster With 999 Ammo]
+Type = Gameshark
+Activation = EndFrame
+800B84F4 03E7
+
+[Qui-Gon Jinn Codes\Have Droid Stunner]
+Type = Gameshark
+Activation = EndFrame
+800B8510 0001
+
+[Qui-Gon Jinn Codes\Have Light Repeating Blaster With 999 Ammo]
+Type = Gameshark
+Activation = EndFrame
+800B84F8 03E7
+
+[Qui-Gon Jinn Codes\Have Lightsaber]
+Type = Gameshark
+Activation = EndFrame
+800B84F0 0001
+
+[Qui-Gon Jinn Codes\Have Naboo Blaster With 999 Ammo]
+Type = Gameshark
+Activation = EndFrame
+800B8518 03E7
+
+[Qui-Gon Jinn Codes\Have Proton Missle Launcher With 999 Ammo]
+Type = Gameshark
+Activation = EndFrame
+800B84FC 03E7
+
+[Qui-Gon Jinn Codes\Have R-65 Heavy Blaster With 999 Ammo]
+Type = Gameshark
+Activation = EndFrame
+800B8514 03E7
+
+[Qui-Gon Jinn Codes\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800B84DC 0064
+

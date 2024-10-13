@@ -1,0 +1,935 @@
+; CHTDB: ; [ Vigilante 8: 2nd Offense aka Vigilante 8: Second Offense (Europe) {SLES-02162} ]
+
+[Infinite Interceptor Missiles - Both Players]
+Type = Gameshark
+Activation = EndFrame
+800447FA 3C00
+
+[Infinite Bull's Eye Rockets - Both Players]
+Type = Gameshark
+Activation = EndFrame
+80046956 3C00
+
+[Infinite Sky Hammer Motar - Both Players]
+Type = Gameshark
+Activation = EndFrame
+80043852 3C00
+
+[Infinite Bruiser Cannon - Both Players]
+Type = Gameshark
+Activation = EndFrame
+80045442 3C00
+
+[Infinite Roadkill Mines - Both Players]
+Type = Gameshark
+Activation = EndFrame
+80047C76 3C00
+
+[Infinite Brimstone Burner - Both Players]
+Type = Gameshark
+Activation = EndFrame
+8004911E 3C00
+
+[Infinite Power-Ups On Pickup - Both Players]
+Type = Gameshark
+Activation = EndFrame
+80041EF6 3C00
+
+[P1-Codes\Quest Completed - Sheila]
+Type = Gameshark
+Activation = EndFrame
+8006BAF8 01FF
+
+[P1-Codes\Max Acceleration - Sheila]
+Type = Gameshark
+Activation = EndFrame
+3006BAFE 0064
+
+[P1-Codes\Max Speed - Sheila]
+Type = Gameshark
+Activation = EndFrame
+3006BAFF 0064
+
+[P1-Codes\Max Armor - Sheila]
+Type = Gameshark
+Activation = EndFrame
+3006BB00 0064
+
+[P1-Codes\Max Target Avoidance - Sheila]
+Type = Gameshark
+Activation = EndFrame
+3006BB01 0064
+
+[P1-Codes\Quest Completed - John Torque]
+Type = Gameshark
+Activation = EndFrame
+8006BB02 01FF
+
+[P1-Codes\Max Acceleration - John Torque]
+Type = Gameshark
+Activation = EndFrame
+3006BB08 0064
+
+[P1-Codes\Max Speed - John Torque]
+Type = Gameshark
+Activation = EndFrame
+3006BB09 0064
+
+[P1-Codes\Max Armor - John Torque]
+Type = Gameshark
+Activation = EndFrame
+3006BB0A 0064
+
+[P1-Codes\Max Target Avoidance - John Torque]
+Type = Gameshark
+Activation = EndFrame
+3006BB0B 0064
+
+[P1-Codes\Quest Completed - Flying All Star Trio]
+Type = Gameshark
+Activation = EndFrame
+8006BB0C 01FF
+
+[P1-Codes\Max Acceleration - Flying All Star Trio]
+Type = Gameshark
+Activation = EndFrame
+3006BB12 0064
+
+[P1-Codes\Max Speed - Flying All Star Trio]
+Type = Gameshark
+Activation = EndFrame
+3006BB13 0064
+
+[P1-Codes\Max Armor - Flying All Star Trio]
+Type = Gameshark
+Activation = EndFrame
+3006BB14 0064
+
+[P1-Codes\Max Target Avoidance - Flying All Star Trio]
+Type = Gameshark
+Activation = EndFrame
+3006BB15 0064
+
+[P1-Codes\Quest Completed - Houston]
+Type = Gameshark
+Activation = EndFrame
+8006BB16 01FF
+
+[P1-Codes\Max Acceleration - Houston]
+Type = Gameshark
+Activation = EndFrame
+3006BB1C 0064
+
+[P1-Codes\Max Speed - Houston]
+Type = Gameshark
+Activation = EndFrame
+3006BB1D 0064
+
+[P1-Codes\Max Armor - Houston]
+Type = Gameshark
+Activation = EndFrame
+3006BB1E 0064
+
+[P1-Codes\Max Target Avoidance - Houston]
+Type = Gameshark
+Activation = EndFrame
+3006BB1F 0064
+
+[P1-Codes\Quest Completed - Convoy]
+Type = Gameshark
+Activation = EndFrame
+8006BB20 01FF
+
+[P1-Codes\Max Acceleration - Convoy]
+Type = Gameshark
+Activation = EndFrame
+3006BB26 0064
+
+[P1-Codes\Max Speed - Convoy]
+Type = Gameshark
+Activation = EndFrame
+3006BB27 0064
+
+[P1-Codes\Max Armor - Convoy]
+Type = Gameshark
+Activation = EndFrame
+3006BB28 0064
+
+[P1-Codes\Max Target Avoidance - Convoy]
+Type = Gameshark
+Activation = EndFrame
+3006BB29 0064
+
+[P1-Codes\Max Acceleration - Dave's Cultsmen]
+Type = Gameshark
+Activation = EndFrame
+3006BB30 0064
+
+[P1-Codes\Max Speed - Dave's Cultsmen]
+Type = Gameshark
+Activation = EndFrame
+3006BB31 0064
+
+[P1-Codes\Max Armor - Dave's Cultsmen]
+Type = Gameshark
+Activation = EndFrame
+3006BB32 0064
+
+[P1-Codes\Max Target Avoidance - Dave's Cultsmen]
+Type = Gameshark
+Activation = EndFrame
+3006BB33 0064
+
+[P1-Codes\Quest Completed - Dallas 13]
+Type = Gameshark
+Activation = EndFrame
+8006BB34 01FF
+
+[P1-Codes\Max Acceleration - Dallas 13]
+Type = Gameshark
+Activation = EndFrame
+3006BB3A 0064
+
+[P1-Codes\Max Speed - Dallas 13]
+Type = Gameshark
+Activation = EndFrame
+3006BB3B 0064
+
+[P1-Codes\Max Armor - Dallas 13]
+Type = Gameshark
+Activation = EndFrame
+3006BB3C 0064
+
+[P1-Codes\Max Target Avoidance - Dallas 13]
+Type = Gameshark
+Activation = EndFrame
+3006BB3D 0064
+
+[P1-Codes\Quest Completed - Nina Loco]
+Type = Gameshark
+Activation = EndFrame
+8006BB3E 01FF
+
+[P1-Codes\Max Acceleration - Nina Loco]
+Type = Gameshark
+Activation = EndFrame
+3006BB44 0064
+
+[P1-Codes\Max Speed - Nina Loco]
+Type = Gameshark
+Activation = EndFrame
+3006BB45 0064
+
+[P1-Codes\Max Armor - Nina Loco]
+Type = Gameshark
+Activation = EndFrame
+3006BB46 0064
+
+[P1-Codes\Max Target Avoidance - Nina Loco]
+Type = Gameshark
+Activation = EndFrame
+3006BB47 0064
+
+[P1-Codes\Quest Completed - Molo]
+Type = Gameshark
+Activation = EndFrame
+8006BB48 01FF
+
+[P1-Codes\Max Acceleration - Molo]
+Type = Gameshark
+Activation = EndFrame
+3006BB4E 0064
+
+[P1-Codes\Max Speed - Molo]
+Type = Gameshark
+Activation = EndFrame
+3006BB4F 0064
+
+[P1-Codes\Max Armor - Molo]
+Type = Gameshark
+Activation = EndFrame
+3006BB50 0064
+
+[P1-Codes\Max Target Avoidance - Molo]
+Type = Gameshark
+Activation = EndFrame
+3006BB51 0064
+
+[P1-Codes\Quest Completed - Lord Clyde]
+Type = Gameshark
+Activation = EndFrame
+8006BB52 01FF
+
+[P1-Codes\Max Acceleration - Lord Clyde]
+Type = Gameshark
+Activation = EndFrame
+3006BB58 0064
+
+[P1-Codes\Max Speed - Lord Clyde]
+Type = Gameshark
+Activation = EndFrame
+3006BB59 0064
+
+[P1-Codes\Max Armor - Lord Clyde]
+Type = Gameshark
+Activation = EndFrame
+3006BB5A 0064
+
+[P1-Codes\Max Target Avoidance - Lord Clyde]
+Type = Gameshark
+Activation = EndFrame
+3006BB5B 0064
+
+[P1-Codes\Quest Completed - Obake]
+Type = Gameshark
+Activation = EndFrame
+8006BB5C 01FF
+
+[P1-Codes\Max Acceleration - Obake]
+Type = Gameshark
+Activation = EndFrame
+3006BB62 0064
+
+[P1-Codes\Max Speed - Obake]
+Type = Gameshark
+Activation = EndFrame
+3006BB63 0064
+
+[P1-Codes\Max Armor - Obake]
+Type = Gameshark
+Activation = EndFrame
+3006BB64 0064
+
+[P1-Codes\Max Target Avoidance - Obake]
+Type = Gameshark
+Activation = EndFrame
+3006BB65 0064
+
+[P1-Codes\Max Acceleration - Marathon]
+Type = Gameshark
+Activation = EndFrame
+3006BB6C 0064
+
+[P1-Codes\Max Speed - Marathon]
+Type = Gameshark
+Activation = EndFrame
+3006BB6D 0064
+
+[P1-Codes\Max Armor - Marathon]
+Type = Gameshark
+Activation = EndFrame
+3006BB6E 0064
+
+[P1-Codes\Max Target Avoidance - Marathon]
+Type = Gameshark
+Activation = EndFrame
+3006BB6F 0064
+
+[P1-Codes\Quest Completed - Astronaut Bob O]
+Type = Gameshark
+Activation = EndFrame
+8006BB70 01FF
+
+[P1-Codes\Max Acceleration - Astronaut Bob O]
+Type = Gameshark
+Activation = EndFrame
+3006BB76 0064
+
+[P1-Codes\Max Speed - Astronaut Bob O]
+Type = Gameshark
+Activation = EndFrame
+3006BB77 0064
+
+[P1-Codes\Max Armor - Astronaut Bob O]
+Type = Gameshark
+Activation = EndFrame
+3006BB78 0064
+
+[P1-Codes\Max Target Avoidance - Astronaut Bob O]
+Type = Gameshark
+Activation = EndFrame
+3006BB79 0064
+
+[P1-Codes\Quest Completed - Garbage Man]
+Type = Gameshark
+Activation = EndFrame
+8006BB7A 01FF
+
+[P1-Codes\Max Acceleration - Garbage Man]
+Type = Gameshark
+Activation = EndFrame
+3006BB80 0064
+
+[P1-Codes\Max Speed - Garbage Man]
+Type = Gameshark
+Activation = EndFrame
+3006BB81 0064
+
+[P1-Codes\Max Armor - Garbage Man]
+Type = Gameshark
+Activation = EndFrame
+3006BB82 0064
+
+[P1-Codes\Max Target Avoidance - Garbage Man]
+Type = Gameshark
+Activation = EndFrame
+3006BB83 0064
+
+[P1-Codes\Quest Completed - Agent R Chase]
+Type = Gameshark
+Activation = EndFrame
+8006BB84 01FF
+
+[P1-Codes\Max Acceleration - Agent R Chase]
+Type = Gameshark
+Activation = EndFrame
+3006BB8A 0064
+
+[P1-Codes\Max Speed - Agent R Chase]
+Type = Gameshark
+Activation = EndFrame
+3006BB8B 0064
+
+[P1-Codes\Max Armor - Agent R Chase]
+Type = Gameshark
+Activation = EndFrame
+3006BB8C 0064
+
+[P1-Codes\Max Target Avoidance - Agent R Chase]
+Type = Gameshark
+Activation = EndFrame
+3006BB8E 0064
+
+[P1-Codes\Quest Completed - Chassey Blue]
+Type = Gameshark
+Activation = EndFrame
+8006BB9E 01FF
+
+[P1-Codes\Max Acceleration - Chassey Blue]
+Type = Gameshark
+Activation = EndFrame
+3006BB94 0064
+
+[P1-Codes\Max Speed - Chassey Blue]
+Type = Gameshark
+Activation = EndFrame
+3006BB95 0064
+
+[P1-Codes\Max Armor - Chassey Blue]
+Type = Gameshark
+Activation = EndFrame
+3006BB96 0064
+
+[P1-Codes\Max Target Avoidance - Chassey Blue]
+Type = Gameshark
+Activation = EndFrame
+3006BB97 0064
+
+[P1-Codes\Quest Completed - Padre Destino]
+Type = Gameshark
+Activation = EndFrame
+8006BB98 01FF
+
+[P1-Codes\Max Acceleration - Padre Destino]
+Type = Gameshark
+Activation = EndFrame
+3006BB9E 0064
+
+[P1-Codes\Max Speed - Padre Destino]
+Type = Gameshark
+Activation = EndFrame
+3006BB9F 0064
+
+[P1-Codes\Max Armor - Padre Destino]
+Type = Gameshark
+Activation = EndFrame
+3006BBA0 0064
+
+[P1-Codes\Max Target Avoidance - Padre Destino]
+Type = Gameshark
+Activation = EndFrame
+3006BBA1 0064
+
+[P1-Codes\Max Acceleration - Dusty Earth]
+Type = Gameshark
+Activation = EndFrame
+3006BBA8 0064
+
+[P1-Codes\Max Speed - Dusty Earth]
+Type = Gameshark
+Activation = EndFrame
+3006BBA9 0064
+
+[P1-Codes\Max Armor - Dusty Earth]
+Type = Gameshark
+Activation = EndFrame
+3006BBAA 0064
+
+[P1-Codes\Max Target Avoidance - Dusty Earth]
+Type = Gameshark
+Activation = EndFrame
+3006BBAB 0064
+
+[P1-Codes\Unlock All Characters/Quest Mode Complete With Everyone]
+Type = Gameshark
+Activation = EndFrame
+5000120A 0000
+8006BAF8 01FF
+
+[P1-Codes\Maxed Out Stats All Characters]
+Type = Gameshark
+Activation = EndFrame
+5000120A 0000
+8006BAFE 6464
+5000120A 0000
+8006BB00 6464
+
+[P2-Codes\Quest Completed - Sheila]
+Type = Gameshark
+Activation = EndFrame
+8006BBAC 01FF
+
+[P2-Codes\Max Acceleration - Sheila]
+Type = Gameshark
+Activation = EndFrame
+3006BBB2 0064
+
+[P2-Codes\Max Speed - Sheila]
+Type = Gameshark
+Activation = EndFrame
+3006BBB3 0064
+
+[P2-Codes\Max Armor - Sheila]
+Type = Gameshark
+Activation = EndFrame
+3006BBB4 0064
+
+[P2-Codes\Max Target Avoidance - Sheila]
+Type = Gameshark
+Activation = EndFrame
+3006BBB5 0064
+
+[P2-Codes\Quest Completed - John Torque]
+Type = Gameshark
+Activation = EndFrame
+8006BBB6 01FF
+
+[P2-Codes\Max Acceleration - John Torque]
+Type = Gameshark
+Activation = EndFrame
+3006BBBC 0064
+
+[P2-Codes\Max Speed - John Torque]
+Type = Gameshark
+Activation = EndFrame
+3006BBBD 0064
+
+[P2-Codes\Max Armor - John Torque]
+Type = Gameshark
+Activation = EndFrame
+3006BBBE 0064
+
+[P2-Codes\Max Target Avoidance - John Torque]
+Type = Gameshark
+Activation = EndFrame
+3006BBBF 0064
+
+[P2-Codes\Quest Completed - Flying All Star Trio]
+Type = Gameshark
+Activation = EndFrame
+8006BBC0 01FF
+
+[P2-Codes\Max Acceleration - Flying All Star Trio]
+Type = Gameshark
+Activation = EndFrame
+3006BBC6 0064
+
+[P2-Codes\Max Speed - Flying All Star Trio]
+Type = Gameshark
+Activation = EndFrame
+3006BBC7 0064
+
+[P2-Codes\Max Armor - Flying All Star Trio]
+Type = Gameshark
+Activation = EndFrame
+3006BBC8 0064
+
+[P2-Codes\Max Target Avoidance - Flying All Star Trio]
+Type = Gameshark
+Activation = EndFrame
+3006BBC9 0064
+
+[P2-Codes\Quest Completed - Houston]
+Type = Gameshark
+Activation = EndFrame
+8006BBCA 01FF
+
+[P2-Codes\Max Acceleration - Houston]
+Type = Gameshark
+Activation = EndFrame
+3006BBD0 0064
+
+[P2-Codes\Max Speed - Houston]
+Type = Gameshark
+Activation = EndFrame
+3006BBD1 0064
+
+[P2-Codes\Max Armor - Houston]
+Type = Gameshark
+Activation = EndFrame
+3006BBD2 0064
+
+[P2-Codes\Max Target Avoidance - Houston]
+Type = Gameshark
+Activation = EndFrame
+3006BBD3 0064
+
+[P2-Codes\Quest Completed - Convoy]
+Type = Gameshark
+Activation = EndFrame
+8006BBD4 01FF
+
+[P2-Codes\Max Acceleration - Convoy]
+Type = Gameshark
+Activation = EndFrame
+3006BBDA 0064
+
+[P2-Codes\Max Speed - Convoy]
+Type = Gameshark
+Activation = EndFrame
+3006BBDB 0064
+
+[P2-Codes\Max Armor - Convoy]
+Type = Gameshark
+Activation = EndFrame
+3006BBDC 0064
+
+[P2-Codes\Max Target Avoidance - Convoy]
+Type = Gameshark
+Activation = EndFrame
+3006BBDE 0064
+
+[P2-Codes\Max Acceleration - Dave's Cultsmen]
+Type = Gameshark
+Activation = EndFrame
+3006BBE4 0064
+
+[P2-Codes\Max Speed - Dave's Cultsmen]
+Type = Gameshark
+Activation = EndFrame
+3006BBE5 0064
+
+[P2-Codes\Max Armor - Dave's Cultsmen]
+Type = Gameshark
+Activation = EndFrame
+3006BBE6 0064
+
+[P2-Codes\Max Target Avoidance - Dave's Cultsmen]
+Type = Gameshark
+Activation = EndFrame
+3006BBE7 0064
+
+[P2-Codes\Quest Completed - Dallas 13]
+Type = Gameshark
+Activation = EndFrame
+8006BBE8 01FF
+
+[P2-Codes\Max Acceleration - Dallas 13]
+Type = Gameshark
+Activation = EndFrame
+3006BBEE 0064
+
+[P2-Codes\Max Speed - Dallas 13]
+Type = Gameshark
+Activation = EndFrame
+3006BBEF 0064
+
+[P2-Codes\Max Armor - Dallas 13]
+Type = Gameshark
+Activation = EndFrame
+3006BBF0 0064
+
+[P2-Codes\Max Target Avoidance - Dallas 13]
+Type = Gameshark
+Activation = EndFrame
+3006BBF1 0064
+
+[P2-Codes\Quest Completed - Nina Loco]
+Type = Gameshark
+Activation = EndFrame
+8006BBF2 01FF
+
+[P2-Codes\Max Acceleration - Nina Loco]
+Type = Gameshark
+Activation = EndFrame
+3006BBF8 0064
+
+[P2-Codes\Max Speed - Nina Loco]
+Type = Gameshark
+Activation = EndFrame
+3006BBF9 0064
+
+[P2-Codes\Max Armor - Nina Loco]
+Type = Gameshark
+Activation = EndFrame
+3006BBFA 0064
+
+[P2-Codes\Max Target Avoidance - Nina Loco]
+Type = Gameshark
+Activation = EndFrame
+3006BBFB 0064
+
+[P2-Codes\Quest Completed - Molo]
+Type = Gameshark
+Activation = EndFrame
+8006BBFC 01FF
+
+[P2-Codes\Max Acceleration - Molo]
+Type = Gameshark
+Activation = EndFrame
+3006BC02 0064
+
+[P2-Codes\Max Speed - Molo]
+Type = Gameshark
+Activation = EndFrame
+3006BC03 0064
+
+[P2-Codes\Max Armor - Molo]
+Type = Gameshark
+Activation = EndFrame
+3006BC04 0064
+
+[P2-Codes\Max Target Avoidance - Molo]
+Type = Gameshark
+Activation = EndFrame
+3006BC05 0064
+
+[P2-Codes\Quest Completed - Lord Clyde]
+Type = Gameshark
+Activation = EndFrame
+8006BC06 01FF
+
+[P2-Codes\Max Acceleration - Lord Clyde]
+Type = Gameshark
+Activation = EndFrame
+3006BC0C 0064
+
+[P2-Codes\Max Speed - Lord Clyde]
+Type = Gameshark
+Activation = EndFrame
+3006BC0D 0064
+
+[P2-Codes\Max Armor - Lord Clyde]
+Type = Gameshark
+Activation = EndFrame
+3006BC0E 0064
+
+[P2-Codes\Max Target Avoidance - Lord Clyde]
+Type = Gameshark
+Activation = EndFrame
+3006BC0F 0064
+
+[P2-Codes\Quest Completed - Obake]
+Type = Gameshark
+Activation = EndFrame
+8006BC10 01FF
+
+[P2-Codes\Max Acceleration - Obake]
+Type = Gameshark
+Activation = EndFrame
+3006BC16 0064
+
+[P2-Codes\Max Speed - Obake]
+Type = Gameshark
+Activation = EndFrame
+3006BC17 0064
+
+[P2-Codes\Max Armor - Obake]
+Type = Gameshark
+Activation = EndFrame
+3006BC18 0064
+
+[P2-Codes\Max Target Avoidance - Obake]
+Type = Gameshark
+Activation = EndFrame
+3006BC19 0064
+
+[P2-Codes\Max Acceleration - Marathon]
+Type = Gameshark
+Activation = EndFrame
+3006BC10 0064
+
+[P2-Codes\Max Speed - Marathon]
+Type = Gameshark
+Activation = EndFrame
+3006BC21 0064
+
+[P2-Codes\Max Armor - Marathon]
+Type = Gameshark
+Activation = EndFrame
+3006BC22 0064
+
+[P2-Codes\Max Target Avoidance - Marathon]
+Type = Gameshark
+Activation = EndFrame
+3006BC23 0064
+
+[P2-Codes\Quest Completed - Astronaut Bob O]
+Type = Gameshark
+Activation = EndFrame
+8006BC24 01FF
+
+[P2-Codes\Max Acceleration - Astronaut Bob O]
+Type = Gameshark
+Activation = EndFrame
+3006BC2A 0064
+
+[P2-Codes\Max Speed - Astronaut Bob O]
+Type = Gameshark
+Activation = EndFrame
+3006BC2B 0064
+
+[P2-Codes\Max Armor - Astronaut Bob O]
+Type = Gameshark
+Activation = EndFrame
+3006BC2C 0064
+
+[P2-Codes\Max Target Avoidance - Astronaut Bob O]
+Type = Gameshark
+Activation = EndFrame
+3006BC2D 0064
+
+[P2-Codes\Quest Completed - Garbage Man]
+Type = Gameshark
+Activation = EndFrame
+8006BC2E 01FF
+
+[P2-Codes\Max Acceleration - Garbage Man]
+Type = Gameshark
+Activation = EndFrame
+3006BC34 0064
+
+[P2-Codes\Max Speed - Garbage Man]
+Type = Gameshark
+Activation = EndFrame
+3006BC35 0064
+
+[P2-Codes\Max Armor - Garbage Man]
+Type = Gameshark
+Activation = EndFrame
+3006BC36 0064
+
+[P2-Codes\Max Target Avoidance - Garbage Man]
+Type = Gameshark
+Activation = EndFrame
+3006BC37 0064
+
+[P2-Codes\Quest Completed - Agent R Chase]
+Type = Gameshark
+Activation = EndFrame
+8006BC38 01FF
+
+[P2-Codes\Max Acceleration - Agent R Chase]
+Type = Gameshark
+Activation = EndFrame
+3006BC3E 0064
+
+[P2-Codes\Max Speed - Agent R Chase]
+Type = Gameshark
+Activation = EndFrame
+3006BC3F 0064
+
+[P2-Codes\Max Armor - Agent R Chase]
+Type = Gameshark
+Activation = EndFrame
+3006BC40 0064
+
+[P2-Codes\Max Target Avoidance - Agent R Chase]
+Type = Gameshark
+Activation = EndFrame
+3006BC41 0064
+
+[P2-Codes\Quest Completed - Chassey Blue]
+Type = Gameshark
+Activation = EndFrame
+8006BC42 01FF
+
+[P2-Codes\Max Acceleration - Chassey Blue]
+Type = Gameshark
+Activation = EndFrame
+3006BC48 0064
+
+[P2-Codes\Max Speed - Chassey Blue]
+Type = Gameshark
+Activation = EndFrame
+3006BC49 0064
+
+[P2-Codes\Max Armor - Chassey Blue]
+Type = Gameshark
+Activation = EndFrame
+3006BC4A 0064
+
+[P2-Codes\Max Target Avoidance - Chassey Blue]
+Type = Gameshark
+Activation = EndFrame
+3006BC4B 0064
+
+[P2-Codes\Quest Completed - Padre Destino]
+Type = Gameshark
+Activation = EndFrame
+8006BC4C 01FF
+
+[P2-Codes\Max Acceleration - Padre Destino]
+Type = Gameshark
+Activation = EndFrame
+3006BC52 0064
+
+[P2-Codes\Max Speed - Padre Destino]
+Type = Gameshark
+Activation = EndFrame
+3006BC53 0064
+
+[P2-Codes\Max Armor - Padre Destino]
+Type = Gameshark
+Activation = EndFrame
+3006BC54 0064
+
+[P2-Codes\Max Target Avoidance - Padre Destino]
+Type = Gameshark
+Activation = EndFrame
+3006BC55 0064
+
+[P2-Codes\Max Acceleration - Dusty Earth]
+Type = Gameshark
+Activation = EndFrame
+3006BC5C 0064
+
+[P2-Codes\Max Speed - Dusty Earth]
+Type = Gameshark
+Activation = EndFrame
+3006BC5D 0064
+
+[P2-Codes\Max Armor - Dusty Earth]
+Type = Gameshark
+Activation = EndFrame
+3006BC5E 0064
+
+[P2-Codes\Max Target Avoidance - Dusty Earth]
+Type = Gameshark
+Activation = EndFrame
+3006BC5F 0064
+
+[P2-Codes\Unlock All Characters/Quest Mode Complete With Everyone]
+Type = Gameshark
+Activation = EndFrame
+5000120A 0000
+8006BA9C 01FF
+
+[P2-Codes\Maxed Out Stats All Characters]
+Type = Gameshark
+Activation = EndFrame
+5000120A 0000
+8006BAA2 6464
+5000120A 0000
+8006BAA4 6464
+

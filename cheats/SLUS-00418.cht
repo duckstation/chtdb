@@ -1,0 +1,144 @@
+; CHTDB: ; [ Super Puzzle Fighter II Turbo (USA) (1996) (Capcom Entertainment) {SLUS-00418} <spf2t> ]
+
+[P1 Score Modifier]
+Type = Gameshark
+Activation = EndFrame
+801AE550 FFFF
+
+[P2 P1 Drops 99 Blocks on]
+Type = Gameshark
+Activation = EndFrame
+801AE72A 0064
+
+[P2 Never Wins]
+Type = Gameshark
+Activation = EndFrame
+801AE81C 0000
+
+[P1 Needs 1 Win to Win]
+Type = Gameshark
+Activation = EndFrame
+A61AE570 00000100
+
+[P1 Select Character\Morrigan]
+Type = Gameshark
+Activation = EndFrame
+801D4F10 0000
+
+[P1 Select Character\Chun-Li]
+Type = Gameshark
+Activation = EndFrame
+801D4F10 0001
+
+[P1 Select Character\Ryu]
+Type = Gameshark
+Activation = EndFrame
+801D4F10 0002
+
+[P1 Select Character\Ken]
+Type = Gameshark
+Activation = EndFrame
+801D4F10 0003
+
+[P1 Select Character\Asien-Ko]
+Type = Gameshark
+Activation = EndFrame
+801D4F10 0004
+
+[P1 Select Character\Donovan]
+Type = Gameshark
+Activation = EndFrame
+801D4F10 0005
+
+[P1 Select Character\Felicia]
+Type = Gameshark
+Activation = EndFrame
+801D4F10 0006
+
+[P1 Select Character\Sakura]
+Type = Gameshark
+Activation = EndFrame
+801D4F10 0007
+
+[P1 Select Character\Devilot]
+Type = Gameshark
+Activation = EndFrame
+801D4F10 0008
+
+[P1 Select Character\Akuma]
+Type = Gameshark
+Activation = EndFrame
+801D4F10 0009
+
+[Super puzzle mode P1 Character Morrigan]
+Type = Gameshark
+Activation = EndFrame
+301BAAC5 0000
+
+[Super puzzle mode P1 Character Chun-Li]
+Type = Gameshark
+Activation = EndFrame
+301BAAC5 0001
+
+[Super puzzle mode P1 Character Ryu]
+Type = Gameshark
+Activation = EndFrame
+301BAAC5 0002
+
+[Super puzzle mode P1 Character Ken]
+Type = Gameshark
+Activation = EndFrame
+301BAAC5 0003
+
+[Super puzzle mode P1 Character Asien-Ko]
+Type = Gameshark
+Activation = EndFrame
+301BAAC5 0004
+
+[Super puzzle mode P1 Character Donovan]
+Type = Gameshark
+Activation = EndFrame
+301BAAC5 0005
+
+[Super puzzle mode P1 Character Felicia]
+Type = Gameshark
+Activation = EndFrame
+301BAAC5 0006
+
+[Super puzzle mode P1 Character Sakura]
+Type = Gameshark
+Activation = EndFrame
+301BAAC5 0007
+
+[Super puzzle mode P1 Character Devilot]
+Type = Gameshark
+Activation = EndFrame
+301BAAC5 0008
+
+[Super puzzle mode P1 Character Akuma]
+Type = Gameshark
+Activation = EndFrame
+301BAAC5 0009
+
+[Super puzzle mode P1 Character Dan]
+Type = Gameshark
+Activation = EndFrame
+301BAAC5 000A
+
+[Super puzzle mode Open All Prizes]
+Type = Gameshark
+Activation = EndFrame
+8016CAE4 FFFF
+8016CAE8 FFFF
+8016CAEC FFFF
+8016CAF0 FFFF
+8016CAF4 FFFF
+9016CAF8 FFFFFFFF
+9016CAFC FFFFFFFF
+
+[Super puzzle mode Press Square To Get A Diamond]
+Type = Gameshark
+Activation = EndFrame
+D01BF09A 0080
+301AE5F0 0005
+

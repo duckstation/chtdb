@@ -1,0 +1,22 @@
+; CHTDB: ; [ Ide Yousuke no Mahjong Kyoshitsu (Jpn) (1999) (Athena) {SLPS-02272} <ideyumjk> ]
+
+[Player has 99999 points]
+Type = Gameshark
+Activation = EndFrame
+901B009C 0001869F
+
+[Up enemy has 0 points]
+Type = Gameshark
+Activation = EndFrame
+801B0164 0000
+
+[Left enemy has 0 points]
+Type = Gameshark
+Activation = EndFrame
+801B01C8 0000
+
+[Right enemy has 0 points]
+Type = Gameshark
+Activation = EndFrame
+801B0100 0000
+

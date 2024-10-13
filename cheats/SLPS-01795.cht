@@ -1,0 +1,25 @@
+; CHTDB: ; [ BladeMaker (Jpn) (1999) (Shoeisha) {SLPS-01795} <blademak> ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+80093790 FFFF
+
+[Infinite HP in battle]
+Type = Gameshark
+Activation = EndFrame
+800B9818 0040
+
+[Use One Day To Produce Item]
+Type = Gameshark
+Activation = EndFrame
+300CC846 0000
+
+[Infinite Resources For Produce Item]
+Type = Gameshark
+Activation = EndFrame
+300CC854 0000
+300CC856 0000
+300CC858 0000
+300CC85A 0000
+

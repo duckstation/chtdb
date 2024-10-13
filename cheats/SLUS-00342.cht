@@ -1,0 +1,45 @@
+; CHTDB: ; [ Time Commando (USA) (1996) (Activision) {SLUS-00342} <timecomm> ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80097982 001F
+
+[Always Have 4 Batteries]
+Type = Gameshark
+Activation = EndFrame
+800979A0 0004
+
+[Infinite Blue Chips]
+Type = Gameshark
+Activation = EndFrame
+800A43BC 0063
+
+[Infinite Virus Energy]
+Type = Gameshark
+Activation = EndFrame
+80091C84 57E4
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800979A0 0302
+
+[Have All Weapons]
+Type = Gameshark
+Activation = EndFrame
+80097890 0000
+8009789C 0001
+800978A8 0002
+800978B4 0003
+800978C0 0004
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+80097894 0064
+800978A0 0064
+800978AC 0064
+800978B8 0064
+800978C4 0064
+

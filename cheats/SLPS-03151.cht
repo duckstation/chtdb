@@ -1,0 +1,7 @@
+; CHTDB: ; [ Sengoku Mugen (Jpn) (2001) (Banpresto) {SLPS-03151} <sengokum> ]
+
+[Infinite HP in Fortress attack]
+Type = Gameshark
+Activation = EndFrame
+80161F1E 0064
+

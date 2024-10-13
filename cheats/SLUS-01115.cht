@@ -1,0 +1,95 @@
+; CHTDB: ; [ Harvest Moon - Back to Nature (USA) (2000) (Natsume) {SLUS-01115} <harvmoon> ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+800573F0 FFFF
+80071A5C FFFF
+
+[All Item Shipped]
+Type = Gameshark
+Activation = EndFrame
+900711C4 03E703E7
+900711C8 03E703E7
+900711CC 03E703E7
+900711D0 03E703E7
+900711D4 03E703E7
+900711D8 03E703E7
+900711DC 03E703E7
+900711E0 03E703E7
+900711E4 03E703E7
+900711E8 03E703E7
+800711EC 03E7
+
+[Chicken Feed boxs alway full]
+Type = Gameshark
+Activation = EndFrame
+8007130E 0101
+90071310 01010101
+90071314 01010101
+
+[Cow And Sheep Feedboxs Always Full]
+Type = Gameshark
+Activation = EndFrame
+900712F8 01010101
+900712FC 01010101
+90071300 01010101
+90071304 01010101
+90071308 01010101
+8007130C 0101
+
+[Have A Horse]
+Type = Gameshark
+Activation = EndFrame
+80075AD4 015F
+
+[Have A Horse (Alt)]
+Type = Gameshark
+Activation = EndFrame
+8004FA88 14AF
+
+[Have All Utensils]
+Type = Gameshark
+Activation = EndFrame
+30070D04 00FF
+
+[Infinite Stone]
+Type = Gameshark
+Activation = EndFrame
+80071F5C 003A
+
+[Infinite Lumber]
+Type = Gameshark
+Activation = EndFrame
+80070D38 03E7
+
+[Infinite Medals]
+Type = Gameshark
+Activation = EndFrame
+80071A60 FFFF
+
+[Red Heart Ann]
+Type = Gameshark
+Activation = EndFrame
+80076EF0 FFFF
+
+[Red Heart Elli]
+Type = Gameshark
+Activation = EndFrame
+80077298 FFFF
+
+[Red Heart Karen]
+Type = Gameshark
+Activation = EndFrame
+800767A0 FFFF
+
+[Red Heart Mary]
+Type = Gameshark
+Activation = EndFrame
+80077BBC FFFF
+
+[Red Heart Popuri]
+Type = Gameshark
+Activation = EndFrame
+800786B4 FFFF
+

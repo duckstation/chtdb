@@ -1,0 +1,38 @@
+; CHTDB: ; [ Maximum Force (USA) (1997) (Midway Home Entertainment) {SLUS-00503} <maxforce> ]
+
+[P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8006E7F0 0007
+
+[P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8006E880 0007
+
+[P1 Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+8006E844 0008
+
+[P2 Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+8006E8D4 0008
+
+[All Mission Available]
+Type = Gameshark
+Activation = EndFrame
+80069CFC 0001
+80069D00 0001
+8006A0A8 0001
+8006E898 0001
+
+[Have Special Weapons]
+Type = Gameshark
+Activation = EndFrame
+8006E840 0001
+8006E840 0002
+8006E8D0 0001
+8006E8D0 0002
+

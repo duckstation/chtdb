@@ -1,0 +1,48 @@
+; CHTDB: ; [ The Crow: City of Angels (Germany) {SLES-00648} ]
+
+[Bild Nach Oben/Unten Schieben .Drücke Select & Oben/Unten Pad 2]
+Type = Gameshark
+Activation = EndFrame
+50000230 0000
+80044404 0000
+D0080586 FFEE
+1104443C 0001
+D0080586 FFBE
+1004443C 0001
+
+[Unendlich Gesundheit]
+Type = Gameshark
+Activation = EndFrame
+30087DB6 007F
+
+[Suddendeath]
+Type = Gameshark
+Activation = EndFrame
+A6087F3A 007F0001
+A60880BE 007F0001
+A6088242 007F0001
+
+[Debugmodus\An .Drücke Select & L1]
+Type = Gameshark
+Activation = EndFrame
+D0080546 FBFE
+3003F6BC 0000
+
+[Debugmodus\Aus .Drücke Select & L2]
+Type = Gameshark
+Activation = EndFrame
+D0080546 FEFE
+3003F6BC 00F1
+
+[Zerknitterte Spielfiguren\An .Drücke Select & L1 Pad 2]
+Type = Gameshark
+Activation = EndFrame
+D0080586 FBFE
+3001A843 0034
+
+[Zerknitterte Spielfiguren\Aus .Drücke Select & L2 Pad 2]
+Type = Gameshark
+Activation = EndFrame
+D0080546 FEFE
+3001A843 000C
+

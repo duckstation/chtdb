@@ -1,0 +1,17 @@
+; CHTDB: ; [ Spawn - The Eternal (USA) (1997) (Sony Computer Entertainment America) {SCUS-94204} <spawn> ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8007F050 0800
+
+[Infinite Magic Level]
+Type = Gameshark
+Activation = EndFrame
+8007F052 270F
+
+[Start New game On Level(00-18) Enabled Last]
+Type = Gameshark
+Activation = EndFrame
+8007F01A 0018
+

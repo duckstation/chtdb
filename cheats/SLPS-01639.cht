@@ -1,0 +1,12 @@
+; CHTDB: ; [ Virtua Pachi-Slot: Olympia Special (Japan) {SLPS-01639} ]
+
+[Player always 99 points in vs mode]
+Type = Gameshark
+Activation = EndFrame
+8017A0B8 0063
+
+[CPU always 0 points in vs mode]
+Type = Gameshark
+Activation = EndFrame
+8017A0BA 0000
+

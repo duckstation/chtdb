@@ -1,0 +1,122 @@
+; CHTDB: ; [ Xena: Warrior Princess (Spain) {SLES-02268} ]
+
+[Infinite Energy Level 1 El Camino a Oebalus Activate only in level]
+Type = Gameshark
+Activation = EndFrame
+8014E130 01F4
+
+[Infinite Energy Level 2 Problemas en Oebalus Activate only in level]
+Type = Gameshark
+Activation = EndFrame
+80150D10 01F4
+
+[Infinite Energy Level 3 El Rey Pirataa Pactolus Activate only in level]
+Type = Gameshark
+Activation = EndFrame
+80152810 01F4
+
+[Infinite Energy Level 4 La Isla de Kronos Activate only in level]
+Type = Gameshark
+Activation = EndFrame
+8014DA70 01F4
+
+[Infinite Energy Level 5 Tras la Pista de Gabrielle Activate only in level]
+Type = Gameshark
+Activation = EndFrame
+8014E7F0 01F4
+
+[Infinite Energy Level 6 El Castillo de Valarian Activate only in level]
+Type = Gameshark
+Activation = EndFrame
+80150800 01F4
+
+[Infinite Energy Level 7 El Secreto de Valarian Activate only in level]
+Type = Gameshark
+Activation = EndFrame
+80150EC0 01F4
+
+[Infinite Energy Level 8 El Laberinto Activate only in level]
+Type = Gameshark
+Activation = EndFrame
+8014FF90 01F4
+
+[Infinite Energy Level 9 El Pueblo de las Amazonas Renegadas Activate only in level]
+Type = Gameshark
+Activation = EndFrame
+8014ED00 01F4
+
+[Infinite Energy Gabrielle Level 9 El Pueblo de las Amazonas Renegadas Activate only in level]
+Type = Gameshark
+Activation = EndFrame
+800FC344 0042
+
+[Infinite Energy Level 10 Rios de Sangre Activate only in level]
+Type = Gameshark
+Activation = EndFrame
+80150140 01F4
+
+[Infinite Energy Gabrielle Level 10 Rios de Sangre Activate only in level]
+Type = Gameshark
+Activation = EndFrame
+800FC344 0042
+
+[Infinite Energy Level 11 El Templo Perdido de los Titanes Activate only in level]
+Type = Gameshark
+Activation = EndFrame
+8014E2E0 01F4
+
+[Infinite Energy Level 12 La Guarida de Dyzan Activate only in level]
+Type = Gameshark
+Activation = EndFrame
+8014E490 01F4
+
+[Infinite Energy Level 13 El Camino a Hades Activate only in level]
+Type = Gameshark
+Activation = EndFrame
+80153AA0 01F4
+
+[Infinite Energy Level 14 Las Trampas de Caronte Activate only in level]
+Type = Gameshark
+Activation = EndFrame
+80152660 01F4
+
+[Infinite Energy Level 15 El Castillo de Hades Activate only in level]
+Type = Gameshark
+Activation = EndFrame
+801533E0 01F4
+
+[Infinite Energy Level 16 El Pueblo de T'ir Na Activate only in level]
+Type = Gameshark
+Activation = EndFrame
+801502F0 01F4
+
+[Infinite Energy Level 17 Rescata al Vidente, Fei Activate only in level]
+Type = Gameshark
+Activation = EndFrame
+8014FF90 01F4
+
+[Infinite Energy Level 18 La Lira de Orfeo Activate only in level]
+Type = Gameshark
+Activation = EndFrame
+8014E7F0 01F4
+
+[Infinite Energy Level 19 Las Tres Hermanas Activate only in level]
+Type = Gameshark
+Activation = EndFrame
+801504A0 01F4
+
+[Infinite Energy Level 20 El reto Activate only in level]
+Type = Gameshark
+Activation = EndFrame
+8014ED00 01F4
+
+[Infinite Energy Level 21 El Templo de los Pinaculos Activate only in level]
+Type = Gameshark
+Activation = EndFrame
+8014FC30 01F4
+
+[Unlock All Level You Need a save game to unlock all the levels, load then enable the cheat and disable the cheat]
+Type = Gameshark
+Activation = EndFrame
+800F0D4C 000D
+

@@ -1,0 +1,31 @@
+; CHTDB: ; [ Warzone 2100 (Germany) {SLES-01743} ]
+
+[Fahrzeugproduktion ohne Limit]
+Type = Gameshark
+Activation = EndFrame
+800DB6D0 0000
+
+[Fahrzeuge (auch des Gegners!) unverwundbar Select+L2 drücken]
+Type = Gameshark
+Activation = EndFrame
+D00DAEC8 0101
+8002B62A 2400
+
+[Fahrzeuge (auch des Gegners!) verwundbar Select+R2 drücken]
+Type = Gameshark
+Activation = EndFrame
+D00DAEC8 0102
+8002B62A AE42
+
+[Unendlich Geld]
+Type = Gameshark
+Activation = EndFrame
+8014CE90 C350
+
+[Alle Forschungsobjekte zugänglich Select+Quadrat+Hoch drücken und nie wieder aktivieren]
+Type = Gameshark
+Activation = EndFrame
+D00DAEC8 8011
+50001402 0000
+8012F4C0 FFFF
+

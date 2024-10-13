@@ -1,0 +1,12 @@
+; CHTDB: ; [ Total Drivin (Europe) {SLES-00307} ]
+
+[Lap Timer Set To Zero]
+Type = Gameshark
+Activation = EndFrame
+90066EB0 00000000
+
+[Always First Place]
+Type = Gameshark
+Activation = EndFrame
+80087B60 0000
+

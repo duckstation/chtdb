@@ -1,0 +1,111 @@
+; CHTDB: ; [ C - The Contra Adventure (USA) (1998) (Konami of America) {SLUS-00499} <contradv> ]
+
+[Infinite Lives All Levels]
+Type = Gameshark
+Activation = EndFrame
+A60EB518 00050006
+
+[Invincibility (No Hit) All Levels]
+Type = Gameshark
+Activation = EndFrame
+A710A75A 10401000
+A710375A 10401000
+A71040EA 10401000
+A7105BF6 10401000
+A70FC9FE 10401000
+A7115192 10511000
+A712C976 18401000
+A7013F72 10401000
+A705A41E 10511000
+A705A25A 10401000
+;#Invincibility Side Scroll Levels Only
+;80118AD4 0055
+
+[Infinite Smart Bombs Side Scroll Levels Only]
+Type = Gameshark
+Activation = EndFrame
+8008F104 0009
+;#Invincibility 3D And Overhead Levels
+;800B8100 0025
+
+[Infinite Smart Bombs On Pick-Up 3D And Overhead Levels]
+Type = Gameshark
+Activation = EndFrame
+A60EB51A 00010002
+
+[Hit Anywhere]
+Type = Gameshark
+Activation = EndFrame
+D010720E AFBF
+8010721E 2400
+D010720E AFBF
+80107232 2400
+D010720E AFBF
+801070E6 1000
+D010720E AFBF
+801080EE 2400
+D010720E AFBF
+8010811E 1000
+D010720E AFBF
+8012A766 2400
+
+[Jump in Midair on 3D and Overhead Levels]
+Type = Gameshark
+Activation = EndFrame
+80007640 800F
+80007642 3C13
+80007644 BF3A
+80007646 8673
+8000764C 0040
+8000764E 3273
+80007650 0002
+80007652 1260
+80007658 FFFD
+8000765A 3C02
+8000765C 0044
+8000765E AE42
+80007660 00C8
+80007662 8E42
+80007664 DF5D
+80007666 0800
+80037D6C 1D90
+80037D6E 0800
+80037D72 2400
+
+[Jump in Midair on Side Scrolling Levels]
+Type = Gameshark
+Activation = EndFrame
+80007600 800F
+80007602 3C02
+80007604 BF3A
+80007606 8442
+8000760C 0040
+8000760E 3042
+80007610 0003
+80007612 1040
+80007618 FFF6
+8000761A 3C02
+8000761C 0044
+8000761E AC82
+80007620 0014
+80007622 3C03
+80007624 FA37
+80007626 0803
+800FE8D4 1D80
+800FE8D6 0800
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A70EC508 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A70EC508 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A70EC508 10000400
+

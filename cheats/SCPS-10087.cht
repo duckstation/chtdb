@@ -1,0 +1,39 @@
+; CHTDB: ; [ Gekisou Tomarunner (Jpn) (1999) (SCEI) {SCPS-10087} <tomarun> ]
+
+[P1 Have All Items]
+Type = Gameshark
+Activation = EndFrame
+50000402 0000
+800C3488 6363
+
+[P2 Have All Items]
+Type = Gameshark
+Activation = EndFrame
+50000402 0000
+800C3498 6363
+
+[P1 Max Power Gauge]
+Type = Gameshark
+Activation = EndFrame
+800C0B8A 1000
+
+[P2 Max Power Gauge]
+Type = Gameshark
+Activation = EndFrame
+800C330A 1000
+
+[Unlock All Extras]
+Type = Gameshark
+Activation = EndFrame
+800C511A 0200
+50000902 0000
+800C5122 9F9F
+50000A02 0000
+800C5138 0606
+900C514C 08080808
+800C5152 0200
+800C5154 0808
+50000602 0000
+800C5158 0101
+900C5168 FFFFFFFF
+

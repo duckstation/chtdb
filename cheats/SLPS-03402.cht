@@ -1,0 +1,17 @@
+; CHTDB: ; [ Kids Station: Kamen Rider Heroes (Japan) (Kids Station Controller Set) {SLPS-03402} ]
+
+[Infinite Lives Destroy Objects]
+Type = Gameshark
+Activation = EndFrame
+8003E7C6 0003
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8003E768 03E8
+
+[Infinite Lives obstacle race]
+Type = Gameshark
+Activation = EndFrame
+8003E7C2 0003
+

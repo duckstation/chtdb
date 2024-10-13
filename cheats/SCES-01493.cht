@@ -1,0 +1,28 @@
+; CHTDB: ; [ MediEvil (Germany) {SCES-01493} ]
+
+[Unendlich Energie]
+Type = Gameshark
+Activation = EndFrame
+800F834C 012C
+
+[Unendlich Geld]
+Type = Gameshark
+Activation = EndFrame
+800F8464 270F
+
+[Unendlich Lebensflaschen]
+Type = Gameshark
+Activation = EndFrame
+800F8350 0960
+800F8354 0960
+
+[Breites Schwert 100%]
+Type = Gameshark
+Activation = EndFrame
+800F83D0 1000
+
+[Keule 100%]
+Type = Gameshark
+Activation = EndFrame
+800F83D8 1000
+

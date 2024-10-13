@@ -1,0 +1,72 @@
+; CHTDB: ; [ Worms Armageddon (USA) (1999) (MicroProse Software) {SLUS-00888} <wormsarm> ]
+
+[Infinite Round Time]
+Type = Gameshark
+Activation = EndFrame
+9019B440 001B7740
+
+[P1 Indestructable Team]
+Type = Gameshark
+Activation = EndFrame
+8014AAA8 0064
+8014AB44 0064
+8014ABE0 0064
+8014AC7C 0064
+
+[Infinite Time in Practice mode]
+Type = Gameshark
+Activation = EndFrame
+8019AA08 E678
+
+[Basic training - The Gods Medal Modifier]
+Type = Gameshark
+Activation = EndFrame
+301E2408 0003
+
+[Unlock The Next Level (The Gods)]
+Type = Gameshark
+Activation = EndFrame
+301E238C 0001
+
+[Have All Weapons]
+Type = Gameshark
+Activation = EndFrame
+50003E04 0000
+8014B4EC 0001
+
+[Infinite Ammo All Weapons]
+Type = Gameshark
+Activation = EndFrame
+50003E04 0000
+8014B4EE 0001
+
+[Disable Movement]
+Type = Gameshark
+Activation = EndFrame
+A7072A86 10401000
+
+[Walk Up Steep Walls]
+Type = Gameshark
+Activation = EndFrame
+A7063ECA 14401000
+
+[P1 Indestructable Worm 1]
+Type = Gameshark
+Activation = EndFrame
+8014AAA8 0064
+
+[P1 Indestructable Worm 2]
+Type = Gameshark
+Activation = EndFrame
+8014AB44 0064
+
+[P1 Indestructable Worm 3]
+Type = Gameshark
+Activation = EndFrame
+8014ABE0 0064
+
+[P1 Indestructable Worm 4]
+Type = Gameshark
+Activation = EndFrame
+8014AC7C 0064
+

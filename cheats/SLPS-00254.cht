@@ -1,0 +1,32 @@
+; CHTDB: ; [ Wolf Fang Kuuga 2001 (Jpn) (1996) (Xing) {SLPS-00254} <wolffang> ]
+
+[P1 Infinite Shield Energy]
+Type = Gameshark
+Activation = EndFrame
+800D1694 0006
+
+[P1 Max Shots Level 3]
+Type = Gameshark
+Activation = EndFrame
+800D16B6 0200
+
+[P1 Infinite Sub-Weapon Energy]
+Type = Gameshark
+Activation = EndFrame
+800D16C6 0003
+
+[P2 Infinite Shield Energy]
+Type = Gameshark
+Activation = EndFrame
+800D1850 0006
+
+[P2 Max Shots Level 3]
+Type = Gameshark
+Activation = EndFrame
+800D1872 0200
+
+[P2 Infinite Sub-Weapon Energy]
+Type = Gameshark
+Activation = EndFrame
+800D1882 0003
+

@@ -1,0 +1,32 @@
+; CHTDB: ; [ Saban's Power Rangers: Lightspeed Rescue (Europe) {SLES-03286} ]
+
+[SuddenDeath enemies Use together with Invincibility-code. Don't collect any health-pickups]
+Type = Gameshark
+Activation = EndFrame
+D00107C2 0204
+800107C4 0000
+D00107C2 0204
+800107C4 3403
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+D0010C1A 3863
+80010C1C 0000
+D0010C1A 3863
+80010C1E 0000
+
+[Lives don't decrease]
+Type = Gameshark
+Activation = EndFrame
+D00748D2 AE42
+800748D4 0000
+D00748D2 AE42
+800748D6 0000
+
+[Credits don't decrease]
+Type = Gameshark
+Activation = EndFrame
+D0041A1C FFFF
+80041A20 0000
+

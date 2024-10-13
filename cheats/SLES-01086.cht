@@ -1,0 +1,106 @@
+; CHTDB: ; [ Forsaken (France) {SLES-01086} ]
+
+[Primary Weapons\Trojax]
+Type = Gameshark
+Activation = EndFrame
+30086A12 0001
+800869CC 8000
+
+[Primary Weapons\Pyrolite]
+Type = Gameshark
+Activation = EndFrame
+30086A13 0001
+800869CE 8000
+
+[Primary Weapons\Beamlaser]
+Type = Gameshark
+Activation = EndFrame
+30086A14 0001
+800869D2 0000
+
+[Primary Weapons\Orbit Pulsar]
+Type = Gameshark
+Activation = EndFrame
+3008672E 0001
+
+[Primary Weapons\Transpulse]
+Type = Gameshark
+Activation = EndFrame
+30086A11 0001
+
+[Primary Weapons\Suss Gun]
+Type = Gameshark
+Activation = EndFrame
+30086A15 0001
+800869D0 8000
+
+[Secondary Weapons\Infinite Mug]
+Type = Gameshark
+Activation = EndFrame
+80086A16 0507
+
+[Secondary Weapons\Infinite Solaris]
+Type = Gameshark
+Activation = EndFrame
+80086A18 000F
+
+[Secondary Weapons\Infinite Scatter]
+Type = Gameshark
+Activation = EndFrame
+30086A1A 000F
+
+[Secondary Weapons\Infinite Titan]
+Type = Gameshark
+Activation = EndFrame
+30086A1B 000F
+
+[Secondary Weapons\Infinite Gravgon]
+Type = Gameshark
+Activation = EndFrame
+30086A1C 000F
+
+[Secondary Weapons\Infinite Mfrl]
+Type = Gameshark
+Activation = EndFrame
+30086A1D 000F
+
+[Secondary Weapons\Infinite Purge]
+Type = Gameshark
+Activation = EndFrame
+80086A1E 000F
+
+[Secondary Weapons\Infinite Pine]
+Type = Gameshark
+Activation = EndFrame
+30086A20 000F
+
+[Secondary Weapons\Infinite Quantum]
+Type = Gameshark
+Activation = EndFrame
+30086A21 000F
+
+[Secondary Weapons\Infinite Boucl]
+Type = Gameshark
+Activation = EndFrame
+800869C4 1000
+
+[Secondary Weapons\Infinite Coque]
+Type = Gameshark
+Activation = EndFrame
+800869C6 1000
+
+[Secondary Weapons\Infinite Motos]
+Type = Gameshark
+Activation = EndFrame
+300CD180 00FF
+
+[Secondary Weapons\Infinite Cristaux]
+Type = Gameshark
+Activation = EndFrame
+300CD181 00FF
+
+[Secondary Weapons\Infinite Power Pods]
+Type = Gameshark
+Activation = EndFrame
+800869F0 00FF
+

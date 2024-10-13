@@ -1,0 +1,7 @@
+; CHTDB: ; [ Tennis Arena (Europe) {SLES-00935} ]
+
+[P2/CPU always score 0]
+Type = Gameshark
+Activation = EndFrame
+801CE6A1 0000
+

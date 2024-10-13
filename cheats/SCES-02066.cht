@@ -1,0 +1,49 @@
+; CHTDB: ; [ Ace Combat 3: Electrosphere (Europe) {SCES-02066} ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80070E12 0000
+80070B8E 0000
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+E0070CFC 0040
+30070CFC 0000
+E0070D3C 0040
+30070D3C 0000
+E0072200 0040
+30072200 0000
+
+[Infinite Missiles]
+Type = Gameshark
+Activation = EndFrame
+D0070322 2442
+80070320 0000
+
+[Rapid Fire Missiles]
+Type = Gameshark
+Activation = EndFrame
+E0070230 0004
+30070230 0001
+
+[Infinite Time For Battle]
+Type = Gameshark
+Activation = EndFrame
+E0052D1A 0042
+30052D1A 0002
+
+[Infinite Time for battle]
+Type = Gameshark
+Activation = EndFrame
+E0052D1A 0042
+30052D1A 0002
+
+[All Aircrafts]
+Type = Gameshark
+Activation = EndFrame
+C1000000 5000
+50000A02 0000
+800BDB12 0101
+

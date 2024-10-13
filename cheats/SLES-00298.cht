@@ -1,0 +1,67 @@
+; CHTDB: ; [ Formula 1 aka Formula One (Europe) {SLES-00298} ]
+
+[Infinite Laptime]
+Type = Gameshark
+Activation = EndFrame
+800CEB2C 0E74
+
+[Lava Mode]
+Type = Gameshark
+Activation = EndFrame
+3009DAF0 0001
+
+[Gibberish Mode]
+Type = Gameshark
+Activation = EndFrame
+3009DAF1 0001
+
+[Bonus Track (To enable this code, it may be necessary to start a race/practice on another track and then abandon it)]
+Type = Gameshark
+Activation = EndFrame
+3009DAF2 0001
+
+[Buggy Mode]
+Type = Gameshark
+Activation = EndFrame
+8009DAEE 0001
+
+[Bike Mode]
+Type = Gameshark
+Activation = EndFrame
+8009DAEE 0100
+
+[English Mode (Only enable one language option at one time)]
+Type = Gameshark
+Activation = EndFrame
+3009DAF3 0001
+
+[French Mode (Only enable one language option at one time)]
+Type = Gameshark
+Activation = EndFrame
+3009DAF4 0001
+
+[German Mode (Only enable one language option at one time)]
+Type = Gameshark
+Activation = EndFrame
+3009DAF5 0001
+
+[Spanish Mode (Only enable one language option at one time)]
+Type = Gameshark
+Activation = EndFrame
+3009DAF6 0001
+
+[Italian Mode (Only enable one language option at one time)]
+Type = Gameshark
+Activation = EndFrame
+3009DAF7 0001
+
+[Roving Camera (This code is one of the special options, but currently we have no idea what it actually does)]
+Type = Gameshark
+Activation = EndFrame
+3009DAF8 0001
+
+[Arcade Mode Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800CEB2C 1350
+

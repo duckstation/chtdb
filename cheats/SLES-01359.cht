@@ -1,0 +1,17 @@
+; CHTDB: ; [ Shadow Gunner: The Robot Wars (Europe) {SLES-01359} ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8006DA60 0640
+
+[Infinite Shoulder Weapon]
+Type = Gameshark
+Activation = EndFrame
+8006DA6A 0005
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+801C8C30 0062
+

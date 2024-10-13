@@ -1,0 +1,27 @@
+; CHTDB: ; [ Ray Tracers (Europe) {SCES-00741} ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80058378 05DC
+
+[Infinite Nitro]
+Type = Gameshark
+Activation = EndFrame
+80057F3C 03B6
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A705EAF0 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A705EAF0 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A705EAF0 10000400
+

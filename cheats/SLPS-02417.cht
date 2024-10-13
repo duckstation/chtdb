@@ -1,0 +1,20 @@
+; CHTDB: ; [ Neorude: Kizamareta Monshou (Japan) {SLPS-02417} ]
+
+[Infinite HP Character 1]
+Type = Gameshark
+Activation = EndFrame
+801B3D08 03E7
+801B8638 03E7
+
+[Infinite HP Character 2]
+Type = Gameshark
+Activation = EndFrame
+801B3D48 03E7
+801B8E7C 03E7
+
+[Infinite HP Character 3]
+Type = Gameshark
+Activation = EndFrame
+801B3D88 03E7
+801B96C0 03E7
+

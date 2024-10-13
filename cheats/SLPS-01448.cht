@@ -1,0 +1,141 @@
+; CHTDB: ; [ Back Guiner: Yomigaeru Yuusha Tachi: Service Disc (Japan) {SLPS-01448} ]
+
+[Infinite HP First character]
+Type = Gameshark
+Activation = EndFrame
+800950CE 024E
+
+[Infinite HP Second character]
+Type = Gameshark
+Activation = EndFrame
+800950FA 01FE
+
+[Infinite HP Third character]
+Type = Gameshark
+Activation = EndFrame
+80095126 0212
+
+[Infinite HP Fourth character]
+Type = Gameshark
+Activation = EndFrame
+8009517E 023A
+
+[Infinite HP Fifth character]
+Type = Gameshark
+Activation = EndFrame
+800951AA 01E0
+
+[Infinite HP Sixth character]
+Type = Gameshark
+Activation = EndFrame
+800951D6 01F4
+
+[Infinite HP Seventh character]
+Type = Gameshark
+Activation = EndFrame
+80095202 01E0
+
+[Infinite HP Eighth character]
+Type = Gameshark
+Activation = EndFrame
+8009522E 0226
+
+[Main Character Max Exp]
+Type = Gameshark
+Activation = EndFrame
+800950D4 0063
+
+[Main Character Max Weapon]
+Type = Gameshark
+Activation = EndFrame
+800CED5C 03E7
+800CED60 1001
+
+[2nd Character Max Exp]
+Type = Gameshark
+Activation = EndFrame
+80095100 0063
+
+[2ND Character Max Weapon]
+Type = Gameshark
+Activation = EndFrame
+800CED9C 03E7
+800CEDA0 1001
+
+[3rd Character Max Exp]
+Type = Gameshark
+Activation = EndFrame
+80095158 0063
+
+[3RD Character Max Weapon]
+Type = Gameshark
+Activation = EndFrame
+800CEDDC 03E7
+800CEDE0 1001
+
+[4th Character Max Exp]
+Type = Gameshark
+Activation = EndFrame
+80095184 0063
+
+[4Rd Character Max Weapon]
+Type = Gameshark
+Activation = EndFrame
+800CED7C 03E7
+800CED80 1001
+
+[5th Character Max Exp]
+Type = Gameshark
+Activation = EndFrame
+800951B0 0063
+
+[5TH Character Max Weapon]
+Type = Gameshark
+Activation = EndFrame
+800CEDBC 03E7
+800CEDC0 1001
+
+[6th Character Max Exp]
+Type = Gameshark
+Activation = EndFrame
+80095208 0063
+
+[6TH Character Max Weapon]
+Type = Gameshark
+Activation = EndFrame
+800CEDFC 03E7
+800CEE00 1001
+
+[7th Character Max Exp]
+Type = Gameshark
+Activation = EndFrame
+800951DC 0063
+
+[7TH Character Max Weapon]
+Type = Gameshark
+Activation = EndFrame
+800CF21C 03E7
+800CF220 1001
+
+[8th Character Max Exp]
+Type = Gameshark
+Activation = EndFrame
+80095234 0063
+
+[8TH Character Max Weapon]
+Type = Gameshark
+Activation = EndFrame
+800CF23C 03E7
+800CF240 1001
+
+[9th Character Max Exp]
+Type = Gameshark
+Activation = EndFrame
+8009512C 0063
+
+[9TH Character Max Weapon]
+Type = Gameshark
+Activation = EndFrame
+800CF1FC 03E7
+800CF200 1001
+

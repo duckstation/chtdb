@@ -1,0 +1,81 @@
+; CHTDB: ; [ Championship Bass (USA) (2000) (Electronic Arts) {SLUS-01084} <champbas> ]
+
+[Stop Timer (Challenge Mode)]
+Type = Gameshark
+Activation = EndFrame
+800E798E 2400
+
+[Unlock Topwater Jerkbait]
+Type = Gameshark
+Activation = EndFrame
+800C4DE0 0001
+
+[Unlock Deep Diving Crankbait Lure]
+Type = Gameshark
+Activation = EndFrame
+800C4DF0 0001
+
+[Unlock Curly Tail Worm Lure]
+Type = Gameshark
+Activation = EndFrame
+800C4DFC 0001
+
+[Unlock Grub Lure]
+Type = Gameshark
+Activation = EndFrame
+800C4E00 0001
+
+[Unlock Tube Bait Lure]
+Type = Gameshark
+Activation = EndFrame
+800C4E04 0001
+
+[Unlock Popper Lure]
+Type = Gameshark
+Activation = EndFrame
+800C4E10 0001
+
+[Unlock Prop Lure]
+Type = Gameshark
+Activation = EndFrame
+800C4E18 0001
+
+[Start On Last Challenge Level]
+Type = Gameshark
+Activation = EndFrame
+A60C4D92 0000000E
+
+[Start/Stop Timer - Tournament]
+Description = Press L1+L2 To Activate + R1+R2 To De-Activate
+Type = Gameshark
+Activation = EndFrame
+C00BB544 0005
+800E7A12 2400
+800E7A2E 2400
+00000000 FFFF
+C00BB544 000A
+900E7A10 ACC245D8
+900E7A2C ACC245D8
+00000000 FFFF
+
+[Line Never Breaks]
+Type = Gameshark
+Activation = EndFrame
+801148B6 03EB
+
+[Rick or Mituki Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800A9390 0034
+800A93A4 0034
+
+[Rick or Mituki Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800E7408 1FFF
+
+[Rick or Mituki Infinite Lnf]
+Type = Gameshark
+Activation = EndFrame
+800E740A 0FFF
+

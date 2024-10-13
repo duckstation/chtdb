@@ -1,0 +1,17 @@
+; CHTDB: ; [ Alice in Cyberland (Jpn) (1996) (Glams) {SLPS-00636} <alicecyb> ]
+
+[HP does not decrease]
+Type = Gameshark
+Activation = EndFrame
+801CFE1C 270F
+
+[HP enemy 0]
+Type = Gameshark
+Activation = EndFrame
+801A6918 0000
+
+[I win at rock-paper-scissors 3]
+Type = Gameshark
+Activation = EndFrame
+8009A838 0003
+

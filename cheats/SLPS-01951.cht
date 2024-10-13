@@ -1,0 +1,110 @@
+; CHTDB: ; [ Chocobo Racing: Genkai e no Road (Japan) {SLPS-01951} ]
+
+[All Crowns - Grand Prix]
+Type = Gameshark
+Activation = EndFrame
+801E9290 FFFF
+
+[All Class]
+Type = Gameshark
+Activation = EndFrame
+801E9292 FFFF
+
+[Unlock Sound Room Bgm]
+Type = Gameshark
+Activation = EndFrame
+901E9294 FFFFFFFF
+
+[Unlock Movie]
+Type = Gameshark
+Activation = EndFrame
+801E9298 FFFF
+
+[Unlock Hidden Characters & Courses]
+Type = Gameshark
+Activation = EndFrame
+801E929C 037F
+80078166 0FFF
+
+[Cheat Starting Line Up (P1 press Select & Square)]
+Type = Gameshark
+Activation = EndFrame
+D0024EDA 2442
+80024ED8 0001
+
+[Furiwake Max Points (Press L2+R2)]
+Type = Gameshark
+Activation = EndFrame
+D00781F0 0003
+3008A721 0064
+
+[Fastest]
+Type = Gameshark
+Activation = EndFrame
+3008A722 0063
+
+[Accelerated Max]
+Type = Gameshark
+Activation = EndFrame
+3008A723 0063
+
+[Grip Max]
+Type = Gameshark
+Activation = EndFrame
+3008A724 0063
+
+[Drift Max]
+Type = Gameshark
+Activation = EndFrame
+3008A725 0063
+
+[AGS Max]
+Type = Gameshark
+Activation = EndFrame
+3008A726 0063
+
+[Story mode stage selection 1]
+Type = Gameshark
+Activation = EndFrame
+301E929F 0001
+
+[Story mode stage selection 2]
+Type = Gameshark
+Activation = EndFrame
+301E929F 0002
+
+[Story mode stage selection 3]
+Type = Gameshark
+Activation = EndFrame
+301E929F 0003
+
+[Story mode stage selection 4]
+Type = Gameshark
+Activation = EndFrame
+301E929F 0004
+
+[Story mode stage selection 5]
+Type = Gameshark
+Activation = EndFrame
+301E929F 0005
+
+[Story mode stage selection 6]
+Type = Gameshark
+Activation = EndFrame
+301E929F 0006
+
+[Story mode stage selection 7]
+Type = Gameshark
+Activation = EndFrame
+301E929F 0007
+
+[Story mode stage selection 8]
+Type = Gameshark
+Activation = EndFrame
+301E929F 0008
+
+[Story mode points 99]
+Type = Gameshark
+Activation = EndFrame
+301E929E 0063
+

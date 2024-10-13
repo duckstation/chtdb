@@ -1,0 +1,12 @@
+; CHTDB: ; [ Exector (Japan) {SLPS-00091} ]
+
+[Infinite Infinite Health (Green)]
+Type = Gameshark
+Activation = EndFrame
+801E434E 0440
+
+[Laser Doesn't Overheat]
+Type = Gameshark
+Activation = EndFrame
+80134844 0001
+

@@ -1,0 +1,18 @@
+; CHTDB: ; [ Jupiter Strike (USA) (1995) (Acclaim Entertainment) {SLUS-00177} <jupstrik> ]
+
+[Infinite Shield]
+Type = Gameshark
+Activation = EndFrame
+800BB3D4 0064
+800BB818 0064
+
+[Laser Always Cool]
+Type = Gameshark
+Activation = EndFrame
+800BB950 0064
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800C38A4 0003
+

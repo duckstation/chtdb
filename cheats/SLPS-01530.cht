@@ -1,0 +1,29 @@
+; CHTDB: ; [ Navit (Jpn) (1998) (Artdink) {SLPS-01530} <navit> ]
+
+[Funds 999,990,000]
+Type = Gameshark
+Activation = EndFrame
+80150D94 423F
+30150D96 000F
+
+[Press L1L2R1R2 to clear the stage]
+Type = Gameshark
+Activation = EndFrame
+D0106848 000F
+80150D9C FFFF
+
+[Stress 0]
+Type = Gameshark
+Activation = EndFrame
+80150DA0 0000
+
+[Number 0 with accident]
+Type = Gameshark
+Activation = EndFrame
+80150DA4 0000
+
+[Do not reduce TIME]
+Type = Gameshark
+Activation = EndFrame
+A608DC5C FFFF0000
+

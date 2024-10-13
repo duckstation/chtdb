@@ -1,0 +1,100 @@
+; CHTDB: ; [ Rhapsody - A Musical Adventure (USA) (2000) (Atlus U.S.A.) {SLUS-01073} <rhapsody> ]
+
+[Cornet Infinite HP in battle]
+Type = Gameshark
+Activation = EndFrame
+800DFE48 03E7
+
+[Sharte Infinite HP in battle]
+Type = Gameshark
+Activation = EndFrame
+800DFE46 03E7
+
+[Max Inotium]
+Type = Gameshark
+Activation = EndFrame
+9004BBE8 05F5E0FF
+
+[Character 1\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+8004BFFC 03E7
+
+[Character 1\Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+8004BFFE 03E7
+
+[Character 1\Max HP]
+Type = Gameshark
+Activation = EndFrame
+8004C000 03E7
+
+[Character 1\Max MP]
+Type = Gameshark
+Activation = EndFrame
+8004C002 03E7
+
+[Character 2\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+8004C020 03E7
+
+[Character 2\Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+8004C022 03E7
+
+[Character 3\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+8004C044 03E7
+
+[Character 3\Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+8004C046 03E7
+
+[Character 4\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+8004C068 03E7
+
+[Character 4\Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+8004C06A 03E7
+
+[Character 5\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+8004C08C 03E7
+
+[Character 5\Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+8004C08E 03E7
+
+[Character 6\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+8004C0B0 03E7
+
+[Character 6\Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+8004C0B2 03E7
+
+[Have All/Infinite Items]
+Type = Gameshark
+Activation = EndFrame
+50001601 0000
+3004BBEC 6363
+50003001 0000
+3004BC02 6363
+
+[Enable All Rewards]
+Type = Gameshark
+Activation = EndFrame
+8004BCAE 001E
+

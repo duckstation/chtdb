@@ -1,0 +1,23 @@
+; CHTDB: ; [ Bratz - Dress Up, Get Down and Be a Bratz Superstar! (USA) (2003) (Ubi Soft Entertainment Software) {SLUS-01508} <bratz> ]
+
+[Quick Point Gain]
+Type = Gameshark
+Activation = EndFrame
+801F9D50 FFFF
+
+[Max Points]
+Type = Gameshark
+Activation = EndFrame
+901F9D50 05F5E0FF
+
+[Max Dance Bar]
+Type = Gameshark
+Activation = EndFrame
+801F9D64 0089
+
+[Unlock All Extras Unlocks all dance moves + stages.]
+Type = Gameshark
+Activation = EndFrame
+3007148C 000D
+80071492 03ED
+

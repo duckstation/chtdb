@@ -1,0 +1,17 @@
+; CHTDB: ; [ Jet Ace (Europe) {SLES-04125} ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80088A42 0063
+
+[Infinite Missiles]
+Type = Gameshark
+Activation = EndFrame
+80088A5C 0063
+
+[Infinite Fuel]
+Type = Gameshark
+Activation = EndFrame
+80088A28 0E0A
+

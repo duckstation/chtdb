@@ -1,0 +1,22 @@
+; CHTDB: ; [ 3D Kakutou Tkool (Japan) {SLPS-01434} ]
+
+[Infinite Timer]
+Type = Gameshark
+Activation = EndFrame
+80069D98 17AE
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8006A724 0064
+
+[Does not decrease stamina 1P]
+Type = Gameshark
+Activation = EndFrame
+301E1E71 00C8
+
+[Does not decrease stamina 2P]
+Type = Gameshark
+Activation = EndFrame
+301E1E75 00C8
+

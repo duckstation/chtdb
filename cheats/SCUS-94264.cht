@@ -1,0 +1,27 @@
+; CHTDB: ; [ NCAA Final Four 99 (USA) (1999) (989 Sports) {SCUS-94264} <ncaaff99> ]
+
+[Select Home Team Score\100]
+Type = Gameshark
+Activation = EndFrame
+800B7054 0064
+
+[Select Home Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+800B7054 0000
+
+[Select Away Team Score\100]
+Type = Gameshark
+Activation = EndFrame
+800B7518 0064
+
+[Select Away Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+800B7518 0000
+
+[Infinite Shot Clock]
+Type = Gameshark
+Activation = EndFrame
+800B6F74 0014
+

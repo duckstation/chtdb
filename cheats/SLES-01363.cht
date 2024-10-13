@@ -1,0 +1,89 @@
+; CHTDB: ; [ C3 Racing: Car Constructors Championship (Europe) {SLES-01363} ]
+
+[Always First Place]
+Type = Gameshark
+Activation = EndFrame
+801B99F8 0001
+
+[Arcade Mode All countries and levels unlocked]
+Type = Gameshark
+Activation = EndFrame
+50000A02 0003
+80025526 0000
+
+[Arcade Mode Codes\All Stages Selectable - Africa]
+Type = Gameshark
+Activation = EndFrame
+80025538 0003
+
+[Arcade Mode Codes\All Stages Selectable - Monaco]
+Type = Gameshark
+Activation = EndFrame
+80025528 0003
+
+[Arcade Mode Codes\All Stages Selectable - Roma]
+Type = Gameshark
+Activation = EndFrame
+80025526 0003
+
+[Arcade Mode Codes\All Stages Selectable - Norway]
+Type = Gameshark
+Activation = EndFrame
+8002552A 0003
+
+[Arcade Mode Codes\All Stages Selectable - Great Britain]
+Type = Gameshark
+Activation = EndFrame
+8002552C 0003
+
+[Arcade Mode Codes\All Stages Selectable - China]
+Type = Gameshark
+Activation = EndFrame
+80025530 0003
+
+[Arcade Mode Codes\All Stages Selectable - Usa]
+Type = Gameshark
+Activation = EndFrame
+80025532 0003
+
+[Arcade Mode Codes\All Stages Selectable - Indonesia]
+Type = Gameshark
+Activation = EndFrame
+80025534 0003
+
+[Arcade Mode Codes\All Stages Selectable - Brasilia]
+Type = Gameshark
+Activation = EndFrame
+80025536 0003
+
+[Arcade Mode Codes\All Stages Selectable - Peru]
+Type = Gameshark
+Activation = EndFrame
+8002552E 0003
+
+[Arcade Mode Codes\All Stages Selectable (Use this or the specified codes)]
+Type = Gameshark
+Activation = EndFrame
+50000A02 0000
+80025526 0003
+
+[Arcade Mode Codes\All Cars]
+Type = Gameshark
+Activation = EndFrame
+9002595C 00FF00FF
+
+[Championship Mode Codes\Access All Seasons]
+Type = Gameshark
+Activation = EndFrame
+80025950 0300
+
+[Championship Mode Codes\Have All Cars (Gti)]
+Type = Gameshark
+Activation = EndFrame
+80025964 FFFF
+
+[Championship Mode Codes\Have All Cars (High Performance)]
+Type = Gameshark
+Activation = EndFrame
+80025966 FFFF
+

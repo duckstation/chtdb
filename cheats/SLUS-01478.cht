@@ -1,0 +1,13 @@
+; CHTDB: ; [ Big Strike Bowling (USA) (2003) (Gotham Games) {SLUS-01478} <bigsbowl> ]
+
+[Unlock All Characters]
+Type = Gameshark
+Activation = EndFrame
+800C563E FFFF
+
+[Press Select For Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+D00E2C6A FFFE
+800C566A FFFF
+

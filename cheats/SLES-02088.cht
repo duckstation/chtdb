@@ -1,0 +1,55 @@
+; CHTDB: ; [ Croc 2 (Europe) {SLES-02088} ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8007A16C 0063
+8007A168 0063
+
+[Max Crystals]
+Type = Gameshark
+Activation = EndFrame
+A607A1F8 00000064
+
+[All Puzzle Pieces]
+Type = Gameshark
+Activation = EndFrame
+8007A1F4 0004
+
+[99 Gold-Gobbos]
+Type = Gameshark
+Activation = EndFrame
+8007A1EC 0063
+
+[Max Swap Meet Pete Card]
+Type = Gameshark
+Activation = EndFrame
+8007A170 270F
+
+[Always Have Key (I'm not sure if the code to have always the key is the right one)]
+Type = Gameshark
+Activation = EndFrame
+8007A1D8 0001
+
+[Max Inventory (After Pickup)]
+Type = Gameshark
+Activation = EndFrame
+A607A1FC 00010009
+A607A200 00010009
+A607A204 00010009
+A607A208 00010009
+A607A20C 00010009
+A607A210 00010009
+
+[Press L1 For Invincibility]
+Type = Gameshark
+Activation = EndFrame
+D0075840 0400
+8003B6FA 8CC2
+
+[Press R1 To Disable Invincibility]
+Type = Gameshark
+Activation = EndFrame
+D0075840 0800
+8003B6F2 ACC2
+

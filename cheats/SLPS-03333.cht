@@ -1,0 +1,31 @@
+; CHTDB: ; [ Tokyo Majin Gakuen Gehouchou (Jpn) (2002) (Asmik Ace) {SLPS-03333~SLPS-03335} <tokyomgg> ]
+
+[Main character Infinite + Max HP]
+Type = Gameshark
+Activation = EndFrame
+8014CB02 03E7
+8014CB0C 03E7
+
+[Second character Infinite + Max HP]
+Type = Gameshark
+Activation = EndFrame
+8014CE4A 03E7
+8014CE54 03E7
+
+[Third Character Infinite + Max HP]
+Type = Gameshark
+Activation = EndFrame
+8014D192 03E7
+8014D19C 03E7
+
+[Money 99999999]
+Type = Gameshark
+Activation = EndFrame
+901FE9D4 0FF5E0FF
+
+[Items all possession]
+Type = Gameshark
+Activation = EndFrame
+50007602 0000
+801FE8BE 6363
+

@@ -1,0 +1,18 @@
+; CHTDB: ; [ CT Special Forces 3: Bioterror (Europe) {SLES-04155} ]
+
+[Lives]
+Type = Gameshark
+Activation = EndFrame
+800A274C 0009
+
+[Health]
+Type = Gameshark
+Activation = EndFrame
+800A276C 0064
+
+[Machinegun Ammo And Grenades]
+Type = Gameshark
+Activation = EndFrame
+800A2776 0063
+800A277E 0063
+

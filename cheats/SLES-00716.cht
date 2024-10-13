@@ -1,0 +1,27 @@
+; CHTDB: ; [ Explosive Racing (Europe) {SLES-00716} ]
+
+[Total race time always 00.00.00]
+Type = Gameshark
+Activation = EndFrame
+80072A9F 0000
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+8007285C 0063
+
+[Always be 1st]
+Type = Gameshark
+Activation = EndFrame
+800EA3D0 0001
+
+[All Vehicles Unlocked]
+Type = Gameshark
+Activation = EndFrame
+80072A30 FFFF
+
+[Hidden 'Very Easy' Difficulty]
+Type = Gameshark
+Activation = EndFrame
+30072A34 0003
+

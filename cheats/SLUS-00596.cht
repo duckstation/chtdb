@@ -1,0 +1,28 @@
+; CHTDB: ; [ Tennis Arena (USA) (1997) (Ubi Soft Entertainment Software) {SLUS-00596} <tennisar> ]
+
+[P1 Starts Off With A Scores 40]
+Type = Gameshark
+Activation = EndFrame
+D01CBF60 0000
+301CBF60 4040
+
+[P1 Always Scores 00]
+Type = Gameshark
+Activation = EndFrame
+301CBF60 4000
+
+[P2 Always Has Super Special Shot]
+Type = Gameshark
+Activation = EndFrame
+801CBDFC 000A
+
+[P1 Needs to Win Just One Match To Win The Set]
+Type = Gameshark
+Activation = EndFrame
+301FDF40 0008
+
+[CPU or P2 Scores 00]
+Type = Gameshark
+Activation = EndFrame
+301FDF41 0000
+

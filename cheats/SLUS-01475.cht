@@ -1,0 +1,22 @@
+; CHTDB: ; [ The Amazing Virtual Sea-Monkeys (USA) (2002) (Conspiracy Entertainment) {SLUS-01475} <seamonk> ]
+
+[Infinite Attemps]
+Type = Gameshark
+Activation = EndFrame
+8014E030 0009
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+8014A984 001E
+
+[No Blue Balls]
+Type = Gameshark
+Activation = EndFrame
+3014E029 0000
+
+[No Goldfish]
+Type = Gameshark
+Activation = EndFrame
+3014E028 0000
+

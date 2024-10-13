@@ -1,0 +1,7 @@
+; CHTDB: ; [ Uchuu Goushou-den - Bakuretsu Akindo (Jpn) (1996) (Astec21) {SLPS-00236} <bakuakin> ]
+
+[P1 Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+900FF59C 0001869F
+

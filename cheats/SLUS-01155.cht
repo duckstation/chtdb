@@ -1,0 +1,56 @@
+; CHTDB: ; [ N-Gen Racing (USA) (2000) (Infogrames) {SLUS-01155} <ngen> ]
+
+[Max Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+90072478 FFFFFFFF
+
+[All Permits Passed]
+Type = Gameshark
+Activation = EndFrame
+30072458 0001
+30072461 0001
+3007246A 0001
+30072473 0001
+
+[Max Championship Points]
+Type = Gameshark
+Activation = EndFrame
+800844C4 0FFF
+
+[P1 Start/Stop Timer]
+Description = L1+L2 To Start + R1+R2 To Stop
+Type = Gameshark
+Activation = EndFrame
+D0073A3C 0500
+800DCD56 ACA3
+D0073A3C 0A00
+800DCD56 2400
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+D00BB11C 0028
+800BB11E 2400
+
+[Menu Modifier 02-Language Select]
+Description = Not all text present
+Type = Gameshark
+Activation = EndFrame
+80127A4C 0002
+
+[Menu Modifier 05- Debug Start (debug menu)]
+Type = Gameshark
+Activation = EndFrame
+80127A4C 0005
+
+[Free Fly (Autopilot never Engages)]
+Type = Gameshark
+Activation = EndFrame
+A70BDD16 04411000
+
+[Autopilot Stays On if Engaged]
+Type = Gameshark
+Activation = EndFrame
+A70BDDFE 18A01000
+

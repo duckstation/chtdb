@@ -1,0 +1,67 @@
+; CHTDB: ; [ OverBlood 2 (Europe) {SLES-01879 | SLES-11879} ]
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+801BF49C 0B40
+8004AFE2 0040
+
+[Infinite CP]
+Type = Gameshark
+Activation = EndFrame
+801BF4A0 04B0
+80056CBC 0000
+
+[Infinite Bullets]
+Type = Gameshark
+Activation = EndFrame
+8006F3F6 8482
+
+[Gun]
+Type = Gameshark
+Activation = EndFrame
+801BF61E 0009
+
+[All Recovery Items]
+Type = Gameshark
+Activation = EndFrame
+801BF638 000B
+801BF644 000C
+801BF650 000D
+801BF63A 0001
+801BF646 0001
+801BF652 0001
+801BF63C 0063
+801BF648 0063
+801BF654 0063
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+901BF20C 0001869F
+
+[Infinite Antique Gun Ammo]
+Type = Gameshark
+Activation = EndFrame
+801BF22A 0009
+
+[Walk through NPCs]
+Type = Gameshark
+Activation = EndFrame
+A70436AA 10401400
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A71F0FB8 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A71F0FB8 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A71F0FB8 10000400
+

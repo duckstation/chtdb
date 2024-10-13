@@ -1,0 +1,3352 @@
+; CHTDB: ; [ SaGa Frontier 2 (USA) (2000) (Square Electronic Arts) {SLUS-00933} <sagafrn2> ]
+
+[Max Chips (Money)]
+Type = Gameshark
+Activation = EndFrame
+900103D4 000F423F
+
+[Scenario Access Modifier Enable All Scenarios]
+Type = Gameshark
+Activation = EndFrame
+50002202 0000
+800101EC 0202
+
+[In-Battle Character 1 Cheats\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+801F6990 03E7
+
+[In-Battle Character 1 Cheats\Infinite LP]
+Type = Gameshark
+Activation = EndFrame
+301F6998 00FF
+
+[In-Battle Character 1 Cheats\Infinite WP]
+Type = Gameshark
+Activation = EndFrame
+301F69A0 00FF
+
+[In-Battle Character 1 Cheats\Infinite SP]
+Type = Gameshark
+Activation = EndFrame
+301F69AC 00FF
+
+[In-Battle Character 1 Cheats\Immune To Status Ailments]
+Type = Gameshark
+Activation = EndFrame
+801F69B8 0000
+
+[In-Battle Character 2 Cheats\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+801F6B80 03E7
+
+[In-Battle Character 2 Cheats\Infinite LP]
+Type = Gameshark
+Activation = EndFrame
+301F6B88 00FF
+
+[In-Battle Character 2 Cheats\Infinite WP]
+Type = Gameshark
+Activation = EndFrame
+301F6B90 00FF
+
+[In-Battle Character 2 Cheats\Infinite SP]
+Type = Gameshark
+Activation = EndFrame
+301F6B9C 00FF
+
+[In-Battle Character 2 Cheats\Immune To Status Ailments]
+Type = Gameshark
+Activation = EndFrame
+801F6BA8 0000
+
+[In-Battle Character 3 Cheats\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+801F6D70 03E7
+
+[In-Battle Character 3 Cheats\Infinite LP]
+Type = Gameshark
+Activation = EndFrame
+301F6D78 00FF
+
+[In-Battle Character 3 Cheats\Infinite WP]
+Type = Gameshark
+Activation = EndFrame
+301F6D80 00FF
+
+[In-Battle Character 3 Cheats\Infinite SP]
+Type = Gameshark
+Activation = EndFrame
+301F6D8C 00FF
+
+[In-Battle Character 3 Cheats\Immune To Status Ailments]
+Type = Gameshark
+Activation = EndFrame
+801F6D98 0000
+
+[In-Battle Character 4 Cheats\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+801F6F60 03E7
+
+[In-Battle Character 4 Cheats\Infinite LP]
+Type = Gameshark
+Activation = EndFrame
+301F6F68 00FF
+
+[In-Battle Character 4 Cheats\Infinite WP]
+Type = Gameshark
+Activation = EndFrame
+301F6F70 00FF
+
+[In-Battle Character 4 Cheats\Infinite SP]
+Type = Gameshark
+Activation = EndFrame
+301F6F7C 00FF
+
+[In-Battle Character 4 Cheats\Immune To Status Ailments]
+Type = Gameshark
+Activation = EndFrame
+801F6F88 0000
+
+[In-Battle Character 4 Cheats\1-Hit Kill Enemies]
+Type = Gameshark
+Activation = EndFrame
+801F7150 0000
+801F7340 0000
+801F7530 0000
+801F7720 0000
+
+[Cheats for All Other Characters\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+50001F70 0000
+8001040C 03E7
+
+[Cheats for All Other Characters\Max HP]
+Type = Gameshark
+Activation = EndFrame
+50001F70 0000
+8001040E 03E7
+
+[Cheats for All Other Characters\Infinite LP]
+Type = Gameshark
+Activation = EndFrame
+50001F70 0000
+30010410 00FF
+
+[Cheats for All Other Characters\Max LP]
+Type = Gameshark
+Activation = EndFrame
+50001F70 0000
+30010411 00FF
+
+[Cheats for All Other Characters\Infinite WP]
+Type = Gameshark
+Activation = EndFrame
+50001F70 0000
+30010414 00FF
+
+[Cheats for All Other Characters\Max WP]
+Type = Gameshark
+Activation = EndFrame
+50001F70 0000
+30010415 00FF
+
+[Cheats for All Other Characters\Max WP Recovery Rate]
+Type = Gameshark
+Activation = EndFrame
+50001F70 0000
+30010417 0063
+
+[Cheats for All Other Characters\Infinite SP]
+Type = Gameshark
+Activation = EndFrame
+50001F70 0000
+30010418 00FF
+
+[Cheats for All Other Characters\Max SP]
+Type = Gameshark
+Activation = EndFrame
+50001F70 0000
+30010419 00FF
+
+[Cheats for All Other Characters\Max SP Recovery Rate]
+Type = Gameshark
+Activation = EndFrame
+50001F70 0000
+3001041B 0063
+
+[Cheats for All Other Characters\Max Crowns (Cr)]
+Type = Gameshark
+Activation = EndFrame
+50001F70 0000
+80010408 423F
+50001F70 0000
+8001040A 000F
+
+[Cheats for All Other Characters\Max Martial Arts Level]
+Type = Gameshark
+Activation = EndFrame
+50001F70 0000
+3001041D 00E3
+
+[Cheats for All Other Characters\Max Sword Arts Level]
+Type = Gameshark
+Activation = EndFrame
+50001F70 0000
+3001041E 00E3
+
+[Cheats for All Other Characters\Max Axe Arts Level]
+Type = Gameshark
+Activation = EndFrame
+50001F70 0000
+3001041F 00E3
+
+[Cheats for All Other Characters\Max Staff Arts Level]
+Type = Gameshark
+Activation = EndFrame
+50001F70 0000
+30010420 00E3
+
+[Cheats for All Other Characters\Max Spear Arts Level]
+Type = Gameshark
+Activation = EndFrame
+50001F70 0000
+30010421 00E3
+
+[Cheats for All Other Characters\Max Bow Arts Level]
+Type = Gameshark
+Activation = EndFrame
+50001F70 0000
+30010422 00E3
+
+[Cheats for All Other Characters\Max Tree Arts Level]
+Type = Gameshark
+Activation = EndFrame
+50001F70 0000
+30010424 00E3
+
+[Cheats for All Other Characters\Max Stone Arts Level]
+Type = Gameshark
+Activation = EndFrame
+50001F70 0000
+30010425 00E3
+
+[Cheats for All Other Characters\Max Fire Arts Level]
+Type = Gameshark
+Activation = EndFrame
+50001F70 0000
+30010426 00E3
+
+[Cheats for All Other Characters\Max Water Arts Level]
+Type = Gameshark
+Activation = EndFrame
+50001F70 0000
+30010427 00E3
+
+[Cheats for All Other Characters\Max Tone Arts Level]
+Type = Gameshark
+Activation = EndFrame
+50001F70 0000
+30010428 00E3
+
+[Cheats for All Other Characters\Max Beast Arts Level]
+Type = Gameshark
+Activation = EndFrame
+50001F70 0000
+30010429 00E3
+
+[Cheats for All Other Characters\Equipped Items Never Break]
+Type = Gameshark
+Activation = EndFrame
+50001F70 0000
+3001043D 00FF
+50001F70 0000
+3001043F 00FF
+50001F70 0000
+30010441 00FF
+50001F70 0000
+30010443 00FF
+50001F70 0000
+30010445 00FF
+50001F70 0000
+30010447 00FF
+
+[Cielmer Character Cheats\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+8001047C 03E7
+
+[Cielmer Character Cheats\Max HP]
+Type = Gameshark
+Activation = EndFrame
+8001047E 03E7
+
+[Cielmer Character Cheats\Infinite LP]
+Type = Gameshark
+Activation = EndFrame
+30010480 00FF
+
+[Cielmer Character Cheats\Max LP]
+Type = Gameshark
+Activation = EndFrame
+30010481 00FF
+
+[Cielmer Character Cheats\Infinite WP]
+Type = Gameshark
+Activation = EndFrame
+30010484 00FF
+
+[Cielmer Character Cheats\Max WP]
+Type = Gameshark
+Activation = EndFrame
+30010485 00FF
+
+[Cielmer Character Cheats\Wp()]
+Type = Gameshark
+Activation = EndFrame
+30010487 0063
+
+[Cielmer Character Cheats\Max Martial]
+Type = Gameshark
+Activation = EndFrame
+3001048D 00FF
+
+[Cielmer Character Cheats\Max Sword]
+Type = Gameshark
+Activation = EndFrame
+3001048E 00FF
+
+[Cielmer Character Cheats\Max Axe]
+Type = Gameshark
+Activation = EndFrame
+3001048F 00FF
+
+[Cielmer Character Cheats\Max Staff]
+Type = Gameshark
+Activation = EndFrame
+30010490 00FF
+
+[Cielmer Character Cheats\Max Spear]
+Type = Gameshark
+Activation = EndFrame
+30010491 00FF
+
+[Cielmer Character Cheats\Max Bow]
+Type = Gameshark
+Activation = EndFrame
+30010492 00FF
+
+[Cielmer Character Cheats\Max Tree]
+Type = Gameshark
+Activation = EndFrame
+30010494 00FF
+
+[Cielmer Character Cheats\Max Stone]
+Type = Gameshark
+Activation = EndFrame
+30010495 00FF
+
+[Cielmer Character Cheats\Max Flame]
+Type = Gameshark
+Activation = EndFrame
+30010496 00FF
+
+[Cielmer Character Cheats\Max Water]
+Type = Gameshark
+Activation = EndFrame
+30010497 00FF
+
+[Cielmer Character Cheats\Max Tone]
+Type = Gameshark
+Activation = EndFrame
+30010498 00FF
+
+[Cielmer Character Cheats\Max Beast]
+Type = Gameshark
+Activation = EndFrame
+30010499 00FF
+
+[Cielmer Character Cheats\Easier Time Learning Art + On Arts]
+Type = Gameshark
+Activation = EndFrame
+E201048D 007F
+2001048D 0080
+E201048E 007F
+2001048E 0080
+E201048F 007F
+2001048F 0080
+E2010490 007F
+20010490 0080
+E2010491 007F
+20010491 0080
+E2010492 007F
+20010492 0080
+E2010494 007F
+20010494 0080
+E2010495 007F
+20010495 0080
+E2010496 007F
+20010496 0080
+E2010497 007F
+20010497 0080
+E2010498 007F
+20010498 0080
+E2010499 007F
+20010499 0080
+
+[Cordelia Character Cheats\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+8001078C 03E7
+
+[Cordelia Character Cheats\Max HP]
+Type = Gameshark
+Activation = EndFrame
+8001078E 03E7
+
+[Cordelia Character Cheats\Infinite LP]
+Type = Gameshark
+Activation = EndFrame
+30010790 00FF
+
+[Cordelia Character Cheats\Max LP]
+Type = Gameshark
+Activation = EndFrame
+30010791 00FF
+
+[Cordelia Character Cheats\Infinite WP]
+Type = Gameshark
+Activation = EndFrame
+30010794 00FF
+
+[Cordelia Character Cheats\Max WP]
+Type = Gameshark
+Activation = EndFrame
+30010795 00FF
+
+[Cordelia Character Cheats\Wp()]
+Type = Gameshark
+Activation = EndFrame
+30010797 0063
+
+[Cordelia Character Cheats\Max Martial]
+Type = Gameshark
+Activation = EndFrame
+3001079D 00FF
+
+[Cordelia Character Cheats\Max Sword]
+Type = Gameshark
+Activation = EndFrame
+3001079E 00FF
+
+[Cordelia Character Cheats\Max Axe]
+Type = Gameshark
+Activation = EndFrame
+3001079F 00FF
+
+[Cordelia Character Cheats\Max Staff]
+Type = Gameshark
+Activation = EndFrame
+300107A0 00FF
+
+[Cordelia Character Cheats\Max Spear]
+Type = Gameshark
+Activation = EndFrame
+300107A1 00FF
+
+[Cordelia Character Cheats\Max Bow]
+Type = Gameshark
+Activation = EndFrame
+300107A2 00FF
+
+[Cordelia Character Cheats\Max Tree]
+Type = Gameshark
+Activation = EndFrame
+300107A4 00FF
+
+[Cordelia Character Cheats\Max Stone]
+Type = Gameshark
+Activation = EndFrame
+300107A5 00FF
+
+[Cordelia Character Cheats\Max Flame]
+Type = Gameshark
+Activation = EndFrame
+300107A6 00FF
+
+[Cordelia Character Cheats\Max Water]
+Type = Gameshark
+Activation = EndFrame
+300107A7 00FF
+
+[Cordelia Character Cheats\Max Tone]
+Type = Gameshark
+Activation = EndFrame
+300107A8 00FF
+
+[Cordelia Character Cheats\Max Beast]
+Type = Gameshark
+Activation = EndFrame
+300107A9 00FF
+
+[Cordelia Character Cheats\Easier Time Learning Art + On Arts]
+Type = Gameshark
+Activation = EndFrame
+E201079D 007F
+2001079D 0080
+E201079E 007F
+2001079E 0080
+E201079F 007F
+2001079F 0080
+E20107A0 007F
+200107A0 0080
+E20107A1 007F
+200107A1 0080
+E20107A2 007F
+200107A2 0080
+E20107A4 007F
+200107A4 0080
+E20107A5 007F
+200107A5 0080
+E20107A6 007F
+200107A6 0080
+E20107A7 007F
+200107A7 0080
+E20107A8 007F
+200107A8 0080
+E20107A9 007F
+200107A9 0080
+
+[Diana Character Cheats\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+8001086C 03E7
+
+[Diana Character Cheats\Max HP]
+Type = Gameshark
+Activation = EndFrame
+8001086E 03E7
+
+[Diana Character Cheats\Infinite LP]
+Type = Gameshark
+Activation = EndFrame
+30010870 00FF
+
+[Diana Character Cheats\Max LP]
+Type = Gameshark
+Activation = EndFrame
+30010871 00FF
+
+[Diana Character Cheats\Infinite WP]
+Type = Gameshark
+Activation = EndFrame
+30010874 00FF
+
+[Diana Character Cheats\Max WP]
+Type = Gameshark
+Activation = EndFrame
+30010875 00FF
+
+[Diana Character Cheats\Wp()]
+Type = Gameshark
+Activation = EndFrame
+30010877 0063
+
+[Diana Character Cheats\Max Martial]
+Type = Gameshark
+Activation = EndFrame
+3001087D 00FF
+
+[Diana Character Cheats\Max Sword]
+Type = Gameshark
+Activation = EndFrame
+3001087E 00FF
+
+[Diana Character Cheats\Max Axe]
+Type = Gameshark
+Activation = EndFrame
+3001087F 00FF
+
+[Diana Character Cheats\Max Staff]
+Type = Gameshark
+Activation = EndFrame
+30010880 00FF
+
+[Diana Character Cheats\Max Spear]
+Type = Gameshark
+Activation = EndFrame
+30010881 00FF
+
+[Diana Character Cheats\Max Bow]
+Type = Gameshark
+Activation = EndFrame
+30010882 00FF
+
+[Diana Character Cheats\Max Tree]
+Type = Gameshark
+Activation = EndFrame
+30010884 00FF
+
+[Diana Character Cheats\Max Stone]
+Type = Gameshark
+Activation = EndFrame
+30010885 00FF
+
+[Diana Character Cheats\Max Flame]
+Type = Gameshark
+Activation = EndFrame
+30010886 00FF
+
+[Diana Character Cheats\Max Water]
+Type = Gameshark
+Activation = EndFrame
+30010887 00FF
+
+[Diana Character Cheats\Max Tone]
+Type = Gameshark
+Activation = EndFrame
+30010888 00FF
+
+[Diana Character Cheats\Max Beast]
+Type = Gameshark
+Activation = EndFrame
+30010889 00FF
+
+[Diana Character Cheats\Easier Time Learning Art + On Arts]
+Type = Gameshark
+Activation = EndFrame
+E201087D 007F
+2001087D 0080
+E201087E 007F
+2001087E 0080
+E201087F 007F
+2001087F 0080
+E2010880 007F
+20010880 0080
+E2010881 007F
+20010881 0080
+E2010882 007F
+20010882 0080
+E2010884 007F
+20010884 0080
+E2010885 007F
+20010885 0080
+E2010886 007F
+20010886 0080
+E2010887 007F
+20010887 0080
+E2010888 007F
+20010888 0080
+E2010889 007F
+20010889 0080
+
+[Eleanor Character Cheats\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+80010A2C 03E7
+
+[Eleanor Character Cheats\Max HP]
+Type = Gameshark
+Activation = EndFrame
+80010A2E 03E7
+
+[Eleanor Character Cheats\Infinite LP]
+Type = Gameshark
+Activation = EndFrame
+30010A30 00FF
+
+[Eleanor Character Cheats\Max LP]
+Type = Gameshark
+Activation = EndFrame
+30010A31 00FF
+
+[Eleanor Character Cheats\Infinite WP]
+Type = Gameshark
+Activation = EndFrame
+30010A34 00FF
+
+[Eleanor Character Cheats\Max WP]
+Type = Gameshark
+Activation = EndFrame
+30010A35 00FF
+
+[Eleanor Character Cheats\Wp()]
+Type = Gameshark
+Activation = EndFrame
+30010A37 0063
+
+[Eleanor Character Cheats\Max Martial]
+Type = Gameshark
+Activation = EndFrame
+30010A3D 00FF
+
+[Eleanor Character Cheats\Max Sword]
+Type = Gameshark
+Activation = EndFrame
+30010A3E 00FF
+
+[Eleanor Character Cheats\Max Axe]
+Type = Gameshark
+Activation = EndFrame
+30010A3F 00FF
+
+[Eleanor Character Cheats\Max Staff]
+Type = Gameshark
+Activation = EndFrame
+30010A40 00FF
+
+[Eleanor Character Cheats\Max Spear]
+Type = Gameshark
+Activation = EndFrame
+30010A41 00FF
+
+[Eleanor Character Cheats\Max Bow]
+Type = Gameshark
+Activation = EndFrame
+30010A42 00FF
+
+[Eleanor Character Cheats\Max Tree]
+Type = Gameshark
+Activation = EndFrame
+30010A44 00FF
+
+[Eleanor Character Cheats\Max Stone]
+Type = Gameshark
+Activation = EndFrame
+30010A45 00FF
+
+[Eleanor Character Cheats\Max Flame]
+Type = Gameshark
+Activation = EndFrame
+30010A46 00FF
+
+[Eleanor Character Cheats\Max Water]
+Type = Gameshark
+Activation = EndFrame
+30010A47 00FF
+
+[Eleanor Character Cheats\Max Tone]
+Type = Gameshark
+Activation = EndFrame
+30010A48 00FF
+
+[Eleanor Character Cheats\Max Beast]
+Type = Gameshark
+Activation = EndFrame
+30010A49 00FF
+
+[Eleanor Character Cheats\Easier Time Learning Art + On Arts]
+Type = Gameshark
+Activation = EndFrame
+E2010A3D 007F
+20010A3D 0080
+E2010A3E 007F
+20010A3E 0080
+E2010A3F 007F
+20010A3F 0080
+E2010A40 007F
+20010A40 0080
+E2010A41 007F
+20010A41 0080
+E2010A42 007F
+20010A42 0080
+E2010A44 007F
+20010A44 0080
+E2010A45 007F
+20010A45 0080
+E2010A46 007F
+20010A46 0080
+E2010A47 007F
+20010A47 0080
+E2010A48 007F
+20010A48 0080
+E2010A49 007F
+20010A49 0080
+
+[Ginny Knights Character Cheats\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+80010E1C 03E7
+
+[Ginny Knights Character Cheats\Max HP]
+Type = Gameshark
+Activation = EndFrame
+80010E1E 03E7
+
+[Ginny Knights Character Cheats\Infinite LP]
+Type = Gameshark
+Activation = EndFrame
+30010E20 00FF
+
+[Ginny Knights Character Cheats\Max LP]
+Type = Gameshark
+Activation = EndFrame
+30010E21 00FF
+
+[Ginny Knights Character Cheats\Infinite WP]
+Type = Gameshark
+Activation = EndFrame
+30010E24 00FF
+
+[Ginny Knights Character Cheats\Max WP]
+Type = Gameshark
+Activation = EndFrame
+30010E25 00FF
+
+[Ginny Knights Character Cheats\Wp()]
+Type = Gameshark
+Activation = EndFrame
+30010E27 0063
+
+[Ginny Knights Character Cheats\Max Martial]
+Type = Gameshark
+Activation = EndFrame
+30010E2D 00FF
+
+[Ginny Knights Character Cheats\Max Sword]
+Type = Gameshark
+Activation = EndFrame
+30010E2E 00FF
+
+[Ginny Knights Character Cheats\Max Axe]
+Type = Gameshark
+Activation = EndFrame
+30010E2F 00FF
+
+[Ginny Knights Character Cheats\Max Staff]
+Type = Gameshark
+Activation = EndFrame
+30010E30 00FF
+
+[Ginny Knights Character Cheats\Max Spear]
+Type = Gameshark
+Activation = EndFrame
+30010E31 00FF
+
+[Ginny Knights Character Cheats\Max Bow]
+Type = Gameshark
+Activation = EndFrame
+30010E32 00FF
+
+[Ginny Knights Character Cheats\Max Tree]
+Type = Gameshark
+Activation = EndFrame
+30010E34 00FF
+
+[Ginny Knights Character Cheats\Max Stone]
+Type = Gameshark
+Activation = EndFrame
+30010E35 00FF
+
+[Ginny Knights Character Cheats\Max Flame]
+Type = Gameshark
+Activation = EndFrame
+30010E36 00FF
+
+[Ginny Knights Character Cheats\Max Water]
+Type = Gameshark
+Activation = EndFrame
+30010E37 00FF
+
+[Ginny Knights Character Cheats\Max Tone]
+Type = Gameshark
+Activation = EndFrame
+30010E38 00FF
+
+[Ginny Knights Character Cheats\Max Beast]
+Type = Gameshark
+Activation = EndFrame
+30010E39 00FF
+
+[Ginny Knights Character Cheats\Easier Time Learning Art + On Arts]
+Type = Gameshark
+Activation = EndFrame
+E2010E2D 007F
+20010E2D 0080
+E2010E2E 007F
+20010E2E 0080
+E2010E2F 007F
+20010E2F 0080
+E2010E30 007F
+20010E30 0080
+E2010E31 007F
+20010E31 0080
+E2010E32 007F
+20010E32 0080
+E2010E34 007F
+20010E34 0080
+E2010E35 007F
+20010E35 0080
+E2010E36 007F
+20010E36 0080
+E2010E37 007F
+20010E37 0080
+E2010E38 007F
+20010E38 0080
+E2010E39 007F
+20010E39 0080
+
+[Gustaf Character Cheats\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+80010C5C 03E7
+
+[Gustaf Character Cheats\Max HP]
+Type = Gameshark
+Activation = EndFrame
+80010C5E 03E7
+
+[Gustaf Character Cheats\Infinite LP]
+Type = Gameshark
+Activation = EndFrame
+30010C60 00FF
+
+[Gustaf Character Cheats\Max LP]
+Type = Gameshark
+Activation = EndFrame
+30010C61 00FF
+
+[Gustaf Character Cheats\Infinite WP]
+Type = Gameshark
+Activation = EndFrame
+30010C64 00FF
+
+[Gustaf Character Cheats\Max WP]
+Type = Gameshark
+Activation = EndFrame
+30010C65 00FF
+
+[Gustaf Character Cheats\Wp()]
+Type = Gameshark
+Activation = EndFrame
+30010C67 0063
+
+[Gustaf Character Cheats\Max Martial]
+Type = Gameshark
+Activation = EndFrame
+30010C6D 00FF
+
+[Gustaf Character Cheats\Max Sword]
+Type = Gameshark
+Activation = EndFrame
+30010C6E 00FF
+
+[Gustaf Character Cheats\Max Axe]
+Type = Gameshark
+Activation = EndFrame
+30010C6F 00FF
+
+[Gustaf Character Cheats\Max Staff]
+Type = Gameshark
+Activation = EndFrame
+30010C70 00FF
+
+[Gustaf Character Cheats\Max Spear]
+Type = Gameshark
+Activation = EndFrame
+30010C71 00FF
+
+[Gustaf Character Cheats\Max Bow]
+Type = Gameshark
+Activation = EndFrame
+30010C72 00FF
+
+[Gustaf Character Cheats\Max Tree]
+Type = Gameshark
+Activation = EndFrame
+30010C74 00FF
+
+[Gustaf Character Cheats\Max Stone]
+Type = Gameshark
+Activation = EndFrame
+30010C75 00FF
+
+[Gustaf Character Cheats\Max Flame]
+Type = Gameshark
+Activation = EndFrame
+30010C76 00FF
+
+[Gustaf Character Cheats\Max Water]
+Type = Gameshark
+Activation = EndFrame
+30010C77 00FF
+
+[Gustaf Character Cheats\Max Tone]
+Type = Gameshark
+Activation = EndFrame
+30010C78 00FF
+
+[Gustaf Character Cheats\Max Beast]
+Type = Gameshark
+Activation = EndFrame
+30010C79 00FF
+
+[Gustaf Character Cheats\Easier Time Learning Art + On Arts]
+Type = Gameshark
+Activation = EndFrame
+E2010C6D 007F
+20010C6D 0080
+E2010C6E 007F
+20010C6E 0080
+E2010C6F 007F
+20010C6F 0080
+E2010C70 007F
+20010C70 0080
+E2010C71 007F
+20010C71 0080
+E2010C72 007F
+20010C72 0080
+E2010C74 007F
+20010C74 0080
+E2010C75 007F
+20010C75 0080
+E2010C76 007F
+20010C76 0080
+E2010C77 007F
+20010C77 0080
+E2010C78 007F
+20010C78 0080
+E2010C79 007F
+20010C79 0080
+
+[Gustave Character Cheats\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+8001063C 03E7
+
+[Gustave Character Cheats\Max HP]
+Type = Gameshark
+Activation = EndFrame
+8001063E 03E7
+
+[Gustave Character Cheats\Infinite LP]
+Type = Gameshark
+Activation = EndFrame
+30010640 00FF
+
+[Gustave Character Cheats\Max LP]
+Type = Gameshark
+Activation = EndFrame
+30010641 00FF
+
+[Gustave Character Cheats\Infinite WP]
+Type = Gameshark
+Activation = EndFrame
+30010644 00FF
+
+[Gustave Character Cheats\Max WP]
+Type = Gameshark
+Activation = EndFrame
+30010645 00FF
+
+[Gustave Character Cheats\Wp ()]
+Type = Gameshark
+Activation = EndFrame
+30010647 0063
+
+[Gustave Character Cheats\Max Martial]
+Type = Gameshark
+Activation = EndFrame
+3001064D 00FF
+
+[Gustave Character Cheats\Max Sword]
+Type = Gameshark
+Activation = EndFrame
+3001064E 00FF
+
+[Gustave Character Cheats\Max Axe]
+Type = Gameshark
+Activation = EndFrame
+3001064F 00FF
+
+[Gustave Character Cheats\Max Staff]
+Type = Gameshark
+Activation = EndFrame
+30010650 00FF
+
+[Gustave Character Cheats\Max Spear]
+Type = Gameshark
+Activation = EndFrame
+30010651 00FF
+
+[Gustave Character Cheats\Max Bow]
+Type = Gameshark
+Activation = EndFrame
+30010652 00FF
+
+[Gustave Character Cheats\Max Tree]
+Type = Gameshark
+Activation = EndFrame
+30010654 00FF
+
+[Gustave Character Cheats\Max Stone]
+Type = Gameshark
+Activation = EndFrame
+30010655 00FF
+
+[Gustave Character Cheats\Max Flame]
+Type = Gameshark
+Activation = EndFrame
+30010656 00FF
+
+[Gustave Character Cheats\Max Water]
+Type = Gameshark
+Activation = EndFrame
+30010657 00FF
+
+[Gustave Character Cheats\Max Tone]
+Type = Gameshark
+Activation = EndFrame
+30010658 00FF
+
+[Gustave Character Cheats\Max Beast]
+Type = Gameshark
+Activation = EndFrame
+30010659 00FF
+
+[Gustave Character Cheats\Easier Time Learning Art + On Arts]
+Type = Gameshark
+Activation = EndFrame
+E201064D 007F
+2001064D 0080
+E201064E 007F
+2001064E 0080
+E201064F 007F
+2001064F 0080
+E2010650 007F
+20010650 0080
+E2010651 007F
+20010651 0080
+E2010652 007F
+20010652 0080
+E2010654 007F
+20010654 0080
+E2010655 007F
+20010655 0080
+E2010656 007F
+20010656 0080
+E2010657 007F
+20010657 0080
+E2010658 007F
+20010658 0080
+E2010659 007F
+20010659 0080
+
+[Johan Character Cheats\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800108DC 03E7
+
+[Johan Character Cheats\Max HP]
+Type = Gameshark
+Activation = EndFrame
+800108DE 03E7
+
+[Johan Character Cheats\Infinite LP]
+Type = Gameshark
+Activation = EndFrame
+300108E0 00FF
+
+[Johan Character Cheats\Max LP]
+Type = Gameshark
+Activation = EndFrame
+300108E1 00FF
+
+[Johan Character Cheats\Infinite WP]
+Type = Gameshark
+Activation = EndFrame
+300108E4 00FF
+
+[Johan Character Cheats\Max WP]
+Type = Gameshark
+Activation = EndFrame
+300108E5 00FF
+
+[Johan Character Cheats\Wp()]
+Type = Gameshark
+Activation = EndFrame
+300108E7 0063
+
+[Johan Character Cheats\Max Martial]
+Type = Gameshark
+Activation = EndFrame
+300108ED 00FF
+
+[Johan Character Cheats\Max Sword]
+Type = Gameshark
+Activation = EndFrame
+300108EE 00FF
+
+[Johan Character Cheats\Max Axe]
+Type = Gameshark
+Activation = EndFrame
+300108EF 00FF
+
+[Johan Character Cheats\Max Staff]
+Type = Gameshark
+Activation = EndFrame
+300108F0 00FF
+
+[Johan Character Cheats\Max Spear]
+Type = Gameshark
+Activation = EndFrame
+300108F1 00FF
+
+[Johan Character Cheats\Max Bow]
+Type = Gameshark
+Activation = EndFrame
+300108F2 00FF
+
+[Johan Character Cheats\Max Tree]
+Type = Gameshark
+Activation = EndFrame
+300108F4 00FF
+
+[Johan Character Cheats\Max Stone]
+Type = Gameshark
+Activation = EndFrame
+300108F5 00FF
+
+[Johan Character Cheats\Max Flame]
+Type = Gameshark
+Activation = EndFrame
+300108F6 00FF
+
+[Johan Character Cheats\Max Water]
+Type = Gameshark
+Activation = EndFrame
+300108F7 00FF
+
+[Johan Character Cheats\Max Tone]
+Type = Gameshark
+Activation = EndFrame
+300108F8 00FF
+
+[Johan Character Cheats\Max Beast]
+Type = Gameshark
+Activation = EndFrame
+300108F9 00FF
+
+[Johan Character Cheats\Easier Time Learning Art + On Arts]
+Type = Gameshark
+Activation = EndFrame
+E20108ED 007F
+200108ED 0080
+E20108EE 007F
+200108EE 0080
+E20108EF 007F
+200108EF 0080
+E20108E0 007F
+200108F0 0080
+E20108F1 007F
+200108F1 0080
+E20108F2 007F
+200108F2 0080
+E20108F4 007F
+200108F4 0080
+E20108F5 007F
+200108F5 0080
+E20108F6 007F
+200108F6 0080
+E20108F7 007F
+200108F7 0080
+E20108F8 007F
+200108F8 0080
+E20108F9 007F
+200108F9 0080
+
+[Julia Character Cheats\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800109BC 03E7
+
+[Julia Character Cheats\Max HP]
+Type = Gameshark
+Activation = EndFrame
+800109BE 03E7
+
+[Julia Character Cheats\Infinite LP]
+Type = Gameshark
+Activation = EndFrame
+300109C0 00FF
+
+[Julia Character Cheats\Max LP]
+Type = Gameshark
+Activation = EndFrame
+300109C1 00FF
+
+[Julia Character Cheats\Infinite WP]
+Type = Gameshark
+Activation = EndFrame
+300109C4 00FF
+
+[Julia Character Cheats\Max WP]
+Type = Gameshark
+Activation = EndFrame
+300109C5 00FF
+
+[Julia Character Cheats\Wp()]
+Type = Gameshark
+Activation = EndFrame
+300109C7 0063
+
+[Julia Character Cheats\Max Martial]
+Type = Gameshark
+Activation = EndFrame
+300109CD 00FF
+
+[Julia Character Cheats\Max Sword]
+Type = Gameshark
+Activation = EndFrame
+300109CE 00FF
+
+[Julia Character Cheats\Max Axe]
+Type = Gameshark
+Activation = EndFrame
+300109CF 00FF
+
+[Julia Character Cheats\Max Staff]
+Type = Gameshark
+Activation = EndFrame
+300109D0 00FF
+
+[Julia Character Cheats\Max Spear]
+Type = Gameshark
+Activation = EndFrame
+300109D1 00FF
+
+[Julia Character Cheats\Max Bow]
+Type = Gameshark
+Activation = EndFrame
+300109D2 00FF
+
+[Julia Character Cheats\Max Tree]
+Type = Gameshark
+Activation = EndFrame
+300109D4 00FF
+
+[Julia Character Cheats\Max Stone]
+Type = Gameshark
+Activation = EndFrame
+300109D5 00FF
+
+[Julia Character Cheats\Max Flame]
+Type = Gameshark
+Activation = EndFrame
+300109D6 00FF
+
+[Julia Character Cheats\Max Water]
+Type = Gameshark
+Activation = EndFrame
+300109D7 00FF
+
+[Julia Character Cheats\Max Tone]
+Type = Gameshark
+Activation = EndFrame
+300109D8 00FF
+
+[Julia Character Cheats\Max Beast]
+Type = Gameshark
+Activation = EndFrame
+300109D9 00FF
+
+[Julia Character Cheats\Easier Time Learning Art + On Arts]
+Type = Gameshark
+Activation = EndFrame
+E20109CD 007F
+200109CD 0080
+E20109CE 007F
+200109CE 0080
+E20109CF 007F
+200109CF 0080
+E20109D0 007F
+200109D0 0080
+E20109D1 007F
+200109D1 0080
+E20109D2 007F
+200109D2 0080
+E20109D4 007F
+200109D4 0080
+E20109D5 007F
+200109D5 0080
+E20109D6 007F
+200109D6 0080
+E20109D7 007F
+200109D7 0080
+E20109D8 007F
+200109D8 0080
+E20109D9 007F
+200109D9 0080
+
+[Kelvin Character Cheats\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800106AC 03E7
+
+[Kelvin Character Cheats\Max HP]
+Type = Gameshark
+Activation = EndFrame
+800106AE 03E7
+
+[Kelvin Character Cheats\Infinite LP]
+Type = Gameshark
+Activation = EndFrame
+300106B0 00FF
+
+[Kelvin Character Cheats\Max LP]
+Type = Gameshark
+Activation = EndFrame
+300106B1 00FF
+
+[Kelvin Character Cheats\Infinite WP]
+Type = Gameshark
+Activation = EndFrame
+300106B4 00FF
+
+[Kelvin Character Cheats\Max WP]
+Type = Gameshark
+Activation = EndFrame
+300106B5 00FF
+
+[Kelvin Character Cheats\Wp()]
+Type = Gameshark
+Activation = EndFrame
+300106B7 0063
+
+[Kelvin Character Cheats\Max Martial]
+Type = Gameshark
+Activation = EndFrame
+300106BD 00FF
+
+[Kelvin Character Cheats\Max Sword]
+Type = Gameshark
+Activation = EndFrame
+300106BE 00FF
+
+[Kelvin Character Cheats\Max Axe]
+Type = Gameshark
+Activation = EndFrame
+300106BF 00FF
+
+[Kelvin Character Cheats\Max Staff]
+Type = Gameshark
+Activation = EndFrame
+300106C0 00FF
+
+[Kelvin Character Cheats\Max Spear]
+Type = Gameshark
+Activation = EndFrame
+300106C1 00FF
+
+[Kelvin Character Cheats\Max Bow]
+Type = Gameshark
+Activation = EndFrame
+300106C2 00FF
+
+[Kelvin Character Cheats\Max Tree]
+Type = Gameshark
+Activation = EndFrame
+300106C4 00FF
+
+[Kelvin Character Cheats\Max Stone]
+Type = Gameshark
+Activation = EndFrame
+300106C5 00FF
+
+[Kelvin Character Cheats\Max Flame]
+Type = Gameshark
+Activation = EndFrame
+300106C6 00FF
+
+[Kelvin Character Cheats\Max Water]
+Type = Gameshark
+Activation = EndFrame
+300106C7 00FF
+
+[Kelvin Character Cheats\Max Tone]
+Type = Gameshark
+Activation = EndFrame
+300106C8 00FF
+
+[Kelvin Character Cheats\Max Beast]
+Type = Gameshark
+Activation = EndFrame
+300106C9 00FF
+
+[Kelvin Character Cheats\Easier Time Learning Art + On Arts]
+Type = Gameshark
+Activation = EndFrame
+E20106BD 007F
+200106BD 0080
+E20106BE 007F
+200106BE 0080
+E20106BF 007F
+200106BF 0080
+E20106C0 007F
+200106C0 0080
+E20106C1 007F
+200106C1 0080
+E20106C2 007F
+200106C2 0080
+E20106C4 007F
+200106C4 0080
+E20106C5 007F
+200106C5 0080
+E20106C6 007F
+200106C6 0080
+E20106C7 007F
+200106C7 0080
+E20106C8 007F
+200106C8 0080
+E20106C9 007F
+200106C9 0080
+
+[Labelle Character Cheats\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800105CC 03E7
+
+[Labelle Character Cheats\Max HP]
+Type = Gameshark
+Activation = EndFrame
+800105CE 03E7
+
+[Labelle Character Cheats\Infinite LP]
+Type = Gameshark
+Activation = EndFrame
+300105D0 00FF
+
+[Labelle Character Cheats\Max LP]
+Type = Gameshark
+Activation = EndFrame
+300105D1 00FF
+
+[Labelle Character Cheats\Infinite WP]
+Type = Gameshark
+Activation = EndFrame
+300105D4 00FF
+
+[Labelle Character Cheats\Max WP]
+Type = Gameshark
+Activation = EndFrame
+300105D5 00FF
+
+[Labelle Character Cheats\Wp()]
+Type = Gameshark
+Activation = EndFrame
+300105D7 0063
+
+[Labelle Character Cheats\Max Martial]
+Type = Gameshark
+Activation = EndFrame
+300105DD 00FF
+
+[Labelle Character Cheats\Max Sword]
+Type = Gameshark
+Activation = EndFrame
+300105DE 00FF
+
+[Labelle Character Cheats\Max Axe]
+Type = Gameshark
+Activation = EndFrame
+300105DF 00FF
+
+[Labelle Character Cheats\Max Staff]
+Type = Gameshark
+Activation = EndFrame
+300105E0 00FF
+
+[Labelle Character Cheats\Max Spear]
+Type = Gameshark
+Activation = EndFrame
+300105E1 00FF
+
+[Labelle Character Cheats\Max Bow]
+Type = Gameshark
+Activation = EndFrame
+300105E2 00FF
+
+[Labelle Character Cheats\Max Tree]
+Type = Gameshark
+Activation = EndFrame
+300105E4 00FF
+
+[Labelle Character Cheats\Max Stone]
+Type = Gameshark
+Activation = EndFrame
+300105E5 00FF
+
+[Labelle Character Cheats\Max Flame]
+Type = Gameshark
+Activation = EndFrame
+300105E6 00FF
+
+[Labelle Character Cheats\Max Water]
+Type = Gameshark
+Activation = EndFrame
+300105E7 00FF
+
+[Labelle Character Cheats\Max Tone]
+Type = Gameshark
+Activation = EndFrame
+300105E8 00FF
+
+[Labelle Character Cheats\Max Beast]
+Type = Gameshark
+Activation = EndFrame
+300105E9 00FF
+
+[Labelle Character Cheats\Easier Time Learning Art + On Arts]
+Type = Gameshark
+Activation = EndFrame
+E20105DD 007F
+200105DD 0080
+E20105DE 007F
+200105DE 0080
+E20105DF 007F
+200105DF 0080
+E20105E0 007F
+200105E0 0080
+E20105E1 007F
+200105E1 0080
+E20105E2 007F
+200105E2 0080
+E20105E4 007F
+200105E4 0080
+E20105E5 007F
+200105E5 0080
+E20105E6 007F
+200105E6 0080
+E20105E7 007F
+200105E7 0080
+E20105E8 007F
+200105E8 0080
+E20105E9 007F
+200105E9 0080
+
+[Meythia Character Cheats\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+80010CCC 03E7
+
+[Meythia Character Cheats\Max HP]
+Type = Gameshark
+Activation = EndFrame
+80010CCE 03E7
+
+[Meythia Character Cheats\Infinite LP]
+Type = Gameshark
+Activation = EndFrame
+30010CD0 00FF
+
+[Meythia Character Cheats\Max LP]
+Type = Gameshark
+Activation = EndFrame
+30010CD1 00FF
+
+[Meythia Character Cheats\Infinite WP]
+Type = Gameshark
+Activation = EndFrame
+30010CD4 00FF
+
+[Meythia Character Cheats\Max WP]
+Type = Gameshark
+Activation = EndFrame
+30010CD5 00FF
+
+[Meythia Character Cheats\Wp()]
+Type = Gameshark
+Activation = EndFrame
+30010CD7 0063
+
+[Meythia Character Cheats\Max Martial]
+Type = Gameshark
+Activation = EndFrame
+30010CDD 00FF
+
+[Meythia Character Cheats\Max Sword]
+Type = Gameshark
+Activation = EndFrame
+30010CDE 00FF
+
+[Meythia Character Cheats\Max Axe]
+Type = Gameshark
+Activation = EndFrame
+30010CDF 00FF
+
+[Meythia Character Cheats\Max Staff]
+Type = Gameshark
+Activation = EndFrame
+30010CE0 00FF
+
+[Meythia Character Cheats\Max Spear]
+Type = Gameshark
+Activation = EndFrame
+30010CE1 00FF
+
+[Meythia Character Cheats\Max Bow]
+Type = Gameshark
+Activation = EndFrame
+30010CE2 00FF
+
+[Meythia Character Cheats\Max Tree]
+Type = Gameshark
+Activation = EndFrame
+30010CE4 00FF
+
+[Meythia Character Cheats\Max Stone]
+Type = Gameshark
+Activation = EndFrame
+30010CE5 00FF
+
+[Meythia Character Cheats\Max Flame]
+Type = Gameshark
+Activation = EndFrame
+30010CE6 00FF
+
+[Meythia Character Cheats\Max Water]
+Type = Gameshark
+Activation = EndFrame
+30010CE7 00FF
+
+[Meythia Character Cheats\Max Tone]
+Type = Gameshark
+Activation = EndFrame
+30010CE8 00FF
+
+[Meythia Character Cheats\Max Beast]
+Type = Gameshark
+Activation = EndFrame
+30010CE9 00FF
+
+[Meythia Character Cheats\Easier Time Learning Art + On Arts]
+Type = Gameshark
+Activation = EndFrame
+E2010CDD 007F
+20010CDD 0080
+E2010CDE 007F
+20010CDE 0080
+E2010CDF 007F
+20010CDF 0080
+E2010CE0 007F
+20010CE0 0080
+E2010CE1 007F
+20010CE1 0080
+E2010CE2 007F
+20010CE2 0080
+E2010CE4 007F
+20010CE4 0080
+E2010CE5 007F
+20010CE5 0080
+E2010CE6 007F
+20010CE6 0080
+E2010CE7 007F
+20010CE7 0080
+E2010CE8 007F
+20010CE8 0080
+E2010CE9 007F
+20010CE9 0080
+
+[Narcisse Character Cheats\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800104EC 03E7
+
+[Narcisse Character Cheats\Max HP]
+Type = Gameshark
+Activation = EndFrame
+800104EE 03E7
+
+[Narcisse Character Cheats\Infinite LP]
+Type = Gameshark
+Activation = EndFrame
+300104F0 00FF
+
+[Narcisse Character Cheats\Max LP]
+Type = Gameshark
+Activation = EndFrame
+300104F1 00FF
+
+[Narcisse Character Cheats\Infinite WP]
+Type = Gameshark
+Activation = EndFrame
+300104F4 00FF
+
+[Narcisse Character Cheats\Max WP]
+Type = Gameshark
+Activation = EndFrame
+300104F5 00FF
+
+[Narcisse Character Cheats\Wp()]
+Type = Gameshark
+Activation = EndFrame
+300104F7 0063
+
+[Narcisse Character Cheats\Max Martial]
+Type = Gameshark
+Activation = EndFrame
+300104FD 00FF
+
+[Narcisse Character Cheats\Max Sword]
+Type = Gameshark
+Activation = EndFrame
+300104FE 00FF
+
+[Narcisse Character Cheats\Max Axe]
+Type = Gameshark
+Activation = EndFrame
+300104FF 00FF
+
+[Narcisse Character Cheats\Max Staff]
+Type = Gameshark
+Activation = EndFrame
+30010500 00FF
+
+[Narcisse Character Cheats\Max Spear]
+Type = Gameshark
+Activation = EndFrame
+30010501 00FF
+
+[Narcisse Character Cheats\Max Bow]
+Type = Gameshark
+Activation = EndFrame
+30010502 00FF
+
+[Narcisse Character Cheats\Max Tree]
+Type = Gameshark
+Activation = EndFrame
+30010504 00FF
+
+[Narcisse Character Cheats\Max Stone]
+Type = Gameshark
+Activation = EndFrame
+30010505 00FF
+
+[Narcisse Character Cheats\Max Flame]
+Type = Gameshark
+Activation = EndFrame
+30010506 00FF
+
+[Narcisse Character Cheats\Max Water]
+Type = Gameshark
+Activation = EndFrame
+30010507 00FF
+
+[Narcisse Character Cheats\Max Tone]
+Type = Gameshark
+Activation = EndFrame
+30010508 00FF
+
+[Narcisse Character Cheats\Max Beast]
+Type = Gameshark
+Activation = EndFrame
+30010509 00FF
+
+[Narcisse Character Cheats\Easier Time Learning Art + On Arts]
+Type = Gameshark
+Activation = EndFrame
+E20104FD 007F
+200104FD 0080
+E20104FE 007F
+200104FE 0080
+E20104FF 007F
+200104FF 0080
+E2010500 007F
+20010500 0080
+E2010501 007F
+20010501 0080
+E2010502 007F
+20010502 0080
+E2010504 007F
+20010504 0080
+E2010505 007F
+20010505 0080
+E2010506 007F
+20010506 0080
+E2010507 007F
+20010507 0080
+E2010508 007F
+20010508 0080
+E2010509 007F
+20010509 0080
+
+[Nebelsterm Character Cheats\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+8001040C 03E7
+
+[Nebelsterm Character Cheats\Max HP]
+Type = Gameshark
+Activation = EndFrame
+8001040E 03E7
+
+[Nebelsterm Character Cheats\Infinite LP]
+Type = Gameshark
+Activation = EndFrame
+30010410 00FF
+
+[Nebelsterm Character Cheats\Max LP]
+Type = Gameshark
+Activation = EndFrame
+30010411 00FF
+
+[Nebelsterm Character Cheats\Infinite WP]
+Type = Gameshark
+Activation = EndFrame
+30010414 00FF
+
+[Nebelsterm Character Cheats\Max WP]
+Type = Gameshark
+Activation = EndFrame
+30010415 00FF
+
+[Nebelsterm Character Cheats\Wp()]
+Type = Gameshark
+Activation = EndFrame
+30010417 0063
+
+[Nebelsterm Character Cheats\Max Martial]
+Type = Gameshark
+Activation = EndFrame
+3001041D 00FF
+
+[Nebelsterm Character Cheats\Max Sword]
+Type = Gameshark
+Activation = EndFrame
+3001041E 00FF
+
+[Nebelsterm Character Cheats\Max Axe]
+Type = Gameshark
+Activation = EndFrame
+3001041F 00FF
+
+[Nebelsterm Character Cheats\Max Staff]
+Type = Gameshark
+Activation = EndFrame
+30010420 00FF
+
+[Nebelsterm Character Cheats\Max Spear]
+Type = Gameshark
+Activation = EndFrame
+30010421 00FF
+
+[Nebelsterm Character Cheats\Max Bow]
+Type = Gameshark
+Activation = EndFrame
+30010422 00FF
+
+[Nebelsterm Character Cheats\Max Tree]
+Type = Gameshark
+Activation = EndFrame
+30010424 00FF
+
+[Nebelsterm Character Cheats\Max Stone]
+Type = Gameshark
+Activation = EndFrame
+30010425 00FF
+
+[Nebelsterm Character Cheats\Max Flame]
+Type = Gameshark
+Activation = EndFrame
+30010426 00FF
+
+[Nebelsterm Character Cheats\Max Water]
+Type = Gameshark
+Activation = EndFrame
+30010427 00FF
+
+[Nebelsterm Character Cheats\Max Tone]
+Type = Gameshark
+Activation = EndFrame
+30010428 00FF
+
+[Nebelsterm Character Cheats\Max Beast]
+Type = Gameshark
+Activation = EndFrame
+30010429 00FF
+
+[Nebelsterm Character Cheats\Easier Time Learning Art + On Arts]
+Type = Gameshark
+Activation = EndFrame
+E201041D 007F
+2001041D 0080
+E201041E 007F
+2001041E 0080
+E201041F 007F
+2001041F 0080
+E2010420 007F
+20010420 0080
+E2010421 007F
+20010421 0080
+E2010422 007F
+20010422 0080
+E2010424 007F
+20010424 0080
+E2010425 007F
+20010425 0080
+E2010426 007F
+20010426 0080
+E2010427 007F
+20010427 0080
+E2010428 007F
+20010428 0080
+E2010429 007F
+20010429 0080
+
+[Nina Character Cheats\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+8001055C 03E7
+
+[Nina Character Cheats\Max HP]
+Type = Gameshark
+Activation = EndFrame
+8001055E 03E7
+
+[Nina Character Cheats\Infinite LP]
+Type = Gameshark
+Activation = EndFrame
+30010560 00FF
+
+[Nina Character Cheats\Max LP]
+Type = Gameshark
+Activation = EndFrame
+30010561 00FF
+
+[Nina Character Cheats\Infinite WP]
+Type = Gameshark
+Activation = EndFrame
+30010564 00FF
+
+[Nina Character Cheats\Max WP]
+Type = Gameshark
+Activation = EndFrame
+30010565 00FF
+
+[Nina Character Cheats\Wp()]
+Type = Gameshark
+Activation = EndFrame
+30010567 0063
+
+[Nina Character Cheats\Max Martial]
+Type = Gameshark
+Activation = EndFrame
+3001056D 00FF
+
+[Nina Character Cheats\Max Sword]
+Type = Gameshark
+Activation = EndFrame
+3001056E 00FF
+
+[Nina Character Cheats\Max Axe]
+Type = Gameshark
+Activation = EndFrame
+3001056F 00FF
+
+[Nina Character Cheats\Max Staff]
+Type = Gameshark
+Activation = EndFrame
+30010570 00FF
+
+[Nina Character Cheats\Max Spear]
+Type = Gameshark
+Activation = EndFrame
+30010571 00FF
+
+[Nina Character Cheats\Max Bow]
+Type = Gameshark
+Activation = EndFrame
+30010572 00FF
+
+[Nina Character Cheats\Max Tree]
+Type = Gameshark
+Activation = EndFrame
+30010574 00FF
+
+[Nina Character Cheats\Max Stone]
+Type = Gameshark
+Activation = EndFrame
+30010575 00FF
+
+[Nina Character Cheats\Max Flame]
+Type = Gameshark
+Activation = EndFrame
+30010576 00FF
+
+[Nina Character Cheats\Max Water]
+Type = Gameshark
+Activation = EndFrame
+30010577 00FF
+
+[Nina Character Cheats\Max Tone]
+Type = Gameshark
+Activation = EndFrame
+30010578 00FF
+
+[Nina Character Cheats\Max Beast]
+Type = Gameshark
+Activation = EndFrame
+30010579 00FF
+
+[Nina Character Cheats\Easier Time Learning Art + On Arts]
+Type = Gameshark
+Activation = EndFrame
+E201056D 007F
+2001056D 0080
+E201056E 007F
+2001056E 0080
+E201056F 007F
+2001056F 0080
+E2010570 007F
+20010570 0080
+E2010571 007F
+20010571 0080
+E2010572 007F
+20010572 0080
+E2010574 007F
+20010574 0080
+E2010575 007F
+20010575 0080
+E2010576 007F
+20010576 0080
+E2010577 007F
+20010577 0080
+E2010578 007F
+20010578 0080
+E2010579 007F
+20010579 0080
+
+[Patrick Character Cheats\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+80010BEC 03E7
+
+[Patrick Character Cheats\Max HP]
+Type = Gameshark
+Activation = EndFrame
+80010BEE 03E7
+
+[Patrick Character Cheats\Infinite LP]
+Type = Gameshark
+Activation = EndFrame
+30010BF0 00FF
+
+[Patrick Character Cheats\Max LP]
+Type = Gameshark
+Activation = EndFrame
+30010BF1 00FF
+
+[Patrick Character Cheats\Infinite WP]
+Type = Gameshark
+Activation = EndFrame
+30010BF4 00FF
+
+[Patrick Character Cheats\Max WP]
+Type = Gameshark
+Activation = EndFrame
+30010BF5 00FF
+
+[Patrick Character Cheats\Wp()]
+Type = Gameshark
+Activation = EndFrame
+30010BF7 0063
+
+[Patrick Character Cheats\Max Martial]
+Type = Gameshark
+Activation = EndFrame
+30010BFD 00FF
+
+[Patrick Character Cheats\Max Sword]
+Type = Gameshark
+Activation = EndFrame
+30010BFE 00FF
+
+[Patrick Character Cheats\Max Axe]
+Type = Gameshark
+Activation = EndFrame
+30010BFF 00FF
+
+[Patrick Character Cheats\Max Staff]
+Type = Gameshark
+Activation = EndFrame
+30010C00 00FF
+
+[Patrick Character Cheats\Max Spear]
+Type = Gameshark
+Activation = EndFrame
+30010C01 00FF
+
+[Patrick Character Cheats\Max Bow]
+Type = Gameshark
+Activation = EndFrame
+30010C02 00FF
+
+[Patrick Character Cheats\Max Tree]
+Type = Gameshark
+Activation = EndFrame
+30010C04 00FF
+
+[Patrick Character Cheats\Max Stone]
+Type = Gameshark
+Activation = EndFrame
+30010C05 00FF
+
+[Patrick Character Cheats\Max Flame]
+Type = Gameshark
+Activation = EndFrame
+30010C06 00FF
+
+[Patrick Character Cheats\Max Water]
+Type = Gameshark
+Activation = EndFrame
+30010C07 00FF
+
+[Patrick Character Cheats\Max Tone]
+Type = Gameshark
+Activation = EndFrame
+30010C08 00FF
+
+[Patrick Character Cheats\Max Beast]
+Type = Gameshark
+Activation = EndFrame
+30010C09 00FF
+
+[Patrick Character Cheats\Easier Time Learning Art + On Arts]
+Type = Gameshark
+Activation = EndFrame
+E2010BFD 007F
+20010BFD 0080
+E2010BFE 007F
+20010BFE 0080
+E2010BFF 007F
+20010BFF 0080
+E2010C00 007F
+20010C00 0080
+E2010C01 007F
+20010C01 0080
+E2010C02 007F
+20010C02 0080
+E2010C04 007F
+20010C04 0080
+E2010C05 007F
+20010C05 0080
+E2010C06 007F
+20010C06 0080
+E2010C07 007F
+20010C07 0080
+E2010C08 007F
+20010C08 0080
+E2010C09 007F
+20010C09 0080
+
+[Primiera Character Cheats\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+80010DAC 03E7
+
+[Primiera Character Cheats\Max HP]
+Type = Gameshark
+Activation = EndFrame
+80010DAE 03E7
+
+[Primiera Character Cheats\Infinite LP]
+Type = Gameshark
+Activation = EndFrame
+30010DB0 00FF
+
+[Primiera Character Cheats\Max LP]
+Type = Gameshark
+Activation = EndFrame
+30010DB1 00FF
+
+[Primiera Character Cheats\Infinite WP]
+Type = Gameshark
+Activation = EndFrame
+30010DB4 00FF
+
+[Primiera Character Cheats\Max WP]
+Type = Gameshark
+Activation = EndFrame
+30010DB5 00FF
+
+[Primiera Character Cheats\Wp()]
+Type = Gameshark
+Activation = EndFrame
+30010DB7 0063
+
+[Primiera Character Cheats\Max Martial]
+Type = Gameshark
+Activation = EndFrame
+30010DBD 00FF
+
+[Primiera Character Cheats\Max Sword]
+Type = Gameshark
+Activation = EndFrame
+30010DBE 00FF
+
+[Primiera Character Cheats\Max Axe]
+Type = Gameshark
+Activation = EndFrame
+30010DBF 00FF
+
+[Primiera Character Cheats\Max Staff]
+Type = Gameshark
+Activation = EndFrame
+30010DC0 00FF
+
+[Primiera Character Cheats\Max Spear]
+Type = Gameshark
+Activation = EndFrame
+30010DC1 00FF
+
+[Primiera Character Cheats\Max Bow]
+Type = Gameshark
+Activation = EndFrame
+30010DC2 00FF
+
+[Primiera Character Cheats\Max Tree]
+Type = Gameshark
+Activation = EndFrame
+30010DC4 00FF
+
+[Primiera Character Cheats\Max Stone]
+Type = Gameshark
+Activation = EndFrame
+30010DC5 00FF
+
+[Primiera Character Cheats\Max Flame]
+Type = Gameshark
+Activation = EndFrame
+30010DC6 00FF
+
+[Primiera Character Cheats\Max Water]
+Type = Gameshark
+Activation = EndFrame
+30010DC7 00FF
+
+[Primiera Character Cheats\Max Tone]
+Type = Gameshark
+Activation = EndFrame
+30010DC8 00FF
+
+[Primiera Character Cheats\Max Beast]
+Type = Gameshark
+Activation = EndFrame
+30010DC9 00FF
+
+[Primiera Character Cheats\Easier Time Learning Art + On Arts]
+Type = Gameshark
+Activation = EndFrame
+E2010DBD 007F
+20010DBD 0080
+E2010DBE 007F
+20010DBE 0080
+E2010DBF 007F
+20010DBF 0080
+E2010DC0 007F
+20010DC0 0080
+E2010DC1 007F
+20010DC1 0080
+E2010DC2 007F
+20010DC2 0080
+E2010DC4 007F
+20010DC4 0080
+E2010DC5 007F
+20010DC5 0080
+E2010DC6 007F
+20010DC6 0080
+E2010DC7 007F
+20010DC7 0080
+E2010DC8 007F
+20010DC8 0080
+E2010DC9 007F
+20010DC9 0080
+
+[Raymond Character Cheats\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+80010A9C 03E7
+
+[Raymond Character Cheats\Max HP]
+Type = Gameshark
+Activation = EndFrame
+80010A9E 03E7
+
+[Raymond Character Cheats\Infinite LP]
+Type = Gameshark
+Activation = EndFrame
+30010AA0 00FF
+
+[Raymond Character Cheats\Max LP]
+Type = Gameshark
+Activation = EndFrame
+30010AA1 00FF
+
+[Raymond Character Cheats\Infinite WP]
+Type = Gameshark
+Activation = EndFrame
+30010AA4 00FF
+
+[Raymond Character Cheats\Max WP]
+Type = Gameshark
+Activation = EndFrame
+30010AA5 00FF
+
+[Raymond Character Cheats\Wp()]
+Type = Gameshark
+Activation = EndFrame
+30010AA7 0063
+
+[Raymond Character Cheats\Max Martial]
+Type = Gameshark
+Activation = EndFrame
+30010AAD 00FF
+
+[Raymond Character Cheats\Max Sword]
+Type = Gameshark
+Activation = EndFrame
+30010AAE 00FF
+
+[Raymond Character Cheats\Max Axe]
+Type = Gameshark
+Activation = EndFrame
+30010AAF 00FF
+
+[Raymond Character Cheats\Max Staff]
+Type = Gameshark
+Activation = EndFrame
+30010AB0 00FF
+
+[Raymond Character Cheats\Max Spear]
+Type = Gameshark
+Activation = EndFrame
+30010AB1 00FF
+
+[Raymond Character Cheats\Max Bow]
+Type = Gameshark
+Activation = EndFrame
+30010AB2 00FF
+
+[Raymond Character Cheats\Max Tree]
+Type = Gameshark
+Activation = EndFrame
+30010AB4 00FF
+
+[Raymond Character Cheats\Max Stone]
+Type = Gameshark
+Activation = EndFrame
+30010AB5 00FF
+
+[Raymond Character Cheats\Max Flame]
+Type = Gameshark
+Activation = EndFrame
+30010AB6 00FF
+
+[Raymond Character Cheats\Max Water]
+Type = Gameshark
+Activation = EndFrame
+30010AB7 00FF
+
+[Raymond Character Cheats\Max Tone]
+Type = Gameshark
+Activation = EndFrame
+30010AB8 00FF
+
+[Raymond Character Cheats\Max Beast]
+Type = Gameshark
+Activation = EndFrame
+30010AB9 00FF
+
+[Raymond Character Cheats\Easier Time Learning Art + On Arts]
+Type = Gameshark
+Activation = EndFrame
+E2010AAD 007F
+20010AAD 0080
+E2010AAE 007F
+20010AAE 0080
+E2010AAF 007F
+20010AAF 0080
+E2010AB0 007F
+20010AB0 0080
+E2010AB1 007F
+20010AB1 0080
+E2010AB2 007F
+20010AB2 0080
+E2010AB4 007F
+20010AB4 0080
+E2010AB5 007F
+20010AB5 0080
+E2010AB6 007F
+20010AB6 0080
+E2010AB7 007F
+20010AB7 0080
+E2010AB8 007F
+20010AB8 0080
+E2010AB9 007F
+20010AB9 0080
+
+[Rich Character Cheats\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+80010B7C 03E7
+
+[Rich Character Cheats\Max HP]
+Type = Gameshark
+Activation = EndFrame
+80010B7E 03E7
+
+[Rich Character Cheats\Infinite LP]
+Type = Gameshark
+Activation = EndFrame
+30010B80 00FF
+
+[Rich Character Cheats\Max LP]
+Type = Gameshark
+Activation = EndFrame
+30010B81 00FF
+
+[Rich Character Cheats\Infinite WP]
+Type = Gameshark
+Activation = EndFrame
+30010B84 00FF
+
+[Rich Character Cheats\Max WP]
+Type = Gameshark
+Activation = EndFrame
+30010B85 00FF
+
+[Rich Character Cheats\Wp()]
+Type = Gameshark
+Activation = EndFrame
+30010B87 0063
+
+[Rich Character Cheats\Max Martial]
+Type = Gameshark
+Activation = EndFrame
+30010B8D 00FF
+
+[Rich Character Cheats\Max Sword]
+Type = Gameshark
+Activation = EndFrame
+30010B8E 00FF
+
+[Rich Character Cheats\Max Axe]
+Type = Gameshark
+Activation = EndFrame
+30010B8F 00FF
+
+[Rich Character Cheats\Max Staff]
+Type = Gameshark
+Activation = EndFrame
+30010B90 00FF
+
+[Rich Character Cheats\Max Spear]
+Type = Gameshark
+Activation = EndFrame
+30010B91 00FF
+
+[Rich Character Cheats\Max Bow]
+Type = Gameshark
+Activation = EndFrame
+30010B92 00FF
+
+[Rich Character Cheats\Max Tree]
+Type = Gameshark
+Activation = EndFrame
+30010B94 00FF
+
+[Rich Character Cheats\Max Stone]
+Type = Gameshark
+Activation = EndFrame
+30010B95 00FF
+
+[Rich Character Cheats\Max Flame]
+Type = Gameshark
+Activation = EndFrame
+30010B96 00FF
+
+[Rich Character Cheats\Max Water]
+Type = Gameshark
+Activation = EndFrame
+30010B97 00FF
+
+[Rich Character Cheats\Max Tone]
+Type = Gameshark
+Activation = EndFrame
+30010B98 00FF
+
+[Rich Character Cheats\Max Beast]
+Type = Gameshark
+Activation = EndFrame
+30010B99 00FF
+
+[Rich Character Cheats\Easier Time Learning Art + On Arts]
+Type = Gameshark
+Activation = EndFrame
+E2010B8D 007F
+20010B8D 0080
+E2010B8E 007F
+20010B8E 0080
+E2010B8F 007F
+20010B8F 0080
+E2010B90 007F
+20010B90 0080
+E2010B91 007F
+20010B91 0080
+E2010B92 007F
+20010B92 0080
+E2010B94 007F
+20010B94 0080
+E2010B95 007F
+20010B95 0080
+E2010B96 007F
+20010B96 0080
+E2010B97 007F
+20010B97 0080
+E2010B98 007F
+20010B98 0080
+E2010B99 007F
+20010B99 0080
+
+[Roberto Character Cheats\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+80010D3C 03E7
+
+[Roberto Character Cheats\Max HP]
+Type = Gameshark
+Activation = EndFrame
+80010D3E 03E7
+
+[Roberto Character Cheats\Infinite LP]
+Type = Gameshark
+Activation = EndFrame
+30010D40 00FF
+
+[Roberto Character Cheats\Max LP]
+Type = Gameshark
+Activation = EndFrame
+30010D41 00FF
+
+[Roberto Character Cheats\Infinite WP]
+Type = Gameshark
+Activation = EndFrame
+30010D44 00FF
+
+[Roberto Character Cheats\Max WP]
+Type = Gameshark
+Activation = EndFrame
+30010D45 00FF
+
+[Roberto Character Cheats\Wp()]
+Type = Gameshark
+Activation = EndFrame
+30010D47 0063
+
+[Roberto Character Cheats\Max Martial]
+Type = Gameshark
+Activation = EndFrame
+30010D4D 00FF
+
+[Roberto Character Cheats\Max Sword]
+Type = Gameshark
+Activation = EndFrame
+30010D4E 00FF
+
+[Roberto Character Cheats\Max Axe]
+Type = Gameshark
+Activation = EndFrame
+30010D4F 00FF
+
+[Roberto Character Cheats\Max Staff]
+Type = Gameshark
+Activation = EndFrame
+30010D50 00FF
+
+[Roberto Character Cheats\Max Spear]
+Type = Gameshark
+Activation = EndFrame
+30010D51 00FF
+
+[Roberto Character Cheats\Max Bow]
+Type = Gameshark
+Activation = EndFrame
+30010D52 00FF
+
+[Roberto Character Cheats\Max Tree]
+Type = Gameshark
+Activation = EndFrame
+30010D54 00FF
+
+[Roberto Character Cheats\Max Stone]
+Type = Gameshark
+Activation = EndFrame
+30010D55 00FF
+
+[Roberto Character Cheats\Max Flame]
+Type = Gameshark
+Activation = EndFrame
+30010D56 00FF
+
+[Roberto Character Cheats\Max Water]
+Type = Gameshark
+Activation = EndFrame
+30010D57 00FF
+
+[Roberto Character Cheats\Max Tone]
+Type = Gameshark
+Activation = EndFrame
+30010D58 00FF
+
+[Roberto Character Cheats\Max Beast]
+Type = Gameshark
+Activation = EndFrame
+30010D59 00FF
+
+[Roberto Character Cheats\Easier Time Learning Art + On Arts]
+Type = Gameshark
+Activation = EndFrame
+E2010D4D 007F
+20010D4D 0080
+E2010D4E 007F
+20010D4E 0080
+E2010D4F 007F
+20010D4F 0080
+E2010D50 007F
+20010D50 0080
+E2010D51 007F
+20010D51 0080
+E2010D52 007F
+20010D52 0080
+E2010D54 007F
+20010D54 0080
+E2010D55 007F
+20010D55 0080
+E2010D56 007F
+20010D56 0080
+E2010D57 007F
+20010D57 0080
+E2010D58 007F
+20010D58 0080
+E2010D59 007F
+20010D59 0080
+
+[Sargon Character Cheats\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+80010B0C 03E7
+
+[Sargon Character Cheats\Max HP]
+Type = Gameshark
+Activation = EndFrame
+80010B0E 03E7
+
+[Sargon Character Cheats\Infinite LP]
+Type = Gameshark
+Activation = EndFrame
+30010B10 00FF
+
+[Sargon Character Cheats\Max LP]
+Type = Gameshark
+Activation = EndFrame
+30010B11 00FF
+
+[Sargon Character Cheats\Infinite WP]
+Type = Gameshark
+Activation = EndFrame
+30010B14 00FF
+
+[Sargon Character Cheats\Max WP]
+Type = Gameshark
+Activation = EndFrame
+30010B15 00FF
+
+[Sargon Character Cheats\Wp()]
+Type = Gameshark
+Activation = EndFrame
+30010B17 0063
+
+[Sargon Character Cheats\Max Martial]
+Type = Gameshark
+Activation = EndFrame
+30010B1D 00FF
+
+[Sargon Character Cheats\Max Sword]
+Type = Gameshark
+Activation = EndFrame
+30010B1E 00FF
+
+[Sargon Character Cheats\Max Axe]
+Type = Gameshark
+Activation = EndFrame
+30010B1F 00FF
+
+[Sargon Character Cheats\Max Staff]
+Type = Gameshark
+Activation = EndFrame
+30010B20 00FF
+
+[Sargon Character Cheats\Max Spear]
+Type = Gameshark
+Activation = EndFrame
+30010B21 00FF
+
+[Sargon Character Cheats\Max Bow]
+Type = Gameshark
+Activation = EndFrame
+30010B22 00FF
+
+[Sargon Character Cheats\Max Tree]
+Type = Gameshark
+Activation = EndFrame
+30010B24 00FF
+
+[Sargon Character Cheats\Max Stone]
+Type = Gameshark
+Activation = EndFrame
+30010B25 00FF
+
+[Sargon Character Cheats\Max Flame]
+Type = Gameshark
+Activation = EndFrame
+30010B26 00FF
+
+[Sargon Character Cheats\Max Water]
+Type = Gameshark
+Activation = EndFrame
+30010B27 00FF
+
+[Sargon Character Cheats\Max Tone]
+Type = Gameshark
+Activation = EndFrame
+30010B28 00FF
+
+[Sargon Character Cheats\Max Beast]
+Type = Gameshark
+Activation = EndFrame
+30010B29 00FF
+
+[Sargon Character Cheats\Easier Time Learning Art + On Arts]
+Type = Gameshark
+Activation = EndFrame
+E2010B1D 007F
+20010B1D 0080
+E2010B1E 007F
+20010B1E 0080
+E2010B1F 007F
+20010B1F 0080
+E2010B20 007F
+20010B20 0080
+E2010B21 007F
+20010B21 0080
+E2010B22 007F
+20010B22 0080
+E2010B24 007F
+20010B24 0080
+E2010B25 007F
+20010B25 0080
+E2010B26 007F
+20010B26 0080
+E2010B27 007F
+20010B27 0080
+E2010B28 007F
+20010B28 0080
+E2010B29 007F
+20010B29 0080
+
+[Tyler Character Cheats\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+8001071C 03E7
+
+[Tyler Character Cheats\Max HP]
+Type = Gameshark
+Activation = EndFrame
+8001071E 03E7
+
+[Tyler Character Cheats\Infinite LP]
+Type = Gameshark
+Activation = EndFrame
+30010720 00FF
+
+[Tyler Character Cheats\Max LP]
+Type = Gameshark
+Activation = EndFrame
+30010721 00FF
+
+[Tyler Character Cheats\Infinite WP]
+Type = Gameshark
+Activation = EndFrame
+30010724 00FF
+
+[Tyler Character Cheats\Max WP]
+Type = Gameshark
+Activation = EndFrame
+30010725 00FF
+
+[Tyler Character Cheats\Wp()]
+Type = Gameshark
+Activation = EndFrame
+30010727 0063
+
+[Tyler Character Cheats\Max Martial]
+Type = Gameshark
+Activation = EndFrame
+3001072D 00FF
+
+[Tyler Character Cheats\Max Sword]
+Type = Gameshark
+Activation = EndFrame
+3001072E 00FF
+
+[Tyler Character Cheats\Max Axe]
+Type = Gameshark
+Activation = EndFrame
+3001072F 00FF
+
+[Tyler Character Cheats\Max Staff]
+Type = Gameshark
+Activation = EndFrame
+30010730 00FF
+
+[Tyler Character Cheats\Max Spear]
+Type = Gameshark
+Activation = EndFrame
+30010731 00FF
+
+[Tyler Character Cheats\Max Bow]
+Type = Gameshark
+Activation = EndFrame
+30010732 00FF
+
+[Tyler Character Cheats\Max Tree]
+Type = Gameshark
+Activation = EndFrame
+30010734 00FF
+
+[Tyler Character Cheats\Max Stone]
+Type = Gameshark
+Activation = EndFrame
+30010735 00FF
+
+[Tyler Character Cheats\Max Flame]
+Type = Gameshark
+Activation = EndFrame
+30010736 00FF
+
+[Tyler Character Cheats\Max Water]
+Type = Gameshark
+Activation = EndFrame
+30010737 00FF
+
+[Tyler Character Cheats\Max Tone]
+Type = Gameshark
+Activation = EndFrame
+30010738 00FF
+
+[Tyler Character Cheats\Max Beast]
+Type = Gameshark
+Activation = EndFrame
+30010739 00FF
+
+[Tyler Character Cheats\Easier Time Learning Art + On Arts]
+Type = Gameshark
+Activation = EndFrame
+E201072D 007F
+2001072D 0080
+E201072E 007F
+2001072E 0080
+E201072F 007F
+2001072F 0080
+E2010730 007F
+20010730 0080
+E2010731 007F
+20010731 0080
+E2010732 007F
+20010732 0080
+E2010734 007F
+20010734 0080
+E2010735 007F
+20010735 0080
+E2010736 007F
+20010736 0080
+E2010737 007F
+20010737 0080
+E2010738 007F
+20010738 0080
+E2010739 007F
+20010739 0080
+
+[Ventabre Character Cheats\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+8001094C 03E7
+
+[Ventabre Character Cheats\Max HP]
+Type = Gameshark
+Activation = EndFrame
+8001094E 03E7
+
+[Ventabre Character Cheats\Infinite LP]
+Type = Gameshark
+Activation = EndFrame
+30010950 00FF
+
+[Ventabre Character Cheats\Max LP]
+Type = Gameshark
+Activation = EndFrame
+30010951 00FF
+
+[Ventabre Character Cheats\Infinite WP]
+Type = Gameshark
+Activation = EndFrame
+30010954 00FF
+
+[Ventabre Character Cheats\Max WP]
+Type = Gameshark
+Activation = EndFrame
+30010955 00FF
+
+[Ventabre Character Cheats\Wp()]
+Type = Gameshark
+Activation = EndFrame
+30010957 0063
+
+[Ventabre Character Cheats\Max Martial]
+Type = Gameshark
+Activation = EndFrame
+3001095D 00FF
+
+[Ventabre Character Cheats\Max Sword]
+Type = Gameshark
+Activation = EndFrame
+3001095E 00FF
+
+[Ventabre Character Cheats\Max Axe]
+Type = Gameshark
+Activation = EndFrame
+3001095F 00FF
+
+[Ventabre Character Cheats\Max Staff]
+Type = Gameshark
+Activation = EndFrame
+30010960 00FF
+
+[Ventabre Character Cheats\Max Spear]
+Type = Gameshark
+Activation = EndFrame
+30010961 00FF
+
+[Ventabre Character Cheats\Max Bow]
+Type = Gameshark
+Activation = EndFrame
+30010962 00FF
+
+[Ventabre Character Cheats\Max Tree]
+Type = Gameshark
+Activation = EndFrame
+30010964 00FF
+
+[Ventabre Character Cheats\Max Stone]
+Type = Gameshark
+Activation = EndFrame
+30010965 00FF
+
+[Ventabre Character Cheats\Max Flame]
+Type = Gameshark
+Activation = EndFrame
+30010966 00FF
+
+[Ventabre Character Cheats\Max Water]
+Type = Gameshark
+Activation = EndFrame
+30010967 00FF
+
+[Ventabre Character Cheats\Max Tone]
+Type = Gameshark
+Activation = EndFrame
+30010968 00FF
+
+[Ventabre Character Cheats\Max Beast]
+Type = Gameshark
+Activation = EndFrame
+30010969 00FF
+
+[Ventabre Character Cheats\Easier Time Learning Art + On Arts]
+Type = Gameshark
+Activation = EndFrame
+E201095D 007F
+2001095D 0080
+E201095E 007F
+2001095E 0080
+E201095F 007F
+2001095F 0080
+E2010960 007F
+20010960 0080
+E2010961 007F
+20010961 0080
+E2010962 007F
+20010962 0080
+E2010964 007F
+20010964 0080
+E2010965 007F
+20010965 0080
+E2010966 007F
+20010966 0080
+E2010967 007F
+20010967 0080
+E2010968 007F
+20010968 0080
+E2010969 007F
+20010969 0080
+
+[Wil Knights Character Cheats\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800107FC 03E7
+
+[Wil Knights Character Cheats\Max HP]
+Type = Gameshark
+Activation = EndFrame
+800107FE 03E7
+
+[Wil Knights Character Cheats\Infinite LP]
+Type = Gameshark
+Activation = EndFrame
+30010800 00FF
+
+[Wil Knights Character Cheats\Max LP]
+Type = Gameshark
+Activation = EndFrame
+30010801 00FF
+
+[Wil Knights Character Cheats\Infinite WP]
+Type = Gameshark
+Activation = EndFrame
+30010804 00FF
+
+[Wil Knights Character Cheats\Max WP]
+Type = Gameshark
+Activation = EndFrame
+30010805 00FF
+
+[Wil Knights Character Cheats\Wp()]
+Type = Gameshark
+Activation = EndFrame
+30010807 0063
+
+[Wil Knights Character Cheats\Max Martial]
+Type = Gameshark
+Activation = EndFrame
+3001080D 00FF
+
+[Wil Knights Character Cheats\Max Sword]
+Type = Gameshark
+Activation = EndFrame
+3001080E 00FF
+
+[Wil Knights Character Cheats\Max Axe]
+Type = Gameshark
+Activation = EndFrame
+3001080F 00FF
+
+[Wil Knights Character Cheats\Max Staff]
+Type = Gameshark
+Activation = EndFrame
+30010810 00FF
+
+[Wil Knights Character Cheats\Max Spear]
+Type = Gameshark
+Activation = EndFrame
+30010811 00FF
+
+[Wil Knights Character Cheats\Max Bow]
+Type = Gameshark
+Activation = EndFrame
+30010812 00FF
+
+[Wil Knights Character Cheats\Max Tree]
+Type = Gameshark
+Activation = EndFrame
+30010814 00FF
+
+[Wil Knights Character Cheats\Max Stone]
+Type = Gameshark
+Activation = EndFrame
+30010815 00FF
+
+[Wil Knights Character Cheats\Max Flame]
+Type = Gameshark
+Activation = EndFrame
+30010816 00FF
+
+[Wil Knights Character Cheats\Max Water]
+Type = Gameshark
+Activation = EndFrame
+30010817 00FF
+
+[Wil Knights Character Cheats\Max Tone]
+Type = Gameshark
+Activation = EndFrame
+30010818 00FF
+
+[Wil Knights Character Cheats\Max Beast]
+Type = Gameshark
+Activation = EndFrame
+30010819 00FF
+
+[Wil Knights Character Cheats\Easier Time Learning Art + On Arts]
+Type = Gameshark
+Activation = EndFrame
+E201080D 007F
+2001080D 0080
+E201080E 007F
+2001080E 0080
+E201080F 007F
+2001080F 0080
+E2010810 007F
+20010810 0080
+E2010811 007F
+20010811 0080
+E2010812 007F
+20010812 0080
+E2010814 007F
+20010814 0080
+E2010815 007F
+20010815 0080
+E2010816 007F
+20010816 0080
+E2010817 007F
+20010817 0080
+E2010818 007F
+20010818 0080
+E2010819 007F
+20010819 0080
+
+[William Character Cheats\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+80010E8C 03E7
+
+[William Character Cheats\Max HP]
+Type = Gameshark
+Activation = EndFrame
+80010E8E 03E7
+
+[William Character Cheats\Infinite LP]
+Type = Gameshark
+Activation = EndFrame
+30010E90 00FF
+
+[William Character Cheats\Max LP]
+Type = Gameshark
+Activation = EndFrame
+30010E91 00FF
+
+[William Character Cheats\Infinite WP]
+Type = Gameshark
+Activation = EndFrame
+30010E94 00FF
+
+[William Character Cheats\Max WP]
+Type = Gameshark
+Activation = EndFrame
+30010E95 00FF
+
+[William Character Cheats\Wp()]
+Type = Gameshark
+Activation = EndFrame
+30010E97 0063
+
+[William Character Cheats\Max Martial]
+Type = Gameshark
+Activation = EndFrame
+30010E9D 00FF
+
+[William Character Cheats\Max Sword]
+Type = Gameshark
+Activation = EndFrame
+30010E9E 00FF
+
+[William Character Cheats\Max Axe]
+Type = Gameshark
+Activation = EndFrame
+30010E9F 00FF
+
+[William Character Cheats\Max Staff]
+Type = Gameshark
+Activation = EndFrame
+30010EA0 00FF
+
+[William Character Cheats\Max Spear]
+Type = Gameshark
+Activation = EndFrame
+30010EA1 00FF
+
+[William Character Cheats\Max Bow]
+Type = Gameshark
+Activation = EndFrame
+30010EA2 00FF
+
+[William Character Cheats\Max Tree]
+Type = Gameshark
+Activation = EndFrame
+30010EA4 00FF
+
+[William Character Cheats\Max Stone]
+Type = Gameshark
+Activation = EndFrame
+30010EA5 00FF
+
+[William Character Cheats\Max Flame]
+Type = Gameshark
+Activation = EndFrame
+30010EA6 00FF
+
+[William Character Cheats\Max Water]
+Type = Gameshark
+Activation = EndFrame
+30010EA7 00FF
+
+[William Character Cheats\Max Tone]
+Type = Gameshark
+Activation = EndFrame
+30010EA8 00FF
+
+[William Character Cheats\Max Beast]
+Type = Gameshark
+Activation = EndFrame
+30010EA9 00FF
+
+[William Character Cheats\Easier Time Learning Art + On Arts]
+Type = Gameshark
+Activation = EndFrame
+E2010E9D 007F
+20010E9D 0080
+E2010E9E 007F
+20010E9E 0080
+E2010E9F 007F
+20010E9F 0080
+E2010EA0 007F
+20010EA0 0080
+E2010EA1 007F
+20010EA1 0080
+E2010EA2 007F
+20010EA2 0080
+E2010EA4 007F
+20010EA4 0080
+E2010EA5 007F
+20010EA5 0080
+E2010EA6 007F
+20010EA6 0080
+E2010EA7 007F
+20010EA7 0080
+E2010EA8 007F
+20010EA8 0080
+E2010EA9 007F
+20010EA9 0080
+

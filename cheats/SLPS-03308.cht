@@ -1,0 +1,8 @@
+; CHTDB: ; [ Simple Characters 2000 Series Vol.03 - Kamen Rider - The Bike Race (Jpn) (2001) (Bandai) {SLPS-03308} <scs03kmn> ]
+
+[Quick Win - Press L1 Wait till you're in first position only then press L1 to finish the race.]
+Type = Gameshark
+Activation = EndFrame
+D0197D4A FBFF
+80196F18 0004
+

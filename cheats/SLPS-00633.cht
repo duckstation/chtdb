@@ -1,0 +1,18 @@
+; CHTDB: ; [ Welcome House 2: Keaton and His Uncle (Japan) {SLPS-00633} ]
+
+[All Items In Inventory]
+Type = Gameshark
+Activation = EndFrame
+90084A7C FFFFFFFF
+
+[Complete Map]
+Type = Gameshark
+Activation = EndFrame
+50001802 0000
+80084A88 0101
+
+[Unlock All Doors]
+Type = Gameshark
+Activation = EndFrame
+80084A84 FFFF
+

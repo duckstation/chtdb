@@ -1,0 +1,22 @@
+; CHTDB: ; [ Parlor! Pro (Japan) {SLPS-00838} ]
+
+[Always four pending ball CR Daikunogensan]
+Type = Gameshark
+Activation = EndFrame
+8007A8F0 0004
+
+[Always a big hit CR Daikunogensan]
+Type = Gameshark
+Activation = EndFrame
+80048AAE 1400
+
+[Always four pending ball CR Gingira Paradise]
+Type = Gameshark
+Activation = EndFrame
+800802A8 0004
+
+[Always a big hit CR Gingira Paradise]
+Type = Gameshark
+Activation = EndFrame
+8002CB52 1400
+

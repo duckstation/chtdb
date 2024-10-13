@@ -1,0 +1,72 @@
+; CHTDB: ; [ MeltyLancer: Re-inforce (Japan) {SLPS-01147 | SLPS-01148} ]
+
+[Knowledge=999]
+Type = Gameshark
+Activation = EndFrame
+900D7090 0001869F
+
+[Response=999]
+Type = Gameshark
+Activation = EndFrame
+900D7094 0001869F
+
+[Judgement=999]
+Type = Gameshark
+Activation = EndFrame
+900D7098 0001869F
+
+[Health=999]
+Type = Gameshark
+Activation = EndFrame
+900D709C 0001869F
+
+[Mp=999]
+Type = Gameshark
+Activation = EndFrame
+900D70A0 0001869F
+
+[Cmmon=999]
+Type = Gameshark
+Activation = EndFrame
+900D70A4 0001869F
+
+[Attack=999]
+Type = Gameshark
+Activation = EndFrame
+900D70A8 0001869F
+
+[Defense=999]
+Type = Gameshark
+Activation = EndFrame
+900D70AC 0001869F
+
+[Speed=999]
+Type = Gameshark
+Activation = EndFrame
+900D70B0 0001869F
+
+[Hp=999]
+Type = Gameshark
+Activation = EndFrame
+900D70C0 0001869F
+
+[Pp=999]
+Type = Gameshark
+Activation = EndFrame
+900D70C4 0001869F
+
+[The Hp In The Battle=999]
+Type = Gameshark
+Activation = EndFrame
+9009E8CC 03E703E7
+
+[The Pp In The Battle=999]
+Type = Gameshark
+Activation = EndFrame
+9009E8D0 03E703E7
+
+[In battle turn 0]
+Type = Gameshark
+Activation = EndFrame
+80093C10 0000
+

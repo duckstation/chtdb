@@ -1,0 +1,625 @@
+; CHTDB: ; [ Syphon Filter 2 (USA) (2000) (989 Studios) {SCUS-94451 / SCUS-94451, SCUS-94492} <syphonf2> ]
+
+[Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+D0089E68 0006
+80089E6A 2400
+
+[Have All Weapons + Items]
+Type = Gameshark
+Activation = EndFrame
+9012A5B0 FFFFFFFF
+
+[Unlock All Missions]
+Type = Gameshark
+Activation = EndFrame
+8014AF3C 0015
+
+[Countdown Timer Manipulator Press (L2+R2) To Start + Press (L1+R1) To Stop]
+Type = Gameshark
+Activation = EndFrame
+D0122FF0 0003
+9005C9FC AE020C48
+D0122FF0 000C
+8005C9FE 2400
+
+[Colorado Mountains\Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+D011EC70 0004
+801ACA7A 0258
+D011EC70 0003
+801AC556 0258
+
+[Colorado Mountains\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+D011EC70 0004
+801ACA7C 0096
+D011EC70 0003
+801AC558 0096
+
+[Mckenzie Airbase Interior\Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+D011EC70 0004
+801B08A6 0258
+D011EC70 0003
+801B0536 0258
+
+[Mckenzie Airbase Interior\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+D011EC70 0004
+801B08A8 0096
+D011EC70 0003
+801B0538 0096
+
+[Colorado Interstate 70\Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+D011EC70 0004
+801A938E 0258
+D011EC70 0003
+801A91EE 0258
+
+[Colorado Interstate 70\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+D011EC70 0004
+801A9390 0096
+D011EC70 0003
+801A91F0 0096
+
+[1-70 Mountain Bridge\Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+D011EC70 0004
+801ADB12 0258
+D011EC70 0003
+801AD7EE 0258
+
+[1-70 Mountain Bridge\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+D011EC70 0004
+801ADB14 0096
+D011EC70 0003
+801AD7F0 0096
+
+[Mckenzie Airbase Exterior\Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+D011EC70 0004
+801B9E16 0258
+D011EC70 0003
+801B9A32 0258
+
+[Mckenzie Airbase Exterior\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+D011EC70 0004
+801B9E18 0096
+D011EC70 0003
+801B9A34 0096
+
+[Colorado Train Ride\Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+D011EC70 0004
+801AC48A 0258
+D011EC70 0003
+801ABD06 0258
+
+[Colorado Train Ride\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+D011EC70 0004
+801AC48C 0096
+D011EC70 0003
+801ABD08 0096
+
+[Colorado Train Race\Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+D011EC70 0004
+801ABA4E 0258
+D011EC70 0003
+801AB6DA 0258
+
+[Colorado Train Race\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+D011EC70 0004
+801ABA50 0096
+D011EC70 0003
+801AB6DC 0096
+
+[C-130 Wreck Site\Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+D011EC70 0004
+801B0DF2 0258
+D011EC70 0003
+801B085E 0258
+
+[C-130 Wreck Site\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+D011EC70 0004
+801B0DF4 0096
+D011EC70 0003
+801B0D60 0096
+
+[Pharcon Expo Center\Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+D011EC70 0004
+801B6222 0258
+D011EC70 0003
+801B5FEA 0258
+
+[Pharcon Expo Center\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+D011EC70 0004
+801B6224 0096
+D011EC70 0003
+801B5FEC 0096
+
+[Morgan\Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+D011EC70 0004
+801B6292 0258
+D011EC70 0003
+801B6166 0258
+
+[Morgan\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+D011EC70 0004
+801B6294 0096
+D011EC70 0003
+801B6168 0096
+
+[Moscow Club 32\Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+D011EC70 0004
+801B62F2 0258
+D011EC70 0003
+801B60CA 0258
+
+[Moscow Club 32\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+D011EC70 0004
+801B62F4 0096
+D011EC70 0003
+801B60CC 0096
+
+[Moscow Streets\Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+D011EC70 0004
+801ACC16 0258
+D011EC70 0003
+801AC632 0258
+
+[Moscow Streets\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+D011EC70 0004
+801ACC18 0096
+D011EC70 0003
+801AC634 0096
+
+[Volkov Park\Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+D011EC70 0004
+801A77A6 0258
+D011EC70 0003
+801A731E 0258
+
+[Volkov Park\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+D011EC70 0004
+801A77A8 0096
+D011EC70 0003
+801A7320 0096
+
+[Gregorov\Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+D011EC70 0004
+801C8B02 0258
+D011EC70 0003
+801C8942 0258
+
+[Gregorov\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+D011EC70 0004
+801C8B04 0096
+D011EC70 0003
+801C8944 0096
+
+[Aljir Prison Break-In\Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+D011EC70 0004
+801AFB16 0258
+D011EC70 0003
+801AF48A 0258
+
+[Aljir Prison Break-In\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+D011EC70 0004
+801AFB18 0096
+D011EC70 0003
+801AF48C 0096
+
+[Aljir Prison Escape\Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+D011EC70 0004
+801AD48E 0258
+D011EC70 0003
+801ACFB2 0258
+
+[Aljir Prison Escape\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+D011EC70 0004
+801AD490 0096
+D011EC70 0003
+801ACFB4 0096
+
+[Agency Bio-Lab\Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+D011EC70 0004
+801BE96E 0258
+D011EC70 0003
+801BE74A 0258
+
+[Agency Bio-Lab\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+D011EC70 0004
+801BE970 0096
+D011EC70 0003
+801BE74C 0096
+
+[Agency Bio-Lab Escape\Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+D011EC70 0004
+801AC2A6 0258
+D011EC70 0003
+801AC092 0258
+
+[Agency Bio-Lab Escape\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+D011EC70 0004
+801AC2A8 0096
+D011EC70 0003
+801AC094 0096
+
+[New York Slums\Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+D011EC70 0004
+801AD98A 0258
+D011EC70 0003
+801AD1AE 0258
+
+[New York Slums\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+D011EC70 0004
+801AD98C 0096
+D011EC70 0003
+801AD1B0 0096
+
+[New York Sewer\Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+D011EC70 0004
+801B20F6 0258
+D011EC70 0003
+801B1E06 0258
+
+[New York Sewer\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+D011EC70 0004
+801B20F8 0096
+D011EC70 0003
+801B1E08 0096
+
+[Finale\Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+D011EC70 0004
+801B37EA 0258
+D011EC70 0003
+801B3756 0258
+
+[Finale\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+D011EC70 0004
+801B37EC 0096
+D011EC70 0003
+801B3758 0096
+
+[Finale\Unlock All Cheats + Multi-Player Stuff]
+Type = Gameshark
+Activation = EndFrame
+9011F6A4 FFFFFFFF
+
+[Finale\Infinite Ammo (All Weapons)]
+Type = Gameshark
+Activation = EndFrame
+50001104 0000
+3012A5BE 0063
+3012A60E 0063
+50000304 0000
+3012A612 0063
+3012A62A 0063
+
+[Max Ammo-Silenced 9mm]
+Type = Gameshark
+Activation = EndFrame
+3012A5BC 0063
+
+[Max Ammo-9mm]
+Type = Gameshark
+Activation = EndFrame
+3012A5C0 0063
+
+[Max Ammo-.45]
+Type = Gameshark
+Activation = EndFrame
+3012A5C4 0063
+
+[Max Ammo-M-16]
+Type = Gameshark
+Activation = EndFrame
+3012A5C8 0063
+
+[Max Ammo-Silenced Hk-5]
+Type = Gameshark
+Activation = EndFrame
+3012A5CC 0063
+
+[Max Ammo-Hk-5]
+Type = Gameshark
+Activation = EndFrame
+3012A5D0 0063
+
+[Max Ammo-Pk-102]
+Type = Gameshark
+Activation = EndFrame
+3012A5D4 0063
+
+[Max Ammo-Shotgun]
+Type = Gameshark
+Activation = EndFrame
+3012A5D8 0063
+
+[Max Ammo-Uas-12]
+Type = Gameshark
+Activation = EndFrame
+3012A5DC 0063
+
+[Max Ammo-G-18]
+Type = Gameshark
+Activation = EndFrame
+3012A5E0 0063
+
+[Max Ammo-Biz-2]
+Type = Gameshark
+Activation = EndFrame
+3012A5E4 0063
+
+[Max Ammo-K3G4]
+Type = Gameshark
+Activation = EndFrame
+3012A5E8 0063
+
+[Max Ammo-H11]
+Type = Gameshark
+Activation = EndFrame
+3012A5EC 0063
+
+[Max Ammo-Silent Sniper Rifle]
+Type = Gameshark
+Activation = EndFrame
+3012A5F0 0063
+
+[Max Ammo-Sniper Rifle]
+Type = Gameshark
+Activation = EndFrame
+3012A5F4 0063
+
+[Max Ammo-Nightvision Rifle]
+Type = Gameshark
+Activation = EndFrame
+3012A5F8 0063
+
+[Max Ammo-Incendiary Grenade]
+Type = Gameshark
+Activation = EndFrame
+3012A610 0063
+
+[Max Ammo-Nerve Gas Grenade]
+Type = Gameshark
+Activation = EndFrame
+3012A614 0063
+
+[Max Ammo-M-79]
+Type = Gameshark
+Activation = EndFrame
+3012A60C 0063
+
+[Max Ammo-Tear Gas Launcher]
+Type = Gameshark
+Activation = EndFrame
+3012A628 0063
+
+[Max Ammo-Crossbow]
+Type = Gameshark
+Activation = EndFrame
+3012A5FC 0063
+
+[Max Ammo-C4]
+Type = Gameshark
+Activation = EndFrame
+3012A618 0063
+
+[Infinite Ammo-Silenced 9mm]
+Type = Gameshark
+Activation = EndFrame
+3012A5BE 0063
+
+[Infinite Ammo-9mm]
+Type = Gameshark
+Activation = EndFrame
+3012A5C2 0063
+
+[Infinite Ammo-.45]
+Type = Gameshark
+Activation = EndFrame
+3012A5C6 0063
+
+[Infinite Ammo-M-16]
+Type = Gameshark
+Activation = EndFrame
+3012A5CA 0063
+
+[Infinite Ammo-Silenced Hk-5]
+Type = Gameshark
+Activation = EndFrame
+3012A5CE 0063
+
+[Infinite Ammo-Hk-5]
+Type = Gameshark
+Activation = EndFrame
+3012A5D2 0063
+
+[Infinite Ammo-Pk-102]
+Type = Gameshark
+Activation = EndFrame
+3012A5D6 0063
+
+[Infinite Ammo-Shotgun]
+Type = Gameshark
+Activation = EndFrame
+3012A5DA 0063
+
+[Infinite Ammo-Uas-12]
+Type = Gameshark
+Activation = EndFrame
+3012A5DE 0063
+
+[Infinite Ammo-G-18]
+Type = Gameshark
+Activation = EndFrame
+3012A5E2 0063
+
+[Infinite Ammo-Biz-2]
+Type = Gameshark
+Activation = EndFrame
+3012A5E6 0063
+
+[Infinite Ammo-K3G4]
+Type = Gameshark
+Activation = EndFrame
+3012A5EA 0063
+
+[Infinite Ammo-H11]
+Type = Gameshark
+Activation = EndFrame
+3012A5EE 0063
+
+[Infinite Ammo-Silent Sniper Rifle]
+Type = Gameshark
+Activation = EndFrame
+3012A5F2 0063
+
+[Infinite Ammo-Sniper Rifle]
+Type = Gameshark
+Activation = EndFrame
+3012A5F6 0063
+
+[Infinite Ammo-Nightvision Rifle]
+Type = Gameshark
+Activation = EndFrame
+3012A5FA 0063
+
+[Infinite Ammo-Incendiary Grenade]
+Type = Gameshark
+Activation = EndFrame
+3012A612 0063
+
+[Infinite Ammo-Nerve Gas Grenade]
+Type = Gameshark
+Activation = EndFrame
+3012A616 0063
+
+[Infinite Ammo-M-79]
+Type = Gameshark
+Activation = EndFrame
+3012A60E 0063
+
+[Infinite Ammo-Tear Gas Launcher]
+Type = Gameshark
+Activation = EndFrame
+3012A62A 0063
+
+[Infinite Ammo-Crossbow]
+Type = Gameshark
+Activation = EndFrame
+3012A5FE 0063
+
+[Infinite Ammo-C4]
+Type = Gameshark
+Activation = EndFrame
+3012A61A 0063
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+8011FC80 FFFF
+
+[Invisibility Code If you press and hold the L1 button, you can turn invisibility off to turn it on again, just release the L1 button]
+Type = Gameshark
+Activation = EndFrame
+8011F860 FFFF
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A7120968 10000C00
+A7120F08 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A7120968 10000900
+A7120F08 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A7120968 10000400
+A7120F08 10000400
+

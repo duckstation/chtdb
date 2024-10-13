@@ -1,0 +1,37 @@
+; CHTDB: ; [ Lost Vikings 2: Norse by Norsewest aka The Lost Vikings II (Europe) {SLES-00057} ]
+
+[Erik Code Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800B8234 0003
+
+[Baleog Codes Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800B8250 0003
+
+[Olaf Codes Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800B826C 0003
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+30096160 0001
+
+[Infinite Flying]
+Type = Gameshark
+Activation = EndFrame
+30096160 0002
+
+[Invincibility + Infinite Flying]
+Type = Gameshark
+Activation = EndFrame
+30096160 0003
+
+[Skip Level (X+Square+Triangle)]
+Type = Gameshark
+Activation = EndFrame
+30096160 0004
+

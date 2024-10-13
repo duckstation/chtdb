@@ -1,0 +1,79 @@
+; CHTDB: ; [ Wares 1092: Souheiden (Japan) {SLPS-00596} ]
+
+[Infinite Energy Robot]
+Type = Gameshark
+Activation = EndFrame
+8009573C 0DAC
+800C0388 0DAC
+800F0E34 0DAC
+
+[Infinite Money 9999999]
+Type = Gameshark
+Activation = EndFrame
+900B3410 0098967F
+
+[Experience value MAX]
+Type = Gameshark
+Activation = EndFrame
+900B3424 05F5E0FF
+
+[Brawn MAX]
+Type = Gameshark
+Activation = EndFrame
+800F0E16 03E7
+
+[Wisdom MAX]
+Type = Gameshark
+Activation = EndFrame
+800F0E18 03E7
+
+[Mental strength MAX]
+Type = Gameshark
+Activation = EndFrame
+800F0E1A 03E7
+
+[Endurance MAX]
+Type = Gameshark
+Activation = EndFrame
+800F0E1C 03E7
+
+[Dexterity MAX]
+Type = Gameshark
+Activation = EndFrame
+800F0E1E 03E7
+
+[Strength MAX]
+Type = Gameshark
+Activation = EndFrame
+800F0E28 03E7
+
+[Sensitive force MAX]
+Type = Gameshark
+Activation = EndFrame
+800F0E2A 03E7
+
+[Armor thickness MAX]
+Type = Gameshark
+Activation = EndFrame
+800F0E2C 03E7
+
+[Instantaneous force MAX]
+Type = Gameshark
+Activation = EndFrame
+800F0E2E 03E7
+
+[Ego MAX]
+Type = Gameshark
+Activation = EndFrame
+800F0E30 03E7
+
+[Blood volume MAX]
+Type = Gameshark
+Activation = EndFrame
+800B31F4 FFFF
+
+[Water MAX]
+Type = Gameshark
+Activation = EndFrame
+800B3220 FFFF
+

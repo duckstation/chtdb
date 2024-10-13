@@ -1,0 +1,81 @@
+; CHTDB: ; [ Tekken 2 (USA, v1.0) (1996) (Namco Hometek) {SLUS-00213} <tekken2a> ]
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800D09EA 006E
+
+[P1 No Health]
+Type = Gameshark
+Activation = EndFrame
+800D09E8 0000
+
+[P1 1 Hit Death]
+Type = Gameshark
+Activation = EndFrame
+A60D09EA 006E0001
+
+[P2 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800D1BF2 006E
+
+[P2 No Health]
+Type = Gameshark
+Activation = EndFrame
+800D1BF2 0000
+
+[P2 1 Hit Death]
+Type = Gameshark
+Activation = EndFrame
+A60D1BF2 006E0001
+
+[Have All 26 Players]
+Type = Gameshark
+Activation = EndFrame
+900A3630 00FFFFFF
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800CAC4A 0036
+800CAE12 0036
+800CC072 0036
+800CC09A 0036
+800CC262 0036
+800D2C1C 090E
+
+[Infinite Time To Pick Character]
+Type = Gameshark
+Activation = EndFrame
+801ED1C0 0449
+
+[Hit Anywhere]
+Type = Gameshark
+Activation = EndFrame
+A7062FE6 10401400
+
+[P1 Set 2 Win]
+Type = Gameshark
+Activation = EndFrame
+800D083C 0002
+
+[P2 Set 2 Win]
+Type = Gameshark
+Activation = EndFrame
+800D1A44 0002
+
+[Elapsed Timer Always 00'00'01]
+Type = Gameshark
+Activation = EndFrame
+800D644C 0000
+
+[Extra Characters]
+Type = Gameshark
+Activation = EndFrame
+901ED1D4 142A1A20
+901ED1D8 18161E22
+801ED1DC 281C
+801ED1E8 0016
+801ED250 0016
+

@@ -1,0 +1,48 @@
+; CHTDB: ; [ Alone in the Dark - The New Nightmare (USA) (2001) (Infogrames) {SLUS-01201 / SLUS-01377} <aitdnn> ]
+
+[Infinite Health(Both Players)]
+Type = Gameshark
+Activation = EndFrame
+801450D8 0064
+
+[Infinite Ammo-Revolver]
+Type = Gameshark
+Activation = EndFrame
+801452C8 000A
+
+[Infinite Ammo-Grenade Launcher]
+Type = Gameshark
+Activation = EndFrame
+80145300 0005
+
+[Infinite Ammo-Rocket Launcher]
+Type = Gameshark
+Activation = EndFrame
+801452E8 0003
+
+[Enable Cheat Mode]
+Description = Press Triangle to access your inventory to use the Cheat Mode option. If you want to save or load your game at any time, press Select. To view the build information for the game, pause and hold L2
+Type = Gameshark
+Activation = EndFrame
+300C3404 0002
+
+[Select Cheat\God Mode]
+Type = Gameshark
+Activation = EndFrame
+810BA64C 0004
+
+[Select Cheat\Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+810BA64C 0080
+
+[Select Cheat\All Items]
+Type = Gameshark
+Activation = EndFrame
+810BA64C 0020
+
+[Select Cheat\Infinite Medikits]
+Type = Gameshark
+Activation = EndFrame
+810BA64C 0040
+

@@ -1,0 +1,12 @@
+; CHTDB: ; [ California Surfing (Europe) {SLES-03921} ]
+
+[Infinite Session Time]
+Type = Gameshark
+Activation = EndFrame
+80085F5C 021C
+
+[Infinite Wave Time]
+Type = Gameshark
+Activation = EndFrame
+80086770 021C
+

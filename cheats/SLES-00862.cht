@@ -1,0 +1,63 @@
+; CHTDB: ; [ Colony Wars (Germany) {SLES-00862 | SLES-10862} ]
+
+[Unendlich Schilde]
+Type = Gameshark
+Activation = EndFrame
+8004607C 00C8
+
+[Unendlich Raketen 1]
+Type = Gameshark
+Activation = EndFrame
+80119F20 000A
+
+[Unendlich Raketen 2]
+Type = Gameshark
+Activation = EndFrame
+80119F54 000A
+
+[Unendlich Raketen 3]
+Type = Gameshark
+Activation = EndFrame
+80119F88 000A
+
+[Unendlich Raketen 4]
+Type = Gameshark
+Activation = EndFrame
+80119FBC 000A
+
+[Laser ÜBerhitzt Nicht (Oder Emp-GeschüTz) .Der richtige EMP-Geschð´º­Code hå¯§t vom Schiffstyp ab.]
+Type = Gameshark
+Activation = EndFrame
+80119EE0 0000
+
+[A.S.-Laser ÜBerhitzt Nicht (Oder Plasma-Kanone) .Der richtige EMP-Geschð´º­Code hå¯§t vom Schiffstyp ab.]
+Type = Gameshark
+Activation = EndFrame
+80119EAC 0000
+
+[Streu-Laser ÜBerhitzt Nicht (Oder Emp-GeschüTz) .Der richtige EMP-Geschð´º­Code hå¯§t vom Schiffstyp ab.]
+Type = Gameshark
+Activation = EndFrame
+80119F48 0000
+
+[Emp-GeschüTze ÜBerhitzen Nicht .Der richtige EMP-Geschð´º­Code hå¯§t vom Schiffstyp ab.]
+Type = Gameshark
+Activation = EndFrame
+80119F14 0000
+
+[Dauerfeuer Laser & Emp-GeschüTze .Der richtige EMP-Geschð´º­Code hå¯§t vom Schiffstyp ab.]
+Type = Gameshark
+Activation = EndFrame
+80119EE4 0000
+
+[Dauerfeuer As-Laser & Plasma-Kanone .Der richtige EMP-Geschð´º­Code hå¯§t vom Schiffstyp ab.]
+Type = Gameshark
+Activation = EndFrame
+80119EB0 0000
+
+[Dauerfeuer Streulaser & Emp-GeschüTze .Der richtige EMP-Geschð´º­Code hå¯§t vom Schiffstyp ab.]
+Type = Gameshark
+Activation = EndFrame
+80119F18 0000
+80119F4C 0000
+

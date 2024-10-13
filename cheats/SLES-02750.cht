@@ -1,0 +1,22 @@
+; CHTDB: ; [ Jungla de Cristal Trilogia 2: Viva Las Vegas (Spain) {SLES-02750} ]
+
+[Energia Infinita En Las Fases De 3ª Persona]
+Type = Gameshark
+Activation = EndFrame
+8010273C 01F4
+
+[Tiempo Infinito En Fases De Coche]
+Type = Gameshark
+Activation = EndFrame
+800FCB19 647C
+
+[Energia Infinita En Fases De Coche]
+Type = Gameshark
+Activation = EndFrame
+800FAD64 01F4
+
+[Energia Infinita En Las Fases De 1ª Persona]
+Type = Gameshark
+Activation = EndFrame
+800EE384 01F4
+

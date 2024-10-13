@@ -1,0 +1,29 @@
+; CHTDB: ; [ Space Griffon VF-9 (USA) (1995) (Atlus Software) {SLUS-00153} <sgrifvf9> ]
+
+[Increased Amount Of Credits]
+Type = Gameshark
+Activation = EndFrame
+80075898 000F
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801E0058 1F40
+
+[Infinite Body]
+Type = Gameshark
+Activation = EndFrame
+801E005A 1F40
+
+[Infinite Flamethrower]
+Type = Gameshark
+Activation = EndFrame
+801E0032 0190
+801E0036 000C
+
+[Infinite Rocket Launcher]
+Type = Gameshark
+Activation = EndFrame
+801E0032 0190
+801E0036 000C
+

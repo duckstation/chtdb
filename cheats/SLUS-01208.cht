@@ -1,0 +1,28 @@
+; CHTDB: ; [ Sabrina the Teenage Witch - A Twitch in Time! (USA) (2000) (Simon & Schuster Interactive) {SLUS-01208} <sabrina> ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800C8518 0005
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8008B210 0014
+
+[Max Eggs]
+Type = Gameshark
+Activation = EndFrame
+800C857A 0009
+
+[Max Gems]
+Type = Gameshark
+Activation = EndFrame
+800C8556 03E7
+
+[Have All Powers Infinite]
+Type = Gameshark
+Activation = EndFrame
+9007C8B0 05050505
+9007C8B4 05050505
+

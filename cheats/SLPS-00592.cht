@@ -1,0 +1,12 @@
+; CHTDB: ; [ Touge Max: Saisoku Drift Master (Japan) {SLPS-00592 | SLPS-91041} ]
+
+[Time is Always = 0 In Story Mode Heat 0]
+Type = Gameshark
+Activation = EndFrame
+80A01AA3 0000
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+300A2B41 000C
+

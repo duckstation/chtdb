@@ -1,0 +1,127 @@
+; CHTDB: ; [ Bokujou Monogatari: Harvest Moon for Girl (Japan) {SLPS-03087} ]
+
+[Max Cash]
+Type = Gameshark
+Activation = EndFrame
+90072818 0098967F
+
+[Degree of affection Max]
+Type = Gameshark
+Activation = EndFrame
+300750D6 00FF
+
+[Sai]
+Type = Gameshark
+Activation = EndFrame
+300750DA 0063
+
+[Not get sick]
+Type = Gameshark
+Activation = EndFrame
+3007516E 0000
+
+[Won the festival]
+Type = Gameshark
+Activation = EndFrame
+300750F4 0040
+
+[Degree of affection Alt]
+Type = Gameshark
+Activation = EndFrame
+300757B6 00FF
+
+[Sai Alt]
+Type = Gameshark
+Activation = EndFrame
+300757BA 0063
+
+[won the festival Alt]
+Type = Gameshark
+Activation = EndFrame
+300757D4 0040
+
+[Not get sick Alt]
+Type = Gameshark
+Activation = EndFrame
+3007584E 0000
+
+[Degree of friendship]
+Type = Gameshark
+Activation = EndFrame
+3007712A 00FF
+
+[Degree of affection alt 2]
+Type = Gameshark
+Activation = EndFrame
+3007712C 00FF
+
+[Degree of friendship Max]
+Type = Gameshark
+Activation = EndFrame
+3007B37E 00FF
+
+[Harvesting capacity Max]
+Type = Gameshark
+Activation = EndFrame
+3007B416 00FF
+
+[Watering capacity MAx]
+Type = Gameshark
+Activation = EndFrame
+3007B418 00FF
+
+[Care ability Max]
+Type = Gameshark
+Activation = EndFrame
+3007B41A 00FF
+
+[Physical fitness Max]
+Type = Gameshark
+Activation = EndFrame
+300727D0 006E
+
+[No fatigue]
+Type = Gameshark
+Activation = EndFrame
+300727D2 0000
+
+[Number of medals]
+Type = Gameshark
+Activation = EndFrame
+9007281C 0098967F
+
+[The presence of horse]
+Type = Gameshark
+Activation = EndFrame
+80076830 016D
+
+[Local horse race / time]
+Type = Gameshark
+Activation = EndFrame
+900BC588 0001A5DF
+
+[Local horse race / stamina]
+Type = Gameshark
+Activation = EndFrame
+300BE846 00FF
+
+[Weather Rain]
+Type = Gameshark
+Activation = EndFrame
+3007BA1A 0001
+
+[Weather Snow]
+Type = Gameshark
+Activation = EndFrame
+3007BA1A 0002
+
+[Weather typhoon]
+Type = Gameshark
+Activation = EndFrame
+3007BA1A 0003
+
+[Weather heavy snow]
+Type = Gameshark
+Activation = EndFrame
+3007BA1A 0004
+

@@ -1,0 +1,52 @@
+; CHTDB: ; [ Disney La Super-Diver Casa de Goofy (Spain) {SLES-03641} ]
+
+[All Cams]
+Type = Gameshark
+Activation = EndFrame
+801F44C0 0032
+
+[Have 99 Films, all mini-games]
+Type = Gameshark
+Activation = EndFrame
+801F44C0 0505
+
+[Infinite Time - Car Race (Disconnect before enter gym)]
+Type = Gameshark
+Activation = EndFrame
+801EBDF8 0784
+
+[Infinite Time - Slalom Game]
+Type = Gameshark
+Activation = EndFrame
+801F0F4C 0784
+
+[Autowin - Worm Challenge]
+Type = Gameshark
+Activation = EndFrame
+801ECA50 000A
+
+[Only Catch one worm to win - Worm Challenge]
+Type = Gameshark
+Activation = EndFrame
+801ECA50 0009
+
+[Infinite Time - Worm Game Level Hard]
+Type = Gameshark
+Activation = EndFrame
+801EF2CC 1800
+
+[Fish Challenge (only need 1 fish to advance)]
+Type = Gameshark
+Activation = EndFrame
+800A0028 0009
+
+[Infinite Time - Tug-o-war]
+Type = Gameshark
+Activation = EndFrame
+801F2C80 049F
+
+[Infinite Time - Blue Ribbon Race]
+Type = Gameshark
+Activation = EndFrame
+800AE01C 0381
+

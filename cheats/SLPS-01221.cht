@@ -1,0 +1,67 @@
+; CHTDB: ; [ Namco Anthology 2 (Japan) {SLPS-01221} ]
+
+[King Of Kings\Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+90166488 0133FFFF
+
+[Legend Of Valkyrie\Gold 999999]
+Type = Gameshark
+Activation = EndFrame
+80120DCC 423F
+30120DCE 000F
+
+[Legend Of Valkyrie\Life]
+Type = Gameshark
+Activation = EndFrame
+80176C32 01E0
+
+[Legend Of Valkyrie\Life Max]
+Type = Gameshark
+Activation = EndFrame
+80176C34 01E0
+
+[Legend Of Valkyrie\Magic]
+Type = Gameshark
+Activation = EndFrame
+801209F2 01E0
+
+[Legend Of Valkyrie\Magic Max]
+Type = Gameshark
+Activation = EndFrame
+801209C4 01E0
+
+[Legend Of Valkyrie\Invincibility]
+Type = Gameshark
+Activation = EndFrame
+80176C4C 0019
+
+[Legend Of Valkyrie Original\Energy 999]
+Type = Gameshark
+Activation = EndFrame
+801000C0 03E7
+801000C4 03E7
+
+[Legend Of Valkyrie Original\Intellect 999]
+Type = Gameshark
+Activation = EndFrame
+801000C2 03E7
+801000C6 03E7
+
+[Legend Of Valkyrie Original\Enemy HP 0#]
+Type = Gameshark
+Activation = EndFrame
+8010051E 0000
+8010052E 0000
+8010053E 0000
+8010054E 0000
+
+[Legend Of Valkyrie Original\Gold 99999]
+Type = Gameshark
+Activation = EndFrame
+301000D0 0009
+301000D1 0009
+301000D2 0009
+301000D3 0009
+301000D4 0009
+

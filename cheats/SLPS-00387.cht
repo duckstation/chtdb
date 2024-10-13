@@ -1,0 +1,13 @@
+; CHTDB: ; [ ClockWerx (Japan) {SLPS-00387} ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+8006B8AA B180
+8006B8AC 0149
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8006B792 0009
+

@@ -1,0 +1,17 @@
+; CHTDB: ; [ Pink Panther: Pinkadelic Pursuit (Europe) {SLES-03932} ]
+
+[65535 Coins]
+Type = Gameshark
+Activation = EndFrame
+80070B76 FFFF
+
+[99 Keys]
+Type = Gameshark
+Activation = EndFrame
+30070B7B 0063
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+30070B7E 0008
+

@@ -1,0 +1,7 @@
+; CHTDB: ; [ Love Game's: Wai Wai Tennis 2 (Japan) (Value 1500) {SLPS-02983} ]
+
+[Enemy score is always 0]
+Type = Gameshark
+Activation = EndFrame
+8006931E 0000
+

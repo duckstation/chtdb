@@ -1,0 +1,77 @@
+; CHTDB: ; [ Robo Pit (USA) (1996) (Kokopeli Digital Studios) {SLUS-00316} <robopit> ]
+
+[Stop Battle Timer]
+Type = Gameshark
+Activation = EndFrame
+800A8208 2A00
+
+[Stage Select Enabled]
+Type = Gameshark
+Activation = EndFrame
+800A80F8 0001
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800A7E0C 0096
+
+[P1 No Energy]
+Type = Gameshark
+Activation = EndFrame
+800A7E0C 0000
+
+[P1 1 Hit Death]
+Type = Gameshark
+Activation = EndFrame
+A60A7E0C 00960001
+
+[P1 Infinite Special Moves]
+Type = Gameshark
+Activation = EndFrame
+800A83AC 0020
+
+[P1 No Specials]
+Type = Gameshark
+Activation = EndFrame
+800A83AC 0000
+
+[P2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800A7E0E 0096
+
+[P2 No Energy]
+Type = Gameshark
+Activation = EndFrame
+800A7E0E 0000
+
+[P2 1 Hit Death]
+Type = Gameshark
+Activation = EndFrame
+A60A7E0E 00960001
+
+[P2 Infinite Special Moves]
+Type = Gameshark
+Activation = EndFrame
+800A83B0 0020
+
+[P2 No Specials]
+Type = Gameshark
+Activation = EndFrame
+800A83B0 0000
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A7156450 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A7156450 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A7156450 10000400
+

@@ -1,0 +1,8 @@
+; CHTDB: ; [ TechnoMage: En Quête de L'Eternité (France) {SLES-03242} ]
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+8009F21C 1333
+3009F22D 000C
+

@@ -1,0 +1,42 @@
+; CHTDB: ; [ Psychic Force (USA) (1997) (Acclaim Entertainment) {SLUS-00419} <psyforce> ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800D68C8 0063
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80101E54 03E8
+
+[Infinite Auto Guards P1 (When You Select Auto Guard)]
+Type = Gameshark
+Activation = EndFrame
+80101F24 000A
+
+[P2 1-Hit Death]
+Type = Gameshark
+Activation = EndFrame
+A6101F98 03E80001
+
+[P1 Needs 1 Win to Win]
+Type = Gameshark
+Activation = EndFrame
+A6101E6E 00010101
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A71CE644 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A71CE644 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A71CE644 10000400
+

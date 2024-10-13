@@ -1,0 +1,54 @@
+; CHTDB: ; [ Bushido Blade (USA) (1997) (Sony Computer Entertainment America) {SCUS-94180} <bblade> ]
+
+[Instantly Win Fights]
+Type = Gameshark
+Activation = EndFrame
+8013D524 0013
+
+[P1 Never Dies]
+Type = Gameshark
+Activation = EndFrame
+9004D534 0C000078
+9004D538 0131102A
+900001E0 14400002
+800001E6 2400
+900001E8 080135B7
+800001EE 2400
+900001F0 03E00008
+900001F4 8622006E
+
+[Enable Katze]
+Type = Gameshark
+Activation = EndFrame
+800A1004 0001
+
+[Enable All Movies]
+Type = Gameshark
+Activation = EndFrame
+800A10D8 FFFF
+
+[Level 10]
+Type = Gameshark
+Activation = EndFrame
+800A11F4 0009
+
+[98 Kills]
+Type = Gameshark
+Activation = EndFrame
+800A10B0 0008
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A713C87C 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A713C87C 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A713C87C 10000400
+

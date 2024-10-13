@@ -1,0 +1,104 @@
+; CHTDB: ; [ Jeremy McGrath Supercross 2000 (Europe) {SLES-01981} ]
+
+[Set Timer Back .Press L2 & R2]
+Type = Gameshark
+Activation = EndFrame
+D009A176 FCFF
+8009444C 0000
+
+[P1 Always 1st]
+Type = Gameshark
+Activation = EndFrame
+800928BC 0000
+
+[P1 Max Points]
+Type = Gameshark
+Activation = EndFrame
+80093D68 03E7
+
+[P2 Max Points]
+Type = Gameshark
+Activation = EndFrame
+80093D6C 03E7
+
+[Cpu-Bikers Can't Score]
+Type = Gameshark
+Activation = EndFrame
+50000504 0000
+80093D6C 0000
+
+[Start On Last Lap]
+Type = Gameshark
+Activation = EndFrame
+D0093FE0 0003
+300928C4 0003
+D0093FE0 0004
+300928C4 0004
+
+[Only One Lap To Go]
+Type = Gameshark
+Activation = EndFrame
+80093FE0 0000
+
+[Crazy Cpu-Bikers Press L1 & R1]
+Type = Gameshark
+Activation = EndFrame
+D009A176 F3FF
+300B5BB4 0008
+D009A176 F3FF
+300B5F10 0008
+D009A176 F3FF
+300B626C 0008
+D009A176 F3FF
+300B65C8 0008
+D009A176 F3FF
+300B6924 0008
+
+[Unlock All Series]
+Type = Gameshark
+Activation = EndFrame
+30094420 0005
+
+[Unlock Table Top]
+Type = Gameshark
+Activation = EndFrame
+800943F4 0001
+
+[Unlock Chasm]
+Type = Gameshark
+Activation = EndFrame
+800943F8 0001
+
+[Unlock Jim Jam]
+Type = Gameshark
+Activation = EndFrame
+800943FC 0001
+
+[Unlock Moon]
+Type = Gameshark
+Activation = EndFrame
+80094400 0001
+
+[Unlock All Stunt Tracks]
+Type = Gameshark
+Activation = EndFrame
+50000404 0000
+800943F4 0001
+
+[Max Stunt Points]
+Type = Gameshark
+Activation = EndFrame
+300942BE 0073
+
+[Start On Last Race Of Series\Normal]
+Type = Gameshark
+Activation = EndFrame
+D0093B60 0000
+30093B60 0007
+
+[Start On Last Race Of Series\Combined]
+Type = Gameshark
+Activation = EndFrame
+D0093B60 0000
+30093B60 000F
+

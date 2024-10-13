@@ -1,0 +1,62 @@
+; CHTDB: ; [ All-Star Baseball 97 featuring Frank Thomas (USA) (1997) (Acclaim Entertainment) {SLUS-00392} <asbase97> ]
+
+[Infinite Balls]
+Type = Gameshark
+Activation = EndFrame
+80044084 0000
+
+[Select No. of Balls to Walk\1]
+Type = Gameshark
+Activation = EndFrame
+A604353E 00000002
+
+[Select No. of Balls to Walk\2]
+Type = Gameshark
+Activation = EndFrame
+A604353E 00000001
+
+[Select No. of Balls to Walk\3]
+Type = Gameshark
+Activation = EndFrame
+A6044084 00000001
+
+[Infinite Strikes]
+Type = Gameshark
+Activation = EndFrame
+8004353E 0000
+
+[Infinite Outs]
+Type = Gameshark
+Activation = EndFrame
+80043BA6 0000
+
+[Select No. of Outs and you are Out\1]
+Type = Gameshark
+Activation = EndFrame
+A6043BA6 00000002
+
+[Select No. of Outs and you are Out\2]
+Type = Gameshark
+Activation = EndFrame
+A6043BA6 00000001
+
+[Select Away Team Score\99]
+Type = Gameshark
+Activation = EndFrame
+30043969 0063
+
+[Select Away Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+30043969 0000
+
+[Select Home Team Score\99]
+Type = Gameshark
+Activation = EndFrame
+30043698 0063
+
+[Select Home Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+30043698 0000
+

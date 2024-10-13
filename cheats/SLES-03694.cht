@@ -1,0 +1,12 @@
+; CHTDB: ; [ Barbie: Explorer (Germany) {SLES-03694} ]
+
+[Leben gehen nie aus]
+Type = Gameshark
+Activation = EndFrame
+3008FC32 000F
+
+[Beginne jeden Abschnitt mit vielen Edelsteinen]
+Type = Gameshark
+Activation = EndFrame
+3008EDE8 0064
+

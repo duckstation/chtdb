@@ -1,0 +1,52 @@
+; CHTDB: ; [ Philosoma (USA) (1996) (Sony Computer Entertainment America) {SCUS-94403} <philosom> ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800E7CA4 0002
+
+[Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+800E7D28 0003
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800ED7C6 0003
+
+[Infinite Buster Grenades]
+Type = Gameshark
+Activation = EndFrame
+800E7F5C 0003
+
+[Max Vulcan]
+Type = Gameshark
+Activation = EndFrame
+800E7D0C 0002
+
+[Max Laser]
+Type = Gameshark
+Activation = EndFrame
+800E7D0E 0002
+
+[Max A-Break]
+Type = Gameshark
+Activation = EndFrame
+800E7D10 0002
+
+[Max Rav-B]
+Type = Gameshark
+Activation = EndFrame
+800E7D12 0002
+
+[Select Infinite Missiles\Srm Missiles]
+Type = Gameshark
+Activation = EndFrame
+800E8004 0002
+
+[Select Infinite Missiles\Mrm Missiles]
+Type = Gameshark
+Activation = EndFrame
+800E8004 0001
+

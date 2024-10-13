@@ -1,0 +1,72 @@
+; CHTDB: ; [ Strikers 1945 II (Japan) {SLPS-01637} ]
+
+[P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8009959C 0005
+
+[P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80099638 0005
+
+[P1 Infinite Bombs]
+Type = Gameshark
+Activation = EndFrame
+8009959E 0002
+
+[P2 Infinite Bombs]
+Type = Gameshark
+Activation = EndFrame
+8009963A 0002
+
+[P1 Super Attack Lv Max]
+Type = Gameshark
+Activation = EndFrame
+300995F3 0070
+
+[P2 Super Attack Lv Max]
+Type = Gameshark
+Activation = EndFrame
+3009968F 0070
+
+[P1 Shot Power Max]
+Type = Gameshark
+Activation = EndFrame
+300995C2 0004
+
+[P2 Shot Power Max]
+Type = Gameshark
+Activation = EndFrame
+3009965E 0004
+
+[P1 Sub-Fighter Max]
+Type = Gameshark
+Activation = EndFrame
+300995C1 0004
+
+[P2 Sub-Fighter Max]
+Type = Gameshark
+Activation = EndFrame
+3009965D 0004
+
+[Max Number Of Lifes When Finished R2 to enable the codes L2 to disable the codes]
+Type = Gameshark
+Activation = EndFrame
+D009B6C0 0002
+8002CCA0 0000
+D009B6C0 0001
+8002CCA0 FFFF
+
+[Invincibility R2 to enable the codes L2 to disable the codes]
+Type = Gameshark
+Activation = EndFrame
+D009B6C0 0002
+8002BE96 2403
+D009B6C0 0001
+8002BE96 9643
+D009B6C0 0002
+800995D6 007F
+D009B6C0 0002
+80099672 007F
+

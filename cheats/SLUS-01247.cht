@@ -1,0 +1,23 @@
+; CHTDB: ; [ World Destruction League - WarJetz (USA) (2001) (The 3DO Company) {SLUS-01247} <wdlwj> ]
+
+[All Cheats On]
+Type = Gameshark
+Activation = EndFrame
+50001002 0000
+800CCFD4 0505
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800F72CC 0074
+
+[Level Select]
+Type = Gameshark
+Activation = EndFrame
+300C2B6C 0005
+
+[Max Bux]
+Type = Gameshark
+Activation = EndFrame
+800FBAC0 270F
+

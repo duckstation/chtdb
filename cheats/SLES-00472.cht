@@ -1,0 +1,7 @@
+; CHTDB: ; [ Riot (Europe) {SLES-00472} ]
+
+[Enemy always score 0]
+Type = Gameshark
+Activation = EndFrame
+800BD724 0000
+

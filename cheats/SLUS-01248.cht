@@ -1,0 +1,81 @@
+; CHTDB: ; [ Action Bass (USA) (2000) (Take-Two Interactive Software) {SLUS-01248} <actbass> ]
+
+[Stop/Start Timer (Press Select+R1/Select+R2]
+Type = Gameshark
+Activation = EndFrame
+D00677E0 0108
+80093AF2 2400
+D00677E0 0102
+80093AF2 AC43
+
+[Press Select+L2 To Have A Fish On The Hook]
+Type = Gameshark
+Activation = EndFrame
+C00677E0 0101
+800C9198 0003
+900C9D00 80159D14
+00000000 FFFF
+
+[Open All Areas And The Extra Option]
+Type = Gameshark
+Activation = EndFrame
+3006F463 0001
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800CFDE0 2955
+
+[Lure Action Always At Lowest]
+Type = Gameshark
+Activation = EndFrame
+800C9190 0000
+
+[Line Tension Always At Lowest]
+Type = Gameshark
+Activation = EndFrame
+800C9200 0000
+
+[Max Weight Total]
+Type = Gameshark
+Activation = EndFrame
+900CFDF8 0FFFFFFF
+
+[Debug Menu (press Select)]
+Type = Gameshark
+Activation = EndFrame
+C009564C 0100
+80088130 0100
+30088144 0000
+00000000 FFFF
+
+[Enable Aquarium]
+Type = Gameshark
+Activation = EndFrame
+3006F454 0001
+
+[Unlock Buzz Bait Lure]
+Type = Gameshark
+Activation = EndFrame
+3006F45F 0001
+
+[Unlock Crank Bait Lure]
+Type = Gameshark
+Activation = EndFrame
+3006F45E 0001
+
+[Unlock Lucky Usachan Lure]
+Type = Gameshark
+Activation = EndFrame
+3006F462 0001
+
+[Unlock Noisy Lure]
+Type = Gameshark
+Activation = EndFrame
+3006F461 0001
+
+[Unlock Rubber Jig Lure]
+Type = Gameshark
+Activation = EndFrame
+3006F460 0001
+

@@ -1,0 +1,46 @@
+; CHTDB: ; [ Disney's 102 Dalmatians: Puppies to the Rescue (Europe) {SLES-03191} ]
+
+[Infinite Energy level 1]
+Type = Gameshark
+Activation = EndFrame
+8007DD8E 0004
+8012E89C 0004
+
+[Infinite Energy level 2]
+Type = Gameshark
+Activation = EndFrame
+80148A4C 0004
+
+[Infinite Energy level 3]
+Type = Gameshark
+Activation = EndFrame
+80140AFC 0004
+
+[Infinite Energy level 4]
+Type = Gameshark
+Activation = EndFrame
+80143398 0004
+
+[Infinite Energy level 5]
+Type = Gameshark
+Activation = EndFrame
+800EC74C 0004
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8007DD6C 0003
+8007DD90 0003
+8012E99A 0003
+
+[Have All Puppies Found]
+Type = Gameshark
+Activation = EndFrame
+8007F41C 0006
+800E2D78 0006
+
+[Unlock All Levels & Mini-Games Start the last level and save in memory card]
+Type = Gameshark
+Activation = EndFrame
+8007F420 001F
+

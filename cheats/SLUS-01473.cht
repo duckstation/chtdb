@@ -1,0 +1,27 @@
+; CHTDB: ; [ Tom Clancy's Rainbow Six - Lone Wolf (USA) (2002) (Ubi Soft Entertainment Software) {SLUS-01473} <rainb6lw> ]
+
+[Invincibility (Against Bullets)]
+Type = Gameshark
+Activation = EndFrame
+A70C11C6 10401000
+
+[Invincibility (Against Touch)]
+Type = Gameshark
+Activation = EndFrame
+A70C0E9A 10401000
+
+[Invincibility (Against Laser)]
+Type = Gameshark
+Activation = EndFrame
+A70C6196 10401000
+
+[One Hit Kills]
+Type = Gameshark
+Activation = EndFrame
+A70C0406 14401400
+
+[Open Doors with No Delay]
+Type = Gameshark
+Activation = EndFrame
+A7043212 1C401400
+

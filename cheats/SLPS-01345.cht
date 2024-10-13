@@ -1,0 +1,12 @@
+; CHTDB: ; [ Pikinya! Excellent (Jpn) (1998) (ASCII) {SLPS-01345} <pikinex> ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80096729 270F
+
+[Have 999 Laps]
+Type = Gameshark
+Activation = EndFrame
+8009670C 03E7
+

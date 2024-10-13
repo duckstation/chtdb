@@ -1,0 +1,32 @@
+; CHTDB: ; [ NHL 2000 (Germany) {SLES-02227} ]
+
+[Anzahl Tore Linke Mannschaft 9]
+Type = Gameshark
+Activation = EndFrame
+80047E62 0009
+
+[Anzahl Tore Linke Mannschaft 0]
+Type = Gameshark
+Activation = EndFrame
+80047E62 0000
+
+[Anzahl Tore Rechte Mannschaft 9]
+Type = Gameshark
+Activation = EndFrame
+80047E06 0009
+
+[Anzahl Tore Rechte Mannschaft 0]
+Type = Gameshark
+Activation = EndFrame
+80047E06 0000
+
+[Riesenspieler (Lustig!)]
+Type = Gameshark
+Activation = EndFrame
+80047E00 0005
+
+[Unendlich Creation-Punkte]
+Type = Gameshark
+Activation = EndFrame
+8009535A 3C00
+

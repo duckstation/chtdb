@@ -1,0 +1,65 @@
+; CHTDB: ; [ Einhänder (Japan) {SLPS-01008} ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8008109C 0003
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800853F0 001D
+
+[Infinite Special Weapon Ammo]
+Type = Gameshark
+Activation = EndFrame
+8008450A 000F
+8008450C 000F
+
+[Infinite Top Pod Ammo 2]
+Type = Gameshark
+Activation = EndFrame
+8008465A 000F
+
+[Have Unknown Fighter Type I]
+Type = Gameshark
+Activation = EndFrame
+D0083B04 0010
+8008110C 0003
+
+[Have Unknown Fighter Type II]
+Type = Gameshark
+Activation = EndFrame
+D0083B04 0010
+8008110C 0004
+
+[Enable Level Select With All Levels Availible]
+Type = Gameshark
+Activation = EndFrame
+800AC5CE 0001
+80085638 FFFF
+
+[Invincibility Alternate]
+Type = Gameshark
+Activation = EndFrame
+800853A4 0000
+800AAAE4 0000
+800AAAE5 0000
+
+[All aircraft available]
+Type = Gameshark
+Activation = EndFrame
+801FD524 1183
+
+[All weapons can be selected at the start]
+Type = Gameshark
+Activation = EndFrame
+801FD526 0FFF
+
+[GALLERY fully open]
+Type = Gameshark
+Activation = EndFrame
+800ABDF0 0001
+801FEC98 007F
+901FEC9C 001F0FFF
+

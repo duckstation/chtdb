@@ -1,0 +1,58 @@
+; CHTDB: ; [ Road Rash: Jailbreak (Europe) {SLES-02552} ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800D5846 5A5A
+
+[Infinite Bike Damage]
+Type = Gameshark
+Activation = EndFrame
+800D585C 4040
+
+[Finish 1st]
+Type = Gameshark
+Activation = EndFrame
+300D585F 0001
+
+[Use Super-Weapon Press L1+L2]
+Type = Gameshark
+Activation = EndFrame
+E00D6EC4 0005
+800D5866 FFFF
+
+[Have All Weapons]
+Type = Gameshark
+Activation = EndFrame
+900D82C4 FFFFFFFF
+
+[Infinite Nitro]
+Type = Gameshark
+Activation = EndFrame
+300D82CC 000A
+
+[Max Steals]
+Type = Gameshark
+Activation = EndFrame
+300D82D0 00FF
+
+[Max Tko]
+Type = Gameshark
+Activation = EndFrame
+300D82D1 00FF
+
+[Max Hits]
+Type = Gameshark
+Activation = EndFrame
+300D82D2 00FF
+
+[Only 1 Race To Complete In Grunt Stage]
+Type = Gameshark
+Activation = EndFrame
+A60D82A8 000003F6
+
+[Only 1 Race To Complete In Captain Stage]
+Type = Gameshark
+Activation = EndFrame
+A60D82AA 000037FF
+

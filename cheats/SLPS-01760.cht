@@ -1,0 +1,22 @@
+; CHTDB: ; [ Janhai Yuugi '99: Tanuki no Kawazanyou (Japan) {SLPS-01760} ]
+
+[Player has always 99999 points]
+Type = Gameshark
+Activation = EndFrame
+901CEB28 0001869F
+
+[Opponent 1 has 0 points]
+Type = Gameshark
+Activation = EndFrame
+801CEB30 0000
+
+[Opponent 2 has 0 points]
+Type = Gameshark
+Activation = EndFrame
+801CEB2C 0000
+
+[Opponent 3 has 0 points]
+Type = Gameshark
+Activation = EndFrame
+801CEB34 0000
+

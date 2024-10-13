@@ -1,0 +1,59 @@
+; CHTDB: ; [ Roadsters (USA) (2000) (Titus Software Corporation) {SLUS-01024} <roadstrs> ]
+
+[Computer Racers Can't Drive]
+Type = Gameshark
+Activation = EndFrame
+80160AE0 0064
+80160B94 006C
+80160C48 00A7
+80160CFC 002C
+80160DB8 00A0
+80160E64 0057
+80160F18 01F2
+
+[Quick Win]
+Type = Gameshark
+Activation = EndFrame
+E015FF80 0000
+3015FF80 0006
+
+[Stop Time]
+Type = Gameshark
+Activation = EndFrame
+8004655A 2400
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+900101E0 0FFFFFFF
+
+[Max Points - 1st Division-Angelica]
+Type = Gameshark
+Activation = EndFrame
+800101F2 00FF
+
+[Have 1st Division Trophy]
+Type = Gameshark
+Activation = EndFrame
+30010202 0001
+
+[Have 2nd Division Trophy]
+Type = Gameshark
+Activation = EndFrame
+3001020A 0001
+
+[Have 3rd Division Trophy]
+Type = Gameshark
+Activation = EndFrame
+3001020C 0001
+
+[Enable Catagory A Race]
+Type = Gameshark
+Activation = EndFrame
+30010204 0001
+
+[Enable Catagory B Race]
+Type = Gameshark
+Activation = EndFrame
+30010206 0001
+

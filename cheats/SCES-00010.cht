@@ -1,0 +1,49 @@
+; CHTDB: ; [ WipEout (Europe) {SCES-00010} ]
+
+[Only one lap to race & always first (Press L1 & L2)]
+Type = Gameshark
+Activation = EndFrame
+D007F43E FAFF
+30036734 0003
+D007F43E FAFF
+3003671C 0003
+
+[Instant win (Press R1 & R2)]
+Type = Gameshark
+Activation = EndFrame
+D007F43E F5FF
+30036734 0004
+D007F43E F5FF
+3003671C 0004
+
+[Rapier-Mode On]
+Type = Gameshark
+Activation = EndFrame
+A61F7018 00000001
+
+[Rapier-Level On This code enables you to play the extra levels in rapier mode]
+Type = Gameshark
+Activation = EndFrame
+D01F7018 0001
+801F7042 0101
+
+[Infinite Retries (Only for One Player Weapon ClassChampionship# AB SystemsJohn Dekka)]
+Type = Gameshark
+Activation = EndFrame
+A61F7014 08020803
+
+[Infinite Turbo Level 1 (Only for One Player Weapon ClassChampionship# AB SystemsJohn Dekka)]
+Type = Gameshark
+Activation = EndFrame
+A613CB42 FF00FF09
+
+[Infinite Turbo Level 2 (Only for One Player Weapon ClassChampionship# AB SystemsJohn Dekka)]
+Type = Gameshark
+Activation = EndFrame
+A6124096 FF00FF09
+
+[Infinite Turbo Level 3 (Only for One Player Weapon ClassChampionship# AB SystemsJohn Dekka)]
+Type = Gameshark
+Activation = EndFrame
+A611ED3A FF00FF09
+

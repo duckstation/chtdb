@@ -1,0 +1,63 @@
+; CHTDB: ; [ Trick'n Snowboarder (USA) (1999) (Capcom Entertainment) {SLUS-00979} <tricksnw> ]
+
+[Max Points]
+Type = Gameshark
+Activation = EndFrame
+800C135C FFFF
+
+[Time is 0.00.00]
+Type = Gameshark
+Activation = EndFrame
+800AAEB8 0000
+
+[Unlock All Characters]
+Type = Gameshark
+Activation = EndFrame
+50000502 0000
+800E3F8C 0101
+
+[Unlock Daichi]
+Type = Gameshark
+Activation = EndFrame
+300E3F8C 0001
+
+[Unlock Ashley]
+Type = Gameshark
+Activation = EndFrame
+300E3F8D 0001
+
+[Unlock Jack]
+Type = Gameshark
+Activation = EndFrame
+300E3F8E 0001
+
+[Unlock Lila]
+Type = Gameshark
+Activation = EndFrame
+300E3F8F 0001
+
+[Unlock Majagh]
+Type = Gameshark
+Activation = EndFrame
+300E3F90 0001
+
+[Unlock Gale]
+Type = Gameshark
+Activation = EndFrame
+300E3F91 0001
+
+[Unlock Leon]
+Type = Gameshark
+Activation = EndFrame
+300E3F92 0001
+
+[Unlock Claire]
+Type = Gameshark
+Activation = EndFrame
+300E3F93 0001
+
+[Unlock Zombie]
+Type = Gameshark
+Activation = EndFrame
+300E3F94 0001
+

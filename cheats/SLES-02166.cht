@@ -1,0 +1,93 @@
+; CHTDB: ; [ Fear Effect (Europe) {SLES-02166 | SLES-12166 | SLES-22166 | SLES-32166} ]
+
+[Infinite Health (No Fear)]
+Type = Gameshark
+Activation = EndFrame
+801D8577 7F00
+801D8578 007F
+
+[Time is 0.00.00]
+Type = Gameshark
+Activation = EndFrame
+80077958 0000
+
+[Hana-Codes\Have 2 Pistols And Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+9008E050 63630002
+
+[Hana-Codes\Have Machine Pistol + Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+9008E054 63630002
+
+[Hana-Codes\Have Assault Rifle + Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+9008E05C 00630001
+
+[Hana-Codes\Have Shotgun + Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+9008E064 00630001
+
+[Hana-Codes\Have Hk v Assault Rifle + Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+9008E068 00630001
+
+[Royce-Codes\Have 2 Pistols And Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+9008E0D4 63630002
+
+[Royce-Codes\Have Machine Pistol + Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+9008E0D8 63630002
+
+[Royce-Codes\Have Shot Pistol + Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+9008E0DC 63630002
+
+[Royce-Codes\Have Assault Rifle + Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+9008E0E0 00630001
+
+[Royce-Codes\Have Shotgun + Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+9008E0E8 00630001
+
+[Royce-Codes\Have Hk v Assault Rifle + Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+9008E0EC 00630001
+
+[Deke-Codes\Have 2 Pistols And Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+9008E158 63630002
+
+[Deke-Codes\Have Shot Pistol + Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+9008E160 63630002
+
+[Deke-Codes\Have Assault Rifle + Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+9008E164 00630001
+
+[Deke-Codes\Have Shotgun + Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+9008E16C 00630001
+
+[Deke-Codes\Have Hk v Assault Rifle + Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+9008E170 00630001
+

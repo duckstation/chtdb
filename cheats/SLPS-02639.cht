@@ -1,0 +1,7 @@
+; CHTDB: ; [ World Never Island (Japan) {SLPS-02639} ]
+
+[Max Money 60000]
+Type = Gameshark
+Activation = EndFrame
+801ADBC8 EA60
+

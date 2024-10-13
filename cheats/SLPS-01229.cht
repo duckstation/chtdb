@@ -1,0 +1,67 @@
+; CHTDB: ; [ Debut 21 (Japan) {SLPS-01229} ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801640CE 0063
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+901602F8 05F5E0FF
+
+[Singer]
+Type = Gameshark
+Activation = EndFrame
+801640A6 0032
+
+[Dancer]
+Type = Gameshark
+Activation = EndFrame
+801640A8 0032
+
+[Actor]
+Type = Gameshark
+Activation = EndFrame
+801640AA 0032
+
+[Teller]
+Type = Gameshark
+Activation = EndFrame
+801640AC 0032
+
+[Model]
+Type = Gameshark
+Activation = EndFrame
+801640AE 0032
+
+[Song]
+Type = Gameshark
+Activation = EndFrame
+801640BA 0056
+
+[Dance]
+Type = Gameshark
+Activation = EndFrame
+801640BC 0056
+
+[Act]
+Type = Gameshark
+Activation = EndFrame
+801640BE 0056
+
+[Talk]
+Type = Gameshark
+Activation = EndFrame
+801640BE 0056
+
+[Charm]
+Type = Gameshark
+Activation = EndFrame
+801640C0 0056
+
+[Wisdom]
+Type = Gameshark
+Activation = EndFrame
+801640C4 0056
+

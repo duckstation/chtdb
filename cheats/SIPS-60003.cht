@@ -1,0 +1,53 @@
+; CHTDB: ; [ WipEout (Japan) {SIPS-60003} ]
+
+[Pickup Over Pickup]
+Type = Gameshark
+Activation = EndFrame
+8002D614 0000
+
+[Repeat Use Item]
+Type = Gameshark
+Activation = EndFrame
+80028E68 0000
+
+[Repeat Use Red Missile]
+Type = Gameshark
+Activation = EndFrame
+80028E1C 0000
+
+[Repeat Use Mine]
+Type = Gameshark
+Activation = EndFrame
+80028ED0 0000
+
+[Repeat Use Turbo]
+Type = Gameshark
+Activation = EndFrame
+8002908C 0000
+
+[Repeat Use Shield]
+Type = Gameshark
+Activation = EndFrame
+80028FB0 0000
+
+[Rapier mode]
+Type = Gameshark
+Activation = EndFrame
+A61F701A 00010101
+
+[Rapier level]
+Type = Gameshark
+Activation = EndFrame
+D01F701A 0101
+801F7046 0101
+
+[Race start infinite]
+Type = Gameshark
+Activation = EndFrame
+A61F7014 08020803
+
+[Infinite Turbo]
+Type = Gameshark
+Activation = EndFrame
+8002908C 0000
+

@@ -1,0 +1,13 @@
+; CHTDB: ; [ The Game of Life (USA) (1998) (Hasbro Interactive) {SLUS-00769} <gol> ]
+
+[Press R1 For Tons O' Cash]
+Type = Gameshark
+Activation = EndFrame
+D00B0088 0008
+800A156A 0FFF
+
+[Have $268,379,000]
+Type = Gameshark
+Activation = EndFrame
+800A156A 0FFF
+

@@ -1,0 +1,27 @@
+; CHTDB: ; [ Aquarian Age - Tokyo Wars (Jpn) (2000) (ESP Software) {SLPS-02731} <aquarian> ]
+
+[Infinite HP 1st character]
+Type = Gameshark
+Activation = EndFrame
+800FEA76 03E7
+
+[Infinite HP 2nd character]
+Type = Gameshark
+Activation = EndFrame
+800FEABE 03E7
+
+[Infinite HP 3rd character]
+Type = Gameshark
+Activation = EndFrame
+800FEB06 03E7
+
+[Infinite HP 4th character]
+Type = Gameshark
+Activation = EndFrame
+800FEB4E 03E7
+
+[Blow down deathblow]
+Type = Gameshark
+Activation = EndFrame
+900B6C98 00001021
+

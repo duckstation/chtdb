@@ -1,0 +1,17 @@
+; CHTDB: ; [ Speed King (Jpn) (1996) (Konami) {SLPM-86013 (VX025-J1)} <speedkng> ]
+
+[Always Place First]
+Type = Gameshark
+Activation = EndFrame
+800CF698 0001
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800CF6EC 0063
+
+[Max Speed]
+Type = Gameshark
+Activation = EndFrame
+800CD4A6 00EF
+

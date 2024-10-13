@@ -1,0 +1,7 @@
+; CHTDB: ; [ Dragonbeat: Legend of Pinball (Japan) {SLPS-01067} ]
+
+[Infinite Balls]
+Type = Gameshark
+Activation = EndFrame
+8009CBDC 0009
+

@@ -1,0 +1,13 @@
+; CHTDB: ; [ Disney/Pixar Toy Story Racer aka Disney/Pixar's Toy Story Racer (Europe) {SLES-03397} ]
+
+[Alle Charakter freigeschaltet]
+Type = Gameshark
+Activation = EndFrame
+50000C08 0000
+300D82EC 0001
+
+[Habe 200 Soldaten / alle Level freigeschaltet]
+Type = Gameshark
+Activation = EndFrame
+800D0834 000C
+

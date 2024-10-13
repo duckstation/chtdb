@@ -1,0 +1,130 @@
+; CHTDB: ; [ X-Men - Mutant Academy (USA) (2000) (Activision) {SLUS-00774} <xmenma> ]
+
+[P2 Never Lose]
+Type = Gameshark
+Activation = EndFrame
+A60A1F28 00010000
+
+[P2 One Match Win]
+Type = Gameshark
+Activation = EndFrame
+A60A24FC 00000001
+
+[P2 Ultrafast Win]
+Type = Gameshark
+Activation = EndFrame
+A60A24FC 00000002
+
+[Stop Timer]
+Type = Gameshark
+Activation = EndFrame
+8009EB44 0062
+
+[Hit Select for 00 Time]
+Type = Gameshark
+Activation = EndFrame
+D00D86C2 FFFE
+8009EB44 0000
+
+[Sudden Death Mode]
+Type = Gameshark
+Activation = EndFrame
+D009EB44 0019
+800A1E5C 0001
+D009EB44 0019
+800A2432 0001
+
+[P1 Infinite Counters]
+Type = Gameshark
+Activation = EndFrame
+800A1F40 0000
+
+[P1 No Counters]
+Type = Gameshark
+Activation = EndFrame
+800A1F40 0003
+
+[P1 Max Super Meters]
+Type = Gameshark
+Activation = EndFrame
+900A1F38 1E001400
+800A1F3C 2800
+
+[P1 No Super Meters]
+Type = Gameshark
+Activation = EndFrame
+900A1F38 00000000
+800A1F3C 0000
+
+[P2 Max Super Meters]
+Type = Gameshark
+Activation = EndFrame
+900A250C 1E001400
+800A2510 2800
+
+[P2 No Super Meters]
+Type = Gameshark
+Activation = EndFrame
+900A250C 00000000
+800A2510 0000
+
+[Unlock Toad]
+Type = Gameshark
+Activation = EndFrame
+800BE56C FFFF
+
+[Unlock Mystique]
+Type = Gameshark
+Activation = EndFrame
+800BE56E FFFF
+
+[Unlock Sabretooth]
+Type = Gameshark
+Activation = EndFrame
+800BE570 FFFF
+
+[Unlock Magneto]
+Type = Gameshark
+Activation = EndFrame
+800BE572 FFFF
+
+[P1 Ultrafast Win]
+Type = Gameshark
+Activation = EndFrame
+A60A1F28 00000002
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800A1E5C B400
+
+[P1 Low Health]
+Type = Gameshark
+Activation = EndFrame
+800A1E5C 000A
+
+[P2 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800A2432 B400
+
+[P2 Low Health]
+Type = Gameshark
+Activation = EndFrame
+800A2432 000A
+
+[P1 Never Lose]
+Type = Gameshark
+Activation = EndFrame
+A60A24FC 00010000
+
+[P1 One Match Win]
+Type = Gameshark
+Activation = EndFrame
+A60A1F28 00000001
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+A7096A00 19991333
+

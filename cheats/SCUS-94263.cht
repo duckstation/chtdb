@@ -1,0 +1,54 @@
+; CHTDB: ; [ Bust A Groove (USA) (1998) (989 Studios) {SCUS-94263} <bag> ]
+
+[P1 Max Dance Points]
+Type = Gameshark
+Activation = EndFrame
+80068740 FFFF
+
+[P1 Infinite Attacks]
+Type = Gameshark
+Activation = EndFrame
+80068766 0002
+
+[P1 Max Enthusiasm]
+Type = Gameshark
+Activation = EndFrame
+80068738 FFFF
+
+[Enable Capoeira]
+Type = Gameshark
+Activation = EndFrame
+30051AC0 0001
+
+[Enable Robo-Z]
+Type = Gameshark
+Activation = EndFrame
+30051AC1 0001
+
+[Enable Burger Dog]
+Type = Gameshark
+Activation = EndFrame
+30051AC3 0001
+
+[Enable Columbo]
+Type = Gameshark
+Activation = EndFrame
+30051AC2 0001
+
+[Press Select To End Game]
+Description = With this cheat, when you start your match press select. DO NOT do it before then or the game might lock up. After you win your match it will show you your ending
+Type = Gameshark
+Activation = EndFrame
+D0068790 0100
+8006870A 0C01
+
+[Start On Stage 12]
+Type = Gameshark
+Activation = EndFrame
+8006870A 0B01
+
+[Play Against Whomever You Wish For All 12 Stages]
+Type = Gameshark
+Activation = EndFrame
+8006871C 0004
+

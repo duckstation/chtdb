@@ -1,0 +1,22 @@
+; CHTDB: ; [ Peter Jacobsen's Golden Tee Golf (USA) (2000) (Infogrames) {SLUS-01130} <goldntee> ]
+
+[P1 Only One Shot Recorded]
+Type = Gameshark
+Activation = EndFrame
+3008A05E 0000
+
+[P2 Only One Shot Recorded]
+Type = Gameshark
+Activation = EndFrame
+3008A0C6 0000
+
+[P3 Only One Shot Recorded]
+Type = Gameshark
+Activation = EndFrame
+3008A12E 0000
+
+[P4 Only One Shot Recorded]
+Type = Gameshark
+Activation = EndFrame
+3008A196 0000
+

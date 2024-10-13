@@ -1,0 +1,29 @@
+; CHTDB: ; [ Chocobo's Dungeon 2 (USA) (1999) (Square Electronic Arts) {SLUS-00814} <chocodn2> ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+80103FA8 270F
+
+[Infinite HP Partner]
+Type = Gameshark
+Activation = EndFrame
+80102844 03E7
+
+[Infinite HP Choco]
+Type = Gameshark
+Activation = EndFrame
+801026B8 03E7
+
+[Choco Max Level and All Spells]
+Type = Gameshark
+Activation = EndFrame
+50000302 0000
+8010401C 6262
+
+[Kill Dungeon 1 Boss]
+Type = Gameshark
+Activation = EndFrame
+D00B8718 000C
+801029D0 0000
+

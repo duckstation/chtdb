@@ -1,0 +1,68 @@
+; CHTDB: ; [ Granstream Denki: The Granstream Saga (Japan) {SCPS-10046} ]
+
+[Infinite & Max Hp]
+Type = Gameshark
+Activation = EndFrame
+801C981C 03E7
+800949A4 03E7
+
+[Level 99]
+Type = Gameshark
+Activation = EndFrame
+801C9820 0063
+
+[Infinite & Max Mp]
+Type = Gameshark
+Activation = EndFrame
+801C981E 03E7
+800949A6 03E7
+
+[Infinite & Max Lp]
+Type = Gameshark
+Activation = EndFrame
+801C981C 0063
+300949A2 0011
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+801C915C FFFF
+
+[Infinite Energy in battle]
+Type = Gameshark
+Activation = EndFrame
+800C042C 03E7
+
+[Infinite Magic in battle]
+Type = Gameshark
+Activation = EndFrame
+800C042E 03E7
+
+[Infinite LP in battle]
+Type = Gameshark
+Activation = EndFrame
+300C042A 0011
+
+[All Item / equipment / magic]
+Type = Gameshark
+Activation = EndFrame
+50001E02 0000
+801C9100 0101
+901C913C 01010101
+801C9140 FFFF
+801C9144 FFFF
+801C9148 FFFF
+901C914C FFFFFFFF
+801C9150 FFFF
+901C9154 FFFFFFFF
+
+[All Scepter]
+Type = Gameshark
+Activation = EndFrame
+301C915F 00FF
+
+[Debug menu (SELECT) NEW GAME, DATALOAD time, the Debug menu is first displayed To the normal mode When you select the EXIT If you press the SELECT button during the game, the Debug menu is displayed]
+Type = Gameshark
+Activation = EndFrame
+8009E2F0 0001
+

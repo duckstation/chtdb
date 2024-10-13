@@ -1,0 +1,286 @@
+; CHTDB: ; [ Xenogears (USA) (1998) (Square Electronic Arts) {SLUS-00664 / SLUS-00669} <xenogear> ]
+
+[In Battle Infinite Health All Character + Gears]
+Type = Gameshark
+Activation = EndFrame
+A7085762 A4202400
+A70858AA AC222400
+
+[In Battle Infinite EP All Character + Geats]
+Type = Gameshark
+Activation = EndFrame
+A708B416 A4222400
+
+[In Battle Infinite Fuel All Gears]
+Type = Gameshark
+Activation = EndFrame
+A7083F56 A4252400
+A70859FA A4222400
+A708CF56 A4222400
+
+[Faster Text]
+Description = Save frequently if you use this cheat
+Type = Gameshark
+Activation = EndFrame
+30034964 00FF
+30034967 0034
+
+[In Battle\Battling Arena\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800987E0 012C
+
+[In Battle\Battling Arena\Never Overheat]
+Type = Gameshark
+Activation = EndFrame
+800987E2 0000
+
+[Battle HUD Off]
+Type = Gameshark
+Activation = EndFrame
+A707644E 0C011400
+A7076456 0C011400
+A707645E 0C011400
+A707648E 0C011400
+
+[Infinite Items All Slots]
+Type = Gameshark
+Activation = EndFrame
+A71DBC32 A2E22400
+
+[Infinite Gold]
+Type = Gameshark
+Activation = EndFrame
+9006EF58 0098967F
+
+[Time Always 000.00.00]
+Type = Gameshark
+Activation = EndFrame
+90059488 00000000
+
+[Save Anywhere]
+Type = Gameshark
+Activation = EndFrame
+80059170 0100
+
+[Bart\Max HP]
+Type = Gameshark
+Activation = EndFrame
+9006DAD8 03E703E7
+
+[Bart\Max EP]
+Type = Gameshark
+Activation = EndFrame
+9006DADC 03E703E7
+
+[Billy\Max HP]
+Type = Gameshark
+Activation = EndFrame
+9006DB7C 03E703E7
+
+[Billy\Max EP]
+Type = Gameshark
+Activation = EndFrame
+9006DB80 03E703E7
+
+[Chu-Chu\Max HP]
+Type = Gameshark
+Activation = EndFrame
+9006DD68 03E703E7
+
+[Chu-Chu\Max EP]
+Type = Gameshark
+Activation = EndFrame
+9006DD6C 03E703E7
+
+[Citan\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+9006DA34 03E703E7
+
+[Citan\Infinite EP]
+Type = Gameshark
+Activation = EndFrame
+9006DA38 03E703E7
+
+[Elly\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+9006D990 03E703E7
+
+[Elly\Infinite EP]
+Type = Gameshark
+Activation = EndFrame
+9006D994 03E703E7
+
+[Fei\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+9006D8EC 03E703E7
+
+[Fei\Infinite EP]
+Type = Gameshark
+Activation = EndFrame
+9006D8F0 03E703E7
+
+[Maria\Max HP]
+Type = Gameshark
+Activation = EndFrame
+9006DE0C 03E703E7
+
+[Maria\Max EP]
+Type = Gameshark
+Activation = EndFrame
+9006DE10 03E703E7
+
+[Rico\Max HP]
+Type = Gameshark
+Activation = EndFrame
+9006DC20 03E703E7
+
+[Rico\Max EP]
+Type = Gameshark
+Activation = EndFrame
+9006DC24 03E703E7
+
+[Vierge\Max HP]
+Type = Gameshark
+Activation = EndFrame
+9006E154 0098967F
+9006E158 0098967F
+
+[Vierge\Max Fuel]
+Type = Gameshark
+Activation = EndFrame
+9006E12C 270F270F
+
+[Weltall\Max HP]
+Type = Gameshark
+Activation = EndFrame
+9006E00C 0098967F
+9006E010 0098967F
+
+[Weltall\Max Fuel]
+Type = Gameshark
+Activation = EndFrame
+9006DFE4 270F270F
+
+[Weltall-2\Max HP]
+Type = Gameshark
+Activation = EndFrame
+9006E0B0 0098967F
+9006E0B4 0098967F
+
+[Weltall-2\Max Fuel]
+Type = Gameshark
+Activation = EndFrame
+9006E088 270F270F
+
+[In Battle\Character 1\Infinite Health]
+Description = Human Only! Don't use when you are a gear!
+Type = Gameshark
+Activation = EndFrame
+800CCD34 03E7
+
+[In Battle\Character 1\Infinite Ep]
+Description = Human Only! Don't use when you are a gear!
+Type = Gameshark
+Activation = EndFrame
+800CCD38 0063
+
+[In Battle\Character 1\Infinite Ap]
+Description = Human Only! Don't use when you are a gear!
+Type = Gameshark
+Activation = EndFrame
+800D32A0 0020
+
+[In Battle\Character 2\Infinite Health]
+Description = Human Only! Don't use when you are a gear!
+Type = Gameshark
+Activation = EndFrame
+800CCEA4 03E7
+
+[In Battle\Character 2\Infinite Ep]
+Description = Human Only! Don't use when you are a gear!
+Type = Gameshark
+Activation = EndFrame
+800CCEA8 0063
+
+[In Battle\Character 2\Infinite Ap]
+Description = Human Only! Don't use when you are a gear!
+Type = Gameshark
+Activation = EndFrame
+800D32A8 0020
+
+[In Battle\Character 3\Infinite Health]
+Description = Human Only! Don't use when you are a gear!
+Type = Gameshark
+Activation = EndFrame
+800CD014 03E7
+
+[In Battle\Character 3\Infinite Ep]
+Description = Human Only! Don't use when you are a gear!
+Type = Gameshark
+Activation = EndFrame
+800CD018 0063
+
+[In Battle\Character 3\Infinite Ap]
+Description = Human Only! Don't use when you are a gear!
+Type = Gameshark
+Activation = EndFrame
+800D32B0 0020
+
+[In Battle\Gear 1\Infinite Health]
+Description = Gear Only! Don't use when you are a human!
+Type = Gameshark
+Activation = EndFrame
+800CCDEC FFFF
+
+[In Battle\Gear 1\Infinite Fuel]
+Description = Gear Only! Don't use when you are a human!
+Type = Gameshark
+Activation = EndFrame
+800CCDC4 FFFF
+
+[In Battle\Gear 1\Max Attack Level]
+Description = Gear Only! Don't use when you are a human!
+Type = Gameshark
+Activation = EndFrame
+800CCE30 0204
+
+[In Battle\Gear 2\Infinite Health]
+Description = Gear Only! Don't use when you are a human!
+Type = Gameshark
+Activation = EndFrame
+800CCF5C FFFF
+
+[In Battle\Gear 2\Infinite Fuel]
+Description = Gear Only! Don't use when you are a human!
+Type = Gameshark
+Activation = EndFrame
+800CCF34 FFFF
+
+[In Battle\Gear 2\Max Attack Level]
+Description = Gear Only! Don't use when you are a human!
+Type = Gameshark
+Activation = EndFrame
+800CCFA0 0204
+
+[In Battle\Gear 3\Infinite Health]
+Description = Gear Only! Don't use when you are a human!
+Type = Gameshark
+Activation = EndFrame
+800CD0CC FFFF
+
+[In Battle\Gear 3\Infinite Fuel]
+Description = Gear Only! Don't use when you are a human!
+Type = Gameshark
+Activation = EndFrame
+800CD0A4 FFFF
+
+[In Battle\Gear 3\Max Attack Level]
+Description = Gear Only! Don't use when you are a human!
+Type = Gameshark
+Activation = EndFrame
+800CD110 0204
+

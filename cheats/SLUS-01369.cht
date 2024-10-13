@@ -1,0 +1,71 @@
+; CHTDB: ; [ Looney Tunes - Sheep Raider (USA) (2001) (Infogrames) {SLUS-01369} <sheeprdr> ]
+
+[Enable Code (Must Be On)]
+Type = Gameshark
+Activation = EndFrame
+D007ED28 E180
+8007ED28 E080
+D0117B10 5EE4
+80117B1A 1000
+D011F048 7C33
+8011F052 1000
+D007DF5C EEE4
+8007DF66 1000
+D00B8DDC D42F
+800B8DE6 1000
+D008B488 2358
+8008B492 1000
+D0085928 0908
+80085932 1000
+D00A4218 822A
+800A4222 1000
+
+[Infinite Battery (1st Level)]
+Type = Gameshark
+Activation = EndFrame
+901DDBF4 0012C000
+
+[Infinite Rocket Damage (1st Level)]
+Type = Gameshark
+Activation = EndFrame
+801DDBFC 2000
+
+[Infinite Battery (Alternate Version)]
+Type = Gameshark
+Activation = EndFrame
+D007111C 0084
+8007111E 2400
+
+[Have All Levels Completed]
+Type = Gameshark
+Activation = EndFrame
+80010060 FFFF
+
+[Have All Bonus Pictures]
+Type = Gameshark
+Activation = EndFrame
+30010064 00FF
+
+[Have Max Bonus Points]
+Type = Gameshark
+Activation = EndFrame
+80010068 03E7
+
+[Have All Sheep]
+Type = Gameshark
+Activation = EndFrame
+8001006A 0000
+
+[Skip Level (Press L3)]
+Type = Gameshark
+Activation = EndFrame
+A7010836 24001040
+D7200001 01000200
+A7010836 10402400
+
+[Uncap FPS]
+Description = Untested, use at your own risk
+Type = Gameshark
+Activation = EndFrame
+A70A5F3A 04812400
+

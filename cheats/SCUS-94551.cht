@@ -1,0 +1,40 @@
+; CHTDB: ; [ Professional Underground League of Pain (USA) (1997) (Psygnosis) {SCUS-94551} <prouglp> ]
+
+[Infinite Time 1]
+Type = Gameshark
+Activation = EndFrame
+800BCBD2 0905
+
+[Infinite Time 2]
+Type = Gameshark
+Activation = EndFrame
+800BCBD4 0006
+
+[Select Team 1 Score\9]
+Type = Gameshark
+Activation = EndFrame
+800BCBA0 0009
+800BCBA4 0009
+800BCBAA 0009
+
+[Select Team 1 Score\0]
+Type = Gameshark
+Activation = EndFrame
+800BCBA0 0000
+800BCBA4 0000
+800BCBAA 0000
+
+[Select Team 2 Score\9]
+Type = Gameshark
+Activation = EndFrame
+800BCBBC 0009
+800BCBC0 0009
+800BCBC6 0009
+
+[Select Team 2 Score\0]
+Type = Gameshark
+Activation = EndFrame
+800BCBBC 0000
+800BCBC0 0000
+800BCBC6 0000
+

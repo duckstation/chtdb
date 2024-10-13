@@ -1,0 +1,31 @@
+; CHTDB: ; [ Dancing Stage: Party Edition (Europe) {SLES-03882} ]
+
+[P1 Max Total Score]
+Type = Gameshark
+Activation = EndFrame
+900C1864 3B9AC9FF
+
+[P1 Max Dance Gauge]
+Type = Gameshark
+Activation = EndFrame
+800C1862 03E8
+
+[P1 Perfect Play Results]
+Type = Gameshark
+Activation = EndFrame
+800C18B8 270F
+50000404 0000
+800C18BC 0000
+800C18D4 270F
+
+[All Lessons Clear]
+Type = Gameshark
+Activation = EndFrame
+50000C02 0000
+800E5898 0202
+
+[Unlock All Extras]
+Type = Gameshark
+Activation = EndFrame
+900E4378 FFFFFFFF
+

@@ -1,0 +1,27 @@
+; CHTDB: ; [ Chou-Kousoku Gran Doll (Japan) (Premium Edition (Piki! Piki! Special Hikaru-bako Genteiban)) {SLPS-00869 | SLPS-00870} ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800B4D64 0060
+
+[All 5 Change Roll]
+Type = Gameshark
+Activation = EndFrame
+300B4D6A 0005
+
+[Infinite Keys]
+Type = Gameshark
+Activation = EndFrame
+800A282C 0101
+
+[Infinite Bombs]
+Type = Gameshark
+Activation = EndFrame
+800B4D66 0101
+
+[Transparent]
+Type = Gameshark
+Activation = EndFrame
+300A266C 0001
+

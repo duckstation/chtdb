@@ -1,0 +1,34 @@
+; CHTDB: ; [ Ungra Walker (Jpn) (2002) (Success) {SLPM-87055} <ungrawlk> ]
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80057E9C 03E7
+80057E98 03E7
+
+[P1 Infinite Special Attack]
+Type = Gameshark
+Activation = EndFrame
+80057E90 0032
+
+[P2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80057F84 03E7
+80057F80 03E7
+
+[P2 Infinite Special Attack]
+Type = Gameshark
+Activation = EndFrame
+80057F86 0032
+
+[P1 Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+80057E90 EA60
+
+[P2 Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+800E7F78 EA60
+

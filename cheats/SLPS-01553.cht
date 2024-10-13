@@ -1,0 +1,23 @@
+; CHTDB: ; [ Kaisoku Tenshi - The Rapid Angel (Jpn) (1998) (Techno Soleil) {SLPS-01553} <rapidang> ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801D83A0 8000
+
+[Infinite % Max HP]
+Type = Gameshark
+Activation = EndFrame
+801D83A0 0078
+801D83A8 0078
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+801D84C8 002A
+
+[Infinite Bombs]
+Type = Gameshark
+Activation = EndFrame
+801D84F6 0003
+

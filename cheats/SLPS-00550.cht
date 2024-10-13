@@ -1,0 +1,69 @@
+; CHTDB: ; [ Shin Super Robot Taisen (Japan) {SLPS-00550} ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+900FEC94 0097FFFF
+
+[Infinite Items]
+Type = Gameshark
+Activation = EndFrame
+50001D02 0000
+800FEEE2 0900
+
+[Have All Modify Weapon]
+Type = Gameshark
+Activation = EndFrame
+800FEEE2 0900
+900FEEE4 09000900
+900FEEE8 09000900
+900FEEEC 09000900
+900FEEF0 09000900
+800FEEF6 0900
+900FEEF8 09000900
+900FEEFC 09000900
+900FEF00 09000900
+900FEF04 09000900
+900FEF08 09000900
+900FEF0C 09000900
+900FEF10 09000900
+900FEF14 09000900
+900FEF18 09000900
+
+[Reinforced Parts]
+Type = Gameshark
+Activation = EndFrame
+900FEC50 FFFFFFFF
+900FEC54 FFFFFFFF
+900FEC58 FFFFFFFF
+900FEC5C FFFFFFFF
+900FEC60 FFFFFFFF
+
+[99 Lv rises]
+Type = Gameshark
+Activation = EndFrame
+A6132AD0 00010063
+A6132AD2 24632403
+
+[Level 99 and level up]
+Type = Gameshark
+Activation = EndFrame
+A612FBBC 00010063
+A612FBBE 24422402
+
+[Demo select fully open]
+Type = Gameshark
+Activation = EndFrame
+300FC5C8 00FF
+
+[Robot data fully open]
+Type = Gameshark
+Activation = EndFrame
+50000A02 0000
+800FC58C FFFF
+
+[debug mode infinite behavior]
+Type = Gameshark
+Activation = EndFrame
+300FC69C 0008
+

@@ -1,0 +1,78 @@
+; CHTDB: ; [ Gunnm: Kasei no Kioku (Japan) {SLPS-01408} ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+90011244 3B9AC9FF
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+90011250 270F270F
+8001125A 270F
+8001125C 270F
+
+[Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+80011262 270F
+900112A4 270F270F
+
+[Max Attack]
+Type = Gameshark
+Activation = EndFrame
+80011254 270F
+8001125E 270F
+
+[Max Defense]
+Type = Gameshark
+Activation = EndFrame
+80011256 270F
+80011260 270F
+
+[Shot Attack]
+Type = Gameshark
+Activation = EndFrame
+D0110870 0144
+8011086C 0000
+D01108EC 0144
+801108E8 0000
+
+[Infinite Plasma]
+Type = Gameshark
+Activation = EndFrame
+D00B737C 0001
+800112A6 0063
+
+[Infinite Endurance]
+Type = Gameshark
+Activation = EndFrame
+A610793A 00430040
+
+[Chip MAX]
+Type = Gameshark
+Activation = EndFrame
+90011244 7FFFFFFF
+
+[Mortal blow]
+Type = Gameshark
+Activation = EndFrame
+A6107086 00620000
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+800FF620 0C00
+800C7E60 1000
+800C7DD8 1000
+
+[Widescreen 16-9 (ALT)]
+Type = Gameshark
+Activation = EndFrame
+A70FF648 10000C00
+
+[Dither Off]
+Type = Gameshark
+Activation = EndFrame
+A7069D90 02000000
+

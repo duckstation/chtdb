@@ -1,0 +1,47 @@
+; CHTDB: ; [ Prince Naseem Boxing (Europe) {SLES-00017} ]
+
+[Character Unlocked Tao Zhu]
+Type = Gameshark
+Activation = EndFrame
+30100DB8 0001
+
+[Character Unlocked Samuel Jefferson]
+Type = Gameshark
+Activation = EndFrame
+30100DBC 0001
+
+[Character Unlocked Fabian Van Hilten]
+Type = Gameshark
+Activation = EndFrame
+30100DC0 0001
+
+[Character Unlocked Patrice Demanger]
+Type = Gameshark
+Activation = EndFrame
+30100DC4 0001
+
+[Character Unlocked Frankie Zamboni]
+Type = Gameshark
+Activation = EndFrame
+30100DD8 0001
+
+[Character Unlocked Johnny Roberts]
+Type = Gameshark
+Activation = EndFrame
+30100DDC 0001
+
+[Character Unlocked Mick Oshea]
+Type = Gameshark
+Activation = EndFrame
+30100DE0 0001
+
+[Character Unlocked Jimmy Silk]
+Type = Gameshark
+Activation = EndFrame
+30100DE4 0001
+
+[Freeze round timer]
+Type = Gameshark
+Activation = EndFrame
+301036E8 003C
+

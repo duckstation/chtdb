@@ -1,0 +1,89 @@
+; CHTDB: ; [ Namco Museum Vol. 2 (Japan) (Gentei Box) {SLPS-00209} ]
+
+[Dragon Buster Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+800C9850 0005
+
+[Dragon Buster P1 Infinite Fireballs]
+Type = Gameshark
+Activation = EndFrame
+800C9990 0002
+801437B0 0101
+
+[Dragon Buster P1 Infinite Vitality]
+Type = Gameshark
+Activation = EndFrame
+800C99F0 0080
+
+[Dragon BusterP2 Infinite Fireballs]
+Type = Gameshark
+Activation = EndFrame
+800C9994 0002
+801438B0 0101
+
+[Dragon Buster P2 Infinite Vitality]
+Type = Gameshark
+Activation = EndFrame
+800C99F4 0080
+
+[Gaplus Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+80102BEC 0005
+
+[Gaplus P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+30151104 0004
+
+[Gaplus	P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+30151105 0004
+
+[Grabda Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+800E9CAC 0005
+
+[Grabda Infinite Shield (Both Players)]
+Type = Gameshark
+Activation = EndFrame
+80100564 2800
+
+[Grabda P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800CAB64 0002
+
+[Grabda P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800CAB68 0002
+
+[Mappy Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+8017ADF4 0005
+
+[Mappy Infinite Lives (Both Players)]
+Type = Gameshark
+Activation = EndFrame
+801E38C4 0500
+
+[Xevious Infinite Lives (Both Players)]
+Type = Gameshark
+Activation = EndFrame
+80180654 0003
+
+[Xevious Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+801798B0 0005
+
+[Super Pac-man Infinite Balls (Both Players)]
+Type = Gameshark
+Activation = EndFrame
+8016C4CC 0005
+

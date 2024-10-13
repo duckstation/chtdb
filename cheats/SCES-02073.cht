@@ -1,0 +1,28 @@
+; CHTDB: ; [ Tiny Tank (Germany) {SCES-02073} ]
+
+[Unendlich Energie]
+Type = Gameshark
+Activation = EndFrame
+800A51A6 3C00
+
+[Unendlich Nanometall]
+Type = Gameshark
+Activation = EndFrame
+800A5196 3C00
+
+[Unendlich Leben]
+Type = Gameshark
+Activation = EndFrame
+800A4BB0 0000
+
+[Unendlich Tinies]
+Type = Gameshark
+Activation = EndFrame
+800A4BB0 0000
+800A4C8C 0000
+
+[Unendlich Tiny Tinies]
+Type = Gameshark
+Activation = EndFrame
+800A9AEC 0000
+

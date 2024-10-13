@@ -1,0 +1,33 @@
+; CHTDB: ; [ Shaman King: Spirit of Shamans (Japan) {SLPS-03432} ]
+
+[Infinite Energy smp]
+Type = Gameshark
+Activation = EndFrame
+800A3EA9 00D2
+
+[Spirit 100%]
+Type = Gameshark
+Activation = EndFrame
+800A3ECD 0064
+
+[All Stages]
+Type = Gameshark
+Activation = EndFrame
+300A3D88 FFFF
+300A3D8A 0001
+
+[All the characters enabled]
+Type = Gameshark
+Activation = EndFrame
+900A3D80 FFFFFFFF
+
+[Training emergence of Anna]
+Type = Gameshark
+Activation = EndFrame
+800A3D84 001F
+
+[Sudden death emergence hold out]
+Type = Gameshark
+Activation = EndFrame
+300A3DC3 0001
+

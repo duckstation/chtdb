@@ -1,0 +1,46 @@
+; CHTDB: ; [ Bomberman - Party Edition (USA) (2000) (Vatical Entertainment) {SLUS-01189} <bombmpty> ]
+
+[Stop Timer]
+Type = Gameshark
+Activation = EndFrame
+A7061DC2 A4822400
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+A705EA0E A4242400
+
+[Infinite Bombs]
+Type = Gameshark
+Activation = EndFrame
+A701FF42 A6022400
+
+[Max Flame length]
+Type = Gameshark
+Activation = EndFrame
+801D8C08 0009
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+A7056E02 14511000
+A70291CE 10401000
+
+[Walk through Walls]
+Type = Gameshark
+Activation = EndFrame
+A7026ED6 14401400
+A70271DE 14401400
+A70274F6 14401400
+A70277FE 14401400
+
+[Max Score]
+Type = Gameshark
+Activation = EndFrame
+900934A4 05F5E0FF
+;f 0,fffff,w.a424,d.00042400  <--Lives
+;f 0,fffff,w.a602,d.8602006a  <--Bombs
+;f 0,fffff,w.1451,0,0,?,0801  <--Invincibility Pt1
+;f 0,fffff,w.1040,d.2650004c  <--Invincibility Pt2
+;f 0,fffff,w.1440,d.240a821  <WTW All 4 addresses
+

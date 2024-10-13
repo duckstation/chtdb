@@ -1,0 +1,61 @@
+; CHTDB: ; [ Tomb Raider II: Starring Lara Croft (Italy) {SLES-00107} ]
+
+[Level Completed (Presss L2 & R2 & Start)]
+Type = Gameshark
+Activation = EndFrame
+D008C602 FCF7
+30089E88 0001
+
+[Infinite Oxygen]
+Type = Gameshark
+Activation = EndFrame
+8008C66E 0708
+
+[Infinite Small & large medi-pack]
+Type = Gameshark
+Activation = EndFrame
+90088C74 03E703E7
+
+[Have all levels when loading a saved game]
+Type = Gameshark
+Activation = EndFrame
+A606DFD8 08210013
+A606DFDA 00332402
+
+[Infinite Ammo (on pickup)]
+Type = Gameshark
+Activation = EndFrame
+80040B66 2400
+80046456 2400
+80046AA6 2400
+
+[Infinite Auto-gun ammo]
+Type = Gameshark
+Activation = EndFrame
+8008C71C 0028
+
+[Infinite Flares]
+Type = Gameshark
+Activation = EndFrame
+80088C72 03E7
+
+[Have All 3 secrets]
+Type = Gameshark
+Activation = EndFrame
+800DE7F2 000F
+
+[Have All special items]
+Type = Gameshark
+Activation = EndFrame
+80088CF8 0009
+
+[Have All weapons]
+Type = Gameshark
+Activation = EndFrame
+80088C64 000B
+
+[Stop timer]
+Type = Gameshark
+Activation = EndFrame
+800DE7E0 0000
+

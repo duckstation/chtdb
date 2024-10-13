@@ -1,0 +1,52 @@
+; CHTDB: ; [ Boku no Natsuyasumi: Summer Holiday 20th Century (Japan) {SCPS-10088} ]
+
+[You can drop Honeycomb in one shot]
+Type = Gameshark
+Activation = EndFrame
+30035EE2 0300
+
+[Do not get tired waving an ax]
+Type = Gameshark
+Activation = EndFrame
+30035E71 0000
+
+[Worms collected already collecting box to ? 60]
+Type = Gameshark
+Activation = EndFrame
+50003C0C 0001
+80046F28 FF00
+50003C0C 0000
+80046F2C 0101
+
+[Insect sumo stamina wins]
+Type = Gameshark
+Activation = EndFrame
+D00837B8 0018
+8008F030 032A
+D00837B8 0018
+8008F0A0 0000
+
+[Flying kites Max Level]
+Type = Gameshark
+Activation = EndFrame
+D007DEE4 0BC0
+80080BC4 7D00
+
+[MAX size of fish caught]
+Type = Gameshark
+Activation = EndFrame
+9003E0B0 03E76302
+8003E0B4 03E7
+
+[MAX size of rainbow trout fish caught]
+Type = Gameshark
+Activation = EndFrame
+8003E0B6 6302
+9003E0B8 03E703E7
+
+[MAX size of trout fish caught]
+Type = Gameshark
+Activation = EndFrame
+9003E0BC 03E76303
+8003E0C0 03E7
+

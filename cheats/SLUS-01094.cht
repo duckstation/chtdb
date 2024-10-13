@@ -1,0 +1,80 @@
+; CHTDB: ; [ Backyard Soccer (USA) (2001) (Infogrames) {SLUS-01094} <backyard> ]
+
+[Select Goals Score\0]
+Type = Gameshark
+Activation = EndFrame
+800540F4 0000
+
+[Select Goals Score\9]
+Type = Gameshark
+Activation = EndFrame
+800540F4 0009
+
+[Select Home Team Score\25]
+Type = Gameshark
+Activation = EndFrame
+300BD428 0019
+
+[Select Home Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+300BD428 0000
+
+[Select Home Team Special\Twister]
+Type = Gameshark
+Activation = EndFrame
+300BD442 00FF
+300BD43E 0001
+
+[Select Home Team Special\Underground]
+Type = Gameshark
+Activation = EndFrame
+300BD442 00FF
+300BD43E 0002
+
+[Select Home Team Special\Bowling Ball]
+Type = Gameshark
+Activation = EndFrame
+300BD442 00FF
+300BD43E 0003
+
+[Select Home Team Special\Cannonball]
+Type = Gameshark
+Activation = EndFrame
+300BD442 00FF
+300BD43E 0004
+
+[Select Away Team Score\9]
+Type = Gameshark
+Activation = EndFrame
+300BDA84 0019
+
+[Select Away Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+300BDA84 0000
+
+[Select Away Team Special\Twister]
+Type = Gameshark
+Activation = EndFrame
+300BDA9E 00FF
+300BDA9A 0001
+
+[Select Away Team Special\Underground]
+Type = Gameshark
+Activation = EndFrame
+300BDA9E 00FF
+300BDA9A 0002
+
+[Select Away Team Special\Bowling Ball]
+Type = Gameshark
+Activation = EndFrame
+300BDA9E 00FF
+300BDA9A 0003
+
+[Select Away Team Special\Cannonball]
+Type = Gameshark
+Activation = EndFrame
+300BDA9E 00FF
+300BDA9A 0004
+

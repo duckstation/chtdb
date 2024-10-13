@@ -1,0 +1,66 @@
+; CHTDB: ; [ MDK (USA) (1997) (Playmates Interactive Entertainment) {SLUS-00426} <mdk> ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800CB740 03E7
+
+[Infinite Chain Gun]
+Type = Gameshark
+Activation = EndFrame
+800CB80C 00C8
+
+[Infinite Sniper Weapon 2]
+Type = Gameshark
+Activation = EndFrame
+800CB810 0063
+
+[Infinite Sniper Grenade]
+Type = Gameshark
+Activation = EndFrame
+800CB814 0063
+
+[Infinite Sniper Weapon 4]
+Type = Gameshark
+Activation = EndFrame
+800CB818 0063
+
+[Infinite Motar Shots]
+Type = Gameshark
+Activation = EndFrame
+800CB81C 0063
+
+[Infinite Sniper Weapon 6]
+Type = Gameshark
+Activation = EndFrame
+800CB820 0063
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+80007600 0C00
+80007602 2401
+80007604 0018
+80007606 0181
+80007608 6012
+8000760C 0018
+8000760E 0161
+80007610 5812
+80007614 6302
+80007616 000C
+80007618 5B02
+8000761A 000B
+8000761E A4AC
+80007620 000C
+80007622 A4AB
+80007624 4351
+80007626 0802
+80090D3C 1D80
+80090D3E 0800
+80071D24 00A2
+80071D26 2402
+30071D4C 00F8
+80071F74 00A2
+80071F76 2402
+30071F94 00F8
+

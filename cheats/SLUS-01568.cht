@@ -1,0 +1,13 @@
+; CHTDB: ; [ Ballerburg - Castle Chaos (USA) (2003) (Mud Duck Productions) {SLUS-01568} <ballerbg> ]
+
+[Player Who Goes First Has 9,999,999 Gold]
+Description = For one player mode use player goes first cheat. For the missions which it does not work, use the player who goes second's cheat.
+Type = Gameshark
+Activation = EndFrame
+900E6C88 0098967F
+
+[Player Who Goes Second Has 9,999,999 Gold]
+Type = Gameshark
+Activation = EndFrame
+900EAEAC 0098967F
+

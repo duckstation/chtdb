@@ -1,0 +1,24 @@
+; CHTDB: ; [ Tiny Toon Adventures: Toonenstein: Geisterstunde! (Germany) {SLES-02927} ]
+
+[Man muss nur 1 LECTR-O-METER-Lampe sammeln (Drücke L1 & R1)]
+Type = Gameshark
+Activation = EndFrame
+D005490A F3FF
+3003FF18 0005
+
+[LECTR-O-METER immer sichtbar]
+Type = Gameshark
+Activation = EndFrame
+3001755C 0000
+
+[Alle Stockwerke freigeschaltet (Drücke L2 & R2)]
+Type = Gameshark
+Activation = EndFrame
+D005490A FCFF
+3003FF1A 0004
+
+[Aktuelles Stockwerk]
+Type = Gameshark
+Activation = EndFrame
+3003FF19 00??
+

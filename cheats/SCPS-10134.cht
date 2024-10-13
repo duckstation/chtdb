@@ -1,0 +1,66 @@
+; CHTDB: ; [ Gekitotsu Toma L'Arc - Tomarunner vs. L'Arc~en~Ciel (Jpn) (2000) (Sony) {SCPS-10134} <tomalarc> ]
+
+[Enable All Stages]
+Type = Gameshark
+Activation = EndFrame
+800CBF48 0006
+
+[Max Points]
+Type = Gameshark
+Activation = EndFrame
+800C75F4 03E7
+800C7604 03E7
+
+[Finish The Race 1st Whenever You Want (Press L2)]
+Type = Gameshark
+Activation = EndFrame
+D00D3592 FEFF
+800C73B8 0003
+
+[P1 power gauge MAX]
+Type = Gameshark
+Activation = EndFrame
+800C760A 0FA0
+
+[P1 Speed ??MAX]
+Type = Gameshark
+Activation = EndFrame
+800C7524 FFFF
+
+[P1 Always Dash]
+Type = Gameshark
+Activation = EndFrame
+800C750E 0014
+
+[P1 Victory in an instant]
+Type = Gameshark
+Activation = EndFrame
+800B2A32 0000
+
+[All Tomarun Hell Clear]
+Type = Gameshark
+Activation = EndFrame
+800CBF48 0006
+50000702 0000
+800CBF72 00FF
+
+[Unlock Extras]
+Type = Gameshark
+Activation = EndFrame
+800CBCE2 0200
+50000802 0000
+800CBCEA 9F9F
+50000402 0000
+800CBD00 0606
+50000502 0000
+800CBD0A 0606
+900CBD28 01010101
+300CBD30 00FF
+50001514 0000
+800CBD8E FF04
+
+[Movie fully open]
+Type = Gameshark
+Activation = EndFrame
+800CBD30 000E
+

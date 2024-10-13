@@ -1,0 +1,12 @@
+; CHTDB: ; [ Monster Racer (Europe) (White Label) {SLES-03246} ]
+
+[Always first place]
+Type = Gameshark
+Activation = EndFrame
+800F1EB0 0001
+
+[Start on lap 5]
+Type = Gameshark
+Activation = EndFrame
+800F1EA6 0005
+

@@ -1,0 +1,67 @@
+; CHTDB: ; [ Final Fantasy Chronicles - Chrono Trigger (USA, v1.0) (2001) (Square Electronic Arts) {SLUS-01363} <ctriggera> ]
+
+[P1 Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+80023E30 03E7
+
+[P2 Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+80023EB0 03E7
+
+[P3 Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+80023F30 03E7
+
+[Have All Items]
+Type = Gameshark
+Activation = EndFrame
+5000FF01 0001
+30020400 0001
+
+[Infinite Gold]
+Type = Gameshark
+Activation = EndFrame
+80020C52 7F00
+80020C54 9896
+
+[Max Damage]
+Description = Does 9999 Damage Per Hit
+Type = Gameshark
+Activation = EndFrame
+C00DC390 8015
+80028DA8 270F
+80029334 270F
+80028DAC 270F
+80029338 270F
+80028DB0 270F
+8002933C 270F
+80028DB4 270F
+80029340 270F
+80028DB8 270F
+80029344 270F
+80028DBC 270F
+80029348 270F
+80028DC0 270F
+8002934C 270F
+80028DC4 270F
+80029350 270F
+00000000 FFFF
+
+[Save Anywhere]
+Type = Gameshark
+Activation = EndFrame
+300101CF 0080
+
+[Unlock All Extra Modes]
+Type = Gameshark
+Activation = EndFrame
+800DD70A FFFF
+
+[Unlock All Extras]
+Type = Gameshark
+Activation = EndFrame
+800DD6DA 1FFF
+

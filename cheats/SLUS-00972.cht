@@ -1,0 +1,49 @@
+; CHTDB: ; [ Ace Combat 3 - Electrosphere (USA) (1999) (Namco Hometek) {SLUS-00972} <acecomb3> ]
+
+[Plane Never Takes Damage]
+Type = Gameshark
+Activation = EndFrame
+800710BA 2400
+80071016 2400
+80070E36 2400
+
+[Infinite Normal (Ground Range) Missiles]
+Type = Gameshark
+Activation = EndFrame
+800705CA 2400
+
+[Rapid Fire Missiles]
+Type = Gameshark
+Activation = EndFrame
+800704D4 0001
+
+[Unlock Music Player]
+Type = Gameshark
+Activation = EndFrame
+800BE624 0007
+
+[Infinite M.R.I.V. Missiles]
+Type = Gameshark
+Activation = EndFrame
+80070872 2400
+
+[Infinite Short Range Missiles]
+Type = Gameshark
+Activation = EndFrame
+8007072A 2400
+
+[Have All Planes + Weapons]
+Type = Gameshark
+Activation = EndFrame
+50000A02 0000
+800BE66C 0101
+50000A02 0000
+800BE62C 0101
+50000702 0000
+800BE6A8 0101
+
+[Stop Regular Timer]
+Type = Gameshark
+Activation = EndFrame
+80052F06 2400
+

@@ -1,0 +1,12 @@
+; CHTDB: ; [ Honoo no 15 Shumoku: Atlanta Olympics (Japan) {SLPS-00465} ]
+
+[P1 Each Game Point At 99999]
+Type = Gameshark
+Activation = EndFrame
+90109758 0001869F
+
+[P2 Each Game Point At 99999]
+Type = Gameshark
+Activation = EndFrame
+9010975C 0001869F
+

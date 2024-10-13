@@ -1,0 +1,22 @@
+; CHTDB: ; [ Star Wars: Dark Forces (Spain) {SLES-00646} ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800953BC 0064
+
+[Infinite Ammo Pistol]
+Type = Gameshark
+Activation = EndFrame
+8009539C 03E7
+
+[Enable All Levels]
+Type = Gameshark
+Activation = EndFrame
+800102A8 000E
+
+[Enable All Levels Alt]
+Type = Gameshark
+Activation = EndFrame
+800102AC 000E
+

@@ -1,0 +1,17 @@
+; CHTDB: ; [ A Sangre FrÃ­a (Spain) {SCES-02153 | SCES-12153} ]
+
+[Infinite Medikits]
+Type = Gameshark
+Activation = EndFrame
+80198B74 0009
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+80198B6C 0009
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+8008BB30 270F
+

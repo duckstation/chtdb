@@ -1,0 +1,12 @@
+; CHTDB: ; [ Magical Dice Kids (Japan) {SCPS-10135} ]
+
+[Infinite Hearts (Number Of Dice To Roll)]
+Type = Gameshark
+Activation = EndFrame
+8007E5CD 0005
+
+[Infinite Money (60000)]
+Type = Gameshark
+Activation = EndFrame
+8007E5C4 EA60
+

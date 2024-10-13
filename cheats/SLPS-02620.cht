@@ -1,0 +1,68 @@
+; CHTDB: ; [ Strider Hiryuu 1 & 2 (Strider Hiryuu) (Japan) {SLPS-02620 | SLPS-02621} ]
+
+[P1 Infinite Life Strider 1]
+Type = Gameshark
+Activation = EndFrame
+30062ACA 0063
+
+[Infinite Time Strider 1]
+Type = Gameshark
+Activation = EndFrame
+D004C226 8007
+80062C02 00F0
+D008F97E 2442
+8008F97C 0000
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800AB7A6 1200
+
+[Infinite Time Strider 1 Alt]
+Type = Gameshark
+Activation = EndFrame
+D008F97E 2442
+8008F97C 0000
+
+[Unlock Extras Color Change Option & Stage Select]
+Type = Gameshark
+Activation = EndFrame
+A604D3A4 00000001
+A604D436 00000001
+
+[Infinite Time Play Strider 2]
+Type = Gameshark
+Activation = EndFrame
+800D9D6A 6363
+
+[Infinite Health Strider 2]
+Type = Gameshark
+Activation = EndFrame
+800AB99A 000A
+
+[Boost item MAX]
+Type = Gameshark
+Activation = EndFrame
+800ABAA0 0004
+
+[Does not decrease boost time]
+Type = Gameshark
+Activation = EndFrame
+800ABA90 0130
+
+[Boost state at any time]
+Type = Gameshark
+Activation = EndFrame
+300ABABF 0001
+
+[It does not decrease TIME]
+Type = Gameshark
+Activation = EndFrame
+800D9D6A 0000
+
+[Unlock Boost Option, Hien Mode, & Stage 0]
+Type = Gameshark
+Activation = EndFrame
+800A8CC0 0101
+300A8CC2 0001
+

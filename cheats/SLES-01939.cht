@@ -1,0 +1,55 @@
+; CHTDB: ; [ Ruff & Tumble (Germany) {SLES-01939} ]
+
+[Unendlich Leben]
+Type = Gameshark
+Activation = EndFrame
+80013352 3C00
+
+[Unendlich Energie]
+Type = Gameshark
+Activation = EndFrame
+8001326E 3C00
+
+[Unendlich Monde]
+Type = Gameshark
+Activation = EndFrame
+8003280E 3C00
+
+[Unendlich Luft]
+Type = Gameshark
+Activation = EndFrame
+8002B8CE 3C00
+
+[Unendlich KostüMzeit]
+Type = Gameshark
+Activation = EndFrame
+8002C452 3C00
+
+[99 ZahnräDer]
+Type = Gameshark
+Activation = EndFrame
+800B4DD6 0063
+
+[Unendlich Zeichen]
+Type = Gameshark
+Activation = EndFrame
+800B4DE0 0063
+
+[Alle TraumschlüSsel]
+Type = Gameshark
+Activation = EndFrame
+50000C02 0000
+80094CC8 FFFF
+
+[Alle Level GeöFfnet]
+Type = Gameshark
+Activation = EndFrame
+50000202 0000
+80093CC2 FFFF
+
+[Alle Winks]
+Type = Gameshark
+Activation = EndFrame
+50000302 0000
+80094CB8 FFFF
+

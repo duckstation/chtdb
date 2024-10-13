@@ -1,0 +1,12 @@
+; CHTDB: ; [ The Oni Taiji!!: Mezase! Nidaime Momotarou (Japan) {SLPS-00089} ]
+
+[P1 Have 9999 money]
+Type = Gameshark
+Activation = EndFrame
+800E002A 270F
+
+[Have always 9 items of 2 dices]
+Type = Gameshark
+Activation = EndFrame
+800E0040 0009
+

@@ -1,0 +1,12 @@
+; CHTDB: ; [ Lone Soldier (Europe) {SLES-00131} ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800B7EB4 017F
+
+[Infinite Grenades]
+Type = Gameshark
+Activation = EndFrame
+801F1BA8 0004
+

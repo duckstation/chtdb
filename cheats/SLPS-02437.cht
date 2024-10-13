@@ -1,0 +1,22 @@
+; CHTDB: ; [ Simple 1500 Series Vol. 1: The Mahjong (Japan) {SLPS-02437} ]
+
+[Player has 99900 points]
+Type = Gameshark
+Activation = EndFrame
+80079408 03E7
+
+[Opponent 1 has 0 points]
+Type = Gameshark
+Activation = EndFrame
+80079414 0000
+
+[Opponent 2 has 0 points]
+Type = Gameshark
+Activation = EndFrame
+80079410 0000
+
+[Opponent 3 has 0 points]
+Type = Gameshark
+Activation = EndFrame
+8007940C 0000
+

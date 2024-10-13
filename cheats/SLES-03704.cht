@@ -1,0 +1,22 @@
+; CHTDB: ; [ Nickelodeon SpongeBob SquarePants: SuperSponge (Europe) {SLES-03704} ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800A2671 0009
+
+[Have 99 Tokens Level 1]
+Type = Gameshark
+Activation = EndFrame
+80192500 0063
+
+[Infinite Oxygen Level 2]
+Type = Gameshark
+Activation = EndFrame
+80191A18 2328
+
+[Have 99 Tokens Level 2]
+Type = Gameshark
+Activation = EndFrame
+80191A10 0063
+

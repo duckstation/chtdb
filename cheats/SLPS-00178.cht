@@ -1,0 +1,7 @@
+; CHTDB: ; [ The Match Golf (Japan) {SLPS-00178} ]
+
+[Always hole in one]
+Type = Gameshark
+Activation = EndFrame
+8017DB58 0001
+

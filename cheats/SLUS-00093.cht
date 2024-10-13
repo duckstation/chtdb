@@ -1,0 +1,97 @@
+; CHTDB: ; [ Steel Harbinger (USA) (1996) (Mindscape) {SLUS-00093} <steelhrb> ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8009A07C 03E8
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+8003A0C0 270F
+
+[Infinite Machine Gun Ammo]
+Type = Gameshark
+Activation = EndFrame
+80124576 00C8
+
+[Infinite Heatseeker Ammo]
+Type = Gameshark
+Activation = EndFrame
+8012457A 00C8
+
+[Infinite Peterson Ammo]
+Type = Gameshark
+Activation = EndFrame
+8012457E 00C8
+
+[Infinite Plasma Ammo]
+Type = Gameshark
+Activation = EndFrame
+80124582 00C8
+
+[Infinite Rocket Launcher Ammo]
+Type = Gameshark
+Activation = EndFrame
+80124586 00C8
+
+[Infinite Grenade Launcher Ammo]
+Type = Gameshark
+Activation = EndFrame
+8012458A 00C8
+
+[Infinite Flare Gun Ammo]
+Type = Gameshark
+Activation = EndFrame
+8012458E 00C8
+
+[Infinite Shockwave Pulse Grenade Ammo]
+Type = Gameshark
+Activation = EndFrame
+80124592 00C8
+
+[Infinite Icarus Ammo]
+Type = Gameshark
+Activation = EndFrame
+80124596 00C8
+
+[Have Heatseeker]
+Type = Gameshark
+Activation = EndFrame
+80124578 0001
+
+[Have Peterson Rifle]
+Type = Gameshark
+Activation = EndFrame
+8012457C 0101
+
+[Have Plasma Rifle]
+Type = Gameshark
+Activation = EndFrame
+80124580 0201
+
+[Have Rocket Launcher]
+Type = Gameshark
+Activation = EndFrame
+80124584 0401
+
+[Have Gx-10 Grenade Launcher]
+Type = Gameshark
+Activation = EndFrame
+80124588 0501
+
+[Have Flare Gun]
+Type = Gameshark
+Activation = EndFrame
+8012458C 0601
+
+[Have Shockwave Pulse Grenade]
+Type = Gameshark
+Activation = EndFrame
+80124590 0701
+
+[Have Icarus Beam]
+Type = Gameshark
+Activation = EndFrame
+80124594 0801
+

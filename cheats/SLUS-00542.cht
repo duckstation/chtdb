@@ -1,0 +1,48 @@
+; CHTDB: ; [ Rascal (USA) (1998) (Psygnosis) {SLUS-00542} <rascal> ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8009B162 001F
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8009AEB4 0003
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+8011CD1E 0092
+
+[Infinite Green Weapon Energy]
+Type = Gameshark
+Activation = EndFrame
+8009AF0E 0024
+
+[Always Have Red Homing Gun With Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+8009AC0C 0006
+
+[Moon Jump For the moon jump use the default controller settings only. Hold X down to rise higher]
+Type = Gameshark
+Activation = EndFrame
+D009B150 0001
+800C16C4 0100
+
+[Infinite Oxygen]
+Type = Gameshark
+Activation = EndFrame
+8009B030 0EF3
+
+[Have All Keys]
+Type = Gameshark
+Activation = EndFrame
+801BE98A 0001
+
+[Room + Stage Skip Press R1 and R2 buttons to scroll forward for each and hold the buttons to warp there]
+Type = Gameshark
+Activation = EndFrame
+3009B334 0001
+

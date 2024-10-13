@@ -1,0 +1,234 @@
+; CHTDB: ; [ Parasite Eve II (USA) (2000) (Square Electronic Arts) {SLUS-01042 / SLUS-01055} <parasev2> ]
+
+[Infinite + Max HP]
+Type = Gameshark
+Activation = EndFrame
+90073BA0 03E703E7
+
+[Infinite + Max MP]
+Type = Gameshark
+Activation = EndFrame
+80073BA4 03E703E7
+
+[Max BP]
+Type = Gameshark
+Activation = EndFrame
+90073B94 0098967F
+
+[Max Exp]
+Type = Gameshark
+Activation = EndFrame
+90073B90 0098967F
+
+[Go through Locked Doors]
+Type = Gameshark
+Activation = EndFrame
+A70ADF06 10401400
+A70AE0E2 14401000
+
+[Easier Battles]
+Type = Gameshark
+Activation = EndFrame
+A71053C6 1C401400
+A71153C6 1C401400
+A71253C6 1C401400
+A71353C6 1C401400
+A71453C6 1C401400
+A71553C6 1C401400
+A71653C6 1C401400
+A71753C6 1C401400
+A71853C6 1C401400
+A71953C6 1C401400
+
+[Have All Key Items]
+Type = Gameshark
+Activation = EndFrame
+90072714 FFFFFFFF
+80072718 FFFF
+
+[Have All Modes Available At Start Of A New Game]
+Type = Gameshark
+Activation = EndFrame
+30072176 0001
+80185040 0404
+
+[Infinite Ammo For All Primary Weapons]
+Type = Gameshark
+Activation = EndFrame
+D00B6E1A 9205
+800B6E1C 2400
+
+[Infinite Ammo For All Secondary Attachment Weapons]
+Type = Gameshark
+Activation = EndFrame
+D00B6E7A 9205
+800B6E7C 2400
+
+[Upgrade PE energy once to have lvl 3]
+Type = Gameshark
+Activation = EndFrame
+800D35DC 0003
+800D35DE 3402
+800D2B34 0003
+
+[Parasite Energy Doesn't Run Out]
+Description = Energy shot,Antibody,Metabolism effects never run out
+Type = Gameshark
+Activation = EndFrame
+A70A3156 24622400
+A70A3182 24622400
+A70A31AE 24622400
+
+[Aya Matrix Mode (Press Triangle)]
+Description = This code allows you to walk around freely while the rest is frozen in time
+Type = Gameshark
+Activation = EndFrame
+A710160E 14402400
+
+[Invincibility (No Hit)]
+Type = Gameshark
+Activation = EndFrame
+F40DBDC8 00AA0800
+AAAA4010 21208002
+2128AAAA AAAAAAAA
+AAAA00AA AAAAAAAA
+AAAAAAAA AAAAAAAA
+F40DBC1C 00AA0800
+AAAA4010 02006230
+AAAA40AA AAAAAAAA
+AAAA00AA AAAAAAAA
+AAAAAAAA AAAAAAAA
+
+[Turn Aya and NPC's invisible]
+Type = Gameshark
+Activation = EndFrame
+A70182E6 00402400
+
+[Clear see through menu without lines]
+Type = Gameshark
+Activation = EndFrame
+A70455EA 0C012400
+
+[Clear see through menu with lines]
+Type = Gameshark
+Activation = EndFrame
+A7045EF6 0C012400
+
+[Hide use]
+Type = Gameshark
+Activation = EndFrame
+A70D4F36 0C002400
+
+[Hide P.Energy]
+Type = Gameshark
+Activation = EndFrame
+A70CE6BA 0C002400
+
+[Hide map]
+Type = Gameshark
+Activation = EndFrame
+A70D529A 0C002400
+
+[Hide option]
+Type = Gameshark
+Activation = EndFrame
+A70CE7A2 0C002400
+
+[Hide key item]
+Type = Gameshark
+Activation = EndFrame
+A70D5036 0C002400
+
+[Hide exit]
+Type = Gameshark
+Activation = EndFrame
+A70CE8FA 0C002400
+
+[Mute Audio]
+Type = Gameshark
+Activation = EndFrame
+A704E506 0C012400
+
+[Speed up game "hold R3"]
+Type = Gameshark
+Activation = EndFrame
+A7027D7E 24000C00
+D7200000 00000400
+A7027D7E 0C002400
+
+[Force and cap game to 60 FPS]
+Type = Gameshark
+Activation = EndFrame
+A7014D42 0C002400
+
+[Turn screen black]
+Type = Gameshark
+Activation = EndFrame
+A7018726 0C002400
+
+[Remove Aya's right arm]
+Type = Gameshark
+Activation = EndFrame
+A703C7D6 0C002400
+
+[Turning Aya makes her head spin]
+Type = Gameshark
+Activation = EndFrame
+A70B4522 0C022400
+
+[Aya can moon jump "Hold Circle"]
+Type = Gameshark
+Activation = EndFrame
+A70DB72C 0008FFD0
+A70DB72E 03E027BD
+A70DB730 00000003
+A70DB732 00002404
+D7200000 00000020
+A70DB72C FFD00008
+A70DB72E 27BD03E0
+A70DB730 00030000
+A70DB732 24040000
+
+[Display full map]
+Type = Gameshark
+Activation = EndFrame
+A703EA26 0C002400
+
+[Quick draw weapon]
+Type = Gameshark
+Activation = EndFrame
+A7105876 14401000
+
+[Display ammo even out of battle]
+Type = Gameshark
+Activation = EndFrame
+A70A34DA 14622400
+
+[Disable huds out of battle]
+Type = Gameshark
+Activation = EndFrame
+A70A4472 14622400
+
+[Hide aiming crosshair]
+Type = Gameshark
+Activation = EndFrame
+A70D9ED6 10401000
+
+[Skip battle intro animation]
+Type = Gameshark
+Activation = EndFrame
+A70A3F42 14821000
+
+[Hit anywhere "Weapons"]
+Type = Gameshark
+Activation = EndFrame
+A70DC04A 1E201000
+A70DBAF6 10621000
+A70DBFFE 1C402400
+A70DC40A 10402400
+
+[Aim assist]
+Type = Gameshark
+Activation = EndFrame
+A710946E 10402400
+

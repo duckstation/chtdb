@@ -1,0 +1,77 @@
+; CHTDB: ; [ NFL Xtreme (USA) (1998) (989 Sports) {SCUS-94245} <nflxtrem> ]
+
+[Select Home Team Score\99]
+Type = Gameshark
+Activation = EndFrame
+800AF41C 0063
+
+[Select Home Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+800AF41C 0000
+
+[Select Away Team Score\99]
+Type = Gameshark
+Activation = EndFrame
+800AF41E 0063
+
+[Select Away Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+800AF41E 0000
+
+[Home Infinite Time Outs]
+Type = Gameshark
+Activation = EndFrame
+300AF67C 0003
+
+[Away Infinite Time Outs]
+Type = Gameshark
+Activation = EndFrame
+300AF67D 0003
+
+[Home No Time Outs]
+Type = Gameshark
+Activation = EndFrame
+300AF67C 0000
+
+[Away No Time Outs]
+Type = Gameshark
+Activation = EndFrame
+300AF67D 0000
+
+[Have Max Stats In Speed]
+Type = Gameshark
+Activation = EndFrame
+80060D38 0063
+
+[Have Max Stats In Stamina]
+Type = Gameshark
+Activation = EndFrame
+80060D40 0063
+
+[Have Max Stats In Quickness]
+Type = Gameshark
+Activation = EndFrame
+80060D48 0063
+
+[Have Max Stats In Arm Strength]
+Type = Gameshark
+Activation = EndFrame
+80060D50 0063
+
+[Have Max Stats In Accuracy]
+Type = Gameshark
+Activation = EndFrame
+80060D58 0063
+
+[Have Max Stats In Intelligence]
+Type = Gameshark
+Activation = EndFrame
+80060D60 0063
+
+[Have Max Stats In Tackling/Cover]
+Type = Gameshark
+Activation = EndFrame
+80060D68 0063
+

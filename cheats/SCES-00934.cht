@@ -1,0 +1,152 @@
+; CHTDB: ; [ Pac-Man World 20th Anniversary (Europe) {SCES-00934} ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+30154210 0004
+
+[Infinite Pac-Dots]
+Type = Gameshark
+Activation = EndFrame
+30154220 0063
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+3015421C 0063
+
+[Infinite Lives (Classic Mode)]
+Type = Gameshark
+Activation = EndFrame
+301A9A98 0003
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+80154210 0004
+
+[Have PACMAN]
+Type = Gameshark
+Activation = EndFrame
+D0147EC2 0001
+50000602 0000
+80154410 0001
+
+[Have All Mazes Completed & Gallery Open]
+Type = Gameshark
+Activation = EndFrame
+50000802 0000
+801542DE 00FF
+50001C02 0000
+8015435A 00FF
+
+[Unlock Factory L1]
+Type = Gameshark
+Activation = EndFrame
+801542CC 00FF
+
+[Unlock Factory L2]
+Type = Gameshark
+Activation = EndFrame
+801542D0 00FF
+
+[Unlock	Factory L3]
+Type = Gameshark
+Activation = EndFrame
+801542D4 00FF
+
+[Unlock	Factory L4]
+Type = Gameshark
+Activation = EndFrame
+801542D8 00FF
+
+[Unlock	Funhouse L1]
+Type = Gameshark
+Activation = EndFrame
+801542B0 00FF
+
+[Unlock	Funhouse L2]
+Type = Gameshark
+Activation = EndFrame
+801542B4 00FF
+
+[Unlock	Funhouse L3]
+Type = Gameshark
+Activation = EndFrame
+801542B8 00FF
+
+[Unlock Funhouse L4]
+Type = Gameshark
+Activation = EndFrame
+801542BC 00FF
+
+[Unlock	Mansion L1]
+Type = Gameshark
+Activation = EndFrame
+801542C0 00FF
+
+[Unlock	Mansion L2]
+Type = Gameshark
+Activation = EndFrame
+801542C4 00FF
+
+[Unlock	Mansion L3]
+Type = Gameshark
+Activation = EndFrame
+801542C8 00FF
+
+[Unlock	Pirate L1]
+Type = Gameshark
+Activation = EndFrame
+8015443C 00FF
+
+[Unlock	Pirate L2]
+Type = Gameshark
+Activation = EndFrame
+80154430 00FF
+
+[Unlock	Pirate L3]
+Type = Gameshark
+Activation = EndFrame
+80154434 00FF
+
+[Unlock	Pirate L4]
+Type = Gameshark
+Activation = EndFrame
+80154438 00FF
+
+[Unlock	Ruins L1]
+Type = Gameshark
+Activation = EndFrame
+80154420 00FF
+
+[Unlock	Ruins L2]
+Type = Gameshark
+Activation = EndFrame
+80154424 00FF
+
+[Unlock	Ruins L3]
+Type = Gameshark
+Activation = EndFrame
+8015442C 00FF
+
+[Unlock	Space L1]
+Type = Gameshark
+Activation = EndFrame
+801542A0 00FF
+
+[Unlock	Space L2]
+Type = Gameshark
+Activation = EndFrame
+801542A4 00FF
+
+[Unlock	Space L3]
+Type = Gameshark
+Activation = EndFrame
+801542A8 00FF
+
+[Unlock	Space L4]
+Type = Gameshark
+Activation = EndFrame
+801542AC 00FF
+

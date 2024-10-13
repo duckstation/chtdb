@@ -1,0 +1,17 @@
+; CHTDB: ; [ Mobile Light Force (USA) (2003) (XS Games) {SLUS-01525} <mlforce> ]
+
+[Infinite Bombs]
+Type = Gameshark
+Activation = EndFrame
+801A221C 0009
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801A2218 0009
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+801A2236 0010
+

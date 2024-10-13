@@ -1,0 +1,19 @@
+; CHTDB: ; [ Wing Commander IV: The Price of Freedom (Germany) {SLES-00661 | SLES-10661 | SLES-20661 | SLES-30661} ]
+
+[Unendlich Geschosse]
+Type = Gameshark
+Activation = EndFrame
+80110B4E 3C00
+
+[Laser überhitzen nicht]
+Type = Gameshark
+Activation = EndFrame
+E009365C 0080
+801E6A70 04B0
+
+[Laser überhitzen nicht (Analog-Steuerung)]
+Type = Gameshark
+Activation = EndFrame
+D009365C 0008
+801E6A70 04B0
+

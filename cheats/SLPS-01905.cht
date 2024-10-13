@@ -1,0 +1,45 @@
+; CHTDB: ; [ Eberouge 2 (Japan) {SLPS-01905} ]
+
+[All character stats 999]
+Type = Gameshark
+Activation = EndFrame
+801F8014 03E7
+801F801C 03E7
+801F8024 03E7
+801F802C 03E7
+801F8034 03E7
+801F803C 03E7
+801F8044 03E7
+801F804C 03E7
+
+[Dora favorability MAX]
+Type = Gameshark
+Activation = EndFrame
+801CA1B4 01F4
+
+[Mar favorability MAX]
+Type = Gameshark
+Activation = EndFrame
+801CA1B8 01F4
+
+[Mel favorability MAX]
+Type = Gameshark
+Activation = EndFrame
+801CA1BC 01F4
+
+[Fels favorability MAX]
+Type = Gameshark
+Activation = EndFrame
+801CA1C0 01F4
+
+[Altena favorability MAX]
+Type = Gameshark
+Activation = EndFrame
+801CA1C4 01F4
+
+[All itemss]
+Type = Gameshark
+Activation = EndFrame
+50003704 0000
+301C7A54 0001
+

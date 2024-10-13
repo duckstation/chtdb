@@ -1,0 +1,117 @@
+; CHTDB: ; [ Syphon Filter (Spain) {SCES-01914} ]
+
+[Infinite Health Geargia Street]
+Type = Gameshark
+Activation = EndFrame
+801A8E4E 0258
+
+[Infinite Health Destroyed Subway]
+Type = Gameshark
+Activation = EndFrame
+801A3682 0258
+
+[Infinite Health Main Subway Line]
+Type = Gameshark
+Activation = EndFrame
+801C75B2 0258
+
+[Infinite Health Washington Park]
+Type = Gameshark
+Activation = EndFrame
+801AA6AA 0258
+
+[Infinite Health Freedom Memorial]
+Type = Gameshark
+Activation = EndFrame
+801C09B6 0258
+
+[Infinite Health Expo Centre Reception]
+Type = Gameshark
+Activation = EndFrame
+801AC626 0258
+
+[Infinite Health Expo Centre Binorama]
+Type = Gameshark
+Activation = EndFrame
+801A9B72 0258
+
+[Infinite Health Rhoemers Base]
+Type = Gameshark
+Activation = EndFrame
+801A9636 0258
+
+[Infinite Health Base Bunker]
+Type = Gameshark
+Activation = EndFrame
+801B392A 0258
+
+[Infinite Health Base Tower]
+Type = Gameshark
+Activation = EndFrame
+801C53FA 0258
+
+[Infinite Health Base Escape]
+Type = Gameshark
+Activation = EndFrame
+801AEAEA 0258
+
+[Infinite Health Rhoemers Stronghold]
+Type = Gameshark
+Activation = EndFrame
+801ADB02 0258
+
+[Infinite Health Stronghold Lower Level]
+Type = Gameshark
+Activation = EndFrame
+801AB572 0258
+
+[Infinite Health Stronghold Catacombs]
+Type = Gameshark
+Activation = EndFrame
+801AD406 0258
+
+[Infinite Health Pharcom Warehouse]
+Type = Gameshark
+Activation = EndFrame
+801AB1DE 0258
+
+[Infinite Health Pharcom Elite Guards]
+Type = Gameshark
+Activation = EndFrame
+801A4252 0258
+
+[Infinite Health Warehouse 76]
+Type = Gameshark
+Activation = EndFrame
+801B6F4A 0258
+
+[Infinite Health Silo Access Tunnels]
+Type = Gameshark
+Activation = EndFrame
+801A27F2 0258
+
+[Infinite Health Tunnel Blackout]
+Type = Gameshark
+Activation = EndFrame
+801B0F4E 0258
+
+[Infinite Health Missile Silo]
+Type = Gameshark
+Activation = EndFrame
+801ADABE 0258
+
+[Infinite Municion Pistola]
+Type = Gameshark
+Activation = EndFrame
+8012FDD6 0032
+
+[Infinite Municion Rifle]
+Type = Gameshark
+Activation = EndFrame
+8012FD06 0063
+
+[Have All Levels In Level Select Screen]
+Type = Gameshark
+Activation = EndFrame
+801470BE 0B14
+

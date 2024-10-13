@@ -1,0 +1,69 @@
+; CHTDB: ; [ Ace Combat 2 (Europe) {SCES-00699} ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+9002C4D4 3241000F
+8002C4DA 2400
+9002C4DC 1020001A
+
+[Infinite Fuel]
+Type = Gameshark
+Activation = EndFrame
+80039518 2400
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+90010C1C 0098967F
+
+[Infinite Missiles]
+Type = Gameshark
+Activation = EndFrame
+8002CC3A 2400
+
+[Can't die from hitting ground]
+Type = Gameshark
+Activation = EndFrame
+8002F8D2 1000
+
+[Have all planes]
+Type = Gameshark
+Activation = EndFrame
+50000902 0000
+80010C44 0101
+
+[Rapid fire missiles]
+Type = Gameshark
+Activation = EndFrame
+9002C478 00000000
+
+[Open free mission & music]
+Type = Gameshark
+Activation = EndFrame
+80010AB4 0701
+50000F02 0000
+800108B4 0303
+50001802 0000
+80010A84 0001
+
+[Level up]
+Type = Gameshark
+Activation = EndFrame
+80010C20 7530
+
+[Max planes destroyed]
+Type = Gameshark
+Activation = EndFrame
+90010A7C 05F5E0FF
+
+[No hits taken]
+Type = Gameshark
+Activation = EndFrame
+80010A80 0000
+
+[Best ranking]
+Type = Gameshark
+Activation = EndFrame
+800B8490 0014
+

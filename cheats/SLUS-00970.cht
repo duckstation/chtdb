@@ -1,0 +1,72 @@
+; CHTDB: ; [ Gekido - Urban Fighters (USA) (2000) (Interplay Entertainment) {SLUS-00970} <gekido> ]
+
+[Stop Timer]
+Type = Gameshark
+Activation = EndFrame
+D001DB90 6AE6
+8001DB92 2400
+
+[P1 Refill Energy (Press R1)]
+Type = Gameshark
+Activation = EndFrame
+D00AED32 F7FF
+800BE146 0906
+
+[P2 Refill Health (Press R1)]
+Type = Gameshark
+Activation = EndFrame
+D00B6C74 F7FF
+800BE2E6 0906
+
+[P3 Refill Health (Press R1)]
+Type = Gameshark
+Activation = EndFrame
+D00BEBB6 F7FF
+800BE486 0906
+
+[P4 Refill Health (Press R1)]
+Type = Gameshark
+Activation = EndFrame
+D00C6AF8 F7FF
+800BE626 0906
+
+[P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800BE164 0003
+
+[P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800BE304 0003
+
+[Unlock All Arenas]
+Type = Gameshark
+Activation = EndFrame
+800B717C FFFF
+
+[Unlock All Characters]
+Type = Gameshark
+Activation = EndFrame
+800B7170 FFFF
+
+[Invincibility (All Characters)]
+Type = Gameshark
+Activation = EndFrame
+801FEE34 0005
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A70119E0 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A70119E0 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A70119E0 10000400
+

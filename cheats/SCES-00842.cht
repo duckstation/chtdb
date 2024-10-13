@@ -1,0 +1,159 @@
+; CHTDB: ; [ Armored Core (Europe) {SCES-00842} ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80041626 6D60
+
+[Infinite Weapon 1]
+Type = Gameshark
+Activation = EndFrame
+800418F2 00C8
+
+[Infinite Weapon 2]
+Type = Gameshark
+Activation = EndFrame
+A604192E 002000C8
+
+[Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+801A2EE0 7000
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+8019FBF4 FFFF
+
+[Change View To Far View]
+Type = Gameshark
+Activation = EndFrame
+80198EB4 F3E7
+
+[Change View To Left View]
+Type = Gameshark
+Activation = EndFrame
+80198EBC F3E7
+
+[Have All Head Parts]
+Type = Gameshark
+Activation = EndFrame
+90032058 01010101
+9003205C 01010101
+80032060 0101
+
+[Have All Core Parts]
+Type = Gameshark
+Activation = EndFrame
+80032062 0101
+80032064 0101
+
+[Have All Arm Parts]
+Type = Gameshark
+Activation = EndFrame
+80032066 0101
+90032068 01010101
+9003206C 01010101
+90032070 01010101
+80032074 0101
+
+[Have All Leg Parts (Set 1)]
+Type = Gameshark
+Activation = EndFrame
+80032076 0101
+90032078 01010101
+9003207C 01010101
+90032080 01010101
+90032084 01010101
+80032088 0101
+
+[Have All Leg Parts (Set 2)]
+Type = Gameshark
+Activation = EndFrame
+8003208A 0101
+9003208C 01010101
+90032090 01010101
+80032094 0101
+
+[Have All Generator Parts]
+Type = Gameshark
+Activation = EndFrame
+80032096 0101
+90032098 01010101
+
+[Have All Fcs Parts]
+Type = Gameshark
+Activation = EndFrame
+9003209C 01010101
+900320A0 01010101
+
+[Have All Optional Parts]
+Type = Gameshark
+Activation = EndFrame
+900320A4 01010101
+900320A8 01010101
+900320AC 01010101
+
+[Have All Booster Parts]
+Type = Gameshark
+Activation = EndFrame
+900320B0 01010101
+800320B4 0101
+
+[Have All Left & Right Back Weapons (Set 1)]
+Type = Gameshark
+Activation = EndFrame
+800320B6 0101
+900320B8 01010101
+900320BC 01010101
+900320C0 01010101
+900320C4 01010101
+800320C8 0101
+
+[Have All Left & Right Back Weapons (Set 2)]
+Type = Gameshark
+Activation = EndFrame
+800320CA 0101
+900320CC 01010101
+900320D0 01010101
+900320D4 01010101
+
+[Have All Right Arm Weapons]
+Type = Gameshark
+Activation = EndFrame
+900320D8 01010101
+900320DC 01010101
+900320E0 01010101
+900320E4 01010101
+
+[Have All Left Arm Weapons]
+Type = Gameshark
+Activation = EndFrame
+900320E8 01010101
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+8003A2D6 00FF
+
+[Infinite Weapon 3]
+Type = Gameshark
+Activation = EndFrame
+8004196A 00C8
+
+[FPS unlock "Might want to underclock"]
+Type = Gameshark
+Activation = EndFrame
+A70164E6 04612400
+
+[Use right analog to look up/down]
+Type = Gameshark
+Activation = EndFrame
+A7079AA2 24001040
+D7200000 00040000
+A7079AA2 10402400
+00000000 0000FFFF
+A7079AE6 24001040
+D7200000 00010000
+A7079AE6 10402400
+

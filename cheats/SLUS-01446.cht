@@ -1,0 +1,24 @@
+; CHTDB: ; [ Dance Dance Revolution Konamix (USA) (2002) (Konami of America) {SLUS-01446, SLUS-01446GH} <ddrkonam> ]
+
+[Dance Meter Full]
+Type = Gameshark
+Activation = EndFrame
+800C23EA 03FF
+
+[Max Score]
+Type = Gameshark
+Activation = EndFrame
+900C23F4 3B9AC9FF
+
+[All Lessons Clear]
+Type = Gameshark
+Activation = EndFrame
+50000C02 0000
+800E5628 0202
+
+[Unlock All Songs + Modes]
+Type = Gameshark
+Activation = EndFrame
+800E4108 FFFF
+300E410A 000F
+

@@ -1,0 +1,72 @@
+; CHTDB: ; [ Waku Puyo Dungeon: Ketteiban (Japan) {SLPS-01966} ]
+
+[Infinite + Max Money]
+Type = Gameshark
+Activation = EndFrame
+9010CF80 0098967F
+
+[Infinite + Max HP for the three characters]
+Type = Gameshark
+Activation = EndFrame
+8010CF86 03E7
+8010CF88 03E7
+
+[Infinite + Max MP for the three characters]
+Type = Gameshark
+Activation = EndFrame
+9010CF8C 03E703E7
+
+[Max power]
+Type = Gameshark
+Activation = EndFrame
+8010CF92 03E7
+
+[Max technology]
+Type = Gameshark
+Activation = EndFrame
+8010CF96 03E7
+
+[Max Magic]
+Type = Gameshark
+Activation = EndFrame
+8010CF9A 03E7
+
+[Max luck]
+Type = Gameshark
+Activation = EndFrame
+8010CF9E 03E7
+
+[NPC Character\Infinite HP / Max HP]
+Type = Gameshark
+Activation = EndFrame
+8010B116 270F
+8010B118 270F
+
+[NPC Character\Max Level]
+Type = Gameshark
+Activation = EndFrame
+8010B114 03E7
+
+[OK Status]
+Type = Gameshark
+Activation = EndFrame
+3010CFC8 007F
+
+[Press L1+X for Float Ability]
+Type = Gameshark
+Activation = EndFrame
+E0112110 0044
+3010CFCE 0080
+
+[Press R1+X for Wall-Breaking Ability]
+Type = Gameshark
+Activation = EndFrame
+E0112110 0048
+3010CFCF 0001
+
+[Press L2+X for Invincibility]
+Type = Gameshark
+Activation = EndFrame
+E0112110 0041
+3010CFCD 0040
+

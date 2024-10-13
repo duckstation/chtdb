@@ -1,0 +1,12 @@
+; CHTDB: ; [ Starwinder: The Ultimate Space Race (Europe) {SLES-00090} ]
+
+[Timer 00.00.00]
+Type = Gameshark
+Activation = EndFrame
+3002D7DA 0020
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+80155ED0 0063
+

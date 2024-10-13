@@ -1,0 +1,122 @@
+; CHTDB: ; [ Rush Hour (USA) (1997) (Psygnosis) {SCUS-94417} <rushhour> ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+801042BC 0063
+
+[Have Extra Vehicles]
+Type = Gameshark
+Activation = EndFrame
+801074D4 FFFF
+
+[Have Super Championship Mode]
+Type = Gameshark
+Activation = EndFrame
+801074D8 FFFF
+
+[Have Reverse Mode]
+Type = Gameshark
+Activation = EndFrame
+801074D6 FFFF
+
+[P1 Always On Lap 1]
+Type = Gameshark
+Activation = EndFrame
+801022AC 0000
+
+[P1 Starts On Lap 2]
+Type = Gameshark
+Activation = EndFrame
+A61022AC 00000001
+
+[P1 Lap Time Always Under 0'01'00]
+Type = Gameshark
+Activation = EndFrame
+80101F10 0000
+
+[P1 Select Car\Europa Tourer/Ranger]
+Type = Gameshark
+Activation = EndFrame
+801CBD4C 0000
+
+[P1 Select Car\Yellow Thunder/Dune Buggy]
+Type = Gameshark
+Activation = EndFrame
+801CBD4C 0001
+
+[P1 Select Car\Red Flash/Jeepste]
+Type = Gameshark
+Activation = EndFrame
+801CBD4C 0002
+
+[P1 Select Car\Silver Bullet/Dallas Pick-up]
+Type = Gameshark
+Activation = EndFrame
+801CBD4C 0003
+
+[P1 Select Car\Super Blue/HGV]
+Type = Gameshark
+Activation = EndFrame
+801CBD4C 0004
+
+[P1 Select Car\Stock Car/Monster Truck]
+Type = Gameshark
+Activation = EndFrame
+801CBD4C 0005
+
+[P1 Select Car\Hot Hatch/Trooper]
+Type = Gameshark
+Activation = EndFrame
+801CBD4C 0006
+
+[P1 Select Car\My Saloon/Badger]
+Type = Gameshark
+Activation = EndFrame
+801CBD4C 0007
+
+[Select Track\Atlantic Trail]
+Type = Gameshark
+Activation = EndFrame
+8000E254 0000
+
+[Select Track\Country Valley]
+Type = Gameshark
+Activation = EndFrame
+8000E254 0001
+
+[Select Track\Yukon Pass]
+Type = Gameshark
+Activation = EndFrame
+8000E254 0002
+
+[Select Track\Downtown]
+Type = Gameshark
+Activation = EndFrame
+8000E254 0003
+
+[Select Track\Tuscan Gorge]
+Type = Gameshark
+Activation = EndFrame
+8000E254 0004
+
+[Select Track\Cub Raceway]
+Type = Gameshark
+Activation = EndFrame
+8000E254 0005
+
+[Select Track\Pacific Dream]
+Type = Gameshark
+Activation = EndFrame
+8000E254 0006
+
+[Select Track\Golden Sand]
+Type = Gameshark
+Activation = EndFrame
+8000E254 0007
+
+[Select Track\Sunken City]
+Type = Gameshark
+Activation = EndFrame
+8000E254 0008
+

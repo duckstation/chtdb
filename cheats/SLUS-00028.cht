@@ -1,0 +1,24 @@
+; CHTDB: ; [ Shockwave Assault (USA) (1995) (Electronic Arts) {SLUS-00028 / SLUS-00137} <shockwav> ]
+
+[Infinite Laser]
+Type = Gameshark
+Activation = EndFrame
+8006EBDC 2C2B
+
+[Infinite Missiles]
+Type = Gameshark
+Activation = EndFrame
+8006E7DC 000F
+8006EBE0 000F
+
+[Infinite Fuel]
+Type = Gameshark
+Activation = EndFrame
+8006B550 017B
+8006B554 002B
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8006B5A8 0168
+

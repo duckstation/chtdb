@@ -1,0 +1,21 @@
+; CHTDB: ; [ World Tour Conductor: Sekai Yume Kikou (Japan) {SLPS-02231} ]
+
+[Does not decrease the time limit]
+Type = Gameshark
+Activation = EndFrame
+A60C5000 FFFF0000
+
+[Correct answer anything Press Select+L1]
+Type = Gameshark
+Activation = EndFrame
+D01FBD7E 0104
+800C59B6 A040
+D01FBD7E 0108
+800C59B6 A045
+
+[Album fully opened]
+Type = Gameshark
+Activation = EndFrame
+50002402 0000
+80010200 0101
+

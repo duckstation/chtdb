@@ -1,0 +1,28 @@
+; CHTDB: ; [ Slime Shiyou! (Japan) {SLPS-00504} ]
+
+[ID Max]
+Type = Gameshark
+Activation = EndFrame
+801B8000 03E7
+
+[Rank + 01h]
+Type = Gameshark
+Activation = EndFrame
+301B8030 00FF
+301B8035 00FF
+
+[Weight Max]
+Type = Gameshark
+Activation = EndFrame
+901B803C 0001869F
+
+[Life Max]
+Type = Gameshark
+Activation = EndFrame
+901B8040 0001869F
+
+[Height	Max]
+Type = Gameshark
+Activation = EndFrame
+801B8044 03E7
+

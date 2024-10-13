@@ -1,0 +1,159 @@
+; CHTDB: ; [ K-1 The Arena Fighters (USA) (1997) (THQ) {SLUS-00414} <k1arena> ]
+
+[P1 Infinite Stamina]
+Type = Gameshark
+Activation = EndFrame
+800B44B4 01F4
+
+[P2 Infinite Stamina]
+Type = Gameshark
+Activation = EndFrame
+800B44B8 01F4
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800B44BC 03E8
+
+[P2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800B44C0 03E8
+
+[P1 Always Have 0 Knock-Downs]
+Type = Gameshark
+Activation = EndFrame
+800B44D4 0000
+
+[P2 Always Have 0 Knock-Downs]
+Type = Gameshark
+Activation = EndFrame
+800B44D4 0000
+
+[Infinite Time In Round]
+Type = Gameshark
+Activation = EndFrame
+800B45E0 0000
+
+[P1 Start With 1 Knock-Down]
+Type = Gameshark
+Activation = EndFrame
+A60B44D4 00000001
+
+[P2 Start With 1 Knock-Down]
+Type = Gameshark
+Activation = EndFrame
+A60B44D4 00000001
+
+[P1 Start With 2 Knock-Down]
+Type = Gameshark
+Activation = EndFrame
+A60B44D4 00000002
+
+[P2 Start With 2 Knock-Down]
+Type = Gameshark
+Activation = EndFrame
+A60B44D4 00000002
+
+[P1 25% Energy]
+Type = Gameshark
+Activation = EndFrame
+D00B44BC 03E8
+800B44C4 03E7
+800B44BC 00FA
+
+[P1 50% Energy]
+Type = Gameshark
+Activation = EndFrame
+D00B44BC 03E8
+800B44C4 03E7
+800B44BC 02EE
+
+[P2 25% Energy]
+Type = Gameshark
+Activation = EndFrame
+D00B44C0 03E8
+800B44C8 03E7
+800B44C0 00FA
+
+[P2 50% Energy]
+Type = Gameshark
+Activation = EndFrame
+D00B44C0 03E8
+800B44C8 03E7
+800B44C0 02EE
+
+[P1 No Energy]
+Type = Gameshark
+Activation = EndFrame
+800B44BC 0000
+
+[P2 No Energy]
+Type = Gameshark
+Activation = EndFrame
+800B44C0 0000
+
+[P1 1-Hit Death]
+Type = Gameshark
+Activation = EndFrame
+D00B44BC 03E8
+800B44C4 0001
+800B44BC 0001
+
+[P2 1-Hit Death]
+Type = Gameshark
+Activation = EndFrame
+D00B44C0 03E8
+800B44C8 0001
+800B44C0 0001
+
+[P1 When Energy is Full, It Goes To 25% Energy]
+Type = Gameshark
+Activation = EndFrame
+A60B44BC 03E800FA
+
+[P1 When Energy is Full, It Goes To 50% Energy]
+Type = Gameshark
+Activation = EndFrame
+A60B44BC 03E801F4
+
+[P1 When Energy is Full, It Goes To 75% Energy]
+Type = Gameshark
+Activation = EndFrame
+A60B44BC 03E802EE
+
+[P2 When Energy is Full, It Goes To 25% Energy]
+Type = Gameshark
+Activation = EndFrame
+A60B44C0 03E800FA
+
+[P2 When Energy is Full, It Goes To 50% Energy]
+Type = Gameshark
+Activation = EndFrame
+A60B44C0 03E801F4
+
+[P2 When Energy is Full, It Goes To 75% Energy]
+Type = Gameshark
+Activation = EndFrame
+A60B44C0 03E802EE
+
+[Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+800B49D4 0003
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A70FE91C 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A70FE91C 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A70FE91C 10000400
+

@@ -1,0 +1,93 @@
+; CHTDB: ; [ X-Men vs. Street Fighter (USA) (1998) (Capcom Entertainment) {SLUS-00627} <xmvsf> ]
+
+[Press Select To Open Ex Menu At Main Menu]
+Type = Gameshark
+Activation = EndFrame
+D00420D0 0100
+80042180 0107
+
+[Do Insane Hit Anywhere Combo (Hold Select)]
+Description = You need to have hit the player at least once because it repeats your last attack
+Type = Gameshark
+Activation = EndFrame
+800327CA 00001040
+D7000000 00000100
+800327CA 00001400
+
+[Hit Anywhere]
+Type = Gameshark
+Activation = EndFrame
+A7032D2A 10401400
+A703346E 10401400
+
+[Hit Your Opponent Anywhere (ALT)]
+Type = Gameshark
+Activation = EndFrame
+8003346E 2400
+800334EE 2400
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80042C34 0090
+80042C3C 0090
+
+[P1 No Energy]
+Type = Gameshark
+Activation = EndFrame
+80042C34 0000
+80042C3C 0000
+
+[P1 Max Power Bar]
+Type = Gameshark
+Activation = EndFrame
+30042C38 0203
+
+[P1 Sudden Death Mode]
+Type = Gameshark
+Activation = EndFrame
+C0097D56 000A
+80042C34 0001
+80042C3C 0001
+00000000 FFFF
+
+[P1 Play As Apocalypse]
+Type = Gameshark
+Activation = EndFrame
+80042A64 0010
+
+[P1 Faster Character]
+Type = Gameshark
+Activation = EndFrame
+A7033F12 10402400
+
+[P2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80042F7C 0090
+80042F84 0090
+
+[P2 No Energy]
+Type = Gameshark
+Activation = EndFrame
+80042F7C 0000
+80042F84 0000
+
+[P2 Sudden Death Mode]
+Type = Gameshark
+Activation = EndFrame
+C0097D56 000A
+80042F7C 0001
+80042F84 0001
+00000000 FFFF
+
+[P2 Faster Character]
+Type = Gameshark
+Activation = EndFrame
+A7033E36 10402400
+
+[Uncap Gamespeed to 120 FPS]
+Type = Gameshark
+Activation = EndFrame
+A701199A 04812400
+

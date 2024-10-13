@@ -1,0 +1,39 @@
+; CHTDB: ; [ Bushido Blade (Europe) {SCES-00899} ]
+
+[Enable All Moves (Do not use in POV mode or story mode)]
+Type = Gameshark
+Activation = EndFrame
+800A14D0 FFFF
+
+[Stop Continue Timer]
+Type = Gameshark
+Activation = EndFrame
+800A14B4 011F
+
+[Extra Character]
+Type = Gameshark
+Activation = EndFrame
+80030BE6 1062
+
+[Instant Win]
+Type = Gameshark
+Activation = EndFrame
+800A10D8 FFFF
+8013D636 0001
+8013D524 0005
+
+[Unlock Katze in vs mode]
+Type = Gameshark
+Activation = EndFrame
+800A1004 0001
+
+[Enemies can`t move (This works in all modes except 2 Player-mode. Try to change the last digits for the enemy-moves. For instance with 3 the enemy starts only attacks to the torsO)]
+Type = Gameshark
+Activation = EndFrame
+8013D87C 0001
+
+[Level 10 & 90 Kills in Slash-mode (You have to produce 10 more kills with that code without using the continue-function - this results in getting Katze in Vs-Mode)]
+Type = Gameshark
+Activation = EndFrame
+800A15EC 0009
+

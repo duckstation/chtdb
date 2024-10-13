@@ -1,0 +1,77 @@
+; CHTDB: ; [ Star Ocean: The Second Story (Germany) {SCES-02161 | SCES-12161} ]
+
+[Unendlich Fp-Benutzung Alle]
+Type = Gameshark
+Activation = EndFrame
+D007EA80 FFF6
+8007EA8E 3C00
+
+[Unendlich Fol]
+Type = Gameshark
+Activation = EndFrame
+D003C656 0C00
+8003C65A 3C00
+
+[Unendlich Mp Alle]
+Type = Gameshark
+Activation = EndFrame
+D0037656 0044
+8003765A 3C00
+
+[Keine ZufallskäMpfe]
+Type = Gameshark
+Activation = EndFrame
+D002B5F8 0001
+8009C440 0000
+D002B5F8 0001
+8009C442 0001
+
+[Jederzeit speichern]
+Type = Gameshark
+Activation = EndFrame
+D002B706 FFFE
+3007428C 0001
+D002B706 F0FF
+3007428C 0000
+
+[Fol nimmt nicht ab Drücke L1 & L2]
+Type = Gameshark
+Activation = EndFrame
+D002B706 FAFF
+8007E960 0000
+
+[Objekte nehmen nicht ab]
+Type = Gameshark
+Activation = EndFrame
+D003C7EA 0800
+8003C7EE 0000
+D003C7EA 0800
+8003C7FA 0000
+
+[Zeit 0.00]
+Type = Gameshark
+Activation = EndFrame
+300136F2 0020
+
+[UE GP]
+Type = Gameshark
+Activation = EndFrame
+D003B360 488B
+8003B362 0000
+D003B57C 488B
+8003B57E 0000
+D003E314 437D
+8003E316 0000
+D003AEE4 437D
+8003AEE6 0000
+A603B360 488B0000
+A603B57C 488B0000
+A603E314 437D0000
+A603AEE4 437D0000
+
+[SuddenDeath (Drücke L3)]
+Type = Gameshark
+Activation = EndFrame
+D002B706 FFFD
+3005229E 0020
+

@@ -1,0 +1,56 @@
+; CHTDB: ; [ SD Gundam G Generation-F (Jpn, Limited Edition) (2000) (Bandai) {SLPS-02900~SLPS-02902} <sdgunggf> ]
+
+[Profile 100%]
+Type = Gameshark
+Activation = EndFrame
+50003502 0000
+800BE0B8 FFFF
+800BE122 01FF
+
+[Infinite EN]
+Type = Gameshark
+Activation = EndFrame
+D0030F64 3823
+80030F66 00E0
+
+[Infinite HP Shiro Hamada unit in battle]
+Type = Gameshark
+Activation = EndFrame
+800B0F38 189C
+
+[Infinite HP Shiro Hamada Gundam unit in battle]
+Type = Gameshark
+Activation = EndFrame
+800B0F28 1DB0
+
+[Infinite Movement]
+Type = Gameshark
+Activation = EndFrame
+A7137676 10401000
+
+[Mortal blow]
+Type = Gameshark
+Activation = EndFrame
+A70307E6 1C401400
+
+[MS UNIT fully open]
+Type = Gameshark
+Activation = EndFrame
+A703E59A 14401000
+
+[WS UNIT fully open]
+Type = Gameshark
+Activation = EndFrame
+A703E65E 14401000
+
+[SUPPORT UNIT fully open]
+Type = Gameshark
+Activation = EndFrame
+A703E6BA 14401400
+A703E6D6 10401000
+
+[CHARACTER fully open]
+Type = Gameshark
+Activation = EndFrame
+A703E766 14401000
+

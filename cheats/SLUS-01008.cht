@@ -1,0 +1,83 @@
+; CHTDB: ; [ The Smurfs (USA) (1999) (Infogrames) {SLUS-01008} <smurfs> ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800A2C9A 0003
+
+[Infinite Health in Story Mode (It's No Picnic) Start Of The Adventure]
+Type = Gameshark
+Activation = EndFrame
+801E24B4 000A
+
+[Infinite Health in Story Mode (It's No Picnic) Night Ride]
+Type = Gameshark
+Activation = EndFrame
+80195CB0 000A
+
+[Infinite Health in Story Mode (It's No Picnic) Underground Exploration]
+Type = Gameshark
+Activation = EndFrame
+801D2D6C 000A
+
+[Infinite Health in Story Mode (It's No Picnic) Snowbound]
+Type = Gameshark
+Activation = EndFrame
+801DB87C 000A
+
+[Infinite Health in Story Mode (It's No Picnic) On the Mountain Top]
+Type = Gameshark
+Activation = EndFrame
+801BB3D0 000A
+
+[Infinite Health in Story Mode (It's No Picnic) Alone in the Dark]
+Type = Gameshark
+Activation = EndFrame
+801E17BC 000A
+
+[Infinite Health in Story Mode (It's No Picnic) Ice Cave]
+Type = Gameshark
+Activation = EndFrame
+801BE5C0 000A
+
+[Infinite Health in Story Mode (It's No Picnic) The Diamond Mine]
+Type = Gameshark
+Activation = EndFrame
+801EAB60 000A
+
+[Infinite Health in Story Mode (It's No Picnic) Splish Splash]
+Type = Gameshark
+Activation = EndFrame
+80183BF4 000A
+
+[Infinite Health in Story Mode (It's No Picnic) Gargamel's Castle]
+Type = Gameshark
+Activation = EndFrame
+801DDAA0 000A
+
+[99 Bonus Points]
+Type = Gameshark
+Activation = EndFrame
+800A2C92 0063
+
+[Have 30 Quarter Moons]
+Type = Gameshark
+Activation = EndFrame
+800A2C96 001E
+
+[Infinite Rattles]
+Type = Gameshark
+Activation = EndFrame
+8009C66C 0063
+
+[Infinite Baby Bottles]
+Type = Gameshark
+Activation = EndFrame
+8009C664 0063
+
+[Unlock All Levels]
+Type = Gameshark
+Activation = EndFrame
+50000918 0000
+800A221C FFFF
+

@@ -1,0 +1,34 @@
+; CHTDB: ; [ Nickelodeon Rugrats - Studio Tour (USA) (1999) (THQ) {SLUS-00880} <rugstud> ]
+
+[Max Reptor Bars]
+Type = Gameshark
+Activation = EndFrame
+800C92FE 00FF
+
+[Have Max Keys]
+Type = Gameshark
+Activation = EndFrame
+800C92F8 00FF
+
+[Infinite Time (Zero Gees)]
+Type = Gameshark
+Activation = EndFrame
+80090262 2400
+
+[Infinite Battery Power]
+Type = Gameshark
+Activation = EndFrame
+80080AA6 2400
+
+[Infinite Booster Jumps]
+Type = Gameshark
+Activation = EndFrame
+300E75B3 0063
+
+[Auto Climb Obstacles]
+Type = Gameshark
+Activation = EndFrame
+A705C63A 04A11000
+A7060976 10401000
+A70609A2 14401400
+

@@ -1,0 +1,31 @@
+; CHTDB: ; [ Pandemonium! (Europe) {SLES-00526} ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+300940DC 0003
+
+[Max Heart-Points]
+Type = Gameshark
+Activation = EndFrame
+300940DD 0008
+300940DE 0008
+
+[Amount Of Diamonds=255]
+Type = Gameshark
+Activation = EndFrame
+800940E0 00FF
+
+[Infinite Shots]
+Type = Gameshark
+Activation = EndFrame
+800940E4 0001
+
+[Each coin gives the fireball power and the shield power]
+Type = Gameshark
+Activation = EndFrame
+800410D6 2400
+800410FE 2400
+80041196 2400
+8004119E 2400
+

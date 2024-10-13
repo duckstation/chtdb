@@ -1,0 +1,17 @@
+; CHTDB: ; [ Hit Back (Jpn) (1999) (Tomy) {SLPS-01361} <hitback> ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8018B2F4 0009
+
+[P1 Max Score]
+Type = Gameshark
+Activation = EndFrame
+901677BC 05F5E0FF
+
+[P2 Max Score]
+Type = Gameshark
+Activation = EndFrame
+901677C0 05F5E0FF
+

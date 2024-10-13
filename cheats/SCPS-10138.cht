@@ -1,0 +1,67 @@
+; CHTDB: ; [ Bealphareth (Jpn) (2000) (SCEI) {SCPS-10138} <bealphar> ]
+
+[Infinite HP Main Character]
+Type = Gameshark
+Activation = EndFrame
+800C3BF2 270F
+
+[Infinite HP Main Character (Girl)]
+Type = Gameshark
+Activation = EndFrame
+800C3D36 270F
+
+[Infinite HP Third Character]
+Type = Gameshark
+Activation = EndFrame
+800C3E7A 270F
+
+[Infinite HP Fourth Character (Archer)]
+Type = Gameshark
+Activation = EndFrame
+800C3FBE 270F
+
+[Infinite HP Fiith Character (Mage Girlr)]
+Type = Gameshark
+Activation = EndFrame
+800C4102 270F
+
+[Gold 999999]
+Type = Gameshark
+Activation = EndFrame
+90177E4C 0098967F
+
+[Mp Infinite]
+Type = Gameshark
+Activation = EndFrame
+A60444C6 00830080
+
+[??? Hpmax]
+Type = Gameshark
+Activation = EndFrame
+80177EF4 03E7
+
+[??? Mpmax]
+Type = Gameshark
+Activation = EndFrame
+80177EF6 03E7
+
+[???? Hpmax]
+Type = Gameshark
+Activation = EndFrame
+80177F6C 03E7
+
+[???? Mpmax]
+Type = Gameshark
+Activation = EndFrame
+80177F6E 03E7
+
+[?????? Hpmax]
+Type = Gameshark
+Activation = EndFrame
+80177ECC 03E7
+
+[?????? Mpmax]
+Type = Gameshark
+Activation = EndFrame
+80177ECE 03E7
+

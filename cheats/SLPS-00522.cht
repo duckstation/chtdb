@@ -1,0 +1,47 @@
+; CHTDB: ; [ Ranma ½ - Battle Renaissance (Jpn) (1996) (Shogakukan) {SLPS-00522} <ranma> ]
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800C7A5C 00C0
+
+[P1 No Energy]
+Type = Gameshark
+Activation = EndFrame
+800C7A5C 0000
+
+[P2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800C7A5E 00C0
+
+[P2 No Energy]
+Type = Gameshark
+Activation = EndFrame
+800C7A5E 0000
+
+[P1 Max Power Gauge]
+Type = Gameshark
+Activation = EndFrame
+800C8318 00BE
+
+[P2 Max Power Gauge]
+Type = Gameshark
+Activation = EndFrame
+800C831A 00BE
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A70C2894 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A70C2894 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A70C2894 10000400
+

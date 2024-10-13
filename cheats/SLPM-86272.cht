@@ -1,0 +1,42 @@
+; CHTDB: ; [ Rakugaki Showtime (Jpn) (1999) (Enix) {SLPM-86272} <rakugaki> ]
+
+[Infinite Health Sasami stage 1, 4, 8. 9 + 10]
+Type = Gameshark
+Activation = EndFrame
+800D60FC 091D
+
+[Infinite Health Sasami stage 2 + 13]
+Type = Gameshark
+Activation = EndFrame
+800D6BFC 091D
+
+[Infinite Health Sasami stage 3 + 5]
+Type = Gameshark
+Activation = EndFrame
+800D64FC 091D
+
+[Infinite Health Sasami stage 6]
+Type = Gameshark
+Activation = EndFrame
+800D66FC 091D
+
+[Infinite Health Sasami stage 7]
+Type = Gameshark
+Activation = EndFrame
+800DAE7C 091D
+
+[Infinite Health Sasami stage 11]
+Type = Gameshark
+Activation = EndFrame
+800D667C 091D
+
+[Infinite Health Sasami stage 12]
+Type = Gameshark
+Activation = EndFrame
+800D65FC 091D
+
+[Infinite Health Sasami stage 14]
+Type = Gameshark
+Activation = EndFrame
+800D63FC 091D
+

@@ -1,0 +1,43 @@
+; CHTDB: ; [ The Dukes of Hazzard II: Daisy Dukes It Out (Europe) {SLES-03393} ]
+
+[No car damage]
+Type = Gameshark
+Activation = EndFrame
+D003ED00 00F8
+8003ED02 2400
+D003ED24 00FC
+8003ED26 2400
+D003ED58 00FA
+8003ED5A 2400
+D003ED78 00FE
+8003ED7A 2400
+
+[All levels unlocked Use together with gamesave to make it work.]
+Type = Gameshark
+Activation = EndFrame
+8005C49A 0012
+
+[Only 1 flag needed]
+Type = Gameshark
+Activation = EndFrame
+E00C2BC9 0005
+300C2BC9 0001
+
+[Only 1 letter left]
+Type = Gameshark
+Activation = EndFrame
+E00C2BC9 000A
+300C2BC9 0001
+
+[Only 1 trophy needed]
+Type = Gameshark
+Activation = EndFrame
+E00C2BC9 0008
+300C2BC9 0001
+
+[Time Frozen]
+Type = Gameshark
+Activation = EndFrame
+D003BE74 0082
+3003BE74 0000
+

@@ -1,0 +1,164 @@
+; CHTDB: ; [ Star Gladiator - Episode I - Final Crusade (USA) (1996) (Capcom Entertainment) {SLUS-00372} <starglad> ]
+
+[P1 Select Character\Blistein]
+Type = Gameshark
+Activation = EndFrame
+301D867A 000A
+
+[P1 Select Character\Kappah]
+Type = Gameshark
+Activation = EndFrame
+301D867A 000B
+
+[P1 Select Character\Blood]
+Type = Gameshark
+Activation = EndFrame
+301D867A 000C
+
+[P1 Select Character\Real Blistein]
+Type = Gameshark
+Activation = EndFrame
+301D867A 000D
+
+[P2 Select Character\Blistein]
+Type = Gameshark
+Activation = EndFrame
+301D867B 000A
+
+[P2 Select Character\Kappah]
+Type = Gameshark
+Activation = EndFrame
+301D867B 000B
+
+[P2 Select Character\Blood]
+Type = Gameshark
+Activation = EndFrame
+301D867B 000C
+
+[P2 Select Character\Real Blistein]
+Type = Gameshark
+Activation = EndFrame
+301D867B 000D
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801D7CA0 00C8
+
+[P2 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801D8218 00C8
+
+[P2 No Health]
+Type = Gameshark
+Activation = EndFrame
+801D8218 0000
+
+[P2 1-Hit Death]
+Type = Gameshark
+Activation = EndFrame
+A61D8218 00C80001
+
+[P1 Make Hayato's Sword Long]
+Type = Gameshark
+Activation = EndFrame
+801D7E14 01C0
+
+[P2 Make Hayato's Sword Long]
+Type = Gameshark
+Activation = EndFrame
+801D838C 01C0
+
+[Have All Characters]
+Type = Gameshark
+Activation = EndFrame
+901EA8E4 00010101
+
+[Infinite Time (Seconds)]
+Type = Gameshark
+Activation = EndFrame
+801CF41A 3200
+
+[Infinite Time (Micro Seconds)]
+Type = Gameshark
+Activation = EndFrame
+801CF41C 0000
+
+[Select Stage\Bilstien's stage]
+Type = Gameshark
+Activation = EndFrame
+301D867C 0009
+
+[Select Stage\Real Bilstien's stage]
+Type = Gameshark
+Activation = EndFrame
+301D867C 000A
+
+[Select Stage\Training stage]
+Type = Gameshark
+Activation = EndFrame
+301D867C 000B
+
+[P2 Color 1]
+Type = Gameshark
+Activation = EndFrame
+301D8680 0000
+
+[P2 Color 2]
+Type = Gameshark
+Activation = EndFrame
+301D8680 0001
+
+[Wall Mode Always On]
+Type = Gameshark
+Activation = EndFrame
+801CF3FE 0101
+
+[P1 Infinite Plasma Strikes]
+Type = Gameshark
+Activation = EndFrame
+801D7EEC FFFF
+
+[P2 Infinite Plasma Strikes]
+Type = Gameshark
+Activation = EndFrame
+801D8464 FFFF
+
+[P1 Low Damage Mode]
+Type = Gameshark
+Activation = EndFrame
+801D7CC8 FFFF
+
+[P2 Low Damage Mode]
+Type = Gameshark
+Activation = EndFrame
+801D8240 FFFF
+
+[P1 Low Gravity]
+Type = Gameshark
+Activation = EndFrame
+801D7C8E 0001
+801D7CC0 FFFF
+
+[P2 Low Gravity]
+Type = Gameshark
+Activation = EndFrame
+801D8206 0001
+801D8238 FFFF
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A71D8628 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A71D8628 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A71D8628 10000400
+

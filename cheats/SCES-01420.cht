@@ -1,0 +1,750 @@
+; CHTDB: ; [ Crash Bandicoot 3: Warped (Europe) {SCES-01420} ]
+
+[Infinite Lives (Press Select to restore)]
+Type = Gameshark
+Activation = EndFrame
+D0065D54 0100
+800AD3DC 6300
+D0065D54 0100
+800AD42C 6300
+D0065D54 0100
+800AD0A4 6300
+D0065D54 0100
+800BCD48 6300
+
+[Enable All Powers]
+Type = Gameshark
+Activation = EndFrame
+80069328 003F
+
+[Have All Gems]
+Type = Gameshark
+Activation = EndFrame
+90069160 FFFFFFFF
+90069164 FF00FFFF
+
+[Have All Sapphires]
+Type = Gameshark
+Activation = EndFrame
+90069364 FFFFFFFF
+80069368 FFFF
+
+[Have All Crystals]
+Type = Gameshark
+Activation = EndFrame
+900692DC FFFFFFFF
+800692E0 FFFF
+
+[Modifies Time Trials Timer Push Select]
+Type = Gameshark
+Activation = EndFrame
+E0065D55 0001
+8006909C BBBB
+
+[Zone 1\Toad Village\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+300AD3DD 0004
+
+[Zone 1\Toad Village\99 Fruits]
+Type = Gameshark
+Activation = EndFrame
+300AD3D9 0063
+
+[Zone 1\Toad Village\42 Crates Opened]
+Type = Gameshark
+Activation = EndFrame
+300AD401 0029
+
+[Zone 1\Toad Village\Infinite Masks (On Pickup)(.When using the Infinite Masks Code, be sure to have picked up one before, then activate the code. After having died you must de-activate the code, pick up a mask, activate the code and so on...)]
+Type = Gameshark
+Activation = EndFrame
+3009FFED 0002
+
+[Zone 1\Under Pressure\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800AD1D0 0400
+
+[Zone 1\Under Pressure\99 Fruits]
+Type = Gameshark
+Activation = EndFrame
+800AD1CC 6300
+
+[Zone 1\Under Pressure\92 Crates Opened]
+Type = Gameshark
+Activation = EndFrame
+800AD1F4 5B00
+
+[Zone 1\Under Pressure\Infinite Masks (On Pickup)(.When using the Infinite Masks Code, be sure to have picked up one before, then activate the code. After having died you must de-activate the code, pick up a mask, activate the code and so on...)]
+Type = Gameshark
+Activation = EndFrame
+800A0494 0200
+
+[Zone 1\Orient Express\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800AD42C 0400
+
+[Zone 1\Orient Express\99 Fruits]
+Type = Gameshark
+Activation = EndFrame
+800AD428 6300
+
+[Zone 1\Orient Express\51 Crates Opened]
+Type = Gameshark
+Activation = EndFrame
+800AD450 3200
+
+[Zone 1\Bone Yard\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800AD658 0400
+
+[Zone 1\Bone Yard\99 Fruits]
+Type = Gameshark
+Activation = EndFrame
+800AD654 6300
+
+[Zone 1\Bone Yard\66 Crates Opened]
+Type = Gameshark
+Activation = EndFrame
+800AD67C 4100
+
+[Zone 1\Bone Yard\Infinite Masks (On Pickup)(.When using the Infinite Masks Code, be sure to have picked up one before, then activate the code. After having died you must de-activate the code, pick up a mask, activate the code and so on...)]
+Type = Gameshark
+Activation = EndFrame
+800A1448 0200
+
+[Zone 1\Makin' Waves\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800AD0A4 0400
+
+[Zone 1\Makin' Waves\99 Fruits]
+Type = Gameshark
+Activation = EndFrame
+800AD0A0 6300
+
+[Zone 1\Makin' Waves\37 Crates Opened]
+Type = Gameshark
+Activation = EndFrame
+800AD0C8 2400
+
+[Zone 1\Tiny Tiger\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800BCD48 0400
+
+[Zone 1\Ski Crazed (Bonuslevel 26)\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800ACFBC 0400
+
+[Zone 1\Ski Crazed (Bonuslevel 26)\99 Fruits]
+Type = Gameshark
+Activation = EndFrame
+800ACFB8 6300
+
+[Zone 1\Ski Crazed (Bonuslevel 26)\100 Crates Opened]
+Type = Gameshark
+Activation = EndFrame
+800ACFE0 6300
+
+[Zone 1\Ski Crazed (Bonuslevel 26)\Infinite Masks (On Pickup)(.When using the Infinite Masks Code, be sure to have picked up one before, then activate the code. After having died you must de-activate the code, pick up a mask, activate the code and so on...)]
+Type = Gameshark
+Activation = EndFrame
+800A0DAC 0200
+
+[Zone 2\Gee Wiz\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800AD5CC 0400
+
+[Zone 2\Gee Wiz\99 Fruits]
+Type = Gameshark
+Activation = EndFrame
+800AD5C8 6300
+
+[Zone 2\Gee Wiz\100 Crates Opened]
+Type = Gameshark
+Activation = EndFrame
+800AD5F0 6300
+
+[Zone 2\Gee Wiz\Infinite Masks (On Pickup)(.When using the Infinite Masks Code, be sure to have picked up one before, then activate the code. After having died you must de-activate the code, pick up a mask, activate the code and so on...)]
+Type = Gameshark
+Activation = EndFrame
+800A1CAC 0200
+
+[Zone 2\Gee Wiz\Time Trial]
+Type = Gameshark
+Activation = EndFrame
+800A1EE8 0200
+
+[Zone 2\Hang 'Em High\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800AD4B0 0400
+
+[Zone 2\Hang 'Em High\99 Fruits]
+Type = Gameshark
+Activation = EndFrame
+800AD4AC 6300
+
+[Zone 2\Hang 'Em High\96 Crates Opened]
+Type = Gameshark
+Activation = EndFrame
+800AD4D4 5F00
+
+[Zone 2\Hang 'Em High\Infinite Masks (On Pickup)(.When using the Infinite Masks Code, be sure to have picked up one before, then activate the code. After having died you must de-activate the code, pick up a mask, activate the code and so on...)]
+Type = Gameshark
+Activation = EndFrame
+800A2B34 0200
+
+[Zone 2\Hog Ride\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800AD724 0400
+
+[Zone 2\Hog Ride\99 Fruits]
+Type = Gameshark
+Activation = EndFrame
+800AD720 6300
+
+[Zone 2\Hog Ride\13 Crates Opened]
+Type = Gameshark
+Activation = EndFrame
+800AD748 0C00
+
+[Zone 2\Hog Ride\Infinite Masks (On Pickup)(.When using the Infinite Masks Code, be sure to have picked up one before, then activate the code. After having died you must de-activate the code, pick up a mask, activate the code and so on...)]
+Type = Gameshark
+Activation = EndFrame
+800A2B34 0200
+
+[Zone 2\Hog Ride\Place 1st]
+Type = Gameshark
+Activation = EndFrame
+800A2F88 0001
+800A43E8 0001
+800A43FC 0001
+
+[Zone 2\Tomb Time\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800AD5D8 0400
+
+[Zone 2\Tomb Time\99 Fruits]
+Type = Gameshark
+Activation = EndFrame
+800AD5D4 6300
+
+[Zone 2\Tomb Time\95 Crates Openend]
+Type = Gameshark
+Activation = EndFrame
+800AD5FC 5E00
+
+[Zone 2\Tomb Time\Infinite Masks (On Pickup)(.When using the Infinite Masks Code, be sure to have picked up one before, then activate the code. After having died you must de-activate the code, pick up a mask, activate the code and so on...)]
+Type = Gameshark
+Activation = EndFrame
+800A1840 0200
+
+[Zone 2\Midnight Run\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800AD45C 0400
+
+[Zone 2\Midnight Run\99 Fruits]
+Type = Gameshark
+Activation = EndFrame
+800AD458 6300
+
+[Zone 2\Midnight Run\35 Crates Opened]
+Type = Gameshark
+Activation = EndFrame
+800AD480 2200
+
+[Zone 2\Midnight Run\Infinite Masks (On Pickup)(.When using the Infinite Masks Code, be sure to have picked up one before, then activate the code. After having died you must de-activate the code, pick up a mask, activate the code and so on...)]
+Type = Gameshark
+Activation = EndFrame
+800A1900 0200
+
+[Zone 2\Dingodile\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800BD0A4 0400
+
+[Zone 2\Dingodile\Infinite Masks (On Pickup)(.When using the Infinite Masks Code, be sure to have picked up one before, then activate the code. After having died you must de-activate the code, pick up a mask, activate the code and so on...)]
+Type = Gameshark
+Activation = EndFrame
+800B0E94 0200
+
+[Zone 2\Hang 'Em High Revisited (Bonuslevel 27)\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800AD4B0 0400
+
+[Zone 2\Hang 'Em High Revisited (Bonuslevel 27)\99 Fruits]
+Type = Gameshark
+Activation = EndFrame
+800AD4AC 6300
+
+[Zone 2\Hang 'Em High Revisited (Bonuslevel 27)\96 Crates Opened]
+Type = Gameshark
+Activation = EndFrame
+800AD4D4 5F00
+
+[Zone 2\Hang 'Em High Revisited (Bonuslevel 27)\Infinite Masks (On Pickup)(.When using the Infinite Masks Code, be sure to have picked up one before, then activate the code. After having died you must de-activate the code, pick up a mask, activate the code and so on...)]
+Type = Gameshark
+Activation = EndFrame
+800A1954 0200
+
+[Zone 3\Dino Might !\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800AD798 0400
+
+[Zone 3\Dino Might !\99 Fruits]
+Type = Gameshark
+Activation = EndFrame
+800AD794 6300
+
+[Zone 3\Dino Might !\112 Crates Opened]
+Type = Gameshark
+Activation = EndFrame
+800AD7BC 6F00
+
+[Zone 3\Dino Might !\Infinite Masks (On Pickup)(.When using the Infinite Masks Code, be sure to have picked up one before, then activate the code. After having died you must de-activate the code, pick up a mask, activate the code and so on...)]
+Type = Gameshark
+Activation = EndFrame
+800A3FFC 0200
+
+[Zone 3\Deep Trouble\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800AD370 0400
+
+[Zone 3\Deep Trouble\99 Fruits]
+Type = Gameshark
+Activation = EndFrame
+800AD36C 6300
+
+[Zone 3\Deep Trouble\83 Crates Opened]
+Type = Gameshark
+Activation = EndFrame
+800AD394 5200
+
+[Zone 3\Deep Trouble\Infinite Masks (On Pickup)(.When using the Infinite Masks Code, be sure to have picked up one before, then activate the code. After having died you must de-activate the code, pick up a mask, activate the code and so on...)]
+Type = Gameshark
+Activation = EndFrame
+800A0CE8 0200
+
+[Zone 3\High Time\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800AD454 0400
+
+[Zone 3\High Time\99 Fruits]
+Type = Gameshark
+Activation = EndFrame
+800AD450 6300
+
+[Zone 3\High Time\85 Crates Opened]
+Type = Gameshark
+Activation = EndFrame
+800AD478 5400
+
+[Zone 3\High Time\Infinite Masks (On Pickup)(.When using the Infinite Masks Code, be sure to have picked up one before, then activate the code. After having died you must de-activate the code, pick up a mask, activate the code and so on...)]
+Type = Gameshark
+Activation = EndFrame
+800A3CB8 0200
+
+[Zone 3\Road Crash\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800AD900 0400
+
+[Zone 3\Road Crash\99 Fruits]
+Type = Gameshark
+Activation = EndFrame
+800AD8FC 6300
+
+[Zone 3\Road Crash\25 Crates Opened]
+Type = Gameshark
+Activation = EndFrame
+800AD924 1800
+
+[Zone 3\Road Crash\Place 1st]
+Type = Gameshark
+Activation = EndFrame
+800A092C 0001
+800A3CD4 0001
+800A3CE8 0001
+
+[Zone 3\Double Header\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800AD470 0400
+
+[Zone 3\Double Header\99 Fruits]
+Type = Gameshark
+Activation = EndFrame
+800AD46C 6300
+
+[Zone 3\Double Header\91 Crates Opened]
+Type = Gameshark
+Activation = EndFrame
+800AD494 5A00
+
+[Zone 3\Double Header\Infinite Masks (On Pickup)(.When using the Infinite Masks Code, be sure to have picked up one before, then activate the code. After having died you must de-activate the code, pick up a mask, activate the code and so on...)]
+Type = Gameshark
+Activation = EndFrame
+800A4800 0200
+
+[Zone 3\N.Tropy\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800AD024 0400
+
+[Zone 3\N.Tropy\99 Fruits]
+Type = Gameshark
+Activation = EndFrame
+800AD020 6300
+
+[Zone 3\N.Tropy\Infinite Masks (On Pickup)(.When using the Infinite Masks Code, be sure to have picked up one before, then activate the code. After having died you must de-activate the code, pick up a mask, activate the code and so on...)]
+Type = Gameshark
+Activation = EndFrame
+800A1B7C 0200
+
+[Zone 3\Area 51? (Bonuslevel 28)\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800ADAC4 0400
+
+[Zone 3\Area 51? (Bonuslevel 28)\99 Fruits]
+Type = Gameshark
+Activation = EndFrame
+800ADAC0 6300
+
+[Zone 3\Area 51? (Bonuslevel 28)\24 Crates Opened]
+Type = Gameshark
+Activation = EndFrame
+800ADAE8 1700
+
+[Zone 3\Area 51? (Bonuslevel 28)\Place 1st]
+Type = Gameshark
+Activation = EndFrame
+800A1A94 0001
+800A2EF4 0001
+800A2F08 0001
+
+[Zone 4\Sphynxinator\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800AD900 0400
+
+[Zone 4\Sphynxinator\Fruits]
+Type = Gameshark
+Activation = EndFrame
+800AD8FC 6300
+
+[Zone 4\Sphynxinator\105 Crates Opened]
+Type = Gameshark
+Activation = EndFrame
+800AD924 6800
+
+[Zone 4\Sphynxinator\Infinite Masks (On Pickup)(.When using the Infinite Masks Code, be sure to have picked up one before, then activate the code. After having died you must de-activate the code, pick up a mask, activate the code and so on...)]
+Type = Gameshark
+Activation = EndFrame
+800A1B68 0200
+
+[Zone 4\Bye Bye Blimps\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800BCD24 0400
+
+[Zone 4\Bye Bye Blimps\99 Fruits]
+Type = Gameshark
+Activation = EndFrame
+800BCD20 6300
+
+[Zone 4\Bye Bye Blimps\11 Crates Opened]
+Type = Gameshark
+Activation = EndFrame
+800BCD48 0A00
+
+[Zone 4\Bye Bye Blimps\Bulletproof Plane]
+Type = Gameshark
+Activation = EndFrame
+800BCCC4 6400
+
+[Zone 4\Tell No Tales\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800AD0F0 0400
+
+[Zone 4\Tell No Tales\99 Fruits]
+Type = Gameshark
+Activation = EndFrame
+800AD0EC 6300
+
+[Zone 4\Tell No Tales\61 Crates Opened]
+Type = Gameshark
+Activation = EndFrame
+800AD114 3C00
+
+[Zone 4\Tell No Tales\Infinite Masks (On Pickup)(.When using the Infinite Masks Code, be sure to have picked up one before, then activate the code. After having died you must de-activate the code, pick up a mask, activate the code and so on...)]
+Type = Gameshark
+Activation = EndFrame
+800A2538 0200
+
+[Zone 4\Tell No Tales\Time Trial]
+Type = Gameshark
+Activation = EndFrame
+800A17D0 0200
+
+[Zone 4\Future Frenzy\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800AD5E4 0400
+
+[Zone 4\Future Frenzy\99 Fruits]
+Type = Gameshark
+Activation = EndFrame
+800AD5E0 6300
+
+[Zone 4\Future Frenzy\133 Crates Opened]
+Type = Gameshark
+Activation = EndFrame
+800AD608 8400
+
+[Zone 4\Future Frenzy\Infinite Masks (On Pickup)(.When using the Infinite Masks Code, be sure to have picked up one before, then activate the code. After having died you must de-activate the code, pick up a mask, activate the code and so on...)]
+Type = Gameshark
+Activation = EndFrame
+800A184C 0200
+
+[Zone 4\Tomb Wader\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800AD7B0 0400
+
+[Zone 4\Tomb Wader\99 Fruits]
+Type = Gameshark
+Activation = EndFrame
+800AD7AC 6300
+
+[Zone 4\Tomb Wader\88 Crates Opened]
+Type = Gameshark
+Activation = EndFrame
+800AD7D4 5700
+
+[Zone 4\Tomb Wader\Infinite Masks (On Pickup)(.When using the Infinite Masks Code, be sure to have picked up one before, then activate the code. After having died you must de-activate the code, pick up a mask, activate the code and so on...)]
+Type = Gameshark
+Activation = EndFrame
+800A20CC 0200
+
+[Zone 4\N. Gin\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800BCFD4 0400
+
+[Zone 4\N. Gin\Indestructible Spacecraft]
+Type = Gameshark
+Activation = EndFrame
+800BCF74 6400
+
+[Zone 4\Future Frenzy Revisited (Bonuslevel 29)\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800AD5E4 0400
+
+[Zone 4\Future Frenzy Revisited (Bonuslevel 29)\99 Fruits]
+Type = Gameshark
+Activation = EndFrame
+800AD5E0 6300
+
+[Zone 4\Future Frenzy Revisited (Bonuslevel 29)\133 Crates Opened]
+Type = Gameshark
+Activation = EndFrame
+800AD608 8400
+
+[Zone 4\Future Frenzy Revisited (Bonuslevel 29)\Infinite Masks (On Pickup)(.When using the Infinite Masks Code, be sure to have picked up one before, then activate the code. After having died you must de-activate the code, pick up a mask, activate the code and so on...)]
+Type = Gameshark
+Activation = EndFrame
+800A42C0 0200
+
+[Zone 5\Gone Tomorrow\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800AD554 0400
+
+[Zone 5\Gone Tomorrow\99 Fruits]
+Type = Gameshark
+Activation = EndFrame
+800AD550 6300
+
+[Zone 5\Gone Tomorrow\87 Crates Opened]
+Type = Gameshark
+Activation = EndFrame
+800AD578 5600
+
+[Zone 5\Gone Tomorrow\Infinite Masks (On Pickup)(.When using the Infinite Masks Code, be sure to have picked up one before, then activate the code. After having died you must de-activate the code, pick up a mask, activate the code and so on...)]
+Type = Gameshark
+Activation = EndFrame
+800A2760 0200
+
+[Zone 5\Gone Tomorrow\Time Trial]
+Type = Gameshark
+Activation = EndFrame
+800A299C 0200
+
+[Zone 5\Orange Asphalt\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800ADC38 0400
+
+[Zone 5\Orange Asphalt\99 Fruits]
+Type = Gameshark
+Activation = EndFrame
+800ADC34 6300
+
+[Zone 5\Orange Asphalt\20 Crates Opened]
+Type = Gameshark
+Activation = EndFrame
+800ADC5C 1300
+
+[Zone 5\Orange Asphalt\Place 1st]
+Type = Gameshark
+Activation = EndFrame
+800A3260 0001
+800A46C0 0001
+800A46D4 0001
+
+[Zone 5\Flaming Passion\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800AD51C 0400
+
+[Zone 5\Flaming Passion\99 Fruits]
+Type = Gameshark
+Activation = EndFrame
+800AD518 6300
+
+[Zone 5\Flaming Passion\75 Crates Opened]
+Type = Gameshark
+Activation = EndFrame
+800AD540 4A00
+
+[Zone 5\Flaming Passion\Infinite Masks (On Pickup)(.When using the Infinite Masks Code, be sure to have picked up one before, then activate the code. After having died you must de-activate the code, pick up a mask, activate the code and so on...)]
+Type = Gameshark
+Activation = EndFrame
+800A2DDC 0200
+
+[Zone 5\Mad Bombers\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800BCDAC 0400
+
+[Zone 5\Mad Bombers\11 Crates Opened]
+Type = Gameshark
+Activation = EndFrame
+800BCDD0 0A00
+
+[Zone 5\Mad Bombers\Bulletproof Plane]
+Type = Gameshark
+Activation = EndFrame
+800BCD4C 6400
+
+[Zone 5\Bug Lite\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800AD744 0400
+
+[Zone 5\Bug Lite\99 Fruits]
+Type = Gameshark
+Activation = EndFrame
+800AD740 6300
+
+[Zone 5\Bug Lite\120 Crates Opened]
+Type = Gameshark
+Activation = EndFrame
+800AD768 7700
+
+[Zone 5\Bug Lite\Infinite Masks (On Pickup)(.When using the Infinite Masks Code, be sure to have picked up one before, then activate the code. After having died you must de-activate the code, pick up a mask, activate the code and so on...)]
+Type = Gameshark
+Activation = EndFrame
+800A24D8 0200
+
+[Zone 5\N.Cortex\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800AD034 0400
+
+[Zone 5\Rings Of Power (Bonuslevel 30)\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800BCDF8 0400
+
+[Zone 5\Rings Of Power (Bonuslevel 30)\99 Fruits]
+Type = Gameshark
+Activation = EndFrame
+800BCDF4 6300
+
+[Zone 5\Rings Of Power (Bonuslevel 30)\33 Crates Opened]
+Type = Gameshark
+Activation = EndFrame
+800BCE1C 2000
+
+[Zone 5\Rings Of Power (Bonuslevel 30)\Place 1st]
+Type = Gameshark
+Activation = EndFrame
+A60B45E4 0001001E
+D00B45E4 001E
+800B2430 1000
+
+[Zone 5\Hot Coco (Bonuslevel 31)\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800ACFD4 0400
+
+[Zone 5\Hot Coco (Bonuslevel 31)\99 Fruits]
+Type = Gameshark
+Activation = EndFrame
+800ACFD0 6300
+
+[Zone 5\Hot Coco (Bonuslevel 31)\70 Crates Opened]
+Type = Gameshark
+Activation = EndFrame
+800ACFF8 4500
+
+[Always have Aku Aku mask]
+Type = Gameshark
+Activation = EndFrame
+8006910C 0200
+90038EE4 08001D80
+90007600 3C088007
+90007604 8D0890E8
+90007608 15100007
+9000760C 34090300
+90007610 8508019C
+90007614 11090004
+90007618 3C088007
+9000761C 8D0890E8
+90007620 34090200
+90007624 A509019C
+90007628 03E00008
+
+[Always have the gray gem]
+Type = Gameshark
+Activation = EndFrame
+300691A1 0000
+300692F9 0000
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+80018B48 0C00
+80018B4A 2402
+80018B4C 1000
+80018B4E 2413
+80018B6A A633
+

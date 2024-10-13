@@ -1,0 +1,44 @@
+; CHTDB: ; [ Dance Dance Revolution - Best Hits (Jpn) (2000) (Konami) {SLPM-86693 (VX224-J1)} <ddrbh> ]
+
+[All Lessons Clear]
+Type = Gameshark
+Activation = EndFrame
+50000C02 0000
+800ED618 0202
+
+[P1 Max Dance Gauge]
+Type = Gameshark
+Activation = EndFrame
+800D3A6C 03E8
+
+[P2 Max Dance Gauge]
+Type = Gameshark
+Activation = EndFrame
+800D920E 03E8
+
+[P1 Max Score]
+Type = Gameshark
+Activation = EndFrame
+900D3078 3B9AC9FF
+
+[P2 Max Score]
+Type = Gameshark
+Activation = EndFrame
+900D9218 3B9AC9FF
+
+[P1 Perfect Stage Results]
+Type = Gameshark
+Activation = EndFrame
+800D30C4 270F
+50000404 0000
+800D30C8 0000
+800D30E0 270F
+
+[P2 Perfect Stage Results]
+Type = Gameshark
+Activation = EndFrame
+800D9264 270F
+50000404 0000
+800D9268 0000
+800D9280 270F
+

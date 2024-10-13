@@ -1,0 +1,67 @@
+; CHTDB: ; [ Disney Presents Tigger's Honey Hunt (USA, v1.1) (2003) (Global Star Software) {SLUS-01536CE} <tiggerhh> ]
+
+[Infinite Life]
+Type = Gameshark
+Activation = EndFrame
+300C7094 0003
+
+[Have Hella Honey Pots]
+Type = Gameshark
+Activation = EndFrame
+800C7098 03E7
+
+[Have All Pictures]
+Type = Gameshark
+Activation = EndFrame
+900C7074 FFFFFFFF
+800C7078 FFFF
+
+[Walk through walls "Press L3 to toggle on/off"]
+Type = Gameshark
+Activation = EndFrame
+D7010001 01000200
+F508452E 10401000
+F50721A6 10401000
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+A7071DF2 04411000
+
+[Moon Jump]
+Type = Gameshark
+Activation = EndFrame
+A708583A 24000C02
+D7200000 00000040
+A708583A 0C022400
+
+[Moon Jump 'alternate']
+Type = Gameshark
+Activation = EndFrame
+A708586E 2400AE82
+D7200000 00000040
+A708586E AE822400
+
+[Moon & Multi Jumps]
+Type = Gameshark
+Activation = EndFrame
+A70466BA 24000441
+A70466BE 24022442
+A70466C0 009A0098
+A70466C2 A602AE02
+D7200000 00000040
+A70466BA 04412400
+A70466BE 24422402
+A70466C0 0098009A
+A70466C2 AE02A602
+
+[Increased Jump Height]
+Type = Gameshark
+Activation = EndFrame
+A7085822 0C022400
+
+[Collect Honey Pots from Anywhere]
+Type = Gameshark
+Activation = EndFrame
+A70707B6 10401400
+

@@ -1,0 +1,39 @@
+; CHTDB: ; [ Himiko-Den (Jpn) (1999) (Hakuhodo) {SLPS-01890~SLPS-01892} <himikodn> ]
+
+[Infinite HP Himiko Himejima in battle]
+Type = Gameshark
+Activation = EndFrame
+800C6C94 0064
+
+[Infinite HP other character in battle]
+Type = Gameshark
+Activation = EndFrame
+800CB99C 0064
+
+[Infinite Bill]
+Type = Gameshark
+Activation = EndFrame
+800609F2 000C
+
+[All bonus]
+Type = Gameshark
+Activation = EndFrame
+800609D8 0080
+800609EC FFFF
+
+[All Gift availables]
+Type = Gameshark
+Activation = EndFrame
+50001802 0000
+80085DA0 6363
+30085DD0 0063
+
+[All Tools availables]
+Type = Gameshark
+Activation = EndFrame
+50000A02 0000
+80087322 FFFF
+50000A02 0000
+80087340 FFFF
+30087354 00FF
+

@@ -1,0 +1,46 @@
+; CHTDB: ; [ Doom (USA) (1995) (Williams Entertainment) {SLUS-00077} <doom> ]
+
+[Invincibility v.1.0]
+Type = Gameshark
+Activation = EndFrame
+800A85FC 0001
+800A85F4 00C7
+800A85F0 0064
+
+[Invincibility v.1.1]
+Type = Gameshark
+Activation = EndFrame
+800A881C 0001
+800A8814 0001
+800A8810 0064
+
+[God Mode]
+Type = Gameshark
+Activation = EndFrame
+800A868C 0002
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+50000404 0000
+800A8664 0064
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+80030724 2082
+80030726 0800
+90008208 84226534
+9000820C 00000000
+90008210 0002D883
+90008214 00021043
+90008218 005B1021
+9000821C A4226534
+90008220 84226530
+90008224 00000000
+90008228 0002D883
+9000822C 00021043
+90008230 005B1021
+90008234 0800C1CB
+90008238 A4226530
+

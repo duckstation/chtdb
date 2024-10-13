@@ -1,0 +1,258 @@
+; CHTDB: ; [ Medal of Honor (Europe) {SLES-02470} ]
+
+[Single Player Codes\Infinite Ammo All Levels]
+Type = Gameshark
+Activation = EndFrame
+8007E216 3C00
+80046362 3C00
+
+[Single Player Codes\Rapid Fire All Levels]
+Type = Gameshark
+Activation = EndFrame
+8007E2FE 3C00
+
+[Single Player Codes\Infinite Health Mission 1 - Level 1]
+Type = Gameshark
+Activation = EndFrame
+800EE956 0080
+
+[Single Player Codes\Infinite Health Mission 1 - Level 2]
+Type = Gameshark
+Activation = EndFrame
+800E3936 0080
+
+[Single Player Codes\Infinite Health Mission 1 - Level 3]
+Type = Gameshark
+Activation = EndFrame
+800E3086 0080
+
+[Single Player Codes\Infinite Health Mission 2 - Level 1]
+Type = Gameshark
+Activation = EndFrame
+800F7F76 0080
+
+[Single Player Codes\Infinite Health Mission 2 - Level 2]
+Type = Gameshark
+Activation = EndFrame
+800E07E6 0080
+
+[Single Player Codes\Infinite Health Mission 2 - Level 3]
+Type = Gameshark
+Activation = EndFrame
+800E4B16 0080
+
+[Single Player Codes\Infinite Health Mission 2 - Level 4]
+Type = Gameshark
+Activation = EndFrame
+800EF116 0080
+
+[Single Player Codes\Infinite Health Mission 3 - Level 1]
+Type = Gameshark
+Activation = EndFrame
+800E6366 0080
+
+[Single Player Codes\Mission 3 - Level 1 - Have Id]
+Type = Gameshark
+Activation = EndFrame
+800E6290 0380
+
+[Single Player Codes\Infinite Health Mission 3 - Level 2]
+Type = Gameshark
+Activation = EndFrame
+800E7DA6 0080
+
+[Single Player Codes\Infinite Health Mission 3 - Level 3]
+Type = Gameshark
+Activation = EndFrame
+800EC0B6 0080
+
+[Single Player Codes\Infinite Health Mission 3 - Level 4]
+Type = Gameshark
+Activation = EndFrame
+800EEF26 0080
+
+[Single Player Codes\Infinite Health Mission 4 - Level 1]
+Type = Gameshark
+Activation = EndFrame
+800E2CC6 0080
+
+[Single Player Codes\Infinite Health Mission 4 - Level 2]
+Type = Gameshark
+Activation = EndFrame
+800E4736 0080
+
+[Single Player Codes\Infinite Health Mission 4 - Level 3]
+Type = Gameshark
+Activation = EndFrame
+800E6676 0080
+
+[Single Player Codes\Infinite Health Mission 5 - Level 1]
+Type = Gameshark
+Activation = EndFrame
+800E6916 0080
+
+[Single Player Codes\Infinite Health Mission 5 - Level 2]
+Type = Gameshark
+Activation = EndFrame
+800EF4E6 0080
+
+[Single Player Codes\Infinite Health Mission 5 - Level 3]
+Type = Gameshark
+Activation = EndFrame
+800E9366 0080
+
+[Single Player Codes\Infinite Health Mission 5 - Level 4]
+Type = Gameshark
+Activation = EndFrame
+800EB446 0080
+
+[Single Player Codes\Infinite Health Mission 6 - Level 1]
+Type = Gameshark
+Activation = EndFrame
+800F3CB6 0080
+
+[Single Player Codes\Infinite Health Mission 6 - Level 2]
+Type = Gameshark
+Activation = EndFrame
+800E8196 0080
+
+[Single Player Codes\Infinite Health Mission 6 - Level 3]
+Type = Gameshark
+Activation = EndFrame
+800EB236 0080
+
+[Single Player Codes\Infinite Health Mission 7 - Level 1]
+Type = Gameshark
+Activation = EndFrame
+800EF9D6 0080
+
+[Single Player Codes\Infinite Health Mission 7 - Level 2]
+Type = Gameshark
+Activation = EndFrame
+800EC666 0080
+
+[Single Player Codes\Infinite Health Mission 7 - Level 3]
+Type = Gameshark
+Activation = EndFrame
+800EAC86 0080
+
+[Multi Player Codes\Infinite Ammo Multi-Player (Both Players, All Guns, All Levels)]
+Type = Gameshark
+Activation = EndFrame
+8007ADD6 3C00
+
+[Multi Player Codes\Rapid Fire (Both Players, All Levels)]
+Type = Gameshark
+Activation = EndFrame
+8007AE86 3C00
+
+['Follow Your Nose' Codes\P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80124AA6 0020
+
+['Follow Your Nose' Codes\P2 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8011FFB6 0020
+
+['Follow Your Nose' Codes\P1 Moon Jump]
+Type = Gameshark
+Activation = EndFrame
+E0090484 0010
+80126FBE FFF6
+
+['Follow Your Nose' Codes\P2 Moon Jump]
+Type = Gameshark
+Activation = EndFrame
+E0090488 0010
+801224CE FFF6
+
+['The Short Line' Codes\P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8014D936 0020
+
+['The Short Line' Codes\P1 Moon Jump]
+Type = Gameshark
+Activation = EndFrame
+E0090484 0010
+8014DA5E FFF4
+
+['The Short Line' Codes\P2 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80148E46 0020
+
+['The Short Line' Codes\P2 Moon Jump]
+Type = Gameshark
+Activation = EndFrame
+E0090488 0010
+80148F6E FFF4
+
+['Tail Of 2 Cities' Codes\P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8012E126 0020
+
+['Tail Of 2 Cities' Codes\P1 Moon Jump]
+Type = Gameshark
+Activation = EndFrame
+E0090484 0010
+8012E24E FFF6
+
+['Tail Of 2 Cities' Codes\P2 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80129636 0020
+
+['Tail Of 2 Cities' Codes\P2 Moon Jump]
+Type = Gameshark
+Activation = EndFrame
+E0090488 0010
+8012975E FFF6
+
+['Trouble Shooting' Codes\P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8013BC86 0020
+
+['Trouble Shooting' Codes\P1 Moon Jump]
+Type = Gameshark
+Activation = EndFrame
+E0090484 0010
+8013BDAE FFF6
+
+['Trouble Shooting' Codes\P2 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80137196 0020
+
+['Trouble Shooting' Codes\P2 Moon Jump]
+Type = Gameshark
+Activation = EndFrame
+E0090488 0010
+801372BE FFF6
+
+['Castle Von Trapped' Codes\P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80159706 0020
+
+['Castle Von Trapped' Codes\P1 Moon Jump]
+Type = Gameshark
+Activation = EndFrame
+E0090484 0010
+8015982E FFF6
+
+['Castle Von Trapped' Codes\P2 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80154C16 0020
+
+['Castle Von Trapped' Codes\P2 Moon Jump]
+Type = Gameshark
+Activation = EndFrame
+E0090488 0010
+80154D3E FFF6
+

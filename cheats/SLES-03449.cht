@@ -1,0 +1,22 @@
+; CHTDB: ; [ Roland Garros French Open 2001 (Europe) {SLES-03449} ]
+
+[P1 has 5 games]
+Type = Gameshark
+Activation = EndFrame
+800964A0 0005
+
+[P1 Always 40-0]
+Type = Gameshark
+Activation = EndFrame
+80096480 0028
+
+[P2 has 5 games]
+Type = Gameshark
+Activation = EndFrame
+8009649C 0005
+
+[P2 Can't score]
+Type = Gameshark
+Activation = EndFrame
+80096484 0000
+

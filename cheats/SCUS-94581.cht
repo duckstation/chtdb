@@ -1,0 +1,26 @@
+; CHTDB: ; [ NBA ShootOut 2001 (USA) (2000) (Sony Computer Entertainment America) {SCUS-94581} <nbaso2k1> ]
+
+[Select Home Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+900176E0 00000000
+800176E4 0000
+
+[Select Home Team Score\150]
+Type = Gameshark
+Activation = EndFrame
+900176E0 00000000
+800176E4 0096
+
+[Select Away Team Score\150]
+Type = Gameshark
+Activation = EndFrame
+90017720 00000000
+80017724 0096
+
+[Select Away Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+90017720 00000000
+80017724 0000
+

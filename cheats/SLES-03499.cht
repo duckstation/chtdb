@@ -1,0 +1,20 @@
+; CHTDB: ; [ You Don't Know Jack (Germany) {SLES-03499} ]
+
+[P1 Unendlich Nägel]
+Type = Gameshark
+Activation = EndFrame
+D008C004 0000
+3008C004 0001
+
+[P1 Zeit Angehalten (Drücke L1 & L2)]
+Type = Gameshark
+Activation = EndFrame
+D00ACBBE FAFF
+300ACBBE 0000
+
+[Starte mit letzte Runde]
+Type = Gameshark
+Activation = EndFrame
+D008A57C 0000
+3008A57C 0016
+

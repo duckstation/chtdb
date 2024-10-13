@@ -1,0 +1,63 @@
+; CHTDB: ; [ Crypt Killer (USA) (1997) (Konami of America) {SLUS-00335} <cryptklr> ]
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800FC174 0003
+
+[P2 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800FC1D0 0003
+
+[P1 Infinite Bombs]
+Type = Gameshark
+Activation = EndFrame
+800FC17A 0003
+
+[P2 Infinite Bombs]
+Type = Gameshark
+Activation = EndFrame
+800FC1D6 0003
+
+[P1 Weapon Automatic]
+Type = Gameshark
+Activation = EndFrame
+800FC178 0004
+
+[P2 Weapon Automatic]
+Type = Gameshark
+Activation = EndFrame
+800FC1D4 0004
+
+[Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+8002278E 0601
+
+[P1 Never Reload]
+Type = Gameshark
+Activation = EndFrame
+300FC185 0006
+
+[P2 Never Reload]
+Type = Gameshark
+Activation = EndFrame
+300FC1E1 0006
+
+[P1 Max No. Of Hits]
+Type = Gameshark
+Activation = EndFrame
+800FC1B4 FFFF
+
+[P2 Max No. Of Hits]
+Type = Gameshark
+Activation = EndFrame
+800FC210 FFFF
+
+[No Gun Flash]
+Type = Gameshark
+Activation = EndFrame
+A705945A 0C021400
+A705E446 0C021400
+

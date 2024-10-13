@@ -1,0 +1,66 @@
+; CHTDB: ; [ Rollcage (Europe) {SLES-01660} ]
+
+[0 Laps To Race]
+Type = Gameshark
+Activation = EndFrame
+8009CBBC 0000
+
+[Always Place 1st]
+Type = Gameshark
+Activation = EndFrame
+D009CBBC 0001
+3009CBB9 0001
+
+[Start On Last Lap Easy]
+Type = Gameshark
+Activation = EndFrame
+3009CBB8 0003
+
+[Start On Last Lap Hard]
+Type = Gameshark
+Activation = EndFrame
+3009CBB8 0004
+
+[Start On Last Lap Expert]
+Type = Gameshark
+Activation = EndFrame
+3009CBB8 0005
+
+[Enable Scorpio, Taurus, Yuri & mirror mode]
+Type = Gameshark
+Activation = EndFrame
+80010D30 FFFF
+
+[Enable Scorpio, Taurus, Yuri & mirror mode (Press L1 & L2 & R1 & R2)]
+Type = Gameshark
+Activation = EndFrame
+D01F5BE4 000F
+80010D30 FFFF
+
+[Press R2 And x For Super Turbo Mode.]
+Type = Gameshark
+Activation = EndFrame
+E01F5BE4 0042
+8015957E 6300
+E01F5BE4 0042
+801596FE 6300
+E01F5BE4 0042
+8015963E 6300
+E01F5BE4 0042
+801597BE 6300
+
+[Seasick Camera]
+Type = Gameshark
+Activation = EndFrame
+8009C068 0100
+
+[Corkscrew Camera]
+Type = Gameshark
+Activation = EndFrame
+9009C064 00000000
+
+[Invisible Car]
+Type = Gameshark
+Activation = EndFrame
+80159B40 FFFF
+

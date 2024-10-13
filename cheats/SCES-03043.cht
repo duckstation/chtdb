@@ -1,0 +1,101 @@
+; CHTDB: ; [ The Legend of Dragoon (Europe) {SCES-03043 | SCES-13043 | SCES-23043 | SCES-33043} ]
+
+[Save anywhere]
+Type = Gameshark
+Activation = EndFrame
+3005A5A0 0001
+
+[No random battles]
+Type = Gameshark
+Activation = EndFrame
+800C6D20 0000
+
+[All items]
+Type = Gameshark
+Activation = EndFrame
+5000FF01 0001
+300BAFE8 0000
+
+[Infinite Gold]
+Type = Gameshark
+Activation = EndFrame
+800BAE94 967F
+300BAE96 0098
+
+[Have all Dragoon Spirits]
+Type = Gameshark
+Activation = EndFrame
+300BAF9C 00FF
+
+[All Characters Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+5000092C 0000
+800BB134 270F
+
+[All Characters Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+5000092C 0000
+800BB136 03E7
+
+[All Characters Infinite SP]
+Type = Gameshark
+Activation = EndFrame
+5000092C 0000
+800BB138 03E7
+
+[Infinite & Max HP Albert]
+Type = Gameshark
+Activation = EndFrame
+800BB210 270F
+800BEBB6 270F
+
+[Infinite & Max HP Dart]
+Type = Gameshark
+Activation = EndFrame
+800BB134 270F
+800BE896 270F
+
+[Infinite & Max HP Haschel]
+Type = Gameshark
+Activation = EndFrame
+800BB1E4 270F
+800BEB16 270F
+
+[Infinite & Max HP Kongol]
+Type = Gameshark
+Activation = EndFrame
+800BB268 270F
+800BECF6 270F
+
+[Infinite & Max HP Lawitz]
+Type = Gameshark
+Activation = EndFrame
+800BB160 270F
+800BE936 270F
+
+[Infinite & Max HP Meru]
+Type = Gameshark
+Activation = EndFrame
+800BB23C 270F
+800BEC56 270F
+
+[Infinite & Max HP Miranda]
+Type = Gameshark
+Activation = EndFrame
+800BB294 270F
+800BED96 270F
+
+[Infinite & Max HP Rose]
+Type = Gameshark
+Activation = EndFrame
+800BB1B8 270F
+800BE5C6 270F
+
+[Infinite & Max HP Shanna]
+Type = Gameshark
+Activation = EndFrame
+800BB18C 270F
+800BE9D6 270F
+

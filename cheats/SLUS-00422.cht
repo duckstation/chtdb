@@ -1,0 +1,525 @@
+; CHTDB: ; [ Breath of Fire III (USA) (1998) (Capcom Entertainment) {SLUS-00422} <bof3> ]
+
+[Other\Misc.\No Random Battles]
+Type = Gameshark
+Activation = EndFrame
+80143F22 0000
+
+[Other\Misc.\5 Million Zenny]
+Type = Gameshark
+Activation = EndFrame
+90144F50 02FAF08E
+
+[Other\Misc.\Time Always 00.00]
+Type = Gameshark
+Activation = EndFrame
+80144FC0 0000
+
+[Other\Misc.\Have All Dragon Genes]
+Type = Gameshark
+Activation = EndFrame
+90145548 FFFFFFFF
+
+[In-Battle 1st Character Cheats\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+30145F18 03E7
+
+[In-Battle 2nd Character Cheats\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+30146058 03E7
+
+[In-Battle 3rd Character Cheats\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+30146198 03E7
+
+[In-Battle 1st Character Cheats\Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+30145F1A 03E7
+
+[In-Battle 2nd Character Cheats\Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+3014605A 03E7
+
+[In-Battle 3rd Character Cheats\Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+3014619A 03E7
+
+[In-Battle 1st Character Cheats\Immune To Status Changes]
+Type = Gameshark
+Activation = EndFrame
+30145F10 0000
+
+[In-Battle 2nd Character Cheats\Immune To Status Changes]
+Type = Gameshark
+Activation = EndFrame
+30146050 0000
+
+[In-Battle 3rd Character Cheats\Immune To Status Changes]
+Type = Gameshark
+Activation = EndFrame
+30146190 0000
+
+[In-Battle All Spells Cost 0 AP Cheats\Immune To Status Changes]
+Type = Gameshark
+Activation = EndFrame
+301463C8 0000
+
+[In-Battle Extra Items Cheats\Immune To Status Changes]
+Type = Gameshark
+Activation = EndFrame
+D0099094 FFFF
+80099096 0001
+
+[In-Battle Infinite Items Cheats\Immune To Status Changes]
+Type = Gameshark
+Activation = EndFrame
+A709909E A0822400
+
+[Garr Character Cheats\Max HP]
+Type = Gameshark
+Activation = EndFrame
+80144AC4 03E7
+80144ACC 03E7
+
+[Garr Character Cheats\Max AP]
+Type = Gameshark
+Activation = EndFrame
+80144AC6 03E7
+80144ACE 03E7
+
+[Garr Character Cheats\Max Power]
+Type = Gameshark
+Activation = EndFrame
+80144AD0 03E7
+
+[Garr Character Cheats\Max Defense]
+Type = Gameshark
+Activation = EndFrame
+80144AD2 03E7
+
+[Garr Character Cheats\Max Agility]
+Type = Gameshark
+Activation = EndFrame
+80144AD4 03E7
+
+[Garr Character Cheats\Max Intelligence]
+Type = Gameshark
+Activation = EndFrame
+80144AD6 03E7
+
+[Garr Character Cheats\Max Level]
+Type = Gameshark
+Activation = EndFrame
+80144AB6 0063
+
+[Garr Character Cheats\65535 Experience]
+Type = Gameshark
+Activation = EndFrame
+80144AB8 FFFF
+
+[Garr Character Cheats\Max Experience]
+Type = Gameshark
+Activation = EndFrame
+80144ABA 03E7
+
+[Momo Character Cheats\Master Modifier]
+Type = Gameshark
+Activation = EndFrame
+80144CB6 ??00
+
+[Momo Character Cheats\Max HP]
+Type = Gameshark
+Activation = EndFrame
+80144CB0 03E7
+80144CB8 03E7
+
+[Momo Character Cheats\Max AP]
+Type = Gameshark
+Activation = EndFrame
+80144CB2 03E7
+80144CBA 03E7
+
+[Momo Character Cheats\Max Power]
+Type = Gameshark
+Activation = EndFrame
+80144CBC 03E7
+
+[Momo Character Cheats\Max Defense]
+Type = Gameshark
+Activation = EndFrame
+80144CBE 03E7
+
+[Momo Character Cheats\Max Agility]
+Type = Gameshark
+Activation = EndFrame
+80144CC0 03E7
+
+[Momo Character Cheats\Max Intelligence]
+Type = Gameshark
+Activation = EndFrame
+80144CC2 03E7
+
+[Momo Character Cheats\Max Level]
+Type = Gameshark
+Activation = EndFrame
+80144CA2 0063
+
+[Momo Character Cheats\65535 Experience]
+Type = Gameshark
+Activation = EndFrame
+80144CA4 FFFF
+
+[Momo Character Cheats\Max Experience]
+Type = Gameshark
+Activation = EndFrame
+80144CA6 03E7
+
+[Nina Character Cheats\Max HP]
+Type = Gameshark
+Activation = EndFrame
+80144A20 03E7
+80144A28 03E7
+
+[Nina Character Cheats\Max AP]
+Type = Gameshark
+Activation = EndFrame
+80144A22 03E7
+80144A2A 03E7
+
+[Nina Character Cheats\Max Power]
+Type = Gameshark
+Activation = EndFrame
+80144A2C 03E7
+
+[Nina Character Cheats\Max Defense]
+Type = Gameshark
+Activation = EndFrame
+80144A2E 03E7
+
+[Nina Character Cheats\Max Agility]
+Type = Gameshark
+Activation = EndFrame
+80144A30 03E7
+
+[Nina Character Cheats\Max Intelligence]
+Type = Gameshark
+Activation = EndFrame
+80144A32 03E7
+
+[Nina Character Cheats\Max Level]
+Type = Gameshark
+Activation = EndFrame
+80144A12 0063
+
+[Nina Character Cheats\65535 Experience]
+Type = Gameshark
+Activation = EndFrame
+80144A14 FFFF
+
+[Nina Character Cheats\Max Experience]
+Type = Gameshark
+Activation = EndFrame
+80144A16 03E7
+
+[Peco Character Cheats\Max HP]
+Type = Gameshark
+Activation = EndFrame
+80144D54 03E7
+80144D5C 03E7
+
+[Peco Character Cheats\Max AP]
+Type = Gameshark
+Activation = EndFrame
+80144D56 03E7
+80144D5E 03E7
+
+[Peco Character Cheats\Max Power]
+Type = Gameshark
+Activation = EndFrame
+80144D60 03E7
+
+[Peco Character Cheats\Max Defense]
+Type = Gameshark
+Activation = EndFrame
+80144D62 03E7
+
+[Peco Character Cheats\Max Agility]
+Type = Gameshark
+Activation = EndFrame
+80144D64 03E7
+
+[Peco Character Cheats\Max Intelligence]
+Type = Gameshark
+Activation = EndFrame
+80144D66 03E7
+
+[Peco Character Cheats\Max Level]
+Type = Gameshark
+Activation = EndFrame
+80144D46 0063
+
+[Peco Character Cheats\65535 Experience]
+Type = Gameshark
+Activation = EndFrame
+80144D48 FFFF
+
+[Peco Character Cheats\Max Experience]
+Type = Gameshark
+Activation = EndFrame
+80144D4A 03E7
+
+[Rei Character Cheats\Master Modifier]
+Type = Gameshark
+Activation = EndFrame
+80144C12 ??00
+
+[Rei Character Cheats\Max HP]
+Type = Gameshark
+Activation = EndFrame
+80144C0C 03E7
+80144C14 03E7
+
+[Rei Character Cheats\Max AP]
+Type = Gameshark
+Activation = EndFrame
+80144C0E 03E7
+80144C16 03E7
+
+[Rei Character Cheats\Max Power]
+Type = Gameshark
+Activation = EndFrame
+80144C18 03E7
+
+[Rei Character Cheats\Max Defense]
+Type = Gameshark
+Activation = EndFrame
+80144C1A 03E7
+
+[Rei Character Cheats\Max Agility]
+Type = Gameshark
+Activation = EndFrame
+80144C1C 03E7
+
+[Rei Character Cheats\Max Intelligence]
+Type = Gameshark
+Activation = EndFrame
+80144C1E 03E7
+
+[Rei Character Cheats\Max Level]
+Type = Gameshark
+Activation = EndFrame
+80144BFE 0063
+
+[Rei Character Cheats\65535 Experience]
+Type = Gameshark
+Activation = EndFrame
+80144C00 FFFF
+
+[Rei Character Cheats\Max Experience]
+Type = Gameshark
+Activation = EndFrame
+80144C02 03E7
+
+[Ryu Character Cheats\Max HP]
+Type = Gameshark
+Activation = EndFrame
+8014497C 03E7
+80144984 03E7
+
+[Ryu Character Cheats\Max AP]
+Type = Gameshark
+Activation = EndFrame
+8014497E 03E7
+80144986 03E7
+
+[Ryu Character Cheats\Max Power]
+Type = Gameshark
+Activation = EndFrame
+80144988 03E7
+
+[Ryu Character Cheats\Max Defense]
+Type = Gameshark
+Activation = EndFrame
+8014498A 03E7
+
+[Ryu Character Cheats\Max Agility]
+Type = Gameshark
+Activation = EndFrame
+8014498C 03E7
+
+[Ryu Character Cheats\Max Intelligence]
+Type = Gameshark
+Activation = EndFrame
+8014498E 03E7
+
+[Ryu Character Cheats\Max Level]
+Type = Gameshark
+Activation = EndFrame
+8014496E 0063
+
+[Ryu Character Cheats\65535 Experience]
+Type = Gameshark
+Activation = EndFrame
+80144970 FFFF
+
+[Ryu Character Cheats\Max Experience]
+Type = Gameshark
+Activation = EndFrame
+80144972 03E7
+
+[Teepo Character Cheats\Max HP]
+Type = Gameshark
+Activation = EndFrame
+80144B68 03E7
+80144B70 03E7
+
+[Teepo Character Cheats\Max AP]
+Type = Gameshark
+Activation = EndFrame
+80144B6A 03E7
+80144B72 03E7
+
+[Teepo Character Cheats\Max Power]
+Type = Gameshark
+Activation = EndFrame
+80144B74 03E7
+
+[Teepo Character Cheats\Max Defense]
+Type = Gameshark
+Activation = EndFrame
+80144B76 03E7
+
+[Teepo Character Cheats\Max Agility]
+Type = Gameshark
+Activation = EndFrame
+80144B78 03E7
+
+[Teepo Character Cheats\Max Intelligence]
+Type = Gameshark
+Activation = EndFrame
+80144B7A 03E7
+
+[Teepo Character Cheats\Max Level]
+Type = Gameshark
+Activation = EndFrame
+80144B5A 0063
+
+[Teepo Character Cheats\65535 Experience]
+Type = Gameshark
+Activation = EndFrame
+80144B5C FFFF
+
+[Teepo Character Cheats\Max Experience]
+Type = Gameshark
+Activation = EndFrame
+80144B5E 03E7
+
+[Other\Misc.\Max Fish Casting Power]
+Type = Gameshark
+Activation = EndFrame
+801440BC 0100
+
+[Other\Misc.\Turn Camp Button Into Warp To Last Save Point]
+Type = Gameshark
+Activation = EndFrame
+8014504A 0001
+
+[Other\Misc.\Have Wooden Rod]
+Type = Gameshark
+Activation = EndFrame
+801451DE 2E0E
+
+[Other\Misc.\Have Bamboo Rod]
+Type = Gameshark
+Activation = EndFrame
+801451F0 2F0E
+
+[Other\Misc.\Have Deluxe Rod]
+Type = Gameshark
+Activation = EndFrame
+801451F2 300E
+
+[Other\Misc.\Have Angling Rod]
+Type = Gameshark
+Activation = EndFrame
+801451F4 310E
+
+[Other\Misc.\Have Spanner]
+Type = Gameshark
+Activation = EndFrame
+801451F6 320E
+
+[Other\Misc.\Have Master's Rod]
+Type = Gameshark
+Activation = EndFrame
+801451F8 330E
+
+[Other\Misc.\Ship Engine Never Overheats]
+Type = Gameshark
+Activation = EndFrame
+80145E9A 0000
+
+[Other\Misc.\Electric Gate In Front Entrance Of Factory Turned Off]
+Type = Gameshark
+Activation = EndFrame
+80144F32 3E10
+
+[Other\Misc.\Infinite Tidal Time]
+Type = Gameshark
+Activation = EndFrame
+90144370 461E1800
+
+[Other\Misc.\Enable All Fairy Songs]
+Description = With this cheat, it allows you to select more songs than actually exist; however, DO NOT choose any song after Castle in the Sky!
+Type = Gameshark
+Activation = EndFrame
+A71D0EC6 A4202400
+
+[Other\Misc.\Infinite Items]
+Type = Gameshark
+Activation = EndFrame
+A71D44CE A2622400
+A71D3666 A2622400
+
+[Other\Misc.\Have All Items]
+Type = Gameshark
+Activation = EndFrame
+50004301 0000
+3014534C 0014
+50005B01 0000
+3014524C 0014
+50003301 0000
+301453CC 0014
+50005201 0000
+301452CC 0014
+50004301 0001
+3014514C 0000
+50005B01 0001
+3014504C 0000
+50003301 0001
+301451CC 0000
+50005201 0001
+301450CC 0000
+
+[Other\Misc.\Infinite Health For Beyd (Battle Against Zig)]
+Type = Gameshark
+Activation = EndFrame
+801EB6C4 004B
+
+[Other\Misc.\One Hit Death For Zig]
+Type = Gameshark
+Activation = EndFrame
+801EB7DC 0000
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+80179888 0C00
+8017988A 2409
+

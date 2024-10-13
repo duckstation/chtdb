@@ -1,0 +1,40 @@
+; CHTDB: ; [ Blaze & Blade - Eternal Quest (Jpn) (1998) (T&E Soft) {SLPS-01209} <bnbetqst> ]
+
+[P1 Exp 255]
+Type = Gameshark
+Activation = EndFrame
+80053F3A 00FF
+800F0158 00FF
+
+[P1 Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800F0148 03E7
+800F014C 03E7
+
+[P1 Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+800F014A 03E7
+800F014E 03E7
+
+[P1 Level 99]
+Type = Gameshark
+Activation = EndFrame
+800F0144 FFFF
+
+[Money $99999]
+Type = Gameshark
+Activation = EndFrame
+900F026C 0001896F
+
+[Infinite Bonus]
+Type = Gameshark
+Activation = EndFrame
+80054772 0001
+
+[Bonus mAX]
+Type = Gameshark
+Activation = EndFrame
+30053F3A 00FF
+

@@ -1,0 +1,54 @@
+; CHTDB: ; [ Wizardry: Dimguil (Japan) {SLPS-02691} ]
+
+[HP (current)]
+Type = Gameshark
+Activation = EndFrame
+8007DA1E 03E7
+
+[HP (Max)]
+Type = Gameshark
+Activation = EndFrame
+8007DA22 03E7
+
+[MAX value of experience After one battle]
+Type = Gameshark
+Activation = EndFrame
+D00C515C 102B
+800C5162 1000
+
+[Gold MAX After one battle]
+Type = Gameshark
+Activation = EndFrame
+D00C8290 102B
+800C8296 1000
+
+[Not reduced MP (combat)]
+Type = Gameshark
+Activation = EndFrame
+D00AC734 005C
+800AC73C 0000
+
+[Infinite Gold]
+Type = Gameshark
+Activation = EndFrame
+9007D9F4 0098967F
+
+[No key items necessary]
+Type = Gameshark
+Activation = EndFrame
+D00B73FC 01FF
+800B7400 0001
+D00BC478 0008
+800BC47C 0001
+D00BC478 0008
+800BC494 0001
+D00BC478 0008
+800BC4A4 0001
+D00BC478 0008
+800BC4B4 0001
+
+[Speeding up]
+Type = Gameshark
+Activation = EndFrame
+80032D22 1000
+

@@ -1,0 +1,8 @@
+; CHTDB: ; [ The Final Round (USA) (1996) (Konami of America) {SLUS-00064} <finalrnd> ]
+
+[Only One Shot Recorded]
+Type = Gameshark
+Activation = EndFrame
+D00982F4 0024
+801FFE44 0001
+

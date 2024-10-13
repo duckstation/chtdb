@@ -1,0 +1,25 @@
+; CHTDB: ; [ Driver 2: Back on the Streets (Spain) {SLES-02997 | SLES-12997} ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800D7CA5 0812
+800DA981 0812
+
+[Infinite Damage]
+Type = Gameshark
+Activation = EndFrame
+800AB8AD 0000
+800D1AAF 0000
+
+[Unlock All Cities]
+Type = Gameshark
+Activation = EndFrame
+D01C1308 F809
+801C1310 0000
+
+[Unlock everything]
+Type = Gameshark
+Activation = EndFrame
+800AA5B4 0028
+

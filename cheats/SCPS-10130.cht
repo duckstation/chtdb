@@ -1,0 +1,22 @@
+; CHTDB: ; [ Tiny Bullets (Jpn) (2000) (SCEI) {SCPS-10130} <tinybull> ]
+
+[Have 99 antidotes]
+Type = Gameshark
+Activation = EndFrame
+800100C3 0063
+
+[Have 99 bombs]
+Type = Gameshark
+Activation = EndFrame
+800100C2 0063
+
+[Infinite Catapult]
+Type = Gameshark
+Activation = EndFrame
+800100BE 000A
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80089BB2 03E8
+

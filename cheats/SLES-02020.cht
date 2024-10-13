@@ -1,0 +1,77 @@
+; CHTDB: ; [ Pong (Europe) {SLES-02020} ]
+
+[Select Zone\1]
+Type = Gameshark
+Activation = EndFrame
+80112874 0000
+
+[Select Zone\2]
+Type = Gameshark
+Activation = EndFrame
+80112874 0001
+
+[Select Zone\3]
+Type = Gameshark
+Activation = EndFrame
+80112874 0002
+
+[Select Zone\4]
+Type = Gameshark
+Activation = EndFrame
+80112874 0003
+
+[Select Zone\5]
+Type = Gameshark
+Activation = EndFrame
+80112874 0004
+
+[Select Zone\6]
+Type = Gameshark
+Activation = EndFrame
+80112874 0005
+
+[Select Zone\7]
+Type = Gameshark
+Activation = EndFrame
+80112874 0006
+
+[Select Zone\8]
+Type = Gameshark
+Activation = EndFrame
+80112874 0007
+
+[Have All Gold Beams]
+Type = Gameshark
+Activation = EndFrame
+801F1DDC 0063
+
+[P1 All Powerups]
+Type = Gameshark
+Activation = EndFrame
+50000E02 0001
+301F5178 0001
+
+[P2 No Points]
+Type = Gameshark
+Activation = EndFrame
+801F2E54 0000
+
+[Points To Win-Modifier 1(0-F)]
+Type = Gameshark
+Activation = EndFrame
+80112744 0001
+
+[Rotate Playground L2 and R2]
+Type = Gameshark
+Activation = EndFrame
+E0111DC0 0001
+11112870 0004
+E0111DC0 0002
+10112870 0004
+
+[P1 Quick win]
+Type = Gameshark
+Activation = EndFrame
+C2112744 0001
+801F2CE4 0000
+

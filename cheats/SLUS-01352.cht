@@ -1,0 +1,107 @@
+; CHTDB: ; [ Nickelodeon SpongeBob SquarePants - SuperSponge (USA) (2001) (THQ) {SLUS-01352, SLUS-01352GH} <spongbsp> ]
+
+[Max Shell]
+Type = Gameshark
+Activation = EndFrame
+300A624C 0002
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800A2348 0680
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+300A24D5 0009
+
+[Infinite Tokens]
+Type = Gameshark
+Activation = EndFrame
+300A253C 0063
+
+[Air Pockets Invincibility]
+Type = Gameshark
+Activation = EndFrame
+301B5930 005C
+
+[Canyon Invincibility]
+Type = Gameshark
+Activation = EndFrame
+301C4BC0 005C
+
+[Downton Invincibility]
+Type = Gameshark
+Activation = EndFrame
+30192AF4 005C
+
+[Fish Park Invincibility]
+Type = Gameshark
+Activation = EndFrame
+3019D874 005C
+
+[Graveyard Invincibility]
+Type = Gameshark
+Activation = EndFrame
+301850E8 005C
+
+[In Whale Invincibility]
+Type = Gameshark
+Activation = EndFrame
+801A2018 005C
+
+[Jelly Fields Invincibility]
+Type = Gameshark
+Activation = EndFrame
+30191C88 005C
+
+[K. Jungle Invincibility]
+Type = Gameshark
+Activation = EndFrame
+301ABF88 005C
+
+[Last Stop Invincibility]
+Type = Gameshark
+Activation = EndFrame
+301BC92C 005C
+
+[Lava Fields Invincibility]
+Type = Gameshark
+Activation = EndFrame
+801B5F48 005C
+
+[Lost Souls Invincibility]
+Type = Gameshark
+Activation = EndFrame
+301AF8A8 005C
+
+[P. Canyon Invincibility]
+Type = Gameshark
+Activation = EndFrame
+301AAF60 005C
+
+[Rock Bottom Invincibility]
+Type = Gameshark
+Activation = EndFrame
+30186718 005C
+
+[Sandys Dome Infinite Water]
+Type = Gameshark
+Activation = EndFrame
+80191188 1F00
+
+[Sandys Dome Invincibility]
+Type = Gameshark
+Activation = EndFrame
+3019116C 005C
+
+[Tunnels Invincibility]
+Type = Gameshark
+Activation = EndFrame
+301C7110 005C
+
+[Wasteland Invincibility]
+Type = Gameshark
+Activation = EndFrame
+301B1978 005C
+

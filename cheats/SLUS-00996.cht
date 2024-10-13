@@ -1,0 +1,37 @@
+; CHTDB: ; [ TOCA 2 Touring Car Challenge (USA) (1999) (The Codemasters Software Company) {SLUS-00996} <toca2> ]
+
+[Season- Always First/Start on Last Lap]
+Type = Gameshark
+Activation = EndFrame
+800E7B1C 000F
+
+[Support- Always First/Start on Last Lap]
+Type = Gameshark
+Activation = EndFrame
+800E7A8C 000F
+
+[Unlock All Tracks]
+Type = Gameshark
+Activation = EndFrame
+3001016D 0001
+
+[Unlock All Cars]
+Type = Gameshark
+Activation = EndFrame
+3001016E 0001
+
+[Disable Championship Disqualification Cheat]
+Type = Gameshark
+Activation = EndFrame
+3001016F 0001
+
+[Unlock Mini Car Mode Cheat]
+Type = Gameshark
+Activation = EndFrame
+30010170 0001
+
+[Drive Anywhere]
+Type = Gameshark
+Activation = EndFrame
+A70960DA 10401000
+

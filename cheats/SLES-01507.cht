@@ -1,0 +1,333 @@
+; CHTDB: ; [ Metal Gear Solid (Germany) {SLES-01507 | SLES-11507} ]
+
+[Unendlich Leben]
+Type = Gameshark
+Activation = EndFrame
+800B61A6 0600
+
+[Max Leben]
+Type = Gameshark
+Activation = EndFrame
+800B61A8 0600
+
+[Unendlich Luft]
+Type = Gameshark
+Activation = EndFrame
+800ACE2C 0400
+
+[Bekomme Keinen Schnupfen]
+Type = Gameshark
+Activation = EndFrame
+800B61AA 0000
+
+[Geister-Modus (Kann Nichts Aufnehmen...)]
+Type = Gameshark
+Activation = EndFrame
+900ACE08 00000000
+
+[Radar Nicht GestöRt Wenn Entdeckt]
+Type = Gameshark
+Activation = EndFrame
+800ACDF8 0000
+
+[Alle Modi Im Vr Training]
+Type = Gameshark
+Activation = EndFrame
+300B53AB 0020
+
+[Besitze Socom (Pistole)]
+Type = Gameshark
+Activation = EndFrame
+800B61B2 03E7
+800B61C6 03E7
+
+[Besitze Fa-Mas (Sturmgewehr)]
+Type = Gameshark
+Activation = EndFrame
+800B61B4 03E7
+800B61C8 03E7
+
+[Besitze Grenades (Splittergranate)]
+Type = Gameshark
+Activation = EndFrame
+800B61B6 03E7
+800B61CA 03E7
+
+[Besitze Nikita (Lenkrakete)]
+Type = Gameshark
+Activation = EndFrame
+800B61B8 03E7
+800B61CC 03E7
+
+[Besitze Stinger (Stinger-Rakete)]
+Type = Gameshark
+Activation = EndFrame
+800B61BA 03E7
+800B61CE 03E7
+
+[Besitze Claymore (Minen)]
+Type = Gameshark
+Activation = EndFrame
+800B61BC 03E7
+800B61D0 03E7
+
+[Besitze C4 (Plastiksprengstoff)]
+Type = Gameshark
+Activation = EndFrame
+800B61BE 03E7
+800B61D2 03E7
+
+[Besitze Stun Grenades (Blendgranate)]
+Type = Gameshark
+Activation = EndFrame
+800B61C0 03E7
+800B61D4 03E7
+
+[Besitze Chaff (DüPpel)]
+Type = Gameshark
+Activation = EndFrame
+800B61C2 03E7
+800B61D6 03E7
+
+[Besitze Psg1 (ScharfschüTzengewehr)]
+Type = Gameshark
+Activation = EndFrame
+800B61C4 03E7
+800B61D8 03E7
+
+[Besitze Cigs (Zigaretten)]
+Type = Gameshark
+Activation = EndFrame
+800B61DA 0001
+
+[Besitze Scope (Fernglas)]
+Type = Gameshark
+Activation = EndFrame
+800B61DC 0001
+
+[Besitze C. Box A (Karton A)]
+Type = Gameshark
+Activation = EndFrame
+800B61DE 0001
+
+[Besitze C. Box B (Karton B)]
+Type = Gameshark
+Activation = EndFrame
+800B61E0 0001
+
+[Besitze C. Box c (Karton C)]
+Type = Gameshark
+Activation = EndFrame
+800B61E2 0001
+
+[Besitze N.V.G. (NachtsichtgeräT)]
+Type = Gameshark
+Activation = EndFrame
+800B61E4 0001
+
+[Besitze Therm. G (InfratorsichtgeräT)]
+Type = Gameshark
+Activation = EndFrame
+800B61E6 0001
+
+[Besitze Gas Mask (Gasmaske)]
+Type = Gameshark
+Activation = EndFrame
+800B61E8 0001
+
+[Besitze B. Armor (Schutzweste)]
+Type = Gameshark
+Activation = EndFrame
+800B61EA 0001
+
+[Besitze Ketchup]
+Type = Gameshark
+Activation = EndFrame
+800B61EC 0001
+
+[Besitze Stealth]
+Type = Gameshark
+Activation = EndFrame
+800B61EE 0001
+
+[Besitze Bandana]
+Type = Gameshark
+Activation = EndFrame
+800B61F0 0001
+
+[Besitze Camera]
+Type = Gameshark
+Activation = EndFrame
+800B61F2 0001
+
+[Besitze 255 Rationen]
+Type = Gameshark
+Activation = EndFrame
+800B61F4 03E7
+800B620A 03E7
+
+[Besitze 255 Medicine (Medizin)]
+Type = Gameshark
+Activation = EndFrame
+800B61F6 03E7
+800B620C 03E7
+
+[Besitze 255 Diazepam]
+Type = Gameshark
+Activation = EndFrame
+800B61F8 03E7
+800B620E 03E7
+
+[Besitze Pal Key (Pal SchlüSsel)]
+Type = Gameshark
+Activation = EndFrame
+800B61FA 0001
+
+[Besitze Id-Karte]
+Type = Gameshark
+Activation = EndFrame
+800B61FC 0064
+
+[Besitze Nie Zeitbombe]
+Type = Gameshark
+Activation = EndFrame
+800B61FE 0000
+
+[Besitze Minendetektor]
+Type = Gameshark
+Activation = EndFrame
+800B6200 0001
+
+[Besitze Mo Disc]
+Type = Gameshark
+Activation = EndFrame
+800B6202 0001
+
+[Besitze Rope (Seil)]
+Type = Gameshark
+Activation = EndFrame
+800B6204 0001
+
+[Besitze Handker (Taschentuch)]
+Type = Gameshark
+Activation = EndFrame
+800B6206 0001
+
+[Besitze Suppressor (SchalldäMpfer)]
+Type = Gameshark
+Activation = EndFrame
+800B6208 0000
+
+[Besitze #Cold# (Blauer) Pal Key Drücke Dreieck+O Diese Codes sind nur für ungefähr eine Sekunde aktiv!]
+Type = Gameshark
+Activation = EndFrame
+D00ACD48 0030
+800B6212 0002
+
+[Besitze #Hot# (Roter) Pal Key Drücke O+X Diese Codes sind nur für ungefähr eine Sekunde aktiv!]
+Type = Gameshark
+Activation = EndFrame
+D00ACD48 0060
+800B6212 0001
+
+[Besitze Alle Waffen Benutzen Sie entweder die Waffencodes einzeln oder diesen Code]
+Type = Gameshark
+Activation = EndFrame
+50001402 0000
+800B61B2 03E7
+
+[Besitze Die Meisten GegenstäNde Benutzen Sie entweder die Codes für die Gegenstände einzeln oder diesen Code.]
+Type = Gameshark
+Activation = EndFrame
+50000D02 0000
+800B61DA 0001
+
+[Psycho Mantis 0 Energie Drücke L2+Dreieck+Quadrat]
+Type = Gameshark
+Activation = EndFrame
+D00ACD48 0091
+800B7936 0000
+
+[Sniper Wolf 0 Energie Drücke Dreieck+Hoch]
+Type = Gameshark
+Activation = EndFrame
+D00ACD48 1010
+80173188 0000
+D00ACD48 1010
+8017318C 0000
+D00ACD48 1010
+80172E44 0001
+
+[Hind d 0 Energie Drücke Dreieck+Hoch]
+Type = Gameshark
+Activation = EndFrame
+D00ACD48 1010
+80154CD4 0000
+D00ACD48 1010
+80154E74 0000
+D00ACD48 1010
+80154AB4 0000
+
+[Sniper Wolf II 0 Energie Drücke Dreieck+HocH]
+Type = Gameshark
+Activation = EndFrame
+D00ACD48 1010
+801701BC 0000
+D00ACD48 1010
+801701C0 0000
+D00ACD48 1010
+8016FE78 0001
+
+[Vulcan Raven 0 Energie Drücke Dreieck+Hoch]
+Type = Gameshark
+Activation = EndFrame
+D00ACD48 1010
+80157408 0000
+D00ACD48 1010
+8015740C 0000
+
+[Metal Gear Rex i & II 0 Energie Drücke Dreieck+Hoch]
+Type = Gameshark
+Activation = EndFrame
+D00ACD48 1010
+800B7B76 0000
+
+[0 Schuss FüR Revolver Ocelot Oben+Dreieck]
+Type = Gameshark
+Activation = EndFrame
+D00ACD48 1010
+800B7936 0000
+
+[Ninja Besiegen Oben+Dreieck]
+Type = Gameshark
+Activation = EndFrame
+D00ACD48 1010
+8015B59C 0000
+
+[Radar Funktioniert Bei Jedem Schwierigkeitsgrad]
+Type = Gameshark
+Activation = EndFrame
+800B6194 2410
+
+[Radar Immer Aus]
+Type = Gameshark
+Activation = EndFrame
+800B6194 2C10
+
+[Spiele Im First Person Viewmode Um diesen Code zu aktivieren einfach L1+L2+R1+R2 drücken und danach den Dreieck-Knopf. Zum deaktivieren einfach Dreieck nochmal drücken.]
+Type = Gameshark
+Activation = EndFrame
+D00ACD48 001F
+300ACE48 0000
+
+[Besitze Normalen Pal Key Drücke O+X+L2]
+Type = Gameshark
+Activation = EndFrame
+D00ACD48 0061
+800B6212 0000
+
+[Durch WäNde Gehen]
+Type = Gameshark
+Activation = EndFrame
+90026580 08009990
+

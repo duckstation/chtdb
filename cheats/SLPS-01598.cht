@@ -1,0 +1,47 @@
+; CHTDB: ; [ Armed Fighter (Jpn) (1999) (Banpresto) {SLPS-01598} <armedfgt> ]
+
+[Infinite HP Story Mode - Dominura - Level 1]
+Type = Gameshark
+Activation = EndFrame
+80156AA2 00B4
+
+[Infinite HP Story Mode - Faye - Level 1]
+Type = Gameshark
+Activation = EndFrame
+801352A6 00B4
+
+[Infinite HP Story Mode - Faye - Level 2]
+Type = Gameshark
+Activation = EndFrame
+801362A6 00B4
+
+[Infinite HP Story Mode - Faye - Level 3 + 6]
+Type = Gameshark
+Activation = EndFrame
+8015AAA6 00B4
+
+[Infinite HP Story Mode - Faye - Level 4]
+Type = Gameshark
+Activation = EndFrame
+80158AA6 00B4
+
+[Infinite HP Story Mode - Faye - Level 5 + 7]
+Type = Gameshark
+Activation = EndFrame
+8015B2A6 00B4
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A7066080 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A7066080 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A7066080 10000400
+

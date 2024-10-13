@@ -1,0 +1,12 @@
+; CHTDB: ; [ Downhill Snow (Japan) {SLPS-01391} ]
+
+[Freeze Elapse Timer]
+Type = Gameshark
+Activation = EndFrame
+8009DA5C 0000
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+8009DA64 D500
+

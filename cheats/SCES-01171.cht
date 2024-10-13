@@ -1,0 +1,37 @@
+; CHTDB: ; [ Wild Arms (France) {SCES-01171} ]
+
+[Money 99,999]
+Type = Gameshark
+Activation = EndFrame
+900DEBBC 0001869F
+
+[Rudy HP 9999]
+Type = Gameshark
+Activation = EndFrame
+900DE7D0 270F270F
+
+[Rudy MP 999]
+Type = Gameshark
+Activation = EndFrame
+900DE7D4 03E703E7
+
+[Jack HP 9999]
+Type = Gameshark
+Activation = EndFrame
+900DE804 270F270F
+
+[Jack MP 999]
+Type = Gameshark
+Activation = EndFrame
+900DE808 03E703E7
+
+[Cecilia HP 9999]
+Type = Gameshark
+Activation = EndFrame
+900DE838 270F270F
+
+[Cecilia MP 999]
+Type = Gameshark
+Activation = EndFrame
+900DE83C 03E703E7
+

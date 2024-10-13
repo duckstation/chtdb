@@ -1,0 +1,17 @@
+; CHTDB: ; [ Angelique Duet (Jpn) (1998) (Koei) {SLPS-01337} <angduet> ]
+
+[Heroine Infinite + Max HP]
+Type = Gameshark
+Activation = EndFrame
+800FF224 0808
+
+[Rival Infinite + Max HP]
+Type = Gameshark
+Activation = EndFrame
+800FF28A 0808
+
+[All Pictures]
+Type = Gameshark
+Activation = EndFrame
+30101015 00FF
+

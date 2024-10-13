@@ -1,0 +1,27 @@
+; CHTDB: ; [ Lone Soldier (Jpn) (1996) (Virgin Interactive Entertainment) {SLPS-00322} <lonesold> ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800B7EC4 FFFF
+
+[Infinite Bazooka Ammo]
+Type = Gameshark
+Activation = EndFrame
+800841A6 0005
+
+[Infinite Grenades]
+Type = Gameshark
+Activation = EndFrame
+801F1BCC 000F
+
+[Infinite Flamethrower Fuel]
+Type = Gameshark
+Activation = EndFrame
+800841A8 0096
+
+[Infinite M60 Ammo]
+Type = Gameshark
+Activation = EndFrame
+800841AA 0096
+

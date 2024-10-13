@@ -1,0 +1,87 @@
+; CHTDB: ; [ Warhawk - The Red Mercury Missions (USA) (1995) (Sony Computer Entertainment America) {SCUS-94305} <warhawk> ]
+
+[Infinite Front Shield]
+Type = Gameshark
+Activation = EndFrame
+801A2B3C 012C
+
+[Infinite Left Shield]
+Type = Gameshark
+Activation = EndFrame
+801A2B3E 012C
+
+[Infinite Right Shield]
+Type = Gameshark
+Activation = EndFrame
+801A2B40 012C
+
+[Infinite Rear Shield]
+Type = Gameshark
+Activation = EndFrame
+801A2B42 012C
+
+[Infinite Rockets]
+Type = Gameshark
+Activation = EndFrame
+801B8A42 0064
+
+[Infinite Lock-Ons]
+Type = Gameshark
+Activation = EndFrame
+801B8A44 0008
+
+[Infinite Swarmers]
+Type = Gameshark
+Activation = EndFrame
+801B8A46 0008
+
+[Infinite Plasma Cannon Charges]
+Type = Gameshark
+Activation = EndFrame
+801B8A48 2003
+
+[Infinite Flash Bombs]
+Type = Gameshark
+Activation = EndFrame
+801B8A4E 270E
+
+[Infinite Doomsday Bombs]
+Type = Gameshark
+Activation = EndFrame
+801B8A4A 0001
+
+[Machine Gun Never Overheats]
+Type = Gameshark
+Activation = EndFrame
+801B8A40 0000
+
+[Missiles Automatically Fire Rapidly]
+Type = Gameshark
+Activation = EndFrame
+801B8A4C 0001
+
+[Rapid Fire]
+Type = Gameshark
+Activation = EndFrame
+801B8A56 0000
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+8013A51C 0000
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A7173AD0 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A7173AD0 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A7173AD0 10000400
+

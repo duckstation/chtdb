@@ -1,0 +1,98 @@
+; CHTDB: ; [ Shadow Tower (Japan) {SLPS-01420} ]
+
+[Hp 9999]
+Type = Gameshark
+Activation = EndFrame
+90197E40 270F270F
+
+[Mp 9999]
+Type = Gameshark
+Activation = EndFrame
+90197E44 270F270F
+
+[Sp 9999]
+Type = Gameshark
+Activation = EndFrame
+80197E48 270F
+
+[Max Status]
+Type = Gameshark
+Activation = EndFrame
+80197EDA 03E7
+90197EDC 03E703E7
+90197EE0 03E703E7
+90197EE4 03E703E7
+90197EE8 03E703E7
+90197EEC 03E703E7
+90197EF0 03E703E7
+80197EF4 03E7
+
+[Max Attack]
+Type = Gameshark
+Activation = EndFrame
+90197D00 00FF00FF
+90197D04 00FF00FF
+90197D08 00FF00FF
+90197D0C 00FF00FF
+
+[Time For Attack (Max)]
+Type = Gameshark
+Activation = EndFrame
+80197FBE 1400
+
+[Max Magic Attack (Right)]
+Type = Gameshark
+Activation = EndFrame
+80197E4E 03E7
+
+[Max Magic Attack (Left)]
+Type = Gameshark
+Activation = EndFrame
+80197E50 03E7
+
+[Weapon Will Not Damage]
+Type = Gameshark
+Activation = EndFrame
+9003C874 00000000
+
+[Max Weapon Values]
+Type = Gameshark
+Activation = EndFrame
+80197EFA 03E7
+90197EFC 03E703E7
+
+[Monster Gallery]
+Type = Gameshark
+Activation = EndFrame
+901CBDC8 FFFFFFFF
+901CBDCC FFFFFFFF
+901CBDD0 FFFFFFFF
+901CBDD4 FFFFFFFF
+801CBDD8 FFFF
+301CBDDA 00FF
+
+[P1 Hp]
+Type = Gameshark
+Activation = EndFrame
+800B0B38 0210
+
+[P2 Hp]
+Type = Gameshark
+Activation = EndFrame
+800FEC20 0210
+
+[P1 Caught All Monster]
+Type = Gameshark
+Activation = EndFrame
+901A1BAC FFFFFFFF
+901A1BB0 FFFFFFFF
+901A1BB4 FFFFFFFF
+901A1BB8 FFFFFFFF
+801A1BBC FFFF
+301A1BBE 00FF
+
+[Creature Book All]
+Type = Gameshark
+Activation = EndFrame
+301CBDFF 00FF
+

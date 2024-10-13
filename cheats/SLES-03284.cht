@@ -1,0 +1,17 @@
+; CHTDB: ; [ Prism Land Story aka Prism Land (Europe) (Pocket Price Midas) {SLES-03284} ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801C26EC 0009
+
+[Infinite MP 999]
+Type = Gameshark
+Activation = EndFrame
+801C26EE 03E7
+
+[Automatically Beat Levels]
+Type = Gameshark
+Activation = EndFrame
+8011322E 0000
+

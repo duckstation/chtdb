@@ -1,0 +1,44 @@
+; CHTDB: ; [ 007: El Mundo Nunca es Suficiente (Spain) (2 Games (2 juegos)) {SLES-03137} ]
+
+[Infinite Energy (.Don't use until the game start or it will broke the game)]
+Type = Gameshark
+Activation = EndFrame
+8016CBC5 0200
+
+[Infinite Ammo PPK]
+Type = Gameshark
+Activation = EndFrame
+800B66C0 0063
+
+[Infinite Ammo K99]
+Type = Gameshark
+Activation = EndFrame
+800B69A0 0063
+
+[Infinite Ammo escopeta]
+Type = Gameshark
+Activation = EndFrame
+800B6A58 0002
+
+[All Cheats Unlocked]
+Type = Gameshark
+Activation = EndFrame
+8001F1BA 03FF
+
+[Unlock All Missions & Movies]
+Type = Gameshark
+Activation = EndFrame
+50000A01 0000
+3001F325 0001
+
+[All FMV of Win the Stages]
+Type = Gameshark
+Activation = EndFrame
+50000A01 0000
+3001F330 0101
+
+[Unlock Secret Win Game Movie]
+Type = Gameshark
+Activation = EndFrame
+8001F2DE 0002
+

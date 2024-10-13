@@ -1,0 +1,68 @@
+; CHTDB: ; [ 3D Lemmings (Europe) {SCES-00009} ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80089FB0 003B
+
+[Minimum Rate = 1]
+Type = Gameshark
+Activation = EndFrame
+801054FE 0001
+
+[Only 1 Lemming]
+Type = Gameshark
+Activation = EndFrame
+80105502 0001
+
+[Infinite Blockers]
+Type = Gameshark
+Activation = EndFrame
+3011195C 0001
+
+[Infinite Schalters]
+Type = Gameshark
+Activation = EndFrame
+3011195D 0001
+
+[Infinite Bombers]
+Type = Gameshark
+Activation = EndFrame
+3011195E 0001
+
+[Infinite Builders]
+Type = Gameshark
+Activation = EndFrame
+3011195F 0001
+
+[Infinite Bashers]
+Type = Gameshark
+Activation = EndFrame
+30111960 0001
+
+[Infinite Miners]
+Type = Gameshark
+Activation = EndFrame
+30111961 0001
+
+[Infinite Diggers]
+Type = Gameshark
+Activation = EndFrame
+30111962 0001
+
+[Infinite Climbers]
+Type = Gameshark
+Activation = EndFrame
+30111963 0001
+
+[Infinite Floaters]
+Type = Gameshark
+Activation = EndFrame
+30111964 0001
+
+[Infinite All Kind Of Lemmings (Use this code to activate all Infinite codes)]
+Type = Gameshark
+Activation = EndFrame
+50000901 0000
+3011195C 0001
+

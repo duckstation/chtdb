@@ -1,0 +1,22 @@
+; CHTDB: ; [ Mahjong Yarouze! (Jpn) (1999) (Konami) {SLPM-86173 (VX088-J1)} <mjyaroze> ]
+
+[P1 Infinite Money (60000)]
+Type = Gameshark
+Activation = EndFrame
+80151AB0 EA60
+
+[0 points A opponent score]
+Type = Gameshark
+Activation = EndFrame
+90151AB4 00000000
+
+[0 points B opponent score]
+Type = Gameshark
+Activation = EndFrame
+90151AB8 00000000
+
+[0 points C opponent score]
+Type = Gameshark
+Activation = EndFrame
+90151ABC 00000000
+

@@ -1,0 +1,126 @@
+; CHTDB: ; [ Einhänder (USA) (1998) (Sony Computer Entertainment America) {SCUS-94243} <einhandr> ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800813C4 0003
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+80085718 00A5
+
+[Infinite Special Weapon Ammo]
+Type = Gameshark
+Activation = EndFrame
+80084832 000F
+80084834 000F
+
+[Score Multiplier Always At 40]
+Type = Gameshark
+Activation = EndFrame
+80081326 0028
+
+[Endymion Mk. Ii\Push Triangle Button To Get Weapon (1-D)]
+Type = Gameshark
+Activation = EndFrame
+D0083E2C 0010
+80085734 0D00
+
+[Astrea\Push Triangle Button To Get Weapon (1-D)]
+Type = Gameshark
+Activation = EndFrame
+D0083E2C 0010
+80085734 0C0D
+
+[Astrea\Infinite Top Pod Ammo]
+Type = Gameshark
+Activation = EndFrame
+80084982 000F
+
+[Astrea\Have Unknown Fighter Type I]
+Description = Push the triangle button at the fighter select screen
+Type = Gameshark
+Activation = EndFrame
+D0083E2C 0010
+80081434 0003
+
+[Astrea\Have Unknown Fighter Type II]
+Description = Push the triangle button at the fighter select screen
+Type = Gameshark
+Activation = EndFrame
+D0083E2C 0010
+80081434 0004
+
+[Other\Press Triangle To Refill Ammo To 9999]
+Type = Gameshark
+Activation = EndFrame
+D0083E2C 0010
+80084832 9999
+80084834 9999
+
+[Other\Enable Gallery With All Pictures]
+Type = Gameshark
+Activation = EndFrame
+901FEC9C FFFFFFFF
+
+[255 Hits]
+Type = Gameshark
+Activation = EndFrame
+30085710 00FF
+
+[255x Multiplier]
+Type = Gameshark
+Activation = EndFrame
+80081326 00FF
+
+[Debug Option]
+Description = Go to config, file or gallery menu first. Then press Select.
+Type = Gameshark
+Activation = EndFrame
+D0083E2E 0100
+800ADA40 0007
+
+[Enable Stage Select and also makes you play in Free Difficuly which was disabled from the US release]
+Type = Gameshark
+Activation = EndFrame
+800ADAA6 0001
+80085960 FFFF
+8008593C 0000
+
+[Go To Gallery From Configuration]
+Description = Press L2
+Type = Gameshark
+Activation = EndFrame
+D00ADA52 0100
+D0083E2E 0001
+300ADA53 0005
+
+[Hyper Mode]
+Type = Gameshark
+Activation = EndFrame
+30085709 00FF
+
+[Stage Select From Configuration]
+Description = Press Select, Then X
+Type = Gameshark
+Activation = EndFrame
+D00ADA52 0100
+D0083E2E 0100
+300ADA53 0004
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A713EFF8 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A713EFF8 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A713EFF8 10000400
+

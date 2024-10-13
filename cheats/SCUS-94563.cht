@@ -1,0 +1,39 @@
+; CHTDB: ; [ Speed Punks (USA) (2000) (Sony Computer Entertainment America) {SCUS-94563} <spdpunks> ]
+
+[Stop Clock]
+Type = Gameshark
+Activation = EndFrame
+D00940B0 0034
+800940B2 2400
+D0094160 0028
+80094162 2400
+
+[Infinite Speed Boost (On Pickup)]
+Type = Gameshark
+Activation = EndFrame
+D008F91C 1150
+8008F91E 2400
+
+[Infinite Retries]
+Type = Gameshark
+Activation = EndFrame
+300F0C38 0002
+
+[Everything Unlocked]
+Type = Gameshark
+Activation = EndFrame
+800F0520 FFFF
+800F0B80 FFFF
+
+[Select Starting Lap\3]
+Type = Gameshark
+Activation = EndFrame
+D0093F34 00A4
+30093F38 0003
+
+[Select Starting Lap\4]
+Type = Gameshark
+Activation = EndFrame
+D0093F34 00A4
+30093F38 0004
+

@@ -1,0 +1,12 @@
+; CHTDB: ; [ Ballistic (USA) (1999) (Infogrames) {SLUS-00966} <ballist> ]
+
+[Max Score]
+Type = Gameshark
+Activation = EndFrame
+800CAEB8 FFFF
+
+[Enable All Stages]
+Type = Gameshark
+Activation = EndFrame
+900D7FCC 002C0100
+

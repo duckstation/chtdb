@@ -1,0 +1,82 @@
+; CHTDB: ; [ Koudelka (Japan) {SLPS-02460 | SLPS-02461 | SLPS-02462 | SLPS-02463} ]
+
+[Fast Max Hp]
+Type = Gameshark
+Activation = EndFrame
+801FC504 03E6
+
+[Fast Max Mp]
+Type = Gameshark
+Activation = EndFrame
+801FC52C 03E6
+
+[Koudelka Infinite & Max HP]
+Type = Gameshark
+Activation = EndFrame
+901D141C 270F270F
+
+[Koudelka Infinite & Max MP]
+Type = Gameshark
+Activation = EndFrame
+901D142C 02E702E7
+
+[Koudelka Level 99]
+Type = Gameshark
+Activation = EndFrame
+801D1476 6301
+
+[All character appearance]
+Type = Gameshark
+Activation = EndFrame
+801D94C2 0300
+
+[Door is opened without the key]
+Description = Press Select
+Type = Gameshark
+Activation = EndFrame
+D00B594A FFFE
+801D93FE 2000
+D00B594A FFFE
+801D93F8 0800
+D00B594A FFFE
+801D93FC 4280
+D00B594A FFFE
+801D9400 0288
+D00B594A FFFE
+801D9402 0021
+
+[1 Fight For Max Level]
+Type = Gameshark
+Activation = EndFrame
+D0089968 0540
+8008996A 8C80
+D0089968 0540
+80089964 FFFF
+D0089968 0540
+80089966 2403
+
+[No Random Battles]
+Type = Gameshark
+Activation = EndFrame
+D00715F2 2442
+800715F0 0000
+
+[MAX proficiency in the use of a single weapon , Magic]
+Type = Gameshark
+Activation = EndFrame
+D008A022 3042
+8008A020 0BE7
+A608A022 30422402
+
+[Including bullet gun that does not decrease even if I use the item]
+Type = Gameshark
+Activation = EndFrame
+D0089ACC 008C
+80089ACE 1400
+
+[Does not decrease bow Crossbow]
+Type = Gameshark
+Activation = EndFrame
+D0089A28 008C
+80089A2A 1400
+

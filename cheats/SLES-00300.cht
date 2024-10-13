@@ -1,0 +1,22 @@
+; CHTDB: ; [ DragonHeart: Fire & Steel (Europe) {SLES-00300} ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800225DA 3400
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+30085D54 0900
+
+[Infinite Arrows]
+Type = Gameshark
+Activation = EndFrame
+30085D57 0009
+
+[Infinite Dragon Attacks When You Have It]
+Type = Gameshark
+Activation = EndFrame
+30085DA8 0063
+

@@ -1,0 +1,15 @@
+; CHTDB: ; [ Hatsukoi Valentine Special (Japan) {SLPS-01452} ]
+
+[Max stats (999)]
+Type = Gameshark
+Activation = EndFrame
+800AEDBC 03E7
+800AEDC0 03E7
+800AEDC4 03E7
+800AEDC8 03E7
+
+[Max money]
+Type = Gameshark
+Activation = EndFrame
+800AEDCC 270F
+

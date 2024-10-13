@@ -1,0 +1,7 @@
+; CHTDB: ; [ DX Monopoly (Jpn) (2000) (Takara) {SLPS-02943} <dxmonopl> ]
+
+[P1 Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+800E3BBC 270F
+

@@ -1,0 +1,227 @@
+; CHTDB: ; [ Brave Fencer Musashi (USA) (1998) (Square Electronic Arts) {SLUS-00726} <musashi> ]
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+80078EB2 0212
+80078EB4 0212
+
+[Infinite BP]
+Type = Gameshark
+Activation = EndFrame
+80078EB6 0212
+80078EB8 0212
+
+[Infinite Cash]
+Type = Gameshark
+Activation = EndFrame
+80078E8E 0001
+
+[Quick Level Gain]
+Type = Gameshark
+Activation = EndFrame
+80078F08 FFFF
+
+[All Rescues Complete]
+Type = Gameshark
+Activation = EndFrame
+50001102 0000
+800BA1F8 0101
+300BA21A 0001
+
+[Time 00.00.00]
+Type = Gameshark
+Activation = EndFrame
+90078E7C 00000000
+
+[Tired At 0%]
+Type = Gameshark
+Activation = EndFrame
+80078EA6 00A0
+
+[Stop Village Rescue Timer]
+Type = Gameshark
+Activation = EndFrame
+90078E90 041BBE2A
+
+[Stop Valve Reset Timer]
+Type = Gameshark
+Activation = EndFrame
+801204A8 0700
+
+[All Legendary Armor Peices]
+Type = Gameshark
+Activation = EndFrame
+300AE64B 00FF
+300AE64C 00FF
+
+[Have All Techs]
+Type = Gameshark
+Activation = EndFrame
+800AE658 FFFF
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+30126C00 4115
+
+[Moon Jump]
+Type = Gameshark
+Activation = EndFrame
+D0078DCA 0040
+80126B8E FFF1
+
+[Infinite Mid-Air Jumps]
+Description = With this cheat, you must have the Legendary Belt for this cheat to work
+Type = Gameshark
+Activation = EndFrame
+80126D98 0000
+
+[Max Body]
+Type = Gameshark
+Activation = EndFrame
+80078EE4 031B
+
+[Max Mind]
+Type = Gameshark
+Activation = EndFrame
+80078EEC 031B
+
+[Max Fus]
+Type = Gameshark
+Activation = EndFrame
+80078EF4 031B
+
+[Never Lose A Log (Raft Stage)]
+Type = Gameshark
+Activation = EndFrame
+800BA286 0400
+;With these Toys Cheats, all toys will show up
+;in your room, but only series 1, 2 + special
+;will show up in the toy shop.
+
+[Always have Musashi Toy]
+Type = Gameshark
+Activation = EndFrame
+800BA21A C1C2
+
+[Always have Bee Plant + Soldier1 Toy]
+Type = Gameshark
+Activation = EndFrame
+800BA21C C1C2
+
+[Always have Soldier2 + Rootrick Toy]
+Type = Gameshark
+Activation = EndFrame
+800BA21E C1C2
+
+[Always have St-Knight + Soldier3 Toy]
+Type = Gameshark
+Activation = EndFrame
+800BA220 C1C2
+
+[Always have Herbplant + Kmaneater Toy]
+Type = Gameshark
+Activation = EndFrame
+800BA222 C1C2
+
+[Always have Magician + Sleepie Toy]
+Type = Gameshark
+Activation = EndFrame
+800BA224 C1C2
+
+[Always have Skullpion + R-Vambee Toy]
+Type = Gameshark
+Activation = EndFrame
+800BA226 C1C2
+
+[Always have V-Soldier + Bowler Toy]
+Type = Gameshark
+Activation = EndFrame
+800BA228 C1C2
+
+[Always have Cure Worm + Bubbles Toy]
+Type = Gameshark
+Activation = EndFrame
+800BA22A C1C2
+
+[Always have R-Keeper + Penguin Toy]
+Type = Gameshark
+Activation = EndFrame
+800BA22C C1C2
+
+[Always have Hayawolf + Slowguy Toy]
+Type = Gameshark
+Activation = EndFrame
+800BA22E C1C2
+
+[Always have S-Golem + Ginger-E Toy]
+Type = Gameshark
+Activation = EndFrame
+800BA230 C1C2
+
+[Always have F-Dragon + Giant Toy]
+Type = Gameshark
+Activation = EndFrame
+800BA232 C1C2
+
+[Always have Toadstool + Ed + Ben Toy]
+Type = Gameshark
+Activation = EndFrame
+800BA234 C1C2
+
+[Always have Topo + Col-Capri Toy]
+Type = Gameshark
+Activation = EndFrame
+800BA236 C1C2
+
+[Always have Queen Ant + Soldier H1 Toy]
+Type = Gameshark
+Activation = EndFrame
+800BA238 C1C2
+
+[Always have Soldier2H + Soldier3H Toy]
+Type = Gameshark
+Activation = EndFrame
+800BA23A C1C2
+
+[Always have Bigwalker + Flatski Toy]
+Type = Gameshark
+Activation = EndFrame
+800BA23C C1C2
+
+[Always have T.O.D + Fillet Toy]
+Type = Gameshark
+Activation = EndFrame
+800BA23E C1C2
+
+[Always have Jon+Leno + Momminku Toy]
+Type = Gameshark
+Activation = EndFrame
+800BA240 C1C2
+
+[Always have Kojiro + Dlumina1 Toy]
+Type = Gameshark
+Activation = EndFrame
+800BA242 C1C2
+
+[Always have Dlumina2 + Dlumina3 Toy]
+Type = Gameshark
+Activation = EndFrame
+800BA244 C1C2
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A70AE7F0 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A70AE7F0 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A70AE7F0 10000400
+

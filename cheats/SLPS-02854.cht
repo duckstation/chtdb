@@ -1,0 +1,76 @@
+; CHTDB: ; [ Ningyo no Rakuin (Jpn) (2000) (NEC Interchannel) {SLPS-02854 (NIPS-4010)} <ningyrak> ]
+
+[Main Character Exp 99]
+Type = Gameshark
+Activation = EndFrame
+80192D3A 0063
+
+[Main Character AP 99]
+Type = Gameshark
+Activation = EndFrame
+80192D2E 03E8
+
+[Main Character HP/MP 999]
+Type = Gameshark
+Activation = EndFrame
+80192D26 03E7
+90192D28 03E703E7
+80192D2C 03E7
+
+[Second Character Exp 99]
+Type = Gameshark
+Activation = EndFrame
+801932D2 0063
+
+[Second Character AP 99]
+Type = Gameshark
+Activation = EndFrame
+801932C6 03E8
+
+[Second Character HP/MP 999]
+Type = Gameshark
+Activation = EndFrame
+801932BE 03E7
+901932C0 03E703E7
+801932C4 03E7
+
+[Third Character HP 999]
+Type = Gameshark
+Activation = EndFrame
+80193856 03E7
+80193858 03E7
+
+[Third Character MP 999]
+Type = Gameshark
+Activation = EndFrame
+8019385A 03E7
+8019385C 03E7
+
+[Fourth character HP 990]
+Type = Gameshark
+Activation = EndFrame
+80193DEE 03E7
+80193DF2 03E7
+
+[Fourth character MP 990]
+Type = Gameshark
+Activation = EndFrame
+80193DF0 03E7
+80193DF4 03E7
+
+[Full accessoires 99]
+Type = Gameshark
+Activation = EndFrame
+50007101 0000
+3003BB70 0063
+
+[Scenario]
+Type = Gameshark
+Activation = EndFrame
+3003BC00 0015
+
+[Scenario display]
+Type = Gameshark
+Activation = EndFrame
+3003BC02 0015
+

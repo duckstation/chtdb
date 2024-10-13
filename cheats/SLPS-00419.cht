@@ -1,0 +1,13 @@
+; CHTDB: ; [ Shock Wave (Japan) {SLPS-00419} ]
+
+[Infinite Missiles]
+Type = Gameshark
+Activation = EndFrame
+8006E348 000F
+8006DF44 000F
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+9006E344 002D2D2D
+

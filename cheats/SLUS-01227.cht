@@ -1,0 +1,60 @@
+; CHTDB: ; [ The Simpsons Wrestling (USA) (2001) (Activision) {SLUS-01227} <simpwrst> ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+9002EFC8 26990DEC
+9002EFD0 17240004
+
+[P2 Infinite Health P1 + 1-Hit Death]
+Type = Gameshark
+Activation = EndFrame
+9002EFA0 26990DEC
+9002EFA8 17240004
+8002EFBA AC60
+
+[All Characters Selectable And Players Can Select The Same Character]
+Type = Gameshark
+Activation = EndFrame
+8002852E 2400
+
+[Have Champion Circuit]
+Type = Gameshark
+Activation = EndFrame
+80072BF2 0001
+
+[Have Defender Circuit]
+Type = Gameshark
+Activation = EndFrame
+80072BF0 0001
+
+[Have Bonus Match Up]
+Type = Gameshark
+Activation = EndFrame
+80072BD0 0001
+
+[Big Ape Arena Enabled]
+Type = Gameshark
+Activation = EndFrame
+80072940 0001
+
+[Big Ape Mode enabled]
+Type = Gameshark
+Activation = EndFrame
+8007317C 0001
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A7047B28 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A7047B28 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A7047B28 10000400
+

@@ -1,0 +1,13 @@
+; CHTDB: ; [ Steel Harbinger (Europe) {SLES-00373} ]
+
+[Miranda Invincibility]
+Type = Gameshark
+Activation = EndFrame
+80099FB0 03E8
+
+[Infinite Ammo M560X & Thermo-Homing-Weapon]
+Type = Gameshark
+Activation = EndFrame
+80124422 03E8
+90124424 03E80001
+

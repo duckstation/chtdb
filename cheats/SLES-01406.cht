@@ -1,0 +1,93 @@
+; CHTDB: ; [ Colony Wars: Vengeance (Germany) {SLES-01406} ]
+
+[Unendlich Schilde]
+Type = Gameshark
+Activation = EndFrame
+8004647C 0064
+
+[As Laser ÜBerhitzt Nicht]
+Type = Gameshark
+Activation = EndFrame
+8012F31C 0000
+
+[Laser ÜBerhitzt Nicht]
+Type = Gameshark
+Activation = EndFrame
+8012F374 0000
+
+[Seismische Lanze ÜBerhitzt Nicht]
+Type = Gameshark
+Activation = EndFrame
+8012F3CC 0000
+8012F424 0000
+
+[Unendlich As Raketen]
+Type = Gameshark
+Activation = EndFrame
+8012F430 0005
+
+[Unendlich Plasma Raketen]
+Type = Gameshark
+Activation = EndFrame
+8012F488 0005
+
+[Unendlich Verteidigungskapseln]
+Type = Gameshark
+Activation = EndFrame
+8012F4E0 0005
+
+[Unendlich As Torpedos]
+Type = Gameshark
+Activation = EndFrame
+8012F538 0005
+
+[Unendlich Angriffskapseln]
+Type = Gameshark
+Activation = EndFrame
+8012F590 0005
+
+[Unendlich Zyx-Einheiten]
+Type = Gameshark
+Activation = EndFrame
+A60C57CC 00000001
+
+[Unendlich Zeit]
+Type = Gameshark
+Activation = EndFrame
+8011EDA8 FFFF
+
+[Feuere Laser Schneller]
+Type = Gameshark
+Activation = EndFrame
+8012F378 0001
+
+[Feuere As Laser Schneller]
+Type = Gameshark
+Activation = EndFrame
+8012F320 0001
+
+[Alle Schiffe VerfüGbar]
+Type = Gameshark
+Activation = EndFrame
+300343C0 0001
+
+[Alle Waffen VerfüGbar]
+Type = Gameshark
+Activation = EndFrame
+300343BF 0001
+
+[Unendlich Nachbrenner]
+Type = Gameshark
+Activation = EndFrame
+300343BD 0001
+
+[Unendlich SekundäRe Waffen]
+Type = Gameshark
+Activation = EndFrame
+300343B8 0001
+
+[Missionen/Filme AnwäHlbar]
+Type = Gameshark
+Activation = EndFrame
+300343B9 0001
+

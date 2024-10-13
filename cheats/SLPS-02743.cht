@@ -1,0 +1,22 @@
+; CHTDB: ; [ Marionette Company 2 Chu! (Jpn) (2000) (Micro Cabin) {SLPS-02743} <mariont2> ]
+
+[Money 100000 Yen]
+Type = Gameshark
+Activation = EndFrame
+9006F364 000186A0
+
+[Cara All Clear]
+Type = Gameshark
+Activation = EndFrame
+8006F0A8 07FF
+
+[CG Album 100% Unlock]
+Type = Gameshark
+Activation = EndFrame
+8006F0AA 007F
+9006F0B4 FFFFFC06
+9006F0B8 FFFFFFFF
+9006F0BC FFFFFFFF
+9006F0C0 FE0FC07F
+8006F0C4 007F
+

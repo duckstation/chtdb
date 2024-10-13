@@ -1,0 +1,136 @@
+; CHTDB: ; [ Breath of Fire IV (USA) (E3 2000 Build) {SLPS-02728} ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+90112D80 00989671
+
+[Quick Level Up]
+Type = Gameshark
+Activation = EndFrame
+90115F48 7FFFFFFF
+
+[HP largest piece of life]
+Type = Gameshark
+Activation = EndFrame
+D01AACEA 2442
+801AACE8 270F
+
+[AP largest piece of magic]
+Type = Gameshark
+Activation = EndFrame
+D01AAD1E 2462
+801AAD1C 03E7
+
+[Infinite & Max HP Ryu]
+Type = Gameshark
+Activation = EndFrame
+80112960 270F
+801129B8 270F
+
+[Infinite & Max AP Ryu]
+Type = Gameshark
+Activation = EndFrame
+80112964 03E7
+801129BC 03E7
+
+[Infinite AP When Ryu Transforms To A Dragon]
+Type = Gameshark
+Activation = EndFrame
+A61D8FEE 8CC28CC0
+
+[I filled all skill list]
+Type = Gameshark
+Activation = EndFrame
+901135C8 FFFFFFFF
+901135CC FFFFFFFF
+801135D0 FFFF
+
+[Get All Dragon Liu]
+Type = Gameshark
+Activation = EndFrame
+801138D8 0001
+801138DE 0001
+801138E4 0001
+801138EA 0001
+801138F0 0001
+801138F6 0001
+
+[Infinite & Max HP dragon Aura]
+Type = Gameshark
+Activation = EndFrame
+801138DA 270F
+801138DC 270F
+
+[Infinite & Max HP dragon Kaiser]
+Type = Gameshark
+Activation = EndFrame
+901138E0 270F270F
+
+[Infinite & Max HP dragon Wyburn]
+Type = Gameshark
+Activation = EndFrame
+801138E6 270F
+801138E8 270F
+
+[Infinite & Max HP dragon Warrior]
+Type = Gameshark
+Activation = EndFrame
+901138EC 270F270F
+
+[Infinite & Max HP dragon Behemosu]
+Type = Gameshark
+Activation = EndFrame
+801138F2 270F
+801138F4 270F
+
+[Infinite & Max HP dragon Hen'na]
+Type = Gameshark
+Activation = EndFrame
+901138F8 270F270F
+
+[No Random Battles]
+Type = Gameshark
+Activation = EndFrame
+D01D734A 2483
+801D7348 0000
+
+[Maximum level after the end of combat]
+Type = Gameshark
+Activation = EndFrame
+D01CD026 1040
+801CD024 0001
+
+[Save at any time]
+Type = Gameshark
+Activation = EndFrame
+A71AA422 14621000
+
+[Save anywhere Item is still gray, but I can save]
+Type = Gameshark
+Activation = EndFrame
+D01AA420 0005
+801AA422 1000
+
+[HP all recovery When you open the menu screen]
+Type = Gameshark
+Activation = EndFrame
+D01B19C8 001B
+801B19D0 0014
+D01B19C8 001B
+801B19D2 AE43
+
+[AP all recovery When you open the menu screen]
+Type = Gameshark
+Activation = EndFrame
+D01B19C8 001B
+801B1A1C 0018
+D01B19C8 001B
+801B1A1E AE43
+
+[Walk through walls "Press L3 to toggle on/off"]
+Type = Gameshark
+Activation = EndFrame
+D7010001 01000200
+F51D16E6 12932400
+

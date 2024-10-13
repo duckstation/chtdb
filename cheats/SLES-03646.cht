@@ -1,0 +1,46 @@
+; CHTDB: ; [ Tony Hawk's Pro Skater 3 (France) (Platinum) {SLES-03646} ]
+
+[All skates all players (saveable)]
+Type = Gameshark
+Activation = EndFrame
+90008040 24030001
+90008044 02031804
+90008048 08043C78
+9000804C 240200FF
+D010F1D6 2403
+8010F1D4 00FF
+D010F1D6 2403
+8010F1D8 2010
+D010F1D6 2403
+8010F1DA 0800
+D010F1D6 2403
+8010F1DE AC43
+
+[All levels (incl. hidden one)]
+Type = Gameshark
+Activation = EndFrame
+A6112486 10402800
+
+[Unlock FMV]
+Type = Gameshark
+Activation = EndFrame
+9008575C 20030001
+80085766 AE03
+
+[Unlock Officer Dick & Wolverine]
+Type = Gameshark
+Activation = EndFrame
+8002779E 2800
+800277BE 2800
+
+[All cheats]
+Type = Gameshark
+Activation = EndFrame
+90027090 20020001
+
+[Timer Frozen at max (Press Select & Up)]
+Type = Gameshark
+Activation = EndFrame
+D00C1F72 FFEE
+8003BA92 AF80
+

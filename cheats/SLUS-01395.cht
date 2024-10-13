@@ -1,0 +1,128 @@
+; CHTDB: ; [ Mega Man X6 (USA, v1.0) (2001) (Capcom Entertainment) {SLUS-01395} <megamnx6a> ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800970FC 2020
+
+[Hp Gauge Full]
+Type = Gameshark
+Activation = EndFrame
+300CCF2B 0040
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800CCF08 0900
+
+[Have All Weapons]
+Type = Gameshark
+Activation = EndFrame
+30097169 00FF
+
+[No Level Time]
+Type = Gameshark
+Activation = EndFrame
+800CCF60 0000
+
+[Infinite All Weapons]
+Type = Gameshark
+Activation = EndFrame
+50000802 0000
+8009714A 0168
+
+[Have All Souls (HU Ranking)]
+Type = Gameshark
+Activation = EndFrame
+800CCFA2 270F
+
+[Have All Arrmor Parts]
+Type = Gameshark
+Activation = EndFrame
+800CCF38 FF01
+
+[All Reploids Rescued]
+Type = Gameshark
+Activation = EndFrame
+50002002 0000
+800CCFA8 2222
+
+[Have All Armors + Enable Zero In Black Armor]
+Type = Gameshark
+Activation = EndFrame
+300CCF2F 003F
+
+[Select Level\Sky Lagoon select Game Start at main title screen,after the intro scenes instead of going to the Intro Level(Sky Lagoon) you will be taken to the leve]
+Type = Gameshark
+Activation = EndFrame
+301721CC 0000
+
+[Select Level\Jungle select Game Start at main title screen,after the intro scenes instead of going to the Intro Level(Sky Lagoon) you will be taken to the leve]
+Type = Gameshark
+Activation = EndFrame
+301721CC 0001
+
+[Select Level\Snow Base select Game Start at main title screen,after the intro scenes instead of going to the Intro Level(Sky Lagoon) you will be taken to the leve]
+Type = Gameshark
+Activation = EndFrame
+301721CC 0002
+
+[Select Level\Bio Laboratory select Game Start at main title screen,after the intro scenes instead of going to the Intro Level(Sky Lagoon) you will be taken to the leve]
+Type = Gameshark
+Activation = EndFrame
+301721CC 0003
+
+[Select Level\Volcano select Game Start at main title screen,after the intro scenes instead of going to the Intro Level(Sky Lagoon) you will be taken to the leve]
+Type = Gameshark
+Activation = EndFrame
+301721CC 0004
+
+[Select Level\Marine Base select Game Start at main title screen,after the intro scenes instead of going to the Intro Level(Sky Lagoon) you will be taken to the leve]
+Type = Gameshark
+Activation = EndFrame
+301721CC 0005
+
+[Select Level\Cyber Space select Game Start at main title screen,after the intro scenes instead of going to the Intro Level(Sky Lagoon) you will be taken to the leve]
+Type = Gameshark
+Activation = EndFrame
+301721CC 0006
+
+[Select Level\Air Force select Game Start at main title screen,after the intro scenes instead of going to the Intro Level(Sky Lagoon) you will be taken to the leve]
+Type = Gameshark
+Activation = EndFrame
+301721CC 0007
+
+[Select Level\Military Train select Game Start at main title screen,after the intro scenes instead of going to the Intro Level(Sky Lagoon) you will be taken to the leve]
+Type = Gameshark
+Activation = EndFrame
+301721CC 0008
+
+[Select Level\Memorial Hall select Game Start at main title screen,after the intro scenes instead of going to the Intro Level(Sky Lagoon) you will be taken to the leve]
+Type = Gameshark
+Activation = EndFrame
+301721CC 0009
+
+[Select Level\Spaceport select Game Start at main title screen,after the intro scenes instead of going to the Intro Level(Sky Lagoon) you will be taken to the leve]
+Type = Gameshark
+Activation = EndFrame
+301721CC 000A
+
+[Select Level\Final Weapon select Game Start at main title screen,after the intro scenes instead of going to the Intro Level(Sky Lagoon) you will be taken to the leve]
+Type = Gameshark
+Activation = EndFrame
+301721CC 000B
+
+[Select Level\Final Weapon]
+Description = 2nd Section select Game Start at main title screen,after the intro scenes instead of going to the Intro Level(Sky Lagoon) you will be taken to the leve
+Type = Gameshark
+Activation = EndFrame
+301721CC 000C
+
+[Matrix mode "Press L3 to toggle on/off"]
+Type = Gameshark
+Activation = EndFrame
+D7010001 01000200
+F5020082 10401000
+F50527D2 14431000
+F50202CE 10401000
+

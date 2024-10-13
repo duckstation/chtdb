@@ -1,0 +1,60 @@
+; CHTDB: ; [ Bio Hazard: Director's Cut (Japan) {SLPS-00998} ]
+
+[Energie Infinie]
+Type = Gameshark
+Activation = EndFrame
+300C51AC 004C
+
+[Time 00/Save 00]
+Type = Gameshark
+Activation = EndFrame
+800C8684 0000
+800C8688 0000
+
+[Ammo Infinite]
+Type = Gameshark
+Activation = EndFrame
+80041C4C 0000
+
+[Save anytime (Press L2 + R2 + Circle)]
+Type = Gameshark
+Activation = EndFrame
+D00CF844 0023
+800C8456 0003
+
+[Play Rebecca Mission]
+Type = Gameshark
+Activation = EndFrame
+800C8667 0300
+
+[Colt python/Rocket Infinite+ radio]
+Type = Gameshark
+Activation = EndFrame
+800C870C 0033
+
+[Rebecca and the colt python]
+Type = Gameshark
+Activation = EndFrame
+900C8790 01420105
+800C8794 010A
+
+[All doors open]
+Type = Gameshark
+Activation = EndFrame
+900C86B4 0D7EBFDC
+800C86BA 0E74
+900C8704 08000E00
+800C870A 4E00
+
+[All events]
+Type = Gameshark
+Activation = EndFrame
+800C86AE 00E8
+800C86A2 8000
+800C8696 B400
+800C86AA E00C
+800C869E C5FF
+900C8700 FF40081C
+800C8704 FF0F
+800C870E 4000
+

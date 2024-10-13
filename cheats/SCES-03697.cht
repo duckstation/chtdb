@@ -1,0 +1,32 @@
+; CHTDB: ; [ Syphon Filter 3 (Europe) {SCES-03697} ]
+
+[All Missions Unlocked]
+Type = Gameshark
+Activation = EndFrame
+D011F1F7 FB73
+8011F1E3 8B48
+
+[Invinicible]
+Type = Gameshark
+Activation = EndFrame
+D00D3CC6 6AFD
+800D3CC0 4EFC
+
+[Infinite Ammo on Pick-up]
+Type = Gameshark
+Activation = EndFrame
+D0039692 92DE
+80039686 36D8
+
+[Time Stopped (Press L1 & L2 & Circle)]
+Type = Gameshark
+Activation = EndFrame
+D0176997 CB10
+80001B31 51FF
+
+[Super agent mode & Sudden Death]
+Type = Gameshark
+Activation = EndFrame
+D0172FC9 3877
+80172FCD C77A
+

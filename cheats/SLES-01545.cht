@@ -1,0 +1,21 @@
+; CHTDB: ; [ Michelin Rally Masters: Race of Champions (Europe) {SLES-01545} ]
+
+[Infinite Repair-Time (Trophy) Press Select & Start]
+Type = Gameshark
+Activation = EndFrame
+D00AD462 FFF6
+800D1850 0000
+
+[10 Race-Points Press L1 & L2 & R1 & R2]
+Type = Gameshark
+Activation = EndFrame
+D00AD462 F0FF
+3009E31B 000A
+
+[Maximum Score]
+Type = Gameshark
+Activation = EndFrame
+A609D90C 000003E7
+E009D913 0000
+3009D913 00FF
+

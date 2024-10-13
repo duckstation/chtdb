@@ -1,0 +1,46 @@
+; CHTDB: ; [ Road Rash (Japan) {SLPS-00243} ]
+
+[Finish The Race 1st]
+Type = Gameshark
+Activation = EndFrame
+800D577E 0102
+
+[Infinite Bike Durability]
+Type = Gameshark
+Activation = EndFrame
+800D577E 4040
+
+[Infinite Biker's Health]
+Type = Gameshark
+Activation = EndFrame
+800D5766 5A5A
+
+[Max Tko]
+Type = Gameshark
+Activation = EndFrame
+800D81F0 FF00
+
+[Quit Race & Have All Weapons (Press L1+L2)]
+Type = Gameshark
+Activation = EndFrame
+D00D6DE4 0005
+800D5782 FFFF
+D00D6DE4 0005
+800D5784 FFFF
+
+[Start Racing Before The Cpu Racers]
+Type = Gameshark
+Activation = EndFrame
+8005B2A8 006A
+
+[Use Super Weapon (Press Up)]
+Type = Gameshark
+Activation = EndFrame
+D00D6DE4 1000
+800D5786 FFFF
+
+[Infinite Turbo]
+Type = Gameshark
+Activation = EndFrame
+800837EC 0000
+

@@ -1,0 +1,67 @@
+; CHTDB: ; [ V-Rally: 97 Championship Edition (Europe) {SLES-00250} ]
+
+[Always first place Activate the codes, then start the game and immediately quit to main menu, then reselect the race to play.V1.1.]
+Type = Gameshark
+Activation = EndFrame
+9005A550 00000000
+9005A558 10E20004
+
+[Stop all car adv.V1.1]
+Type = Gameshark
+Activation = EndFrame
+90020B5C 00000000
+
+[Checkpoint timer V1.2 Platinum]
+Type = Gameshark
+Activation = EndFrame
+90028A48 00000000
+
+[Always first V1.2 Platinum]
+Type = Gameshark
+Activation = EndFrame
+90057FCC 24020001
+
+[Always First V1.3 Value Series]
+Type = Gameshark
+Activation = EndFrame
+90057FD4 00000000
+
+[Only One Lap To Go (3 Lap Races) V1.3 Value Series]
+Type = Gameshark
+Activation = EndFrame
+D0058628 0001
+30058628 0003
+
+[Stage Time Frozen V1.3 Value Series]
+Type = Gameshark
+Activation = EndFrame
+D00289DC 0004
+800289DE 0000
+
+[Start With 64 Points V1.3 Value Series]
+Type = Gameshark
+Activation = EndFrame
+D00A5294 0000
+300A5294 0040
+
+[Other Drivers Never Score V1.3 Value Series]
+Type = Gameshark
+Activation = EndFrame
+D30A5298 0000
+300A5298 0000
+D30A529C 0000
+300A529C 0000
+D30A52A0 0000
+300A52A0 0000
+
+[Arcade Timer Frozen Use only one of the codes V1.3 Value Series]
+Type = Gameshark
+Activation = EndFrame
+D0028A50 0010
+80028A52 0000
+
+[Time Increases Use only one of the codes V1.3 Value Series]
+Type = Gameshark
+Activation = EndFrame
+A6028A48 FFFF0001
+

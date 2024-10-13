@@ -1,0 +1,40 @@
+; CHTDB: ; [ Sentimental Graffiti (Jpn) (2001) (NEC Interchannel) {SLPS-03184 (NIPS-4013)} <sentgraf> ]
+
+[Have 999999 money]
+Type = Gameshark
+Activation = EndFrame
+90095E50 000F423F
+
+[Have 999/999p]
+Type = Gameshark
+Activation = EndFrame
+90095E54 03E703E7
+
+[All possible phone]
+Type = Gameshark
+Activation = EndFrame
+D0025E8E 8C63
+90025E8C 24030001
+
+[Phone at any time]
+Type = Gameshark
+Activation = EndFrame
+A70251A6 10401000
+
+[Phone Anywhere]
+Type = Gameshark
+Activation = EndFrame
+A702C676 10431000
+
+[All possible confession]
+Type = Gameshark
+Activation = EndFrame
+A70274DA 10401400
+
+[Everyone confession success]
+Type = Gameshark
+Activation = EndFrame
+A7024142 10401400
+A702317A 10401400
+A702318E 14401400
+

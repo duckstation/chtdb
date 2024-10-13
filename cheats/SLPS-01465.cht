@@ -1,0 +1,315 @@
+; CHTDB: ; [ Epica Stella (Jpn) (1998) (Human) {SLPS-01465} <epicastl> ]
+
+[Funds 99999]
+Type = Gameshark
+Activation = EndFrame
+900CE11C 0001869F
+
+[Select Scenario\1]
+Type = Gameshark
+Activation = EndFrame
+300CE120 0001
+
+[Select Scenario\2]
+Type = Gameshark
+Activation = EndFrame
+300CE120 0002
+
+[Select Scenario\3]
+Type = Gameshark
+Activation = EndFrame
+300CE120 0003
+
+[Select Scenario\4]
+Type = Gameshark
+Activation = EndFrame
+300CE120 0004
+
+[Select Scenario\5]
+Type = Gameshark
+Activation = EndFrame
+300CE120 0005
+
+[Select Scenario\6]
+Type = Gameshark
+Activation = EndFrame
+300CE120 0006
+
+[Select Scenario\7]
+Type = Gameshark
+Activation = EndFrame
+300CE120 0007
+
+[Select Scenario\8]
+Type = Gameshark
+Activation = EndFrame
+300CE120 0008
+
+[Select Scenario\9]
+Type = Gameshark
+Activation = EndFrame
+300CE120 0009
+
+[Select Scenario\10]
+Type = Gameshark
+Activation = EndFrame
+300CE120 000A
+
+[Select Scenario\11]
+Type = Gameshark
+Activation = EndFrame
+300CE120 000B
+
+[Select Scenario\12]
+Type = Gameshark
+Activation = EndFrame
+300CE120 000C
+
+[Select Scenario\13]
+Type = Gameshark
+Activation = EndFrame
+300CE120 000D
+
+[Select Scenario\14]
+Type = Gameshark
+Activation = EndFrame
+300CE120 000E
+
+[Infinite Attacks]
+Type = Gameshark
+Activation = EndFrame
+A601B650 FFFF0000
+
+[Does not increase TP]
+Type = Gameshark
+Activation = EndFrame
+A607DBDA 00430040
+
+[Does not decrease AP]
+Type = Gameshark
+Activation = EndFrame
+A607DBC6 00430040
+A601B1F4 004A0000
+A601B1F6 A4830000
+A601B408 004C0000
+A601B40A A6020000
+A607EA92 00430040
+
+[Mortal blow attack mode Press L2]
+Type = Gameshark
+Activation = EndFrame
+D0053570 0001
+80080506 0000
+
+[No damage mode Press R2]
+Type = Gameshark
+Activation = EndFrame
+D0053570 0002
+80080506 0080
+
+[Level 99 Main Character]
+Type = Gameshark
+Activation = EndFrame
+300CE194 0063
+
+[Fast Level Up Main Character]
+Type = Gameshark
+Activation = EndFrame
+800CE196 0001
+
+[Max Magic Point Main Character]
+Type = Gameshark
+Activation = EndFrame
+800CE19A 03E7
+
+[Max Bas + Max Pow Main Character]
+Type = Gameshark
+Activation = EndFrame
+800CE19C 2020
+
+[Max Dex + Max Agl Main Character]
+Type = Gameshark
+Activation = EndFrame
+800CE19E 2020
+
+[Max Def + Max Wep Main Character]
+Type = Gameshark
+Activation = EndFrame
+800CE1A0 2020
+
+[Level 99 2ND Character]
+Type = Gameshark
+Activation = EndFrame
+300CE1CD 0063
+
+[Fast Level Up 2ND Character]
+Type = Gameshark
+Activation = EndFrame
+800CE1CE 0001
+
+[Max Magic Point 2ND Character]
+Type = Gameshark
+Activation = EndFrame
+800CE1D2 03E7
+
+[Max Bas + Max Pow 2ND Character]
+Type = Gameshark
+Activation = EndFrame
+800CE1D4 2020
+
+[Max Dex + Max Agl 2ND Character]
+Type = Gameshark
+Activation = EndFrame
+800CE1D6 2020
+
+[Max Def + Max Wep 2ND Character]
+Type = Gameshark
+Activation = EndFrame
+800CE1D8 2020
+
+[Level 99 3RD Character]
+Type = Gameshark
+Activation = EndFrame
+300CE205 0063
+
+[Fast Level Up 3RD Character]
+Type = Gameshark
+Activation = EndFrame
+800CE206 0001
+
+[Max Magic Point 3RD Character]
+Type = Gameshark
+Activation = EndFrame
+800CE20A 03E7
+
+[Max Bas + Max Pow 3RD Character]
+Type = Gameshark
+Activation = EndFrame
+800CE20C 2020
+
+[Max Dex + Max Agl 3RD Character]
+Type = Gameshark
+Activation = EndFrame
+800CE20E 2020
+
+[Max Def + Max Wep 3RD Character]
+Type = Gameshark
+Activation = EndFrame
+800CE210 2020
+
+[Level 99 4Rd Character]
+Type = Gameshark
+Activation = EndFrame
+300CE23D 0063
+
+[Fast Level Up 4Rd Character]
+Type = Gameshark
+Activation = EndFrame
+800CE23E 0001
+
+[Max Magic Point 4Rd Character]
+Type = Gameshark
+Activation = EndFrame
+800CE242 03E7
+
+[Max Bas + Max Pow 4Rd Character]
+Type = Gameshark
+Activation = EndFrame
+800CE244 2020
+
+[Max Dex + Max Agl 4Rd Character]
+Type = Gameshark
+Activation = EndFrame
+800CE246 2020
+
+[Max Def + Max Wep 4Rd Character]
+Type = Gameshark
+Activation = EndFrame
+800CE248 2020
+
+[Level 99 5TH Character]
+Type = Gameshark
+Activation = EndFrame
+300CE275 0063
+
+[Fast Level Up 5TH Character]
+Type = Gameshark
+Activation = EndFrame
+800CE276 0001
+
+[Max Magic Point 5TH Character]
+Type = Gameshark
+Activation = EndFrame
+800CE27A 03E7
+
+[Max Bas + Max Pow 5TH Character]
+Type = Gameshark
+Activation = EndFrame
+800CE27C 2020
+
+[Max Dex + Max Agl 5TH Character]
+Type = Gameshark
+Activation = EndFrame
+800CE27E 2020
+
+[Max Def + Max Wep 5TH Character]
+Type = Gameshark
+Activation = EndFrame
+800CE280 2020
+
+[LV55 + HP maximum (all positions)]
+Type = Gameshark
+Activation = EndFrame
+50000C38 0000
+300CE195 00FF
+50000C38 0000
+800CE196 01F4
+
+[Maximum Spirit (all positions)]
+Type = Gameshark
+Activation = EndFrame
+50000C38 0000
+800CE19A 03E7
+
+[Maximum BAS + POW (all positions)]
+Type = Gameshark
+Activation = EndFrame
+50000C38 0000
+800CE19C 2020
+
+[Maximum DEX + AGL (all positions)]
+Type = Gameshark
+Activation = EndFrame
+50000C38 0000
+800CE19E 2020
+
+[Maximum DEF + WEP (all positions)]
+Type = Gameshark
+Activation = EndFrame
+50000C38 0000
+800CE1A0 2020
+
+[All 99 weapons]
+Type = Gameshark
+Activation = EndFrame
+50002003 0001
+300CE4C4 0000
+50002003 0000
+300CE4C5 0063
+
+[Alll 99 ornaments]
+Type = Gameshark
+Activation = EndFrame
+50001303 0001
+300CE524 0001
+50001303 0000
+300CE525 0063
+
+[All 99 seal stones]
+Type = Gameshark
+Activation = EndFrame
+50001C03 0001
+300CE584 0000
+50001C03 0000
+300CE585 0063
+

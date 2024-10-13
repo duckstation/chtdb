@@ -1,0 +1,28 @@
+; CHTDB: ; [ Goiken Muyou II (Jpn) (1998) (KSS) {SLPS-01542} <gomuyo2> ]
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801281E4 0101
+
+[P2 Life 0 Press SELECT]
+Type = Gameshark
+Activation = EndFrame
+D013F5FA FFFE
+80128EEC FFFF
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A713BA70 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A713BA70 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A713BA70 10000400
+

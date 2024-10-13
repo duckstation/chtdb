@@ -1,0 +1,56 @@
+; CHTDB: ; [ Nickelodeon Rocket Power: Team Rocket Rescue (Europe) {SLES-03702} ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800A02D0 3A98
+
+[Have 99999 points]
+Type = Gameshark
+Activation = EndFrame
+900A45EC 0001869F
+
+[Unlock Stage 2]
+Type = Gameshark
+Activation = EndFrame
+8007B564 0000
+
+[Unlock Stage 3]
+Type = Gameshark
+Activation = EndFrame
+8007AE0C 0000
+
+[Unlock Stage 4]
+Type = Gameshark
+Activation = EndFrame
+8007AA60 0000
+
+[Special Bar Max]
+Type = Gameshark
+Activation = EndFrame
+800A4BCC 3EFF
+
+[Tito's challenge Collect one shell to finish Challenge 1]
+Type = Gameshark
+Activation = EndFrame
+D007E660 0001
+3007E660 0006
+
+[Tito's challenge Collect one shell to finish Challenge 2]
+Type = Gameshark
+Activation = EndFrame
+D007E6C0 0001
+3007E6C0 0006
+
+[Tito's challenge Collect one shell to finish Challenge 3]
+Type = Gameshark
+Activation = EndFrame
+D007E720 0001
+3007E720 0006
+
+[Tito's challenge Collect one shell to finish Challenge 4]
+Type = Gameshark
+Activation = EndFrame
+D007E780 0001
+3007E780 0006
+

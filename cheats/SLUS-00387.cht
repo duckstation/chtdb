@@ -1,0 +1,13 @@
+; CHTDB: ; [ Batman Forever - The Arcade Game (USA) (1996) (Acclaim Entertainment) {SLUS-00387} <batmanf> ]
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800C2B64 03C9
+800E2EDC 0014
+
+[P2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800E3A88 0014
+

@@ -1,0 +1,23 @@
+; CHTDB: ; [ Road Rash 3D (Europe) {SLES-00910} ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+900B7178 3B9AFFFF
+
+[Slow Down Timer In Time Trials]
+Type = Gameshark
+Activation = EndFrame
+800C1BBC 0747
+800C1F60 7FBC
+
+[Infinite Bike Durability]
+Type = Gameshark
+Activation = EndFrame
+8010F0AA 7F7F
+
+[Infinite Biker Health]
+Type = Gameshark
+Activation = EndFrame
+8010F072 8080
+

@@ -1,0 +1,8 @@
+; CHTDB: ; [ Astérix & Obélix Take On Caesar (Europe) {SLES-02475} ]
+
+[Press L2 To Clear Current Scene]
+Type = Gameshark
+Activation = EndFrame
+E0098A3E 0001
+800F01DA 0063
+

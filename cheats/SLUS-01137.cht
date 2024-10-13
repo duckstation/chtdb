@@ -1,0 +1,33 @@
+; CHTDB: ; [ ATV - Quad Power Racing (USA) (2000) (Acclaim Entertainment) {SLUS-01137} <atvquad> ]
+
+[Unlock Everything]
+Type = Gameshark
+Activation = EndFrame
+50000601 0000
+3004E255 0004
+
+[Time Always 0.00.00]
+Type = Gameshark
+Activation = EndFrame
+8005E676 2400
+
+[Select Lap\Lap 3]
+Type = Gameshark
+Activation = EndFrame
+301FD2F8 0003
+
+[Select Lap\Lap 4]
+Type = Gameshark
+Activation = EndFrame
+301FD2F8 0004
+
+[Select Lap\Lap 5]
+Type = Gameshark
+Activation = EndFrame
+301FD2F8 0005
+
+[Select Lap\Lap 6]
+Type = Gameshark
+Activation = EndFrame
+301FD2F8 0006
+

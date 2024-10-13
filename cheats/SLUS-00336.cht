@@ -1,0 +1,59 @@
+; CHTDB: ; [ Worms (USA) (1996) (Ocean of America) {SLUS-00336} <worms> ]
+
+[P1 Infinite Energy Worm 1]
+Type = Gameshark
+Activation = EndFrame
+8014A54C 0064
+
+[P1 Infinite Energy Worm 2]
+Type = Gameshark
+Activation = EndFrame
+8014A5F8 0064
+
+[P1 Infinite Energy Worm 3]
+Type = Gameshark
+Activation = EndFrame
+8014A6A4 0064
+
+[P1 Infinite Energy Worm 4]
+Type = Gameshark
+Activation = EndFrame
+8014A750 0064
+
+[Infinite Turn Timer]
+Type = Gameshark
+Activation = EndFrame
+8014B7FC 0E11
+
+[Random Movie Player.Press the Select button as soon as the game is on and enjoy while it plays different movies in the game.]
+Type = Gameshark
+Activation = EndFrame
+D0079EB4 0100
+8007A074 0001
+
+[Always Your Turn]
+Type = Gameshark
+Activation = EndFrame
+D0079EB4 0002
+8014B1EC 0001
+
+[Infinite Airstrikes P1 (All Worms)]
+Type = Gameshark
+Activation = EndFrame
+8014B1C8 0002
+
+[Infinite Cluster Bombs P1 (All Worms)]
+Type = Gameshark
+Activation = EndFrame
+8014B1AC 0005
+
+[Infinite Dynamite P1 (All Worms)]
+Type = Gameshark
+Activation = EndFrame
+8014B1C0 0001
+
+[Infinite Teleport P1 (All Worms)]
+Type = Gameshark
+Activation = EndFrame
+8014B1CC 0002
+

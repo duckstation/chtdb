@@ -1,0 +1,42 @@
+; CHTDB: ; [ Battle Arena Toushinden 2 (Japan) {SLPS-00200} ]
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+1F800214 0000
+
+[Unlock All Extras Uranus & Master in roulette panel, Verm & Sho in roulette panel, and easy supers using R1+R2]
+Type = Gameshark
+Activation = EndFrame
+1F80004C 0003
+
+[P1 Max Gauge]
+Type = Gameshark
+Activation = EndFrame
+1F800225 000F
+
+[P2 Max Gauge]
+Type = Gameshark
+Activation = EndFrame
+1F80030D 000F
+
+[P1 Select Character\Master]
+Type = Gameshark
+Activation = EndFrame
+1F800177 000C
+
+[P1 Select Character\Sho]
+Type = Gameshark
+Activation = EndFrame
+1F800177 000E
+
+[P1 Select Character\Uranus]
+Type = Gameshark
+Activation = EndFrame
+1F800177 000B
+
+[P1 Select Character\Verm]
+Type = Gameshark
+Activation = EndFrame
+1F800177 000D
+

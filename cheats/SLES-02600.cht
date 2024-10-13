@@ -1,0 +1,176 @@
+; CHTDB: ; [ Alundra 2: A New Legend Begins (Europe) {SLES-02600} ]
+
+[Have 99999 points in bone darts]
+Type = Gameshark
+Activation = EndFrame
+900661D4 0001869F
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8006645A 03E7
+
+[Max Health]
+Type = Gameshark
+Activation = EndFrame
+80066458 0E37
+
+[Lots Of Gold]
+Type = Gameshark
+Activation = EndFrame
+8006644C FFFF
+
+[Equipped Rising Sword]
+Type = Gameshark
+Activation = EndFrame
+300661B4 0024
+
+[Equipped Valar Shield]
+Type = Gameshark
+Activation = EndFrame
+300661B6 002C
+
+[Hypermode]
+Type = Gameshark
+Activation = EndFrame
+D003B23C 003A
+3003B23E 0000
+
+[Slowmotion]
+Type = Gameshark
+Activation = EndFrame
+D003B23C 003A
+8003B23E 3C00
+
+[Don't Need Supplys To Use Items]
+Type = Gameshark
+Activation = EndFrame
+D0024118 0003
+8002411A 3C00
+
+[Infinite Items]
+Type = Gameshark
+Activation = EndFrame
+80024126 3C00
+
+[Walk through walls]
+Type = Gameshark
+Activation = EndFrame
+D008EF8C 0082
+8008EF8E 1000
+
+[Infinite Wonder Orbs]
+Type = Gameshark
+Activation = EndFrame
+30066187 0009
+
+[Infinite Herbs]
+Type = Gameshark
+Activation = EndFrame
+30066188 0009
+
+[Infinite Compass]
+Type = Gameshark
+Activation = EndFrame
+30066189 0009
+
+[Infinite Tonics]
+Type = Gameshark
+Activation = EndFrame
+3006618A 0009
+
+[Infinite Elixirs]
+Type = Gameshark
+Activation = EndFrame
+3006618B 0009
+
+[Infinite Panaceas]
+Type = Gameshark
+Activation = EndFrame
+3006618C 0009
+
+[Infinite Lorien Nuts]
+Type = Gameshark
+Activation = EndFrame
+3006618D 0009
+
+[Infinite Grapes Of Eru]
+Type = Gameshark
+Activation = EndFrame
+3006618E 0009
+
+[Infinite Round Keys (Special Item)]
+Type = Gameshark
+Activation = EndFrame
+3006618F 0009
+
+[Infinite Triangle Keys (Special Item)]
+Type = Gameshark
+Activation = EndFrame
+30066190 0009
+
+[Infinite Tickets (Special Item)]
+Type = Gameshark
+Activation = EndFrame
+30066191 0009
+
+[Infinite Bone Darts (Special Item)]
+Type = Gameshark
+Activation = EndFrame
+30066194 0009
+
+[Infinite Goo Goo Birds (Special Item)]
+Type = Gameshark
+Activation = EndFrame
+30066195 0009
+
+[Infinite Have Keys]
+Type = Gameshark
+Activation = EndFrame
+30066197 0009
+
+[Infinite Puzzle Pieces]
+Type = Gameshark
+Activation = EndFrame
+30066198 0009
+
+[Infinite Elf Rings]
+Type = Gameshark
+Activation = EndFrame
+3006619A 0009
+
+[Infinite Sp Elf Rings]
+Type = Gameshark
+Activation = EndFrame
+3006619B 0009
+
+[Infinite Guard Rings]
+Type = Gameshark
+Activation = EndFrame
+3006619C 0009
+
+[Infinite Sp Guard Rings]
+Type = Gameshark
+Activation = EndFrame
+3006619D 0009
+
+[Infinite Amulets]
+Type = Gameshark
+Activation = EndFrame
+3006619E 0009
+
+[Infinite Elemental Rings]
+Type = Gameshark
+Activation = EndFrame
+300661A0 0009
+
+[Infinite Elemental Charms]
+Type = Gameshark
+Activation = EndFrame
+300661A1 0009
+
+[Infinite Crimson Capes (Special Item)]
+Type = Gameshark
+Activation = EndFrame
+300661A2 0009
+

@@ -1,0 +1,32 @@
+; CHTDB: ; [ Air Combat (USA) (1995) (Namco Hometek) {SLUS-00001} <aircombt> ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+8001013C FFFF
+
+[Max Money]
+Type = Gameshark
+Activation = EndFrame
+9001013C 0098967F
+
+[Infinite Ammo/Missiles]
+Type = Gameshark
+Activation = EndFrame
+800EEB0C 0040
+
+[Infinite Guns]
+Type = Gameshark
+Activation = EndFrame
+300EEB10 0027
+
+[Infinite Fuel]
+Type = Gameshark
+Activation = EndFrame
+800EEB00 8FFF
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800EEA2C 0190
+

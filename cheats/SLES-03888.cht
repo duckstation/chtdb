@@ -1,0 +1,22 @@
+; CHTDB: ; [ Tom Clancy's Rainbow Six: Lone Wolf (Europe) {SLES-03888} ]
+
+[Invulnerable]
+Type = Gameshark
+Activation = EndFrame
+80044DF2 2400
+
+[Infinite Ammo on pick-up]
+Type = Gameshark
+Activation = EndFrame
+800C8972 2400
+
+[Infinite Grenades On Pickup]
+Type = Gameshark
+Activation = EndFrame
+800C9336 2400
+
+[Infinite Rifle ammo]
+Type = Gameshark
+Activation = EndFrame
+800F6EDC 001E
+

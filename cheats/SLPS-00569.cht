@@ -1,0 +1,40 @@
+; CHTDB: ; [ Super Football Champ (Jpn) (1996) (Taito) {SLPS-00569} <sfchamp> ]
+
+[P1 goals 9]
+Type = Gameshark
+Activation = EndFrame
+800590BC 0009
+
+[CPU 0 goals]
+Type = Gameshark
+Activation = EndFrame
+80059640 0000
+
+[P1 goals 9 in the select + left]
+Type = Gameshark
+Activation = EndFrame
+D005A90C 8100
+800590BC 0009
+
+[CPU 0 goals in the select + right]
+Type = Gameshark
+Activation = EndFrame
+D005A90C 2100
+80059640 0000
+
+[Injury time in the L1 + R1]
+Type = Gameshark
+Activation = EndFrame
+D005A90C 000C
+80171E9C 7E90
+
+[The large head of the players]
+Type = Gameshark
+Activation = EndFrame
+80053598 0001
+
+[Big shoes of the players]
+Type = Gameshark
+Activation = EndFrame
+8005359A 0001
+

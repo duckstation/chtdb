@@ -1,0 +1,104 @@
+; CHTDB: ; [ Builder's Block (USA) (2000) (Jaleco USA) {SLUS-01086} <buildblk> ]
+
+[Unlock All Levels]
+Type = Gameshark
+Activation = EndFrame
+80068DA6 FFFF
+
+[Have All Levels Completed]
+Type = Gameshark
+Activation = EndFrame
+80068DA8 FFFF
+
+[Max Score/Population]
+Type = Gameshark
+Activation = EndFrame
+801FBF0E 01FF
+
+[Never Record Retries]
+Type = Gameshark
+Activation = EndFrame
+800CF864 0000
+
+[Infinite Time to Shoot]
+Type = Gameshark
+Activation = EndFrame
+801FBDC4 0004
+801FBE20 0000
+
+[Max Population Maroon Forest]
+Type = Gameshark
+Activation = EndFrame
+80068DB2 01FF
+
+[Max Population Good Luck Field]
+Type = Gameshark
+Activation = EndFrame
+80068DB6 01FF
+
+[Max Population Hillside Village]
+Type = Gameshark
+Activation = EndFrame
+80068DBA 01FF
+
+[Max Population Mount Base]
+Type = Gameshark
+Activation = EndFrame
+80068DBE 01FF
+
+[Max Population Gechtmogiv]
+Type = Gameshark
+Activation = EndFrame
+80068DC2 01FF
+
+[Max Population Plus Wisteria]
+Type = Gameshark
+Activation = EndFrame
+80068DC6 01FF
+
+[Max Population Riverfront]
+Type = Gameshark
+Activation = EndFrame
+80068DCA 01FF
+
+[Max Population Shach]
+Type = Gameshark
+Activation = EndFrame
+80068DCE 01FF
+
+[Max Population Bang-Cheng]
+Type = Gameshark
+Activation = EndFrame
+80068DD2 01FF
+
+[Max Population Blackwood]
+Type = Gameshark
+Activation = EndFrame
+80068DD6 01FF
+
+[Max Population Shing-Shee]
+Type = Gameshark
+Activation = EndFrame
+80068DDA 01FF
+
+[Max Population Le Hikat]
+Type = Gameshark
+Activation = EndFrame
+80068DDE 01FF
+
+[Max Population All Levels]
+Type = Gameshark
+Activation = EndFrame
+50000C04 0000
+80068DB2 01FF
+
+[Arcade Mode Cheats\P1 Max Score]
+Type = Gameshark
+Activation = EndFrame
+801DCC46 01FF
+
+[Arcade Mode Cheats\P2 Max Score]
+Type = Gameshark
+Activation = EndFrame
+801DBF56 01FF
+

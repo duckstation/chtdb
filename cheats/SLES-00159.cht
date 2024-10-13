@@ -1,0 +1,17 @@
+; CHTDB: ; [ Zero Divide (Europe) {SLES-00159} ]
+
+[P1 Invulnerable]
+Type = Gameshark
+Activation = EndFrame
+80110D64 00D0
+
+[P2 Invulnerable]
+Type = Gameshark
+Activation = EndFrame
+80111AE8 00D0
+
+[Timer Frozen At 59Sec]
+Type = Gameshark
+Activation = EndFrame
+800E8B90 0700
+

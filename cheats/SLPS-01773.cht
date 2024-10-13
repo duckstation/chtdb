@@ -1,0 +1,132 @@
+; CHTDB: ; [ Kunoichi Torimonocho (Jpn) (1999) (GMF) {SLPS-01773} <kunoichi> ]
+
+[Infinite + Max hp Kunoichi]
+Type = Gameshark
+Activation = EndFrame
+90010190 03E703E7
+
+[Infinite + Max Vigor Kunoichi]
+Type = Gameshark
+Activation = EndFrame
+90010194 03E703E7
+
+[Infinite Money 9999]
+Type = Gameshark
+Activation = EndFrame
+80030834 270F
+
+[Bonus appearance]
+Type = Gameshark
+Activation = EndFrame
+3001015C 0001
+
+[Memories of bonus / Travel]
+Type = Gameshark
+Activation = EndFrame
+30010101 0001
+
+[Game hall small bonus]
+Type = Gameshark
+Activation = EndFrame
+30010171 0001
+
+[Favorability rating Max]
+Type = Gameshark
+Activation = EndFrame
+800304D0 03E7
+
+[Chemistry Sasuke Max]
+Type = Gameshark
+Activation = EndFrame
+800304DC 03E7
+
+[Compatibility Taichi Max]
+Type = Gameshark
+Activation = EndFrame
+800304E0 03E7
+
+[Chemistry swordsman Max]
+Type = Gameshark
+Activation = EndFrame
+800304E4 03E7
+
+[Shooting times]
+Type = Gameshark
+Activation = EndFrame
+800304EC 03E7
+
+[Possession Vita Max]
+Type = Gameshark
+Activation = EndFrame
+90030834 0098967F
+
+[Number of mini-games / shooting / Ball Max]
+Type = Gameshark
+Activation = EndFrame
+30125478 0014
+
+[Cat mini game / shooting / White]
+Type = Gameshark
+Activation = EndFrame
+301254B0 000C
+
+[Cats big and mini games / shooting]
+Type = Gameshark
+Activation = EndFrame
+301254B1 000C
+
+[Cat mini game / shooting / gold]
+Type = Gameshark
+Activation = EndFrame
+301254B2 000C
+
+[Cat small mini-games / shooting]
+Type = Gameshark
+Activation = EndFrame
+301254B3 000C
+
+[Mini-games / stamped / remaining time]
+Type = Gameshark
+Activation = EndFrame
+80153AE4 0C30
+
+[Mini-games / stamped / Otetsuki number of times]
+Type = Gameshark
+Activation = EndFrame
+30153AFC 0003
+
+[Mini-games / dice / possession Vita]
+Type = Gameshark
+Activation = EndFrame
+901598A4 0001869F
+
+[Mini-games / Sarumawashi / Otetsuki number of times]
+Type = Gameshark
+Activation = EndFrame
+30159938 0003
+
+[The number of times you hit mini-games / Sarumawashi]
+Type = Gameshark
+Activation = EndFrame
+30159958 0032
+
+[Mini-games / Kabuki / remaining time]
+Type = Gameshark
+Activation = EndFrame
+8015A204 03FD
+
+[Mini-games / Kabuki / rotation speed]
+Type = Gameshark
+Activation = EndFrame
+3015A21C 0063
+
+[Mini-games / moth / Otetsuki number of times]
+Type = Gameshark
+Activation = EndFrame
+3015DE2C 0003
+
+[Mini-games / moth / remaining time]
+Type = Gameshark
+Activation = EndFrame
+8015DE74 0709
+

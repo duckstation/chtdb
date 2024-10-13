@@ -1,0 +1,15 @@
+; CHTDB: ; [ Capcom vs. SNK: Millennium Fight 2000 Pro (Europe) {SLES-03889} ]
+
+[P1 Infinity Energy]
+Type = Gameshark
+Activation = EndFrame
+8006E709 0063
+8006E70B 0063
+8006B2C7 0063
+8006B61F 0063
+
+[9999 vs points]
+Type = Gameshark
+Activation = EndFrame
+8008B71E 270F
+

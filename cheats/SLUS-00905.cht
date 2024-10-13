@@ -1,0 +1,18 @@
+; CHTDB: ; [ Bass Rise (USA) (1999) (Bandai America) {SLUS-00905} <bassrise> ]
+
+[Always Catch Fish]
+Type = Gameshark
+Activation = EndFrame
+A6079414 00010004
+
+[Unlock All Locations]
+Type = Gameshark
+Activation = EndFrame
+80078A5C FFFF
+
+[Unlock All Lures]
+Type = Gameshark
+Activation = EndFrame
+50002402 0000
+80078930 FFFF
+

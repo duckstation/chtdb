@@ -1,0 +1,32 @@
+; CHTDB: ; [ CyberSled (Japan) {SLPS-00023} ]
+
+[Infinite HP For Player One]
+Type = Gameshark
+Activation = EndFrame
+8014CE86 1000
+
+[Infinite HP For Player Two]
+Type = Gameshark
+Activation = EndFrame
+8014CF36 1000
+
+[Infinite Overheat Bar For Player One]
+Type = Gameshark
+Activation = EndFrame
+8014CE76 0104
+
+[Infinite Overheat Bar For Player Two]
+Type = Gameshark
+Activation = EndFrame
+8014CF26 0104
+
+[Infinite Missiles For Player One]
+Type = Gameshark
+Activation = EndFrame
+8014CE6C 0008
+
+[Infinite Missiles For Player Two]
+Type = Gameshark
+Activation = EndFrame
+8014CF1C 0008
+

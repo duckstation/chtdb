@@ -1,0 +1,17 @@
+; CHTDB: ; [ Arkanoid Returns (Japan) {SLPS-00948} ]
+
+[P1 Infinite Ball]
+Type = Gameshark
+Activation = EndFrame
+800DA360 0004
+
+[P2 Infinite Ball]
+Type = Gameshark
+Activation = EndFrame
+800DA3C4 0004
+
+[Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+800DA36C 0002
+

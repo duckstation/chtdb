@@ -1,0 +1,43 @@
+; CHTDB: ; [ Ryuuki Denshou: Dragoon (Japan) {SLPS-01035} ]
+
+[Infinite HP Character 1 (Sedon)]
+Type = Gameshark
+Activation = EndFrame
+8007A76B 03E7
+
+[Infinite AP Character 1 (Sedon)]
+Type = Gameshark
+Activation = EndFrame
+8007A76C 03E7
+
+[Money 9999]
+Type = Gameshark
+Activation = EndFrame
+80131574 270F
+
+[Infinite HP Character 2 (May)]
+Type = Gameshark
+Activation = EndFrame
+8007A7B7 03E7
+
+[Infinite AP Character 2 (May)]
+Type = Gameshark
+Activation = EndFrame
+8007A7B8 03E7
+
+[Infinite HP Character 3 (Sedon's Sister)]
+Type = Gameshark
+Activation = EndFrame
+8007A803 03E7
+
+[Infinite AP Character 3 (Sedon's Sister)]
+Type = Gameshark
+Activation = EndFrame
+8007A804 03E7
+
+[Gain Max]
+Type = Gameshark
+Activation = EndFrame
+8013173A FFFF
+800A21DC FFFF
+

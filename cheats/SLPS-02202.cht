@@ -1,0 +1,67 @@
+; CHTDB: ; [ Kidou Senshi Gundam: Gihren no Yabou: Zeon no Keifu: Kimitsu Eizou Disc Tokubetsu-hen (Japan) {SLPS-02202} ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+90180360 00989676
+
+[Ship 1 Codes\Now Hp 65535]
+Type = Gameshark
+Activation = EndFrame
+801365C8 FFFF
+
+[Ship 1 Codes\Max Hp 65535]
+Type = Gameshark
+Activation = EndFrame
+800D6E30 FFFF
+
+[Ship 1 Codes\Now En 999]
+Type = Gameshark
+Activation = EndFrame
+801365CA 07CE
+
+[Ship 1 Codes\Max En 999]
+Type = Gameshark
+Activation = EndFrame
+800D6E2E 07CE
+
+[Ship 1 Codes\Max Act]
+Type = Gameshark
+Activation = EndFrame
+300D6E34 0063
+
+[Ship 1 Codes\Max Def]
+Type = Gameshark
+Activation = EndFrame
+300D6E35 0031
+
+[Ship 2 Codes\Now Hp 65535]
+Type = Gameshark
+Activation = EndFrame
+801365D0 FFFF
+
+[Ship 2 Codes\Max Hp 65535]
+Type = Gameshark
+Activation = EndFrame
+800D6DB0 FFFF
+
+[Ship 2 Codes\Now En 999]
+Type = Gameshark
+Activation = EndFrame
+801365D2 07CE
+
+[Ship 2 Codes\Max En 999]
+Type = Gameshark
+Activation = EndFrame
+800D6EAE 07CE
+
+[Ship 2 Codes\Max Act]
+Type = Gameshark
+Activation = EndFrame
+300D6EB4 0063
+
+[Ship 2 Codes\Max Def]
+Type = Gameshark
+Activation = EndFrame
+300D6EB5 0031
+

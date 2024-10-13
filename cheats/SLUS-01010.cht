@@ -1,0 +1,17 @@
+; CHTDB: ; [ Animorphs - Shattered Reality (USA) (2000) (Infogrames) {SLUS-01010} <animrphs> ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801EBFCC 0064
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801EE8F4 0005
+
+[All Levels Unlocked]
+Type = Gameshark
+Activation = EndFrame
+801EBFD0 0008
+

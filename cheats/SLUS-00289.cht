@@ -1,0 +1,23 @@
+; CHTDB: ; [ Broken Helix (USA) (1997) (Konami of America) {SLUS-00289} <brkhelix> ]
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+8005C908 0190
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+8005C958 04B0
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8005C918 0032
+
+[Extra Items]
+Type = Gameshark
+Activation = EndFrame
+50002502 0001
+8006FE2E 0101
+

@@ -1,0 +1,277 @@
+; CHTDB: ; [ True Love Story (Japan) {SLPS-00586} ]
+
+[Katsuragi Ayane Good friend degree]
+Type = Gameshark
+Activation = EndFrame
+8001009C 03E8
+
+[Katsuragi Ayane Longing degree]
+Type = Gameshark
+Activation = EndFrame
+800101A2 03E8
+
+[Katsuragi Ayane Tokimeki degree]
+Type = Gameshark
+Activation = EndFrame
+8001018E 03E8
+
+[Hirose Nozom Good friend degree]
+Type = Gameshark
+Activation = EndFrame
+8001009E 03E8
+
+[Hirose Nozom Longing degree]
+Type = Gameshark
+Activation = EndFrame
+800101A4 03E8
+
+[Hirose Nozom Tokimeki degree]
+Type = Gameshark
+Activation = EndFrame
+80010190 03E8
+
+[Goto Ikumi Good friend degree]
+Type = Gameshark
+Activation = EndFrame
+800100A0 03E8
+
+[Goto Ikumi Longing degree]
+Type = Gameshark
+Activation = EndFrame
+800101A6 03E8
+
+[Goto Ikumi Tokimeki degree]
+Type = Gameshark
+Activation = EndFrame
+80010192 03E8
+
+[Honda Tomoko Good friend degree]
+Type = Gameshark
+Activation = EndFrame
+800100A2 03E8
+
+[Honda TomokoLonging degree]
+Type = Gameshark
+Activation = EndFrame
+800101A8 03E8
+
+[Honda Tomoko Tokimeki degree]
+Type = Gameshark
+Activation = EndFrame
+80010194 03E8
+
+[South Yayoi Good friend degree]
+Type = Gameshark
+Activation = EndFrame
+800100A4 03E8
+
+[South Yayoi Longing degree]
+Type = Gameshark
+Activation = EndFrame
+800101AA 03E8
+
+[South Yayoi Tokimeki degree]
+Type = Gameshark
+Activation = EndFrame
+80010196 03E8
+
+[Kasuga Chiharu Good friend degree]
+Type = Gameshark
+Activation = EndFrame
+800100A6 03E8
+
+[Kasuga Chiharu Longing degree]
+Type = Gameshark
+Activation = EndFrame
+800101AC 03E8
+
+[Kasuga Chiharu Tokimeki degree]
+Type = Gameshark
+Activation = EndFrame
+80010198 03E8
+
+[Amano Green Good friend degree]
+Type = Gameshark
+Activation = EndFrame
+800100A8 03E8
+
+[Amano Green Longing degree]
+Type = Gameshark
+Activation = EndFrame
+800101AE 03E8
+
+[Amano Green Tokimeki degree]
+Type = Gameshark
+Activation = EndFrame
+8001019A 03E8
+
+[Kusanagi Shinobu Good friend degree]
+Type = Gameshark
+Activation = EndFrame
+800100AA 03E8
+
+[Kusanagi Shinobu Longing degree]
+Type = Gameshark
+Activation = EndFrame
+800101B0 03E8
+
+[Kusanagi Shinobu Tokimeki degree]
+Type = Gameshark
+Activation = EndFrame
+8001019C 03E8
+
+[Rika Mizutani Good friend degree]
+Type = Gameshark
+Activation = EndFrame
+800100AC 03E8
+
+[Rika Mizutani Longing degree]
+Type = Gameshark
+Activation = EndFrame
+800101B2 03E8
+
+[Rika Mizutani Tokimeki degree]
+Type = Gameshark
+Activation = EndFrame
+8001019E 03E8
+
+[Honda Tomoko All Album Open]
+Type = Gameshark
+Activation = EndFrame
+80010002 0004
+90010004 00040004
+90010008 00040004
+9001000C 00040004
+90010010 00040004
+90010014 00040004
+90010018 00040004
+9001001C 00040004
+90010020 00040004
+90010024 00040004
+
+[Rika Mizutani All Album Open]
+Type = Gameshark
+Activation = EndFrame
+90010040 00040004
+90010044 00040004
+90010048 00040004
+9001004C 00040004
+90010050 00040004
+90010054 00040004
+90010058 00040004
+8001005C 0004
+
+[Hirose Nozomi All Album Open]
+Type = Gameshark
+Activation = EndFrame
+80010066 0004
+90010068 00040004
+9001006C 00040004
+90010070 00040004
+90010074 00040004
+90010078 00040004
+9001007C 00040004
+90010080 00040004
+90010084 00040004
+90010088 00040004
+
+[Kasuga Chiharu All Album Open]
+Type = Gameshark
+Activation = EndFrame
+800100CA 0004
+900100CC 00040004
+900100D0 00040004
+900100D4 00040004
+900100D8 00040004
+900100DC 00040004
+900100E0 00040004
+900100E4 00040004
+
+[Kusanagi Shinobi All Album Open]
+Type = Gameshark
+Activation = EndFrame
+90010160 00040004
+90010164 00040004
+90010168 00040004
+9001016C 00040004
+90010170 00040004
+90010174 00040004
+80010178 0004
+
+[Katsuragi Ayane All Album Open]
+Type = Gameshark
+Activation = EndFrame
+900104C0 00040004
+900104C4 00040004
+900104C8 00040004
+900104CC 00040004
+900104D0 00040004
+900104D4 00040004
+900104D8 00040004
+900104DC 00040004
+900104E0 00040004
+800104E4 0004
+
+[Goto Ikumi All Album Open]
+Type = Gameshark
+Activation = EndFrame
+900104EC 00040004
+900104F0 00040004
+900104F4 00040004
+900104F8 00040004
+900104FC 00040004
+90010500 00040004
+90010504 00040004
+90010508 00040004
+9001050C 00040004
+
+[Amano green All Album Open]
+Type = Gameshark
+Activation = EndFrame
+80010616 0004
+90010618 00040004
+9001061C 00040004
+90010620 00040004
+90010624 00040004
+90010628 00040004
+9001062C 00040004
+
+[Other All Album Open]
+Type = Gameshark
+Activation = EndFrame
+80010706 0004
+90010708 00040004
+9001070C 00040004
+8001070A 0004
+9001070C 00040004
+90010710 00040004
+90010714 00040004
+
+[Minami Yayoi All Album Open]
+Type = Gameshark
+Activation = EndFrame
+900107BC 00040004
+900107C0 00040004
+900107C4 00040004
+900107C8 00040004
+900107CC 00040004
+900107D0 00040004
+900107D4 00040004
+900107D8 00040004
+800107DC 0004
+800108DE 0004
+
+[All Clear]
+Type = Gameshark
+Activation = EndFrame
+90010834 000F000F
+90010838 000F000F
+9001083C 000F000F
+90010840 000F000F
+80010844 000F
+
+[Clear number MAX]
+Type = Gameshark
+Activation = EndFrame
+80010094 7FFF
+

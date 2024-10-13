@@ -1,0 +1,186 @@
+; CHTDB: ; [ Final Fantasy IX (USA, v1.0) (2000) (Square Electronic Arts) {SLUS-01251, SLUS-01251GH / SLUS-01295, SLUS-01295GH / SLUS-01296, SLUS-01296GH / SLUS-01297, SLUS-01297GH} <ffant9a> ]
+
+[In-Battle Character 1 Cheats\Always In Trance Mode]
+Type = Gameshark
+Activation = EndFrame
+C01044B8 0100
+80108F38 4000
+80108F74 21FF
+00000000 FFFF
+
+[In-Battle Character 1 Cheats\Super Status]
+Type = Gameshark
+Activation = EndFrame
+C01044B8 0100
+80108F36 20EC
+80108F38 4000
+00000000 FFFF
+
+[In-Battle Character 1 Cheats\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+C01044B8 0100
+80108F24 270F
+80098668 270F
+00000000 FFFF
+
+[In-Battle Character 1 Cheats\Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+C01044B8 0100
+80108F26 270F
+8009866E 270F
+00000000 FFFF
+
+[In-Battle Character 2 Cheats\Always In Trance Mode]
+Type = Gameshark
+Activation = EndFrame
+C01044B8 0100
+80109008 4000
+80109044 21FF
+00000000 FFFF
+
+[In-Battle Character 2 Cheats\Super Status]
+Type = Gameshark
+Activation = EndFrame
+C01044B8 0100
+80109006 20EC
+80109008 4000
+00000000 FFFF
+
+[In-Battle Character 2 Cheats\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+C01044B8 0100
+80108FF4 270F
+80098B10 270F
+00000000 FFFF
+
+[In-Battle Character 2 Cheats\Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+C01044B8 0100
+80108FF6 270F
+80098B16 270F
+00000000 FFFF
+
+[In-Battle Character 2 Cheats\Ats Meter Always Full]
+Type = Gameshark
+Activation = EndFrame
+D01044B8 0100
+80108FF8 1400
+
+[In-Battle Character 3 Cheats\Always In Trance Mode]
+Type = Gameshark
+Activation = EndFrame
+C01044B8 0100
+801090D8 4000
+80109114 21FF
+00000000 FFFF
+
+[In-Battle Character 3 Cheats\Super Status]
+Type = Gameshark
+Activation = EndFrame
+C01044B8 0100
+801090D6 20EC
+801090D8 4000
+00000000 FFFF
+
+[In-Battle Character 3 Cheats\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+C01044B8 0100
+801090C4 270F
+80098FB8 270F
+00000000 FFFF
+
+[In-Battle Character 3 Cheats\Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+C01044B8 0100
+801090C6 270F
+80098FBE 270F
+00000000 FFFF
+
+[In-Battle Character 3 Cheats\Ats Meter Always Full]
+Type = Gameshark
+Activation = EndFrame
+D01044B8 0100
+801090C8 1540
+
+[In-Battle Character 4 Cheats\Always In Trance Mode]
+Type = Gameshark
+Activation = EndFrame
+C01044B8 0100
+801091A8 4000
+801091E4 21FF
+00000000 FFFF
+
+[In-Battle Character 4 Cheats\Super Status]
+Type = Gameshark
+Activation = EndFrame
+C01044B8 0100
+801091A6 20EC
+801091A8 4000
+00000000 FFFF
+
+[In-Battle Character 4 Cheats\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+C01044B8 0100
+80109194 270F
+80099460 270F
+00000000 FFFF
+
+[In-Battle Character 4 Cheats\Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+C01044B8 0100
+80109196 270F
+80099466 270F
+00000000 FFFF
+
+[Other\Save Anywhere]
+Description = This cheat may cause problems when trying to access the memory card, deactivate it when you see the Slot 1/Slot 2 option while saving or loading. Also, don't use it on the world map
+Type = Gameshark
+Activation = EndFrame
+D0036490 E510
+9003648C 0C003E00
+C0036094 F809
+9003607C 0C003E06
+90036160 0C003E06
+90036230 0C003E0D
+00000000 FFFF
+C00CB618 2D95
+800CB614 0007
+800CB640 0007
+00000000 FFFF
+C00C832C B188
+800C8304 0007
+800C8330 0007
+00000000 FFFF
+D0035F2C 2821
+80035F34 0009
+D006E530 93D4
+8006E50E 0084
+D0036380 D8EC
+8003637C 0084
+9000F800 92020007
+9000F804 24050008
+9000F808 14A20002
+9000F80C 24050039
+9000F810 27FF000C
+9000F814 03E00008
+9000F818 24010008
+9000F81C 92020002
+9000F820 3C048006
+9000F824 1422FFFB
+9000F828 00000000
+9000F82C 03E00008
+9000F830 3483C984
+9000F834 8E03001C
+9000F838 27FFFFFC
+9000F83C 26220000
+9000F840 1000FFF7
+9000F844 24010008
+

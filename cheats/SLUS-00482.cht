@@ -1,0 +1,42 @@
+; CHTDB: ; [ RayStorm (USA) (1997) (Working Designs) {SLUS-00482} <raystorm> ]
+
+[P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800D784C 0009
+
+[P1 Infinite Missiles]
+Type = Gameshark
+Activation = EndFrame
+800D7878 0000
+
+[P1 Infinite SP Attacks]
+Type = Gameshark
+Activation = EndFrame
+800D787A 1000
+
+[P1 Points Max]
+Type = Gameshark
+Activation = EndFrame
+80101144 FFFF
+
+[P2 Points Max]
+Type = Gameshark
+Activation = EndFrame
+8010114C FFFF
+
+[P1 Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800D9C08 0095
+
+[Have Credit Limit Access Configuration Option Menu-Infinite Credits When Off]
+Type = Gameshark
+Activation = EndFrame
+300DC3E8 000C
+
+[Max Lock Ons]
+Type = Gameshark
+Activation = EndFrame
+300D7858 0010
+

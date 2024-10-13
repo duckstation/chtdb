@@ -1,0 +1,35 @@
+; CHTDB: ; [ From TV Animation One Piece: Grand Battle! (Japan) {SLPS-03164} ]
+
+[P1 Infinite Health & Special Moves MAX level]
+Type = Gameshark
+Activation = EndFrame
+D0079940 0C74
+80194F64 00A0
+D0079940 0C74
+80194F52 0030
+
+[P1 multistage can jump]
+Type = Gameshark
+Activation = EndFrame
+D0079940 0C74
+30196AC8 0000
+
+[P2 instant death press 1P SELECT button]
+Type = Gameshark
+Activation = EndFrame
+D00C8648 0100
+80194FAC 0000
+
+[Unlock everything]
+Type = Gameshark
+Activation = EndFrame
+901B2F90 FFFFFFFF
+901B2F94 FFFFFFFF
+801B2FB4 FFFF
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+D0079940 0C74
+800AE960 0000
+

@@ -1,0 +1,47 @@
+; CHTDB: ; [ Team Buddies (USA) (2000) (Midway Home Entertainment) {SLUS-00869} <teambud> ]
+
+[Cheats Option Unlocked]
+Type = Gameshark
+Activation = EndFrame
+3004B3D3 0010
+
+[Extra Ammo]
+Type = Gameshark
+Activation = EndFrame
+80075630 1021
+
+[Infinite Ammo (Everyone)]
+Type = Gameshark
+Activation = EndFrame
+8007563A 2400
+
+[Infinite Ammo Character 1 (Blue Team)]
+Type = Gameshark
+Activation = EndFrame
+80110110 0096
+
+[Infinite Ammo Character 2 (Blue Team)]
+Type = Gameshark
+Activation = EndFrame
+801104B4 0096
+
+[Infinite Health Character 1 (Blue Team)]
+Type = Gameshark
+Activation = EndFrame
+8011010A 0000
+
+[Infinite Health Character 2 (Blue Team)]
+Type = Gameshark
+Activation = EndFrame
+801104AE 0000
+
+[Infinite Time Sage]
+Type = Gameshark
+Activation = EndFrame
+8004B3B4 44EC
+
+[Max Health Character 1 (Blue Team)]
+Type = Gameshark
+Activation = EndFrame
+801104AC 270F
+

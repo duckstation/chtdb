@@ -1,0 +1,122 @@
+; CHTDB: ; [ ...Iru! (Japan) {SLPS-00965} ]
+
+[Walk through walls (Press L3 to turn on/off)]
+Type = Gameshark
+Activation = EndFrame
+D7010001 00000200
+F502ED9E 04401000
+F502EAD6 1C401000
+
+[FPS Unlocker]
+Type = Gameshark
+Activation = EndFrame
+A704C682 04812400
+
+[FPS Unlocker V2]
+Type = Gameshark
+Activation = EndFrame
+A704C816 14402400
+
+[Disable textures]
+Type = Gameshark
+Activation = EndFrame
+A7056002 14402400
+
+[Disable textures 2]
+Type = Gameshark
+Activation = EndFrame
+A7023B16 16602400
+
+[Disable textures 3]
+Type = Gameshark
+Activation = EndFrame
+A706B2B6 17002400
+
+[Disable textures 4]
+Type = Gameshark
+Activation = EndFrame
+A70698AE 17002400
+
+[Disable textures 5]
+Type = Gameshark
+Activation = EndFrame
+A7064CE6 14402400
+
+[Disable textures 6]
+Type = Gameshark
+Activation = EndFrame
+A706815A 16202400
+
+[Disable textures 7]
+Type = Gameshark
+Activation = EndFrame
+A706920A 17002400
+
+[Disable textures 8]
+Type = Gameshark
+Activation = EndFrame
+A706914E 18401000
+
+[Disable textures 9]
+Type = Gameshark
+Activation = EndFrame
+A70698C6 17002400
+
+[Disable textures 10]
+Type = Gameshark
+Activation = EndFrame
+A70697C6 18601000
+
+[Disable textures 11]
+Type = Gameshark
+Activation = EndFrame
+A705B466 14802400
+
+[Shadow (Can make room darker/brighter)]
+Type = Gameshark
+Activation = EndFrame
+A7059AF6 12221000
+
+[Lighting angle?]
+Type = Gameshark
+Activation = EndFrame
+A705B122 1E202400
+
+[Another lighting effect, immobilizes player]
+Type = Gameshark
+Activation = EndFrame
+A705AEC6 14802400
+
+[Pitch Dark]
+Type = Gameshark
+Activation = EndFrame
+A702E836 14402400
+
+[Wall texture ?]
+Type = Gameshark
+Activation = EndFrame
+A706B1CA 18602400
+
+[Alternate window lines]
+Type = Gameshark
+Activation = EndFrame
+A7051BD2 05E11000
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A70929E4 10000C00
+A71191F0 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A70929E4 10000900
+A71191F0 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A70929E4 10000400
+A71191F0 10000400
+

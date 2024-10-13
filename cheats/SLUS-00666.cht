@@ -1,0 +1,152 @@
+; CHTDB: ; [ Team Losi RC Racer (USA) (1998) (Fox Interactive) {SLUS-00666} <teamlosi> ]
+
+[Chupacabra Car Always Place 1st]
+Type = Gameshark
+Activation = EndFrame
+800843DA 0000
+
+[Chupacabra Car Invincibility]
+Type = Gameshark
+Activation = EndFrame
+8008425C 0800
+
+[Dirt Dog Car Always Place 1st]
+Type = Gameshark
+Activation = EndFrame
+80082AAE 0000
+
+[Dirt Dog Car Invincibility]
+Type = Gameshark
+Activation = EndFrame
+80082930 0800
+
+[Flame Dragon Car Always Place 1st]
+Type = Gameshark
+Activation = EndFrame
+8007E78E 0000
+
+[Flame Dragon Car Invincibility]
+Type = Gameshark
+Activation = EndFrame
+8007E610 0800
+
+[Graphite Plus Car Always Place 1st]
+Type = Gameshark
+Activation = EndFrame
+8008091E 0000
+
+[Graphite Plus Car Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800807A0 0800
+
+[Hard Corps Car Always Place 1st]
+Type = Gameshark
+Activation = EndFrame
+80084C3E 0000
+
+[Hard Corps Car Invincibility]
+Type = Gameshark
+Activation = EndFrame
+80084AC0 0800
+
+[Krush Car Always Place 1st]
+Type = Gameshark
+Activation = EndFrame
+8007D6C6 0000
+
+[Krush Car Invincibility]
+Type = Gameshark
+Activation = EndFrame
+8007D6C6 0800
+
+[Land Shark Car Always Place 1st]
+Type = Gameshark
+Activation = EndFrame
+8008224A 0000
+
+[Land Shark Car Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800820CC 0800
+
+[Mook-808 Car Always Place 1st]
+Type = Gameshark
+Activation = EndFrame
+80083312 0000
+
+[Mook-808 Car Invincibility]
+Type = Gameshark
+Activation = EndFrame
+80083194 0800
+
+[Outlaw Car Always Place 1st]
+Type = Gameshark
+Activation = EndFrame
+800819E6 0000
+
+[Outlaw Car Invincibility]
+Type = Gameshark
+Activation = EndFrame
+80081868 0800
+
+[Reaper Car Always Place 1st]
+Type = Gameshark
+Activation = EndFrame
+80083B76 0000
+
+[Reaper Car Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800839F8 0800
+
+[Road Ninja Car Always Place 1st]
+Type = Gameshark
+Activation = EndFrame
+800800BA 0000
+
+[Road Ninja Car Invincibility]
+Type = Gameshark
+Activation = EndFrame
+8007FF3C 0800
+
+[Scorpion Car Always Place 1st]
+Type = Gameshark
+Activation = EndFrame
+8007EFF2 0000
+
+[Scorpion Car Invincibility]
+Type = Gameshark
+Activation = EndFrame
+8007EFF2 0800
+
+[Venom Car Always Place 1st]
+Type = Gameshark
+Activation = EndFrame
+8007F856 0000
+
+[Venom Car Invincibility]
+Type = Gameshark
+Activation = EndFrame
+8007F6D8 0800
+
+[Vixxen Car Always Place 1st]
+Type = Gameshark
+Activation = EndFrame
+8007DF2A 0000
+
+[Vixxen Car Invincibility]
+Type = Gameshark
+Activation = EndFrame
+8007DF2A 0800
+
+[XX4 Car Always Place 1st]
+Type = Gameshark
+Activation = EndFrame
+80081182 0000
+
+[XX4 Car Invincibility]
+Type = Gameshark
+Activation = EndFrame
+80081004 0800
+

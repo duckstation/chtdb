@@ -1,0 +1,94 @@
+; CHTDB: ; [ Freestyle Scooter (Europe) {SLES-03363} ]
+
+[Start with extreme score]
+Type = Gameshark
+Activation = EndFrame
+A6097A8C 00008760
+D0097A8E 0000
+30097A8E 0003
+
+[Get 20.000 points for each trick]
+Type = Gameshark
+Activation = EndFrame
+9003DEF4 24424E20
+
+[Start with 1000 feet grinded]
+Type = Gameshark
+Activation = EndFrame
+D0097ECA 0000
+30097ECA 0015
+
+[Max combo]
+Type = Gameshark
+Activation = EndFrame
+A6097ED0 00002710
+
+[Have 40 wheels collected]
+Type = Gameshark
+Activation = EndFrame
+30097F28 0028
+
+[Time Stopped (Press L1 & L2)]
+Type = Gameshark
+Activation = EndFrame
+D00AE60A FAFF
+800375C0 0000
+
+[Challenge level 1 clear, Daryl unlocked]
+Type = Gameshark
+Activation = EndFrame
+300954C8 0001
+
+[Challenge level 2 clear, Hector unlocked]
+Type = Gameshark
+Activation = EndFrame
+30095508 0001
+
+[Challenge level 3 clear, Brittany unlocked]
+Type = Gameshark
+Activation = EndFrame
+30095548 0001
+
+[Challenge level 4 clear, Tito Ortiz unlocked]
+Type = Gameshark
+Activation = EndFrame
+30095588 0001
+
+[Challenge level 5 clear, Chippie unlocked]
+Type = Gameshark
+Activation = EndFrame
+300955C8 0001
+
+[Challenge level 6 clear, Tikiman unlocked]
+Type = Gameshark
+Activation = EndFrame
+30095608 0001
+
+[Norton unlocked]
+Type = Gameshark
+Activation = EndFrame
+30095648 0001
+
+[All Levels and challenges Unlocked]
+Type = Gameshark
+Activation = EndFrame
+300954BC 0001
+300954C0 0001
+300954C4 0001
+30095504 0001
+30095544 0001
+30095584 0001
+300955C4 0001
+30095604 0001
+
+[All Characters Unlocked]
+Type = Gameshark
+Activation = EndFrame
+300954C8 0001
+30095508 0001
+30095548 0001
+30095588 0001
+300955C8 0001
+30095608 0001
+30095648 0001
+

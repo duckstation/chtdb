@@ -1,0 +1,28 @@
+; CHTDB: ; [ Diablo (Japan) {SLPS-01416} ]
+
+[P1 Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+900DA64C 00010000
+900DA650 00010000
+900DA654 00010000
+900DA658 00010000
+
+[P2 Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+900DC034 00010000
+900DC038 00010000
+900DC03C 00010000
+900DC040 00010000
+
+[Gold]
+Type = Gameshark
+Activation = EndFrame
+800DA68A 3B9A
+
+[Not mana consumption]
+Type = Gameshark
+Activation = EndFrame
+800DA5A0 0000
+

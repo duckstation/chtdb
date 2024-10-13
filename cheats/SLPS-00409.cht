@@ -1,0 +1,38 @@
+; CHTDB: ; [ Pukunpa - Joshikousei no Houkago... (Jpn) (1996) (Athena) {SLPS-00409} <pukunpa> ]
+
+[P1 score 999999]
+Type = Gameshark
+Activation = EndFrame
+900B72B8 0098967F
+
+[P1 score 999999 (SELECT)]
+Type = Gameshark
+Activation = EndFrame
+D00B78A6 FFFE
+900B72B8 0098967F
+
+[P2 score 0]
+Type = Gameshark
+Activation = EndFrame
+900B72BC 00000000
+
+[P2 score 0 (L1 + R1)]
+Type = Gameshark
+Activation = EndFrame
+D00B78A6 FFF3
+900B72BC 00000000
+
+[P1 stop ball]
+Description = Press L1 + L2
+Type = Gameshark
+Activation = EndFrame
+D00B78A6 FFFA
+300B72D2 0001
+
+[P2 stop ball]
+Description = Press R1 + R2
+Type = Gameshark
+Activation = EndFrame
+D00B78A6 FFF5
+300B72D6 0001
+

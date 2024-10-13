@@ -1,0 +1,31 @@
+; CHTDB: ; [ Dice de Chocobo (Japan) (Chocobo Collection: Happy 10th Anniversary!) {SLPS-02523} ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+80131F40 270F
+
+[Address Key]
+Type = Gameshark
+Activation = EndFrame
+D0131EA8 0000
+
+[Speeding]
+Type = Gameshark
+Activation = EndFrame
+90033A94 24040001
+
+[Get To The Finish Line And Win]
+Type = Gameshark
+Activation = EndFrame
+D0131EA8 0900
+80041344 0001
+D0131EA8 0000
+80041344 00A9
+
+[All Friends]
+Type = Gameshark
+Activation = EndFrame
+D00C7900 1E48
+800C7960 0001
+

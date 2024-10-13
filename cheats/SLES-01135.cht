@@ -1,0 +1,37 @@
+; CHTDB: ; [ Alundra aka The Adventures of Alundra (Europe) {SLES-01135} ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+3012708C 0032
+30127090 0032
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+A61EAB7C 00FF270F
+
+[Infinite Magic]
+Type = Gameshark
+Activation = EndFrame
+301EAB78 0004
+301EAB7A 0004
+
+[Mega Jump (.Hold X button down to gain height and tap D button for direction.)]
+Type = Gameshark
+Activation = EndFrame
+D0126270 0040
+80127132 0002
+
+[Have Keys]
+Type = Gameshark
+Activation = EndFrame
+301EAC7C 0063
+301EACB4 0001
+301EACAC 0001
+
+[Warp Gates Open]
+Type = Gameshark
+Activation = EndFrame
+301EA73E 00FF
+

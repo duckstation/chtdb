@@ -1,0 +1,93 @@
+; CHTDB: ; [ Roswell Conspiracies: Aliens, Myths & Legends (Europe) {SLES-02591} ]
+
+[Unlock all levels (Press L1 & L2 & R1 & R2 at main screen)]
+Type = Gameshark
+Activation = EndFrame
+D006F49E F0FF
+3009EA50 0010
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+800EAF7C 000A
+
+[Infinite Ammo (ASM)]
+Type = Gameshark
+Activation = EndFrame
+A7096148 FFFF0000
+
+[Infinite Health The Beginning]
+Type = Gameshark
+Activation = EndFrame
+800EA5BA 0064
+
+[Infinite Health The Dye Factory]
+Type = Gameshark
+Activation = EndFrame
+800E14BA 0064
+
+[Infinite Health Underground Resistance]
+Type = Gameshark
+Activation = EndFrame
+300E4BDA 0064
+
+[Infinite Health Ruck]
+Type = Gameshark
+Activation = EndFrame
+300D9D4E 0064
+
+[Infinite Health The Beach]
+Type = Gameshark
+Activation = EndFrame
+800F28A2 0064
+
+[Infinite Health Precious Elements]
+Type = Gameshark
+Activation = EndFrame
+800E62C6 0064
+
+[Infinite Health Crystal Chambers]
+Type = Gameshark
+Activation = EndFrame
+800E28FA 0064
+
+[Infinite Health Khan Mort]
+Type = Gameshark
+Activation = EndFrame
+800DF45A 0064
+
+[Infinite Health The Bay]
+Type = Gameshark
+Activation = EndFrame
+800F07AA 0064
+
+[Infinite Health The Rock]
+Type = Gameshark
+Activation = EndFrame
+800E01B6 0064
+
+[Infinite Health Baron Samedi]
+Type = Gameshark
+Activation = EndFrame
+800DCDAA 0064
+
+[Infinite Health Crash Site]
+Type = Gameshark
+Activation = EndFrame
+800E7D22 0064
+
+[Infinite Health Powerup]
+Type = Gameshark
+Activation = EndFrame
+800E62C6 0064
+
+[Infinite Health Descent]
+Type = Gameshark
+Activation = EndFrame
+800E9D0E 0064
+
+[Infinite Health The Shadoen]
+Type = Gameshark
+Activation = EndFrame
+800D9D76 0064
+

@@ -1,0 +1,22 @@
+; CHTDB: ; [ Seikon no Joka: Hikari to Yami no Seioujo (Japan) {SLPS-00483} ]
+
+[Infinite HP Character 1]
+Type = Gameshark
+Activation = EndFrame
+800C4E96 0063
+
+[Infinite & Max Sp Character 1]
+Type = Gameshark
+Activation = EndFrame
+800C4E97 0063
+
+[Infinite HP character boy with a hat]
+Type = Gameshark
+Activation = EndFrame
+800C4F92 0063
+
+[Infinite Money (60000)]
+Type = Gameshark
+Activation = EndFrame
+800D1850 EA60
+

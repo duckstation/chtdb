@@ -1,0 +1,70 @@
+; CHTDB: ; [ Kuroi Hitomi no Noir - Cielgris Fantasm (Jpn) (1999) (Gust) {SLPS-01450} <cielgris> ]
+
+[Infinite + Max HP Noire]
+Type = Gameshark
+Activation = EndFrame
+8012B4C2 03E7
+8012B4C6 03E7
+
+[Infinite + Max MP Noire]
+Type = Gameshark
+Activation = EndFrame
+8012B4C4 03E7
+8012B4C8 03E7
+
+[LV 99 Noire]
+Type = Gameshark
+Activation = EndFrame
+3012B4AF 0063
+
+[Infinite HP warrior]
+Type = Gameshark
+Activation = EndFrame
+8012B4EE 0080
+
+[Infinite MP warrior]
+Type = Gameshark
+Activation = EndFrame
+8012B4F0 0053
+
+[Max silver]
+Type = Gameshark
+Activation = EndFrame
+9012A664 000F423F
+
+[Max victory points]
+Type = Gameshark
+Activation = EndFrame
+8012A844 7FFF
+
+[All Magic available]
+Type = Gameshark
+Activation = EndFrame
+9012B864 FFFFFFFF
+9012B868 FFFFFFFF
+
+[Genie Advent]
+Type = Gameshark
+Activation = EndFrame
+3012B4AE 8D00
+9012B4B0 56837D83
+8012B4B4 9383
+3012B4AF 00FF
+8012B4C2 03E7
+9012B4C4 03E703E7
+9012B4C8 03E703E7
+9012B4CC 03E703E7
+8012B4D0 270F
+9012B864 FFFFFFFF
+9012B868 FFFFFFFF
+
+[Rank all the advent of arena]
+Type = Gameshark
+Activation = EndFrame
+8012A668 0F0F
+
+[None Encounter in dungeon]
+Type = Gameshark
+Activation = EndFrame
+90009010 00000000
+

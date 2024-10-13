@@ -1,0 +1,49 @@
+; CHTDB: ; [ Quiz Nanairo Dreams: Nijiirochou no Kiseki (Japan) {SLPS-00875} ]
+
+[Infinite Live cards]
+Type = Gameshark
+Activation = EndFrame
+800F33FF 0003
+
+[Achieve 100%]
+Type = Gameshark
+Activation = EndFrame
+800F343A 0064
+
+[Infinite Life Cards]
+Type = Gameshark
+Activation = EndFrame
+D0088EEA 2442
+80088EE8 0000
+
+[Decreasing Timer]
+Type = Gameshark
+Activation = EndFrame
+D005D666 2442
+8005D664 0000
+
+[After Achieving The Quota, Max Good Sensitivity]
+Type = Gameshark
+Activation = EndFrame
+D007EC6C 2821
+8007EC7C 03E7
+D007EC6C 2821
+8007EC7E 2402
+
+[100% Accuracy Rate]
+Type = Gameshark
+Activation = EndFrame
+D0086F94 1821
+80086FA0 0000
+
+[The Number Of Remaining Quota 0]
+Type = Gameshark
+Activation = EndFrame
+300F09F6 0000
+
+[Quota cleared by one question correct answer]
+Type = Gameshark
+Activation = EndFrame
+D0088CC2 0441
+80088CC0 0001
+

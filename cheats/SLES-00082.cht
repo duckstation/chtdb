@@ -1,0 +1,77 @@
+; CHTDB: ; [ G-Police (Europe) {SLES-00082 | SLES-10082} ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801EEEB4 1389
+
+[Infinite Cannon]
+Type = Gameshark
+Activation = EndFrame
+800F60D4 0063
+
+[Infinite Infra-Red Missiles]
+Type = Gameshark
+Activation = EndFrame
+800F60D8 0063
+
+[Infinite Hyper Missiles]
+Type = Gameshark
+Activation = EndFrame
+800F60DC 0063
+
+[Infinite Fire Missiles]
+Type = Gameshark
+Activation = EndFrame
+800F60E0 0063
+
+[Infinite Star Missiles]
+Type = Gameshark
+Activation = EndFrame
+800F60E4 0063
+
+[Infinite Mantr Rockets]
+Type = Gameshark
+Activation = EndFrame
+800F60E8 0063
+
+[Infinite Bomblets]
+Type = Gameshark
+Activation = EndFrame
+800F60EC 0063
+
+[Infinite 1000Lb Bombs]
+Type = Gameshark
+Activation = EndFrame
+800F60F4 0063
+
+[Infinite 500Lb Bombs]
+Type = Gameshark
+Activation = EndFrame
+800F60F8 0063
+
+[Infinite Beacons]
+Type = Gameshark
+Activation = EndFrame
+800F60FC 0063
+
+[Infinite Plasma]
+Type = Gameshark
+Activation = EndFrame
+800F6100 0063
+
+[Infinite Laser]
+Type = Gameshark
+Activation = EndFrame
+800F6104 0063
+
+[Infinite Epp]
+Type = Gameshark
+Activation = EndFrame
+800F6108 0063
+
+[Level modifier	00-23]
+Type = Gameshark
+Activation = EndFrame
+30093B1C 0022
+

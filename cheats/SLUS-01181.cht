@@ -1,0 +1,17 @@
+; CHTDB: ; [ World of Dragon Warrior - Torneko - The Last Hope (USA) (2000) (Enix America) {SLUS-01181} <torneko> ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800F66D4 03E7
+
+[Infinite Belly]
+Type = Gameshark
+Activation = EndFrame
+300F66A5 00FF
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+900F66B0 05F5E0FF
+

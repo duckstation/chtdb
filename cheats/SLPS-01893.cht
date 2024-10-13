@@ -1,0 +1,22 @@
+; CHTDB: ; [ Shiibas 1-2-3 - Destiny! Unmei O Kaerusha! (Jpn) (2000) (Jaleco) {SLPS-01893} <shiba123> ]
+
+[Infinite Energy In Battle]
+Type = Gameshark
+Activation = EndFrame
+800CD49C 00C8
+
+[SP gauge MAX]
+Type = Gameshark
+Activation = EndFrame
+800CD4A4 012C
+
+[No more frustrating gauge]
+Type = Gameshark
+Activation = EndFrame
+800CD468 0000
+
+[All Gallery open]
+Type = Gameshark
+Activation = EndFrame
+80094482 FFFF
+

@@ -1,0 +1,7 @@
+; CHTDB: ; [ ReBoot (France) {SLES-00923} ]
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+800F29A0 1333
+

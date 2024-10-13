@@ -1,0 +1,7 @@
+; CHTDB: ; [ Tunguska: Legend of Faith (Europe) {SLES-03298} ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8005F604 0000
+

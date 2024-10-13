@@ -1,0 +1,27 @@
+; CHTDB: ; [ The Land Before Time - Great Valley Racing Adventure (USA) (2001) (TDK Mediactive) {SLUS-01213} <landbtrc> ]
+
+[Start On Lap 3]
+Type = Gameshark
+Activation = EndFrame
+A605D8D0 00000002
+
+[Max Points]
+Type = Gameshark
+Activation = EndFrame
+8004D71C FFFF
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+8004D724 0000
+
+[Unlock All Obstacle Courses]
+Type = Gameshark
+Activation = EndFrame
+8005D8EE 000F
+
+[Have Speed Burst]
+Type = Gameshark
+Activation = EndFrame
+8004D6F0 0001
+

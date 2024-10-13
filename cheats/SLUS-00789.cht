@@ -1,0 +1,205 @@
+; CHTDB: ; [ Grand Theft Auto 2 (USA) (1999) (Rockstar Games) {SLUS-00789, SLUS-00789GH, SLUS-00789CE} <gta2> ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80145A9A 0064
+8012007E 000A
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80120008 0063
+
+[Max Money]
+Type = Gameshark
+Activation = EndFrame
+9011FD0C 0098967F
+
+[Infinite Bonus + Kill Frenzy Time]
+Type = Gameshark
+Activation = EndFrame
+800A419A 2400
+
+[No Cops]
+Type = Gameshark
+Activation = EndFrame
+80145A8E 0000
+
+[Lots Of Cops]
+Type = Gameshark
+Activation = EndFrame
+80145A8E 2EE0
+
+[No Kills]
+Type = Gameshark
+Activation = EndFrame
+8012A870 0000
+
+[Max Number Of Kills]
+Type = Gameshark
+Activation = EndFrame
+8012A870 FFFF
+
+[Have Weapon\Pistol Max Ammo]
+Type = Gameshark
+Activation = EndFrame
+A6164D6C 000003E7
+
+[Have Weapon\Pistol (Kill Frenzy Ammo)]
+Type = Gameshark
+Activation = EndFrame
+A6164D6C 0000FFFF
+
+[Have Weapon\S-Uzi Machine Gun Max Ammo]
+Type = Gameshark
+Activation = EndFrame
+A6164D94 000003E7
+
+[Have Weapon\S-Uzi Machine Gun (Kill Frenzy Ammo)]
+Type = Gameshark
+Activation = EndFrame
+A6164D94 0000FFFF
+
+[Have Weapon\Rocket Launcher Max Ammo]
+Type = Gameshark
+Activation = EndFrame
+A6164DBC 000003E7
+
+[Have Weapon\Rocket Launcher (Kill Frenzy Ammo)]
+Type = Gameshark
+Activation = EndFrame
+A6164DBC 0000FFFF
+
+[Have Weapon\Zapper Max Ammo]
+Type = Gameshark
+Activation = EndFrame
+A6164DE4 000003E7
+
+[Have Weapon\Zapper (Kill Frenzy Ammo)]
+Type = Gameshark
+Activation = EndFrame
+A6164DE4 0000FFFF
+
+[Have Weapon\Molotav Cocktail Max Ammo]
+Type = Gameshark
+Activation = EndFrame
+A6164E0C 000003E7
+
+[Have Weapon\Molotav Cocktail (Kill Frenzy Ammo)]
+Type = Gameshark
+Activation = EndFrame
+A6164E0C 0000FFFF
+
+[Have Weapon\Grenades Max Ammo]
+Type = Gameshark
+Activation = EndFrame
+A6164E34 000003E7
+
+[Have Weapon\Grenades (Kill Frenzy Ammo)]
+Type = Gameshark
+Activation = EndFrame
+A6164E34 0000FFFF
+
+[Have Weapon\Shotgun Max Ammo]
+Type = Gameshark
+Activation = EndFrame
+A6164E5C 000003E7
+
+[Have Weapon\Shotgun (Kill Frenzy Ammo)]
+Type = Gameshark
+Activation = EndFrame
+A6164E5C 0000FFFF
+
+[Have Weapon\Tazer Max Ammo]
+Type = Gameshark
+Activation = EndFrame
+A6164E84 000003E7
+
+[Have Weapon\Tazer (Kill Frenzy Ammo)]
+Type = Gameshark
+Activation = EndFrame
+A6164E84 0000FFFF
+
+[Have Weapon\Flame Thrower Max Ammo]
+Type = Gameshark
+Activation = EndFrame
+A6164EAC 000003E7
+
+[Have Weapon\Flame Thrower (Kill Frenzy Ammo)]
+Type = Gameshark
+Activation = EndFrame
+A6164EAC 0000FFFF
+
+[Have Weapon\All Weapons (Normal Max Ammo)]
+Type = Gameshark
+Activation = EndFrame
+D0164D6C 0000
+50000B28 0000
+80164D6C 03E7
+
+[Have Weapon\All Weapons (Kill Frenzy Ammo)]
+Type = Gameshark
+Activation = EndFrame
+D0164D6C 0000
+50000B28 0000
+80164D6C FFFF
+
+[Have Weapon\Open All Normal Areas]
+Type = Gameshark
+Activation = EndFrame
+80024F24 0003
+
+[Have Weapon\Open All Bonus Areas]
+Type = Gameshark
+Activation = EndFrame
+A6024F1C 00000001
+80024F28 0009
+
+[In-Game\Invincibility]
+Type = Gameshark
+Activation = EndFrame
+30026348 0001
+
+[In-Game\All Areas Unlocked]
+Type = Gameshark
+Activation = EndFrame
+30026349 0001
+
+[In-Game\No Cops]
+Type = Gameshark
+Activation = EndFrame
+3002634A 0001
+
+[In-Game\5X Multiplier]
+Type = Gameshark
+Activation = EndFrame
+3002634B 0001
+
+[In-Game\10 Million Points]
+Type = Gameshark
+Activation = EndFrame
+3002634C 0001
+
+[In-Game\All Weapons]
+Type = Gameshark
+Activation = EndFrame
+3002634E 0001
+
+[In-Game\Most Wanted]
+Type = Gameshark
+Activation = EndFrame
+3002634F 0001
+
+[In-Game\Bonus Multiplier X99]
+Type = Gameshark
+Activation = EndFrame
+80120040 0063
+
+[In-Game\Respect From All Gangs]
+Type = Gameshark
+Activation = EndFrame
+801789E4 7530
+801788B4 7530
+80178784 7530
+

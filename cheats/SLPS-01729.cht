@@ -1,0 +1,47 @@
+; CHTDB: ; [ Tamamayu Monogatari (Japan) {SLPS-01729} ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+90089274 000F423F
+
+[Max Status Hero]
+Type = Gameshark
+Activation = EndFrame
+800894F8 03E7
+80089A54 0063
+90089A1C 03E703E7
+30089A3C 0063
+30089A3D 0063
+30089A3E 0063
+30089A3F 0063
+30089A40 0063
+80089A54 0063
+800894F8 0063
+
+[Infinite & Max HP]
+Type = Gameshark
+Activation = EndFrame
+90089AD0 03E703E7
+
+[Infinite & Max Spirit]
+Type = Gameshark
+Activation = EndFrame
+90089AD4 03E703E7
+
+[Empty cocoon remaining]
+Type = Gameshark
+Activation = EndFrame
+800894F8 03E7
+
+[Infinite & MaxCurrent strength of the Levant]
+Type = Gameshark
+Activation = EndFrame
+90089A1C 03E703E7
+
+[All Key Item]
+Type = Gameshark
+Activation = EndFrame
+900894FC FFFFFFFF
+80089500 003F
+

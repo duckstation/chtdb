@@ -1,0 +1,27 @@
+; CHTDB: ; [ Castrol Honda Superbike Racing (USA) (1999) (Electronic Arts) {SLUS-00882} <hondasbr> ]
+
+[Lap Time Is 0.00.00]
+Type = Gameshark
+Activation = EndFrame
+8002BB8A 2400
+
+[Start On 3rd Lap]
+Type = Gameshark
+Activation = EndFrame
+90026234 0C07C000
+901F0000 1E400002
+901F0004 24010000
+901F0008 24210003
+901F000C 03E00008
+901F0010 A2010144
+
+[Max Points In Season]
+Type = Gameshark
+Activation = EndFrame
+A609DEA6 000001F4
+
+[Start On Last Race In Season]
+Type = Gameshark
+Activation = EndFrame
+8009DDA4 000E
+

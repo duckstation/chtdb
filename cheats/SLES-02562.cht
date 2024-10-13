@@ -1,0 +1,52 @@
+; CHTDB: ; [ Parasite Eve II (Italy) {SLES-02562 | SLES-12562} ]
+
+[Infinite & Max HP]
+Type = Gameshark
+Activation = EndFrame
+90074E60 00FF00FF
+
+[Infinite & Max	MP]
+Type = Gameshark
+Activation = EndFrame
+90074E64 00FF00FF
+
+[Infinite BP]
+Type = Gameshark
+Activation = EndFrame
+90074E54 000F423F
+
+[Infinite Ammo 5.56]
+Type = Gameshark
+Activation = EndFrame
+30073A69 0063
+
+[Infinite Ammo 	9mm P.B.]
+Type = Gameshark
+Activation = EndFrame
+300739F9 0063
+
+[Infinite Ammo Buckshot]
+Type = Gameshark
+Activation = EndFrame
+30073A51 0063
+
+[Have all PE skills at level 3]
+Type = Gameshark
+Activation = EndFrame
+50000602 0000
+80073C78 0303
+
+[Invincibility (No Hit)]
+Type = Gameshark
+Activation = EndFrame
+F40DBDC8 00AA0800
+AAAA4010 21208002
+2128AAAA AAAAAAAA
+AAAA00AA AAAAAAAA
+AAAAAAAA AAAAAAAA
+F40DBC1C 00AA0800
+AAAA4010 02006230
+AAAA40AA AAAAAAAA
+AAAA00AA AAAAAAAA
+AAAAAAAA AAAAAAAA
+

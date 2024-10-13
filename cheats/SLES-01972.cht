@@ -1,0 +1,42 @@
+; CHTDB: ; [ South Park: Chef's Luv Shack (Europe) {SLES-01972} ]
+
+[P1 Lots Of Points]
+Type = Gameshark
+Activation = EndFrame
+80105348 C350
+
+[P1 No Points]
+Type = Gameshark
+Activation = EndFrame
+80105348 0000
+
+[P2 Lots Of Points]
+Type = Gameshark
+Activation = EndFrame
+8010534C C350
+
+[P2 No Points]
+Type = Gameshark
+Activation = EndFrame
+8010534C 0000
+
+[P3 Lots Of Points]
+Type = Gameshark
+Activation = EndFrame
+80105350 C350
+
+[P3 No Points]
+Type = Gameshark
+Activation = EndFrame
+80105350 0000
+
+[P4 Lots Of Points]
+Type = Gameshark
+Activation = EndFrame
+80105354 C350
+
+[P4 No Points]
+Type = Gameshark
+Activation = EndFrame
+80105354 0000
+

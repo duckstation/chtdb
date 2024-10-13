@@ -1,0 +1,42 @@
+; CHTDB: ; [ Shrek Treasure Hunt (Europe) {SLES-03996} ]
+
+[10 Lava balls]
+Type = Gameshark
+Activation = EndFrame
+801B4B68 000A
+
+[Infinite Time bridge minigame]
+Type = Gameshark
+Activation = EndFrame
+80072704 1753
+
+[Infinite Cheese Wedges]
+Type = Gameshark
+Activation = EndFrame
+801B4B6F 000A
+
+[16 Dwarves]
+Type = Gameshark
+Activation = EndFrame
+801B4B71 0010
+
+[10 fish-bones]
+Type = Gameshark
+Activation = EndFrame
+801B4B6C 000A
+
+[30 Keys]
+Type = Gameshark
+Activation = EndFrame
+801B4B6A 001E
+
+[16 Knights]
+Type = Gameshark
+Activation = EndFrame
+801B4B69 0010
+
+[20 horseshoes]
+Type = Gameshark
+Activation = EndFrame
+801B4B6B 0014
+

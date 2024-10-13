@@ -1,0 +1,78 @@
+; CHTDB: ; [ Crash Bandicoot Carnival (Japan) {SCPS-10140} ]
+
+[Unlimited Timer]
+Type = Gameshark
+Activation = EndFrame
+A705B8CC 00000040
+
+[All Levels Open in the warp room]
+Type = Gameshark
+Activation = EndFrame
+3005BA3C 0001
+3005BA4E 0001
+3005BA41 0001
+3005BA57 0001
+
+[All Cups]
+Type = Gameshark
+Activation = EndFrame
+50001002 0000
+8005B9B4 0101
+3005B9D4 0001
+
+[All Color diamonds]
+Type = Gameshark
+Activation = EndFrame
+50001002 0000
+8005B9F6 0101
+3005BA16 0001
+
+[All Power Stones]
+Type = Gameshark
+Activation = EndFrame
+3005BA17 0001
+50001002 0000
+8005BA18 0101
+
+[All Trophies]
+Type = Gameshark
+Activation = EndFrame
+3005B9D5 0002
+50001002 0000
+8005B9D6 0202
+
+[All Boxes activate & break]
+Type = Gameshark
+Activation = EndFrame
+A70B9F0A 16E22400
+
+[All Boxes become TNTs when grabbed]
+Type = Gameshark
+Activation = EndFrame
+A70B9C5A 16E22400
+
+[All Boxes bounce then break]
+Type = Gameshark
+Activation = EndFrame
+A70B9EE6 10402400
+
+[All Boxes break when grabbed]
+Type = Gameshark
+Activation = EndFrame
+A70B9F1A 10401800
+
+[Nitro Boxes don't explode when touched while walking]
+Type = Gameshark
+Activation = EndFrame
+A70B9E5E 10401800
+
+[Space Bash is Unbreakable]
+Type = Gameshark
+Activation = EndFrame
+A708F12A 00402400
+
+[TNT Boxes don't have a explosion timer]
+Type = Gameshark
+Activation = EndFrame
+A70B9C5A 16E21800
+

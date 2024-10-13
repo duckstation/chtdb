@@ -1,0 +1,12 @@
+; CHTDB: ; [ Idol Promotion: Suzuki Yumie (Japan) {SLPS-00343} ]
+
+[Infinite Money (9999999)]
+Type = Gameshark
+Activation = EndFrame
+90078DC8 0098967F
+
+[Infinite Fans]
+Type = Gameshark
+Activation = EndFrame
+90078D98 FFFFFFFF
+

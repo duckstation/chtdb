@@ -1,0 +1,399 @@
+; CHTDB: ; [ Crash Bash (USA) (2000) (Sony Computer Entertainment America) {SCUS-94570} <crashbsh> ]
+
+[Only Need 1 Trophy To Win]
+Type = Gameshark
+Activation = EndFrame
+A605A6E0 00000002
+
+[Infinite Ball Points]
+Type = Gameshark
+Activation = EndFrame
+8009D57C 000F
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8009D562 0014
+
+[Infinite Tank Health]
+Type = Gameshark
+Activation = EndFrame
+800CAD50 0006
+
+[Have All Treasures]
+Type = Gameshark
+Activation = EndFrame
+50004302 0000
+8005A6F8 0202
+
+[Warp Room 2 Unlocked]
+Type = Gameshark
+Activation = EndFrame
+3005A780 0001
+
+[Warp Room 3 Unlocked]
+Type = Gameshark
+Activation = EndFrame
+3005A792 0001
+
+[Warp Room 4 Unlocked]
+Type = Gameshark
+Activation = EndFrame
+3005A785 0001
+
+[Warp Room 5 Unlocked]
+Type = Gameshark
+Activation = EndFrame
+3005A79B 0001
+
+[Select Crash Bash Arena Background\01. [Crate Crush] Jungle Bash]
+Type = Gameshark
+Activation = EndFrame
+90078CEA 24030024
+
+[Select Crash Bash Arena Background\02. [Crate Crush] Jungle Bash (Crystal)]
+Type = Gameshark
+Activation = EndFrame
+90078CEA 24030025
+
+[Select Crash Bash Arena Background\03. [Crate Crush] Space Bash]
+Type = Gameshark
+Activation = EndFrame
+90078CEA 24030022
+
+[Select Crash Bash Arena Background\04. [Crate Crush] Space Bash (Crystal)]
+Type = Gameshark
+Activation = EndFrame
+90078CEA 24030023
+
+[Select Crash Bash Arena Background\05. [Crate Crush] Snow Bash]
+Type = Gameshark
+Activation = EndFrame
+90078CEA 24030026
+
+[Select Crash Bash Arena Background\06. [Crate Crush] Snow Bash (Crystal)]
+Type = Gameshark
+Activation = EndFrame
+90078CEA 24030027
+
+[Select Crash Bash Arena Background\07. [Crate Crush] Drain Bash]
+Type = Gameshark
+Activation = EndFrame
+90078CEA 24030028
+
+[Select Crash Bash Arena Background\08. [Crate Crush] Drain Bash (Crystal)]
+Type = Gameshark
+Activation = EndFrame
+90078CEA 24030029
+
+[Select Crash Bash Arena Background\09. [Crate Crush] Tie Breaker (Has a Purple Skybox for some reason)]
+Type = Gameshark
+Activation = EndFrame
+90078CEA 2403002A
+
+[Select Crash Bash Arena Background\10. [Polar Push] Polar Panic]
+Type = Gameshark
+Activation = EndFrame
+90078CEA 24030083
+
+[Select Crash Bash Arena Background\11. [Polar Push] Polar Panic (Crystal)]
+Type = Gameshark
+Activation = EndFrame
+90078CEA 24030086
+
+[Select Crash Bash Arena Background\12. [Polar Push] Tilt Panic]
+Type = Gameshark
+Activation = EndFrame
+90078CEA 2403007F
+
+[Select Crash Bash Arena Background\13. [Polar Push] Tilt Panic (Crystal)]
+Type = Gameshark
+Activation = EndFrame
+90078CEA 24030093
+
+[Select Crash Bash Arena Background\14. [Polar Push] Melt Panic]
+Type = Gameshark
+Activation = EndFrame
+90078CEA 24030084
+
+[Select Crash Bash Arena Background\15. [Polar Push] Melt Panic (Crystal)]
+Type = Gameshark
+Activation = EndFrame
+90078CEA 24030097
+
+[Select Crash Bash Arena Background\16. [Polar Push] Manic Panic]
+Type = Gameshark
+Activation = EndFrame
+90078CEA 24030086
+
+[Select Crash Bash Arena Background\17. [Polar Push] Manic Panic (Crystal)]
+Type = Gameshark
+Activation = EndFrame
+90078CEA 24030096
+
+[Select Crash Bash Arena Background\18. [Pogo Pandemonium] Pogo Painter]
+Type = Gameshark
+Activation = EndFrame
+90078CEA 24030047
+
+[Select Crash Bash Arena Background\19. [Pogo Pandemonium] Pogo Painter (Crystal)]
+Type = Gameshark
+Activation = EndFrame
+90078CEA 2403004B
+
+[Select Crash Bash Arena Background\20. [Pogo Pandemonium] Pogo-A-Gogo]
+Type = Gameshark
+Activation = EndFrame
+90078CEA 24030048
+
+[Select Crash Bash Arena Background\21. [Pogo Pandemonium] Pogo-A-Gogo (Crystal)]
+Type = Gameshark
+Activation = EndFrame
+90078CEA 2403004C
+
+[Select Crash Bash Arena Background\22. [Pogo Pandemonium] El Pogo Loco]
+Type = Gameshark
+Activation = EndFrame
+90078CEA 24030049
+
+[Select Crash Bash Arena Background\23. [Pogo Pandemonium] El Pogo Loco (Crystal)]
+Type = Gameshark
+Activation = EndFrame
+90078CEA 2403004D
+
+[Select Crash Bash Arena Background\24. [Pogo Pandemonium] Pogo Padlock]
+Type = Gameshark
+Activation = EndFrame
+90078CEA 2403004A
+
+[Select Crash Bash Arena Background\25. [Pogo Pandemonium] Pogo Padlock (Crystal)]
+Type = Gameshark
+Activation = EndFrame
+90078CEA 2403004E
+
+[Select Crash Bash Arena Background\26. [Ballistix] CrashBall]
+Type = Gameshark
+Activation = EndFrame
+90078CEA 2403006A
+
+[Select Crash Bash Arena Background\27. [Ballistix] CrashBall (Crystal)]
+Type = Gameshark
+Activation = EndFrame
+90078CEA 2403006B
+
+[Select Crash Bash Arena Background\28. [Ballistix] Beach Ball]
+Type = Gameshark
+Activation = EndFrame
+90078CEA 2403006C
+
+[Select Crash Bash Arena Background\29. [Ballistix] Beach Ball (Crystal)]
+Type = Gameshark
+Activation = EndFrame
+90078CEA 2403006D
+
+[Select Crash Bash Arena Background\30. [Ballistix] N. Ballism]
+Type = Gameshark
+Activation = EndFrame
+90078CEA 2403006E
+
+[Select Crash Bash Arena Background\31. [Ballistix] N. Ballism (Crystal)]
+Type = Gameshark
+Activation = EndFrame
+90078CEA 2403006F
+
+[Select Crash Bash Arena Background\32. [Ballistix] Sky Balls]
+Type = Gameshark
+Activation = EndFrame
+90078CEA 24030070
+
+[Select Crash Bash Arena Background\33. [Ballistix] Sky Balls (Crystal)]
+Type = Gameshark
+Activation = EndFrame
+90078CEA 24030071
+
+[Select Crash Bash Arena Background\34. [Desert Fox] Desert Fox]
+Type = Gameshark
+Activation = EndFrame
+90078CEA 2403002F
+
+[Select Crash Bash Arena Background\35. [Desert Fox] Desert Fox (Crystal)]
+Type = Gameshark
+Activation = EndFrame
+90078CEA 24030034
+
+[Select Crash Bash Arena Background\36. [Desert Fox] Metal Fox]
+Type = Gameshark
+Activation = EndFrame
+90078CEA 24030031
+
+[Select Crash Bash Arena Background\37. [Desert Fox] Metal Fox (Crystal)]
+Type = Gameshark
+Activation = EndFrame
+90078CEA 24030036
+
+[Select Crash Bash Arena Background\38. [Desert Fox] Jungle Fox]
+Type = Gameshark
+Activation = EndFrame
+90078CEA 24030030
+
+[Select Crash Bash Arena Background\39. [Desert Fox] Jungle Fox (Crystal)]
+Type = Gameshark
+Activation = EndFrame
+90078CEA 24030035
+
+[Select Crash Bash Arena Background\40. [Desert Fox] Swamp Fox]
+Type = Gameshark
+Activation = EndFrame
+90078CEA 2403002E
+
+[Select Crash Bash Arena Background\41. [Desert Fox] Swamp Fox (Crystal)]
+Type = Gameshark
+Activation = EndFrame
+90078CEA 24030033
+
+[Select Crash Bash Arena Background\42. [Crash Dash] Dot Dash]
+Type = Gameshark
+Activation = EndFrame
+90078CEA 240300A1
+
+[Select Crash Bash Arena Background\43. [Crash Dash] Dot Dash (Crystal)]
+Type = Gameshark
+Activation = EndFrame
+90078CEA 240300B8
+
+[Select Crash Bash Arena Background\44. [Crash Dash] Toxic Dash]
+Type = Gameshark
+Activation = EndFrame
+90078CEA 240300A7
+
+[Select Crash Bash Arena Background\45. [Crash Dash] Toxic Dash (Crystal)]
+Type = Gameshark
+Activation = EndFrame
+90078CEA 240300B6
+
+[Select Crash Bash Arena Background\46. [Crash Dash] Splash Dash]
+Type = Gameshark
+Activation = EndFrame
+90078CEA 240300A8
+
+[Select Crash Bash Arena Background\47. [Crash Dash] Splash Dash (Crystal)]
+Type = Gameshark
+Activation = EndFrame
+90078CEA 240300B9
+
+[Select Crash Bash Arena Background\48. [Crash Dash] Dante's Dash]
+Type = Gameshark
+Activation = EndFrame
+90078CEA 240300A9
+
+[Select Crash Bash Arena Background\49. [Crash Dash] Dante's Dash (Crystal)]
+Type = Gameshark
+Activation = EndFrame
+90078CEA 240300B7
+
+[Select Crash Bash Arena Background\50. [Medieval Mayhem]Ring Ding]
+Type = Gameshark
+Activation = EndFrame
+90078CEA 2403007D
+
+[Select Crash Bash Arena Background\51. [Medieval Mayhem]Ring Ding (Crystal)]
+Type = Gameshark
+Activation = EndFrame
+90078CEA 2403007E
+
+[Select Crash Bash Arena Background\52. [Medieval Mayhem]Dragon Drop]
+Type = Gameshark
+Activation = EndFrame
+90078CEA 240300C3
+
+[Select Crash Bash Arena Background\53. [Medieval Mayhem]Dragon Drop (Crystal)]
+Type = Gameshark
+Activation = EndFrame
+90078CEA 240300BA
+
+[Select Crash Bash Arena Background\54. [Medieval Mayhem]Mallet Mash]
+Type = Gameshark
+Activation = EndFrame
+90078CEA 24030051
+
+[Select Crash Bash Arena Background\55. [Medieval Mayhem]Mallet Mash (Crystal)]
+Type = Gameshark
+Activation = EndFrame
+90078CEA 24030052
+
+[Select Crash Bash Arena Background\56. [Medieval Mayhem]Keg Kaboom]
+Type = Gameshark
+Activation = EndFrame
+90078CEA 2403005F
+
+[Select Crash Bash Arena Background\57. [Medieval Mayhem]Keg Kaboom (Crystal)]
+Type = Gameshark
+Activation = EndFrame
+90078CEA 24030060
+
+[Select Crash Bash Arena Background\58. [Boss] Papu Pummel]
+Type = Gameshark
+Activation = EndFrame
+90078CEA 2403002B
+
+[Select Crash Bash Arena Background\59. [Boss] Bearminator (Glitchy)]
+Type = Gameshark
+Activation = EndFrame
+90078CEA 2403008D
+
+[Select Crash Bash Arena Background\60. [Boss] Big Bad Fox]
+Type = Gameshark
+Activation = EndFrame
+90078CEA 24030032
+
+[Select Crash Bash Arena Background\61. [Boss] Oxide Ride (Crash)]
+Type = Gameshark
+Activation = EndFrame
+90078CEA 2403005C
+
+[Select Crash Bash Arena Background\62. [Misc] Tournament Stand (Glitchy)]
+Type = Gameshark
+Activation = EndFrame
+90078CEA 240300CD
+
+[Select Crash Bash Arena Background\63. [Misc] Warp Room 1 (Glitchy)]
+Type = Gameshark
+Activation = EndFrame
+90078CEA 240300CE
+
+[Select Crash Bash Arena Background\64. [Misc] Warp Room 2 (Glitchy)]
+Type = Gameshark
+Activation = EndFrame
+90078CEA 240300CF
+
+[Select Crash Bash Arena Background\65. [Misc] Warp Room 3 (Crash)]
+Type = Gameshark
+Activation = EndFrame
+90078CEA 240300D0
+
+[Select Crash Bash Arena Background\66. [Misc] Warp Room 4 (Infinite Loading)]
+Type = Gameshark
+Activation = EndFrame
+90078CEA 240300D1
+
+[Select Crash Bash Arena Background\67. [Misc] Warp Room 5 (Crash)]
+Type = Gameshark
+Activation = EndFrame
+90078CEA 240300D2
+
+[Select Crash Bash Arena Background\68. [Misc] Demo Warp Room]
+Type = Gameshark
+Activation = EndFrame
+90078CEA 240300D3
+
+[Select Crash Bash Arena Background\69. [Misc] No Background]
+Type = Gameshark
+Activation = EndFrame
+90078CEA 240300C5
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+8001443C 0900
+8001443E 2402
+

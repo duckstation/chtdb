@@ -1,0 +1,7 @@
+; CHTDB: ; [ Chicken Run (Europe) {SLES-03188} ]
+
+[Widescreen]
+Type = Gameshark
+Activation = EndFrame
+800B316C 0C00
+

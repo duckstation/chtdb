@@ -1,0 +1,72 @@
+; CHTDB: ; [ Toaplan Shooting Battle 1 (Jpn) (1996) (Banpresto) {SLPS-00436} <toaplan1> ]
+
+[Tiger Heli\P1 Infinite Bombs]
+Type = Gameshark
+Activation = EndFrame
+8008CD70 02FF
+
+[Tiger Heli\P1 Infinite Helis]
+Type = Gameshark
+Activation = EndFrame
+8008CD7A 010F
+
+[Kyukyoku Tiger\P1 Maximum Shot]
+Type = Gameshark
+Activation = EndFrame
+800917A2 0028
+
+[Kyukyoku Tiger\P1 Infinite Bombs]
+Type = Gameshark
+Activation = EndFrame
+800917A4 0007
+
+[Kyukyoku Tiger\P1 Shotgun Only]
+Type = Gameshark
+Activation = EndFrame
+800917B2 0058
+
+[Kyukyoku Tiger\P1 Infinite Helis]
+Type = Gameshark
+Activation = EndFrame
+800D8D00 000A
+
+[Twin Cobra\P1 Maximum Shot]
+Type = Gameshark
+Activation = EndFrame
+80093A42 0028
+
+[Twin Cobra\P1 Infinite Bombs]
+Type = Gameshark
+Activation = EndFrame
+80093A44 0007
+
+[Twin Cobra\P1 Shotgun Only]
+Type = Gameshark
+Activation = EndFrame
+80093A52 0058
+
+[Twin Cobra\P1 Infinite Helis]
+Type = Gameshark
+Activation = EndFrame
+800DB448 000A
+
+[Twin Cobra\P2 Maximum Shot]
+Type = Gameshark
+Activation = EndFrame
+8009030A 0028
+
+[Twin Cobra\P2 Infinite Bombs]
+Type = Gameshark
+Activation = EndFrame
+8009030C 0007
+
+[Twin Cobra\P2 Shotgun Only]
+Type = Gameshark
+Activation = EndFrame
+8009031A 0058
+
+[Twin Cobra\P2 Infinite Helis]
+Type = Gameshark
+Activation = EndFrame
+80098F18 000A
+

@@ -1,0 +1,37 @@
+; CHTDB: ; [ Tyco R/C - Assault with a Battery (USA) (2000) (Mattel Interactive) {SLUS-01074} <tycorc> ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800DE67C 03FF
+
+[Start On Last Lap]
+Type = Gameshark
+Activation = EndFrame
+A60D5AEC 00000002
+
+[Unlock All Modes]
+Type = Gameshark
+Activation = EndFrame
+800E567C 00FF
+
+[Unlock Speed Wrench]
+Type = Gameshark
+Activation = EndFrame
+300E5668 0001
+
+[Unlock Tantrum]
+Type = Gameshark
+Activation = EndFrame
+300E5669 0001
+
+[Unlock Nitro Dozer]
+Type = Gameshark
+Activation = EndFrame
+300E566A 0001
+
+[Unlock Super Rebound]
+Type = Gameshark
+Activation = EndFrame
+300E566F 0001
+

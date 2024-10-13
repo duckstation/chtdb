@@ -1,0 +1,69 @@
+; CHTDB: ; [ Final Fantasy VII (France) {SCES-00868 | SCES-10868 | SCES-20868} ]
+
+[Clad Hp]
+Type = Gameshark
+Activation = EndFrame
+8009D970 03E7
+
+[Clad Hp Range Max]
+Type = Gameshark
+Activation = EndFrame
+8009D972 03E7
+
+[Clad Mp]
+Type = Gameshark
+Activation = EndFrame
+8009D974 03E7
+
+[Clad Mp Range Max]
+Type = Gameshark
+Activation = EndFrame
+8009D976 03E7
+
+[Barret Hp]
+Type = Gameshark
+Activation = EndFrame
+8009DDB0 03E7
+
+[Barret Hp Rang Max]
+Type = Gameshark
+Activation = EndFrame
+8009DDB2 03E7
+
+[Barret Mp]
+Type = Gameshark
+Activation = EndFrame
+8009DDB4 03E7
+
+[Barret Mp Range Max]
+Type = Gameshark
+Activation = EndFrame
+8009DDB6 03E7
+
+[Max Exp]
+Type = Gameshark
+Activation = EndFrame
+9009D8EC 000186A0
+
+[Max Ap]
+Type = Gameshark
+Activation = EndFrame
+9009D8F0 000186A0
+
+[Max Gold]
+Type = Gameshark
+Activation = EndFrame
+9009D8F4 000186A0
+
+[Infinite Items]
+Type = Gameshark
+Activation = EndFrame
+A60E146A FFFF0000
+
+[All Characters]
+Type = Gameshark
+Activation = EndFrame
+901D3424 03020100
+901D3428 07060504
+801D342C FF08
+

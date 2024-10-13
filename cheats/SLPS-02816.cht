@@ -1,0 +1,30 @@
+; CHTDB: ; [ Mushitarou (Japan) {SLPS-02816} ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+A6054624 FFFF0000
+
+[Hut fully open]
+Type = Gameshark
+Activation = EndFrame
+D00AA1C0 00A5
+800AC940 0064
+A705B136 8C62AC72
+A705B13E 18401400
+
+[Cleared by one animal]
+Type = Gameshark
+Activation = EndFrame
+A6057716 AC67AC60
+
+[Clear in one day]
+Type = Gameshark
+Activation = EndFrame
+A7057A8E 14621400
+
+[Expansion limit release]
+Type = Gameshark
+Activation = EndFrame
+A7056056 10401400
+

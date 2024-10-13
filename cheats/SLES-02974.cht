@@ -1,0 +1,98 @@
+; CHTDB: ; [ The Grinch (Europe) {SLES-02974} ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800E03FC 0078
+
+[Squashed all gifts]
+Type = Gameshark
+Activation = EndFrame
+8001005A 0BB8
+9001005C 02EE01F4
+90010060 03E802EE
+
+[Have all usefull items]
+Type = Gameshark
+Activation = EndFrame
+900101F8 FFFFFFFF
+
+[Infinite Rotten eggs]
+Type = Gameshark
+Activation = EndFrame
+30010058 00C8
+
+[Grinch always in disguise]
+Type = Gameshark
+Activation = EndFrame
+300100B4 0004
+
+[All Missions Completed]
+Type = Gameshark
+Activation = EndFrame
+800100BE FFFF
+300100C5 000A
+800100C6 0A0A
+900100C8 0A0A0A0A
+800100CC 0A0A
+300100E5 000A
+800100E6 050A
+300100EE 000A
+300100FE 000A
+
+[Unlock All Levels]
+Type = Gameshark
+Activation = EndFrame
+800100AA 00FF
+
+[Have All 3000 Presents]
+Type = Gameshark
+Activation = EndFrame
+8001005A 0BB8
+
+[Have All Blueprints]
+Type = Gameshark
+Activation = EndFrame
+900100F4 10090404
+900100F8 00100909
+
+[Stop Timer]
+Type = Gameshark
+Activation = EndFrame
+8008F6CA 002B
+
+[Cheat - Level Select (all regular levels open),200 Eggs & All Gadgets]
+Type = Gameshark
+Activation = EndFrame
+3001008C 0007
+
+[Have all gadgets]
+Type = Gameshark
+Activation = EndFrame
+3001008C 00DC
+
+[Invulnerable Grinch]
+Type = Gameshark
+Activation = EndFrame
+80015846 2400
+
+[Stop timer]
+Type = Gameshark
+Activation = EndFrame
+80061A6C 0000
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A7099A8C 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A7099A8C 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A7099A8C 10000400
+

@@ -1,0 +1,22 @@
+; CHTDB: ; [ Hi-Hou-Ou: Mou Omae to wa Kuchi Kikan!! (Japan) {SLPS-00821} ]
+
+[P1 has 999990000 money]
+Type = Gameshark
+Activation = EndFrame
+900AF0D0 05F5B9F0
+
+[P2 has 0 money]
+Type = Gameshark
+Activation = EndFrame
+800AF1AC 0000
+
+[P3 has 0 money]
+Type = Gameshark
+Activation = EndFrame
+800AF288 0000
+
+[P4 has 0 money]
+Type = Gameshark
+Activation = EndFrame
+800AF364 0000
+

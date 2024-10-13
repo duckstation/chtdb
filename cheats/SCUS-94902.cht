@@ -1,0 +1,72 @@
+; CHTDB: ; [ Steel Reign (USA) (1997) (Sony Computer Entertainment America) {SCUS-94902} <steelrgn> ]
+
+[Infinite Shield]
+Type = Gameshark
+Activation = EndFrame
+801F8554 0001
+
+[Always have Infinite All Tanks Unlocked]
+Type = Gameshark
+Activation = EndFrame
+801F8550 0001
+
+[Enable Auto Lock On]
+Type = Gameshark
+Activation = EndFrame
+8010A4EC 0000
+
+[Select Arena\Hidden Desert Base]
+Type = Gameshark
+Activation = EndFrame
+901FFD18 00000001
+
+[Select Arena\Occupied City]
+Type = Gameshark
+Activation = EndFrame
+901FFD18 00000002
+
+[Select Arena\Enemy Air Base]
+Type = Gameshark
+Activation = EndFrame
+901FFD18 00000003
+
+[Select Arena\Canyon Run]
+Type = Gameshark
+Activation = EndFrame
+901FFD18 00000004
+
+[Select Arena\Wastelands]
+Type = Gameshark
+Activation = EndFrame
+901FFD18 00000005
+
+[Select Arena\Fortified City]
+Type = Gameshark
+Activation = EndFrame
+901FFD18 00000006
+
+[Select Arena\Forest War]
+Type = Gameshark
+Activation = EndFrame
+901FFD18 00000007
+
+[Select Arena\Mountain Run]
+Type = Gameshark
+Activation = EndFrame
+901FFD18 00000008
+
+[Select Arena\Citadel]
+Type = Gameshark
+Activation = EndFrame
+901FFD18 00000009
+
+[Select Arena\Underground Stronghold]
+Type = Gameshark
+Activation = EndFrame
+901FFD18 0000000A
+
+[Select Arena\Martian Surface]
+Type = Gameshark
+Activation = EndFrame
+901FFD18 0000000B
+

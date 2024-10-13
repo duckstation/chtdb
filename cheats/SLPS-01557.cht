@@ -1,0 +1,71 @@
+; CHTDB: ; [ Duke Nukem: Total Meltdown (Japan) {SLPS-01557} ]
+
+[Have All Keys]
+Type = Gameshark
+Activation = EndFrame
+800EBCBC 000F
+
+[Have All Weapons]
+Type = Gameshark
+Activation = EndFrame
+50000701 0000
+300EBD5A 0001
+300EBD62 0001
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+50000902 0000
+800EBC7C 00C8
+
+[Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+800EBD12 00C8
+
+[Infinite Boots Power]
+Type = Gameshark
+Activation = EndFrame
+800EBD22 00C8
+
+[Infinite Boots PowerAlt]
+Type = Gameshark
+Activation = EndFrame
+800EBCDA 04B0
+
+[Infinite Holo-Duke]
+Type = Gameshark
+Activation = EndFrame
+800EBCA2 0960
+
+[Infinite Jet-Pack Fuel]
+Type = Gameshark
+Activation = EndFrame
+800EBD0E 0640
+
+[Infinite Medi-Kits]
+Type = Gameshark
+Activation = EndFrame
+800EBCC0 0064
+
+[Infinite Scuba Power]
+Type = Gameshark
+Activation = EndFrame
+800EBD0C FF50
+
+[Infinite Steroids]
+Type = Gameshark
+Activation = EndFrame
+800EBD10 0640
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800B47A4 00FF
+
+[Press L1+L2 to Skip Level]
+Type = Gameshark
+Activation = EndFrame
+E00B4723 00FA
+800EBCCE 0001
+

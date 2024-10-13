@@ -1,0 +1,82 @@
+; CHTDB: ; [ Alien Trilogy (Germany) {SLES-00246} ]
+
+[Unendlich Energie]
+Type = Gameshark
+Activation = EndFrame
+8009A854 03E7
+
+[Unendlich Ladungen]
+Type = Gameshark
+Activation = EndFrame
+8009A86C 03E7
+
+[Unendlich Munition FüR 9mm Pistole]
+Type = Gameshark
+Activation = EndFrame
+8009A85A 03E7
+
+[Unendlich Munition FüR Gewehr]
+Type = Gameshark
+Activation = EndFrame
+8009A85E 03E7
+
+[Unendlich Munition FüR Flammenwerfer]
+Type = Gameshark
+Activation = EndFrame
+8009A866 03E7
+
+[Unendlich Munition FüR Impulsgewehr]
+Type = Gameshark
+Activation = EndFrame
+8009A860 03E7
+
+[Unendlich Munition FüR Smart Gun]
+Type = Gameshark
+Activation = EndFrame
+8009A868 03E7
+
+[Unendlich Batterien]
+Type = Gameshark
+Activation = EndFrame
+8009A86E 03E7
+
+[Unendlich Stiefel]
+Type = Gameshark
+Activation = EndFrame
+8009A858 7FFE
+
+[Unendlich Panzerung]
+Type = Gameshark
+Activation = EndFrame
+8009A856 03E7
+
+[Automap]
+Type = Gameshark
+Activation = EndFrame
+8009A850 00FF
+
+[Schneller Feuern]
+Type = Gameshark
+Activation = EndFrame
+8009A838 0001
+
+[Gewehr VerfüGbar]
+Type = Gameshark
+Activation = EndFrame
+8008FB52 0029
+
+[Flammenwerfer VerfüGbar]
+Type = Gameshark
+Activation = EndFrame
+8008FB5E 0029
+
+[Impulsgewehr VerfüGbar]
+Type = Gameshark
+Activation = EndFrame
+8008FB56 0029
+
+[Smart Gun VerfüGbar]
+Type = Gameshark
+Activation = EndFrame
+8008FB5A 0029
+

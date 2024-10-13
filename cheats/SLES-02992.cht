@@ -1,0 +1,18 @@
+; CHTDB: ; [ Silent Bomber (Spain) {SLES-02992} ]
+
+[Infinita Vitalidad]
+Type = Gameshark
+Activation = EndFrame
+800DA815 0640
+800DA865 0640
+
+[Infinite Bombs]
+Type = Gameshark
+Activation = EndFrame
+800DB284 000A
+
+[Infinite E-Chips]
+Type = Gameshark
+Activation = EndFrame
+801AC570 0063
+

@@ -1,0 +1,13 @@
+; CHTDB: ; [ Firestorm: Thunderhawk 2 (Germany) (Platinum, Eidos Ricochet) {SLES-00144} ]
+
+[Unendlich Waffen]
+Type = Gameshark
+Activation = EndFrame
+8007344E 0063
+90073450 00630063
+
+[Unendlich Energie]
+Type = Gameshark
+Activation = EndFrame
+800732DC 00DF
+

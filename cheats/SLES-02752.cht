@@ -1,0 +1,143 @@
+; CHTDB: ; [ Test Drive 6 (Euro) (2000) (Cryo Interactive Entertainment) {SLES-02752} <td6e> ]
+
+[Infinite Money & All Cars And Stages Unlocked]
+Type = Gameshark
+Activation = EndFrame
+D009EFF8 9C40
+8009EFFA 0DC8
+A609EFF8 9C4021B8
+
+[Infinite Checkpoint Time]
+Type = Gameshark
+Activation = EndFrame
+800471F4 0000
+
+[Total Time 00.00.00/Always 1st]
+Type = Gameshark
+Activation = EndFrame
+90046FFC 00000000
+
+[Always First (Display)]
+Type = Gameshark
+Activation = EndFrame
+30018982 0020
+
+[Enable Pitbull Cup]
+Type = Gameshark
+Activation = EndFrame
+300A6A70 0001
+
+[Enable Masters Cup]
+Type = Gameshark
+Activation = EndFrame
+300A6A71 0001
+
+[Enable Ultimate Cup]
+Type = Gameshark
+Activation = EndFrame
+30096A72 0001
+
+[Enable Cop Chase Mode]
+Type = Gameshark
+Activation = EndFrame
+300A6A73 0001
+
+[Enable Challenge Cup]
+Type = Gameshark
+Activation = EndFrame
+800A6A6E 0100
+
+[Global Car Reflection Intensity]
+Type = Gameshark
+Activation = EndFrame
+80039FB8 ????
+80039FBA 3406
+
+[Red Reflection Intensity]
+Type = Gameshark
+Activation = EndFrame
+8003A0B0 ????
+8003A0B2 3402
+
+[Green Reflection Intensity]
+Type = Gameshark
+Activation = EndFrame
+8003A0DC ????
+8003A0DE 3402
+
+[Blue Reflection Intensity]
+Type = Gameshark
+Activation = EndFrame
+8003A100 ????
+8003A102 3402
+
+[Bomb Detonation Time Modifier]
+Type = Gameshark
+Activation = EndFrame
+8002313C ????
+
+[Remote Detonate Bombs (Press L3)]
+Type = Gameshark
+Activation = EndFrame
+80022EC8 0000
+E1098080 0002
+80022ECA 2400
+E0098080 0002
+80022ECA 3402
+
+[Controllable AI Bomber Cars]
+Description = Auto Bombs Above 40kmph
+Type = Gameshark
+Activation = EndFrame
+8009AA14 00000006
+D3098729 00000102
+1000C000 00000001
+D3098729 00000102
+E000C000 00000020
+80030D5E 00001400
+D3098729 00000102
+E000C000 00000021
+80030D5E 00001462
+E300C000 00000022
+3000C000 00000000
+D2098729 00000102
+3000C000 00000000
+
+[Become Invisible]
+Type = Gameshark
+Activation = EndFrame
+A7038A2A 14401000
+
+[Going above 40kmph gives controller vibration]
+Type = Gameshark
+Activation = EndFrame
+D3098729 0102
+3009840D 0002
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A709806C 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A709806C 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A709806C 10000400
+
+[Wide screen part 1 (Stretch)]
+Type = Gameshark
+Activation = EndFrame
+A706E298 28420000
+A706E29A 00050000
+
+[Widescreen part 2 (Camera distance)]
+Type = Gameshark
+Activation = EndFrame
+A706E29C 30820000
+A706E29E 00060000
+

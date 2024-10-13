@@ -1,0 +1,237 @@
+; CHTDB: ; [ TOCA Touring Car Championship (Europe) {SLES-00376} ]
+
+[Actual lap 3]
+Type = Gameshark
+Activation = EndFrame
+300A7294 0003
+
+[All tracks unlocked]
+Type = Gameshark
+Activation = EndFrame
+300100B0 0009
+
+[Cadillac Car]
+Type = Gameshark
+Activation = EndFrame
+300100AE 0001
+
+[View = Overhead Enabled]
+Type = Gameshark
+Activation = EndFrame
+300100B4 0001
+
+[View = Go Kart Enabled]
+Type = Gameshark
+Activation = EndFrame
+300100B5 0001
+
+[Starry Sky]
+Type = Gameshark
+Activation = EndFrame
+300100B6 0001
+
+[Cartoon Scenery]
+Type = Gameshark
+Activation = EndFrame
+300100B7 0001
+
+[Aggressive Opponents]
+Type = Gameshark
+Activation = EndFrame
+300100B8 0001
+
+[Low Gravity]
+Type = Gameshark
+Activation = EndFrame
+300100B9 0001
+
+[Rain Falls Upward]
+Type = Gameshark
+Activation = EndFrame
+300100BA 0001
+
+[No Collision Detect For Cars]
+Type = Gameshark
+Activation = EndFrame
+300100BC 0001
+
+[Big Hands]
+Type = Gameshark
+Activation = EndFrame
+300100BE 0001
+
+[Disco Fog]
+Type = Gameshark
+Activation = EndFrame
+300100C0 0001
+
+[View = Trackside Camera Enabled]
+Type = Gameshark
+Activation = EndFrame
+300100C1 0001
+
+[View = Helicopter Enabled]
+Type = Gameshark
+Activation = EndFrame
+300100C4 0001
+
+[All Cars Drives A Lot Faster]
+Type = Gameshark
+Activation = EndFrame
+300100C5 0001
+
+[Honda Accord Start with 500 points]
+Type = Gameshark
+Activation = EndFrame
+D0010488 0000
+80010474 01F4
+
+[Honda Accord Start at last lap / always first for 3-lap-race]
+Type = Gameshark
+Activation = EndFrame
+D00A1A54 0003
+300B0A10 0003
+
+[Honda Accord Start at last lap / always first for20-lap-race]
+Type = Gameshark
+Activation = EndFrame
+D00A1A54 0014
+300B0A10 0014
+
+[Audi A4 Start with 500 points]
+Type = Gameshark
+Activation = EndFrame
+A6010478 000001F4
+
+[Audi A4 Start at last lap / always first for 3-lap-race]
+Type = Gameshark
+Activation = EndFrame
+D00A1A54 0002
+300B0B98 0003
+
+[Audi A4 Start at last lap / always first for 20-lap-race]
+Type = Gameshark
+Activation = EndFrame
+D00A1A54 0002
+300B0B98 0014
+
+[Vauxhall Vectra Start with 500 points]
+Type = Gameshark
+Activation = EndFrame
+A601047C 000001F4
+
+[Vauxhall Vectra Start at last lap / always first for 3-lap-race]
+Type = Gameshark
+Activation = EndFrame
+D00A1A54 0002
+300B0D20 0003
+
+[Vauxhall Vectra Start at last lap / always first for 20-lap-race]
+Type = Gameshark
+Activation = EndFrame
+D00A1A54 0002
+300B0D20 0014
+
+[Volvo S40 Start with 500 points]
+Type = Gameshark
+Activation = EndFrame
+A6010480 000001F4
+
+[Volvo S40 Start at last lap / always first for 3-lap-race]
+Type = Gameshark
+Activation = EndFrame
+D00A1A54 0002
+300B0EA8 0003
+
+[Volvo S40 Start at last lap / always first for 20-lap-race]
+Type = Gameshark
+Activation = EndFrame
+D00A1A54 0002
+300B0EA8 0014
+
+[Ford Mondeo / Cadillac Start with 500 points]
+Type = Gameshark
+Activation = EndFrame
+A6010484 000001F4
+
+[Ford Mondeo / Cadillac Start at last lap / always first for 3-lap-race]
+Type = Gameshark
+Activation = EndFrame
+D00A1A54 0002
+300B1030 0003
+
+[Ford Mondeo / Cadillac Start at last lap / always first for 20-lap-race]
+Type = Gameshark
+Activation = EndFrame
+D00A1A54 0002
+300B1030 0014
+
+[Nissan Primera Start with 500 points]
+Type = Gameshark
+Activation = EndFrame
+A6010488 000001F4
+
+[Nissan Primera Start at last lap / always first for 3-lap-race]
+Type = Gameshark
+Activation = EndFrame
+D00A1A54 0002
+300B11B8 0003
+
+[Nissan Primera Start at last lap / always first for 20-lap-race]
+Type = Gameshark
+Activation = EndFrame
+D00A1A54 0002
+300B11B8 0014
+
+[Peugeot 405 / Tank Start with 500 points]
+Type = Gameshark
+Activation = EndFrame
+A601048C 000001F4
+
+[Peugeot 405 / Tank Start at last lap / always first for 3-lap-race]
+Type = Gameshark
+Activation = EndFrame
+D00A1A54 0002
+300B1340 0003
+
+[Peugeot 405 / Tank Start at last lap / always first for 20-lap-race]
+Type = Gameshark
+Activation = EndFrame
+D00A1A54 0002
+300B1340 0014
+
+[Renault Laguna	Start with 500 points]
+Type = Gameshark
+Activation = EndFrame
+A6010490 000001F4
+
+[Renault Laguna Start at last lap / always first for 3-lap-race]
+Type = Gameshark
+Activation = EndFrame
+D00A1A54 0002
+300B14C8 0002
+
+[Unlocked Tank]
+Type = Gameshark
+Activation = EndFrame
+300100AD 0001
+
+[Unlocked Micromachines-Mode]
+Type = Gameshark
+Activation = EndFrame
+300100B4 0001
+
+[Unlocked Go-Kart-Mode]
+Type = Gameshark
+Activation = EndFrame
+300100B5 0001
+;Drive Anywhere for both revisions
+
+[Drive Anywhere]
+Type = Gameshark
+Activation = EndFrame
+A702D072 10801000
+A702CFA6 04401400
+A7021BC6 10801000
+A7021AFA 04401400
+

@@ -1,0 +1,27 @@
+; CHTDB: ; [ Mini-Yonku Bakusou Kyoudai Let's & Go!! - WGP Hyper Heat (Jpn) (1997) (Jaleco) {SLPS-01078} <miniyonk> ]
+
+[Max Speed]
+Type = Gameshark
+Activation = EndFrame
+800E85F0 0050
+800E8610 0050
+800E8630 0050
+800E8650 0050
+80101868 0050
+80101888 0050
+801018A8 0050
+801018C8 0050
+901184A8 50005000
+901184AC 50005000
+
+[Infinite Power]
+Type = Gameshark
+Activation = EndFrame
+80178620 0065
+
+[Special Move power gauge MAX press L2 button]
+Type = Gameshark
+Activation = EndFrame
+D004DBBC 0001
+80178620 0064
+

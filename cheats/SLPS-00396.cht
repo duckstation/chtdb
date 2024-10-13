@@ -1,0 +1,17 @@
+; CHTDB: ; [ CyberSpeed (Japan) {SLPS-00396} ]
+
+[Infinite Homing Missiles]
+Type = Gameshark
+Activation = EndFrame
+8009884C 0004
+
+[Infinite Mines]
+Type = Gameshark
+Activation = EndFrame
+80098850 0008
+
+[Infinite Turbos]
+Type = Gameshark
+Activation = EndFrame
+80098844 0004
+

@@ -1,0 +1,144 @@
+; CHTDB: ; [ R-Type Delta (USA) (1999) (Agetec) {SLUS-00877} <rtyped> ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8001014E 0003
+
+[Infinite Continues]
+Type = Gameshark
+Activation = EndFrame
+80065C12 2400
+
+[Enable Ships + Level Select]
+Type = Gameshark
+Activation = EndFrame
+90013A4C 00FFFFFF
+
+[Enable All Gallery With these, you must register a pilot first for them to work.]
+Type = Gameshark
+Activation = EndFrame
+80013A44 FFFF
+
+[Select Level\Lethal Weapon]
+Type = Gameshark
+Activation = EndFrame
+80010142 0001
+
+[Select Level\Deformation]
+Type = Gameshark
+Activation = EndFrame
+80010142 0002
+
+[Select Level\Gigantic Attack]
+Type = Gameshark
+Activation = EndFrame
+80010142 0003
+
+[Select Level\Invasion]
+Type = Gameshark
+Activation = EndFrame
+80010142 0004
+
+[Select Level\Evil]
+Type = Gameshark
+Activation = EndFrame
+80010142 0005
+
+[Select Level\Awakening]
+Type = Gameshark
+Activation = EndFrame
+80010142 0006
+
+[Select Level\Life]
+Type = Gameshark
+Activation = EndFrame
+80010142 0007
+
+[R9 - Never Blow Up]
+Type = Gameshark
+Activation = EndFrame
+D0010142 0001
+800D145A 2400
+D0010142 0002
+800B8C4E 2400
+D0010142 0003
+80090D42 2400
+D0010142 0004
+800BC58E 2400
+D0010142 0005
+800A6236 2400
+D0010142 0006
+800A2642 2400
+D0010142 0007
+800B7B16 2400
+
+[RX - Never Blow Up]
+Type = Gameshark
+Activation = EndFrame
+D0010142 0001
+800D5C22 2400
+D0010142 0002
+800BD8C2 2400
+D0010142 0003
+8009550A 2400
+D0010142 0004
+800C0D56 2400
+D0010142 0005
+800AAACA 2400
+D0010142 0006
+800A6E0A 2400
+D0010142 0007
+800BC74A 2400
+
+[R13 - Never Blow Up]
+Type = Gameshark
+Activation = EndFrame
+D0010142 0001
+800D5C52 2400
+D0010142 0002
+800BF422 2400
+D0010142 0003
+80096CB2 2400
+D0010142 0004
+800C0D86 2400
+D0010142 0005
+800AC272 2400
+D0010142 0006
+800A85B2 2400
+D0010142 0007
+800BE01A 2400
+
+[POW Armor - Never Blow Up]
+Type = Gameshark
+Activation = EndFrame
+D0010142 0001
+800D5C92 2400
+D0010142 0002
+800C10BE 2400
+D0010142 0003
+80098496 2400
+D0010142 0004
+800C0DC6 2400
+D0010142 0005
+800ADA56 2400
+D0010142 0006
+800A9D96 2400
+D0010142 0007
+800BF926 2400
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A7193DE0 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A7193DE0 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A7193DE0 10000400
+

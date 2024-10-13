@@ -1,0 +1,28 @@
+; CHTDB: ; [ NanoTek Warrior (Japan) {SLPS-00835} ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800CACD4 0003
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800CACD8 1000
+
+[Score 9999999]
+Type = Gameshark
+Activation = EndFrame
+A60CACE8 0000E0FF
+A60CACEA 000005F5
+
+[Bonus levels COLLECTED 999]
+Type = Gameshark
+Activation = EndFrame
+8009AC58 03E7
+
+[SHIELD bonus 65535]
+Type = Gameshark
+Activation = EndFrame
+8009AC60 FFFF
+

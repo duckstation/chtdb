@@ -1,0 +1,61 @@
+; CHTDB: ; [ Pocke-Kano: Aida Yumi (Japan) {SLPS-02497} ]
+
+[Max Possession of gold]
+Type = Gameshark
+Activation = EndFrame
+90010100 0001869F
+
+[Max Homely]
+Type = Gameshark
+Activation = EndFrame
+80010104 0064
+
+[Max Physical fitness]
+Type = Gameshark
+Activation = EndFrame
+80010108 0064
+
+[Max Knowledge]
+Type = Gameshark
+Activation = EndFrame
+8001010C 0064
+
+[Max Entertainment]
+Type = Gameshark
+Activation = EndFrame
+80010110 0064
+
+[Stress 0#]
+Type = Gameshark
+Activation = EndFrame
+80010114 0000
+
+[Max Favorability rating]
+Type = Gameshark
+Activation = EndFrame
+80010118 FFFF
+
+[Bonus appearance]
+Type = Gameshark
+Activation = EndFrame
+80010384 0001
+
+[CG fully open]
+Type = Gameshark
+Activation = EndFrame
+90010284 FFFFFFFF
+30010288 00FF
+
+[Event achievement rate all 100%]
+Type = Gameshark
+Activation = EndFrame
+9001028C FFFFFFFF
+90010294 FFFFFFFF
+9001029C FFFFFFFF
+900102A4 FFFFFFFF
+900102AC FFFFFFFF
+900102B4 FFFFFFFF
+800102BE FFFF
+300102C4 00FF
+300102C6 00FF
+

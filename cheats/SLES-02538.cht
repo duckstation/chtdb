@@ -1,0 +1,311 @@
+; CHTDB: ; [ EA Sports Superbike 2000 aka Superbike 2000 (Europe) {SLES-02538} ]
+
+[Start in round 3]
+Type = Gameshark
+Activation = EndFrame
+E004ECEC 0001
+3004ECEC 0003
+
+[Liliput-racers]
+Type = Gameshark
+Activation = EndFrame
+D0048D48 0001
+80016C1C 0005
+D0048D48 0001
+80016C1E 2411
+
+[Disables all other riders]
+Type = Gameshark
+Activation = EndFrame
+80055138 ED50
+
+[Time frozen/always pole Before crossing the line press L1 & R1; timer will freeze. Press L2 & R2 at next menu-screen to have race started.]
+Type = Gameshark
+Activation = EndFrame
+D00AD9A6 F3FF
+900772B0 00000000
+D00AD9A6 FCFF
+800772B0 0001
+D00AD9A6 FCFF
+800772B2 2442
+
+[Quick win Starting from pole you will end first after crossing the line.]
+Type = Gameshark
+Activation = EndFrame
+300AD6CA 0005
+
+[Akira Yanawaga	Start with 200 points (Championship)]
+Type = Gameshark
+Activation = EndFrame
+D00AD816 0000
+300AD816 00C8
+
+[Akira Yanawaga No points]
+Type = Gameshark
+Activation = EndFrame
+300AD816 0000
+
+[Carl Fogarty Start with 200 points (Championship)]
+Type = Gameshark
+Activation = EndFrame
+D00AD80A 0000
+300AD80A 00C8
+
+[Carl Fogarty No points]
+Type = Gameshark
+Activation = EndFrame
+300AD80A 0000
+
+[Troy Corser Start with 200 points (Championship)]
+Type = Gameshark
+Activation = EndFrame
+D00AD810 0000
+300AD810 00C8
+
+[Troy Corser No points]
+Type = Gameshark
+Activation = EndFrame
+300AD810 0000
+
+[Frederic Protat Start with 200 points (Championship)]
+Type = Gameshark
+Activation = EndFrame
+D00AD882 0000
+300AD882 00C8
+
+[Frederic Protat No points]
+Type = Gameshark
+Activation = EndFrame
+300AD882 0000
+
+[Noriyuki Haga Start with 200 points (Championship)]
+Type = Gameshark
+Activation = EndFrame
+D00AD82E 0000
+300AD82E 00C8
+
+[Noriyuki Haga No points]
+Type = Gameshark
+Activation = EndFrame
+300AD82E 0000
+
+[Katsuaki Fujiwara Start with 200 points (Championship)]
+Type = Gameshark
+Activation = EndFrame
+D00AD840 0000
+300AD840 00C8
+
+[Katsuaki Fujiwara No points]
+Type = Gameshark
+Activation = EndFrame
+300AD840 0000
+
+[Peter Goddard Start with 200 points (Championship)]
+Type = Gameshark
+Activation = EndFrame
+D00AD846 0000
+300AD846 00C8
+
+[Peter Goddard No points]
+Type = Gameshark
+Activation = EndFrame
+300AD846 0000
+
+[Akira Yaganawa Start with 200 points (Championship)]
+Type = Gameshark
+Activation = EndFrame
+D00AD824 0000
+300AD824 00C8
+
+[Akira Yaganawa No points]
+Type = Gameshark
+Activation = EndFrame
+300AD824 0000
+
+[Aaron Slight Start with 200 points (Championship)]
+Type = Gameshark
+Activation = EndFrame
+D00AD81C 0000
+300AD81C 00C8
+
+[Aaron Slight No points]
+Type = Gameshark
+Activation = EndFrame
+300AD81C 0000
+
+[Gregorio Lavilla Start with 200 points (Championship)]
+Type = Gameshark
+Activation = EndFrame
+D00AD828 0000
+300AD828 00C8
+
+[Gregorio Lavilla No points]
+Type = Gameshark
+Activation = EndFrame
+300AD80A 0000
+
+[Vittoriano Guareschi Start with 200 points (Championship)]
+Type = Gameshark
+Activation = EndFrame
+D00AD834 0000
+300AD834 00C8
+
+[Vittoriano Guareschi No points]
+Type = Gameshark
+Activation = EndFrame
+300AD834 0000
+
+[Pierfrancesco Chili Start with 200 points (Championship)]
+Type = Gameshark
+Activation = EndFrame
+D00AD83A 0000
+300AD83A 00C8
+
+[Pierfrancesco Chili No points]
+Type = Gameshark
+Activation = EndFrame
+300AD83A 0000
+
+[Igor Jerman Start with 200 points (Championship)]
+Type = Gameshark
+Activation = EndFrame
+D00AD84C 0000
+300AD84C 00C8
+
+[Igor Jerman No points]
+Type = Gameshark
+Activation = EndFrame
+300AD84C 0000
+
+[Robert Ulm Start with 200 points (Championship)]
+Type = Gameshark
+Activation = EndFrame
+D00AD852 0000
+300AD852 00C8
+
+[Robert Ulm No points]
+Type = Gameshark
+Activation = EndFrame
+300AD852 0000
+
+[Carlos Macias Start with 200 points (Championship)]
+Type = Gameshark
+Activation = EndFrame
+D00AD858 0000
+300AD858 00C8
+
+[Carlos Macias No points]
+Type = Gameshark
+Activation = EndFrame
+300AD858 0000
+
+[Andreas Meklau Start with 200 points (Championship)]
+Type = Gameshark
+Activation = EndFrame
+D00AD85E 0000
+300AD85E 00C8
+
+[Andreas Meklau	No points]
+Type = Gameshark
+Activation = EndFrame
+300AD85E 0000
+
+[Lucio Pedercini Start with 200 points (Championship)]
+Type = Gameshark
+Activation = EndFrame
+D00AD864 0000
+300AD864 00C8
+
+[Lucio Pedercini No points]
+Type = Gameshark
+Activation = EndFrame
+300AD864 0000
+
+[Doriano Romboni Start with 200 points (Championship)]
+Type = Gameshark
+Activation = EndFrame
+D00AD86A 0000
+300AD86A 00C8
+
+[Doriano Romboni No points]
+Type = Gameshark
+Activation = EndFrame
+300AD86A 0000
+
+[Jiri Mrkyvka Start with 200 points (Championship)]
+Type = Gameshark
+Activation = EndFrame
+D00AD870 0000
+300AD870 00C8
+
+[Jiri Mrkyvka No points]
+Type = Gameshark
+Activation = EndFrame
+300AD870 0000
+
+[Vladimir Karban Start with 200 points (Championship)]
+Type = Gameshark
+Activation = EndFrame
+D00AD876 0000
+300AD876 00C8
+
+[Vladimir Karban No points]
+Type = Gameshark
+Activation = EndFrame
+300AD876 0000
+
+[Jean-Pierre Jeandat Start with 200 points (Championship)]
+Type = Gameshark
+Activation = EndFrame
+D00AD87C 0000
+300AD87C 00C8
+
+[Jean-Pierre Jeandat No points]
+Type = Gameshark
+Activation = EndFrame
+300AD87C 0000
+
+[Lance Isaacs Start with 200 points (Championship)]
+Type = Gameshark
+Activation = EndFrame
+D00AD888 0000
+300AD888 00C8
+
+[Lance Isaacs No points]
+Type = Gameshark
+Activation = EndFrame
+300AD888 0000
+
+[Guiliano Sartoni Start with 200 points (Championship)]
+Type = Gameshark
+Activation = EndFrame
+D00AD88E 0000
+300AD88E 00C8
+
+[Guiliano Sartoni No points]
+Type = Gameshark
+Activation = EndFrame
+300AD88E 0000
+
+[Alessandro Gramigini Start with 200 points (Championship)]
+Type = Gameshark
+Activation = EndFrame
+D00AD894 0000
+300AD894 00C8
+
+[Alessandro Gramigini No points]
+Type = Gameshark
+Activation = EndFrame
+300AD894 0000
+
+[Mauro Lucchiari Start with 200 points (Championship)]
+Type = Gameshark
+Activation = EndFrame
+D00AD89A 0000
+300AD89A 00C8
+
+[Mauro Lucchiari No points]
+Type = Gameshark
+Activation = EndFrame
+300AD89A 0000
+

@@ -1,0 +1,43 @@
+; CHTDB: ; [ Ridegear Guybrave (Japan) {SLPS-00905} ]
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80102CD4 03E7
+
+[P2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801027A8 03E7
+
+[P1 Infinite Bombs]
+Type = Gameshark
+Activation = EndFrame
+800D406C 0009
+
+[P2 Infinite Bombs]
+Type = Gameshark
+Activation = EndFrame
+800D40A0 0009
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+800D3F50 FFFF
+
+[Maximum Experience]
+Type = Gameshark
+Activation = EndFrame
+800D400C FFFF
+800D4044 FFFF
+
+[P1 MEC 99999]
+Type = Gameshark
+Activation = EndFrame
+900D3F50 0001869F
+
+[P2 MEC 99999]
+Type = Gameshark
+Activation = EndFrame
+900D4000 0001869F
+

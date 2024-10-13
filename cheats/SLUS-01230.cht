@@ -1,0 +1,27 @@
+; CHTDB: ; [ Championship Motocross 2001 featuring Ricky Carmichael (USA) (2001) (THQ) {SLUS-01230} <motox2k1> ]
+
+[Unlock All Classses]
+Type = Gameshark
+Activation = EndFrame
+80086E68 000F
+
+[Unlock All Tracks]
+Type = Gameshark
+Activation = EndFrame
+80086E6C 0FFF
+
+[Max Money]
+Type = Gameshark
+Activation = EndFrame
+800DCF84 03E8
+
+[Lap Timer Always 00.00.00]
+Type = Gameshark
+Activation = EndFrame
+8006F22C 0041
+
+[Freeze Cpu]
+Type = Gameshark
+Activation = EndFrame
+8004D27E 2400
+

@@ -1,0 +1,12 @@
+; CHTDB: ; [ Mach GoGoGo (Japan) {SLPS-00295} ]
+
+[Always Place First]
+Type = Gameshark
+Activation = EndFrame
+801049EC 0001
+
+[Unlock All Cars]
+Type = Gameshark
+Activation = EndFrame
+800A338C 000C
+

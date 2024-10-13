@@ -1,0 +1,26 @@
+; CHTDB: ; [ Blood Lines (Europe) {SCES-01443} ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800EA90C 0000
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80139126 00C8
+
+[All Extras]
+Type = Gameshark
+Activation = EndFrame
+50001202 0000
+800DEE90 0000
+
+[P1 has always control]
+Type = Gameshark
+Activation = EndFrame
+80138E28 0001
+801392E4 0001
+8013958C 0000
+80139A48 0000
+

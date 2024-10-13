@@ -1,0 +1,46 @@
+; CHTDB: ; [ GunBullet (Japan) (GunBullet + GunCon) {SLPS-00929} ]
+
+[Arcade Mode P1 Infinite Bullets]
+Type = Gameshark
+Activation = EndFrame
+800AC9C8 0063
+
+[Arcade Mode P2 Infinite Bullets]
+Type = Gameshark
+Activation = EndFrame
+800AC9CA 0063
+
+[Arcade Mode P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800B6B4C 0008
+
+[Arcade Mode P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800B6B4E 0008
+
+[Arcade Mode Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800AC9E4 0016
+800A2E06 FFFF
+
+[RPG Mode All Status Are Available]
+Type = Gameshark
+Activation = EndFrame
+800AC9EC 03E7
+800A2DF8 03E7
+800A2E00 03E7
+800C1E2C 03E7
+
+[RPG Mode Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+900A3684 000F423F
+
+[RPG Mode Max EXP]
+Type = Gameshark
+Activation = EndFrame
+900B6ED0 0009FFF6
+

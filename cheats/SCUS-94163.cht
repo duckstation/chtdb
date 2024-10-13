@@ -1,0 +1,274 @@
+; CHTDB: ; [ Final Fantasy VII (USA) (1997) (Sony Computer Entertainment America) {SCUS-94163 / SCUS-94163 / SCUS-94163} <ffant7> ]
+
+[In Battle Only\Infinite HP Slot 1]
+Description = Turn Off When Out of Battle
+Type = Gameshark
+Activation = EndFrame
+800F840C FFFF
+
+[In Battle Only\Infinite HP Slot 2]
+Description = Turn Off When Out of Battle
+Type = Gameshark
+Activation = EndFrame
+800F8474 FFFF
+
+[In Battle Only\Infinite HP Slot 3]
+Description = Turn Off When Out of Battle
+Type = Gameshark
+Activation = EndFrame
+800F84DC FFFF
+
+[In Battle Only\Infinite MP Slot 1]
+Description = Turn Off When Out of Battle
+Type = Gameshark
+Activation = EndFrame
+800F8408 03E7
+
+[In Battle Only\Infinite MP Slot 2]
+Description = Turn Off When Out of Battle
+Type = Gameshark
+Activation = EndFrame
+800F8470 03E7
+
+[In Battle Only\Infinite MP Slot 3]
+Description = Turn Off When Out of Battle
+Type = Gameshark
+Activation = EndFrame
+800F84D8 03E7
+
+[Save Anywhere]
+Type = Gameshark
+Activation = EndFrame
+8009D2A6 0000
+
+[Infinite Gil]
+Type = Gameshark
+Activation = EndFrame
+8009D260 FFFF
+
+[No Random Battles (World Map)]
+Type = Gameshark
+Activation = EndFrame
+8011627C 0000
+
+[No Random Battle (Elsewhere)]
+Type = Gameshark
+Activation = EndFrame
+8007173C 0000
+
+[Turn Any Growing Chocobo Into A Gold Chocobo]
+Type = Gameshark
+Activation = EndFrame
+8009BC4E 0400
+
+[Chocobo in first stable is gold]
+Type = Gameshark
+Activation = EndFrame
+3009D4B7 0004
+
+[Every Chocobo You Ride Has Gold Abilities]
+Type = Gameshark
+Activation = EndFrame
+300E5674 0004
+A60A0038 17C8184C
+
+[Learn Enemy Specials]
+Type = Gameshark
+Activation = EndFrame
+9009B5F8 FFFFFF2C
+
+[Cloud\All Limit Attacks]
+Type = Gameshark
+Activation = EndFrame
+8009C75A 0FFF
+
+[Cloud\Level Modifier]
+Type = Gameshark
+Activation = EndFrame
+3009C739 0063
+
+[Cloud\Max Strength]
+Type = Gameshark
+Activation = EndFrame
+3009C73A 00FF
+
+[Cloud\Max Vitality]
+Type = Gameshark
+Activation = EndFrame
+3009C73B 00FF
+
+[Cloud\Max Magic]
+Type = Gameshark
+Activation = EndFrame
+3009C73C 00FF
+
+[Cloud\Max Spirit]
+Type = Gameshark
+Activation = EndFrame
+3009C73D 00FF
+
+[Cloud\Max Dexterity]
+Type = Gameshark
+Activation = EndFrame
+3009C73E 00FF
+
+[Cloud\Max Luck]
+Type = Gameshark
+Activation = EndFrame
+3009C73F 00FF
+
+[Cloud\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+8009C764 270F
+
+[Cloud\Max HP]
+Type = Gameshark
+Activation = EndFrame
+8009C766 270F
+
+[Cloud\Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+8009C768 03E7
+
+[Cloud\Max MP]
+Type = Gameshark
+Activation = EndFrame
+8009C76A 03E7
+
+[Cloud\Enable All Limits]
+Type = Gameshark
+Activation = EndFrame
+8009AEF2 02DB
+
+[Cloud\Lucky 7777 Fever]
+Type = Gameshark
+Activation = EndFrame
+9009D85C 1E611E61
+
+[Cloud\When Starting A Battle, Limit Bar is Full]
+Type = Gameshark
+Activation = EndFrame
+8009AEDE FF01
+
+[Tifa\All Limit Attacks]
+Type = Gameshark
+Activation = EndFrame
+8009C862 0FFF
+
+[Tifa\Enable All Limits]
+Type = Gameshark
+Activation = EndFrame
+8009AFFA 02DB
+
+[Tifa\Lucky 7777 Fever]
+Type = Gameshark
+Activation = EndFrame
+9009DC9C 1E611E61
+
+[Tifa\When Starting A Battle, Limit Bar is Full]
+Type = Gameshark
+Activation = EndFrame
+8009AFE6 FF01
+
+[Barret\All Limit Attacks]
+Type = Gameshark
+Activation = EndFrame
+8009C7DE 0FFF
+
+[Barret\Enable All Limits]
+Type = Gameshark
+Activation = EndFrame
+8009AF76 02DB
+
+[Barret\When Starting A Battle, Limit Bar is Full]
+Type = Gameshark
+Activation = EndFrame
+8009AF62 FF01
+
+[Yuffie\All Limit Attacks]
+Type = Gameshark
+Activation = EndFrame
+8009C9EE 0FFF
+
+[Yuffie\Enable All Limits]
+Type = Gameshark
+Activation = EndFrame
+8009B186 02DB
+
+[Yuffie\When Starting A Battle, Limit Bar is Full]
+Type = Gameshark
+Activation = EndFrame
+8009B172 FF01
+
+[Red XII\All Limit Attacks]
+Type = Gameshark
+Activation = EndFrame
+8009C96A 0FFF
+
+[Red XII\Enable All Limits]
+Type = Gameshark
+Activation = EndFrame
+8009B102 02DB
+
+[Red XII\When Starting A Battle, Limit Bar is Full]
+Type = Gameshark
+Activation = EndFrame
+8009B0EE FF01
+
+[Aerith\All Limit Attacks]
+Type = Gameshark
+Activation = EndFrame
+8009C8E6 0FFF
+
+[Aerith\Enable All Limits]
+Type = Gameshark
+Activation = EndFrame
+8009B07E 02DB
+
+[Aerith\When Starting A Battle, Limit Bar is Full]
+Type = Gameshark
+Activation = EndFrame
+8009B06A FF01
+
+[Cid\All Limit Attacks]
+Type = Gameshark
+Activation = EndFrame
+8009CB7A 0FFF
+
+[Cid\Enable All Limits]
+Type = Gameshark
+Activation = EndFrame
+8009B312 02DB
+
+[Cid\When Starting A Battle, Limit Bar is Full]
+Type = Gameshark
+Activation = EndFrame
+8009B2FE FF01
+
+[Vincent\All Limit Attacks]
+Type = Gameshark
+Activation = EndFrame
+8009CAF6 0FFF
+
+[Vincent\When Starting A Battle, Limit Bar is Full]
+Type = Gameshark
+Activation = EndFrame
+8009B27A FF01
+
+[Cait Sith\All Limit Attacks]
+Type = Gameshark
+Activation = EndFrame
+8009CA72 0FFF
+
+[Cait Sith\Enable All Limits]
+Type = Gameshark
+Activation = EndFrame
+8009B20A 02DB
+
+[Cait Sith\When Starting A Battle, Limit Bar is Full]
+Type = Gameshark
+Activation = EndFrame
+8009B1F6 FF01
+

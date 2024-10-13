@@ -1,0 +1,88 @@
+; CHTDB: ; [ Zero Divide (USA) (1995) (Time Warner Interactive) {SLUS-00183} <zerodiv> ]
+
+[Infinite Energy Zero .Use only in battle when finnish deactivate and activate again in the next fight]
+Type = Gameshark
+Activation = EndFrame
+80110764 00D0
+
+[P1 Unbeatable]
+Type = Gameshark
+Activation = EndFrame
+80110B3C 00D0
+
+[P2 Unbeatable]
+Type = Gameshark
+Activation = EndFrame
+801118C0 00D0
+
+[Time Stays At 59 Seconds]
+Type = Gameshark
+Activation = EndFrame
+800E8968 0700
+800B0566 015C
+
+[P1 No Health]
+Type = Gameshark
+Activation = EndFrame
+80110B3C 0000
+
+[P2 No Health]
+Type = Gameshark
+Activation = EndFrame
+801118C0 0000
+
+[When Timer Reaches 0 - Reset]
+Type = Gameshark
+Activation = EndFrame
+800E896A 0700
+
+[Auto-Switch View Enabled]
+Type = Gameshark
+Activation = EndFrame
+800E8960 0004
+
+[One Of Xtal's Claws Twitches Violently]
+Type = Gameshark
+Activation = EndFrame
+80110C52 023A
+
+[Overall Playing Time is .01 Seconds]
+Type = Gameshark
+Activation = EndFrame
+800E811C 0020
+
+[Overall Playing Time is .00 Seconds]
+Type = Gameshark
+Activation = EndFrame
+800E811A 0021
+
+[X-Tal is Selectable]
+Type = Gameshark
+Activation = EndFrame
+800E811A 0021
+
+[Select Starting Level\Level 1, Room A]
+Type = Gameshark
+Activation = EndFrame
+A60EEC24 00000000
+
+[Select Starting Level\Level 1, Room B]
+Type = Gameshark
+Activation = EndFrame
+A60EEC24 00000100
+
+[Select Starting Level\Level 1, Room C]
+Type = Gameshark
+Activation = EndFrame
+A60EEC24 00000200
+
+[Tiny Phalanx Infinite Lives .Tiny Phalanx is an entire hidden game within Zero Divide. To access it, turn the PlayStation on, and hold Select and Start on controller 2 until you see the Tiny Phalanx title screen.]
+Type = Gameshark
+Activation = EndFrame
+800ACD34 0063
+
+[Tiny Phalanx Infinite Bombs]
+Type = Gameshark
+Activation = EndFrame
+800ACA54 0063
+

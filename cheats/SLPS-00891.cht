@@ -1,0 +1,12 @@
+; CHTDB: ; [ Zero Divide 2: The Secret Wish (Japan) {SLPS-00891} ]
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8006D336 00C8
+
+[P2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8006DE9E 00C8
+

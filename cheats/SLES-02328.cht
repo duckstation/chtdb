@@ -1,0 +1,42 @@
+; CHTDB: ; [ Galerians (Europe) {SLES-02328 | SLES-12328 | SLES-22328} ]
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+801BF824 00C8
+
+[Have D-Felon ability]
+Type = Gameshark
+Activation = EndFrame
+801AF0E6 FFFF
+
+[Infinite D-Felon]
+Type = Gameshark
+Activation = EndFrame
+801AF0B8 00C8
+
+[Infinite Green]
+Type = Gameshark
+Activation = EndFrame
+801AF0B0 00C8
+
+[Infinite Red]
+Type = Gameshark
+Activation = EndFrame
+801AF0B4 00C8
+
+[No AP]
+Type = Gameshark
+Activation = EndFrame
+801AF0A4 0000
+
+[No timer]
+Type = Gameshark
+Activation = EndFrame
+801AF524 0000
+
+[Psychic power level maxed]
+Type = Gameshark
+Activation = EndFrame
+301AF0CC 0000
+

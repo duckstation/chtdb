@@ -1,0 +1,27 @@
+; CHTDB: ; [ Disney La Sirenita 2 (Spain) {SCES-03036} ]
+
+[Infinite Energy / Air]
+Type = Gameshark
+Activation = EndFrame
+800E7854 0064
+
+[Have 50 coins]
+Type = Gameshark
+Activation = EndFrame
+800E786C 0032
+
+[Have 5 pearls]
+Type = Gameshark
+Activation = EndFrame
+800E7891 0005
+
+[Unlock All Levels & Movies]
+Type = Gameshark
+Activation = EndFrame
+800E82D4 270F
+
+[Unlock all minigames]
+Type = Gameshark
+Activation = EndFrame
+800E82E4 0003
+

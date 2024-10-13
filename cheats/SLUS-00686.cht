@@ -1,0 +1,135 @@
+; CHTDB: ; [ Uprising X (USA) (1998) (The 3DO Company) {SLUS-00686} <uprisinx> ]
+
+[All Weapons + Ammo]
+Type = Gameshark
+Activation = EndFrame
+801907F6 0063
+901907F8 00630063
+901907FC 00630063
+
+[Level 1 Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+8011062A 0FFF
+
+[Level 2 Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+801085FA 0FFF
+
+[Level 3 Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+80103B16 0FFF
+
+[Level 4 Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+800FE5DA 0FFF
+
+[Level 5 Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+801006EA 0FFF
+
+[Level 6 Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+800F81A6 0FFF
+
+[Level 7 Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+8011977E 0FFF
+
+[Level 8 Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+800F8E0E 0FFF
+
+[Level 9 Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+800FD5C2 0FFF
+
+[Level 10 Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+800FD926 0FFF
+
+[Level 11 Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+80100EEE 0FFF
+
+[Level 12 Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+800F657A 0FFF
+
+[Select Mission\Mission 2]
+Type = Gameshark
+Activation = EndFrame
+D0020A10 6E45
+30121D67 0001
+
+[Select Mission\Mission 3]
+Type = Gameshark
+Activation = EndFrame
+D0020A10 6E45
+30121D67 0002
+
+[Select Mission\Mission 4]
+Type = Gameshark
+Activation = EndFrame
+D0020A10 6E45
+30121D67 0003
+
+[Select Mission\Mission 5]
+Type = Gameshark
+Activation = EndFrame
+D0020A10 6E45
+30121D67 0004
+
+[Select Mission\Mission 6]
+Type = Gameshark
+Activation = EndFrame
+D0020A10 6E45
+30121D67 0005
+
+[Select Mission\Mission 7]
+Type = Gameshark
+Activation = EndFrame
+D0020A10 6E45
+30121D67 0006
+
+[Select Mission\Mission 8]
+Type = Gameshark
+Activation = EndFrame
+D0020A10 6E45
+30121D67 0007
+
+[Select Mission\Mission 9]
+Type = Gameshark
+Activation = EndFrame
+D0020A10 6E45
+30121D67 0008
+
+[Select Mission\Mission 10]
+Type = Gameshark
+Activation = EndFrame
+D0020A10 6E45
+30121D67 0009
+
+[Select Mission\Mission 11]
+Type = Gameshark
+Activation = EndFrame
+D0020A10 6E45
+30121D67 000A
+
+[Select Mission\Mission 12]
+Type = Gameshark
+Activation = EndFrame
+D0020A10 6E45
+30121D67 000B
+

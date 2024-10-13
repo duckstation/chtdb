@@ -1,0 +1,22 @@
+; CHTDB: ; [ Pocket Fighter (USA) (1998) (Capcom Entertainment) {SLUS-00653} <pfght> ]
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801E1DF8 0090
+
+[P1 Infinite Strength]
+Type = Gameshark
+Activation = EndFrame
+801E2B3C 0090
+
+[P2 No Energy]
+Type = Gameshark
+Activation = EndFrame
+801E20E0 0000
+
+[P2 No Strength]
+Type = Gameshark
+Activation = EndFrame
+801E2B3E 0000
+

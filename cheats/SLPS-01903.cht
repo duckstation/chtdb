@@ -1,0 +1,27 @@
+; CHTDB: ; [ Farland Saga - Toki no Michishirube (Jpn) (1999) (TGL) {SLPS-01903} <farsagat> ]
+
+[All Members Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+901CBEE4 000F423F
+
+[Main Character Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+901EB334 03E703E7
+
+[Main Character Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+901EB338 03E703E7
+
+[Second Character Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+901EB3B0 03E703E7
+
+[Second Character Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+901EB3B4 03E703E7
+

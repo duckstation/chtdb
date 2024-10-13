@@ -1,0 +1,32 @@
+; CHTDB: ; [ Quo Vadis - Iberukatsu Seneki (Jpn) (1997) (Glams) {SLPS-00733} <quovadis> ]
+
+[Infinite Energy main space ship]
+Type = Gameshark
+Activation = EndFrame
+800AC420 270F
+
+[Infinite Energy second space ship]
+Type = Gameshark
+Activation = EndFrame
+800AC5F8 270F
+
+[Infinite Energy third space ship]
+Type = Gameshark
+Activation = EndFrame
+800AC50C 270F
+
+[Undeal Master Ship]
+Type = Gameshark
+Activation = EndFrame
+800E6A92 270F
+
+[Undeal Other Ship]
+Type = Gameshark
+Activation = EndFrame
+800E6AA6 270F
+800E6ABA 270F
+800E6ACE 270F
+800E6AE2 270F
+800E6AF6 270F
+800E6B0A 270F
+

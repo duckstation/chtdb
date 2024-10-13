@@ -1,0 +1,63 @@
+; CHTDB: ; [ Bomberman Fantasy Race (USA) (1999) (Atlus Software) {SLUS-00823} <bombfntr> ]
+
+[Money Code]
+Type = Gameshark
+Activation = EndFrame
+8014873C FFFF
+
+[Full Stamina]
+Type = Gameshark
+Activation = EndFrame
+800100EA 077F
+
+[P1 Has All Animals]
+Type = Gameshark
+Activation = EndFrame
+80148736 FFFF
+
+[Infinite Time Bonus Round]
+Type = Gameshark
+Activation = EndFrame
+8014AB20 0C69
+
+[Max GB in Bonus Round]
+Type = Gameshark
+Activation = EndFrame
+80148894 03E7
+
+[Lap 1 is 0.00.00]
+Type = Gameshark
+Activation = EndFrame
+8014AB20 0000
+
+[Lap 2 is 0.00.00]
+Type = Gameshark
+Activation = EndFrame
+8014AB24 0000
+
+[Lap 3 is 0.00.00]
+Type = Gameshark
+Activation = EndFrame
+8014AB28 0000
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+8003F89C 0C00
+8003F89E 2405
+
+[Screen Adjust 1]
+Type = Gameshark
+Activation = EndFrame
+A7147D30 10000C00
+
+[Screen Adjust 2]
+Type = Gameshark
+Activation = EndFrame
+A7147D38 10000C00
+
+[Screen Adjust 3]
+Type = Gameshark
+Activation = EndFrame
+A7147D40 10000C00
+

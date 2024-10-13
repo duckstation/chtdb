@@ -1,0 +1,71 @@
+; CHTDB: ; [ Ridegear Guybrave II (Jpn) (1998) (Axela) {SLPS-01643~SLPS-01644} <guybrav2> ]
+
+[Hp 99999]
+Type = Gameshark
+Activation = EndFrame
+80117B50 869F
+30117B52 0001
+
+[Hp Max 99999]
+Type = Gameshark
+Activation = EndFrame
+80117B54 869F
+30117B56 0001
+
+[First Weapon Max.]
+Type = Gameshark
+Activation = EndFrame
+8009D518 2006
+
+[Second Weapon Max.]
+Type = Gameshark
+Activation = EndFrame
+8009D51C 3018
+
+[Max Level For Robot]
+Type = Gameshark
+Activation = EndFrame
+80095BF4 FFFF
+
+[Mec 999999999]
+Type = Gameshark
+Activation = EndFrame
+90095BC8 3B9AC9FF
+
+[Get All 102 Robot In Simulation Mode]
+Type = Gameshark
+Activation = EndFrame
+3009F27C 003F
+B0030004 0000
+9009F270 FFFF
+
+[En-S1 9999]
+Type = Gameshark
+Activation = EndFrame
+80117B58 270F
+
+[En-S1 Max 9999]
+Type = Gameshark
+Activation = EndFrame
+80117B5E 270F
+
+[En-S2 9999]
+Type = Gameshark
+Activation = EndFrame
+80117B5A 270F
+
+[En-S2 Max 9999]
+Type = Gameshark
+Activation = EndFrame
+80117B60 270F
+
+[En-S3 9999]
+Type = Gameshark
+Activation = EndFrame
+80117B5C 270F
+
+[En-S3 Max 9999]
+Type = Gameshark
+Activation = EndFrame
+80117B62 270F
+

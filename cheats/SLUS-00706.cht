@@ -1,0 +1,3520 @@
+; CHTDB: ; [ Tenchu - Stealth Assassins (USA, v1.0) (1998) (Activision) {SLUS-00706} <tenchua> ]
+
+[Ayame\Level 1-In Battle\Grapling Hook]
+Type = Gameshark
+Activation = EndFrame
+3012A3D4 00FF
+
+[Ayame\Level 1-In Battle\Shuriken]
+Type = Gameshark
+Activation = EndFrame
+3012A3D5 00FF
+
+[Ayame\Level 1-In Battle\Caltraps]
+Type = Gameshark
+Activation = EndFrame
+3012A3D6 00FF
+
+[Ayame\Level 1-In Battle\Healing Potion]
+Type = Gameshark
+Activation = EndFrame
+3012A3D7 00FF
+
+[Ayame\Level 1-In Battle\Grenade]
+Type = Gameshark
+Activation = EndFrame
+3012A3D8 00FF
+
+[Ayame\Level 1-In Battle\Smoke Bomb]
+Type = Gameshark
+Activation = EndFrame
+3012A3D9 00FF
+
+[Ayame\Level 1-In Battle\Mines]
+Type = Gameshark
+Activation = EndFrame
+3012A3DA 00FF
+
+[Ayame\Level 1-In Battle\Poison Rice]
+Type = Gameshark
+Activation = EndFrame
+3012A3DB 00FF
+
+[Ayame\Level 1-In Battle\Colored Rice]
+Type = Gameshark
+Activation = EndFrame
+3012A3DC 00FF
+
+[Ayame\Level 1-In Battle\Sleeping Gas]
+Type = Gameshark
+Activation = EndFrame
+3012A3DD 00FF
+
+[Ayame\Level 1-In Battle\Resurrection Leaf]
+Type = Gameshark
+Activation = EndFrame
+3012A3DE 00FF
+
+[Ayame\Level 1-In Battle\Chameleon Spell]
+Type = Gameshark
+Activation = EndFrame
+3012A3DF 00FF
+
+[Ayame\Level 1-In Battle\Protection Amulet]
+Type = Gameshark
+Activation = EndFrame
+3012A3E0 00FF
+
+[Ayame\Level 1-In Battle\Lightfoot Scroll]
+Type = Gameshark
+Activation = EndFrame
+3012A3E1 00FF
+
+[Ayame\Level 1-In Battle\Shadow Decoy]
+Type = Gameshark
+Activation = EndFrame
+3012A3E2 00FF
+
+[Ayame\Level 1-In Battle\Super-Shuriken]
+Type = Gameshark
+Activation = EndFrame
+3012A3E3 00FF
+
+[Ayame\Level 1-In Battle\Dog Bone]
+Type = Gameshark
+Activation = EndFrame
+3012A3E4 00FF
+
+[Ayame\Level 1-In Battle\Fire Eater Scroll]
+Type = Gameshark
+Activation = EndFrame
+3012A3E5 00FF
+
+[Ayame\Level 1-In Battle\Decoy Whistle]
+Type = Gameshark
+Activation = EndFrame
+3012A3E6 00FF
+
+[Ayame\Level 1-In Battle\Ninja Armor]
+Type = Gameshark
+Activation = EndFrame
+3012A3E7 00FF
+
+[Ayame\Level 1-In Battle\Fire Bullets]
+Type = Gameshark
+Activation = EndFrame
+3012A3E8 00FF
+
+[Ayame\Level 1-In Battle\Arrows]
+Type = Gameshark
+Activation = EndFrame
+3012A3E9 00FF
+
+[Ayame\Level 1-In Battle\Lightning]
+Type = Gameshark
+Activation = EndFrame
+3012A3EB 00FF
+
+[Ayame\Level 1-In Battle\Transporter]
+Type = Gameshark
+Activation = EndFrame
+3012A3EC 00FF
+
+[Ayame\Level 1-In Battle\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+D000E226 800B
+8012A328 0064
+
+[Ayame\Level 1-In Battle\Stealth Mode]
+Type = Gameshark
+Activation = EndFrame
+A612A3CE 0000000B
+
+[Ayame\Level 2-In Battle\Grapling Hook]
+Type = Gameshark
+Activation = EndFrame
+3012F4AC 00FF
+
+[Ayame\Level 2-In Battle\Shuriken]
+Type = Gameshark
+Activation = EndFrame
+3012F4AD 00FF
+
+[Ayame\Level 2-In Battle\Caltraps]
+Type = Gameshark
+Activation = EndFrame
+3012F4AE 00FF
+
+[Ayame\Level 2-In Battle\Healing Potion]
+Type = Gameshark
+Activation = EndFrame
+3012F4AF 00FF
+
+[Ayame\Level 2-In Battle\Grenade]
+Type = Gameshark
+Activation = EndFrame
+3012F4B0 00FF
+
+[Ayame\Level 2-In Battle\Smoke Bomb]
+Type = Gameshark
+Activation = EndFrame
+3012F4B1 00FF
+
+[Ayame\Level 2-In Battle\Mines]
+Type = Gameshark
+Activation = EndFrame
+3012F4B2 00FF
+
+[Ayame\Level 2-In Battle\Poison Rice]
+Type = Gameshark
+Activation = EndFrame
+3012F4B3 00FF
+
+[Ayame\Level 2-In Battle\Colored Rice]
+Type = Gameshark
+Activation = EndFrame
+3012F4B4 00FF
+
+[Ayame\Level 2-In Battle\Sleeping Gas]
+Type = Gameshark
+Activation = EndFrame
+3012F4B5 00FF
+
+[Ayame\Level 2-In Battle\Resurrection Leaf]
+Type = Gameshark
+Activation = EndFrame
+3012F4B6 00FF
+
+[Ayame\Level 2-In Battle\Chameleon Spell]
+Type = Gameshark
+Activation = EndFrame
+3012F4B7 00FF
+
+[Ayame\Level 2-In Battle\Protection Amulet]
+Type = Gameshark
+Activation = EndFrame
+3012F4B8 00FF
+
+[Ayame\Level 2-In Battle\Lightfoot Scroll]
+Type = Gameshark
+Activation = EndFrame
+3012F4B9 00FF
+
+[Ayame\Level 2-In Battle\Shadow Decoy]
+Type = Gameshark
+Activation = EndFrame
+3012F4BA 00FF
+
+[Ayame\Level 2-In Battle\Super-Shuriken]
+Type = Gameshark
+Activation = EndFrame
+3012F4BB 00FF
+
+[Ayame\Level 2-In Battle\Dog Bone]
+Type = Gameshark
+Activation = EndFrame
+3012F4BC 00FF
+
+[Ayame\Level 2-In Battle\Fire Eater Scroll]
+Type = Gameshark
+Activation = EndFrame
+3012F4BD 00FF
+
+[Ayame\Level 2-In Battle\Decoy Whistle]
+Type = Gameshark
+Activation = EndFrame
+3012F4BE 00FF
+
+[Ayame\Level 2-In Battle\Ninja Armor]
+Type = Gameshark
+Activation = EndFrame
+3012F4BF 00FF
+
+[Ayame\Level 2-In Battle\Fire Bullets]
+Type = Gameshark
+Activation = EndFrame
+3012F4C0 00FF
+
+[Ayame\Level 2-In Battle\Arrows]
+Type = Gameshark
+Activation = EndFrame
+3012F4C1 00FF
+
+[Ayame\Level 2-In Battle\Lightning]
+Type = Gameshark
+Activation = EndFrame
+3012F4C3 00FF
+
+[Ayame\Level 2-In Battle\Transporter]
+Type = Gameshark
+Activation = EndFrame
+3012F4C4 00FF
+
+[Ayame\Level 2-In Battle\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+D000E226 800B
+8012F400 0064
+
+[Ayame\Level 2-In Battle\Stealth Mode]
+Type = Gameshark
+Activation = EndFrame
+A612F4A6 0000000B
+
+[Ayame\Level 3-In Battle\Grapling Hook]
+Type = Gameshark
+Activation = EndFrame
+3012FE40 00FF
+
+[Ayame\Level 3-In Battle\Shuriken]
+Type = Gameshark
+Activation = EndFrame
+3012FE41 00FF
+
+[Ayame\Level 3-In Battle\Caltraps]
+Type = Gameshark
+Activation = EndFrame
+3012FE42 00FF
+
+[Ayame\Level 3-In Battle\Healing Potion]
+Type = Gameshark
+Activation = EndFrame
+3012FE43 00FF
+
+[Ayame\Level 3-In Battle\Grenade]
+Type = Gameshark
+Activation = EndFrame
+3012FE44 00FF
+
+[Ayame\Level 3-In Battle\Smoke Bomb]
+Type = Gameshark
+Activation = EndFrame
+3012FE45 00FF
+
+[Ayame\Level 3-In Battle\Mines]
+Type = Gameshark
+Activation = EndFrame
+3012FE46 00FF
+
+[Ayame\Level 3-In Battle\Poison Rice]
+Type = Gameshark
+Activation = EndFrame
+3012FE47 00FF
+
+[Ayame\Level 3-In Battle\Colored Rice]
+Type = Gameshark
+Activation = EndFrame
+3012FE48 00FF
+
+[Ayame\Level 3-In Battle\Sleeping Gas]
+Type = Gameshark
+Activation = EndFrame
+3012FE49 00FF
+
+[Ayame\Level 3-In Battle\Resurrection Leaf]
+Type = Gameshark
+Activation = EndFrame
+3012FE4A 00FF
+
+[Ayame\Level 3-In Battle\Chameleon Spell]
+Type = Gameshark
+Activation = EndFrame
+3012FE4B 00FF
+
+[Ayame\Level 3-In Battle\Protection Amulet]
+Type = Gameshark
+Activation = EndFrame
+3012FE4C 00FF
+
+[Ayame\Level 3-In Battle\Lightfoot Scroll]
+Type = Gameshark
+Activation = EndFrame
+3012FE4D 00FF
+
+[Ayame\Level 3-In Battle\Shadow Decoy]
+Type = Gameshark
+Activation = EndFrame
+3012FE4E 00FF
+
+[Ayame\Level 3-In Battle\Super-Shuriken]
+Type = Gameshark
+Activation = EndFrame
+3012FE4F 00FF
+
+[Ayame\Level 3-In Battle\Dog Bone]
+Type = Gameshark
+Activation = EndFrame
+3012FE50 00FF
+
+[Ayame\Level 3-In Battle\Fire Eater Scroll]
+Type = Gameshark
+Activation = EndFrame
+3012FE51 00FF
+
+[Ayame\Level 3-In Battle\Decoy Whistle]
+Type = Gameshark
+Activation = EndFrame
+3012FE52 00FF
+
+[Ayame\Level 3-In Battle\Ninja Armor]
+Type = Gameshark
+Activation = EndFrame
+3012FE53 00FF
+
+[Ayame\Level 3-In Battle\Fire Bullets]
+Type = Gameshark
+Activation = EndFrame
+3012FE54 00FF
+
+[Ayame\Level 3-In Battle\Arrows]
+Type = Gameshark
+Activation = EndFrame
+3012FE55 00FF
+
+[Ayame\Level 3-In Battle\Lightning]
+Type = Gameshark
+Activation = EndFrame
+3012FE57 00FF
+
+[Ayame\Level 3-In Battle\Transporter]
+Type = Gameshark
+Activation = EndFrame
+3012FE58 00FF
+
+[Ayame\Level 3-In Battle\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+D000E226 800B
+8012FD94 0064
+
+[Ayame\Level 3-In Battle\Stealth Mode]
+Type = Gameshark
+Activation = EndFrame
+A612FE3A 0000000B
+
+[Ayame\Level 4-In Battle\Grapling Hook]
+Type = Gameshark
+Activation = EndFrame
+30129018 00FF
+
+[Ayame\Level 4-In Battle\Shuriken]
+Type = Gameshark
+Activation = EndFrame
+30129019 00FF
+
+[Ayame\Level 4-In Battle\Caltraps]
+Type = Gameshark
+Activation = EndFrame
+3012901A 00FF
+
+[Ayame\Level 4-In Battle\Healing Potion]
+Type = Gameshark
+Activation = EndFrame
+3012901B 00FF
+
+[Ayame\Level 4-In Battle\Grenade]
+Type = Gameshark
+Activation = EndFrame
+3012901C 00FF
+
+[Ayame\Level 4-In Battle\Smoke Bomb]
+Type = Gameshark
+Activation = EndFrame
+3012901D 00FF
+
+[Ayame\Level 4-In Battle\Mines]
+Type = Gameshark
+Activation = EndFrame
+3012901E 00FF
+
+[Ayame\Level 4-In Battle\Poison Rice]
+Type = Gameshark
+Activation = EndFrame
+3012901F 00FF
+
+[Ayame\Level 4-In Battle\Colored Rice]
+Type = Gameshark
+Activation = EndFrame
+30129020 00FF
+
+[Ayame\Level 4-In Battle\Sleeping Gas]
+Type = Gameshark
+Activation = EndFrame
+30129021 00FF
+
+[Ayame\Level 4-In Battle\Resurrection Leaf]
+Type = Gameshark
+Activation = EndFrame
+30129022 00FF
+
+[Ayame\Level 4-In Battle\Chameleon Spell]
+Type = Gameshark
+Activation = EndFrame
+30129023 00FF
+
+[Ayame\Level 4-In Battle\Protection Amulet]
+Type = Gameshark
+Activation = EndFrame
+30129024 00FF
+
+[Ayame\Level 4-In Battle\Lightfoot Scroll]
+Type = Gameshark
+Activation = EndFrame
+30129025 00FF
+
+[Ayame\Level 4-In Battle\Shadow Decoy]
+Type = Gameshark
+Activation = EndFrame
+30129026 00FF
+
+[Ayame\Level 4-In Battle\Super-Shuriken]
+Type = Gameshark
+Activation = EndFrame
+30129027 00FF
+
+[Ayame\Level 4-In Battle\Dog Bone]
+Type = Gameshark
+Activation = EndFrame
+30129028 00FF
+
+[Ayame\Level 4-In Battle\Fire Eater Scroll]
+Type = Gameshark
+Activation = EndFrame
+30129029 00FF
+
+[Ayame\Level 4-In Battle\Decoy Whistle]
+Type = Gameshark
+Activation = EndFrame
+3012902A 00FF
+
+[Ayame\Level 4-In Battle\Ninja Armor]
+Type = Gameshark
+Activation = EndFrame
+3012902B 00FF
+
+[Ayame\Level 4-In Battle\Fire Bullets]
+Type = Gameshark
+Activation = EndFrame
+3012902C 00FF
+
+[Ayame\Level 4-In Battle\Arrows]
+Type = Gameshark
+Activation = EndFrame
+3012902D 00FF
+
+[Ayame\Level 4-In Battle\Lightning]
+Type = Gameshark
+Activation = EndFrame
+3012902F 00FF
+
+[Ayame\Level 4-In Battle\Transporter]
+Type = Gameshark
+Activation = EndFrame
+30129030 00FF
+
+[Ayame\Level 4-In Battle\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+D000E226 800B
+80128F6C 0064
+
+[Ayame\Level 4-In Battle\Stealth Mode]
+Type = Gameshark
+Activation = EndFrame
+A6129012 0000000B
+
+[Ayame\Level 5-In Battle\Grapling Hook]
+Type = Gameshark
+Activation = EndFrame
+301262E0 00FF
+
+[Ayame\Level 5-In Battle\Shuriken]
+Type = Gameshark
+Activation = EndFrame
+301262E1 00FF
+
+[Ayame\Level 5-In Battle\Caltraps]
+Type = Gameshark
+Activation = EndFrame
+301262E2 00FF
+
+[Ayame\Level 5-In Battle\Healing Potion]
+Type = Gameshark
+Activation = EndFrame
+301262E3 00FF
+
+[Ayame\Level 5-In Battle\Grenade]
+Type = Gameshark
+Activation = EndFrame
+301262E4 00FF
+
+[Ayame\Level 5-In Battle\Smoke Bomb]
+Type = Gameshark
+Activation = EndFrame
+301262E5 00FF
+
+[Ayame\Level 5-In Battle\Mines]
+Type = Gameshark
+Activation = EndFrame
+301262E6 00FF
+
+[Ayame\Level 5-In Battle\Poison Rice]
+Type = Gameshark
+Activation = EndFrame
+301262E7 00FF
+
+[Ayame\Level 5-In Battle\Colored Rice]
+Type = Gameshark
+Activation = EndFrame
+301262E8 00FF
+
+[Ayame\Level 5-In Battle\Sleeping Gas]
+Type = Gameshark
+Activation = EndFrame
+301262E9 00FF
+
+[Ayame\Level 5-In Battle\Resurrection Leaf]
+Type = Gameshark
+Activation = EndFrame
+301262EA 00FF
+
+[Ayame\Level 5-In Battle\Chameleon Spell]
+Type = Gameshark
+Activation = EndFrame
+301262EB 00FF
+
+[Ayame\Level 5-In Battle\Protection Amulet]
+Type = Gameshark
+Activation = EndFrame
+301262EC 00FF
+
+[Ayame\Level 5-In Battle\Lightfoot Scroll]
+Type = Gameshark
+Activation = EndFrame
+301262ED 00FF
+
+[Ayame\Level 5-In Battle\Shadow Decoy]
+Type = Gameshark
+Activation = EndFrame
+301262EE 00FF
+
+[Ayame\Level 5-In Battle\Super-Shuriken]
+Type = Gameshark
+Activation = EndFrame
+301262EF 00FF
+
+[Ayame\Level 5-In Battle\Dog Bone]
+Type = Gameshark
+Activation = EndFrame
+301262F0 00FF
+
+[Ayame\Level 5-In Battle\Fire Eater Scroll]
+Type = Gameshark
+Activation = EndFrame
+301262F1 00FF
+
+[Ayame\Level 5-In Battle\Decoy Whistle]
+Type = Gameshark
+Activation = EndFrame
+301262F2 00FF
+
+[Ayame\Level 5-In Battle\Ninja Armor]
+Type = Gameshark
+Activation = EndFrame
+301262F3 00FF
+
+[Ayame\Level 5-In Battle\Fire Bullets]
+Type = Gameshark
+Activation = EndFrame
+301262F4 00FF
+
+[Ayame\Level 5-In Battle\Arrows]
+Type = Gameshark
+Activation = EndFrame
+301262F5 00FF
+
+[Ayame\Level 5-In Battle\Lightning]
+Type = Gameshark
+Activation = EndFrame
+301262F7 00FF
+
+[Ayame\Level 5-In Battle\Transporter]
+Type = Gameshark
+Activation = EndFrame
+301262F8 00FF
+
+[Ayame\Level 5-In Battle\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+D000E226 800B
+80126234 0064
+
+[Ayame\Level 5-In Battle\Stealth Mode]
+Type = Gameshark
+Activation = EndFrame
+A61262DA 0000000B
+
+[Ayame\Level 6-In Battle\Grapling Hook]
+Type = Gameshark
+Activation = EndFrame
+3012EE68 00FF
+
+[Ayame\Level 6-In Battle\Shuriken]
+Type = Gameshark
+Activation = EndFrame
+3012EE69 00FF
+
+[Ayame\Level 6-In Battle\Caltraps]
+Type = Gameshark
+Activation = EndFrame
+3012EE6A 00FF
+
+[Ayame\Level 6-In Battle\Healing Potion]
+Type = Gameshark
+Activation = EndFrame
+3012EE6B 00FF
+
+[Ayame\Level 6-In Battle\Grenade]
+Type = Gameshark
+Activation = EndFrame
+3012EE6C 00FF
+
+[Ayame\Level 6-In Battle\Smoke Bomb]
+Type = Gameshark
+Activation = EndFrame
+3012EE6D 00FF
+
+[Ayame\Level 6-In Battle\Mines]
+Type = Gameshark
+Activation = EndFrame
+3012EE6E 00FF
+
+[Ayame\Level 6-In Battle\Poison Rice]
+Type = Gameshark
+Activation = EndFrame
+3012EE6F 00FF
+
+[Ayame\Level 6-In Battle\Colored Rice]
+Type = Gameshark
+Activation = EndFrame
+3012EE70 00FF
+
+[Ayame\Level 6-In Battle\Sleeping Gas]
+Type = Gameshark
+Activation = EndFrame
+3012EE71 00FF
+
+[Ayame\Level 6-In Battle\Resurrection Leaf]
+Type = Gameshark
+Activation = EndFrame
+3012EE72 00FF
+
+[Ayame\Level 6-In Battle\Chameleon Spell]
+Type = Gameshark
+Activation = EndFrame
+3012EE73 00FF
+
+[Ayame\Level 6-In Battle\Protection Amulet]
+Type = Gameshark
+Activation = EndFrame
+3012EE74 00FF
+
+[Ayame\Level 6-In Battle\Lightfoot Scroll]
+Type = Gameshark
+Activation = EndFrame
+3012EE75 00FF
+
+[Ayame\Level 6-In Battle\Shadow Decoy]
+Type = Gameshark
+Activation = EndFrame
+3012EE76 00FF
+
+[Ayame\Level 6-In Battle\Super-Shuriken]
+Type = Gameshark
+Activation = EndFrame
+3012EE77 00FF
+
+[Ayame\Level 6-In Battle\Dog Bone]
+Type = Gameshark
+Activation = EndFrame
+3012EE78 00FF
+
+[Ayame\Level 6-In Battle\Fire Eater Scroll]
+Type = Gameshark
+Activation = EndFrame
+3012EE79 00FF
+
+[Ayame\Level 6-In Battle\Decoy Whistle]
+Type = Gameshark
+Activation = EndFrame
+3012EE7A 00FF
+
+[Ayame\Level 6-In Battle\Ninja Armor]
+Type = Gameshark
+Activation = EndFrame
+3012EE7B 00FF
+
+[Ayame\Level 6-In Battle\Fire Bullets]
+Type = Gameshark
+Activation = EndFrame
+3012EE7C 00FF
+
+[Ayame\Level 6-In Battle\Arrows]
+Type = Gameshark
+Activation = EndFrame
+3012EE7D 00FF
+
+[Ayame\Level 6-In Battle\Lightning]
+Type = Gameshark
+Activation = EndFrame
+3012EE7F 00FF
+
+[Ayame\Level 6-In Battle\Transporter]
+Type = Gameshark
+Activation = EndFrame
+3012EE80 00FF
+
+[Ayame\Level 6-In Battle\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+D000E226 800B
+8012EDBC 0064
+
+[Ayame\Level 6-In Battle\Stealth Mode]
+Type = Gameshark
+Activation = EndFrame
+A612EE62 0000000B
+
+[Ayame\Level 7-In Battle\Grapling Hook]
+Type = Gameshark
+Activation = EndFrame
+301287C4 00FF
+
+[Ayame\Level 7-In Battle\Shuriken]
+Type = Gameshark
+Activation = EndFrame
+301287C5 00FF
+
+[Ayame\Level 7-In Battle\Caltraps]
+Type = Gameshark
+Activation = EndFrame
+301287C6 00FF
+
+[Ayame\Level 7-In Battle\Healing Potion]
+Type = Gameshark
+Activation = EndFrame
+301287C7 00FF
+
+[Ayame\Level 7-In Battle\Grenade]
+Type = Gameshark
+Activation = EndFrame
+301287C8 00FF
+
+[Ayame\Level 7-In Battle\Smoke Bomb]
+Type = Gameshark
+Activation = EndFrame
+301287C9 00FF
+
+[Ayame\Level 7-In Battle\Mines]
+Type = Gameshark
+Activation = EndFrame
+301287CA 00FF
+
+[Ayame\Level 7-In Battle\Poison Rice]
+Type = Gameshark
+Activation = EndFrame
+301287CB 00FF
+
+[Ayame\Level 7-In Battle\Colored Rice]
+Type = Gameshark
+Activation = EndFrame
+301287CC 00FF
+
+[Ayame\Level 7-In Battle\Sleeping Gas]
+Type = Gameshark
+Activation = EndFrame
+301287CD 00FF
+
+[Ayame\Level 7-In Battle\Resurrection Leaf]
+Type = Gameshark
+Activation = EndFrame
+301287CE 00FF
+
+[Ayame\Level 7-In Battle\Chameleon Spell]
+Type = Gameshark
+Activation = EndFrame
+301287CF 00FF
+
+[Ayame\Level 7-In Battle\Protection Amulet]
+Type = Gameshark
+Activation = EndFrame
+301287D0 00FF
+
+[Ayame\Level 7-In Battle\Lightfoot Scroll]
+Type = Gameshark
+Activation = EndFrame
+301287D1 00FF
+
+[Ayame\Level 7-In Battle\Shadow Decoy]
+Type = Gameshark
+Activation = EndFrame
+301287D2 00FF
+
+[Ayame\Level 7-In Battle\Super-Shuriken]
+Type = Gameshark
+Activation = EndFrame
+301287D3 00FF
+
+[Ayame\Level 7-In Battle\Dog Bone]
+Type = Gameshark
+Activation = EndFrame
+301287D4 00FF
+
+[Ayame\Level 7-In Battle\Fire Eater Scroll]
+Type = Gameshark
+Activation = EndFrame
+301287D5 00FF
+
+[Ayame\Level 7-In Battle\Decoy Whistle]
+Type = Gameshark
+Activation = EndFrame
+301287D6 00FF
+
+[Ayame\Level 7-In Battle\Ninja Armor]
+Type = Gameshark
+Activation = EndFrame
+301287D7 00FF
+
+[Ayame\Level 7-In Battle\Fire Bullets]
+Type = Gameshark
+Activation = EndFrame
+301287D8 00FF
+
+[Ayame\Level 7-In Battle\Arrows]
+Type = Gameshark
+Activation = EndFrame
+301287D9 00FF
+
+[Ayame\Level 7-In Battle\Lightning]
+Type = Gameshark
+Activation = EndFrame
+301287DB 00FF
+
+[Ayame\Level 7-In Battle\Transporter]
+Type = Gameshark
+Activation = EndFrame
+301287DC 00FF
+
+[Ayame\Level 7-In Battle\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+D000E226 800B
+80128718 0064
+
+[Ayame\Level 7-In Battle\Stealth Mode]
+Type = Gameshark
+Activation = EndFrame
+A61287BE 0000000B
+
+[Ayame\Level 8-In Battle\Grapling Hook]
+Type = Gameshark
+Activation = EndFrame
+30122E70 00FF
+
+[Ayame\Level 8-In Battle\Shuriken]
+Type = Gameshark
+Activation = EndFrame
+30122E71 00FF
+
+[Ayame\Level 8-In Battle\Caltraps]
+Type = Gameshark
+Activation = EndFrame
+30122E72 00FF
+
+[Ayame\Level 8-In Battle\Healing Potion]
+Type = Gameshark
+Activation = EndFrame
+30122E73 00FF
+
+[Ayame\Level 8-In Battle\Grenade]
+Type = Gameshark
+Activation = EndFrame
+30122E74 00FF
+
+[Ayame\Level 8-In Battle\Smoke Bomb]
+Type = Gameshark
+Activation = EndFrame
+30122E75 00FF
+
+[Ayame\Level 8-In Battle\Mines]
+Type = Gameshark
+Activation = EndFrame
+30122E76 00FF
+
+[Ayame\Level 8-In Battle\Poison Rice]
+Type = Gameshark
+Activation = EndFrame
+30122E77 00FF
+
+[Ayame\Level 8-In Battle\Colored Rice]
+Type = Gameshark
+Activation = EndFrame
+30122E78 00FF
+
+[Ayame\Level 8-In Battle\Sleeping Gas]
+Type = Gameshark
+Activation = EndFrame
+30122E79 00FF
+
+[Ayame\Level 8-In Battle\Resurrection Leaf]
+Type = Gameshark
+Activation = EndFrame
+30122E7A 00FF
+
+[Ayame\Level 8-In Battle\Chameleon Spell]
+Type = Gameshark
+Activation = EndFrame
+30122E7B 00FF
+
+[Ayame\Level 8-In Battle\Protection Amulet]
+Type = Gameshark
+Activation = EndFrame
+30122E7C 00FF
+
+[Ayame\Level 8-In Battle\Lightfoot Scroll]
+Type = Gameshark
+Activation = EndFrame
+30122E7D 00FF
+
+[Ayame\Level 8-In Battle\Shadow Decoy]
+Type = Gameshark
+Activation = EndFrame
+30122E7E 00FF
+
+[Ayame\Level 8-In Battle\Super-Shuriken]
+Type = Gameshark
+Activation = EndFrame
+30122E7F 00FF
+
+[Ayame\Level 8-In Battle\Dog Bone]
+Type = Gameshark
+Activation = EndFrame
+30122E80 00FF
+
+[Ayame\Level 8-In Battle\Fire Eater Scroll]
+Type = Gameshark
+Activation = EndFrame
+30122E81 00FF
+
+[Ayame\Level 8-In Battle\Decoy Whistle]
+Type = Gameshark
+Activation = EndFrame
+30122E82 00FF
+
+[Ayame\Level 8-In Battle\Ninja Armor]
+Type = Gameshark
+Activation = EndFrame
+30122E83 00FF
+
+[Ayame\Level 8-In Battle\Fire Bullets]
+Type = Gameshark
+Activation = EndFrame
+30122E84 00FF
+
+[Ayame\Level 8-In Battle\Arrows]
+Type = Gameshark
+Activation = EndFrame
+30122E85 00FF
+
+[Ayame\Level 8-In Battle\Lightning]
+Type = Gameshark
+Activation = EndFrame
+30122E87 00FF
+
+[Ayame\Level 8-In Battle\Transporter]
+Type = Gameshark
+Activation = EndFrame
+30122E88 00FF
+
+[Ayame\Level 8-In Battle\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+D000E226 800B
+80122DC4 0064
+
+[Ayame\Level 8-In Battle\Stealth Mode]
+Type = Gameshark
+Activation = EndFrame
+A6122E6A 0000000B
+
+[Ayame\Level 9-In Battle\Grapling Hook]
+Type = Gameshark
+Activation = EndFrame
+3012DFF0 00FF
+
+[Ayame\Level 9-In Battle\Shuriken]
+Type = Gameshark
+Activation = EndFrame
+3012DFF1 00FF
+
+[Ayame\Level 9-In Battle\Caltraps]
+Type = Gameshark
+Activation = EndFrame
+3012DFF2 00FF
+
+[Ayame\Level 9-In Battle\Healing Potion]
+Type = Gameshark
+Activation = EndFrame
+3012DFF3 00FF
+
+[Ayame\Level 9-In Battle\Grenade]
+Type = Gameshark
+Activation = EndFrame
+3012DFF4 00FF
+
+[Ayame\Level 9-In Battle\Smoke Bomb]
+Type = Gameshark
+Activation = EndFrame
+3012DFF5 00FF
+
+[Ayame\Level 9-In Battle\Mines]
+Type = Gameshark
+Activation = EndFrame
+3012DFF6 00FF
+
+[Ayame\Level 9-In Battle\Poison Rice]
+Type = Gameshark
+Activation = EndFrame
+3012DFF7 00FF
+
+[Ayame\Level 9-In Battle\Colored Rice]
+Type = Gameshark
+Activation = EndFrame
+3012DFF8 00FF
+
+[Ayame\Level 9-In Battle\Sleeping Gas]
+Type = Gameshark
+Activation = EndFrame
+3012DFF9 00FF
+
+[Ayame\Level 9-In Battle\Resurrection Leaf]
+Type = Gameshark
+Activation = EndFrame
+3012DFFA 00FF
+
+[Ayame\Level 9-In Battle\Chameleon Spell]
+Type = Gameshark
+Activation = EndFrame
+3012DFFB 00FF
+
+[Ayame\Level 9-In Battle\Protection Amulet]
+Type = Gameshark
+Activation = EndFrame
+3012DFFC 00FF
+
+[Ayame\Level 9-In Battle\Lightfoot Scroll]
+Type = Gameshark
+Activation = EndFrame
+3012DFFD 00FF
+
+[Ayame\Level 9-In Battle\Shadow Decoy]
+Type = Gameshark
+Activation = EndFrame
+3012DFFE 00FF
+
+[Ayame\Level 9-In Battle\Super-Shuriken]
+Type = Gameshark
+Activation = EndFrame
+3012DFFF 00FF
+
+[Ayame\Level 9-In Battle\Dog Bone]
+Type = Gameshark
+Activation = EndFrame
+3012E000 00FF
+
+[Ayame\Level 9-In Battle\Fire Eater Scroll]
+Type = Gameshark
+Activation = EndFrame
+3012E001 00FF
+
+[Ayame\Level 9-In Battle\Decoy Whistle]
+Type = Gameshark
+Activation = EndFrame
+3012E002 00FF
+
+[Ayame\Level 9-In Battle\Ninja Armor]
+Type = Gameshark
+Activation = EndFrame
+3012E003 00FF
+
+[Ayame\Level 9-In Battle\Fire Bullets]
+Type = Gameshark
+Activation = EndFrame
+3012E004 00FF
+
+[Ayame\Level 9-In Battle\Arrows]
+Type = Gameshark
+Activation = EndFrame
+3012E005 00FF
+
+[Ayame\Level 9-In Battle\Lightning]
+Type = Gameshark
+Activation = EndFrame
+3012E007 00FF
+
+[Ayame\Level 9-In Battle\Transporter]
+Type = Gameshark
+Activation = EndFrame
+3012E008 00FF
+
+[Ayame\Level 9-In Battle\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+D000E226 800B
+8012DF44 0064
+
+[Ayame\Level 9-In Battle\Stealth Mode]
+Type = Gameshark
+Activation = EndFrame
+A612DFEA 0000000B
+
+[Ayame\Level 10-In Battle\Grapling Hook]
+Type = Gameshark
+Activation = EndFrame
+3012DF94 00FF
+
+[Ayame\Level 10-In Battle\Shuriken]
+Type = Gameshark
+Activation = EndFrame
+3012DF95 00FF
+
+[Ayame\Level 10-In Battle\Caltraps]
+Type = Gameshark
+Activation = EndFrame
+3012DF96 00FF
+
+[Ayame\Level 10-In Battle\Healing Potion]
+Type = Gameshark
+Activation = EndFrame
+3012DF97 00FF
+
+[Ayame\Level 10-In Battle\Grenade]
+Type = Gameshark
+Activation = EndFrame
+3012DF98 00FF
+
+[Ayame\Level 10-In Battle\Smoke Bomb]
+Type = Gameshark
+Activation = EndFrame
+3012DF99 00FF
+
+[Ayame\Level 10-In Battle\Mines]
+Type = Gameshark
+Activation = EndFrame
+3012DF9A 00FF
+
+[Ayame\Level 10-In Battle\Poison Rice]
+Type = Gameshark
+Activation = EndFrame
+3012DF9B 00FF
+
+[Ayame\Level 10-In Battle\Colored Rice]
+Type = Gameshark
+Activation = EndFrame
+3012DF9C 00FF
+
+[Ayame\Level 10-In Battle\Sleeping Gas]
+Type = Gameshark
+Activation = EndFrame
+3012DF9D 00FF
+
+[Ayame\Level 10-In Battle\Resurrection Leaf]
+Type = Gameshark
+Activation = EndFrame
+3012DF9E 00FF
+
+[Ayame\Level 10-In Battle\Chameleon Spell]
+Type = Gameshark
+Activation = EndFrame
+3012DF9F 00FF
+
+[Ayame\Level 10-In Battle\Protection Amulet]
+Type = Gameshark
+Activation = EndFrame
+3012DFA0 00FF
+
+[Ayame\Level 10-In Battle\Lightfoot Scroll]
+Type = Gameshark
+Activation = EndFrame
+3012DFA1 00FF
+
+[Ayame\Level 10-In Battle\Shadow Decoy]
+Type = Gameshark
+Activation = EndFrame
+3012DFA2 00FF
+
+[Ayame\Level 10-In Battle\Super-Shuriken]
+Type = Gameshark
+Activation = EndFrame
+3012DFA3 00FF
+
+[Ayame\Level 10-In Battle\Dog Bone]
+Type = Gameshark
+Activation = EndFrame
+3012DFA4 00FF
+
+[Ayame\Level 10-In Battle\Fire Eater Scroll]
+Type = Gameshark
+Activation = EndFrame
+3012DFA5 00FF
+
+[Ayame\Level 10-In Battle\Decoy Whistle]
+Type = Gameshark
+Activation = EndFrame
+3012DFA6 00FF
+
+[Ayame\Level 10-In Battle\Ninja Armor]
+Type = Gameshark
+Activation = EndFrame
+3012DFA7 00FF
+
+[Ayame\Level 10-In Battle\Fire Bullets]
+Type = Gameshark
+Activation = EndFrame
+3012DFA8 00FF
+
+[Ayame\Level 10-In Battle\Arrows]
+Type = Gameshark
+Activation = EndFrame
+3012DFA9 00FF
+
+[Ayame\Level 10-In Battle\Lightning]
+Type = Gameshark
+Activation = EndFrame
+3012DFAB 00FF
+
+[Ayame\Level 10-In Battle\Transporter]
+Type = Gameshark
+Activation = EndFrame
+3012DFAC 00FF
+
+[Ayame\Level 10-In Battle\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+D000E226 800B
+8012DEE8 0064
+
+[Ayame\Level 10-In Battle\Stealth Mode]
+Type = Gameshark
+Activation = EndFrame
+A612DF8E 0000000B
+
+[Ayame\Misc.\Weapon Select Screen\Infinite Shuriken]
+Type = Gameshark
+Activation = EndFrame
+3001042D 00FD
+
+[Ayame\Misc.\Weapon Select Screen\Infinite Caltraps]
+Type = Gameshark
+Activation = EndFrame
+3001042E 00FD
+
+[Ayame\Misc.\Weapon Select Screen\Infinite Health Potions]
+Type = Gameshark
+Activation = EndFrame
+3001042F 00FD
+
+[Ayame\Misc.\Weapon Select Screen\Infinite Grenade]
+Type = Gameshark
+Activation = EndFrame
+30010430 00FD
+
+[Ayame\Misc.\Weapon Select Screen\Infinite Smoke Bomb]
+Type = Gameshark
+Activation = EndFrame
+30010431 00FD
+
+[Ayame\Misc.\Weapon Select Screen\Infinite Mines]
+Type = Gameshark
+Activation = EndFrame
+30010432 00FD
+
+[Ayame\Misc.\Weapon Select Screen\Infinite Poison Rice]
+Type = Gameshark
+Activation = EndFrame
+30010433 00FD
+
+[Ayame\Misc.\Weapon Select Screen\Infinite Colored Rice]
+Type = Gameshark
+Activation = EndFrame
+30010434 00FD
+
+[Ayame\Misc.\Weapon Select Screen\Infinite Sleeping Gas]
+Type = Gameshark
+Activation = EndFrame
+30010435 00FD
+
+[Ayame\Misc.\Weapon Select Screen\Infinite Resurrection Leaf]
+Type = Gameshark
+Activation = EndFrame
+30010436 00FD
+
+[Ayame\Misc.\Weapon Select Screen\Infinite Chameleon Spell]
+Type = Gameshark
+Activation = EndFrame
+30010437 00FD
+
+[Ayame\Misc.\Weapon Select Screen\Infinite Protection Amulet]
+Type = Gameshark
+Activation = EndFrame
+30010438 00FD
+
+[Ayame\Misc.\Weapon Select Screen\Infinite Lightfoot Scroll]
+Type = Gameshark
+Activation = EndFrame
+30010439 00FD
+
+[Ayame\Misc.\Weapon Select Screen\Infinite Shadow Decoy]
+Type = Gameshark
+Activation = EndFrame
+3001043A 00FD
+
+[Ayame\Misc.\Weapon Select Screen\Infinite Super-Shurikens]
+Type = Gameshark
+Activation = EndFrame
+3001043B 00FD
+
+[Ayame\Misc.\Weapon Select Screen\Infinite Dog Bones]
+Type = Gameshark
+Activation = EndFrame
+3001043C 00FD
+
+[Ayame\Misc.\Weapon Select Screen\Infinite Fire Eater Scroll]
+Type = Gameshark
+Activation = EndFrame
+3001043D 00FD
+
+[Ayame\Misc.\Weapon Select Screen\Infinite Decoy Whistle]
+Type = Gameshark
+Activation = EndFrame
+3001043E 00FD
+
+[Ayame\Misc.\Weapon Select Screen\Infinite Ninja Armor]
+Type = Gameshark
+Activation = EndFrame
+3001043F 00FD
+
+[Ayame\Misc.\Weapon Select Screen\Have All Levels]
+Type = Gameshark
+Activation = EndFrame
+30010061 000F
+
+[Ayame\Misc.\Grand Master Status - Records Screen\Level 1 - Layout A]
+Type = Gameshark
+Activation = EndFrame
+80010238 1300
+
+[Ayame\Misc.\Grand Master Status - Records Screen\Level 1 - Layout B]
+Type = Gameshark
+Activation = EndFrame
+80010244 1300
+
+[Ayame\Misc.\Grand Master Status - Records Screen\Level 1 - Layout c]
+Type = Gameshark
+Activation = EndFrame
+80010250 1300
+
+[Ayame\Misc.\Grand Master Status - Records Screen\Level 2 - Layout A]
+Type = Gameshark
+Activation = EndFrame
+8001025C 1300
+
+[Ayame\Misc.\Grand Master Status - Records Screen\Level 2 - Layout B]
+Type = Gameshark
+Activation = EndFrame
+80010268 1300
+
+[Ayame\Misc.\Grand Master Status - Records Screen\Level 2 - Layout c]
+Type = Gameshark
+Activation = EndFrame
+80010274 1300
+
+[Ayame\Misc.\Grand Master Status - Records Screen\Level 3 - Layout A]
+Type = Gameshark
+Activation = EndFrame
+80010280 1300
+
+[Ayame\Misc.\Grand Master Status - Records Screen\Level 3 - Layout B]
+Type = Gameshark
+Activation = EndFrame
+8001028C 1300
+
+[Ayame\Misc.\Grand Master Status - Records Screen\Level 3 - Layout c]
+Type = Gameshark
+Activation = EndFrame
+80010298 1300
+
+[Ayame\Misc.\Grand Master Status - Records Screen\Level 4 - Layout A]
+Type = Gameshark
+Activation = EndFrame
+8001037C 1300
+
+[Ayame\Misc.\Grand Master Status - Records Screen\Level 4 - Layout B]
+Type = Gameshark
+Activation = EndFrame
+80010388 1300
+
+[Ayame\Misc.\Grand Master Status - Records Screen\Level 4 - Layout c]
+Type = Gameshark
+Activation = EndFrame
+80010394 1300
+
+[Ayame\Misc.\Grand Master Status - Records Screen\Level 5 - Layout A]
+Type = Gameshark
+Activation = EndFrame
+800103A0 1300
+
+[Ayame\Misc.\Grand Master Status - Records Screen\Level 5 - Layout B]
+Type = Gameshark
+Activation = EndFrame
+800103AC 1300
+
+[Ayame\Misc.\Grand Master Status - Records Screen\Level 5 - Layout c]
+Type = Gameshark
+Activation = EndFrame
+800103B8 1300
+
+[Ayame\Misc.\Grand Master Status - Records Screen\Level 6 - Layout A]
+Type = Gameshark
+Activation = EndFrame
+800102A4 1300
+
+[Ayame\Misc.\Grand Master Status - Records Screen\Level 6 - Layout B]
+Type = Gameshark
+Activation = EndFrame
+800102B0 1300
+
+[Ayame\Misc.\Grand Master Status - Records Screen\Level 6 - Layout c]
+Type = Gameshark
+Activation = EndFrame
+800102BC 1300
+
+[Ayame\Misc.\Grand Master Status - Records Screen\Level 7 - Layout A]
+Type = Gameshark
+Activation = EndFrame
+800102C8 1300
+
+[Ayame\Misc.\Grand Master Status - Records Screen\Level 7 - Layout B]
+Type = Gameshark
+Activation = EndFrame
+800102D4 1300
+
+[Ayame\Misc.\Grand Master Status - Records Screen\Level 7 - Layout c]
+Type = Gameshark
+Activation = EndFrame
+800102E0 1300
+
+[Ayame\Misc.\Grand Master Status - Records Screen\Level 8 - Layout A]
+Type = Gameshark
+Activation = EndFrame
+800102EC 1300
+
+[Ayame\Misc.\Grand Master Status - Records Screen\Level 8 - Layout B]
+Type = Gameshark
+Activation = EndFrame
+800102F8 1300
+
+[Ayame\Misc.\Grand Master Status - Records Screen\Level 8 - Layout c]
+Type = Gameshark
+Activation = EndFrame
+80010304 1300
+
+[Ayame\Misc.\Grand Master Status - Records Screen\Level 9 - Layout A]
+Type = Gameshark
+Activation = EndFrame
+80010310 1300
+
+[Ayame\Misc.\Grand Master Status - Records Screen\Level 9 - Layout B]
+Type = Gameshark
+Activation = EndFrame
+8001031C 1300
+
+[Ayame\Misc.\Grand Master Status - Records Screen\Level 9 - Layout c]
+Type = Gameshark
+Activation = EndFrame
+80010328 1300
+
+[Ayame\Misc.\Grand Master Status - Records Screen\Level 10 - Layout A]
+Type = Gameshark
+Activation = EndFrame
+80010334 1300
+
+[Ayame\Misc.\Grand Master Status - Records Screen\Level 10 - Layout B]
+Type = Gameshark
+Activation = EndFrame
+80010340 1300
+
+[Ayame\Misc.\Grand Master Status - Records Screen\Level 10 - Layout c]
+Type = Gameshark
+Activation = EndFrame
+8001034C 1300
+
+[Ayame\Misc.\Grand Master Status - Records Screen\Training]
+Type = Gameshark
+Activation = EndFrame
+80010358 1300
+
+[Ayame\Training Level-In Battle\00.00 Time]
+Type = Gameshark
+Activation = EndFrame
+90095358 00000000
+
+[Ayame\Training Level-In Battle\Grapling Hook]
+Type = Gameshark
+Activation = EndFrame
+30125140 00FF
+
+[Ayame\Training Level-In Battle\Shuriken]
+Type = Gameshark
+Activation = EndFrame
+30125141 00FF
+
+[Ayame\Training Level-In Battle\Caltraps]
+Type = Gameshark
+Activation = EndFrame
+30125142 00FF
+
+[Ayame\Training Level-In Battle\Healing Potion]
+Type = Gameshark
+Activation = EndFrame
+30125143 00FF
+
+[Ayame\Training Level-In Battle\Grenade]
+Type = Gameshark
+Activation = EndFrame
+30125144 00FF
+
+[Ayame\Training Level-In Battle\Smoke Bomb]
+Type = Gameshark
+Activation = EndFrame
+30125145 00FF
+
+[Ayame\Training Level-In Battle\Mines]
+Type = Gameshark
+Activation = EndFrame
+30125146 00FF
+
+[Ayame\Training Level-In Battle\Poison Rice]
+Type = Gameshark
+Activation = EndFrame
+30125147 00FF
+
+[Ayame\Training Level-In Battle\Colored Rice]
+Type = Gameshark
+Activation = EndFrame
+30125148 00FF
+
+[Ayame\Training Level-In Battle\Sleeping Gas]
+Type = Gameshark
+Activation = EndFrame
+30125149 00FF
+
+[Ayame\Training Level-In Battle\Resurrection Leaf]
+Type = Gameshark
+Activation = EndFrame
+3012514A 00FF
+
+[Ayame\Training Level-In Battle\Chameleon Spell]
+Type = Gameshark
+Activation = EndFrame
+3012514B 00FF
+
+[Ayame\Training Level-In Battle\Protection Amulet]
+Type = Gameshark
+Activation = EndFrame
+3012514C 00FF
+
+[Ayame\Training Level-In Battle\Lightfoot Scroll]
+Type = Gameshark
+Activation = EndFrame
+3012514D 00FF
+
+[Ayame\Training Level-In Battle\Shadow Decoy]
+Type = Gameshark
+Activation = EndFrame
+3012514E 00FF
+
+[Ayame\Training Level-In Battle\Super-Shuriken]
+Type = Gameshark
+Activation = EndFrame
+3012514F 00FF
+
+[Ayame\Training Level-In Battle\Dog Bone]
+Type = Gameshark
+Activation = EndFrame
+30125150 00FF
+
+[Ayame\Training Level-In Battle\Fire Eater Scroll]
+Type = Gameshark
+Activation = EndFrame
+30125151 00FF
+
+[Ayame\Training Level-In Battle\Decoy Whistle]
+Type = Gameshark
+Activation = EndFrame
+30125152 00FF
+
+[Ayame\Training Level-In Battle\Ninja Armor]
+Type = Gameshark
+Activation = EndFrame
+30125153 00FF
+
+[Ayame\Training Level-In Battle\Fire Bullets]
+Type = Gameshark
+Activation = EndFrame
+30125154 00FF
+
+[Ayame\Training Level-In Battle\Arrows]
+Type = Gameshark
+Activation = EndFrame
+30125155 00FF
+
+[Ayame\Training Level-In Battle\Lightning]
+Type = Gameshark
+Activation = EndFrame
+30125157 00FF
+
+[Ayame\Training Level-In Battle\Transporter]
+Type = Gameshark
+Activation = EndFrame
+30125158 00FF
+
+[Ayame\Training Level-In Battle\Record Time 0]
+Type = Gameshark
+Activation = EndFrame
+8009268C 0000
+
+[Rikimaru\Level 1-In Battle\Grapling Hook]
+Type = Gameshark
+Activation = EndFrame
+3012A4D8 00FF
+
+[Rikimaru\Level 1-In Battle\Shuriken]
+Type = Gameshark
+Activation = EndFrame
+3012A4D9 00FF
+
+[Rikimaru\Level 1-In Battle\Caltraps]
+Type = Gameshark
+Activation = EndFrame
+3012A4DA 00FF
+
+[Rikimaru\Level 1-In Battle\Healing Potion]
+Type = Gameshark
+Activation = EndFrame
+3012A4DB 00FF
+
+[Rikimaru\Level 1-In Battle\Grenade]
+Type = Gameshark
+Activation = EndFrame
+3012A4DC 00FF
+
+[Rikimaru\Level 1-In Battle\Smoke Bomb]
+Type = Gameshark
+Activation = EndFrame
+3012A4DD 00FF
+
+[Rikimaru\Level 1-In Battle\Mines]
+Type = Gameshark
+Activation = EndFrame
+3012A4DE 00FF
+
+[Rikimaru\Level 1-In Battle\Poison Rice]
+Type = Gameshark
+Activation = EndFrame
+3012A4DF 00FF
+
+[Rikimaru\Level 1-In Battle\Colored Rice]
+Type = Gameshark
+Activation = EndFrame
+3012A4E0 00FF
+
+[Rikimaru\Level 1-In Battle\Sleeping Gas]
+Type = Gameshark
+Activation = EndFrame
+3012A4E1 00FF
+
+[Rikimaru\Level 1-In Battle\Resurrection Leaf]
+Type = Gameshark
+Activation = EndFrame
+3012A4E2 00FF
+
+[Rikimaru\Level 1-In Battle\Chameleon Spell]
+Type = Gameshark
+Activation = EndFrame
+3012A4E3 00FF
+
+[Rikimaru\Level 1-In Battle\Protection Amulet]
+Type = Gameshark
+Activation = EndFrame
+3012A4E4 00FF
+
+[Rikimaru\Level 1-In Battle\Lightfoot Scroll]
+Type = Gameshark
+Activation = EndFrame
+3012A4E5 00FF
+
+[Rikimaru\Level 1-In Battle\Shadow Decoy]
+Type = Gameshark
+Activation = EndFrame
+3012A4E6 00FF
+
+[Rikimaru\Level 1-In Battle\Super-Shuriken]
+Type = Gameshark
+Activation = EndFrame
+3012A4E7 00FF
+
+[Rikimaru\Level 1-In Battle\Dog Bone]
+Type = Gameshark
+Activation = EndFrame
+3012A4E8 00FF
+
+[Rikimaru\Level 1-In Battle\Fire Eater Scroll]
+Type = Gameshark
+Activation = EndFrame
+3012A4E9 00FF
+
+[Rikimaru\Level 1-In Battle\Decoy Whistle]
+Type = Gameshark
+Activation = EndFrame
+3012A4EA 00FF
+
+[Rikimaru\Level 1-In Battle\Ninja Armor]
+Type = Gameshark
+Activation = EndFrame
+3012A4EB 00FF
+
+[Rikimaru\Level 1-In Battle\Fire Bullets]
+Type = Gameshark
+Activation = EndFrame
+3012A4EC 00FF
+
+[Rikimaru\Level 1-In Battle\Arrows]
+Type = Gameshark
+Activation = EndFrame
+3012A4ED 00FF
+
+[Rikimaru\Level 1-In Battle\Lightning]
+Type = Gameshark
+Activation = EndFrame
+3012A4EF 00FF
+
+[Rikimaru\Level 1-In Battle\Transporter]
+Type = Gameshark
+Activation = EndFrame
+3012A4F0 00FF
+
+[Rikimaru\Level 1-In Battle\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+D000E226 800B
+8012A42C 0064
+
+[Rikimaru\Level 1-In Battle\Stealth Mode]
+Type = Gameshark
+Activation = EndFrame
+A612A4D2 0000000B
+
+[Rikimaru\Level 2-In Battle\Grapling Hook]
+Type = Gameshark
+Activation = EndFrame
+3012F5B0 00FF
+
+[Rikimaru\Level 2-In Battle\Shuriken]
+Type = Gameshark
+Activation = EndFrame
+3012F5B1 00FF
+
+[Rikimaru\Level 2-In Battle\Caltraps]
+Type = Gameshark
+Activation = EndFrame
+3012F5B2 00FF
+
+[Rikimaru\Level 2-In Battle\Healing Potion]
+Type = Gameshark
+Activation = EndFrame
+3012F5B3 00FF
+
+[Rikimaru\Level 2-In Battle\Grenade]
+Type = Gameshark
+Activation = EndFrame
+3012F5B4 00FF
+
+[Rikimaru\Level 2-In Battle\Smoke Bomb]
+Type = Gameshark
+Activation = EndFrame
+3012F5B5 00FF
+
+[Rikimaru\Level 2-In Battle\Mines]
+Type = Gameshark
+Activation = EndFrame
+3012F5B6 00FF
+
+[Rikimaru\Level 2-In Battle\Poison Rice]
+Type = Gameshark
+Activation = EndFrame
+3012F5B7 00FF
+
+[Rikimaru\Level 2-In Battle\Colored Rice]
+Type = Gameshark
+Activation = EndFrame
+3012F5B8 00FF
+
+[Rikimaru\Level 2-In Battle\Sleeping Gas]
+Type = Gameshark
+Activation = EndFrame
+3012F5B9 00FF
+
+[Rikimaru\Level 2-In Battle\Resurrection Leaf]
+Type = Gameshark
+Activation = EndFrame
+3012F5BA 00FF
+
+[Rikimaru\Level 2-In Battle\Chameleon Spell]
+Type = Gameshark
+Activation = EndFrame
+3012F5BB 00FF
+
+[Rikimaru\Level 2-In Battle\Protection Amulet]
+Type = Gameshark
+Activation = EndFrame
+3012F5BC 00FF
+
+[Rikimaru\Level 2-In Battle\Lightfoot Scroll]
+Type = Gameshark
+Activation = EndFrame
+3012F5BD 00FF
+
+[Rikimaru\Level 2-In Battle\Shadow Decoy]
+Type = Gameshark
+Activation = EndFrame
+3012F5BE 00FF
+
+[Rikimaru\Level 2-In Battle\Super-Shuriken]
+Type = Gameshark
+Activation = EndFrame
+3012F5BF 00FF
+
+[Rikimaru\Level 2-In Battle\Dog Bone]
+Type = Gameshark
+Activation = EndFrame
+3012F5C0 00FF
+
+[Rikimaru\Level 2-In Battle\Fire Eater Scroll]
+Type = Gameshark
+Activation = EndFrame
+3012F5C1 00FF
+
+[Rikimaru\Level 2-In Battle\Decoy Whistle]
+Type = Gameshark
+Activation = EndFrame
+3012F5C2 00FF
+
+[Rikimaru\Level 2-In Battle\Ninja Armor]
+Type = Gameshark
+Activation = EndFrame
+3012F5C3 00FF
+
+[Rikimaru\Level 2-In Battle\Fire Bullets]
+Type = Gameshark
+Activation = EndFrame
+3012F5C4 00FF
+
+[Rikimaru\Level 2-In Battle\Arrows]
+Type = Gameshark
+Activation = EndFrame
+3012F5C5 00FF
+
+[Rikimaru\Level 2-In Battle\Lightning]
+Type = Gameshark
+Activation = EndFrame
+3012F5C7 00FF
+
+[Rikimaru\Level 2-In Battle\Transporter]
+Type = Gameshark
+Activation = EndFrame
+3012F5C8 00FF
+
+[Rikimaru\Level 2-In Battle\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+D000E226 800B
+8012F504 0064
+
+[Rikimaru\Level 2-In Battle\Stealth Mode]
+Type = Gameshark
+Activation = EndFrame
+A612F5AA 0000000B
+
+[Rikimaru\Level 3-In Battle\Grapling Hook]
+Type = Gameshark
+Activation = EndFrame
+3012FF44 00FF
+
+[Rikimaru\Level 3-In Battle\Shuriken]
+Type = Gameshark
+Activation = EndFrame
+3012FF45 00FF
+
+[Rikimaru\Level 3-In Battle\Caltraps]
+Type = Gameshark
+Activation = EndFrame
+3012FF46 00FF
+
+[Rikimaru\Level 3-In Battle\Healing Potion]
+Type = Gameshark
+Activation = EndFrame
+3012FF47 00FF
+
+[Rikimaru\Level 3-In Battle\Grenade]
+Type = Gameshark
+Activation = EndFrame
+3012FF48 00FF
+
+[Rikimaru\Level 3-In Battle\Smoke Bomb]
+Type = Gameshark
+Activation = EndFrame
+3012FF49 00FF
+
+[Rikimaru\Level 3-In Battle\Mines]
+Type = Gameshark
+Activation = EndFrame
+3012FF4A 00FF
+
+[Rikimaru\Level 3-In Battle\Poison Rice]
+Type = Gameshark
+Activation = EndFrame
+3012FF4B 00FF
+
+[Rikimaru\Level 3-In Battle\Colored Rice]
+Type = Gameshark
+Activation = EndFrame
+3012FF4C 00FF
+
+[Rikimaru\Level 3-In Battle\Sleeping Gas]
+Type = Gameshark
+Activation = EndFrame
+3012FF4D 00FF
+
+[Rikimaru\Level 3-In Battle\Resurrection Leaf]
+Type = Gameshark
+Activation = EndFrame
+3012FF4E 00FF
+
+[Rikimaru\Level 3-In Battle\Chameleon Spell]
+Type = Gameshark
+Activation = EndFrame
+3012FF4F 00FF
+
+[Rikimaru\Level 3-In Battle\Protection Amulet]
+Type = Gameshark
+Activation = EndFrame
+3012FF50 00FF
+
+[Rikimaru\Level 3-In Battle\Lightfoot Scroll]
+Type = Gameshark
+Activation = EndFrame
+3012FF51 00FF
+
+[Rikimaru\Level 3-In Battle\Shadow Decoy]
+Type = Gameshark
+Activation = EndFrame
+3012FF52 00FF
+
+[Rikimaru\Level 3-In Battle\Super-Shuriken]
+Type = Gameshark
+Activation = EndFrame
+3012FF53 00FF
+
+[Rikimaru\Level 3-In Battle\Dog Bone]
+Type = Gameshark
+Activation = EndFrame
+3012FF54 00FF
+
+[Rikimaru\Level 3-In Battle\Fire Eater Scroll]
+Type = Gameshark
+Activation = EndFrame
+3012FF55 00FF
+
+[Rikimaru\Level 3-In Battle\Decoy Whistle]
+Type = Gameshark
+Activation = EndFrame
+3012FF56 00FF
+
+[Rikimaru\Level 3-In Battle\Ninja Armor]
+Type = Gameshark
+Activation = EndFrame
+3012FF57 00FF
+
+[Rikimaru\Level 3-In Battle\Fire Bullets]
+Type = Gameshark
+Activation = EndFrame
+3012FF58 00FF
+
+[Rikimaru\Level 3-In Battle\Arrows]
+Type = Gameshark
+Activation = EndFrame
+3012FF59 00FF
+
+[Rikimaru\Level 3-In Battle\Lightning]
+Type = Gameshark
+Activation = EndFrame
+3012FF5B 00FF
+
+[Rikimaru\Level 3-In Battle\Transporter]
+Type = Gameshark
+Activation = EndFrame
+3012FF5C 00FF
+
+[Rikimaru\Level 3-In Battle\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+D000E226 800B
+8012FE98 0064
+
+[Rikimaru\Level 3-In Battle\Stealth Mode]
+Type = Gameshark
+Activation = EndFrame
+A612FF3E 0000000B
+
+[Rikimaru\Level 4-In Battle\Grapling Hook]
+Type = Gameshark
+Activation = EndFrame
+3012911C 00FF
+
+[Rikimaru\Level 4-In Battle\Shuriken]
+Type = Gameshark
+Activation = EndFrame
+3012911D 00FF
+
+[Rikimaru\Level 4-In Battle\Caltraps]
+Type = Gameshark
+Activation = EndFrame
+3012911E 00FF
+
+[Rikimaru\Level 4-In Battle\Healing Potion]
+Type = Gameshark
+Activation = EndFrame
+3012911F 00FF
+
+[Rikimaru\Level 4-In Battle\Grenade]
+Type = Gameshark
+Activation = EndFrame
+30129120 00FF
+
+[Rikimaru\Level 4-In Battle\Smoke Bomb]
+Type = Gameshark
+Activation = EndFrame
+30129121 00FF
+
+[Rikimaru\Level 4-In Battle\Mines]
+Type = Gameshark
+Activation = EndFrame
+30129122 00FF
+
+[Rikimaru\Level 4-In Battle\Poison Rice]
+Type = Gameshark
+Activation = EndFrame
+30129123 00FF
+
+[Rikimaru\Level 4-In Battle\Colored Rice]
+Type = Gameshark
+Activation = EndFrame
+30129124 00FF
+
+[Rikimaru\Level 4-In Battle\Sleeping Gas]
+Type = Gameshark
+Activation = EndFrame
+30129125 00FF
+
+[Rikimaru\Level 4-In Battle\Resurrection Leaf]
+Type = Gameshark
+Activation = EndFrame
+30129126 00FF
+
+[Rikimaru\Level 4-In Battle\Chameleon Spell]
+Type = Gameshark
+Activation = EndFrame
+30129127 00FF
+
+[Rikimaru\Level 4-In Battle\Protection Amulet]
+Type = Gameshark
+Activation = EndFrame
+30129128 00FF
+
+[Rikimaru\Level 4-In Battle\Lightfoot Scroll]
+Type = Gameshark
+Activation = EndFrame
+30129129 00FF
+
+[Rikimaru\Level 4-In Battle\Shadow Decoy]
+Type = Gameshark
+Activation = EndFrame
+3012912A 00FF
+
+[Rikimaru\Level 4-In Battle\Super-Shuriken]
+Type = Gameshark
+Activation = EndFrame
+3012912B 00FF
+
+[Rikimaru\Level 4-In Battle\Dog Bone]
+Type = Gameshark
+Activation = EndFrame
+3012912C 00FF
+
+[Rikimaru\Level 4-In Battle\Fire Eater Scroll]
+Type = Gameshark
+Activation = EndFrame
+3012912D 00FF
+
+[Rikimaru\Level 4-In Battle\Decoy Whistle]
+Type = Gameshark
+Activation = EndFrame
+3012912E 00FF
+
+[Rikimaru\Level 4-In Battle\Ninja Armor]
+Type = Gameshark
+Activation = EndFrame
+3012912F 00FF
+
+[Rikimaru\Level 4-In Battle\Fire Bullets]
+Type = Gameshark
+Activation = EndFrame
+30129130 00FF
+
+[Rikimaru\Level 4-In Battle\Arrows]
+Type = Gameshark
+Activation = EndFrame
+30129131 00FF
+
+[Rikimaru\Level 4-In Battle\Lightning]
+Type = Gameshark
+Activation = EndFrame
+30129133 00FF
+
+[Rikimaru\Level 4-In Battle\Transporter]
+Type = Gameshark
+Activation = EndFrame
+30129134 00FF
+
+[Rikimaru\Level 4-In Battle\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+D000E226 800B
+80129070 0064
+
+[Rikimaru\Level 4-In Battle\Stealth Mode]
+Type = Gameshark
+Activation = EndFrame
+A6129116 0000000B
+
+[Rikimaru\Level 5-In Battle\Grapling Hook]
+Type = Gameshark
+Activation = EndFrame
+301263E4 00FF
+
+[Rikimaru\Level 5-In Battle\Shuriken]
+Type = Gameshark
+Activation = EndFrame
+301263E5 00FF
+
+[Rikimaru\Level 5-In Battle\Caltraps]
+Type = Gameshark
+Activation = EndFrame
+301263E6 00FF
+
+[Rikimaru\Level 5-In Battle\Healing Potion]
+Type = Gameshark
+Activation = EndFrame
+301263E7 00FF
+
+[Rikimaru\Level 5-In Battle\Grenade]
+Type = Gameshark
+Activation = EndFrame
+301263E8 00FF
+
+[Rikimaru\Level 5-In Battle\Smoke Bomb]
+Type = Gameshark
+Activation = EndFrame
+301263E9 00FF
+
+[Rikimaru\Level 5-In Battle\Mines]
+Type = Gameshark
+Activation = EndFrame
+301263EA 00FF
+
+[Rikimaru\Level 5-In Battle\Poison Rice]
+Type = Gameshark
+Activation = EndFrame
+301263EB 00FF
+
+[Rikimaru\Level 5-In Battle\Colored Rice]
+Type = Gameshark
+Activation = EndFrame
+301263EC 00FF
+
+[Rikimaru\Level 5-In Battle\Sleeping Gas]
+Type = Gameshark
+Activation = EndFrame
+301263ED 00FF
+
+[Rikimaru\Level 5-In Battle\Resurrection Leaf]
+Type = Gameshark
+Activation = EndFrame
+301263EE 00FF
+
+[Rikimaru\Level 5-In Battle\Chameleon Spell]
+Type = Gameshark
+Activation = EndFrame
+301263EF 00FF
+
+[Rikimaru\Level 5-In Battle\Protection Amulet]
+Type = Gameshark
+Activation = EndFrame
+301263F0 00FF
+
+[Rikimaru\Level 5-In Battle\Lightfoot Scroll]
+Type = Gameshark
+Activation = EndFrame
+301263F1 00FF
+
+[Rikimaru\Level 5-In Battle\Shadow Decoy]
+Type = Gameshark
+Activation = EndFrame
+301263F2 00FF
+
+[Rikimaru\Level 5-In Battle\Super-Shuriken]
+Type = Gameshark
+Activation = EndFrame
+301263F3 00FF
+
+[Rikimaru\Level 5-In Battle\Dog Bone]
+Type = Gameshark
+Activation = EndFrame
+301263F4 00FF
+
+[Rikimaru\Level 5-In Battle\Fire Eater Scroll]
+Type = Gameshark
+Activation = EndFrame
+301263F5 00FF
+
+[Rikimaru\Level 5-In Battle\Decoy Whistle]
+Type = Gameshark
+Activation = EndFrame
+301263F6 00FF
+
+[Rikimaru\Level 5-In Battle\Ninja Armor]
+Type = Gameshark
+Activation = EndFrame
+301263F7 00FF
+
+[Rikimaru\Level 5-In Battle\Fire Bullets]
+Type = Gameshark
+Activation = EndFrame
+301263F8 00FF
+
+[Rikimaru\Level 5-In Battle\Arrows]
+Type = Gameshark
+Activation = EndFrame
+301263F9 00FF
+
+[Rikimaru\Level 5-In Battle\Lightning]
+Type = Gameshark
+Activation = EndFrame
+301263FB 00FF
+
+[Rikimaru\Level 5-In Battle\Transporter]
+Type = Gameshark
+Activation = EndFrame
+301263FC 00FF
+
+[Rikimaru\Level 5-In Battle\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+D000E226 800B
+80126338 0064
+
+[Rikimaru\Level 5-In Battle\Stealth Mode]
+Type = Gameshark
+Activation = EndFrame
+A61263DE 0000000B
+
+[Rikimaru\Level 6-In Battle\Grapling Hook]
+Type = Gameshark
+Activation = EndFrame
+3012EF6C 00FF
+
+[Rikimaru\Level 6-In Battle\Shuriken]
+Type = Gameshark
+Activation = EndFrame
+3012EF6D 00FF
+
+[Rikimaru\Level 6-In Battle\Caltraps]
+Type = Gameshark
+Activation = EndFrame
+3012EF6E 00FF
+
+[Rikimaru\Level 6-In Battle\Healing Potion]
+Type = Gameshark
+Activation = EndFrame
+3012EF6F 00FF
+
+[Rikimaru\Level 6-In Battle\Grenade]
+Type = Gameshark
+Activation = EndFrame
+3012EF70 00FF
+
+[Rikimaru\Level 6-In Battle\Smoke Bomb]
+Type = Gameshark
+Activation = EndFrame
+3012EF71 00FF
+
+[Rikimaru\Level 6-In Battle\Mines]
+Type = Gameshark
+Activation = EndFrame
+3012EF72 00FF
+
+[Rikimaru\Level 6-In Battle\Poison Rice]
+Type = Gameshark
+Activation = EndFrame
+3012EF73 00FF
+
+[Rikimaru\Level 6-In Battle\Colored Rice]
+Type = Gameshark
+Activation = EndFrame
+3012EF74 00FF
+
+[Rikimaru\Level 6-In Battle\Sleeping Gas]
+Type = Gameshark
+Activation = EndFrame
+3012EF75 00FF
+
+[Rikimaru\Level 6-In Battle\Resurrection Leaf]
+Type = Gameshark
+Activation = EndFrame
+3012EF76 00FF
+
+[Rikimaru\Level 6-In Battle\Chameleon Spell]
+Type = Gameshark
+Activation = EndFrame
+3012EF77 00FF
+
+[Rikimaru\Level 6-In Battle\Protection Amulet]
+Type = Gameshark
+Activation = EndFrame
+3012EF78 00FF
+
+[Rikimaru\Level 6-In Battle\Lightfoot Scroll]
+Type = Gameshark
+Activation = EndFrame
+3012EF79 00FF
+
+[Rikimaru\Level 6-In Battle\Shadow Decoy]
+Type = Gameshark
+Activation = EndFrame
+3012EF7A 00FF
+
+[Rikimaru\Level 6-In Battle\Super-Shuriken]
+Type = Gameshark
+Activation = EndFrame
+3012EF7B 00FF
+
+[Rikimaru\Level 6-In Battle\Dog Bone]
+Type = Gameshark
+Activation = EndFrame
+3012EF7C 00FF
+
+[Rikimaru\Level 6-In Battle\Fire Eater Scroll]
+Type = Gameshark
+Activation = EndFrame
+3012EF7D 00FF
+
+[Rikimaru\Level 6-In Battle\Decoy Whistle]
+Type = Gameshark
+Activation = EndFrame
+3012EF7E 00FF
+
+[Rikimaru\Level 6-In Battle\Ninja Armor]
+Type = Gameshark
+Activation = EndFrame
+3012EF7F 00FF
+
+[Rikimaru\Level 6-In Battle\Fire Bullets]
+Type = Gameshark
+Activation = EndFrame
+3012EF80 00FF
+
+[Rikimaru\Level 6-In Battle\Arrows]
+Type = Gameshark
+Activation = EndFrame
+3012EF81 00FF
+
+[Rikimaru\Level 6-In Battle\Lightning]
+Type = Gameshark
+Activation = EndFrame
+3012EF83 00FF
+
+[Rikimaru\Level 6-In Battle\Transporter]
+Type = Gameshark
+Activation = EndFrame
+3012EF84 00FF
+
+[Rikimaru\Level 6-In Battle\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+D000E226 800B
+8012EEC0 0064
+
+[Rikimaru\Level 6-In Battle\Stealth Mode]
+Type = Gameshark
+Activation = EndFrame
+A612EF66 0000000B
+
+[Rikimaru\Level 7-In Battle\Grapling Hook]
+Type = Gameshark
+Activation = EndFrame
+301288C8 00FF
+
+[Rikimaru\Level 7-In Battle\Shuriken]
+Type = Gameshark
+Activation = EndFrame
+301288C9 00FF
+
+[Rikimaru\Level 7-In Battle\Caltraps]
+Type = Gameshark
+Activation = EndFrame
+301288CA 00FF
+
+[Rikimaru\Level 7-In Battle\Healing Potion]
+Type = Gameshark
+Activation = EndFrame
+301288CB 00FF
+
+[Rikimaru\Level 7-In Battle\Grenade]
+Type = Gameshark
+Activation = EndFrame
+301288CC 00FF
+
+[Rikimaru\Level 7-In Battle\Smoke Bomb]
+Type = Gameshark
+Activation = EndFrame
+301288CD 00FF
+
+[Rikimaru\Level 7-In Battle\Mines]
+Type = Gameshark
+Activation = EndFrame
+301288CE 00FF
+
+[Rikimaru\Level 7-In Battle\Poison Rice]
+Type = Gameshark
+Activation = EndFrame
+301288CF 00FF
+
+[Rikimaru\Level 7-In Battle\Colored Rice]
+Type = Gameshark
+Activation = EndFrame
+301288D0 00FF
+
+[Rikimaru\Level 7-In Battle\Sleeping Gas]
+Type = Gameshark
+Activation = EndFrame
+301288D1 00FF
+
+[Rikimaru\Level 7-In Battle\Resurrection Leaf]
+Type = Gameshark
+Activation = EndFrame
+301288D2 00FF
+
+[Rikimaru\Level 7-In Battle\Chameleon Spell]
+Type = Gameshark
+Activation = EndFrame
+301288D3 00FF
+
+[Rikimaru\Level 7-In Battle\Protection Amulet]
+Type = Gameshark
+Activation = EndFrame
+301288D4 00FF
+
+[Rikimaru\Level 7-In Battle\Lightfoot Scroll]
+Type = Gameshark
+Activation = EndFrame
+301288D5 00FF
+
+[Rikimaru\Level 7-In Battle\Shadow Decoy]
+Type = Gameshark
+Activation = EndFrame
+301288D6 00FF
+
+[Rikimaru\Level 7-In Battle\Super-Shuriken]
+Type = Gameshark
+Activation = EndFrame
+301288D7 00FF
+
+[Rikimaru\Level 7-In Battle\Dog Bone]
+Type = Gameshark
+Activation = EndFrame
+301288D8 00FF
+
+[Rikimaru\Level 7-In Battle\Fire Eater Scroll]
+Type = Gameshark
+Activation = EndFrame
+301288D9 00FF
+
+[Rikimaru\Level 7-In Battle\Decoy Whistle]
+Type = Gameshark
+Activation = EndFrame
+301288DA 00FF
+
+[Rikimaru\Level 7-In Battle\Ninja Armor]
+Type = Gameshark
+Activation = EndFrame
+301288DB 00FF
+
+[Rikimaru\Level 7-In Battle\Fire Bullets]
+Type = Gameshark
+Activation = EndFrame
+301288DC 00FF
+
+[Rikimaru\Level 7-In Battle\Arrows]
+Type = Gameshark
+Activation = EndFrame
+301288DD 00FF
+
+[Rikimaru\Level 7-In Battle\Lightning]
+Type = Gameshark
+Activation = EndFrame
+301288DF 00FF
+
+[Rikimaru\Level 7-In Battle\Transporter]
+Type = Gameshark
+Activation = EndFrame
+301288E0 00FF
+
+[Rikimaru\Level 7-In Battle\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+D000E226 800B
+8012881C 0064
+
+[Rikimaru\Level 7-In Battle\Stealth Mode]
+Type = Gameshark
+Activation = EndFrame
+A61288C2 0000000B
+
+[Rikimaru\Level 8-In Battle\Grapling Hook]
+Type = Gameshark
+Activation = EndFrame
+301288C8 00FF
+
+[Rikimaru\Level 8-In Battle\Shuriken]
+Type = Gameshark
+Activation = EndFrame
+301288C9 00FF
+
+[Rikimaru\Level 8-In Battle\Caltraps]
+Type = Gameshark
+Activation = EndFrame
+301288CA 00FF
+
+[Rikimaru\Level 8-In Battle\Healing Potion]
+Type = Gameshark
+Activation = EndFrame
+301288CB 00FF
+
+[Rikimaru\Level 8-In Battle\Grenade]
+Type = Gameshark
+Activation = EndFrame
+301288CC 00FF
+
+[Rikimaru\Level 8-In Battle\Smoke Bomb]
+Type = Gameshark
+Activation = EndFrame
+301288CD 00FF
+
+[Rikimaru\Level 8-In Battle\Mines]
+Type = Gameshark
+Activation = EndFrame
+301288CE 00FF
+
+[Rikimaru\Level 8-In Battle\Poison Rice]
+Type = Gameshark
+Activation = EndFrame
+301288CF 00FF
+
+[Rikimaru\Level 8-In Battle\Colored Rice]
+Type = Gameshark
+Activation = EndFrame
+301288D0 00FF
+
+[Rikimaru\Level 8-In Battle\Sleeping Gas]
+Type = Gameshark
+Activation = EndFrame
+301288D1 00FF
+
+[Rikimaru\Level 8-In Battle\Resurrection Leaf]
+Type = Gameshark
+Activation = EndFrame
+301288D2 00FF
+
+[Rikimaru\Level 8-In Battle\Chameleon Spell]
+Type = Gameshark
+Activation = EndFrame
+301288D3 00FF
+
+[Rikimaru\Level 8-In Battle\Protection Amulet]
+Type = Gameshark
+Activation = EndFrame
+301288D4 00FF
+
+[Rikimaru\Level 8-In Battle\Lightfoot Scroll]
+Type = Gameshark
+Activation = EndFrame
+301288D5 00FF
+
+[Rikimaru\Level 8-In Battle\Shadow Decoy]
+Type = Gameshark
+Activation = EndFrame
+301288D6 00FF
+
+[Rikimaru\Level 8-In Battle\Super-Shuriken]
+Type = Gameshark
+Activation = EndFrame
+301288D7 00FF
+
+[Rikimaru\Level 8-In Battle\Dog Bone]
+Type = Gameshark
+Activation = EndFrame
+301288D8 00FF
+
+[Rikimaru\Level 8-In Battle\Fire Eater Scroll]
+Type = Gameshark
+Activation = EndFrame
+301288D9 00FF
+
+[Rikimaru\Level 8-In Battle\Decoy Whistle]
+Type = Gameshark
+Activation = EndFrame
+301288DA 00FF
+
+[Rikimaru\Level 8-In Battle\Ninja Armor]
+Type = Gameshark
+Activation = EndFrame
+301288DB 00FF
+
+[Rikimaru\Level 8-In Battle\Fire Bullets]
+Type = Gameshark
+Activation = EndFrame
+301288DC 00FF
+
+[Rikimaru\Level 8-In Battle\Arrows]
+Type = Gameshark
+Activation = EndFrame
+301288DD 00FF
+
+[Rikimaru\Level 8-In Battle\Lightning]
+Type = Gameshark
+Activation = EndFrame
+301288DF 00FF
+
+[Rikimaru\Level 8-In Battle\Transporter]
+Type = Gameshark
+Activation = EndFrame
+301288E0 00FF
+
+[Rikimaru\Level 8-In Battle\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+D000E226 800B
+8012881C 0064
+
+[Rikimaru\Level 8-In Battle\Stealth Mode]
+Type = Gameshark
+Activation = EndFrame
+A61288C2 0000000B
+
+[Rikimaru\Level 9-In Battle\Grapling Hook]
+Type = Gameshark
+Activation = EndFrame
+3012E0F4 00FF
+
+[Rikimaru\Level 9-In Battle\Shuriken]
+Type = Gameshark
+Activation = EndFrame
+3012E0F5 00FF
+
+[Rikimaru\Level 9-In Battle\Caltraps]
+Type = Gameshark
+Activation = EndFrame
+3012E0F6 00FF
+
+[Rikimaru\Level 9-In Battle\Healing Potion]
+Type = Gameshark
+Activation = EndFrame
+3012E0F7 00FF
+
+[Rikimaru\Level 9-In Battle\Grenade]
+Type = Gameshark
+Activation = EndFrame
+3012E0F8 00FF
+
+[Rikimaru\Level 9-In Battle\Smoke Bomb]
+Type = Gameshark
+Activation = EndFrame
+3012E0F9 00FF
+
+[Rikimaru\Level 9-In Battle\Mines]
+Type = Gameshark
+Activation = EndFrame
+3012E0FA 00FF
+
+[Rikimaru\Level 9-In Battle\Poison Rice]
+Type = Gameshark
+Activation = EndFrame
+3012E0FB 00FF
+
+[Rikimaru\Level 9-In Battle\Colored Rice]
+Type = Gameshark
+Activation = EndFrame
+3012E0FC 00FF
+
+[Rikimaru\Level 9-In Battle\Sleeping Gas]
+Type = Gameshark
+Activation = EndFrame
+3012E0FD 00FF
+
+[Rikimaru\Level 9-In Battle\Resurrection Leaf]
+Type = Gameshark
+Activation = EndFrame
+3012E0FE 00FF
+
+[Rikimaru\Level 9-In Battle\Chameleon Spell]
+Type = Gameshark
+Activation = EndFrame
+3012E0FF 00FF
+
+[Rikimaru\Level 9-In Battle\Protection Amulet]
+Type = Gameshark
+Activation = EndFrame
+3012E100 00FF
+
+[Rikimaru\Level 9-In Battle\Lightfoot Scroll]
+Type = Gameshark
+Activation = EndFrame
+3012E101 00FF
+
+[Rikimaru\Level 9-In Battle\Shadow Decoy]
+Type = Gameshark
+Activation = EndFrame
+3012E102 00FF
+
+[Rikimaru\Level 9-In Battle\Super-Shuriken]
+Type = Gameshark
+Activation = EndFrame
+3012E103 00FF
+
+[Rikimaru\Level 9-In Battle\Dog Bone]
+Type = Gameshark
+Activation = EndFrame
+3012E104 00FF
+
+[Rikimaru\Level 9-In Battle\Fire Eater Scroll]
+Type = Gameshark
+Activation = EndFrame
+3012E105 00FF
+
+[Rikimaru\Level 9-In Battle\Decoy Whistle]
+Type = Gameshark
+Activation = EndFrame
+3012E106 00FF
+
+[Rikimaru\Level 9-In Battle\Ninja Armor]
+Type = Gameshark
+Activation = EndFrame
+3012E107 00FF
+
+[Rikimaru\Level 9-In Battle\Fire Bullets]
+Type = Gameshark
+Activation = EndFrame
+3012E108 00FF
+
+[Rikimaru\Level 9-In Battle\Arrows]
+Type = Gameshark
+Activation = EndFrame
+3012E109 00FF
+
+[Rikimaru\Level 9-In Battle\Lightning]
+Type = Gameshark
+Activation = EndFrame
+3012E10B 00FF
+
+[Rikimaru\Level 9-In Battle\Transporter]
+Type = Gameshark
+Activation = EndFrame
+3012E10C 00FF
+
+[Rikimaru\Level 9-In Battle\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+D000E226 800B
+8012E048 0064
+
+[Rikimaru\Level 9-In Battle\Stealth Mode]
+Type = Gameshark
+Activation = EndFrame
+A612E0EE 0000000B
+
+[Rikimaru\Level 10-In Battle\Grapling Hook]
+Type = Gameshark
+Activation = EndFrame
+3012E098 00FF
+
+[Rikimaru\Level 10-In Battle\Shuriken]
+Type = Gameshark
+Activation = EndFrame
+3012E099 00FF
+
+[Rikimaru\Level 10-In Battle\Caltraps]
+Type = Gameshark
+Activation = EndFrame
+3012E09A 00FF
+
+[Rikimaru\Level 10-In Battle\Healing Potion]
+Type = Gameshark
+Activation = EndFrame
+3012E09B 00FF
+
+[Rikimaru\Level 10-In Battle\Grenade]
+Type = Gameshark
+Activation = EndFrame
+3012E09C 00FF
+
+[Rikimaru\Level 10-In Battle\Smoke Bomb]
+Type = Gameshark
+Activation = EndFrame
+3012E09D 00FF
+
+[Rikimaru\Level 10-In Battle\Mines]
+Type = Gameshark
+Activation = EndFrame
+3012E09E 00FF
+
+[Rikimaru\Level 10-In Battle\Poison Rice]
+Type = Gameshark
+Activation = EndFrame
+3012E09F 00FF
+
+[Rikimaru\Level 10-In Battle\Colored Rice]
+Type = Gameshark
+Activation = EndFrame
+3012E0A0 00FF
+
+[Rikimaru\Level 10-In Battle\Sleeping Gas]
+Type = Gameshark
+Activation = EndFrame
+3012E0A1 00FF
+
+[Rikimaru\Level 10-In Battle\Resurrection Leaf]
+Type = Gameshark
+Activation = EndFrame
+3012E0A2 00FF
+
+[Rikimaru\Level 10-In Battle\Chameleon Spell]
+Type = Gameshark
+Activation = EndFrame
+3012E0A3 00FF
+
+[Rikimaru\Level 10-In Battle\Protection Amulet]
+Type = Gameshark
+Activation = EndFrame
+3012E0A4 00FF
+
+[Rikimaru\Level 10-In Battle\Lightfoot Scroll]
+Type = Gameshark
+Activation = EndFrame
+3012E0A5 00FF
+
+[Rikimaru\Level 10-In Battle\Shadow Decoy]
+Type = Gameshark
+Activation = EndFrame
+3012E0A6 00FF
+
+[Rikimaru\Level 10-In Battle\Super-Shuriken]
+Type = Gameshark
+Activation = EndFrame
+3012E0A7 00FF
+
+[Rikimaru\Level 10-In Battle\Dog Bone]
+Type = Gameshark
+Activation = EndFrame
+3012E0A8 00FF
+
+[Rikimaru\Level 10-In Battle\Fire Eater Scroll]
+Type = Gameshark
+Activation = EndFrame
+3012E0A9 00FF
+
+[Rikimaru\Level 10-In Battle\Decoy Whistle]
+Type = Gameshark
+Activation = EndFrame
+3012E0AA 00FF
+
+[Rikimaru\Level 10-In Battle\Ninja Armor]
+Type = Gameshark
+Activation = EndFrame
+3012E0AB 00FF
+
+[Rikimaru\Level 10-In Battle\Fire Bullets]
+Type = Gameshark
+Activation = EndFrame
+3012E0AC 00FF
+
+[Rikimaru\Level 10-In Battle\Arrows]
+Type = Gameshark
+Activation = EndFrame
+3012E0AD 00FF
+
+[Rikimaru\Level 10-In Battle\Lightning]
+Type = Gameshark
+Activation = EndFrame
+3012E0AF 00FF
+
+[Rikimaru\Level 10-In Battle\Transporter]
+Type = Gameshark
+Activation = EndFrame
+3012E0B0 00FF
+
+[Rikimaru\Level 10-In Battle\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+D000E226 800B
+8012DFEC 0064
+
+[Rikimaru\Level 10-In Battle\Stealth Mode]
+Type = Gameshark
+Activation = EndFrame
+A612E092 0000000B
+
+[Rikimaru\Misc.\Weapon Select Screen\Infinite Shuriken]
+Type = Gameshark
+Activation = EndFrame
+3001040D 00FD
+
+[Rikimaru\Misc.\Weapon Select Screen\Infinite Caltraps]
+Type = Gameshark
+Activation = EndFrame
+3001040E 00FD
+
+[Rikimaru\Misc.\Weapon Select Screen\Infinite Health Potions]
+Type = Gameshark
+Activation = EndFrame
+3001040F 00FD
+
+[Rikimaru\Misc.\Weapon Select Screen\Infinite Grenade]
+Type = Gameshark
+Activation = EndFrame
+30010410 00FD
+
+[Rikimaru\Misc.\Weapon Select Screen\Infinite Smoke Bomb]
+Type = Gameshark
+Activation = EndFrame
+30010411 00FD
+
+[Rikimaru\Misc.\Weapon Select Screen\Infinite Mines]
+Type = Gameshark
+Activation = EndFrame
+30010412 00FD
+
+[Rikimaru\Misc.\Weapon Select Screen\Infinite Poison Rice]
+Type = Gameshark
+Activation = EndFrame
+30010413 00FD
+
+[Rikimaru\Misc.\Weapon Select Screen\Infinite Colored Rice]
+Type = Gameshark
+Activation = EndFrame
+30010414 00FD
+
+[Rikimaru\Misc.\Weapon Select Screen\Infinite Sleeping Gas]
+Type = Gameshark
+Activation = EndFrame
+30010415 00FD
+
+[Rikimaru\Misc.\Weapon Select Screen\Infinite Resurrection Leaf]
+Type = Gameshark
+Activation = EndFrame
+30010416 00FD
+
+[Rikimaru\Misc.\Weapon Select Screen\Infinite Chameleon Spell]
+Type = Gameshark
+Activation = EndFrame
+30010417 00FD
+
+[Rikimaru\Misc.\Weapon Select Screen\Infinite Protection Amulet]
+Type = Gameshark
+Activation = EndFrame
+30010418 00FD
+
+[Rikimaru\Misc.\Weapon Select Screen\Infinite Lightfoot Scroll]
+Type = Gameshark
+Activation = EndFrame
+30010419 00FD
+
+[Rikimaru\Misc.\Weapon Select Screen\Infinite Shadow Decoy]
+Type = Gameshark
+Activation = EndFrame
+3001041A 00FD
+
+[Rikimaru\Misc.\Weapon Select Screen\Infinite Super-Shurikens]
+Type = Gameshark
+Activation = EndFrame
+3001041B 00FD
+
+[Rikimaru\Misc.\Weapon Select Screen\Infinite Dog Bones]
+Type = Gameshark
+Activation = EndFrame
+3001041C 00FD
+
+[Rikimaru\Misc.\Weapon Select Screen\Infinite Fire Eater Scroll]
+Type = Gameshark
+Activation = EndFrame
+3001041D 00FD
+
+[Rikimaru\Misc.\Weapon Select Screen\Infinite Decoy Whistle]
+Type = Gameshark
+Activation = EndFrame
+3001041E 00FD
+
+[Rikimaru\Misc.\Weapon Select Screen\Infinite Ninja Armor]
+Type = Gameshark
+Activation = EndFrame
+3001041F 00FD
+
+[Rikimaru\Misc.\Weapon Select Screen\Have All Levels]
+Type = Gameshark
+Activation = EndFrame
+30010060 000F
+
+[Rikimaru\Misc.\Grand Master Status-Records Screen\Level 1-Layout A]
+Type = Gameshark
+Activation = EndFrame
+80010064 1300
+
+[Rikimaru\Misc.\Grand Master Status-Records Screen\Level 1-Layout B]
+Type = Gameshark
+Activation = EndFrame
+80010070 1300
+
+[Rikimaru\Misc.\Grand Master Status-Records Screen\Level 1-Layout c]
+Type = Gameshark
+Activation = EndFrame
+8001007C 1300
+
+[Rikimaru\Misc.\Grand Master Status-Records Screen\Level 2-Layout A]
+Type = Gameshark
+Activation = EndFrame
+80010088 1300
+
+[Rikimaru\Misc.\Grand Master Status-Records Screen\Level 2-Layout B]
+Type = Gameshark
+Activation = EndFrame
+80010094 1300
+
+[Rikimaru\Misc.\Grand Master Status-Records Screen\Level 2-Layout c]
+Type = Gameshark
+Activation = EndFrame
+800100A0 1300
+
+[Rikimaru\Misc.\Grand Master Status-Records Screen\Level 3-Layout A]
+Type = Gameshark
+Activation = EndFrame
+800100AC 1300
+
+[Rikimaru\Misc.\Grand Master Status-Records Screen\Level 3-Layout B]
+Type = Gameshark
+Activation = EndFrame
+800100B8 1300
+
+[Rikimaru\Misc.\Grand Master Status-Records Screen\Level 3-Layout c]
+Type = Gameshark
+Activation = EndFrame
+800100C4 1300
+
+[Rikimaru\Misc.\Grand Master Status-Records Screen\Level 4-Layout A]
+Type = Gameshark
+Activation = EndFrame
+800101A8 1300
+
+[Rikimaru\Misc.\Grand Master Status-Records Screen\Level 4-Layout B]
+Type = Gameshark
+Activation = EndFrame
+800101B4 1300
+
+[Rikimaru\Misc.\Grand Master Status-Records Screen\Level 4-Layout c]
+Type = Gameshark
+Activation = EndFrame
+800101C0 1300
+
+[Rikimaru\Misc.\Grand Master Status-Records Screen\Level 5-Layout A]
+Type = Gameshark
+Activation = EndFrame
+800101CC 1300
+
+[Rikimaru\Misc.\Grand Master Status-Records Screen\Level 5-Layout B]
+Type = Gameshark
+Activation = EndFrame
+800101D8 1300
+
+[Rikimaru\Misc.\Grand Master Status-Records Screen\Level 5-Layout c]
+Type = Gameshark
+Activation = EndFrame
+800101E4 1300
+
+[Rikimaru\Misc.\Grand Master Status-Records Screen\Level 6-Layout A]
+Type = Gameshark
+Activation = EndFrame
+800100D0 1300
+
+[Rikimaru\Misc.\Grand Master Status-Records Screen\Level 6-Layout B]
+Type = Gameshark
+Activation = EndFrame
+800100DC 1300
+
+[Rikimaru\Misc.\Grand Master Status-Records Screen\Level 6-Layout c]
+Type = Gameshark
+Activation = EndFrame
+800100E8 1300
+
+[Rikimaru\Misc.\Grand Master Status-Records Screen\Level 7-Layout A]
+Type = Gameshark
+Activation = EndFrame
+800100F4 1300
+
+[Rikimaru\Misc.\Grand Master Status-Records Screen\Level 7-Layout B]
+Type = Gameshark
+Activation = EndFrame
+80010100 1300
+
+[Rikimaru\Misc.\Grand Master Status-Records Screen\Level 7-Layout c]
+Type = Gameshark
+Activation = EndFrame
+8001010C 1300
+
+[Rikimaru\Misc.\Grand Master Status-Records Screen\Level 8-Layout A]
+Type = Gameshark
+Activation = EndFrame
+80010118 1300
+
+[Rikimaru\Misc.\Grand Master Status-Records Screen\Level 8-Layout B]
+Type = Gameshark
+Activation = EndFrame
+80010124 1300
+
+[Rikimaru\Misc.\Grand Master Status-Records Screen\Level 8-Layout c]
+Type = Gameshark
+Activation = EndFrame
+80010130 1300
+
+[Rikimaru\Misc.\Grand Master Status-Records Screen\Level 9-Layout A]
+Type = Gameshark
+Activation = EndFrame
+8001013C 1300
+
+[Rikimaru\Misc.\Grand Master Status-Records Screen\Level 9-Layout B]
+Type = Gameshark
+Activation = EndFrame
+80010148 1300
+
+[Rikimaru\Misc.\Grand Master Status-Records Screen\Level 9-Layout c]
+Type = Gameshark
+Activation = EndFrame
+80010154 1300
+
+[Rikimaru\Misc.\Grand Master Status-Records Screen\Level 10-Layout A]
+Type = Gameshark
+Activation = EndFrame
+80010160 1300
+
+[Rikimaru\Misc.\Grand Master Status-Records Screen\Level 10-Layout B]
+Type = Gameshark
+Activation = EndFrame
+8001016C 1300
+
+[Rikimaru\Misc.\Grand Master Status-Records Screen\Level 10-Layout c]
+Type = Gameshark
+Activation = EndFrame
+80010178 1300
+
+[Rikimaru\Misc.\Grand Master Status-Records Screen\Training]
+Type = Gameshark
+Activation = EndFrame
+80010184 1300
+
+[Rikimaru\Training Level-In Battle\00.00 Time]
+Type = Gameshark
+Activation = EndFrame
+90095358 00000000
+
+[Rikimaru\Training Level-In Battle\Grapling Hook]
+Type = Gameshark
+Activation = EndFrame
+30125244 00FF
+
+[Rikimaru\Training Level-In Battle\Shuriken]
+Type = Gameshark
+Activation = EndFrame
+30125245 00FF
+
+[Rikimaru\Training Level-In Battle\Caltraps]
+Type = Gameshark
+Activation = EndFrame
+30125246 00FF
+
+[Rikimaru\Training Level-In Battle\Healing Potion]
+Type = Gameshark
+Activation = EndFrame
+30125247 00FF
+
+[Rikimaru\Training Level-In Battle\Grenade]
+Type = Gameshark
+Activation = EndFrame
+30125248 00FF
+
+[Rikimaru\Training Level-In Battle\Smoke Bomb]
+Type = Gameshark
+Activation = EndFrame
+30125249 00FF
+
+[Rikimaru\Training Level-In Battle\Mines]
+Type = Gameshark
+Activation = EndFrame
+3012524A 00FF
+
+[Rikimaru\Training Level-In Battle\Poison Rice]
+Type = Gameshark
+Activation = EndFrame
+3012524B 00FF
+
+[Rikimaru\Training Level-In Battle\Colored Rice]
+Type = Gameshark
+Activation = EndFrame
+3012524C 00FF
+
+[Rikimaru\Training Level-In Battle\Sleeping Gas]
+Type = Gameshark
+Activation = EndFrame
+3012524D 00FF
+
+[Rikimaru\Training Level-In Battle\Resurrection Leaf]
+Type = Gameshark
+Activation = EndFrame
+3012524E 00FF
+
+[Rikimaru\Training Level-In Battle\Chameleon Spell]
+Type = Gameshark
+Activation = EndFrame
+3012524F 00FF
+
+[Rikimaru\Training Level-In Battle\Protection Amulet]
+Type = Gameshark
+Activation = EndFrame
+30125250 00FF
+
+[Rikimaru\Training Level-In Battle\Lightfoot Scroll]
+Type = Gameshark
+Activation = EndFrame
+30125251 00FF
+
+[Rikimaru\Training Level-In Battle\Shadow Decoy]
+Type = Gameshark
+Activation = EndFrame
+30125252 00FF
+
+[Rikimaru\Training Level-In Battle\Super-Shuriken]
+Type = Gameshark
+Activation = EndFrame
+30125253 00FF
+
+[Rikimaru\Training Level-In Battle\Dog Bone]
+Type = Gameshark
+Activation = EndFrame
+30125254 00FF
+
+[Rikimaru\Training Level-In Battle\Fire Eater Scroll]
+Type = Gameshark
+Activation = EndFrame
+30125255 00FF
+
+[Rikimaru\Training Level-In Battle\Decoy Whistle]
+Type = Gameshark
+Activation = EndFrame
+30125256 00FF
+
+[Rikimaru\Training Level-In Battle\Ninja Armor]
+Type = Gameshark
+Activation = EndFrame
+30125257 00FF
+
+[Rikimaru\Training Level-In Battle\Fire Bullets]
+Type = Gameshark
+Activation = EndFrame
+30125258 00FF
+
+[Rikimaru\Training Level-In Battle\Arrows]
+Type = Gameshark
+Activation = EndFrame
+30125259 00FF
+
+[Rikimaru\Training Level-In Battle\Lightning]
+Type = Gameshark
+Activation = EndFrame
+3012525B 00FF
+
+[Rikimaru\Training Level-In Battle\Transporter]
+Type = Gameshark
+Activation = EndFrame
+3012525C 00FF
+
+[Both Characters\Ultimate Code .With this code, infinite items equipped on the weapon select screen plus you can remove the items to add to shelves...that way you have a large supply....also it increases the amount of items you carry as well!]
+Type = Gameshark
+Activation = EndFrame
+80050D8C 0008
+
+[Both Characters\No Remaining Limit]
+Type = Gameshark
+Activation = EndFrame
+A61FFDF8 00010000
+
+[Both Characters\Infinite Items]
+Type = Gameshark
+Activation = EndFrame
+80047F42 2400
+
+[Both Characters\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+C000E226 800B
+8001D2D6 2411
+8001DCC2 2411
+00000000 FFFF
+
+[Both Characters\Have All Items]
+Type = Gameshark
+Activation = EndFrame
+50001301 0000
+3001040D 0063
+50001301 0000
+3001042D 0063
+
+[Both Characters\Debug Menu Activator .With this code, press L2 + R2 while in the game to goto the Debug Menu!]
+Type = Gameshark
+Activation = EndFrame
+80095AC8 000A
+
+[Both Characters\Expert Mode Complete]
+Type = Gameshark
+Activation = EndFrame
+50001302 0000
+801E95D8 FFFF
+
+[Both Characters\Grand Master Status-Records Screen (Level 1-10 - Layout A-C)]
+Type = Gameshark
+Activation = EndFrame
+80010238 1300
+80010244 1300
+80010250 1300
+8001025C 1300
+80010268 1300
+80010274 1300
+80010280 1300
+8001028C 1300
+80010298 1300
+8001037C 1300
+80010388 1300
+80010394 1300
+800103A0 1300
+800103AC 1300
+800103B8 1300
+800102A4 1300
+800102B0 1300
+800102BC 1300
+800102C8 1300
+800102D4 1300
+800102E0 1300
+800102EC 1300
+800102F8 1300
+80010304 1300
+80010310 1300
+8001031C 1300
+80010328 1300
+80010334 1300
+80010340 1300
+8001034C 1300
+80010358 1300
+80010064 1300
+80010070 1300
+8001007C 1300
+80010088 1300
+80010094 1300
+800100A0 1300
+800100AC 1300
+800100B8 1300
+800100C4 1300
+800101A8 1300
+800101B4 1300
+800101C0 1300
+800101CC 1300
+800101D8 1300
+800101E4 1300
+800100D0 1300
+800100DC 1300
+800100E8 1300
+800100F4 1300
+80010100 1300
+8001010C 1300
+80010118 1300
+80010124 1300
+80010130 1300
+8001013C 1300
+80010148 1300
+80010154 1300
+80010160 1300
+8001016C 1300
+80010178 1300
+80010184 1300
+
+[Both Characters\Secret Customes]
+Type = Gameshark
+Activation = EndFrame
+8001001A 00FF
+
+[Both Characters\Japanese Voices In Most Levels + Levels Layout Open]
+Type = Gameshark
+Activation = EndFrame
+80010048 00FF
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A70C4108 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A70C4108 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A70C4108 10000400
+

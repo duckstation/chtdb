@@ -1,0 +1,107 @@
+; CHTDB: ; [ Alien Trilogy (USA) (1996) (Acclaim Entertainment) {SLUS-00007} <alientri> ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8009A040 03E7
+
+[Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+8009A042 03E7
+
+[Infinite Charge Grenades]
+Type = Gameshark
+Activation = EndFrame
+8009A058 03E7
+
+[Infinite Handgun Bullets]
+Type = Gameshark
+Activation = EndFrame
+8009A046 03E7
+
+[Infinite Shotgun Bullets]
+Type = Gameshark
+Activation = EndFrame
+8009A04A 03E7
+
+[Infinite Flame Thrower Rounds]
+Type = Gameshark
+Activation = EndFrame
+8009A052 03E7
+
+[Infinite Pulse Riffle Rounds]
+Type = Gameshark
+Activation = EndFrame
+8009A04C 03E7
+
+[Infinite Pulse Rifle Grenades]
+Type = Gameshark
+Activation = EndFrame
+8009A050 03E7
+
+[Infinite Smart Gun Rounds]
+Type = Gameshark
+Activation = EndFrame
+8009A054 03E7
+
+[Infinite Batteries]
+Type = Gameshark
+Activation = EndFrame
+8009A05A 03E7
+
+[Infinite Boots]
+Type = Gameshark
+Activation = EndFrame
+8009A044 03E7
+
+[Have Shotgun]
+Type = Gameshark
+Activation = EndFrame
+8008F33E 0029
+
+[Have Flame Thrower]
+Type = Gameshark
+Activation = EndFrame
+8008F34A 0029
+
+[Have Pulse Rifle]
+Type = Gameshark
+Activation = EndFrame
+8008F342 0029
+
+[Have Smart Gun]
+Type = Gameshark
+Activation = EndFrame
+8008F346 0029
+
+[Have Auto Mapper]
+Type = Gameshark
+Activation = EndFrame
+8009A03C 03E7
+
+[Rapid Firer]
+Type = Gameshark
+Activation = EndFrame
+8009A024 0001
+
+[Infinite Shoulder Lights]
+Type = Gameshark
+Activation = EndFrame
+8009A05C 0014
+
+[Infinite Night Vision]
+Type = Gameshark
+Activation = EndFrame
+8009A060 0014
+
+[Destroy All Barriers+Barrels Instantly]
+Type = Gameshark
+Activation = EndFrame
+A7032B6E 10601400
+
+[Have Cheat Option (Main Menu)]
+Type = Gameshark
+Activation = EndFrame
+8008CDA8 0380
+

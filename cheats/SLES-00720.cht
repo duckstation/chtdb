@@ -1,0 +1,28 @@
+; CHTDB: ; [ Tomb Raider II: Starring Lara Croft (Germany) {SLES-00720} ]
+
+[Level beenden(Drücke L2 & R2 & Start)]
+Type = Gameshark
+Activation = EndFrame
+D008C602 FCF7
+30089E88 0001
+
+[Unendlich Luft]
+Type = Gameshark
+Activation = EndFrame
+8008C66E 0708
+
+[Unendlich Fackeln]
+Type = Gameshark
+Activation = EndFrame
+30088C72 0063
+
+[Unendlich Grosse Medipacks]
+Type = Gameshark
+Activation = EndFrame
+30088C74 0063
+
+[Unendlich Kleine Medipacks]
+Type = Gameshark
+Activation = EndFrame
+30088C76 0063
+

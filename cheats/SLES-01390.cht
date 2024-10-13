@@ -1,0 +1,44 @@
+; CHTDB: ; [ Tail Concerto (France) {SLES-01390} ]
+
+[Energie Infinie]
+Type = Gameshark
+Activation = EndFrame
+800CAE64 0064
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800CAE76 00FE
+
+[Infinite Fuel]
+Type = Gameshark
+Activation = EndFrame
+800CAE62 012C
+
+[Total Time = 00.00]
+Type = Gameshark
+Activation = EndFrame
+900D1A04 00000000
+
+[Infinite Whistles]
+Type = Gameshark
+Activation = EndFrame
+300D19EB 0063
+
+[All Pictures]
+Type = Gameshark
+Activation = EndFrame
+50000F01 0000
+300D19A8 000F
+
+[Moon Jumps]
+Type = Gameshark
+Activation = EndFrame
+E00B2560 0040
+800CAD58 3000
+
+[Unlock All Extras]
+Type = Gameshark
+Activation = EndFrame
+300D19B7 000F
+

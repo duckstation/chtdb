@@ -1,0 +1,32 @@
+; CHTDB: ; [ Gunbird (Jpn) (1995) (Atlus) {SLPS-00157} <gunbird> ]
+
+[P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801783C8 0003
+
+[P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80178448 0003
+
+[P1 Infinite Bombs]
+Type = Gameshark
+Activation = EndFrame
+801783CC 0002
+
+[P2 Infinite Bombs]
+Type = Gameshark
+Activation = EndFrame
+8017844C 0002
+
+[P1 Invincibility]
+Type = Gameshark
+Activation = EndFrame
+801783E6 0078
+
+[P2 Invincibility]
+Type = Gameshark
+Activation = EndFrame
+80178466 0078
+

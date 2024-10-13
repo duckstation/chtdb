@@ -1,0 +1,12 @@
+; CHTDB: ; [ R (Japan) {SLPS-02047} ]
+
+[Have All 5 Group Members]
+Type = Gameshark
+Activation = EndFrame
+80066AB1 0010
+
+[Max Score]
+Type = Gameshark
+Activation = EndFrame
+80066AB0 270F
+

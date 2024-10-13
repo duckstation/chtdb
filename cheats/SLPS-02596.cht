@@ -1,0 +1,12 @@
+; CHTDB: ; [ Gale Gunner (Japan) {SLPS-02596} ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800D3B19 0100
+
+[Gun Does Not Overheat]
+Type = Gameshark
+Activation = EndFrame
+800E0ABC 0009
+

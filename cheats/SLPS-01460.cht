@@ -1,0 +1,38 @@
+; CHTDB: ; [ Yuuwaku Office Ren'ai-ka (Japan) {SLPS-01460} ]
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+8018370C 03E7
+
+[Knowledge Max]
+Type = Gameshark
+Activation = EndFrame
+801D30DC 03E7
+
+[Physical fitness Max]
+Type = Gameshark
+Activation = EndFrame
+801D30E0 03E7
+
+[Social Max]
+Type = Gameshark
+Activation = EndFrame
+801D30E4 03E7
+
+[Appearance Max]
+Type = Gameshark
+Activation = EndFrame
+801D30EC 03E7
+
+[Sense Max]
+Type = Gameshark
+Activation = EndFrame
+801D30F0 03E7
+
+[Infinite Money (99999)]
+Type = Gameshark
+Activation = EndFrame
+8018375C 0001
+8018375C 869F
+

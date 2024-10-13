@@ -1,0 +1,17 @@
+; CHTDB: ; [ Shaolin (Europe) {SLES-01658} ]
+
+[Infinite Health Vs Mode]
+Type = Gameshark
+Activation = EndFrame
+8016DF04 0200
+
+[Infinite + Max Copper]
+Type = Gameshark
+Activation = EndFrame
+80186F76 869F
+
+[Infinite Heath Story Mode]
+Type = Gameshark
+Activation = EndFrame
+8016DF04 006E
+

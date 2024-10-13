@@ -1,0 +1,145 @@
+; CHTDB: ; [ WWF SmackDown! 2 - Know Your Role (USA) (2000) (THQ) {SLUS-01234} <wwfsmac2> ]
+
+[Human Players Infinite Specials]
+Type = Gameshark
+Activation = EndFrame
+D00BA4A8 0101
+800BA5A0 0005
+D00C68A8 0101
+800C69A0 0005
+D00D2CA8 0101
+800D2DA0 0005
+D00DF0A8 0101
+800DF1A0 0005
+
+[Computer Players No Specials]
+Type = Gameshark
+Activation = EndFrame
+D00BA4A8 0000
+800BA5A0 0000
+D00C68A8 0000
+800C69A0 0000
+D00D2CA8 0000
+800D2DA0 0000
+D00DF0A8 0000
+800DF1A0 0000
+
+[Infinite Ability Points]
+Type = Gameshark
+Activation = EndFrame
+A70EB21A AC822400
+A70EB2DA AC822400
+A70EB39A AC822400
+A70EAB82 AE502400
+
+[Characters Unlocked]
+Type = Gameshark
+Activation = EndFrame
+80093878 FFFF
+8009387E FFFF
+
+[Match Options Unlocked]
+Type = Gameshark
+Activation = EndFrame
+80093886 FFFF
+
+[Entrance Music Unlocked]
+Type = Gameshark
+Activation = EndFrame
+80093D28 FFFF
+80093D2C FFFF
+
+[Top Left Infinite Specials]
+Type = Gameshark
+Activation = EndFrame
+800BA5A0 0005
+
+[Top Right Infinite Specials]
+Type = Gameshark
+Activation = EndFrame
+800C69A0 0005
+
+[Bottom Left Infinite Specials]
+Type = Gameshark
+Activation = EndFrame
+800D2DA0 0005
+
+[Bottom Right Infinite Specials]
+Type = Gameshark
+Activation = EndFrame
+800DF1A0 0005
+
+[All Caw Parts Unlocked]
+Type = Gameshark
+Activation = EndFrame
+50000802 0000
+80092000 FFFF
+
+[Unlock All Wrestlers]
+Type = Gameshark
+Activation = EndFrame
+80093878 FFFF
+8009387E FFFF
+80093880 FFFF
+
+[Advanced Enable All Wrestlers\Part 1 (Must Always Be On)]
+Type = Gameshark
+Activation = EndFrame
+A60A08F8 20006942
+A60A0B2C 20006942
+A60A119C 20006942
+A60A25C4 20006942
+A60A3C48 20006942
+A60A6A08 20006942
+
+[Advanced Enable All Wrestlers\Part 2 (Must Always Be On)]
+Type = Gameshark
+Activation = EndFrame
+A60A0BE8 2000654B
+A60A0E1C 2000654B
+A60A148C 2000654B
+A60A28B4 2000654B
+A60A3F38 2000654B
+A60A6CF8 2000654B
+
+[Advanced Enable All Wrestlers\Part 3 (Must Always Be On)]
+Type = Gameshark
+Activation = EndFrame
+50000402 0000
+80093878 FFFF
+30093880 000F
+E0096318 0007
+30096366 0000
+E0096324 0007
+30096366 0000
+E0096330 0007
+30096366 0000
+E009633C 0007
+30096366 0000
+
+[Advanced Enable All Wrestlers\Part 4 (This Code Only Required Once)]
+Type = Gameshark
+Activation = EndFrame
+50000302 0000
+80093D48 0B0B
+30093D43 000C
+50004402 0001
+8009D350 0000
+50000A02 0001
+80093DD8 00C8
+
+[Widescreen 16-9 (In-Game/Demo)]
+Type = Gameshark
+Activation = EndFrame
+80021668 0C00
+
+[Widescreen 16-9 (Create A Superstar)]
+Type = Gameshark
+Activation = EndFrame
+80110DF4 0C00
+
+[Widescreen 16-9 (Create A Taunt)]
+Type = Gameshark
+Activation = EndFrame
+80100520 0C00
+

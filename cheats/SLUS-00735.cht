@@ -1,0 +1,76 @@
+; CHTDB: ; [ NHL 99 (USA) (1998) (Electronic Arts) {SLUS-00735} <nhl99> ]
+
+[Infinite Creation Points]
+Type = Gameshark
+Activation = EndFrame
+A60B8434 0013E121
+A60B8436 04410802
+
+[Select Home Team Score\9]
+Type = Gameshark
+Activation = EndFrame
+80042656 0009
+
+[Select Home Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+80042656 0000
+
+[Select Away Team Score\9]
+Type = Gameshark
+Activation = EndFrame
+80042690 0009
+
+[Select Away Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+80042690 0000
+
+[Home Team Goals Scores 9]
+Type = Gameshark
+Activation = EndFrame
+80074930 0009
+
+[Home Team Goals Scores 0]
+Type = Gameshark
+Activation = EndFrame
+80074930 0000
+
+[Away Team Goals Scores 9]
+Type = Gameshark
+Activation = EndFrame
+8007496C 0009
+
+[Away Team Goals Scores 0]
+Type = Gameshark
+Activation = EndFrame
+8007496C 0000
+
+[No Fatigue]
+Type = Gameshark
+Activation = EndFrame
+D00B8DA4 001A
+800B8DA6 2400
+D00B8FCC 001A
+800B8FCE 2400
+
+[Activate Cheat Big Heads]
+Type = Gameshark
+Activation = EndFrame
+30042650 0002
+
+[Activate Cheat Big Heads And Big Players]
+Type = Gameshark
+Activation = EndFrame
+30042650 0004
+
+[Activate Cheat Small Players]
+Type = Gameshark
+Activation = EndFrame
+30042650 0008
+
+[Activate Cheat Speedy]
+Type = Gameshark
+Activation = EndFrame
+30042650 0100
+

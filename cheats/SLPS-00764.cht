@@ -1,0 +1,17 @@
+; CHTDB: ; [ Rockman: Battle & Chase (Japan) {SLPS-00764} ]
+
+[Maximum Speed]
+Type = Gameshark
+Activation = EndFrame
+8013A4A2 0200
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800B63D6 012C
+
+[No Lap]
+Type = Gameshark
+Activation = EndFrame
+8016635E 0004
+

@@ -1,0 +1,46 @@
+; CHTDB: ; [ Jade Cocoon: Story of the Tamamayu (Europe) {SLES-02201} ]
+
+[Money]
+Type = Gameshark
+Activation = EndFrame
+8008B524 FFFF
+
+[50 Empties]
+Type = Gameshark
+Activation = EndFrame
+8008B7A8 0032
+
+[Levant - Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+9008BCD0 03E703E7
+
+[1st Minion - Infinite Hp&Mp]
+Type = Gameshark
+Activation = EndFrame
+9008BF14 03E703E7
+9008BF18 03E703E7
+
+[2nd Minion - Infinite Hp&Mp]
+Type = Gameshark
+Activation = EndFrame
+9008C00C 03E703E7
+9008C010 03E703E7
+
+[3rd Minion - Infinite Hp&Mp]
+Type = Gameshark
+Activation = EndFrame
+9008C104 03E703E7
+9008C108 03E703E7
+
+[Infinite Items all positions]
+Type = Gameshark
+Activation = EndFrame
+900AD378 24020063
+800AD37E A042
+
+[Infinite Usage All Items]
+Type = Gameshark
+Activation = EndFrame
+800AD3FA 2400
+

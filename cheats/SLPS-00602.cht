@@ -1,0 +1,57 @@
+; CHTDB: ; [ Deserted Island (Japan) {SLPS-00602} ]
+
+[All Stats At Maximum Main Character]
+Type = Gameshark
+Activation = EndFrame
+801AE58E 03E7
+901AE590 03E703E7
+901AE594 03E703E7
+901AE588 03E703E7
+801AE58C 03E7
+
+[Infinite HP All Members Of The Group]
+Type = Gameshark
+Activation = EndFrame
+80161DC2 0064
+80161DFE 0064
+80161E3A 0064
+80161E76 0064
+80161EB2 0064
+
+[HP in combat enemy 0]
+Type = Gameshark
+Activation = EndFrame
+80158C20 0000
+
+[Achievement Points Max]
+Type = Gameshark
+Activation = EndFrame
+301AE54E 00FF
+
+[Number of days elapsed]
+Type = Gameshark
+Activation = EndFrame
+801AE56A 03E8
+
+[All discovery rate Max]
+Type = Gameshark
+Activation = EndFrame
+301AE570 0064
+
+[Slaughter animals Max]
+Type = Gameshark
+Activation = EndFrame
+801AE572 03E8
+
+[Museum magazine + 01h]
+Type = Gameshark
+Activation = EndFrame
+30161F00 00FF
+80161F9E 00FF
+
+[Map All + 01h]
+Type = Gameshark
+Activation = EndFrame
+301674FC 0000
+3016812B 0000
+

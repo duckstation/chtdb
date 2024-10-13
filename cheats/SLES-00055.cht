@@ -1,0 +1,57 @@
+; CHTDB: ; [ Descent (Europe) {SLES-00055} ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800D1816 0064
+
+[Infinite Shields]
+Type = Gameshark
+Activation = EndFrame
+800D181A 0064
+
+[All Keys & 4X Laser]
+Type = Gameshark
+Activation = EndFrame
+800D1810 06FF
+
+[Max. Laser-End-Value]
+Type = Gameshark
+Activation = EndFrame
+800D181E 0006
+
+[All Primary-Weapons Active]
+Type = Gameshark
+Activation = EndFrame
+800D1822 FFFF
+
+[Concussion-Missiles]
+Type = Gameshark
+Activation = EndFrame
+800D182E 000F
+
+[Homing-Missiles]
+Type = Gameshark
+Activation = EndFrame
+800D1830 000F
+
+[Proximity-Bombs]
+Type = Gameshark
+Activation = EndFrame
+800D1832 000F
+
+[Smart Missiles]
+Type = Gameshark
+Activation = EndFrame
+800D1834 000F
+
+[Mega Missiles]
+Type = Gameshark
+Activation = EndFrame
+800D1836 000F
+
+[Infinite Vulcano Ammo]
+Type = Gameshark
+Activation = EndFrame
+800D1826 9684
+

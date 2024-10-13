@@ -1,0 +1,37 @@
+; CHTDB: ; [ Shadow Tower (USA) (1999) (Agetec) {SLUS-00863} <shadwtwr> ]
+
+[Infinite Duration All Equipped Items]
+Type = Gameshark
+Activation = EndFrame
+8003D262 2400
+
+[Status Always Normal]
+Type = Gameshark
+Activation = EndFrame
+80198F54 0000
+
+[Max HP]
+Type = Gameshark
+Activation = EndFrame
+80198F28 2AED
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+80198F2A 2AED
+
+[Max MP]
+Type = Gameshark
+Activation = EndFrame
+80198F2C 2AED
+
+[Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+80198F2E 2AED
+
+[Infinite SP]
+Type = Gameshark
+Activation = EndFrame
+80198F30 2AED
+

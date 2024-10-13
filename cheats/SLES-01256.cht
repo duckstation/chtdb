@@ -1,0 +1,255 @@
+; CHTDB: ; [ Alundra (Germany) {SLES-01256} ]
+
+[Unendlich Health]
+Type = Gameshark
+Activation = EndFrame
+30127D44 0032
+
+[Max Health]
+Type = Gameshark
+Activation = EndFrame
+30127D48 0032
+
+[Unendlich Geld]
+Type = Gameshark
+Activation = EndFrame
+801EB834 270F
+
+[Unsichtbar]
+Type = Gameshark
+Activation = EndFrame
+80127EFC 0002
+
+[Alle SchlüSsel]
+Type = Gameshark
+Activation = EndFrame
+301EB934 0063
+301EB994 0001
+301EB99C 0001
+
+[Unendlich Magie]
+Type = Gameshark
+Activation = EndFrame
+301EB830 0004
+
+[Max Magie]
+Type = Gameshark
+Activation = EndFrame
+301EB832 0004
+
+[Besitze Weidenbogen]
+Type = Gameshark
+Activation = EndFrame
+301EB858 0001
+
+[Besitze Zauberstab]
+Type = Gameshark
+Activation = EndFrame
+301EB85C 0001
+
+[Besitze Legend Schwert]
+Type = Gameshark
+Activation = EndFrame
+301EB860 0001
+
+[Besitze Eisen-Morgenstern]
+Type = Gameshark
+Activation = EndFrame
+301EB864 0001
+
+[Besitze Eisstab]
+Type = Gameshark
+Activation = EndFrame
+301EB868 0001
+
+[Besitze Feuerstab]
+Type = Gameshark
+Activation = EndFrame
+301EB878 0001
+
+[Besitze 99 Falken]
+Type = Gameshark
+Activation = EndFrame
+301EB83A 0063
+
+[Besitze Bombe]
+Type = Gameshark
+Activation = EndFrame
+301EB83A 0001
+
+[HöHer Springen (.Je länger man den X-Knopf gedrückt hält, um so höher wird Alundra springen. Zum steuern die Richtungsknöpfe in der Luft drücken.)]
+Type = Gameshark
+Activation = EndFrame
+D0126F28 0040
+80127DEA 0003
+
+[Warp Tore Offen]
+Type = Gameshark
+Activation = EndFrame
+301EB3F6 00FF
+
+[3 TüRen Beim Imp Tempel]
+Type = Gameshark
+Activation = EndFrame
+901EB3DC 00110400
+
+[Items\HeilkräUter (.Bei den Item-Codes... Nur die aktivieren, die man auch wirklich braucht. Nicht alle auf einmal. Danach abspeichern und nicht mehr aktivieren.)]
+Type = Gameshark
+Activation = EndFrame
+301EB8D0 0001
+
+[Items\StäRkungselixier .Bei den Item-Codes... Nur die aktivieren, die man auch wirklich braucht. Nicht alle auf einmal. Danach abspeichern und nicht mehr aktivieren.]
+Type = Gameshark
+Activation = EndFrame
+301EB8D4 0001
+
+[Items\Zaubertrank .Bei den Item-Codes... Nur die aktivieren, die man auch wirklich braucht. Nicht alle auf einmal. Danach abspeichern und nicht mehr aktivieren.]
+Type = Gameshark
+Activation = EndFrame
+301EB8D8 0001
+
+[Items\Wunderextrakt .Bei den Item-Codes... Nur die aktivieren, die man auch wirklich braucht. Nicht alle auf einmal. Danach abspeichern und nicht mehr aktivieren.]
+Type = Gameshark
+Activation = EndFrame
+301EB8DC 0001
+
+[Items\Wasserumhang .Bei den Item-Codes... Nur die aktivieren, die man auch wirklich braucht. Nicht alle auf einmal. Danach abspeichern und nicht mehr aktivieren.]
+Type = Gameshark
+Activation = EndFrame
+301EB8E0 0001
+
+[Items\Krafttrank .Bei den Item-Codes... Nur die aktivieren, die man auch wirklich braucht. Nicht alle auf einmal. Danach abspeichern und nicht mehr aktivieren.]
+Type = Gameshark
+Activation = EndFrame
+301EB8E4 0001
+
+[Items\Erdschriftrolle .Bei den Item-Codes... Nur die aktivieren, die man auch wirklich braucht. Nicht alle auf einmal. Danach abspeichern und nicht mehr aktivieren.]
+Type = Gameshark
+Activation = EndFrame
+301EB8EC 0001
+
+[Items\Erdbuch .Bei den Item-Codes... Nur die aktivieren, die man auch wirklich braucht. Nicht alle auf einmal. Danach abspeichern und nicht mehr aktivieren.]
+Type = Gameshark
+Activation = EndFrame
+301EB8F0 0001
+
+[Items\Aquaschriftrolle .Bei den Item-Codes... Nur die aktivieren, die man auch wirklich braucht. Nicht alle auf einmal. Danach abspeichern und nicht mehr aktivieren.]
+Type = Gameshark
+Activation = EndFrame
+301EB8F4 0001
+
+[Items\Wasserbuch .Bei den Item-Codes... Nur die aktivieren, die man auch wirklich braucht. Nicht alle auf einmal. Danach abspeichern und nicht mehr aktivieren.]
+Type = Gameshark
+Activation = EndFrame
+301EB8F8 0001
+
+[Items\Feuerschriftrolle .Bei den Item-Codes... Nur die aktivieren, die man auch wirklich braucht. Nicht alle auf einmal. Danach abspeichern und nicht mehr aktivieren.]
+Type = Gameshark
+Activation = EndFrame
+301EB8FC 0001
+
+[Items\Feuerbuch .Bei den Item-Codes... Nur die aktivieren, die man auch wirklich braucht. Nicht alle auf einmal. Danach abspeichern und nicht mehr aktivieren.]
+Type = Gameshark
+Activation = EndFrame
+301EB900 0001
+
+[Items\Windschriftrolle .Bei den Item-Codes... Nur die aktivieren, die man auch wirklich braucht. Nicht alle auf einmal. Danach abspeichern und nicht mehr aktivieren.]
+Type = Gameshark
+Activation = EndFrame
+301EB904 0001
+
+[Items\Windbuch .Bei den Item-Codes... Nur die aktivieren, die man auch wirklich braucht. Nicht alle auf einmal. Danach abspeichern und nicht mehr aktivieren.]
+Type = Gameshark
+Activation = EndFrame
+301EB908 0001
+
+[Items\Olgas Ring .Bei den Item-Codes... Nur die aktivieren, die man auch wirklich braucht. Nicht alle auf einmal. Danach abspeichern und nicht mehr aktivieren.]
+Type = Gameshark
+Activation = EndFrame
+301EB90C 0001
+
+[Items\Oaks Ring .Bei den Item-Codes... Nur die aktivieren, die man auch wirklich braucht. Nicht alle auf einmal. Danach abspeichern und nicht mehr aktivieren.]
+Type = Gameshark
+Activation = EndFrame
+301EB910 0001
+
+[Items\Armband Silber .Bei den Item-Codes... Nur die aktivieren, die man auch wirklich braucht. Nicht alle auf einmal. Danach abspeichern und nicht mehr aktivieren.]
+Type = Gameshark
+Activation = EndFrame
+301EB914 0001
+
+[Items\Naras Zauber .Bei den Item-Codes... Nur die aktivieren, die man auch wirklich braucht. Nicht alle auf einmal. Danach abspeichern und nicht mehr aktivieren.]
+Type = Gameshark
+Activation = EndFrame
+301EB918 0001
+
+[Items\Heil-Ring .Bei den Item-Codes... Nur die aktivieren, die man auch wirklich braucht. Nicht alle auf einmal. Danach abspeichern und nicht mehr aktivieren.]
+Type = Gameshark
+Activation = EndFrame
+301EB91C 0001
+
+[Items\Auffrischer .Bei den Item-Codes... Nur die aktivieren, die man auch wirklich braucht. Nicht alle auf einmal. Danach abspeichern und nicht mehr aktivieren.]
+Type = Gameshark
+Activation = EndFrame
+301EB920 0001
+
+[Items\Krafthandschuh .Bei den Item-Codes... Nur die aktivieren, die man auch wirklich braucht. Nicht alle auf einmal. Danach abspeichern und nicht mehr aktivieren.]
+Type = Gameshark
+Activation = EndFrame
+301EB92C 0001
+
+[Items\AufzugschlüSsel .Bei den Item-Codes... Nur die aktivieren, die man auch wirklich braucht. Nicht alle auf einmal. Danach abspeichern und nicht mehr aktivieren.]
+Type = Gameshark
+Activation = EndFrame
+301EB930 0001
+
+[Items\Rubin-Wappen .Bei den Item-Codes... Nur die aktivieren, die man auch wirklich braucht. Nicht alle auf einmal. Danach abspeichern und nicht mehr aktivieren.]
+Type = Gameshark
+Activation = EndFrame
+301EB938 0001
+
+[Items\Saphir-Wappen .Bei den Item-Codes... Nur die aktivieren, die man auch wirklich braucht. Nicht alle auf einmal. Danach abspeichern und nicht mehr aktivieren.]
+Type = Gameshark
+Activation = EndFrame
+301EB93C 0001
+
+[Items\Topas-Wappen .Bei den Item-Codes... Nur die aktivieren, die man auch wirklich braucht. Nicht alle auf einmal. Danach abspeichern und nicht mehr aktivieren.]
+Type = Gameshark
+Activation = EndFrame
+301EB940 0001
+
+[Items\Achat-Wappen .Bei den Item-Codes... Nur die aktivieren, die man auch wirklich braucht. Nicht alle auf einmal. Danach abspeichern und nicht mehr aktivieren.]
+Type = Gameshark
+Activation = EndFrame
+301EB944 0001
+
+[Items\Granat-Wappen .Bei den Item-Codes... Nur die aktivieren, die man auch wirklich braucht. Nicht alle auf einmal. Danach abspeichern und nicht mehr aktivieren.]
+Type = Gameshark
+Activation = EndFrame
+301EB948 0001
+
+[Items\Smaragd-Wappen .Bei den Item-Codes... Nur die aktivieren, die man auch wirklich braucht. Nicht alle auf einmal. Danach abspeichern und nicht mehr aktivieren.]
+Type = Gameshark
+Activation = EndFrame
+301EB94C 0001
+
+[Items\Blumenstrauß .Bei den Item-Codes... Nur die aktivieren, die man auch wirklich braucht. Nicht alle auf einmal. Danach abspeichern und nicht mehr aktivieren.]
+Type = Gameshark
+Activation = EndFrame
+301EB968 0001
+
+[Items\SchlüSsel Klein .Bei den Item-Codes... Nur die aktivieren, die man auch wirklich braucht. Nicht alle auf einmal. Danach abspeichern und nicht mehr aktivieren.]
+Type = Gameshark
+Activation = EndFrame
+301EB96C 0001
+
+[Items\Brief Von Jess .Bei den Item-Codes... Nur die aktivieren, die man auch wirklich braucht. Nicht alle auf einmal. Danach abspeichern und nicht mehr aktivieren.]
+Type = Gameshark
+Activation = EndFrame
+301EB970 0001
+
+[Items\Passierschein]
+Type = Gameshark
+Activation = EndFrame
+301EB924 0001
+

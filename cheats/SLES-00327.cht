@@ -1,0 +1,45 @@
+; CHTDB: ; [ WipEout 2097 (Europe) {SLES-00327} ]
+
+[Checkpoint Time Infinite]
+Type = Gameshark
+Activation = EndFrame
+80095814 05DC
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8003747C 0000
+80037490 0000
+800374EC 0000
+80037584 0000
+
+[Vector-mode Only one lap to race / always first]
+Type = Gameshark
+Activation = EndFrame
+30039B64 0002
+
+[Vector-mod Instant win]
+Type = Gameshark
+Activation = EndFrame
+30039B64 0003
+
+[Rapier-mode Only one lap to race / always first]
+Type = Gameshark
+Activation = EndFrame
+30039B64 0004
+
+[Rapier-mode Instant win]
+Type = Gameshark
+Activation = EndFrame
+30039B64 0005
+
+[Phantom- & Piranha-mode Only one lap to race / always first]
+Type = Gameshark
+Activation = EndFrame
+30039B64 0005
+
+[Phantom- & Piranha-mode Instant win]
+Type = Gameshark
+Activation = EndFrame
+30039B64 0006
+

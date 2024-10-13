@@ -1,0 +1,167 @@
+; CHTDB: ; [ Rampage 2 - Universal Tour (USA) (1999) (Midway Home Entertainment) {SLUS-00742} <rampage2> ]
+
+[Curtis\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801E0DA2 0044
+
+[Curtis\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801E0D9C 0005
+
+[Curtis\Always Have Super Move]
+Type = Gameshark
+Activation = EndFrame
+801E0DAA 0044
+
+[Curtis\Invincibility]
+Type = Gameshark
+Activation = EndFrame
+801E0ED8 0001
+
+[Boris\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801E0FC2 0044
+
+[Boris\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801E0FBC 0005
+
+[Boris\Always Have Super Move]
+Type = Gameshark
+Activation = EndFrame
+801E0FCA 0044
+
+[Boris\Invincibility]
+Type = Gameshark
+Activation = EndFrame
+801E10F8 0001
+
+[Ruby\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801E11E2 0044
+
+[Ruby\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801E11DC 0005
+
+[Ruby\Always Have Super Move]
+Type = Gameshark
+Activation = EndFrame
+801E11EA 0044
+
+[Ruby\Invincibility]
+Type = Gameshark
+Activation = EndFrame
+801E1318 0001
+
+[George\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801E1402 0044
+
+[George\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801E13FC 0005
+
+[George\Always Have Super Move]
+Type = Gameshark
+Activation = EndFrame
+801E140A 0044
+
+[George\Invincibility]
+Type = Gameshark
+Activation = EndFrame
+801E1538 0001
+
+[Lizzie\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801E1622 0044
+
+[Lizzie\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801E161C 0005
+
+[Lizzie\Always Have Super Move]
+Type = Gameshark
+Activation = EndFrame
+801E162A 0044
+
+[Lizzie\Invincibility]
+Type = Gameshark
+Activation = EndFrame
+801E1758 0001
+
+[Ralph\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801E1842 0044
+
+[Ralph\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801E183C 0005
+
+[Ralph\Always Have Super Move]
+Type = Gameshark
+Activation = EndFrame
+801E184A 0044
+
+[Ralph\Invincibility]
+Type = Gameshark
+Activation = EndFrame
+801E1978 0001
+
+[Myukus\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801E1A62 0044
+
+[Myukus\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801E1A5C 0005
+
+[Myukus\Always Have Super Move]
+Type = Gameshark
+Activation = EndFrame
+801E1A6A 0044
+
+[Myukus\Invincibility]
+Type = Gameshark
+Activation = EndFrame
+801E1B98 0001
+
+[Enable George]
+Type = Gameshark
+Activation = EndFrame
+801F9A4A 0000
+
+[Enable Lizzie]
+Type = Gameshark
+Activation = EndFrame
+801F9A4C 0000
+
+[Enable Ralph]
+Type = Gameshark
+Activation = EndFrame
+801F9A4E 0000
+
+[Enable Myukus]
+Type = Gameshark
+Activation = EndFrame
+801F9A50 0000
+
+[Infinite Time (Bonus Round)]
+Type = Gameshark
+Activation = EndFrame
+8007BD8C 002E
+

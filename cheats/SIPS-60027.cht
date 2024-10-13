@@ -1,0 +1,97 @@
+; CHTDB: ; [ Nightmare Creatures (Japan) {SIPS-60027} ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+300CD936 0063
+
+[Infinite Adrenaline]
+Type = Gameshark
+Activation = EndFrame
+80057232 2400
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8004FC40 2400
+
+[Cheat menu Enable]
+Type = Gameshark
+Activation = EndFrame
+801FFFA2 00FF
+301FFF85 0030
+301FFF86 0001
+
+[99 Mine]
+Type = Gameshark
+Activation = EndFrame
+300CD990 0063
+
+[99 Medicine bottle]
+Type = Gameshark
+Activation = EndFrame
+300CD992 0063
+
+[99 Snowflake]
+Type = Gameshark
+Activation = EndFrame
+300CD994 0063
+
+[99 Dynamite]
+Type = Gameshark
+Activation = EndFrame
+300CD996 0063
+
+[99 Thunder]
+Type = Gameshark
+Activation = EndFrame
+300CD998 0063
+
+[99 Torch]
+Type = Gameshark
+Activation = EndFrame
+300CD99A 0063
+
+[99 Big gun]
+Type = Gameshark
+Activation = EndFrame
+300CD99C 0063
+
+[99 Cutter]
+Type = Gameshark
+Activation = EndFrame
+300CD99E 0063
+
+[99 Ball of light (large)]
+Type = Gameshark
+Activation = EndFrame
+300CD9A0 0063
+
+[99 Ball of light (small)]
+Type = Gameshark
+Activation = EndFrame
+300CD9A2 0063
+
+[99 Skull]
+Type = Gameshark
+Activation = EndFrame
+300CD9A4 0063
+
+[99 Small gun]
+Type = Gameshark
+Activation = EndFrame
+300CD9A6 0063
+
+[Development staff room]
+Type = Gameshark
+Activation = EndFrame
+301FFF85 0040
+
+[Last Boss HP=0]
+Type = Gameshark
+Activation = EndFrame
+D017A1A2 001E
+8017A192 0000
+D0178B52 001E
+80178B42 0000
+

@@ -1,0 +1,57 @@
+; CHTDB: ; [ Zen-Nihon Pro Wrestling - Ouja no Kon (Jpn) (1999) (Human) {SLPS-01849} <znpwok> ]
+
+[Stop Time]
+Type = Gameshark
+Activation = EndFrame
+800870D4 0000
+
+[Max Stamina]
+Type = Gameshark
+Activation = EndFrame
+3003E5D6 00FF
+
+[Max Bump]
+Type = Gameshark
+Activation = EndFrame
+3003E5D7 00FF
+
+[Max Resist]
+Type = Gameshark
+Activation = EndFrame
+3003E5D8 00FF
+
+[Max Technical]
+Type = Gameshark
+Activation = EndFrame
+3003E5D9 00FF
+
+[Max Finish]
+Type = Gameshark
+Activation = EndFrame
+3003E5DA 00FF
+
+[Slow Motion]
+Type = Gameshark
+Activation = EndFrame
+8003F72C 785F
+
+[Infinite Practice Point in 5 Winner Mode]
+Type = Gameshark
+Activation = EndFrame
+8004F898 0000
+
+[P1 Infinite SP]
+Type = Gameshark
+Activation = EndFrame
+800A7090 0400
+
+[P1 Always Play as Akira Hokuto]
+Type = Gameshark
+Activation = EndFrame
+8004724C 000D
+
+[P2 Infinite SP]
+Type = Gameshark
+Activation = EndFrame
+800A713C 0400
+

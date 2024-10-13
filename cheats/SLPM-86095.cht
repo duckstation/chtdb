@@ -1,0 +1,48 @@
+; CHTDB: ; [ The King of Fighters Kyo (Jpn) (1998) (SNK) {SLPM-86095} <kofkyo> ]
+
+[Story Mode Infinite 1P HP]
+Type = Gameshark
+Activation = EndFrame
+8015A0AC 0080
+
+[Story Mode Max 1P Power]
+Type = Gameshark
+Activation = EndFrame
+9015A0A8 00800080
+
+[Story Mode Fast Kill Computer]
+Type = Gameshark
+Activation = EndFrame
+8015A1AC 0000
+
+[Story Mode Computer No Power]
+Type = Gameshark
+Activation = EndFrame
+8015A1A8 0000
+
+[Vs Mode Max 1P Power]
+Type = Gameshark
+Activation = EndFrame
+80131088 0080
+
+[Vs Mode Infinite 1P HP]
+Type = Gameshark
+Activation = EndFrame
+8013108C 0080
+
+[Vs Mode Max 2P Power]
+Type = Gameshark
+Activation = EndFrame
+80131188 0080
+
+[Vs Mode Infinite 2P HP]
+Type = Gameshark
+Activation = EndFrame
+8013118C 0080
+
+[All Characters]
+Type = Gameshark
+Activation = EndFrame
+900AAD9C FFFFFFFF
+800AADA0 FFFF
+

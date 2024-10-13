@@ -1,0 +1,73 @@
+; CHTDB: ; [ TOCA World Touring Cars (Euro) (2000) (The Codemasters Software Company) {SLES-02572, SLES-02572/P} <tocawtc> ]
+
+[Activate Bonuses Menu Always Open]
+Type = Gameshark
+Activation = EndFrame
+300A1778 0001
+
+[only one lap to race / always first]
+Type = Gameshark
+Activation = EndFrame
+D00F936E 0003
+300F936C 0003
+D00F936E 0004
+300F936C 0004
+D00F936E 0005
+300F936C 0005
+D00F936E 0006
+300F936C 0006
+D00F936E 0008
+300F936C 0008
+
+[Always 6 races won]
+Type = Gameshark
+Activation = EndFrame
+30059279 0006
+
+[Always get 100 points per season]
+Type = Gameshark
+Activation = EndFrame
+D10592C0 0000
+800592C0 0064
+
+[Other drivers can't score]
+Type = Gameshark
+Activation = EndFrame
+50000B04 0000
+800592C4 0000
+
+[Max career-points]
+Type = Gameshark
+Activation = EndFrame
+D105938C 0000
+8005938C 02C6
+
+[All boni available (Press L1 & L2 & R1 & R2)]
+Type = Gameshark
+Activation = EndFrame
+D0054056 F0FF
+800581C8 FFFF
+
+[Time trial stop timer]
+Type = Gameshark
+Activation = EndFrame
+80057A0C 00CF
+
+[Auto Pilot - Press x & Select]
+Type = Gameshark
+Activation = EndFrame
+D0053E58 4001
+800F938A 0100
+
+[Auto Pilot Deactivate - Press Select]
+Type = Gameshark
+Activation = EndFrame
+D0053E58 0001
+800F938A 1030
+
+[Nitro Boost - Press x & Up]
+Type = Gameshark
+Activation = EndFrame
+D0053E58 4010
+800FD1D2 0001
+

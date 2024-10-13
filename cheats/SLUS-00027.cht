@@ -1,0 +1,85 @@
+; CHTDB: ; [ Blood Omen - Legacy of Kain (USA) (1996) (Crystal Dynamics) {SLUS-00027, SLUS-00027CE} <kain> ]
+
+[Max Blood Line]
+Type = Gameshark
+Activation = EndFrame
+801CAA76 0190
+
+[Lok Invincibility (Almost Complete)]
+Type = Gameshark
+Activation = EndFrame
+800A7EA4 0001
+
+[Save Anywhere]
+Description = Press O+X
+Type = Gameshark
+Activation = EndFrame
+C00A83C4 0060
+801CAAF8 2C00
+801CAB04 0001
+00000000 FFFF
+
+[Lok Infinite Blood (With this code, you have to switch the effects down to die at the beginning and any other time you are supposed to die!! and you have to turn them downwhen you drink from a fountain.. otherwise there will be an infinite loop started until you shut the effects off!)]
+Type = Gameshark
+Activation = EndFrame
+901CAA74 01900190
+
+[Lok Infinite Magic]
+Type = Gameshark
+Activation = EndFrame
+801CAA7A 0059
+
+[Have All Blood Fountain Power-Up Enhancements]
+Type = Gameshark
+Activation = EndFrame
+901CAB28 01010303
+300A7D85 0001
+
+[Almost All Enemies Will Die or Be In Submission After One Hit]
+Type = Gameshark
+Activation = EndFrame
+500017A4 0000
+800B8728 FFFE
+500013A4 0000
+800B95E6 FFFE
+
+[Walk through Walls/Fences/Trees]
+Description = Dont go off the screen. Allows you to walk through onscreen blockages too
+Type = Gameshark
+Activation = EndFrame
+A7010B64 8BAC8DA4
+A7010B80 8BAC8DA4
+A7028A32 12201000
+
+[Walk across Spikes]
+Type = Gameshark
+Activation = EndFrame
+A7010B74 8A988DA4
+A7010CB0 9F44A388
+
+[Walk safely through Rain]
+Type = Gameshark
+Activation = EndFrame
+A7030A3A 14401400
+A703D956 14511000
+
+[Walk safely through Water]
+Type = Gameshark
+Activation = EndFrame
+A70253BA 10621400
+A70253C2 14621000
+
+[Invincibility Sword/Axes/Skeletons]
+Type = Gameshark
+Activation = EndFrame
+A703030A 10401000
+A702D886 14C21000
+A7029A02 10601000
+A7028C92 10601000
+
+[Invincibility Dagger Throwers]
+Type = Gameshark
+Activation = EndFrame
+A7047E06 10801000
+A704E28A 10601000
+

@@ -1,0 +1,12 @@
+; CHTDB: ; [ Yu-Gi-Oh! Forbidden Memories (Spain) {SLES-03951} ]
+
+[Infinite LP Player]
+Type = Gameshark
+Activation = EndFrame
+800EB28C 270F
+
+[Opponent has no energy]
+Type = Gameshark
+Activation = EndFrame
+800EB2AC 0000
+

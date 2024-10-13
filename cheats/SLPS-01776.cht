@@ -1,0 +1,44 @@
+; CHTDB: ; [ Super Hero Sakusen (Japan) {SLPS-01776} ]
+
+[Infinite HP in battle Gundam]
+Type = Gameshark
+Activation = EndFrame
+801BD150 0833
+
+[Infinite HP in battle 2nd Gundam (Girl)]
+Type = Gameshark
+Activation = EndFrame
+801BD428 03E7
+
+[Infinite HP in battle W Gundam]
+Type = Gameshark
+Activation = EndFrame
+801BD3F0 03E7
+
+[Maximum Gold]
+Type = Gameshark
+Activation = EndFrame
+901D9FE4 000F423F
+
+[No Random Battles]
+Type = Gameshark
+Activation = EndFrame
+800575C2 AC60
+
+[The MAX status when you level-up]
+Type = Gameshark
+Activation = EndFrame
+8002EDCC 0001
+8002EDFC 0001
+8002EE08 03E7
+8002EE2C 0001
+8002EE5C 0001
+8002EE8C 0001
+8002EEBC 0001
+8002EEEC 0001
+
+[Power of the attack to be given to the enemy]
+Type = Gameshark
+Activation = EndFrame
+801E36BC 03E7
+

@@ -1,0 +1,30 @@
+; CHTDB: ; [ Gussun Paradise (Japan) {SLPS-00588} ]
+
+[Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+80031C5E 0063
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80031C5C 0063
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+D0073628 0007
+8007362A 1400
+D006F810 0007
+8006F812 1400
+D00713D0 0007
+800713D2 1400
+D008339C 0007
+8008339E 1400
+D008A420 0007
+8008A422 1400
+D00642C8 0007
+800642CA 1400
+D00A3758 0007
+800A375A 1400
+

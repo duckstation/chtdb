@@ -1,0 +1,32 @@
+; CHTDB: ; [ Arcade Gears: Pu·Li·Ru·La (Japan) {SLPS-00928} ]
+
+[P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800BF03A 0004
+
+[P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800BF0B6 0004
+
+[P1 Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800BF038 000C
+
+[P2 Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800BF0B4 000C
+
+[P1 Infinite Magic]
+Type = Gameshark
+Activation = EndFrame
+800BF03C 0005
+
+[P2 Infinite Magic]
+Type = Gameshark
+Activation = EndFrame
+800BF0B8 0005
+

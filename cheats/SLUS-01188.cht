@@ -1,0 +1,17 @@
+; CHTDB: ; [ Woody Woodpecker Racing (USA) (2000) (Konami of America) {SLUS-01188} <woodyrac> ]
+
+[P1 Always 1st Place]
+Type = Gameshark
+Activation = EndFrame
+800305A4 0000
+
+[P1 Always Low Timer]
+Type = Gameshark
+Activation = EndFrame
+800860AC 0000
+
+[P2 Always 1st Place]
+Type = Gameshark
+Activation = EndFrame
+8015F598 0000
+

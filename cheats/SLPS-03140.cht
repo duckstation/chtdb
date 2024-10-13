@@ -1,0 +1,50 @@
+; CHTDB: ; [ Volfoss (Jpn) (2001) (Namco) {SLPS-03140} <volfoss> ]
+
+[Infinite HP 1st Character(Shalvas)]
+Type = Gameshark
+Activation = EndFrame
+800FF28E 270F
+
+[Infinite SP 1st Character(Shalvas)]
+Type = Gameshark
+Activation = EndFrame
+800FF290 0063
+
+[Infinite HP 2nd Character]
+Type = Gameshark
+Activation = EndFrame
+800FF55E 270F
+
+[Money 999,999]
+Type = Gameshark
+Activation = EndFrame
+900F9314 000F423F
+
+[Infinite Skill Points]
+Type = Gameshark
+Activation = EndFrame
+8018BEF2 0060
+80158096 1400
+80158146 0060
+
+[All ITEM 99 pieces]
+Type = Gameshark
+Activation = EndFrame
+A6157104 14000063
+A6157106 90422403
+D0157100 1021
+80157108 1400
+D0157102 0044
+8015710A A043
+
+[Not move Infinite action / enemy SEL + L2]
+Description = Infinite Behavior Not move enemy = SEL + R2. SEL + L2 + R2 = Normal
+Type = Gameshark
+Activation = EndFrame
+D0035518 0101
+80154A92 1400
+D0035518 0102
+80154A92 1000
+D0035518 0103
+80154A92 1440
+

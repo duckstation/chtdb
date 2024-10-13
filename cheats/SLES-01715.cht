@@ -1,0 +1,37 @@
+; CHTDB: ; [ Eagle One: Harrier Attack (Europe) {SLES-01715} ]
+
+[Infinite Armour]
+Type = Gameshark
+Activation = EndFrame
+801B8DCA 0260
+
+[Infinite Fuel]
+Type = Gameshark
+Activation = EndFrame
+801B8E66 0100
+
+[No Damage For Own Units]
+Type = Gameshark
+Activation = EndFrame
+301B0673 0047
+
+[Infinite Sidewinders]
+Type = Gameshark
+Activation = EndFrame
+800393C8 0000
+
+[Infinite Vultures]
+Type = Gameshark
+Activation = EndFrame
+80033B3C 0000
+
+[Infinite Mavericks]
+Type = Gameshark
+Activation = EndFrame
+80039524 0000
+
+[All missions unlocked]
+Type = Gameshark
+Activation = EndFrame
+30112130 0005
+

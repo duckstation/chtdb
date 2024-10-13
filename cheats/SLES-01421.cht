@@ -1,0 +1,39 @@
+; CHTDB: ; [ Formula 1 98 (Europe) Rev 1 {SLES-01421} ]
+
+[Infinite Time arcade mode]
+Type = Gameshark
+Activation = EndFrame
+801C27C0 EA60
+
+[Have Extra Tracks]
+Type = Gameshark
+Activation = EndFrame
+80010B78 0060
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+8003BE88 0000
+
+[No time limit]
+Type = Gameshark
+Activation = EndFrame
+801C24B4 EFFE
+
+[Timer 00.00.00]
+Type = Gameshark
+Activation = EndFrame
+A60AB822 AF82AF80
+
+[Infinite Checkpoint time]
+Type = Gameshark
+Activation = EndFrame
+D003BE88 0124
+9003BE88 00000000
+
+[Advanced grip]
+Type = Gameshark
+Activation = EndFrame
+A609C49E A223A220
+A60AEE80 00020000
+

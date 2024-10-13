@@ -1,0 +1,56 @@
+; CHTDB: ; [ King's Field (USA) (1995) (ASCII Entertainment Software) {SLUS-00158} <kingsfld> ]
+
+[Infinite TP]
+Type = Gameshark
+Activation = EndFrame
+80199426 00FA
+80199428 00FA
+
+[Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+8019942A 00FA
+8019942C 00FA
+
+[Quick Weapon Access]
+Type = Gameshark
+Activation = EndFrame
+8019942E 1388
+
+[Quick Magic Access]
+Type = Gameshark
+Activation = EndFrame
+80199432 1388
+
+[Much Gold 50000]
+Type = Gameshark
+Activation = EndFrame
+80199440 C350
+
+[High Power]
+Type = Gameshark
+Activation = EndFrame
+80199438 0064
+
+[High Magicpower]
+Type = Gameshark
+Activation = EndFrame
+8019943E 0064
+
+[Mega Offensive]
+Type = Gameshark
+Activation = EndFrame
+90199444 00640064
+90199448 00640064
+9019944C 00640064
+90199450 00640064
+
+[Mega Defensive]
+Type = Gameshark
+Activation = EndFrame
+80199456 0064
+90199458 00640064
+9019945C 00640064
+90199460 00640064
+90199464 00640064
+

@@ -1,0 +1,51 @@
+; CHTDB: ; [ BursTrick - Wake Boarding!! (USA) (2000) (Natsume) {SLUS-01317} <burstrck> ]
+
+[Stop Timer]
+Type = Gameshark
+Activation = EndFrame
+801E333E 0DA1
+
+[Start On Last Lap Obstacle Only]
+Type = Gameshark
+Activation = EndFrame
+A61E33C6 00000002
+
+[Infinite Bt]
+Type = Gameshark
+Activation = EndFrame
+800A5212 0009
+
+[Max Points]
+Type = Gameshark
+Activation = EndFrame
+901E33A4 000F423F
+901E33A8 000F423F
+901E33B8 000F423F
+
+[Infinite Tries]
+Type = Gameshark
+Activation = EndFrame
+300A4620 0002
+
+[Add Time (Press L1 + R1)]
+Type = Gameshark
+Activation = EndFrame
+D00A46EC 000C
+801E333E 0A57
+
+[Super Boat Speed (Press R2)]
+Type = Gameshark
+Activation = EndFrame
+E00A46EC 0002
+801D76BC FFFF
+
+[Unlock Ten]
+Type = Gameshark
+Activation = EndFrame
+801E6A56 0001
+
+[Unlock All Boards]
+Type = Gameshark
+Activation = EndFrame
+801E6A58 0101
+

@@ -1,0 +1,118 @@
+; CHTDB: ; [ Black Matrix Zero OO (Jpn, Shokai Genteiban) (2004) (NEC Interchannel) {SLPS-03571~SLPS-03572} <blackmt0> ]
+
+[Infinite HP Cain (main character) Stage 1]
+Type = Gameshark
+Activation = EndFrame
+8006FC50 03E7
+8006FC46 03E7
+
+[Infinite PP Cain (main character) Stage 1]
+Type = Gameshark
+Activation = EndFrame
+8006FC52 03E7
+8006FC48 03E7
+
+[Infinite HP character 2 Stage 1]
+Type = Gameshark
+Activation = EndFrame
+8006FCCC 03E7
+8006FCC2 03E7
+
+[Infinite PP character 2 Stage 1]
+Type = Gameshark
+Activation = EndFrame
+8006FCCE 03E7
+8006FCC4 03E7
+
+[Infinite HP Main Character Stage 2]
+Type = Gameshark
+Activation = EndFrame
+8006F490 03E7
+8006F486 03E7
+
+[Infinite PP Main Character Stage 2]
+Type = Gameshark
+Activation = EndFrame
+8006F488 03E7
+8006F492 03E7
+
+[Money 999999]
+Type = Gameshark
+Activation = EndFrame
+901C05D4 0001869F
+
+[Item 99]
+Type = Gameshark
+Activation = EndFrame
+50000B02 0000
+8006F3B0 6363
+50001302 0000
+8006F448 6363
+50001B02 0000
+8006F2A8 6363
+
+[Infinite Action possible]
+Type = Gameshark
+Activation = EndFrame
+C016F578 005B
+9016F560 849A001A
+9016F570 375AF090
+9016F574 A49A001A
+00000000 FFFF
+
+[Save possible before the battle menu, even save command no lit]
+Type = Gameshark
+Activation = EndFrame
+D01588F0 0048
+8015892A 1000
+
+[Circus mini-games 99 pieces game, at one time success distribute leaflets]
+Type = Gameshark
+Activation = EndFrame
+D016F1FC 0FB4
+9016F204 24020063
+
+[Circus mini-games 50 times achieved game, once success throwing knife]
+Type = Gameshark
+Activation = EndFrame
+D0172C0C 0B86
+90172C04 24020032
+
+[Circus mini-games Success juggler game, on the command button ? roll]
+Type = Gameshark
+Activation = EndFrame
+C01751EC 0056
+80175226 A600
+8017522E 2404
+00000000 FFFF
+
+[Circus mini-games Tightrope game, not collapse balance]
+Type = Gameshark
+Activation = EndFrame
+D01785F8 0063
+80178A56 A600
+
+[Circus mini-games 99 performance tightrope game, once success]
+Type = Gameshark
+Activation = EndFrame
+D01785F8 0063
+80178600 0063
+
+[Circus mini-games Lion game, Invincibility]
+Type = Gameshark
+Activation = EndFrame
+D017CA20 0028
+8017CA22 1000
+
+[Circus mini-games Spotlight game, once 40 points]
+Type = Gameshark
+Activation = EndFrame
+D01801A8 053A
+90180198 24030028
+
+[Circus mini-games Trapeze game, once 40 points]
+Type = Gameshark
+Activation = EndFrame
+D018297C 053A
+90182978 24020028
+

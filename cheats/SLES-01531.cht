@@ -1,0 +1,32 @@
+; CHTDB: ; [ Big Air (Europe) {SLES-01531} ]
+
+[Timer Always 0]
+Type = Gameshark
+Activation = EndFrame
+8006AC24 0000
+
+[Max Score]
+Type = Gameshark
+Activation = EndFrame
+8007BCAC FFFF
+
+[Always Finish First]
+Type = Gameshark
+Activation = EndFrame
+3006BA60 0000
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A706B6E0 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A706B6E0 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A706B6E0 10000400
+

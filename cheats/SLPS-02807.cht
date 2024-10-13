@@ -1,0 +1,82 @@
+; CHTDB: ; [ Urawaza Mahjong - Korette Tenhoutte Yatsukai (Jpn) (2000) (Spike) {SLPS-02807} <urawazmj> ]
+
+[Have 99999 points]
+Type = Gameshark
+Activation = EndFrame
+90095598 0001869F
+
+[Opponent 1 has 0 points]
+Type = Gameshark
+Activation = EndFrame
+800955B8 0000
+
+[Opponent 2 has 0 points]
+Type = Gameshark
+Activation = EndFrame
+800955D8 0000
+
+[Opponent 3 has 0 points]
+Type = Gameshark
+Activation = EndFrame
+800955F8 0000
+
+[Opponent In The Gaming Room And All Available Mah-Jongg Parlor]
+Type = Gameshark
+Activation = EndFrame
+8002EA96 FFFF
+
+[Select Stage\The first story, Hen OKERA (works with a memory card save in the story mode)]
+Type = Gameshark
+Activation = EndFrame
+30035FC0 0001
+
+[Select Stage\The second story,Dan Mahjong Hen BEE debauchery (works with a memory card save in the story mode)]
+Type = Gameshark
+Activation = EndFrame
+30035FC0 0002
+
+[Select Stage\The third story, Temple Hen (works with a memory card save in the story mode)]
+Type = Gameshark
+Activation = EndFrame
+30035FC0 0003
+
+[Select Stage\The Fourth Partly cloudy GENROKUKONBI Hen (works with a memory card save in the story mode)]
+Type = Gameshark
+Activation = EndFrame
+30035FC0 0004
+
+[Select Stage\The Fifth The secret membership Mahjong Hen (works with a memory card save in the story mode)]
+Type = Gameshark
+Activation = EndFrame
+30035FC0 0005
+
+[Select Stage\The sixth The hen house (works with a memory card save in the story mode)]
+Type = Gameshark
+Activation = EndFrame
+30035FC0 0006
+
+[Select Stage\The Seventh Katsura Bar Hen (works with a memory card save in the story mode)]
+Type = Gameshark
+Activation = EndFrame
+30035FC0 0007
+
+[Select Stage\The Eight Hen (works with a memory card save in the story mode)]
+Type = Gameshark
+Activation = EndFrame
+30035FC0 0008
+
+[Select Stage\The Ninth Hen Cottage (works with a memory card save in the story mode)]
+Type = Gameshark
+Activation = EndFrame
+30035FC0 0009
+
+[Select Stage\The final story, Hen firelight (works with a memory card save in the story mode)]
+Type = Gameshark
+Activation = EndFrame
+30035FC0 000A
+
+[Select Stage\Chidori Hen (works with a memory card save in the story mode)]
+Type = Gameshark
+Activation = EndFrame
+30035FC0 000B
+

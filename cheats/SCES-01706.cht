@@ -1,0 +1,62 @@
+; CHTDB: ; [ Ridge Racer Type 4 (Europe) {SCES-01706} ]
+
+[Infinite Chances]
+Type = Gameshark
+Activation = EndFrame
+800AD4E4 0303
+
+[Unlock All Cars (Look At Garage)]
+Type = Gameshark
+Activation = EndFrame
+50002002 0000
+800F3930 FFFF
+
+[Unlock All Courses]
+Type = Gameshark
+Activation = EndFrame
+800F392C FFFF
+300F3974 0001
+900F3978 01010101
+
+[Complete Extra Trial]
+Type = Gameshark
+Activation = EndFrame
+900F397C 01010101
+
+[Finish Each Lap With A Time Less Than One Second]
+Type = Gameshark
+Activation = EndFrame
+800F4BA8 0001
+800F4BAC 0001
+800F4BB0 0001
+
+[No Time Limit On Tracks]
+Type = Gameshark
+Activation = EndFrame
+800AC5A4 3AAA
+
+[V/Max Always At 400 Km/H]
+Type = Gameshark
+Activation = EndFrame
+800AC0D0 0B6F
+
+[Accelerator Stuck On Full]
+Type = Gameshark
+Activation = EndFrame
+800AC18E 00FF
+
+[Super Accelerator Stuck On Full]
+Type = Gameshark
+Activation = EndFrame
+800AC18E 0FFF
+
+[Turbo Charge Mode]
+Type = Gameshark
+Activation = EndFrame
+800AC17A FFFF
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+8006E134 0E00
+

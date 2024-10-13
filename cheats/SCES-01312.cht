@@ -1,0 +1,87 @@
+; CHTDB: ; [ Devil Dice (Europe) {SCES-01312} ]
+
+[Infinite Steps in puzzle mode]
+Type = Gameshark
+Activation = EndFrame
+8017C678 0009
+
+[P1 Infinite Energy - War Mode]
+Type = Gameshark
+Activation = EndFrame
+8017C580 0063
+
+[Have Gallery Picture 1]
+Type = Gameshark
+Activation = EndFrame
+801357E8 0001
+
+[Have Gallery Picture 2]
+Type = Gameshark
+Activation = EndFrame
+801357EC 0001
+
+[Have Gallery Picture 3]
+Type = Gameshark
+Activation = EndFrame
+801357F0 0001
+
+[Have Gallery Picture 4]
+Type = Gameshark
+Activation = EndFrame
+801357F4 0001
+
+[Have Gallery Picture 5]
+Type = Gameshark
+Activation = EndFrame
+801357F8 0001
+
+[Have Gallery Picture 6]
+Type = Gameshark
+Activation = EndFrame
+801357FC 0001
+
+[Have Gallery Picture 7]
+Type = Gameshark
+Activation = EndFrame
+80135800 0001
+
+[Have Gallery Picture 8]
+Type = Gameshark
+Activation = EndFrame
+80135804 0001
+
+[Have Gallery Picture 9]
+Type = Gameshark
+Activation = EndFrame
+80135808 0001
+
+[Have Gallery Picture 10]
+Type = Gameshark
+Activation = EndFrame
+8013580C 0001
+
+[Have Gallery Picture 11]
+Type = Gameshark
+Activation = EndFrame
+80135810 0001
+
+[Have Gallery Picture 12]
+Type = Gameshark
+Activation = EndFrame
+80135814 0001
+
+[Have Gallery Picture 13]
+Type = Gameshark
+Activation = EndFrame
+80135818 0001
+
+[Have Gallery Picture 14]
+Type = Gameshark
+Activation = EndFrame
+8013581C 0001
+
+[Have Gallery Picture 15]
+Type = Gameshark
+Activation = EndFrame
+80135820 0001
+

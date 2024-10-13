@@ -1,0 +1,883 @@
+; CHTDB: ; [ Armored Core - Project Phantasma (USA) (1998) (ASCII Entertainment Software) {SLUS-00670} <armcopp> ]
+
+[Infinite Cash]
+Type = Gameshark
+Activation = EndFrame
+8003BCD2 0020
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80042506 CB20
+
+[Infinite Armor (Arena Mode Only)]
+Type = Gameshark
+Activation = EndFrame
+D0041578 0001
+800734F0 CD5A
+
+[Right Arm\Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+800427D8 03E7
+
+[Back Weapon\Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+80042816 0064
+80042854 0064
+
+[Have All Heads]
+Type = Gameshark
+Activation = EndFrame
+900342F0 01010101
+900342F4 01010101
+800342F8 0101
+
+[Have All Cores]
+Type = Gameshark
+Activation = EndFrame
+80034302 0101
+80034304 0502
+
+[Have All Arms]
+Type = Gameshark
+Activation = EndFrame
+3003430D 0001
+8003430E 0101
+90034310 01010101
+30034314 0001
+30034319 0001
+8003431A 0101
+9003431C 01010101
+80034320 0101
+
+[Have All Legs]
+Type = Gameshark
+Activation = EndFrame
+30034325 0001
+90034328 01010101
+3003432D 0001
+3003432F 0001
+90034330 01010101
+30034335 0001
+80034336 0101
+30034338 0001
+8003433A 0101
+3003433C 0001
+80034340 0101
+30034343 0001
+
+[Have All Generators]
+Type = Gameshark
+Activation = EndFrame
+3003434D 0001
+8003434E 0101
+90034350 01010101
+80034354 0101
+
+[Have All Fcs]
+Type = Gameshark
+Activation = EndFrame
+9003435C 01010101
+90034360 01010101
+80034364 0101
+
+[Have All Optional Parts]
+Type = Gameshark
+Activation = EndFrame
+9003436C 01010101
+90034370 01010101
+90034374 01010101
+
+[Have All Boosters]
+Type = Gameshark
+Activation = EndFrame
+3003437F 0001
+90034380 01010101
+80034384 0101
+
+[Back\Have All Weapons]
+Type = Gameshark
+Activation = EndFrame
+3003438D 0001
+8003438E 0101
+90034390 01010101
+90034394 01010101
+90034398 01010101
+8003439E 0101
+800343A0 0101
+900343A8 01010101
+900343AC 01010101
+300343B0 0001
+900343B4 01010101
+900343B8 01010101
+800343C0 0101
+300343C2 0001
+
+[Right Arm\Have All Weapons]
+Type = Gameshark
+Activation = EndFrame
+300343C9 0001
+800343CA 0101
+900343CC 01010101
+900343D0 01010101
+900343D4 01010101
+900343D8 01010101
+
+[Left Arm\Have All Weapons]
+Type = Gameshark
+Activation = EndFrame
+900343DC 01010101
+300343E0 0001
+
+[Infinite Armor (Missions Only)]
+Type = Gameshark
+Activation = EndFrame
+801E2F40 8000
+
+[Head Pieces\Have Hd-01-Srvt]
+Type = Gameshark
+Activation = EndFrame
+300342F0 0001
+
+[Head Pieces\Have Hd-2002]
+Type = Gameshark
+Activation = EndFrame
+300342F1 0001
+
+[Head Pieces\Have Hd-X1487]
+Type = Gameshark
+Activation = EndFrame
+300342F2 0001
+
+[Head Pieces\Have Hd-Redeye]
+Type = Gameshark
+Activation = EndFrame
+300342F3 0001
+
+[Head Pieces\Have Hd-D-9066]
+Type = Gameshark
+Activation = EndFrame
+300342F4 0001
+
+[Head Pieces\Have Hd-Gry-Nx]
+Type = Gameshark
+Activation = EndFrame
+300342F5 0001
+
+[Head Pieces\Have Hd-06-Radar]
+Type = Gameshark
+Activation = EndFrame
+300342F6 0001
+
+[Head Pieces\Have Hd-One]
+Type = Gameshark
+Activation = EndFrame
+300342F7 0001
+
+[Head Pieces\Have Hd-08-Dish]
+Type = Gameshark
+Activation = EndFrame
+300342F8 0001
+
+[Head Pieces\Have Hd-Zero]
+Type = Gameshark
+Activation = EndFrame
+300342F9 0001
+
+[Head Pieces\Have Hd-G780]
+Type = Gameshark
+Activation = EndFrame
+300342FA 0001
+
+[Core Parts\Have Xca-00]
+Type = Gameshark
+Activation = EndFrame
+30034302 0001
+
+[Core Parts\Have Xcl-01]
+Type = Gameshark
+Activation = EndFrame
+30034303 0001
+
+[Core Parts\Have Xch-01]
+Type = Gameshark
+Activation = EndFrame
+30034304 0001
+
+[Core Parts\Have Xxa_So]
+Type = Gameshark
+Activation = EndFrame
+30034305 0001
+
+[Arm Parts\Have An-201]
+Type = Gameshark
+Activation = EndFrame
+3003430D 0001
+
+[Arm Parts\Have An-K1]
+Type = Gameshark
+Activation = EndFrame
+3003430E 0001
+
+[Arm Parts\Have An-D-7001]
+Type = Gameshark
+Activation = EndFrame
+3003430F 0001
+
+[Arm Parts\Have An-3001]
+Type = Gameshark
+Activation = EndFrame
+30034310 0001
+
+[Arm Parts\Have Anks-1A46J]
+Type = Gameshark
+Activation = EndFrame
+30034311 0001
+
+[Arm Parts\Have An-863-B]
+Type = Gameshark
+Activation = EndFrame
+30034312 0001
+
+[Arm Parts\Have An-25]
+Type = Gameshark
+Activation = EndFrame
+30034313 0001
+
+[Arm Parts\Have Aw-Mg25/2]
+Type = Gameshark
+Activation = EndFrame
+30034319 0001
+
+[Arm Parts\Have Aw-Gt2000]
+Type = Gameshark
+Activation = EndFrame
+3003431A 0001
+
+[Arm Parts\Have Aw-Rf105]
+Type = Gameshark
+Activation = EndFrame
+3003431B 0001
+
+[Arm Parts\Have Aw-30/3]
+Type = Gameshark
+Activation = EndFrame
+3003431C 0001
+
+[Arm Parts\Have Aw-Rf120]
+Type = Gameshark
+Activation = EndFrame
+3003431D 0001
+
+[Arm Parts\Have Aw-S60/2]
+Type = Gameshark
+Activation = EndFrame
+3003431E 0001
+
+[Arm Parts\Have Aw-Xc5500]
+Type = Gameshark
+Activation = EndFrame
+3003431F 0001
+
+[Arm Parts\Have Aw-Xc65]
+Type = Gameshark
+Activation = EndFrame
+30034320 0001
+
+[Arm Parts\Have Aw-Dc/2]
+Type = Gameshark
+Activation = EndFrame
+30034321 0001
+
+[Leg Parts\Have Ln-1001]
+Type = Gameshark
+Activation = EndFrame
+30034325 0001
+
+[Leg Parts\Have Ln-1001-Px-0]
+Type = Gameshark
+Activation = EndFrame
+30034328 0001
+
+[Leg Parts\Have Ln-501]
+Type = Gameshark
+Activation = EndFrame
+30034329 0001
+
+[Leg Parts\Have Ln-Ssvr]
+Type = Gameshark
+Activation = EndFrame
+3003432A 0001
+
+[Leg Parts\Have Ln-1001B]
+Type = Gameshark
+Activation = EndFrame
+3003432B 0001
+
+[Leg Parts\Have Ln-3001C]
+Type = Gameshark
+Activation = EndFrame
+3003432D 0001
+
+[Leg Parts\Have Ln-502]
+Type = Gameshark
+Activation = EndFrame
+3003432F 0001
+
+[Leg Parts\Have Ln-D-8000R]
+Type = Gameshark
+Activation = EndFrame
+30034330 0001
+
+[Leg Parts\Have Ln-2Kz-Sp]
+Type = Gameshark
+Activation = EndFrame
+30034331 0001
+
+[Leg Parts\Have Lnks-1B46J]
+Type = Gameshark
+Activation = EndFrame
+30034332 0001
+
+[Leg Parts\Have Lb-4400]
+Type = Gameshark
+Activation = EndFrame
+30034333 0001
+
+[Leg Parts\Have Lb-4401]
+Type = Gameshark
+Activation = EndFrame
+30034335 0001
+
+[Leg Parts\Have Lb-4303]
+Type = Gameshark
+Activation = EndFrame
+30034336 0001
+
+[Leg Parts\Have Lb-1000-P]
+Type = Gameshark
+Activation = EndFrame
+30034337 0001
+
+[Leg Parts\Have Lbks-2B45A]
+Type = Gameshark
+Activation = EndFrame
+30034338 0001
+
+[Leg Parts\Have Lf-205-Sf]
+Type = Gameshark
+Activation = EndFrame
+3003433A 0001
+
+[Leg Parts\Have Lfh-X3]
+Type = Gameshark
+Activation = EndFrame
+3003433B 0001
+
+[Leg Parts\Have Lf-Dex-1]
+Type = Gameshark
+Activation = EndFrame
+3003433C 0001
+
+[Leg Parts\Have Lc-Mos18]
+Type = Gameshark
+Activation = EndFrame
+30034340 0001
+
+[Leg Parts\Have Lc-Uki60]
+Type = Gameshark
+Activation = EndFrame
+30034341 0001
+
+[Leg Parts\Have Lc-Htp-Aaa]
+Type = Gameshark
+Activation = EndFrame
+30034343 0001
+
+[Generator Parts\Have Gps-Vva]
+Type = Gameshark
+Activation = EndFrame
+3003434D 0001
+
+[Generator Parts\Have Gps-V6]
+Type = Gameshark
+Activation = EndFrame
+3003434E 0001
+
+[Generator Parts\Have Grd-Rx5]
+Type = Gameshark
+Activation = EndFrame
+3003434F 0001
+
+[Generator Parts\Have Grd-Rx6]
+Type = Gameshark
+Activation = EndFrame
+30034350 0001
+
+[Generator Parts\Have Grd-Rx7]
+Type = Gameshark
+Activation = EndFrame
+30034351 0001
+
+[Generator Parts\Have Gbg-10000]
+Type = Gameshark
+Activation = EndFrame
+30034352 0001
+
+[Generator Parts\Have Gbg-Xr]
+Type = Gameshark
+Activation = EndFrame
+30034353 0001
+
+[Generator Parts\Have Gbx-Tl]
+Type = Gameshark
+Activation = EndFrame
+30034354 0001
+
+[Generator Parts\Have Gbx-Xl]
+Type = Gameshark
+Activation = EndFrame
+30034355 0001
+
+[Fcs Parts\Have Comdex-C7]
+Type = Gameshark
+Activation = EndFrame
+3003435C 0001
+
+[Fcs Parts\Have Comdex-Go]
+Type = Gameshark
+Activation = EndFrame
+3003435D 0001
+
+[Fcs Parts\Have Comdex-G8]
+Type = Gameshark
+Activation = EndFrame
+3003435E 0001
+
+[Fcs Parts\Have Qx-21]
+Type = Gameshark
+Activation = EndFrame
+3003435F 0001
+
+[Fcs Parts\Have Qx-Af]
+Type = Gameshark
+Activation = EndFrame
+30034360 0001
+
+[Fcs Parts\Have Tryx-Boxer]
+Type = Gameshark
+Activation = EndFrame
+30034361 0001
+
+[Fcs Parts\Have Tryx-Quad]
+Type = Gameshark
+Activation = EndFrame
+30034362 0001
+
+[Fcs Parts\Have Qx-9009]
+Type = Gameshark
+Activation = EndFrame
+30034363 0001
+
+[Fcs Parts\Have Fbmb-18X]
+Type = Gameshark
+Activation = EndFrame
+30034364 0001
+
+[Fcs Parts\Have Rator]
+Type = Gameshark
+Activation = EndFrame
+30034365 0001
+
+[Optional Parts\Have Sp-M/Auto]
+Type = Gameshark
+Activation = EndFrame
+3003436C 0001
+
+[Optional Parts\Have Sp-Abs]
+Type = Gameshark
+Activation = EndFrame
+3003436D 0001
+
+[Optional Parts\Have Sp-Sap]
+Type = Gameshark
+Activation = EndFrame
+3003436E 0001
+
+[Optional Parts\Have Sp-Cnd-K]
+Type = Gameshark
+Activation = EndFrame
+3003436F 0001
+
+[Optional Parts\Have Sp-Axl]
+Type = Gameshark
+Activation = EndFrame
+30034370 0001
+
+[Optional Parts\Have Sp-S/Scr]
+Type = Gameshark
+Activation = EndFrame
+30034371 0001
+
+[Optional Parts\Have Sp-E/Scr]
+Type = Gameshark
+Activation = EndFrame
+30034372 0001
+
+[Optional Parts\Have Sp-Eh]
+Type = Gameshark
+Activation = EndFrame
+30034373 0001
+
+[Optional Parts\Have Sp-E+]
+Type = Gameshark
+Activation = EndFrame
+30034374 0001
+
+[Optional Parts\Have Sp-Dehf]
+Type = Gameshark
+Activation = EndFrame
+30034375 0001
+
+[Booster Parts\Have B-P320]
+Type = Gameshark
+Activation = EndFrame
+3003437F 0001
+
+[Booster Parts\Have B-P350]
+Type = Gameshark
+Activation = EndFrame
+30034380 0001
+
+[Booster Parts\Have B-Too1]
+Type = Gameshark
+Activation = EndFrame
+30034381 0001
+
+[Booster Parts\Have B-72]
+Type = Gameshark
+Activation = EndFrame
+30034382 0001
+
+[Booster Parts\Have B-P351]
+Type = Gameshark
+Activation = EndFrame
+30034383 0001
+
+[Booster Parts\Have B-Vr-33]
+Type = Gameshark
+Activation = EndFrame
+30034384 0001
+
+[Booster Parts\Have B-Hp25]
+Type = Gameshark
+Activation = EndFrame
+30034335 0001
+
+[All Back Weapons\Have Wm-S40/1]
+Type = Gameshark
+Activation = EndFrame
+3003438D 0001
+
+[All Back Weapons\Have Wm-S40/2]
+Type = Gameshark
+Activation = EndFrame
+3003438E 0001
+
+[All Back Weapons\Have Wm-S60/4]
+Type = Gameshark
+Activation = EndFrame
+3003438F 0001
+
+[All Back Weapons\Have Wm-S60/6]
+Type = Gameshark
+Activation = EndFrame
+30034390 0001
+
+[All Back Weapons\Have Wm-Mvg404]
+Type = Gameshark
+Activation = EndFrame
+30034391 0001
+
+[All Back Weapons\Have Wm-Mvg802]
+Type = Gameshark
+Activation = EndFrame
+30034392 0001
+
+[All Back Weapons\Have Wm-L201]
+Type = Gameshark
+Activation = EndFrame
+30034393 0001
+
+[All Back Weapons\Have Wm-X201]
+Type = Gameshark
+Activation = EndFrame
+30034394 0001
+
+[All Back Weapons\Have Wm-X5-Aa]
+Type = Gameshark
+Activation = EndFrame
+30034395 0001
+
+[All Back Weapons\Have Wm-X10]
+Type = Gameshark
+Activation = EndFrame
+30034396 0001
+
+[All Back Weapons\Have Wm-P4001]
+Type = Gameshark
+Activation = EndFrame
+30034397 0001
+
+[All Back Weapons\Have Wm-Ps-2]
+Type = Gameshark
+Activation = EndFrame
+30034398 0001
+
+[All Back Weapons\Have Wm-At]
+Type = Gameshark
+Activation = EndFrame
+30034399 0001
+
+[All Back Weapons\Have Wm-T0100]
+Type = Gameshark
+Activation = EndFrame
+3003439A 0001
+
+[All Back Weapons\Have Wm-Smss24]
+Type = Gameshark
+Activation = EndFrame
+3003439B 0001
+
+[All Back Weapons\Have Wm-S50]
+Type = Gameshark
+Activation = EndFrame
+3003439E 0001
+
+[All Back Weapons\Have Wr-S100]
+Type = Gameshark
+Activation = EndFrame
+3003439F 0001
+
+[All Back Weapons\Have Wr-M50]
+Type = Gameshark
+Activation = EndFrame
+300343A0 0001
+
+[All Back Weapons\Have Wc-Cn35]
+Type = Gameshark
+Activation = EndFrame
+300343A1 0001
+
+[All Back Weapons\Have Wc-St120]
+Type = Gameshark
+Activation = EndFrame
+300343A8 0001
+
+[All Back Weapons\Have Wc-Ln350]
+Type = Gameshark
+Activation = EndFrame
+300343A9 0001
+
+[All Back Weapons\Have Wc-Gn230]
+Type = Gameshark
+Activation = EndFrame
+300343AA 0001
+
+[All Back Weapons\Have Wc-Xp4000]
+Type = Gameshark
+Activation = EndFrame
+300343AB 0001
+
+[All Back Weapons\Have Wc-Xc8000]
+Type = Gameshark
+Activation = EndFrame
+300343AC 0001
+
+[All Back Weapons\Have Wc-01Ql]
+Type = Gameshark
+Activation = EndFrame
+300343AD 0001
+
+[All Back Weapons\Have Wc-Spgun]
+Type = Gameshark
+Activation = EndFrame
+300343AE 0001
+
+[All Back Weapons\Have Wc-Ir24]
+Type = Gameshark
+Activation = EndFrame
+300343AF 0001
+
+[All Back Weapons\Have Rxa-01We]
+Type = Gameshark
+Activation = EndFrame
+300343B0 0001
+
+[All Back Weapons\Have Rz-A0]
+Type = Gameshark
+Activation = EndFrame
+300343B4 0001
+
+[All Back Weapons\Have Rxa-99]
+Type = Gameshark
+Activation = EndFrame
+300343B5 0001
+
+[All Back Weapons\Have Rxa-77]
+Type = Gameshark
+Activation = EndFrame
+300343B6 0001
+
+[All Back Weapons\Have Rz-A1]
+Type = Gameshark
+Activation = EndFrame
+300343B7 0001
+
+[All Back Weapons\Have Rzt-333]
+Type = Gameshark
+Activation = EndFrame
+300343B8 0001
+
+[All Back Weapons\Have Rz-Bbp]
+Type = Gameshark
+Activation = EndFrame
+300343B9 0001
+
+[All Back Weapons\Have Rz-Fw2]
+Type = Gameshark
+Activation = EndFrame
+300343BA 0001
+
+[All Back Weapons\Have Wx-S800/2]
+Type = Gameshark
+Activation = EndFrame
+300343BB 0001
+
+[All Back Weapons\Have Wx-S800-Gf]
+Type = Gameshark
+Activation = EndFrame
+300343C0 0001
+
+[All Back Weapons\Have Xcs-9900]
+Type = Gameshark
+Activation = EndFrame
+300343C1 0001
+
+[Right Arm Weapons\Have Wg-Rf35]
+Type = Gameshark
+Activation = EndFrame
+300343C9 0001
+
+[Right Arm Weapons\Have Wg-Mga1]
+Type = Gameshark
+Activation = EndFrame
+300343CA 0001
+
+[Right Arm Weapons\Have Wg-Mg500]
+Type = Gameshark
+Activation = EndFrame
+300343CB 0001
+
+[Right Arm Weapons\Have Wg-Ar1000]
+Type = Gameshark
+Activation = EndFrame
+300343CC 0001
+
+[Right Arm Weapons\Have Wg-Hg235]
+Type = Gameshark
+Activation = EndFrame
+300343CD 0001
+
+[Right Arm Weapons\Have Wg-Rf/5]
+Type = Gameshark
+Activation = EndFrame
+300343CE 0001
+
+[Right Arm Weapons\Have Wf-Rf/P]
+Type = Gameshark
+Activation = EndFrame
+300343CF 0001
+
+[Right Arm Weapons\Have Wg-Hg512]
+Type = Gameshark
+Activation = EndFrame
+300343D0 0001
+
+[Right Arm Weapons\Have Wg-Fg99]
+Type = Gameshark
+Activation = EndFrame
+300343D1 0001
+
+[Right Arm Weapons\Have Wg-B2120]
+Type = Gameshark
+Activation = EndFrame
+300343D2 0001
+
+[Right Arm Weapons\Have Wg-B218]
+Type = Gameshark
+Activation = EndFrame
+300343D3 0001
+
+[Right Arm Weapons\Have Wg-Xp1000]
+Type = Gameshark
+Activation = EndFrame
+300343D4 0001
+
+[Right Arm Weapons\Have Wg-Xp2000]
+Type = Gameshark
+Activation = EndFrame
+300343D5 0001
+
+[Right Arm Weapons\Have Wg-Xc4]
+Type = Gameshark
+Activation = EndFrame
+300343D6 0001
+
+[Right Arm Weapons\Have Wg-1-Karasawa]
+Type = Gameshark
+Activation = EndFrame
+300343D7 0001
+
+[Right Arm Weapons\Have Wg-Rfm118]
+Type = Gameshark
+Activation = EndFrame
+300343D8 0001
+
+[Right Arm Weapons\Have Wg-Xfwppk]
+Type = Gameshark
+Activation = EndFrame
+300343D9 0001
+
+[Right Arm Weapons\Have Wg-Hg1]
+Type = Gameshark
+Activation = EndFrame
+300343DA 0001
+
+[Right Arm Weapons\Have Wg-Pb26]
+Type = Gameshark
+Activation = EndFrame
+300343DB 0001
+
+[Left Arm Weapons\Have Ls-2001]
+Type = Gameshark
+Activation = EndFrame
+300343DC 0001
+
+[Left Arm Weapons\Have Ls-200G]
+Type = Gameshark
+Activation = EndFrame
+300343DD 0001
+
+[Left Arm Weapons\Have Ls-3303]
+Type = Gameshark
+Activation = EndFrame
+300343DE 0001
+
+[Left Arm Weapons\Have Ls-99-Moonlight]
+Type = Gameshark
+Activation = EndFrame
+300343DF 0001
+

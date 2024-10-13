@@ -1,0 +1,83 @@
+; CHTDB: ; [ Grand Theft Auto (Europe) {SLES-00032} ]
+
+[Infinite Weapons, Ammo, 99 Lives & Coordinates]
+Type = Gameshark
+Activation = EndFrame
+80025F90 00FF
+
+[Open All Cities]
+Type = Gameshark
+Activation = EndFrame
+80025F2C 0001
+80025F30 0001
+80025F34 0001
+80025F38 0001
+80025F3C 0001
+
+[Maximum Armour This code gives you maximum armour but you must pick up the armour first]
+Type = Gameshark
+Activation = EndFrame
+800A92F0 7FFF
+
+[No Police Activity]
+Type = Gameshark
+Activation = EndFrame
+8002B488 0000
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8002B5F2 0063
+
+[Infinite Pistol And Ammo]
+Type = Gameshark
+Activation = EndFrame
+8002B5FC FF00
+
+[Infinite Machine Gun And Missile Launcher]
+Type = Gameshark
+Activation = EndFrame
+8002B5FE FFFF
+
+[Infinite Flamethrower]
+Type = Gameshark
+Activation = EndFrame
+8002B600 00FF
+
+[Get Out Of Jail Free Key]
+Type = Gameshark
+Activation = EndFrame
+8002B606 1000
+
+[Auto Walk And Drive]
+Type = Gameshark
+Activation = EndFrame
+8002B5F4 0300
+
+[Points Multiplier x 20]
+Type = Gameshark
+Activation = EndFrame
+8002B5EE 0014
+
+[9 Million Points]
+Type = Gameshark
+Activation = EndFrame
+8002B49E 0090
+
+[Music OFF]
+Type = Gameshark
+Activation = EndFrame
+30153F1C 0000
+
+[Slow Motion\On Press Select & Up]
+Type = Gameshark
+Activation = EndFrame
+D0047942 FFEE
+3011E3E0 0000
+
+[Slow Motion\Off Press Select & Down]
+Type = Gameshark
+Activation = EndFrame
+D0047942 FFBE
+3011E3E0 0001
+

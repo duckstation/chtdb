@@ -1,0 +1,23 @@
+; CHTDB: ; [ I.Q Final (Japan) {SCPS-10071} ]
+
+[Fraction Is 0/99]
+Type = Gameshark
+Activation = EndFrame
+800C45A6 0000
+800C45A8 0063
+
+[Level Modifier	(0-F)]
+Type = Gameshark
+Activation = EndFrame
+300BD41C 0009
+
+[Quick Score Gain]
+Type = Gameshark
+Activation = EndFrame
+800BD464 FFFF
+
+[Start at the last segment of each level]
+Type = Gameshark
+Activation = EndFrame
+300BD41D 0002
+

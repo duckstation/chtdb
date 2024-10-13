@@ -1,0 +1,80 @@
+; CHTDB: ; [ Spectral Force: Itoshiki Jaaku (Japan) {SLPS-02233} ]
+
+[Infinite Army (999) in battle main unit]
+Type = Gameshark
+Activation = EndFrame
+801CAC38 03E7
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+801E1DC6 270F
+
+[Infinite Soldier For Hire]
+Type = Gameshark
+Activation = EndFrame
+801C7A04 270F
+
+[Main Character Infinite SP (In Battle)]
+Type = Gameshark
+Activation = EndFrame
+801CAAE0 705A
+
+[Main Character Morale Always High (In Battle)]
+Type = Gameshark
+Activation = EndFrame
+801CAADA 8C0E
+
+[Enemy to withdraw Battle will end immediately.]
+Type = Gameshark
+Activation = EndFrame
+301CA81B 0000
+301CA873 0000
+301CA8CB 0000
+301CA923 0000
+301CA97B 0000
+301CA9D3 0000
+301CAA2B 0000
+301CAA83 0000
+
+[Exit immediately Siege This place is also terminated immediately.]
+Type = Gameshark
+Activation = EndFrame
+301ED66E 0000
+
+[Skill gauge MAX ally in combat]
+Type = Gameshark
+Activation = EndFrame
+301CAAE0 005A
+301CAB38 005A
+301CAB90 005A
+301CABE8 005A
+301CAC40 005A
+301CAC98 005A
+301CACF0 005A
+301CAD48 005A
+
+[MAX morale of allies in combat]
+Type = Gameshark
+Activation = EndFrame
+301CAADB 008C
+301CAB33 008C
+301CAB8B 008C
+301CABE3 008C
+301CAC3B 008C
+301CAC93 008C
+301CACEB 008C
+301CAD43 008C
+
+[Number of soldiers 1000 ally in combat]
+Type = Gameshark
+Activation = EndFrame
+801CAAD8 03E8
+801CAB30 03E8
+801CAB88 03E8
+801CABE0 03E8
+801CAC38 03E8
+801CAC90 03E8
+801CACE8 03E8
+801CAD40 03E8
+

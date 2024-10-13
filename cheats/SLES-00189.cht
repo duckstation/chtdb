@@ -1,0 +1,22 @@
+; CHTDB: ; [ Adidas Power Soccer (Europe) {SLES-00189} ]
+
+[Select Away Team Score\9]
+Type = Gameshark
+Activation = EndFrame
+800DAC50 0009
+
+[Select Away Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+800DAC50 0000
+
+[Select Home Team Score\9]
+Type = Gameshark
+Activation = EndFrame
+800DAC4E 0009
+
+[Select Home Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+800DAC4E 0000
+

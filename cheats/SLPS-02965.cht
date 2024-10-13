@@ -1,0 +1,11 @@
+; CHTDB: ; [ Kimi ni Steady (Japan) {SLPS-02965} ]
+
+[All Unlock CG & Mini-games Maybe need to save]
+Type = Gameshark
+Activation = EndFrame
+8008AC9C 01FF
+D01B87C0 10B4
+801B8820 FFFF
+D01B87C0 10B4
+801B8822 2404
+

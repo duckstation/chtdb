@@ -1,0 +1,14 @@
+; CHTDB: ; [ F1 World Grand Prix (USA) (2001) (Eidos Interactive) {SLUS-01344} <f1wgp> ]
+
+[Have 100% On All Tests Championship Mode]
+Type = Gameshark
+Activation = EndFrame
+50000502 0000
+800294B4 0064
+
+[Press R1 For 9,999,999 Dollars]
+Type = Gameshark
+Activation = EndFrame
+D00313A2 F7FF
+900293FC 0098967F
+

@@ -1,0 +1,146 @@
+; CHTDB: ; [ Tony Hawk's Skateboarding (Europe) {SLES-02055} ]
+
+[Much points for each trick]
+Type = Gameshark
+Activation = EndFrame
+9006EA78 24630FFF
+8006E9AA 3C00
+
+[Max score]
+Type = Gameshark
+Activation = EndFrame
+9006D000 2402FFFF
+9006E9B4 2402FFFF
+
+[Everythings unlocked]
+Type = Gameshark
+Activation = EndFrame
+300D1E80 0001
+
+[Widescreen]
+Type = Gameshark
+Activation = EndFrame
+300D185C 0000
+
+[Timer Stopped (Press L1 & L2)]
+Type = Gameshark
+Activation = EndFrame
+D00DBE32 FAFF
+800255CC 0000
+
+[Time Increases (Press R1 & R2)]
+Type = Gameshark
+Activation = EndFrame
+D00DBE32 F5FF
+300255C0 0023
+
+[Tony Hawk Have 30 video tapes]
+Type = Gameshark
+Activation = EndFrame
+300A69A8 001E
+
+[Tony Hawk Have all video tapes & gold medals]
+Type = Gameshark
+Activation = EndFrame
+50000502 0000
+800A69AA FFFF
+
+[Bob Burnquist Have 30 video tapes]
+Type = Gameshark
+Activation = EndFrame
+300A69B6 001E
+
+[Bob Burnquist Have all video tapes & gold medals]
+Type = Gameshark
+Activation = EndFrame
+50000502 0000
+800A69B8 FFFF
+
+[Geoff Rowley Have 30 video tapes]
+Type = Gameshark
+Activation = EndFrame
+300A69C4 001E
+
+[Geoff Rowley Have all video tapes & gold medals]
+Type = Gameshark
+Activation = EndFrame
+50000502 0000
+800A69C6 FFFF
+
+[Bucky Lasek Have 30 video tapes]
+Type = Gameshark
+Activation = EndFrame
+300A69D2 001E
+
+[Bucky Lasek Have all video tapes & gold medals]
+Type = Gameshark
+Activation = EndFrame
+50000502 0000
+800A69D4 FFFF
+
+[Chad Muska Have 30 video tapes]
+Type = Gameshark
+Activation = EndFrame
+300A69E0 001E
+
+[Chad Muska Have all video tapes & gold medals]
+Type = Gameshark
+Activation = EndFrame
+50000502 0000
+800A69E2 FFFF
+
+[Kareem Campbell Have 30 video tapes]
+Type = Gameshark
+Activation = EndFrame
+800A69EE 001E
+
+[Kareem Campbell Have all video tapes & gold medals]
+Type = Gameshark
+Activation = EndFrame
+50000502 0000
+800A69F0 FFFF
+
+[Rune Glifberg Have 30 video tapes]
+Type = Gameshark
+Activation = EndFrame
+300A6A0A 001E
+
+[Rune Glifberg Have all video tapes & gold medals]
+Type = Gameshark
+Activation = EndFrame
+50000502 0000
+800A6A0C FFFF
+
+[Jamie Thomas Have 30 video tapes]
+Type = Gameshark
+Activation = EndFrame
+300A6A18 001E
+
+[Jamie Thomas Have all video tapes & gold medals]
+Type = Gameshark
+Activation = EndFrame
+50000502 0000
+800A6A1A FFFF
+
+[Elissa Steamer Have 30 video tapes]
+Type = Gameshark
+Activation = EndFrame
+300A6A26 001E
+
+[Elissa Steamer Have all video tapes & gold medals]
+Type = Gameshark
+Activation = EndFrame
+50000502 0000
+800A6A28 FFFF
+
+[Officer Dick Have 30 video tapes]
+Type = Gameshark
+Activation = EndFrame
+300A6A34 001E
+
+[Officer Dick Have all video tapes & gold medals]
+Type = Gameshark
+Activation = EndFrame
+50000502 0000
+800A6A36 FFFF
+

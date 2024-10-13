@@ -1,0 +1,96 @@
+; CHTDB: ; [ Courier Crisis - The Saga of the Modern Fatalist (USA) (1997) (GT Interactive Software) {SLUS-00442} <courcris> ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800A0E24 0000
+800A1218 0000
+800A1478 0000
+800A158C 0000
+800A183A 0000
+
+[Infinite Time (Alternative)]
+Type = Gameshark
+Activation = EndFrame
+800A1674 0000
+800A16A4 0000
+800A183A 0000
+800A9EEC 0000
+800AA6D8 0000
+800AA738 0000
+800AA73C 0000
+
+[Infinite Bike Damage]
+Type = Gameshark
+Activation = EndFrame
+800A17A6 0000
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+900A17A4 00000000
+800A1220 0000
+800A14E8 0000
+
+[Max Pedricide]
+Type = Gameshark
+Activation = EndFrame
+800A1870 FFFF
+
+[Max Cash Collected]
+Type = Gameshark
+Activation = EndFrame
+900A13D4 05F5E0FF
+
+[All Bikers Cost Nothing]
+Type = Gameshark
+Activation = EndFrame
+D0086334 800A
+50000F4C 0000
+80098A52 0000
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+800AD1B4 FFFF
+
+[Select Cheat Mode\Test Mode]
+Type = Gameshark
+Activation = EndFrame
+D0086334 800A
+300A1230 0001
+
+[Select Cheat Mode\Contest Mode]
+Type = Gameshark
+Activation = EndFrame
+D0086334 800A
+300A1230 0002
+
+[Select Cheat Mode\E3 Mode]
+Type = Gameshark
+Activation = EndFrame
+D0086334 800A
+300A1230 0003
+
+[Select Cheat Mode\Free Mode]
+Type = Gameshark
+Activation = EndFrame
+D0086334 800A
+300A1230 0004
+
+[Ride Through Vehicles]
+Type = Gameshark
+Activation = EndFrame
+A704D65A 14401000
+
+[Ride Through On-Screen Furniture]
+Description = Bins, Lamps, Boxes
+Type = Gameshark
+Activation = EndFrame
+A704DC7A 14401400
+
+[Ride through Buildings]
+Type = Gameshark
+Activation = EndFrame
+A7053A5A 16821000
+

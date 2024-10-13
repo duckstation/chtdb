@@ -1,0 +1,77 @@
+; CHTDB: ; [ Warriors of Might and Magic (Europe) {SLES-03330} ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801ADAA8 0032
+
+[Infinite Mana]
+Type = Gameshark
+Activation = EndFrame
+801B5814 0019
+
+[Have 99 gems]
+Type = Gameshark
+Activation = EndFrame
+801B5878 0063
+
+[Have 99 keys]
+Type = Gameshark
+Activation = EndFrame
+801B5870 0063
+
+[Select Level\EXODUS You need to have at least 1 save game on your memory card then choose load game]
+Type = Gameshark
+Activation = EndFrame
+800DCD84 0005
+
+[Select Level\CANYON You need to have at least 1 save game on your memory card then choose load game]
+Type = Gameshark
+Activation = EndFrame
+800DCD84 000A
+
+[Select Level\STRONGHOLD You need to have at least 1 save game on your memory card then choose load game]
+Type = Gameshark
+Activation = EndFrame
+800DCD84 000F
+
+[Select Level\ENROTHS You need to have at least 1 save game on your memory card then choose load game]
+Type = Gameshark
+Activation = EndFrame
+800DCD84 0014
+
+[Select Level\BURIED CITY You need to have at least 1 save game on your memory card then choose load game]
+Type = Gameshark
+Activation = EndFrame
+800DCD84 0019
+
+[Select Level\FORGOTTEN WAY You need to have at least 1 save game on your memory card then choose load game]
+Type = Gameshark
+Activation = EndFrame
+800DCD84 001E
+
+[Select Level\WESTERN DISTRICT You need to have at least 1 save game on your memory card then choose load game]
+Type = Gameshark
+Activation = EndFrame
+800DCD84 0023
+
+[Select Level\EASTERN DISTRICT You need to have at least 1 save game on your memory card then choose load game]
+Type = Gameshark
+Activation = EndFrame
+800DCD84 0028
+
+[Select Level\THE MONASTERY You need to have at least 1 save game on your memory card then choose load game]
+Type = Gameshark
+Activation = EndFrame
+800DCD84 002D
+
+[Select Level\DAGLATHOR You need to have at least 1 save game on your memory card then choose load game]
+Type = Gameshark
+Activation = EndFrame
+800DCD84 0032
+
+[Select Level\LAST FIGHT WITH THE BOSS You need to have at least 1 save game on your memory card then choose load game]
+Type = Gameshark
+Activation = EndFrame
+800DCD84 0036
+

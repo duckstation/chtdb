@@ -1,0 +1,12 @@
+; CHTDB: ; [ NuPa: Numeric Paint Puzzle (Japan) {SLPS-00294} ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+901E82A4 000186A0
+
+[Always 0 mistakes]
+Type = Gameshark
+Activation = EndFrame
+801E82F0 0000
+

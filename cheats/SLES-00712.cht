@@ -1,0 +1,27 @@
+; CHTDB: ; [ Arcade's Greatest Hits: The Atari Collection 2 aka Midway Presents Arcade's Greatest Hits: The Atari Collection 2 (Europe) {SLES-00712} ]
+
+[Crystal Castles\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800F1006 0003
+
+[Gauntlet\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801D7E00 07CC
+
+[Marble Madness\Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+8013023C 003D
+
+[Paperboy\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801E01B8 0004
+
+[Paperboy\Infinite Papers]
+Type = Gameshark
+Activation = EndFrame
+801E0370 000A
+

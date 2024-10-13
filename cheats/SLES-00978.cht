@@ -1,0 +1,71 @@
+; CHTDB: ; [ WarGames: Defcon 1 (Europe) {SLES-00978} ]
+
+[Always DEFCON 5]
+Type = Gameshark
+Activation = EndFrame
+800A92DC 2F30
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+800EF5C4 0064
+800EF674 0064
+800EF724 0064
+800EF7D4 0064
+800EF884 0064
+800EF514 0064
+800EF934 0064
+800EF9E4 0064
+
+[All Levels (NORAD)]
+Type = Gameshark
+Activation = EndFrame
+900AA370 01010101
+900AA374 01010101
+900AA378 01010101
+800AA37C 0101
+
+[All Levels (W.O.P.R.)]
+Type = Gameshark
+Activation = EndFrame
+900AA3A0 01010101
+900AA3A4 01010101
+900AA3A8 01010101
+800AA3AC 0101
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800EF4AC 1500
+800EF55C 1500
+800EF6BC 1500
+800EF60C 1500
+800EF76C 1500
+800EF81C 1500
+800EF8CC 1500
+
+[Infinite Energy Jeep (Multi-5) version]
+Type = Gameshark
+Activation = EndFrame
+800F0A04 0500
+
+[Infinite Energy Dragoon Tank (Multi-5) version]
+Type = Gameshark
+Activation = EndFrame
+800F0AB4 1180
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A70D1A88 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A70D1A88 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A70D1A88 10000400
+

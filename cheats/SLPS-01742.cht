@@ -1,0 +1,99 @@
+; CHTDB: ; [ Yuukyuu Gensoukyoku Ensemble (Japan) {SLPS-01742 | SLPS-01875} ]
+
+[Infinite Energy Colosseum Mode]
+Type = Gameshark
+Activation = EndFrame
+800A2E72 012C
+
+[Infinite Magic Colosseum Mode]
+Type = Gameshark
+Activation = EndFrame
+800A2E74 012C
+
+[Infinite Money 999999]
+Type = Gameshark
+Activation = EndFrame
+9008EC20 000F423F
+
+[HP enemy in combat 0]
+Type = Gameshark
+Activation = EndFrame
+800A2FF2 0000
+
+[All Gallery Unlocked]
+Type = Gameshark
+Activation = EndFrame
+90081600 FFFFFFFF
+90081604 FFFFFFFF
+30081608 00FF
+
+[Purchased items]
+Type = Gameshark
+Activation = EndFrame
+300705A4 0048
+
+[HP battle now]
+Type = Gameshark
+Activation = EndFrame
+800A2E72 03E7
+
+[MP during combat currently]
+Type = Gameshark
+Activation = EndFrame
+800A2E74 03E7
+
+[During combat Maximum HP]
+Type = Gameshark
+Activation = EndFrame
+800A2E76 03E7
+
+[During combat Maximum MP]
+Type = Gameshark
+Activation = EndFrame
+800A2E78 03E7
+
+[Gallery]
+Type = Gameshark
+Activation = EndFrame
+3008160F 00FF
+
+[Infinite Energy colosseum mode]
+Type = Gameshark
+Activation = EndFrame
+800C2CAA 028A
+
+[Infinite Magic colosseum mode]
+Type = Gameshark
+Activation = EndFrame
+800C2CAC 0190
+
+[HP currently]
+Type = Gameshark
+Activation = EndFrame
+800C2CAA 03E7
+
+[MP now]
+Type = Gameshark
+Activation = EndFrame
+800C2CAC 03E7
+
+[Maximum HP]
+Type = Gameshark
+Activation = EndFrame
+800C2CAE 03E7
+
+[Maximum MP]
+Type = Gameshark
+Activation = EndFrame
+800C2CB0 03E7
+
+[All Gallery]
+Type = Gameshark
+Activation = EndFrame
+300A084F 00FF
+
+[Damage caused during combat Max]
+Type = Gameshark
+Activation = EndFrame
+800A2FCA 03E7
+

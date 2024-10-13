@@ -1,0 +1,12 @@
+; CHTDB: ; [ Allied General (USA) (1996) (Mindscape) {SLUS-00303} <alliedgn> ]
+
+[Infinite Prestige]
+Type = Gameshark
+Activation = EndFrame
+800F0ACC FFFF
+
+[Infinite Turns (Both Sides)]
+Type = Gameshark
+Activation = EndFrame
+8008C15C 090A
+

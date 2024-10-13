@@ -1,0 +1,472 @@
+; CHTDB: ; [ Arc the Lad II (Japan) {SCPS-10026} ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+900BD3EC 000F423F
+
+[Infinite SP]
+Type = Gameshark
+Activation = EndFrame
+900BD3F0 000F423F
+
+[Infinite GP]
+Type = Gameshark
+Activation = EndFrame
+800BD070 7FFF
+
+[Infinite Currency]
+Type = Gameshark
+Activation = EndFrame
+800BD0CC 7FFF
+
+[All Art Gallary]
+Type = Gameshark
+Activation = EndFrame
+900D96BC 3442FFFF
+
+[Fast Level Up Main Character (Elc)]
+Type = Gameshark
+Activation = EndFrame
+900BD94C 25F5E0FF
+
+[Fast Level Up Blonde Girl (Lieza)]
+Type = Gameshark
+Activation = EndFrame
+900BDA50 25F5E0FF
+
+[Fast Level Up Wolf]
+Type = Gameshark
+Activation = EndFrame
+900BE888 25F5E0FF
+
+[Fast Level Up Blue-Haired Boy (Shu)]
+Type = Gameshark
+Activation = EndFrame
+900BDC58 25F5E0FF
+
+[Fast Level Up Shante]
+Type = Gameshark
+Activation = EndFrame
+900BDB54 25F5E0FF
+
+[Fast Level Up Gruga]
+Type = Gameshark
+Activation = EndFrame
+900BDF64 25F5E0FF
+
+[Fast Level Up Sania]
+Type = Gameshark
+Activation = EndFrame
+900BDE60 25F5E0FF
+
+[Fast Level Up Arc]
+Type = Gameshark
+Activation = EndFrame
+900BD438 25F5E0FF
+
+[Fast Level Up Poco]
+Type = Gameshark
+Activation = EndFrame
+900BD53C 25F5E0FF
+
+[Fast Level Up Kukuru]
+Type = Gameshark
+Activation = EndFrame
+900BE680 25F5E0FF
+
+[Fast Level Up Tosh]
+Type = Gameshark
+Activation = EndFrame
+900BD640 25F5E0FF
+
+[Fast Level Up Gogen]
+Type = Gameshark
+Activation = EndFrame
+900BD848 25F5E0FF
+
+[Fast Level Up Iga]
+Type = Gameshark
+Activation = EndFrame
+900BD744 25F5E0FF
+
+[Fast Level Up ??Char 5]
+Type = Gameshark
+Activation = EndFrame
+900BDD5C 25F5E0FF
+
+[Fast Level Up Beast 1]
+Type = Gameshark
+Activation = EndFrame
+900BE068 25F5E0FF
+
+[Fast Level Up Beast 2]
+Type = Gameshark
+Activation = EndFrame
+900BE16C 25F5E0FF
+
+[Fast Level Up Beast 3]
+Type = Gameshark
+Activation = EndFrame
+900BE270 25F5E0FF
+
+[Fast Level Up Beast 4]
+Type = Gameshark
+Activation = EndFrame
+900BE57C 25F5E0FF
+
+[Fast Level Up Beast 5]
+Type = Gameshark
+Activation = EndFrame
+900BE478 25F5E0FF
+
+[Fast Level Up Beast 6]
+Type = Gameshark
+Activation = EndFrame
+900BE374 25F5E0FF
+
+[1st Character\Level(999)]
+Type = Gameshark
+Activation = EndFrame
+800BD938 03E7
+
+[1st Character\Max Hp]
+Type = Gameshark
+Activation = EndFrame
+800BD93A 7FFF
+
+[1st Character\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800BD93C 7FFF
+
+[1st Character\Max Mp]
+Type = Gameshark
+Activation = EndFrame
+800BD93E 7FFF
+
+[1st Character\Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+800BD940 7FFF
+
+[1st Character\Max Attack Ability]
+Type = Gameshark
+Activation = EndFrame
+800BD942 09C0
+
+[1st Character\Max Magic Ability]
+Type = Gameshark
+Activation = EndFrame
+800BD944 09C0
+
+[1st Character\Max Defence Ability]
+Type = Gameshark
+Activation = EndFrame
+800BD946 09C0
+
+[2nd Character\Level(999)]
+Type = Gameshark
+Activation = EndFrame
+800BDA3C 03E7
+
+[2nd Character\Max Hp]
+Type = Gameshark
+Activation = EndFrame
+800BDA3E 7FFF
+
+[2nd Character\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800BDA40 7FFF
+
+[2nd Character\Max Mp]
+Type = Gameshark
+Activation = EndFrame
+800BDA42 7FFF
+
+[2nd Character\Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+800BDA44 7FFF
+
+[2nd Character\Max Attack Ability]
+Type = Gameshark
+Activation = EndFrame
+800BDA46 09C0
+
+[2nd Character\Max Magic Ability]
+Type = Gameshark
+Activation = EndFrame
+800BDA48 09C0
+
+[2nd Character\Max Defence Ability]
+Type = Gameshark
+Activation = EndFrame
+800BDA4A 09C0
+
+[3rd Character\Level(999)]
+Type = Gameshark
+Activation = EndFrame
+800BDC44 03E7
+
+[3rd Character\Max Hp]
+Type = Gameshark
+Activation = EndFrame
+800BDC46 7FFF
+
+[3rd Character\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800BDC48 7FFF
+
+[3rd Character\Max Mp]
+Type = Gameshark
+Activation = EndFrame
+800BDC4A 7FFF
+
+[3rd Character\Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+800BDC4C 7FFF
+
+[3rd Character\Max Attack Ability]
+Type = Gameshark
+Activation = EndFrame
+800BDC4E 09C0
+
+[3rd Character\Max Magic Ability]
+Type = Gameshark
+Activation = EndFrame
+800BDC50 09C0
+
+[3rd Character\Max Defence Ability]
+Type = Gameshark
+Activation = EndFrame
+800BDC52 09C0
+
+[4th Character\Level(999)]
+Type = Gameshark
+Activation = EndFrame
+800BDB40 03E7
+
+[4th Character\Max Hp]
+Type = Gameshark
+Activation = EndFrame
+800BDB42 7FFF
+
+[4th Character\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800BDB44 7FFF
+
+[4th Character\Max Mp]
+Type = Gameshark
+Activation = EndFrame
+800BDB46 7FFF
+
+[4th Character\Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+800BDB48 7FFF
+
+[4th Character\Max Attack Ability]
+Type = Gameshark
+Activation = EndFrame
+800BDB4A 09C0
+
+[4th Character\Max Magic Ability]
+Type = Gameshark
+Activation = EndFrame
+800BDB4C 09C0
+
+[4th Character\Max Defence Ability]
+Type = Gameshark
+Activation = EndFrame
+800BDB4E 09C0
+
+[4th Character\Exp Max]
+Type = Gameshark
+Activation = EndFrame
+900BDB54 7FFFFFFF
+
+[5th Character\Level(999)]
+Type = Gameshark
+Activation = EndFrame
+800BDE4C 03E7
+
+[5th Character\Max Hp]
+Type = Gameshark
+Activation = EndFrame
+800BDE4E 7FFF
+
+[5th Character\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800BDE50 7FFF
+
+[5th Character\Max Mp]
+Type = Gameshark
+Activation = EndFrame
+800BDE52 7FFF
+
+[5th Character\Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+800BDE54 7FFF
+
+[5th Character\Max Attack Ability]
+Type = Gameshark
+Activation = EndFrame
+800BDE56 09C0
+
+[5th Character\Max Magic Ability]
+Type = Gameshark
+Activation = EndFrame
+800BDE58 09C0
+
+[5th Character\Max Defence Ability]
+Type = Gameshark
+Activation = EndFrame
+800BDE5A 09C0
+
+[6th Character\Level(999)]
+Type = Gameshark
+Activation = EndFrame
+800BE874 03E7
+
+[6th Character\Max Hp]
+Type = Gameshark
+Activation = EndFrame
+800BE876 7FFF
+
+[6th Character\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800BE878 7FFF
+
+[6th Character\Max Mp]
+Type = Gameshark
+Activation = EndFrame
+800BE87A 7FFF
+
+[6th Character\Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+800BE87C 7FFF
+
+[6th Character\Max Attack Ability]
+Type = Gameshark
+Activation = EndFrame
+800BE87E 09C0
+
+[6th Character\Max Magic Ability]
+Type = Gameshark
+Activation = EndFrame
+800BE880 09C0
+
+[6th Character\Max Defence Ability]
+Type = Gameshark
+Activation = EndFrame
+800BE882 09C0
+
+[7th Character\Level(999)]
+Type = Gameshark
+Activation = EndFrame
+800BD424 03E7
+
+[7th Character\Max Hp]
+Type = Gameshark
+Activation = EndFrame
+800BD426 7FFF
+
+[7th Character\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800BD428 7FFF
+
+[7th Character\Max Mp]
+Type = Gameshark
+Activation = EndFrame
+800BD42A 7FFF
+
+[7th Character\Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+800BD42C 7FFF
+
+[7th Character\Max Attack Ability]
+Type = Gameshark
+Activation = EndFrame
+800BD42E 09C0
+
+[7th Character\Max Magic Ability]
+Type = Gameshark
+Activation = EndFrame
+800BD430 09C0
+
+[7th Character\Max Defence Ability]
+Type = Gameshark
+Activation = EndFrame
+800BD432 09C0
+
+[8th Character\Level(999)]
+Type = Gameshark
+Activation = EndFrame
+800BD528 03E7
+
+[8th Character\Max Hp]
+Type = Gameshark
+Activation = EndFrame
+800BD52A 7FFF
+
+[8th Character\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800BD52C 7FFF
+
+[8th Character\Max Mp]
+Type = Gameshark
+Activation = EndFrame
+800BD52E 7FFF
+
+[8th Character\Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+800BD530 7FFF
+
+[8th Character\Max Attack Ability]
+Type = Gameshark
+Activation = EndFrame
+800BD532 09C0
+
+[8th Character\Max Magic Ability]
+Type = Gameshark
+Activation = EndFrame
+800BD534 09C0
+
+[8th Character\Max Defence Ability]
+Type = Gameshark
+Activation = EndFrame
+800BD536 09C0
+
+[8th Character\Max Speed]
+Type = Gameshark
+Activation = EndFrame
+800BD538 02FF
+
+[8th Character\Max Special Attack]
+Type = Gameshark
+Activation = EndFrame
+800BD57A 0007
+
+[8th Character\Max Response]
+Type = Gameshark
+Activation = EndFrame
+800BD57E 0FFF
+
+[8th Character\Max Exp]
+Type = Gameshark
+Activation = EndFrame
+900BD53C 7FFFFFFF
+

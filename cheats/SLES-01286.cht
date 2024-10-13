@@ -1,0 +1,77 @@
+; CHTDB: ; [ S.C.A.R.S. (Europe) {SLES-01286} ]
+
+[Infinite Weapons of your choice Turn on when you have picked up a weapon you want. Turn off when you finish each race]
+Type = Gameshark
+Activation = EndFrame
+801D9616 0104
+
+[Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+80122F84 0003
+
+[Racing Points = 100 You have to place 1st, 2nd or 3rd to get the points]
+Type = Gameshark
+Activation = EndFrame
+801B0400 0064
+
+[Enable Crystal Cup & Ski, Rally + Canyon Tracks<br]
+Type = Gameshark
+Activation = EndFrame
+80129428 0001
+
+[Enable Diamond Cup & Mountain, Water + Blade Tracks]
+Type = Gameshark
+Activation = EndFrame
+8012942A 0001
+
+[Enable Zenith Cup & Mirror Mode & Pipe Track (In Time & Special Modes)]
+Type = Gameshark
+Activation = EndFrame
+8012942C 0001
+
+[Enable Challenge Mode]
+Type = Gameshark
+Activation = EndFrame
+801F57A4 0001
+
+[Enable Cobra Challenge]
+Type = Gameshark
+Activation = EndFrame
+801F57A6 0001
+
+[Enable Cheetah Challenge]
+Type = Gameshark
+Activation = EndFrame
+801F57A8 0001
+
+[Enable Panther Challenge]
+Type = Gameshark
+Activation = EndFrame
+801F57AA 0001
+
+[Enable Super Challenge]
+Type = Gameshark
+Activation = EndFrame
+801F57AC 0001
+
+[Enable Scorpion Car]
+Type = Gameshark
+Activation = EndFrame
+801F71CA 0001
+
+[Enable Cobra Car]
+Type = Gameshark
+Activation = EndFrame
+801F71CC 0001
+
+[Enable Cheetah Car]
+Type = Gameshark
+Activation = EndFrame
+801F71CE 0001
+
+[Enable Panther Car]
+Type = Gameshark
+Activation = EndFrame
+801F71D0 0001
+

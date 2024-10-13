@@ -1,0 +1,17 @@
+; CHTDB: ; [ Fade to Black (Japan) {SLPS-00812} ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800AF9A4 0000
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+801CF7E8 0009
+
+[Infinite Bombs]
+Type = Gameshark
+Activation = EndFrame
+801C0330 07D0
+

@@ -1,0 +1,153 @@
+; CHTDB: ; [ Toshinden 4 (Europe) {SLES-02493} ]
+
+[All Characters , Goods Mode & All Data Available]
+Type = Gameshark
+Activation = EndFrame
+801DBD2E 07FF
+801DBD30 FFFF
+50000702 0000
+801DBD32 0404
+
+[Unlock All Extras]
+Type = Gameshark
+Activation = EndFrame
+801DBD2E 07FF
+801DBD30 FFFF
+50000702 0000
+801DBD32 0404
+801DBD40 007F
+
+[P1 Codes\Max Overdrive Gauge]
+Type = Gameshark
+Activation = EndFrame
+801D66B0 012C
+
+[P1 Codes\Infinite Vitality Gauge]
+Type = Gameshark
+Activation = EndFrame
+801D66CE 0000
+
+[P1 Codes\Suddendeath]
+Type = Gameshark
+Activation = EndFrame
+801D66CE 270F
+
+[P2 Codes\Suddendeath]
+Type = Gameshark
+Activation = EndFrame
+801D688E 270F
+
+[Mini Games Codes\All Mini Games Unlocked]
+Type = Gameshark
+Activation = EndFrame
+301DBD40 007F
+
+[Mini Games Codes\Toshinden Puzzle, Puella's Egg, Scoop\Start With Highscore]
+Type = Gameshark
+Activation = EndFrame
+D01AE428 0000
+801AE428 D02C
+D01AE428 D02C
+801AE42A 0160
+
+[Mini Games Codes\Hockey\P1 Start With 9 Goals]
+Type = Gameshark
+Activation = EndFrame
+D01AE428 0000
+301AE428 0009
+
+[Mini Games Codes\Hockey\P1 Never Makes A Goal]
+Type = Gameshark
+Activation = EndFrame
+D01AE428 0001
+301AE428 0000
+
+[Mini Games Codes\Hockey\P2 Start With 9 Goals]
+Type = Gameshark
+Activation = EndFrame
+D01AE430 0000
+301AE430 0009
+
+[Mini Games Codes\Hockey\P2 Never Makes A Goal]
+Type = Gameshark
+Activation = EndFrame
+D01AE430 0001
+301AE430 0000
+
+[Mini Games Codes\Origin\Start With Highscore]
+Type = Gameshark
+Activation = EndFrame
+D01AE428 0000
+801AE428 D02C
+D01AE428 D02C
+801AE42A 0160
+
+[Mini Games Codes\Origin\Indestructible]
+Type = Gameshark
+Activation = EndFrame
+D01AE848 2710
+301AE846 00BE
+
+[Mini Games Codes\Origin\Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+D01DA35A 0009
+301DA35A 000A
+
+[Mini Games Codes\Origin\Powerups Increase]
+Type = Gameshark
+Activation = EndFrame
+D00C0580 002A
+800C057C 0001
+
+[Mini Games Codes\Origin\Have Weapon (After Pick-Up)\Missile (Press L1)]
+Type = Gameshark
+Activation = EndFrame
+D01D69BA FBFF
+301AF111 0011
+
+[Mini Games Codes\Origin\Have Weapon (After Pick-Up)\Homing Missile (Press L2)]
+Type = Gameshark
+Activation = EndFrame
+D01D69BA FEFF
+301AF111 0012
+
+[Mini Games Codes\Origin\Have Weapon (After Pick-Up)\Clear Bomb (Press R1)]
+Type = Gameshark
+Activation = EndFrame
+D01D69BA F7FF
+301AF111 0013
+
+[Mini Games Codes\Origin\Have Weapon (After Pick-Up)\Laser (Press R2)]
+Type = Gameshark
+Activation = EndFrame
+D01D69BA FDFF
+301AF111 0014
+
+[Mini Games Codes\Fight! Wolfy\P1 Quick Win (Press L2 & R2)]
+Type = Gameshark
+Activation = EndFrame
+D01D69BA FCFF
+301DA373 0020
+
+[Mini Games Codes\Fight! Wolfy\P2 Can't Climb]
+Type = Gameshark
+Activation = EndFrame
+D11DA38A 0000
+801DA38A 0000
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A71DBCBC 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A71DBCBC 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A71DBCBC 10000400
+

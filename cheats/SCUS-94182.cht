@@ -1,0 +1,27 @@
+; CHTDB: ; [ Armored Core (USA, v1.0) (1997) (Sony Computer Entertainment America) {SCUS-94182} <armcorea> ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+8019F52C FFFF
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80040FBE 6D60
+
+[Infinite Weapon 1]
+Type = Gameshark
+Activation = EndFrame
+8004128A 00C8
+
+[Infinite Weapon 2]
+Type = Gameshark
+Activation = EndFrame
+800412C6 00C8
+
+[Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+801A2818 7000
+

@@ -1,0 +1,117 @@
+; CHTDB: ; [ Tecmo's Deception - Invitation to Darkness (USA) (1996) (Tecmo) {SLUS-00340} <tecmodec> ]
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800A37E2 6464
+
+[Infinite Gold]
+Type = Gameshark
+Activation = EndFrame
+800A3868 FFFF
+
+[Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+800A3860 FFFF
+
+[Always Have Amulet + Evil Crown]
+Type = Gameshark
+Activation = EndFrame
+8009F67E 0101
+
+[Always Have Antidotes + Savepoints]
+Type = Gameshark
+Activation = EndFrame
+8009F65C 0101
+
+[Always Have Black Orb + Map2]
+Type = Gameshark
+Activation = EndFrame
+8009F684 0101
+
+[Always Have Boots]
+Type = Gameshark
+Activation = EndFrame
+8009F668 0001
+
+[Always Have Contract + Last Key]
+Type = Gameshark
+Activation = EndFrame
+8009F676 0101
+
+[Always Have Cure]
+Type = Gameshark
+Activation = EndFrame
+8009F670 0001
+
+[Always Have Earring + Mantle]
+Type = Gameshark
+Activation = EndFrame
+8009F67A 0101
+
+[Always Have Evil Jewel + Sword]
+Type = Gameshark
+Activation = EndFrame
+8009F672 0101
+
+[Always Have Herbs]
+Type = Gameshark
+Activation = EndFrame
+8009F666 0101
+
+[Always Have Iron Key]
+Type = Gameshark
+Activation = EndFrame
+8009F65E 0001
+
+[Always Have Letter + Dardstone]
+Type = Gameshark
+Activation = EndFrame
+8009F67C 0101
+
+[Always Have Mask + Hourglass]
+Type = Gameshark
+Activation = EndFrame
+8009F680 0101
+
+[Always Have MP Gain + Sanity]
+Type = Gameshark
+Activation = EndFrame
+8009F664 0101
+
+[Always Have Skill Gem + Necklace]
+Type = Gameshark
+Activation = EndFrame
+8009F662 0101
+
+[Always Have Skull Key + Map]
+Type = Gameshark
+Activation = EndFrame
+8009F682 0101
+
+[Always Have Speed + Armor Gems]
+Type = Gameshark
+Activation = EndFrame
+8009F660 0101
+
+[Always Have Tiara]
+Type = Gameshark
+Activation = EndFrame
+8009F678 0001
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A7073338 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A7073338 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A7073338 10000400
+

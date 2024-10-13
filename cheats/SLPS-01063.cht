@@ -1,0 +1,12 @@
+; CHTDB: ; [ X. Racing (Jpn) (1998) (Nichibutsu) {SLPS-01063} <xracing> ]
+
+[Always Position 1]
+Type = Gameshark
+Activation = EndFrame
+800E5B60 0001
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80073824 0063
+

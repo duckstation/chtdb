@@ -1,0 +1,37 @@
+; CHTDB: ; [ Pro-Pinball (USA) (1996) (Interplay Productions) {SLUS-00371} <propinbl> ]
+
+[Infinite Balls]
+Type = Gameshark
+Activation = EndFrame
+800631D8 0001
+
+[Infinite Balls Alternate]
+Type = Gameshark
+Activation = EndFrame
+800633D8 0001
+
+[Maximum Bonus]
+Type = Gameshark
+Activation = EndFrame
+80063308 000A
+
+[Ball Saver Always On]
+Type = Gameshark
+Activation = EndFrame
+800AFC08 0852
+
+[Ball Saver Always Off]
+Type = Gameshark
+Activation = EndFrame
+800AFC08 0068
+
+[P1 Infinite Balls]
+Type = Gameshark
+Activation = EndFrame
+800BC934 0001
+
+[P1 Infinite Buy-Ins]
+Type = Gameshark
+Activation = EndFrame
+800BC938 0001
+

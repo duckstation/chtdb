@@ -1,0 +1,7 @@
+; CHTDB: ; [ Colony Wars (Spain) {SLES-00864 | SLES-10864} ]
+
+[Infinite Shield]
+Type = Gameshark
+Activation = EndFrame
+8004607C 00C8
+

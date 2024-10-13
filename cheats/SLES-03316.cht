@@ -1,0 +1,128 @@
+; CHTDB: ; [ Army Men: Sarge's Heroes 2 (Europe) {SLES-03316} ]
+
+[Infinite Health Mission 1]
+Type = Gameshark
+Activation = EndFrame
+800E89D4 0064
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+8012C08C 0001
+
+[Always have Crossbow]
+Type = Gameshark
+Activation = EndFrame
+3013C854 0001
+D013C82C FFFF
+3013C82C 00FF
+
+[Always have Machine gun]
+Type = Gameshark
+Activation = EndFrame
+3013C858 0001
+D013C82E 0000
+3013C82E 00FF
+
+[Always have Sniper rifle]
+Type = Gameshark
+Activation = EndFrame
+3013C85C 0001
+D013C830 0000
+3013C830 00FF
+
+[Always have Flame thrower]
+Type = Gameshark
+Activation = EndFrame
+3013C860 0001
+D013C832 0000
+3013C832 00FF
+
+[Always have Whip n' pop]
+Type = Gameshark
+Activation = EndFrame
+3013C864 0001
+D013C834 0000
+3013C834 00FF
+
+[Always have Bazooka]
+Type = Gameshark
+Activation = EndFrame
+3013C868 0001
+D013C836 0000
+3013C836 00FF
+
+[Always have Swarmer]
+Type = Gameshark
+Activation = EndFrame
+3013C86C 0001
+3013C838 0000
+3013C838 00FF
+
+[Always have Pierce launcher]
+Type = Gameshark
+Activation = EndFrame
+3013C870 0001
+D013C83A 0000
+3013C83A 00FF
+
+[Always have Grenade]
+Type = Gameshark
+Activation = EndFrame
+3013C874 0001
+D013C83C 0000
+3013C83C 00FF
+
+[Always have Mortar]
+Type = Gameshark
+Activation = EndFrame
+3013C878 0001
+D013C83E 0000
+3013C83E 00FF
+
+[Always have Dynamite]
+Type = Gameshark
+Activation = EndFrame
+3013C87C 0001
+D013C840 0000
+3013C840 00FF
+
+[Always have Firecracker]
+Type = Gameshark
+Activation = EndFrame
+3013C880 0001
+D013C842 0000
+3013C842 00FF
+
+[Always have Mine sweeper]
+Type = Gameshark
+Activation = EndFrame
+3013C888 0001
+D013C846 0000
+3013C846 00FF
+
+[Always have Binoculars]
+Type = Gameshark
+Activation = EndFrame
+3013C88C 0001
+D013C848 0000
+3013C848 00FF
+
+[Nuke Enemies (Press Select)]
+Type = Gameshark
+Activation = EndFrame
+D014455A FFFE
+8012EA90 0001
+
+[All levels unlocked]
+Type = Gameshark
+Activation = EndFrame
+8012C0E8 0002
+8012D0EC 0004
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+D0062C7A A4A2
+80062C78 0000
+

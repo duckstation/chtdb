@@ -1,0 +1,551 @@
+; CHTDB: ; [ Project - Horned Owl (USA) (1996) (Sony Computer Entertainment America) {SCUS-94408} <pjhorned> ]
+
+[P1 Infinite Grenades]
+Type = Gameshark
+Activation = EndFrame
+800B94C6 0F18
+
+[P1 Infinite Shield]
+Type = Gameshark
+Activation = EndFrame
+800B94BE 0064
+
+[P1 Infinite Continues]
+Type = Gameshark
+Activation = EndFrame
+800BA954 0005
+
+[P2 Infinite Grenades]
+Type = Gameshark
+Activation = EndFrame
+800B94D6 0F18
+
+[P2 Infinite Shield]
+Type = Gameshark
+Activation = EndFrame
+800B94CE 0064
+
+[P2 Infinite Continues]
+Type = Gameshark
+Activation = EndFrame
+800BA984 0005
+
+[Use only one of these options\Power-Shot Deactivated]
+Type = Gameshark
+Activation = EndFrame
+800B94CC 7200
+
+[Use only one of these options\Power-Shot Activated]
+Type = Gameshark
+Activation = EndFrame
+300B94CD 0079
+
+[Use only one of these options\P1 Always Power-Shooting]
+Type = Gameshark
+Activation = EndFrame
+800B94C4 7200
+
+[Use only one of these options\P2 Always Power-Shooting]
+Type = Gameshark
+Activation = EndFrame
+800B94D4 7200
+
+[No Damage P1 + P2 (Training)]
+Type = Gameshark
+Activation = EndFrame
+8008B240 0000
+
+[All Enemies Broken P1 (Training)]
+Type = Gameshark
+Activation = EndFrame
+D008B360 0007
+800BA958 C350
+
+[All Enemies Broken P2 (Training)]
+Type = Gameshark
+Activation = EndFrame
+D008B360 0007
+800BA988 C350
+
+[P1 Start With High Score]
+Type = Gameshark
+Activation = EndFrame
+D008B360 0001
+800BA95A 000F
+
+[P2 Start With High Score]
+Type = Gameshark
+Activation = EndFrame
+D008B360 0001
+800BA98A 000F
+
+[P1 All Enemies Broken]
+Type = Gameshark
+Activation = EndFrame
+800BA968 FFFF
+
+[P2 All Enemies Broken]
+Type = Gameshark
+Activation = EndFrame
+800BA998 FFFF
+
+[Select Operation\An Overture]
+Type = Gameshark
+Activation = EndFrame
+A608B360 00010001
+
+[Select Operation\Uninvited Guests]
+Type = Gameshark
+Activation = EndFrame
+A608B360 00010002
+
+[Select Operation\A Counter Attack]
+Type = Gameshark
+Activation = EndFrame
+A608B360 00010003
+
+[Select Operation\To Machine Grove]
+Type = Gameshark
+Activation = EndFrame
+A608B360 00010004
+
+[Select Operation\Falling Ark]
+Type = Gameshark
+Activation = EndFrame
+A608B360 00010005
+
+[Select Operation\Inside The Ark]
+Type = Gameshark
+Activation = EndFrame
+A608B360 00010006
+
+[Select Operation\Training]
+Type = Gameshark
+Activation = EndFrame
+A608B360 00010007
+
+[Select Access\Polygon Test]
+Type = Gameshark
+Activation = EndFrame
+8008AC88 0002
+
+[Select Access\Movie Test]
+Type = Gameshark
+Activation = EndFrame
+8008AC88 0004
+
+[Select Access\Audio Test]
+Type = Gameshark
+Activation = EndFrame
+8008AC88 0005
+
+[P1 Mode Difficulty Easy\Sudden Death Level 1 Boss]
+Type = Gameshark
+Activation = EndFrame
+A60B8462 03E80001
+
+[P1 Mode Difficulty Easy\Sudden Death Antales 1]
+Type = Gameshark
+Activation = EndFrame
+A608B258 041A0001
+
+[P1 Mode Difficulty Easy\Sudden Death Antales 2]
+Type = Gameshark
+Activation = EndFrame
+A608B258 02BC0001
+
+[P1 Mode Difficulty Easy\Low Energy #The Face#]
+Type = Gameshark
+Activation = EndFrame
+D008B360 0003
+800B49E0 0000
+
+[P1 Mode Difficulty Easy\Sudden Death Gigas]
+Type = Gameshark
+Activation = EndFrame
+A608B258 06040001
+
+[P1 Mode Difficulty Easy\Sudden Death Ultross]
+Type = Gameshark
+Activation = EndFrame
+A608B258 079A0001
+
+[P1 Mode Difficulty Easy\Sudden Death Level 5 Boss A]
+Type = Gameshark
+Activation = EndFrame
+A60B8552 02BC0001
+
+[P1 Mode Difficulty Easy\Sudden Death Level 5 Boss B]
+Type = Gameshark
+Activation = EndFrame
+A60B84DA 02BC0001
+
+[P1 Mode Difficulty Easy\Sudden Death Power Source]
+Type = Gameshark
+Activation = EndFrame
+D008B360 0006
+800B8552 0001
+
+[P1 Mode Difficulty Easy\Sudden Death Metalica]
+Type = Gameshark
+Activation = EndFrame
+A60B8462 08980001
+
+[P2 Mode Difficulty Easy\Sudden Death Level 1 Boss]
+Type = Gameshark
+Activation = EndFrame
+A60B8462 05DC0001
+
+[P2 Mode Difficulty Easy\Sudden Death Antales 1]
+Type = Gameshark
+Activation = EndFrame
+A608B258 06270001
+
+[P2 Mode Difficulty Easy\Sudden Death Antales 2]
+Type = Gameshark
+Activation = EndFrame
+A608B258 041A0001
+
+[P2 Mode Difficulty Easy\Low Energy #The Face#]
+Type = Gameshark
+Activation = EndFrame
+D008B360 0003
+800B49E0 0000
+
+[P2 Mode Difficulty Easy\Sudden Death Gigas]
+Type = Gameshark
+Activation = EndFrame
+A608B258 09060001
+
+[P2 Mode Difficulty Easy\Sudden Death Ultross]
+Type = Gameshark
+Activation = EndFrame
+A608B258 0B670001
+
+[P2 Mode Difficulty Easy\Sudden Death Level 5 Boss A]
+Type = Gameshark
+Activation = EndFrame
+A60B8552 041A0001
+
+[P2 Mode Difficulty Easy\Sudden Death Level 5 Boss B]
+Type = Gameshark
+Activation = EndFrame
+A60B84DA 041A0001
+
+[P2 Mode Difficulty Easy\Sudden Death Power Source]
+Type = Gameshark
+Activation = EndFrame
+D008B360 0006
+800B8552 0001
+
+[P2 Mode Difficulty Easy\Sudden Death Metalica]
+Type = Gameshark
+Activation = EndFrame
+A60B8462 0CE40001
+
+[P1 Mode Difficulty Normal\Sudden Death Level 1 Boss]
+Type = Gameshark
+Activation = EndFrame
+A60B84DA 05140001
+
+[P1 Mode Difficulty Normal\Sudden Death Antales 1]
+Type = Gameshark
+Activation = EndFrame
+A608B258 04B00001
+
+[P1 Mode Difficulty Normal\Sudden Death Antales 2]
+Type = Gameshark
+Activation = EndFrame
+A608B258 03200001
+
+[P1 Mode Difficulty Normal\Low Energy #The Face#]
+Type = Gameshark
+Activation = EndFrame
+D008B360 0003
+800B49E0 0000
+
+[P1 Mode Difficulty Normal\Sudden Death Gigas]
+Type = Gameshark
+Activation = EndFrame
+A608B258 06E00001
+
+[P1 Mode Difficulty Normal\Sudden Death Ultross]
+Type = Gameshark
+Activation = EndFrame
+A608B258 08B00001
+
+[P1 Mode Difficulty Normal\Sudden Death Level 5 Boss A]
+Type = Gameshark
+Activation = EndFrame
+A60B84DA 03840001
+
+[P1 Mode Difficulty Normal\Sudden Death Level 5 Boss B]
+Type = Gameshark
+Activation = EndFrame
+A60B8552 03840001
+
+[P1 Mode Difficulty Normal\Sudden Death Power Source]
+Type = Gameshark
+Activation = EndFrame
+D008B360 0006
+800B8552 0001
+
+[P1 Mode Difficulty Normal\Sudden Death Metalica]
+Type = Gameshark
+Activation = EndFrame
+A60B8462 0AF00001
+
+[P2 Mode Difficulty Normal\Sudden Death Level 1 Boss]
+Type = Gameshark
+Activation = EndFrame
+A60B84DA 079E0001
+
+[P2 Mode Difficulty Normal\Sudden Death Antales 1]
+Type = Gameshark
+Activation = EndFrame
+A608B258 07080001
+
+[P2 Mode Difficulty Normal\Sudden Death Antales 2]
+Type = Gameshark
+Activation = EndFrame
+A608B258 04B00001
+
+[P2 Mode Difficulty Normal\Low Energy #The Face#]
+Type = Gameshark
+Activation = EndFrame
+D008B360 0003
+800B49E0 0000
+
+[P2 Mode Difficulty Normal\Sudden Death Gigas]
+Type = Gameshark
+Activation = EndFrame
+A608B258 0A500001
+
+[P2 Mode Difficulty Normal\Sudden Death Ultross]
+Type = Gameshark
+Activation = EndFrame
+A608B258 0D080001
+
+[P2 Mode Difficulty Normal\Sudden Death Level 5 Boss A]
+Type = Gameshark
+Activation = EndFrame
+A60B84DA 05460001
+
+[P2 Mode Difficulty Normal\Sudden Death Level 5 Boss B]
+Type = Gameshark
+Activation = EndFrame
+A60B8552 05460001
+
+[P2 Mode Difficulty Normal\Sudden Death Power Source]
+Type = Gameshark
+Activation = EndFrame
+D008B360 0006
+800B8552 0001
+
+[P2 Mode Difficulty Normal\Sudden Death Metalica]
+Type = Gameshark
+Activation = EndFrame
+A60B8462 10680001
+
+[P1 Mode Difficulty Hard\Sudden Death Level 1 Boss]
+Type = Gameshark
+Activation = EndFrame
+A60B84DA 05DC0001
+
+[P1 Mode Difficulty Hard\Sudden Death Antales 1]
+Type = Gameshark
+Activation = EndFrame
+A608B258 05460001
+
+[P1 Mode Difficulty Hard\Sudden Death Antales 2]
+Type = Gameshark
+Activation = EndFrame
+A608B258 03840001
+
+[P1 Mode Difficulty Hard\Low Energy #The Face#]
+Type = Gameshark
+Activation = EndFrame
+D008B360 0003
+800B49E0 0000
+
+[P1 Mode Difficulty Hard\Sudden Death Gigas]
+Type = Gameshark
+Activation = EndFrame
+A608B258 07BC0001
+
+[P1 Mode Difficulty Hard\Sudden Death Ultross]
+Type = Gameshark
+Activation = EndFrame
+A608B258 09C60001
+
+[P1 Mode Difficulty Hard\Sudden Death Level 5 Boss A]
+Type = Gameshark
+Activation = EndFrame
+A60B84DA 044C0001
+
+[P1 Mode Difficulty Hard\Sudden Death Level 5 Boss B]
+Type = Gameshark
+Activation = EndFrame
+A60B8552 044C0001
+
+[P1 Mode Difficulty Hard\Sudden Death Power Source]
+Type = Gameshark
+Activation = EndFrame
+D008B360 0006
+800B8552 0001
+
+[P1 Mode Difficulty Hard\Sudden Death Metalica]
+Type = Gameshark
+Activation = EndFrame
+A60B8462 0C800001
+
+[P2 Mode Difficulty Hard\Sudden Death Level 1 Boss]
+Type = Gameshark
+Activation = EndFrame
+A60B84DA 08CA0001
+
+[P2 Mode Difficulty Hard\Sudden Death Antales 1]
+Type = Gameshark
+Activation = EndFrame
+A608B258 07E90001
+
+[P2 Mode Difficulty Hard\Sudden Death Antales 2]
+Type = Gameshark
+Activation = EndFrame
+A608B258 05460001
+
+[P2 Mode Difficulty Hard\Low Energy #The Face#]
+Type = Gameshark
+Activation = EndFrame
+D008B360 0003
+800B49E0 0000
+
+[P2 Mode Difficulty Hard\Sudden Death Gigas]
+Type = Gameshark
+Activation = EndFrame
+A608B258 0B9A0001
+
+[P2 Mode Difficulty Hard\Sudden Death Ultross]
+Type = Gameshark
+Activation = EndFrame
+A608B258 0EA90001
+
+[P2 Mode Difficulty Hard\Sudden Death Level 5 Boss A]
+Type = Gameshark
+Activation = EndFrame
+A60B84DA 06720001
+
+[P2 Mode Difficulty Hard\Sudden Death Level 5 Boss B]
+Type = Gameshark
+Activation = EndFrame
+A60B8552 06720001
+
+[P2 Mode Difficulty Hard\Sudden Death Power Source]
+Type = Gameshark
+Activation = EndFrame
+D008B360 0006
+800B8552 0001
+
+[P2 Mode Difficulty Hard\Sudden Death Metalica]
+Type = Gameshark
+Activation = EndFrame
+A60B8462 12C00001
+
+[P1 Mode Difficulty Very Hard\Sudden Death Level 1 Boss]
+Type = Gameshark
+Activation = EndFrame
+A60B84DA 07080001
+
+[P1 Mode Difficulty Very Hard\Sudden Death Antales 1]
+Type = Gameshark
+Activation = EndFrame
+A608B258 05DC0001
+
+[P1 Mode Difficulty Very Hard\Sudden Death Antales 2]
+Type = Gameshark
+Activation = EndFrame
+A608B258 03E80001
+
+[P1 Mode Difficulty Very Hard\Low Energy #The Face#]
+Type = Gameshark
+Activation = EndFrame
+D008B360 0003
+800B49E0 0000
+
+[P1 Mode Difficulty Very Hard\Sudden Death Gigas]
+Type = Gameshark
+Activation = EndFrame
+A608B258 08980001
+
+[P1 Mode Difficulty Very Hard\Sudden Death Ultross]
+Type = Gameshark
+Activation = EndFrame
+A608B258 0ADC0001
+
+[P1 Mode Difficulty Very Hard\Sudden Death Level 5 Boss A]
+Type = Gameshark
+Activation = EndFrame
+A60B8552 05140001
+
+[P1 Mode Difficulty Very Hard\Sudden Death Power Source]
+Type = Gameshark
+Activation = EndFrame
+D008B360 0006
+800B8552 0001
+
+[P1 Mode Difficulty Very Hard\Sudden Death Metalica]
+Type = Gameshark
+Activation = EndFrame
+A60B8462 11300001
+
+[P2 Mode Difficulty Very Hard\Sudden Death Level 1 Boss]
+Type = Gameshark
+Activation = EndFrame
+A60B84DA 0A8C0001
+
+[P2 Mode Difficulty Very Hard\Sudden Death Antales 1]
+Type = Gameshark
+Activation = EndFrame
+A608B258 08CA0001
+
+[P2 Mode Difficulty Very Hard\Sudden Death Antales 2]
+Type = Gameshark
+Activation = EndFrame
+A608B258 05DC0001
+
+[P2 Mode Difficulty Very Hard\Low Energy #The Face#]
+Type = Gameshark
+Activation = EndFrame
+D008B360 0003
+800B49E0 0000
+
+[P2 Mode Difficulty Very Hard\Sudden Death Gigas]
+Type = Gameshark
+Activation = EndFrame
+A608B258 0CE40001
+
+[P2 Mode Difficulty Very Hard\Sudden Death Level 4 Boss]
+Type = Gameshark
+Activation = EndFrame
+A608B258 104A0001
+
+[P2 Mode Difficulty Very Hard\Sudden Death Level 5 Boss A]
+Type = Gameshark
+Activation = EndFrame
+A60B84DA 08660001
+
+[P2 Mode Difficulty Very Hard\Sudden Death Level 5 Boss B]
+Type = Gameshark
+Activation = EndFrame
+A60B8552 08660001
+
+[P2 Mode Difficulty Very Hard\Sudden Death Power Source]
+Type = Gameshark
+Activation = EndFrame
+A60B8552 04B00001
+
+[P2 Mode Difficulty Very Hard\Sudden Death Metalica]
+Type = Gameshark
+Activation = EndFrame
+A60B8462 19000001
+

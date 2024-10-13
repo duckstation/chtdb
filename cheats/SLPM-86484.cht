@@ -1,0 +1,37 @@
+; CHTDB: ; [ Cosmowarrior Zero (Jpn) (2000) (Taito) {SLPM-86484 (TCPS10022)} <cosmowar> ]
+
+[Infinite Energy Zero]
+Type = Gameshark
+Activation = EndFrame
+80088B70 05DC
+800BD5B4 05DC
+801BF754 05DC
+801BF794 2E88
+
+[Infinite Bombs Zero]
+Type = Gameshark
+Activation = EndFrame
+801BF782 0063
+
+[Infinite Special Attack Zero]
+Type = Gameshark
+Activation = EndFrame
+801BF77F 0063
+
+[Infinite Energy Captain Harlock]
+Type = Gameshark
+Activation = EndFrame
+80088B70 05DC
+800BD5B4 05DC
+801BDF4C 05DC
+
+[Infinite Bombs Captain Harlock]
+Type = Gameshark
+Activation = EndFrame
+801BDF7A 0063
+
+[Infinite Special Attack Captain Harlock]
+Type = Gameshark
+Activation = EndFrame
+801BDF77 0063
+

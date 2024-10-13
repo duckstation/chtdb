@@ -1,0 +1,12 @@
+; CHTDB: ; [ Snow Racer 98 (Europe) {SLES-01106} ]
+
+[Ski - Infinite time Championship mode (Activate only in race) .Activate only in race]
+Type = Gameshark
+Activation = EndFrame
+800F220D 0386
+
+[Freeride - 9999 Points in Championship Mode (Activate only in race)]
+Type = Gameshark
+Activation = EndFrame
+801AE3D8 270F
+

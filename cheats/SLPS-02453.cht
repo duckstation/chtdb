@@ -1,0 +1,40 @@
+; CHTDB: ; [ Simple 1500 Series Vol. 17: The Bike Race (Japan) {SLPS-02453} ]
+
+[Max Coin]
+Type = Gameshark
+Activation = EndFrame
+90010538 3B9AC9FF
+
+[Always 1st Place]
+Type = Gameshark
+Activation = EndFrame
+8004F804 0001
+
+[Start In Last Lap]
+Type = Gameshark
+Activation = EndFrame
+A6143DBA 0002000A
+
+[Time]
+Type = Gameshark
+Activation = EndFrame
+90050E74 24020001
+
+[All Characters]
+Type = Gameshark
+Activation = EndFrame
+80010018 0005
+90010318 00534159
+
+[All Bikes Purchased]
+Type = Gameshark
+Activation = EndFrame
+50001004 0000
+80010438 0001
+
+[All Courses Available]
+Type = Gameshark
+Activation = EndFrame
+50002002 0000
+80010478 0000
+

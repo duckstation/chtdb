@@ -1,0 +1,52 @@
+; CHTDB: ; [ Spawn: The Eternal (Japan) {SLPS-01400} ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8007F050 0800
+
+[Infinite Magic Level]
+Type = Gameshark
+Activation = EndFrame
+8007F052 270F
+
+[Infinite Hell Gauntlet]
+Type = Gameshark
+Activation = EndFrame
+8007F09A 0500
+
+[Infinite Pyromatic Orb]
+Type = Gameshark
+Activation = EndFrame
+8007F09C 0500
+
+[Infinite Cryomatic Orb]
+Type = Gameshark
+Activation = EndFrame
+8007F09E 0005
+
+[Boss stamina 0]
+Type = Gameshark
+Activation = EndFrame
+80080068 0000
+
+[Infinite Items]
+Type = Gameshark
+Activation = EndFrame
+3007FFA5 0063
+3007FFA6 0063
+3007FFA3 0063
+
+[Press the Triangle Button Maximum jump]
+Type = Gameshark
+Activation = EndFrame
+D008004C 0010
+8007FFD8 FFFF
+D008004C 0010
+8007FFDA 0002
+
+[Level selection 01-17 (01 - Jungle? 02 - Jungle 03 - Jungle? 04 - Cemetary? 05 - Cemetary? 06 - Cemetary? 07 - Level 2 08 - Sewer?09 - City?0A - Ice Level? 0B - Ice Level 0C - Fire Level17 - Lava Level? 18 - (Glitch)]
+Type = Gameshark
+Activation = EndFrame
+8007FF22 0017
+

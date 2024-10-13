@@ -1,0 +1,58 @@
+; CHTDB: ; [ Bomberman World (Europe, Australia) {SCES-01078} ]
+
+[Normal mode Indestructable Bomberman (.The last boss in each world can kill you if you're not careful.)]
+Type = Gameshark
+Activation = EndFrame
+A60CCAE2 00002000
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800CCB50 0009
+
+[Have all needed Crystals]
+Type = Gameshark
+Activation = EndFrame
+D0077BD2 0004
+80077BD0 0004
+D0077BD2 0006
+80077BD0 0006
+D0077BD2 0005
+80077BD0 0005
+
+[Maximum Bombs]
+Type = Gameshark
+Activation = EndFrame
+800CC804 000A
+
+[Maximum Fire]
+Type = Gameshark
+Activation = EndFrame
+800CCB52 000A
+
+[Infinite Time	(.When bombs are exploding hold down the X button and circle button together to give you constant explosions!)]
+Type = Gameshark
+Activation = EndFrame
+80077BD8 37A0
+
+[All Areas Open]
+Type = Gameshark
+Activation = EndFrame
+80077A5A 0004
+
+[All Worlds Complete]
+Type = Gameshark
+Activation = EndFrame
+80077A5E 0004
+
+[Invincibility In Spark Bomber Game]
+Description = 
+Type = Gameshark
+Activation = EndFrame
+800F7F48 04D6
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80077BD8 13AF
+

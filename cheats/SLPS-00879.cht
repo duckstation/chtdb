@@ -1,0 +1,119 @@
+; CHTDB: ; [ Puzzle Arena Toshinden (Jpn) (1997) (Takara) {SLPS-00879} <puztoshi> ]
+
+[P1 Full Power]
+Type = Gameshark
+Activation = EndFrame
+800A9FAE 0018
+
+[Easiest Difficulty]
+Type = Gameshark
+Activation = EndFrame
+800C7098 0000
+
+[P1 Empty Overdrive Gauge]
+Type = Gameshark
+Activation = EndFrame
+800A9FAE 0000
+
+[P2 Empty Overdrive Gauge]
+Type = Gameshark
+Activation = EndFrame
+800AA042 0000
+
+[P1 Instant 99-Step Combo]
+Type = Gameshark
+Activation = EndFrame
+E30A9F8E 0000
+300A9F8E 0063
+
+[P2 Instant 99-Step Combo]
+Type = Gameshark
+Activation = EndFrame
+E30AA022 0000
+300AA022 0063
+
+[P1 Max Combo Bonus]
+Type = Gameshark
+Activation = EndFrame
+300A9F8F 0063
+
+[P2 Max Combo Bonus]
+Type = Gameshark
+Activation = EndFrame
+300AA023 0063
+
+[P1 Max Score]
+Type = Gameshark
+Activation = EndFrame
+900A9FD0 05F5E0FF
+
+[P2 Max Score]
+Type = Gameshark
+Activation = EndFrame
+900AA064 05F5E0FF
+
+[P1 Press L1 for Level 3 Gauge]
+Type = Gameshark
+Activation = EndFrame
+E00CB32C 0004
+800A9FAE 0018
+
+[P2 Press L1 for Level 3 Gauge]
+Type = Gameshark
+Activation = EndFrame
+E00CB336 0004
+800AA042 0018
+
+[P1 Press L2 for Level 1 Gauge]
+Type = Gameshark
+Activation = EndFrame
+E00CB32C 0001
+800A9FAE 000D
+
+[P2 Press L2 for Level 1 Gauge]
+Type = Gameshark
+Activation = EndFrame
+E00CB336 0001
+800AA042 000D
+
+[P1 Press R1 for Soul Bomb Attack]
+Type = Gameshark
+Activation = EndFrame
+E00CB32C 0008
+300AA027 0001
+
+[P2 Press R1 for Soul Bomb Attack]
+Type = Gameshark
+Activation = EndFrame
+E00CB336 0008
+300A9F93 0001
+
+[P1 Press R2 for Level 2 Gauge]
+Type = Gameshark
+Activation = EndFrame
+E00CB32C 0002
+800A9FAE 0013
+
+[P2 Press R2 for Level 2 Gauge]
+Type = Gameshark
+Activation = EndFrame
+E00CB336 0002
+800AA042 0013
+
+[P1 Slow Speed]
+Type = Gameshark
+Activation = EndFrame
+300A9F8D 0000
+
+[P2 Slow Speed]
+Type = Gameshark
+Activation = EndFrame
+300AA021 0000
+
+[Unlock All Extras]
+Type = Gameshark
+Activation = EndFrame
+50000702 0000
+80058A0C 8787
+80058A1A 0204
+

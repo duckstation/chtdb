@@ -1,0 +1,37 @@
+; CHTDB: ; [ Civilization II (Germany) {SLES-01796} ]
+
+[Unendlich Geld\RöMer, Russen, Kelten]
+Type = Gameshark
+Activation = EndFrame
+80118A40 FFFF
+
+[Unendlich Geld\Babylonier, Zulus, Japaner]
+Type = Gameshark
+Activation = EndFrame
+80118FB8 FFFF
+
+[Unendlich Geld\Deutsche, Franzosen, Wikinger]
+Type = Gameshark
+Activation = EndFrame
+80119530 FFFF
+
+[Unendlich Geld\ÄGypter, Azteken, Spanier]
+Type = Gameshark
+Activation = EndFrame
+80119AA8 FFFF
+
+[Unendlich Geld\Amerikaner, Chinesen, Perser]
+Type = Gameshark
+Activation = EndFrame
+8011A020 FFFF
+
+[Unendlich Geld\Griechen, EngläNder, Karthager]
+Type = Gameshark
+Activation = EndFrame
+8011A598 FFFF
+
+[Unendlich Geld\Inder, Mongolen, Sioux]
+Type = Gameshark
+Activation = EndFrame
+8011AB10 FFFF
+

@@ -1,0 +1,37 @@
+; CHTDB: ; [ Kizuna toyuu Na no Pendant with Toybox Stories (Japan) {SLPS-02681 | SLPS-02682} ]
+
+[Special selectable]
+Type = Gameshark
+Activation = EndFrame
+8008AD98 2401
+
+[Special selectable + CG Open]
+Type = Gameshark
+Activation = EndFrame
+8008AD98 3C01
+
+[Special selectable + CG Open + Toybox 1]
+Type = Gameshark
+Activation = EndFrame
+8008AD98 7c01
+
+[Special selectable + CG Open + Toybox 1 + 2]
+Type = Gameshark
+Activation = EndFrame
+8008AD98 FC01
+
+[TOYBOX 3 Open]
+Type = Gameshark
+Activation = EndFrame
+3008AD9A 0001
+
+[All CG open]
+Type = Gameshark
+Activation = EndFrame
+3008AD9B 00FE
+9008AD9C FFFEFFFF
+9008ADA0 FBFBFDDA
+9008ADA4 FFFF7FFF
+9008ADA8 4607FFFF
+3008ADAC 00D1
+

@@ -1,0 +1,23 @@
+; CHTDB: ; [ Shockwave Assault (Shockwave: Invasion Earth) (Europe) {SLES-00071 | SLES-10071} ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8006AD04 01C0
+
+[Infinite Laser-Energy]
+Type = Gameshark
+Activation = EndFrame
+8006ACD8 027E
+
+[Infinite Fuel]
+Type = Gameshark
+Activation = EndFrame
+8006E314 252B
+
+[Infinite Missiles]
+Type = Gameshark
+Activation = EndFrame
+8006DF14 000F
+8006E318 000F
+

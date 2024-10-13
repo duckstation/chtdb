@@ -1,0 +1,12 @@
+; CHTDB: ; [ Matsumoto Leiji - Story of Galaxy Express 999 (Jpn) (2001) (Banpresto) {SLPS-03220~SLPS-03221} <galax999> ]
+
+[Infinite HP Tetsuro Hoshino (Main character)]
+Type = Gameshark
+Activation = EndFrame
+800A5B99 000F
+
+[Infinite Time in Canyon sequence]
+Type = Gameshark
+Activation = EndFrame
+800A73A6 003B
+

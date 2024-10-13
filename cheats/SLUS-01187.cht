@@ -1,0 +1,71 @@
+; CHTDB: ; [ The Mummy (USA) (2000) (Konami of America) {SLUS-01187} <mummy> ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+D00C3E84 0124
+800C3E86 2400
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+D0039AC4 0024
+80039AC6 2400
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+D0039B98 0014
+80039B9A 2400
+
+[Have All Weapons]
+Type = Gameshark
+Activation = EndFrame
+50000804 0000
+3009E97F 0081
+
+[Infinite Lives (Alternate)]
+Type = Gameshark
+Activation = EndFrame
+8009E968 0009
+
+[Have Amulett]
+Type = Gameshark
+Activation = EndFrame
+3009E997 0081
+
+[Have Double Pistols]
+Type = Gameshark
+Activation = EndFrame
+3009E987 0081
+
+[Have Dynamite]
+Type = Gameshark
+Activation = EndFrame
+3009E993 0081
+
+[Have Golden Sword]
+Type = Gameshark
+Activation = EndFrame
+3009E99B 0081
+
+[Have Machete]
+Type = Gameshark
+Activation = EndFrame
+3009E983 0081
+
+[Have Machine Gun]
+Type = Gameshark
+Activation = EndFrame
+3009E98F 0081
+
+[Have Shotgun]
+Type = Gameshark
+Activation = EndFrame
+3009E98B 0081
+
+[Have Torch]
+Type = Gameshark
+Activation = EndFrame
+3009E97F 0081
+

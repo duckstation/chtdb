@@ -1,0 +1,73 @@
+; CHTDB: ; [ Digimon World (Germany) {SLES-03434} ]
+
+[Max Bits]
+Type = Gameshark
+Activation = EndFrame
+9013C21C 05F5E0FF
+
+[Habe alle Spezialgeräte]
+Type = Gameshark
+Activation = EndFrame
+30158BE2 00F0
+30158BE3 0001
+
+[Habe alle Medaillen]
+Type = Gameshark
+Activation = EndFrame
+80158C0A FFFF
+30158C0C 0007
+
+[Habe alle Digimon in der Tabelle / alle entwickelt]
+Type = Gameshark
+Activation = EndFrame
+30158C1D 00FF
+50000302 FFFF
+80158C1E 0000
+30158C24 00FF
+
+[Zustand Unendlich Leben]
+Type = Gameshark
+Activation = EndFrame
+8016CA04 0003
+
+[Zustand Max Glück]
+Type = Gameshark
+Activation = EndFrame
+3013FBE2 0064
+
+[Zustand Max Disziplin]
+Type = Gameshark
+Activation = EndFrame
+3013FBE0 0064
+
+[Zustand Virus (Flch) immer auf 0]
+Type = Gameshark
+Activation = EndFrame
+3013FBD6 0000
+
+[Parameter Max Lebensenergie]
+Type = Gameshark
+Activation = EndFrame
+8016C9D0 270F
+
+[Parameter Unendlich Lebensenergie]
+Type = Gameshark
+Activation = EndFrame
+8016C9D4 270F
+
+[Parameter Max Magiepunkte]
+Type = Gameshark
+Activation = EndFrame
+8016C9D2 270F
+
+[Parameter Unendlich Magiepunkte]
+Type = Gameshark
+Activation = EndFrame
+8016C9D6 270F
+
+[Techniken erlernt Alle]
+Type = Gameshark
+Activation = EndFrame
+50000402 FFFF
+8016C9E0 0000
+

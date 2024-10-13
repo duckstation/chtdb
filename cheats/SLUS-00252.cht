@@ -1,0 +1,27 @@
+; CHTDB: ; [ Robotron X (USA) (1996) (Midway Home Entertainment) {SLUS-00252} <robotrnx> ]
+
+[P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+900264A4 00000000
+
+[P1 Infinite Lives (Alt)]
+Type = Gameshark
+Activation = EndFrame
+800933F8 0005
+
+[P1 Score Max]
+Type = Gameshark
+Activation = EndFrame
+800933F4 FFFF
+
+[P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80094204 0005
+
+[P2 Score Max]
+Type = Gameshark
+Activation = EndFrame
+80094200 FFFF
+

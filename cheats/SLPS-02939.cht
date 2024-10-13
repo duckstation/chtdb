@@ -1,0 +1,118 @@
+; CHTDB: ; [ Tatsunoko Fight (Jpn) (2000) (Takara) {SLPS-02939} <tatsufgt> ]
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8008FDA5 0069
+8009844E 0075
+
+[P1 stamina]
+Type = Gameshark
+Activation = EndFrame
+8008FDA4 6900
+
+[P2 stamina]
+Type = Gameshark
+Activation = EndFrame
+8008FEF0 6900
+
+[Gallery Mode Fully Open]
+Type = Gameshark
+Activation = EndFrame
+800CB8F2 0001
+800CB8F6 0001
+800CB8FA 0001
+800CB8FE 0001
+800CB902 0001
+900CB904 00010001
+900CB908 00010001
+900CB90C 00010001
+900CB910 00010001
+
+[All Unlock (Final story mode, gallery and character)]
+Type = Gameshark
+Activation = EndFrame
+8008D848 FFFF
+50001304 0000
+800CB8EE 0001
+
+[P1 Select character\Ken]
+Type = Gameshark
+Activation = EndFrame
+30097B08 0000
+
+[P1 Select character\Swan Jun]
+Type = Gameshark
+Activation = EndFrame
+30097B08 0001
+
+[P1 Select character\Berukukatsutse]
+Type = Gameshark
+Activation = EndFrame
+30097B08 0002
+
+[P1 Select character\Casshern]
+Type = Gameshark
+Activation = EndFrame
+30097B08 0003
+
+[P1 Select character\Luna Kozuki]
+Type = Gameshark
+Activation = EndFrame
+30097B08 0004
+
+[P1 Select character\Buraikingubosu]
+Type = Gameshark
+Activation = EndFrame
+30097B08 0005
+
+[P1 Select character\Polymer]
+Type = Gameshark
+Activation = EndFrame
+30097B08 0006
+
+[P1 Select character\Motel]
+Type = Gameshark
+Activation = EndFrame
+30097B08 0007
+
+[P1 Select character\Asutorarukamereon]
+Type = Gameshark
+Activation = EndFrame
+30097B08 0008
+
+[P1 Select character\Tekkaman]
+Type = Gameshark
+Activation = EndFrame
+30097B08 0009
+
+[P1 Select character\Umeta]
+Type = Gameshark
+Activation = EndFrame
+30097B08 000A
+
+[P1 Select character\Doburai]
+Type = Gameshark
+Activation = EndFrame
+30097B08 000B
+
+[P1 Select character\Wolter 0C]
+Type = Gameshark
+Activation = EndFrame
+30097B08 000C
+
+[P1 Select character\Neon 0D]
+Type = Gameshark
+Activation = EndFrame
+30097B08 000D
+
+[P1 Select character\Karochi]
+Type = Gameshark
+Activation = EndFrame
+30097B08 000E
+
+[P1 Select character\Rosuraisen]
+Type = Gameshark
+Activation = EndFrame
+30097B08 000F
+

@@ -1,0 +1,7 @@
+; CHTDB: ; [ U.P.P. (Japan) {SLPS-01480} ]
+
+[Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+8008E004 0009
+

@@ -1,0 +1,22 @@
+; CHTDB: ; [ Paradise Casino (Europe) {SLES-04048} ]
+
+[Infinite Money Roulette (Always Win)]
+Type = Gameshark
+Activation = EndFrame
+80056870 270F
+
+[Infinite Money Black Jack (Always Win)]
+Type = Gameshark
+Activation = EndFrame
+80053B98 270F
+
+[Infinite Money Slot Machines (Always Win)]
+Type = Gameshark
+Activation = EndFrame
+80052708 270F
+
+[Infinite Money Super Poker (Always Win)]
+Type = Gameshark
+Activation = EndFrame
+8005781C 270F
+

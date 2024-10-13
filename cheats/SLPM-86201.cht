@@ -1,0 +1,35 @@
+; CHTDB: ; [ The King of Fighters '98 - Dream Match Never Ends (Jpn) (1999) (SNK) {SLPM-86201} <kof98> ]
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800C2748 0067
+800C2762 0067
+
+[Power always invoked in (1P)]
+Type = Gameshark
+Activation = EndFrame
+800C2706 3E60
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800C35AA 5900
+
+[Secret Ending Demo]
+Type = Gameshark
+Activation = EndFrame
+8009DA24 0102
+
+[P2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800C2910 0067
+800C292A 0067
+
+[P2 No Energy]
+Type = Gameshark
+Activation = EndFrame
+800C2910 0000
+800C292A 0000
+

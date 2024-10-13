@@ -1,0 +1,97 @@
+; CHTDB: ; [ Re-Loaded - The Hardcore Sequel (USA) (1996) (Interplay Productions) {SLUS-00382} <reloaded> ]
+
+[Infinite Continues]
+Type = Gameshark
+Activation = EndFrame
+800EEC08 0009
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+90081D9C 00000000
+
+[Infinite Bombs]
+Type = Gameshark
+Activation = EndFrame
+90081780 00000000
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+90081500 00000000
+
+[Select Perm Level\Gettin' Started]
+Type = Gameshark
+Activation = EndFrame
+80056538 0001
+
+[Select Perm Level\Smashing Pacifists]
+Type = Gameshark
+Activation = EndFrame
+80056538 0002
+
+[Select Perm Level\Goin' Underground]
+Type = Gameshark
+Activation = EndFrame
+80056538 0003
+
+[Select Perm Level\Keep Cool]
+Type = Gameshark
+Activation = EndFrame
+80056538 0004
+
+[Select Perm Level\Gettin' Hot]
+Type = Gameshark
+Activation = EndFrame
+80056538 0005
+
+[Select Perm Level\Make Some Noize]
+Type = Gameshark
+Activation = EndFrame
+80056538 0006
+
+[Select Perm Level\Hear No Evil]
+Type = Gameshark
+Activation = EndFrame
+80056538 0007
+
+[Select Perm Level\Saving Clones]
+Type = Gameshark
+Activation = EndFrame
+80056538 0008
+
+[Select Perm Level\Cheb's Island]
+Type = Gameshark
+Activation = EndFrame
+80056538 0009
+
+[Select Perm Level\The House On The Hill]
+Type = Gameshark
+Activation = EndFrame
+80056538 000A
+
+[Select Perm Level\Bunsen And The Labs]
+Type = Gameshark
+Activation = EndFrame
+80056538 000B
+
+[Select Perm Level\Kickin' Some Ass]
+Type = Gameshark
+Activation = EndFrame
+80056538 000C
+
+[Select Perm Level\Happy?End]
+Type = Gameshark
+Activation = EndFrame
+80056538 000D
+
+[Cheat Modifier All Cheats]
+Type = Gameshark
+Activation = EndFrame
+800A57F4 003F
+
+[Fwank Unlocked]
+Type = Gameshark
+Activation = EndFrame
+3005659C 0080
+

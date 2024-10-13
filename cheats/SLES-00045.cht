@@ -1,0 +1,22 @@
+; CHTDB: ; [ Casper (Europe) {SLES-00045} ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801FBD84 01F4
+
+[Infinite Brass Key]
+Type = Gameshark
+Activation = EndFrame
+8007EB44 0001
+
+[Infinite Iron Keys]
+Type = Gameshark
+Activation = EndFrame
+8007EB48 0001
+
+[Infinite Fools Gold]
+Type = Gameshark
+Activation = EndFrame
+8007EB4C 00FF
+

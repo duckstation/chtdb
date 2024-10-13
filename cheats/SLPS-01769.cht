@@ -1,0 +1,27 @@
+; CHTDB: ; [ Ling Rise (Jpn) (1999) (Epoch) {SLPS-01769} <lingrise> ]
+
+[Infinite Energy Link 1]
+Type = Gameshark
+Activation = EndFrame
+8002D446 00FF
+
+[Infinite Energy Link 2]
+Type = Gameshark
+Activation = EndFrame
+8002D462 00FF
+
+[Infinite Energy Link 3]
+Type = Gameshark
+Activation = EndFrame
+8002D47E 00FF
+
+[Infinite Money (9999)]
+Type = Gameshark
+Activation = EndFrame
+8002D42E 270F
+
+[Infinite Energy Ginball]
+Type = Gameshark
+Activation = EndFrame
+8002BBB0 03E7
+

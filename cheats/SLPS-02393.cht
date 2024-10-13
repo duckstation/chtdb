@@ -1,0 +1,14 @@
+; CHTDB: ; [ Yamagata Digital Museum (Jpn) (1999) (Imagineer) {SLPS-02393~SLPS-02396} <yamagata> ]
+
+[Have Special Arrows]
+Type = Gameshark
+Activation = EndFrame
+8011989C 0001
+
+[All Ending]
+Type = Gameshark
+Activation = EndFrame
+801198AC 001F
+801198EC 000F
+901198B4 0003FFFF
+

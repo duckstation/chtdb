@@ -1,0 +1,52 @@
+; CHTDB: ; [ X-Men: Mutant Academy (Germany) {SLES-02866} ]
+
+[P1 Unendlich Energie]
+Type = Gameshark
+Activation = EndFrame
+8009FDF4 BB80
+
+[P1 Unendlich Konter]
+Type = Gameshark
+Activation = EndFrame
+8009FED8 0000
+
+[P1 Keine Konter]
+Type = Gameshark
+Activation = EndFrame
+8009FED8 0003
+
+[Unendlich Energie]
+Type = Gameshark
+Activation = EndFrame
+800A03C8 BB80
+
+[P2 SuddenDeath]
+Type = Gameshark
+Activation = EndFrame
+D10A03C8 B400
+800A03C8 0000
+
+[Unendlich Zeit Akademie]
+Type = Gameshark
+Activation = EndFrame
+D002F478 FFFF
+3002F480 0000
+
+[Alles freigeschaltet]
+Type = Gameshark
+Activation = EndFrame
+50000302 0000
+800BCD04 FFFF
+
+[Unendlich Zeit]
+Type = Gameshark
+Activation = EndFrame
+D002F2E0 FFFF
+3002F2E8 0000
+
+[1 Runde gewinnen, um Abspann zu sehen]
+Type = Gameshark
+Activation = EndFrame
+D009DFEC 0000
+3009DFEC 0009
+

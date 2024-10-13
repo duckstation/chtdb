@@ -1,0 +1,42 @@
+; CHTDB: ; [ Pro 18 - World Tour Golf (USA) (1999) (Psygnosis) {SLUS-00817} <pro18> ]
+
+[P1 Only Record One Swing]
+Type = Gameshark
+Activation = EndFrame
+80060CAC 0001
+
+[P2 Only Record One Swing]
+Type = Gameshark
+Activation = EndFrame
+80060D3C 0001
+
+[P3 Only Record One Swing]
+Type = Gameshark
+Activation = EndFrame
+80060DCC 0001
+
+[P4 Only Record One Swing]
+Type = Gameshark
+Activation = EndFrame
+80065E5C 0001
+
+[P5 Only Record One Swing]
+Type = Gameshark
+Activation = EndFrame
+80060EEC 0001
+
+[P6 Only Record One Swing]
+Type = Gameshark
+Activation = EndFrame
+80060F7C 0001
+
+[P7 Only Record One Swing]
+Type = Gameshark
+Activation = EndFrame
+8006100C 0001
+
+[P8 Only Record One Swing]
+Type = Gameshark
+Activation = EndFrame
+8006109C 0001
+

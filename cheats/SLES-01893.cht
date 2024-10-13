@@ -1,0 +1,60 @@
+; CHTDB: ; [ Bomberman (Europe) {SLES-01893} ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+A705EB7A A4242400
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80061F2E 2400
+
+[Infinite Bombs]
+Type = Gameshark
+Activation = EndFrame
+A702002E A6022400
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+A7056F6E 14511000
+A70292BA 10401000
+
+[Walk through Walls]
+Type = Gameshark
+Activation = EndFrame
+A7026FC2 14401400
+A70272CA 14401400
+A70275E2 14401400
+A70278EA 14401400
+;f 0,fffff,w.a424,d.00042400  <--Lives
+;f 0,fffff,w.a602,d.8602006a  <--Bombs
+;f 0,fffff,w.1451,0,0,?,0801  <--Invincibility Pt1
+;f 0,fffff,w.1040,d.2650004c  <--Invincibility Pt2
+;f 0,fffff,w.1440,d.240a821  <WTW All 4 addresses
+
+[Press L2 for Timer Bomb]
+Type = Gameshark
+Activation = EndFrame
+D0093B76 0401
+801D8C14 0001
+
+[Press R2 for Power Bomb]
+Type = Gameshark
+Activation = EndFrame
+D0093B76 0402
+801D8C14 0002
+
+[Press L1 for Slime Bomb]
+Type = Gameshark
+Activation = EndFrame
+D0093B76 0404
+801D8C14 0003
+
+[Press R1 for Heavy Bomb]
+Type = Gameshark
+Activation = EndFrame
+D0093B76 0408
+801D8C14 0004
+

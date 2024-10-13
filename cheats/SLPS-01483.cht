@@ -1,0 +1,13 @@
+; CHTDB: ; [ Zig Zag Ball (Jpn) (1998) (Upstar) {SLPS-01483} <zigzagba> ]
+
+[Infinite Strokes .Only enable the code at the end of hole or when you need to recover the strokes or the game won't use the vibration]
+Type = Gameshark
+Activation = EndFrame
+800DF0D4 0010
+800DF114 0010
+
+[99 Stars]
+Type = Gameshark
+Activation = EndFrame
+800DF110 0063
+

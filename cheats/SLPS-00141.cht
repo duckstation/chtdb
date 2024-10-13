@@ -1,0 +1,12 @@
+; CHTDB: ; [ Alone in the Dark 2 (Japan) {SLPS-00141} ]
+
+[Infinite Health Level 1]
+Type = Gameshark
+Activation = EndFrame
+8010E098 0032
+
+[Infinite Ammos]
+Type = Gameshark
+Activation = EndFrame
+90028764 00000000
+

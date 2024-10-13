@@ -1,0 +1,17 @@
+; CHTDB: ; [ Rurouni Kenshin: Meiji Kenkaku Romantan: Ishin Gekitou-hen (Japan) {SCPS-10030} ]
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8008FA1A 00EC
+
+[Have All Characters]
+Type = Gameshark
+Activation = EndFrame
+800A9CA0 03FF
+
+[P2 1-Hit Kills]
+Type = Gameshark
+Activation = EndFrame
+8008FDDE 0001
+

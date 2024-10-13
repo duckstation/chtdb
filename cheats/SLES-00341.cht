@@ -1,0 +1,17 @@
+; CHTDB: ; [ Skeleton Warriors (Europe) {SLES-00341} ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801DB768 0004
+
+[Infinite Crystals]
+Type = Gameshark
+Activation = EndFrame
+801DB774 0020
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801DB760 0064
+

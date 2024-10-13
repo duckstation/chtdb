@@ -1,0 +1,128 @@
+; CHTDB: ; [ Konami Arcade Classics (USA) (1999) (Konami of America) {SLUS-00945} <konamiac> ]
+
+[Circus Charlie\P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800EDCE8 0003
+
+[Circus Charlie\Infinite Timer]
+Type = Gameshark
+Activation = EndFrame
+800EDD64 0705
+
+[Gyruss\P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800F50E8 2403
+
+[Gyruss\P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800F5108 2403
+
+[Pooyan\P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800F43F0 0503
+
+[Pooyan\Kill 1 Guy A Level (Both Players)]
+Type = Gameshark
+Activation = EndFrame
+800F43E8 0100
+
+[Road Fighter\P1 Cars Passed Modifier]
+Type = Gameshark
+Activation = EndFrame
+800EEB9A 00FF
+
+[Road Fighter\Infinite Fuel (Both Players)]
+Type = Gameshark
+Activation = EndFrame
+800EEB96 FFFF
+
+[Roc 'n Rope\P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800F0BA8 0002
+
+[Roc 'n Rope\P1 Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800F0CA8 0002
+
+[Scramble\P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800EFBF0 0002
+
+[Scramble\Infinite Fuel]
+Type = Gameshark
+Activation = EndFrame
+800EFBEC F500
+
+[Shao Lin's Road\P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800EE560 0003
+
+[Shao Lin's Road\Infinite Damage (Both Players)]
+Type = Gameshark
+Activation = EndFrame
+800EEBE8 0000
+
+[Shao Lin's Road\Kill 1 Guy A Level (Both Players)]
+Type = Gameshark
+Activation = EndFrame
+800EE56E 0194
+
+[Super Cobra\P1 Infinite Fuel]
+Type = Gameshark
+Activation = EndFrame
+800F3BEC EC00
+
+[Super Cobra\P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800F3BF0 0003
+
+[Time Pilot\P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800F67E8 0103
+
+[Time Pilot\P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800F67F8 0103
+
+[Time Pilot\Kill Main Guy Only To Win]
+Type = Gameshark
+Activation = EndFrame
+800F67EA 0000
+
+[Time Pilot\P1 + P2 Invincibility]
+Type = Gameshark
+Activation = EndFrame
+300F62E8 00FF
+
+[Yie Ar Kung-Fu\P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800F0F18 020B
+
+[Yie Ar Kung-Fu\P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800F0F48 020B
+
+[Yie Ar Kung-Fu\Infinite Health (Both Players)]
+Type = Gameshark
+Activation = EndFrame
+D30F0B72 0000
+800F0B74 0008
+
+[Yie Ar Kung-Fu\Opponents Health At No Hits (Both Players)]
+Type = Gameshark
+Activation = EndFrame
+800F0C7A 0000
+

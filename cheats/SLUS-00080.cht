@@ -1,0 +1,28 @@
+; CHTDB: ; [ Slamscape (USA) (1996) (Viacom New Media) {SLUS-00080} <slamscap> ]
+
+[Inifnite Mine Traps]
+Type = Gameshark
+Activation = EndFrame
+801842C8 0064
+
+[Infinite Fast Blasters]
+Type = Gameshark
+Activation = EndFrame
+801842C0 0280
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801842A8 0100
+801842B0 0100
+
+[Infinite Ripstars]
+Type = Gameshark
+Activation = EndFrame
+801842C4 0064
+
+[Infinite Torps]
+Type = Gameshark
+Activation = EndFrame
+801842CC 0064
+

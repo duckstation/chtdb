@@ -1,0 +1,55 @@
+; CHTDB: ; [ Rampage - World Tour (USA) (1997) (Midway Home Entertainment) {SLUS-00549} <rampage> ]
+
+[Infinite Health (George)]
+Type = Gameshark
+Activation = EndFrame
+800D6786 0063
+
+[Infinite Health (Lizzy)]
+Type = Gameshark
+Activation = EndFrame
+800D6952 0063
+
+[Infinite Health (Ralph)]
+Type = Gameshark
+Activation = EndFrame
+800D6B1E 0063
+
+[Fake Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+90065760 00000000
+
+[Invinciblity (George)]
+Type = Gameshark
+Activation = EndFrame
+800D686E 0239
+
+[Invinciblity (Lizzy)]
+Type = Gameshark
+Activation = EndFrame
+800D6A3A 0239
+
+[Invinciblity (Ralph)]
+Type = Gameshark
+Activation = EndFrame
+800D6C06 0239
+
+[Super Strength (George)]
+Type = Gameshark
+Activation = EndFrame
+800D6870 0181
+800D68B8 0000
+
+[Super Strength (Lizzy)]
+Type = Gameshark
+Activation = EndFrame
+800D6A3C 0181
+800D6A84 0000
+
+[Super Strength (Ralph)]
+Type = Gameshark
+Activation = EndFrame
+800D6C08 0181
+800D6C50 0000
+

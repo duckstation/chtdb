@@ -1,0 +1,29 @@
+; CHTDB: ; [ Hydro Thunder (USA) (2000) (Midway Home Entertainment) {SLUS-00847} <hydrothn> ]
+
+[Unlock All Curses And Boats]
+Type = Gameshark
+Activation = EndFrame
+50000602 0000
+800A223C 0000
+300A2248 0000
+
+[Max Cash]
+Type = Gameshark
+Activation = EndFrame
+800966B4 FFFF
+
+[Always First Place]
+Type = Gameshark
+Activation = EndFrame
+8009DD58 0001
+
+[Unlock Bonus Levels + Boats]
+Type = Gameshark
+Activation = EndFrame
+300A223C 0000
+300A223E 0000
+300A2241 0000
+300A2242 0000
+800A2246 0000
+300A2248 0000
+

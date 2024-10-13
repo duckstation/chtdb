@@ -1,0 +1,49 @@
+; CHTDB: ; [ Machine Hunter (Germany) {SLES-00831} ]
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800BE510 005F
+
+[P2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800BE728 005F
+
+[P1 Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800BE50C 00AA
+
+[P2 Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800BE724 00AA
+
+[P1 Infinite power]
+Type = Gameshark
+Activation = EndFrame
+8011FF0C 1000
+8011FF10 1000
+
+[P2 Infinite power]
+Type = Gameshark
+Activation = EndFrame
+8011FF74 1000
+8011FF78 1000
+
+[Infinite Land mines]
+Type = Gameshark
+Activation = EndFrame
+8011FF2C 0063
+
+[Infinite Proximity bombs]
+Type = Gameshark
+Activation = EndFrame
+8011FF28 0063
+
+[Infinite Continues]
+Type = Gameshark
+Activation = EndFrame
+8011FF50 0005
+

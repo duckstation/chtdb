@@ -1,0 +1,28 @@
+; CHTDB: ; [ Advanced V.G. (Jpn) (1996) (TGL) {SLPS-00208} <avg> ]
+
+[P1 Infinite Live In Adventure]
+Type = Gameshark
+Activation = EndFrame
+800CB44E 00FF
+900CB450 00FF00FF
+
+[P1 Infinite Life]
+Type = Gameshark
+Activation = EndFrame
+80022704 0000
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800140A4 0000
+
+[P1 Select Character\K-1]
+Type = Gameshark
+Activation = EndFrame
+801AD948 000A
+
+[P1 Select Character\K-2]
+Type = Gameshark
+Activation = EndFrame
+801AD948 000B
+

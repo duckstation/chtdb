@@ -1,0 +1,12 @@
+; CHTDB: ; [ Resident Evil 2 (Spain) {SLES-00976 | SLES-10976} ]
+
+[Leon Energia Infinita]
+Type = Gameshark
+Activation = EndFrame
+800C6F22 008C
+
+[Claire Energia Infinita]
+Type = Gameshark
+Activation = EndFrame
+800C6EBA 008C
+

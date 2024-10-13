@@ -1,0 +1,98 @@
+; CHTDB: ; [ Twisted Metal - Small Brawl (USA) (2001) (Sony Computer Entertainment America) {SCUS-94642} <twistmsb> ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801504A0 04FB
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80160F8C 0003
+
+[Infinite Battery Attack Power]
+Type = Gameshark
+Activation = EndFrame
+80151E88 2A30
+
+[Infinite Environment Weapon]
+Type = Gameshark
+Activation = EndFrame
+80151EBC 0003
+
+[Unlock All Characters]
+Type = Gameshark
+Activation = EndFrame
+50000504 0000
+301D1E3C 0001
+
+[Select Stage\Buster's Lanes]
+Type = Gameshark
+Activation = EndFrame
+80189BA0 0000
+
+[Select Stage\Holiday Havoc]
+Type = Gameshark
+Activation = EndFrame
+80189BA0 0001
+
+[Select Stage\Gridiron Gore]
+Type = Gameshark
+Activation = EndFrame
+80189BA0 0002
+
+[Select Stage\Carn-O-Maul]
+Type = Gameshark
+Activation = EndFrame
+80189BA0 0003
+
+[Select Stage\Minigolf Mayhem]
+Type = Gameshark
+Activation = EndFrame
+80189BA0 0004
+
+[Select Stage\Easy Death Oven]
+Type = Gameshark
+Activation = EndFrame
+80189BA0 0005
+
+[Select Stage\Shock Therapy]
+Type = Gameshark
+Activation = EndFrame
+80189BA0 0006
+
+[Select Stage\Meat Your Maker]
+Type = Gameshark
+Activation = EndFrame
+80189BA0 0000
+
+[Select Stage\Now Slaying]
+Type = Gameshark
+Activation = EndFrame
+80189BA0 0000
+
+[Select Stage\Playground Peril]
+Type = Gameshark
+Activation = EndFrame
+80189BA0 0000
+
+[Select Stage\Treetop Rumble]
+Type = Gameshark
+Activation = EndFrame
+80189BA0 0000
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A71D2108 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A71D2108 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A71D2108 10000400
+

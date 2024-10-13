@@ -1,0 +1,153 @@
+; CHTDB: ; [ Tony Hawk's Pro Skater 2 (USA) (2000) (Activision) {SLUS-01066, SLUS-01066GH} <thps2> ]
+
+[Perfect Balance]
+Type = Gameshark
+Activation = EndFrame
+900BBD44 00010001
+
+[Moon Physics]
+Type = Gameshark
+Activation = EndFrame
+900BBD68 00010001
+
+[Enable All Videos]
+Type = Gameshark
+Activation = EndFrame
+301F583C 0001
+301F5898 0001
+301F58F4 0001
+301F5950 0001
+301F59AC 0001
+301F5A08 0001
+301F5A64 0001
+301F5AC0 0001
+301F5B1C 0001
+301F5B78 0001
+301F5BD4 0001
+301F5C30 0001
+301F5C8C 0001
+301F5CE8 0001
+301F5D44 0001
+
+[All Levels-Andrew Reynolds]
+Type = Gameshark
+Activation = EndFrame
+50000802 0000
+800BAF9C FFFF
+
+[All Levels-Bob Burnquist]
+Type = Gameshark
+Activation = EndFrame
+50000802 0000
+800BA87C FFFF
+
+[All Levels-Bucky Lasek]
+Type = Gameshark
+Activation = EndFrame
+50000802 0000
+800BACF0 FFFF
+
+[All Levels-Chad Muska]
+Type = Gameshark
+Activation = EndFrame
+50000802 0000
+800BAEB8 FFFF
+
+[All Levels-Custom Skater 1]
+Type = Gameshark
+Activation = EndFrame
+50000802 0000
+800BB32C FFFF
+
+[All Levels-Custom Skater 2]
+Type = Gameshark
+Activation = EndFrame
+50000802 0000
+800BB410 FFFF
+
+[All Levels-Custom Skater 3]
+Type = Gameshark
+Activation = EndFrame
+50000802 0000
+800BB4F4 FFFF
+
+[All Levels-Custom Skater 4]
+Type = Gameshark
+Activation = EndFrame
+50000802 0000
+800BB5D8 FFFF
+
+[All Levels-Elissa Steamer]
+Type = Gameshark
+Activation = EndFrame
+50000802 0000
+800BB164 FFFF
+
+[All Levels-Eric Koston]
+Type = Gameshark
+Activation = EndFrame
+50000802 0000
+800BAC0C FFFF
+
+[All Levels-Geoff Rowley]
+Type = Gameshark
+Activation = EndFrame
+50000802 0000
+800BB080 FFFF
+
+[All Levels-Jamie Thomas]
+Type = Gameshark
+Activation = EndFrame
+50000802 0000
+800BB248 FFFF
+
+[All Levels-Kareem Cambell]
+Type = Gameshark
+Activation = EndFrame
+50000802 0000
+800BAA44 FFFF
+
+[All Levels-Rodney Mullen]
+Type = Gameshark
+Activation = EndFrame
+50000802 0000
+800BADD4 FFFF
+
+[All Levels-Rune Glifberg]
+Type = Gameshark
+Activation = EndFrame
+50000802 0000
+800BAB28 FFFF
+
+[All Levels-Steve Caballero]
+Type = Gameshark
+Activation = EndFrame
+50000802 0000
+800BA960 FFFF
+
+[All Levels-Tony Hawk]
+Type = Gameshark
+Activation = EndFrame
+50000802 0000
+800BA798 FFFF
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800D6562 0000
+
+[Max Career Cash]
+Type = Gameshark
+Activation = EndFrame
+900BB5D0 7530FFFF
+
+[Max Cash]
+Type = Gameshark
+Activation = EndFrame
+900BB5D4 7530FFFF
+
+[Widescreen 16-9 (Vert-)]
+Type = Gameshark
+Activation = EndFrame
+A70D8640 19991333
+

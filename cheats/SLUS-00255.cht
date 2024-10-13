@@ -1,0 +1,30 @@
+; CHTDB: ; [ King's Field II (USA) (1996) (ASCII Entertainment Software) {SLUS-00255} <kingsfl2> ]
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+801B24FA 270F
+801B24FC 270F
+
+[Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+801B24FE 270F
+801B2500 270F
+
+[50000 OF GOLD]
+Type = Gameshark
+Activation = EndFrame
+801B2534 C350
+
+[Uncap game at 30 FPS (200 Overclock for stable 30 FPS)]
+Type = Gameshark
+Activation = EndFrame
+A7019656 14402400
+
+[Uncap Game at 60 FPS (160 Overclock for stable 60 FPS)]
+Type = Gameshark
+Activation = EndFrame
+A7019656 14402400
+A7079272 10401000
+

@@ -1,0 +1,14 @@
+; CHTDB: ; [ Dance Dance Revolution - 5th Mix (Jpn) (2001) (Konami) {SLPM-86897 (VX246-J1)} <ddr5m> ]
+
+[Always Perfect]
+Type = Gameshark
+Activation = EndFrame
+800F2936 03E8
+800F3B90 03E8
+
+[All Lessons Clear]
+Type = Gameshark
+Activation = EndFrame
+50000C02 0000
+80117C30 0202
+

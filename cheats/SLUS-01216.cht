@@ -1,0 +1,82 @@
+; CHTDB: ; [ Championship Surfer (USA) (2000) (Mattel Interactive) {SLUS-01216} <chmpsurf> ]
+
+[Max Points]
+Type = Gameshark
+Activation = EndFrame
+800B1BCC FFFF
+
+[Infinite Waves]
+Type = Gameshark
+Activation = EndFrame
+A60B1B58 00010000
+
+[Heat 1 Max Rating]
+Type = Gameshark
+Activation = EndFrame
+A60B1B88 0000270F
+
+[Heat 2 Max Rating]
+Type = Gameshark
+Activation = EndFrame
+A60B1B8C 0000270F
+
+[Heat 3 Max Rating]
+Type = Gameshark
+Activation = EndFrame
+A60B1B90 0000270F
+
+[Max Score]
+Type = Gameshark
+Activation = EndFrame
+A60B1B5C 0000FFFF
+
+[Unlock Gnarly Point]
+Type = Gameshark
+Activation = EndFrame
+8009733C 0001
+
+[Unlock Rock Piles]
+Type = Gameshark
+Activation = EndFrame
+800973E4 0001
+
+[Unlock Boiling Point]
+Type = Gameshark
+Activation = EndFrame
+8009748C 0001
+
+[Unlock Snapper Break]
+Type = Gameshark
+Activation = EndFrame
+80097534 0001
+
+[Unlock Fiddle Sticks]
+Type = Gameshark
+Activation = EndFrame
+800975DC 0001
+
+[Unlock Sharp's Reef]
+Type = Gameshark
+Activation = EndFrame
+80097684 0001
+
+[Unlock Fool's Gold]
+Type = Gameshark
+Activation = EndFrame
+8009772C 0001
+
+[Unlock Dead Man's]
+Type = Gameshark
+Activation = EndFrame
+800977D4 0001
+
+[Unlock Time Attack]
+Type = Gameshark
+Activation = EndFrame
+800A72D8 0001
+
+[Unlock Bonus Level]
+Type = Gameshark
+Activation = EndFrame
+800A72DC 0001
+

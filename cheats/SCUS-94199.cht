@@ -1,0 +1,76 @@
+; CHTDB: ; [ Bloody Roar (USA) (1998) (Sony Computer Entertainment America) {SCUS-94199} <bldyroar> ]
+
+[P1 Infinite Energy arcade mode]
+Type = Gameshark
+Activation = EndFrame
+801C1504 0072
+801C1514 0072
+801C18EC 0072
+801C18FC 0072
+
+[Open Bonus Options + Art Gallery]
+Type = Gameshark
+Activation = EndFrame
+801C4520 FFFF
+
+[Slow Motion]
+Type = Gameshark
+Activation = EndFrame
+801B0178 6308
+
+[Quick Select\P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+301C4508 0002
+
+[Quick Select\P2 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+301C4509 0002
+
+[Quick Select\P1 Infinite Health, Beast And Rave]
+Type = Gameshark
+Activation = EndFrame
+301C4508 0003
+
+[Quick Select\P2 Infinite Health, Beast And Rave]
+Type = Gameshark
+Activation = EndFrame
+301C4509 0003
+
+[Quick Select\P1 Big Arm Mode]
+Type = Gameshark
+Activation = EndFrame
+301C4508 0010
+
+[Quick Select\P2 Big Arm Mode]
+Type = Gameshark
+Activation = EndFrame
+301C4509 0010
+
+[Quick Select\P1 Infinite Health And Big Arm Mode]
+Type = Gameshark
+Activation = EndFrame
+301C4508 0012
+
+[Quick Select\P2 Infinite Health And Big Arm Mode]
+Type = Gameshark
+Activation = EndFrame
+301C4509 0012
+
+[Quick Select\P1 Infinite Health, Beast, Rave And Big Arm Mode]
+Type = Gameshark
+Activation = EndFrame
+301C4508 0013
+
+[Quick Select\P2 Infinite Health, Beast, Rave And Big Arm Mode]
+Type = Gameshark
+Activation = EndFrame
+301C4509 0013
+
+[Quick Select\P2 Can't Move, Always Connect Combo The Whole Match]
+Description = With this cheat, first do a throw move on P2 then start hitting for chain combos!
+Type = Gameshark
+Activation = EndFrame
+801F5BAA 0197
+

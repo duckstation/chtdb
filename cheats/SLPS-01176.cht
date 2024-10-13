@@ -1,0 +1,7 @@
+; CHTDB: ; [ Sankyo Fever: Jikki Simulation Vol. 2 (Japan) {SLPS-01176} ]
+
+[Have 9999999 money]
+Type = Gameshark
+Activation = EndFrame
+900100A8 0098967F
+

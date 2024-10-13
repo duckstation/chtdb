@@ -1,0 +1,345 @@
+; CHTDB: ; [ Moto Racer World Tour (Euro) (2000) (Infogrames) {SCES-03037} <motorcwte> ]
+
+[Unlock Everything Enter a menu in world tour first, then go back and everything will be open. Save on MC and deactivate the code]
+Type = Gameshark
+Activation = EndFrame
+50002204 0000
+80159040 0001
+50002204 0000
+80159042 0000
+
+[Opponents Frozen Press select while the race is loading]
+Type = Gameshark
+Activation = EndFrame
+D00DE2FA FFFE
+80057C1A 2A00
+
+[Infinite Boost]
+Type = Gameshark
+Activation = EndFrame
+D00281FE 00E5
+80028200 0000
+D00281FE 00E5
+80028202 0000
+D002826A 0002
+8002826C 0000
+D002826A 0002
+8002826E 0000
+
+[Speed Championship\250Ccm\Sachsenring\Start At Last Lap/Always First]
+Type = Gameshark
+Activation = EndFrame
+D010E7F4 FF00
+3010E7F4 0002
+
+[Speed Championship\250Ccm\Sachsenring\Always Good Grip]
+Type = Gameshark
+Activation = EndFrame
+A617D456 01000000
+A617D456 02000000
+
+[Speed Championship\250Ccm\Sachsenring\300 Points]
+Type = Gameshark
+Activation = EndFrame
+D010E7F4 FF00
+8010E7C0 012C
+
+[Speed Championship\250Ccm\Suzuka\Start At Last Lap/Always First]
+Type = Gameshark
+Activation = EndFrame
+D0111D48 FF00
+30111D48 0002
+
+[Speed Championship\250Ccm\Suzuka\Always Good Grip]
+Type = Gameshark
+Activation = EndFrame
+A61949BE 01000000
+A61949BE 02000000
+
+[Speed Championship\250Ccm\Suzuka\600 Points]
+Type = Gameshark
+Activation = EndFrame
+D0111D48 FF00
+80111D14 0258
+
+[Speed Championship\250Ccm\Isle Of Man Road\Start At Last Lap/Always First]
+Type = Gameshark
+Activation = EndFrame
+D010DDB8 FF00
+3010DDB8 0003
+
+[Speed Championship\250Ccm\Isle Of Man Road\900 Points]
+Type = Gameshark
+Activation = EndFrame
+D010DDB8 FF00
+8010DD84 0384
+
+[Speed Championship\250Ccm\Eastern Creek\Start At Last Lap/Always First]
+Type = Gameshark
+Activation = EndFrame
+D010EED0 FF00
+3010EED0 0002
+
+[Speed Championship\250Ccm\Eastern Creek\Always Good Grip]
+Type = Gameshark
+Activation = EndFrame
+A618471E 01000000
+A618471E 02000000
+
+[Speed Championship\250Ccm\Eastern Creek\1200 Points]
+Type = Gameshark
+Activation = EndFrame
+D010EED0 FF00
+8010EE9C 04B0
+
+[Speed Championship\500Ccm\Sachsenring\Start At Last Lap/Always First]
+Type = Gameshark
+Activation = EndFrame
+D010E7C0 FF00
+3010E7C0 0002
+
+[Speed Championship\500Ccm\Sachsenring\Always Good Grip]
+Type = Gameshark
+Activation = EndFrame
+A617D43E 01000000
+A617D43E 02000000
+
+[Speed Championship\500Ccm\Sachsenring\300 Points]
+Type = Gameshark
+Activation = EndFrame
+D010E7C0 FF00
+8010E78C 012C
+
+[Speed Championship\500Ccm\Suzuka\Start At Last Lap/Always First]
+Type = Gameshark
+Activation = EndFrame
+D0111D14 FF00
+30111D14 0002
+
+[Speed Championship\500Ccm\Suzuka\Always Good Grip]
+Type = Gameshark
+Activation = EndFrame
+A61949A6 01000000
+A61949A6 02000000
+
+[Speed Championship\500Ccm\Suzuka\600 Points]
+Type = Gameshark
+Activation = EndFrame
+D0111D14 FF00
+80111CE0 0258
+
+[Speed Championship\500Ccm\Isle Of Man Road\Start At Last Lap/Always First]
+Type = Gameshark
+Activation = EndFrame
+D010DD70 FF00
+3010DD70 0003
+
+[Speed Championship\500Ccm\Isle Of Man Road\900 Points]
+Type = Gameshark
+Activation = EndFrame
+D010DD70 FF00
+8010DD3C 0384
+
+[Speed Championship\500Ccm\Eastern Creek\Start At Last Lap/Always First]
+Type = Gameshark
+Activation = EndFrame
+D010EE98 FF00
+3010EE98 0002
+
+[Speed Championship\500Ccm\Eastern Creek\Always Good Grip]
+Type = Gameshark
+Activation = EndFrame
+A6184706 01000000
+A6184706 02000000
+
+[Speed Championship\500Ccm\Eastern Creek\1200 Points]
+Type = Gameshark
+Activation = EndFrame
+D010EE98 FF00
+8010EE64 04B0
+
+[Speed Championship\500Ccm\Isle Of Man Hills\Start At Last Lap/Always First]
+Type = Gameshark
+Activation = EndFrame
+D010C098 FF00
+3010C098 0002
+
+[Speed Championship\500Ccm\Isle Of Man Hills\1500 Points]
+Type = Gameshark
+Activation = EndFrame
+D010C098 FF00
+8010C064 05DC
+
+[Cross Championship\125Ccm\Barcelona\Start At Last Lap/Always First]
+Type = Gameshark
+Activation = EndFrame
+D0107C58 FF00
+30107C58 0005
+
+[Cross Championship\125Ccm\Barcelona\300 Points]
+Type = Gameshark
+Activation = EndFrame
+D0107C58 FF00
+80107C24 012C
+
+[Cross Championship\125Ccm\Usa Park\Start At Last Lap/Always First]
+Type = Gameshark
+Activation = EndFrame
+D0114068 FF00
+30114068 0002
+
+[Cross Championship\125Ccm\Usa Park\600 Points]
+Type = Gameshark
+Activation = EndFrame
+D0114068 FF00
+80104034 0258
+
+[Cross Championship\125Ccm\Stade De France\Start At Last Lap/Always First]
+Type = Gameshark
+Activation = EndFrame
+D01089E0 FF00
+301089E0 0003
+
+[Cross Championship\125Ccm\Stade De France\900 Points]
+Type = Gameshark
+Activation = EndFrame
+D01089E0 FF00
+801089AC 0384
+
+[Cross Championship\125Ccm\Reygades\Start At Last Lap/Always First]
+Type = Gameshark
+Activation = EndFrame
+D01115B8 FF00
+301115B8 0001
+
+[Cross Championship\125Ccm\Reygades\1200 Points]
+Type = Gameshark
+Activation = EndFrame
+D01115B8 FF00
+80111584 04B0
+
+[Cross Championship\250Ccm\Barcelona\Start At Last Lap/Always First]
+Type = Gameshark
+Activation = EndFrame
+D0107A30 FF00
+30107A30 0005
+
+[Cross Championship\250Ccm\Barcelona\300 Points]
+Type = Gameshark
+Activation = EndFrame
+D0107A30 FF00
+801079FC 012C
+
+[Cross Championship\250Ccm\Usa Park\Start At Last Lap/Always First]
+Type = Gameshark
+Activation = EndFrame
+D0114008 FF00
+30114008 0002
+
+[Cross Championship\250Ccm\Usa Park\600 Points]
+Type = Gameshark
+Activation = EndFrame
+D0114008 FF00
+80103FD4 0258
+
+[Cross Championship\250Ccm\Stade De France\Start At Last Lap/Always First]
+Type = Gameshark
+Activation = EndFrame
+D01087CC FF00
+301087CC 0003
+
+[Cross Championship\250Ccm\Stade De France\900 Points]
+Type = Gameshark
+Activation = EndFrame
+D01087CC FF00
+80108798 0384
+
+[Cross Championship\250Ccm\Reygades\Start At Last Lap/Always First]
+Type = Gameshark
+Activation = EndFrame
+D0111570 FF00
+30111570 0001
+
+[Cross Championship\250Ccm\Reygades\1200 Points]
+Type = Gameshark
+Activation = EndFrame
+D0111570 FF00
+8011153C 04B0
+
+[Cross Championship\250Ccm\Belo Horizonte\Start At Last Lap/Always First]
+Type = Gameshark
+Activation = EndFrame
+D0107058 FF00
+30107058 0004
+
+[Cross Championship\250Ccm\Belo Horizonte\1500 Points]
+Type = Gameshark
+Activation = EndFrame
+D0107058 FF00
+80107024 05DC
+
+[World Tour Championship\Isle Of Man Town\Start At Last Lap/Always First %NOTE]
+Type = Gameshark
+Activation = EndFrame
+D010D414 FF00
+3010D414 0003
+
+[World Tour Championship\Isle Of Man Town\1200 Points %NOTE]
+Type = Gameshark
+Activation = EndFrame
+D010D414 FF00
+8010D3E0 04B0
+
+[Dragster Race\1st Track\Start At Last Lap/Always First]
+Type = Gameshark
+Activation = EndFrame
+D010AA04 FF00
+3010AA04 0006
+
+[Dragster Race\1st Track\Always Good Grip]
+Type = Gameshark
+Activation = EndFrame
+A6160076 02000000
+
+[Dragster Race\2nd Track\Start At Last Lap/Always First]
+Type = Gameshark
+Activation = EndFrame
+D0110F7C FF00
+30110F7C 0001
+
+[Dragster Race\2nd Track\Always Good Grip]
+Type = Gameshark
+Activation = EndFrame
+A617C02E 02000000
+
+[Freestyle/ Trial\Timer Stopped]
+Type = Gameshark
+Activation = EndFrame
+D005697A 0050
+8005697C 0000
+
+[Freestyle/ Trial\Hide Stopwatch]
+Type = Gameshark
+Activation = EndFrame
+A60526BA 0C013400
+
+[Traffic\Start At Last Lap/Always First]
+Type = Gameshark
+Activation = EndFrame
+A610E864 FF000001
+
+[Hide Map]
+Type = Gameshark
+Activation = EndFrame
+A60525E8 00A8FFFF
+
+[Good Grip On Sand]
+Type = Gameshark
+Activation = EndFrame
+A60304BA A222A220
+
+[Good Grip On Grass]
+Type = Gameshark
+Activation = EndFrame
+A60304EA A222A220
+

@@ -1,0 +1,18 @@
+; CHTDB: ; [ Dancing Stage Fusion (Europe) {SLES-04163} ]
+
+[P1 Max Dance Gauge]
+Type = Gameshark
+Activation = EndFrame
+800BA33A 03E8
+
+[P1 Max Total Score]
+Type = Gameshark
+Activation = EndFrame
+900BA344 3B9AC9FF
+
+[All Lessons Clear]
+Type = Gameshark
+Activation = EndFrame
+50000C02 0000
+800DAF28 0202
+

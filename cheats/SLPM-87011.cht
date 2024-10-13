@@ -1,0 +1,27 @@
+; CHTDB: ; [ Groove Adventure Rave - Yuukyuu no Kizuna (Jpn) (2002) (Konami) {SLPM-87011 (VX253-J1)} <raveyk> ]
+
+[Infinite HP 1st Character in battle]
+Type = Gameshark
+Activation = EndFrame
+90151E94 03E703E7
+
+[Infinite HP 2nd Character in battle]
+Type = Gameshark
+Activation = EndFrame
+90151F98 03E703E7
+
+[Infinite HP 3rd Character in battle]
+Type = Gameshark
+Activation = EndFrame
+9015209C 03E703E7
+
+[Have 99999 money]
+Type = Gameshark
+Activation = EndFrame
+90159620 0001869F
+
+[No Random Battle]
+Type = Gameshark
+Activation = EndFrame
+800F1A56 0000
+

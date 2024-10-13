@@ -1,0 +1,54 @@
+; CHTDB: ; [ Army Men: Land, Sea, Air (Europe) {SLES-03231} ]
+
+[All Weapons & Items]
+Type = Gameshark
+Activation = EndFrame
+300D852D 00FF
+50000402 0000
+800D852E FFFF
+
+[Infinite Medipaks]
+Type = Gameshark
+Activation = EndFrame
+300D8534 0002
+
+[Grenades]
+Type = Gameshark
+Activation = EndFrame
+300D852D 0005
+
+[Mortar]
+Type = Gameshark
+Activation = EndFrame
+300D852E 0006
+
+[Bazooka]
+Type = Gameshark
+Activation = EndFrame
+300D852F 0007
+
+[Flame thrower]
+Type = Gameshark
+Activation = EndFrame
+300D8530 005A
+
+[Automatic machinegun]
+Type = Gameshark
+Activation = EndFrame
+300D8531 00F5
+
+[Explosives]
+Type = Gameshark
+Activation = EndFrame
+300D8532 0002
+
+[Land mines]
+Type = Gameshark
+Activation = EndFrame
+300D8533 0002
+
+[Mine detectors]
+Type = Gameshark
+Activation = EndFrame
+300D8535 0002
+

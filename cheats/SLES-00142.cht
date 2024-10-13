@@ -1,0 +1,22 @@
+; CHTDB: ; [ Lone Soldier (Germany) {SLES-00142} ]
+
+[Unendlich Energie]
+Type = Gameshark
+Activation = EndFrame
+800B7FD0 0190
+
+[Unendlich Plasma-Burst]
+Type = Gameshark
+Activation = EndFrame
+80084314 0096
+
+[Unendlich Photon-Geschosse]
+Type = Gameshark
+Activation = EndFrame
+80084312 0003
+
+[Unendlich Laserkanone]
+Type = Gameshark
+Activation = EndFrame
+80084316 0096
+

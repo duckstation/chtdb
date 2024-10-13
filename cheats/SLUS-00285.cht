@@ -1,0 +1,32 @@
+; CHTDB: ; [ Caesars Palace (USA) (1997) (Interplay Productions) {SLUS-00285} <caesars> ]
+
+[P1 Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+900BB868 000F423F
+
+[P2 Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+900BB8FC 000F423F
+
+[P3 Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+800BB990 FFFF
+
+[P1 No Money]
+Type = Gameshark
+Activation = EndFrame
+800BB868 0000
+
+[P2 No Money]
+Type = Gameshark
+Activation = EndFrame
+800BB8FC 0000
+
+[P3 No Money]
+Type = Gameshark
+Activation = EndFrame
+800BB990 0000
+

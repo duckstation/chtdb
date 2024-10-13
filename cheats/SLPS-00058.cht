@@ -1,0 +1,22 @@
+; CHTDB: ; [ Ide Yousuke no Mahjong Kazoku (Japan) {SLPS-00058} ]
+
+[Player has 99999 points]
+Type = Gameshark
+Activation = EndFrame
+900CE224 0001869F
+
+[Opponent 1 has 0 points]
+Type = Gameshark
+Activation = EndFrame
+800CE180 0000
+
+[Opponent 2 (girl) has 0 points]
+Type = Gameshark
+Activation = EndFrame
+800CE0DC 0000
+
+[Opponent 3 has 0 points]
+Type = Gameshark
+Activation = EndFrame
+800CE2C8 0000
+

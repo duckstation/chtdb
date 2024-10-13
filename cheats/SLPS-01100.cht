@@ -1,0 +1,55 @@
+; CHTDB: ; [ Tales of Destiny (Japan) {SLPS-01100} ]
+
+[Infinite HP In Battle]
+Type = Gameshark
+Activation = EndFrame
+801EB050 03E7
+
+[Infinite TP]
+Type = Gameshark
+Activation = EndFrame
+801EB056 03E7
+
+[Money Max]
+Type = Gameshark
+Activation = EndFrame
+801F7246 FFFF
+
+[Lens Max]
+Type = Gameshark
+Activation = EndFrame
+801F724A FFFF
+
+[Exp Max]
+Type = Gameshark
+Activation = EndFrame
+801F724E FFFF
+
+[Fast Level Up]
+Type = Gameshark
+Activation = EndFrame
+801F724C FFFF
+
+[Heroes Have Full Power]
+Type = Gameshark
+Activation = EndFrame
+901D396C 01010101
+901D3970 01010101
+
+[No Random Battles]
+Type = Gameshark
+Activation = EndFrame
+801D39FA 00FF
+
+[Want Enemy .Press up+R1 if you want to find them.]
+Type = Gameshark
+Activation = EndFrame
+D01C4C68 1008
+801D39FA 0000
+
+[Infinite HP & TP in combat 1 person]
+Type = Gameshark
+Activation = EndFrame
+801EA7F0 270F
+801EA7F6 270F
+

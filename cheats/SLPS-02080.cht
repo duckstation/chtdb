@@ -1,0 +1,22 @@
+; CHTDB: ; [ Honkakuha Yonin Uchi: Mahjong Club (Japan) (Honkakuha de 1300, Honkakuha de 1300 Twin Pack) {SLPS-02080} ]
+
+[Player has 99900 points]
+Type = Gameshark
+Activation = EndFrame
+800C59EC 03E7
+
+[Opponent 1 has 0 points]
+Type = Gameshark
+Activation = EndFrame
+800C5B18 0000
+
+[Opponent 2 has 0 points]
+Type = Gameshark
+Activation = EndFrame
+800C5C44 0000
+
+[Opponent 3 has 0 points]
+Type = Gameshark
+Activation = EndFrame
+800C5D70 0000
+

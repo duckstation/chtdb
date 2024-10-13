@@ -1,0 +1,17 @@
+; CHTDB: ; [ Galaxy Fight - Universal Warriors (Jpn) (1996) (Sunsoft) {SLPS-00138} <galaxyfg> ]
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8019F5A6 FFFF
+
+[P2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8019F77E FFFF
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+8018D430 99D4
+

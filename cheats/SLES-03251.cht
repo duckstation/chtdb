@@ -1,0 +1,50 @@
+; CHTDB: ; [ WWF SmackDown! 2: Know Your Role (Europe) {SLES-03251} ]
+
+[P1 One hit gains a finishing move]
+Type = Gameshark
+Activation = EndFrame
+300BA59E 0067
+
+[Instant win (skip match)]
+Type = Gameshark
+Activation = EndFrame
+30096384 0009
+
+[Unlocked All hidden entrance movies & music Hardcore Holly & Crash (tag)]
+Type = Gameshark
+Activation = EndFrame
+80093D2A FFFF
+
+[Unlocked All hidden entrance movies & music "None" & Ending]
+Type = Gameshark
+Activation = EndFrame
+80093D2E FFFF
+
+[Unlocked All hidden entrance movies & music Billy Gunn, Bull Buchanan, Cactus Jack & Debra]
+Type = Gameshark
+Activation = EndFrame
+80093D28 FFFF
+
+[Unlocked All hidden entrance movies & music All wrestlers]
+Type = Gameshark
+Activation = EndFrame
+90093878 FFFFFFFF
+9009387C FFFFFFFF
+80093880 FFFF
+
+[Unlocked All hidden entrance movies & music All wrestlers / moves]
+Type = Gameshark
+Activation = EndFrame
+50000802 0000
+80092000 FFFF
+
+[P1 Has 5 finishing moves]
+Type = Gameshark
+Activation = EndFrame
+300BA5A0 0005
+
+[P1 Get 240 wins in iron man match]
+Type = Gameshark
+Activation = EndFrame
+300963B4 00F0
+

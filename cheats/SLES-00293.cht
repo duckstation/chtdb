@@ -1,0 +1,32 @@
+; CHTDB: ; [ StarFighter 3000 (Europe) {SLES-00293} ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80133F54 0003
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801E93AE 008C
+
+[High Power Lasers]
+Type = Gameshark
+Activation = EndFrame
+801668D4 0007
+
+[Infinite Multi Missiles]
+Type = Gameshark
+Activation = EndFrame
+801668E8 0003
+
+[Infinite Mega Bombs]
+Type = Gameshark
+Activation = EndFrame
+80166B84 000A
+
+[Infinite Beam Lasers]
+Type = Gameshark
+Activation = EndFrame
+801668E4 00FF
+

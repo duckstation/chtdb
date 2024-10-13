@@ -1,0 +1,63 @@
+; CHTDB: ; [ Lemmings & Oh No! More Lemmings (USA) (1998) (Psygnosis) {SLUS-00760} <lemmings> ]
+
+[1 Lemming To Complete Level]
+Type = Gameshark
+Activation = EndFrame
+8005B1B4 0001
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+3008321F 0012
+
+[Minimum Release Rate of 1]
+Type = Gameshark
+Activation = EndFrame
+8005B1B0 0001
+
+[Unlock All Levels]
+Type = Gameshark
+Activation = EndFrame
+5000D001 0000
+3004A5B2 0001
+
+[Infinite Climbers]
+Type = Gameshark
+Activation = EndFrame
+8005B1E0 0010
+
+[Infinite Floaters]
+Type = Gameshark
+Activation = EndFrame
+8005B1E4 0010
+
+[Infinite Bombers]
+Type = Gameshark
+Activation = EndFrame
+8005B1E8 0010
+
+[Infinite Blockers]
+Type = Gameshark
+Activation = EndFrame
+8005B1EC 0010
+
+[Infinite Builders]
+Type = Gameshark
+Activation = EndFrame
+8005B1F0 0010
+
+[Infinite Bashers]
+Type = Gameshark
+Activation = EndFrame
+8005B1F4 0010
+
+[Infinite Miner]
+Type = Gameshark
+Activation = EndFrame
+8005B1F8 0010
+
+[Infinite Diggers]
+Type = Gameshark
+Activation = EndFrame
+8005B1FC 0010
+

@@ -1,0 +1,81 @@
+; CHTDB: ; [ Tetris Plus (USA) (1996) (Jaleco USA) {SLUS-00338} <tetrisp> ]
+
+[Ceiling Never Falls]
+Type = Gameshark
+Activation = EndFrame
+800455B6 000A
+80045D76 FFFA
+800EE39C 0000
+800EE916 000A
+
+[No Timer]
+Type = Gameshark
+Activation = EndFrame
+800EE580 0001
+
+[Select City\Puzzle Mode - Egypt]
+Type = Gameshark
+Activation = EndFrame
+800EEBB0 0000
+
+[Select City\Puzzle Mode - Ankor Wat]
+Type = Gameshark
+Activation = EndFrame
+800EEBB0 0001
+
+[Select City\Puzzle Mode - Maya]
+Type = Gameshark
+Activation = EndFrame
+800EEBB0 0002
+
+[Select City\Puzzle Mode - Knossos]
+Type = Gameshark
+Activation = EndFrame
+800EEBB0 0003
+
+[Select City\Puzzle Mode - Uknown]
+Type = Gameshark
+Activation = EndFrame
+800EEBB0 0004
+
+[Have Stage Select (Pause Menu-Puzzle Game Only)]
+Type = Gameshark
+Activation = EndFrame
+D00EE964 0001
+300F35C8 001F
+
+[Puse (Pause?)]
+Type = Gameshark
+Activation = EndFrame
+800F2CEC 000F
+800F35C0 660E
+
+[Classic Mode Drop Pieces On Left Side To Clear Lines]
+Type = Gameshark
+Activation = EndFrame
+D00A2EB8 8BA0
+800A2E88 0013
+
+[Puzzle Mode Drop Pieces On Left Side To Clear Lines]
+Type = Gameshark
+Activation = EndFrame
+D00ADA88 B6AB
+800ADA58 0013
+
+[Slow motion (Classic mode)]
+Type = Gameshark
+Activation = EndFrame
+A70A7E16 0C022400
+
+[Matrix mode "Press L3 to toggle on off" (Classic mode)]
+Type = Gameshark
+Activation = EndFrame
+D7010001 00000200
+F50991DA 10801000
+F50A417A 1C401000
+
+[Freeze-unfreeze timer (Classic mode)]
+Type = Gameshark
+Activation = EndFrame
+A709FFE6 14401000
+

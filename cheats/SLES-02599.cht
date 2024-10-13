@@ -1,0 +1,96 @@
+; CHTDB: ; [ JoJo's Bizarre Adventure (Europe) {SLES-02599} ]
+
+[Everythings Unlocked]
+Type = Gameshark
+Activation = EndFrame
+50000502 0000
+80066A40 FFFF
+
+[P1 Codes\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+D00CDEBC 0090
+800CDEBA 0090
+
+[P1 Codes\Sudden Death]
+Type = Gameshark
+Activation = EndFrame
+A60CDEBA 00900001
+
+[P1 Codes\Infinite Stand]
+Type = Gameshark
+Activation = EndFrame
+D00CD3D4 0050
+800CD3D2 0050
+
+[P1 Codes\No Stand]
+Type = Gameshark
+Activation = EndFrame
+D00CD3D4 0050
+800CD3D2 0000
+
+[P1 Codes\Max Super Combo Level]
+Type = Gameshark
+Activation = EndFrame
+300D08A2 0009
+
+[P1 Codes\Infinite Super Combo Gauge]
+Type = Gameshark
+Activation = EndFrame
+300D08A1 0068
+
+[P1 Codes\Never Loses]
+Type = Gameshark
+Activation = EndFrame
+300D08E7 0000
+
+[P1 Codes\Starts With 1 Round Won]
+Type = Gameshark
+Activation = EndFrame
+D00D08A2 0001
+300D08A3 0001
+
+[P2 Codes\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+D00CE24C 0090
+800CE24A 0090
+
+[P2 Codes\Sudden Death]
+Type = Gameshark
+Activation = EndFrame
+A60CE24A 00900001
+
+[P2 Codes\Infinite Stand]
+Type = Gameshark
+Activation = EndFrame
+D00CD764 0050
+800CD762 0050
+
+[P2 Codes\No Stand]
+Type = Gameshark
+Activation = EndFrame
+D00CD764 0050
+800CD762 0000
+
+[P2 Codes\Max Super Combo Level]
+Type = Gameshark
+Activation = EndFrame
+300D08E6 0009
+
+[P2 Codes\Infinite Super Combo Gauge]
+Type = Gameshark
+Activation = EndFrame
+300D08E5 0068
+
+[P2 Codes\Never Loses]
+Type = Gameshark
+Activation = EndFrame
+300D08A3 0000
+
+[P2 Codes\Starts With 1 Round Won]
+Type = Gameshark
+Activation = EndFrame
+D00D08E6 0001
+300D08E7 0001
+

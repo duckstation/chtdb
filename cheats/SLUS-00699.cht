@@ -1,0 +1,17 @@
+; CHTDB: ; [ Eliminator (USA) (1999) (Psygnosis) {SLUS-00699} <eliminat> ]
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80114272 0258
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800F43B4 4649
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+300F3B94 0063
+

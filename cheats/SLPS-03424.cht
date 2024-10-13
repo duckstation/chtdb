@@ -1,0 +1,37 @@
+; CHTDB: ; [ Azumanga Donjara Daiou (Jpn) (2002) (Bandai) {SLPS-03424} <azumanga> ]
+
+[Player has 999 points]
+Type = Gameshark
+Activation = EndFrame
+800B192E 03E7
+
+[Opponent has 0 points]
+Type = Gameshark
+Activation = EndFrame
+800B1982 0000
+
+[Clear flag ON ED graphics, available character Voice system is filled AND OPEN]
+Type = Gameshark
+Activation = EndFrame
+301C036D 00FF
+301C036E 00FF
+
+[Filled Photographics Character that was referenced in the album only remain in the save data.]
+Type = Gameshark
+Activation = EndFrame
+9005A4F4 24020003
+9005A4F8 A4820050
+
+[I Agareru in the Great It becomes Chiyo all Pressing L2 + R2 at the time of your turn]
+Type = Gameshark
+Activation = EndFrame
+D0072B94 0003
+8007D90A A200
+D0072B94 000C
+8007D90A A202
+
+[A debug mode]
+Type = Gameshark
+Activation = EndFrame
+80051492 1040
+

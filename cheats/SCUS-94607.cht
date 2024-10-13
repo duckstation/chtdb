@@ -1,0 +1,17 @@
+; CHTDB: ; [ Tail of the Sun (USA) (1997) (Sony Computer Entertainment America) {SCUS-94607} <tailsun> ]
+
+[Have Spear 1]
+Type = Gameshark
+Activation = EndFrame
+800C5528 0009
+
+[Have Spear 2]
+Type = Gameshark
+Activation = EndFrame
+800CA08C 0009
+
+[Tower Finished]
+Type = Gameshark
+Activation = EndFrame
+800CA0A0 00FF
+

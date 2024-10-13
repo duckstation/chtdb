@@ -1,0 +1,85 @@
+; CHTDB: ; [ Bomberman World (USA) (1998) (Atlus Software) {SLUS-00680} <bombmwld> ]
+
+[Indestructible Bomberman]
+Type = Gameshark
+Activation = EndFrame
+A60CCAE2 00002000
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8007F038 0009
+800CDB70 0009
+
+[Stop Timer]
+Type = Gameshark
+Activation = EndFrame
+80077B82 003B
+
+[Have All Needed Crystals]
+Type = Gameshark
+Activation = EndFrame
+D0077BD2 0004
+80077BD0 0004
+D0077BD2 0006
+80077BD0 0006
+D0077BD2 0005
+80077BD0 0005
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800CCAE2 2000
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80078BF8 4000
+
+[Invincibility (Alt)]
+Type = Gameshark
+Activation = EndFrame
+800CDB32 0101
+
+[First Four Worlds Open]
+Type = Gameshark
+Activation = EndFrame
+80078A72 FFFF
+30078A84 00FF
+
+[All Bosses Standing On Worlds Are Crystals And Last Level Open]
+Type = Gameshark
+Activation = EndFrame
+30078A7C 0004
+
+[Have All Crystals + Door Open]
+Description = May Not Work In First 2 Areas Of Level 1
+Type = Gameshark
+Activation = EndFrame
+80078BF0 0006
+
+[Select Text Language\English]
+Type = Gameshark
+Activation = EndFrame
+80078A94 0000
+
+[Select Text Language\German]
+Type = Gameshark
+Activation = EndFrame
+80078A94 0001
+
+[Select Text Language\French]
+Type = Gameshark
+Activation = EndFrame
+80078A94 0002
+
+[Select Text Language\Italian]
+Type = Gameshark
+Activation = EndFrame
+80078A94 0003
+
+[Select Text Language\Spanish]
+Type = Gameshark
+Activation = EndFrame
+80078A94 0004
+

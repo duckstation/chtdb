@@ -1,0 +1,39 @@
+; CHTDB: ; [ Blast Radius (Europe) {SLES-01169} ]
+
+[Preparation Codes (Must Be On!)]
+Type = Gameshark
+Activation = EndFrame
+D0024C26 1451
+80024C24 84F6
+A6024C26 14510C00
+
+[Infinite Shield]
+Type = Gameshark
+Activation = EndFrame
+300EEEE0 0042
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+300EEEE2 0046
+
+[Infinite Fuel]
+Type = Gameshark
+Activation = EndFrame
+300ED7F6 0040
+
+[100000 Credits]
+Type = Gameshark
+Activation = EndFrame
+900ED7A0 000186A0
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+300EEEEA 0063
+
+[No Overheating]
+Type = Gameshark
+Activation = EndFrame
+800AAEB6 0000
+

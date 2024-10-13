@@ -1,0 +1,333 @@
+; CHTDB: ; [ Triple Play 2001 (USA) (2000) (Electronic Arts) {SLUS-01082} <tplay2k1> ]
+
+[Infinite Strikes]
+Type = Gameshark
+Activation = EndFrame
+30060740 0000
+
+[1 Strike And You Are Out]
+Type = Gameshark
+Activation = EndFrame
+A6060740 00000002
+
+[2 Strikes And You Are Out]
+Type = Gameshark
+Activation = EndFrame
+A6060740 00000001
+
+[Infinite Balls]
+Type = Gameshark
+Activation = EndFrame
+30060741 0000
+
+[1 Ball And You Walk]
+Type = Gameshark
+Activation = EndFrame
+E0060741 0000
+30060741 0003
+
+[2 Balls And You Walk]
+Type = Gameshark
+Activation = EndFrame
+E0060741 0000
+30060741 0002
+
+[3 Balls And You Walk]
+Type = Gameshark
+Activation = EndFrame
+E0060741 0000
+30060741 0001
+
+[Infinite Outs]
+Type = Gameshark
+Activation = EndFrame
+30060742 0000
+
+[1 Out And You Are Out]
+Type = Gameshark
+Activation = EndFrame
+D0060742 0000
+30060742 0002
+
+[2 Outs And You Are Out]
+Type = Gameshark
+Activation = EndFrame
+D0060742 0000
+30060742 0001
+
+[Select Away Team Score\9]
+Type = Gameshark
+Activation = EndFrame
+30060449 0009
+
+[Select Away Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+30060449 0000
+
+[Select Home Team Score\9]
+Type = Gameshark
+Activation = EndFrame
+3006043D 0009
+
+[Select Home Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+3006043D 0000
+
+[Character Creation\Max Contact Chance]
+Type = Gameshark
+Activation = EndFrame
+300F98E0 0064
+
+[Character Creation\Max Battling Power]
+Type = Gameshark
+Activation = EndFrame
+300F9960 0064
+
+[Character Creation\Max Battling Eye]
+Type = Gameshark
+Activation = EndFrame
+300F99E0 0064
+
+[Character Creation\Max Clutch Ability]
+Type = Gameshark
+Activation = EndFrame
+300F9A60 0064
+
+[Character Creation\Max Running Speed]
+Type = Gameshark
+Activation = EndFrame
+300F9AE0 0064
+
+[Character Creation\Max Reaction Time]
+Type = Gameshark
+Activation = EndFrame
+300F9B60 0064
+
+[Character Creation\Max Fielding Accuracy]
+Type = Gameshark
+Activation = EndFrame
+300F9BE0 0064
+
+[Character Creation\Max Arm Strength]
+Type = Gameshark
+Activation = EndFrame
+300F9C60 0064
+
+[Character Creation\Run's Score Modifier]
+Type = Gameshark
+Activation = EndFrame
+801206E8 0064
+
+[Character Creation\Infinite Draft Points]
+Type = Gameshark
+Activation = EndFrame
+8009F7C2 2400
+
+[Max Store Points\Anaheim Angels]
+Type = Gameshark
+Activation = EndFrame
+90198D5C 0FFFFFFF
+
+[Max Store Points\Oakland Athletics]
+Type = Gameshark
+Activation = EndFrame
+90198D60 0FFFFFFF
+
+[Max Store Points\Seattle Mariners]
+Type = Gameshark
+Activation = EndFrame
+90198D64 0FFFFFFF
+
+[Max Store Points\Texas Rangers]
+Type = Gameshark
+Activation = EndFrame
+90198D68 0FFFFFFF
+
+[Max Store Points\Chicago White Sox]
+Type = Gameshark
+Activation = EndFrame
+90198D6C 0FFFFFFF
+
+[Max Store Points\Cleveland Indians]
+Type = Gameshark
+Activation = EndFrame
+90198D70 0FFFFFFF
+
+[Max Store Points\Detroit Tigers]
+Type = Gameshark
+Activation = EndFrame
+90198D74 0FFFFFFF
+
+[Max Store Points\Kanas City Royals]
+Type = Gameshark
+Activation = EndFrame
+90198D78 0FFFFFFF
+
+[Max Store Points\Minnesota Twins]
+Type = Gameshark
+Activation = EndFrame
+90198D7C 0FFFFFFF
+
+[Max Store Points\Baltimore Orioles]
+Type = Gameshark
+Activation = EndFrame
+90198D80 0FFFFFFF
+
+[Max Store Points\Boston Red Sox]
+Type = Gameshark
+Activation = EndFrame
+90198D84 0FFFFFFF
+
+[Max Store Points\New York Yankees]
+Type = Gameshark
+Activation = EndFrame
+90198D88 0FFFFFFF
+
+[Max Store Points\Tampa Bay Devil Rays]
+Type = Gameshark
+Activation = EndFrame
+90198D8C 0FFFFFFF
+
+[Max Store Points\Toronto Blue Jays]
+Type = Gameshark
+Activation = EndFrame
+90198D90 0FFFFFFF
+
+[Max Store Points\Arizona Diamondbacks]
+Type = Gameshark
+Activation = EndFrame
+90198D94 0FFFFFFF
+
+[Max Store Points\Colorado Rockies]
+Type = Gameshark
+Activation = EndFrame
+90198D98 0FFFFFFF
+
+[Max Store Points\Los Angeles Dodgers]
+Type = Gameshark
+Activation = EndFrame
+90198D9C 0FFFFFFF
+
+[Max Store Points\San Diego Padres]
+Type = Gameshark
+Activation = EndFrame
+90198DA0 0FFFFFFF
+
+[Max Store Points\San Francisco Giants]
+Type = Gameshark
+Activation = EndFrame
+90198DA4 0FFFFFFF
+
+[Max Store Points\Chicago Cubs]
+Type = Gameshark
+Activation = EndFrame
+90198DA8 0FFFFFFF
+
+[Max Store Points\Cincinnati Reds]
+Type = Gameshark
+Activation = EndFrame
+90198DAC 0FFFFFFF
+
+[Max Store Points\Houston Astros]
+Type = Gameshark
+Activation = EndFrame
+90198DB0 0FFFFFFF
+
+[Max Store Points\Milwaukee Brewers]
+Type = Gameshark
+Activation = EndFrame
+90198DB4 0FFFFFFF
+
+[Max Store Points\Pittsburgh Pirates]
+Type = Gameshark
+Activation = EndFrame
+90198DB8 0FFFFFFF
+
+[Max Store Points\St. Louis Cardinals]
+Type = Gameshark
+Activation = EndFrame
+90198DBC 0FFFFFFF
+
+[Max Store Points\Atlanta Braves]
+Type = Gameshark
+Activation = EndFrame
+90198DC0 0FFFFFFF
+
+[Max Store Points\Florida Marlins]
+Type = Gameshark
+Activation = EndFrame
+90198DC4 0FFFFFFF
+
+[Max Store Points\Montreal Expos]
+Type = Gameshark
+Activation = EndFrame
+90198DC8 0FFFFFFF
+
+[Max Store Points\New York Mets]
+Type = Gameshark
+Activation = EndFrame
+90198DCC 0FFFFFFF
+
+[Max Store Points\Philadelphia Phillies]
+Type = Gameshark
+Activation = EndFrame
+90198DD0 0FFFFFFF
+
+[Enable All Rewards]
+Type = Gameshark
+Activation = EndFrame
+90054D08 FFFFFFFF
+
+[Enable All Legendary Players]
+Type = Gameshark
+Activation = EndFrame
+90054D0C FFFFFFFF
+
+[Enable Extra Stadiums]
+Type = Gameshark
+Activation = EndFrame
+80054D10 FFFF
+
+[All Teams]
+Type = Gameshark
+Activation = EndFrame
+800E54A0 FFFF
+
+[P1 Press L1+Select For 0 Strikes]
+Type = Gameshark
+Activation = EndFrame
+D00687EC 0401
+30060740 0000
+
+[P1 Press L2+Select For 3 Balls]
+Type = Gameshark
+Activation = EndFrame
+D00687EC 0101
+30060741 0003
+
+[P1 Press L1+L2+Select For 0 Outs]
+Type = Gameshark
+Activation = EndFrame
+D00687EC 0501
+30060742 0000
+
+[P1 Press R1+Select For 2 Strikes]
+Type = Gameshark
+Activation = EndFrame
+D00687EC 0801
+30060740 0002
+
+[P1 Press R2+Select For 0 Balls]
+Type = Gameshark
+Activation = EndFrame
+D00687EC 0201
+30060741 0000
+
+[P1 Press R1+R2+Select For 2 Outs]
+Type = Gameshark
+Activation = EndFrame
+D00687EC 0A01
+30060742 0002
+

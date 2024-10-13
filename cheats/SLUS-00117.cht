@@ -1,0 +1,217 @@
+; CHTDB: ; [ Warhammer - Shadow of the Horned Rat (USA) (1996) (Strategic Simulations) {SLUS-00117} <warhmrat> ]
+
+[Amber Wizard Infinite + Max Troops]
+Type = Gameshark
+Activation = EndFrame
+900DCD4C 20002000
+
+[Black Avengers Infinite + Max Troops]
+Type = Gameshark
+Activation = EndFrame
+900DBDA0 20002000
+
+[Bright Wizard Infinite + Max Troops]
+Type = Gameshark
+Activation = EndFrame
+900DCCA4 20002000
+
+[Cannon Crew Infinite + Max Troops]
+Type = Gameshark
+Activation = EndFrame
+900DCE9C 20002000
+
+[Carroburg Greatswords Infinite + Max Troops]
+Type = Gameshark
+Activation = EndFrame
+900DBE34 20002000
+
+[Celestial Wizard Infinite + Max Troops]
+Type = Gameshark
+Activation = EndFrame
+900DCBFC 20002000
+
+[Ceridan Infinite + Max Troops]
+Type = Gameshark
+Activation = EndFrame
+900DC56C 20002000
+
+[Dannhiem's 75th Infinite + Max Troops]
+Type = Gameshark
+Activation = EndFrame
+900DBAEC 20002000
+
+[Dwarf Crossbowmen Infinite + Max Troops]
+Type = Gameshark
+Activation = EndFrame
+900DCB54 20002000
+
+[Dwarf Envoy Infinite + Max Troops]
+Type = Gameshark
+Activation = EndFrame
+900DC614 20002000
+
+[Dwarf Hammers Infinite + Max Troops]
+Type = Gameshark
+Activation = EndFrame
+900DBEDC 20002000
+
+[First Carlsson Guard Infinite + Max Troops]
+Type = Gameshark
+Activation = EndFrame
+900DC17C 20002000
+
+[First Dwarf Iron Breakers Infinite + Max Troops]
+Type = Gameshark
+Activation = EndFrame
+900DC02C 20002000
+
+[First Dwarf Warrior Infinite + Max Troops]
+Type = Gameshark
+Activation = EndFrame
+900DC374 20002000
+
+[First Mortal Crew Infinite + Max Troops]
+Type = Gameshark
+Activation = EndFrame
+900DCF44 20002000
+
+[Gnarl Fist Infinite + Max Troops]
+Type = Gameshark
+Activation = EndFrame
+900DC80C 20002000
+
+[Gotrek Gurnisson Infinite + Max Troops]
+Type = Gameshark
+Activation = EndFrame
+900DC6BC 20002000
+
+[Grudgebringer Cavalry Infinite + Max Troops]
+Type = Gameshark
+Activation = EndFrame
+900DBA44 20002000
+
+[Grudgebringer Infantry Infinite + Max Troops]
+Type = Gameshark
+Activation = EndFrame
+900DBCE4 20002000
+
+[Hellblaster Crew Infinite + Max Troops]
+Type = Gameshark
+Activation = EndFrame
+900DD094 20002000
+
+[Imperial Great Cannon Crew Infinite + Max Troops]
+Type = Gameshark
+Activation = EndFrame
+900DCDF4 20002000
+
+[Keeler's Longbows Infinite + Max Troops]
+Type = Gameshark
+Activation = EndFrame
+900DCAAC 20002000
+
+[Lietdorf 9th Crossbows Infinite + Max Troops]
+Type = Gameshark
+Activation = EndFrame
+900DC8B4 20002000
+
+[Mercenary Xbowmen Infinite + Max Troops]
+Type = Gameshark
+Activation = EndFrame
+900DCA04 20002000
+
+[Nuln Halberdiers Infinite + Max Troops]
+Type = Gameshark
+Activation = EndFrame
+900DC4C4 20002000
+
+[Ragnar's Wolves Infinite + Max Troops]
+Type = Gameshark
+Activation = EndFrame
+900DBB94 20002000
+
+[Reiksguard Knights Infinite + Max Troops]
+Type = Gameshark
+Activation = EndFrame
+900DBC3C 20002000
+
+[Second Carlsson Guard Infinite + Max Troops]
+Type = Gameshark
+Activation = EndFrame
+900DC224 20002000
+
+[Second Dwarf Iron Breakers Infinite + Max Troops]
+Type = Gameshark
+Activation = EndFrame
+900DC0D4 20002000
+
+[Second Dwarf Warriors Infinite + Max Troops]
+Type = Gameshark
+Activation = EndFrame
+900DC41C 20002000
+
+[Second Mortal Crew Infinite + Max Troops]
+Type = Gameshark
+Activation = EndFrame
+900DCFEC 20002000
+
+[Third Carlsson Guard]
+Type = Gameshark
+Activation = EndFrame
+900DC2CC 20002000
+
+[Third Dwarf Warriors]
+Type = Gameshark
+Activation = EndFrame
+900DC764 20002000
+
+[Wood Elf Archers]
+Type = Gameshark
+Activation = EndFrame
+900DC95C 20002000
+
+[Select Cheat\Disable Active Cheats]
+Type = Gameshark
+Activation = EndFrame
+800DB9A2 0000
+
+[Select Cheat\What's the Big Secret (magic related)]
+Type = Gameshark
+Activation = EndFrame
+810DB9A2 0001
+
+[Select Cheat\No Charge (free troops)]
+Type = Gameshark
+Activation = EndFrame
+810DB9A2 0002
+
+[Select Cheat\Hand of GOD (1-hit kills)]
+Type = Gameshark
+Activation = EndFrame
+810DB9A2 0004
+
+[Select Cheat\Gimme the Works (all unit types for troops)]
+Type = Gameshark
+Activation = EndFrame
+810DB9A2 0008
+
+[Select Cheat\...and that's magic (Infinite Magic)]
+Type = Gameshark
+Activation = EndFrame
+810DB9A2 0010
+
+[Select Cheat\At the Movies (all movies)]
+Type = Gameshark
+Activation = EndFrame
+810DB9A2 0020
+
+[Select Cheat\Anytime, Anyplace, Anywhere (access any mission in training)]
+Type = Gameshark
+Activation = EndFrame
+810DB9A2 0040
+
+[Select Cheat\Me no want fight (auto-complete mission)]
+Type = Gameshark
+Activation = EndFrame
+810DB9A2 0080
+

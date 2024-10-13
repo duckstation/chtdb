@@ -1,0 +1,171 @@
+; CHTDB: ; [ Legend of Legaia (USA) (1999) (Sony Computer Entertainment America) {SCUS-94254} <legaia> ]
+
+[Infinite MP (Vahn) In Battle]
+Type = Gameshark
+Activation = EndFrame
+8007A6BC 03E7
+80084812 03E7
+800ECB38 03E7
+800ECB5C 03E7
+
+[Infinite HP (Vahn) In Battle]
+Type = Gameshark
+Activation = EndFrame
+8007A6BC 270F
+8008480E 270F
+800ECB34 270F
+800ECB5A 270F
+
+[Infinite HP (Gala)In Battle]
+Type = Gameshark
+Activation = EndFrame
+8007A6BC 270F
+80085036 270F
+800ED0DC 270F
+800ED102 270F
+
+[Infinite MP (Gala)In Battle]
+Type = Gameshark
+Activation = EndFrame
+8007A6BC 03E7
+8008503A 03E7
+800ED0E0 03E7
+800ED104 03E7
+
+[Infinite HP (Noa)In Battle]
+Type = Gameshark
+Activation = EndFrame
+8007A6BC 270F
+80084C22 270F
+800ECE08 270F
+800ECE2E 270F
+
+[Infinite MP (Noa)In Battle]
+Type = Gameshark
+Activation = EndFrame
+8007A6BC 03E7
+80084C26 03E7
+800ECE0C 03E7
+800ECE30 03E7
+
+[Save Anywhere (Press Select+X)]
+Type = Gameshark
+Activation = EndFrame
+D007B7C0 0140
+8007B6A8 0001
+
+[Infinite Gold]
+Type = Gameshark
+Activation = EndFrame
+8008459C FFFF
+
+[Vahn AP Fixed AT 100]
+Type = Gameshark
+Activation = EndFrame
+300ECB58 00000064
+
+[Noa AP Fixed AT 100]
+Type = Gameshark
+Activation = EndFrame
+300ECE2C 00000064
+
+[Gala AP Fixed AT 100]
+Type = Gameshark
+Activation = EndFrame
+300ED100 00000064
+
+[Vahn MP Fixed AT 900]
+Type = Gameshark
+Activation = EndFrame
+80084812 00000384
+
+[Noa MP Fixed AT 900]
+Type = Gameshark
+Activation = EndFrame
+80084C26 00000384
+
+[Gala MP Fixed AT 900]
+Type = Gameshark
+Activation = EndFrame
+8008503A 00000384
+
+[Vahn FAST LV UP after each battle]
+Type = Gameshark
+Activation = EndFrame
+80084708 0000FFFF
+
+[Noa FAST LV UP after each battle]
+Type = Gameshark
+Activation = EndFrame
+80084B1C 0000FFFF
+
+[Gala FAST LV UP after each battle]
+Type = Gameshark
+Activation = EndFrame
+80084F30 0000FFFF
+
+[LV 99 Vahn (Applies after battle)]
+Type = Gameshark
+Activation = EndFrame
+90084708 0098967F
+
+[LV 99 Noa (Applies after battle)]
+Type = Gameshark
+Activation = EndFrame
+90084B1C 0098967F
+
+[LV 99 Gala (Applies after battle)]
+Type = Gameshark
+Activation = EndFrame
+90084F30 0098967F
+
+[Vahn HP at 4k in menu and begin|after battle (if you heal in battle you will return at the original max HP)]
+Type = Gameshark
+Activation = EndFrame
+8008480E 00000FA0
+
+[Noa HP at 4k in menu and begin|after battle (if you heal in battle you will return at the original max HP)]
+Type = Gameshark
+Activation = EndFrame
+80084C22 00000FA0
+
+[Gala HP at 4k in menu and begin|after battle (if you heal in battle you will return at the original max HP)]
+Type = Gameshark
+Activation = EndFrame
+80085036 00000FA0
+
+[Vahn HP fixed at 255 in menu (ONLY useful for lv up healing serus)]]
+Type = Gameshark
+Activation = EndFrame
+8008480E 000000FF
+
+[Noa HP fixed at 255 in menu (ONLY useful for lv up healing serus)]]
+Type = Gameshark
+Activation = EndFrame
+80084C22 000000FF
+
+[Gala HP fixed at 255 in menu (ONLY useful for lv up healing serus)]]
+Type = Gameshark
+Activation = EndFrame
+80085036 000000FF
+
+[999999 G (Money)]
+Type = Gameshark
+Activation = EndFrame
+9008459C 000F423F
+
+[999999 Coins]
+Type = Gameshark
+Activation = EndFrame
+900845A4 000F423F
+
+[60K Fishing PTS]
+Type = Gameshark
+Activation = EndFrame
+8008444C 0000EA60
+
+[Evil Medallion Accessory in Inventory]
+Type = Gameshark
+Activation = EndFrame
+3008595A 000000ED
+

@@ -1,0 +1,48 @@
+; CHTDB: ; [ Rittai Ninja Katsugeki: Tenchu (Japan) {SLPS-01272} ]
+
+[Scenario all selectable Rikimaru]
+Type = Gameshark
+Activation = EndFrame
+30010003 0008
+
+[Scenario all selectable Ayame]
+Type = Gameshark
+Activation = EndFrame
+30010004 0008
+
+[It does not shut beneficial to use the art of change]
+Type = Gameshark
+Activation = EndFrame
+90037858 00000000
+
+[Do not reduce items in the game]
+Type = Gameshark
+Activation = EndFrame
+8003B49C 0000
+8003B94E 0000
+
+[Ninja tools all infinite warehouse]
+Type = Gameshark
+Activation = EndFrame
+90010010 FFFFFFFF
+90010014 FFFFFFFF
+90010018 FFFFFFFF
+9001001C FFFFFFFF
+80010020 FFFF
+
+[Heal in Press the Square button]
+Type = Gameshark
+Activation = EndFrame
+D00C5008 0080
+300EA73C 0064
+D00C5008 0080
+300EA73E 0064
+
+[Heal in press Square button in fourth story Voodoo swastika Professor]
+Type = Gameshark
+Activation = EndFrame
+D00C5008 0080
+3011995C 0064
+D00C5008 0080
+3011995E 0064
+

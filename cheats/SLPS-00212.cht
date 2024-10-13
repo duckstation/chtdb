@@ -1,0 +1,17 @@
+; CHTDB: ; [ Descent (Jpn) (1996) (Interplay) {SLPS-00212} <descentj> ]
+
+[Infinite Rockets]
+Type = Gameshark
+Activation = EndFrame
+800D045A 0006
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+800D0442 0062
+
+[Infinite Shields]
+Type = Gameshark
+Activation = EndFrame
+800D0446 0064
+

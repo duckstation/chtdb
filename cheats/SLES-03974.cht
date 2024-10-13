@@ -1,0 +1,7 @@
+; CHTDB: ; [ Harry Potter and the Chamber of Secrets (Europe) {SLES-03974} ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80084A7C 8000
+

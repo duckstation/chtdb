@@ -1,0 +1,37 @@
+; CHTDB: ; [ Lucky Luke: Western Fever (Europe) {SLES-03530} ]
+
+[Infinite Health Level 1]
+Type = Gameshark
+Activation = EndFrame
+8018F010 000B
+
+[Infinite Health Level 2]
+Type = Gameshark
+Activation = EndFrame
+80190968 000B
+
+[Infinite Health Level 3]
+Type = Gameshark
+Activation = EndFrame
+8018FA38 000B
+
+[Infinite Health Level 4]
+Type = Gameshark
+Activation = EndFrame
+80190850 000B
+
+[Infinite Health Level 5]
+Type = Gameshark
+Activation = EndFrame
+80190898 000B
+
+[No Reload]
+Type = Gameshark
+Activation = EndFrame
+800B7F20 0006
+
+[Infinite Four Leaves Clover]
+Type = Gameshark
+Activation = EndFrame
+800B7A54 0063
+

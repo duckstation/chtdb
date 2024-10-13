@@ -1,0 +1,17 @@
+; CHTDB: ; [ Tiger Woods PGA Tour 2000 (USA) (1999) (Electronic Arts) {SLUS-01054} <pga2k> ]
+
+[Only One Shot Recorded Single pLayer Mode]
+Type = Gameshark
+Activation = EndFrame
+80041BEA 2400
+
+[P1 Only One Shot Recorded]
+Type = Gameshark
+Activation = EndFrame
+8008E0D0 0000
+
+[Shot's Recorded Score 1]
+Type = Gameshark
+Activation = EndFrame
+80041BE4 0001
+

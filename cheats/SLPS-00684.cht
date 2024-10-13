@@ -1,0 +1,27 @@
+; CHTDB: ; [ Koukai Sarenakatta Shuki (Japan) {SLPS-00684} ]
+
+[9999900 money]
+Type = Gameshark
+Activation = EndFrame
+801FA948 4E1F
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801FA964 0022
+
+[Oil 99 times]
+Type = Gameshark
+Activation = EndFrame
+801FA94A 0063
+
+[99 this match]
+Type = Gameshark
+Activation = EndFrame
+801FA94C 0063
+
+[99 rounds of ammunition]
+Type = Gameshark
+Activation = EndFrame
+801FA94E 0063
+

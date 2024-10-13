@@ -1,0 +1,24 @@
+; CHTDB: ; [ Tales of Fandom Vol.1 (Jpn, Cless Version) (2002) (Namco) {SLPS-03375} <tofand1c> ]
+
+[All Gallery/All Modes/All Characteres]
+Type = Gameshark
+Activation = EndFrame
+80137978 FFFF
+90097CE0 2012FFFF
+8013797A 007F
+
+[Timer Stop]
+Type = Gameshark
+Activation = EndFrame
+80079340 0000
+
+[State Normality]
+Type = Gameshark
+Activation = EndFrame
+801685B6 0004
+
+[State Darkness]
+Type = Gameshark
+Activation = EndFrame
+801685B6 2104
+

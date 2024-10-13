@@ -1,0 +1,21 @@
+; CHTDB: ; [ Ridge Racer Revolution (Japan) {SLPS-00150} ]
+
+[Have All Cars]
+Type = Gameshark
+Activation = EndFrame
+801DD380 0001
+801DD920 0001
+801DD9B4 0001
+8019513C 0001
+
+[Miniature Cars]
+Type = Gameshark
+Activation = EndFrame
+801DE490 0028
+801E6508 0028
+
+[During the race other cars stop]
+Type = Gameshark
+Activation = EndFrame
+801DE470 0028
+

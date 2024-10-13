@@ -1,0 +1,24 @@
+; CHTDB: ; [ Future Cop - L.A.P.D. (USA) (1998) (Electronic Arts) {SLUS-00739} <futurcop> ]
+
+[All Weapons]
+Type = Gameshark
+Activation = EndFrame
+8009C0B2 0004
+8009C0B6 0004
+8009C0DA 0004
+
+[Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+80058270 2400
+
+[Unlock All Zones]
+Type = Gameshark
+Activation = EndFrame
+8009F882 0050
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+8006BC78 2400
+

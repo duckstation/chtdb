@@ -1,0 +1,88 @@
+; CHTDB: ; [ Namco Anthology 1 (Japan) {SLPS-01220} ]
+
+[Babel - Infinite Power]
+Type = Gameshark
+Activation = EndFrame
+800782EC 0014
+
+[Babel (Classic version) - Infinite Power]
+Type = Gameshark
+Activation = EndFrame
+80100091 0014
+
+[Conqueror's Continent (Haou no Tairiku) Infinite Food]
+Type = Gameshark
+Activation = EndFrame
+801C1F8A 270F
+
+[Conqueror's Continent (Haou no Tairiku) Infinite Item]
+Type = Gameshark
+Activation = EndFrame
+301C1F92 0063
+
+[Conqueror's Continent (Haou no Tairiku) Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+801C1F88 270F
+
+[Conqueror's Continent (Haou no Tairiku) Infinite Round]
+Type = Gameshark
+Activation = EndFrame
+801B0AA0 0063
+
+[Conqueror's Continent (Haou no Tairiku) Max Government]
+Type = Gameshark
+Activation = EndFrame
+301C1F93 0063
+
+[Conqueror's Continent (Haou no Tairiku) Max Land]
+Type = Gameshark
+Activation = EndFrame
+801C1F8C 03E7
+
+[Conqueror's Continent (Haou no Tairiku) Max Market]
+Type = Gameshark
+Activation = EndFrame
+801C1F8E 03E7
+
+[Conqueror's Continent (Haou no Tairiku) Max People]
+Type = Gameshark
+Activation = EndFrame
+801C1F90 270F
+
+[Conqueror's Continent (Haou no Tairiku) Max Weather]
+Type = Gameshark
+Activation = EndFrame
+301C1F94 0063
+
+[Star Luster - Photon torpedo 99]
+Type = Gameshark
+Activation = EndFrame
+301F509C 0063
+
+[Star Luster - Photon torpedo deadly blow]
+Type = Gameshark
+Activation = EndFrame
+A6147774 FFFF0000
+A6147776 24422402
+
+[Star Luster - I do not go DATE]
+Type = Gameshark
+Activation = EndFrame
+8018C558 0000
+
+[Star Luster - Infinite shield]
+Type = Gameshark
+Activation = EndFrame
+801F50A0 0600
+
+[Star Luster - Aircraft repair press L2]
+Type = Gameshark
+Activation = EndFrame
+D018C538 0001
+801F50AC 0000
+D018C538 0001
+801F50B0 0000
+D018C538 0001
+801F50B4 0000
+

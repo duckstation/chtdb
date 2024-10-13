@@ -1,0 +1,94 @@
+; CHTDB: ; [ Monster Rancher 2 (USA) (1999) (Tecmo) {SLUS-00917} <mranchr2> ]
+
+[Max Funds]
+Type = Gameshark
+Activation = EndFrame
+90098FBC 05F5E0FF
+
+[All Monster Cards]
+Type = Gameshark
+Activation = EndFrame
+5000CC02 0000
+8009908C 0101
+
+[Full Zooming In View Mode]
+Type = Gameshark
+Activation = EndFrame
+D001C3CC 2821
+9001C3D0 00000000
+
+[Max Monster Health (In-Battle)]
+Type = Gameshark
+Activation = EndFrame
+801FFCDC 03E7
+
+[100% Loyalty + 'Even' Status]
+Type = Gameshark
+Activation = EndFrame
+80097A3C 00F3
+
+[Wild Monster Life Drain (Press L2)]
+Type = Gameshark
+Activation = EndFrame
+D00938AE 0001
+801FFC74 0000
+
+[Unlock All CD's]
+Type = Gameshark
+Activation = EndFrame
+50002601 0000
+30099386 0001
+
+[Infinite Dig Time]
+Type = Gameshark
+Activation = EndFrame
+800D55BC 03E7
+
+[Activation Code For All Techniques (Must Be On)]
+Type = Gameshark
+Activation = EndFrame
+90097BD0 120C0600
+
+[Approach (All Techniques Acquired)]
+Type = Gameshark
+Activation = EndFrame
+90097B98 00010001
+90097B9C 00010001
+90097BA0 00010001
+
+[Short Attacks (All Techniques Acquired)]
+Type = Gameshark
+Activation = EndFrame
+90097BA4 00010001
+90097BA8 00010001
+90097BAC 00010001
+
+[Medium Range (All Techniques Acquired)]
+Type = Gameshark
+Activation = EndFrame
+90097BB0 00010001
+90097BB4 00010001
+90097BB8 00010001
+
+[Long Range (All Techniques Acquired)]
+Type = Gameshark
+Activation = EndFrame
+90097BBC 00010001
+90097BC0 00010001
+90097BC4 00010001
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A708E5A0 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A708E5A0 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A708E5A0 10000400
+

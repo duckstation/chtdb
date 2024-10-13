@@ -1,0 +1,32 @@
+; CHTDB: ; [ Xevious 3D/G+ (Europe) {SCES-00736} ]
+
+[Xevious/Super Xevious/Xevious Arrange Infinite Solvalous]
+Type = Gameshark
+Activation = EndFrame
+8012DD58 0005
+
+[Xevious/Super Xevious/Xevious Arrange Weapon Upgrade]
+Type = Gameshark
+Activation = EndFrame
+80131EA4 0002
+
+[Xevious 3D/G\P1 Infinite Solvalous]
+Type = Gameshark
+Activation = EndFrame
+3012DD5C 0005
+
+[Xevious 3D/G\P1 Invincibility]
+Type = Gameshark
+Activation = EndFrame
+30146A18 00C7
+
+[Xevious 3D/G\P2 Invincibility]
+Type = Gameshark
+Activation = EndFrame
+30146A1C 00C7
+
+[Xevious 3D/G\Infinite Continues]
+Type = Gameshark
+Activation = EndFrame
+30131EA0 0003
+

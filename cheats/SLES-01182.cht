@@ -1,0 +1,12 @@
+; CHTDB: ; [ Castrol Honda Superbike Racing (Europe) {SLES-01182} ]
+
+[Always Finish In First Place]
+Type = Gameshark
+Activation = EndFrame
+8018CB04 0001
+
+[Disable Other Racers]
+Type = Gameshark
+Activation = EndFrame
+80055138 ED50
+

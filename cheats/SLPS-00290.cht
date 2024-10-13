@@ -1,0 +1,82 @@
+; CHTDB: ; [ Idol Janshi Suchie-Pai II Limited (Jpn) (1996) (Jaleco) {SLPS-00290~SLPS-00292} <suchipa2> ]
+
+[Have 99999 Points]
+Type = Gameshark
+Activation = EndFrame
+900AD118 0001869F
+
+[Enemy Have 0 Points]
+Type = Gameshark
+Activation = EndFrame
+800AD0A4 0000
+
+[Stage Select appearance Suchiyuki]
+Type = Gameshark
+Activation = EndFrame
+300B7210 000F
+
+[Special Summon]
+Type = Gameshark
+Activation = EndFrame
+300AD150 0009
+
+[Hyper Eye]
+Type = Gameshark
+Activation = EndFrame
+300AD13C 0009
+
+[Fire chastisement]
+Type = Gameshark
+Activation = EndFrame
+300AD140 0009
+
+[Deadly! Suu Kyi stick]
+Type = Gameshark
+Activation = EndFrame
+300AD148 0009
+
+[Helper]
+Type = Gameshark
+Activation = EndFrame
+300AD14C 0009
+
+[Number of remaining panel match]
+Type = Gameshark
+Activation = EndFrame
+300BB34C 0009
+
+[Transformation point]
+Type = Gameshark
+Activation = EndFrame
+300B694C 0063
+
+[Have 99999 Points In Vs Mode (Bonus Disc)]
+Type = Gameshark
+Activation = EndFrame
+90091770 0001869F
+
+[Enemy Have 0 Points In Vs Mode (Bonus Disc)]
+Type = Gameshark
+Activation = EndFrame
+80091774 0000
+
+[Suu Kyi Ai (Bonus Disc)]
+Type = Gameshark
+Activation = EndFrame
+30091C9C 0001
+
+[Hyper chastisement (Bonus Disc)]
+Type = Gameshark
+Activation = EndFrame
+30091CA0 0001
+
+[Suu Kyi stick (Bonus Disc)]
+Type = Gameshark
+Activation = EndFrame
+30091CA8 0001
+
+[Room of Miyuri All Unlock Select the free play mode before selecting the Room of Miyui (Bonus Disc)]
+Type = Gameshark
+Activation = EndFrame
+80012600 7FFF
+

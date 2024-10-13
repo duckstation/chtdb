@@ -1,0 +1,77 @@
+; CHTDB: ; [ G-Police (Germany) {SLES-00854 | SLES-10854} ]
+
+[Unendlich Cannon]
+Type = Gameshark
+Activation = EndFrame
+800F5D10 0031
+
+[Unendlich Missiles]
+Type = Gameshark
+Activation = EndFrame
+800F5D14 000A
+
+[Unendlich Hyper Missiles]
+Type = Gameshark
+Activation = EndFrame
+800F5D18 0031
+
+[Unendlich Firestreak Missiles]
+Type = Gameshark
+Activation = EndFrame
+800F5D1C 0031
+
+[Unendlich Starburst Missiles]
+Type = Gameshark
+Activation = EndFrame
+800F5D20 0031
+
+[Unendlich Rockets]
+Type = Gameshark
+Activation = EndFrame
+800F5D24 0031
+
+[Unendlich 6000 Rockets]
+Type = Gameshark
+Activation = EndFrame
+800F5D28 0031
+
+[Unendlich Cluster Bombs]
+Type = Gameshark
+Activation = EndFrame
+800F5D2A 0031
+
+[Unendlich Plasma]
+Type = Gameshark
+Activation = EndFrame
+800F5D2E 0031
+
+[Unendlich Laser]
+Type = Gameshark
+Activation = EndFrame
+800F5D30 0031
+
+[Unendlich Epp]
+Type = Gameshark
+Activation = EndFrame
+800F5D34 0031
+
+[Unendlich 6000 Epp]
+Type = Gameshark
+Activation = EndFrame
+800F5D36 0031
+
+[Unendlich Drop Bombs]
+Type = Gameshark
+Activation = EndFrame
+800F5D3E 0031
+
+[Unendlich Supplies]
+Type = Gameshark
+Activation = EndFrame
+800F5D40 0031
+
+[Unendlich Energie (Wenn dieser Code auch aktiviert werden soll (wird wohl...), dann bitte den Code direkt nach dem booten ausschalten und nur waehrend des eigentlichen Spiels wieder einschalten, sonst geht gar nichts)]
+Type = Gameshark
+Activation = EndFrame
+801EEEB8 1389
+

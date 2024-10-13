@@ -1,0 +1,50 @@
+; CHTDB: ; [ Risk - The Game of Global Domination (USA) (1997) (Hasbro Interactive) {SLUS-00616} <risk> ]
+
+[100 Men Press Start + Select]
+Type = Gameshark
+Activation = EndFrame
+D00A4688 0900
+800A4674 0064
+
+[Always Blue's Turn]
+Type = Gameshark
+Activation = EndFrame
+800A46CC 0001
+D003E4B8 000F
+8003E4BA 1000
+
+[Always Green's Turn]
+Type = Gameshark
+Activation = EndFrame
+800A46CC 0003
+D003E4B8 000F
+8003E4BA 1000
+
+[Always Purple's Turn]
+Type = Gameshark
+Activation = EndFrame
+800A46CC 0004
+D003E4B8 000F
+8003E4BA 1000
+
+[Always Red's Turn]
+Type = Gameshark
+Activation = EndFrame
+800A46CC 0002
+D003E4B8 000F
+8003E4BA 1000
+
+[Always White's Turn]
+Type = Gameshark
+Activation = EndFrame
+800A46CC 0006
+D003E4B8 000F
+8003E4BA 1000
+
+[Always Yellow's Turn]
+Type = Gameshark
+Activation = EndFrame
+800A46CC 0005
+D003E4B8 000F
+8003E4BA 1000
+

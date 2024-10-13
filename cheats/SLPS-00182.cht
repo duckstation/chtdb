@@ -1,0 +1,12 @@
+; CHTDB: ; [ Lode Runner: The Legend Returns (Japan) {SLPS-00182} ]
+
+[P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800C5CE8 0005
+
+[P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800CB398 0005
+

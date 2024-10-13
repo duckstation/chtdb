@@ -1,0 +1,91 @@
+; CHTDB: ; [ Captain Commando (Jpn) (1998) (Capcom) {SLPS-01567} <captcomm> ]
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80197D44 0048
+
+[P2 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80197E2C 0048
+
+[P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801980CC 000A
+
+[P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80198104 000A
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+8019DD6A 0100
+
+[Select Stage\2]
+Type = Gameshark
+Activation = EndFrame
+80011800 0002
+
+[Select Stage\3]
+Type = Gameshark
+Activation = EndFrame
+80011800 0003
+
+[Select Stage\4]
+Type = Gameshark
+Activation = EndFrame
+80011800 0004
+
+[Select Stage\5]
+Type = Gameshark
+Activation = EndFrame
+80011800 0005
+
+[Select Stage\6]
+Type = Gameshark
+Activation = EndFrame
+80011800 0006
+
+[Select Stage\7]
+Type = Gameshark
+Activation = EndFrame
+80011800 0007
+
+[Select Stage\Final Stage 8]
+Type = Gameshark
+Activation = EndFrame
+80011800 0008
+
+[P1 Hold L1 to Run]
+Type = Gameshark
+Activation = EndFrame
+E019EA38 0004
+80197DC2 0C00
+
+[P2 Hold L1 to Run]
+Type = Gameshark
+Activation = EndFrame
+E019EA3A 0004
+80197EAA 0C00
+
+[P1 Infinite Weapon Use]
+Type = Gameshark
+Activation = EndFrame
+30197DCD 0004
+
+[P2 Infinite Weapon Use]
+Type = Gameshark
+Activation = EndFrame
+30197EB5 0004
+
+[Unlock Extras Unlocks 4-player mode + stage select.]
+Type = Gameshark
+Activation = EndFrame
+800112D4 0004
+D01A1BEC 0002
+801A1BEE 0001
+

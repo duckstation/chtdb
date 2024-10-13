@@ -1,0 +1,124 @@
+; CHTDB: ; [ X-Men - Children of the Atom (USA) (1998) (Acclaim Entertainment) {SLUS-00044} <xmcota> ]
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8003B6E8 008F
+
+[P1 No Energy]
+Type = Gameshark
+Activation = EndFrame
+8003B6E8 0000
+
+[P1 1-Hit Death]
+Type = Gameshark
+Activation = EndFrame
+A603B6E8 008F0001
+
+[P1 Super Bar Always Full]
+Type = Gameshark
+Activation = EndFrame
+8003B6EC 008E
+
+[P1 Start With One Win]
+Type = Gameshark
+Activation = EndFrame
+D003BD58 0000
+3003BD58 0001
+
+[P1 Select Character\Storm]
+Type = Gameshark
+Activation = EndFrame
+8003BE58 0100
+
+[P1 Select Character\Cyclops]
+Type = Gameshark
+Activation = EndFrame
+8003BE58 0101
+
+[P1 Select Character\Wolverine]
+Type = Gameshark
+Activation = EndFrame
+8003BE58 0102
+
+[P1 Select Character\Omega Red]
+Type = Gameshark
+Activation = EndFrame
+8003BE58 0103
+
+[P1 Select Character\Sentinel]
+Type = Gameshark
+Activation = EndFrame
+8003BE58 0104
+
+[P1 Select Character\Iceman]
+Type = Gameshark
+Activation = EndFrame
+8003BE58 0105
+
+[P1 Select Character\Colussus]
+Type = Gameshark
+Activation = EndFrame
+8003BE58 0106
+
+[P1 Select Character\Psylocke]
+Type = Gameshark
+Activation = EndFrame
+8003BE58 0107
+
+[P1 Select Character\Silver Samurai]
+Type = Gameshark
+Activation = EndFrame
+8003BE58 0108
+
+[P1 Select Character\Spiral]
+Type = Gameshark
+Activation = EndFrame
+8003BE58 0109
+
+[P1 Select Character\Juggernaut]
+Type = Gameshark
+Activation = EndFrame
+8003BE58 010A
+
+[P1 Select Character\Magneto]
+Type = Gameshark
+Activation = EndFrame
+8003BE58 010B
+
+[P1 Select Character\Akuma]
+Type = Gameshark
+Activation = EndFrame
+8003BE58 010C
+
+[P2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8003BAE8 008F
+
+[P2 No Energy]
+Type = Gameshark
+Activation = EndFrame
+8003BAE8 0000
+
+[P2 1-Hit Death]
+Type = Gameshark
+Activation = EndFrame
+A603BAE8 008F0001
+
+[P2 Super Bar Always Full]
+Type = Gameshark
+Activation = EndFrame
+8003BAEC 008E
+
+[P2 Start With One Win]
+Type = Gameshark
+Activation = EndFrame
+D003BD58 0000
+3003BD58 0002
+
+[P2 Never Wins]
+Type = Gameshark
+Activation = EndFrame
+3003BD59 0000
+

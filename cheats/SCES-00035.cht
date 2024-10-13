@@ -1,0 +1,17 @@
+; CHTDB: ; [ Kileak: The Blood (Europe) {SCES-00035} ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800B47A4 03E8
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+800B47D4 01F4
+
+[Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+800B47A0 03E8
+

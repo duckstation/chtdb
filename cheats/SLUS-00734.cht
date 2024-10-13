@@ -1,0 +1,38 @@
+; CHTDB: ; [ Dragon Seeds (USA) (1998) (Jaleco USA) {SLUS-00734} <drgnseed> ]
+
+[Infinite Gold]
+Type = Gameshark
+Activation = EndFrame
+80084574 FFFF
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800EEDF8 03E7
+800846AA 03E7
+
+[Infinite Special Attacks]
+Type = Gameshark
+Activation = EndFrame
+800EE5BC 0009
+
+[Max Attack Strength]
+Type = Gameshark
+Activation = EndFrame
+800846D0 0063
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A7097408 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A7097408 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A7097408 10000400
+

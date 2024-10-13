@@ -1,0 +1,13 @@
+; CHTDB: ; [ Meitantei Conan - Saikou no Aibou (Jpn) (2002) (Bandai) {SLPS-03425} <mconansa> ]
+
+[Infinite Detective Points]
+Type = Gameshark
+Activation = EndFrame
+800949FC 0064
+
+[AP 100%]
+Type = Gameshark
+Activation = EndFrame
+800949F8 0015
+800949E4 0015
+

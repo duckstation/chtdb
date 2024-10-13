@@ -1,0 +1,18 @@
+; CHTDB: ; [ Pinball Fantasies Deluxe (Jpn) (1996) (VAP) {SLPS-00482} <pinballf> ]
+
+[Extra table appearance]
+Type = Gameshark
+Activation = EndFrame
+8007F128 0043
+
+[One pitch in the first 1P]
+Type = Gameshark
+Activation = EndFrame
+8008705C 0000
+
+[One pitch in the first 1P Press Square button]
+Type = Gameshark
+Activation = EndFrame
+D01C24BA 7FFF
+8008705C 0000
+

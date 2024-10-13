@@ -1,0 +1,67 @@
+; CHTDB: ; [ Arcade's Greatest Hits - The Atari Collection 1 (USA) (1996) (Midway Home Entertainment) {SLUS-00399} <arcadeac> ]
+
+[Asteroids\P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+300F595B 0006
+
+[Asteroids\P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+300F595C 0006
+
+[Battlezone\P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80132E4C 0004
+
+[Centipede\P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+3011A93D 0005
+
+[Centipede\P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+3011A93E 0005
+
+[Missile Command\P1 Infinite Cities]
+Type = Gameshark
+Activation = EndFrame
+3012438C 0006
+
+[P2 Missile Command\Infinite Cities]
+Type = Gameshark
+Activation = EndFrame
+3012438D 0006
+
+[Missile Command\Infinite Shots (Alpha Fire)]
+Type = Gameshark
+Activation = EndFrame
+3012436C 000A
+
+[Missile Command\Infinite Shots (DeltaFire)]
+Type = Gameshark
+Activation = EndFrame
+3012436D 000A
+
+[Missile Command\Infinite Shots (Omega Fire)]
+Type = Gameshark
+Activation = EndFrame
+3012436E 000A
+
+[Super Breakkout\P1 Score Modifier]
+Type = Gameshark
+Activation = EndFrame
+300FC314 0063
+
+[Super Breakkout\P1 Infinite Turns]
+Type = Gameshark
+Activation = EndFrame
+800FC2F8 0001
+
+[Tempest\P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+30125080 0003
+

@@ -1,0 +1,35 @@
+; CHTDB: ; [ The Legend of Heroes IV: Akai Shizuku (Japan) {SLPS-01540} ]
+
+[Avin (Main character) Infinite HP in battle]
+Type = Gameshark
+Activation = EndFrame
+801FF87E 03E7
+801FF882 03E7
+
+[Avin (Main character) Infinite MP in battle]
+Type = Gameshark
+Activation = EndFrame
+801FF880 03E7
+801FF884 03E7
+
+[Avin ATK MAX]
+Type = Gameshark
+Activation = EndFrame
+3007BA3A 00FF
+
+[Eimelle (Second character) Infinite HP in battle]
+Type = Gameshark
+Activation = EndFrame
+801FF8B2 03E7
+801FF8B6 03E7
+
+[Have 999999 Rose (Money)]
+Type = Gameshark
+Activation = EndFrame
+901F3440 000F423F
+
+[PISC MAX]
+Type = Gameshark
+Activation = EndFrame
+90095C58 0098967F
+

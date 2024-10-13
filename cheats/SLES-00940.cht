@@ -1,0 +1,28 @@
+; CHTDB: ; [ Felony 11-79 (Europe) {SLES-00940} ]
+
+[No Damage]
+Type = Gameshark
+Activation = EndFrame
+8009CB98 0000
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800B7232 012C
+
+[Elapsed Time is 00.00.00]
+Type = Gameshark
+Activation = EndFrame
+800A36CA 0000
+900A36CC 00000000
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+9009CB38 00FFFFFF
+
+[Infinite Fuel]
+Type = Gameshark
+Activation = EndFrame
+800B5456 0019
+

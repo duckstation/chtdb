@@ -1,0 +1,12 @@
+; CHTDB: ; [ Battle Hunter (USA) (2001) (Agetec / A1 Games) {SLUS-01335} <btlhuntr> ]
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+300CFA0E 0063
+
+[Max HP]
+Type = Gameshark
+Activation = EndFrame
+300CFA0F 0063
+

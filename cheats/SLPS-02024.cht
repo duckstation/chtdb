@@ -1,0 +1,41 @@
+; CHTDB: ; [ Yuugen Kaisha Chikyuu Boueitai - Guard of Earth Organization (Jpn) (1999) (Media Rings) {SLPS-02024} <yugenkai> ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+900BA31C 270F270F
+
+[Health status of first person]
+Type = Gameshark
+Activation = EndFrame
+300B9F00 00FF
+
+[Energy first person]
+Type = Gameshark
+Activation = EndFrame
+300B9F01 00FF
+
+[All MAX status in a week]
+Type = Gameshark
+Activation = EndFrame
+8003B5C8 0001
+8003B5E0 0001
+8003B5F8 0001
+8003B610 0001
+8003B628 0001
+8003B640 0001
+8003B658 0001
+8003B670 0001
+8003B688 0001
+8003B6B0 0001
+
+[First person Energy Max]
+Type = Gameshark
+Activation = EndFrame
+300B9F00 00FF
+
+[First plane Infinite And Max Energy]
+Type = Gameshark
+Activation = EndFrame
+800C66C8 6363
+

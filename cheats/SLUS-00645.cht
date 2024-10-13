@@ -1,0 +1,57 @@
+; CHTDB: ; [ Big Air (USA) (1999) (Accolade) {SLUS-00645} <bigair> ]
+
+[Max Score]
+Type = Gameshark
+Activation = EndFrame
+8007BC1C FFFF
+
+[Select Track\USA]
+Type = Gameshark
+Activation = EndFrame
+800A07D8 0000
+
+[Select Track\Switzerland]
+Type = Gameshark
+Activation = EndFrame
+800A07D8 0001
+
+[Select Track\Japan]
+Type = Gameshark
+Activation = EndFrame
+800A07D8 0002
+
+[Select Track\Scotland]
+Type = Gameshark
+Activation = EndFrame
+800A07D8 0003
+
+[Select Track\Germany]
+Type = Gameshark
+Activation = EndFrame
+800A07D8 0004
+
+[Select Track\France]
+Type = Gameshark
+Activation = EndFrame
+800A07D8 0005
+
+[Time Is Always 0.00.00]
+Type = Gameshark
+Activation = EndFrame
+8006AB94 0000
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A706B650 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A706B650 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A706B650 10000400
+

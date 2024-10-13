@@ -1,0 +1,19 @@
+; CHTDB: ; [ Ultraman Zearth (Jpn) (1996) (Tohoku Shinsha) {SLPS-00652} <ultrazrt> ]
+
+[9999 P]
+Type = Gameshark
+Activation = EndFrame
+800E7AE4 0F27
+
+[P1 Status Max]
+Type = Gameshark
+Activation = EndFrame
+800E7AD6 00FF
+900E7AD8 00FF00FF
+
+[P1 Maximum HP]
+Type = Gameshark
+Activation = EndFrame
+800E7ADC 03E7
+800E7AE0 03E7
+

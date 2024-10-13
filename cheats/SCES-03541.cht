@@ -1,0 +1,34 @@
+; CHTDB: ; [ Disney Atlantis: El Imperio Perdido (Spain) (Platinum) {SCES-03541} ]
+
+[Vidas Infinitas]
+Type = Gameshark
+Activation = EndFrame
+80096AD8 0063
+
+[Energia Infinita]
+Type = Gameshark
+Activation = EndFrame
+80096ADA 0063
+
+[Oxigeno Infinito]
+Type = Gameshark
+Activation = EndFrame
+80096AE0 0063
+
+[Oxigeno Infinito Alt]
+Type = Gameshark
+Activation = EndFrame
+80096AF6 0063
+
+[Unlock All Levels (Must Load A Saved Game)]
+Type = Gameshark
+Activation = EndFrame
+900992B4 FFFFFFFF
+
+[All Movies]
+Type = Gameshark
+Activation = EndFrame
+800992B6 FFFF
+50000702 0000
+800992D4 FFFF
+

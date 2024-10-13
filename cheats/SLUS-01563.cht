@@ -1,0 +1,7 @@
+; CHTDB: ; [ Robo Pit 2 (USA) (2003) (Mud Duck Productions) {SLUS-01563} <robopit2> ]
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800C86EC 042E
+

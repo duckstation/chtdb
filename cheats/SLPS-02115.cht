@@ -1,0 +1,52 @@
+; CHTDB: ; [ Slayers Royal 2 (Japan) {SLPS-02115} ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+9003E7EC B8A0D4C0
+
+[Lina Infinite HP And Mp in combat]
+Type = Gameshark
+Activation = EndFrame
+900BB31C 03E703E7
+900BB320 03E703E7
+
+[Lina Max Status]
+Type = Gameshark
+Activation = EndFrame
+3003E762 00C8
+3003E764 00C8
+3003E766 00C8
+
+[Naga Infinite HP And Mp in combat]
+Type = Gameshark
+Activation = EndFrame
+900BB3FC 03E703E7
+900BB400 03E703E7
+
+[Naga Max Status]
+Type = Gameshark
+Activation = EndFrame
+3003E774 00C8
+3003E776 00C8
+3003E778 00C8
+
+[Gourry Gabriev Infinite HP And Mp in combat]
+Type = Gameshark
+Activation = EndFrame
+900BB4DC 03E703E7
+900BB4E0 03E703E7
+
+[Gourry Gabriev Max Status]
+Type = Gameshark
+Activation = EndFrame
+3003E786 00C8
+3003E788 00C8
+3003E78A 00C8
+
+[4tH Character Infinite HP And Mp in combat]
+Type = Gameshark
+Activation = EndFrame
+900BB5BC 03E703E7
+900BB5C0 03E703E7
+

@@ -1,0 +1,20 @@
+; CHTDB: ; [ Micro Machines (Japan) {SLPS-01111} ]
+
+[Always Come In First]
+Type = Gameshark
+Activation = EndFrame
+8013A93E 0000
+8013ABC2 0000
+8013AE46 0000
+8013B0CA 0000
+
+[Does not decrease LIFE]
+Type = Gameshark
+Activation = EndFrame
+800129DA 00FF
+
+[Infinite Items 1P]
+Type = Gameshark
+Activation = EndFrame
+80136EE4 00FF
+

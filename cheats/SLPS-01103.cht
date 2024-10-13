@@ -1,0 +1,57 @@
+; CHTDB: ; [ Gakkou o Tsukurou!! Let's Make a School!! (Japan) {SLPS-01103} ]
+
+[Infinite Money 999999]
+Type = Gameshark
+Activation = EndFrame
+9014171C 000F423F
+
+[All Scenarios]
+Type = Gameshark
+Activation = EndFrame
+301CF792 FFFF
+
+[All items"]
+Type = Gameshark
+Activation = EndFrame
+901CF798 FFFFFFFF
+
+[Construction for free]
+Type = Gameshark
+Activation = EndFrame
+A606C76A 00440040
+
+[Do not reduce the direct movement]
+Type = Gameshark
+Activation = EndFrame
+A606CCFE 00640060
+
+[Teacher skills acquired freedom]
+Type = Gameshark
+Activation = EndFrame
+A707B9BA 14401400
+A707B9F2 14401400
+A707BA2A 14401400
+A707BA62 14401400
+A707BAF2 00710060
+
+[Staff skills acquired freedom]
+Type = Gameshark
+Activation = EndFrame
+A708E4EE 10401000
+A708EFFA 00620060
+
+[Favorability Max]
+Type = Gameshark
+Activation = EndFrame
+801CF78C 0064
+
+[Principal power Max]
+Type = Gameshark
+Activation = EndFrame
+801CF78E 0064
+
+[Garbage collection amount]
+Type = Gameshark
+Activation = EndFrame
+801CF790 0000
+

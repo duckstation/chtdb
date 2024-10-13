@@ -1,0 +1,28 @@
+; CHTDB: ; [ Hugo - The Evil Mirror (USA) (2003) (XS Games) {SLUS-01559} <hugo> ]
+
+[Infinite Energy Trollerut]
+Type = Gameshark
+Activation = EndFrame
+80164FBC 000A
+
+[100 Diamonds Trollerut]
+Type = Gameshark
+Activation = EndFrame
+80164FC0 0064
+
+[100 Diamonds Trollerit]
+Type = Gameshark
+Activation = EndFrame
+80163790 0064
+801C5B18 0064
+
+[Infinite Energy Trollerat]
+Type = Gameshark
+Activation = EndFrame
+80165E44 0005
+
+[100 Diamonds Trollerat]
+Type = Gameshark
+Activation = EndFrame
+80165E48 0064
+

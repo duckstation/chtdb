@@ -1,0 +1,33 @@
+; CHTDB: ; [ Bounty Sword First (Japan) {SLPS-00757} ]
+
+[Infinite & Max HP Sword (Main character)]
+Type = Gameshark
+Activation = EndFrame
+800F1318 03E7
+800F13FC 03E7
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+800BE840 FFFF
+
+[Master Exp]
+Type = Gameshark
+Activation = EndFrame
+800F134A FFFF
+
+[P1 Exp]
+Type = Gameshark
+Activation = EndFrame
+800F14FA FFFF
+
+[P2 Exp]
+Type = Gameshark
+Activation = EndFrame
+800F16AA FFFF
+
+[P3 Exp]
+Type = Gameshark
+Activation = EndFrame
+800F185A FFFF
+

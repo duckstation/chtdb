@@ -1,0 +1,12 @@
+; CHTDB: ; [ Arkanoid R 2000 (Jpn) (1999) (Taito) {SLPM-86262 (TCPS10006)} <arknoi2k> ]
+
+[P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800D0C10 0063
+
+[P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800D0C68 0063
+

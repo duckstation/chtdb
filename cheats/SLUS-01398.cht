@@ -1,0 +1,28 @@
+; CHTDB: ; [ Gunfighter - The Legend of Jesse James (USA) (2001) (Ubi Soft Entertainment Software) {SLUS-01398} <gunfight> ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+8007D14E 003B
+8007D14A 003B
+
+[Infinite Health (All Levels)]
+Type = Gameshark
+Activation = EndFrame
+8009840A 2400
+
+[Never Reload (All Levels)]
+Type = Gameshark
+Activation = EndFrame
+800982D6 2400
+
+[Infinite Bullets (Target Take Down)]
+Type = Gameshark
+Activation = EndFrame
+80184CD4 0063
+
+[Infinite Bullets (Rolling Rampage)]
+Type = Gameshark
+Activation = EndFrame
+80184914 0063
+

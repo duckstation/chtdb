@@ -1,0 +1,213 @@
+; CHTDB: ; [ Ehrgeiz - God Bless the Ring (USA) (1999) (Square Electronic Arts) {SLUS-00809} <ehrgeiz> ]
+
+[RPG Mode Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801E84D0 0080
+
+[RPG Mode Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+801F37D0 FFFF
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8011EADE 00B8
+
+[P1 Infinite Special Energy]
+Type = Gameshark
+Activation = EndFrame
+8011F7D6 00D0
+
+[Time is Always 0.00.01]
+Type = Gameshark
+Activation = EndFrame
+800F6C30 0000
+
+[Enable All Characters]
+Type = Gameshark
+Activation = EndFrame
+901F19FC FFFFFFFF
+
+[Enable All Endings]
+Type = Gameshark
+Activation = EndFrame
+801F1A00 FFFF
+
+[Infinite Time To Choose Character]
+Type = Gameshark
+Activation = EndFrame
+800F69EE 0EB2
+
+[Infinite Battle Time]
+Type = Gameshark
+Activation = EndFrame
+800F6C94 0930
+
+[P1 No Special Energy]
+Type = Gameshark
+Activation = EndFrame
+8011F7D6 0000
+
+[P2 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801228F2 00B8
+
+[P2 1 Hit Death]
+Type = Gameshark
+Activation = EndFrame
+A61228F2 00B80000
+
+[P2 Infinite Special Energy]
+Type = Gameshark
+Activation = EndFrame
+801235EA 00D0
+
+[P2 No Special Energy]
+Type = Gameshark
+Activation = EndFrame
+801235EA 0000
+
+[Box Always On]
+Type = Gameshark
+Activation = EndFrame
+800F7FD4 0001
+
+[Box Always Off]
+Type = Gameshark
+Activation = EndFrame
+800F7FD4 0000
+
+[P1 Select Character\Rio]
+Type = Gameshark
+Activation = EndFrame
+800F69FC 0000
+
+[P1 Select Character\Han Daehan]
+Type = Gameshark
+Activation = EndFrame
+800F69FC 0001
+
+[P1 Select Character\Godhand]
+Type = Gameshark
+Activation = EndFrame
+800F69FC 0002
+
+[P1 Select Character\Lee Shuwen]
+Type = Gameshark
+Activation = EndFrame
+800F69FC 0003
+
+[P1 Select Character\Dasher Inoba]
+Type = Gameshark
+Activation = EndFrame
+800F69FC 0004
+
+[P1 Select Character\?]
+Type = Gameshark
+Activation = EndFrame
+800F69FC 0005
+
+[P1 Select Character\Sasuke]
+Type = Gameshark
+Activation = EndFrame
+800F69FC 0006
+
+[P1 Select Character\Prince Naseem]
+Type = Gameshark
+Activation = EndFrame
+800F69FC 0007
+
+[P1 Select Character\YoYo Yoko]
+Type = Gameshark
+Activation = EndFrame
+800F69FC 0008
+
+[P1 Select Character\Jo]
+Type = Gameshark
+Activation = EndFrame
+800F69FC 0009
+
+[P1 Select Character\Cloud Strife]
+Type = Gameshark
+Activation = EndFrame
+800F69FC 000A
+
+[P1 Select Character\Tifa Lockhart]
+Type = Gameshark
+Activation = EndFrame
+800F69FC 000B
+
+[P1 Select Character\Django]
+Type = Gameshark
+Activation = EndFrame
+800F69FC 000C
+
+[P1 Select Character\Sephiroth]
+Type = Gameshark
+Activation = EndFrame
+800F69FC 000D
+
+[P1 Select Character\Koji Masuda]
+Type = Gameshark
+Activation = EndFrame
+800F69FC 000E
+
+[P1 Select Character\Clair Andrews]
+Type = Gameshark
+Activation = EndFrame
+800F69FC 000F
+
+[P1 Select Character\Yuffie Kisaragi]
+Type = Gameshark
+Activation = EndFrame
+800F69FC 0010
+
+[P1 Select Character\Vincent Valentine]
+Type = Gameshark
+Activation = EndFrame
+800F69FC 0011
+
+[P1 Select Character\Zax]
+Type = Gameshark
+Activation = EndFrame
+800F69FC 0013
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+D0057A9A AC64
+80057A88 2080
+D0057A9A AC64
+80057A8A 0C00
+D0057A9A AC64
+80057A8C 0000
+D0057A9A AC64
+80057A8E 8C44
+90008200 24050003
+90008204 00850019
+90008208 00002012
+9000820C 00042083
+90008210 03E00008
+90008214 8C450004
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+D0057A9A AC64
+80057A88 2080
+D0057A9A AC64
+80057A8A 0C00
+D0057A9A AC64
+80057A8C 0000
+D0057A9A AC64
+80057A8E 8C44
+90008200 24050009
+90008204 00850019
+90008208 00002012
+9000820C 00042103
+90008210 03E00008
+90008214 8C450004
+

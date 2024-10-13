@@ -1,0 +1,32 @@
+; CHTDB: ; [ Paro Wars (Jpn) (1997) (Konami) {SLPM-86016 (VX038-J1)} <parowars> ]
+
+[One Fight For Level Up]
+Type = Gameshark
+Activation = EndFrame
+800E0960 03E7
+
+[P1 Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+8013BE20 0098
+
+[P2 Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+8013BE72 0098
+
+[99999 Military Spending]
+Type = Gameshark
+Activation = EndFrame
+9013BE20 0001869F
+
+[9999 Scientific Capabillity]
+Type = Gameshark
+Activation = EndFrame
+8013BE24 270F
+
+[Fuel 9999]
+Type = Gameshark
+Activation = EndFrame
+8013BE26 270F
+

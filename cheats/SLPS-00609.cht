@@ -1,0 +1,22 @@
+; CHTDB: ; [ Time Bokan Series: Bokan to Ippatsu! Doronboo (Japan) {SLPS-00609} ]
+
+[P1 Infinite Shield]
+Type = Gameshark
+Activation = EndFrame
+800D7D4C 2000
+
+[P1 Infinite Dokuro-Stone]
+Type = Gameshark
+Activation = EndFrame
+800CBF8C 0063
+
+[P2 Infinite Shield]
+Type = Gameshark
+Activation = EndFrame
+800D7DCC 2000
+
+[P2 Infinite Dokuro-Stone]
+Type = Gameshark
+Activation = EndFrame
+800CBF90 0063
+

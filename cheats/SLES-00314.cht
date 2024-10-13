@@ -1,0 +1,30 @@
+; CHTDB: ; [ Monster Trucks (Europe) {SLES-00314} ]
+
+[Always Finish First]
+Type = Gameshark
+Activation = EndFrame
+E11EA1AC 00FF
+301EA1AC 0000
+
+[No Damage]
+Type = Gameshark
+Activation = EndFrame
+800CA640 0000
+
+[Infinite Turbo]
+Type = Gameshark
+Activation = EndFrame
+D01DC054 00FF
+801DC056 3000
+
+[Mega jumps]
+Type = Gameshark
+Activation = EndFrame
+D01DC050 0000
+801DC04C 0000
+
+[Car Crushing Start with 500 points]
+Type = Gameshark
+Activation = EndFrame
+A60BB354 000001F4
+

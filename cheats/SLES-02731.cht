@@ -1,0 +1,37 @@
+; CHTDB: ; [ Vampire Hunter D (Europe) {SLES-02731} ]
+
+[Max Hp]
+Type = Gameshark
+Activation = EndFrame
+800A4994 00C8
+
+[Max Vp]
+Type = Gameshark
+Activation = EndFrame
+800A49AC 0020
+
+[Max L-Hand]
+Type = Gameshark
+Activation = EndFrame
+800A49B0 0048
+
+[All Consumption Items]
+Type = Gameshark
+Activation = EndFrame
+50000701 0000
+300A3DB9 0063
+
+[All Map Items]
+Type = Gameshark
+Activation = EndFrame
+50000402 0000
+800A4DC0 0101
+
+[All Important Items]
+Type = Gameshark
+Activation = EndFrame
+300A4DC8 0001
+50000702 0000
+800A4DCA 0101
+800A4DDA 0101
+

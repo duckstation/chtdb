@@ -1,0 +1,48 @@
+; CHTDB: ; [ Jarrett & Labonte Stock Car Racing (USA) (2000) (The Codemasters Software Company) {SLUS-01139} <jlstock> ]
+
+[Start On Last Lap]
+Type = Gameshark
+Activation = EndFrame
+E00F9D58 0001
+300F9D58 00FF
+
+[Max Championship Points]
+Type = Gameshark
+Activation = EndFrame
+A60598A4 00000FFF
+
+[Car Takes No Damage]
+Type = Gameshark
+Activation = EndFrame
+D0088B44 03EF
+80088B46 2400
+D0088D0C 03F0
+80088D0E 2400
+D00ECE58 03F2
+800ECE5A 2400
+
+[Start/Stop Timer]
+Description = Select to Stop + L2/R2 to Start
+Type = Gameshark
+Activation = EndFrame
+D0054138 0001
+8002D326 2400
+D0054138 1301
+8002D326 AC62
+
+[Unlock All Cars]
+Type = Gameshark
+Activation = EndFrame
+50001001 0000
+30058710 0001
+
+[All Cheats Enabled]
+Type = Gameshark
+Activation = EndFrame
+8008C7E0 FFFF
+
+[Can Enter Bonus Menu, Without Entering A Password First]
+Type = Gameshark
+Activation = EndFrame
+300A2D9C 0001
+

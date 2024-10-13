@@ -1,0 +1,115 @@
+; CHTDB: ; [ Sammy Sosa High Heat Baseball 2001 (USA) (2000) (The 3DO Company) {SLUS-01063} <highh2k1> ]
+
+[Select Home Team Score\9]
+Type = Gameshark
+Activation = EndFrame
+800AFF54 0009
+
+[Select Home Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+800AFF54 0000
+
+[Select Away Team Score\9]
+Type = Gameshark
+Activation = EndFrame
+800AFF58 0009
+
+[Select Away Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+800AFF58 0000
+
+[Infinite Strikes]
+Type = Gameshark
+Activation = EndFrame
+300AFF4C 0000
+
+[1 Strike And You Are Out]
+Type = Gameshark
+Activation = EndFrame
+E00AFF4C 0000
+300AFF4C 0002
+
+[2 Strikes And You Are Out]
+Type = Gameshark
+Activation = EndFrame
+E00AFF4C 0000
+300AFF4C 0002
+
+[Infinite Outs]
+Type = Gameshark
+Activation = EndFrame
+300AFF44 0000
+
+[1 Out And You Are Out]
+Type = Gameshark
+Activation = EndFrame
+E00AFF44 0000
+300AFF44 0002
+
+[2 Outs And You Are Out]
+Type = Gameshark
+Activation = EndFrame
+E00AFF44 0000
+300AFF44 0001
+
+[Infinite Balls]
+Type = Gameshark
+Activation = EndFrame
+300AFF48 0000
+
+[1 Ball And You Walk]
+Type = Gameshark
+Activation = EndFrame
+E00AFF48 0000
+300AFF48 0003
+
+[2 Balls And You Walk]
+Type = Gameshark
+Activation = EndFrame
+E00AFF48 0000
+300AFF48 0002
+
+[3 Balls And You Walk]
+Type = Gameshark
+Activation = EndFrame
+E00AFF48 0000
+300AFF48 0001
+
+[P1 0 Outs, 0 Strikes, + 3 Balls Press L1+L2]
+Type = Gameshark
+Activation = EndFrame
+C00CBE86 0050
+300AFF44 0000
+300AFF48 0003
+300AFF4C 0000
+00000000 FFFF
+
+[P1 2 Outs, 2 Strikes, + 0 Balls Press R1+R2]
+Type = Gameshark
+Activation = EndFrame
+C00CBE86 00A0
+300AFF44 0002
+300AFF48 0000
+300AFF4C 0002
+00000000 FFFF
+
+[P2 0 Outs, 0 Strikes, + 3 Balls Press L1+L2]
+Type = Gameshark
+Activation = EndFrame
+C00CBF06 0050
+300AFF44 0000
+300AFF48 0003
+300AFF4C 0000
+00000000 FFFF
+
+[P2 2 Outs, 2 Strikes, + 0 Balls Press R1+R2]
+Type = Gameshark
+Activation = EndFrame
+C00CBF06 00A0
+300AFF44 0002
+300AFF48 0000
+300AFF4C 0002
+00000000 FFFF
+

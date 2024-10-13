@@ -1,0 +1,22 @@
+; CHTDB: ; [ Baldur's Gate (USA, Prototype) (19??) (Interplay) {SLUS-01037} <baldgate> ]
+
+[Infinite Abilities points]
+Type = Gameshark
+Activation = EndFrame
+800A79E4 0009
+
+[Infinite Proficiency slots]
+Type = Gameshark
+Activation = EndFrame
+800A7A04 0009
+
+[Infinite Gold]
+Type = Gameshark
+Activation = EndFrame
+8010DF80 270F
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800AFFA0 000A
+

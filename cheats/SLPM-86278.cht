@@ -1,0 +1,17 @@
+; CHTDB: ; [ Angolmois '99 (Jpn, SuperLite 1500 Series) (1999) (Success) {SLPM-86278} <angolmos> ]
+
+[Opponent 1 has 0 points]
+Type = Gameshark
+Activation = EndFrame
+801006B2 0000
+
+[Opponent 2 has 0 points]
+Type = Gameshark
+Activation = EndFrame
+8010069E 0000
+
+[Player has 9999 points]
+Type = Gameshark
+Activation = EndFrame
+800FFAB4 270F
+

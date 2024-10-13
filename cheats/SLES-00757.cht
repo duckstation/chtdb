@@ -1,0 +1,52 @@
+; CHTDB: ; [ Ninja: L'Ombre des TénÃ¨bres (France) {SLES-00757} ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8006D0C2 0050
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+8006D068 FFFF
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8006D054 0009
+
+[Infinite Smoke Bombs]
+Type = Gameshark
+Activation = EndFrame
+8006D0A0 0009
+
+[Infinite Magic]
+Type = Gameshark
+Activation = EndFrame
+8006D0C4 0009
+
+[Large Mode]
+Type = Gameshark
+Activation = EndFrame
+8006A342 0001
+
+[Skeleton Mode]
+Type = Gameshark
+Activation = EndFrame
+8006A346 0001
+
+[Blood Mode]
+Type = Gameshark
+Activation = EndFrame
+8006A33E 0001
+
+[Level Select]
+Type = Gameshark
+Activation = EndFrame
+8006BAC2 0001
+
+[Super Ninja]
+Type = Gameshark
+Activation = EndFrame
+8006A34A 0001
+

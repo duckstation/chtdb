@@ -1,0 +1,17 @@
+; CHTDB: ; [ OverBlood 2 (Germany) Rev 1 {SLES-02187 | SLES-12187} ]
+
+[Unendlich Geld]
+Type = Gameshark
+Activation = EndFrame
+901BF16C 00038760
+
+[Unendlich Gesundheit]
+Type = Gameshark
+Activation = EndFrame
+801BEFFC 0B40
+
+[Unendlich Munition Pistole]
+Type = Gameshark
+Activation = EndFrame
+801BF17E 0009
+

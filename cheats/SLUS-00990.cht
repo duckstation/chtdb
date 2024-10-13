@@ -1,0 +1,73 @@
+; CHTDB: ; [ MTV Sports - Snowboarding (USA) (1999) (THQ) {SLUS-00990} <mtvsnow> ]
+
+[All Characters Qualified]
+Type = Gameshark
+Activation = EndFrame
+50000714 0000
+80082904 FFFF
+
+[Anna Qualified]
+Type = Gameshark
+Activation = EndFrame
+80082904 FFFF
+
+[Mitch Qualified]
+Type = Gameshark
+Activation = EndFrame
+80082918 FFFF
+
+[Karl Qualified]
+Type = Gameshark
+Activation = EndFrame
+8008292C FFFF
+
+[Sakura Qualified]
+Type = Gameshark
+Activation = EndFrame
+80082940 FFFF
+
+[Calvin Qualified]
+Type = Gameshark
+Activation = EndFrame
+80082954 FFFF
+
+[Hendy Qualified]
+Type = Gameshark
+Activation = EndFrame
+80082968 FFFF
+
+[Tsering Qualified]
+Type = Gameshark
+Activation = EndFrame
+8008297C FFFF
+
+[Have 99999 points in qualify]
+Type = Gameshark
+Activation = EndFrame
+9007F760 0001869F
+
+[Unlocks Tsering]
+Type = Gameshark
+Activation = EndFrame
+8007E444 0000
+
+[Unlocks Alaska Mountain]
+Type = Gameshark
+Activation = EndFrame
+8007E440 0001
+
+[Max Overall Challenge Points]
+Type = Gameshark
+Activation = EndFrame
+8007E3A0 FFFF
+
+[Start Countdown With -10]
+Type = Gameshark
+Activation = EndFrame
+30011974 00F5
+
+[Start Immediately]
+Type = Gameshark
+Activation = EndFrame
+800121AA 3C00
+

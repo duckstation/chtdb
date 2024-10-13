@@ -1,0 +1,51 @@
+; CHTDB: ; [ The Land Before Time - Return to the Great Valley (USA) (2000) (Universal Interactive) {SLUS-01043} <landbtim> ]
+
+[Infinite Lives (Everyone)]
+Type = Gameshark
+Activation = EndFrame
+80037B9E 2400
+
+[Little Foot\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+300D7811 0005
+
+[Little Foot\Have 98 Leaves]
+Type = Gameshark
+Activation = EndFrame
+E20D7813 0062
+300D7813 0062
+
+[Ducky\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+300D7814 0005
+
+[Ducky\Have 98 Leaves]
+Type = Gameshark
+Activation = EndFrame
+E20D7816 0062
+300D7816 0062
+
+[Cera\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+300D7817 0005
+
+[Cera\Have 98 Leaves]
+Type = Gameshark
+Activation = EndFrame
+E20D7819 0062
+300D7819 0062
+
+[Spike\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+300D781A 0005
+
+[Spike\Have 98 Leaves]
+Type = Gameshark
+Activation = EndFrame
+E20D781C 0062
+300D781C 0062
+

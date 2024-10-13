@@ -1,0 +1,7 @@
+; CHTDB: ; [ PGA European Tour Golf (Europe) {SLES-02061} ]
+
+[P1 always hole in one]
+Type = Gameshark
+Activation = EndFrame
+8008329C 0000
+

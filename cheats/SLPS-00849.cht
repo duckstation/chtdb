@@ -1,0 +1,48 @@
+; CHTDB: ; [ Asuka 120% Burning Fest. Excellent (Jpn) (1997) (Family Soft) {SLPS-00849} <asu120ex> ]
+
+[P1 Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+801ED97C 00C0
+
+[p2 No HP]
+Type = Gameshark
+Activation = EndFrame
+801ED97E 0000
+
+[Stort Mode Buhi]
+Type = Gameshark
+Activation = EndFrame
+9008D69C 3B9AC9FF
+
+[Stort Mode Acquisition budget]
+Type = Gameshark
+Activation = EndFrame
+9008D4AC 3B9AC9FF
+
+[Stort Mode 0 degree of fatigue]
+Type = Gameshark
+Activation = EndFrame
+9008D4BC 00000000
+
+[Stort Mode 0 degree hunger]
+Type = Gameshark
+Activation = EndFrame
+9008D4CC 00000000
+
+[Stort Mode Training degree]
+Type = Gameshark
+Activation = EndFrame
+8008D4FC 270F
+
+[Stort Mode Yell]
+Type = Gameshark
+Activation = EndFrame
+8008D4DC 270F
+
+[Stort Mode Moving infinite]
+Type = Gameshark
+Activation = EndFrame
+801FFCA8 001E
+8008D6AC 001E
+

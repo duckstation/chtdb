@@ -1,0 +1,17 @@
+; CHTDB: ; [ Extreme Power (Japan) {SLPS-00329} ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800D22F0 2A30
+
+[Infinite Shield]
+Type = Gameshark
+Activation = EndFrame
+800D22F2 0258
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+90010298 FFFFFFFF
+

@@ -1,0 +1,306 @@
+; CHTDB: ; [ Jet Moto 3 (USA) (1999) (989 Studios) {SCUS-94555} <jetmoto3> ]
+
+[Always Place 1st]
+Description = Do not use this cheat with Lap Modifier or Quick Win.
+Type = Gameshark
+Activation = EndFrame
+8005F49E 2400
+800BBC6E 0000
+800BBC76 0100
+800BBC7E 0200
+800BBC86 0300
+800BBC8E 0400
+800BBC96 0500
+
+[Quick Win + Place 1st]
+Type = Gameshark
+Activation = EndFrame
+8005F49E 2400
+30010F6F 0000
+800BBC6E 0000
+800BBC76 0100
+800BBC7E 0200
+800BBC86 0300
+800BBC8E 0400
+800BBC96 0500
+
+[Lap Time 0.00.00]
+Type = Gameshark
+Activation = EndFrame
+8005F49E 2400
+
+[Select Starting Lap\NO LAPS]
+Type = Gameshark
+Activation = EndFrame
+30010F6F 0000
+
+[Select Starting Lap\Final Lap]
+Type = Gameshark
+Activation = EndFrame
+30010F6F 0001
+
+[Select Starting Lap\2 Laps]
+Type = Gameshark
+Activation = EndFrame
+30010F6F 0002
+
+[Select Starting Lap\3 Laps]
+Type = Gameshark
+Activation = EndFrame
+30010F6F 0003
+
+[Select Starting Lap\4 Laps]
+Type = Gameshark
+Activation = EndFrame
+30010F6F 0004
+
+[Select Starting Lap\5 Laps]
+Type = Gameshark
+Activation = EndFrame
+30010F6F 0005
+
+[Select Starting Lap\6 Laps]
+Type = Gameshark
+Activation = EndFrame
+30010F6F 0006
+
+[Select Starting Lap\7 Laps]
+Type = Gameshark
+Activation = EndFrame
+30010F6F 0007
+
+[P1 Select Character\Spirit]
+Type = Gameshark
+Activation = EndFrame
+30010000 0000
+
+[P1 Select Character\Wild Ride]
+Type = Gameshark
+Activation = EndFrame
+30010000 0001
+
+[P1 Select Character\Tetsujin]
+Type = Gameshark
+Activation = EndFrame
+30010000 0002
+
+[P1 Select Character\Vampeera]
+Type = Gameshark
+Activation = EndFrame
+30010000 0003
+
+[P1 Select Character\The Max]
+Type = Gameshark
+Activation = EndFrame
+30010000 0004
+
+[P1 Select Character\Raven]
+Type = Gameshark
+Activation = EndFrame
+30010000 0005
+
+[P1 Select Character\Bomber]
+Type = Gameshark
+Activation = EndFrame
+30010000 0006
+
+[P1 Select Character\Convict]
+Type = Gameshark
+Activation = EndFrame
+30010000 0007
+
+[P1 Select Character\Angel]
+Type = Gameshark
+Activation = EndFrame
+30010000 0008
+
+[P1 Select Character\Technician]
+Type = Gameshark
+Activation = EndFrame
+30010000 0009
+
+[P1 Select Character\Granny]
+Type = Gameshark
+Activation = EndFrame
+30010000 000A
+
+[P1 Select Character\Capt. Ballard]
+Type = Gameshark
+Activation = EndFrame
+30010000 000B
+
+[P1 Infinite Turbo]
+Type = Gameshark
+Activation = EndFrame
+800CCF1A 0240
+
+[P1 Hard To Kill]
+Type = Gameshark
+Activation = EndFrame
+800CCF26 00FF
+
+[P1 Super Jump]
+Type = Gameshark
+Activation = EndFrame
+300CCF24 007F
+
+[P2 Select Character\Spirit]
+Type = Gameshark
+Activation = EndFrame
+30010001 0000
+
+[P2 Select Character\Wild Ride]
+Type = Gameshark
+Activation = EndFrame
+30010001 0001
+
+[P2 Select Character\Tetsujin]
+Type = Gameshark
+Activation = EndFrame
+30010001 0002
+
+[P2 Select Character\Vampeera]
+Type = Gameshark
+Activation = EndFrame
+30010001 0003
+
+[P2 Select Character\The Max]
+Type = Gameshark
+Activation = EndFrame
+30010001 0004
+
+[P2 Select Character\Raven]
+Type = Gameshark
+Activation = EndFrame
+30010001 0005
+
+[P2 Select Character\Bomber]
+Type = Gameshark
+Activation = EndFrame
+30010001 0006
+
+[P2 Select Character\Convict]
+Type = Gameshark
+Activation = EndFrame
+30010001 0007
+
+[P2 Select Character\Angel]
+Type = Gameshark
+Activation = EndFrame
+30010001 0008
+
+[P2 Select Character\Technician]
+Type = Gameshark
+Activation = EndFrame
+30010001 0009
+
+[P2 Select Character\Granny]
+Type = Gameshark
+Activation = EndFrame
+30010001 000A
+
+[P2 Select Character\Capt. Ballard]
+Type = Gameshark
+Activation = EndFrame
+30010001 000B
+
+[P2 Infinite Turbo]
+Type = Gameshark
+Activation = EndFrame
+800CD3C2 0240
+
+[P2 Hard To Kill]
+Type = Gameshark
+Activation = EndFrame
+800CD3CE 00FF
+
+[P2 Super Jump]
+Type = Gameshark
+Activation = EndFrame
+300CD30C 007F
+
+[Unlock Cheats\Unlock ShipWreck Cove]
+Type = Gameshark
+Activation = EndFrame
+8008F5CC 0003
+
+[Unlock Cheats\Unlock Urban Subway]
+Type = Gameshark
+Activation = EndFrame
+8008F50C 0002
+
+[Unlock Cheats\Unlock Catacombs]
+Type = Gameshark
+Activation = EndFrame
+8008F56C 0002
+
+[Unlock Cheats\Unlock Sequoia Forest]
+Type = Gameshark
+Activation = EndFrame
+8008F62C 0002
+
+[Unlock Cheats\Unlock Machu Picchu]
+Type = Gameshark
+Activation = EndFrame
+8008F5FC 0002
+
+[Unlock Cheats\Unlock SkyPark]
+Type = Gameshark
+Activation = EndFrame
+8008F59C 0002
+
+[Unlock Cheats\Unlock Ytic Tsol]
+Type = Gameshark
+Activation = EndFrame
+8008F68C 0002
+
+[Unlock Cheats\Unlock Uhccip Uhcam]
+Type = Gameshark
+Activation = EndFrame
+8008F6BC 0002
+
+[Unlock Cheats\Unlock Krapyks]
+Type = Gameshark
+Activation = EndFrame
+8008F6EC 0002
+
+[Unlock Cheats\Unlock Planet X]
+Type = Gameshark
+Activation = EndFrame
+8008F65C 0002
+
+[Unlock Cheats\All Seasons Completed]
+Type = Gameshark
+Activation = EndFrame
+80010F68 0F0F
+
+[Unlock Cheats\Unlock All Characters + Trophies]
+Type = Gameshark
+Activation = EndFrame
+80010F66 FFFF
+
+[Unlock Cheats\Unlock All Medals + Pins]
+Type = Gameshark
+Activation = EndFrame
+80010F64 FFFF
+
+[Unlock Cheats\Unlock All Coins + Stunt Mode]
+Type = Gameshark
+Activation = EndFrame
+80010F62 FFFF
+
+[Infinite Stunt Mode Time]
+Type = Gameshark
+Activation = EndFrame
+8005F43E 2400
+
+[Activate All In-Game Cheats]
+Type = Gameshark
+Activation = EndFrame
+80010F60 FFFF
+
+[Max Championship Points]
+Type = Gameshark
+Activation = EndFrame
+30010F36 00FF
+

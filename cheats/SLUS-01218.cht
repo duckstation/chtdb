@@ -1,0 +1,15 @@
+; CHTDB: ; [ Speedball 2100 (USA) (2000) (Empire Interactive Entertainment) {SLUS-01218} <spdb2100> ]
+
+[Have 999 Score]
+Type = Gameshark
+Activation = EndFrame
+8006912A 03E7
+80067F1A 03E7
+8006837E 03E7
+80067AB6 03E7
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+8004DA84 03E7
+

@@ -1,0 +1,91 @@
+; CHTDB: ; [ Dai-4-Ji Super Robot Taisen S (Japan) {SLPS-00196} ]
+
+[Infinite HP Main character unit in level 1]
+Type = Gameshark
+Activation = EndFrame
+80102F80 0C1C
+
+[Infinite HP Main character unit in level 2]
+Type = Gameshark
+Activation = EndFrame
+80102FF8 0C1C
+
+[Infinite HP 2nd character unit in level 1]
+Type = Gameshark
+Activation = EndFrame
+80102FBC 0FA0
+
+[Infinite HP Mazinger Z unit in level 2]
+Type = Gameshark
+Activation = EndFrame
+80102F80 0C1C
+
+[Infinite HP 2nd character unit in level 2 (Aphrodite A)]
+Type = Gameshark
+Activation = EndFrame
+80102FBC 0AF0
+
+[Max Money]
+Type = Gameshark
+Activation = EndFrame
+801047A8 FFFF
+
+[All Improved Weapon]
+Type = Gameshark
+Activation = EndFrame
+901046E0 99990099
+901046E4 99999999
+801046E8 9999
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+901047A8 0098967F
+
+[Select all demo fully open]
+Type = Gameshark
+Activation = EndFrame
+80104706 FFFF
+80104708 00FF
+
+[100% robot Encyclopedia May need to save]
+Type = Gameshark
+Activation = EndFrame
+90106090 FFFFFFFF
+90106094 FFFFFFFF
+90106098 FFFFFFFF
+9010609C FFFFFFFF
+901060A0 FFFFFFFF
+901060A4 FFFFFFFF
+901060A8 FFFFFFFF
+901060AC FFFFFFFF
+901060B0 FFFFFFFF
+801060B4 FFFF
+
+[The damage MAX by rage and weapons map]
+Type = Gameshark
+Activation = EndFrame
+8010516C FFFF
+
+[does not decrease EN]
+Type = Gameshark
+Activation = EndFrame
+D01255C4 1023
+801255C6 0040
+
+[Mental command can be used any number of times (modified)]
+Type = Gameshark
+Activation = EndFrame
+80105290 FFFF
+
+[Experience Gained 32767 after combat]
+Type = Gameshark
+Activation = EndFrame
+8010527E FFFF
+30105284 007F
+
+[A debug mode]
+Type = Gameshark
+Activation = EndFrame
+80104812 FFFF
+

@@ -1,0 +1,22 @@
+; CHTDB: ; [ Strikepoint: The Hex Missions (Europe) {SLES-00425} ]
+
+[P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8011B8EE 0004
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8011B7D4 8192
+
+[Infinite Bombs]
+Type = Gameshark
+Activation = EndFrame
+8011B8B4 0009
+
+[Infinite Missiles]
+Type = Gameshark
+Activation = EndFrame
+8011B8B3 0009
+

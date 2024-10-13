@@ -1,0 +1,32 @@
+; CHTDB: ; [ Mori no Oukoku - Kingdom of Forest (Jpn) (1999) (Asmik Ace) {SLPS-01861} <moriokok> ]
+
+[Infinite + Max Energy Character 1]
+Type = Gameshark
+Activation = EndFrame
+900F17F4 03E703E7
+
+[Infinite + Max Energy Character 2]
+Type = Gameshark
+Activation = EndFrame
+900F188C 03E703E7
+
+[Infinite + Max LP (Energy) Character 3]
+Type = Gameshark
+Activation = EndFrame
+900F1924 03E703E7
+
+[Infinite + Max LP (Energy) Character 4 (Girl)]
+Type = Gameshark
+Activation = EndFrame
+900F19BC 03E703E7
+
+[Infinite + Max LP (Energy) Character 5 (Archer Man)]
+Type = Gameshark
+Activation = EndFrame
+900F1A54 03E703E7
+
+[9999999 Gold]
+Type = Gameshark
+Activation = EndFrame
+900DEE28 0098967F
+

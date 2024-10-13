@@ -1,0 +1,253 @@
+; CHTDB: ; [ MTV Sports: T.J. Lavin's Ultimate BMX (Europe) {SLES-03430} ]
+
+[Multiplicator at max]
+Type = Gameshark
+Activation = EndFrame
+A61856A4 1000C600
+A61856A6 00000AD9
+
+[Timer Frozen (Press L1 & L2)]
+Type = Gameshark
+Activation = EndFrame
+D00EE22E FAFF
+80052B70 0000
+
+[Timer	Default (Press Select)]
+Type = Gameshark
+Activation = EndFrame
+D00EE22E FFFE
+80052B70 28DC
+D00EE22E FFFE
+30052B6C 0020
+
+[Timer Increase (Press R1 & R2)]
+Type = Gameshark
+Activation = EndFrame
+D00EE22E F5FF
+30052B6C 0023
+
+[Run stats Total score]
+Type = Gameshark
+Activation = EndFrame
+A61856A0 0000D11C
+D01856A2 0000
+301856A2 0043
+
+[Run stats No crashes]
+Type = Gameshark
+Activation = EndFrame
+D0185A58 0001
+30185A58 0000
+
+[Run stats Max air time]
+Type = Gameshark
+Activation = EndFrame
+A6185A5C 0000C700
+D0185A5E 0000
+30185A5E 0002
+
+[Run stats Best trick]
+Type = Gameshark
+Activation = EndFrame
+A6185A64 0000AD9C
+
+[T.J. Lavin All tracks unlocked]
+Type = Gameshark
+Activation = EndFrame
+300AC403 00FF
+50000302 0000
+800AC404 FFFF
+
+[T.J. Lavin Have all sprockets & max stats]
+Type = Gameshark
+Activation = EndFrame
+800AC410 070A
+50000502 0000
+800AC412 0707
+
+[T.J. Lavin Have all gold-medals & trophy]
+Type = Gameshark
+Activation = EndFrame
+50000202 0000
+800AC41C 0303
+
+[Fuzzy Hall All tracks unlocked]
+Type = Gameshark
+Activation = EndFrame
+300AC457 00FF
+50000302 0000
+800AC458 FFFF
+
+[Fuzzy Hall Have all sprockets & max stats]
+Type = Gameshark
+Activation = EndFrame
+800AC464 070A
+50000502 0000
+800AC466 0707
+
+[Fuzzy Hall Have all gold-medals & trophy]
+Type = Gameshark
+Activation = EndFrame
+50000202 0000
+800AC470 0303
+
+[Chris Doyle All tracks unlocked]
+Type = Gameshark
+Activation = EndFrame
+300AC4AB 00FF
+50000302 0000
+800AC4AC FFFF
+
+[Chris Doyle Have all sprockets & max stats]
+Type = Gameshark
+Activation = EndFrame
+800AC4B8 070A
+50000502 0000
+800AC4BA 0707
+
+[Chris Doyle Have all gold-medals & trophy]
+Type = Gameshark
+Activation = EndFrame
+50000202 0000
+800AC4C4 0303
+
+[Matt Beringer All tracks unlocked]
+Type = Gameshark
+Activation = EndFrame
+300AC4FF 00FF
+50000302 0000
+800AC500 FFFF
+
+[Matt Beringer Have all sprockets & max stats]
+Type = Gameshark
+Activation = EndFrame
+800AC50C 070A
+50000502 0000
+800AC50E 0707
+
+[Matt Beringer Have all gold-medals & trophy]
+Type = Gameshark
+Activation = EndFrame
+50000202 0000
+800AC518 0303
+
+[Colin Winkelmann All tracks unlocked]
+Type = Gameshark
+Activation = EndFrame
+300AC533 00FF
+50000302 0000
+800AC534 FFFF
+
+[Colin Winkelmann Have all sprockets & max stats]
+Type = Gameshark
+Activation = EndFrame
+800AC560 070A
+50000502 0000
+800AC562 0707
+
+[Colin Winkelmann Have all gold-medals & trophy]
+Type = Gameshark
+Activation = EndFrame
+50000202 0000
+800AC56C 0303
+
+[Mike Ardelean All tracks unlocked]
+Type = Gameshark
+Activation = EndFrame
+300AC5A7 00FF
+50000302 0000
+800AC5A8 FFFF
+
+[Mike Ardelean Have all sprockets & max stats]
+Type = Gameshark
+Activation = EndFrame
+800AC5B4 070A
+50000502 0000
+800AC5B6 0707
+
+[Mike Ardelean Have all gold-medals & trophy]
+Type = Gameshark
+Activation = EndFrame
+50000202 0000
+800AC5C0 0303
+
+[Chris Duncan All tracks unlocked]
+Type = Gameshark
+Activation = EndFrame
+300AC5FB 00FF
+50000302 0000
+800AC5FC FFFF
+
+[Chris Duncan Have all sprockets & max stats]
+Type = Gameshark
+Activation = EndFrame
+800AC608 070A
+50000502 0000
+800AC60A 0707
+
+[Chris Duncan Have all gold-medals & trophy]
+Type = Gameshark
+Activation = EndFrame
+50000202 0000
+800AC614 0303
+
+[Brian Foster All tracks unlocked]
+Type = Gameshark
+Activation = EndFrame
+300AC64F 00FF
+50000302 0000
+800AC650 FFFF
+
+[Brian Foster Have all sprockets & max stats]
+Type = Gameshark
+Activation = EndFrame
+800AC65C 070A
+50000502 0000
+800AC65E 0707
+
+[Brian Foster Have all gold-medals & trophy]
+Type = Gameshark
+Activation = EndFrame
+50000202 0000
+800AC668 0303
+
+[Dave Freimuth All tracks unlocked]
+Type = Gameshark
+Activation = EndFrame
+300AC6A3 00FF
+50000302 0000
+800AC6A4 FFFF
+
+[Dave Freimuth Have all sprockets & max stats]
+Type = Gameshark
+Activation = EndFrame
+800AC6B0 070A
+50000502 0000
+800AC6B2 0707
+
+[Dave Freimuth Have all gold-medals & trophy]
+Type = Gameshark
+Activation = EndFrame
+50000202 0000
+800AC6BC 0303
+
+[Jamie Bestwick All tracks unlocked]
+Type = Gameshark
+Activation = EndFrame
+300AC6F7 00FF
+50000302 0000
+800AC6F8 FFFF
+
+[Jamie Bestwick Have all sprockets & max stats]
+Type = Gameshark
+Activation = EndFrame
+800AC704 070A
+50000502 0000
+800AC706 0707
+
+[Jamie Bestwick Have all gold-medals & trophy]
+Type = Gameshark
+Activation = EndFrame
+50000202 0000
+800AC710 0303
+

@@ -1,0 +1,57 @@
+; CHTDB: ; [ CT Special Forces: Back to Hell aka Elite Squad (Europe) {SLES-04123} ]
+
+[Button Command]
+Type = Gameshark
+Activation = EndFrame
+D00AC54A 0000
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80162914 0005
+
+[Infinite Lives (Sniper Mode Stages)]
+Type = Gameshark
+Activation = EndFrame
+801628DE 0009
+
+[Saved Hostages Modilfier (Sniper Mode Stages)]
+Type = Gameshark
+Activation = EndFrame
+801628DC ????
+
+[Energy (Men And Heli)]
+Type = Gameshark
+Activation = EndFrame
+800AC66C 0064
+
+[Energy (Tank)]
+Type = Gameshark
+Activation = EndFrame
+80163EC0 0064
+80162D2C 0064
+
+[Upgrade Heli To 2 Shoots (Push Select) (.Note]
+Description = If codes freeze game than use button command from #Upgrade Heli to 2 shoots#
+Type = Gameshark
+Activation = EndFrame
+D00AC54A FFFE
+80178F1E 0001
+
+[Ammo (Grenades Included)]
+Type = Gameshark
+Activation = EndFrame
+800AC674 0063
+800AC678 0063
+800AC67E 0063
+
+[Infinite Time (C4 Stage)]
+Type = Gameshark
+Activation = EndFrame
+801628FC 0005
+
+[Have All C4's (C4 Stage)]
+Type = Gameshark
+Activation = EndFrame
+801628F4 0004
+

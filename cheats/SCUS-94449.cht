@@ -1,0 +1,62 @@
+; CHTDB: ; [ Omega Boost (USA) (1999) (Sony Computer Entertainment America) {SCUS-94449} <omegabst> ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800A7EBC 04B0
+
+[Infinite Health (2nd Version)]
+Type = Gameshark
+Activation = EndFrame
+80030F72 2400
+
+[Time 00]
+Type = Gameshark
+Activation = EndFrame
+900A7E90 00000000
+
+[Infinite Missiles]
+Type = Gameshark
+Activation = EndFrame
+800A7ED0 0014
+
+[1st Zone Unlocked]
+Type = Gameshark
+Activation = EndFrame
+300A7E20 0001
+
+[2nd Zone Unlocked]
+Type = Gameshark
+Activation = EndFrame
+300A7E21 0001
+
+[3rd Zone Unlocked]
+Type = Gameshark
+Activation = EndFrame
+300A7E22 0001
+
+[4th Zone Unlocked]
+Type = Gameshark
+Activation = EndFrame
+300A7E23 0001
+
+[5th Zone Unlocked]
+Type = Gameshark
+Activation = EndFrame
+300A7E24 0001
+
+[6th Zone Unlocked]
+Type = Gameshark
+Activation = EndFrame
+300A7E25 0001
+
+[7th Zone Unlocked]
+Type = Gameshark
+Activation = EndFrame
+300A7E26 0001
+
+[8th Zone Unlocked]
+Type = Gameshark
+Activation = EndFrame
+300A7E27 0001
+

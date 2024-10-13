@@ -1,0 +1,62 @@
+; CHTDB: ; [ You Don't Know Jack - Mock 2 (USA) (2000) (Sierra On-Line) {SLUS-01194} <ydkj2> ]
+
+[P1 Infinite Screws]
+Type = Gameshark
+Activation = EndFrame
+8008B010 0001
+
+[P1 Max Money]
+Type = Gameshark
+Activation = EndFrame
+9008B00C 000F423F
+
+[P1 No Money]
+Type = Gameshark
+Activation = EndFrame
+8008B00C 0000
+
+[P1 No Screws]
+Type = Gameshark
+Activation = EndFrame
+8008B010 0000
+
+[P2 Infinite Screws]
+Type = Gameshark
+Activation = EndFrame
+8008B018 0001
+
+[P2 Max Money]
+Type = Gameshark
+Activation = EndFrame
+9008B014 000F423F
+
+[P2 No Money]
+Type = Gameshark
+Activation = EndFrame
+8008B014 0000
+
+[P2 No Screws]
+Type = Gameshark
+Activation = EndFrame
+8008B018 0000
+
+[P3 Infinite Screws]
+Type = Gameshark
+Activation = EndFrame
+8008B020 0001
+
+[P3 Max Money]
+Type = Gameshark
+Activation = EndFrame
+9008B01C 000F423F
+
+[P3 No Money]
+Type = Gameshark
+Activation = EndFrame
+8008B01C 0000
+
+[P3 No Screws]
+Type = Gameshark
+Activation = EndFrame
+8008B020 0000
+

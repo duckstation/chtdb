@@ -1,0 +1,12 @@
+; CHTDB: ; [ Sentimental Graffiti: Yakusoku (Japan) {SLPS-03183} ]
+
+[Episodes already read through]
+Type = Gameshark
+Activation = EndFrame
+80052108 0FFF
+
+[Automatic progression .Press L1 button]
+Type = Gameshark
+Activation = EndFrame
+A7011756 14401400
+

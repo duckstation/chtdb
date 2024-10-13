@@ -1,0 +1,22 @@
+; CHTDB: ; [ Pachi Pachi Saga (Jpn) (1996) (TEN Institute) {SLPS-00288} <ppsaga> ]
+
+[Infinite Money 60000]
+Type = Gameshark
+Activation = EndFrame
+80047CC0 EA60
+
+[Infinite Energy Character 1]
+Type = Gameshark
+Activation = EndFrame
+800E0078 03E7
+
+[Infinite Energy Character 2]
+Type = Gameshark
+Activation = EndFrame
+800E00F4 03E7
+
+[Infinite Energy Character 3]
+Type = Gameshark
+Activation = EndFrame
+800E0170 03E7
+

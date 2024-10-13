@@ -1,0 +1,293 @@
+; CHTDB: ; [ Mega Man X5 (USA) (2001) (Capcom Entertainment) {SLUS-01334} <megamnx5> ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8009A0FC 2020
+
+[Ultra Buster Shot]
+Type = Gameshark
+Activation = EndFrame
+8009A13C FFFF
+
+[Infinite C-Shot]
+Type = Gameshark
+Activation = EndFrame
+8009A14A 0121
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+300D1C45 0004
+
+[Have All Weapons]
+Type = Gameshark
+Activation = EndFrame
+3009A169 00FF
+
+[Allow You To Walk On Spikes]
+Type = Gameshark
+Activation = EndFrame
+D0074634 72E8
+80074634 5F90
+D0038B9C 0012
+80038B9E 1000
+D0038BF0 0018
+80038BF2 1000
+
+[Infinite C-Shot/Dark Hold (Xero)]
+Type = Gameshark
+Activation = EndFrame
+8009A14A 0120
+
+[Infinite Dark Hold/Cflasher (Xero)]
+Type = Gameshark
+Activation = EndFrame
+8009A14C 0120
+
+[Infinite Goo Shaver/Twin Dream (Xero)]
+Type = Gameshark
+Activation = EndFrame
+8009A14E 0120
+
+[Infinite Ground Fire]
+Type = Gameshark
+Activation = EndFrame
+8009A150 0120
+
+[Infinite Tri-Thunder]
+Type = Gameshark
+Activation = EndFrame
+8009A152 0120
+
+[Infinite F-Laser]
+Type = Gameshark
+Activation = EndFrame
+8009A154 0120
+
+[Infinite Spike Ball]
+Type = Gameshark
+Activation = EndFrame
+8009A156 0120
+
+[Infinite Wing Spiral]
+Type = Gameshark
+Activation = EndFrame
+8009A158 0120
+
+[Infinite All Ammo]
+Type = Gameshark
+Activation = EndFrame
+D003F82C 1823
+8003F832 2400
+
+[Infinite Hours To Collision]
+Type = Gameshark
+Activation = EndFrame
+800D1CAE 0040
+
+[Enable X-Buster]
+Type = Gameshark
+Activation = EndFrame
+300D4F56 0001
+
+[Enable Wing Spiral]
+Type = Gameshark
+Activation = EndFrame
+300D4F57 0001
+
+[Enable C-Shot]
+Type = Gameshark
+Activation = EndFrame
+300D4F58 0001
+
+[Enable Spike Ball]
+Type = Gameshark
+Activation = EndFrame
+300D4F59 0001
+
+[Enable Tri-Thunder]
+Type = Gameshark
+Activation = EndFrame
+300D4F5A 0001
+
+[Enable Dark Hold]
+Type = Gameshark
+Activation = EndFrame
+300D4F5B 0001
+
+[Enable F-Laser]
+Type = Gameshark
+Activation = EndFrame
+300D4F5C 0001
+
+[Enable Ground Fire]
+Type = Gameshark
+Activation = EndFrame
+300D4F5D 0001
+
+[Enable Goo Shaver]
+Type = Gameshark
+Activation = EndFrame
+300D4F5E 0001
+
+[Enable Giga Attack]
+Type = Gameshark
+Activation = EndFrame
+300D4F5F 0001
+
+[Enable Restore Life Gauge]
+Type = Gameshark
+Activation = EndFrame
+300D4F60 0001
+
+[Enable Life Gauge]
+Type = Gameshark
+Activation = EndFrame
+300D4F61 0001
+
+[Enable Restore Weapon Energy Gauge]
+Type = Gameshark
+Activation = EndFrame
+300D4F62 0001
+
+[Enable Exit A Level]
+Type = Gameshark
+Activation = EndFrame
+300D4F63 0001
+
+[Enable Change Button Configuration]
+Type = Gameshark
+Activation = EndFrame
+300D4F64 0001
+
+[Enable Return To The Game]
+Type = Gameshark
+Activation = EndFrame
+300D4F65 0001
+
+[Enable Change Screen Configuration]
+Type = Gameshark
+Activation = EndFrame
+300D4F66 0001
+
+[Enable Ex]
+Type = Gameshark
+Activation = EndFrame
+300D4F67 0001
+
+[Infinite All Ammo (Zero)]
+Type = Gameshark
+Activation = EndFrame
+D0041D8C 00AC
+80041D8E 2400
+D0043C44 00AE
+80043C46 2400
+D0046E84 2023
+80046E8A 2400
+
+[Have All Energy Orbs In Ride Chaser Level]
+Type = Gameshark
+Activation = EndFrame
+D00D51A2 7FFF
+800D1C26 0008
+
+[Select Level\Intro Level select Training from main title screen and you will be taken to the level]
+Type = Gameshark
+Activation = EndFrame
+D00D1C0C 0016
+300D1C0C 0000
+
+[Select Level\Grizzly Slash select Training from main title screen and you will be taken to the level]
+Type = Gameshark
+Activation = EndFrame
+D00D1C0C 0016
+300D1C0C 0001
+
+[Select Level\Dark Dizzy select Training from main title screen and you will be taken to the level]
+Type = Gameshark
+Activation = EndFrame
+D00D1C0C 0016
+300D1C0C 0002
+
+[Select Level\Duff McWhalen select Training from main title screen and you will be taken to the level]
+Type = Gameshark
+Activation = EndFrame
+D00D1C0C 0016
+300D1C0C 0003
+
+[Select Level\MattRex select Training from main title screen and you will be taken to the level]
+Type = Gameshark
+Activation = EndFrame
+D00D1C0C 0016
+300D1C0C 0004
+
+[Select Level\Squid Adler select Training from main title screen and you will be taken to the level]
+Type = Gameshark
+Activation = EndFrame
+D00D1C0C 0016
+300D1C0C 0005
+
+[Select Level\Izzy Glowr select Training from main title screen and you will be taken to the level]
+Type = Gameshark
+Activation = EndFrame
+D00D1C0C 0016
+300D1C0C 0006
+
+[Select Level\AxleTheRed select Training from main title screen and you will be taken to the level]
+Type = Gameshark
+Activation = EndFrame
+D00D1C0C 0016
+300D1C0C 0007
+
+[Select Level\The Skiver select Training from main title screen and you will be taken to the level]
+Type = Gameshark
+Activation = EndFrame
+D00D1C0C 0016
+300D1C0C 0008
+
+[Select Level\1st Fight With Dynamo select Training from main title screen and you will be taken to the level]
+Type = Gameshark
+Activation = EndFrame
+D00D1C0C 0016
+300D1C0C 0009
+
+[Select Level\2nd Fight With Dynamo select Training from main title screen and you will be taken to the level]
+Type = Gameshark
+Activation = EndFrame
+D00D1C0C 0016
+300D1C0C 000A
+
+[Select Level\1st Section of Sigma Level select Training from main title screen and you will be taken to the level]
+Type = Gameshark
+Activation = EndFrame
+D00D1C0C 0016
+300D1C0C 0010
+
+[Select Level\2nd Section of Sigma Level select Training from main title screen and you will be taken to the level]
+Type = Gameshark
+Activation = EndFrame
+D00D1C0C 0016
+300D1C0C 0011
+
+[Select Level\3rd Section of Sigma Level select Training from main title screen and you will be taken to the level]
+Type = Gameshark
+Activation = EndFrame
+D00D1C0C 0016
+300D1C0C 0012
+
+[Select Level\Last Section of Sigma Level select Training from main title screen and you will be taken to the level]
+Type = Gameshark
+Activation = EndFrame
+D00D1C0C 0016
+300D1C0C 000C
+
+[Matrix mode "Pres L3 to toggle on/off]
+Type = Gameshark
+Activation = EndFrame
+D7010001 01000200
+F5021FFA 10402400
+F5022106 10401000
+F5022226 10401000
+F5022432 14401000
+

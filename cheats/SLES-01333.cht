@@ -1,0 +1,44 @@
+; CHTDB: ; [ Wild 9 (Europe) {SLES-01333} ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800846A6 03E7
+
+[Infinite Health Drench Level]
+Type = Gameshark
+Activation = EndFrame
+800849C6 03E7
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8007B5AC 0009
+
+[All Levels Selectable]
+Type = Gameshark
+Activation = EndFrame
+8007B5B8 000E
+
+[Have 99 Cogs]
+Type = Gameshark
+Activation = EndFrame
+8007B6A0 0063
+
+[Infinite Rockets]
+Type = Gameshark
+Activation = EndFrame
+3007B698 0000
+3007B694 000A
+
+[Infinite Rig-Power]
+Type = Gameshark
+Activation = EndFrame
+8007B880 03FF
+
+[Infinite Grenades]
+Type = Gameshark
+Activation = EndFrame
+3007B694 0000
+3007B698 000A
+

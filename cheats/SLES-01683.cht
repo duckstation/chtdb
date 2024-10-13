@@ -1,0 +1,197 @@
+; CHTDB: ; [ Tomb Raider III: Adventures of Lara Croft (Germany) {SLES-01683} ]
+
+[Unendlich Luft]
+Type = Gameshark
+Activation = EndFrame
+80098E4E 0708
+
+[Level beenden (Drücke L2 & R2 & Start)]
+Type = Gameshark
+Activation = EndFrame
+D009B0C2 FCF7
+300989F4 0001
+
+[Rotes Blut]
+Type = Gameshark
+Activation = EndFrame
+30031D74 0020
+30031D84 0020
+30031D8C 0098
+30031FC4 0020
+30031FD4 0020
+30031FDC 0088
+
+[Unendlich Munition & Gegenstände]
+Type = Gameshark
+Activation = EndFrame
+300A62D2 0001
+
+[Indra Schlüssel]
+Type = Gameshark
+Activation = EndFrame
+8009728C 000A
+
+[Unendlich Speicherkristalle]
+Type = Gameshark
+Activation = EndFrame
+8009720A 0063
+
+[Unendlich Kleine Medipacks]
+Type = Gameshark
+Activation = EndFrame
+80097208 0063
+
+[Unendlich Grosse Medipacks]
+Type = Gameshark
+Activation = EndFrame
+80097206 0063
+
+[Unendlich Magnesiumfackeln]
+Type = Gameshark
+Activation = EndFrame
+80097204 0063
+
+[Unendlich Alle Gegenstände]
+Type = Gameshark
+Activation = EndFrame
+50000902 0064
+80097200 0000
+
+[Unendlich Gesundheit Dschungel]
+Type = Gameshark
+Activation = EndFrame
+801D2FC2 03E8
+
+[Unendlich Gesundheit Tempel ruine]
+Type = Gameshark
+Activation = EndFrame
+801DB47E 03E8
+
+[Unendlich Gesundheit Der Ganges]
+Type = Gameshark
+Activation = EndFrame
+801D3C32 03E8
+
+[Unendlich Gesundheit Kaliya Höhlen]
+Type = Gameshark
+Activation = EndFrame
+8017B756 03E8
+
+[Unendlich Gesundheit Küstendorf]
+Type = Gameshark
+Activation = EndFrame
+801D6E86 03E8
+
+[Unendlich Gesundheit Absturzstelle]
+Type = Gameshark
+Activation = EndFrame
+801DC786 03E8
+
+[Unendlich Gesundheit Madubu Schlucht]
+Type = Gameshark
+Activation = EndFrame
+801DABA2 03E8
+
+[Unendlich Gesundheit Puna tempel]
+Type = Gameshark
+Activation = EndFrame
+8018E0FA 03E8
+
+[Unendlich Gesundheit Kai an der Themse]
+Type = Gameshark
+Activation = EndFrame
+801E1F8A 03E8
+
+[Unendlich Gesundheit Aldwych]
+Type = Gameshark
+Activation = EndFrame
+801D69BA 03E8
+
+[Unendlich Gesundheit Luds Gate]
+Type = Gameshark
+Activation = EndFrame
+801E2662 03E8
+
+[Unendlich Gesundheit Innenstadt]
+Type = Gameshark
+Activation = EndFrame
+8019276A 03E8
+
+[Unendlich Gesundheit Wüste von Nevada]
+Type = Gameshark
+Activation = EndFrame
+801D659E 03E8
+
+[Unendlich Gesundheit Hochsicherheitstrakt]
+Type = Gameshark
+Activation = EndFrame
+801DF93E 03E8
+
+[Unendlich Gesundheit Area 51]
+Type = Gameshark
+Activation = EndFrame
+801DF66A 03E8
+
+[Unendlich Gesundheit- Antarctica]
+Type = Gameshark
+Activation = EndFrame
+801D980E 03E8
+
+[Unendlich Gesundheit - Rx-Tech Mines]
+Type = Gameshark
+Activation = EndFrame
+801DCB4A 03E8
+
+[Unendlich Gesundheit Die vergessene Stadt Tinnos]
+Type = Gameshark
+Activation = EndFrame
+801D89DA 03E8
+
+[Unendlich Gesundheit Die Höhle des Meteoriten]
+Type = Gameshark
+Activation = EndFrame
+801A5B32 03E8
+
+[Geister-Modus Die Höhle des Meteoriten]
+Type = Gameshark
+Activation = EndFrame
+D00989F0 0013
+301A5B1C 000C
+
+[Unendlich Gesundheit All Hallows (Secret Level)]
+Type = Gameshark
+Activation = EndFrame
+80196E6A 03E8
+
+[Level beenden (Drücke L2 & R2 & Start)v1.1]
+Type = Gameshark
+Activation = EndFrame
+D009B64E FCF7
+30098F68 0001
+
+[Unendlich Luft v1.1]
+Type = Gameshark
+Activation = EndFrame
+800993DA 0708
+
+[Unendlich Speicherkristalle v1.1]
+Type = Gameshark
+Activation = EndFrame
+30097762 0064
+
+[Unendlich Grosse Medipacks v1.1]
+Type = Gameshark
+Activation = EndFrame
+3009775E 0064
+
+[Unendlich Magnesiumfackeln v1.1]
+Type = Gameshark
+Activation = EndFrame
+3009775C 0064
+
+[Unendlich Alle Gegenstände v1,1]
+Type = Gameshark
+Activation = EndFrame
+50000402 0064
+8009775C 0000
+

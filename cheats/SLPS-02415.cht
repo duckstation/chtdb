@@ -1,0 +1,14 @@
+; CHTDB: ; [ Charumera (Japan) {SLPS-02415} ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+801E1280 423F
+301E1282 000F
+
+[Max Item]
+Type = Gameshark
+Activation = EndFrame
+50009D01 0000
+301E1A71 0001
+

@@ -1,0 +1,17 @@
+; CHTDB: ; [ Asuka 120% Burning Fest. Final (Jpn) (1999) (Family Soft) {SLPS-02074} <asu120fn> ]
+
+[P1 Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+8005B00C 4B00
+
+[P2 No energy]
+Type = Gameshark
+Activation = EndFrame
+8005B270 0000
+
+[Unlock All Characters]
+Type = Gameshark
+Activation = EndFrame
+8005A42C 0007
+

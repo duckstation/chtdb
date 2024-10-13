@@ -1,0 +1,7 @@
+; CHTDB: ; [ Striker 96 (Europe) {SLES-00023} ]
+
+[P2 Gets No Goals]
+Type = Gameshark
+Activation = EndFrame
+800DE0C4 0000
+

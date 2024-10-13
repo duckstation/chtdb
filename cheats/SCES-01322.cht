@@ -1,0 +1,376 @@
+; CHTDB: ; [ The Granstream Saga (Germany) {SCES-01322} ]
+
+[Unendlich Ep]
+Type = Gameshark
+Activation = EndFrame
+901C915C 0001869F
+
+[Level 99]
+Type = Gameshark
+Activation = EndFrame
+801C9820 0063
+
+[Max Mp]
+Type = Gameshark
+Activation = EndFrame
+801C981E 03E7
+
+[Max Hp]
+Type = Gameshark
+Activation = EndFrame
+80095C90 00FF
+801C981C 00FF
+
+[Max At]
+Type = Gameshark
+Activation = EndFrame
+80095C96 00FF
+
+[Max Df]
+Type = Gameshark
+Activation = EndFrame
+80095C98 00FF
+
+[Max Lp]
+Type = Gameshark
+Activation = EndFrame
+80095C8E 0011
+
+[Unendlich Hp Im Kampf]
+Type = Gameshark
+Activation = EndFrame
+800C201C 001E
+
+[Unendlich Mp Im Kampf]
+Type = Gameshark
+Activation = EndFrame
+800C201E 03E7
+
+[Besitze Alle Items .Ersetzt die einzelnen Besitzcodes]
+Type = Gameshark
+Activation = EndFrame
+50002A01 0000
+301C9100 0001
+
+[Besitze Die Anderen Items .Ersetzt die anderen Items]
+Type = Gameshark
+Activation = EndFrame
+50001001 0000
+301C912E 0063
+
+[Besitze Windjuwel]
+Type = Gameshark
+Activation = EndFrame
+301C9100 0001
+
+[Besitze Mondstein]
+Type = Gameshark
+Activation = EndFrame
+301C9101 0001
+
+[Besitze Sternstein]
+Type = Gameshark
+Activation = EndFrame
+301C9102 0001
+
+[Besitze Teeservice]
+Type = Gameshark
+Activation = EndFrame
+301C9103 0001
+
+[Besitze Zerbrochenes Schwert]
+Type = Gameshark
+Activation = EndFrame
+301C9104 0001
+
+[Besitze Okarina-Buch]
+Type = Gameshark
+Activation = EndFrame
+301C9105 0001
+
+[Besitze Amulett]
+Type = Gameshark
+Activation = EndFrame
+301C9106 0001
+
+[Besitze Magischer Stein]
+Type = Gameshark
+Activation = EndFrame
+301C9107 0001
+
+[Besitze Ehering]
+Type = Gameshark
+Activation = EndFrame
+301C9108 0001
+
+[Besitze Enblem Der Jugendtruppe]
+Type = Gameshark
+Activation = EndFrame
+301C9109 0001
+
+[Besitze GefäNgnisschlüSsel]
+Type = Gameshark
+Activation = EndFrame
+301C910A 0001
+
+[Besitze Zirua's Zauberelixier]
+Type = Gameshark
+Activation = EndFrame
+301C910B 0001
+
+[Besitze Geintz' Steine]
+Type = Gameshark
+Activation = EndFrame
+301C910C 0001
+
+[Besitze Neutralisierende LöSung]
+Type = Gameshark
+Activation = EndFrame
+301C910D 0001
+
+[Besitze SäUrelöSung]
+Type = Gameshark
+Activation = EndFrame
+301C910E 0001
+
+[Besitze Gandors Dolch]
+Type = Gameshark
+Activation = EndFrame
+301C910F 0001
+
+[Besitze Steintafel]
+Type = Gameshark
+Activation = EndFrame
+301C9110 0001
+
+[Besitze AngelausüStung]
+Type = Gameshark
+Activation = EndFrame
+301C9111 0001
+
+[Besitze GoldstüCk]
+Type = Gameshark
+Activation = EndFrame
+301C9112 0001
+
+[Besitze SilberstüCk]
+Type = Gameshark
+Activation = EndFrame
+301C9113 0001
+
+[Besitze BronzestüCk]
+Type = Gameshark
+Activation = EndFrame
+301C9114 0001
+
+[Besitze Korallenkette]
+Type = Gameshark
+Activation = EndFrame
+301C9115 0001
+
+[Besitze Id-Karte (Ebene 1)]
+Type = Gameshark
+Activation = EndFrame
+301C9116 0001
+
+[Besitze Id-Karte (Ebene 2)]
+Type = Gameshark
+Activation = EndFrame
+301C9117 0001
+
+[Besitze SchwefelsäUre]
+Type = Gameshark
+Activation = EndFrame
+301C9118 0001
+
+[Besitze Falscher Schatz]
+Type = Gameshark
+Activation = EndFrame
+301C9119 0001
+
+[Besitze Karte Des Windgottes]
+Type = Gameshark
+Activation = EndFrame
+301C911A 0001
+
+[Besitze Karte Des Wassergottes]
+Type = Gameshark
+Activation = EndFrame
+301C911B 0001
+
+[Besitze Karte Des Feuergottes]
+Type = Gameshark
+Activation = EndFrame
+301C911C 0001
+
+[Besitze Karte Des Erdgottes]
+Type = Gameshark
+Activation = EndFrame
+301C911D 0001
+
+[Besitze Karte Des Riesengottes]
+Type = Gameshark
+Activation = EndFrame
+301C911E 0001
+
+[Besitze Karte Des Drachengottes]
+Type = Gameshark
+Activation = EndFrame
+301C911F 0001
+
+[Besitze Tagebuch Des Soldaten]
+Type = Gameshark
+Activation = EndFrame
+301C9120 0001
+
+[Besitze Codekarte]
+Type = Gameshark
+Activation = EndFrame
+301C9121 0001
+
+[Besitze Systemkarte]
+Type = Gameshark
+Activation = EndFrame
+301C9122 0001
+
+[Besitze ZellenschlüSsel]
+Type = Gameshark
+Activation = EndFrame
+301C9123 0001
+
+[Besitze MetallstüCk]
+Type = Gameshark
+Activation = EndFrame
+301C9124 0001
+
+[Besitze Silberner Kamm]
+Type = Gameshark
+Activation = EndFrame
+301C9125 0001
+
+[Besitze Zerfallenes Wappen]
+Type = Gameshark
+Activation = EndFrame
+301C9126 0001
+
+[Besitze Berbranntes Schwert]
+Type = Gameshark
+Activation = EndFrame
+301C912A 0001
+
+[Besitze Edelstein]
+Type = Gameshark
+Activation = EndFrame
+301C912C 0001
+
+[Besitze Kraftquelle]
+Type = Gameshark
+Activation = EndFrame
+301C912D 0001
+
+[Besitze 99 Antike Mysteriensteine]
+Type = Gameshark
+Activation = EndFrame
+301C912E 0063
+
+[Besitze 99 ZauberträNke]
+Type = Gameshark
+Activation = EndFrame
+301C912F 0063
+
+[Besitze 99 Getrocknete KräUter]
+Type = Gameshark
+Activation = EndFrame
+301C9130 0063
+
+[Besitze 99 Frische KräUter]
+Type = Gameshark
+Activation = EndFrame
+301C9131 0063
+
+[Besitze 99 Spezial KräUter]
+Type = Gameshark
+Activation = EndFrame
+301C9132 0063
+
+[Besitze 99 Schwache Elixiere]
+Type = Gameshark
+Activation = EndFrame
+301C9133 0063
+
+[Besitze 99 Starke Elixiere]
+Type = Gameshark
+Activation = EndFrame
+301C9134 0063
+
+[Besitze 99 Seltene Elixiere]
+Type = Gameshark
+Activation = EndFrame
+301C9135 0063
+
+[Besitze 99 Lebenselemente]
+Type = Gameshark
+Activation = EndFrame
+301C9136 0063
+
+[Besitze 99 WunderfrüChte]
+Type = Gameshark
+Activation = EndFrame
+301C9137 0063
+
+[Besitze 99 Lebenssteine]
+Type = Gameshark
+Activation = EndFrame
+301C9138 0063
+
+[Besitze 99 Engelsfedern]
+Type = Gameshark
+Activation = EndFrame
+301C9139 0063
+
+[Besitze 99 Pantheraugen]
+Type = Gameshark
+Activation = EndFrame
+301C913A 0063
+
+[Besitze 99 Venatawa-FrüChte]
+Type = Gameshark
+Activation = EndFrame
+301C913B 0063
+
+[Besitze 99 WeißE Kristalle]
+Type = Gameshark
+Activation = EndFrame
+301C913C 0063
+
+[Besitze 99 Schwarze Kristalle]
+Type = Gameshark
+Activation = EndFrame
+301C913D 0063
+
+[Besitze Alle Waffen]
+Type = Gameshark
+Activation = EndFrame
+801C9140 FFFF
+
+[Besitze Alle Schilde]
+Type = Gameshark
+Activation = EndFrame
+801C9144 FFFF
+
+[Besitze Alle RüStungen]
+Type = Gameshark
+Activation = EndFrame
+801C9148 FFFF
+
+[Besitze Alle Magie-SprüChe]
+Type = Gameshark
+Activation = EndFrame
+901C914C FFFFFFFF
+801C9150 FFFF
+
+[Besitze Alle Scepters]
+Type = Gameshark
+Activation = EndFrame
+901C9154 FFFFFFFF
+

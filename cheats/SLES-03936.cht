@@ -1,0 +1,248 @@
+; CHTDB: ; [ Digimon World 2003 (Europe) {SLES-03936} ]
+
+[Infinite & Max HP in battle]
+Type = Gameshark
+Activation = EndFrame
+800A4478 03E7
+800A4476 03E7
+
+[Infinite & Max PM in battle]
+Type = Gameshark
+Activation = EndFrame
+800A447A 03E7
+800A447C 03E7
+
+[9999 damage to all Digimon and always evade]
+Type = Gameshark
+Activation = EndFrame
+D009E1D0 0005
+8009E1D2 1220
+D009E234 0028
+8009E230 270F
+D009E234 0028
+8009E232 2402
+
+[Max/Infinite Bit]
+Type = Gameshark
+Activation = EndFrame
+90048DA0 05F5E0FF
+
+[All items and important items]
+Type = Gameshark
+Activation = EndFrame
+50002902 0000
+80048DB0 6363
+50003102 0000
+80048DDA 6363
+
+[All weapon, armor, and accessory]
+Type = Gameshark
+Activation = EndFrame
+50007902 0000
+80048E0C 6363
+50004D02 0000
+80048E86 6363
+50006402 0000
+80048ED4 6363
+
+[Increase DV Level after battle by 1]
+Type = Gameshark
+Activation = EndFrame
+9000C000 8E280004
+9000C004 2508000A
+9000C008 00000000
+9000C00C AE280004
+9000C010 8E290008
+9000C014 00000000
+9000C018 03E00008
+9000C01C 00000000
+90017B0C 0C003000
+90017B10 00000000
+
+[Max HP Kotemon]
+Type = Gameshark
+Activation = EndFrame
+800A4476 270F
+800A4478 270F
+
+[Max HP Renamon]
+Type = Gameshark
+Activation = EndFrame
+800A4496 270F
+800A4498 270F
+
+[Max HP Patamon]
+Type = Gameshark
+Activation = EndFrame
+800A44B6 270F
+800A44B8 270F
+
+[Max HP Kumamon]
+Type = Gameshark
+Activation = EndFrame
+800A4852 270F
+800A4854 270F
+
+[Max MP Kotemon]
+Type = Gameshark
+Activation = EndFrame
+800A447A 270F
+800A447C 270F
+
+[Max MP Renamon]
+Type = Gameshark
+Activation = EndFrame
+800A449A 270F
+800A449C 270F
+
+[Max MP Patamon]
+Type = Gameshark
+Activation = EndFrame
+800A44BA 270F
+800A44BC 270F
+
+[Max MP Kumamon]
+Type = Gameshark
+Activation = EndFrame
+800A4856 270F
+800A4858 270F
+
+[Max Level Kotemon]
+Type = Gameshark
+Activation = EndFrame
+800494B8 0063
+
+[Max Level Renamon]
+Type = Gameshark
+Activation = EndFrame
+8004ABE0 0063
+
+[Max Level Patamon]
+Type = Gameshark
+Activation = EndFrame
+8004AFBC 0063
+
+[Max Level Kumamon]
+Type = Gameshark
+Activation = EndFrame
+80049894 0063
+
+[Max EXP Kotemon]
+Type = Gameshark
+Activation = EndFrame
+900494B4 05F5E0FF
+
+[Max EXP Renamon]
+Type = Gameshark
+Activation = EndFrame
+9004ABDC 05F5E0FF
+
+[Max EXP Patamon]
+Type = Gameshark
+Activation = EndFrame
+9004AFB8 05F5E0FF
+
+[Max EXP Kumamon]
+Type = Gameshark
+Activation = EndFrame
+90049890 05F5E0FF
+
+[Max EXP Guilmon]
+Type = Gameshark
+Activation = EndFrame
+9004A800 05F5E0FF
+
+[Max EXP Veemon]
+Type = Gameshark
+Activation = EndFrame
+9004A424 05F5E0FF
+
+[Max EXP Augumon]
+Type = Gameshark
+Activation = EndFrame
+9004A048 05F5E0FF
+
+[Max EXP Monmon]
+Type = Gameshark
+Activation = EndFrame
+90049C6C 05F5E0FF
+
+[Max Stats Kotemon]
+Type = Gameshark
+Activation = EndFrame
+50000D02 0000
+800494C4 03E7
+
+[Max Stats Patamon]
+Type = Gameshark
+Activation = EndFrame
+50000D02 0000
+8004ABEC 03E7
+
+[Max Stats Renamon]
+Type = Gameshark
+Activation = EndFrame
+50000D02 0000
+8004AFC8 03E7
+
+[Max Stats Kumamon]
+Type = Gameshark
+Activation = EndFrame
+50000D02 0000
+800498A0 03E7
+
+[Infinite TP Kotemon]
+Type = Gameshark
+Activation = EndFrame
+800494BA 0063
+
+[Infinite TP Renamon]
+Type = Gameshark
+Activation = EndFrame
+8004ABE2 0063
+
+[Infinite TP Patamon]
+Type = Gameshark
+Activation = EndFrame
+8004AFBE 0063
+
+[Infinite TP Kumamon]
+Type = Gameshark
+Activation = EndFrame
+80049896 0063
+
+[Infinite TP Guilmon]
+Type = Gameshark
+Activation = EndFrame
+8004A806 0063
+
+[Infinite TP Veemon]
+Type = Gameshark
+Activation = EndFrame
+8004A42A 0063
+
+[Infinite TP Augumon]
+Type = Gameshark
+Activation = EndFrame
+8004A04E 0063
+
+[Infinite TP Monmon]
+Type = Gameshark
+Activation = EndFrame
+80049C72 0063
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A7081398 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A7081398 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A7081398 10000400
+

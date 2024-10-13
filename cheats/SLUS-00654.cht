@@ -1,0 +1,57 @@
+; CHTDB: ; [ Elemental Gearbolt (USA) (1998) (Working Designs) {SLUS-00654} <elemgear> ]
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80095D52 0200
+
+[P2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80095D64 0200
+
+[P1 999 Hit]
+Type = Gameshark
+Activation = EndFrame
+80073830 03E7
+
+[P1 999 Combo]
+Type = Gameshark
+Activation = EndFrame
+800736F4 03E7
+
+[P1 Max Level Up]
+Type = Gameshark
+Activation = EndFrame
+800961B8 0900
+
+[P2 999 Hit]
+Type = Gameshark
+Activation = EndFrame
+80073832 03E7
+
+[P2 999 Combo]
+Type = Gameshark
+Activation = EndFrame
+800736F6 03E7
+
+[P2 Max Level Up]
+Type = Gameshark
+Activation = EndFrame
+800961F4 0900
+
+[Have All Options Unlocked]
+Type = Gameshark
+Activation = EndFrame
+8000E2E0 0003
+
+[Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+800529C0 0003
+
+[No Hit Flash]
+Type = Gameshark
+Activation = EndFrame
+A702498A 0C001400
+

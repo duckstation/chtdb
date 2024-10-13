@@ -1,0 +1,53 @@
+; CHTDB: ; [ Ninja: Shadow of Darkness (Europe) {SLES-01554} ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80071FB2 0050
+
+[Infinite Smart Bomb]
+Type = Gameshark
+Activation = EndFrame
+80071FA8 0009
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+90071F64 05F5E0FF
+
+[Infinite Mystery Item]
+Type = Gameshark
+Activation = EndFrame
+90071F84 05F5E0FF
+
+[Have Silver Key]
+Type = Gameshark
+Activation = EndFrame
+80071F94 0001
+
+[Infinite Extra Lives]
+Type = Gameshark
+Activation = EndFrame
+80071F8C 0009
+
+[Power Up]
+Type = Gameshark
+Activation = EndFrame
+80071F90 0004
+
+[Have Gold Key]
+Type = Gameshark
+Activation = EndFrame
+80071F88 0001
+
+[Level select]
+Type = Gameshark
+Activation = EndFrame
+D006D5B6 FFFE
+801331B4 0001
+
+[Sudden Death boss]
+Type = Gameshark
+Activation = EndFrame
+A606C2AA 0080000A
+

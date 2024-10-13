@@ -1,0 +1,55 @@
+; CHTDB: ; [ PoPoRoGue (Japan) {SCPS-10050} ]
+
+[Infinite HP Pietoro]
+Type = Gameshark
+Activation = EndFrame
+800AA81A 03E7
+800E22AA 03E7
+
+[Infinite MP Pietoro]
+Type = Gameshark
+Activation = EndFrame
+800AA81C 03E7
+800E22AC 03E7
+
+[Infinite TP Pietoro]
+Type = Gameshark
+Activation = EndFrame
+800AA81E 03E7
+800E22AE 03E7
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+900E58B0 0098967F
+
+[All Level Information]
+Type = Gameshark
+Activation = EndFrame
+D00B8644 0100
+80018FCC D476
+D00B8644 0100
+80018FCE 0C03
+D00B8644 0000
+80018FCC F22A
+D00B8644 0000
+80018FCE 0C00
+
+[All Item Information]
+Type = Gameshark
+Activation = EndFrame
+D00B8644 0100
+8002FED4 D5E9
+D00B8644 0100
+8002FED6 0C03
+D00B8644 0000
+8002FED4 BF3B
+D00B8644 0000
+8002FED6 0C00
+
+[Running No Enemy]
+Type = Gameshark
+Activation = EndFrame
+D00E6318 0001
+800F2A5C 0050
+

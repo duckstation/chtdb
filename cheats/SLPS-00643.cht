@@ -1,0 +1,25 @@
+; CHTDB: ; [ Umihara Kawase Shun (Japan) {SLPS-00643} ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80089128 0009
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80098F78 0009
+
+[Start on field 1-50 Enabled Last Stage 0A, 10, 11, 1A, 28, 31 doesn't exist]
+Type = Gameshark
+Activation = EndFrame
+80089158 0037
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+80013F2E 1400
+80013F3A 1400
+800140E4 0000
+80017298 0000
+

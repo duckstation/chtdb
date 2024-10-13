@@ -1,0 +1,48 @@
+; CHTDB: ; [ Tron ni Kobun (Japan) {SLPS-02108} ]
+
+[Unlock Protect]
+Type = Gameshark
+Activation = EndFrame
+A701277A 10401000
+
+[Max Zenny]
+Type = Gameshark
+Activation = EndFrame
+900C91CC 0098967F
+
+[Infinite & Max Energy]
+Type = Gameshark
+Activation = EndFrame
+900C9220 10F010F0
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800C91C0 001F
+
+[All items available]
+Type = Gameshark
+Activation = EndFrame
+50004002 0000
+800C940C 6363
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800B8DFA 00FF
+
+[All Status Max]
+Type = Gameshark
+Activation = EndFrame
+50002808 0000
+800CC140 FFFF
+50002808 0000
+300CC142 00FF
+50002808 0000
+300CC144 0000
+
+[Total Time = 00.00]
+Type = Gameshark
+Activation = EndFrame
+900C91C0 00000000
+

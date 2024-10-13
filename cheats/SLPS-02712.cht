@@ -1,0 +1,175 @@
+; CHTDB: ; [ Pandora Max Series Vol. 4: Catch! Kimochi Sensation (Japan) {SLPS-02712} ]
+
+[Scenario cleared (bonus fully open)]
+Type = Gameshark
+Activation = EndFrame
+801A74C8 0001
+801A74DE 0014
+
+[100% fully open and mini-games Graphtec appreciation]
+Type = Gameshark
+Activation = EndFrame
+801B4F50 FF70
+301B4F52 0001
+301B4F75 006E
+801B4F76 81E0
+801B4F82 FFFF
+901B4F84 FFFFFFFF
+901B4F88 FFFFFFFF
+901B4F8C FFFFFFFF
+801B4F90 FFFF
+
+[All Mini Games Can Be Selected]
+Type = Gameshark
+Activation = EndFrame
+300533CC 0001
+801B4F76 01E0
+300533CE 0001
+301B4F82 0007
+300533D0 0001
+301B4F85 00FF
+300533D4 0001
+801B4F86 FFFF
+8018F792 FF80
+801B4F88 FFFF
+8018F794 0043
+801B4F8A FFFF
+301A74C8 0001
+801B4F8C FFFF
+801B4F50 7E70
+801B4F8E FFFF
+301B4F75 006E
+801B4F90 FFFF
+
+[Rainbow Peak Minigame Lock The Opponent's Racket]
+Type = Gameshark
+Activation = EndFrame
+301A7BD4 00A1
+
+[Foresight Minigame Player 99 Points]
+Type = Gameshark
+Activation = EndFrame
+301A7AD0 0063
+
+[Foresight Minigame Rival 0 Points]
+Type = Gameshark
+Activation = EndFrame
+301A7AD2 0000
+
+[Cleared looking GAL'S ROOM mistake Mini-Game]
+Type = Gameshark
+Activation = EndFrame
+8018F792 FFFF
+3018F794 0003
+
+[Quiz Minigame START + L1 button, 5 points, 4 own hearts Player]
+Type = Gameshark
+Activation = EndFrame
+D018F750 0804
+801A7BBC 0004
+D018F750 0804
+801A7BBE 0005
+
+[Quiz Minigame START + R1 button, point 0 Heart 0 Rival]
+Type = Gameshark
+Activation = EndFrame
+D018F750 0808
+801A7BBC 0000
+D018F750 0808
+801A7BE2 0000
+
+[Bonus / GAL's ROOM selectable]
+Type = Gameshark
+Activation = EndFrame
+300533CC 0001
+
+[Bonus / Gaiden selectable]
+Type = Gameshark
+Activation = EndFrame
+300533CE 0001
+
+[Bonus / Photo Gallery can be selected]
+Type = Gameshark
+Activation = EndFrame
+300533D0 0001
+
+[Bonus / MINI GAMES selectable]
+Type = Gameshark
+Activation = EndFrame
+300533D2 0001
+
+[Bonus / Graphic Watch selectable]
+Type = Gameshark
+Activation = EndFrame
+300533D4 0001
+
+[Bonus / Sound Test selectable]
+Type = Gameshark
+Activation = EndFrame
+300533D6 0001
+
+[Bonus / Information can be selected]
+Type = Gameshark
+Activation = EndFrame
+300533D8 0001
+
+[Bonus / notice selectable]
+Type = Gameshark
+Activation = EndFrame
+300533DA 0001
+
+[Bonus / Gochachiru selectable]
+Type = Gameshark
+Activation = EndFrame
+300533DC 0001
+
+[Bonus / GAL's ROOM PLAY possible]
+Type = Gameshark
+Activation = EndFrame
+301A74C8 0001
+
+[Favorability Max Ayuri]
+Type = Gameshark
+Activation = EndFrame
+801A74A6 03E7
+
+[Favorability Max DropletS]
+Type = Gameshark
+Activation = EndFrame
+801A74A8 03E7
+
+[Favorability Max Erica]
+Type = Gameshark
+Activation = EndFrame
+801A74AA 03E7
+
+[Favorability Max Hinata]
+Type = Gameshark
+Activation = EndFrame
+801A74AC 03E7
+
+[Favorability Max Bookmarks]
+Type = Gameshark
+Activation = EndFrame
+801A74AE 03E7
+
+[Favorability Max Chizuru]
+Type = Gameshark
+Activation = EndFrame
+801A74B0 03E7
+
+[Favorability Max Makoto]
+Type = Gameshark
+Activation = EndFrame
+801A74B2 03E7
+
+[Favorability Max Yayoi]
+Type = Gameshark
+Activation = EndFrame
+801A74B4 03E7
+
+[Favorability Max Takizawa]
+Type = Gameshark
+Activation = EndFrame
+801A74B6 03E7
+

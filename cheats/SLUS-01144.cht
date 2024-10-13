@@ -1,0 +1,121 @@
+; CHTDB: ; [ Bugs Bunny & Taz - Time Busters (USA) (2000) (Infogrames) {SLUS-01144} <bbtaztb> ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8001696E 2400
+
+[Infinite Clipboards]
+Type = Gameshark
+Activation = EndFrame
+800100A0 0003
+
+[Infinite Carrots]
+Type = Gameshark
+Activation = EndFrame
+80010058 0064
+
+[Have All Gears Found]
+Type = Gameshark
+Activation = EndFrame
+9001005C 01F401F4
+90010060 012C00C8
+90010064 012C01F4
+90010068 01F400C8
+9001006C 019001F4
+90010070 012C012C
+90010074 01F401F4
+90010078 00C8012C
+
+[All Characters Found]
+Type = Gameshark
+Activation = EndFrame
+800100E6 0202
+900100E8 01020201
+900100EC 02010202
+800100F0 0102
+
+[Have All Acme Boxes]
+Type = Gameshark
+Activation = EndFrame
+50001001 0000
+300100BE 0005
+
+[Have All Boss Tokens]
+Type = Gameshark
+Activation = EndFrame
+50000901 0000
+300100D2 0001
+
+[Cheat Modifier - Level Select]
+Description = pause game and select Load Level,100 Carrots,All Moves and All Boss Tokens
+Type = Gameshark
+Activation = EndFrame
+3001008C 001F
+
+[Bugs Bunny can also push boxes (Hold triangle)]
+Type = Gameshark
+Activation = EndFrame
+A701ABD6 24001040
+D7200000 00000010
+A701ABD6 10402400
+
+[High Quality LOD]
+Type = Gameshark
+Activation = EndFrame
+A705AA0A 10402400
+
+[Jumping stationary plants carrots]
+Description = WARNING - Turn off to access menus
+Type = Gameshark
+Activation = EndFrame
+A70157A2 14442400
+
+[Disable summon restrictions]
+Description = Allows you to summon your partner in some places that are normally not allowed
+Type = Gameshark
+Activation = EndFrame
+A7012B3A 14402400
+
+[Bugs's helicopter can fly\Normal Rise]
+Type = Gameshark
+Activation = EndFrame
+A70198E4 1023FFF0
+A70198E6 00522442
+
+[Bugs's helicopter can fly\Slower Rise]
+Type = Gameshark
+Activation = EndFrame
+A70198E4 1023FFF8
+A70198E6 00522442
+
+[Avoid crashing on ground from big heights]
+Type = Gameshark
+Activation = EndFrame
+A702D8AA 16622400
+
+[Invincibility V1]
+Type = Gameshark
+Activation = EndFrame
+A70168B2 14402400
+
+[Invincibility V2]
+Type = Gameshark
+Activation = EndFrame
+A701C9DA 18401000
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A70990AC 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A70990AC 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A70990AC 10000400
+

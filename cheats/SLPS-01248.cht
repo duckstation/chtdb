@@ -1,0 +1,65 @@
+; CHTDB: ; [ Ultraman: Fighting Evolution (Japan) {SLPS-01248} ]
+
+[P1 Infinite Energy Stage 2]
+Type = Gameshark
+Activation = EndFrame
+800E4D84 00C8
+
+[P1 Infinite Energy Stage 3]
+Type = Gameshark
+Activation = EndFrame
+800F1154 00C8
+
+[P1 Infinite Energy Stage 4]
+Type = Gameshark
+Activation = EndFrame
+800E5218 00C8
+
+[P1 Infinite Energy Stage 5]
+Type = Gameshark
+Activation = EndFrame
+800F1784 00C8
+
+[P1 Infinite Energy Stage 6]
+Type = Gameshark
+Activation = EndFrame
+800E4D08 00C8
+
+[P1 Infinite Energy Stage 7 & 8]
+Type = Gameshark
+Activation = EndFrame
+800CEBE8 00C8
+
+[P1 Infinite Energy Stage 9 (Final Stage)]
+Type = Gameshark
+Activation = EndFrame
+800F4D64 00C8
+
+[P1 Infinite HP Stage 1]
+Type = Gameshark
+Activation = EndFrame
+800CEBE8 00C8
+
+[P2 Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800D41D0 00C8
+
+[Hidden character fully open]
+Type = Gameshark
+Activation = EndFrame
+90035CD4 00010001
+90035CE4 00010001
+80035CE8 0001
+
+[All Characters]
+Type = Gameshark
+Activation = EndFrame
+300355C8 000B
+900355D0 00010001
+900355D4 00010001
+900355D8 00010001
+900355DC 00010001
+900355E0 00010001
+900355E4 00010001
+

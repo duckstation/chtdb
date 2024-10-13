@@ -1,0 +1,57 @@
+; CHTDB: ; [ Idol Janshi Suchie-Pai Limited (Jpn) (1995) (Jaleco) {SLPS-00029} <suchipai> ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+800EFDB8 EA60
+
+[Opponent Money is Always 0]
+Type = Gameshark
+Activation = EndFrame
+800C41A0 0000
+
+[Infinite Item Suu Kyi eye]
+Type = Gameshark
+Activation = EndFrame
+800F1258 0009
+
+[Infinite Item Hyper chastisement]
+Type = Gameshark
+Activation = EndFrame
+800F1260 0009
+
+[Infinite Item Suu Kyi stick]
+Type = Gameshark
+Activation = EndFrame
+800F1270 0009
+
+[MAX point have their own]
+Type = Gameshark
+Activation = EndFrame
+900EFDB8 0001869F
+
+[Minus point has the other]
+Type = Gameshark
+Activation = EndFrame
+800C41AD FFFF
+800C41A2 FFFF
+
+[Infinite Panel match remaining count]
+Type = Gameshark
+Activation = EndFrame
+800C0A48 0007
+
+[Point level MAX]
+Type = Gameshark
+Activation = EndFrame
+800C4330 0004
+800C6838 0018
+
+[Everyone clear suddenly free play mode]
+Type = Gameshark
+Activation = EndFrame
+900F1E68 00000000
+900F1E6C 00000000
+900F1E70 00000000
+900F1E74 00000000
+

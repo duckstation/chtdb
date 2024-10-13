@@ -1,0 +1,62 @@
+; CHTDB: ; [ Momotarou Densetsu (Jpn) (1998) (Hudson) {SLPS-01785} <momo> ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800849D8 03E7
+80091252 03E7
+800FE300 03E7
+800FEE30 03E7
+
+[Maximum Energy]
+Type = Gameshark
+Activation = EndFrame
+800849F8 03E7
+8009125A 03E7
+
+[Money and Ichi-ya Max]
+Type = Gameshark
+Activation = EndFrame
+900912E4 05F5E0FF
+
+[Enemy is less likely to appear]
+Type = Gameshark
+Activation = EndFrame
+90009010 00000000
+30091930 00FF
+
+[Stage]
+Type = Gameshark
+Activation = EndFrame
+8009124A 0063
+
+[Current body]
+Type = Gameshark
+Activation = EndFrame
+80091252 03E7
+
+[Maximum body]
+Type = Gameshark
+Activation = EndFrame
+8009125A 03E7
+
+[Heart Max]
+Type = Gameshark
+Activation = EndFrame
+900912E8 7FFFFFFF
+
+[Card album fully open]
+Type = Gameshark
+Activation = EndFrame
+8004295C 0001
+
+[Art of pre-acquisition Skanda heaven]
+Type = Gameshark
+Activation = EndFrame
+300918D8 0002
+
+[Number of Oni that punish]
+Type = Gameshark
+Activation = EndFrame
+90091958 7FFFFFFF
+

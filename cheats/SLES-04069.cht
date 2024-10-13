@@ -1,0 +1,35 @@
+; CHTDB: ; [ Rox (Europe) {SLES-04069} ]
+
+[P1 Max Score]
+Type = Gameshark
+Activation = EndFrame
+900777BC 0098967F
+
+[P2 Max Score]
+Type = Gameshark
+Activation = EndFrame
+90077940 0098967F
+
+[Press L2 for P1 Fire Ball]
+Type = Gameshark
+Activation = EndFrame
+E00699F0 0001
+80077748 0050
+
+[Press L2 for P2 Fire Ball]
+Type = Gameshark
+Activation = EndFrame
+E00699F4 0001
+800778CC 0050
+
+[1P Mode\Press R2 for Full Power]
+Type = Gameshark
+Activation = EndFrame
+E00699F0 0002
+800777A8 00FF
+
+[1P Mode Full Power]
+Type = Gameshark
+Activation = EndFrame
+800777A8 00FF
+

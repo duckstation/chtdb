@@ -1,0 +1,12 @@
+; CHTDB: ; [ Fighting Force 2 (Europe) {SLES-02233} ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+D00CDD5E FEFF
+80000004 0001
+D00CDD5E FDFF
+80000004 0000
+D0000004 0001
+80117338 03FC
+

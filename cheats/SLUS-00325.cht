@@ -1,0 +1,12 @@
+; CHTDB: ; [ NanoTek Warrior (USA) (1997) (Virgin Interactive Entertainment) {SLUS-00325} <nanotek> ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800CAC7C 0003
+
+[Infinite Energy/Shield]
+Type = Gameshark
+Activation = EndFrame
+800CAC80 1000
+

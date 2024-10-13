@@ -1,0 +1,17 @@
+; CHTDB: ; [ Command & Conquer: Alerte Rouge: Mission Tesla (Alliés) (France) {SLES-01344 | SLES-11344} ]
+
+[Argent Infini Alliés]
+Type = Gameshark
+Activation = EndFrame
+8002A3D4 FFFF
+
+[Tout le terrain et le plan visible]
+Type = Gameshark
+Activation = EndFrame
+801B48EC 0001
+
+[Argent Infini Soviétiques]
+Type = Gameshark
+Activation = EndFrame
+8002A789 FFFF
+

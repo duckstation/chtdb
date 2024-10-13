@@ -1,0 +1,65 @@
+; CHTDB: ; [ Gundam Battle Assault (Europe) {SLES-03650} ]
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8015F922 0200
+8015F924 0000
+
+[P1 Infinite Energy Alt]
+Type = Gameshark
+Activation = EndFrame
+8015F925 0000
+
+[P2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8018D8BE 0200
+8018D8C0 0000
+
+[P2 Sudden Death]
+Type = Gameshark
+Activation = EndFrame
+A618D8BE 02000000
+A618D8C0 00007000
+
+[Unlock (Vs. mode) Big Zam]
+Type = Gameshark
+Activation = EndFrame
+300E13DC 0000
+
+[Unlock (Vs. mode) Neue Ziel]
+Type = Gameshark
+Activation = EndFrame
+300E13E4 0000
+
+[Unlock (Vs. mode) V-Gundam]
+Type = Gameshark
+Activation = EndFrame
+300E13E8 0000
+
+[Unlock (Vs. mode) Psycho Mk-III]
+Type = Gameshark
+Activation = EndFrame
+300E13EC 0000
+
+[Unlock (Vs. mode) Gundam]
+Type = Gameshark
+Activation = EndFrame
+300E13F0 0000
+
+[Unlock (Vs. mode) Hydra]
+Type = Gameshark
+Activation = EndFrame
+300E140C 0000
+
+[Unlock (Vs. mode) Ball]
+Type = Gameshark
+Activation = EndFrame
+300E1410 0000
+
+[Unlock (Vs. mode) Char's Zaku]
+Type = Gameshark
+Activation = EndFrame
+300E1414 0000
+

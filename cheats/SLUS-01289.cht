@@ -1,0 +1,17 @@
+; CHTDB: ; [ Billiards (USA) (2001) (A1 Games) {SLUS-01289} <billrds> ]
+
+[Everyone Unlocked And Beaten]
+Type = Gameshark
+Activation = EndFrame
+800B595E FF03
+
+[Always P1 Turn]
+Type = Gameshark
+Activation = EndFrame
+800D9678 0000
+
+[All Trick Shots Complete]
+Type = Gameshark
+Activation = EndFrame
+900B5958 FFFFFFFF
+

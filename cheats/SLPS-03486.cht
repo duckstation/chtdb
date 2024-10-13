@@ -1,0 +1,22 @@
+; CHTDB: ; [ Memorial Star Series - Sunsoft Vol.6 - Battle Formula & Gimmick! (Jpn) (2002) (Sunsoft) {SLPS-03486} <sunsoft6> ]
+
+[Infinite Lives Battle formula]
+Type = Gameshark
+Activation = EndFrame
+800D36FC 0005
+
+[Infinite Energy Battle formula]
+Type = Gameshark
+Activation = EndFrame
+800D3703 0040
+
+[Infinite Lives Gimmick]
+Type = Gameshark
+Activation = EndFrame
+800F32F4 0003
+
+[Infinite Energy Gimmick]
+Type = Gameshark
+Activation = EndFrame
+800F3536 0002
+

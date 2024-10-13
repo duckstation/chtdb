@@ -1,0 +1,38 @@
+; CHTDB: ; [ Street Games '97 (Japan) {SIPS-60019} ]
+
+[PLAYER attribute point]
+Type = Gameshark
+Activation = EndFrame
+D01FE124 0000
+301FE124 0064
+
+[VEHICLE skills]
+Type = Gameshark
+Activation = EndFrame
+D01FE130 0000
+301FE130 0064
+
+[SKATEBOARD]
+Type = Gameshark
+Activation = EndFrame
+D01FE13C 0000
+301FE13C 0064
+
+[INLINE SKATES]
+Type = Gameshark
+Activation = EndFrame
+D01FE148 0000
+301FE148 0064
+
+[SNOWBOARD]
+Type = Gameshark
+Activation = EndFrame
+D01FE154 0000
+301FE154 0064
+
+[MOUNTAIN BIKE]
+Type = Gameshark
+Activation = EndFrame
+D01FE160 0000
+301FE160 0064
+

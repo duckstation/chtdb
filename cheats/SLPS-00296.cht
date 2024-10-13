@@ -1,0 +1,27 @@
+; CHTDB: ; [ Killing Zone (Japan) {SLPS-00296} ]
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8008B9B0 0100
+
+[P1 No Energy]
+Type = Gameshark
+Activation = EndFrame
+8008B9B0 0000
+
+[P2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800C85C4 0100
+
+[P2 No Energy]
+Type = Gameshark
+Activation = EndFrame
+800C85C4 0000
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+8008B800 0063
+

@@ -1,0 +1,22 @@
+; CHTDB: ; [ Star Ixiom (Europe) {SCES-01707} ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800E1188 B14B
+
+[Infinite Mini-Missiles]
+Type = Gameshark
+Activation = EndFrame
+800E1194 03E7
+
+[Sub-Weapon Doesn't Decrease]
+Type = Gameshark
+Activation = EndFrame
+800165CE 3C00
+
+[Infinite Photons]
+Type = Gameshark
+Activation = EndFrame
+300E119A 0063
+

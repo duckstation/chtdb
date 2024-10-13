@@ -1,0 +1,27 @@
+; CHTDB: ; [ Nice Price Series Vol. 11: Nikakudori Deluxe (Japan) {SLPS-03431} ]
+
+[Infinite Swaps]
+Type = Gameshark
+Activation = EndFrame
+3004E0A1 0003
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800B397A 000A
+
+[Infinite Finds]
+Type = Gameshark
+Activation = EndFrame
+8004E0A2 0003
+
+[Infinite Bomb]
+Type = Gameshark
+Activation = EndFrame
+3004E0A0 0003
+
+[Infinite Bonus stage CHANCE]
+Type = Gameshark
+Activation = EndFrame
+300B3B81 000A
+

@@ -1,0 +1,34 @@
+; CHTDB: ; [ Mr. Driller (Japan) {SLPS-02600} ]
+
+[Infinite Air]
+Type = Gameshark
+Activation = EndFrame
+901F0190 00024B00
+
+[X block blow destruction]
+Type = Gameshark
+Activation = EndFrame
+D00C17C4 0003
+800C17C6 1000
+
+[I do not crushed in rock]
+Type = Gameshark
+Activation = EndFrame
+D00CC1C6 1462
+800CC1C4 0001
+
+[Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+3019A028 000A
+
+[Max Score]
+Type = Gameshark
+Activation = EndFrame
+801F0158 FFFF
+
+[Add staff roles to OPTION"]
+Type = Gameshark
+Activation = EndFrame
+3018FF96 0001
+

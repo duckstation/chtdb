@@ -1,0 +1,33 @@
+; CHTDB: ; [ PO'ed (Japan) {SLPS-00437} ]
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+8008CED8 0064
+
+[All Weapons]
+Type = Gameshark
+Activation = EndFrame
+50000602 0000
+8008CEF0 0101
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+50000604 0000
+8008CEDC 03E7
+
+[Jet pack possession]
+Type = Gameshark
+Activation = EndFrame
+3008CFA9 0001
+
+[Weapon possession All]
+Type = Gameshark
+Activation = EndFrame
+8008CEF0 0101
+3008CEF3 0001
+9008CEF4 01010101
+8008CEF8 0101
+3008CEFA 0001
+

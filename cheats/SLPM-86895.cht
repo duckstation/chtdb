@@ -1,0 +1,63 @@
+; CHTDB: ; [ Hunter X Hunter - Ubawareta Aura Stone (Jpn) (2001) (Konami) {SLPM-86895 (VX249-J1)} <hxhubast> ]
+
+[P1 HP 999]
+Type = Gameshark
+Activation = EndFrame
+90098734 03E703E7
+
+[Level 99]
+Type = Gameshark
+Activation = EndFrame
+8009873A FF63
+
+[Stats 99]
+Type = Gameshark
+Activation = EndFrame
+90098744 00636363
+90098740 00636363
+
+[Exp 99999]
+Type = Gameshark
+Activation = EndFrame
+90098748 0001869F
+
+[P2 HP 999/999]
+Type = Gameshark
+Activation = EndFrame
+9009877C 03E703E7
+
+[P3 HP 999/999]
+Type = Gameshark
+Activation = EndFrame
+900987C4 03E703E7
+
+[P4 HP 999]
+Type = Gameshark
+Activation = EndFrame
+9009880C 03E703E7
+
+[P5 HP 999]
+Type = Gameshark
+Activation = EndFrame
+90098854 03E703E7
+
+[99999 J]
+Type = Gameshark
+Activation = EndFrame
+90098CAC 0001869F
+
+[Hp Enemy 0]
+Type = Gameshark
+Activation = EndFrame
+8009D28C 0000
+
+[Hp 999 (Battle)]
+Type = Gameshark
+Activation = EndFrame
+8009D27C 03E7
+
+[Bonus Point 99 (For Level Up)]
+Type = Gameshark
+Activation = EndFrame
+3009D92A 0063
+

@@ -1,0 +1,12 @@
+; CHTDB: ; [ Parlor! Pro 2 (Japan) {SLPS-01043} ]
+
+[Have 999999 money in the story mode]
+Type = Gameshark
+Activation = EndFrame
+9004BB54 000F423F
+
+[Infinite HP in story mode]
+Type = Gameshark
+Activation = EndFrame
+8004BA5E 0064
+

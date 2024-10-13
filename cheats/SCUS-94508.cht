@@ -1,0 +1,128 @@
+; CHTDB: ; [ 2Xtreme (USA) (1996) (Sony Computer Entertainment America) {SCUS-94508} <2xtreme> ]
+
+[P1 1st Place After Race]
+Type = Gameshark
+Activation = EndFrame
+8007D4CC 0000
+
+[2 P1's Speed is Always Max]
+Type = Gameshark
+Activation = EndFrame
+8007D490 00FF
+
+[Race Time is 0.000]
+Description = DON'T fall off of your skateboard!
+Type = Gameshark
+Activation = EndFrame
+80043E3C 0000
+
+[Character Creation Cheats\Max Muscle]
+Type = Gameshark
+Activation = EndFrame
+80130004 00FF
+
+[Character Creation Cheats\Max Endurance]
+Type = Gameshark
+Activation = EndFrame
+8012FE2C 00FF
+
+[Character Creation Cheats\Max Speed]
+Type = Gameshark
+Activation = EndFrame
+8012FC54 00FF
+
+[Character Creation Cheats\Max Reflexes]
+Type = Gameshark
+Activation = EndFrame
+8012FA7C 00FF
+
+[Character Creation Cheats\Max Tricks]
+Type = Gameshark
+Activation = EndFrame
+8012F8A4 00FF
+
+[Character Creation Cheats\Max Skateboarding]
+Type = Gameshark
+Activation = EndFrame
+8012F6CC 00FF
+
+[Character Creation Cheats\Max Inlineskating]
+Type = Gameshark
+Activation = EndFrame
+8012F4F4 00FF
+
+[Character Creation Cheats\Max Snowboarding]
+Type = Gameshark
+Activation = EndFrame
+8012F31C 00FF
+
+[Character Creation Cheats\Max Mountainbiking]
+Type = Gameshark
+Activation = EndFrame
+8012F144 00FF
+
+[Character Creation Cheats\Max Handling (Skate Board)]
+Type = Gameshark
+Activation = EndFrame
+8012EF6C 00FF
+
+[Character Creation Cheats\Max Acceleration (Skate Board)]
+Type = Gameshark
+Activation = EndFrame
+8012ED94 00FF
+
+[Character Creation Cheats\Max Top Speed (Skate Board)]
+Type = Gameshark
+Activation = EndFrame
+8012EBBC 00FF
+
+[Character Creation Cheats\Max Handling (Inline Skates)]
+Type = Gameshark
+Activation = EndFrame
+8012E9E4 00FF
+
+[Character Creation Cheats\Max Acceleration (Inline Skates)]
+Type = Gameshark
+Activation = EndFrame
+8012E80C 00FF
+
+[Character Creation Cheats\Max Top Speed (Inline Skates)]
+Type = Gameshark
+Activation = EndFrame
+8012E634 00FF
+
+[Character Creation Cheats\Max Handling (Snow Board)]
+Type = Gameshark
+Activation = EndFrame
+8012E45C 00FF
+
+[Character Creation Cheats\Max Acceleration (Snow Board)]
+Type = Gameshark
+Activation = EndFrame
+8012E284 00FF
+
+[Character Creation Cheats\Max Top Speed (Snow Board)]
+Type = Gameshark
+Activation = EndFrame
+8012E0AC 00FF
+
+[Character Creation Cheats\Max Handling (Mountain Bike)]
+Type = Gameshark
+Activation = EndFrame
+8012DED4 00FF
+
+[Character Creation Cheats\Max Acceleration (Mountain Bike)]
+Type = Gameshark
+Activation = EndFrame
+8012DCFC 00FF
+
+[Character Creation Cheats\Max Top Speed (Mountain Bike)]
+Type = Gameshark
+Activation = EndFrame
+8012DB24 00FF
+
+[Character Creation Cheats\Can Max Out All Character Creation Attributes]
+Type = Gameshark
+Activation = EndFrame
+8002B4EE 2400
+

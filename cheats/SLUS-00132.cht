@@ -1,0 +1,12 @@
+; CHTDB: ; [ Panzer General (USA) (1996) (Strategic Simulations) {SLUS-00132} <pnzgenrl> ]
+
+[P1 Infinite Prestige]
+Type = Gameshark
+Activation = EndFrame
+800EDB84 07D0
+
+[Infinite Turns Remaining]
+Type = Gameshark
+Activation = EndFrame
+80089A90 0A00
+

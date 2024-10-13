@@ -1,0 +1,298 @@
+; CHTDB: ; [ Tomb Raider - The Last Revelation (USA, v1.0) (1999) (Eidos Interactive) {SLUS-00885} <traid4a> ]
+
+[Stage Select With this code, at the title screen press L1+L2+R1+R2]
+Type = Gameshark
+Activation = EndFrame
+D00AB146 F0FF
+800A7B6E 0200
+
+[Infinite Air]
+Type = Gameshark
+Activation = EndFrame
+800AC30E 0708
+
+[Infinite Large Medipacks]
+Type = Gameshark
+Activation = EndFrame
+800AC43E FFFF
+
+[Alexandria\Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801B94C6 03E8
+
+[Angkor Wat\Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801BB8B6 03E8
+
+[Burial Chambers\Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801C339E 03E8
+
+[Catacombs\Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801CAA66 03E8
+
+[Chambers Of Tulun\Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801D147E 03E8
+
+[Citadel\Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801D94BE 03E8
+
+[Citadel Gate\Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801CFCCE 03E8
+
+[City Of The Dead\Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801CBAB2 03E8
+
+[Cleopatra's Palaces\Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801C5252 03E8
+
+[Coastal Ruins\Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801CF556 03E8
+
+[Desert Railroad\Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801BBDF2 03E8
+
+[Guardian Of Semerkhet\Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801AC86A 03E8
+
+[Hall Of Demetrius\Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801B683E 03E8
+
+[Inside Menkaure's Pyramid\Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801D5FD6 03E8
+
+[Inside The Great Pyramid\Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801C9482 03E8
+
+[Khufu's Queens Pyramids\Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801D531A 03E8
+
+[KV5\Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801C25E2 03E8
+
+[Menkaure's Pyramid\Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801BDCBE 03E8
+
+[Pharos, Temple Of Isis\Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801C865A 03E8
+
+[Race For The Iris\Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801C6012 03E8
+
+[Race For The Iris\Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800B3418 0000
+
+[Sacred Lake\Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801B3AD2 03E8
+
+[Street Bazaar\Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801C2B62 03E8
+
+[Temple Of Horus\Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801CE72A 03E8
+
+[Temple Of Horus (Final Battle)\Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801C52CE 03E8
+
+[Temple Of Karnak\Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801D1E9E 03E8
+
+[Temple Of Poseidon\Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801C0A4A 03E8
+
+[The Great Hypostyle Hall\Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801CF552 03E8
+
+[The Great Pyramid\Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801C557E 03E8
+
+[The Lost Library\Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801DDCB2 03E8
+
+[The Mastabas\Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801D291A 03E8
+
+[The Sphinx Complex\Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801C1EAE 03E8
+
+[The Tomb Of Seth\Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801C8DAE 03E8
+
+[Infinite Flares]
+Type = Gameshark
+Activation = EndFrame
+800AC440 FFFF
+
+[Always Use Flare .With this code, press the flare button or R2, + it gives you infinite flares.]
+Type = Gameshark
+Activation = EndFrame
+D00AB146 FDFF
+800AC2FC 0007
+
+[Have Crossbow + LaserSight]
+Type = Gameshark
+Activation = EndFrame
+300AC417 00FF
+
+[Have Grenade Gun]
+Type = Gameshark
+Activation = EndFrame
+300AC418 00FF
+
+[Have LaserSight]
+Type = Gameshark
+Activation = EndFrame
+300AC41A 0001
+
+[Have Pistols]
+Type = Gameshark
+Activation = EndFrame
+300AC414 00FF
+
+[Have Revolver + LaserSight]
+Type = Gameshark
+Activation = EndFrame
+300AC419 00FF
+
+[Have Shotgun]
+Type = Gameshark
+Activation = EndFrame
+300AC416 00FF
+
+[Have Uzi]
+Type = Gameshark
+Activation = EndFrame
+300AC415 00FF
+
+[Infinite Revolver Ammo]
+Type = Gameshark
+Activation = EndFrame
+800AC446 FFFF
+
+[Infinite Shotgun Ammo]
+Type = Gameshark
+Activation = EndFrame
+800AA322 FFFF
+
+[Infinite Super Grenade Ammo]
+Type = Gameshark
+Activation = EndFrame
+800AC44E FFFF
+
+[Infinite Uzi Ammo]
+Type = Gameshark
+Activation = EndFrame
+800AC444 FFFF
+
+[Stage Select With this code, at the title screen press L1+L2+R1+R2 V.1.1]
+Type = Gameshark
+Activation = EndFrame
+D00AA3BA F0FF
+800A6DD2 0200
+
+[Infinite Air v1.1]
+Type = Gameshark
+Activation = EndFrame
+800AB5B2 0708
+
+[Infinite Air (Alternate) v1.1]
+Type = Gameshark
+Activation = EndFrame
+800A7FFC 0708
+
+[Infinite Health (All Levels) v1.1]
+Type = Gameshark
+Activation = EndFrame
+90007600 3C01000B
+90007604 8C218000
+90007608 340203E8
+9000760C 0801D96E
+90007610 A4220022
+D006D4CC FC4A
+9006D4C8 0C001D80
+
+[Infinite Energy Alexandria v1.1]
+Type = Gameshark
+Activation = EndFrame
+801B8EDA 03E8
+
+[Infinite Large Medipack v1.1]
+Type = Gameshark
+Activation = EndFrame
+800AB6E2 FFFF
+
+[lways Use Flare .With this code, press the flare button or R2, + it gives you infinite flares V1.1]
+Type = Gameshark
+Activation = EndFrame
+D00AA3BA FDFF
+800AB5A0 0007
+
+[Infinite Health (Distant Attacks)V1.1]
+Type = Gameshark
+Activation = EndFrame
+D00395C4 0022
+800395C6 2400
+

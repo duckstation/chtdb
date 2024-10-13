@@ -1,0 +1,22 @@
+; CHTDB: ; [ Iron Man / X-O Manowar in Heavy Metal (Europe) {SLES-00281} ]
+
+[Infinite Uni-Ray]
+Type = Gameshark
+Activation = EndFrame
+800AC8B0 0010
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+80098178 0020
+
+[All Weapons, Infinite Lives, Last Level]
+Type = Gameshark
+Activation = EndFrame
+800984C8 00FF
+800AC12C 00FF
+800AC134 00FF
+800AC146 007F
+800ACDE4 00FF
+800ACE20 007F
+

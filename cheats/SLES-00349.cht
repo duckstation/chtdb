@@ -1,0 +1,22 @@
+; CHTDB: ; [ Blam! Machinehead (Europe) {SLES-00349} ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800BF3A8 00FF
+
+[Infinite Rockets]
+Type = Gameshark
+Activation = EndFrame
+800C1EC0 0063
+
+[Infinite Homing Missiles]
+Type = Gameshark
+Activation = EndFrame
+800C1EBC 0063
+
+[Infinite Flamethrower]
+Type = Gameshark
+Activation = EndFrame
+800C1EB8 00FA
+

@@ -1,0 +1,107 @@
+; CHTDB: ; [ Hoshigami - Ruining Blue Earth (USA) (2001) (Atlus U.S.A.) {SLUS-01375} <hoshigam> ]
+
+[Infinite HP Character 1-Hero]
+Type = Gameshark
+Activation = EndFrame
+80097630 270F
+8009763C 270F
+
+[Infinite HP Romleth]
+Type = Gameshark
+Activation = EndFrame
+80097B88 0134
+
+[Infinite HP Character 2]
+Type = Gameshark
+Activation = EndFrame
+800976C8 270F
+
+[Infinite HP Character 3]
+Type = Gameshark
+Activation = EndFrame
+80097760 270F
+
+[Infinite HP Character 4]
+Type = Gameshark
+Activation = EndFrame
+800977F8 270F
+
+[Infinite HP Character 5]
+Type = Gameshark
+Activation = EndFrame
+80097890 270F
+
+[Infinite HP Character 6]
+Type = Gameshark
+Activation = EndFrame
+80097928 270F
+
+[Infinite HP Character 7]
+Type = Gameshark
+Activation = EndFrame
+800979C0 270F
+
+[Infinite HP Character 8]
+Type = Gameshark
+Activation = EndFrame
+80097A58 270F
+
+[Infinite HP Character 9]
+Type = Gameshark
+Activation = EndFrame
+80097AF0 270F
+
+[Infinite HP Character 10]
+Type = Gameshark
+Activation = EndFrame
+800C4B4E 0046
+
+[Infinite HP Character 11]
+Type = Gameshark
+Activation = EndFrame
+80097C20 270F
+80097C2C 270F
+
+[Infinite HP Character 12]
+Type = Gameshark
+Activation = EndFrame
+80097CB8 270F
+
+[Infinite HP Character 13]
+Type = Gameshark
+Activation = EndFrame
+80097D50 270F
+
+[Infinite HP Character 14]
+Type = Gameshark
+Activation = EndFrame
+80097DE8 270F
+
+[Infinite HP Character 15]
+Type = Gameshark
+Activation = EndFrame
+80097E80 270F
+
+[Infinite HP Character 16]
+Type = Gameshark
+Activation = EndFrame
+80097F18 270F
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+800988D0 EA60
+
+[Press Select To Kill 11 Enemies (DO NOT use during battles where you must #rescue# someone)]
+Type = Gameshark
+Activation = EndFrame
+C00DA1B2 FFFE
+80097C20 0000
+80097CB8 0000
+80097D50 0000
+80097DE8 0000
+80097E80 0000
+80097F18 0000
+80097FB0 0000
+00000000 FFFF
+

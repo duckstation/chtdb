@@ -1,0 +1,27 @@
+; CHTDB: ; [ Flying Squadron (Europe) {SLES-04156} ]
+
+[Infinite Missles]
+Type = Gameshark
+Activation = EndFrame
+80088A34 0063
+
+[Infinite Bullets]
+Type = Gameshark
+Activation = EndFrame
+80088A30 03E7
+
+[Infinite Fuel]
+Type = Gameshark
+Activation = EndFrame
+80088A00 0E10
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80088A1A 0009
+
+[Lots Of Pts]
+Type = Gameshark
+Activation = EndFrame
+90079B50 00FFFFFF
+

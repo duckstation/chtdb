@@ -1,0 +1,52 @@
+; CHTDB: ; [ Jackie Chan Stuntmaster (USA) (2000) (Midway Home Entertainment) {SLUS-00684} <jchan> ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80129230 000A
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80128FB4 00C8
+
+[All Reds And Gold Dragons]
+Type = Gameshark
+Activation = EndFrame
+50000F10 0000
+300E70E1 000A
+
+[Unlock All Paths]
+Type = Gameshark
+Activation = EndFrame
+50000E10 0000
+800E70E4 FFFF
+
+[Enable Bonus Movie Cheat]
+Type = Gameshark
+Activation = EndFrame
+8004FCAA 2400
+
+[Enable Level + Dragon Unlock Cheat]
+Type = Gameshark
+Activation = EndFrame
+8004FD02 2400
+
+[Enable Level Select Cheat]
+Type = Gameshark
+Activation = EndFrame
+8004FCCE 2400
+
+[Widescreen hack]
+Type = Gameshark
+Activation = EndFrame
+A7073FBA 0C022400
+A7073EEA 0C022400
+
+[Walk through walls "Press L3 to toggle on/off"]
+Type = Gameshark
+Activation = EndFrame
+D7010001 01000200
+F5092386 14401000
+F507B846 10E01000
+

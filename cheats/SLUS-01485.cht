@@ -1,0 +1,66 @@
+; CHTDB: ; [ Tony Hawk's Pro Skater 4 (USA) (2002) (Activision) {SLUS-01485} <thps4> ]
+
+[Unlock Slow Nic]
+Type = Gameshark
+Activation = EndFrame
+800BF8E4 FFFF
+
+[Unlock Kid Mode]
+Type = Gameshark
+Activation = EndFrame
+800BF8E8 FFFF
+
+[Unlock Always Special]
+Type = Gameshark
+Activation = EndFrame
+800BF8EC FFFF
+
+[Unlock Perfect Balance]
+Type = Gameshark
+Activation = EndFrame
+800BF8F0 FFFF
+
+[Unlock All Fmv + Pro Career]
+Type = Gameshark
+Activation = EndFrame
+800BEEE0 FFFF
+800BFCAC FFFF
+800BE396 FFFF
+800BE3AE FFFF
+
+[Tony Hawk Infinite Stats Points]
+Type = Gameshark
+Activation = EndFrame
+800BE388 FF00
+
+[Skater 1 Create Infinite Points]
+Type = Gameshark
+Activation = EndFrame
+800BFA04 7F20
+
+[Skater 2]
+Type = Gameshark
+Activation = EndFrame
+800BFA84 7F20
+
+[Skater 3]
+Type = Gameshark
+Activation = EndFrame
+800BFB04 7F20
+
+[Hella Score Gain]
+Type = Gameshark
+Activation = EndFrame
+901E1708 05F5E0FF
+
+[Quick Score Gain]
+Type = Gameshark
+Activation = EndFrame
+801E1708 FFFF
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+A70DA240 10000400
+A70DA244 19990666
+

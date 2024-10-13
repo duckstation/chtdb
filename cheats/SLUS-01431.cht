@@ -1,0 +1,12 @@
+; CHTDB: ; [ All-Star Slammin' D-Ball (USA) (2002) (Agetec) {SLUS-01431} <asdball> ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+8008B8F0 0F00
+
+[Unlock Elements]
+Type = Gameshark
+Activation = EndFrame
+80073AFA FFFF
+

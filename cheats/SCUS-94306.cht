@@ -1,0 +1,143 @@
+; CHTDB: ; [ Twisted Metal 2 (USA) (1996) (Sony Computer Entertainment America) {SCUS-94306} <twistmt2> ]
+
+[Extra Vehicles Available]
+Type = Gameshark
+Activation = EndFrame
+80180D04 0101
+
+[P1 Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+80187D00 0096
+
+[P1 Infinite Turbos]
+Type = Gameshark
+Activation = EndFrame
+8018830A 00C8
+
+[P1 Infinite Napalm]
+Type = Gameshark
+Activation = EndFrame
+801882F0 0009
+
+[P1 Infinite Specials]
+Type = Gameshark
+Activation = EndFrame
+801882E6 0009
+
+[P1 Infinite Power Missiles]
+Type = Gameshark
+Activation = EndFrame
+801882EE 0009
+
+[P1 Infinite Homing Missiles]
+Type = Gameshark
+Activation = EndFrame
+801882EA 0009
+
+[P1 Infinite Fire Missiles]
+Type = Gameshark
+Activation = EndFrame
+801882E8 0009
+
+[P1 Infinite Lightning]
+Type = Gameshark
+Activation = EndFrame
+801882F4 0009
+
+[P1 Infinite Remote Bombs]
+Type = Gameshark
+Activation = EndFrame
+801882EC 0009
+
+[P1 Infinite Ricochet Bombs]
+Type = Gameshark
+Activation = EndFrame
+801882F2 0009
+
+[P1 All Infinite Weapons]
+Type = Gameshark
+Activation = EndFrame
+801882DA 0F0F
+
+[P1 Rapid Fire]
+Type = Gameshark
+Activation = EndFrame
+801882FE 0000
+
+[P1 Infinite Energy Bar]
+Description = Advanced Attacks
+Type = Gameshark
+Activation = EndFrame
+80188308 0400
+
+[P2 Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+80188514 0090
+
+[P2 Infinite Turbos]
+Type = Gameshark
+Activation = EndFrame
+80188B1E 00C8
+
+[P2 Infinite Napalm]
+Type = Gameshark
+Activation = EndFrame
+80188B04 0009
+
+[P2 Infinite Specials]
+Type = Gameshark
+Activation = EndFrame
+80188AFA 0009
+
+[P2 Infinite Fire Missiles]
+Type = Gameshark
+Activation = EndFrame
+80188AFC 0009
+
+[P2 Infinite Homing Missiles]
+Type = Gameshark
+Activation = EndFrame
+80188AFE 0009
+
+[P2 Infinite Power Missiles]
+Type = Gameshark
+Activation = EndFrame
+80188B02 0009
+
+[P2 Infinite Lightning]
+Type = Gameshark
+Activation = EndFrame
+80188B08 0009
+
+[P2 Infinite Remote Bombs]
+Type = Gameshark
+Activation = EndFrame
+80188B00 0009
+
+[P2 Infinite Ricochet Bombs]
+Type = Gameshark
+Activation = EndFrame
+80188B06 0009
+
+[P2 All Infinite Weapons]
+Type = Gameshark
+Activation = EndFrame
+80188AEE 0F0F
+
+[P2 Rapid Fire]
+Type = Gameshark
+Activation = EndFrame
+80188B12 0000
+
+[P2 Infinite Energy Bar]
+Description = Advanced Attacks
+Type = Gameshark
+Activation = EndFrame
+80188B1C 0400
+;#Infinite Energy
+;80187D00 006E
+;#Widescreen 16-9
+;A717ECCC 10000C00
+

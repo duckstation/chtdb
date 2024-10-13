@@ -1,0 +1,12 @@
+; CHTDB: ; [ Pro Pinball: The Web (Europe) {SLES-00259} ]
+
+[P1 Infinite Ball]
+Type = Gameshark
+Activation = EndFrame
+80063DD4 0001
+
+[Infinite Ball Saver]
+Type = Gameshark
+Activation = EndFrame
+8005EBC6 0007
+

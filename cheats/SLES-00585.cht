@@ -1,0 +1,157 @@
+; CHTDB: ; [ Star Wars: Dark Forces (Europe) {SLES-00585} ]
+
+[Infinite Shield]
+Type = Gameshark
+Activation = EndFrame
+800953AC 00C8
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800953B0 00C8
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800952A8 0003
+
+[Infinite Ammo Pistol]
+Type = Gameshark
+Activation = EndFrame
+8009538C 03E7
+
+[Infinite Ammo Repeater Gun]
+Type = Gameshark
+Activation = EndFrame
+80095390 03E7
+
+[Ammo Assault Cannon]
+Type = Gameshark
+Activation = EndFrame
+80095394 03E7
+
+[Ammo Packered Mortar Gun]
+Type = Gameshark
+Activation = EndFrame
+8009539C 03E7
+
+[Thermal Detonators]
+Type = Gameshark
+Activation = EndFrame
+80095398 03E7
+
+[Im Mines]
+Type = Gameshark
+Activation = EndFrame
+800953A0 03E7
+
+[Storm Trooper Laser Rifle]
+Type = Gameshark
+Activation = EndFrame
+80095320 FFFF
+
+[Imperial Repeater Gun]
+Type = Gameshark
+Activation = EndFrame
+80095324 FFFF
+
+[Packered Mortar Gun]
+Type = Gameshark
+Activation = EndFrame
+80095328 FFFF
+
+[Jeron Fusion Cutter]
+Type = Gameshark
+Activation = EndFrame
+8009532C FFFF
+
+[Stocker Con-Cussion Rifle]
+Type = Gameshark
+Activation = EndFrame
+80095330 FFFF
+
+[Assault Cannon]
+Type = Gameshark
+Activation = EndFrame
+80095334 FFFF
+
+[Access All Missions]
+Type = Gameshark
+Activation = EndFrame
+8001029C 000E
+
+[Always Have Red Key]
+Type = Gameshark
+Activation = EndFrame
+80095338 FFFF
+
+[Always Have Yellow Key]
+Type = Gameshark
+Activation = EndFrame
+8009533C FFFF
+
+[Always Have Blue Key]
+Type = Gameshark
+Activation = EndFrame
+80095340 FFFF
+
+[Always Have Ir Goggles]
+Type = Gameshark
+Activation = EndFrame
+80095344 FFFF
+
+[Always Have Ice Cleats]
+Type = Gameshark
+Activation = EndFrame
+80095348 FFFF
+
+[Always Have Gas Mask]
+Type = Gameshark
+Activation = EndFrame
+8009534C FFFF
+
+[Always Have Death Star Plans]
+Type = Gameshark
+Activation = EndFrame
+80095350 FFFF
+
+[Always Have Phrih Metal]
+Type = Gameshark
+Activation = EndFrame
+80095354 FFFF
+
+[Always Have Data Type]
+Type = Gameshark
+Activation = EndFrame
+80095358 FFFF
+
+[Always Have Broken Dt Weapon]
+Type = Gameshark
+Activation = EndFrame
+80095364 FFFF
+
+[Always Have Code 1]
+Type = Gameshark
+Activation = EndFrame
+80095368 FFFF
+
+[Always Have Code 2]
+Type = Gameshark
+Activation = EndFrame
+8009536C FFFF
+
+[Always Have Code 3]
+Type = Gameshark
+Activation = EndFrame
+80095370 FFFF
+
+[Always Have Code 4]
+Type = Gameshark
+Activation = EndFrame
+80095374 FFFF
+
+[Always Have Nava Card]
+Type = Gameshark
+Activation = EndFrame
+80095360 FFFF
+

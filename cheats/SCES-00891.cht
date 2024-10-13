@@ -1,0 +1,7 @@
+; CHTDB: ; [ Disney's Action Game featuring Hercules (Europe) {SCES-00891} ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80034DBC 0080
+

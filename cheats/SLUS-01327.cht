@@ -1,0 +1,60 @@
+; CHTDB: ; [ Army Men - World War - Final Front (USA) (2001) (The 3DO Company) {SLUS-01327} <amenffrn> ]
+
+[Always have Bazooka]
+Type = Gameshark
+Activation = EndFrame
+300F0958 0063
+
+[Always have Binoculars]
+Type = Gameshark
+Activation = EndFrame
+300F095F 0001
+
+[Always have Dynamite]
+Type = Gameshark
+Activation = EndFrame
+300F095B 0063
+
+[Always have Flamethrower]
+Type = Gameshark
+Activation = EndFrame
+300F0959 0063
+
+[Always have Grenades]
+Type = Gameshark
+Activation = EndFrame
+300F0956 0063
+
+[Always have Land Mine]
+Type = Gameshark
+Activation = EndFrame
+300F095C 0063
+
+[Always have Machine Gun]
+Type = Gameshark
+Activation = EndFrame
+300F095A 0063
+
+[Always have Medpaks]
+Type = Gameshark
+Activation = EndFrame
+300F095D 0063
+
+[Always have Mine Detector]
+Type = Gameshark
+Activation = EndFrame
+300F095E 0001
+
+[Always have Rocket Launcher]
+Type = Gameshark
+Activation = EndFrame
+300F0957 0063
+
+[Infinite Health (Enemies Too)]
+Type = Gameshark
+Activation = EndFrame
+D0058AE8 0040
+80058AEE 2400
+D00591DC 6480
+800591E2 2400
+

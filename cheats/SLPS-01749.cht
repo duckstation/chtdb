@@ -1,0 +1,54 @@
+; CHTDB: ; [ Lunatic Dawn III (Jpn) (1998) (Artdink) {SLPS-01749} <ldawn3> ]
+
+[Infinite + Max HP 65535]
+Type = Gameshark
+Activation = EndFrame
+800ED31C FFFF
+800ED320 FFFF
+
+[Infinite + Max MP 65535]
+Type = Gameshark
+Activation = EndFrame
+800ED31E FFFF
+800ED322 FFFF
+
+[Attack Lv255]
+Type = Gameshark
+Activation = EndFrame
+300ED324 00FF
+
+[Defense Lv255]
+Type = Gameshark
+Activation = EndFrame
+300ED325 00FF
+
+[Magic Lv255]
+Type = Gameshark
+Activation = EndFrame
+300ED326 00FF
+
+[Agility Lv255]
+Type = Gameshark
+Activation = EndFrame
+300ED327 00FF
+
+[Money 999999G]
+Type = Gameshark
+Activation = EndFrame
+900ED36C 000F423F
+
+[(No effect, reflected in when it is down the stairs at the time of entering the dungeon) Number of stories in the ring gate Dungeon current Home World]
+Type = Gameshark
+Activation = EndFrame
+800E3058 03E6
+
+[Imperial Calvi favorite meal]
+Type = Gameshark
+Activation = EndFrame
+900ED338 E38FC193
+900ED33C 8B834A83
+900ED340 E8927283
+900ED344 448D4890
+900ED348 82CCAB82
+300ED34C 0000
+

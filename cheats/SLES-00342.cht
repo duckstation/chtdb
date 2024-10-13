@@ -1,0 +1,64 @@
+; CHTDB: ; [ In the Hunt (Europe) {SLES-00342} ]
+
+[Stop Timer]
+Type = Gameshark
+Activation = EndFrame
+8007BD2A 0063
+
+[Never Frozen]
+Type = Gameshark
+Activation = EndFrame
+A607BE74 00010000
+
+[P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800DB6C0 0003
+
+[P1 Infinite Continues]
+Type = Gameshark
+Activation = EndFrame
+8007BE9C 0005
+
+[P1 Start With High Score]
+Type = Gameshark
+Activation = EndFrame
+A6131C00 0064EA60
+
+[P1 Have 99 Treasure Balls Push Select]
+Type = Gameshark
+Activation = EndFrame
+D007BE48 0100
+800DB6C2 0063
+
+[P1 Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800959C2 0101
+
+[P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800DB6F2 0005
+
+[P2 Infinite Continues]
+Type = Gameshark
+Activation = EndFrame
+8007BE9E 0005
+
+[P2 Have 99 Treasure Balls Push Select]
+Type = Gameshark
+Activation = EndFrame
+D007BE4A 0100
+800DB6F4 0063
+
+[P2 Invincibility]
+Type = Gameshark
+Activation = EndFrame
+8009587E 0201
+
+[P2 Start With High Score]
+Type = Gameshark
+Activation = EndFrame
+A6131C14 0064EA60
+

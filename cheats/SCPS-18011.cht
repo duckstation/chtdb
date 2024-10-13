@@ -1,0 +1,25 @@
+; CHTDB: ; [ Um Jammer Lammy (Japan) {SCPS-18011} ]
+
+[Scoring & 9,999 Point (Press Circle)]
+Type = Gameshark
+Activation = EndFrame
+D007885E 0020
+80071CD8 270F
+
+[P1 High Score]
+Type = Gameshark
+Activation = EndFrame
+80071DBC 7FFF
+
+[Always cool]
+Type = Gameshark
+Activation = EndFrame
+30071DC0 0000
+
+[All Stage Selection]
+Type = Gameshark
+Activation = EndFrame
+301A5329 0001
+801A532A 3F3F
+901A532C 3F3F3F3F
+

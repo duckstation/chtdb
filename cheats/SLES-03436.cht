@@ -1,0 +1,123 @@
+; CHTDB: ; [ Digimon World (Spain) {SLES-03436} ]
+
+[HP y MP al Máximo]
+Type = Gameshark
+Activation = EndFrame
+9016D3E0 270F270F
+
+[Ata, Vel, Def, Int al Máximo]
+Type = Gameshark
+Activation = EndFrame
+9016D3D0 03E703E7
+9016D3D4 03E703E7
+
+[HP Infinito]
+Type = Gameshark
+Activation = EndFrame
+8016D3E4 270F
+8016D3E0 270F
+
+[MP Infinito]
+Type = Gameshark
+Activation = EndFrame
+8016D3E6 270F
+8016D3E2 270F
+
+[Felicidad Al Máximo]
+Type = Gameshark
+Activation = EndFrame
+801405F2 0064
+
+[Disciplina al Máximo]
+Type = Gameshark
+Activation = EndFrame
+801405F0 0000
+
+[Valor de Dinero en 999999]
+Type = Gameshark
+Activation = EndFrame
+8013CC2C 423F
+8013CC2E 000F
+
+[Habilitar Todos los Ataques del Digimon]
+Type = Gameshark
+Activation = EndFrame
+9016D3F0 FFFFFFFF
+9016D3F4 FFFFFFFF
+
+[Desbloquear Todos los Objetos en el Banco]
+Type = Gameshark
+Activation = EndFrame
+50007401 0000
+3015954C 00ff
+
+[Cambiar el Estado del Digimon a Sueño (Zzz)]
+Type = Gameshark
+Activation = EndFrame
+301405C8 0001
+
+[Cambiar el Estado del Digimon a Cansado (Sudor)]
+Type = Gameshark
+Activation = EndFrame
+301405C8 0002
+
+[Cambiar el Estado del Digimon a Hambriento (Carne)]
+Type = Gameshark
+Activation = EndFrame
+301405C8 0004
+
+[Cambiar el Estado del Digimon a Defecar (Caca)]
+Type = Gameshark
+Activation = EndFrame
+301405C8 0008
+
+[Cambiar el Estado del Digimon a Herido (Vendas)]
+Type = Gameshark
+Activation = EndFrame
+301405C8 0020
+
+[Cambiar el Estado del Digimon a Enfermo (Jeringa)]
+Type = Gameshark
+Activation = EndFrame
+301405C8 0040
+
+[Todos los Estados del Digimon Alterados]
+Type = Gameshark
+Activation = EndFrame
+301405C8 007F
+
+[Parámetros al Entrenar]
+Type = Gameshark
+Activation = EndFrame
+301455D0 0064
+301455D2 0064
+301455D4 000A
+301455D6 000A
+301455D8 000A
+301455DA 000A
+
+[Puntuación Perfecta en Curling de Digimon]
+Type = Gameshark
+Activation = EndFrame
+3005DAD8 000A
+
+[Puntuación de 7000 en la Tienda de Monochromon]
+Type = Gameshark
+Activation = EndFrame
+8013CB10 1B58
+
+[No Virus]
+Type = Gameshark
+Activation = EndFrame
+801405EC 0000
+
+[Access All Cards (Card List)]
+Type = Gameshark
+Activation = EndFrame
+800BF696 2400
+
+[Access All Digimon (Chart)]
+Type = Gameshark
+Activation = EndFrame
+800BF1C6 2400
+

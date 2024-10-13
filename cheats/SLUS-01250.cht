@@ -1,0 +1,94 @@
+; CHTDB: ; [ Spin Jam (USA) (2000) (Empire Interactive Entertainment) {SLUS-01250} <spinjam> ]
+
+[Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+8007307E 040B
+
+[Unlock All Levels]
+Type = Gameshark
+Activation = EndFrame
+50000802 0000
+8005F110 0101
+
+[Unlock All Levels Alt]
+Type = Gameshark
+Activation = EndFrame
+9005F110 01010101
+9005F114 01010101
+9005F118 01010101
+9005F11C 01010101
+
+[Unlock All Galleries]
+Type = Gameshark
+Activation = EndFrame
+50000B0C 0000
+8006B3FA 0A04
+
+[Start on Last Level (Arcade)]
+Type = Gameshark
+Activation = EndFrame
+A6073240 00000063
+
+[Baby Bot-Gallery Completed]
+Type = Gameshark
+Activation = EndFrame
+8006B3FA 0A04
+
+[Lemon-Gallery Completed]
+Type = Gameshark
+Activation = EndFrame
+8006B412 0A04
+
+[Nips-Gallery Completed]
+Type = Gameshark
+Activation = EndFrame
+8006B41E 0A04
+
+[Booger-Gallery Completed]
+Type = Gameshark
+Activation = EndFrame
+8006B42A 0A04
+
+[Gilly-Gallery Completed]
+Type = Gameshark
+Activation = EndFrame
+8006B436 0A04
+
+[Poppy-Gallery Completed]
+Type = Gameshark
+Activation = EndFrame
+8006B442 0A04
+
+[Wigsey-Gallery Completed]
+Type = Gameshark
+Activation = EndFrame
+8006B44E 0A04
+
+[Aqualad-Gallery Completed]
+Type = Gameshark
+Activation = EndFrame
+8006B45A 0A04
+
+[Innit - Gallery Completed]
+Type = Gameshark
+Activation = EndFrame
+8006B466 0A04
+
+[Baby - Gallery Completed]
+Type = Gameshark
+Activation = EndFrame
+8006B470 0A04
+
+[Moolamb - Gallery Completed]
+Type = Gameshark
+Activation = EndFrame
+8006B406 0A04
+
+[Unlock All Characters]
+Type = Gameshark
+Activation = EndFrame
+3006DF45 0001
+3006DF4D 0001
+3006DF4E 0001
+

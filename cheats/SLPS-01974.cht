@@ -1,0 +1,8 @@
+; CHTDB: ; [ Restaurant Dream (Japan) {SLPS-01974} ]
+
+[Have 999999 money]
+Type = Gameshark
+Activation = EndFrame
+3008F1FC 423F
+3008F1FE 000F
+

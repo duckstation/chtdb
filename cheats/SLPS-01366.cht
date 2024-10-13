@@ -1,0 +1,16 @@
+; CHTDB: ; [ Shin Nihon Pro Wrestling: Toukon Retsuden 3 (Japan) {SLPS-01366} ]
+
+[Infinite Points For Creating Character (Select + L2 to Get Points) (Select + R2 to Get Zero)]
+Type = Gameshark
+Activation = EndFrame
+D00C2C1C 0101
+800C6B6A 03E7
+D00C2C1C 0102
+800C6B6A 0000
+
+[Use Secret Character]
+Type = Gameshark
+Activation = EndFrame
+800BBD36 0101
+800BBD38 0101
+

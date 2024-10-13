@@ -1,0 +1,98 @@
+; CHTDB: ; [ Battle Arena Toshinden 3 (Europe) {SCES-00700} ]
+
+[Enable Zola]
+Type = Gameshark
+Activation = EndFrame
+3017D29C 0001
+
+[Enable Adam]
+Type = Gameshark
+Activation = EndFrame
+3017D29E 0001
+
+[Enable Cuiling]
+Type = Gameshark
+Activation = EndFrame
+3017D2A0 0001
+
+[Enable Toujin]
+Type = Gameshark
+Activation = EndFrame
+3017D2A2 0001
+
+[Enable Balga]
+Type = Gameshark
+Activation = EndFrame
+3017D2A4 0001
+
+[Enable Atahua]
+Type = Gameshark
+Activation = EndFrame
+3017D2A6 0001
+
+[Enable Tau]
+Type = Gameshark
+Activation = EndFrame
+3017D2A8 0001
+
+[Enable Rachael]
+Type = Gameshark
+Activation = EndFrame
+3017D2AA 0001
+
+[Enable Schultz]
+Type = Gameshark
+Activation = EndFrame
+3017D2AC 0001
+
+[Enable Judgement]
+Type = Gameshark
+Activation = EndFrame
+3017D2AE 0001
+
+[Enable Vermilion]
+Type = Gameshark
+Activation = EndFrame
+3017D2B0 0001
+
+[Enable Miss Til]
+Type = Gameshark
+Activation = EndFrame
+3017D2B2 0001
+
+[Enable Sho]
+Type = Gameshark
+Activation = EndFrame
+3017D2B4 0001
+
+[Enable Abel]
+Type = Gameshark
+Activation = EndFrame
+3017D2B6 0001
+
+[Enable Veil]
+Type = Gameshark
+Activation = EndFrame
+3017D2B8 0001
+
+[Enable Naru]
+Type = Gameshark
+Activation = EndFrame
+3017D2BA 0001
+
+[Enable Leon]
+Type = Gameshark
+Activation = EndFrame
+3017D298 0001
+
+[Enable Ten Count]
+Type = Gameshark
+Activation = EndFrame
+3017D29A 0001
+
+[All Characters Enabled]
+Type = Gameshark
+Activation = EndFrame
+50001202 0000
+8017D298 0001
+

@@ -1,0 +1,18 @@
+; CHTDB: ; [ All Star Tennis '99 (Europe) {SLES-01433} ]
+
+[P1 Begins With 30]
+Type = Gameshark
+Activation = EndFrame
+D01D5526 0000
+301D5526 0030
+
+[P1 Begins With 40]
+Type = Gameshark
+Activation = EndFrame
+301D5526 0040
+
+[P2 Can't Win]
+Type = Gameshark
+Activation = EndFrame
+301D5527 0000
+

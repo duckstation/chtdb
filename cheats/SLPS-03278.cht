@@ -1,0 +1,65 @@
+; CHTDB: ; [ Evergreen Avenue (Jpn) (2001) (MediaWorks / Datam Polystar) {SLPS-03278} <evergren> ]
+
+[All Gallery Illustrations]
+Type = Gameshark
+Activation = EndFrame
+90056C48 FFFFFFFF
+90056C4C FFFFFFFF
+30056C50 00FF
+
+[Flash] All Stats at Max]
+Type = Gameshark
+Activation = EndFrame
+800568FA FFFF
+90056BFC 03E70063
+80056BD8 FFFF
+80056BE8 0000
+
+[Ash All Stats at Max]
+Type = Gameshark
+Activation = EndFrame
+80056C02 FFFF
+90056C04 03E70063
+80056BDA FFFF
+80056BEA 0000
+
+[Rushieru] All Stats at Max]
+Type = Gameshark
+Activation = EndFrame
+80056C0A FFFF
+90056C0C 03E70063
+80056BDC FFFF
+80056BEC 0000
+
+[Peer All Stats at Max]
+Type = Gameshark
+Activation = EndFrame
+80056C12 FFFF
+90056C14 03E70063
+80056BDE FFFF
+80056BEE 0000
+
+[Merrill] All Stats at Max]
+Type = Gameshark
+Activation = EndFrame
+80056C1A FFFF
+90056C1C 03E70063
+80056BE0 FFFF
+80056BF0 0000
+
+[Illumina All Stats at Max]
+Type = Gameshark
+Activation = EndFrame
+80056C22 FFFF
+90056C24 03E70063
+80056BE2 FFFF
+80056BF2 0000
+
+[Faye All Stats at Max]
+Type = Gameshark
+Activation = EndFrame
+80056C2A FFFF
+90056C2C 03E70063
+80056BE4 FFFF
+80056BF4 0000
+

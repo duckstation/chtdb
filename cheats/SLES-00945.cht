@@ -1,0 +1,42 @@
+; CHTDB: ; [ Monopoly (Europe) {SLES-00945} ]
+
+[P1 Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+800DA60C FFFF
+
+[P2 Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+800DA63C FFFF
+
+[P3 Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+800DA66C FFFF
+
+[P4 Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+800DA69C FFFF
+
+[P1 1 Trillion Dollars]
+Type = Gameshark
+Activation = EndFrame
+800DA60E 3B98
+
+[P2 1 Trillion Dollars]
+Type = Gameshark
+Activation = EndFrame
+800DA63E 3B98
+
+[P3 1 Trillion Dollars]
+Type = Gameshark
+Activation = EndFrame
+800DA66E 3B98
+
+[P4 1 Trillion Dollars]
+Type = Gameshark
+Activation = EndFrame
+800DA69C 3B98
+

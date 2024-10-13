@@ -1,0 +1,7 @@
+; CHTDB: ; [ Command & Conquer (USA) (1997) (Virgin Interactive Entertainment) {SLUS-00379 / SLUS-00410} <cnc> ]
+
+[Infinite Money (GDI Disc Only)]
+Type = Gameshark
+Activation = EndFrame
+8011B964 FFFF
+

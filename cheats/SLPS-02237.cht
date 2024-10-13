@@ -1,0 +1,77 @@
+; CHTDB: ; [ Macross VF-X2 (Japan) {SLPS-02237} ]
+
+[Infinite Shield/Power]
+Type = Gameshark
+Activation = EndFrame
+800858A0 270F
+
+[0 Mission Time]
+Type = Gameshark
+Activation = EndFrame
+800844FC 0000
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+800840C8 270F
+80084088 270F
+80084048 270F
+800833CC 0064
+80084188 0005
+80084108 03E8
+80084148 03E8
+800841C8 03E8
+8008468C 000A
+800A6310 0064
+
+[Infinite Gun Pod]
+Type = Gameshark
+Activation = EndFrame
+80083288 270F
+
+[Score]
+Type = Gameshark
+Activation = EndFrame
+800844D8 FFFF
+
+[Infinite Chaff]
+Type = Gameshark
+Activation = EndFrame
+8008374C 270F
+
+[Unlock all fighters / gallery / BGV]
+Type = Gameshark
+Activation = EndFrame
+90084448 00010001
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+A601A01C 00010000
+
+[Level ON THE TOWN]
+Type = Gameshark
+Activation = EndFrame
+800759C0 000E
+80085908 000A
+
+[Fast Battle]
+Type = Gameshark
+Activation = EndFrame
+800785A0 0000
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A708E538 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A708E538 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A708E538 10000400
+

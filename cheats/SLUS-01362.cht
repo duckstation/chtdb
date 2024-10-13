@@ -1,0 +1,17 @@
+; CHTDB: ; [ Mary-Kate and Ashley - Winners Circle (USA) (2001) (Acclaim Entertainment) {SLUS-01362} <mnacircl> ]
+
+[Maximum Ribbons]
+Type = Gameshark
+Activation = EndFrame
+8009A870 270F
+
+[One Flag Needed To Victory]
+Type = Gameshark
+Activation = EndFrame
+A609A42A 00010012
+
+[One Horseshoe Needed To Have All]
+Type = Gameshark
+Activation = EndFrame
+A61FC9C4 0001001A
+

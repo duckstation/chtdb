@@ -1,0 +1,40 @@
+; CHTDB: ; [ Star Trek: Invasion (Europe) {SLES-02068} ]
+
+[Infinite Shield]
+Type = Gameshark
+Activation = EndFrame
+8005FE80 03E8
+
+[Infinite Shield II]
+Type = Gameshark
+Activation = EndFrame
+80060158 03E8
+
+[Infinite Shields Missions 10a, 13c and 14a]
+Type = Gameshark
+Activation = EndFrame
+8005FD14 7530
+
+[Infinite Shields Mission 13]
+Type = Gameshark
+Activation = EndFrame
+8005FFFE 03E8
+
+[Unlock all missions]
+Type = Gameshark
+Activation = EndFrame
+9005BE30 3FFFFFFF
+
+[All missions complete]
+Type = Gameshark
+Activation = EndFrame
+9005BE34 3FFFFFFF
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80060FAC 1494
+80061B0C 1494
+800620BC 1494
+80061284 1494
+

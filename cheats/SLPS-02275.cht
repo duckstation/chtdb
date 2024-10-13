@@ -1,0 +1,87 @@
+; CHTDB: ; [ Devil Man (Japan) {SLPS-02275} ]
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+80118E9C 0100
+
+[Extra game Press L2]
+Type = Gameshark
+Activation = EndFrame
+D00A004A FEFF
+80118294 0003
+
+[Akira Chapter 1 Life]
+Type = Gameshark
+Activation = EndFrame
+8010E8B4 0100
+
+[Akira Chapter 1 ST]
+Type = Gameshark
+Activation = EndFrame
+8010E8CA 0800
+
+[Door is opened without the key Item 99]
+Type = Gameshark
+Activation = EndFrame
+9009AD78 FFFFFFFF
+9009AD7C FFFFFFFF
+9009AD80 FFFFFFFF
+9009ADD8 63636363
+
+[Chapter Clear]
+Type = Gameshark
+Activation = EndFrame
+8009AD52 0001
+
+[Devilman Chapter 2 Life]
+Type = Gameshark
+Activation = EndFrame
+8010C110 4B00
+
+[Devilman Chapter 2 ST]
+Type = Gameshark
+Activation = EndFrame
+8010C118 2000
+
+[Silene Chapter 3Life]
+Type = Gameshark
+Activation = EndFrame
+8010CEB8 4B00
+
+[Silene Chapter 3 ST]
+Type = Gameshark
+Activation = EndFrame
+8010CEC0 2000
+
+[Not increase / save number of times does not increase time]
+Type = Gameshark
+Activation = EndFrame
+8009AEB8 0000
+9009ADCC 00000000
+
+[Select Chapter 1 Akira (SAVE DATA)]
+Type = Gameshark
+Activation = EndFrame
+8009ADF0 0001
+
+[Select Chapter 2 Devilman (SAVE DATA)]
+Type = Gameshark
+Activation = EndFrame
+8009ADF0 0002
+
+[Select Chapter 3 Silene (SAVE DATA)]
+Type = Gameshark
+Activation = EndFrame
+8009ADF0 0003
+
+[Select Chapter 4 Akira (SAVE DATA)]
+Type = Gameshark
+Activation = EndFrame
+8009ADF0 0004
+
+[Select Chapter 5 Devilman (SAVE DATA)]
+Type = Gameshark
+Activation = EndFrame
+8009ADF0 0005
+

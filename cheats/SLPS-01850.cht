@@ -1,0 +1,12 @@
+; CHTDB: ; [ Majokko Daisakusen - Little Witching Mischiefs (Jpn) (1999) (Bandai) {SLPS-01850} <majodais> ]
+
+[Max Mana]
+Type = Gameshark
+Activation = EndFrame
+800FDCB4 270F
+
+[Max Flying Gauge]
+Type = Gameshark
+Activation = EndFrame
+A604C536 A6222402
+

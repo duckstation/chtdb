@@ -1,0 +1,44 @@
+; CHTDB: ; [ Zutto Issho: With Me Everytime... (Japan) (Sample) {SLPS-01238} ]
+
+[Max stats]
+Type = Gameshark
+Activation = EndFrame
+800CC584 000A
+800CC588 000A
+800CC58C 000A
+800CC590 000A
+800CC594 0014
+
+[Have 99000 money]
+Type = Gameshark
+Activation = EndFrame
+800CC3AC 0063
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800CC604 000A
+
+[All women Max favorability]
+Type = Gameshark
+Activation = EndFrame
+8013D5B8 0007
+8013D5BC 0007
+8013D5C0 0007
+8013D5C4 0007
+8013D5C8 0007
+8013D5CC 0007
+8013D5D0 0007
+8013D5D4 0007
+8013D5D8 0007
+8013D5DC 0007
+8013D5E0 0007
+8013D5E4 0007
+
+[Men favorability Max]
+Type = Gameshark
+Activation = EndFrame
+8013D5E8 0002
+8013D5EC 0002
+8013D5F0 0002
+

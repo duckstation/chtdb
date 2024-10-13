@@ -1,0 +1,18 @@
+; CHTDB: ; [ Ape Escape: La InvasiÃ³n de los Monos (Spain) {SCES-02031} ]
+
+[Energia Infinita]
+Type = Gameshark
+Activation = EndFrame
+800EC398 0005
+
+[Oxigeno Infinito]
+Type = Gameshark
+Activation = EndFrame
+800F4E98 0255
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+D004689A 2484
+800AE820 0C00
+

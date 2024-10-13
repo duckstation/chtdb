@@ -1,0 +1,32 @@
+; CHTDB: ; [ NBA in the Zone 2000 (USA) (2000) (Konami of America) {SLUS-01028} <nbazon2k> ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+8009206C 3333
+
+[Select Home Team Score\100]
+Type = Gameshark
+Activation = EndFrame
+80092228 0064
+
+[Select Home Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+80092228 0000
+
+[Select Away Team Score\100]
+Type = Gameshark
+Activation = EndFrame
+8009245C 0064
+
+[Select Away Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+8009245C 0000
+
+[Infinite Creation Points]
+Type = Gameshark
+Activation = EndFrame
+80101180 0032
+

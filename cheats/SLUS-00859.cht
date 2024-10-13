@@ -1,0 +1,57 @@
+; CHTDB: ; [ The Dukes of Hazzard - Racing for Home (USA, Alt) (1999) (SouthPeak Interactive) {SLUS-00859GH} <hazzarda> ]
+
+[Infinite Body Damage]
+Type = Gameshark
+Activation = EndFrame
+D0057014 0630
+80057016 2400
+
+[Infinite Tire Damage]
+Type = Gameshark
+Activation = EndFrame
+D0056F8C 0074
+80056F8E 2400
+
+[Infinite Items On Pickup]
+Type = Gameshark
+Activation = EndFrame
+D00563B0 06F4
+800563B2 2400
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+D0066CCC 0414
+80066CCE 2400
+
+[Have All Levels]
+Type = Gameshark
+Activation = EndFrame
+8001921A FFFF
+
+[1 Part Needed To Fix The General LEE]
+Type = Gameshark
+Activation = EndFrame
+80089FB2 0505
+
+[1-Hit Destroys The 2 Bad Guys]
+Type = Gameshark
+Activation = EndFrame
+80176788 0451
+80177E08 0451
+
+[1-Hit Pulls Over Black Jack]
+Type = Gameshark
+Activation = EndFrame
+8010C284 0451
+
+[1-Hit Pulls Over Boss Hog]
+Type = Gameshark
+Activation = EndFrame
+8010E404 0451
+
+[1-Hit Pulls Over The Stolen General Lee]
+Type = Gameshark
+Activation = EndFrame
+8010C804 0451
+

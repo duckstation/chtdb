@@ -1,0 +1,7 @@
+; CHTDB: ; [ Namco Soccer Prime Goal (Europe) {SCES-00266} ]
+
+[Enemy team score 0]
+Type = Gameshark
+Activation = EndFrame
+800BEACD 0000
+

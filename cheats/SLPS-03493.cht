@@ -1,0 +1,33 @@
+; CHTDB: ; [ Ninpu Sentai Harikenger (Jpn) (2002) (Bandai) {SLPS-03493} <harikeng> ]
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80092AC0 0B00
+
+[P1 Max Special Attack]
+Type = Gameshark
+Activation = EndFrame
+80092AC3 0030
+
+[Infinite Health mecha stages]
+Type = Gameshark
+Activation = EndFrame
+801C1908 0AF0
+
+[P2 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80092AD2 0B00
+
+[P2 Max Gauge]
+Type = Gameshark
+Activation = EndFrame
+80092AD4 3000
+
+[Unlock Extras]
+Type = Gameshark
+Activation = EndFrame
+50000F02 0000
+80092CB4 0101
+

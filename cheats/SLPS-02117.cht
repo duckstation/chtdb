@@ -1,0 +1,50 @@
+; CHTDB: ; [ Spriggan: Lunar Verse (Japan) {SLPS-02117} ]
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+801DBD80 270F
+
+[Infinite EP]
+Type = Gameshark
+Activation = EndFrame
+801DBD84 0064
+
+[Max Hp]
+Type = Gameshark
+Activation = EndFrame
+801F4EB4 270F
+
+[Max Ep]
+Type = Gameshark
+Activation = EndFrame
+801F4EB8 0064
+
+[Infinite Bullets (99) .deactivate after send]
+Type = Gameshark
+Activation = EndFrame
+801EB5AC 0063
+
+[Power Max]
+Type = Gameshark
+Activation = EndFrame
+801EB6F4 0640
+
+[All Status Max]
+Type = Gameshark
+Activation = EndFrame
+901F4EA8 03E803E8
+901F4EAC 03E803E8
+801F4EB0 03E8
+
+[All Weapon & Armor]
+Type = Gameshark
+Activation = EndFrame
+901F69C4 FFFFFFFF
+801F69C8 FFFF
+
+[All Mission & Characters]
+Type = Gameshark
+Activation = EndFrame
+801F69C0 10FF
+

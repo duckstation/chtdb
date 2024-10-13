@@ -1,0 +1,38 @@
+; CHTDB: ; [ NASCAR 2000 (USA) (1999) (Electronic Arts) {SLUS-00962} <nascar2k> ]
+
+[Quick Win]
+Type = Gameshark
+Activation = EndFrame
+800BF9B8 0001
+A60F3046 00000001
+
+[Instant Finish First Turn off code at end of race to advance to the next race.]
+Type = Gameshark
+Activation = EndFrame
+800F3046 000B
+
+[All Cars Unlocked]
+Type = Gameshark
+Activation = EndFrame
+800BEF7A FFFF
+
+[Have Montana Track Unlocked]
+Type = Gameshark
+Activation = EndFrame
+800BEF5C 03FF
+
+[Have Race Against the King Complete]
+Type = Gameshark
+Activation = EndFrame
+800BEF5C FFFF
+
+[Infinite Fuel]
+Type = Gameshark
+Activation = EndFrame
+8006B842 2400
+
+[No Damage - Everyone]
+Type = Gameshark
+Activation = EndFrame
+80047906 2400
+

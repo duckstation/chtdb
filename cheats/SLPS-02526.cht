@@ -1,0 +1,75 @@
+; CHTDB: ; [ Spectral Blade (Jpn) (1999) (Idea Factory) {SLPS-02526} <spectbld> ]
+
+[Gold 99999]
+Type = Gameshark
+Activation = EndFrame
+900C249C 0001869F
+
+[Charactere 1 HP 999]
+Type = Gameshark
+Activation = EndFrame
+801C6FB6 03E7
+801C6FB8 03E7
+
+[Character 1 Level 99]
+Type = Gameshark
+Activation = EndFrame
+801C6FB4 0063
+
+[Character 1 Stats 255]
+Type = Gameshark
+Activation = EndFrame
+801C6FBA FFFF
+801C6FBC FFFF
+
+[Charactere 2 HP 999]
+Type = Gameshark
+Activation = EndFrame
+801C6FF2 03E7
+801C6FF4 03E7
+
+[Character 2 Level 99]
+Type = Gameshark
+Activation = EndFrame
+801C6FF0 0063
+
+[Character 2 Stats 255]
+Type = Gameshark
+Activation = EndFrame
+801C6FF6 FFFF
+801C6FF8 FFFF
+
+[Charactere 3 HP 999]
+Type = Gameshark
+Activation = EndFrame
+801C702E 03E7
+801C7030 03E7
+
+[Charactere 3 Stats 255]
+Type = Gameshark
+Activation = EndFrame
+801C7032 FFFF
+801C7034 FFFF
+
+[All items 99]
+Type = Gameshark
+Activation = EndFrame
+50003F02 0000
+90142974 63636300
+
+[Charactere 1 Infinite + Max HP in combat]
+Type = Gameshark
+Activation = EndFrame
+801C5B9E 03E7
+801C5BA0 03E7
+
+[No Random Battles]
+Type = Gameshark
+Activation = EndFrame
+800F8FDC 0000
+
+[None Encounter]
+Type = Gameshark
+Activation = EndFrame
+800F9188 0001
+

@@ -1,0 +1,30 @@
+; CHTDB: ; [ EA Sports Supercross (Europe) {SLES-03399} ]
+
+[Have 999 points in series]
+Type = Gameshark
+Activation = EndFrame
+800C2470 03E7
+
+[Unlock All series]
+Type = Gameshark
+Activation = EndFrame
+50000501 0000
+300C327A 0001
+
+[Unlock All Characters]
+Type = Gameshark
+Activation = EndFrame
+50000302 0000
+800C329A 0101
+300C32A5 0001
+50001A02 0000
+800C32A6 0101
+
+[Freestyle Get lots of points per trick]
+Type = Gameshark
+Activation = EndFrame
+D003DE3A AC62
+8003DE34 7530
+D003DE3A AC62
+8003DE36 2442
+

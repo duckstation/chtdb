@@ -1,0 +1,57 @@
+; CHTDB: ; [ Disney's The Lion King II - Simba's Mighty Adventure (USA) (2000) (Activision) {SLUS-01282} <lionkng2> ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+30074FB4 0006
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80074FB0 03FC
+
+[Infinite Time Matching]
+Type = Gameshark
+Activation = EndFrame
+A616DA20 00B300B4
+
+[Have All Coins Points]
+Type = Gameshark
+Activation = EndFrame
+8007992C 01F4
+
+[Have Simba]
+Type = Gameshark
+Activation = EndFrame
+300799B1 009F
+
+[All Levels Unlocked]
+Type = Gameshark
+Activation = EndFrame
+50000901 0000
+8007995E 0001
+
+[Cheats + Thanks Options Unlocked (Options)]
+Type = Gameshark
+Activation = EndFrame
+3009567D 0065
+3009567F 0008
+
+[Cheats Option Unlocked (Options)]
+Type = Gameshark
+Activation = EndFrame
+3009567D 0075
+3009567F 0007
+
+[Unlock All Mini Games]
+Type = Gameshark
+Activation = EndFrame
+50000301 0000
+30079968 0001
+
+[Have All Movies]
+Type = Gameshark
+Activation = EndFrame
+50000901 0000
+300799CA 0001
+

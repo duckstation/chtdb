@@ -1,0 +1,1040 @@
+; CHTDB: ; [ Armored Core - Master of Arena (USA) (2000) (Agetec) {SLUS-01030 / SLUS-01081} <armcomoa> ]
+
+[Infinite AP]
+Type = Gameshark
+Activation = EndFrame
+D007B7CA 1040
+801E73B0 9C3B
+
+[Max Credits]
+Type = Gameshark
+Activation = EndFrame
+9003EA74 05F5E0FF
+
+[Infinite + Max Ammo (All Weapons)]
+Type = Gameshark
+Activation = EndFrame
+8004547E 03E8
+80045480 03E8
+900454BC 03E803E8
+800454FA 03E8
+800454FC 03E8
+
+[Infinite Booster]
+Type = Gameshark
+Activation = EndFrame
+800451AE EA60
+
+[Arena-Infinite AP]
+Type = Gameshark
+Activation = EndFrame
+D007BBAE 1040
+801D8D70 9C3B
+
+[Arena-Quick Kill Enemy]
+Type = Gameshark
+Activation = EndFrame
+D007BBAE 1040
+801D8EE8 0000
+
+[Have All Head Parts]
+Type = Gameshark
+Activation = EndFrame
+50000702 0000
+80036FEC 0101
+30036FFA 0001
+
+[Have All Core Parts]
+Type = Gameshark
+Activation = EndFrame
+50000202 0000
+80036FFE 0101
+30037002 0001
+
+[Have Hd-01-Srut (Head)]
+Type = Gameshark
+Activation = EndFrame
+30036FEC 0001
+
+[Have Hd-2002 (Head)]
+Type = Gameshark
+Activation = EndFrame
+30036FED 0001
+
+[Have Hd-X1487 (Head)]
+Type = Gameshark
+Activation = EndFrame
+30036FEE 0001
+
+[Have Hd-Redeye (Head)]
+Type = Gameshark
+Activation = EndFrame
+30036FEF 0001
+
+[Have Hd-D-9066 (Head)]
+Type = Gameshark
+Activation = EndFrame
+30036FF0 0001
+
+[Have Hd-Gry-Nx (Head)]
+Type = Gameshark
+Activation = EndFrame
+30036FF1 0001
+
+[Have Hd-06-Radar (Head)]
+Type = Gameshark
+Activation = EndFrame
+30036FF2 0001
+
+[Have Hd-One (Head)]
+Type = Gameshark
+Activation = EndFrame
+30036FF3 0001
+
+[Have Hd-08-Dish (Head)]
+Type = Gameshark
+Activation = EndFrame
+30036FF4 0001
+
+[Have Hd-Zero (Head)]
+Type = Gameshark
+Activation = EndFrame
+30036FF5 0001
+
+[Have Hd-6780 (Head)]
+Type = Gameshark
+Activation = EndFrame
+30036FF6 0001
+
+[Have Hd-12-Radar (Head)]
+Type = Gameshark
+Activation = EndFrame
+30036FF7 0001
+
+[Have Hd-Helm (Head)]
+Type = Gameshark
+Activation = EndFrame
+30036FF8 0001
+
+[Have Hd-H10 (Head)]
+Type = Gameshark
+Activation = EndFrame
+30036FF9 0001
+
+[Have Hd-4004 (Head)]
+Type = Gameshark
+Activation = EndFrame
+30036FFA 0001
+
+[Have Xca-00 (Core)]
+Type = Gameshark
+Activation = EndFrame
+30036FFE 0001
+
+[Have Xcl-01 (Core)]
+Type = Gameshark
+Activation = EndFrame
+30036FFF 0001
+
+[Have Xch-01 (Core)]
+Type = Gameshark
+Activation = EndFrame
+30037000 0001
+
+[Have Xxa-50 (Core)]
+Type = Gameshark
+Activation = EndFrame
+30037001 0001
+
+[Have Xxl-D0 (Core)]
+Type = Gameshark
+Activation = EndFrame
+30037002 0001
+
+[Enable Champion Arena (Ex Arena)]
+Type = Gameshark
+Activation = EndFrame
+3003EAC9 0001
+
+[Enable Guest Arena (Ex Arena)]
+Type = Gameshark
+Activation = EndFrame
+3003EACB 0001
+
+[All Humanoid Legs Finished (Ex Arena)]
+Type = Gameshark
+Activation = EndFrame
+3004B67E 0001
+50000901 0000
+3004B608 0001
+
+[All Four Legs Finished (Ex Arena)]
+Type = Gameshark
+Activation = EndFrame
+3004B67F 0001
+50000901 0000
+3004B612 0001
+
+[All Reverse Joint Legs Finished (Ex Arena)]
+Type = Gameshark
+Activation = EndFrame
+3004B680 0001
+50000901 0000
+3004B61C 0001
+
+[All Caterpillars Finished (Ex Arena)]
+Type = Gameshark
+Activation = EndFrame
+3004B681 0001
+50000901 0000
+3004B626 0001
+
+[All Champions Finished (Ex Arena)]
+Type = Gameshark
+Activation = EndFrame
+50000802 0000
+8004B630 0101
+
+[All Guests Finished (Ex Arena)]
+Type = Gameshark
+Activation = EndFrame
+50000F02 0000
+8004B640 0101
+
+[All Fromsofts Finished (Ex Arena)]
+Type = Gameshark
+Activation = EndFrame
+3004B684 0001
+50000901 0000
+3004B65F 0001
+
+[All Masters Finished (Ex Arena)]
+Type = Gameshark
+Activation = EndFrame
+3004B685 0001
+50000A02 0000
+8004B668 0101
+
+[Unlock An-101 (Arm)]
+Type = Gameshark
+Activation = EndFrame
+30070009 0001
+
+[Unlock An-201 (Arm)]
+Type = Gameshark
+Activation = EndFrame
+3007000A 0001
+
+[Unlock An-K1 (Arm)]
+Type = Gameshark
+Activation = EndFrame
+3007000B 0001
+
+[Unlock An-D-7001 (Arm)]
+Type = Gameshark
+Activation = EndFrame
+3007000C 0001
+
+[Unlock An-3001 (Arm)]
+Type = Gameshark
+Activation = EndFrame
+3007000D 0001
+
+[Unlock Anks-1A46J (Arm)]
+Type = Gameshark
+Activation = EndFrame
+3007000E 0001
+
+[Unlock An-863-B (Arm)]
+Type = Gameshark
+Activation = EndFrame
+3007000F 0001
+
+[Unlock An-25 (Arm)]
+Type = Gameshark
+Activation = EndFrame
+30070010 0001
+
+[Unlock An-891-S (Arm)]
+Type = Gameshark
+Activation = EndFrame
+30070011 0001
+
+[Unlock Aw-M625/2 (Arm)]
+Type = Gameshark
+Activation = EndFrame
+30070015 0001
+
+[Unlock Aw-Gt2000 (Arm)]
+Type = Gameshark
+Activation = EndFrame
+30070016 0001
+
+[Unlock Aw-Rf105 (Arm)]
+Type = Gameshark
+Activation = EndFrame
+30070017 0001
+
+[Unlock Aw-30/3 (Arm)]
+Type = Gameshark
+Activation = EndFrame
+30070018 0001
+
+[Unlock Aw-Rf120 (Arm)]
+Type = Gameshark
+Activation = EndFrame
+30070019 0001
+
+[Unlock Aw-S60/2 (Arm)]
+Type = Gameshark
+Activation = EndFrame
+3007001A 0001
+
+[Unlock Aw-Xc5500 (Arm)]
+Type = Gameshark
+Activation = EndFrame
+3007001B 0001
+
+[Unlock Aw-Xc65 (Arm)]
+Type = Gameshark
+Activation = EndFrame
+3007001C 0001
+
+[Unlock Aw-Dc/2 (Arm)]
+Type = Gameshark
+Activation = EndFrame
+3007001D 0001
+
+[Unlock All Arms (Arm)]
+Type = Gameshark
+Activation = EndFrame
+30070009 0001
+50000402 0000
+8007000A 0101
+30070015 0001
+50000402 0000
+80070016 0101
+
+[Unlock Gps-Vva (Generator)]
+Type = Gameshark
+Activation = EndFrame
+30037049 0001
+
+[Unlock Gps-V6 (Generator)]
+Type = Gameshark
+Activation = EndFrame
+3003704A 0001
+
+[Unlock Gad-Rx5 (Generator)]
+Type = Gameshark
+Activation = EndFrame
+3003704B 0001
+
+[Unlock Gad-Rx6 (Generator)]
+Type = Gameshark
+Activation = EndFrame
+3003704C 0001
+
+[Unlock Gad-Rx7 (Generator)]
+Type = Gameshark
+Activation = EndFrame
+3003704D 0001
+
+[Unlock 6B6-10000 (Generator)]
+Type = Gameshark
+Activation = EndFrame
+3003704E 0001
+
+[Unlock 6B6-Xr (Generator)]
+Type = Gameshark
+Activation = EndFrame
+3003704F 0001
+
+[Unlock Gbx-Tl (Generator)]
+Type = Gameshark
+Activation = EndFrame
+30037050 0001
+
+[Unlock Gbx-Xl (Generator)]
+Type = Gameshark
+Activation = EndFrame
+30037051 0001
+
+[Unlock All Generators (Generator)]
+Type = Gameshark
+Activation = EndFrame
+30037049 0001
+50000402 0000
+8003704A 0101
+
+[Unlock Comdex-C7 (Fcs)]
+Type = Gameshark
+Activation = EndFrame
+30037058 0001
+
+[Unlock Comdex-60 (Fcs)]
+Type = Gameshark
+Activation = EndFrame
+30037059 0001
+
+[Unlock Comdex-68 (Fcs)]
+Type = Gameshark
+Activation = EndFrame
+3003705A 0001
+
+[Unlock Qx-21 (Fcs)]
+Type = Gameshark
+Activation = EndFrame
+3003705B 0001
+
+[Unlock Qx-Af (Fcs)]
+Type = Gameshark
+Activation = EndFrame
+3003705C 0001
+
+[Unlock Tryx-Boxer (Fcs)]
+Type = Gameshark
+Activation = EndFrame
+3003705D 0001
+
+[Unlock Tryx-Quad (Fcs)]
+Type = Gameshark
+Activation = EndFrame
+3003705E 0001
+
+[Unlock Qx-9009 (Fcs)]
+Type = Gameshark
+Activation = EndFrame
+3003705F 0001
+
+[Unlock Fbmb-18X (Fcs)]
+Type = Gameshark
+Activation = EndFrame
+30037060 0001
+
+[Unlock Rator (Fcs)]
+Type = Gameshark
+Activation = EndFrame
+30037061 0001
+
+[Unlock All Fcs Parts (Fcs)]
+Type = Gameshark
+Activation = EndFrame
+50000502 0000
+80037058 0101
+
+[Unlock B-P320 (Booster)]
+Type = Gameshark
+Activation = EndFrame
+3003707B 0001
+
+[Unlock B-P350 (Booster)]
+Type = Gameshark
+Activation = EndFrame
+3003707C 0001
+
+[Unlock B-T001 (Booster)]
+Type = Gameshark
+Activation = EndFrame
+3003707D 0001
+
+[Unlock B-T2 (Booster)]
+Type = Gameshark
+Activation = EndFrame
+3003707E 0001
+
+[Unlock B-P351 (Booster)]
+Type = Gameshark
+Activation = EndFrame
+3003707F 0001
+
+[Unlock B-Ur-33 (Booster)]
+Type = Gameshark
+Activation = EndFrame
+30037080 0001
+
+[Unlock B-Hp25 (Booster)]
+Type = Gameshark
+Activation = EndFrame
+30037081 0001
+
+[Unlock All Boosters (Booster)]
+Type = Gameshark
+Activation = EndFrame
+3003707B 0001
+50000302 0000
+8003707C 0101
+
+[All Optional Parts Equipped (Optional Parts)]
+Type = Gameshark
+Activation = EndFrame
+8003EA70 FFFF
+
+[Unlock Sp-Maw (Optional Parts)]
+Type = Gameshark
+Activation = EndFrame
+30037068 0001
+
+[Unlock Sp-Jam (Optional Parts)]
+Type = Gameshark
+Activation = EndFrame
+30037069 0001
+
+[Unlock Sp-M/Auto (Optional Parts)]
+Type = Gameshark
+Activation = EndFrame
+3003706A 0001
+
+[Unlock Sp-Abs (Optional Parts)]
+Type = Gameshark
+Activation = EndFrame
+3003706B 0001
+
+[Unlock Sp-Sap (Optional Parts)]
+Type = Gameshark
+Activation = EndFrame
+3003706C 0001
+
+[Unlock Sp-Cnd-K (Optional Parts)]
+Type = Gameshark
+Activation = EndFrame
+3003706D 0001
+
+[Unlock Sp-Axl (Optional Parts)]
+Type = Gameshark
+Activation = EndFrame
+3003706E 0001
+
+[Unlock Sp-S/Scr (Optional Parts)]
+Type = Gameshark
+Activation = EndFrame
+3003706F 0001
+
+[Unlock Sp-E/Scr (Optional Parts)]
+Type = Gameshark
+Activation = EndFrame
+30037070 0001
+
+[Unlock Sp-Eh (Optional Parts)]
+Type = Gameshark
+Activation = EndFrame
+30037071 0001
+
+[Unlock Sp-E+ (Optional Parts)]
+Type = Gameshark
+Activation = EndFrame
+30037072 0001
+
+[Unlock Sp-Detq (Optional Parts)]
+Type = Gameshark
+Activation = EndFrame
+30037073 0001
+
+[Unlock All Optional Parts (Optional Parts)]
+Type = Gameshark
+Activation = EndFrame
+50000602 0000
+80037068 0101
+
+[Unlock Ls-2001 (Left Arm Weapon)]
+Type = Gameshark
+Activation = EndFrame
+300370DF 0001
+
+[Unlock Ls-2006 (Left Arm Weapon)]
+Type = Gameshark
+Activation = EndFrame
+300370E0 0001
+
+[Unlock Ls-3303 (Left Arm Weapon)]
+Type = Gameshark
+Activation = EndFrame
+300370E1 0001
+
+[Unlock Ls-99-Moonlight (Left Arm Weapon)]
+Type = Gameshark
+Activation = EndFrame
+300370E2 0001
+
+[Unlock All Left Arm Weapons (Left Arm Weapon)]
+Type = Gameshark
+Activation = EndFrame
+300370DF 0001
+800370E0 0101
+300370E2 0001
+
+[Unlock Wg-Rf35 (Right Arm Weapon)]
+Type = Gameshark
+Activation = EndFrame
+300370C6 0001
+
+[Unlock Wg-Mga1 (Right Arm Weapon)]
+Type = Gameshark
+Activation = EndFrame
+300370C7 0001
+
+[Unlock Wg-M6500 (Right Arm Weapon)]
+Type = Gameshark
+Activation = EndFrame
+300370C8 0001
+
+[Unlock Wg-Ar1000 (Right Arm Weapon)]
+Type = Gameshark
+Activation = EndFrame
+300370C9 0001
+
+[Unlock Wg-Hg235 (Right Arm Weapon)]
+Type = Gameshark
+Activation = EndFrame
+300370CA 0001
+
+[Unlock Wg-Rf/5 (Right Arm Weapon)]
+Type = Gameshark
+Activation = EndFrame
+300370CB 0001
+
+[Unlock Wg-Rf/P (Right Arm Weapon)]
+Type = Gameshark
+Activation = EndFrame
+300370CC 0001
+
+[Unlock Wg-Hg512 (Right Arm Weapon)]
+Type = Gameshark
+Activation = EndFrame
+300370CD 0001
+
+[Unlock Wg-F699 (Right Arm Weapon)]
+Type = Gameshark
+Activation = EndFrame
+300370CE 0001
+
+[Unlock Wg-B2120 (Right Arm Weapon)]
+Type = Gameshark
+Activation = EndFrame
+300370CF 0001
+
+[Unlock Wg-B2180 (Right Arm Weapon)]
+Type = Gameshark
+Activation = EndFrame
+300370D0 0001
+
+[Unlock Wg-Xp1000 (Right Arm Weapon)]
+Type = Gameshark
+Activation = EndFrame
+300370D1 0001
+
+[Unlock Wg-Xp2000 (Right Arm Weapon)]
+Type = Gameshark
+Activation = EndFrame
+300370D2 0001
+
+[Unlock Wg-Xc4 (Right Arm Weapon)]
+Type = Gameshark
+Activation = EndFrame
+300370D3 0001
+
+[Unlock Wg-1-Karasawa (Right Arm Weapon)]
+Type = Gameshark
+Activation = EndFrame
+300370D4 0001
+
+[Unlock Wg-Rfm118 (Right Arm Weapon)]
+Type = Gameshark
+Activation = EndFrame
+300370D5 0001
+
+[Unlock Wg-Xf Ppk (Right Arm Weapon)]
+Type = Gameshark
+Activation = EndFrame
+300370D6 0001
+
+[Unlock Wg-Hg1 (Right Arm Weapon)]
+Type = Gameshark
+Activation = EndFrame
+300370D7 0001
+
+[Unlock Wg-Pb26 (Right Arm Weapon)]
+Type = Gameshark
+Activation = EndFrame
+300370D8 0001
+
+[Unlock Wa-Finger (Right Arm Weapon)]
+Type = Gameshark
+Activation = EndFrame
+300370D9 0001
+
+[Unlock All Right Arm Weapons (Right Arm Weapon)]
+Type = Gameshark
+Activation = EndFrame
+50000A02 0000
+800370C6 0101
+
+[Unlock Wm-S40/1 (Back Weapon)]
+Type = Gameshark
+Activation = EndFrame
+30037089 0002
+
+[Unlock Wm-Sa0/2 (Back Weapon)]
+Type = Gameshark
+Activation = EndFrame
+3003708A 0002
+
+[Unlock Wm-S60/4 (Back Weapon)]
+Type = Gameshark
+Activation = EndFrame
+3003708B 0002
+
+[Unlock Wm-S60/6 (Back Weapon)]
+Type = Gameshark
+Activation = EndFrame
+3003708C 0002
+
+[Unlock Wm-Mvg404 (Back Weapon)]
+Type = Gameshark
+Activation = EndFrame
+3003708D 0002
+
+[Unlock Wm-Mvg802 (Back Weapon)]
+Type = Gameshark
+Activation = EndFrame
+3003708E 0002
+
+[Unlock Wm-L201 (Back Weapon)]
+Type = Gameshark
+Activation = EndFrame
+3003708F 0002
+
+[Unlock Wm-X201 (Back Weapon)]
+Type = Gameshark
+Activation = EndFrame
+30037090 0002
+
+[Unlock Wm-X5-Aa (Back Weapon)]
+Type = Gameshark
+Activation = EndFrame
+30037091 0002
+
+[Unlock Wm-X10 (Back Weapon)]
+Type = Gameshark
+Activation = EndFrame
+30037092 0002
+
+[Unlock Wm-94001 (Back Weapon)]
+Type = Gameshark
+Activation = EndFrame
+30037093 0002
+
+[Unlock Wm-Ps-2 (Back Weapon)]
+Type = Gameshark
+Activation = EndFrame
+30037094 0002
+
+[Unlock Wm-At (Back Weapon)]
+Type = Gameshark
+Activation = EndFrame
+30037095 0002
+
+[Unlock Wm-T0100 (Back Weapon)]
+Type = Gameshark
+Activation = EndFrame
+30037096 0002
+
+[Unlock Wm-Smss24 (Back Weapon)]
+Type = Gameshark
+Activation = EndFrame
+30037097 0002
+
+[Unlock M118-Td (Back Weapon)]
+Type = Gameshark
+Activation = EndFrame
+30037098 0002
+
+[Unlock Wr-550 (Back Weapon)]
+Type = Gameshark
+Activation = EndFrame
+3003709B 0002
+
+[Unlock Wr-S100 (Back Weapon)]
+Type = Gameshark
+Activation = EndFrame
+3003709C 0002
+
+[Unlock Wr-M50 (Back Weapon)]
+Type = Gameshark
+Activation = EndFrame
+3003709D 0002
+
+[Unlock Wr-M70 (Back Weapon)]
+Type = Gameshark
+Activation = EndFrame
+3003709E 0002
+
+[Unlock Wr-L24 (Back Weapon)]
+Type = Gameshark
+Activation = EndFrame
+3003709F 0002
+
+[Unlock Wc-Cm35 (Back Weapon)]
+Type = Gameshark
+Activation = EndFrame
+300370A5 0002
+
+[Unlock Wc-St120 (Back Weapon)]
+Type = Gameshark
+Activation = EndFrame
+300370A6 0002
+
+[Unlock Wc-Ln350 (Back Weapon)]
+Type = Gameshark
+Activation = EndFrame
+300370A7 0002
+
+[Unlock Wc-Gn230 (Back Weapon)]
+Type = Gameshark
+Activation = EndFrame
+300370A8 0002
+
+[Unlock Wc-X94000 (Back Weapon)]
+Type = Gameshark
+Activation = EndFrame
+300370A9 0002
+
+[Unlock Wc-Xc8000 (Back Weapon)]
+Type = Gameshark
+Activation = EndFrame
+300370AA 0002
+
+[Unlock Wc-01Ql (Back Weapon)]
+Type = Gameshark
+Activation = EndFrame
+300370AB 0002
+
+[Unlock Wc-Spgun (Back Weapon)]
+Type = Gameshark
+Activation = EndFrame
+300370AC 0002
+
+[Unlock Wc-Ir24 (Back Weapon)]
+Type = Gameshark
+Activation = EndFrame
+300370AD 0002
+
+[Unlock Rxa-01We (Back Weapon)]
+Type = Gameshark
+Activation = EndFrame
+300370B1 0002
+
+[Unlock Rz-A0 (Back Weapon)]
+Type = Gameshark
+Activation = EndFrame
+300370B2 0002
+
+[Unlock Rxa-99 (Back Weapon)]
+Type = Gameshark
+Activation = EndFrame
+300370B3 0002
+
+[Unlock Rxa-77 (Back Weapon)]
+Type = Gameshark
+Activation = EndFrame
+300370B4 0002
+
+[Unlock Rz-A1 (Back Weapon)]
+Type = Gameshark
+Activation = EndFrame
+300370B5 0002
+
+[Unlock Rzt-333 (Back Weapon)]
+Type = Gameshark
+Activation = EndFrame
+300370B6 0002
+
+[Unlock Rz-Bbp (Back Weapon)]
+Type = Gameshark
+Activation = EndFrame
+300370B7 0002
+
+[Unlock Rz-Fw2 (Back Weapon)]
+Type = Gameshark
+Activation = EndFrame
+300370B8 0002
+
+[Unlock Wx-S800/2 (Back Weapon)]
+Type = Gameshark
+Activation = EndFrame
+300370BD 0001
+
+[Unlock Wx-S800-Gf (Back Weapon)]
+Type = Gameshark
+Activation = EndFrame
+300370BE 0001
+
+[Unlock Xcs-9900 (Back Weapon)]
+Type = Gameshark
+Activation = EndFrame
+300370BF 0001
+
+[Have All Back Weapons (Back Weapon)]
+Type = Gameshark
+Activation = EndFrame
+30037089 0002
+50000702 0000
+8003708A 0202
+30037098 0002
+3003709B 0002
+9003709C 02020202
+300370A5 0002
+50000402 0000
+800370A6 0202
+300370B1 0002
+50000302 0000
+800370B2 0202
+300370B8 0002
+300370BD 0001
+800370BE 0101
+
+[Unlock Ln-1001 (Leg)]
+Type = Gameshark
+Activation = EndFrame
+30037021 0001
+
+[Unlock Ln-Ssvt (Leg)]
+Type = Gameshark
+Activation = EndFrame
+30037022 0001
+
+[Unlock Ln-3001 (Leg)]
+Type = Gameshark
+Activation = EndFrame
+30037023 0001
+
+[Unlock Ln-1001-Px-0 (Leg)]
+Type = Gameshark
+Activation = EndFrame
+30037024 0001
+
+[Unlock Ln-501 (Leg)]
+Type = Gameshark
+Activation = EndFrame
+30037025 0001
+
+[Unlock Ln-Ssvr (Leg)]
+Type = Gameshark
+Activation = EndFrame
+30037026 0001
+
+[Unlock Ln-1001B (Leg)]
+Type = Gameshark
+Activation = EndFrame
+30037027 0001
+
+[Unlock Ln-3001C (Leg)]
+Type = Gameshark
+Activation = EndFrame
+30037029 0001
+
+[Unlock Ln-502 (Leg)]
+Type = Gameshark
+Activation = EndFrame
+3003702B 0001
+
+[Unlock Ln-D-8000R (Leg)]
+Type = Gameshark
+Activation = EndFrame
+3003702C 0001
+
+[Unlock Ln-2Kz-Sp (Leg)]
+Type = Gameshark
+Activation = EndFrame
+3003702D 0001
+
+[Unlock Lnks-1B46J (Leg)]
+Type = Gameshark
+Activation = EndFrame
+3003702E 0001
+
+[Unlock Lb-4400 (Leg)]
+Type = Gameshark
+Activation = EndFrame
+3003702F 0001
+
+[Unlock Lb-4401 (Leg)]
+Type = Gameshark
+Activation = EndFrame
+30037031 0001
+
+[Unlock Lb-4303 (Leg)]
+Type = Gameshark
+Activation = EndFrame
+30037032 0001
+
+[Unlock Lb-1000-P (Leg)]
+Type = Gameshark
+Activation = EndFrame
+30037033 0001
+
+[Unlock Lbks-2B45A (Leg)]
+Type = Gameshark
+Activation = EndFrame
+30037034 0001
+
+[Unlock Lf-205-Sf (Leg)]
+Type = Gameshark
+Activation = EndFrame
+30037036 0001
+
+[Unlock Lfh-X3 (Leg)]
+Type = Gameshark
+Activation = EndFrame
+30037037 0001
+
+[Unlock Lf-Dex-1 (Leg)]
+Type = Gameshark
+Activation = EndFrame
+30037038 0001
+
+[Unlock Lfh-X5X (Leg)]
+Type = Gameshark
+Activation = EndFrame
+3003703B 0001
+
+[Unlock Lc-Mos18 (Leg)]
+Type = Gameshark
+Activation = EndFrame
+3003703C 0001
+
+[Unlock Lc-Uki60 (Leg)]
+Type = Gameshark
+Activation = EndFrame
+3003703D 0001
+
+[Unlock Lc-Htp-Aaa (Leg)]
+Type = Gameshark
+Activation = EndFrame
+3003703F 0001
+
+[Unlock Lc-Mos4545 (Leg)]
+Type = Gameshark
+Activation = EndFrame
+30037040 0001
+
+[Have All Leg Parts (Leg)]
+Type = Gameshark
+Activation = EndFrame
+30037021 0001
+50000302 0000
+80037022 0101
+30037029 0001
+3003702B 0001
+50000202 0000
+8003702C 0101
+30037031 0001
+80037032 0101
+30037034 0001
+80037036 0101
+30037038 0001
+3003703B 0001
+8003703C 0101
+3003703F 0001
+30037040 0001
+

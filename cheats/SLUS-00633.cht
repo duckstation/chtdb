@@ -1,0 +1,40 @@
+; CHTDB: ; [ Alien Resurrection (USA) (2000) (Fox Interactive) {SLUS-00633} <alienres> ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8010D620 2400
+
+[Infinite Large Medipacks]
+Type = Gameshark
+Activation = EndFrame
+8011BCE8 0009
+
+[Timer Stopped]
+Type = Gameshark
+Activation = EndFrame
+8005C356 0000
+
+[Have All Keycards]
+Type = Gameshark
+Activation = EndFrame
+8011BCEA 0001
+9011BCEC 00010001
+9011BCF0 00010001
+9011BCF4 00010001
+
+[Cheat Menu Enabled]
+Type = Gameshark
+Activation = EndFrame
+30096BE0 0001
+
+[Research Enabled]
+Type = Gameshark
+Activation = EndFrame
+3009BBDF 0001
+
+[Widescreen 16-9 (Vert-)]
+Type = Gameshark
+Activation = EndFrame
+A709E3D0 10001400
+

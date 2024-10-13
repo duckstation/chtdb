@@ -1,0 +1,42 @@
+; CHTDB: ; [ You Don't Know Jack (USA) (1999) (Sierra On-Line) {SLUS-00716 / SLUS-00762} <ydkj> ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+A60919F4 0200023A
+
+[Start On Last Round]
+Type = Gameshark
+Activation = EndFrame
+A60A993C 00000016
+
+[P1 Can Always Screw]
+Type = Gameshark
+Activation = EndFrame
+800AB444 0001
+
+[P1 Max Score]
+Type = Gameshark
+Activation = EndFrame
+900AB440 0098967F
+
+[P2 Can Always Screw]
+Type = Gameshark
+Activation = EndFrame
+800AB44C 0001
+
+[P2 Max Score]
+Type = Gameshark
+Activation = EndFrame
+900AB448 0098967F
+
+[P3 Can Always Screw]
+Type = Gameshark
+Activation = EndFrame
+800AB454 0001
+
+[P3 Max Score]
+Type = Gameshark
+Activation = EndFrame
+900AB450 0098967F
+

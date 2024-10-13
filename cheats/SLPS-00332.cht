@@ -1,0 +1,39 @@
+; CHTDB: ; [ Alien Trilogy (Japan) {SLPS-00332} ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8009B490 0064
+
+[Infinite Shotgun Shells]
+Type = Gameshark
+Activation = EndFrame
+8009B49A 0014
+
+[Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+8009B492 03E7
+
+[Unlock Extras Unlocks cheat menu]
+Type = Gameshark
+Activation = EndFrame
+3008DAB4 0080
+
+[All Weapons]
+Type = Gameshark
+Activation = EndFrame
+50000504 0000
+8009014A 0029
+
+[Auto Mapper]
+Type = Gameshark
+Activation = EndFrame
+8009B48C 03E7
+
+[Infinite Ammo/Items]
+Type = Gameshark
+Activation = EndFrame
+50000B02 0000
+8009B496 03E7
+

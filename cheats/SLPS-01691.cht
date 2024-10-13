@@ -1,0 +1,49 @@
+; CHTDB: ; [ Rising Zan - The Samurai Gunman (Jpn) (1999) (UEP) {SLPS-01691} <risinzanj> ]
+
+[Infinite Life]
+Type = Gameshark
+Activation = EndFrame
+A60B002A 00430040
+A60AFFB2 00430040
+A60AFFD2 00430040
+A60B0142 00430040
+A60B02CE 00430040
+A60B0076 00430040
+A60B0072 00430040
+A60B00BE 00430040
+A60B0022 00430040
+
+[Infinite Hustling Time]
+Type = Gameshark
+Activation = EndFrame
+A60AC29C FFFF0000
+A60AC228 FFFF0000
+A60AC248 FFFF0000
+A60AC390 FFFF0000
+A60AC484 FFFF0000
+A60AC2EC FFFF0000
+A60AC2A0 FFFF0000
+A60AC330 FFFF0000
+A60AC298 FFFF0000
+
+[Spirits Infinite + Max]
+Type = Gameshark
+Activation = EndFrame
+90092674 00C800C8
+
+[Hustling Number of Times Infinite]
+Type = Gameshark
+Activation = EndFrame
+80092698 0003
+
+[Rapid To Dome Final Eight Times]
+Type = Gameshark
+Activation = EndFrame
+A603EAB0 00010008
+
+[Hero Meter Full Once]
+Type = Gameshark
+Activation = EndFrame
+A60AB5B8 30210064
+A60AB5BA 00442446
+

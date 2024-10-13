@@ -1,0 +1,25 @@
+; CHTDB: ; [ Mega Man 8 (Europe) {SLES-01064} ]
+
+[Infinite Energy For All Weapons]
+Type = Gameshark
+Activation = EndFrame
+801B2512 2800
+801B2516 2800
+801B251A 2800
+801B251E 2800
+801B2522 2800
+801B2526 2800
+801B252A 2800
+801B252E 2800
+801B2532 2800
+
+[Infinite Bolts]
+Type = Gameshark
+Activation = EndFrame
+8016D950 0023
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8015E8E2 2800
+

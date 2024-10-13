@@ -1,0 +1,136 @@
+; CHTDB: ; [ Shadow Man (USA) (1999) (Acclaim Entertainment) {SLUS-00895} <shadowmn> ]
+
+[Time is 0.00.00]
+Type = Gameshark
+Activation = EndFrame
+900B5588 00000000
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+900C13C4 00002710
+
+[Infinite Air]
+Type = Gameshark
+Activation = EndFrame
+900C13C8 00002710
+
+[Max Shadow Level]
+Type = Gameshark
+Activation = EndFrame
+900C13CC 00002710
+
+[Max Shadow Power]
+Type = Gameshark
+Activation = EndFrame
+900C13D0 00002710
+
+[Infinite Voodoo]
+Type = Gameshark
+Activation = EndFrame
+900C13D4 00002710
+
+[Enable Asylum - Cageways]
+Type = Gameshark
+Activation = EndFrame
+300BC0B7 0001
+
+[Enable Asylum - Cathedral of Pain]
+Type = Gameshark
+Activation = EndFrame
+300BC0B4 0001
+
+[Enable Asylum - Engine Block]
+Type = Gameshark
+Activation = EndFrame
+300BC0B5 0001
+
+[Enable Asylum - Gateway]
+Type = Gameshark
+Activation = EndFrame
+300BC0B3 0001
+
+[Enable Asylum - Lavaducts]
+Type = Gameshark
+Activation = EndFrame
+300BC0BA 0001
+
+[Enable Asylum - Playrooms]
+Type = Gameshark
+Activation = EndFrame
+300BC0B8 0001
+
+[Enable Asylum - Undercity]
+Type = Gameshark
+Activation = EndFrame
+300BC0BC 0001
+
+[Enable Boyou Paradis, Louisiana]
+Type = Gameshark
+Activation = EndFrame
+300BC0AC 0001
+
+[Enable Deadside - Marrow Gates]
+Type = Gameshark
+Activation = EndFrame
+300BC0B0 0001
+
+[Enable Down Street Station, London]
+Type = Gameshark
+Activation = EndFrame
+300BC0AF 0001
+
+[Enable Gordelle County Jail, Texas]
+Type = Gameshark
+Activation = EndFrame
+300BC0AE 0001
+
+[Enable Mordant Street, Queens, NY]
+Type = Gameshark
+Activation = EndFrame
+300BC0AD 0001
+
+[Enable Paths of Shadow Prophecy Chamber]
+Type = Gameshark
+Activation = EndFrame
+300BC0B1 0001
+
+[Enable Temple of Blood (Nager)]
+Type = Gameshark
+Activation = EndFrame
+300BC0BB 0001
+
+[Enable Temple of Fire (Toucher)]
+Type = Gameshark
+Activation = EndFrame
+300BC0B6 0001
+
+[Enable Temple of Prophecy (Marcher)]
+Type = Gameshark
+Activation = EndFrame
+300BC0B9 0001
+
+[Enable Wasteland - Temple of Life]
+Type = Gameshark
+Activation = EndFrame
+300BC0B2 0001
+
+[Moon Jump]
+Type = Gameshark
+Activation = EndFrame
+300C1240 0010
+E00BB6F2 0010
+300C1240 0050
+
+[Moon Jump Alternate]
+Type = Gameshark
+Activation = EndFrame
+E00BB6F2 0010
+800C1280 0100
+
+[Jump Heigher]
+Description = Manually change F800 to change jump height
+Type = Gameshark
+Activation = EndFrame
+A703FCE4 F000F800
+

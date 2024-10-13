@@ -1,0 +1,12 @@
+; CHTDB: ; [ Sitting Ducks (Europe) {SLES-04152} ]
+
+[Have 60 coins]
+Type = Gameshark
+Activation = EndFrame
+8009F371 003C
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+8009F366 0036
+

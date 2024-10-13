@@ -1,0 +1,17 @@
+; CHTDB: ; [ International Rally Championship (Konami) (May 7, 1999 prototype) ]
+
+[Infinite Race Time]
+Type = Gameshark
+Activation = EndFrame
+80089152 00007FFF
+
+[Total Time 0]
+Type = Gameshark
+Activation = EndFrame
+80089166 00000000
+
+[Drive/Crash Around at 172 MPH]
+Type = Gameshark
+Activation = EndFrame
+800F6DB0 0000FFFF
+

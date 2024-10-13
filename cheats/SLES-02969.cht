@@ -1,0 +1,105 @@
+; CHTDB: ; [ Final Fantasy IX (Spain) {SLES-02969 | SLES-12969 | SLES-22969 | SLES-32969} ]
+
+[Infinite HP Character 1 In Battle]
+Type = Gameshark
+Activation = EndFrame
+80108F24 270F
+
+[Infinite HP Character 2 In Battle]
+Type = Gameshark
+Activation = EndFrame
+80108FF4 270F
+
+[Infinite HP Character 3 In Battle]
+Type = Gameshark
+Activation = EndFrame
+801090C4 270F
+
+[Infinite Gold]
+Type = Gameshark
+Activation = EndFrame
+9008B7B0 3B9AC9FF
+
+[Todos los objetos a 99]
+Type = Gameshark
+Activation = EndFrame
+5000FF02 0001
+8008B7C4 6301
+
+[FFIX - Yitan out of battle codes]
+Type = Gameshark
+Activation = EndFrame
+8008B2A4 270F
+8008B29C 270F
+8008B2A6 03E7
+8008B29E 03E7
+3008B297 0063
+3008B2A3 0063
+3008B2AB 0063
+
+[FFIX - Freya out of battle codes]
+Type = Gameshark
+Activation = EndFrame
+8008B4DC 270F
+9008B4E4 03E7270F
+8008B4DE 03E7
+3008B4D7 0063
+3008B4E3 0063
+3008B4EB 0063
+
+[FFIX - Vivi out of battle codes]
+Type = Gameshark
+Activation = EndFrame
+8008B32C 270F
+8008B334 270F
+8008B32E 03E7
+8008B336 03E7
+3008B327 0063
+3008B333 0063
+3008B33B 0063
+
+[FFIX - Quina out of battle codes]
+Type = Gameshark
+Activation = EndFrame
+8008b564 270F
+9008b574 03E7270F
+8008b56e 03E7
+3008b567 0063
+3008b573 0063
+3008b57b 0063
+
+[FFIX - Amarant out of battle codes]
+Type = Gameshark
+Activation = EndFrame
+8008B694 270F
+8008B68C 270F
+8008B696 03E7
+8008B68E 03E7
+3008B687 0063
+3008B693 0063
+3008B69B 0063
+
+[FFIX - Eiko out of battle codes]
+Type = Gameshark
+Activation = EndFrame
+8008B604 270F
+8008B5FC 270F
+8008B606 03E7
+8008B5FE 03E7
+3008B5F7 0063
+3008B603 0063
+3008B60B 0063
+
+[FFIX - Daga/Garnet out of battle codes]
+Type = Gameshark
+Activation = EndFrame
+3008B3D0 0063
+3008B3D1 0063
+3008B3B7 0063
+3008B3C3 0063
+3008B3CB 0063
+8008B3C4 270F
+8008B3BC 270F
+8008B3C6 03E7
+8008B3BE 03E7
+

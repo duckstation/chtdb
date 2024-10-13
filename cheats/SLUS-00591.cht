@@ -1,0 +1,17 @@
+; CHTDB: ; [ Nagano Winter Olympics '98 (USA) (1998) (Konami of America) {SLUS-00591} <nagano> ]
+
+[P1 Speed Skates]
+Type = Gameshark
+Activation = EndFrame
+8009EBF6 4280
+
+[No Disqualifications In Ski/Snowboard Events]
+Type = Gameshark
+Activation = EndFrame
+800B1638 0000
+
+[Different View Angle Bob Sled Event]
+Type = Gameshark
+Activation = EndFrame
+800B9F24 E3D7
+

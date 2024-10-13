@@ -1,0 +1,90 @@
+; CHTDB: ; [ Spin Jam (Europe) {SLES-02790} ]
+
+[Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+300733BF 0004
+
+[Baby Bot Gallery Completed]
+Type = Gameshark
+Activation = EndFrame
+3006B737 0009
+
+[Moolamb Gallery Completed]
+Type = Gameshark
+Activation = EndFrame
+3006B743 0009
+
+[Lemon Gallery Completed]
+Type = Gameshark
+Activation = EndFrame
+3006B74F 0009
+
+[Nips Gallery Completed]
+Type = Gameshark
+Activation = EndFrame
+3006B75B 0009
+
+[Booger Gallery Completed]
+Type = Gameshark
+Activation = EndFrame
+3006B767 0009
+
+[Gilly Gallery Completed]
+Type = Gameshark
+Activation = EndFrame
+3006B773 0009
+
+[Poppy Gallery Completed]
+Type = Gameshark
+Activation = EndFrame
+3006B77F 0009
+
+[Wigsey Gallery Completed]
+Type = Gameshark
+Activation = EndFrame
+3006B78B 0009
+
+[Aqualad Gallery Completed]
+Type = Gameshark
+Activation = EndFrame
+3006B797 0009
+
+[Innit Gallery Completed]
+Type = Gameshark
+Activation = EndFrame
+3006B7A3 0009
+
+[Baby Gallery Completed]
+Type = Gameshark
+Activation = EndFrame
+3006B7AF 0009
+
+[All Gallery Completed]
+Type = Gameshark
+Activation = EndFrame
+50000B0C 0000
+8006B736 0904
+
+[All charcters unlocks]
+Type = Gameshark
+Activation = EndFrame
+3006E289 0001
+3006E28A 0001
+3006E281 0001
+
+[Arcade Mode - Last Stage]
+Type = Gameshark
+Activation = EndFrame
+80073580 0063
+
+[Unlock All Extras]
+Type = Gameshark
+Activation = EndFrame
+50000D01 0000
+3005F44C 0001
+50000C0C 0000
+3006B72B 000A
+50000B01 0000
+3006E280 0001
+

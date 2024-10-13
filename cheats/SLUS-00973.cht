@@ -1,0 +1,97 @@
+; CHTDB: ; [ Dune 2000 (USA) (1999) (Electronic Arts / Westwood Studios) {SLUS-00973} <dune2000> ]
+
+[Harkonnoe\Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+800E15C8 1500
+
+[Ordos\Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+800E2274 1500
+
+[Atreides\Instant Upgrade]
+Type = Gameshark
+Activation = EndFrame
+D20E06E2 59D0
+800E06E2 59D0
+
+[Harkonnen\Instant Upgrade]
+Type = Gameshark
+Activation = EndFrame
+D20E138E 59D0
+800E138E 59D0
+
+[Ordos\Instant Upgrade]
+Type = Gameshark
+Activation = EndFrame
+D20E203A 59D0
+800E203A 59D0
+
+[Max Spice]
+Type = Gameshark
+Activation = EndFrame
+900E091C 0098967F
+
+[Atreides\All Building Options Instantly Available]
+Type = Gameshark
+Activation = EndFrame
+800E1048 0001
+800E104C 0100
+800E1050 0100
+800E1054 0001
+900E1058 00010001
+800E105E 0001
+900E1060 01000001
+800E1066 0001
+800E1068 0100
+800E106E 0001
+800E1072 0001
+800E1076 0001
+800E1078 0001
+
+[Harkonnen\All Building Options Instantly Available]
+Type = Gameshark
+Activation = EndFrame
+800E1CF4 0001
+800E1CFA 0001
+800E1CFE 0001
+800E1D00 0001
+900E1D04 00010001
+800E1D0A 0001
+800E1D0C 0001
+900E1D10 00010001
+800E1D16 0001
+800E1D1A 0001
+800E1D1E 0001
+800E1D22 0001
+800E1D26 0001
+
+[Harkonnen\All Building Upgrades Instantly Available]
+Type = Gameshark
+Activation = EndFrame
+800E1C88 0001
+800E1C8C 0001
+900E1C94 01000101
+
+[Start On Last Mission]
+Type = Gameshark
+Activation = EndFrame
+D0019F54 0112
+80019F56 1000
+E016860D 0001
+3016860D 0009
+
+[Extra Money Cheat]
+Description = Press R3 with analog on to get 10,000 more money (R3 is the second Dual Analog Stick when you press down on it so it clicks)
+Type = Gameshark
+Activation = EndFrame
+D0176E18 6425
+30176E1B 0001
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+A7183028 10001558
+A7183068 10000C00
+

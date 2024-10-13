@@ -1,0 +1,42 @@
+; CHTDB: ; [ Skullmonkeys (France) {SLES-01091} ]
+
+[Unendlich Leben]
+Type = Gameshark
+Activation = EndFrame
+3009B1E9 0009
+
+[Besitze 100 Clay Balls]
+Type = Gameshark
+Activation = EndFrame
+3009B1EA 0064
+
+[Besitze alle 3 grünen Swirlies]
+Type = Gameshark
+Activation = EndFrame
+3009B1F2 0003
+
+[Besitze unendlich Affen]
+Type = Gameshark
+Activation = EndFrame
+3009B1F4 0009
+
+[Unendlich Green Bullets]
+Type = Gameshark
+Activation = EndFrame
+3009B1EB 0001
+
+[Unendlich Homing Birds]
+Type = Gameshark
+Activation = EndFrame
+3009B1EC 0009
+
+[Unendlich Klones]
+Type = Gameshark
+Activation = EndFrame
+3009B1ED 0009
+
+[Unendlich Radiant Ball]
+Type = Gameshark
+Activation = EndFrame
+3009B1EE 0009
+

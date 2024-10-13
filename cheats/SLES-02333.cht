@@ -1,0 +1,244 @@
+; CHTDB: ; [ Ready 2 Rumble Boxing (Europe) {SLES-02333} ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+8002CDB2 3C00
+
+[Infinite Tries (Training Mode)]
+Type = Gameshark
+Activation = EndFrame
+801FAE64 0003
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+90031850 10800004
+
+[P1 1-Hit Ko!]
+Type = Gameshark
+Activation = EndFrame
+80095EA8 0000
+
+[P1 Low Stamina]
+Type = Gameshark
+Activation = EndFrame
+80095EAC 0028
+
+[P1 Infinite Rumble Power]
+Type = Gameshark
+Activation = EndFrame
+80095EB8 00B4
+
+[P1 Short Rumble Power]
+Type = Gameshark
+Activation = EndFrame
+80095EB8 0000
+
+[P1 Always Have Rumble Power]
+Type = Gameshark
+Activation = EndFrame
+80095EBC 0001
+
+[P2 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+90031850 14800004
+
+[P2 1-Hit Ko!]
+Type = Gameshark
+Activation = EndFrame
+800966C4 0000
+
+[P2 Low Stamina]
+Type = Gameshark
+Activation = EndFrame
+800966C8 0028
+
+[P2 Infinite Rumble Power]
+Type = Gameshark
+Activation = EndFrame
+800966D4 00B4
+
+[P2 Short Rumble Power]
+Type = Gameshark
+Activation = EndFrame
+800966D4 0000
+
+[P2 Always Have Rumble Power]
+Type = Gameshark
+Activation = EndFrame
+800966D8 0001
+
+[Infinite Continue Time]
+Type = Gameshark
+Activation = EndFrame
+80045216 3C00
+
+[Infinite Continues]
+Type = Gameshark
+Activation = EndFrame
+80033DEA 3C00
+
+[Championship Mode Codes\Infinite Money Save the game and then uncheck the code]
+Type = Gameshark
+Activation = EndFrame
+80097DA8 FFFF
+
+[Championship Mode Codes\Max Money Save the game and then uncheck the code]
+Type = Gameshark
+Activation = EndFrame
+90097DA8 0098967F
+
+[Championship Mode Codes\Have All Class Champ/Unlock All Characters Save the game and then uncheck the code]
+Type = Gameshark
+Activation = EndFrame
+5000114C 0000
+80097DAE 0003
+
+[Championship Mode Codes\Have Rank Champ (Everyone) Save the game and then uncheck the code]
+Type = Gameshark
+Activation = EndFrame
+5000114C 0000
+80097DB0 0000
+
+[Championship Mode Codes\Have No Fights Left (Everyone) Save the game and then uncheck the code]
+Type = Gameshark
+Activation = EndFrame
+5000114C 0000
+80097DB2 0000
+
+[Championship Mode Codes\Have All Wins (Everyone) Save the game and then uncheck the code]
+Type = Gameshark
+Activation = EndFrame
+5000114C 0000
+80097DB4 001E
+
+[Championship Mode Codes\Have No Losses (Everyone) Save the game and then uncheck the code]
+Type = Gameshark
+Activation = EndFrame
+5000114C 0000
+80097DB6 0000
+
+[Championship Mode Codes\Have 100% Strength (Everyone)Save the game and then uncheck the code]
+Type = Gameshark
+Activation = EndFrame
+5000114C 0000
+80097DBC 7FFB
+5000114C 0000
+80097DBE 003E
+
+[Championship Mode Codes\Have 100% Stamina (Everyone) Save the game and then uncheck the code]
+Type = Gameshark
+Activation = EndFrame
+5000114C 0000
+80097DC0 7FFB
+5000114C 0000
+80097DC2 003E
+
+[Championship Mode Codes\Have 100% Dexterity (Everyone)Save the game and then uncheck the code]
+Type = Gameshark
+Activation = EndFrame
+5000114C 0000
+80097DC4 7FFB
+5000114C 0000
+80097DC6 003E
+
+[Championship Mode Codes\Have 100% Experience (Everyone) Save the game and then uncheck the code]
+Type = Gameshark
+Activation = EndFrame
+5000114C 0000
+80097DC8 7FFB
+5000114C 0000
+80097DCA 003E
+
+[Boris Knokimov Codes\Class Champ]
+Type = Gameshark
+Activation = EndFrame
+80097DAE 0003
+
+[Boris Knokimov Codes\Rank Champ]
+Type = Gameshark
+Activation = EndFrame
+80097DB0 0000
+
+[Boris Knokimov Codes\100% Strength]
+Type = Gameshark
+Activation = EndFrame
+90097DBC 003E7FFB
+
+[Boris Knokimov Codes\100% Stamina]
+Type = Gameshark
+Activation = EndFrame
+90097DC0 003E7FFB
+
+[Boris Knokimov Codes\100% Dexterity]
+Type = Gameshark
+Activation = EndFrame
+90097DC4 003E7FFB
+
+[Boris Knokimov Codes\100% Experience]
+Type = Gameshark
+Activation = EndFrame
+90097DC8 003E7FFB
+
+[Butcher Brown Codes\Class Champ]
+Type = Gameshark
+Activation = EndFrame
+80097DFA 0003
+
+[Butcher Brown Codes\Rank Champ]
+Type = Gameshark
+Activation = EndFrame
+80097DFC 0000
+
+[Butcher Brown Codes\100% Strength]
+Type = Gameshark
+Activation = EndFrame
+90097E08 003E7FFB
+
+[Butcher Brown Codes\100% Stamina]
+Type = Gameshark
+Activation = EndFrame
+90097E0C 003E7FFB
+
+[Butcher Brown Codes\100% Dexterity]
+Type = Gameshark
+Activation = EndFrame
+90097E10 003E7FFB
+
+[Butcher Brown Codes\100% Experience]
+Type = Gameshark
+Activation = EndFrame
+90097E14 003E7FFB
+
+[Afro Thunder Codes\Class Champ]
+Type = Gameshark
+Activation = EndFrame
+80097E46 0003
+
+[Afro Thunder Codes\Rank Champ]
+Type = Gameshark
+Activation = EndFrame
+80097E48 0000
+
+[Afro Thunder Codes\100% Strength]
+Type = Gameshark
+Activation = EndFrame
+90097E54 003E7FFB
+
+[Afro Thunder Codes\100% Stamina]
+Type = Gameshark
+Activation = EndFrame
+90097E58 003E7FFB
+
+[Afro Thunder Codes\100% Dexterity]
+Type = Gameshark
+Activation = EndFrame
+90097E5C 003E7FFB
+
+[Afro Thunder Codes\100% Experience]
+Type = Gameshark
+Activation = EndFrame
+90097E60 003E7FFB
+

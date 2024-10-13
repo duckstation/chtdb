@@ -1,0 +1,17 @@
+; CHTDB: ; [ Bubblegun Kid (Japan) {SLPS-01710} ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8009AEB4 0003
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8009AC3C 001F
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+8011CD1E 0047
+

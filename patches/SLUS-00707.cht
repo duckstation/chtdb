@@ -1,0 +1,9 @@
+# Silent Hill (USA)
+[60 FPS]
+Type = Gameshark
+Activation = EndFrame
+Description = Patches the game to render at 60fps, instead of 30fps.
+OverrideCPUOverclock = 250
+
+A70A8FF0 00020001
+A70AB38C 00020001

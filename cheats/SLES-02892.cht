@@ -1,0 +1,75 @@
+; CHTDB: ; [ Disney's Dinosaurier (Germany) {SLES-02892} ]
+
+[Aladar Unendlich & Max Gesundheit .Don't use this cheat until you can control Aladar or the game won't continue]
+Type = Gameshark
+Activation = EndFrame
+800619E4 03E7
+800619E8 03E7
+
+[Aladar Max Erfahrungsstufe]
+Type = Gameshark
+Activation = EndFrame
+300619E0 0009
+
+[Aladar Max Erfahrungs-Prozentsatz]
+Type = Gameshark
+Activation = EndFrame
+800619E0 9C3F
+
+[Flia Unendlich & Max Gesundheit]
+Type = Gameshark
+Activation = EndFrame
+800619A8 03E7
+800619AC 03E7
+
+[Flia Max Erfahrungsstufe]
+Type = Gameshark
+Activation = EndFrame
+300619A0 0009
+
+[Flia Max Erfahrungs-Prozentsatz]
+Type = Gameshark
+Activation = EndFrame
+800619A4 9C3F
+
+[Zini Unendlich & Max Gesundheit]
+Type = Gameshark
+Activation = EndFrame
+8006196C 03E7
+80061970 03E7
+
+[Zini Max Erfahrungsstufe]
+Type = Gameshark
+Activation = EndFrame
+30061964 0009
+
+[Zini Max Erfahrungs-Prozentsatz]
+Type = Gameshark
+Activation = EndFrame
+80061968 9C3F
+
+[Habe max Beeren]
+Type = Gameshark
+Activation = EndFrame
+8006143C 03E7
+
+[Habe max Früchte]
+Type = Gameshark
+Activation = EndFrame
+80061440 03E7
+
+[Habe max Steine]
+Type = Gameshark
+Activation = EndFrame
+80061444 03E7
+
+[Habe max Kristalle]
+Type = Gameshark
+Activation = EndFrame
+8006144C 03E7
+
+[Habe max Blitze]
+Type = Gameshark
+Activation = EndFrame
+80061450 03E7
+

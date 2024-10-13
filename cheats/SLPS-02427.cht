@@ -1,0 +1,7 @@
+; CHTDB: ; [ Tantei Jinguuji Saburou - Tomoshibi ga Kienumani (Jpn) (1999) (Data East) {SLPS-02427} <tjstomok> ]
+
+[Have 9999 coins in card game]
+Type = Gameshark
+Activation = EndFrame
+8008B850 270F
+

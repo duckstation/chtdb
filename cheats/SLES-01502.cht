@@ -1,0 +1,13 @@
+; CHTDB: ; [ Oddworld: L'Exode d'Abe (France) {SLES-01502 | SLES-11502} ]
+
+[Avoir les 300 Mudokons sauvés]
+Type = Gameshark
+Activation = EndFrame
+8007E53E 012C
+
+[Envoûtement immédiat]
+Type = Gameshark
+Activation = EndFrame
+D107E4FC 0000
+8007E4FC FFFF
+

@@ -1,0 +1,112 @@
+; CHTDB: ; [ Dracula: Resurrection (Germany) {SLES-02759 | SLES-12759} ]
+
+[Stoppuhr 00.00.00]
+Type = Gameshark
+Activation = EndFrame
+3001F176 0020
+
+[Habe Kerze]
+Type = Gameshark
+Activation = EndFrame
+300A5158 0001
+
+[Habe Zwille]
+Type = Gameshark
+Activation = EndFrame
+300A515C 0001
+
+[Habe Schlangenring]
+Type = Gameshark
+Activation = EndFrame
+300A5160 0001
+
+[Habe PanflöTe]
+Type = Gameshark
+Activation = EndFrame
+300A5164 0001
+
+[Habe Eispickel]
+Type = Gameshark
+Activation = EndFrame
+300A5168 0001
+
+[Habe HolzknüPpel]
+Type = Gameshark
+Activation = EndFrame
+300A516C 0001
+
+[Habe Laterne]
+Type = Gameshark
+Activation = EndFrame
+300A51A8 0001
+
+[Habe Messer]
+Type = Gameshark
+Activation = EndFrame
+300A5170 0001
+
+[Habe TüRknauf]
+Type = Gameshark
+Activation = EndFrame
+300A5174 0001
+
+[Habe Messing(Fern?)Rohr]
+Type = Gameshark
+Activation = EndFrame
+300A5178 0001
+
+[Habe Rostigen SchlüSsel 1]
+Type = Gameshark
+Activation = EndFrame
+300A517C 0001
+
+[Habe Rostigen SchlüSsel 2]
+Type = Gameshark
+Activation = EndFrame
+300A5180 0001
+
+[Habe Messingzylinder]
+Type = Gameshark
+Activation = EndFrame
+300A5184 0001
+
+[Habe Enterhaken]
+Type = Gameshark
+Activation = EndFrame
+300A5188 0001
+
+[Habe LeierschlüSsel]
+Type = Gameshark
+Activation = EndFrame
+300A518C 0001
+
+[Habe GlobusschlüSsel]
+Type = Gameshark
+Activation = EndFrame
+300A5190 0001
+
+[Habe Brecheisen]
+Type = Gameshark
+Activation = EndFrame
+300A5194 0001
+
+[Habe Brett]
+Type = Gameshark
+Activation = EndFrame
+300A5198 0001
+
+[Habe Skelettierten Arm]
+Type = Gameshark
+Activation = EndFrame
+300A519C 0001
+
+[Habe Stange Mit Zwei ÖSen]
+Type = Gameshark
+Activation = EndFrame
+300A51A0 0001
+
+[Habe S-FöRmiges Eisen]
+Type = Gameshark
+Activation = EndFrame
+300A51A4 0001
+

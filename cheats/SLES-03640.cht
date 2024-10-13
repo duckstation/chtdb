@@ -1,0 +1,44 @@
+; CHTDB: ; [ Disney Pippo Giochi Pazzi (Italy) {SLES-03640} ]
+
+[Infinite Time car minigame]
+Type = Gameshark
+Activation = EndFrame
+801EDF20 FFFF
+
+[Infinite Time	dog minigame]
+Type = Gameshark
+Activation = EndFrame
+800AD7AC 270F
+
+[Have all of the objects to put in the paintings L1+R1 to activate or L1 to deactivate if you want to watch the movie bonus]
+Type = Gameshark
+Activation = EndFrame
+90079664 00000000
+90079668 14470007
+D01CBC5A F3FF
+80079664 0003
+D01CBC5A F3FF
+80079666 3402
+D01CBC5A F3FF
+80079668 0078
+D01CBC5A F3FF
+8007966A A4A2
+D01CBC5A FBFF
+80079664 0000
+D01CBC5A FBFF
+80079666 3402
+D01CBC5A FBFF
+80079668 0078
+D01CBC5A FBFF
+8007966A A4A2
+
+[Start with 99 films taken]
+Type = Gameshark
+Activation = EndFrame
+80078C1A 2400
+
+[Stop timer level take the mole]
+Type = Gameshark
+Activation = EndFrame
+80067BC8 0000
+

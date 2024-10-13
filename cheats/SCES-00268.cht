@@ -1,0 +1,32 @@
+; CHTDB: ; [ Namco Museum Vol. 3 (Europe) {SCES-00268} ]
+
+[Dig Dug\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8012544C 0003
+
+[Phozon\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80168D90 0302
+
+[Galaxian\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8010EC5C 0003
+
+[Ms. Pacman\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801359A8 0003
+
+[Pole Position 2\Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80135548 7800
+
+[The Tower Of Druaga\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8016664A 0003
+

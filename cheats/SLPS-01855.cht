@@ -1,0 +1,51 @@
+; CHTDB: ; [ Armored Core: Master of Arena (Japan) {SLPS-01855 | SLPS-01856} ]
+
+[Max Credits]
+Type = Gameshark
+Activation = EndFrame
+9003EA98 05F5E0FF
+
+[Scenario Ap Max]
+Type = Gameshark
+Activation = EndFrame
+D007B006 1040
+801E6BB8 9C3B
+
+[Scenario Time]
+Type = Gameshark
+Activation = EndFrame
+D0052726 2462
+800A0DCC 5000
+
+[Arena Ap Max]
+Type = Gameshark
+Activation = EndFrame
+D007B3E2 1040
+801D8590 9C3B
+
+[Arena Enemy Ap 0]
+Type = Gameshark
+Activation = EndFrame
+D007B3E2 1040
+801D8708 0000
+
+[Booster Max]
+Type = Gameshark
+Activation = EndFrame
+800451CE EA60
+
+[Bullet 1000]
+Type = Gameshark
+Activation = EndFrame
+8004549E 03E8
+800454A0 03E8
+900454DC 03E803E8
+8004551A 03E8
+8004551C 03E8
+
+[All Options]
+Type = Gameshark
+Activation = EndFrame
+D0084708 002A
+8003EA94 FFFF
+

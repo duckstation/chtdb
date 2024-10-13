@@ -1,0 +1,30 @@
+; CHTDB: ; [ The Granstream Saga (Europe) {SCES-01107} ]
+
+[Infinite HP in battle]
+Type = Gameshark
+Activation = EndFrame
+800C1BCC 001E
+
+[Infinite Magic in battle]
+Type = Gameshark
+Activation = EndFrame
+800C1BCE 03E7
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+801C915C 270F
+
+[Infinite Magic]
+Type = Gameshark
+Activation = EndFrame
+801C981E 03E7
+800C1BCE 03E7
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800BBA84 0074
+800BBAC4 0074
+800C1BCC 0028
+

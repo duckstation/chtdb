@@ -1,0 +1,49 @@
+; CHTDB: ; [ Kensei: Sacred Fist (Europe) {SLES-01081} ]
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800C4D4A 0090
+800CE23C 00C0
+
+[P2 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800C4D60 0090
+800CF5D8 00C0
+
+[All characters available]
+Type = Gameshark
+Activation = EndFrame
+90010588 003FFFFF
+
+[Enable extra mode]
+Type = Gameshark
+Activation = EndFrame
+80010090 0007
+
+[P1 Infinite Health alt]
+Type = Gameshark
+Activation = EndFrame
+900485D8 10400004
+
+[P1 1 round to win]
+Type = Gameshark
+Activation = EndFrame
+3001020C 0002
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A70C7F18 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A70C7F18 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A70C7F18 10000400
+

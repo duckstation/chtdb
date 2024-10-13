@@ -1,0 +1,17 @@
+; CHTDB: ; [ Lucky Luke (Japan) {SLPS-01674} ]
+
+[Infinite Life]
+Type = Gameshark
+Activation = EndFrame
+900A6DB0 00030005
+
+[Infinite Dynamite]
+Type = Gameshark
+Activation = EndFrame
+800A6DB6 0009
+
+[Infinite Funds]
+Type = Gameshark
+Activation = EndFrame
+800A6DB4 03E7
+

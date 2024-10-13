@@ -1,0 +1,155 @@
+; CHTDB: ; [ Tokyo Highway Battle (USA) (1996) (Jaleco USA) {SLUS-00229} <tokyohw> ]
+
+[Infinite Funds]
+Type = Gameshark
+Activation = EndFrame
+8006DEBC FFFF
+
+[Triangle Button Turbo Boost]
+Type = Gameshark
+Activation = EndFrame
+D006E2C0 0010
+800C3FEA 000F
+
+[Laptime 0.00.00 + always first]
+Type = Gameshark
+Activation = EndFrame
+3006DF28 0000
+
+[Infinite Lap Time]
+Type = Gameshark
+Activation = EndFrame
+8004CF34 0CBA
+8004CF48 0CBA
+8004D560 0DAA
+8006752C 7124
+80060A04 0E9A
+8006DF2C 05CE
+8006DF30 05CE
+8006DF34 05CE
+
+[Select Car Type\1]
+Type = Gameshark
+Activation = EndFrame
+30184AA4 0001
+
+[Select Car Type\2]
+Type = Gameshark
+Activation = EndFrame
+30184AA4 0002
+
+[Select Car Type\3]
+Type = Gameshark
+Activation = EndFrame
+30184AA4 0003
+
+[Select Car Type\4]
+Type = Gameshark
+Activation = EndFrame
+30184AA4 0004
+
+[Select Car Type\5]
+Type = Gameshark
+Activation = EndFrame
+30184AA4 0005
+
+[Select Car Type\6]
+Type = Gameshark
+Activation = EndFrame
+30184AA4 0006
+
+[Select Car Type\7]
+Type = Gameshark
+Activation = EndFrame
+30184AA4 0007
+
+[Select Car Type\8]
+Type = Gameshark
+Activation = EndFrame
+30184AA4 0008
+
+[Select Car Type\9]
+Type = Gameshark
+Activation = EndFrame
+30184AA4 0009
+
+[Select Car Type\10]
+Type = Gameshark
+Activation = EndFrame
+30184AA4 000A
+
+[Select Car Type\11]
+Type = Gameshark
+Activation = EndFrame
+30184AA4 000B
+
+[Select Car Type\12]
+Type = Gameshark
+Activation = EndFrame
+30184AA4 000C
+
+[Select Car Type\13]
+Type = Gameshark
+Activation = EndFrame
+30184AA4 000D
+
+[Select Car Type\14]
+Type = Gameshark
+Activation = EndFrame
+30184AA4 000E
+
+[Select Car Type\15]
+Type = Gameshark
+Activation = EndFrame
+30184AA4 000F
+
+[Select Car Type\16]
+Type = Gameshark
+Activation = EndFrame
+30184AA4 0010
+
+[Select Car Type\17]
+Type = Gameshark
+Activation = EndFrame
+30184AA4 0011
+
+[Select Car Type\18]
+Type = Gameshark
+Activation = EndFrame
+30184AA4 0012
+
+[Select Car Type\19]
+Type = Gameshark
+Activation = EndFrame
+30184AA4 0013
+
+[Select Car Type\20]
+Type = Gameshark
+Activation = EndFrame
+30184AA4 0014
+
+[Select Car Type\21]
+Type = Gameshark
+Activation = EndFrame
+30184AA4 0015
+
+[Select Car Type\22]
+Type = Gameshark
+Activation = EndFrame
+30184AA4 0016
+
+[Select Car Type\23]
+Type = Gameshark
+Activation = EndFrame
+30184AA4 0017
+
+[Select Car Type\24]
+Type = Gameshark
+Activation = EndFrame
+30184AA4 0018
+
+[More Speed .Press Brake-Button]
+Type = Gameshark
+Activation = EndFrame
+30184AA5 0040
+

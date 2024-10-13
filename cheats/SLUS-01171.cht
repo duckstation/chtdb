@@ -1,0 +1,39 @@
+; CHTDB: ; [ Family Feud (USA) (2000) (Hasbro Interactive) {SLUS-01171} <famfeud> ]
+
+[Team 1 Max Score]
+Type = Gameshark
+Activation = EndFrame
+800A3A88 03E7
+
+[Team 1 No Score]
+Type = Gameshark
+Activation = EndFrame
+800A3A88 0000
+
+[Team 2 Max Score]
+Type = Gameshark
+Activation = EndFrame
+800A3AAC 03E7
+
+[Team 2 No Score]
+Type = Gameshark
+Activation = EndFrame
+800A3AAC 0000
+
+[Team 1 Infinite Strikes]
+Type = Gameshark
+Activation = EndFrame
+D00A3A70 0000
+800A3634 0000
+
+[Team 2 Infinite Strikes]
+Type = Gameshark
+Activation = EndFrame
+D00A3A70 0001
+800A3634 0000
+
+[Infinite Time To Answer]
+Type = Gameshark
+Activation = EndFrame
+800A361C 0032
+

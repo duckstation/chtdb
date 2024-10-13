@@ -1,0 +1,37 @@
+; CHTDB: ; [ Final Fantasy Origins: Final Fantasy (Europe) {SLES-04034} ]
+
+[Infinite HP in battle character 1]
+Type = Gameshark
+Activation = EndFrame
+800BDDEC 0063
+
+[Infinite HP in battle character 2]
+Type = Gameshark
+Activation = EndFrame
+800BDE3C 0063
+
+[Infinite HP in battle character 3]
+Type = Gameshark
+Activation = EndFrame
+800BDE8C 0063
+
+[Infinite HP in battle character 4]
+Type = Gameshark
+Activation = EndFrame
+800BDEDC 0063
+
+[All Actors]
+Type = Gameshark
+Activation = EndFrame
+800BEF5E 00FF
+
+[Fewer Random Battles]
+Type = Gameshark
+Activation = EndFrame
+300BDFEC 0001
+
+[Infinite Gil]
+Type = Gameshark
+Activation = EndFrame
+800F4CB8 270F
+

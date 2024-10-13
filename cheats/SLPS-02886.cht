@@ -1,0 +1,73 @@
+; CHTDB: ; [ Tetris with Card Captor Sakura: Eternal Heart (Japan) {SLPS-02886} ]
+
+[Scenario Clear in one Movement]
+Type = Gameshark
+Activation = EndFrame
+300E7AE6 0007
+800E7B54 FEFE
+
+[She Also Fought Meyrin]
+Type = Gameshark
+Activation = EndFrame
+800BB3B4 FFFF
+
+[Whoo it's sealed off timeout huhuhu]
+Type = Gameshark
+Activation = EndFrame
+80027D8A 00A0
+80027E3E 1000
+
+[All Plastic chyana Gallery]
+Type = Gameshark
+Activation = EndFrame
+800E9434 FFFF
+300E9436 007F
+800E94E4 FFFF
+300E94E6 007F
+300E94EE 0007
+300E94F2 0007
+300E94F6 0007
+300E94FA 0007
+300E94FE 0007
+300E9502 0007
+300E9506 0007
+300E950A 0007
+300E950E 0007
+300E9512 0007
+300E9516 0007
+300E951A 0007
+300E951E 0007
+300E9522 0007
+300E9526 0007
+300E952A 0007
+300E952E 0007
+300E9532 0007
+800E9708 FFFF
+300E970A 001F
+
+[Tomoyo all the secret files]
+Type = Gameshark
+Activation = EndFrame
+900E970C FFFFFFFF
+800E9710 FFFF
+300E9712 0007
+
+[All Elemental Collection]
+Type = Gameshark
+Activation = EndFrame
+900E9714 FFFFFFFF
+800E9718 0FFF
+
+[All in all rooms]
+Type = Gameshark
+Activation = EndFrame
+900E971C FFFFFFFF
+900E9720 FFFFFFFF
+800E9724 FFFF
+300E9726 0007
+
+[That align all - play Tetris character]
+Type = Gameshark
+Activation = EndFrame
+800BB3B4 1FFF
+

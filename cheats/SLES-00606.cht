@@ -1,0 +1,8 @@
+; CHTDB: ; [ Pro Pinball: Timeshock! aka Timeshock! (Europe) {SLES-00606} ]
+
+[P1 Infinite Balls]
+Type = Gameshark
+Activation = EndFrame
+800B03DC 0098
+800BD1CC 0001
+

@@ -1,0 +1,22 @@
+; CHTDB: ; [ Salary Man Settai Mahjong (Jpn) (2001) (Visit) {SLPS-03175} <salmanmj> ]
+
+[Player has 99999 points]
+Type = Gameshark
+Activation = EndFrame
+900688E8 0001869F
+
+[Opponent 1 has 0 points]
+Type = Gameshark
+Activation = EndFrame
+800697F4 0000
+
+[Opponent 2 has 0 points]
+Type = Gameshark
+Activation = EndFrame
+800692F0 0000
+
+[Opponent 3 has 0 points]
+Type = Gameshark
+Activation = EndFrame
+80068DEC 0000
+

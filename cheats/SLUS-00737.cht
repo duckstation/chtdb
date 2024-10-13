@@ -1,0 +1,24 @@
+; CHTDB: ; [ Knockout Kings (USA) (1998) (Electronic Arts) {SLUS-00737, SLUS-00737A} <kokings> ]
+
+[P1 Infinite Stamina]
+Type = Gameshark
+Activation = EndFrame
+801DA5DE 002D
+801DA606 002D
+
+[P1 Max Power]
+Type = Gameshark
+Activation = EndFrame
+801DA60C 0BB2
+
+[P2 No Power]
+Type = Gameshark
+Activation = EndFrame
+801DAF98 0000
+
+[P2 No Stamina]
+Type = Gameshark
+Activation = EndFrame
+801DAF6A 0000
+801DAF92 0000
+

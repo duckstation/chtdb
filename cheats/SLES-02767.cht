@@ -1,0 +1,58 @@
+; CHTDB: ; [ Frontschweine (Germany) (Best of Infogrames) {SLES-02767} ]
+
+[Suddendeath (.L1 & L2 drücken, wenn das eigene Team am Zug ist, R1 & R2 drücken, wenn der Gegner dran ist)]
+Type = Gameshark
+Activation = EndFrame
+800A205C 0000
+D002C922 FAFF
+800A205E 3403
+D002C922 F5FF
+800A205E 0000
+
+[Mehr Zeit Drücke L1 & R1]
+Type = Gameshark
+Activation = EndFrame
+D002C922 F3FF
+80029180 0F00
+
+[Weniger Zeit Drücke L2 & R2 Damit ist sofort die andere Mannschaft am Zug]
+Type = Gameshark
+Activation = EndFrame
+D002C922 FCFF
+80029180 FF00
+
+[Ue Mu & Gegenstaende]
+Type = Gameshark
+Activation = EndFrame
+900A4144 00000000
+
+[Max BeföRderungspunkte]
+Type = Gameshark
+Activation = EndFrame
+8002B5CE 03E7
+
+[Rangmodifizierer\1. Sau %RANGMODIFIZIERER]
+Type = Gameshark
+Activation = EndFrame
+3002B5ED 000?
+
+[Rangmodifizierer\2. Sau %RANGMODIFIZIERER]
+Type = Gameshark
+Activation = EndFrame
+3002B62D 000?
+
+[Rangmodifizierer\3. Sau %RANGMODIFIZIERER]
+Type = Gameshark
+Activation = EndFrame
+3002B66D 000?
+
+[Rangmodifizierer\4. Sau %RANGMODIFIZIERER]
+Type = Gameshark
+Activation = EndFrame
+3002B6AD 000?
+
+[Rangmodifizierer\5. Sau %RANGMODIFIZIERER]
+Type = Gameshark
+Activation = EndFrame
+3002B6ED 000?
+

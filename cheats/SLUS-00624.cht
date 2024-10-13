@@ -1,0 +1,42 @@
+; CHTDB: ; [ Gauntlet Legends (USA) (2000) (Midway Home Entertainment) {SLUS-00624} <gauntleg> ]
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80096DBC 270F
+
+[P2 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80097638 270F
+
+[P1 Infinite Keys]
+Type = Gameshark
+Activation = EndFrame
+80096DF8 0063
+
+[Have Falconess]
+Type = Gameshark
+Activation = EndFrame
+80096FF0 0000
+
+[Have Jackal]
+Type = Gameshark
+Activation = EndFrame
+80096FF8 0001
+
+[Have Minotaur]
+Type = Gameshark
+Activation = EndFrame
+80097000 0001
+
+[Have Tigress]
+Type = Gameshark
+Activation = EndFrame
+80097008 0001
+
+[Zoom Out]
+Type = Gameshark
+Activation = EndFrame
+A701E040 10000800
+

@@ -1,0 +1,56 @@
+; CHTDB: ; [ Expendable (USA) (2000) (Infogrames) {SLUS-01075} <expendbl> ]
+
+[P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+300A6364 0063
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800A6396 03E6
+
+[P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+300A69BC 0063
+
+[P2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800A69EE 03E6
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800A0834 03E7
+
+[Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+300A0618 0009
+
+[Have All Keys]
+Type = Gameshark
+Activation = EndFrame
+800B6BAC 0500
+
+[Have All Passcards]
+Type = Gameshark
+Activation = EndFrame
+800B6B84 0101
+800B6B82 0100
+800B6B86 0001
+
+[P1+P2 Infinite Ammo Shotgun]
+Type = Gameshark
+Activation = EndFrame
+D0034FD8 0614
+80034FDA 2400
+
+[P1+P2 All Grenades Needs No Ammo To Fire + Get Hella Ammo]
+Type = Gameshark
+Activation = EndFrame
+D0039D30 0022
+80039D32 2400
+

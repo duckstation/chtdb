@@ -1,0 +1,36 @@
+; CHTDB: ; [ Dragon Drive Tactics Break (Jpn) (2002) (Bandai) {SLPS-03470} <dragdriv> ]
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801DEDD4 03E7
+801DEDD8 03E7
+
+[P1 Infinite EP]
+Type = Gameshark
+Activation = EndFrame
+801DEDD6 03E7
+801DEDDA 03E7
+
+[Infinite Energy Dragon]
+Type = Gameshark
+Activation = EndFrame
+801DEF70 03E7
+801DEF74 03E7
+
+[Infinite EP Dragon]
+Type = Gameshark
+Activation = EndFrame
+801DEF72 03E7
+801DEF76 03E7
+
+[Opponent has only 1 HP (Deactivate after sending it)]
+Type = Gameshark
+Activation = EndFrame
+801DF10C 0001
+
+[PTS 99999]
+Type = Gameshark
+Activation = EndFrame
+900893DC 0001869F
+

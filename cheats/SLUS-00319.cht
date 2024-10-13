@@ -1,0 +1,13 @@
+; CHTDB: ; [ Golden Nugget (USA) (1997) (Virgin Interactive Entertainment) {SLUS-00319 / SLUS-00555} <goldnugg> ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+D000857C 00FF
+801E26A2 FFFF
+
+[Infinite Markers]
+Type = Gameshark
+Activation = EndFrame
+801E26B8 0009
+

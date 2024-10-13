@@ -1,0 +1,106 @@
+; CHTDB: ; [ Die Flintstones: Bedrock Bowling (Germany) {SLES-03320} ]
+
+[Versuche nehmen zu (alle Spieler)]
+Type = Gameshark
+Activation = EndFrame
+A604780C FFFFFFFF
+
+[Spielbahn Modifizierer	Gravel Factory / Kiesfabrik]
+Type = Gameshark
+Activation = EndFrame
+3007BF90 0000
+
+[Spielbahn Modifiziere Quarry / Steinbruch]
+Type = Gameshark
+Activation = EndFrame
+3007BF90 0001
+
+[Spielbahn Modifiziere Flooded Quarry / Überfluteter Steinbruch]
+Type = Gameshark
+Activation = EndFrame
+3007BF90 0002
+
+[Spielbahn Modifiziere Tar Pits / Teergruben]
+Type = Gameshark
+Activation = EndFrame
+3007BF90 0003
+
+[Spielbahn Modifiziere Bonus - The Rubbles Backyard Pool / Geröllheimers Hinterhof]
+Type = Gameshark
+Activation = EndFrame
+3007BF90 0004
+
+[Spielbahn Modifiziere Bedrock Freeway / Bedrock-Autobahn]
+Type = Gameshark
+Activation = EndFrame
+3007BF90 0005
+
+[Spielbahn Modifiziere Crystal Mine / Kristallmine]
+Type = Gameshark
+Activation = EndFrame
+3007BF90 0006
+
+[Spielbahn Modifiziere Lava]
+Type = Gameshark
+Activation = EndFrame
+3007BF90 0007
+
+[Spielbahn Modifiziere Rockzilla]
+Type = Gameshark
+Activation = EndFrame
+3007BF90 0008
+
+[Spielbahn Modifiziere Bonus - Water Buffalo Lodge / Wasserbüffel-Lodge]
+Type = Gameshark
+Activation = EndFrame
+3007BF90 0009
+
+[Spielbahn Modifiziere Zetox]
+Type = Gameshark
+Activation = EndFrame
+3007BF90 000A
+
+[Spielbahn Modifiziere Hidden - Gazoo's Asteroid / Versteckt - Der Asteroid von Gazoo]
+Type = Gameshark
+Activation = EndFrame
+3007BF90 000B
+
+[P1 Bonus = 50.000]
+Type = Gameshark
+Activation = EndFrame
+D307B8A0 0000
+8007B8A0 C350
+
+[P1 Beginne mit hoher Punktzahl]
+Type = Gameshark
+Activation = EndFrame
+A607B8A8 00008760
+D007B8AA 0000
+3007B8AA 0003
+
+[P1 Unendlich Versuche]
+Type = Gameshark
+Activation = EndFrame
+D007B8C0 0000
+3007B8C0 0001
+
+[P1 Alle Pins getroffen]
+Type = Gameshark
+Activation = EndFrame
+D307B8C2 0000
+3007B8C2 000A
+
+[P1 Alle Dodo Vögel getroffen]
+Type = Gameshark
+Activation = EndFrame
+E307B8C3 0000
+3007B8C3 0003
+
+[P1 Alle Juwelen gesammelt]
+Type = Gameshark
+Activation = EndFrame
+D307B8C4 0000
+3007B8C4 0064
+D109ADF4 0064
+3009ADF4 0064
+

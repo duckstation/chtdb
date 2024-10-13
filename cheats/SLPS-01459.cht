@@ -1,0 +1,103 @@
+; CHTDB: ; [ b.l.u.e. - Legend of Water (Jpn) (1998) (Hudson) {SLPS-01459} <blue> ]
+
+[Save Everywhere]
+Type = Gameshark
+Activation = EndFrame
+D00BBC02 FFFF
+800BBC48 0100
+D00CEE72 FFFF
+800CEEB8 0100
+D00D8006 FFFF
+800D804C 0100
+D00D27D6 FFFF
+800D281C 0100
+D00D5F32 FFFF
+800D5F78 0100
+D00D8006 FFFF
+800D804C 0100
+D00CA4A6 FFFF
+800CA4EC 0100
+D00D25BA FFFF
+800D2600 0100
+
+[Extra Bonus In Maia Note]
+Type = Gameshark
+Activation = EndFrame
+A60809F2 FFFF0000
+
+[All Puzzles]
+Type = Gameshark
+Activation = EndFrame
+80010266 0400
+
+[All Movies]
+Type = Gameshark
+Activation = EndFrame
+90010238 FFFFFFFF
+9001023C FFFFFFFF
+90010240 FFFFFFFF
+90010244 FFFFFFFF
+80010248 FFFF
+3001024A 00FF
+
+[Intro Chapter\Infinite Air And HP]
+Type = Gameshark
+Activation = EndFrame
+D00BBC02 FFFF
+800BBC08 4660
+A60BBC48 00000100
+
+[Chapter 1\Infinite Air And HP]
+Type = Gameshark
+Activation = EndFrame
+D00CEE72 FFFF
+800CEE78 4660
+A60CEEB8 00000100
+
+[Chapter 2 (Part 1)\Infinite Air And HP]
+Type = Gameshark
+Activation = EndFrame
+D00D8006 FFFF
+800D800C 4660
+D00D804C 0000
+800C804C 0100
+
+[Chapter 2 (Part 2)\Infinite Air And HP]
+Type = Gameshark
+Activation = EndFrame
+D00D27D6 FFFF
+800D27DC 4660
+D00D281C 0000
+800C281C 0100
+
+[Chapter 3\Infinite Air And HP And Gun]
+Type = Gameshark
+Activation = EndFrame
+D00D5F32 FFFF
+800D5F38 5DBD
+A60D5F78 00000100
+
+[Chapter 4\Infinite Air And HP And Gun]
+Type = Gameshark
+Activation = EndFrame
+C00D8006 FFFF
+800D800C 5DBD
+800101CC 176F
+00000000 FFFF
+D00D804C 0000
+800C804C 0100
+
+[Chapter 5\Infinite Air And HP And Gun]
+Type = Gameshark
+Activation = EndFrame
+D00CA4A6 FFFF
+800CA4AC 5DBD
+A60CA4EC 00000100
+
+[Last Chapter-Shrine\Infinite Air And HP And Gun]
+Type = Gameshark
+Activation = EndFrame
+D00D25BA FFFF
+800D25C0 5DBD
+A60D2600 00000100
+

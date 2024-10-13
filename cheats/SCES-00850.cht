@@ -1,0 +1,69 @@
+; CHTDB: ; [ Treasures of the Deep (Europe) {SCES-00850} ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800B98F0 FFFF
+
+[Infinite Air]
+Type = Gameshark
+Activation = EndFrame
+80116D0C 015E
+
+[All weapons & items]
+Type = Gameshark
+Activation = EndFrame
+50000E02 0000
+80040A38 0002
+
+[A lot of money]
+Type = Gameshark
+Activation = EndFrame
+800407AE 03FF
+
+[Unlock all missions]
+Type = Gameshark
+Activation = EndFrame
+30032595 0001
+30032596 0001
+30032597 0001
+30032598 0001
+30032599 0001
+3003259A 0001
+3003259B 0001
+3003259C 0001
+3003259D 0001
+3003259E 0001
+3003259F 0001
+300325A0 0001
+
+[Super speed]
+Type = Gameshark
+Activation = EndFrame
+80099CF8 0100
+
+[Infinite Payload]
+Type = Gameshark
+Activation = EndFrame
+8003248C 0101
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80033080 0000
+
+[Have all subs]
+Type = Gameshark
+Activation = EndFrame
+800440F8 00FF
+
+[Infinite Energy (alternate)]
+Type = Gameshark
+Activation = EndFrame
+80099CF8 0001
+
+[Hunting licence]
+Type = Gameshark
+Activation = EndFrame
+8003248E 0001
+

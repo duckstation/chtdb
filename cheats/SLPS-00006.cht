@@ -1,0 +1,32 @@
+; CHTDB: ; [ Nekketsu Oyako (Japan) {SLPS-00006} ]
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801DA072 0068
+
+[P2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801DA176 0068
+
+[P1 Invincibility]
+Type = Gameshark
+Activation = EndFrame
+801DA0D6 000F
+
+[P2 Invincibility]
+Type = Gameshark
+Activation = EndFrame
+801DA1DA 000F
+
+[P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801DA070 0009
+
+[P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801DA174 0009
+

@@ -1,0 +1,71 @@
+; CHTDB: ; [ Future Cop: L.A.P.D. (Europe) {SLES-01449} ]
+
+[Infinite Ammo .The Infinite Ammo codes will not work with the bonus weapon (Riot Shield).]
+Type = Gameshark
+Activation = EndFrame
+8006C35C 0000
+
+[Infinite Power Up Ammo .The Infinite Ammo codes will not work with the bonus weapon (Riot Shield).]
+Type = Gameshark
+Activation = EndFrame
+8006C354 0000
+
+[Have All Weapons]
+Type = Gameshark
+Activation = EndFrame
+8009CE8E 0004
+8009CEA2 0004
+8009CEB6 0004
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8005891C 2400
+
+[Bonus Weapons]
+Type = Gameshark
+Activation = EndFrame
+8009CE8C 0005
+8009CEA0 0005
+8009CEB4 0005
+
+[Shields & Max Gun Power\Griffith Park .These codes only work in one player mode (Crime War).]
+Type = Gameshark
+Activation = EndFrame
+801D7EBE 05C2
+
+[Shields & Max Gun Power\Zuma Beach .These codes only work in one player mode (Crime War).]
+Type = Gameshark
+Activation = EndFrame
+801C39A6 01C2
+
+[Shields & Max Gun Power\La Brea Tar Pits .These codes only work in one player mode (Crime War).]
+Type = Gameshark
+Activation = EndFrame
+801ED73A 01C2
+
+[Shields & Max Gun Power\Vernice Beach .These codes only work in one player mode (Crime War).]
+Type = Gameshark
+Activation = EndFrame
+801E39D2 01C2
+
+[Shields & Max Gun Power\Hells Gate Prison .These codes only work in one player mode (Crime War).]
+Type = Gameshark
+Activation = EndFrame
+801D7132 01C2
+
+[Shields & Max Gun Power\Studio City .These codes only work in one player mode (Crime War).]
+Type = Gameshark
+Activation = EndFrame
+801CC632 01C2
+
+[Shields & Max Gun Power\Lax Spaceport .These codes only work in one player mode (Crime War).]
+Type = Gameshark
+Activation = EndFrame
+801DA04E 01C2
+
+[Shields & Max Gun Power\Long Beach .These codes only work in one player mode (Crime War).]
+Type = Gameshark
+Activation = EndFrame
+801EB95A 01C2
+

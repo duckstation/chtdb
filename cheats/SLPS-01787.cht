@@ -1,0 +1,114 @@
+; CHTDB: ; [ London Seirei Tanteidan (Japan) {SLPS-01787} ]
+
+[No Enemies]
+Type = Gameshark
+Activation = EndFrame
+30032584 0021
+
+[Infinite SP During Battle]
+Type = Gameshark
+Activation = EndFrame
+8001B246 0040
+
+[Fast Level Up]
+Type = Gameshark
+Activation = EndFrame
+80022782 2400
+
+[One Fight For Level-Up]
+Type = Gameshark
+Activation = EndFrame
+800D1254 03E7
+
+[Max Money]
+Type = Gameshark
+Activation = EndFrame
+900B83E8 05F5E0FF
+
+[Max Refund Points]
+Type = Gameshark
+Activation = EndFrame
+800B83F0 C350
+
+[1st Character\Max Hp]
+Type = Gameshark
+Activation = EndFrame
+800B5ADE 03E7
+800B5AE0 03E7
+
+[1st Character\Max Mp]
+Type = Gameshark
+Activation = EndFrame
+800B5AE2 03E7
+800B5AE4 03E7
+
+[1st Character\Max Status]
+Type = Gameshark
+Activation = EndFrame
+800AB372 FFFF
+900AB374 FFFFFFFF
+
+[2nd Character\Max Hp]
+Type = Gameshark
+Activation = EndFrame
+800B5BA6 03E7
+800B5BA8 03E7
+
+[2nd Character\Max Mp]
+Type = Gameshark
+Activation = EndFrame
+800B5BAA 03E7
+800B5BAC 03E7
+
+[2nd Character\Max Status]
+Type = Gameshark
+Activation = EndFrame
+800AB3B6 FFFF
+900AB3B8 FFFFFFFF
+
+[All Attack Items]
+Type = Gameshark
+Activation = EndFrame
+50002401 0000
+300B8424 0063
+
+[All Items]
+Type = Gameshark
+Activation = EndFrame
+50003001 0000
+300B83F4 0063
+
+[All Other]
+Type = Gameshark
+Activation = EndFrame
+50001201 0000
+300B850C 0063
+
+[All Sub Items]
+Type = Gameshark
+Activation = EndFrame
+50001001 0000
+300B8448 0063
+
+[All Weapon & Guard]
+Type = Gameshark
+Activation = EndFrame
+5000AA01 0000
+300B8458 0063
+
+[Infinite & Max HP in battle]
+Type = Gameshark
+Activation = EndFrame
+900CF3F0 03E703E7
+
+[Infinite & Max SP in battle]
+Type = Gameshark
+Activation = EndFrame
+900CF3F4 03E703E7
+
+[None Encounter]
+Type = Gameshark
+Activation = EndFrame
+900AA768 00000000
+900AA98C 80000000
+

@@ -1,0 +1,12 @@
+; CHTDB: ; [ Power Serve (Europe) {SLES-00118} ]
+
+[Always 1st Service]
+Type = Gameshark
+Activation = EndFrame
+8009C660 0000
+
+[Computer Player Can't Win]
+Type = Gameshark
+Activation = EndFrame
+8009C658 0000
+

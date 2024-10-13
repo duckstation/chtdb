@@ -1,0 +1,18 @@
+; CHTDB: ; [ ECW Hardcore Revolution (USA) (2000) (Acclaim Entertainment) {SLUS-01045} <ecwhr> ]
+
+[Infinite Creation Points]
+Type = Gameshark
+Activation = EndFrame
+800680D0 0000
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+D00E0EC2 8006
+800E10B2 0000
+
+[Enable All Cheats]
+Type = Gameshark
+Activation = EndFrame
+900B18A0 100000FF
+

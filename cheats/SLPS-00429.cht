@@ -1,0 +1,7 @@
+; CHTDB: ; [ Jockey Zero (Japan) {SLPS-00429} ]
+
+[Infinite Horse stamina first race]
+Type = Gameshark
+Activation = EndFrame
+8006D80D 0056
+

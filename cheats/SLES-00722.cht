@@ -1,0 +1,8 @@
+; CHTDB: ; [ Ubik (Europe) {SLES-00722} ]
+
+[Stopwatch 00.00.00 Press Select & Start Pad 2]
+Type = Gameshark
+Activation = EndFrame
+D0079F4A FFF6
+3005FA18 0000
+

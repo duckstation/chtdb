@@ -1,0 +1,12 @@
+; CHTDB: ; [ MaxRacer (Jpn) (1997) (PD) {SLPS-00795} <maxracer> ]
+
+[Always first]
+Type = Gameshark
+Activation = EndFrame
+3016EFED 0001
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+801FFF78 0456
+

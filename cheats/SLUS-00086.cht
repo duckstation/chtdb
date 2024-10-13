@@ -1,0 +1,37 @@
+; CHTDB: ; [ Bases Loaded '96 - Double Header (USA) (1995) (Jaleco USA) {SLUS-00086} <baslod96> ]
+
+[Infinite Strikes]
+Type = Gameshark
+Activation = EndFrame
+800CB5A8 0000
+
+[Infinite Balls]
+Type = Gameshark
+Activation = EndFrame
+800C971C 0100
+
+[Infinite Outs]
+Type = Gameshark
+Activation = EndFrame
+800CB564 FF00
+
+[P1 Select Score\99]
+Type = Gameshark
+Activation = EndFrame
+800C6684 0063
+
+[P1 Select Score\0]
+Type = Gameshark
+Activation = EndFrame
+800C6684 0000
+
+[P2 Select Score\99]
+Type = Gameshark
+Activation = EndFrame
+800C6696 0063
+
+[P2 Select Score\0]
+Type = Gameshark
+Activation = EndFrame
+800C6696 0000
+

@@ -1,0 +1,179 @@
+; CHTDB: ; [ Ninja - Shadow of Darkness (USA) (1998) (Eidos Interactive) {SLUS-00435} <ninjasod> ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8006D030 0009
+
+[Infinite Magic/Lighting Bombs]
+Type = Gameshark
+Activation = EndFrame
+8006D0A0 0009
+
+[Max Score]
+Type = Gameshark
+Activation = EndFrame
+9006D014 0098967F
+8006D088 FFFF
+
+[Max Magic]
+Type = Gameshark
+Activation = EndFrame
+8006D018 0004
+
+[Have Silver Key]
+Type = Gameshark
+Activation = EndFrame
+8006D01C 0001
+
+[Have Gold Key]
+Type = Gameshark
+Activation = EndFrame
+8006D034 0001
+
+[Infinite Gold]
+Type = Gameshark
+Activation = EndFrame
+9006D044 0098967F
+
+[Full Screen View]
+Type = Gameshark
+Activation = EndFrame
+8006D058 0032
+
+[Infinite Smoke Bombs]
+Type = Gameshark
+Activation = EndFrame
+8006D07C 0009
+
+[Level Select]
+Type = Gameshark
+Activation = EndFrame
+3006BA9C 0001
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8006D05E 0054
+8006D09E 0054
+
+[No Boss Energy]
+Type = Gameshark
+Activation = EndFrame
+8006C28A 0000
+
+[Big Head, Hands & Feet Mode]
+Type = Gameshark
+Activation = EndFrame
+3006A31C 0001
+
+[Have Skeleton Figure]
+Type = Gameshark
+Activation = EndFrame
+3006A621 0001
+
+[Infinite Game Over Timer]
+Type = Gameshark
+Activation = EndFrame
+8006CFE4 0009
+
+[Infinite Health (ALT)]
+Type = Gameshark
+Activation = EndFrame
+800D5A54 86A0
+
+[Select Weapon\Nothing]
+Type = Gameshark
+Activation = EndFrame
+8006AD2A 0000
+
+[Select Weapon\Katana]
+Type = Gameshark
+Activation = EndFrame
+8006AD2A 0004
+
+[Select Weapon\Skeleton]
+Type = Gameshark
+Activation = EndFrame
+8006AD2A 0008
+
+[Select Weapon\Skeleton w/Katana]
+Type = Gameshark
+Activation = EndFrame
+8006AD2A 000C
+
+[Select Weapon\Mace]
+Type = Gameshark
+Activation = EndFrame
+8006AD2A 0010
+
+[Select Weapon\Skeleton w/Mace]
+Type = Gameshark
+Activation = EndFrame
+8006AD2A 0018
+
+[Select Weapon\Axe]
+Type = Gameshark
+Activation = EndFrame
+8006AD2A 0020
+
+[Select Weapon\Skeleton w/Axe]
+Type = Gameshark
+Activation = EndFrame
+8006AD2A 0028
+
+[Select Weapon\Mace?]
+Type = Gameshark
+Activation = EndFrame
+8006AD2A 0030
+
+[Select Weapon\Skeleton w/Mace?]
+Type = Gameshark
+Activation = EndFrame
+8006AD2A 0038
+
+[Select Weapon\Sai]
+Type = Gameshark
+Activation = EndFrame
+8006AD2A 0080
+
+[Select Weapon\Skeleton w/Sai]
+Type = Gameshark
+Activation = EndFrame
+8006AD2A 0088
+
+[Select Weapon\Staff]
+Type = Gameshark
+Activation = EndFrame
+8006AD2A 0100
+
+[Select Weapon\Skeleton w/Staff]
+Type = Gameshark
+Activation = EndFrame
+8006AD2A 0108
+
+[Select Weapon\Ultimate Sword]
+Type = Gameshark
+Activation = EndFrame
+8006AD2A 0200
+
+[Select Weapon\Skeleton w/Ultimate Sword]
+Type = Gameshark
+Activation = EndFrame
+8006AD2A 0208
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A70162E8 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A70162E8 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A70162E8 10000400
+

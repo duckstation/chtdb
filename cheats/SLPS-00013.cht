@@ -1,0 +1,67 @@
+; CHTDB: ; [ Raiden Project (Jpn) (1995) (Nihon System) {SLPS-00013, SLPS-91002 (Playstation the Best)} <raidenpjj> ]
+
+[Raiden I\P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8012CA80 0003
+
+[Raiden I\P1 Invincibility]
+Type = Gameshark
+Activation = EndFrame
+300F7658 0000
+
+[Raiden I\P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8012CAB0 0003
+
+[Raiden I\P1 Infinite Bombs]
+Type = Gameshark
+Activation = EndFrame
+8012CA8E 0003
+
+[Raiden I\P2 Infinite Bombs]
+Type = Gameshark
+Activation = EndFrame
+8012CABE 0003
+
+[Raiden I Invincibility]
+Type = Gameshark
+Activation = EndFrame
+D001ADE0 0078
+8001ADE2 1000
+D001B098 005C
+8001B094 1000
+
+[Raiden II\P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800EEA2C 0003
+
+[Raiden II\P1 Infinite Nuke Bombs]
+Type = Gameshark
+Activation = EndFrame
+800EEA24 0101
+
+[Raiden II\P1 Infinite Thunder Bombs]
+Type = Gameshark
+Activation = EndFrame
+800EEA24 0202
+
+[Raiden II\P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800EEA6C 0003
+
+[Raiden II\P2 Infinite Nuke Bombs]
+Type = Gameshark
+Activation = EndFrame
+800EEA64 0101
+
+[Raiden II Invincibility]
+Type = Gameshark
+Activation = EndFrame
+C00460EC 0005
+900460EC 08011853
+00000000 FFFF
+

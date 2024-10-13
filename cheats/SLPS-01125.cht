@@ -1,0 +1,27 @@
+; CHTDB: ; [ Real Robots - Final Attack (Jpn) (1998) (Banpresto) {SLPS-01125} <realrobo> ]
+
+[P1 Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800A756C 0080
+
+[P2 Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800A7618 0080
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800606A8 0984
+
+[P1 Infinite Charge]
+Type = Gameshark
+Activation = EndFrame
+800A7576 0360
+
+[P2 Infinite Charge]
+Type = Gameshark
+Activation = EndFrame
+800A7622 0360
+

@@ -1,0 +1,105 @@
+; CHTDB: ; [ Ten Pin Alley (USA) (1996) (ASC Games) {SLUS-00377} <10pin> ]
+
+[Always Aim For The Middle Of The Lane]
+Type = Gameshark
+Activation = EndFrame
+800AF080 00D0
+800AF370 00D0
+
+[Always In 1st Frame]
+Type = Gameshark
+Activation = EndFrame
+8012DB6A 0000
+
+[Angle Always In The Middle]
+Type = Gameshark
+Activation = EndFrame
+80124828 0009
+;The following cheats made by Phil the Hammer
+;With these cheats, use these cheats ONLY
+;in player-creation mode or the game will
+;freeze. Give all created players max
+;height, weight.etc. to create supermen.
+;This does not ruin the game, but it
+;DOES make your team quite superior.
+
+[Player-Creation\Max Acc]
+Type = Gameshark
+Activation = EndFrame
+8015FF5C 0064
+
+[Player-Creation\Max Agi]
+Type = Gameshark
+Activation = EndFrame
+8015FF58 0064
+
+[Player-Creation\Max Awr]
+Type = Gameshark
+Activation = EndFrame
+8015FF5E 0064
+
+[Player-Creation\Max Btk]
+Type = Gameshark
+Activation = EndFrame
+8015FF6C 0064
+
+[Player-Creation\Max Car]
+Type = Gameshark
+Activation = EndFrame
+8015FF62 0064
+
+[Player-Creation\Max Cth]
+Type = Gameshark
+Activation = EndFrame
+8015FF60 0064
+
+[Player-Creation\Max Imp]
+Type = Gameshark
+Activation = EndFrame
+8015FF70 0064
+
+[Player-Creation\Max Kac]
+Type = Gameshark
+Activation = EndFrame
+8015FF6A 0064
+
+[Player-Creation\Max Kpw]
+Type = Gameshark
+Activation = EndFrame
+8015FF68 0064
+
+[Player-Creation\Max Pbk]
+Type = Gameshark
+Activation = EndFrame
+8015FF72 0064
+
+[Player-Creation\Max Rbk]
+Type = Gameshark
+Activation = EndFrame
+8015FF74 0064
+
+[Player-Creation\Max Spd]
+Type = Gameshark
+Activation = EndFrame
+8015FF5A 0064
+
+[Player-Creation\Max Str]
+Type = Gameshark
+Activation = EndFrame
+8015FF56 0064
+
+[Player-Creation\Max Tak]
+Type = Gameshark
+Activation = EndFrame
+8015FF6E 0064
+
+[Player-Creation\Max Tha]
+Type = Gameshark
+Activation = EndFrame
+8015FF66 0064
+
+[Player-Creation\Max Thp]
+Type = Gameshark
+Activation = EndFrame
+8015FF64 0064
+

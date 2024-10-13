@@ -1,0 +1,443 @@
+; CHTDB: ; [ Resident Evil 2 (Europe) {SLES-00972 | SLES-10972} ]
+
+[Leon-Codes\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800C794A 00FF
+
+[Leon-Codes\Have Shot Gun L1 + Square]
+Type = Gameshark
+Activation = EndFrame
+D00C5F3C 0084
+800CC638 FF07
+
+[Leon-Codes\Have Custom Shotgun L2 + Triangle]
+Type = Gameshark
+Activation = EndFrame
+D00C5F3C 0011
+800CC638 FF08
+
+[Leon-Codes\Have Magnum L1 + Triangle]
+Type = Gameshark
+Activation = EndFrame
+D00C5F3C 0014
+800CC638 FF05
+
+[Leon-Codes\Have Custom Magnum L1 + X]
+Type = Gameshark
+Activation = EndFrame
+D00C5F3C 0044
+800CC638 FF06
+
+[Leon-Codes\Have Gatling Gun R2 + Square]
+Type = Gameshark
+Activation = EndFrame
+D00C5F3C 0082
+800CC638 FF12
+
+[Leon-Codes\Have Flame Thrower R2 + Triangle]
+Type = Gameshark
+Activation = EndFrame
+D00C5F3C 0012
+800CC638 FF10
+
+[Leon-Codes\Have Rocket Launcher R2 + X]
+Type = Gameshark
+Activation = EndFrame
+D00C5F3C 0042
+800CC638 FF11
+
+[Leon-Codes\Bishop Plug In Crate]
+Type = Gameshark
+Activation = EndFrame
+800CC748 013B
+
+[Leon-Codes\Cabin Key In Crate]
+Type = Gameshark
+Activation = EndFrame
+800CC720 0158
+
+[Leon-Codes\Colt S.A.A. In Crate]
+Type = Gameshark
+Activation = EndFrame
+800CC678 FF0D
+
+[Leon-Codes\Cord In Crate]
+Type = Gameshark
+Activation = EndFrame
+800CC750 0156
+
+[Leon-Codes\Custom Hand Gun In Crate]
+Type = Gameshark
+Activation = EndFrame
+800CC664 FF04
+
+[Leon-Codes\Custom Magnum In Crate]
+Type = Gameshark
+Activation = EndFrame
+800CC66C FF06
+
+[Leon-Codes\Custom Shot Gun In Crate]
+Type = Gameshark
+Activation = EndFrame
+800CC674 FF08
+
+[Leon-Codes\Eagle Medal In Crate]
+Type = Gameshark
+Activation = EndFrame
+800CC730 0148
+
+[Leon-Codes\Flamethrower In Crate]
+Type = Gameshark
+Activation = EndFrame
+800CC680 FF10
+
+[Leon-Codes\Fuse Case In Crate]
+Type = Gameshark
+Activation = EndFrame
+800CC74C 041D
+
+[Leon-Codes\G Virus In Crate]
+Type = Gameshark
+Activation = EndFrame
+800CC728 0152
+
+[Leon-Codes\Gatling Gun In Crate]
+Type = Gameshark
+Activation = EndFrame
+800CC688 FF12
+
+[Leon-Codes\Ink Ribbons In Crate]
+Type = Gameshark
+Activation = EndFrame
+800CC760 FF1E
+
+[Leon-Codes\King Plug In Crate]
+Type = Gameshark
+Activation = EndFrame
+800CC73C 013E
+
+[Leon-Codes\Knight Plug In Crate]
+Type = Gameshark
+Activation = EndFrame
+800CC740 013D
+
+[Leon-Codes\Lab Card Key In Crate]
+Type = Gameshark
+Activation = EndFrame
+800CC714 0161
+
+[Leon-Codes\Lock Pick In Crate]
+Type = Gameshark
+Activation = EndFrame
+800CC718 0130
+
+[Leon-Codes\Magnum In Crate]
+Type = Gameshark
+Activation = EndFrame
+800CC668 FF05
+
+[Leon-Codes\Master Key In Crate]
+Type = Gameshark
+Activation = EndFrame
+800CC710 0162
+
+[Leon-Codes\Platform Key In Crate]
+Type = Gameshark
+Activation = EndFrame
+800CC758 0163
+
+[Leon-Codes\Precinct Key In Crate]
+Type = Gameshark
+Activation = EndFrame
+800CC71C 0159
+
+[Leon-Codes\Red Jewel In Crate]
+Type = Gameshark
+Activation = EndFrame
+800CC758 0133
+
+[Leon-Codes\Rocket Launcher In Crate]
+Type = Gameshark
+Activation = EndFrame
+800CC684 FF11
+
+[Leon-Codes\Rook Plug In Crate]
+Type = Gameshark
+Activation = EndFrame
+800CC744 013C
+
+[Leon-Codes\Shotgun In Crate]
+Type = Gameshark
+Activation = EndFrame
+800CC670 FF07
+
+[Leon-Codes\Small Key In Crate]
+Type = Gameshark
+Activation = EndFrame
+800CC75C 031F
+
+[Leon-Codes\Special Key In Crate]
+Type = Gameshark
+Activation = EndFrame
+800CC724 0153
+
+[Leon-Codes\Submachine Gun In Crate]
+Type = Gameshark
+Activation = EndFrame
+800CC67C FF0F
+
+[Leon-Codes\Unicorn Medal In Crate]
+Type = Gameshark
+Activation = EndFrame
+800CC734 0147
+
+[Leon-Codes\Wolf Medal In Crate]
+Type = Gameshark
+Activation = EndFrame
+800CC72C 0149
+
+[Leon-Codes\Infinite Items & Ammo]
+Type = Gameshark
+Activation = EndFrame
+80064A1E 3C00
+
+[Use One Code At A Time And Do Not Equip With Any Other Weapons or Game May Hang\Leon And Side Pack]
+Type = Gameshark
+Activation = EndFrame
+800CC428 0002
+
+[Use One Code At A Time And Do Not Equip With Any Other Weapons or Game May Hang\Bandaged Leon]
+Type = Gameshark
+Activation = EndFrame
+800CC428 0004
+
+[Use One Code At A Time And Do Not Equip With Any Other Weapons or Game May Hang\Bandaged Leon And Side Pack]
+Type = Gameshark
+Activation = EndFrame
+800CC428 0006
+
+[Use One Code At A Time And Do Not Equip With Any Other Weapons or Game May Hang\Rpd Cap Leon (Secret Costume 1)]
+Type = Gameshark
+Activation = EndFrame
+800CC428 0008
+
+[Use One Code At A Time And Do Not Equip With Any Other Weapons or Game May Hang\Leather Clad Leon (Secret Costume 2)]
+Type = Gameshark
+Activation = EndFrame
+800CC428 000A
+
+[Use One Code At A Time And Do Not Equip With Any Other Weapons or Game May Hang\Hunk]
+Type = Gameshark
+Activation = EndFrame
+800CC428 000C
+
+[Use One Code At A Time And Do Not Equip With Any Other Weapons or Game May Hang\Tofu]
+Type = Gameshark
+Activation = EndFrame
+800CC428 000D
+
+[Use One Code At A Time And Do Not Equip With Any Other Weapons or Game May Hang\Ada]
+Type = Gameshark
+Activation = EndFrame
+800CC428 000E
+
+[Claire-Codes\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800C78E2 00FF
+
+[Claire-Codes\Have Grenade Launcher L1 + Triangle]
+Type = Gameshark
+Activation = EndFrame
+D00C5EDC 0014
+800CC5D0 FF09
+
+[Claire-Codes\Have Grenade (Fire) L1 + X]
+Type = Gameshark
+Activation = EndFrame
+D00C5EDC 0044
+800CC5D0 FF0A
+
+[Claire-Codes\Have Grenade Launcher (Acid) L1 + Square]
+Type = Gameshark
+Activation = EndFrame
+D00C5EDC 0084
+800CC5D0 FF0B
+
+[Claire-Codes\Have Blow Gun L2 + Triangle]
+Type = Gameshark
+Activation = EndFrame
+D00C5EDC 0011
+800CC5D0 FF0C
+
+[Claire-Codes\Have Colt S.A.A. L2 + X]
+Type = Gameshark
+Activation = EndFrame
+D00C5EDC 0041
+800CC5D0 FF0D
+
+[Claire-Codes\Have Spark Shot L2 + Square]
+Type = Gameshark
+Activation = EndFrame
+D00C5EDC 0081
+800CC5D0 FF0E
+
+[Claire-Codes\Have Sub Machine Gun R2 + Triangle]
+Type = Gameshark
+Activation = EndFrame
+D00C5EDC 0012
+800CC5D0 FF0F
+
+[Claire-Codes\Have Rocket Launcher R2 + X]
+Type = Gameshark
+Activation = EndFrame
+D00C5EDC 0042
+800CC5D0 FF11
+
+[Claire-Codes\Have Gatling Gun R2 + Square]
+Type = Gameshark
+Activation = EndFrame
+D00C5EDC 0082
+800CC5D0 FF12
+
+[Claire-Codes\Ink Ribbons In Crate]
+Type = Gameshark
+Activation = EndFrame
+800CC6F8 FF1E
+
+[Claire-Codes\Small Key In Crate]
+Type = Gameshark
+Activation = EndFrame
+800CC6F4 031F
+
+[Claire-Codes\Red Jewel In Crate]
+Type = Gameshark
+Activation = EndFrame
+800CC6F0 0133
+
+[Claire-Codes\Cord In Crate]
+Type = Gameshark
+Activation = EndFrame
+800CC6EC 0156
+
+[Claire-Codes\Fuse Case In Crate]
+Type = Gameshark
+Activation = EndFrame
+800CC6E8 041D
+
+[Claire-Codes\Serpent Stone In Crate]
+Type = Gameshark
+Activation = EndFrame
+800CC6E4 0136
+
+[Claire-Codes\Jaguar Stone In Crate]
+Type = Gameshark
+Activation = EndFrame
+800CC6E0 0137
+
+[Claire-Codes\Eagle Stone In Crate]
+Type = Gameshark
+Activation = EndFrame
+800CC6DC 013A
+
+[Claire-Codes\Bomb Detonator In Crate]
+Type = Gameshark
+Activation = EndFrame
+800CC6D8 0142
+
+[Claire-Codes\Unicorn Medal In Crate]
+Type = Gameshark
+Activation = EndFrame
+800CC6D4 0147
+
+[Claire-Codes\Eagle Medal In Crate]
+Type = Gameshark
+Activation = EndFrame
+800CC6D0 0148
+
+[Claire-Codes\Wolf Medal In Crate]
+Type = Gameshark
+Activation = EndFrame
+800CC6CC 0149
+
+[Claire-Codes\G Virus In Crate]
+Type = Gameshark
+Activation = EndFrame
+800CC6C8 0152
+
+[Claire-Codes\Special Key In Crate]
+Type = Gameshark
+Activation = EndFrame
+800CC6C4 0153
+
+[Claire-Codes\Cabin Key In Crate]
+Type = Gameshark
+Activation = EndFrame
+800CC6C0 0158
+
+[Claire-Codes\Precinct Key In Crate]
+Type = Gameshark
+Activation = EndFrame
+800CC6BC 0159
+
+[Claire-Codes\Lock Pick In Crate]
+Type = Gameshark
+Activation = EndFrame
+800CC6B8 0130
+
+[Claire-Codes\Lab Card Key In Crate]
+Type = Gameshark
+Activation = EndFrame
+800CC6B4 0161
+
+[Claire-Codes\Master Key In Crate]
+Type = Gameshark
+Activation = EndFrame
+800CC6B0 0162
+
+[Claire-Codes\Platform Key In Crate]
+Type = Gameshark
+Activation = EndFrame
+800CC6AC 0163
+
+[Claire-Codes\Grenade Launcher In Crate]
+Type = Gameshark
+Activation = EndFrame
+800CC5FC FF09
+
+[Claire-Codes\Grenade Launcher (Fire) In Crate]
+Type = Gameshark
+Activation = EndFrame
+800CC600 FF0A
+
+[Claire-Codes\Grenade Launcher (Acid) In Crate]
+Type = Gameshark
+Activation = EndFrame
+800CC604 FF0B
+
+[Claire-Codes\Bowgun In Crate]
+Type = Gameshark
+Activation = EndFrame
+800CC608 FF0C
+
+[Claire-Codes\Colt S.A.A. In Crate]
+Type = Gameshark
+Activation = EndFrame
+800CC60C FF0D
+
+[Claire-Codes\Spark Shot In Crate]
+Type = Gameshark
+Activation = EndFrame
+800CC610 FF0E
+
+[Claire-Codes\Submachine Gun In Crate]
+Type = Gameshark
+Activation = EndFrame
+800CC614 FF0F
+
+[Claire-Codes\Rocket Launcher In Crate]
+Type = Gameshark
+Activation = EndFrame
+800CC618 FF11
+

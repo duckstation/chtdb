@@ -1,0 +1,54 @@
+; CHTDB: ; [ Galaga: Destination Earth (Europe) {SLES-02212} ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+3008CBBC 000A
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+D0024F2C FFFF
+80024F32 0000
+
+[Infinite Shield]
+Type = Gameshark
+Activation = EndFrame
+3008CBE6 0011
+
+[Max shield]
+Type = Gameshark
+Activation = EndFrame
+3008CBE4 0011
+
+[Shield never decreases]
+Type = Gameshark
+Activation = EndFrame
+D003ACD8 007E
+3003ACD8 0000
+
+[Lives increase]
+Type = Gameshark
+Activation = EndFrame
+A603B57C FFFF0001
+
+[Start with max waves]
+Type = Gameshark
+Activation = EndFrame
+D008CBE2 0001
+3008CBE2 0064
+
+[Start with max merits]
+Type = Gameshark
+Activation = EndFrame
+D008CBF8 0001
+3008CBF8 0096
+
+[Nuke never decreases]
+Type = Gameshark
+Activation = EndFrame
+D003AF4C FFFF
+8003AF50 0000
+D003AF4C FFFF
+8003AF52 0000
+

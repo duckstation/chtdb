@@ -1,0 +1,17 @@
+; CHTDB: ; [ WWF WrestleMania: The Arcade Game (Europe) {SLES-00103} ]
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8006E898 00A7
+
+[P2 No Energy]
+Type = Gameshark
+Activation = EndFrame
+8006E8A8 0000
+
+[P2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8006E8A8 00A7
+

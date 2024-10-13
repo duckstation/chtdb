@@ -1,0 +1,101 @@
+; CHTDB: ; [ XI [sÃ¡i] Jumbo (Japan) {SCPS-10123} ]
+
+[P1 dice always turn Adventure and battle mode]
+Type = Gameshark
+Activation = EndFrame
+801D5E10 0000
+
+[P2 dice hail Adventure and battle mode]
+Type = Gameshark
+Activation = EndFrame
+801D5EC4 0010
+801D5ECC 0010
+
+[Puzzle mode infinite times]
+Type = Gameshark
+Activation = EndFrame
+80174CBC 0003
+
+[Pùzzle Mode Infinite jump count]
+Type = Gameshark
+Activation = EndFrame
+80174CC4 0003
+
+[Puzzle Mode Infinite steps]
+Type = Gameshark
+Activation = EndFrame
+80174CB8 0000
+
+[Puzzle mode completely cleared]
+Type = Gameshark
+Activation = EndFrame
+30185D35 000C
+30185DFC 000C
+50006302 0000
+80185D36 0C0C
+
+[Quota attack mode Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+D00D9C7A 2442
+800D9C78 0000
+
+[Time Limited mode Time loop]
+Type = Gameshark
+Activation = EndFrame
+A618A4F4 05000100
+
+[Decoration of the room MAX number of butterfly]
+Type = Gameshark
+Activation = EndFrame
+801F5AC0 000A
+
+[Decoration of the room Max number of Curious]
+Type = Gameshark
+Activation = EndFrame
+801F5AC4 000A
+
+[Decoration of the room MAX number of figurines of dice]
+Type = Gameshark
+Activation = EndFrame
+801F5ACC 000A
+
+[Decoration of the room MAX number of sculpture]
+Type = Gameshark
+Activation = EndFrame
+801F5AD4 0007
+
+[Decoration of the room MAX mysterious]
+Type = Gameshark
+Activation = EndFrame
+801F5AE0 000A
+
+[Decoration of the room Growth of the Flower]
+Type = Gameshark
+Activation = EndFrame
+801F5AC8 0000
+
+[Decoration of the room All possession MAX stuffed]
+Type = Gameshark
+Activation = EndFrame
+50000904 0000
+801F5BD0 001E
+
+[Replay theater fully open]
+Type = Gameshark
+Activation = EndFrame
+801F5ADC 0006
+
+[Editing surface element added bonus]
+Type = Gameshark
+Activation = EndFrame
+801E7150 0003
+
+[Wallpaper all possession and puzzle all frame display]
+Type = Gameshark
+Activation = EndFrame
+80185E6C 0064
+80185E70 0064
+50001704 0000
+801F5B10 0001
+

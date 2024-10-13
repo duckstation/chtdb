@@ -1,0 +1,103 @@
+; CHTDB: ; [ LMA Manager (Europe) {SLES-01016} ]
+
+[Infinite Money\Wimbledon]
+Type = Gameshark
+Activation = EndFrame
+8018FF14 E100
+8018FF12 05F5
+
+[Infinite Money\Manchester United]
+Type = Gameshark
+Activation = EndFrame
+9018F41C 05F5E100
+
+[Infinite Money\Arsenal]
+Type = Gameshark
+Activation = EndFrame
+9018E7EC 05F5E100
+
+[Infinite Money\Aston Villa]
+Type = Gameshark
+Activation = EndFrame
+9018E924 05F5E100
+
+[Infinite Money\West Ham Utd]
+Type = Gameshark
+Activation = EndFrame
+9018FDDC 05F5E100
+
+[Infinite Money\Tottenham Hotspur]
+Type = Gameshark
+Activation = EndFrame
+9018FB6C 05F5E100
+
+[Infinite Money\Leicester City]
+Type = Gameshark
+Activation = EndFrame
+9018F1AC 05F5E100
+
+[Infinite Money\Newcastle Utd]
+Type = Gameshark
+Activation = EndFrame
+9018F68C 05F5E100
+
+[Infinite Money\Derby County]
+Type = Gameshark
+Activation = EndFrame
+9018EE04 05F5E100
+
+[Infinite Money\Watford]
+Type = Gameshark
+Activation = EndFrame
+9018FCA4 05F5E100
+
+[Infinite Money\Bradford City]
+Type = Gameshark
+Activation = EndFrame
+9018EA5C 05F5E100
+
+[Infinite Money\Chelsea]
+Type = Gameshark
+Activation = EndFrame
+9018EB94 05F5E100
+
+[Infinite Money\Everton]
+Type = Gameshark
+Activation = EndFrame
+9018EF3C 05F5E100
+
+[Infinite Money\Coventry City]
+Type = Gameshark
+Activation = EndFrame
+9018ECCC 05F5E100
+
+[Infinite Money\Southampton]
+Type = Gameshark
+Activation = EndFrame
+9018F8FC 05F5E100
+
+[Infinite Money\Leeds Utd]
+Type = Gameshark
+Activation = EndFrame
+9018F074 05F5E100
+
+[Infinite Money\Liverpool]
+Type = Gameshark
+Activation = EndFrame
+9018F2E4 05F5E100
+
+[Infinite Money\Middlesbrough]
+Type = Gameshark
+Activation = EndFrame
+901935EC 05F5E100
+
+[Infinite Money\Sheffield Wednesday]
+Type = Gameshark
+Activation = EndFrame
+9018F554 05F5E100
+
+[Infinite Money\Sunderland]
+Type = Gameshark
+Activation = EndFrame
+9018FA34 05F5E100
+

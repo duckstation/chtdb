@@ -1,0 +1,48 @@
+; CHTDB: ; [ Ridge Racer (Europe) {SCES-00001} ]
+
+[Black Car]
+Type = Gameshark
+Activation = EndFrame
+800856D2 000C
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80136198 099F
+
+[More Speed]
+Type = Gameshark
+Activation = EndFrame
+80085770 07FF
+
+[Enable Extra Tracks]
+Type = Gameshark
+Activation = EndFrame
+8017C91C 00FF
+
+[Start On Last Lap/Quick Finish]
+Type = Gameshark
+Activation = EndFrame
+E20857A4 0002
+800857A4 0003
+
+[Beginner Levelselect extra]
+Type = Gameshark
+Activation = EndFrame
+80085684 0005
+
+[Mid-level select extra]
+Type = Gameshark
+Activation = EndFrame
+80085684 0006
+
+[High-level select extra]
+Type = Gameshark
+Activation = EndFrame
+80085684 0007
+
+[TT level select extra]
+Type = Gameshark
+Activation = EndFrame
+80085684 0008
+

@@ -1,0 +1,10 @@
+; CHTDB: ; [ Fantastic Fortune (Japan) {SLPS-03214} ]
+
+[Have all stats at maximum]
+Type = Gameshark
+Activation = EndFrame
+800CAF45 00FA
+800CAF46 00FA
+800CAF47 00FA
+800CAF48 00FA
+

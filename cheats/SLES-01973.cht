@@ -1,0 +1,12 @@
+; CHTDB: ; [ Re-Volt (Europe) {SLES-01973} ]
+
+[Start On Lap 3]
+Type = Gameshark
+Activation = EndFrame
+800B9578 0002
+
+[Max Points in Championship Mode]
+Type = Gameshark
+Activation = EndFrame
+800BE5DC 03E7
+

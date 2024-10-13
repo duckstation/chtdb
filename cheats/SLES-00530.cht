@@ -1,0 +1,22 @@
+; CHTDB: ; [ Command & Conquer (GDI) (Europe) {SLES-00530 | SLES-10530} ]
+
+[Infinite Credits And Gdi-Missions]
+Type = Gameshark
+Activation = EndFrame
+8011BA10 2000
+
+[Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+8011C120 FFFF
+
+[Infiniye Money]
+Type = Gameshark
+Activation = EndFrame
+801100DF B99A
+
+[Infinite Power]
+Type = Gameshark
+Activation = EndFrame
+80110769 AD64
+

@@ -1,0 +1,31 @@
+; CHTDB: ; [ Formula 1 97 (Europe) {SLES-00859} ]
+
+[Arcade Mode\Always First Place]
+Type = Gameshark
+Activation = EndFrame
+800CB998 0101
+900552C0 00000000
+900552C4 00000000
+
+[Arcade Mode\Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800B3838 FFFF
+
+[Arcade Mode\Only One Lap to Race]
+Type = Gameshark
+Activation = EndFrame
+800C7266 0005
+
+[Grand Prix Mode\Always First Place]
+Type = Gameshark
+Activation = EndFrame
+800D5D40 0101
+9005EEC8 00000000
+9005EECC 00000000
+
+[Grand Prix Mode\Only One Lap to Race]
+Type = Gameshark
+Activation = EndFrame
+800C12F6 0005
+

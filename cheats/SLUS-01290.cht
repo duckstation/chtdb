@@ -1,0 +1,8 @@
+; CHTDB: ; [ F1 Championship Season 2000 (USA) (2000) (Electronic Arts) {SLUS-01290} <f1cs2k> ]
+
+[Always First]
+Type = Gameshark
+Activation = EndFrame
+D10518B4 0000
+800518B4 0001
+

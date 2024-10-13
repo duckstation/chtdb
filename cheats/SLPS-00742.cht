@@ -1,0 +1,50 @@
+; CHTDB: ; [ Ultima Underworld: The Stygian Abyss (Japan) {SLPS-00742} ]
+
+[Level Max]
+Type = Gameshark
+Activation = EndFrame
+301E84D1 00FF
+
+[Strenght Max]
+Type = Gameshark
+Activation = EndFrame
+300AE623 00FF
+
+[Dextery Max]
+Type = Gameshark
+Activation = EndFrame
+300AE624 00FF
+
+[Intelligence Max]
+Type = Gameshark
+Activation = EndFrame
+300AE625 00FF
+
+[Vitality Max]
+Type = Gameshark
+Activation = EndFrame
+30111F7C 00FF
+300AE622 00FF
+
+[Mana Max]
+Type = Gameshark
+Activation = EndFrame
+301E84CB 00FF
+301E84CC 00FF
+
+[Experience Max]
+Type = Gameshark
+Activation = EndFrame
+901E84E4 00989676
+
+[Value Skills Max]
+Type = Gameshark
+Activation = EndFrame
+301E84B5 0063
+801E84B6 6363
+901E84B8 63636363
+901E84BC 63636363
+901E84C0 63636363
+901E84C4 63636363
+301E84C8 0063
+

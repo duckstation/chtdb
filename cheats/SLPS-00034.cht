@@ -1,0 +1,18 @@
+; CHTDB: ; [ Zeitgeist (Jpn) (1995) (Taito) {SLPS-00034} <zeitgest> ]
+
+[Infinite Shields]
+Type = Gameshark
+Activation = EndFrame
+800BB450 0062
+800BB894 0062
+
+[Infinite Shield Alt]
+Type = Gameshark
+Activation = EndFrame
+800BB894 0064
+
+[Infinite Laser Gauge]
+Type = Gameshark
+Activation = EndFrame
+800BB9CC 012C
+

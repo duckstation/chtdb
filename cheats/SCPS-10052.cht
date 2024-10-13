@@ -1,0 +1,23 @@
+; CHTDB: ; [ MDK (Japan) {SCPS-10052} ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800C4FC0 0064
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+300BDB78 0001
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+800C508C 00C8
+800C5090 00C8
+800C5094 00C8
+800C5098 00C8
+800C509C 00C8
+800C50A0 00C8
+800C50A4 00C8
+

@@ -1,0 +1,7 @@
+; CHTDB: ; [ Magical Drop (Japan) {SLPS-00201} ]
+
+[Infinite Moves in 3rd game mode (Challenge Mode)]
+Type = Gameshark
+Activation = EndFrame
+801FFCC8 0063
+

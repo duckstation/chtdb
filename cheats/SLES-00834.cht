@@ -1,0 +1,22 @@
+; CHTDB: ; [ Apocalypse (France) {SLES-00834} ]
+
+[Infinite Smart Bombs]
+Type = Gameshark
+Activation = EndFrame
+8012A608 000F
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8012A4CE 0064
+
+[Infinite Gun Energy]
+Type = Gameshark
+Activation = EndFrame
+8012A9B4 03FF
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801000F4 0064
+

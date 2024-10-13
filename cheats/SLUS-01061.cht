@@ -1,0 +1,32 @@
+; CHTDB: ; [ Iron Soldier 3 (USA) (2000) (Telegames / Vatical Entertainment) {SLUS-01061} <ironsld3> ]
+
+[Infinite Assault Rifle Ammo]
+Type = Gameshark
+Activation = EndFrame
+800A83C4 03E7
+
+[Infinite Grenades]
+Type = Gameshark
+Activation = EndFrame
+800A83BC 001F
+
+[Infinite Rockets]
+Type = Gameshark
+Activation = EndFrame
+800A83B4 0019
+
+[Infinite Rail Gun Ammo]
+Type = Gameshark
+Activation = EndFrame
+800A83B8 0032
+
+[Full Shields]
+Type = Gameshark
+Activation = EndFrame
+800A830C 270F
+
+[Unlock and Complete All Missions]
+Type = Gameshark
+Activation = EndFrame
+90033204 FFFFFFFF
+

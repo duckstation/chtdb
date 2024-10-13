@@ -1,0 +1,35 @@
+; CHTDB: ; [ Strider (Europe) (2 Games) {SLES-12867} ]
+
+[Infinite Boost]
+Type = Gameshark
+Activation = EndFrame
+D002C12A A642
+8002C128 0000
+D002C1D2 A242
+8002C1D0 0000
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+A60ABCB2 00010004
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800ABAB8 0002
+
+[All Levels (Hiryu Scenario)]
+Type = Gameshark
+Activation = EndFrame
+A60DA086 04000600
+
+[Strider Hien Scenario]
+Type = Gameshark
+Activation = EndFrame
+800A8FDA 0001
+
+[Unlock Level 00]
+Type = Gameshark
+Activation = EndFrame
+300A8FD9 0001
+

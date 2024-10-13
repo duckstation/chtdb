@@ -1,0 +1,52 @@
+; CHTDB: ; [ Championship Motocross featuring Ricky Carmichael (USA) (1999) (THQ) {SLUS-00790} <motox> ]
+
+[Unlock All Classes]
+Type = Gameshark
+Activation = EndFrame
+80086E68 000F
+
+[Unlock All Tracks]
+Type = Gameshark
+Activation = EndFrame
+80086E6C 0FFF
+
+[Unlock Mirror Mode]
+Type = Gameshark
+Activation = EndFrame
+80086E70 0001
+
+[Unlock View Fox Movie]
+Type = Gameshark
+Activation = EndFrame
+80086E7C 0001
+
+[Huge Head + Tires]
+Type = Gameshark
+Activation = EndFrame
+80086E36 0001
+
+[Total Point Modifier + Always Place First 1]
+Type = Gameshark
+Activation = EndFrame
+800D4F1C 0063
+
+[Select Starting Lap\2]
+Type = Gameshark
+Activation = EndFrame
+80086E38 0002
+
+[Select Starting Lap\3]
+Type = Gameshark
+Activation = EndFrame
+80086E38 0003
+
+[Select Starting Lap\4]
+Type = Gameshark
+Activation = EndFrame
+80086E38 0004
+
+[Big Head + Tire Mode]
+Type = Gameshark
+Activation = EndFrame
+30086E34 0001
+

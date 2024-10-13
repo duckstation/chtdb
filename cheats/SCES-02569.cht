@@ -1,0 +1,43 @@
+; CHTDB: ; [ Rescue Shot (Euro) (2000) (Namco) {SCES-02569 (9169024)} <rshot> ]
+
+[Acorn-Bullets Increase]
+Type = Gameshark
+Activation = EndFrame
+A6045B3C FFFF0001
+
+[Infinite Life-Bar]
+Type = Gameshark
+Activation = EndFrame
+D00421C6 0062
+800421C8 0000
+D00421C6 0062
+800421CA 0000
+D0043586 0801
+80043584 0000
+A6043586 08010000
+
+[Max Life-Bar]
+Type = Gameshark
+Activation = EndFrame
+A6034D30 06061414
+
+[P1 Infinite $]
+Type = Gameshark
+Activation = EndFrame
+80034DC8 0063
+
+[P2 Infinite $]
+Type = Gameshark
+Activation = EndFrame
+80034DD8 0063
+
+[P1 Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+30052AB5 0063
+
+[P2 Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+30052AC5 0063
+

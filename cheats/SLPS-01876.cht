@@ -1,0 +1,52 @@
+; CHTDB: ; [ Omise de Tensyu (Jpn) (1999) (TechnoSoft) {SLPS-01876} <omitens> ]
+
+[Infinite Energy Character 1 In Battle]
+Type = Gameshark
+Activation = EndFrame
+800E5504 03E7
+
+[Infinite Money 50000]
+Type = Gameshark
+Activation = EndFrame
+801C9B54 C350
+
+[Have 1000 Exp points in fighter job]
+Type = Gameshark
+Activation = EndFrame
+801CBD18 03E8
+
+[LV]
+Type = Gameshark
+Activation = EndFrame
+301CA6E1 0002
+
+[No Random Battles]
+Type = Gameshark
+Activation = EndFrame
+9005C7A0 00000000
+
+[During combat maximum Genki]
+Type = Gameshark
+Activation = EndFrame
+800E5506 03E7
+
+[Combat stress]
+Type = Gameshark
+Activation = EndFrame
+300E5508 0064
+
+[During combat tension Max]
+Type = Gameshark
+Activation = EndFrame
+300E550A 0064
+
+[During combat balloon Max]
+Type = Gameshark
+Activation = EndFrame
+300E5518 00FF
+
+[During combat opponent gauge 0]
+Type = Gameshark
+Activation = EndFrame
+800E55D0 0000
+

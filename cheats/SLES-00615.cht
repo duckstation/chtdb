@@ -1,0 +1,72 @@
+; CHTDB: ; [ Lifeforce Tenka (Germany) {SLES-00615} ]
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+80059A64 0063
+
+[Infinite Armour]
+Type = Gameshark
+Activation = EndFrame
+80019DD2 00C8
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80019DD0 0064
+
+[Heartbeat High]
+Type = Gameshark
+Activation = EndFrame
+80019DD4 00FF
+
+[Heartbeat Low]
+Type = Gameshark
+Activation = EndFrame
+80019DD4 0001
+
+[Have Red Key]
+Type = Gameshark
+Activation = EndFrame
+800519C0 0001
+
+[Have Green Key]
+Type = Gameshark
+Activation = EndFrame
+800519C2 0001
+
+[Have Blue Key]
+Type = Gameshark
+Activation = EndFrame
+800519C4 0001
+
+[Have Yellow Key]
+Type = Gameshark
+Activation = EndFrame
+800519C6 0001
+
+[Have Purple Key]
+Type = Gameshark
+Activation = EndFrame
+800519C8 0001
+
+[Have Light Blue Key]
+Type = Gameshark
+Activation = EndFrame
+800519CA 0001
+
+[All weapons]
+Type = Gameshark
+Activation = EndFrame
+800662C6 0001
+
+[All levels]
+Type = Gameshark
+Activation = EndFrame
+800662C8 0001
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+3002B5E1 000C
+

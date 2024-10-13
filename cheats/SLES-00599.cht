@@ -1,0 +1,42 @@
+; CHTDB: ; [ MDK (Europe) {SLES-00599} ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800CB498 0064
+
+[Infinite Chaingun]
+Type = Gameshark
+Activation = EndFrame
+800CB564 00C8
+
+[Infinite Sniper 2]
+Type = Gameshark
+Activation = EndFrame
+800CB568 0063
+
+[Infinite Sniper Grenades]
+Type = Gameshark
+Activation = EndFrame
+800CB56C 0063
+
+[Infinite Sniper 4]
+Type = Gameshark
+Activation = EndFrame
+800CB570 0063
+
+[Infinite Motar-Shots]
+Type = Gameshark
+Activation = EndFrame
+800CB574 0063
+
+[Infinite Sniper 6]
+Type = Gameshark
+Activation = EndFrame
+800CB578 0063
+
+[Level select]
+Type = Gameshark
+Activation = EndFrame
+800BACA4 0005
+

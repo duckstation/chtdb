@@ -1,0 +1,82 @@
+; CHTDB: ; [ Ghost in the Shell (USA) (1997) (THQ) {SLUS-00552} <gits> ]
+
+[Mission 12\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+8012BD50 00C8
+
+[Mission 11\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+80122F84 00C8
+
+[Mission 10\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+80125084 00C8
+
+[Mission 9\Freezer Timer]
+Type = Gameshark
+Activation = EndFrame
+801249C8 0DF7
+
+[Mission 9\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+801249D4 00C8
+
+[Mission 8\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+801204A8 00C8
+
+[Mission 7\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+80125D04 00C8
+
+[Mission 6\Freezer Timer]
+Type = Gameshark
+Activation = EndFrame
+801276D8 0DF7
+
+[Mission 6\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+801276E4 00C8
+
+[Mission 5\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+8011FD4C 00C8
+
+[Mission 4\Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80122798 0DF7
+
+[Mission 4\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+801227A4 00C8
+
+[Mission 3\Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80120C24 0DF7
+
+[Mission 3\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+80120C30 00C8
+
+[Mission 2\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+8011F390 00C8
+
+[Mission 1\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+80120258 00C8
+

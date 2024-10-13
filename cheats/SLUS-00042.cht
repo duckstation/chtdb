@@ -1,0 +1,90 @@
+; CHTDB: ; [ Gex (USA) (1995) (Crystal Dynamics) {SLUS-00042} <gex> ]
+
+;#Infinite Lives
+;80097B2C 0064
+;#Infinite Lives ALT
+;8009732C 0063
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+A7047658 FFFF0000
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+A7047468 FFFF0000
+;#Infinite Energy
+;80097B1C 0003
+
+[Infinite Gold Flies]
+Type = Gameshark
+Activation = EndFrame
+80097AF8 0063
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+80045B62 1440
+80045B6C 0080
+
+[Invincibility ALT 1]
+Type = Gameshark
+Activation = EndFrame
+80097BD8 0001
+
+[Invincibility ALT 2]
+Type = Gameshark
+Activation = EndFrame
+30097CE0 0001
+
+[Moon Jump]
+Type = Gameshark
+Activation = EndFrame
+D009823C 0400
+800D752A FFFB
+
+[Select Power-up\Whirlwind Power-up]
+Type = Gameshark
+Activation = EndFrame
+30097B08 0001
+
+[Select Power-up\Speed Power-up]
+Type = Gameshark
+Activation = EndFrame
+30097B08 0002
+
+[Select Power-up\Ice Power-up]
+Type = Gameshark
+Activation = EndFrame
+30097B08 0004
+
+[Select Power-up\Fireball Power-up]
+Type = Gameshark
+Activation = EndFrame
+30097B08 0005
+
+[Select Power-up\Lightning Power-up]
+Type = Gameshark
+Activation = EndFrame
+30097B08 0006
+
+[Select Power-up\Jump Power-up]
+Type = Gameshark
+Activation = EndFrame
+30097B08 0008
+
+[Select Power-up\Refill Health]
+Type = Gameshark
+Activation = EndFrame
+30097B08 0009
+
+[Blurr Mode]
+Type = Gameshark
+Activation = EndFrame
+80097CCC 0001
+
+[Fireball Mode]
+Type = Gameshark
+Activation = EndFrame
+80097BD6 0001
+

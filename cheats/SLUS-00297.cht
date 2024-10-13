@@ -1,0 +1,174 @@
+; CHTDB: ; [ Star Wars - Dark Forces (USA) (1996) (LucasArts Entertainment Company) {SLUS-00297} <swdarkfc> ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80095024 0003
+
+[Infinite Ammo (Pistol + Storm Trooper Laser Rifle)]
+Type = Gameshark
+Activation = EndFrame
+80095108 03E7
+
+[Infinite Shield]
+Type = Gameshark
+Activation = EndFrame
+80095128 0064
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8009512C 0064
+
+[Invincibility (No Hit)]
+Type = Gameshark
+Activation = EndFrame
+A704450E 10621400
+
+[Climb Walls]
+Description = Lets you climb walls to reach higher rooms/ledges by walking into the wall
+Type = Gameshark
+Activation = EndFrame
+A7058B96 14401400
+A7058586 14401000
+
+[Open Doors without Keys]
+Type = Gameshark
+Activation = EndFrame
+A701A382 14401000
+
+[Enable All Levels]
+Type = Gameshark
+Activation = EndFrame
+80010018 000E
+
+[Always have Storm Trooper Laser Rifle]
+Type = Gameshark
+Activation = EndFrame
+8009509C FFFF
+
+[Always have Imperial Repeater Gun with Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+800950A0 FFFF
+8009510C 03E7
+
+[Always have Packard Mortar Gun with Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+800950A4 FFFF
+80095118 03E7
+
+[Always have Jeron Fusion Cutter with Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+800950A8 FFFF
+8009510C 03E7
+
+[Always have Stocker Con-Cussion Rifle with Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+800950AC FFFF
+8009510C 03E7
+
+[Always have Assault Cannon]
+Type = Gameshark
+Activation = EndFrame
+800950B0 FFFF
+80095110 03E7
+
+[Infinite Thermal Detonators]
+Type = Gameshark
+Activation = EndFrame
+80095114 03E7
+
+[Infinite I.M. Mines]
+Type = Gameshark
+Activation = EndFrame
+8009511C 03E7
+
+[Infinite Rockets]
+Type = Gameshark
+Activation = EndFrame
+80095120 03E7
+
+[Always have Red Key]
+Type = Gameshark
+Activation = EndFrame
+800950B4 FFFF
+
+[Always have Yellow Key]
+Type = Gameshark
+Activation = EndFrame
+800950B8 FFFF
+
+[Always have Blue Key]
+Type = Gameshark
+Activation = EndFrame
+800950BC FFFF
+
+[Always have IR Goggles]
+Type = Gameshark
+Activation = EndFrame
+800950C0 FFFF
+
+[Always have Ice Cleats]
+Type = Gameshark
+Activation = EndFrame
+800950C4 FFFF
+
+[Always have Gas Mask]
+Type = Gameshark
+Activation = EndFrame
+800950C8 FFFF
+
+[Always have Death Star Plans]
+Type = Gameshark
+Activation = EndFrame
+800950CC FFFF
+
+[Always have Phrih Metal]
+Type = Gameshark
+Activation = EndFrame
+800950D0 FFFF
+
+[Always have Data Type]
+Type = Gameshark
+Activation = EndFrame
+800950D4 FFFF
+
+[Always have Nava Card]
+Type = Gameshark
+Activation = EndFrame
+800950DC FFFF
+
+[Always have Broken DJ Weapon]
+Type = Gameshark
+Activation = EndFrame
+800950E0 FFFF
+
+[Always have Code 1]
+Type = Gameshark
+Activation = EndFrame
+800950E4 FFFF
+
+[Always have Code 2]
+Type = Gameshark
+Activation = EndFrame
+800950E8 FFFF
+
+[Always have Code 3]
+Type = Gameshark
+Activation = EndFrame
+800950EC FFFF
+
+[Always have Code 4]
+Type = Gameshark
+Activation = EndFrame
+800950F0 FFFF
+
+[Always have Code 5]
+Type = Gameshark
+Activation = EndFrame
+800950F4 FFFF
+

@@ -1,0 +1,648 @@
+; CHTDB: ; [ Urban Chaos (USA) (2000) (Eidos Interactive) {SLUS-01091} <urbchaos> ]
+
+[Combat-Tutorial\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80198F04 00C8
+
+[Physical Training\Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80197184 2F00
+
+[Physical Training\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80197E80 00C8
+
+[Driving Bronze\Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+801970DC 2F00
+
+[Driving Bronze\Infinite Car Damage]
+Type = Gameshark
+Activation = EndFrame
+80197886 012C
+
+[Combat Silver\Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+801977B8 2F00
+
+[Combat Silver\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80198994 00C8
+
+[Rta\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80194F44 00C8
+
+[Rta\Infinite Car Damage]
+Type = Gameshark
+Activation = EndFrame
+8019439E 012C
+
+[Rta\Always have Pistol]
+Type = Gameshark
+Activation = EndFrame
+30194F43 0001
+
+[Rta\Infinite Ammo Pistol]
+Type = Gameshark
+Activation = EndFrame
+30194F42 0063
+
+[Driving Silver\Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80196A5C 2F00
+
+[Driving Silver\No Car Damage]
+Type = Gameshark
+Activation = EndFrame
+8019735E 012C
+
+[Combat Gold\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80198C18 00C8
+
+[Combat Gold\Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80197814 2F00
+
+[The Jump\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80194F6C 00C8
+
+[Driving Gold\Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80196F68 3682
+
+[Driving Gold\No Car Damage]
+Type = Gameshark
+Activation = EndFrame
+8019771E 012C
+
+[Nitro Car\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80197AA4 00C8
+
+[Nitro Car\Infinite Car Damage]
+Type = Gameshark
+Activation = EndFrame
+801970FE 012C
+
+[Nitro Car\Infinite Ammo Pistol]
+Type = Gameshark
+Activation = EndFrame
+80197AA2 0163
+
+[Nitro Car\Infinite Ammo Shotgun]
+Type = Gameshark
+Activation = EndFrame
+8019A260 0063
+
+[Gun Hunt\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80195618 00C8
+
+[Rat Catch\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80197820 00C8
+
+[Rat Catch\Infinite Ammo Pistol]
+Type = Gameshark
+Activation = EndFrame
+3019781E 0063
+
+[Rat Catch\Infinite Ammo Shotgun]
+Type = Gameshark
+Activation = EndFrame
+8019A13C 0063
+
+[Rat Catch\Always have Shotgun]
+Type = Gameshark
+Activation = EndFrame
+8019782C 003C
+
+[Trouble In The Park\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80194A34 00C8
+
+[Gatecrusher\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801914C4 00C8
+
+[Gatecrusher\Infinite Ammo Pistol]
+Type = Gameshark
+Activation = EndFrame
+801914C2 0163
+
+[Gatecrusher\Infinite Ammo Rifle]
+Type = Gameshark
+Activation = EndFrame
+80196834 0063
+
+[Arms Breaker\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80194C04 00C8
+
+[Arms Breaker\Infinite Ammo Pistol]
+Type = Gameshark
+Activation = EndFrame
+80194C02 0163
+
+[Media Trouble\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801955AC 00C8
+
+[Media Trouble\Infinite Ammo Pistol]
+Type = Gameshark
+Activation = EndFrame
+801955AE 0163
+
+[Media Trouble\Infinite Ammo Rifle]
+Type = Gameshark
+Activation = EndFrame
+801990D4 0063
+
+[Urban Shakedown\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80195A20 00C8
+
+[Urban Shakedown\Infinite Ammo Pistol]
+Type = Gameshark
+Activation = EndFrame
+80195A22 0163
+
+[Urban Shakedown\Infinite Ammo Shotgun]
+Type = Gameshark
+Activation = EndFrame
+801987E4 0063
+
+[Urban Shakedown\Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+8019329C 2F00
+
+[Auto-Destruct\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80196824 00C8
+
+[Auto-Destruct\Infinite Ammo Pistol]
+Type = Gameshark
+Activation = EndFrame
+80196826 0163
+
+[Auto-Destruct\Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80192E24 2F00
+
+[Grim Gardens\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801954D4 00C8
+
+[Grim Gardens\Infinite Ammo Pistol]
+Type = Gameshark
+Activation = EndFrame
+801954D6 0163
+
+[Semtex\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80194DD4 00C8
+
+[Semtex\Infinite Ammo Pistol]
+Type = Gameshark
+Activation = EndFrame
+80194DD6 0163
+
+[Cop Rescue\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8019146C 00C8
+
+[Cop Rescue\Infinite Ammo Pistol]
+Type = Gameshark
+Activation = EndFrame
+8019146E 0163
+
+[Cop Rescue\Infinite Ammo Shotgun]
+Type = Gameshark
+Activation = EndFrame
+801954B4 0063
+
+[Southside Offensive\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8019495C 00C8
+
+[Southside Offensive\Infinite Ammo Pistol]
+Type = Gameshark
+Activation = EndFrame
+8019495E 0163
+
+[Southside Offensive\Infinite Grenades]
+Type = Gameshark
+Activation = EndFrame
+8019932C 0063
+
+[Southside Offensive\Infinite Ammo Shotgun]
+Type = Gameshark
+Activation = EndFrame
+801990FC 0063
+
+[Psycho Park\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80194874 00C8
+
+[Psycho Park\Infinite Ammo Pistol]
+Type = Gameshark
+Activation = EndFrame
+80194876 0163
+
+[Psycho Park\Infinite Ammo Shotgun]
+Type = Gameshark
+Activation = EndFrame
+8019970C 0063
+
+[Psycho Park\Infinite Ammo Rifle]
+Type = Gameshark
+Activation = EndFrame
+80199720 0063
+
+[The Fallen\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801955E4 00C8
+
+[The Fallen\Infinite Ammo Pistol]
+Type = Gameshark
+Activation = EndFrame
+801955E6 0163
+
+[Stern Revenge\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8019283C 00C8
+
+[Stern Revenge\Infinite Ammo Pistol]
+Type = Gameshark
+Activation = EndFrame
+8019283E 0163
+
+[Stern Revenge\Infinite Ammo Shotgun]
+Type = Gameshark
+Activation = EndFrame
+80198358 0063
+
+[Stern Revenge\Infinite Ammo Rifle]
+Type = Gameshark
+Activation = EndFrame
+801984AC 0063
+
+[Transmission Terminated\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801925F8 00C8
+
+[Transmission Terminated\Infinite Ammo Pistol]
+Type = Gameshark
+Activation = EndFrame
+801925FA 0163
+
+[Transmission Terminated\Infinite Ammo Shotgun]
+Type = Gameshark
+Activation = EndFrame
+80197068 0063
+
+[Estate Of Emergency\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80192314 00C8
+
+[Estate Of Emergency\Infinite Ammo Pistol]
+Type = Gameshark
+Activation = EndFrame
+80192314 0163
+
+[Estate Of Emergency\Infinite Ammo Rifle]
+Type = Gameshark
+Activation = EndFrame
+80197528 0063
+
+[Estate Of Emergency\Infinite Ammo Shotgun]
+Type = Gameshark
+Activation = EndFrame
+8019735C 0063
+
+[Seek, Sneak + Seize\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80198544 00C8
+
+[Seek, Sneak + Seize\Infinite Ammo Pistol]
+Type = Gameshark
+Activation = EndFrame
+80198546 0163
+
+[Seek, Sneak + Seize\Infinite Ammo Rifle]
+Type = Gameshark
+Activation = EndFrame
+8019AC60 0063
+
+[Target Uc\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80196758 00C8
+
+[Target Uc\Infinite Ammo Pistol]
+Type = Gameshark
+Activation = EndFrame
+8019675A 0163
+
+[Target Uc\Infinite Ammo Shotgun]
+Type = Gameshark
+Activation = EndFrame
+80199C8C 0063
+
+[Target Uc\Infinite Explosives]
+Type = Gameshark
+Activation = EndFrame
+80199C64 0063
+
+[Target Uc\Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80194CE4 2F00
+
+[Headline Hostage\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8019550C 00C8
+
+[Headline Hostage\Infinite Ammo Pistol]
+Type = Gameshark
+Activation = EndFrame
+8019550E 0163
+
+[Headline Hostage\Infinite Ammo Shotgun]
+Type = Gameshark
+Activation = EndFrame
+801992DC 0063
+
+[Headline Hostage\Infinite Grenades]
+Type = Gameshark
+Activation = EndFrame
+8019937C 0063
+
+[Headline Hostage\Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+8019237C 2F00
+
+[Insane Assault\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801919C0 00C8
+
+[Insane Assault\Infinite Ammo Pistol]
+Type = Gameshark
+Activation = EndFrame
+801919C2 0163
+
+[Day Of Reckoning\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8018AB24 0190
+
+[Day Of Reckoning\Infinite Ammo Pistol]
+Type = Gameshark
+Activation = EndFrame
+8018AB26 0163
+
+[Day Of Reckoning\Infinite Ammo Shotgun]
+Type = Gameshark
+Activation = EndFrame
+8018D97C 0063
+
+[Day Of Reckoning\Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80189390 2F00
+
+[Assassin\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80196C1C 00C8
+
+[Assassin\Infinite Ammo Pistol]
+Type = Gameshark
+Activation = EndFrame
+80196C1E 0163
+
+[Assassin\Infinite Ammo Shotgun]
+Type = Gameshark
+Activation = EndFrame
+80199DB8 0063
+
+[Combat Tutorial = COMPLETED]
+Type = Gameshark
+Activation = EndFrame
+300EB479 0001
+
+[Physical Training = COMPLETED]
+Type = Gameshark
+Activation = EndFrame
+300EB47A 0001
+
+[Driving Bronze = COMPLETED]
+Type = Gameshark
+Activation = EndFrame
+300EB47B 0001
+
+[Combat Silver = COMPLETED]
+Type = Gameshark
+Activation = EndFrame
+300EB47C 0001
+
+[Rta = COMPLETED]
+Type = Gameshark
+Activation = EndFrame
+300EB47D 0001
+
+[Driving Silver = COMPLETED]
+Type = Gameshark
+Activation = EndFrame
+300EB47E 0001
+
+[Combat Gold = COMPLETED]
+Type = Gameshark
+Activation = EndFrame
+300EB47F 0001
+
+[The Jump = COMPLETED]
+Type = Gameshark
+Activation = EndFrame
+300EB480 0001
+
+[Driving Gold = COMPLETED]
+Type = Gameshark
+Activation = EndFrame
+300EB481 0001
+
+[Nitro Car = COMPLETED]
+Type = Gameshark
+Activation = EndFrame
+300EB482 0001
+
+[Gun Hunt = COMPLETED]
+Type = Gameshark
+Activation = EndFrame
+300EB483 0001
+
+[Rat Catch = COMPLETED]
+Type = Gameshark
+Activation = EndFrame
+300EB484 0001
+
+[Trouble In The Park = COMPLETED]
+Type = Gameshark
+Activation = EndFrame
+300EB485 0001
+
+[Gatecrusher = COMPLETED]
+Type = Gameshark
+Activation = EndFrame
+300EB486 0001
+
+[Arms Breaker = COMPLETED]
+Type = Gameshark
+Activation = EndFrame
+300EB487 0001
+
+[Media Trouble = COMPLETED]
+Type = Gameshark
+Activation = EndFrame
+300EB488 0001
+
+[Urban Shakedown = COMPLETED]
+Type = Gameshark
+Activation = EndFrame
+300EB489 0001
+
+[Auto-Destruct = COMPLETED]
+Type = Gameshark
+Activation = EndFrame
+300EB48A 0001
+
+[Grim Gardens = COMPLETED]
+Type = Gameshark
+Activation = EndFrame
+300EB48B 0001
+
+[Semtex = COMPLETED]
+Type = Gameshark
+Activation = EndFrame
+300EB48C 0001
+
+[Cop Rescue = COMPLETED]
+Type = Gameshark
+Activation = EndFrame
+300EB48D 0001
+
+[Southside Offensive = COMPLETED]
+Type = Gameshark
+Activation = EndFrame
+300EB48E 0001
+
+[Psycho Park = COMPLETED]
+Type = Gameshark
+Activation = EndFrame
+300EB48F 0001
+
+[The Fallen = COMPLETED]
+Type = Gameshark
+Activation = EndFrame
+300EB490 0001
+
+[Stern Revenge = COMPLETED]
+Type = Gameshark
+Activation = EndFrame
+300EB491 0001
+
+[Transmission Terminated = COMPLETED]
+Type = Gameshark
+Activation = EndFrame
+300EB492 0001
+
+[Estate Of Emergency = COMPLETED]
+Type = Gameshark
+Activation = EndFrame
+300EB493 0001
+
+[Seek, Sneak + Seize = COMPLETED]
+Type = Gameshark
+Activation = EndFrame
+300EB494 0001
+
+[Target Uc = COMPLETED]
+Type = Gameshark
+Activation = EndFrame
+300EB495 0001
+
+[Headline Hostage = COMPLETED]
+Type = Gameshark
+Activation = EndFrame
+300EB496 0001
+
+[Insane Assault = COMPLETED]
+Type = Gameshark
+Activation = EndFrame
+300EB498 0001
+
+[Day Of Reckoning = COMPLETED]
+Type = Gameshark
+Activation = EndFrame
+300EB499 0001
+
+[Assassin = COMPLETED]
+Type = Gameshark
+Activation = EndFrame
+300EB49A 0001
+
+[All Levels = COMPLETED]
+Type = Gameshark
+Activation = EndFrame
+50002101 0000
+300EB479 0001
+
+[Access El Cossa Isle Level]
+Type = Gameshark
+Activation = EndFrame
+D0110F30 0013
+30110F40 001E
+D0110F30 0019
+301F3AF0 0001
+D0110F48 0000
+30110F48 0001
+

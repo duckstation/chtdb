@@ -1,0 +1,12 @@
+; CHTDB: ; [ Art Camion - Geijutsuden (Jpn) (1999) (TYO) {SLPS-02405} <artcama> ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+900BC478 05F5E0FF
+
+[Damage 100]
+Type = Gameshark
+Activation = EndFrame
+8006EB04 03E8
+

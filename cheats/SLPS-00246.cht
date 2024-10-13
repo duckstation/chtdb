@@ -1,0 +1,27 @@
+; CHTDB: ; [ Slam Dragon (Japan) {SLPS-00246} ]
+
+[Infinite Energy player one]
+Type = Gameshark
+Activation = EndFrame
+800447ED 006E
+
+[P2 No energy]
+Type = Gameshark
+Activation = EndFrame
+8004FE9C 0000
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A705BA30 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A705BA30 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A705BA30 10000400
+

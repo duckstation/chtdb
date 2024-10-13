@@ -1,0 +1,67 @@
+; CHTDB: ; [ Eternal Melody (Japan) {SLPS-00584} ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+900A4BD8 0001869F
+
+[Main character 999 MP]
+Type = Gameshark
+Activation = EndFrame
+800CFB2A 03E7
+
+[Main character 999 HP]
+Type = Gameshark
+Activation = EndFrame
+800CFB28 03E7
+
+[First girl 999 HP]
+Type = Gameshark
+Activation = EndFrame
+800CFBB8 03E7
+
+[First girl 999 MP]
+Type = Gameshark
+Activation = EndFrame
+800CFBBA 03E7
+
+[Second girl 999 HP]
+Type = Gameshark
+Activation = EndFrame
+800CFB4C 03E7
+
+[Second girl 999 MP]
+Type = Gameshark
+Activation = EndFrame
+800CFB4E 03E7
+
+[Third girl 999 HP]
+Type = Gameshark
+Activation = EndFrame
+800CFB70 03E7
+
+[Third girl 999 MP]
+Type = Gameshark
+Activation = EndFrame
+800CFB72 03E7
+
+[Main character infinite HP in battle (deactivate before finishing defeating the last enemy)]
+Type = Gameshark
+Activation = EndFrame
+800A49DC 03E7
+
+[First girl infinite HP in battle (deactivate before finishing defeating the last enemy)]
+Type = Gameshark
+Activation = EndFrame
+800A4A00 03E7
+
+[Second girl infinite HP in battle (deactivate before finishing defeating the last enemy)]
+Type = Gameshark
+Activation = EndFrame
+800A4A24 03E7
+
+[Third girl infinite HP in battle (deactivate before finishing defeating the last enemy)]
+Type = Gameshark
+Activation = EndFrame
+800A4A48 03E7
+

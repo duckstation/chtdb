@@ -1,0 +1,7 @@
+; CHTDB: ; [ Las Vegas Dream 2 (Japan) {SLPS-00732} ]
+
+[Have 9999999 money]
+Type = Gameshark
+Activation = EndFrame
+9011BCD8 0098967F
+

@@ -1,0 +1,20 @@
+; CHTDB: ; [ Dezaemon Kids! (Jpn) (1998) (Athena) {SLPS-01503~SLPS-01504} <dezaekid> ]
+
+[Invincibility Disc One Games]
+Type = Gameshark
+Activation = EndFrame
+D012BD16 2462
+8012BD14 0000
+
+[Infinite Lives Disc One Games]
+Type = Gameshark
+Activation = EndFrame
+D0129E4A 2442
+80129E48 0000
+
+[Bomb MAX Disc One Games]
+Type = Gameshark
+Activation = EndFrame
+D0129E4A 2442
+8016EF12 6363
+

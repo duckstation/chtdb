@@ -1,0 +1,7 @@
+; CHTDB: ; [ Shuukan Gallop: Blood Master (Japan) {SLPS-02401 | SLPS-02402} ]
+
+[Have 999999 Money]
+Type = Gameshark
+Activation = EndFrame
+9009CD28 000F423F
+

@@ -1,0 +1,27 @@
+; CHTDB: ; [ One Piece Mansion (USA) (2001) (Capcom Entertainment) {SLUS-01406} <opmans> ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+8012FED8 FFFF
+
+[Max Money]
+Type = Gameshark
+Activation = EndFrame
+9012FED8 7FFFFFFF
+
+[Always Month 1]
+Type = Gameshark
+Activation = EndFrame
+3012FEE5 0000
+
+[Have Pitica]
+Type = Gameshark
+Activation = EndFrame
+30114F65 0001
+
+[Stop Clock]
+Type = Gameshark
+Activation = EndFrame
+8012FEE2 01C8
+

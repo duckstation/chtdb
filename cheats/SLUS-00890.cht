@@ -1,0 +1,33 @@
+; CHTDB: ; [ Glover (USA) (1999) (Hasbro Interactive) {SLUS-00890} <glover> ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+300D1BDD 0001
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800D1BDE 0303
+
+[Infinite Health (Alternate)]
+Type = Gameshark
+Activation = EndFrame
+8004B78A 2400
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800D1BE4 3900
+
+[Enable All Cheats]
+Type = Gameshark
+Activation = EndFrame
+8009564A 2400
+
+[Have All Cards]
+Type = Gameshark
+Activation = EndFrame
+300C29D0 0001
+300C29F4 0001
+

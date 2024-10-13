@@ -1,0 +1,78 @@
+; CHTDB: ; [ Silent Bomber (USA) (1999) (Bandai America) {SLUS-00902} <slntbomb> ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+900D73BC 00064000
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800D73F8 0000
+
+[Infinite Napalm Liquid]
+Type = Gameshark
+Activation = EndFrame
+300D7E2A 0063
+
+[Infinite Paralysis Liquid]
+Type = Gameshark
+Activation = EndFrame
+300D7E2B 0063
+
+[Infinite Gravity Liquid]
+Type = Gameshark
+Activation = EndFrame
+300D7E2C 0063
+
+[Infinite E-Chips]
+Type = Gameshark
+Activation = EndFrame
+300D7E2D 0063
+
+[Max Set Bombs]
+Type = Gameshark
+Activation = EndFrame
+8019147C 0006
+
+[Max Lock-On Range]
+Type = Gameshark
+Activation = EndFrame
+80191E00 0006
+
+[Max Defense Field Power]
+Type = Gameshark
+Activation = EndFrame
+80192784 0006
+
+[Max Score]
+Type = Gameshark
+Activation = EndFrame
+900D7E84 0FFFFFFF
+
+[Have All Characters]
+Type = Gameshark
+Activation = EndFrame
+800D7D28 FFFF
+
+[Overall Time is 0.00.00]
+Type = Gameshark
+Activation = EndFrame
+800D7D18 0000
+
+[All Targets Destroyed]
+Type = Gameshark
+Activation = EndFrame
+C20D7E3E 0001
+800D734E 0000
+
+[Infinite Shields (Rescue Ship - Mission 5)]
+Type = Gameshark
+Activation = EndFrame
+8019E92E 000F
+
+[Infinite Shields (Rescue Ship - Mission 12)]
+Type = Gameshark
+Activation = EndFrame
+80179BB6 0019
+

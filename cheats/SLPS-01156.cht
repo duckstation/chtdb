@@ -1,0 +1,27 @@
+; CHTDB: ; [ Momotarou Dentetsu 7 (Japan) {SLPS-01156} ]
+
+[P1 Infinite money 999999]
+Type = Gameshark
+Activation = EndFrame
+800D76C4 270F
+
+[P2 Money 0]
+Type = Gameshark
+Activation = EndFrame
+800D7840 0000
+
+[P3 Money 0]
+Type = Gameshark
+Activation = EndFrame
+800D79BC 0000
+
+[P4 Money 0]
+Type = Gameshark
+Activation = EndFrame
+800D7B38 0000
+
+[Kintarou Infinite Strenght In Mini Game]
+Type = Gameshark
+Activation = EndFrame
+8013D920 0005
+

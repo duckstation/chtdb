@@ -1,0 +1,7 @@
+; CHTDB: ; [ Fisher's Road (Jpn) (1999) (BPS) {SLPS-01943} <fishroad> ]
+
+[Have 999999 money]
+Type = Gameshark
+Activation = EndFrame
+90125B88 000F423F
+

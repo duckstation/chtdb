@@ -1,0 +1,94 @@
+; CHTDB: ; [ Grand Theft Auto (USA) (1998) (Take-Two Interactive Software) {SLUS-00106, SLUS-00106GH, SLUS-00106CE} <gta> ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8002C446 0009
+
+[Get Out Of Jail Free Key]
+Type = Gameshark
+Activation = EndFrame
+8002C45E 0001
+
+[Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+8002C438 0063
+
+[Auto-Driving Enable]
+Type = Gameshark
+Activation = EndFrame
+8002C448 05BD
+
+[Auto-Rapid Firing For All Weapons (Press O)]
+Type = Gameshark
+Activation = EndFrame
+8001A0DB 0000
+
+[No Cops]
+Type = Gameshark
+Activation = EndFrame
+80026D84 2000
+
+[Unlock Liberty City Part 2]
+Type = Gameshark
+Activation = EndFrame
+80026D20 0001
+
+[Unlock San Andreas Part 1]
+Type = Gameshark
+Activation = EndFrame
+80026D24 0001
+
+[Unlock San Andreas Part 2]
+Type = Gameshark
+Activation = EndFrame
+80026D28 0001
+
+[Unlock Vice City Part 1]
+Type = Gameshark
+Activation = EndFrame
+80026D2C 0001
+
+[Unlock Vice City Part 2]
+Type = Gameshark
+Activation = EndFrame
+80026D30 0001
+
+[Push game cap to 30 fps]
+Type = Gameshark
+Activation = EndFrame
+A7122906 0C042400
+
+[Walk off ledges and through fences]
+Type = Gameshark
+Activation = EndFrame
+A705673E 14621000
+
+[Walk off/up ledges and through fences, bounce of buildings]
+Type = Gameshark
+Activation = EndFrame
+A7096402 10401000
+
+[Zoom in x1]
+Type = Gameshark
+Activation = EndFrame
+A70D6AD6 0C032400
+
+[Zoom in x2]
+Type = Gameshark
+Activation = EndFrame
+A70D6AD6 0C032400
+A70D6A96 0C032400
+
+[Hide yellow pointer arrow]
+Type = Gameshark
+Activation = EndFrame
+A70B894E 0C012400
+
+[Stop traffic "Press L3 to turn on/off"]
+Type = Gameshark
+Activation = EndFrame
+D7010001 01000200
+F509DA7E 14402400
+

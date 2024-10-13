@@ -1,0 +1,17 @@
+; CHTDB: ; [ Men in Black: The Series: Crashdown (Spain) {SLES-03523} ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800EFFCC 0064
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+801F7C28 0050
+
+[Have All Levels]
+Type = Gameshark
+Activation = EndFrame
+A60A5B0C 00000002
+

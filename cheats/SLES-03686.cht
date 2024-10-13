@@ -1,0 +1,92 @@
+; CHTDB: ; [ Hugo: Frog Fighter (Europe) {SLES-03686} ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80170E8C 03E8
+
+[Swamp - Lv 1 Completed]
+Type = Gameshark
+Activation = EndFrame
+801645A8 0001
+
+[Swamp - Lv 2 Completed]
+Type = Gameshark
+Activation = EndFrame
+8015FA68 0001
+
+[Swamp - Lv 3 Completed]
+Type = Gameshark
+Activation = EndFrame
+8015A28C 0001
+
+[Swamp - Lv 4 Completed]
+Type = Gameshark
+Activation = EndFrame
+8015F010 0001
+
+[Jungle - Lv 1 Completed]
+Type = Gameshark
+Activation = EndFrame
+80158C14 0001
+
+[Jungle - Lv 2 Completed]
+Type = Gameshark
+Activation = EndFrame
+80158520 0001
+
+[Jungle - Lv 3 Completed]
+Type = Gameshark
+Activation = EndFrame
+80157AF0 0001
+
+[Jungle - Lv 4 Completed]
+Type = Gameshark
+Activation = EndFrame
+8015E6C8 0001
+
+[Crystal Grotto - Lv 1 Completed]
+Type = Gameshark
+Activation = EndFrame
+8015BCD4 0001
+
+[Crystal Grotto - Lv 2 Completed]
+Type = Gameshark
+Activation = EndFrame
+8015E4C8 0001
+
+[Crystal Grotto - Lv 3 Completed]
+Type = Gameshark
+Activation = EndFrame
+8015CCD0 0001
+
+[Crystal Grotto - Lv 4 Completed]
+Type = Gameshark
+Activation = EndFrame
+8015EAB0 0001
+
+[Factory - Lv 1 Completed]
+Type = Gameshark
+Activation = EndFrame
+8015840C 0001
+
+[Factory - Lv 2 Completed]
+Type = Gameshark
+Activation = EndFrame
+8015BADC 0001
+
+[Factory - Lv 3 Completed]
+Type = Gameshark
+Activation = EndFrame
+8015FA00 0001
+
+[Factory - Invincibility - Press x]
+Type = Gameshark
+Activation = EndFrame
+D008FDFA BFFF
+80157B94 0000
+D008FDFA BFFF
+8015A8A4 0000
+D008FDFA BFFF
+8015B6C8 0000
+

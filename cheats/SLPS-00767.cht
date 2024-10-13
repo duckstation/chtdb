@@ -1,0 +1,45 @@
+; CHTDB: ; [ Tactics Ogre - Let Us Cling Together (Jpn) (1997) (Artdink) {SLPS-00767} <tactogrej> ]
+
+[War Funds 9999999 Goth]
+Type = Gameshark
+Activation = EndFrame
+900B3ED0 05F5E0FF
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+9013BE20 0FFFFFFF
+
+[Charactere 1 HP/MP 999 Stats max.]
+Type = Gameshark
+Activation = EndFrame
+80143AD8 0063
+80137120 00FF
+80143B80 03E7
+80143C60 03E7
+801372D4 03E7
+80137208 03E7
+801370C0 03E7
+80136C58 03E7
+80135EF4 03E7
+80136EE8 03E7
+
+[Others Characteres HP/MP 999 Stats max.]
+Type = Gameshark
+Activation = EndFrame
+80143BB8 03E7
+80143C98 03E7
+80143BBA 03E7
+90143BBC 03E703E7
+90143BC0 03E703E7
+80143BC4 03E7
+80143C9A 03E7
+90143C9C 03E703E7
+90143CA0 03E703E7
+80143CA4 03E7
+
+[All Map]
+Type = Gameshark
+Activation = EndFrame
+30140FFF 00FF
+

@@ -1,0 +1,67 @@
+; CHTDB: ; [ G-Police (France) {SLES-00853 | SLES-10853} ]
+
+[Infinite Cannon]
+Type = Gameshark
+Activation = EndFrame
+800F5D0C 0063
+
+[Infinite Mis-Ir]
+Type = Gameshark
+Activation = EndFrame
+800F5D10 0063
+
+[Infinite Mis-Hyper]
+Type = Gameshark
+Activation = EndFrame
+800F5D14 0063
+
+[Infinite Mis-Fire]
+Type = Gameshark
+Activation = EndFrame
+800F5D18 0063
+
+[Infinite Mis-Star]
+Type = Gameshark
+Activation = EndFrame
+800F5D1C 0063
+
+[Infinite Mantr Rockets]
+Type = Gameshark
+Activation = EndFrame
+800F5D20 0063
+
+[Infinite Bomblets]
+Type = Gameshark
+Activation = EndFrame
+800F5D24 0063
+
+[Infinite 1000lb Bombs]
+Type = Gameshark
+Activation = EndFrame
+800F5D2C 0063
+
+[Infinite 500lb Bombs]
+Type = Gameshark
+Activation = EndFrame
+800F5D30 0063
+
+[Infinite Beacons]
+Type = Gameshark
+Activation = EndFrame
+800F5D34 0063
+
+[Infinite Plasma]
+Type = Gameshark
+Activation = EndFrame
+800F5D38 0063
+
+[Infinite Laser]
+Type = Gameshark
+Activation = EndFrame
+800F5D3C 0063
+
+[Infinite E.P.P.]
+Type = Gameshark
+Activation = EndFrame
+800F5D40 0063
+

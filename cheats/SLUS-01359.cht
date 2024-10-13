@@ -1,0 +1,49 @@
+; CHTDB: ; [ Smurf Racer! (USA) (2001) (Infogrames) {SLUS-01359} <smurfrac> ]
+
+[Always First Place]
+Type = Gameshark
+Activation = EndFrame
+30094419 0001
+
+[Open Circuits Int The Stage]
+Type = Gameshark
+Activation = EndFrame
+8009446B 0003
+
+[Enable Level 4]
+Type = Gameshark
+Activation = EndFrame
+80094467 0004
+800F5772 0004
+801A4378 0004
+
+[Open Next Stage]
+Type = Gameshark
+Activation = EndFrame
+801B73DA 0003
+
+[Infinite Missles]
+Type = Gameshark
+Activation = EndFrame
+80094408 0001
+
+[Everything Unlocked]
+Type = Gameshark
+Activation = EndFrame
+800100EA FFFF
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A709C96C 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A709C96C 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A709C96C 10000400
+

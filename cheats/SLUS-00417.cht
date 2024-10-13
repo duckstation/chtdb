@@ -1,0 +1,67 @@
+; CHTDB: ; [ Namco Museum Vol. 5 (USA) (1997) (Namco Hometek) {SLUS-00417} <namcoms5> ]
+
+[Baraduke\Infinite Shields]
+Type = Gameshark
+Activation = EndFrame
+801600D6 0002
+
+[Baraduke\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801600C0 0005
+
+[Dragon Spirit\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801E91B0 0002
+
+[Dragon Spirit\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801E9006 0300
+
+[Legend Of Valkryie\P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80190740 0080
+
+[Legend Of Valkryie\P1 Infinite Magic]
+Type = Gameshark
+Activation = EndFrame
+8019073E 0080
+
+[Legend Of Valkryie\P1 Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+80190742 FFFF
+
+[Legend Of Valkryie\P2 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80190844 0080
+
+[Legend Of Valkryie\P2 Infinite Magic]
+Type = Gameshark
+Activation = EndFrame
+80190842 0080
+
+[Legend Of Valkryie\P2 Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+80190846 FFFF
+
+[Metro Cross\Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+801E1442 0308
+
+[Pac-Mania\P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801E0620 030A
+
+[Pac-Mania\P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801E0622 0103
+

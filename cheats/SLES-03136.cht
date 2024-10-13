@@ -1,0 +1,34 @@
+; CHTDB: ; [ 007: Die Welt Ist Nicht Genug (Germany) {SLES-03136} ]
+
+[Alle Cheats]
+Type = Gameshark
+Activation = EndFrame
+8001F1BA 03FF
+
+[Alle Missionen freischalten]
+Type = Gameshark
+Activation = EndFrame
+50000502 0000
+8001E284 0101
+
+[Alle Filme freischalten]
+Type = Gameshark
+Activation = EndFrame
+50000602 0000
+8001E0C2 0101
+
+[Jeden Level anwählen (mit Hilfe des Cheats)]
+Type = Gameshark
+Activation = EndFrame
+3006D5A4 0001
+
+[Unendlich Leben]
+Type = Gameshark
+Activation = EndFrame
+3001E0DA 0063
+
+[Unverwundbar nach einmal gestorben sein]
+Type = Gameshark
+Activation = EndFrame
+8002585C 0000
+

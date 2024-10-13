@@ -1,0 +1,40 @@
+; CHTDB: ; [ WCW Mayhem (USA) (1999) (Electronic Arts) {SLUS-00963} <wcwmayhm> ]
+
+[Unlock All Wrestlers]
+Type = Gameshark
+Activation = EndFrame
+9009ADD8 FFFFFFFF
+
+[Left Player Instant Win]
+Type = Gameshark
+Activation = EndFrame
+C009E988 0001
+800F9BF0 0001
+800F9BF4 0200
+00000000 FFFF
+
+[Left Player Full Meter]
+Type = Gameshark
+Activation = EndFrame
+C008AB3C 0001
+800F9A82 005D
+800F9A84 005C
+00000000 FFFF
+
+[Left Player Full Strength]
+Type = Gameshark
+Activation = EndFrame
+D008AB3C 0001
+800F9A80 0575
+
+[Right Player Low Strength]
+Type = Gameshark
+Activation = EndFrame
+D008AB3C 0001
+800F9C20 0000
+
+[Enable all cheats]
+Type = Gameshark
+Activation = EndFrame
+3009CFB5 00FF
+

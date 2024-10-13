@@ -1,0 +1,195 @@
+; CHTDB: ; [ Tombi! 2 (Germany) {SCES-02685} ]
+
+[Unendlich Gesundheit]
+Type = Gameshark
+Activation = EndFrame
+800E88DE 0008
+
+[Max Ap]
+Type = Gameshark
+Activation = EndFrame
+900C0164 05F5E0FF
+
+[Spielzeit 0.00.00]
+Type = Gameshark
+Activation = EndFrame
+800C0168 0000
+
+[Habe GegenstäNde-Start-Code]
+Type = Gameshark
+Activation = EndFrame
+300C0191 00FF
+
+[Haken]
+Type = Gameshark
+Activation = EndFrame
+300C03A5 0001
+
+[Haken-Stern]
+Type = Gameshark
+Activation = EndFrame
+300C03A6 0001
+
+[Bumerang]
+Type = Gameshark
+Activation = EndFrame
+300C03A7 0001
+
+[Eis-Bumerang]
+Type = Gameshark
+Activation = EndFrame
+300C03A8 0001
+
+[Gletscher-Bumerang]
+Type = Gameshark
+Activation = EndFrame
+300C03A9 0001
+
+[Hammer]
+Type = Gameshark
+Activation = EndFrame
+300C03AA 0001
+
+[Feuerhammer]
+Type = Gameshark
+Activation = EndFrame
+300C03AB 0001
+
+[Flammenhammer]
+Type = Gameshark
+Activation = EndFrame
+300C03AC 0001
+
+[Schweinekugel]
+Type = Gameshark
+Activation = EndFrame
+300C03AD 0001
+
+[Fixe Hose]
+Type = Gameshark
+Activation = EndFrame
+300C03AF 0001
+
+[Turbo Hose]
+Type = Gameshark
+Activation = EndFrame
+300C03B0 0001
+
+[Vogelkleider]
+Type = Gameshark
+Activation = EndFrame
+300C03B2 0001
+
+[EichhöRnchen-KostüM]
+Type = Gameshark
+Activation = EndFrame
+300C03B3 0001
+
+[Schweine-KostüM]
+Type = Gameshark
+Activation = EndFrame
+300C03B4 0001
+
+[Schwimmanzug]
+Type = Gameshark
+Activation = EndFrame
+300C03B5 0001
+
+[Flammenschwein-KostüM]
+Type = Gameshark
+Activation = EndFrame
+300C03B6 0001
+
+[Eisschwein-KostüM]
+Type = Gameshark
+Activation = EndFrame
+300C03B7 0001
+
+[Geisterschwein-KostüM]
+Type = Gameshark
+Activation = EndFrame
+300C03B8 0001
+
+[Erdschwein-KostüM]
+Type = Gameshark
+Activation = EndFrame
+300C03B9 0001
+
+[Wasserschwein-KostüM]
+Type = Gameshark
+Activation = EndFrame
+300C03BA 0001
+
+[Morgenstern]
+Type = Gameshark
+Activation = EndFrame
+300C03BB 0001
+
+[Geisterschwein-Tasche]
+Type = Gameshark
+Activation = EndFrame
+300C03BD 0001
+
+[Erdschwein-Tasche]
+Type = Gameshark
+Activation = EndFrame
+300C03BE 0001
+
+[Wasserschwein-Tasche]
+Type = Gameshark
+Activation = EndFrame
+300C03BF 0001
+
+[Letzte Schweintasche]
+Type = Gameshark
+Activation = EndFrame
+300C03C0 0001
+
+[Habe Alle GegenstäNde]
+Type = Gameshark
+Activation = EndFrame
+50000B01 0000
+800C03C0 0009
+300C03CC 0009
+50002D01 0000
+800C03CE 0009
+300C03FA 0009
+50000A02 0000
+800C03FC 0909
+50001D01 0000
+800C0410 0009
+50000B02 0000
+800C0436 0909
+
+[Habe Alle Kleidungen i]
+Type = Gameshark
+Activation = EndFrame
+300C03B0 0001
+50000901 0000
+800C03B2 0001
+
+[Habe Alle Kleidungen/Waffen II]
+Type = Gameshark
+Activation = EndFrame
+50000602 0000
+800C03A4 0101
+
+[Unendlich Magie]
+Type = Gameshark
+Activation = EndFrame
+800C016E 7070
+
+[Unendlich Zeit Bei Der Eisenbahn\An .Drücke L2 .Nur bei der Eisenbahn nutzen!]
+Type = Gameshark
+Activation = EndFrame
+D00ED844 0001
+80000002 9999
+D0000002 9999
+800E87B0 0157
+
+[Unendlich Zeit Bei Der Eisenbahn\Aus .Drücke L2 .Nur bei der Eisenbahn nutzen!]
+Type = Gameshark
+Activation = EndFrame
+D00ED844 0002
+80000002 0000
+

@@ -1,0 +1,7 @@
+; CHTDB: ; [ Disney Aladdin: La Venganza de Nasira (Spain) {SCES-03008} ]
+
+[Energia Infinita]
+Type = Gameshark
+Activation = EndFrame
+80085CB9 0800
+

@@ -1,0 +1,58 @@
+; CHTDB: ; [ Poy Poy 2 (Europe) {SLES-01536} ]
+
+[2 Sec Gametime]
+Type = Gameshark
+Activation = EndFrame
+800A9C08 0028
+
+[65.535.000 Money]
+Type = Gameshark
+Activation = EndFrame
+800A9970 FFFF
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800AC890 00FF
+
+[P2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800AC8AA 00CD
+
+[P1 Always Win]
+Type = Gameshark
+Activation = EndFrame
+800ACA50 00C7
+
+[P1 Infinite Psycho Power]
+Type = Gameshark
+Activation = EndFrame
+800AC89A 6666
+
+[Always Get 12 Points]
+Type = Gameshark
+Activation = EndFrame
+80142D54 000C
+
+[Able To Upgrade Your Gloves]
+Type = Gameshark
+Activation = EndFrame
+50002C02 0000
+800ACA6C 03E7
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A70EAA68 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A70EAA68 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A70EAA68 10000400
+

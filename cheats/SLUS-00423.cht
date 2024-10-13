@@ -1,0 +1,28 @@
+; CHTDB: ; [ Street Fighter Collection (USA, v1.0) (1997) (Capcom Entertainment) {SLUS-00423, SLUS-00584} <sfcolla> ]
+
+[P1 Infinite HP Super Street Fighter II]
+Type = Gameshark
+Activation = EndFrame
+80175118 0090
+
+[No Health P2 Super Street Fighter II]
+Type = Gameshark
+Activation = EndFrame
+80175484 0000
+
+[P1 Infinite HP Super Street Fighter II Turbo]
+Type = Gameshark
+Activation = EndFrame
+80175118 0090
+
+[No Health P2 Super Street Fighter II Turbo]
+Type = Gameshark
+Activation = EndFrame
+80175484 0000
+
+[Play as Akuma Super Street Fighter II Turbo]
+Type = Gameshark
+Activation = EndFrame
+D01753CE 0100
+801753FC 0100
+

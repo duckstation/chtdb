@@ -1,0 +1,12 @@
+; CHTDB: ; [ Hanafuda Graffiti: Koi Koi Monogatari (Japan) {SLPS-00367} ]
+
+[Have 999 points in hanafuda game]
+Type = Gameshark
+Activation = EndFrame
+800D001E 03E7
+
+[Enemy has always 0 points]
+Type = Gameshark
+Activation = EndFrame
+800D0020 0000
+

@@ -1,0 +1,23 @@
+; CHTDB: ; [ Jang Jang Koi Shimashow Separate 2: Koi Koi Shimashow (Japan) {SLPS-02709} ]
+
+[Enemy has always 0 points]
+Type = Gameshark
+Activation = EndFrame
+8019545C 0000
+
+[Player has always 99 points]
+Type = Gameshark
+Activation = EndFrame
+80195444 0063
+
+[All Memorial oPEN]
+Type = Gameshark
+Activation = EndFrame
+900C23D8 1F1F1F1F
+300C23DC 0003
+
+[Can race against the conservative free competition]
+Type = Gameshark
+Activation = EndFrame
+300C23BA 0001
+

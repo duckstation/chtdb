@@ -1,0 +1,23 @@
+; CHTDB: ; [ Jade Cocoon: La Leyenda de Tamamayu (Spain) {SLES-02205} ]
+
+[Have 999999 money]
+Type = Gameshark
+Activation = EndFrame
+9008B8D4 000F423F
+
+[Levant Maximum Health (999)]
+Type = Gameshark
+Activation = EndFrame
+9008C080 03E703E7
+
+[Levant Capture Level 255]
+Type = Gameshark
+Activation = EndFrame
+3008C0BC 00FF
+
+[Levant Attack,Defense,Magic Attack,Magic Defense And Speed All 99]
+Type = Gameshark
+Activation = EndFrame
+9008C0A4 63636363
+3008C0A8 0063
+

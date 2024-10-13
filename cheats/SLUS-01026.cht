@@ -1,0 +1,41 @@
+; CHTDB: ; [ Dave Mirra Freestyle BMX (USA) (2000) (Acclaim Entertainment) {SLUS-01026} <mirrabmx> ]
+
+[Timer Frozen]
+Type = Gameshark
+Activation = EndFrame
+8009567C 0DFE
+
+[Enable All Locations (Press Select)]
+Type = Gameshark
+Activation = EndFrame
+D00C6016 FFFE
+800945CC 000C
+
+[Enable All Bikes (Press Select)]
+Type = Gameshark
+Activation = EndFrame
+D00C6016 FFFE
+800945BE 0004
+
+[Enable All Styles (Press Select)]
+Type = Gameshark
+Activation = EndFrame
+D00C6016 FFFE
+800945DC 0005
+
+[Unlock All Outfits]
+Type = Gameshark
+Activation = EndFrame
+300B601D 0005
+300B6121 0005
+300B6225 0005
+300B6329 0005
+300B642D 0005
+300B6531 0005
+300B6635 0005
+300B6739 0005
+300B683D 0005
+300B6941 0005
+300B6A45 0005
+300B6B49 0005
+

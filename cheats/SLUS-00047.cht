@@ -1,0 +1,22 @@
+; CHTDB: ; [ NFL Full Contact (USA) (1996) (Konami of America) {SLUS-00047} <nflfcont> ]
+
+[Select Away Team Score\100]
+Type = Gameshark
+Activation = EndFrame
+8008AB36 0064
+
+[Select Away Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+8008AB36 0000
+
+[Select Home Team Score\100]
+Type = Gameshark
+Activation = EndFrame
+8008AB34 0064
+
+[Select Home Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+8008AB34 0000
+

@@ -1,0 +1,17 @@
+; CHTDB: ; [ Dexter's Laboratory: Mandark's Lab? (Europe) {SLES-03627} ]
+
+[have 9999 points in Dance mini game stage 3]
+Type = Gameshark
+Activation = EndFrame
+80194810 270F
+
+[Have 12000 points in Dance mini game final stage]
+Type = Gameshark
+Activation = EndFrame
+80194814 2EE0
+
+[Infinite Spray]
+Type = Gameshark
+Activation = EndFrame
+801310F5 0100
+

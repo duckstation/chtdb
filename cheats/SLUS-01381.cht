@@ -1,0 +1,68 @@
+; CHTDB: ; [ Saiyuki - Journey West (USA) (2001) (Koei) {SLUS-01381} <saiyuki> ]
+
+[All Characters Max HP]
+Type = Gameshark
+Activation = EndFrame
+50000D38 0000
+80136F70 03E7
+
+[All Characters Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+50000D38 0000
+80136F8A 03E7
+
+[All Characters Max MP]
+Type = Gameshark
+Activation = EndFrame
+50000D38 0000
+80136F72 03E7
+
+[All Characters Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+50000D38 0000
+80136F8C 03E7
+
+[Have All Guardians]
+Type = Gameshark
+Activation = EndFrame
+30137721 00FF
+30137722 00FF
+
+[Have all Items]
+Type = Gameshark
+Activation = EndFrame
+50007D02 0000
+8013A720 6363
+
+[Infinite Gold]
+Type = Gameshark
+Activation = EndFrame
+80137714 FFFF
+
+[Infinite Medals]
+Type = Gameshark
+Activation = EndFrame
+80137718 FFFF
+
+[Infinite Were Points]
+Type = Gameshark
+Activation = EndFrame
+300EBE44 0020
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A7199174 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A7199174 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A7199174 10000400
+

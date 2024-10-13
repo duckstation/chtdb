@@ -1,0 +1,47 @@
+; CHTDB: ; [ Rally Cross (USA) (1997) (Sony Computer Entertainment America) {SCUS-94308} <rallyx> ]
+
+[Unlock All Courses, Course Variations, Difficulty Levels, And 20 Vehicles]
+Type = Gameshark
+Activation = EndFrame
+80056456 0114
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800659C0 0000
+
+[Freeze Lap Timer]
+Type = Gameshark
+Activation = EndFrame
+800659C4 0000
+
+[Always Place 1]
+Type = Gameshark
+Activation = EndFrame
+800B43CA 0001
+
+[Select Starting Lap\2]
+Type = Gameshark
+Activation = EndFrame
+A60659BA 00010002
+
+[Select Starting Lap\3]
+Type = Gameshark
+Activation = EndFrame
+A60659BA 00010003
+
+[Select Starting Lap\4]
+Type = Gameshark
+Activation = EndFrame
+A60659BA 00010004
+
+[Select Starting Lap\5]
+Type = Gameshark
+Activation = EndFrame
+A60659BA 00010005
+
+[Extra Cars]
+Type = Gameshark
+Activation = EndFrame
+80055278 0014
+

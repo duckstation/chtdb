@@ -1,0 +1,29 @@
+; CHTDB: ; [ Murakoshi Seikai no Bakuchou Nihon Rettou 2 (Japan) {SLPS-02890} ]
+
+[Have 999999 money]
+Type = Gameshark
+Activation = EndFrame
+90090BFC 000F423F
+
+[Without tension Press Select + Square]
+Type = Gameshark
+Activation = EndFrame
+D008A02C 0180
+800F2A92 0000
+
+[Without tension]
+Type = Gameshark
+Activation = EndFrame
+800F2A92 0000
+
+[Have All Lures]
+Type = Gameshark
+Activation = EndFrame
+50006E02 0000
+80090C00 FFFF
+
+[Quiz limit release]
+Type = Gameshark
+Activation = EndFrame
+A6016100 00010000
+

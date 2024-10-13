@@ -1,0 +1,308 @@
+; CHTDB: ; [ Jumping Flash! 2 aka Jumping Flash! 2: Big Trouble in Little Muu (Europe) {SCES-00111} ]
+
+[Select Starting Level\1-1]
+Type = Gameshark
+Activation = EndFrame
+A601534C 00000000
+
+[Select Starting Level\1-2]
+Type = Gameshark
+Activation = EndFrame
+A601534C 00000001
+
+[Select Starting Level\1-3]
+Type = Gameshark
+Activation = EndFrame
+A601534C 00000002
+
+[Select Starting Level\2-1]
+Type = Gameshark
+Activation = EndFrame
+A601534C 00000003
+
+[Select Starting Level\2-2]
+Type = Gameshark
+Activation = EndFrame
+A601534C 00000004
+
+[Select Starting Level\2-3]
+Type = Gameshark
+Activation = EndFrame
+A601534C 00000005
+
+[Select Starting Level\3-1]
+Type = Gameshark
+Activation = EndFrame
+A601534C 00000006
+
+[Select Starting Level\3-2]
+Type = Gameshark
+Activation = EndFrame
+A601534C 00000007
+
+[Select Starting Level\3-3]
+Type = Gameshark
+Activation = EndFrame
+A601534C 00000008
+
+[Select Starting Level\4-1]
+Type = Gameshark
+Activation = EndFrame
+A601534C 00000009
+
+[Select Starting Level\4-2]
+Type = Gameshark
+Activation = EndFrame
+A601534C 0000000A
+
+[Select Starting Level\4-3]
+Type = Gameshark
+Activation = EndFrame
+A601534C 0000000B
+
+[Select Starting Level\5-1]
+Type = Gameshark
+Activation = EndFrame
+A601534C 0000000C
+
+[Select Starting Level\5-2]
+Type = Gameshark
+Activation = EndFrame
+A601534C 0000000D
+
+[Select Starting Level\5-3]
+Type = Gameshark
+Activation = EndFrame
+A601534C 0000000E
+
+[Select Starting Level\6-1]
+Type = Gameshark
+Activation = EndFrame
+A601534C 0000000F
+
+[Select Starting Level\6-2]
+Type = Gameshark
+Activation = EndFrame
+A601534C 00000010
+
+[Select Starting Level\6-3]
+Type = Gameshark
+Activation = EndFrame
+A601534C 00000011
+
+[Level 1 Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80104094 6E4F
+
+[Level 1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80105098 0003
+
+[Level 1 Stop Time]
+Type = Gameshark
+Activation = EndFrame
+801050A0 0001
+
+[Level 1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80136DE4 0085
+
+[Level 1 Jumping Bar Full]
+Type = Gameshark
+Activation = EndFrame
+8010520C 1000
+80105210 1000
+
+[Level 1 Jump Infinitely]
+Type = Gameshark
+Activation = EndFrame
+801051C0 0001
+
+[Level 1 Have all Muus]
+Type = Gameshark
+Activation = EndFrame
+8010505C 000F
+
+[Level 2 Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+801060A8 8C4D
+
+[Level 2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801070A0 0005
+
+[Level 2 Stop Time]
+Type = Gameshark
+Activation = EndFrame
+801070A8 0001
+
+[Level 2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80138E48 0085
+
+[Level 2 Jumping Bar Full]
+Type = Gameshark
+Activation = EndFrame
+80107214 1000
+80107218 1000
+
+[Level 2 Jump Infinitely]
+Type = Gameshark
+Activation = EndFrame
+801071C8 0001
+
+[Level 2 Have all Muus]
+Type = Gameshark
+Activation = EndFrame
+80107064 000F
+
+[Level 3 Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+8010B5D0 8C8C
+
+[Level 3 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8010C604 0005
+
+[Level 3 Stop Time]
+Type = Gameshark
+Activation = EndFrame
+8010C60C 0001
+
+[Level 3 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8013D9CC 0085
+
+[Level 3 Jumping Bar Full]
+Type = Gameshark
+Activation = EndFrame
+8010C778 1000
+8010C77C 1000
+
+[Level 3 Jump Infinitely]
+Type = Gameshark
+Activation = EndFrame
+8010C72C 0001
+
+[Level 3 Have all Muus]
+Type = Gameshark
+Activation = EndFrame
+8010C5C8 000F
+
+[Level 4 Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+8010BE04 8C8C
+
+[Level 4 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8010CE00 0005
+
+[Level 4 Stop Time]
+Type = Gameshark
+Activation = EndFrame
+8010CE08 0001
+
+[Level 4 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8013FE30 0085
+
+[Level 4 Jumping Bar Full]
+Type = Gameshark
+Activation = EndFrame
+8010CF74 1000
+8010CF78 1000
+
+[Level 4 Jump Infinitely]
+Type = Gameshark
+Activation = EndFrame
+8010CF28 0001
+
+[Level 4 Have all Muus]
+Type = Gameshark
+Activation = EndFrame
+8010CDC4 000F
+
+[Level 5 Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+801145AC 8C8C
+
+[Level 5 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801155B8 0005
+
+[Level 5 Stop Time]
+Type = Gameshark
+Activation = EndFrame
+801155C0 0001
+
+[Level 5 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80147870 0085
+
+[Level 5 Jumping Bar Full]
+Type = Gameshark
+Activation = EndFrame
+8011572C 1000
+80115730 1000
+
+[Level 5 Jump Infinitely]
+Type = Gameshark
+Activation = EndFrame
+801156E0 0001
+
+[Level 5 Have all Muus]
+Type = Gameshark
+Activation = EndFrame
+8011557C 000F
+
+[Level 6 Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80114CFC 8C8C
+
+[Level 6 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80115D34 0005
+
+[Level 6 Stop Time]
+Type = Gameshark
+Activation = EndFrame
+80115D3C 0001
+
+[Level 6 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80149FCC 0085
+
+[Level 6 Jumping Bar Full]
+Type = Gameshark
+Activation = EndFrame
+80115EA8 1000
+80115EAC 1000
+
+[Level 6 Jump Infinitely]
+Type = Gameshark
+Activation = EndFrame
+80115E5C 0001
+
+[Level 6 Have all Muus]
+Type = Gameshark
+Activation = EndFrame
+80115CF8 000F
+

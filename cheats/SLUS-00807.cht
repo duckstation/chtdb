@@ -1,0 +1,147 @@
+; CHTDB: ; [ Centipede (USA) (1999) (Hasbro Interactive) {SLUS-00807} <centiped> ]
+
+[Adventure Mode\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800B99F8 0004
+
+[Adventure Mode\Max Score]
+Type = Gameshark
+Activation = EndFrame
+A6114FE8 0000FFFF
+
+[Adventure Mode\Enable The Crack Of Doom Level]
+Type = Gameshark
+Activation = EndFrame
+800569B0 0001
+
+[Adventure Mode\Enable Four Score Level]
+Type = Gameshark
+Activation = EndFrame
+800569EC 0001
+
+[Adventure Mode\Enable City Wall Level]
+Type = Gameshark
+Activation = EndFrame
+80056A28 0001
+
+[Adventure Mode\Enable Ant May Level]
+Type = Gameshark
+Activation = EndFrame
+80056A64 0001
+
+[Adventure Mode\Enable Trapped Under Ice Level]
+Type = Gameshark
+Activation = EndFrame
+80056AA0 0001
+
+[Adventure Mode\Enable A Glacier Runs Through It Level]
+Type = Gameshark
+Activation = EndFrame
+80056B18 0001
+
+[Adventure Mode\Enable Iceburg Let Us Level]
+Type = Gameshark
+Activation = EndFrame
+80056B54 0001
+
+[Adventure Mode\Enable Celtic Frost Level]
+Type = Gameshark
+Activation = EndFrame
+80056B90 0001
+
+[Adventure Mode\Enable Motel Of Lost Champions Level]
+Type = Gameshark
+Activation = EndFrame
+80056BCC 0001
+
+[Adventure Mode\Enable Huckleberry Friend Level]
+Type = Gameshark
+Activation = EndFrame
+80056C08 0001
+
+[Adventure Mode\Enable Jump In The Fire Level]
+Type = Gameshark
+Activation = EndFrame
+80056C44 0001
+
+[Adventure Mode\Enable A Bridge Over Molten Magma Level]
+Type = Gameshark
+Activation = EndFrame
+80056C80 0001
+
+[Adventure Mode\Enable Schmokenden Level]
+Type = Gameshark
+Activation = EndFrame
+80056CBC 0001
+
+[Adventure Mode\Enable Furnace Of Fools Level]
+Type = Gameshark
+Activation = EndFrame
+80056CF8 0001
+
+[Adventure Mode\Enable But It's A Dry Heat Level]
+Type = Gameshark
+Activation = EndFrame
+80056D34 0001
+
+[Adventure Mode\Enable Born Of Fire Level]
+Type = Gameshark
+Activation = EndFrame
+80056D70 0001
+
+[Adventure Mode\Enable A Hero's Reckoning Level]
+Type = Gameshark
+Activation = EndFrame
+80056DAC 0001
+
+[Adventure Mode\Enable This Mad Machinery Level]
+Type = Gameshark
+Activation = EndFrame
+80056F50 0001
+
+[Adventure Mode\Enable Curiosity Caught The Wee Level]
+Type = Gameshark
+Activation = EndFrame
+80056F8C 0001
+
+[Adventure Mode\Enable Things Crawl In The Darkness Level]
+Type = Gameshark
+Activation = EndFrame
+80056FC8 0001
+
+[Adventure Mode\Enable Your Back's Against No Wall Level]
+Type = Gameshark
+Activation = EndFrame
+80057004 0001
+
+[Adventure Mode\Enable Her Dead Power, The Queen Pede Level]
+Type = Gameshark
+Activation = EndFrame
+80057040 0001
+
+[Adventure Mode\Have Last Level Completed]
+Type = Gameshark
+Activation = EndFrame
+8005707C 0001
+
+[Adventure Mode\When Paused Press Right To Gain Extra Lives]
+Type = Gameshark
+Activation = EndFrame
+800B96CC 0001
+
+[Arcade Mode\P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80095DCC 0003
+
+[Arcade Mode\P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80095DD0 0002
+
+[Adventure Mode\Invincibility (No Hit)]
+Type = Gameshark
+Activation = EndFrame
+A704F1FA 18401000
+

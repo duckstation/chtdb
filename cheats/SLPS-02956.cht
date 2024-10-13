@@ -1,0 +1,22 @@
+; CHTDB: ; [ Mahjong Youchien Tamago Gumi 2: Taikai e Ikou! (Japan) {SLPS-02956} ]
+
+[Player has 99999 points]
+Type = Gameshark
+Activation = EndFrame
+90177C18 0001869F
+
+[Opponent 1 has 0 points]
+Type = Gameshark
+Activation = EndFrame
+80177CB4 0000
+
+[Opponent 2 has 0 points]
+Type = Gameshark
+Activation = EndFrame
+80177C80 0000
+
+[Opponent 3 has 0 points]
+Type = Gameshark
+Activation = EndFrame
+80177C4C 0000
+

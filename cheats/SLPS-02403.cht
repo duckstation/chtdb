@@ -1,0 +1,43 @@
+; CHTDB: ; [ Runabout 2 (Japan) {SLPS-02403} ]
+
+[Total Damage Amt - Nil]
+Type = Gameshark
+Activation = EndFrame
+8008AE58 0000
+
+[Freeze Time]
+Type = Gameshark
+Activation = EndFrame
+80093990 7B0C
+80093994 0000
+
+[No Damage]
+Type = Gameshark
+Activation = EndFrame
+80127638 0000
+
+[2nd Inter Change Vehicle No Damage]
+Type = Gameshark
+Activation = EndFrame
+80127F7C 0000
+
+[All Cars]
+Type = Gameshark
+Activation = EndFrame
+50001E0C 0000
+30046394 0001
+
+[All Mails]
+Type = Gameshark
+Activation = EndFrame
+D00460AA 0000
+50001801 0000
+300460A8 0007
+
+[All Goodies]
+Type = Gameshark
+Activation = EndFrame
+D00460AA 0000
+50006801 0000
+300460C0 0007
+

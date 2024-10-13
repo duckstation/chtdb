@@ -1,0 +1,29 @@
+; CHTDB: ; [ Legacy of Kain: Soul Reaver (France) {SLES-02024} ]
+
+[Jauge d'energie max]
+Type = Gameshark
+Activation = EndFrame
+D00D5DE4 0002
+800D5DA8 86A0
+D00D5DE4 0002
+800D5DAA 0001
+D00D5DE4 0001
+800D5DA8 A120
+D00D5DE4 0001
+800D5DAA 0007
+
+[Energie max]
+Type = Gameshark
+Activation = EndFrame
+800D5DA4 0004
+
+[Toutes les Capacités]
+Type = Gameshark
+Activation = EndFrame
+800D5DB4 FFBF
+
+[Pouvoirs Glyph]
+Type = Gameshark
+Activation = EndFrame
+900D5DBC 00630063
+

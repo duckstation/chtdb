@@ -1,0 +1,90 @@
+; CHTDB: ; [ Saru! Get You! (Jpn) (1999) (SCEI) {SCPS-10091} <apescapej> ]
+
+[Main Character\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800EC268 0005
+
+[Main Character\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+300F442C 0005
+
+[Main Character\Get 1Up From Each Coin]
+Type = Gameshark
+Activation = EndFrame
+300F4456 0063
+
+[Main Character\Infinite Oxygen]
+Type = Gameshark
+Activation = EndFrame
+800F4D68 0258
+
+[Main Character\Super Jump]
+Description = Press R2 to activate , L2 for normal jump
+Type = Gameshark
+Activation = EndFrame
+D00E5418 0002
+300EC1DE 0008
+
+[Main Character\All Items]
+Type = Gameshark
+Activation = EndFrame
+D00F5164 0003
+300F5164 00FF
+
+[Stage appearance 1 00 = Not Clear 01 = Clear 02 = Clear full]
+Type = Gameshark
+Activation = EndFrame
+300DF801 0000
+
+[Stage appearance 2 00 = Not Clear 01 = Clear 02 = Clear full]
+Type = Gameshark
+Activation = EndFrame
+300DF802 0000
+
+[Stage appearance 3 00 = Not Clear 01 = Clear 02 = Clear full]
+Type = Gameshark
+Activation = EndFrame
+300DF803 0000
+
+[Stage appearance 4 00 = Not Clear 01 = Clear 02 = Clear full]
+Type = Gameshark
+Activation = EndFrame
+300DF804 0000
+
+[Stage appearance 5 00 = Not Clear 01 = Clear 02 = Clear full]
+Type = Gameshark
+Activation = EndFrame
+300DF805 0000
+
+[Stage appearance 6 00 = Not Clear 01 = Clear 02 = Clear full]
+Type = Gameshark
+Activation = EndFrame
+300DF806 0000
+
+[Stage appearance 7 00 = Not Clear 01 = Clear 02 = Clear full]
+Type = Gameshark
+Activation = EndFrame
+300DF807 0000
+
+[Stage appearance 23 00 = Not Clear 01 = Clear 02 = Clear full]
+Type = Gameshark
+Activation = EndFrame
+300DF817 0000
+
+[Specter Coin / Hiroki Attack Part 1]
+Type = Gameshark
+Activation = EndFrame
+300DFA40 0019
+
+[Specter Coin / Hiroki Attack Part 2]
+Type = Gameshark
+Activation = EndFrame
+300DFA41 0019
+
+[It does not hit the enemy attacks]
+Type = Gameshark
+Activation = EndFrame
+300F4A3E 00FF
+

@@ -1,0 +1,42 @@
+; CHTDB: ; [ Viva Football (Europe) {SLES-00761} ]
+
+[Select Home Team Score\9 Goals]
+Type = Gameshark
+Activation = EndFrame
+8007D838 0009
+
+[Select Home Team Score\0 Goals]
+Type = Gameshark
+Activation = EndFrame
+8007D838 0000
+
+[Select Away Team Score\9 Goals]
+Type = Gameshark
+Activation = EndFrame
+8007D83C 0009
+
+[Select Away Team Score\0 Goals]
+Type = Gameshark
+Activation = EndFrame
+8007D83C 0000
+
+[Swirly Possession Marker]
+Type = Gameshark
+Activation = EndFrame
+80079D98 FF60
+
+[Boomerang Possesion Marker]
+Type = Gameshark
+Activation = EndFrame
+80079D96 E07F
+
+[Training Mode]
+Type = Gameshark
+Activation = EndFrame
+801FDDF8 0000
+
+[Away Teams Goalie Stands On Half Way Line]
+Type = Gameshark
+Activation = EndFrame
+80095348 FFFF
+

@@ -1,0 +1,27 @@
+; CHTDB: ; [ Carnage Heart (Europe) {SCES-00441} ]
+
+[Have 9999999 money]
+Type = Gameshark
+Activation = EndFrame
+900DF9FC 05F5E0FF
+
+[Unit 1 Ammo 99]
+Type = Gameshark
+Activation = EndFrame
+8010CB54 0063
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A71280F4 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A71280F4 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A71280F4 10000400
+

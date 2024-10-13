@@ -1,0 +1,211 @@
+; CHTDB: ; [ Syphon Filter 3 (USA) (2001) (Sony Computer Entertainment America) {SCUS-94640} <syphonf3> ]
+
+[Unlock All Missions]
+Type = Gameshark
+Activation = EndFrame
+8014F9C4 0013
+
+[Extra Ammo (Most Weapons)]
+Type = Gameshark
+Activation = EndFrame
+80066B68 0001
+
+[Infinite Ammo (Most Weapons)]
+Type = Gameshark
+Activation = EndFrame
+80066B6E 2400
+
+[Infinite Health (All Levels)]
+Type = Gameshark
+Activation = EndFrame
+C005AEFC AAAB
+9005AEF4 24040258
+8005AEFA A4C4
+00000000 FFFF
+
+[Infinite Health Australian Outback]
+Type = Gameshark
+Activation = EndFrame
+D01A5B0A 8019
+801A5B12 0258
+D01A5972 8019
+801A597A 0258
+
+[Infinite Health Aztec Ruins]
+Type = Gameshark
+Activation = EndFrame
+D01B2F8A 801A
+801B2F92 0258
+D01B290E 801A
+801B2916 0258
+
+[Infinite Health C-5 Galaxy Transport]
+Type = Gameshark
+Activation = EndFrame
+D01B2C4E 801A
+801B2C56 0258
+D01B2AC6 801A
+801B2ACE 0258
+
+[Infinite Health Convoy]
+Type = Gameshark
+Activation = EndFrame
+D01A8F16 8019
+801A8F1E 0258
+D01A8D36 8019
+801A8D3E 0258
+
+[Infinite Health Costa Rican Plantation]
+Type = Gameshark
+Activation = EndFrame
+D01B409E 801A
+801B40A6 0258
+D01B3CB6 801A
+801B3CBE 0258
+
+[Infinite Health DC Subway]
+Type = Gameshark
+Activation = EndFrame
+D01B56D2 801A
+801B56DA 0258
+D01B51B2 801A
+801B51BA 0258
+
+[Infinite Health Docks Final Assault]
+Type = Gameshark
+Activation = EndFrame
+D01A3CDA 8019
+801A3CE2 0258
+D01A36B2 8019
+801A36BA 0258
+
+[Infinite Health Hotel Fukushima]
+Type = Gameshark
+Activation = EndFrame
+D01BB5FA 801B
+801BB602 0258
+D01BAF8E 801A
+801BAF96 0258
+
+[Infinite Health Kabul. Afghanistan]
+Type = Gameshark
+Activation = EndFrame
+D01B0076 801A
+801B007E 0258
+D01AFE52 801A
+801AFE5A 0258
+
+[Infinite Health Militia Compound]
+Type = Gameshark
+Activation = EndFrame
+D01B7D22 801A
+801B7D2A 0258
+D01B7B42 801A
+801B7B4A 0258
+
+[Infinite Health Paradise Ridge]
+Type = Gameshark
+Activation = EndFrame
+D01B39AA 801A
+801B39B2 0258
+D01B3462 801A
+801B346A 0258
+
+[Infinite Health Pugari Complex]
+Type = Gameshark
+Activation = EndFrame
+D01AAB96 801A
+801AAB9E 0258
+D01AA44A 801A
+801AA452 0258
+
+[Infinite Health Pugari Gold Mine]
+Type = Gameshark
+Activation = EndFrame
+D01B4462 801A
+801B446A 0258
+D01B3FFE 801A
+801B4006 0258
+
+[Infinite Health S.S.Lorelei]
+Type = Gameshark
+Activation = EndFrame
+D01BD3C2 801A
+801BD3CA 0258
+D01BD3B6 801A
+801BD3BE 0258
+
+[Infinite Health Senate Building]
+Type = Gameshark
+Activation = EndFrame
+D01AE42E 801A
+801AE436 0258
+D01ADD6A 801A
+801ADD72 0258
+
+[Infinite Health St George Australia]
+Type = Gameshark
+Activation = EndFrame
+D01AF0FE 801A
+801AF106 0258
+D01AEC26 801A
+801AEC2E 0258
+
+[Infinite Health The Beast]
+Type = Gameshark
+Activation = EndFrame
+D01AABBA 801A
+801AABC2 0258
+D01AA862 801A
+801AA86A 0258
+
+[Infinite HealthUnderground Bunker]
+Type = Gameshark
+Activation = EndFrame
+801B15DE 801A
+801B15E6 0258
+D01B1416 801A
+801B141E 0258
+
+[Infinite Health Waterfront]
+Type = Gameshark
+Activation = EndFrame
+D01B402E 801A
+801B4036 0258
+D01B39AE 801A
+801B39B6 0258
+
+[Have All Cheats + Mini Game Mode]
+Type = Gameshark
+Activation = EndFrame
+801223F4 FFFF
+
+[Infinite Time (Mini Game Mode)]
+Type = Gameshark
+Activation = EndFrame
+8005E016 2400
+
+[Have All Weapons And Items]
+Type = Gameshark
+Activation = EndFrame
+9012D7D8 F9FFFFFF
+8012D7DC 005F
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A71236C8 10000C00
+A7123C68 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A71236C8 10000900
+A7123C68 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A71236C8 10000400
+A7123C68 10000400
+

@@ -1,0 +1,22 @@
+; CHTDB: ; [ Skeleton Warriors (USA) (1996) (Playmates Interactive Entertainment) {SLUS-00209} <skelwarr> ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801DB768 0004
+
+[Infinite Crystals]
+Type = Gameshark
+Activation = EndFrame
+801DB774 0020
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801DB760 0064
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+801DB752 0001
+

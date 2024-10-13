@@ -1,0 +1,39 @@
+; CHTDB: ; [ Cardinal Syn (Europe) {SCES-01043} ]
+
+[Unlock All Characters]
+Type = Gameshark
+Activation = EndFrame
+50000A04 0000
+801E7E0A 0100
+
+[P1 Infinite Health 1]
+Type = Gameshark
+Activation = EndFrame
+90194698 32010008
+901946A0 10200002
+
+[P2 Automatically Looses]
+Type = Gameshark
+Activation = EndFrame
+801EE9B8 0000
+
+[P1 1 Round won]
+Type = Gameshark
+Activation = EndFrame
+801EE97C 0001
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A71EB060 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A71EB060 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A71EB060 10000400
+

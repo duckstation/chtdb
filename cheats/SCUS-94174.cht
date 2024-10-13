@@ -1,0 +1,87 @@
+; CHTDB: ; [ NHL FaceOff 98 (USA) (1997) (Sony Computer Entertainment America) {SCUS-94174} <nhlfce98> ]
+
+[Select Home Team Score\9]
+Type = Gameshark
+Activation = EndFrame
+800D09BE 0009
+
+[Select Home Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+800D09BE 0000
+
+[Select Away Team Score\9]
+Type = Gameshark
+Activation = EndFrame
+800D09C0 0009
+
+[Select Away Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+800D09C0 0000
+
+[All Goals For Home Team]
+Type = Gameshark
+Activation = EndFrame
+90055298 24840000
+
+[All Goals For Away Team]
+Type = Gameshark
+Activation = EndFrame
+90055298 24840002
+
+[Character Creation\Max Skating]
+Type = Gameshark
+Activation = EndFrame
+8012F098 0063
+
+[Character Creation\Max Speed]
+Type = Gameshark
+Activation = EndFrame
+8012F144 0063
+
+[Character Creation\Max Shot Power]
+Type = Gameshark
+Activation = EndFrame
+8012F1F0 0063
+
+[Character Creation\Max Shooting Accuracy]
+Type = Gameshark
+Activation = EndFrame
+8012F29C 0063
+
+[Character Creation\Max Passing Ability]
+Type = Gameshark
+Activation = EndFrame
+8012F348 0063
+
+[Character Creation\Max Puck Handling]
+Type = Gameshark
+Activation = EndFrame
+8012F3F4 0063
+
+[Character Creation\Max Endurance]
+Type = Gameshark
+Activation = EndFrame
+8012F4A0 0063
+
+[Character Creation\Max Aggression]
+Type = Gameshark
+Activation = EndFrame
+8012F54C 0063
+
+[Character Creation\Max Checking]
+Type = Gameshark
+Activation = EndFrame
+8012F5F8 0063
+
+[Character Creation\Max Offensive Awareness]
+Type = Gameshark
+Activation = EndFrame
+8012F6A4 0063
+
+[Character Creation\Max Defensive Awareness]
+Type = Gameshark
+Activation = EndFrame
+8012F750 0063
+

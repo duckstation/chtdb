@@ -1,0 +1,82 @@
+; CHTDB: ; [ Disruptor (Europe) {SLES-00535} ]
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+80077988 01F4
+
+[Infinite Psionic]
+Type = Gameshark
+Activation = EndFrame
+80077990 0028
+
+[Infinite Ammo 18mm Guns]
+Type = Gameshark
+Activation = EndFrame
+80056D5C 0014
+
+[Infinite Ammo Phase Guns]
+Type = Gameshark
+Activation = EndFrame
+80056D60 0014
+
+[Infinite Hifreq Ammo Phase Guns]
+Type = Gameshark
+Activation = EndFrame
+800567D4 0014
+
+[Infinite Ammo Am Blaster Guns]
+Type = Gameshark
+Activation = EndFrame
+80056D70 0014
+
+[Infinite Ammo Lock On Gun]
+Type = Gameshark
+Activation = EndFrame
+80056D68 0014
+
+[Enable 18mm Automatic]
+Type = Gameshark
+Activation = EndFrame
+80077424 0001
+
+[Enable Phase Rifle]
+Type = Gameshark
+Activation = EndFrame
+8007742A 0001
+
+[Enable Phase Repeator]
+Type = Gameshark
+Activation = EndFrame
+8007742C 0001
+
+[Enable Lock On Gun]
+Type = Gameshark
+Activation = EndFrame
+80077430 0001
+
+[Enable Am Blaster]
+Type = Gameshark
+Activation = EndFrame
+80077434 0001
+
+[Enable Am Cyclone]
+Type = Gameshark
+Activation = EndFrame
+80077438 0001
+
+[Enable Zodiac]
+Type = Gameshark
+Activation = EndFrame
+8007743C 0001
+
+[Enable Plasma Lance]
+Type = Gameshark
+Activation = EndFrame
+80077440 0001
+
+[Rapid Fire]
+Type = Gameshark
+Activation = EndFrame
+800779A8 0000
+

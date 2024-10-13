@@ -1,0 +1,22 @@
+; CHTDB: ; [ Thrasher: Skate and Destroy (Australia) {SLES-02556} ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800C408E 3C00
+
+[Max Score]
+Type = Gameshark
+Activation = EndFrame
+800B25F4 FFFF
+
+[Tricks Worth Modifier]
+Type = Gameshark
+Activation = EndFrame
+900C8BD8 246303E7
+
+[Unlock All Levels]
+Type = Gameshark
+Activation = EndFrame
+800B264C 0B03
+

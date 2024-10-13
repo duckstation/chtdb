@@ -1,0 +1,57 @@
+; CHTDB: ; [ VR Sports Powerboat Racing (USA) (1998) (Interplay Productions) {SLUS-00625} <vrpboat> ]
+
+[Enable Catamaran]
+Type = Gameshark
+Activation = EndFrame
+9009DE10 01010101
+
+[Enable Hidden Boats]
+Type = Gameshark
+Activation = EndFrame
+8009DE28 0001
+
+[Enable Mines]
+Type = Gameshark
+Activation = EndFrame
+8009DE24 0001
+
+[Enable Slalom]
+Type = Gameshark
+Activation = EndFrame
+8009DE1C 0001
+
+[Start On Lap 5]
+Type = Gameshark
+Activation = EndFrame
+A60A30F8 00000005
+
+[Always Place First]
+Type = Gameshark
+Activation = EndFrame
+800A3106 0000
+
+[Enable Load Championship Mode]
+Type = Gameshark
+Activation = EndFrame
+8009DE20 0001
+
+[Enable Big Head Mode]
+Type = Gameshark
+Activation = EndFrame
+300BD310 0001
+
+[Enable Big Engine Mode]
+Type = Gameshark
+Activation = EndFrame
+300BD311 0001
+
+[Enable Faster Boats Mode]
+Type = Gameshark
+Activation = EndFrame
+800BD314 0101
+
+[Enable Tiny Boats Mode]
+Type = Gameshark
+Activation = EndFrame
+800BD312 0001
+

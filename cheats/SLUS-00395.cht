@@ -1,0 +1,42 @@
+; CHTDB: ; [ Fantastic Four (USA) (1997) (Acclaim Entertainment) {SLUS-00395} <fant4> ]
+
+[P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+300BA170 0003
+
+[P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+300BA171 0003
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+900E038C 00400040
+
+[P2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+900E058C 00400040
+
+[P3 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800E078E 0040
+
+[P4 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800E098E 0040
+
+[Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+800B9E98 0005
+
+[Level Skip (Press L1+L2+R1+R2 while in game to go to the Level Skip screen. Press X to skip a level or Triangle to go back a level)]
+Type = Gameshark
+Activation = EndFrame
+80091072 0001
+

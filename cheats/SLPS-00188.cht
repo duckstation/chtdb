@@ -1,0 +1,22 @@
+; CHTDB: ; [ NBA Power Dunkers (Japan) {SLPS-00188} ]
+
+[Select Home Team Score\100]
+Type = Gameshark
+Activation = EndFrame
+800DEA00 0064
+
+[Select Home Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+800DEA00 0000
+
+[Select Away Team Score\100]
+Type = Gameshark
+Activation = EndFrame
+800DEA94 0064
+
+[Select Away Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+800DEA94 0000
+

@@ -1,0 +1,12 @@
+; CHTDB: ; [ Bishi Bashi Special 2 (Jpn) (1999) (Konami) {SLPM-86267 (VX149-J1)} <bishi2> ]
+
+[P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80065300 0003
+
+[P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80065524 0003
+

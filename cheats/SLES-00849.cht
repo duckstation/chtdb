@@ -1,0 +1,34 @@
+; CHTDB: ; [ No Fear Downhill Mountain Biking (Euro) (1999) (The Codemasters Software Company) {SLES-00849, SLES-00849#} <nofeare> ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+D00D3C3A BFFF
+800D772C EBBF
+
+[Time 000 1ST]
+Type = Gameshark
+Activation = EndFrame
+800CC644 0000
+
+[Energy Bar Always Full]
+Type = Gameshark
+Activation = EndFrame
+800D772C EBBF
+
+[Have All Extra Bike Parts]
+Type = Gameshark
+Activation = EndFrame
+50000402 0000
+800D15AA 0303
+
+[Trick Mode 9999 Points]
+Type = Gameshark
+Activation = EndFrame
+800CC648 270F
+
+[Trick Trail Mode Freeze Time]
+Type = Gameshark
+Activation = EndFrame
+800CC644 6000
+

@@ -1,0 +1,38 @@
+; CHTDB: ; [ X-Men vs. Street Fighter (Europe) {SLES-01247} ]
+
+[Open Ex Menu In Main Menu (Press Select)]
+Type = Gameshark
+Activation = EndFrame
+D004414C 0100
+80042948 0107
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800433FC 0090
+
+[P1 Max Power Bar]
+Type = Gameshark
+Activation = EndFrame
+80043400 0203
+
+[P1 Play As Apocalypse]
+Type = Gameshark
+Activation = EndFrame
+8004322C 0010
+
+[P2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80043744 0090
+
+[P2 No Energy]
+Type = Gameshark
+Activation = EndFrame
+80043744 0000
+
+[P2 Play as Apocalypse]
+Type = Gameshark
+Activation = EndFrame
+80043574 0010
+

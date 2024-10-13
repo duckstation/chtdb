@@ -1,0 +1,734 @@
+; CHTDB: ; [ G-Police: Weapons of Justice (Germany) {SCES-01918} ]
+
+[Unendlich Schutzschild\Havoc, Venom, Rhino (Nach Beginn der Mission L1 & L2 & Links drücken um den Code zu aktivieren und vor Ende der Mission durch drücken von R1 & R2 & Rechts wieder deaktivieren)]
+Type = Gameshark
+Activation = EndFrame
+D0063186 FA7F
+80000002 6464
+D0063186 F5DF
+80000002 0000
+D0000002 6464
+801EF7B4 1D4D
+
+[Unendlich Schutzschild\Raptor-Codes (Nach Beginn der Mission L2 & R2 & Unten drücken um den Code zu aktivieren und vor Ende der Mission durch drücken von L2 & R2 & Kreuz wieder deaktivieren)]
+Type = Gameshark
+Activation = EndFrame
+D0063186 FCBF
+80000002 1212
+D0063186 BCFF
+80000002 0000
+D0000002 1212
+801EF670 36B1
+
+[Unendlich Schutzschild\Corsair-Codes (Nach Beginn der Mission L1 & R1 & Oben drücken um den Code zu aktivieren und vor Ende der Mission durch drücken von L1 & R1 & Dreieck wieder deaktivieren)]
+Type = Gameshark
+Activation = EndFrame
+D0063186 F3EF
+80000002 2323
+D0063186 E3FF
+80000002 0000
+D0000002 2323
+801E32A4 1D4D
+
+[Unendlich Munitionscodes\1 - Wieder Auf Patrouille\Soul Seeker]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 0000
+300C0AB0 000A
+
+[Unendlich Munitionscodes\1 - Wieder Auf Patrouille\Gsh45-80]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 0000
+300C0AA8 0063
+
+[Unendlich Munitionscodes\2 - Bandenkrieg\Soul Seeker]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 0001
+300C0AB0 000A
+
+[Unendlich Munitionscodes\2 - Bandenkrieg\Gsh45-80]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 0001
+300C0AA8 0063
+
+[Unendlich Munitionscodes\3 - Fernsteuerung\Soul Seeker]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 0002
+300C0AB0 000A
+
+[Unendlich Munitionscodes\3 - Fernsteuerung\Gsh45-80]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 0002
+300C0AA8 0063
+
+[Unendlich Munitionscodes\3 - Fernsteuerung\Epp Mk II]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 0002
+300C0AB8 0063
+
+[Unendlich Munitionscodes\3 - Fernsteuerung\Vanguard Mk II]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 0002
+300C0AB4 000F
+
+[Unendlich Munitionscodes\4 - Verzweifelte Massnahmen\Soul Seeker]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 0003
+300C0AB0 000A
+
+[Unendlich Munitionscodes\4 - Verzweifelte Massnahmen\Gsh45-80]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 0003
+300C0AA8 0063
+
+[Unendlich Munitionscodes\4 - Verzweifelte Massnahmen\Vanguard Mk II]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 0003
+300C0AB4 000F
+
+[Unendlich Munitionscodes\5 - Operationen Des Syndikats\Soul Seeker]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 0004
+300C0AB0 000A
+
+[Unendlich Munitionscodes\5 - Operationen Des Syndikats\Gsh45-80]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 0004
+300C0AA8 0063
+
+[Unendlich Munitionscodes\5 - Operationen Des Syndikats\Vanguard Mk II]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 0004
+300C0AB4 000F
+
+[Unendlich Munitionscodes\5 - Operationen Des Syndikats\Vindicator-Raketen]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 0004
+300C0AC8 0005
+
+[Unendlich Munitionscodes\6 - Lebende Fracht\Bw26M-80Gw]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 0005
+300C0ABC 0063
+
+[Unendlich Munitionscodes\6 - Lebende Fracht\Siren]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 0005
+300C0AD0 0005
+
+[Unendlich Munitionscodes\6 - Lebende Fracht\Soul Seeker]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 0005
+300C0AB0 000A
+
+[Unendlich Munitionscodes\7 - Der Rhino\Aag-53E]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 0006
+300C0AAC 0063
+
+[Gemini]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 0006
+300C0AC4 000A
+
+[Vanguard Mk II]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 0006
+300C0AB4 000F
+
+[Ouc20]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 0006
+3011BCB8 0063
+
+[Mbl02]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 0006
+3011BCC0 0032
+
+[Unendlich Munitionscodes\8 - Geiselnahme\Bw26M-80Gw]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 0007
+300C0ABC 0063
+
+[Unendlich Munitionscodes\8 - Geiselnahme\Siren]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 0007
+300C0AD0 0005
+
+[Unendlich Munitionscodes\8 - Geiselnahme\Vanguard Mk II]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 0007
+300C0AB4 000F
+
+[Unendlich Munitionscodes\9 - Geheime Operation\Cn101-120Gw]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 0008
+300C0AC0 0063
+
+[Unendlich Munitionscodes\9 - Geheime Operation\Vanguard Mk II]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 0008
+300C0AB4 000F
+
+[Unendlich Munitionscodes\9 - Geheime Operation\Soul Seeker]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 0008
+300C0AB0 000A
+
+[Unendlich Munitionscodes\9 - Geheime Operation\Bbq Mk III]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 0008
+300C0AD4 0023
+
+[Unendlich Munitionscodes\9 - Geheime Operation\Cb05]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 0008
+300C0AD8 0032
+
+[Unendlich Munitionscodes\9 - Geheime Operation\Bw26M-80Gw]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 0009
+300C0ABC 0063
+
+[Unendlich Munitionscodes\10 - Ruhe Vor Dem Sturm\Starburst]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 0009
+300C0ACC 000A
+
+[Unendlich Munitionscodes\10 - Ruhe Vor Dem Sturm\Soul Seeker]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 0009
+300C0AB0 000A
+
+[Unendlich Munitionscodes\10 - Ruhe Vor Dem Sturm\Vanguard Mk II]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 0009
+300C0AB4 000F
+
+[Unendlich Munitionscodes\11 - Notruf\Bw26M-80Gw]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 000A
+300C0ABC 0063
+
+[Unendlich Munitionscodes\11 - Notruf\Siren]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 000A
+300C0AD0 0005
+
+[Unendlich Munitionscodes\11 - Notruf\Soul Seeker]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 000A
+300C0AB0 000A
+
+[Unendlich Munitionscodes\12 - Nachhut\Bw26M-80Gw]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 000B
+300C0ABC 0063
+
+[Unendlich Munitionscodes\12 - Nachhut\Bbq Mk III]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 000B
+300C0AD4 0023
+
+[Unendlich Munitionscodes\12 - Nachhut\Siren]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 000B
+300C0AD0 0005
+
+[Unendlich Munitionscodes\12 - Nachhut\Vindicator-Raketen]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 000B
+300C0AC8 0005
+
+[Unendlich Munitionscodes\12 - Nachhut\Soul Seeker]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 000B
+300C0AB0 000A
+
+[Unendlich Munitionscodes\12 - Nachhut\Starburst]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 000B
+300C0ACC 000A
+
+[Unendlich Munitionscodes\13 - Dasa Kamon\Bw26M-80Gw]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 000C
+300C0ABC 0063
+
+[Unendlich Munitionscodes\13 - Dasa Kamon\Siren]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 000C
+300C0AD0 0005
+
+[Unendlich Munitionscodes\13 - Dasa Kamon\Vindicator-Raketen]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 000C
+300C0AC8 0005
+
+[Unendlich Munitionscodes\13 - Dasa Kamon\Soul Seeker]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 000C
+300C0AB0 000A
+
+[Unendlich Munitionscodes\13 - Dasa Kamon\Starburst]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 000C
+300C0ACC 000A
+
+[Unendlich Munitionscodes\14 - TestgeläNde\Rc35-Er]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 000D
+30129E50 0063
+
+[Unendlich Munitionscodes\15 - Letzte Bastion\Rc35-Er]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 000E
+30129E50 0063
+
+[Unendlich Munitionscodes\15 - Letzte Bastion\Harbinger]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 000E
+30129E5C 0014
+
+[Unendlich Munitionscodes\15 - Letzte Bastion\Bbq Mk III]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 000E
+30129E58 000A
+
+[Unendlich Munitionscodes\16 - ÜBerfalltaktik\Rc35-Er]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 000F
+30129E50 0063
+
+[Unendlich Munitionscodes\16 - ÜBerfalltaktik\Hkr]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 000F
+30129E60 0009
+
+[Unendlich Munitionscodes\16 - ÜBerfalltaktik\Bbq Mk III]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 000F
+30129E58 000A
+
+[Unendlich Munitionscodes\17 - Der ÜBerläUfer\Bw26M-80Gw]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 0010
+300C0ABC 0063
+
+[Unendlich Munitionscodes\17 - Der ÜBerläUfer\Siren]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 0010
+300C0AD0 0005
+
+[Unendlich Munitionscodes\17 - Der ÜBerläUfer\Starburst]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 0010
+300C0ACC 000A
+
+[Unendlich Munitionscodes\17 - Der ÜBerläUfer\Bbq Mk III]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 0010
+300C0AD4 0023
+
+[Unendlich Munitionscodes\18 - Der Erste Angriff\Bw26M-80Gw]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 0011
+300C0ABC 0063
+
+[Unendlich Munitionscodes\18 - Der Erste Angriff\Siren]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 0011
+300C0AD0 0005
+
+[Unendlich Munitionscodes\18 - Der Erste Angriff\Starburst]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 0011
+300C0ACC 000A
+
+[Unendlich Munitionscodes\18 - Der Erste Angriff\Soul Seeker]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 0011
+300C0AB0 000A
+
+[Unendlich Munitionscodes\19 - Abwehrsysteme Des Planeten\Bw26M-80Gw]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 0012
+300C0ABC 0063
+
+[Unendlich Munitionscodes\19 - Abwehrsysteme Des Planeten\Siren]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 0012
+300C0AD0 0005
+
+[Unendlich Munitionscodes\19 - Abwehrsysteme Des Planeten\Starburst]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 0012
+300C0ACC 000A
+
+[Unendlich Munitionscodes\19 - Abwehrsysteme Des Planeten\Soul Seeker]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 0012
+300C0AB0 000A
+
+[Unendlich Munitionscodes\19 - Abwehrsysteme Des Planeten\Vanguard Mk II]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 0012
+300C0AB4 000F
+
+[Unendlich Munitionscodes\20 - Nachschubversorgung\Rc35-Er]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 0013
+30129E50 0063
+
+[Unendlich Munitionscodes\20 - Nachschubversorgung\Hkr]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 0013
+30129E60 0009
+
+[Unendlich Munitionscodes\20 - Nachschubversorgung\Banshee]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 0013
+30129E54 0023
+
+[Unendlich Munitionscodes\20 - Nachschubversorgung\Harbinger]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 0013
+30129E5C 0014
+
+[Unendlich Munitionscodes\20 - Nachschubversorgung\Bbq Mk III]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 0013
+30129E58 000A
+
+[Unendlich Munitionscodes\21 - Sendeanlage Der Kolonie\Oul60]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 0014
+3011BCBC 0063
+
+[Unendlich Munitionscodes\21 - Sendeanlage Der Kolonie\Aag-53E]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 0014
+300C0AAC 0063
+
+[Unendlich Munitionscodes\21 - Sendeanlage Der Kolonie\Vanguard Mk II]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 0014
+300C0AB4 000F
+
+[Unendlich Munitionscodes\21 - Sendeanlage Der Kolonie\Siren]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 0014
+300C0AD0 0005
+
+[Unendlich Munitionscodes\22 - Ein Kritischer Punkt\Rc35-Er]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 0015
+30129E50 0063
+
+[Unendlich Munitionscodes\22 - Ein Kritischer Punkt\Hkr]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 0015
+30129E60 0009
+
+[Unendlich Munitionscodes\22 - Ein Kritischer Punkt\Banshee]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 0015
+30129E54 0023
+
+[Unendlich Munitionscodes\23 - ZurüCk Im Hauptquartier\Rc35-Er]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 0016
+30129E50 0063
+
+[Unendlich Munitionscodes\23 - ZurüCk Im Hauptquartier\Hkr]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 0016
+30129E60 0009
+
+[Unendlich Munitionscodes\23 - ZurüCk Im Hauptquartier\Banshee]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 0016
+30129E54 0023
+
+[Unendlich Munitionscodes\23 - ZurüCk Im Hauptquartier\Harbinger]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 0016
+30129E5C 0014
+
+[Unendlich Munitionscodes\23 - ZurüCk Im Hauptquartier\Bbq Mk III]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 0016
+30129E58 000A
+
+[Unendlich Munitionscodes\24 - Fluchtversuch\Rc35-Er]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 0017
+30129E50 0063
+
+[Unendlich Munitionscodes\24 - Fluchtversuch\Banshee]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 0017
+30129E54 0023
+
+[Unendlich Munitionscodes\24 - Fluchtversuch\Epp Mk II]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 0017
+30129E68 0063
+
+[Unendlich Munitionscodes\24 - Fluchtversuch\Harbinger]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 0017
+30129E5C 0014
+
+[Unendlich Munitionscodes\25 - Der Weltraum\Hellfire Mk II]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 0018
+300F0558 0064
+
+[Unendlich Munitionscodes\25 - Der Weltraum\Helix]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 0018
+300F055C 001E
+
+[Unendlich Munitionscodes\25 - Der Weltraum\Super Starburst Mk II]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 0018
+300F0560 001E
+
+[Unendlich Munitionscodes\25 - Der Weltraum\Efu-19]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 0018
+300F0568 001E
+
+[Unendlich Munitionscodes\25 - Der Weltraum\Epp Mk II]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 0018
+300F056C 000A
+
+[Unendlich Munitionscodes\26 - Die Barrosa\Hellfire Mk II]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 0019
+300F0558 0064
+
+[Unendlich Munitionscodes\26 - Die Barrosa\Helix]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 0019
+300F055C 001E
+
+[Unendlich Munitionscodes\26 - Die Barrosa\Super Starburst Mk II]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 0019
+300F0560 001E
+
+[Unendlich Munitionscodes\26 - Die Barrosa\Efu-19]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 0019
+300F0568 001E
+
+[Unendlich Munitionscodes\27 - Asteroide\Hellfire Mk II]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 001A
+300F0558 0064
+
+[Unendlich Munitionscodes\27 - Asteroide\Helix]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 001A
+300F055C 001E
+
+[Unendlich Munitionscodes\27 - Asteroide\Super Starburst Mk II]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 001A
+300F0560 001E
+
+[Unendlich Munitionscodes\27 - Asteroide\Efu-19]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 001A
+300F0568 001E
+
+[Unendlich Munitionscodes\27 - Asteroide\Clearwater Mk IV]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 001A
+300F0564 000F
+
+[Unendlich Munitionscodes\28 - Minenplattform\Hellfire Mk II]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 001B
+300F0558 0064
+
+[Unendlich Munitionscodes\28 - Minenplattform\Helix]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 001B
+300F055C 001E
+
+[Unendlich Munitionscodes\28 - Minenplattform\Super Starburst Mk II]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 001B
+300F0560 001E
+
+[Unendlich Munitionscodes\28 - Minenplattform\Efu-19]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 001B
+300F0568 001E
+
+[Unendlich Munitionscodes\29 - Schliessung\Hellfire Mk II]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 001C
+300F0558 0064
+
+[Unendlich Munitionscodes\29 - Schliessung\Super Starburst Mk II]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 001C
+300F0560 001E
+
+[Unendlich Munitionscodes\29 - Schliessung\Helix]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 001C
+300F055C 001E
+
+[Unendlich Munitionscodes\30 - Der Letzte Angriff\Hellfire Mk II]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 001D
+300F0558 0064
+
+[Unendlich Munitionscodes\30 - Der Letzte Angriff\Clearwater Mk IV]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 001D
+300F0564 000F
+
+[Unendlich Munitionscodes\30 - Der Letzte Angriff\Helix]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 001D
+300F055C 001E
+
+[Unendlich Munitionscodes\30 - Der Letzte Angriff\Super Starburst Mk II]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 001D
+300F0560 001E
+
+[Unendlich Munitionscodes\30 - Der Letzte Angriff\Efu-19]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 001D
+300F0568 001E
+
+[Unendlich Munitionscodes\30 - Der Letzte Angriff\Epp Mk II]
+Type = Gameshark
+Activation = EndFrame
+D0057D50 001D
+300F056C 000A
+

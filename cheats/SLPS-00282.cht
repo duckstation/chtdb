@@ -1,0 +1,35 @@
+; CHTDB: ; [ MeltyLancer: Ginga Shoujo Keisatsu 2086 (Japan) {SLPS-00282} ]
+
+[Infinite HP Sylvie]
+Type = Gameshark
+Activation = EndFrame
+801D06C0 03E7
+801D06C4 03E7
+
+[Infinite HP Angela]
+Type = Gameshark
+Activation = EndFrame
+801D0820 03E7
+801D0824 03E7
+
+[Infinite HP Sakuya]
+Type = Gameshark
+Activation = EndFrame
+801D0980 03E7
+801D0984 03E7
+
+[Score evaluation 9999]
+Type = Gameshark
+Activation = EndFrame
+80086280 270F
+
+[Ren physical number of times Minimum (emergency appointment raw condition)]
+Type = Gameshark
+Activation = EndFrame
+300862BC 0000
+
+[Ren physical number of times Maximum (emergency appointment raw condition)]
+Type = Gameshark
+Activation = EndFrame
+300862BC 0064
+

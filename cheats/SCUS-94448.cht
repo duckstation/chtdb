@@ -1,0 +1,29 @@
+; CHTDB: ; [ Um Jammer Lammy (USA) (1999) (Sony Computer Entertainment America) {SCUS-94448} <jamlammy> ]
+
+[Enable All Stages]
+Type = Gameshark
+Activation = EndFrame
+301A58F9 0001
+801A58FA 3F3F
+901A58FC 3F3F3F3F
+
+[P1 Max Score (1 Player Mode)]
+Type = Gameshark
+Activation = EndFrame
+80078D12 270F
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A71C4B28 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A71C4B28 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A71C4B28 10000400
+

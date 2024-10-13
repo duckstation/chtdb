@@ -1,0 +1,12 @@
+; CHTDB: ; [ Vehicle Cavalier (Jpn) (1996) (Vanguard Works) {SLPS-00232} <vcavalr> ]
+
+[Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+80011EC8 EA60
+
+[Infinite Energy On Battle]
+Type = Gameshark
+Activation = EndFrame
+8018F33A 0190
+

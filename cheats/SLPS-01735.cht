@@ -1,0 +1,12 @@
+; CHTDB: ; [ Civilization II (Japan) {SLPS-01735} ]
+
+[Japan's largest national budget]
+Type = Gameshark
+Activation = EndFrame
+8011A0F4 7530
+
+[Dramatic advances in science and technology in Japan]
+Type = Gameshark
+Activation = EndFrame
+8011A0FA 4FFF
+

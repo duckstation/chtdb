@@ -1,0 +1,22 @@
+; CHTDB: ; [ Goal Storm (Europe) {SLES-00069} ]
+
+[Team 1 is Pointing]
+Type = Gameshark
+Activation = EndFrame
+30161730 0009
+
+[Team 2 is Pointing]
+Type = Gameshark
+Activation = EndFrame
+30161731 0000
+
+[Team 1 Has 9 Goals]
+Type = Gameshark
+Activation = EndFrame
+80160EB4 0009
+
+[Team 2 Gets No Points]
+Type = Gameshark
+Activation = EndFrame
+30160EB5 0000
+

@@ -1,0 +1,103 @@
+; CHTDB: ; [ Triple Play 2000 (USA) (1999) (Electronic Arts) {SLUS-00827} <tplay2k> ]
+
+[Select Away Team Score\9]
+Type = Gameshark
+Activation = EndFrame
+30058111 0009
+
+[Select Away Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+30058111 0000
+
+[Select Home Team Score\9]
+Type = Gameshark
+Activation = EndFrame
+3005810D 0009
+
+[Select Home Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+3005810D 0000
+
+[Always Hits A Homerun .With this code, press select before you hit the ball. Do this everytime a batter comes up to the plate that you want to hit a home run. If you hit 'select' while computer is batting then they will also hit a homerun]
+Type = Gameshark
+Activation = EndFrame
+D0058262 0100
+80058234 0003
+
+[Infinite Strikes]
+Type = Gameshark
+Activation = EndFrame
+300583E1 0000
+
+[1 Strike And You Are Out]
+Type = Gameshark
+Activation = EndFrame
+D00583E0 0000
+300583E1 0002
+
+[2 Strikes And You Are Out]
+Type = Gameshark
+Activation = EndFrame
+D00583E0 0000
+300583E1 0001
+
+[Infinite Balls]
+Type = Gameshark
+Activation = EndFrame
+300583E2 0000
+
+[1 Ball And You Walk]
+Type = Gameshark
+Activation = EndFrame
+D00583E2 0000
+300583E2 0003
+
+[2 Balls And You Walk]
+Type = Gameshark
+Activation = EndFrame
+D00583E2 0000
+300583E2 0002
+
+[3 Balls And You Walk]
+Type = Gameshark
+Activation = EndFrame
+D00583E2 0000
+300583E2 0001
+
+[Infinite Outs]
+Type = Gameshark
+Activation = EndFrame
+300583E3 0000
+
+[1 Out And You Are Out]
+Type = Gameshark
+Activation = EndFrame
+D00583E2 0000
+300583E3 0002
+
+[2 Outs And You Are Out]
+Type = Gameshark
+Activation = EndFrame
+D00583E2 0000
+300583E3 0002
+
+[0 Outs, 0 Strikes + 3 Balls .Press L1 + L2]
+Type = Gameshark
+Activation = EndFrame
+C0052F7E 1200
+300583E3 0000
+300583E1 0000
+300583E2 0003
+00000000 FFFF
+
+[2 Outs, 2 Strikes + 0 Balls .Press R1 + R2]
+Type = Gameshark
+Activation = EndFrame
+C0052F7E 2400
+300583E3 0002
+300583E1 0002
+300583E2 0000
+00000000 FFFF
+

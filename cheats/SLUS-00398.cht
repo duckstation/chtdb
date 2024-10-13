@@ -1,0 +1,73 @@
+; CHTDB: ; [ Namco Museum Vol. 3 (USA) (1996) (Namco Hometek) {SLUS-00398} <namcoms3> ]
+
+[Dig Dug\P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80125418 0009
+
+[Galaxian\Infinite Lives (Both Players)]
+Type = Gameshark
+Activation = EndFrame
+8010EC04 0005
+
+[Ms. Pacman\P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80135960 0004
+
+[Ms. Pacman\P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80135964 0004
+
+[Pozon\P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+30168D4C 0005
+
+[Pozon\P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+30168D4D 0005
+
+[Pole Position 2\Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+8013551E 7000
+
+[Pole Position 2\Lap Time Always Below 0.01]
+Type = Gameshark
+Activation = EndFrame
+90135530 00000000
+9013552C 00000000
+
+[Tower of Druaga\P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8016664A 0004
+
+[Tower of Druaga\P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80166696 0004
+
+[Tower of Druaga\Infinite Time (Both Players)]
+Type = Gameshark
+Activation = EndFrame
+8015F464 4E20
+
+[Tower of Druaga\Infinite Keys (Both Players)]
+Type = Gameshark
+Activation = EndFrame
+8015F530 0001
+
+[Tower of Druaga\Enable Level Select]
+Type = Gameshark
+Activation = EndFrame
+3016664B 003B
+
+[Tower of Druaga\Enable Secret Message In Druaga Room]
+Type = Gameshark
+Activation = EndFrame
+800FFA14 0003
+

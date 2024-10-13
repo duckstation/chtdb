@@ -1,0 +1,160 @@
+; CHTDB: ; [ Hogs of War (USA) (2000) (Infogrames) {SLUS-01195} <hogsowar> ]
+
+[Infinite Promotion Points]
+Type = Gameshark
+Activation = EndFrame
+8002B1F6 00FF
+
+[Mission Modifier (00-19)]
+Type = Gameshark
+Activation = EndFrame
+3002B1F9 0019
+
+[Use right analog to control camera]
+Type = Gameshark
+Activation = EndFrame
+A70D16BA 24001040
+00000000 0000FFFF
+D7000000 00010000
+A70D16BA 10402400
+00000000 0000FFFF
+D7000000 00020000
+A70D16BA 10402400
+00000000 0000FFFF
+D7000000 00040000
+A70D16BA 10402400
+00000000 0000FFFF
+D7000000 00080000
+A70D16BA 10402400
+00000000 0000FFFF
+A7047082 24001040
+D7200000 00080000
+A7047082 10402400
+00000000 0000FFFF
+A704709A 24001040
+D7200000 00020000
+A704709A 10402400
+00000000 0000FFFF
+A70D5F02 24001040
+D7200000 00010000
+A70D5F02 10402400
+00000000 0000FFFF
+A70D5F1A 24001040
+D7200000 00040000
+A70D5F1A 10402400
+
+[Use right analog to control camera (up/down inverted)]
+Type = Gameshark
+Activation = EndFrame
+A70D16BA 24001040
+00000000 0000FFFF
+D7000000 00010000
+A70D16BA 10402400
+00000000 0000FFFF
+D7000000 00020000
+A70D16BA 10402400
+00000000 0000FFFF
+D7000000 00040000
+A70D16BA 10402400
+00000000 0000FFFF
+D7000000 00080000
+A70D16BA 10402400
+00000000 0000FFFF
+A7047082 24001040
+D7200000 00080000
+A7047082 10402400
+00000000 0000FFFF
+A704709A 24001040
+D7200000 00020000
+A704709A 10402400
+00000000 0000FFFF
+A70D5F02 24001040
+D7200000 00040000
+A70D5F02 10402400
+00000000 0000FFFF
+A70D5F1A 24001040
+D7200000 00010000
+A70D5F1A 10402400
+
+[60 FPS unlock (Needs overclock)]
+Type = Gameshark
+Activation = EndFrame
+A7085522 14402400
+
+[30 FPS unlock]
+Type = Gameshark
+Activation = EndFrame
+A7013AFE 14432400
+
+[Far Jumps]
+Type = Gameshark
+Activation = EndFrame
+A70A8526 14432400
+
+[Walk up hills]
+Type = Gameshark
+Activation = EndFrame
+A70A50EA 10401000
+A70A57CA 10401000
+A70A57DA 14401000
+A70A57FA 14401000
+
+[Walk through walls]
+Type = Gameshark
+Activation = EndFrame
+A70A576A 146C2400
+A70A57EA 10401000
+
+[Walk on water]
+Type = Gameshark
+Activation = EndFrame
+A70A521A 14511000
+A70A9AEE 14831000
+
+[Hide player/enemy info]
+Type = Gameshark
+Activation = EndFrame
+A7063BF6 18401000
+
+[Turn info red]
+Type = Gameshark
+Activation = EndFrame
+A7043FAA 10402400
+
+[Hide health info]
+Type = Gameshark
+Activation = EndFrame
+A7012666 14402400
+
+[2D sprites]
+Type = Gameshark
+Activation = EndFrame
+A704A446 14402400
+
+[Walk with snipe view]
+Type = Gameshark
+Activation = EndFrame
+A70639F2 10402400
+
+[Perfect snipe (Keeps vision steady)]
+Type = Gameshark
+Activation = EndFrame
+A70D5AA2 14A21000
+
+[Disable snipe crosshair]
+Type = Gameshark
+Activation = EndFrame
+A70D16BA 10401000
+
+[Everyone has infinite health]
+Type = Gameshark
+Activation = EndFrame
+A70A194E 12401000
+
+[Hold L1+R1 when shooting enemy to make them travel as far as you want]
+Type = Gameshark
+Activation = EndFrame
+A70E274A 10001040
+D7200000 0000000C
+A70E274A 10401000
+

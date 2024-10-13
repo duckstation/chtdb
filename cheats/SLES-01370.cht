@@ -1,0 +1,323 @@
+; CHTDB: ; [ Metal Gear Solid (Euro) (1999) (Konami) {SLES-01370} <mgse> ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800B5E06 0600
+
+[Infinite Oxygen]
+Type = Gameshark
+Activation = EndFrame
+800ACA8C 0400
+
+[Infinite Medicine]
+Type = Gameshark
+Activation = EndFrame
+800B5E56 0002
+
+[Infinite Rations]
+Type = Gameshark
+Activation = EndFrame
+800B5E54 0002
+
+[Infinite Diazepam]
+Type = Gameshark
+Activation = EndFrame
+800B5E58 0001
+
+[Socom Pistol + Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+800B5E12 00FF
+
+[Famas Rifle + Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+800B5E14 00FF
+
+[Psg1 Rifle + Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+800B5E24 00FF
+
+[Nikita + Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+800B5E18 00FF
+
+[Stinger + Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+800B5E1A 00FF
+
+[Infinite Stun Grenades]
+Type = Gameshark
+Activation = EndFrame
+800B5E20 00FF
+
+[Infinite Chaff Grenades]
+Type = Gameshark
+Activation = EndFrame
+800B5E22 00FF
+
+[Infinite Grenades]
+Type = Gameshark
+Activation = EndFrame
+800B5E16 00FF
+
+[Infinite Claymores]
+Type = Gameshark
+Activation = EndFrame
+800B5E1C 00FF
+
+[Infinite C4 Explosive]
+Type = Gameshark
+Activation = EndFrame
+800B5E1E 00FF
+
+[Cardboard Box A - Heliport]
+Type = Gameshark
+Activation = EndFrame
+800B5E3E 0001
+
+[Cardboard Box B - Nuke Store]
+Type = Gameshark
+Activation = EndFrame
+800B5E40 0001
+
+[Cardboard Box c - Snow Field]
+Type = Gameshark
+Activation = EndFrame
+800B5E42 0001
+
+[Night-Vision Goggles]
+Type = Gameshark
+Activation = EndFrame
+800B5E44 0001
+
+[Thermal Goggles]
+Type = Gameshark
+Activation = EndFrame
+800B5E46 0001
+
+[Gasmask]
+Type = Gameshark
+Activation = EndFrame
+800B5E48 0001
+
+[Body Armour]
+Type = Gameshark
+Activation = EndFrame
+800B5E4A 0001
+
+[Ketchup]
+Type = Gameshark
+Activation = EndFrame
+800B5E4C 0001
+
+[Stealth]
+Type = Gameshark
+Activation = EndFrame
+800B5E4E 0001
+
+[Bandanna]
+Type = Gameshark
+Activation = EndFrame
+800B5E50 0001
+
+[Camera]
+Type = Gameshark
+Activation = EndFrame
+800B5E52 0001
+
+[Pal Keys]
+Type = Gameshark
+Activation = EndFrame
+800B5E5A 0001
+
+[Mine Detector]
+Type = Gameshark
+Activation = EndFrame
+800B5E60 0001
+
+[Mo Disk]
+Type = Gameshark
+Activation = EndFrame
+800B5E62 0001
+
+[Rope]
+Type = Gameshark
+Activation = EndFrame
+800B5E64 0001
+
+[Handkerchief]
+Type = Gameshark
+Activation = EndFrame
+800B5E66 0001
+
+[Have Level 100 Key Card]
+Type = Gameshark
+Activation = EndFrame
+800B5E5C 0064
+
+[All Modes In Vr-Training]
+Type = Gameshark
+Activation = EndFrame
+300B500B 0020
+
+[Max Ammo Socom]
+Type = Gameshark
+Activation = EndFrame
+800B5E26 0063
+
+[Max Ammo Fa-Mas]
+Type = Gameshark
+Activation = EndFrame
+800B5E28 0063
+
+[Max Ammo Grenades]
+Type = Gameshark
+Activation = EndFrame
+800B5E2A 0063
+
+[Max Ammo Nikita]
+Type = Gameshark
+Activation = EndFrame
+800B5E2C 0063
+
+[Max Ammo Stinger]
+Type = Gameshark
+Activation = EndFrame
+800B5E2E 0063
+
+[Max Ammo Claymore]
+Type = Gameshark
+Activation = EndFrame
+800B5E30 0063
+
+[Max Ammo C4]
+Type = Gameshark
+Activation = EndFrame
+800B5E32 0063
+
+[Max Ammo Stun Grenade]
+Type = Gameshark
+Activation = EndFrame
+800B5E34 0063
+
+[Max Ammo Chaff Grenades]
+Type = Gameshark
+Activation = EndFrame
+800B5E36 0063
+
+[Max Ammo Psg1 Sniper Rifle]
+Type = Gameshark
+Activation = EndFrame
+800B5E38 0063
+
+[Have Cigs]
+Type = Gameshark
+Activation = EndFrame
+800B5E3A 0001
+
+[Have Scope]
+Type = Gameshark
+Activation = EndFrame
+800B5E3C 0001
+
+[Have Time Bomb]
+Type = Gameshark
+Activation = EndFrame
+800B5E5E 0001
+
+[Never Have Time Bomb]
+Type = Gameshark
+Activation = EndFrame
+800B5E5E 0000
+
+[Have Supressor]
+Type = Gameshark
+Activation = EndFrame
+800B5E68 0001
+
+[Have Supressor Active]
+Type = Gameshark
+Activation = EndFrame
+800B5E68 0000
+
+[Have All Weapons]
+Type = Gameshark
+Activation = EndFrame
+50000A02 0000
+800B5E12 0063
+
+[Have All Items]
+Type = Gameshark
+Activation = EndFrame
+50001902 0000
+800B5E3A 0001
+
+[Start With Extended Life Bar]
+Type = Gameshark
+Activation = EndFrame
+800B5E08 0600
+
+[Max Life]
+Type = Gameshark
+Activation = EndFrame
+800B76FE 05EA
+
+[Radar Not Jammed When Spotted]
+Type = Gameshark
+Activation = EndFrame
+800ACA58 0000
+
+[Quick Vr Training This code gives you the end triangular thing that you need to touch to pass the level]
+Type = Gameshark
+Activation = EndFrame
+800E2188 0000
+
+[Ocelot Has 0 Bullets]
+Type = Gameshark
+Activation = EndFrame
+80167CD8 0000
+80167B98 0000
+
+[Invincibility (Must Get Hit First)]
+Type = Gameshark
+Activation = EndFrame
+800ACAAA 0010
+
+[Automatic Socom]
+Type = Gameshark
+Activation = EndFrame
+800B161C FFFF
+
+[Easy Fight With Liquid]
+Type = Gameshark
+Activation = EndFrame
+8017997C 0001
+
+[Play In 1st Person Perspective just press Triangle]
+Type = Gameshark
+Activation = EndFrame
+800AC4AC 0020
+
+[Ghost Mode]
+Type = Gameshark
+Activation = EndFrame
+900ACA68 00000000
+
+[Ghost mode "L3 on/R3 off"]
+Type = Gameshark
+Activation = EndFrame
+D7000000 00000200
+8000C000 00001000
+00000000 0000FFFF
+D7000000 00000400
+8000C000 00000000
+00000000 0000FFFF
+C000C000 00001000
+800ACA68 00000000
+800ACA6A 00000000
+

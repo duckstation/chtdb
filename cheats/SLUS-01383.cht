@@ -1,0 +1,30 @@
+; CHTDB: ; [ JumpStart Wildlife Safari - Field Trip (USA) (2001) (Knowledge Adventure) {SLUS-01383} <wlsafari> ]
+
+[Have All Keys]
+Type = Gameshark
+Activation = EndFrame
+800ADB48 0101
+300ADB4B 0001
+300ADB4C 0001
+800ADB4E 0101
+300ADB51 0001
+300ADB52 0001
+800ADB54 0101
+
+[Have All Stars]
+Type = Gameshark
+Activation = EndFrame
+5000FF01 0000
+300ADB57 0001
+5000FF01 0000
+300ADC56 0001
+
+[Unlock Casey]
+Type = Gameshark
+Activation = EndFrame
+300ADB4A 0001
+300ADB4D 0001
+300ADB50 0001
+300ADB53 0001
+300ADB56 0001
+

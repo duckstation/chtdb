@@ -1,0 +1,22 @@
+; CHTDB: ; [ Syndicate Wars (Europe) {SLES-00213} ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+900E364C 05F5E100
+
+[Infinite Health All Persons]
+Type = Gameshark
+Activation = EndFrame
+9005CA80 1C400002
+
+[Infinite Fire Power (Uzi 9mm. Machine Gun)]
+Type = Gameshark
+Activation = EndFrame
+80071660 0004
+
+[Infinite Fire Power (Mini Gun)]
+Type = Gameshark
+Activation = EndFrame
+80071730 0004
+

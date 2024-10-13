@@ -1,0 +1,58 @@
+; CHTDB: ; [ Monster Farm (Japan) {SLPS-00910} ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+800E8AC4 FFFF
+
+[All Max Status]
+Type = Gameshark
+Activation = EndFrame
+800E7D82 03E7
+800E7D86 03E7
+900E7D88 03E703E7
+900E7D8C 03E703E7
+800E7D90 03E7
+
+[Max Loyality]
+Type = Gameshark
+Activation = EndFrame
+800EC156 6463
+
+[All Spacial Attack]
+Type = Gameshark
+Activation = EndFrame
+800B8618 0FFF
+
+[Always 00 Year's Old]
+Type = Gameshark
+Activation = EndFrame
+800B8634 0000
+800B8600 0001
+
+[Won four major tournaments]
+Type = Gameshark
+Activation = EndFrame
+300E0D6C 0001
+300E0D6C 0002
+300E0D6C 0004
+300E0D6C 0008
+
+[Won four major tournaments alt]
+Type = Gameshark
+Activation = EndFrame
+300B8614 0001
+300B8614 0002
+300B8614 0004
+300B8614 0008
+
+[Combat life max]
+Type = Gameshark
+Activation = EndFrame
+800DDCF2 03E7
+
+[Life in combat enemy 0]
+Type = Gameshark
+Activation = EndFrame
+800DDD16 0000
+

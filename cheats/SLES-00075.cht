@@ -1,0 +1,18 @@
+; CHTDB: ; [ Blood Omen: Legacy of Kain (Europe) {SLES-00075} ]
+
+[Infinite Blood]
+Type = Gameshark
+Activation = EndFrame
+901CAB44 01900190
+
+[Infinite Magic]
+Type = Gameshark
+Activation = EndFrame
+801CAB4A 0190
+801CAB4C 0190
+
+[Infinite Item Usage]
+Type = Gameshark
+Activation = EndFrame
+8004316E 3C00
+

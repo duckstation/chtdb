@@ -1,0 +1,37 @@
+; CHTDB: ; [ Vandal Hearts (Europe) {SLES-00204} ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+80141E24 FFFF
+
+[Ash Lambert Infinite & Max HP]
+Type = Gameshark
+Activation = EndFrame
+90180984 03E703E7
+
+[Ash Lambert Infinite & Max MP]
+Type = Gameshark
+Activation = EndFrame
+90180990 00630063
+
+[Diego Archer Infinite % Max HP]
+Type = Gameshark
+Activation = EndFrame
+901809FC 03E703E7
+
+[Diego Archer Infinite & Max MP]
+Type = Gameshark
+Activation = EndFrame
+90180A08 00630063
+
+[Clint Picard Infinite & Max HP]
+Type = Gameshark
+Activation = EndFrame
+90180A74 03E703E7
+
+[Clint Picard Infinite & Max MP]
+Type = Gameshark
+Activation = EndFrame
+90180A80 00630063
+

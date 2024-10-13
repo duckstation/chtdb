@@ -1,0 +1,8 @@
+; CHTDB: ; [ Card Captor Sakura: Clowcard Magic (Japan) {SLPS-02561} ]
+
+[Bonus Gallery]
+Type = Gameshark
+Activation = EndFrame
+800CD0E8 FFFF
+300CD0EA 00FF
+

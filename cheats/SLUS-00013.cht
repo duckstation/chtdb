@@ -1,0 +1,42 @@
+; CHTDB: ; [ WWF WrestleMania - The Arcade Game (USA) (1995) (Acclaim Entertainment) {SLUS-00013} <wwfmania> ]
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8006E860 00A0
+
+[P1 No Energy]
+Type = Gameshark
+Activation = EndFrame
+8006E860 0000
+
+[P2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8006E870 00A0
+
+[P2 No Energy]
+Type = Gameshark
+Activation = EndFrame
+8006E860 0000
+
+[P1 Infinite Combo Meter]
+Type = Gameshark
+Activation = EndFrame
+8006E866 0010
+
+[P2 Infinite Combo Meter]
+Type = Gameshark
+Activation = EndFrame
+8006E86E 0010
+
+[P1 No Combo Meter]
+Type = Gameshark
+Activation = EndFrame
+8006E866 0000
+
+[P2 No Combo Meter]
+Type = Gameshark
+Activation = EndFrame
+8006E86E 0000
+

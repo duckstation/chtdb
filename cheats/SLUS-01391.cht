@@ -1,0 +1,39 @@
+; CHTDB: ; [ Cabela's Big Game Hunter - Ultimate Challenge (USA) (2001) (Activision) {SLUS-01391} <cabbig> ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+9013A83C 0001869F
+
+[Never Reload]
+Type = Gameshark
+Activation = EndFrame
+8006985A 0005
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800E2F2C 0024
+
+[Infinite Health (Alternate)]
+Type = Gameshark
+Activation = EndFrame
+300FBF54 0024
+
+[Max Money]
+Type = Gameshark
+Activation = EndFrame
+90146158 000F423F
+
+[Ride Your Vehicle And Use Your Weapons And Items]
+Description = It makes the game think you're walking
+Type = Gameshark
+Activation = EndFrame
+800A2708 BEF4
+
+[All Levels Unlocked]
+Type = Gameshark
+Activation = EndFrame
+50000F02 0000
+8007EE3C 0101
+

@@ -1,0 +1,17 @@
+; CHTDB: ; [ Pururun! with Shape Up Girls (Japan) {SLPS-00679} ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800E393E 0009
+
+[Total Time = 00.00]
+Type = Gameshark
+Activation = EndFrame
+900949FC 00000000
+
+[Unlock All Photos]
+Type = Gameshark
+Activation = EndFrame
+90094490 FFFFFFFF
+

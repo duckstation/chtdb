@@ -1,0 +1,23 @@
+; CHTDB: ; [ OverBlood (Japan) {SLPS-00392} ]
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800CF62C 0064
+
+[Infinite Bullet]
+Type = Gameshark
+Activation = EndFrame
+800EC4E4 0009
+
+[Enemy Hp=0]
+Type = Gameshark
+Activation = EndFrame
+800CF634 0000
+
+[All Items possession]
+Type = Gameshark
+Activation = EndFrame
+50002104 0000
+800ED9CC 0001
+

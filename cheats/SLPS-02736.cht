@@ -1,0 +1,18 @@
+; CHTDB: ; [ Senkai Taisen - TV Animation Senkaiden Houshin Engi Yori (Jpn) (2000) (Bandai) {SLPS-02736} <senkai> ]
+
+[Infinite HP Character 1]
+Type = Gameshark
+Activation = EndFrame
+8010527C 270F
+
+[Infinite Magic Character 1]
+Type = Gameshark
+Activation = EndFrame
+80105284 270F
+
+[Infinite Health 3D Level ACTIVATE ONLY WHEN PLAYING THE STAGE]
+Type = Gameshark
+Activation = EndFrame
+80144918 0005
+8014491C 0005
+

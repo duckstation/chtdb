@@ -1,0 +1,23 @@
+; CHTDB: ; [ Superstar Dance Club - #1 Hits!!! (USA) (2002) (XS Games) {SLUS-01493} <ssdancec> ]
+
+[Max Player Tricks]
+Type = Gameshark
+Activation = EndFrame
+801D8FE2 0FFF
+
+[Quick Chip Gain]
+Type = Gameshark
+Activation = EndFrame
+801D8C24 FFFF
+
+[Max Chips Total]
+Type = Gameshark
+Activation = EndFrame
+901D8C24 05F5E0FF
+
+[Unlock All Stages]
+Type = Gameshark
+Activation = EndFrame
+50000802 0000
+801BF200 2222
+

@@ -1,0 +1,43 @@
+; CHTDB: ; [ Surf Riders (USA) (2000) (Ubi Soft Entertainment Software) {SLUS-01190} <surfridr> ]
+
+[Add or Subtract Time (L2 For More/R2 For None)]
+Type = Gameshark
+Activation = EndFrame
+D0055A68 0001
+800AC450 0076
+D0055A68 0002
+800AC450 0000
+
+[Max Points - Heat 1]
+Type = Gameshark
+Activation = EndFrame
+E007AFBA 00FF
+3007AFBA 00FE
+
+[Max Points - Heat 2]
+Type = Gameshark
+Activation = EndFrame
+E007AFBB 00FF
+3007AFBB 00FE
+
+[Max Points - Heat 3]
+Type = Gameshark
+Activation = EndFrame
+E007AFBC 00FF
+3007AFBC 00FE
+
+[Unlock All Rounds]
+Type = Gameshark
+Activation = EndFrame
+80055B50 001F
+
+[Max Season Points]
+Type = Gameshark
+Activation = EndFrame
+80055B58 1770
+
+[Start On Last Round]
+Type = Gameshark
+Activation = EndFrame
+A6055B54 00000400
+

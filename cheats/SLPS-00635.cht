@@ -1,0 +1,27 @@
+; CHTDB: ; [ Time Crisis (Japan) (Time Crisis + GunCon) {SLPS-00635} ]
+
+[Infinite Continues]
+Type = Gameshark
+Activation = EndFrame
+800B1C84 0008
+
+[Stop Countdown Timer]
+Type = Gameshark
+Activation = EndFrame
+800B1C8C 0BBA
+
+[Infinite Bullets]
+Type = Gameshark
+Activation = EndFrame
+800B1D04 0006
+
+[Stop Elapsed Timer]
+Type = Gameshark
+Activation = EndFrame
+800B1D20 0000
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800B1FE0 0005
+

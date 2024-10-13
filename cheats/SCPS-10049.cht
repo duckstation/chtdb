@@ -1,0 +1,12 @@
+; CHTDB: ; [ Zero Pilot: Gin'yoku no Senshi (Japan) {SCPS-10049} ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80061868 FFFF
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+8019CDDC 03E7
+

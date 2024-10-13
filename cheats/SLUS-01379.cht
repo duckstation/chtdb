@@ -1,0 +1,12 @@
+; CHTDB: ; [ Card Games (USA) (2001) (Agetec / A1 Games) {SLUS-01379} <cardgams> ]
+
+[Have 999999999 credit in store]
+Type = Gameshark
+Activation = EndFrame
+900AA828 3B9AC9FF
+
+[Have 99.999.999 money in blackjack]
+Type = Gameshark
+Activation = EndFrame
+901179AC 05F5E0FF
+

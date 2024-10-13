@@ -1,0 +1,37 @@
+; CHTDB: ; [ Night Raid (Jpn) (2002) (Takumi) {SLPM-87048} <nightrai> ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8011426C 0006
+
+[Infinite Bombs]
+Type = Gameshark
+Activation = EndFrame
+80114264 000A
+
+[Invincibility (No Hit)]
+Type = Gameshark
+Activation = EndFrame
+A7047D5A 14401000
+
+[Unlock All Stages In Score Attack Mode]
+Type = Gameshark
+Activation = EndFrame
+80095074 0006
+
+[Max Firepower]
+Type = Gameshark
+Activation = EndFrame
+80114260 0003
+
+[Max (100) Triangles On Left Bar]
+Type = Gameshark
+Activation = EndFrame
+8010C412 0064
+
+[Always Have Super Gun]
+Type = Gameshark
+Activation = EndFrame
+8010D50A 0008
+

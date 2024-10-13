@@ -1,0 +1,22 @@
+; CHTDB: ; [ Soukyugurentai - Oubushustugeki (Jpn) (1997) (Data East) {SLPS-01172} <sokyugrt> ]
+
+[P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8004DF68 0002
+
+[P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8004DF6C 0002
+
+[Infinite Bombs]
+Type = Gameshark
+Activation = EndFrame
+8004DFB4 0303
+
+[Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+8004DF80 0009
+

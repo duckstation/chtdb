@@ -1,0 +1,98 @@
+; CHTDB: ; [ Action Man: Mission Xtreme (Europe) {SLES-01761} ]
+
+[Infinite Health Ice Flow]
+Type = Gameshark
+Activation = EndFrame
+8013386A 03E0
+
+[Infinite Longbow Ammo]
+Type = Gameshark
+Activation = EndFrame
+800B5FA6 000F
+
+[Infinite Health City Skies]
+Type = Gameshark
+Activation = EndFrame
+801C01F2 03E0
+
+[Infinite Health Spider Tank]
+Type = Gameshark
+Activation = EndFrame
+801CA8F8 03E0
+
+[Infinite Health Jet Boss]
+Type = Gameshark
+Activation = EndFrame
+801C9788 03E0
+
+[Infinite Sniper Ammo]
+Type = Gameshark
+Activation = EndFrame
+800B5FA8 0008
+
+[Infinite Health City Streets]
+Type = Gameshark
+Activation = EndFrame
+801164B0 03E8
+
+[Infinite Health Silo]
+Type = Gameshark
+Activation = EndFrame
+801C98DC 03E0
+
+[Infinite Health Island Base]
+Type = Gameshark
+Activation = EndFrame
+801C8E40 03E0
+
+[999 Power Points]
+Type = Gameshark
+Activation = EndFrame
+D00B9F44 FCFF
+800B5E12 03E7
+
+[Infinite Health Toxic Lab]
+Type = Gameshark
+Activation = EndFrame
+801C1240 03E0
+
+[Infinite Health Queen Plant]
+Type = Gameshark
+Activation = EndFrame
+801C9394 03E0
+
+[Infinite Health Desert Base]
+Type = Gameshark
+Activation = EndFrame
+801C12FC 03E0
+
+[Infinite Sonic Gun Ammo]
+Type = Gameshark
+Activation = EndFrame
+800B5FAE 00C8
+
+[Infinite Health Hold]
+Type = Gameshark
+Activation = EndFrame
+801C8E40 03E0
+
+[Infinite Health Skullbot Factory]
+Type = Gameshark
+Activation = EndFrame
+801C8A20 03E0
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A70C08EC 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A70C08EC 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A70C08EC 10000400
+

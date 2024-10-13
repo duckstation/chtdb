@@ -1,0 +1,55 @@
+; CHTDB: ; [ Spyro 2: Gateway to Glimmer (Europe) {SCES-02104} ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8006DE50 0003
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8006C614 0005
+
+[Infinite Time for Fly-level]
+Type = Gameshark
+Activation = EndFrame
+8006CD98 01A1
+
+[Moon Jump]
+Type = Gameshark
+Activation = EndFrame
+E00684B0 0040
+80066BEC 0EBA
+
+[Have All of The Orbs]
+Type = Gameshark
+Activation = EndFrame
+8006C778 0040
+
+[Ability to swim]
+Type = Gameshark
+Activation = EndFrame
+30069356 0001
+
+[Ability to climb]
+Type = Gameshark
+Activation = EndFrame
+3006935A 0001
+
+[Can use Headbang]
+Type = Gameshark
+Activation = EndFrame
+3006935E 0001
+
+[Have Fire Breath]
+Type = Gameshark
+Activation = EndFrame
+D0070692 DFFF
+8006DDD1 000F
+
+[Infinite Gems]
+Type = Gameshark
+Activation = EndFrame
+D006C6F4 0000
+3006C6F4 D903
+

@@ -1,0 +1,51 @@
+; CHTDB: ; [ Silent Hill (Japan) {SLP-86192} ]
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A70C9510 10000C00
+A70C9520 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A70C9510 10000900
+A70C9520 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A70C9510 10000400
+A70C9520 10000400
+
+[Dither Off]
+Type = Gameshark
+Activation = EndFrame
+A7019810 02000000
+
+[Select Fog Distance\1999]
+Type = Gameshark
+Activation = EndFrame
+8003F52C 1999
+
+[Select Fog Distance\1444]
+Type = Gameshark
+Activation = EndFrame
+8003F52C 1444
+
+[Select Fog Colour Influence\0A00]
+Type = Gameshark
+Activation = EndFrame
+8003FAFC 0A00
+
+[Select Fog Colour Influence\0000]
+Type = Gameshark
+Activation = EndFrame
+8003FAFC 0000
+
+[60 FPS]
+Type = Gameshark
+Activation = EndFrame
+A70A8FF0 00020001
+A70AB38C 00020001
+

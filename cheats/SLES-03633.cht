@@ -1,0 +1,46 @@
+; CHTDB: ; [ Army Men: Team Assault (Europe) {SLES-03633} ]
+
+[Infinite Energy Character 1 Mission 1]
+Type = Gameshark
+Activation = EndFrame
+8019F9B4 0190
+
+[Infinite Energy Character 2 Mission 1]
+Type = Gameshark
+Activation = EndFrame
+8019FB2C 0150
+
+[Infinite Energy Character 1 Mission 2]
+Type = Gameshark
+Activation = EndFrame
+801A283C 0150
+
+[All levels unlocked (load a save game)]
+Type = Gameshark
+Activation = EndFrame
+30110BF0 000F
+
+[No damage (all)]
+Type = Gameshark
+Activation = EndFrame
+80073320 0000
+
+[No damage (all) On (Press L1 & Up)]
+Type = Gameshark
+Activation = EndFrame
+D012E9D6 FBEF
+80073320 0000
+
+[Items Infinite]
+Type = Gameshark
+Activation = EndFrame
+D002D7E8 FFFF
+8002D7EC 0000
+
+[Inventory Have All items (Press L1 & L2)]
+Type = Gameshark
+Activation = EndFrame
+D012E9D6 FAFF
+50000702 4040
+801111A8 0000
+

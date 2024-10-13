@@ -1,0 +1,122 @@
+; CHTDB: ; [ Arc the Lad Collection - Arc the Lad (USA) (2002) (Working Designs) {SLUS-01224, SLUS-01224B} <arclad> ]
+
+[Arc The Lad 1 Infinite HP Tosh]
+Type = Gameshark
+Activation = EndFrame
+90119D0C 03E703E7
+
+[Arc The Lad 1 Infinite HP Rai-Jin]
+Type = Gameshark
+Activation = EndFrame
+9011A00C 03E703E7
+
+[Arc The Lad 1 Infinite HP Poco]
+Type = Gameshark
+Activation = EndFrame
+90119D6C 03E703E7
+
+[Arc The Lad 1 Infinite HP Odon]
+Type = Gameshark
+Activation = EndFrame
+9011A06C 03E703E7
+
+[Arc The Lad 1 Infinite HP Mofly]
+Type = Gameshark
+Activation = EndFrame
+90119F4C 03E703E7
+
+[Arc The Lad 1 Infinite HP Kukuru]
+Type = Gameshark
+Activation = EndFrame
+90119CAC 03E703E7
+
+[Arc The Lad 1 Infinite HP Keleck]
+Type = Gameshark
+Activation = EndFrame
+90119EEC 03E703E7
+
+[Arc The Lad 1 Infinite HP Iga]
+Type = Gameshark
+Activation = EndFrame
+90119E2C 03E703E7
+
+[Arc The Lad 1 Infinite HP Hemo-Ji]
+Type = Gameshark
+Activation = EndFrame
+9011A0CC 03E703E7
+
+[Arc The Lad 1 Infinite HP Gogen]
+Type = Gameshark
+Activation = EndFrame
+90119DCC 03E703E7
+
+[Arc The Lad 1 Infinite HP Fu-Jin]
+Type = Gameshark
+Activation = EndFrame
+90119FAC 03E703E7
+
+[Arc The Lad 1 Infinite HP Chongara]
+Type = Gameshark
+Activation = EndFrame
+90119E8C 03E703E7
+
+[Arc The Lad 1 Infinite HP Choko]
+Type = Gameshark
+Activation = EndFrame
+9011A12C 03E703E7
+
+[Arc The Lad 1 Infinite HP Arc]
+Type = Gameshark
+Activation = EndFrame
+90119C4C 03E703E7
+
+[Blue Orbs/Power]
+Type = Gameshark
+Activation = EndFrame
+801A89FE 0006
+
+[Max Level And Max Status]
+Type = Gameshark
+Activation = EndFrame
+801A89FA 000F
+80119C40 EFFF
+80119D00 FEFF
+80119CA0 FFEE
+80119CA0 FFEF
+8011A120 EFFF
+80119E20 FFEF
+80119DC0 FEEE
+8011A0C0 EFFF
+80119F40 FEFE
+80119EE0 FEFF
+80119E80 FFEE
+8011A000 EFFE
+8011A060 FEFF
+80119FA0 FEFF
+
+[All Items 99]
+Type = Gameshark
+Activation = EndFrame
+50003002 0000
+80119810 6363
+
+[Monster Guide fully opened]
+Type = Gameshark
+Activation = EndFrame
+90119978 FFFFFFFF
+9011997C FFFFFFFF
+80119980 FFFF
+30119982 00FF
+8011998A FFC0
+
+[Widescreen 16-10]
+Type = Gameshark
+Activation = EndFrame
+80181368 0D00
+8018136A 2409
+8019A5CC 0080
+8019A5CE 0080
+8019A5E0 0120
+8019A5E2 0080
+8019A5E8 0042
+

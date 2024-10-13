@@ -1,0 +1,7 @@
+; CHTDB: ; [ Ayrton Senna Kart Duel Special (Japan) {SLPS-01659} ]
+
+[Always 1st When Finished]
+Type = Gameshark
+Activation = EndFrame
+80076B4A 0001
+

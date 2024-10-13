@@ -1,0 +1,110 @@
+; CHTDB: ; [ International Track & Field (Europe) {SLES-00333} ]
+
+[P1 Max Points]
+Type = Gameshark
+Activation = EndFrame
+801092A4 FFFF
+
+[P2 Max Points]
+Type = Gameshark
+Activation = EndFrame
+801092A8 FFFF
+
+[Javelin\P1 Full Power]
+Type = Gameshark
+Activation = EndFrame
+800B1912 417F
+
+[Javelin\P2 Full Power]
+Type = Gameshark
+Activation = EndFrame
+800B31F2 417F
+
+[Javelin\Perfect Angle]
+Type = Gameshark
+Activation = EndFrame
+80104530 002D
+
+[Pole Vault, 100 m Sprint, 100 m Freestyle, 110 m Hurdles\P1 Full Speed Presss L2]
+Type = Gameshark
+Activation = EndFrame
+D00B1628 0001
+80101E72 417F
+
+[100 m Sprint, 100 m Freestyle, 110 m Hurdles\P1 Time Modifier]
+Type = Gameshark
+Activation = EndFrame
+80101E82 0000
+
+[Pole Vault, 100 m Sprint, 100 m Freestyle, 110 m Hurdles\P2 Full Speed Press L2]
+Type = Gameshark
+Activation = EndFrame
+D00B1860 0001
+80102ACE 417F
+
+[100 m Sprint, 100 m Freestyle, 110 m Hurdles\P2 Time Modifier]
+Type = Gameshark
+Activation = EndFrame
+80102ADE 0000
+
+[Discus, Hammer Throw, Shot Put\P1 Full Energy Press R2]
+Type = Gameshark
+Activation = EndFrame
+D00B1628 0002
+80101F36 42A0
+
+[Discus, Hammer Throw, Shot Put\P2 Full Energy Press R2]
+Type = Gameshark
+Activation = EndFrame
+D00B1860 0004
+80102B92 42A0
+
+[Discus, Hammer Throw, Shot Put\Perfect Angle]
+Type = Gameshark
+Activation = EndFrame
+800B18D4 0200
+
+[Long Jump, Triple Jump\P1 Full Speed Press L1]
+Type = Gameshark
+Activation = EndFrame
+D00B1628 0004
+800B154A 417F
+
+[Long Jump, Triple Jump\P2 Full Speed Press L1]
+Type = Gameshark
+Activation = EndFrame
+D00B1860 0004
+800B21A6 417F
+
+[Long Jump, Triple Jump\Perfect Angle]
+Type = Gameshark
+Activation = EndFrame
+80104530 002D
+
+[High Jump\P1 Full Speed Press R2]
+Type = Gameshark
+Activation = EndFrame
+D00B1628 0002
+80101F36 42A0
+
+[High Jump\P2 Full Speed Press R2]
+Type = Gameshark
+Activation = EndFrame
+D00B1860 0004
+80102B92 42A0
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A70DB28C 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A70DB28C 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A70DB28C 10000400
+

@@ -1,0 +1,26 @@
+; CHTDB: ; [ Ultraman Tiga & Ultraman Dyna Fighting Evolution - New Generations (Jpn) (1998) (Bandai) {SLPS-01455} <ultrang> ]
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800CB774 00C8
+800D0048 00C8
+800CE974 00C8
+800CBB7C 00C8
+800CA8A0 00C8
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800C9BBE 150D
+800CE492 150D
+800CCDBE 150D
+800C9FC6 150D
+800C8CEA 150D
+
+[Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+800C9B2C 0063
+800100E4 6300
+

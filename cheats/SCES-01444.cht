@@ -1,0 +1,41 @@
+; CHTDB: ; [ Jackie Chan Stuntmaster (Europe) {SCES-01444} ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+D0129664 0003
+30129664 000A
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+D01293EA 00C8
+301293E8 00C8
+
+[Have All Red & Gold Dragons]
+Type = Gameshark
+Activation = EndFrame
+50000F10 0000
+800E7514 0A03
+
+[Unlock All Paths]
+Type = Gameshark
+Activation = EndFrame
+50000E10 0000
+800E7528 FFFF
+
+[Enable Level Select Cheat]
+Type = Gameshark
+Activation = EndFrame
+800500FE 2400
+
+[Enable Level + Dragon Unlock Cheat]
+Type = Gameshark
+Activation = EndFrame
+80050132 2400
+
+[Enable Bonus Movie Cheat]
+Type = Gameshark
+Activation = EndFrame
+800500DA 2400
+

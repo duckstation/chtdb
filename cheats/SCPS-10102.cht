@@ -1,0 +1,7 @@
+; CHTDB: ; [ PokeTan (Japan) {SCPS-10102} ]
+
+[Always Score 100% on Tests]
+Type = Gameshark
+Activation = EndFrame
+8016D288 03E8
+

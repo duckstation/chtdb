@@ -1,0 +1,20 @@
+; CHTDB: ; [ Simple 1500 Series Vol. 13: The Race (Japan) (Culture Publishers) {SLPS-02197} ]
+
+[Boost Mode]
+Type = Gameshark
+Activation = EndFrame
+801DB288 24E0
+801DB284 24E0
+
+[Lap Timer]
+Type = Gameshark
+Activation = EndFrame
+801DB388 0000
+
+[Total Timer]
+Type = Gameshark
+Activation = EndFrame
+801EA3F0 0000
+801F1CD2 0000
+801F1CD4 0000
+

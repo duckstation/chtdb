@@ -1,0 +1,88 @@
+; CHTDB: ; [ Tomba! (USA) (1998) (Sony Computer Entertainment America) {SCUS-94236} <tomba> ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+A60A5430 00030004
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+A609BCE8 01020103
+
+[Infinite AP]
+Type = Gameshark
+Activation = EndFrame
+8009BCD4 FFFF
+
+[Moon Jump]
+Type = Gameshark
+Activation = EndFrame
+D009C9D8 4000
+800A54B0 0005
+
+[Hit Sort To Possess All Items]
+Type = Gameshark
+Activation = EndFrame
+8009C60C 00FF
+5000F801 0000
+3009C410 0030
+5000A001 0001
+3009C50C 0000
+
+[Infinite Time And Fuel For Gocart Race]
+Type = Gameshark
+Activation = EndFrame
+900A60E0 00830004
+
+[Left and right scroll is never stationary (Part 1)]
+Type = Gameshark
+Activation = EndFrame
+A702A9AA 10401000
+A702A9DA 10401000
+A702A8B6 10401000
+
+[Don't clip through ground (Part 2)]
+Type = Gameshark
+Activation = EndFrame
+A704268E 14402400
+
+[Disable event messages]
+Type = Gameshark
+Activation = EndFrame
+A702DF2A 14401000
+
+[Disable AP received messages]
+Type = Gameshark
+Activation = EndFrame
+A7031BDA 10401000
+
+[Disable item acquired messages]
+Type = Gameshark
+Activation = EndFrame
+A7030F16 10622400
+
+[Hit pigs from anywhere]
+Type = Gameshark
+Activation = EndFrame
+A7052E82 10432400
+
+[Hover jumps "Hold X"]
+Type = Gameshark
+Activation = EndFrame
+A70F1F42 10001062
+D7200000 00000040
+A70F1F42 10621000
+
+[Multi-jump "Tap X repeatedly"]
+Type = Gameshark
+Activation = EndFrame
+A70F259E 24001040
+D7010001 01000040
+A70F259E 10402400
+
+[Tomba air dives]
+Type = Gameshark
+Activation = EndFrame
+A70EE126 10401000
+

@@ -1,0 +1,37 @@
+; CHTDB: ; [ ATV Mania (USA) (2003) (Gotham Games) {SLUS-01545} <atvmania> ]
+
+[Time Always 0.00]
+Type = Gameshark
+Activation = EndFrame
+8007704C 0000
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800C7AF4 0ED7
+
+[Infinite Grenades]
+Type = Gameshark
+Activation = EndFrame
+800C7B0C 03E7
+
+[Infinite Mini Gun]
+Type = Gameshark
+Activation = EndFrame
+800C7B10 03E7
+
+[Infinite Missiles]
+Type = Gameshark
+Activation = EndFrame
+800C7B14 03E7
+
+[Infinite Bombs]
+Type = Gameshark
+Activation = EndFrame
+800C7B18 03E7
+
+[Infinite Mines]
+Type = Gameshark
+Activation = EndFrame
+800C7B1C 03E7
+

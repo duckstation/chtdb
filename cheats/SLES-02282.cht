@@ -1,0 +1,130 @@
+; CHTDB: ; [ Shadow Man: Rette deine Seele (Germany) {SLES-02282} ]
+
+[Unendlich Munition Alle Waffen]
+Type = Gameshark
+Activation = EndFrame
+50000404 0000
+300C1A48 0063
+
+[Alles Inventar Freigeschaltet]
+Type = Gameshark
+Activation = EndFrame
+50001E04 0000
+300BC688 0003
+
+[Alle Orte Freigeschaltet]
+Type = Gameshark
+Activation = EndFrame
+50001101 0000
+300BC71C 0001
+
+[Unendlich Lebenskraft]
+Type = Gameshark
+Activation = EndFrame
+800C1A34 2710
+
+[Mike Leroi\Unendlich Luftvorrat]
+Type = Gameshark
+Activation = EndFrame
+800C1A38 2710
+
+[Mike Leroi\Maximale Lebenskraft]
+Type = Gameshark
+Activation = EndFrame
+800C1A28 2710
+
+[Shadow Man\Maximaler Schatten-Level]
+Type = Gameshark
+Activation = EndFrame
+800C1A3C 2710
+
+[Shadow Man\Maximale Schattenkraft]
+Type = Gameshark
+Activation = EndFrame
+800C1A40 2710
+
+[Shadow Man\Unendlich Voodoo-Kraft]
+Type = Gameshark
+Activation = EndFrame
+800C1A44 2710
+
+[Alle Geheimnisse Gefunden\Bayou Paradis, Louisiana]
+Type = Gameshark
+Activation = EndFrame
+8009D018 0808
+
+[Alle Geheimnisse Gefunden\Mordant Street, Queens, Ny]
+Type = Gameshark
+Activation = EndFrame
+8009D01A 0101
+
+[Alle Geheimnisse Gefunden\Gardelle County GefäNgnis, Texas]
+Type = Gameshark
+Activation = EndFrame
+8009D01C 0303
+
+[Alle Geheimnisse Gefunden\Down Street Station, London]
+Type = Gameshark
+Activation = EndFrame
+8009D01E 0101
+
+[Alle Geheimnisse Gefunden\Reich Der Toten Marktore, Pfad Der Schatten, Prophezeiungsraum]
+Type = Gameshark
+Activation = EndFrame
+8009D020 0404
+
+[Alle Geheimnisse Gefunden\WüStes Land Tempel Des Lebens]
+Type = Gameshark
+Activation = EndFrame
+8009D022 0D0D
+
+[Alle Geheimnisse Gefunden\Asyl - Tor]
+Type = Gameshark
+Activation = EndFrame
+8009D024 0C0C
+
+[Alle Geheimnisse Gefunden\Asyl - Kathedrale Des Schmerzes]
+Type = Gameshark
+Activation = EndFrame
+8009D026 0202
+
+[Alle Geheimnisse Gefunden\Asyl - Maschinenblock]
+Type = Gameshark
+Activation = EndFrame
+8009D028 0B0B
+
+[Alle Geheimnisse Gefunden\Tempel Des Feuers (Touche)]
+Type = Gameshark
+Activation = EndFrame
+8009D02A 0B0B
+
+[Alle Geheimnisse Gefunden\Asyl - KäFigpfade]
+Type = Gameshark
+Activation = EndFrame
+8009D02C 0B0B
+
+[Alle Geheimnisse Gefunden\Asyl - Spielzimmer]
+Type = Gameshark
+Activation = EndFrame
+8009D02E 0A0A
+
+[Alle Geheimnisse Gefunden\Tempel Der Prophezeiung (Marcher)]
+Type = Gameshark
+Activation = EndFrame
+8009D030 0D0D
+
+[Alle Geheimnisse Gefunden\Asyl - Lavaducte]
+Type = Gameshark
+Activation = EndFrame
+8009D032 0909
+
+[Alle Geheimnisse Gefunden\Tempel Des Blutes (Nager)]
+Type = Gameshark
+Activation = EndFrame
+8009D034 0808
+
+[Alle Geheimnisse Gefunden\Asyl - Unterstadt]
+Type = Gameshark
+Activation = EndFrame
+8009D036 0303
+

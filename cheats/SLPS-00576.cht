@@ -1,0 +1,29 @@
+; CHTDB: ; [ Shin SD Sengokuden - Kidou Musha Taisen (Jpn, Limited Edition) (1996) (Bandai) {SLPS-00576} <shinseng> ]
+
+[Fast Level UP]
+Type = Gameshark
+Activation = EndFrame
+80075A60 270F
+80075A9C 270F
+80075A7E 270F
+
+[Hero to upgrade immediately]
+Type = Gameshark
+Activation = EndFrame
+80075A60 270F
+
+[Grain of soldiers decrease]
+Type = Gameshark
+Activation = EndFrame
+8007351C 03E7
+
+[Rapid escalation of stubborn fighting vehicles]
+Type = Gameshark
+Activation = EndFrame
+80075A9C 270F
+
+[Stubborn cannon to upgrade immediately]
+Type = Gameshark
+Activation = EndFrame
+80075A7E 270F
+

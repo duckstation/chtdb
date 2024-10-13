@@ -1,0 +1,17 @@
+; CHTDB: ; [ Hyper Rally (Jpn) (1996) (Harvest One) {SLPS-00462} <hyprally> ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800D3688 270F
+
+[Stop Order]
+Type = Gameshark
+Activation = EndFrame
+800D3688 2396
+
+[Stop Time]
+Type = Gameshark
+Activation = EndFrame
+800D36EA 0000
+

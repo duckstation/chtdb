@@ -1,0 +1,85 @@
+; CHTDB: ; [ Dino Crisis (Italy) {SLES-02210} ]
+
+[Energia Infinita]
+Type = Gameshark
+Activation = EndFrame
+800B152C 04B0
+900B9588 FFFFFFFF
+
+[Abilita missione Extra (premere R1+R2)]
+Type = Gameshark
+Activation = EndFrame
+D00A93D0 000A
+800BFBFA 0403
+
+[Abilita cambio costume]
+Type = Gameshark
+Activation = EndFrame
+800B9CAC 000F
+A60BFBFA 00030503
+
+[Munizioni ed oggetti infiniti]
+Type = Gameshark
+Activation = EndFrame
+D00B9CAC 0001
+8006303E 3C00
+
+[Salvare ovunque (premere L1+L2)]
+Type = Gameshark
+Activation = EndFrame
+D00A93D0 0005
+800AFA00 0007
+
+[Tempo infinito nella missione Wipe Out]
+Type = Gameshark
+Activation = EndFrame
+80040348 3C00
+
+[Tutte le Armi (Regina)]
+Type = Gameshark
+Activation = EndFrame
+800B9560 FFFF
+900B955C FFFFFFFF
+900B9564 FFFFFFFF
+800B9568 FFFF
+
+[Tutte le mappe]
+Type = Gameshark
+Activation = EndFrame
+900B958C FFFFFFFF
+900B9590 FFFFFFFF
+
+[Tutti gli oggetti (Regina)]
+Type = Gameshark
+Activation = EndFrame
+800B956A FFFF
+900B956C FFFFFFFF
+900B9570 FFFFFFFF
+800B9574 FFFF
+
+[Vedere il primo Finale (premere Select)]
+Type = Gameshark
+Activation = EndFrame
+D00A93D0 0100
+800AFA0D 000A
+D00A93D0 0100
+300AFA13 0000
+D00A93D0 0100
+
+[Vedere il secondo Finale (premere Select)]
+Type = Gameshark
+Activation = EndFrame
+D00A93D0 0100
+800AFA0D 000A
+D00A93D0 0100
+300AFA13 0001
+D00A93D0 0100
+
+[Vedere il terzo Finale (premere Select)]
+Type = Gameshark
+Activation = EndFrame
+D00A93D0 0100
+800AFA0D 000A
+D00A93D0 0100
+300AFA13 0002
+

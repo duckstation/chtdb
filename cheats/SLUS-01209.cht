@@ -1,0 +1,53 @@
+; CHTDB: ; [ Disney's Goofy's Fun House (USA) (2001) (NewKidCo) {SLUS-01209} <goofyfh> ]
+
+[All Cams]
+Type = Gameshark
+Activation = EndFrame
+50001E02 0000
+801F5C04 0505
+
+[Have Bonus Movie]
+Type = Gameshark
+Activation = EndFrame
+801F5C58 0001
+
+[Always Right Answer Telephone Quiz]
+Type = Gameshark
+Activation = EndFrame
+800CC458 0001
+
+[Autowin - Worm Challenge]
+Type = Gameshark
+Activation = EndFrame
+801EE570 000A
+
+[Only Catch one worm to win - Worm Challenge]
+Type = Gameshark
+Activation = EndFrame
+801EE570 0009
+
+[Worm Challenge\Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+801EF2CC 1800
+
+[Car Race (Disable before entering gym)\Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+801EB780 0784
+
+[Infinite Time Tug-o-war]
+Type = Gameshark
+Activation = EndFrame
+801F46C8 FFFF
+
+[Make the Room Background Black]
+Type = Gameshark
+Activation = EndFrame
+A7077452 0C011400
+
+[Turn Music Off]
+Type = Gameshark
+Activation = EndFrame
+A70A6812 0C021400
+

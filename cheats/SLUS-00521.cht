@@ -1,0 +1,17 @@
+; CHTDB: ; [ NASCAR 98 (USA) (1997) (Electronic Arts) {SLUS-00521} <nascar98> ]
+
+[Lap Time is 00.00.000]
+Type = Gameshark
+Activation = EndFrame
+800BF2FC 0000
+
+[One Lap Needed To Finish Race]
+Type = Gameshark
+Activation = EndFrame
+800BF27A 0009
+
+[Always Place First]
+Type = Gameshark
+Activation = EndFrame
+800BF2A8 0101
+

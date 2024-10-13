@@ -1,0 +1,200 @@
+; CHTDB: ; [ MTV Sports: Pure Ride (Europe) {SLES-03162} ]
+
+[Unlock All boards]
+Type = Gameshark
+Activation = EndFrame
+D00D8300 F0FF
+301D76EA 001F
+D00D8300 F0FF
+3014CD9E 001F
+
+[All characters & videos]
+Type = Gameshark
+Activation = EndFrame
+D00D8300 F0FF
+801D76E8 FFFF
+D00D8300 F0FF
+8014CD9C FFFF
+
+[Nate All trophies]
+Type = Gameshark
+Activation = EndFrame
+800D3DF8 3E3F
+
+[Nate Place first (Press L1 & L2 & R1 & R2)]
+Type = Gameshark
+Activation = EndFrame
+D00D8300 F0FF
+800D6A68 8760
+D00D8300 F0FF
+300D6A68 0003
+
+[Miko All trophies]
+Type = Gameshark
+Activation = EndFrame
+800D3F7C 3E3F
+
+[Miko Place first (Press L1 & L2 & R1 & R2)]
+Type = Gameshark
+Activation = EndFrame
+D00D8300 F0FF
+800D6AD0 8760
+D00D8300 F0FF
+300D6AD2 0003
+
+[Damian All trophies]
+Type = Gameshark
+Activation = EndFrame
+800D4100 3E3F
+
+[Damian Place first (Press L1 & L2 & R1 & R2)]
+Type = Gameshark
+Activation = EndFrame
+D00D8300 F0FF
+800D6A10 8760
+D00D8300 F0FF
+300D6A12 0003
+
+[Shayla All trophies]
+Type = Gameshark
+Activation = EndFrame
+800D4284 3E3F
+
+[Shayla Place first (Press L1 & L2 & R1 & R2)]
+Type = Gameshark
+Activation = EndFrame
+D00D8300 F0FF
+800D6B6C 8760
+D00D8300 F0FF
+300D6B6E 0003
+
+[J.P. All trophies]
+Type = Gameshark
+Activation = EndFrame
+800D4408 3E3F
+
+[J.P. Place first (Press L1 & L2 & R1 & R2)]
+Type = Gameshark
+Activation = EndFrame
+D00D8300 F0FF
+800D6B04 8760
+D00D8300 F0FF
+300D6B06 0003
+
+[Brad Scheuffele All trophies]
+Type = Gameshark
+Activation = EndFrame
+800D458C 3E3F
+
+[Brad Scheuffele Place first (Press L1 & L2 & R1 & R2)]
+Type = Gameshark
+Activation = EndFrame
+D00D8300 F0FF
+800D6A34 8760
+D00D8300 F0FF
+300D6A36 0003
+
+[Marc Montoya All trophies]
+Type = Gameshark
+Activation = EndFrame
+800D4710 3E3F
+
+[Marc Montoya Place first (Press L1 & L2 & R1 & R2)]
+Type = Gameshark
+Activation = EndFrame
+D00D8300 F0FF
+800D6A9C 8760
+D00D8300 F0FF
+300D6A9E 0003
+
+[Blaise Rosenthal All trophies]
+Type = Gameshark
+Activation = EndFrame
+800D4894 3E3F
+
+[Blase RosenthalPlace first (Press L1 & L2 & R1 & R2)]
+Type = Gameshark
+Activation = EndFrame
+D00D8300 F0FF
+800D6B38 8760
+D00D8300 F0FF
+300D6B3A 0003
+
+[Michele Taggart All trophies]
+Type = Gameshark
+Activation = EndFrame
+800D4A18 3E3F
+
+[Michele Taggart Place first (Press L1 & L2 & R1 & R2)]
+Type = Gameshark
+Activation = EndFrame
+D00D8300 F0FF
+800D6BA0 8760
+D00D8300 F0FF
+300D6BA2 0003
+
+[Bones All trophies]
+Type = Gameshark
+Activation = EndFrame
+800D4B9C 3E3F
+
+[Bones Place first (Press L1 & L2 & R1 & R2)]
+Type = Gameshark
+Activation = EndFrame
+D00D8300 F0FF
+800D7288 8760
+D00D8300 F0FF
+300D728A 0003
+
+[Pecker All trophies]
+Type = Gameshark
+Activation = EndFrame
+800D4D20 3E3F
+
+[Pecker Place first (Press L1 & L2 & R1 & R2)]
+Type = Gameshark
+Activation = EndFrame
+D00D8300 F0FF
+800D7344 8760
+D00D8300 F0FF
+300D7346 0003
+
+[Oakey All trophies]
+Type = Gameshark
+Activation = EndFrame
+800D4EA4 3E3F
+
+[Oakey Place first (Press L1 & L2 & R1 & R2)]
+Type = Gameshark
+Activation = EndFrame
+D00D8300 F0FF
+800D72BC 8760
+D00D8300 F0FF
+300D72BE 0003
+
+[Summer All trophies]
+Type = Gameshark
+Activation = EndFrame
+800D5028 3E3F
+
+[Summer Place first (Press L1 & L2 & R1 & R2)]
+Type = Gameshark
+Activation = EndFrame
+D00D8300 F0FF
+800D7220 8760
+D00D8300 F0FF
+300D7222 0003
+
+[Invisible Man All trophies]
+Type = Gameshark
+Activation = EndFrame
+800D51AC 3E3F
+
+[Invisible Man Place first (Press L1 & L2 & R1 & R2)]
+Type = Gameshark
+Activation = EndFrame
+D00D8300 F0FF
+800D72F0 8760
+D00D8300 F0FF
+300D72F2 0003
+

@@ -1,0 +1,43 @@
+; CHTDB: ; [ Konami Antiques - MSX Collection Vol.1 (Jpn) (1997) (Konami) {SLPM-86052 (VX120-J1)} <msxcol1> ]
+
+[Boxing\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8001E217 0000
+
+[Ping-Pong\CPU points are always 0]
+Type = Gameshark
+Activation = EndFrame
+8001E133 0000
+
+[Yie-ar-Kung-Fu\Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8001E12F 2400
+
+[Mopinger\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8001E050 0606
+
+[Road Fighter\Infinite Fuel]
+Type = Gameshark
+Activation = EndFrame
+8001E082 D800
+
+[Sky Jaguar\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8001E050 0203
+8001E3D0 0303
+
+[Gradius\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8001E060 0102
+
+[Gradius 2\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8001E360 0102
+

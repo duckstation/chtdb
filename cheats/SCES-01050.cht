@@ -1,0 +1,62 @@
+; CHTDB: ; [ Ghost in the Shell (Europe) {SCES-01050} ]
+
+[Infinite HP level 1]
+Type = Gameshark
+Activation = EndFrame
+80120500 00C8
+
+[Infinite HP level 2]
+Type = Gameshark
+Activation = EndFrame
+8011F63C 00C8
+
+[Infinite HP level 3]
+Type = Gameshark
+Activation = EndFrame
+80120EDC 00C8
+
+[Infinite HP level 4]
+Type = Gameshark
+Activation = EndFrame
+80122A50 00C8
+
+[Infinite HP level 5]
+Type = Gameshark
+Activation = EndFrame
+8011FFF4 00C8
+
+[Infinite HP level 6]
+Type = Gameshark
+Activation = EndFrame
+80127990 00C8
+
+[Infinite HP level 7]
+Type = Gameshark
+Activation = EndFrame
+80125FB0 00C8
+
+[Infinite HP level 8]
+Type = Gameshark
+Activation = EndFrame
+80120750 00C8
+
+[Infinite HP level 9]
+Type = Gameshark
+Activation = EndFrame
+80124C80 00C8
+
+[Infinite HP level 10]
+Type = Gameshark
+Activation = EndFrame
+8012532C 00C8
+
+[Infinite HP level 11]
+Type = Gameshark
+Activation = EndFrame
+8012322C 00C8
+
+[Infinite HP level 12]
+Type = Gameshark
+Activation = EndFrame
+8012BFFC 00C8
+

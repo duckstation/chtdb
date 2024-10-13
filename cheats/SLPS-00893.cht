@@ -1,0 +1,17 @@
+; CHTDB: ; [ Cheesy (Japan) {SLPS-00893} ]
+
+[Infinite Hearts]
+Type = Gameshark
+Activation = EndFrame
+80091180 0005
+
+[99 Cheese]
+Type = Gameshark
+Activation = EndFrame
+800911F8 0063
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8009110C 0004
+

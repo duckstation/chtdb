@@ -1,0 +1,37 @@
+; CHTDB: ; [ Command & Conquer - Red Alert - Retaliation (USA) (1998) (Virgin Interactive Entertainment) {SLUS-00665 / SLUS-00667} <cncretal> ]
+
+[Infinite Money (Allies)]
+Type = Gameshark
+Activation = EndFrame
+8002A3D4 FFFF
+
+[Infinite Power (Allies)]
+Type = Gameshark
+Activation = EndFrame
+8002A3F0 FFFF
+
+[Infinite Money (Soviet)]
+Type = Gameshark
+Activation = EndFrame
+8002A798 FFFF
+
+[Infinite Power (Soviet)]
+Type = Gameshark
+Activation = EndFrame
+8002A7B4 FFFF
+
+[Infinite Funds]
+Type = Gameshark
+Activation = EndFrame
+901046D0 00000000
+
+[Infinite Money (Skirmish Mode)]
+Type = Gameshark
+Activation = EndFrame
+8002CD40 FFFF
+
+[Infinite Power (Skirmish Mode)]
+Type = Gameshark
+Activation = EndFrame
+8002CD5C FFFF
+

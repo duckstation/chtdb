@@ -1,0 +1,22 @@
+; CHTDB: ; [ Monster Rancher (Europe) (Promo) {SCES-02872} ]
+
+[Max fame]
+Type = Gameshark
+Activation = EndFrame
+80097C10 0064
+
+[Money = 9999]
+Type = Gameshark
+Activation = EndFrame
+80099194 270F
+
+[Infinite Stamina]
+Type = Gameshark
+Activation = EndFrame
+30097C0F 0000
+
+[Infinite Life]
+Type = Gameshark
+Activation = EndFrame
+80097BF8 03E7
+

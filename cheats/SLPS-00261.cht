@@ -1,0 +1,12 @@
+; CHTDB: ; [ Sotsugyou R: Graduation Real (Japan) (Shokaiban) {SLPS-00261} ]
+
+[Player has always 40 HP]
+Type = Gameshark
+Activation = EndFrame
+800F7640 0028
+
+[Player has always 1000 of money]
+Type = Gameshark
+Activation = EndFrame
+800F7668 03E8
+

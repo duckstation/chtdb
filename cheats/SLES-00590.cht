@@ -1,0 +1,29 @@
+; CHTDB: ; [ Midnight Run: Road Fighter 2 aka Midnight Run (Europe) {SLES-00590} ]
+
+[Infinite Time To Choose]
+Type = Gameshark
+Activation = EndFrame
+A613357A 023D02FF
+A6133562 023D02FF
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80133414 0675
+
+[Laptime = 0]
+Type = Gameshark
+Activation = EndFrame
+80132C54 0000
+
+[Passed Cars = 32]
+Type = Gameshark
+Activation = EndFrame
+80133594 0020
+
+[Turbo Boost Press R2 to activate]
+Type = Gameshark
+Activation = EndFrame
+D0132C08 0002
+80133376 02FF
+

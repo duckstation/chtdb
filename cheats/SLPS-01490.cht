@@ -1,0 +1,158 @@
+; CHTDB: ; [ Brave Fencer Musashiden (Japan) {SLPS-01490} ]
+
+[Infinite + Max HP]
+Type = Gameshark
+Activation = EndFrame
+80078012 01F4
+80078014 01F4
+
+[Infinite + Max MP]
+Type = Gameshark
+Activation = EndFrame
+80078016 01F4
+80078018 01F4
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+90077FEC 000F423F
+
+[Invincibility (Blink)]
+Type = Gameshark
+Activation = EndFrame
+30127670 000F
+
+[Fast Attack]
+Type = Gameshark
+Activation = EndFrame
+8007801E 8000
+
+[Turbo Attack]
+Type = Gameshark
+Activation = EndFrame
+80077F2A 0008
+
+[Max Attack Bar]
+Type = Gameshark
+Activation = EndFrame
+8014A8D4 0001
+80164300 0001
+
+[Max Status]
+Type = Gameshark
+Activation = EndFrame
+80078044 001D
+8007804C 001D
+80078054 001D
+8007805C 001D
+
+[Can Stay In Air (press X button)]
+Type = Gameshark
+Activation = EndFrame
+D0077F22 0040
+801275FE FFF9
+
+[All Recover Items]
+Type = Gameshark
+Activation = EndFrame
+300B9347 0001
+900B9348 05040302
+900B934C 09080706
+800B9350 0B0A
+300B9352 000C
+
+[All Weapons (Set 1)]
+Type = Gameshark
+Activation = EndFrame
+300B9353 000D
+900B9354 11100F0E
+900B9358 15141312
+900B935C 19181716
+900B9360 1D1C1B1A
+900B9364 21201F1E
+800B9368 2322
+
+[All Weapons (Set 2)]
+Type = Gameshark
+Activation = EndFrame
+800B936A 2524
+900B936C 29282726
+900B9370 2D2C2B2A
+900B9374 31302F2E
+900B9378 35343332
+900B937C 39383736
+800B9380 3B3A
+300B9382 003C
+
+[All Weapons (Set 3)]
+Type = Gameshark
+Activation = EndFrame
+300B9383 0047
+900B9384 4B4A4948
+900B9388 4F4E4D4C
+900B938C 53525150
+900B9390 57565554
+900B9394 5B5A5958
+900B9398 5F5E5D5C
+
+[All Weapons (Set 4)]
+Type = Gameshark
+Activation = EndFrame
+900B939C 63626160
+900B93A0 67666564
+900B93A4 6B6A6968
+800B93A8 6D6C
+300B93AA 006E
+300B93AB 0071
+900B93AC 75747372
+800B93B0 7776
+
+[Never Tired]
+Type = Gameshark
+Activation = EndFrame
+80078004 FFFF
+
+[Shock Code - Small Sword (.Square)]
+Type = Gameshark
+Activation = EndFrame
+D0077F22 0080
+80073950 8080
+
+[Shock Code - Big Sword (.Triangle)]
+Type = Gameshark
+Activation = EndFrame
+D0077F22 0010
+80073950 FFFF
+
+[Tireness 0%]
+Type = Gameshark
+Activation = EndFrame
+80078006 009F
+
+[Weapon Level Up]
+Type = Gameshark
+Activation = EndFrame
+80078068 FFFF
+
+[MAX gauge bar in an instant]
+Type = Gameshark
+Activation = EndFrame
+D014A8D6 1440
+8014A8D4 0001
+
+[Armor fully open the Olympics of calligraphy & legend]
+Type = Gameshark
+Activation = EndFrame
+800AD7AA EFC0
+300AD7AC 0003
+
+[I remember all of the learning skills]
+Type = Gameshark
+Activation = EndFrame
+800AD7B8 02ED
+
+[Ability absorption without barrage]
+Type = Gameshark
+Activation = EndFrame
+80127750 0080
+

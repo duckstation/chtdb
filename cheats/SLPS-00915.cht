@@ -1,0 +1,7 @@
+; CHTDB: ; [ Kaibutsu Para-Dice (Jpn) (1997) (Make Software) {SLPS-00915} <paradice> ]
+
+[P1 Have always 999 energy]
+Type = Gameshark
+Activation = EndFrame
+800C05AC 03E7
+

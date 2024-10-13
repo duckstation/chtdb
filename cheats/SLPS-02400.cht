@@ -1,0 +1,125 @@
+; CHTDB: ; [ Rittai Ninja Katsugeki: Tenchu: Shinobi Hyakusen (Japan) {SLPS-02400} ]
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+D001D828 000B
+8001D826 2411
+D001E248 000C
+8001E246 2411
+
+[Infinite Weapon Use]
+Type = Gameshark
+Activation = EndFrame
+D003C8FE 24A2
+8003C8FC 0000
+
+[Invisible to Enemies]
+Type = Gameshark
+Activation = EndFrame
+D00168EE 2442
+800168EC 0000
+
+[Perfect Play Results]
+Type = Gameshark
+Activation = EndFrame
+80010084 270F
+80010088 0000
+8001008C 0000
+90010090 00A4CB80
+90010094 00A4CB80
+50000A04 0000
+80010098 FFFF
+
+[Press L1+R1 to Defeat All Enemies in 'Kill All' Missions]
+Type = Gameshark
+Activation = EndFrame
+E00C81E8 0003
+8009BD7A 0000
+
+[Have Bow]
+Type = Gameshark
+Activation = EndFrame
+D004113A 2402
+8004113C 00C9
+
+[Have Gun]
+Type = Gameshark
+Activation = EndFrame
+D004112E 2402
+80041130 00C8
+
+[Unlock All Extras]
+Type = Gameshark
+Activation = EndFrame
+8001001E FFFF
+50003202 0000
+80010020 0202
+
+[Infinite Physical strength]
+Type = Gameshark
+Activation = EndFrame
+80168A38 0064
+
+[Infinite Ninja Tools Rikimaru]
+Type = Gameshark
+Activation = EndFrame
+30168AE5 00FF
+30168AE6 00FF
+30168AE7 00FF
+
+[I seen initiation into the secrets record all]
+Type = Gameshark
+Activation = EndFrame
+8001001E FFFF
+
+[All missions can be selected & Achieved]
+Type = Gameshark
+Activation = EndFrame
+90010020 02020202
+90010024 02020202
+90010028 02020202
+9001002C 02020202
+90010030 02020202
+90010034 02020202
+90010038 02020202
+9001003C 02020202
+90010040 02020202
+90010044 02020202
+90010048 02020202
+9001004C 02020202
+90010050 02020202
+90010054 02020202
+90010058 02020202
+9001005C 02020202
+90010060 02020202
+90010064 02020202
+90010068 02020202
+9001006C 02020202
+90010070 02020202
+90010074 02020202
+90010078 02020202
+9001007C 02020202
+90010080 02020202
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A70E8B38 10000C00
+A70908F2 10000C00
+A7090916 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A70E8B38 10000900
+A70908F2 10000900
+A7090916 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A70E8B38 10000400
+A70908F2 10000400
+A7090916 10000400
+

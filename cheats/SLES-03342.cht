@@ -1,0 +1,20 @@
+; CHTDB: ; [ Nickelodeon Rugrats in Paris: The Movie aka Rugrats in Paris: The Movie (Europe) {SLES-03342} ]
+
+[One red ticket gives 999 red tickets and 999 gold tickets]
+Type = Gameshark
+Activation = EndFrame
+80018EC2 2400
+80018ECA 2400
+80018ED2 2400
+90018EDC 240203E7
+
+[Shots hit\Bowling points 999]
+Type = Gameshark
+Activation = EndFrame
+80087AA0 03E7
+
+[Items costs zero]
+Type = Gameshark
+Activation = EndFrame
+80087A50 0000
+

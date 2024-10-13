@@ -1,0 +1,86 @@
+; CHTDB: ; [ Warpath - Jurassic Park (USA) (1999) (Electronic Arts) {SLUS-00976} <warpath> ]
+
+[Level 1 P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800A53FE 0063
+
+[Level 2 P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800A425E 0063
+
+[Level 3 P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800A954E 0063
+
+[Energy Enemy is 0]
+Type = Gameshark
+Activation = EndFrame
+800A31EE 0001
+
+[Unlock All Extra Modes]
+Type = Gameshark
+Activation = EndFrame
+30030F4F 0001
+
+[Infinite Health (Both Players)]
+Type = Gameshark
+Activation = EndFrame
+80060F4A 2400
+
+[Infinite Timer]
+Type = Gameshark
+Activation = EndFrame
+8007714C 003C
+
+[Infinite Timer (Alternative)]
+Type = Gameshark
+Activation = EndFrame
+80045B7A 2400
+
+[Start On Final Stage]
+Type = Gameshark
+Activation = EndFrame
+80030EC6 0008
+
+[Unlock All Characters]
+Type = Gameshark
+Activation = EndFrame
+50000601 0000
+30030EDD 0001
+
+[Unlock All Levels]
+Type = Gameshark
+Activation = EndFrame
+50000401 0000
+30030F09 0001
+
+[P1 Only Needs 1 Win]
+Type = Gameshark
+Activation = EndFrame
+E0030EB7 0000
+30030EB7 0001
+
+[P1 Quick Win]
+Type = Gameshark
+Activation = EndFrame
+90060F3C 14800003
+80060F4A 2400
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A7041558 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A7041558 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A7041558 10000400
+

@@ -1,0 +1,97 @@
+; CHTDB: ; [ Rockman Dash: Hagane no Boukenshin (Japan) {SLPS-01141} ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800B555E 0050
+800B55A2 0050
+
+[Infinite HP / Max HP]
+Type = Gameshark
+Activation = EndFrame
+800B555E 00C0
+800B55A0 00C0
+
+[Moon Jump Press and hold X to float endlessly upward.]
+Type = Gameshark
+Activation = EndFrame
+E00B560D 0040
+800B5536 FF20
+
+[Infinite Special Weapon Energy]
+Type = Gameshark
+Activation = EndFrame
+800B5A42 0018
+
+[Time is 0.00.00]
+Type = Gameshark
+Activation = EndFrame
+900C1E6C 00000000
+
+[Infinite Weapon Power]
+Type = Gameshark
+Activation = EndFrame
+50000C08 0000
+800B59FA 0020
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+900C1E7C 0098967F
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800B5600 FF01
+
+[(Same water warfare, both dogfight) durability of the ship]
+Type = Gameshark
+Activation = EndFrame
+800C1EBC 1800
+
+[Max $]
+Type = Gameshark
+Activation = EndFrame
+900C1E7C 000F423F
+
+[Max All Stats]
+Type = Gameshark
+Activation = EndFrame
+900B59EC 07070707
+
+[In one day Maximum Buster (strongest weapon)]
+Type = Gameshark
+Activation = EndFrame
+300B5944 0011
+
+[All special weapons possession]
+Type = Gameshark
+Activation = EndFrame
+900BE760 FFFFFFFF
+
+[all key items]
+Type = Gameshark
+Activation = EndFrame
+900BE76C FFFFFFFF
+
+[all regular items]
+Type = Gameshark
+Activation = EndFrame
+900BE770 FFFFFFFF
+900BE774 FFFFFFFF
+
+[Rock-Buster Always Active]
+Type = Gameshark
+Activation = EndFrame
+300B5661 0001
+
+[Total Time = 00.00]
+Type = Gameshark
+Activation = EndFrame
+900C1E6C 00000000
+
+[Unlock All Extras]
+Type = Gameshark
+Activation = EndFrame
+900C1E78 00010001
+

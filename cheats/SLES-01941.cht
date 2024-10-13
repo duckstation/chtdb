@@ -1,0 +1,83 @@
+; CHTDB: ; [ 40 Winks (Spain) {SLES-01941} ]
+
+[Energia Infinita]
+Type = Gameshark
+Activation = EndFrame
+800B4BAC 0063
+800B4BC2 0063
+
+[Vidas Infinitas]
+Type = Gameshark
+Activation = EndFrame
+800B4BAE 0063
+800B4BC4 0063
+
+[Aire Infinito]
+Type = Gameshark
+Activation = EndFrame
+800955D6 07D0
+
+[Engranajes Infinitos]
+Type = Gameshark
+Activation = EndFrame
+800B4BAA 0063
+
+[Infinitas Lunas]
+Type = Gameshark
+Activation = EndFrame
+800B4BA8 0063
+
+[Duendes Rescatados]
+Type = Gameshark
+Activation = EndFrame
+800B4BB6 0028
+800B4BCC 0028
+
+[One hit kill Nightmare Boss]
+Type = Gameshark
+Activation = EndFrame
+D0090F72 0005
+30090F72 0001
+
+[One hit kill Underwater Boss]
+Type = Gameshark
+Activation = EndFrame
+D0093352 0006
+30093352 0001
+
+[One hit kill Space Boss]
+Type = Gameshark
+Activation = EndFrame
+D0090FD2 0007
+30090FD2 0001
+
+[One hit kill Prehistoric Boss]
+Type = Gameshark
+Activation = EndFrame
+D00908CA 0008
+300908CA 0001
+
+[One hit kill Castle Boss]
+Type = Gameshark
+Activation = EndFrame
+D00923F2 0009
+300923F2 0001
+
+[One hit kill Pirate Boss]
+Type = Gameshark
+Activation = EndFrame
+D00925D2 000A
+300925D2 0001
+
+[One hit kill Nitekap Boss]
+Type = Gameshark
+Activation = EndFrame
+D0090F72 000F
+30090F72 0001
+
+[Enable Cheat Menu (Pause the game to access the Cheat Menu option. The "Animation Viewer" seems to be broken.)]
+Type = Gameshark
+Activation = EndFrame
+3007263C 0004
+30072660 0003
+

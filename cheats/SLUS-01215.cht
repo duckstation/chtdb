@@ -1,0 +1,158 @@
+; CHTDB: ; [ Blade (USA) (2000) (Activision) {SLUS-01215} <blade> ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800C7328 0600
+
+[Always have Full Power]
+Type = Gameshark
+Activation = EndFrame
+800C3914 45E2
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+800C3998 03E7
+
+[Always have Shotgun]
+Type = Gameshark
+Activation = EndFrame
+300C38CE 0001
+
+[Always have Machine Pistol]
+Type = Gameshark
+Activation = EndFrame
+300C38D0 0001
+
+[Always have UV Laser Cannon]
+Type = Gameshark
+Activation = EndFrame
+300C38D2 0001
+
+[Always have Multi-Launcher]
+Type = Gameshark
+Activation = EndFrame
+300C38D4 0001
+
+[Always have Sword]
+Type = Gameshark
+Activation = EndFrame
+300C38D6 0001
+
+[Infinite Standard Handgun Bullets]
+Type = Gameshark
+Activation = EndFrame
+300C38D8 0064
+
+[Infinite Carbon Handgun Bullets]
+Type = Gameshark
+Activation = EndFrame
+300C38DA 0064
+
+[Infinite Standard Machine Pistol Bullets]
+Type = Gameshark
+Activation = EndFrame
+300C38DC 0064
+
+[Infinite Carbon Machine Pistol Bullets]
+Type = Gameshark
+Activation = EndFrame
+300C38DE 0064
+
+[Infinite Silver Machine Pistol Bullets]
+Type = Gameshark
+Activation = EndFrame
+300C38E0 0064
+
+[Infinite Standard Shotgun Shells]
+Type = Gameshark
+Activation = EndFrame
+300C38E2 0064
+
+[Infinite Explosive Shotgun Shells]
+Type = Gameshark
+Activation = EndFrame
+300C38E4 0064
+
+[Infinite Silver Nitrate Shotgun Shells]
+Type = Gameshark
+Activation = EndFrame
+300C38E6 0064
+
+[Infinite Multi-Launcher Bolts]
+Type = Gameshark
+Activation = EndFrame
+300C38E8 0064
+
+[Infinite Explosive Multi-Launcher Bolts]
+Type = Gameshark
+Activation = EndFrame
+300C38EA 0064
+
+[Infinite Multi-Launcher Blades]
+Type = Gameshark
+Activation = EndFrame
+300C38EC 0064
+
+[Infinite Silver Multi-Launcher Blades]
+Type = Gameshark
+Activation = EndFrame
+300C38EE 0064
+
+[Infinite Grenades]
+Type = Gameshark
+Activation = EndFrame
+300C38F0 0064
+
+[Infinite UV Grenades]
+Type = Gameshark
+Activation = EndFrame
+300C38F2 0064
+
+[Infinite Large Serum]
+Type = Gameshark
+Activation = EndFrame
+300C38F6 0064
+
+[Infinite Med-Kit]
+Type = Gameshark
+Activation = EndFrame
+300C38F8 0064
+
+[Infinite Small Serum]
+Type = Gameshark
+Activation = EndFrame
+300C38FA 0064
+
+[Infinite Health Booster]
+Type = Gameshark
+Activation = EndFrame
+300C38FC 0064
+
+[Infinite Coagulant]
+Type = Gameshark
+Activation = EndFrame
+300C38FE 0064
+
+[Infinite Energy Drink]
+Type = Gameshark
+Activation = EndFrame
+300C3900 0064
+
+[Always have All Keys + Keycards]
+Type = Gameshark
+Activation = EndFrame
+300C3908 00FF
+
+[Enable Cheat Menu]
+Type = Gameshark
+Activation = EndFrame
+800BB772 7000
+
+[Always have All Files]
+Type = Gameshark
+Activation = EndFrame
+900B7010 FFFFFFFF
+300B7014 00FF
+

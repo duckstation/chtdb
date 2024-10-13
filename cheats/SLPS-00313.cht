@@ -1,0 +1,45 @@
+; CHTDB: ; [ Mezase! Senkyuuou (Jpn) (1996) (Seibu Kaihatsu) {SLPS-00313} <mezasenk> ]
+
+[P1 Instant Win]
+Type = Gameshark
+Activation = EndFrame
+800737C0 0000
+
+[P1 Win Press Select]
+Type = Gameshark
+Activation = EndFrame
+D006F2D6 FFFE
+800737C0 0000
+
+[P2 Instant Win]
+Type = Gameshark
+Activation = EndFrame
+80073704 0000
+
+[P2 Win Press L1 + L2]
+Type = Gameshark
+Activation = EndFrame
+D006F2D6 FFFA
+80073704 0000
+
+[Score 999999]
+Type = Gameshark
+Activation = EndFrame
+90073710 0098967F
+
+[P1 No Ojama Balls]
+Type = Gameshark
+Activation = EndFrame
+80073758 0000
+
+[P2 No Ojama Balls]
+Type = Gameshark
+Activation = EndFrame
+80073814 0000
+
+[Unlock All Extras]
+Type = Gameshark
+Activation = EndFrame
+80073694 000C
+800736B0 0014
+

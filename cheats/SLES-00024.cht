@@ -1,0 +1,416 @@
+; CHTDB: ; [ Tomb Raider (Europe) {SLES-00024} ]
+
+[Infinite Energy All Levels]
+Type = Gameshark
+Activation = EndFrame
+90028D44 340403E8
+90028D48 A4440022
+
+[Infinite Air All Levels]
+Type = Gameshark
+Activation = EndFrame
+801DE092 0708
+
+[Have All Guns All Levels]
+Type = Gameshark
+Activation = EndFrame
+800887BC 0007
+50000504 0040
+800887F4 803C
+80088808 82FC
+8008880C 82BC
+
+[Gold Lara All Levels]
+Type = Gameshark
+Activation = EndFrame
+801DE0A0 FFFF
+
+[Infinite Ammo All Levels]
+Type = Gameshark
+Activation = EndFrame
+801DE124 03E7
+801DE130 03E7
+801DE13C 176F
+
+[All Items All Levels]
+Type = Gameshark
+Activation = EndFrame
+50000602 0000
+800887C8 03E7
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801768C6 03E8
+
+[Infinite Energy Level 1-3]
+Type = Gameshark
+Activation = EndFrame
+800881D0 03E8
+80194AF6 03E8
+
+[Infinite Energy Level 4]
+Type = Gameshark
+Activation = EndFrame
+8017692A 03E8
+
+[Infinite Energy Level 5]
+Type = Gameshark
+Activation = EndFrame
+800881D0 03E8
+80188656 03E8
+
+[Infinite Energy Level 6]
+Type = Gameshark
+Activation = EndFrame
+800881D0 03E8
+8018EE86 03E8
+
+[Infinite Energy Level 7]
+Type = Gameshark
+Activation = EndFrame
+800881D0 03E8
+8019D676 03E8
+
+[Infinite Energy Level 8]
+Type = Gameshark
+Activation = EndFrame
+800881D0 03E8
+801ABAF2 03E8
+
+[Infinite Energy Level 9]
+Type = Gameshark
+Activation = EndFrame
+800881D0 03E8
+801A05CE 03E8
+
+[Infinite Energy Level 10]
+Type = Gameshark
+Activation = EndFrame
+801821BA 03E8
+
+[Infinite Energy Level 11]
+Type = Gameshark
+Activation = EndFrame
+800881D0 03E8
+80189872 03E8
+
+[Infinite Energy Level 12]
+Type = Gameshark
+Activation = EndFrame
+800881D0 03E8
+8018F32A 03E8
+
+[Infinite Energy Level 13]
+Type = Gameshark
+Activation = EndFrame
+800881D0 03E8
+8019F0CA 03E8
+
+[Infinite Energy Level 14]
+Type = Gameshark
+Activation = EndFrame
+8019C6D6 03E8
+
+[Infinite Energy Level 15]
+Type = Gameshark
+Activation = EndFrame
+800881D0 03E8
+801A331A 03E8
+
+[Infinite Shotgun Shells]
+Type = Gameshark
+Activation = EndFrame
+8003369C 0000
+
+[Infinite Magnum Rounds]
+Type = Gameshark
+Activation = EndFrame
+801DE2E0 03E8
+
+[Infinite Uzi Rounds]
+Type = Gameshark
+Activation = EndFrame
+801DE2EC 03E8
+
+[Magnum-Clips=00Xx]
+Type = Gameshark
+Activation = EndFrame
+800887CA 00FF
+
+[Uzi-Clips=00Xx]
+Type = Gameshark
+Activation = EndFrame
+800887CC 00FF
+
+[Big Medi-Kits=00Xx]
+Type = Gameshark
+Activation = EndFrame
+800887CE 00FF
+
+[Shotgun Shells=00Xx]
+Type = Gameshark
+Activation = EndFrame
+801DE13C 00FF
+
+[Infinite Big Medi-Kits]
+Type = Gameshark
+Activation = EndFrame
+8002C3D0 0000
+
+[Select Level\1]
+Type = Gameshark
+Activation = EndFrame
+80027F38 0000
+800876F8 0001
+
+[Select Level\2]
+Type = Gameshark
+Activation = EndFrame
+80027F38 0000
+800876F8 0002
+
+[Select Level\3]
+Type = Gameshark
+Activation = EndFrame
+80027F38 0000
+800876F8 0003
+
+[Select Level\4]
+Type = Gameshark
+Activation = EndFrame
+80027F38 0000
+800876F8 0004
+
+[Select Level\5]
+Type = Gameshark
+Activation = EndFrame
+80027F38 0000
+800876F8 0005
+
+[Select Level\6]
+Type = Gameshark
+Activation = EndFrame
+80027F38 0000
+800876F8 0006
+
+[Select Level\7]
+Type = Gameshark
+Activation = EndFrame
+80027F38 0000
+800876F8 0007
+
+[Select Level\8]
+Type = Gameshark
+Activation = EndFrame
+80027F38 0000
+800876F8 0008
+
+[Select Level\9]
+Type = Gameshark
+Activation = EndFrame
+80027F38 0000
+800876F8 0009
+
+[Select Level\10]
+Type = Gameshark
+Activation = EndFrame
+80027F38 0000
+800876F8 000A
+
+[Select Level\11]
+Type = Gameshark
+Activation = EndFrame
+80027F38 0000
+800876F8 000B
+
+[Select Level\12]
+Type = Gameshark
+Activation = EndFrame
+80027F38 0000
+800876F8 000C
+
+[Select Level\13]
+Type = Gameshark
+Activation = EndFrame
+80027F38 0000
+800876F8 000D
+
+[Select Level\14]
+Type = Gameshark
+Activation = EndFrame
+80027F38 0000
+800876F8 000E
+
+[Select Level\15]
+Type = Gameshark
+Activation = EndFrame
+80027F38 0000
+800876F8 000F
+
+[All levels unlocked when loading a saved game V 1.1]
+Type = Gameshark
+Activation = EndFrame
+A6028930 08210013
+A6028932 00322402
+
+[Have all weapons and medi-kits V 1.1]
+Type = Gameshark
+Activation = EndFrame
+800887BC 0008
+
+[Infiinite Oxigen V 1.1]
+Type = Gameshark
+Activation = EndFrame
+80033EA2 2400
+
+[Infinite Health V 1.1 Level 1]
+Type = Gameshark
+Activation = EndFrame
+801768C6 03E8
+
+[Infinite Health V 1.1 Level 2]
+Type = Gameshark
+Activation = EndFrame
+80181496 03E8
+
+[Infinite Health V 1.1 Level 3]
+Type = Gameshark
+Activation = EndFrame
+8019493A 03E8
+
+[Infinite Health V 1.1 Level 4]
+Type = Gameshark
+Activation = EndFrame
+8017676E 03E8
+
+[Infinite Health V 1.1 Level 5]
+Type = Gameshark
+Activation = EndFrame
+8018849A 03E8
+
+[Infinite Health V 1.1 Level 6]
+Type = Gameshark
+Activation = EndFrame
+8018ECCA 03E8
+
+[Infinite Health V 1.1 Level 7]
+Type = Gameshark
+Activation = EndFrame
+8019D4BA 03E8
+
+[Infinite Health V 1.1 Level 8]
+Type = Gameshark
+Activation = EndFrame
+801AB936 03E8
+
+[Infinite Health V 1.1 Level 9]
+Type = Gameshark
+Activation = EndFrame
+801A0412 03E8
+
+[Infinite Health V 1.1 Level 10]
+Type = Gameshark
+Activation = EndFrame
+80181FFE 03E8
+
+[Infinite Health V 1.1 Level 11]
+Type = Gameshark
+Activation = EndFrame
+801896B6 03E8
+
+[Infinite Health V 1.1 Level 12]
+Type = Gameshark
+Activation = EndFrame
+8018F16E 03E8
+
+[Infinite Health V 1.1 Level 13]
+Type = Gameshark
+Activation = EndFrame
+8019EF0E 03E8
+
+[Infinite Health V 1.1 Level 14]
+Type = Gameshark
+Activation = EndFrame
+8019C51A 03E8
+
+[Infinite Health V 1.1 Level 15]
+Type = Gameshark
+Activation = EndFrame
+801A315E 03E8
+
+[Select Level (V1.1)\1]
+Type = Gameshark
+Activation = EndFrame
+300876FC 0001
+
+[Select Level (V1.1)\2]
+Type = Gameshark
+Activation = EndFrame
+300876FC 0002
+
+[Select Level (V1.1)\3]
+Type = Gameshark
+Activation = EndFrame
+300876FC 0003
+
+[Select Level (V1.1)\4]
+Type = Gameshark
+Activation = EndFrame
+300876FC 0004
+
+[Select Level (V1.1)\5]
+Type = Gameshark
+Activation = EndFrame
+300876FC 0005
+
+[Select Level (V1.1)\6]
+Type = Gameshark
+Activation = EndFrame
+300876FC 0006
+
+[Select Level (V1.1)\7]
+Type = Gameshark
+Activation = EndFrame
+300876FC 0007
+
+[Select Level (V1.1)\8]
+Type = Gameshark
+Activation = EndFrame
+300876FC 0008
+
+[Select Level (V1.1)\9]
+Type = Gameshark
+Activation = EndFrame
+300876FC 0009
+
+[Select Level (V1.1)\10]
+Type = Gameshark
+Activation = EndFrame
+300876FC 000A
+
+[Select Level (V1.1)\11]
+Type = Gameshark
+Activation = EndFrame
+300876FC 000B
+
+[Select Level (V1.1)\12]
+Type = Gameshark
+Activation = EndFrame
+300876FC 000C
+
+[Select Level (V1.1)\13]
+Type = Gameshark
+Activation = EndFrame
+300876FC 000D
+
+[Select Level (V1.1)\14]
+Type = Gameshark
+Activation = EndFrame
+300876FC 000E
+
+[Select Level (V1.1)\15]
+Type = Gameshark
+Activation = EndFrame
+300876FC 000F
+

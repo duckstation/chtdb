@@ -1,0 +1,22 @@
+; CHTDB: ; [ Bishi Bashi Special (Europe) {SLES-02537} ]
+
+[P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800727C0 0003
+
+[P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800728F4 0003
+
+[Hyper Bishi Bashi - Infinite Tries]
+Type = Gameshark
+Activation = EndFrame
+80062908 0002
+
+[Super Bishi Bashi - Infinite Tries]
+Type = Gameshark
+Activation = EndFrame
+800727C0 0002
+

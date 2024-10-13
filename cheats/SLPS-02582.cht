@@ -1,0 +1,52 @@
+; CHTDB: ; [ Crazy Climber 2000 (Jpn) (2000) (Nihon Bussan) {SLPS-02582} <cclimb2k> ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80075648 0003
+
+[Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+80078158 0009
+
+[Max Score]
+Type = Gameshark
+Activation = EndFrame
+8007813C FFFF
+
+[Infinite Fall]
+Type = Gameshark
+Activation = EndFrame
+8007815C 0009
+
+[Select Stage\1]
+Type = Gameshark
+Activation = EndFrame
+80078134 0000
+
+[Select Stage\2]
+Type = Gameshark
+Activation = EndFrame
+80078134 0001
+
+[Select Stage\3]
+Type = Gameshark
+Activation = EndFrame
+80078134 0002
+
+[Select Stage\4]
+Type = Gameshark
+Activation = EndFrame
+80078134 0003
+
+[Original Mode\Max Score]
+Type = Gameshark
+Activation = EndFrame
+8004B700 FFFF
+
+[Original Mode\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8004B720 0005
+

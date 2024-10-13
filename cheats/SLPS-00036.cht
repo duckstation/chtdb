@@ -1,0 +1,34 @@
+; CHTDB: ; [ Vampire: The Night Warriors (Japan) {SLPS-00036} ]
+
+[P1 Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800BDD5C 0090
+800CD3FC 0090
+
+[P1 Select Character\Phobos]
+Type = Gameshark
+Activation = EndFrame
+300CD39D 000B
+
+[P2 Select Character\Phobos]
+Type = Gameshark
+Activation = EndFrame
+300CD771 000B
+
+[P1 Select Character\Pyron]
+Type = Gameshark
+Activation = EndFrame
+300CD39D 000C
+
+[P2 Select Character\Pyron]
+Type = Gameshark
+Activation = EndFrame
+300CD711 000C
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800CD5D2 FF7F
+800CDAB6 0063
+

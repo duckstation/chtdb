@@ -1,0 +1,167 @@
+; CHTDB: ; [ Pandora Max Series Vol. 3: Rubbish Blazon (Japan) {SLPS-02637} ]
+
+[Infinite & Max HP Character 1 out of battle]
+Type = Gameshark
+Activation = EndFrame
+8009EF09 03E7
+8009EF0B 03E7
+
+[Infinite & Max MP Character 1 out of battle]
+Type = Gameshark
+Activation = EndFrame
+8009EF0D 03E7
+8009EF0F 03E7
+
+[Max Money]
+Type = Gameshark
+Activation = EndFrame
+8009E4EA 967F
+8009E4EC 0098
+
+[Alfred Infinite & Max HP]
+Type = Gameshark
+Activation = EndFrame
+3009EF09 00E7
+3009EF0A 0003
+3009EF0B 00E7
+3009EF0C 0003
+
+[Alfred Infinite & Max EP]
+Type = Gameshark
+Activation = EndFrame
+3009EF0D 00E7
+3009EF0E 0003
+3009EF0F 00E7
+3009EF10 0003
+
+[Irisha Infinite & Max HP]
+Type = Gameshark
+Activation = EndFrame
+9009EF24 03E703E7
+
+[Irisha Infinite & Max EP]
+Type = Gameshark
+Activation = EndFrame
+9009EF28 03E703E7
+
+[Forukyuasu Infinite & Max HP]
+Type = Gameshark
+Activation = EndFrame
+3009EF3F 00E7
+3009EF40 0003
+3009EF41 00E7
+3009EF42 0003
+
+[Forukyuasu Infinite & Max EP]
+Type = Gameshark
+Activation = EndFrame
+3009EF43 00E7
+3009EF44 0003
+3009EF45 00E7
+3009EF46 0003
+
+[Stein Infinite & Max HP]
+Type = Gameshark
+Activation = EndFrame
+8009EF5A 03E7
+8009EF5C 03E7
+
+[Stein Infinite & Max EP]
+Type = Gameshark
+Activation = EndFrame
+8009EF5E 03E7
+8009EF60 03E7
+
+[None Encounter]
+Type = Gameshark
+Activation = EndFrame
+80086548 0000
+
+[No random Battles encounter with the enemy above + L1]
+Type = Gameshark
+Activation = EndFrame
+80086548 0000
+D0089108 0410
+80086548 7000
+
+[Have 99 od all items]
+Type = Gameshark
+Activation = EndFrame
+D0019E1A 2402
+80019E18 0063
+D0019E34 0002
+80019E36 A102
+
+[Bonus fully open]
+Type = Gameshark
+Activation = EndFrame
+8009E972 FFFF
+9009E974 FFFFFFFF
+8009E98A FFFF
+9009E98C FFFFFFFF
+8009E990 FFFF
+D009E9F0 0000
+3009E9F1 0070
+
+[Mini-game score of MAX bonus]
+Type = Gameshark
+Activation = EndFrame
+3009EB65 009F
+8009EB66 0186
+
+[Skill list of fully open dictionary use with bonus fully open code]
+Type = Gameshark
+Activation = EndFrame
+3009EA71 00FF
+8009EA72 FFFF
+8009EA74 FFFF
+9009EA7C FFFFFFFF
+8009EA8A FFFF
+8009EA96 FFFF
+
+[Magic list of fully open dictionary use with bonus fully open code]
+Type = Gameshark
+Activation = EndFrame
+3009EA7D 00FF
+3009EA7E 00FF
+3009EAA3 00FF
+3009EAAF 00FF
+3009EABC 00FF
+3009EAC8 00FF
+3009EAD5 00FF
+3009EAE1 00FF
+3009EAE2 00FF
+8009EAEE FFFF
+
+[Monster list of fully open dictionary use with bonus fully open code]
+Type = Gameshark
+Activation = EndFrame
+3009EAF1 00FF
+8009EAF2 FFFF
+9009EAF4 FFFFFFFF
+9009EAF8 FFFFFFFF
+3009EB11 00FF
+8009EB12 FFFF
+9009EB14 FFFFFFFF
+9009EB18 FFFFFFFF
+
+[Fully open item list of dictionary use with bonus fully open code]
+Type = Gameshark
+Activation = EndFrame
+9009E9F4 FFFFFFFF
+9009E9F8 FFFFFFFF
+9009E9FC FFFFFFFF
+9009EA00 FFFFFFFF
+9009EA0C FFFFFFFF
+8009EA10 FFFF
+9009EA18 FFFFFFFF
+9009EA1C FFFFFFFF
+8009EA26 FFFF
+8009EA32 FFFF
+8009EA3E FFFF
+8009EA40 FFFF
+8009EA4A FFFF
+8009EA4C FFFF
+9009EA64 FFFFFFFF
+9009EA68 FFFFFFFF
+

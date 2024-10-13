@@ -1,0 +1,157 @@
+; CHTDB: ; [ Langrisser IV & V Final Edition (Jpn) (1999) (Masaya) {SLPS-01818~SLPS-01819} <langr45> ]
+
+[1 Fight For Level Up]
+Type = Gameshark
+Activation = EndFrame
+50000AE4 0000
+3011856D 0001
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+800DC380 FFFF
+
+[Hero\Level]
+Type = Gameshark
+Activation = EndFrame
+3011856C 000A
+
+[Hero\Max Exp]
+Type = Gameshark
+Activation = EndFrame
+8011856E FFFF
+
+[Hero\Status]
+Type = Gameshark
+Activation = EndFrame
+30118570 00FF
+30118574 0063
+
+[Hero\At]
+Type = Gameshark
+Activation = EndFrame
+3011862D 0063
+
+[Hero\Df]
+Type = Gameshark
+Activation = EndFrame
+30118630 0063
+
+[Hero\A+]
+Type = Gameshark
+Activation = EndFrame
+30118571 0063
+
+[Hero\D+]
+Type = Gameshark
+Activation = EndFrame
+30118572 0063
+
+[Hero\Mp]
+Type = Gameshark
+Activation = EndFrame
+30118575 0063
+30118576 0063
+
+[Hero\M+]
+Type = Gameshark
+Activation = EndFrame
+30118573 0063
+
+[Hero\Move]
+Type = Gameshark
+Activation = EndFrame
+30118633 0063
+30118634 0063
+
+[Hero\Attack Status]
+Type = Gameshark
+Activation = EndFrame
+90118598 63636363
+9011859C 63636363
+
+[Hero\Unit Hero Invincibility]
+Type = Gameshark
+Activation = EndFrame
+90118610 0A0A0A0A
+80118614 0A0A
+30118616 000A
+
+[Secondary\Level]
+Type = Gameshark
+Activation = EndFrame
+30118650 000A
+
+[Secondary\Max Exp]
+Type = Gameshark
+Activation = EndFrame
+80118652 FFFF
+
+[Secondary\Status]
+Type = Gameshark
+Activation = EndFrame
+30118654 00FF
+30118658 0063
+
+[Secondary\At]
+Type = Gameshark
+Activation = EndFrame
+30118711 0063
+
+[Secondary\Df]
+Type = Gameshark
+Activation = EndFrame
+30118714 0063
+
+[Secondary\A+]
+Type = Gameshark
+Activation = EndFrame
+30118655 0063
+
+[Secondary\D+]
+Type = Gameshark
+Activation = EndFrame
+30118656 0063
+
+[Secondary\Mp]
+Type = Gameshark
+Activation = EndFrame
+30118659 0063
+3011865A 0063
+
+[Secondary\M+]
+Type = Gameshark
+Activation = EndFrame
+30118657 0063
+
+[Secondary\Move]
+Type = Gameshark
+Activation = EndFrame
+30118717 0063
+30118718 0063
+
+[Secondary\Attack Status]
+Type = Gameshark
+Activation = EndFrame
+9011867C 63636363
+90118680 63636363
+
+[Secondary\Unit Hero Invincibility]
+Type = Gameshark
+Activation = EndFrame
+901186F4 0A0A0A0A
+801186F8 0A0A
+301186FA 000A
+
+[Secondary\Item]
+Type = Gameshark
+Activation = EndFrame
+50006002 0001
+80114698 FF01
+
+[Added bonus It is (does not affect the save data) and press L2 + R2 button on the menu screen from the title screen, From the voice actor is added to the configuration in the house]
+Type = Gameshark
+Activation = EndFrame
+D00DC328 0003
+800DC1C0 0100
+

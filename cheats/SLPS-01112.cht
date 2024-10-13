@@ -1,0 +1,23 @@
+; CHTDB: ; [ Neorude 2 (Jpn) (1997) (TechnoSoft) {SLPS-01112} <neorude2> ]
+
+[Infinite HP Til]
+Type = Gameshark
+Activation = EndFrame
+901BB770 03E703E7
+801BBCEE 03E7
+801BBCF0 03E7
+
+[Infinite HP Aria Highland]
+Type = Gameshark
+Activation = EndFrame
+901BB7C0 03E703E7
+801BC3EE 03E7
+801BC3F0 03E7
+
+[Infinite HP Rufrain Love]
+Type = Gameshark
+Activation = EndFrame
+901BB810 03E703E7
+801BCAAE 03E7
+801BCAF0 03E7
+

@@ -1,0 +1,29 @@
+; CHTDB: ; [ Time Bokan Series: Bokan desu yo (Japan) {SLPS-01211} ]
+
+[Infinite Continues]
+Type = Gameshark
+Activation = EndFrame
+8008EB34 000A
+
+[P1 Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+80106C5E 0004
+
+[P1 Infinite Special Attack]
+Type = Gameshark
+Activation = EndFrame
+80106BE6 0096
+80106BE8 0096
+
+[P2 Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+80106D2A 0004
+
+[P2 Infinite Special Attack]
+Type = Gameshark
+Activation = EndFrame
+80106CB2 0096
+80106CB4 0096
+

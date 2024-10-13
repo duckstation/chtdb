@@ -1,0 +1,34 @@
+; CHTDB: ; [ Star Wars: Episode I: Die dunkle Bedrohung (Germany) {SLES-02036} ]
+
+[Unendlich Munition für alle]
+Type = Gameshark
+Activation = EndFrame
+8004E316 3C00
+
+[Unbesiegbar (alle Charaktere)]
+Type = Gameshark
+Activation = EndFrame
+300B6E84 0001
+
+[Maximale Macht-Energie]
+Type = Gameshark
+Activation = EndFrame
+800B87DC 1000
+
+[Habe alle Gegenstände]
+Type = Gameshark
+Activation = EndFrame
+50000302 0000
+800B80B2 FFFF
+
+[Zeit eingefroren]
+Type = Gameshark
+Activation = EndFrame
+800B45D6 0000
+
+[Cheat Menü offen (L1+L2 drücken)]
+Type = Gameshark
+Activation = EndFrame
+D0087750 0005
+300B3F90 0004
+

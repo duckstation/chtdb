@@ -1,0 +1,22 @@
+; CHTDB: ; [ Treasures of the Deep (Spain) (Promo) {SCES-01073} ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800B9AED 00EA
+
+[Infinite Oxygen]
+Type = Gameshark
+Activation = EndFrame
+80116F08 0168
+
+[Have always 99 nets]
+Type = Gameshark
+Activation = EndFrame
+80040AB8 0063
+
+[Have 990000000 money]
+Type = Gameshark
+Activation = EndFrame
+9004082C 3B023380
+

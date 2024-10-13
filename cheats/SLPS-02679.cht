@@ -1,0 +1,38 @@
+; CHTDB: ; [ Rally de Europe (Jpn) (2000) (Prism Arts) {SLPS-02679} <rallyeur> ]
+
+[Unlock Rally De Africa]
+Type = Gameshark
+Activation = EndFrame
+801114B0 0001
+
+[Unlock All Tracks In Spot Races]
+Type = Gameshark
+Activation = EndFrame
+9011096C 00010001
+
+[Unlock All Classes Championship Mode]
+Type = Gameshark
+Activation = EndFrame
+90110960 00010001
+80110964 0001
+
+[Rossini-Codes Time 00.00.00 (1St)]
+Type = Gameshark
+Activation = EndFrame
+800C51EC 0000
+
+[Tylor-Codes Time 00.00.00 (1St)]
+Type = Gameshark
+Activation = EndFrame
+800C5B70 0000
+
+[Verlaine-Codes Time 00.00.00 (1St)]
+Type = Gameshark
+Activation = EndFrame
+800C64F4 0000
+
+[Verlaine cars Time 0]
+Type = Gameshark
+Activation = EndFrame
+800C6E79-0001
+

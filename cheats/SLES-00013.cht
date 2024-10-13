@@ -1,0 +1,45 @@
+; CHTDB: ; [ Loaded (Europe) (Platinum) {SLES-00013} ]
+
+[P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800CDF42 001E
+
+[P1 Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+800CDF3E 03E8
+
+[P1 Infinite Guns]
+Type = Gameshark
+Activation = EndFrame
+800CDF40 0003
+
+[P1 Max Power-Up]
+Type = Gameshark
+Activation = EndFrame
+800CDF3C 7FFF
+
+[P2 Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+D004B138 0002
+800CDFC6 03E8
+
+[P2 Infinite Guns]
+Type = Gameshark
+Activation = EndFrame
+D004B138 0002
+800CDFC8 0003
+
+[P2 Max Power-Up]
+Type = Gameshark
+Activation = EndFrame
+D004B138 0002
+800CDFC4 7FFF
+
+[All Keys]
+Type = Gameshark
+Activation = EndFrame
+80107AC4 000F
+

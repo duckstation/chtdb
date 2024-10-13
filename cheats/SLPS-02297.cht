@@ -1,0 +1,30 @@
+; CHTDB: ; [ Hole of the Legend Monster - Densetsu Kemono no Ana - Monster Complete World Ver.2 (Jpn) (1999) (Idea Factory) {SLPS-02297} <monstcw2> ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+90129BCC 0001869F
+
+[Infinite Energy Pet 1]
+Type = Gameshark
+Activation = EndFrame
+801EF52E 03E7
+80130C88 03E7
+
+[All illustrations]
+Type = Gameshark
+Activation = EndFrame
+5000B401 0000
+30170641 0002
+
+[Command of the into a friend can be selected Infinite Times]
+Type = Gameshark
+Activation = EndFrame
+30152D70 0000
+30153358 0000
+
+[Star Stone 99]
+Type = Gameshark
+Activation = EndFrame
+30129BD4 0063
+

@@ -1,0 +1,8 @@
+; CHTDB: ; [ Nanatsu no Hikan (Jpn) (1996) (Koei) {SLPS-00410~SLPS-00412} <nanatsu> ]
+
+[Infinite Health (Deactivate after sending it)]
+Type = Gameshark
+Activation = EndFrame
+800C3DD7 6400
+800C3DD8 0064
+

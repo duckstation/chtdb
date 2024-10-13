@@ -1,0 +1,72 @@
+; CHTDB: ; [ Dynasty Warriors (Europe) {SLES-00885} ]
+
+[Stop Round-Timer]
+Type = Gameshark
+Activation = EndFrame
+800B7EC0 0BB8
+
+[Stop Stage-Timer]
+Type = Gameshark
+Activation = EndFrame
+800B7EC4 0000
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800B2920 00C8
+
+[P1 25% Energy]
+Type = Gameshark
+Activation = EndFrame
+A60B2920 00C80032
+
+[P1 50% Energy]
+Type = Gameshark
+Activation = EndFrame
+A60B2920 00C80064
+
+[P1 75% Energy]
+Type = Gameshark
+Activation = EndFrame
+A60B2920 00C80096
+
+[P1 No Energy]
+Type = Gameshark
+Activation = EndFrame
+800B2920 0000
+
+[P1 1-Hit Death]
+Type = Gameshark
+Activation = EndFrame
+A60B2920 00C80001
+
+[P2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800B3290 00C8
+
+[P2 25% Energy]
+Type = Gameshark
+Activation = EndFrame
+A60B3290 00C80032
+
+[P2 50% Energy]
+Type = Gameshark
+Activation = EndFrame
+A60B3290 00C80064
+
+[P2 75% Energy]
+Type = Gameshark
+Activation = EndFrame
+A60B3290 00C80096
+
+[P2 No Energy]
+Type = Gameshark
+Activation = EndFrame
+800B3290 0000
+
+[P2 1-Hit Death]
+Type = Gameshark
+Activation = EndFrame
+A60B3290 00C80001
+

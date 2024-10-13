@@ -1,0 +1,28 @@
+; CHTDB: ; [ Azure Dreams (USA) (1998) (Konami of America) {SLUS-00614} <azuredrm> ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+90012D5C 05FFFFFF
+
+[Invincibility in battle]
+Type = Gameshark
+Activation = EndFrame
+800834EA 031D
+
+[Infinite Health in Battle]
+Type = Gameshark
+Activation = EndFrame
+800834E0 03E7
+
+[Walk through Walls Etc (Press R3 to toggle ON/OFF)]
+Description = And Jump over certain obstacles, cheat wont let you go past certain defined game points and best to keep it OFF when indoors
+Type = Gameshark
+Activation = EndFrame
+D7010001 01000400
+F508CA76 10401000
+F5096E1E 10401000
+F508CB12 10401000
+F5096346 14601000
+F50962EA 14601000
+

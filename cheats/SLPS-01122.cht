@@ -1,0 +1,137 @@
+; CHTDB: ; [ Blue Breaker: Egao no Yakusoku (Japan) {SLPS-01122} ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+901FBED8 000F869F
+
+[Infinite HP Character 1]
+Type = Gameshark
+Activation = EndFrame
+901E9380 03E703E7
+
+[Infinite EP Character 1]
+Type = Gameshark
+Activation = EndFrame
+901E9384 03E703E7
+
+[LV 99 Character 1]
+Type = Gameshark
+Activation = EndFrame
+301E938C 0063
+
+[Infinite HP Character 2]
+Type = Gameshark
+Activation = EndFrame
+901E93B8 03E703E7
+
+[Infinite EP Character 2]
+Type = Gameshark
+Activation = EndFrame
+901E93BC 03E703E7
+
+[Infinite HP Character 3 (Guardian girl 2)]
+Type = Gameshark
+Activation = EndFrame
+901E93F0 03E703E7
+
+[Infinite EP Character 3 (Guardian girl 2)]
+Type = Gameshark
+Activation = EndFrame
+901E93F4 03E703E7
+
+[None encounter]
+Type = Gameshark
+Activation = EndFrame
+301E8F59 0007
+
+[Guardian of light]
+Type = Gameshark
+Activation = EndFrame
+301E9394 0000
+
+[Guardian of fire]
+Type = Gameshark
+Activation = EndFrame
+301E9394 0001
+
+[Guardian of water]
+Type = Gameshark
+Activation = EndFrame
+301E9394 0002
+
+[Guardian of wind]
+Type = Gameshark
+Activation = EndFrame
+301E9394 0003
+
+[Guardian of earth]
+Type = Gameshark
+Activation = EndFrame
+301E9394 0004
+
+[Guardian of darkness]
+Type = Gameshark
+Activation = EndFrame
+301E9394 0005
+
+[Favorability Max Asha]
+Type = Gameshark
+Activation = EndFrame
+801E9790 7FFF
+
+[Favorability Max The Karumi]
+Type = Gameshark
+Activation = EndFrame
+801E97A0 7FFF
+
+[Favorability Max Sage]
+Type = Gameshark
+Activation = EndFrame
+801E97B0 7FFF
+
+[Favorability Max Turner]
+Type = Gameshark
+Activation = EndFrame
+801E97C0 7FFF
+
+[Favorability Max The Naruta]
+Type = Gameshark
+Activation = EndFrame
+801E97D0 7FFF
+
+[Favorability Max The Hamyun]
+Type = Gameshark
+Activation = EndFrame
+801E97E0 7FFF
+
+[Favorability Max Maya]
+Type = Gameshark
+Activation = EndFrame
+801E97F0 7FFF
+
+[Favorability Max Yamu]
+Type = Gameshark
+Activation = EndFrame
+801E9800 7FFF
+
+[Favorability Max The Ramiyu]
+Type = Gameshark
+Activation = EndFrame
+801E9810 7FFF
+
+[Favorability Max Wise]
+Type = Gameshark
+Activation = EndFrame
+801E9820 7FFF
+
+[Favorability Max Degradation]
+Type = Gameshark
+Activation = EndFrame
+801E9830 7FFF
+
+[Favorability Max The Inaru]
+Type = Gameshark
+Activation = EndFrame
+801E9840 7FFF
+

@@ -1,0 +1,36 @@
+; CHTDB: ; [ The Dukes of Hazzard: Racing for Home (Europe) {SLES-02343} ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+D0067EDC 0001
+80067EDE 0000
+A6067EDC 00010000
+
+[Infinite Power-Ups(after pick-up)]
+Type = Gameshark
+Activation = EndFrame
+D00572B8 FFFF
+800572BC 0000
+D00572B8 FFFF
+800572BE 0000
+
+[No Tire-Damage]
+Type = Gameshark
+Activation = EndFrame
+D0057E96 0051
+80057E94 0000
+A6057E96 00510000
+
+[No Body-Damage]
+Type = Gameshark
+Activation = EndFrame
+D0057F1A 0044
+80057F18 0000
+A6057F1A 00440000
+
+[Jesse's Truck all damaged]
+Type = Gameshark
+Activation = EndFrame
+80109B04 011D
+

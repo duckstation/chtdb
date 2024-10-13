@@ -1,0 +1,19 @@
+; CHTDB: ; [ Twilight Syndrome: Saikai (Japan) {SLPS-02850} ]
+
+[All Scenarios can be selected]
+Type = Gameshark
+Activation = EndFrame
+8007560A FFFF
+
+[All scenes can be selected]
+Type = Gameshark
+Activation = EndFrame
+A70836AE 14401400
+A7081126 10401400
+A70811CA 10401400
+
+[All course selection possible]
+Type = Gameshark
+Activation = EndFrame
+A708144A 10401400
+

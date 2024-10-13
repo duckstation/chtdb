@@ -1,0 +1,47 @@
+; CHTDB: ; [ Rapid Racer (Japan) {SCPS-10060} ]
+
+[P1 Infinite Jets And No Damage]
+Type = Gameshark
+Activation = EndFrame
+8010172C 0000
+80101736 0003
+80101740 0003
+
+[P2 Infinite Jets And No Damage]
+Type = Gameshark
+Activation = EndFrame
+8010207C 0000
+80102086 0003
+80102090 0003
+
+[The end of the race in one week]
+Type = Gameshark
+Activation = EndFrame
+301014F0 0002
+
+[Always first Place]
+Type = Gameshark
+Activation = EndFrame
+30101501 0001
+
+[All boat available]
+Type = Gameshark
+Activation = EndFrame
+300EB151 0001
+800EB152 0101
+800EB154 0101
+
+[Duck Mode ON Player's boat looks like a rubber ducky.]
+Type = Gameshark
+Activation = EndFrame
+800EB0B0 0004
+
+[Unlock All Extras]
+Type = Gameshark
+Activation = EndFrame
+300EB103 0003
+50000902 0000
+800EB136 0606
+50000501 0000
+300EB151 0001
+

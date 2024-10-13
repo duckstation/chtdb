@@ -1,0 +1,104 @@
+; CHTDB: ; [ Tomb Raider Chronicles (USA) (2000) (Eidos Interactive) {SLUS-01311} <traid5> ]
+
+[Infinite Bottles Of Chloroform]
+Type = Gameshark
+Activation = EndFrame
+300A7313 0009
+
+[Infinite Oxygen]
+Type = Gameshark
+Activation = EndFrame
+800A71FE 0708
+
+[Level Access Menu Press L1+L2 at the title screen that says 'New Game'. Pressing the Triangle button will exit back to 'New Game'.]
+Type = Gameshark
+Activation = EndFrame
+D00A603A F5FF
+800A2826 0002
+
+[Cutscene Access Menu]
+Type = Gameshark
+Activation = EndFrame
+D00A603A FAFF
+800A2822 0002
+
+[Infinite Health (All Levels)]
+Type = Gameshark
+Activation = EndFrame
+90007600 8C213AA4
+90007604 340203E8
+90007608 0801AAA4
+9000760C A4220022
+D006A7CC BB42
+9006A7C8 0C001D80
+
+[Infinite Large Medipacks]
+Type = Gameshark
+Activation = EndFrame
+800A732C FFFF
+
+[Colloseum\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801BB992 03E8
+
+[Deapsea Dive\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80184CC2 03E8
+
+[Escape With The Iris\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801CC196 03E8
+
+[Gallows Tree\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801C3A56 03E8
+
+[Labyrinth\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801D2BE6 03E8
+
+[Red Alert + Security Breach\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801C4D7E 03E8
+
+[Sinkinig Submarine\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801D8B6E 03E8
+
+[Streets Of Rome\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801CB7B2 03E8
+
+[The 13th Floor\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801CDE22 03E8
+
+[The Base\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801D2FFE 03E8
+
+[The Old Mill\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801C7E2A 03E8
+
+[The Submarine\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801D3152 03E8
+
+[Trajans Markets\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801D2126 03E8
+

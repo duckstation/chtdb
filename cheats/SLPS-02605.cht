@@ -1,0 +1,49 @@
+; CHTDB: ; [ Kensetsu Kikai Simulator: Kenki Ippai! (Japan) {SLPS-02605} ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80015B08 0000
+
+[License acquisition hydraulic excavator]
+Type = Gameshark
+Activation = EndFrame
+801A4B40 0064
+801A4B44 0064
+801A4B48 0064
+801A4B4C 0064
+
+[License acquisition dump truck]
+Type = Gameshark
+Activation = EndFrame
+801A4B50 0064
+801A4B54 0064
+801A4B58 0064
+
+[License acquisition wheel loader]
+Type = Gameshark
+Activation = EndFrame
+801A4B60 0064
+801A4B64 0064
+801A4B68 0064
+
+[License acquisition bulldozer]
+Type = Gameshark
+Activation = EndFrame
+801A4B70 0064
+801A4B74 0064
+801A4B78 0064
+
+[License acquisition rough terrain crane Len]
+Type = Gameshark
+Activation = EndFrame
+801A4B80 0064
+801A4B84 0064
+801A4B88 0064
+801A4B8C 0064
+
+[The whole process is complete]
+Type = Gameshark
+Activation = EndFrame
+801A4B94 0008
+

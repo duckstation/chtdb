@@ -1,0 +1,470 @@
+; CHTDB: ; [ The Legend of Dragoon (USA) (2000) (Sony Computer Entertainment America) {SCUS-94491 / SCUS-94584 / SCUS-94585 / SCUS-94586} <ldragoon> ]
+
+[In-Battle\Infinite HP (All Characters)]
+Type = Gameshark
+Activation = EndFrame
+C00CCDEC 1021
+900CCDE0 24010002
+900CCDE4 10270005
+800CCDEE 2400
+00000000 FFFF
+
+[In-Battle\Infinite MP (All Characters)]
+Type = Gameshark
+Activation = EndFrame
+D00F5484 000C
+800F5486 2400
+
+[In-Battle\Infinite SP (All Characters)]
+Type = Gameshark
+Activation = EndFrame
+D00F45D4 000A
+800F45D6 2400
+D00F45E4 000A
+800F45E6 2400
+
+[In-Battle\1 Hit Death (All Enemies)]
+Type = Gameshark
+Activation = EndFrame
+C00CCDEC 1021
+900CCDE0 24010002
+900CCDE4 10270005
+800CCDEE 2400
+00000000 FFFF
+D00CCDF8 0004
+800CCDFA A440
+
+[Max Gold]
+Type = Gameshark
+Activation = EndFrame
+900BAC5C 05F5E0FF
+
+[Infinite Gold]
+Type = Gameshark
+Activation = EndFrame
+800BAC5C FFFF
+
+[Max Star Dust Disc 1]
+Type = Gameshark
+Activation = EndFrame
+300BAC60 0014
+
+[Max Star Dust Disc 2]
+Type = Gameshark
+Activation = EndFrame
+300BAC60 0023
+
+[Max Star Dust Disc 3]
+Type = Gameshark
+Activation = EndFrame
+300BAC60 002E
+
+[Max Star Dust Disc 4]
+Type = Gameshark
+Activation = EndFrame
+300BAC60 0032
+
+[Infinite Items (All Slots)]
+Type = Gameshark
+Activation = EndFrame
+80023346 2400
+8002336E 2400
+80023372 2400
+
+[Save Anywhere]
+Type = Gameshark
+Activation = EndFrame
+8005A368 0001
+
+[Have All Dragoon Spirits]
+Type = Gameshark
+Activation = EndFrame
+300BAD64 00FF
+
+[No Random Battles]
+Type = Gameshark
+Activation = EndFrame
+800C6AE8 0000
+
+[Albert Character Cheats\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800BAFD8 270F
+
+[Albert Character Cheats\Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+800BAFDA 03E7
+
+[Albert Character Cheats\Infinite SP]
+Type = Gameshark
+Activation = EndFrame
+800BAFDC 03E7
+
+[Albert Character Cheats\Max Level]
+Type = Gameshark
+Activation = EndFrame
+300BAFE2 003C
+
+[Albert Character Cheats\Max Dragoon Level]
+Type = Gameshark
+Activation = EndFrame
+300BAFE3 0005
+
+[Albert Character Cheats\Quick Level Gain]
+Type = Gameshark
+Activation = EndFrame
+800BAFD0 FFFF
+
+[Albert Character Cheats\Max HP]
+Type = Gameshark
+Activation = EndFrame
+800BE97E 270F
+
+[Dart Character Cheats\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800BAEFC 270F
+
+[Dart Character Cheats\Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+800BAEFE 03E7
+
+[Dart Character Cheats\Infinite SP]
+Type = Gameshark
+Activation = EndFrame
+800BAF00 03E7
+
+[Dart Character Cheats\Max Level]
+Type = Gameshark
+Activation = EndFrame
+300BAF06 003C
+
+[Dart Character Cheats\Max Dragoon Level]
+Type = Gameshark
+Activation = EndFrame
+300BAF07 0005
+
+[Dart Character Cheats\Quick Level Gain]
+Type = Gameshark
+Activation = EndFrame
+800BAEF4 FFFF
+
+[Dart Character Cheats\Max HP]
+Type = Gameshark
+Activation = EndFrame
+800BE65E 270F
+
+[Haschel Character Cheats\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800BAFAC 270F
+
+[Haschel Character Cheats\Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+800BAFAE 03E7
+
+[Haschel Character Cheats\Infinite SP]
+Type = Gameshark
+Activation = EndFrame
+800BAFB0 03E7
+
+[Haschel Character Cheats\Max Level]
+Type = Gameshark
+Activation = EndFrame
+300BAFB6 003C
+
+[Haschel Character Cheats\Max Dragoon Level]
+Type = Gameshark
+Activation = EndFrame
+300BAFB7 0005
+
+[Haschel Character Cheats\Quick Level Gain]
+Type = Gameshark
+Activation = EndFrame
+800BAFA4 FFFF
+
+[Haschel Character Cheats\Max HP]
+Type = Gameshark
+Activation = EndFrame
+800BE8DE 270F
+
+[Kongol Character Cheats\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800BB030 270F
+
+[Kongol Character Cheats\Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+800BB032 03E7
+
+[Kongol Character Cheats\Infinite SP]
+Type = Gameshark
+Activation = EndFrame
+800BB034 03E7
+
+[Kongol Character Cheats\Max Level]
+Type = Gameshark
+Activation = EndFrame
+300BB03A 003C
+
+[Kongol Character Cheats\Max Dragoon Level]
+Type = Gameshark
+Activation = EndFrame
+300BB03B 0005
+
+[Kongol Character Cheats\Quick Level Gain]
+Type = Gameshark
+Activation = EndFrame
+800BB028 FFFF
+
+[Kongol Character Cheats\Max HP]
+Type = Gameshark
+Activation = EndFrame
+800BEABE 270F
+
+[Lavitz Character Cheats\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800BAF28 270F
+
+[Lavitz Character Cheats\Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+800BAF2A 03E7
+
+[Lavitz Character Cheats\Infinite SP]
+Type = Gameshark
+Activation = EndFrame
+800BAF2C 03E7
+
+[Lavitz Character Cheats\Max Level]
+Type = Gameshark
+Activation = EndFrame
+300BAF32 003C
+
+[Lavitz Character Cheats\Max Dragoon Level]
+Type = Gameshark
+Activation = EndFrame
+300BAF33 0005
+
+[Lavitz Character Cheats\Quick Level Gain]
+Type = Gameshark
+Activation = EndFrame
+800BAF20 FFFF
+
+[Lavitz Character Cheats\Max HP]
+Type = Gameshark
+Activation = EndFrame
+800BE6FE 270F
+
+[Meru Character Cheats\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800BB004 270F
+
+[Meru Character Cheats\Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+800BB006 03E7
+
+[Meru Character Cheats\Infinite SP]
+Type = Gameshark
+Activation = EndFrame
+800BB008 03E7
+
+[Meru Character Cheats\Max Level]
+Type = Gameshark
+Activation = EndFrame
+300BB00E 003C
+
+[Meru Character Cheats\Max Dragoon Level]
+Type = Gameshark
+Activation = EndFrame
+300BB00F 0005
+
+[Meru Character Cheats\Quick Level Gain]
+Type = Gameshark
+Activation = EndFrame
+800BAFFC FFFF
+
+[Meru Character Cheats\Max HP]
+Type = Gameshark
+Activation = EndFrame
+800BEA1E 270F
+
+[Miranda Character Cheats\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800BB05C 270F
+
+[Miranda Character Cheats\Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+800BB05E 03E7
+
+[Miranda Character Cheats\Infinite SP]
+Type = Gameshark
+Activation = EndFrame
+800BB060 03E7
+
+[Miranda Character Cheats\Max Level]
+Type = Gameshark
+Activation = EndFrame
+300BB066 003C
+
+[Miranda Character Cheats\Max Dragoon Level]
+Type = Gameshark
+Activation = EndFrame
+300BB067 0005
+
+[Miranda Character Cheats\Quick Level Gain]
+Type = Gameshark
+Activation = EndFrame
+800BB054 FFFF
+
+[Miranda Character Cheats\Max HP]
+Type = Gameshark
+Activation = EndFrame
+800BEB5E 270F
+
+[Rose Character Cheats\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800BAF80 270F
+
+[Rose Character Cheats\Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+800BAF82 03E7
+
+[Rose Character Cheats\Infinite SP]
+Type = Gameshark
+Activation = EndFrame
+800BAF84 03E7
+
+[Rose Character Cheats\Max Level]
+Type = Gameshark
+Activation = EndFrame
+300BAF8A 003C
+
+[Rose Character Cheats\Max Dragoon Level]
+Type = Gameshark
+Activation = EndFrame
+300BAF8B 0005
+
+[Rose Character Cheats\Quick Level Gain]
+Type = Gameshark
+Activation = EndFrame
+800BAF78 FFFF
+
+[Rose Character Cheats\Max HP]
+Type = Gameshark
+Activation = EndFrame
+800BE38E 270F
+
+[Shana Character Cheats\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800BAF54 270F
+
+[Shana Character Cheats\Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+800BAF56 03E7
+
+[Shana Character Cheats\Infinite SP]
+Type = Gameshark
+Activation = EndFrame
+800BAF58 03E7
+
+[Shana Character Cheats\Max Level]
+Type = Gameshark
+Activation = EndFrame
+300BAF5E 003C
+
+[Shana Character Cheats\Max Dragoon Level]
+Type = Gameshark
+Activation = EndFrame
+300BAF5F 0005
+
+[Shana Character Cheats\Quick Level Gain]
+Type = Gameshark
+Activation = EndFrame
+800BAF4C FFFF
+
+[Shana Character Cheats\Max HP]
+Type = Gameshark
+Activation = EndFrame
+800BE79E 270F
+
+[Other\After Battle\Max Exp]
+Type = Gameshark
+Activation = EndFrame
+900BC95C 0098967F
+
+[Other\After Battle\Max Gold]
+Type = Gameshark
+Activation = EndFrame
+900BC920 0098967F
+
+[Cheats for All Other Characters\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+5000092C 0000
+800BAEFC 270F
+
+[Cheats for All Other Characters\Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+5000092C 0000
+800BAEFE 03E7
+
+[Cheats for All Other Characters\Infinite SP]
+Type = Gameshark
+Activation = EndFrame
+5000092C 0000
+800BAF00 03E7
+
+[Cheats for All Other Characters\Max Level]
+Type = Gameshark
+Activation = EndFrame
+5000092C 0000
+300BAF06 003C
+
+[Cheats for All Other Characters\Max Dragoon]
+Type = Gameshark
+Activation = EndFrame
+5000092C 0000
+300BAF07 0005
+
+[Cheats for All Other Characters\Quick Level Gain]
+Type = Gameshark
+Activation = EndFrame
+5000092C 0000
+800BAEF4 FFFF
+
+[Cheats for All Other Characters\All Characters In Party]
+Type = Gameshark
+Activation = EndFrame
+5000092C 0000
+300BAEF8 0003
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A70C3588 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A70C3588 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A70C3588 10000400
+

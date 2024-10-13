@@ -1,0 +1,52 @@
+; CHTDB: ; [ Duke Nukem - Total Meltdown (USA) (1997) (GT Interactive Software) {SLUS-00355} <dukenktm> ]
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+900EC93C 003200C8
+900EC940 003200C8
+900EC944 00320032
+900EC948 00100063
+800EC94C 0063
+
+[Have All Keys]
+Type = Gameshark
+Activation = EndFrame
+800EC97C 000F
+
+[Have All Weapons]
+Type = Gameshark
+Activation = EndFrame
+800ECA1A 0101
+900ECA1C 01010101
+900ECA20 00010101
+
+[Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+800EC9D2 0064
+
+[Life Refill (All Levels) (Press Triangle)]
+Type = Gameshark
+Activation = EndFrame
+D00EC9C4 0001
+800EC996 FF00
+D00EC9C4 0000
+800EC996 0000
+
+[Complete Level (Press L1+L2)]
+Type = Gameshark
+Activation = EndFrame
+D00B61AE 0005
+800EC98E 0001
+
+[No Damage When You Fall]
+Type = Gameshark
+Activation = EndFrame
+800ECA18 0001
+
+[Infinite Medikits]
+Type = Gameshark
+Activation = EndFrame
+800EC980 00FF
+

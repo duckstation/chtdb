@@ -1,0 +1,24 @@
+; CHTDB: ; [ Xenocracy: The Ultimate Solar War (France) {SLES-00812} ]
+
+[Infinite Le550]
+Type = Gameshark
+Activation = EndFrame
+8013D8B4 0F64
+
+[Infinite Leurre Passive]
+Type = Gameshark
+Activation = EndFrame
+8013D8CC 0003
+80141EAC 0003
+
+[Infinite Armac]
+Type = Gameshark
+Activation = EndFrame
+801410A4 0187
+80141B30 0387
+
+[Infinite Mantis]
+Type = Gameshark
+Activation = EndFrame
+80141F88 0004
+

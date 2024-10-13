@@ -1,0 +1,28 @@
+; CHTDB: ; [ Darkstalkers: The Night Warriors (Europe) {SLES-00251} ]
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800BDB00 0090
+
+[P2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800BDB04 0090
+
+[P1 Powerboost]
+Type = Gameshark
+Activation = EndFrame
+900CD36C 005100FF
+
+[P2 Powerboost]
+Type = Gameshark
+Activation = EndFrame
+800CD6E0 0051
+800CD602 00FF
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800CD85A 0063
+

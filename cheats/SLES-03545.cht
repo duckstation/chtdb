@@ -1,0 +1,8 @@
+; CHTDB: ; [ Nickelodeon Les Razmoket: 100 100 Angelica (France) {SLES-03545} ]
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+D01F9180 1000
+301F9181 000C
+

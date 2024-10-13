@@ -1,0 +1,42 @@
+; CHTDB: ; [ Zen-Nihon Joshi Pro Wrestling - Joou Densetsu Yume no Taikousen (Jpn) (1998) (TEN) {SLPS-01475} <znjpw> ]
+
+[Max Stamina]
+Type = Gameshark
+Activation = EndFrame
+3003E5D6 00FF
+
+[Max Bump]
+Type = Gameshark
+Activation = EndFrame
+3003E5D7 00FF
+
+[Max Resist]
+Type = Gameshark
+Activation = EndFrame
+3003E5D8 00FF
+
+[Max Technical]
+Type = Gameshark
+Activation = EndFrame
+3003E5D9 00FF
+
+[Max Finish]
+Type = Gameshark
+Activation = EndFrame
+3003E5DA 00FF
+
+[Slow Motion]
+Type = Gameshark
+Activation = EndFrame
+8003F72C 785F
+
+[Stop Time]
+Type = Gameshark
+Activation = EndFrame
+800870D4 0000
+
+[P1 Always Play As Akira Hokuto]
+Type = Gameshark
+Activation = EndFrame
+8004724C 000D
+

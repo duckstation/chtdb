@@ -1,0 +1,50 @@
+; CHTDB: ; [ Tomb Raider: The Last Revelation (Euro, Aus) (1999) (Eidos Interactive) {SLES-02238, SLES-02238/ANZ} <traid4e> ]
+
+[Infinite Oxygen]
+Type = Gameshark
+Activation = EndFrame
+300AB2CE 0708
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+90051F9C 340203E8
+90051FA0 A6020022
+
+[Stage Select Press Select at the title screen to have access to all levels and after loading one level end it and then you can select the level you wanted.]
+Type = Gameshark
+Activation = EndFrame
+D00AA120 0F00
+800A6AEE 0200
+
+[Infinite Large Medi-Packs]
+Type = Gameshark
+Activation = EndFrame
+300AB2CE 00FC
+
+[Infinite Flares]
+Type = Gameshark
+Activation = EndFrame
+800AB400 00FF
+
+[Have all weapons]
+Type = Gameshark
+Activation = EndFrame
+50000402 FFFF
+800AB3D4 0000
+
+[Infinite Ammo UZI]
+Type = Gameshark
+Activation = EndFrame
+800AB404 00FF
+
+[Infinite Ammo Normal gun]
+Type = Gameshark
+Activation = EndFrame
+800AB408 00FF
+
+[8 golden skulls (Training-level)]
+Type = Gameshark
+Activation = EndFrame
+300AB3E3 0008
+

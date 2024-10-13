@@ -1,0 +1,50 @@
+; CHTDB: ; [ Yutona Eiyuu Senki: TearRingSaga (Japan) {SLPS-03177} ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+90183058 0098967F
+
+[Level Up]
+Type = Gameshark
+Activation = EndFrame
+A60FD91C 00100001
+
+[Infinite Moves]
+Type = Gameshark
+Activation = EndFrame
+D01639E8 0524
+801639D8 0000
+
+[Infinite Funds]
+Type = Gameshark
+Activation = EndFrame
+D002A9C4 1023
+8002A9C6 0040
+
+[Max And Sell Some Funds]
+Type = Gameshark
+Activation = EndFrame
+A602A9A2 10401440
+
+[Not Decrease The Number Of Times A Weapon Use]
+Type = Gameshark
+Activation = EndFrame
+A610DC24 FFFF0000
+
+[Not Wasting Shields]
+Type = Gameshark
+Activation = EndFrame
+A610B9D0 FFFF0000
+
+[Mortal blow Press SEL + L2]
+Description = mortal blow Press SEL + R2
+Type = Gameshark
+Activation = EndFrame
+D00CD048 0101
+8010D666 0000
+D00CD048 0102
+8010D666 0080
+D00CD048 0103
+8010D666 0091
+

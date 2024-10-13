@@ -1,0 +1,158 @@
+; CHTDB: ; [ Gensou Maden Saiyuuki - Harukanaru Nishi e (Jpn) (2002) (J-Wing) {SLPM-86986} <gmsayuki> ]
+
+[Infinite Hearts in chapter 2]
+Type = Gameshark
+Activation = EndFrame
+8005B740 0003
+
+[Enemy energy is only 1 in chapter 3 battle (Deactivate after sending it)]
+Type = Gameshark
+Activation = EndFrame
+80070AAE 0001
+
+[Infinite Bullets in chapter 3 battle 2 (Deactivate after defeating enemy)]
+Type = Gameshark
+Activation = EndFrame
+8005C990 000C
+
+[Infinite Energy in chapter 3 battle 2 (Deactivate after defeating enemy)]
+Type = Gameshark
+Activation = EndFrame
+8005C994 0004
+
+[Character Scroll Faster]
+Type = Gameshark
+Activation = EndFrame
+D0058B94 6FFA
+80058B88 0001
+
+[Extra edition selectable from the beginning]
+Type = Gameshark
+Activation = EndFrame
+C0058778 61F2
+80058794 0001
+800587D4 0001
+00000000 FFFF
+
+[From The First Album (1 To 6)]
+Type = Gameshark
+Activation = EndFrame
+D005A244 68B4
+8005A260 0001
+
+[From The First Album (Ending)]
+Type = Gameshark
+Activation = EndFrame
+D005A244 68B4
+8005A2DC 0001
+D005AA60 610B
+8005AA3C 0001
+D005A7EC 6A7A
+8005A84C 0001
+
+[Chapter 1 Maze Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+D005E558 0009
+8005E59C 0000
+
+[Chapter 1Sure Spread Range]
+Type = Gameshark
+Activation = EndFrame
+D0058F78 001F
+80058FB0 0001
+
+[Chapter 2 Avoid Chapter 2 Bombs Always Bomb On The Roof]
+Type = Gameshark
+Activation = EndFrame
+D0059C3C 53B8
+80059C56 1000
+
+[Chapter 2 Once A Bomb Jump And Disabled]
+Type = Gameshark
+Activation = EndFrame
+C0058A00 61DC
+80058A88 0008
+800589FC 0008
+00000000 FFFF
+
+[Chapter 3 Battle Games (Each Chapter Common)Infinite HP Gauge]
+Type = Gameshark
+Activation = EndFrame
+D0059C70 67B6
+80059CB4 0000
+
+[Chapter 3 Infinite Power Gauge]
+Type = Gameshark
+Activation = EndFrame
+D0057E00 7505
+80057E2E 0040
+
+[Chapter 4 Bullets Hit Infinite HP Gauge]
+Type = Gameshark
+Activation = EndFrame
+D0057D30 505D
+80057D8C 0000
+
+[Chapter 4 Not Decrease The Number Of Bomb Residue]
+Type = Gameshark
+Activation = EndFrame
+D0058268 53B8
+80058258 0000
+
+[Chapter 4 The Bullet Almost Hit The Enemy]
+Type = Gameshark
+Activation = EndFrame
+C00582EC 6AAE
+800582DC 0001
+8005833C 0001
+8005839C 0001
+800583FC 0001
+00000000 FFFF
+
+[Chapter 4 Aiming Move Faster]
+Type = Gameshark
+Activation = EndFrame
+C0057E2C 6DEA
+80057E28 4080
+80057E90 4080
+80057F00 4080
+80057F68 4080
+00000000 FFFF
+
+[Chapter 5 Maze Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+D005A5F0 5BC1
+8005A648 0000
+D005E1EC 7430
+8005E218 0000
+
+[Chapter 5 Sure Spread Range]
+Type = Gameshark
+Activation = EndFrame
+D0057890 001F
+800578C8 0001
+
+[Chapter 6 Maze Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+D005B0D8 6C64
+8005B19C 0000
+D005F918 7E88
+8005F8F0 0000
+D0060C68 7520
+80060C78 0000
+
+[Chapter 6 Sure Spread Range]
+Type = Gameshark
+Activation = EndFrame
+D0057730 5E71
+80057800 0001
+
+[Chapter 6 Maze Fall To The Floor, Ignored]
+Type = Gameshark
+Activation = EndFrame
+D005ADF0 6BF2
+8005ADC2 1000
+

@@ -1,0 +1,83 @@
+; CHTDB: ; [ Dragon Ball: Final Bout (Japan) Rev 1 {SLPS-91079} ]
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80072350 0188
+80072D7C 0188
+
+[P1 Infinite Power]
+Type = Gameshark
+Activation = EndFrame
+80072352 00C4
+80072D80 00C4
+
+[P1 No Power Bar]
+Type = Gameshark
+Activation = EndFrame
+80072352 0000
+
+[P1 No Energy]
+Type = Gameshark
+Activation = EndFrame
+80072350 0000
+
+[P2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800723CC 0188
+80072D7E 0188
+
+[P2 Infinite Power]
+Type = Gameshark
+Activation = EndFrame
+800723CE 00C4
+80072D82 00C4
+
+[P2 No Power Bar]
+Type = Gameshark
+Activation = EndFrame
+800723CE 0000
+
+[P2 No Energy]
+Type = Gameshark
+Activation = EndFrame
+800723CC 0000
+
+[P1 Battle Mode Full Lv]
+Type = Gameshark
+Activation = EndFrame
+8003B710 03E7
+8003BAE4 03E7
+
+[P1 Battle Mode Full Bp]
+Type = Gameshark
+Activation = EndFrame
+8003B714 FFFF
+8003BAF4 FFFF
+80066978 FFFF
+
+[Select Hidden Characters]
+Type = Gameshark
+Activation = EndFrame
+8003BB04 0005
+8003BB04 000C
+8003BB04 0010
+8003BB04 000E
+8003BB04 0011
+
+[7 Hidden Characters]
+Type = Gameshark
+Activation = EndFrame
+9003BB24 FFFFFFFF
+
+[All characters availableS]
+Type = Gameshark
+Activation = EndFrame
+9003BB24 0001FFFF
+
+[Built-up all BLOCK Available]
+Type = Gameshark
+Activation = EndFrame
+8003BADC 0306
+

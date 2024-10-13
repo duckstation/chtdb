@@ -1,0 +1,43 @@
+; CHTDB: ; [ Spec Ops: Covert Assault (Europe) {SLES-03515} ]
+
+[Infinite Health Mission 1]
+Type = Gameshark
+Activation = EndFrame
+8016AD9A 0113
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+D002D13E 1262
+8002D140 0000
+
+[Timer Stopped (Press L1 & L2)]
+Type = Gameshark
+Activation = EndFrame
+D0061DEE FAFF
+8001AE4C 0000
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+D002BF6C FFFF
+8002BF70 0000
+
+[Infinite Rounds]
+Type = Gameshark
+Activation = EndFrame
+D002C110 FFFF
+8002C114 0000
+
+[Infinite Grenades]
+Type = Gameshark
+Activation = EndFrame
+D00130D4 FFFF
+800130D8 0000
+
+[Infinite M-18]
+Type = Gameshark
+Activation = EndFrame
+D001312C FFFF
+80013130 0000
+

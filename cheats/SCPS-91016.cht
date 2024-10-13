@@ -1,0 +1,12 @@
+; CHTDB: ; [ Hermie Hopperhead - Scrap Panic (Jpn, Playstation the Best) (1996) (Sony) {SCPS-91016} <hermiehh> ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80017FCC 0000
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+80032F42 3402
+

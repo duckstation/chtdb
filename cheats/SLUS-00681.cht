@@ -1,0 +1,46 @@
+; CHTDB: ; [ Rival Schools - United by Fate (USA) (1998) (Capcom Entertainment) {SLUS-00681 / SLUS-00771} <rvschool> ]
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801EFA02 00C8
+
+[Unlock Characters, Modes + Extras]
+Type = Gameshark
+Activation = EndFrame
+801F65D0 FFFF
+801F65D4 FFFF
+901F65D8 FFFFFFFF
+901F65DC FFFFFFFF
+
+[Unlock All]
+Type = Gameshark
+Activation = EndFrame
+50000802 0000
+801F65D0 FFFF
+
+[Always Get Good Ending]
+Type = Gameshark
+Activation = EndFrame
+801F64C0 0007
+
+[P2 1 Hit Kill]
+Type = Gameshark
+Activation = EndFrame
+801EFE02 0000
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A71F6120 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A71F6120 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A71F6120 10000400
+

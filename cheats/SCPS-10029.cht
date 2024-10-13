@@ -1,0 +1,55 @@
+; CHTDB: ; [ I.Q: Intelligent Qube (Japan) {SCPS-10029} ]
+
+[Auto delete all cubes]
+Type = Gameshark
+Activation = EndFrame
+80045A60 0001
+90045A68 24021002
+80045A6E AD82
+
+[Does not decrease block meter]
+Type = Gameshark
+Activation = EndFrame
+8004256A 0040
+
+[Not increase the number of steps]
+Type = Gameshark
+Activation = EndFrame
+80076F10 0000
+
+[Four bi du cube down destruction Allowed]
+Type = Gameshark
+Activation = EndFrame
+80048650 6CB0
+8004867E 0060
+
+[The stage does not collapse even if it is trampled]
+Type = Gameshark
+Activation = EndFrame
+80042546 0060
+
+[Perfect if it fails]
+Type = Gameshark
+Activation = EndFrame
+8004255C 6CB0
+
+[All stages can be selected]
+Type = Gameshark
+Activation = EndFrame
+300F944D 000A
+
+[Block Meter]
+Type = Gameshark
+Activation = EndFrame
+80076BF8 0000
+
+[All characters available ORIGINAL MODE]
+Type = Gameshark
+Activation = EndFrame
+30076BE8 0007
+
+[Player selection (dog)]
+Type = Gameshark
+Activation = EndFrame
+80076F38 0002
+

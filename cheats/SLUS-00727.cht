@@ -1,0 +1,27 @@
+; CHTDB: ; [ Thunder Force V - Perfect System (USA) (1998) (Working Designs) {SLUS-00727A} <tf5> ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80094D3E 0004
+
+[Have All Weapons]
+Type = Gameshark
+Activation = EndFrame
+80094D4A 001F
+
+[Have Max Weapon Level]
+Type = Gameshark
+Activation = EndFrame
+80094CE6 0003
+
+[Weapons Never Overheat]
+Type = Gameshark
+Activation = EndFrame
+80094CF8 3000
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+80094D6E 0099
+

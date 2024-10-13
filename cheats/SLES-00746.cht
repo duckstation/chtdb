@@ -1,0 +1,252 @@
+; CHTDB: ; [ Ian Livingstone's Deathtrap Dungeon (Europe) {SLES-00746} ]
+
+[Level Select Remove left memory card from PlayStation to use this code. All levels may now be selected on the #Load Game# screen]
+Type = Gameshark
+Activation = EndFrame
+D1055766 AFB7
+30055764 0008
+
+[Infinite Firefly]
+Type = Gameshark
+Activation = EndFrame
+800C6D00 FFFF
+
+[Infinite Starspell]
+Type = Gameshark
+Activation = EndFrame
+800C6D04 FFFF
+
+[Infinite Fireballs]
+Type = Gameshark
+Activation = EndFrame
+800C6D08 FFFF
+
+[Infinite Razorblade Magic]
+Type = Gameshark
+Activation = EndFrame
+800C6D0C FFFF
+
+[Infinite Jetspell]
+Type = Gameshark
+Activation = EndFrame
+800C6D10 FFFF
+
+[Infinite Greater Razorspell]
+Type = Gameshark
+Activation = EndFrame
+800C6D14 FFFF
+
+[Infinite Arc Of Power]
+Type = Gameshark
+Activation = EndFrame
+800C6D18 FFFF
+
+[Infinite War Pig]
+Type = Gameshark
+Activation = EndFrame
+800C6D1C FFFF
+
+[Have Gold Key]
+Type = Gameshark
+Activation = EndFrame
+800C6D54 018E
+
+[Have Silver Key]
+Type = Gameshark
+Activation = EndFrame
+800C6D58 018E
+
+[Have Red Key]
+Type = Gameshark
+Activation = EndFrame
+800C6D5C 018E
+
+[Infinite Health Potion]
+Type = Gameshark
+Activation = EndFrame
+800C6D2C FFFF
+
+[Infinite Antidote]
+Type = Gameshark
+Activation = EndFrame
+800C6D30 FFFF
+
+[Infinite Strength]
+Type = Gameshark
+Activation = EndFrame
+800C6D34 FFFF
+
+[Infinite Speed]
+Type = Gameshark
+Activation = EndFrame
+800C6D38 FFFF
+
+[Infinite Charm Of Icy Cool]
+Type = Gameshark
+Activation = EndFrame
+800C6D3C FFFF
+
+[Infinite Warding]
+Type = Gameshark
+Activation = EndFrame
+800C6D40 FFFF
+
+[Infinite Magic Charm]
+Type = Gameshark
+Activation = EndFrame
+800C6D44 FFFF
+
+[Infinite Invisibility]
+Type = Gameshark
+Activation = EndFrame
+800C6D48 FFFF
+
+[Infinite Flame Lance]
+Type = Gameshark
+Activation = EndFrame
+800C6CE4 FFFF
+
+[Infinite Bombs]
+Type = Gameshark
+Activation = EndFrame
+800C6CE8 FFFF
+
+[Infinite Firethrower]
+Type = Gameshark
+Activation = EndFrame
+800C6CE0 FFFF
+
+[Infinite Grenade Launcher]
+Type = Gameshark
+Activation = EndFrame
+800C6CEC FFFF
+
+[Infinite Bunderbuss]
+Type = Gameshark
+Activation = EndFrame
+800C6CF0 FFFF
+
+[Infinite Infernal Device]
+Type = Gameshark
+Activation = EndFrame
+800C6CF4 FFFF
+
+[Infinite Chalk]
+Type = Gameshark
+Activation = EndFrame
+800C6CF8 FFFF
+
+[Have Magic Warhammer]
+Type = Gameshark
+Activation = EndFrame
+800C6CD0 0106
+
+[Have Venom Sword]
+Type = Gameshark
+Activation = EndFrame
+800C6CCC 0106
+
+[Have Silver Sword]
+Type = Gameshark
+Activation = EndFrame
+800C6CC8 0106
+
+[Have Black Spirit Sword]
+Type = Gameshark
+Activation = EndFrame
+800C6CC4 0106
+
+[Have Red Sword]
+Type = Gameshark
+Activation = EndFrame
+800C6CC0 0106
+
+[Have Warhammer]
+Type = Gameshark
+Activation = EndFrame
+800C6CB8 0106
+
+[All Enemies Killed All Stages]
+Type = Gameshark
+Activation = EndFrame
+C20C3E98 0001
+800EFA42 0000
+
+[All Secrets Found All Stages]
+Type = Gameshark
+Activation = EndFrame
+C20C3A80 0001
+800C3DEC 0000
+
+[All Pickups Collected All Stages]
+Type = Gameshark
+Activation = EndFrame
+C20C3B48 0001
+800C2488 0000
+
+[Have All Keys Press L2 & R2]
+Type = Gameshark
+Activation = EndFrame
+D00C2492 FCFF
+50000304 0000
+800C6D54 018E
+
+[Have All Spells Press L2 & R2]
+Type = Gameshark
+Activation = EndFrame
+D00C2492 FCFF
+50000804 0000
+800C6D00 00FF
+
+[Infinite Spells]
+Type = Gameshark
+Activation = EndFrame
+D00635D2 0062
+800635D6 0000
+
+[Have All Potions And Charms Press L2 & R2]
+Type = Gameshark
+Activation = EndFrame
+D00C2492 FCFF
+50000804 0000
+800C6D2C 00FF
+
+[Infinite Potions And Charms]
+Type = Gameshark
+Activation = EndFrame
+D002DA2A 0062
+8002DA2E 0000
+
+[Have All Weapons Press L2 & R2]
+Type = Gameshark
+Activation = EndFrame
+D00C2492 FCFF
+50000304 0000
+800C6CB8 0106
+D00C2492 FCFF
+50000C04 0000
+800C6CC0 0106
+D00C2492 FCFF
+50000704 0000
+800C6CE0 00FF
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+D0063092 0043
+80063096 0000
+D007E404 0030
+3007E404 0000
+
+[Invulnerable]
+Type = Gameshark
+Activation = EndFrame
+D0061726 0050
+80061728 0000
+
+[Hypermode 150%\On Press Select & R1 Pad 2]
+Type = Gameshark
+Activation = EndFrame
+D00C24BA F7FE
+300955FC 0002
+

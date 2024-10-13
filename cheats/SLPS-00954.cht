@@ -1,0 +1,72 @@
+; CHTDB: ; [ Sidewinder 2: Let's Dance in the Sky (Japan) {SLPS-00954} ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801D5F54 0005
+
+[Infinite Missile]
+Type = Gameshark
+Activation = EndFrame
+80153F0C 0063
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+801388C0 0068
+
+[Infinite Fuel]
+Type = Gameshark
+Activation = EndFrame
+801598D6 003C
+
+[Infinite Custom Point]
+Type = Gameshark
+Activation = EndFrame
+80123B74 0063
+
+[Add Aircraft]
+Type = Gameshark
+Activation = EndFrame
+901243EC FFFFFFFF
+
+[AINGL]
+Type = Gameshark
+Activation = EndFrame
+80153EF8 000F
+
+[AIN120]
+Type = Gameshark
+Activation = EndFrame
+80153EFC 000F
+
+[AGM88]
+Type = Gameshark
+Activation = EndFrame
+80153F00 000F
+
+[AHM65]
+Type = Gameshark
+Activation = EndFrame
+80153F04 000F
+
+[MK82]
+Type = Gameshark
+Activation = EndFrame
+80153F08 000F
+
+[SP2000]
+Type = Gameshark
+Activation = EndFrame
+80153F0C 000F
+
+[AGM65X]
+Type = Gameshark
+Activation = EndFrame
+80153F10 000F
+
+[AGM65S]
+Type = Gameshark
+Activation = EndFrame
+80153F14 000F
+

@@ -1,0 +1,134 @@
+; CHTDB: ; [ MediEvil (USA) (1998) (Sony Computer Entertainment America) {SCUS-94227} <medievil> ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+A60F8178 0000012C
+
+[Start With Chalice At 100]
+Type = Gameshark
+Activation = EndFrame
+800EE97C 0064
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800F8174 012C
+
+[Press L2+R2 Health Restore]
+Type = Gameshark
+Activation = EndFrame
+D00F192C 0A00
+800F8174 012C
+
+[Extended Cheat Mode Pause the game to have access to View FMV, Sound Test, Camera, Cheats and Debug.]
+Type = Gameshark
+Activation = EndFrame
+300EEE3E 0003
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+801C05D0 FFFF
+
+[Unlock All Levels]
+Type = Gameshark
+Activation = EndFrame
+300F81C7 0001
+50001401 0000
+300F81DE 0001
+
+[Walk Through Walls (Hold L1+R1)]
+Type = Gameshark
+Activation = EndFrame
+8003EDE6 00001000
+8003799A 00001000
+800379CA 00001000
+8003858E 00001000
+D7100000 0000000C
+8003EDE6 00001443
+8003799A 00001040
+800379CA 00001440
+8003858E 00001440
+
+[One hit kills]
+Type = Gameshark
+Activation = EndFrame
+A7045F5E 1C802400
+
+[Moon Jump]
+Type = Gameshark
+Activation = EndFrame
+A7044CFA 24001040
+A7044BAA 24001040
+A706C5F6 24001440
+D7200000 00000020
+A7044CFA 10402400
+A7044BAA 10402400
+A706C5F6 14402400
+
+[No fall damage]
+Type = Gameshark
+Activation = EndFrame
+A7044FF2 10401000
+
+[Matrix mode "Press L3 to toggle on/off"]
+Type = Gameshark
+Activation = EndFrame
+D7010001 01000200
+F506400A 14401000
+F506B3C6 14402400
+F50412FA 14512400
+
+[Use right analog to turn camera]
+Type = Gameshark
+Activation = EndFrame
+A702FEF2 10001062
+D7200000 00020000
+A702FEF2 10621000
+00000000 0000FFFF
+A702FEFA 24001462
+D7200000 00080000
+A702FEFA 14622400
+
+[Use right analog to turn camera inverted]
+Type = Gameshark
+Activation = EndFrame
+A702FEF2 10001062
+D7200000 00080000
+A702FEF2 10621000
+00000000 0000FFFF
+A702FEFA 24001462
+D7200000 00020000
+A702FEFA 14622400
+
+[Clear water turns darker in some places]
+Type = Gameshark
+Activation = EndFrame
+A7022656 10201000
+
+[FPS Uncap]
+Type = Gameshark
+Activation = EndFrame
+A70A3F32 10401000
+
+[Bigger Play Area - Mess around with 2000]
+Type = Gameshark
+Activation = EndFrame
+A70F890C 10002000
+
+[Select Widescreen\16-9]
+Type = Gameshark
+Activation = EndFrame
+A70F88FC 19991333
+
+[Select Widescreen\20-9]
+Type = Gameshark
+Activation = EndFrame
+A70F88FC 19990E66
+
+[Select Widescreen\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A70F88FC 19990666
+

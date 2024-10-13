@@ -1,0 +1,13 @@
+; CHTDB: ; [ Naniwa Wangan Battle: Tarzan Yamada & AutoSelect Sawa Kyoudai (Japan) {SLPS-01206} ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+D00AB418 2021
+800AB406 0080
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800679FC 0000
+

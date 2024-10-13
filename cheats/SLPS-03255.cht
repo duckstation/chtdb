@@ -1,0 +1,13 @@
+; CHTDB: ; [ Zoids - Battle Card Game - Seihou Tairiku Senki (Jpn) (2001) (Tomy) {SLPS-03255} <zoidsbcg> ]
+
+[Infinite Card Points (50000)]
+Type = Gameshark
+Activation = EndFrame
+8014BD40 C350
+
+[Infinite + Max HP Main Unit]
+Type = Gameshark
+Activation = EndFrame
+8014BDBC 270F
+8014A1D0 270F
+

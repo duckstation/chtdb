@@ -1,0 +1,15 @@
+; CHTDB: ; [ 'Butagee' de Iinja Nai? (Japan) {SLPS-01169} ]
+
+[Infinite Money 99999]
+Type = Gameshark
+Activation = EndFrame
+900C3468 0001869F
+
+[Max all status]
+Type = Gameshark
+Activation = EndFrame
+800C3076 270F
+900C3078 270F6400
+900C307C 270F270F
+900C3080 270F270F
+

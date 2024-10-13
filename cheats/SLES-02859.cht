@@ -1,0 +1,31 @@
+; CHTDB: ; [ Sydney 2000 (Germany) {SLES-02859} ]
+
+[Arcade Mode Alle Disziplinen jederzeit anwählbar]
+Type = Gameshark
+Activation = EndFrame
+800165B0 FFFF
+
+[Arcade Mode P1 9999 Punkte]
+Type = Gameshark
+Activation = EndFrame
+D10163D0 0000
+800163D0 270F
+
+[OLYMPIA Alle Trainings vollständig]
+Type = Gameshark
+Activation = EndFrame
+50007E04 0000
+800165E8 6464
+
+[OLYMPIA Alle Disziplinen A Runden, Olympiaklasse & -teilnahme freigeschaltet]
+Type = Gameshark
+Activation = EndFrame
+50000C04 0000
+800165B8 0003
+
+[OLYMPIA Habe Goldmedaille]
+Type = Gameshark
+Activation = EndFrame
+50000C04 0000
+80016D64 0006
+

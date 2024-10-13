@@ -1,0 +1,12 @@
+; CHTDB: ; [ Hyakujuu Sentai Gaoranger (Jpn) (2001) (Bandai) {SLPS-03353} <gaorangr> ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8009EC2E 09F6
+
+[Infinite Energy robot]
+Type = Gameshark
+Activation = EndFrame
+80153940 09C4
+

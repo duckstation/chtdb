@@ -1,0 +1,18 @@
+; CHTDB: ; [ Theme Park (USA) (1995) (Electronic Arts) {SLUS-00017} <themeprk> ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+901AF850 017D7840
+
+[Time Doesn't Progress (Always 1st of The Month)]
+Type = Gameshark
+Activation = EndFrame
+800BE604 0001
+
+[Infinite Research Juice]
+Type = Gameshark
+Activation = EndFrame
+800BE264 0054
+800D6A58 270F
+

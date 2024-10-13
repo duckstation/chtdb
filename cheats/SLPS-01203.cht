@@ -1,0 +1,17 @@
+; CHTDB: ; [ SatelliTV (Jpn) (1998) (Nippon Ichi) {SLPS-01203} <sateltv> ]
+
+[Max Money]
+Type = Gameshark
+Activation = EndFrame
+80110002 7FFF
+
+[Max Member]
+Type = Gameshark
+Activation = EndFrame
+80110006 5FFF
+
+[Subscriber total of 20 million people]
+Type = Gameshark
+Activation = EndFrame
+90110004 77359400
+

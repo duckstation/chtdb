@@ -1,0 +1,18 @@
+; CHTDB: ; [ Lord Monarch: Shin Gaia Oukokuki (Japan) {SLPS-01728} ]
+
+[Infinite Special Value For Sun]
+Type = Gameshark
+Activation = EndFrame
+9008028C 0001869F
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+901DFEE0 0001869F
+901DFF18 0001869F
+
+[Character Have Max King 's Value]
+Type = Gameshark
+Activation = EndFrame
+901E0430 0001869F
+

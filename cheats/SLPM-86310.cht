@@ -1,0 +1,13 @@
+; CHTDB: ; [ Croc Adventure (Jpn) (1999) (Koei) {SLPM-86310} <crocadv> ]
+
+[99 Continue]
+Type = Gameshark
+Activation = EndFrame
+80076E10 0063
+80076E14 0063
+
+[100 Crystal]
+Type = Gameshark
+Activation = EndFrame
+80076EA0 0064
+

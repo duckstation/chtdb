@@ -1,0 +1,128 @@
+; CHTDB: ; [ Rising Zan - The Samurai Gunman (USA) (1999) (Agetec) {SLUS-00829} <risinzan> ]
+
+[Infinite Health 1st Impact]
+Type = Gameshark
+Activation = EndFrame
+D00895CA FFFF
+800F3278 0064
+
+[Infinite Health 2nd Impact]
+Type = Gameshark
+Activation = EndFrame
+D00895CA FFFF
+80116038 0064
+
+[Infinite Health 3rd Impact]
+Type = Gameshark
+Activation = EndFrame
+D00895CA FFFF
+800F14F8 0064
+
+[Infinite Health 4th Impact]
+Type = Gameshark
+Activation = EndFrame
+D00895CA FFFF
+800F1468 0064
+
+[Infinite Health 5th Impact]
+Type = Gameshark
+Activation = EndFrame
+D00895CA FFFF
+800FD308 0064
+
+[Infinite Health 6th Impact]
+Type = Gameshark
+Activation = EndFrame
+D00895CA FFFF
+800F45A8 0064
+
+[Infinite Health 7th Impact]
+Type = Gameshark
+Activation = EndFrame
+D00895CA FFFF
+800F9B08 0064
+
+[Infinite Health 8th Impact]
+Type = Gameshark
+Activation = EndFrame
+D00895CA FFFF
+800F8A98 0064
+
+[Infinite Health Final Impact]
+Type = Gameshark
+Activation = EndFrame
+D00895CA FFFF
+800EA048 0064
+
+[Infinite Hustle Time]
+Type = Gameshark
+Activation = EndFrame
+800908A0 0003
+
+[Zan Enable All Impacts (Normal Mode)]
+Type = Gameshark
+Activation = EndFrame
+80090726 00FF
+
+[Zan Enable All Impacts (Hard Mode)]
+Type = Gameshark
+Activation = EndFrame
+80090728 00FF
+
+[Zan Enable All Impacts (Expert Mode)]
+Type = Gameshark
+Activation = EndFrame
+8009072A 00FF
+
+[Zan 2nd Impact-Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+D00895CA FFFF
+800BC932 2400
+
+[Zan 4th Impact-Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+D00895CA FFFF
+80030006 2400
+
+[Sapphire Enable All Impacts (Normal Mode)]
+Type = Gameshark
+Activation = EndFrame
+8009072E 00FF
+
+[Sapphire Enable All Impacts (Hard Mode)]
+Type = Gameshark
+Activation = EndFrame
+80090730 00FF
+
+[Sapphire Enable All Impacts (Expert Mode)]
+Type = Gameshark
+Activation = EndFrame
+80090732 00FF
+
+[Sapphire 2nd + 4th Impact'S-Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+D00895CA FFFF
+800BC37A 2400
+
+[One hit kills "Activate/deactivate before encountering enemies on screen"]
+Type = Gameshark
+Activation = EndFrame
+A709E614 02D43000
+A709E616 A6710C00
+A700C000 00000001
+A700C002 00003411
+A700C004 000002D4
+A700C006 0000A671
+A700C008 00000008
+A700C00A 000003E0
+
+[Press select to kill enemies]
+Type = Gameshark
+Activation = EndFrame
+A70A7596 24001C40
+D7200000 00000100
+A70A7596 1C402400
+

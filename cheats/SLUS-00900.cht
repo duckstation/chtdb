@@ -1,0 +1,33 @@
+; CHTDB: ; [ Final Fantasy Anthology - Final Fantasy VI (USA, v1.0) (2001) (Square Electronic Arts) {SLUS-00900} <ffant6a> ]
+
+[Character 1 In battle\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+80020E78 03E7
+
+[Character 2 In battle\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+80020E7A 03E7
+
+[Character 3 In battle\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+80020E7C 03E7
+
+[Character 4 In battle\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+80020E7E 03E7
+
+[Save Anywhere]
+Type = Gameshark
+Activation = EndFrame
+E003220C 0000
+3002FEB7 0080
+
+[No Random Battles]
+Type = Gameshark
+Activation = EndFrame
+8002FF6E 0000
+

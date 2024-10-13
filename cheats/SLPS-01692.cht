@@ -1,0 +1,93 @@
+; CHTDB: ; [ Kyorochan no Purikura Daisakusen (Jpn) (1999) (Tomy) {SLPS-01692} <kyorochn> ]
+
+[Infinite Peanuts (100)]
+Type = Gameshark
+Activation = EndFrame
+80095500 0064
+
+[Max Number Of Photographs]
+Type = Gameshark
+Activation = EndFrame
+300964D8 0063
+
+[Infinite Balloon Attacks]
+Type = Gameshark
+Activation = EndFrame
+80095AA0 0063
+
+[Maximum strength]
+Type = Gameshark
+Activation = EndFrame
+300965B0 00C8
+
+[Invincibility / Heart]
+Type = Gameshark
+Activation = EndFrame
+300965B5 00FF
+
+[Kyoro coin]
+Type = Gameshark
+Activation = EndFrame
+30095AA4 0005
+
+[Item / remaining number]
+Type = Gameshark
+Activation = EndFrame
+30095AA0 0063
+
+[Infinite Flight duration of flap jump]
+Type = Gameshark
+Activation = EndFrame
+3007D1B2 0050
+
+[Tamauke / TIME]
+Type = Gameshark
+Activation = EndFrame
+3007C90E 0063
+
+[Slot / TIME]
+Type = Gameshark
+Activation = EndFrame
+3007C918 0063
+
+[Number of rock-paper-scissors hammer / Kyoro chan]
+Type = Gameshark
+Activation = EndFrame
+3007C918 0003
+
+[Number of rock-paper-scissors hammer / partner]
+Type = Gameshark
+Activation = EndFrame
+3007C919 0003
+
+[Tamauke / scores]
+Type = Gameshark
+Activation = EndFrame
+8007C91E 03E7
+
+[Slot / number]
+Type = Gameshark
+Activation = EndFrame
+3007C920 0063
+
+[Infinite Number of flap jump]
+Type = Gameshark
+Activation = EndFrame
+3007D1A9 0000
+
+[Invincibility don't touch enemy]
+Type = Gameshark
+Activation = EndFrame
+3007D1AA 00FF
+
+[Photo booth notebook / presence + 01h]
+Type = Gameshark
+Activation = EndFrame
+30095A20 00FF
+30095A83 00FF
+
+[Photo booth number]
+Type = Gameshark
+Activation = EndFrame
+300964D8 0014
+

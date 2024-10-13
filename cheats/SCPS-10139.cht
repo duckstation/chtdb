@@ -1,0 +1,61 @@
+; CHTDB: ; [ Shachou Eiyuuden (Japan) {SCPS-10139} ]
+
+[Max Health Guo Jing]
+Type = Gameshark
+Activation = EndFrame
+8008C262 03E7
+8008C264 03E7
+
+[Max Mp Guo Jing]
+Type = Gameshark
+Activation = EndFrame
+9008C264 03E703E7
+
+[Max Ap Guo Jing]
+Type = Gameshark
+Activation = EndFrame
+9008C268 03E703E7
+
+[Max Exp Guo Jing]
+Type = Gameshark
+Activation = EndFrame
+8008C268 03E7
+8008C26C FFFF
+
+[Max Strength & Defense Guo Jing]
+Type = Gameshark
+Activation = EndFrame
+8008C26E 03E7
+
+[Max Health Mage Master]
+Type = Gameshark
+Activation = EndFrame
+90080420 03E703E7
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+8008C254 FFFF
+
+[Infinite Items]
+Type = Gameshark
+Activation = EndFrame
+A6062B4C FFFF0000
+A61E1AC8 FFFF0000
+
+[No Random Battles]
+Type = Gameshark
+Activation = EndFrame
+8008C236 0000
+
+[Status Max]
+Type = Gameshark
+Activation = EndFrame
+8008C62C FFFF
+8008C262 03E7
+9008C264 03E703E7
+8008C264 03E7
+9008C268 03E703E7
+8008C250 03E7
+8008C26E 03E7
+

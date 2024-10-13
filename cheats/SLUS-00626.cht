@@ -1,0 +1,71 @@
+; CHTDB: ; [ Tales of Destiny (USA) (1998) (Namco Hometek) {SLUS-00626} <todest> ]
+
+[Character 1 Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+801E5FD8 752F
+
+[Character 2 Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+801E61AC 752F
+
+[Character 3 Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+801E6380 752F
+
+[Character 4 Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+801E6554 752F
+
+[Character 1 Infinite TP]
+Type = Gameshark
+Activation = EndFrame
+801E5FDE 752F
+
+[Character 2 Infinite TP]
+Type = Gameshark
+Activation = EndFrame
+801E61B2 752F
+
+[Character 3 Infinite TP]
+Type = Gameshark
+Activation = EndFrame
+801E6386 752F
+
+[Character 4 Infinite TP]
+Type = Gameshark
+Activation = EndFrame
+801E655A 752F
+
+[Have All Items]
+Type = Gameshark
+Activation = EndFrame
+301CE781 0001
+301CE948 0001
+5000E202 0000
+801CE782 0101
+
+[Infinite Gold]
+Type = Gameshark
+Activation = EndFrame
+901CE76C 0098967F
+
+[Infinite Lens]
+Type = Gameshark
+Activation = EndFrame
+901CE77C 0098967F
+
+[No Random Battles]
+Type = Gameshark
+Activation = EndFrame
+801CE982 00FF
+
+[Debug Mode]
+Description = Enabling this cheat will make the cursor at the title screen select an invisible option. Selecting it will take you to the debug room. Some key combinations will have debugging options
+Type = Gameshark
+Activation = EndFrame
+801B3B28 0004
+

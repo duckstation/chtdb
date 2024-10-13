@@ -1,0 +1,52 @@
+; CHTDB: ; [ Covert Ops - Nuclear Dawn (USA) (2000) (Activision) {SLUS-01151 / SLUS-01157} <covertop> ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80010402 1000
+
+[Infinite Ammo/Items (All Weapons/Items)]
+Type = Gameshark
+Activation = EndFrame
+A707D71A A4A20000
+
+[Always Low Timer]
+Type = Gameshark
+Activation = EndFrame
+900103F0 00000000
+
+[All Maps Complete]
+Type = Gameshark
+Activation = EndFrame
+50000704 0000
+30010A80 0080
+50000804 0000
+30010AA0 0080
+50000404 0000
+30010AD0 0080
+50000204 0000
+30010AE4 0080
+50000604 0000
+30010B14 0080
+
+[Have All Memos]
+Type = Gameshark
+Activation = EndFrame
+50003901 0001
+3001088C 0000
+
+[Invincibility against Bullets]
+Type = Gameshark
+Activation = EndFrame
+A70A4D56 12001000
+
+[Invincibility against Pistol Whipping]
+Type = Gameshark
+Activation = EndFrame
+A70A4C06 10401400
+
+[Open All Doors (Not Hatches)]
+Type = Gameshark
+Activation = EndFrame
+A70BCCC6 10701000
+

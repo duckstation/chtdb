@@ -1,0 +1,13 @@
+; CHTDB: ; [ Hardcore 4x4 (Europe) {SLES-00261} ]
+
+[Have Secret Car]
+Type = Gameshark
+Activation = EndFrame
+800848EA 0006
+801F83A4 0003
+
+[Infinite Turbos]
+Type = Gameshark
+Activation = EndFrame
+301F5250 0003
+

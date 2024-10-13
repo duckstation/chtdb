@@ -1,0 +1,66 @@
+; CHTDB: ; [ Kaze no Klonoa: Door to Phantomile (Japan) {SLPS-01010} ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8010DAE0 0007
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+3010DADA 0063
+
+[Flying Code]
+Type = Gameshark
+Activation = EndFrame
+30075DE8 0064
+3006E5E0 0000
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800BE584 00FF
+
+[Number six people who helped the dream of the inhabitants]
+Type = Gameshark
+Activation = EndFrame
+8010DADE 0006
+
+[I can many times jump in the air]
+Type = Gameshark
+Activation = EndFrame
+9006E49C 00000000
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A70BE9F0 10000C00
+A7105568 10000C00
+A7109950 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A70BE9F0 10000900
+A7105568 10000900
+A7109950 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A70BE9F0 10000400
+A7105568 10000400
+A7109950 10000400
+
+[Remove Dither (Use with widescreen code)]
+Type = Gameshark
+Activation = EndFrame
+A70A95DC 02000000
+
+[Widescreen Heart Sprites (Level 1 only)]
+Type = Gameshark
+Activation = EndFrame
+A70C3CFC 10000C00
+A70C3D34 10000C00
+A70C3D18 10000C00
+

@@ -1,0 +1,27 @@
+; CHTDB: ; [ The Lost World: Jurassic Park (Europe) (EDC Original, EA Classics) {SLES-00903} ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+90014D74 00000000
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+900243FC 00000000
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A7065460 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A7065460 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A7065460 10000400
+

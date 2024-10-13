@@ -1,0 +1,37 @@
+; CHTDB: ; [ Descent (USA) (1996) (Interplay Productions) {SLUS-00037} <descent> ]
+
+[Infinite Shield]
+Type = Gameshark
+Activation = EndFrame
+800D10A6 0064
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800D10A2 0064
+
+[Infinite Homing Missiles]
+Type = Gameshark
+Activation = EndFrame
+800D10BC 0009
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800D10A8 000A
+
+[Have All Weapons]
+Type = Gameshark
+Activation = EndFrame
+800D10AE FFFF
+
+[Select Cheat\Have All Keys (All Levels)]
+Type = Gameshark
+Activation = EndFrame
+800D109C 000E
+
+[Select Cheat\Have All Keys (All Levels), Invincibility + Cloaking Device]
+Type = Gameshark
+Activation = EndFrame
+800D109C 0F0F
+

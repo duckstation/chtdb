@@ -1,0 +1,135 @@
+; CHTDB: ; [ Crash Bandicoot 2: Cortex no Gyakushuu! (Japan) {SCPS-10047} ]
+
+[Infinite Lives 99]
+Type = Gameshark
+Activation = EndFrame
+8006D9CC 63FF
+
+[All Stages open]
+Type = Gameshark
+Activation = EndFrame
+8006DA26 0AFF
+9006DA28 FFFFFFFF
+9006DBA0 FFFFFF01
+8006D9D8 43C8
+
+[Infinite Jump (Press Select + Left ON, Select + Right OFF)]
+Type = Gameshark
+Activation = EndFrame
+D006BD92 FF7E
+8001E9F4 0000
+D006BD92 FFDE
+8001E9F4 00A8
+
+[Collect from Anywhere/Easy Hit Boxes (Press R2)]
+Type = Gameshark
+Activation = EndFrame
+A702DF4A 14001040
+A702DF5A 14001160
+A702DF6E 14001040
+A702E2B2 14001560
+A702E2C2 14001160
+A702E2D6 14001040
+A702E24E 10001160
+D7200000 00000002
+A702DF4A 10401400
+A702DF5A 11601400
+A702DF6E 10401400
+A702E2B2 15601400
+A702E2C2 11601400
+A702E2D6 10401400
+A702E24E 11601000
+;Finds to duplicate above addresses for clones/regions
+;f 0,fffff,w.1040,0,0,?,8fab,0,0,?,1160
+;f 0,fffff,w.1160,1,3c0b
+;f 0,fffff,w.1040,0,0,0100,8ee2
+;f 0,fffff,w.1560,0,0,?,8fab
+;f 0,fffff,w.1160,18,27a4
+;f 0,fffff,w.1040,2021,2e0
+;f 0,fffff,w.1160,0,0,?,8fab
+;#Invincibility
+;9001D264 24030004
+;hugopocked type 1, Teh69thSpartan type 2
+
+[Select Moon Jump Cheat\Type 1]
+Type = Gameshark
+Activation = EndFrame
+A701E7F0 00882000
+A701E7F2 AE230800
+A701E7F6 00652400
+90008000 3C148006
+90008004 3694BD92
+90008008 96930000
+90008010 00139B82
+90008018 32730001
+90008020 16600005
+90008028 3063FFFF
+9000802C 3C14000C
+90008030 00741825
+90008038 AE230088
+9000803C 080079FE
+90008040 0065182A
+
+[Select Moon Jump Cheat\Type 2]
+Type = Gameshark
+Activation = EndFrame
+A701E798 00AC2C00
+A701E79A 8E220C00
+9000B000 27BDFFE8
+9000B004 AFA80010
+9000B008 3C088007
+9000B00C 9508BD92
+9000B014 00084027
+9000B018 31084000
+9000B01C 39084000
+9000B020 11000002
+9000B028 8E2200AC
+9000B030 8FA80010
+9000B034 27BD0018
+9000B038 03E00008
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+A701D272 14401000
+
+[Invincibility No Hit]
+Description = Press Select/Back to disable (You must disable it to make the level platforms work - such as Bonus Rounds, Death Routes)
+Type = Gameshark
+Activation = EndFrame
+A701E812 10001040
+D7100000 00000100
+A701E812 10401000
+
+[Invincibility No Hit]
+Description = Press Select/Back to disable "alt code" (You must disable it to make the level platforms work - such as Bonus Rounds, Death Routes)
+Type = Gameshark
+Activation = EndFrame
+A701E84E 10001440
+D7100000 00000100
+A701E84E 14401000
+
+[Crates suddenly break]
+Description = Use with Invincibility cheat
+Type = Gameshark
+Activation = EndFrame
+A702B962 0C002400
+
+[Select Widescreen Type\Widescreen Hor+]
+Type = Gameshark
+Activation = EndFrame
+A7017F04 F5F70C00
+A7017F06 0C00241B
+A7017F08 20231000
+A7017F0A 00042402
+A7017F26 A662A67B
+
+[Select Widescreen Type\Widescreen Vert-]
+Type = Gameshark
+Activation = EndFrame
+A7017F04 F5F71000
+A7017F06 0C00241B
+A7017F08 20231555
+A7017F0A 00042402
+A7017F26 A662A67B
+

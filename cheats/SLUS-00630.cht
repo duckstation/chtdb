@@ -1,0 +1,42 @@
+; CHTDB: ; [ Judge Dredd (USA) (1998) (Activision) {SLUS-00630} <jdredd> ]
+
+[P1 Ininite Health]
+Type = Gameshark
+Activation = EndFrame
+800DA992 03E8
+
+[P1 Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+800DA9A0 0803
+
+[P1 Have Score Of 1 Million]
+Type = Gameshark
+Activation = EndFrame
+900DA974 3B9ACA00
+
+[P2 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800DA9DA 03E8
+
+[P2 Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+800DA9E8 0803
+
+[Both\Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+801E33E6 0004
+
+[Both\Deformed Characters]
+Type = Gameshark
+Activation = EndFrame
+3001BCA8 0001
+
+[Both\Invincibility]
+Type = Gameshark
+Activation = EndFrame
+3001BCA7 0001
+

@@ -1,0 +1,63 @@
+; CHTDB: ; [ Disney Il Re Leone: La Grande Avventura di Simba (Italy) {SLES-03271} ]
+
+[One fruit == 999 fruits]
+Type = Gameshark
+Activation = EndFrame
+900212C8 344203E7
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80075650 03E7
+
+[Always have 100 coins]
+Type = Gameshark
+Activation = EndFrame
+90021300 34020064
+90021320 34020064
+9002A5B4 34020064
+
+[Always have all SIMBA's letters]
+Type = Gameshark
+Activation = EndFrame
+30094DB6 009F
+
+[GodMode]
+Type = Gameshark
+Activation = EndFrame
+8001A73A 1000
+
+[All Levels Unlocked (Untested)]
+Type = Gameshark
+Activation = EndFrame
+50000901 0000
+8007A00A 0001
+
+[Have All Movies (Untested)]
+Type = Gameshark
+Activation = EndFrame
+50000901 0000
+3007A076 0001
+
+[All Minigames Unlocked 99 pumpkins (Untested)]
+Type = Gameshark
+Activation = EndFrame
+800EB654 0063
+
+[Unlock Trucchi and Thanks in the options menu]
+Type = Gameshark
+Activation = EndFrame
+D00A99C2 FEFF
+80073EF8 8000
+30073EFC 0000
+D00A99C2 FFFF
+80073EF8 0080
+
+[Activate\Deactivate debug menu Tasto R2 attiva | Tasto R1 disattiva]
+Type = Gameshark
+Activation = EndFrame
+D00A99C2 FDFF
+30094188 0001
+D00A99C2 F7FF
+30094188 0000
+

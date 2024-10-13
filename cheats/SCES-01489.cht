@@ -1,0 +1,131 @@
+; CHTDB: ; [ Disney/Pixar A Bug's Life (Europe) {SCES-01489} ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800A6634 0004
+800B0232 0004
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+300A6640 0009
+;#Infinite Lives
+;800B022A 0009
+
+[Always spell FLIK]
+Type = Gameshark
+Activation = EndFrame
+800A6642 000F
+
+[Always have 50 grains of corn]
+Type = Gameshark
+Activation = EndFrame
+800A6640 3200
+
+[Jump in Mid-Air]
+Type = Gameshark
+Activation = EndFrame
+A7048C12 14401000
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+A704A80E 1C001000
+
+[Invincibility No Hit]
+Type = Gameshark
+Activation = EndFrame
+A704AF0A 10401000
+
+[Always have the Super Jump]
+Type = Gameshark
+Activation = EndFrame
+A704820E 10402400
+A7055D12 10402400
+
+[Grab stuff from anywhere]
+Type = Gameshark
+Activation = EndFrame
+A7053CF2 10402400
+A70545E4 80085198
+A70545E6 3C020801
+
+[1-Hit Kills]
+Description = Disable when facing Hopper + Thud
+Type = Gameshark
+Activation = EndFrame
+A70591EE 1C402400
+
+[Moon Jump]
+Type = Gameshark
+Activation = EndFrame
+A7048DE4 00823000
+A7048DE6 86220C00
+9000C000 27BDFFE8
+9000C004 AFA80010
+9000C008 3C088009
+9000C00C 910890DB
+9000C014 00084027
+9000C018 31080040
+9000C01C 39080040
+9000C020 11000002
+9000C028 86220082
+9000C030 8FA80010
+9000C034 27BD0018
+9000C038 03E00008
+
+[Rapid Berry Throw]
+Type = Gameshark
+Activation = EndFrame
+A7049100 00863010
+A7049102 86230C00
+A7049104 000A0000
+A7049106 24020000
+9000C040 27BDFFE8
+9000C044 AFA80010
+9000C048 3C088009
+9000C04C 910890DB
+9000C054 00084027
+9000C058 31080080
+9000C05C 39080080
+9000C060 11000006
+9000C068 86230086
+9000C06C 2402000A
+9000C074 08003020
+9000C07C 27FF0008
+9000C080 8FA80010
+9000C084 27BD0018
+9000C088 03E00008
+
+[Select Jump Height\Normal]
+Type = Gameshark
+Activation = EndFrame
+80048DF4 0100
+
+[Select Jump Height\2x]
+Type = Gameshark
+Activation = EndFrame
+80048DF4 0080
+
+[Select Jump Height\4x]
+Type = Gameshark
+Activation = EndFrame
+80048DF4 0040
+
+[Select Jump Height\10x]
+Type = Gameshark
+Activation = EndFrame
+80048DF4 001A
+
+[Select Jump Height\0.5x]
+Type = Gameshark
+Activation = EndFrame
+80048DF4 0200
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+A7027E24 66664CCC
+A7027E2C 6667CCCD
+

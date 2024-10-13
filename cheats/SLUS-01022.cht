@@ -1,0 +1,20 @@
+; CHTDB: ; [ Armorines - Project S.W.A.R.M. (USA) (2000) (Acclaim Entertainment) {SLUS-01022} <armorine> ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+D00466EC 1023
+800466F2 2400
+
+[Infinite Ammo (Upon Pickup)]
+Type = Gameshark
+Activation = EndFrame
+D0046A60 1023
+80046A66 2400
+
+[Infinite Heatlh (Transport)]
+Type = Gameshark
+Activation = EndFrame
+D005BA88 0008
+8005BA8E 2400
+

@@ -1,0 +1,17 @@
+; CHTDB: ; [ Memorial Star Series - Sunsoft Vol.5 - Raf World & Hebereke (Jpn) (2002) (Sunsoft) {SLPS-03397} <sunsoft5> ]
+
+[Infinite Lives RAF world]
+Type = Gameshark
+Activation = EndFrame
+800BA4BB 0005
+
+[Infinite Energy RAF world]
+Type = Gameshark
+Activation = EndFrame
+800BA517 0FF6
+
+[Infinite Energy Herebeke]
+Type = Gameshark
+Activation = EndFrame
+800C06E5 0008
+

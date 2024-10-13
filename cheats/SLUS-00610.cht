@@ -1,0 +1,40 @@
+; CHTDB: ; [ Test Drive 5 (USA) (1998) (Accolade) {SLUS-00610} <td5> ]
+
+[Always Place First]
+Type = Gameshark
+Activation = EndFrame
+300987FB 0000
+
+[Have 99 Points In Cup Race]
+Type = Gameshark
+Activation = EndFrame
+3009DA24 0063
+
+[Enable All Tracks]
+Type = Gameshark
+Activation = EndFrame
+8009DB72 0202
+9009DB74 02020202
+9009DB78 02020202
+9009DB7C 02020202
+9009DB80 02020202
+9009DB84 02020202
+9009DB88 02020202
+8009DB96 0202
+8009DB98 0202
+
+[Enable All Cars]
+Type = Gameshark
+Activation = EndFrame
+8009DB56 0202
+9009DB58 02020202
+9009DB5C 02020202
+9009DB60 02020202
+9009DB64 02020202
+8009DB68 0202
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+A708815C 199A1334
+

@@ -1,0 +1,22 @@
+; CHTDB: ; [ NBA Showtime: NBA on NBC (Europe) {SLES-02336} ]
+
+[Team 1 score 100]
+Type = Gameshark
+Activation = EndFrame
+800B5B60 0064
+
+[Team 1 score 0]
+Type = Gameshark
+Activation = EndFrame
+800B5B60 0000
+
+[Team 2 score 100]
+Type = Gameshark
+Activation = EndFrame
+800B5B7C 0000
+
+[Team 2 score 0]
+Type = Gameshark
+Activation = EndFrame
+800B5B7C 0000
+

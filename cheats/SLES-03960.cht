@@ -1,0 +1,17 @@
+; CHTDB: ; [ Snowboard Racer (Europe) {SLES-03960} ]
+
+[Race Mode - Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80053A64 0724
+
+[Trick Mode - Max Points]
+Type = Gameshark
+Activation = EndFrame
+80053A60 270F
+
+[Trick Mode - Point Limit Always 1]
+Type = Gameshark
+Activation = EndFrame
+80053A64 0001
+

@@ -1,0 +1,22 @@
+; CHTDB: ; [ Freestyle Boardin' '99 (USA) (1999) (Capcom Entertainment) {SLUS-00767} <freebd99> ]
+
+[Maximum Trick Points]
+Type = Gameshark
+Activation = EndFrame
+800B6924 FFFF
+
+[Infinite Attribute Points]
+Type = Gameshark
+Activation = EndFrame
+800DE5E8 0009
+
+[Time is 0.00.00]
+Type = Gameshark
+Activation = EndFrame
+800B65C8 0000
+
+[Never Miss Any Flags]
+Type = Gameshark
+Activation = EndFrame
+800B65F8 0000
+

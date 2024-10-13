@@ -1,0 +1,7 @@
+; CHTDB: ; [ Forget me not - Palette (Jpn) (2001) (Enterbrain) {SLPS-03191} <fgtmenot> ]
+
+[Infinite Moves in memories world (Can Freeze the game)]
+Type = Gameshark
+Activation = EndFrame
+800F8738 0009
+

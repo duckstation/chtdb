@@ -1,0 +1,18 @@
+; CHTDB: ; [ Nightmare Creatures (USA) (1997) (Activision) {SLUS-00582} <ncreatur> ]
+
+[Infinite Heals]
+Type = Gameshark
+Activation = EndFrame
+800CC06E 0009
+
+[Infinite All Items]
+Type = Gameshark
+Activation = EndFrame
+50000C02 0000
+800CC05C 0009
+
+[Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+83F33FF9 0009
+

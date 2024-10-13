@@ -1,0 +1,134 @@
+; CHTDB: ; [ Exhumed (Europe) {SLES-00097} ]
+
+;Note: Powerslave is the USA version
+[Infinite Life Energy]
+Type = Gameshark
+Activation = EndFrame
+800791BC 00C8
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800830A2 00C8
+
+[No Problems With Air]
+Type = Gameshark
+Activation = EndFrame
+800830AC 0040
+
+[All Levels Selectables]
+Type = Gameshark
+Activation = EndFrame
+9007D1F0 1A161F11
+9007D1F4 1415171C
+9007D1F8 1A131515
+9007D1FC 1115151C
+9007D200 1A1A1219
+8007D204 0018
+
+[Chains Of Power]
+Type = Gameshark
+Activation = EndFrame
+800830C2 0007
+
+[Gun Equipped]
+Type = Gameshark
+Activation = EndFrame
+800830C6 0040
+
+[Infinite Gun-Power]
+Type = Gameshark
+Activation = EndFrame
+800830C6 003C
+
+[M60 Equipped]
+Type = Gameshark
+Activation = EndFrame
+800830C8 0040
+
+[Infinite M60-Power]
+Type = Gameshark
+Activation = EndFrame
+800830C8 0032
+
+[Amun-Bombs Equipped]
+Type = Gameshark
+Activation = EndFrame
+800830CA 0040
+
+[Infinite Amun-Bomb-Power]
+Type = Gameshark
+Activation = EndFrame
+800830CA 0014
+
+[Flamethrower Equipped]
+Type = Gameshark
+Activation = EndFrame
+800830CC 0040
+
+[Infinite Flamethrower]
+Type = Gameshark
+Activation = EndFrame
+800830CC 003C
+
+[Cobra Staff]
+Type = Gameshark
+Activation = EndFrame
+800830CE 0032
+
+[Infinite Cobra Staff]
+Type = Gameshark
+Activation = EndFrame
+800830CE 0014
+
+[Ring Of Ra]
+Type = Gameshark
+Activation = EndFrame
+800830D0 0100
+
+[Energy For Chains Of Power]
+Type = Gameshark
+Activation = EndFrame
+800830D2 00FF
+
+[Manacle]
+Type = Gameshark
+Activation = EndFrame
+800830D2 013C
+
+[All Four Keys]
+Type = Gameshark
+Activation = EndFrame
+800830EA 000F
+
+[Have All Artifacts]
+Type = Gameshark
+Activation = EndFrame
+300830E8 00FF
+
+[Have All Maps]
+Type = Gameshark
+Activation = EndFrame
+800830F4 0606
+
+[Have All Symbols]
+Type = Gameshark
+Activation = EndFrame
+300830EA 000F
+
+[Have All Transmiter Pieces]
+Type = Gameshark
+Activation = EndFrame
+300830EE 00FF
+
+[Have All Weapons & Infinite AMMMO]
+Type = Gameshark
+Activation = EndFrame
+50000702 0040
+800830C6 0000
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+A7074C60 10001550
+

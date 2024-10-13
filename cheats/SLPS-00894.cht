@@ -1,0 +1,101 @@
+; CHTDB: ; [ Angel Blade (Jpn) (1997) (On DiMand) {SLPS-00894} <angelbld> ]
+
+[Infinite AP]
+Type = Gameshark
+Activation = EndFrame
+800B85E0 0009
+800B85E6 0009
+800B861C 0009
+800B8622 0009
+800B86D0 0009
+800B86D6 0009
+800B8658 0009
+800B865E 0009
+800B8694 0009
+800B869A 0009
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800B85E2 03E7
+800B85E4 03E7
+800B861E 03E7
+800B8620 03E7
+800B86D2 03E7
+800B86D4 03E7
+800B865A 03E7
+800B865C 03E7
+800B8696 03E7
+800B8698 03E7
+
+[Max At]
+Type = Gameshark
+Activation = EndFrame
+800B85E8 03E7
+800B8624 03E7
+800B86D6 03E7
+800B8660 03E7
+800B869C 03E7
+
+[Max Df]
+Type = Gameshark
+Activation = EndFrame
+800B85EA 03E7
+800B8626 03E7
+800B86DA 03E7
+800B8662 03E7
+800B869E 03E7
+
+[Max Hit Rate]
+Type = Gameshark
+Activation = EndFrame
+800B85EC 03E7
+800B8628 03E7
+800B86DC 03E7
+800B8664 03E7
+800B86A0 03E7
+
+[Max Esc Rate]
+Type = Gameshark
+Activation = EndFrame
+800B85EE 03E7
+800B862A 03E7
+800B86DE 03E7
+800B8666 03E7
+800B86A2 03E7
+
+[Select Scenario\2]
+Type = Gameshark
+Activation = EndFrame
+300B8EAE 0003
+
+[Select Scenario\4]
+Type = Gameshark
+Activation = EndFrame
+300B8EAE 0004
+
+[Select Scenario\5]
+Type = Gameshark
+Activation = EndFrame
+300B8EAE 0005
+
+[Select Scenario\6]
+Type = Gameshark
+Activation = EndFrame
+300B8EAE 0006
+
+[Select Scenario\7]
+Type = Gameshark
+Activation = EndFrame
+300B8EAE 0007
+
+[Select Scenario\8]
+Type = Gameshark
+Activation = EndFrame
+300B8EAE 0008
+
+[Select Scenario\9]
+Type = Gameshark
+Activation = EndFrame
+300B8EAE 0009
+

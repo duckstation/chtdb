@@ -1,0 +1,12 @@
+; CHTDB: ; [ Block Wars (Japan) {SLPS-03219} ]
+
+[Opponent has always 0 wins]
+Type = Gameshark
+Activation = EndFrame
+80154E4C 0000
+
+[Player has always 2 wins]
+Type = Gameshark
+Activation = EndFrame
+80154E48 0002
+

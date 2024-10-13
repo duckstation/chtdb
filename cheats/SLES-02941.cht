@@ -1,0 +1,36 @@
+; CHTDB: ; [ Dancing Stage: Euromix (Europe) {SLES-02941} ]
+
+[P1 Max Total Score]
+Type = Gameshark
+Activation = EndFrame
+900BD60C 3B9AC9FF
+
+[P1 Max Dance Gauge]
+Type = Gameshark
+Activation = EndFrame
+800BD602 03E8
+
+[P1 Perfect Play Results]
+Type = Gameshark
+Activation = EndFrame
+800BD654 270F
+50000404 0000
+800BD658 0000
+800BD670 270F
+
+[All Lessons Clear]
+Type = Gameshark
+Activation = EndFrame
+50000C02 0000
+800D9274 0202
+
+[Unlock All Extras]
+Description = Unlocks event mode and lost DDR, 3rd Mix gallery (select EXIT on options)
+Type = Gameshark
+Activation = EndFrame
+800D7E88 027F
+800D7E90 0FFF
+800D7E98 003F
+E010DA50 0008
+3010DA50 0007
+

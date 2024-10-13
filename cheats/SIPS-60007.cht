@@ -1,0 +1,72 @@
+; CHTDB: ; [ Twisted Metal (Japan) {SIPS-60007} ]
+
+[Infinite Shield]
+Type = Gameshark
+Activation = EndFrame
+8019EFB8 0073
+
+[Infinite Fire Missiles]
+Type = Gameshark
+Activation = EndFrame
+8019F2A4 0063
+
+[Infinite Freeze Missiles]
+Type = Gameshark
+Activation = EndFrame
+8019F2A6 0063
+
+[Infinite Homing Missiles]
+Type = Gameshark
+Activation = EndFrame
+8019F2A8 0063
+
+[Infinite Power Missiles]
+Type = Gameshark
+Activation = EndFrame
+8019F2AA 0063
+
+[Infinite Tag Missiles]
+Type = Gameshark
+Activation = EndFrame
+8019F2AC 0063
+
+[Infinite Rear Missiles]
+Type = Gameshark
+Activation = EndFrame
+8019F2AE 0063
+
+[Infinite Catapults]
+Type = Gameshark
+Activation = EndFrame
+8019F2B0 0063
+
+[Infinite Rear Flame]
+Type = Gameshark
+Activation = EndFrame
+8019F2B2 0063
+
+[Infinite Mines]
+Type = Gameshark
+Activation = EndFrame
+8019F2B4 0063
+
+[Infinite Oil Slicks]
+Type = Gameshark
+Activation = EndFrame
+8019F2A6 0063
+
+[Infinite Tyre Spikes]
+Type = Gameshark
+Activation = EndFrame
+8019F2A8 0063
+
+[Infinite Specials]
+Type = Gameshark
+Activation = EndFrame
+8019F2AA 0063
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8018C674 0003
+

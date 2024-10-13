@@ -1,0 +1,12 @@
+; CHTDB: ; [ Brunswick Circuit Pro Bowling (USA) (1998) (THQ) {SLUS-00571} <brunscpb> ]
+
+[Always Win Tourney]
+Type = Gameshark
+Activation = EndFrame
+8010AEA8 270F
+
+[Max Number Of Pins Downed]
+Type = Gameshark
+Activation = EndFrame
+8010ADA6 270F
+

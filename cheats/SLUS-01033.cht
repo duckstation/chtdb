@@ -1,0 +1,49 @@
+; CHTDB: ; [ Polaris SnoCross (USA) (2000) (Vatical Entertainment) {SLUS-01033} <polarsno> ]
+
+[Stop Timer]
+Type = Gameshark
+Activation = EndFrame
+D0038A74 0001
+800AB5E4 0000
+
+[Max Tournament Points]
+Type = Gameshark
+Activation = EndFrame
+D0038A74 0001
+80061958 0FFF
+
+[Unlock All Classes]
+Type = Gameshark
+Activation = EndFrame
+D0038A74 0001
+800619D8 0004
+
+[Unlock All Tracks]
+Type = Gameshark
+Activation = EndFrame
+D0038A74 0001
+800619E4 03FF
+
+[Unlock All Sleds]
+Type = Gameshark
+Activation = EndFrame
+D0038A74 0001
+800619E0 01FF
+
+[Infinite Wrenches All Sleds]
+Type = Gameshark
+Activation = EndFrame
+C0038A74 0001
+900618A4 FFFFFFFF
+900618A8 FFFFFFFF
+900618AC FFFFFFFF
+300618B3 00FF
+300618B4 00FF
+300618B8 00FF
+300618BE 00FF
+300618C2 00FF
+300618C8 00FF
+800618CC FFFF
+300618CE 00FF
+00000000 FFFF
+

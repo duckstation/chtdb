@@ -1,0 +1,28 @@
+; CHTDB: ; [ Activision Classics (USA) (1998) (Activision) {SLUS-00777GH} <activcls> ]
+
+[Hero\Infinite Lives, Bombs, and power]
+Description = L2- on R2- off turn on at the start of the level turn off to go to the next level
+Type = Gameshark
+Activation = EndFrame
+D008F96C FEFF
+900362FC 08000074
+D008F96C FDFF
+900362FC 03E00008
+900001D0 34070406
+900001D4 A7070032
+900001D8 34070051
+900001DC 03E00008
+900001E0 A307002B
+
+[Keystone Capers\Infinite Time]
+Description = L2- on R2- off turn on at the start of the level turn off to go to the next level
+Type = Gameshark
+Activation = EndFrame
+D008F96C FEFF
+900357F4 08000068
+D008F96C FDFF
+900357F4 03E00008
+900001A0 34070080
+900001A4 03E00008
+900001A8 A307001D
+

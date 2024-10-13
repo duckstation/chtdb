@@ -1,0 +1,27 @@
+; CHTDB: ; [ X Games Pro Boarder (USA) (1998) (Electronic Arts) {SLUS-00704} <xpboard> ]
+
+[Have 99999 points in Half Pipe]
+Type = Gameshark
+Activation = EndFrame
+9010F228 0001869F
+
+[Enable All Events]
+Type = Gameshark
+Activation = EndFrame
+800BA194 0009
+
+[Enable Circuit Mode]
+Type = Gameshark
+Activation = EndFrame
+800E68EC 0F74
+
+[Enable Ollie-B]
+Type = Gameshark
+Activation = EndFrame
+800BA11C 0009
+
+[Enable Super Circuit Mode]
+Type = Gameshark
+Activation = EndFrame
+800BA0C8 0004
+

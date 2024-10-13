@@ -1,0 +1,23 @@
+; CHTDB: ; [ Shellshock: Jus' Keepin' da Peace (Japan) {SLPS-00486} ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+90087ED8 06000600
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+80085BF8 FFFF
+
+[Status MAX]
+Type = Gameshark
+Activation = EndFrame
+80085BF0 0004
+80085BF4 0004
+80085BF2 0004
+80085BF6 0004
+80085BEE 0004
+80085BE6 0004
+80085C04 0004
+

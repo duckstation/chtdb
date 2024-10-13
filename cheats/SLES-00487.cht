@@ -1,0 +1,49 @@
+; CHTDB: ; [ Final Doom (Europe) {SLES-00487} ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800AB410 0064
+800AB41C 0001
+8012734C 0064
+
+[Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+800AB414 0064
+
+[Always Have Map]
+Type = Gameshark
+Activation = EndFrame
+800AB42C 0001
+
+[Mega Rapid Fire]
+Type = Gameshark
+Activation = EndFrame
+E0099132 0010
+800AB4D8 0001
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+50000404 0000
+800AB484 0064
+
+[All Weapons]
+Type = Gameshark
+Activation = EndFrame
+50000704 0000
+800AB468 0001
+
+[All Keys]
+Type = Gameshark
+Activation = EndFrame
+50000304 0000
+800AB440 0001
+
+[Level Select (Pause menu) (Press Select & X Pad 2)]
+Type = Gameshark
+Activation = EndFrame
+D0099156 BFFE
+800AB4AC 0020
+

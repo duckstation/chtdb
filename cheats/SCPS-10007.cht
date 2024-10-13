@@ -1,0 +1,19 @@
+; CHTDB: ; [ Jumping Flash! Aloha Danshaku Funky Daisakusen no Maki (Japan) {SCPS-10007} ]
+
+[All Stages Open]
+Type = Gameshark
+Activation = EndFrame
+30014519 0001
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80102EF4 0005
+
+[Unlock All Extras all stages and bonus modes]
+Type = Gameshark
+Activation = EndFrame
+C1000000 0000
+300140E2 0024
+300140E9 0003
+

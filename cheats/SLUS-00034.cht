@@ -1,0 +1,29 @@
+; CHTDB: ; [ Virtual Pool (USA) (1997) (Interplay Productions) {SLUS-00034} <vpool> ]
+
+[Select Perm Turn\Player A]
+Type = Gameshark
+Activation = EndFrame
+800DAA64 0000
+
+[Select Perm Turn\Player B]
+Type = Gameshark
+Activation = EndFrame
+800DAA64 0001
+
+[Always Use Tracking Lines]
+Type = Gameshark
+Activation = EndFrame
+800A645C 0001
+
+[Player A Always Scratches]
+Type = Gameshark
+Activation = EndFrame
+D00DAA64 0000
+800A65D4 0001
+
+[Player B Always Scratches]
+Type = Gameshark
+Activation = EndFrame
+D00DAA64 0001
+800A65D4 0001
+

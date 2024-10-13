@@ -1,0 +1,37 @@
+; CHTDB: ; [ Test Drive Off-Road (USA) (1997) (Accolade) {SLUS-00396} <tdoffr> ]
+
+[Have Stockcar]
+Type = Gameshark
+Activation = EndFrame
+300B4A88 0001
+
+[Have Hotrod]
+Type = Gameshark
+Activation = EndFrame
+300B4A8A 0001
+
+[Have Monster Truck]
+Type = Gameshark
+Activation = EndFrame
+300B4A8B 0001
+
+[Have 4X4 Buggy]
+Type = Gameshark
+Activation = EndFrame
+300B4A8C 0001
+
+[Enable Stock Car 2]
+Type = Gameshark
+Activation = EndFrame
+300B4A8D 0001
+
+[Enable Blue VW Bug]
+Type = Gameshark
+Activation = EndFrame
+300B4A89 0001
+
+[Open All Tracks]
+Type = Gameshark
+Activation = EndFrame
+800B1978 000C
+

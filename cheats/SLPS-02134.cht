@@ -1,0 +1,27 @@
+; CHTDB: ; [ Pocket Family: Happy Family Plan (Japan) {SLPS-02134} ]
+
+[Infinite Time in throw paper to basket mini game the first time you play it]
+Type = Gameshark
+Activation = EndFrame
+800F8A20 0320
+
+[Family Garden No Grass]
+Type = Gameshark
+Activation = EndFrame
+800D9AE4 0000
+
+[No Rubbish]
+Type = Gameshark
+Activation = EndFrame
+800D9BE0 0000
+
+[Infinite Moves In The Mini Game]
+Type = Gameshark
+Activation = EndFrame
+8015BA28 02FF
+
+[Infinite HP In The Mini Game]
+Type = Gameshark
+Activation = EndFrame
+80097AE6 03E7
+

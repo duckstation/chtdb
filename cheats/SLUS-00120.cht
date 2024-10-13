@@ -1,0 +1,12 @@
+; CHTDB: ; [ The Hive (USA) (1997) (Trimark Interactive) {SLUS-00120 / SLUS-00182} <hive> ]
+
+[Infinite Thrust]
+Type = Gameshark
+Activation = EndFrame
+800685FC 00FF
+
+[Infinite Shield]
+Type = Gameshark
+Activation = EndFrame
+8006B5DC 1612
+

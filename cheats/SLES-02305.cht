@@ -1,0 +1,18 @@
+; CHTDB: ; [ Marvel vs. Capcom: Clash of Super Heroes (Europe) {SLES-02305} ]
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8007C2BC 0090
+
+[P1 1 Hit-Kill]
+Type = Gameshark
+Activation = EndFrame
+A607C2BC 00900001
+
+[Unlock Hidden Characters & Gallery]
+Type = Gameshark
+Activation = EndFrame
+9007B8C4 FFFFFFFF
+8007B8C8 FFFF
+

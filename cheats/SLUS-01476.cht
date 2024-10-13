@@ -1,0 +1,18 @@
+; CHTDB: ; [ Capcom vs. SNK Pro (USA) (2002) (Capcom Entertainment) {SLUS-01476} <cvspro> ]
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+9006E650 4EC04EC0
+8006E654 4EC0
+
+[P1 Max Special Gauge]
+Type = Gameshark
+Activation = EndFrame
+8006E704 9000
+
+[Enable All Hidden Characters]
+Type = Gameshark
+Activation = EndFrame
+9006E300 FFFFFFFF
+

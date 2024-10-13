@@ -1,0 +1,12 @@
+; CHTDB: ; [ BattleSport (USA) (1997) (Acclaim Entertainment) {SLUS-00389} <btlsport> ]
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801FCA42 0064
+
+[P2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801FCAD6 0064
+

@@ -1,0 +1,64 @@
+; CHTDB: ; [ Spider-Man 2 - Enter - Electro (USA) (2001) (Activision) {SLUS-01378, SLUS-01378GH} <spiderm2> ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+301DB7F6 0064
+
+[Infinite Web Cartriges]
+Type = Gameshark
+Activation = EndFrame
+301DBD40 0007
+
+[All Training Complete]
+Type = Gameshark
+Activation = EndFrame
+800B322C FFFF
+
+[Infinite Health (Level 1)]
+Type = Gameshark
+Activation = EndFrame
+301DEB4E 0064
+
+[Infinite Web Cartriges (Level 1)]
+Type = Gameshark
+Activation = EndFrame
+301DF098 0007
+
+[All Costumes Unlocked]
+Type = Gameshark
+Activation = EndFrame
+900B31F8 FFFFFFFF
+
+[All Levels Unlocked]
+Type = Gameshark
+Activation = EndFrame
+300C1FD8 0001
+
+[All Powers in Create A Spider]
+Type = Gameshark
+Activation = EndFrame
+800B3210 FFFF
+
+[All Gallery Items]
+Type = Gameshark
+Activation = EndFrame
+50000A02 0000
+800B31FC FFFF
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+A70C2A90 10000400
+A70C2A94 19990666
+
+[Widescreen 16-9 (Vert-)]
+Type = Gameshark
+Activation = EndFrame
+A70C2A94 19991333
+
+[Widescreen 16-9 (for Rev 1; Vert-)]
+Type = Gameshark
+Activation = EndFrame
+800C2A8C 1333
+

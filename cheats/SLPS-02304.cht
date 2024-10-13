@@ -1,0 +1,18 @@
+; CHTDB: ; [ Fighting Illusion V: K-1 Grand Prix '99 (Japan) {SLPS-02304} ]
+
+[P1 Never K.o]
+Type = Gameshark
+Activation = EndFrame
+8010202E 0000
+
+[P1 Infinite Rush Power]
+Type = Gameshark
+Activation = EndFrame
+80102024 013F
+
+[P1 Always Have Maximum Spirit & Power]
+Type = Gameshark
+Activation = EndFrame
+50000204 0000
+80102018 E19C
+

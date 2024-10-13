@@ -1,0 +1,13 @@
+; CHTDB: ; [ Mouri Motonari - Chikai no Sanshi (Jpn) (1998) (Koei) {SLPS-01285} <morimotn> ]
+
+[Have 9999 money]
+Type = Gameshark
+Activation = EndFrame
+800F45DC 270F
+
+[Infinite HP Main unit]
+Type = Gameshark
+Activation = EndFrame
+800FE078 03E7
+800E43D0 03E7
+

@@ -1,0 +1,27 @@
+; CHTDB: ; [ Monster Rancher (USA) (1997) (Tecmo) {SLUS-00568} <mrancher> ]
+
+[Infinite Health In Battle]
+Type = Gameshark
+Activation = EndFrame
+800DDE72 03E7
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+800E8540 FFFF
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A70E7E60 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A70E7E60 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A70E7E60 10000400
+

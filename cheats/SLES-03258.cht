@@ -1,0 +1,45 @@
+; CHTDB: ; [ Disney Tigro e la Caccia al Miele (Italy) (Platinum) {SLES-03258} ]
+
+[One honey pot == 999 honey pots]
+Type = Gameshark
+Activation = EndFrame
+90070CD4 344203E7
+
+[All levels unlocked]
+Type = Gameshark
+Activation = EndFrame
+900C74A0 01080040
+
+[Always have 3 Ro's figures per level]
+Type = Gameshark
+Activation = EndFrame
+800C773C 0003
+
+[Always have objects to search and give to friends]
+Type = Gameshark
+Activation = EndFrame
+80082D8C 0000
+30082D8F 0000
+
+[Infinite Jumps (Hold X)]
+Type = Gameshark
+Activation = EndFrame
+D00B33DE BFFF
+80085E98 0000
+D00B33DE BFFF
+80085E9A 0000
+D00B33DE FFFF
+80085E98 56CE
+D00B33DE FFFF
+80085E9A 0C02
+
+[Level select at map Mettere al posto un numero da 1 a 8 per scegliere da che livello iniziare]
+Type = Gameshark
+Activation = EndFrame
+800C74A6 0008
+
+[Tigger walks through enemies (GodMode)]
+Type = Gameshark
+Activation = EndFrame
+800722E2 1000
+

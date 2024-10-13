@@ -1,0 +1,37 @@
+; CHTDB: ; [ Disney Aventuras de Peter Pan en el PaÃ­s de Nunca JamÃ¡s (Spain) (Platinum) {SCES-03715} ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800F358A 0005
+
+[Infinite Feathers]
+Type = Gameshark
+Activation = EndFrame
+800F358E 270F
+
+[Infinite Pixie Dust]
+Type = Gameshark
+Activation = EndFrame
+800F358C 0006
+
+[Max Hearts]
+Type = Gameshark
+Activation = EndFrame
+800F3590 000A
+
+[Have All Skills]
+Type = Gameshark
+Activation = EndFrame
+800F3592 000F
+
+[All Movies Open]
+Type = Gameshark
+Activation = EndFrame
+800F35A6 001F
+
+[All Levels Open]
+Type = Gameshark
+Activation = EndFrame
+900F357C FFFFFFFF
+

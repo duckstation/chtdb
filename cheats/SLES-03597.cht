@@ -1,0 +1,42 @@
+; CHTDB: ; [ Taxi 2 aka Taxi 2: Le Jeu (France) {SLES-03597} ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+A702A178 20230009
+A702A17A 00833404
+
+[No Damage Decrement]
+Description = Note, not against One Hit Killers like Tanks
+Type = Gameshark
+Activation = EndFrame
+A702318A A4A21400
+A70231F6 00441400
+A70231E0 00100000
+A70231E2 A4A20000
+
+[Schlesser Never Wins]
+Type = Gameshark
+Activation = EndFrame
+A7014D92 10621000
+
+[Drive through other Vehicles]
+Type = Gameshark
+Activation = EndFrame
+A701918A 10401000
+
+[Drive Safely pass Tanks]
+Type = Gameshark
+Activation = EndFrame
+A702115E 10401000
+
+[Unlock All Arcade Mode]
+Type = Gameshark
+Activation = EndFrame
+8007664A 0008
+
+[Unlock All Mission Mode]
+Type = Gameshark
+Activation = EndFrame
+80076648 0008
+

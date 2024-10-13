@@ -1,0 +1,35 @@
+; CHTDB: ; [ Barbie - Super Sports (USA) (1999) (Mattel Interactive) {SLUS-00946} <barbiess> ]
+
+[Tons of Points]
+Type = Gameshark
+Activation = EndFrame
+D001840C 8005
+800576C2 0FFF
+
+[Max Money]
+Description = With this cheat, you need to go play a game, quit, then go back to snowboard/in-line skate shop to have lots of money
+Type = Gameshark
+Activation = EndFrame
+D00183F0 8006
+80058D74 0FFF
+
+[Time Is 0.00.00]
+Type = Gameshark
+Activation = EndFrame
+8002031E 2400
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A70AA386 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A70AA386 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A70AA386 10000400
+

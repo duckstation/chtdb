@@ -1,0 +1,35 @@
+; CHTDB: ; [ MoHo (Europe) {SLES-02830} ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+D0102FE2 F7FE
+30020631 0000
+
+[Phantom Mode On (Press Select & L1)]
+Type = Gameshark
+Activation = EndFrame
+D0102FE2 FBFE
+30057B53 0034
+
+[Freeze Stopwatch On (Press Select & Up)]
+Type = Gameshark
+Activation = EndFrame
+D0102FE2 FFEE
+30033FF4 0000
+
+[The Doctor' selectable]
+Type = Gameshark
+Activation = EndFrame
+300E58C0 0001
+
+[All bonus-levels selectable]
+Type = Gameshark
+Activation = EndFrame
+300E58BC 0001
+
+[All prisons selectable]
+Type = Gameshark
+Activation = EndFrame
+300E58B4 0001
+

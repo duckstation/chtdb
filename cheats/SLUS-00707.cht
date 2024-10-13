@@ -1,0 +1,163 @@
+; CHTDB: ; [ Silent Hill (USA) (1999) (Konami of America) {SLUS-00707} <silenth> ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+300BA0BD 0040
+800BA0BE 0006
+
+[Infinite Ammo All Weapons/No Reload]
+Type = Gameshark
+Activation = EndFrame
+800BA008 0001
+
+[Have Map]
+Type = Gameshark
+Activation = EndFrame
+800BCB98 0002
+
+[Have Max Slots]
+Type = Gameshark
+Activation = EndFrame
+300BCADF 0028
+
+[Save Anywhere (Press L1+Circle)]
+Type = Gameshark
+Activation = EndFrame
+D00BC76C 2400
+800B9FC8 0009
+
+[Always First Save]
+Type = Gameshark
+Activation = EndFrame
+800BCADA 0000
+
+[Maxium Brightness In Options]
+Type = Gameshark
+Activation = EndFrame
+300BC74B 001F
+
+[Roller Skate Mode]
+Type = Gameshark
+Activation = EndFrame
+800BA132 3800
+
+[Infinite All Items 1]
+Type = Gameshark
+Activation = EndFrame
+50002804 0000
+300BCA35 00FF
+
+[Game Time 0.0.0]
+Type = Gameshark
+Activation = EndFrame
+900BCC84 00000000
+
+[Radio Always On]
+Type = Gameshark
+Activation = EndFrame
+800BCAE0 0001
+
+[Completed Map]
+Type = Gameshark
+Activation = EndFrame
+900BCC08 FFFFFFFF
+900BCC0C FFFFFFFF
+800BCC10 FFFF
+
+[Flashlight Always On]
+Type = Gameshark
+Activation = EndFrame
+800BC35C 0100
+
+[All Weapons This will overwrite other items unless you start a new game!!]
+Type = Gameshark
+Activation = EndFrame
+50000404 0001
+300BCA34 00A0
+50000304 0001
+300BCA44 0080
+50000404 0001
+300BCA50 0084
+300BCA60 00E2
+
+[Have A Ten Star Ranking At End Of Game]
+Type = Gameshark
+Activation = EndFrame
+300C48B5 0064
+
+[How Many Games Cleared Max]
+Type = Gameshark
+Activation = EndFrame
+300BCC7E 00FF
+
+[Kill Mostly All Enemies Near You (Press L3)]
+Type = Gameshark
+Activation = EndFrame
+D7010001 01000200
+53000006 01280000
+800BA222 00000FFF
+
+[Quick Turn (Down + Square)]
+Type = Gameshark
+Activation = EndFrame
+E00BC76E 0004
+E00BC771 0080
+100BA032 03E8
+
+[FPS Unlock]
+Type = Gameshark
+Activation = EndFrame
+A70132A2 10401000
+
+[Solid Snow]
+Type = Gameshark
+Activation = EndFrame
+A70CED8E 10401400
+
+[Thicker Snow]
+Type = Gameshark
+Activation = EndFrame
+A70CEE1E 10401400
+
+[Freeze Snow Mid-Air]
+Type = Gameshark
+Activation = EndFrame
+A70CE902 14401400
+
+[Remove Snow]
+Type = Gameshark
+Activation = EndFrame
+A70CEDF2 10401000
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A70C6FE0 10000C00
+A70C6FF0 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A70C6FE0 10000900
+A70C6FF0 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A70C6FE0 10000400
+A70C6FF0 10000400
+
+[60 FPS]
+Type = Gameshark
+Activation = EndFrame
+A70A8FF0 00020001
+A70AB38C 00020001
+
+[Turbo fire "Hold R2+X"]
+Type = Gameshark
+Activation = EndFrame
+A7044A92 10001040
+D7200000 00000042
+A7044A92 10401000
+

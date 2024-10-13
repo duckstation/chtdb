@@ -1,0 +1,23 @@
+; CHTDB: ; [ Kamen Rider Ryuki (Jpn) (2002) (Bandai) {SLPS-03495} <kamenrry> ]
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801F1568 2710
+
+[Unlock all characters]
+Type = Gameshark
+Activation = EndFrame
+90193260 FFFFFFFF
+
+[999 points]
+Type = Gameshark
+Activation = EndFrame
+80193274 03E7
+
+[Unlock all gallery]
+Type = Gameshark
+Activation = EndFrame
+B0200002 0000
+80193220 03E7
+

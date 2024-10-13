@@ -1,0 +1,22 @@
+; CHTDB: ; [ WTC World Touring Car Championship (Japan) {SLPS-02852} ]
+
+[All bonus]
+Type = Gameshark
+Activation = EndFrame
+800582C8 FFFF
+80058A1C FFFF
+
+[Unlock all courses & cars]
+Type = Gameshark
+Activation = EndFrame
+80058296 0101
+90058298 01010101
+8005829C 0101
+900582A0 01010101
+900582A4 01010101
+800582A8 0101
+80058232 0101
+90058234 01010101
+90058238 01010101
+9005823C 01010101
+

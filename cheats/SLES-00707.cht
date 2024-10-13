@@ -1,0 +1,13 @@
+; CHTDB: ; [ Risk (Europe) {SLES-00707} ]
+
+[Have 255 Men (Press Triangle)]
+Type = Gameshark
+Activation = EndFrame
+D00BD6B0 0010
+8009BBEC 00FF
+
+[100 Men]
+Type = Gameshark
+Activation = EndFrame
+3009C45C 0064
+

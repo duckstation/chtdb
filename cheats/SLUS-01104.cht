@@ -1,0 +1,84 @@
+; CHTDB: ; [ Need for Speed - Porsche Unleashed (USA) (2000) (Electronic Arts) {SLUS-01104} <nfsporsc> ]
+
+[Max Credits]
+Type = Gameshark
+Activation = EndFrame
+900BDC94 3ADE68B1
+
+[Reset Time Press Select]
+Type = Gameshark
+Activation = EndFrame
+D00C62D0 0001
+800C1CE8 0000
+
+[99 Pts]
+Type = Gameshark
+Activation = EndFrame
+800BDC9A 0063
+
+[Always 1st Switch it off after the race]
+Type = Gameshark
+Activation = EndFrame
+800D2608 0100
+
+[Select Starting Lap\2 - Quick Race Only Press L1]
+Type = Gameshark
+Activation = EndFrame
+D00C62D0 0400
+800BD9DC 0002
+
+[Select Starting Lap\3 - Quick Race Only Press L1]
+Type = Gameshark
+Activation = EndFrame
+D00C62D0 0400
+800BD9DC 0001
+
+[Select Starting Lap\4 - Quick Race Only Press L1]
+Type = Gameshark
+Activation = EndFrame
+D00C62D0 0400
+800BD9DC 0000
+
+[Stop Timer]
+Type = Gameshark
+Activation = EndFrame
+800C1CE8 0000
+
+[Disable Timer]
+Type = Gameshark
+Activation = EndFrame
+800C1CC8 0100
+
+[99 Points - Tournament Mode]
+Type = Gameshark
+Activation = EndFrame
+800BDC9A 0063
+
+[Have All Cars - Quick Race Modes]
+Type = Gameshark
+Activation = EndFrame
+800BD658 0007
+
+[Automatic Win - Chase Mode]
+Type = Gameshark
+Activation = EndFrame
+800C1CE8 FFFF
+
+[Enable Cheat Mode]
+Type = Gameshark
+Activation = EndFrame
+800BF9DC 0001
+
+[All Tournament Trophies]
+Type = Gameshark
+Activation = EndFrame
+50000402 0000
+800BDFE8 0101
+300BDFF0 0001
+
+[All Weekend Trophies]
+Type = Gameshark
+Activation = EndFrame
+50000502 0000
+800BE158 0101
+

@@ -1,0 +1,54 @@
+; CHTDB: ; [ Wing Over 2 (Europe) {SLES-01375} ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+8008BD42 2400
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+901A8910 0098967F
+
+[All Training Missions Selectable]
+Type = Gameshark
+Activation = EndFrame
+801A8916 3F40
+
+[All Training Missions Selectable .Press Select+Start]
+Type = Gameshark
+Activation = EndFrame
+D011D420 0009
+801A8916 3F40
+
+[Max Points]
+Type = Gameshark
+Activation = EndFrame
+801A8936 6464
+901A8938 64646464
+901A893C 64646464
+901A8940 64646464
+901A8944 64646464
+901A8948 64646464
+801A894C 6464
+
+[Have Access To Hangar]
+Type = Gameshark
+Activation = EndFrame
+801A8956 8200
+
+[Infinite Mg Ammo]
+Type = Gameshark
+Activation = EndFrame
+80088F9A 2400
+
+[Infinite Rockets]
+Type = Gameshark
+Activation = EndFrame
+8008942A 2400
+
+[Airplane Modifier (00-1D) M61A1]
+Type = Gameshark
+Activation = EndFrame
+800C19B0 001D
+

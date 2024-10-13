@@ -1,0 +1,37 @@
+; CHTDB: ; [ Top Gun: Fire at Will! (Europe) {SLES-00352} ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801BAD35 0009
+
+[Infinite Surefire]
+Type = Gameshark
+Activation = EndFrame
+801ED638 0063
+
+[Infinite U328]
+Type = Gameshark
+Activation = EndFrame
+801ED63A 0063
+
+[Infinite Mirv]
+Type = Gameshark
+Activation = EndFrame
+801ED63C 0063
+
+[Infinite Nukes]
+Type = Gameshark
+Activation = EndFrame
+801ED644 0063
+
+[Infinite Rockets]
+Type = Gameshark
+Activation = EndFrame
+801ED646 0063
+
+[Infinite Agm]
+Type = Gameshark
+Activation = EndFrame
+801ED648 0063
+

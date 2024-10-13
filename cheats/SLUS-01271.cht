@@ -1,0 +1,47 @@
+; CHTDB: ; [ NBA Live 2001 (USA) (2000) (Electronic Arts) {SLUS-01271} <nbalv2k1> ]
+
+[Infinite Creation Points]
+Type = Gameshark
+Activation = EndFrame
+301386EC 0064
+
+[Select Home Team Score\100]
+Type = Gameshark
+Activation = EndFrame
+800A8810 0064
+
+[Select Home Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+800A8810 0000
+
+[Select Away Team Score\100]
+Type = Gameshark
+Activation = EndFrame
+800A8E64 0064
+
+[Select Away Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+800A8E64 0000
+
+[Select Home Team Timeouts\Infinite Timeouts]
+Type = Gameshark
+Activation = EndFrame
+300A8818 0006
+
+[Select Home Team Timeouts\No Timeouts]
+Type = Gameshark
+Activation = EndFrame
+300A8818 0000
+
+[Select Away Team Timeouts\Infinite Timeouts]
+Type = Gameshark
+Activation = EndFrame
+300A8E6C 0006
+
+[Away Team Timeouts\No Timeouts]
+Type = Gameshark
+Activation = EndFrame
+300A8E6C 0000
+

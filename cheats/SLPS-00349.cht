@@ -1,0 +1,17 @@
+; CHTDB: ; [ Dungeon Creator (Japan) {SLPS-00349} ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801A6BC8 0032
+
+[Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+801A6BCA 0022
+
+[Have 99999 money]
+Type = Gameshark
+Activation = EndFrame
+901A6BD0 0001869F
+

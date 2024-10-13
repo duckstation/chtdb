@@ -1,0 +1,57 @@
+; CHTDB: ; [ R-Types (Europe) {SLES-01355} ]
+
+[R-Type 1\Invincibility]
+Type = Gameshark
+Activation = EndFrame
+80138324 0001
+
+[R-Type 1\P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80138290 0005
+
+[R-Type 1\P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80138298 0005
+
+[R-Type 1\Credits]
+Type = Gameshark
+Activation = EndFrame
+80138262 0099
+
+[R-Type 2 Codes\P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800FB996 0500
+
+[R-Type 2 Codes\Have Missiles]
+Type = Gameshark
+Activation = EndFrame
+800F8190 0001
+
+[R-Type 2 Codes\Have Always 2 Bits]
+Type = Gameshark
+Activation = EndFrame
+800F818E 0200
+
+[R-Type 2 Codes\Have Always Force]
+Type = Gameshark
+Activation = EndFrame
+800F8192 0100
+
+[R-Type 2 Codes\Auto-Fire #Little Beam#]
+Type = Gameshark
+Activation = EndFrame
+800F8194 0400
+
+[R-Type 2 Codes\Invincibility]
+Type = Gameshark
+Activation = EndFrame
+300FBA3A 0001
+
+[R-Type 2 Codes\Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+800FB96A 0063
+

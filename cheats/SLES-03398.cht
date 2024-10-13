@@ -1,0 +1,24 @@
+; CHTDB: ; [ Disney/Pixar Toy Story Racer aka Disney/Pixar's Toy Story Racer (Europe) {SLES-03398} ]
+
+[Always Have 8 Points After Race]
+Type = Gameshark
+Activation = EndFrame
+800BE108 0008
+800C16D4 0008
+
+[Start On Lap 3]
+Type = Gameshark
+Activation = EndFrame
+800C178B 0002
+
+[Have 200 Soldiers All levels Unlocked]
+Type = Gameshark
+Activation = EndFrame
+800D8454 00C8
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+A706E1F8 66664CCC
+A706E200 6667CCCD
+

@@ -1,0 +1,74 @@
+; CHTDB: ; [ Resident Evil 2 - Dual Shock Ver. (USA) (1998) (Capcom Entertainment) {SLUS-00748 / SLUS-00756} <revil2ds> ]
+
+[Infinite Ammo Hand Gun Leon]
+Type = Gameshark
+Activation = EndFrame
+800D4A3D 0063
+
+[Infinite Ammo Shotgun Leon]
+Type = Gameshark
+Activation = EndFrame
+800D4A49 0063
+
+[Infinite Ink Ribbons Leon]
+Type = Gameshark
+Activation = EndFrame
+800D4A51 0063
+
+[The 4th Survivor Mode Main Menu]
+Type = Gameshark
+Activation = EndFrame
+800CFB74 0048
+
+[The Tofu Survivor Mode Main Menu]
+Type = Gameshark
+Activation = EndFrame
+800CFB74 0049
+
+[Play Bio Hazard 2 Mode]
+Type = Gameshark
+Activation = EndFrame
+D000E3A4 0000
+300CFB74 0000
+
+[Infinite Health Leon]
+Type = Gameshark
+Activation = EndFrame
+800CFD4E 00C8
+
+[Super Mega Rapid Fire (All Weapons)press R1 and 'X']
+Type = Gameshark
+Activation = EndFrame
+D00CE2FC 0048
+800CFD44 000B
+
+[Stop Clock When Fighting Lass Boss Of The Game]
+Type = Gameshark
+Activation = EndFrame
+800D4832 012C
+
+[Extreme Battle Mode Main Menu]
+Type = Gameshark
+Activation = EndFrame
+D00CFB76 0000
+300CFB77 0001
+
+[All Characters + Levels (Extreme Battle Mode)]
+Type = Gameshark
+Activation = EndFrame
+800CFB98 0200
+
+[Quick Turn Claire (Down + Square)]
+Type = Gameshark
+Activation = EndFrame
+E00CE2B5 0040
+E00CE2B8 0080
+100CFC26 0401
+
+[Quick Turn Leon (Down + Square)]
+Type = Gameshark
+Activation = EndFrame
+E00CE2FD 0040
+E00CE300 0080
+100CFC6E 0401
+

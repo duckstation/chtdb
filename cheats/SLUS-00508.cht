@@ -1,0 +1,44 @@
+; CHTDB: ; [ Beast Wars - Transformers (USA) (1997) (Hasbro Interactive) {SLUS-00508} <beastwar> ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800D33DC 1518
+
+[Infinite Energon]
+Type = Gameshark
+Activation = EndFrame
+800D357A 0000
+
+[Unlock All Missions Set 1]
+Description = Press Select before you start a game.
+Type = Gameshark
+Activation = EndFrame
+C00D4E3C 0040
+800B2C14 0100
+800B2C18 0005
+800B2C20 0100
+800B2C24 0005
+800B2C2A 0005
+00000000 FFFF
+
+[Unlock All Missions Set 2]
+Description = Press Select before you start a game.
+Type = Gameshark
+Activation = EndFrame
+C00D4E3C 0040
+800B2C2C 0100
+800B2C30 0005
+800B2C36 0005
+800B2C38 0100
+800B2C3C 0005
+00000000 FFFF
+
+[Mission Complete (press L1+L2+R1+R2 in-game)]
+Type = Gameshark
+Activation = EndFrame
+C00D8882 F0FF
+300CC738 0028
+900D7D98 FFFFFFFF
+00000000 FFFF
+

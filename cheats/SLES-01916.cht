@@ -1,0 +1,17 @@
+; CHTDB: ; [ Sports Car GT (Germany) {SLES-01916} ]
+
+[Alle Klassen wählbar]
+Type = Gameshark
+Activation = EndFrame
+300A1718 0004
+
+[Bank 800.000.000$]
+Type = Gameshark
+Activation = EndFrame
+900A171C 2FAF0800
+
+[Immer 3 Versuche]
+Type = Gameshark
+Activation = EndFrame
+300A1719 0003
+

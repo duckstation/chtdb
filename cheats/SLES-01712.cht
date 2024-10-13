@@ -1,0 +1,24 @@
+; CHTDB: ; [ Bomberman Fantasy Race (Europe) {SLES-01712} ]
+
+[Max Gb]
+Type = Gameshark
+Activation = EndFrame
+90147C84 0098967F
+
+[Infinite Stamina]
+Type = Gameshark
+Activation = EndFrame
+800100EA 08FF
+
+[Lap Time = 0.00.01]
+Type = Gameshark
+Activation = EndFrame
+8014AB20 0001
+8014AB24 0001
+8014AB28 0001
+
+[All Characters Available]
+Type = Gameshark
+Activation = EndFrame
+80147C7E FFFF
+

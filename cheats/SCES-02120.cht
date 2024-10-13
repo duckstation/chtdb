@@ -1,0 +1,56 @@
+; CHTDB: ; [ Omega Boost (Europe) {SCES-02120} ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800A81A8 04B0
+800A81AC 04B0
+
+[Full Viper Boost]
+Type = Gameshark
+Activation = EndFrame
+D009C882 0100
+800A81B4 1000
+
+[Timer Freezed Zone 8]
+Type = Gameshark
+Activation = EndFrame
+D00A7F20 000A
+80146C7C 09C4
+
+[Viper Boost Activated]
+Type = Gameshark
+Activation = EndFrame
+300A81CC 0001
+
+[Machinelevel At E]
+Type = Gameshark
+Activation = EndFrame
+300A81B8 0003
+300A81D0 000D
+
+[Timer Freezed]
+Type = Gameshark
+Activation = EndFrame
+D00A8180 001F
+300A8180 000F
+
+[Begin With Highscore]
+Type = Gameshark
+Activation = EndFrame
+D009C348 4240
+3009C34A 000F
+A609C348 00004240
+
+[All Zones Enabled]
+Type = Gameshark
+Activation = EndFrame
+50000A02 0000
+800A8110 0101
+
+[All Levels Open]
+Type = Gameshark
+Activation = EndFrame
+50000702 0000
+800A8124 0101
+

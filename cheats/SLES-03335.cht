@@ -1,0 +1,22 @@
+; CHTDB: ; [ Tomb Raider Chronicles: La Leggenda di Lara Croft (Italy) {SLES-03335} ]
+
+[Select Cutscene! (Press Select & L1)]
+Type = Gameshark
+Activation = EndFrame
+D00A60BA FBFE
+50000204 0002
+800A28A2 FFFE
+
+[All levels Don't select the last three levels, they don't exist. (Press Select & L2)]
+Type = Gameshark
+Activation = EndFrame
+D00A60BA FEFE
+50000204 0000
+800A28A6 0002
+
+[Special features unlocked]
+Type = Gameshark
+Activation = EndFrame
+50000202 0909
+800AD016 0000
+

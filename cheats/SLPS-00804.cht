@@ -1,0 +1,46 @@
+; CHTDB: ; [ Disruptor (Japan) {SLPS-00804} ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80074B5C 00FF
+
+[Infinite Gun Ammo]
+Type = Gameshark
+Activation = EndFrame
+80053EB8 00FF
+
+[Infinite Electric Shock]
+Type = Gameshark
+Activation = EndFrame
+80074B64 00FF
+
+[Infinite Weapon's Ammo]
+Type = Gameshark
+Activation = EndFrame
+80053EBC 00FF
+80053EC4 00FF
+80053ECC 00FF
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+80074B2C 0100
+
+[Stage Clear (SELECT)]
+Type = Gameshark
+Activation = EndFrame
+D006ED14 FEFF
+80074B32 2200
+
+[Infinite Life]
+Type = Gameshark
+Activation = EndFrame
+80074B5C 00C8
+80074B64 00C8
+
+[It does not decrease reload]
+Type = Gameshark
+Activation = EndFrame
+80074B7C 0000
+

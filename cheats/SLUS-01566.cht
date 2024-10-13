@@ -1,0 +1,7 @@
+; CHTDB: ; [ XS Airboat Racing (USA) (2003) (XS Games) {SLUS-01566} <xsairrac> ]
+
+[Start always on lap 3]
+Type = Gameshark
+Activation = EndFrame
+8006CFF0 0003
+

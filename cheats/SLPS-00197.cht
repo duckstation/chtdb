@@ -1,0 +1,19 @@
+; CHTDB: ; [ Wolkenkratzer: Shinpan no Tou (Japan) {SLPS-00197} ]
+
+[Infinite & Maximum Hp In Game]
+Type = Gameshark
+Activation = EndFrame
+801200D4 03E7
+801235E4 03E7
+
+[Infinite & Maximum Mp]
+Type = Gameshark
+Activation = EndFrame
+80120314 0009
+8012B604 0009
+
+[Bonus Point]
+Type = Gameshark
+Activation = EndFrame
+301CCCA0 0063
+

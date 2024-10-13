@@ -1,0 +1,165 @@
+; CHTDB: ; [ The Italian Job (Europe) {SLES-03626} ]
+
+[Infinite Time The Ambassador's Car]
+Type = Gameshark
+Activation = EndFrame
+800F6188 0000
+
+[Unlock Level Meet Camp Freddie Mission]
+Type = Gameshark
+Activation = EndFrame
+30011032 0001
+
+[Infinite Time Meet Camp Freddie Mission]
+Type = Gameshark
+Activation = EndFrame
+800F4F88 0000
+
+[Unlock Level Peaches For Peaches Mission]
+Type = Gameshark
+Activation = EndFrame
+3001102E 0001
+
+[Infinite Time Peaches For Peaches Mission]
+Type = Gameshark
+Activation = EndFrame
+800F70B8 0000
+
+[Unlock Level Special Delivery Mission]
+Type = Gameshark
+Activation = EndFrame
+30011030 0001
+
+[Infinite Time Special Delivery Mission]
+Type = Gameshark
+Activation = EndFrame
+800F3C94 0000
+
+[Unlock Level Prison Pals Mission]
+Type = Gameshark
+Activation = EndFrame
+30011034 0001
+
+[Infinite Time Prison Pals Mission]
+Type = Gameshark
+Activation = EndFrame
+800F1B20 0000
+
+[Unlock Level Keeping It Up Mission]
+Type = Gameshark
+Activation = EndFrame
+3001103C 0001
+
+[Infinite Time Keeping It Up Mission]
+Type = Gameshark
+Activation = EndFrame
+800F0C08 0000
+
+[Unlock Level Big William's Ride Mission]
+Type = Gameshark
+Activation = EndFrame
+30011038 0001
+
+[Infinite Time Big William's Ride Mission]
+Type = Gameshark
+Activation = EndFrame
+800F6184 0000
+
+[Unlock Level Torino Tours Mission]
+Type = Gameshark
+Activation = EndFrame
+3001103A 0001
+
+[Infinite Time Torino Tours Mission]
+Type = Gameshark
+Activation = EndFrame
+800E7B84 0000
+
+[Unlock Level Mafia Mania Mission]
+Type = Gameshark
+Activation = EndFrame
+3001103A 0001
+
+[Infinite Time Mafia Mania Mission]
+Type = Gameshark
+Activation = EndFrame
+800F674C 0000
+
+[Unlock Level Traffic Tape Caper Mission]
+Type = Gameshark
+Activation = EndFrame
+300110B8 0001
+
+[Infinite Time Traffic Tape Caper Mission]
+Type = Gameshark
+Activation = EndFrame
+800EFA18 0000
+
+[Unlock Level Interference Mission]
+Type = Gameshark
+Activation = EndFrame
+300110BE 0001
+
+[Infinite Time Interference Mission]
+Type = Gameshark
+Activation = EndFrame
+800F18D0 0000
+
+[Unlock Level Convoy Mission]
+Type = Gameshark
+Activation = EndFrame
+300110BC 0001
+
+[Infinite Time Convoy Mission]
+Type = Gameshark
+Activation = EndFrame
+800F8208 0000
+
+[Unlock Level The Getaway Mission]
+Type = Gameshark
+Activation = EndFrame
+300110C0 0001
+
+[Infinite Time The Getaway Mission]
+Type = Gameshark
+Activation = EndFrame
+800F632C 0000
+
+[Unlock Level Red, White & Blue Mission]
+Type = Gameshark
+Activation = EndFrame
+300110C2 0001
+
+[Infinite Time Red, White & Blue Mission]
+Type = Gameshark
+Activation = EndFrame
+800E8188 0000
+
+[Unlock Level Home Free Mission]
+Type = Gameshark
+Activation = EndFrame
+300110C4 0001
+
+[Infinite Time Home Free Mission]
+Type = Gameshark
+Activation = EndFrame
+800DAA2C 0000
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A7040F90 10000C00
+A70410F0 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A7040F90 10000900
+A70410F0 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A7040F90 10000400
+A70410F0 10000400
+

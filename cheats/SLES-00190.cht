@@ -1,0 +1,22 @@
+; CHTDB: ; [ Actua Soccer: Club Edition (Europe) {SLES-00190} ]
+
+[Select Home Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+8010CEC8 0000
+
+[Select Home Team Score\9]
+Type = Gameshark
+Activation = EndFrame
+8010CEC8 0009
+
+[Select Away Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+8010CECC 0000
+
+[Select Away Team Score\9]
+Type = Gameshark
+Activation = EndFrame
+8010CECC 0009
+

@@ -1,0 +1,92 @@
+; CHTDB: ; [ Pinocchia no Miru Yume (Japan) {SLPS-01587} ]
+
+[Events Gallery	Fully Open]
+Type = Gameshark
+Activation = EndFrame
+301C1CD0 00FF
+301C1CD1 00FF
+301C1CD2 00FF
+301C1CD3 00FF
+301C1CD4 00FF
+301C1CD5 00FF
+301C1CD6 00FF
+301C1CD7 00FF
+301C1CD8 00FF
+301C1CD9 00FF
+301C1CDA 00FF
+301C1CDB 00FF
+301C1CDC 00FF
+
+[Ending gallery	Fully OPen]
+Type = Gameshark
+Activation = EndFrame
+301C1CE1 00FF
+301C1CE2 00FF
+301C1CEF 00FF
+
+[All Stats Max]
+Type = Gameshark
+Activation = EndFrame
+901C1D00 03E703E7
+901C1D04 03E703E7
+901C1D08 03E703E7
+901C1D0C 03E703E7
+901C1D10 03E703E7
+901C1D14 03E703E7
+
+[All Stats Now Max]
+Type = Gameshark
+Activation = EndFrame
+901C1D54 03E703E7
+901C1D58 03E703E7
+901C1D5C 03E703E7
+901C1D60 03E703E7
+901C1D64 03E703E7
+901C1D68 03E703E7
+
+[Mini-game fire / physical fitness]
+Type = Gameshark
+Activation = EndFrame
+30181A82 0003
+
+[mini-game fire /Jump always]
+Type = Gameshark
+Activation = EndFrame
+30181A84 0001
+
+[mini-game fire / It does not hit fire]
+Type = Gameshark
+Activation = EndFrame
+30181A86 0001
+
+[Mini-game fire / time limit 90s]
+Type = Gameshark
+Activation = EndFrame
+3018224C 0009
+
+[Mini-game Harvest Festival / Invincibility]
+Type = Gameshark
+Activation = EndFrame
+30181B8E 0001
+30181B92 0040
+
+[Sex of the hero Man]
+Type = Gameshark
+Activation = EndFrame
+301C1D1A 0000
+
+[Sex of the hero Women]
+Type = Gameshark
+Activation = EndFrame
+301C1D1A 0001
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+801C1D20 270F
+
+[Date Ending]
+Type = Gameshark
+Activation = EndFrame
+801C1D22 0166
+

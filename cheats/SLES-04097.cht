@@ -1,0 +1,33 @@
+; CHTDB: ; [ Dancing Stage Fever (Europe) {SLES-04097} ]
+
+[P1 Max Total Score]
+Type = Gameshark
+Activation = EndFrame
+900BC3F4 3B9AC9FF
+
+[P1 Max Dance Gauge]
+Type = Gameshark
+Activation = EndFrame
+800BC3EA 03E8
+
+[P1 Perfect Play Results]
+Type = Gameshark
+Activation = EndFrame
+800BC440 270F
+50000404 0000
+800BC444 0000
+800BC45C 270F
+
+[All Lessons Clear]
+Type = Gameshark
+Activation = EndFrame
+50000C02 0000
+800E02D8 0202
+
+[Unlock All Extras]
+Type = Gameshark
+Activation = EndFrame
+300DDF00 00FF
+300DDF12 0008
+300DEDBC 0004
+

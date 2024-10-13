@@ -1,0 +1,53 @@
+; CHTDB: ; [ Tokimeki Memorial 2 Substories Vol.1 - Dancing Summer Vacation (Jpn) (2000) (Konami) {SLPM-86549~SLPM-86550 (VX200-J1)} <tkm2sub1> ]
+
+[Autoplay (pear cherry blossoms)]
+Type = Gameshark
+Activation = EndFrame
+D00BC8F6 0040
+80153028 4912
+
+[Autoplay]
+Type = Gameshark
+Activation = EndFrame
+D00BC8F6 0040
+80153028 9212
+
+[Infinite DANCE GAUGE]
+Type = Gameshark
+Activation = EndFrame
+D00BC8F6 0040
+80153038 FFFF
+
+[MAX combo continues]
+Type = Gameshark
+Activation = EndFrame
+A60BC8F4 00080000
+
+[MAX SCORE]
+Type = Gameshark
+Activation = EndFrame
+A60BD274 00020001
+
+[Dance RevolutionTokimeki MIX related gauge MAX]
+Type = Gameshark
+Activation = EndFrame
+D008D67E 1440
+800BD67C 1400
+
+[It is normal at first but PERFECT arrow will step MAX zone after passing through]
+Type = Gameshark
+Activation = EndFrame
+8010ADFC FFFF
+
+[All Bonus]
+Type = Gameshark
+Activation = EndFrame
+D001D72E 1040
+8001D72C 0001
+
+[All Album viewable]
+Type = Gameshark
+Activation = EndFrame
+A702B6CE 14401000
+A702B38A 14401000
+

@@ -1,0 +1,24 @@
+; CHTDB: ; [ Colin McRae Rally (USA) (2000) (Sony Computer Entertainment America) {SCUS-94474} <mcrae> ]
+
+[Infinite Repair Set Up Time]
+Type = Gameshark
+Activation = EndFrame
+D0075648 0714
+800C64A4 003C
+
+[Stop Lap Timer Always Win]
+Type = Gameshark
+Activation = EndFrame
+D007B414 07B8
+800C6548 0000
+
+[Unlock All Tracks Cars Difficulties]
+Type = Gameshark
+Activation = EndFrame
+80010098 FFFF
+
+[Perfect Score/Always Pass Rally School Mode]
+Type = Gameshark
+Activation = EndFrame
+90010358 AAAAAAAA
+

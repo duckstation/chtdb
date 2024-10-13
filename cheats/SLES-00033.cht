@@ -1,0 +1,7 @@
+; CHTDB: ; [ Hard Boiled (Europe) {SLES-00033} ]
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+8005EF88 0014
+

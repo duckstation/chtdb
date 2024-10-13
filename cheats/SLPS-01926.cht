@@ -1,0 +1,24 @@
+; CHTDB: ; [ Chiisana Kyojin Microman (Jpn) (1999) (Takara) {SLPS-01926} <ckmicrom> ]
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800B9F40 03E7
+80195198 03E7
+
+[P2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800B9F40 03E7
+80195B4C 03E7
+
+[Existence flag Selected]
+Type = Gameshark
+Activation = EndFrame
+300B9F28 0001
+
+[Base ERA]
+Type = Gameshark
+Activation = EndFrame
+301A916C 0064
+

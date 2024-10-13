@@ -1,0 +1,7 @@
+; CHTDB: ; [ StarSweep (Europe) (Value Series) {SLES-02921} ]
+
+[Have lots of stars]
+Type = Gameshark
+Activation = EndFrame
+80093BCC 0FFF
+

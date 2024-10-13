@@ -1,0 +1,22 @@
+; CHTDB: ; [ Bob the Builder - Can We Fix It? (USA) (2001) (THQ) {SLUS-01407} <bobbuild> ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80023608 2400
+
+[Fix The Leaks\Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+8002360A 2400
+
+[Scary Spud\Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+8003702E 2400
+
+[Bubble Trouble\Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+8003984E 2400
+

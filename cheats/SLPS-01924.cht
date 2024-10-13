@@ -1,0 +1,126 @@
+; CHTDB: ; [ Super Robot Taisen F Kanketsuhen (Japan) {SLPS-01924} ]
+
+[Infinite HP 1st character (Gundam)]
+Type = Gameshark
+Activation = EndFrame
+8019B236 0BB8
+
+[Infinite HP 2nd character]
+Type = Gameshark
+Activation = EndFrame
+8019B254 0BB8
+
+[Infinite HP Mazinger Z]
+Type = Gameshark
+Activation = EndFrame
+8019AE76 12C0
+
+[Infinite HP Aphrodite A]
+Type = Gameshark
+Activation = EndFrame
+8019AE94 0F3C
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+8019BA6A 976F
+8019BA6C 0098
+
+[Jump Stage (01-4E) Enabled Last Stage]
+Type = Gameshark
+Activation = EndFrame
+3019BA65 004E
+
+[All Robot Bp 999]
+Type = Gameshark
+Activation = EndFrame
+80199F4C 03E7
+
+[All Robot En 999]
+Type = Gameshark
+Activation = EndFrame
+80199F44 03E7
+80199F48 03E7
+
+[All Robot Level 99]
+Type = Gameshark
+Activation = EndFrame
+30199F2F 00F0
+80199F30 FFFF
+
+[All Weapons Level 15]
+Type = Gameshark
+Activation = EndFrame
+80199F32 0000
+90199F34 00000000
+80199F38 0000
+
+[Number Of Round = 0]
+Type = Gameshark
+Activation = EndFrame
+8019BA6E 0000
+
+[Number Of Robot Allowed Press Square & L2]
+Type = Gameshark
+Activation = EndFrame
+D014569A 7EFF
+301454B1 0063
+D014569A 7EFF
+301454B1 0063
+
+[Infinite Turns]
+Type = Gameshark
+Activation = EndFrame
+3019A0BB 0020
+
+[Weapons Level & Secret Weapons]
+Type = Gameshark
+Activation = EndFrame
+301478D0 000E
+8019BAFE FFFF
+
+[Move Far]
+Type = Gameshark
+Activation = EndFrame
+30199F50 000F
+
+[Robot Upgrade Level Max Go To Check The Robot Status To Activate The Code]
+Type = Gameshark
+Activation = EndFrame
+30199F2F 00F0
+80199F30 FFFF
+
+[Weapons Can Upgrade To Level 10]
+Type = Gameshark
+Activation = EndFrame
+301478D0 000A
+
+[Robot Can Upgrade To Level 10]
+Type = Gameshark
+Activation = EndFrame
+301478CF 000A
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80095ADE 9462
+80098CF2 9482
+8007B792 9462
+
+[Demo select 100%]
+Type = Gameshark
+Activation = EndFrame
+901547B4 FFFFFFFF
+
+[Todd & Haman persuaded possible]
+Type = Gameshark
+Activation = EndFrame
+3019BB15 00C0
+3019BB16 0098
+
+[100% robot Encyclopedia & character encyclopedia]
+Type = Gameshark
+Activation = EndFrame
+50006301 0000
+30154738 00FF
+

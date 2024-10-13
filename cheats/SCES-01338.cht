@@ -1,0 +1,22 @@
+; CHTDB: ; [ Tiny Tank (Europe) {SCES-01338} ]
+
+[Max positron brain power]
+Type = Gameshark
+Activation = EndFrame
+8006B0E2 0007
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800E9D0A 3C00
+
+[Infinite Tiny tanx]
+Type = Gameshark
+Activation = EndFrame
+800E6FDC 0005
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800E6FA0 0005
+

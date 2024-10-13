@@ -1,0 +1,19 @@
+; CHTDB: ; [ Dino Crisis 2 (Japan) Demo {SLP-80573} ]
+
+[Disable Trial/Demo Timer ASM]
+Type = Gameshark
+Activation = EndFrame
+8002EBA2 00002400
+8002EBCA 00001000
+
+[Have Key Items?]
+Type = Gameshark
+Activation = EndFrame
+900A8210 03FFFFFF
+
+[Room Modifier ASM (010D is poison plant room)]
+Type = Gameshark
+Activation = EndFrame
+A70283BC 0000010D
+A70283BE 00003403
+

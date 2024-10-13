@@ -1,0 +1,62 @@
+; CHTDB: ; [ Rat Attack! (USA) (1999) (Mindscape) {SLUS-00656} <ratatck> ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80112A50 0009
+
+[Quick Win]
+Type = Gameshark
+Activation = EndFrame
+8010F598 0032
+
+[Max Score]
+Type = Gameshark
+Activation = EndFrame
+A610F468 0000FFFF
+
+[Unlock Garden]
+Type = Gameshark
+Activation = EndFrame
+800CFC00 00FF
+
+[Unlock Funhouse]
+Type = Gameshark
+Activation = EndFrame
+800CFC10 00FF
+
+[Unlock Haunted House]
+Type = Gameshark
+Activation = EndFrame
+800CFC20 00FF
+
+[Unlock Museum]
+Type = Gameshark
+Activation = EndFrame
+800CFC30 00FF
+
+[Unlock Art Gallery]
+Type = Gameshark
+Activation = EndFrame
+800CFC40 00FF
+
+[Unlock Factory]
+Type = Gameshark
+Activation = EndFrame
+800CFC50 00FF
+
+[Unlock Space]
+Type = Gameshark
+Activation = EndFrame
+800CFC60 00FF
+
+[Unlock Banubis]
+Type = Gameshark
+Activation = EndFrame
+800CFB50 00FF
+
+[Unlock Pearl]
+Type = Gameshark
+Activation = EndFrame
+800CFB60 00FF
+

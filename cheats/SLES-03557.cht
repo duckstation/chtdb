@@ -1,0 +1,8 @@
+; CHTDB: ; [ Mega Man X5 (Europe) {SLES-03557} ]
+
+[Infinite Health On (Press Select & Up)]
+Type = Gameshark
+Activation = EndFrame
+D00D51FA FFEE
+80035360 0004
+

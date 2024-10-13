@@ -1,0 +1,23 @@
+; CHTDB: ; [ Panzer Front (Japan) {SLPS-02503} ]
+
+[9th Field Artillery support]
+Type = Gameshark
+Activation = EndFrame
+300D4FD8 0009
+
+[Field gun support continue]
+Type = Gameshark
+Activation = EndFrame
+300D4FD0 0000
+
+[255 rounds ammunition vehicle]
+Type = Gameshark
+Activation = EndFrame
+900D8AF0 FFFFFFFF
+800D8AF4 FFFF
+
+[Artillery support continue]
+Type = Gameshark
+Activation = EndFrame
+300D4FD0 0000
+

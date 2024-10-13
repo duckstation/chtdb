@@ -1,0 +1,12 @@
+; CHTDB: ; [ Shrek Treasure Hunt (USA) (2002) (TDK Mediactive) {SLUS-01463} <shrekth> ]
+
+[Infinite Cheese Wedges]
+Type = Gameshark
+Activation = EndFrame
+801B20D6 0A00
+
+[Infinite Shields]
+Type = Gameshark
+Activation = EndFrame
+80070058 0086
+

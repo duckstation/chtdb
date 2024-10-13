@@ -1,0 +1,24 @@
+; CHTDB: ; [ Command & Conquer: Alerte Rouge (Alliés) (France) {SLES-01006 | SLES-11006} ]
+
+[Allies - Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+8002A3D4 FFFF
+
+[Allies - R2 Infinite Power]
+Type = Gameshark
+Activation = EndFrame
+D01BBC58 0002
+8002A3F0 FFFF
+
+[Soviets - Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+8002A798 FFFF
+
+[Soviets - R2 Infinite Power]
+Type = Gameshark
+Activation = EndFrame
+D01BBC58 0002
+8002A7B4 FFFF
+

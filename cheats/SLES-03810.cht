@@ -1,0 +1,32 @@
+; CHTDB: ; [ US Racer (Europe) {SLES-03810} ]
+
+[99 Points]
+Type = Gameshark
+Activation = EndFrame
+8007F930 0063
+801A8C98 0063
+801AB170 0063
+801AB180 0063
+801C126D 0063
+801ED034 0063
+
+[9999 Money]
+Type = Gameshark
+Activation = EndFrame
+8007F81C 270F
+
+[Always First Place]
+Type = Gameshark
+Activation = EndFrame
+80078E08 0001
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+8007F760 270F
+
+[Finish Race]
+Type = Gameshark
+Activation = EndFrame
+8007F760 FFFF
+

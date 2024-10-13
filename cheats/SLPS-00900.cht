@@ -1,0 +1,22 @@
+; CHTDB: ; [ Armored Core (Japan) {SLPS-00900} ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+8019F3F4 FFFF
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+90039CCC 00FFFFFF
+
+[Infinite Power]
+Type = Gameshark
+Activation = EndFrame
+80041016 6D60
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+801A26E0 8000
+

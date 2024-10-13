@@ -1,0 +1,105 @@
+; CHTDB: ; [ Atari Anniversary Edition Redux (USA) (2002) (Infogrames) {SLUS-01427} <atariann> ]
+
+[Asteroids\P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+3016FD8F 0003
+
+[Asteroids\P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+3016FD90 0003
+
+[Asteroids Deluxe\P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+3016DB7F 0003
+
+[Asteroids Deluxe\P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+3016DB80 0003
+
+[Battlezone\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+301AFBA4 0006
+
+[Black Widow\P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+30178E15 0002
+
+[Black Widow\P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+30178E4A 0002
+
+[Centipede\P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+301BD5A5 0003
+
+[Centipede\P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+301BD5A6 0003
+
+[Gravitar\P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+3014062A 0003
+
+[Missile Command\L1 For More Missiles]
+Type = Gameshark
+Activation = EndFrame
+C01C41AA FBFF
+801B6298 0B0B
+301B629A 000B
+00000000 FFFF
+
+[Pong\P1 Instant Win]
+Type = Gameshark
+Activation = EndFrame
+8017A254 000F
+
+[Pong\P2 Instant Win]
+Type = Gameshark
+Activation = EndFrame
+8017A250 000F
+
+[Pong\P1 Never Win]
+Type = Gameshark
+Activation = EndFrame
+8017A254 0000
+
+[Pong\P2 Never Win]
+Type = Gameshark
+Activation = EndFrame
+8017A250 0000
+
+[Space Duel\P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+3016D0B7 0003
+
+[Space Duel\P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+3016D0B8 0003
+
+[Super Breakout\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+301A0614 0001
+
+[Super Breakout\Keep Big Paddle Size]
+Type = Gameshark
+Activation = EndFrame
+301A0626 0011
+
+[Tempest\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8018C1B0 0006
+

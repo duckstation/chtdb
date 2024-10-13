@@ -1,0 +1,17 @@
+; CHTDB: ; [ Theme Aquarium (Japan) {SLPS-01768} ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+90067B2C 05F5E0FF
+
+[Fisherman friendship Max]
+Type = Gameshark
+Activation = EndFrame
+80067B10 0064
+
+[Merchant friendship Max]
+Type = Gameshark
+Activation = EndFrame
+80067B0E 0064
+

@@ -1,0 +1,83 @@
+; CHTDB: ; [ Tommi Mäkinen Rally (Europe) {SLES-01228} ]
+
+[Select Starting Lap\1]
+Type = Gameshark
+Activation = EndFrame
+800D3BAC 0001
+
+[Select Starting Lap\2]
+Type = Gameshark
+Activation = EndFrame
+800D3BAC 0002
+
+[Select Starting Lap\3]
+Type = Gameshark
+Activation = EndFrame
+800D3BAC 0003
+
+[Select Starting Lap\4]
+Type = Gameshark
+Activation = EndFrame
+800D3BAC 0004
+
+[Select Starting Lap\5]
+Type = Gameshark
+Activation = EndFrame
+800D3BAC 0005
+
+[Always First]
+Type = Gameshark
+Activation = EndFrame
+300D3BF8 0001
+
+[Speed Code (Switch To Outer View)]
+Type = Gameshark
+Activation = EndFrame
+D00ADED6 0000
+800D39EE 0030
+
+[Infinite Checkpoint Time]
+Type = Gameshark
+Activation = EndFrame
+8009F43C 003C
+
+[Infinite Repairtime]
+Type = Gameshark
+Activation = EndFrame
+801280D8 EA60
+
+[Stopwatch 00.00.00]
+Type = Gameshark
+Activation = EndFrame
+3002F7BA 0080
+
+[Activate Cheat Menu]
+Type = Gameshark
+Activation = EndFrame
+3009B016 0000
+
+[Mirrored Tracks]
+Type = Gameshark
+Activation = EndFrame
+300C3FC3 0001
+
+[Psycho World]
+Type = Gameshark
+Activation = EndFrame
+300C3FC4 0001
+
+[Strange Bus]
+Type = Gameshark
+Activation = EndFrame
+300C3FC5 0001
+
+[Peugeot]
+Type = Gameshark
+Activation = EndFrame
+300C3FC6 0001
+
+[Rally Jeunes]
+Type = Gameshark
+Activation = EndFrame
+300C3FC7 0001
+

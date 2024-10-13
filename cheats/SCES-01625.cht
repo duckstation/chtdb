@@ -1,0 +1,81 @@
+; CHTDB: ; [ G-Police: Weapons of Justice (Europe) {SCES-01625} ]
+
+[All 30 missions & difficulties open]
+Type = Gameshark
+Activation = EndFrame
+300401B8 001F
+300401B9 001F
+300401BA 001F
+
+[Open all database]
+Type = Gameshark
+Activation = EndFrame
+80040174 03FF
+8004017C 00FF
+80040184 7FFF
+9004018C 0003FFFF
+90040194 0003FFFF
+9004019C 0003FFFF
+900401A4 0003FFFF
+900401AC 0003FFFF
+
+[Infinite Shield Raptor]
+Type = Gameshark
+Activation = EndFrame
+801EF5E0 36B1
+
+[Infinite Shield Venom Gunship]
+Type = Gameshark
+Activation = EndFrame
+801E3214 1D4D
+
+[Infinite Shield Tunnel Rat .These codes crash (probably the infinite shield-code). So turn off the Codes at the GP Logo and turn it back on when playing.]
+Type = Gameshark
+Activation = EndFrame
+801EF724 2711
+
+[Infinite Cannon .These codes crash (probably the infinite shield-code). So turn off the Codes at the GP Logo and turn it back on when playing.]
+Type = Gameshark
+Activation = EndFrame
+800B51C0 0063
+
+[Infinite Seekers .These codes crash (probably the infinite shield-code). So turn off the Codes at the GP Logo and turn it back on when playing.]
+Type = Gameshark
+Activation = EndFrame
+800B51C8 000A
+
+[Infinite Laser 1 .These codes crash (probably the infinite shield-code). So turn off the Codes at the GP Logo and turn it back on when playing.]
+Type = Gameshark
+Activation = EndFrame
+800B51D4 0063
+
+[Infinite Laser 2 .These codes crash (probably the infinite shield-code). So turn off the Codes at the GP Logo and turn it back on when playing.]
+Type = Gameshark
+Activation = EndFrame
+800B51D8 0063
+
+[Infinite Siren .These codes crash (probably the infinite shield-code). So turn off the Codes at the GP Logo and turn it back on when playing.]
+Type = Gameshark
+Activation = EndFrame
+800B51E8 000F
+
+[Infinite Vanguamo .These codes crash (probably the infinite shield-code). So turn off the Codes at the GP Logo and turn it back on when playing.]
+Type = Gameshark
+Activation = EndFrame
+800B51CC 0021
+
+[Infinite Bb9 Bombs .These codes crash (probably the infinite shield-code). So turn off the Codes at the GP Logo and turn it back on when playing.]
+Type = Gameshark
+Activation = EndFrame
+800B51EC 0022
+
+[Infinite Cluster Bombs .These codes crash (probably the infinite shield-code). So turn off the Codes at the GP Logo and turn it back on when playing.]
+Type = Gameshark
+Activation = EndFrame
+800B51F0 0031
+
+[Infinite Epps .These codes crash (probably the infinite shield-code). So turn off the Codes at the GP Logo and turn it back on when playing.]
+Type = Gameshark
+Activation = EndFrame
+800B51D0 0063
+

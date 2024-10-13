@@ -1,0 +1,30 @@
+; CHTDB: ; [ Return Fire (USA) (1996) (Time Warner Interactive) {SLUS-00184} <retfire> ]
+
+[Infinite Fuel]
+Type = Gameshark
+Activation = EndFrame
+80082016 013F
+800EC21A 002C
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+80082030 0095
+800EC236 0026
+80082040 0032
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80082022 8000
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+900A3CDC 03030303
+
+[Drive In Water]
+Type = Gameshark
+Activation = EndFrame
+80082044 67DC
+

@@ -1,0 +1,44 @@
+; CHTDB: ; [ Jet Rider (Europe) {SCES-00566} ]
+
+[Infinite Turbo]
+Type = Gameshark
+Activation = EndFrame
+80101340 0000
+
+[Select Starting Lap\2]
+Type = Gameshark
+Activation = EndFrame
+A617CE4C 00000002
+
+[Select Starting Lap\3]
+Type = Gameshark
+Activation = EndFrame
+A617CE4C 00000003
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A716EEAC 10000C00
+A716EC0C 10000C00
+A716EC6C 10000C00
+A716ED2C 10000C00
+A716ED8C 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A716EEAC 10000900
+A716EC0C 10000900
+A716EC6C 10000900
+A716ED2C 10000900
+A716ED8C 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A716EEAC 10000400
+A716EC0C 10000400
+A716EC6C 10000400
+A716ED2C 10000400
+A716ED8C 10000400
+

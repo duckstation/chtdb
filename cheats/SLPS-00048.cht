@@ -1,0 +1,12 @@
+; CHTDB: ; [ Gokuu Densetsu - Magic Beast Warriors (Jpn) (1995) (Allumer) {SLPS-00048} <gokuden> ]
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800E1940 0070
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800D0C70 0063
+

@@ -1,0 +1,38 @@
+; CHTDB: ; [ Bust A Move (Japan) {SLPS-01237} ]
+
+[All Clear]
+Type = Gameshark
+Activation = EndFrame
+9004E068 01010107
+
+[Dance View]
+Type = Gameshark
+Activation = EndFrame
+50000702 0000
+8004E06C 0101
+
+[P1-One Dance With 65535 Points]
+Type = Gameshark
+Activation = EndFrame
+80075F08 FFFF
+
+[P2-One Dance With 65535 Points]
+Type = Gameshark
+Activation = EndFrame
+80075F0C FFFF
+
+[P1 Max Str.]
+Type = Gameshark
+Activation = EndFrame
+80075D28 7000
+
+[P2 Max Str.]
+Type = Gameshark
+Activation = EndFrame
+80075D2C 7000
+
+[Can Play Till To Chapter 12]
+Type = Gameshark
+Activation = EndFrame
+3006ECC1 000B
+

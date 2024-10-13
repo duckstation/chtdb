@@ -1,0 +1,19 @@
+; CHTDB: ; [ Alex Ferguson's Player Manager 2001 (Europe) {SLES-03150} ]
+
+[Position 1 Scores 10 Goals]
+Type = Gameshark
+Activation = EndFrame
+D0041732 FEFF
+800F4CD0 000A
+
+[Position 2 Scores 10 Goals]
+Type = Gameshark
+Activation = EndFrame
+D0041732 FDFF
+800F4CD2 000A
+
+[Managers Rating At 999]
+Type = Gameshark
+Activation = EndFrame
+80049458 03E7
+

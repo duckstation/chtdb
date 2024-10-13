@@ -1,0 +1,146 @@
+; CHTDB: ; [ Power Shovel (USA) (2001) (Acclaim Entertainment) {SLUS-01343} <pwrshovl> ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800F360C 0FFF
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+800D0468 FFFF
+
+[Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+800CB988 0003
+
+[Press Select To Complete Level]
+Type = Gameshark
+Activation = EndFrame
+C00CC620 0100
+800CB980 0001
+800C80B8 0001
+00000000 FFFF
+
+[Press Select To Complete In License Test]
+Type = Gameshark
+Activation = EndFrame
+C00CC620 0100
+800CB980 0001
+800C7E20 0001
+00000000 FFFF
+
+[Always Perfect Score Overall]
+Type = Gameshark
+Activation = EndFrame
+8013D444 0064
+
+[Max Money]
+Type = Gameshark
+Activation = EndFrame
+900D0468 3B9AC9FF
+
+[Have All Items]
+Type = Gameshark
+Activation = EndFrame
+900D046C FFFFFFFF
+
+[Max Accumulated Wages]
+Type = Gameshark
+Activation = EndFrame
+900CBC10 3B9AC9FF
+
+[License test Press Select To Complete Level]
+Type = Gameshark
+Activation = EndFrame
+C00CC620 0100
+800CB980 0001
+800C7E20 0001
+00000000 FFFF
+
+[License test Levels Don't End When You Hit Too Many Things]
+Type = Gameshark
+Activation = EndFrame
+800C7E48 0064
+
+[License test No Demerit Marks]
+Type = Gameshark
+Activation = EndFrame
+8013D438 0000
+
+[License test No Other Demerit Marks]
+Type = Gameshark
+Activation = EndFrame
+8013D43C 0000
+
+[License test Always Perfect Overall Score]
+Type = Gameshark
+Activation = EndFrame
+8013D444 0064
+
+[Finish License Test For Perfect Score Knocking Down Poles]
+Type = Gameshark
+Activation = EndFrame
+300CFB98 0064
+
+[Finish License Test For Perfect Score Parking]
+Type = Gameshark
+Activation = EndFrame
+300CFB99 0064
+
+[Finish License Test For Perfect Score Driving Parking]
+Type = Gameshark
+Activation = EndFrame
+300CFB9A 0064
+
+[Finish License Test For Perfect Score Scooping Sand]
+Type = Gameshark
+Activation = EndFrame
+300CFB9B 0064
+
+[Finish License Test For Perfect Score Scooping Certain Volume Sand]
+Type = Gameshark
+Activation = EndFrame
+300CFB9C 0064
+
+[Finish License Test For Perfect Score Digging Deep Hole]
+Type = Gameshark
+Activation = EndFrame
+300CFB9D 0064
+
+[Finish License Test For Perfect Score Flat A Sand Mountain]
+Type = Gameshark
+Activation = EndFrame
+300CFB9E 0064
+
+[Finish License Test For Perfect Score Bury A Long Hole]
+Type = Gameshark
+Activation = EndFrame
+300CFB9F 0064
+
+[Finish License Test For Perfect Score Breaking Rocks]
+Type = Gameshark
+Activation = EndFrame
+300CFBA0 0064
+
+[Finish License Test For Perfect Score Carrying Goods]
+Type = Gameshark
+Activation = EndFrame
+300CFBA1 0064
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A70D06B8 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A70D06B8 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A70D06B8 10000400
+

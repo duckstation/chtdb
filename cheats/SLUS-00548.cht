@@ -1,0 +1,115 @@
+; CHTDB: ; [ Street Fighter EX Plus Alpha (USA) (1997) (Capcom Entertainment) {SLUS-00548} <sfexpa> ]
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+301D63B5 0096
+
+[P1 1-Hit Death]
+Type = Gameshark
+Activation = EndFrame
+D01D63B4 9600
+301D63B5 0001
+
+[P1 Max Power]
+Type = Gameshark
+Activation = EndFrame
+301D63B4 00C8
+
+[P2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+301D78DD 0096
+
+[P2 No Energy]
+Type = Gameshark
+Activation = EndFrame
+301D78DD 0000
+
+[P2 1-Hit Death]
+Type = Gameshark
+Activation = EndFrame
+D01D78DC 9600
+301D78DD 0001
+
+[P2 Max Power]
+Type = Gameshark
+Activation = EndFrame
+301D78DC 00C8
+
+[Expert Training Point Modifier .When you activate this code, go to the Expert Practice room then leave. Cut the GS off then. You should now have the four hidden characters.]
+Type = Gameshark
+Activation = EndFrame
+801EBCC0 FFFF
+
+[Stop Timer]
+Type = Gameshark
+Activation = EndFrame
+801D39C4 2D63
+
+[Unlock All Endings and can be saved to memory card]
+Type = Gameshark
+Activation = EndFrame
+901D39EC FFFFFFFF
+
+[Unlock Bonus Game and can be saved to memory card]
+Type = Gameshark
+Activation = EndFrame
+801E98BE 6101
+
+[Unlock 7 Secret Characters without expert points and can be saved to memory card]
+Type = Gameshark
+Activation = EndFrame
+801E960A 77FD
+
+[Expert Mode Complete]
+Type = Gameshark
+Activation = EndFrame
+50001302 0000
+801E95D8 FFFF
+
+[P1 Infinite Health + Super]
+Type = Gameshark
+Activation = EndFrame
+801D63B4 96C8
+
+[P1 No Health + Super]
+Type = Gameshark
+Activation = EndFrame
+801D63B4 0000
+
+[P2 Infinite Health + Super]
+Type = Gameshark
+Activation = EndFrame
+801D78DC 96C8
+
+[P2 No Health + Super]
+Type = Gameshark
+Activation = EndFrame
+801D78DC 0000
+
+[P1 Wins Modifier (Survival Mode)]
+Type = Gameshark
+Activation = EndFrame
+801DC9F6 FFFF
+
+[P1 Low Overall Time (Time Attack Mode)]
+Type = Gameshark
+Activation = EndFrame
+801DC9D8 0000
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A71DD2E0 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A71DD2E0 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A71DD2E0 10000400
+

@@ -1,0 +1,27 @@
+; CHTDB: ; [ Soul of the Samurai (USA) (1999) (Konami of America) {SLUS-00822} <soulsam> ]
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+80098110 00FA
+
+[Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+30098115 00FA
+
+[Infinite Health Kurenai]
+Type = Gameshark
+Activation = EndFrame
+8009853C 0064
+
+[Always Have Normal Status]
+Type = Gameshark
+Activation = EndFrame
+800BCE04 0000
+
+[Infinite All Items]
+Type = Gameshark
+Activation = EndFrame
+80059106 2400
+

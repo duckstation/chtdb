@@ -1,0 +1,64 @@
+; CHTDB: ; [ Agile Warrior - F-111X (USA) (1995) (Virgin Interactive Entertainment) {SLUS-00023} <awf111x> ]
+
+[Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+800D43DC 0064
+800EB550 86A0
+
+[Infinite Napalm]
+Type = Gameshark
+Activation = EndFrame
+80060F2C 0064
+
+[Infinite Rockets]
+Type = Gameshark
+Activation = EndFrame
+80060F28 0064
+
+[Infinite Mavericks]
+Type = Gameshark
+Activation = EndFrame
+80060F2E 0064
+
+[Infinite Fuel Air Explosives]
+Type = Gameshark
+Activation = EndFrame
+80060F32 0064
+
+[Infinite Bunkerbusters]
+Type = Gameshark
+Activation = EndFrame
+80060F2A 0064
+
+[Infinite B61Sram]
+Type = Gameshark
+Activation = EndFrame
+80060F34 0064
+
+[Infinite Sidewinders]
+Type = Gameshark
+Activation = EndFrame
+80060F26 0064
+
+[Infinite Amraam]
+Type = Gameshark
+Activation = EndFrame
+80060F36 0064
+
+[Infinite Cluster Bombs]
+Type = Gameshark
+Activation = EndFrame
+80060F30 0064
+
+[Infinite Armor (Uses Built-In Cheat)]
+Type = Gameshark
+Activation = EndFrame
+800D432E 0101
+
+[Play game at 60 FPS]
+Type = Gameshark
+Activation = EndFrame
+A70F9764 001E003C
+;Does the above actually work?
+

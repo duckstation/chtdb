@@ -1,0 +1,30 @@
+; CHTDB: ; [ Gallop Racer 2 (Japan) {SLPS-01077} ]
+
+[Infinite Stamina]
+Type = Gameshark
+Activation = EndFrame
+8007A5D6 0032
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+901FA208 000CFFFF
+
+[Max Three Horse Can Enter The Race]
+Type = Gameshark
+Activation = EndFrame
+801FA420 005A
+801FA8D4 005A
+801FAD88 005A
+
+[Secret Horse (54 horses for japanese class, 16 horses for world class)]
+Type = Gameshark
+Activation = EndFrame
+301FE228 00FF
+801FE23A FFFF
+901FE23C FFFFFFFF
+901FE240 FFFFFFFF
+901FE244 FFFFFFFF
+901FE248 FFFFFFFF
+901FE24C FFFFFFFF
+

@@ -1,0 +1,7 @@
+; CHTDB: ; [ Simple 1500 Series Vol. 19: The Sugoroku (Japan) {SLPS-02435} ]
+
+[P1 Have 999999 money]
+Type = Gameshark
+Activation = EndFrame
+9009D500 000F423F
+

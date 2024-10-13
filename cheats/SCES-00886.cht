@@ -1,0 +1,54 @@
+; CHTDB: ; [ Point Blank (Euro, Rev. 1) (1997) (Sony Computer Entertainment Europe) {SCES-00886#} <ptblanke> ]
+
+[Infinite Bullets]
+Type = Gameshark
+Activation = EndFrame
+800B7418 0010
+800B7434 0010
+
+[Infinite Hits]
+Type = Gameshark
+Activation = EndFrame
+800B4318 00FF
+
+[Arcade Mode Codes\P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800C159C 0005
+
+[Arcade Mode Codes\P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800C159E 0005
+
+[Arcade Mode Codes\P1 Infinite Bullets]
+Type = Gameshark
+Activation = EndFrame
+800B7418 0063
+
+[Arcade Mode Codes\P2 Infinite Bullets]
+Type = Gameshark
+Activation = EndFrame
+800B741A 0063
+
+[Arcade Mode Codes\Always Max Hits]
+Type = Gameshark
+Activation = EndFrame
+800BE588 00FF
+
+[Arcade Mode Codes\Infinite Time Press L1 & R1 & Select (On) Press L2 & R2 & Select (Off)]
+Type = Gameshark
+Activation = EndFrame
+800B7434 0016
+800AD856 FFFF
+
+[Quest Mode Codes\Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+800AE0D4 FFFF
+
+[Quest Mode Codes\P1 Quick Level Gain]
+Type = Gameshark
+Activation = EndFrame
+800C1918 FFFF
+

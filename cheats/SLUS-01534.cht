@@ -1,0 +1,35 @@
+; CHTDB: ; [ Inuyasha - A Feudal Fairy Tale (USA, v1.0) (2003) (Bandai America) {SLUS-01534} <inuyaffta> ]
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+900AA288 0003CA00
+
+[P2 No Health]
+Type = Gameshark
+Activation = EndFrame
+900AA2E0 00000000
+
+[P1 Infinite Special]
+Type = Gameshark
+Activation = EndFrame
+800AA298 6400
+
+[P2 Infinite Special]
+Type = Gameshark
+Activation = EndFrame
+800AA2F0 6400
+
+[Unlock All Extras]
+Type = Gameshark
+Activation = EndFrame
+800A9F2C FFFF
+800A9F32 FFFF
+50000C04 0000
+800A9F5C 0001
+50000D10 0000
+800A9FAC FFFF
+50000D10 0000
+800A9FAE FFFF
+300A9FF0 00FF
+

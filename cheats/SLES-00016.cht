@@ -1,0 +1,17 @@
+; CHTDB: ; [ Micro Machines V3 (Euro, EDC) (1997) (The Codemasters Software Company) {SLES-00016#} <micromc3e> ]
+
+[P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800129DA 0003
+
+[Only one lap to race]
+Type = Gameshark
+Activation = EndFrame
+8013AB3E 0003
+
+[Lap time 0.00.00]
+Type = Gameshark
+Activation = EndFrame
+800BB5CC 0000
+

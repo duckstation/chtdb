@@ -1,0 +1,13 @@
+; CHTDB: ; [ Guilty Gear (Japan) Rev 1 {SLPS-02273} ]
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800422EC 0040
+8004236E 0040
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800421A0 0000
+

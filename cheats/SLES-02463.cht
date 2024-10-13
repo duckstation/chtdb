@@ -1,0 +1,83 @@
+; CHTDB: ; [ Tenchu 2: Birth of the Stealth Assassins (Germany) {SLES-02463} ]
+
+[Unendlich Luft]
+Type = Gameshark
+Activation = EndFrame
+A601EBA0 00070000
+
+[Unendlich Gesundheit]
+Type = Gameshark
+Activation = EndFrame
+D013F012 0064
+3013F010 0064
+
+[Tatsumaru freigeschaltet]
+Type = Gameshark
+Activation = EndFrame
+30010008 0002
+
+[Alle Level]
+Type = Gameshark
+Activation = EndFrame
+30010481 0101
+50000502 0000
+80010482 0101
+
+[Unendlich alle Gegenstände]
+Type = Gameshark
+Activation = EndFrame
+D00411B8 FFFF
+800411BC 0000
+D00411B8 FFFF
+800411BE 0000
+
+[Ayame Alle Gegenstände]
+Type = Gameshark
+Activation = EndFrame
+30010037 006F
+50000A02 0000
+
+[Ayame Alles perfekt]
+Type = Gameshark
+Activation = EndFrame
+50000B08 0000
+800100CC FF06
+50000B08 0000
+800100CE 5A54
+50000B08 0000
+800100D0 EA5F
+
+[Rikimaru Alle Gegenstände]
+Type = Gameshark
+Activation = EndFrame
+30010019 006F
+50000A02 0000
+8001001A 6F6F
+
+[Rikimaru Alles perfekt]
+Type = Gameshark
+Activation = EndFrame
+50000B08 0000
+80010074 FF06
+50000B08 0000
+80010076 5A54
+50000B08 0000
+80010078 EA5F
+
+[Tatsumaru Alle Gegenstände]
+Type = Gameshark
+Activation = EndFrame
+30010055 006F
+50000A02 0000
+80010056 6F6F
+
+[Tatsumaru Alles perfekt]
+Type = Gameshark
+Activation = EndFrame
+50000708 0000
+80010124 FF06
+50000708 0000
+80010126 5A54
+50000708 0000
+80010128 EA5F
+

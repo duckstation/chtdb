@@ -1,0 +1,28 @@
+; CHTDB: ; [ Destruction Derby (USA) (1995) (Psygnosis) {SCUS-94302} <dderby> ]
+
+[Always Finish First]
+Description = Also It Will Gives You 255 Every Time A Race is Finished, Even If You Quit
+Type = Gameshark
+Activation = EndFrame
+301E7763 00FF
+
+[Infinite Damage]
+Type = Gameshark
+Activation = EndFrame
+801E773C 0000
+801E773A 0000
+801E773E 0000
+901E7740 00000000
+801E7744 0000
+
+[95 Points Per Race]
+Description = You get 95 `Race Points' with this cheat. Turn off and you get 99 points and invinciblity.
+Type = Gameshark
+Activation = EndFrame
+801E7762 FF00
+
+[Ruined Monastery Stage Open]
+Type = Gameshark
+Activation = EndFrame
+300BBD7E 0001
+

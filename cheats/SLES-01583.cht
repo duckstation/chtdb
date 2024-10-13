@@ -1,0 +1,12 @@
+; CHTDB: ; [ PequeÃ±os Guerreros (Spain) {SLES-01583} ]
+
+[Infinite Energy Level 1]
+Type = Gameshark
+Activation = EndFrame
+800E09B2 0064
+
+[Infinite Energy Level 2]
+Type = Gameshark
+Activation = EndFrame
+800F6E92 0064
+

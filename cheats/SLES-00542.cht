@@ -1,0 +1,27 @@
+; CHTDB: ; [ Lethal Enforcers aka Lethal Enforcers I & II (Europe) {SLES-00542} ]
+
+[Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+80078390 0021
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8007835C 0009
+
+[P1 Infinite Bullets]
+Type = Gameshark
+Activation = EndFrame
+80078358 0016
+
+[P2 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80078390 0009
+
+[P2 Infinite Bullets]
+Type = Gameshark
+Activation = EndFrame
+8007838C 0016
+

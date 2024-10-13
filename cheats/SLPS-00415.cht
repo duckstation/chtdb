@@ -1,0 +1,17 @@
+; CHTDB: ; [ Street Fighter Zero 2 (Japan) {SLPS-00415} ]
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+3019801C 0090
+
+[P2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80197FEC 0090
+
+[P2 No Energy]
+Type = Gameshark
+Activation = EndFrame
+80197FEC 0000
+

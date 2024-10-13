@@ -1,0 +1,13 @@
+; CHTDB: ; [ Gamesoft wo Tsukurou - Let's Be a Super Game Creator (Jpn) (1999) (Imageneer) {SLPS-01607} <gametsuk> ]
+
+[Game creator mode money MAX longing]
+Type = Gameshark
+Activation = EndFrame
+800DCACA 0063
+
+[100 million of money MAX mode of dream Aim funds MAX Press L2 button]
+Type = Gameshark
+Activation = EndFrame
+D0163538 0001
+301649AE 00FF
+

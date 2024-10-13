@@ -1,0 +1,47 @@
+; CHTDB: ; [ My Garden (Japan) {SLPS-02213} ]
+
+[Infinite Money (60000)]
+Type = Gameshark
+Activation = EndFrame
+80046770 EA60
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800418F5 1600
+
+[Life now]
+Type = Gameshark
+Activation = EndFrame
+300418F6 006C
+
+[Maximum Life]
+Type = Gameshark
+Activation = EndFrame
+300418F7 006C
+
+[The amount of water in the watering]
+Type = Gameshark
+Activation = EndFrame
+300418FD 0008
+
+[Handicrafts that can make out all]
+Type = Gameshark
+Activation = EndFrame
+300418FE 000F
+
+[Friendship gauge]
+Type = Gameshark
+Activation = EndFrame
+80147C88 0802
+
+[Bazaar / gold sales]
+Type = Gameshark
+Activation = EndFrame
+801C1DE8 FFFF
+
+[I stop the time of choice]
+Type = Gameshark
+Activation = EndFrame
+301D69E4 0000
+

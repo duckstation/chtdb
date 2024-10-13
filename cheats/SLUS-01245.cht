@@ -1,0 +1,32 @@
+; CHTDB: ; [ Casper - Friends Around the World (USA) (2000) (Sound Source Interactive) {SLUS-01245} <caspfrnd> ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800DCAE0 000A
+
+[Infinite Floating Power]
+Type = Gameshark
+Activation = EndFrame
+80097C5C 0078
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+300DCAB1 0003
+
+[Max Crystals]
+Type = Gameshark
+Activation = EndFrame
+300DCAB2 00FF
+
+[Infinite Continues]
+Type = Gameshark
+Activation = EndFrame
+300DCADE 0003
+
+[All Levels Unlocked]
+Type = Gameshark
+Activation = EndFrame
+300DCAAD 000A
+

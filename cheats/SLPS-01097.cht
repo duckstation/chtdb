@@ -1,0 +1,43 @@
+; CHTDB: ; [ Asuncia: Majou no Jubaku (Japan) {SLPS-01097} ]
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+900BE1C0 270F270F
+
+[Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+900BE1C4 270F270F
+
+[Infinite Str]
+Type = Gameshark
+Activation = EndFrame
+800BE25C 03E7
+
+[Infinite Agi]
+Type = Gameshark
+Activation = EndFrame
+800BE25E 03E7
+
+[Infinite HP Character 2]
+Type = Gameshark
+Activation = EndFrame
+800BE1CE 270F
+800BE1D0 270F
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+900C573C 05F5E0FF
+
+[Score 99999999]
+Type = Gameshark
+Activation = EndFrame
+900C5738 05F5E0FF
+
+[Stage Clear]
+Type = Gameshark
+Activation = EndFrame
+800C572C 0000
+

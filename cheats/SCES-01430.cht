@@ -1,0 +1,34 @@
+; CHTDB: ; [ LiberoGrande (Europe) {SCES-01430} ]
+
+[Goals Home Team 9]
+Type = Gameshark
+Activation = EndFrame
+801287A0 0009
+
+[Goals Home Team 0]
+Type = Gameshark
+Activation = EndFrame
+801287A0 0000
+
+[Goal Away Team 9]
+Type = Gameshark
+Activation = EndFrame
+801287A4 0009
+
+[Goal Away Team 0]
+Type = Gameshark
+Activation = EndFrame
+801287A4 0000
+
+[Unlock Extra Players]
+Type = Gameshark
+Activation = EndFrame
+50000502 0000
+800E4B08 0101
+
+[Unlock All Challenges]
+Type = Gameshark
+Activation = EndFrame
+5000031A 0000
+800C4850 03FF
+

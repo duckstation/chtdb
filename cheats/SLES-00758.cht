@@ -1,0 +1,47 @@
+; CHTDB: ; [ Ninja: Shadow of Darkness (Germany) {SLES-00758} ]
+
+[Unendlich Power Ups]
+Type = Gameshark
+Activation = EndFrame
+8006D024 0004
+
+[Besitze SilberschlüSsel]
+Type = Gameshark
+Activation = EndFrame
+8006D028 0001
+
+[Unendlich Leben]
+Type = Gameshark
+Activation = EndFrame
+8006D03C 0009
+
+[Besitze GoldschlüSsel]
+Type = Gameshark
+Activation = EndFrame
+8006D040 0001
+
+[Unendlich Geld]
+Type = Gameshark
+Activation = EndFrame
+8006D050 270F
+
+[Unendlich Bomben]
+Type = Gameshark
+Activation = EndFrame
+8006D088 0009
+
+[Unendlich Energie]
+Type = Gameshark
+Activation = EndFrame
+8006D0AA 0050
+
+[Unendlich Heiltrank]
+Type = Gameshark
+Activation = EndFrame
+8006D0AC 0009
+
+[Level Select]
+Type = Gameshark
+Activation = EndFrame
+3006BAAA 0001
+

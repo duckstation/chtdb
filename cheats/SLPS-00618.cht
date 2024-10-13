@@ -1,0 +1,12 @@
+; CHTDB: ; [ Civizard: Majutsu no Keifu (Japan) {SLPS-00618} ]
+
+[Infinite 99999 Gp]
+Type = Gameshark
+Activation = EndFrame
+9019C514 0001869F
+
+[Infinite MP (60000)]
+Type = Gameshark
+Activation = EndFrame
+8019C41A EA60
+

@@ -1,0 +1,25 @@
+; CHTDB: ; [ End Sector (Jpn) (1998) (ASCII) {SLPS-01584} <endsectr> ]
+
+[Infinite HP Main character]
+Description = Deactivate after battle
+Type = Gameshark
+Activation = EndFrame
+8012EB14 07D0
+
+[Max Money]
+Type = Gameshark
+Activation = EndFrame
+800FDF3C FFFF
+
+[Max Money (Press L2+Up)]
+Type = Gameshark
+Activation = EndFrame
+D0050C50 1001
+800FDF3C FFFF
+
+[VICTORY PRESS Triangle + L1]
+Type = Gameshark
+Activation = EndFrame
+D0050DD8 0014
+8012EBC4 0000
+

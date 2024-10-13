@@ -1,0 +1,17 @@
+; CHTDB: ; [ Rally Cross 2 (Europe) {SCES-01631} ]
+
+[Always Place First]
+Type = Gameshark
+Activation = EndFrame
+80071F80 0001
+
+[One Lap To Race]
+Type = Gameshark
+Activation = EndFrame
+8006047E 0104
+
+[All Cars & Tracks]
+Type = Gameshark
+Activation = EndFrame
+800597CE 0003
+

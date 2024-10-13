@@ -1,0 +1,178 @@
+; CHTDB: ; [ WWF War Zone (USA, v1.0) (1998) (Acclaim Entertainment) {SLUS-00495} <wwfwarza> ]
+
+[Unlock Cheats In Cheat Menu\Unlock All Features Simply press R1+L1 repeatedly at the menu select screen to load cheat menu! This Code unlocks all secret characters in the game.plus more!]
+Type = Gameshark
+Activation = EndFrame
+9007A0F0 100007FF
+
+[Unlock Cheats In Cheat Menu\Unlock All Modes Simply press R1+L1 repeatedly at the menu select screen to load cheat menu! This Code unlocks all secret characters in the game.plus more!]
+Type = Gameshark
+Activation = EndFrame
+9007A0F4 20003FFF
+
+[Player Creation\Infinite Attributes Points]
+Type = Gameshark
+Activation = EndFrame
+800B64F4 0000
+
+[Player Creation\Max Strength]
+Type = Gameshark
+Activation = EndFrame
+800B6280 0032
+
+[Player Creation\Max Toughness]
+Type = Gameshark
+Activation = EndFrame
+800B6282 0032
+
+[Player Creation\Max Speed]
+Type = Gameshark
+Activation = EndFrame
+800B6284 0032
+
+[Player Creation\Max Recovery]
+Type = Gameshark
+Activation = EndFrame
+800B6286 0032
+
+[Player Creation\Max Charisma]
+Type = Gameshark
+Activation = EndFrame
+800B6288 0032
+
+[Player Creation\Create Topless Female Wrestler (Parental Advisory-17+)]
+Type = Gameshark
+Activation = EndFrame
+900B4AD8 0F060001
+800B6018 0005
+
+[Player Creation\All Never Stunned]
+Type = Gameshark
+Activation = EndFrame
+800B498A 2400
+
+[Player Creation\P1 Invincibility]
+Type = Gameshark
+Activation = EndFrame
+900BC5B8 240D0000
+900BBD44 11B00008
+800BBD4A 2400
+900B5BB4 240D0000
+900B5BBC 11B30008
+
+[Player Creation\P2 Invincibility]
+Type = Gameshark
+Activation = EndFrame
+900BC5B8 240D0001
+900BBD44 11B00008
+800BBD4A 2400
+900B5BB4 240D0001
+900B5BBC 11B30008
+
+[Player Creation\P3 Invincibility]
+Type = Gameshark
+Activation = EndFrame
+900BC5B8 240D0002
+900BBD44 11B00008
+800BBD4A 2400
+900B5BB4 240D0002
+900B5BBC 11B30008
+
+[Player Creation\P4 Invincibility]
+Type = Gameshark
+Activation = EndFrame
+900BC5B8 240D0003
+900BBD44 11B00008
+800BBD4A 2400
+900B5BB4 240D0003
+900B5BBC 11B30008
+
+[Player Creation\All Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800BBD4A 2400
+900B4778 1000004C
+
+[Player Creation\P1 Can't Be Pinned]
+Type = Gameshark
+Activation = EndFrame
+900B5C04 24190000
+900B4A80 12790004
+
+[Player Creation\P2 Can't Be Pinned]
+Type = Gameshark
+Activation = EndFrame
+900B5C04 24190001
+900B4A80 12790004
+
+[Player Creation\P3 Can't Be Pinned]
+Type = Gameshark
+Activation = EndFrame
+900B5C04 24190002
+900B4A80 12790004
+
+[Player Creation\P4 Can't Be Pinned]
+Type = Gameshark
+Activation = EndFrame
+900B5C04 24190003
+900B4A80 12790004
+
+[Player Creation\All Can't Be Pinned]
+Type = Gameshark
+Activation = EndFrame
+900B4A80 10000004
+
+[Player Creation\P1 Pinned Quickly]
+Type = Gameshark
+Activation = EndFrame
+900B5C04 24190000
+900B4A80 12790005
+
+[Player Creation\P2 Pinned Quickly]
+Type = Gameshark
+Activation = EndFrame
+900B5C04 24190001
+900B4A80 12790005
+
+[Player Creation\P3 Pinned Quickly]
+Type = Gameshark
+Activation = EndFrame
+900B5C04 24190002
+900B4A80 12790005
+
+[Player Creation\P4 Pinned Quickly]
+Type = Gameshark
+Activation = EndFrame
+900B5C04 24190003
+900B4A80 12790005
+
+[Player Creation\All Pinned Quickly]
+Type = Gameshark
+Activation = EndFrame
+900B4A80 10000005
+
+[Slow Motion]
+Type = Gameshark
+Activation = EndFrame
+8005F2B4 F23C
+
+[Hyper Mode]
+Type = Gameshark
+Activation = EndFrame
+800610F8 F32C
+
+[Bootup Increase]
+Type = Gameshark
+Activation = EndFrame
+800612A0 0000
+
+[Infinite Match Time]
+Type = Gameshark
+Activation = EndFrame
+80077C24 0A80
+
+[Infinite Outer Ring Time]
+Type = Gameshark
+Activation = EndFrame
+800B43C2 2400
+

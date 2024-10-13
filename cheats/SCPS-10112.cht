@@ -1,0 +1,61 @@
+; CHTDB: ; [ PoPoLoCrois Monogatari II (Japan) {SCPS-10112 | SCPS-10113 | SCPS-10114} ]
+
+[Max 999 Energy]
+Type = Gameshark
+Activation = EndFrame
+8011DADE 03E7
+
+[Infinite MP And 999]
+Type = Gameshark
+Activation = EndFrame
+800D1518 03E7
+8011DAFE 03E7
+
+[Fast Max Exp]
+Type = Gameshark
+Activation = EndFrame
+800D92F0 270F
+
+[Fast Max Sp]
+Type = Gameshark
+Activation = EndFrame
+800D92F4 270F
+
+[Max Money]
+Type = Gameshark
+Activation = EndFrame
+90114BE8 0098967F
+
+[LV]
+Type = Gameshark
+Activation = EndFrame
+800D1515 3180
+
+[HP currently]
+Type = Gameshark
+Activation = EndFrame
+800D1516 F9C0
+
+[Monster Encyclopedia]
+Type = Gameshark
+Activation = EndFrame
+3011B3FF 00FF
+
+[Almost All weapons possession]
+Type = Gameshark
+Activation = EndFrame
+D003FBA4 000C
+8003FBC8 0063
+D003FBA4 000C
+8003FBCA 2402
+D003FBA4 000C
+8003FBB4 0000
+D003FBA4 000C
+8003FBB6 2683
+
+[Enemy death blow]
+Type = Gameshark
+Activation = EndFrame
+D0047328 0018
+8004732A ACC0
+

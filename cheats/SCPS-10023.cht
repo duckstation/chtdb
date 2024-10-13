@@ -1,0 +1,77 @@
+; CHTDB: ; [ PoPoLoCrois Monogatari (Japan) {SCPS-10023} ]
+
+[Infinite & Max Hp Pietoro]
+Type = Gameshark
+Activation = EndFrame
+800E40A0 03E7
+800F42DE 03E7
+
+[Infinite & Max Mp Pietoro]
+Type = Gameshark
+Activation = EndFrame
+800F42E4 03E7
+800F42E2 03E7
+
+[Infinite & Max HP Don]
+Type = Gameshark
+Activation = EndFrame
+800F4588 03E7
+800F4586 03E7
+
+[Infinite & Max MP Don]
+Type = Gameshark
+Activation = EndFrame
+800F458C 03E7
+800F458A 03E7
+
+[Infinite & Max HP Gon]
+Type = Gameshark
+Activation = EndFrame
+800F4500 03E7
+800F44FE 03E7
+
+[Infinite & Max MP Gon]
+Type = Gameshark
+Activation = EndFrame
+800F4504 03E7
+800F4502 03E7
+
+[Level Up All Characters]
+Type = Gameshark
+Activation = EndFrame
+800E4DEC FFFF
+
+[Maximum Experience Takes effect after you kill any enemy]
+Type = Gameshark
+Activation = EndFrame
+80045220 0000
+
+[Maximum Gold]
+Type = Gameshark
+Activation = EndFrame
+900F2A64 05F5E0FF
+
+[Maximum Magic Experience Takes effect after you kill any enemy]
+Type = Gameshark
+Activation = EndFrame
+800453D4 0000
+
+[Enemy death blow]
+Type = Gameshark
+Activation = EndFrame
+D00E908C 0800
+8006A8E6 0005
+D00E908C 0100
+8006A8E6 0045
+
+[No Random Battles]
+Type = Gameshark
+Activation = EndFrame
+300F2C9C 0001
+
+[Monster Encyclopedia + 5h]
+Type = Gameshark
+Activation = EndFrame
+300DE504 00FF
+300DE7EC 00FF
+

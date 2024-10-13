@@ -1,0 +1,45 @@
+; CHTDB: ; [ Gunbare! Game Tengoku - The Game Paradise 2 (Jpn) (1998) (Jaleco) {SLPS-01322} <gametng2> ]
+
+[Level 8 All Characters]
+Type = Gameshark
+Activation = EndFrame
+900422E4 07070707
+900422E8 07070707
+
+[Lives 99 All Characters]
+Type = Gameshark
+Activation = EndFrame
+900422EC 63636363
+900422F0 63636363
+
+[All Sold Out]
+Type = Gameshark
+Activation = EndFrame
+8004236C 00FF
+
+[Gold]
+Type = Gameshark
+Activation = EndFrame
+8004235C FFFF
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800C6970 6363
+
+[Infinite Bomb]
+Type = Gameshark
+Activation = EndFrame
+800C696E 0300
+
+[Max Level]
+Type = Gameshark
+Activation = EndFrame
+800C6972 0007
+800C696E 0909
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800C6980 6300
+

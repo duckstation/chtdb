@@ -1,0 +1,17 @@
+; CHTDB: ; [ Circuit Beat (Jpn) (1996) (Prism Arts) {SLPS-00311} <circbeat> ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+801FFE94 02F9
+
+[Maximum Points]
+Type = Gameshark
+Activation = EndFrame
+8003653C 969F
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+301D4DED 000C
+

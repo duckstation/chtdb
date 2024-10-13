@@ -1,0 +1,58 @@
+; CHTDB: ; [ Walt Disney World Quest: Magical Racing Tour (Europe) {SLES-02733} ]
+
+[Start On Last Lap/Always First]
+Type = Gameshark
+Activation = EndFrame
+3008E338 0002
+
+[Start On Last Lap/Always First .Press Select & LeftActivate codes before race starts.]
+Type = Gameshark
+Activation = EndFrame
+D007D1E8 FF7E
+3008E338 0002
+
+[Instant Win]
+Type = Gameshark
+Activation = EndFrame
+3008E338 0003
+
+[Instant Win Press Select & Right Activate codes before race starts]
+Type = Gameshark
+Activation = EndFrame
+D007D1E8 FFDE
+3008E338 0003
+
+[All Lucky Fairies]
+Type = Gameshark
+Activation = EndFrame
+8007FB38 0008
+
+[Have 30 Coins]
+Type = Gameshark
+Activation = EndFrame
+8007FB30 001E
+
+[Have 30 Coins Press Select & Up]
+Type = Gameshark
+Activation = EndFrame
+D007D1E8 FFEE
+8007FB30 001E
+
+[Always Have 8 Cups]
+Type = Gameshark
+Activation = EndFrame
+8007FB34 0008
+
+[Unlock All Levels]
+Type = Gameshark
+Activation = EndFrame
+8007FD54 1FBF
+
+[105% (Unlock Everything)]
+Type = Gameshark
+Activation = EndFrame
+50000D20 0000
+8007FD58 0303
+50000D20 0000
+8007FD5A 0800
+

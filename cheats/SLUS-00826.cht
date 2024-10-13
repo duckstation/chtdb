@@ -1,0 +1,381 @@
+; CHTDB: ; [ Need for Speed - High Stakes (USA) (1999) (Electronic Arts) {SLUS-00826, SLUS-00826GH} <nfshighs> ]
+
+[255 Race Points]
+Type = Gameshark
+Activation = EndFrame
+80115EB4 00FF
+
+[$0.00 Repair Bill]
+Type = Gameshark
+Activation = EndFrame
+80180E28 0000
+
+[Light Car]
+Type = Gameshark
+Activation = EndFrame
+801144DC 0004
+
+[No Opponents]
+Type = Gameshark
+Activation = EndFrame
+80114870 0001
+80115DA0 0001
+801187F0 0001
+8013DAF0 0001
+8013DAF8 0001
+
+[Unlock Mercedes Clk-Gtr + Mclaren F1 Gtr]
+Type = Gameshark
+Activation = EndFrame
+80115742 0101
+
+[Have Porsche 911 (Racer)]
+Type = Gameshark
+Activation = EndFrame
+30115744 0001
+30115774 0001
+
+[Have Corvette (Racer)]
+Type = Gameshark
+Activation = EndFrame
+30115746 0001
+30115776 0001
+
+[Have Phantom Car]
+Type = Gameshark
+Activation = EndFrame
+30115747 0001
+30115777 0001
+
+[Have Titan Car]
+Type = Gameshark
+Activation = EndFrame
+30115748 0001
+30115778 0001
+
+[Have Corvette (Cop Car)]
+Type = Gameshark
+Activation = EndFrame
+8011574C 0101
+8011577C 0101
+
+[Have Porsche 911 (Cop Car)]
+Type = Gameshark
+Activation = EndFrame
+3011574E 0001
+3011577E 0001
+
+[Have Diablo Sv (Cop Car)]
+Type = Gameshark
+Activation = EndFrame
+3011574F 0001
+3011577F 0001
+
+[Have Police Helicopter]
+Type = Gameshark
+Activation = EndFrame
+30115750 0001
+30115780 0001
+
+[Unlock Durham Road Track (England)]
+Type = Gameshark
+Activation = EndFrame
+80115D2C 0001
+
+[Unlock Celtic Ruins Track (Scotland)]
+Type = Gameshark
+Activation = EndFrame
+80115D24 0001
+
+[Unlock Dolphin Cove Track (Usa)]
+Type = Gameshark
+Activation = EndFrame
+80115D18 0001
+
+[Unlock Snowy Ridge Track (Usa)]
+Type = Gameshark
+Activation = EndFrame
+80115D10 0001
+
+[Unlock Raceway Track (Italy)]
+Type = Gameshark
+Activation = EndFrame
+80115D34 0001
+
+[Unlock Raceway 2 Track (Usa)]
+Type = Gameshark
+Activation = EndFrame
+80115D30 0001
+
+[Unlock Raceway 3 Track (Spain)]
+Type = Gameshark
+Activation = EndFrame
+80115D38 0001
+
+[Tournament + Special Events Mode\Place 1st]
+Type = Gameshark
+Activation = EndFrame
+80110E8C 0001
+80113A3C 0001
+80115EB6 0001
+
+[Tournament + Special Events Mode\Always Have Max Wins P1 (High Stakes Mode)]
+Type = Gameshark
+Activation = EndFrame
+30115900 000F
+
+[Tournament + Special Events Mode\Always Have Max Wins P2 (High Stakes Mode)]
+Type = Gameshark
+Activation = EndFrame
+30115901 000F
+
+[Tournament + Special Events Mode\255 Points]
+Type = Gameshark
+Activation = EndFrame
+80115EB4 00FF
+
+[Tournament + Special Events Mode\Infinite Cash In Account]
+Type = Gameshark
+Activation = EndFrame
+80115DA6 0FFF
+
+[Tournament + Special Events Mode\Infinite Pursuit Time]
+Type = Gameshark
+Activation = EndFrame
+8005E1EE 2400
+
+[Have Gold Trophies\Worldwide Roadster Classic]
+Type = Gameshark
+Activation = EndFrame
+30115F81 0001
+
+[Have Gold Trophies\Regional Club Circuit]
+Type = Gameshark
+Activation = EndFrame
+30115F82 0001
+
+[Have Gold Trophies\Super Sedan Challenge]
+Type = Gameshark
+Activation = EndFrame
+30115F83 0001
+
+[Have Gold Trophies\Grand Touring Competition]
+Type = Gameshark
+Activation = EndFrame
+30115F84 0001
+
+[Have Gold Trophies\International Supercar Series]
+Type = Gameshark
+Activation = EndFrame
+30115F85 0001
+
+[Have Gold Trophies\Gt Racing Championship]
+Type = Gameshark
+Activation = EndFrame
+30115F86 0001
+
+[Have Gold Trophies\Weekend Road Racing Classic]
+Type = Gameshark
+Activation = EndFrame
+30115F87 0001
+
+[Have Gold Trophies\Twilight Open Series]
+Type = Gameshark
+Activation = EndFrame
+30115F88 0001
+
+[Have Gold Trophies\International Open Road Tour]
+Type = Gameshark
+Activation = EndFrame
+30115F89 0001
+
+[Have Gold Trophies\Knockout Challenge]
+Type = Gameshark
+Activation = EndFrame
+30115F8A 0001
+
+[Have Gold Trophies\Corvette Pro Cup]
+Type = Gameshark
+Activation = EndFrame
+30115F8B 0001
+
+[Have Gold Trophies\Porsche Pro Cup]
+Type = Gameshark
+Activation = EndFrame
+30115F8C 0001
+
+[Have Gold Trophies\Endurance Racing Competition]
+Type = Gameshark
+Activation = EndFrame
+30115F8D 0001
+
+[Have Gold Trophies\Open Road Knockout Challenge]
+Type = Gameshark
+Activation = EndFrame
+30115F8F 0001
+
+[Have Gold Trophies\Have All Gold Trophies]
+Type = Gameshark
+Activation = EndFrame
+50000D01 0000
+30115F81 0001
+
+[Select Drunk Mode\Semi-Drunk Mode]
+Type = Gameshark
+Activation = EndFrame
+8013E6AC 002F
+
+[Select Drunk Mode\Drunk Mode]
+Type = Gameshark
+Activation = EndFrame
+8013E6AC 001F
+
+[Dash View]
+Type = Gameshark
+Activation = EndFrame
+8011491C 0001
+
+[Heavy Car]
+Type = Gameshark
+Activation = EndFrame
+801144DC 0002
+
+[Swap Race Corvette with Bonus Skyline]
+Type = Gameshark
+Activation = EndFrame
+80114356 00005350
+80114358 0000594B
+3005624C 00000044
+800562C0 0000DB4C
+300B35F4 00000012
+3011FEAF 000000FF
+30117B0E 00000001
+
+[Gold for CE Tournament 1]
+Type = Gameshark
+Activation = EndFrame
+30115F8E 00000001
+
+[Gold for CE Tournament 2]
+Type = Gameshark
+Activation = EndFrame
+30115F90 00000001
+
+[Gold for CE Tournament 3]
+Type = Gameshark
+Activation = EndFrame
+30115F91 00000001
+
+[Gold for CE Tournament 4]
+Type = Gameshark
+Activation = EndFrame
+30115F92 00000001
+
+[Increase Track Detail]
+Description = Increases track geometry quality - overclock the CPU in DS for the best effect
+Type = Gameshark
+Activation = EndFrame
+3011020E 00000006
+30110212 00000002
+301114D2 00000004
+301102AE 00000002
+
+[Have MHRT VT Commodore (Racer)]
+Type = Gameshark
+Activation = EndFrame
+30115745 00000001
+30115775 00000001
+
+[Force Dashboard View]
+Type = Gameshark
+Activation = EndFrame
+300845A7 00000014
+
+[Swap Dash Cam to Hood Cam]
+Type = Gameshark
+Activation = EndFrame
+90110944 FFFFFDD8
+90110948 0000A2F5
+9011094C 00004900
+90110950 FFFFFDD8
+90110954 0000AAF5
+90110958 00004900
+9011095C 00000000
+90110960 0000BDF5
+90110964 00008900
+90110968 00000000
+9011096C 0000ACF5
+90110970 0000BF00
+90110974 00000000
+90110978 0000AFF5
+9011097C 00009800
+90110980 FFFFFF00
+90110984 0000B8F5
+90110988 00009D00
+9011098C 00000300
+90110990 0000B8F5
+90110994 00005D00
+90110998 00000000
+9011099C 0000BAF5
+901109A0 00005D00
+901109A4 00000000
+901109A8 0000BCF5
+901109AC 00008300
+901109B0 00000000
+901109B4 0000BEF5
+901109B8 00001B00
+901109BC 00000000
+901109C0 0000B6F5
+901109C4 00002000
+901109C8 00000000
+901109CC 0000B6F5
+901109D0 00002F00
+901109D4 00000000
+901109D8 0000A7F5
+901109DC 00009400
+901109E0 00000000
+901109E4 0000AFF5
+901109E8 0000AF00
+901109EC 00000000
+901109F0 0000A9F5
+901109F4 0000A600
+901109F8 00000000
+901109FC 0000FFF5
+90110A00 00006F00
+90110A04 00000000
+90110A08 0000B6F5
+90110A0C 00002F00
+90110A10 00000000
+90110A14 0000BDF5
+90110A18 00008900
+90110A1C 00000000
+90110A20 0000BEF5
+90110A24 00001B00
+90110A28 00000000
+90110A2C 0000BDF5
+90110A30 00009900
+90110A34 00000000
+90110A38 0000C8F5
+90110A3C FFFFF0FF
+90110A40 00000000
+90110A44 0000B6F5
+90110A48 00006000
+90110A4C 00000000
+90110A50 0000A8F5
+90110A54 0000F000
+90110A58 00000000
+90110A5C 0000BDF5
+90110A60 00008900
+90110A64 00000000
+90110A68 0000BCF5
+90110A6C 00008300
+90110A70 00000000
+90110A74 0000BEF5
+90110A78 00001B00
+90110A7C 00000000
+90110A80 0000B6F5
+90110A84 00002F00
+90110A88 00000000
+90110A8C 0000AFF5
+90110A90 0000AF00
+

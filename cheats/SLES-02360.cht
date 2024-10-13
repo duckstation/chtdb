@@ -1,0 +1,84 @@
+; CHTDB: ; [ NBA Live 2000 (Germany) {SLES-02360} ]
+
+[100 Punkte Heimmannschaft]
+Type = Gameshark
+Activation = EndFrame
+300AE118 0064
+
+[0 Punkte Heimmannschaft]
+Type = Gameshark
+Activation = EndFrame
+300AE118 0000
+
+[100 Punkte Gastmannschaft]
+Type = Gameshark
+Activation = EndFrame
+300AE768 0064
+
+[0 Punkte Gastmannschaft]
+Type = Gameshark
+Activation = EndFrame
+300AE768 0000
+
+[Heimmannschaft Unendlich Timeouts]
+Type = Gameshark
+Activation = EndFrame
+800AE120 0007
+
+[Heimmannschaft Keine Timeouts]
+Type = Gameshark
+Activation = EndFrame
+800AE120 0000
+
+[Gastmannschaft Unendlich Timeouts]
+Type = Gameshark
+Activation = EndFrame
+800AE770 0007
+
+[Gastmannschaft Keine Timeouts]
+Type = Gameshark
+Activation = EndFrame
+800AE770 0000
+
+[Max Stats L1+R1 drücken]
+Type = Gameshark
+Activation = EndFrame
+D00B8698 0C00
+801FFD84 6464
+D00B8698 0C00
+801FFD86 6464
+D00B8698 0C00
+801FFD88 6464
+D00B8698 0C00
+801FFD8A 6464
+D00B8698 0C00
+801FFD8C 6464
+D00B8698 0C00
+801FFD8E 6464
+D00B8698 0C00
+801FFD90 6464
+D00B8698 0C00
+801FFD92 6464
+D00B8698 0C00
+801FFD94 6464
+
+[TorzäHler Bleibt Erhalten Zu Jedem Neuen Spiel]
+Type = Gameshark
+Activation = EndFrame
+D00E2328 0088
+800E232A 3C00
+
+[Unendlich Zeit Zum Werfen]
+Type = Gameshark
+Activation = EndFrame
+800B5930 3C00
+800B9FF2 3C00
+800BA006 3C00
+8013874E 3C00
+
+[Habe Alle Legenden]
+Type = Gameshark
+Activation = EndFrame
+50000402 0000
+8008267C FFFF
+

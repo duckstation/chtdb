@@ -1,0 +1,23 @@
+; CHTDB: ; [ CART World Series (USA) (1997) (Sony Computer Entertainment America) {SCUS-94416} <cartwld> ]
+
+[Maximum Speed]
+Type = Gameshark
+Activation = EndFrame
+800BB094 03E0
+
+[Always Place First]
+Type = Gameshark
+Activation = EndFrame
+800BB134 0001
+
+[Always Start On Lap 4]
+Description = Turn the cheats off until the race then flip it on then back off, before the computer says GO!!!. This will put you four laps ahead and more then likely you should come in first
+Type = Gameshark
+Activation = EndFrame
+800B5F42 0003
+
+[Max Points]
+Type = Gameshark
+Activation = EndFrame
+800B918C 03E7
+

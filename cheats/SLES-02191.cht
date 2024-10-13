@@ -1,0 +1,13 @@
+; CHTDB: ; [ NASCAR 2000 (Europe) {SLES-02191} ]
+
+[Always First]
+Type = Gameshark
+Activation = EndFrame
+800F3046 000B
+
+[Montana Unlocked Press Start]
+Type = Gameshark
+Activation = EndFrame
+D00C1E46 FFF7
+8010E790 0000
+

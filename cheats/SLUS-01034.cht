@@ -1,0 +1,23 @@
+; CHTDB: ; [ Eternal Eyes (USA) (2000) (Crave Entertainment) {SLUS-01034} <eterneye> ]
+
+[Infinite Health Luke]
+Type = Gameshark
+Activation = EndFrame
+80090F4E 0400
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+800908F0 270F
+
+[Players Invincibility]
+Type = Gameshark
+Activation = EndFrame
+C00F91DC 0000
+900EC5D4 00000000
+900EBF88 00000000
+900EC5D4 A4550006
+00000000 FFFF
+D00F91DC 0001
+900EBF88 A48B0006
+

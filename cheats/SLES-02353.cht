@@ -1,0 +1,33 @@
+; CHTDB: ; [ MTV Sports: Snowboarding (Europe) {SLES-02353} ]
+
+[All qualified for challenge]
+Type = Gameshark
+Activation = EndFrame
+50000714 0000
+80082AE4 4E20
+
+[Max overall challenge points]
+Type = Gameshark
+Activation = EndFrame
+8007E3A0 FFFF
+
+[Start countdown with -10]
+Type = Gameshark
+Activation = EndFrame
+30011974 00F5
+
+[Start immediately]
+Type = Gameshark
+Activation = EndFrame
+800121AA 3C00
+
+[Alaska mountain unlocked]
+Type = Gameshark
+Activation = EndFrame
+8007E440 0001
+
+[Tsering unlocked]
+Type = Gameshark
+Activation = EndFrame
+8007E444 0000
+

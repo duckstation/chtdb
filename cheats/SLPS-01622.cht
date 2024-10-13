@@ -1,0 +1,23 @@
+; CHTDB: ; [ Street Boarders (Japan) {SLPS-01622} ]
+
+[Freeze Timer At 72.00]
+Type = Gameshark
+Activation = EndFrame
+8007153A FFFF
+
+[Timer 00.00 And More]
+Type = Gameshark
+Activation = EndFrame
+8007153A 10AE
+
+[Maximum Points Earned]
+Type = Gameshark
+Activation = EndFrame
+8007153C FFFF
+
+[Slow-Motion Mode Press L1 to activate it]
+Type = Gameshark
+Activation = EndFrame
+D00715E8 0004
+800B61B4 62FF
+

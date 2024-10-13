@@ -1,0 +1,17 @@
+; CHTDB: ; [ Formula Nippon (Europe) {SLES-02526} ]
+
+[Start On Lap 3]
+Type = Gameshark
+Activation = EndFrame
+A6106E14 00000003
+
+[Time 00.00.00]
+Type = Gameshark
+Activation = EndFrame
+800F60E8 0000
+
+[Enable All Scenario Mode]
+Type = Gameshark
+Activation = EndFrame
+A601F7B6 00000004
+

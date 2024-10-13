@@ -1,0 +1,82 @@
+; CHTDB: ; [ Galerians (Germany) {SLES-02330 | SLES-12330 | SLES-22330} ]
+
+[Unendlich Hp]
+Type = Gameshark
+Activation = EndFrame
+801C324C 00C8
+
+[Ap Immer 0]
+Type = Gameshark
+Activation = EndFrame
+801B2ACC 0000
+
+[Unendlich Nalcon Ppec-Anzeige]
+Type = Gameshark
+Activation = EndFrame
+801B2AD8 00C8
+
+[Unendlich Red Ppec-Anzeige]
+Type = Gameshark
+Activation = EndFrame
+801B2ADC 00C8
+
+[Unendlich D-Felon Ppec-Anzeige]
+Type = Gameshark
+Activation = EndFrame
+801B2AE0 00C8
+
+[Max Mentale Energiestufe]
+Type = Gameshark
+Activation = EndFrame
+801B2AF4 00C8
+
+[Habe D-Felon-Faehigkeit]
+Type = Gameshark
+Activation = EndFrame
+801B2B0E FFFF
+
+[Gesamtzeit Immer 0.00.00]
+Type = Gameshark
+Activation = EndFrame
+801B2F4C 0000
+
+[Unendlich Medizin\Platz 1 - Nalcon]
+Type = Gameshark
+Activation = EndFrame
+801B2C60 0000
+
+[Unendlich Medizin\Platz 2 - Red]
+Type = Gameshark
+Activation = EndFrame
+801B2C62 0001
+
+[Unendlich Medizin\Platz 3 - D-Felon]
+Type = Gameshark
+Activation = EndFrame
+801B2C64 0002
+
+[Unendlich Medizin\Platz 4 - Erholungskapsel]
+Type = Gameshark
+Activation = EndFrame
+801B2C66 0003
+
+[Unendlich Medizin\Platz 5 - Delmetor]
+Type = Gameshark
+Activation = EndFrame
+801B2C68 0004
+
+[Unendlich Medizin\Platz 6 - Appolinar]
+Type = Gameshark
+Activation = EndFrame
+801B2C6A 0005
+
+[Unendlich Medizin\Platz 7 - Skip]
+Type = Gameshark
+Activation = EndFrame
+801B2C6C 0006
+
+[Unlock FMVs]
+Type = Gameshark
+Activation = EndFrame
+901FD2B4 FFFFFFFF
+

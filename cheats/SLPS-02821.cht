@@ -1,0 +1,12 @@
+; CHTDB: ; [ Happy Salvage (Jpn) (2000) (MediaWorks) {SLPS-02821} <happyslv> ]
+
+[Infinity Air]
+Type = Gameshark
+Activation = EndFrame
+800F2D12 03E7
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+900DCDC8 0098967F
+

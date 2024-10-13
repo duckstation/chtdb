@@ -1,0 +1,22 @@
+; CHTDB: ; [ Disney's 101 Dalmatians II - Patch's London Adventure (USA) (2003) (Eidos Interactive) {SLUS-01574} <101dalm2> ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80092E4C 0064
+
+[Start With 100 Lives]
+Type = Gameshark
+Activation = EndFrame
+A6092E50 00030064
+
+[Have 99 bones]
+Type = Gameshark
+Activation = EndFrame
+80093318 0063
+
+[Have rescued 99 puppies (0-99)]
+Type = Gameshark
+Activation = EndFrame
+80093320 0063
+

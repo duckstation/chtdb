@@ -1,0 +1,81 @@
+; CHTDB: ; [ Mainichi Nekoyoubi (Japan) {SLPS-01249} ]
+
+[Gender Male 00]
+Type = Gameshark
+Activation = EndFrame
+300DC2A4 0000
+
+[Gender Female 01]
+Type = Gameshark
+Activation = EndFrame
+300DC2A4 0001
+
+[Cat Type 00-6F]
+Type = Gameshark
+Activation = EndFrame
+300DC2A5 006F
+
+[999kg weight]
+Type = Gameshark
+Activation = EndFrame
+800DC2A8 270F
+
+[99cm Height]
+Type = Gameshark
+Activation = EndFrame
+800DC2AA 270F
+
+[Max discipline]
+Type = Gameshark
+Activation = EndFrame
+800DC2B0 03E8
+
+[Max familiar]
+Type = Gameshark
+Activation = EndFrame
+800DC2B4 03E8
+
+[Max stomach]
+Type = Gameshark
+Activation = EndFrame
+800DC2B8 03E8
+
+[Max Genki]
+Type = Gameshark
+Activation = EndFrame
+800DC2BA 03E8
+
+[Stress 0]
+Type = Gameshark
+Activation = EndFrame
+800DC2BC 0000
+
+[Looks Max]
+Type = Gameshark
+Activation = EndFrame
+800DC2C0 03E8
+
+[Mon xx months 0-12]
+Type = Gameshark
+Activation = EndFrame
+300DC2AE 000C
+
+[Old 00-64]
+Type = Gameshark
+Activation = EndFrame
+300DC2AF 0003
+
+[End the day in L1R2]
+Type = Gameshark
+Activation = EndFrame
+D00B6B1C 000C
+800DA74C 3200
+D00B6B1C 000C
+800DA74E 0002
+
+[Instantaneous examination SELECT + START ( Supplemental examination moment, please press only when the red bar is displayed during the examination. Potential non-stop and push it )]
+Type = Gameshark
+Activation = EndFrame
+D00B6B1C 0900
+800F0988 0300
+

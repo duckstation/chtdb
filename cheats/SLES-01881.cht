@@ -1,0 +1,172 @@
+; CHTDB: ; [ Capcom Generations (Wings of Destiny) (Europe) {SLES-01881 | SLES-11881 | SLES-21881 | SLES-31881} ]
+
+[1942\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+30069EA1 0005
+
+[1943\P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8008D67E 0144
+
+[1943\P2 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8008D6FE 0144
+
+[1943\Infinite Time For Special Weapon]
+Type = Gameshark
+Activation = EndFrame
+8008D6CE EE00
+
+[1943 Kai\P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8008FAFE 0144
+
+[1943 Kai\P2 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8008FB7E 0144
+
+[1943 Kai\Infinite Time For Special Weapon]
+Type = Gameshark
+Activation = EndFrame
+8008FB4E EE00
+
+[Ghosts'n Goblins\Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+301D00AB 0055
+
+[Ghosts'n Goblins\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+301D0060 0005
+
+[Ghosts'n Goblins\Infinite Shields]
+Type = Gameshark
+Activation = EndFrame
+301D00AC 0000
+
+[Ghosts'n Goblins\Invincibility]
+Type = Gameshark
+Activation = EndFrame
+301D00AD 00FF
+
+[Ghouls'n Ghosts\Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+801C06D2 0222
+
+[Ghouls'n Ghosts\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+301A07AD 0005
+
+[Ghouls'n Ghosts\Invincibility]
+Type = Gameshark
+Activation = EndFrame
+301C0931 00FF
+
+[Ghouls'n Ghosts\Get All Special Weapons]
+Type = Gameshark
+Activation = EndFrame
+801C07AA 0201
+301C07AC 0003
+301C095E 0001
+
+[Super Ghouls'n Ghosts\Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+301902A7 0005
+301902A8 0001
+
+[Super Ghouls'n Ghosts\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+301902A4 0005
+
+[Super Ghouls'n Ghosts\Invincibility (.Press Select to be vulnerable for a short time)]
+Type = Gameshark
+Activation = EndFrame
+80190276 0002
+D010772C 0100
+80190276 0000
+
+[Vulgus\P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800AAD04 0005
+
+[Vulgus\P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800AACE4 0005
+
+[Vulgus\Infinite Missiles]
+Type = Gameshark
+Activation = EndFrame
+800AACEA 1505
+
+[Son Son\P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+3011AAE4 0005
+
+[Son Son\P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+3011AAE5 0005
+
+[Higemaru\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800A5768 0005
+
+[Exed Eyes\Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8010F010 AD00
+
+[Exed Eyes\Infinite Bombs]
+Type = Gameshark
+Activation = EndFrame
+A610E040 00020003
+
+[Commando\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800B8B78 0003
+
+[Commando\Infinite Grenades]
+Type = Gameshark
+Activation = EndFrame
+800B8B80 0006
+
+[Mercs\P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801EB427 0024
+
+[Mercs\P2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801E84DF 0024
+
+[Mercs\P1 Infinite Bombs]
+Type = Gameshark
+Activation = EndFrame
+801E842E 0003
+
+[Mercs\P2 Infinite Bombs]
+Type = Gameshark
+Activation = EndFrame
+801E84E6 0003
+
+[Gunsmoke\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800C5420 0003
+

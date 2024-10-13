@@ -1,0 +1,38 @@
+; CHTDB: ; [ Moto Racer (Euro) (1997) (Electronic Arts) {SLES-00469} <motorcre> ]
+
+[1-PLAYER-MODE Infinite checkpoint time On (Press Select & Up)]
+Type = Gameshark
+Activation = EndFrame
+D00BCE92 FFEE
+8003B09C 0023
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+8008F4D0 D852
+
+[Extra speed]
+Type = Gameshark
+Activation = EndFrame
+800A538E 42A0
+
+[Select course Fun Fair]
+Type = Gameshark
+Activation = EndFrame
+30110440 0006
+
+[Select course Sea of Sands]
+Type = Gameshark
+Activation = EndFrame
+30110440 0007
+
+[Select course Red City]
+Type = Gameshark
+Activation = EndFrame
+30110440 0008
+
+[Select course Snow Ride]
+Type = Gameshark
+Activation = EndFrame
+30110440 0009
+

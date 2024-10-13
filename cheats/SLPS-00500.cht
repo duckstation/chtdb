@@ -1,0 +1,81 @@
+; CHTDB: ; [ Megami Ibunroku Persona: Be Your True Mind (Japan) {SLPS-00500} ]
+
+[Infinite & Max HP Hero]
+Type = Gameshark
+Activation = EndFrame
+801F1BCC 03E7
+801F1BD0 03E7
+
+[Infinite & Max HP associates 1th]
+Type = Gameshark
+Activation = EndFrame
+801F1C2C 03E7
+801F1C30 03E7
+
+[Infinite & Max HP associates second]
+Type = Gameshark
+Activation = EndFrame
+801F1C8C 03E7
+801F1C90 03E7
+
+[Infinite & Max HP associates third]
+Type = Gameshark
+Activation = EndFrame
+801F1CEC 03E7
+801F1CF0 03E7
+
+[Infinite & Max HP associates fourth]
+Type = Gameshark
+Activation = EndFrame
+801F1D4C 03E7
+801F1D50 03E7
+
+[All filled ANALYS]
+Type = Gameshark
+Activation = EndFrame
+50000B02 0000
+801F2A48 FFFF
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+901F2674 3B9AC9FF
+
+[MAX Coin]
+Type = Gameshark
+Activation = EndFrame
+901F2678 3B9AC9FF
+
+[Level Up 4 Main Game Characters]
+Type = Gameshark
+Activation = EndFrame
+8005D6EC FFFF
+8005D7D8 FFFF
+8005D8C4 FFFF
+8005D9B0 FFFF
+
+[No random battles on the field]
+Type = Gameshark
+Activation = EndFrame
+800B9C4C 0000
+
+[No random battles in the dungeon]
+Type = Gameshark
+Activation = EndFrame
+801F15B0 FFFF
+
+[None Encounter]
+Type = Gameshark
+Activation = EndFrame
+90009010 FFFFFFFF
+
+[Devil May analyze fully open]
+Type = Gameshark
+Activation = EndFrame
+901F2A48 FFFFFFFF
+901F2A4C FFFFFFFF
+901F2A50 FFFFFFFF
+901F2A54 FFFFFFFF
+901F2A58 FFFFFFFF
+801F2A5C FFFF
+

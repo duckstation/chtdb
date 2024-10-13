@@ -1,0 +1,46 @@
+; CHTDB: ; [ Disney Tarzan (Italy) {SCES-01518} ]
+
+[Vite Infinite]
+Type = Gameshark
+Activation = EndFrame
+80094CD2 2400
+
+[Salute al massimo]
+Type = Gameshark
+Activation = EndFrame
+9008E86C 24050160
+
+[Salute Infinita]
+Type = Gameshark
+Activation = EndFrame
+9008F79C 24020160
+
+[Tutti i livelli 100% completi]
+Type = Gameshark
+Activation = EndFrame
+50000D02 0000
+3005B8A4 0064
+
+[Tutti i livelli e filmati]
+Type = Gameshark
+Activation = EndFrame
+50000D02 0000
+3005B8A3 00FF
+
+[The Trucchi menu (the one hidden in the main menu) and the "Menu Trucchi" (at the pause menu during levels) are always activated]
+Type = Gameshark
+Activation = EndFrame
+A708CEAE 10402400
+A708CEB6 14452400
+A708CD88 80008001
+
+[Tempo infinito nel bonus level]
+Type = Gameshark
+Activation = EndFrame
+800A4A2C 1910
+
+[Seleziona livello 00-?? enabled 09]
+Type = Gameshark
+Activation = EndFrame
+3005B89B 0009
+

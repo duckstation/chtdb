@@ -1,0 +1,22 @@
+; CHTDB: ; [ Tom and Jerry in House Trap (Europe) {SLES-03181} ]
+
+[Infinite Energy Jerry]
+Type = Gameshark
+Activation = EndFrame
+8006CCD4 03E8
+
+[Quick Kill-Tom]
+Type = Gameshark
+Activation = EndFrame
+8006D0FC 0000
+
+[Have All Levels]
+Type = Gameshark
+Activation = EndFrame
+800337E8 000E
+
+[Cheat Mode All levels will be unlocked, you can modify the player health (pause menu), and warp to any level (pause menu).]
+Type = Gameshark
+Activation = EndFrame
+300337D4 0001
+

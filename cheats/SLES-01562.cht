@@ -1,0 +1,72 @@
+; CHTDB: ; [ Hellnight (Europe) {SLES-01562} ]
+
+[OK Status]
+Type = Gameshark
+Activation = EndFrame
+800AD840 0000
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+800ADD54 0001
+
+[Select NPC\Naomi]
+Type = Gameshark
+Activation = EndFrame
+800ADD50 0001
+800ADD58 0000
+
+[Select NPC\Kamiya]
+Type = Gameshark
+Activation = EndFrame
+800ADD50 0002
+800ADD58 0000
+
+[Select NPC\Ivanoff]
+Type = Gameshark
+Activation = EndFrame
+800ADD50 0003
+800ADD58 0000
+
+[Select NPC\Rene]
+Type = Gameshark
+Activation = EndFrame
+800ADD50 0004
+800ADD58 0000
+
+[Select NPC\The Monster]
+Type = Gameshark
+Activation = EndFrame
+800ADD50 0005
+800ADD58 0000
+
+[Active game overlay map]
+Description = Press R3 to toggle on/off
+Type = Gameshark
+Activation = EndFrame
+D7010001 02000400
+F5025AB2 10402400
+
+[Hide Compass]
+Type = Gameshark
+Activation = EndFrame
+A702ADAA 00402400
+
+[Show full map]
+Type = Gameshark
+Activation = EndFrame
+A7025726 10602400
+
+[The monster can't hurt you]
+Type = Gameshark
+Activation = EndFrame
+A705625A 10401000
+A7055E6A 14401000
+
+[Walk through walls]
+Description = Press L3 to toggle on/off
+Type = Gameshark
+Activation = EndFrame
+D7010001 01000200
+F50598AE 14401000
+

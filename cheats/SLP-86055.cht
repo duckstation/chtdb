@@ -1,0 +1,17 @@
+; CHTDB: ; [ J.League Jikkyou Winning Eleven 3 (Japan) {SLP-86055} ]
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A70E6368 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A70E6368 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A70E6368 10000400
+

@@ -1,0 +1,112 @@
+; CHTDB: ; [ World Stadium 4 (Japan) {SLPS-02660} ]
+
+[Game bat first team 99 points]
+Type = Gameshark
+Activation = EndFrame
+80065C44 03E7
+
+[After the game Ghost in the team gets 99 points]
+Type = Gameshark
+Activation = EndFrame
+80065C6A 03E7
+
+[Out account 0 R1 button]
+Type = Gameshark
+Activation = EndFrame
+D0067284 0008
+80065CE8 0000
+
+[Out account 2 L1 button]
+Type = Gameshark
+Activation = EndFrame
+D0067284 0004
+80065CE8 0002
+
+[Ball account 3 press R2 button]
+Type = Gameshark
+Activation = EndFrame
+D0067284 0002
+80065CE4 0003
+
+[Strike two account press L2 button]
+Type = Gameshark
+Activation = EndFrame
+D0067284 0001
+80065CE0 0002
+
+[pitching basic training press L1 Button and get 1 point]
+Type = Gameshark
+Activation = EndFrame
+D0069034 0004
+8010AB0C 000F
+D0069034 0004
+8010AB12 000F
+D0069034 0004
+8010AB18 000F
+D0069034 0004
+8010AB1E 000F
+
+[slugging training press SELECT + L2 button and get 1 point]
+Type = Gameshark
+Activation = EndFrame
+D0069034 0101
+8014E014 03E7
+D0069034 0101
+8014E016 03E7
+D0069034 0101
+8014E018 03E7
+D0069034 0101
+8014E01E 0063
+
+[blow comprehensive training press SELECT + L1 buttons and get 1 Point]
+Type = Gameshark
+Activation = EndFrame
+D0069034 0104
+80065C20 0063
+D0069034 0104
+8014E004 0063
+
+[Defensive training press L1 + L2 buttons and get 1 point]
+Type = Gameshark
+Activation = EndFrame
+D0069034 0005
+8014E014 03E7
+D0069034 0005
+8014E016 03E7
+
+[Score 98 th in the pitching comprehensive training press L2 Button]
+Type = Gameshark
+Activation = EndFrame
+D0069034 0001
+8014E016 0063
+
+[blow basic training press R1 Button and get 1 point]
+Type = Gameshark
+Activation = EndFrame
+D0069034 0008
+8014E00C 6300
+
+[Batting training press R2 Button and get 1 point]
+Type = Gameshark
+Activation = EndFrame
+D0069034 0002
+8014E004 0063
+
+[Base running training time 0 Press R1+R2 Buttons]
+Type = Gameshark
+Activation = EndFrame
+D0069034 000A
+8010AB78 0000
+
+[Reflexes training press L1+R1 Butons and get 1 point]
+Type = Gameshark
+Activation = EndFrame
+D0069034 000C
+8014E008 0063
+
+[Learning courses training press L2+R2 Buttons and get 1 point]
+Type = Gameshark
+Activation = EndFrame
+D0069034 0003
+8014E020 000A
+

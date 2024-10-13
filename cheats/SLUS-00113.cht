@@ -1,0 +1,37 @@
+; CHTDB: ; [ Sim City 2000 (USA) (1996) (Maxis) {SLUS-00113} <simcit2k> ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+800EA8B0 FFFF
+
+[Max Population]
+Type = Gameshark
+Activation = EndFrame
+800E7000 FFFF
+
+[Always Good Education (Graphs Menu)]
+Type = Gameshark
+Activation = EndFrame
+8014588C 0084
+
+[Always Good Crime (Graphs Menu)]
+Type = Gameshark
+Activation = EndFrame
+8014554C 0000
+
+[Always Good Polution (Graphs Menu)]
+Type = Gameshark
+Activation = EndFrame
+801453AC 0000
+
+[Always Good Traffic/Unemployment (Graphs Menu)]
+Type = Gameshark
+Activation = EndFrame
+801452DC 0000
+
+[Always Good Health (Graphs Menu)]
+Type = Gameshark
+Activation = EndFrame
+801457BC 0000
+

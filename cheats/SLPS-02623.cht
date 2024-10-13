@@ -1,0 +1,12 @@
+; CHTDB: ; [ Gallop Racer 2000 (Jpn) (2000) (Tecmo) {SLPS-02623} <glprac2k> ]
+
+[99999 Jockey Points]
+Type = Gameshark
+Activation = EndFrame
+901FA288 0001869F
+
+[Infinite Stamina in first race]
+Type = Gameshark
+Activation = EndFrame
+800EA486 0019
+

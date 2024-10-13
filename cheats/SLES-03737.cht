@@ -1,0 +1,12 @@
+; CHTDB: ; [ Dragon Ball Z: Ultimate Battle 22 (Germany) {SLES-03737} ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800BB2F8 0190
+
+[Infinite Power]
+Type = Gameshark
+Activation = EndFrame
+800BB2FA 0200
+

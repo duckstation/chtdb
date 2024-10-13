@@ -1,0 +1,10 @@
+; CHTDB: ; [ Dancing Blade - Katteni Momotenshi II - Tears of Eden (Jpn) (1999) (Konami) {SLPM-86210~SLPM-86212 (VX129-J1)} <dancbld2> ]
+
+[Movie Mode Open]
+Type = Gameshark
+Activation = EndFrame
+9015D000 FFFFFFFF
+9015D004 FFFFFFFF
+9015D008 00FFFFFF
+8015D020 00FF
+

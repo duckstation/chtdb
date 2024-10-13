@@ -1,0 +1,126 @@
+; CHTDB: ; [ Ace Combat 2 (USA) (1997) (Namco Hometek) {SLUS-00404} <acecomb2> ]
+
+[Have A-4 Plane]
+Type = Gameshark
+Activation = EndFrame
+30010C44 0001
+
+[Have F-4 Plane]
+Type = Gameshark
+Activation = EndFrame
+30010C45 0001
+
+[Have Cf-C7 Plane]
+Type = Gameshark
+Activation = EndFrame
+30010C46 0001
+
+[Have A-6 Plane]
+Type = Gameshark
+Activation = EndFrame
+30010C47 0001
+
+[Have F-16 Plane]
+Type = Gameshark
+Activation = EndFrame
+30010C48 0001
+
+[Have X-29 Plane]
+Type = Gameshark
+Activation = EndFrame
+30010C49 0001
+
+[Have A-10 Plane]
+Type = Gameshark
+Activation = EndFrame
+30010C4A 0001
+
+[Have Mig-29 Plane]
+Type = Gameshark
+Activation = EndFrame
+30010C4B 0001
+
+[Have F-14 Plane]
+Type = Gameshark
+Activation = EndFrame
+30010C4C 0001
+
+[Have F-117A Plane]
+Type = Gameshark
+Activation = EndFrame
+30010C4D 0001
+
+[Have R-Mo1 Plane]
+Type = Gameshark
+Activation = EndFrame
+30010C4E 0001
+
+[Have Ef-2000 Plane]
+Type = Gameshark
+Activation = EndFrame
+30010C4F 0001
+
+[Have F/A-18E Plane]
+Type = Gameshark
+Activation = EndFrame
+30010C50 0001
+
+[Have Su-35 Plane]
+Type = Gameshark
+Activation = EndFrame
+30010C51 0001
+
+[Have Yf-23A Plane]
+Type = Gameshark
+Activation = EndFrame
+30010C52 0001
+
+[Have F-22 Plane]
+Type = Gameshark
+Activation = EndFrame
+30010C53 0001
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+90010C1C 00989676
+
+[Rapid Fire For Missiles]
+Type = Gameshark
+Activation = EndFrame
+9002C464 00000000
+90032BAC 00000000
+
+[Can't Die From Hitting The Ground]
+Type = Gameshark
+Activation = EndFrame
+9002F748 00000000
+
+[Infinite Missiles Alternate]
+Type = Gameshark
+Activation = EndFrame
+9002CAA8 00000000
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+9002C334 3241000F
+8002C33A 2400
+9002C33C 1020001A
+
+[Infinite Fuel]
+Type = Gameshark
+Activation = EndFrame
+9003936C 82AC2400
+
+[Infinite Missiles]
+Type = Gameshark
+Activation = EndFrame
+8018887C 0063
+
+[Extra Planes]
+Type = Gameshark
+Activation = EndFrame
+50000802 0000
+80010C44 0101
+

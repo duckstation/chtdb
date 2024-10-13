@@ -1,0 +1,22 @@
+; CHTDB: ; [ Tekken (USA) (1995) (Namco Hometek) {SLUS-00006} <tekken> ]
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801232DE 0080
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80125180 090E
+
+[P2 No Health]
+Type = Gameshark
+Activation = EndFrame
+80124312 0000
+
+[Select All Extra Players]
+Type = Gameshark
+Activation = EndFrame
+801273D0 FFFF
+

@@ -1,0 +1,44 @@
+; CHTDB: ; [ The F.A. Premier League Stars (Europe) {SLES-02142} ]
+
+[Select Home Team Score\9]
+Type = Gameshark
+Activation = EndFrame
+30030BD8 0009
+
+[Select Home Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+30030BD8 0000
+
+[Select Away Team Score\9]
+Type = Gameshark
+Activation = EndFrame
+30030BDC 0009
+
+[Select Away Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+30030BDC 0000
+
+[Home Teams Goalies Are Slow]
+Type = Gameshark
+Activation = EndFrame
+8011BD5A 0001
+
+[Away Team Goalies Are Slow]
+Type = Gameshark
+Activation = EndFrame
+8011D7A6 0001
+
+[Have 999 Stars In Season Play]
+Type = Gameshark
+Activation = EndFrame
+801B85E2 03E7
+
+[Floating Football, Harder To Save]
+Type = Gameshark
+Activation = EndFrame
+8004130C 0020
+8011A118 0020
+8019DADA 0020
+

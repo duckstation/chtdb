@@ -1,0 +1,27 @@
+; CHTDB: ; [ Disney's Treasure Planet (Europe) {SCES-03937} ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800C765E 0003
+
+[All Movies,Backgrounds & Characters (Needs a asave game to work)]
+Type = Gameshark
+Activation = EndFrame
+300C49C9 001D
+
+[6 Diary Pieces]
+Type = Gameshark
+Activation = EndFrame
+800C49CA 0006
+
+[99 Pirate Atoms]
+Type = Gameshark
+Activation = EndFrame
+800C49B8 00FF
+
+[Max Drubloons]
+Type = Gameshark
+Activation = EndFrame
+800C4970 07D0
+

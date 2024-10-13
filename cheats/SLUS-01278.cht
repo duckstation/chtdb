@@ -1,0 +1,186 @@
+; CHTDB: ; [ Walt Disney's The Jungle Book - Rhythm n' Groove (USA) (2000) (Ubi Soft Entertainment Software) {SLUS-01278} <junglerg> ]
+
+[Level 1 Infinite Tries]
+Type = Gameshark
+Activation = EndFrame
+E008E534 0002
+3008E534 0003
+
+[Level 1 Max Combo]
+Type = Gameshark
+Activation = EndFrame
+A608E520 00007FFF
+
+[Level 1 Quick Max Score]
+Type = Gameshark
+Activation = EndFrame
+A608E4D8 0000FFFF
+
+[Level 2 Infinite Tries]
+Type = Gameshark
+Activation = EndFrame
+E008EEB8 0002
+3008EEB8 0003
+
+[Level 2 Max Combo]
+Type = Gameshark
+Activation = EndFrame
+A608EEA4 00007FFF
+
+[Level 2 Quick Max Score]
+Type = Gameshark
+Activation = EndFrame
+A608EE5C 0000FFFF
+
+[Level 3 Infinite Tries]
+Type = Gameshark
+Activation = EndFrame
+E008DAC8 0002
+3008DAC8 0003
+
+[Level 3 Max Combo]
+Type = Gameshark
+Activation = EndFrame
+A608DAB4 00007FFF
+
+[Level 3 Quick Max Score]
+Type = Gameshark
+Activation = EndFrame
+A608DA6C 0000FFFF
+
+[Level 4 Infinite Tries]
+Type = Gameshark
+Activation = EndFrame
+E008E658 0002
+3008E658 0003
+
+[Level 4 Max Combo]
+Type = Gameshark
+Activation = EndFrame
+A608E644 00007FFF
+
+[Level 4 Quick Max Score]
+Type = Gameshark
+Activation = EndFrame
+A608E5FC 0000FFFF
+
+[Level 5 Infinite Tries]
+Type = Gameshark
+Activation = EndFrame
+E008E118 0002
+3008E118 0003
+
+[Level 5 Max Combo]
+Type = Gameshark
+Activation = EndFrame
+A608E104 00007FFF
+
+[Level 5 Quick Max Score]
+Type = Gameshark
+Activation = EndFrame
+A608E0BC 0000FFFF
+
+[Level 6 Infinite Tries]
+Type = Gameshark
+Activation = EndFrame
+E008DE7C 0002
+3008DE7C 0003
+
+[Level 6 Max Combo]
+Type = Gameshark
+Activation = EndFrame
+A608DE68 00007FFF
+
+[Level 6 Quick Max Score]
+Type = Gameshark
+Activation = EndFrame
+A608DE20 0000FFFF
+
+[Level 7 Infinite Tries]
+Type = Gameshark
+Activation = EndFrame
+E008D910 0002
+3008D910 0003
+
+[Level 7 Max Combo]
+Type = Gameshark
+Activation = EndFrame
+A608D8FC 00007FFF
+
+[Level 7 Quick Max Score]
+Type = Gameshark
+Activation = EndFrame
+A608D8B4 0000FFFF
+
+[Level 8 Infinite Tries]
+Type = Gameshark
+Activation = EndFrame
+E008EAFC 0002
+3008EAFC 0003
+
+[Level 8 Max Combo]
+Type = Gameshark
+Activation = EndFrame
+A608EAE8 00007FFF
+
+[Level 8 Quick Max Score]
+Type = Gameshark
+Activation = EndFrame
+A608EAA0 0000FFFF
+
+[Level 9 Infinite Tries]
+Type = Gameshark
+Activation = EndFrame
+E0090FD0 0002
+30090FD0 0003
+
+[Max Combo]
+Type = Gameshark
+Activation = EndFrame
+A6090FBC 00007FFF
+
+[Quick Max Score]
+Type = Gameshark
+Activation = EndFrame
+A6090F74 0000FFFF
+
+[Lou Bega Challenge Infinite Tries]
+Type = Gameshark
+Activation = EndFrame
+E008B518 0002
+3008B518 0003
+
+[Lou Bega Challenge Max Combo]
+Type = Gameshark
+Activation = EndFrame
+A608B504 00007FFF
+
+[Lou Bega Challenge Quick Max Score]
+Type = Gameshark
+Activation = EndFrame
+A608B4BC 0000FFFF
+
+[Lou Bega Challenge Unlock Crazy Difficulty]
+Type = Gameshark
+Activation = EndFrame
+80057D0E FFFF
+
+[Lou Bega Challenge Unlock Dancing Stage]
+Type = Gameshark
+Activation = EndFrame
+50000504 0000
+80056780 0000
+50000504 0000
+800567AC 0000
+
+[Lou Bega Challenge Unlock Jungle Theater]
+Type = Gameshark
+Activation = EndFrame
+80056768 000A
+8005676C 0902
+
+[Lou Bega Challenge Unlock Lou Bega Video]
+Type = Gameshark
+Activation = EndFrame
+80057CE0 8000
+

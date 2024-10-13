@@ -1,0 +1,32 @@
+; CHTDB: ; [ G. Darius (USA) (1998) (THQ) {SLUS-00690} <gdarius> ]
+
+[Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+800ABD80 0003
+
+[P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800BA69E 0003
+
+[P1 Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800BA6A2 00E2
+
+[P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800BADAA 0003
+
+[P2 Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800BADAE 00E2
+
+[Have All Movies (Movie Option)]
+Type = Gameshark
+Activation = EndFrame
+800D5D18 001F
+

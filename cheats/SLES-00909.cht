@@ -1,0 +1,27 @@
+; CHTDB: ; [ Auto Destruct (Europe) {SLES-00909} ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+800A7CB4 270F
+
+[Infinite Machine gun ammo]
+Type = Gameshark
+Activation = EndFrame
+800A5F90 0064
+
+[Infinite Rockets]
+Type = Gameshark
+Activation = EndFrame
+800A5F7E 0064
+
+[Infinite Fuel]
+Type = Gameshark
+Activation = EndFrame
+800A7E58 0064
+
+[Inifinite Damage]
+Type = Gameshark
+Activation = EndFrame
+800A86E8 0800
+

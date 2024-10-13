@@ -1,0 +1,9 @@
+; CHTDB: ; [ MTB Dirt Cross (Japan) {SLPS-01467} ]
+
+[Always 7 Points]
+Type = Gameshark
+Activation = EndFrame
+800333F8 0007
+8003EAEC 0007
+80091DF8 0007
+

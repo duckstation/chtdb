@@ -1,0 +1,23 @@
+; CHTDB: ; [ Carnage Heart (USA) (1997) (Sony Computer Entertainment America) {SCUS-94604 / SCUS-94964} <carnhrt> ]
+
+[Infinite Funds]
+Type = Gameshark
+Activation = EndFrame
+800DF38C 86A0
+
+[Always On Turn 1]
+Type = Gameshark
+Activation = EndFrame
+800DF37C 0001
+800DF380 0001
+
+[Unit 1 Ammo Modifier]
+Type = Gameshark
+Activation = EndFrame
+80134B7E 0063
+
+[Unit 1 Fuel Modifier]
+Type = Gameshark
+Activation = EndFrame
+80134B80 009B
+

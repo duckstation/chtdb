@@ -1,0 +1,108 @@
+; CHTDB: ; [ Namco Museum Vol. 3 (Japan) {SLPS-00390} ]
+
+[Dig Dug\P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801309D0 0004
+
+[Dig Dug\P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80130A34 0004
+
+[Dig Dug\Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+8012D600 0009
+
+[Galaxian\Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+8010E86C 0009
+
+[Galaxian\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8010E864 0005
+
+[Ms. Pac-Man\P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80141A18 0004
+
+[Ms. Pac-Man\P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80141A1C 0004
+
+[Ms. Pac-Man\Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+801418EC 0009
+
+[Ms. Pac-Man\Eat All Ghosts All The Time]
+Type = Gameshark
+Activation = EndFrame
+90193FD4 00000000
+
+[Phozon\P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+30167480 0005
+
+[Phozon\P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+30167481 0005
+
+[Phozon\Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+80167218 0009
+
+[Pole Position 2\Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80134646 7000
+
+[Pole Position 2\Lap Time Always Below 0.01]
+Type = Gameshark
+Activation = EndFrame
+90134658 00000000
+90134654 00000000
+
+[Pole Position 2\Max Speed]
+Type = Gameshark
+Activation = EndFrame
+30131FB5 00FF
+
+[Pole Position 2\Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+80131FEE 0900
+
+[Tower of Druaga\Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+8015E4D4 0009
+
+[Tower of Druaga\Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+8015E4B8 4E20
+
+[Tower of Druaga\Infinite Keys]
+Type = Gameshark
+Activation = EndFrame
+8015E584 0001
+
+[Tower of Druaga\P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8016569E 0004
+
+[Tower of Druaga\P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801656EA 0004
+

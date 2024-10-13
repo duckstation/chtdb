@@ -1,0 +1,22 @@
+; CHTDB: ; [ Gundam: The Battle Master (Japan) {SLPS-00883} ]
+
+[P1 Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+80153950 0003
+
+[P2 Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+80195710 0003
+
+[P1 Infinite Temperature]
+Type = Gameshark
+Activation = EndFrame
+80153948 0000
+
+[P2 Infinite Temperature]
+Type = Gameshark
+Activation = EndFrame
+80195708 0000
+

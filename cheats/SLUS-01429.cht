@@ -1,0 +1,94 @@
+; CHTDB: ; [ Delta Force Urban Warfare (USA) (2002) (NovaLogic) {SLUS-01429} <dforceuw> ]
+
+;#Infinite Health
+;80049206 2400
+[Infinite Explosives]
+Type = Gameshark
+Activation = EndFrame
+80082F86 2400
+
+[Extra Explosives]
+Type = Gameshark
+Activation = EndFrame
+80082F7C 0001
+
+[Infinite Ammo-Machine Guns]
+Type = Gameshark
+Activation = EndFrame
+80068FAE 2400
+
+[Extra Ammo-Machine Guns]
+Type = Gameshark
+Activation = EndFrame
+80068FA4 0001
+
+[Infinite Ammo-Pistols]
+Type = Gameshark
+Activation = EndFrame
+8006A1DA 2400
+
+[Extra Ammo-Pistols]
+Type = Gameshark
+Activation = EndFrame
+8006A1D0 0001
+
+[Enable Cheat Menu]
+Description = Press and hold the select button after selecting your language option
+Type = Gameshark
+Activation = EndFrame
+D00D1742 FFFE
+800DDDE0 0001
+;#Almost Invisible to Enemies
+;A7077756 10621000
+;A706F296 10601000
+;A7062C4E 10401000
+;A70E0E32 14401000
+;A70E0F62 14401000
+;A70797B2 14441000
+;A706F062 10401000
+;A7078FBA 12201000
+;A706E8E2 10621400
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+A70C2048 00000001
+
+[Invisible]
+Type = Gameshark
+Activation = EndFrame
+A70C6C08 00000001
+
+[Silence the Alarms]
+Type = Gameshark
+Activation = EndFrame
+A70C6C0C 00000001
+
+[Select Head Size\Normal]
+Type = Gameshark
+Activation = EndFrame
+300C6194 0000
+
+[Select Head Size\Large]
+Type = Gameshark
+Activation = EndFrame
+300C6194 0001
+
+[Select Head Size\Small]
+Type = Gameshark
+Activation = EndFrame
+300C6194 0002
+
+[One Hit Kills]
+Type = Gameshark
+Activation = EndFrame
+A706F982 14401400
+
+[Toggle Open/Close Openable Doors (L2+R2)]
+Description = Warning some doors are never meant to be opened so they have no rooms (or floors) behind them, some open doors can also block your way
+Type = Gameshark
+Activation = EndFrame
+D7010001 00000003
+F5041E4E 10601400
+F5041F36 10401400
+

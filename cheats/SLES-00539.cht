@@ -1,0 +1,7 @@
+; CHTDB: ; [ Robotron X (Europe) {SLES-00539} ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8002658E 3C00
+

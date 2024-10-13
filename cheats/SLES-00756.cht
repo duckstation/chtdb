@@ -1,0 +1,24 @@
+; CHTDB: ; [ Ninja: Shadow of Darkness (Europe) {SLES-00756} ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8006D16E 0050
+8006D1AE 0050
+
+[Infinite Special]
+Type = Gameshark
+Activation = EndFrame
+8006D1B0 0009
+8006DB5D 0009
+
+[Infinite Smoke Bombs]
+Type = Gameshark
+Activation = EndFrame
+8006D18C 0009
+
+[Level Select]
+Type = Gameshark
+Activation = EndFrame
+8006BBAE 0001
+

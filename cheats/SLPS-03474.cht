@@ -1,0 +1,23 @@
+; CHTDB: ; [ Simple Characters 2000 Series vol.15 - Cyborg 009 - The Block Kuzushi (Jpn) (2002) (Bandai / D3) {SLPS-03474} <scs15bkz> ]
+
+[Gallery 001 All Open]
+Type = Gameshark
+Activation = EndFrame
+900AFD4C 0FFFFFFF
+800AFD50 01FF
+
+[Infinite Lives (balls) Deactivate after use]
+Type = Gameshark
+Activation = EndFrame
+800AFD36 2328
+
+[Always 100% Power Deactivate after use]
+Type = Gameshark
+Activation = EndFrame
+800AFD1C 0064
+
+[Speed Games]
+Type = Gameshark
+Activation = EndFrame
+80037BC6 1400
+

@@ -1,0 +1,22 @@
+; CHTDB: ; [ Sheep (Europe) {SLES-02218} ]
+
+[Timer stopped]
+Type = Gameshark
+Activation = EndFrame
+800B847C 3A98
+
+[Always 20 sheeps alive]
+Type = Gameshark
+Activation = EndFrame
+800B8480 0014
+
+[Have always 20 sheeps saved]
+Type = Gameshark
+Activation = EndFrame
+800B8484 0014
+
+[Have 9999 extra points]
+Type = Gameshark
+Activation = EndFrame
+800B8488 270F
+

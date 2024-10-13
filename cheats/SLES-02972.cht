@@ -1,0 +1,50 @@
+; CHTDB: ; [ Woody Woodpecker Racing (Europe) {SLES-02972} ]
+
+[P1 Always 1st In Circuit 1]
+Type = Gameshark
+Activation = EndFrame
+8017A754 0000
+
+[P1 Always 1st In Circuit 2]
+Type = Gameshark
+Activation = EndFrame
+80155DDC 0000
+
+[P1 Always 1st In Circuit 3]
+Type = Gameshark
+Activation = EndFrame
+8017F01C 0000
+
+[Only one lap to race]
+Type = Gameshark
+Activation = EndFrame
+30026640 0003
+
+[Only one lap to race Alt]
+Type = Gameshark
+Activation = EndFrame
+D0026640 0001
+30026640 0003
+
+[Hot dogs don't decrease]
+Type = Gameshark
+Activation = EndFrame
+3004A7F8 0000
+
+[Hot dogs don't decrease Alt]
+Type = Gameshark
+Activation = EndFrame
+D004A7FA A0A2
+3004A7F8 0000
+
+[Championship points Max]
+Type = Gameshark
+Activation = EndFrame
+90084BE0 00000064
+80084BE4 0000
+
+[Everythings unlocked]
+Type = Gameshark
+Activation = EndFrame
+80084BF2 FFFF
+

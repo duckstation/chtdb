@@ -1,0 +1,46 @@
+; CHTDB: ; [ Nickelodeon Rugrats: Studio Tour aka Rugrats: Studio Tour (Italy) {SLES-02912} ]
+
+[One coin == finish the round]
+Type = Gameshark
+Activation = EndFrame
+300C9B12 0001
+
+[One gold nugget == finish the round]
+Type = Gameshark
+Activation = EndFrame
+300E7DBB 0001
+
+[One target == finish the round]
+Type = Gameshark
+Activation = EndFrame
+300C8694 0001
+
+[Have 255 keys]
+Type = Gameshark
+Activation = EndFrame
+300C9B08 00FF
+
+[Have 255 rockets]
+Type = Gameshark
+Activation = EndFrame
+300E7DC3 00FF
+
+[Have 4 blue\green keys]
+Type = Gameshark
+Activation = EndFrame
+300E7DBE 0004
+
+[NoTimer]
+Type = Gameshark
+Activation = EndFrame
+800904DC 1000
+
+[Opponents don't move]
+Type = Gameshark
+Activation = EndFrame
+300E83D9 0006
+300E87B1 0006
+300E8B89 0006
+300E8F61 0006
+300E9339 0006
+

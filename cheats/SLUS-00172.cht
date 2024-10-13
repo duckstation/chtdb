@@ -1,0 +1,37 @@
+; CHTDB: ; [ In the Hunt (USA) (1996) (Kokopeli Digital Studios) {SLUS-00172} <inthunt> ]
+
+[P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800DCD48 0005
+
+[P1 Infinite Continues]
+Type = Gameshark
+Activation = EndFrame
+8007DA68 0005
+
+[P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800DCD4A 0005
+
+[P2 Infinite Continues]
+Type = Gameshark
+Activation = EndFrame
+8007DA6A 0005
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+8007D96E 0086
+
+[P1 Invincibility]
+Type = Gameshark
+Activation = EndFrame
+8009714A 0101
+
+[P2 Invincibility]
+Type = Gameshark
+Activation = EndFrame
+80097006 0201
+

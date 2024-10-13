@@ -1,0 +1,111 @@
+; CHTDB: ; [ Destrega (Germany) {SCES-01770} ]
+
+[P1 Unendlich Energie]
+Type = Gameshark
+Activation = EndFrame
+800C8D34 00C8
+
+[P1 75% Energie]
+Type = Gameshark
+Activation = EndFrame
+A60C8D34 00C80096
+
+[P1 50% Energie]
+Type = Gameshark
+Activation = EndFrame
+A60C8D34 00C80064
+
+[P1 25% Energie]
+Type = Gameshark
+Activation = EndFrame
+A60C8D34 00C80032
+
+[P1 1-Hit Death]
+Type = Gameshark
+Activation = EndFrame
+A60C8F0C 00C80002
+
+[P1 Keine Energie]
+Type = Gameshark
+Activation = EndFrame
+800C8F0C 0000
+
+[P2 Unendlich Energie]
+Type = Gameshark
+Activation = EndFrame
+800C8F0C 00C8
+
+[P2 75% Energie]
+Type = Gameshark
+Activation = EndFrame
+A60C8F0C 00C80096
+
+[P2 50% Energie]
+Type = Gameshark
+Activation = EndFrame
+A60C8F0C 00C80064
+
+[P2 25% Energie]
+Type = Gameshark
+Activation = EndFrame
+A60C8F0C 00C80032
+
+[P1+P2 Unendlich Energie]
+Type = Gameshark
+Activation = EndFrame
+8003D346 3C00
+
+[P1 Unendlich Magie]
+Type = Gameshark
+Activation = EndFrame
+800C8D36 0708
+
+[P2 Unendlich Magie]
+Type = Gameshark
+Activation = EndFrame
+800C8D36 0000
+
+[P1 Keine Magie]
+Type = Gameshark
+Activation = EndFrame
+800C8F0E 0708
+
+[P2 Keine Magie]
+Type = Gameshark
+Activation = EndFrame
+800C8F0E 0000
+
+[Magie FüLlt Sich Nicht Mehr Auf]
+Type = Gameshark
+Activation = EndFrame
+80030C32 3C00
+
+[P1 Hat 1 Gewinn Vorteil]
+Type = Gameshark
+Activation = EndFrame
+E00E2AF0 0000
+300E2AF0 0001
+
+[P1 Starte In Letzter Runde]
+Type = Gameshark
+Activation = EndFrame
+A61FEFBC 00000008
+
+[Zeit VerläNgert .L2 drð£«¥n]
+Type = Gameshark
+Activation = EndFrame
+D008F594 0001
+800E2B04 0000
+
+[Zeit VerküRzt .R2 drð£«¥n]
+Type = Gameshark
+Activation = EndFrame
+D008F594 0002
+800E2B04 1304
+
+[Alle Charactere AnwäHlbar .Wenn man bei der Figurenauswahl mit L/R eine auswå©¬t und dann Start oder R2 drð£«´, bekommt man einen Kå®°fer aus Dynasty Warriors.]
+Type = Gameshark
+Activation = EndFrame
+50000C04 0000
+300E2854 0001
+

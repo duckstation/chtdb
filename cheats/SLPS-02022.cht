@@ -1,0 +1,35 @@
+; CHTDB: ; [ Toushinden Subaru (Japan) {SLPS-02022} ]
+
+[All Mini Games]
+Type = Gameshark
+Activation = EndFrame
+801F1C88 007F
+
+[Have All Characters]
+Type = Gameshark
+Activation = EndFrame
+901F1C78 040400FF
+901F1C7C 04040404
+901F1C80 04040404
+901F1C84 04040404
+
+[P1 Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+801DEDEE 0000
+
+[P1 Infinite SP]
+Type = Gameshark
+Activation = EndFrame
+801DEDD0 012C
+
+[P2 Zero Hp (Computer)]
+Type = Gameshark
+Activation = EndFrame
+801DEFAE 27B4
+
+[P2 Zero Sp (Computer)]
+Type = Gameshark
+Activation = EndFrame
+801DEF90 0000
+

@@ -1,0 +1,55 @@
+; CHTDB: ; [ Two-Tenkaku (Jpn) (1995) (Sony Music Entertainment) {SLPS-00131} <twotenka> ]
+
+[P1 Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+800E6C78 0004
+
+[P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801BDE8C 0500
+
+[P1 Power UP]
+Type = Gameshark
+Activation = EndFrame
+801BDE8A 0203
+
+[P1 Invincibility]
+Type = Gameshark
+Activation = EndFrame
+801BDE80 00FF
+
+[P1 Infinite Blue Smartbombs]
+Type = Gameshark
+Activation = EndFrame
+801BDEFA 0101
+901BDEFC 01010101
+
+[P1 Infinite Red Smartbombs]
+Type = Gameshark
+Activation = EndFrame
+801BDE92 0202
+901BDE94 02020202
+
+[P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801BDEF4 0500
+
+[P2 Power UP]
+Type = Gameshark
+Activation = EndFrame
+801BDEF2 0203
+
+[P2 Invincibility]
+Type = Gameshark
+Activation = EndFrame
+801BDEE8 00FF
+
+[P2 Infinite Red Smartbombs]
+Type = Gameshark
+Activation = EndFrame
+801BDEFA 0202
+901BDEFC 02020202
+

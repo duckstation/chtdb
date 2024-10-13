@@ -1,0 +1,42 @@
+; CHTDB: ; [ Namco Museum Vol. 1 (Japan) {SLPS-00107} ]
+
+[Bosconian Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8015728C 0003
+
+[Galaga Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801A3E1C 0103
+
+[New Rally X Infinite Fuels]
+Type = Gameshark
+Activation = EndFrame
+800E4FC8 3BB0
+
+[New Rally X Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800E4900 0003
+
+[Pacman Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801178E0 0003
+
+[Pole Position Stop Timer]
+Type = Gameshark
+Activation = EndFrame
+80131946 4600
+
+[Toy Pop Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800FD270 0003
+
+[Toy Pop Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800C5CD8 000A
+

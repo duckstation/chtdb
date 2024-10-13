@@ -1,0 +1,22 @@
+; CHTDB: ; [ Shisenfuu Gekikara Mahjong (Japan) {SLPS-01648} ]
+
+[Player has 99990 points]
+Type = Gameshark
+Activation = EndFrame
+801E0D78 270F
+
+[Opponent 1 has 0 points]
+Type = Gameshark
+Activation = EndFrame
+801E14EC 0000
+
+[Opponent 2 has 0 points]
+Type = Gameshark
+Activation = EndFrame
+801E1270 0000
+
+[Opponent 3 has 0 points]
+Type = Gameshark
+Activation = EndFrame
+801E0FF4 0000
+

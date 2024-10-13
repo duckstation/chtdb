@@ -1,0 +1,20 @@
+; CHTDB: ; [ Devicereign (Jpn) (1999) (MediaWorks) {SLPS-01889} <devicere> ]
+
+[Infinite + Max HP Character 1]
+Type = Gameshark
+Activation = EndFrame
+800BECAE 03E7
+800BECB2 03E7
+
+[Infinite + Max HP Character 2]
+Type = Gameshark
+Activation = EndFrame
+800BEED6 03E7
+800BEEDA 03E7
+
+[Infinite + Max HP Character 3]
+Type = Gameshark
+Activation = EndFrame
+800BF0FE 03E7
+800BF102 03E7
+

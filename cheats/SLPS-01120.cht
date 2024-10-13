@@ -1,0 +1,32 @@
+; CHTDB: ; [ A5: A Ressha de Ikou 5 (Japan) {SLPS-01120} ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+9008DD20 4E729FFF
+8008DD24 0918
+
+[Total population MAX]
+Type = Gameshark
+Activation = EndFrame
+90082808 A4C67FFF
+9008280C 00038D7E
+
+[Own shares MAX]
+Type = Gameshark
+Activation = EndFrame
+50001002 0000
+80095FF0 2710
+
+[Stock prices MAX]
+Type = Gameshark
+Activation = EndFrame
+5000101E 0000
+80083DB0 7530
+
+[Unlock hidden Map Press SELECT button]
+Type = Gameshark
+Activation = EndFrame
+D0087470 0100
+8006AA80 0001
+

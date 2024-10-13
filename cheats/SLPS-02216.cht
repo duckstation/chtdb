@@ -1,0 +1,45 @@
+; CHTDB: ; [ Syphon Filter (Japan) {SLPS-02216} ]
+
+[All 20 mission will be available for selection]
+Type = Gameshark
+Activation = EndFrame
+80146966 0B14
+
+[Stage 1 Infinite Life]
+Type = Gameshark
+Activation = EndFrame
+801A8BEA 0258
+801A8BB0 0096
+
+[Stage SILO Infinite life]
+Type = Gameshark
+Activation = EndFrame
+801AD51E 0258
+801AD520 0096
+
+[All Weapons Available]
+Type = Gameshark
+Activation = EndFrame
+90115FBC 7FFF7FFF
+
+[All Weapons Infinite Bullet]
+Type = Gameshark
+Activation = EndFrame
+8012F0B6 0063
+8012F0BA 0063
+8012F0BE 0063
+8012F0C2 0063
+8012F0C6 0063
+8012F0CA 0063
+8012F0CE 0063
+8012F0D2 0063
+8012F0D6 0063
+8012F0DA 0063
+8012F0DE 0063
+8012F0E2 0063
+8012F0E6 0063
+8012F0EA 0063
+8012F0EE 0063
+8012F0F2 0063
+8012F0F6 0063
+

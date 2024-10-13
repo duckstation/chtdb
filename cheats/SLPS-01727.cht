@@ -1,0 +1,102 @@
+; CHTDB: ; [ Super Robot Taisen F (Japan) {SLPS-01727} ]
+
+[Infinite HP Main character]
+Type = Gameshark
+Activation = EndFrame
+8019AC78 0C80
+
+[Infinite HP 2nd character (Gundam CCA - Amuro Rai)]
+Type = Gameshark
+Activation = EndFrame
+8019AB6A 0D48
+
+[Infinite HP 3rd character (Gundam NT-1)]
+Type = Gameshark
+Activation = EndFrame
+8019AC3C 0C1C
+
+[Infinite HP 4th character (Gundam MK II)]
+Type = Gameshark
+Activation = EndFrame
+8019ABA6 0CE4
+
+[Infinite HP 5th character]
+Type = Gameshark
+Activation = EndFrame
+80199C00 0C80
+
+[Infinite HP 6th character (Gundam 01FB)]
+Type = Gameshark
+Activation = EndFrame
+8019ABE2 0C80
+
+[Quick Level Up]
+Type = Gameshark
+Activation = EndFrame
+8019A558 0000
+8019A564 0000
+8019A570 0000
+8019A57C 0000
+8019A588 0000
+8019A594 0000
+8019A5A0 0000
+8019A5AC 0000
+8019A5B8 0000
+8019A5C4 0000
+8019A5D0 0000
+8019A5DC 0000
+8019A5E8 0000
+8019A5F4 0000
+8019A600 0000
+8019A60C 0000
+8019A618 0000
+8019A624 0000
+8019A630 0000
+8019A63C 0000
+8019A648 0000
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+8019BA6A 967F
+8019BA6C 0098
+
+[Level 99 enters experience value]
+Type = Gameshark
+Activation = EndFrame
+8007BFEC 0063
+8007C038 0063
+8007BFE0 0001
+8007C028 0001
+8007C08A 1000
+
+[HP does not decrease]
+Type = Gameshark
+Activation = EndFrame
+90095A80 08002800
+90095A84 00000000
+9000A000 90460002
+9000A004 24070001
+9000A008 10C70003
+9000A010 A4430016
+9000A014 3C028014
+9000A018 080256A2
+
+[100% character dictionary]
+Type = Gameshark
+Activation = EndFrame
+50001702 0000
+80147678 FFFF
+
+[100% robot Encyclopedia]
+Type = Gameshark
+Activation = EndFrame
+50001502 0000
+801476B8 FFFF
+
+[Demo select fully open]
+Type = Gameshark
+Activation = EndFrame
+801476F2 8000
+901476F4 7072EC33
+

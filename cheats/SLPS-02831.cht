@@ -1,0 +1,53 @@
+; CHTDB: ; [ Kenki Ippatsu! Crane Master ni Narou! (Jpn) (2000) (FAB Communication) {SLPS-02831} <kenkiipp> ]
+
+[0 Penalty Points On Tests]
+Type = Gameshark
+Activation = EndFrame
+800F5000 0000
+801A49C8 0000
+801A49B0 0000
+801A49B8 0000
+801A49C0 0000
+801A49D0 0000
+800EDFA8 0000
+
+[0 Penalty Points Crane Test]
+Type = Gameshark
+Activation = EndFrame
+801A49B0 0000
+
+[100 Points In Test 1]
+Type = Gameshark
+Activation = EndFrame
+801A4A38 0064
+
+[100 Points In Test 2]
+Type = Gameshark
+Activation = EndFrame
+801A4A3C 0064
+
+[100 Points In Test 3]
+Type = Gameshark
+Activation = EndFrame
+801A4A40 0064
+
+[100 Points In Test 4]
+Type = Gameshark
+Activation = EndFrame
+801A4A44 0064
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+801A0BD5 9C40
+
+[Infinite Time alt]
+Type = Gameshark
+Activation = EndFrame
+800EC9D0 0000
+
+[No Penalty Pts (Driving Tests) alt]
+Type = Gameshark
+Activation = EndFrame
+801A4AB4 0000
+

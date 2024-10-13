@@ -1,0 +1,15 @@
+; CHTDB: ; [ Harukanaru Toki no Naka de - Banjou Yuugi (Jpn, Premium Box) (2003) (Koei) {SLPM-87241} <harukaby> ]
+
+[P1 Has 999 points with all characters]
+Type = Gameshark
+Activation = EndFrame
+900A6978 03E703E7
+900A697C 03E703E7
+900A6980 03E703E7
+900A6984 03E703E7
+
+[P1 has 9999 star energy]
+Type = Gameshark
+Activation = EndFrame
+800A6988 270F
+

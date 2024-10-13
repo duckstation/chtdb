@@ -1,0 +1,145 @@
+; CHTDB: ; [ Beatmania (Euro) (2000) (Konami of Europe) {SLES-02096} <bm> ]
+
+[P1 Max Gauge]
+Type = Gameshark
+Activation = EndFrame
+800A5178 0039
+800A5248 0039
+
+[P2 Max Gauge]
+Type = Gameshark
+Activation = EndFrame
+800A517A 0039
+800A524A 0039
+
+[P1 Max Stage Score]
+Type = Gameshark
+Activation = EndFrame
+900A5360 000F423F
+
+[P2 Max Stage Score]
+Type = Gameshark
+Activation = EndFrame
+900A5364 000F423F
+
+[P1 Perfect Results]
+Type = Gameshark
+Activation = EndFrame
+800A525C 03E7
+800A5368 03E7
+50000302 0000
+800A536A 0000
+
+[P2 Perfect Results]
+Type = Gameshark
+Activation = EndFrame
+800A525E 03E7
+800A5370 03E7
+50000302 0000
+800A5372 0000
+
+[Unlock Extras]
+Type = Gameshark
+Activation = EndFrame
+9009A764 00000000
+
+[P1-Codes\Start With High Total Score]
+Type = Gameshark
+Activation = EndFrame
+A60A51D0 000086A0
+D00A51D0 0000
+300A51D2 0001
+
+[P1-Codes\Always Get 'A'-Ranking]
+Type = Gameshark
+Activation = EndFrame
+A60A5360 000086A0
+D00A5360 0000
+300A5362 0001
+
+[P1-Codes\The Public is Always Pleased]
+Type = Gameshark
+Activation = EndFrame
+800A51E8 0640
+
+[P1-Codes\The Public is Never Pleased]
+Type = Gameshark
+Activation = EndFrame
+800A51E8 0000
+
+[P1-Codes\Max Combo]
+Type = Gameshark
+Activation = EndFrame
+800A525C 03E7
+
+[P1-Codes\No Combos]
+Type = Gameshark
+Activation = EndFrame
+800A525C 0000
+
+[P1-Codes\Great = 300]
+Type = Gameshark
+Activation = EndFrame
+800A5368 012C
+
+[P1-Codes\Great = 0]
+Type = Gameshark
+Activation = EndFrame
+300A5368 0000
+
+[P1-Codes\Good, Bad & Poor = 0]
+Type = Gameshark
+Activation = EndFrame
+50000302 0000
+800A536A 0000
+
+[P2-Codes\Start With High Total Score]
+Type = Gameshark
+Activation = EndFrame
+A60A51D4 000086A0
+D00A51D4 0000
+300A51D6 0001
+
+[P2-Codes\Always Get 'A'-Ranking]
+Type = Gameshark
+Activation = EndFrame
+A60A5364 000086A0
+D00A5364 0000
+300A5366 0001
+
+[P2-Codes\The Public is Always Pleased]
+Type = Gameshark
+Activation = EndFrame
+800A51EA 0640
+
+[P2-Codes\The Public is Never Pleased]
+Type = Gameshark
+Activation = EndFrame
+800A51EA 0000
+
+[P2-Codes\Max Combo]
+Type = Gameshark
+Activation = EndFrame
+800A525E 03E7
+
+[P2-Codes\No Combos]
+Type = Gameshark
+Activation = EndFrame
+800A525E 0000
+
+[P2-Codes\Great = 300]
+Type = Gameshark
+Activation = EndFrame
+800A5370 012C
+
+[P2-Codes\Great = 0]
+Type = Gameshark
+Activation = EndFrame
+300A5370 0000
+
+[P2-Codes\Good, Bad & Poor = 0]
+Type = Gameshark
+Activation = EndFrame
+50000302 0000
+800A5372 0000
+

@@ -1,0 +1,7 @@
+; CHTDB: ; [ Simple Characters 2000 Series vol.05 - Highschool Kimengumi - The Table Hockey (Jpn) (2001) (Bandai) {SLPS-03362} <scs05tbh> ]
+
+[P1 Always Score 7 (Always Win)]
+Type = Gameshark
+Activation = EndFrame
+800AEA20 0007
+

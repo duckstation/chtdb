@@ -1,0 +1,52 @@
+; CHTDB: ; [ Earthworm Jim 2 (Europe) {SLES-00343} ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+900CF2C8 00050005
+
+[Infinite Energy Level 1]
+Type = Gameshark
+Activation = EndFrame
+800BCAC0 0064
+
+[Infinite Energy Level 2]
+Type = Gameshark
+Activation = EndFrame
+80094354 0064
+
+[Infinite Time Level 2]
+Type = Gameshark
+Activation = EndFrame
+8009437C 0063
+
+[Infinite Shots]
+Type = Gameshark
+Activation = EndFrame
+800AEE4C 03E8
+
+[Hold L2+R2 to walk in air/Moon jump]
+Description = Depending on level will walk in air or moon jump
+Type = Gameshark
+Activation = EndFrame
+F404A000 00AA5000
+03000024 21306000
+AAAAAAAA AAAAAAAA
+AAAA4010 AAAAAAAA
+AAAAAAAA AAAAAAAA
+D7200000 00000003
+F404A000 00AA5000
+03004010 21306000
+AAAAAAAA AAAAAAAA
+AAAA0024 AAAAAAAA
+AAAAAAAA AAAAAAAA
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+F4030000 00AA5000
+71004014 01001134
+AAAAAAAA AAAAAAAA
+AAAA0010 AAAAAAAA
+AAAAAAAA AAAAAAAA
+

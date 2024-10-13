@@ -1,0 +1,68 @@
+; CHTDB: ; [ Sister Princess 2 (Japan) {SLPS-03523 | SLPS-03524 | SLPS-03556 | SLPS-03557} ]
+
+[All gALLERIES + 01h]
+Type = Gameshark
+Activation = EndFrame
+30010123 00FF
+30010176 00FF
+
+[Degree of kindred Max Karen]
+Type = Gameshark
+Activation = EndFrame
+30010896 00FF
+
+[Degree of kindred Max Spike]
+Type = Gameshark
+Activation = EndFrame
+30010898 00FF
+
+[Degree of kindred Max Mamoru]
+Type = Gameshark
+Activation = EndFrame
+3001089A 00FF
+
+[Degree of kindred Max Sakuya]
+Type = Gameshark
+Activation = EndFrame
+3001089c 00FF
+
+[Degree of kindred Max Hinako]
+Type = Gameshark
+Activation = EndFrame
+3001089E 00FF
+
+[Degree of kindred Max Temari]
+Type = Gameshark
+Activation = EndFrame
+300108A0 00FF
+
+[Degree of kindred Max Snow White]
+Type = Gameshark
+Activation = EndFrame
+300108A2 00FF
+
+[Degree of kindred Max Lingling]
+Type = Gameshark
+Activation = EndFrame
+300108A4 00FF
+
+[Degree of kindred Max Chikage]
+Type = Gameshark
+Activation = EndFrame
+300108A6 00FF
+
+[Degree of kindred Max Spring singing]
+Type = Gameshark
+Activation = EndFrame
+300108A8 00FF
+
+[Degree of kindred Max Yotsuba]
+Type = Gameshark
+Activation = EndFrame
+300108AA 00FF
+
+[Degree of kindred Max The ???]
+Type = Gameshark
+Activation = EndFrame
+300108AC 00FF
+

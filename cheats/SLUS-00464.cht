@@ -1,0 +1,197 @@
+; CHTDB: ; [ OverBlood (USA) (1997) (Electronic Arts) {SLUS-00464} <overblod> ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800CF8F4 0064
+
+[Have Jacket]
+Type = Gameshark
+Activation = EndFrame
+800EF4DC 0001
+
+[Have Memory Chip]
+Type = Gameshark
+Activation = EndFrame
+800EF4E0 0001
+
+[Have Silver Key Card]
+Type = Gameshark
+Activation = EndFrame
+800EF4E4 0001
+
+[Have Memo]
+Type = Gameshark
+Activation = EndFrame
+800EF4E8 0001
+
+[Have Laser Knife]
+Type = Gameshark
+Activation = EndFrame
+800EF4EC 0001
+
+[Have Anti Gravity Device]
+Type = Gameshark
+Activation = EndFrame
+800EF4F0 0001
+
+[Have Simple Case]
+Type = Gameshark
+Activation = EndFrame
+800EF4F4 0001
+
+[Have Oil Container]
+Type = Gameshark
+Activation = EndFrame
+800EF4F8 0001
+
+[Have Broke Thermostat]
+Type = Gameshark
+Activation = EndFrame
+800EF4FC 0001
+
+[Have Chemical Bottle]
+Type = Gameshark
+Activation = EndFrame
+800EF500 0001
+
+[Have Capsule]
+Type = Gameshark
+Activation = EndFrame
+800EF504 0001
+
+[Have Hand Gun]
+Type = Gameshark
+Activation = EndFrame
+800EF508 0001
+
+[Have Silver Key]
+Type = Gameshark
+Activation = EndFrame
+800EF50C 0001
+
+[Have Voice Recorder]
+Type = Gameshark
+Activation = EndFrame
+800EF510 0001
+
+[Have Iron Rods]
+Type = Gameshark
+Activation = EndFrame
+800EF514 0001
+
+[Have Stun Gun]
+Type = Gameshark
+Activation = EndFrame
+800EF518 0001
+
+[Have Metal Grate]
+Type = Gameshark
+Activation = EndFrame
+800EF51C 0001
+
+[Have Burner]
+Type = Gameshark
+Activation = EndFrame
+800EF520 0001
+
+[Have Clip]
+Type = Gameshark
+Activation = EndFrame
+800EF524 0001
+
+[Have Red Key Card]
+Type = Gameshark
+Activation = EndFrame
+800EF528 0001
+
+[Have Compact Data Disc]
+Type = Gameshark
+Activation = EndFrame
+800EF52C 0001
+
+[Have Gold Card Key]
+Type = Gameshark
+Activation = EndFrame
+800EF530 0001
+
+[Have Emergency Spray]
+Type = Gameshark
+Activation = EndFrame
+800EF534 0001
+
+[Have Allen Wrench]
+Type = Gameshark
+Activation = EndFrame
+800EF538 0001
+
+[Have Cord]
+Type = Gameshark
+Activation = EndFrame
+800EF53C 0001
+
+[Have Bare Cord]
+Type = Gameshark
+Activation = EndFrame
+800EF540 0001
+
+[Have Dead Battery]
+Type = Gameshark
+Activation = EndFrame
+800EF544 0001
+
+[Have Charged Batter]
+Type = Gameshark
+Activation = EndFrame
+800EF548 0001
+
+[Have Identification Card]
+Type = Gameshark
+Activation = EndFrame
+800EF54C 0001
+
+[Have Ice Box]
+Type = Gameshark
+Activation = EndFrame
+800EF550 0001
+
+[Have Small Bombe]
+Type = Gameshark
+Activation = EndFrame
+800EF554 0001
+
+[Have Sample Case]
+Type = Gameshark
+Activation = EndFrame
+800EF558 0001
+
+[Have Portable Food]
+Type = Gameshark
+Activation = EndFrame
+800EF55C 0001
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A70EBB90 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A70EBB90 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A70EBB90 10000400
+
+[Widescreen 16-9 [ALT]]
+Type = Gameshark
+Activation = EndFrame
+A7076370 10000C00
+
+[Dither Off]
+Type = Gameshark
+Activation = EndFrame
+A704517C 02000000
+

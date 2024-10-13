@@ -1,0 +1,22 @@
+; CHTDB: ; [ Tadaima Wakusei Kaitaku-chuu! (Japan) {SLPS-00116} ]
+
+[Player has points]
+Type = Gameshark
+Activation = EndFrame
+800756AC 03E7
+
+[Player has 999 houses]
+Type = Gameshark
+Activation = EndFrame
+800F7704 03E7
+
+[Player has 999 buildings]
+Type = Gameshark
+Activation = EndFrame
+800F7708 03E7
+
+[Computer has always 0 points]
+Type = Gameshark
+Activation = EndFrame
+800756AE 0000
+

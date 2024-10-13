@@ -1,0 +1,12 @@
+; CHTDB: ; [ Goryuujin Electro (Japan) {SLPS-01620} ]
+
+[Opponent always has 0 points]
+Type = Gameshark
+Activation = EndFrame
+8012CE94 0000
+
+[Player has always 99 points]
+Type = Gameshark
+Activation = EndFrame
+8012B010 0063
+

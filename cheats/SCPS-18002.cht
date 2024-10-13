@@ -1,0 +1,14 @@
+; CHTDB: ; [ PaRappa the Rapper (Japan) {SCPS-18002} ]
+
+[Always Be Rapping ...GOOD! first time]
+Type = Gameshark
+Activation = EndFrame
+801CC046 0001
+90031244 00000000
+
+[Always Be Rapping ...COOL second time]
+Type = Gameshark
+Activation = EndFrame
+801CC046 0000
+90031244 00000000
+

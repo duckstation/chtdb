@@ -1,0 +1,44 @@
+; CHTDB: ; [ Legend of Legaia (Germany) {SCES-01945} ]
+
+[Infinite Gold]
+Type = Gameshark
+Activation = EndFrame
+90085584 05F5E0FF
+
+[Gaia Max GP]
+Type = Gameshark
+Activation = EndFrame
+9008601C 03E703E7
+80086034 03E7
+
+[Gaia Max MP]
+Type = Gameshark
+Activation = EndFrame
+8008601E 03E7
+80086020 03E7
+80086036 03E7
+
+[Noa Max GP]
+Type = Gameshark
+Activation = EndFrame
+90085C08 03E703E7
+80085C20 03E7
+
+[Noa Max MP]
+Type = Gameshark
+Activation = EndFrame
+90085C0C 03E703E7
+80085C22 03E7
+
+[Vahn Max GP]
+Type = Gameshark
+Activation = EndFrame
+900857F4 03E703E7
+8008580C 03E7
+
+[Vahn Max MP]
+Type = Gameshark
+Activation = EndFrame
+900857F8 03E703E7
+8008580E 03E7
+

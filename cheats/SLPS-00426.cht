@@ -1,0 +1,22 @@
+; CHTDB: ; [ Magic Johnson to Kareem Abdul-Jabbar no Slam 'n Jam '96 (Japan) {SLPS-00426} ]
+
+[Select Home Team Score\99]
+Type = Gameshark
+Activation = EndFrame
+800ED9A0 0063
+
+[Select Home Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+800ED9A0 0000
+
+[Select Away Team Score\99]
+Type = Gameshark
+Activation = EndFrame
+800EDB84 0063
+
+[Select Away Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+800EDB84 0000
+

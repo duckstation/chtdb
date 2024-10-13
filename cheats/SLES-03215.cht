@@ -1,0 +1,38 @@
+; CHTDB: ; [ Blade (Germany) {SLES-03215} ]
+
+[Unendlich Gesundheit]
+Type = Gameshark
+Activation = EndFrame
+800C7330 0600
+
+[Maximale Stärke]
+Type = Gameshark
+Activation = EndFrame
+800C391C 45E2
+
+[Beginne mit viel Geld]
+Type = Gameshark
+Activation = EndFrame
+A60C39A0 000003E7
+
+[Cheat Men freigeschaltet]
+Type = Gameshark
+Activation = EndFrame
+800BB77A 7000
+
+[Habe alle Laserteile]
+Type = Gameshark
+Activation = EndFrame
+300C390A 000F
+
+[Habe alle Schlüsselkarten & Schlüssel]
+Type = Gameshark
+Activation = EndFrame
+300C3910 00FF
+
+[Habe Serum gross]
+Type = Gameshark
+Activation = EndFrame
+D00C38FE 0000
+300C38FE 0003
+

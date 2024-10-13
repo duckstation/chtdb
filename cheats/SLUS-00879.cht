@@ -1,0 +1,38 @@
+; CHTDB: ; [ Final Fantasy Anthology - Final Fantasy V (USA, v1.0) (2001) (Square Electronic Arts) {SLUS-00879} <ffant5a> ]
+
+[Character 1 Infinite Health in battle]
+Type = Gameshark
+Activation = EndFrame
+8002182C 270F
+
+[Character 2 Infinite Health in battle]
+Type = Gameshark
+Activation = EndFrame
+80021834 270F
+
+[Character 3 Infinite Health in battle]
+Type = Gameshark
+Activation = EndFrame
+8002183C 270F
+
+[Character 4 Infinite Health in battle]
+Type = Gameshark
+Activation = EndFrame
+80021844 270F
+
+[Max GP]
+Type = Gameshark
+Activation = EndFrame
+8002E946 CFFF
+8002E948 0FFF
+
+[No Random Battles]
+Type = Gameshark
+Activation = EndFrame
+8002F6A8 0000
+
+[Save Anywhere]
+Type = Gameshark
+Activation = EndFrame
+8002E144 0080
+

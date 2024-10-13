@@ -1,0 +1,25 @@
+; CHTDB: ; [ Capcom Generation: Dai-5-shuu Kakutouka-tachi (Japan) {SLPS-01725} ]
+
+[P1 Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+9016BD80 00900090
+8016BE98 008F
+
+[Open All Secrets]
+Type = Gameshark
+Activation = EndFrame
+80148176 0020
+801481AA 0020
+801481DE 0020
+
+[Open Sound Remix Mode]
+Type = Gameshark
+Activation = EndFrame
+80148142 0020
+
+[Open Club Battle Mode]
+Type = Gameshark
+Activation = EndFrame
+80148144 0020
+

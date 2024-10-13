@@ -1,0 +1,42 @@
+; CHTDB: ; [ Army Men - Air Attack (USA) (1999) (The 3DO Company) {SLUS-00913, SLUS-00913CE} <amenair> ]
+
+[Open All The Copters]
+Type = Gameshark
+Activation = EndFrame
+E00EB1D3 0001
+300EB1D3 0004
+
+[Open All The Copilots]
+Type = Gameshark
+Activation = EndFrame
+E00EB1D4 0003
+300EB1D4 0005
+
+[Open All Missions]
+Type = Gameshark
+Activation = EndFrame
+E00EB1D2 0001
+300EB1D2 0010
+
+[Infinite Health P1 + 2]
+Type = Gameshark
+Activation = EndFrame
+8003BA66 2400
+
+[Infinite Health P1 Only]
+Type = Gameshark
+Activation = EndFrame
+9003BA50 32210100
+9003BA5C 10200002
+
+[Infinite Health P2 Only]
+Type = Gameshark
+Activation = EndFrame
+9003BA50 32210100
+9003BA5C 14200002
+
+[Infinite Ammo All Weapons]
+Type = Gameshark
+Activation = EndFrame
+80050642 2400
+

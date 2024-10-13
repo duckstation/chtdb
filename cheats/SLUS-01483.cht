@@ -1,0 +1,22 @@
+; CHTDB: ; [ NBA Live 2003 (USA) (2002) (Electronic Arts) {SLUS-01483} <nbalv2k3> ]
+
+[Select Home Team Score\100]
+Type = Gameshark
+Activation = EndFrame
+800A8AB0 0064
+
+[Select Home Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+800A8AB0 0000
+
+[Select Away Team Score\100]
+Type = Gameshark
+Activation = EndFrame
+800A9104 0064
+
+[Select Away Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+800A9104 0000
+

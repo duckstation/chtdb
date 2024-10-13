@@ -1,0 +1,83 @@
+; CHTDB: ; [ Final Fantasy VIII (Spain) {SLES-02084 | SLES-12084 | SLES-22084 | SLES-32084} ]
+
+[Infinite HP In Battle]
+Type = Gameshark
+Activation = EndFrame
+80078F62 270F
+80078D92 270F
+80079132 270F
+
+[Squall Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+80077D0A 270F
+
+[Rinoa Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+80077F6A 270F
+
+[Quitis Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+80077ED2 270F
+
+[Irvine Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+80077E3A 270F
+
+[Selphie Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+80078002 270F
+
+[Zell Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+80077DA2 270F
+
+[Seifer Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+8007809A 270F
+
+[Edea Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+80078132 270F
+
+[Infinite Objects - Objetos Infinitos]
+Type = Gameshark
+Activation = EndFrame
+A71E459E A0A32400
+A71E45AA A0A02400
+
+[All cards]
+Type = Gameshark
+Activation = EndFrame
+50005201 0000
+30078B58 00FF
+50002601 0000
+30078BA5 00F0
+80078BC6 FFFF
+80078BC8 FFFF
+30078BCA 0001
+
+[Always limit]
+Type = Gameshark
+Activation = EndFrame
+80078C41 0001
+80078E11 0001
+80078FE1 0001
+
+[Save everywhere]
+Type = Gameshark
+Activation = EndFrame
+80070B52 0100
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+90078384 5F5E0FFF
+

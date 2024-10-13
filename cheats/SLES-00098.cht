@@ -1,0 +1,17 @@
+; CHTDB: ; [ Mass Destruction (Europe) {SLES-00098} ]
+
+[Timer Freezes]
+Type = Gameshark
+Activation = EndFrame
+8001A8EC 0000
+
+[Infinite Ammo For All Weapons]
+Type = Gameshark
+Activation = EndFrame
+8003EE3C 0000
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8003C86C 0000
+

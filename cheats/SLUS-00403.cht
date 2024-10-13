@@ -1,0 +1,139 @@
+; CHTDB: ; [ Rage Racer (USA) (1997) (Namco Hometek) {SLUS-00403} <ragerace> ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+8009ACA4 06C5
+
+[Always Place 1st]
+Type = Gameshark
+Activation = EndFrame
+8009E53C 0001
+
+[Drive through Other Cars]
+Type = Gameshark
+Activation = EndFrame
+A702D136 04401000
+
+[Max Money]
+Type = Gameshark
+Activation = EndFrame
+9019C610 3B9AC9FF
+
+[Infinite Race Tries]
+Type = Gameshark
+Activation = EndFrame
+801E3FFA 0005
+
+[Nitro Boost With this code, Release Gas and Press O button for Nitro Boost.]
+Type = Gameshark
+Activation = EndFrame
+D01E4072 0020
+8009E52E 0FFF
+
+[Extra GP Have Erriso]
+Type = Gameshark
+Activation = EndFrame
+8019C620 0100
+
+[Have Abeille]
+Type = Gameshark
+Activation = EndFrame
+8019C628 0100
+
+[Have Pegase]
+Type = Gameshark
+Activation = EndFrame
+8019C630 0100
+
+[Have Acceron]
+Type = Gameshark
+Activation = EndFrame
+8019C640 0100
+
+[Have Bayonet]
+Type = Gameshark
+Activation = EndFrame
+8019C648 0100
+
+[Have Hijack]
+Type = Gameshark
+Activation = EndFrame
+8019C650 0100
+
+[Have Fatalita]
+Type = Gameshark
+Activation = EndFrame
+8019C658 0100
+
+[Have Istante]
+Type = Gameshark
+Activation = EndFrame
+8019C660 0100
+
+[Have Ghepardo]
+Type = Gameshark
+Activation = EndFrame
+8019C668 0100
+
+[Have Vainqure]
+Type = Gameshark
+Activation = EndFrame
+8019C670 0100
+
+[Have Bulldog]
+Type = Gameshark
+Activation = EndFrame
+8019C678 0100
+
+[Have Squaldon]
+Type = Gameshark
+Activation = EndFrame
+8019C680 0100
+
+[Darwin Awards' Jato Car]
+Type = Gameshark
+Activation = EndFrame
+8009E480 0AAF
+
+[Custom Logo Colors (Team Logo Design Screen Under Paint)]
+Type = Gameshark
+Activation = EndFrame
+3007F638 0001
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+8001A660 2082
+8001A662 0800
+80008208 0000
+8000820A 84A7
+8000820C 0000
+8000820E 0000
+80008210 D883
+80008212 0007
+80008214 3843
+80008216 0007
+80008218 3821
+8000821A 00FB
+8000821C 0000
+8000821E A4A7
+80008220 0004
+80008222 84A7
+80008224 0000
+80008226 0000
+80008228 D883
+8000822A 0007
+8000822C 3843
+8000822E 0007
+80008230 3821
+80008232 00FB
+80008234 A22A
+80008236 0C01
+80008238 0004
+8000823A A4A7
+8000823C 699A
+8000823E 0800
+80008240 0000
+80008242 0000
+

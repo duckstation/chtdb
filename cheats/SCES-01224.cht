@@ -1,0 +1,12 @@
+; CHTDB: ; [ Blasto (Europe) {SCES-01224} ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801F145E 0005
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801EFFC8 1770
+

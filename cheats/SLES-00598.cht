@@ -1,0 +1,40 @@
+; CHTDB: ; [ Jersey Devil (Europe) {SLES-00598} ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+30010044 0050
+
+[Amount Of Pumpkins]
+Description = You will need to manually edit 'FF' (the max) in the code line as required
+Type = Gameshark
+Activation = EndFrame
+30010040 00FF
+3005C2CE 00FF
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+30010043 0063
+
+[All 5 Letters Press Select]
+Type = Gameshark
+Activation = EndFrame
+D001000E 0100
+800639C8 0020
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A70507F8 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A70507F8 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A70507F8 10000400
+

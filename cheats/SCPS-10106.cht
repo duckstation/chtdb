@@ -1,0 +1,61 @@
+; CHTDB: ; [ Arc the Lad III (Japan) {SCPS-10106 | SCPS-10107} ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+9009D368 000F423F
+
+[Infinite GP]
+Type = Gameshark
+Activation = EndFrame
+9009DE34 0098967F
+
+[Now Hp]
+Type = Gameshark
+Activation = EndFrame
+8007E49C FFFF
+
+[Max Hp]
+Type = Gameshark
+Activation = EndFrame
+8007E49E FFFF
+
+[Now Mp]
+Type = Gameshark
+Activation = EndFrame
+8007E4A2 03E8
+
+[Max Mp]
+Type = Gameshark
+Activation = EndFrame
+8007E4A4 03E8
+
+[HP / Status max]
+Type = Gameshark
+Activation = EndFrame
+8007E76A 0063
+9007E76C 03E703E7
+8007E772 03E7
+8007E774 03E7
+8007E78C FF00
+8007E78A 00FF
+9007E784 FF0000FF
+8007E780 FF00
+8007E71A 0063
+9007E71C 03E703E7
+
+[Theo (physical strength and maximum values)]
+Type = Gameshark
+Activation = EndFrame
+9007E9F4 03E703E7
+
+[Russo (physical strength and maximum values)]
+Type = Gameshark
+Activation = EndFrame
+9007E9A4 03E703E7
+
+[Alec (physical strength and maximum values)]
+Type = Gameshark
+Activation = EndFrame
+9007E954 03E703E7
+

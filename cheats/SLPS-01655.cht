@@ -1,0 +1,15 @@
+; CHTDB: ; [ Another Mind (Japan) {SLPS-01655} ]
+
+[Debug menu]
+Type = Gameshark
+Activation = EndFrame
+80061FEE 0001
+
+[Debug mode Debug mode (-During game playing, when the START button which pushes the SELECT button is pushed, letter on the picture goes out. During game playing, when the START button which pushes the SELECT button is pushed, letter on the picture goes out.)]
+Type = Gameshark
+Activation = EndFrame
+D0061FD0 0100
+80061FBA 0001
+D0061FD0 0800
+80061FBA 0000
+

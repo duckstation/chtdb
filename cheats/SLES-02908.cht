@@ -1,0 +1,34 @@
+; CHTDB: ; [ Tony Hawk's Pro Skater 2 (Europe, Australia) {SLES-02908} ]
+
+[Max score Mat Hoffman]
+Type = Gameshark
+Activation = EndFrame
+801EF288 FFFF
+
+[Max Score Mike Escamilla]
+Type = Gameshark
+Activation = EndFrame
+801EF200 FFFF
+
+[max special]
+Type = Gameshark
+Activation = EndFrame
+90010E78 24420FFF
+8001FD5A 2400
+80010F52 2400
+
+[Each trick is worth 50.000 points]
+Type = Gameshark
+Activation = EndFrame
+90066318 2442C350
+
+[Time frozen]
+Type = Gameshark
+Activation = EndFrame
+8003B016 AF80
+
+[No timer / Free skate mode]
+Type = Gameshark
+Activation = EndFrame
+800D667C 0002
+

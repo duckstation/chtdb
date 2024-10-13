@@ -1,0 +1,66 @@
+; CHTDB: ; [ Samurai Shodown - Warriors Rage (USA) (2000) (SNK of America) {SLUS-01039} <samshowr> ]
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800DD284 0000
+
+[Infinite Health P1 Alternatte]
+Type = Gameshark
+Activation = EndFrame
+800DD258 0100
+
+[P2 1-Hit Death]
+Type = Gameshark
+Activation = EndFrame
+A60DD290 01000001
+
+[Enable All Characters]
+Type = Gameshark
+Activation = EndFrame
+50000902 0000
+8007E53A FFFF
+
+[Enable All Movies]
+Type = Gameshark
+Activation = EndFrame
+50000702 0000
+8007E5CA 0101
+
+[Enable Gallery Mode]
+Type = Gameshark
+Activation = EndFrame
+8007E54C 0001
+
+[Enable All Artwork In Gallery Mode Press L1, L2, R1, R2 at the gallery mode artwork screen.]
+Type = Gameshark
+Activation = EndFrame
+D009C32A F0FF
+50000C02 0000
+800B9F36 FFFF
+
+[Infinite Ability Points (Attack Mode)]
+Type = Gameshark
+Activation = EndFrame
+300B4AA4 00FF
+
+[Infinite Trading Cards (Gallery Mode)]
+Type = Gameshark
+Activation = EndFrame
+800BA050 0063
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A709ACB8 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A709ACB8 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A709ACB8 10000400
+

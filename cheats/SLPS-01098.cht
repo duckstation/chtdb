@@ -1,0 +1,12 @@
+; CHTDB: ; [ WarCraft II: The Dark Saga (Japan) {SLPS-01098} ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+800101C8 FFFF
+
+[Infinite Wood]
+Type = Gameshark
+Activation = EndFrame
+80010188 FFFF
+

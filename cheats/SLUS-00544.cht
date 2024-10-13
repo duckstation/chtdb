@@ -1,0 +1,104 @@
+; CHTDB: ; [ G-Police (USA) (1997) (Psygnosis) {SLUS-00544 / SLUS-00556} <gpolice> ]
+
+[Infinite 6000 Epp]
+Type = Gameshark
+Activation = EndFrame
+800F5CDA 0063
+
+[Infinite 6000 Rockets]
+Type = Gameshark
+Activation = EndFrame
+800F5CBA 0063
+
+[Infinite Rockets]
+Type = Gameshark
+Activation = EndFrame
+800F5CB8 0063
+
+[Infinite Hyper Missiles]
+Type = Gameshark
+Activation = EndFrame
+800F5CAC 0063
+
+[Infinite Starburst Missiles]
+Type = Gameshark
+Activation = EndFrame
+800F5CB4 0063
+
+[Infinite Cluster Bombs]
+Type = Gameshark
+Activation = EndFrame
+800F5CBC 0063
+
+[Infinite Firestreak Missiles]
+Type = Gameshark
+Activation = EndFrame
+800F5CB0 0063
+
+[Infinite Lasers]
+Type = Gameshark
+Activation = EndFrame
+800F5CD4 0063
+
+[Infinite Plasma Beam]
+Type = Gameshark
+Activation = EndFrame
+800F5CD2 0063
+
+[Infinite Epp]
+Type = Gameshark
+Activation = EndFrame
+800F5CD8 0063
+
+[Infinite Drop Bombs]
+Type = Gameshark
+Activation = EndFrame
+800F5CE2 0063
+
+[Infinite Supplies]
+Type = Gameshark
+Activation = EndFrame
+800F5CE4 0063
+
+[Infinite Shield (Disc 1 Only)]
+Description = With this cheat, it at least the first two missions. Causes FMV glitches. Leave off until in the city. It does not work on disc 2.
+Type = Gameshark
+Activation = EndFrame
+801EEE4C 1389
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+8008DBDC 0001
+
+[All Weapons + Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+8008F1E0 0001
+
+[Bonus Camera Angle]
+Type = Gameshark
+Activation = EndFrame
+800921CC 0001
+
+[Enable Sirens]
+Type = Gameshark
+Activation = EndFrame
+80093038 0001
+
+[Fast Traffic]
+Type = Gameshark
+Activation = EndFrame
+800988C0 0001
+
+[Open Secret Training Missions]
+Type = Gameshark
+Activation = EndFrame
+80093990 003F
+
+[Level Modifier (0-23)]
+Type = Gameshark
+Activation = EndFrame
+8008F178 0022
+800936EC 0022
+

@@ -1,0 +1,69 @@
+; CHTDB: ; [ Misa no Mahou Monogatari (Japan) {SLPS-01276 | SLPS-01277} ]
+
+[All stats 999 (except the first one that is fatigue)]
+Type = Gameshark
+Activation = EndFrame
+80093F78 0000
+80093F60 03E7
+80093ED0 03E7
+80093EF0 03E7
+80093F28 03E7
+80093ED8 03E7
+80093F10 03E7
+80093F50 03E7
+80093EE8 03E7
+
+[Infinite HP in combat]
+Type = Gameshark
+Activation = EndFrame
+80093B90 03E7
+
+[Infinite MP in combat]
+Type = Gameshark
+Activation = EndFrame
+80093BA8 03E7
+
+[Gold Max]
+Type = Gameshark
+Activation = EndFrame
+90093F68 80000000
+
+[Favorability of positive]
+Type = Gameshark
+Activation = EndFrame
+80093E60 03E7
+
+[Favorability of Kentaro]
+Type = Gameshark
+Activation = EndFrame
+80093E68 03E7
+
+[Favorability of Aoi]
+Type = Gameshark
+Activation = EndFrame
+80093E70 03E7
+
+[Clear Count Bonus mmode]
+Type = Gameshark
+Activation = EndFrame
+30093F80 00FF
+
+[All Albums]
+Type = Gameshark
+Activation = EndFrame
+300AF1B8 00FF
+300AF1B9 00FF
+300AF1BA 00FF
+300AF1BB 00FF
+300AF1BC 00FF
+300AF1BD 00FF
+300AF1BE 00FF
+300AF1BF 00FF
+300AF1C0 00FF
+300AF1C1 00FF
+300AF1C2 00FF
+300AF1C3 00FF
+300AF1C4 00FF
+300AF1C5 00FF
+300AF1C6 00FF
+

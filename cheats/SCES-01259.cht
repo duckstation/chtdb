@@ -1,0 +1,177 @@
+; CHTDB: ; [ Dead or Alive (Europe) {SCES-01259} ]
+
+[P1 Select Health\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80095DF0 00A0
+
+[P1 Select Health\No Health]
+Type = Gameshark
+Activation = EndFrame
+80095DF0 0000
+
+[P1 Select Health\1 Hit Death]
+Type = Gameshark
+Activation = EndFrame
+80095DF0 0001
+
+[P2 Select Health\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80095E48 00A0
+
+[P2 Select Health\No Health]
+Type = Gameshark
+Activation = EndFrame
+80095E48 0000
+
+[P2 Select Health\1 Hit Death]
+Type = Gameshark
+Activation = EndFrame
+80095E48 0001
+
+[Total Run Time 99.59.59]
+Type = Gameshark
+Activation = EndFrame
+80095108 FFFF
+
+[Enable Extra Config]
+Type = Gameshark
+Activation = EndFrame
+80094E92 7F40
+
+[Enable Raidou]
+Type = Gameshark
+Activation = EndFrame
+30094E80 0001
+
+[Enable Ayane]
+Type = Gameshark
+Activation = EndFrame
+30094E81 0001
+
+[Enable Extra Voice\Zack]
+Type = Gameshark
+Activation = EndFrame
+80095148 0001
+
+[Enable Extra Voice\Tina]
+Type = Gameshark
+Activation = EndFrame
+8009514A 0001
+
+[Enable Extra Voice\Jann-Lee]
+Type = Gameshark
+Activation = EndFrame
+8009514C 0001
+
+[Enable Extra Voice\Hayabusa]
+Type = Gameshark
+Activation = EndFrame
+8009514E 0001
+
+[Enable Extra Voice\Kasumi]
+Type = Gameshark
+Activation = EndFrame
+80095150 0001
+
+[Enable Extra Voice\Gen-Fu]
+Type = Gameshark
+Activation = EndFrame
+80095152 0001
+
+[Enable Extra Voice\Bayman]
+Type = Gameshark
+Activation = EndFrame
+80095154 0001
+
+[Enable Extra Voice\Lei-Fang]
+Type = Gameshark
+Activation = EndFrame
+80095156 0001
+
+[Enable Extra Voice\Raidou]
+Type = Gameshark
+Activation = EndFrame
+80095158 0001
+
+[Enable Extra Voice\Ayane]
+Type = Gameshark
+Activation = EndFrame
+8009515A 0001
+
+[Enable Extra Voice\Bass]
+Type = Gameshark
+Activation = EndFrame
+8009515C 0001
+
+[Enable Extra Costumes\Zack]
+Type = Gameshark
+Activation = EndFrame
+3009513C 0005
+
+[Enable Extra Costumes\Tina]
+Type = Gameshark
+Activation = EndFrame
+3009513D 000E
+
+[Enable Extra Costumes\Jann-Lee]
+Type = Gameshark
+Activation = EndFrame
+3009513E 0005
+
+[Enable Extra Costumes\Hayabusa]
+Type = Gameshark
+Activation = EndFrame
+3009513F 0005
+
+[Enable Extra Costumes\Kasumi]
+Type = Gameshark
+Activation = EndFrame
+30095140 0005
+
+[Enable Extra Costumes\Gen-Fu]
+Type = Gameshark
+Activation = EndFrame
+30095141 0005
+
+[Enable Extra Costumes\Bayman]
+Type = Gameshark
+Activation = EndFrame
+30095142 0005
+
+[Enable Extra Costumes\Lei-Fang]
+Type = Gameshark
+Activation = EndFrame
+30095143 0005
+
+[Enable Extra Costumes\Raidou]
+Type = Gameshark
+Activation = EndFrame
+30095144 0005
+
+[Enable Extra Costumes\Ayane]
+Type = Gameshark
+Activation = EndFrame
+30095145 000E
+
+[Enable Extra Costumes\Bass]
+Type = Gameshark
+Activation = EndFrame
+80095146 000E
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A7049F30 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A7049F30 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A7049F30 10000400
+

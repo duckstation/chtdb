@@ -1,0 +1,112 @@
+; CHTDB: ; [ Dino Crisis 2 (USA) (2000) (Capcom Entertainment) {SLUS-01279} <dinocrs2> ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+D0038CC8 0108
+80038CCA 2400
+D0039594 0108
+80039596 2400
+D0039744 0108
+80039746 2400
+D00D2348 0108
+800D234A 2400
+D00D24A0 0108
+800D24A2 2400
+D00D25B0 0108
+800D25B2 2400
+D00D26FC 0108
+800D26FE 2400
+D00D38BC 0108
+800D38BE 2400
+
+[All Weapons Available In Shop floydfan]
+Type = Gameshark
+Activation = EndFrame
+A61CE5C0 00740001
+A61CE5C8 00740001
+A61CE5D0 000A0001
+A61CE5D8 00120001
+A61CE5E0 00120001
+A61CE5E8 00140001
+A61CE5F0 00160001
+A61CE5F8 00160001
+A61CE600 00170001
+
+[Character Modifier (Regular Game) Dylan]
+Type = Gameshark
+Activation = EndFrame
+300AECAB 0001
+
+[Max Extinct Points]
+Type = Gameshark
+Activation = EndFrame
+900AEE10 0098967F
+
+[Have Extra Crisis Mode]
+Description = With this cheat, go into Options, then exit and the new menu will appear
+Type = Gameshark
+Activation = EndFrame
+900AECA8 01010100
+800AECAC 0101
+
+[Unlock All Characters (Extra Crisis Mode)]
+Type = Gameshark
+Activation = EndFrame
+800AECAE 0FFF
+
+[Walk Thru Walls]
+Type = Gameshark
+Activation = EndFrame
+D0032DCC 000F
+80032DCE 1000
+D00330C8 0161
+800330CA 1000
+D003365C 0013
+8003365E 1000
+
+[Dinos Can't Hit You]
+Type = Gameshark
+Activation = EndFrame
+80048814 0000
+
+[Have All Files]
+Type = Gameshark
+Activation = EndFrame
+900AEEE0 FFF3FD77
+900AEA80 FFF3FD77
+
+[Have All Key Items]
+Type = Gameshark
+Activation = EndFrame
+900AEED8 03FFFFFF
+
+[Have all three EPS cards, Inner Suit and Light-Weight Armor]
+Type = Gameshark
+Activation = EndFrame
+800AEEDA 0278
+
+[Infinite Extinction Points At Character Buying Screen (At end of the game)]
+Type = Gameshark
+Activation = EndFrame
+900AEE28 0098967F
+900D84E8 0098967F
+
+[Infinite Health for Paula(When you have to protect her)]
+Type = Gameshark
+Activation = EndFrame
+800AE36A 06F4
+800AE548 06F4
+
+[Infinite Item Usage]
+Type = Gameshark
+Activation = EndFrame
+D00560AC FFFF
+800560AE 2400
+
+[Save + Shop Anywhere (Press Triangle + R2)]
+Type = Gameshark
+Activation = EndFrame
+D00AF130 0012
+800AE73E 0002
+

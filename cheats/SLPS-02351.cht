@@ -1,0 +1,23 @@
+; CHTDB: ; [ High School of Blitz (Jpn) (1999) (MediaWorks) {SLPS-02351} <hsblitz> ]
+
+[Album All Unlock]
+Type = Gameshark
+Activation = EndFrame
+900E17DC FFFFFFFF
+900E17E0 FFFFFFFF
+800E17E4 FFFF
+300E17E6 00FF
+
+[Album fully open]
+Type = Gameshark
+Activation = EndFrame
+900E17DC FFFFFFFF
+900E17E0 FFFFFFFF
+900E17E4 000FFFFF
+
+[All The Card Holder]
+Type = Gameshark
+Activation = EndFrame
+5000AF01 0000
+301D8DA8 0009
+

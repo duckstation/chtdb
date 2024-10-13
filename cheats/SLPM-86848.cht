@@ -1,0 +1,7 @@
+; CHTDB: ; [ GetBackers Dakkanya (Jpn) (2001) (Konami) {SLPM-86848 (VX240-J1)} <getbackr> ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8008EDBC 0096
+

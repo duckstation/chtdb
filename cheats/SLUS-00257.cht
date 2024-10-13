@@ -1,0 +1,29 @@
+; CHTDB: ; [ Marvel Super Heroes (USA) (1997) (Capcom Entertainment) {SLUS-00257} <msh> ]
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800919E4 0080
+800921E4 0090
+
+[P2 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80091A1C 0080
+80092414 0090
+
+[P2 1-Hit Death]
+Type = Gameshark
+Activation = EndFrame
+A6092414 00900001
+
+[Hidden Characters Code]
+Type = Gameshark
+Activation = EndFrame
+D0078F86 0400
+800B7BB2 0014
+D0078FE8 1000
+800B7BB2 0016
+D0078FE8 2000
+800B7BB2 0018
+

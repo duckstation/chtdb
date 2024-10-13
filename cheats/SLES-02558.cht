@@ -1,0 +1,142 @@
+; CHTDB: ; [ Parasite Eve II (Europe) {SLES-02558 | SLES-12558} ]
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+80073BA0 03E7
+
+[Max Hp]
+Type = Gameshark
+Activation = EndFrame
+80073BA2 03E7
+
+[Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+80073BA4 03E7
+
+[Max Mp]
+Type = Gameshark
+Activation = EndFrame
+80073BA6 03E7
+
+[Infinite BP]
+Type = Gameshark
+Activation = EndFrame
+80073B94 FFFF
+
+[Max Bp]
+Type = Gameshark
+Activation = EndFrame
+90073B94 0098967F
+
+[Max Exp]
+Type = Gameshark
+Activation = EndFrame
+90073B90 0098967F
+
+[All Key Items]
+Type = Gameshark
+Activation = EndFrame
+50000302 0000
+80072714 FFFF
+8007271A 0001
+
+[Max Parasite Energy Level Codes\Pyrokinesis]
+Type = Gameshark
+Activation = EndFrame
+300729B8 0003
+
+[Max Parasite Energy Level Codes\Combustion]
+Type = Gameshark
+Activation = EndFrame
+300729B9 0003
+
+[Max Parasite Energy Level Codes\Inferno]
+Type = Gameshark
+Activation = EndFrame
+300729BA 0003
+
+[Max Parasite Energy Level Codes\Necrosis]
+Type = Gameshark
+Activation = EndFrame
+300729BB 0003
+
+[Max Parasite Energy Level Codes\Plasma]
+Type = Gameshark
+Activation = EndFrame
+300729BC 0003
+
+[Max Parasite Energy Level Codes\Apobiosis]
+Type = Gameshark
+Activation = EndFrame
+300729BD 0003
+
+[Max Parasite Energy Level Codes\Metabolism]
+Type = Gameshark
+Activation = EndFrame
+300729BE 0003
+
+[Max Parasite Energy Level Codes\Healing]
+Type = Gameshark
+Activation = EndFrame
+300729BF 0003
+
+[Max Parasite Energy Level Codes\Lifedrain]
+Type = Gameshark
+Activation = EndFrame
+300729C0 0003
+
+[Max Parasite Energy Level Codes\Antibody]
+Type = Gameshark
+Activation = EndFrame
+300729C1 0003
+
+[Max Parasite Energy Level Codes\Energyshot]
+Type = Gameshark
+Activation = EndFrame
+300729C2 0003
+
+[Max Parasite Energy Level Codes\Energyball]
+Type = Gameshark
+Activation = EndFrame
+300729C3 0003
+
+[Max Parasite Energy Level Codes\Max Parasite Energy Levels]
+Type = Gameshark
+Activation = EndFrame
+50000602 0000
+800729B8 0303
+
+[Max Parasite Energy Level Codes\Max Item Slots]
+Type = Gameshark
+Activation = EndFrame
+30072725 0084
+
+[Max Items All Slots]
+Type = Gameshark
+Activation = EndFrame
+50008404 0000
+80072316 03E7
+
+[Invincibility (No Hit)]
+Type = Gameshark
+Activation = EndFrame
+F40DBDC8 00AA0800
+AAAA4010 21208002
+2128AAAA AAAAAAAA
+AAAA00AA AAAAAAAA
+AAAAAAAA AAAAAAAA
+F40DBC1C 00AA0800
+AAAA4010 02006230
+AAAA40AA AAAAAAAA
+AAAA00AA AAAAAAAA
+AAAAAAAA AAAAAAAA
+
+[Quick Turn (Up + L2)]
+Type = Gameshark
+Activation = EndFrame
+E0071625 00000010
+E0071626 00000001
+61092582 000003E8
+

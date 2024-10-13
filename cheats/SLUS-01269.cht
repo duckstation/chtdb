@@ -1,0 +1,19 @@
+; CHTDB: ; [ Knockout Kings 2001 (USA) (2000) (Electronic Arts) {SLUS-01269} <kokng2k1> ]
+
+[Infinite Health P1 Only]
+Type = Gameshark
+Activation = EndFrame
+90030CE0 0276082B
+80030CE6 1420
+
+[Infinite Stamina P1 Only]
+Type = Gameshark
+Activation = EndFrame
+90022B64 24010001
+80022B6A 102B
+
+[Infinite Creation Points]
+Type = Gameshark
+Activation = EndFrame
+800ED0EE 03E7
+

@@ -1,0 +1,198 @@
+; CHTDB: ; [ Vampire Hunter D (USA) (2000) (Jaleco USA) {SLUS-01138} <vhuntd> ]
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800A2904 00C8
+
+[Infinite VP]
+Type = Gameshark
+Activation = EndFrame
+800A291C 0019
+
+[Infinite Left Hand Power]
+Type = Gameshark
+Activation = EndFrame
+800A2920 0047
+
+[Always Have Left Hand]
+Type = Gameshark
+Activation = EndFrame
+300A2D28 0001
+
+[Have All Items]
+Type = Gameshark
+Activation = EndFrame
+50002401 0000
+300A2D28 0063
+
+[Have Vampeal Powers]
+Type = Gameshark
+Activation = EndFrame
+800A294E 0000
+
+[Have Map B1]
+Type = Gameshark
+Activation = EndFrame
+300A2D33 0001
+
+[Have Map B2]
+Type = Gameshark
+Activation = EndFrame
+300A2D32 0001
+
+[Have Map Level 1]
+Type = Gameshark
+Activation = EndFrame
+300A2D30 0001
+
+[Have Map Level 2]
+Type = Gameshark
+Activation = EndFrame
+300A2D31 0001
+
+[Have Map Level 3]
+Type = Gameshark
+Activation = EndFrame
+300A2D34 0001
+
+[Have Map Level 4]
+Type = Gameshark
+Activation = EndFrame
+300A2D35 0001
+
+[Have Map Moon Tower]
+Type = Gameshark
+Activation = EndFrame
+300A2D37 0001
+
+[Have Map Sun Tower]
+Type = Gameshark
+Activation = EndFrame
+300A2D36 0001
+
+[Have Blue Key]
+Type = Gameshark
+Activation = EndFrame
+300A2D45 0001
+
+[Have Gold Plate]
+Type = Gameshark
+Activation = EndFrame
+300A2D3B 0001
+
+[Have Green Gem]
+Type = Gameshark
+Activation = EndFrame
+300A2D43 0001
+
+[Have Leila's Gun]
+Type = Gameshark
+Activation = EndFrame
+300A2D47 0001
+
+[Have Mirror Room Key]
+Type = Gameshark
+Activation = EndFrame
+300A2D40 0001
+
+[Have Moon Tower Key]
+Type = Gameshark
+Activation = EndFrame
+300A2D42 0001
+
+[Have Music Box Key]
+Type = Gameshark
+Activation = EndFrame
+300A2D4B 0001
+
+[Have No Vampeal Powers]
+Type = Gameshark
+Activation = EndFrame
+800A294E 0001
+
+[Have Plate of Earth]
+Type = Gameshark
+Activation = EndFrame
+300A2D3F 0001
+
+[Have Plate of Fire]
+Type = Gameshark
+Activation = EndFrame
+300A2D3C 0001
+
+[Have Plate of Water]
+Type = Gameshark
+Activation = EndFrame
+300A2D3D 0001
+
+[Have Plate of Wind]
+Type = Gameshark
+Activation = EndFrame
+300A2D3E 0001
+
+[Have Power Plug]
+Type = Gameshark
+Activation = EndFrame
+300A2D38 0001
+
+[Have Purple Gem]
+Type = Gameshark
+Activation = EndFrame
+300A2D44 0001
+
+[Have Red Key]
+Type = Gameshark
+Activation = EndFrame
+300A2D46 0001
+
+[Have Silver Plate]
+Type = Gameshark
+Activation = EndFrame
+300A2D3A 0001
+
+[Have Sun Tower Key]
+Type = Gameshark
+Activation = EndFrame
+300A2D41 0001
+
+[Have Wrench]
+Type = Gameshark
+Activation = EndFrame
+300A2D4A 0001
+
+[Have 99 Antidotes]
+Type = Gameshark
+Activation = EndFrame
+300A2D2E 0063
+
+[Have 99 Blood Pills]
+Type = Gameshark
+Activation = EndFrame
+300A2D2D 0063
+
+[Have 99 Elemental Stones]
+Type = Gameshark
+Activation = EndFrame
+300A2D2F 0063
+
+[Have 99 Flash Bombs]
+Type = Gameshark
+Activation = EndFrame
+300A2D2B 0063
+
+[Have 99 Hand Grenades]
+Type = Gameshark
+Activation = EndFrame
+300A2D2A 0063
+
+[Have 99 Potions]
+Type = Gameshark
+Activation = EndFrame
+300A2D2C 0063
+
+[Have 99 Wooden Darts]
+Type = Gameshark
+Activation = EndFrame
+300A2D29 0063
+

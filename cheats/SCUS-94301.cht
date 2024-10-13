@@ -1,0 +1,54 @@
+; CHTDB: ; [ WipEout (USA) (1995) (Psygnosis) {SCUS-94301} <wipeout> ]
+
+[Enable Rapier Mode]
+Type = Gameshark
+Activation = EndFrame
+A61F701A 00010101
+
+[Enable Rapier Levels]
+Type = Gameshark
+Activation = EndFrame
+D01F701A 0101
+801F7046 0101
+
+[Infinite Race Re-Starts]
+Description = Only at these settings - 1 Player, Weaponclass,Championship, AB System, John Dekka.
+Type = Gameshark
+Activation = EndFrame
+A61F7014 08020803
+
+[Infinite Race Re-Starts]
+Type = Gameshark
+Activation = EndFrame
+8003AD54 0000
+
+[Infinite Rockets (On Pickup)]
+Type = Gameshark
+Activation = EndFrame
+80028B0C 0000
+
+[Infinite Turbo's (On Pickup)]
+Type = Gameshark
+Activation = EndFrame
+80028D7C 0000
+
+[Infinite Shields (On Pickup)]
+Type = Gameshark
+Activation = EndFrame
+80028CA0 0000
+
+[Infinite Mines (On Pickup)]
+Type = Gameshark
+Activation = EndFrame
+80028BC0 0000
+
+[Infinite Missiles (On Pickup)]
+Type = Gameshark
+Activation = EndFrame
+80028B58 0000
+
+[Infinite Shockwaves (On Pickup)]
+Type = Gameshark
+Activation = EndFrame
+80028C18 0000
+

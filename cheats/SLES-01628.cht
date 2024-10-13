@@ -1,0 +1,73 @@
+; CHTDB: ; [ Trap Runner (Europe) {SLES-01628} ]
+
+[P1 Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+80127AC2 03E8
+80127AC4 03E8
+
+[P2 Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+801284CA 03E8
+801284CC 03E8
+
+[P1 Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+30127B05 0009
+
+[P2 Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+3012850D 0009
+
+[P1 Infinite Traps]
+Type = Gameshark
+Activation = EndFrame
+50000403 0000
+30127AA8 0009
+
+[P2 Infinite Traps]
+Type = Gameshark
+Activation = EndFrame
+50000403 0000
+301284B0 0009
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+9010B658 000249EF
+
+[Unlock Extras]
+Type = Gameshark
+Activation = EndFrame
+30126D87 0001
+80126D88 0101
+
+[All levels unlocked]
+Type = Gameshark
+Activation = EndFrame
+80126D9A 0100
+
+[All Characters unlocked]
+Type = Gameshark
+Activation = EndFrame
+80126D8E 0101
+80126D90 0101
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A713A920 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A713A920 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A713A920 10000400
+

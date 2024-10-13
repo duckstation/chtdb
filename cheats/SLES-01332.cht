@@ -1,0 +1,18 @@
+; CHTDB: ; [ Live Wire! (Europe) {SLES-01332} ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8014A926 0064
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+8013A1F4 000C
+
+[All levels selectable]
+Type = Gameshark
+Activation = EndFrame
+D0179570 122B
+801E9194 0001
+

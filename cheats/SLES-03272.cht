@@ -1,0 +1,29 @@
+; CHTDB: ; [ Disney's El Rey Leon: Las Aventuras del Poderoso Simba (Spain) {SLES-03272} ]
+
+[Energia Infinita]
+Type = Gameshark
+Activation = EndFrame
+8007565C 03FC
+
+[Vidas Infinitas]
+Type = Gameshark
+Activation = EndFrame
+80075660 03FC
+
+[All Levels Unlocked]
+Type = Gameshark
+Activation = EndFrame
+50000901 0000
+8007A00A 0001
+
+[Have All Movies]
+Type = Gameshark
+Activation = EndFrame
+50000901 0000
+3007A076 0001
+
+[All Minigames Unlocked 99 pumpkins]
+Type = Gameshark
+Activation = EndFrame
+800EB654 0063
+

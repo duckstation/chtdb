@@ -1,0 +1,69 @@
+; CHTDB: ; [ Pal: Shinken Densetsu (Japan) {SLPS-00346} ]
+
+[Infinite Energy dog]
+Type = Gameshark
+Activation = EndFrame
+8008B1F8 03E7
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+901AF018 0098967F
+
+[Infinite Herb]
+Type = Gameshark
+Activation = EndFrame
+800D7448 0003
+
+[Infinite Life Main Character]
+Type = Gameshark
+Activation = EndFrame
+80098728 00FA
+
+[Infinite Life Second Character]
+Type = Gameshark
+Activation = EndFrame
+80098B54 0064
+
+[Infinite Swords Magic]
+Type = Gameshark
+Activation = EndFrame
+8009872C FA00
+
+[Double Magic Sword Slash (Press R2)]
+Type = Gameshark
+Activation = EndFrame
+D00BB2F8 0002
+800BCAC8 0028
+
+[No random battles]
+Type = Gameshark
+Activation = EndFrame
+900B71F8 FFFFFFFF
+
+[Maximum HP]
+Type = Gameshark
+Activation = EndFrame
+8008B1EC 270F
+
+[Maximum MP]
+Type = Gameshark
+Activation = EndFrame
+8008B1EE 270F
+
+[HP currently]
+Type = Gameshark
+Activation = EndFrame
+8008B1F8 270F
+
+[MP now]
+Type = Gameshark
+Activation = EndFrame
+8008B1FA 270F
+
+[Possession ¥]
+Type = Gameshark
+Activation = EndFrame
+800B7870 967F
+300B7872 0098
+

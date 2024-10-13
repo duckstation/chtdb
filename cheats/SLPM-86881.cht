@@ -1,0 +1,24 @@
+; CHTDB: ; [ Tokimeki Memorial 2 Substories Vol.3 - Memories Ringing On (Jpn) (2001) (Konami) {SLPM-86881~SLPM-86882 (VX247-J1)} <tkm2sub3> ]
+
+[Bonus selectable]
+Type = Gameshark
+Activation = EndFrame
+80010870 0001
+
+[Mini-games can be selected]
+Type = Gameshark
+Activation = EndFrame
+30010875 0001
+30010876 0001
+
+[Album fully open]
+Type = Gameshark
+Activation = EndFrame
+A7053B12 10601400
+
+[Album fully open Alt]
+Type = Gameshark
+Activation = EndFrame
+800108A8 0101
+80010988 0001
+

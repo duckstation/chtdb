@@ -1,0 +1,95 @@
+; CHTDB: ; [ Black Matrix Cross (Jpn) (2000) (NEC Interchannel) {SLPS-02962~SLPS-02963 (NIPS-4011)} <blackmtx> ]
+
+[Infinite HP Char 1]
+Type = Gameshark
+Activation = EndFrame
+800B3F64 03E7
+
+[Infinite HP Char 2]
+Type = Gameshark
+Activation = EndFrame
+800B3FB4 03E7
+
+[Infinite HP Char 3]
+Type = Gameshark
+Activation = EndFrame
+800B4054 03E7
+
+[Infinite HP Char 4]
+Type = Gameshark
+Activation = EndFrame
+800B4004 03E7
+
+[Infinite HP Char 5]
+Type = Gameshark
+Activation = EndFrame
+800B40A4 03E7
+
+[Infinite HP Char 6]
+Type = Gameshark
+Activation = EndFrame
+800B40F4 03E7
+
+[Money 999999]
+Type = Gameshark
+Activation = EndFrame
+9008774C 0001869F
+
+[BP/Blood 9999999]
+Type = Gameshark
+Activation = EndFrame
+90087748 0001869F
+
+[T 999]
+Type = Gameshark
+Activation = EndFrame
+801307C2 03E7
+
+[Turn 1]
+Type = Gameshark
+Activation = EndFrame
+801307C0 0001
+
+[Exp 999999]
+Type = Gameshark
+Activation = EndFrame
+90087750 0001869F
+
+[P1 HP / BP 999]
+Type = Gameshark
+Activation = EndFrame
+900B3F64 03E703E7
+900B3F68 03E703E7
+900B3F6C 03E703E7
+
+[P1 STR / INT / VIT / DEX 999]
+Type = Gameshark
+Activation = EndFrame
+900B3F70 03E703E7
+800B3F76 03E7
+800B3F78 03E7
+900B3F7C 03E703E7
+800B3F82 03E7
+800B3F84 03E7
+
+[P2 HP / BP 999]
+Type = Gameshark
+Activation = EndFrame
+900B3FB4 03E703E7
+900B3FB8 03E703E7
+900B3FBC 03E703E7
+
+[P3 HP / BP 999]
+Type = Gameshark
+Activation = EndFrame
+900B4004 03E703E7
+900B4008 03E703E7
+900B400C 03E703E7
+
+[P4 HP / BP 999]
+Type = Gameshark
+Activation = EndFrame
+900B4054 03E703E7
+900B4058 03E703E7
+900B405C 03E703E7
+

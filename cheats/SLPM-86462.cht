@@ -1,0 +1,52 @@
+; CHTDB: ; [ The King of Fighters '99 (Jpn) (2000) (SNK) {SLPM-86462} <kof99j> ]
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800B9174 0065
+
+[P1 No Energy]
+Type = Gameshark
+Activation = EndFrame
+800B9174 0000
+
+[P1 Max Power Bar]
+Type = Gameshark
+Activation = EndFrame
+800B9130 9000
+
+[P2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800B934C 0065
+
+[P2 No Energy]
+Type = Gameshark
+Activation = EndFrame
+800B934C 0000
+
+[P2 Max Bar=20]
+Type = Gameshark
+Activation = EndFrame
+800B9308 9000
+
+[P2 No Power Bar]
+Type = Gameshark
+Activation = EndFrame
+800B9308 0000
+
+[Infinite Fight Time]
+Type = Gameshark
+Activation = EndFrame
+800BA002 2060
+
+[Art Gallery all unlocked]
+Type = Gameshark
+Activation = EndFrame
+8008DC82 FFFF
+
+[DEMO Gallery All Unlocked]
+Type = Gameshark
+Activation = EndFrame
+8008DC80 FFFF
+

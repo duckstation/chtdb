@@ -1,0 +1,73 @@
+; CHTDB: ; [ Ore no Shikabane o Koete Yuke (Japan) {SCPS-10074} ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+90065F0C 0098967F
+
+[Max Exp]
+Type = Gameshark
+Activation = EndFrame
+90065F10 0098967F
+80065F14 FFFF
+
+[Fast Level Up]
+Type = Gameshark
+Activation = EndFrame
+8011E3A4 FFFF
+
+[Enemy Display]
+Type = Gameshark
+Activation = EndFrame
+80061B90 00FF
+
+[Map display]
+Type = Gameshark
+Activation = EndFrame
+80061B98 00FF
+
+[Repel enemy]
+Type = Gameshark
+Activation = EndFrame
+80061BA6 00FF
+
+[Stop enemy]
+Type = Gameshark
+Activation = EndFrame
+80061BB8 00FF
+
+[God release]
+Type = Gameshark
+Activation = EndFrame
+30066EDF 00FF
+
+[Win / victory point dedication point]
+Type = Gameshark
+Activation = EndFrame
+9011E3A4 0098967F
+
+[Health	Max]
+Type = Gameshark
+Activation = EndFrame
+80062267 0080
+
+[Chushin]
+Type = Gameshark
+Activation = EndFrame
+8006226B 0080
+
+[Victory]
+Type = Gameshark
+Activation = EndFrame
+9006226C 05F5E0FF
+
+[All Arts]
+Type = Gameshark
+Activation = EndFrame
+3006227F 00FF
+
+[All Mystery]
+Type = Gameshark
+Activation = EndFrame
+3006228B 00F0
+

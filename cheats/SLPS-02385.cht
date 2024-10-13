@@ -1,0 +1,91 @@
+; CHTDB: ; [ Kouklotheatro - Yuukyuu no Hitomi (Jpn) (1999) (Sunsoft) {SLPS-02385} <koukrose> ]
+
+[Infinite Health Luke Maximum HP]
+Type = Gameshark
+Activation = EndFrame
+8008F50A 03E7
+
+[Infinite MP Luke]
+Type = Gameshark
+Activation = EndFrame
+8008F50C 03E7
+
+[Luke LV 99]
+Type = Gameshark
+Activation = EndFrame
+3008F506 0063
+
+[Infinite Health Magic Puppet first]
+Type = Gameshark
+Activation = EndFrame
+8008F554 03E7
+
+[Infinite MP Magic Puppet first]
+Type = Gameshark
+Activation = EndFrame
+8008F556 03E7
+
+[Infinite Health Magic Puppet Second]
+Type = Gameshark
+Activation = EndFrame
+8008F59E 03E7
+
+[Infinite MP Magic Puppet Second]
+Type = Gameshark
+Activation = EndFrame
+8008F5A0 03E7
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+800C1926 270F
+
+[Ma Bae Mont picture book]
+Type = Gameshark
+Activation = EndFrame
+5000B801 0000
+3008F9A8 0001
+
+[Infinite HP during combat hero]
+Type = Gameshark
+Activation = EndFrame
+8008FA7E 03E7
+
+[Infinite MP during combat hero]
+Type = Gameshark
+Activation = EndFrame
+8008FA80 03E7
+
+[When you attack directly 1LVUP HBP]
+Type = Gameshark
+Activation = EndFrame
+D00EB276 9462
+900EB27C 24020064
+
+[HP does not decrease even if the attack directly]
+Type = Gameshark
+Activation = EndFrame
+D00EB084 2021
+800EB086 0000
+
+[Not decrease HP Both are also magic attack]
+Type = Gameshark
+Activation = EndFrame
+D00EB6E8 1021
+800EB6EA 0000
+
+[Move map All Clear]
+Type = Gameshark
+Activation = EndFrame
+3008F9A4 00FF
+
+[Original character appearance]
+Type = Gameshark
+Activation = EndFrame
+3008F9A5 0001
+
+[Mapemon picture book display]
+Type = Gameshark
+Activation = EndFrame
+3008FFFF 0001
+

@@ -1,0 +1,32 @@
+; CHTDB: ; [ Rageball (USA) (2002) (Agetec / A1 Games) {SLUS-01461} <rageball> ]
+
+[P1 Max Points]
+Type = Gameshark
+Activation = EndFrame
+800D6990 0063
+
+[P1 No Points]
+Type = Gameshark
+Activation = EndFrame
+800D6990 0000
+
+[P1 Max Coins]
+Type = Gameshark
+Activation = EndFrame
+800E08D8 270F
+
+[P2 No Points]
+Type = Gameshark
+Activation = EndFrame
+800D6992 0000
+
+[P2 No Coins]
+Type = Gameshark
+Activation = EndFrame
+800E0A24 0000
+
+[P2 Max Points]
+Type = Gameshark
+Activation = EndFrame
+800D6992 0063
+

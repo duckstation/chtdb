@@ -1,0 +1,17 @@
+; CHTDB: ; [ Total Eclipse Turbo (Europe) {SLES-00046} ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800767E0 0005
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80079188 FED4
+
+[Infinite Bombs]
+Type = Gameshark
+Activation = EndFrame
+80078F14 0003
+

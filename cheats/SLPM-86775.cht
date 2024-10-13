@@ -1,0 +1,24 @@
+; CHTDB: ; [ Tokimeki Memorial 2 Substories Vol.2 - Leaping School Festival (Jpn) (2001) (Konami) {SLPM-86775~SLPM-86776 (VX232-J1)} <tkm2sub2> ]
+
+[Bonus selectable]
+Type = Gameshark
+Activation = EndFrame
+80012800 0001
+
+[Mini-games can be selected]
+Type = Gameshark
+Activation = EndFrame
+80012806 0101
+80012808 0001
+
+[Album fully open]
+Type = Gameshark
+Activation = EndFrame
+A703F906 10601400
+
+[Album fully open aLT]
+Type = Gameshark
+Activation = EndFrame
+80012834 0101
+800128CA 0001
+

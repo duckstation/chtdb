@@ -1,0 +1,33 @@
+; CHTDB: ; [ Star Wars - Rebel Assault II - The Hidden Empire (USA) (1996) (LucasArts Entertainment Company) {SLUS-00381 / SLUS-00386} <swra2> ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800E5AF0 000A
+
+[Infinite Shield]
+Type = Gameshark
+Activation = EndFrame
+800C07C8 1000
+800C07CC 1000
+
+[Enables All Levels]
+Type = Gameshark
+Activation = EndFrame
+800C6C48 0010
+
+[Select Speed\Slow Motion]
+Type = Gameshark
+Activation = EndFrame
+A6097BB4 00050009
+
+[Select Speed\Hyper Mode]
+Type = Gameshark
+Activation = EndFrame
+A6097BB4 00050000
+
+[Max Score]
+Type = Gameshark
+Activation = EndFrame
+900C0130 05F5E0FF
+

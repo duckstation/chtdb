@@ -1,0 +1,7 @@
+; CHTDB: ; [ SimCity 2000 (Europe) {SLES-00471} ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+800EC620 FFFF
+

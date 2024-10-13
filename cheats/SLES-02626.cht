@@ -1,0 +1,35 @@
+; CHTDB: ; [ Army Men: Sarge's Heroes (Europe) {SLES-02626} ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80105928 012C
+
+[Infinite Health partner (1st mission)]
+Type = Gameshark
+Activation = EndFrame
+8010AFC8 00C8
+
+[Infinite Ammo (Boot Camp)]
+Type = Gameshark
+Activation = EndFrame
+80142FD6 03E7
+80142E76 03E7
+80143086 03E7
+80142F26 03E7
+80143136 03E7
+80153296 270F
+
+[Infinite Ammo (All weapons)]
+Type = Gameshark
+Activation = EndFrame
+D0075032 00A3
+80075036 2400
+D007756A 0082
+8007756E 2400
+
+[Hyper Mode (Boot Camp)]
+Type = Gameshark
+Activation = EndFrame
+80137130 0000
+

@@ -1,0 +1,12 @@
+; CHTDB: ; [ Fighting Illusion: K-1 Grand Prix (Japan) {SLPS-00340} ]
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800B1F3C 03E8
+
+[P2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800B1F40 03E8
+

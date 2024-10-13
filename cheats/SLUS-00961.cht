@@ -1,0 +1,249 @@
+; CHTDB: ; [ Madden NFL 2000 (USA) (1999) (Electronic Arts) {SLUS-00961} <madden2k> ]
+
+[Select Home Team Score\9]
+Type = Gameshark
+Activation = EndFrame
+80071FA2 0009
+
+[Select Home Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+80071FA2 0000
+
+[Select Away Team Score\9]
+Type = Gameshark
+Activation = EndFrame
+80074DA2 0009
+
+[Select Away Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+80074DA2 0000
+
+[2000+ Madden Points/All Cheats Enabled]
+Type = Gameshark
+Activation = EndFrame
+D00616C6 801D
+50000F02 0000
+80156FF0 9999
+
+[2000+ Madden Points/All Cheats Enabled Alternate]
+Type = Gameshark
+Activation = EndFrame
+C00616C6 801D
+90156FF0 99999999
+90156FF4 99999999
+90156FF8 99999999
+90156FFC 99999999
+90157000 99999999
+90157004 99999999
+90157008 99999999
+9015700C 99999999
+00000000 FFFF
+
+[Unlock Team\All 60's]
+Type = Gameshark
+Activation = EndFrame
+30065030 00FF
+
+[Unlock Team\All 70's]
+Type = Gameshark
+Activation = EndFrame
+30065031 00FF
+
+[Unlock Team\All 80's]
+Type = Gameshark
+Activation = EndFrame
+30065032 00FF
+
+[Unlock Team\All 90's]
+Type = Gameshark
+Activation = EndFrame
+30065033 00FF
+
+[Unlock Team\Madden 1999]
+Type = Gameshark
+Activation = EndFrame
+30065034 00FF
+
+[Unlock Team\Madden Millenium]
+Type = Gameshark
+Activation = EndFrame
+30065035 00FF
+
+[Unlock Team\Nfl Millenium]
+Type = Gameshark
+Activation = EndFrame
+30065036 00FF
+
+[Unlock Team\Ea Sports]
+Type = Gameshark
+Activation = EndFrame
+30065037 00FF
+
+[Unlock Team\Tiburon]
+Type = Gameshark
+Activation = EndFrame
+30065038 00FF
+
+[Unlock Team\Marshells]
+Type = Gameshark
+Activation = EndFrame
+30065039 00FF
+
+[Unlock Team\Tomahawks]
+Type = Gameshark
+Activation = EndFrame
+3006503A 00FF
+
+[Unlock Team\Clowns]
+Type = Gameshark
+Activation = EndFrame
+3006503B 00FF
+
+[Unlock Team\Praetorians]
+Type = Gameshark
+Activation = EndFrame
+3006503C 00FF
+
+[Unlock Team\Junkyard Dogs]
+Type = Gameshark
+Activation = EndFrame
+3006503D 00FF
+
+[Unlock Team\Industrials]
+Type = Gameshark
+Activation = EndFrame
+3006503E 00FF
+
+[Unlock Team\Sugarbuzz]
+Type = Gameshark
+Activation = EndFrame
+3006503F 00FF
+
+[Unlock Team\Mummies]
+Type = Gameshark
+Activation = EndFrame
+30065040 00FF
+
+[Unlock Team\Viper]
+Type = Gameshark
+Activation = EndFrame
+30065041 00FF
+
+[Unlock Team\Monsters]
+Type = Gameshark
+Activation = EndFrame
+30065042 00FF
+
+[Unlock Team\Comets]
+Type = Gameshark
+Activation = EndFrame
+30065043 00FF
+
+[Unlock Team\81 Dolphins]
+Type = Gameshark
+Activation = EndFrame
+30065044 00FF
+
+[Unlock Team\81 Chargers]
+Type = Gameshark
+Activation = EndFrame
+30065045 00FF
+
+[Unlock Team\76 Raiders]
+Type = Gameshark
+Activation = EndFrame
+30065046 00FF
+
+[Unlock Team\78 Patriots]
+Type = Gameshark
+Activation = EndFrame
+30065047 00FF
+
+[Unlock Team\97 Packers]
+Type = Gameshark
+Activation = EndFrame
+30065048 00FF
+
+[Unlock Team\97 Broncos]
+Type = Gameshark
+Activation = EndFrame
+30065049 00FF
+
+[Unlock Team\85 Dolphins]
+Type = Gameshark
+Activation = EndFrame
+3006504A 00FF
+
+[Unlock Team\85 Bears]
+Type = Gameshark
+Activation = EndFrame
+3006504B 00FF
+
+[Unlock Team\90 Giants]
+Type = Gameshark
+Activation = EndFrame
+3006504C 00FF
+
+[Unlock Team\90 Bills]
+Type = Gameshark
+Activation = EndFrame
+3006504D 00FF
+
+[Unlock Team\86 Browns]
+Type = Gameshark
+Activation = EndFrame
+3006504E 00FF
+
+[Unlock Team\86 Broncos]
+Type = Gameshark
+Activation = EndFrame
+3006504F 00FF
+
+[Unlock Team\88 49Ers]
+Type = Gameshark
+Activation = EndFrame
+30065050 00FF
+
+[Unlock Team\88 Bengals]
+Type = Gameshark
+Activation = EndFrame
+30065051 00FF
+
+[Unlock Team\72 Steelers]
+Type = Gameshark
+Activation = EndFrame
+30065052 00FF
+
+[Unlock Team\72 Raiders]
+Type = Gameshark
+Activation = EndFrame
+30065053 00FF
+
+[Unlock Team\95 Steelers]
+Type = Gameshark
+Activation = EndFrame
+30065054 00FF
+
+[Unlock Team\95 Colts]
+Type = Gameshark
+Activation = EndFrame
+30065055 00FF
+
+[Unlock Team\92 Bills]
+Type = Gameshark
+Activation = EndFrame
+30065056 00FF
+
+[Unlock Team\92 Oilers]
+Type = Gameshark
+Activation = EndFrame
+30065057 00FF
+
+[Unlock Team\All Teams]
+Type = Gameshark
+Activation = EndFrame
+50001402 0000
+80065030 FFFF
+

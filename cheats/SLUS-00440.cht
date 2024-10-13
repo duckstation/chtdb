@@ -1,0 +1,42 @@
+; CHTDB: ; [ Reel Fishing (USA) (1997) (Natsume) {SLUS-00440} <reelfish> ]
+
+[Catch + Release 100 Fish]
+Type = Gameshark
+Activation = EndFrame
+800C662A 0064
+
+[Have 100 Brook Trout]
+Type = Gameshark
+Activation = EndFrame
+800C6690 0064
+
+[Have 100 Char]
+Type = Gameshark
+Activation = EndFrame
+800C66A8 0064
+
+[Have 100 Bitterling]
+Type = Gameshark
+Activation = EndFrame
+800C66C0 0064
+
+[Have 100 Carp]
+Type = Gameshark
+Activation = EndFrame
+800C66D8 0064
+
+[Have 100 Black Bass]
+Type = Gameshark
+Activation = EndFrame
+800C66F0 0064
+
+[Fish Size to complete Level 1 and 2]
+Type = Gameshark
+Activation = EndFrame
+800FE8BE 000A
+
+[Fish Size to complete Level 3 and 4]
+Type = Gameshark
+Activation = EndFrame
+800FE8BE 0014
+

@@ -1,0 +1,98 @@
+; CHTDB: ; [ LiberoGrande (Japan) {SLPS-01681} ]
+
+[All Hidden Players]
+Type = Gameshark
+Activation = EndFrame
+900E9C18 01010101
+900E9C1C 01010101
+900E9C20 01010101
+
+[Speed]
+Type = Gameshark
+Activation = EndFrame
+801377B6 0080
+801377BC 0080
+
+[Short Pow]
+Type = Gameshark
+Activation = EndFrame
+801377B8 0080
+801377BE 0080
+
+[Skill]
+Type = Gameshark
+Activation = EndFrame
+801377BA 0080
+801377C0 0080
+
+[Our Team Score]
+Type = Gameshark
+Activation = EndFrame
+80129200 0009
+
+[Opponent's Team Scores 0]
+Type = Gameshark
+Activation = EndFrame
+80129200 0000
+80129204 0000
+
+[Our Country Record\Shots]
+Type = Gameshark
+Activation = EndFrame
+301290F6 0063
+
+[Our Country Record\Corner Kicks]
+Type = Gameshark
+Activation = EndFrame
+301290F7 0063
+
+[Our Country Record\Free Kicks]
+Type = Gameshark
+Activation = EndFrame
+301290F9 0063
+
+[Our Country Record\P.K]
+Type = Gameshark
+Activation = EndFrame
+301290FA 0063
+
+[Our Country Record\Possession]
+Type = Gameshark
+Activation = EndFrame
+901290FC 00640064
+
+[Other Country Record\Shots]
+Type = Gameshark
+Activation = EndFrame
+30129106 0000
+
+[Other Country Record\Corner Kicks]
+Type = Gameshark
+Activation = EndFrame
+30129107 0000
+
+[Other Country Record\Free Kicks]
+Type = Gameshark
+Activation = EndFrame
+30129109 0000
+
+[Other Country Record\P.K]
+Type = Gameshark
+Activation = EndFrame
+3012910A 0000
+
+[Other Country Record\Offside]
+Type = Gameshark
+Activation = EndFrame
+3012910B 0000
+
+[Other Country Record\Possession]
+Type = Gameshark
+Activation = EndFrame
+9012910C 00000000
+
+[Other Country Record\Over Time]
+Type = Gameshark
+Activation = EndFrame
+301290CC 0000
+

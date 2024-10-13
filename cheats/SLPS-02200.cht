@@ -1,0 +1,67 @@
+; CHTDB: ; [ SD Gundam G - Generation-0 (Jpn) (1999) (Bandai) {SLPS-02200~SLPS-02202} <sdgungg0> ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+90180360 00989676
+
+[Ship 1\Now HP 65535]
+Type = Gameshark
+Activation = EndFrame
+801365C8 FFFF
+
+[Ship 1\Max HP 65535]
+Type = Gameshark
+Activation = EndFrame
+800D6E30 FFFF
+
+[Ship 1\Now En 999]
+Type = Gameshark
+Activation = EndFrame
+801365CA 07CE
+
+[Ship 1\Max En 999]
+Type = Gameshark
+Activation = EndFrame
+800D6E2E 07CE
+
+[Ship 1\Max Act]
+Type = Gameshark
+Activation = EndFrame
+300D6E34 0063
+
+[Ship 1\Max Def]
+Type = Gameshark
+Activation = EndFrame
+300D6E35 0031
+
+[Ship 2\Now HP 65535]
+Type = Gameshark
+Activation = EndFrame
+801365D0 FFFF
+
+[Ship 2\Max HP 65535]
+Type = Gameshark
+Activation = EndFrame
+800D6DB0 FFFF
+
+[Ship 2\Now En 999]
+Type = Gameshark
+Activation = EndFrame
+801365D2 07CE
+
+[Ship 2\Max En 999]
+Type = Gameshark
+Activation = EndFrame
+800D6EAE 07CE
+
+[Ship 2\Max Act]
+Type = Gameshark
+Activation = EndFrame
+300D6EB4 0063
+
+[Ship 2\Max Def]
+Type = Gameshark
+Activation = EndFrame
+300D6EB5 0031
+

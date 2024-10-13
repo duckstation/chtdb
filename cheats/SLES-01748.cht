@@ -1,0 +1,12 @@
+; CHTDB: ; [ Astérix (Europe) {SLES-01748} ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80089DAC 005A
+
+[Infinite Potions Distribution]
+Type = Gameshark
+Activation = EndFrame
+8011E7C6 000A
+

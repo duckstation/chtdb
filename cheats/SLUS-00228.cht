@@ -1,0 +1,22 @@
+; CHTDB: ; [ Big Bass World Championship (USA) (1997) (HOT-B USA) {SLUS-00228} <bbwc> ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800977B8 0000
+
+[No Tension On Line]
+Type = Gameshark
+Activation = EndFrame
+9007B9D0 00000000
+
+[Infinite Bright Lures]
+Type = Gameshark
+Activation = EndFrame
+9004D278 00000000
+
+[Infinite Natural Lures]
+Type = Gameshark
+Activation = EndFrame
+9004D264 00000000
+

@@ -1,0 +1,17 @@
+; CHTDB: ; [ Metal Fist (Jpn) (1998) (Electronic Arts) {SLPS-01164} <metalfst> ]
+
+[P1 Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800B2BA2 017C
+
+[P2 Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800B2C92 017C
+
+[Infinite Hand Gun]
+Type = Gameshark
+Activation = EndFrame
+800995D2 0007
+

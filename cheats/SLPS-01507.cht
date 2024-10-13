@@ -1,0 +1,333 @@
+; CHTDB: ; [ Doki Doki Pretty League: Nekketsu Otome Seishunki (Japan) {SLPS-01507 | SLPS-01508 | SLPS-01509} ]
+
+[Top Status After Training]
+Type = Gameshark
+Activation = EndFrame
+9003C75C 340400C8
+
+[Tried Level 0]
+Type = Gameshark
+Activation = EndFrame
+8002515A A220
+8003C826 A020
+
+[Max Love Level]
+Type = Gameshark
+Activation = EndFrame
+800324AA 1400
+
+[Infinite Intensity Level]
+Type = Gameshark
+Activation = EndFrame
+800656DE 0040
+
+[Unlock bonus]
+Type = Gameshark
+Activation = EndFrame
+3014ABE3 0080
+
+[Happy Ending Nonomura Chiaki Hara]
+Type = Gameshark
+Activation = EndFrame
+8014AC58 0000
+
+[Happy Ending Makino Izumi]
+Type = Gameshark
+Activation = EndFrame
+8014ACC8 0000
+
+[Happy Ending Kaoru Takizawa]
+Type = Gameshark
+Activation = EndFrame
+8014AD38 0000
+
+[Happy Ending Reiko Nakayama]
+Type = Gameshark
+Activation = EndFrame
+8014ADA8 0000
+
+[Happy Ending Shallow Mayumi]
+Type = Gameshark
+Activation = EndFrame
+8014AE18 0000
+
+[Happy Ending Sunaga Tomomi]
+Type = Gameshark
+Activation = EndFrame
+8014AE88 0000
+
+[Happy Ending Kimura Yuka]
+Type = Gameshark
+Activation = EndFrame
+8014AEF8 0000
+
+[Happy Ending Hiroko Kawai]
+Type = Gameshark
+Activation = EndFrame
+8014AF68 0000
+
+[Happy Ending HayashiKyoko]
+Type = Gameshark
+Activation = EndFrame
+8014AFD8 0000
+
+[Happy Ending Minazuki Aoi]
+Type = Gameshark
+Activation = EndFrame
+8014B048 0000
+
+[Happy Ending Minako Kudo]
+Type = Gameshark
+Activation = EndFrame
+8014B0B8 0000
+
+[Happy Ending Sendo Alisa]
+Type = Gameshark
+Activation = EndFrame
+8014B128 0000
+
+[Happy Ending Kandasha Yuri]
+Type = Gameshark
+Activation = EndFrame
+8014B198 0000
+
+[Happy Ending KusunokiSeri incense]
+Type = Gameshark
+Activation = EndFrame
+3014ABD8 00FF
+3014ABDB 0000
+
+[Max Stats Nonomura Chiaki Hara]
+Type = Gameshark
+Activation = EndFrame
+50000902 0000
+8014AC02 03E7
+
+[Max Stats Makino Izumi]
+Type = Gameshark
+Activation = EndFrame
+50000902 0000
+8014AC72 03E7
+
+[Max Stats Kaoru Takizawa]
+Type = Gameshark
+Activation = EndFrame
+50000902 0000
+8014ACE2 03E7
+
+[Max Stats Reiko Nakayama]
+Type = Gameshark
+Activation = EndFrame
+50000902 0000
+8014AD52 03E7
+
+[Max Stats Shallow Mayumi]
+Type = Gameshark
+Activation = EndFrame
+50000902 0000
+8014ADC2 03E7
+
+[Max Stats Sunaga Tomomi]
+Type = Gameshark
+Activation = EndFrame
+50000902 0000
+8014AE32 03E7
+
+[Max Stats Kimura Yuka]
+Type = Gameshark
+Activation = EndFrame
+50000902 0000
+8014AEA2 03E7
+
+[Max Stats Hiroko Kawai]
+Type = Gameshark
+Activation = EndFrame
+50000902 0000
+8014AF12 03E7
+
+[Max Stats HayashiKyoko]
+Type = Gameshark
+Activation = EndFrame
+50000902 0000
+8014AF82 03E7
+
+[Max Stats Minazuki Aoi]
+Type = Gameshark
+Activation = EndFrame
+50000902 0000
+8014AFF2 03E7
+
+[Max Stats Minako Kudo]
+Type = Gameshark
+Activation = EndFrame
+50000902 0000
+8014B062 03E7
+
+[Max Stats Sendo Alisa]
+Type = Gameshark
+Activation = EndFrame
+50000902 0000
+8014B0D2 03E7
+
+[Max Stats Kandasha Yuri]
+Type = Gameshark
+Activation = EndFrame
+50000902 0000
+8014B142 03E7
+
+[Max Sutatasu Nonomura Chiaki Hara]
+Type = Gameshark
+Activation = EndFrame
+50000B02 0000
+8014AC16 03E7
+
+[Max Sutatasu Makino Izumi]
+Type = Gameshark
+Activation = EndFrame
+50000B02 0000
+8014AC86 03E7
+
+[Max Sutatasu Kaoru Takizawa]
+Type = Gameshark
+Activation = EndFrame
+50000B02 0000
+8014ACF6 03E7
+
+[Max Sutatasu Reiko Nakayama]
+Type = Gameshark
+Activation = EndFrame
+50000B02 0000
+8014AD66 03E7
+
+[Max Sutatasu Shallow Mayumi]
+Type = Gameshark
+Activation = EndFrame
+50000B02 0000
+8014ADD6 03E7
+
+[Max Sutatasu Sunaga Tomomi]
+Type = Gameshark
+Activation = EndFrame
+50000B02 0000
+8014AE46 03E7
+
+[Max Sutatasu Kimura Yuka]
+Type = Gameshark
+Activation = EndFrame
+50000B02 0000
+8014AEB6 03E7
+
+[Max Sutatasu Hiroko Kawai]
+Type = Gameshark
+Activation = EndFrame
+50000B02 0000
+8014AF26 03E7
+
+[Max Sutatasu HayashiKyoko]
+Type = Gameshark
+Activation = EndFrame
+50000B02 0000
+8014AF96 03E7
+
+[Max Sutatasu Minazuki Aoi]
+Type = Gameshark
+Activation = EndFrame
+50000B02 0000
+8014B006 03E7
+
+[Max Sutatasu Minako Kudo]
+Type = Gameshark
+Activation = EndFrame
+50000B02 0000
+8014B076 03E7
+
+[Max Sutatasu Sendo Alisa]
+Type = Gameshark
+Activation = EndFrame
+50000B02 0000
+8014B0E6 03E7
+
+[Max Sutatasu Kandasha Yuri]
+Type = Gameshark
+Activation = EndFrame
+50000B02 0000
+8014B156 03E7
+
+[All Skills Nonomura Chiaki Hara]
+Type = Gameshark
+Activation = EndFrame
+50000501 0000
+3014AC41 0002
+
+[All Skills Makino Izumi]
+Type = Gameshark
+Activation = EndFrame
+50000501 0000
+3014ACB1 0002
+
+[All Skills Kaoru Takizawa]
+Type = Gameshark
+Activation = EndFrame
+50000501 0000
+3014AD21 0002
+
+[All Skills Reiko Nakayama]
+Type = Gameshark
+Activation = EndFrame
+50000501 0000
+3014AD91 0002
+
+[All Skills Shallow Mayumi]
+Type = Gameshark
+Activation = EndFrame
+50000501 0000
+3014AE01 0002
+
+[All Skills Sunaga Tomomi]
+Type = Gameshark
+Activation = EndFrame
+50000501 0000
+3014AE71 0002
+
+[All Skills Kimura Yuka]
+Type = Gameshark
+Activation = EndFrame
+50000501 0000
+3014AEE1 0002
+
+[All Skills Hiroko Kawai]
+Type = Gameshark
+Activation = EndFrame
+50000501 0000
+3014AF51 0002
+
+[All Skills HayashiKyoko]
+Type = Gameshark
+Activation = EndFrame
+50000501 0000
+3014AFC1 0002
+
+[All Skills Minazuki Aoi]
+Type = Gameshark
+Activation = EndFrame
+50000501 0000
+3014B031 0002
+
+[All Skills Minako Kudo]
+Type = Gameshark
+Activation = EndFrame
+50000501 0000
+3014B0A1 0002
+
+[All Skills Sendo Alisa]
+Type = Gameshark
+Activation = EndFrame
+50000501 0000
+3014B111 0002
+
+[All Skills Kandasha Yuri]
+Type = Gameshark
+Activation = EndFrame
+50000501 0000
+3014B181 0002
+

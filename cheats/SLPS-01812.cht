@@ -1,0 +1,18 @@
+; CHTDB: ; [ One (Jpn) (1999) (Capcom) {SLPS-01812} <onej> ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80111F1C 0009
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+80111B38 0001
+
+[All weapons]
+Type = Gameshark
+Activation = EndFrame
+80111B3C 0001
+80111B60 FFFF
+

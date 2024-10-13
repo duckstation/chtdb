@@ -1,0 +1,66 @@
+; CHTDB: ; [ Crash Bash (Euro) (2000) (Sony Computer Entertainment Europe) {SCES-02834, SCES-02834-P} <crashbshe> ]
+
+[999 Points pogo painter]
+Type = Gameshark
+Activation = EndFrame
+800A20EC 03E7
+
+[Infinite Health Jungle bash event y papu event]
+Type = Gameshark
+Activation = EndFrame
+800A20D2 0014
+
+[Infinite Health crash ball]
+Type = Gameshark
+Activation = EndFrame
+800A20EC 000F
+
+[InfInite health]
+Type = Gameshark
+Activation = EndFrame
+D009BAAA 0014
+3009BA9E 0014
+
+[Infinite Points (Press R1)]
+Type = Gameshark
+Activation = EndFrame
+D0070B7A F7FF
+8009BAB8 000F
+
+[Infinite Points]
+Type = Gameshark
+Activation = EndFrame
+8009BAB8 000F
+
+[Unlock Warp room 2]
+Type = Gameshark
+Activation = EndFrame
+3005C564 0001
+
+[Unlock Warp room 3]
+Type = Gameshark
+Activation = EndFrame
+3005C576 0001
+
+[Unlock Warp room 4]
+Type = Gameshark
+Activation = EndFrame
+3005C569 0001
+
+[Unlock Warp room 5]
+Type = Gameshark
+Activation = EndFrame
+3005C57F 0001
+
+[P1 only needs 1 trophy to win]
+Type = Gameshark
+Activation = EndFrame
+D005C4BC 0000
+3005C4BC 0002
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+80052AF0 0004
+80052AF4 0003
+

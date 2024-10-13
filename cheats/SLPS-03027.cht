@@ -1,0 +1,12 @@
+; CHTDB: ; [ Solid Link: Tower Side (Japan) {SLPS-03027} ]
+
+[Infinite Money 99999]
+Type = Gameshark
+Activation = EndFrame
+90158B34 0001869F
+
+[Infinite HP Character 1]
+Type = Gameshark
+Activation = EndFrame
+800F5588 0063
+

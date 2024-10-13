@@ -1,0 +1,126 @@
+; CHTDB: ; [ Legend of Legaia (USA) (Prototype) / Legaia Densetsu (Japan) {SCPS-10059} ]
+
+[MAX money]
+Type = Gameshark
+Activation = EndFrame
+901CAC0C 0098967F
+
+[99 and more items]
+Type = Gameshark
+Activation = EndFrame
+80043338 0001
+
+[Infinite & Max HP]
+Type = Gameshark
+Activation = EndFrame
+901CAE7C 270F270F
+
+[Infinite & Max MP]
+Type = Gameshark
+Activation = EndFrame
+901CAE80 270F270F
+
+[MAX level after one battle]
+Type = Gameshark
+Activation = EndFrame
+90050B44 24027FFF
+90050B4C 00221280
+
+[AP MAX at the start of battle]
+Type = Gameshark
+Activation = EndFrame
+A61F2E28 10210064
+A61F2E2A 00442402
+
+[No random battles]
+Type = Gameshark
+Activation = EndFrame
+A61DC7F6 00620060
+
+[Save anywhere Status menu The ---> ON and press the L1 button The ---> OFF and press the L2 button]
+Type = Gameshark
+Activation = EndFrame
+D0081332 FBFF
+3007D458 0001
+D0081332 FEFF
+3007D458 0000
+
+[MAX level in the battle of once]
+Type = Gameshark
+Activation = EndFrame
+90050B44 24027FFF
+90050B4C 00221280
+
+[All Items]
+Type = Gameshark
+Activation = EndFrame
+50008002 0000
+801CBFC8 6301
+
+[COIN of Wild declaration]
+Type = Gameshark
+Activation = EndFrame
+901D61DC 0001869F
+
+[The Debug menu SELECT + ?. With SELECT + START, it enters into DEBUG MODE]
+Type = Gameshark
+Activation = EndFrame
+3007D51F 0001
+
+[Debug menu (R2)]
+Type = Gameshark
+Activation = EndFrame
+D007D7D8 0002
+A607D8E4 00030000
+
+[Mini-games Simple fighting Bokosukan player HP to maximum recovery press the L2 button.]
+Type = Gameshark
+Activation = EndFrame
+D01C8F70 0001
+801DE608 0C80
+
+[Mini-games Dancing Queen Contest 999 points press the L2 button.]
+Type = Gameshark
+Activation = EndFrame
+D01C8F70 0001
+801D73D4 03E7
+
+[Mini-games Angling Hit after fished at once by pressing the R2 + square button.]
+Type = Gameshark
+Activation = EndFrame
+D01C8F70 0082
+801DB818 0000
+D01C8F70 0082
+801DB6F0 0000
+
+[Mini-games None Encounter]
+Type = Gameshark
+Activation = EndFrame
+8007D3D0 00FF
+
+[Mini-games Fishing / POINT]
+Type = Gameshark
+Activation = EndFrame
+901CAABC 000F423F
+
+[Mini-games Fishing / HISCORE]
+Type = Gameshark
+Activation = EndFrame
+901CAAC8 0001869F
+
+[Mini-games TIME]
+Type = Gameshark
+Activation = EndFrame
+801CABE1 9700
+801CABE3 0149
+
+[Mini-games Possession G]
+Type = Gameshark
+Activation = EndFrame
+901CAC0C 05F5E0FF
+
+[Mini-games Time limit of the sky Castle of Zola]
+Type = Gameshark
+Activation = EndFrame
+901CAC10 7FFFFFFF
+

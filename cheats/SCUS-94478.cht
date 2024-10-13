@@ -1,0 +1,78 @@
+; CHTDB: ; [ MLB 2001 (USA) (2000) (Sony Computer Entertainment America) {SCUS-94478} <mlb2k1> ]
+
+[Select Away Team Score\9]
+Type = Gameshark
+Activation = EndFrame
+3001D49B 0009
+
+[Select Away Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+3001D49B 0000
+
+[Select Home Team Score\9]
+Type = Gameshark
+Activation = EndFrame
+3001D458 0009
+
+[Select Home Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+3001D458 0000
+
+[Infinite Creation Points]
+Type = Gameshark
+Activation = EndFrame
+801DCC48 00FF
+
+[Infinite Outs]
+Type = Gameshark
+Activation = EndFrame
+800B9270 0000
+
+[1 Out And You Are Out]
+Type = Gameshark
+Activation = EndFrame
+A60B9270 00000002
+
+[2 Outs And You Are Out]
+Type = Gameshark
+Activation = EndFrame
+A60B9270 00000001
+
+[Infinite Strikes]
+Type = Gameshark
+Activation = EndFrame
+800B9272 0000
+
+[1 Strike And You Are Out]
+Type = Gameshark
+Activation = EndFrame
+A60B9272 00000002
+
+[2 Strikes And You Are Out]
+Type = Gameshark
+Activation = EndFrame
+A60B9272 00000001
+
+[Infinite Balls]
+Type = Gameshark
+Activation = EndFrame
+800B9274 0000
+
+[1 Ball And You Walk]
+Type = Gameshark
+Activation = EndFrame
+A60B9274 00000003
+
+[2 Balls And You Walk]
+Type = Gameshark
+Activation = EndFrame
+D00B9274 0000
+800B9724 0002
+
+[3 Balls And You Walk]
+Type = Gameshark
+Activation = EndFrame
+A60B9724 00000001
+

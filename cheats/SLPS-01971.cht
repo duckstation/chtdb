@@ -1,0 +1,7 @@
+; CHTDB: ; [ Parlor! Pro 7 (Japan) {SLPS-01971} ]
+
+[Have 999999 money in the story mode]
+Type = Gameshark
+Activation = EndFrame
+9004BCE4 000F423F
+

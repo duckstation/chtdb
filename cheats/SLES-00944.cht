@@ -1,0 +1,107 @@
+; CHTDB: ; [ One (Europe) {SLES-00944} ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801140CC 0009
+
+[Infinite Rage Meter]
+Type = Gameshark
+Activation = EndFrame
+80113CC8 00C0
+
+[Mid Air Jumps Press the X-button repeatedly and quickly to do the mid air jump]
+Type = Gameshark
+Activation = EndFrame
+80113CF8 0002
+
+[Infinite Special Weapon Energy]
+Type = Gameshark
+Activation = EndFrame
+80113D10 FFFF
+
+[Have Missile Launcher]
+Type = Gameshark
+Activation = EndFrame
+80113D0C 0001
+
+[Have Homing Missiles]
+Type = Gameshark
+Activation = EndFrame
+80113D0C 0002
+
+[Have Flame Thrower]
+Type = Gameshark
+Activation = EndFrame
+80113D0C 0003
+
+[Have Pulse Laser]
+Type = Gameshark
+Activation = EndFrame
+80113D0C 0004
+
+[Have Grenade Launcher]
+Type = Gameshark
+Activation = EndFrame
+80113D0C 0005
+
+[Have All Weapons]
+Type = Gameshark
+Activation = EndFrame
+80113CEC 0001
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+80113CE8 0001
+
+[Weapon Select Push Select + Up for Missile Launcher Push Select + Left for Homing Missile Push Select + Right for Flame Thrower Push Select + Down for Pulse Laser Push Select + L1 for Grenade Launcher]
+Type = Gameshark
+Activation = EndFrame
+D0119710 0011
+80113D0C 0001
+D0119710 0081
+80113D0C 0002
+D0119710 0021
+80113D0C 0003
+D0119710 0041
+80113D0C 0004
+D0119710 0401
+80113D0C 0005
+
+[Sole-View]
+Type = Gameshark
+Activation = EndFrame
+90039884 00000000
+
+[Frog-View]
+Type = Gameshark
+Activation = EndFrame
+900398B8 00000000
+
+[Far-View]
+Type = Gameshark
+Activation = EndFrame
+90039970 00000000
+
+[No Camerapan]
+Type = Gameshark
+Activation = EndFrame
+900399F8 00000000
+
+[Pan Up/Down]
+Type = Gameshark
+Activation = EndFrame
+90039A18 00000000
+
+[Very Near-View]
+Type = Gameshark
+Activation = EndFrame
+90039B48 00000000
+
+[Upside-Down!]
+Type = Gameshark
+Activation = EndFrame
+9003A1C4 00000000
+9003A1C8 00000000
+

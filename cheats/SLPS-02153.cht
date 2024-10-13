@@ -1,0 +1,33 @@
+; CHTDB: ; [ Star Wars: Episode I: The Phantom Menace (Japan) {SLPS-02153} ]
+
+[Obi Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800BA908 0064
+
+[Qui-Gon Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800BA954 0064
+
+[Panaka Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800BA9A0 0064
+
+[Queen Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800BA9EC 0064
+
+[Infinite SP]
+Type = Gameshark
+Activation = EndFrame
+800BA728 0FFF
+800BA90C 0064
+
+[Freeze Time]
+Type = Gameshark
+Activation = EndFrame
+800B1A92 0000
+

@@ -1,0 +1,105 @@
+; CHTDB: ; [ Harry Potter and the Sorcerer's Stone (USA) (2001) (Electronic Arts) {SLUS-01415} <hpotsors> ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80082964 8000
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+8007B538 0FFF
+
+[Max House Points]
+Type = Gameshark
+Activation = EndFrame
+300827DD 0070
+300827DE 003E
+
+[Have All Cheats Unlocked]
+Type = Gameshark
+Activation = EndFrame
+801223F4 FFFF
+
+[Fill Coin Meter On Mine Cart Ride At Gringotts Mare]
+Type = Gameshark
+Activation = EndFrame
+8007C9EA 0063
+
+[Have All Blue Beans]
+Type = Gameshark
+Activation = EndFrame
+800827F2 000F
+
+[Have All Green Beans]
+Type = Gameshark
+Activation = EndFrame
+800827F6 0100
+
+[Have All Red Beans]
+Type = Gameshark
+Activation = EndFrame
+800827FA 0100
+
+[Have All Yellow Beans]
+Type = Gameshark
+Activation = EndFrame
+800827EE 000F
+
+[Have All Folios]
+Type = Gameshark
+Activation = EndFrame
+80082480 0011
+
+[Have All Spells]
+Type = Gameshark
+Activation = EndFrame
+30082685 00F0
+
+[4 Eyeballs in Dungeon Defeated]
+Type = Gameshark
+Activation = EndFrame
+3008248A 000F
+
+[All Folio Cards]
+Type = Gameshark
+Activation = EndFrame
+8008268E FFFF
+30082690 00FF
+
+[All Bean Challenges Complete]
+Type = Gameshark
+Activation = EndFrame
+3008268B 00FF
+3008268C 00FF
+
+[Total Time = 00.00]
+Type = Gameshark
+Activation = EndFrame
+90082970 00000000
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+3007C9F9 00FF
+
+[Walk Through Walls & Climb Any Wall (L1+R1 & L2+R2)]
+Type = Gameshark
+Activation = EndFrame
+800432C6 00001000
+8004323A 00001000
+800442AA 00001000
+D7100000 0000000C
+800442AA 00001220
+800432C6 00001462
+8004323A 00001040
+00000000 0000FFFF
+800442AA 00001000
+D7100000 00000003
+800442AA 00001220
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+800710F2 2000
+

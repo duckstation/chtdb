@@ -1,0 +1,110 @@
+; CHTDB: ; [ Athena - Awakening from the Ordinary Life (Jpn, Koei the Best) (1999) (SNK) {SLPM-86185~SLPM-86187} <athenaaw> ]
+
+[Esp Gauge Max]
+Type = Gameshark
+Activation = EndFrame
+800A1368 0400
+
+[Key / Documents system all items]
+Type = Gameshark
+Activation = EndFrame
+50003102 0000
+800A0CA4 0101
+
+[99 food items all]
+Type = Gameshark
+Activation = EndFrame
+50001202 0000
+800A0C80 6363
+
+[Food Item All 99 (Set 1/2)]
+Type = Gameshark
+Activation = EndFrame
+900A0C80 63636363
+900A0C84 63636363
+900A0C88 63636363
+900A0C8C 63636363
+900A0C90 63636363
+900A0C94 63636363
+800A0C98 6363
+
+[Food Item All 99 (Set 2/2)]
+Type = Gameshark
+Activation = EndFrame
+800A0C9A 6363
+900A0C9C 63636363
+900A0CA0 63636363
+
+[Key / Documents System Item All (Set 1/4)]
+Type = Gameshark
+Activation = EndFrame
+900A0CA4 01010101
+900A0CA8 01010101
+900A0CAC 01010101
+900A0CB0 01010101
+900A0CB4 01010101
+900A0CB8 01010101
+800A0CBC 0101
+
+[Key / Documents System Item All (Set 2/4)]
+Type = Gameshark
+Activation = EndFrame
+800A0CBE 0101
+900A0CC0 01010101
+900A0CC4 01010101
+900A0CC8 01010101
+900A0CCC 01010101
+900A0CD0 01010101
+900A0CD4 01010101
+
+[Key / Documents System Item All (Set 3/4)]
+Type = Gameshark
+Activation = EndFrame
+900A0CD8 01010101
+900A0CDC 01010101
+900A0CE0 01010101
+900A0CE4 01010101
+900A0CE8 01010101
+900A0CEC 01010101
+800A0CF0 0101
+
+[Key / Documents System Item All (Set 4/4)]
+Type = Gameshark
+Activation = EndFrame
+800A0CF2 0101
+900A0CF4 01010101
+900A0CF8 01010101
+900A0CFC 01010101
+900A0D00 01010101
+800A0D04 0101
+
+[Food Item It Doesn't Decrease]
+Type = Gameshark
+Activation = EndFrame
+A6042EE8 00FF0000
+
+[Esp It Doesn't Decrease]
+Type = Gameshark
+Activation = EndFrame
+A6017706 00430040
+A6017656 00A200A0
+A6020E3E 00440040
+
+[Supplement\New Japanese Plan]
+Type = Gameshark
+Activation = EndFrame
+900A12A0 FA935690
+900A12A4 E98A7B96
+800A12A8 E689
+
+[Supplement\Asamiya]
+Type = Gameshark
+Activation = EndFrame
+900A12B0 7B8B8396
+
+[Supplement\Mr. Queen]
+Type = Gameshark
+Activation = EndFrame
+9009FF70 A489978F
+8009FF74 6C97
+

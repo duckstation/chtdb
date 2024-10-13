@@ -1,0 +1,39 @@
+; CHTDB: ; [ Wild 9 (USA) (1998) (Interplay Entertainment) {SLUS-00425} <wild9> ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+A607B35C 00020003
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+A6084466 000F0010
+
+[Infinite Missiles On Pick-Up]
+Type = Gameshark
+Activation = EndFrame
+A607B444 00020003
+
+[Moon Jump]
+Type = Gameshark
+Activation = EndFrame
+D007C788 0040
+80084492 FFF0
+
+[Infinite Health Drench Level]
+Type = Gameshark
+Activation = EndFrame
+A6084786 00100011
+
+[Moon Jump Drench Level]
+Type = Gameshark
+Activation = EndFrame
+D007C788 0040
+800847B2 FFF0
+
+[All Levels Selectables]
+Type = Gameshark
+Activation = EndFrame
+80085404 000E
+

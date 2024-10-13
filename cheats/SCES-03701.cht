@@ -1,0 +1,22 @@
+; CHTDB: ; [ Syphon Filter 3: Sentencia Final (Spain) (Platinum) {SCES-03701} ]
+
+[Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+801BB1AE 0258
+
+[Infinite Pistola]
+Type = Gameshark
+Activation = EndFrame
+8012D672 000F
+
+[Infinite Ammo Rifle Sniper]
+Type = Gameshark
+Activation = EndFrame
+8012D6BE 0014
+
+[Infinite Granadas]
+Type = Gameshark
+Activation = EndFrame
+8012D6E6 0063
+

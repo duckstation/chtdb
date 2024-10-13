@@ -1,0 +1,37 @@
+; CHTDB: ; [ Parodius (Europe) {SLES-00036} ]
+
+[Parodius\P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800FBC46 0002
+
+[Parodius\P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800FBC48 0002
+
+[Fantastic Journey\P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8016C348 0002
+
+[Fantastic Journey\P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8016C374 0002
+
+[Fantastic Journey\Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+80190F22 0004
+
+[Fantastic Journey\P1 Invincibility]
+Type = Gameshark
+Activation = EndFrame
+8017031C 00FF
+
+[Fantastic Journey\P2 Invincibility]
+Type = Gameshark
+Activation = EndFrame
+8017242C 00FF
+

@@ -1,0 +1,83 @@
+; CHTDB: ; [ Wild Arms (USA) (1997) (Sony Computer Entertainment America) {SCUS-94608} <wildarms> ]
+
+[Cecilia Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+80133E58 270F
+
+[Cecilia Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+80133E5C 270F
+
+[Jack Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+80133E24 270F
+
+[Jack Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+80133E28 270F
+
+[Rudy Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+80133DF0 270F
+
+[Rudy Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+80133DF4 270F
+
+[Cecilia Infinite HP In Battle]
+Type = Gameshark
+Activation = EndFrame
+8016623C 270F
+
+[Jack Infinite HP In Battle]
+Type = Gameshark
+Activation = EndFrame
+80166064 270F
+
+[Rudy Infinite HP In Battle]
+Type = Gameshark
+Activation = EndFrame
+80165E8C 270F
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+901341DC 0098967F
+
+[No Random Battles]
+Type = Gameshark
+Activation = EndFrame
+800E1100 0000
+800E1104 0000
+
+[Enable 'Map' Option Under Config]
+Type = Gameshark
+Activation = EndFrame
+D00600F0 2C4E
+D00600FC 0002
+300600FC 0001
+
+[Have All Items]
+Type = Gameshark
+Activation = EndFrame
+5000FB01 0001
+30133F4C 0000
+5000FB01 0000
+3013404C 00FF
+
+[Infinite Bullets (All Arms - Rudy)]
+Type = Gameshark
+Activation = EndFrame
+8009D93A 2400
+
+[Infinite Crest Graphs]
+Type = Gameshark
+Activation = EndFrame
+A613405E 00003232
+

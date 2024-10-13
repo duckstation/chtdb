@@ -1,0 +1,79 @@
+; CHTDB: ; [ 3D Baseball (USA) (1996) (Crystal Dynamics) {SLUS-00066} <3dbball> ]
+
+[Infinite Strikes]
+Type = Gameshark
+Activation = EndFrame
+300B5924 0000
+
+[1 Strike And You Are Out]
+Type = Gameshark
+Activation = EndFrame
+D00B5924 0000
+300B5924 0002
+
+[2 Strikes And You Are Out]
+Type = Gameshark
+Activation = EndFrame
+D00B5924 0000
+300B5924 0001
+
+[Infinite Balls]
+Type = Gameshark
+Activation = EndFrame
+300B5923 0000
+
+[1 Ball And You Walk]
+Type = Gameshark
+Activation = EndFrame
+D00B5922 0000
+300B5923 0003
+
+[2 Balls And You Walk]
+Type = Gameshark
+Activation = EndFrame
+D00B5922 0000
+300B5923 0002
+
+[3 Balls And You Walk]
+Type = Gameshark
+Activation = EndFrame
+D00B5922 0000
+300B5923 0001
+
+[Infinite Outs]
+Type = Gameshark
+Activation = EndFrame
+300B5925 0000
+
+[1 Out And You Are Out]
+Type = Gameshark
+Activation = EndFrame
+D00B5924 0000
+300B5925 0002
+
+[2 Outs And You Are Out]
+Type = Gameshark
+Activation = EndFrame
+D00B5924 0000
+300B5925 0001
+
+[Select Home Team Score\99]
+Type = Gameshark
+Activation = EndFrame
+800B592C 0063
+
+[Select Home Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+800B592C 0000
+
+[Select Away Team Score\99]
+Type = Gameshark
+Activation = EndFrame
+800B592E 0063
+
+[Select Away Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+800B592E 0000
+

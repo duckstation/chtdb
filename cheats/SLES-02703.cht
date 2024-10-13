@@ -1,0 +1,57 @@
+; CHTDB: ; [ Street Skater 2 (Euro) (2000) (Electronic Arts) {SLES-02703 (EAE06103049)} <strskat2> ]
+
+[Each Trick is Worth Max Points]
+Type = Gameshark
+Activation = EndFrame
+90085548 2402FFFF
+
+[Mega Boost With Up]
+Type = Gameshark
+Activation = EndFrame
+E00388C1 0010
+8003883C 1400
+
+[Great Trick Score]
+Type = Gameshark
+Activation = EndFrame
+8003872E 0098
+
+[Infinite Time L1 for 15 points/L2 for 0 points]
+Type = Gameshark
+Activation = EndFrame
+80038724 1200
+
+[Bonus Points]
+Type = Gameshark
+Activation = EndFrame
+D00988C0 0004
+801FAC00 000F
+D00988C0 0001
+801FAC00 0000
+
+[Max Character-Codes]
+Type = Gameshark
+Activation = EndFrame
+50000501 0000
+301FA9F0 000F
+
+[Unlock All Levels]
+Type = Gameshark
+Activation = EndFrame
+8008D3F8 FFFF
+
+[Unlock All Characters]
+Type = Gameshark
+Activation = EndFrame
+8008D400 FFFF
+
+[Unlock All Boards]
+Type = Gameshark
+Activation = EndFrame
+9008D404 FFFFFFFF
+
+[Unlock Movieplayer]
+Type = Gameshark
+Activation = EndFrame
+8008D3F4 0002
+

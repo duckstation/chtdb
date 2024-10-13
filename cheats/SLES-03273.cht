@@ -1,0 +1,48 @@
+; CHTDB: ; [ Star Wars: Demolition (Europe) {SLES-03273} ]
+
+[Tamtel Skreej]
+Type = Gameshark
+Activation = EndFrame
+300D88D7 0001
+
+[Pugwis]
+Type = Gameshark
+Activation = EndFrame
+300D88D8 0001
+
+[Wittin]
+Type = Gameshark
+Activation = EndFrame
+300D88D9 0001
+
+[Malakili]
+Type = Gameshark
+Activation = EndFrame
+300D88DA 0001
+
+[Lobot]
+Type = Gameshark
+Activation = EndFrame
+300D88DB 0001
+
+[Boushh]
+Type = Gameshark
+Activation = EndFrame
+300D88DC 0001
+
+[Darth Maul]
+Type = Gameshark
+Activation = EndFrame
+300D88DD 0001
+
+[All ChaRacters Unlock]
+Type = Gameshark
+Activation = EndFrame
+50000402 0000
+800D88D6 0101
+
+[High balance]
+Type = Gameshark
+Activation = EndFrame
+8006BBF0 270F
+

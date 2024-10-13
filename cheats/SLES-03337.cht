@@ -1,0 +1,12 @@
+; CHTDB: ; [ Tiger Woods USA Tour 2001 (Australia) {SLES-03337} ]
+
+[P1 Cash = 9999]
+Type = Gameshark
+Activation = EndFrame
+8004BA38 270F
+
+[P1 Hole in one]
+Type = Gameshark
+Activation = EndFrame
+8004AFF6 0001
+

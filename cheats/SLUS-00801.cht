@@ -1,0 +1,172 @@
+; CHTDB: ; [ Kingsley's Adventure (USA) (1999) (Psygnosis) {SLUS-00801} <kingsadv> ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800E85B0 0009
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800E851A 000A
+
+[Need 2 Coins To Get 1-Up]
+Type = Gameshark
+Activation = EndFrame
+A60E8574 00010031
+
+[Always have Dagger]
+Type = Gameshark
+Activation = EndFrame
+800D1B1E 0001
+30016057 0001
+
+[Always have Sword]
+Type = Gameshark
+Activation = EndFrame
+800D1B46 0001
+30016053 0001
+
+[Always have Axe]
+Type = Gameshark
+Activation = EndFrame
+800D1B6E 0001
+30016058 0001
+
+[Always have Crossbow]
+Type = Gameshark
+Activation = EndFrame
+800D1B96 0001
+30016059 0001
+
+[Always have Max Arrows]
+Type = Gameshark
+Activation = EndFrame
+800E857A 00FF
+
+[Always have Key]
+Type = Gameshark
+Activation = EndFrame
+8001605C 0101
+
+[Always have Mug]
+Type = Gameshark
+Activation = EndFrame
+30016072 0001
+
+[Always have Letter]
+Type = Gameshark
+Activation = EndFrame
+30016073 0001
+
+[Always have Red Shirt]
+Type = Gameshark
+Activation = EndFrame
+30016074 0001
+
+[Save Anywhere (Press L1+R1+L2+R2)]
+Type = Gameshark
+Activation = EndFrame
+D00EDCB8 0F00
+8001606A 0001
+
+[Select Weapon\None]
+Type = Gameshark
+Activation = EndFrame
+800E8578 0000
+
+[Select Weapon\Dagger]
+Type = Gameshark
+Activation = EndFrame
+800E8578 0001
+
+[Select Weapon\Sword]
+Type = Gameshark
+Activation = EndFrame
+800E8578 0002
+
+[Select Weapon\Axe]
+Type = Gameshark
+Activation = EndFrame
+800E8578 0003
+
+[Select Weapon\Crossbow]
+Type = Gameshark
+Activation = EndFrame
+800E8578 0004
+
+[Invincibility to Cannon Balls]
+Type = Gameshark
+Activation = EndFrame
+A70462C6 10401000
+
+[Invincibility to normal stuff like crabs/spiders/knights]
+Type = Gameshark
+Activation = EndFrame
+A70AA5F2 14621000
+
+[Invincibility to Swinging Anchor]
+Type = Gameshark
+Activation = EndFrame
+A7046566 18401000
+
+[Invincibility to Barrels - Walk through Barrels, Boulders and Gates]
+Type = Gameshark
+Activation = EndFrame
+A708E3FA 10401000
+
+[Invincibility to Boss Slashing]
+Type = Gameshark
+Activation = EndFrame
+A70990A6 10401000
+
+[Invincibility to Bosses Dropping on You]
+Type = Gameshark
+Activation = EndFrame
+A708E30A 10C81000
+
+[Float (Hold R3 Down to rise upwards)]
+Type = Gameshark
+Activation = EndFrame
+D7000000 00000200
+300E8510 00000010
+
+[Fall safely from Heights]
+Description = Use with Float
+Type = Gameshark
+Activation = EndFrame
+A7049A6E 18801000
+
+[Walk through Water]
+Type = Gameshark
+Activation = EndFrame
+A7048A26 10401000
+
+[One Hit Kill Bosses]
+Type = Gameshark
+Activation = EndFrame
+A70980FA 1C401400
+
+[Automatically Open Chests]
+Type = Gameshark
+Activation = EndFrame
+A70A757E 10401400
+
+[Automatically Collect Chest Treasure]
+Type = Gameshark
+Activation = EndFrame
+A7052AE6 10401400
+A7052AD2 10401400
+A7052ADE 10401400
+A7052B12 10401400
+A7052B26 10401400
+A7052B3A 10401400
+A7052B4E 14401400
+A7052B66 14401400
+A7052B76 14401400
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+800E6F6C 0F00
+

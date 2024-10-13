@@ -1,0 +1,27 @@
+; CHTDB: ; [ DigimonWorld 2 (Japan) {SLPS-02844} ]
+
+[Max BIT]
+Type = Gameshark
+Activation = EndFrame
+90050A88 0098967F
+
+[Infinite HP 999]
+Type = Gameshark
+Activation = EndFrame
+80050B78 03E7
+
+[Infinite MP 999]
+Type = Gameshark
+Activation = EndFrame
+80050B7C 03E7
+
+[MAX HP (DIGIBEATTLE)]
+Type = Gameshark
+Activation = EndFrame
+90050AA4 270F270F
+
+[MAX EP (DIGIBEATTLE)]
+Type = Gameshark
+Activation = EndFrame
+90050AA8 270F270F
+

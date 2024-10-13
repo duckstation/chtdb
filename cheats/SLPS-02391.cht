@@ -1,0 +1,111 @@
+; CHTDB: ; [ Dragon Knights Glorious (Jpn) (1999) (Pandora) {SLPS-02391} <dknightg> ]
+
+[All Gallery / Mini Games]
+Type = Gameshark
+Activation = EndFrame
+3008A249 00D0
+8008A24A 01EF
+3008A24D 00F0
+8008A24E FFFF
+3008A250 001F
+
+[Infinite HP Dyke]
+Type = Gameshark
+Activation = EndFrame
+8008A7D4 270F
+
+[Max HP Dyke]
+Type = Gameshark
+Activation = EndFrame
+8008A7D6 270F
+
+[Infinite TP Dyke]
+Type = Gameshark
+Activation = EndFrame
+8008A7D8 270F
+
+[Max TP Dyke]
+Type = Gameshark
+Activation = EndFrame
+8008A7DA 270F
+
+[Pat Infinite and Max HP]
+Type = Gameshark
+Activation = EndFrame
+8008A83E 03E7
+8008A840 03E7
+
+[Pat Infinite and Max MP]
+Type = Gameshark
+Activation = EndFrame
+8008A842 03E7
+8008A844 03E7
+
+[Lilith Infinite + Max HP]
+Type = Gameshark
+Activation = EndFrame
+9008A884 03E703E7
+
+[Lilith Infinite + Max TP]
+Type = Gameshark
+Activation = EndFrame
+9008A888 03E703E7
+
+[No Random Battles]
+Type = Gameshark
+Activation = EndFrame
+80083A00 0000
+
+[Max Money]
+Type = Gameshark
+Activation = EndFrame
+80089EEE 967F
+80089EF0 0098
+
+[Hp/Mp 999]
+Type = Gameshark
+Activation = EndFrame
+80086704 03E7
+80086708 03E7
+8008670C 03E7
+80086710 03E7
+
+[Alt. Hp/Mp 999]
+Type = Gameshark
+Activation = EndFrame
+80083FE0 03E7
+80083FE4 03E7
+80083FE8 03E7
+
+[Level 99]
+Type = Gameshark
+Activation = EndFrame
+80083FF0 0063
+
+[Alt. Level 99]
+Type = Gameshark
+Activation = EndFrame
+800866FC 0063
+
+[Exp 99999]
+Type = Gameshark
+Activation = EndFrame
+90083FFC 0001869F
+
+[I would like hear for free the poet Museum]
+Type = Gameshark
+Activation = EndFrame
+3008A205 00FF
+3008A207 00FF
+
+[The presence of the painter far from / picture]
+Type = Gameshark
+Activation = EndFrame
+3008A24F 00FF
+
+[Bonus / achievement rate + 01h]
+Type = Gameshark
+Activation = EndFrame
+3008A24D 00FF
+3008A250 00FF
+

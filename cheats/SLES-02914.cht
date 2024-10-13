@@ -1,0 +1,56 @@
+; CHTDB: ; [ Digimon World (Europe) {SLES-02914} ]
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+8016C840 270F
+8016C844 270F
+
+[Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+8016C842 03E7
+8016C846 03E7
+
+[Have All Attacks]
+Type = Gameshark
+Activation = EndFrame
+50000402 FFFF
+8016C850 0000
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8016C874 0003
+
+[Max happiness]
+Type = Gameshark
+Activation = EndFrame
+8013FA52 0064
+
+[Max discipline]
+Type = Gameshark
+Activation = EndFrame
+8013FA50 0064
+
+[No virus]
+Type = Gameshark
+Activation = EndFrame
+3013FA46 0000
+
+[Access All Cards (Card List)]
+Type = Gameshark
+Activation = EndFrame
+800BEAF6 2400
+
+[Access All Digimon (Chart)]
+Type = Gameshark
+Activation = EndFrame
+800BE626 2400
+
+[Sudden Death most opponents]
+Type = Gameshark
+Activation = EndFrame
+50000568 0000
+8016C8C4 0000
+

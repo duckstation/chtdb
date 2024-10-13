@@ -1,0 +1,28 @@
+; CHTDB: ; [ Jinx (Europe) {SCES-03908} ]
+
+[Lives]
+Type = Gameshark
+Activation = EndFrame
+800A038E 0063
+800C794A 0063
+
+[Health]
+Type = Gameshark
+Activation = EndFrame
+800BF0C8 001E
+
+[99 Stars]
+Type = Gameshark
+Activation = EndFrame
+800C79A6 0063
+
+[Infinite Cherry bombs (on pickup)]
+Type = Gameshark
+Activation = EndFrame
+800C794E 0009
+
+[Infinite Air (underwater)]
+Type = Gameshark
+Activation = EndFrame
+800C7947 0047
+

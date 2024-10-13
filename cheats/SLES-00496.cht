@@ -1,0 +1,127 @@
+; CHTDB: ; [ Street Fighter Alpha 2 (Europe) {SLES-00496} ]
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80198824 0090
+
+[P1 25% Energy]
+Type = Gameshark
+Activation = EndFrame
+A6198824 00900024
+
+[P1 50% Energy]
+Type = Gameshark
+Activation = EndFrame
+A6198824 00900048
+
+[P1 75% Energy]
+Type = Gameshark
+Activation = EndFrame
+A6198824 0090006C
+
+[P1 1-Hit Death]
+Type = Gameshark
+Activation = EndFrame
+A6198824 00000001
+
+[P2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80198BB8 0090
+
+[P2 25% Energy]
+Type = Gameshark
+Activation = EndFrame
+A6198BB8 00900024
+
+[P2 50% Energy]
+Type = Gameshark
+Activation = EndFrame
+A6198BB8 00900048
+
+[P2 75% Energy]
+Type = Gameshark
+Activation = EndFrame
+A6198BB8 0090006C
+
+[P2 1-Hit Death]
+Type = Gameshark
+Activation = EndFrame
+A6198BB8 00900001
+
+[P1 Super Always Powered At Level 3]
+Type = Gameshark
+Activation = EndFrame
+8019888E 0090
+
+[P1 Super Always Powered At Level 2]
+Type = Gameshark
+Activation = EndFrame
+8019888E 0060
+
+[P1 Super Always Powered At Level 1]
+Type = Gameshark
+Activation = EndFrame
+8019888E 0030
+
+[P1 Super Always Powered At Empty]
+Type = Gameshark
+Activation = EndFrame
+8019888E 0000
+
+[P2 Super Always Powered At Level 3]
+Type = Gameshark
+Activation = EndFrame
+80198C22 0090
+
+[P2 Super Always Powered At Level 2]
+Type = Gameshark
+Activation = EndFrame
+80198C22 0090
+
+[P2 Super Always Powered At Level 1]
+Type = Gameshark
+Activation = EndFrame
+80198C22 0090
+
+[P2 Super Always Powered At Empty]
+Type = Gameshark
+Activation = EndFrame
+80198C22 0090
+
+[P1 Use Most Moves In Air (Also Supers)]
+Type = Gameshark
+Activation = EndFrame
+8019880C 0000
+
+[P2 Use Most Moves In Air (Also Supers)]
+Type = Gameshark
+Activation = EndFrame
+801986FA 0000
+
+[P1 Infinite Taunts]
+Type = Gameshark
+Activation = EndFrame
+8019893E 0100
+
+[P2 Infinite Taunts]
+Type = Gameshark
+Activation = EndFrame
+80199306 0100
+
+[P1 Attacks Fast]
+Type = Gameshark
+Activation = EndFrame
+80198800 0001
+
+[P2 Attacks Fast]
+Type = Gameshark
+Activation = EndFrame
+801991C8 0001
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80190954 6302
+

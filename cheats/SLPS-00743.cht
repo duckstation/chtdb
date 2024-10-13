@@ -1,0 +1,31 @@
+; CHTDB: ; [ Kain the Vampire (Jpn) (1997) (BMG Japan) {SLPS-00743} <kainj> ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801CB598 0078
+
+[Infinite Magic]
+Type = Gameshark
+Activation = EndFrame
+801CB59E 0190
+801CB5A0 0190
+
+[Infinite Items]
+Type = Gameshark
+Activation = EndFrame
+80042FAE 3C00
+
+[Walk through the wall]
+Type = Gameshark
+Activation = EndFrame
+80029B82 3C00
+80029B90 3C00
+80029B9A 3C00
+80029BAA 3C00
+
+[Dark Diary All Open - New game ---> Dark diary All Open]
+Type = Gameshark
+Activation = EndFrame
+300A87BC 0001
+

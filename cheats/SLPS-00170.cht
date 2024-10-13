@@ -1,0 +1,39 @@
+; CHTDB: ; [ Kileak, The Blood 2: Reason in Madness (Japan) {SLPS-00170} ]
+
+[Infinite Laser]
+Type = Gameshark
+Activation = EndFrame
+800AB490 00C8
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+800AB4A2 01F4
+
+[Infinite Rockets]
+Type = Gameshark
+Activation = EndFrame
+800AB4A8 0028
+
+[Infinite Speed]
+Type = Gameshark
+Activation = EndFrame
+800AB450 00C6
+
+[Infinite Power]
+Type = Gameshark
+Activation = EndFrame
+800AB452 03E8
+
+[Infinite Missiles]
+Type = Gameshark
+Activation = EndFrame
+900AB4A8 08050028
+900AB4AC 08050973
+900AB4B0 08050973
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800AB44E 0366
+

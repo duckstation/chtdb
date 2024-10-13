@@ -1,0 +1,21 @@
+; CHTDB: ; [ Paca Paca Passion (Jpn) (1999) (Produce!) {SLPS-02122} <pacapp> ]
+
+[Max Score]
+Type = Gameshark
+Activation = EndFrame
+800ABF50 FFFF
+
+[Win Percentages]
+Type = Gameshark
+Activation = EndFrame
+800CE24A FFFF
+
+[All Song]
+Type = Gameshark
+Activation = EndFrame
+900AEAA0 FFFFFFFF
+900AEAA4 FFFFFFFF
+900AEAA8 FFFFFFFF
+900AEAAC FFFFFFFF
+900AEAB4 FFFFFFFF
+

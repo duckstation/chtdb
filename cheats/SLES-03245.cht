@@ -1,0 +1,70 @@
+; CHTDB: ; [ TechnoMage: De Terugkeer der Eeuwigheid (Netherlands) {SLES-03245} ]
+
+[Have 999999 Gold]
+Type = Gameshark
+Activation = EndFrame
+300CDAD8 423F
+300CDADA 000F
+
+[Infinite & Max Hp]
+Type = Gameshark
+Activation = EndFrame
+800F43C3 01C8
+800F43C5 01C8
+
+[Infinite & Max Mana]
+Type = Gameshark
+Activation = EndFrame
+800F43D9 0195
+800F43DB 0195
+
+[Infinite Small Health Packs]
+Type = Gameshark
+Activation = EndFrame
+300CDBD3 000A
+
+[Infinite Large Health Packs]
+Type = Gameshark
+Activation = EndFrame
+300CDBCF 0036
+
+[Infinite Small Mana Packs]
+Type = Gameshark
+Activation = EndFrame
+300CDBE3 001A
+
+[Infinite Large Mana Packs]
+Type = Gameshark
+Activation = EndFrame
+300CDB9F 00C6
+
+[Infinite Small Combo Packs]
+Type = Gameshark
+Activation = EndFrame
+300CDBFB 00E2
+
+[Infinite Large Combo Packs]
+Type = Gameshark
+Activation = EndFrame
+300CDBF7 00EE
+
+[Infinite Anti Venom Packs]
+Type = Gameshark
+Activation = EndFrame
+300CDB87 00FE
+
+[Infinite Anti Venom Herb]
+Type = Gameshark
+Activation = EndFrame
+300CDB8B 00F2
+
+[Infinite Chalk]
+Type = Gameshark
+Activation = EndFrame
+300CDB23 005A
+
+[Infinite Torch]
+Type = Gameshark
+Activation = EndFrame
+300CDB0F 0076
+

@@ -1,0 +1,79 @@
+; CHTDB: ; [ Hard Edge (Japan) {SLPS-01733} ]
+
+[Hp 999]
+Type = Gameshark
+Activation = EndFrame
+80117008 03E7
+
+[Alex Infinite & Max HP 999]
+Type = Gameshark
+Activation = EndFrame
+90094434 03E703E7
+
+[Michelle Infinite & Max HP 999]
+Type = Gameshark
+Activation = EndFrame
+90094430 03E703E7
+
+[Rachel Infinite & Max HP 999]
+Type = Gameshark
+Activation = EndFrame
+90094438 03E703E7
+
+[Burns Hp Max 999]
+Type = Gameshark
+Activation = EndFrame
+8009443E 03E7
+
+[999 Ap Bullets]
+Type = Gameshark
+Activation = EndFrame
+80094094 03E7
+
+[999 He Bullets]
+Type = Gameshark
+Activation = EndFrame
+80094096 03E7
+
+[Infinite Bullet]
+Type = Gameshark
+Activation = EndFrame
+A6144DA4 FFFF0000
+
+[Mortal blow]
+Type = Gameshark
+Activation = EndFrame
+A70222F2 00680000
+A7021876 AE02AE00
+
+[Item all species]
+Type = Gameshark
+Activation = EndFrame
+900B5D30 02020202
+900B5D34 02020202
+900B5D38 02020202
+900B5D3C 02020202
+900B5D40 02020202
+300B5D44 0002
+800B5D46 0202
+800B5D48 0202
+
+[Information all species]
+Type = Gameshark
+Activation = EndFrame
+800B5D4A 0202
+900B5D4C 02020202
+300B5D50 0002
+800B5D52 0202
+300B5D55 0002
+800B5D56 0202
+900B5D58 02020202
+
+[I filled all map]
+Type = Gameshark
+Activation = EndFrame
+900B5C30 FFFFFFFF
+900B5C34 FFFFFFFF
+900B5C38 FFFFFFFF
+900B5C3C FFFFFFFF
+

@@ -1,0 +1,63 @@
+; CHTDB: ; [ San Francisco Rush: Extreme Racing (Europe) {SLES-01208} ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800B28C0 0063
+
+[Always finish 1st]
+Type = Gameshark
+Activation = EndFrame
+800B33B0 0000
+
+[Start on last lap]
+Type = Gameshark
+Activation = EndFrame
+801011E8 0000
+
+[Drone Cars Can't Drive]
+Type = Gameshark
+Activation = EndFrame
+D00074BC 0001
+80056044 0000
+
+[Select Car\Beginner Car]
+Type = Gameshark
+Activation = EndFrame
+800B2760 0000
+
+[Select Car\Advanced Car]
+Type = Gameshark
+Activation = EndFrame
+800B2760 0001
+
+[Select Car\Expert Car]
+Type = Gameshark
+Activation = EndFrame
+800B2760 0002
+
+[Select Car\Extreme Car]
+Type = Gameshark
+Activation = EndFrame
+800B2760 0003
+
+[Select Car\Secret Car A (Bus)]
+Type = Gameshark
+Activation = EndFrame
+800B2760 0004
+
+[Select Car\Secret Car B]
+Type = Gameshark
+Activation = EndFrame
+800B2760 0005
+
+[Select Car\Secret Car C (Beetle)]
+Type = Gameshark
+Activation = EndFrame
+800B2760 0006
+
+[Select Car\Secret Car D]
+Type = Gameshark
+Activation = EndFrame
+800B2760 0007
+

@@ -1,0 +1,45 @@
+; CHTDB: ; [ Alundra 2 - Mashinka no Nazo (Jpn) (1999) (SCEI) {SCPS-10115} <alundra2j> ]
+
+[All Items]
+Type = Gameshark
+Activation = EndFrame
+30063C00 0009
+30063C02 0009
+30063C04 0009
+30063C06 0009
+30063C12 0001
+30063C14 0001
+30063C16 0001
+30063C18 0001
+
+[All Key Items]
+Type = Gameshark
+Activation = EndFrame
+30063C08 0001
+30063C0A 0001
+30063C0C 0063
+30063C0E 0063
+30063C10 0063
+30063C1A 0001
+
+[Max Ep]
+Type = Gameshark
+Activation = EndFrame
+90063ED4 03E703E7
+
+[Max HP]
+Type = Gameshark
+Activation = EndFrame
+90063ED0 03E703E7
+
+[Max Money]
+Type = Gameshark
+Activation = EndFrame
+90063EC4 000F423F
+
+[Time 00.00]
+Type = Gameshark
+Activation = EndFrame
+800626FE 0000
+8006338E 0000
+

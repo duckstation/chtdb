@@ -1,0 +1,46 @@
+; CHTDB: ; [ Diablo (Europe) {SLES-01156} ]
+
+[P1 Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+900D939C 0001FFFF
+
+[P2 Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+900DAD84 0001FFFF
+
+[P1 Infinite Mana]
+Type = Gameshark
+Activation = EndFrame
+900D93B0 0001FFFF
+
+[Infinite Gold]
+Type = Gameshark
+Activation = EndFrame
+900D93D0 02FFFFFF
+
+[P1 Active & Max Levels for all spells]
+Type = Gameshark
+Activation = EndFrame
+800D92F2 0F0F
+900D92F4 0F0F0F0F
+900D92F8 0F0F0F0F
+900D92FC 0F0F0F0F
+900D9300 0F0F0F0F
+900D9304 0F0F0F0F
+900D9308 0F0F0F0F
+900D930C 0F0F0F0F
+
+[P2 Active & max Levels for all spells]
+Type = Gameshark
+Activation = EndFrame
+800DACDA 0F0F
+900DACDC 0F0F0F0F
+900DACE0 0F0F0F0F
+900DACE4 0F0F0F0F
+900DACE8 0F0F0F0F
+900DACEC 0F0F0F0F
+900DACF0 0F0F0F0F
+900DACF4 0F0F0F0F
+

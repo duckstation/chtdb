@@ -1,0 +1,22 @@
+; CHTDB: ; [ Midnight in Vegas (Europe) {SLES-02499} ]
+
+[P1 Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+8008E9CA 0098
+
+[P2 Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+8008EB72 0098
+
+[P3 Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+8008ED1A 0098
+
+[P4 Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+8008EEC2 0098
+

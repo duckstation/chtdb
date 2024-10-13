@@ -1,0 +1,162 @@
+; CHTDB: ; [ MLB 98 (USA) (1997) (Sony Computer Entertainment America) {SCUS-94170} <mlb98> ]
+
+[Select Away Score\9]
+Type = Gameshark
+Activation = EndFrame
+300121F7 0009
+
+[Select Away Score\0]
+Type = Gameshark
+Activation = EndFrame
+300121F7 0000
+
+[Select Home Score\9]
+Type = Gameshark
+Activation = EndFrame
+300121B5 0009
+
+[Select Home Score\0]
+Type = Gameshark
+Activation = EndFrame
+300121B5 0000
+
+[Infinite Strikes]
+Type = Gameshark
+Activation = EndFrame
+800B34D2 0000
+
+[1 Strike And You Are Out]
+Type = Gameshark
+Activation = EndFrame
+A60B34D2 00000002
+
+[2 Strikes And You Are Out]
+Type = Gameshark
+Activation = EndFrame
+A60B34D2 00000001
+
+[Infinite Balls]
+Type = Gameshark
+Activation = EndFrame
+800B34D4 0000
+
+[1 Ball And You Walk]
+Type = Gameshark
+Activation = EndFrame
+A60B34D4 00000003
+
+[2 Balls And You Walk]
+Type = Gameshark
+Activation = EndFrame
+A60B34D4 00000002
+
+[3 Balls And You Walk]
+Type = Gameshark
+Activation = EndFrame
+A60B34D4 00000001
+
+[Infinite Outs]
+Type = Gameshark
+Activation = EndFrame
+800B34D0 0000
+
+[1 Out And You Are Out]
+Type = Gameshark
+Activation = EndFrame
+A60B34D0 00000002
+
+[2 Outs And You Are Out]
+Type = Gameshark
+Activation = EndFrame
+A60B34D0 00000001
+
+[Fake Infinite Stamina Home Team Pitcher]
+Type = Gameshark
+Activation = EndFrame
+800B34AC 0064
+
+[Fake Infinite Stamina Away Team Pitcher]
+Type = Gameshark
+Activation = EndFrame
+800B34AE 0064
+
+[Infinite Stamina Home Team Pitcher]
+Type = Gameshark
+Activation = EndFrame
+800B34C2 0064
+
+[Infinite Stamina Away Team Pitcher]
+Type = Gameshark
+Activation = EndFrame
+800B34C6 0064
+
+[Player Creation\Max Power]
+Type = Gameshark
+Activation = EndFrame
+301C89CA 0064
+
+[Player Creation\Max Average]
+Type = Gameshark
+Activation = EndFrame
+301C89CB 0064
+
+[Player Creation\Max Speed]
+Type = Gameshark
+Activation = EndFrame
+301C89CF 0064
+
+[Player Creation\Max Arm]
+Type = Gameshark
+Activation = EndFrame
+301C89D0 0064
+
+[Player Creation\Max Fielding]
+Type = Gameshark
+Activation = EndFrame
+301C89D1 0064
+
+[Player Creation\Max Jumping]
+Type = Gameshark
+Activation = EndFrame
+301C89D2 0064
+
+[Player Creation\Infinite Points In Pool To Create]
+Type = Gameshark
+Activation = EndFrame
+8018F292 00C8
+
+[Pitcher Creation\Max Speed]
+Type = Gameshark
+Activation = EndFrame
+301C9287 0064
+
+[Pitcher Creation\Max Arm]
+Type = Gameshark
+Activation = EndFrame
+301C9288 0064
+
+[Pitcher Creation\Max Accuracy]
+Type = Gameshark
+Activation = EndFrame
+301C9289 0064
+
+[Pitcher Creation\Max Break]
+Type = Gameshark
+Activation = EndFrame
+301C928A 0064
+
+[Pitcher Creation\Max Fielding]
+Type = Gameshark
+Activation = EndFrame
+301C928B 0064
+
+[Pitcher Creation\Max Jumping]
+Type = Gameshark
+Activation = EndFrame
+301C928C 0064
+
+[Pitcher Creation\Infinite Points In Pool To Create]
+Type = Gameshark
+Activation = EndFrame
+8018F1C2 00C8
+

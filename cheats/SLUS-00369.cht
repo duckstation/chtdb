@@ -1,0 +1,77 @@
+; CHTDB: ; [ Killing Zone (USA) (1996) (Acclaim Entertainment) {SLUS-00369} <killzone> ]
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8008F9EC 0200
+
+[P1 No Energy]
+Type = Gameshark
+Activation = EndFrame
+8008F9EC 0000
+
+[P2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8008F9F0 0200
+
+[P2 No Energy]
+Type = Gameshark
+Activation = EndFrame
+8008F9F0 0000
+
+[P1 25% Energy]
+Type = Gameshark
+Activation = EndFrame
+A608F9EC 02000080
+
+[P1 50% Energy]
+Type = Gameshark
+Activation = EndFrame
+A608F9EC 02000100
+
+[P1 75% Energy]
+Type = Gameshark
+Activation = EndFrame
+A608F9EC 02000180
+
+[P1 1-Hit Death]
+Type = Gameshark
+Activation = EndFrame
+A608F9EC 02000001
+
+[P2 25% Energy]
+Type = Gameshark
+Activation = EndFrame
+A608F9F0 02000080
+
+[P2 50% Energy]
+Type = Gameshark
+Activation = EndFrame
+A608F9F0 02000100
+
+[P2 75% Energy]
+Type = Gameshark
+Activation = EndFrame
+A608F9F0 02000180
+
+[P2 1-Hit Death]
+Type = Gameshark
+Activation = EndFrame
+A608F9F0 02000001
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A70BE58C 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A70BE58C 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A70BE58C 10000400
+

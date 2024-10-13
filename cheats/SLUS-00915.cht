@@ -1,0 +1,9 @@
+; CHTDB: ; [ The X-Files (USA) (1999) (Fox Interactive) {SLUS-00915 / SLUS-00949 / SLUS-00950 / SLUS-00951} <xfiles> ]
+
+[Have All Items]
+Description = This cheat might mess up events in the game, like certain things you won't be able to do, etc.
+Type = Gameshark
+Activation = EndFrame
+90128D84 FFFFFFFF
+80128D88 FFFF
+

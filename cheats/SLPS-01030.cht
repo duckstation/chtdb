@@ -1,0 +1,31 @@
+; CHTDB: ; [ Kuro no Ken - Blade of the Darkness (Jpn) (1997) (CD Bros.) {SLPS-01030} <kuroken> ]
+
+[99999 Gold]
+Type = Gameshark
+Activation = EndFrame
+90094418 0001869F
+
+[99999 Exp]
+Type = Gameshark
+Activation = EndFrame
+900946E0 0001869F
+
+[Hp 9999/Mp 999]
+Type = Gameshark
+Activation = EndFrame
+800946E8 270F
+800946EC 270F
+800946F0 03E7
+800946F4 03E7
+
+[Level 99]
+Type = Gameshark
+Activation = EndFrame
+800946DE 6320
+
+[All ITEMS 99]
+Type = Gameshark
+Activation = EndFrame
+50003B02 0000
+90094420 63636301
+

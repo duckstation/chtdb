@@ -1,0 +1,16 @@
+; CHTDB: ; [ Kiganjou (Japan) {SLPS-02370} ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80164F44 00C8
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+80184068 0C00
+8017FB18 0FF0
+8017FB98 0FF0
+8017FBD8 0FF0
+8017FC18 0FF0
+

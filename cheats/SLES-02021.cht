@@ -1,0 +1,92 @@
+; CHTDB: ; [ Rampage 2: Universal Tour (Europe) {SLES-02021} ]
+
+[Infinite Health Curtis]
+Type = Gameshark
+Activation = EndFrame
+801E1632 0044
+
+[Infinite Lives Curtis]
+Type = Gameshark
+Activation = EndFrame
+801E162C 0009
+
+[Infinite Health Boris]
+Type = Gameshark
+Activation = EndFrame
+801E1852 0044
+
+[Infinite Lives Boris]
+Type = Gameshark
+Activation = EndFrame
+801E184C 0009
+
+[Infinite Health Ruby]
+Type = Gameshark
+Activation = EndFrame
+801E1A72 0044
+
+[Infinite Lives Ruby]
+Type = Gameshark
+Activation = EndFrame
+801E1A6C 0009
+
+[Infinite Health George]
+Type = Gameshark
+Activation = EndFrame
+801E1C92 0044
+
+[Infinite Lives George]
+Type = Gameshark
+Activation = EndFrame
+801E1C8C 0005
+
+[Infinite Health Lizzie]
+Type = Gameshark
+Activation = EndFrame
+801E1EB2 0044
+
+[Infinite Lives Lizzie]
+Type = Gameshark
+Activation = EndFrame
+801E1EAC 0005
+
+[Infinite Health Ralph]
+Type = Gameshark
+Activation = EndFrame
+801E20D2 0044
+
+[Infinite Lives Ralph]
+Type = Gameshark
+Activation = EndFrame
+801E20CC 0005
+
+[Infinite Health Myukus & Neebus]
+Type = Gameshark
+Activation = EndFrame
+801E22F2 0044
+
+[Infinite Lives Myukus & Neebus]
+Type = Gameshark
+Activation = EndFrame
+801E22EC 0005
+
+[Enable George]
+Type = Gameshark
+Activation = EndFrame
+801FA2DA 0000
+
+[Enable Lizzie]
+Type = Gameshark
+Activation = EndFrame
+801FA2DC 0000
+
+[Enable Ralph]
+Type = Gameshark
+Activation = EndFrame
+801FA2DE 0000
+
+[Enable Myukus]
+Type = Gameshark
+Activation = EndFrame
+801FA2E0 0000
+

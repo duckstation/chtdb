@@ -1,0 +1,31 @@
+; CHTDB: ; [ Brave Sword (Jpn) (2000) (Sammy) {SLPS-02889} <braveswd> ]
+
+[Have 9999999 gold]
+Type = Gameshark
+Activation = EndFrame
+900D8014 0098967F
+
+[Infinite HP in battle main character]
+Type = Gameshark
+Activation = EndFrame
+800EC064 03E7
+800EC068 03E7
+
+[Infinite SP in battle main character]
+Type = Gameshark
+Activation = EndFrame
+800EC075 03E7
+800EC079 03E7
+
+[Infinite HP in battle 2nd character - Mary]
+Type = Gameshark
+Activation = EndFrame
+800EC810 03E7
+800EC814 03E7
+
+[Infinite HP in battle 3rd character - Los]
+Type = Gameshark
+Activation = EndFrame
+800ECFBC 03E7
+800ECFC0 03E7
+

@@ -1,0 +1,88 @@
+; CHTDB: ; [ Pax Corpus (Europe) {SLES-00953} ]
+
+[Infinite Energy-Capsules]
+Type = Gameshark
+Activation = EndFrame
+80123F1C 0001
+8012440C 0001
+
+[Infinite Plasma]
+Type = Gameshark
+Activation = EndFrame
+8012397E 0005
+
+[Infinite Rockets]
+Type = Gameshark
+Activation = EndFrame
+80123AE6 0005
+
+[Infinite Mega Blast]
+Type = Gameshark
+Activation = EndFrame
+80123DB6 0001
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800AD13A 0000
+
+[No Blue Energy (Radiation)]
+Type = Gameshark
+Activation = EndFrame
+800AD146 0000
+
+[Have all keys]
+Type = Gameshark
+Activation = EndFrame
+30123F1C 0001
+30124628 0001
+
+[Have Clones]
+Type = Gameshark
+Activation = EndFrame
+301238C0 0001
+
+[Invulnerable]
+Type = Gameshark
+Activation = EndFrame
+800AD1FE 0100
+
+[Select Level\Hangar Press X at Password-Screen]
+Type = Gameshark
+Activation = EndFrame
+D00AD70E 0000
+300AD70E 0004
+
+[Select Level\Jail Press X at Password-Screen]
+Type = Gameshark
+Activation = EndFrame
+D00AD70E 0000
+300AD70E 0001
+
+[Select Level\Laboratory Press X at Password-Screen]
+Type = Gameshark
+Activation = EndFrame
+D00AD70E 0000
+300AD70E 0003
+
+[Select Level\Temple Press X at Password-Screen]
+Type = Gameshark
+Activation = EndFrame
+D00AD70E 0000
+300AD70E 0002
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A710F4C0 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A710F4C0 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A710F4C0 10000400
+

@@ -1,0 +1,218 @@
+; CHTDB: ; [ Carmageddon (Europe) {SLES-01960} ]
+
+[P1 Invincibility]
+Type = Gameshark
+Activation = EndFrame
+300D41FA 0000
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80076DE8 1A5E
+
+[P1 Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+A6076DEC 2710D02C
+A6076DEE 00000160
+A6078480 2710D02C
+A6078482 00000160
+
+[Press L2 & R2 For All Cars]
+Type = Gameshark
+Activation = EndFrame
+D4000000 0003
+50000F02 0000
+80078484 0101
+
+[Unlock All Cars]
+Type = Gameshark
+Activation = EndFrame
+50000F02 0000
+80078484 0101
+
+[One Lap Race/Finish First (3 Lap Race)]
+Type = Gameshark
+Activation = EndFrame
+801BE282 0003
+
+[Choose Track Slaughter City]
+Type = Gameshark
+Activation = EndFrame
+A607844C 00000000
+
+[Choose Track Sands of Crime]
+Type = Gameshark
+Activation = EndFrame
+A607844C 00000001
+
+[Choose Track World Of Carnage]
+Type = Gameshark
+Activation = EndFrame
+A607844C 00000002
+
+[Choose Track Figure of Hate]
+Type = Gameshark
+Activation = EndFrame
+A607844C 00000003
+
+[Choose Track Sad and Insane]
+Type = Gameshark
+Activation = EndFrame
+A607844C 00000004
+
+[Choose Track China Krisis (Mission 1)]
+Type = Gameshark
+Activation = EndFrame
+A607844C 00000005
+
+[Choose Track Fridge Racer]
+Type = Gameshark
+Activation = EndFrame
+A607844C 00000100
+
+[Choose Track Night of the Living Zombie]
+Type = Gameshark
+Activation = EndFrame
+A607844C 00000101
+
+[Choose Track Chopping Centre]
+Type = Gameshark
+Activation = EndFrame
+A607844C 00000102
+
+[Choose Track Twin Shrieks]
+Type = Gameshark
+Activation = EndFrame
+A607844C 00000103
+
+[Choose Track Carma McRay]
+Type = Gameshark
+Activation = EndFrame
+A607844C 00000104
+
+[Choose Track Checkpoint Stampede (Mission 2)]
+Type = Gameshark
+Activation = EndFrame
+A607844C 00000105
+
+[Choose Track Dragon Slayer]
+Type = Gameshark
+Activation = EndFrame
+A607844C 00000200
+
+[Choose Track Maim Street]
+Type = Gameshark
+Activation = EndFrame
+A607844C 00000201
+
+[Choose Track Just Deserts]
+Type = Gameshark
+Activation = EndFrame
+A607844C 00000202
+
+[Choose Track The Pits]
+Type = Gameshark
+Activation = EndFrame
+A607844C 00000203
+
+[Choose Track Avenue of Atrocities]
+Type = Gameshark
+Activation = EndFrame
+A607844C 00000204
+
+[Choose Track Car Crusher (Mission 3)]
+Type = Gameshark
+Activation = EndFrame
+A607844C 00000205
+
+[Choose Track Chiller]
+Type = Gameshark
+Activation = EndFrame
+A607844C 00000300
+
+[Choose Track Evil Zombie]
+Type = Gameshark
+Activation = EndFrame
+A607844C 00000301
+
+[Choose Track Slaying the Field]
+Type = Gameshark
+Activation = EndFrame
+A607844C 00000302
+
+[Choose Track Town Raider]
+Type = Gameshark
+Activation = EndFrame
+A607844C 00000303
+
+[Choose Track Pub Cruel]
+Type = Gameshark
+Activation = EndFrame
+A607844C 00000304
+
+[Choose Track Snow Way Out (Mission 4)]
+Type = Gameshark
+Activation = EndFrame
+A607844C 00000305
+
+[Choose Track Medieval Massacre]
+Type = Gameshark
+Activation = EndFrame
+A607844C 00000400
+
+[Choose Track Downtown Devastation]
+Type = Gameshark
+Activation = EndFrame
+A607844C 00000401
+
+[Choose Track Tutan Carnage]
+Type = Gameshark
+Activation = EndFrame
+A607844C 00000402
+
+[Choose Track Top gear Thrash]
+Type = Gameshark
+Activation = EndFrame
+A607844C 00000403
+
+[Choose Track Terror on the Trails]
+Type = Gameshark
+Activation = EndFrame
+A607844C 00000404
+
+[Choose Track Pick-Me-Up (Mission 5)]
+Type = Gameshark
+Activation = EndFrame
+A607844C 00000405
+
+[Choose Track Slalom Slayfest]
+Type = Gameshark
+Activation = EndFrame
+A607844C 00000500
+
+[Choose Track Rocky Horror]
+Type = Gameshark
+Activation = EndFrame
+A607844C 00000501
+
+[Choose Track Halfway to Hell]
+Type = Gameshark
+Activation = EndFrame
+A607844C 00000502
+
+[Choose Track Death Valley]
+Type = Gameshark
+Activation = EndFrame
+A607844C 00000503
+
+[Choose Track Country Killer]
+Type = Gameshark
+Activation = EndFrame
+A607844C 00000504
+
+[Choose Track Desert Storm (Mission 6)]
+Type = Gameshark
+Activation = EndFrame
+A607844C 00000505
+

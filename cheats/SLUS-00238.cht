@@ -1,0 +1,32 @@
+; CHTDB: ; [ International Track & Field (USA) (1996) (Konami of America) {SLUS-00238} <itf> ]
+
+[Full Power-100m Sprint,100m Swim, Pole Vault, Hurdles]
+Type = Gameshark
+Activation = EndFrame
+801024AA 417F
+
+[Full Power-High Jump, Hammer, Discus, Shot Put]
+Type = Gameshark
+Activation = EndFrame
+8010256E 42FF
+
+[Perfect Angle Hammer]
+Type = Gameshark
+Activation = EndFrame
+800B1288 0200
+
+[Full Power-Javelin]
+Type = Gameshark
+Activation = EndFrame
+800B1F5E 416F
+
+[Perfect Angle Javelin]
+Type = Gameshark
+Activation = EndFrame
+80103EE4 002D
+
+[Full Speed Long Jump + Triple Jump]
+Type = Gameshark
+Activation = EndFrame
+800B1B96 471F
+

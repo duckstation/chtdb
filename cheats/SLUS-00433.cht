@@ -1,0 +1,48 @@
+; CHTDB: ; [ Fighting Force (USA, v1.0) (1997) (Eidos Interactive) {SLUS-00433} <fforceb> ]
+
+[Lot Of Special Attacks]
+Type = Gameshark
+Activation = EndFrame
+D0093A16 FFFF
+90024F3C 00000000
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800B435A 017C
+
+[P2 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800B444E 017C
+
+[Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+80093D50 0009
+
+[Infinite Missile (Stage1)]
+Type = Gameshark
+Activation = EndFrame
+8009A56A 0009
+
+[1 Hit Death All Enemies]
+Type = Gameshark
+Activation = EndFrame
+800B4542 0001
+800B4636 0001
+800B472A 0001
+800B481E 0001
+800B4912 0001
+
+[Cheat Mode]
+Type = Gameshark
+Activation = EndFrame
+80093D63 0002
+
+[Stage Skip and More X+L1 When In Game]
+Type = Gameshark
+Activation = EndFrame
+D0093A10 4400
+800B4318 CC6C
+

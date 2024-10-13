@@ -1,0 +1,12 @@
+; CHTDB: ; [ Panzer General (Europe) {SLES-00041} ]
+
+[Prestige Points]
+Type = Gameshark
+Activation = EndFrame
+800EDE18 2000
+
+[Turn Counter]
+Type = Gameshark
+Activation = EndFrame
+80089C98 0A0B
+

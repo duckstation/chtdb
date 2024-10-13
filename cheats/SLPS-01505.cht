@@ -1,0 +1,12 @@
+; CHTDB: ; [ Princess Maker - Go! Go! Princess (Jpn) (1999) (NineLives) {SLPS-01505} <prinmak> ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+901397C0 000F423F
+
+[Infinite HP in battle]
+Type = Gameshark
+Activation = EndFrame
+801396B4 00CB
+

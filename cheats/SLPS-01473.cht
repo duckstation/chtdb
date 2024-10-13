@@ -1,0 +1,35 @@
+; CHTDB: ; [ Sentimental Journey (Japan) {SLPS-01473} ]
+
+[Player has 30 coins]
+Type = Gameshark
+Activation = EndFrame
+3007BB75 001E
+
+[Opponent 1 has 0 coins]
+Type = Gameshark
+Activation = EndFrame
+3007BAF1 0000
+
+[Opponent 2 has 0 coins]
+Type = Gameshark
+Activation = EndFrame
+3007BBF9 0000
+
+[Opponent 3 has 0 coins]
+Type = Gameshark
+Activation = EndFrame
+3007BC7D 0000
+
+[Player Favorability MAX everyone]
+Type = Gameshark
+Activation = EndFrame
+50000C02 0000
+8007BB5C 03E7
+
+[Bonus fully open You need a memory card save]
+Type = Gameshark
+Activation = EndFrame
+8009EB3A FFFF
+8009F7DC 0001
+8009FAF4 010B
+

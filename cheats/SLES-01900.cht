@@ -1,0 +1,24 @@
+; CHTDB: ; [ Centipede (Europe) {SLES-01900} ]
+
+[Adventure Mode\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800BA5AC 0005
+
+[Adventure Mode\Enable All Level (.Press Select in main-men The game will do some weird things if the enable codes are on. To prevent this, just load the game, press Select in main-menu, verify that all levels are selectable and save this to memory card. From now never activate this code again.)]
+Type = Gameshark
+Activation = EndFrame
+D0051490 0100
+50001E3C 0000
+80058054 0001
+
+[Arcade Mode\P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80096A40 0005
+
+[Arcade Mode\P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80096A44 0005
+

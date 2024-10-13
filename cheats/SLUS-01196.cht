@@ -1,0 +1,77 @@
+; CHTDB: ; [ Power Spike - Pro Beach Volleyball (USA) (2000) (Infogrames) {SLUS-01196} <pspikebv> ]
+
+[All Levels Unlocked]
+Type = Gameshark
+Activation = EndFrame
+30097BBB 00FF
+
+[Max Attack]
+Type = Gameshark
+Activation = EndFrame
+300B3294 0064
+
+[Max Block]
+Type = Gameshark
+Activation = EndFrame
+300B3291 0064
+
+[Max Creation Stats]
+Type = Gameshark
+Activation = EndFrame
+50000601 0000
+300B328F 0064
+
+[Max Pass]
+Type = Gameshark
+Activation = EndFrame
+300B3292 0064
+
+[Max Serve]
+Type = Gameshark
+Activation = EndFrame
+300B3290 0064
+
+[Max Set]
+Type = Gameshark
+Activation = EndFrame
+300B3293 0064
+
+[Max Strength]
+Type = Gameshark
+Activation = EndFrame
+300B328F 0064
+
+[Points Score 15]
+Type = Gameshark
+Activation = EndFrame
+8004AA84 000F
+
+[Points Score 21]
+Type = Gameshark
+Activation = EndFrame
+8004AA84 0015
+
+[Team 1 Never Scores]
+Type = Gameshark
+Activation = EndFrame
+E00B2980 0001
+300B2980 0000
+
+[Team 1 On Match Point]
+Type = Gameshark
+Activation = EndFrame
+E00B2980 0000
+300B2980 000E
+
+[Team 2 Never Scores]
+Type = Gameshark
+Activation = EndFrame
+E00B2985 0001
+300B2985 0000
+
+[Team 2 On Match Point]
+Type = Gameshark
+Activation = EndFrame
+E00B2985 0000
+300B2985 000E
+

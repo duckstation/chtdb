@@ -1,0 +1,62 @@
+; CHTDB: ; [ Gex: Deep Cover Gecko (Europe) {SLES-01299} ]
+
+[99 Flies]
+Type = Gameshark
+Activation = EndFrame
+800A2D8A 0063
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800A2DEA 0004
+
+[99 Hands]
+Type = Gameshark
+Activation = EndFrame
+800A2DB8 0063
+
+[Infinite Lives 99]
+Type = Gameshark
+Activation = EndFrame
+800A2D7A 0063
+
+[99 Golden Coins]
+Type = Gameshark
+Activation = EndFrame
+800A2D9A 0063
+
+[99 Coffins]
+Type = Gameshark
+Activation = EndFrame
+800A2DAA 0063
+
+[Have 24 Paw coins]
+Type = Gameshark
+Activation = EndFrame
+800AB0B8 0018
+
+[Have 99 Bonus coins]
+Type = Gameshark
+Activation = EndFrame
+800AB0BC 0063
+
+[Have 99 Fly coins]
+Type = Gameshark
+Activation = EndFrame
+800AB0B4 0063
+
+[Have 99 TV remotes]
+Type = Gameshark
+Activation = EndFrame
+800AB0C0 0063
+
+[Press select to make Gex speak]
+Type = Gameshark
+Activation = EndFrame
+800AB194 2000
+
+[Unbeatable]
+Type = Gameshark
+Activation = EndFrame
+80097B1C 0003
+

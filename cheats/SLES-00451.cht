@@ -1,0 +1,22 @@
+; CHTDB: ; [ Lomax (Europe) {SLES-00451} ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+8006D4A0 00C7
+
+[Infinite Bridgebuilder]
+Type = Gameshark
+Activation = EndFrame
+8006D2C0 0014
+
+[Infinite Grabhelmet]
+Type = Gameshark
+Activation = EndFrame
+8006D488 0014
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8006D4B4 0009
+

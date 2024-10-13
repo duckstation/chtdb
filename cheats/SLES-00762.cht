@@ -1,0 +1,39 @@
+; CHTDB: ; [ Air Race (Europe) {SLES-00762} ]
+
+[Always Come In First]
+Type = Gameshark
+Activation = EndFrame
+801E91E0 0001
+
+[Infinite Checkpoint Time]
+Type = Gameshark
+Activation = EndFrame
+801DE894 1693
+
+[Lap Time 00.00]
+Type = Gameshark
+Activation = EndFrame
+801D91DC 0000
+801D91E0 0000
+801D91E4 0000
+
+[Finished Race When Starting]
+Type = Gameshark
+Activation = EndFrame
+801E91E6 0003
+
+[Fly Through Walls & No 'Course Out']
+Type = Gameshark
+Activation = EndFrame
+801E91A4 0001
+
+[Have F-16]
+Type = Gameshark
+Activation = EndFrame
+801DE68E 000A
+
+[Have Stealth]
+Type = Gameshark
+Activation = EndFrame
+801DE68E 000B
+

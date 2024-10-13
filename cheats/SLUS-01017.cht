@@ -1,0 +1,186 @@
+; CHTDB: ; [ Alundra 2 - A New Legend Begins (USA) (2000) (Activision) {SLUS-01017} <alundra2> ]
+
+[Infinite Health With Max Health]
+Type = Gameshark
+Activation = EndFrame
+90067710 03E703E7
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+80067704 FFFF
+
+[Moon Jump]
+Type = Gameshark
+Activation = EndFrame
+E0081BFA 00BF
+8011D64C 8BA8
+E0081BFA 00BD
+8011D64C 8BA8
+
+[Max Money]
+Type = Gameshark
+Activation = EndFrame
+90067704 000F423F
+
+[All Shops Have Infinite Items In Stock]
+Type = Gameshark
+Activation = EndFrame
+50000E20 0000
+300674E5 00FF
+50000E20 0000
+800674E6 FFFF
+50000E20 0000
+800674E8 FFFF
+50000E20 0000
+800674EA FFFF
+50000E20 0000
+800674EC FFFF
+50000E20 0000
+800674EE FFFF
+50000E20 0000
+800674F0 FFFF
+50000E20 0000
+300674F2 00FF
+
+[Infinite Wonder Orb]
+Type = Gameshark
+Activation = EndFrame
+3006743F 0009
+
+[Infinite Herbs]
+Type = Gameshark
+Activation = EndFrame
+30067440 0009
+
+[Infinite Compass]
+Type = Gameshark
+Activation = EndFrame
+30067441 0009
+
+[Infinite Tonic]
+Type = Gameshark
+Activation = EndFrame
+30067442 0009
+
+[Infinite Elixir]
+Type = Gameshark
+Activation = EndFrame
+30067443 0009
+
+[Infinite Panacea]
+Type = Gameshark
+Activation = EndFrame
+30067444 0009
+
+[Infinite Lorien Nuts]
+Type = Gameshark
+Activation = EndFrame
+30067445 0009
+
+[Infinite Grapes Of Eru]
+Type = Gameshark
+Activation = EndFrame
+30067446 0009
+
+[Infinite Round Key (Special Item)]
+Type = Gameshark
+Activation = EndFrame
+30067447 0009
+
+[Infinite Triangle Key (Special Item)]
+Type = Gameshark
+Activation = EndFrame
+30067448 0009
+
+[Infinite Ticket (Special Item)]
+Type = Gameshark
+Activation = EndFrame
+30067449 0009
+
+[Infinite Bone Dart (Special Item)]
+Type = Gameshark
+Activation = EndFrame
+3006744C 0009
+
+[Infinite Goo Goo Bird (Special Item)]
+Type = Gameshark
+Activation = EndFrame
+3006744D 0009
+
+[Infinite Puzzle Piece]
+Type = Gameshark
+Activation = EndFrame
+30067450 0009
+
+[Infinite Elf Ring]
+Type = Gameshark
+Activation = EndFrame
+30067452 0009
+
+[Infinite SP Elf Ring]
+Type = Gameshark
+Activation = EndFrame
+30067453 0009
+
+[Infinite Guard Ring]
+Type = Gameshark
+Activation = EndFrame
+30067454 0009
+
+[Infinite SP Guard Ring]
+Type = Gameshark
+Activation = EndFrame
+30067455 0009
+
+[Infinite Amulet]
+Type = Gameshark
+Activation = EndFrame
+30067456 0009
+
+[Infinite Elemental Ring]
+Type = Gameshark
+Activation = EndFrame
+30067458 0009
+
+[Infinite Elemental Charm]
+Type = Gameshark
+Activation = EndFrame
+30067459 0009
+
+[Infinite Crimson Cape (Special Item)]
+Type = Gameshark
+Activation = EndFrame
+3006745A 0009
+
+[All Items]
+Type = Gameshark
+Activation = EndFrame
+50001B01 0000
+3006743F 0009
+
+[Infinite Gray Coins (The Races Vs Bull)]
+Type = Gameshark
+Activation = EndFrame
+801C72C0 0063
+
+[Infinite Tonic (The Races Vs Bull)]
+Type = Gameshark
+Activation = EndFrame
+801C72BC 0009
+
+[Infinite Gold Coins (The Races Vs Bull)]
+Type = Gameshark
+Activation = EndFrame
+801C72B8 0063
+
+[Infinite Dungeon Keys (The Races Vs Bull)]
+Type = Gameshark
+Activation = EndFrame
+3006744F 0009
+
+[Widescreen 16-9 (Vert-)]
+Type = Gameshark
+Activation = EndFrame
+A70595B8 10000C00
+

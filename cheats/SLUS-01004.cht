@@ -1,0 +1,58 @@
+; CHTDB: ; [ CyberTiger (USA) (1999) (Electronic Arts) {SLUS-01004} <cybtiger> ]
+
+[Enable All Courses + Characters]
+Type = Gameshark
+Activation = EndFrame
+8008D824 FFFF
+
+[P1 Only Record One Shot]
+Type = Gameshark
+Activation = EndFrame
+800C0E44 0000
+
+[P1 Infinite Super Balls]
+Type = Gameshark
+Activation = EndFrame
+300CCD40 0063
+
+[P1 Infinite Eye Balls]
+Type = Gameshark
+Activation = EndFrame
+300CCD41 0063
+
+[P1 Infinite Mulligan Balls]
+Type = Gameshark
+Activation = EndFrame
+300CCD42 0063
+
+[P1 Infinite Gum Balls]
+Type = Gameshark
+Activation = EndFrame
+300CCD43 0063
+
+[P1 Infinite Power Balls]
+Type = Gameshark
+Activation = EndFrame
+300CCD44 0063
+
+[P1 Infinite Ghost Balls]
+Type = Gameshark
+Activation = EndFrame
+300CCD45 0063
+
+[P1 Infinite Mystery Balls]
+Type = Gameshark
+Activation = EndFrame
+300CCD46 0063
+
+[P1 Infinite Spin Balls]
+Type = Gameshark
+Activation = EndFrame
+300CCD47 0063
+
+[P1 Have All Power-Up Balls]
+Type = Gameshark
+Activation = EndFrame
+50000402 0000
+800CCD40 6363
+

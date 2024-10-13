@@ -1,0 +1,18 @@
+; CHTDB: ; [ KISS Pinball (Europe) {SLES-03211} ]
+
+[Infinite Balls (NetherwOrl On Press Up & R2]
+Type = Gameshark
+Activation = EndFrame
+D00BA3BA FDEF
+30043A38 0000
+D00BA3BA FDEF
+80043A3A 0000
+
+[Infinite Balls (Oblivion) On Press Up & L2]
+Type = Gameshark
+Activation = EndFrame
+D00BA3BA FEEF
+300450E0 0000
+D00BA3BA FEEF
+800450E2 0000
+

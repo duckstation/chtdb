@@ -1,0 +1,96 @@
+; CHTDB: ; [ King's Field (Europe) {SCES-00510} ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8019B4D8 03E7
+
+[Infinite Energy Refresh]
+Type = Gameshark
+Activation = EndFrame
+8019B4DE 1388
+
+[Infinite Magic Points]
+Type = Gameshark
+Activation = EndFrame
+8019B4DC 03E7
+
+[Infinite Magic Points Refresh]
+Type = Gameshark
+Activation = EndFrame
+8019B4E2 1388
+
+[Infinite Gold]
+Type = Gameshark
+Activation = EndFrame
+8019B4F0 7530
+
+[High Strength]
+Type = Gameshark
+Activation = EndFrame
+80199438 0064
+
+[Rapid Weapon Use]
+Type = Gameshark
+Activation = EndFrame
+8019B4EE 1388
+
+[High Magic Powers]
+Type = Gameshark
+Activation = EndFrame
+8019B4CE 0064
+
+[Infinite Hitpoints]
+Type = Gameshark
+Activation = EndFrame
+80199426 00FA
+80199428 00FA
+
+[Infinite Magicpoints]
+Type = Gameshark
+Activation = EndFrame
+8019942A 00FA
+8019942C 00FA
+
+[Quick Gun-Using]
+Type = Gameshark
+Activation = EndFrame
+8019942E 1388
+
+[Quick Magic-Using]
+Type = Gameshark
+Activation = EndFrame
+80199432 1388
+
+[Much Gold]
+Type = Gameshark
+Activation = EndFrame
+80199440 C350
+
+[High Str-Value]
+Type = Gameshark
+Activation = EndFrame
+80199438 0064
+
+[High Mag-Value]
+Type = Gameshark
+Activation = EndFrame
+8019943E 0064
+
+[Mega-Offensive]
+Type = Gameshark
+Activation = EndFrame
+90199444 00640064
+90199448 00640064
+9019944C 00640064
+90199450 00640064
+
+[Mega-Defensive]
+Type = Gameshark
+Activation = EndFrame
+80199456 0064
+90199458 00640064
+9019945C 00640064
+90199460 00640064
+90199464 00640064
+

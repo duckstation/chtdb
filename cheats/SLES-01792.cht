@@ -1,0 +1,23 @@
+; CHTDB: ; [ Marvel Super Heroes vs. Street Fighter (Europe) {SLES-01792} ]
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8007060C 0090
+
+[P1 Infinite Combo Gauge]
+Type = Gameshark
+Activation = EndFrame
+80070610 0603
+
+[P2 No health]
+Type = Gameshark
+Activation = EndFrame
+800709CC 0000
+800709D6 0000
+
+[Unlock All Endings & Illustrations]
+Type = Gameshark
+Activation = EndFrame
+90025020 FFFFFFFF
+

@@ -1,0 +1,108 @@
+; CHTDB: ; [ Fighter Maker (USA) (1999) (Agetec) {SLUS-00641} <fightmkr> ]
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+301E1041 00C8
+
+[P1 75% Energy]
+Type = Gameshark
+Activation = EndFrame
+D01E1040 0000
+301E1041 0096
+
+[P1 50% Energy]
+Type = Gameshark
+Activation = EndFrame
+D01E1040 0000
+301E1041 0064
+
+[P1 25% Energy]
+Type = Gameshark
+Activation = EndFrame
+D01E1040 0000
+301E1041 0032
+
+[P1 1-Hit Death]
+Type = Gameshark
+Activation = EndFrame
+D01E1040 0000
+301E1041 0001
+
+[P1 No Energy]
+Type = Gameshark
+Activation = EndFrame
+301E1045 0000
+
+[P2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+D01E1044 0000
+301E1045 00C8
+
+[P2 75% Energy]
+Type = Gameshark
+Activation = EndFrame
+D01E1044 0000
+301E1045 0096
+
+[P2 50% Energy]
+Type = Gameshark
+Activation = EndFrame
+D01E1044 0000
+301E1045 0064
+
+[P2 25% Energy]
+Type = Gameshark
+Activation = EndFrame
+D01E1044 0000
+301E1045 0032
+
+[P2 1-Hit Death]
+Type = Gameshark
+Activation = EndFrame
+D01E1044 0000
+301E1045 0001
+
+[P2 No Energy]
+Type = Gameshark
+Activation = EndFrame
+301E1045 0000
+
+[P1 Never Wins]
+Type = Gameshark
+Activation = EndFrame
+301E0BA0 0000
+
+[P2 Never Wins]
+Type = Gameshark
+Activation = EndFrame
+301E0BA1 0000
+
+[P1 Has 1 Win Advantage]
+Type = Gameshark
+Activation = EndFrame
+E01E0BA0 0000
+301E0BA0 0001
+
+[P2 Has 1 Win Advantage]
+Type = Gameshark
+Activation = EndFrame
+E01E0BA1 0000
+301E0BA1 0001
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A71EF410 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A71EF410 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A71EF410 10000400
+

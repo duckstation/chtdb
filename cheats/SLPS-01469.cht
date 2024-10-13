@@ -1,0 +1,37 @@
+; CHTDB: ; [ Blue Breaker Burst: Hohoemi o Anata to (Japan) (Shokai Genteiban) {SLPS-01469} ]
+
+[P1 Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800E597A 0140
+
+[P1 Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+800E597C 0005
+
+[P2 Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800E665E 0140
+
+[P2 Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+800E6660 0005
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A70DACB0 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A70DACB0 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A70DACB0 10000400
+

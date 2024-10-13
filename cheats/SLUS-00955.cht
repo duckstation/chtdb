@@ -1,0 +1,320 @@
+; CHTDB: ; [ Sled Storm (USA) (1999) (Electronic Arts) {SLUS-00955, SLUS-00955GH} <sledstrm> ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+800BFFA0 FFFF
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800D8AD0 0000
+
+[Points Multiplier]
+Type = Gameshark
+Activation = EndFrame
+800D8AB8 FFFF
+
+[Instant 1st Place]
+Type = Gameshark
+Activation = EndFrame
+800D8AC4 0004
+
+[Enable All Open Mountain Tracks]
+Type = Gameshark
+Activation = EndFrame
+800D4432 0E02
+800D4438 0305
+
+[Enable All Sleds]
+Type = Gameshark
+Activation = EndFrame
+50003701 0000
+300D4D71 0002
+
+[Enable All Super Snocross Tracks]
+Type = Gameshark
+Activation = EndFrame
+800D4446 0A0C
+
+[Enable Fog Mode]
+Type = Gameshark
+Activation = EndFrame
+800C0808 0001
+
+[Enable Jackal]
+Type = Gameshark
+Activation = EndFrame
+800C0812 0001
+
+[Enable Night Mode]
+Type = Gameshark
+Activation = EndFrame
+800C080A 0001
+
+[Enable Sergei]
+Type = Gameshark
+Activation = EndFrame
+800C0810 0001
+
+[Gio Enable 400 CC Custom Sled]
+Type = Gameshark
+Activation = EndFrame
+300D4D86 0002
+
+[Gio Enable 600 CC Custom Sled]
+Type = Gameshark
+Activation = EndFrame
+300D4D88 0002
+
+[Gio Enable 600 CC Stock Sled]
+Type = Gameshark
+Activation = EndFrame
+300D4D87 0002
+
+[Gio Enable 800 CC Custom Sled]
+Type = Gameshark
+Activation = EndFrame
+300D4D8A 0002
+
+[Gio Enable 800 CC Stock Sled]
+Type = Gameshark
+Activation = EndFrame
+300D4D89 0002
+
+[Gio Enable Storm Sled]
+Type = Gameshark
+Activation = EndFrame
+300D4D8B 0002
+
+[Infinite Tries]
+Type = Gameshark
+Activation = EndFrame
+800C18A0 0003
+
+[Jackal Enable 400 CC Custom Sled]
+Type = Gameshark
+Activation = EndFrame
+300D4D78 0002
+
+[Jackal Enable 600 CC Custom Sled]
+Type = Gameshark
+Activation = EndFrame
+300D4D7A 0002
+
+[Jackal Enable 600 CC Stock Sled]
+Type = Gameshark
+Activation = EndFrame
+300D4D79 0002
+
+[Jackal Enable 800 CC Custom Sled]
+Type = Gameshark
+Activation = EndFrame
+300D4D7C 0002
+
+[Jackal Enable 800 CC Stock Sled]
+Type = Gameshark
+Activation = EndFrame
+300D4D7B 0002
+
+[Jackal Enable Storm Sled]
+Type = Gameshark
+Activation = EndFrame
+300D4D7D 0002
+
+[Jay Enable 400 CC Custom Sled]
+Type = Gameshark
+Activation = EndFrame
+300D4D9B 0002
+
+[Jay Enable 600 CC Custom Sled]
+Type = Gameshark
+Activation = EndFrame
+300D4D9D 0002
+
+[Jay Enable 600 CC Stock Sled]
+Type = Gameshark
+Activation = EndFrame
+300D4D9C 0002
+
+[Jay Enable 800 CC Custom Sled]
+Type = Gameshark
+Activation = EndFrame
+300D4D9F 0002
+
+[Jay Enable 800 CC Stock Sled]
+Type = Gameshark
+Activation = EndFrame
+300D4D9E 0002
+
+[Jay Enable Storm Sled]
+Type = Gameshark
+Activation = EndFrame
+300D4DA0 0002
+
+[Nadia Enable 400 CC Custom Sled]
+Type = Gameshark
+Activation = EndFrame
+300D4D94 0002
+
+[Nadia Enable 600 CC Custom Sled]
+Type = Gameshark
+Activation = EndFrame
+300D4D96 0002
+
+[Nadia Enable 600 CC Stock Sled]
+Type = Gameshark
+Activation = EndFrame
+300D4D95 0002
+
+[Nadia Enable 800 CC Custom Sled]
+Type = Gameshark
+Activation = EndFrame
+300D4D98 0002
+
+[Nadia Enable 800 CC Stock Sled]
+Type = Gameshark
+Activation = EndFrame
+300D4D97 0002
+
+[Nadia Enable Storm Sled]
+Type = Gameshark
+Activation = EndFrame
+300D4D99 0002
+
+[Ryan Enable 400 CC Custom Sled]
+Type = Gameshark
+Activation = EndFrame
+300D4D71 0002
+
+[Ryan Enable 600 CC Custom Sled]
+Type = Gameshark
+Activation = EndFrame
+300D4D73 0002
+
+[Ryan Enable 600 CC Stock Sled]
+Type = Gameshark
+Activation = EndFrame
+300D4D72 0002
+
+[Ryan Enable 800 CC Custom Sled]
+Type = Gameshark
+Activation = EndFrame
+300D4D75 0002
+
+[Ryan Enable 800 CC Stock Sled]
+Type = Gameshark
+Activation = EndFrame
+300D4D74 0002
+
+[Ryan Enable Storm Sled]
+Type = Gameshark
+Activation = EndFrame
+300D4D76 0002
+
+[Sergei Enable 400 CC Custom Sled]
+Type = Gameshark
+Activation = EndFrame
+300D4DA2 0002
+
+[Sergei Enable 600 CC Custom Sled]
+Type = Gameshark
+Activation = EndFrame
+300D4DA4 0002
+
+[Sergei Enable 600 CC Stock Sled]
+Type = Gameshark
+Activation = EndFrame
+300D4DA3 0002
+
+[Sergei Enable 800 CC Custom Sled]
+Type = Gameshark
+Activation = EndFrame
+300D4DA6 0002
+
+[Sergei Enable 800 CC Stock Sled]
+Type = Gameshark
+Activation = EndFrame
+300D4DA5 0002
+
+[Sergei Enable Storm Sled]
+Type = Gameshark
+Activation = EndFrame
+300D4DA7 0002
+
+[Start on Last Lap/Always First (Press Select)]
+Type = Gameshark
+Activation = EndFrame
+D00C1CE4 0001
+800D8AC4 0003
+
+[Start with 65,535 Points]
+Type = Gameshark
+Activation = EndFrame
+800D8AB8 FFFF
+
+[Tracey Enable 400 CC Custom Sled]
+Type = Gameshark
+Activation = EndFrame
+300D4D7F 0002
+
+[Tracey Enable 600 CC Custom Sled]
+Type = Gameshark
+Activation = EndFrame
+300D4D81 0002
+
+[Tracey Enable 600 CC Stock Sled]
+Type = Gameshark
+Activation = EndFrame
+300D4D80 0002
+
+[Tracey Enable 800 CC Custom Sled]
+Type = Gameshark
+Activation = EndFrame
+300D4D83 0002
+
+[Tracey Enable 800 CC Stock Sled]
+Type = Gameshark
+Activation = EndFrame
+300D4D82 0002
+
+[Tracey Enable Storm Sled]
+Type = Gameshark
+Activation = EndFrame
+300D4D84 0002
+
+[Travis Enable 400 CC Custom Sled]
+Type = Gameshark
+Activation = EndFrame
+300D4D8D 0002
+
+[Travis Enable 600 CC Custom Sled]
+Type = Gameshark
+Activation = EndFrame
+300D4D8F 0002
+
+[Travis Enable 600 CC Stock Sled]
+Type = Gameshark
+Activation = EndFrame
+300D4D8E 0002
+
+[Travis Enable 800 CC Custom Sled]
+Type = Gameshark
+Activation = EndFrame
+300D4D91 0002
+
+[Travis Enable 800 CC Stock Sled]
+Type = Gameshark
+Activation = EndFrame
+300D4D90 0002
+
+[Travis Enable Storm Sled]
+Type = Gameshark
+Activation = EndFrame
+300D4D92 0002
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+A70E0128 19991333
+

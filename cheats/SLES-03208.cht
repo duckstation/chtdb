@@ -1,0 +1,12 @@
+; CHTDB: ; [ Gubble (Europe) (Pocket Price Midas) {SLES-03208} ]
+
+[Time is always 0]
+Type = Gameshark
+Activation = EndFrame
+800772A7 0000
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8007D200 0064
+

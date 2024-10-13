@@ -1,0 +1,43 @@
+; CHTDB: ; [ Gunship (USA) (1996) (MicroProse Software) {SLUS-00313} <gunship> ]
+
+[Infinite Inner Stores]
+Type = Gameshark
+Activation = EndFrame
+800A429A 0014
+
+[Infinite Outer Stores]
+Type = Gameshark
+Activation = EndFrame
+800A429C 0014
+
+[Infinite Wing-Tip Stores]
+Type = Gameshark
+Activation = EndFrame
+800A429E 0014
+
+[Infinite Chaff]
+Type = Gameshark
+Activation = EndFrame
+800A42A8 001E
+
+[Inifinite Flares]
+Type = Gameshark
+Activation = EndFrame
+800A42AA 001E
+
+[Infinite Cannon Rounds]
+Type = Gameshark
+Activation = EndFrame
+800A4288 07D0
+
+[Infinite Fuel]
+Type = Gameshark
+Activation = EndFrame
+800A42A6 0064
+800A42A8 0064
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+800A4298 0014
+

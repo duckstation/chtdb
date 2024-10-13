@@ -1,0 +1,121 @@
+; CHTDB: ; [ Destruction Derby 2 (USA) (1996) (Sony Computer Entertainment America) {SCUS-94350, SCUS-94350-C} <dderby2> ]
+
+[Always place 1st]
+Type = Gameshark
+Activation = EndFrame
+8009568E 0001
+
+[Have 999 Race Points]
+Type = Gameshark
+Activation = EndFrame
+80095692 03E7
+
+[No Damage Left Door]
+Type = Gameshark
+Activation = EndFrame
+8008A368 0000
+
+[No Damage Left Front]
+Type = Gameshark
+Activation = EndFrame
+8008A344 0000
+
+[No Damage Left Rear]
+Type = Gameshark
+Activation = EndFrame
+8008A360 0000
+
+[No Damage Right Door]
+Type = Gameshark
+Activation = EndFrame
+8008A354 0000
+
+[No Damage Right Front]
+Type = Gameshark
+Activation = EndFrame
+8008A34C 0000
+
+[No Damage Right Rear]
+Type = Gameshark
+Activation = EndFrame
+8008A358 0000
+
+[Select Track\Pine Hills Raceway]
+Type = Gameshark
+Activation = EndFrame
+8007974C 0000
+
+[Select Track\Chalk Canyon]
+Type = Gameshark
+Activation = EndFrame
+8007974C 0001
+
+[Select Track\SCA Motorplex]
+Type = Gameshark
+Activation = EndFrame
+8007974C 0002
+
+[Select Track\Caprio County Speedway]
+Type = Gameshark
+Activation = EndFrame
+8007974C 0003
+
+[Select Track\Black Sail Valley]
+Type = Gameshark
+Activation = EndFrame
+8007974C 0004
+
+[Select Track\Liberty City]
+Type = Gameshark
+Activation = EndFrame
+8007974C 0005
+
+[Select Track\Ultimate Destruction Speedway]
+Type = Gameshark
+Activation = EndFrame
+8007974C 0006
+
+[Select Track\Red Pike Arena]
+Type = Gameshark
+Activation = EndFrame
+8007974C 0007
+
+[Select Track\The Colosseum]
+Type = Gameshark
+Activation = EndFrame
+8007974C 0008
+
+[Select Track\The Pit]
+Type = Gameshark
+Activation = EndFrame
+8007974C 0009
+
+[Select Track\Death Bowl (Do not press right on the track select screen or the game will crash)]
+Type = Gameshark
+Activation = EndFrame
+8007974C 000A
+
+[Select Track\FROZE]
+Type = Gameshark
+Activation = EndFrame
+8007974C 000B
+
+[Unlock 4 bowl tracks]
+Type = Gameshark
+Activation = EndFrame
+8007975C 0004
+
+[Unlock 7 racing tracks]
+Type = Gameshark
+Activation = EndFrame
+80079758 0007
+
+[Infinite Laps (Triangle Up/Down On/Off)]
+Description = Freezes track count
+Type = Gameshark
+Activation = EndFrame
+D00799E8 00001010
+80040098 00000000
+D00799E8 00001040
+80040098 00000001
+

@@ -1,0 +1,127 @@
+; CHTDB: ; [ Hunter X Hunter - Maboroshi no Greed Island (Jpn) (2000) (Konami) {SLPM-86651 (VX214-J1)} <hxhgrisl> ]
+
+[Kaini Infinite HP in combar]
+Type = Gameshark
+Activation = EndFrame
+90164CC0 03E703E7
+
+[Kain Infinite AP in combar]
+Type = Gameshark
+Activation = EndFrame
+90164CC4 03E703E7
+
+[Kain Energy Bar Always Full]
+Type = Gameshark
+Activation = EndFrame
+80164C70 000A
+
+[Kain Level 99]
+Type = Gameshark
+Activation = EndFrame
+80164C5A 0063
+
+[Uingu Infinite Hp]
+Description = The character first join his max HP is 66
+Type = Gameshark
+Activation = EndFrame
+80164E26 0042
+
+[Uingu Infinite Hp]
+Description = When Gon + Kirua join, his HP is 100
+Type = Gameshark
+Activation = EndFrame
+80164E26 0064
+
+[Uingu Infinite Ap]
+Description = When the character first join his max AP is 102
+Type = Gameshark
+Activation = EndFrame
+80164E2A 0066
+
+[Uingu Infinite Ap]
+Description = When Gon + Kirua join, his AP is 100
+Type = Gameshark
+Activation = EndFrame
+80164E2A 0063
+
+[Uingu Level 99]
+Type = Gameshark
+Activation = EndFrame
+80164DBE 0063
+
+[Uingu Exp Bar Always Full]
+Type = Gameshark
+Activation = EndFrame
+80164DD4 000A
+
+[Gon Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+80164F8A 0028
+
+[Gon Infinite AP]
+Type = Gameshark
+Activation = EndFrame
+80164F8E 0050
+
+[Gon Level 99]
+Type = Gameshark
+Activation = EndFrame
+80164F22 0063
+
+[Gon Experience Bar Always Full]
+Type = Gameshark
+Activation = EndFrame
+80164F38 000A
+
+[Kiruan Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+801650EE 0023
+
+[Kirua Infinite AP]
+Type = Gameshark
+Activation = EndFrame
+801650F2 003C
+
+[Kirua Exp Bar Always Full]
+Type = Gameshark
+Activation = EndFrame
+8016509C 000A
+
+[Kirua Level 99]
+Type = Gameshark
+Activation = EndFrame
+80165086 0063
+
+[999999 Gold]
+Type = Gameshark
+Activation = EndFrame
+900A7E24 000F423F
+
+[MAP all]
+Type = Gameshark
+Activation = EndFrame
+300A7E3D 0001
+300A7E57 0001
+300A7E65 0001
+300A7E7F 0001
+300A7EA1 0001
+300A7E8D 0001
+
+[Kain Infinite + Max HP (AP in combat)]
+Type = Gameshark
+Activation = EndFrame
+90164CC0 03E703E7
+90164CC4 03E703E7
+
+[World map appearance]
+Type = Gameshark
+Activation = EndFrame
+800A7EFF 0001
+
+[Clades mansion explosion time limit]
+Type = Gameshark
+Activation = EndFrame
+3016B7EA 0063
+

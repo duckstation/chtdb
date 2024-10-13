@@ -1,0 +1,36 @@
+; CHTDB: ; [ Expert (Jpn) (1996) (Nihon Bussan) {SLPS-00342} <expert> ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800620F4 0064
+
+[Infinite Life]
+Type = Gameshark
+Activation = EndFrame
+800E798C 0000
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+800FC656 0000
+
+[Infinite Ammos/Grenades]
+Type = Gameshark
+Activation = EndFrame
+800D8252 001E
+800D8254 001E
+800D8250 0004
+800D824A 001E
+800D824E 012C
+
+[Select Weapon TYPE-C\TYPE-D Bazooka]
+Type = Gameshark
+Activation = EndFrame
+80061FE0 0003
+
+[Select Weapon TYPE-C\TYPE-D Rocket Launcher]
+Type = Gameshark
+Activation = EndFrame
+80061FE0 0004
+

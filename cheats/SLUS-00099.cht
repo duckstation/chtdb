@@ -1,0 +1,38 @@
+; CHTDB: ; [ Street Racer (USA) (1996) (Ubi Soft Entertainment Software) {SLUS-00099} <sracer> ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801CD2C0 00FF
+
+[Infinite Turbos]
+Type = Gameshark
+Activation = EndFrame
+801CD224 0FFF
+
+[Always First Place]
+Type = Gameshark
+Activation = EndFrame
+800FB1F0 0000
+801CD2EA 0000
+
+[Constant Timer (White)]
+Type = Gameshark
+Activation = EndFrame
+800826A6 1060
+
+[Constant Timer (Yellow)]
+Type = Gameshark
+Activation = EndFrame
+90133C94 00000000
+
+[Constant Timer Total Laps (Green)]
+Type = Gameshark
+Activation = EndFrame
+800FAFD4 0000
+
+[Extra Car and Creature (Rabbit)]
+Type = Gameshark
+Activation = EndFrame
+8010858C 0008
+

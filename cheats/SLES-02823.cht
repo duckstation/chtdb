@@ -1,0 +1,27 @@
+; CHTDB: ; [ ECW Anarchy Rulz (Europe) {SLES-02823} ]
+
+[Move Set = 0%]
+Type = Gameshark
+Activation = EndFrame
+8007F3C4 0000
+
+[Everything Unlocked]
+Type = Gameshark
+Activation = EndFrame
+900B805C FFFFFFFF
+
+[Quick Ending (Press L1 & L2 & R1 & R2 to end fight immediately, press Select before fight starts)]
+Type = Gameshark
+Activation = EndFrame
+D00CD2F2 F0FF
+300CA06A 000F
+D00CD2F2 FFFE
+300CA06A 0000
+
+[Infinite Health All Players (Still can be pinned)]
+Type = Gameshark
+Activation = EndFrame
+D0067F94 0652
+80067FB0 0000
+A6067F94 06520000
+

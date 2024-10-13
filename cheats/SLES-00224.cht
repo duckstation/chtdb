@@ -1,0 +1,23 @@
+; CHTDB: ; [ Time Commando (Europe) {SLES-00224} ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8009788E 00C0
+
+[Infinite Blue Chips]
+Type = Gameshark
+Activation = EndFrame
+300A42C8 0063
+
+[Max energy (= batteries)]
+Type = Gameshark
+Activation = EndFrame
+800978AC 0006
+
+[No virus corruption]
+Type = Gameshark
+Activation = EndFrame
+D002E716 3C01
+8002E718 0000
+

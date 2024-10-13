@@ -1,0 +1,12 @@
+; CHTDB: ; [ The Weakest Link (USA) (2001) (Activision) {SLUS-01413} <weaklink> ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80079B80 2316
+
+[Max Money]
+Type = Gameshark
+Activation = EndFrame
+80079110 0007
+

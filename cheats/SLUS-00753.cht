@@ -1,0 +1,67 @@
+; CHTDB: ; [ R-Types (USA) (1998) (ASCII Entertainment Software) {SLUS-00753} <rtypes> ]
+
+[Level Select (Pause Menu)]
+Type = Gameshark
+Activation = EndFrame
+30075C90 0020
+
+[R-Type 1\Have Missiles]
+Type = Gameshark
+Activation = EndFrame
+301355C1 0001
+
+[R-Type 1\Max Force Sidekick]
+Type = Gameshark
+Activation = EndFrame
+301355CA 0003
+
+[R-Type 1\Weapon Power Up]
+Type = Gameshark
+Activation = EndFrame
+801355C8 8000
+
+[R-Type 1\Invincibility]
+Type = Gameshark
+Activation = EndFrame
+801385B4 0001
+
+[R-Type 1\P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80138520 0003
+
+[R-Type 1\P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80138528 0003
+
+[R-Type 2\Have Missiles]
+Type = Gameshark
+Activation = EndFrame
+300F8445 0001
+
+[R-Type 2\Max Force Sidekick]
+Type = Gameshark
+Activation = EndFrame
+300F844E 0003
+
+[R-Type 2\Weapon Power Up]
+Type = Gameshark
+Activation = EndFrame
+800F8452 010C
+
+[R-Type 2\Invincibility]
+Type = Gameshark
+Activation = EndFrame
+300FBCEE 0001
+
+[R-Type 2\P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+300FBC4B 0003
+
+[R-Type 2\P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+300FBC53 0003
+

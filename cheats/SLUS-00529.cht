@@ -1,0 +1,27 @@
+; CHTDB: ; [ Disney's Hercules Action Game (USA, v1.0) (1997) (Disney Interactive) {SLUS-00529} <herculesa> ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+30034DA4 0009
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80034DBC 0080
+
+[100% Coins]
+Type = Gameshark
+Activation = EndFrame
+80034DAC 00FF
+
+[Have All Letters]
+Type = Gameshark
+Activation = EndFrame
+80034DB4 00FF
+
+[Helmet of Invincibilty]
+Type = Gameshark
+Activation = EndFrame
+80034DC4 00C8
+

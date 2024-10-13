@@ -1,0 +1,48 @@
+; CHTDB: ; [ Arcade's Greatest Hits - The Midway Collection 2 (USA) (1997) (Midway Home Entertainment) {SLUS-00450} <arcadeg2> ]
+
+[Blaster\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8006BD26 0003
+
+[Burger Time\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801E20E8 0002
+
+[Burger Time\Infinite Pepper]
+Type = Gameshark
+Activation = EndFrame
+801E311C 0006
+801E20EA 0502
+
+[Joust 2\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8005A058 0700
+
+[Moon Patrol\Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80128B00 0000
+
+[Moon Patrol\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80128B04 0404
+
+[Rootbear Tapper\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8012624E 0300
+
+[Splat\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80069910 0300
+
+[Spy Hunter\Infinite Timer]
+Type = Gameshark
+Activation = EndFrame
+801115E4 0303
+

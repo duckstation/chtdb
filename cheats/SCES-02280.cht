@@ -1,0 +1,22 @@
+; CHTDB: ; [ Pac-Man World 20th Anniversary (Spain) {SCES-02280} ]
+
+[Infinite Energy In Quest Mode]
+Type = Gameshark
+Activation = EndFrame
+801543A0 0004
+
+[Infinite Lives In Quest Mode]
+Type = Gameshark
+Activation = EndFrame
+801543AC 0063
+
+[Infinite Pac-Dots]
+Type = Gameshark
+Activation = EndFrame
+801543B0 0063
+
+[Infinite Lives (Classic Mode)]
+Type = Gameshark
+Activation = EndFrame
+801A9C28 0003
+

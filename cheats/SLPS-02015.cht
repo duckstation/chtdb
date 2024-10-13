@@ -1,0 +1,37 @@
+; CHTDB: ; [ Tokyo Majin Gakuen: Oboro Kitan (Japan) {SLPS-02015} ]
+
+[Infinite Energy 999 main character]
+Type = Gameshark
+Activation = EndFrame
+8014397A 03E7
+80143822 03E7
+
+[Level 99 main character]
+Type = Gameshark
+Activation = EndFrame
+30143844 0063
+
+[Infinite Energy 999 second character]
+Type = Gameshark
+Activation = EndFrame
+801439BE 03E7
+80143B16 03E7
+
+[True old school building rank selection 1 floor plus, I will be on the first floor minus ? + L1 in ? + R1 in rank selection screen]
+Type = Gameshark
+Activation = EndFrame
+D011156C 0018
+E213A9F8 0062
+2013A9F8 0001
+D011156C 0014
+E313A9F8 0000
+2113A9F8 0001
+
+[Battle scene switching (OFF at ON SEL in R2)]
+Type = Gameshark
+Activation = EndFrame
+D011156C 0002
+80138DAB 0000
+D011156C 0100
+80138DAB 0003
+

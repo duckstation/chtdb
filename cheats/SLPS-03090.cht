@@ -1,0 +1,37 @@
+; CHTDB: ; [ Kamen Rider Kuuga (Jpn) (2000) (Bandai) {SLPS-03090} <kamenrku> ]
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8009A23E 00C8
+
+[P1 One Hit Kill]
+Type = Gameshark
+Activation = EndFrame
+A609A23E 00C80001
+
+[P2 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8009A326 00C8
+
+[P2 One Hit Kill]
+Type = Gameshark
+Activation = EndFrame
+A609A326 00C80001
+
+[Does not decrease time]
+Type = Gameshark
+Activation = EndFrame
+8008CAE8 070B
+
+[999 Points]
+Type = Gameshark
+Activation = EndFrame
+800A854C 03E7
+
+[Unlock Everything]
+Type = Gameshark
+Activation = EndFrame
+800A8548 FFFF
+

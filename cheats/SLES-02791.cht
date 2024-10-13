@@ -1,0 +1,12 @@
+; CHTDB: ; [ Gauntlet Legends (Europe) (Midway Classics) {SLES-02791} ]
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80096D20 03E7
+
+[P2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8009759C 03E7
+

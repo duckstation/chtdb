@@ -1,0 +1,92 @@
+; CHTDB: ; [ NHL Breakaway 98 (USA) (1997) (Acclaim Entertainment) {SLUS-00391} <nhlbrk98> ]
+
+[Select Home Team Score\9]
+Type = Gameshark
+Activation = EndFrame
+800FF898 0009
+
+[Select Home Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+800FF898 0000
+
+[Select Away Team Score\9]
+Type = Gameshark
+Activation = EndFrame
+300FF899 0009
+
+[Select Away Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+300FF899 0000
+
+[Max Stick Handling]
+Type = Gameshark
+Activation = EndFrame
+301A6984 0063
+
+[Max Shooting]
+Type = Gameshark
+Activation = EndFrame
+301A6985 0063
+
+[Max Acceleration]
+Type = Gameshark
+Activation = EndFrame
+301A6987 0063
+
+[Max Toughness]
+Type = Gameshark
+Activation = EndFrame
+301A6988 0063
+
+[Max Endurance]
+Type = Gameshark
+Activation = EndFrame
+301A697A 0063
+
+[Max Speed]
+Type = Gameshark
+Activation = EndFrame
+301A697B 0063
+
+[Max Skating]
+Type = Gameshark
+Activation = EndFrame
+301A697C 0063
+
+[Max Passing]
+Type = Gameshark
+Activation = EndFrame
+301A697D 0063
+
+[Max Shot Power]
+Type = Gameshark
+Activation = EndFrame
+301A697E 0063
+
+[Max Offensive Awareness]
+Type = Gameshark
+Activation = EndFrame
+301A697F 0063
+
+[Max Defensive Awareness]
+Type = Gameshark
+Activation = EndFrame
+301A6980 0063
+
+[Max Checking]
+Type = Gameshark
+Activation = EndFrame
+301A6981 0063
+
+[Max Aggression]
+Type = Gameshark
+Activation = EndFrame
+301A6982 0063
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800FF85C 012C
+

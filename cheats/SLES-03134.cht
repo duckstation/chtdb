@@ -1,0 +1,72 @@
+; CHTDB: ; [ 007: The World Is Not Enough (Europe) {SLES-03134} ]
+
+[Enable all cheats]
+Type = Gameshark
+Activation = EndFrame
+D0033404 00C3
+80033406 2400
+
+[Mission 1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+D004C028 0034
+8004C02A 2400
+
+[Mission 1 Infinite cell phone stunner]
+Type = Gameshark
+Activation = EndFrame
+A607CB34 FFFF0000
+
+[Mission 1Infinite Wolfram p2k]
+Type = Gameshark
+Activation = EndFrame
+800B6538 0064
+
+[Mission 1 Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+A6038EE0 FFFF0000
+A6039358 FFFE0000
+
+[Mission 1 Infinite satchel charges]
+Type = Gameshark
+Activation = EndFrame
+A6079E54 FFFF0000
+
+[Mission 2 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+D004C02C 0003
+8004C02E 2400
+
+[Mission 2 Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+A6039020 FFFF0000
+
+[Mission 3 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+D004B3D8 0034
+8004B3DA 2400
+
+[Mission 3 Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+A60385CC FFFF0000
+
+[Mission 4 Max Infinite money (Black Jack)]
+Type = Gameshark
+Activation = EndFrame
+9009DCE0 0098967F
+
+[Mission 5 Infinite telephone bugs]
+Type = Gameshark
+Activation = EndFrame
+300B3C9C 0005
+
+[Mission 5 Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+A60389F8 FFFF0000
+

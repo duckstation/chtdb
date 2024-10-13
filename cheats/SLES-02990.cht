@@ -1,0 +1,98 @@
+; CHTDB: ; [ Silent Bomber (Germany) {SLES-02990} ]
+
+[Infinite Vitality]
+Type = Gameshark
+Activation = EndFrame
+D00DA2AE 0006
+3005C014 0000
+
+[Infinite Vitality (fight with Benoit) .(Press L1 & L2 & R1 & R2 & Select)]
+Type = Gameshark
+Activation = EndFrame
+D00DB0A2 F0FE
+3005ADB8 0000
+
+[Mission selection (New Game) Mission 2]
+Type = Gameshark
+Activation = EndFrame
+D00B8B3E 0002
+300B8B3E 0003
+
+[Mission selection (New Game) Mission 3]
+Type = Gameshark
+Activation = EndFrame
+D00B8B3E 0002
+300B8B3E 0004
+
+[Mission selection (New Game) Mission 4]
+Type = Gameshark
+Activation = EndFrame
+D00B8B3E 0002
+300B8B3E 0005
+
+[Mission selection (New Game) Mission 5]
+Type = Gameshark
+Activation = EndFrame
+D00B8B3E 0002
+300B8B3E 0006
+
+[Mission selection (New Game) Mission 6]
+Type = Gameshark
+Activation = EndFrame
+D00B8B3E 0002
+300B8B3E 0007
+
+[Mission selection (New Game) Mission 7]
+Type = Gameshark
+Activation = EndFrame
+D00B8B3E 0002
+300B8B3E 0008
+
+[Mission selection (New Game) Mission 8]
+Type = Gameshark
+Activation = EndFrame
+D00B8B3E 0002
+300B8B3E 0009
+
+[Mission selection (New Game) Mission 9]
+Type = Gameshark
+Activation = EndFrame
+D00B8B3E 0002
+300B8B3E 000A
+
+[Mission selection (New Game) Mission 10]
+Type = Gameshark
+Activation = EndFrame
+D00B8B3E 0002
+300B8B3E 000B
+
+[Mission selection (New Game) Mission 11]
+Type = Gameshark
+Activation = EndFrame
+D00B8B3E 0002
+300B8B3E 000C
+
+[Mission selection (New Game) Mission 12]
+Type = Gameshark
+Activation = EndFrame
+D00B8B3E 0002
+300B8B3E 000D
+
+[Mission selection (New Game) Mission 13]
+Type = Gameshark
+Activation = EndFrame
+D00B8B3E 0002
+300B8B3E 000E
+
+[Mission selection (New Game) Mission 14]
+Type = Gameshark
+Activation = EndFrame
+D00B8B3E 0002
+300B8B3E 000F
+
+[Mission selection (New Game) Credits]
+Type = Gameshark
+Activation = EndFrame
+D00B8B3E 0002
+300B8B3E 0010
+

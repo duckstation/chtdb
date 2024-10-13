@@ -1,0 +1,81 @@
+; CHTDB: ; [ Namco Museum Vol. 2 (USA) (1996) (Namco Hometek) {SLUS-00216} <namcoms2> ]
+
+[Dragon Buster\Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+800C97D8 0005
+
+[Dragon Buster\P1 Infinite Fireballs]
+Type = Gameshark
+Activation = EndFrame
+800C9918 0002
+80143738 0101
+
+[Dragon Buster\P1 Infinite Vitality]
+Type = Gameshark
+Activation = EndFrame
+800C9978 0080
+
+[Gaplus\Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+80102B84 0005
+
+[Gaplus\P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+30151104 0004
+
+[Grabda\Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+800E9EAC 0005
+
+[Grabda\Infinite Shield (Both Players)]
+Type = Gameshark
+Activation = EndFrame
+80100764 2800
+
+[Grabda\P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800CAD64 0002
+
+[Mappy\Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+80179CE8 0005
+
+[Mappy\Infinite Lives (Both Players)]
+Type = Gameshark
+Activation = EndFrame
+801DE864 0400
+
+[Super Pacman\Infinite Lives (Both Players)]
+Type = Gameshark
+Activation = EndFrame
+801E1006 0300
+
+[Super Pacman\Always #SUPER# Pacman (Both Players)]
+Type = Gameshark
+Activation = EndFrame
+801E1626 0001
+801E1630 6700
+
+[Super Pacman\Infinite Time In Bonus Levels]
+Type = Gameshark
+Activation = EndFrame
+801E108E 6019
+801E10FE 0507
+
+[Xevious\Infinite Lives (Both Players)]
+Type = Gameshark
+Activation = EndFrame
+80196E48 0003
+801DE8BC FF63
+
+[Xevious\Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+80178580 0005
+

@@ -1,0 +1,52 @@
+; CHTDB: ; [ Kekkon: Marriage (Japan) {SLPS-00496} ]
+
+[Character All Stats At Max]
+Type = Gameshark
+Activation = EndFrame
+800A0722 012C
+900A0724 012C012C
+900A0728 012C012C
+900A072C 012C012C
+900A0730 012C012C
+800A0734 012C
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+900A0738 0098967F
+
+[Marriage budget Max]
+Type = Gameshark
+Activation = EndFrame
+90097D30 0098967F
+
+[Title allowance Max]
+Type = Gameshark
+Activation = EndFrame
+9006F168 0098967F
+
+[Contact number]
+Type = Gameshark
+Activation = EndFrame
+300A06F1 0005
+
+[Taichou]
+Type = Gameshark
+Activation = EndFrame
+300A06F8 003C
+
+[Card borrowing	Max]
+Type = Gameshark
+Activation = EndFrame
+900A073C 0098967F
+
+[Dating number / Kiyomi Arai Ending When once Dating]
+Type = Gameshark
+Activation = EndFrame
+300A076F 001A
+
+[The number of post / letter]
+Type = Gameshark
+Activation = EndFrame
+300A0C7C 0014
+

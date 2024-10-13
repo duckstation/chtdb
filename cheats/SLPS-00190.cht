@@ -1,0 +1,56 @@
+; CHTDB: ; [ Welcome House (Jpn) (1996) (Gust) {SLPS-00190} <welcomeh> ]
+
+[Unlock All Doors]
+Type = Gameshark
+Activation = EndFrame
+800B1BEC FFFF
+
+[Close All Windows]
+Type = Gameshark
+Activation = EndFrame
+800B1C30 FFFF
+
+[All Items in Inventory]
+Type = Gameshark
+Activation = EndFrame
+900B1C18 FFFFFFFF
+300B1C1C 0007
+
+[3rd Floor Staircase Down]
+Type = Gameshark
+Activation = EndFrame
+801FFFC4 0001
+
+[Bedroom Passage Open]
+Type = Gameshark
+Activation = EndFrame
+801FFFD6 0001
+
+[Kitchen Passage Open]
+Type = Gameshark
+Activation = EndFrame
+801FFFC2 0001
+
+[Library Passage Open]
+Type = Gameshark
+Activation = EndFrame
+801FFFD2 007E
+
+[No Staircase Booby-Trap]
+Type = Gameshark
+Activation = EndFrame
+800B1BA0 0001
+
+[Press L2 in Jukebox Room to Select Song]
+Type = Gameshark
+Activation = EndFrame
+E00B1BCC 0001
+D00B1BCA 0000
+100B1C84 0001
+E00B1BCC 0001
+A60B1BCA 00000001
+E00B1BCC 0000
+800B1BCA 0000
+D30B1C84 0007
+800B1C84 0002
+

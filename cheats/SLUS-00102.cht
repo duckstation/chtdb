@@ -1,0 +1,77 @@
+; CHTDB: ; [ Powerslave (USA) (1997) (Playmates Interactive Entertainment) {SLUS-00102} <powerslv> ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80084BBA 00C8
+
+[Always have Infinite Hand Gun]
+Type = Gameshark
+Activation = EndFrame
+80084BDE 003A
+
+[Always have Infinite Chain Gun]
+Type = Gameshark
+Activation = EndFrame
+80084BE0 003A
+
+[Always have Infinite Gold Grenades]
+Type = Gameshark
+Activation = EndFrame
+80084BE2 003A
+
+[Always have Infinite Flame Gun]
+Type = Gameshark
+Activation = EndFrame
+80084BE4 003A
+
+[Always have Infinite Green Myst Gun]
+Type = Gameshark
+Activation = EndFrame
+80084BE6 003A
+
+[Always have Infinite Demon Stars]
+Type = Gameshark
+Activation = EndFrame
+80084BE8 003A
+
+[Always have Infinite Mystical Balls]
+Type = Gameshark
+Activation = EndFrame
+80084BEA 003A
+
+[Have All Keys]
+Type = Gameshark
+Activation = EndFrame
+80084C02 FFFF
+
+[Have All Artifacts]
+Type = Gameshark
+Activation = EndFrame
+80084C00 FFFF
+
+[Have Transmitter]
+Type = Gameshark
+Activation = EndFrame
+80084C06 FFFF
+
+[Have Map]
+Type = Gameshark
+Activation = EndFrame
+80084C0C FFFF
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A7075766 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A7075766 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A7075766 10000400
+

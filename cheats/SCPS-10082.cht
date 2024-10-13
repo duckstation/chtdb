@@ -1,0 +1,13 @@
+; CHTDB: ; [ Global Force: Shin Sentou Kokka (Japan) {SCPS-10082} ]
+
+[Money Credit 999999]
+Type = Gameshark
+Activation = EndFrame
+800982F8 423F
+300982FA 000F
+
+[Turn Number 1]
+Type = Gameshark
+Activation = EndFrame
+80095754 0001
+

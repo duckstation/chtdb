@@ -1,0 +1,60 @@
+; CHTDB: ; [ Mobil 1 Rally Championship (Europe) {SLES-02574} ]
+
+[All open Press Select & Up]
+Type = Gameshark
+Activation = EndFrame
+D006AA76 FFEE
+3006AB00 0005
+
+[Championship Mode Time frozen Press L1 & L2 with time at 00.00.00 to freeze timer, press R1 & R2 before race is over to avoid game freezing]
+Type = Gameshark
+Activation = EndFrame
+D00A6750 0001
+800F700C 03E8
+
+[Championship Mode Finish 1st]
+Type = Gameshark
+Activation = EndFrame
+D00A6750 0001
+800D4B02 0001
+
+[Championship Mode Start at last race Press L1 & L2]
+Type = Gameshark
+Activation = EndFrame
+D006AA76 FAFF
+3006AB04 0023
+D006AA76 FAFF
+3006AB0A 0024
+
+[Championship Mode A8-Championship & all cars unlocked (Press L1 & R1)]
+Type = Gameshark
+Activation = EndFrame
+D006AA76 F3FF
+3006AB00 0001
+
+[Championship Mode Start at last race A8 Press R1 & R2]
+Type = Gameshark
+Activation = EndFrame
+D006AA76 F5FF
+3006AB04 0023
+D006AA76 F5FF
+3006AB0B 0024
+
+[Arcade Mode Start at last race Press L2 & R2]
+Type = Gameshark
+Activation = EndFrame
+D006AA76 FCFF
+3006AB06 0023
+
+[Arcade Mode 144 Points Press L2 & R2]
+Type = Gameshark
+Activation = EndFrame
+D006AA76 FCFF
+3001B205 0090
+
+[Arcade Mode Always first]
+Type = Gameshark
+Activation = EndFrame
+30090458 0001
+900904A8 34050001
+

@@ -1,0 +1,37 @@
+; CHTDB: ; [ Dino Crisis 2 (Spain) {SLES-03225} ]
+
+[Botiquin Mediano Infinitos]
+Type = Gameshark
+Activation = EndFrame
+800AE52C 270F
+
+[Municion De Rifle Infinita]
+Type = Gameshark
+Activation = EndFrame
+800AE430 270F
+
+[Municion De CañOn Laser Infinita]
+Type = Gameshark
+Activation = EndFrame
+800AE484 270F
+
+[Botiquin Grande Infinitos]
+Type = Gameshark
+Activation = EndFrame
+800AE538 270F
+
+[Municion De Pistola Infinita]
+Type = Gameshark
+Activation = EndFrame
+800AE43C 270F
+
+[Municion De Subfusil Infinita]
+Type = Gameshark
+Activation = EndFrame
+800AE448 270F
+
+[Puntos de extinción]
+Type = Gameshark
+Activation = EndFrame
+900AE560 0098967F
+

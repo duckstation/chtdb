@@ -1,0 +1,64 @@
+; CHTDB: ; [ Disneys Der KÃ¶nig der LÃ¶wen: Simbas groÃŸes Abenteuer (Germany) {SLES-03270} ]
+
+[Unendlich Gesundheit]
+Type = Gameshark
+Activation = EndFrame
+3001A750 03E7
+
+[Unendlich Leben]
+Type = Gameshark
+Activation = EndFrame
+3001A8BC 0003
+
+[Eine Münze gesammelt = 500 Münzen gesammelt]
+Type = Gameshark
+Activation = EndFrame
+D10755F4 0000
+800755E8 01F4
+
+[Habe viele Kürbisse]
+Type = Gameshark
+Activation = EndFrame
+D00755EC 0001
+300755EC 00FF
+
+[Alle Level Freigeschaltet]
+Type = Gameshark
+Activation = EndFrame
+50000402 0101
+80079F8A 0000
+30079F92 0001
+
+[Alle Level 100% gefunden]
+Type = Gameshark
+Activation = EndFrame
+50000402 6464
+80079FC0 0000
+30079FC8 0064
+
+[Alle Level Alle Münzpunkte]
+Type = Gameshark
+Activation = EndFrame
+50000902 01F4
+80079F54 0000
+
+[Alle Level Habe SIMBA]
+Type = Gameshark
+Activation = EndFrame
+50000402 1F1F
+80079FDA 0000
+30079FE3 001F
+
+[Alle Level Habe Outros]
+Type = Gameshark
+Activation = EndFrame
+50000402 0101
+80079FF6 0000
+30079FFE 0001
+
+[Minispiele Alle freigeschaltet]
+Type = Gameshark
+Activation = EndFrame
+80079F94 0101
+30079F96 0001
+

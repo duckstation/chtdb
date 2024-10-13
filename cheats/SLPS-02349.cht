@@ -1,0 +1,85 @@
+; CHTDB: ; [ Wizardry: New Age of Llylgamyn (Japan) {SLPS-02349} ]
+
+[LV 9999]
+Type = Gameshark
+Activation = EndFrame
+800D0534 270F
+
+[HP 9999]
+Type = Gameshark
+Activation = EndFrame
+800D0536 270F
+
+[Max HP 9999]
+Type = Gameshark
+Activation = EndFrame
+800D0538 270F
+
+[Swimming 999]
+Type = Gameshark
+Activation = EndFrame
+800D05AE 2700
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+A606B6B6 00740060
+A606C516 00540040
+
+[Map fully open]
+Type = Gameshark
+Activation = EndFrame
+A7071736 10401400
+
+[Products fully open]
+Type = Gameshark
+Activation = EndFrame
+A70304FE 10601400
+
+[All magic learn]
+Type = Gameshark
+Activation = EndFrame
+300D0515 00FF
+800D0516 FFFF
+900D0518 FFFFFFFF
+300D051C 00FF
+
+[INfinite Gold]
+Type = Gameshark
+Activation = EndFrame
+800D0552 270F
+900D0554 270F270F
+
+[Mortal blow]
+Type = Gameshark
+Activation = EndFrame
+A706BDCA AE22AE20
+
+[Combat unconditional victory]
+Type = Gameshark
+Activation = EndFrame
+A6051D6A AC43AC40
+
+[Does not decrease the number of spell use]
+Type = Gameshark
+Activation = EndFrame
+A601826C FFFF0000
+A6018B64 FFFF0000
+A605E8DC FFFF0000
+A605E928 FFFF0000
+
+[You are here - X]
+Type = Gameshark
+Activation = EndFrame
+800C3F70 0081
+
+[You are here - Y]
+Type = Gameshark
+Activation = EndFrame
+800C3F74 0081
+
+[You are here - Z]
+Type = Gameshark
+Activation = EndFrame
+800C3F7C 0001
+

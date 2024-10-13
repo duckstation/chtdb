@@ -1,0 +1,103 @@
+; CHTDB: ; [ Mike Tyson Boxing (USA) (2000) (The Codemasters Software Company) {SLUS-01162} <mtysonbx> ]
+
+[Infinite Rest (Gym)]
+Type = Gameshark
+Activation = EndFrame
+80145290 0064
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80102D54 003B
+
+[Press L2 To End Round]
+Type = Gameshark
+Activation = EndFrame
+D01226D6 FEFF
+80102D54 0000
+
+[Press Select For 1-Hit Ko (Showcase)]
+Type = Gameshark
+Activation = EndFrame
+C01226D6 FFFE
+8019CA38 FFFF
+8019D238 FFFF
+8019DA38 FFFF
+8019F238 FFFF
+8019FA38 FFFF
+801A0238 FFFF
+801A0A38 FFFF
+801A1238 FFFF
+00000000 FFFF
+
+[Press Select For 1-Hit Ko (World)]
+Type = Gameshark
+Activation = EndFrame
+C01226D6 FFFE
+8019E5C8 FFFF
+8019EDC8 FFFF
+8019F5C8 FFFF
+8019FDC8 FFFF
+801A05C8 FFFF
+801A0DC8 FFFF
+801A15C8 FFFF
+801A1DC8 FFFF
+801A25C8 FFFF
+801A2DC8 FFFF
+801A35C8 FFFF
+801A3DC8 FFFF
+801A4558 FFFF
+801A4D58 FFFF
+00000000 FFFF
+
+[Tyson Ko Always Full]
+Type = Gameshark
+Activation = EndFrame
+8017A344 0000
+
+[Unlock Fabian Van Hilten]
+Type = Gameshark
+Activation = EndFrame
+8010042C 0001
+
+[Unlock Frankie Zamboni]
+Type = Gameshark
+Activation = EndFrame
+80100444 0001
+
+[Unlock Jimmy Silk]
+Type = Gameshark
+Activation = EndFrame
+80100450 0001
+
+[Unlock Johnny Roberts]
+Type = Gameshark
+Activation = EndFrame
+80100448 0001
+
+[Unlock Mick Oshea]
+Type = Gameshark
+Activation = EndFrame
+8010044C 0001
+
+[Unlock Patrice Demanger]
+Type = Gameshark
+Activation = EndFrame
+80100430 0001
+
+[Unlock Samuel Jefferson]
+Type = Gameshark
+Activation = EndFrame
+80100428 0001
+
+[Unlock Tao Zhu]
+Type = Gameshark
+Activation = EndFrame
+80100424 0001
+
+[Quick Count]
+Type = Gameshark
+Activation = EndFrame
+D1119320 0000
+80119320 000A
+

@@ -1,0 +1,42 @@
+; CHTDB: ; [ Rally de Africa (Jpn) (1998) (Prism Arts) {SLPS-01601} <rallyafr> ]
+
+[Max points in championship mode SG360X car]
+Type = Gameshark
+Activation = EndFrame
+800CBC30 03E7
+
+[Enable All Secret Racing Paths]
+Type = Gameshark
+Activation = EndFrame
+50000302 0000
+300EF9B0 0001
+
+[Enable All Cars In Racing Path K]
+Type = Gameshark
+Activation = EndFrame
+50000602 0000
+300EFB2A 0001
+
+[Enable All Cars In Racing Path A]
+Type = Gameshark
+Activation = EndFrame
+50000602 0000
+300EFB42 0001
+
+[Enable All Cars In Racing Path S]
+Type = Gameshark
+Activation = EndFrame
+50000602 0000
+300EFB5A 0001
+
+[Max Speed]
+Type = Gameshark
+Activation = EndFrame
+90015688 00000000
+9001568C 24020FFF
+
+[Max Points In Championship Mode]
+Type = Gameshark
+Activation = EndFrame
+800C8360 004E
+

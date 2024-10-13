@@ -1,0 +1,91 @@
+; CHTDB: ; [ Spectral Force 2 (Japan) {SLPS-01628} ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+801CF4A4 03E7
+801CFC5A 03E7
+801CF8AE 03E7
+
+[Infinite Soldier]
+Type = Gameshark
+Activation = EndFrame
+801BB15C 270F
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+80109E40 03E7
+80109D36 03E7
+80109ED8 03E7
+80109F4A 03E7
+8010A0EC 03E7
+8010A184 03E7
+801CF738 03E7
+801CFDD6 03E7
+801CFF4C 03E7
+
+[Skill gauge MAX ally in combat]
+Type = Gameshark
+Activation = EndFrame
+3010FB26 005A
+3010FB30 005A
+3010FB3A 005A
+3010FB44 005A
+3010FB4E 005A
+
+[MAX morale of allies in combat]
+Type = Gameshark
+Activation = EndFrame
+3010FB28 008C
+3010FB32 008C
+3010FB3C 008C
+3010FB46 008C
+3010FB50 008C
+
+[Use Magic Anytime]
+Type = Gameshark
+Activation = EndFrame
+3010FB26 0064
+3010FB30 0064
+3010FB3A 0064
+3010FB44 0064
+3010FB4E 0064
+
+[Enemy to withdraw]
+Type = Gameshark
+Activation = EndFrame
+3010FAE8 0000
+3010FAF2 0000
+3010FAFC 0000
+3010FB06 0000
+3010FB10 0000
+
+[Exit immediately Siege]
+Type = Gameshark
+Activation = EndFrame
+300FE358 0000
+
+[Number of soldiers 1000 ally in combat]
+Type = Gameshark
+Activation = EndFrame
+8010FB2A 03E8
+8010FB34 03E8
+8010FB3E 03E8
+8010FB48 03E8
+8010FB52 03E8
+
+[Soldier Recovery.Joker Command = Select]
+Type = Gameshark
+Activation = EndFrame
+D00FE3C0 0100
+3010FB2A 03E7
+D00FE3C0 0100
+3010FB34 03E7
+D00FE3C0 0100
+3010FB3E 03E7
+D00FE3C0 0100
+3010FB48 03E7
+D00FE3C0 0100
+3010FB52 03E7
+

@@ -1,0 +1,7 @@
+; CHTDB: ; [ Simple 1500 Series vol.72 - The Beach Volley (Jpn) (2001) (D3 Publisher) {SLPM-86871} <ss072bvl> ]
+
+[Opponent always score 0]
+Type = Gameshark
+Activation = EndFrame
+800CE724 0000
+

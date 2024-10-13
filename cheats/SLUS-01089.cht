@@ -1,0 +1,7 @@
+; CHTDB: ; [ Caesars Palace 2000 - Millennium Gold Edition (USA) (2000) (Interplay Entertainment) {SLUS-01089} <caesar2k> ]
+
+[P1 Max Infinite Cash]
+Type = Gameshark
+Activation = EndFrame
+900C7254 FFFFFFFF
+

@@ -1,0 +1,44 @@
+; CHTDB: ; [ Guardian Recall: Shugojuu Shoukan (Japan) {SLPS-01297 | SLPS-01298} ]
+
+[Infinite SP (Health) First Character]
+Type = Gameshark
+Activation = EndFrame
+800C30C4 03E7
+
+[Infinite SP (Health) Second Character]
+Type = Gameshark
+Activation = EndFrame
+800C3060 03E7
+
+[Infinite SP (Health) Third Character]
+Type = Gameshark
+Activation = EndFrame
+800C31F0 03E7
+
+[Fast Level Up (Press Select Button)]
+Type = Gameshark
+Activation = EndFrame
+D00B6560 0100
+800B65FE 270F
+
+[Enemy Hp=0 (Press Start Button)]
+Type = Gameshark
+Activation = EndFrame
+D00B6560 0800
+800B5ED6 0000
+
+[Infinite MP & Ap]
+Type = Gameshark
+Activation = EndFrame
+300328E3 0086
+30060CBB 0084
+30050A33 0086
+300509EB 0086
+8001FD68 0000
+
+[Options fully open mode]
+Type = Gameshark
+Activation = EndFrame
+50001B02 0000
+80141398 0101
+

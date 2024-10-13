@@ -1,0 +1,52 @@
+; CHTDB: ; [ Marie no Atelier: Salburg no Renkinjutsushi (Japan) {SLPS-00856} ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+901BCC8C 0001869F
+
+[Infinite & Max HP Marie]
+Type = Gameshark
+Activation = EndFrame
+901BE4E0 03E703E7
+
+[Infinite & Max MP Marie]
+Type = Gameshark
+Activation = EndFrame
+901BE4E4 03E703E7
+
+[Infinite & Max HP in combat 1 person]
+Type = Gameshark
+Activation = EndFrame
+901BCB50 03E703E7
+
+[Infinite & Max MP in combat 1 person]
+Type = Gameshark
+Activation = EndFrame
+901BCB54 03E703E7
+
+[LV Max]
+Type = Gameshark
+Activation = EndFrame
+8017A3A0 0032
+
+[Fatigue / friendship level]
+Type = Gameshark
+Activation = EndFrame
+8017A3A2 0064
+
+[Bonus appearance / center theater]
+Type = Gameshark
+Activation = EndFrame
+301FEBB0 0001
+
+[Bonus appearance /'s play area]
+Type = Gameshark
+Activation = EndFrame
+301FEBB1 0001
+
+[Bonus appearance / Museum]
+Type = Gameshark
+Activation = EndFrame
+301FEBFF 0001
+

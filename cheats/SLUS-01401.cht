@@ -1,0 +1,28 @@
+; CHTDB: ; [ Zoboomafoo - Leapin' Lemurs! (USA) (2001) (Encore Software) {SLUS-01401} <zbmafoo> ]
+
+[Unlock All Levels]
+Type = Gameshark
+Activation = EndFrame
+8006791C FFFF
+
+[Max Score]
+Type = Gameshark
+Activation = EndFrame
+800679D8 7FFF
+
+[Infinite Food]
+Type = Gameshark
+Activation = EndFrame
+800679D0 0032
+
+[Always Max Food]
+Type = Gameshark
+Activation = EndFrame
+C20679D4 0001
+800679D0 0000
+
+[Invincibility From Water]
+Type = Gameshark
+Activation = EndFrame
+80070DE6 0001
+

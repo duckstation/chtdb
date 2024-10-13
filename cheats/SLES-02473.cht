@@ -1,0 +1,7 @@
+; CHTDB: ; [ Astérix & Obélix Take On Caesar (Europe) {SLES-02473} ]
+
+[Complete all the minigameS (.Deactivate after complete the minigame or you complete all the games without playing)]
+Type = Gameshark
+Activation = EndFrame
+800F01DA 003C
+

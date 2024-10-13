@@ -1,0 +1,27 @@
+; CHTDB: ; [ V.I.P. (Europe) {SLES-03681} ]
+
+[Infinite Health level 1]
+Type = Gameshark
+Activation = EndFrame
+80089CE4 0018
+
+[Infinite Health level 2]
+Type = Gameshark
+Activation = EndFrame
+800F54F4 0018
+
+[Infinite Health level 3]
+Type = Gameshark
+Activation = EndFrame
+80088448 0018
+
+[Infinite Health level 4]
+Type = Gameshark
+Activation = EndFrame
+8008C09C 0018
+
+[No reload level 2]
+Type = Gameshark
+Activation = EndFrame
+80081870 0008
+

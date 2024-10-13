@@ -1,0 +1,27 @@
+; CHTDB: ; [ O.D.T. (Germany) {SLES-01410} ]
+
+[Unendlich Leben/Energie]
+Type = Gameshark
+Activation = EndFrame
+800A9F68 0063
+
+[Unendlich Munition Blau]
+Type = Gameshark
+Activation = EndFrame
+800AA0F2 0063
+
+[Unendlich Munition Gelb]
+Type = Gameshark
+Activation = EndFrame
+800AA0FA 0063
+
+[Unendlich Munition Grau]
+Type = Gameshark
+Activation = EndFrame
+800AA10A 0063
+
+[Unendlich Munition GrüN]
+Type = Gameshark
+Activation = EndFrame
+800AA102 0063
+

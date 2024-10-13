@@ -1,0 +1,101 @@
+; CHTDB: ; [ Trap Gunner (Japan) {SLPS-01494} ]
+
+[10000 stamina 1P]
+Type = Gameshark
+Activation = EndFrame
+801256E2 03E8
+
+[1000 stamina 2P]
+Type = Gameshark
+Activation = EndFrame
+801260EA 03E8
+
+[0 stamina 2P]
+Type = Gameshark
+Activation = EndFrame
+801260EA 0000
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+80125706 0020
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80109280 311A
+
+[P1 Infinite Weapons]
+Type = Gameshark
+Activation = EndFrame
+901256C8 63020163
+801256CE 0563
+801256D0 6307
+901256D4 630A0F63
+
+[P2 Infinite Weapons]
+Type = Gameshark
+Activation = EndFrame
+801260CE 6302
+901260D0 63040463
+901260D4 06630404
+
+[All 99 trapped 1P]
+Type = Gameshark
+Activation = EndFrame
+801256C6 6300
+901256C8 63630163
+901256CC 03636302
+901256D0 63046363
+901256D4 63630563
+
+[P1 Select Character\Van Raily]
+Type = Gameshark
+Activation = EndFrame
+30124D60 0000
+
+[P1 Select Character\John Bishous]
+Type = Gameshark
+Activation = EndFrame
+30124D60 0001
+
+[P1 Select Character\Lou Riche]
+Type = Gameshark
+Activation = EndFrame
+30124D60 0002
+
+[P1 Select Character\Tico]
+Type = Gameshark
+Activation = EndFrame
+30124D60 0003
+
+[P1 Select Character\Abdoll Rerin)]
+Type = Gameshark
+Activation = EndFrame
+30124D60 0004
+
+[P1 Select Character\Ugetsu Tenrou]
+Type = Gameshark
+Activation = EndFrame
+30124D60 0005
+
+[P1 Select Character\REM]
+Type = Gameshark
+Activation = EndFrame
+30124D60 0006
+
+[P1 Select Character\DYN]
+Type = Gameshark
+Activation = EndFrame
+30124D60 0007
+
+[P1 Select Character\ERG]
+Type = Gameshark
+Activation = EndFrame
+30124D60 0008
+
+[Death blow]
+Type = Gameshark
+Activation = EndFrame
+A6049A1E 00430000
+

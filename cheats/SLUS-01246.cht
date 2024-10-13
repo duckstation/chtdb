@@ -1,0 +1,29 @@
+; CHTDB: ; [ LEGO Island 2 - The Brickster's Revenge (USA) (2001) (LEGO Media International) {SLUS-01246} <legoisl2> ]
+
+[Have All Pizzas]
+Type = Gameshark
+Activation = EndFrame
+90076318 00000000
+
+[Have All Bricks]
+Type = Gameshark
+Activation = EndFrame
+90076194 00000000
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+D009BAFC 0004
+8009BAFE 2400
+
+[Max Score (Upon 1st Trick)]
+Type = Gameshark
+Activation = EndFrame
+9009BBF8 3C037FFF
+9009BC00 2463FFFF
+
+[Enable Secret Menu]
+Type = Gameshark
+Activation = EndFrame
+300A2BD0 0005
+

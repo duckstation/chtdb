@@ -1,0 +1,178 @@
+; CHTDB: ; [ Persona 2 - Eternal Punishment (USA) (2000) (Atlus U.S.A.) {SLUS-01158, SLUS-01339} <persona2> ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+800833A8 FFFF
+
+[Baofu\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800846A0 03E7
+
+[Baofu\Max HP]
+Type = Gameshark
+Activation = EndFrame
+800846A2 03E7
+
+[Baofu\Infinite SP]
+Type = Gameshark
+Activation = EndFrame
+800846A4 03E7
+
+[Baofu\Max SP]
+Type = Gameshark
+Activation = EndFrame
+800846A6 03E7
+
+[Ellen\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+80084748 03E7
+
+[Ellen\Max HP]
+Type = Gameshark
+Activation = EndFrame
+8008474A 03E7
+
+[Ellen\Infinite SP]
+Type = Gameshark
+Activation = EndFrame
+8008474C 03E7
+
+[Ellen\Max SP]
+Type = Gameshark
+Activation = EndFrame
+8008474E 03E7
+
+[Katsuya\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+8008464C 03E7
+
+[Katsuya\Max HP]
+Type = Gameshark
+Activation = EndFrame
+8008464E 03E7
+
+[Katsuya\Infinite SP]
+Type = Gameshark
+Activation = EndFrame
+80084650 03E7
+
+[Katsuya\Max SP]
+Type = Gameshark
+Activation = EndFrame
+80084652 03E7
+
+[Maya\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800845A4 03E7
+
+[Maya\Max HP]
+Type = Gameshark
+Activation = EndFrame
+800845A6 03E7
+
+[Maya\Infinite SP]
+Type = Gameshark
+Activation = EndFrame
+800845A8 03E7
+
+[Maya\Max SP]
+Type = Gameshark
+Activation = EndFrame
+800845AA 03E7
+
+[Nanjo\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800846F4 03E7
+
+[Nanjo\Max HP]
+Type = Gameshark
+Activation = EndFrame
+800846F6 03E7
+
+[Nanjo\Infinite SP]
+Type = Gameshark
+Activation = EndFrame
+800846F8 03E7
+
+[Nanjo\Max SP]
+Type = Gameshark
+Activation = EndFrame
+800846FA 03E7
+
+[Tatsuya\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+8008479C 03E7
+
+[Tatsuya\Max HP]
+Type = Gameshark
+Activation = EndFrame
+8008479E 03E7
+
+[Tatsuya\Infinite SP]
+Type = Gameshark
+Activation = EndFrame
+800847A0 03E7
+
+[Tatsuya\Max SP]
+Type = Gameshark
+Activation = EndFrame
+800847A2 03E7
+
+[Urara\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800845F8 03E7
+
+[Urara\Max HP]
+Type = Gameshark
+Activation = EndFrame
+800845FA 03E7
+
+[Urara\Infinite SP]
+Type = Gameshark
+Activation = EndFrame
+800845FC 03E7
+
+[Urara\Max SP]
+Type = Gameshark
+Activation = EndFrame
+800845FE 03E7
+
+[Have All Persona Arcanums]
+Type = Gameshark
+Activation = EndFrame
+9008392C FFFFFFFF
+90083930 FFFFFFFF
+90083934 FFFFFFFF
+90083938 FFFFFFFF
+9008393C FFFFFFFF
+80083940 FFFF
+
+[Have All Tarot Cards]
+Type = Gameshark
+Activation = EndFrame
+50001602 0000
+800835E6 03E7
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A708B3E8 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A708B3E8 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A708B3E8 10000400
+

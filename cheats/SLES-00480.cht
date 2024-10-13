@@ -1,0 +1,27 @@
+; CHTDB: ; [ Iznogoud aka Saban's Iznogoud (Europe) {SLES-00480} ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+8008CADC 00FF
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8008CAC8 0006
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8008CAC4 000F
+
+[Infinite Bombs]
+Type = Gameshark
+Activation = EndFrame
+8008CABC 000F
+
+[Infinite Dynamite]
+Type = Gameshark
+Activation = EndFrame
+8008CAB8 000F
+

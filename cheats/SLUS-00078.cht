@@ -1,0 +1,13 @@
+; CHTDB: ; [ Zoop - America's Largest Killer of Time! (USA) (1995) (Viacom New Media) {SLUS-00078} <zoop> ]
+
+[Start with 9,999,999 points]
+Type = Gameshark
+Activation = EndFrame
+A61B40B4 0000967F
+A61B40B6 00000098
+
+[Each piece shot levels you up]
+Type = Gameshark
+Activation = EndFrame
+801BF32C 0001
+

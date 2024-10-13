@@ -1,0 +1,72 @@
+; CHTDB: ; [ X-Men: Children of the Atom (Europe) {SLES-00198} ]
+
+[P1 Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+8003B6E8 008F
+
+[P2 Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+8003BAE8 008F
+
+[P1 Max Power Gauge]
+Type = Gameshark
+Activation = EndFrame
+8003B6EC 008E
+
+[P2 Max Power Gauge]
+Type = Gameshark
+Activation = EndFrame
+8003BAEC 008E
+
+[P1 Max Score]
+Type = Gameshark
+Activation = EndFrame
+9003B6DC 09999999
+
+[P2 Max Score]
+Type = Gameshark
+Activation = EndFrame
+9003BADC 09999999
+
+[P1 Select Character\Juggernaut]
+Type = Gameshark
+Activation = EndFrame
+3003BE58 000A
+
+[P2 Select Character\Juggernaut]
+Type = Gameshark
+Activation = EndFrame
+3003BE5A 000A
+
+[P1 Select Character\Magneto]
+Type = Gameshark
+Activation = EndFrame
+3003BE58 000B
+
+[P2 Select Character\Magneto]
+Type = Gameshark
+Activation = EndFrame
+3003BE5A 000B
+
+[P1 Select Character\Gouki]
+Type = Gameshark
+Activation = EndFrame
+3003BE58 000C
+
+[P2 Select Character\Gouki]
+Type = Gameshark
+Activation = EndFrame
+3003BE5A 000C
+
+[Infinite Match Time]
+Type = Gameshark
+Activation = EndFrame
+8003BD60 FF99
+
+[Unlock All Extras]
+Type = Gameshark
+Activation = EndFrame
+3003D534 0008
+

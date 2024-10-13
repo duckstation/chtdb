@@ -1,0 +1,42 @@
+; CHTDB: ; [ Tetsudou-ou 2: Sekai Seifuku no Yabou!! (Japan) {SLPS-01012} ]
+
+[P1 has 0 money]
+Type = Gameshark
+Activation = EndFrame
+80190D7C 0000
+
+[P1 has 999999 money]
+Type = Gameshark
+Activation = EndFrame
+90190D7C 000F423F
+
+[P2 has 0 money]
+Type = Gameshark
+Activation = EndFrame
+80190E20 0000
+
+[P2 has 999999 money]
+Type = Gameshark
+Activation = EndFrame
+90190E20 000F423F
+
+[P3 has 0 money]
+Type = Gameshark
+Activation = EndFrame
+80190F68 0000
+
+[P3 has 999999 money]
+Type = Gameshark
+Activation = EndFrame
+90190F68 000F423F
+
+[P4 has 0 money]
+Type = Gameshark
+Activation = EndFrame
+80190EC4 0000
+
+[P4 has 999999 money]
+Type = Gameshark
+Activation = EndFrame
+90190EC4 000F423F
+

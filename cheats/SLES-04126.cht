@@ -1,0 +1,22 @@
+; CHTDB: ; [ Space Rider (Europe) {SLES-04126} ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8007D6AC 0009
+
+[Infinite Fuel]
+Type = Gameshark
+Activation = EndFrame
+8008C458 0DAC
+
+[Infinite Missiles]
+Type = Gameshark
+Activation = EndFrame
+8008C48C 0014
+
+[Infinite Bullets]
+Type = Gameshark
+Activation = EndFrame
+8008C488 03E7
+

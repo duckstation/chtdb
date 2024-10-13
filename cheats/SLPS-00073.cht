@@ -1,0 +1,27 @@
+; CHTDB: ; [ Dragon Ball Z - Idainaru Dragon Ball Densetsu (Jpn) (1995) (Bandai) {SLPS-00073} <dbzub22j> ]
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800BE388 0190
+
+[P1 Infinite Power]
+Type = Gameshark
+Activation = EndFrame
+800BE38A 0200
+
+[P2 Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800BE6F8 0190
+
+[P2 No HP]
+Type = Gameshark
+Activation = EndFrame
+800BE6F8 0000
+
+[Unlock Ultimate Battle 27]
+Type = Gameshark
+Activation = EndFrame
+A6010120 00000010
+

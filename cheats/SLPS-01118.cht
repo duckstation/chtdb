@@ -1,0 +1,17 @@
+; CHTDB: ; [ Abe a GoGo (Jpn) (1997) (GameBank) {SLPS-01118} <abeagogo> ]
+
+[The Fugitives 99]
+Type = Gameshark
+Activation = EndFrame
+800825BC 0063
+
+[Injured 0]
+Type = Gameshark
+Activation = EndFrame
+800825BA 0000
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800825D2 0001
+

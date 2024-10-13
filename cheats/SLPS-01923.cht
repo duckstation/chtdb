@@ -1,0 +1,81 @@
+; CHTDB: ; [ Persona 2: Tsumi: Innocent Sin (Japan) Demo {SLPS-01923} ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+901E2F80 000F423F
+
+[Infinite Magnetic]
+Type = Gameshark
+Activation = EndFrame
+901E2F84 000F423F
+
+[Max Magnetic After Battle]
+Type = Gameshark
+Activation = EndFrame
+80106AB4 FFFF
+
+[Max Level After Battle]
+Type = Gameshark
+Activation = EndFrame
+80106AA8 270F
+80106AA0 270F
+80106AA4 270F
+
+[Infinite Level up Point]
+Type = Gameshark
+Activation = EndFrame
+8009119E 0602
+
+[Main character EXE]
+Type = Gameshark
+Activation = EndFrame
+801E409E 0098
+801E40A0 967F
+
+[Main character HP]
+Type = Gameshark
+Activation = EndFrame
+801E40A4 03E7
+801E40A8 03E7
+
+[Main character MP]
+Type = Gameshark
+Activation = EndFrame
+801E40AC 03E7
+801E40B0 03E7
+
+[Female character EXP]
+Type = Gameshark
+Activation = EndFrame
+801E404E 0098
+801E4050 967F
+
+[Female character HP]
+Type = Gameshark
+Activation = EndFrame
+801E4054 03E7
+801E4058 03E7
+
+[Female character MP]
+Type = Gameshark
+Activation = EndFrame
+801E405C 03E7
+801E4060 03E7
+
+[All items possession Please select a ITEM-USE.]
+Type = Gameshark
+Activation = EndFrame
+D0084AE8 2E00
+80084AEA 2402
+D0084AE8 2E00
+80084AF0 2E00
+D0084AE8 2E00
+80084AF2 A082
+A6084AE8 2E0000FF
+
+[Debug Menu]
+Type = Gameshark
+Activation = EndFrame
+301E3000 0001
+

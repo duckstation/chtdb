@@ -1,0 +1,37 @@
+; CHTDB: ; [ Fade to Black (Europe) {SLES-00209} ]
+
+[Infinite Shield]
+Type = Gameshark
+Activation = EndFrame
+801C0348 07D0
+
+[Infinite Shots]
+Type = Gameshark
+Activation = EndFrame
+801CF800 0009
+
+[Infinite Bouncing Mines On Pickup]
+Type = Gameshark
+Activation = EndFrame
+801CE8D0 0003
+
+[Infinite Explosive Shots On Pickup]
+Type = Gameshark
+Activation = EndFrame
+801CF620 0009
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801C1944 07D0
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+80010028 0083
+
+[Infinite Ammo all weapons]
+Type = Gameshark
+Activation = EndFrame
+8005DCFE 2400
+

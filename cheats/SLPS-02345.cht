@@ -1,0 +1,97 @@
+; CHTDB: ; [ Pac-Man World 20th Anniversary (Japan) {SLPS-02345} ]
+
+[QUEST & MAZE MODE The gallery in bonus and maize in the title]
+Type = Gameshark
+Activation = EndFrame
+3015B2C9 0003
+
+[QUEST & MAZE MODE 999 employees Pac-Man]
+Type = Gameshark
+Activation = EndFrame
+8015B084 03E7
+
+[QUEST & MAZE MODE No Energy Enemies]
+Type = Gameshark
+Activation = EndFrame
+8015B078 0004
+
+[QUEST & MAZE MODE Pac-Man Invincibility]
+Type = Gameshark
+Activation = EndFrame
+8015BBA8 1000
+
+[QUEST & MAZE MODE Key acquisition of prison]
+Type = Gameshark
+Activation = EndFrame
+8015B24C 0001
+
+[QUEST & MAZE MODE Key acquisition of magic]
+Type = Gameshark
+Activation = EndFrame
+8015B24E 0001
+
+[QUEST & MAZE MODE Airborne by Press R1 button]
+Type = Gameshark
+Activation = EndFrame
+D014ED22 0800
+800F670C F500
+D014ED22 0800
+800F670E FFFF
+
+[QUEST & MAZE MODE It is not a spatula even shoot dot]
+Type = Gameshark
+Activation = EndFrame
+D0080800 0010
+80080802 1400
+
+[QUEST & MAZE MODE Dokkan! It is not a spatula dot Grand Prix]
+Type = Gameshark
+Activation = EndFrame
+D00AB42E 2442
+800AB42C 0000
+
+[QUEST & MAZE MODE Clear in one MAZE MODE dot]
+Type = Gameshark
+Activation = EndFrame
+D0065EC6 2463
+80065EC4 0000
+A6065EC6 24632403
+
+[QUEST & MAZE MODE When you enter stage score score MAX]
+Type = Gameshark
+Activation = EndFrame
+D00968BE 1040
+800968BC 0001
+
+[QUEST & MAZE MODE Rolled eating ghost in one co-dot power (see 2)]
+Type = Gameshark
+Activation = EndFrame
+D00693E4 1023
+800693E6 1400
+D00B83F8 009C
+800B83FA 1400
+D00B848C 0058
+800B848E 1400
+
+[QUEST & MAZE MODE (Between release is pressed SELECT button) Bonus Stage Stop time]
+Type = Gameshark
+Activation = EndFrame
+D00C5044 1A60
+800C5046 1400
+D014ED22 0001
+800C5046 AF82
+
+[ORIGINAL MODE It is not a spatula Pac-Man]
+Type = Gameshark
+Activation = EndFrame
+D016267E 2442
+801B0888 0006
+
+[ORIGINAL MODE Rolled eating ghost in one power dot]
+Type = Gameshark
+Activation = EndFrame
+D0169596 2402
+80169594 0000
+D0169596 2402
+801655A6 1400
+

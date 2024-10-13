@@ -1,0 +1,68 @@
+; CHTDB: ; [ Grand Theft Auto - Mission Pack #1 - London 1969 (USA) (1999) (Rockstar Games) {SLUS-00846, SLUS-00846CE} <gtalon69> ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8002BF72 0004
+
+[Infinite Pistol Ammo]
+Type = Gameshark
+Activation = EndFrame
+3002BF7D 0063
+
+[Infinite Machine Gun Ammo]
+Type = Gameshark
+Activation = EndFrame
+3002BF7E 0063
+
+[Infinite Rocket Ammo]
+Type = Gameshark
+Activation = EndFrame
+3002BF7F 0063
+
+[Infinite Flame Thrower Fuel]
+Type = Gameshark
+Activation = EndFrame
+3002BF80 0063
+
+[Have Get Out Of Jail Free Card]
+Type = Gameshark
+Activation = EndFrame
+8002BF8A 0001
+
+[Max Bonus Multiplier]
+Type = Gameshark
+Activation = EndFrame
+8002BF6E 0063
+
+[Enable Mods + Sods Level]
+Type = Gameshark
+Activation = EndFrame
+80026748 0001
+
+[Enable Chelsea Smile Level]
+Type = Gameshark
+Activation = EndFrame
+8002674C 0001
+
+[Enable Dead Certainity Level]
+Type = Gameshark
+Activation = EndFrame
+80026750 0001
+
+[Wanted Level Maxed Out]
+Type = Gameshark
+Activation = EndFrame
+80019C44 0004
+
+[No Cops]
+Type = Gameshark
+Activation = EndFrame
+8002BE08 0000
+
+[Disable The Need For Double Swap]
+Type = Gameshark
+Activation = EndFrame
+D0180C94 033F
+80180C96 2400
+

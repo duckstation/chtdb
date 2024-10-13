@@ -1,0 +1,18 @@
+; CHTDB: ; [ Fox Junction (Jpn) (1998) (Trips) {SLPS-01355} <foxjunct> ]
+
+[Infinite + Max HP]
+Type = Gameshark
+Activation = EndFrame
+8009184C 270F
+80091850 270F
+
+[Infinite + Max ZP]
+Type = Gameshark
+Activation = EndFrame
+90091858 270F270F
+
+[Skill 65535]
+Type = Gameshark
+Activation = EndFrame
+80091860 FFFF
+

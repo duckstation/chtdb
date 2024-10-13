@@ -1,0 +1,331 @@
+; CHTDB: ; [ Crash Bandicoot (USA) (1996) (Sony Computer Entertainment America) {SCUS-94900} <crash> ]
+
+[Infinite Time (Aku Aku Invincibility)]
+Type = Gameshark
+Activation = EndFrame
+3001ED5A 0003
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+90024038 08001D86
+90007618 3C018006
+9000761C 8C210DEC
+90007620 24036300
+90007624 A4230164
+90007628 03E00008
+
+[Instant Save Menu]
+Type = Gameshark
+Activation = EndFrame
+800A264C 0004
+
+[Level Select Modifier]
+Description = You will need to manually edit '0040' (which is the max) in the code line to change the level
+Type = Gameshark
+Activation = EndFrame
+30061948 0040
+
+[Always have All Gems + Keys]
+Type = Gameshark
+Activation = EndFrame
+90061988 2FBDF7BE
+900619AC 00140500
+90061A1C 2FBDF7BE
+90061A20 00140500
+
+[Infinite Aku Aku Masks (On Pickup)]
+Type = Gameshark
+Activation = EndFrame
+9001EEA0 08001D80
+90007600 3C018006
+90007604 8C2118CC
+90007608 24030200
+9000760C A4230188
+90007610 03E00008
+
+[Invincibility]
+Description = You can open boxes, collect items, and kill enemies
+Type = Gameshark
+Activation = EndFrame
+900242EC 24030004
+
+[Infinite Jumps + Walk in Mid-Air]
+Description = L1-Enable, R1-Disable
+Type = Gameshark
+Activation = EndFrame
+D005E72C 0004
+8001DD0C 0000
+D005E72C 0008
+8001DD0C 00C8
+
+[Super Jump]
+Type = Gameshark
+Activation = EndFrame
+9001FB18 08001D92
+90007648 3C018006
+9000764C 8C210DEC
+90007650 2403FFFF
+90007654 A42300A8
+90007658 03E00008
+
+[Select Moon Jump Type\Original]
+Type = Gameshark
+Activation = EndFrame
+9001FB18 08001D98
+90007660 3C018006
+90007664 8C210DEC
+9000766C A42300AA
+90007670 03E00008
+D005E72C 0000
+90007668 2403FFFA
+D005E72C 0040
+90007668 24030008
+
+[Select Moon Jump Type\Alt 1]
+Type = Gameshark
+Activation = EndFrame
+A701FA80 00A859D8
+A701FA82 AE030801
+A701FA86 00642400
+90056760 3C148005
+90056764 36947054
+90056768 96930000
+90056770 00139982
+90056778 32730001
+90056780 16600005
+90056788 3063FFFF
+9005678C 3C14000C
+90056790 00741825
+90056798 AE0300A8
+9005679C 08007EA2
+900567A0 0064182A
+
+[Select Moon Jump Type\Alt 2]
+Type = Gameshark
+Activation = EndFrame
+A701FA7C 18232C00
+A701FA7E 00620C00
+A701FA80 00A80000
+A701FA82 AE030000
+9000B000 27BDFFE8
+9000B004 AFA80010
+9000B008 3C088005
+9000B00C 91087054
+9000B014 00084027
+9000B018 31080040
+9000B01C 15000002
+9000B024 00621823
+9000B028 AE0300A8
+9000B030 8FA80010
+9000B034 27BD0018
+9000B038 03E00008
+
+[Select Speed Modifier Type\Speed Increaser]
+Description = You will need to manually edit '0000' in the first code line or you will see NO effect
+Type = Gameshark
+Activation = EndFrame
+9000C03C 240B0000
+9000C000 8E020124
+9000C004 27BDFFE0
+9000C008 AFA80010
+9000C00C AFA90014
+9000C010 AFAA0018
+9000C014 AFAB001C
+9000C01C 00004012
+9000C020 00004810
+9000C024 240A0064
+9000C028 244B0000
+9000C02C 016A001A
+9000C030 00000000
+9000C034 00000000
+9000C038 00005012
+9000C03C 00000000
+9000C040 014B0018
+9000C044 00000000
+9000C048 00000000
+9000C04C 00005012
+9000C050 004A1021
+9000C054 01000013
+9000C058 01200011
+9000C05C 8FA80010
+9000C060 8FA90014
+9000C064 8FAA0018
+9000C068 8FAB001C
+9000C06C 27BD0020
+9000C070 03E00008
+A701F660 01243000
+A701F662 8E020C00
+
+[Select Speed Modifier Type\Speed Multiplier]
+Description = You will need to manually edit '0001' in the first code line or you will see NO effect
+Type = Gameshark
+Activation = EndFrame
+9000C024 240A0001
+9000C000 8E020124
+9000C004 27BDFFE0
+9000C008 AFA80010
+9000C00C AFA90014
+9000C010 AFAA0018
+9000C014 AFAB001C
+9000C018 00000000
+9000C01C 00004012
+9000C020 00004810
+9000C028 004A0018
+9000C02C 00000000
+9000C030 00000000
+9000C034 00001012
+9000C038 01000013
+9000C03C 01200011
+9000C040 8FA80010
+9000C044 8FA90014
+9000C048 8FAA0018
+9000C04C 8FAB001C
+9000C050 27BD0020
+9000C054 03E00008
+9000C058 00000000
+A701F660 01243000
+A701F662 8E020C00
+
+[Walk through walls]
+Description = Hold L2 + R2
+Type = Gameshark
+Activation = EndFrame
+A702E5F6 10001480
+D7200000 00000003
+A702E5F6 14801000
+
+[Walk Through Everything]
+Description = Select+L2-Enable, Select+R2-Disable
+Type = Gameshark
+Activation = EndFrame
+C005E72C 0101
+8002E02A 2400
+8002E03E 2400
+00000000 FFFF
+C005E72C 0102
+8002E02A 0C00
+8002E03E 0C00
+00000000 FFFF
+
+[Select Enemies/Objects Size\0100]
+Type = Gameshark
+Activation = EndFrame
+8001CC7C 0100
+
+[Select Enemies/Objects Size\0200]
+Type = Gameshark
+Activation = EndFrame
+8001CC7C 0200
+
+[Select Enemies/Objects Size\0300]
+Type = Gameshark
+Activation = EndFrame
+8001CC7C 0300
+
+[Select Enemies/Objects Size\0400]
+Type = Gameshark
+Activation = EndFrame
+8001CC7C 0400
+
+[Select Enemies/Objects Size\0500]
+Type = Gameshark
+Activation = EndFrame
+8001CC7C 0500
+
+[Select Enemies/Objects Size\0600]
+Type = Gameshark
+Activation = EndFrame
+8001CC7C 0600
+
+[Select Enemies/Objects Size\0700]
+Type = Gameshark
+Activation = EndFrame
+8001CC7C 0700
+
+[Select Enemies/Objects Size\0800]
+Type = Gameshark
+Activation = EndFrame
+8001CC7C 0800
+
+[Select Enemies/Objects Size\0900]
+Type = Gameshark
+Activation = EndFrame
+8001CC7C 0900
+
+[Select Enemies/Objects Size\0A00]
+Type = Gameshark
+Activation = EndFrame
+8001CC7C 0A00
+
+[Select Enemies/Objects Size\0B00]
+Type = Gameshark
+Activation = EndFrame
+8001CC7C 0B00
+
+[Select Enemies/Objects Size\0C00]
+Type = Gameshark
+Activation = EndFrame
+8001CC7C 0C00
+
+[Select Enemies/Objects Size\0D00]
+Type = Gameshark
+Activation = EndFrame
+8001CC7C 0D00
+
+[Select Enemies/Objects Size\0E00]
+Type = Gameshark
+Activation = EndFrame
+8001CC7C 0E00
+
+[Select Enemies/Objects Size\0F00]
+Type = Gameshark
+Activation = EndFrame
+8001CC7C 0F00
+
+[Select Enemies/Objects Size\1000]
+Type = Gameshark
+Activation = EndFrame
+8001CC7C 1000
+
+[Neon Crash]
+Description = L1+R1-Enable, L2+R2-Disable
+Type = Gameshark
+Activation = EndFrame
+D005E72C 0003
+80027F9A 2400
+D005E72C 000C
+80027F9A 0C00
+
+[Draw Level]
+Description = Select+Up-No, Select+Down-Yes
+Type = Gameshark
+Activation = EndFrame
+D005E72C 1100
+80019276 2400
+D005E72C 4100
+80019276 0C00
+
+[Crash Size Modifier (Values 0100 - 1E00)]
+Description = Press Select+L1 to enable, Select+R1 to disable. Only use in levels. Disable before entering the exit warp at the end of a level so you can progress to the next screen.
+Type = Gameshark
+Activation = EndFrame
+D005E72C 0104
+9001D5E4 08001D9E
+D005E72C 0108
+9001D5E4 03E00008
+90007678 3C018006
+9000767C 8C210DEC
+90007680 2402????
+90007684 AC220098
+90007688 AC22009C
+9000768C AC2200A0
+90007690 03E00008
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+A7017A4C E4340C00
+A7017A4E 0C002402
+A7017A8E A422A433
+

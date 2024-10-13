@@ -1,0 +1,30 @@
+; CHTDB: ; [ Ganbare Morikawa-kun 2-gou (Japan) {SCPS-10036} ]
+
+[Max All Status]
+Type = Gameshark
+Activation = EndFrame
+800C3076 270F
+900C3078 270F6400
+900C307C 270F270F
+900C3080 270F270F
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+900C3468 000F423F
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A71D050C 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A71D050C 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A71D050C 10000400
+

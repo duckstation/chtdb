@@ -1,0 +1,54 @@
+; CHTDB: ; [ Dino Crisis (France) {SLES-02208} ]
+
+[Energie infinie]
+Type = Gameshark
+Activation = EndFrame
+800B208C 0958
+
+[Toutes les armes à customisées]
+Type = Gameshark
+Activation = EndFrame
+800BA0C0 FFFF
+
+[Toutes les armes customisées]
+Type = Gameshark
+Activation = EndFrame
+800BA0C0 07FE
+
+[Sauver n'importe où Appuyez sur L1 + L2]
+Type = Gameshark
+Activation = EndFrame
+D00BB068 0005
+800B0560 0007
+
+[Balles de pistolet infinies]
+Type = Gameshark
+Activation = EndFrame
+A60665B8 00002821
+
+[Armes + munitions]
+Type = Gameshark
+Activation = EndFrame
+B0053EB2 0000
+800BEDAE 0008
+
+[Tir à répétition]
+Type = Gameshark
+Activation = EndFrame
+A604D0B8 00070001
+
+[Stats de fin - Temps = 0]
+Type = Gameshark
+Activation = EndFrame
+900B9FDC 00000000
+
+[Stats de fin - Continus = 0]
+Type = Gameshark
+Activation = EndFrame
+300B9FE2 001E
+
+[Stats de fin - Sauvegarde = 0]
+Type = Gameshark
+Activation = EndFrame
+300B9FDB 0000
+

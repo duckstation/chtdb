@@ -1,0 +1,38 @@
+; CHTDB: ; [ Point Blank (USA) (1998) (Namco Hometek) {SLUS-00481} <ptblank> ]
+
+[Arcade Mode\P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800B732C 0005
+
+[Arcade Mode\P1 Infinite Bullets]
+Type = Gameshark
+Activation = EndFrame
+800AD1A8 7FFF
+
+[Infinite Health quest mode]
+Type = Gameshark
+Activation = EndFrame
+800C2528 03E7
+
+[Quest Mode\P1 Quick Level Gain]
+Type = Gameshark
+Activation = EndFrame
+800B76A8 FFFF
+
+[Quest Mode\Infinite Cash]
+Type = Gameshark
+Activation = EndFrame
+800A3E64 FFFF
+
+[All Mode\Infinite Bullets]
+Type = Gameshark
+Activation = EndFrame
+800AD1A8 0010
+800AD1C4 0010
+
+[All Mode\Infinite Hits This code works for most games but some games require you to protect characters.]
+Type = Gameshark
+Activation = EndFrame
+800B4318 0060
+

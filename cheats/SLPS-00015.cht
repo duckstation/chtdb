@@ -1,0 +1,78 @@
+; CHTDB: ; [ Twinbee Taisen Puzzle-Dama (Jpn) (1994) (Konami) {SLPS-00015} <twinbpzd> ]
+
+[Automatic Win]
+Description = You win even if you do not do anything
+Type = Gameshark
+Activation = EndFrame
+800B4E1A 03EF
+
+[P1 Max Score]
+Type = Gameshark
+Activation = EndFrame
+900B4BB4 05F5E0FF
+
+[P2 Max Score]
+Type = Gameshark
+Activation = EndFrame
+900B4BB8 05F5E0FF
+
+[P1 Send No Kougeki Bells]
+Type = Gameshark
+Activation = EndFrame
+800B4E1E 0000
+
+[P2 Send No Kougeki Bells]
+Type = Gameshark
+Activation = EndFrame
+800B4E20 0000
+
+[P1 Send Max Kougeki Bells]
+Type = Gameshark
+Activation = EndFrame
+800B4E1E 00FF
+
+[P2 Send Max Kougeki Bells]
+Type = Gameshark
+Activation = EndFrame
+800B4E20 00FF
+
+[P1 Select One Character - Robo Saku]
+Type = Gameshark
+Activation = EndFrame
+30099F7F 0000
+
+[P1 Select One Character - Penkurou]
+Type = Gameshark
+Activation = EndFrame
+30099F7F 0001
+
+[P1 Select One Character - Yumi-chan]
+Type = Gameshark
+Activation = EndFrame
+30099F7F 0002
+
+[P1 Select One Character - Dr. Nakasugi]
+Type = Gameshark
+Activation = EndFrame
+30099F7F 0003
+
+[P1 Select One Character - Ryou]
+Type = Gameshark
+Activation = EndFrame
+30099F7F 0004
+
+[P1 Select One Character - John Wantarou]
+Type = Gameshark
+Activation = EndFrame
+30099F7F 0005
+
+[P1 Select One Character - Mayu Sawada]
+Type = Gameshark
+Activation = EndFrame
+30099F7F 0006
+
+[P1 Select One Character - Makorin]
+Type = Gameshark
+Activation = EndFrame
+30099F7F 0007
+

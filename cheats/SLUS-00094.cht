@@ -1,0 +1,52 @@
+; CHTDB: ; [ Starwinder - The Ultimate Space Race (USA) (1996) (Mindscape) {SLUS-00094} <starwndr> ]
+
+[Infinite Standard Missiles]
+Type = Gameshark
+Activation = EndFrame
+8016BE7C 0032
+
+[Infinite Stun Missiles]
+Type = Gameshark
+Activation = EndFrame
+80154406 000A
+
+[Infinite Heat Seeker Missiles]
+Type = Gameshark
+Activation = EndFrame
+80154408 0009
+
+[Infinite Trench Missiles]
+Type = Gameshark
+Activation = EndFrame
+8015440A 0009
+
+[Time Always 00.00.00 (Can't Lose With This Cheat)]
+Type = Gameshark
+Activation = EndFrame
+800AB4CC 0000
+
+[Select Ship\Explorer, Kitty Hawk Class]
+Type = Gameshark
+Activation = EndFrame
+800AB4F0 0000
+
+[Select Ship\Viking, Sea Eagle Class]
+Type = Gameshark
+Activation = EndFrame
+800AB4F0 0001
+
+[Select Ship\Ranger, Clipper Class]
+Type = Gameshark
+Activation = EndFrame
+800AB4F0 0002
+
+[Select Ship\Pioneer, Trieme Class]
+Type = Gameshark
+Activation = EndFrame
+800AB4F0 0003
+
+[Select Ship\Mariner, Canaveral Class]
+Type = Gameshark
+Activation = EndFrame
+800AB4F0 0004
+

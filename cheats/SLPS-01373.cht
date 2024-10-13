@@ -1,0 +1,22 @@
+; CHTDB: ; [ Ganso Family Mahjong (Japan) {SLPS-01373} ]
+
+[Player has 99990 points]
+Type = Gameshark
+Activation = EndFrame
+8003D5D0 270F
+
+[Opponent 1 has 0 points]
+Type = Gameshark
+Activation = EndFrame
+8003D598 0000
+
+[Opponent 2 has 0 points]
+Type = Gameshark
+Activation = EndFrame
+8003D5A8 0000
+
+[Opponent 3 has 0 points]
+Type = Gameshark
+Activation = EndFrame
+8003D5B8 0000
+

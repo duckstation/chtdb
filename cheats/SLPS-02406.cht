@@ -1,0 +1,35 @@
+; CHTDB: ; [ Dai-2-Ji Super Robot Taisen (Japan) {SLPS-02406} ]
+
+[Strengthening parts MAX]
+Type = Gameshark
+Activation = EndFrame
+9019BAA0 09090900
+
+[Strengthening parts MAX 2 H]
+Type = Gameshark
+Activation = EndFrame
+9019BAB4 00090909
+
+[9999999 money]
+Type = Gameshark
+Activation = EndFrame
+8019B9D6 967F
+8019B9D8 0098
+
+[Not decrease bullet (HBP)]
+Type = Gameshark
+Activation = EndFrame
+A60799B8 FFFF0000
+
+[Not decrease spirit (HBP)]
+Type = Gameshark
+Activation = EndFrame
+A608147A 00430040
+A6081486 00640060
+
+[Not decrease EN (HBP)]
+Type = Gameshark
+Activation = EndFrame
+A609230A 00440040
+A609545E 00430040
+

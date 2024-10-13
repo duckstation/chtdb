@@ -1,0 +1,113 @@
+; CHTDB: ; [ Castlevania Chronicles (Europe) {SLES-03532} ]
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+8001DA6A 1000
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+8005A98A 0010
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80059402 0063
+
+[Select Starting Level\1 - Castle Entrance]
+Type = Gameshark
+Activation = EndFrame
+80059434 0000
+
+[Select Starting Level\2 - Cave]
+Type = Gameshark
+Activation = EndFrame
+80059434 0001
+
+[Select Starting Level\3 - Courtyard]
+Type = Gameshark
+Activation = EndFrame
+80059434 0002
+
+[Select Starting Level\4 - Royal Chapel]
+Type = Gameshark
+Activation = EndFrame
+80059434 0003
+
+[Select Starting Level\5 - Clock Tower]
+Type = Gameshark
+Activation = EndFrame
+80059434 0004
+
+[Select Starting Level\6 - Floating Corridor]
+Type = Gameshark
+Activation = EndFrame
+80059434 0005
+
+[Select Starting Level\7 - Prison]
+Type = Gameshark
+Activation = EndFrame
+80059434 0006
+
+[Select Starting Level\8 - Final Level - Chronicles]
+Type = Gameshark
+Activation = EndFrame
+80059434 0007
+
+[Watch endings / FMVs in Original & Arranged Modes]
+Type = Gameshark
+Activation = EndFrame
+801057BC 001B
+
+[Unlocked Sound engine selection menu]
+Type = Gameshark
+Activation = EndFrame
+A6107BE0 00070004
+A6107C20 000A0004
+
+[Unlocked Time attack & ranking (Arrange mode)]
+Type = Gameshark
+Activation = EndFrame
+3006E5CC 0001
+D006E602 0000
+3006E602 0053
+
+[Unlocked Gallery & pictures in options menu]
+Type = Gameshark
+Activation = EndFrame
+3006E5C9 001A
+
+[Unlocked Extra option menu On]
+Type = Gameshark
+Activation = EndFrame
+D005E4E4 000F
+80107C5E 001C
+
+[Enable Arranged Music]
+Type = Gameshark
+Activation = EndFrame
+3005946D 0003
+
+[Final Stage (All Slots)]
+Type = Gameshark
+Activation = EndFrame
+50000610 0000
+3006E5DC 0017
+
+[Max Level Sub-Weapon (Triple Shot)]
+Type = Gameshark
+Activation = EndFrame
+3005A997 0003
+
+[Max Level Weapon (Morning Star Whip)]
+Type = Gameshark
+Activation = EndFrame
+3005A99E 0002
+
+[Press X For Moon Jump	Hold X to continue floating]
+Type = Gameshark
+Activation = EndFrame
+E005E4C3 00BF
+8005A99C 0008
+

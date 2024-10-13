@@ -1,0 +1,38 @@
+; CHTDB: ; [ Street Skater aka Street Sk8er (Europe) {SLES-01759} ]
+
+[Stop timer in street tour mode]
+Type = Gameshark
+Activation = EndFrame
+8005D46A 6300
+
+[All skills at max level in street tour mode]
+Type = Gameshark
+Activation = EndFrame
+9008DE90 0C0C0C0C
+80086BB8 0000
+
+[Mirrored tracks, time of day select in free skate mode]
+Type = Gameshark
+Activation = EndFrame
+8007629E 0401
+
+[Unlock secret characters]
+Type = Gameshark
+Activation = EndFrame
+800762A0 FF00
+
+[Have all Skate Boards]
+Type = Gameshark
+Activation = EndFrame
+900762A4 3FFFFFFF
+
+[Have all levels]
+Type = Gameshark
+Activation = EndFrame
+80076398 3F3F
+
+[Infinite Checkpoint Time]
+Type = Gameshark
+Activation = EndFrame
+8005D468 270F
+

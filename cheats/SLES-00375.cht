@@ -1,0 +1,18 @@
+; CHTDB: ; [ MechWarrior 2: Kampfspiel des 31. Jahrhunderts: Arcade Combat Edition (Germany) {SLES-00375} ]
+
+[Unendlich Jump Jets]
+Type = Gameshark
+Activation = EndFrame
+800D1F94 000A
+
+[Schneller sein]
+Type = Gameshark
+Activation = EndFrame
+800D1F84 0343
+
+[Kein überhitzen der Waffen]
+Type = Gameshark
+Activation = EndFrame
+900D1BB0 00000000
+800D1BB4 0000
+

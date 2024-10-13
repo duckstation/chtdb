@@ -1,0 +1,72 @@
+; CHTDB: ; [ PO'ed (USA) (1996) (Accolade) {SLUS-00097} <poed> ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8009ABA0 0066
+
+[Have Jetpack]
+Type = Gameshark
+Activation = EndFrame
+8009AC70 0100
+
+[Have Knife]
+Type = Gameshark
+Activation = EndFrame
+8009ABB8 0101
+
+[Have Drill]
+Type = Gameshark
+Activation = EndFrame
+8009ABBA 0101
+
+[Have Missile Cam]
+Type = Gameshark
+Activation = EndFrame
+8009ABC2 0001
+
+[Have Bfd + Flame Thrower]
+Type = Gameshark
+Activation = EndFrame
+8009ABBC 0101
+
+[Have Wailer + Rocket Launcher]
+Type = Gameshark
+Activation = EndFrame
+8009ABBE 0101
+
+[Have Pulsegun + Meatseeker]
+Type = Gameshark
+Activation = EndFrame
+8009ABC0 0101
+
+[Infinite Flamer Ammo]
+Type = Gameshark
+Activation = EndFrame
+8009ABA8 03E7
+
+[Infinite Ammo For Bfd/Pulse]
+Type = Gameshark
+Activation = EndFrame
+8009ABA4 03E7
+
+[Infinite Rockets]
+Type = Gameshark
+Activation = EndFrame
+8009ABB4 03E7
+
+[Infinite Wailer Ammo]
+Type = Gameshark
+Activation = EndFrame
+8009ABAC 03E7
+
+[Infinite Meatseeker Ammo]
+Type = Gameshark
+Activation = EndFrame
+8009ABB0 03E7
+
+[Infinite Jetpack Fuel]
+Type = Gameshark
+Activation = EndFrame
+8009ABA8 0032
+

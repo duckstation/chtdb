@@ -1,0 +1,127 @@
+; CHTDB: ; [ Star Ocean - The Second Story (USA) (1999) (Sony Computer Entertainment America) {SCUS-94421 / SCUS-94421} <starocn2> ]
+
+[Infinite MP (In Battle-All Characters/Positions)]
+Type = Gameshark
+Activation = EndFrame
+8003737A 2400
+
+[Infinite SP Usage All]
+Type = Gameshark
+Activation = EndFrame
+8007EA96 2400
+
+[Save Anywhere]
+Type = Gameshark
+Activation = EndFrame
+80074628 0001
+
+[No Random Battles]
+Type = Gameshark
+Activation = EndFrame
+D002B54C 0001
+9009C440 00000000
+
+[Max Fol]
+Type = Gameshark
+Activation = EndFrame
+9009BFB0 3B9AC9FF
+
+[Infinite Fol]
+Type = Gameshark
+Activation = EndFrame
+8009BFB0 FFFF
+
+[Fol Never Decreases]
+Type = Gameshark
+Activation = EndFrame
+8003C64E 2400
+
+[Misc.\Have All Voices Enabled]
+Type = Gameshark
+Activation = EndFrame
+50004F02 0000
+8009C138 FFFF
+
+[Misc.\Have All Items]
+Type = Gameshark
+Activation = EndFrame
+5000FF02 0001
+8009ACD0 5001
+5000FF02 0001
+8009AECE 5100
+5000FF02 0001
+8009B0CC 51FF
+5000FF02 0001
+8009B2CA 52FE
+50000302 0001
+8009B4C8 53FD
+
+[Misc.\Extra Menu Options/Debug With this code, when you got into your menus and such, you will be able to move past the end of the lists. If you highlight the very top option and press up, it will take you to the very bottom, which is a Debug type of menu. Press X on it, and then it will take y ou to a blank screen, Press X one more time, and the options will popup.]
+Type = Gameshark
+Activation = EndFrame
+D00D3898 FFE8
+900D38AC 240C000C
+
+[No clip (Field & Overworld) "Press L3 to toggle on/off"]
+Type = Gameshark
+Activation = EndFrame
+D7010001 01000200
+F50834B6 10401000
+F5082EBA 04611000
+F508309A 12221000
+F5082F36 10401000
+F50869C2 04411000
+F50869EA 10401000
+F50868A2 04411000
+F50868CA 10401000
+F5040216 14401000
+F5087A1A 15F92400
+F508CDCA 108C1000
+F5086BEA 10511000
+F508CED6 108C1000
+
+[Disable text frames]
+Type = Gameshark
+Activation = EndFrame
+A705A842 10401000
+
+[Re-open chests infinitely (Can farm infinite items)]
+Type = Gameshark
+Activation = EndFrame
+A706CD56 14401000
+
+[Sequence break code (Ignores if you're allowed to go somewhere or not)]
+Type = Gameshark
+Activation = EndFrame
+A706D44E 10401000
+
+[Skip dialogue (Can break sequences and lock up game)]
+Type = Gameshark
+Activation = EndFrame
+A70585D2 14452400
+
+[Skip dialogue naturally]
+Type = Gameshark
+Activation = EndFrame
+A705983A 14401000
+
+[Turbo mode (Game drops fps but becomes faster)]
+Type = Gameshark
+Activation = EndFrame
+A70561FE 14522400
+
+[Enemies don't attack]
+Type = Gameshark
+Activation = EndFrame
+A703D382 14401000
+
+[Hide batle overlays]
+Type = Gameshark
+Activation = EndFrame
+A70230D2 00402400
+
+[Seppuku]
+Type = Gameshark
+Activation = EndFrame
+A703B05A 00402400
+

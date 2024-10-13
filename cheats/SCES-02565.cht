@@ -1,0 +1,17 @@
+; CHTDB: ; [ Dragon Valor (France) {SCES-02565 | SCES-12565} ]
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A702E3EC 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A702E3EC 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A702E3EC 10000400
+

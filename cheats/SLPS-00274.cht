@@ -1,0 +1,12 @@
+; CHTDB: ; [ Not Treasure Hunter (Jpn) (1996) (Acti-Art) {SLPS-00274} <notreash> ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800B9B8C 003C
+
+[Infinite Bullets]
+Type = Gameshark
+Activation = EndFrame
+800CB75E 0063
+

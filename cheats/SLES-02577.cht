@@ -1,0 +1,40 @@
+; CHTDB: ; [ UEFA Champions League: Season 1999/2000 (Europe) {SLES-02577} ]
+
+[Select Home Team Score\9 Goals]
+Type = Gameshark
+Activation = EndFrame
+80078434 0009
+800791C0 0009
+800FAB80 0009
+
+[Select Home Team Score\0 Goals]
+Type = Gameshark
+Activation = EndFrame
+80078434 0000
+800791C0 0000
+800FAB80 0000
+
+[Select Away Team Score\9 Goals]
+Type = Gameshark
+Activation = EndFrame
+80078436 0009
+800791DC 0009
+800796A0 0009
+
+[Select Away Team Score\0 Goals]
+Type = Gameshark
+Activation = EndFrame
+80078436 0000
+800791DC 0000
+800796A0 0000
+
+[Lead Ball]
+Type = Gameshark
+Activation = EndFrame
+800FAD88 0000
+
+[Floaty Ball]
+Type = Gameshark
+Activation = EndFrame
+800FAD88 1000
+

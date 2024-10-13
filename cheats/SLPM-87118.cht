@@ -1,0 +1,12 @@
+; CHTDB: ; [ Arcade Hits - Frisky Tom (Jpn, Major Wave Serie) (2002) (Hamster) {SLPM-87118} <frisktom> ]
+
+[Frisky Tom\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8008456E 0005
+
+[Tom's Strike Back\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80085196 0005
+

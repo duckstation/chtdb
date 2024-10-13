@@ -1,0 +1,79 @@
+; CHTDB: ; [ Destruction Derby 2 (Europe) {SLES-00299} ]
+
+[Have 500 Race Points]
+Type = Gameshark
+Activation = EndFrame
+800947DE 01F4
+
+[Always First]
+Type = Gameshark
+Activation = EndFrame
+800947DA 0001
+
+[Freeze Lap Time]
+Type = Gameshark
+Activation = EndFrame
+8009DD30 0000
+8009DDDC 0000
+
+[No Damage Left Door]
+Type = Gameshark
+Activation = EndFrame
+800894B4 0000
+
+[No Damage Left Rear]
+Type = Gameshark
+Activation = EndFrame
+800894AC 0000
+
+[No Damage Left Front]
+Type = Gameshark
+Activation = EndFrame
+80089490 0000
+
+[No Damage Right Door]
+Type = Gameshark
+Activation = EndFrame
+800894A0 0000
+
+[No Damage Right Rear]
+Type = Gameshark
+Activation = EndFrame
+800894A4 0000
+
+[No Damage Right Front]
+Type = Gameshark
+Activation = EndFrame
+80089498 0000
+
+[Select Speed/Thrust SSC]
+Type = Gameshark
+Activation = EndFrame
+300894CD 0030
+
+[Select Speed/normal (0F)]
+Type = Gameshark
+Activation = EndFrame
+300894CD 000F
+
+[Select Speed/normal (10)]
+Type = Gameshark
+Activation = EndFrame
+300894CD 0010
+
+[Select Speed/normal (11)]
+Type = Gameshark
+Activation = EndFrame
+300894CD 0011
+
+[Select Speed/Trabant 601S]
+Type = Gameshark
+Activation = EndFrame
+300894CD 0007
+
+[All Circuits]
+Type = Gameshark
+Activation = EndFrame
+8007A2C8 0007
+8007A2CC 0004
+

@@ -1,0 +1,27 @@
+; CHTDB: ; [ Viewpoint (USA) (1995) (Electronic Arts) {SLUS-00033} <viewpnt> ]
+
+[Infinite Shields In Novice]
+Type = Gameshark
+Activation = EndFrame
+801C1FAE 0003
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801C2922 0006
+
+[Infinite Continues]
+Type = Gameshark
+Activation = EndFrame
+801FFFA8 0006
+
+[Sideguns Equipped]
+Type = Gameshark
+Activation = EndFrame
+901C243C 00010001
+901C2560 00010001
+801C24A2 0180
+801C24A4 0180
+801C25C6 0180
+801C25C8 0180
+

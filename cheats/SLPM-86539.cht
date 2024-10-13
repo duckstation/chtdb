@@ -1,0 +1,7 @@
+; CHTDB: ; [ Bishi Bashi Special 3 - Step Champ (Jpn) (2000) (Konami) {SLPM-86539 (VX182-J1)} <bishi3> ]
+
+[P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8005926A 0003
+

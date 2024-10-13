@@ -1,0 +1,67 @@
+; CHTDB: ; [ Warhammer - Dark Omen (USA) (1998) (Electronic Arts) {SLUS-00550} <warhomen> ]
+
+[Works For All\Infinite Cash]
+Type = Gameshark
+Activation = EndFrame
+800C4AA4 FFFF
+
+[Works For All\Infinite Magic (Battle Screen)]
+Type = Gameshark
+Activation = EndFrame
+800B48E4 0008
+
+[Grudgebringer Crossbows\Have Max Armor]
+Type = Gameshark
+Activation = EndFrame
+8014CA9E 0104
+
+[Grudgebringer Crossbows\Have Max Exp]
+Type = Gameshark
+Activation = EndFrame
+8014CAF0 5AED
+
+[Grudgebringer Cannon\Have Max Armor]
+Type = Gameshark
+Activation = EndFrame
+8014CB5A 0104
+
+[Grudgebringer Cannon\Have Max Exp]
+Type = Gameshark
+Activation = EndFrame
+8014CBAC 5AED
+
+[Grudgebringer Calvalry\Have Max Armor]
+Type = Gameshark
+Activation = EndFrame
+8014C926 0114
+
+[Grudgebringer Calvalry\Have Max Exp]
+Type = Gameshark
+Activation = EndFrame
+8014C978 5AED
+
+[Grudgebringer Infantry\Have Max Armor]
+Type = Gameshark
+Activation = EndFrame
+8014C9E2 0104
+
+[Grudgebringer Infantry\Have Max Exp]
+Type = Gameshark
+Activation = EndFrame
+8014CA34 5AED
+
+[Carlsson's Cavalry\Have Max Armor]
+Type = Gameshark
+Activation = EndFrame
+8014CC16 0114
+
+[Countess' Guard\Have Max Armor]
+Type = Gameshark
+Activation = EndFrame
+8014CE4A 0304
+
+[Helmgart Bowmen\Have Max Armor]
+Type = Gameshark
+Activation = EndFrame
+8014CD8E 0104
+

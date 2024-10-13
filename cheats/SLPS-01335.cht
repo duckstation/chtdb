@@ -1,0 +1,95 @@
+; CHTDB: ; [ World Stadium 2 (Japan) {SLPS-01335} ]
+
+[Out count 0 and press R1]
+Type = Gameshark
+Activation = EndFrame
+D006C674 0008
+3006AAA8 0000
+
+[When you press L1-out count 3 (Change)]
+Type = Gameshark
+Activation = EndFrame
+D006C674 0004
+3006AAA8 0003
+
+[Ball count 3 Press R2]
+Type = Gameshark
+Activation = EndFrame
+D006C674 0002
+3006AAA4 0003
+
+[Strike count 2 Press L2]
+Type = Gameshark
+Activation = EndFrame
+D006C674 0001
+3006AAA0 0002
+
+[Xevious Stadium]
+Type = Gameshark
+Activation = EndFrame
+300F4E5A 000E
+300F4E5C 000E
+
+[Sengoku stadium]
+Type = Gameshark
+Activation = EndFrame
+300F4E5A 000D
+300F4E5C 000D
+
+[1Km per hour in slow ball]
+Type = Gameshark
+Activation = EndFrame
+8006E9BC 0001
+
+[999Km per hour at a speed ball]
+Type = Gameshark
+Activation = EndFrame
+8006E9BE 03E7
+
+[999Km per hour throwing normally]
+Type = Gameshark
+Activation = EndFrame
+8006E9C0 03E7
+
+[Throw after pressing L1, 999km per hour]
+Type = Gameshark
+Activation = EndFrame
+D006C674 0004
+8006E9C0 03E7
+
+[Throw after pressing R1, 20km per hour]
+Type = Gameshark
+Activation = EndFrame
+D006C674 0008
+8006E9C0 0014
+
+[Home run competition First place distance 999m]
+Type = Gameshark
+Activation = EndFrame
+8014E014 03E7
+
+[Home run competition Second place distance 999m]
+Type = Gameshark
+Activation = EndFrame
+8014E016 03E7
+
+[Home run competition 3rd place distance 999m]
+Type = Gameshark
+Activation = EndFrame
+8014E018 03E7
+
+[Home run competition 4th distance 999m]
+Type = Gameshark
+Activation = EndFrame
+8014E01A 03E7
+
+[Home run competition 5th distance 999m]
+Type = Gameshark
+Activation = EndFrame
+8014E01C 03E7
+
+[Home run competition Number to 99 Hits]
+Type = Gameshark
+Activation = EndFrame
+3014E008 0063
+

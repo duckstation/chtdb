@@ -1,0 +1,37 @@
+; CHTDB: ; [ Yakiniku Bugyou (Jpn) (2001) (Media Entertainment) {SLPS-03209} <yakibugy> ]
+
+[100 % Perfect - Left Eater]
+Type = Gameshark
+Activation = EndFrame
+8012AB6C 1E61
+
+[100 % Perfect - Center Eater]
+Type = Gameshark
+Activation = EndFrame
+8012ABA4 1E61
+
+[100 % Perfect - Right Eater]
+Type = Gameshark
+Activation = EndFrame
+8012ABDC 1E61
+
+[Max Satisfaction]
+Type = Gameshark
+Activation = EndFrame
+90015F24 24022000
+
+[Instant baked and not burnt]
+Type = Gameshark
+Activation = EndFrame
+90014538 34031000
+900145EC 34021000
+
+[I rejoice to eat anything]
+Type = Gameshark
+Activation = EndFrame
+80014538 0001
+8001CD38 0001
+8001CD40 0001
+9001CED8 24050100
+8001CEDE 1000
+

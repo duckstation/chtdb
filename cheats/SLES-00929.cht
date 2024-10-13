@@ -1,0 +1,17 @@
+; CHTDB: ; [ Psybadek (Europe) {SLES-00929} ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800AA648 6300
+
+[Have 99 Stars]
+Type = Gameshark
+Activation = EndFrame
+800B0594 0063
+
+[Have 60 Penguins In Level 2]
+Type = Gameshark
+Activation = EndFrame
+80092080 003C
+

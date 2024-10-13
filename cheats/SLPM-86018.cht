@@ -1,0 +1,7 @@
+; CHTDB: ; [ Pro Logic Mahjong Hai-Shin (Jpn) (1997) (Squaresoft) {SLPM-86018} <prologmj> ]
+
+[Player has 99900 points]
+Type = Gameshark
+Activation = EndFrame
+800FB168 03E7
+

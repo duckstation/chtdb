@@ -1,0 +1,32 @@
+; CHTDB: ; [ Metamor Panic: Doki Doki Youma Busters!! (Japan) {SLPS-00039} ]
+
+[Infinite Energy Short Hair Girl]
+Type = Gameshark
+Activation = EndFrame
+800C2A60 03E7
+
+[Infinite Energy Long Hair Girl]
+Type = Gameshark
+Activation = EndFrame
+800C2BF0 03E7
+
+[Infinite Energy Boy]
+Type = Gameshark
+Activation = EndFrame
+800C28D0 03E7
+
+[Infinite Special attack long hair girl]
+Type = Gameshark
+Activation = EndFrame
+800C2BF8 03E7
+
+[Infinite Special attack short hair girl]
+Type = Gameshark
+Activation = EndFrame
+800C2A68 03E7
+
+[Infinite Special attack boy]
+Type = Gameshark
+Activation = EndFrame
+800C28D8 03E7
+

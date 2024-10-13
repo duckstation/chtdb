@@ -1,0 +1,27 @@
+; CHTDB: ; [ Ridge Racer Revolution (Europe) {SCES-00242} ]
+
+[Always First]
+Type = Gameshark
+Activation = EndFrame
+8007C750 0001
+
+[Infinite Checkpoint time]
+Type = Gameshark
+Activation = EndFrame
+80194BAC 05DC
+
+[Course select]
+Type = Gameshark
+Activation = EndFrame
+801DCC14 0707
+
+[12 cars]
+Type = Gameshark
+Activation = EndFrame
+801DE564 0028
+
+[Buggies]
+Type = Gameshark
+Activation = EndFrame
+801E65DC 0028
+

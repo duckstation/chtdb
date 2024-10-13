@@ -1,0 +1,12 @@
+; CHTDB: ; [ Honoo no Ryourinin - Cooking Fighter Tao (Jpn) (1998) (Nippon Ichi Software) {SLPS-01382} <cookingf> ]
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+8008435A 0064
+
+[0 stamina opponent]
+Type = Gameshark
+Activation = EndFrame
+30084386 0000
+

@@ -1,0 +1,8 @@
+; CHTDB: ; [ StarSweep (Japan) {SLPS-01040} ]
+
+[All Stars (Unlock Goodies)]
+Type = Gameshark
+Activation = EndFrame
+80090D68 2602
+800BBC78 0108
+

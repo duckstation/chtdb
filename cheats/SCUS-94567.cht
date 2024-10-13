@@ -1,0 +1,38 @@
+; CHTDB: ; [ Who Wants to Be a Millionaire - 2nd Edition (USA) (2000) (Sony Computer Entertainment America) {SCUS-94567} <whowant2> ]
+
+[Start At Million $ Question]
+Type = Gameshark
+Activation = EndFrame
+E01FFE74 0000
+301FFE74 000E
+
+[Infinite 50/50]
+Type = Gameshark
+Activation = EndFrame
+E01FFED0 0000
+301FFED0 0001
+
+[Infinite Ask The Audience]
+Type = Gameshark
+Activation = EndFrame
+E01FFED2 0000
+301FFED2 0001
+
+[Infinite Lifelines]
+Type = Gameshark
+Activation = EndFrame
+E01FFE78 0002
+301FFE78 0003
+
+[Infinite Phone A Friend]
+Type = Gameshark
+Activation = EndFrame
+E01FFED1 0000
+301FFED1 0001
+
+[Add Time-Controller 1 (Press Select)]
+Type = Gameshark
+Activation = EndFrame
+D0044C6E FFFE
+300475D0 0000
+

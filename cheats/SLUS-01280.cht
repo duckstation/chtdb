@@ -1,0 +1,23 @@
+; CHTDB: ; [ Dance Dance Revolution (USA) (2001) (Konami of America) {SLUS-01280} <ddr> ]
+
+[1 Max Score]
+Type = Gameshark
+Activation = EndFrame
+900CC13C 05F5E0FF
+
+[P1 Infinite Groove]
+Type = Gameshark
+Activation = EndFrame
+800CC136 07FF
+
+[P1 Max Kcal]
+Type = Gameshark
+Activation = EndFrame
+900CC148 05F5E0FF
+
+[All Lessons Clear]
+Type = Gameshark
+Activation = EndFrame
+50000C02 0000
+800E9C28 0202
+

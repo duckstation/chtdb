@@ -1,0 +1,58 @@
+; CHTDB: ; [ Wreckin Crew: Drive Dangerously (Europe) {SLES-00489} ]
+
+[Infinite Nitros]
+Type = Gameshark
+Activation = EndFrame
+90048E30 00000000
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+50000404 0000
+80045F1C 0000
+
+[Max Stars\P1]
+Type = Gameshark
+Activation = EndFrame
+3010E13A 0063
+
+[Max Stars\P2]
+Type = Gameshark
+Activation = EndFrame
+3010E63E 0063
+
+[Unlocked\All Tracks At Day]
+Type = Gameshark
+Activation = EndFrame
+300A66A2 0001
+
+[Unlocked\All Tracks At Night]
+Type = Gameshark
+Activation = EndFrame
+300A66A2 0002
+
+[Unlocked\All Reverse Tracks At Day]
+Type = Gameshark
+Activation = EndFrame
+300A66A2 0003
+
+[Unlocked\All Reverse Tracks At Night]
+Type = Gameshark
+Activation = EndFrame
+300A66A2 0004
+
+[Unlocked\'The Gimp']
+Type = Gameshark
+Activation = EndFrame
+300A66A0 0009
+
+[Unlocked\'Bizley']
+Type = Gameshark
+Activation = EndFrame
+300A66A0 000A
+
+[P1 Unlock All Secret Characters]
+Type = Gameshark
+Activation = EndFrame
+800A68EC 000A
+

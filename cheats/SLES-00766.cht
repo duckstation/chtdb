@@ -1,0 +1,45 @@
+; CHTDB: ; [ Megaman: Battle & Chase (Europe) {SLES-00766} ]
+
+[Start On Lap 4]
+Type = Gameshark
+Activation = EndFrame
+A6163B82 00000003
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800D030E 0000
+
+[Max Speed]
+Type = Gameshark
+Activation = EndFrame
+801352C2 0155
+
+[Se-Bar Always Full]
+Type = Gameshark
+Activation = EndFrame
+8013532A 7800
+
+[Have All Parts]
+Type = Gameshark
+Activation = EndFrame
+50000602 0000
+80131AF8 0F0F
+
+[Press L1 at Character Select for Dr. Wily]
+Type = Gameshark
+Activation = EndFrame
+E013F771 0004
+3013F914 000E
+
+[Press L2 at Character Select for Duo]
+Type = Gameshark
+Activation = EndFrame
+E013F771 0001
+3013F914 000F
+
+[Unlock All Characters & Tracks]
+Type = Gameshark
+Activation = EndFrame
+801619C4 00FF
+

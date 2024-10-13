@@ -1,0 +1,12 @@
+; CHTDB: ; [ Super Dropzone: Intergalactic Rescue Mission (Europe) {SLES-04045} ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80047808 0005
+
+[Infinite Bombs]
+Type = Gameshark
+Activation = EndFrame
+800478B8 0005
+

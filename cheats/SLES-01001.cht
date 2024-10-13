@@ -1,0 +1,52 @@
+; CHTDB: ; [ Maximum Force (Europe) {SLES-01001} ]
+
+[P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8006FBB0 0007
+
+[P1 Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+8006FC04 0008
+
+[P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8006FC40 0007
+
+[P2 Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+8006FC94 0008
+
+[P1 Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+8006B4F0 0009
+
+[P2 Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+8006B4F4 0009
+
+[P1 Always Machine Gun Ammo]
+Type = Gameshark
+Activation = EndFrame
+A606FC00 00000001
+
+[P2 Always Machine Gun Ammo]
+Type = Gameshark
+Activation = EndFrame
+A606FC90 00000001
+
+[P1 Always Shot Gun Ammo]
+Type = Gameshark
+Activation = EndFrame
+A606FC00 00000002
+
+[P2 Always Shot Gun Ammo]
+Type = Gameshark
+Activation = EndFrame
+A606FC90 00000002
+

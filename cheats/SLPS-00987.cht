@@ -1,0 +1,17 @@
+; CHTDB: ; [ Lomax (Japan) {SLPS-00987} ]
+
+[Number of credits]
+Type = Gameshark
+Activation = EndFrame
+8006E318 0005
+
+[Lemmings rescue]
+Type = Gameshark
+Activation = EndFrame
+8006E204 0063
+
+[Level selection Level selection L1 + select & Start level L1 + Start]
+Type = Gameshark
+Activation = EndFrame
+8006E140 FFFF
+

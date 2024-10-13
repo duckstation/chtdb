@@ -1,0 +1,27 @@
+; CHTDB: ; [ Hyper Crazy Climber (Jpn) (1996) (Nichibutsu) {SLPS-00248} <hypcclim> ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80108E24 0009
+
+[Score is 9,999,999]
+Type = Gameshark
+Activation = EndFrame
+90108B38 0098967F
+
+[Always Have Power-Up (If You Don't See It, It Still is There)]
+Type = Gameshark
+Activation = EndFrame
+80108DA4 0002
+
+[Infinite Coins]
+Type = Gameshark
+Activation = EndFrame
+80108F88 0063
+
+[Infinite Time In Bonus Rounds]
+Type = Gameshark
+Activation = EndFrame
+80108C48 003C
+

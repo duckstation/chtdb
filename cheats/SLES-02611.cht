@@ -1,0 +1,12 @@
+; CHTDB: ; [ Star Wars: Episodio I: Jedi Power Battles (Spain) {SLES-02611} ]
+
+[P1 Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800B2120 0064
+
+[P2 Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800B213C 0064
+

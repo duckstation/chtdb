@@ -1,0 +1,54 @@
+; CHTDB: ; [ Legacy of Kain: Soul Reaver (Europe) {SLES-01301} ]
+
+[All Abilities]
+Type = Gameshark
+Activation = EndFrame
+800D5D0C 0020
+
+[Infinite Glyph Power]
+Type = Gameshark
+Activation = EndFrame
+900D5DBC 00630063
+
+[Infinite Life Energy Material World]
+Type = Gameshark
+Activation = EndFrame
+D00D5DE4 0001
+800D5DA8 A120
+D00D5DE4 0001
+800D5DAA 0007
+
+[Infinite Life Spectral World]
+Type = Gameshark
+Activation = EndFrame
+D00D5DE4 0002
+800D5DA8 86A0
+D00D5DE4 0002
+800D5DAA 0001
+
+[All parts of emblem]
+Type = Gameshark
+Activation = EndFrame
+800D505E 0005
+
+[All portals open (In-Game)]
+Type = Gameshark
+Activation = EndFrame
+800D20BE 0009
+800D213E 0009
+800D217E 0009
+
+[Have all glyphs]
+Type = Gameshark
+Activation = EndFrame
+800D5DB6 03FF
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+8003A604 0C00
+8003A614 0034
+8003A616 AFA0
+8003A618 1000
+8003A61A 2403
+

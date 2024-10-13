@@ -1,0 +1,17 @@
+; CHTDB: ; [ Marvel Super Heroes (Jpn) (1997) (Capcom) {SLPS-00763} <mshj> ]
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80091FE4 0090
+
+[P1 Force gauge Infinite]
+Type = Gameshark
+Activation = EndFrame
+30091FEA 0003
+
+[P2 No Energy]
+Type = Gameshark
+Activation = EndFrame
+80092214 0000
+

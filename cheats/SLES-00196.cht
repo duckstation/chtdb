@@ -1,0 +1,31 @@
+; CHTDB: ; [ Criticom aka Criticom: Critical Combat (Europe) {SLES-00196} ]
+
+[P1 Unbeatable]
+Type = Gameshark
+Activation = EndFrame
+80059DE8 0300
+80059F58 0320
+8005A0C8 0320
+
+[P2 Unbeatable]
+Type = Gameshark
+Activation = EndFrame
+80059C78 0320
+80059B08 0320
+80059DE8 0300
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A7106C10 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A7106C10 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A7106C10 10000400
+

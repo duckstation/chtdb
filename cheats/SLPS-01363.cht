@@ -1,0 +1,77 @@
+; CHTDB: ; [ Slayers Royal (Japan) {SLPS-01363} ]
+
+[Naga Hp/Mp 999 (In Battle)]
+Type = Gameshark
+Activation = EndFrame
+900D0C88 03E703E7
+900D0C84 03E703E7
+
+[Lina Hp/Mp 999 Stats Max (In Battle)]
+Type = Gameshark
+Activation = EndFrame
+900D0A7C 03E703E7
+900D0A80 03E703E7
+900D0A84 03DA03E0
+900D0A88 03D603DD
+
+[Gourry Gabriev Hp/Mp 999 Stats Max (In Battle)]
+Type = Gameshark
+Activation = EndFrame
+900D0E8C 03E703E7
+900D0E90 03E703E7
+900D0E94 022E0241
+900D0E98 03E703E7
+
+[Boy Hp/Mp 999 (In Battle)]
+Type = Gameshark
+Activation = EndFrame
+900D16AC 03E703E7
+900D16B0 03E703E7
+
+[First Boss Hp 0]
+Type = Gameshark
+Activation = EndFrame
+900D18B4 00000000
+
+[Max money]
+Type = Gameshark
+Activation = EndFrame
+9004B12C 0098967F
+
+[Bonus Open]
+Type = Gameshark
+Activation = EndFrame
+8004AF88 0001
+8004AFC8 0001
+
+[Bonus appearance]
+Type = Gameshark
+Activation = EndFrame
+3004AF88 0001
+
+[Bonus game Tame MAX in loud laughter trial select button of Naga]
+Type = Gameshark
+Activation = EndFrame
+D0042C48 0100
+8006A258 0100
+
+[Bonus Game No Slayers Quiz time limit]
+Type = Gameshark
+Activation = EndFrame
+8005C8E4 0000
+
+[Bonus GameNo Slayers quiz Otetsuki]
+Type = Gameshark
+Activation = EndFrame
+8006AF12 0000
+
+[Bonus Game Dish Lina 255 race gluttony Gauryi and Lina"]
+Type = Gameshark
+Activation = EndFrame
+8006D0BC 00FF
+
+[Bonus Game Dji order 99999 points are thieves of Lina"]
+Type = Gameshark
+Activation = EndFrame
+90058A98 0001869F
+

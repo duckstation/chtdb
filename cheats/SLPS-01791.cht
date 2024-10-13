@@ -1,0 +1,55 @@
+; CHTDB: ; [ Ecsaform (Japan) {SLPS-01791 | SLPS-01792} ]
+
+[Infinite HP girl]
+Type = Gameshark
+Activation = EndFrame
+8013284C 0025
+
+[Infinite HP long white hair man]
+Type = Gameshark
+Activation = EndFrame
+801327D8 0040
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+90065CC8 3B9AC9FF
+
+[Mortal blow Press Select + L1]
+Type = Gameshark
+Activation = EndFrame
+D01033F8 0104
+800C91E6 A420
+D01033F8 0104
+800C9226 A420
+
+[All weapons 255]
+Type = Gameshark
+Activation = EndFrame
+30064199 00FF
+50001F02 0000
+8006418A FFFF
+
+[All Armor 255]
+Type = Gameshark
+Activation = EndFrame
+300641D1 00FF
+50000802 0000
+800641D2 FFFF
+300641E2 00FF
+
+[All items 255]
+Type = Gameshark
+Activation = EndFrame
+300641E9 00FF
+50000D02 0000
+800641EA FFFF
+30064204 00FF
+
+[All Rem 255]
+Type = Gameshark
+Activation = EndFrame
+30064061 00FF
+50002102 0000
+80064062 FFFF
+

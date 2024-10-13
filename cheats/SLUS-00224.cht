@@ -1,0 +1,129 @@
+; CHTDB: ; [ Disruptor (USA) (1996) (Universal Interactive) {SLUS-00224} <disruptr> ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80077660 03E7
+
+[Infinite Psionic]
+Type = Gameshark
+Activation = EndFrame
+80077668 0064
+
+[Infinite Ammo 18MM Guns]
+Type = Gameshark
+Activation = EndFrame
+80056A94 03E7
+
+[Infinite Ammo Phase Guns]
+Type = Gameshark
+Activation = EndFrame
+80056A98 03E7
+
+[Infinite HiFreq Ammo Phase Guns]
+Type = Gameshark
+Activation = EndFrame
+80056A9C 03E7
+
+[Infinite Ammo AM Blaster Guns]
+Type = Gameshark
+Activation = EndFrame
+80056AA8 03E7
+
+[Infinite Ammo Lock On Gun]
+Type = Gameshark
+Activation = EndFrame
+80056AA0 03E7
+
+[Enable 18mm Automatic]
+Type = Gameshark
+Activation = EndFrame
+800770FC 0001
+
+[Select Perm Level\1 Training Mission]
+Type = Gameshark
+Activation = EndFrame
+80071518 0001
+
+[Select Perm Level\2 Chemical Factory]
+Type = Gameshark
+Activation = EndFrame
+80071518 0002
+
+[Select Perm Level\3 Rooftops]
+Type = Gameshark
+Activation = EndFrame
+80071518 0003
+
+[Select Perm Level\4 Jupiter Station]
+Type = Gameshark
+Activation = EndFrame
+80071518 0004
+
+[Select Perm Level\5 Triton]
+Type = Gameshark
+Activation = EndFrame
+80071518 0005
+
+[Select Perm Level\6 Mars]
+Type = Gameshark
+Activation = EndFrame
+80071518 0006
+
+[Select Perm Level\7 Antarctica]
+Type = Gameshark
+Activation = EndFrame
+80071518 0007
+
+[Select Perm Level\8 IO]
+Type = Gameshark
+Activation = EndFrame
+80071518 0008
+
+[Select Perm Level\9 Reactor 0A]
+Type = Gameshark
+Activation = EndFrame
+80071518 0009
+
+[Select Perm Level\10 Orbiting Habitat]
+Type = Gameshark
+Activation = EndFrame
+80071518 000A
+
+[Select Perm Level\11 Dream]
+Type = Gameshark
+Activation = EndFrame
+80071518 000B
+
+[Select Perm Level\12 Prison]
+Type = Gameshark
+Activation = EndFrame
+80071518 000C
+
+[Walk through/Climb Over Walls (Hold R3 Down)]
+Type = Gameshark
+Activation = EndFrame
+A702184A 14001462
+D7000000 00000400
+A702184A 14621400
+
+[Enemies Often Self Destruct]
+Type = Gameshark
+Activation = EndFrame
+A7029D1A 10401400
+
+[1 Hit Kills]
+Type = Gameshark
+Activation = EndFrame
+A7020FBA 14401400
+
+[Open All Doors Automatically]
+Type = Gameshark
+Activation = EndFrame
+A7023E62 10401400
+
+[Widescreen 16-9 (Vert-)]
+Type = Gameshark
+Activation = EndFrame
+A7040F74 10001333
+

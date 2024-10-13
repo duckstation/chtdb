@@ -1,0 +1,23 @@
+; CHTDB: ; [ Agile Warrior: F-111X (Japan) {SLPS-00179} ]
+
+[Infinite Fuel]
+Type = Gameshark
+Activation = EndFrame
+900D46C4 000586A0
+
+[Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+900EB83C 000186A0
+
+[Infinite Missiles]
+Type = Gameshark
+Activation = EndFrame
+50000902 0000
+800611AE 0063
+
+[Special FMV]
+Type = Gameshark
+Activation = EndFrame
+30060760 0001
+

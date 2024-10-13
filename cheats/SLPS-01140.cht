@@ -1,0 +1,45 @@
+; CHTDB: ; [ Choro Q Jet: Rainbow Wings (Japan) {SLPS-01140} ]
+
+[P1 Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+8010B444 0046
+
+[P1 Infinite Missiles]
+Type = Gameshark
+Activation = EndFrame
+8010B440 001C
+
+[Secret Character 1 (Press L1+R1)]
+Type = Gameshark
+Activation = EndFrame
+D0108E08 000C
+8013EEC8 0008
+
+[Secret Character 2 (Press L2+R2)]
+Type = Gameshark
+Activation = EndFrame
+D0108E08 0003
+8013EEC8 0009
+
+[Secret Character 3 (Press L1+L2+R1+R2)]
+Type = Gameshark
+Activation = EndFrame
+D0108E08 000F
+8013EEC8 000A
+
+[P2 Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+8010B594 0046
+
+[P2 Infinite Missiles]
+Type = Gameshark
+Activation = EndFrame
+8010B590 001C
+
+[Top Speed]
+Type = Gameshark
+Activation = EndFrame
+801E0BD4 FFFF
+

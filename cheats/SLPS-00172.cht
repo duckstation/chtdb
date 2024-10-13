@@ -1,0 +1,9 @@
+; CHTDB: ; [ Ninku (Jpn) (1995) (Tomy) {SLPS-00172} <ninku> ]
+
+[Fusuke,Aicho + Toji Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80010310 0058
+80010C14 0058
+800B10DC 0058
+

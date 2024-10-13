@@ -1,0 +1,32 @@
+; CHTDB: ; [ Bomberman Land (Japan) {SLPS-03002} ]
+
+[Have 700 points in telephone mini game]
+Type = Gameshark
+Activation = EndFrame
+801724EC 02BC
+
+[Have lots of money]
+Type = Gameshark
+Activation = EndFrame
+9008A068 05F5E0FF
+
+[Have 999 points in bomb factory mini game]
+Type = Gameshark
+Activation = EndFrame
+80173374 03E7
+
+[Have 999 points in Pang mini game]
+Type = Gameshark
+Activation = EndFrame
+80172F28 03E7
+
+[Have 9 Lives in Pang Mini game]
+Type = Gameshark
+Activation = EndFrame
+80172F30 000A
+
+[Have 150 points in hammer mini game]
+Type = Gameshark
+Activation = EndFrame
+80174670 0096
+

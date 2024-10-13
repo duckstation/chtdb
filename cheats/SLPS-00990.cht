@@ -1,0 +1,115 @@
+; CHTDB: ; [ Breath of Fire III (Jpn) (1997) (Capcom) {SLPS-00990} <bof3j> ]
+
+[Fast Level Up]
+Type = Gameshark
+Activation = EndFrame
+80146328 FFFF
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+90144F4C 000FFFFF
+
+[No Enemy In Battle Field]
+Type = Gameshark
+Activation = EndFrame
+80143F22 0000
+
+[Infinite HP in battle 1 person]
+Type = Gameshark
+Activation = EndFrame
+80145F14 03E7
+
+[Infinite HP in battle 2 person]
+Type = Gameshark
+Activation = EndFrame
+80146056 03E7
+
+[Infinite HP in battle 3 person]
+Type = Gameshark
+Activation = EndFrame
+80146196 03E7
+
+[Infinite AP in battle 1 person]
+Type = Gameshark
+Activation = EndFrame
+80145F16 03E7
+
+[All Gene Available]
+Type = Gameshark
+Activation = EndFrame
+90145544 FFFFFFFF
+
+[Hero Max Status]
+Type = Gameshark
+Activation = EndFrame
+8014496C FFFF
+90144978 03E703E7
+50000602 0000
+80144980 03E7
+
+[Momo Max Status]
+Type = Gameshark
+Activation = EndFrame
+90144CAC 03E703E7
+50000602 0000
+80144CB4 03E7
+
+[Lei Max Status]
+Type = Gameshark
+Activation = EndFrame
+90144C08 03E703E7
+50000602 0000
+80144C10 03E7
+
+[Nina Max Status]
+Type = Gameshark
+Activation = EndFrame
+90144A1C 03E703E7
+50000602 0000
+80144A24 03E7
+
+[Deepo Max Status]
+Type = Gameshark
+Activation = EndFrame
+90144B64 03E703E7
+50000602 0000
+80144B6C 03E7
+
+[Picolos Max Status]
+Type = Gameshark
+Activation = EndFrame
+90144D50 03E703E7
+50000602 0000
+80144D58 03E7
+
+[Kaland Max Status]
+Type = Gameshark
+Activation = EndFrame
+90144AC0 03E703E7
+50000602 0000
+80144AC8 03E7
+
+[Bright Max Status]
+Type = Gameshark
+Activation = EndFrame
+80144DFC 03E7
+50000402 0000
+80144E00 03E7
+
+[All Fish Available]
+Type = Gameshark
+Activation = EndFrame
+50000C02 0000
+80144FE0 FFFF
+
+[Infinite Skill Ink]
+Type = Gameshark
+Activation = EndFrame
+3014529F 0063
+
+[Not Abnormal state]
+Type = Gameshark
+Activation = EndFrame
+30144970 0000
+

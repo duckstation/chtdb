@@ -1,0 +1,22 @@
+; CHTDB: ; [ Pro Evolution Soccer 2 (Europe) {SLES-03946} ]
+
+[Unlock All Secret Teams]
+Type = Gameshark
+Activation = EndFrame
+8006F7BC FFFF
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A707D2E0 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A707D2E0 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A707D2E0 10000400
+

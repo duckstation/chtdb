@@ -1,0 +1,19 @@
+; CHTDB: ; [ Resident Evil - Director's Cut (USA) (1997) (Capcom Entertainment) {SLUS-00551} <revildc> ]
+
+[Quick Turn (Down + Square)]
+Type = Gameshark
+Activation = EndFrame
+E00CF845 0040
+E00CF848 0080
+100C5198 03E8
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+A7038CCA 10402400
+
+[Nemesis Rocket Launcher hits from anywhere]
+Type = Gameshark
+Activation = EndFrame
+A7047596 10402400
+

@@ -1,0 +1,7 @@
+; CHTDB: ; [ Nazoou (Japan) {SLPS-00447} ]
+
+[Have 99 points in story mode (always pass the level)]
+Type = Gameshark
+Activation = EndFrame
+8018AF8C 0063
+

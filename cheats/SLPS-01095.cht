@@ -1,0 +1,30 @@
+; CHTDB: ; [ Domino-kun o Tomenaide. (Jpn) (1998) (Artdink) {SLPS-01095} <dominokn> ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800AEF6C 096C
+
+[Infinite Domino]
+Type = Gameshark
+Activation = EndFrame
+800A205C 03E7
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+80088E7C 0015
+800987E0 05F3
+800AEF6C 05F2
+800B34BE 7BDE
+
+[All characters can be selected]
+Type = Gameshark
+Activation = EndFrame
+A60C452C 0003001F
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80015146 1000
+

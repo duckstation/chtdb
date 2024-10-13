@@ -1,0 +1,17 @@
+; CHTDB: ; [ Disney's The Emperor's New Groove (USA) (2000) (Sony Computer Entertainment America) {SCUS-94571} <emperor> ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800745D0 5000
+
+[Infinite Grapes]
+Type = Gameshark
+Activation = EndFrame
+80074754 F000
+
+[Unlock All Levels]
+Type = Gameshark
+Activation = EndFrame
+80074778 0808
+

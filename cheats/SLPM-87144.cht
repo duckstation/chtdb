@@ -1,0 +1,32 @@
+; CHTDB: ; [ Simple 1500 Series Vol.102 - The Densha Untensha - Densha de Go! - Nagoya Tetsudou-hen (Jpn) (2002) (D3 Publisher) {SLPM-87144} <ss102dgn> ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800D8DB4 0009
+
+[Life Bar]
+Type = Gameshark
+Activation = EndFrame
+800D8D84 00C7
+
+[One Hit To Kill The Final Boss]
+Type = Gameshark
+Activation = EndFrame
+800E30DC 0000
+
+[Unlock One Extra Character]
+Type = Gameshark
+Activation = EndFrame
+800D8ECC 0001
+
+[P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800D8DB6 0009
+
+[P2 Life Bar]
+Type = Gameshark
+Activation = EndFrame
+800D8D86 00C7
+

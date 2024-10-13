@@ -1,0 +1,33 @@
+; CHTDB: ; [ Millennium Soldier: Expendable (Europe) {SLES-01716} ]
+
+[P1 Infinite Life]
+Type = Gameshark
+Activation = EndFrame
+800A62FE 0063
+
+[P2 Infinite Life]
+Type = Gameshark
+Activation = EndFrame
+800A6956 0063
+
+[P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800A6924 0009
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800A079C 03E7
+
+[Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+800A0588 0009
+
+[All cards]
+Type = Gameshark
+Activation = EndFrame
+50000401 0000
+300B6AEB 0001
+

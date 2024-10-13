@@ -1,0 +1,24 @@
+; CHTDB: ; [ Fisherman's Bait 2 - Big Ol' Bass (USA) (1999) (Konami of America) {SLUS-00999} <fbait2> ]
+
+[Have All Fish In Livewell-Monster]
+Type = Gameshark
+Activation = EndFrame
+5000EF02 0000
+800A6C4E 2A2C
+
+[Press Select For Super Reel]
+Type = Gameshark
+Activation = EndFrame
+D0144CBA FFFE
+8012B3C8 0000
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800C1124 2710
+
+[Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+800C0F68 0009
+

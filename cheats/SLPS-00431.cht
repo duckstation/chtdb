@@ -1,0 +1,17 @@
+; CHTDB: ; [ Kotetsu Reiki - Steel Dom (Jpn) (1996) (TecnoSoft) {SLPS-00431} <steeldom> ]
+
+[Infinite HP Reiki stage 1]
+Type = Gameshark
+Activation = EndFrame
+8016B494 0721
+
+[Infinite HP Reiki stage 2]
+Type = Gameshark
+Activation = EndFrame
+8016B8E4 0721
+
+[Infinite HP Reiki stage 3]
+Type = Gameshark
+Activation = EndFrame
+8016BD34 0721
+

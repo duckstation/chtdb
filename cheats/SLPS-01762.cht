@@ -1,0 +1,95 @@
+; CHTDB: ; [ Pepsiman (Jpn) (1999) (KID) {SLPS-01762} <pepsiman> ]
+
+[Free Play]
+Type = Gameshark
+Activation = EndFrame
+800958A4 0100
+
+[Expert Mode]
+Type = Gameshark
+Activation = EndFrame
+800957D4 0100
+
+[All Pepsimen]
+Type = Gameshark
+Activation = EndFrame
+800958C8 000F
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80095988 7530
+
+[Total Time]
+Type = Gameshark
+Activation = EndFrame
+8009585C 0001
+80095980 0000
+
+[99 People]
+Type = Gameshark
+Activation = EndFrame
+80095770 0063
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+300958A8 0003
+
+[Pepsi Can 100]
+Type = Gameshark
+Activation = EndFrame
+300958E8 0064
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+D002447E 2442
+8009EF40 00FF
+
+[Floating In Air Press Triangle Button]
+Type = Gameshark
+Activation = EndFrame
+C0095848 0010
+8009EF06 0100
+8009EF08 0001
+00000000 FFFF
+
+[No Down On Reverse Running Stage]
+Type = Gameshark
+Activation = EndFrame
+C00F0272 2442
+800F80B0 00FE
+800F4AD8 00FE
+00000000 FFFF
+D00F0236 2442
+800F8004 00FE
+D00F029A 2442
+800F57DC 00FE
+
+[Dash Stage R1]
+Type = Gameshark
+Activation = EndFrame
+D0095848 0008
+8009EB7C 3900
+
+[All Pepsiman]
+Type = Gameshark
+Activation = EndFrame
+800958C8 000F
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A70E4858 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A70E4858 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A70E4858 10000400
+

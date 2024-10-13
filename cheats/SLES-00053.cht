@@ -1,0 +1,22 @@
+; CHTDB: ; [ Cheesy (Europe) {SLES-00053} ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80091BBC 0005
+
+[Infinite Hearts]
+Type = Gameshark
+Activation = EndFrame
+80091C00 0005
+
+[99 Cheese Pieces]
+Type = Gameshark
+Activation = EndFrame
+80091C78 0063
+
+[Level skip menu / all levels unlocked (Will be invisible until you move cursor below "fire button" option.)]
+Type = Gameshark
+Activation = EndFrame
+80091CF0 FFFF
+

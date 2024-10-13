@@ -1,0 +1,7 @@
+; CHTDB: ; [ Tiger Woods PGA Tour 2000 (Europe) {SLES-02551} ]
+
+[Only one stroke each hole]
+Type = Gameshark
+Activation = EndFrame
+800BC91C 0001
+

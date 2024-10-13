@@ -1,0 +1,48 @@
+; CHTDB: ; [ Sonic Wings Special (Japan) {SLPS-00307} ]
+
+[P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80126418 0002
+
+[P1 Infinite Bombs]
+Type = Gameshark
+Activation = EndFrame
+8012643C 0502
+
+[P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80126484 0002
+
+[P2 Infinite Bombs]
+Type = Gameshark
+Activation = EndFrame
+801264A8 0502
+
+[Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+800E6254 0009
+
+[All fighters]
+Type = Gameshark
+Activation = EndFrame
+90121174 05FFFFFF
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+80045F44 0001
+80045F80 0000
+
+[maximum shot level]
+Type = Gameshark
+Activation = EndFrame
+80046698 0000
+
+[Infinite Special Weapon]
+Type = Gameshark
+Activation = EndFrame
+30046894 0000
+

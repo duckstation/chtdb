@@ -1,0 +1,22 @@
+; CHTDB: ; [ Momotarou Dentetsu V (Japan) (Shokai Genteiban) {SLPS-02456} ]
+
+[P1 Infinite money 999999]
+Type = Gameshark
+Activation = EndFrame
+800C02B8 270F
+
+[Money 0 2P]
+Type = Gameshark
+Activation = EndFrame
+800C0474 0000
+
+[Money 0 3P]
+Type = Gameshark
+Activation = EndFrame
+800C0630 0000
+
+[Money 0 4P]
+Type = Gameshark
+Activation = EndFrame
+800C07EC 0000
+

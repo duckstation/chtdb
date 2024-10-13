@@ -1,0 +1,17 @@
+; CHTDB: ; [ Hard Boiled (Jpn) (1998) (Sieg) {SLPS-01484} <hardboil> ]
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+8005E5B4 001E
+
+[Infinite SP]
+Type = Gameshark
+Activation = EndFrame
+8005E708 03E7
+
+[Infinite Missiles]
+Type = Gameshark
+Activation = EndFrame
+8005E5BC 0028
+

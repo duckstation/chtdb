@@ -1,0 +1,33 @@
+; CHTDB: ; [ Spider-Man (Euro) (2000) (Activision Publishing) {SLES-02886, SLES-02886/P} <spidermne> ]
+
+[Invulnerable]
+Type = Gameshark
+Activation = EndFrame
+300EA335 0056
+
+[Infinite Web Carts]
+Type = Gameshark
+Activation = EndFrame
+801B7599 2400
+
+[Countdown Time Frozen]
+Type = Gameshark
+Activation = EndFrame
+800EA486 C100
+
+[Unlock All]
+Type = Gameshark
+Activation = EndFrame
+5004FFDA F5F4
+800F9AA0 FFFF
+
+[Level Select]
+Type = Gameshark
+Activation = EndFrame
+300EA319 0001
+
+[Enable What If Contest]
+Type = Gameshark
+Activation = EndFrame
+800EA325 0001
+

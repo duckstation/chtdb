@@ -1,0 +1,37 @@
+; CHTDB: ; [ Gran Turismo (Japan, Asia) {SCPS-10045} ]
+
+[Gran Turismo mode/Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+8008DD06 00FF
+
+[Gran Turismo mode/Have B License]
+Type = Gameshark
+Activation = EndFrame
+90090854 03030303
+90090858 03030303
+
+[Gran Turismo mode/Have A License]
+Type = Gameshark
+Activation = EndFrame
+9009085C 03030303
+90090860 03030303
+
+[Gran Turismo mode/Have A International License]
+Type = Gameshark
+Activation = EndFrame
+90090864 03030303
+90090868 03030303
+
+[High Racing Points]
+Type = Gameshark
+Activation = EndFrame
+9008DD04 05F5E100
+
+[60 FPS (+Re-enable tire smoke, Re-enable rear view mirror)]
+Type = Gameshark
+Activation = EndFrame
+A60AD648 00020001
+A702DD08 00020001
+A702A548 00020001
+

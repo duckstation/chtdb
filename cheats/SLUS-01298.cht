@@ -1,0 +1,62 @@
+; CHTDB: ; [ Sheep (USA) (2000) (Empire Interactive Entertainment) {SLUS-01298} <sheep> ]
+
+[Polygon Farm Stop Timer]
+Type = Gameshark
+Activation = EndFrame
+800B589C 22E2
+
+[Polygon Farm Have All Sheep]
+Type = Gameshark
+Activation = EndFrame
+A60B58A4 0000001E
+
+[Polygon Farm Max Bonus]
+Type = Gameshark
+Activation = EndFrame
+A60B58A8 0000FFFF
+
+[Village Fete Stop Timer]
+Type = Gameshark
+Activation = EndFrame
+800B797C 22E2
+
+[Village Fete Have All Sheep]
+Type = Gameshark
+Activation = EndFrame
+A60B7984 0000001E
+
+[Village Fete Max Bonus]
+Type = Gameshark
+Activation = EndFrame
+A60B7988 0000FFFF
+
+[Lost In Space Timer]
+Type = Gameshark
+Activation = EndFrame
+800BC054 22A8
+
+[Lost In Space Have All Sheep]
+Type = Gameshark
+Activation = EndFrame
+A60BC05C 001E001E
+
+[Lost In Space Max Bonus]
+Type = Gameshark
+Activation = EndFrame
+A60BC05E 0000FFFF
+
+[Jurassic Level Stop Timer]
+Type = Gameshark
+Activation = EndFrame
+800B5F1C 30A3
+
+[Jurassic Level Ave All Sheeps]
+Type = Gameshark
+Activation = EndFrame
+A60B5F24 0000001E
+
+[Jurassic Level Max Bonus]
+Type = Gameshark
+Activation = EndFrame
+A60B5F28 0000FFFF
+

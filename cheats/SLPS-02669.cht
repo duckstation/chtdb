@@ -1,0 +1,19 @@
+; CHTDB: ; [ Infinity (Japan) {SLPS-02669} ]
+
+[Clear flag everyone cheats already · Add field of ETC in the title screen Added a bonus CG in the CG gallery and Added a character introduced to the Start menu]
+Type = Gameshark
+Activation = EndFrame
+3007DCAC 003F
+
+[All Cg Gallery Filled Bonus]
+Type = Gameshark
+Activation = EndFrame
+90158110 FFFFFFFF
+90158114 FFFFFFFF
+80158118 FFFF
+
+[Izumi]
+Type = Gameshark
+Activation = EndFrame
+80157300 0004
+

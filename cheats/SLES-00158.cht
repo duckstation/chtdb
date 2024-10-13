@@ -1,0 +1,12 @@
+; CHTDB: ; [ Road Rash (Europe) {SLES-00158} ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+800DAD40 FFFF
+
+[Max. Cash]
+Type = Gameshark
+Activation = EndFrame
+900DCE04 7FFFFFFF
+

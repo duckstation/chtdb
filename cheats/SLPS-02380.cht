@@ -1,0 +1,39 @@
+; CHTDB: ; [ Growlanser (Jpn) (1999) (Atlus) {SLPS-02380~SLPS-02381} <growlans> ]
+
+[Hp 999]
+Type = Gameshark
+Activation = EndFrame
+901929FC 03E703E7
+
+[Mp 999]
+Type = Gameshark
+Activation = EndFrame
+90192A00 03E703E7
+
+[Elm 9999]
+Type = Gameshark
+Activation = EndFrame
+80194304 270F
+
+[Stats 999]
+Type = Gameshark
+Activation = EndFrame
+801929E8 03E7
+801929E6 03E7
+
+[Stats 255]
+Type = Gameshark
+Activation = EndFrame
+801929EC 00FF
+801929EA FFFF
+
+[Level 99]
+Type = Gameshark
+Activation = EndFrame
+801929E4 6300
+
+[Level Up]
+Type = Gameshark
+Activation = EndFrame
+801929F0 0001
+

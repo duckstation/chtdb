@@ -1,0 +1,12 @@
+; CHTDB: ; [ DX Shachou Game (Jpn) (1999) (Takara) {SLPS-02105} <dxshacho> ]
+
+[+98 Economy]
+Type = Gameshark
+Activation = EndFrame
+800B70A4 0062
+
+[Have 99999 money]
+Type = Gameshark
+Activation = EndFrame
+8011D358 270F
+

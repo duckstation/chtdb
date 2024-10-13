@@ -1,0 +1,22 @@
+; CHTDB: ; [ Dragon Seeds: Saishuu Shinka Keitai (Japan) {SLPS-01514} ]
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+8008F93A 03E7
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+8008F814 FFFF
+
+[Max Power]
+Type = Gameshark
+Activation = EndFrame
+8008F942 03E7
+
+[Special Ability]
+Type = Gameshark
+Activation = EndFrame
+8008F946 03E7
+

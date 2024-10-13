@@ -1,0 +1,7 @@
+; CHTDB: ; [ m [emu]: Kimi o Tsutaete (Japan) {SLPS-00393} ]
+
+[Have 99999 money]
+Type = Gameshark
+Activation = EndFrame
+900C2FF8 0001869F
+

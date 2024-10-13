@@ -1,0 +1,9 @@
+; CHTDB: ; [ Chaos Control (Jpn) (1996) (Virgin Interactive) {SLPS-00168} <chaoscon> ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80043190 00FF
+800ADB38 00FF
+800ADB48 00FF
+

@@ -1,0 +1,43 @@
+; CHTDB: ; [ SD Gundam: GGeneration (Japan) {SLPS-01560} ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+9012DEA0 0098967F
+
+[Ship 1 Infinite HP & EN]
+Type = Gameshark
+Activation = EndFrame
+8012A7B8 FFFF
+8012A7BC 03E7
+
+[All MS Infinite HP & EN From Ship 1]
+Type = Gameshark
+Activation = EndFrame
+80128E90 FFFF
+80128EA4 FFFF
+80128EB8 FFFF
+80128ECC FFFF
+80128E94 03E7
+80128EA8 03E7
+80128EBC 03E7
+80128ED0 03E7
+
+[All Ship Infinite EN]
+Type = Gameshark
+Activation = EndFrame
+5000202C 0000
+8012A7BC 03E7
+
+[All Ship Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+5000202C 0000
+8012A7B8 FFFF
+
+[Select Stage Enabled is last stage (Press R1) (01-2A)]
+Type = Gameshark
+Activation = EndFrame
+D00B8508 0008
+300B8384 002A
+

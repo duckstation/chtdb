@@ -1,0 +1,247 @@
+; CHTDB: ; [ Nuclear Strike (USA) (1997) (Electronic Arts) {SLUS-00518} <nstrike> ]
+
+[Infinite Armor + Lives]
+Type = Gameshark
+Activation = EndFrame
+80081A94 000F
+
+[Infinite Fuel (BPC)]
+Type = Gameshark
+Activation = EndFrame
+90039998 00000000
+
+[Select Mission\Island Mission]
+Type = Gameshark
+Activation = EndFrame
+80081A88 0102
+
+[Select Mission\Peace Mission Part 1]
+Type = Gameshark
+Activation = EndFrame
+80081A88 0202
+
+[Select Mission\Peace Mission Part 2]
+Type = Gameshark
+Activation = EndFrame
+80081A88 0302
+
+[Select Mission\Dmz Mission]
+Type = Gameshark
+Activation = EndFrame
+80081A88 0402
+
+[Select Mission\Fortress Mission]
+Type = Gameshark
+Activation = EndFrame
+80081A88 0502
+
+[Select Mission\Lightning Mission]
+Type = Gameshark
+Activation = EndFrame
+80081A88 0602
+
+[Delta Apache\Infinite Fuel]
+Type = Gameshark
+Activation = EndFrame
+800F5982 3B20
+
+[Delta Apache\Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+800F5900 05DC
+
+[Delta Apache\Infinite Wing Tips]
+Type = Gameshark
+Activation = EndFrame
+800EF454 0008
+
+[Delta Apache\Infinite Missiles]
+Type = Gameshark
+Activation = EndFrame
+800EF438 0008
+
+[Delta Apache\Infinite Rockets]
+Type = Gameshark
+Activation = EndFrame
+800EF41C 0026
+
+[Delta Apache\Infinite Chain Gun]
+Type = Gameshark
+Activation = EndFrame
+800EF400 049A
+
+[Delta Huey\Infinite Fuel]
+Type = Gameshark
+Activation = EndFrame
+800F5AF0 04A6
+
+[Delta Huey\Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+800F5B72 767E
+
+[Delta Huey\Infinite Wing Tips]
+Type = Gameshark
+Activation = EndFrame
+800EF3E4 0008
+
+[Delta Huey\Infinite Rockets]
+Type = Gameshark
+Activation = EndFrame
+800EF3AC 0026
+
+[Island Apache\Infinite Fuel]
+Type = Gameshark
+Activation = EndFrame
+800F3DCA 638B
+
+[Island Apache\Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+800F3D48 05DC
+
+[Island Apache\Infinite Wing Tips]
+Type = Gameshark
+Activation = EndFrame
+800EF13C 0004
+
+[Island Apache\Infinite Missiles]
+Type = Gameshark
+Activation = EndFrame
+800EF120 000C
+
+[Island Apache\Infinite Rockets]
+Type = Gameshark
+Activation = EndFrame
+800EF104 0026
+
+[Island Apache\Infinite Chain Gun]
+Type = Gameshark
+Activation = EndFrame
+800EF0E8 049A
+
+[Peace Chopper\Infinite Fuel]
+Type = Gameshark
+Activation = EndFrame
+800F2EA2 6107
+
+[Peace Chopper\Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+800F2E20 03E8
+
+[Peace Chopper\Infinite Tgas]
+Type = Gameshark
+Activation = EndFrame
+800EE0BC 0008
+
+[Dmz Apache\Infinite Fuel]
+Type = Gameshark
+Activation = EndFrame
+800F65CA 62F5
+
+[Dmz Apache\Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+800F6548 07D0
+
+[Dmz Apache\Infinite Wing Tips]
+Type = Gameshark
+Activation = EndFrame
+800EF00C 0008
+
+[Dmz Apache\Infinite Guns]
+Type = Gameshark
+Activation = EndFrame
+800EEFB8 05DC
+
+[Dmz Tank\Infinite Fuel]
+Type = Gameshark
+Activation = EndFrame
+8008203C 3939
+
+[Dmz Tank\Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+800F5B70 0FA0
+
+[Dmz Tank\Infinite Cannon]
+Type = Gameshark
+Activation = EndFrame
+800EEEBC 0064
+
+[Delta Hovercraft\Infinite Fuel]
+Type = Gameshark
+Activation = EndFrame
+800F57E2 C742
+
+[Delta Hovercraft\Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+800F5760 0BB8
+
+[Delta Hovercraft\Infinite Guns]
+Type = Gameshark
+Activation = EndFrame
+800EF374 2710
+
+[Delta Hovercraft\Infinite Cannon]
+Type = Gameshark
+Activation = EndFrame
+800EF33C 0064
+
+[Delta Hovercraft\Infinite Rockets]
+Type = Gameshark
+Activation = EndFrame
+800EF358 0018
+
+[Dmz Bradley\Infinite Fuel]
+Type = Gameshark
+Activation = EndFrame
+800F60B2 602F
+
+[Dmz Bradley\Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+800F6030 07D0
+
+[Dmz Bradley\Infinite Guns]
+Type = Gameshark
+Activation = EndFrame
+800EEF64 04B0
+
+[Dmz Bradley\Infinite Missiles]
+Type = Gameshark
+Activation = EndFrame
+800EEF80 000A
+
+[Dmz A10X Warthog\Infinite Fuel]
+Type = Gameshark
+Activation = EndFrame
+800F63F2 62F2
+
+[Dmz A10X Warthog\Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+800F6370 1B58
+
+[Dmz A10X Warthog\Infinite Wing Tips]
+Type = Gameshark
+Activation = EndFrame
+800EEEA0 0008
+
+[Dmz A10X Warthog\Infinite Rockets]
+Type = Gameshark
+Activation = EndFrame
+800EEE68 0190
+
+[Dmz A10X Warthog\Infinite Missiles]
+Type = Gameshark
+Activation = EndFrame
+800EEE84 0030
+
+[Dmz A10X Warthog\Infinite Cannon]
+Type = Gameshark
+Activation = EndFrame
+800EEE4C 1B58
+

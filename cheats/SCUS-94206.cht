@@ -1,0 +1,27 @@
+; CHTDB: ; [ Samurai Shodown III - Blades of Blood (USA) (1996) (Sony Computer Entertainment America) {SCUS-94206} <samsho3> ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+A709B688 FFFF0000
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800185B4 0080
+
+[P1 1-Hit Death of P2]
+Type = Gameshark
+Activation = EndFrame
+A60186B4 00800001
+
+[P1 POW Always Full]
+Type = Gameshark
+Activation = EndFrame
+800185BE 4000
+
+[P1 Needs 1 Win to Win]
+Type = Gameshark
+Activation = EndFrame
+A60185D4 00000001
+

@@ -1,0 +1,62 @@
+; CHTDB: ; [ Colony Wars - Vengeance (USA) (1998) (Psygnosis) {SLUS-00722} <cwarsvng> ]
+
+[Infinite Assign Power Points]
+Type = Gameshark
+Activation = EndFrame
+800C4D04 0008
+
+[Infinite Shields]
+Type = Gameshark
+Activation = EndFrame
+80045FB4 0064
+
+[Anti Shield Lasers Never Overheat]
+Type = Gameshark
+Activation = EndFrame
+8012E21C 0000
+
+[Lasers Never Overheat]
+Type = Gameshark
+Activation = EndFrame
+8012E274 0000
+
+[Seismic Lance Never Overheat]
+Type = Gameshark
+Activation = EndFrame
+8012E2CC 0000
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+8011E400 230C
+
+[Infinite As Missles]
+Type = Gameshark
+Activation = EndFrame
+8012E388 0005
+
+[Infinite Plasma Missles]
+Type = Gameshark
+Activation = EndFrame
+8012E3E0 0005
+
+[Enable Wraith Ship]
+Type = Gameshark
+Activation = EndFrame
+8005513C 0100
+
+[Enable Diablo Ship]
+Type = Gameshark
+Activation = EndFrame
+80055142 0001
+
+[Enable Voodoo Ship]
+Type = Gameshark
+Activation = EndFrame
+80055146 0100
+
+[Have Stage Select Open]
+Type = Gameshark
+Activation = EndFrame
+300A9ECA 0030
+

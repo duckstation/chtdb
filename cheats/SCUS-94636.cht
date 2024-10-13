@@ -1,0 +1,87 @@
+; CHTDB: ; [ Disney's Atlantis - The Lost Empire (USA) (2001) (Sony Computer Entertainment America) {SCUS-94636} <atlantis> ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80096760 0063
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+80096762 0064
+
+[Unlock All Levels (Must Load A Saved Game)]
+Type = Gameshark
+Activation = EndFrame
+90098F3C FFFFFFFF
+
+[All Movies]
+Type = Gameshark
+Activation = EndFrame
+80098F3E FFFF
+50000702 0000
+80098F5C FFFF
+
+[Max Green Crystals + Unlock Extra Stuff]
+Description = You must start a game then quit to have the "Concept Art" and "Model Viewer" unlocked
+Type = Gameshark
+Activation = EndFrame
+8009676C 0032
+
+[Teleport to radio from anywhere "Press L3"]
+Type = Gameshark
+Activation = EndFrame
+A70144F6 24001040
+D7200000 00000200
+A70144F6 10402400
+
+[Walk through walls "Press R3 to toggle on/off"]
+Type = Gameshark
+Activation = EndFrame
+D7010001 01000400
+F505768E 10402400
+F5058F72 10401000
+
+[Moon jump & walk in air (Hold X to moon jump, release and hold x again to walk in air)]
+Type = Gameshark
+Activation = EndFrame
+A703ED12 10001040
+A7056A72 24001040
+D7200000 00000040
+A703ED12 10401000
+A7056A72 10402400
+
+[Walk in air "Hold triangle" (Do not combine with moon jump code, jump in mid-air is fine)]
+Type = Gameshark
+Activation = EndFrame
+A703ED12 10001040
+D7200000 00000010
+A703ED12 10401000
+
+[Boomerang has infinite range "Hold circle, release to return boomerang"]
+Type = Gameshark
+Activation = EndFrame
+A70172CE 10001060
+D7200000 00000020
+A70172CE 10601000
+
+[Throw boomerang through walls]
+Type = Gameshark
+Activation = EndFrame
+A70170C6 04402400
+
+[Boomerang hits spawn copies of your character]
+Type = Gameshark
+Activation = EndFrame
+A702900A 14622400
+
+[Jump in mid-air while walking]
+Type = Gameshark
+Activation = EndFrame
+A7056A72 10402400
+
+[Leave foot prints]
+Type = Gameshark
+Activation = EndFrame
+A7037D26 14621000
+

@@ -1,0 +1,23 @@
+; CHTDB: ; [ Defeat Lightning (Jpn) (1997) (D Cruise) {SLPS-00853} <deflight> ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800D6F50 2329
+
+[Infinite Roost]
+Type = Gameshark
+Activation = EndFrame
+80047C00 0000
+
+[9999 POINTS]
+Type = Gameshark
+Activation = EndFrame
+800D6FC8 270F
+
+[TIME 0.00 (L2 + R2)]
+Type = Gameshark
+Activation = EndFrame
+D01ACE00 FFFC
+800D6F50 0000
+

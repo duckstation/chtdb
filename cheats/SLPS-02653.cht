@@ -1,0 +1,62 @@
+; CHTDB: ; [ Monster Farm - Battle Card Professional (Jpn) (2000) (Tecmo) {SLPS-02653} <mfarmbc> ]
+
+[HP 99 1 monster]
+Type = Gameshark
+Activation = EndFrame
+80118CAE 0063
+
+[HP 99 2 monster]
+Type = Gameshark
+Activation = EndFrame
+80118CE6 0063
+
+[HP 99 3 monster]
+Type = Gameshark
+Activation = EndFrame
+80118D1E 0063
+
+[99 deck]
+Type = Gameshark
+Activation = EndFrame
+80118C90 0063
+
+[Guts 99]
+Type = Gameshark
+Activation = EndFrame
+80118C92 0063
+
+[All Business card It is set by looking at the command information]
+Type = Gameshark
+Activation = EndFrame
+900DF454 24030001
+900DF458 A0431111
+900DF45C 24020001
+
+[50 sheets get a new card I get 50 sheets at a time only card that newly acquired]
+Type = Gameshark
+Activation = EndFrame
+800F8064 0001
+900F7F30 24020032
+
+[50 pieces of all cards other than the monster card It is set by looking at the Card Management and all possession card]
+Type = Gameshark
+Activation = EndFrame
+90093FF0 24030032
+90093FF4 A6630000
+
+[I want to disable the CD check in the disk stone Institute]
+Type = Gameshark
+Activation = EndFrame
+D00F66F4 2821
+300F66F6 0000
+
+[All cardholder]
+Type = Gameshark
+Activation = EndFrame
+50001602 0000
+800FC1F4 6363
+5000FF02 0000
+800FC220 0063
+50001F02 0000
+800FC41E 0063
+

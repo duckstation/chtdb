@@ -1,0 +1,82 @@
+; CHTDB: ; [ Disruptor (Germany) {SLES-00565} ]
+
+[Unsichtbar]
+Type = Gameshark
+Activation = EndFrame
+80077BA8 00C8
+
+[Unendlich Psionic]
+Type = Gameshark
+Activation = EndFrame
+80077BB0 00C8
+
+[Hifreq Munition Phase Guns]
+Type = Gameshark
+Activation = EndFrame
+80056F70 0032
+
+[Munition Lock On Gun]
+Type = Gameshark
+Activation = EndFrame
+80056F78 000A
+
+[Besitze Zodiac]
+Type = Gameshark
+Activation = EndFrame
+80077660 007D
+
+[Besitze Plasma Lance]
+Type = Gameshark
+Activation = EndFrame
+8007765C 0001
+
+[Unendlich Ammo 18mm Gun]
+Type = Gameshark
+Activation = EndFrame
+80056F68 0014
+
+[Unendlich Ammo Phase Guns]
+Type = Gameshark
+Activation = EndFrame
+80056F74 0014
+
+[Unendlich Ammo Am Blaster Guns]
+Type = Gameshark
+Activation = EndFrame
+80056F7C 0014
+
+[Besitze 18mm Automatic]
+Type = Gameshark
+Activation = EndFrame
+80077644 0001
+
+[Besitze Phase Rifle]
+Type = Gameshark
+Activation = EndFrame
+80077648 0001
+
+[Besitze Phase Repeator]
+Type = Gameshark
+Activation = EndFrame
+80017650 0001
+
+[Besitze Lock On Gun]
+Type = Gameshark
+Activation = EndFrame
+8001764E 0001
+
+[Besitze Am Blaster]
+Type = Gameshark
+Activation = EndFrame
+80077654 0001
+
+[Besitze Am Cyclone]
+Type = Gameshark
+Activation = EndFrame
+80077658 0001
+
+[Schnellfeuer]
+Type = Gameshark
+Activation = EndFrame
+80077BCC 0000
+

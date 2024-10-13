@@ -1,0 +1,187 @@
+; CHTDB: ; [ Army Men: Operation Meltdown (Europe) {SLES-02855} ]
+
+[Level 2 (New Game)]
+Type = Gameshark
+Activation = EndFrame
+D00F5BD8 0000
+300F5BD8 0001
+D00F5BDC 0000
+300F5BDC 0001
+
+[Level 3 (New Game)]
+Type = Gameshark
+Activation = EndFrame
+D00F5BD8 0000
+300F5BD8 0002
+D00F5BDC 0000
+300F5BDC 0002
+
+[Level 4 (New Game)]
+Type = Gameshark
+Activation = EndFrame
+D00F5BD8 0000
+300F5BD8 0003
+D00F5BDC 0000
+300F5BDC 0003
+
+[Level 5 (New Game)]
+Type = Gameshark
+Activation = EndFrame
+D00F5BD8 0000
+300F5BD8 0004
+D00F5BDC 0000
+300F5BDC 0004
+
+[Level 6 (New Game)]
+Type = Gameshark
+Activation = EndFrame
+D00F5BD8 0000
+300F5BD8 0005
+D00F5BDC 0000
+300F5BDC 0005
+
+[Level 7 (New Game)]
+Type = Gameshark
+Activation = EndFrame
+D00F5BD8 0000
+300F5BD8 0006
+D00F5BDC 0000
+300F5BDC 0006
+
+[Level 8 (New Game)]
+Type = Gameshark
+Activation = EndFrame
+D00F5BD8 0000
+300F5BD8 0007
+D00F5BDC 0000
+300F5BDC 0007
+
+[Level 9 (New Game)]
+Type = Gameshark
+Activation = EndFrame
+D00F5BD8 0000
+300F5BD8 0008
+D00F5BDC 0000
+300F5BDC 0008
+
+[Level 10 (New Game)]
+Type = Gameshark
+Activation = EndFrame
+D00F5BD8 0000
+300F5BD8 0009
+D00F5BDC 0000
+300F5BDC 0009
+
+[Level 11 (New Game)]
+Type = Gameshark
+Activation = EndFrame
+D00F5BD8 0000
+300F5BD8 000A
+D00F5BDC 0000
+300F5BDC 000A
+
+[Level 12 (New Game)]
+Type = Gameshark
+Activation = EndFrame
+D00F5BD8 0000
+300F5BD8 000B
+D00F5BDC 0000
+300F5BDC 000B
+
+[Level 13 (New Game)]
+Type = Gameshark
+Activation = EndFrame
+D00F5BD8 0000
+300F5BD8 000C
+D00F5BDC 0000
+300F5BDC 000C
+
+[Level 14 (New Game)]
+Type = Gameshark
+Activation = EndFrame
+D00F5BD8 0000
+300F5BD8 000D
+D00F5BDC 0000
+300F5BDC 000D
+
+[Level 15 (New Game)]
+Type = Gameshark
+Activation = EndFrame
+D00F5BD8 0000
+300F5BD8 000E
+D00F5BDC 0000
+300F5BDC 000E
+
+[Level 16 (New Game)]
+Type = Gameshark
+Activation = EndFrame
+D00F5BD8 0000
+300F5BD8 000F
+D00F5BDC 0000
+300F5BDC 000F
+
+[Invulnerable]
+Type = Gameshark
+Activation = EndFrame
+800FD0D4 0310
+
+[Infinite Grenades]
+Type = Gameshark
+Activation = EndFrame
+300F6C39 00FF
+
+[Have Mortar & Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+300F6C3A 00FF
+
+[Have Flamethrower & Infinite Fuel]
+Type = Gameshark
+Activation = EndFrame
+300F6C3C 00FF
+
+[Have Auto Rifle & Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+300F6C3D 00FF
+
+[Infinite Explosives]
+Type = Gameshark
+Activation = EndFrame
+300F6C3E 00FF
+
+[Infinite Mines]
+Type = Gameshark
+Activation = EndFrame
+300F6C3F 00FF
+
+[Infinite Medipacks]
+Type = Gameshark
+Activation = EndFrame
+300F6C40 00FF
+
+[Have Mine Detector]
+Type = Gameshark
+Activation = EndFrame
+300F6C41 0001
+
+[Pt Boat Indestructible]
+Type = Gameshark
+Activation = EndFrame
+800FD1F8 1750
+
+[Jeep Indestructible]
+Type = Gameshark
+Activation = EndFrame
+800FDD60 1650
+
+[Tank Indestructible]
+Type = Gameshark
+Activation = EndFrame
+800FDFA8 EBD0
+
+[Train Indestructible]
+Type = Gameshark
+Activation = EndFrame
+800FF1E8 1FF0
+

@@ -1,0 +1,13 @@
+; CHTDB: ; [ Sanyo Pachinko Paradise 4: Sushiya da Gen-san!! (Japan) {SLPS-02988} ]
+
+[Infinite Ball]
+Type = Gameshark
+Activation = EndFrame
+8009D684 FFFF
+8009D685 FFFF
+
+[Super reach number]
+Type = Gameshark
+Activation = EndFrame
+8009D6B4 0004
+

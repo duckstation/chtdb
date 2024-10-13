@@ -1,0 +1,36 @@
+; CHTDB: ; [ Kotobuki Grand Prix (Europe) {SLES-04007} ]
+
+[Always 1st Place]
+Type = Gameshark
+Activation = EndFrame
+3007C0AC 0001
+
+[Max $]
+Type = Gameshark
+Activation = EndFrame
+3007BD34 000A
+
+[Unlock All Characters]
+Type = Gameshark
+Activation = EndFrame
+3007BD30 000F
+
+[P1 All Weapons]
+Type = Gameshark
+Activation = EndFrame
+50000F01 0001
+300DF558 0000
+
+[P2 All Weapons]
+Type = Gameshark
+Activation = EndFrame
+50000F01 0000
+300DF568 0000
+
+[Max All Stats]
+Type = Gameshark
+Activation = EndFrame
+D00DDA0E 0000
+50000502 0000
+800DDA10 0005
+

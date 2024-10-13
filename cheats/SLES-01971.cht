@@ -1,0 +1,43 @@
+; CHTDB: ; [ Pop n' Pop (Europe) (White Label) {SLES-01971} ]
+
+[Cloud remains on one height]
+Type = Gameshark
+Activation = EndFrame
+800F96F6 0001
+
+[Cloud doesn't move]
+Type = Gameshark
+Activation = EndFrame
+300F96F2 0040
+
+[Start with loads of points]
+Type = Gameshark
+Activation = EndFrame
+D00F9550 8760
+300F9552 0003
+A60F9550 00008760
+
+[Extra counter at max (Press L1 & L2)]
+Type = Gameshark
+Activation = EndFrame
+D015E9B2 FAFF
+300F95F8 001F
+
+[Quick win over P2 (Press R1 & R2)]
+Type = Gameshark
+Activation = EndFrame
+D015E9B2 F5FF
+300F987E 007B
+
+[Needs only one win]
+Type = Gameshark
+Activation = EndFrame
+D00F9642 0000
+300F9642 0001
+
+[Unlock All Characters]
+Type = Gameshark
+Activation = EndFrame
+80157414 0101
+30157416 0001
+

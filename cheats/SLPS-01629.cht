@@ -1,0 +1,50 @@
+; CHTDB: ; [ Kasei Monogatari (Japan) (Genteiban) {SLPS-01629} ]
+
+[Infinite HP Phobos in battle (main character)]
+Type = Gameshark
+Activation = EndFrame
+800BDB6A 03E7
+
+[Infinite & Max HP Phobos (main character)]
+Type = Gameshark
+Activation = EndFrame
+80010762 03E7
+80010764 03E7
+
+[Infinite Money (9999999)]
+Type = Gameshark
+Activation = EndFrame
+9001001C 0098967F
+
+[Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+D00BA77C 1023
+800BA77E 0040
+
+[Infinite Item]
+Type = Gameshark
+Activation = EndFrame
+D00B5B5A 2442
+800B5B58 0000
+
+[Infinite MP In Battle]
+Type = Gameshark
+Activation = EndFrame
+D002AF8A A466
+8002AF88 0000
+A602AF8A A4660000
+
+[Infinite Combat]
+Type = Gameshark
+Activation = EndFrame
+D002AF62 A066
+8002AF60 0000
+A602AF62 A0660000
+
+[Items Not Decrease During Combat You have to have two units]
+Type = Gameshark
+Activation = EndFrame
+D0025EE0 1023
+80025EE2 0060
+

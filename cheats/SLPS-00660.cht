@@ -1,0 +1,17 @@
+; CHTDB: ; [ Deep Sea Adventure: Kaitei-kyuu Pantarassa no Nazo (Japan) {SLPS-00660 | SLPS-00661} ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+9007B93C 0098967F
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+800D53AC 0014
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800E7C30 0064
+

@@ -1,0 +1,26 @@
+; CHTDB: ; [ Burning Road (Europe) {SLES-00345} ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+8005A6F0 0032
+
+[Always Place 1st]
+Type = Gameshark
+Activation = EndFrame
+8005A60C 0001
+8005A610 0001
+800CDB6A 0001
+
+[Speed is Always Max]
+Type = Gameshark
+Activation = EndFrame
+801A93DC 02B4
+800CDB52 0FFF
+
+[Lap Time = 0]
+Type = Gameshark
+Activation = EndFrame
+8005A754 0000
+8005A8E0 0000
+

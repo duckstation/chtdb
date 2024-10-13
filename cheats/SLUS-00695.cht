@@ -1,0 +1,68 @@
+; CHTDB: ; [ Clock Tower II - The Struggle Within (USA) (1999) (Agetec) {SLUS-00695} <clocktw2> ]
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+80070A18 0003
+
+[Infinite Ammo All Weapons]
+Type = Gameshark
+Activation = EndFrame
+80070954 0063
+
+[Play Time And Time Attack Mode Time 00.00.00]
+Type = Gameshark
+Activation = EndFrame
+80070A48 0000
+80070A54 0000
+
+[Have All Endings + Extra Mode]
+Type = Gameshark
+Activation = EndFrame
+8006F048 FFFF
+
+[Have All Hints]
+Type = Gameshark
+Activation = EndFrame
+8006F04A FFFF
+
+[Select Character\Alyssa]
+Type = Gameshark
+Activation = EndFrame
+80070A20 0000
+
+[Select Character\Bates]
+Type = Gameshark
+Activation = EndFrame
+80070A20 0020
+
+[Time Attack Mode Infinite Gun Ammo]
+Type = Gameshark
+Activation = EndFrame
+800709CC 0063
+
+[Time Attack ModeI nfinite Machine Gun Ammo]
+Type = Gameshark
+Activation = EndFrame
+800709D4 0063
+
+[Time Attack Mode Infinite Shotgun Ammo]
+Type = Gameshark
+Activation = EndFrame
+800709D0 0063
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A706F7B8 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A706F7B8 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A706F7B8 10000400
+

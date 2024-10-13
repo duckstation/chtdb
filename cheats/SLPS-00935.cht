@@ -1,0 +1,52 @@
+; CHTDB: ; [ Chou-Kousoku Grandoll (Jpn) (1997) (Bandai) {SLPS-00935} <grandoll> ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800B4D64 0060
+
+[All 5 Change Roll]
+Type = Gameshark
+Activation = EndFrame
+300B4D6A 0005
+
+[Infinite Keys]
+Type = Gameshark
+Activation = EndFrame
+800A282C 0101
+
+[Infinite Bombs]
+Type = Gameshark
+Activation = EndFrame
+800B4D66 0101
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+300A266C 0001
+
+[Completely Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800A262E 0001
+
+[Deathblow]
+Type = Gameshark
+Activation = EndFrame
+800B4D66 0003
+
+[All movies open]
+Type = Gameshark
+Activation = EndFrame
+800A29EE FFFF
+
+[Card]
+Type = Gameshark
+Activation = EndFrame
+800A282C 0001
+
+[I can transform all]
+Type = Gameshark
+Activation = EndFrame
+800B4D6A 0005
+

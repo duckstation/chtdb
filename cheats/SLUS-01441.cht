@@ -1,0 +1,17 @@
+; CHTDB: ; [ Largo Winch - Commando SAR (USA) (2002) (Ubi Soft Entertainment Software) {SLUS-01441} <largownc> ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800DFECE 0064
+
+[Infinite Health (ASM)]
+Type = Gameshark
+Activation = EndFrame
+8004389A 2400
+
+[Infinite Bomb Timer]
+Type = Gameshark
+Activation = EndFrame
+800E3F2A 003B
+

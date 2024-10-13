@@ -1,0 +1,42 @@
+; CHTDB: ; [ Feda 2 - White Surge - the Platoon (Jpn) (1997) (Yanoman Games) {SLPS-00723} <feda2> ]
+
+[Infinite HP Character 1]
+Type = Gameshark
+Activation = EndFrame
+800E7A70 00FE
+
+[Infinite HP Character 2]
+Type = Gameshark
+Activation = EndFrame
+800E7A74 00DF
+
+[Infinite HP Character 3]
+Type = Gameshark
+Activation = EndFrame
+800E7A7C 00F4
+
+[Infinite HP Character 4]
+Type = Gameshark
+Activation = EndFrame
+800E7A78 00CE
+
+[Infinite HP Character 5]
+Type = Gameshark
+Activation = EndFrame
+800E7A80 00EB
+
+[Infinite Opm]
+Type = Gameshark
+Activation = EndFrame
+800ADE38 03E8
+
+[Fatal Strike]
+Type = Gameshark
+Activation = EndFrame
+800391FA 0063
+
+[Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+900397E4 00000000
+

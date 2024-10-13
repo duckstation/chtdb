@@ -1,0 +1,38 @@
+; CHTDB: ; [ TechnoMage: Return of Eternity (Europe) {SLES-03241} ]
+
+[Have 999999 Gold]
+Type = Gameshark
+Activation = EndFrame
+90092104 000F423F
+
+[Infinite & Max Hp]
+Type = Gameshark
+Activation = EndFrame
+800AB92A 01C8
+800AB92C 01C8
+
+[Infinite & Max Mana]
+Type = Gameshark
+Activation = EndFrame
+900AB930 01950195
+
+[Max Constitution]
+Type = Gameshark
+Activation = EndFrame
+300AB93F 0028
+
+[Max Intelligence]
+Type = Gameshark
+Activation = EndFrame
+300AB93E 0028
+
+[Max Mystic Ability]
+Type = Gameshark
+Activation = EndFrame
+300AB940 0028
+
+[Max Strength]
+Type = Gameshark
+Activation = EndFrame
+300AB93D 0028
+

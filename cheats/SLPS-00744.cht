@@ -1,0 +1,17 @@
+; CHTDB: ; [ Recipro Heat 5000 (Jpn) (1997) (Xing) {SLPS-00744} <rcheat5k> ]
+
+[P1 Always First]
+Type = Gameshark
+Activation = EndFrame
+801E8534 0001
+
+[P2 Always First]
+Type = Gameshark
+Activation = EndFrame
+801E8664 0001
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+801DDBE8 2800
+

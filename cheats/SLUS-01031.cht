@@ -1,0 +1,87 @@
+; CHTDB: ; [ Blaster Master - Blasting Again (USA) (2001) (Crave Entertainment) {SLUS-01031} <bmaster> ]
+
+;Don't know if SLUS-01424 is a valid number but added it here
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+900F83A4 00100000
+
+[Infinite SP]
+Type = Gameshark
+Activation = EndFrame
+900F83B0 00020000
+
+[Infinite LP]
+Type = Gameshark
+Activation = EndFrame
+900F83E8 00100000
+
+[Infinite GP]
+Type = Gameshark
+Activation = EndFrame
+800F83F0 5000
+
+[Infinite HP (Alternate Version)]
+Type = Gameshark
+Activation = EndFrame
+D007A7A4 0170
+8007A7A6 2400
+
+[Infinite LP (Alternate Version)]
+Type = Gameshark
+Activation = EndFrame
+D003F3DC 01B4
+8003F3DE 2400
+
+[Infinite Blaster]
+Type = Gameshark
+Activation = EndFrame
+800F83B2 000F
+
+[Infinite Homing]
+Type = Gameshark
+Activation = EndFrame
+800F83B6 000F
+
+[Infinite Thunder]
+Type = Gameshark
+Activation = EndFrame
+800F83BE 000F
+
+[Infinite Field Guard]
+Type = Gameshark
+Activation = EndFrame
+800F83BA 000F
+
+[Sophia III Mode (Press 'X' at the Main Menu)]
+Type = Gameshark
+Activation = EndFrame
+90098CA8 00040003
+80098CB6 0003
+
+[Infinite Hover]
+Description = Turn off before a Boss battle, or the game will freeze during the battle
+Type = Gameshark
+Activation = EndFrame
+300F83AA 0010
+
+[Grasshopper Mode]
+Type = Gameshark
+Activation = EndFrame
+800F8330 04FF
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A70C5CB6 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A70C5CB6 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A70C5CB6 10000400
+

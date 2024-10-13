@@ -1,0 +1,99 @@
+; CHTDB: ; [ Konami Antiques - MSX Collection Vol.2 (Jpn) (1998) (Konami) {SLPM-86062 (VX121-J1)} <msxcol2> ]
+
+[Athletic Land\Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+3001E055 0039
+
+[Athletic Land\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+3001E050 0004
+
+[Magical Tree\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+3001E050 0006
+
+[Yie Ar Kung-Fu II - The Emperor Yie-Gah\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+3001E055 000A
+
+[Yie Ar Kung-Fu II - The Emperor Yie-Gah\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8001E100 2424
+
+[Yie Ar Kung-Fu II - The Emperor Yie-Gah\Invincibility only boss battles]
+Type = Gameshark
+Activation = EndFrame
+3001E29E 00FF
+
+[Knightmare\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+3001E060 000A
+
+[Super Cobra\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+3001E050 0006
+
+[Super Cobra\Infinite Fuel]
+Type = Gameshark
+Activation = EndFrame
+D01BEAC6 0049
+8001E51C 011F
+
+[Super Cobra\Invincibility]
+Type = Gameshark
+Activation = EndFrame
+8001E50E 0000
+
+[Twinbee\Completely Invincibility (shared)]
+Type = Gameshark
+Activation = EndFrame
+C01BEAC6 0053
+8001E078 0000
+3001E08D 0001
+3001E08E 0001
+00000000 FFFF
+
+[Twinbee\P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+D01BEAC6 0053
+3001E070 0099
+
+[Twinbee\P1 Invincibility]
+Description = You die if you take the black bell.
+Type = Gameshark
+Activation = EndFrame
+D01BEAC6 0053
+3001E097 00FF
+
+[Twinbee\P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+D01BEAC6 0053
+3001E073 0099
+
+[Twinbee\P2 Invincibility]
+Description = You die if you take the black bell.
+Type = Gameshark
+Activation = EndFrame
+D01BEAC6 0053
+3001E098 00FF
+
+[Gradius 2\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+3008FAE4 000A
+
+[Gradius 2\Invincibility]
+Type = Gameshark
+Activation = EndFrame
+D01BEAC6 0065
+3001E400 0001
+

@@ -1,0 +1,80 @@
+; CHTDB: ; [ Yuukyuu Gensoukyoku (Japan) {SLPS-00956} ]
+
+[Infinite Money (60000)]
+Type = Gameshark
+Activation = EndFrame
+800A08E4 EA60
+
+[Infinite Energy Players Character In Battle]
+Type = Gameshark
+Activation = EndFrame
+800F04C2 03E7
+
+[Infinite MP Players Character In Battle]
+Type = Gameshark
+Activation = EndFrame
+800F04C4 03E7
+
+[Infinite Energy Players Character In Menu]
+Type = Gameshark
+Activation = EndFrame
+800DD90A 03E7
+800DD90E 03E7
+
+[Infinite MP Players Character In Menu]
+Type = Gameshark
+Activation = EndFrame
+800DD90C 03E7
+800DD910 03E7
+
+[Second Character Infinite & Max HP]
+Type = Gameshark
+Activation = EndFrame
+800DD972 03E7
+800DD974 03E7
+
+[Second Character Infinite & Max MP]
+Type = Gameshark
+Activation = EndFrame
+800DD976 03E7
+800DD978 03E7
+
+[Third Character Infinite & Max HP]
+Type = Gameshark
+Activation = EndFrame
+800DD9DA 03E7
+800DD9DC 03E7
+
+[Third Character Infinite & Max MP]
+Type = Gameshark
+Activation = EndFrame
+800DD9DE 03E7
+800DD9E0 03E7
+
+[Fourth Character Infinite & Max HP]
+Type = Gameshark
+Activation = EndFrame
+800DD942 03E7
+800DD944 03E7
+
+[Fourth Character Infinite & Max MP]
+Type = Gameshark
+Activation = EndFrame
+800DD946 03E7
+800DD948 03E7
+
+[Max intimacy Second Charcter and hero]
+Type = Gameshark
+Activation = EndFrame
+800DD95E 005A
+
+[Max intimacy Third Charcter and hero]
+Type = Gameshark
+Activation = EndFrame
+800DD960 005A
+
+[Max intimacy Fourth Charcter and hero]
+Type = Gameshark
+Activation = EndFrame
+800DD962 005A
+

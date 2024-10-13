@@ -1,0 +1,43 @@
+; CHTDB: ; [ Mortal Kombat II (Japan) {SLPS-00444} ]
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800C9D24 00A1
+
+[After pressing the L1 button perfect Victory]
+Type = Gameshark
+Activation = EndFrame
+D00B5570 0020
+800C9EBC 0000
+
+[Slow Motion]
+Type = Gameshark
+Activation = EndFrame
+300B4B6C 000A
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800B5DC8 0007
+
+[Infinite Fatality Time]
+Type = Gameshark
+Activation = EndFrame
+800B6170 0041
+
+[P1 Can Use Secret/Boss Characters]
+Type = Gameshark
+Activation = EndFrame
+C00B5858 0013
+8002CADA 2400
+8002CAF6 2400
+8002CB06 2400
+8002CB16 2400
+8002CB26 2400
+
+[Enable Cheat Menus]
+Type = Gameshark
+Activation = EndFrame
+800B5A10 0001
+

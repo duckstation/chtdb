@@ -1,0 +1,29 @@
+; CHTDB: ; [ Side by Side Special (Japan) {SLPS-01175} ]
+
+[Always Place First]
+Type = Gameshark
+Activation = EndFrame
+800CBB32 0000
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80087F2C 08CB
+
+[Total Time is 0'00#00]
+Type = Gameshark
+Activation = EndFrame
+80088140 0000
+
+[Lap Time is 0'00#00]
+Type = Gameshark
+Activation = EndFrame
+8008803C 0000
+
+[Secret Cars]
+Type = Gameshark
+Activation = EndFrame
+80088130 0010
+80088130 0011
+80088130 0012
+

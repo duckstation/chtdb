@@ -1,0 +1,22 @@
+; CHTDB: ; [ Eikan ha Kimini 4 (Jpn) (1999) (Artdink) {SLPS-02173} <eikankm4> ]
+
+[10 million budget]
+Type = Gameshark
+Activation = EndFrame
+8001068C 9680
+3001068E 0098
+
+[Other items Grand]
+Type = Gameshark
+Activation = EndFrame
+80010686 0303
+80010688 7F7F
+3001068A 007F
+
+[Director status MAX]
+Type = Gameshark
+Activation = EndFrame
+30010015 0064
+80010016 6464
+80010018 6464
+

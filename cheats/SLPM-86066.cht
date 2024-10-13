@@ -1,0 +1,22 @@
+; CHTDB: ; [ Hai-Shin-2 (Jpn) (1998) (Squaresoft) {SLPM-86066} <haishin2> ]
+
+[Player has 99999 points]
+Type = Gameshark
+Activation = EndFrame
+901C71B0 0001869F
+
+[Up enemy has 0 points]
+Type = Gameshark
+Activation = EndFrame
+801C71B8 0000
+
+[Left enemy has 0 points]
+Type = Gameshark
+Activation = EndFrame
+801C71BC 0000
+
+[Right enemy has 0 points]
+Type = Gameshark
+Activation = EndFrame
+801C71B4 0000
+

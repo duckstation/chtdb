@@ -1,0 +1,627 @@
+; CHTDB: ; [ Runabout 2 (USA) (2000) (HOT-B USA) {SLUS-01135} <rnabout2> ]
+
+[No Damage Taken]
+Type = Gameshark
+Activation = EndFrame
+D00F6410 1021
+800F6416 2400
+
+[Max Cash]
+Type = Gameshark
+Activation = EndFrame
+90086A80 3B9AC9FF
+
+[All Cars Unlocked]
+Type = Gameshark
+Activation = EndFrame
+50001F0C 0000
+30041F8C 0001
+
+[Stop Countdown Timer]
+Type = Gameshark
+Activation = EndFrame
+D00EF224 FFF6
+800EF22A 2400
+
+[Stop Running Timer]
+Type = Gameshark
+Activation = EndFrame
+D00EF1B4 001B
+800EF1BE 2400
+
+[Infinite Fuel]
+Type = Gameshark
+Activation = EndFrame
+D00C8B1C 0000
+800C8B22 2400
+
+[Unlock Time Trial Mode]
+Type = Gameshark
+Activation = EndFrame
+30041C68 0001
+
+[Unlock All Missions]
+Type = Gameshark
+Activation = EndFrame
+50000D01 0000
+30041C91 00FF
+
+[Have All E-Mails]
+Type = Gameshark
+Activation = EndFrame
+50001501 0000
+30041CA0 0005
+
+[Unlock All Items]
+Type = Gameshark
+Activation = EndFrame
+50004601 0000
+30042217 0001
+
+[Unlock All Endings + Movies]
+Type = Gameshark
+Activation = EndFrame
+50001301 0000
+30041D0D 0005
+
+[Unlock 1500]
+Type = Gameshark
+Activation = EndFrame
+30041F8C 0001
+
+[Unlock A156]
+Type = Gameshark
+Activation = EndFrame
+30041F98 0001
+
+[Unlock Revu]
+Type = Gameshark
+Activation = EndFrame
+30041FA4 0001
+
+[Unlock Revu II]
+Type = Gameshark
+Activation = EndFrame
+30041FB0 0001
+
+[Unlock Scooter]
+Type = Gameshark
+Activation = EndFrame
+30041FBC 0001
+
+[Unlock Delivery]
+Type = Gameshark
+Activation = EndFrame
+30041FC8 0001
+
+[Unlock Roadster]
+Type = Gameshark
+Activation = EndFrame
+30041FD4 0001
+
+[Unlock Nsr]
+Type = Gameshark
+Activation = EndFrame
+30041FE0 0001
+
+[Unlock Bz-Van]
+Type = Gameshark
+Activation = EndFrame
+30041FEC 0001
+
+[Unlock Miur]
+Type = Gameshark
+Activation = EndFrame
+30041FF8 0001
+
+[Unlock Tractor]
+Type = Gameshark
+Activation = EndFrame
+30042004 0001
+
+[Unlock Tractor II]
+Type = Gameshark
+Activation = EndFrame
+30042010 0001
+
+[Unlock Fire Eng.]
+Type = Gameshark
+Activation = EndFrame
+3004201C 0001
+
+[Unlock Halli]
+Type = Gameshark
+Activation = EndFrame
+30042028 0001
+
+[Unlock Halli II]
+Type = Gameshark
+Activation = EndFrame
+30042034 0001
+
+[Unlock Y800]
+Type = Gameshark
+Activation = EndFrame
+30042040 0001
+
+[Unlock Y800-Gt1]
+Type = Gameshark
+Activation = EndFrame
+3004204C 0001
+
+[Unlock Ft500]
+Type = Gameshark
+Activation = EndFrame
+30042058 0001
+
+[Unlock Ft500 S]
+Type = Gameshark
+Activation = EndFrame
+30042064 0001
+
+[Unlock Corvy74]
+Type = Gameshark
+Activation = EndFrame
+30042070 0001
+
+[Unlock Cb427]
+Type = Gameshark
+Activation = EndFrame
+3004207C 0001
+
+[Unlock Fery250]
+Type = Gameshark
+Activation = EndFrame
+30042088 0001
+
+[Unlock Wrc]
+Type = Gameshark
+Activation = EndFrame
+30042094 0001
+
+[Unlock N390]
+Type = Gameshark
+Activation = EndFrame
+300420A0 0001
+
+[Unlock N390 Road]
+Type = Gameshark
+Activation = EndFrame
+300420AC 0001
+
+[Unlock Ranger]
+Type = Gameshark
+Activation = EndFrame
+300420B8 0001
+
+[Unlock Lunch Van]
+Type = Gameshark
+Activation = EndFrame
+300420C4 0001
+
+[Unlock Missile]
+Type = Gameshark
+Activation = EndFrame
+300420D0 0001
+
+[Unlock Dragster]
+Type = Gameshark
+Activation = EndFrame
+300420DC 0001
+
+[Unlock G-Tank]
+Type = Gameshark
+Activation = EndFrame
+300420E8 0001
+
+[Unlock Panda]
+Type = Gameshark
+Activation = EndFrame
+300420F4 0001
+
+[Unlock Mission 1]
+Type = Gameshark
+Activation = EndFrame
+30041C91 00FF
+
+[Unlock Mission 2]
+Type = Gameshark
+Activation = EndFrame
+30041C92 00FF
+
+[Unlock Mission 3]
+Type = Gameshark
+Activation = EndFrame
+30041C93 00FF
+
+[Unlock Mission 4]
+Type = Gameshark
+Activation = EndFrame
+30041C94 00FF
+
+[Unlock Mission 5]
+Type = Gameshark
+Activation = EndFrame
+30041C95 00FF
+
+[Unlock Mission 6]
+Type = Gameshark
+Activation = EndFrame
+30041C96 00FF
+
+[Unlock Mission 7]
+Type = Gameshark
+Activation = EndFrame
+30041C97 00FF
+
+[Unlock Mission 8]
+Type = Gameshark
+Activation = EndFrame
+30041C98 00FF
+
+[Unlock Mission 9]
+Type = Gameshark
+Activation = EndFrame
+30041C99 00FF
+
+[Unlock Mission 10]
+Type = Gameshark
+Activation = EndFrame
+30041C9A 00FF
+
+[Unlock Mission 11]
+Type = Gameshark
+Activation = EndFrame
+30041C9B 00FF
+
+[Unlock Mission 12]
+Type = Gameshark
+Activation = EndFrame
+30041C9C 00FF
+
+[Unlock Mission 13]
+Type = Gameshark
+Activation = EndFrame
+30041C9D 00FF
+
+[Unlock Car Wax]
+Type = Gameshark
+Activation = EndFrame
+30042218 0001
+
+[Unlock Extra Gas Tank]
+Type = Gameshark
+Activation = EndFrame
+30042219 0001
+
+[Unlock Fire Extinguisher]
+Type = Gameshark
+Activation = EndFrame
+3004221A 0001
+
+[Unlock Nitro Tank]
+Type = Gameshark
+Activation = EndFrame
+3004221B 0001
+
+[Unlock Cat Charm]
+Type = Gameshark
+Activation = EndFrame
+3004221C 0001
+
+[Unlock Protective Boots]
+Type = Gameshark
+Activation = EndFrame
+3004221E 0001
+
+[Unlock Rocket Glove]
+Type = Gameshark
+Activation = EndFrame
+30042226 0001
+
+[Unlock Self Destruct]
+Type = Gameshark
+Activation = EndFrame
+30042227 0001
+
+[Unlock Drink Holder-A]
+Type = Gameshark
+Activation = EndFrame
+30042228 0001
+
+[Unlock Drink Holder-B]
+Type = Gameshark
+Activation = EndFrame
+30042229 0001
+
+[Unlock Drink Holder-C]
+Type = Gameshark
+Activation = EndFrame
+3004222A 0001
+
+[Unlock Reading Light-A]
+Type = Gameshark
+Activation = EndFrame
+3004222B 0001
+
+[Unlock Reading Light-B]
+Type = Gameshark
+Activation = EndFrame
+3004222C 0001
+
+[Unlock Tissue Holder]
+Type = Gameshark
+Activation = EndFrame
+3004222D 0001
+
+[Unlock Cow-Like Holder]
+Type = Gameshark
+Activation = EndFrame
+3004222E 0001
+
+[Unlock Rain Guard-A]
+Type = Gameshark
+Activation = EndFrame
+3004222F 0001
+
+[Unlock Rain Guard-B]
+Type = Gameshark
+Activation = EndFrame
+30042230 0001
+
+[Unlock Coin Holder-A]
+Type = Gameshark
+Activation = EndFrame
+30042231 0001
+
+[Unlock Coin Holder-B]
+Type = Gameshark
+Activation = EndFrame
+30042232 0001
+
+[Unlock Hawaiian Lei]
+Type = Gameshark
+Activation = EndFrame
+30042236 0001
+
+[Unlock Disco Ball Light]
+Type = Gameshark
+Activation = EndFrame
+30042237 0001
+
+[Unlock Planet Light]
+Type = Gameshark
+Activation = EndFrame
+30042238 0001
+
+[Unlock Dream Catcher-A]
+Type = Gameshark
+Activation = EndFrame
+30042239 0001
+
+[Unlock Dream Catcher-B]
+Type = Gameshark
+Activation = EndFrame
+3004223A 0001
+
+[Unlock Vanilla Scent]
+Type = Gameshark
+Activation = EndFrame
+3004223B 0001
+
+[Unlock Berry Scent]
+Type = Gameshark
+Activation = EndFrame
+3004223C 0001
+
+[Unlock Chocolate Scent]
+Type = Gameshark
+Activation = EndFrame
+3004223D 0001
+
+[Unlock Snake Trash Can]
+Type = Gameshark
+Activation = EndFrame
+3004223E 0001
+
+[Unlock Hazard Trash Can]
+Type = Gameshark
+Activation = EndFrame
+3004223F 0001
+
+[Unlock Walkie-Talkie-M]
+Type = Gameshark
+Activation = EndFrame
+30042240 0001
+
+[Unlock Walkie-Talkie-C]
+Type = Gameshark
+Activation = EndFrame
+30042241 0001
+
+[Unlock Mini Palm Tree-A]
+Type = Gameshark
+Activation = EndFrame
+30042242 0001
+
+[Unlock Mini Palm Tree-B]
+Type = Gameshark
+Activation = EndFrame
+30042243 0001
+
+[Unlock Glass Coating-A]
+Type = Gameshark
+Activation = EndFrame
+30042244 0001
+
+[Unlock Glass Coating-B]
+Type = Gameshark
+Activation = EndFrame
+30042245 0001
+
+[Unlock Speed Flasher-A]
+Type = Gameshark
+Activation = EndFrame
+30042246 0001
+
+[Unlock Speed Flasher-B]
+Type = Gameshark
+Activation = EndFrame
+30042247 0001
+
+[Unlock Remote Strater]
+Type = Gameshark
+Activation = EndFrame
+30042248 0001
+
+[Unlock Vanity Mirror-A]
+Type = Gameshark
+Activation = EndFrame
+30042249 0001
+
+[Unlock Vanity Mirror-B]
+Type = Gameshark
+Activation = EndFrame
+3004224A 0001
+
+[Unlock Steering Wheel]
+Type = Gameshark
+Activation = EndFrame
+3004224B 0001
+
+[Unlock Jumper Cables]
+Type = Gameshark
+Activation = EndFrame
+3004224C 0001
+
+[Unlock Emergency Tool]
+Type = Gameshark
+Activation = EndFrame
+3004224D 0001
+
+[Unlock Feather Duster-A]
+Type = Gameshark
+Activation = EndFrame
+3004224E 0001
+
+[Unlock Feather Duster-B]
+Type = Gameshark
+Activation = EndFrame
+3004224F 0001
+
+[Unlock Seat Covers-A]
+Type = Gameshark
+Activation = EndFrame
+30042250 0001
+
+[Unlock Seat Covers-B]
+Type = Gameshark
+Activation = EndFrame
+30042251 0001
+
+[Unlock Clear Ending W/ Lisa]
+Type = Gameshark
+Activation = EndFrame
+30041D0D 0005
+
+[Unlock Clear Ending Alone]
+Type = Gameshark
+Activation = EndFrame
+30041D0E 0005
+
+[Unlock Failure Ending 1]
+Type = Gameshark
+Activation = EndFrame
+30041D0F 0005
+
+[Unlock Failure Ending 2]
+Type = Gameshark
+Activation = EndFrame
+30041D10 0005
+
+[Unlock Failure Ending 3]
+Type = Gameshark
+Activation = EndFrame
+30041D11 0005
+
+[Unlock Power Up Missile]
+Type = Gameshark
+Activation = EndFrame
+30041D12 0005
+
+[Unlock Power Up G.Tank]
+Type = Gameshark
+Activation = EndFrame
+30041D13 0005
+
+[Unlock Scoot + Lisa]
+Type = Gameshark
+Activation = EndFrame
+30041D14 0005
+
+[Unlock Del. + Lisa]
+Type = Gameshark
+Activation = EndFrame
+30041D15 0005
+
+[Unlock Halli + Lisa]
+Type = Gameshark
+Activation = EndFrame
+30041D16 0005
+
+[Unlock Panda + Lisa]
+Type = Gameshark
+Activation = EndFrame
+30041D17 0005
+
+[Unlock Erasable Panel]
+Type = Gameshark
+Activation = EndFrame
+30041D18 0005
+
+[Unlock Changable Bgm]
+Type = Gameshark
+Activation = EndFrame
+30041D19 0005
+
+[Unlock Adjustable Viewpoint]
+Type = Gameshark
+Activation = EndFrame
+30041D1A 0005
+
+[Unlock Movie 1]
+Type = Gameshark
+Activation = EndFrame
+30041D1B 0005
+
+[Unlock Movie 2]
+Type = Gameshark
+Activation = EndFrame
+30041D1C 0005
+
+[Unlock Movie 3]
+Type = Gameshark
+Activation = EndFrame
+30041D1D 0005
+
+[Unlock Production Staff 1]
+Type = Gameshark
+Activation = EndFrame
+30041D1E 0005
+
+[Unlock Production Staff 2]
+Type = Gameshark
+Activation = EndFrame
+30041D1F 0005
+
+[Widescreen 16-9 (In-Game)]
+Type = Gameshark
+Activation = EndFrame
+800475A8 1555
+80095998 0C00
+
+[Widescreen 16-9 (Alt)]
+Type = Gameshark
+Activation = EndFrame
+8008F5C8 0C00
+

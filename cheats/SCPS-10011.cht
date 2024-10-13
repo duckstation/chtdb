@@ -1,0 +1,32 @@
+; CHTDB: ; [ Sengoku Cyber: Fujimaru Jigokuhen (Japan) {SCPS-10011} ]
+
+[Infinite Energy Main character]
+Type = Gameshark
+Activation = EndFrame
+800DFC84 0063
+
+[Infinite Energy girl]
+Type = Gameshark
+Activation = EndFrame
+800DFCA4 0063
+
+[Infinite Energy big fat character]
+Type = Gameshark
+Activation = EndFrame
+800DFC94 0063
+
+[Infinite Energy long black hair character]
+Type = Gameshark
+Activation = EndFrame
+800DFCB4 0063
+
+[Infinite Energy bold character]
+Type = Gameshark
+Activation = EndFrame
+800DFCC4 0063
+
+[Stage]
+Type = Gameshark
+Activation = EndFrame
+300235E8 001E
+

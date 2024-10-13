@@ -1,0 +1,62 @@
+; CHTDB: ; [ Kagerou: Kokumeikan Shinshou (Japan) {SLPS-01421} ]
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800E6B52 0190
+
+[Max Ark]
+Type = Gameshark
+Activation = EndFrame
+900E6B60 068E6FFF
+
+[Activate always possible trap]
+Type = Gameshark
+Activation = EndFrame
+A712835A 14401400
+
+[All trap already developed]
+Type = Gameshark
+Activation = EndFrame
+50001B02 0000
+800E6C98 4040
+300E6CCE 0040
+
+[No Wait Time for All Traps]
+Type = Gameshark
+Activation = EndFrame
+50001B7C 0000
+800E4EF2 0000
+
+[OK Status]
+Type = Gameshark
+Activation = EndFrame
+800E6AE4 0000
+
+[Perfect Stage Results]
+Type = Gameshark
+Activation = EndFrame
+800E72C8 270F
+900E72D0 270F270F
+800E72D4 03E7
+300E72D6 0063
+300E7391 0000
+800E7392 0000
+
+[Press L1+L2 to Kill Left Enemy]
+Type = Gameshark
+Activation = EndFrame
+E00E4DE0 0005
+300DC221 0000
+
+[Press R1+R2 to Kill Right Enemy]
+Type = Gameshark
+Activation = EndFrame
+E00E4DE0 000A
+300DC2CD 0000
+
+[Story number 01-1A (Level 1 - 26) Selected Last]
+Type = Gameshark
+Activation = EndFrame
+300DA608 001A
+

@@ -1,0 +1,27 @@
+; CHTDB: ; [ Alone in the Dark - One-Eyed Jack's Revenge (USA) (1996) (Kokopeli Digital Studios) {SLUS-00239} <aitd2> ]
+
+[Infinite Energy Level 1]
+Type = Gameshark
+Activation = EndFrame
+801E65BC 0032
+
+[Infinite Revolver Ammo]
+Type = Gameshark
+Activation = EndFrame
+80110AD6 0006
+
+[Infinite Thompson Ammo]
+Type = Gameshark
+Activation = EndFrame
+80110AD8 001E
+
+[Infinite Thompson Ammo (Alt)]
+Type = Gameshark
+Activation = EndFrame
+801EA39C 03E7
+
+[Infinite Pistol Ammo (Alt)]
+Type = Gameshark
+Activation = EndFrame
+801EA3AE 03E7
+

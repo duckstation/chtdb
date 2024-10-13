@@ -1,0 +1,45 @@
+; CHTDB: ; [ Kula World (Europe) {SCES-01000} ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800A2E90 12A0
+800A52C8 12A0
+
+[Infinite Points = Infinite Retries]
+Type = Gameshark
+Activation = EndFrame
+800A4F74 FFFF
+800A59A0 FFFF
+
+[Stop Timer]
+Type = Gameshark
+Activation = EndFrame
+800A52C8 0BD4
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800B9DEA 0000
+
+[Press Select To Finish Level]
+Type = Gameshark
+Activation = EndFrame
+D00A50BC 0001
+800A47A8 0001
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A70A2E70 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A70A2E70 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A70A2E70 10000400
+

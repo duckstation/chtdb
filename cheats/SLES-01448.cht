@@ -1,0 +1,27 @@
+; CHTDB: ; [ Knockout Kings 99 (Europe) {SLES-01448} ]
+
+[P1 Invincibility]
+Type = Gameshark
+Activation = EndFrame
+801DA626 0050
+
+[P1 No Energy]
+Type = Gameshark
+Activation = EndFrame
+801DA626 0000
+
+[P1 Maximum Power]
+Type = Gameshark
+Activation = EndFrame
+801DA654 1388
+
+[P2 Invincibility]
+Type = Gameshark
+Activation = EndFrame
+801DAFDA 0050
+
+[P2 No Energy]
+Type = Gameshark
+Activation = EndFrame
+801DAFDA 0000
+

@@ -1,0 +1,46 @@
+; CHTDB: ; [ Um Jammer Lammy (Europe) {SCES-01753} ]
+
+[Enable All Stages]
+Type = Gameshark
+Activation = EndFrame
+301A5061 0001
+50000302 0000
+801A5062 3F3F
+
+[P1 Always Rockin Cool]
+Type = Gameshark
+Activation = EndFrame
+30071EF8 0000
+
+[P2 Always Rockin Cool]
+Type = Gameshark
+Activation = EndFrame
+30071F02 0000
+
+[All Effect Possession (Press Select)]
+Type = Gameshark
+Activation = EndFrame
+301A504F 003F
+
+[Have all crowns]
+Type = Gameshark
+Activation = EndFrame
+301A5051 0001
+50000302 0000
+801A5052 3F3F
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A71C4290 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A71C4290 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A71C4290 10000400
+

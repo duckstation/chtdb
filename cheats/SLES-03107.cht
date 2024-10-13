@@ -1,0 +1,138 @@
+; CHTDB: ; [ Chaos Break (Europe) {SLES-03107} ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+D00E524E 012C
+800E5250 012C
+D00E524E 015E
+800E5250 015E
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800E524E 012C
+
+[Infinite Ammo - Rick]
+Type = Gameshark
+Activation = EndFrame
+800E5278 0032
+
+[Have in inventory Data disk]
+Type = Gameshark
+Activation = EndFrame
+300E5296 0001
+
+[Have in inventory Resistance sample]
+Type = Gameshark
+Activation = EndFrame
+300E529B 0001
+
+[Have in inventory Repair kit]
+Type = Gameshark
+Activation = EndFrame
+300E529D 0001
+
+[Have in inventory Electromagnetic key (canteen)]
+Type = Gameshark
+Activation = EndFrame
+300E529F 0001
+
+[Have in inventory Writing paper]
+Type = Gameshark
+Activation = EndFrame
+300E52A3 0001
+
+[Have in inventory System disk]
+Type = Gameshark
+Activation = EndFrame
+300E52A7 0001
+
+[Have in inventory Mayers notebook]
+Type = Gameshark
+Activation = EndFrame
+300E52A9 0001
+
+[Have in inventory Code chart]
+Type = Gameshark
+Activation = EndFrame
+300E52AA 0001
+
+[Have in inventory Lifeform sample]
+Type = Gameshark
+Activation = EndFrame
+300E52AB 0001
+
+[Have in inventory Photograph]
+Type = Gameshark
+Activation = EndFrame
+300E52AC 0001
+
+[Have in inventory Electromagnetic key (constant temp room)]
+Type = Gameshark
+Activation = EndFrame
+300E52AD 0001
+
+[Have in inventory Electromagnetic key (research lab)]
+Type = Gameshark
+Activation = EndFrame
+300E52AE 0001
+
+[Have in inventory Electromagnetic key (breeding room)]
+Type = Gameshark
+Activation = EndFrame
+300E52AF 0001
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+900E5274 00079F00
+800E5278 01F0
+50000602 0000
+800E527A 0CC3
+
+[All Weapons]
+Type = Gameshark
+Activation = EndFrame
+50000601 0001
+300E5289 0003
+
+[All Items .the game won't display all the items, but they are there.]
+Type = Gameshark
+Activation = EndFrame
+50000302 0000
+800E5292 6363
+300E5299 0063
+800E529A 6363
+300E529D 0063
+300E529F 0063
+800E52A2 6363
+300E52A4 0063
+50000502 0000
+800E52A6 6363
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A70F2B80 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A70F2B80 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A70F2B80 10000400
+
+[Widescreen 16-9 (Optional Extra)]
+Type = Gameshark
+Activation = EndFrame
+A70F2BA0 10000C00
+
+[Dither Off]
+Type = Gameshark
+Activation = EndFrame
+A70905D4 02000000
+

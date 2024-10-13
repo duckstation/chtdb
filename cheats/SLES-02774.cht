@@ -1,0 +1,42 @@
+; CHTDB: ; [ BattleTanx: Global Assault (Europe) {SLES-02774} ]
+
+[Infinite Energy MIA tank level 1]
+Type = Gameshark
+Activation = EndFrame
+800DCF14 00A2
+
+[Infinite Ammo normal weapon MIA tank level 1]
+Type = Gameshark
+Activation = EndFrame
+800DCF32 0064
+
+[Infinite Ammo special weapon MIA tank level 1]
+Type = Gameshark
+Activation = EndFrame
+800DCF34 0064
+
+[Infinite Tank bucks]
+Type = Gameshark
+Activation = EndFrame
+800E2788 0063
+
+[Infinite Ammo normal weapon motorcycle]
+Type = Gameshark
+Activation = EndFrame
+800DEB2A 03E7
+
+[Infinite Energy motorcycle]
+Type = Gameshark
+Activation = EndFrame
+800DEB0C 0026
+
+[Infinite Special weapon motorcycle]
+Type = Gameshark
+Activation = EndFrame
+800DEB3C 0063
+
+[Infinite Energy Inferno tank]
+Type = Gameshark
+Activation = EndFrame
+800DDA44 005A
+

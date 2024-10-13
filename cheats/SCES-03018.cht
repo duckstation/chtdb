@@ -1,0 +1,22 @@
+; CHTDB: ; [ Disney El Emperador y sus Locuras (Spain) (Platinum) {SCES-03018} ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8006FF44 0040
+
+[Infinite Run]
+Type = Gameshark
+Activation = EndFrame
+80072FC5 05A0
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80076760 5000
+
+[Unlock All Levels]
+Type = Gameshark
+Activation = EndFrame
+80076908 0808
+

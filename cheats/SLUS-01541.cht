@@ -1,0 +1,108 @@
+; CHTDB: ; [ Final Fantasy Origins (USA, v1.0) (2003) (Square Enix U.S.A.) {SLUS-01541} <fforiga> ]
+
+[FINAL FANTASY I\Infinite Health Character 1]
+Type = Gameshark
+Activation = EndFrame
+800BDE64 03E7
+
+[FINAL FANTASY I\Max HP Character 1]
+Type = Gameshark
+Activation = EndFrame
+800BDE66 03E7
+
+[FINAL FANTASY I\Infinite HP Character 2]
+Type = Gameshark
+Activation = EndFrame
+800BDEB4 03E7
+
+[FINAL FANTASY I\Max HP Character 2]
+Type = Gameshark
+Activation = EndFrame
+800BDEB6 03E7
+
+[FINAL FANTASY I\Infinite HP Character 3]
+Type = Gameshark
+Activation = EndFrame
+800BDF04 03E7
+
+[FINAL FANTASY I\Max HP Character 3]
+Type = Gameshark
+Activation = EndFrame
+800BDF06 03E7
+
+[FINAL FANTASY I\Infinite HP Character 4]
+Type = Gameshark
+Activation = EndFrame
+800BDF54 03E7
+
+[FINAL FANTASY I\Max HP Character 4]
+Type = Gameshark
+Activation = EndFrame
+800BDF56 03E7
+
+[FINAL FANTASY I\Infinite HP in Battle Character 1]
+Type = Gameshark
+Activation = EndFrame
+801F6ACA 270F
+
+[FINAL FANTASY I\Infinite HP in Battle Character 2]
+Type = Gameshark
+Activation = EndFrame
+801F6C96 270F
+
+[FINAL FANTASY I\Infinite HP in Battle Character 3]
+Type = Gameshark
+Activation = EndFrame
+801F6E62 270F
+
+[FINAL FANTASY I\Infinite HP in Battle Character 4]
+Type = Gameshark
+Activation = EndFrame
+801F702E 270F
+
+[FINAL FANTASY I\Max Gil]
+Type = Gameshark
+Activation = EndFrame
+900BE070 000F423F
+
+[FINAL FANTASY I\No Random Battles]
+Type = Gameshark
+Activation = EndFrame
+D00B8A24 005A
+800B8A26 1000
+
+[FINAL FANTASY II\Infinite Gil]
+Type = Gameshark
+Activation = EndFrame
+800AF7C4 FFFF
+
+[FINAL FANTASY II\P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801F6ACA 03E7
+
+[FINAL FANTASY II\P2 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801F6C96 03E7
+
+[FINAL FANTASY II\P3 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801F6E62 03E7
+
+[FINAL FANTASY II\P1 Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+801F6ACC 0063
+
+[FINAL FANTASY II\P2 Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+801F6C98 0063
+
+[FINAL FANTASY II\P3 Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+801F6E64 0063
+

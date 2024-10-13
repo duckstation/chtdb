@@ -1,0 +1,17 @@
+; CHTDB: ; [ 10101 - "Will" the Starship (Jpn) (1997) (Sound Technology Japan) {SLPS-01054} <10101wil> ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8016C34C 270F
+
+[Infinite VP (99999)]
+Type = Gameshark
+Activation = EndFrame
+9016C358 0001869F
+
+[Infinite Fuel While Traveling (99999)]
+Type = Gameshark
+Activation = EndFrame
+9016C348 0001869F
+

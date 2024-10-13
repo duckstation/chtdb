@@ -1,0 +1,138 @@
+; CHTDB: ; [ Epidemic (Europe) {SCES-00393} ]
+
+[Infinite Life Energy]
+Type = Gameshark
+Activation = EndFrame
+800A65FA 03E8
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800A65FC 00C8
+
+[Infinite Shields]
+Type = Gameshark
+Activation = EndFrame
+800A65FE 03E8
+
+[Infinite Mg Ammo]
+Type = Gameshark
+Activation = EndFrame
+800A664E 01F4
+
+[Infinite Rockets]
+Type = Gameshark
+Activation = EndFrame
+800A6654 0028
+
+[Infinite Laser Energy]
+Type = Gameshark
+Activation = EndFrame
+800A663C 03E7
+
+[Infinite Splasher Arrows]
+Type = Gameshark
+Activation = EndFrame
+800A6656 03E7
+
+[Infinite Napalm]
+Type = Gameshark
+Activation = EndFrame
+800A6658 03E7
+
+[Infinite Erosion Missiles]
+Type = Gameshark
+Activation = EndFrame
+800A665A 03E7
+
+[Infinite Brain Destructors]
+Type = Gameshark
+Activation = EndFrame
+800A665C 03E7
+
+[Infinite Floating Mines]
+Type = Gameshark
+Activation = EndFrame
+800A665E 03E7
+
+[All Items 1 (Press L2+Select)]
+Type = Gameshark
+Activation = EndFrame
+D00B0100 0101
+800A661A 0000
+D00B0100 0101
+800A661C 0002
+D00B0100 0101
+800A661E 0003
+D00B0100 0101
+800A6620 0004
+D00B0100 0101
+800A6622 0005
+D00B0100 0101
+800A6624 0006
+D00B0100 0101
+800A6626 0007
+D00B0100 0101
+800A6628 0008
+
+[All Items 2 (Press R2+Select)]
+Type = Gameshark
+Activation = EndFrame
+D00B0100 0102
+800A661A 0009
+D00B0100 0102
+800A661C 000B
+D00B0100 0102
+800A661E 000C
+D00B0100 0102
+800A6620 000D
+D00B0100 0102
+800A6622 000E
+D00B0100 0102
+800A6624 000F
+D00B0100 0102
+800A6626 0010
+D00B0100 0102
+800A6628 0011
+D00B0100 0102
+800A662A 001B
+
+[All Items 3 (Press L1+Select)]
+Type = Gameshark
+Activation = EndFrame
+D00B0100 0104
+800A661A 0013
+D00B0100 0104
+800A661C 0014
+D00B0100 0104
+800A661E 0015
+D00B0100 0104
+800A6620 0016
+D00B0100 0104
+800A6622 0017
+D00B0100 0104
+800A6624 0018
+D00B0100 0104
+800A6626 0019
+D00B0100 0104
+800A6628 001A
+D00B0100 0104
+800A662A 0001
+
+[Walk through Walls]
+Type = Gameshark
+Activation = EndFrame
+A703019E 10621000
+A70301E2 10621000
+A7030112 10621000
+A703014E 10621000
+A7030252 10621000
+A70302E6 10621000
+A7030406 10621000
+A7030366 10481000
+
+[Kill All Enemies Automatically]
+Type = Gameshark
+Activation = EndFrame
+A703750A 10401400
+

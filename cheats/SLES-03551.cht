@@ -1,0 +1,13 @@
+; CHTDB: ; [ The Weakest Link (Europe) {SLES-03551} ]
+
+[Have 2450 credits banked (Press Select & R1)]
+Type = Gameshark
+Activation = EndFrame
+D007A92C 0801
+800A4610 0992
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+8007A970 2316
+

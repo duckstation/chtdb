@@ -1,0 +1,423 @@
+; CHTDB: ; [ Syphon Filter (USA, v1.0) (1999) (989 Studios) {SCUS-94240} <syphonfa> ]
+
+[Infinite Ammo On Pickup All]
+Type = Gameshark
+Activation = EndFrame
+800467C6 2400
+
+[Infinite Timer All Levels]
+Type = Gameshark
+Activation = EndFrame
+80116690 FFFF
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+80115FEC 0000
+80116820 FFBC
+
+[Have All Levels In Level Select Screen]
+Type = Gameshark
+Activation = EndFrame
+801462AA 0B14
+
+[Georgia Street\Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+801A8BDA 0258
+
+[Georgia Street\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801A8BDC 0096
+
+[Destroyed Subway\Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+801A2EE2 0258
+
+[Destroyed Subway\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801A2EE4 0096
+
+[Main Subway Line\Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+801C6CCA 0258
+
+[Main Subway Line\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801C6CCC 0096
+
+[Washington Park\Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+801AA442 0258
+
+[Washington Park\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801AA444 0096
+
+[Freedom Memorial\Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+801C0496 0258
+
+[Freedom Memorial\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801C0498 0096
+
+[Expo Center Reception\Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+801AC26E 0258
+
+[Expo Center Reception\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801AC270 0096
+
+[Expo Center Dinorama\Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+801A9ABA 0258
+
+[Expo Center Dinorama\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801A9ABC 0096
+
+[Rhoemer's Base\Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+801A9292 0258
+
+[Rhoemer's Base\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801A9294 0096
+
+[Base Bunker\Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+801B381E 0258
+
+[Base Bunker\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801B3820 0096
+
+[Base Tower\Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+801C5A5A 0258
+
+[Base Tower\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801C5A5C 0096
+
+[Base Escape\Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+801AE44E 0258
+
+[Base Escape\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801AE450 0096
+
+[Rhoemer's Stronghold\Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+801AD592 0258
+
+[Rhoemer's Stronghold\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801AD594 0096
+
+[Stronghold Lower Level\Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+801AB066 0258
+
+[Stronghold Lower Level\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801AB068 0096
+
+[Stronghold Catacombs\Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+801ACE96 0258
+
+[Stronghold Catacombs\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801ACE98 0096
+
+[Pharcom Warehouses\Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+801AACF2 0258
+
+[Pharcom Warehouses\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801AACF4 0096
+
+[Pharcom Elite Guards\Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+801A4566 0258
+
+[Pharcom Elite Guards\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801A4568 0096
+
+[Warehouse 76\Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+801B725E 0258
+
+[Warehouse 76\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801B7260 0096
+
+[Silo Access Tunnels\Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+801A2092 0258
+
+[Silo Access Tunnels\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801A2094 0096
+
+[Tunnel Blackout\Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+801B0A62 0258
+
+[Tunnel Blackout\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801B0A64 0096
+
+[Missile Silo\Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+801AD5D2 0258
+
+[Missile Silo\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801AD5D4 0096
+
+[Missile Silo\Stop Countdown Timer]
+Type = Gameshark
+Activation = EndFrame
+80116BAC 008A
+
+[More Misc.\Maxed Ammo Reload Silenced 9mm]
+Type = Gameshark
+Activation = EndFrame
+8012F0B4 03E7
+
+[More Misc.\Infinite Ammo Silenced 9mm]
+Type = Gameshark
+Activation = EndFrame
+8012F0B6 0063
+
+[More Misc.\Maxed Ammo Reload .45]
+Type = Gameshark
+Activation = EndFrame
+8012F0C0 03E7
+
+[More Misc.\Infinite Ammo .45]
+Type = Gameshark
+Activation = EndFrame
+8012F0C2 0063
+
+[More Misc.\Maxed Ammo Reload G-18]
+Type = Gameshark
+Activation = EndFrame
+8012F0C4 03E7
+
+[More Misc.\Infinite Ammo G-18]
+Type = Gameshark
+Activation = EndFrame
+8012F0C6 0063
+
+[More Misc.\Maxed Ammo Reload Combat Shotgun]
+Type = Gameshark
+Activation = EndFrame
+8012F0C8 03E7
+
+[More Misc.\Infinite Ammo Combat Shotgun]
+Type = Gameshark
+Activation = EndFrame
+8012F0CA 0063
+
+[More Misc.\Maxed Ammo Reload Shotgun]
+Type = Gameshark
+Activation = EndFrame
+8012F0CC 03E7
+
+[More Misc.\Infinite Ammo Shotgun]
+Type = Gameshark
+Activation = EndFrame
+8012F0CE 0063
+
+[More Misc.\Maxed Ammo Reload Pk-102]
+Type = Gameshark
+Activation = EndFrame
+8012F0D0 03E7
+
+[More Misc.\Infinite Ammo Pk-102]
+Type = Gameshark
+Activation = EndFrame
+8012F0D2 0063
+
+[More Misc.\Maxed Ammo Reload M-16]
+Type = Gameshark
+Activation = EndFrame
+8012F0D4 03E7
+
+[More Misc.\Infinite Ammo M-16]
+Type = Gameshark
+Activation = EndFrame
+8012F0D6 0063
+
+[More Misc.\Maxed Ammo Reload Eiz-2]
+Type = Gameshark
+Activation = EndFrame
+8012F0D8 03E7
+
+[More Misc.\Infinite Ammo Eiz-2]
+Type = Gameshark
+Activation = EndFrame
+8012F0DA 0063
+
+[More Misc.\Maxed Ammo Reload Hk-5]
+Type = Gameshark
+Activation = EndFrame
+8012F0DC 03E7
+
+[More Misc.\Infinite Ammo Hk-5]
+Type = Gameshark
+Activation = EndFrame
+8012F0DE 0063
+
+[More Misc.\Maxed Ammo Reload Nightvision Rifle]
+Type = Gameshark
+Activation = EndFrame
+8012F0E0 03E7
+
+[More Misc.\Infinite Ammo Nightvision Rifle]
+Type = Gameshark
+Activation = EndFrame
+8012F0E2 0063
+
+[More Misc.\Maxed Ammo Reload Sniper Rifle]
+Type = Gameshark
+Activation = EndFrame
+8012F0E4 03E7
+
+[More Misc.\Infinite Ammo Sniper Rifle]
+Type = Gameshark
+Activation = EndFrame
+8012F0E6 0063
+
+[More Misc.\Maxed Ammo Reload M-79]
+Type = Gameshark
+Activation = EndFrame
+8012F0F0 03E7
+
+[More Misc.\Infinite Ammo M-79]
+Type = Gameshark
+Activation = EndFrame
+8012F0F2 0063
+
+[More Misc.\Maxed Ammo Reload K3G4]
+Type = Gameshark
+Activation = EndFrame
+8012F0F4 03E7
+
+[More Misc.\Infinite Ammo K3G4]
+Type = Gameshark
+Activation = EndFrame
+8012F0F6 0063
+
+[More Misc.\Maxed Ammo Reload Grenade]
+Type = Gameshark
+Activation = EndFrame
+8012F0FC 03E7
+
+[More Misc.\Infinite Ammo Grenade]
+Type = Gameshark
+Activation = EndFrame
+8012F0FE 0063
+
+[More Misc.\Maxed Ammo Reload Gas Grenade]
+Type = Gameshark
+Activation = EndFrame
+8012F100 03E7
+
+[More Misc.\Infinite Ammo Gas Grenade]
+Type = Gameshark
+Activation = EndFrame
+8012F102 0063
+
+[More Misc.\Immune To Most Explosions/Fire]
+Type = Gameshark
+Activation = EndFrame
+90069FB0 2401FFFF
+90069FD0 10290008
+
+[More Misc.\Immune To Most Bullets]
+Type = Gameshark
+Activation = EndFrame
+90068974 24010000
+90068B94 14200016
+
+[More Misc.\1 Shot Kills Enemy]
+Type = Gameshark
+Activation = EndFrame
+301168D1 0001
+
+[More Misc.\Hard Mode (Press x When Mission Starts)]
+Type = Gameshark
+Activation = EndFrame
+301168D0 0001
+
+[More Misc.\Stop Countdown Timer (Missile Silo Level)]
+Type = Gameshark
+Activation = EndFrame
+80116690 0BB8
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A712D700 10000C00
+A712D9DC 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A712D700 10000900
+A712D9DC 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A712D700 10000400
+A712D9DC 10000400
+

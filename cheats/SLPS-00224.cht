@@ -1,0 +1,12 @@
+; CHTDB: ; [ Hard Rock Cab (Japan) {SLPS-00224} ]
+
+[Full Shield]
+Type = Gameshark
+Activation = EndFrame
+800A9F0C 0199
+
+[Have 9999 money]
+Type = Gameshark
+Activation = EndFrame
+800A9DE4 270F
+

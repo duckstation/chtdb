@@ -1,0 +1,250 @@
+; CHTDB: ; [ World's Scariest Police Chases (Europe) {SLES-03425} ]
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+8006B45C 2400
+
+[Timer Stopped]
+Type = Gameshark
+Activation = EndFrame
+800465D4 2400
+
+[Unlocked All missions pursuit mode]
+Type = Gameshark
+Activation = EndFrame
+300FC0C6 0014
+
+[Unlock All missions single mission mode]
+Type = Gameshark
+Activation = EndFrame
+300FC34E 0014
+
+[Unlock All locations free patrol mode]
+Type = Gameshark
+Activation = EndFrame
+800FC34C FFFF
+
+[Unlock All bonus items]
+Type = Gameshark
+Activation = EndFrame
+800FC350 FFFF
+
+[Unlock All weapons]
+Type = Gameshark
+Activation = EndFrame
+800FC352 FFFF
+
+[Mission 2 - Police Academy Basic Pursuit Health bar at max]
+Type = Gameshark
+Activation = EndFrame
+8016C9FE 0000
+
+[Mission 2 - Police Academy Basic Pursuit Stop chased car (Press L1 Pad 2)]
+Type = Gameshark
+Activation = EndFrame
+D00EE516 FBFF
+3016CB7E 00FF
+
+[Mission 3 - Police Academy Advanced Pursuit Health bar at max]
+Type = Gameshark
+Activation = EndFrame
+3016CB7E 0000
+
+[Mission 3 - Police Academy Advanced Pursuit Stop chased car Wait until the evidence has been thrown out of the chased car before pushing buttons.(Press L2 Pad 2)]
+Type = Gameshark
+Activation = EndFrame
+D00EE516 FEFF
+3016D362 00FF
+
+[Mission 4 - Police Academy Expert Pursuit Health bar at max]
+Type = Gameshark
+Activation = EndFrame
+80175346 0000
+
+[Mission 5 - Dui Dummy Health bar at max]
+Type = Gameshark
+Activation = EndFrame
+D00FC508 0007
+8017050A 0000
+
+[Mission 5 - Dui Dummy Health bar at max Stop chased car (Press R1 Pad 2)]
+Type = Gameshark
+Activation = EndFrame
+D00EE516 F7FF
+3017068A 00FF
+
+[Mission 6 - The Crazed Car Thief Health bar at max]
+Type = Gameshark
+Activation = EndFrame
+801721FE 0000
+
+[Mission 6 - The Crazed Car Thief Stop chased car (Press R2 Pad 2)]
+Type = Gameshark
+Activation = EndFrame
+D00EE516 FDFF
+3017237E 00FF
+
+[Mission 7 - Gangbanger Deathmatch Health bar at max]
+Type = Gameshark
+Activation = EndFrame
+801718DA 0000
+
+[Mission 7 - Gangbanger Deathmatch Stop chased car (Press Triangle Pad 2)]
+Type = Gameshark
+Activation = EndFrame
+D00EE516 EFFF
+30171A5A 00FE
+
+[Mission 8 - Bus Driver Gone Bad Health bar at max]
+Type = Gameshark
+Activation = EndFrame
+80172D5E 0000
+
+[Mission 8 - Bus Driver Gone Bad Health bar at max bus]
+Type = Gameshark
+Activation = EndFrame
+30172EDE 0000
+
+[Mission 8 - Bus Driver Gone Bad Mission will be ended successfully (Press Circle Pad 2)]
+Type = Gameshark
+Activation = EndFrame
+D00EE516 DFFF
+800F22C4 7F3D
+
+[Mission 9 - Drug Smuggling Scum Health bar at max]
+Type = Gameshark
+Activation = EndFrame
+8017409A 0000
+
+[Mission 9 - Drug Smuggling Scum Stop chased car (Press X Pad 2)]
+Type = Gameshark
+Activation = EndFrame
+D00EE516 BFFF
+30173F1A 00FF
+
+[Mission 10 - Race Against Death Health bar at max]
+Type = Gameshark
+Activation = EndFrame
+80172B3A 0000
+
+[Mission 11 - Sentence Of Fire Health bar at max]
+Type = Gameshark
+Activation = EndFrame
+80173DDE 0000
+
+[Mission 12 - Nosey News Van Health bar at max]
+Type = Gameshark
+Activation = EndFrame
+801736CA 0000
+
+[Mission 12 - Nosey News Van Getting rid of van & stop chased car (Press Square Pad 2)]
+Type = Gameshark
+Activation = EndFrame
+D00EE516 7FFF
+3017384A 00FF
+
+[Mission 13 - The Stool Pigeon Health bar at max]
+Type = Gameshark
+Activation = EndFrame
+80171912 0000
+
+[Mission 13 - The Stool Pigeon Stop first chased car (orange) (Press Select & L1 Pad 2)]
+Type = Gameshark
+Activation = EndFrame
+D00EE516 FBFE
+30171C12 00FF
+
+[Mission 13 - The Stool Pigeon	Stop second chased car (red) (Press Select & L2 Pad 2)]
+Type = Gameshark
+Activation = EndFrame
+D00EE516 FEFE
+30171A92 00FF
+
+[Mission 14 - Tank Rush Health bar at max]
+Type = Gameshark
+Activation = EndFrame
+801720F2 0000
+
+[Mission 14 - Tank Rush Stop first tank (Press Select & R1 Pad 2)]
+Type = Gameshark
+Activation = EndFrame
+D00EE516 F7FE
+30172272 00FF
+
+[Mission 14 - Tank Rush Stop second tank (Press Select & R2 Pad 2)]
+Type = Gameshark
+Activation = EndFrame
+D00EE516 FDFE
+30172572 00FF
+
+[Mission 15 - Nothing Is Ever Routine Health bar at max]
+Type = Gameshark
+Activation = EndFrame
+80173316 0000
+
+[Mission 15 - Nothing Is Ever Routine Stop first chased car (orange) (Press Select & Triangle Pad 2)	D00EE516 EFFE]
+Type = Gameshark
+Activation = EndFrame
+30173196 00FF
+
+[Mission 15 - Nothing Is Ever Routine Stop second chased car (red) (Press Select & Circle Pad 2)	D00EE516 DFFE]
+Type = Gameshark
+Activation = EndFrame
+30173016 00FF
+
+[Mission 16 - Jacked Up Jailbird Health bar at max]
+Type = Gameshark
+Activation = EndFrame
+801722F6 0000
+
+[Mission 16 - Jacked Up Jailbird Stop chased car (Press Select & X Pad 2)]
+Type = Gameshark
+Activation = EndFrame
+D00EE516 BFFE
+301725F6 00FF
+
+[Mission 17 - Lou Ferris Returns Health bar at max]
+Type = Gameshark
+Activation = EndFrame
+80174936 0000
+
+[Mission 18 - Brazen Bank Bandits Health bar at max]
+Type = Gameshark
+Activation = EndFrame
+80175452 0000
+
+[Mission 18 - Brazen Bank Bandits Stop red sportscar Wait until the evidence has been thrown out of the chased car (Press Select & Up Pad 2)]
+Type = Gameshark
+Activation = EndFrame
+D00EE516 FFEE
+30175752 00FE
+
+[Mission 18 - Brazen Bank Bandits Stop blue van (Wait until the evidence has been thrown out of the chased car)(Press Select & Down Pad 2)]
+Type = Gameshark
+Activation = EndFrame
+D00EE516 FFBE
+301755D2 00FE
+
+[Mission 19 - 30 Minutes Or Less Health bar at max]
+Type = Gameshark
+Activation = EndFrame
+8017240E 0000
+
+[Mission 19 - 30 Minutes Or Less Stop chased car (Press Select & Left Pad 2)]
+Type = Gameshark
+Activation = EndFrame
+D00EE516 FF7E
+3017258E 00FF
+
+[Mission 20 - Final Showdown Health bar at max]
+Type = Gameshark
+Activation = EndFrame
+80172BD6 0000
+
+[Mission 20 - Final Showdown Stop limousine (Press Select & Right Pad 2)]
+Type = Gameshark
+Activation = EndFrame
+D00EE516 FFDE
+30172ED6 00FF
+

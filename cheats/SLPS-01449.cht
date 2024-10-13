@@ -1,0 +1,188 @@
+; CHTDB: ; [ Silhouette Mirage - Reprogrammed Hope (Jpn) (1998) (ESP) {SLPS-01449} <silhouetj> ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+80138784 270F
+
+[Infinite HP + MP-Stage 1 (Press L1) Area 1]
+Type = Gameshark
+Activation = EndFrame
+C0136C2A 0004
+8013CCB4 012C
+8013CCB8 012C
+00000000 FFFF
+
+[Infinite HP + MP-Stage 2 (Press L1) Area 1]
+Type = Gameshark
+Activation = EndFrame
+C0136C2A 0004
+8014BB74 012C
+8014BB78 012C
+00000000 FFFF
+
+[Infinite HP + MP-Stage 3 (Press L1) Area 1]
+Type = Gameshark
+Activation = EndFrame
+C0136C2A 0004
+8012F47C 012C
+8012F480 012C
+00000000 FFFF
+
+[Infinite HP + MP-Stage 3 (Press L1) Area 2]
+Type = Gameshark
+Activation = EndFrame
+C0136C2A 0004
+8012B79C 012C
+8012B7A0 012C
+00000000 FFFF
+
+[Infinite HP + MP-Stage 3 (Press L1) Area 3]
+Type = Gameshark
+Activation = EndFrame
+C0136C2A 0004
+8012CB7C 012C
+8012CB80 012C
+00000000 FFFF
+
+[Infinite HP + MP-Stage 3 (Press L1) Area 4]
+Type = Gameshark
+Activation = EndFrame
+C0136C2A 0004
+8013604C 012C
+80136050 012C
+00000000 FFFF
+
+[Infinite HP + MP-Stage 3 (Press L1) Area 5]
+Type = Gameshark
+Activation = EndFrame
+C0136C2A 0004
+8012B2DC 012C
+8012B2E0 012C
+00000000 FFFF
+
+[Infinite HP + MP-Stage 4 (Press L1) Area 1]
+Type = Gameshark
+Activation = EndFrame
+C0136C2A 0004
+8012CE9C 012C
+8012CEA0 012C
+00000000 FFFF
+
+[Infinite HP + MP-Stage 4 (Press L1) Area 2]
+Type = Gameshark
+Activation = EndFrame
+C0136C2A 0004
+8012514C 012C
+80125150 012C
+00000000 FFFF
+
+[Infinite HP + MP-Stage 4 (Press L1) Area 3]
+Type = Gameshark
+Activation = EndFrame
+C0136C2A 0004
+8012050C 012C
+80120510 012C
+00000000 FFFF
+
+[Infinite HP + MP-Stage 4 (Press L1) Area 4]
+Type = Gameshark
+Activation = EndFrame
+C0136C2A 0004
+8012514C 012C
+80125150 012C
+00000000 FFFF
+
+[Infinite HP + MP-Stage 5 (Press L1) Area 1]
+Type = Gameshark
+Activation = EndFrame
+C0136C2A 0004
+80121B5C 012C
+80121B60 012C
+00000000 FFFF
+
+[Infinite HP + MP-Stage 5 (Press L1) Area 2]
+Type = Gameshark
+Activation = EndFrame
+C0136C2A 0004
+801214EC 012C
+801214F0 012C
+00000000 FFFF
+
+[Infinite HP + MP-Stage 5 (Press L1) Area 3]
+Type = Gameshark
+Activation = EndFrame
+C0136C2A 0004
+80128D6C 012C
+80128D70 012C
+00000000 FFFF
+
+[Infinite HP + MP-Stage 5 (Press L1) Area 4]
+Type = Gameshark
+Activation = EndFrame
+C0136C2A 0004
+80115084 012C
+80115088 012C
+00000000 FFFF
+
+[Infinite HP + MP-Stage 6 (Press L1) Area 1]
+Type = Gameshark
+Activation = EndFrame
+C0136C2A 0004
+80134D34 012C
+80134D38 012C
+00000000 FFFF
+
+[Infinite HP + MP-Stage 6 (Press L1) Area 2]
+Type = Gameshark
+Activation = EndFrame
+C0136C2A 0004
+80140B0C 012C
+80140B10 012C
+00000000 FFFF
+
+[Infinite HP + MP-Stage 6 (Press L1) Area 3]
+Type = Gameshark
+Activation = EndFrame
+C0136C2A 0004
+80127164 012C
+80127168 012C
+00000000 FFFF
+
+[Infinite HP + MP-Stage 7 (Press L1) Area 1]
+Type = Gameshark
+Activation = EndFrame
+C0136C2A 0004
+801539F4 012C
+801539F8 012C
+00000000 FFFF
+
+[Infinite HP + MP-Stage 7 (Press L1) Area 2]
+Type = Gameshark
+Activation = EndFrame
+C0136C2A 0004
+8012356C 012C
+80123570 012C
+00000000 FFFF
+
+[Infinite HP + MP-Stage 7 (Press L1) Area 3]
+Type = Gameshark
+Activation = EndFrame
+C0136C2A 0004
+8012356C 012C
+80123570 012C
+00000000 FFFF
+
+[Infinite HP + MP-Stage 7 (Press L1) Area 4]
+Type = Gameshark
+Activation = EndFrame
+C0136C2A 0004
+8018556C 012C
+80185570 012C
+00000000 FFFF
+
+[Infinite Credits Press L1]
+Type = Gameshark
+Activation = EndFrame
+3001006F 0009
+

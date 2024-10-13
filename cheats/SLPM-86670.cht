@@ -1,0 +1,7 @@
+; CHTDB: ; [ Pop'n Music - Disney Tunes (Jpn) (2000) (Konami) {SLPM-86670 (VX222-J1)} <popndt> ]
+
+[Unlock Extras]
+Type = Gameshark
+Activation = EndFrame
+800BDA18 3FFF
+

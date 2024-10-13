@@ -1,0 +1,58 @@
+; CHTDB: ; [ The Fifth Element (USA) (1998) (Activision) {SLUS-00711} <5element> ]
+
+[Timer Zero]
+Type = Gameshark
+Activation = EndFrame
+9000D554 00000000
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801FFF46 0009
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+A7060B2C 83858387
+A7060B60 83858387
+A70526AA 0C012400
+
+[Infinite Shield]
+Type = Gameshark
+Activation = EndFrame
+800DD54C 00FF
+801FFF96 0001
+
+[All Films On]
+Type = Gameshark
+Activation = EndFrame
+300320FD 0001
+
+[All Objects On]
+Type = Gameshark
+Activation = EndFrame
+300320FC 0001
+
+[All Weapons On]
+Type = Gameshark
+Activation = EndFrame
+3003211F 0001
+
+[Always Have Cheat Menu]
+Type = Gameshark
+Activation = EndFrame
+301FFF56 007F
+
+[100% Items Found]
+Type = Gameshark
+Activation = EndFrame
+900E44F0 FFFFFFFF
+
+[100% Secrets Found]
+Type = Gameshark
+Activation = EndFrame
+C00A6EB2 FCFF
+301184DD 0082
+301184DE 0084
+00000000 FFFF
+

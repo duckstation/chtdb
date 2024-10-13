@@ -1,0 +1,7 @@
+; CHTDB: ; [ DigimonWorld: Digital Card Battle (Japan) {SLPS-02506} ]
+
+[Have 9999 blit]
+Type = Gameshark
+Activation = EndFrame
+800D11F0 270F
+

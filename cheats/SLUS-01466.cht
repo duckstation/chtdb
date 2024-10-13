@@ -1,0 +1,22 @@
+; CHTDB: ; [ Gubble (USA) (2002) (Mud Duck Productions) {SLUS-01466} <gubble> ]
+
+[Time Always 0.0]
+Type = Gameshark
+Activation = EndFrame
+80077DD0 0000
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8007DD28 0064
+
+[Quick Score Gain]
+Type = Gameshark
+Activation = EndFrame
+80077D70 FFFF
+
+[Max Score]
+Type = Gameshark
+Activation = EndFrame
+90077D70 05F5E0FF
+

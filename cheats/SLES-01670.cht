@@ -1,0 +1,97 @@
+; CHTDB: ; [ Nickelodeon Rugrats: Auf der Suche nach Reptar aka Rugrats: Auf der Suche nach Reptar (Germany) {SLES-01670} ]
+
+[Quengel-Anzeige Max.]
+Type = Gameshark
+Activation = EndFrame
+800E447C 0130
+
+[Unendlich Zeit]
+Type = Gameshark
+Activation = EndFrame
+800C5BF8 FFFF
+
+[Habe 11 Puzzleteile]
+Type = Gameshark
+Activation = EndFrame
+900C6E4C 0EFF0EFF
+
+[Immer Nur 1 Schlag Loch 1]
+Type = Gameshark
+Activation = EndFrame
+300E448E 0001
+
+[Immer Nur 1 Schlag Loch 2]
+Type = Gameshark
+Activation = EndFrame
+300E448F 0001
+
+[Immer Nur 1 Schlag Loch 3]
+Type = Gameshark
+Activation = EndFrame
+300E4490 0001
+
+[Immer Nur 1 Schlag Loch 4]
+Type = Gameshark
+Activation = EndFrame
+300E4491 0001
+
+[Immer Nur 1 Schlag Loch 5]
+Type = Gameshark
+Activation = EndFrame
+300E4492 0001
+
+[Immer Nur 1 Schlag Loch 6]
+Type = Gameshark
+Activation = EndFrame
+300E4493 0001
+
+[Immer Nur 1 Schlag Loch 7]
+Type = Gameshark
+Activation = EndFrame
+300E4494 0001
+
+[Immer Nur 1 Schlag Loch 8]
+Type = Gameshark
+Activation = EndFrame
+300E4495 0001
+
+[Immer Nur 1 Schlag Loch 9]
+Type = Gameshark
+Activation = EndFrame
+300E4496 0001
+
+[Der Zirkus Angelicus Spike Hat 12 Knochen Gesammelt]
+Type = Gameshark
+Activation = EndFrame
+800E4480 0C00
+
+[Und Es Werde Licht Unendlich Batterie]
+Type = Gameshark
+Activation = EndFrame
+800F64AC 7800
+
+[Besucher Aus Dem Weltraum Unendlich Batterie]
+Type = Gameshark
+Activation = EndFrame
+800EF3B8 7800
+
+[Goldrausch Alle Münzen]
+Type = Gameshark
+Activation = EndFrame
+800E4480 3D00
+
+[Keine Kekse Mehr/Tommys Touchdown Nur Noch Einmal Essen/Trinken]
+Type = Gameshark
+Activation = EndFrame
+800C6366 0001
+
+[Spiegelland Immer 25 Ballons Gesammelt]
+Type = Gameshark
+Activation = EndFrame
+300E4481 0018
+
+[Die Sieben Reisen Der Cynthia Spikes Knochen Max.]
+Type = Gameshark
+Activation = EndFrame
+800E447C 00FF
+

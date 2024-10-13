@@ -1,0 +1,49 @@
+; CHTDB: ; [ X-Men vs. Street Fighter: EX Edition (Japan) {SLPS-01284} ]
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80042B6C 0090
+
+[P1 Level 3 Power Bar]
+Type = Gameshark
+Activation = EndFrame
+30042B70 0003
+
+[P1 Play As Apocalypse]
+Type = Gameshark
+Activation = EndFrame
+8004299C 0010
+
+[P2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80042EB4 0090
+
+[P2 No Energy]
+Type = Gameshark
+Activation = EndFrame
+80042EB4 0000
+
+[Enable Ex Option .Push Select+R1+R2]
+Type = Gameshark
+Activation = EndFrame
+D0042008 010A
+800420B8 0107
+
+[Secret Character .Start + Up Position to access Last Boss Apocalypse]
+Type = Gameshark
+Activation = EndFrame
+D0042008 1800
+8004299C 0010
+D0042008 1100
+8004299C 0024
+D0042008 1800
+80043104 0010
+D0042008 1100
+80043104 0024
+D004200A 1800
+80042CE4 0010
+D004200A 1100
+80042CE4 0024
+

@@ -1,0 +1,22 @@
+; CHTDB: ; [ Strikers 1945 (USA) (2001) (Agetec) {SLUS-01337} <s1945> ]
+
+[P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800996B4 0003
+
+[P1 Max Infinite Special]
+Type = Gameshark
+Activation = EndFrame
+8009970A 7FFF
+
+[P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80099750 0003
+
+[P2 Max Infinite Special]
+Type = Gameshark
+Activation = EndFrame
+800997A6 7FFF
+

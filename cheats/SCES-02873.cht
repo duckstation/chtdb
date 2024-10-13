@@ -1,0 +1,23 @@
+; CHTDB: ; [ Vib-Ribbon (Europe) {SCES-02873} ]
+
+[Normal Vibri Doesn't Get Downgraded/Ribbon Stays Stable]
+Type = Gameshark
+Activation = EndFrame
+300764D0 0000
+
+[Remove One Part To Get Upgraded Press L2]
+Type = Gameshark
+Activation = EndFrame
+D006BEE2 FEFF
+300764D4 0011
+D006BEE2 FEFF
+3008A006 0011
+
+[Become Super-Vibri Press R2]
+Type = Gameshark
+Activation = EndFrame
+D006BEE2 FDFF
+300764CC 0000
+D006BEE2 FDFF
+300764DC 0001
+

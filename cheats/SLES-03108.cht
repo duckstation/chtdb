@@ -1,0 +1,12 @@
+; CHTDB: ; [ Paris-Marseille Racing (France) {SLES-03108} ]
+
+[Have 99999 money]
+Type = Gameshark
+Activation = EndFrame
+900D5C20 0001869F
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+300D08C1 000C
+

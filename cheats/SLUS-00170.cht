@@ -1,0 +1,154 @@
+; CHTDB: ; [ Resident Evil (USA) (1996) (Capcom Entertainment) {SLUS-00170} <revil> ]
+
+[Infinite Health Chris]
+Type = Gameshark
+Activation = EndFrame
+800C51AC 008C
+
+[Infinite Health Jill]
+Type = Gameshark
+Activation = EndFrame
+800C51AC 008C
+
+[Infinite Health Rebecca]
+Type = Gameshark
+Activation = EndFrame
+800C51AC 0058
+
+[Invincibility (No Touch)]
+Type = Gameshark
+Activation = EndFrame
+F4105000 00FF5000
+2F004010 00000000
+2080023C 10EA428C
+FFFF0010 FFFFFFFF
+FFFFFFFF FFFFFFFF
+
+[Playing Time 0]
+Type = Gameshark
+Activation = EndFrame
+800C867C 0000
+
+[Triangle Button Restores Health]
+Type = Gameshark
+Activation = EndFrame
+D00CF844 0010
+800C51AC 00C8
+
+[L1 + X Button For Save Anywhere]
+Type = Gameshark
+Activation = EndFrame
+D00CF844 0044
+800C8456 0002
+800343F2 2400
+8003446E 2400
+
+[Infinite Ammo All Weapons (Except FlameThrower) Chris]
+Type = Gameshark
+Activation = EndFrame
+A60418F8 FFFF0000
+
+[Infinite Ammo All Weapons (Except FlameThrower)]
+Type = Gameshark
+Activation = EndFrame
+8003F574 2400
+
+[Infinite Ammo All Weapons (Except FlameThrower) dual shock version ?]
+Type = Gameshark
+Activation = EndFrame
+800418FC 2400
+
+[Infinity flamethrower]
+Type = Gameshark
+Activation = EndFrame
+800407BC 0100
+
+[Number of belongings and ammunition is bigger]
+Type = Gameshark
+Activation = EndFrame
+8003FD30 0001
+
+[Have All Maps and Files]
+Type = Gameshark
+Activation = EndFrame
+300C8714 003F
+900C871C FFFF0FFF
+300C8721 00CF
+800C8722 FFFF
+
+[Most Doors Open]
+Type = Gameshark
+Activation = EndFrame
+900C86B4 CF7EBFDF
+
+[Stop 3 Minute Timer In Lab (This one starts after you put the battery in the elevator)]
+Type = Gameshark
+Activation = EndFrame
+800C867A 117A
+800C867C 0000
+
+[Double Ammo For Clips (Advanced Mode Only-Resident Evil-Directors Cut)]
+Type = Gameshark
+Activation = EndFrame
+800E16CA 0000
+
+[Press L2+Circle For Quick Chest Access]
+Type = Gameshark
+Activation = EndFrame
+C00CF844 0021
+800C8456 0300
+300C8459 0001
+00000000 FFFF
+
+[All Weapons, Key Items, Keys, F.-Aid Spray In Chest]
+Type = Gameshark
+Activation = EndFrame
+50000902 0001
+800C8724 FF02
+50000102 0001
+800C8736 0F1B
+50000D02 0001
+800C8738 0F1D
+50000302 0001
+800C8752 0F2C
+50001302 0001
+800C8758 0F30
+
+[Select Character\Chris]
+Type = Gameshark
+Activation = EndFrame
+A7044822 90A43404
+A7044832 90A33403
+
+[Select Character\Jill]
+Type = Gameshark
+Activation = EndFrame
+A7044820 00000001
+A7044830 00000001
+A7044822 90A43404
+A7044832 90A33403
+
+[Select Character\Rebecca]
+Type = Gameshark
+Activation = EndFrame
+A7044820 00000003
+A7044830 00000003
+A7044822 90A43404
+A7044832 90A33403
+
+[Character Alternative Costume]
+Description = You will need to restart the game after turning this cheat off
+Type = Gameshark
+Activation = EndFrame
+A704483A 30622400
+
+[Take control over demo mode (Activate when demo is running)]
+Type = Gameshark
+Activation = EndFrame
+A7031EAA 04401000
+A702B2DA 10401000
+A702A73A 14401000
+A703AEC2 10401000
+A702B2C6 14602400
+A702A1A2 10622400
+

@@ -1,0 +1,90 @@
+; CHTDB: ; [ Ginga Ojousama Densetsu Yuna - Final Edition (Jpn) (1998) (Hudson) {SLPS-01451} <yunafe> ]
+
+[Infinite HP 9999 Yuna]
+Type = Gameshark
+Activation = EndFrame
+800845B6 03E7
+800845B8 03E7
+
+[Infinite HP 9999 Pink Hair Girl]
+Type = Gameshark
+Activation = EndFrame
+80084016 03E7
+80084018 03E7
+
+[Infinite HP 9999 Blonde Girl]
+Type = Gameshark
+Activation = EndFrame
+80084076 03E7
+80084078 03E7
+
+[Infinite HP Red Hair Girl 9999]
+Type = Gameshark
+Activation = EndFrame
+800840D6 03E7
+800840D8 03E7
+
+[Infinite HP 9999 Brown Hair Girl]
+Type = Gameshark
+Activation = EndFrame
+80084136 03E7
+80084138 03E7
+
+[Bonus mode Press Select Bonus mode, without moving the cursor Put it to pick the START]
+Type = Gameshark
+Activation = EndFrame
+D01CCAD4 0100
+3010D516 0005
+
+[Infinite Movement and attack]
+Type = Gameshark
+Activation = EndFrame
+301CD3B8 0000
+301CD360 0000
+
+[Yuna MAX Stats]
+Type = Gameshark
+Activation = EndFrame
+801AA84C 0063
+801AA850 270F
+801AA856 270F
+801AA85C 270F
+801AA862 270F
+801AA868 270F
+801AA86E 270F
+801AA874 270F
+801AA878 6363
+801AA87C 0000
+
+[Yuryi MAX Stats]
+Type = Gameshark
+Activation = EndFrame
+801AA8AC 0063
+801AA8B0 270F
+801AA8B6 270F
+801AA8BC 270F
+801AA8C2 270F
+801AA8C8 270F
+801AA8CE 270F
+801AA8D4 270F
+801AA8D8 6363
+801AA8DC 0000
+
+[Gold 999999]
+Type = Gameshark
+Activation = EndFrame
+801CC658 423F
+301CC65A 000F
+
+[I aligned all Cards]
+Type = Gameshark
+Activation = EndFrame
+50003701 0000
+301CDBE9 0009
+
+[99 ITEM]
+Type = Gameshark
+Activation = EndFrame
+50001A04 0000
+801F858C 0063
+

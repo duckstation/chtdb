@@ -1,0 +1,31 @@
+; CHTDB: ; [ Tetsuya Komuro: Gaball Screen (Japan) {SLPS-00675} ]
+
+[All CD]
+Type = Gameshark
+Activation = EndFrame
+901D5110 001F001F
+901D5114 003F003F
+901D5118 001F003F
+801D511C 003F
+
+[Unlock All Extras]
+Type = Gameshark
+Activation = EndFrame
+50000702 0000
+801D5110 003F
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A71DE638 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A71DE638 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A71DE638 10000400
+

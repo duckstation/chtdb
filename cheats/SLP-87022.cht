@@ -1,0 +1,17 @@
+; CHTDB: ; [ Simple 1500 Jitsuyou Series Vol. 14: Kurashi no Manner: Kankon Sousai-hen (Japan) {SLP-87022} ]
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A7030C04 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A7030C04 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A7030C04 10000400
+

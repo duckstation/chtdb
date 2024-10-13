@@ -1,0 +1,23 @@
+; CHTDB: ; [ Guitar Freaks Append 2nd Mix (Jpn) (2000) (Konami) {SLPM-86446 (VX183-J1)} <gtrfrk2m> ]
+
+[Can Select All Songs]
+Type = Gameshark
+Activation = EndFrame
+50000802 0000
+8011C04C FFFF
+
+[P1 Gauge Max]
+Type = Gameshark
+Activation = EndFrame
+801270A0 2710
+
+[P2 Gauge Max]
+Type = Gameshark
+Activation = EndFrame
+801270A4 2710
+
+[Total Score Max]
+Type = Gameshark
+Activation = EndFrame
+901219DC 3B9AC9FF
+

@@ -1,0 +1,14 @@
+; CHTDB: ; [ Googootrops (Jpn) (1999) (Enix) {SLPM-86148} <gogotrop> ]
+
+[Infinite + max energy main character]
+Type = Gameshark
+Activation = EndFrame
+801CA028 00E7
+801CA029 00E7
+
+[Infinite + max energy 2nd character]
+Type = Gameshark
+Activation = EndFrame
+801CA1CC 00E7
+801CA1CD 00E7
+

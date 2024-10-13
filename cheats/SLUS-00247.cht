@@ -1,0 +1,32 @@
+; CHTDB: ; [ Magic - The Gathering - BattleMage (USA) (1997) (Acclaim Entertainment) {SLUS-00247} <magic> ]
+
+[Infinite Black Mana]
+Type = Gameshark
+Activation = EndFrame
+800A1A34 0009
+
+[Infinite Blue Mana]
+Type = Gameshark
+Activation = EndFrame
+800A1A20 0009
+
+[Infinite Red Mana]
+Type = Gameshark
+Activation = EndFrame
+800A1A48 0009
+
+[Infinite Green Mana]
+Type = Gameshark
+Activation = EndFrame
+800A1A5C 0009
+
+[Infinite White Mana]
+Type = Gameshark
+Activation = EndFrame
+800A1A0C 0009
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800A18A8 0098
+

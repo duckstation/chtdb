@@ -1,0 +1,62 @@
+; CHTDB: ; [ Real Bout Garou Densetsu Special - Dominated Mind (Jpn, Limited Edition) (1998) (SNK) {SLPM-86090~SLPM-86091} <rbffs> ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+801A12E6 2A3B
+
+[P1 Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+8019B5BC C000
+
+[P1 Max SP]
+Type = Gameshark
+Activation = EndFrame
+8019B5EE 3A3A
+
+[P2 1-Hit Death]
+Type = Gameshark
+Activation = EndFrame
+8019B6F4 0001
+
+[1-Round Only]
+Type = Gameshark
+Activation = EndFrame
+801A12B4 0002
+
+[Omake Option Mode]
+Type = Gameshark
+Activation = EndFrame
+3019AD82 0007
+
+[All Ending Movie]
+Type = Gameshark
+Activation = EndFrame
+8019AD84 FFFF
+3019AD86 001F
+
+[All Ending Script]
+Type = Gameshark
+Activation = EndFrame
+8019AD88 FFFF
+3019AD8A 001F
+
+[Special Attack Config]
+Type = Gameshark
+Activation = EndFrame
+8019AD8C FFFF
+3019ADBE 001F
+
+[Secret Character (Press L2 + R2)]
+Type = Gameshark
+Activation = EndFrame
+C019AD30 0A00
+801A1252 0016
+801A1256 0016
+00000000 FFFF
+C019AD3C 0A00
+801A1254 0016
+801A1258 0016
+00000000 FFFF
+

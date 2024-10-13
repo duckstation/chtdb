@@ -1,0 +1,109 @@
+; CHTDB: ; [ Zipangu: Unmei wa Saikoro ga Kimeru!? (Japan) Demo {SLPS-02244} ]
+
+[Pilot Energy]
+Type = Gameshark
+Activation = EndFrame
+D009511C 000D
+80095118 000D
+D009511C 0013
+80095118 0013
+D009511C 0019
+80095118 0019
+
+[Max Money]
+Type = Gameshark
+Activation = EndFrame
+90059054 0098967F
+
+[The Reputation Of The Current 100%]
+Type = Gameshark
+Activation = EndFrame
+80059058 0064
+
+[The Amount Of Damage 0]
+Type = Gameshark
+Activation = EndFrame
+90059060 00000000
+
+[Max Energy In One Step]
+Type = Gameshark
+Activation = EndFrame
+D0073E4A 1440
+80073E48 0000
+
+[All Game Modes Stage]
+Type = Gameshark
+Activation = EndFrame
+D006BA9A 2402
+8007441C 03F7
+
+[All Game Modes Robot]
+Type = Gameshark
+Activation = EndFrame
+D006BA9A 2402
+80074418 FFFF
+D006BA9A 2402
+8007441A 001F
+
+[Vu~odan,Gareth,Lionel & Berusuvu~aru availables]
+Type = Gameshark
+Activation = EndFrame
+80059098 0001
+800590D0 0001
+800590B4 0001
+800590EC 0001
+
+[Energy gauge MAX in one step]
+Type = Gameshark
+Activation = EndFrame
+D0073E4A 1440
+80073E48 0000
+
+[Vu~odan Armor MAX]
+Type = Gameshark
+Activation = EndFrame
+800590B0 270F
+
+[Vu~odan All Special Moves]
+Type = Gameshark
+Activation = EndFrame
+9005909C 01010101
+900590A0 01010101
+900590A4 01010101
+800590A8 0101
+
+[Gareth Armor MAX]
+Type = Gameshark
+Activation = EndFrame
+800590CC 270F
+
+[Gareth All Special Moves]
+Type = Gameshark
+Activation = EndFrame
+900590B8 01010101
+900590BC 01010101
+800590C0 0101
+
+[Lionel Armor MAX]
+Type = Gameshark
+Activation = EndFrame
+800590E8 270F
+
+[Lionel All Special Moves]
+Type = Gameshark
+Activation = EndFrame
+900590D4 01010101
+900590D8 01010101
+800590DC 0101
+
+[Bell swell Armor MAX]
+Type = Gameshark
+Activation = EndFrame
+80059104 270F
+
+[Bell swell All Special Moves]
+Type = Gameshark
+Activation = EndFrame
+900590F0 01010101
+900590F4 01010101
+

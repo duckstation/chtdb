@@ -1,0 +1,34 @@
+; CHTDB: ; [ Looney Tunes Racing (USA) (2000) (Infogrames) {SLUS-01145} <looneyrc> ]
+
+[Always Finish First]
+Type = Gameshark
+Activation = EndFrame
+300D64E5 0000
+
+[Infinite Maximun Special]
+Type = Gameshark
+Activation = EndFrame
+800D6554 0006
+
+[Unlock All Cups And Tracks]
+Type = Gameshark
+Activation = EndFrame
+800986E8 FFFF
+800986F4 FFFF
+800986F8 FFFF
+
+[Unlock All Characters]
+Type = Gameshark
+Activation = EndFrame
+900986F0 FFFFFFFF
+
+[Unlock All Movies]
+Type = Gameshark
+Activation = EndFrame
+800986FC FFFF
+
+[All Chalenges Completed]
+Type = Gameshark
+Activation = EndFrame
+900986EC FFFFFFFF
+

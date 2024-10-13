@@ -1,0 +1,7 @@
+; CHTDB: ; [ Hissatsu Pachinko Station 6: Gakideka & Jamaica (Japan) {SLPS-02144} ]
+
+[Have 99999 credits in story mode]
+Type = Gameshark
+Activation = EndFrame
+900FD88C 0001869F
+

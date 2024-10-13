@@ -1,0 +1,48 @@
+; CHTDB: ; [ Dance Dance Revolution - Disney Mix (USA) (2001) (Konami of America) {SLUS-01281} <ddrdm> ]
+
+[P1 Select Dance Meter\Maximum]
+Type = Gameshark
+Activation = EndFrame
+8008180C 03E8
+
+[P1 Select Dance Meter\Minimum]
+Type = Gameshark
+Activation = EndFrame
+8008180C 0000
+
+[P1 Max Combo]
+Type = Gameshark
+Activation = EndFrame
+8007D184 03E7
+
+[P1 Max Perfect]
+Type = Gameshark
+Activation = EndFrame
+800832C2 270F
+
+[P1 No Combo]
+Type = Gameshark
+Activation = EndFrame
+8007D184 0000
+
+[All Lessons Clear]
+Type = Gameshark
+Activation = EndFrame
+50000C02 0000
+80010E5C 0101
+
+[P1 Max Power Dance Magic Mode]
+Type = Gameshark
+Activation = EndFrame
+900E42EC 00FF0002
+
+[P2 Max Power Dance Magic Mode]
+Type = Gameshark
+Activation = EndFrame
+900E42F8 00FF0002
+
+[Unlock All Extras]
+Type = Gameshark
+Activation = EndFrame
+80010E5A 1000
+

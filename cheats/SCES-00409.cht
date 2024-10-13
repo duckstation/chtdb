@@ -1,0 +1,17 @@
+; CHTDB: ; [ Porsche Challenge (Euro) (1997) (Sony Computer Entertainment Europe) {SCES-00409, SCES-00409#} <porschece> ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800DA334 0608
+
+[Always First]
+Type = Gameshark
+Activation = EndFrame
+800DA31E 0001
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+A70C9DA4 18061222
+

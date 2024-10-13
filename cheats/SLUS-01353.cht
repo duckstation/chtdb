@@ -1,0 +1,46 @@
+; CHTDB: ; [ Nickelodeon Rocket Power - Team Rocket Rescue (USA) (2001) (THQ) {SLUS-01353} <rcktpwtr> ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800AC770 FF00
+
+[Max Score]
+Type = Gameshark
+Activation = EndFrame
+900B0A84 05F5E0FF
+
+[Press L2 For Max Special Meter]
+Type = Gameshark
+Activation = EndFrame
+D00B6952 FEFF
+800B106C FFFF
+
+[Always Turbo Speed]
+Type = Gameshark
+Activation = EndFrame
+800B10C8 2811
+
+[Only 1 Shell To Find - Tito's Challenge]
+Type = Gameshark
+Activation = EndFrame
+A608AA48 00000005
+A608AAA8 00000005
+A608AB08 00000005
+A608AB68 00000005
+
+[Unlock Stage 2]
+Type = Gameshark
+Activation = EndFrame
+80087A04 0000
+
+[Unlock Stage 3]
+Type = Gameshark
+Activation = EndFrame
+800872AC 0000
+
+[Unlock Stage 4]
+Type = Gameshark
+Activation = EndFrame
+80086F00 0000
+

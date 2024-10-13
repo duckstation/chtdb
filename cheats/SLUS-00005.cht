@@ -1,0 +1,89 @@
+; CHTDB: ; [ Rayman (USA) (1995) (Ubi Soft Entertainment Software) {SLUS-00005} <rayman> ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801E4D50 0060
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801F6200 0002
+
+[Mega Glove-Power]
+Type = Gameshark
+Activation = EndFrame
+800AE9C8 0D0D
+
+[1-Hit Death Bosses/Enemies]
+Type = Gameshark
+Activation = EndFrame
+901491BC 24020001
+9019AB68 24030000
+901763A0 24020000
+9017DC88 24020000
+9014D500 24020000
+901927E8 24020000
+
+[All Levels Unlocked/Electoons Freed]
+Type = Gameshark
+Activation = EndFrame
+301C3365 0006
+50001014 0000
+801C3378 0601
+50000714 0000
+301C34B8 0001
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+301F61E2 004D
+D01F7EDA FFFE
+301F61E2 00FF
+
+[Hit Anywhere]
+Type = Gameshark
+Activation = EndFrame
+A71425A2 10A21400
+
+[Pause For Max Health + Lives]
+Type = Gameshark
+Activation = EndFrame
+8013519A 2400
+
+[Skip Level (Triangle+Circle)]
+Type = Gameshark
+Activation = EndFrame
+D01F7EDA CFFF
+301F7A48 0001
+
+[Power Press Select+Circle For All Powers (Reverse Mode/O is Run)]
+Type = Gameshark
+Activation = EndFrame
+D01F7EDA DFFE
+801F43D0 028F
+
+[Power Press Select+Left For All Powers (Super Helicopter/O is Run)]
+Type = Gameshark
+Activation = EndFrame
+D01F7EDA FF7E
+801F43D0 018F
+
+[Power Press Select+Right For All Powers (Helicopter/O is Magic Seed)]
+Type = Gameshark
+Activation = EndFrame
+D01F7EDA FFDE
+801F43D0 01C7
+
+[Disable forced sidescrolling in scrolling levels]
+Type = Gameshark
+Activation = EndFrame
+A715899A 14401000
+
+[Enable Rayman's Helicopter Power Anywhere "Press L3 to toggle on/off"]
+Type = Gameshark
+Activation = EndFrame
+D7010001 01000200
+F51838FA 10402400
+F5183AE6 10402400
+

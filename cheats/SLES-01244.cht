@@ -1,0 +1,22 @@
+; CHTDB: ; [ Assault (Europe) {SLES-01244} ]
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8008E2BD 0640
+
+[P2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80090A5D 0640
+
+[P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8008E634 0009
+
+[P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80090DD4 0009
+

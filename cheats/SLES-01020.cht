@@ -1,0 +1,34 @@
+; CHTDB: ; [ Mortal Kombat Mythologies: Sub-Zero (Europe) {SLES-01020} ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800D9BA8 0009
+
+[Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+800D9FE4 0009
+
+[Exp Modifier]
+Type = Gameshark
+Activation = EndFrame
+800D9C24 FFFF
+
+[Have All Spells]
+Type = Gameshark
+Activation = EndFrame
+800AF060 0F00
+800D9C24 0F00
+
+[Total Experience Points]
+Type = Gameshark
+Activation = EndFrame
+800D9C24 9999
+
+[1 Hit Death Opponents]
+Type = Gameshark
+Activation = EndFrame
+800AF998 0F00
+800DA55C 0F00
+

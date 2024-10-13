@@ -1,0 +1,51 @@
+; CHTDB: ; [ Box-Champions aka Knockout Kings (Germany) {SLES-01451} ]
+
+[P1 Unendlich Ausdauer]
+Type = Gameshark
+Activation = EndFrame
+801DA716 0063
+801DA73E 0063
+
+[P1 Keine Ausdauer]
+Type = Gameshark
+Activation = EndFrame
+801DA716 0000
+801DA73E 0000
+
+[P1 Maximale StäRke]
+Type = Gameshark
+Activation = EndFrame
+801DA744 1500
+
+[P1 Keine StäRke]
+Type = Gameshark
+Activation = EndFrame
+801DA744 0000
+
+[P2 Unendlich Ausdauer]
+Type = Gameshark
+Activation = EndFrame
+801DB0D2 0063
+801DB0FA 0063
+
+[P2 Keine Ausdauer]
+Type = Gameshark
+Activation = EndFrame
+801DB0D2 0000
+801DB0FA 0000
+
+[P2 Maximale StäRke]
+Type = Gameshark
+Activation = EndFrame
+801DB100 1500
+
+[P2 Keine StäRke]
+Type = Gameshark
+Activation = EndFrame
+801DB100 0000
+
+[Unendlich Zeit In Der 1. Runde + Unendlich Lang Klammern]
+Type = Gameshark
+Activation = EndFrame
+801FE730 16BC
+

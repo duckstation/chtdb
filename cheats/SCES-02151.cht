@@ -1,0 +1,22 @@
+; CHTDB: ; [ Cold Blood (Germany) {SCES-02151 | SCES-12151} ]
+
+[Unendlich Munition MP]
+Type = Gameshark
+Activation = EndFrame
+90020F4C 00000000
+
+[Unendlich Gesundheit]
+Type = Gameshark
+Activation = EndFrame
+900490E0 00000000
+
+[Unendlich Medizin]
+Type = Gameshark
+Activation = EndFrame
+90020FB4 00000000
+
+[Stoppuhr anhalten]
+Type = Gameshark
+Activation = EndFrame
+8008BD48 0000
+

@@ -1,0 +1,17 @@
+; CHTDB: ; [ Nickelodeon Rugrats en ParÃ­s: La pelÃ­cula aka Rugrats en ParÃ­s: La pelÃ­cula (Spain) {SLES-03344} ]
+
+[999 tickets rojos]
+Type = Gameshark
+Activation = EndFrame
+8008899A 03E7
+
+[999 tickets dorados]
+Type = Gameshark
+Activation = EndFrame
+8008899C 03E7
+
+[Consigue todos los premios]
+Type = Gameshark
+Activation = EndFrame
+80088990 03E7
+

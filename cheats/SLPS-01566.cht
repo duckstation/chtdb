@@ -1,0 +1,46 @@
+; CHTDB: ; [ Kitty the Kool! Kabuki de Tanoshiku Odotte Ne!! (Japan) {SLPS-01566} ]
+
+[No Faults/Mistakes]
+Type = Gameshark
+Activation = EndFrame
+80077F58 0005
+
+[Stage2]
+Type = Gameshark
+Activation = EndFrame
+80077F4E 0001
+
+[Stage3]
+Type = Gameshark
+Activation = EndFrame
+80077F4E 0002
+
+[Final Stage]
+Type = Gameshark
+Activation = EndFrame
+80077F4E 0003
+
+[All Levels at Normal Speed]
+Type = Gameshark
+Activation = EndFrame
+D0077F4E 0000
+80077EA0 0078
+D0077F4E 0001
+80077EA0 0084
+D0077F4E 0002
+80077EA0 007E
+D0077F4E 0003
+80077EA0 0090
+
+[Fixed Speed]
+Type = Gameshark
+Activation = EndFrame
+80077EB6 0006
+
+[Perfect Stage Results]
+Type = Gameshark
+Activation = EndFrame
+50000302 0000
+80077F90 0000
+80077F96 0030
+

@@ -1,0 +1,37 @@
+; CHTDB: ; [ Kagayaku Kisetsu e (Japan) (Shokai Genteiban) {SLPS-01972 | SLPS-01973} ]
+
+[CG all Nagamori MizuhoKei]
+Type = Gameshark
+Activation = EndFrame
+800E85B0 3FFF
+
+[CG all Nanase Rumi]
+Type = Gameshark
+Activation = EndFrame
+800E85B2 0FFF
+
+[CG all Shiina cocoon]
+Type = Gameshark
+Activation = EndFrame
+800E85B4 07FF
+
+[CG all Shimizu Natsuki]
+Type = Gameshark
+Activation = EndFrame
+800E85B6 03FF
+
+[CG all Kozuki Mio]
+Type = Gameshark
+Activation = EndFrame
+800E85B8 7FFF
+
+[CG all Kawana Misaki]
+Type = Gameshark
+Activation = EndFrame
+800E85BA 7FFF
+
+[CG all Satomura Akane]
+Type = Gameshark
+Activation = EndFrame
+800E85BC 3FFF
+

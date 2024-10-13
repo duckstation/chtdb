@@ -1,0 +1,20 @@
+; CHTDB: ; [ Nemuru Mayu - Sleeping Cocoon (Jpn) (2000) (Asmik Ace) {SLPS-02597} <nemumayu> ]
+
+[Infinite + Max HP]
+Type = Gameshark
+Activation = EndFrame
+8012AB06 03E7
+8012A498 03E7
+
+[Infinite Image points (9999)]
+Type = Gameshark
+Activation = EndFrame
+8012AB08 270F
+
+[Max Status]
+Type = Gameshark
+Activation = EndFrame
+8012A48A 03E7
+9012A48C 03E703E7
+8012A490 03E7
+

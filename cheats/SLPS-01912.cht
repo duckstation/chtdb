@@ -1,0 +1,92 @@
+; CHTDB: ; [ Cybernetic Empire (Jpn) (1999) (Telenet) {SLPS-01912~SLPS-01913} <cyberemp> ]
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800DD780 0100
+800DD7C0 0100
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+A604CDBA 00450040
+
+[Have All Weapons]
+Type = Gameshark
+Activation = EndFrame
+900E5BE8 01020201
+900E5BEC 01010101
+900E5BF0 01010101
+800E5BF4 0101
+900E5BF8 01010101
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+A604DD22 00820080
+
+[Stop Time]
+Type = Gameshark
+Activation = EndFrame
+800DD47C 0000
+
+[Infinite Oxygen]
+Type = Gameshark
+Activation = EndFrame
+A604C070 FFFF0000
+
+[999 consumption items]
+Type = Gameshark
+Activation = EndFrame
+50000502 0000
+800E5EC4 03E7
+
+[All Items possession]
+Type = Gameshark
+Activation = EndFrame
+50000A02 0000
+800E5ECE 0001
+
+[All weapons possession]
+Type = Gameshark
+Activation = EndFrame
+50000802 0000
+800E5BEA 0101
+
+[All weapons bullets number 999]
+Type = Gameshark
+Activation = EndFrame
+50000F02 0000
+800E5CBC 03E7
+
+[SUPER JUMP Press Triangle]
+Type = Gameshark
+Activation = EndFrame
+E00DD534 0010
+800E6134 8000
+E00DD534 0010
+800E6136 FFFF
+
+[Boss killer blow]
+Type = Gameshark
+Activation = EndFrame
+A6116CB8 FFFF0000
+A6116CBA 24422402
+A611582E 00430000
+A610E476 00460000
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A70EC098 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A70EC098 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A70EC098 10000400
+

@@ -1,0 +1,90 @@
+; CHTDB: ; [ Shin Sedai Robot Senki - Brave Saga (Jpn) (1998) (Takara) {SLPS-01756} <bravesag> ]
+
+[Infinite + Max HP main character]
+Type = Gameshark
+Activation = EndFrame
+90199EF0 03E703E7
+
+[Infinite + Max HP 2nd character]
+Type = Gameshark
+Activation = EndFrame
+9019A440 03E703E7
+
+[Infinite + Max HP 3rd character]
+Type = Gameshark
+Activation = EndFrame
+9019A3F0 03E703E7
+
+[Infinite + Max HP 4th character]
+Type = Gameshark
+Activation = EndFrame
+90199F40 03E703E7
+
+[CP 65535]
+Type = Gameshark
+Activation = EndFrame
+80037F8E FFFF
+
+[All Max Exp]
+Type = Gameshark
+Activation = EndFrame
+800335A8 FFFF
+800335E0 FFFF
+80033618 FFFF
+80033650 FFFF
+80033688 FFFF
+800336C0 FFFF
+80033768 FFFF
+800337D8 FFFF
+80033B20 FFFF
+80033B58 FFFF
+80033C38 FFFF
+80033C70 FFFF
+80033CA8 FFFF
+80033FB0 FFFF
+80034098 FFFF
+
+[Mortal blow]
+Type = Gameshark
+Activation = EndFrame
+D00565A6 FEFE
+8004B88A 0100
+D00565A6 FDFE
+8004B88A 0000
+D00565A6 FCFE
+8004B88A 0109
+D00565A6 FEFE
+8004B9B2 0100
+D00565A6 FDFE
+8004B9B2 0000
+D00565A6 FCFE
+8004B9B2 0109
+
+[All Items]
+Type = Gameshark
+Activation = EndFrame
+90037FC0 63636363
+90037FC4 63636363
+90037FC8 63636363
+90037FCC 63636363
+90037FD0 63636363
+90037FD4 63636363
+90037FD8 63636363
+90037FDC 63636363
+
+[Unit list]
+Type = Gameshark
+Activation = EndFrame
+90197BB4 FFFFFFFF
+90197BB8 FFFFFFFF
+80197BBC FFFF
+90197BC0 FFFFFFFF
+90197BC4 FFFFFFFF
+
+[Movie]
+Type = Gameshark
+Activation = EndFrame
+90197BF4 FFFFFFFF
+90197BF8 FFFFFFFF
+80197BFC FFFF
+

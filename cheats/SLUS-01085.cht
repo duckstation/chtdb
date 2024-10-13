@@ -1,0 +1,63 @@
+; CHTDB: ; [ NHL Rock the Rink (USA) (2000) (Electronic Arts) {SLUS-01085} <nhlrtr> ]
+
+[Unlock All Sound Effects]
+Type = Gameshark
+Activation = EndFrame
+3008323C 00FF
+
+[Unlock All Gameplay]
+Type = Gameshark
+Activation = EndFrame
+3008323E 00FF
+
+[Unlock All Puck]
+Type = Gameshark
+Activation = EndFrame
+30083240 00FF
+
+[Unlock All Boards]
+Type = Gameshark
+Activation = EndFrame
+30083242 00FF
+
+[Unlock All Nets]
+Type = Gameshark
+Activation = EndFrame
+30083244 00FF
+
+[Unlock All Players]
+Type = Gameshark
+Activation = EndFrame
+30083246 00FF
+
+[Unlock All Arena]
+Type = Gameshark
+Activation = EndFrame
+30083248 00FF
+
+[Unlock All Rewards]
+Type = Gameshark
+Activation = EndFrame
+50000702 0000
+3008323C 00FF
+
+[Select Blue Player Score\9]
+Type = Gameshark
+Activation = EndFrame
+800900E8 0009
+
+[Select Blue Player Score\0]
+Type = Gameshark
+Activation = EndFrame
+800900E8 0000
+
+[Select Red Player Score\9]
+Type = Gameshark
+Activation = EndFrame
+8009009C 0009
+
+[Select Red Player Score\0]
+Type = Gameshark
+Activation = EndFrame
+8009009C 0000
+

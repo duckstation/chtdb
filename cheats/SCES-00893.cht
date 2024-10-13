@@ -1,0 +1,22 @@
+; CHTDB: ; [ Disneys Hercules Action-Spiel (Germany) (Platinum) {SCES-00893} ]
+
+[Unendlich Energie]
+Type = Gameshark
+Activation = EndFrame
+8003506C 0080
+
+[Unendlich Feuerschwert-Energie]
+Type = Gameshark
+Activation = EndFrame
+80035070 00C8
+
+[Alle Buchstaben]
+Type = Gameshark
+Activation = EndFrame
+80035064 00FF
+
+[Alle Münzen]
+Type = Gameshark
+Activation = EndFrame
+8003505C 00FF
+

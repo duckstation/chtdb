@@ -1,0 +1,12 @@
+; CHTDB: ; [ Stone Walkers (Japan) {SLPS-00472} ]
+
+[Time count stop Turn OFF when the story does not progress]
+Type = Gameshark
+Activation = EndFrame
+301764D8 0000
+
+[Icon count stop .Turn OFF when the story does not progress]
+Type = Gameshark
+Activation = EndFrame
+301764F8 0000
+

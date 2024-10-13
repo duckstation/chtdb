@@ -1,0 +1,17 @@
+; CHTDB: ; [ Point Blank 3 (Europe) {SCES-03383} ]
+
+[Start with 100 hits]
+Type = Gameshark
+Activation = EndFrame
+A60A53B8 00000064
+
+[Infinite Hearts]
+Type = Gameshark
+Activation = EndFrame
+A6032B78 E3C80000
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+A6024146 A4A30000
+

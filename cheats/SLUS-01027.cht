@@ -1,0 +1,27 @@
+; CHTDB: ; [ HBO Boxing (USA) (2000) (Acclaim Entertainment) {SLUS-01027} <hbobox> ]
+
+[Infinite Promoter Points]
+Type = Gameshark
+Activation = EndFrame
+8009CB00 270F
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8008D962 03E7
+
+[P1 Quick Knockdown]
+Type = Gameshark
+Activation = EndFrame
+8008D962 0000
+
+[P2 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8008DBB6 03E7
+
+[P2 Quick Knockdown]
+Type = Gameshark
+Activation = EndFrame
+8008DBB6 0000
+

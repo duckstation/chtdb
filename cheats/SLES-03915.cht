@@ -1,0 +1,17 @@
+; CHTDB: ; [ Puzznic (Europe) {SLES-03915} ]
+
+[Time Always 00.00]
+Type = Gameshark
+Activation = EndFrame
+8009AD30 0000
+
+[Score = 99999]
+Type = Gameshark
+Activation = EndFrame
+9009AD20 0001869F
+
+[Infinite Continues]
+Type = Gameshark
+Activation = EndFrame
+8009AD28 0003
+

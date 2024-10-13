@@ -1,0 +1,12 @@
+; CHTDB: ; [ Heart of Darkness (Spain) {SLES-00465 | SLES-10465} ]
+
+[Enable all levels]
+Type = Gameshark
+Activation = EndFrame
+800886D8 0007
+
+[Open All Movies]
+Type = Gameshark
+Activation = EndFrame
+80088668 0016
+

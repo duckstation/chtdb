@@ -1,0 +1,12 @@
+; CHTDB: ; [ Kakuge Yarou: Fighting Game Creator (Japan) {SLPS-02595} ]
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8006A724 0062
+
+[P2 Energy 0]
+Type = Gameshark
+Activation = EndFrame
+3006A83C 0000
+

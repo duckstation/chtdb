@@ -1,0 +1,17 @@
+; CHTDB: ; [ Black Bass with Blue Marlin (USA) (1999) (HOT-B USA) {SLUS-00648} <bluemarl> ]
+
+[Infinite Lures]
+Type = Gameshark
+Activation = EndFrame
+8003C4C2 2400
+
+[Stop Time]
+Type = Gameshark
+Activation = EndFrame
+800141E6 2400
+
+[No Line Tension]
+Type = Gameshark
+Activation = EndFrame
+80099252 0000
+

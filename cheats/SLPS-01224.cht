@@ -1,0 +1,12 @@
+; CHTDB: ; [ Miracle Jumpers (Japan) {SLPS-01224} ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800B3D1C 0803
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800B3D1E 0008
+

@@ -1,0 +1,7 @@
+; CHTDB: ; [ Battle Arena Toshinden (Europe) {SCES-00002} ]
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801BC2BC 0000
+

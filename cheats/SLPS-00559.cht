@@ -1,0 +1,22 @@
+; CHTDB: ; [ Airgrave (Jpn) (1996) (Santos) {SLPS-00559} <airgrave> ]
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800B4F9C 0006
+
+[Shield Has A Comeback]
+Type = Gameshark
+Activation = EndFrame
+8002F692 8C23
+
+[Infinite Credit]
+Type = Gameshark
+Activation = EndFrame
+80027BC2 8022
+
+[Infinite Overdrive]
+Type = Gameshark
+Activation = EndFrame
+800B52E4 0100
+

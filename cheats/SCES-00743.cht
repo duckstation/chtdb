@@ -1,0 +1,39 @@
+; CHTDB: ; [ PaRappa the Rapper: The Hip Hop Hero (Europe) {SCES-00743} ]
+
+[Always Be Rapping Cool]
+Type = Gameshark
+Activation = EndFrame
+801C8916 0000
+
+[Always Score 999 Points]
+Type = Gameshark
+Activation = EndFrame
+801C88F8 03E7
+
+[KT & The Sunny Funny Band Unlocked]
+Type = Gameshark
+Activation = EndFrame
+3008CE1A 0001
+
+[All Stages Unlocked]
+Type = Gameshark
+Activation = EndFrame
+3008CE1A 0001
+50000602 0000
+3008CE0E 0003
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A7097B30 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A7097B30 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A7097B30 10000400
+

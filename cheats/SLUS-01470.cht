@@ -1,0 +1,23 @@
+; CHTDB: ; [ Aces of the Air (USA) (2002) (A1 Games) {SLUS-01470} <acesair> ]
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800E0078 0DEF
+
+[Unlock All Missions]
+Type = Gameshark
+Activation = EndFrame
+800E0018 000A
+
+[Unlock All Missions Alt (Press L1,L2,R1,R2)]
+Type = Gameshark
+Activation = EndFrame
+D00C8DF2 F0FF
+800E0018 000A
+
+[Infinite Rockets]
+Type = Gameshark
+Activation = EndFrame
+800E02D2 0900
+

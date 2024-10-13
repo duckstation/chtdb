@@ -1,0 +1,49 @@
+; CHTDB: ; [ Gradius Deluxe Pack (Japan) {SLPS-00303} ]
+
+[Gradius 1\P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800C20A2 000A
+
+[Gradius 1\P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800C20A4 000A
+
+[Gradius 1\Always 4 Options]
+Type = Gameshark
+Activation = EndFrame
+800AAC3C 0001
+800AACB4 0001
+800AAD2C 0001
+800AADA4 0001
+800C1FF8 0004
+900C2134 00020001
+900C2138 00040003
+
+[Gradius 1\Always Have Missiles]
+Type = Gameshark
+Activation = EndFrame
+800AABE8 0001
+800AAC50 0001
+800AACC8 0001
+800AAD40 0001
+800AADB8 0001
+
+[Gradius 1\Invincibility]
+Type = Gameshark
+Activation = EndFrame
+8002FBE6 1000
+
+[Gradius 2\P1+P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+D0091238 0000
+8009DE70 0606
+
+[Gradius 2\Invincibility]
+Type = Gameshark
+Activation = EndFrame
+80037202 1000
+8003725C 0000
+

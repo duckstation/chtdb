@@ -1,0 +1,139 @@
+; CHTDB: ; [ Syphon Filter 2 (Germany) {SCES-02287 | SCES-12287} ]
+
+[Unendlich Zustand]
+Type = Gameshark
+Activation = EndFrame
+D0089DE0 0006
+80089DE2 3C00
+
+[Unendlich Gesundheit .Damit sind auch die Gegner unverwundbar - um sie aber dennoch zu erledigen benutze man den Kopfschuss.]
+Type = Gameshark
+Activation = EndFrame
+D0089E28 0008
+80089E2A 3C00
+
+[Timer Anhalten/Timer Weiter .Timer anhalten mit L1+R1 Timer weiter mit L2+R2]
+Type = Gameshark
+Activation = EndFrame
+D0128238 0003
+8005CAC8 FFFF
+D0128238 000C
+8005CAC8 0000
+
+[Alle Cheats Und Multiplayer-Zeugs Freigeschaltet]
+Type = Gameshark
+Activation = EndFrame
+9011F32C FFFFFFFF
+
+[Unendlich Munition Nach Aufnahme]
+Type = Gameshark
+Activation = EndFrame
+D006481C 0002
+80064820 0000
+
+[Max Munition-Codes\SchallgedäMpfte 9mm]
+Type = Gameshark
+Activation = EndFrame
+8012A3AC 0063
+
+[Max Munition-Codes\9mm]
+Type = Gameshark
+Activation = EndFrame
+8012A3B0 0063
+8012A3B4 0063
+
+[Max Munition-Codes\M-16]
+Type = Gameshark
+Activation = EndFrame
+8012A3B8 0063
+
+[Max Munition-Codes\SchallgedäMpfte Hk-5]
+Type = Gameshark
+Activation = EndFrame
+8012A3BC 0063
+
+[Max Munition-Codes\Hk-5]
+Type = Gameshark
+Activation = EndFrame
+8012A3C0 0063
+
+[Max Munition-Codes\Pk-102]
+Type = Gameshark
+Activation = EndFrame
+8012A3C4 0063
+
+[Max Munition-Codes\Schrotflinte]
+Type = Gameshark
+Activation = EndFrame
+8012A3C8 0063
+
+[Max Munition-Codes\Uas-12]
+Type = Gameshark
+Activation = EndFrame
+8012A3CC 0063
+
+[Max Munition-Codes\G-18]
+Type = Gameshark
+Activation = EndFrame
+8012A3D0 0063
+
+[Max Munition-Codes\Biz-2]
+Type = Gameshark
+Activation = EndFrame
+8012A3D4 0063
+
+[Max Munition-Codes\K3G4]
+Type = Gameshark
+Activation = EndFrame
+8012A3D8 0063
+
+[Max Munition-Codes\H11]
+Type = Gameshark
+Activation = EndFrame
+8012A3DC 0063
+
+[Max Munition-Codes\SchallgedäMpftes ScharfschüTzengewehr]
+Type = Gameshark
+Activation = EndFrame
+8012A3E0 0063
+
+[Max Munition-Codes\ScharfschüTzengewehr]
+Type = Gameshark
+Activation = EndFrame
+8012A3E4 0063
+
+[Max Munition-Codes\Nachtsichtgewehr]
+Type = Gameshark
+Activation = EndFrame
+8012A3E8 0063
+
+[Max Munition-Codes\Armbrust]
+Type = Gameshark
+Activation = EndFrame
+8012A3EC 0063
+
+[Max Munition-Codes\M-79]
+Type = Gameshark
+Activation = EndFrame
+8012A3FC 0063
+
+[Max Munition-Codes\Granate]
+Type = Gameshark
+Activation = EndFrame
+8012A400 0063
+
+[Max Munition-Codes\Nervengasgranate]
+Type = Gameshark
+Activation = EndFrame
+8012A404 0063
+
+[Max Munition-Codes\C4]
+Type = Gameshark
+Activation = EndFrame
+8012A408 0063
+
+[Max Munition-Codes\TräNengaswerfer]
+Type = Gameshark
+Activation = EndFrame
+8012A418 0063
+

@@ -1,0 +1,12 @@
+; CHTDB: ; [ Frenzy! (Europe) {SLES-00784} ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800C3784 007D
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800C37DF 2803
+

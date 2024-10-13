@@ -1,0 +1,17 @@
+; CHTDB: ; [ World Cup Golf: Professional Edition (France) {SLES-00138} ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800C2918 0003
+
+[Infinite Lock-On Laser Energy]
+Type = Gameshark
+Activation = EndFrame
+800BA9C4 0064
+
+[Infinite Shield]
+Type = Gameshark
+Activation = EndFrame
+800BA88C 0062
+

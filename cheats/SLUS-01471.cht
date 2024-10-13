@@ -1,0 +1,37 @@
+; CHTDB: ; [ Marble Master (USA) (2002) (Crave Entertainment) {SLUS-01471} <mrblmast> ]
+
+[Max Score]
+Type = Gameshark
+Activation = EndFrame
+800AE978 E0FF
+800AE97A 05F5
+
+[Quick Score Gain]
+Type = Gameshark
+Activation = EndFrame
+800AE978 FFFF
+
+[Single Player Mode-Mission Mode Codes/Unlock Average Mode (Press Select)]
+Type = Gameshark
+Activation = EndFrame
+D01C0ADA FFFE
+8005BDE4 0000
+
+[Single Player Mode-Mission Mode Codes/Unlock Game Mode (Press Select)]
+Type = Gameshark
+Activation = EndFrame
+D01C0ADA FFFE
+8005C3A0 0000
+
+[Single Player Mode-Mission Mode Codes/Unlock Hard Mode (Press Select)]
+Type = Gameshark
+Activation = EndFrame
+D01C0ADA FFFE
+8005C9A8 0000
+
+[Single Player Mode-Mission Mode Codes/Unlock Very Hard Mode (Press Select)]
+Type = Gameshark
+Activation = EndFrame
+D01C0ADA FFFE
+8005CE1C 0000
+

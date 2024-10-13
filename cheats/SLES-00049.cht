@@ -1,0 +1,77 @@
+; CHTDB: ; [ Rayman (Europe) {SLES-00049} ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801F8EB0 0002
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801E4230 0003
+
+[Infinite Continues]
+Type = Gameshark
+Activation = EndFrame
+801E6068 0005
+
+[1-Hit Death Bosses/Enemies]
+Type = Gameshark
+Activation = EndFrame
+9014E4CC 24020001
+9019F5BC 24030000
+9017AF34 24020000
+90182DA4 24020000
+90152890 24020000
+901971F0 24020000
+
+[All Levels Unlocked/Electoons Freed]
+Type = Gameshark
+Activation = EndFrame
+301C2825 0006
+50001014 0000
+801C2838 0601
+50000714 0000
+301C2878 0001
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+301F8E92 004D
+D01FAB92 FFFE
+301F8E92 00FF
+
+[Pause For Max Health & Lives]
+Type = Gameshark
+Activation = EndFrame
+8013A362 2400
+
+[Press Select For 99 Tings]
+Type = Gameshark
+Activation = EndFrame
+301E4236 0063
+
+[Skip Level (Triangle+Circle)]
+Type = Gameshark
+Activation = EndFrame
+D01FAB92 CFFF
+301FA6E8 0001
+
+[Power Codes Press Select+Circle For All Powers (Reverse Mode/O is Run)]
+Type = Gameshark
+Activation = EndFrame
+D01FAB92 DFFE
+801F5F70 028F
+
+[Power Codes Press Select+Left For All Powers (Super Helicopter/O is Run)]
+Type = Gameshark
+Activation = EndFrame
+D01FAB92 FF7E
+801F5F70 018F
+
+[Power Codes Press Select+Right For All Powers (Helicopter/O is Magic Seed)]
+Type = Gameshark
+Activation = EndFrame
+D01FAB92 FFDE
+801F5F70 01C7
+

@@ -1,0 +1,12 @@
+; CHTDB: ; [ Cyber Daisenryaku - Shutsugeki! Harukatai (Jpn, SuperLite 1500 Series) (2000) (Success) {SLPM-86580} <cybdaisn> ]
+
+[Infinite HP First Unit (Tank) In battle]
+Type = Gameshark
+Activation = EndFrame
+800E5F96 00C8
+
+[Infinite HP Second Unit (Plane) In battle]
+Type = Gameshark
+Activation = EndFrame
+800E5F8A 0064
+

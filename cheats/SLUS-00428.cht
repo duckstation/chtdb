@@ -1,0 +1,55 @@
+; CHTDB: ; [ Critical Depth (USA) (1997) (GT Interactive Software) {SLUS-00428} <crtdepth> ]
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801DF15E 007C
+
+[Always have Infinite All Weapons]
+Type = Gameshark
+Activation = EndFrame
+901DF5D0 63636363
+901DF5D4 63636363
+801DF5CE 0632
+
+[Select Character\Abbadon]
+Type = Gameshark
+Activation = EndFrame
+801D0094 000E
+
+[Select Character\Agent 326]
+Type = Gameshark
+Activation = EndFrame
+801D0094 000C
+
+[Select Character\Mr. Phatt]
+Type = Gameshark
+Activation = EndFrame
+801D0094 000D
+
+[Select Character\Overseer]
+Type = Gameshark
+Activation = EndFrame
+801D0094 000F
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A71CF2A4 10000C00
+A71CF304 10000C00
+A71CF364 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A71CF2A4 10000900
+A71CF304 10000900
+A71CF364 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A71CF2A4 10000400
+A71CF304 10000400
+A71CF364 10000400
+

@@ -1,0 +1,47 @@
+; CHTDB: ; [ Gauntlet Legends (Germany) {SLES-02932} ]
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80096CC4 270F
+
+[Infinite KeyS]
+Type = Gameshark
+Activation = EndFrame
+30096D00 0063
+
+[Falcon unlocked]
+Type = Gameshark
+Activation = EndFrame
+30096EF8 0001
+
+[Jackal unlocked]
+Type = Gameshark
+Activation = EndFrame
+3009777C 0001
+
+[Minotaur unlocked]
+Type = Gameshark
+Activation = EndFrame
+30097784 0001
+
+[Tigress unlocked]
+Type = Gameshark
+Activation = EndFrame
+3009778C 0001
+
+[P2 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80097540 270F
+
+[P2 Infinite keys]
+Type = Gameshark
+Activation = EndFrame
+3009757C 0063
+
+[Falconn unlocked]
+Type = Gameshark
+Activation = EndFrame
+30097774 0001
+

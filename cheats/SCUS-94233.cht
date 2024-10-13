@@ -1,0 +1,22 @@
+; CHTDB: ; [ MLB 99 (USA) (1998) (Sony Computer Entertainment America) {SCUS-94233} <mlb99> ]
+
+[Select Away Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+80019208 0000
+
+[Select Away Team Score\99]
+Type = Gameshark
+Activation = EndFrame
+80019208 0063
+
+[Select Home Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+800191C6 0000
+
+[Select Home Team Score\99]
+Type = Gameshark
+Activation = EndFrame
+800191C6 0063
+

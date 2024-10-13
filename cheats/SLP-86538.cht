@@ -1,0 +1,17 @@
+; CHTDB: ; [ J.League Jikkyou Winning Eleven 2000 (Japan) {SLP-86538} ]
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A706F2B8 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A706F2B8 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A706F2B8 10000400
+

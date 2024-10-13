@@ -1,0 +1,29 @@
+; CHTDB: ; [ Real Bout Garou Densetsu (Japan) {SLPS-00640} ]
+
+[P1 Max Power]
+Type = Gameshark
+Activation = EndFrame
+80197652 FF3F
+80197666 D100
+
+[P1 Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+80197620 C000
+
+[Infinite HP 2P]
+Type = Gameshark
+Activation = EndFrame
+8019774C C000
+
+[No HP 2P]
+Type = Gameshark
+Activation = EndFrame
+8019774C 0000
+
+[No HP 2P If you press the SELECT button]
+Type = Gameshark
+Activation = EndFrame
+D008A11C FEFF
+8019774C 0000
+

@@ -1,0 +1,14 @@
+; CHTDB: ; [ Simple 1500 Series Vol. 35: The Shooting (Japan) {SLPS-02910} ]
+
+[Shield comeback]
+Type = Gameshark
+Activation = EndFrame
+D0085618 1350
+8008561A 1400
+
+[Decrease the number of aircraft remaining]
+Type = Gameshark
+Activation = EndFrame
+D0085530 1352
+80085532 1400
+

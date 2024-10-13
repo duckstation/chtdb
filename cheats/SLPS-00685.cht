@@ -1,0 +1,40 @@
+; CHTDB: ; [ Star Wars: Dark Forces (Japan) {SLPS-00685} ]
+
+[Infinite Bullets]
+Type = Gameshark
+Activation = EndFrame
+80095108 03E7
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+80095128 0064
+
+[Stage selection]
+Type = Gameshark
+Activation = EndFrame
+80010018 000E
+
+[Invincibility / Armor]
+Type = Gameshark
+Activation = EndFrame
+80095208 03E7
+80095204 03E7
+80095100 0003
+
+[Does not decrease bullet]
+Type = Gameshark
+Activation = EndFrame
+800951E8 03E7
+800951E4 03E7
+800951F8 03E7
+800951F0 03E7
+800951F4 03E7
+800951EC 03E7
+
+[All weapons available]
+Type = Gameshark
+Activation = EndFrame
+50001602 0000
+80095168 FFFF
+

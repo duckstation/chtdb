@@ -1,0 +1,15 @@
+; CHTDB: ; [ Le Mans 24 Hours (Euro) (1999) (Infogrames Europe) {SLES-01362 (0006672), SLES-01362#} <lemans24> ]
+
+[No Fuel Consution And Overheating]
+Type = Gameshark
+Activation = EndFrame
+8008B4C2 3C00
+8007FA36 3C00
+8008B4C6 3C00
+
+[Unlock all]
+Type = Gameshark
+Activation = EndFrame
+50000B02 0000
+80026FA0 0101
+

@@ -1,0 +1,48 @@
+; CHTDB: ; [ Toukidenshou - Angel Eyes (Jpn) (1997) (Tecmo) {SLPS-01168} <tkdensho> ]
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+30097428 007F
+
+[P2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+30097540 007F
+
+[P1 Emotion]
+Type = Gameshark
+Activation = EndFrame
+80097448 5F5F
+
+[P2 Emotion]
+Type = Gameshark
+Activation = EndFrame
+80097560 5F5F
+
+[Stop Character Select Timer]
+Type = Gameshark
+Activation = EndFrame
+A61FFF68 00130014
+
+[Enable All Secret Characters In Vs. Mode]
+Type = Gameshark
+Activation = EndFrame
+90081A68 00FFFFFF
+
+[stage jump 1P]
+Type = Gameshark
+Activation = EndFrame
+300973FF 0000
+
+[P2 strength zero Press L2]
+Type = Gameshark
+Activation = EndFrame
+D00821D0 0001
+30097540 0000
+
+[P2 strength zero]
+Type = Gameshark
+Activation = EndFrame
+30097540 0000
+

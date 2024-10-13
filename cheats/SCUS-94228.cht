@@ -1,0 +1,946 @@
+; CHTDB: ; [ Spyro the Dragon (USA) (1998) (Sony Computer Entertainment America) {SCUS-94228, SCUS-94228CE} <spyro> ]
+
+[Infinite Lives (ASM)]
+Type = Gameshark
+Activation = EndFrame
+A702C86C FFFF0000
+
+[Infinite Health (ASM)]
+Type = Gameshark
+Activation = EndFrame
+A7041010 FFFF0000
+
+[Infinite Time (ASM)]
+Type = Gameshark
+Activation = EndFrame
+A7080E6A AC232400
+
+[Collect Gems From Anywhere (ASM)]
+Type = Gameshark
+Activation = EndFrame
+F407E800 00AA2000
+49006392 00000000
+AAAAAAAA AAAAAAAA
+03000334 AAAAAAAA
+AAAAAAAA AAAAAAAA
+;#Infinite Time
+;8007C110 0A00
+;#Infinite Time On Flying Levels
+;80075840 053C
+;80075908 053C
+;#Infinite Lives
+;8007C100 000F
+;#Infinite Lives
+;8007582C 0009
+;#Infinite Health
+;80078BBC 0003
+;#Infinite Health
+;8007F54C 0003
+
+[Fly Instead of Glide]
+Description = Off (Press R1 + Triangle), On (Press L1 + Triangle)
+Type = Gameshark
+Activation = EndFrame
+D007F032 E7FF
+8007F634 0000
+D007F032 EBFF
+8007F634 0001
+
+[Air Dash Glides]
+Type = Gameshark
+Activation = EndFrame
+80011028 2870
+
+[Always Have Key]
+Type = Gameshark
+Activation = EndFrame
+80075830 0001
+
+[Always Have Super Flame Breath]
+Type = Gameshark
+Activation = EndFrame
+80078768 02DA
+
+[Bad At Jumping]
+Type = Gameshark
+Activation = EndFrame
+80010FEC 16B0
+
+[Bouncy Ledges]
+Type = Gameshark
+Activation = EndFrame
+800110C4 7248
+
+[Dodge Left For Lift]
+Type = Gameshark
+Activation = EndFrame
+800110B4 7248
+
+[Dodge Right For Lift]
+Type = Gameshark
+Activation = EndFrame
+800110B8 7248
+
+[Teleport Code (Press L3 To Store Location, R3 To Warp)]
+Type = Gameshark
+Activation = EndFrame
+D7000000 0200
+C2078A58 000A
+8000C000 0000
+C2078B74 0004
+8000C00C 0000
+00000000 FFFF
+D7000000 0400
+C200C000 000A
+80078A58 0000
+C200C00C 0004
+80078B74 0000
+00000000 FFFF
+
+[Get Gems From Anywhere]
+Type = Gameshark
+Activation = EndFrame
+D007C77C 059A
+8007C780 0016
+D007CA30 059A
+8007CA34 0016
+D007CAB0 059A
+8007CAB4 0016
+D007CAF4 059A
+8007CAF8 0016
+D007CB64 059A
+8007CB68 0016
+D007CBA8 059A
+8007CBAC 0016
+D007CF70 059A
+8007CF74 0016
+D007CFB4 059A
+8007CFB8 0016
+D007D0E4 059A
+8007D0E8 0016
+D007D174 059A
+8007D178 0016
+D007D3D8 059A
+8007D3DC 0016
+D007D940 059A
+8007D944 0016
+D007DA94 059A
+8007DA98 0016
+D007DD00 059A
+8007DD04 0016
+D007EBC4 059A
+8007EBC8 0016
+D007F384 059A
+8007F388 0016
+D007F528 059A
+8007F52C 0016
+D007F9E4 059A
+8007F9E8 0016
+D007FA50 059A
+8007FA54 0016
+D007FC80 059A
+8007FC84 0016
+D007FD0C 059A
+8007FD10 0016
+D007FF40 059A
+8007FF44 0016
+D0081564 059A
+80081568 0016
+D0081820 059A
+80081824 0016
+D0081C3C 059A
+80081C40 0016
+D0081C8C 059A
+80081C90 0016
+D0081CE4 059A
+80081CE8 0016
+D0081FD8 059A
+80081FDC 0016
+D00821BC 059A
+800821C0 0016
+D0082734 059A
+80082738 0016
+
+[Get One of Each to Complete Flight Levels]
+Type = Gameshark
+Activation = EndFrame
+9003CAE4 24020008
+
+[Glide Bonk Or Fall For Lift]
+Type = Gameshark
+Activation = EndFrame
+800110A8 7248
+
+[Glide To Fly]
+Type = Gameshark
+Activation = EndFrame
+800110CC 5294
+
+[Have All 8 Arches in Flight]
+Type = Gameshark
+Activation = EndFrame
+80078638 0008
+
+[Have All 8 Chests in Flight]
+Type = Gameshark
+Activation = EndFrame
+80078634 0008
+
+[Have All 8 Lights in Flight]
+Type = Gameshark
+Activation = EndFrame
+8007863C 0008
+
+[Have All 8 Rings in Flight]
+Type = Gameshark
+Activation = EndFrame
+80078630 0008
+
+[Have All Dragon Eggs]
+Type = Gameshark
+Activation = EndFrame
+80075810 000C
+
+[Have Over 65,000 Jewels]
+Type = Gameshark
+Activation = EndFrame
+80075860 FFFF
+
+[Invincibility]
+Description = First line makes you invulnerable against enemies or electric floors, second line enables you to walk on hazardous water. Nothing can hurt you.
+Type = Gameshark
+Activation = EndFrame
+30078BB8 0005
+80011380 7064
+
+[Moon Jump]
+Type = Gameshark
+Activation = EndFrame
+D0077380 0040
+80078AD8 0000
+
+[Overall Have Freed All Dragons]
+Type = Gameshark
+Activation = EndFrame
+80075750 0045
+
+[PAL2NTSC]
+Type = Gameshark
+Activation = EndFrame
+D0063D28 0008
+30063D26 0040
+
+[Red Spyro]
+Description = Press L2 + Triangle
+Type = Gameshark
+Activation = EndFrame
+D007F032 EEFF
+8007F0F8 0600
+
+[Replace Firebreath with Fairy Breath]
+Type = Gameshark
+Activation = EndFrame
+30078764 0001
+
+[Sixty Frames BETA]
+Type = Gameshark
+Activation = EndFrame
+90012238 24020001
+80012244 0001
+8001A374 0001
+8001A3A8 0001
+8001D684 0001
+8001D6B8 0001
+8001E1A8 0001
+8001E1DC 0001
+8001E624 0001
+8001E658 0001
+8001F0C4 0001
+8001F0F8 0001
+
+[Skidding Spyro]
+Type = Gameshark
+Activation = EndFrame
+8007F484 00E5
+8007F500 1E9B
+
+[Smack Wall For Lift]
+Type = Gameshark
+Activation = EndFrame
+800110C0 7248
+
+[Spyro color changing codes 'RGB' (Check note, important!)]
+Type = Gameshark
+Activation = EndFrame
+30078A80 00??
+30078A81 00??
+30078A82 00??
+30078A83 00??
+
+[Spyro's Ultimate God Mode]
+Description = L1/R1+Triangle On/Off
+Type = Gameshark
+Activation = EndFrame
+D0077380 0014
+80000002 4D43
+D0077380 0018
+80000002 0001
+C0000002 4D43
+30078764 0001
+30078CA4 0001
+00000000 FFFF
+D0000002 0001
+30078CA4 0000
+E00757D8 0001
+30078CA4 0000
+E00757D8 0001
+80000002 0001
+E00757D8 0001
+30078764 0000
+C0000002 4D43
+800758C0 FFFF
+300758C2 00FF
+30078BBC 0003
+80011380 7064
+00000000 FFFF
+D0000002 0001
+80011380 6FB8
+D0000002 4D43
+30078BB8 0005
+E00757D8 0001
+80011380 6FB8
+D0075964 0005
+80000002 4D43
+D0075964 000B
+80000002 4D43
+D0075964 0011
+80000002 4D43
+D0075964 0017
+80000002 4D43
+D0075964 001D
+80000002 4D43
+D0075964 0022
+80000002 4D43
+D0000002 4D43
+90078A80 B4FFAAC8
+D0000002 0001
+90078A80 00000000
+
+[Stiff Animations Spyro]
+Type = Gameshark
+Activation = EndFrame
+80010E28 CDF8
+
+[Super High Jump]
+Type = Gameshark
+Activation = EndFrame
+800110A4 7248
+
+[Super Snappy High Jumps]
+Type = Gameshark
+Activation = EndFrame
+E0078AD0 0005
+20078BB1 0001
+
+[Super Speed (Not all levels)]
+Type = Gameshark
+Activation = EndFrame
+8007F52E 0001
+
+[Walk On Hazardous Water]
+Type = Gameshark
+Activation = EndFrame
+80011380 7064
+
+[Y-Fix]
+Type = Gameshark
+Activation = EndFrame
+A60655D0 00100000
+
+[Alpine Ridge\Have all dragons freed]
+Type = Gameshark
+Activation = EndFrame
+8007DC9C 0004
+
+[Alpine Ridge\Have all stolen treasures]
+Type = Gameshark
+Activation = EndFrame
+8007DDE4 01F4
+
+[Artisans World\Dark Hallow Have All Dragons Free]
+Type = Gameshark
+Activation = EndFrame
+800772E0 0003
+
+[Artisans World\Dark Hollow Have All Stolen Treasures]
+Type = Gameshark
+Activation = EndFrame
+80077428 0064
+
+[Artisans World\Home Have All Dragons Free]
+Type = Gameshark
+Activation = EndFrame
+800772D8 0004
+
+[Artisans World\Home Have All Stolen Treasures]
+Type = Gameshark
+Activation = EndFrame
+80077420 0064
+
+[Artisans World\Stone Hill Have All Dragons Free]
+Type = Gameshark
+Activation = EndFrame
+800772DC 0004
+
+[Artisans World\Stone Hill Have All Stolen Treasures]
+Type = Gameshark
+Activation = EndFrame
+80077424 00C8
+
+[Artisans World\Town Square Have All Dragons Free]
+Type = Gameshark
+Activation = EndFrame
+800772E4 0004
+
+[Artisans World\Town Square Have All Stolen Treasures]
+Type = Gameshark
+Activation = EndFrame
+8007742C 00C8
+
+[Beast Makers World\Home Have All Dragons Free]
+Type = Gameshark
+Activation = EndFrame
+80077320 0002
+
+[Beast Makers World\Home Have All Stolen Treasures]
+Type = Gameshark
+Activation = EndFrame
+80077468 012C
+
+[Beast Makers World\Metalhead Have All Dragons Free]
+Type = Gameshark
+Activation = EndFrame
+80077330 0001
+
+[Beast Makers World\Metalhead Have All Stolen Treasures]
+Type = Gameshark
+Activation = EndFrame
+80077478 01F4
+
+[Beast Makers World\Misty Bog Have All Dragons Free]
+Type = Gameshark
+Activation = EndFrame
+80077328 0004
+
+[Beast Makers World\Misty Bog Have All Stolen Treasures]
+Type = Gameshark
+Activation = EndFrame
+80077470 01F4
+
+[Beast Makers World\Terrace Village Have All Dragons Free]
+Type = Gameshark
+Activation = EndFrame
+80077324 0002
+
+[Beast Makers World\Terrace Village Have All Stolen Treasures]
+Type = Gameshark
+Activation = EndFrame
+8007746C 0190
+
+[Beast Makers World\Tree Tops Have All Stolen Treasures]
+Type = Gameshark
+Activation = EndFrame
+80077474 01F4
+
+[Beast Makers World\Tree Tops Home Have All Dragons Free]
+Type = Gameshark
+Activation = EndFrame
+8007732C 0003
+
+[Beast Makers World\Wild Flight Have All Stolen Treasures]
+Type = Gameshark
+Activation = EndFrame
+8007747C 012C
+
+[Blowhard\Have all dragons freed]
+Type = Gameshark
+Activation = EndFrame
+8007DCA8 0001
+
+[Blowhard\Have all stolen treasures]
+Type = Gameshark
+Activation = EndFrame
+8007DDF0 0190
+
+[Cliff Town\Have all dragons freed]
+Type = Gameshark
+Activation = EndFrame
+8007DC88 0003
+
+[Cliff Town\Have all stolen treasures]
+Type = Gameshark
+Activation = EndFrame
+8007DDD0 0190
+
+[Crash Bandicoot Warped Demo\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800AAEB0 0400
+
+[Crystal Flight\Have all stolen treasures]
+Type = Gameshark
+Activation = EndFrame
+8007DDF4 012C
+
+[Dark Hollow\Have all dragons freed]
+Type = Gameshark
+Activation = EndFrame
+8007DC70 0003
+
+[Dark Hollow\Have all stolen treasures]
+Type = Gameshark
+Activation = EndFrame
+8007DDB8 0064
+
+[Dark Passage\Have all dragons freed]
+Type = Gameshark
+Activation = EndFrame
+8007DCCC 0005
+
+[Dark Passage\Have all stolen treasures]
+Type = Gameshark
+Activation = EndFrame
+8007DE14 01F4
+
+[Doctor Shemp\Have all dragons freed]
+Type = Gameshark
+Activation = EndFrame
+8007DC90 0001
+
+[Doctor Shemp\Have all stolen treasures]
+Type = Gameshark
+Activation = EndFrame
+8007DDD8 012C
+
+[Dream Weavers World\Dark Passage Have All Dragons Free]
+Type = Gameshark
+Activation = EndFrame
+8007733C 0005
+
+[Dream Weavers World\Dark Passage Have All Stolen Treasures]
+Type = Gameshark
+Activation = EndFrame
+80077484 01F4
+
+[Dream Weavers World\Fly Instead Of Glide]
+Type = Gameshark
+Activation = EndFrame
+D0077380 0014
+80078CA4 0001
+D0077380 0018
+80078CA4 0000
+
+[Dream Weavers World\Haunted Towers Have All Dragons Free]
+Type = Gameshark
+Activation = EndFrame
+80077344 0003
+
+[Dream Weavers World\Haunted Towers Have All Stolen Treasures]
+Type = Gameshark
+Activation = EndFrame
+8007748C 01F4
+
+[Dream Weavers World\Home Have All Dragons Free]
+Type = Gameshark
+Activation = EndFrame
+80077338 0003
+
+[Dream Weavers World\Home Have All Stolen Treasures]
+Type = Gameshark
+Activation = EndFrame
+80077480 012C
+
+[Dream Weavers World\Icy Flight All Stolen Treasures]
+Type = Gameshark
+Activation = EndFrame
+80077494 012C
+
+[Dream Weavers World\Invincibility]
+Type = Gameshark
+Activation = EndFrame
+90078BC0 00010001
+
+[Dream Weavers World\Jacques Have All Dragons Free]
+Type = Gameshark
+Activation = EndFrame
+80077348 0002
+
+[Dream Weavers World\Jacques Have All Stolen Treasures]
+Type = Gameshark
+Activation = EndFrame
+80077490 01F4
+
+[Dream Weavers World\Lofty Castle Have All Dragons Free]
+Type = Gameshark
+Activation = EndFrame
+80077340 0003
+
+[Dream Weavers World\Lofty Castle Have All Stolen Treasures]
+Type = Gameshark
+Activation = EndFrame
+80077488 0190
+
+[Dream Weavers World\Super Jump]
+Type = Gameshark
+Activation = EndFrame
+80078BB0 33E7
+
+[Dream Weavers World\Super Speed]
+Type = Gameshark
+Activation = EndFrame
+80078B9E 0001
+
+[Dry Canyon\Have all dragons freed]
+Type = Gameshark
+Activation = EndFrame
+8007DC84 0004
+
+[Dry Canyon\Have all stolen treasures]
+Type = Gameshark
+Activation = EndFrame
+8007DDCC 0190
+
+[Gnorc Cove\Have all dragons freed]
+Type = Gameshark
+Activation = EndFrame
+8007DCE4 0002
+
+[Gnorc Cove\Have all stolen treasures]
+Type = Gameshark
+Activation = EndFrame
+8007DE2C 0190
+
+[Gnorc Gnexus\Have all dragons freed]
+Type = Gameshark
+Activation = EndFrame
+8007DCE0 0002
+
+[Gnorc Gnexus\Have all stolen treasures]
+Type = Gameshark
+Activation = EndFrame
+8007DE28 00C8
+
+[Haunted Towers\Have all dragons freed]
+Type = Gameshark
+Activation = EndFrame
+8007DCD4 0003
+
+[Haunted Towers\Have all stolen treasures]
+Type = Gameshark
+Activation = EndFrame
+8007DE1C 01F4
+
+[Always have\14.000 jewels]
+Type = Gameshark
+Activation = EndFrame
+8007C130 36B0
+
+[Always have\All 8 arches collected]
+Type = Gameshark
+Activation = EndFrame
+8007EFC4 0008
+
+[Always have\All 8 chests found]
+Type = Gameshark
+Activation = EndFrame
+8007EFCC 0008
+
+[Always have\All 8 planes collected]
+Type = Gameshark
+Activation = EndFrame
+8007EFC8 0008
+
+[Always have\All 8 rings collected]
+Type = Gameshark
+Activation = EndFrame
+8007EFC0 0008
+
+[Always have\All dragoneggs found]
+Type = Gameshark
+Activation = EndFrame
+8007C0E4 000C
+
+[Always have\All dragons freed]
+Type = Gameshark
+Activation = EndFrame
+8007C01C 0050
+
+[Always have\All found]
+Type = Gameshark
+Activation = EndFrame
+50000404 0000
+8007EFC0 0008
+
+[Always have\Key]
+Type = Gameshark
+Activation = EndFrame
+8007C104 0001
+
+[High Caves\Have all dragons freed]
+Type = Gameshark
+Activation = EndFrame
+8007DCA0 0003
+
+[High Caves\Have all stolen treasures]
+Type = Gameshark
+Activation = EndFrame
+8007DDE8 01F4
+
+[Home\Have all dragons freed]
+Type = Gameshark
+Activation = EndFrame
+8007DCB0 0002
+
+[Home\Have all dragons freede]
+Type = Gameshark
+Activation = EndFrame
+8007DCC8 0003
+
+[Home\Have all stolen treasures]
+Type = Gameshark
+Activation = EndFrame
+8007DE10 012C
+
+[Ice Cavern\Have all dragons freed]
+Type = Gameshark
+Activation = EndFrame
+8007DC8C 0005
+
+[Ice Cavern\Have all stolen treasures]
+Type = Gameshark
+Activation = EndFrame
+8007DDD4 0190
+
+[Icy Flight\Have all stolen treasures]
+Type = Gameshark
+Activation = EndFrame
+8007DE24 012C
+
+[Jacques\Have all dragons freed]
+Type = Gameshark
+Activation = EndFrame
+8007DCD8 0002
+
+[Jacques\Have all stolen treasures]
+Type = Gameshark
+Activation = EndFrame
+8007DE20 01F4
+
+[Lofty Castle\Have all dragons freed]
+Type = Gameshark
+Activation = EndFrame
+8007DCD0 0003
+
+[Lofty Castle\Have all stolen treasures]
+Type = Gameshark
+Activation = EndFrame
+8007DE18 0190
+
+[Magic Crafters World\Alpine Ridge Have All Dragons Free]
+Type = Gameshark
+Activation = EndFrame
+8007730C 0004
+
+[Magic Crafters World\Alpine Ridge Have All Stolen Treasures]
+Type = Gameshark
+Activation = EndFrame
+80077454 01F4
+
+[Magic Crafters World\Blowhard Have All Dragons Free]
+Type = Gameshark
+Activation = EndFrame
+80077318 0001
+
+[Magic Crafters World\Blowhard Have All Stolen Treasures]
+Type = Gameshark
+Activation = EndFrame
+80077460 0190
+
+[Magic Crafters World\Crystal Flight Have All Stolen Treasures]
+Type = Gameshark
+Activation = EndFrame
+80077464 012C
+
+[Magic Crafters World\High Caves Have All Dragons Free]
+Type = Gameshark
+Activation = EndFrame
+80077310 0003
+
+[Magic Crafters World\High Caves Have All Stolen Treasures]
+Type = Gameshark
+Activation = EndFrame
+80077458 01F4
+
+[Magic Crafters World\Home Have All Dragons Free]
+Type = Gameshark
+Activation = EndFrame
+80077308 0003
+
+[Magic Crafters World\Home Have All Stolen Treasures]
+Type = Gameshark
+Activation = EndFrame
+80077450 012C
+
+[Magic Crafters World\Wizard Peak Have All Dragons Free]
+Type = Gameshark
+Activation = EndFrame
+80077314 0003
+
+[Magic Crafters World\Wizard Peak Have All Stolen Treasures]
+Type = Gameshark
+Activation = EndFrame
+8007745C 01F4
+
+[Metalhead\Have all dragons freed]
+Type = Gameshark
+Activation = EndFrame
+8007DCC0 0001
+
+[Metalhead\Have all stolen treasures]
+Type = Gameshark
+Activation = EndFrame
+8007DE08 01F4
+
+[Misty Bog\Have all dragons freed]
+Type = Gameshark
+Activation = EndFrame
+8007DCB8 0004
+
+[Misty Bog\Have all stolen treasures]
+Type = Gameshark
+Activation = EndFrame
+8007DE00 01F4
+
+[Night Flight\Have all stolen treasures]
+Type = Gameshark
+Activation = EndFrame
+8007DDDC 012C
+
+[Peace Keepers World\Cliff Town Have All Dragons Free]
+Type = Gameshark
+Activation = EndFrame
+800772F8 0003
+
+[Peace Keepers World\Cliff Town Have All Stolen Treasures]
+Type = Gameshark
+Activation = EndFrame
+80077440 0190
+
+[Peace Keepers World\Doctor Shemp Have All Dragons Free]
+Type = Gameshark
+Activation = EndFrame
+80077300 0001
+
+[Peace Keepers World\Doctor Shemp Have All Stolen Treasures]
+Type = Gameshark
+Activation = EndFrame
+80077448 012C
+
+[Peace Keepers World\Dry Canyon Have All Dragons Free]
+Type = Gameshark
+Activation = EndFrame
+800772F4 0004
+
+[Peace Keepers World\Dry Canyon Have All Stolen Treasures]
+Type = Gameshark
+Activation = EndFrame
+8007743C 0190
+
+[Peace Keepers World\Home Have All Dragons Free]
+Type = Gameshark
+Activation = EndFrame
+800772F0 0003
+
+[Peace Keepers World\Home Have All Stolen Treasures]
+Type = Gameshark
+Activation = EndFrame
+80077438 00C8
+
+[Peace Keepers World\Ice Cavern Have All Dragons Free]
+Type = Gameshark
+Activation = EndFrame
+800772FC 0005
+
+[Peace Keepers World\Ice Cavern Have All Stolen Treasures]
+Type = Gameshark
+Activation = EndFrame
+80077444 0190
+
+[Peace Keepers World\Night Flight Have All Stolen Treasures in Flight]
+Type = Gameshark
+Activation = EndFrame
+8007744C 012C
+
+[Stone Hill\Have all dragons freed]
+Type = Gameshark
+Activation = EndFrame
+8007DC6C 0004
+
+[Stone Hill\Have all stolen treasures]
+Type = Gameshark
+Activation = EndFrame
+8007DDB4 00C8
+
+[Terrace Village\Have all dragons freed]
+Type = Gameshark
+Activation = EndFrame
+8007DCB4 0002
+
+[Terrace Village\Have all stolen treasures]
+Type = Gameshark
+Activation = EndFrame
+8007DDFC 0190
+
+[Town Square\Have all dragons freed]
+Type = Gameshark
+Activation = EndFrame
+8007DC74 0004
+
+[Town Square\Have all stolen treasures]
+Type = Gameshark
+Activation = EndFrame
+8007DDBC 00C8
+
+[Tree Tops\Have all stolen treasures]
+Type = Gameshark
+Activation = EndFrame
+8007DE04 01F4
+
+[Tree Tops\Home Have all dragons freed]
+Type = Gameshark
+Activation = EndFrame
+8007DCBC 0003
+
+[Wild Flight\Have all stolen treasures]
+Type = Gameshark
+Activation = EndFrame
+8007DE0C 012C
+
+[Wizard Peak\Have all dragons freed]
+Type = Gameshark
+Activation = EndFrame
+8007DCA4 0003
+
+[Wizard Peak\Have all stolen treasures]
+Type = Gameshark
+Activation = EndFrame
+8007DDEC 01F4
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+8001EDDE 241B
+8001EDDC 0C00
+80033C92 A7BB
+;;******PUGSY NOTE, WTW Info - on the first level you hit a BP on 800442A8 when you touch the wall
+

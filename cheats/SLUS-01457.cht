@@ -1,0 +1,175 @@
+; CHTDB: ; [ The Italian Job (USA) (2002) (Rockstar Games) {SLUS-01457} <italjob> ]
+
+[Infinite Time The Ambassador's Car]
+Type = Gameshark
+Activation = EndFrame
+800F6188 0000
+
+[Infinite Time Meet Camp Freddie Mission]
+Type = Gameshark
+Activation = EndFrame
+800F4F88 0000
+
+[Infinite Time Peaches For Peaches Mission]
+Type = Gameshark
+Activation = EndFrame
+800F70B8 0000
+
+[Infinite Time Special Delivery Mission]
+Type = Gameshark
+Activation = EndFrame
+800F3C94 0000
+
+[Infinite Time Prison Pals Mission]
+Type = Gameshark
+Activation = EndFrame
+800F1B20 0000
+
+[Infinite Time Keeping It Up Mission]
+Type = Gameshark
+Activation = EndFrame
+800F0C08 0000
+
+[Infinite Time Big William's Ride Mission]
+Type = Gameshark
+Activation = EndFrame
+800F6184 0000
+
+[Infinite Time Torino Tours Mission]
+Type = Gameshark
+Activation = EndFrame
+800E7B84 0000
+
+[Infinite Time Mafia Mania Mission]
+Type = Gameshark
+Activation = EndFrame
+800F674C 0000
+
+[Infinite Time Traffic Tape Caper Mission]
+Type = Gameshark
+Activation = EndFrame
+800EFA18 0000
+
+[Infinite Time Interference Mission]
+Type = Gameshark
+Activation = EndFrame
+800F18D0 0000
+
+[Infinite Time Convoy Mission]
+Type = Gameshark
+Activation = EndFrame
+800F8208 0000
+
+[Infinite Time The Getaway Mission]
+Type = Gameshark
+Activation = EndFrame
+800F632C 0000
+
+[Infinite Time Red, White + Blue Mission]
+Type = Gameshark
+Activation = EndFrame
+800E8188 0000
+
+[Infinite Time Home Free Mission]
+Type = Gameshark
+Activation = EndFrame
+800DAA2C 0000
+
+[Unlock All Challenges]
+Type = Gameshark
+Activation = EndFrame
+800A9078 0001
+50000A20 0000
+8009D7D0 0001
+
+[Unlock All Checkpoints]
+Type = Gameshark
+Activation = EndFrame
+50001320 0000
+8009F850 0001
+
+[Unlock All Destructors]
+Type = Gameshark
+Activation = EndFrame
+50001320 0000
+800A0270 0001
+
+[Unlock All Free Ride Cars]
+Type = Gameshark
+Activation = EndFrame
+50000920 0000
+800A93D0 0001
+
+[Unlock All Missions]
+Type = Gameshark
+Activation = EndFrame
+50001020 0000
+800A9908 0001
+
+[Unlock Challenges-Party Play]
+Type = Gameshark
+Activation = EndFrame
+50000A20 0000
+800A4D00 0001
+
+[Unlock Checkpoints-Party Play]
+Type = Gameshark
+Activation = EndFrame
+50001320 0000
+800A4820 0001
+
+[Unlock Destructors-Party Play]
+Type = Gameshark
+Activation = EndFrame
+50001320 0000
+800A4AA0 0001
+
+[Unlock Turin In Free Ride]
+Type = Gameshark
+Activation = EndFrame
+8009D9C0 0001
+
+[Collisions with Buildings cause no damage]
+Type = Gameshark
+Activation = EndFrame
+F4060A8E 00AA1000
+43140000 00001300
+AAAAAAAA AAAAAAAA
+0010AAAA AAAAAAAA
+AAAAAAAA AAAAAAAA
+
+[Drive through mafia/police (police can still nick you)]
+Type = Gameshark
+Activation = EndFrame
+F406244A 00AA1000
+43142110 00000A80
+AAAAAAAA AAAAAAAA
+0010AAAA AAAAAAAA
+AAAAAAAA AAAAAAAA
+
+[Don't get Nicked]
+Type = Gameshark
+Activation = EndFrame
+F407C24E 00AA1000
+02160000 00003800
+AAAAAAAA AAAAAAAA
+0010AAAA AAAAAAAA
+AAAAAAAA AAAAAAAA
+
+[Drive through other vehicles (non-mafia/non-police)]
+Description = Other vehicles on the The Getaway Mission count as background
+Type = Gameshark
+Activation = EndFrame
+F407B8A2 00AA1000
+43142110 00001800
+AAAAAAAA AAAAAAAA
+0010AAAA AAAAAAAA
+AAAAAAAA AAAAAAAA
+
+[Red, White & Blue - Simple Car Loading]
+Type = Gameshark
+Activation = EndFrame
+A7057A36 10401400
+;#Drive through vehicles (Last Level):Ensure it's not enabled when you try and hit the mafia car or you cant finish the game
+;A707AF42 14431000
+

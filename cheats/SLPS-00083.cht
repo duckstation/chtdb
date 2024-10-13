@@ -1,0 +1,34 @@
+; CHTDB: ; [ Zero Divide (Japan) {SLPS-00083} ]
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80110764 00D0
+
+[P2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801114E8 00D0
+80111544 00D0
+
+[P2 No energy]
+Type = Gameshark
+Activation = EndFrame
+801114E8 0000
+80111544 0000
+
+[Use all characters]
+Type = Gameshark
+Activation = EndFrame
+800E7D62 00FF
+
+[Pal-Mode]
+Type = Gameshark
+Activation = EndFrame
+800C44A4 0001
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800E85B0 06F5
+

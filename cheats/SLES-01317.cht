@@ -1,0 +1,83 @@
+; CHTDB: ; [ Virus: It Is Aware (Europe) {SLES-01317} ]
+
+[Infinite Health\Level 1]
+Type = Gameshark
+Activation = EndFrame
+800B873A 00FA
+
+[Infinite Health\Level 2]
+Type = Gameshark
+Activation = EndFrame
+800C0032 00FA
+
+[Infinite Health\Level 3]
+Type = Gameshark
+Activation = EndFrame
+800C1F0A 00FA
+
+[Infinite Health\Level 3 Civil Man]
+Type = Gameshark
+Activation = EndFrame
+800C0CA6 00FA
+
+[Infinite Health\Level 3 Civil Woman]
+Type = Gameshark
+Activation = EndFrame
+800C185A 00FA
+
+[Infinite Health\Level 4]
+Type = Gameshark
+Activation = EndFrame
+800BA89E 00FA
+
+[Infinite Health\Level 5]
+Type = Gameshark
+Activation = EndFrame
+800B79B6 00FA
+
+[Infinite Health\Level 6]
+Type = Gameshark
+Activation = EndFrame
+800BAA46 00FA
+800BB2A2 00FA
+
+[Infinite Health\Level 7]
+Type = Gameshark
+Activation = EndFrame
+800B26CE 00FA
+
+[Infinite Ammmo 48]
+Type = Gameshark
+Activation = EndFrame
+800B728E 7508
+
+[Infinite 9mm Ammo]
+Type = Gameshark
+Activation = EndFrame
+800B7272 F708
+
+[Infinite Flamethrower]
+Type = Gameshark
+Activation = EndFrame
+800B72B0 00C8
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+8002DD3E 2400
+
+[Infinite Electroshock]
+Type = Gameshark
+Activation = EndFrame
+8002DE3E 2400
+
+[Protected]
+Type = Gameshark
+Activation = EndFrame
+800261E0 2400
+
+[Protected fire sphere]
+Type = Gameshark
+Activation = EndFrame
+8002C85C 2400
+

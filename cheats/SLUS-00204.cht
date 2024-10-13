@@ -1,0 +1,7 @@
+; CHTDB: ; [ Road & Track Presents - The Need for Speed (USA) (1996) (Electronic Arts) {SLUS-00204} <nfs> ]
+
+[P1 Speed Always Max]
+Type = Gameshark
+Activation = EndFrame
+8011AB56 00FF
+

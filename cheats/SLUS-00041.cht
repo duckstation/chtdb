@@ -1,0 +1,97 @@
+; CHTDB: ; [ Street Fighter - The Movie (USA) (1995) (Acclaim Entertainment) {SLUS-00041} <sfmovie> ]
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801B759A 0070
+
+[P1 Infinite Super]
+Type = Gameshark
+Activation = EndFrame
+801B76B2 3030
+
+[P2 No Energy]
+Type = Gameshark
+Activation = EndFrame
+801B793A 0000
+
+[P1's Character Ryu]
+Type = Gameshark
+Activation = EndFrame
+801B789E 0000
+
+[P1's Character E. Honda]
+Type = Gameshark
+Activation = EndFrame
+801B789E 0101
+
+[P1's Character Blanka]
+Type = Gameshark
+Activation = EndFrame
+801B789E 0202
+
+[P1's Character Guile]
+Type = Gameshark
+Activation = EndFrame
+801B789E 0303
+
+[P1's Character Ken]
+Type = Gameshark
+Activation = EndFrame
+801B789E 0404
+
+[P1's Character Chun Li]
+Type = Gameshark
+Activation = EndFrame
+801B789E 0505
+
+[P1's Character Zangief]
+Type = Gameshark
+Activation = EndFrame
+801B789E 0606
+
+[P1's Character Akuma]
+Type = Gameshark
+Activation = EndFrame
+801B789E 0707
+
+[P1's Character M.Bison]
+Type = Gameshark
+Activation = EndFrame
+801B789E 0808
+
+[P1's Character Sagat]
+Type = Gameshark
+Activation = EndFrame
+801B789E 0909
+
+[P1's Character Balrog]
+Type = Gameshark
+Activation = EndFrame
+801B789E 0A0A
+
+[P1's Character Vega]
+Type = Gameshark
+Activation = EndFrame
+801B789E 0B0B
+
+[P1's Character Cammy]
+Type = Gameshark
+Activation = EndFrame
+801B789E 0C0C
+
+[P1's Character Sawada]
+Type = Gameshark
+Activation = EndFrame
+801B789E 0D0D
+
+[P1's Character Dee Jay]
+Type = Gameshark
+Activation = EndFrame
+801B789E 0E0E
+
+[Unlock Video Clip Select 'Back-Up' from main menu, then 'Video Clip' to see Chage + Aska's 'Something There' video.]
+Type = Gameshark
+Activation = EndFrame
+301B8AE6 0001
+

@@ -1,0 +1,17 @@
+; CHTDB: ; [ Beast Wars: Transformers (Europe) {SLES-00709} ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800DCB2C 1518
+
+[Infinite Energon]
+Type = Gameshark
+Activation = EndFrame
+800DCCCA 0000
+
+[Score Always At Max]
+Type = Gameshark
+Activation = EndFrame
+800DCCBC FFFF
+

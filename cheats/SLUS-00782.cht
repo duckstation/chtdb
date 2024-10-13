@@ -1,0 +1,22 @@
+; CHTDB: ; [ FIFA 99 (USA) (1998) (Electronic Arts) {SLUS-00782} <fifa99> ]
+
+[Select Away Team Score\9]
+Type = Gameshark
+Activation = EndFrame
+80034D44 0009
+
+[Select Away Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+80034D44 0000
+
+[Select Home Team Score\9]
+Type = Gameshark
+Activation = EndFrame
+80034D40 0009
+
+[Select Home Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+80034D40 0000
+

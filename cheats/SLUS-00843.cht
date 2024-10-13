@@ -1,0 +1,54 @@
+; CHTDB: ; [ Reel Fishing II (USA) (2000) (Natsume) {SLUS-00843} <reelfsh2> ]
+
+[Unlock All Rods]
+Type = Gameshark
+Activation = EndFrame
+900656A8 FFFFFFFF
+300656AC 00FF
+
+[Unlock All Reels]
+Type = Gameshark
+Activation = EndFrame
+800656B0 FFFF
+300656B2 00FF
+
+[Unlock All Rigs]
+Type = Gameshark
+Activation = EndFrame
+900656B4 FFFFFFFF
+300656B8 00FF
+
+[Unlock All Bait]
+Type = Gameshark
+Activation = EndFrame
+900656BC FFFFFFFF
+800656C0 FFFF
+
+[Unlock All Flys]
+Type = Gameshark
+Activation = EndFrame
+900656C4 FFFFFFFF
+800656C8 00FF
+
+[Enable All Fishing Spots]
+Type = Gameshark
+Activation = EndFrame
+90065190 FFFFFFFF
+30065194 0012
+80065196 0315
+90065198 07060504
+9006519C 0B0A0908
+900651A0 13100D0C
+900651A4 00171614
+
+[Have All Fish Caught]
+Type = Gameshark
+Activation = EndFrame
+3006517C 0046
+
+[Start With 99 Fish]
+Type = Gameshark
+Activation = EndFrame
+E0069EA8 0000
+30069EA8 0063
+

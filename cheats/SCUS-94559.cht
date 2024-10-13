@@ -1,0 +1,27 @@
+; CHTDB: ; [ Cool Boarders 4 (USA) (1999) (989 Studios) {SCUS-94559} <coolboa4> ]
+
+[Max Score]
+Type = Gameshark
+Activation = EndFrame
+900A1FC8 000EFFFF
+
+[Perfect Time]
+Type = Gameshark
+Activation = EndFrame
+8004D32A 2400
+
+[Unlock All Mountains]
+Type = Gameshark
+Activation = EndFrame
+3006757C 00FF
+
+[Everything Unlocked]
+Type = Gameshark
+Activation = EndFrame
+50000402 0000
+8006757C FFFF
+30067584 00FF
+30067587 00FF
+50000202 0000
+80067588 FFFF
+

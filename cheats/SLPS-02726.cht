@@ -1,0 +1,12 @@
+; CHTDB: ; [ Simple 1500 Series Vol. 28: The Dungeon RPG (Japan) {SLPS-02726} ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800D4D72 002B
+
+[Level 99]
+Type = Gameshark
+Activation = EndFrame
+800D4D88 0063
+

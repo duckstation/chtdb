@@ -1,0 +1,168 @@
+; CHTDB: ; [ Fear Effect (Germany) {SLES-02168 | SLES-12168 | SLES-22168 | SLES-32168} ]
+
+[Y-Fix]
+Type = Gameshark
+Activation = EndFrame
+8005B234 0000
+
+[Unendlich Munition]
+Type = Gameshark
+Activation = EndFrame
+D003DE74 0002
+8003DE76 3C00
+
+[Unendlich Zeit]
+Type = Gameshark
+Activation = EndFrame
+D0028368 0008
+80028366 3C00
+
+[Keine Angst]
+Type = Gameshark
+Activation = EndFrame
+D0047F54 0068
+80047F56 3C00
+
+[Hana-Alle GegenstäNde]
+Type = Gameshark
+Activation = EndFrame
+A608E112 00000101
+E008E114 0000
+3008E114 0001
+A608E11C 00000101
+A608E11E 00000101
+A608E120 00000101
+A608E122 00000101
+A608E124 00000101
+A608E126 00000101
+A608E128 00000101
+A608E12A 00000101
+A608E12C 00000101
+A608E12E 00000101
+
+[Royce-Alle GegenstäNde]
+Type = Gameshark
+Activation = EndFrame
+A608E196 00000101
+E008E198 0000
+3008E198 0001
+A608E1A0 00000101
+A608E1A2 00000101
+A608E1A4 00000101
+A608E1A6 00000101
+A608E1A8 00000101
+A608E1AA 00000101
+A608E1AC 00000101
+A608E1AE 00000101
+A608E1A0 00000101
+E008E1A2 0000
+3008E1A2 0001
+
+[Deke-Alle GegenstäNde]
+Type = Gameshark
+Activation = EndFrame
+A608E21A 00000101
+E008E21C 0000
+3008E21C 0001
+A608E224 00000101
+A608E226 00000101
+A608E228 00000101
+A608E22A 00000101
+A608E22C 00000101
+A608E22E 00000101
+A608E230 00000101
+A608E232 00000101
+A608E234 00000101
+E008E236 0000
+3008E236 0001
+
+[Hana-Waffen-Codes\Habe Handkanone x2]
+Type = Gameshark
+Activation = EndFrame
+9008E0C8 63630002
+
+[Hana-Waffen-Codes\Habe Smg]
+Type = Gameshark
+Activation = EndFrame
+9008E0CC 63630002
+
+[Hana-Waffen-Codes\Habe Handkanone]
+Type = Gameshark
+Activation = EndFrame
+9008E0D0 63630002
+
+[Hana-Waffen-Codes\Habe Sturmgewehr]
+Type = Gameshark
+Activation = EndFrame
+9008E0D4 00630001
+
+[Hana-Waffen-Codes\Habe Schrotflinte]
+Type = Gameshark
+Activation = EndFrame
+9008E0DC 00630001
+
+[Hana-Waffen-Codes\Habe Mk v Sturm]
+Type = Gameshark
+Activation = EndFrame
+9008E0E0 00630001
+
+[Royce-Waffen-Codes\Habe Handkanone x2]
+Type = Gameshark
+Activation = EndFrame
+9008E14C 63630002
+
+[Royce-Waffen-Codes\Habe Smg]
+Type = Gameshark
+Activation = EndFrame
+9008E150 63630002
+
+[Royce-Waffen-Codes\Habe Handkanone]
+Type = Gameshark
+Activation = EndFrame
+9008E154 63630002
+
+[Royce-Waffen-Codes\Habe Sturmgewehr]
+Type = Gameshark
+Activation = EndFrame
+9008E158 00630001
+
+[Royce-Waffen-Codes\Habe Schrotflinte]
+Type = Gameshark
+Activation = EndFrame
+9008E160 00630001
+
+[Royce-Waffen-Codes\Habe Mk v Sturm]
+Type = Gameshark
+Activation = EndFrame
+9008E164 00630001
+
+[Deke-Waffen-Codes\Habe Handkanone x2]
+Type = Gameshark
+Activation = EndFrame
+9008E1D0 63630002
+
+[Deke-Waffen-Codes\Habe Smg]
+Type = Gameshark
+Activation = EndFrame
+9008E1D4 63630002
+
+[Deke-Waffen-Codes\Habe Handkanone]
+Type = Gameshark
+Activation = EndFrame
+9008E1D8 63630002
+
+[Deke-Waffen-Codes\Habe Sturmgewehr]
+Type = Gameshark
+Activation = EndFrame
+9008E1DC 00630001
+
+[Deke-Waffen-Codes\Habe Schrotflinte]
+Type = Gameshark
+Activation = EndFrame
+9008E1E4 00630001
+
+[Deke-Waffen-Codes\Habe Mk v Sturm]
+Type = Gameshark
+Activation = EndFrame
+9008E1E8 00630001
+

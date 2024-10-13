@@ -1,0 +1,49 @@
+; CHTDB: ; [ Eagle One - Harrier Attack (USA) (1999) (Infogrames) {SLUS-00943} <eagle1> ]
+
+[Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+80038A4E 2400
+
+[Infinite Missiles]
+Type = Gameshark
+Activation = EndFrame
+80018962 2400
+
+[Infinite Rockets]
+Type = Gameshark
+Activation = EndFrame
+8003D40A 2400
+
+[All missions done]
+Type = Gameshark
+Activation = EndFrame
+30111C30 0005
+30111CB0 0005
+30111D30 0005
+30111DB0 0005
+30111E30 0005
+
+[All missions unlocked]
+Type = Gameshark
+Activation = EndFrame
+30112130 0005
+
+[Have all medals]
+Type = Gameshark
+Activation = EndFrame
+80111C22 FF00
+80111C24 00FF
+80111C2A FF00
+80111C2C 00FF
+
+[Invincibility cheat on]
+Type = Gameshark
+Activation = EndFrame
+800DBE4C 0001
+
+[Secret mission open]
+Type = Gameshark
+Activation = EndFrame
+80111E34 0003
+

@@ -1,0 +1,60 @@
+; CHTDB: ; [ MechWarrior 2: 31st Century Combat: Arcade Combat Edition (Europe) {SLES-00340} ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+900D1BB0 00000000
+800D1BB4 0000
+
+[Infinite Weapon 1]
+Type = Gameshark
+Activation = EndFrame
+800D1C26 0064
+
+[Infinite Weapon 2]
+Type = Gameshark
+Activation = EndFrame
+800D1C42 0064
+
+[Infinite Weapon 3]
+Type = Gameshark
+Activation = EndFrame
+800D1C5E 0064
+
+[Infinite Weapon 4]
+Type = Gameshark
+Activation = EndFrame
+800D1C7A 0064
+
+[Infinite Weapon 5]
+Type = Gameshark
+Activation = EndFrame
+800D1C96 0064
+
+[Infinite Weapon 6]
+Type = Gameshark
+Activation = EndFrame
+800D1CB2 0064
+
+[Infinite Weapon 7]
+Type = Gameshark
+Activation = EndFrame
+800D1CCE 0064
+
+[Infinite Weapon 8]
+Type = Gameshark
+Activation = EndFrame
+800D1CEA 0064
+
+[Rapid Fire All Weapons]
+Type = Gameshark
+Activation = EndFrame
+300D1C24 000A
+300D1C40 000A
+300D1C5C 000A
+300D1C78 000A
+300D1C94 000A
+300D1CB0 000A
+300D1CCC 000A
+300D1CE8 000A
+

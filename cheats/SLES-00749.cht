@@ -1,0 +1,17 @@
+; CHTDB: ; [ The Note (Europe) {SLES-00749} ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801FB714 0064
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+801FB6FE 0006
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+801FB6F8 270F
+

@@ -1,0 +1,25 @@
+; CHTDB: ; [ Tiny Toon Adventures - Plucky's Big Adventure (USA) (2001) (Conspiracy Entertainment) {SLUS-01393} <ttoonpba> ]
+
+[Plucky\Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8007E152 03E8
+8007E154 03E8
+
+[Hampton\Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8007D8FA 03E8
+8007D8FC 03E8
+
+[Babs Bunny\Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8007CB12 03E8
+8007CB14 03E8
+
+[Enter Any Combination To Enter Any Locker]
+Type = Gameshark
+Activation = EndFrame
+8006B754 050C
+

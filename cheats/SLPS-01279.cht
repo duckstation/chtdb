@@ -1,0 +1,12 @@
+; CHTDB: ; [ Wizardry: Llylgamyn Saga (Japan) {SLPS-01279} ]
+
+[Have 9999 money]
+Type = Gameshark
+Activation = EndFrame
+800C13FC 270F
+
+[Infinite HP First character]
+Type = Gameshark
+Activation = EndFrame
+800C1F04 001E
+

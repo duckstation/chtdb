@@ -1,0 +1,7 @@
+; CHTDB: ; [ Turnabout (Europe) {SLES-04005} ]
+
+[Always Have 0 Moves]
+Type = Gameshark
+Activation = EndFrame
+8015C234 0000
+

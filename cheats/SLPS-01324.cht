@@ -1,0 +1,27 @@
+; CHTDB: ; [ Thoroughbred Breeder: Sekai Seiha-hen (Japan) {SLPS-01324} ]
+
+[Money Max]
+Type = Gameshark
+Activation = EndFrame
+80018024 FFFF
+
+[Horse Stamina]
+Type = Gameshark
+Activation = EndFrame
+30010070 0063
+
+[Horse Speed]
+Type = Gameshark
+Activation = EndFrame
+3001006F 0063
+
+[Leading force]
+Type = Gameshark
+Activation = EndFrame
+3001006E 0063
+
+[Length of Sueashi]
+Type = Gameshark
+Activation = EndFrame
+30010071 0063
+

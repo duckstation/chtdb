@@ -1,0 +1,50 @@
+; CHTDB: ; [ T Kara Hajimaru Monogatari (Jpn) (1998) (Jaleco) {SLPS-01350} <tkarahaj> ]
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800B63D6 0064
+800B63DA 0064
+
+[Multi-channel fully open]
+Type = Gameshark
+Activation = EndFrame
+30096742 00FF
+3009677B 00FF
+300967B1 00FF
+300967FC 00FF
+3009682A 00FF
+30096843 00FF
+30096857 00FF
+30096859 00FF
+30096867 00FF
+300968D7 00FF
+30096938 00FF
+3009694D 00FF
+300969A2 00FF
+300969CA 00FF
+300969F8 00FF
+30096A2B 00FF
+30096A6C 00FF
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+90089274 000F423F
+
+[Max Status Hero]
+Type = Gameshark
+Activation = EndFrame
+800894F8 03E7
+90089A1C 03E703E7
+90089A3C 63636363
+30089A40 0063
+80089A54 0063
+800894F8 0063
+
+[All Key Item]
+Type = Gameshark
+Activation = EndFrame
+900894FC FFFFFFFF
+80089500 003F
+

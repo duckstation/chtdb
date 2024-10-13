@@ -1,0 +1,25 @@
+; CHTDB: ; [ Dancing Stage featuring TRUE KiSS DESTiNATiON (Jpn) (1999) (Konami) {SLPM-86411 (VX174-J1)} <dsftkd> ]
+
+[P1 Max Point]
+Type = Gameshark
+Activation = EndFrame
+800D6EC4 03E8
+
+[P2 Max Point]
+Type = Gameshark
+Activation = EndFrame
+800D7890 03E8
+
+[P1 Perfect Stage Results]
+Type = Gameshark
+Activation = EndFrame
+800D6ECE 03E7
+800D77C2 03E7
+50000402 0000
+800D77C4 0000
+
+[Unlock All Extras]
+Type = Gameshark
+Activation = EndFrame
+800110D4 0007
+

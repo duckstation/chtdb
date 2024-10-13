@@ -1,0 +1,28 @@
+; CHTDB: ; [ Mille Miglia (Europe) {SLES-02826} ]
+
+[Only One Lap To Race / Always First 3-Laps-race]
+Type = Gameshark
+Activation = EndFrame
+D01F4DFC 0001
+301F4DFC 0003
+
+[Only One Lap To Race / Always First 5-Laps-race]
+Type = Gameshark
+Activation = EndFrame
+D01F4DFC 0001
+301F4DFC 0005
+
+[Only One Lap To Race / Always First 7-Laps-race]
+Type = Gameshark
+Activation = EndFrame
+D01F4DFC 0001
+301F4DFC 0007
+
+[Supercharger-Boost (Press X & Up)]
+Type = Gameshark
+Activation = EndFrame
+D01F4CB8 1040
+801F4598 0190
+D01F4CB8 1040
+801F4E28 09CA
+

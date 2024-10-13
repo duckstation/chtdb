@@ -1,0 +1,39 @@
+; CHTDB: ; [ Memories Off 2nd (Japan) {SLPS-03292 | SLPS-03293 | SLPS-03291} ]
+
+[SPECIAL fully open]
+Type = Gameshark
+Activation = EndFrame
+A7034642 14401000
+
+[Shortcut fully open]
+Type = Gameshark
+Activation = EndFrame
+A703FB86 10601400
+
+[Album fully open]
+Type = Gameshark
+Activation = EndFrame
+A703DD6E 14801000
+A703E29E 14601000
+
+[Save reflection SPECIAL fully open]
+Type = Gameshark
+Activation = EndFrame
+800BEEA0 FFFF
+
+[Save reflection Shortcut fully open]
+Type = Gameshark
+Activation = EndFrame
+800BEEA2 FFFF
+
+[Save reflection Album fully open]
+Type = Gameshark
+Activation = EndFrame
+900BEEA8 FFFFFFFF
+900BEEAC FFFFFFFF
+900BEEB0 FFFFFFFF
+900BEEB4 FFFFFFFF
+900BEEB8 FFFFFFFF
+900BEEBC FFFFFFFF
+900BEEC0 FFFFFFFF
+

@@ -1,0 +1,47 @@
+; CHTDB: ; [ Nobunaga no Yabou: Shouseiroku (Japan) {SLPS-01115} ]
+
+[Money does not decrease even doing construction, agriculture, commercial]
+Type = Gameshark
+Activation = EndFrame
+8002C5B4 0060
+
+[Infinite Hyoro]
+Type = Gameshark
+Activation = EndFrame
+8002C6F2 0060
+
+[It does not reduce supplies of all, even doing the army, transportation, diplomatic and between persons and trafficking]
+Type = Gameshark
+Activation = EndFrame
+8001B21E 0040
+
+[During the war Does not decrease morale]
+Type = Gameshark
+Activation = EndFrame
+801BCD8E 0060
+
+[During the war Does not decrease soldier]
+Type = Gameshark
+Activation = EndFrame
+801BB7E6 0060
+
+[During the war Deadly blow]
+Type = Gameshark
+Activation = EndFrame
+801BB7ED 0000
+
+[All characters common Not reduce combat]
+Type = Gameshark
+Activation = EndFrame
+80084FBE 0060
+
+[All characters common Does not decrease political]
+Type = Gameshark
+Activation = EndFrame
+80084E82 0060
+
+[All characters common It does not decrease Chibo]
+Type = Gameshark
+Activation = EndFrame
+800850FA 0060
+

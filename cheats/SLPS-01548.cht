@@ -1,0 +1,22 @@
+; CHTDB: ; [ Battle Athletess: Daiundoukai GTO (Grand Trial Onnanoco) (Japan) {SLPS-01548} ]
+
+[Infinite Stamina in Ling Pa racing]
+Type = Gameshark
+Activation = EndFrame
+8018E3FC 00FF
+
+[Enemy has no stamina in Ling Pa racing]
+Type = Gameshark
+Activation = EndFrame
+8018D6FC 0000
+
+[Infinite Stamina in Aika racing]
+Type = Gameshark
+Activation = EndFrame
+8018E5FC 00FF
+
+[Enemy has no stamina in Aika racing]
+Type = Gameshark
+Activation = EndFrame
+8018E2FC 0000
+

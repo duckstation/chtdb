@@ -1,0 +1,99 @@
+; CHTDB: ; [ F1 World Grand Prix aka F1 World Grand Prix 2000 (Germany) {SLES-03346} ]
+
+[Arcade-Mode Infinite Tries in Arcade Mode]
+Type = Gameshark
+Activation = EndFrame
+D00BFCCE AC43
+800BFCCD 0000
+
+[Much Money]
+Type = Gameshark
+Activation = EndFrame
+A60293F0 0000D02C
+A60293F2 00000160
+
+[Much Money Minardi]
+Type = Gameshark
+Activation = EndFrame
+A60293F4 0000D02C
+A60293F6 00000160
+
+[Much Money Arrows]
+Type = Gameshark
+Activation = EndFrame
+A60293F8 0000D02C
+A60293FA 00000160
+
+[Much Money Sauber]
+Type = Gameshark
+Activation = EndFrame
+A60293FC 0000D02C
+A60293FE 00000160
+
+[Much Points Bar]
+Type = Gameshark
+Activation = EndFrame
+A6029332 000000AA
+
+[Much Points Minardi]
+Type = Gameshark
+Activation = EndFrame
+A6029334 000000AA
+
+[Much Points Arrows]
+Type = Gameshark
+Activation = EndFrame
+A6029338 000000AA
+
+[Other Drivers do not Score]
+Type = Gameshark
+Activation = EndFrame
+D3029332 0001
+50001502 0000
+80029334 0000
+
+[Other Drivers do not Score Minardi]
+Type = Gameshark
+Activation = EndFrame
+D3029334 0001
+50001502 0000
+80029336 0000
+
+[Other Drivers do not Score Arrows]
+Type = Gameshark
+Activation = EndFrame
+D3029338 0001
+50001502 0000
+8002933A 0000
+
+[Superlicense 100% Starting Field]
+Type = Gameshark
+Activation = EndFrame
+300294B4 0064
+
+[Superlicense 100% Win Duell]
+Type = Gameshark
+Activation = EndFrame
+300294B6 0064
+
+[Superlicense 100% Breaks]
+Type = Gameshark
+Activation = EndFrame
+300294B8 0064
+
+[Superlicense 100% Breaks in Curves]
+Type = Gameshark
+Activation = EndFrame
+300294BA 0064
+
+[Superlicense 100% Complete Lap]
+Type = Gameshark
+Activation = EndFrame
+300294BC 0064
+
+[Superlicense 100% All]
+Type = Gameshark
+Activation = EndFrame
+50000502 0000
+300294B4 0064
+

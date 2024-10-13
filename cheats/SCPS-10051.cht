@@ -1,0 +1,31 @@
+; CHTDB: ; [ XI [sÃ¡i] (Japan) {SCPS-10051} ]
+
+[Infinite Steps Puzzle Mode]
+Type = Gameshark
+Activation = EndFrame
+800E8654 0000
+
+[P1 Infinite Energy Wars mode 1P]
+Type = Gameshark
+Activation = EndFrame
+801776E0 0063
+
+[All Gallery]
+Type = Gameshark
+Activation = EndFrame
+8013223C 0001
+80132240 0001
+80132244 0001
+80132248 0001
+8013224C 0001
+80132250 0001
+80132254 0001
+80132258 0001
+8013225C 0001
+80132260 0001
+80132264 0001
+80132268 0001
+8013226C 0001
+80132270 0001
+80132274 0001
+

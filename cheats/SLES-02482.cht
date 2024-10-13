@@ -1,0 +1,42 @@
+; CHTDB: ; [ Missile Command (Europe) {SLES-02482} ]
+
+[Classic Mode\Infinite Missiles]
+Type = Gameshark
+Activation = EndFrame
+8003263C 0000
+
+[Classic Mode\P1 Max Points]
+Type = Gameshark
+Activation = EndFrame
+8009C95A 3C00
+
+[Classic Mode\P2 Max Points]
+Type = Gameshark
+Activation = EndFrame
+8009C95E 3C00
+
+[Ultimate Mode\Infinite Missiles]
+Type = Gameshark
+Activation = EndFrame
+80059D4C 0000
+8004B734 0000
+80079B58 0000
+
+[Ultimate Mode\Max Score]
+Type = Gameshark
+Activation = EndFrame
+800C2482 3C00
+
+[Ultimate Mode\Max Money]
+Type = Gameshark
+Activation = EndFrame
+800C248E 3C00
+
+[Ultimate Mode\Infinite Specials]
+Type = Gameshark
+Activation = EndFrame
+80059F94 0000
+8005A128 0000
+8005A03C 0000
+8005A1E8 0000
+

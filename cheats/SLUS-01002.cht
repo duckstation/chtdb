@@ -1,0 +1,304 @@
+; CHTDB: ; [ Duke Nukem - Land of the Babes (USA) (2000) (GT Interactive Software) {SLUS-01002} <dukenklb> ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800E9D32 4E20
+
+[Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+800E9F50 4E20
+
+[Infinite Air]
+Type = Gameshark
+Activation = EndFrame
+800E9F52 2F10
+
+[Have Throwing Knife]
+Type = Gameshark
+Activation = EndFrame
+800EA008 0001
+
+[Infinite Throwing Knife Ammo]
+Type = Gameshark
+Activation = EndFrame
+800EA00A 03E7
+
+[Have Handgun]
+Type = Gameshark
+Activation = EndFrame
+800EA010 0001
+
+[Have Super Handgun]
+Type = Gameshark
+Activation = EndFrame
+800EA010 0009
+
+[Infinite Handgun/Super Handgun Ammo]
+Type = Gameshark
+Activation = EndFrame
+800EA012 03E7
+
+[Have Shotgun]
+Type = Gameshark
+Activation = EndFrame
+800EA018 0001
+
+[Have Super Shotgun]
+Type = Gameshark
+Activation = EndFrame
+800EA018 0009
+
+[Infinite Shotgun/Super Shotgun Ammo]
+Type = Gameshark
+Activation = EndFrame
+800EA01A 03E7
+
+[Have Laser Blaster]
+Type = Gameshark
+Activation = EndFrame
+800EA020 0001
+
+[Infinite Laser Blaster Ammo]
+Type = Gameshark
+Activation = EndFrame
+800EA022 03E7
+
+[Have Torpedo Launcher]
+Type = Gameshark
+Activation = EndFrame
+800EA028 0001
+
+[Infinite Torpedo Launcher Ammo]
+Type = Gameshark
+Activation = EndFrame
+800EA02A 03E7
+
+[Have Grenade Launcher]
+Type = Gameshark
+Activation = EndFrame
+800EA030 0001
+
+[Infinite Grenade Launcher Ammo]
+Type = Gameshark
+Activation = EndFrame
+800EA032 03E7
+
+[Have Laser Gatling Gun]
+Type = Gameshark
+Activation = EndFrame
+800EA038 0001
+
+[Infinite Laser Gatling Gun Ammo]
+Type = Gameshark
+Activation = EndFrame
+800EA03A 03E7
+
+[Have Flame Thrower]
+Type = Gameshark
+Activation = EndFrame
+800EA040 0001
+
+[Have Hi-Temp Flame Thrower]
+Type = Gameshark
+Activation = EndFrame
+800EA040 0009
+
+[Infinite Flame Thrower Ammo]
+Type = Gameshark
+Activation = EndFrame
+800EA042 03E7
+
+[Have Rpg]
+Type = Gameshark
+Activation = EndFrame
+800EA048 0001
+
+[Have Incendiary Rpg]
+Type = Gameshark
+Activation = EndFrame
+800EA048 0009
+
+[Infinite Rpg/Incendiary Rpg Ammo]
+Type = Gameshark
+Activation = EndFrame
+800EA04A 03E7
+
+[Have Energy Weapon]
+Type = Gameshark
+Activation = EndFrame
+800EA050 0001
+
+[Have Super Zapper]
+Type = Gameshark
+Activation = EndFrame
+800EA050 0009
+
+[Infinite Energy Weapon/Super Zapper Ammo]
+Type = Gameshark
+Activation = EndFrame
+800EA052 03E7
+
+[Have Mini-Laser Gatling Gun]
+Type = Gameshark
+Activation = EndFrame
+800EA058 0001
+
+[Infinite Mini-Laser Gatling Gun Ammo]
+Type = Gameshark
+Activation = EndFrame
+800EA05A 03E7
+
+[Have Freezer]
+Type = Gameshark
+Activation = EndFrame
+800EA060 0001
+
+[Infinite Freezer Ammo]
+Type = Gameshark
+Activation = EndFrame
+800EA062 03E7
+
+[Have Dynamite]
+Type = Gameshark
+Activation = EndFrame
+800EA068 0001
+
+[Infinite Dynamite Ammo]
+Type = Gameshark
+Activation = EndFrame
+800EA06A 03E7
+
+[Have Pipebomb]
+Type = Gameshark
+Activation = EndFrame
+800EA070 0001
+
+[Infinite Pipebomb Ammo]
+Type = Gameshark
+Activation = EndFrame
+800EA072 03E7
+
+[Have Sniper Rifle]
+Type = Gameshark
+Activation = EndFrame
+800EA078 0001
+
+[Have Super Shotgun?]
+Type = Gameshark
+Activation = EndFrame
+800EA078 0009
+
+[Infinite Sniper Rifle/Super Shotgun? Ammo]
+Type = Gameshark
+Activation = EndFrame
+800EA07A 03E7
+
+[Have Shrinker]
+Type = Gameshark
+Activation = EndFrame
+800EA080 0001
+
+[Infinite Shrinker Ammo]
+Type = Gameshark
+Activation = EndFrame
+800EA082 03E7
+
+[Have Stealth Generator]
+Type = Gameshark
+Activation = EndFrame
+800EA088 0001
+
+[Infinite Stealth Generator Ammo]
+Type = Gameshark
+Activation = EndFrame
+800EA08A 03E7
+
+[Have All Weapons]
+Type = Gameshark
+Activation = EndFrame
+50001708 0000
+800EA008 0009
+
+[Max Ammo-All Weapons]
+Type = Gameshark
+Activation = EndFrame
+50001708 0000
+800EA00A 03E7
+
+[Have Jetpack]
+Type = Gameshark
+Activation = EndFrame
+800EA124 0001
+
+[Infinite Jetpack]
+Type = Gameshark
+Activation = EndFrame
+800EA126 7FFF
+
+[Have Biomask]
+Type = Gameshark
+Activation = EndFrame
+800EA128 0001
+
+[Infinite Biomask]
+Type = Gameshark
+Activation = EndFrame
+800EA12A 7FFF
+
+[Have Goggles]
+Type = Gameshark
+Activation = EndFrame
+800EA12C 0001
+
+[Infinite Goggles]
+Type = Gameshark
+Activation = EndFrame
+800EA12E 7FFF
+
+[Have Steroids]
+Type = Gameshark
+Activation = EndFrame
+800EA130 0001
+
+[Infinite Steroids]
+Type = Gameshark
+Activation = EndFrame
+800EA132 7FFF
+
+[Have Duke's Bio]
+Type = Gameshark
+Activation = EndFrame
+800EA134 0001
+
+[Infinite Duke's Bio]
+Type = Gameshark
+Activation = EndFrame
+800EA136 7FFF
+
+[Have Detonator]
+Type = Gameshark
+Activation = EndFrame
+800EA138 0001
+
+[Infinite Detonators]
+Type = Gameshark
+Activation = EndFrame
+800EA13A 7FFF
+
+[Load Game On Final Level]
+Type = Gameshark
+Activation = EndFrame
+800FE808 000E
+
+[All Levels Unlocked On Load]
+Type = Gameshark
+Activation = EndFrame
+800FE80A 000E
+
+[Enable All Cheats]
+Type = Gameshark
+Activation = EndFrame
+8006FF20 FFFF
+

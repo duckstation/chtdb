@@ -1,0 +1,190 @@
+; CHTDB: ; [ C-12 - Final Resistance (USA) (2002) (Sony Computer Entertainment America) {SCUS-94666} <c12> ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800F38D8 03E8
+
+[Have Shields]
+Type = Gameshark
+Activation = EndFrame
+800F3900 0004
+
+[Infinite Shield]
+Type = Gameshark
+Activation = EndFrame
+800F38E4 03E8
+
+[Walk Through Obstacles/Walls]
+Type = Gameshark
+Activation = EndFrame
+A702D16E 10431000
+A702D13E 10431000
+
+[Pick Up Weapons on Sight]
+Type = Gameshark
+Activation = EndFrame
+A70994BA 14801400
+
+[One Hit Kills]
+Type = Gameshark
+Activation = EndFrame
+A7032AA6 18801000
+
+[Select Level\Test Level]
+Type = Gameshark
+Activation = EndFrame
+300F1520 0000
+
+[Select Level\CC (doesn't load)]
+Type = Gameshark
+Activation = EndFrame
+300F1520 0001
+
+[Select Level\TI]
+Type = Gameshark
+Activation = EndFrame
+300F1520 0002
+
+[Select Level\1A]
+Type = Gameshark
+Activation = EndFrame
+300F1520 0003
+
+[Select Level\2A]
+Type = Gameshark
+Activation = EndFrame
+300F1520 0004
+
+[Select Level\2B]
+Type = Gameshark
+Activation = EndFrame
+300F1520 0005
+
+[Select Level\2C]
+Type = Gameshark
+Activation = EndFrame
+300F1520 0006
+
+[Select Level\2D]
+Type = Gameshark
+Activation = EndFrame
+300F1520 0007
+
+[Select Level\3A]
+Type = Gameshark
+Activation = EndFrame
+300F1520 0008
+
+[Select Level\3B]
+Type = Gameshark
+Activation = EndFrame
+300F1520 0009
+
+[Select Level\3C]
+Type = Gameshark
+Activation = EndFrame
+300F1520 000A
+
+[Select Level\3D]
+Type = Gameshark
+Activation = EndFrame
+300F1520 000B
+
+[Select Level\3E]
+Type = Gameshark
+Activation = EndFrame
+300F1520 000C
+
+[Select Level\3F]
+Type = Gameshark
+Activation = EndFrame
+300F1520 000D
+
+[Select Level\3G]
+Type = Gameshark
+Activation = EndFrame
+300F1520 000E
+
+[Select Level\4A]
+Type = Gameshark
+Activation = EndFrame
+300F1520 000F
+
+[Select Level\4B]
+Type = Gameshark
+Activation = EndFrame
+300F1520 0010
+
+[Select Level\4C]
+Type = Gameshark
+Activation = EndFrame
+300F1520 0011
+
+[Select Level\4D]
+Type = Gameshark
+Activation = EndFrame
+300F1520 0012
+
+[Select Level\4E]
+Type = Gameshark
+Activation = EndFrame
+300F1520 0013
+
+[Select Level\5A]
+Type = Gameshark
+Activation = EndFrame
+300F1520 0014
+
+[Select Level\6A]
+Type = Gameshark
+Activation = EndFrame
+300F1520 0015
+
+[Select Level\6B]
+Type = Gameshark
+Activation = EndFrame
+300F1520 0016
+
+[Select Level\6C (final level)]
+Type = Gameshark
+Activation = EndFrame
+300F1520 0017
+
+[Have All Items]
+Type = Gameshark
+Activation = EndFrame
+50000D04 0000
+800F3900 0063
+50000304 0000
+800F3968 0063
+50000E04 0000
+800F3994 0063
+800F39D4 0063
+50000504 0000
+800F39DC 0063
+50000704 0000
+800F3A00 0063
+800F3A40 0063
+800F3A48 0063
+
+[Have All Coms]
+Type = Gameshark
+Activation = EndFrame
+50000D04 0000
+800F3A4C FF00
+50001404 0000
+800F3AB0 FF00
+50000610 0000
+800F3A6E FF00
+
+[Have All Missions Complete]
+Type = Gameshark
+Activation = EndFrame
+50002304 0000
+800F3B3C 00FF
+50000E04 0000
+800F3BD8 00FF
+800F3C3C 00FF
+800F3C40 00FF
+

@@ -1,0 +1,16 @@
+; CHTDB: ; [ Dreams (Europe) {SLES-00714} ]
+
+[Infinite Health And Mana]
+Type = Gameshark
+Activation = EndFrame
+800A5A86 3FFF
+
+[Cheat Mode Enabled]
+Type = Gameshark
+Activation = EndFrame
+300AA479 0001
+50000702 0000
+800AA48C 0101
+50000602 0000
+800AA49C 0101
+

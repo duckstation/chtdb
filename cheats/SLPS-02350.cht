@@ -1,0 +1,45 @@
+; CHTDB: ; [ Tomba! The Wild Adventures (Jpn) (1999) (Whoopee Camp) {SLPS-02350} <tomba2j> ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+A609E528 01020103
+
+[Infinite Vitality]
+Type = Gameshark
+Activation = EndFrame
+A60A7C10 00030004
+
+[Moon Jump]
+Type = Gameshark
+Activation = EndFrame
+D009F200 0040
+800A7C80 000B
+
+[Maximum AP]
+Type = Gameshark
+Activation = EndFrame
+900C175C 05F5E0FF
+
+[Infinite Life]
+Type = Gameshark
+Activation = EndFrame
+800E9EB6 0008
+
+[Time]
+Type = Gameshark
+Activation = EndFrame
+800C1760 0000
+
+[All Weapon]
+Type = Gameshark
+Activation = EndFrame
+900C199C 01010101
+900C19A0 01010101
+900C19A4 01010101
+
+[Help]
+Type = Gameshark
+Activation = EndFrame
+800C1D1C FFFF
+

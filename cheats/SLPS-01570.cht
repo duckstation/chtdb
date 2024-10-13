@@ -1,0 +1,44 @@
+; CHTDB: ; [ Kamen Rider (Jpn) (1998) (Bandai) {SLPS-01570} <kamenrid> ]
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801057A8 0190
+
+[P2 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80105830 0190
+
+[P2 strength 0]
+Type = Gameshark
+Activation = EndFrame
+80105830 0000
+
+[Hidden characters available]
+Type = Gameshark
+Activation = EndFrame
+300736DC 0003
+
+[Select all Hidden option possible]
+Type = Gameshark
+Activation = EndFrame
+80091344 FFFF
+
+[Does not decrease the number of times the card get]
+Type = Gameshark
+Activation = EndFrame
+800915E8 0063
+
+[Get all albums]
+Type = Gameshark
+Activation = EndFrame
+50000902 0000
+30091A9C 0063
+
+[All acquisition card]
+Type = Gameshark
+Activation = EndFrame
+50006402 0000
+30091AB2 0063
+

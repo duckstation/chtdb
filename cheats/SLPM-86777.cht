@@ -1,0 +1,97 @@
+; CHTDB: ; [ Lunar Wing - Toki o Koeta Seisen (Jpn) (2001) (Shoeisha) {SLPM-86777} <lunarwng> ]
+
+[Character 1 HP 999/999]
+Type = Gameshark
+Activation = EndFrame
+8009208A 03E7
+800920B8 03E7
+
+[Character 1 MP 999/999]
+Type = Gameshark
+Activation = EndFrame
+8009208C 03E7
+800920BA 03E7
+
+[Character 2 Infinite and max HP]
+Type = Gameshark
+Activation = EndFrame
+80092172 03E7
+800921A0 03E7
+
+[Character 3 Infinite and max HP]
+Type = Gameshark
+Activation = EndFrame
+800921E6 03E7
+80092214 03E7
+
+[Character 1 Stats 999]
+Type = Gameshark
+Activation = EndFrame
+90092090 03E703E7
+90092094 03E703E7
+80092096 03E7
+90092098 03E703E7
+
+[All Items 99]
+Type = Gameshark
+Activation = EndFrame
+50000902 0000
+80092042 6363
+
+[MAX money]
+Type = Gameshark
+Activation = EndFrame
+90010598 0001869F
+
+[Level up in combat, and act]
+Type = Gameshark
+Activation = EndFrame
+D003A314 0064
+8003A318 0001
+
+[Love degree MAX Shirufana]
+Type = Gameshark
+Activation = EndFrame
+8001059E 00FF
+
+[Love degree MAX Cecil]
+Type = Gameshark
+Activation = EndFrame
+800105A0 00FF
+
+[Love degree MAX Patty]
+Type = Gameshark
+Activation = EndFrame
+800105A2 00FF
+
+[Love degree MAX Lulu]
+Type = Gameshark
+Activation = EndFrame
+800105A4 00FF
+
+[Love degree MAX Alicia]
+Type = Gameshark
+Activation = EndFrame
+800105A6 00FF
+
+[Love degree MAX Tyrol]
+Type = Gameshark
+Activation = EndFrame
+800105A8 00FF
+
+[Love degree MAX Nelly]
+Type = Gameshark
+Activation = EndFrame
+800105B0 03E7
+
+[Love degree MAX Milka]
+Type = Gameshark
+Activation = EndFrame
+800105B4 03E7
+
+[All Item]
+Type = Gameshark
+Activation = EndFrame
+50007802 0000
+800104A8 6363
+

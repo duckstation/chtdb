@@ -1,0 +1,198 @@
+; CHTDB: ; [ Gran Turismo (Euro) (1998) (Sony Computer Entertainment Europe) {SCES-00984, SCES-00984#} <gt1e> ]
+
+[Quick Arcade-Mode Codes\Highspeed Ring A]
+Type = Gameshark
+Activation = EndFrame
+30081B48 0004
+
+[Quick Arcade-Mode Codes\Highspeed Ring B]
+Type = Gameshark
+Activation = EndFrame
+30081B49 0004
+
+[Quick Arcade-Mode Codes\Highspeed Ring c]
+Type = Gameshark
+Activation = EndFrame
+30081B4A 0004
+
+[Quick Arcade-Mode Codes\Trial Mountain A]
+Type = Gameshark
+Activation = EndFrame
+30081B4C 0004
+
+[Quick Arcade-Mode Codes\Trial Mountain B]
+Type = Gameshark
+Activation = EndFrame
+30081B4D 0004
+
+[Quick Arcade-Mode Codes\Trial Mountain c]
+Type = Gameshark
+Activation = EndFrame
+30081B4E 0004
+
+[Quick Arcade-Mode Codes\Grand Valley East A]
+Type = Gameshark
+Activation = EndFrame
+30081B50 0004
+
+[Quick Arcade-Mode Codes\Grand Valley East B]
+Type = Gameshark
+Activation = EndFrame
+30081B51 0004
+
+[Quick Arcade-Mode Codes\Grand Valley East c]
+Type = Gameshark
+Activation = EndFrame
+30081B52 0004
+
+[Quick Arcade-Mode Codes\Clubman Stage 5 A]
+Type = Gameshark
+Activation = EndFrame
+30081B54 0004
+
+[Quick Arcade-Mode Codes\Clubman Stage 5 B]
+Type = Gameshark
+Activation = EndFrame
+30081B55 0004
+
+[Quick Arcade-Mode Codes\Clubman Stage 5 c]
+Type = Gameshark
+Activation = EndFrame
+30081B56 0004
+
+[Quick Arcade-Mode Codes\Autumn Ring A]
+Type = Gameshark
+Activation = EndFrame
+30081B58 0004
+
+[Quick Arcade-Mode Codes\Autumn Ring B]
+Type = Gameshark
+Activation = EndFrame
+30081B59 0004
+
+[Quick Arcade-Mode Codes\Autumn Ring c]
+Type = Gameshark
+Activation = EndFrame
+30081B5A 0004
+
+[Quick Arcade-Mode Codes\Deep Forest A]
+Type = Gameshark
+Activation = EndFrame
+30081B5C 0004
+
+[Quick Arcade-Mode Codes\Deep Forest B]
+Type = Gameshark
+Activation = EndFrame
+30081B5D 0004
+
+[Quick Arcade-Mode Codes\Deep Forest c]
+Type = Gameshark
+Activation = EndFrame
+30081B5E 0004
+
+[Quick Arcade-Mode Codes\Ss R5 A]
+Type = Gameshark
+Activation = EndFrame
+30081B60 0004
+
+[Quick Arcade-Mode Codes\Ss R5 B]
+Type = Gameshark
+Activation = EndFrame
+30081B61 0004
+
+[Quick Arcade-Mode Codes\Ss R5 c]
+Type = Gameshark
+Activation = EndFrame
+30081B62 0004
+
+[Quick Arcade-Mode Codes\Grand Valley Speedway A]
+Type = Gameshark
+Activation = EndFrame
+30081B64 0004
+
+[Quick Arcade-Mode Codes\Grand Valley Speedway B]
+Type = Gameshark
+Activation = EndFrame
+30081B65 0004
+
+[Quick Arcade-Mode Codes\Grand Valley Speedway c]
+Type = Gameshark
+Activation = EndFrame
+30081B66 0004
+
+[Gran Turismo Codes\100 Million Credits]
+Type = Gameshark
+Activation = EndFrame
+9009B874 05F5E100
+
+[Gran Turismo Codes\100 Million Credits (Press Select in the Start-Area to get the money)]
+Type = Gameshark
+Activation = EndFrame
+D009AADE 0001
+8009B874 E100
+D009AADE 0001
+8009B876 05F5
+
+[Gran Turismo Codes\B-License]
+Type = Gameshark
+Activation = EndFrame
+9009E3C4 03030303
+9009E3C8 03030303
+
+[Gran Turismo Codes\A-License]
+Type = Gameshark
+Activation = EndFrame
+9009E3CC 03030303
+9009E3D0 03030303
+
+[Gran Turismo Codes\A-International License]
+Type = Gameshark
+Activation = EndFrame
+9009E3D4 03030303
+9009E3D8 03030303
+
+[Gt League\Have All Gold Cups And Open Gt Hifi-Mode]
+Type = Gameshark
+Activation = EndFrame
+9009F8DC 01010101
+
+[Special Event\Have Gold Cups]
+Type = Gameshark
+Activation = EndFrame
+9009F8E0 01010101
+8009F8E4 0101
+8009F8EA 0101
+9009F8EC 01010101
+8009F8F0 0101
+
+[Special Event\Always Be First]
+Type = Gameshark
+Activation = EndFrame
+D01B3A7E 001B
+80093BC8 0000
+
+[Special Event\Only One Lap To Race (This code will finish the race as you pass the startline on all two lap races. If you try to race a three lap race you will have only one lap to finish)]
+Type = Gameshark
+Activation = EndFrame
+A60B6700 00000002
+
+[Special Event\Speed Boost-Code. Press R3]
+Type = Gameshark
+Activation = EndFrame
+D00BC016 0002
+800B6DBE 0005
+D00BC016 0002
+800B6D92 0005
+
+[50 FPS (+Re-enable tire smoke, Re-enable rear view mirror)]
+Type = Gameshark
+Activation = EndFrame
+A60B6168 00020001
+A702E560 00020001
+A702AA7C 00020001
+
+[Simulation timescale in Arcade (100% instead of 125%)]
+Type = Gameshark
+Activation = EndFrame
+A7051C80 007D0064
+

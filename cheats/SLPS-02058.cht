@@ -1,0 +1,23 @@
+; CHTDB: ; [ Marionette Company (Jpn) (1999) (Micro Cabin) {SLPS-02058} <marionet> ]
+
+[Infinite Money (60000)]
+Type = Gameshark
+Activation = EndFrame
+800AFD38 EA60
+
+[KIZUNA 999]
+Type = Gameshark
+Activation = EndFrame
+800B0A7A 03E7
+800B0A7C 03E7
+
+[Engineering LV 100]
+Type = Gameshark
+Activation = EndFrame
+800AFEE8 0064
+
+[Part created in 10 minutes]
+Type = Gameshark
+Activation = EndFrame
+A7021BB6 10401000
+

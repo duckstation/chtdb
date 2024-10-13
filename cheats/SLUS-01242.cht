@@ -1,0 +1,111 @@
+; CHTDB: ; [ Disney's Donald Duck - Goin' Quackers (USA) (2000) (Ubi Soft Entertainment Software) {SLUS-01242} <goinquak> ]
+
+[Invincibility against enemies]
+Type = Gameshark
+Activation = EndFrame
+F4074000 00AA5000
+25004116 00000000
+7B41000C 21202002
+AAAA0010 AAAAAAAA
+AAAAAAAA AAAAAAAA
+
+[Forest Edge Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800A7F18 0009
+
+[Dangerous Cliffs Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8009F5F4 0009
+
+[Hueys Track Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800A01F8 0009
+
+[The Gorge Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800A029C 0009
+
+[Bernadettes Peak Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8009AC40 0009
+
+[First Avenue Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800A4A24 0009
+
+[The Roofs Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800A3610 0009
+
+[Deweys Rooftops Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800A093C 0009
+
+[Urban High Rises Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800A18B0 0009
+
+[Beagle Boys Tower Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80099504 0009
+
+[Haunted Hall Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800A2A38 0009
+
+[Earie Alley Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800A179C 0009
+
+[Louies Creepy Corridor Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800A3158 0009
+
+[Ghostly Path Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800A3590 0009
+
+[Magicas Devilish Dome Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80098DB0 0009
+
+[Temples Entrance Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800A2FA8 0009
+
+[Artifact Way Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800A2388 0009
+
+[The Nephews Murky Way Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800A1C20 0009
+
+[Ancient Fate Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800A3AC0 0009
+
+[Ceremonial Room Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800A1168 0009
+

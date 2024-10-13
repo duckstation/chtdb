@@ -1,0 +1,57 @@
+; CHTDB: ; [ X'treme Roller (Europe) {SLES-03433} ]
+
+[Instant win all stages (Press L1 & L2 & R1 & R2)]
+Type = Gameshark
+Activation = EndFrame
+D00995FA F0FF
+3008B3E4 0027
+
+[Only 1 lap to skate / always first]
+Type = Gameshark
+Activation = EndFrame
+D003CD44 0001
+3003CD44 0009
+
+[One long trick for max points, VU & wheels]
+Type = Gameshark
+Activation = EndFrame
+D005B728 0004
+3005B728 00C8
+
+[Infinite Flaming Wheel]
+Type = Gameshark
+Activation = EndFrame
+8008B3B0 0009
+
+[Pots Of Cash]
+Type = Gameshark
+Activation = EndFrame
+D008C46E FBFF
+8008601C FFFF
+
+[Monster Score]
+Type = Gameshark
+Activation = EndFrame
+8008B3A8 FFFF
+
+[One arrow to win stage Extreme Cup]
+Type = Gameshark
+Activation = EndFrame
+D00408E8 0001
+300408E8 0009
+
+[Infinite Time Extreme Cup]
+Type = Gameshark
+Activation = EndFrame
+8008B3BC 9C40
+
+[9 Silver Cups]
+Type = Gameshark
+Activation = EndFrame
+80085F3C 0009
+
+[9 Gold Cups]
+Type = Gameshark
+Activation = EndFrame
+80085F3E 0009
+

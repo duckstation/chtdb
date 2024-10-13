@@ -1,0 +1,81 @@
+; CHTDB: ; [ Cool Boarders 2 (Europe) {SCES-00992} ]
+
+[Extra Tracks]
+Type = Gameshark
+Activation = EndFrame
+8005743C 000A
+
+[Extra Boards]
+Type = Gameshark
+Activation = EndFrame
+80057442 0007
+
+[Enable Extra Characters]
+Type = Gameshark
+Activation = EndFrame
+80057440 FFFF
+
+[Mirror Mode]
+Type = Gameshark
+Activation = EndFrame
+80057444 0001
+
+[Competition Codes\Always First]
+Type = Gameshark
+Activation = EndFrame
+D005FAFE 8CC2
+80130654 0001
+
+[Competition Codes\Stopwatch 00.00.00 & Infinite Checkpoint Time]
+Type = Gameshark
+Activation = EndFrame
+D005CF5E AC22
+3005CF5E 0020
+
+[Competition Codes\Infinite Checkpoint Time Only (Use this or the above one)]
+Type = Gameshark
+Activation = EndFrame
+D005D424 A823
+8005D426 0000
+A605D424 A8230000
+
+[Competition Codes\No Ladybirds]
+Type = Gameshark
+Activation = EndFrame
+D0073ECE A682
+30073ECE 0080
+D0073E0E A682
+30073E0E 0080
+D006962E A602
+3006962E 0000
+
+[Freestyle Codes\Stopwatch 00.00.00 & Infinite Checkpoint Time]
+Type = Gameshark
+Activation = EndFrame
+D005CC56 AC22
+3005CC56 0020
+
+[Freestyle Codes\Infinite Checkpoint Time Only]
+Type = Gameshark
+Activation = EndFrame
+D005D0C8 A823
+8005D0CA 0000
+A605D0C8 A8230000
+
+[Freestyle Codes\A Lot Of Trick Points]
+Type = Gameshark
+Activation = EndFrame
+D0068B70 3800
+50000402 0000
+80068B70 0000
+
+[Freestyle Codes\No Ladybirds]
+Type = Gameshark
+Activation = EndFrame
+D0073C2E A682
+30073C2E 0080
+D00694B6 A602
+300694B6 0000
+D00685E6 A602
+300685E6 0000
+

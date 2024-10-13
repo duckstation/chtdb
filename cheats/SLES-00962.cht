@@ -1,0 +1,27 @@
+; CHTDB: ; [ Broken Helix (Germany) {SLES-00962} ]
+
+[Unendlich Energie]
+Type = Gameshark
+Activation = EndFrame
+8005D44C 0032
+
+[Unendlich Munition]
+Type = Gameshark
+Activation = EndFrame
+8005D43C 0190
+
+[Unendlich Zeit]
+Type = Gameshark
+Activation = EndFrame
+8005D48C 04B0
+
+[Unendlich Item 1]
+Type = Gameshark
+Activation = EndFrame
+30070A73 0009
+
+[Unendlich Item 2]
+Type = Gameshark
+Activation = EndFrame
+30070A75 0009
+

@@ -1,0 +1,10 @@
+; CHTDB: ; [ Over Drivin' DX (Japan) {SLPS-00327} ]
+
+[Sudden stop at a very high speed / Circle button and the SELECT button"]
+Type = Gameshark
+Activation = EndFrame
+D00D9424 0100
+8011AB4A 0055
+D011AED8 0001
+8011AB4A 0000
+

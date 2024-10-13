@@ -1,0 +1,67 @@
+; CHTDB: ; [ Strike Point (USA) (1996) (American Technos) {SLUS-00139} <strikpnt> ]
+
+[P1 Infinite Atg Missiles]
+Type = Gameshark
+Activation = EndFrame
+3011D0BA 0063
+
+[P1 Infinite Ata Missiles]
+Type = Gameshark
+Activation = EndFrame
+3011D0BB 0063
+
+[P1 Infinite Bombs]
+Type = Gameshark
+Activation = EndFrame
+3011D0BC 0063
+
+[P1 Infinite Turbos]
+Type = Gameshark
+Activation = EndFrame
+3011D0BD 0063
+
+[P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8011D0F6 0004
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+9011CFDC 1F001F00
+
+[P2 Infinite Atg Missiles]
+Type = Gameshark
+Activation = EndFrame
+3011D29A 0063
+
+[P2 Infinite Ata Missiles]
+Type = Gameshark
+Activation = EndFrame
+3011D29B 0063
+
+[P2 Infinite Bombs]
+Type = Gameshark
+Activation = EndFrame
+3011D29C 0063
+
+[P2 Infinite Turbos]
+Type = Gameshark
+Activation = EndFrame
+3011D29D 0063
+
+[P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8011D2D6 0004
+
+[P2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+9011D1BC 1F001F00
+
+[Infinite Time (Both Players)]
+Type = Gameshark
+Activation = EndFrame
+800B1014 001F
+

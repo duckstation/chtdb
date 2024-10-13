@@ -1,0 +1,22 @@
+; CHTDB: ; [ Off-World Interceptor Extreme (USA) (1995) (Crystal Dynamics) {SLUS-00020} <offworld> ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+900CD878 002DC6C0
+
+[Infinite Missiles used only one at a time]
+Type = Gameshark
+Activation = EndFrame
+800CD872 1E0A
+
+[Infinite Nitros used only one at a time]
+Type = Gameshark
+Activation = EndFrame
+800CD870 1E01
+
+[Infinite Clones]
+Type = Gameshark
+Activation = EndFrame
+800CD876 0163
+

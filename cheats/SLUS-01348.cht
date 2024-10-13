@@ -1,0 +1,12 @@
+; CHTDB: ; [ Tennis (USA) (2001) (Agetec) {SLUS-01348} <tennis> ]
+
+[P1 Max Wins]
+Type = Gameshark
+Activation = EndFrame
+8017D88E 0003
+
+[P2 Never Wins]
+Type = Gameshark
+Activation = EndFrame
+8017D892 0000
+

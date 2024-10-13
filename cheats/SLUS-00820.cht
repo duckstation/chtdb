@@ -1,0 +1,6898 @@
+; CHTDB: ; [ Echo Night (USA) (1999) (Agetec) {SLUS-00820} <echonght> ]
+
+[Stop Timer]
+Type = Gameshark
+Activation = EndFrame
+8009F904 FFFF
+8009F9C4 FFFF
+
+[Always In Best Condition]
+Type = Gameshark
+Activation = EndFrame
+801A6B50 0005
+
+[No Step Count]
+Type = Gameshark
+Activation = EndFrame
+801A6B4C 0001
+
+[Slow Motion]
+Type = Gameshark
+Activation = EndFrame
+8009F33C 2181
+
+[Select Infinite Slot 01\Nothing]
+Type = Gameshark
+Activation = EndFrame
+901BEBC8 00630000
+
+[Select Infinite Slot 01\Metal Handle]
+Type = Gameshark
+Activation = EndFrame
+901BEBC8 00630001
+
+[Select Infinite Slot 01\Brass Key]
+Type = Gameshark
+Activation = EndFrame
+901BEBC8 00630002
+
+[Select Infinite Slot 01\Red Book]
+Type = Gameshark
+Activation = EndFrame
+901BEBC8 00630003
+
+[Select Infinite Slot 01\Holy Water]
+Type = Gameshark
+Activation = EndFrame
+901BEBC8 00630004
+
+[Select Infinite Slot 01\Small Key]
+Type = Gameshark
+Activation = EndFrame
+901BEBC8 00630005
+
+[Select Infinite Slot 01\Wire Cutter]
+Type = Gameshark
+Activation = EndFrame
+901BEBC8 00630006
+
+[Select Infinite Slot 01\Invitation Letter]
+Type = Gameshark
+Activation = EndFrame
+901BEBC8 00630007
+
+[Select Infinite Slot 01\Iron Key]
+Type = Gameshark
+Activation = EndFrame
+901BEBC8 00630008
+
+[Select Infinite Slot 01\Sailor Medal A]
+Type = Gameshark
+Activation = EndFrame
+901BEBC8 00630009
+
+[Select Infinite Slot 01\Sailor Medal B]
+Type = Gameshark
+Activation = EndFrame
+901BEBC8 0063000A
+
+[Select Infinite Slot 01\Sailor Medal C]
+Type = Gameshark
+Activation = EndFrame
+901BEBC8 0063000B
+
+[Select Infinite Slot 01\Sailor Medal D]
+Type = Gameshark
+Activation = EndFrame
+901BEBC8 0063000C
+
+[Select Infinite Slot 01\Broken Stone]
+Type = Gameshark
+Activation = EndFrame
+901BEBC8 0063000D
+
+[Select Infinite Slot 01\Blue Stone Piece]
+Type = Gameshark
+Activation = EndFrame
+901BEBC8 0063000E
+
+[Select Infinite Slot 01\Winding Key]
+Type = Gameshark
+Activation = EndFrame
+901BEBC8 0063000F
+
+[Select Infinite Slot 01\Glass]
+Type = Gameshark
+Activation = EndFrame
+901BEBC8 00630010
+
+[Select Infinite Slot 01\Curing Potion]
+Type = Gameshark
+Activation = EndFrame
+901BEBC8 00630011
+
+[Select Infinite Slot 01\Wire]
+Type = Gameshark
+Activation = EndFrame
+901BEBC8 00630012
+
+[Select Infinite Slot 01\Athlete's Foot Bot]
+Type = Gameshark
+Activation = EndFrame
+901BEBC8 00630013
+
+[Select Infinite Slot 01\Rubber Gloves]
+Type = Gameshark
+Activation = EndFrame
+901BEBC8 00630014
+
+[Select Infinite Slot 01\Dress Suit]
+Type = Gameshark
+Activation = EndFrame
+901BEBC8 00630015
+
+[Select Infinite Slot 01\Astral Piece]
+Type = Gameshark
+Activation = EndFrame
+901BEBC8 00630016
+
+[Select Infinite Slot 01\Flying Fish Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEBC8 00630017
+
+[Select Infinite Slot 01\Record]
+Type = Gameshark
+Activation = EndFrame
+901BEBC8 00630018
+
+[Select Infinite Slot 01\Knife]
+Type = Gameshark
+Activation = EndFrame
+901BEBC8 00630019
+
+[Select Infinite Slot 01\Comet Book]
+Type = Gameshark
+Activation = EndFrame
+901BEBC8 0063001A
+
+[Select Infinite Slot 01\Film]
+Type = Gameshark
+Activation = EndFrame
+901BEBC8 0063001B
+
+[Select Infinite Slot 01\Crown Piece]
+Type = Gameshark
+Activation = EndFrame
+901BEBC8 0063001C
+
+[Select Infinite Slot 01\Old Book]
+Type = Gameshark
+Activation = EndFrame
+901BEBC8 0063001D
+
+[Select Infinite Slot 01\Prescription]
+Type = Gameshark
+Activation = EndFrame
+901BEBC8 0063001E
+
+[Select Infinite Slot 01\Eye of A Sea Fish]
+Type = Gameshark
+Activation = EndFrame
+901BEBC8 0063001F
+
+[Select Infinite Slot 01\Gear]
+Type = Gameshark
+Activation = EndFrame
+901BEBC8 00630020
+
+[Select Infinite Slot 01\Water Leaf Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEBC8 00630021
+
+[Select Infinite Slot 01\Forest Fire Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEBC8 00630022
+
+[Select Infinite Slot 01\Fire Bird Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEBC8 00630023
+
+[Select Infinite Slot 01\Claim Ticket]
+Type = Gameshark
+Activation = EndFrame
+901BEBC8 00630024
+
+[Select Infinite Slot 01\Kitchen Key]
+Type = Gameshark
+Activation = EndFrame
+901BEBC8 00630025
+
+[Select Infinite Slot 01\Crank]
+Type = Gameshark
+Activation = EndFrame
+901BEBC8 00630026
+
+[Select Infinite Slot 01\Sailor's Documents]
+Type = Gameshark
+Activation = EndFrame
+901BEBC8 00630027
+
+[Select Infinite Slot 01\Engabement Ring]
+Type = Gameshark
+Activation = EndFrame
+901BEBC8 00630028
+
+[Select Infinite Slot 01\Bullet]
+Type = Gameshark
+Activation = EndFrame
+901BEBC8 00630029
+
+[Select Infinite Slot 01\Earring]
+Type = Gameshark
+Activation = EndFrame
+901BEBC8 0063002A
+
+[Select Infinite Slot 01\Music Box]
+Type = Gameshark
+Activation = EndFrame
+901BEBC8 0063002B
+
+[Select Infinite Slot 01\Valve]
+Type = Gameshark
+Activation = EndFrame
+901BEBC8 0063002C
+
+[Select Infinite Slot 01\Piston Key]
+Type = Gameshark
+Activation = EndFrame
+901BEBC8 0063002D
+
+[Select Infinite Slot 01\Engine Room Key]
+Type = Gameshark
+Activation = EndFrame
+901BEBC8 0063002E
+
+[Select Infinite Slot 01\Old Picture]
+Type = Gameshark
+Activation = EndFrame
+901BEBC8 0063002F
+
+[Select Infinite Slot 01\Blue Stone]
+Type = Gameshark
+Activation = EndFrame
+901BEBC8 00630030
+
+[Select Infinite Slot 01\Clock Key]
+Type = Gameshark
+Activation = EndFrame
+901BEBC8 00630031
+
+[Select Infinite Slot 01\Claudia's Doll]
+Type = Gameshark
+Activation = EndFrame
+901BEBC8 00630032
+
+[Select Infinite Slot 01\Antidote]
+Type = Gameshark
+Activation = EndFrame
+901BEBC8 00630033
+
+[Select Infinite Slot 01\Cabinet Key]
+Type = Gameshark
+Activation = EndFrame
+901BEBC8 00630034
+
+[Select Infinite Slot 01\Pendant]
+Type = Gameshark
+Activation = EndFrame
+901BEBC8 00630035
+
+[Select Infinite Slot 01\Cameo]
+Type = Gameshark
+Activation = EndFrame
+901BEBC8 00630036
+
+[Select Infinite Slot 02\Nothing]
+Type = Gameshark
+Activation = EndFrame
+901BEBD0 00630000
+
+[Select Infinite Slot 02\Metal Handle]
+Type = Gameshark
+Activation = EndFrame
+901BEBD0 00630001
+
+[Select Infinite Slot 02\Brass Key]
+Type = Gameshark
+Activation = EndFrame
+901BEBD0 00630002
+
+[Select Infinite Slot 02\Red Book]
+Type = Gameshark
+Activation = EndFrame
+901BEBD0 00630003
+
+[Select Infinite Slot 02\Holy Water]
+Type = Gameshark
+Activation = EndFrame
+901BEBD0 00630004
+
+[Select Infinite Slot 02\Small Key]
+Type = Gameshark
+Activation = EndFrame
+901BEBD0 00630005
+
+[Select Infinite Slot 02\Wire Cutter]
+Type = Gameshark
+Activation = EndFrame
+901BEBD0 00630006
+
+[Select Infinite Slot 02\Invitation Letter]
+Type = Gameshark
+Activation = EndFrame
+901BEBD0 00630007
+
+[Select Infinite Slot 02\Iron Key]
+Type = Gameshark
+Activation = EndFrame
+901BEBD0 00630008
+
+[Select Infinite Slot 02\Sailor Medal A]
+Type = Gameshark
+Activation = EndFrame
+901BEBD0 00630009
+
+[Select Infinite Slot 02\Sailor Medal B]
+Type = Gameshark
+Activation = EndFrame
+901BEBD0 0063000A
+
+[Select Infinite Slot 02\Sailor Medal C]
+Type = Gameshark
+Activation = EndFrame
+901BEBD0 0063000B
+
+[Select Infinite Slot 02\Sailor Medal D]
+Type = Gameshark
+Activation = EndFrame
+901BEBD0 0063000C
+
+[Select Infinite Slot 02\Broken Stone]
+Type = Gameshark
+Activation = EndFrame
+901BEBD0 0063000D
+
+[Select Infinite Slot 02\Blue Stone Piece]
+Type = Gameshark
+Activation = EndFrame
+901BEBD0 0063000E
+
+[Select Infinite Slot 02\Winding Key]
+Type = Gameshark
+Activation = EndFrame
+901BEBD0 0063000F
+
+[Select Infinite Slot 02\Glass]
+Type = Gameshark
+Activation = EndFrame
+901BEBD0 00630010
+
+[Select Infinite Slot 02\Curing Potion]
+Type = Gameshark
+Activation = EndFrame
+901BEBD0 00630011
+
+[Select Infinite Slot 02\Wire]
+Type = Gameshark
+Activation = EndFrame
+901BEBD0 00630012
+
+[Select Infinite Slot 02\Athlete's Foot Bot]
+Type = Gameshark
+Activation = EndFrame
+901BEBD0 00630013
+
+[Select Infinite Slot 02\Rubber Gloves]
+Type = Gameshark
+Activation = EndFrame
+901BEBD0 00630014
+
+[Select Infinite Slot 02\Dress Suit]
+Type = Gameshark
+Activation = EndFrame
+901BEBD0 00630015
+
+[Select Infinite Slot 02\Astral Piece]
+Type = Gameshark
+Activation = EndFrame
+901BEBD0 00630016
+
+[Select Infinite Slot 02\Flying Fish Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEBD0 00630017
+
+[Select Infinite Slot 02\Record]
+Type = Gameshark
+Activation = EndFrame
+901BEBD0 00630018
+
+[Select Infinite Slot 02\Knife]
+Type = Gameshark
+Activation = EndFrame
+901BEBD0 00630019
+
+[Select Infinite Slot 02\Comet Book]
+Type = Gameshark
+Activation = EndFrame
+901BEBD0 0063001A
+
+[Select Infinite Slot 02\Film]
+Type = Gameshark
+Activation = EndFrame
+901BEBD0 0063001B
+
+[Select Infinite Slot 02\Crown Piece]
+Type = Gameshark
+Activation = EndFrame
+901BEBD0 0063001C
+
+[Select Infinite Slot 02\Old Book]
+Type = Gameshark
+Activation = EndFrame
+901BEBD0 0063001D
+
+[Select Infinite Slot 02\Prescription]
+Type = Gameshark
+Activation = EndFrame
+901BEBD0 0063001E
+
+[Select Infinite Slot 02\Eye of A Sea Fish]
+Type = Gameshark
+Activation = EndFrame
+901BEBD0 0063001F
+
+[Select Infinite Slot 02\Gear]
+Type = Gameshark
+Activation = EndFrame
+901BEBD0 00630020
+
+[Select Infinite Slot 02\Water Leaf Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEBD0 00630021
+
+[Select Infinite Slot 02\Forest Fire Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEBD0 00630022
+
+[Select Infinite Slot 02\Fire Bird Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEBD0 00630023
+
+[Select Infinite Slot 02\Claim Ticket]
+Type = Gameshark
+Activation = EndFrame
+901BEBD0 00630024
+
+[Select Infinite Slot 02\Kitchen Key]
+Type = Gameshark
+Activation = EndFrame
+901BEBD0 00630025
+
+[Select Infinite Slot 02\Crank]
+Type = Gameshark
+Activation = EndFrame
+901BEBD0 00630026
+
+[Select Infinite Slot 02\Sailor's Documents]
+Type = Gameshark
+Activation = EndFrame
+901BEBD0 00630027
+
+[Select Infinite Slot 02\Engabement Ring]
+Type = Gameshark
+Activation = EndFrame
+901BEBD0 00630028
+
+[Select Infinite Slot 02\Bullet]
+Type = Gameshark
+Activation = EndFrame
+901BEBD0 00630029
+
+[Select Infinite Slot 02\Earring]
+Type = Gameshark
+Activation = EndFrame
+901BEBD0 0063002A
+
+[Select Infinite Slot 02\Music Box]
+Type = Gameshark
+Activation = EndFrame
+901BEBD0 0063002B
+
+[Select Infinite Slot 02\Valve]
+Type = Gameshark
+Activation = EndFrame
+901BEBD0 0063002C
+
+[Select Infinite Slot 02\Piston Key]
+Type = Gameshark
+Activation = EndFrame
+901BEBD0 0063002D
+
+[Select Infinite Slot 02\Engine Room Key]
+Type = Gameshark
+Activation = EndFrame
+901BEBD0 0063002E
+
+[Select Infinite Slot 02\Old Picture]
+Type = Gameshark
+Activation = EndFrame
+901BEBD0 0063002F
+
+[Select Infinite Slot 02\Blue Stone]
+Type = Gameshark
+Activation = EndFrame
+901BEBD0 00630030
+
+[Select Infinite Slot 02\Clock Key]
+Type = Gameshark
+Activation = EndFrame
+901BEBD0 00630031
+
+[Select Infinite Slot 02\Claudia's Doll]
+Type = Gameshark
+Activation = EndFrame
+901BEBD0 00630032
+
+[Select Infinite Slot 02\Antidote]
+Type = Gameshark
+Activation = EndFrame
+901BEBD0 00630033
+
+[Select Infinite Slot 02\Cabinet Key]
+Type = Gameshark
+Activation = EndFrame
+901BEBD0 00630034
+
+[Select Infinite Slot 02\Pendant]
+Type = Gameshark
+Activation = EndFrame
+901BEBD0 00630035
+
+[Select Infinite Slot 02\Cameo]
+Type = Gameshark
+Activation = EndFrame
+901BEBD0 00630036
+
+[Select Infinite Slot 03\Nothing]
+Type = Gameshark
+Activation = EndFrame
+901BEBD8 00630000
+
+[Select Infinite Slot 03\Metal Handle]
+Type = Gameshark
+Activation = EndFrame
+901BEBD8 00630001
+
+[Select Infinite Slot 03\Brass Key]
+Type = Gameshark
+Activation = EndFrame
+901BEBD8 00630002
+
+[Select Infinite Slot 03\Red Book]
+Type = Gameshark
+Activation = EndFrame
+901BEBD8 00630003
+
+[Select Infinite Slot 03\Holy Water]
+Type = Gameshark
+Activation = EndFrame
+901BEBD8 00630004
+
+[Select Infinite Slot 03\Small Key]
+Type = Gameshark
+Activation = EndFrame
+901BEBD8 00630005
+
+[Select Infinite Slot 03\Wire Cutter]
+Type = Gameshark
+Activation = EndFrame
+901BEBD8 00630006
+
+[Select Infinite Slot 03\Invitation Letter]
+Type = Gameshark
+Activation = EndFrame
+901BEBD8 00630007
+
+[Select Infinite Slot 03\Iron Key]
+Type = Gameshark
+Activation = EndFrame
+901BEBD8 00630008
+
+[Select Infinite Slot 03\Sailor Medal A]
+Type = Gameshark
+Activation = EndFrame
+901BEBD8 00630009
+
+[Select Infinite Slot 03\Sailor Medal B]
+Type = Gameshark
+Activation = EndFrame
+901BEBD8 0063000A
+
+[Select Infinite Slot 03\Sailor Medal C]
+Type = Gameshark
+Activation = EndFrame
+901BEBD8 0063000B
+
+[Select Infinite Slot 03\Sailor Medal D]
+Type = Gameshark
+Activation = EndFrame
+901BEBD8 0063000C
+
+[Select Infinite Slot 03\Broken Stone]
+Type = Gameshark
+Activation = EndFrame
+901BEBD8 0063000D
+
+[Select Infinite Slot 03\Blue Stone Piece]
+Type = Gameshark
+Activation = EndFrame
+901BEBD8 0063000E
+
+[Select Infinite Slot 03\Winding Key]
+Type = Gameshark
+Activation = EndFrame
+901BEBD8 0063000F
+
+[Select Infinite Slot 03\Glass]
+Type = Gameshark
+Activation = EndFrame
+901BEBD8 00630010
+
+[Select Infinite Slot 03\Curing Potion]
+Type = Gameshark
+Activation = EndFrame
+901BEBD8 00630011
+
+[Select Infinite Slot 03\Wire]
+Type = Gameshark
+Activation = EndFrame
+901BEBD8 00630012
+
+[Select Infinite Slot 03\Athlete's Foot Bot]
+Type = Gameshark
+Activation = EndFrame
+901BEBD8 00630013
+
+[Select Infinite Slot 03\Rubber Gloves]
+Type = Gameshark
+Activation = EndFrame
+901BEBD8 00630014
+
+[Select Infinite Slot 03\Dress Suit]
+Type = Gameshark
+Activation = EndFrame
+901BEBD8 00630015
+
+[Select Infinite Slot 03\Astral Piece]
+Type = Gameshark
+Activation = EndFrame
+901BEBD8 00630016
+
+[Select Infinite Slot 03\Flying Fish Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEBD8 00630017
+
+[Select Infinite Slot 03\Record]
+Type = Gameshark
+Activation = EndFrame
+901BEBD8 00630018
+
+[Select Infinite Slot 03\Knife]
+Type = Gameshark
+Activation = EndFrame
+901BEBD8 00630019
+
+[Select Infinite Slot 03\Comet Book]
+Type = Gameshark
+Activation = EndFrame
+901BEBD8 0063001A
+
+[Select Infinite Slot 03\Film]
+Type = Gameshark
+Activation = EndFrame
+901BEBD8 0063001B
+
+[Select Infinite Slot 03\Crown Piece]
+Type = Gameshark
+Activation = EndFrame
+901BEBD8 0063001C
+
+[Select Infinite Slot 03\Old Book]
+Type = Gameshark
+Activation = EndFrame
+901BEBD8 0063001D
+
+[Select Infinite Slot 03\Prescription]
+Type = Gameshark
+Activation = EndFrame
+901BEBD8 0063001E
+
+[Select Infinite Slot 03\Eye of A Sea Fish]
+Type = Gameshark
+Activation = EndFrame
+901BEBD8 0063001F
+
+[Select Infinite Slot 03\Gear]
+Type = Gameshark
+Activation = EndFrame
+901BEBD8 00630020
+
+[Select Infinite Slot 03\Water Leaf Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEBD8 00630021
+
+[Select Infinite Slot 03\Forest Fire Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEBD8 00630022
+
+[Select Infinite Slot 03\Fire Bird Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEBD8 00630023
+
+[Select Infinite Slot 03\Claim Ticket]
+Type = Gameshark
+Activation = EndFrame
+901BEBD8 00630024
+
+[Select Infinite Slot 03\Kitchen Key]
+Type = Gameshark
+Activation = EndFrame
+901BEBD8 00630025
+
+[Select Infinite Slot 03\Crank]
+Type = Gameshark
+Activation = EndFrame
+901BEBD8 00630026
+
+[Select Infinite Slot 03\Sailor's Documents]
+Type = Gameshark
+Activation = EndFrame
+901BEBD8 00630027
+
+[Select Infinite Slot 03\Engabement Ring]
+Type = Gameshark
+Activation = EndFrame
+901BEBD8 00630028
+
+[Select Infinite Slot 03\Bullet]
+Type = Gameshark
+Activation = EndFrame
+901BEBD8 00630029
+
+[Select Infinite Slot 03\Earring]
+Type = Gameshark
+Activation = EndFrame
+901BEBD8 0063002A
+
+[Select Infinite Slot 03\Music Box]
+Type = Gameshark
+Activation = EndFrame
+901BEBD8 0063002B
+
+[Select Infinite Slot 03\Valve]
+Type = Gameshark
+Activation = EndFrame
+901BEBD8 0063002C
+
+[Select Infinite Slot 03\Piston Key]
+Type = Gameshark
+Activation = EndFrame
+901BEBD8 0063002D
+
+[Select Infinite Slot 03\Engine Room Key]
+Type = Gameshark
+Activation = EndFrame
+901BEBD8 0063002E
+
+[Select Infinite Slot 03\Old Picture]
+Type = Gameshark
+Activation = EndFrame
+901BEBD8 0063002F
+
+[Select Infinite Slot 03\Blue Stone]
+Type = Gameshark
+Activation = EndFrame
+901BEBD8 00630030
+
+[Select Infinite Slot 03\Clock Key]
+Type = Gameshark
+Activation = EndFrame
+901BEBD8 00630031
+
+[Select Infinite Slot 03\Claudia's Doll]
+Type = Gameshark
+Activation = EndFrame
+901BEBD8 00630032
+
+[Select Infinite Slot 03\Antidote]
+Type = Gameshark
+Activation = EndFrame
+901BEBD8 00630033
+
+[Select Infinite Slot 03\Cabinet Key]
+Type = Gameshark
+Activation = EndFrame
+901BEBD8 00630034
+
+[Select Infinite Slot 03\Pendant]
+Type = Gameshark
+Activation = EndFrame
+901BEBD8 00630035
+
+[Select Infinite Slot 03\Cameo]
+Type = Gameshark
+Activation = EndFrame
+901BEBD8 00630036
+
+[Select Infinite Slot 04\Nothing]
+Type = Gameshark
+Activation = EndFrame
+901BEBE0 00630000
+
+[Select Infinite Slot 04\Metal Handle]
+Type = Gameshark
+Activation = EndFrame
+901BEBE0 00630001
+
+[Select Infinite Slot 04\Brass Key]
+Type = Gameshark
+Activation = EndFrame
+901BEBE0 00630002
+
+[Select Infinite Slot 04\Red Book]
+Type = Gameshark
+Activation = EndFrame
+901BEBE0 00630003
+
+[Select Infinite Slot 04\Holy Water]
+Type = Gameshark
+Activation = EndFrame
+901BEBE0 00630004
+
+[Select Infinite Slot 04\Small Key]
+Type = Gameshark
+Activation = EndFrame
+901BEBE0 00630005
+
+[Select Infinite Slot 04\Wire Cutter]
+Type = Gameshark
+Activation = EndFrame
+901BEBE0 00630006
+
+[Select Infinite Slot 04\Invitation Letter]
+Type = Gameshark
+Activation = EndFrame
+901BEBE0 00630007
+
+[Select Infinite Slot 04\Iron Key]
+Type = Gameshark
+Activation = EndFrame
+901BEBE0 00630008
+
+[Select Infinite Slot 04\Sailor Medal A]
+Type = Gameshark
+Activation = EndFrame
+901BEBE0 00630009
+
+[Select Infinite Slot 04\Sailor Medal B]
+Type = Gameshark
+Activation = EndFrame
+901BEBE0 0063000A
+
+[Select Infinite Slot 04\Sailor Medal C]
+Type = Gameshark
+Activation = EndFrame
+901BEBE0 0063000B
+
+[Select Infinite Slot 04\Sailor Medal D]
+Type = Gameshark
+Activation = EndFrame
+901BEBE0 0063000C
+
+[Select Infinite Slot 04\Broken Stone]
+Type = Gameshark
+Activation = EndFrame
+901BEBE0 0063000D
+
+[Select Infinite Slot 04\Blue Stone Piece]
+Type = Gameshark
+Activation = EndFrame
+901BEBE0 0063000E
+
+[Select Infinite Slot 04\Winding Key]
+Type = Gameshark
+Activation = EndFrame
+901BEBE0 0063000F
+
+[Select Infinite Slot 04\Glass]
+Type = Gameshark
+Activation = EndFrame
+901BEBE0 00630010
+
+[Select Infinite Slot 04\Curing Potion]
+Type = Gameshark
+Activation = EndFrame
+901BEBE0 00630011
+
+[Select Infinite Slot 04\Wire]
+Type = Gameshark
+Activation = EndFrame
+901BEBE0 00630012
+
+[Select Infinite Slot 04\Athlete's Foot Bot]
+Type = Gameshark
+Activation = EndFrame
+901BEBE0 00630013
+
+[Select Infinite Slot 04\Rubber Gloves]
+Type = Gameshark
+Activation = EndFrame
+901BEBE0 00630014
+
+[Select Infinite Slot 04\Dress Suit]
+Type = Gameshark
+Activation = EndFrame
+901BEBE0 00630015
+
+[Select Infinite Slot 04\Astral Piece]
+Type = Gameshark
+Activation = EndFrame
+901BEBE0 00630016
+
+[Select Infinite Slot 04\Flying Fish Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEBE0 00630017
+
+[Select Infinite Slot 04\Record]
+Type = Gameshark
+Activation = EndFrame
+901BEBE0 00630018
+
+[Select Infinite Slot 04\Knife]
+Type = Gameshark
+Activation = EndFrame
+901BEBE0 00630019
+
+[Select Infinite Slot 04\Comet Book]
+Type = Gameshark
+Activation = EndFrame
+901BEBE0 0063001A
+
+[Select Infinite Slot 04\Film]
+Type = Gameshark
+Activation = EndFrame
+901BEBE0 0063001B
+
+[Select Infinite Slot 04\Crown Piece]
+Type = Gameshark
+Activation = EndFrame
+901BEBE0 0063001C
+
+[Select Infinite Slot 04\Old Book]
+Type = Gameshark
+Activation = EndFrame
+901BEBE0 0063001D
+
+[Select Infinite Slot 04\Prescription]
+Type = Gameshark
+Activation = EndFrame
+901BEBE0 0063001E
+
+[Select Infinite Slot 04\Eye of A Sea Fish]
+Type = Gameshark
+Activation = EndFrame
+901BEBE0 0063001F
+
+[Select Infinite Slot 04\Gear]
+Type = Gameshark
+Activation = EndFrame
+901BEBE0 00630020
+
+[Select Infinite Slot 04\Water Leaf Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEBE0 00630021
+
+[Select Infinite Slot 04\Forest Fire Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEBE0 00630022
+
+[Select Infinite Slot 04\Fire Bird Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEBE0 00630023
+
+[Select Infinite Slot 04\Claim Ticket]
+Type = Gameshark
+Activation = EndFrame
+901BEBE0 00630024
+
+[Select Infinite Slot 04\Kitchen Key]
+Type = Gameshark
+Activation = EndFrame
+901BEBE0 00630025
+
+[Select Infinite Slot 04\Crank]
+Type = Gameshark
+Activation = EndFrame
+901BEBE0 00630026
+
+[Select Infinite Slot 04\Sailor's Documents]
+Type = Gameshark
+Activation = EndFrame
+901BEBE0 00630027
+
+[Select Infinite Slot 04\Engabement Ring]
+Type = Gameshark
+Activation = EndFrame
+901BEBE0 00630028
+
+[Select Infinite Slot 04\Bullet]
+Type = Gameshark
+Activation = EndFrame
+901BEBE0 00630029
+
+[Select Infinite Slot 04\Earring]
+Type = Gameshark
+Activation = EndFrame
+901BEBE0 0063002A
+
+[Select Infinite Slot 04\Music Box]
+Type = Gameshark
+Activation = EndFrame
+901BEBE0 0063002B
+
+[Select Infinite Slot 04\Valve]
+Type = Gameshark
+Activation = EndFrame
+901BEBE0 0063002C
+
+[Select Infinite Slot 04\Piston Key]
+Type = Gameshark
+Activation = EndFrame
+901BEBE0 0063002D
+
+[Select Infinite Slot 04\Engine Room Key]
+Type = Gameshark
+Activation = EndFrame
+901BEBE0 0063002E
+
+[Select Infinite Slot 04\Old Picture]
+Type = Gameshark
+Activation = EndFrame
+901BEBE0 0063002F
+
+[Select Infinite Slot 04\Blue Stone]
+Type = Gameshark
+Activation = EndFrame
+901BEBE0 00630030
+
+[Select Infinite Slot 04\Clock Key]
+Type = Gameshark
+Activation = EndFrame
+901BEBE0 00630031
+
+[Select Infinite Slot 04\Claudia's Doll]
+Type = Gameshark
+Activation = EndFrame
+901BEBE0 00630032
+
+[Select Infinite Slot 04\Antidote]
+Type = Gameshark
+Activation = EndFrame
+901BEBE0 00630033
+
+[Select Infinite Slot 04\Cabinet Key]
+Type = Gameshark
+Activation = EndFrame
+901BEBE0 00630034
+
+[Select Infinite Slot 04\Pendant]
+Type = Gameshark
+Activation = EndFrame
+901BEBE0 00630035
+
+[Select Infinite Slot 04\Cameo]
+Type = Gameshark
+Activation = EndFrame
+901BEBE0 00630036
+
+[Select Infinite Slot 05\Nothing]
+Type = Gameshark
+Activation = EndFrame
+901BEBE8 00630000
+
+[Select Infinite Slot 05\Metal Handle]
+Type = Gameshark
+Activation = EndFrame
+901BEBE8 00630001
+
+[Select Infinite Slot 05\Brass Key]
+Type = Gameshark
+Activation = EndFrame
+901BEBE8 00630002
+
+[Select Infinite Slot 05\Red Book]
+Type = Gameshark
+Activation = EndFrame
+901BEBE8 00630003
+
+[Select Infinite Slot 05\Holy Water]
+Type = Gameshark
+Activation = EndFrame
+901BEBE8 00630004
+
+[Select Infinite Slot 05\Small Key]
+Type = Gameshark
+Activation = EndFrame
+901BEBE8 00630005
+
+[Select Infinite Slot 05\Wire Cutter]
+Type = Gameshark
+Activation = EndFrame
+901BEBE8 00630006
+
+[Select Infinite Slot 05\Invitation Letter]
+Type = Gameshark
+Activation = EndFrame
+901BEBE8 00630007
+
+[Select Infinite Slot 05\Iron Key]
+Type = Gameshark
+Activation = EndFrame
+901BEBE8 00630008
+
+[Select Infinite Slot 05\Sailor Medal A]
+Type = Gameshark
+Activation = EndFrame
+901BEBE8 00630009
+
+[Select Infinite Slot 05\Sailor Medal B]
+Type = Gameshark
+Activation = EndFrame
+901BEBE8 0063000A
+
+[Select Infinite Slot 05\Sailor Medal C]
+Type = Gameshark
+Activation = EndFrame
+901BEBE8 0063000B
+
+[Select Infinite Slot 05\Sailor Medal D]
+Type = Gameshark
+Activation = EndFrame
+901BEBE8 0063000C
+
+[Select Infinite Slot 05\Broken Stone]
+Type = Gameshark
+Activation = EndFrame
+901BEBE8 0063000D
+
+[Select Infinite Slot 05\Blue Stone Piece]
+Type = Gameshark
+Activation = EndFrame
+901BEBE8 0063000E
+
+[Select Infinite Slot 05\Winding Key]
+Type = Gameshark
+Activation = EndFrame
+901BEBE8 0063000F
+
+[Select Infinite Slot 05\Glass]
+Type = Gameshark
+Activation = EndFrame
+901BEBE8 00630010
+
+[Select Infinite Slot 05\Curing Potion]
+Type = Gameshark
+Activation = EndFrame
+901BEBE8 00630011
+
+[Select Infinite Slot 05\Wire]
+Type = Gameshark
+Activation = EndFrame
+901BEBE8 00630012
+
+[Select Infinite Slot 05\Athlete's Foot Bot]
+Type = Gameshark
+Activation = EndFrame
+901BEBE8 00630013
+
+[Select Infinite Slot 05\Rubber Gloves]
+Type = Gameshark
+Activation = EndFrame
+901BEBE8 00630014
+
+[Select Infinite Slot 05\Dress Suit]
+Type = Gameshark
+Activation = EndFrame
+901BEBE8 00630015
+
+[Select Infinite Slot 05\Astral Piece]
+Type = Gameshark
+Activation = EndFrame
+901BEBE8 00630016
+
+[Select Infinite Slot 05\Flying Fish Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEBE8 00630017
+
+[Select Infinite Slot 05\Record]
+Type = Gameshark
+Activation = EndFrame
+901BEBE8 00630018
+
+[Select Infinite Slot 05\Knife]
+Type = Gameshark
+Activation = EndFrame
+901BEBE8 00630019
+
+[Select Infinite Slot 05\Comet Book]
+Type = Gameshark
+Activation = EndFrame
+901BEBE8 0063001A
+
+[Select Infinite Slot 05\Film]
+Type = Gameshark
+Activation = EndFrame
+901BEBE8 0063001B
+
+[Select Infinite Slot 05\Crown Piece]
+Type = Gameshark
+Activation = EndFrame
+901BEBE8 0063001C
+
+[Select Infinite Slot 05\Old Book]
+Type = Gameshark
+Activation = EndFrame
+901BEBE8 0063001D
+
+[Select Infinite Slot 05\Prescription]
+Type = Gameshark
+Activation = EndFrame
+901BEBE8 0063001E
+
+[Select Infinite Slot 05\Eye of A Sea Fish]
+Type = Gameshark
+Activation = EndFrame
+901BEBE8 0063001F
+
+[Select Infinite Slot 05\Gear]
+Type = Gameshark
+Activation = EndFrame
+901BEBE8 00630020
+
+[Select Infinite Slot 05\Water Leaf Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEBE8 00630021
+
+[Select Infinite Slot 05\Forest Fire Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEBE8 00630022
+
+[Select Infinite Slot 05\Fire Bird Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEBE8 00630023
+
+[Select Infinite Slot 05\Claim Ticket]
+Type = Gameshark
+Activation = EndFrame
+901BEBE8 00630024
+
+[Select Infinite Slot 05\Kitchen Key]
+Type = Gameshark
+Activation = EndFrame
+901BEBE8 00630025
+
+[Select Infinite Slot 05\Crank]
+Type = Gameshark
+Activation = EndFrame
+901BEBE8 00630026
+
+[Select Infinite Slot 05\Sailor's Documents]
+Type = Gameshark
+Activation = EndFrame
+901BEBE8 00630027
+
+[Select Infinite Slot 05\Engabement Ring]
+Type = Gameshark
+Activation = EndFrame
+901BEBE8 00630028
+
+[Select Infinite Slot 05\Bullet]
+Type = Gameshark
+Activation = EndFrame
+901BEBE8 00630029
+
+[Select Infinite Slot 05\Earring]
+Type = Gameshark
+Activation = EndFrame
+901BEBE8 0063002A
+
+[Select Infinite Slot 05\Music Box]
+Type = Gameshark
+Activation = EndFrame
+901BEBE8 0063002B
+
+[Select Infinite Slot 05\Valve]
+Type = Gameshark
+Activation = EndFrame
+901BEBE8 0063002C
+
+[Select Infinite Slot 05\Piston Key]
+Type = Gameshark
+Activation = EndFrame
+901BEBE8 0063002D
+
+[Select Infinite Slot 05\Engine Room Key]
+Type = Gameshark
+Activation = EndFrame
+901BEBE8 0063002E
+
+[Select Infinite Slot 05\Old Picture]
+Type = Gameshark
+Activation = EndFrame
+901BEBE8 0063002F
+
+[Select Infinite Slot 05\Blue Stone]
+Type = Gameshark
+Activation = EndFrame
+901BEBE8 00630030
+
+[Select Infinite Slot 05\Clock Key]
+Type = Gameshark
+Activation = EndFrame
+901BEBE8 00630031
+
+[Select Infinite Slot 05\Claudia's Doll]
+Type = Gameshark
+Activation = EndFrame
+901BEBE8 00630032
+
+[Select Infinite Slot 05\Antidote]
+Type = Gameshark
+Activation = EndFrame
+901BEBE8 00630033
+
+[Select Infinite Slot 05\Cabinet Key]
+Type = Gameshark
+Activation = EndFrame
+901BEBE8 00630034
+
+[Select Infinite Slot 05\Pendant]
+Type = Gameshark
+Activation = EndFrame
+901BEBE8 00630035
+
+[Select Infinite Slot 05\Cameo]
+Type = Gameshark
+Activation = EndFrame
+901BEBE8 00630036
+
+[Select Infinite Slot 06\Nothing]
+Type = Gameshark
+Activation = EndFrame
+901BEBF0 00630000
+
+[Select Infinite Slot 06\Metal Handle]
+Type = Gameshark
+Activation = EndFrame
+901BEBF0 00630001
+
+[Select Infinite Slot 06\Brass Key]
+Type = Gameshark
+Activation = EndFrame
+901BEBF0 00630002
+
+[Select Infinite Slot 06\Red Book]
+Type = Gameshark
+Activation = EndFrame
+901BEBF0 00630003
+
+[Select Infinite Slot 06\Holy Water]
+Type = Gameshark
+Activation = EndFrame
+901BEBF0 00630004
+
+[Select Infinite Slot 06\Small Key]
+Type = Gameshark
+Activation = EndFrame
+901BEBF0 00630005
+
+[Select Infinite Slot 06\Wire Cutter]
+Type = Gameshark
+Activation = EndFrame
+901BEBF0 00630006
+
+[Select Infinite Slot 06\Invitation Letter]
+Type = Gameshark
+Activation = EndFrame
+901BEBF0 00630007
+
+[Select Infinite Slot 06\Iron Key]
+Type = Gameshark
+Activation = EndFrame
+901BEBF0 00630008
+
+[Select Infinite Slot 06\Sailor Medal A]
+Type = Gameshark
+Activation = EndFrame
+901BEBF0 00630009
+
+[Select Infinite Slot 06\Sailor Medal B]
+Type = Gameshark
+Activation = EndFrame
+901BEBF0 0063000A
+
+[Select Infinite Slot 06\Sailor Medal C]
+Type = Gameshark
+Activation = EndFrame
+901BEBF0 0063000B
+
+[Select Infinite Slot 06\Sailor Medal D]
+Type = Gameshark
+Activation = EndFrame
+901BEBF0 0063000C
+
+[Select Infinite Slot 06\Broken Stone]
+Type = Gameshark
+Activation = EndFrame
+901BEBF0 0063000D
+
+[Select Infinite Slot 06\Blue Stone Piece]
+Type = Gameshark
+Activation = EndFrame
+901BEBF0 0063000E
+
+[Select Infinite Slot 06\Winding Key]
+Type = Gameshark
+Activation = EndFrame
+901BEBF0 0063000F
+
+[Select Infinite Slot 06\Glass]
+Type = Gameshark
+Activation = EndFrame
+901BEBF0 00630010
+
+[Select Infinite Slot 06\Curing Potion]
+Type = Gameshark
+Activation = EndFrame
+901BEBF0 00630011
+
+[Select Infinite Slot 06\Wire]
+Type = Gameshark
+Activation = EndFrame
+901BEBF0 00630012
+
+[Select Infinite Slot 06\Athlete's Foot Bot]
+Type = Gameshark
+Activation = EndFrame
+901BEBF0 00630013
+
+[Select Infinite Slot 06\Rubber Gloves]
+Type = Gameshark
+Activation = EndFrame
+901BEBF0 00630014
+
+[Select Infinite Slot 06\Dress Suit]
+Type = Gameshark
+Activation = EndFrame
+901BEBF0 00630015
+
+[Select Infinite Slot 06\Astral Piece]
+Type = Gameshark
+Activation = EndFrame
+901BEBF0 00630016
+
+[Select Infinite Slot 06\Flying Fish Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEBF0 00630017
+
+[Select Infinite Slot 06\Record]
+Type = Gameshark
+Activation = EndFrame
+901BEBF0 00630018
+
+[Select Infinite Slot 06\Knife]
+Type = Gameshark
+Activation = EndFrame
+901BEBF0 00630019
+
+[Select Infinite Slot 06\Comet Book]
+Type = Gameshark
+Activation = EndFrame
+901BEBF0 0063001A
+
+[Select Infinite Slot 06\Film]
+Type = Gameshark
+Activation = EndFrame
+901BEBF0 0063001B
+
+[Select Infinite Slot 06\Crown Piece]
+Type = Gameshark
+Activation = EndFrame
+901BEBF0 0063001C
+
+[Select Infinite Slot 06\Old Book]
+Type = Gameshark
+Activation = EndFrame
+901BEBF0 0063001D
+
+[Select Infinite Slot 06\Prescription]
+Type = Gameshark
+Activation = EndFrame
+901BEBF0 0063001E
+
+[Select Infinite Slot 06\Eye of A Sea Fish]
+Type = Gameshark
+Activation = EndFrame
+901BEBF0 0063001F
+
+[Select Infinite Slot 06\Gear]
+Type = Gameshark
+Activation = EndFrame
+901BEBF0 00630020
+
+[Select Infinite Slot 06\Water Leaf Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEBF0 00630021
+
+[Select Infinite Slot 06\Forest Fire Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEBF0 00630022
+
+[Select Infinite Slot 06\Fire Bird Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEBF0 00630023
+
+[Select Infinite Slot 06\Claim Ticket]
+Type = Gameshark
+Activation = EndFrame
+901BEBF0 00630024
+
+[Select Infinite Slot 06\Kitchen Key]
+Type = Gameshark
+Activation = EndFrame
+901BEBF0 00630025
+
+[Select Infinite Slot 06\Crank]
+Type = Gameshark
+Activation = EndFrame
+901BEBF0 00630026
+
+[Select Infinite Slot 06\Sailor's Documents]
+Type = Gameshark
+Activation = EndFrame
+901BEBF0 00630027
+
+[Select Infinite Slot 06\Engabement Ring]
+Type = Gameshark
+Activation = EndFrame
+901BEBF0 00630028
+
+[Select Infinite Slot 06\Bullet]
+Type = Gameshark
+Activation = EndFrame
+901BEBF0 00630029
+
+[Select Infinite Slot 06\Earring]
+Type = Gameshark
+Activation = EndFrame
+901BEBF0 0063002A
+
+[Select Infinite Slot 06\Music Box]
+Type = Gameshark
+Activation = EndFrame
+901BEBF0 0063002B
+
+[Select Infinite Slot 06\Valve]
+Type = Gameshark
+Activation = EndFrame
+901BEBF0 0063002C
+
+[Select Infinite Slot 06\Piston Key]
+Type = Gameshark
+Activation = EndFrame
+901BEBF0 0063002D
+
+[Select Infinite Slot 06\Engine Room Key]
+Type = Gameshark
+Activation = EndFrame
+901BEBF0 0063002E
+
+[Select Infinite Slot 06\Old Picture]
+Type = Gameshark
+Activation = EndFrame
+901BEBF0 0063002F
+
+[Select Infinite Slot 06\Blue Stone]
+Type = Gameshark
+Activation = EndFrame
+901BEBF0 00630030
+
+[Select Infinite Slot 06\Clock Key]
+Type = Gameshark
+Activation = EndFrame
+901BEBF0 00630031
+
+[Select Infinite Slot 06\Claudia's Doll]
+Type = Gameshark
+Activation = EndFrame
+901BEBF0 00630032
+
+[Select Infinite Slot 06\Antidote]
+Type = Gameshark
+Activation = EndFrame
+901BEBF0 00630033
+
+[Select Infinite Slot 06\Cabinet Key]
+Type = Gameshark
+Activation = EndFrame
+901BEBF0 00630034
+
+[Select Infinite Slot 06\Pendant]
+Type = Gameshark
+Activation = EndFrame
+901BEBF0 00630035
+
+[Select Infinite Slot 06\Cameo]
+Type = Gameshark
+Activation = EndFrame
+901BEBF0 00630036
+
+[Select Infinite Slot 07\Nothing]
+Type = Gameshark
+Activation = EndFrame
+901BEBF8 00630000
+
+[Select Infinite Slot 07\Metal Handle]
+Type = Gameshark
+Activation = EndFrame
+901BEBF8 00630001
+
+[Select Infinite Slot 07\Brass Key]
+Type = Gameshark
+Activation = EndFrame
+901BEBF8 00630002
+
+[Select Infinite Slot 07\Red Book]
+Type = Gameshark
+Activation = EndFrame
+901BEBF8 00630003
+
+[Select Infinite Slot 07\Holy Water]
+Type = Gameshark
+Activation = EndFrame
+901BEBF8 00630004
+
+[Select Infinite Slot 07\Small Key]
+Type = Gameshark
+Activation = EndFrame
+901BEBF8 00630005
+
+[Select Infinite Slot 07\Wire Cutter]
+Type = Gameshark
+Activation = EndFrame
+901BEBF8 00630006
+
+[Select Infinite Slot 07\Invitation Letter]
+Type = Gameshark
+Activation = EndFrame
+901BEBF8 00630007
+
+[Select Infinite Slot 07\Iron Key]
+Type = Gameshark
+Activation = EndFrame
+901BEBF8 00630008
+
+[Select Infinite Slot 07\Sailor Medal A]
+Type = Gameshark
+Activation = EndFrame
+901BEBF8 00630009
+
+[Select Infinite Slot 07\Sailor Medal B]
+Type = Gameshark
+Activation = EndFrame
+901BEBF8 0063000A
+
+[Select Infinite Slot 07\Sailor Medal C]
+Type = Gameshark
+Activation = EndFrame
+901BEBF8 0063000B
+
+[Select Infinite Slot 07\Sailor Medal D]
+Type = Gameshark
+Activation = EndFrame
+901BEBF8 0063000C
+
+[Select Infinite Slot 07\Broken Stone]
+Type = Gameshark
+Activation = EndFrame
+901BEBF8 0063000D
+
+[Select Infinite Slot 07\Blue Stone Piece]
+Type = Gameshark
+Activation = EndFrame
+901BEBF8 0063000E
+
+[Select Infinite Slot 07\Winding Key]
+Type = Gameshark
+Activation = EndFrame
+901BEBF8 0063000F
+
+[Select Infinite Slot 07\Glass]
+Type = Gameshark
+Activation = EndFrame
+901BEBF8 00630010
+
+[Select Infinite Slot 07\Curing Potion]
+Type = Gameshark
+Activation = EndFrame
+901BEBF8 00630011
+
+[Select Infinite Slot 07\Wire]
+Type = Gameshark
+Activation = EndFrame
+901BEBF8 00630012
+
+[Select Infinite Slot 07\Athlete's Foot Bot]
+Type = Gameshark
+Activation = EndFrame
+901BEBF8 00630013
+
+[Select Infinite Slot 07\Rubber Gloves]
+Type = Gameshark
+Activation = EndFrame
+901BEBF8 00630014
+
+[Select Infinite Slot 07\Dress Suit]
+Type = Gameshark
+Activation = EndFrame
+901BEBF8 00630015
+
+[Select Infinite Slot 07\Astral Piece]
+Type = Gameshark
+Activation = EndFrame
+901BEBF8 00630016
+
+[Select Infinite Slot 07\Flying Fish Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEBF8 00630017
+
+[Select Infinite Slot 07\Record]
+Type = Gameshark
+Activation = EndFrame
+901BEBF8 00630018
+
+[Select Infinite Slot 07\Knife]
+Type = Gameshark
+Activation = EndFrame
+901BEBF8 00630019
+
+[Select Infinite Slot 07\Comet Book]
+Type = Gameshark
+Activation = EndFrame
+901BEBF8 0063001A
+
+[Select Infinite Slot 07\Film]
+Type = Gameshark
+Activation = EndFrame
+901BEBF8 0063001B
+
+[Select Infinite Slot 07\Crown Piece]
+Type = Gameshark
+Activation = EndFrame
+901BEBF8 0063001C
+
+[Select Infinite Slot 07\Old Book]
+Type = Gameshark
+Activation = EndFrame
+901BEBF8 0063001D
+
+[Select Infinite Slot 07\Prescription]
+Type = Gameshark
+Activation = EndFrame
+901BEBF8 0063001E
+
+[Select Infinite Slot 07\Eye of A Sea Fish]
+Type = Gameshark
+Activation = EndFrame
+901BEBF8 0063001F
+
+[Select Infinite Slot 07\Gear]
+Type = Gameshark
+Activation = EndFrame
+901BEBF8 00630020
+
+[Select Infinite Slot 07\Water Leaf Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEBF8 00630021
+
+[Select Infinite Slot 07\Forest Fire Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEBF8 00630022
+
+[Select Infinite Slot 07\Fire Bird Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEBF8 00630023
+
+[Select Infinite Slot 07\Claim Ticket]
+Type = Gameshark
+Activation = EndFrame
+901BEBF8 00630024
+
+[Select Infinite Slot 07\Kitchen Key]
+Type = Gameshark
+Activation = EndFrame
+901BEBF8 00630025
+
+[Select Infinite Slot 07\Crank]
+Type = Gameshark
+Activation = EndFrame
+901BEBF8 00630026
+
+[Select Infinite Slot 07\Sailor's Documents]
+Type = Gameshark
+Activation = EndFrame
+901BEBF8 00630027
+
+[Select Infinite Slot 07\Engabement Ring]
+Type = Gameshark
+Activation = EndFrame
+901BEBF8 00630028
+
+[Select Infinite Slot 07\Bullet]
+Type = Gameshark
+Activation = EndFrame
+901BEBF8 00630029
+
+[Select Infinite Slot 07\Earring]
+Type = Gameshark
+Activation = EndFrame
+901BEBF8 0063002A
+
+[Select Infinite Slot 07\Music Box]
+Type = Gameshark
+Activation = EndFrame
+901BEBF8 0063002B
+
+[Select Infinite Slot 07\Valve]
+Type = Gameshark
+Activation = EndFrame
+901BEBF8 0063002C
+
+[Select Infinite Slot 07\Piston Key]
+Type = Gameshark
+Activation = EndFrame
+901BEBF8 0063002D
+
+[Select Infinite Slot 07\Engine Room Key]
+Type = Gameshark
+Activation = EndFrame
+901BEBF8 0063002E
+
+[Select Infinite Slot 07\Old Picture]
+Type = Gameshark
+Activation = EndFrame
+901BEBF8 0063002F
+
+[Select Infinite Slot 07\Blue Stone]
+Type = Gameshark
+Activation = EndFrame
+901BEBF8 00630030
+
+[Select Infinite Slot 07\Clock Key]
+Type = Gameshark
+Activation = EndFrame
+901BEBF8 00630031
+
+[Select Infinite Slot 07\Claudia's Doll]
+Type = Gameshark
+Activation = EndFrame
+901BEBF8 00630032
+
+[Select Infinite Slot 07\Antidote]
+Type = Gameshark
+Activation = EndFrame
+901BEBF8 00630033
+
+[Select Infinite Slot 07\Cabinet Key]
+Type = Gameshark
+Activation = EndFrame
+901BEBF8 00630034
+
+[Select Infinite Slot 07\Pendant]
+Type = Gameshark
+Activation = EndFrame
+901BEBF8 00630035
+
+[Select Infinite Slot 07\Cameo]
+Type = Gameshark
+Activation = EndFrame
+901BEBF8 00630036
+
+[Select Infinite Slot 08\Nothing]
+Type = Gameshark
+Activation = EndFrame
+901BEC00 00630000
+
+[Select Infinite Slot 08\Metal Handle]
+Type = Gameshark
+Activation = EndFrame
+901BEC00 00630001
+
+[Select Infinite Slot 08\Brass Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC00 00630002
+
+[Select Infinite Slot 08\Red Book]
+Type = Gameshark
+Activation = EndFrame
+901BEC00 00630003
+
+[Select Infinite Slot 08\Holy Water]
+Type = Gameshark
+Activation = EndFrame
+901BEC00 00630004
+
+[Select Infinite Slot 08\Small Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC00 00630005
+
+[Select Infinite Slot 08\Wire Cutter]
+Type = Gameshark
+Activation = EndFrame
+901BEC00 00630006
+
+[Select Infinite Slot 08\Invitation Letter]
+Type = Gameshark
+Activation = EndFrame
+901BEC00 00630007
+
+[Select Infinite Slot 08\Iron Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC00 00630008
+
+[Select Infinite Slot 08\Sailor Medal A]
+Type = Gameshark
+Activation = EndFrame
+901BEC00 00630009
+
+[Select Infinite Slot 08\Sailor Medal B]
+Type = Gameshark
+Activation = EndFrame
+901BEC00 0063000A
+
+[Select Infinite Slot 08\Sailor Medal C]
+Type = Gameshark
+Activation = EndFrame
+901BEC00 0063000B
+
+[Select Infinite Slot 08\Sailor Medal D]
+Type = Gameshark
+Activation = EndFrame
+901BEC00 0063000C
+
+[Select Infinite Slot 08\Broken Stone]
+Type = Gameshark
+Activation = EndFrame
+901BEC00 0063000D
+
+[Select Infinite Slot 08\Blue Stone Piece]
+Type = Gameshark
+Activation = EndFrame
+901BEC00 0063000E
+
+[Select Infinite Slot 08\Winding Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC00 0063000F
+
+[Select Infinite Slot 08\Glass]
+Type = Gameshark
+Activation = EndFrame
+901BEC00 00630010
+
+[Select Infinite Slot 08\Curing Potion]
+Type = Gameshark
+Activation = EndFrame
+901BEC00 00630011
+
+[Select Infinite Slot 08\Wire]
+Type = Gameshark
+Activation = EndFrame
+901BEC00 00630012
+
+[Select Infinite Slot 08\Athlete's Foot Bot]
+Type = Gameshark
+Activation = EndFrame
+901BEC00 00630013
+
+[Select Infinite Slot 08\Rubber Gloves]
+Type = Gameshark
+Activation = EndFrame
+901BEC00 00630014
+
+[Select Infinite Slot 08\Dress Suit]
+Type = Gameshark
+Activation = EndFrame
+901BEC00 00630015
+
+[Select Infinite Slot 08\Astral Piece]
+Type = Gameshark
+Activation = EndFrame
+901BEC00 00630016
+
+[Select Infinite Slot 08\Flying Fish Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEC00 00630017
+
+[Select Infinite Slot 08\Record]
+Type = Gameshark
+Activation = EndFrame
+901BEC00 00630018
+
+[Select Infinite Slot 08\Knife]
+Type = Gameshark
+Activation = EndFrame
+901BEC00 00630019
+
+[Select Infinite Slot 08\Comet Book]
+Type = Gameshark
+Activation = EndFrame
+901BEC00 0063001A
+
+[Select Infinite Slot 08\Film]
+Type = Gameshark
+Activation = EndFrame
+901BEC00 0063001B
+
+[Select Infinite Slot 08\Crown Piece]
+Type = Gameshark
+Activation = EndFrame
+901BEC00 0063001C
+
+[Select Infinite Slot 08\Old Book]
+Type = Gameshark
+Activation = EndFrame
+901BEC00 0063001D
+
+[Select Infinite Slot 08\Prescription]
+Type = Gameshark
+Activation = EndFrame
+901BEC00 0063001E
+
+[Select Infinite Slot 08\Eye of A Sea Fish]
+Type = Gameshark
+Activation = EndFrame
+901BEC00 0063001F
+
+[Select Infinite Slot 08\Gear]
+Type = Gameshark
+Activation = EndFrame
+901BEC00 00630020
+
+[Select Infinite Slot 08\Water Leaf Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEC00 00630021
+
+[Select Infinite Slot 08\Forest Fire Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEC00 00630022
+
+[Select Infinite Slot 08\Fire Bird Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEC00 00630023
+
+[Select Infinite Slot 08\Claim Ticket]
+Type = Gameshark
+Activation = EndFrame
+901BEC00 00630024
+
+[Select Infinite Slot 08\Kitchen Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC00 00630025
+
+[Select Infinite Slot 08\Crank]
+Type = Gameshark
+Activation = EndFrame
+901BEC00 00630026
+
+[Select Infinite Slot 08\Sailor's Documents]
+Type = Gameshark
+Activation = EndFrame
+901BEC00 00630027
+
+[Select Infinite Slot 08\Engabement Ring]
+Type = Gameshark
+Activation = EndFrame
+901BEC00 00630028
+
+[Select Infinite Slot 08\Bullet]
+Type = Gameshark
+Activation = EndFrame
+901BEC00 00630029
+
+[Select Infinite Slot 08\Earring]
+Type = Gameshark
+Activation = EndFrame
+901BEC00 0063002A
+
+[Select Infinite Slot 08\Music Box]
+Type = Gameshark
+Activation = EndFrame
+901BEC00 0063002B
+
+[Select Infinite Slot 08\Valve]
+Type = Gameshark
+Activation = EndFrame
+901BEC00 0063002C
+
+[Select Infinite Slot 08\Piston Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC00 0063002D
+
+[Select Infinite Slot 08\Engine Room Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC00 0063002E
+
+[Select Infinite Slot 08\Old Picture]
+Type = Gameshark
+Activation = EndFrame
+901BEC00 0063002F
+
+[Select Infinite Slot 08\Blue Stone]
+Type = Gameshark
+Activation = EndFrame
+901BEC00 00630030
+
+[Select Infinite Slot 08\Clock Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC00 00630031
+
+[Select Infinite Slot 08\Claudia's Doll]
+Type = Gameshark
+Activation = EndFrame
+901BEC00 00630032
+
+[Select Infinite Slot 08\Antidote]
+Type = Gameshark
+Activation = EndFrame
+901BEC00 00630033
+
+[Select Infinite Slot 08\Cabinet Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC00 00630034
+
+[Select Infinite Slot 08\Pendant]
+Type = Gameshark
+Activation = EndFrame
+901BEC00 00630035
+
+[Select Infinite Slot 08\Cameo]
+Type = Gameshark
+Activation = EndFrame
+901BEC00 00630036
+
+[Select Infinite Slot 09\Nothing]
+Type = Gameshark
+Activation = EndFrame
+901BEC08 00630000
+
+[Select Infinite Slot 09\Metal Handle]
+Type = Gameshark
+Activation = EndFrame
+901BEC08 00630001
+
+[Select Infinite Slot 09\Brass Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC08 00630002
+
+[Select Infinite Slot 09\Red Book]
+Type = Gameshark
+Activation = EndFrame
+901BEC08 00630003
+
+[Select Infinite Slot 09\Holy Water]
+Type = Gameshark
+Activation = EndFrame
+901BEC08 00630004
+
+[Select Infinite Slot 09\Small Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC08 00630005
+
+[Select Infinite Slot 09\Wire Cutter]
+Type = Gameshark
+Activation = EndFrame
+901BEC08 00630006
+
+[Select Infinite Slot 09\Invitation Letter]
+Type = Gameshark
+Activation = EndFrame
+901BEC08 00630007
+
+[Select Infinite Slot 09\Iron Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC08 00630008
+
+[Select Infinite Slot 09\Sailor Medal A]
+Type = Gameshark
+Activation = EndFrame
+901BEC08 00630009
+
+[Select Infinite Slot 09\Sailor Medal B]
+Type = Gameshark
+Activation = EndFrame
+901BEC08 0063000A
+
+[Select Infinite Slot 09\Sailor Medal C]
+Type = Gameshark
+Activation = EndFrame
+901BEC08 0063000B
+
+[Select Infinite Slot 09\Sailor Medal D]
+Type = Gameshark
+Activation = EndFrame
+901BEC08 0063000C
+
+[Select Infinite Slot 09\Broken Stone]
+Type = Gameshark
+Activation = EndFrame
+901BEC08 0063000D
+
+[Select Infinite Slot 09\Blue Stone Piece]
+Type = Gameshark
+Activation = EndFrame
+901BEC08 0063000E
+
+[Select Infinite Slot 09\Winding Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC08 0063000F
+
+[Select Infinite Slot 09\Glass]
+Type = Gameshark
+Activation = EndFrame
+901BEC08 00630010
+
+[Select Infinite Slot 09\Curing Potion]
+Type = Gameshark
+Activation = EndFrame
+901BEC08 00630011
+
+[Select Infinite Slot 09\Wire]
+Type = Gameshark
+Activation = EndFrame
+901BEC08 00630012
+
+[Select Infinite Slot 09\Athlete's Foot Bot]
+Type = Gameshark
+Activation = EndFrame
+901BEC08 00630013
+
+[Select Infinite Slot 09\Rubber Gloves]
+Type = Gameshark
+Activation = EndFrame
+901BEC08 00630014
+
+[Select Infinite Slot 09\Dress Suit]
+Type = Gameshark
+Activation = EndFrame
+901BEC08 00630015
+
+[Select Infinite Slot 09\Astral Piece]
+Type = Gameshark
+Activation = EndFrame
+901BEC08 00630016
+
+[Select Infinite Slot 09\Flying Fish Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEC08 00630017
+
+[Select Infinite Slot 09\Record]
+Type = Gameshark
+Activation = EndFrame
+901BEC08 00630018
+
+[Select Infinite Slot 09\Knife]
+Type = Gameshark
+Activation = EndFrame
+901BEC08 00630019
+
+[Select Infinite Slot 09\Comet Book]
+Type = Gameshark
+Activation = EndFrame
+901BEC08 0063001A
+
+[Select Infinite Slot 09\Film]
+Type = Gameshark
+Activation = EndFrame
+901BEC08 0063001B
+
+[Select Infinite Slot 09\Crown Piece]
+Type = Gameshark
+Activation = EndFrame
+901BEC08 0063001C
+
+[Select Infinite Slot 09\Old Book]
+Type = Gameshark
+Activation = EndFrame
+901BEC08 0063001D
+
+[Select Infinite Slot 09\Prescription]
+Type = Gameshark
+Activation = EndFrame
+901BEC08 0063001E
+
+[Select Infinite Slot 09\Eye of A Sea Fish]
+Type = Gameshark
+Activation = EndFrame
+901BEC08 0063001F
+
+[Select Infinite Slot 09\Gear]
+Type = Gameshark
+Activation = EndFrame
+901BEC08 00630020
+
+[Select Infinite Slot 09\Water Leaf Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEC08 00630021
+
+[Select Infinite Slot 09\Forest Fire Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEC08 00630022
+
+[Select Infinite Slot 09\Fire Bird Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEC08 00630023
+
+[Select Infinite Slot 09\Claim Ticket]
+Type = Gameshark
+Activation = EndFrame
+901BEC08 00630024
+
+[Select Infinite Slot 09\Kitchen Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC08 00630025
+
+[Select Infinite Slot 09\Crank]
+Type = Gameshark
+Activation = EndFrame
+901BEC08 00630026
+
+[Select Infinite Slot 09\Sailor's Documents]
+Type = Gameshark
+Activation = EndFrame
+901BEC08 00630027
+
+[Select Infinite Slot 09\Engabement Ring]
+Type = Gameshark
+Activation = EndFrame
+901BEC08 00630028
+
+[Select Infinite Slot 09\Bullet]
+Type = Gameshark
+Activation = EndFrame
+901BEC08 00630029
+
+[Select Infinite Slot 09\Earring]
+Type = Gameshark
+Activation = EndFrame
+901BEC08 0063002A
+
+[Select Infinite Slot 09\Music Box]
+Type = Gameshark
+Activation = EndFrame
+901BEC08 0063002B
+
+[Select Infinite Slot 09\Valve]
+Type = Gameshark
+Activation = EndFrame
+901BEC08 0063002C
+
+[Select Infinite Slot 09\Piston Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC08 0063002D
+
+[Select Infinite Slot 09\Engine Room Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC08 0063002E
+
+[Select Infinite Slot 09\Old Picture]
+Type = Gameshark
+Activation = EndFrame
+901BEC08 0063002F
+
+[Select Infinite Slot 09\Blue Stone]
+Type = Gameshark
+Activation = EndFrame
+901BEC08 00630030
+
+[Select Infinite Slot 09\Clock Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC08 00630031
+
+[Select Infinite Slot 09\Claudia's Doll]
+Type = Gameshark
+Activation = EndFrame
+901BEC08 00630032
+
+[Select Infinite Slot 09\Antidote]
+Type = Gameshark
+Activation = EndFrame
+901BEC08 00630033
+
+[Select Infinite Slot 09\Cabinet Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC08 00630034
+
+[Select Infinite Slot 09\Pendant]
+Type = Gameshark
+Activation = EndFrame
+901BEC08 00630035
+
+[Select Infinite Slot 09\Cameo]
+Type = Gameshark
+Activation = EndFrame
+901BEC08 00630036
+
+[Select Infinite Slot 10\Nothing]
+Type = Gameshark
+Activation = EndFrame
+901BEC10 00630000
+
+[Select Infinite Slot 10\Metal Handle]
+Type = Gameshark
+Activation = EndFrame
+901BEC10 00630001
+
+[Select Infinite Slot 10\Brass Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC10 00630002
+
+[Select Infinite Slot 10\Red Book]
+Type = Gameshark
+Activation = EndFrame
+901BEC10 00630003
+
+[Select Infinite Slot 10\Holy Water]
+Type = Gameshark
+Activation = EndFrame
+901BEC10 00630004
+
+[Select Infinite Slot 10\Small Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC10 00630005
+
+[Select Infinite Slot 10\Wire Cutter]
+Type = Gameshark
+Activation = EndFrame
+901BEC10 00630006
+
+[Select Infinite Slot 10\Invitation Letter]
+Type = Gameshark
+Activation = EndFrame
+901BEC10 00630007
+
+[Select Infinite Slot 10\Iron Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC10 00630008
+
+[Select Infinite Slot 10\Sailor Medal A]
+Type = Gameshark
+Activation = EndFrame
+901BEC10 00630009
+
+[Select Infinite Slot 10\Sailor Medal B]
+Type = Gameshark
+Activation = EndFrame
+901BEC10 0063000A
+
+[Select Infinite Slot 10\Sailor Medal C]
+Type = Gameshark
+Activation = EndFrame
+901BEC10 0063000B
+
+[Select Infinite Slot 10\Sailor Medal D]
+Type = Gameshark
+Activation = EndFrame
+901BEC10 0063000C
+
+[Select Infinite Slot 10\Broken Stone]
+Type = Gameshark
+Activation = EndFrame
+901BEC10 0063000D
+
+[Select Infinite Slot 10\Blue Stone Piece]
+Type = Gameshark
+Activation = EndFrame
+901BEC10 0063000E
+
+[Select Infinite Slot 10\Winding Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC10 0063000F
+
+[Select Infinite Slot 10\Glass]
+Type = Gameshark
+Activation = EndFrame
+901BEC10 00630010
+
+[Select Infinite Slot 10\Curing Potion]
+Type = Gameshark
+Activation = EndFrame
+901BEC10 00630011
+
+[Select Infinite Slot 10\Wire]
+Type = Gameshark
+Activation = EndFrame
+901BEC10 00630012
+
+[Select Infinite Slot 10\Athlete's Foot Bot]
+Type = Gameshark
+Activation = EndFrame
+901BEC10 00630013
+
+[Select Infinite Slot 10\Rubber Gloves]
+Type = Gameshark
+Activation = EndFrame
+901BEC10 00630014
+
+[Select Infinite Slot 10\Dress Suit]
+Type = Gameshark
+Activation = EndFrame
+901BEC10 00630015
+
+[Select Infinite Slot 10\Astral Piece]
+Type = Gameshark
+Activation = EndFrame
+901BEC10 00630016
+
+[Select Infinite Slot 10\Flying Fish Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEC10 00630017
+
+[Select Infinite Slot 10\Record]
+Type = Gameshark
+Activation = EndFrame
+901BEC10 00630018
+
+[Select Infinite Slot 10\Knife]
+Type = Gameshark
+Activation = EndFrame
+901BEC10 00630019
+
+[Select Infinite Slot 10\Comet Book]
+Type = Gameshark
+Activation = EndFrame
+901BEC10 0063001A
+
+[Select Infinite Slot 10\Film]
+Type = Gameshark
+Activation = EndFrame
+901BEC10 0063001B
+
+[Select Infinite Slot 10\Crown Piece]
+Type = Gameshark
+Activation = EndFrame
+901BEC10 0063001C
+
+[Select Infinite Slot 10\Old Book]
+Type = Gameshark
+Activation = EndFrame
+901BEC10 0063001D
+
+[Select Infinite Slot 10\Prescription]
+Type = Gameshark
+Activation = EndFrame
+901BEC10 0063001E
+
+[Select Infinite Slot 10\Eye of A Sea Fish]
+Type = Gameshark
+Activation = EndFrame
+901BEC10 0063001F
+
+[Select Infinite Slot 10\Gear]
+Type = Gameshark
+Activation = EndFrame
+901BEC10 00630020
+
+[Select Infinite Slot 10\Water Leaf Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEC10 00630021
+
+[Select Infinite Slot 10\Forest Fire Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEC10 00630022
+
+[Select Infinite Slot 10\Fire Bird Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEC10 00630023
+
+[Select Infinite Slot 10\Claim Ticket]
+Type = Gameshark
+Activation = EndFrame
+901BEC10 00630024
+
+[Select Infinite Slot 10\Kitchen Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC10 00630025
+
+[Select Infinite Slot 10\Crank]
+Type = Gameshark
+Activation = EndFrame
+901BEC10 00630026
+
+[Select Infinite Slot 10\Sailor's Documents]
+Type = Gameshark
+Activation = EndFrame
+901BEC10 00630027
+
+[Select Infinite Slot 10\Engabement Ring]
+Type = Gameshark
+Activation = EndFrame
+901BEC10 00630028
+
+[Select Infinite Slot 10\Bullet]
+Type = Gameshark
+Activation = EndFrame
+901BEC10 00630029
+
+[Select Infinite Slot 10\Earring]
+Type = Gameshark
+Activation = EndFrame
+901BEC10 0063002A
+
+[Select Infinite Slot 10\Music Box]
+Type = Gameshark
+Activation = EndFrame
+901BEC10 0063002B
+
+[Select Infinite Slot 10\Valve]
+Type = Gameshark
+Activation = EndFrame
+901BEC10 0063002C
+
+[Select Infinite Slot 10\Piston Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC10 0063002D
+
+[Select Infinite Slot 10\Engine Room Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC10 0063002E
+
+[Select Infinite Slot 10\Old Picture]
+Type = Gameshark
+Activation = EndFrame
+901BEC10 0063002F
+
+[Select Infinite Slot 10\Blue Stone]
+Type = Gameshark
+Activation = EndFrame
+901BEC10 00630030
+
+[Select Infinite Slot 10\Clock Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC10 00630031
+
+[Select Infinite Slot 10\Claudia's Doll]
+Type = Gameshark
+Activation = EndFrame
+901BEC10 00630032
+
+[Select Infinite Slot 10\Antidote]
+Type = Gameshark
+Activation = EndFrame
+901BEC10 00630033
+
+[Select Infinite Slot 10\Cabinet Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC10 00630034
+
+[Select Infinite Slot 10\Pendant]
+Type = Gameshark
+Activation = EndFrame
+901BEC10 00630035
+
+[Select Infinite Slot 10\Cameo]
+Type = Gameshark
+Activation = EndFrame
+901BEC10 00630036
+
+[Select Infinite Slot 11\Nothing]
+Type = Gameshark
+Activation = EndFrame
+901BEC18 00630000
+
+[Select Infinite Slot 11\Metal Handle]
+Type = Gameshark
+Activation = EndFrame
+901BEC18 00630001
+
+[Select Infinite Slot 11\Brass Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC18 00630002
+
+[Select Infinite Slot 11\Red Book]
+Type = Gameshark
+Activation = EndFrame
+901BEC18 00630003
+
+[Select Infinite Slot 11\Holy Water]
+Type = Gameshark
+Activation = EndFrame
+901BEC18 00630004
+
+[Select Infinite Slot 11\Small Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC18 00630005
+
+[Select Infinite Slot 11\Wire Cutter]
+Type = Gameshark
+Activation = EndFrame
+901BEC18 00630006
+
+[Select Infinite Slot 11\Invitation Letter]
+Type = Gameshark
+Activation = EndFrame
+901BEC18 00630007
+
+[Select Infinite Slot 11\Iron Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC18 00630008
+
+[Select Infinite Slot 11\Sailor Medal A]
+Type = Gameshark
+Activation = EndFrame
+901BEC18 00630009
+
+[Select Infinite Slot 11\Sailor Medal B]
+Type = Gameshark
+Activation = EndFrame
+901BEC18 0063000A
+
+[Select Infinite Slot 11\Sailor Medal C]
+Type = Gameshark
+Activation = EndFrame
+901BEC18 0063000B
+
+[Select Infinite Slot 11\Sailor Medal D]
+Type = Gameshark
+Activation = EndFrame
+901BEC18 0063000C
+
+[Select Infinite Slot 11\Broken Stone]
+Type = Gameshark
+Activation = EndFrame
+901BEC18 0063000D
+
+[Select Infinite Slot 11\Blue Stone Piece]
+Type = Gameshark
+Activation = EndFrame
+901BEC18 0063000E
+
+[Select Infinite Slot 11\Winding Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC18 0063000F
+
+[Select Infinite Slot 11\Glass]
+Type = Gameshark
+Activation = EndFrame
+901BEC18 00630010
+
+[Select Infinite Slot 11\Curing Potion]
+Type = Gameshark
+Activation = EndFrame
+901BEC18 00630011
+
+[Select Infinite Slot 11\Wire]
+Type = Gameshark
+Activation = EndFrame
+901BEC18 00630012
+
+[Select Infinite Slot 11\Athlete's Foot Bot]
+Type = Gameshark
+Activation = EndFrame
+901BEC18 00630013
+
+[Select Infinite Slot 11\Rubber Gloves]
+Type = Gameshark
+Activation = EndFrame
+901BEC18 00630014
+
+[Select Infinite Slot 11\Dress Suit]
+Type = Gameshark
+Activation = EndFrame
+901BEC18 00630015
+
+[Select Infinite Slot 11\Astral Piece]
+Type = Gameshark
+Activation = EndFrame
+901BEC18 00630016
+
+[Select Infinite Slot 11\Flying Fish Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEC18 00630017
+
+[Select Infinite Slot 11\Record]
+Type = Gameshark
+Activation = EndFrame
+901BEC18 00630018
+
+[Select Infinite Slot 11\Knife]
+Type = Gameshark
+Activation = EndFrame
+901BEC18 00630019
+
+[Select Infinite Slot 11\Comet Book]
+Type = Gameshark
+Activation = EndFrame
+901BEC18 0063001A
+
+[Select Infinite Slot 11\Film]
+Type = Gameshark
+Activation = EndFrame
+901BEC18 0063001B
+
+[Select Infinite Slot 11\Crown Piece]
+Type = Gameshark
+Activation = EndFrame
+901BEC18 0063001C
+
+[Select Infinite Slot 11\Old Book]
+Type = Gameshark
+Activation = EndFrame
+901BEC18 0063001D
+
+[Select Infinite Slot 11\Prescription]
+Type = Gameshark
+Activation = EndFrame
+901BEC18 0063001E
+
+[Select Infinite Slot 11\Eye of A Sea Fish]
+Type = Gameshark
+Activation = EndFrame
+901BEC18 0063001F
+
+[Select Infinite Slot 11\Gear]
+Type = Gameshark
+Activation = EndFrame
+901BEC18 00630020
+
+[Select Infinite Slot 11\Water Leaf Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEC18 00630021
+
+[Select Infinite Slot 11\Forest Fire Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEC18 00630022
+
+[Select Infinite Slot 11\Fire Bird Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEC18 00630023
+
+[Select Infinite Slot 11\Claim Ticket]
+Type = Gameshark
+Activation = EndFrame
+901BEC18 00630024
+
+[Select Infinite Slot 11\Kitchen Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC18 00630025
+
+[Select Infinite Slot 11\Crank]
+Type = Gameshark
+Activation = EndFrame
+901BEC18 00630026
+
+[Select Infinite Slot 11\Sailor's Documents]
+Type = Gameshark
+Activation = EndFrame
+901BEC18 00630027
+
+[Select Infinite Slot 11\Engabement Ring]
+Type = Gameshark
+Activation = EndFrame
+901BEC18 00630028
+
+[Select Infinite Slot 11\Bullet]
+Type = Gameshark
+Activation = EndFrame
+901BEC18 00630029
+
+[Select Infinite Slot 11\Earring]
+Type = Gameshark
+Activation = EndFrame
+901BEC18 0063002A
+
+[Select Infinite Slot 11\Music Box]
+Type = Gameshark
+Activation = EndFrame
+901BEC18 0063002B
+
+[Select Infinite Slot 11\Valve]
+Type = Gameshark
+Activation = EndFrame
+901BEC18 0063002C
+
+[Select Infinite Slot 11\Piston Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC18 0063002D
+
+[Select Infinite Slot 11\Engine Room Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC18 0063002E
+
+[Select Infinite Slot 11\Old Picture]
+Type = Gameshark
+Activation = EndFrame
+901BEC18 0063002F
+
+[Select Infinite Slot 11\Blue Stone]
+Type = Gameshark
+Activation = EndFrame
+901BEC18 00630030
+
+[Select Infinite Slot 11\Clock Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC18 00630031
+
+[Select Infinite Slot 11\Claudia's Doll]
+Type = Gameshark
+Activation = EndFrame
+901BEC18 00630032
+
+[Select Infinite Slot 11\Antidote]
+Type = Gameshark
+Activation = EndFrame
+901BEC18 00630033
+
+[Select Infinite Slot 11\Cabinet Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC18 00630034
+
+[Select Infinite Slot 11\Pendant]
+Type = Gameshark
+Activation = EndFrame
+901BEC18 00630035
+
+[Select Infinite Slot 11\Cameo]
+Type = Gameshark
+Activation = EndFrame
+901BEC18 00630036
+
+[Select Infinite Slot 12\Nothing]
+Type = Gameshark
+Activation = EndFrame
+901BEC20 00630000
+
+[Select Infinite Slot 12\Metal Handle]
+Type = Gameshark
+Activation = EndFrame
+901BEC20 00630001
+
+[Select Infinite Slot 12\Brass Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC20 00630002
+
+[Select Infinite Slot 12\Red Book]
+Type = Gameshark
+Activation = EndFrame
+901BEC20 00630003
+
+[Select Infinite Slot 12\Holy Water]
+Type = Gameshark
+Activation = EndFrame
+901BEC20 00630004
+
+[Select Infinite Slot 12\Small Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC20 00630005
+
+[Select Infinite Slot 12\Wire Cutter]
+Type = Gameshark
+Activation = EndFrame
+901BEC20 00630006
+
+[Select Infinite Slot 12\Invitation Letter]
+Type = Gameshark
+Activation = EndFrame
+901BEC20 00630007
+
+[Select Infinite Slot 12\Iron Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC20 00630008
+
+[Select Infinite Slot 12\Sailor Medal A]
+Type = Gameshark
+Activation = EndFrame
+901BEC20 00630009
+
+[Select Infinite Slot 12\Sailor Medal B]
+Type = Gameshark
+Activation = EndFrame
+901BEC20 0063000A
+
+[Select Infinite Slot 12\Sailor Medal C]
+Type = Gameshark
+Activation = EndFrame
+901BEC20 0063000B
+
+[Select Infinite Slot 12\Sailor Medal D]
+Type = Gameshark
+Activation = EndFrame
+901BEC20 0063000C
+
+[Select Infinite Slot 12\Broken Stone]
+Type = Gameshark
+Activation = EndFrame
+901BEC20 0063000D
+
+[Select Infinite Slot 12\Blue Stone Piece]
+Type = Gameshark
+Activation = EndFrame
+901BEC20 0063000E
+
+[Select Infinite Slot 12\Winding Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC20 0063000F
+
+[Select Infinite Slot 12\Glass]
+Type = Gameshark
+Activation = EndFrame
+901BEC20 00630010
+
+[Select Infinite Slot 12\Curing Potion]
+Type = Gameshark
+Activation = EndFrame
+901BEC20 00630011
+
+[Select Infinite Slot 12\Wire]
+Type = Gameshark
+Activation = EndFrame
+901BEC20 00630012
+
+[Select Infinite Slot 12\Athlete's Foot Bot]
+Type = Gameshark
+Activation = EndFrame
+901BEC20 00630013
+
+[Select Infinite Slot 12\Rubber Gloves]
+Type = Gameshark
+Activation = EndFrame
+901BEC20 00630014
+
+[Select Infinite Slot 12\Dress Suit]
+Type = Gameshark
+Activation = EndFrame
+901BEC20 00630015
+
+[Select Infinite Slot 12\Astral Piece]
+Type = Gameshark
+Activation = EndFrame
+901BEC20 00630016
+
+[Select Infinite Slot 12\Flying Fish Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEC20 00630017
+
+[Select Infinite Slot 12\Record]
+Type = Gameshark
+Activation = EndFrame
+901BEC20 00630018
+
+[Select Infinite Slot 12\Knife]
+Type = Gameshark
+Activation = EndFrame
+901BEC20 00630019
+
+[Select Infinite Slot 12\Comet Book]
+Type = Gameshark
+Activation = EndFrame
+901BEC20 0063001A
+
+[Select Infinite Slot 12\Film]
+Type = Gameshark
+Activation = EndFrame
+901BEC20 0063001B
+
+[Select Infinite Slot 12\Crown Piece]
+Type = Gameshark
+Activation = EndFrame
+901BEC20 0063001C
+
+[Select Infinite Slot 12\Old Book]
+Type = Gameshark
+Activation = EndFrame
+901BEC20 0063001D
+
+[Select Infinite Slot 12\Prescription]
+Type = Gameshark
+Activation = EndFrame
+901BEC20 0063001E
+
+[Select Infinite Slot 12\Eye of A Sea Fish]
+Type = Gameshark
+Activation = EndFrame
+901BEC20 0063001F
+
+[Select Infinite Slot 12\Gear]
+Type = Gameshark
+Activation = EndFrame
+901BEC20 00630020
+
+[Select Infinite Slot 12\Water Leaf Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEC20 00630021
+
+[Select Infinite Slot 12\Forest Fire Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEC20 00630022
+
+[Select Infinite Slot 12\Fire Bird Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEC20 00630023
+
+[Select Infinite Slot 12\Claim Ticket]
+Type = Gameshark
+Activation = EndFrame
+901BEC20 00630024
+
+[Select Infinite Slot 12\Kitchen Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC20 00630025
+
+[Select Infinite Slot 12\Crank]
+Type = Gameshark
+Activation = EndFrame
+901BEC20 00630026
+
+[Select Infinite Slot 12\Sailor's Documents]
+Type = Gameshark
+Activation = EndFrame
+901BEC20 00630027
+
+[Select Infinite Slot 12\Engabement Ring]
+Type = Gameshark
+Activation = EndFrame
+901BEC20 00630028
+
+[Select Infinite Slot 12\Bullet]
+Type = Gameshark
+Activation = EndFrame
+901BEC20 00630029
+
+[Select Infinite Slot 12\Earring]
+Type = Gameshark
+Activation = EndFrame
+901BEC20 0063002A
+
+[Select Infinite Slot 12\Music Box]
+Type = Gameshark
+Activation = EndFrame
+901BEC20 0063002B
+
+[Select Infinite Slot 12\Valve]
+Type = Gameshark
+Activation = EndFrame
+901BEC20 0063002C
+
+[Select Infinite Slot 12\Piston Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC20 0063002D
+
+[Select Infinite Slot 12\Engine Room Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC20 0063002E
+
+[Select Infinite Slot 12\Old Picture]
+Type = Gameshark
+Activation = EndFrame
+901BEC20 0063002F
+
+[Select Infinite Slot 12\Blue Stone]
+Type = Gameshark
+Activation = EndFrame
+901BEC20 00630030
+
+[Select Infinite Slot 12\Clock Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC20 00630031
+
+[Select Infinite Slot 12\Claudia's Doll]
+Type = Gameshark
+Activation = EndFrame
+901BEC20 00630032
+
+[Select Infinite Slot 12\Antidote]
+Type = Gameshark
+Activation = EndFrame
+901BEC20 00630033
+
+[Select Infinite Slot 12\Cabinet Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC20 00630034
+
+[Select Infinite Slot 12\Pendant]
+Type = Gameshark
+Activation = EndFrame
+901BEC20 00630035
+
+[Select Infinite Slot 12\Cameo]
+Type = Gameshark
+Activation = EndFrame
+901BEC20 00630036
+
+[Select Infinite Slot 13\Nothing]
+Type = Gameshark
+Activation = EndFrame
+901BEC28 00630000
+
+[Select Infinite Slot 13\Metal Handle]
+Type = Gameshark
+Activation = EndFrame
+901BEC28 00630001
+
+[Select Infinite Slot 13\Brass Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC28 00630002
+
+[Select Infinite Slot 13\Red Book]
+Type = Gameshark
+Activation = EndFrame
+901BEC28 00630003
+
+[Select Infinite Slot 13\Holy Water]
+Type = Gameshark
+Activation = EndFrame
+901BEC28 00630004
+
+[Select Infinite Slot 13\Small Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC28 00630005
+
+[Select Infinite Slot 13\Wire Cutter]
+Type = Gameshark
+Activation = EndFrame
+901BEC28 00630006
+
+[Select Infinite Slot 13\Invitation Letter]
+Type = Gameshark
+Activation = EndFrame
+901BEC28 00630007
+
+[Select Infinite Slot 13\Iron Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC28 00630008
+
+[Select Infinite Slot 13\Sailor Medal A]
+Type = Gameshark
+Activation = EndFrame
+901BEC28 00630009
+
+[Select Infinite Slot 13\Sailor Medal B]
+Type = Gameshark
+Activation = EndFrame
+901BEC28 0063000A
+
+[Select Infinite Slot 13\Sailor Medal C]
+Type = Gameshark
+Activation = EndFrame
+901BEC28 0063000B
+
+[Select Infinite Slot 13\Sailor Medal D]
+Type = Gameshark
+Activation = EndFrame
+901BEC28 0063000C
+
+[Select Infinite Slot 13\Broken Stone]
+Type = Gameshark
+Activation = EndFrame
+901BEC28 0063000D
+
+[Select Infinite Slot 13\Blue Stone Piece]
+Type = Gameshark
+Activation = EndFrame
+901BEC28 0063000E
+
+[Select Infinite Slot 13\Winding Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC28 0063000F
+
+[Select Infinite Slot 13\Glass]
+Type = Gameshark
+Activation = EndFrame
+901BEC28 00630010
+
+[Select Infinite Slot 13\Curing Potion]
+Type = Gameshark
+Activation = EndFrame
+901BEC28 00630011
+
+[Select Infinite Slot 13\Wire]
+Type = Gameshark
+Activation = EndFrame
+901BEC28 00630012
+
+[Select Infinite Slot 13\Athlete's Foot Bot]
+Type = Gameshark
+Activation = EndFrame
+901BEC28 00630013
+
+[Select Infinite Slot 13\Rubber Gloves]
+Type = Gameshark
+Activation = EndFrame
+901BEC28 00630014
+
+[Select Infinite Slot 13\Dress Suit]
+Type = Gameshark
+Activation = EndFrame
+901BEC28 00630015
+
+[Select Infinite Slot 13\Astral Piece]
+Type = Gameshark
+Activation = EndFrame
+901BEC28 00630016
+
+[Select Infinite Slot 13\Flying Fish Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEC28 00630017
+
+[Select Infinite Slot 13\Record]
+Type = Gameshark
+Activation = EndFrame
+901BEC28 00630018
+
+[Select Infinite Slot 13\Knife]
+Type = Gameshark
+Activation = EndFrame
+901BEC28 00630019
+
+[Select Infinite Slot 13\Comet Book]
+Type = Gameshark
+Activation = EndFrame
+901BEC28 0063001A
+
+[Select Infinite Slot 13\Film]
+Type = Gameshark
+Activation = EndFrame
+901BEC28 0063001B
+
+[Select Infinite Slot 13\Crown Piece]
+Type = Gameshark
+Activation = EndFrame
+901BEC28 0063001C
+
+[Select Infinite Slot 13\Old Book]
+Type = Gameshark
+Activation = EndFrame
+901BEC28 0063001D
+
+[Select Infinite Slot 13\Prescription]
+Type = Gameshark
+Activation = EndFrame
+901BEC28 0063001E
+
+[Select Infinite Slot 13\Eye of A Sea Fish]
+Type = Gameshark
+Activation = EndFrame
+901BEC28 0063001F
+
+[Select Infinite Slot 13\Gear]
+Type = Gameshark
+Activation = EndFrame
+901BEC28 00630020
+
+[Select Infinite Slot 13\Water Leaf Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEC28 00630021
+
+[Select Infinite Slot 13\Forest Fire Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEC28 00630022
+
+[Select Infinite Slot 13\Fire Bird Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEC28 00630023
+
+[Select Infinite Slot 13\Claim Ticket]
+Type = Gameshark
+Activation = EndFrame
+901BEC28 00630024
+
+[Select Infinite Slot 13\Kitchen Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC28 00630025
+
+[Select Infinite Slot 13\Crank]
+Type = Gameshark
+Activation = EndFrame
+901BEC28 00630026
+
+[Select Infinite Slot 13\Sailor's Documents]
+Type = Gameshark
+Activation = EndFrame
+901BEC28 00630027
+
+[Select Infinite Slot 13\Engabement Ring]
+Type = Gameshark
+Activation = EndFrame
+901BEC28 00630028
+
+[Select Infinite Slot 13\Bullet]
+Type = Gameshark
+Activation = EndFrame
+901BEC28 00630029
+
+[Select Infinite Slot 13\Earring]
+Type = Gameshark
+Activation = EndFrame
+901BEC28 0063002A
+
+[Select Infinite Slot 13\Music Box]
+Type = Gameshark
+Activation = EndFrame
+901BEC28 0063002B
+
+[Select Infinite Slot 13\Valve]
+Type = Gameshark
+Activation = EndFrame
+901BEC28 0063002C
+
+[Select Infinite Slot 13\Piston Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC28 0063002D
+
+[Select Infinite Slot 13\Engine Room Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC28 0063002E
+
+[Select Infinite Slot 13\Old Picture]
+Type = Gameshark
+Activation = EndFrame
+901BEC28 0063002F
+
+[Select Infinite Slot 13\Blue Stone]
+Type = Gameshark
+Activation = EndFrame
+901BEC28 00630030
+
+[Select Infinite Slot 13\Clock Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC28 00630031
+
+[Select Infinite Slot 13\Claudia's Doll]
+Type = Gameshark
+Activation = EndFrame
+901BEC28 00630032
+
+[Select Infinite Slot 13\Antidote]
+Type = Gameshark
+Activation = EndFrame
+901BEC28 00630033
+
+[Select Infinite Slot 13\Cabinet Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC28 00630034
+
+[Select Infinite Slot 13\Pendant]
+Type = Gameshark
+Activation = EndFrame
+901BEC28 00630035
+
+[Select Infinite Slot 13\Cameo]
+Type = Gameshark
+Activation = EndFrame
+901BEC28 00630036
+
+[Select Infinite Slot 14\Nothing]
+Type = Gameshark
+Activation = EndFrame
+901BEC30 00630000
+
+[Select Infinite Slot 14\Metal Handle]
+Type = Gameshark
+Activation = EndFrame
+901BEC30 00630001
+
+[Select Infinite Slot 14\Brass Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC30 00630002
+
+[Select Infinite Slot 14\Red Book]
+Type = Gameshark
+Activation = EndFrame
+901BEC30 00630003
+
+[Select Infinite Slot 14\Holy Water]
+Type = Gameshark
+Activation = EndFrame
+901BEC30 00630004
+
+[Select Infinite Slot 14\Small Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC30 00630005
+
+[Select Infinite Slot 14\Wire Cutter]
+Type = Gameshark
+Activation = EndFrame
+901BEC30 00630006
+
+[Select Infinite Slot 14\Invitation Letter]
+Type = Gameshark
+Activation = EndFrame
+901BEC30 00630007
+
+[Select Infinite Slot 14\Iron Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC30 00630008
+
+[Select Infinite Slot 14\Sailor Medal A]
+Type = Gameshark
+Activation = EndFrame
+901BEC30 00630009
+
+[Select Infinite Slot 14\Sailor Medal B]
+Type = Gameshark
+Activation = EndFrame
+901BEC30 0063000A
+
+[Select Infinite Slot 14\Sailor Medal C]
+Type = Gameshark
+Activation = EndFrame
+901BEC30 0063000B
+
+[Select Infinite Slot 14\Sailor Medal D]
+Type = Gameshark
+Activation = EndFrame
+901BEC30 0063000C
+
+[Select Infinite Slot 14\Broken Stone]
+Type = Gameshark
+Activation = EndFrame
+901BEC30 0063000D
+
+[Select Infinite Slot 14\Blue Stone Piece]
+Type = Gameshark
+Activation = EndFrame
+901BEC30 0063000E
+
+[Select Infinite Slot 14\Winding Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC30 0063000F
+
+[Select Infinite Slot 14\Glass]
+Type = Gameshark
+Activation = EndFrame
+901BEC30 00630010
+
+[Select Infinite Slot 14\Curing Potion]
+Type = Gameshark
+Activation = EndFrame
+901BEC30 00630011
+
+[Select Infinite Slot 14\Wire]
+Type = Gameshark
+Activation = EndFrame
+901BEC30 00630012
+
+[Select Infinite Slot 14\Athlete's Foot Bot]
+Type = Gameshark
+Activation = EndFrame
+901BEC30 00630013
+
+[Select Infinite Slot 14\Rubber Gloves]
+Type = Gameshark
+Activation = EndFrame
+901BEC30 00630014
+
+[Select Infinite Slot 14\Dress Suit]
+Type = Gameshark
+Activation = EndFrame
+901BEC30 00630015
+
+[Select Infinite Slot 14\Astral Piece]
+Type = Gameshark
+Activation = EndFrame
+901BEC30 00630016
+
+[Select Infinite Slot 14\Flying Fish Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEC30 00630017
+
+[Select Infinite Slot 14\Record]
+Type = Gameshark
+Activation = EndFrame
+901BEC30 00630018
+
+[Select Infinite Slot 14\Knife]
+Type = Gameshark
+Activation = EndFrame
+901BEC30 00630019
+
+[Select Infinite Slot 14\Comet Book]
+Type = Gameshark
+Activation = EndFrame
+901BEC30 0063001A
+
+[Select Infinite Slot 14\Film]
+Type = Gameshark
+Activation = EndFrame
+901BEC30 0063001B
+
+[Select Infinite Slot 14\Crown Piece]
+Type = Gameshark
+Activation = EndFrame
+901BEC30 0063001C
+
+[Select Infinite Slot 14\Old Book]
+Type = Gameshark
+Activation = EndFrame
+901BEC30 0063001D
+
+[Select Infinite Slot 14\Prescription]
+Type = Gameshark
+Activation = EndFrame
+901BEC30 0063001E
+
+[Select Infinite Slot 14\Eye of A Sea Fish]
+Type = Gameshark
+Activation = EndFrame
+901BEC30 0063001F
+
+[Select Infinite Slot 14\Gear]
+Type = Gameshark
+Activation = EndFrame
+901BEC30 00630020
+
+[Select Infinite Slot 14\Water Leaf Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEC30 00630021
+
+[Select Infinite Slot 14\Forest Fire Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEC30 00630022
+
+[Select Infinite Slot 14\Fire Bird Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEC30 00630023
+
+[Select Infinite Slot 14\Claim Ticket]
+Type = Gameshark
+Activation = EndFrame
+901BEC30 00630024
+
+[Select Infinite Slot 14\Kitchen Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC30 00630025
+
+[Select Infinite Slot 14\Crank]
+Type = Gameshark
+Activation = EndFrame
+901BEC30 00630026
+
+[Select Infinite Slot 14\Sailor's Documents]
+Type = Gameshark
+Activation = EndFrame
+901BEC30 00630027
+
+[Select Infinite Slot 14\Engabement Ring]
+Type = Gameshark
+Activation = EndFrame
+901BEC30 00630028
+
+[Select Infinite Slot 14\Bullet]
+Type = Gameshark
+Activation = EndFrame
+901BEC30 00630029
+
+[Select Infinite Slot 14\Earring]
+Type = Gameshark
+Activation = EndFrame
+901BEC30 0063002A
+
+[Select Infinite Slot 14\Music Box]
+Type = Gameshark
+Activation = EndFrame
+901BEC30 0063002B
+
+[Select Infinite Slot 14\Valve]
+Type = Gameshark
+Activation = EndFrame
+901BEC30 0063002C
+
+[Select Infinite Slot 14\Piston Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC30 0063002D
+
+[Select Infinite Slot 14\Engine Room Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC30 0063002E
+
+[Select Infinite Slot 14\Old Picture]
+Type = Gameshark
+Activation = EndFrame
+901BEC30 0063002F
+
+[Select Infinite Slot 14\Blue Stone]
+Type = Gameshark
+Activation = EndFrame
+901BEC30 00630030
+
+[Select Infinite Slot 14\Clock Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC30 00630031
+
+[Select Infinite Slot 14\Claudia's Doll]
+Type = Gameshark
+Activation = EndFrame
+901BEC30 00630032
+
+[Select Infinite Slot 14\Antidote]
+Type = Gameshark
+Activation = EndFrame
+901BEC30 00630033
+
+[Select Infinite Slot 14\Cabinet Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC30 00630034
+
+[Select Infinite Slot 14\Pendant]
+Type = Gameshark
+Activation = EndFrame
+901BEC30 00630035
+
+[Select Infinite Slot 14\Cameo]
+Type = Gameshark
+Activation = EndFrame
+901BEC30 00630036
+
+[Select Infinite Slot 15\Nothing]
+Type = Gameshark
+Activation = EndFrame
+901BEC38 00630000
+
+[Select Infinite Slot 15\Metal Handle]
+Type = Gameshark
+Activation = EndFrame
+901BEC38 00630001
+
+[Select Infinite Slot 15\Brass Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC38 00630002
+
+[Select Infinite Slot 15\Red Book]
+Type = Gameshark
+Activation = EndFrame
+901BEC38 00630003
+
+[Select Infinite Slot 15\Holy Water]
+Type = Gameshark
+Activation = EndFrame
+901BEC38 00630004
+
+[Select Infinite Slot 15\Small Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC38 00630005
+
+[Select Infinite Slot 15\Wire Cutter]
+Type = Gameshark
+Activation = EndFrame
+901BEC38 00630006
+
+[Select Infinite Slot 15\Invitation Letter]
+Type = Gameshark
+Activation = EndFrame
+901BEC38 00630007
+
+[Select Infinite Slot 15\Iron Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC38 00630008
+
+[Select Infinite Slot 15\Sailor Medal A]
+Type = Gameshark
+Activation = EndFrame
+901BEC38 00630009
+
+[Select Infinite Slot 15\Sailor Medal B]
+Type = Gameshark
+Activation = EndFrame
+901BEC38 0063000A
+
+[Select Infinite Slot 15\Sailor Medal C]
+Type = Gameshark
+Activation = EndFrame
+901BEC38 0063000B
+
+[Select Infinite Slot 15\Sailor Medal D]
+Type = Gameshark
+Activation = EndFrame
+901BEC38 0063000C
+
+[Select Infinite Slot 15\Broken Stone]
+Type = Gameshark
+Activation = EndFrame
+901BEC38 0063000D
+
+[Select Infinite Slot 15\Blue Stone Piece]
+Type = Gameshark
+Activation = EndFrame
+901BEC38 0063000E
+
+[Select Infinite Slot 15\Winding Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC38 0063000F
+
+[Select Infinite Slot 15\Glass]
+Type = Gameshark
+Activation = EndFrame
+901BEC38 00630010
+
+[Select Infinite Slot 15\Curing Potion]
+Type = Gameshark
+Activation = EndFrame
+901BEC38 00630011
+
+[Select Infinite Slot 15\Wire]
+Type = Gameshark
+Activation = EndFrame
+901BEC38 00630012
+
+[Select Infinite Slot 15\Athlete's Foot Bot]
+Type = Gameshark
+Activation = EndFrame
+901BEC38 00630013
+
+[Select Infinite Slot 15\Rubber Gloves]
+Type = Gameshark
+Activation = EndFrame
+901BEC38 00630014
+
+[Select Infinite Slot 15\Dress Suit]
+Type = Gameshark
+Activation = EndFrame
+901BEC38 00630015
+
+[Select Infinite Slot 15\Astral Piece]
+Type = Gameshark
+Activation = EndFrame
+901BEC38 00630016
+
+[Select Infinite Slot 15\Flying Fish Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEC38 00630017
+
+[Select Infinite Slot 15\Record]
+Type = Gameshark
+Activation = EndFrame
+901BEC38 00630018
+
+[Select Infinite Slot 15\Knife]
+Type = Gameshark
+Activation = EndFrame
+901BEC38 00630019
+
+[Select Infinite Slot 15\Comet Book]
+Type = Gameshark
+Activation = EndFrame
+901BEC38 0063001A
+
+[Select Infinite Slot 15\Film]
+Type = Gameshark
+Activation = EndFrame
+901BEC38 0063001B
+
+[Select Infinite Slot 15\Crown Piece]
+Type = Gameshark
+Activation = EndFrame
+901BEC38 0063001C
+
+[Select Infinite Slot 15\Old Book]
+Type = Gameshark
+Activation = EndFrame
+901BEC38 0063001D
+
+[Select Infinite Slot 15\Prescription]
+Type = Gameshark
+Activation = EndFrame
+901BEC38 0063001E
+
+[Select Infinite Slot 15\Eye of A Sea Fish]
+Type = Gameshark
+Activation = EndFrame
+901BEC38 0063001F
+
+[Select Infinite Slot 15\Gear]
+Type = Gameshark
+Activation = EndFrame
+901BEC38 00630020
+
+[Select Infinite Slot 15\Water Leaf Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEC38 00630021
+
+[Select Infinite Slot 15\Forest Fire Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEC38 00630022
+
+[Select Infinite Slot 15\Fire Bird Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEC38 00630023
+
+[Select Infinite Slot 15\Claim Ticket]
+Type = Gameshark
+Activation = EndFrame
+901BEC38 00630024
+
+[Select Infinite Slot 15\Kitchen Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC38 00630025
+
+[Select Infinite Slot 15\Crank]
+Type = Gameshark
+Activation = EndFrame
+901BEC38 00630026
+
+[Select Infinite Slot 15\Sailor's Documents]
+Type = Gameshark
+Activation = EndFrame
+901BEC38 00630027
+
+[Select Infinite Slot 15\Engabement Ring]
+Type = Gameshark
+Activation = EndFrame
+901BEC38 00630028
+
+[Select Infinite Slot 15\Bullet]
+Type = Gameshark
+Activation = EndFrame
+901BEC38 00630029
+
+[Select Infinite Slot 15\Earring]
+Type = Gameshark
+Activation = EndFrame
+901BEC38 0063002A
+
+[Select Infinite Slot 15\Music Box]
+Type = Gameshark
+Activation = EndFrame
+901BEC38 0063002B
+
+[Select Infinite Slot 15\Valve]
+Type = Gameshark
+Activation = EndFrame
+901BEC38 0063002C
+
+[Select Infinite Slot 15\Piston Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC38 0063002D
+
+[Select Infinite Slot 15\Engine Room Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC38 0063002E
+
+[Select Infinite Slot 15\Old Picture]
+Type = Gameshark
+Activation = EndFrame
+901BEC38 0063002F
+
+[Select Infinite Slot 15\Blue Stone]
+Type = Gameshark
+Activation = EndFrame
+901BEC38 00630030
+
+[Select Infinite Slot 15\Clock Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC38 00630031
+
+[Select Infinite Slot 15\Claudia's Doll]
+Type = Gameshark
+Activation = EndFrame
+901BEC38 00630032
+
+[Select Infinite Slot 15\Antidote]
+Type = Gameshark
+Activation = EndFrame
+901BEC38 00630033
+
+[Select Infinite Slot 15\Cabinet Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC38 00630034
+
+[Select Infinite Slot 15\Pendant]
+Type = Gameshark
+Activation = EndFrame
+901BEC38 00630035
+
+[Select Infinite Slot 15\Cameo]
+Type = Gameshark
+Activation = EndFrame
+901BEC38 00630036
+
+[Select Infinite Slot 16\Nothing]
+Type = Gameshark
+Activation = EndFrame
+901BEC40 00630000
+
+[Select Infinite Slot 16\Metal Handle]
+Type = Gameshark
+Activation = EndFrame
+901BEC40 00630001
+
+[Select Infinite Slot 16\Brass Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC40 00630002
+
+[Select Infinite Slot 16\Red Book]
+Type = Gameshark
+Activation = EndFrame
+901BEC40 00630003
+
+[Select Infinite Slot 16\Holy Water]
+Type = Gameshark
+Activation = EndFrame
+901BEC40 00630004
+
+[Select Infinite Slot 16\Small Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC40 00630005
+
+[Select Infinite Slot 16\Wire Cutter]
+Type = Gameshark
+Activation = EndFrame
+901BEC40 00630006
+
+[Select Infinite Slot 16\Invitation Letter]
+Type = Gameshark
+Activation = EndFrame
+901BEC40 00630007
+
+[Select Infinite Slot 16\Iron Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC40 00630008
+
+[Select Infinite Slot 16\Sailor Medal A]
+Type = Gameshark
+Activation = EndFrame
+901BEC40 00630009
+
+[Select Infinite Slot 16\Sailor Medal B]
+Type = Gameshark
+Activation = EndFrame
+901BEC40 0063000A
+
+[Select Infinite Slot 16\Sailor Medal C]
+Type = Gameshark
+Activation = EndFrame
+901BEC40 0063000B
+
+[Select Infinite Slot 16\Sailor Medal D]
+Type = Gameshark
+Activation = EndFrame
+901BEC40 0063000C
+
+[Select Infinite Slot 16\Broken Stone]
+Type = Gameshark
+Activation = EndFrame
+901BEC40 0063000D
+
+[Select Infinite Slot 16\Blue Stone Piece]
+Type = Gameshark
+Activation = EndFrame
+901BEC40 0063000E
+
+[Select Infinite Slot 16\Winding Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC40 0063000F
+
+[Select Infinite Slot 16\Glass]
+Type = Gameshark
+Activation = EndFrame
+901BEC40 00630010
+
+[Select Infinite Slot 16\Curing Potion]
+Type = Gameshark
+Activation = EndFrame
+901BEC40 00630011
+
+[Select Infinite Slot 16\Wire]
+Type = Gameshark
+Activation = EndFrame
+901BEC40 00630012
+
+[Select Infinite Slot 16\Athlete's Foot Bot]
+Type = Gameshark
+Activation = EndFrame
+901BEC40 00630013
+
+[Select Infinite Slot 16\Rubber Gloves]
+Type = Gameshark
+Activation = EndFrame
+901BEC40 00630014
+
+[Select Infinite Slot 16\Dress Suit]
+Type = Gameshark
+Activation = EndFrame
+901BEC40 00630015
+
+[Select Infinite Slot 16\Astral Piece]
+Type = Gameshark
+Activation = EndFrame
+901BEC40 00630016
+
+[Select Infinite Slot 16\Flying Fish Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEC40 00630017
+
+[Select Infinite Slot 16\Record]
+Type = Gameshark
+Activation = EndFrame
+901BEC40 00630018
+
+[Select Infinite Slot 16\Knife]
+Type = Gameshark
+Activation = EndFrame
+901BEC40 00630019
+
+[Select Infinite Slot 16\Comet Book]
+Type = Gameshark
+Activation = EndFrame
+901BEC40 0063001A
+
+[Select Infinite Slot 16\Film]
+Type = Gameshark
+Activation = EndFrame
+901BEC40 0063001B
+
+[Select Infinite Slot 16\Crown Piece]
+Type = Gameshark
+Activation = EndFrame
+901BEC40 0063001C
+
+[Select Infinite Slot 16\Old Book]
+Type = Gameshark
+Activation = EndFrame
+901BEC40 0063001D
+
+[Select Infinite Slot 16\Prescription]
+Type = Gameshark
+Activation = EndFrame
+901BEC40 0063001E
+
+[Select Infinite Slot 16\Eye of A Sea Fish]
+Type = Gameshark
+Activation = EndFrame
+901BEC40 0063001F
+
+[Select Infinite Slot 16\Gear]
+Type = Gameshark
+Activation = EndFrame
+901BEC40 00630020
+
+[Select Infinite Slot 16\Water Leaf Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEC40 00630021
+
+[Select Infinite Slot 16\Forest Fire Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEC40 00630022
+
+[Select Infinite Slot 16\Fire Bird Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEC40 00630023
+
+[Select Infinite Slot 16\Claim Ticket]
+Type = Gameshark
+Activation = EndFrame
+901BEC40 00630024
+
+[Select Infinite Slot 16\Kitchen Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC40 00630025
+
+[Select Infinite Slot 16\Crank]
+Type = Gameshark
+Activation = EndFrame
+901BEC40 00630026
+
+[Select Infinite Slot 16\Sailor's Documents]
+Type = Gameshark
+Activation = EndFrame
+901BEC40 00630027
+
+[Select Infinite Slot 16\Engabement Ring]
+Type = Gameshark
+Activation = EndFrame
+901BEC40 00630028
+
+[Select Infinite Slot 16\Bullet]
+Type = Gameshark
+Activation = EndFrame
+901BEC40 00630029
+
+[Select Infinite Slot 16\Earring]
+Type = Gameshark
+Activation = EndFrame
+901BEC40 0063002A
+
+[Select Infinite Slot 16\Music Box]
+Type = Gameshark
+Activation = EndFrame
+901BEC40 0063002B
+
+[Select Infinite Slot 16\Valve]
+Type = Gameshark
+Activation = EndFrame
+901BEC40 0063002C
+
+[Select Infinite Slot 16\Piston Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC40 0063002D
+
+[Select Infinite Slot 16\Engine Room Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC40 0063002E
+
+[Select Infinite Slot 16\Old Picture]
+Type = Gameshark
+Activation = EndFrame
+901BEC40 0063002F
+
+[Select Infinite Slot 16\Blue Stone]
+Type = Gameshark
+Activation = EndFrame
+901BEC40 00630030
+
+[Select Infinite Slot 16\Clock Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC40 00630031
+
+[Select Infinite Slot 16\Claudia's Doll]
+Type = Gameshark
+Activation = EndFrame
+901BEC40 00630032
+
+[Select Infinite Slot 16\Antidote]
+Type = Gameshark
+Activation = EndFrame
+901BEC40 00630033
+
+[Select Infinite Slot 16\Cabinet Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC40 00630034
+
+[Select Infinite Slot 16\Pendant]
+Type = Gameshark
+Activation = EndFrame
+901BEC40 00630035
+
+[Select Infinite Slot 16\Cameo]
+Type = Gameshark
+Activation = EndFrame
+901BEC40 00630036
+
+[Select Infinite Slot 17\Nothing]
+Type = Gameshark
+Activation = EndFrame
+901BEC48 00630000
+
+[Select Infinite Slot 17\Metal Handle]
+Type = Gameshark
+Activation = EndFrame
+901BEC48 00630001
+
+[Select Infinite Slot 17\Brass Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC48 00630002
+
+[Select Infinite Slot 17\Red Book]
+Type = Gameshark
+Activation = EndFrame
+901BEC48 00630003
+
+[Select Infinite Slot 17\Holy Water]
+Type = Gameshark
+Activation = EndFrame
+901BEC48 00630004
+
+[Select Infinite Slot 17\Small Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC48 00630005
+
+[Select Infinite Slot 17\Wire Cutter]
+Type = Gameshark
+Activation = EndFrame
+901BEC48 00630006
+
+[Select Infinite Slot 17\Invitation Letter]
+Type = Gameshark
+Activation = EndFrame
+901BEC48 00630007
+
+[Select Infinite Slot 17\Iron Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC48 00630008
+
+[Select Infinite Slot 17\Sailor Medal A]
+Type = Gameshark
+Activation = EndFrame
+901BEC48 00630009
+
+[Select Infinite Slot 17\Sailor Medal B]
+Type = Gameshark
+Activation = EndFrame
+901BEC48 0063000A
+
+[Select Infinite Slot 17\Sailor Medal C]
+Type = Gameshark
+Activation = EndFrame
+901BEC48 0063000B
+
+[Select Infinite Slot 17\Sailor Medal D]
+Type = Gameshark
+Activation = EndFrame
+901BEC48 0063000C
+
+[Select Infinite Slot 17\Broken Stone]
+Type = Gameshark
+Activation = EndFrame
+901BEC48 0063000D
+
+[Select Infinite Slot 17\Blue Stone Piece]
+Type = Gameshark
+Activation = EndFrame
+901BEC48 0063000E
+
+[Select Infinite Slot 17\Winding Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC48 0063000F
+
+[Select Infinite Slot 17\Glass]
+Type = Gameshark
+Activation = EndFrame
+901BEC48 00630010
+
+[Select Infinite Slot 17\Curing Potion]
+Type = Gameshark
+Activation = EndFrame
+901BEC48 00630011
+
+[Select Infinite Slot 17\Wire]
+Type = Gameshark
+Activation = EndFrame
+901BEC48 00630012
+
+[Select Infinite Slot 17\Athlete's Foot Bot]
+Type = Gameshark
+Activation = EndFrame
+901BEC48 00630013
+
+[Select Infinite Slot 17\Rubber Gloves]
+Type = Gameshark
+Activation = EndFrame
+901BEC48 00630014
+
+[Select Infinite Slot 17\Dress Suit]
+Type = Gameshark
+Activation = EndFrame
+901BEC48 00630015
+
+[Select Infinite Slot 17\Astral Piece]
+Type = Gameshark
+Activation = EndFrame
+901BEC48 00630016
+
+[Select Infinite Slot 17\Flying Fish Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEC48 00630017
+
+[Select Infinite Slot 17\Record]
+Type = Gameshark
+Activation = EndFrame
+901BEC48 00630018
+
+[Select Infinite Slot 17\Knife]
+Type = Gameshark
+Activation = EndFrame
+901BEC48 00630019
+
+[Select Infinite Slot 17\Comet Book]
+Type = Gameshark
+Activation = EndFrame
+901BEC48 0063001A
+
+[Select Infinite Slot 17\Film]
+Type = Gameshark
+Activation = EndFrame
+901BEC48 0063001B
+
+[Select Infinite Slot 17\Crown Piece]
+Type = Gameshark
+Activation = EndFrame
+901BEC48 0063001C
+
+[Select Infinite Slot 17\Old Book]
+Type = Gameshark
+Activation = EndFrame
+901BEC48 0063001D
+
+[Select Infinite Slot 17\Prescription]
+Type = Gameshark
+Activation = EndFrame
+901BEC48 0063001E
+
+[Select Infinite Slot 17\Eye of A Sea Fish]
+Type = Gameshark
+Activation = EndFrame
+901BEC48 0063001F
+
+[Select Infinite Slot 17\Gear]
+Type = Gameshark
+Activation = EndFrame
+901BEC48 00630020
+
+[Select Infinite Slot 17\Water Leaf Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEC48 00630021
+
+[Select Infinite Slot 17\Forest Fire Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEC48 00630022
+
+[Select Infinite Slot 17\Fire Bird Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEC48 00630023
+
+[Select Infinite Slot 17\Claim Ticket]
+Type = Gameshark
+Activation = EndFrame
+901BEC48 00630024
+
+[Select Infinite Slot 17\Kitchen Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC48 00630025
+
+[Select Infinite Slot 17\Crank]
+Type = Gameshark
+Activation = EndFrame
+901BEC48 00630026
+
+[Select Infinite Slot 17\Sailor's Documents]
+Type = Gameshark
+Activation = EndFrame
+901BEC48 00630027
+
+[Select Infinite Slot 17\Engabement Ring]
+Type = Gameshark
+Activation = EndFrame
+901BEC48 00630028
+
+[Select Infinite Slot 17\Bullet]
+Type = Gameshark
+Activation = EndFrame
+901BEC48 00630029
+
+[Select Infinite Slot 17\Earring]
+Type = Gameshark
+Activation = EndFrame
+901BEC48 0063002A
+
+[Select Infinite Slot 17\Music Box]
+Type = Gameshark
+Activation = EndFrame
+901BEC48 0063002B
+
+[Select Infinite Slot 17\Valve]
+Type = Gameshark
+Activation = EndFrame
+901BEC48 0063002C
+
+[Select Infinite Slot 17\Piston Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC48 0063002D
+
+[Select Infinite Slot 17\Engine Room Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC48 0063002E
+
+[Select Infinite Slot 17\Old Picture]
+Type = Gameshark
+Activation = EndFrame
+901BEC48 0063002F
+
+[Select Infinite Slot 17\Blue Stone]
+Type = Gameshark
+Activation = EndFrame
+901BEC48 00630030
+
+[Select Infinite Slot 17\Clock Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC48 00630031
+
+[Select Infinite Slot 17\Claudia's Doll]
+Type = Gameshark
+Activation = EndFrame
+901BEC48 00630032
+
+[Select Infinite Slot 17\Antidote]
+Type = Gameshark
+Activation = EndFrame
+901BEC48 00630033
+
+[Select Infinite Slot 17\Cabinet Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC48 00630034
+
+[Select Infinite Slot 17\Pendant]
+Type = Gameshark
+Activation = EndFrame
+901BEC48 00630035
+
+[Select Infinite Slot 17\Cameo]
+Type = Gameshark
+Activation = EndFrame
+901BEC48 00630036
+
+[Select Infinite Slot 18\Nothing]
+Type = Gameshark
+Activation = EndFrame
+901BEC50 00630000
+
+[Select Infinite Slot 18\Metal Handle]
+Type = Gameshark
+Activation = EndFrame
+901BEC50 00630001
+
+[Select Infinite Slot 18\Brass Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC50 00630002
+
+[Select Infinite Slot 18\Red Book]
+Type = Gameshark
+Activation = EndFrame
+901BEC50 00630003
+
+[Select Infinite Slot 18\Holy Water]
+Type = Gameshark
+Activation = EndFrame
+901BEC50 00630004
+
+[Select Infinite Slot 18\Small Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC50 00630005
+
+[Select Infinite Slot 18\Wire Cutter]
+Type = Gameshark
+Activation = EndFrame
+901BEC50 00630006
+
+[Select Infinite Slot 18\Invitation Letter]
+Type = Gameshark
+Activation = EndFrame
+901BEC50 00630007
+
+[Select Infinite Slot 18\Iron Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC50 00630008
+
+[Select Infinite Slot 18\Sailor Medal A]
+Type = Gameshark
+Activation = EndFrame
+901BEC50 00630009
+
+[Select Infinite Slot 18\Sailor Medal B]
+Type = Gameshark
+Activation = EndFrame
+901BEC50 0063000A
+
+[Select Infinite Slot 18\Sailor Medal C]
+Type = Gameshark
+Activation = EndFrame
+901BEC50 0063000B
+
+[Select Infinite Slot 18\Sailor Medal D]
+Type = Gameshark
+Activation = EndFrame
+901BEC50 0063000C
+
+[Select Infinite Slot 18\Broken Stone]
+Type = Gameshark
+Activation = EndFrame
+901BEC50 0063000D
+
+[Select Infinite Slot 18\Blue Stone Piece]
+Type = Gameshark
+Activation = EndFrame
+901BEC50 0063000E
+
+[Select Infinite Slot 18\Winding Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC50 0063000F
+
+[Select Infinite Slot 18\Glass]
+Type = Gameshark
+Activation = EndFrame
+901BEC50 00630010
+
+[Select Infinite Slot 18\Curing Potion]
+Type = Gameshark
+Activation = EndFrame
+901BEC50 00630011
+
+[Select Infinite Slot 18\Wire]
+Type = Gameshark
+Activation = EndFrame
+901BEC50 00630012
+
+[Select Infinite Slot 18\Athlete's Foot Bot]
+Type = Gameshark
+Activation = EndFrame
+901BEC50 00630013
+
+[Select Infinite Slot 18\Rubber Gloves]
+Type = Gameshark
+Activation = EndFrame
+901BEC50 00630014
+
+[Select Infinite Slot 18\Dress Suit]
+Type = Gameshark
+Activation = EndFrame
+901BEC50 00630015
+
+[Select Infinite Slot 18\Astral Piece]
+Type = Gameshark
+Activation = EndFrame
+901BEC50 00630016
+
+[Select Infinite Slot 18\Flying Fish Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEC50 00630017
+
+[Select Infinite Slot 18\Record]
+Type = Gameshark
+Activation = EndFrame
+901BEC50 00630018
+
+[Select Infinite Slot 18\Knife]
+Type = Gameshark
+Activation = EndFrame
+901BEC50 00630019
+
+[Select Infinite Slot 18\Comet Book]
+Type = Gameshark
+Activation = EndFrame
+901BEC50 0063001A
+
+[Select Infinite Slot 18\Film]
+Type = Gameshark
+Activation = EndFrame
+901BEC50 0063001B
+
+[Select Infinite Slot 18\Crown Piece]
+Type = Gameshark
+Activation = EndFrame
+901BEC50 0063001C
+
+[Select Infinite Slot 18\Old Book]
+Type = Gameshark
+Activation = EndFrame
+901BEC50 0063001D
+
+[Select Infinite Slot 18\Prescription]
+Type = Gameshark
+Activation = EndFrame
+901BEC50 0063001E
+
+[Select Infinite Slot 18\Eye of A Sea Fish]
+Type = Gameshark
+Activation = EndFrame
+901BEC50 0063001F
+
+[Select Infinite Slot 18\Gear]
+Type = Gameshark
+Activation = EndFrame
+901BEC50 00630020
+
+[Select Infinite Slot 18\Water Leaf Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEC50 00630021
+
+[Select Infinite Slot 18\Forest Fire Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEC50 00630022
+
+[Select Infinite Slot 18\Fire Bird Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEC50 00630023
+
+[Select Infinite Slot 18\Claim Ticket]
+Type = Gameshark
+Activation = EndFrame
+901BEC50 00630024
+
+[Select Infinite Slot 18\Kitchen Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC50 00630025
+
+[Select Infinite Slot 18\Crank]
+Type = Gameshark
+Activation = EndFrame
+901BEC50 00630026
+
+[Select Infinite Slot 18\Sailor's Documents]
+Type = Gameshark
+Activation = EndFrame
+901BEC50 00630027
+
+[Select Infinite Slot 18\Engabement Ring]
+Type = Gameshark
+Activation = EndFrame
+901BEC50 00630028
+
+[Select Infinite Slot 18\Bullet]
+Type = Gameshark
+Activation = EndFrame
+901BEC50 00630029
+
+[Select Infinite Slot 18\Earring]
+Type = Gameshark
+Activation = EndFrame
+901BEC50 0063002A
+
+[Select Infinite Slot 18\Music Box]
+Type = Gameshark
+Activation = EndFrame
+901BEC50 0063002B
+
+[Select Infinite Slot 18\Valve]
+Type = Gameshark
+Activation = EndFrame
+901BEC50 0063002C
+
+[Select Infinite Slot 18\Piston Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC50 0063002D
+
+[Select Infinite Slot 18\Engine Room Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC50 0063002E
+
+[Select Infinite Slot 18\Old Picture]
+Type = Gameshark
+Activation = EndFrame
+901BEC50 0063002F
+
+[Select Infinite Slot 18\Blue Stone]
+Type = Gameshark
+Activation = EndFrame
+901BEC50 00630030
+
+[Select Infinite Slot 18\Clock Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC50 00630031
+
+[Select Infinite Slot 18\Claudia's Doll]
+Type = Gameshark
+Activation = EndFrame
+901BEC50 00630032
+
+[Select Infinite Slot 18\Antidote]
+Type = Gameshark
+Activation = EndFrame
+901BEC50 00630033
+
+[Select Infinite Slot 18\Cabinet Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC50 00630034
+
+[Select Infinite Slot 18\Pendant]
+Type = Gameshark
+Activation = EndFrame
+901BEC50 00630035
+
+[Select Infinite Slot 18\Cameo]
+Type = Gameshark
+Activation = EndFrame
+901BEC50 00630036
+
+[Select Infinite Slot 19\Nothing]
+Type = Gameshark
+Activation = EndFrame
+901BEC58 00630000
+
+[Select Infinite Slot 19\Metal Handle]
+Type = Gameshark
+Activation = EndFrame
+901BEC58 00630001
+
+[Select Infinite Slot 19\Brass Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC58 00630002
+
+[Select Infinite Slot 19\Red Book]
+Type = Gameshark
+Activation = EndFrame
+901BEC58 00630003
+
+[Select Infinite Slot 19\Holy Water]
+Type = Gameshark
+Activation = EndFrame
+901BEC58 00630004
+
+[Select Infinite Slot 19\Small Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC58 00630005
+
+[Select Infinite Slot 19\Wire Cutter]
+Type = Gameshark
+Activation = EndFrame
+901BEC58 00630006
+
+[Select Infinite Slot 19\Invitation Letter]
+Type = Gameshark
+Activation = EndFrame
+901BEC58 00630007
+
+[Select Infinite Slot 19\Iron Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC58 00630008
+
+[Select Infinite Slot 19\Sailor Medal A]
+Type = Gameshark
+Activation = EndFrame
+901BEC58 00630009
+
+[Select Infinite Slot 19\Sailor Medal B]
+Type = Gameshark
+Activation = EndFrame
+901BEC58 0063000A
+
+[Select Infinite Slot 19\Sailor Medal C]
+Type = Gameshark
+Activation = EndFrame
+901BEC58 0063000B
+
+[Select Infinite Slot 19\Sailor Medal D]
+Type = Gameshark
+Activation = EndFrame
+901BEC58 0063000C
+
+[Select Infinite Slot 19\Broken Stone]
+Type = Gameshark
+Activation = EndFrame
+901BEC58 0063000D
+
+[Select Infinite Slot 19\Blue Stone Piece]
+Type = Gameshark
+Activation = EndFrame
+901BEC58 0063000E
+
+[Select Infinite Slot 19\Winding Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC58 0063000F
+
+[Select Infinite Slot 19\Glass]
+Type = Gameshark
+Activation = EndFrame
+901BEC58 00630010
+
+[Select Infinite Slot 19\Curing Potion]
+Type = Gameshark
+Activation = EndFrame
+901BEC58 00630011
+
+[Select Infinite Slot 19\Wire]
+Type = Gameshark
+Activation = EndFrame
+901BEC58 00630012
+
+[Select Infinite Slot 19\Athlete's Foot Bot]
+Type = Gameshark
+Activation = EndFrame
+901BEC58 00630013
+
+[Select Infinite Slot 19\Rubber Gloves]
+Type = Gameshark
+Activation = EndFrame
+901BEC58 00630014
+
+[Select Infinite Slot 19\Dress Suit]
+Type = Gameshark
+Activation = EndFrame
+901BEC58 00630015
+
+[Select Infinite Slot 19\Astral Piece]
+Type = Gameshark
+Activation = EndFrame
+901BEC58 00630016
+
+[Select Infinite Slot 19\Flying Fish Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEC58 00630017
+
+[Select Infinite Slot 19\Record]
+Type = Gameshark
+Activation = EndFrame
+901BEC58 00630018
+
+[Select Infinite Slot 19\Knife]
+Type = Gameshark
+Activation = EndFrame
+901BEC58 00630019
+
+[Select Infinite Slot 19\Comet Book]
+Type = Gameshark
+Activation = EndFrame
+901BEC58 0063001A
+
+[Select Infinite Slot 19\Film]
+Type = Gameshark
+Activation = EndFrame
+901BEC58 0063001B
+
+[Select Infinite Slot 19\Crown Piece]
+Type = Gameshark
+Activation = EndFrame
+901BEC58 0063001C
+
+[Select Infinite Slot 19\Old Book]
+Type = Gameshark
+Activation = EndFrame
+901BEC58 0063001D
+
+[Select Infinite Slot 19\Prescription]
+Type = Gameshark
+Activation = EndFrame
+901BEC58 0063001E
+
+[Select Infinite Slot 19\Eye of A Sea Fish]
+Type = Gameshark
+Activation = EndFrame
+901BEC58 0063001F
+
+[Select Infinite Slot 19\Gear]
+Type = Gameshark
+Activation = EndFrame
+901BEC58 00630020
+
+[Select Infinite Slot 19\Water Leaf Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEC58 00630021
+
+[Select Infinite Slot 19\Forest Fire Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEC58 00630022
+
+[Select Infinite Slot 19\Fire Bird Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEC58 00630023
+
+[Select Infinite Slot 19\Claim Ticket]
+Type = Gameshark
+Activation = EndFrame
+901BEC58 00630024
+
+[Select Infinite Slot 19\Kitchen Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC58 00630025
+
+[Select Infinite Slot 19\Crank]
+Type = Gameshark
+Activation = EndFrame
+901BEC58 00630026
+
+[Select Infinite Slot 19\Sailor's Documents]
+Type = Gameshark
+Activation = EndFrame
+901BEC58 00630027
+
+[Select Infinite Slot 19\Engabement Ring]
+Type = Gameshark
+Activation = EndFrame
+901BEC58 00630028
+
+[Select Infinite Slot 19\Bullet]
+Type = Gameshark
+Activation = EndFrame
+901BEC58 00630029
+
+[Select Infinite Slot 19\Earring]
+Type = Gameshark
+Activation = EndFrame
+901BEC58 0063002A
+
+[Select Infinite Slot 19\Music Box]
+Type = Gameshark
+Activation = EndFrame
+901BEC58 0063002B
+
+[Select Infinite Slot 19\Valve]
+Type = Gameshark
+Activation = EndFrame
+901BEC58 0063002C
+
+[Select Infinite Slot 19\Piston Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC58 0063002D
+
+[Select Infinite Slot 19\Engine Room Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC58 0063002E
+
+[Select Infinite Slot 19\Old Picture]
+Type = Gameshark
+Activation = EndFrame
+901BEC58 0063002F
+
+[Select Infinite Slot 19\Blue Stone]
+Type = Gameshark
+Activation = EndFrame
+901BEC58 00630030
+
+[Select Infinite Slot 19\Clock Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC58 00630031
+
+[Select Infinite Slot 19\Claudia's Doll]
+Type = Gameshark
+Activation = EndFrame
+901BEC58 00630032
+
+[Select Infinite Slot 19\Antidote]
+Type = Gameshark
+Activation = EndFrame
+901BEC58 00630033
+
+[Select Infinite Slot 19\Cabinet Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC58 00630034
+
+[Select Infinite Slot 19\Pendant]
+Type = Gameshark
+Activation = EndFrame
+901BEC58 00630035
+
+[Select Infinite Slot 19\Cameo]
+Type = Gameshark
+Activation = EndFrame
+901BEC58 00630036
+
+[Select Infinite Slot 20\Nothing]
+Type = Gameshark
+Activation = EndFrame
+901BEC60 00630000
+
+[Select Infinite Slot 20\Metal Handle]
+Type = Gameshark
+Activation = EndFrame
+901BEC60 00630001
+
+[Select Infinite Slot 20\Brass Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC60 00630002
+
+[Select Infinite Slot 20\Red Book]
+Type = Gameshark
+Activation = EndFrame
+901BEC60 00630003
+
+[Select Infinite Slot 20\Holy Water]
+Type = Gameshark
+Activation = EndFrame
+901BEC60 00630004
+
+[Select Infinite Slot 20\Small Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC60 00630005
+
+[Select Infinite Slot 20\Wire Cutter]
+Type = Gameshark
+Activation = EndFrame
+901BEC60 00630006
+
+[Select Infinite Slot 20\Invitation Letter]
+Type = Gameshark
+Activation = EndFrame
+901BEC60 00630007
+
+[Select Infinite Slot 20\Iron Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC60 00630008
+
+[Select Infinite Slot 20\Sailor Medal A]
+Type = Gameshark
+Activation = EndFrame
+901BEC60 00630009
+
+[Select Infinite Slot 20\Sailor Medal B]
+Type = Gameshark
+Activation = EndFrame
+901BEC60 0063000A
+
+[Select Infinite Slot 20\Sailor Medal C]
+Type = Gameshark
+Activation = EndFrame
+901BEC60 0063000B
+
+[Select Infinite Slot 20\Sailor Medal D]
+Type = Gameshark
+Activation = EndFrame
+901BEC60 0063000C
+
+[Select Infinite Slot 20\Broken Stone]
+Type = Gameshark
+Activation = EndFrame
+901BEC60 0063000D
+
+[Select Infinite Slot 20\Blue Stone Piece]
+Type = Gameshark
+Activation = EndFrame
+901BEC60 0063000E
+
+[Select Infinite Slot 20\Winding Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC60 0063000F
+
+[Select Infinite Slot 20\Glass]
+Type = Gameshark
+Activation = EndFrame
+901BEC60 00630010
+
+[Select Infinite Slot 20\Curing Potion]
+Type = Gameshark
+Activation = EndFrame
+901BEC60 00630011
+
+[Select Infinite Slot 20\Wire]
+Type = Gameshark
+Activation = EndFrame
+901BEC60 00630012
+
+[Select Infinite Slot 20\Athlete's Foot Bot]
+Type = Gameshark
+Activation = EndFrame
+901BEC60 00630013
+
+[Select Infinite Slot 20\Rubber Gloves]
+Type = Gameshark
+Activation = EndFrame
+901BEC60 00630014
+
+[Select Infinite Slot 20\Dress Suit]
+Type = Gameshark
+Activation = EndFrame
+901BEC60 00630015
+
+[Select Infinite Slot 20\Astral Piece]
+Type = Gameshark
+Activation = EndFrame
+901BEC60 00630016
+
+[Select Infinite Slot 20\Flying Fish Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEC60 00630017
+
+[Select Infinite Slot 20\Record]
+Type = Gameshark
+Activation = EndFrame
+901BEC60 00630018
+
+[Select Infinite Slot 20\Knife]
+Type = Gameshark
+Activation = EndFrame
+901BEC60 00630019
+
+[Select Infinite Slot 20\Comet Book]
+Type = Gameshark
+Activation = EndFrame
+901BEC60 0063001A
+
+[Select Infinite Slot 20\Film]
+Type = Gameshark
+Activation = EndFrame
+901BEC60 0063001B
+
+[Select Infinite Slot 20\Crown Piece]
+Type = Gameshark
+Activation = EndFrame
+901BEC60 0063001C
+
+[Select Infinite Slot 20\Old Book]
+Type = Gameshark
+Activation = EndFrame
+901BEC60 0063001D
+
+[Select Infinite Slot 20\Prescription]
+Type = Gameshark
+Activation = EndFrame
+901BEC60 0063001E
+
+[Select Infinite Slot 20\Eye of A Sea Fish]
+Type = Gameshark
+Activation = EndFrame
+901BEC60 0063001F
+
+[Select Infinite Slot 20\Gear]
+Type = Gameshark
+Activation = EndFrame
+901BEC60 00630020
+
+[Select Infinite Slot 20\Water Leaf Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEC60 00630021
+
+[Select Infinite Slot 20\Forest Fire Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEC60 00630022
+
+[Select Infinite Slot 20\Fire Bird Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEC60 00630023
+
+[Select Infinite Slot 20\Claim Ticket]
+Type = Gameshark
+Activation = EndFrame
+901BEC60 00630024
+
+[Select Infinite Slot 20\Kitchen Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC60 00630025
+
+[Select Infinite Slot 20\Crank]
+Type = Gameshark
+Activation = EndFrame
+901BEC60 00630026
+
+[Select Infinite Slot 20\Sailor's Documents]
+Type = Gameshark
+Activation = EndFrame
+901BEC60 00630027
+
+[Select Infinite Slot 20\Engabement Ring]
+Type = Gameshark
+Activation = EndFrame
+901BEC60 00630028
+
+[Select Infinite Slot 20\Bullet]
+Type = Gameshark
+Activation = EndFrame
+901BEC60 00630029
+
+[Select Infinite Slot 20\Earring]
+Type = Gameshark
+Activation = EndFrame
+901BEC60 0063002A
+
+[Select Infinite Slot 20\Music Box]
+Type = Gameshark
+Activation = EndFrame
+901BEC60 0063002B
+
+[Select Infinite Slot 20\Valve]
+Type = Gameshark
+Activation = EndFrame
+901BEC60 0063002C
+
+[Select Infinite Slot 20\Piston Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC60 0063002D
+
+[Select Infinite Slot 20\Engine Room Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC60 0063002E
+
+[Select Infinite Slot 20\Old Picture]
+Type = Gameshark
+Activation = EndFrame
+901BEC60 0063002F
+
+[Select Infinite Slot 20\Blue Stone]
+Type = Gameshark
+Activation = EndFrame
+901BEC60 00630030
+
+[Select Infinite Slot 20\Clock Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC60 00630031
+
+[Select Infinite Slot 20\Claudia's Doll]
+Type = Gameshark
+Activation = EndFrame
+901BEC60 00630032
+
+[Select Infinite Slot 20\Antidote]
+Type = Gameshark
+Activation = EndFrame
+901BEC60 00630033
+
+[Select Infinite Slot 20\Cabinet Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC60 00630034
+
+[Select Infinite Slot 20\Pendant]
+Type = Gameshark
+Activation = EndFrame
+901BEC60 00630035
+
+[Select Infinite Slot 20\Cameo]
+Type = Gameshark
+Activation = EndFrame
+901BEC60 00630036
+
+[Select Infinite Slot 21\Nothing]
+Type = Gameshark
+Activation = EndFrame
+901BEC68 00630000
+
+[Select Infinite Slot 21\Metal Handle]
+Type = Gameshark
+Activation = EndFrame
+901BEC68 00630001
+
+[Select Infinite Slot 21\Brass Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC68 00630002
+
+[Select Infinite Slot 21\Red Book]
+Type = Gameshark
+Activation = EndFrame
+901BEC68 00630003
+
+[Select Infinite Slot 21\Holy Water]
+Type = Gameshark
+Activation = EndFrame
+901BEC68 00630004
+
+[Select Infinite Slot 21\Small Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC68 00630005
+
+[Select Infinite Slot 21\Wire Cutter]
+Type = Gameshark
+Activation = EndFrame
+901BEC68 00630006
+
+[Select Infinite Slot 21\Invitation Letter]
+Type = Gameshark
+Activation = EndFrame
+901BEC68 00630007
+
+[Select Infinite Slot 21\Iron Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC68 00630008
+
+[Select Infinite Slot 21\Sailor Medal A]
+Type = Gameshark
+Activation = EndFrame
+901BEC68 00630009
+
+[Select Infinite Slot 21\Sailor Medal B]
+Type = Gameshark
+Activation = EndFrame
+901BEC68 0063000A
+
+[Select Infinite Slot 21\Sailor Medal C]
+Type = Gameshark
+Activation = EndFrame
+901BEC68 0063000B
+
+[Select Infinite Slot 21\Sailor Medal D]
+Type = Gameshark
+Activation = EndFrame
+901BEC68 0063000C
+
+[Select Infinite Slot 21\Broken Stone]
+Type = Gameshark
+Activation = EndFrame
+901BEC68 0063000D
+
+[Select Infinite Slot 21\Blue Stone Piece]
+Type = Gameshark
+Activation = EndFrame
+901BEC68 0063000E
+
+[Select Infinite Slot 21\Winding Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC68 0063000F
+
+[Select Infinite Slot 21\Glass]
+Type = Gameshark
+Activation = EndFrame
+901BEC68 00630010
+
+[Select Infinite Slot 21\Curing Potion]
+Type = Gameshark
+Activation = EndFrame
+901BEC68 00630011
+
+[Select Infinite Slot 21\Wire]
+Type = Gameshark
+Activation = EndFrame
+901BEC68 00630012
+
+[Select Infinite Slot 21\Athlete's Foot Bot]
+Type = Gameshark
+Activation = EndFrame
+901BEC68 00630013
+
+[Select Infinite Slot 21\Rubber Gloves]
+Type = Gameshark
+Activation = EndFrame
+901BEC68 00630014
+
+[Select Infinite Slot 21\Dress Suit]
+Type = Gameshark
+Activation = EndFrame
+901BEC68 00630015
+
+[Select Infinite Slot 21\Astral Piece]
+Type = Gameshark
+Activation = EndFrame
+901BEC68 00630016
+
+[Select Infinite Slot 21\Flying Fish Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEC68 00630017
+
+[Select Infinite Slot 21\Record]
+Type = Gameshark
+Activation = EndFrame
+901BEC68 00630018
+
+[Select Infinite Slot 21\Knife]
+Type = Gameshark
+Activation = EndFrame
+901BEC68 00630019
+
+[Select Infinite Slot 21\Comet Book]
+Type = Gameshark
+Activation = EndFrame
+901BEC68 0063001A
+
+[Select Infinite Slot 21\Film]
+Type = Gameshark
+Activation = EndFrame
+901BEC68 0063001B
+
+[Select Infinite Slot 21\Crown Piece]
+Type = Gameshark
+Activation = EndFrame
+901BEC68 0063001C
+
+[Select Infinite Slot 21\Old Book]
+Type = Gameshark
+Activation = EndFrame
+901BEC68 0063001D
+
+[Select Infinite Slot 21\Prescription]
+Type = Gameshark
+Activation = EndFrame
+901BEC68 0063001E
+
+[Select Infinite Slot 21\Eye of A Sea Fish]
+Type = Gameshark
+Activation = EndFrame
+901BEC68 0063001F
+
+[Select Infinite Slot 21\Gear]
+Type = Gameshark
+Activation = EndFrame
+901BEC68 00630020
+
+[Select Infinite Slot 21\Water Leaf Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEC68 00630021
+
+[Select Infinite Slot 21\Forest Fire Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEC68 00630022
+
+[Select Infinite Slot 21\Fire Bird Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEC68 00630023
+
+[Select Infinite Slot 21\Claim Ticket]
+Type = Gameshark
+Activation = EndFrame
+901BEC68 00630024
+
+[Select Infinite Slot 21\Kitchen Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC68 00630025
+
+[Select Infinite Slot 21\Crank]
+Type = Gameshark
+Activation = EndFrame
+901BEC68 00630026
+
+[Select Infinite Slot 21\Sailor's Documents]
+Type = Gameshark
+Activation = EndFrame
+901BEC68 00630027
+
+[Select Infinite Slot 21\Engabement Ring]
+Type = Gameshark
+Activation = EndFrame
+901BEC68 00630028
+
+[Select Infinite Slot 21\Bullet]
+Type = Gameshark
+Activation = EndFrame
+901BEC68 00630029
+
+[Select Infinite Slot 21\Earring]
+Type = Gameshark
+Activation = EndFrame
+901BEC68 0063002A
+
+[Select Infinite Slot 21\Music Box]
+Type = Gameshark
+Activation = EndFrame
+901BEC68 0063002B
+
+[Select Infinite Slot 21\Valve]
+Type = Gameshark
+Activation = EndFrame
+901BEC68 0063002C
+
+[Select Infinite Slot 21\Piston Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC68 0063002D
+
+[Select Infinite Slot 21\Engine Room Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC68 0063002E
+
+[Select Infinite Slot 21\Old Picture]
+Type = Gameshark
+Activation = EndFrame
+901BEC68 0063002F
+
+[Select Infinite Slot 21\Blue Stone]
+Type = Gameshark
+Activation = EndFrame
+901BEC68 00630030
+
+[Select Infinite Slot 21\Clock Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC68 00630031
+
+[Select Infinite Slot 21\Claudia's Doll]
+Type = Gameshark
+Activation = EndFrame
+901BEC68 00630032
+
+[Select Infinite Slot 21\Antidote]
+Type = Gameshark
+Activation = EndFrame
+901BEC68 00630033
+
+[Select Infinite Slot 21\Cabinet Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC68 00630034
+
+[Select Infinite Slot 21\Pendant]
+Type = Gameshark
+Activation = EndFrame
+901BEC68 00630035
+
+[Select Infinite Slot 21\Cameo]
+Type = Gameshark
+Activation = EndFrame
+901BEC68 00630036
+
+[Select Infinite Slot 22\Nothing]
+Type = Gameshark
+Activation = EndFrame
+901BEC70 00630000
+
+[Select Infinite Slot 22\Metal Handle]
+Type = Gameshark
+Activation = EndFrame
+901BEC70 00630001
+
+[Select Infinite Slot 22\Brass Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC70 00630002
+
+[Select Infinite Slot 22\Red Book]
+Type = Gameshark
+Activation = EndFrame
+901BEC70 00630003
+
+[Select Infinite Slot 22\Holy Water]
+Type = Gameshark
+Activation = EndFrame
+901BEC70 00630004
+
+[Select Infinite Slot 22\Small Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC70 00630005
+
+[Select Infinite Slot 22\Wire Cutter]
+Type = Gameshark
+Activation = EndFrame
+901BEC70 00630006
+
+[Select Infinite Slot 22\Invitation Letter]
+Type = Gameshark
+Activation = EndFrame
+901BEC70 00630007
+
+[Select Infinite Slot 22\Iron Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC70 00630008
+
+[Select Infinite Slot 22\Sailor Medal A]
+Type = Gameshark
+Activation = EndFrame
+901BEC70 00630009
+
+[Select Infinite Slot 22\Sailor Medal B]
+Type = Gameshark
+Activation = EndFrame
+901BEC70 0063000A
+
+[Select Infinite Slot 22\Sailor Medal C]
+Type = Gameshark
+Activation = EndFrame
+901BEC70 0063000B
+
+[Select Infinite Slot 22\Sailor Medal D]
+Type = Gameshark
+Activation = EndFrame
+901BEC70 0063000C
+
+[Select Infinite Slot 22\Broken Stone]
+Type = Gameshark
+Activation = EndFrame
+901BEC70 0063000D
+
+[Select Infinite Slot 22\Blue Stone Piece]
+Type = Gameshark
+Activation = EndFrame
+901BEC70 0063000E
+
+[Select Infinite Slot 22\Winding Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC70 0063000F
+
+[Select Infinite Slot 22\Glass]
+Type = Gameshark
+Activation = EndFrame
+901BEC70 00630010
+
+[Select Infinite Slot 22\Curing Potion]
+Type = Gameshark
+Activation = EndFrame
+901BEC70 00630011
+
+[Select Infinite Slot 22\Wire]
+Type = Gameshark
+Activation = EndFrame
+901BEC70 00630012
+
+[Select Infinite Slot 22\Athlete's Foot Bot]
+Type = Gameshark
+Activation = EndFrame
+901BEC70 00630013
+
+[Select Infinite Slot 22\Rubber Gloves]
+Type = Gameshark
+Activation = EndFrame
+901BEC70 00630014
+
+[Select Infinite Slot 22\Dress Suit]
+Type = Gameshark
+Activation = EndFrame
+901BEC70 00630015
+
+[Select Infinite Slot 22\Astral Piece]
+Type = Gameshark
+Activation = EndFrame
+901BEC70 00630016
+
+[Select Infinite Slot 22\Flying Fish Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEC70 00630017
+
+[Select Infinite Slot 22\Record]
+Type = Gameshark
+Activation = EndFrame
+901BEC70 00630018
+
+[Select Infinite Slot 22\Knife]
+Type = Gameshark
+Activation = EndFrame
+901BEC70 00630019
+
+[Select Infinite Slot 22\Comet Book]
+Type = Gameshark
+Activation = EndFrame
+901BEC70 0063001A
+
+[Select Infinite Slot 22\Film]
+Type = Gameshark
+Activation = EndFrame
+901BEC70 0063001B
+
+[Select Infinite Slot 22\Crown Piece]
+Type = Gameshark
+Activation = EndFrame
+901BEC70 0063001C
+
+[Select Infinite Slot 22\Old Book]
+Type = Gameshark
+Activation = EndFrame
+901BEC70 0063001D
+
+[Select Infinite Slot 22\Prescription]
+Type = Gameshark
+Activation = EndFrame
+901BEC70 0063001E
+
+[Select Infinite Slot 22\Eye of A Sea Fish]
+Type = Gameshark
+Activation = EndFrame
+901BEC70 0063001F
+
+[Select Infinite Slot 22\Gear]
+Type = Gameshark
+Activation = EndFrame
+901BEC70 00630020
+
+[Select Infinite Slot 22\Water Leaf Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEC70 00630021
+
+[Select Infinite Slot 22\Forest Fire Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEC70 00630022
+
+[Select Infinite Slot 22\Fire Bird Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEC70 00630023
+
+[Select Infinite Slot 22\Claim Ticket]
+Type = Gameshark
+Activation = EndFrame
+901BEC70 00630024
+
+[Select Infinite Slot 22\Kitchen Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC70 00630025
+
+[Select Infinite Slot 22\Crank]
+Type = Gameshark
+Activation = EndFrame
+901BEC70 00630026
+
+[Select Infinite Slot 22\Sailor's Documents]
+Type = Gameshark
+Activation = EndFrame
+901BEC70 00630027
+
+[Select Infinite Slot 22\Engabement Ring]
+Type = Gameshark
+Activation = EndFrame
+901BEC70 00630028
+
+[Select Infinite Slot 22\Bullet]
+Type = Gameshark
+Activation = EndFrame
+901BEC70 00630029
+
+[Select Infinite Slot 22\Earring]
+Type = Gameshark
+Activation = EndFrame
+901BEC70 0063002A
+
+[Select Infinite Slot 22\Music Box]
+Type = Gameshark
+Activation = EndFrame
+901BEC70 0063002B
+
+[Select Infinite Slot 22\Valve]
+Type = Gameshark
+Activation = EndFrame
+901BEC70 0063002C
+
+[Select Infinite Slot 22\Piston Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC70 0063002D
+
+[Select Infinite Slot 22\Engine Room Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC70 0063002E
+
+[Select Infinite Slot 22\Old Picture]
+Type = Gameshark
+Activation = EndFrame
+901BEC70 0063002F
+
+[Select Infinite Slot 22\Blue Stone]
+Type = Gameshark
+Activation = EndFrame
+901BEC70 00630030
+
+[Select Infinite Slot 22\Clock Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC70 00630031
+
+[Select Infinite Slot 22\Claudia's Doll]
+Type = Gameshark
+Activation = EndFrame
+901BEC70 00630032
+
+[Select Infinite Slot 22\Antidote]
+Type = Gameshark
+Activation = EndFrame
+901BEC70 00630033
+
+[Select Infinite Slot 22\Cabinet Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC70 00630034
+
+[Select Infinite Slot 22\Pendant]
+Type = Gameshark
+Activation = EndFrame
+901BEC70 00630035
+
+[Select Infinite Slot 22\Cameo]
+Type = Gameshark
+Activation = EndFrame
+901BEC70 00630036
+
+[Select Infinite Slot 23\Nothing]
+Type = Gameshark
+Activation = EndFrame
+901BEC78 00630000
+
+[Select Infinite Slot 23\Metal Handle]
+Type = Gameshark
+Activation = EndFrame
+901BEC78 00630001
+
+[Select Infinite Slot 23\Brass Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC78 00630002
+
+[Select Infinite Slot 23\Red Book]
+Type = Gameshark
+Activation = EndFrame
+901BEC78 00630003
+
+[Select Infinite Slot 23\Holy Water]
+Type = Gameshark
+Activation = EndFrame
+901BEC78 00630004
+
+[Select Infinite Slot 23\Small Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC78 00630005
+
+[Select Infinite Slot 23\Wire Cutter]
+Type = Gameshark
+Activation = EndFrame
+901BEC78 00630006
+
+[Select Infinite Slot 23\Invitation Letter]
+Type = Gameshark
+Activation = EndFrame
+901BEC78 00630007
+
+[Select Infinite Slot 23\Iron Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC78 00630008
+
+[Select Infinite Slot 23\Sailor Medal A]
+Type = Gameshark
+Activation = EndFrame
+901BEC78 00630009
+
+[Select Infinite Slot 23\Sailor Medal B]
+Type = Gameshark
+Activation = EndFrame
+901BEC78 0063000A
+
+[Select Infinite Slot 23\Sailor Medal C]
+Type = Gameshark
+Activation = EndFrame
+901BEC78 0063000B
+
+[Select Infinite Slot 23\Sailor Medal D]
+Type = Gameshark
+Activation = EndFrame
+901BEC78 0063000C
+
+[Select Infinite Slot 23\Broken Stone]
+Type = Gameshark
+Activation = EndFrame
+901BEC78 0063000D
+
+[Select Infinite Slot 23\Blue Stone Piece]
+Type = Gameshark
+Activation = EndFrame
+901BEC78 0063000E
+
+[Select Infinite Slot 23\Winding Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC78 0063000F
+
+[Select Infinite Slot 23\Glass]
+Type = Gameshark
+Activation = EndFrame
+901BEC78 00630010
+
+[Select Infinite Slot 23\Curing Potion]
+Type = Gameshark
+Activation = EndFrame
+901BEC78 00630011
+
+[Select Infinite Slot 23\Wire]
+Type = Gameshark
+Activation = EndFrame
+901BEC78 00630012
+
+[Select Infinite Slot 23\Athlete's Foot Bot]
+Type = Gameshark
+Activation = EndFrame
+901BEC78 00630013
+
+[Select Infinite Slot 23\Rubber Gloves]
+Type = Gameshark
+Activation = EndFrame
+901BEC78 00630014
+
+[Select Infinite Slot 23\Dress Suit]
+Type = Gameshark
+Activation = EndFrame
+901BEC78 00630015
+
+[Select Infinite Slot 23\Astral Piece]
+Type = Gameshark
+Activation = EndFrame
+901BEC78 00630016
+
+[Select Infinite Slot 23\Flying Fish Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEC78 00630017
+
+[Select Infinite Slot 23\Record]
+Type = Gameshark
+Activation = EndFrame
+901BEC78 00630018
+
+[Select Infinite Slot 23\Knife]
+Type = Gameshark
+Activation = EndFrame
+901BEC78 00630019
+
+[Select Infinite Slot 23\Comet Book]
+Type = Gameshark
+Activation = EndFrame
+901BEC78 0063001A
+
+[Select Infinite Slot 23\Film]
+Type = Gameshark
+Activation = EndFrame
+901BEC78 0063001B
+
+[Select Infinite Slot 23\Crown Piece]
+Type = Gameshark
+Activation = EndFrame
+901BEC78 0063001C
+
+[Select Infinite Slot 23\Old Book]
+Type = Gameshark
+Activation = EndFrame
+901BEC78 0063001D
+
+[Select Infinite Slot 23\Prescription]
+Type = Gameshark
+Activation = EndFrame
+901BEC78 0063001E
+
+[Select Infinite Slot 23\Eye of A Sea Fish]
+Type = Gameshark
+Activation = EndFrame
+901BEC78 0063001F
+
+[Select Infinite Slot 23\Gear]
+Type = Gameshark
+Activation = EndFrame
+901BEC78 00630020
+
+[Select Infinite Slot 23\Water Leaf Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEC78 00630021
+
+[Select Infinite Slot 23\Forest Fire Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEC78 00630022
+
+[Select Infinite Slot 23\Fire Bird Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEC78 00630023
+
+[Select Infinite Slot 23\Claim Ticket]
+Type = Gameshark
+Activation = EndFrame
+901BEC78 00630024
+
+[Select Infinite Slot 23\Kitchen Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC78 00630025
+
+[Select Infinite Slot 23\Crank]
+Type = Gameshark
+Activation = EndFrame
+901BEC78 00630026
+
+[Select Infinite Slot 23\Sailor's Documents]
+Type = Gameshark
+Activation = EndFrame
+901BEC78 00630027
+
+[Select Infinite Slot 23\Engabement Ring]
+Type = Gameshark
+Activation = EndFrame
+901BEC78 00630028
+
+[Select Infinite Slot 23\Bullet]
+Type = Gameshark
+Activation = EndFrame
+901BEC78 00630029
+
+[Select Infinite Slot 23\Earring]
+Type = Gameshark
+Activation = EndFrame
+901BEC78 0063002A
+
+[Select Infinite Slot 23\Music Box]
+Type = Gameshark
+Activation = EndFrame
+901BEC78 0063002B
+
+[Select Infinite Slot 23\Valve]
+Type = Gameshark
+Activation = EndFrame
+901BEC78 0063002C
+
+[Select Infinite Slot 23\Piston Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC78 0063002D
+
+[Select Infinite Slot 23\Engine Room Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC78 0063002E
+
+[Select Infinite Slot 23\Old Picture]
+Type = Gameshark
+Activation = EndFrame
+901BEC78 0063002F
+
+[Select Infinite Slot 23\Blue Stone]
+Type = Gameshark
+Activation = EndFrame
+901BEC78 00630030
+
+[Select Infinite Slot 23\Clock Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC78 00630031
+
+[Select Infinite Slot 23\Claudia's Doll]
+Type = Gameshark
+Activation = EndFrame
+901BEC78 00630032
+
+[Select Infinite Slot 23\Antidote]
+Type = Gameshark
+Activation = EndFrame
+901BEC78 00630033
+
+[Select Infinite Slot 23\Cabinet Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC78 00630034
+
+[Select Infinite Slot 23\Pendant]
+Type = Gameshark
+Activation = EndFrame
+901BEC78 00630035
+
+[Select Infinite Slot 23\Cameo]
+Type = Gameshark
+Activation = EndFrame
+901BEC78 00630036
+
+[Select Infinite Slot 24\Nothing]
+Type = Gameshark
+Activation = EndFrame
+901BEC80 00630000
+
+[Select Infinite Slot 24\Metal Handle]
+Type = Gameshark
+Activation = EndFrame
+901BEC80 00630001
+
+[Select Infinite Slot 24\Brass Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC80 00630002
+
+[Select Infinite Slot 24\Red Book]
+Type = Gameshark
+Activation = EndFrame
+901BEC80 00630003
+
+[Select Infinite Slot 24\Holy Water]
+Type = Gameshark
+Activation = EndFrame
+901BEC80 00630004
+
+[Select Infinite Slot 24\Small Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC80 00630005
+
+[Select Infinite Slot 24\Wire Cutter]
+Type = Gameshark
+Activation = EndFrame
+901BEC80 00630006
+
+[Select Infinite Slot 24\Invitation Letter]
+Type = Gameshark
+Activation = EndFrame
+901BEC80 00630007
+
+[Select Infinite Slot 24\Iron Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC80 00630008
+
+[Select Infinite Slot 24\Sailor Medal A]
+Type = Gameshark
+Activation = EndFrame
+901BEC80 00630009
+
+[Select Infinite Slot 24\Sailor Medal B]
+Type = Gameshark
+Activation = EndFrame
+901BEC80 0063000A
+
+[Select Infinite Slot 24\Sailor Medal C]
+Type = Gameshark
+Activation = EndFrame
+901BEC80 0063000B
+
+[Select Infinite Slot 24\Sailor Medal D]
+Type = Gameshark
+Activation = EndFrame
+901BEC80 0063000C
+
+[Select Infinite Slot 24\Broken Stone]
+Type = Gameshark
+Activation = EndFrame
+901BEC80 0063000D
+
+[Select Infinite Slot 24\Blue Stone Piece]
+Type = Gameshark
+Activation = EndFrame
+901BEC80 0063000E
+
+[Select Infinite Slot 24\Winding Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC80 0063000F
+
+[Select Infinite Slot 24\Glass]
+Type = Gameshark
+Activation = EndFrame
+901BEC80 00630010
+
+[Select Infinite Slot 24\Curing Potion]
+Type = Gameshark
+Activation = EndFrame
+901BEC80 00630011
+
+[Select Infinite Slot 24\Wire]
+Type = Gameshark
+Activation = EndFrame
+901BEC80 00630012
+
+[Select Infinite Slot 24\Athlete's Foot Bot]
+Type = Gameshark
+Activation = EndFrame
+901BEC80 00630013
+
+[Select Infinite Slot 24\Rubber Gloves]
+Type = Gameshark
+Activation = EndFrame
+901BEC80 00630014
+
+[Select Infinite Slot 24\Dress Suit]
+Type = Gameshark
+Activation = EndFrame
+901BEC80 00630015
+
+[Select Infinite Slot 24\Astral Piece]
+Type = Gameshark
+Activation = EndFrame
+901BEC80 00630016
+
+[Select Infinite Slot 24\Flying Fish Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEC80 00630017
+
+[Select Infinite Slot 24\Record]
+Type = Gameshark
+Activation = EndFrame
+901BEC80 00630018
+
+[Select Infinite Slot 24\Knife]
+Type = Gameshark
+Activation = EndFrame
+901BEC80 00630019
+
+[Select Infinite Slot 24\Comet Book]
+Type = Gameshark
+Activation = EndFrame
+901BEC80 0063001A
+
+[Select Infinite Slot 24\Film]
+Type = Gameshark
+Activation = EndFrame
+901BEC80 0063001B
+
+[Select Infinite Slot 24\Crown Piece]
+Type = Gameshark
+Activation = EndFrame
+901BEC80 0063001C
+
+[Select Infinite Slot 24\Old Book]
+Type = Gameshark
+Activation = EndFrame
+901BEC80 0063001D
+
+[Select Infinite Slot 24\Prescription]
+Type = Gameshark
+Activation = EndFrame
+901BEC80 0063001E
+
+[Select Infinite Slot 24\Eye of A Sea Fish]
+Type = Gameshark
+Activation = EndFrame
+901BEC80 0063001F
+
+[Select Infinite Slot 24\Gear]
+Type = Gameshark
+Activation = EndFrame
+901BEC80 00630020
+
+[Select Infinite Slot 24\Water Leaf Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEC80 00630021
+
+[Select Infinite Slot 24\Forest Fire Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEC80 00630022
+
+[Select Infinite Slot 24\Fire Bird Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEC80 00630023
+
+[Select Infinite Slot 24\Claim Ticket]
+Type = Gameshark
+Activation = EndFrame
+901BEC80 00630024
+
+[Select Infinite Slot 24\Kitchen Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC80 00630025
+
+[Select Infinite Slot 24\Crank]
+Type = Gameshark
+Activation = EndFrame
+901BEC80 00630026
+
+[Select Infinite Slot 24\Sailor's Documents]
+Type = Gameshark
+Activation = EndFrame
+901BEC80 00630027
+
+[Select Infinite Slot 24\Engabement Ring]
+Type = Gameshark
+Activation = EndFrame
+901BEC80 00630028
+
+[Select Infinite Slot 24\Bullet]
+Type = Gameshark
+Activation = EndFrame
+901BEC80 00630029
+
+[Select Infinite Slot 24\Earring]
+Type = Gameshark
+Activation = EndFrame
+901BEC80 0063002A
+
+[Select Infinite Slot 24\Music Box]
+Type = Gameshark
+Activation = EndFrame
+901BEC80 0063002B
+
+[Select Infinite Slot 24\Valve]
+Type = Gameshark
+Activation = EndFrame
+901BEC80 0063002C
+
+[Select Infinite Slot 24\Piston Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC80 0063002D
+
+[Select Infinite Slot 24\Engine Room Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC80 0063002E
+
+[Select Infinite Slot 24\Old Picture]
+Type = Gameshark
+Activation = EndFrame
+901BEC80 0063002F
+
+[Select Infinite Slot 24\Blue Stone]
+Type = Gameshark
+Activation = EndFrame
+901BEC80 00630030
+
+[Select Infinite Slot 24\Clock Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC80 00630031
+
+[Select Infinite Slot 24\Claudia's Doll]
+Type = Gameshark
+Activation = EndFrame
+901BEC80 00630032
+
+[Select Infinite Slot 24\Antidote]
+Type = Gameshark
+Activation = EndFrame
+901BEC80 00630033
+
+[Select Infinite Slot 24\Cabinet Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC80 00630034
+
+[Select Infinite Slot 24\Pendant]
+Type = Gameshark
+Activation = EndFrame
+901BEC80 00630035
+
+[Select Infinite Slot 24\Cameo]
+Type = Gameshark
+Activation = EndFrame
+901BEC80 00630036
+
+[Select Infinite Slot 25\Nothing]
+Type = Gameshark
+Activation = EndFrame
+901BEC88 00630000
+
+[Select Infinite Slot 25\Metal Handle]
+Type = Gameshark
+Activation = EndFrame
+901BEC88 00630001
+
+[Select Infinite Slot 25\Brass Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC88 00630002
+
+[Select Infinite Slot 25\Red Book]
+Type = Gameshark
+Activation = EndFrame
+901BEC88 00630003
+
+[Select Infinite Slot 25\Holy Water]
+Type = Gameshark
+Activation = EndFrame
+901BEC88 00630004
+
+[Select Infinite Slot 25\Small Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC88 00630005
+
+[Select Infinite Slot 25\Wire Cutter]
+Type = Gameshark
+Activation = EndFrame
+901BEC88 00630006
+
+[Select Infinite Slot 25\Invitation Letter]
+Type = Gameshark
+Activation = EndFrame
+901BEC88 00630007
+
+[Select Infinite Slot 25\Iron Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC88 00630008
+
+[Select Infinite Slot 25\Sailor Medal A]
+Type = Gameshark
+Activation = EndFrame
+901BEC88 00630009
+
+[Select Infinite Slot 25\Sailor Medal B]
+Type = Gameshark
+Activation = EndFrame
+901BEC88 0063000A
+
+[Select Infinite Slot 25\Sailor Medal C]
+Type = Gameshark
+Activation = EndFrame
+901BEC88 0063000B
+
+[Select Infinite Slot 25\Sailor Medal D]
+Type = Gameshark
+Activation = EndFrame
+901BEC88 0063000C
+
+[Select Infinite Slot 25\Broken Stone]
+Type = Gameshark
+Activation = EndFrame
+901BEC88 0063000D
+
+[Select Infinite Slot 25\Blue Stone Piece]
+Type = Gameshark
+Activation = EndFrame
+901BEC88 0063000E
+
+[Select Infinite Slot 25\Winding Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC88 0063000F
+
+[Select Infinite Slot 25\Glass]
+Type = Gameshark
+Activation = EndFrame
+901BEC88 00630010
+
+[Select Infinite Slot 25\Curing Potion]
+Type = Gameshark
+Activation = EndFrame
+901BEC88 00630011
+
+[Select Infinite Slot 25\Wire]
+Type = Gameshark
+Activation = EndFrame
+901BEC88 00630012
+
+[Select Infinite Slot 25\Athlete's Foot Bot]
+Type = Gameshark
+Activation = EndFrame
+901BEC88 00630013
+
+[Select Infinite Slot 25\Rubber Gloves]
+Type = Gameshark
+Activation = EndFrame
+901BEC88 00630014
+
+[Select Infinite Slot 25\Dress Suit]
+Type = Gameshark
+Activation = EndFrame
+901BEC88 00630015
+
+[Select Infinite Slot 25\Astral Piece]
+Type = Gameshark
+Activation = EndFrame
+901BEC88 00630016
+
+[Select Infinite Slot 25\Flying Fish Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEC88 00630017
+
+[Select Infinite Slot 25\Record]
+Type = Gameshark
+Activation = EndFrame
+901BEC88 00630018
+
+[Select Infinite Slot 25\Knife]
+Type = Gameshark
+Activation = EndFrame
+901BEC88 00630019
+
+[Select Infinite Slot 25\Comet Book]
+Type = Gameshark
+Activation = EndFrame
+901BEC88 0063001A
+
+[Select Infinite Slot 25\Film]
+Type = Gameshark
+Activation = EndFrame
+901BEC88 0063001B
+
+[Select Infinite Slot 25\Crown Piece]
+Type = Gameshark
+Activation = EndFrame
+901BEC88 0063001C
+
+[Select Infinite Slot 25\Old Book]
+Type = Gameshark
+Activation = EndFrame
+901BEC88 0063001D
+
+[Select Infinite Slot 25\Prescription]
+Type = Gameshark
+Activation = EndFrame
+901BEC88 0063001E
+
+[Select Infinite Slot 25\Eye of A Sea Fish]
+Type = Gameshark
+Activation = EndFrame
+901BEC88 0063001F
+
+[Select Infinite Slot 25\Gear]
+Type = Gameshark
+Activation = EndFrame
+901BEC88 00630020
+
+[Select Infinite Slot 25\Water Leaf Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEC88 00630021
+
+[Select Infinite Slot 25\Forest Fire Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEC88 00630022
+
+[Select Infinite Slot 25\Fire Bird Plate]
+Type = Gameshark
+Activation = EndFrame
+901BEC88 00630023
+
+[Select Infinite Slot 25\Claim Ticket]
+Type = Gameshark
+Activation = EndFrame
+901BEC88 00630024
+
+[Select Infinite Slot 25\Kitchen Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC88 00630025
+
+[Select Infinite Slot 25\Crank]
+Type = Gameshark
+Activation = EndFrame
+901BEC88 00630026
+
+[Select Infinite Slot 25\Sailor's Documents]
+Type = Gameshark
+Activation = EndFrame
+901BEC88 00630027
+
+[Select Infinite Slot 25\Engabement Ring]
+Type = Gameshark
+Activation = EndFrame
+901BEC88 00630028
+
+[Select Infinite Slot 25\Bullet]
+Type = Gameshark
+Activation = EndFrame
+901BEC88 00630029
+
+[Select Infinite Slot 25\Earring]
+Type = Gameshark
+Activation = EndFrame
+901BEC88 0063002A
+
+[Select Infinite Slot 25\Music Box]
+Type = Gameshark
+Activation = EndFrame
+901BEC88 0063002B
+
+[Select Infinite Slot 25\Valve]
+Type = Gameshark
+Activation = EndFrame
+901BEC88 0063002C
+
+[Select Infinite Slot 25\Piston Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC88 0063002D
+
+[Select Infinite Slot 25\Engine Room Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC88 0063002E
+
+[Select Infinite Slot 25\Old Picture]
+Type = Gameshark
+Activation = EndFrame
+901BEC88 0063002F
+
+[Select Infinite Slot 25\Blue Stone]
+Type = Gameshark
+Activation = EndFrame
+901BEC88 00630030
+
+[Select Infinite Slot 25\Clock Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC88 00630031
+
+[Select Infinite Slot 25\Claudia's Doll]
+Type = Gameshark
+Activation = EndFrame
+901BEC88 00630032
+
+[Select Infinite Slot 25\Antidote]
+Type = Gameshark
+Activation = EndFrame
+901BEC88 00630033
+
+[Select Infinite Slot 25\Cabinet Key]
+Type = Gameshark
+Activation = EndFrame
+901BEC88 00630034
+
+[Select Infinite Slot 25\Pendant]
+Type = Gameshark
+Activation = EndFrame
+901BEC88 00630035
+
+[Select Infinite Slot 25\Cameo]
+Type = Gameshark
+Activation = EndFrame
+901BEC88 00630036
+

@@ -1,0 +1,579 @@
+; CHTDB: ; [ The Misadventures of Tron Bonne (USA) (2000) (Capcom Entertainment) {SLUS-00896} <tronbonn> ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800C8620 10F0
+
+[Max Health]
+Type = Gameshark
+Activation = EndFrame
+800C8622 10F0
+
+[Time is 0.00.00]
+Type = Gameshark
+Activation = EndFrame
+800C85C0 0000
+
+[Max Zenny/Money]
+Type = Gameshark
+Activation = EndFrame
+900C85CC 0098967F
+
+[All Missions Complete]
+Type = Gameshark
+Activation = EndFrame
+50000601 0000
+300A6095 0003
+
+[Missions 1-2\1-Hit Defeats Cop]
+Type = Gameshark
+Activation = EndFrame
+A60C9346 00600000
+
+[Missions 3-1\1-Hit Defeats BIG Reaverbot]
+Type = Gameshark
+Activation = EndFrame
+A60C9346 00400000
+
+[Missions 3-2\1-Hit Defeats Reaverbot Nest]
+Type = Gameshark
+Activation = EndFrame
+A609F78E 00180000
+
+[Mission 3\1-Hit Defeats Last Gaurdian]
+Type = Gameshark
+Activation = EndFrame
+A60C9346 00A00000
+
+[Intro Mission\1-Hit Defeats Glyde]
+Type = Gameshark
+Activation = EndFrame
+A60C9346 01800000
+
+[Final Mission\1-Hit Defeats Glyde]
+Type = Gameshark
+Activation = EndFrame
+A60C990E 04000001
+
+[Last Battle\1-Hit Defeats Colossus]
+Type = Gameshark
+Activation = EndFrame
+A60C9346 12000000
+
+[Missions 5-2\Infinite Cows + Truck Energy]
+Type = Gameshark
+Activation = EndFrame
+A609F78E 00210030
+A609F78E 00120030
+A609F78E 00030030
+
+[Enable Serve Bot 41]
+Type = Gameshark
+Activation = EndFrame
+800F2142 0029
+D00C8148 0100
+800F2184 0028
+
+[Max Attack-ServBots]
+Type = Gameshark
+Activation = EndFrame
+50002808 0000
+300CB540 00FF
+
+[Max Brains-ServBots]
+Type = Gameshark
+Activation = EndFrame
+50002808 0000
+300CB541 00FF
+
+[Unlock Teisel's Room]
+Type = Gameshark
+Activation = EndFrame
+300A60AE 0001
+
+[Unlock Torture Room]
+Type = Gameshark
+Activation = EndFrame
+300A60AC 0001
+
+[Unlock Tron's Room]
+Type = Gameshark
+Activation = EndFrame
+300A60AD 0001
+
+[Mission 1\Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800C85E4 0000
+
+[Infinite Green Apple]
+Type = Gameshark
+Activation = EndFrame
+300C880C 0063
+
+[Infinite E. Bottle 1]
+Type = Gameshark
+Activation = EndFrame
+300C880D 0063
+
+[Infinite E. Bottle 2]
+Type = Gameshark
+Activation = EndFrame
+300C880E 0063
+
+[Infinite E. Bottle 3]
+Type = Gameshark
+Activation = EndFrame
+300C880F 0063
+
+[Infinite E. Bottle 4]
+Type = Gameshark
+Activation = EndFrame
+300C8810 0063
+
+[Infinite Pork]
+Type = Gameshark
+Activation = EndFrame
+300C881B 0063
+
+[Infinite Fish]
+Type = Gameshark
+Activation = EndFrame
+300C881C 0063
+
+[Infinite Apple]
+Type = Gameshark
+Activation = EndFrame
+300C881D 0063
+
+[Infinite Curry]
+Type = Gameshark
+Activation = EndFrame
+300C881E 0063
+
+[Infinite Hamburger]
+Type = Gameshark
+Activation = EndFrame
+300C881F 0063
+
+[Infinite Juice]
+Type = Gameshark
+Activation = EndFrame
+300C8820 0063
+
+[Infinite Cake]
+Type = Gameshark
+Activation = EndFrame
+300C8821 0063
+
+[Infinite Tire]
+Type = Gameshark
+Activation = EndFrame
+300C8822 0063
+
+[Infinite Police Lights]
+Type = Gameshark
+Activation = EndFrame
+300C8823 0063
+
+[Infinite Riot Shield]
+Type = Gameshark
+Activation = EndFrame
+300C8824 0063
+
+[Infinite Comic]
+Type = Gameshark
+Activation = EndFrame
+300C8825 0063
+
+[Infinite Hat]
+Type = Gameshark
+Activation = EndFrame
+300C8826 0063
+
+[Infinite Chicken]
+Type = Gameshark
+Activation = EndFrame
+300C8827 0063
+
+[Infinite Letter]
+Type = Gameshark
+Activation = EndFrame
+300C8828 0063
+
+[Infinite Scallop]
+Type = Gameshark
+Activation = EndFrame
+300C8829 0063
+
+[Infinite Ring]
+Type = Gameshark
+Activation = EndFrame
+300C882A 0063
+
+[Infinite Shell]
+Type = Gameshark
+Activation = EndFrame
+300C882B 0063
+
+[Infinite Lunchbox]
+Type = Gameshark
+Activation = EndFrame
+300C882C 0063
+
+[Infinite Steak]
+Type = Gameshark
+Activation = EndFrame
+300C8832 0063
+
+[Infinite Pig]
+Type = Gameshark
+Activation = EndFrame
+300C8833 0063
+
+[Infinite Rabbit]
+Type = Gameshark
+Activation = EndFrame
+300C8834 0063
+
+[Infinite Cow]
+Type = Gameshark
+Activation = EndFrame
+300C8835 0063
+
+[Infinite Black Stallion]
+Type = Gameshark
+Activation = EndFrame
+300C8837 0063
+
+[Infinite Horse]
+Type = Gameshark
+Activation = EndFrame
+300C8838 0063
+
+[Infinite Birdbot]
+Type = Gameshark
+Activation = EndFrame
+300C8839 0063
+
+[Infinite Milk]
+Type = Gameshark
+Activation = EndFrame
+300C883A 0063
+
+[Infinite Cheese]
+Type = Gameshark
+Activation = EndFrame
+300C883B 0063
+
+[Infinite Yogurt]
+Type = Gameshark
+Activation = EndFrame
+300C883C 0063
+
+[Infinite Ice Cream]
+Type = Gameshark
+Activation = EndFrame
+300C883D 0063
+
+[Infinite Horseshoe]
+Type = Gameshark
+Activation = EndFrame
+300C883E 0063
+
+[Infinite Beef]
+Type = Gameshark
+Activation = EndFrame
+300C883F 0063
+
+[Infinite Pipe]
+Type = Gameshark
+Activation = EndFrame
+300C8845 0063
+
+[Infinite Fireworks]
+Type = Gameshark
+Activation = EndFrame
+300C8846 0063
+
+[Infinite Iron Plate]
+Type = Gameshark
+Activation = EndFrame
+300C8847 0063
+
+[Infinite Litnium]
+Type = Gameshark
+Activation = EndFrame
+300C8848 0063
+
+[Infinite Hi-Density Tank]
+Type = Gameshark
+Activation = EndFrame
+300C8849 0063
+
+[Infinite Bottle Notes]
+Type = Gameshark
+Activation = EndFrame
+300C884A 0063
+
+[Infinite Rusted Tank]
+Type = Gameshark
+Activation = EndFrame
+300C884B 0063
+
+[Infinite Attack Cube]
+Type = Gameshark
+Activation = EndFrame
+300C884C 0063
+
+[Infinite Brain Cube]
+Type = Gameshark
+Activation = EndFrame
+300C884D 0063
+
+[Infinite Speed Cube]
+Type = Gameshark
+Activation = EndFrame
+300C884E 0063
+
+[Infinite Energy Cube]
+Type = Gameshark
+Activation = EndFrame
+300C884F 0063
+
+[Infinite Card Key]
+Type = Gameshark
+Activation = EndFrame
+300C8850 0063
+
+[Infinite Gate Key]
+Type = Gameshark
+Activation = EndFrame
+300C8851 0063
+
+[Infinite Room Key]
+Type = Gameshark
+Activation = EndFrame
+300C8852 0063
+
+[Infinite Blue Crystal]
+Type = Gameshark
+Activation = EndFrame
+300C8853 0063
+
+[Infinite Green Crystal]
+Type = Gameshark
+Activation = EndFrame
+300C8854 0063
+
+[Infinite Pink Crystal]
+Type = Gameshark
+Activation = EndFrame
+300C8855 0063
+
+[Infinite Super Drill]
+Type = Gameshark
+Activation = EndFrame
+300C8856 0063
+
+[Infinite Hyper Drill]
+Type = Gameshark
+Activation = EndFrame
+300C8857 0063
+
+[Infinite Refractor Ore]
+Type = Gameshark
+Activation = EndFrame
+300C8858 0063
+
+[Infinite Finance Book]
+Type = Gameshark
+Activation = EndFrame
+300C8859 0063
+
+[Infinite Beauty Book]
+Type = Gameshark
+Activation = EndFrame
+300C885A 0063
+
+[Infinite Cannon]
+Type = Gameshark
+Activation = EndFrame
+300C885B 0063
+
+[Infinite Paint Set]
+Type = Gameshark
+Activation = EndFrame
+300C885C 0063
+
+[Infinite Poetry Book]
+Type = Gameshark
+Activation = EndFrame
+300C885D 0063
+
+[Infinite Strategy Notes]
+Type = Gameshark
+Activation = EndFrame
+300C885E 0063
+
+[Infinite Design Magazine]
+Type = Gameshark
+Activation = EndFrame
+300C885F 0063
+
+[Infinite Red Head Parts]
+Type = Gameshark
+Activation = EndFrame
+300C8861 0063
+
+[Infinite Old Instrument]
+Type = Gameshark
+Activation = EndFrame
+300C886A 0063
+
+[Infinite Loader Parts]
+Type = Gameshark
+Activation = EndFrame
+300C886B 0063
+
+[Infinite Memento]
+Type = Gameshark
+Activation = EndFrame
+300C886C 0063
+
+[Infinite Bon Parts]
+Type = Gameshark
+Activation = EndFrame
+300C886D 0063
+
+[Infinite Filer]
+Type = Gameshark
+Activation = EndFrame
+300C886E 0063
+
+[Infinite Contact Lenses]
+Type = Gameshark
+Activation = EndFrame
+300C886F 0063
+
+[Infinite Handkerchief]
+Type = Gameshark
+Activation = EndFrame
+300C8870 0063
+
+[Infinite Ancient Pistol]
+Type = Gameshark
+Activation = EndFrame
+300C8871 0063
+
+[Infinite Tank Parts]
+Type = Gameshark
+Activation = EndFrame
+300C8879 0063
+
+[Infinite Bazooka Parts]
+Type = Gameshark
+Activation = EndFrame
+300C887A 0063
+
+[Infinite Gatling Parts]
+Type = Gameshark
+Activation = EndFrame
+300C887B 0063
+
+[Infinite Armor Parts]
+Type = Gameshark
+Activation = EndFrame
+300C887C 0063
+
+[Infinite Search Cannon]
+Type = Gameshark
+Activation = EndFrame
+300C887D 0063
+
+[Infinite Bonne Bazooka]
+Type = Gameshark
+Activation = EndFrame
+300C887E 0063
+
+[Infinite Gatling Gun]
+Type = Gameshark
+Activation = EndFrame
+300C887F 0063
+
+[Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+300C8880 0063
+
+[Infinite Hard Armor]
+Type = Gameshark
+Activation = EndFrame
+300C8881 0063
+
+[Infinite E. Tank 1]
+Type = Gameshark
+Activation = EndFrame
+300C8882 0063
+
+[Infinite E. Tank 2]
+Type = Gameshark
+Activation = EndFrame
+300C8883 0063
+
+[Infinite E. Tank 3]
+Type = Gameshark
+Activation = EndFrame
+300C8884 0063
+
+[Infinite E. Tank 4]
+Type = Gameshark
+Activation = EndFrame
+300C8885 0063
+
+[Infinite E. Tank 5]
+Type = Gameshark
+Activation = EndFrame
+300C8886 0063
+
+[Infinite E. Tank 6]
+Type = Gameshark
+Activation = EndFrame
+300C8887 0063
+
+[Infinite E. Tank 7]
+Type = Gameshark
+Activation = EndFrame
+300C8888 0063
+
+[Infinite E. Tank P]
+Type = Gameshark
+Activation = EndFrame
+300C8889 0063
+
+[Have All Items]
+Type = Gameshark
+Activation = EndFrame
+50000502 0000
+300C880C 0063
+50001202 0000
+300C881B 0063
+50000402 0000
+300C8832 0063
+50000902 0000
+300C8837 0063
+50001B02 0000
+300C8845 0063
+300C8861 0063
+50000802 0000
+300C886A 0063
+50001102 0000
+300C8879 0063
+
+[Max Score In Training Press Select]
+Type = Gameshark
+Activation = EndFrame
+D00C8146 0001
+300F2A9A 0063
+

@@ -1,0 +1,17 @@
+; CHTDB: ; [ Gunpey (Japan) {SLPS-02485} ]
+
+[Enemy always 0 wins in vs mode]
+Type = Gameshark
+Activation = EndFrame
+800CFCFB 0000
+
+[Enemy always 2 wins in vs mode]
+Type = Gameshark
+Activation = EndFrame
+800CFCF8 0002
+
+[Always Score 9,999,999]
+Type = Gameshark
+Activation = EndFrame
+900CFBE8 000F423F
+

@@ -1,0 +1,48 @@
+; CHTDB: ; [ Porsche Challenge (USA) (1997) (Sony Computer Entertainment America) {SCUS-94187} <porschec> ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800DAAF0 0708
+
+[Total Time is 0'00]
+Type = Gameshark
+Activation = EndFrame
+800DAAF4 0000
+
+[Infinite Restarts]
+Type = Gameshark
+Activation = EndFrame
+800D49B2 0002
+
+[Always In 1st Place]
+Type = Gameshark
+Activation = EndFrame
+800DAADA 0001
+
+[Always Be Hidden Car]
+Type = Gameshark
+Activation = EndFrame
+D009393C 48ED
+80093036 0006
+
+[All Cars Jump]
+Type = Gameshark
+Activation = EndFrame
+800CA5BA 0001
+
+[Hyper Car And Invisible Car]
+Type = Gameshark
+Activation = EndFrame
+800CA5BE 0101
+
+[Have Secret Modes (Main Menu)]
+Type = Gameshark
+Activation = EndFrame
+300CA5B9 0001
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+A70CA584 19991333
+

@@ -1,0 +1,32 @@
+; CHTDB: ; [ Kuon no Kizuna (Japan) {SLPS-01676} ]
+
+[Open CG mode (You need save data)]
+Type = Gameshark
+Activation = EndFrame
+300538BA 0001
+
+[CG Mode Unlock all galleries (You need save data)]
+Type = Gameshark
+Activation = EndFrame
+900DECC0 FFFFFFFF
+900DECC4 FFFFFFFF
+900DECC8 FFFFFFFF
+800DECCC FFFF
+300DECCE 0007
+
+[Physical fitness of the law surgery combat / hero Max]
+Type = Gameshark
+Activation = EndFrame
+30050EFB 000A
+
+[Physical fitness of the law surgery battle / enemy is 0]
+Type = Gameshark
+Activation = EndFrame
+300538C2 0000
+
+[Storage of Kuon + 01h]
+Type = Gameshark
+Activation = EndFrame
+300DEF80 0001
+300DEFF2 0001
+

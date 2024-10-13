@@ -1,0 +1,417 @@
+; CHTDB: ; [ Digimon World 2 (USA) (2001) (Bandai America) {SLUS-01193} <digiwld2> ]
+
+[1st Digimon\Max HP]
+Type = Gameshark
+Activation = EndFrame
+8005E718 03E7
+
+[1st Digimon\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+8005E71A 03E7
+
+[1st Digimon\Max MP]
+Type = Gameshark
+Activation = EndFrame
+8005E71C 03E7
+
+[1st Digimon\Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+8005E71E 03E7
+
+[1st Digimon\Max Attack]
+Type = Gameshark
+Activation = EndFrame
+8005E720 03E7
+
+[1st Digimon\Max Defense]
+Type = Gameshark
+Activation = EndFrame
+8005E722 03E7
+
+[1st Digimon\Max Speed]
+Type = Gameshark
+Activation = EndFrame
+8005E724 03E7
+
+[2nd Digimon\Max Exp]
+Type = Gameshark
+Activation = EndFrame
+9005E770 0098967F
+
+[2nd Digimon\Max HP]
+Type = Gameshark
+Activation = EndFrame
+8005E774 03E7
+
+[2nd Digimon\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+8005E776 03E7
+
+[2nd Digimon\Max MP]
+Type = Gameshark
+Activation = EndFrame
+8005E778 03E7
+
+[2nd Digimon\Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+8005E77A 03E7
+
+[2nd Digimon\Max Attack]
+Type = Gameshark
+Activation = EndFrame
+8005E77C 03E7
+
+[2nd Digimon\Max Defense]
+Type = Gameshark
+Activation = EndFrame
+8005E77E 03E7
+
+[2nd Digimon\Max Speed]
+Type = Gameshark
+Activation = EndFrame
+8005E780 03E7
+
+[3rd Digimon\Max Exp]
+Type = Gameshark
+Activation = EndFrame
+9005E7CC 0098967F
+
+[3rd Digimon\Max HP]
+Type = Gameshark
+Activation = EndFrame
+8005E7D0 03E7
+
+[3rd Digimon\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+8005E7D2 03E7
+
+[3rd Digimon\Max MP]
+Type = Gameshark
+Activation = EndFrame
+8005E7D4 03E7
+
+[3rd Digimon\Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+8005E7D6 03E7
+
+[3rd Digimon\Max Attack]
+Type = Gameshark
+Activation = EndFrame
+8005E7D8 03E7
+
+[3rd Digimon\Max Defense]
+Type = Gameshark
+Activation = EndFrame
+8005E7DA 03E7
+
+[3rd Digimon\Max Speed]
+Type = Gameshark
+Activation = EndFrame
+8005E7DC 03E7
+
+[4th Digimon\Max Exp]
+Type = Gameshark
+Activation = EndFrame
+9005E828 0098967F
+
+[4th Digimon\Max HP]
+Type = Gameshark
+Activation = EndFrame
+8005E82C 03E7
+
+[4th Digimon\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+8005E82E 03E7
+
+[4th Digimon\Max MP]
+Type = Gameshark
+Activation = EndFrame
+8005E830 03E7
+
+[4th Digimon\Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+8005E832 03E7
+
+[4th Digimon\Max Attack]
+Type = Gameshark
+Activation = EndFrame
+8005E834 03E7
+
+[4th Digimon\Max Defense]
+Type = Gameshark
+Activation = EndFrame
+8005E836 03E7
+
+[4th Digimon\Max Speed]
+Type = Gameshark
+Activation = EndFrame
+8005E838 03E7
+
+[5th Digimon\Max Exp]
+Type = Gameshark
+Activation = EndFrame
+9005E884 0098967F
+
+[5th Digimon\Max HP]
+Type = Gameshark
+Activation = EndFrame
+8005E888 03E7
+
+[5th Digimon\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+8005E88A 03E7
+
+[5th Digimon\Max MP]
+Type = Gameshark
+Activation = EndFrame
+8005E88C 03E7
+
+[5th Digimon\Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+8005E88E 03E7
+
+[5th Digimon\Max Attack]
+Type = Gameshark
+Activation = EndFrame
+8005E890 03E7
+
+[5th Digimon\Max Defense]
+Type = Gameshark
+Activation = EndFrame
+8005E892 03E7
+
+[5th Digimon\Max Speed]
+Type = Gameshark
+Activation = EndFrame
+8005E894 03E7
+
+[6th Digimon\Max Exp]
+Type = Gameshark
+Activation = EndFrame
+9005E8E0 0098967F
+
+[6th Digimon\Max HP]
+Type = Gameshark
+Activation = EndFrame
+8005E8E4 03E7
+
+[6th Digimon\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+8005E8E6 03E7
+
+[6th Digimon\Max MP]
+Type = Gameshark
+Activation = EndFrame
+8005E8E8 03E7
+
+[6th Digimon\Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+8005E8EA 03E7
+
+[6th Digimon\Max Attack]
+Type = Gameshark
+Activation = EndFrame
+8005E8EC 03E7
+
+[6th Digimon\Max Defense]
+Type = Gameshark
+Activation = EndFrame
+8005E8EE 03E7
+
+[6th Digimon\Max Speed]
+Type = Gameshark
+Activation = EndFrame
+8005E8F0 03E7
+
+[Have Important Item\Tamer-Lic.]
+Type = Gameshark
+Activation = EndFrame
+3005F5CE 0001
+
+[Have Important Item\Db-Browser]
+Type = Gameshark
+Activation = EndFrame
+3005F5D0 0001
+
+[Have Important Item\Goldh-Mark]
+Type = Gameshark
+Activation = EndFrame
+3005F5D2 0001
+
+[Have Important Item\Bluef-Mark]
+Type = Gameshark
+Activation = EndFrame
+3005F5D4 0001
+
+[Have Important Item\Blacksmark]
+Type = Gameshark
+Activation = EndFrame
+3005F5D6 0001
+
+[Have Important Item\Dynamopart]
+Type = Gameshark
+Activation = EndFrame
+3005F5D8 0001
+
+[Have Important Item\Entry Pass]
+Type = Gameshark
+Activation = EndFrame
+3005F5DA 0001
+
+[Have Important Item\Converter]
+Type = Gameshark
+Activation = EndFrame
+3005F5DC 0001
+
+[Have Important Item\Titanium Core]
+Type = Gameshark
+Activation = EndFrame
+3005F5DE 0001
+
+[Have Important Item\Red Orders]
+Type = Gameshark
+Activation = EndFrame
+3005F5E0 0001
+
+[Have Important Item\Message-1]
+Type = Gameshark
+Activation = EndFrame
+3005F5E2 0001
+
+[Have Important Item\Vac. Patch]
+Type = Gameshark
+Activation = EndFrame
+3005F5E4 0001
+
+[Have Important Item\Data Patch]
+Type = Gameshark
+Activation = EndFrame
+3005F5E6 0001
+
+[Have Important Item\Viruspatch]
+Type = Gameshark
+Activation = EndFrame
+3005F5E8 0001
+
+[Have Important Item\Wild Code]
+Type = Gameshark
+Activation = EndFrame
+3005F5EA 0001
+
+[Have Important Item\Gyro Radar]
+Type = Gameshark
+Activation = EndFrame
+3005F5EC 0001
+
+[Have Important Item\Message-3]
+Type = Gameshark
+Activation = EndFrame
+3005F5FA 0001
+
+[Have Important Item\X-Mechpart]
+Type = Gameshark
+Activation = EndFrame
+3005F5F0 0001
+
+[Have Important Item\Message-2]
+Type = Gameshark
+Activation = EndFrame
+3005F5F2 0001
+
+[Have Important Item\Old Map]
+Type = Gameshark
+Activation = EndFrame
+3005F5F4 0001
+
+[Have Important Item\Navi-Disk]
+Type = Gameshark
+Activation = EndFrame
+3005F5F6 0001
+
+[Have Important Item\Ship Key]
+Type = Gameshark
+Activation = EndFrame
+3005F5F8 0001
+
+[Have Important Item\Electroder]
+Type = Gameshark
+Activation = EndFrame
+3005F5FC 0001
+
+[Have Important Item\Adamantium Core]
+Type = Gameshark
+Activation = EndFrame
+3005F5FE 0001
+
+[Have Important Item\Piedring]
+Type = Gameshark
+Activation = EndFrame
+3005F600 0001
+
+[Have Important Item\W.Greyring]
+Type = Gameshark
+Activation = EndFrame
+3005F602 0001
+
+[Have Important Item\Seadraring]
+Type = Gameshark
+Activation = EndFrame
+3005F604 0001
+
+[Misc.\Infinite Bits]
+Type = Gameshark
+Activation = EndFrame
+8005E628 FFFF
+
+[Misc.\Max Bits]
+Type = Gameshark
+Activation = EndFrame
+9005E628 05F5E0FF
+
+[Misc.\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+8005E644 270F
+
+[Misc.\Max HP]
+Type = Gameshark
+Activation = EndFrame
+8005E646 270F
+
+[Misc.\Infinite EP]
+Type = Gameshark
+Activation = EndFrame
+8005E648 270F
+
+[Misc.\Max EP]
+Type = Gameshark
+Activation = EndFrame
+8005E64A 270F
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A7061A28 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A7061A28 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A7061A28 10000400
+

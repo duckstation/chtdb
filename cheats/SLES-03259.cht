@@ -1,0 +1,17 @@
+; CHTDB: ; [ Disney Tigger tras un Bote de Miel (Spain) {SLES-03259} ]
+
+[Have 999 Honey Pots]
+Type = Gameshark
+Activation = EndFrame
+800C774C 03E7
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800C7748 0003
+
+[All levels unlocked]
+Type = Gameshark
+Activation = EndFrame
+900C74A0 01080040
+

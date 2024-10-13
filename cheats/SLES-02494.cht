@@ -1,0 +1,24 @@
+; CHTDB: ; [ Guilty Gear (Europe) {SLES-02494} ]
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+30076CE8 00BC
+
+[P1 Only one fight to win round]
+Type = Gameshark
+Activation = EndFrame
+D0076F62 0000
+30076F62 0002
+
+[P2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+30076FB8 00BC
+
+[P2 Sudden Death]
+Type = Gameshark
+Activation = EndFrame
+D0076FB8 00BC
+30076FB8 0001
+

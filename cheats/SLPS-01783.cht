@@ -1,0 +1,106 @@
+; CHTDB: ; [ Mizzurna Falls (Jpn) (1998) (Human) {SLPS-01783} <mizzurna> ]
+
+[SPEED Always 120km / h Press R1]
+Type = Gameshark
+Activation = EndFrame
+D009AAFE 0008
+800A367A 4140
+
+[SPEED Always 120km / h]
+Type = Gameshark
+Activation = EndFrame
+800A367A 4140
+
+[Full Tank of Gasoloine]
+Type = Gameshark
+Activation = EndFrame
+300A3658 0078
+
+[Not reduce gasoline]
+Type = Gameshark
+Activation = EndFrame
+A6108718 FFFF0000
+
+[It does not advance even more time sleeping]
+Type = Gameshark
+Activation = EndFrame
+A6025110 03210000
+D0025112 A385
+80025110 0000
+
+[All Map]
+Type = Gameshark
+Activation = EndFrame
+300A34EF 00FF
+
+[Organizer / characters]
+Type = Gameshark
+Activation = EndFrame
+300A350F 00FF
+
+[Organizer / phone number]
+Type = Gameshark
+Activation = EndFrame
+300A350F 00FF
+
+[Infinite Combat strength Player]
+Type = Gameshark
+Activation = EndFrame
+300A3774 0078
+
+[Combat strength Enemy 0]
+Type = Gameshark
+Activation = EndFrame
+300A3776 0000
+
+[Damage number of times in combat / enemies and bear]
+Type = Gameshark
+Activation = EndFrame
+30107854 0009
+
+[Combat / physical fitness of the bear]
+Type = Gameshark
+Activation = EndFrame
+30107857 0064
+
+[Combat / stamina gauge and bear]
+Type = Gameshark
+Activation = EndFrame
+30107858 0064
+
+[Combat / No physical fitness of the bear]
+Type = Gameshark
+Activation = EndFrame
+30107857 0000
+
+[Combat / No stamina gauge and bear]
+Type = Gameshark
+Activation = EndFrame
+30107858 0000
+
+[The number of combat / bullet and bear]
+Type = Gameshark
+Activation = EndFrame
+300A36D8 0007
+
+[Day 7 END OF GAME]
+Type = Gameshark
+Activation = EndFrame
+300A373C 0007
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A70FE2B0 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A70FE2B0 10000900
+;Note Eye Infinity Pointless here
+
+[Dither Off]
+Type = Gameshark
+Activation = EndFrame
+A7054300 02000000
+

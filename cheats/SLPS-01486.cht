@@ -1,0 +1,26 @@
+; CHTDB: ; [ Carom Shot 2 (Jpn) (1998) (Argent) {SLPS-01486} <caromsh2> ]
+
+[No change player turn in story mode]
+Type = Gameshark
+Activation = EndFrame
+800D527C 0000
+
+[Does not increase speed mode time]
+Type = Gameshark
+Activation = EndFrame
+900D52C0 00000000
+
+[Pocket Game All Characters Unlocked]
+Type = Gameshark
+Activation = EndFrame
+800B13F0 000A
+800B13F4 0009
+800B1400 0009
+
+[Pocket Game Hidden table Unlock]
+Type = Gameshark
+Activation = EndFrame
+800B1358 0007
+800B135C 0006
+800B1368 0006
+

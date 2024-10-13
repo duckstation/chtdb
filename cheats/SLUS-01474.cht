@@ -1,0 +1,22 @@
+; CHTDB: ; [ Cabela's Ultimate Deer Hunt - Open Season (USA) (2002) (Activision) {SLUS-01474} <cabult> ]
+
+[Quick Money Gain]
+Type = Gameshark
+Activation = EndFrame
+80129E08 FFFF
+
+[Max Money]
+Type = Gameshark
+Activation = EndFrame
+90129E08 05F5E0FF
+
+[Never Reload]
+Type = Gameshark
+Activation = EndFrame
+8012025C 0500
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800D6AAC 0024
+

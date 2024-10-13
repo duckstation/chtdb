@@ -1,0 +1,58 @@
+; CHTDB: ; [ Tunnel B1 (USA) (1996) (Acclaim Entertainment) {SLUS-00188} <tunnelb1> ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80046158 0000
+
+[Infinite Shield]
+Type = Gameshark
+Activation = EndFrame
+800C4040 0320
+
+[Infinite Missiles]
+Type = Gameshark
+Activation = EndFrame
+800C4094 0404
+800C4088 6363
+
+[Infinite Neon Lasers]
+Type = Gameshark
+Activation = EndFrame
+800C4096 0004
+800C408A 0063
+
+[Infinite Mines + Flares]
+Type = Gameshark
+Activation = EndFrame
+800C408C 6363
+800C4098 0101
+
+[Infinite Smart Bombs]
+Type = Gameshark
+Activation = EndFrame
+800C408E 6363
+800C409A 0101
+
+[Have Triple Machine Gun]
+Type = Gameshark
+Activation = EndFrame
+800C4092 0300
+
+[Infinite Super Thrusters]
+Type = Gameshark
+Activation = EndFrame
+800C4044 0003
+
+[Stop Timer]
+Type = Gameshark
+Activation = EndFrame
+800C40B6 0039
+
+[Stop Enemy Repair Clocks]
+Type = Gameshark
+Activation = EndFrame
+800B08E2 001F
+900B08E4 001F001F
+800B08E8 001F
+

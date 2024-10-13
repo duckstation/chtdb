@@ -1,0 +1,64 @@
+; CHTDB: ; [ Motocross Mania (Europe) {SLES-03325} ]
+
+[Unlock All Tracks in single event]
+Type = Gameshark
+Activation = EndFrame
+800AE2E4 FFFF
+
+[Buy one upgrade for max stats in single event]
+Type = Gameshark
+Activation = EndFrame
+D0039BAC 0001
+30079BAC 0009
+
+[Only ONe Lap TO Race (Use only one of these codes)]
+Type = Gameshark
+Activation = EndFrame
+3007A69C 0004
+D00A99C4 0000
+300A99C4 0003
+
+[Instant Win (Use only one of these codes)]
+Type = Gameshark
+Activation = EndFrame
+3007A69C 0004
+D00A99C4 0000
+300A99C4 0004
+
+[Start On The Final Round - Championship Mode]
+Type = Gameshark
+Activation = EndFrame
+800AE4E8 000B
+
+[Start with loads of race points - Championship Mode]
+Type = Gameshark
+Activation = EndFrame
+D00AE4E8 0000
+300AE4E9 009C
+
+[Freeze Lap Time]
+Type = Gameshark
+Activation = EndFrame
+800A99E8 0000
+
+[One Lap Race (1St) - Press Select]
+Type = Gameshark
+Activation = EndFrame
+D0089CFC 0100
+800A99CE 0014
+
+[Lots Of Cash]
+Type = Gameshark
+Activation = EndFrame
+9007AA98 34FB5E38
+
+[Max Stunt Points - In Game]
+Type = Gameshark
+Activation = EndFrame
+900A995C 34FB5E38
+
+[Max Stunt Points - Profile]
+Type = Gameshark
+Activation = EndFrame
+900AE2E8 34FB5E38
+

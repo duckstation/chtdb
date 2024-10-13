@@ -1,0 +1,35 @@
+; CHTDB: ; [ Evil Zone (USA) (1999) (Titus Software Corporation) {SLUS-00855} <evilzone> ]
+
+[Unlock Everything]
+Type = Gameshark
+Activation = EndFrame
+800A83DE FFFF
+900A83E0 FFFFFFFF
+800A83E4 FFFF
+
+[Infinite HP 1]
+Type = Gameshark
+Activation = EndFrame
+90046890 10800002
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A70297F4 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A70297F4 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A70297F4 10000400
+
+[Widescreen 16-9 (Alt)]
+Type = Gameshark
+Activation = EndFrame
+800297F4 0C00
+8002D91C 0C00
+

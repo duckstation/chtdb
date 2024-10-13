@@ -1,0 +1,68 @@
+; CHTDB: ; [ Need for Speed III: Hot Pursuit (Euro) (1998) (Electronic Arts) {SLES-01154} <nfs3e> ]
+
+[Enable Clk-Gtr And Xjr-15]
+Type = Gameshark
+Activation = EndFrame
+80043F0A 0101
+
+[Enable Ferrari 550 And Diablo Sv]
+Type = Gameshark
+Activation = EndFrame
+80043F08 0101
+
+[Enable Nazca C2]
+Type = Gameshark
+Activation = EndFrame
+80043F06 0101
+
+[Afterburner]
+Type = Gameshark
+Activation = EndFrame
+D311DFEA 001F
+8011DFEA 005D
+
+[All Tracks & Cars]
+Type = Gameshark
+Activation = EndFrame
+80125FC0 03F8
+
+[Select Starting Lap\2]
+Type = Gameshark
+Activation = EndFrame
+D011DDE0 0000
+3011DDE0 0001
+
+[Select Starting Lap\3]
+Type = Gameshark
+Activation = EndFrame
+D011DDE0 0000
+3011DDE0 0002
+
+[Select Starting Lap\4]
+Type = Gameshark
+Activation = EndFrame
+D011DDE0 0000
+3011DDE0 0003
+
+[Fourth Lap Press X & L2 & R2]
+Type = Gameshark
+Activation = EndFrame
+D012E3A2 BCFF
+3011DDE0 0003
+
+[Stopwatch 00.00.00 Press X & L1 & R1]
+Type = Gameshark
+Activation = EndFrame
+D012E3A2 B3FF
+80108468 0000
+D012E3A2 B3FF
+8010846A 0000
+
+[Camera Modifier\Micromachines-Style Press Select & X]
+Type = Gameshark
+Activation = EndFrame
+D012E3A2 BFFE
+800F7B40 0010
+D012E3A2 BFFE
+800F7B42 0010
+

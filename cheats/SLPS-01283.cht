@@ -1,0 +1,25 @@
+; CHTDB: ; [ Iwatobi Penguin Rocky x Hopper 2: Tantei Monogatari (Japan) {SLPS-01283} ]
+
+[Time will be returned in minigame press L2 + R2 button]
+Type = Gameshark
+Activation = EndFrame
+D0075BF8 0000
+800B0558 0000
+
+[Do not miss more games to match sound]
+Type = Gameshark
+Activation = EndFrame
+D00C1B20 6C54
+800C1B24 0000
+
+[Bomubomugemu minigame Invincibility]
+Type = Gameshark
+Activation = EndFrame
+D00C1BAC 0040
+800C1BAE 1000
+
+[Infinite Popcorn in popcorn minigame]
+Type = Gameshark
+Activation = EndFrame
+A60C382C 00010000
+

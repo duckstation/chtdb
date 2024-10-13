@@ -1,0 +1,12 @@
+; CHTDB: ; [ CyberSled (Europe) {SCES-00006} ]
+
+[Infinite Missiles]
+Type = Gameshark
+Activation = EndFrame
+8014A724 0005
+
+[Infinite Shields]
+Type = Gameshark
+Activation = EndFrame
+8014A73E 1000
+

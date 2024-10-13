@@ -1,0 +1,40 @@
+; CHTDB: ; [ Fighting Force 2 (Germany) {SLES-02235} ]
+
+[Unendlich Energie]
+Type = Gameshark
+Activation = EndFrame
+D0070CCC 0044
+8011642C 03FC
+
+[Unendlich Geld]
+Type = Gameshark
+Activation = EndFrame
+D0070CCC 0044
+800CCE2A 003C
+
+[Unendlich Continues]
+Type = Gameshark
+Activation = EndFrame
+D0070CCC 0044
+800CCE24 000A
+
+[Habe Alle Karten]
+Type = Gameshark
+Activation = EndFrame
+900CD46C 01010101
+
+[Wut Sinkt Nicht]
+Type = Gameshark
+Activation = EndFrame
+80070D72 3C00
+
+[Unendlich Munition]
+Type = Gameshark
+Activation = EndFrame
+80073A0A 3C00
+
+[Developer Cheat Menu]
+Type = Gameshark
+Activation = EndFrame
+300CB078 0002
+

@@ -1,0 +1,23 @@
+; CHTDB: ; [ Sabrina the Teenage Witch: A Twitch in Time! (Europe) {SLES-03561} ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8008C0E8 0014
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8007D9D8 0005
+800C93F0 0005
+
+[Max gems]
+Type = Gameshark
+Activation = EndFrame
+8007D9D4 03E7
+
+[Max eggs]
+Type = Gameshark
+Activation = EndFrame
+800C9452 0009
+

@@ -1,0 +1,13 @@
+; CHTDB: ; [ NASCAR 99 (USA) (1998) (Electronic Arts) {SLUS-00740} <nascar99> ]
+
+[Have All Driver's Unlocked]
+Type = Gameshark
+Activation = EndFrame
+800EE332 FFFF
+
+[One Lap To Race / Finish 1st]
+Type = Gameshark
+Activation = EndFrame
+800EDE48 0009
+A6110EFC 00000008
+

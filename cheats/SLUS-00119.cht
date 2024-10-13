@@ -1,0 +1,43 @@
+; CHTDB: ; [ Die Hard Trilogy (USA, v1.0) (1996) (Fox Interactive) {SLUS-00119} <diehardta> ]
+
+[Die Hard\Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801C9A8E 000C
+
+[Die Hard\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801D0878 0009
+
+[Die Hard 2\Infinite Lives]
+Description = Turn off the effects swith until after the FOX LOGO screen!
+Type = Gameshark
+Activation = EndFrame
+A60B4AB0 00040005
+
+[Die Hard 2\Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+801F6DDA 000E
+
+[Die Hard 3\Infinite Turbos]
+Type = Gameshark
+Activation = EndFrame
+800B6FA8 0005
+
+[Die Hard 3\Infinite Time (All Levels)]
+Type = Gameshark
+Activation = EndFrame
+800B71F8 5638
+801D313E 0A17
+801D72E0 4840
+801D73E0 4840
+801D74E0 4840
+801D75E0 4840
+
+[Die Hard 3\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800B6D50 0005
+

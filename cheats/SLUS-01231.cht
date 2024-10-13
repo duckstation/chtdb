@@ -1,0 +1,80 @@
+; CHTDB: ; [ MTV Sports - Pure Ride (USA) (2000) (THQ) {SLUS-01231} <mtvpure> ]
+
+[Unlock Everything]
+Type = Gameshark
+Activation = EndFrame
+D01D7736 8003
+901D76E0 00FFFFFF
+D014CDEA 8003
+9014CD94 00FFFFFF
+
+[Nate\Score Max]
+Type = Gameshark
+Activation = EndFrame
+900D6A4C 05F5E0FF
+
+[Miko\Score Max]
+Type = Gameshark
+Activation = EndFrame
+900D6AB4 05F5E0FF
+
+[Damian\Score Max]
+Type = Gameshark
+Activation = EndFrame
+900D69F4 05F5E0FF
+
+[Shayla\Score Max]
+Type = Gameshark
+Activation = EndFrame
+900D6B50 05F5E0FF
+
+[J.P.\Score Max]
+Type = Gameshark
+Activation = EndFrame
+900D6AE8 05F5E0FF
+
+[Brad Scheuffele\Score Max]
+Type = Gameshark
+Activation = EndFrame
+900D6A18 05F5E0FF
+
+[Marc Montoya\Score Max]
+Type = Gameshark
+Activation = EndFrame
+900D6A80 05F5E0FF
+
+[Blaise Rosenthal\Score Max]
+Type = Gameshark
+Activation = EndFrame
+900D6B1C 05F5E0FF
+
+[Michele Taggart\Score Max]
+Type = Gameshark
+Activation = EndFrame
+900D6B84 05F5E0FF
+
+[Bones\Score Max]
+Type = Gameshark
+Activation = EndFrame
+900D726C 05F5E0FF
+
+[Pecker\Score Max]
+Type = Gameshark
+Activation = EndFrame
+900D7328 05F5E0FF
+
+[Oakey\Score Max]
+Type = Gameshark
+Activation = EndFrame
+900D72A0 05F5E0FF
+
+[Summer\Score Max]
+Type = Gameshark
+Activation = EndFrame
+900D7204 05F5E0FF
+
+[Invisible Man\Score Max]
+Type = Gameshark
+Activation = EndFrame
+900D72D4 05F5E0FF
+

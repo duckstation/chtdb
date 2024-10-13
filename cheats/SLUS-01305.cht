@@ -1,0 +1,113 @@
+; CHTDB: ; [ Contender 2 (USA) (2000) (BAM! Entertainment) {SLUS-01305} <contend2> ]
+
+[Unlock All Characters]
+Type = Gameshark
+Activation = EndFrame
+50000902 0000
+800AE958 0101
+
+[Julio\Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80128EF0 0076
+
+[Gabrielle\Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8012CDB4 0076
+
+[Sergio\Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80124A98 0076
+
+[Mabutu\Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8012EB00 0076
+
+[Greta\Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80124A3C 0076
+
+[Bruno\Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80128FC0 0076
+
+[Alex\Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801226F0 0076
+
+[Damien\Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8012C820 0076
+
+[Butcher\Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8011D7C0 0076
+
+[Shark\Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80120114 0076
+
+[Sam\Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8011F464 0076
+
+[Jet\Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801226A0 0076
+
+[Dragon\Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80125CF4 0082
+
+[Kai\Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8011FF9C 0076
+
+[Clarice\Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80133CB4 0076
+
+[Spike\Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8011F6AC 0076
+
+[Jackal\Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8011FC94 0076
+
+[Cyclops\Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80125E10 0090
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A70BC338 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A70BC338 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A70BC338 10000400
+

@@ -1,0 +1,12 @@
+; CHTDB: ; [ Victory Boxing Champion Edition aka Victory Boxing '97 (Europe) {SLES-00180} ]
+
+[Infinite Energy Player]
+Type = Gameshark
+Activation = EndFrame
+8007F5E5 00FA
+
+[No Energy Opponent]
+Type = Gameshark
+Activation = EndFrame
+8007F8D5 0000
+

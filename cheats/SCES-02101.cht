@@ -1,0 +1,402 @@
+; CHTDB: ; [ Shadow Madness (Germany) {SCES-02101 | SCES-12101} ]
+
+[Unendlich Gold]
+Type = Gameshark
+Activation = EndFrame
+800AE946 0098
+
+[Unendlich Hexit]
+Type = Gameshark
+Activation = EndFrame
+800AE94A 0098
+
+[Clementt-Codes\Max Angriff]
+Type = Gameshark
+Activation = EndFrame
+3010EA02 007F
+
+[Clementt-Codes\Max Verteidg.]
+Type = Gameshark
+Activation = EndFrame
+3010EA03 007F
+
+[Clementt-Codes\Max Geschick]
+Type = Gameshark
+Activation = EndFrame
+3010EA04 007F
+
+[Clementt-Codes\Max StäRke]
+Type = Gameshark
+Activation = EndFrame
+3010EA05 007F
+
+[Clementt-Codes\Max Schnellkt.]
+Type = Gameshark
+Activation = EndFrame
+3010EA06 007F
+
+[Clementt-Codes\Max SpezialfäHigkeit]
+Type = Gameshark
+Activation = EndFrame
+3010EA08 007F
+
+[Clementt-Codes\Unendlich Hp]
+Type = Gameshark
+Activation = EndFrame
+8010EA0A 03E7
+
+[Clementt-Codes\Max Hp]
+Type = Gameshark
+Activation = EndFrame
+8010EA0C 03E7
+
+[Clementt-Codes\Unendlich Mp]
+Type = Gameshark
+Activation = EndFrame
+8010EA0E 03E7
+
+[Clementt-Codes\Max Mp]
+Type = Gameshark
+Activation = EndFrame
+8010EA10 03E7
+
+[Clementt-Codes\Max Ep]
+Type = Gameshark
+Activation = EndFrame
+8010EA12 FFFF
+
+[Clementt-Codes\Immer Gesund]
+Type = Gameshark
+Activation = EndFrame
+8010EA18 0000
+
+[Clementt-Codes\Zugriff Auf Zauberliste]
+Type = Gameshark
+Activation = EndFrame
+8010EA1A 0001
+
+[Harv-5-Codes\Max Angriff]
+Type = Gameshark
+Activation = EndFrame
+3010E9C4 007F
+
+[Harv-5-Codes\Max Verteidg.]
+Type = Gameshark
+Activation = EndFrame
+3010E9C5 007F
+
+[Harv-5-Codes\Max Geschick]
+Type = Gameshark
+Activation = EndFrame
+3010E9C6 007F
+
+[Harv-5-Codes\Max StäRke]
+Type = Gameshark
+Activation = EndFrame
+3010E9C7 007F
+
+[Harv-5-Codes\Max Schnellkt.]
+Type = Gameshark
+Activation = EndFrame
+3010E9C9 007F
+
+[Harv-5-Codes\Max SpezialfäHigkeit]
+Type = Gameshark
+Activation = EndFrame
+3010E9CA 007F
+
+[Harv-5-Codes\Unendlich Hp]
+Type = Gameshark
+Activation = EndFrame
+8010E9CC 03E7
+
+[Harv-5-Codes\Max Hp]
+Type = Gameshark
+Activation = EndFrame
+8010E9CE 03E7
+
+[Harv-5-Codes\Unendlich Mp]
+Type = Gameshark
+Activation = EndFrame
+8010E9D0 03E7
+
+[Harv-5-Codes\Max Mp]
+Type = Gameshark
+Activation = EndFrame
+8010E9D2 03E7
+
+[Harv-5-Codes\Max Ep]
+Type = Gameshark
+Activation = EndFrame
+8010E9D4 FFFF
+
+[Harv-5-Codes\Immer Gesund]
+Type = Gameshark
+Activation = EndFrame
+8010E9DA 0000
+
+[Harv-5-Codes\Zugriff Auf Zauberliste]
+Type = Gameshark
+Activation = EndFrame
+8010E9DC 0001
+
+[Jirina-Codes\Max Angriff]
+Type = Gameshark
+Activation = EndFrame
+3010E90A 007F
+
+[Jirina-Codes\Max Verteidg.]
+Type = Gameshark
+Activation = EndFrame
+3010E90B 007F
+
+[Jirina-Codes\Max Geschick]
+Type = Gameshark
+Activation = EndFrame
+3010E90C 007F
+
+[Jirina-Codes\Max StäRke]
+Type = Gameshark
+Activation = EndFrame
+3010E90D 007F
+
+[Jirina-Codes\Max Schnellkt.]
+Type = Gameshark
+Activation = EndFrame
+3010E90F 007F
+
+[Jirina-Codes\Max SpezialfäHigkeit]
+Type = Gameshark
+Activation = EndFrame
+3010E910 007F
+
+[Jirina-Codes\Unendlich Hp]
+Type = Gameshark
+Activation = EndFrame
+8010E912 03E7
+
+[Jirina-Codes\Max Hp]
+Type = Gameshark
+Activation = EndFrame
+8010E914 03E7
+
+[Jirina-Codes\Unendlich Mp]
+Type = Gameshark
+Activation = EndFrame
+8010E916 03E7
+
+[Jirina-Codes\Max Mp]
+Type = Gameshark
+Activation = EndFrame
+8010E918 03E7
+
+[Jirina-Codes\Max Ep]
+Type = Gameshark
+Activation = EndFrame
+8010E91A FFFF
+
+[Jirina-Codes\Immer Gesund]
+Type = Gameshark
+Activation = EndFrame
+8010E920 0000
+
+[Jirina-Codes\Zugriff Auf Zauberliste]
+Type = Gameshark
+Activation = EndFrame
+8010E922 0001
+
+[Stinger-Codes\Max Angriff]
+Type = Gameshark
+Activation = EndFrame
+3010E986 007F
+
+[Stinger-Codes\Max Verteidg.]
+Type = Gameshark
+Activation = EndFrame
+3010E987 007F
+
+[Stinger-Codes\Max Geschick]
+Type = Gameshark
+Activation = EndFrame
+3010E988 007F
+
+[Stinger-Codes\Max StäRke]
+Type = Gameshark
+Activation = EndFrame
+3010E989 007F
+
+[Stinger-Codes\Max Schnellkt.]
+Type = Gameshark
+Activation = EndFrame
+3010E98B 007F
+
+[Stinger-Codes\Max SpezialfäHigkeit]
+Type = Gameshark
+Activation = EndFrame
+3010E98C 007F
+
+[Stinger-Codes\Unendlich Hp]
+Type = Gameshark
+Activation = EndFrame
+8010E98E 03E7
+
+[Stinger-Codes\Max Hp]
+Type = Gameshark
+Activation = EndFrame
+8010E990 03E7
+
+[Stinger-Codes\Unendlich Mp]
+Type = Gameshark
+Activation = EndFrame
+8010E992 03E7
+
+[Stinger-Codes\Max Mp]
+Type = Gameshark
+Activation = EndFrame
+8010E994 03E7
+
+[Stinger-Codes\Max Ep]
+Type = Gameshark
+Activation = EndFrame
+8010E996 FFFF
+
+[Stinger-Codes\Immer Gesund]
+Type = Gameshark
+Activation = EndFrame
+8010E99C 0000
+
+[Stinger-Codes\Zugriff Auf Zauberliste]
+Type = Gameshark
+Activation = EndFrame
+8010E99E 0001
+
+[Windleaf-Codes\Max Angriff]
+Type = Gameshark
+Activation = EndFrame
+3010E8CC 007F
+
+[Windleaf-Codes\Max Verteidg.]
+Type = Gameshark
+Activation = EndFrame
+3010E8CD 007F
+
+[Windleaf-Codes\Max Geschick]
+Type = Gameshark
+Activation = EndFrame
+3010E8CE 007F
+
+[Windleaf-Codes\Max StäRke]
+Type = Gameshark
+Activation = EndFrame
+3010E8CF 007F
+
+[Windleaf-Codes\Max Schnellkt.]
+Type = Gameshark
+Activation = EndFrame
+3010E8D1 007F
+
+[Windleaf-Codes\Max SpezialfäHigkeit]
+Type = Gameshark
+Activation = EndFrame
+3010E8D2 007F
+
+[Windleaf-Codes\Unendlich Hp]
+Type = Gameshark
+Activation = EndFrame
+8010E8D4 03E7
+
+[Windleaf-Codes\Max Hp]
+Type = Gameshark
+Activation = EndFrame
+8010E8D6 03E7
+
+[Windleaf-Codes\Unendlich Mp]
+Type = Gameshark
+Activation = EndFrame
+8010E8D8 03E7
+
+[Windleaf-Codes\Max Mp]
+Type = Gameshark
+Activation = EndFrame
+8010E8DA 03E7
+
+[Windleaf-Codes\Max Ep]
+Type = Gameshark
+Activation = EndFrame
+8010E8DC FFFF
+
+[Windleaf-Codes\Immer Gesund]
+Type = Gameshark
+Activation = EndFrame
+8010E8E2 0000
+
+[Windleaf-Codes\Zugriff Auf Zauberliste]
+Type = Gameshark
+Activation = EndFrame
+8010E8E4 0001
+
+[Xero-Codes\Max Angriff]
+Type = Gameshark
+Activation = EndFrame
+3010E948 007F
+
+[Xero-Codes\Max Verteidg.]
+Type = Gameshark
+Activation = EndFrame
+3010E949 007F
+
+[Xero-Codes\Max Geschick]
+Type = Gameshark
+Activation = EndFrame
+3010E94A 007F
+
+[Xero-Codes\Max StäRke]
+Type = Gameshark
+Activation = EndFrame
+3010E94B 007F
+
+[Xero-Codes\Max Schnellkt.]
+Type = Gameshark
+Activation = EndFrame
+3010E94C 007F
+
+[Xero-Codes\Max SpezialfäHigkeit]
+Type = Gameshark
+Activation = EndFrame
+3010E94E 007F
+
+[Xero-Codes\Unendlich Hp]
+Type = Gameshark
+Activation = EndFrame
+8010E950 03E7
+
+[Xero-Codes\Max Hp]
+Type = Gameshark
+Activation = EndFrame
+8010E952 03E7
+
+[Xero-Codes\Unendlich Mp]
+Type = Gameshark
+Activation = EndFrame
+8010E954 03E7
+
+[Xero-Codes\Max Mp]
+Type = Gameshark
+Activation = EndFrame
+8010E956 03E7
+
+[Xero-Codes\Max Ep]
+Type = Gameshark
+Activation = EndFrame
+8010E958 FFFF
+
+[Xero-Codes\Immer Gesund]
+Type = Gameshark
+Activation = EndFrame
+8010E95E 0000
+
+[Xero-Codes\Zugriff Auf Zauberliste]
+Type = Gameshark
+Activation = EndFrame
+8010E960 0001
+

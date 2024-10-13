@@ -1,0 +1,89 @@
+; CHTDB: ; [ Muppet RaceMania (USA) (2000) (Midway Home Entertainment) {SLUS-01237} <mupprace> ]
+
+[Infinite Boost]
+Type = Gameshark
+Activation = EndFrame
+800C3532 01A4
+
+[Always First]
+Type = Gameshark
+Activation = EndFrame
+E10C3572 0000
+300C3572 0001
+
+[Point Modifier]
+Type = Gameshark
+Activation = EndFrame
+E00C1E00 0000
+300C1E00 0064
+
+[Unlock All Characters]
+Type = Gameshark
+Activation = EndFrame
+900E02BC FFFFFFFF
+
+[Unlock All Cars]
+Type = Gameshark
+Activation = EndFrame
+50006402 0000
+800E02C0 FFFF
+800E0FF6 FFFF
+
+[Unlock All Tracks]
+Type = Gameshark
+Activation = EndFrame
+300E0256 0061
+300E025E 0061
+300E0266 0061
+300E026E 0061
+
+[Unlock Studio Track]
+Type = Gameshark
+Activation = EndFrame
+300E0256 0061
+
+[Unlock Arches Track]
+Type = Gameshark
+Activation = EndFrame
+300E025E 0061
+
+[Unlock Fraggle Rock Track]
+Type = Gameshark
+Activation = EndFrame
+300E0266 0061
+
+[Unlock Disco Track]
+Type = Gameshark
+Activation = EndFrame
+300E026E 0061
+
+[Unlock Credits/Overhead Tracks]
+Type = Gameshark
+Activation = EndFrame
+300E02B9 0003
+
+[Unlock Random Race League]
+Type = Gameshark
+Activation = EndFrame
+300E02B6 0001
+
+[Stop Timer]
+Type = Gameshark
+Activation = EndFrame
+800B0A94 0000
+800C3404 0000
+800C3408 0000
+800C340C 0000
+
+[Infinite Health - Battle Mode]
+Type = Gameshark
+Activation = EndFrame
+800C34E6 0000
+800C34E8 0000
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+8002CED8 4CCC
+8002CFE0 CCCD
+

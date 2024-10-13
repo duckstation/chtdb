@@ -1,0 +1,82 @@
+; CHTDB: ; [ NHL Blades of Steel 2000 (USA) (2000) (Konami of America) {SLUS-00825} <blades2k> ]
+
+[Select Home Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+30133D44 0000
+
+[Select Home Team Score\99]
+Type = Gameshark
+Activation = EndFrame
+30133D44 0063
+
+[Select Away Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+30133D6C 0000
+
+[Select Away Team Score\99]
+Type = Gameshark
+Activation = EndFrame
+30133D6C 0063
+
+[Stats\Max Speed]
+Type = Gameshark
+Activation = EndFrame
+3015AC4C 0064
+
+[Stats\Max Accel/Back]
+Type = Gameshark
+Activation = EndFrame
+3015AC4D 0064
+
+[Stats\Max Agility]
+Type = Gameshark
+Activation = EndFrame
+3015AC4E 0064
+
+[Stats\Max Lying/Power]
+Type = Gameshark
+Activation = EndFrame
+3015AC4F 0064
+
+[Stats\Max Passing/Control]
+Type = Gameshark
+Activation = EndFrame
+3015AC50 0064
+
+[Stats\Max Quickness]
+Type = Gameshark
+Activation = EndFrame
+3015AC51 0064
+
+[Stats\Max Glove/Keeping]
+Type = Gameshark
+Activation = EndFrame
+3015AC52 0064
+
+[Stats\Max Stick/Face-Off]
+Type = Gameshark
+Activation = EndFrame
+3015AC53 0064
+
+[Stats\Max Aggressive]
+Type = Gameshark
+Activation = EndFrame
+3015AC54 0064
+
+[Stats\Max Checking]
+Type = Gameshark
+Activation = EndFrame
+3015AC55 0064
+
+[Stats\Max Reliable/Intensity]
+Type = Gameshark
+Activation = EndFrame
+3015AC56 0064
+
+[Stats\Max Stamina]
+Type = Gameshark
+Activation = EndFrame
+3015AC57 0064
+

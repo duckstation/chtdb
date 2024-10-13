@@ -1,0 +1,47 @@
+; CHTDB: ; [ Bardysh (Jpn) (1999) (Imadio) {SLPS-02187} <bardysh> ]
+
+[Gold 99999]
+Type = Gameshark
+Activation = EndFrame
+9010ED04 0001869F
+
+[99999 Enemy Killed]
+Type = Gameshark
+Activation = EndFrame
+9010ED08 0001869F
+
+[Hp 9999]
+Type = Gameshark
+Activation = EndFrame
+8010EE50 270F
+8010EE54 270F
+
+[Sp 999]
+Type = Gameshark
+Activation = EndFrame
+8010EE58 03E7
+8010EE5C 03E7
+
+[Stats 999]
+Type = Gameshark
+Activation = EndFrame
+9010EE60 03E703E7
+9010EE64 03E703E7
+8010EE68 03E7
+8010EE6E 39FF
+
+[Level 99]
+Type = Gameshark
+Activation = EndFrame
+8010ED00 0063
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+3010EE81 00FF
+
+[Monster Encyclopedia]
+Type = Gameshark
+Activation = EndFrame
+301111FF 00FF
+

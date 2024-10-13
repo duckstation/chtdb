@@ -1,0 +1,17 @@
+; CHTDB: ; [ Starblade Î± (Europe) {SCES-00034} ]
+
+[Infinite Ships]
+Type = Gameshark
+Activation = EndFrame
+801E93A0 0005
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+801E93AE 008C
+
+[Infinite Continues]
+Type = Gameshark
+Activation = EndFrame
+800758DC 0003
+

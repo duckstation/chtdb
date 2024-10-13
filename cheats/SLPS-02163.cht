@@ -1,0 +1,88 @@
+; CHTDB: ; [ Purumui Purumui (Japan) {SLPS-02163} ]
+
+[Infinite & Max HP in battle]
+Type = Gameshark
+Activation = EndFrame
+8006EA24 03E7
+8006EA28 03E7
+
+[Max Money]
+Type = Gameshark
+Activation = EndFrame
+9006EA30 0098967F
+
+[Max Key]
+Type = Gameshark
+Activation = EndFrame
+3006EA14 0009
+
+[Infinite & Max SP in battle]
+Type = Gameshark
+Activation = EndFrame
+8006EA18 03E7
+8006EA1C 03E7
+
+[Number Of Items Have Max (16 Pieces)]
+Type = Gameshark
+Activation = EndFrame
+3006EA3E 0010
+
+[All Items In The Kitchen]
+Type = Gameshark
+Activation = EndFrame
+3006EA51 0063
+8006EA52 6363
+9006EA54 63636363
+9006EA58 63636363
+9006EA5C 63636363
+9006EA60 63636300
+9006EA64 63636363
+8006EA68 6363
+3006EA6A 0063
+3006EA6F 0063
+
+[All Cooking Materials Inspiration]
+Type = Gameshark
+Activation = EndFrame
+3006EA97 0063
+9006EA98 63636363
+9006EA9C 63636363
+9006EAA0 63636363
+8006EAA4 6363
+3006EAA6 0063
+
+[All Recipes List]
+Type = Gameshark
+Activation = EndFrame
+3006EA79 0000
+8006EA7A 0201
+9006EA7C 06050403
+9006EA80 0A090807
+9006EA84 0E0D0C0B
+9006EA88 13121110
+9006EA8C 17161514
+8006EA90 1918
+
+[Pocket kitchen mini-games all clear]
+Type = Gameshark
+Activation = EndFrame
+900A026C 01010101
+900A0270 01010101
+900A0274 01010101
+900A0278 01010101
+900A027C 01010101
+
+[It does not increase fishing game Tension]
+Type = Gameshark
+Activation = EndFrame
+D009FC06 2442
+8009FBF2 1400
+D009FC06 2442
+8009FC0A 1400
+
+[Pocket kitchen mini-games all clear (PAR2 for)]
+Type = Gameshark
+Activation = EndFrame
+50000A02 0000
+800A026C 0101
+

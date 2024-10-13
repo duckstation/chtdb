@@ -1,0 +1,28 @@
+; CHTDB: ; [ Motor Toon Grand Prix 2 (Europe) {SCES-00245} ]
+
+[Infinite Coins]
+Type = Gameshark
+Activation = EndFrame
+800DC296 0600
+
+[All Goodies]
+Type = Gameshark
+Activation = EndFrame
+900E4444 01010A01
+300E4448 0001
+
+[Infinite Continues]
+Type = Gameshark
+Activation = EndFrame
+800DD0EC 0002
+
+[Always First]
+Type = Gameshark
+Activation = EndFrame
+300DC0EE 0001
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800DD60A 0006
+

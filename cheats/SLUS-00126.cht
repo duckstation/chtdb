@@ -1,0 +1,46 @@
+; CHTDB: ; [ Primal Rage (USA) (1995) (Time Warner Interactive) {SLUS-00126} <primrage> ]
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8009A804 0000
+800A7DEA 0000
+
+[P1 Invincibility]
+Type = Gameshark
+Activation = EndFrame
+300A7E05 0003
+
+[P1 Needs 1 Round to Win]
+Type = Gameshark
+Activation = EndFrame
+D00A7E0F 0000
+300A7E0F 0002
+
+[Auto Enable Cheat Options]
+Type = Gameshark
+Activation = EndFrame
+D005BB24 000C
+8005BB26 1000
+
+[P2 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800A7E7E 0000
+8009A80C 0000
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+8009A1EC 0064
+
+[P1 Infinite Brain Stem Bar (But Still Can Be Stunned)]
+Type = Gameshark
+Activation = EndFrame
+8009A66C 0000
+
+[P2 Infinite Brain Stem Bar (But Still Can Be Stunned)]
+Type = Gameshark
+Activation = EndFrame
+8009ABFC 0000
+

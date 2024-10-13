@@ -1,0 +1,77 @@
+; CHTDB: ; [ Langrisser I & II (Japan) (Shokai Gentei Special Package) {SLPS-00896} ]
+
+[Langrisser 1 Have Large Power]
+Type = Gameshark
+Activation = EndFrame
+800B81EA 1463
+800B8242 1463
+800B82F2 1463
+800B828A 1463
+800B834A 1463
+800B83A2 1463
+800B83FA 1463
+
+[Langrisser 1 Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+800A8EDE 2700
+
+[Langrisser 1 Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+8002B106 A983
+
+[Langrisser 1 Max EXP]
+Type = Gameshark
+Activation = EndFrame
+800B81EA 03FF
+
+[Langrisser 1 Max Status]
+Type = Gameshark
+Activation = EndFrame
+800B81E2 6300
+900B81E4 63636363
+800B81E8 0163
+
+[Langrisser 1 Redin HP MAX]
+Type = Gameshark
+Activation = EndFrame
+300B81A3 000A
+
+[Langrisser 1 Redin MAX level]
+Type = Gameshark
+Activation = EndFrame
+300B81E9 0063
+
+[Langrisser 2 - Infinite HP main character]
+Type = Gameshark
+Activation = EndFrame
+800B393B 000A
+
+[Langrisser 2 - Infinite HP second character]
+Type = Gameshark
+Activation = EndFrame
+800B3993 000A
+
+[Langrisser 2 - Have Large Power]
+Type = Gameshark
+Activation = EndFrame
+800B3982 1463
+800B39DA 1463
+800B3A32 1463
+800B3A8A 1463
+800B3AE2 1463
+800B3B3A 1463
+800B3B92 1463
+800B3BEA 1463
+
+[Langrisser 2 - Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+800A47CE 7FFF
+
+[Langrisser 2 - Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+80029C26 A983
+

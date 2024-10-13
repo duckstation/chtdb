@@ -1,0 +1,12 @@
+; CHTDB: ; [ Mushi no Idokoro (Japan) {SLPS-00375} ]
+
+[P1 have 0 insects in vs mode]
+Type = Gameshark
+Activation = EndFrame
+800B7D78 0000
+
+[P1 have 0 insects in story mode]
+Type = Gameshark
+Activation = EndFrame
+800B7D78 0000
+

@@ -1,0 +1,22 @@
+; CHTDB: ; [ Goal Storm '97 (USA) (1997) (Konami of America) {SLUS-00295} <goalst97> ]
+
+[P1 Select Score\9]
+Type = Gameshark
+Activation = EndFrame
+800A57DE 0009
+
+[P1 Select Score\0]
+Type = Gameshark
+Activation = EndFrame
+800A57DE 0000
+
+[P2 Select Score\9]
+Type = Gameshark
+Activation = EndFrame
+800A5802 0009
+
+[P2 Select Score\0]
+Type = Gameshark
+Activation = EndFrame
+800A5802 0000
+

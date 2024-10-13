@@ -1,0 +1,17 @@
+; CHTDB: ; [ D (USA) (1996) (Acclaim Entertainment) {SLUS-00128 / SLUS-00173 / SLUS-00174} <d> ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80053AE0 BEDE
+80053B24 BEDE
+800689B8 BFCE
+80071120 044E
+8010C484 020C
+
+[Infinite Oracle]
+Type = Gameshark
+Activation = EndFrame
+800718E4 0303
+801324B4 0001
+

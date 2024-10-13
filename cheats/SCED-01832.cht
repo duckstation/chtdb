@@ -1,0 +1,32 @@
+; CHTDB: ; [ Ridge Racer Hi-Spec Demo (Europe) {SCED-01832} ]
+
+[Ridge Racer Enhanced Original Mode\Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80067560 09AF
+
+[Hi-Spec Demo Disc\Ridge Racer Original Mode\V/Max At 400]
+Type = Gameshark
+Activation = EndFrame
+800678A0 0B6F
+
+[Ridge Racer Enhanced Original Mode\Improved Acceleration]
+Type = Gameshark
+Activation = EndFrame
+800678B2 00FF
+
+[Ridge Racer Enhanced Original Mode\Improved Handling]
+Type = Gameshark
+Activation = EndFrame
+80067898 08FF
+
+[Ridge Racer Enhanced Original Mode\Improved Traction]
+Type = Gameshark
+Activation = EndFrame
+80067896 08FF
+
+[Ridge Racer Enhanced Turbo Mode\Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80085D84 09AF
+

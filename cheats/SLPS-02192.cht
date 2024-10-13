@@ -1,0 +1,57 @@
+; CHTDB: ; [ Galerians (Japan) {SLPS-02192 | SLPS-02193 | SLPS-02194} ]
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+801C1B14 00C8
+
+[Always empty AP]
+Type = Gameshark
+Activation = EndFrame
+801AFF6C 0000
+
+[Infinite NALCON]
+Type = Gameshark
+Activation = EndFrame
+801AFF78 00C8
+
+[Infinite RED]
+Type = Gameshark
+Activation = EndFrame
+801AFF7C 00C8
+
+[Infinite D-FELON]
+Type = Gameshark
+Activation = EndFrame
+801AFF80 00C8
+
+[Infinite ESP]
+Type = Gameshark
+Activation = EndFrame
+A61473BE 00620060
+A614747E 00510040
+
+[Movie Fully Open]
+Type = Gameshark
+Activation = EndFrame
+901FE3E4 FFFFFFFF
+301FE3E8 000F
+
+[Elapsed time]
+Type = Gameshark
+Activation = EndFrame
+801B03EC 0000
+
+[Mortal blow]
+Type = Gameshark
+Activation = EndFrame
+A6145106 00450000
+
+[Nimble short in R2]
+Type = Gameshark
+Activation = EndFrame
+D01AD0C8 0002
+801B03A4 0001
+D01AD0C8 0002
+801AFF70 0001
+

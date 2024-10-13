@@ -1,0 +1,52 @@
+; CHTDB: ; [ NBA Live 2002 (USA) (2001) (Electronic Arts) {SLUS-01416} <nbalv2k2> ]
+
+[HaveABA Ball]
+Type = Gameshark
+Activation = EndFrame
+300AE4DD 0001
+
+[Have West Coast Court]
+Type = Gameshark
+Activation = EndFrame
+300AE4F8 0001
+
+[Have New 1-On-1 Uniform]
+Type = Gameshark
+Activation = EndFrame
+300AE4F9 0001
+
+[Have Rewards Expansion]
+Type = Gameshark
+Activation = EndFrame
+300AE4FA 0001
+
+[Have Michael Jordan]
+Type = Gameshark
+Activation = EndFrame
+300AE4F1 0001
+
+[Have New Music Track]
+Type = Gameshark
+Activation = EndFrame
+300AE4FB 0001
+
+[Select Home Team Score\100]
+Type = Gameshark
+Activation = EndFrame
+800A8A10 0064
+
+[Select Home Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+800A8A10 0000
+
+[Select Away Team Score\100]
+Type = Gameshark
+Activation = EndFrame
+800A9064 0064
+
+[Select Away Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+800A9064 0000
+

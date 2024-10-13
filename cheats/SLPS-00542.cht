@@ -1,0 +1,68 @@
+; CHTDB: ; [ Bastard!! Utsuronaru Kamigami no Utsuwa (Japan) {SLPS-00542} ]
+
+[1st Character Max Experience]
+Type = Gameshark
+Activation = EndFrame
+9014E9C8 003D967F
+
+[1st Character Level 99]
+Type = Gameshark
+Activation = EndFrame
+3014E9C5 0063
+
+[2nd Character Max Experience]
+Type = Gameshark
+Activation = EndFrame
+8014EEB4 FFFF
+
+[Health / Magic max Character 1]
+Type = Gameshark
+Activation = EndFrame
+8014E9FA 00FF
+8014E9F6 00FF
+8014E9F2 00FF
+8014E9EE 00FF
+
+[VIE H 999 /999]
+Type = Gameshark
+Activation = EndFrame
+9014EED8 003E7000
+9014EEDC 003E7000
+
+[JORG H 999 / M 999]
+Type = Gameshark
+Activation = EndFrame
+9014EF8C 003E7000
+9014EF90 003E7000
+9014EF94 003E7000
+9014EF98 003E7000
+
+[ANGUS H 999 / M 999]
+Type = Gameshark
+Activation = EndFrame
+9014F040 003E7000
+9014F044 003E7000
+9014F048 0020A000
+9014F04C 0020A000
+
+[KAI H 999 / M 999]
+Type = Gameshark
+Activation = EndFrame
+9014F0F4 003E7000
+9014F0F8 003E7000
+9014F0FC 003E7000
+9014F100 003E7000
+
+[SEAN H 999 / M 999]
+Type = Gameshark
+Activation = EndFrame
+9014F1A8 003E7000
+9014F1AC 003E7000
+9014F1B0 003E7000
+
+[Infinite HP Blad in battle]
+Type = Gameshark
+Activation = EndFrame
+80106C3C 03E7
+80106C5C 03E7
+

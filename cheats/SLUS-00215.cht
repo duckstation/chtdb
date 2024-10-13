@@ -1,0 +1,116 @@
+; CHTDB: ; [ Namco Museum Vol. 1 (USA, v1.0) (1996) (Namco Hometek) {SLUS-00215} <namcoms1a> ]
+
+[Bosconian\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8015728C 0002
+
+[Bosconian\Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+80157290 0063
+
+[Galaga\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801A3E40 0102
+
+[Galaga\First Boss Galaga From The Left Will Freeze When Shot Twice.]
+Type = Gameshark
+Activation = EndFrame
+801A3850 0103
+
+[Galaga\Only 3 Boss Galagas Will Come Out Instead Of Four]
+Type = Gameshark
+Activation = EndFrame
+801A3850 FFFF
+
+[New Rally X\Infinite Fuel]
+Type = Gameshark
+Activation = EndFrame
+800BEF04 3BC8
+
+[New Rally X\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800BEECC 0004
+
+[New Rally X\Opponents Cars Don't Move!!]
+Type = Gameshark
+Activation = EndFrame
+800BEE6C 0060
+
+[Pacman\P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801177EC 0004
+
+[Pacman\Eat All Ghosts All The Time]
+Type = Gameshark
+Activation = EndFrame
+901669DC 00000000
+90166A08 00000000
+90166A34 00000000
+90166A60 00000000
+
+[Pacman\Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+801176D0 0063
+
+[Pacman\P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+801177F0 0003
+
+[Pacman\Strange Ghost Behaviour]
+Type = Gameshark
+Activation = EndFrame
+801177E6 0005
+
+[Pole Position\Infinite Race Time]
+Type = Gameshark
+Activation = EndFrame
+80131552 6300
+
+[Pole Position\Max Speed]
+Type = Gameshark
+Activation = EndFrame
+8012EEC0 FF00
+
+[Rally X\Infinite Fuel]
+Type = Gameshark
+Activation = EndFrame
+800BDE80 3825
+
+[Rally X\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800BDE44 0004
+
+[Rally X\Opponents Cars Don't Move!!]
+Type = Gameshark
+Activation = EndFrame
+800BDDE4 0060
+
+[Rally X\Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+800C31C0 8058
+800D3238 8058
+
+[Toy Pop\Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800C5B40 003B
+
+[Toy Pop\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800FD270 0004
+
+[Toy Pop\Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800FD214 0002
+

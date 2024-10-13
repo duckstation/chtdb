@@ -1,0 +1,19 @@
+; CHTDB: ; [ Klonoa Beach Volley: Saikyou Team Kettei-sen! (Japan) {SLPS-03433} ]
+
+[All Characters]
+Type = Gameshark
+Activation = EndFrame
+50001F02 0000
+800CED60 0001
+
+[Score]
+Type = Gameshark
+Activation = EndFrame
+801C6300 0005
+801C62FC 0005
+
+[Instant Win]
+Type = Gameshark
+Activation = EndFrame
+800CDEC0 000A
+

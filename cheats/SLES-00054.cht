@@ -1,0 +1,67 @@
+; CHTDB: ; [ X-COM: Enemy Unknown (Europe) {SLES-00054} ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+900D0F34 05F5E0FF
+
+[Infinite Moves Soldier 1]
+Type = Gameshark
+Activation = EndFrame
+80019A12 2850
+
+[Infinite Moves Soldier 2]
+Type = Gameshark
+Activation = EndFrame
+80019A8E 2450
+
+[Infinite Moves Soldier 3]
+Type = Gameshark
+Activation = EndFrame
+80019B0A 2850
+
+[Infinite Moves Soldier 4]
+Type = Gameshark
+Activation = EndFrame
+80019B86 1C50
+
+[Infinite Shoots Soldier 1]
+Type = Gameshark
+Activation = EndFrame
+8001466C 0020
+
+[Infinite Shoots Soldier 2]
+Type = Gameshark
+Activation = EndFrame
+8001467C 0020
+
+[Infinite Shoots Soldier 3]
+Type = Gameshark
+Activation = EndFrame
+8001468C 0020
+
+[Infinite Shoots Soldier 4]
+Type = Gameshark
+Activation = EndFrame
+8001469C 0020
+
+[Infinite Energy Soldier 1]
+Type = Gameshark
+Activation = EndFrame
+80019A14 5000
+
+[Infinite Energy Soldier 2]
+Type = Gameshark
+Activation = EndFrame
+80019A90 5000
+
+[Infinite Energy Soldier 3]
+Type = Gameshark
+Activation = EndFrame
+80019B88 5000
+
+[Infinite Energy Soldier 4]
+Type = Gameshark
+Activation = EndFrame
+80019B0C 5000
+

@@ -1,0 +1,35 @@
+; CHTDB: ; [ Legacy of Kain: Soul Reaver (Germany) {SLES-02025} ]
+
+[Alle Portale offen]
+Type = Gameshark
+Activation = EndFrame
+50000640 0009
+800D20BE 0000
+
+[Unendlich Glyph-Energie]
+Type = Gameshark
+Activation = EndFrame
+300D5DBC 0063
+300D5DBE 0063
+
+[Habe Alle Glyphen]
+Type = Gameshark
+Activation = EndFrame
+300D5DB6 00FC
+
+[Unendlich Lebensenergie Materielle Welt]
+Type = Gameshark
+Activation = EndFrame
+D00D5DE4 0001
+800D5DA8 A120
+D00D5DE4 0001
+800D5DAA 0007
+
+[Unendlich Lebensenergie Spektrale Welt]
+Type = Gameshark
+Activation = EndFrame
+D00D5DE4 0002
+800D5DA8 86A0
+D00D5DE4 0002
+800D5DAA 0001
+

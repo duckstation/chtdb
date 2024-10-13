@@ -1,0 +1,22 @@
+; CHTDB: ; [ One Piece Mansion (Europe) {SLES-03723} ]
+
+[Infinite Money (60000)]
+Type = Gameshark
+Activation = EndFrame
+8012FEE8 EA60
+
+[Have 1 Tenant]
+Type = Gameshark
+Activation = EndFrame
+8012FEFF 0001
+
+[Have Puitica]
+Type = Gameshark
+Activation = EndFrame
+30114F75 0001
+
+[Stop clock]
+Type = Gameshark
+Activation = EndFrame
+8012FEF2 01C8
+

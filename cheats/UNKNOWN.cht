@@ -1,0 +1,22 @@
+; CHTDB: ; [ Resident Evil 1.5 ]
+
+[Disable bitmasks]
+Type = Gameshark
+Activation = EndFrame
+A7039662 0C012400
+
+[Matrix mode "Press L3 to toggle on/off"]
+Type = Gameshark
+Activation = EndFrame
+D7010001 02000200
+F502C21A 0C012400
+F501A58A 00402400
+F5019F52 10401000
+
+[Almighty push! "Press R2"]
+Type = Gameshark
+Activation = EndFrame
+A7109412 24000C00
+D7200000 00000002
+A7109412 0C002400
+

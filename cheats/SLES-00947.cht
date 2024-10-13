@@ -1,0 +1,256 @@
+; CHTDB: ; [ Shadow Man (Europe) (Acclaimed Range) {SLES-00947} ]
+
+[Max/Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800C20E0 2710
+
+[Max Shadow Level]
+Type = Gameshark
+Activation = EndFrame
+800C26E8 2710
+
+[Max Shadow Power]
+Type = Gameshark
+Activation = EndFrame
+800C26EC 2710
+
+[Enable All Locations]
+Type = Gameshark
+Activation = EndFrame
+50001101 0000
+300BCDC8 0001
+
+[Infinite Bullets]
+Type = Gameshark
+Activation = EndFrame
+800C2100 0063
+
+[Infinite Shotgun Shells]
+Type = Gameshark
+Activation = EndFrame
+800C20F4 000C
+
+[Infinite Violator Ammunition]
+Type = Gameshark
+Activation = EndFrame
+800C20F8 0063
+
+[Have Nettie's File]
+Type = Gameshark
+Activation = EndFrame
+A60BCD30 00000003
+
+[Have The Prophecy]
+Type = Gameshark
+Activation = EndFrame
+A60BCD34 00000003
+
+[Have Jacks Journal]
+Type = Gameshark
+Activation = EndFrame
+A60BCD38 00000003
+
+[Have Book Of Shadows]
+Type = Gameshark
+Activation = EndFrame
+A60BCD3C 00000003
+
+[Have Teddy Bear]
+Type = Gameshark
+Activation = EndFrame
+A60BCD40 00000003
+
+[Have Accumulator]
+Type = Gameshark
+Activation = EndFrame
+A60BCD44 00000003
+
+[Have Enseigne]
+Type = Gameshark
+Activation = EndFrame
+A60BCD48 00000003
+
+[Have Asson]
+Type = Gameshark
+Activation = EndFrame
+A60BCD4C 00000003
+
+[Have 0.9-Smg]
+Type = Gameshark
+Activation = EndFrame
+A60BCD50 00000003
+
+[Have Flashlight]
+Type = Gameshark
+Activation = EndFrame
+A60BCD54 00000003
+
+[Have Engineer's Key]
+Type = Gameshark
+Activation = EndFrame
+A60BCD58 00000003
+
+[Have Flambeau]
+Type = Gameshark
+Activation = EndFrame
+A60BCD5C 00000003
+
+[Have Pistol]
+Type = Gameshark
+Activation = EndFrame
+A60BCD60 00000003
+
+[Have Shotgun]
+Type = Gameshark
+Activation = EndFrame
+A60BCD64 00000003
+
+[Have Keycard]
+Type = Gameshark
+Activation = EndFrame
+A60BCD64 00000003
+
+[Have Violator]
+Type = Gameshark
+Activation = EndFrame
+A60BCD6C 00000003
+
+[Have Marteau]
+Type = Gameshark
+Activation = EndFrame
+A60BCD70 00000003
+
+[Have Baton]
+Type = Gameshark
+Activation = EndFrame
+A60BCD74 00000003
+
+[Have Mp-909]
+Type = Gameshark
+Activation = EndFrame
+A60BCD78 00000003
+
+[Have 2nd Shotgun]
+Type = Gameshark
+Activation = EndFrame
+A60BCD7C 00000003
+
+[Have Retractor]
+Type = Gameshark
+Activation = EndFrame
+A60BCD80 00000003
+
+[Have Spare (Green)]
+Type = Gameshark
+Activation = EndFrame
+A60BCD90 00000003
+
+[Have Calabash]
+Type = Gameshark
+Activation = EndFrame
+A60BCD88 00000003
+
+[Have Spare (Purple)]
+Type = Gameshark
+Activation = EndFrame
+A60BCD8C 00000003
+
+[Have Prism (0)]
+Type = Gameshark
+Activation = EndFrame
+A60BCD94 00000003
+
+[Have L'Eclipser - La Lune]
+Type = Gameshark
+Activation = EndFrame
+A60BCD98 00000003
+
+[Have L'Eclipser - La Soleil]
+Type = Gameshark
+Activation = EndFrame
+A60BCD9C 00000003
+
+[Have L'Eclipser - La Lame]
+Type = Gameshark
+Activation = EndFrame
+A60BCDA0 00000003
+
+[Have Cadeaux (0)]
+Type = Gameshark
+Activation = EndFrame
+A60BCDA4 00000003
+
+[Infinite Voodoo Power]
+Type = Gameshark
+Activation = EndFrame
+800C20F0 FFFF
+
+[Have Full Shadow Power]
+Type = Gameshark
+Activation = EndFrame
+800C20E8 2710
+
+[Have 9999 Cadeaux]
+Type = Gameshark
+Activation = EndFrame
+800BCDC6 03E7
+900C20FC 000003E7
+
+[Infinite Prisms]
+Type = Gameshark
+Activation = EndFrame
+800C2104 0063
+
+[Infinite Retractor Ammo]
+Type = Gameshark
+Activation = EndFrame
+800C2106 0063
+
+[Infinite Accumulator Ammo]
+Type = Gameshark
+Activation = EndFrame
+800C2108 0063
+
+[Moon Jump .Hold Triangle]
+Type = Gameshark
+Activation = EndFrame
+E00BC40E 0010
+800C1F9C A000
+
+[Further Back Camera .Very Hard To Control]
+Type = Gameshark
+Activation = EndFrame
+800C1872 00B9
+800C187E 00B9
+
+[Skinny Shadowman]
+Type = Gameshark
+Activation = EndFrame
+800C1FB0 1000
+
+[Tall/Weird Shadowman]
+Type = Gameshark
+Activation = EndFrame
+800C1FB0 2000
+
+[Taller Up-Close View]
+Type = Gameshark
+Activation = EndFrame
+800C1FB0 4000
+
+[Upside Down Mode Doesnt Work On All Levels]
+Type = Gameshark
+Activation = EndFrame
+800C1FB0 8000
+
+[Up-Close Upside Down Mode]
+Type = Gameshark
+Activation = EndFrame
+800C1FB0 E000
+
+[Flat Mode]
+Type = Gameshark
+Activation = EndFrame
+800C1FB0 0000
+

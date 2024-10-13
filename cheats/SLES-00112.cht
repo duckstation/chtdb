@@ -1,0 +1,17 @@
+; CHTDB: ; [ Johnny Bazookatone (Europe) {SLES-00112} ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800B5A08 0003
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800B5A04 0003
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+80094AA4 003C
+

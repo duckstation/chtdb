@@ -1,0 +1,17 @@
+; CHTDB: ; [ Power Play - Sports Trivia (USA) (2002) (Ubi Soft Entertainment Software) {SLUS-01445} <sportriv> ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80073CA0 0242
+
+[Quick Point Gain]
+Type = Gameshark
+Activation = EndFrame
+8005D86C FFFF
+
+[Max Points]
+Type = Gameshark
+Activation = EndFrame
+9005D86C 05F5E0FF
+

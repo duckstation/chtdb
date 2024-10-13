@@ -1,0 +1,37 @@
+; CHTDB: ; [ Civilization II (USA) (1999) (Activision) {SLUS-00792} <civ2> ]
+
+[Celts, Romans, Russians\Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+80117C0C FFFF
+
+[Babylonians, Japanese, Zulus\Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+80118184 FFFF
+
+[French, Germans, Vikings\Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+801186FC FFFF
+
+[Aztecs, Egyptians, Spanish\Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+80118C74 FFFF
+
+[Americans, Chinese, Persians\Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+801191EC FFFF
+
+[Carthaginians, Greeks, English\Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+80119764 FFFF
+
+[Indians, Mongols, Sioux\Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+80119CDC FFFF
+

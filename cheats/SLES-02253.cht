@@ -1,0 +1,51 @@
+; CHTDB: ; [ Warpath: Jurassic Park (Euro) (1999) (Electronic Arts) {SLES-02253} <warpathe> ]
+
+[P1 Quick win]
+Type = Gameshark
+Activation = EndFrame
+9006144C 14800003
+8006145A 3C00
+
+[Start on final Stage]
+Type = Gameshark
+Activation = EndFrame
+800313B6 0008
+
+[Unlock all characters]
+Type = Gameshark
+Activation = EndFrame
+50000601 0000
+300313CD 0001
+
+[Unlock all levels]
+Type = Gameshark
+Activation = EndFrame
+50000401 0000
+300313F9 0001
+
+[Unlock all Extra Modes]
+Type = Gameshark
+Activation = EndFrame
+3003143F 0001
+
+[P1 only needs 1 win]
+Type = Gameshark
+Activation = EndFrame
+E00313A7 0000
+300313A7 0001
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A7041BA8 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A7041BA8 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A7041BA8 10000400
+

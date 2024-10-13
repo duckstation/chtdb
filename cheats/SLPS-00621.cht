@@ -1,0 +1,23 @@
+; CHTDB: ; [ GALEOZ (Jpn) (1996) (Atlus) {SLPS-00621} <galeoz> ]
+
+[Infinite Bullets]
+Type = Gameshark
+Activation = EndFrame
+801B5B36 000A
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801B5AD2 03E8
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+301B5B3D 00FF
+
+[After pressing Triangle Shoot mega bomb]
+Type = Gameshark
+Activation = EndFrame
+D01AA794 FFEF
+801B5B3E FFFF
+

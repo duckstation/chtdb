@@ -1,0 +1,42 @@
+; CHTDB: ; [ The Legend of Heroes III: Shiroki Majo: Mou Hitotsu no Eiyuu-tachi no Monogatari (Japan) {SLPS-01201} ]
+
+[Infinite & Max HP Jurio]
+Type = Gameshark
+Activation = EndFrame
+900C05F8 03E703E7
+
+[Infinite & Max VP Jurio]
+Type = Gameshark
+Activation = EndFrame
+800C0630 03E7
+
+[LV 99 Jurio]
+Type = Gameshark
+Activation = EndFrame
+300C05FC 0063
+
+[Infinite & Max HP Chris]
+Type = Gameshark
+Activation = EndFrame
+900C0640 03E703E7
+
+[Infinite & Max VP Chris]
+Type = Gameshark
+Activation = EndFrame
+800C0678 03E7
+
+[Max Exp For 1st Character]
+Type = Gameshark
+Activation = EndFrame
+800C0610 FFFF
+
+[Max Exp For 2nd Character]
+Type = Gameshark
+Activation = EndFrame
+800C0658 FFFF
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+900C11D4 00FFFFFF
+

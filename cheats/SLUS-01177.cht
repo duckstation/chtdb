@@ -1,0 +1,25 @@
+; CHTDB: ; [ Sydney 2000 (USA) (2000) (Eidos Interactive) {SLUS-01177} <sydney2k> ]
+
+[All Event Stages Unlocked]
+Type = Gameshark
+Activation = EndFrame
+50000C04 0000
+800165B8 0003
+
+[All Events-Gold Medal]
+Type = Gameshark
+Activation = EndFrame
+50000C04 0000
+80016D64 0006
+
+[All Training Completed]
+Type = Gameshark
+Activation = EndFrame
+50007E02 0000
+800165E8 6464
+
+[Unlock Arcade Legend Difficulty]
+Type = Gameshark
+Activation = EndFrame
+300A0ADC 0003
+

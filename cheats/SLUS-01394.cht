@@ -1,0 +1,17 @@
+; CHTDB: ; [ Hooters Road Trip (USA) (2002) (Ubi Soft Entertainment Software) {SLUS-01394} <hooters> ]
+
+[Unlock All Vehicles - Road Trip - Press L1,L2,R1,R2 at the car selection screen. To enable all vehicles in License Car mode you need at least one car in your garage. Press the same buttons as above. Sometimes the game freeze if you quit Road Trip and re enter License Car mode]
+Type = Gameshark
+Activation = EndFrame
+C0086822 F0FF
+800865A6 FFFF
+800865A8 FFFF
+00000000 FFFF
+
+[Unlock All Cars]
+Type = Gameshark
+Activation = EndFrame
+50000402 0000
+800865B0 FFFF
+800865F8 0004
+

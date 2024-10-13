@@ -1,0 +1,62 @@
+; CHTDB: ; [ Rayman (Jpn) (1995) (Ubisoft) {SLPS-00026} <raymanj> ]
+
+[1-Hit Death Bosses/Enemies]
+Type = Gameshark
+Activation = EndFrame
+9014CB1C 24020001
+901A0CCC 24030000
+90178D5C 24020000
+90180BE4 24020000
+90150E18 24020000
+90198994 24020000
+
+[All Levels Unlocked/Electoons Freed]
+Type = Gameshark
+Activation = EndFrame
+301C03D9 0006
+50001014 0000
+801C03EC 0601
+50000714 0000
+301C052C 0001
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+301EAAE6 004D
+D01EBAEE FFFE
+301EAAE6 00FF
+
+[Pause For Max Health + Lives]
+Type = Gameshark
+Activation = EndFrame
+8013859A 2400
+
+[Press Select For 99 Tings]
+Type = Gameshark
+Activation = EndFrame
+D01EBAEE FFFE
+301D5BBA 0063
+
+[Skip Level (Triangle+Circle)]
+Type = Gameshark
+Activation = EndFrame
+D01EBAEE CFFF
+301EB5BC 0001
+
+[Power Press Select+Circle For All Powers (Reverse Mode/O is Run)]
+Type = Gameshark
+Activation = EndFrame
+D01EBAEE DFFE
+801E9444 028F
+
+[Power Press Select+Left For All Powers (Super Helicopter/O is Run)]
+Type = Gameshark
+Activation = EndFrame
+D01EBAEE FF7E
+801E9444 018F
+
+[Power Press Select+Right For All Powers (Helicopter/O is Magic Seed)]
+Type = Gameshark
+Activation = EndFrame
+801E9444 01C7
+

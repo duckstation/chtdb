@@ -1,0 +1,38 @@
+; CHTDB: ; [ Hot Wheels: Extreme Racing (Europe) {SLES-03595} ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800E6464 1000
+
+[Have 99 points after race deactivate after sending]
+Type = Gameshark
+Activation = EndFrame
+800C5FE0 0063
+
+[Instant Win (Note)]
+Type = Gameshark
+Activation = EndFrame
+A60E6824 FFFF0002
+
+[Only One Lap To Race]
+Type = Gameshark
+Activation = EndFrame
+A60E6824 00000002
+
+[Start With Loads Of Money]
+Type = Gameshark
+Activation = EndFrame
+A60E65EC 0000D02C
+A60E65EE 00000160
+
+[All Cups & Tracks]
+Type = Gameshark
+Activation = EndFrame
+800B2FFC 0006
+
+[All Vehicles]
+Type = Gameshark
+Activation = EndFrame
+800B3000 0008
+

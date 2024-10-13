@@ -1,0 +1,40 @@
+; CHTDB: ; [ King's Field III (Japan) {SLPS-00377} ]
+
+[MAX Gold]
+Type = Gameshark
+Activation = EndFrame
+901B1E34 0098967F
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+8002A18A 0040
+
+[Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+8002DAB2 0040
+8002DBE4 0040
+
+[Experience value MAX After defeat the enemy]
+Type = Gameshark
+Activation = EndFrame
+80029DB6 1400
+
+[POWER gauge MAX]
+Type = Gameshark
+Activation = EndFrame
+8002D8D6 1400
+8002D8F2 A020
+
+[MAGIC gauge MAX]
+Type = Gameshark
+Activation = EndFrame
+8002FC96 1400
+
+[Physical strength, intelligence MAX]
+Type = Gameshark
+Activation = EndFrame
+801B1E24 03E7
+801B1E30 0004
+

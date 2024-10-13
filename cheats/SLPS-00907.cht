@@ -1,0 +1,12 @@
+; CHTDB: ; [ Boundary Gate - Daughter of Kingdom (Jpn) (1997) (Pack-In-Soft) {SLPS-00907} <boundgat> ]
+
+[Infinite Money (99999)]
+Type = Gameshark
+Activation = EndFrame
+90126B84 0001869F
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+80126C16 0063
+

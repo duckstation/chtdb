@@ -1,0 +1,29 @@
+; CHTDB: ; [ Command & Conquer: Red Alert: Retaliation (Allies) (Europe) {SLES-01343 | SLES-11343} ]
+
+[Have 50 Units To Start]
+Type = Gameshark
+Activation = EndFrame
+801AA20C 0032
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+801AA274 FFFF
+
+[Open Map And Shroud]
+Type = Gameshark
+Activation = EndFrame
+801B48EC 0001
+
+[Make Vehicles Invulnerable (.To make a vehicle invulnerable use the cursor to highlight the symbol that has the word #READY# on the sidebar, then press the #X# button to activate a different cursor which you then place over the vehicle and press #X# again to make the vehicle invulnerable for a limited period.)]
+Type = Gameshark
+Activation = EndFrame
+8002CC78 000F
+801B4902 0015
+801B490A 0001
+801B490C 0015
+801B4914 0046
+801B4902 0015
+801B4924 0001
+801B4934 0001
+

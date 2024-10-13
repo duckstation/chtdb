@@ -1,0 +1,70 @@
+; CHTDB: ; [ Power Move Pro Wrestling (USA) (1996) (Activision) {SLUS-00408} <pmpwrest> ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80075524 0001
+
+[Infinite Time Outside Ring]
+Type = Gameshark
+Activation = EndFrame
+8007AD90 0001
+
+[Infinite Crowd P2 (Name Flashes)]
+Type = Gameshark
+Activation = EndFrame
+80081300 0018
+
+[Infinite Crowd P1 (Name Flashes)]
+Type = Gameshark
+Activation = EndFrame
+80080D7C 0018
+
+[P1 Infinite Stamina]
+Type = Gameshark
+Activation = EndFrame
+90080D5C 000186A0
+90080D60 00013880
+
+[P1 Very Low Stamina]
+Type = Gameshark
+Activation = EndFrame
+90080D5C 00000000
+90080D60 00000000
+
+[P2 Infinite Stamina]
+Type = Gameshark
+Activation = EndFrame
+900812D0 000186A0
+900812D4 00013880
+
+[P2 Very Low Stamina]
+Type = Gameshark
+Activation = EndFrame
+900812D0 00000000
+900812D4 00000000
+
+[Hit Anywhere (Both Players Delay)]
+Type = Gameshark
+Activation = EndFrame
+D0026E1C 00C8
+80026E1E 2400
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A702C63C 10000C00
+A702C6D0 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A702C63C 10000900
+A702C6D0 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A702C63C 10000400
+A702C6D0 10000400
+

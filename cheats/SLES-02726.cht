@@ -1,0 +1,98 @@
+; CHTDB: ; [ Armorines: Project S.W.A.R.M. (Germany) {SLES-02726} ]
+
+[Ue Panzerung (P1 & P2)]
+Type = Gameshark
+Activation = EndFrame
+90046D6C 00000000
+
+[Ue Mu (Nach Aufnahme) (P1 & P2)]
+Type = Gameshark
+Activation = EndFrame
+800470E0 0000
+
+[P1-Codes\Ue Panzerung]
+Type = Gameshark
+Activation = EndFrame
+30060B51 0064
+
+[P1-Codes\Kein Nachladen Shot Blaster]
+Type = Gameshark
+Activation = EndFrame
+80060B6E 03E7
+
+[P1-Codes\Ue Mu Raketenwerfer]
+Type = Gameshark
+Activation = EndFrame
+80060B64 03E7
+
+[P1-Codes\Habe Tretminen]
+Type = Gameshark
+Activation = EndFrame
+80060B60 03E7
+
+[P1-Codes\Habe Thumper]
+Type = Gameshark
+Activation = EndFrame
+80060B62 03E7
+
+[P1-Codes\Habe Zielsender]
+Type = Gameshark
+Activation = EndFrame
+80060B66 03E7
+
+[P2-Codes\Ue Panzerung]
+Type = Gameshark
+Activation = EndFrame
+300611A9 0064
+
+[P2-Codes\Kein Nachladen Lightbringer]
+Type = Gameshark
+Activation = EndFrame
+800611C4 03E7
+
+[P2-Codes\Ue Mu Granatwerfer]
+Type = Gameshark
+Activation = EndFrame
+800611C8 03E7
+
+[P2-Codes\Habe Tretminen]
+Type = Gameshark
+Activation = EndFrame
+800611B8 03E7
+
+[P2-Codes\Habe Thumper]
+Type = Gameshark
+Activation = EndFrame
+800611BA 03E7
+
+[P2-Codes\Habe Zielsender]
+Type = Gameshark
+Activation = EndFrame
+800611BE 03E7
+
+[Multiplayer-Codes\P1\Ue Geheimwaffe (Nach Aufnahme)]
+Type = Gameshark
+Activation = EndFrame
+80060B72 03E7
+
+[Multiplayer-Codes\P1\Ue Stab Des Pharaos (Nach Aufnahme)]
+Type = Gameshark
+Activation = EndFrame
+80060B78 03E7
+
+[Multiplayer-Codes\P2\Suddendeath]
+Type = Gameshark
+Activation = EndFrame
+D00611A8 6400
+300611A9 0001
+
+[Multiplayer-Codes\P2\Ue Geheimwaffe (Nach Aufnahme)]
+Type = Gameshark
+Activation = EndFrame
+800611CA 03E7
+
+[Multiplayer-Codes\P2\Ue Stab Des Pharaos (Nach Aufnahme)]
+Type = Gameshark
+Activation = EndFrame
+800611D0 03E7
+

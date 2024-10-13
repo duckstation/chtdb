@@ -1,0 +1,32 @@
+; CHTDB: ; [ Wayne Gretzky's 3D Hockey '98 (USA) (1997) (Midway Home Entertainment) {SLUS-00147} <wg3dh98> ]
+
+[Select Home Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+800D72B4 0000
+
+[Select Home Team Score\9]
+Type = Gameshark
+Activation = EndFrame
+800D72B4 0009
+
+[Select Away Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+800D7358 0000
+
+[Select Away Team Score\9]
+Type = Gameshark
+Activation = EndFrame
+800D7358 0009
+
+[Infinite Burst]
+Type = Gameshark
+Activation = EndFrame
+800D47A0 078B
+
+[Stop Clock]
+Type = Gameshark
+Activation = EndFrame
+800AE174 0001
+

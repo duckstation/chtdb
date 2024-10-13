@@ -1,0 +1,53 @@
+; CHTDB: ; [ Soukou Kihei Votoms - Lightning Slash (Jpn) (1999) (Takara) {SLPS-01961} <votoms> ]
+
+[Infinite At]
+Type = Gameshark
+Activation = EndFrame
+800E700C 02EE
+
+[Pt Infinite]
+Type = Gameshark
+Activation = EndFrame
+800E700E 0258
+
+[99,999,999 G Money]
+Type = Gameshark
+Activation = EndFrame
+900803D8 05F5E0FF
+
+[P1 victory Press L2 + R2]
+Type = Gameshark
+Activation = EndFrame
+C007B340 0003
+800E727C 0000
+800E7144 0000
+800E73B4 0000
+00000000 FFFF
+
+[Infinite Roller dash]
+Type = Gameshark
+Activation = EndFrame
+A60A18CC 00020000
+
+[Infinite Bullets]
+Type = Gameshark
+Activation = EndFrame
+A60A3992 A4620000
+A60B649C FFFF0000
+A60B6474 FFFFFFFF
+
+[Infinite Bombs]
+Type = Gameshark
+Activation = EndFrame
+A60B64BC FFFF0000
+
+[Unbreakable communication equipment]
+Type = Gameshark
+Activation = EndFrame
+A60973C4 FFFF0000
+
+[Examination pass in two straight wins]
+Type = Gameshark
+Activation = EndFrame
+A609775A A482A480
+

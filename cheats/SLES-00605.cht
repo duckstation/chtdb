@@ -1,0 +1,20 @@
+; CHTDB: ; [ Super Puzzle Fighter II Turbo (Europe) {SLES-00605} ]
+
+[P2 P1 throws 99 stones to other]
+Type = Gameshark
+Activation = EndFrame
+301BA366 0063
+301BA536 0063
+
+[P1 Press L2 For Instant Win]
+Type = Gameshark
+Activation = EndFrame
+D01CAD2A 0001
+801BA366 0046
+
+[Open All Prizes, Modes]
+Type = Gameshark
+Activation = EndFrame
+50001102 0000
+8017C5F8 FFFF
+

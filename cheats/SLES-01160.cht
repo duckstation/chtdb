@@ -1,0 +1,22 @@
+; CHTDB: ; [ Wayne Gretzky's 3D Hockey '98 (Europe) {SLES-01160} ]
+
+[P1 amount of goals 9]
+Type = Gameshark
+Activation = EndFrame
+800D82F4 0009
+
+[P1 amount of goals 0]
+Type = Gameshark
+Activation = EndFrame
+800D82F4 0000
+
+[P2 amount of goalS 9]
+Type = Gameshark
+Activation = EndFrame
+800D8398 0009
+
+[P2 amount of goals 0]
+Type = Gameshark
+Activation = EndFrame
+800D8398 0000
+

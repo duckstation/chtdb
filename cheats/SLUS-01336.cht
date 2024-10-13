@@ -1,0 +1,27 @@
+; CHTDB: ; [ Time Crisis - Project Titan (USA) (2001) (Namco Hometek) {SLUS-01336} <timecrpt> ]
+
+[Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+8007D47C 0006
+
+[Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+8007D408 0004
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8007D484 0003
+
+[Stop Timer]
+Type = Gameshark
+Activation = EndFrame
+80022F06 2400
+
+[Total Time Stopped]
+Type = Gameshark
+Activation = EndFrame
+80022FA2 2400
+

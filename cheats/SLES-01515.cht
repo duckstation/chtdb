@@ -1,0 +1,27 @@
+; CHTDB: ; [ Duke Nukem: Time to Kill (Europe) {SLES-01515} ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800D720A 4E20
+
+[Infinite Air]
+Type = Gameshark
+Activation = EndFrame
+800D740E 2EC0
+
+[Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+800D740C 4E20
+
+[Invulnerable]
+Type = Gameshark
+Activation = EndFrame
+300C3D06 0001
+
+[Select levels at main menu]
+Type = Gameshark
+Activation = EndFrame
+800BDEE6 0001
+

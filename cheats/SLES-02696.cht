@@ -1,0 +1,21 @@
+; CHTDB: ; [ Tom Clancy's Rainbow Six: Rogue Spear (Europe) {SLES-02696} ]
+
+[Infinite Health All - On (Press L1 & Select)]
+Type = Gameshark
+Activation = EndFrame
+D0096F2A FBFE
+800A3120 0000
+D0096F2A FBFE
+800A30F4 0000
+
+[Invincibility - On (Press R1 & Up Pad 2)]
+Type = Gameshark
+Activation = EndFrame
+D008444C F7EF
+300B2104 0001
+
+[Infinite Ammo all guns]
+Type = Gameshark
+Activation = EndFrame
+A60AA448 00490000
+

@@ -1,0 +1,12 @@
+; CHTDB: ; [ Jouki Kikansha Unten Simulation: SL de Ikou! II (Japan) {SLPS-02478} ]
+
+[Have always 999 points]
+Type = Gameshark
+Activation = EndFrame
+8005E702 03E7
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+8005E8A4 0001
+

@@ -1,0 +1,32 @@
+; CHTDB: ; [ Road Rash 3D (Germany) {SLES-01158} ]
+
+[Unendlich Geld]
+Type = Gameshark
+Activation = EndFrame
+800B71E2 0098
+
+[Biker Durability]
+Type = Gameshark
+Activation = EndFrame
+300C2218 0080
+
+[Unendlich Gesundheit]
+Type = Gameshark
+Activation = EndFrame
+300C2214 007D
+
+[Platz 9 Modify]
+Type = Gameshark
+Activation = EndFrame
+3010F123 0000
+
+[Zeit Vorspulen]
+Type = Gameshark
+Activation = EndFrame
+800C2528 3DE6
+
+[1st Place]
+Type = Gameshark
+Activation = EndFrame
+800C21F4 0001
+

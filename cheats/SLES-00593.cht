@@ -1,0 +1,37 @@
+; CHTDB: ; [ Croc: Legend of the Gobbos (Europe) {SLES-00593} ]
+
+[100 Diamonds]
+Type = Gameshark
+Activation = EndFrame
+80074BC0 0064
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80075234 00FF
+
+[Six Gobbos Found]
+Type = Gameshark
+Activation = EndFrame
+80074BC8 0006
+
+[Five Coloured Crystals Found]
+Type = Gameshark
+Activation = EndFrame
+80074D24 001F
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+8007C486 FFF1
+
+[Invisible Croc]
+Type = Gameshark
+Activation = EndFrame
+8007C486 0002
+
+[Level Select (.?00-FF Insert the levelnumber in hex. For instance 00 warps you to Level 1, 01 to Level 2, 0A to Level 11 and so on)]
+Type = Gameshark
+Activation = EndFrame
+8007542C 0001
+

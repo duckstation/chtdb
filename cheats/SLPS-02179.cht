@@ -1,0 +1,12 @@
+; CHTDB: ; [ Simple 1500 Series Vol. 12: The Quiz (Japan) (Culture Publishers) {SLPS-02179} ]
+
+[Always Correct]
+Type = Gameshark
+Activation = EndFrame
+8005E6DC 0063
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+9005E754 00100384
+

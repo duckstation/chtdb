@@ -1,0 +1,27 @@
+; CHTDB: ; [ Lucky Luke (USA) (1998) (Infogrames) {SLUS-00719} <luckyluk> ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+800A1A64 03E8
+
+[Dynamite]
+Type = Gameshark
+Activation = EndFrame
+800A1A66 0009
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800A1A60 0009
+
+[Infinite B's]
+Type = Gameshark
+Activation = EndFrame
+300A1A68 0063
+
+[Manga Cheat]
+Type = Gameshark
+Activation = EndFrame
+30098884 0001
+

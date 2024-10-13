@@ -1,0 +1,455 @@
+; CHTDB: ; [ Invasion (Europe) {SLES-00443} ]
+
+[Infinite Energy all levels]
+Type = Gameshark
+Activation = EndFrame
+8009178C 0064
+
+[Select Level\1]
+Type = Gameshark
+Activation = EndFrame
+8001F064 0001
+
+[Select Level\2]
+Type = Gameshark
+Activation = EndFrame
+8001F064 0002
+
+[Select Level\3]
+Type = Gameshark
+Activation = EndFrame
+8001F064 0003
+
+[Select Level\4]
+Type = Gameshark
+Activation = EndFrame
+8001F064 0004
+
+[Select Level\5]
+Type = Gameshark
+Activation = EndFrame
+8001F064 0005
+
+[Select Level\6]
+Type = Gameshark
+Activation = EndFrame
+8001F064 0006
+
+[Select Level\7]
+Type = Gameshark
+Activation = EndFrame
+8001F064 0007
+
+[Select Level\8]
+Type = Gameshark
+Activation = EndFrame
+8001F064 0008
+
+[Select Level\9]
+Type = Gameshark
+Activation = EndFrame
+8001F064 0009
+
+[Select Level\10]
+Type = Gameshark
+Activation = EndFrame
+8001F064 000A
+
+[Select Level\11]
+Type = Gameshark
+Activation = EndFrame
+8001F064 000B
+
+[Select Level\12]
+Type = Gameshark
+Activation = EndFrame
+8001F064 000C
+
+[Infinite Continues]
+Type = Gameshark
+Activation = EndFrame
+8001F068 0003
+
+[Slow Timer Down]
+Type = Gameshark
+Activation = EndFrame
+80092200 0000
+80092240 0000
+
+[Mission Accomplished working only in last level]
+Type = Gameshark
+Activation = EndFrame
+800921E4 0064
+
+[Battle 01 Retaliation\Infinite Special Weapons 1 & 2 & 4 & 6]
+Type = Gameshark
+Activation = EndFrame
+801553D4 0A0A
+
+[Battle 01 Retaliation\Infinite Special Weapon 3]
+Type = Gameshark
+Activation = EndFrame
+801553D6 0A0A
+
+[Battle 01 Retaliation\Infinite Special Weapon 5]
+Type = Gameshark
+Activation = EndFrame
+801553D8 0A0A
+
+[Battle 01 Retaliation\Infinite Special Weapon 7 & 8]
+Type = Gameshark
+Activation = EndFrame
+801553DA 1E0A
+
+[Battle 01 Retaliation\Infinite Special Weapon 9]
+Type = Gameshark
+Activation = EndFrame
+801553DC 000A
+
+[Battle 01 Retaliation\Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801552FC 03E8
+801553B8 0064
+
+[Battle 02 Communications (328 134)\Infinite Special Weapons 1 & 2 & 4 & 6]
+Type = Gameshark
+Activation = EndFrame
+801351FC 0A0A
+
+[Battle 02 Communications (328 134)\Infinite Special Weapon 3]
+Type = Gameshark
+Activation = EndFrame
+801351FE 0A0A
+
+[Battle 02 Communications (328 134)\Infinite Special Weapon 5]
+Type = Gameshark
+Activation = EndFrame
+80135220 0A0A
+
+[Battle 02 Communications (328 134)\Infinite Special Weapon 7 & 8]
+Type = Gameshark
+Activation = EndFrame
+80135222 1E0A
+
+[Battle 02 Communications (328 134)\Infinite Special Weapon 9]
+Type = Gameshark
+Activation = EndFrame
+80135224 000A
+
+[Battle 02 Communications (328 134)\Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80135124 03E8
+801351E0 0064
+
+[Battle 03 Secret Base (387 568)\Infinite Special Weapons 1 & 2 & 4 & 6]
+Type = Gameshark
+Activation = EndFrame
+801100DC 0A0A
+
+[Battle 03 Secret Base (387 568)\Infinite Special Weapon 3]
+Type = Gameshark
+Activation = EndFrame
+801100DE 0A0A
+
+[Battle 03 Secret Base (387 568)\Infinite Special Weapon 5]
+Type = Gameshark
+Activation = EndFrame
+801100E0 0A0A
+
+[Battle 03 Secret Base (387 568)\Infinite Special Weapon 7 & 8]
+Type = Gameshark
+Activation = EndFrame
+801100E2 1E0A
+
+[Battle 03 Secret Base (387 568)\Infinite Special Weapon 9]
+Type = Gameshark
+Activation = EndFrame
+801100E4 000A
+
+[Battle 03 Secret Base (387 568)\Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80110004 03E8
+801100C0 0064
+
+[Battle 04 Commando (424 539)\Infinite Special Weapons 1 & 2 & 4 & 6]
+Type = Gameshark
+Activation = EndFrame
+80143198 0A0A
+
+[Battle 04 Commando (424 539)\Infinite Special Weapon 3]
+Type = Gameshark
+Activation = EndFrame
+8014319A 0A0A
+
+[Battle 04 Commando (424 539)\Infinite Special Weapon 5]
+Type = Gameshark
+Activation = EndFrame
+8014319C 0A0A
+
+[Battle 04 Commando (424 539)\Infinite Special Weapon 7 & 8]
+Type = Gameshark
+Activation = EndFrame
+8014319E 1E0A
+
+[Battle 04 Commando (424 539)\Infinite Special Weapon 9]
+Type = Gameshark
+Activation = EndFrame
+80145224 000A
+
+[Battle 04 Commando (424 539)\Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801430C0 03E8
+8014317C 0064
+
+[Battle 05 Laboratory (576 708)\Infinite Special Weapons 1 & 2 & 4 & 6]
+Type = Gameshark
+Activation = EndFrame
+8014CA98 0A0A
+
+[Battle 05 Laboratory (576 708)\Infinite Special Weapon 3]
+Type = Gameshark
+Activation = EndFrame
+8014CA9A 0A0A
+
+[Battle 05 Laboratory (576 708)\Infinite Special Weapon 5]
+Type = Gameshark
+Activation = EndFrame
+8014CA9C 0A0A
+
+[Battle 05 Laboratory (576 708)\Infinite Special Weapon 7 & 8]
+Type = Gameshark
+Activation = EndFrame
+8014CA9E 1E0A
+
+[Battle 05 Laboratory (576 708)\Infinite Special Weapon 9]
+Type = Gameshark
+Activation = EndFrame
+8014CAA0 000A
+
+[Battle 05 Laboratory (576 708)\Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8014C9C0 03E8
+8014CA7C 0064
+
+[Battle 06 Resources (702 505)\Infinite Special Weapons 1 & 2 & 4 & 6]
+Type = Gameshark
+Activation = EndFrame
+8010C8A4 0A0A
+
+[Battle 06 Resources (702 505)\Infinite Special Weapon 3]
+Type = Gameshark
+Activation = EndFrame
+8010C8A6 0A0A
+
+[Battle 06 Resources (702 505)\Infinite Special Weapon 5]
+Type = Gameshark
+Activation = EndFrame
+8010C8A8 0A0A
+
+[Battle 06 Resources (702 505)\Infinite Special Weapon 7 & 8]
+Type = Gameshark
+Activation = EndFrame
+8010C8AA 1E0A
+
+[Battle 06 Resources (702 505)\Infinite Special Weapon 9]
+Type = Gameshark
+Activation = EndFrame
+8010C8AC 000A
+
+[Battle 06 Resources (702 505)\Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8010C7CC 03E8
+8010C888 0064
+
+[Battle 07 Jungle (924 508)\Infinite Special Weapons 1 & 2 & 4 & 6]
+Type = Gameshark
+Activation = EndFrame
+80113364 0A0A
+
+[Battle 07 Jungle (924 508)\Infinite Special Weapon 3]
+Type = Gameshark
+Activation = EndFrame
+80113366 0A0A
+
+[Battle 07 Jungle (924 508)\Infinite Special Weapon 5]
+Type = Gameshark
+Activation = EndFrame
+80113368 0A0A
+
+[Battle 07 Jungle (924 508)\Infinite Special Weapon 7 & 8]
+Type = Gameshark
+Activation = EndFrame
+8011336A 1E0A
+
+[Battle 07 Jungle (924 508)\Infinite Special Weapon 9]
+Type = Gameshark
+Activation = EndFrame
+8011336C 000A
+
+[Battle 07 Jungle (924 508)\Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8011328C 03E8
+80113348 0064
+
+[Battle 08 Blizzard Of Fire (846 819)\Infinite Special Weapons 1 & 2 & 4 & 6]
+Type = Gameshark
+Activation = EndFrame
+8013D6D8 0A0A
+
+[Battle 08 Blizzard Of Fire (846 819)\Infinite Special Weapon 3]
+Type = Gameshark
+Activation = EndFrame
+8013D6DA 0A0A
+
+[Battle 08 Blizzard Of Fire (846 819)\Infinite Special Weapon 5]
+Type = Gameshark
+Activation = EndFrame
+8013D6DC 0A0A
+
+[Battle 08 Blizzard Of Fire (846 819)\Infinite Special Weapon 7 & 8]
+Type = Gameshark
+Activation = EndFrame
+8013D6DE 1E0A
+
+[Battle 08 Blizzard Of Fire (846 819)\Infinite Special Weapon 9]
+Type = Gameshark
+Activation = EndFrame
+8013D6E0 000A
+
+[Battle 08 Blizzard Of Fire (846 819)\Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+8013D600 03E8
+8013D6BC 0064
+
+[Battle 09 The First Victory (580 334)\Infinite Special Weapons 1 & 2 & 4 & 6]
+Type = Gameshark
+Activation = EndFrame
+800E8164 0A0A
+
+[Battle 09 The First Victory (580 334)\Infinite Special Weapon 3]
+Type = Gameshark
+Activation = EndFrame
+800E8166 0A0A
+
+[Battle 09 The First Victory (580 334)\Infinite Special Weapon 5]
+Type = Gameshark
+Activation = EndFrame
+800E8168 0A0A
+
+[Battle 09 The First Victory (580 334)\Infinite Special Weapon 7 & 8]
+Type = Gameshark
+Activation = EndFrame
+800E816A 1E0A
+
+[Battle 09 The First Victory (580 334)\Infinite Special Weapon 9]
+Type = Gameshark
+Activation = EndFrame
+800E816C 000A
+
+[Battle 09 The First Victory (580 334)\Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800E808C 03E8
+800E8148 0064
+
+[Battle 10 Blockade (602 154)\Infinite Special Weapons 1 & 2 & 4 & 6]
+Type = Gameshark
+Activation = EndFrame
+801418B0 0A0A
+
+[Battle 10 Blockade (602 154)\Infinite Special Weapon 3]
+Type = Gameshark
+Activation = EndFrame
+801418B2 0A0A
+
+[Battle 10 Blockade (602 154)\Infinite Special Weapon 5]
+Type = Gameshark
+Activation = EndFrame
+801418B4 0A0A
+
+[Battle 10 Blockade (602 154)\Infinite Special Weapon 7 & 8]
+Type = Gameshark
+Activation = EndFrame
+801418B6 1E0A
+
+[Battle 10 Blockade (602 154)\Infinite Special Weapon 9]
+Type = Gameshark
+Activation = EndFrame
+801418B8 000A
+
+[Battle 10 Blockade (602 154)\Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801417D8 03E8
+80141894 0064
+
+[Battle 11 Near Mygra\Infinite Special Weapons 1 & 2 & 4 & 6]
+Type = Gameshark
+Activation = EndFrame
+800FD39C 0A0A
+
+[Battle 11 Near Mygra\Infinite Special Weapon 3]
+Type = Gameshark
+Activation = EndFrame
+800FD39E 0A0A
+
+[Battle 11 Near Mygra\Infinite Special Weapon 5]
+Type = Gameshark
+Activation = EndFrame
+800FD3A0 0A0A
+
+[Battle 11 Near Mygra\Infinite Special Weapon 7 & 8]
+Type = Gameshark
+Activation = EndFrame
+800FD3A2 1E0A
+
+[Battle 11 Near Mygra\Infinite Special Weapon 9]
+Type = Gameshark
+Activation = EndFrame
+800FD3A4 000A
+
+[Battle 11 Near Mygra\Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800FD2C4 03E8
+800FD380 0064
+
+[Battle 12 Guardian (525 080)\Infinite Special Weapons 1 & 2 & 4 & 6]
+Type = Gameshark
+Activation = EndFrame
+800F385C 0A0A
+
+[Battle 12 Guardian (525 080)\Infinite Special Weapon 3]
+Type = Gameshark
+Activation = EndFrame
+800F385E 0A0A
+
+[Battle 12 Guardian (525 080)\Infinite Special Weapon 5]
+Type = Gameshark
+Activation = EndFrame
+800F3860 0A0A
+
+[Battle 12 Guardian (525 080)\Infinite Special Weapon 7 & 8]
+Type = Gameshark
+Activation = EndFrame
+800F3862 1E0A
+
+[Battle 12 Guardian (525 080)\Infinite Special Weapon 9]
+Type = Gameshark
+Activation = EndFrame
+800F3864 000A
+
+[Battle 12 Guardian (525 080)\Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800F3784 03E8
+800F3840 0064
+

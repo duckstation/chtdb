@@ -1,0 +1,34 @@
+; CHTDB: ; [ Raamen-bashi (Japan) {SLPS-02293} ]
+
+[Have 99999 money]
+Type = Gameshark
+Activation = EndFrame
+90162D20 0001869F
+
+[Max Ramen Sell]
+Type = Gameshark
+Activation = EndFrame
+901E1280 000F423F
+
+[All Items]
+Type = Gameshark
+Activation = EndFrame
+50004F02 0000
+801E1A70 0101
+
+[Charged tasting number 9999 soup]
+Type = Gameshark
+Activation = EndFrame
+8008A6B8 270F
+
+[Charged in the number of tasting 9999 fixture]
+Type = Gameshark
+Activation = EndFrame
+8008A6BA 270F
+
+[If you raise the noodles while pressing the SELECT button, so the best boiled]
+Type = Gameshark
+Activation = EndFrame
+D008A368 0100
+8008A4B4 008E
+

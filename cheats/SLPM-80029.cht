@@ -1,0 +1,22 @@
+; CHTDB: ; [ King's Field III Japan Pilot Style {SLPM-80029} ]
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+A7026472 10A01000
+A702641E A6302400
+
+[Walk through/climb over Walls]
+Description = Walk slowly to climb and faster to go through
+Type = Gameshark
+Activation = EndFrame
+A70297A6 16801400
+
+[Walk On Air & Water L3/R3 On/Off]
+Type = Gameshark
+Activation = EndFrame
+E01A244D 00000002
+8002C3CE 00002400
+E01A244D 00000004
+8002C3CE 00000C00
+

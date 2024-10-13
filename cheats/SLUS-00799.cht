@@ -1,0 +1,32 @@
+; CHTDB: ; [ Crusaders of Might and Magic (USA) (2000) (The 3DO Company) {SLUS-00799} <crusmmag> ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800F1D0C 03E7
+
+[Max Health]
+Type = Gameshark
+Activation = EndFrame
+800F4E28 03E7
+
+[Infinite Mana]
+Type = Gameshark
+Activation = EndFrame
+801051E0 03E7
+
+[Max Mana]
+Type = Gameshark
+Activation = EndFrame
+801051E4 03E7
+
+[Infinite Gold]
+Type = Gameshark
+Activation = EndFrame
+801051D0 FFFF
+
+[Next Level Always 1 Away]
+Type = Gameshark
+Activation = EndFrame
+80105134 0001
+

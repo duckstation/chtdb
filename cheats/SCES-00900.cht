@@ -1,0 +1,47 @@
+; CHTDB: ; [ Final Fantasy VII (Spain) {SCES-00900 | SCES-10900 | SCES-20900} ]
+
+[Cloud\Infinite & Max HP]
+Type = Gameshark
+Activation = EndFrame
+9009D924 03E703E7
+
+[Cloud\Infinite HP in battle]
+Type = Gameshark
+Activation = EndFrame
+800F8504 03E7
+
+[Barret\Infinite & Max HP]
+Type = Gameshark
+Activation = EndFrame
+9009DD64 03E703E7
+
+[Barret\Infinite HP in battle]
+Type = Gameshark
+Activation = EndFrame
+800F8968 03E7
+
+[Tifa\Infinite & Max HP]
+Type = Gameshark
+Activation = EndFrame
+9009C934 03E703E7
+
+[Cloud\Infinite MP in battle]
+Type = Gameshark
+Activation = EndFrame
+800F5CEE 0063
+
+[Tifa\Infinite MP in battle]
+Type = Gameshark
+Activation = EndFrame
+800F5D76 0063
+
+[Aeris\Infinite MP in battle]
+Type = Gameshark
+Activation = EndFrame
+800F5D32 0063
+
+[Have 999999 gold]
+Type = Gameshark
+Activation = EndFrame
+9009D328 000F423F
+

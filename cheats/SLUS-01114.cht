@@ -1,0 +1,53 @@
+; CHTDB: ; [ Saban's Power Rangers - Lightspeed Rescue (USA) (2000) (THQ) {SLUS-01114} <prlightr> ]
+
+[Enable Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800B3940 0001
+
+[Enable Level Skip]
+Type = Gameshark
+Activation = EndFrame
+800B3978 0001
+
+[Enable Titanium Ranger]
+Type = Gameshark
+Activation = EndFrame
+800B3994 0001
+
+[Enable Blind Enemies]
+Type = Gameshark
+Activation = EndFrame
+800B39B0 0001
+
+[Enable Continue Modifier]
+Type = Gameshark
+Activation = EndFrame
+800B39CC 0001
+
+[Enable Infinite Rpe]
+Type = Gameshark
+Activation = EndFrame
+800B39E8 0001
+
+[Enable ??? Cheat]
+Type = Gameshark
+Activation = EndFrame
+800B3A04 0001
+
+[Enable Galleries Open]
+Type = Gameshark
+Activation = EndFrame
+800B3A20 0001
+
+[Enable All Cheats]
+Type = Gameshark
+Activation = EndFrame
+5000081C 0000
+800B3940 0001
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801574FC 00FF
+

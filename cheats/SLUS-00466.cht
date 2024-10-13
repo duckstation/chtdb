@@ -1,0 +1,37 @@
+; CHTDB: ; [ Norse by Norsewest - The Return of the Lost Vikings (USA) (1997) (Interplay Productions) {SLUS-00466} <lostvik2> ]
+
+[Viking Left Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800B9204 0003
+
+[Viking Middle Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800B9220 0003
+
+[Viking Right Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800B923C 0003
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+30095190 0001
+
+[Infinite Flying]
+Type = Gameshark
+Activation = EndFrame
+30095190 0002
+
+[Invincibility + Infinite Flying]
+Type = Gameshark
+Activation = EndFrame
+30095190 0003
+
+[Infinite Skip Level (X+Square+Triangle)]
+Type = Gameshark
+Activation = EndFrame
+30095190 0004
+

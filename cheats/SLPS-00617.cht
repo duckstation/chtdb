@@ -1,0 +1,18 @@
+; CHTDB: ; [ Tomb Raiders (Japan) {SLPS-00617} ]
+
+[Infinite Strength It is not valid if you may fall into the hole, it was eaten by a dinosaur]
+Type = Gameshark
+Activation = EndFrame
+90028DB0 340403E8
+90028DBC A4440022
+
+[Infinite Oxygen]
+Type = Gameshark
+Activation = EndFrame
+80033F00 0000
+
+[All weapons]
+Type = Gameshark
+Activation = EndFrame
+300929FF 0001
+

@@ -1,0 +1,55 @@
+; CHTDB: ; [ Alfred Chicken (Europe) {SCES-03817} ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80108F7C 0063
+
+[Max Diamonds]
+Type = Gameshark
+Activation = EndFrame
+80108F88 0063
+
+[Unlock All Stages]
+Type = Gameshark
+Activation = EndFrame
+800B4880 000A
+
+[Only 1 Balloon Needed To Clear Stage]
+Type = Gameshark
+Activation = EndFrame
+80108F80 0001
+
+[Have All Watering Cans]
+Type = Gameshark
+Activation = EndFrame
+50000A04 0000
+800B484C 0001
+
+[Press Circle for Max Diamonds]
+Type = Gameshark
+Activation = EndFrame
+E00BFD8D 0020
+80108F88 0063
+
+[Press L2/L1 To Turn Star Blocks On/Off]
+Type = Gameshark
+Activation = EndFrame
+E00BFD8D 0001
+80108FF0 0001
+E00BFD8D 0004
+80108FF0 0000
+
+[Press R2/R1 to Turn Diamond Blocks ON/OFF]
+Type = Gameshark
+Activation = EndFrame
+E00BFD8D 0002
+80108FF4 0001
+E00BFD8D 0008
+80108FF4 0000
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+8003CD72 1460
+

@@ -1,0 +1,119 @@
+; CHTDB: ; [ Descent Maximum (USA) (1997) (Interplay Productions) {SLUS-00460} <descntmx> ]
+
+[Select Cheat\Have All Key Cards (All Levels)]
+Type = Gameshark
+Activation = EndFrame
+800E92F8 00FE
+
+[Select Cheat\Have All Key Cards, Headlight Booster, Auto-Map (All Levels)]
+Type = Gameshark
+Activation = EndFrame
+800E92F8 F7FE
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800E9302 0064
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800E9304 0109
+
+[Infinite Time To Escape Mine]
+Type = Gameshark
+Activation = EndFrame
+800AA4B8 003C
+800AA4B6 000A
+
+[Have All Primary Weapons]
+Type = Gameshark
+Activation = EndFrame
+800E930C FFFF
+
+[Have All Secondary Weapons]
+Type = Gameshark
+Activation = EndFrame
+800E9310 FFFF
+
+[Have Earth Shakers]
+Type = Gameshark
+Activation = EndFrame
+800E933A 0063
+800F8668 0009
+
+[Have Level 5 Laser]
+Type = Gameshark
+Activation = EndFrame
+800E9306 0404
+
+[Infinite Earth Shakers]
+Type = Gameshark
+Activation = EndFrame
+800E933A 0063
+
+[Infinite Lasers]
+Type = Gameshark
+Activation = EndFrame
+800E92FE 0064
+
+[Infinite Concussion Missiles]
+Type = Gameshark
+Activation = EndFrame
+800E9328 0063
+
+[Infinite Flash Missiles]
+Type = Gameshark
+Activation = EndFrame
+800E9332 0063
+
+[Infinite Guided Missiles]
+Type = Gameshark
+Activation = EndFrame
+800E9334 0063
+
+[Infinite Homing Missiles]
+Type = Gameshark
+Activation = EndFrame
+800E932A 0063
+
+[Infinite Mega Missiles]
+Type = Gameshark
+Activation = EndFrame
+800E9330 0063
+
+[Infinite Mercury Missiles]
+Type = Gameshark
+Activation = EndFrame
+800E9338 0063
+
+[Infinite Proximity Bombs]
+Type = Gameshark
+Activation = EndFrame
+800E932C 0063
+
+[Infinite Short Missiles]
+Type = Gameshark
+Activation = EndFrame
+800E932E 0063
+
+[Infinite Smart-Bombs]
+Type = Gameshark
+Activation = EndFrame
+800E9336 0063
+
+[Infinite Vulcan + Gauss Ammo]
+Type = Gameshark
+Activation = EndFrame
+800E9316 0063
+
+[Max FX Volume]
+Type = Gameshark
+Activation = EndFrame
+800AA6A8 0006
+
+[Max Music Volume]
+Type = Gameshark
+Activation = EndFrame
+800AA6A4 0006
+

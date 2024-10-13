@@ -1,0 +1,31 @@
+; CHTDB: ; [ Dodge de Ball! (Jpn) (1998) (Yumedia) {SLPS-01362} <dodgebal> ]
+
+[P1 Invincibility]
+Type = Gameshark
+Activation = EndFrame
+80085318 0030
+80085384 0030
+800853F0 0030
+8008545C 0030
+
+[P1 Infinite Special Attack]
+Type = Gameshark
+Activation = EndFrame
+80063562 0057
+80077A30 0084
+80077A40 0084
+80077CD8 0084
+80077CE8 0084
+800793C8 0084
+800793D8 0084
+
+[P2 Can't Use Special Attack]
+Type = Gameshark
+Activation = EndFrame
+80063560 0000
+
+[Enable Special Game]
+Type = Gameshark
+Activation = EndFrame
+800635B2 0100
+

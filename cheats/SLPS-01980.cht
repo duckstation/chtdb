@@ -1,0 +1,33 @@
+; CHTDB: ; [ Yuusha-Ou GaoGaiGar - Blockaded Numbers (Jpn) (1999) (Takara) {SLPS-01980} <gaogaigr> ]
+
+[No Mistakes On Rollercoaster Mini Game]
+Type = Gameshark
+Activation = EndFrame
+800ABF2C 0000
+
+[Infinite Energy Gaogaigar]
+Type = Gameshark
+Activation = EndFrame
+800AB672 0003
+
+[Infinite Special Attacks Gaogaigar]
+Type = Gameshark
+Activation = EndFrame
+800AB670 0003
+
+[All Minigames]
+Type = Gameshark
+Activation = EndFrame
+901F4000 01010101
+901F4004 01010101
+801F4008 0101
+301F400A 0001
+
+[Database Fully open]
+Type = Gameshark
+Activation = EndFrame
+901F4018 FFFFFFFF
+901F401C FFFFFFFF
+901F4020 FFFFFFFF
+801F402C FFFF
+

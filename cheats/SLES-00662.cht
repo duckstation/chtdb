@@ -1,0 +1,7 @@
+; CHTDB: ; [ Battle Stations (Europe) {SLES-00662} ]
+
+[P1 Infinity Life]
+Type = Gameshark
+Activation = EndFrame
+800C368C 0064
+

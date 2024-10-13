@@ -1,0 +1,7 @@
+; CHTDB: ; [ Night Head: The Labyrinth (Japan) {SLPS-00111} ]
+
+[Debug menu Start the game, press Start Button]
+Type = Gameshark
+Activation = EndFrame
+30072034 0001
+

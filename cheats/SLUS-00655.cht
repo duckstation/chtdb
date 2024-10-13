@@ -1,0 +1,27 @@
+; CHTDB: ; [ Sports Car GT (USA) (1999) (Electronic Arts) {SLUS-00655} <spcargt> ]
+
+[Have 500 Million Money Credits]
+Type = Gameshark
+Activation = EndFrame
+900A139C 1FFF1FFF
+
+[Always Have 3 Retries]
+Type = Gameshark
+Activation = EndFrame
+300A1399 0003
+
+[Start On 3rd Lap In Season Mode]
+Type = Gameshark
+Activation = EndFrame
+8009F714 0002
+
+[Start On 5th Lap In Season Mode]
+Type = Gameshark
+Activation = EndFrame
+8009F714 0004
+
+[Have All Classes]
+Type = Gameshark
+Activation = EndFrame
+300A1398 0004
+

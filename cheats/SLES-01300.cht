@@ -1,0 +1,22 @@
+; CHTDB: ; [ The Unholy War (Europe) {SLES-01300} ]
+
+[GOld Teknos]
+Type = Gameshark
+Activation = EndFrame
+80128108 FFFF
+
+[Gold Arcanes]
+Type = Gameshark
+Activation = EndFrame
+30128464 00FF
+
+[Teknos No Gold]
+Type = Gameshark
+Activation = EndFrame
+30128108 0001
+
+[Arcanes No Gold]
+Type = Gameshark
+Activation = EndFrame
+30128464 0001
+

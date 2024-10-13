@@ -1,0 +1,32 @@
+; CHTDB: ; [ Raging Skies (Europe) {SCES-00222} ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+80083E74 0255
+
+[Infinite Fuel]
+Type = Gameshark
+Activation = EndFrame
+801C5D40 0255
+
+[Infinite Aim-9S]
+Type = Gameshark
+Activation = EndFrame
+800BF9D4 0020
+
+[Infinite Aim-120S]
+Type = Gameshark
+Activation = EndFrame
+800BF9D6 0010
+
+[Infinite Agm-88S]
+Type = Gameshark
+Activation = EndFrame
+800BF9D8 0008
+
+[Infinite Agm-65S]
+Type = Gameshark
+Activation = EndFrame
+800BF9DA 0016
+

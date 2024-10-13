@@ -1,0 +1,69 @@
+; CHTDB: ; [ Koudelka (Europe) {SLES-02897 | SLES-12897 | SLES-22897 | SLES-32897} ]
+
+[No random battles On (Press L2)]
+Type = Gameshark
+Activation = EndFrame
+D00B712A FBFF
+80073072 2442
+
+[Infinite Ammo All Weapons]
+Type = Gameshark
+Activation = EndFrame
+D008B2E0 1823
+8008B2E2 0060
+
+[Infinite HP Koudelka]
+Type = Gameshark
+Activation = EndFrame
+801D13C4 270F
+
+[Max Hp Koudelka]
+Type = Gameshark
+Activation = EndFrame
+801D13C6 270F
+
+[Infinite MP Koudelka]
+Type = Gameshark
+Activation = EndFrame
+801D13D4 270F
+
+[Infinite HP James]
+Type = Gameshark
+Activation = EndFrame
+801CDFC4 270F
+
+[Max Hp James]
+Type = Gameshark
+Activation = EndFrame
+801CDFC6 270F
+
+[Infinite MP James]
+Type = Gameshark
+Activation = EndFrame
+801CDFD4 270F
+
+[Max Mp James]
+Type = Gameshark
+Activation = EndFrame
+801CDFD6 270F
+
+[Infinite HP Edward]
+Type = Gameshark
+Activation = EndFrame
+801CF9C4 270F
+
+[Max Hp Edward]
+Type = Gameshark
+Activation = EndFrame
+801CF9C6 270F
+
+[Infinite MP Edward]
+Type = Gameshark
+Activation = EndFrame
+801CF9D4 270F
+
+[Max Mp Edward]
+Type = Gameshark
+Activation = EndFrame
+801CF9D6 270F
+

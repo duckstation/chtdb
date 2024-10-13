@@ -1,0 +1,124 @@
+; CHTDB: ; [ Chrono Cross (USA) (2000) (Square Electronic Arts) {SLUS-01041, SLUS-01041GH / SLUS-01080, SLUS-01080GH} <ccross> ]
+
+[Have All Key Items]
+Type = Gameshark
+Activation = EndFrame
+50000302 0000
+800712D8 FFFF
+800712DE 701F
+
+[Max Str All Characters]
+Type = Gameshark
+Activation = EndFrame
+50002CCC 0000
+3006EBE0 0063
+
+[99.999.999 Gold]
+Type = Gameshark
+Activation = EndFrame
+900719A8 05F5E0FF
+
+[Max Acc All Characters]
+Type = Gameshark
+Activation = EndFrame
+50002CCC 0000
+8006EBE2 0063
+
+[Max Agl All Characters]
+Type = Gameshark
+Activation = EndFrame
+50002CCC 0000
+8006EBE3 0063
+
+[Max Mag All Characters]
+Type = Gameshark
+Activation = EndFrame
+50002CCC 0000
+8006EBE3 0063
+
+[Max M.Res All Characters]
+Type = Gameshark
+Activation = EndFrame
+50002CCC 0000
+8006EBE5 0063
+
+[Max Stamina Recovery All Characters]
+Type = Gameshark
+Activation = EndFrame
+50002CCC 0000
+8006EBE7 0063
+
+[Max Stats - Kid]
+Type = Gameshark
+Activation = EndFrame
+50000302 0000
+8006ECAC 6363
+8006ECAA 03E7
+8006ED4C 03E7
+8006ECB2 FFFF
+
+[Have All Elements]
+Description = While this cheat is in use, do not rearrange the elements
+Type = Gameshark
+Activation = EndFrame
+50007E02 0001
+80071760 0001
+50003802 0001
+8007185C 0088
+50006002 0000
+800718E0 6363
+
+[Infinite Gold]
+Type = Gameshark
+Activation = EndFrame
+900719A8 05F5E0FF
+
+[Max / Infinite Stars]
+Type = Gameshark
+Activation = EndFrame
+90071C74 00630063
+
+[Save Anywhere]
+Type = Gameshark
+Activation = EndFrame
+A60E21F8 00010000
+
+[Max Stats - Serge]
+Type = Gameshark
+Activation = EndFrame
+50000302 0000
+8006EBE0 6363
+8006EBDE 03E7
+8006EC80 03E7
+8006EBE6 FFFF
+
+[Easy Win Dragon Feed (Manor Stable)]
+Type = Gameshark
+Activation = EndFrame
+A60E5BEA 0001000A
+A60E5BEA 000B0014
+A60E5BEA 0015001E
+A60E5BEA 001F0028
+A60E5BEA 00290064
+
+[Instant Death To Enemies (In Battle)]
+Type = Gameshark
+Activation = EndFrame
+800DBDD8 0000
+800DC648 0000
+800DCA80 0000
+800DCEB8 0000
+800DD2F0 0000
+800DD728 0000
+D10DC210 0031
+800DC210 0000
+D00DC210 0000
+D10DC210 0031
+
+[Equip and use whatever element you want at any level]
+Type = Gameshark
+Activation = EndFrame
+A70CAEAA 14402400
+A71E4C5E 14402400
+A71E4C8E 10402400
+

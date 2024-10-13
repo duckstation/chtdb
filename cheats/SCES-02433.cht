@@ -1,0 +1,32 @@
+; CHTDB: ; [ Space Debris (Spain) {SCES-02433} ]
+
+[Infinite Energy-Levels 1, 4, 5, 7 & 10]
+Type = Gameshark
+Activation = EndFrame
+800E3568 0C00
+
+[Infinite Energy Level 2]
+Type = Gameshark
+Activation = EndFrame
+800E3BE8 0C00
+
+[Infinite Energy Level 3]
+Type = Gameshark
+Activation = EndFrame
+800E37D8 0C00
+
+[Infinite Energy Level 6]
+Type = Gameshark
+Activation = EndFrame
+800E4A88 0C00
+
+[Infinite Energy Level 8]
+Type = Gameshark
+Activation = EndFrame
+800E3B18 0C00
+
+[Infinite Energy Level 9]
+Type = Gameshark
+Activation = EndFrame
+800E37D8 0C00
+

@@ -1,0 +1,22 @@
+; CHTDB: ; [ Dungeon Shoutenkai: Densetsu no Ken Hajime mashita (Japan) {SLPS-01650} ]
+
+[Infinite HP Witch (Main character)]
+Type = Gameshark
+Activation = EndFrame
+800AD0D4 001F
+
+[99999 G]
+Type = Gameshark
+Activation = EndFrame
+900AD0F8 0001869F
+
+[Infinite & MAx HP]
+Type = Gameshark
+Activation = EndFrame
+900AD0D4 03E703E7
+
+[Dungeon rank Max]
+Type = Gameshark
+Activation = EndFrame
+300BB930 0022
+

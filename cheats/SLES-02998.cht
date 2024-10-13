@@ -1,0 +1,53 @@
+; CHTDB: ; [ Martian Gothic: Unification (Germany) {SLES-02998} ]
+
+[Unendlich Gesundheit]
+Type = Gameshark
+Activation = EndFrame
+D0096826 0044
+80096828 0000
+D0096AA6 0083
+80096AAC 0000
+
+[Inventar Unendlich (Drücke L1 & L2) Bei Waffen erst mal durchladen, dann Code einschalten.]
+Type = Gameshark
+Activation = EndFrame
+D0168016 FAFF
+800B3340 0000
+D0168016 FAFF
+800B3318 0000
+
+[Inventar Nimmt zu (Drücke L2 & R2)]
+Type = Gameshark
+Activation = EndFrame
+D0168016 FCFF
+300B3338 0023
+D0168016 FCFF
+300B3214 0021
+
+[Inventar Standard (Drücke R1 & R2)]
+Type = Gameshark
+Activation = EndFrame
+D0168016 F5FF
+800B3340 0048
+D0168016 F5FF
+800B3342 A482
+D0168016 F5FF
+300B3338 0021
+D0168016 F5FF
+800B3218 0048
+D0168016 F5FF
+800B321A A4C2
+D0168016 F5FF
+300B3214 0023
+
+[Zeit Angehalten Bei Waffen erst mal durchladen, dann Code einschalten.]
+Type = Gameshark
+Activation = EndFrame
+D00AD8E6 2442
+800AD8E8 0000
+
+[Zeit Läuft langsamer]
+Type = Gameshark
+Activation = EndFrame
+A60AD8E4 0001FFFF
+

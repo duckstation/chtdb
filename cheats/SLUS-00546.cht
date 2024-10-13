@@ -1,0 +1,17 @@
+; CHTDB: ; [ Formula 1 Championship Edition (USA) (1997) (Psygnosis) {SLUS-00546} <f1ce> ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800B3440 0E10
+
+[Maximum Speed]
+Type = Gameshark
+Activation = EndFrame
+800C6F50 7750
+
+[Bonus Tracks Open]
+Type = Gameshark
+Activation = EndFrame
+8001421C 0016
+

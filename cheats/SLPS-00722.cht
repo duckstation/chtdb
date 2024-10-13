@@ -1,0 +1,32 @@
+; CHTDB: ; [ The Master's Fighter (Jpn) (1997) (Cinema Supply) {SLPS-00722} <mastfght> ]
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800F8782 00CF
+
+[P2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800F8862 00CF
+
+[P2 No Energy]
+Type = Gameshark
+Activation = EndFrame
+800F8862 0000
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A70E178C 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A70E178C 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A70E178C 10000400
+

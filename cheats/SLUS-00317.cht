@@ -1,0 +1,23 @@
+; CHTDB: ; [ The Divide - Enemies Within (USA) (1996) (Viacom New Media) {SLUS-00317} <divide> ]
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+801297F5 0630
+
+[Infinite Grenades (Upon Pickup)]
+Type = Gameshark
+Activation = EndFrame
+801299D0 0003
+
+[Infinite Ammo--Gattling Gun (Upon Pickup)]
+Description = Turn the cheats on at the first game screen
+Type = Gameshark
+Activation = EndFrame
+80129954 005E
+
+[Have All Powerups Maps And Armor]
+Type = Gameshark
+Activation = EndFrame
+80127694 FFFF
+

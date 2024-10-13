@@ -1,0 +1,22 @@
+; CHTDB: ; [ Mahjong Uranai Fortuna: Tsuki no Megami-tachi (Japan) {SLPS-03123} ]
+
+[Player has 99999 points]
+Type = Gameshark
+Activation = EndFrame
+901D8A40 0001869F
+
+[Opponent 1 has 0 points]
+Type = Gameshark
+Activation = EndFrame
+801D8AC4 0000
+
+[Opponent 2 has 0 points]
+Type = Gameshark
+Activation = EndFrame
+801D8A98 0000
+
+[Opponent 3 has 0 points]
+Type = Gameshark
+Activation = EndFrame
+801D8A6C 0000
+

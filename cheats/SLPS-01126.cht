@@ -1,0 +1,17 @@
+; CHTDB: ; [ Cowboy Bebop (Japan) {SLPS-01126} ]
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+8007866C 0200
+
+[Infinite Laser]
+Type = Gameshark
+Activation = EndFrame
+800784B8 0100
+
+[Have 999999 points]
+Type = Gameshark
+Activation = EndFrame
+900783AC 000F423F
+

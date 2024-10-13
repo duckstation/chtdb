@@ -1,0 +1,182 @@
+; CHTDB: ; [ Jet Moto 2 (USA) (1997) (Sony Computer Entertainment America) {SCUS-94167} <jetmoto2> ]
+
+[Have All Tracks, Main Trophy + Insane Difficulty Level]
+Type = Gameshark
+Activation = EndFrame
+8016AF06 0401
+9016B0F0 04010401
+9016B0F4 04010401
+
+[Put The Riders Names On The Trophey]
+Type = Gameshark
+Activation = EndFrame
+8016B0F8 0401
+9016B0DC 04010401
+8016B0E2 0401
+9016B0E4 04010401
+8016B0E8 0401
+8016B0E0 0401
+8016B0EA 0401
+8016B0EC 0401
+
+[Have All Code Medals + Stunt Key]
+Type = Gameshark
+Activation = EndFrame
+8016B0EE 0401
+8016B0FA 0101
+9016B0FC 01010101
+9016B100 01010101
+
+[Have The Original 10 Jet Moto Tracks]
+Type = Gameshark
+Activation = EndFrame
+8016B104 0101
+
+[Always Come In 1st]
+Type = Gameshark
+Activation = EndFrame
+8017D730 0001
+8016FCA8 0003
+
+[Infinite Turbo (Li'l Dave)]
+Type = Gameshark
+Activation = EndFrame
+8016BDEC 4000
+
+[Infinite Grapple (Li'l Dave)]
+Type = Gameshark
+Activation = EndFrame
+8016C11A 0006
+
+[Infinite Turbo (Wild Ride)]
+Type = Gameshark
+Activation = EndFrame
+8016CD54 4000
+
+[Infinite Grapple (Wild Ride)]
+Type = Gameshark
+Activation = EndFrame
+8016D082 0006
+
+[Infinite Turbo (Blade)]
+Type = Gameshark
+Activation = EndFrame
+8016DCBC 4000
+
+[Infinite Grapple (Blade)]
+Type = Gameshark
+Activation = EndFrame
+8016DFEA 0006
+
+[Infinite Turbo (The Technician)]
+Type = Gameshark
+Activation = EndFrame
+8016EC24 4000
+
+[Infinite Grapple (The Technician)]
+Type = Gameshark
+Activation = EndFrame
+8016EF52 0006
+
+[Infinite Turbo (The Max)]
+Type = Gameshark
+Activation = EndFrame
+8016FB8C 4000
+
+[Infinite Grapple (The Max)]
+Type = Gameshark
+Activation = EndFrame
+8016FEBA 0006
+
+[Infinite Turbo (Vampeera)]
+Type = Gameshark
+Activation = EndFrame
+80170AF4 4000
+
+[Infinite Grapple (Vampeera)]
+Type = Gameshark
+Activation = EndFrame
+80170E22 0006
+
+[Infinite Turbo (Gadget)]
+Type = Gameshark
+Activation = EndFrame
+80171A5C 4000
+
+[Infinite Grapple (Gadget)]
+Type = Gameshark
+Activation = EndFrame
+80171D8A 0006
+
+[Infinite Turbo (Steele)]
+Type = Gameshark
+Activation = EndFrame
+801729C4 4000
+
+[Infinite Grapple (Steele)]
+Type = Gameshark
+Activation = EndFrame
+80172CF2 0006
+
+[Infinite Turbo (The Hun)]
+Type = Gameshark
+Activation = EndFrame
+8017392C 4000
+
+[Infinite Grapple (The Hun)]
+Type = Gameshark
+Activation = EndFrame
+80173C5A 0006
+
+[Infinite Turbo (Bomber)]
+Type = Gameshark
+Activation = EndFrame
+80174894 4000
+
+[Infinite Grapple (Bomber)]
+Type = Gameshark
+Activation = EndFrame
+80174BC2 0006
+
+[Infinite Turbo(Enigma)]
+Type = Gameshark
+Activation = EndFrame
+801757FC 4000
+
+[Infinite Grapple (Enigma)]
+Type = Gameshark
+Activation = EndFrame
+80175B2A 0006
+
+[Race All Tracks In Wire-Frame Mode]
+Type = Gameshark
+Activation = EndFrame
+8016B114 0101
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A71948F0 10000C00
+A7194830 10000C00
+A7194890 10000C00
+A7194710 10000C00
+A7194770 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A71948F0 10000900
+A7194830 10000900
+A7194890 10000900
+A7194710 10000900
+A7194770 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A71948F0 10000400
+A7194830 10000400
+A7194890 10000400
+A7194710 10000400
+A7194770 10000400
+

@@ -1,0 +1,19 @@
+; CHTDB: ; [ Soukou Kidoutai L.A.P.D. (Japan) {SLPS-02091} ]
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+D0058270 001C
+8005826A 00C0
+
+[Infinite Bullet]
+Type = Gameshark
+Activation = EndFrame
+D006BC70 008A
+8006BC54 0000
+
+[Weapon Level up]
+Type = Gameshark
+Activation = EndFrame
+A606BC78 0084008A
+

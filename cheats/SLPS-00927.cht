@@ -1,0 +1,67 @@
+; CHTDB: ; [ Arcade Gears - Wonder 3 (Jpn) (1998) (Xing) {SLPS-00927} <wonder3> ]
+
+[Roosters\Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+8009931C 0257
+
+[Roosters\P1 Invincibility]
+Type = Gameshark
+Activation = EndFrame
+300992D0 00FF
+
+[Roosters\P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+300992CC 0009
+
+[Roosters\P1 Infinite Hearts]
+Type = Gameshark
+Activation = EndFrame
+300992C4 0063
+
+[Roosters\P2 Invincibility]
+Type = Gameshark
+Activation = EndFrame
+300992D2 00FF
+
+[Roosters\P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+300992CE 0009
+
+[Roosters\P2 Infinite Hearts]
+Type = Gameshark
+Activation = EndFrame
+300992C6 0063
+
+[Chariot\P1 Invincibility]
+Type = Gameshark
+Activation = EndFrame
+300886B0 00FF
+
+[Chariot\P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+300886AC 0009
+
+[Chariot\P2 Invincibility]
+Type = Gameshark
+Activation = EndFrame
+300886B2 00FF
+
+[Chariot\P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+300886AE 0009
+
+[Don't Pull\P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+300D00B7 0063
+
+[Don't Pull\P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+300D00B8 0063
+

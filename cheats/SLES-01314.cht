@@ -1,0 +1,67 @@
+; CHTDB: ; [ G. Darius (Europe) {SLES-01314} ]
+
+[Sameluck Raida Codes (Blue Ship)\Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800BA8C2 0400
+
+[Sameluck Raida Codes (Blue Ship)\Infinite Shield]
+Type = Gameshark
+Activation = EndFrame
+800BAE4A 0303
+
+[Sameluck Raida Codes (Blue Ship)\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800BA8BE 0006
+
+[Sameluck Raida Codes (Blue Ship)\Red Weapon Higher Level (Missiles)]
+Type = Gameshark
+Activation = EndFrame
+300BADF9 0006
+
+[Sameluck Raida Codes (Blue Ship)\Green Weapon Higher Level (Bombs)]
+Type = Gameshark
+Activation = EndFrame
+300BAE29 0003
+
+[Sameluck Raida Codes (Blue Ship)\Infinite Capture Balls]
+Type = Gameshark
+Activation = EndFrame
+300BAE4B 0006
+
+[Sameluck Raida Codes (Blue Ship)\Special Laser]
+Type = Gameshark
+Activation = EndFrame
+800DC8B6 01FF
+
+[Lutia Feen Codes (Red Ship)\Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800BAFCE 0400
+
+[Lutia Feen Codes (Red Ship)\Infinite Shield]
+Type = Gameshark
+Activation = EndFrame
+800BB556 0303
+
+[Lutia Feen Codes (Red Ship)\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800BAFCA 0006
+
+[Lutia Feen Codes (Red Ship)\Red Weapon Higher Level (Missiles)]
+Type = Gameshark
+Activation = EndFrame
+300BB505 0005
+
+[Lutia Feen Codes (Red Ship)\Green Weapon Higher Level (Bombs)]
+Type = Gameshark
+Activation = EndFrame
+300BB535 0003
+
+[Lutia Feen Codes (Red Ship)\Infinite Capture Balls]
+Type = Gameshark
+Activation = EndFrame
+300BB557 0006
+

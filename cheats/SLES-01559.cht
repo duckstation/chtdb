@@ -1,0 +1,7 @@
+; CHTDB: ; [ Pro 18: World Tour Golf (Europe) {SLES-01559} ]
+
+[P1 Only One Shot Per Hole]
+Type = Gameshark
+Activation = EndFrame
+8006358C 0001
+

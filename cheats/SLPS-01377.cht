@@ -1,0 +1,56 @@
+; CHTDB: ; [ Shin Seiki Evangelion: Koutetsu no Girlfriend (Japan) {SLPS-01377 | SLPS-01378} ]
+
+[999 900 Number of yourself]
+Type = Gameshark
+Activation = EndFrame
+800E9024 270F
+
+[0 points# My partner]
+Type = Gameshark
+Activation = EndFrame
+800E91B4 0000
+
+[MAX • Number of times of use]
+Type = Gameshark
+Activation = EndFrame
+50004302 0000
+800E0000 270F
+
+[Misato emergence Hen]
+Type = Gameshark
+Activation = EndFrame
+30052A78 0000
+
+[Usable Ritsuko]
+Type = Gameshark
+Activation = EndFrame
+30052A74 0005
+
+[Usable Coach]
+Type = Gameshark
+Activation = EndFrame
+30052A75 0005
+
+[Usable Gendou]
+Type = Gameshark
+Activation = EndFrame
+30052A76 0004
+
+[Pickup nine gates]
+Type = Gameshark
+Activation = EndFrame
+300E9000 0009
+300E9002 0009
+300E9004 0009
+300E9006 000A
+300E9008 000B
+300E900A 000C
+300E900C 000D
+300E900E 000E
+300E9010 000F
+300E9012 0010
+300E9014 0010
+300E9016 0011
+300E9018 0011
+300E9026 0011
+

@@ -1,0 +1,18 @@
+; CHTDB: ; [ Zero4 Champ DooZy-J (Jpn) (1997) (Media Rings) {SLPS-00755} <zero4> ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+800F3CAA 03E7
+800F3CAC 270F
+
+[Time always 0]
+Type = Gameshark
+Activation = EndFrame
+8009CBC8 0000
+
+[Super Speed]
+Type = Gameshark
+Activation = EndFrame
+8009CB6A 0001
+

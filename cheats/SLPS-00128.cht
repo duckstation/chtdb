@@ -1,0 +1,23 @@
+; CHTDB: ; [ Makeruna! Makendo 2 (Jpn) (1995) (Datam Polystar) {SLPS-00128} <makerum2> ]
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801D4FE0 00C0
+
+[Max Level]
+Type = Gameshark
+Activation = EndFrame
+8009E054 0063
+
+[Max Exp]
+Type = Gameshark
+Activation = EndFrame
+901D4D90 007F9698
+
+[Death blow mode Press SELECT]
+Type = Gameshark
+Activation = EndFrame
+D009EA70 FEFF
+801D4FE2 FFFE
+

@@ -1,0 +1,22 @@
+; CHTDB: ; [ Ford Truck Mania (USA) (2003) (Gotham Games) {SLUS-01540} <fordtrkm> ]
+
+[Always 0.00 Time]
+Type = Gameshark
+Activation = EndFrame
+8005F5FC 0000
+
+[Always 1st Place]
+Type = Gameshark
+Activation = EndFrame
+800710EC 0001
+
+[Always On Lap 4]
+Type = Gameshark
+Activation = EndFrame
+8005F5F2 0104
+
+[Infinite Space In Track Editor]
+Type = Gameshark
+Activation = EndFrame
+800D5010 03E8
+

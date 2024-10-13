@@ -1,0 +1,168 @@
+; CHTDB: ; [ Crash Bandicoot (Japan, Asia) {SCPS-10031} ]
+
+[All Levels Selectable]
+Type = Gameshark
+Activation = EndFrame
+80061930 001F
+
+[Crash 99 Lives]
+Type = Gameshark
+Activation = EndFrame
+800618D4 6300
+
+[Akuaku 2 possession]
+Type = Gameshark
+Activation = EndFrame
+800618D8 0200
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+9002471C 24030004
+
+[Jump Infinite ON]
+Description = L1 Press OFF
+Type = Gameshark
+Activation = EndFrame
+D005E714 0004
+8001E018 0000
+D005E714 0008
+8001E018 00C8
+
+[No enemies]
+Type = Gameshark
+Activation = EndFrame
+A701C906 AC902400
+
+[Infinite Aku-Aku Invincibility (you still have to get 3 Aku-Aku masks)]
+Type = Gameshark
+Activation = EndFrame
+A701F196 14401000
+
+[Running Speed Modifier]
+Description = You will need to manually edit '0009' in the code line or you will see NO effect
+Type = Gameshark
+Activation = EndFrame
+80052BAA 0009
+
+[Jumping Speed Modifier]
+Description = You will need to manually edit '0009' in the code line or you will see NO effect
+Type = Gameshark
+Activation = EndFrame
+80052BBA 0009
+
+[Spinning Speed Modifier]
+Description = You will need to manually edit '000A' in the code line or you will see NO effect
+Type = Gameshark
+Activation = EndFrame
+80052BCA 000A
+
+[Invincibility Speed Modifier]
+Description = You will need to manually edit '000C' in the code line or you will see NO effect
+Type = Gameshark
+Activation = EndFrame
+80052BDA 000C
+
+[Speed %Increaser for all moves]
+Description = You will need to manually edit '0000' in the first code line or you will see NO effect
+Type = Gameshark
+Activation = EndFrame
+9000C03C 240B0000
+9000C000 8E020124
+9000C004 27BDFFE0
+9000C008 AFA80010
+9000C00C AFA90014
+9000C010 AFAA0018
+9000C014 AFAB001C
+9000C01C 00004012
+9000C020 00004810
+9000C024 240A0064
+9000C028 244B0000
+9000C02C 016A001A
+9000C038 00005012
+9000C040 014B0018
+9000C04C 00005012
+9000C050 004A1021
+9000C054 01000013
+9000C058 01200011
+9000C05C 8FA80010
+9000C060 8FA90014
+9000C064 8FAA0018
+9000C068 8FAB001C
+9000C06C 27BD0020
+9000C070 03E00008
+A701FA78 01243000
+A701FA7A 8E020C00
+
+[Speed Multiplier for all moves]
+Description = You will need to manually edit '0001' in the first code line or you will see NO effect
+Type = Gameshark
+Activation = EndFrame
+9000C024 240A0001
+9000C000 8E020124
+9000C004 27BDFFE0
+9000C008 AFA80010
+9000C00C AFA90014
+9000C010 AFAA0018
+9000C014 AFAB001C
+9000C01C 00004012
+9000C020 00004810
+9000C028 004A0018
+9000C034 00001012
+9000C038 01000013
+9000C03C 01200011
+9000C040 8FA80010
+9000C044 8FA90014
+9000C048 8FAA0018
+9000C04C 8FAB001C
+9000C050 27BD0020
+9000C054 03E00008
+A701FA78 01243000
+A701FA7A 8E020C00
+
+[Select Moon Jump\Type 1]
+Type = Gameshark
+Activation = EndFrame
+A701FE94 18232C00
+A701FE96 00620C00
+A701FE98 00A80000
+A701FE9A AE030000
+9000B000 27BDFFE8
+9000B004 AFA80010
+9000B008 3C088005
+9000B00C 91087060
+9000B014 00084027
+9000B018 31080040
+9000B01C 15000002
+9000B024 00621823
+9000B028 AE0300A8
+9000B030 8FA80010
+9000B034 27BD0018
+9000B038 03E00008
+
+[Select Moon Jump\Type 2]
+Type = Gameshark
+Activation = EndFrame
+A701FE98 00A85A00
+A701FE9A AE030801
+A701FE9E 00642400
+90056800 3C148005
+90056804 36947060
+90056808 96930000
+90056810 00139982
+90056818 32730001
+90056820 16600005
+90056828 3063FFFF
+9005682C 3C14000C
+90056830 00741825
+90056838 AE0300A8
+9005683C 08007FA8
+90056840 0064182A
+
+[Widescreen]
+Type = Gameshark
+Activation = EndFrame
+A7017DC4 E4C70C00
+A7017DC6 0C002402
+A7017E06 A422A433
+

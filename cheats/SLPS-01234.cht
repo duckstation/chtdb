@@ -1,0 +1,41 @@
+; CHTDB: ; [ Chocobo no Fushigi na Dungeon (Japan) {SLPS-01234} ]
+
+[Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+90000B40 3C08800B
+90000B44 950AFB3C
+90000B4C A50AFB3E
+90000BC0 240A00B0
+90000BC4 01400008
+80076470 0B40
+
+[Level Up]
+Type = Gameshark
+Activation = EndFrame
+90000B50 A500FB5C
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+90000BB0 3C088015
+90000BB4 3C0A05F5
+90000BB8 354AE0FF
+90000BBC AD0A85AC
+
+[Infinite & Max Hp]
+Type = Gameshark
+Activation = EndFrame
+900AFB3C 03E703E7
+
+[Money in hand Max]
+Type = Gameshark
+Activation = EndFrame
+901485AC 05F5E0FF
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+D015B8B0 0002
+8015B8AC 0000
+

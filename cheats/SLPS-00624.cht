@@ -1,0 +1,27 @@
+; CHTDB: ; [ Gaia Seed - Project Seed Trap (Jpn) (1996) (Techno Soleil) {SLPS-00624} <gaiaseed> ]
+
+[Infinite Shield]
+Type = Gameshark
+Activation = EndFrame
+800CA9DD 0050
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800D284C 0009
+
+[Infinite Intense fire]
+Type = Gameshark
+Activation = EndFrame
+800CA9ED 0050
+
+[Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+800CA908 0009
+
+[Infinite Boss time]
+Type = Gameshark
+Activation = EndFrame
+800CA8EA 6666
+

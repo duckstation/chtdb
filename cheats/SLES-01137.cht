@@ -1,0 +1,333 @@
+; CHTDB: ; [ WCW Nitro (Europe) {SLES-01137} ]
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801F0600 03E8
+
+[P2 No health (Press Select)]
+Type = Gameshark
+Activation = EndFrame
+D0054F56 0100
+801F0B60 0000
+
+[P2 No health]
+Type = Gameshark
+Activation = EndFrame
+801F0B60 0000
+
+[Unlock Secret Character Eric Bischoff]
+Type = Gameshark
+Activation = EndFrame
+80063596 0001
+
+[Unlock Secret Character Mean Gene]
+Type = Gameshark
+Activation = EndFrame
+8006359A 0001
+
+[Unlock Secret Character Jericho]
+Type = Gameshark
+Activation = EndFrame
+8006359C 0001
+
+[Unlock Secret Character Disco Inferno]
+Type = Gameshark
+Activation = EndFrame
+800635A0 0001
+
+[Unlock Secret Character Bobby the Brain]
+Type = Gameshark
+Activation = EndFrame
+800635A4 0001
+
+[Unlock Secret Character Miss Elizabeth]
+Type = Gameshark
+Activation = EndFrame
+800635A8 0001
+
+[Unlock Secret Character Sonny Ono]
+Type = Gameshark
+Activation = EndFrame
+800635AC 0001
+
+[Unlock Secret Character Ultimo Dragon]
+Type = Gameshark
+Activation = EndFrame
+800635B0 0001
+
+[Unlock Secret Character Steve McMichael]
+Type = Gameshark
+Activation = EndFrame
+800635B4 0001
+
+[Unlock Secret Character Ray Mysterio Jr.]
+Type = Gameshark
+Activation = EndFrame
+800635B8 0001
+
+[Unlock Secret Character Jimmy Hart]
+Type = Gameshark
+Activation = EndFrame
+800635BC 0001
+
+[Unlock Secret Character Steven Regal]
+Type = Gameshark
+Activation = EndFrame
+800635C0 0001
+
+[Unlock Secret Character Jaquelyn]
+Type = Gameshark
+Activation = EndFrame
+800635C4 0001
+
+[Unlock Secret Character Madusa]
+Type = Gameshark
+Activation = EndFrame
+800635C8 0001
+
+[Unlock Secret Character Kimberly]
+Type = Gameshark
+Activation = EndFrame
+800635CC 0001
+
+[Unlock Secret Character Konnan]
+Type = Gameshark
+Activation = EndFrame
+800635D0 0001
+
+[Unlock Secret Character Hulkster]
+Type = Gameshark
+Activation = EndFrame
+800635D4 0001
+
+[Unlock Secret Character Pee Wee]
+Type = Gameshark
+Activation = EndFrame
+800635D8 0001
+
+[Unlock Secret Character Stinger]
+Type = Gameshark
+Activation = EndFrame
+800635DC 0001
+
+[Unlock Secret Character Greyling]
+Type = Gameshark
+Activation = EndFrame
+800635E0 0001
+
+[Unlock Secret Character Schiavone]
+Type = Gameshark
+Activation = EndFrame
+800635E4 0001
+
+[Unlock Secret Character Savage]
+Type = Gameshark
+Activation = EndFrame
+800635E8 0001
+
+[Unlock Secret Character Whitey]
+Type = Gameshark
+Activation = EndFrame
+800635EC 0001
+
+[Unlock Secret Character Buzz]
+Type = Gameshark
+Activation = EndFrame
+800635F0 0001
+
+[Unlock Secret Character Ivan]
+Type = Gameshark
+Activation = EndFrame
+800635F4 0001
+
+[Unlock Secret Character T Rex]
+Type = Gameshark
+Activation = EndFrame
+800635F8 0001
+
+[Unlock Secret Character Frankensteiner]
+Type = Gameshark
+Activation = EndFrame
+800635FC 0001
+
+[Unlock Secret Character Bones]
+Type = Gameshark
+Activation = EndFrame
+80063600 0001
+
+[Unlock Secret Character Santa Claws]
+Type = Gameshark
+Activation = EndFrame
+80063604 0001
+
+[Unlock Secret Character Annie Mae]
+Type = Gameshark
+Activation = EndFrame
+80063608 0001
+
+[Unlock Secret Character Dweeble]
+Type = Gameshark
+Activation = EndFrame
+8006360C 0001
+
+[Unlock Secret Character Ecto]
+Type = Gameshark
+Activation = EndFrame
+80063610 0001
+
+[Unlock Secret Character Virtual Andy]
+Type = Gameshark
+Activation = EndFrame
+80063614 0001
+
+[Unlock Secret Character Cobra]
+Type = Gameshark
+Activation = EndFrame
+80063618 0001
+
+[Unlock Secret Character Reanimator]
+Type = Gameshark
+Activation = EndFrame
+8006361C 0001
+
+[Unlock Secret Character Jaumbo]
+Type = Gameshark
+Activation = EndFrame
+80063620 0001
+
+[Unlock Secret Character John]
+Type = Gameshark
+Activation = EndFrame
+80063624 0001
+
+[Unlock Secret Character Fush]
+Type = Gameshark
+Activation = EndFrame
+80063628 0001
+
+[Unlock Secret Character Flyboy]
+Type = Gameshark
+Activation = EndFrame
+8006362C 0001
+
+[Unlock Secret Character Tony the Rod]
+Type = Gameshark
+Activation = EndFrame
+80063630 0001
+
+[Unlock Secret Character Eddie the Wire]
+Type = Gameshark
+Activation = EndFrame
+80063634 0001
+
+[Unlock Secret Character Donn]
+Type = Gameshark
+Activation = EndFrame
+80063638 0001
+
+[Unlock Secret Character Uncle Monkey]
+Type = Gameshark
+Activation = EndFrame
+8006363C 0001
+
+[Unlock Secret Character Dudeman]
+Type = Gameshark
+Activation = EndFrame
+80063640 0001
+
+[Unlock Secret Character Mike]
+Type = Gameshark
+Activation = EndFrame
+80063644 0001
+
+[Unlock Secret Character Steve]
+Type = Gameshark
+Activation = EndFrame
+80063648 0001
+
+[Unlock Secret Character Brian]
+Type = Gameshark
+Activation = EndFrame
+8006364C 0001
+
+[Unlock Secret Character Superfan]
+Type = Gameshark
+Activation = EndFrame
+80063650 0001
+
+[Unlock Secret rings Graveyard]
+Type = Gameshark
+Activation = EndFrame
+80063660 0001
+
+[Unlock Secret rings Spaceship]
+Type = Gameshark
+Activation = EndFrame
+80063664 0001
+
+[Unlock Secret rings Circus]
+Type = Gameshark
+Activation = EndFrame
+80063668 0001
+
+[UnlocK Secret rings Hive]
+Type = Gameshark
+Activation = EndFrame
+8006366C 0001
+
+[UnlocK Secret rings Turbo]
+Type = Gameshark
+Activation = EndFrame
+80063670 0001
+
+[UnlocK Secret rings Wunderland]
+Type = Gameshark
+Activation = EndFrame
+80063674 0001
+
+[UnlocK Secret rings Boudoir]
+Type = Gameshark
+Activation = EndFrame
+8006367C 0001
+
+[UnlocK Secret rings Hall of Mirrors]
+Type = Gameshark
+Activation = EndFrame
+80063680 0001
+
+[UnlocK Secret rings Reck Room]
+Type = Gameshark
+Activation = EndFrame
+80063684 0001
+
+[UnlocK Secret rings Psychodelic]
+Type = Gameshark
+Activation = EndFrame
+80063688 0001
+
+[UnlocK Secret rings Disco]
+Type = Gameshark
+Activation = EndFrame
+8006368C 0001
+
+[UnlocK Secret rings Jungle]
+Type = Gameshark
+Activation = EndFrame
+80063690 0001
+
+[UnlocK Secret rings 1984]
+Type = Gameshark
+Activation = EndFrame
+80063698 0001
+
+[UnlocK Secret rings Quark]
+Type = Gameshark
+Activation = EndFrame
+8006369C 0001
+
+[UnlocK Secret rings Texas]
+Type = Gameshark
+Activation = EndFrame
+800636A0 0001
+

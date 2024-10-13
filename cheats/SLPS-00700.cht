@@ -1,0 +1,100 @@
+; CHTDB: ; [ Final Fantasy VII (Japan) {SLPS-00700 | SLPS-00701 | SLPS-00702} ]
+
+[Infinite HP - Aerith Gainsborough]
+Type = Gameshark
+Activation = EndFrame
+800F850C 7000
+
+[Infinite HP - Barett Wallace]
+Type = Gameshark
+Activation = EndFrame
+800F850C 7000
+
+[Infinite HP - Cloud]
+Type = Gameshark
+Activation = EndFrame
+800F84A4 7000
+
+[Infinite HP - Tifa]
+Type = Gameshark
+Activation = EndFrame
+800F8574 7000
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+8009B9F8 FFFF
+
+[No Ramdom Battles]
+Type = Gameshark
+Activation = EndFrame
+800706F4 0000
+
+[Save Everywhere]
+Type = Gameshark
+Activation = EndFrame
+8009BA3E 0000
+
+[The 99 possession of all items]
+Type = Gameshark
+Activation = EndFrame
+D01D0800 2403
+801D0890 C600
+D01D0800 2403
+801D0892 2408
+D01D0800 2403
+801D0898 2025
+D01D0800 2403
+801D089A 0112
+D01D0800 2403
+801D089E A444
+
+[Master all materia you have possession Conditions]
+Description = Open the materia list, scroll to the bottom.
+Type = Gameshark
+Activation = EndFrame
+D01D4700 0821
+801D4754 FF00
+D01D4700 0821
+801D4756 2408
+D01D4700 0821
+801D4758 2025
+D01D4700 0821
+801D475A 0088
+D01D4700 0821
+801D475E AC44
+
+[Auto Battle Mode Will continue to strike until annihilate the enemy, during which the enemy will be incapacitated.]
+Type = Gameshark
+Activation = EndFrame
+A60A2994 001E0001
+
+[HP recovery ally character is attacked]
+Type = Gameshark
+Activation = EndFrame
+D00AD734 0001
+800AD72C 0208
+D00AD734 0001
+800AD72E 8C88
+D00AD734 0001
+800AD736 2D12
+A60AD734 00010003
+
+[(Only damage the enemy side suffer) damage value 9999]
+Type = Gameshark
+Activation = EndFrame
+A60AC638 02140208
+D00AC640 102A
+800AC646 1440
+D00AC640 102A
+800AC642 2C42
+A60AC640 102A0003
+
+[Debug Room World map other than, I simultaneously press L1 + L2 + R1 + R2]
+Type = Gameshark
+Activation = EndFrame
+D00993F4 000F
+3009938D 0001
+D00993F4 000F
+8009938E 0041
+

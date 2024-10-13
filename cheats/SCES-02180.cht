@@ -1,0 +1,37 @@
+; CHTDB: ; [ Point Blank 2 (Euro, Aus) (1999?) (Namco) {SCES-02180} <ptblank2e> ]
+
+[Point Blank Castle Mode-Codes\P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800BF328 0009
+
+[Point Blank Castle Mode-Codes\P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800BF32A 0009
+
+[Theme Park Mode Codes\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800AAB88 0009
+
+[Theme Park Mode Codes\Haunted House - Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800B447C 012C
+
+[Theme Park Mode Codes\Abyss Tours - Max Targets Hits]
+Type = Gameshark
+Activation = EndFrame
+A60AAD52 00000063
+
+[Theme Park Mode Codes\Cosmic Drive - Max Targets Hit]
+Type = Gameshark
+Activation = EndFrame
+A60B5088 00000063
+
+[Theme Park Mode Codes\Superbullet Train - Max Targets Hit]
+Type = Gameshark
+Activation = EndFrame
+A60B4EFC 00000FFF
+

@@ -1,0 +1,17 @@
+; CHTDB: ; [ Derby Jockey R (Japan) {SLPS-00616} ]
+
+[Infinite Stamina]
+Type = Gameshark
+Activation = EndFrame
+80106770 44A0
+
+[Infinite Power]
+Type = Gameshark
+Activation = EndFrame
+80106776 0786
+
+[Infinite Spirit]
+Type = Gameshark
+Activation = EndFrame
+8010677C 7000
+

@@ -1,0 +1,18 @@
+; CHTDB: ; [ All Star Racing 2 (USA) (2003) (Mud Duck Productions) {SLUS-01510} <asracin2> ]
+
+[Always First Place]
+Type = Gameshark
+Activation = EndFrame
+301E8D64 0000
+
+[Low Lap Times]
+Type = Gameshark
+Activation = EndFrame
+801E8EE8 0001
+
+[Turbo Boost (Press Circle For Boost)]
+Type = Gameshark
+Activation = EndFrame
+D015CF8A DFFF
+301E8508 00FF
+

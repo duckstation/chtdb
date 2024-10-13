@@ -1,0 +1,690 @@
+; CHTDB: ; [ 007: Tomorrow Never Dies (Europe) {SLES-01324} ]
+
+[Open All Movies]
+Type = Gameshark
+Activation = EndFrame
+50000602 0000
+8001E0C2 0101
+
+[Unlock All Missions]
+Type = Gameshark
+Activation = EndFrame
+50000502 0101
+8001E284 0101
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+3001E0DA 0063
+
+[Always Flashing (Invincibility) Once You Have Died (All Levels)]
+Type = Gameshark
+Activation = EndFrame
+80025866 3C00
+
+[Select Any Level]
+Type = Gameshark
+Activation = EndFrame
+3006D450 0001
+
+[Infinite Energy Level 1]
+Type = Gameshark
+Activation = EndFrame
+801F7A2D 0249
+
+[Infinite Energy Level 2]
+Type = Gameshark
+Activation = EndFrame
+801F6CC5 0249
+
+[Infinite Energy Level 3]
+Type = Gameshark
+Activation = EndFrame
+801F2835 0249
+
+[Infinite Energy Level 4]
+Type = Gameshark
+Activation = EndFrame
+801F30DD 0249
+
+[Infinite Energy Level 5]
+Type = Gameshark
+Activation = EndFrame
+801F484D 0249
+
+[Infinite Energy Level 6]
+Type = Gameshark
+Activation = EndFrame
+801F4AA5 0249
+
+[Infinite Energy Level 7]
+Type = Gameshark
+Activation = EndFrame
+801F6575 0249
+
+[Infinite Energy Level 8]
+Type = Gameshark
+Activation = EndFrame
+801F3705 0249
+
+[Infinite Energy Level 9]
+Type = Gameshark
+Activation = EndFrame
+801F3355 0249
+
+[Infinite Energy Level 10]
+Type = Gameshark
+Activation = EndFrame
+801F30DD 0249
+
+[Mission 1 Codes\Invincibility]
+Type = Gameshark
+Activation = EndFrame
+300C5A7C 0001
+
+[Mission 1 Codes\No Reload Pk7]
+Type = Gameshark
+Activation = EndFrame
+800EA8D4 0063
+
+[Mission 1 Codes\Rapid Fire Pk7]
+Type = Gameshark
+Activation = EndFrame
+800EA8F0 0000
+
+[Mission 1 Codes\Have Sniper Rifle]
+Type = Gameshark
+Activation = EndFrame
+800EA990 002C
+
+[Mission 1 Codes\Infinite Ammo Sniper Rifle]
+Type = Gameshark
+Activation = EndFrame
+900EA99C 00630063
+
+[Mission 1 Codes\Max Ammo Sniper Rifle]
+Type = Gameshark
+Activation = EndFrame
+800EA9A0 0063
+
+[Mission 1 Codes\Rapid Fire Sniper Rifle]
+Type = Gameshark
+Activation = EndFrame
+800EA9B8 0000
+
+[Mission 1 Codes\Have Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+800EA92C 002C
+
+[Mission 1 Codes\Infinite Ammo Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+900EA938 00630063
+
+[Mission 1 Codes\Max Ammo Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+800EA93C 0063
+
+[Mission 1 Codes\Infinite Medi Kits]
+Type = Gameshark
+Activation = EndFrame
+300EAA64 0063
+
+[Mission 2 Codes\Invincibility]
+Type = Gameshark
+Activation = EndFrame
+300B2B38 0001
+
+[Mission 2 Codes\No Reload Pk7]
+Type = Gameshark
+Activation = EndFrame
+800D198C 0063
+
+[Mission 2 Codes\Rapid Fire Pk7]
+Type = Gameshark
+Activation = EndFrame
+800D19A8 0000
+
+[Mission 2 Codes\Have Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+800D19E4 002C
+
+[Mission 2 Codes\Infinite Ammo Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+800D19F2 0063
+800D19F4 0063
+
+[Mission 2 Codes\Max Ammo Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+800D19F6 0063
+
+[Mission 2 Codes\Rapid Fire Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+800D1A08 0000
+
+[Mission 2 Codes\Have Sniper Rifle]
+Type = Gameshark
+Activation = EndFrame
+800D1A48 002C
+
+[Mission 2 Codes\Infinite Ammo Sniper Rifle]
+Type = Gameshark
+Activation = EndFrame
+900D1A54 00630063
+
+[Mission 2 Codes\Max Ammo Sniper Rifle]
+Type = Gameshark
+Activation = EndFrame
+800D1A58 0063
+
+[Mission 2 Codes\Rapid Fire Sniper Rifle]
+Type = Gameshark
+Activation = EndFrame
+800D1A70 0000
+
+[Mission 2 Codes\Infinite Stack Mines]
+Type = Gameshark
+Activation = EndFrame
+300D1AB8 0063
+300D1ABC 0063
+
+[Mission 2 Codes\Rapid Stack Mineing]
+Type = Gameshark
+Activation = EndFrame
+800D1AD4 0000
+
+[Mission 2 Codes\Infinite Medi Kits]
+Type = Gameshark
+Activation = EndFrame
+300D1B1C 0063
+
+[Mission 3 Codes\Invincibility]
+Type = Gameshark
+Activation = EndFrame
+300BA404 0001
+
+[Mission 3 Codes\Have Pk7]
+Type = Gameshark
+Activation = EndFrame
+800ED908 EE24
+
+[Mission 3 Codes\No Reload Pk7]
+Type = Gameshark
+Activation = EndFrame
+800ED914 0063
+
+[Mission 3 Codes\Rapid Fire Pk7]
+Type = Gameshark
+Activation = EndFrame
+800ED930 0000
+
+[Mission 3 Codes\Have Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+800ED96C 002C
+
+[Mission 3 Codes\Infinite Ammo Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+900ED978 00630063
+
+[Mission 3 Codes\Max Ammo Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+800ED97C 0063
+
+[Mission 3 Codes\Rapid Fire Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+800ED992 0000
+
+[Mission 3 Codes\Have Smg45]
+Type = Gameshark
+Activation = EndFrame
+800ED9D0 EE24
+
+[Mission 3 Codes\Infinite Ammo Smg45]
+Type = Gameshark
+Activation = EndFrame
+900ED9DC 00630063
+
+[Mission 3 Codes\Max Ammo Smg45]
+Type = Gameshark
+Activation = EndFrame
+800ED9E0 0063
+
+[Mission 3 Codes\Infinite Medi Kits]
+Type = Gameshark
+Activation = EndFrame
+300EDB08 0063
+
+[Mission 4 Codes\Invincibility]
+Type = Gameshark
+Activation = EndFrame
+300B1E24 0001
+
+[Mission 4 Codes\No Reload Pk7]
+Type = Gameshark
+Activation = EndFrame
+800F51EC 0063
+
+[Mission 4 Codes\Rapid Fire Pk7]
+Type = Gameshark
+Activation = EndFrame
+800F5208 0000
+
+[Mission 4 Codes\Have Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+800F5244 002C
+
+[Mission 4 Codes\Infinite Ammo Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+900F5250 00630063
+
+[Mission 4 Codes\Max Ammo Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+800F5254 0063
+
+[Mission 4 Codes\Rapid Fire Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+800F526C 0000
+
+[Mission 4 Codes\Infinite Medi Kits]
+Type = Gameshark
+Activation = EndFrame
+300F52B4 0063
+
+[Mission 5 Codes\Invincibility]
+Type = Gameshark
+Activation = EndFrame
+300B9B48 0001
+
+[Mission 5 Codes\No Reload Pk7]
+Type = Gameshark
+Activation = EndFrame
+800FFD26 0063
+800FFD28 0063
+
+[Mission 5 Codes\Rapid Fire Pk7]
+Type = Gameshark
+Activation = EndFrame
+800FFD44 0000
+
+[Mission 5 Codes\Have Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+800FFD80 002C
+
+[Mission 5 Codes\Infinite Ammo Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+900FFD8C 00630063
+
+[Mission 5 Codes\Max Ammo Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+800FFD90 0063
+
+[Mission 5 Codes\Rapid Fire Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+800FFDA8 0000
+
+[Mission 5 Codes\Infinite Gas Bombs]
+Type = Gameshark
+Activation = EndFrame
+800FFEB8 0063
+
+[Mission 5 Codes\Infinite Medi Kits]
+Type = Gameshark
+Activation = EndFrame
+300FFE54 0063
+
+[Mission 6 Codes\Invincibility]
+Type = Gameshark
+Activation = EndFrame
+300B6408 0001
+
+[Mission 6 Codes\No Reload Pk7]
+Type = Gameshark
+Activation = EndFrame
+800E08C4 0063
+
+[Mission 6 Codes\Rapid Fire Pk7]
+Type = Gameshark
+Activation = EndFrame
+800E08E0 0000
+
+[Mission 6 Codes\Have Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+800E091C 002C
+
+[Mission 6 Codes\Infinite Ammo Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+900E0928 00630063
+
+[Mission 6 Codes\Max Ammo Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+800E092C 0063
+
+[Mission 6 Codes\Have Infrared Sniper Rifle]
+Type = Gameshark
+Activation = EndFrame
+800E0980 002C
+
+[Mission 6 Codes\Infinite Ammo Infrared Sniper Rifle]
+Type = Gameshark
+Activation = EndFrame
+900E098C 00630063
+
+[Mission 6 Codes\Max Ammo Infrared Sniper Rifle]
+Type = Gameshark
+Activation = EndFrame
+800E0990 0063
+
+[Mission 6 Codes\Rapid Fire Infrared Sniper Rifle]
+Type = Gameshark
+Activation = EndFrame
+800E09A8 0000
+
+[Mission 6 Codes\Infinite Bmw Missiles]
+Type = Gameshark
+Activation = EndFrame
+300E0AB8 0063
+
+[Mission 6 Codes\Rapid Fire Bmw Missiles]
+Type = Gameshark
+Activation = EndFrame
+800E0AD4 0000
+
+[Mission 6 Codes\Infinite Medi Kits]
+Type = Gameshark
+Activation = EndFrame
+300E09F0 0063
+
+[Mission 7 Codes\Invincibility]
+Type = Gameshark
+Activation = EndFrame
+300C0E78 0001
+
+[Mission 7 Codes\No Reload Pk7]
+Type = Gameshark
+Activation = EndFrame
+800E4D5C 0063
+
+[Mission 7 Codes\Rapid Fire Pk7]
+Type = Gameshark
+Activation = EndFrame
+800E4D78 0000
+
+[Mission 7 Codes\Have Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+800E4DB4 002C
+
+[Mission 7 Codes\Infinite Ammo Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+900E4DC0 00630063
+
+[Mission 7 Codes\Max Ammo Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+800E4DC4 0063
+
+[Mission 7 Codes\Rapid Fire Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+800E4DDC 0000
+
+[Mission 7 Codes\Have Infrared Sniper Rifle]
+Type = Gameshark
+Activation = EndFrame
+800E4E18 002C
+
+[Mission 7 Codes\Infinite Ammo Infrared Sniper Rifle]
+Type = Gameshark
+Activation = EndFrame
+900E4E24 00630063
+
+[Mission 7 Codes\Max Ammo Infrared Sniper Rifle]
+Type = Gameshark
+Activation = EndFrame
+800E4E28 0063
+
+[Mission 7 Codes\Rapid Fire Infrared Sniper Rifle]
+Type = Gameshark
+Activation = EndFrame
+800E4E40 0000
+
+[Mission 7 Codes\Have Auto 9mm]
+Type = Gameshark
+Activation = EndFrame
+800E500C EE24
+
+[Mission 7 Codes\Infinite Ammo Auto 9mm]
+Type = Gameshark
+Activation = EndFrame
+900E5018 00630063
+
+[Mission 7 Codes\Max Ammo Auto 9mm]
+Type = Gameshark
+Activation = EndFrame
+800E051C 0063
+
+[Mission 7 Codes\Non-Reloadable Auto 9mm]
+Type = Gameshark
+Activation = EndFrame
+800E500E 0000
+900E5018 00630063
+
+[Mission 7 Codes\Infinite Medi Kits]
+Type = Gameshark
+Activation = EndFrame
+300E4EEC 0063
+
+[Mission 8 Codes\Invincibility]
+Type = Gameshark
+Activation = EndFrame
+300B4CFC 0001
+
+[Mission 8 Codes\No Reload Pk7]
+Type = Gameshark
+Activation = EndFrame
+800F9794 0063
+
+[Mission 8 Codes\Rapid Fire Pk7]
+Type = Gameshark
+Activation = EndFrame
+800F97B0 0000
+
+[Mission 8 Codes\Have Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+800F9850 0063
+
+[Mission 8 Codes\Infinite Ammo Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+900F985C 00630063
+
+[Mission 8 Codes\Max Ammo Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+800F9860 0063
+
+[Mission 8 Codes\Rapid Fire Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+800F97AA 0000
+
+[Mission 8 Codes\Have Auto 9mm]
+Type = Gameshark
+Activation = EndFrame
+800F97EC EE24
+
+[Mission 8 Codes\Infinite Ammo Auto 9mm]
+Type = Gameshark
+Activation = EndFrame
+900F97F8 00630063
+
+[Mission 8 Codes\Max Ammo Auto 9mm]
+Type = Gameshark
+Activation = EndFrame
+800F97FC 0063
+
+[Mission 8 Codes\Non Reloadable Auto 9mm]
+Type = Gameshark
+Activation = EndFrame
+800F97EE 0000
+900F97F8 00630063
+
+[Mission 8 Codes\Infinite Med Kits]
+Type = Gameshark
+Activation = EndFrame
+300F9924 0063
+
+[Mission 8 Codes\Have Key]
+Type = Gameshark
+Activation = EndFrame
+300DE210 0001
+
+[Mission 9 Codes\Invincibility]
+Type = Gameshark
+Activation = EndFrame
+300B69E8 0001
+
+[Mission 9 Codes\No Reload Pk7]
+Type = Gameshark
+Activation = EndFrame
+800FFA24 0063
+
+[Mission 9 Codes\Rapid Fire Pk7]
+Type = Gameshark
+Activation = EndFrame
+800FFA4C 0000
+
+[Mission 9 Codes\Have Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+800FFA7C 002C
+
+[Mission 9 Codes\Infinite Ammo Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+900FFA88 00630063
+
+[Mission 9 Codes\Max Ammo Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+800FFA8C 0063
+
+[Mission 9 Codes\Rapid Fire Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+800FFAA4 0000
+
+[Mission 9 Codes\Have Rl 66]
+Type = Gameshark
+Activation = EndFrame
+800FFB44 002C
+
+[Mission 9 Codes\Infinite Ammo]
+Type = Gameshark
+Activation = EndFrame
+800FFB50 0063
+800FFB54 0063
+
+[Mission 9 Codes\Rapid Fire Rl66]
+Type = Gameshark
+Activation = EndFrame
+800FFB6C 0000
+
+[Mission 9 Codes\Infinite Medi Kits]
+Type = Gameshark
+Activation = EndFrame
+300FFAEC 0063
+
+[Mission 10\Invincibility]
+Type = Gameshark
+Activation = EndFrame
+300BAEB8 0001
+
+[Mission 10\No Reload Pk9]
+Type = Gameshark
+Activation = EndFrame
+800FB8A4 0063
+
+[Mission 10\Have Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+800FB8FC 002C
+
+[Mission 10\Infinite Ammo Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+900FB908 00630063
+
+[Mission 10\Max Ammo]
+Type = Gameshark
+Activation = EndFrame
+800FB90C 0063
+
+[Mission 10\Rapid Fire Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+800FB924 0000
+
+[Mission 10\Have Smg 45]
+Type = Gameshark
+Activation = EndFrame
+800FB9C4 EE24
+
+[Mission 10\Infinite Ammo Smg 45]
+Type = Gameshark
+Activation = EndFrame
+900FB9D0 00630063
+
+[Mission 10\Max Ammo Smg 45]
+Type = Gameshark
+Activation = EndFrame
+800FB9D4 0063
+
+[Mission 10\Have Gl 40]
+Type = Gameshark
+Activation = EndFrame
+800FB960 002C
+
+[Mission 10\Infinite Ammo Gl 40]
+Type = Gameshark
+Activation = EndFrame
+900FB96C 00630063
+
+[Mission 10\Max Ammo Gl 40]
+Type = Gameshark
+Activation = EndFrame
+800FB970 0063
+
+[Mission 10\Rapid Fire Gl 40]
+Type = Gameshark
+Activation = EndFrame
+800FB988 0000
+
+[Mission 10\Infinite Medi Kits]
+Type = Gameshark
+Activation = EndFrame
+300FBA34 0063
+

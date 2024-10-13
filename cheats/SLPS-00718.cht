@@ -1,0 +1,17 @@
+; CHTDB: ; [ Bakuretsu Hunter: Sorezore no Omoi ... Nowaanchatte (Japan) {SLPS-00718} ]
+
+[Infinite Energy Carrot (.Deactivate after being hit and enable it again after that.)]
+Type = Gameshark
+Activation = EndFrame
+80080CC8 0064
+
+[Infinite Energy Marron (.Deactivate after being hit and enable it again after that.)]
+Type = Gameshark
+Activation = EndFrame
+80080CC9 0064
+
+[Infinite Energy Tira (.Deactivate after being hit and enable it again after that.)]
+Type = Gameshark
+Activation = EndFrame
+80080CCA 0064
+

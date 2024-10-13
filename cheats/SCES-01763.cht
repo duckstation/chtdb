@@ -1,0 +1,39 @@
+; CHTDB: ; [ Speed Freaks (Europe) {SCES-01763} ]
+
+[All unlocked]
+Type = Gameshark
+Activation = EndFrame
+800EE3BC 0C0C
+800EEA1C FFFF
+
+[Infinite Continues]
+Type = Gameshark
+Activation = EndFrame
+D0018254 FFFF
+80018258 0000
+
+[Unlock Most Things]
+Type = Gameshark
+Activation = EndFrame
+800EE3BC 0C0C
+
+[Infinite Boost]
+Type = Gameshark
+Activation = EndFrame
+A608EAF8 18230023
+
+[Always good grip]
+Type = Gameshark
+Activation = EndFrame
+80042F9E AE80
+
+[Always first (Display)]
+Type = Gameshark
+Activation = EndFrame
+A60E465A 24422402
+
+[Time attack Timer 00.00]
+Type = Gameshark
+Activation = EndFrame
+A609324C 00010000
+

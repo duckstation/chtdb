@@ -1,0 +1,102 @@
+; CHTDB: ; [ Doukyuusei Mahjong (Jpn) (1997) (Yumedia) {SLPS-00673} <dokyumj> ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+800A4A58 03E7
+
+[Rivals money = 0]
+Type = Gameshark
+Activation = EndFrame
+800A4A5C 0000
+800A4A60 0000
+800A4A64 0000
+
+[Cg Galleries Mai]
+Type = Gameshark
+Activation = EndFrame
+800A12EA 0101
+800A12EC 0101
+300A12EE 0001
+
+[Cg Galleries Misa]
+Type = Gameshark
+Activation = EndFrame
+300A12EF 0001
+900A12F0 01010101
+
+[Cg Galleries Satomi]
+Type = Gameshark
+Activation = EndFrame
+800A12F4 0101
+300A12F6 0001
+
+[Cg Galleries Natsuko]
+Type = Gameshark
+Activation = EndFrame
+300A12F9 0001
+800A12FA 0101
+800A12FC 0101
+
+[Cg Galleries Ako]
+Type = Gameshark
+Activation = EndFrame
+800A12FE 0101
+800A1300 0101
+
+[Cg Galleries Miho]
+Type = Gameshark
+Activation = EndFrame
+300A1303 0001
+900A1304 01010101
+
+[Cg Galleries Mako]
+Type = Gameshark
+Activation = EndFrame
+900A1308 01010101
+
+[Cg Galleries Walnut]
+Type = Gameshark
+Activation = EndFrame
+300A130D 0001
+800A130E 0101
+300A1310 0001
+
+[Cg Galleries Hiromi]
+Type = Gameshark
+Activation = EndFrame
+800A1312 0101
+300A1314 0001
+
+[Cg Galleries Yoshi]
+Type = Gameshark
+Activation = EndFrame
+300A1317 0001
+800A1318 0101
+300A131A 0001
+
+[Cg Galleries Chiharu]
+Type = Gameshark
+Activation = EndFrame
+900A131C 01010101
+
+[Cg Galleries Reiko]
+Type = Gameshark
+Activation = EndFrame
+300A1321 0001
+800A1322 0101
+300A1324 0001
+
+[Cg Galleries Spring]
+Type = Gameshark
+Activation = EndFrame
+800A1326 0101
+800A1328 0101
+300A132A 0001
+
+[Cg Galleries Odor]
+Type = Gameshark
+Activation = EndFrame
+300A132B 0001
+900A132C 01010101
+

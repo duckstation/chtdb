@@ -1,0 +1,20 @@
+; CHTDB: ; [ Patlabor: The Game: Taikenban Ver. 1.0 (Japan) Demo {SLPS-01804} ]
+
+[Katsumi Infinite HP In Battle]
+Type = Gameshark
+Activation = EndFrame
+801EBA9C 00B4
+801BF5E0 00B4
+
+[Kiddy Infinite HP In Battle]
+Type = Gameshark
+Activation = EndFrame
+801EBBF4 00C8
+801BF738 00C8
+
+[Nami Infinite HP In Battle]
+Type = Gameshark
+Activation = EndFrame
+801EBD4C 0096
+801BF890 0096
+

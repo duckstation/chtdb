@@ -1,0 +1,34 @@
+; CHTDB: ; [ NHL 98 (USA) (1997) (Electronic Arts) {SLUS-00519} <nhl98> ]
+
+[Select Home Team Score\9]
+Type = Gameshark
+Activation = EndFrame
+8004771A 0009
+
+[Select Home Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+8004771A 0000
+
+[Select Away Team Score\9]
+Type = Gameshark
+Activation = EndFrame
+80047754 0009
+
+[More Creation Points]
+Type = Gameshark
+Activation = EndFrame
+8012D298 00AF
+
+[Infinite Skill Remaining Points]
+Description = Turn the off before playing a game or the game might freeze.
+Type = Gameshark
+Activation = EndFrame
+800DFEA0 00BE
+
+[Infinite Creation Points]
+Type = Gameshark
+Activation = EndFrame
+800A2BCA 2400
+800ABBC6 2400
+

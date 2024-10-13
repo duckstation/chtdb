@@ -1,0 +1,88 @@
+; CHTDB: ; [ Fade to Black (USA) (1996) (Electronic Arts) {SLUS-00236} <fadeblck> ]
+
+[Level 1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801C0830 07D0
+
+[Level 2 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801B37DC 07D0
+
+[Level 3 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801B4AE4 07D0
+
+[Level 4 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801B59C0 07D0
+
+[Level 5 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801C7F68 07D0
+
+[Level 6 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801AAD9C 07D0
+
+[Level 7 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801B6BAC 07D0
+
+[Level 8 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801B50BC 07D0
+
+[Level 9 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801B6F64 07D0
+
+[Level 10 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801B5C84 07D0
+
+[Level 11 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801B0960 07D0
+
+[Level 12 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801B85CC 07D0
+
+[Level 13 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801B3280 07D0
+
+[Level 1 Infinite Weapon normal]
+Type = Gameshark
+Activation = EndFrame
+801CFCE8 0009
+
+[Infinite Ammo all weapons]
+Type = Gameshark
+Activation = EndFrame
+8005DCFE 2400
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+80010028 0083
+
+[Infinite Time (Watch)]
+Type = Gameshark
+Activation = EndFrame
+800ACACC 0000
+800AF9A4 0000
+

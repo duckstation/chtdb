@@ -1,0 +1,220 @@
+; CHTDB: ; [ Final Fantasy Tactics (Japan) {SLPS-00770} ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+9005483C 05F5E0FF
+
+[Level Up]
+Type = Gameshark
+Activation = EndFrame
+801904B8 63FF
+80190678 63FF
+80190838 63FF
+801909F8 63FF
+80190BB8 63FF
+
+[First Character Codes\Level Up]
+Type = Gameshark
+Activation = EndFrame
+801904B8 63FF
+
+[First Character Codes\Max Hp]
+Type = Gameshark
+Activation = EndFrame
+801904C2 03E7
+
+[First Character Codes\Max Mp]
+Type = Gameshark
+Activation = EndFrame
+801904C6 03E7
+
+[Second Character Codes\Level Up]
+Type = Gameshark
+Activation = EndFrame
+80190678 63FF
+
+[Second Character Codes\Max Hp]
+Type = Gameshark
+Activation = EndFrame
+80190682 03E7
+
+[Second Character Codes\Max Mp]
+Type = Gameshark
+Activation = EndFrame
+80190686 03E7
+
+[Third Character Codes\Level Up]
+Type = Gameshark
+Activation = EndFrame
+80190838 63FF
+
+[Third Character Codes\Max Hp]
+Type = Gameshark
+Activation = EndFrame
+80190842 03E7
+
+[Third Character Codes\Max Mp]
+Type = Gameshark
+Activation = EndFrame
+80190846 03E7
+
+[Fourth Character Codes\Level Up]
+Type = Gameshark
+Activation = EndFrame
+801909F8 63FF
+
+[Fourth Character Codes\Max Hp]
+Type = Gameshark
+Activation = EndFrame
+801909FC 03E7
+
+[Fourth Character Codes\Max Mp]
+Type = Gameshark
+Activation = EndFrame
+80191000 03E7
+
+[Complete Occupation\Character 1 - Set One]
+Type = Gameshark
+Activation = EndFrame
+801C2B46 270F
+901C2B48 270F270F
+901C2B4C 270F270F
+901C2B50 270F270F
+901C2B54 270F270F
+901C2B58 270F270F
+901C2B5C 270F270F
+901C2B60 270F270F
+
+[Complete Occupation\Character 1 - Set Two]
+Type = Gameshark
+Activation = EndFrame
+901C2B64 270F270F
+901C2B68 270F270F
+901C2B6C 270F270F
+901C2B70 270F270F
+901C2B74 270F270F
+901C2B78 270F270F
+901C2B7C 270F270F
+801C2B80 270F
+
+[Complete Occupation\Character 1 - Set Three]
+Type = Gameshark
+Activation = EndFrame
+801C2B82 270F
+901C2B84 270F270F
+901C2B88 270F270F
+901C2B8C 270F270F
+901C2B90 270F270F
+801C2B94 270F
+
+[Complete Occupation\Character 2 - Set One]
+Type = Gameshark
+Activation = EndFrame
+801C2C6E 270F
+901C2C70 270F270F
+901C2C74 270F270F
+901C2C78 270F270F
+901C2C7C 270F270F
+901C2C80 270F270F
+901C2C84 270F270F
+901C2C88 270F270F
+
+[Complete Occupation\Character 2 - Set Two]
+Type = Gameshark
+Activation = EndFrame
+901C2C8C 270F270F
+901C2C90 270F270F
+901C2C94 270F270F
+901C2C98 270F270F
+901C2C9C 270F270F
+901C2CA0 270F270F
+901C2CA4 270F270F
+801C2CA8 270F
+
+[Complete Occupation\Character 2 - Set Three]
+Type = Gameshark
+Activation = EndFrame
+801C2CAA 270F
+901C2CAC 270F270F
+901C2CB0 270F270F
+901C2CB4 270F270F
+901C2CB8 270F270F
+801C2CBC 270F
+
+[Complete Occupation\Character 3 - Set One]
+Type = Gameshark
+Activation = EndFrame
+801C2D96 270F
+901C2D98 270F270F
+901C2D9C 270F270F
+901C2DA0 270F270F
+901C2DA4 270F270F
+901C2DA8 270F270F
+901C2DAC 270F270F
+901C2DB0 270F270F
+
+[Complete Occupation\Character 3 - Set Two]
+Type = Gameshark
+Activation = EndFrame
+901C2DB4 270F270F
+901C2DB8 270F270F
+901C2DBC 270F270F
+901C2DC0 270F270F
+901C2DC4 270F270F
+901C2DC8 270F270F
+901C2DCC 270F270F
+801C2DD0 270F
+
+[Complete Occupation\Character 3 - Set Three]
+Type = Gameshark
+Activation = EndFrame
+801C2DD2 270F
+901C2DD4 270F270F
+901C2DD8 270F270F
+901C2DDC 270F270F
+901C2DE0 270F270F
+801C2DE4 270F
+
+[Complete Occupation\Character 4 - Set One]
+Type = Gameshark
+Activation = EndFrame
+801C2E5E 270F
+901C2E60 270F270F
+901C2E64 270F270F
+901C2E68 270F270F
+901C2E6C 270F270F
+901C2E70 270F270F
+901C2E74 270F270F
+901C2E78 270F270F
+
+[Complete Occupation\Character 4 - Set Two]
+Type = Gameshark
+Activation = EndFrame
+901C2E7C 270F270F
+901C2E80 270F270F
+901C2E84 270F270F
+901C2E88 270F270F
+901C2E8C 270F270F
+901C2E90 270F270F
+901C2E94 270F270F
+801C2E98 270F
+
+[Complete Occupation\Character 4 - Set Three]
+Type = Gameshark
+Activation = EndFrame
+801C2E9A 270F
+901C2E9C 270F270F
+901C2EA0 270F270F
+901C2EA4 270F270F
+901C2EA8 270F270F
+801C2EAC 270F
+
+[All Items MAX]
+Type = Gameshark
+Activation = EndFrame
+5000C901 0000
+30056731 0063
+50002801 0000
+30056800 0063
+

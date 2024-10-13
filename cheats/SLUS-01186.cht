@@ -1,0 +1,57 @@
+; CHTDB: ; [ ESPN MLS Gamenight (USA) (2000) (Konami of America) {SLUS-01186} <espnmls> ]
+
+[Select Away Team Score\00]
+Type = Gameshark
+Activation = EndFrame
+E0070E84 0001
+30070E84 0000
+E0070E89 0001
+30070E89 0000
+E0070E8A 0001
+30070E8A 0000
+
+[Select Away Team Score\99]
+Type = Gameshark
+Activation = EndFrame
+E0070E84 0000
+30070E84 0099
+E0070E89 0000
+30070E89 0032
+E0070E8A 0000
+30070E8A 0031
+
+[Select Home Team Score\00]
+Type = Gameshark
+Activation = EndFrame
+E0070E83 0001
+30070E83 0000
+30070E85 0001
+30070E85 0000
+30070E86 0001
+30070E86 0000
+
+[Select Home Team Score\99]
+Type = Gameshark
+Activation = EndFrame
+E0070E83 0000
+30070E83 0063
+E0070E85 0000
+30070E85 0032
+E0070E86 0000
+30070E86 0031
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A707D288 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A707D288 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A707D288 10000400
+

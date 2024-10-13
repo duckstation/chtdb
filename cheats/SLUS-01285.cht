@@ -1,0 +1,12 @@
+; CHTDB: ; [ RC de Go! (USA) (2000) (Acclaim Entertainment) {SLUS-01285} <rcdego> ]
+
+[Always Finish 1st]
+Type = Gameshark
+Activation = EndFrame
+800AB926 0801
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+800B9B2C FFFF
+

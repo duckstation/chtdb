@@ -1,0 +1,120 @@
+; CHTDB: ; [ MTV Sports - T.J. Lavin's Ultimate BMX (USA) (2001) (THQ) {SLUS-01233} <mtvbmx> ]
+
+[Toggle Timer (Press L1 + L2 To Start And Press R1 + R2 To Stop)]
+Type = Gameshark
+Activation = EndFrame
+D00AD930 0500
+80052C22 AF82
+D00AD930 0A00
+80052C22 2400
+
+[Mike Ardelean Max Gold Things]
+Type = Gameshark
+Activation = EndFrame
+800AC5C0 0063
+
+[Mike Ardelean All Stages Unlocked]
+Type = Gameshark
+Activation = EndFrame
+50000701 0000
+300AC5B3 00FF
+
+[Matt Beringer Max Gold Things]
+Type = Gameshark
+Activation = EndFrame
+800AC518 0063
+
+[Matt Beringer All Stages Unlocked]
+Type = Gameshark
+Activation = EndFrame
+50000701 0000
+300AC50B 00FF
+
+[T.J. Lavin Max Gold Things]
+Type = Gameshark
+Activation = EndFrame
+800AC41C 0063
+
+[T.J. Lavin All Stages Unlocked]
+Type = Gameshark
+Activation = EndFrame
+50000701 0000
+300AC40F 00FF
+
+[Chris Doyle Max Gold Things]
+Type = Gameshark
+Activation = EndFrame
+800AC4C4 0063
+
+[Chris Doyle All Stages Unlocked]
+Type = Gameshark
+Activation = EndFrame
+50000701 0000
+300AC4B7 00FF
+
+[Collin Winkelmann Max Gold Things]
+Type = Gameshark
+Activation = EndFrame
+800AC56C 0063
+
+[Collin Winkelmann All Stages Unlocked]
+Type = Gameshark
+Activation = EndFrame
+50000701 0000
+300AC55F 00FF
+
+[Chris Duncan Max Gold Things]
+Type = Gameshark
+Activation = EndFrame
+800AC614 0063
+
+[Chis Duncan All Stages Unlocked]
+Type = Gameshark
+Activation = EndFrame
+50000701 0000
+300AC607 00FF
+
+[Brian Foster Max Gold Things]
+Type = Gameshark
+Activation = EndFrame
+800AC668 0063
+
+[Brian Foster All Stages Unlocked]
+Type = Gameshark
+Activation = EndFrame
+50000701 0000
+300AC65B 00FF
+
+[Dave Freimuth Max Gold Things]
+Type = Gameshark
+Activation = EndFrame
+800AC6BC 0063
+
+[Dave Freimuth All Stages Unlocked]
+Type = Gameshark
+Activation = EndFrame
+50000701 0000
+300AC6AF 00FF
+
+[Jamie Bestwick Codea Max Gold Things]
+Type = Gameshark
+Activation = EndFrame
+800AC710 0063
+
+[Jamie Bestwick Codea All Stages Unlocked]
+Type = Gameshark
+Activation = EndFrame
+50000701 0000
+300AC703 00FF
+
+[Fuzzy Hall Max Gold Things]
+Type = Gameshark
+Activation = EndFrame
+800AC470 0063
+
+[Fuzzy Hall Unlock All Levels]
+Type = Gameshark
+Activation = EndFrame
+50000701 0000
+300AC463 00FF
+

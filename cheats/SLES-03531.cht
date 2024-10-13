@@ -1,0 +1,27 @@
+; CHTDB: ; [ Hybrid (Europe) (Pocket Price Midas) {SLES-03531} ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800F5830 006E
+
+[Infinite Ammos]
+Type = Gameshark
+Activation = EndFrame
+8008FFAC 0F28
+8008FFD8 0F1B
+80090004 123C
+80090030 1222
+
+[Debug Info Showing]
+Type = Gameshark
+Activation = EndFrame
+300F4610 0001
+
+[Load, Pause And Sound Menu's Fully Unlocked]
+Type = Gameshark
+Activation = EndFrame
+300A5CF4 0001
+300A5D00 0001
+300F4628 0001
+

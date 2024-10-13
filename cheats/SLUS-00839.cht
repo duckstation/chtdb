@@ -1,0 +1,146 @@
+; CHTDB: ; [ Test Drive 6 (USA) (1999) (Infogrames) {SLUS-00839} <td6> ]
+
+[Max Credits]
+Type = Gameshark
+Activation = EndFrame
+900AC628 3B9AC9FF
+
+[Total Time 00.00.00/Always 1st]
+Type = Gameshark
+Activation = EndFrame
+800A80EC 0000
+
+[Infinite Check Point]
+Type = Gameshark
+Activation = EndFrame
+800A80F0 0AA9
+
+[Stop Bomber Mode Hong Kong Completed]
+Type = Gameshark
+Activation = EndFrame
+300ACD4C 0001
+
+[Stop Bomber Mode London Completed]
+Type = Gameshark
+Activation = EndFrame
+300ACD4D 0001
+
+[Stop Bomber Mode New York Completed]
+Type = Gameshark
+Activation = EndFrame
+300ACD4A 0001
+
+[Stop Bomber Mode Paris Completed]
+Type = Gameshark
+Activation = EndFrame
+300ACD49 0001
+
+[Stop Bomber Mode Rome Completed]
+Type = Gameshark
+Activation = EndFrame
+300ACD4B 0001
+
+[Stop Bomber Mode Spike]
+Type = Gameshark
+Activation = EndFrame
+8011A7B8 1543
+
+[Stop Bomber Mode Unlock Hidden Levels]
+Type = Gameshark
+Activation = EndFrame
+800AE28E 0101
+900AE290 01010101
+
+[Stop Racers Mode Hong Kong Completed]
+Type = Gameshark
+Activation = EndFrame
+300ACD40 0005
+
+[Stop Racers Mode London Completed]
+Type = Gameshark
+Activation = EndFrame
+300ACD41 0005
+
+[Stop Racers Mode New York Completed]
+Type = Gameshark
+Activation = EndFrame
+300ACD3E 0005
+
+[Stop Racers Mode Paris Completed]
+Type = Gameshark
+Activation = EndFrame
+300ACD3D 0005
+
+[Stop Racers Mode Rome Completed]
+Type = Gameshark
+Activation = EndFrame
+300ACD3F 0005
+
+[Tournament Race Class 1 Tour 1 Finished 1st]
+Type = Gameshark
+Activation = EndFrame
+800AC6F0 0000
+
+[Tournament Race Class 1 Tour 2 Finished 1st]
+Type = Gameshark
+Activation = EndFrame
+800AC740 0000
+
+[Tournament Race Class 2 Tour 1 Finished 1st]
+Type = Gameshark
+Activation = EndFrame
+800AC888 0000
+
+[Tournament Race Class 2 Tour 2 Finished 1st]
+Type = Gameshark
+Activation = EndFrame
+800AC8D8 0000
+
+[Tournament Race Class 3 Tour 1 Finished 1st]
+Type = Gameshark
+Activation = EndFrame
+800ACA20 0000
+
+[Tournament Race Class 3 Tour 2 Finished 1st]
+Type = Gameshark
+Activation = EndFrame
+800ACA70 0000
+
+[Tournament Race Class 4 Tour 1 Finished 1st]
+Type = Gameshark
+Activation = EndFrame
+800ACBB8 0000
+
+[Tournament Race Class 4 Tour 2 Finished 1st]
+Type = Gameshark
+Activation = EndFrame
+800ACC08 0000
+
+[Drive Through Walls]
+Type = Gameshark
+Activation = EndFrame
+D7000000 00000200
+8003321A 00001000
+80033636 00001000
+800333BA 00001000
+00000000 0000FFFF
+D7000000 00000400
+8003321A 00000621
+80033636 00000601
+800333BA 00000621
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A70A56C0 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A70A56C0 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A70A56C0 10000400
+

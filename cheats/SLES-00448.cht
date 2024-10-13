@@ -1,0 +1,111 @@
+; CHTDB: ; [ Bubble Bobble also featuring Rainbow Islands (Europe) {SLES-00448} ]
+
+[P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80176B18 0003
+
+[P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+80176AE8 0003
+
+[P1 - Unbeatable]
+Type = Gameshark
+Activation = EndFrame
+80176B1C 0100
+30176B30 0000
+
+[P2 - Unbeatable]
+Type = Gameshark
+Activation = EndFrame
+80176AEC 0100
+30176800 0000
+
+[Infinite Credits]
+Type = Gameshark
+Activation = EndFrame
+80176B80 0009
+
+[P1 - Fireballs]
+Type = Gameshark
+Activation = EndFrame
+80176B1E 011F
+
+[P2 - Fireballs]
+Type = Gameshark
+Activation = EndFrame
+80176AEE 011F
+
+[Rainbow Islands\Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800DA334 0608
+
+[Rainbow Islands\Islands Does Not Sink]
+Type = Gameshark
+Activation = EndFrame
+8005D2E4 00D8
+
+[Rainbow Islands\Do Not Reset Specials]
+Type = Gameshark
+Activation = EndFrame
+90024D74 00000000
+90024D84 00000000
+90024D90 00000000
+
+[Rainbow Islands\All Specials]
+Type = Gameshark
+Activation = EndFrame
+3005DA4F 0032
+
+[Rainbow Islands\Less Fruit Cakes Etc.]
+Type = Gameshark
+Activation = EndFrame
+3005DA51 0032
+
+[Rainbow Islands\Always Fast Rainbows]
+Type = Gameshark
+Activation = EndFrame
+3005DA36 000E
+
+[Rainbow Islands\Always Wings]
+Type = Gameshark
+Activation = EndFrame
+3005DA36 0010
+
+[Rainbow Islands\Always Fairy]
+Type = Gameshark
+Activation = EndFrame
+3005DA36 0020
+
+[Rainbow Islands\Invincibility]
+Type = Gameshark
+Activation = EndFrame
+3005DA36 0040
+
+[Rainbow Islands\Wings, Fairy, Invincibility, Faster]
+Type = Gameshark
+Activation = EndFrame
+3005DA36 007F
+
+[Rainbow Islands\Wings And Fast Rainbows]
+Type = Gameshark
+Activation = EndFrame
+3005DA36 001E
+
+[Rainbow Islands\Secret Door]
+Type = Gameshark
+Activation = EndFrame
+3005DA37 0008
+
+[Rainbow Islands\Hidden Money]
+Type = Gameshark
+Activation = EndFrame
+3005DA37 0002
+
+[Rainbow Islands\Secret Door And Money]
+Type = Gameshark
+Activation = EndFrame
+3005DA37 000A
+

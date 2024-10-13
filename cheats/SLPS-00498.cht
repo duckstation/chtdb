@@ -1,0 +1,28 @@
+; CHTDB: ; [ Harmful Park (Jpn) (1997) (Sky Think Systems) {SLPS-00498} <harmpark> ]
+
+[Invincibility (No Hit)]
+Type = Gameshark
+Activation = EndFrame
+800A033A 1400
+800A0342 1000
+
+[P1 Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+8018005A 0005
+
+[P1 Infinite Bomb]
+Type = Gameshark
+Activation = EndFrame
+80148E30 0003
+
+[P2 Infinite Bomb]
+Type = Gameshark
+Activation = EndFrame
+80148FF8 0003
+
+[P2 Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+8018005C 0005
+

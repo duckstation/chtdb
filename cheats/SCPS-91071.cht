@@ -1,0 +1,51 @@
+; CHTDB: ; [ Arc the Lad II (Japan) Rev 1 {SCPS-91071} ]
+
+[Arc Infinite & Max HP]
+Type = Gameshark
+Activation = EndFrame
+90119C4C 03E703E7
+
+[Infinite Energy/Lifes]
+Type = Gameshark
+Activation = EndFrame
+801A89FA 000F
+
+[Blue Orbs/Power]
+Type = Gameshark
+Activation = EndFrame
+801A89FE 0006
+
+[Max Level And Max Status]
+Type = Gameshark
+Activation = EndFrame
+801A89FA 000F
+80119C40 EFFF
+80119D00 FEFF
+80119CA0 FFEE
+80119CA0 FFEF
+8011A120 EFFF
+80119E20 FFEF
+80119DC0 FEEE
+8011A0C0 EFFF
+80119F40 FEFE
+80119EE0 FEFF
+80119E80 FFEE
+8011A000 EFFE
+8011A060 FEFF
+80119FA0 FEFF
+
+[All Items 99]
+Type = Gameshark
+Activation = EndFrame
+50003002 0000
+80119810 6363
+
+[Monster Guide fully opened]
+Type = Gameshark
+Activation = EndFrame
+90119978 FFFFFFFF
+9011997C FFFFFFFF
+80119980 FFFF
+30119982 00FF
+8011998A FFC0
+

@@ -1,0 +1,22 @@
+; CHTDB: ; [ Tobaku Mokushiroku Kaiji (Japan) {SLPS-02749} ]
+
+[Have 99 stars]
+Type = Gameshark
+Activation = EndFrame
+801A762C 0063
+
+[Have 4 rock cards]
+Type = Gameshark
+Activation = EndFrame
+801A7624 0004
+
+[Have 4 scissors cards]
+Type = Gameshark
+Activation = EndFrame
+801A7626 0004
+
+[Have 4 paper cards]
+Type = Gameshark
+Activation = EndFrame
+801A7628 0004
+

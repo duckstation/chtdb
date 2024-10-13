@@ -1,0 +1,49 @@
+; CHTDB: ; [ TV Animation X - Unmei no Tatakai (Jpn) (2002) (Bandai) {SLPS-03459} <xuntata> ]
+
+[Have 60000 Points To Unlocks Galleries]
+Type = Gameshark
+Activation = EndFrame
+800C5F30 EA60
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800E6340 03E8
+
+[P1 Max Psy Power]
+Type = Gameshark
+Activation = EndFrame
+800E6342 07D0
+
+[Enemy Energy = 0]
+Type = Gameshark
+Activation = EndFrame
+800E6354 0000
+
+[Unlock All Extras]
+Type = Gameshark
+Activation = EndFrame
+8002855A 07FF
+80028564 0001
+80028568 0101
+8002856C 0002
+5000FF02 0000
+800289D0 0101
+50002D02 0000
+80028BCE 0101
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A7096238 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A7096238 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A7096238 10000400
+

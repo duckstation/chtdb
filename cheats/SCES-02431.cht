@@ -1,0 +1,77 @@
+; CHTDB: ; [ Space Debris (Germany) {SCES-02431} ]
+
+[Unendlich Leben]
+Type = Gameshark
+Activation = EndFrame
+A60F04A6 00020009
+
+[Starte Mit 999 Score]
+Type = Gameshark
+Activation = EndFrame
+A60F0440 000003E7
+
+[Unendlich Schubkraft]
+Type = Gameshark
+Activation = EndFrame
+D20F04AA 1000
+800F04AA 1000
+
+[Unendlich Smartbomben]
+Type = Gameshark
+Activation = EndFrame
+A60F04AE 00000009
+
+[Geheimnisse Freischalten .Im Hauptmenü Select+L1+L2 drücken. Nach erfolgtem Levelabbruch sind dann die Geheimnisse nicht nur freigeschaltet, sondern auch noch jeweils alle aktiviert. Um auszuwählen auf Memory Card sichern und ohne den Code das Spiel erneut starten. Nun sollten die Sachen einzeln ausschaltbar sein - aber wer will das schon]
+Type = Gameshark
+Activation = EndFrame
+D008DF6A 0301
+800F045E FFFF
+D008DF6A 0301
+800F0460 FFFF
+
+[Levelauswahl ErmöGlichen]
+Type = Gameshark
+Activation = EndFrame
+A60F045A 00000009
+A60F045C 00000009
+
+[Unendlich Zeit]
+Type = Gameshark
+Activation = EndFrame
+800F16C8 3C00
+
+[Unendlich Energie Level 1, 4, 5, 7, 10]
+Type = Gameshark
+Activation = EndFrame
+800E3570 0C00
+
+[Unendlich Energie Level 2]
+Type = Gameshark
+Activation = EndFrame
+D00F045A 0001
+800E4820 0C00
+
+[Unendlich Energie Level 3]
+Type = Gameshark
+Activation = EndFrame
+D00F045A 0002
+800E3980 0C00
+
+[Unendlich Energie Level 6]
+Type = Gameshark
+Activation = EndFrame
+D00F045A 0005
+800E4A90 0C00
+
+[Unendlich Energie Level 8]
+Type = Gameshark
+Activation = EndFrame
+D00F045A 0007
+800E3B20 0C00
+
+[Unendlich Energie Level 9]
+Type = Gameshark
+Activation = EndFrame
+D00F045A 0008
+800E37E0 0C00
+

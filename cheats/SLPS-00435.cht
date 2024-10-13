@@ -1,0 +1,22 @@
+; CHTDB: ; [ Megatudo 2096 (Jpn) (1996) (Banpresto) {SLPS-00435} <megatudo> ]
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800AD948 03E8
+
+[P2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+800ADC4C 03E8
+
+[P1 Special Energy]
+Type = Gameshark
+Activation = EndFrame
+800AD950 03E8
+
+[P2 Special Energy]
+Type = Gameshark
+Activation = EndFrame
+800ADC54 03E8
+

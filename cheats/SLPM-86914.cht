@@ -1,0 +1,32 @@
+; CHTDB: ; [ Simple 1500 Series vol.76 - The Dodgeball (Jpn) (2001) (D3 Publisher) {SLPM-86914} <ss076dgb> ]
+
+[P1 Team 1st Member Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80069CD0 0006
+
+[P1 Team 2nd Member Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80069DA8 0006
+
+[P1 Team 3rd Member Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80069E80 0006
+
+[P1 Team 4th Member Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80069F58 0006
+
+[Enemy wiped out Press L2 button]
+Type = Gameshark
+Activation = EndFrame
+C008BCB0 0001
+8006A1F6 FFFF
+8006A2CE FFFF
+8006A3A6 FFFF
+8006A47E FFFF
+00000000 FFFF
+

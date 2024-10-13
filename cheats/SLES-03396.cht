@@ -1,0 +1,19 @@
+; CHTDB: ; [ Disney/Pixar Toy Story Racer aka Disney/Pixar's Toy Story Racer (Europe) {SLES-03396} ]
+
+[Have 200 Soldiers / All Levels Unlocked]
+Type = Gameshark
+Activation = EndFrame
+300D747C 00C8
+
+[All Characters Unlocked]
+Type = Gameshark
+Activation = EndFrame
+50000C08 0000
+300D741C 0001
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+A706D404 66664CCC
+A706D40C 6667CCCD
+

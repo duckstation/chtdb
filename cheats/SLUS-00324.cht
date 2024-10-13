@@ -1,0 +1,14 @@
+; CHTDB: ; [ Burning Road (USA) (1996) (Playmates Interactive Entertainment) {SLUS-00324} <broad> ]
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+8005A930 0032
+
+[Always Have 1st Place]
+Type = Gameshark
+Activation = EndFrame
+8005A84C 0001
+8005A850 0001
+800CDDAA 0001
+

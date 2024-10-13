@@ -1,0 +1,32 @@
+; CHTDB: ; [ Constructor (Europe) {SLES-00927} ]
+
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+800FAA18 FFFF
+
+[Lots of Money]
+Type = Gameshark
+Activation = EndFrame
+800FAA1A 00FF
+
+[Infinite Wood]
+Type = Gameshark
+Activation = EndFrame
+800FAA30 0064
+
+[Infinite Cement]
+Type = Gameshark
+Activation = EndFrame
+800FAA34 0064
+
+[Infinite Brick]
+Type = Gameshark
+Activation = EndFrame
+800FAA38 0064
+
+[Infinite Steel]
+Type = Gameshark
+Activation = EndFrame
+800FAA3C 0064
+

@@ -1,0 +1,17 @@
+; CHTDB: ; [ Dragon Ball Z - Ultimate Battle 22 (USA) (2003) (Infogrames) {SLUS-01550} <dbzub22> ]
+
+[P1 Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800A9EF8 0190
+
+[Level 999 (All Characters)]
+Type = Gameshark
+Activation = EndFrame
+800106F6 03E7
+
+[P2 No HP]
+Type = Gameshark
+Activation = EndFrame
+800AA268 0000
+

@@ -1,0 +1,49 @@
+; CHTDB: ; [ Monkey Magic (USA) (1999) (Sunsoft) {SLUS-00930} <monkeymg> ]
+
+[Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+8006EF38 0063
+
+[Infinite Health ALT]
+Type = Gameshark
+Activation = EndFrame
+80085CA4 012C
+
+[Infinite Magic Spells (All Upon Pick-Up)]
+Type = Gameshark
+Activation = EndFrame
+8006EF30 0064
+
+[Moon Jump]
+Type = Gameshark
+Activation = EndFrame
+E0054F50 00000040
+8002203A 00001000
+E0054F50 00000000
+8002203A 00001400
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800A39A4 012C
+
+[Walk Through Walls L3/R3 On/Off]
+Description = Being between walls triggers a death animation, best to jump through instead.
+Type = Gameshark
+Activation = EndFrame
+D5000000 00000200
+80023F92 00001000
+80023FC2 00001000
+00000000 0000FFFF
+D5000000 00000400
+80023F92 00001440
+80023FC2 00001440
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+A70B22BA 40054006
+A70248B4 000A000C
+A70557E2 010000C0
+

@@ -1,0 +1,27 @@
+; CHTDB: ; [ Samurai Deeper Kyo (Jpn, Limited Edition) (2002) (Bandai) {SLPS-03505} <samdeepk> ]
+
+[P1 Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+80060968 2710
+
+[P1 Infinite Gauge technology secrets]
+Type = Gameshark
+Activation = EndFrame
+8006096C 03E8
+
+[P2 Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+80060AA4 2710
+
+[P2 No HP]
+Type = Gameshark
+Activation = EndFrame
+80060AA4 0000
+
+[Enable all characters]
+Type = Gameshark
+Activation = EndFrame
+9005BAC8 00180FFF
+

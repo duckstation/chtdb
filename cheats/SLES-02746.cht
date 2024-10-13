@@ -1,0 +1,127 @@
+; CHTDB: ; [ Die Hard Trilogy 2: Viva Las Vegas (Europe) {SLES-02746} ]
+
+[3rd Person Action/Adventure-Mode-Codes\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+80102714 01F4
+
+[3rd Person Action/Adventure-Mode-Codes\Have All Weapons (Need Ammo To Use Them)]
+Type = Gameshark
+Activation = EndFrame
+801027F0 00FF
+
+[3rd Person Action/Adventure-Mode-Codes\Infinite Shotgun Ammo]
+Type = Gameshark
+Activation = EndFrame
+80102734 0063
+
+[3rd Person Action/Adventure-Mode-Codes\Infinite Mp5 Ammo]
+Type = Gameshark
+Activation = EndFrame
+80102738 0063
+
+[3rd Person Action/Adventure-Mode-Codes\Infinite Rocket Launcher Ammo]
+Type = Gameshark
+Activation = EndFrame
+8010273C 0063
+
+[3rd Person Action/Adventure-Mode-Codes\Infinite Jack Hammer Ammo]
+Type = Gameshark
+Activation = EndFrame
+80102740 0063
+
+[3rd Person Action/Adventure-Mode-Codes\Infinite Shock Rifle Ammo]
+Type = Gameshark
+Activation = EndFrame
+80102744 0063
+
+[3rd Person Action/Adventure-Mode-Codes\Infinite Flame Thrower Ammo]
+Type = Gameshark
+Activation = EndFrame
+80102748 0063
+
+[3rd Person Action/Adventure-Mode-Codes\Infinite Smoke Grenades]
+Type = Gameshark
+Activation = EndFrame
+80102780 0063
+
+[3rd Person Action/Adventure-Mode-Codes\Infinite Flash Bangs]
+Type = Gameshark
+Activation = EndFrame
+80102784 0063
+
+[3rd Person Action/Adventure-Mode-Codes\Infinite Frag Grenades]
+Type = Gameshark
+Activation = EndFrame
+80102788 0063
+
+[3rd Person Action/Adventure-Mode-Codes\Infinite Incendiary Grenades]
+Type = Gameshark
+Activation = EndFrame
+8010278C 0063
+
+[3rd Person Action/Adventure-Mode-Codes\Infinite Proximity Mines]
+Type = Gameshark
+Activation = EndFrame
+80102790 0063
+
+[3rd Person Action/Adventure-Mode-Codes\Bad Guys Lose Head When Killed]
+Type = Gameshark
+Activation = EndFrame
+80103058 0001
+
+[3rd Person Action/Adventure-Mode-Codes\Bad Guys Have Big Heads]
+Type = Gameshark
+Activation = EndFrame
+80103060 0001
+
+[Sharpshooter Mode-Codes\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800EE35C 01F4
+
+[Sharpshooter Mode-Codes\Infinite Pistol Ammo]
+Type = Gameshark
+Activation = EndFrame
+800EE374 000A
+
+[Sharpshooter Mode-Codes\Infinite Shotgun Ammo]
+Type = Gameshark
+Activation = EndFrame
+800EE378 000A
+
+[Sharpshooter Mode-Codes\Infinite Rocket Launcher Ammo]
+Type = Gameshark
+Activation = EndFrame
+800EE380 000A
+
+[Sharpshooter Mode-Codes\Infinite Jack Hammer Ammo]
+Type = Gameshark
+Activation = EndFrame
+800EE384 000A
+
+[Sharpshooter Mode-Codes\Infinite Shock Rifle Ammo]
+Type = Gameshark
+Activation = EndFrame
+800EE388 000A
+
+[Sharpshooter Mode-Codes\Infinite Flame Thrower Ammo]
+Type = Gameshark
+Activation = EndFrame
+800EE38C 000A
+
+[Extreme Driving Mode-Codes\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800FAD3C 01F4
+
+[Extreme Driving Mode-Codes\Infinite Nitro's]
+Type = Gameshark
+Activation = EndFrame
+800FAD48 1388
+
+[Extreme Driving Mode-Codes\Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+800FCAF0 647C
+
