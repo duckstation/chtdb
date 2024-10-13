@@ -1,3 +1,810 @@
+;*******************************************************************************
+;Duckstation Cheat File
+;**********************
+;
+; To edit this file I recommend Notepad++ and set up a user defined language
+; for the cheat File as it helps readability.
+;
+;1. Start any comment lines with a semi-colon, this can be useful to split up
+;   sections of cheats to improve readability as well as adding comments to
+;   aid in understanding of the cheats. These comments do not appear in
+;   Duckstation so remember to keep explanations in cheats for users. Try to
+;   keep comment lines under 80 characters
+;
+;2. Cheat Naming conventions for multiplayer games is 'Px Cheat Description'
+;   where x is the player number. Eg. P1 Infinite Lives. If the cheat is for all
+;   players or you have only tested it for P1 then don't mention P1 eg
+;   'Infinite Lives'
+;
+;3. Try to order cheats in a logical order if possible, like so:
+;   * Cheats for all Players for all levels
+;   * Cheats for P1 for all levels
+;   * Cheats for P2 for all levels
+;   * Cheats for P3 for all levels
+;   * Cheats for P4 for all levels
+;   * Cheats for all Players for level 1
+;   * Cheats for P1 for level 1
+;   * Cheats for P2 for level 1
+;   * Cheats for P3 for level 1
+;   * Cheats for P4 for level 1
+;   * Cheats for all Players for level 2
+;   * Cheats for P1 for level 2
+;   * Cheats for P2 for level 2
+;   * Cheats for P3 for level 2
+;   * Cheats for P4 for level 2
+;     repeat for other levels
+;   * Cheats that you don't want to appear in the above list, I think this
+;      should be kept for Debug Mode Cheats, 60FPS Cheats and the like.
+;
+;4. Cheats should be grouped if possible and worthwhile using the backslash '\'
+;   character. Especially true for cheats that poke the same address(es) with
+;   different value(s). This will make the cheat menus easier to skip long
+;   option lists when you only need to enable one option.
+;
+;5. Header format:
+;  ; [ Game Name (Region) (Year) (Publisher) {GAME_ID Numbers} <mameshortname> ]
+;  :GAME_ID1
+;  :GAME_ID2  <--repeat as necessary
+;
+; Well that's the plan anyway....let's see how it tracks out  Pugsy, 04 DEC 2020
+;
+;
+; CODE FORMAT INFORMATION
+; ***********************
+;
+; (address) = the current value stored in the address
+;
+; NOTE: Codes will only ever contain hexadecimal characters (0-F) any other
+;       characters (like WXYZ) in the following descriptions are for
+;       documentation purposes only.
+;
+;  8 Char by 8 Char Code Types (includes 32 bit codes)
+;  ***************************************************
+;* 90XXXXXX YYYYYYYY - 32-Bit Constant Write, Poke $80XXXXXX with 0xYYYYYYYY
+;* 91XXXXXX YYYYYYYY - 32-Bit Constant Bit Set, OR ($80XXXXXX) with 0xYYYYYYYY and Poke
+;* 92XXXXXX YYYYYYYY - 32-Bit Constant Bit Clear, AND ($80XXXXXX) with ~0xYYYYYYYY and Poke
+;* A0XXXXXX YYYYYYYY - 32-Bit If Equal To, activate next code if (80XXXXXX)==0xYYYYYYYY
+;* A1XXXXXX YYYYYYYY - 32-Bit If Not Equal To, activate next code if (80XXXXXX)!=0xYYYYYYYY
+;* A2XXXXXX YYYYYYYY - 32-Bit If Less Than, activate next code if (80XXXXXX)<0xYYYYYYYY
+;* A3XXXXXX YYYYYYYY - 32-Bit If Greater Than, activate next code if (80XXXXXX)>0xYYYYYYYY
+;* 60XXXXXX YYYYYYYY - 32-Bit Increment Once, Poke $80XXXXXX with ($80XXXXXX)+0xYYYYYYYY
+;* 61XXXXXX YYYYYYYY - 32-Bit Decrement Once, Poke $80XXXXXX with ($80XXXXXX)-0xYYYYYYYY
+;* A5000XXX YYYYYYYY - 32-Bit Scratchpad Constant Write, Poke $1F800XXX with
+;                      YYYYYYYY, where XXX is between 000 & 3FF.
+;* A6XXXXXX YYYYZZZZ - 16-Bit If Equal To Write, if (80XXXXXX)==0xYYYY, Poke
+;                      $80XXXXXX with 0xZZZZ. Single line alternative to a D0,80
+;                      code which use the same address.
+;* A7XXXXXX YYYYZZZZ - 16-Bit If Equal To Write with Restore, if
+;                      (80XXXXXX)==0xYYYY, Poke $80XXXXXX with 0xZZZZ. On
+;                      disabling the cheat if (80XXXXXX)==0xZZZZ, Poke $80XXXXXX
+;                      with 0xYYYY. This can be used for a ASM cheat that has
+;                      poked dynamic memory with less danger of crashing the
+;                      game or for 16:9 cheats to go back to 4:3 when disabled
+;* F0XXXXXX HHSSULLL - 8-Bit Force Range, if (80XXXXXX)<0xLL, Poke $80XXXXXX with
+;                      0xSS. If (80XXXXXX)>0xUL, Poke $80XXXXXX with 0xHH.
+;* F1XXXXXX ULULLLLL - 16-Bit Force Range to Limit, if (80XXXXXX)<0xLLLL, Poke
+;                      $80XXXXXX with 0xLLLL. If (80XXXXXX)>0xULUL, Poke
+;                      $80XXXXXX with 0xULUL.
+;* F2XXXXXX ULULLLLL - 16-Bit Force Range to Opposite Limit, if
+;                      (80XXXXXX)<0xLLLL, Poke $80XXXXXX with 0xULUL. If
+;                      (80XXXXXX)>0xULUL, Poke $80XXXXXX with 0xLLLL.
+;* F3XXXXXX ULULLLLL - 16-Bit Force Range, if (80XXXXXX)<0xLLLL, Poke $80XXXXXX
+;  F3000000 HHHHSSSS   with 0xSSSS. If (80XXXXXX)>0xULUL, Poke $80XXXXXX with
+;                      0xHHHH.
+;* F4XXXXXY 00WWSIZE - 8-Bit Find and Replace, Find and Replace for 16 bytes.
+;  aabbccdd eeffgghh   WW = Wildcard Byte, SIZE = Size of Area to Search/4 so FFFF=256K,
+;  iijjkkll mmnnoopp   XXXXXY = Address @ centre of Search Area (Y must be even 0/2/4/6/8/A/C/E)
+;  AABBCCDD EEFFGGHH   Find aa,bb,cc,dd,ee,ff,gg,hh,ii,jj,kk,ll,mm,nn,oo,pp and
+;  IIJJKKLL MMNNOOPP   replace with AA,BB,CC,DD,EE,FF,GG,HH,II,JJ,KK,LL,MM,NN,OO,PP.
+;                      Any byte matching the WW character in the find bytes will
+;                      be ignored. Any byte matching the WW character in the
+;                      replace bytes will be ignored, ideally all bytes in the
+;                      replace line should be WW with the exception of where
+;                      an actual replacement is required.
+;* F5XXXXXX YYYYZZZZ - 16-Bit Toggle, if (80XXXXXX)=0xYYYY, Poke $80XXXXXX
+;                      with 0xZZZZ. if (80XXXXXX)=0xZZZZ, Poke $80XXXXXX with
+;                      0xYYYY.
+;  16 Bit Code Types
+;  *****************
+;* 80XXXXXX YYYY - 16-Bit Constant Write, Poke $80XXXXXX with 0xYYYY  **COMMON**
+;* 81XXXXXX YYYY - 16-Bit Constant Bit Set, OR ($80XXXXXX) with 0xYYYY and Poke
+;* 82XXXXXX YYYY - 16-Bit Constant Bit Clear, AND ($80XXXXXX) with ~0xYYYY and Poke
+;* D0XXXXXX YYYY - 16-Bit If Equal To, activate next code if (80XXXXXX)==0xYYYY
+;* D1XXXXXX YYYY - 16-Bit If Not Equal To, activate next code if (80XXXXXX)!=0xYYYY
+;* D2XXXXXX YYYY - 16-Bit If Less Than, activate next code if (80XXXXXX)<0xYYYY
+;* D3XXXXXX YYYY - 16-Bit If Greater Than, activate next code if (80XXXXXX)>0xYYYY
+;* D4000000 YYYY - 16-Bit Universal Joker, add up the hex values to combine into
+;                  a multi-button joker.
+;                         0000 Nothing
+;                         0001 L2 Button
+;                         0002 R2 Button
+;                         0004 L1 Button
+;                         0008 R1 Button
+;                         0010 Triangle Button
+;                         0020 Circle Button
+;                         0040 X Button
+;                         0080 Square Button
+;                         0100 Select Button
+;                         0200 L3 Button
+;                         0400 R3 Button
+;                         0800 Start Button
+;                         1000 Up Direction
+;                         2000 Right Direction
+;                         4000 Down Direction
+;                         8000 Left Direction
+;* 10XXXXXX YYYY - 16-Bit Increment Once, Poke $80XXXXXX with ($80XXXXXX)+0xYYYY
+;* 11XXXXXX YYYY - 16-Bit Decrement Once, Poke $80XXXXXX with ($80XXXXXX)-0xYYYY
+;* 1F000XXX YYYY - 16-Bit Scratchpad Constant Write, Poke $1F800XXX with YYYY,
+;                      where XXX is between 000 & 3FF.
+
+;  8 Bit Code Types
+;  ****************
+;* 30XXXXXX 00YY - 8-Bit Constant Write, Poke $80XXXXXX with 0xYY     **COMMON**
+;* 31XXXXXX 00YY - 8-Bit Constant Bit Set, OR ($80XXXXXX) with 0xYY and Poke
+;* 32XXXXXX 00YY - 8-Bit Constant Bit Clear, AND ($80XXXXXX) with ~0xYY and Poke
+;* E0XXXXXX 00YY - 8-Bit If Equal To, activate next code if (80XXXXXX)==0xYY
+;* E1XXXXXX 00YY - 8-Bit If Not Equal To, activate next code if (80XXXXXX)!=0xYY
+;* E2XXXXXX 00YY - 8-Bit If Less Than, activate next code if (80XXXXXX)<0xYY
+;* E3XXXXXX 00YY - 8-Bit If Greater Than, activate next code if (80XXXXXX)>0xYY
+;* 20XXXXXX 00YY - 8-Bit Increment Once, Poke $80XXXXXX with ($80XXXXXX)+0xYY
+;* 21XXXXXX 00YY - 8-Bit Decrement Once ,Poke $80XXXXXX with ($80XXXXXX)-0xYY
+;
+;  Copy Data Code Types
+;  ********************
+;* C2XXXXXX YYYY - Copy Memory, copy memory between $80XXXXXX and $80XXXXXX+0xYYYY
+;* 80ZZZZZZ 0000                              to $80ZZZZZZ
+;* 5000PPQQ TTTT - Serial Repeater/Slide, pokes multiple serially increasing
+;  X0YYYYYY ZZZZ                    addresses with a possible increasing value.
+;                    poke_size = X0 (30 for byte or 80 for word)
+;                    start_address = YYYYYY
+;                    start_value = ZZZZ
+;                    number_of_addresses = PP (needs to be >02 to be worthwhile)
+;                    address_step = QQ (commonly 01 for type 30, 02 for type 80)
+;                    value_step = TTTT (most commonly 0000)
+;* 53WVPPPP QQQQTTTT - Improved Serial Repeater/Slide, pokes multiple serially changing
+;  X0YYYYYY ZZZZZZZZ   addresses with a possible changing value.
+;                    address_change = W ( 0 = increasing, 1 = decreasing)
+;                    value_change = V ( 0 = increasing, 1 = decreasing)
+;                    poke_size = X0 (30 for byte, 80 for word or 90 for longword)
+;                    start_address = YYYYYY
+;                    start_value = ZZZZZZZZ
+;                    number_of_addresses = PPPP (needs to be >02 to be worthwhile)
+;                    address_step = QQQQ (commonly 01 for type 30, 02 for
+;                                         type 80, 04 for type 90)
+;                    value_step = TTTT (most commonly 0000)
+;
+;  Block Conditionals
+;  ******************
+;  If the condition is met these will execute all the following codes to either
+;  a 000000000 FFFF line is reached or it reaches the end of that cheat. You
+;  should always use a 00000000 FFFF line though (dont be lazy!).
+;
+;* A4XXXXXX YYYYYYYY - 32-Bit Master Code, if ($XXXXXX) contains 0xYYYYYYYY poke
+;  00000000 FFFF       all following codes for rest of the cheat or until it reaches
+;                      the 00000000 FFFF line.
+;* C0XXXXXX YYYY - 16-Bit Master Code, if ($XXXXXX) contains 0xYYYY poke all
+;  00000000 FFFF       following codes for rest of the cheat or until it reaches the
+;                      00000000 FFFF line.
+;* C3XXXXXX 00YY - 8-Bit Master Code, if ($XXXXXX) is less than 0xYY poke all
+;  00000000 FFFF       following codes for rest of the cheat or until it reaches the
+;                      00000000 FFFF line.
+;* C4XXXXXX 00YY - 8-Bit Master Code, if ($XXXXXX) is greater than 0xYY poke all
+;  00000000 FFFF       following codes for rest of the cheat or until it reaches the
+;                      00000000 FFFF line.
+;* C5XXXXXX YYYY - 16-Bit Master Code, if ($XXXXXX) is less than 0xYYYY poke all
+;  00000000 FFFF       following codes for rest of the cheat or until it reaches the
+;                      00000000 FFFF line.
+;* C6XXXXXX YYYY - 16-Bit Master Code, if ($XXXXXX) is greater than 0xYYYY poke all
+;  00000000 FFFF       following codes for rest of the cheat or until it reaches the
+;                      00000000 FFFF line.
+;* D5000000 YYYY - 16-Bit All Codes On
+;* D6000000 YYYY - 16-Bit All Codes Off
+;* D7PQRRRR TTYYYYYY - 24-Bit Universal BIT Joker, OR the hex values to
+;                     combine into a multi-button joker. Because it is BIT
+;                     based it is better than D4, D5, D6 or using a D0 joker as
+;                     you do not need to worry about any other buttons being
+;                     pressed at the same time and you get both analog
+;                     sticks for extra functionality. Note if you want to use it
+;                     just as a enhanced joker just use D7000000 00YYYYYY when
+;                     the buttons/directions are pressed or D7100000 00YYYYYY
+;                     when you want to ensure they are not all pressed.
+;                        YYYYYY = 000001 L2 Button
+;                        YYYYYY = 000002 R2 Button
+;                        YYYYYY = 000004 L1 Button
+;                        YYYYYY = 000008 R1 Button
+;                        YYYYYY = 000010 Triangle Button
+;                        YYYYYY = 000020 Circle Button
+;                        YYYYYY = 000040 X Button
+;                        YYYYYY = 000080 Square Button
+;                        YYYYYY = 000100 Select Button
+;                        YYYYYY = 000200 L3 Button
+;                        YYYYYY = 000400 R3 Button
+;                        YYYYYY = 000800 Start Button
+;                        YYYYYY = 001000 Up (Digital)
+;                        YYYYYY = 002000 Right (Digital)
+;                        YYYYYY = 004000 Down (Digital)
+;                        YYYYYY = 008000 Left (Digital)
+;                        YYYYYY = 010000 Up (Right Thumb)
+;                        YYYYYY = 020000 Right (Right Thumb)
+;                        YYYYYY = 040000 Down (Right Thumb)
+;                        YYYYYY = 080000 Left (Right Thumb)
+;                        YYYYYY = 100000 Up (Left Thumb)
+;                        YYYYYY = 200000 Right (Left Thumb)
+;                        YYYYYY = 400000 Down (Left Thumb)
+;                        YYYYYY = 800000 Left (Left Thumb)
+;                      P = 0 or 1. 0 = Check ALL YYYYYY Bits are ON
+;                                  1 = Check ALL YYYYYY Bits are OFF
+;
+;                     QRRRR TT provides the capability of only activating the
+;                     following codes after the keys have been held in for a set
+;                     amount of frames. 003C = 60 Frames = 1 Second at 100% Speed.
+;                       Q = Frame Comparison 0 = Dont do any comparison
+;                                            1 = Check that the button combination
+;                                                has been held down for exactly
+;                                                RRRR frames.
+;                                            2 = Check that the button combination
+;                                                has been held down for at least
+;                                                RRRR frames.
+;                                            3 = Check that the button combination
+;                                                has been held down for less than
+;                                                RRRR frames.
+;                                            4 = Check that the button combination
+;                                                has been held down for anything
+;                                                but RRRR frames.
+;                       TT=Temp Register 00-FF, 00 will mean it wont be used, if
+;                            it's not 00 do not use the same value for jokers
+;                            using different keypress combinations for the same
+;                            game.
+;                       RRRR = 0000 to FFFF, Frame Comparison Value
+;                       NOTE: If you have multiple D7 lines using frame counting
+;                             and the same register, the temp register will be
+;                             out by that factor. Eg. If you have 2 D7 lines
+;                             accessing register 05, then after 60 frames -
+;                             register 05 will contain 120 (0x78)
+;
+;                      It will then poke all following codes for rest of cheat
+;  00000000 FFFF       or until it reaches the 00000000 FFFF line.
+;
+;* 52XXXXXX YYYYYYYY - Register Master Code, if ($XXXXXX) contains 0xYYYYYYYY poke
+;  00000000 FFFF       all following codes for rest of the cheat or until it reaches
+;                      the 00000000 FFFF line.
+;
+;  Other Code Types
+;  ****************
+;  These are only needed on hardware when you can't enable & disable codes after
+;  the game has started without the use of delays or global jokers. They are
+;  supported by Duckstation but ideally dont use them if you can help it.
+;* C1XXXXXX YYYY - Activate Codes On Delay
+;
+;  Register Code Types
+;  *******************
+;  These codes utilise the internal global 256 32-bit cheat registers. As they
+;  are global they will work across all cheats for a game so be careful not
+;  to re-use registers unintendingly. Type 51 codes can be used to copy and
+;  manipulate register contents between registers and memory. Type 52 codes are
+;  block conditionals that you can test the registers with and branch accordingly.
+;
+;  These code types will only need to be used with very advanced cheats, only
+;  use them if you need them as they may blow your mind....
+;
+;  General Notes:
+;  ==============
+;  RegXX or RegYY means the immediate value of the register
+;  (RegXX) or (RegYY) means the indirect value of the register = contents of the
+;                     address held in RegXX or RegYY
+;  TTTTTTTT = Write to Address TTTTTTTT
+;  (TTTTTTTT) = Read from Address TTTTTTTT
+;  ZZ,ZZZZ,ZZZZZZZ = Value
+;  Note RegXX, RegYY, RegWW can be the same register
+;
+;  8 BIT operations:
+;  =================
+;* 510000XX TTTTTTTT - 8-Bit Address Write from Register, Poke address TTTTTTTT
+;                      with the 8-bit contents of Register XX.
+;                      u8Poke TTTTTTTT, RegXX
+;* 510100XX TTTTTTTT - 8-Bit Address Read to Register, Peek the 8-bit contents of
+;                      address TTTTTTTT and store it in Register XX.
+;                      u8Poke RegXX, (TTTTTTTT)
+;* 510200XX 000000ZZ - 8-Bit Indirect Register Write, poke ZZ to the 32-Bit
+;                      address stored in Register XX.
+;                      u8Poke (RegXX), ZZ
+;* 5103YYXX 000000ZZ - 8-Bit Register Addition, add ZZ and the 8-bit contents
+;                      of Register YY together and write it to Register XX.
+;                      u8Poke RegXX, RegYY + ZZ
+;* 5104YYXX 000000ZZ - 8-Bit Indirect Register Write with addition, add ZZ and
+;                      the 8-bit contents of Register YY together and write it
+;                      to the 32-Bit address stored in Register XX.
+;                      u8Poke (RegXX), RegYY + ZZ
+;* 510500XX 000000ZZ - 8-Bit Direct Register Write, poke ZZ to Register XX.
+;                      u8Poke RegXX, ZZ
+;* 5106YYXX ZZZZZZZZ - 8-Bit Indirect Register Read, Peek the 8-bit contents
+;                      of (32-Bit address in Register YY + ZZZZZZZZ) and write it
+;                      to Register XX.
+;                      u8Poke RegXX, (RegYY + ZZZZZZZZ)
+;
+; 16 BIT operations:
+; ==================
+;* 514000XX TTTTTTTT - 16-Bit Address Write from Register, Poke address TTTTTTTT
+;                      with the 16-bit contents of Register XX.
+;                      u16Poke TTTTTTTT, RegXX
+;* 514100XX TTTTTTTT - 16-Bit Address Read to Register, Peek the 16-bit contents
+;                      of address TTTTTTTT and store it in Register XX.
+;                      u16Poke RegXX, (TTTTTTTT)
+;* 514200XX 0000ZZZZ - 16-Bit Indirect Register Write, poke ZZZZ to the 32-Bit
+;                      address stored in Register XX.
+;                      u16Poke (RegXX), ZZZZ
+;* 5143YYXX 0000ZZZZ - 16-Bit Register Addition, add ZZZZ and the 16 bit contents
+;                      of Register YY together and write it to Register XX.
+;                      u16Poke RegXX, RegYY + ZZZZ
+;* 5144YYXX 0000ZZZZ - 16-Bit Indirect Register Write with addition, add ZZZZ
+;                      and the 16 bit contents of Register YY together and write
+;                      it to the 32-Bit address stored in Register XX.
+;                      u16Poke (RegXX), RegYY + ZZZZ
+;* 514500XX 0000ZZZZ - 16-Bit Direct Register Write, poke ZZZZ to Register XX.
+;                      u16Poke RegXX, ZZZZ
+;* 5146YYXX ZZZZZZZZ - 16-Bit Indirect Register Read, Peek the 16-bit contents
+;                      of (32-Bit address in Register YY + ZZZZZZZZ) and write it
+;                      to Register XX.
+;                      u16Poke RegXX, (RegYY + ZZZZZZZZ)
+;
+; 32 BIT operations:
+; ==================
+;* 518000XX TTTTTTTT - 32-Bit Address Write from Register, Poke address TTTTTTTT
+;                      with the 32-bit contents of Register XX.
+;                      u32Poke TTTTTTTT, RegXX
+;* 518100XX TTTTTTTT - 32-Bit Address Read to Register, Peek the 32-bit contents
+;                      of address TTTTTTTT and store it in Register XX.
+;                      u32Poke RegXX, (TTTTTTTT)
+;* 518200XX ZZZZZZZZ - 32-Bit Indirect Register Write, poke ZZZZZZZZ to the
+;                      32-Bit address stored in Register XX.
+;                      u32Poke (RegXX), ZZZZZZZZ
+;* 5183YYXX ZZZZZZZZ - 32-Bit Register Addition, add ZZZZZZZZ and the 32 bit
+;                      contents of Register YY together and write it to
+;                      Register XX.
+;                      u32Poke RegXX, RegYY + ZZZZZZZZ
+;* 5184YYXX 0000ZZZZ - 32-Bit Indirect Register Write with addition, add
+;                      ZZZZZZZZ and the 32 bit contents of Register YY together
+;                      and write it to the 32-Bit address stored in Register XX.
+;                      u32Poke (RegXX), RegYY + ZZZZZZZZ
+;* 518500XX ZZZZZZZZ - 32-Bit Direct Register Write, poke ZZZZZZZZ to Register XX.
+;                      u32Poke RegXX, ZZZZZZZZ. Note: This is useful to write
+;                      the actual address to a register.
+;* 5186YYXX ZZZZZZZZ - 32-Bit Indirect Register Read, Peek the 32-bit contents
+;                      of (32-Bit address in Register YY + ZZZZZZZZ) and write it
+;                      to Register XX.
+;                      u32Poke RegXX, (RegYY + ZZZZZZZZ)
+;
+; Generic Register Operations:
+; ============================
+; All these generic register only codes are 32 Bit, but you can read any register
+; register as a u8, u16 or a u32.
+;
+;* 51C0YYXX 000000RR - Add Register YY to Register XX and store result in
+;                      Register RR.
+;                      u32Poke RegRR, RegYY + RegXX
+;* 51C1YYXX 000000RR - Subtract Register XX from Register YY and store result in
+;                      Register RR.
+;                      u32Poke RegRR, RegYY - RegXX
+;* 51C2YYXX 000000RR - Multiply Register YY by Register XX and store result in
+;                      Register RR.
+;                      u32Poke RegRR, RegYY * RegXX
+;* 51C3YYXX 000000RR - Divide Register YY by Register XX and store result in
+;                      Register RR. Note: If Register XX contains 0, RR will be
+;                      set to 0.
+;                      u32Poke RegRR, RegYY / RegXX
+;* 51C4YYXX 000000RR - Divide Register YY by Register XX and store remainder in
+;                      Register RR. Note: If Register XX contains 0, RR will be
+;                      set to RegYY.
+;                      u32Poke RegRR, RegYY % RegXX
+;* 51C5YYXX 000000RR - Bitwise AND Register YY and Register XX and store result
+;                      in Register RR.
+;                      u32Poke RegRR, RegYY & RegXX
+;* 51C6YYXX 000000RR - Bitwise OR Register YY and Register XX and store result
+;                      in Register RR.
+;                      u32Poke RegRR, RegYY | RegXX
+;* 51C7YYXX 000000RR - Bitwise XOR Register YY and Register XX and store result
+;                      in Register RR.
+;                      u32Poke RegRR, RegYY ^ RegXX
+;* 51C800XX 000000RR - Bitwise NOT Register XX and store result in Register RR.
+;                      aka One's Complement
+;                      u32Poke RegRR, ~RegXX
+;* 51C9TTXX 000000RR - Bitwise LSHIFT Register XX by TT and store result in
+;                      Register RR.
+;                      u32Poke RegRR, RegXX << TT
+;* 51CATTXX 000000RR - Bitwise RSHIFT Register XX by TT and store result in
+;                      Register RR.
+;                      u32Poke RegRR, RegXX >> TT
+;*********************************NEW TO BE ADDED*********************************
+;* 51D0YYXX ZZZZZZZZ - Bitwise AND Register YY with ZZZZZZZZ and store result
+;                      in Register XX.
+;                      u32Poke RegXX, RegYY & ZZZZZZZZ
+;* 51D1YYXX ZZZZZZZZ - Bitwise OR Register YY with ZZZZZZZZ and store result
+;                      in Register XX.
+;                      u32Poke RegXX, RegYY | ZZZZZZZZ
+;* 51D2YYXX ZZZZZZZZ - Bitwise XOR Register YY with ZZZZZZZZ and store result
+;                      in Register XX.
+;                      u32Poke RegXX, RegYY ^ ZZZZZZZZ
+;
+; Register Block Conditionals:
+; ============================
+;
+;* 5200YYXX 00000000 - If u8RegYY == u8RegXX poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 5201YYXX 00000000 - If u8RegYY != u8RegXX poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 5202YYXX 00000000 - If u8RegYY > u8RegXX poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 5203YYXX 00000000 - If u8RegYY => u8RegXX poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 5204YYXX 00000000 - If u8RegYY < u8RegXX poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 5205YYXX 00000000 - If u8RegYY =< u8RegXX poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 5206YYXX 00000000 - If u8RegYY & u8RegXX = u8RegXX poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 5207YYXX 00000000 - If u8RegYY & u8RegXX != u8RegXX poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 520AYYXX 00000000 - If u8RegYY & u8RegXX = u8RegYY poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 520BYYXX 00000000 - If u8RegYY & u8RegXX != u8RegYY poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 521000XX 000000ZZ - If u8RegXX == ZZ poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 521100XX 000000ZZ - If u8RegXX != ZZ poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 521200XX 000000ZZ - If u8RegXX > ZZ poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 521300XX 000000ZZ - If u8RegXX => ZZ poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 521400XX 000000ZZ - If u8RegXX < ZZ poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 521500XX 000000ZZ - If u8RegXX =< ZZ poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 521600XX 000000ZZ - If u8RegXX & ZZ = ZZ poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 521700XX 000000ZZ - If u8RegXX & ZZ != ZZ poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 521800XX 00TT00ZZ - If u8RegXX > ZZ && u8RegXX < TT poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 521900XX 00TT00ZZ - If u8RegXX => ZZ && u8RegXX <= TT poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 521A00XX 000000ZZ - If u8RegXX & ZZ = u8RegXX poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 521B00XX 000000ZZ - If u8RegXX & ZZ != u8RegXX poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 5220YYXX 00000000 - If u8(RegYY) == u8(RegXX) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 5221YYXX 00000000 - If u8(RegYY) != u8(RegXX) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 5222YYXX 00000000 - If u8(RegYY) > u8(RegXX) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 5223YYXX 00000000 - If u8(RegYY) => u8(RegXX) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 5224YYXX 00000000 - If u8(RegYY) < u8(RegXX) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 5225YYXX 00000000 - If u8(RegYY) =< u8(RegXX) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line
+;
+;* 522600XX 000000ZZ - If u8(RegXX) & ZZ = ZZ poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 522700XX 000000ZZ - If u8(RegXX) & ZZ != ZZ poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 522800XX 00TT00ZZ - If u8(RegXX) > ZZ && u8(RegXX) < TT poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 522900XX 00TT00ZZ - If u8(RegXX) => ZZ && u8(RegXX) <= TT poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 522A00XX 000000ZZ - If u8(RegXX) & ZZ = u8(RegXX) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 522B00XX 000000ZZ - If u8(RegXX) & ZZ != u8(RegXX) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 523000XX TTTTTTTT - If u8RegXX == (TTTTTTTT) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 523100XX TTTTTTTT - If u8RegXX != (TTTTTTTT) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 523200XX TTTTTTTT - If u8RegXX > (TTTTTTTT) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 523300XX TTTTTTTT - If u8RegXX => (TTTTTTTT) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 523400XX TTTTTTTT - If u8RegXX < (TTTTTTTT) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 523600XX TTTTTTTT - If u8RegXX & (TTTTTTTT) = (TTTTTTTT) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 523700XX TTTTTTTT - If u8RegXX & (TTTTTTTT) != (TTTTTTTT) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 523A00XX TTTTTTTT - If u8RegXX & (TTTTTTTT) = u8RegXX poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 523B00XX TTTTTTTT - If u8RegXX & (TTTTTTTT) != u8RegXX poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 5240YYXX 00000000 - If u16RegYY == u16RegXX poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 5241YYXX 00000000 - If u16RegYY != u16RegXX poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 5242YYXX 00000000 - If u16RegYY > u16RegXX poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 5243YYXX 00000000 - If u16RegYY => u16RegXX poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 5244YYXX 00000000 - If u16RegYY < u16RegXX poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 5245YYXX 00000000 - If u16RegYY =< u16RegXX poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 5246YYXX 00000000 - If u16RegYY & u16RegXX = u16RegXX poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 5247YYXX 00000000 - If u16RegYY & u16RegXX != u16RegXX poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 524AYYXX 00000000 - If u16RegYY & u16RegXX = u16RegYY poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 524BYYXX 00000000 - If u16RegYY & u16RegXX != u16RegYY poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 525000XX 0000ZZZZ - If u16RegXX == ZZZZ poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 525100XX 0000ZZZZ - If u16RegXX != ZZZZ poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 525200XX 0000ZZZZ - If u16RegXX > ZZZZ poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 525300XX 0000ZZZZ - If u16RegXX => ZZZZ poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 525400XX 0000ZZZZ - If u16RegXX < ZZZZ poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 525500XX 0000ZZZZ - If u16RegXX =< ZZZZ poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 525600XX 0000ZZZZ - If u16RegXX & ZZZZ = ZZZZ poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 525700XX 0000ZZZZ - If u16RegXX & ZZZZ != ZZZZ poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 525800XX TTTTZZZZ - If u16RegXX > ZZZZ && u16RegXX < TTTT poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 525900XX TTTTZZZZ - If u16RegXX => ZZZZ && u16RegXX <= TTTT poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 525A00XX 0000ZZZZ - If u16RegXX & ZZZZ = u16RegXX poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 525B00XX 0000ZZZZ - If u16RegXX & ZZZZ != u16RegXX poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 5260YYXX 00000000 - If u16(RegYY) == u16(RegXX) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 5261YYXX 00000000 - If u16(RegYY) != u16(RegXX) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 5262YYXX 00000000 - If u16(RegYY) > u16(RegXX) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 5263YYXX 00000000 - If u16(RegYY) => u16(RegXX) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 5264YYXX 00000000 - If u16(RegYY) < u16(RegXX) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 5265YYXX 00000000 - If u16(RegYY) =< u16(RegXX) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line
+;
+;* 526600XX 0000ZZZZ - If u16(RegXX) & ZZZZ = ZZZZ poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 526700XX 0000ZZZZ - If u16(RegXX) & ZZZZ != ZZZZ poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 526800XX TTTTZZZZ - If u16(RegXX) > ZZZZ && u16(RegXX) < TTTT poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 526900XX TTTTZZZZ - If u16(RegXX) => ZZZZ && u16(RegXX) <= TTTT poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 526A00XX 0000ZZZZ - If u16(RegXX) & ZZZZ = u16(RegXX) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 526B00XX 0000ZZZZ - If u16(RegXX) & ZZZZ != u16(RegXX) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 527000XX TTTTTTTT - If u16RegXX == (TTTTTTTT) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 527100XX TTTTTTTT - If u16RegXX != (TTTTTTTT) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 527200XX TTTTTTTT - If u16RegXX > (TTTTTTTT) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 527300XX TTTTTTTT - If u16RegXX => (TTTTTTTT) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 527400XX TTTTTTTT - If u16RegXX < (TTTTTTTT) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 527600XX TTTTTTTT - If u16RegXX & (TTTTTTTT) = (TTTTTTTT) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 527700XX TTTTTTTT - If u16RegXX & (TTTTTTTT) != (TTTTTTTT) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 527A00XX TTTTTTTT - If u16RegXX & (TTTTTTTT) = u16RegXX poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 527B00XX TTTTTTTT - If u16RegXX & (TTTTTTTT) != u16RegXX poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 5280YYXX 00000000 - If u32RegYY == u32RegXX poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 5281YYXX 00000000 - If u32RegYY != u32RegXX poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 5282YYXX 00000000 - If u32RegYY > u32RegXX poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 5283YYXX 00000000 - If u32RegYY => u32RegXX poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 5284YYXX 00000000 - If u32RegYY < u32RegXX poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 5285YYXX 00000000 - If u32RegYY =< u32RegXX poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 5286YYXX 00000000 - If u32RegYY & u32RegXX = u32RegXX poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 5287YYXX 00000000 - If u32RegYY & u32RegXX != u32RegXX poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 528AYYXX 00000000 - If u32RegYY & u32RegXX = u32RegYY poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 528BYYXX 00000000 - If u32RegYY & u32RegXX != u32RegYY poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 529000XX ZZZZZZZZ - If u32RegXX == ZZZZZZZZ poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 529100XX ZZZZZZZZ - If u32RegXX != ZZZZZZZZ poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 529200XX ZZZZZZZZ - If u32RegXX > ZZZZZZZZ poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 529300XX ZZZZZZZZ - If u32RegXX => ZZZZZZZZ poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 529400XX ZZZZZZZZ - If u32RegXX < ZZZZZZZZ poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 529500XX ZZZZZZZZ - If u32RegXX =< ZZZZZZZZ poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 529600XX ZZZZZZZZ - If u32RegXX & ZZZZZZZZ = ZZZZZZZZ poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 529700XX ZZZZZZZZ - If u32RegXX & ZZZZZZZZ != ZZZZZZZZ poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 529A00XX ZZZZZZZZ - If u32RegXX & ZZZZZZZZ = u32RegXX poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 529B00XX ZZZZZZZZ - If u32RegXX & ZZZZZZZZ != u32RegXX poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 52A0YYXX 00000000 - If u32(RegYY) == u32(RegXX) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 52A1YYXX 00000000 - If u32(RegYY) != u32(RegXX) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 52A2YYXX 00000000 - If u32(RegYY) > u32(RegXX) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 52A3YYXX 00000000 - If u32(RegYY) => u32(RegXX) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 52A4YYXX 00000000 - If u32(RegYY) < u32(RegXX) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 52A5YYXX 00000000 - If u32(RegYY) =< u32(RegXX) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line
+;
+;* 52A600XX ZZZZZZZZ - If u32(RegXX) & ZZZZZZZZ = ZZZZZZZZ poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 52A700XX ZZZZZZZZ - If u32(RegXX) & ZZZZZZZZ != ZZZZZZZZ poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 52AA00XX ZZZZZZZZ - If u32(RegXX) & ZZZZZZZZ = u32(RegXX) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 52AB00XX ZZZZZZZZ - If u32(RegXX) & ZZZZZZZZ != u32(RegXX) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 52B000XX TTTTTTTT - If u32RegXX == (TTTTTTTT) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 52B100XX TTTTTTTT - If u32RegXX != (TTTTTTTT) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 52B200XX TTTTTTTT - If u32RegXX > (TTTTTTTT) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 52B300XX TTTTTTTT - If u32RegXX => (TTTTTTTT) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 52B400XX TTTTTTTT - If u32RegXX < (TTTTTTTT) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 52B600XX TTTTTTTT - If u32RegXX & (TTTTTTTT) = (TTTTTTTT) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 52B700XX TTTTTTTT - If u32RegXX & (TTTTTTTT) != (TTTTTTTT) poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 52BA00XX TTTTTTTT - If u32RegXX & (TTTTTTTT) = u32RegXX poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+;
+;* 52BB00XX TTTTTTTT - If u32RegXX & (TTTTTTTT) != u32RegXX poke all following codes for rest
+;  00000000 FFFF       of the cheat or until it reaches the 00000000 FFFF line.
+
+;*******************************************************************************
+
 ; [ 007 Racing (USA) (2000) (Electronic Arts) {SLUS-01300, SLUS-01300CE} <007rcng> ]
 :SLUS-01300
 :SLUS-01300CE
@@ -3077,13 +3884,17 @@ D005BA88 0008
 #Infinite Balls
 80044084 0000
 #Select No. of Balls to Walk\1
-A604353E 00000002
+A6044084 00000003
 #Select No. of Balls to Walk\2
-A604353E 00000001
+A6044084 00000002
 #Select No. of Balls to Walk\3
 A6044084 00000001
 #Infinite Strikes
 8004353E 0000
+#Select No. of Strikes to Start On\1
+A604353E 00000002
+#Select No. of Strikes to Start On\2
+A604353E 00000001
 #Infinite Outs
 80043BA6 0000
 #Select No. of Outs and you are Out\1
@@ -10001,8 +10812,7 @@ A70277FE 14401400
 #Indestructible Bomberman
 A60CCAE2 00002000
 #Infinite Lives
-8007F038 0009
-800CDB70 0009
+800CCB50 0009
 #Stop Timer
 80077B82 003B
 #Have All Needed Crystals
@@ -10016,6 +10826,9 @@ D0077BD2 0005
 800CCAE2 2000
 #Infinite Time
 80078BF8 4000
+#Infinite Lives (Alt)
+8007F038 0009
+800CDB70 0009
 #Invincibility (Alt)
 800CDB32 0101
 #First Four Worlds Open
@@ -12005,7 +12818,8 @@ D002A3F8 FFFF
 ; [ Codename - Tenka (USA, v1.0) (1997) (Psygnosis) {SCUS-94409} <cntenkaa> ]
 :SCUS-94409
 #Infinite Ammo
-300662D2 0001
+80059A6C 0063
+80059A78 0063
 #Infinite Armor
 80019DDA 00C8
 #Infinite Energy
@@ -12036,6 +12850,8 @@ D002A3F8 FFFF
 800662CE 0001
 #Have Level Warp Option (Pause Menu)
 800662D0 0001
+#Infinite Ammo (Alt)
+300662D2 0001
 #Infinite HPS (Health)
 300662D6 0001
 ;#Widescreen 16-9 Y-
@@ -14330,6 +15146,9 @@ D01EC367 0000
 #Blizzard Bluff\Race won
 3008FF59 0001
 #Blizzard Bluff\Start on 3rd lap
+D01DBB44 0000
+301DBB44 0002
+#Blizzard Bluff\Start on 3rd lap (Alt)
 D01EC374 0000
 301EC374 0002
 #Coco Park\All time-crates
@@ -14381,6 +15200,9 @@ D01BF8FB 0000
 #Coco Park\Race won
 3008FF5A 0010
 #Coco Park\Start on 3rd lap
+D01AFCC0 0000
+301AFCC0 0002
+#Coco Park\Start on 3rd lap (Alt)
 D01BF908 0000
 301BF908 0002
 #Cortex Castle\All time-crates
@@ -14432,6 +15254,9 @@ D01F4513 0000
 #Cortex Castle\Race won
 3008FF5A 0001
 #Cortex Castle\Start on 3rd lap
+D01E3DC4 0000
+301E3DC4 0002
+#Cortex Castle\Start on 3rd lap (Alt)
 D01F4520 0000
 301F4520 0002
 #Crash Cove\All time-crates
@@ -14483,6 +15308,9 @@ D01F0D2F 0000
 #Crash Cove\Race won
 3008FF59 0002
 #Crash Cove\Start on 3rd lap
+D01E0084 0000
+301E0084 0002
+#Crash Cove\Start on 3rd lap (Alt)
 D01F0D3C 0000
 301F0D3C 0002
 #Dingo Canyon\All time-crates
@@ -14646,14 +15474,71 @@ D0096EA4 DF7F
 D0096EAC DF7F
 301E9792 0009
 #Dingo Canyon\Infinite Wumpa-Fruits
+D01B5160 0000
+301B5160 000A
+#Dingo Canyon\Infinite Wumpa-Fruits (Alt 1)
+D01B57D0 0000
+301B57D0 000A
+#Dingo Canyon\Infinite Wumpa-Fruits (Alt 2)
+D01B5E40 0000
+301B5E40 000A
+#Dingo Canyon\Infinite Wumpa-Fruits (Alt 3)
+D01B64B0 0000
+301B64B0 000A
+#Dingo Canyon\Infinite Wumpa-Fruits (Alt 4)
+D01C2134 0000
+301C2134 000A
+#Dingo Canyon\Infinite Wumpa-Fruits (Alt 5)
+D01E911C 0000
+301E911C 000A
+#Dingo Canyon\Infinite Wumpa-Fruits (Alt 6)
 D01E978C 0000
 301E978C 000A
 #Dingo Canyon\Infinite pickups
+D01B5167 0000
+301B5167 000A
+#Dingo Canyon\Infinite pickups (Alt 1)
+D01B57D7 0000
+301B57D7 000A
+#Dingo Canyon\Infinite pickups (Alt 2)
+D01B5E47 0000
+301B5E47 000A
+#Dingo Canyon\Infinite pickups (Alt 3)
+D01B64B7 0000
+301B64B7 000A
+#Dingo Canyon\Infinite pickups (Alt 4)
+D01C213B 0000
+301C213B 000A
+#Dingo Canyon\Infinite pickups (Alt 5)
+D01E9123 0000
+301E9123 000A
+#Dingo Canyon\Infinite pickups (Alt 6)
 D01E9793 0000
 301E9793 000A
 #Dingo Canyon\Race won
 3008FF58 0040
 #Dingo Canyon\Start on 3rd lap
+D01B1728 0000
+301B1728 0002
+#Dingo Canyon\Start on 3rd lap (Alt 1)
+D01B5174 0000
+301B5174 0002
+#Dingo Canyon\Start on 3rd lap (Alt 2)
+D01B57E4 0000
+301B57E4 0002
+#Dingo Canyon\Start on 3rd lap (Alt 3)
+D01B5E54 0000
+301B5E54 0002
+#Dingo Canyon\Start on 3rd lap (Alt 4)
+D01B64C4 0000
+301B64C4 0002
+#Dingo Canyon\Start on 3rd lap (Alt 5)
+D01C2148 0000
+301C2148 0002
+#Dingo Canyon\Start on 3rd lap (Alt 6)
+D01E9130 0000
+301E9130 0002
+#Dingo Canyon\Start on 3rd lap (Alt 7)
 D01E97A0 0000
 301E97A0 0002
 #Dragon Mines\All time-crates
@@ -14705,6 +15590,9 @@ D01E8BCB 0000
 #Dragon Mines\Race won
 3008FF58 0080
 #Dragon Mines\Start on 3rd lap
+D01D780C 0000
+301D780C 0002
+#Dragon Mines\Start on 3rd lap (Alt)
 D01E8BD8 0000
 301E8BD8 0002
 #Freezes Clock In All Timed Races
@@ -14852,6 +15740,9 @@ D01F4E0F 0000
 #Mystery Caves\Race won
 3008FF59 0080
 #Mystery Caves\Start on 3rd lap
+D01E389C 0000
+301E389C 0002
+#Mystery Caves\Start on 3rd lap (Alt)
 D01F4E1C 0000
 301F4E1C 0002
 #N.Gin Laboratory\All time-crates
@@ -15036,6 +15927,9 @@ D01F3D13 0000
 #Oxide Station\Race won
 3008FF5A 0008
 #Oxide Station\Start on 3rd lap
+D01E3B14 0000
+301E3B14 0002
+#Oxide Station\Start on 3rd lap (Alt)
 D01F3D20 0000
 301F3D20 0002
 #Papu Papu's Challenge\Have Aku-Aku-/Uka-Uka-masks (Press L2 + Circle)
@@ -15131,6 +16025,9 @@ D01EC29B 0000
 #Papu's Pyramid\Race won
 3008FF59 0008
 #Papu's Pyramid\Start on 3rd lap
+D01DDDF0 0000
+301DDDF0 0002
+#Papu's Pyramid\Start on 3rd lap (Alt)
 D01EC2A8 0000
 301EC2A8 0002
 #Pinstripe's Challenge\Have Aku-Aku-/Uka-Uka-masks (Press L2 + Circle)
@@ -15223,6 +16120,9 @@ D01F3297 0000
 #Polar Pass\Race won
 3008FF5A 0004
 #Polar Pass\Start on 3rd lap
+D01E1D24 0000
+301E1D24 0002
+#Polar Pass\Start on 3rd lap (Alt)
 D01F32A4 0000
 301F32A4 0002
 #Rampage Ruins\Have Aku-Aku-/Uka-Uka-masks (Press L2 + Circle)
@@ -15395,6 +16295,9 @@ D01D462B 0000
 #Roo's Tubes\Race won
 3008FF59 0010
 #Roo's Tubes\Start on 3rd lap
+D01C3074 0000
+301C3074 0002
+#Roo's Tubes\Start on 3rd lap (Alt)
 D01D4638 0000
 301D4638 0002
 #Sewer Speeding\All time-crates
@@ -15446,6 +16349,9 @@ D01DD59F 0000
 #Sewer Speeding\Race won
 3008FF59 0040
 #Sewer Speeding\Start on 3rd lap
+D01CEFE8 0000
+301CEFE8 0002
+#Sewer Speeding\Start on 3rd lap (Alt)
 D01DD5AC 0000
 301DD5AC 0002
 #Skull Rock\Have Aku-Aku-/Uka-Uka-masks (Press L2 + Circle)
@@ -15602,6 +16508,9 @@ D01F0087 0000
 #Tiny Arena\Race won
 3008FF5A 0020
 #Tiny Arena\Start on 3rd lap
+D01E37DC 0000
+301E37DC 0002
+#Tiny Arena\Start on 3rd lap (Alt)
 D01F0094 0000
 301F0094 0002
 #Turbo Track\All time-crates
@@ -15897,7 +16806,10 @@ D0059270 000F
 #Infinite Anti-Shield Lasers
 80119C4C 0000
 #Infinite Secondary Weapon
-30011936 0001
+80119D28 0005
+80119D5C 0005
+800FE472 0005
+80119CF4 0005
 #Energy Weapon Never Overheats
 80119C4C 0000
 80119C80 0000
@@ -15923,6 +16835,8 @@ D0059270 000F
 30011934 0001
 #Stage Select Open
 30011935 0001
+#Infinite Secondary Weapon (Alt)
+30011936 0001
 #Super Cooled Weapons
 30011937 0001
 
@@ -17404,7 +18318,7 @@ A7136F64 10000400
 #Have Important Item\Gyro Radar
 3005F5EC 0001
 #Have Important Item\Message-3
-3005F5FA 0001
+3005F5EE 0001
 #Have Important Item\X-Mechpart
 3005F5F0 0001
 #Have Important Item\Message-2
@@ -17415,6 +18329,8 @@ A7136F64 10000400
 3005F5F6 0001
 #Have Important Item\Ship Key
 3005F5F8 0001
+#Have Important Item\Message-3 (Alt)
+3005F5FA 0001
 #Have Important Item\Electroder
 3005F5FC 0001
 #Have Important Item\Adamantium Core
@@ -17854,9 +18770,7 @@ A60C7C42 00030503
 D00B1418 000A
 800C7C42 0403
 #Infinite Time-Wipeout Missions
-800C1D04 1EC8
-800C1D08 184F
-800C1D0C 10D1
+800480CA 2400
 #Clear Time Is 0.00.00
 900C14C4 00000000
 #Used 0 Continues
@@ -17911,6 +18825,10 @@ D30B9508 0500
 D00B1418 0002
 D20B9508 1F00
 100B9508 0010
+#Infinite Time-Wipeout Missions (Alt)
+800C1D04 1EC8
+800C1D08 184F
+800C1D0C 10D1
 #Walk Thru Walls
 80080916 2400
 8008093A 2400
@@ -18740,11 +19658,15 @@ D00AF130 0012
 8005C924 0112
 #Select Rincewind's 1st Item\Pickpocket
 8005C924 0113
-#Select Rincewind's 1st Item\Picture(Octopus)
+#Select Rincewind's 1st Item\Picture 1(Octopus)
 8005C924 0114
-#Select Rincewind's 1st Item\Picture
+#Select Rincewind's 1st Item\Picture 2
+8005C924 0115
+#Select Rincewind's 1st Item\Picture 3 (framed)
+8005C924 0116
+#Select Rincewind's 1st Item\Picture 4
 8005C924 0117
-#Select Rincewind's 1st Item\Picture (framed)
+#Select Rincewind's 1st Item\Picture 5 (framed)
 8005C924 0118
 #Select Rincewind's 1st Item\Pot
 8005C924 0119
@@ -18810,7 +19732,9 @@ D00AF130 0012
 8005C924 0137
 #Select Rincewind's 1st Item\Tankard (wine)
 8005C924 0138
-#Select Rincewind's 1st Item\Tankard (2 with beer)
+#Select Rincewind's 1st Item\Tankard A (2 with beer)
+8005C924 0139
+#Select Rincewind's 1st Item\Tankard B (2 with beer)
 8005C924 013A
 #Select Rincewind's 1st Item\Tomato
 8005C924 013B
@@ -19000,11 +19924,15 @@ D00AF130 0012
 8005C928 0112
 #Select Rincewind's 2nd Item\Pickpocket
 8005C928 0113
-#Select Rincewind's 2nd Item\Picture(Octopus)
+#Select Rincewind's 2nd Item\Picture 1(Octopus)
 8005C928 0114
-#Select Rincewind's 2nd Item\Picture
+#Select Rincewind's 2nd Item\Picture 2
+8005C928 0115
+#Select Rincewind's 2nd Item\Picture 3 (framed)
+8005C928 0116
+#Select Rincewind's 2nd Item\Picture 4
 8005C928 0117
-#Select Rincewind's 2nd Item\Picture (framed)
+#Select Rincewind's 2nd Item\Picture 5 (framed)
 8005C928 0118
 #Select Rincewind's 2nd Item\Pot
 8005C928 0119
@@ -19070,7 +19998,9 @@ D00AF130 0012
 8005C928 0137
 #Select Rincewind's 2nd Item\Tankard (wine)
 8005C928 0138
-#Select Rincewind's 2nd Item\Tankard (2 with beer)
+#Select Rincewind's 2nd Item\Tankard A (2 with beer)
+8005C928 0139
+#Select Rincewind's 2nd Item\Tankard B (2 with beer)
 8005C928 013A
 #Select Rincewind's 2nd Item\Tomato
 8005C928 013B
@@ -24466,14 +25396,14 @@ E008DF7E 0000
 #Deke Item Disc 3\Activate Cheat Infinite Ammo, No Fear + Infinite Health
 80077810 000F
 #Hana Item Disc 4\Have Stone Scroll
-E008DF70 0000
-3008DF70 0001
+E008DF5A 0000
+3008DF5A 0001
 #Hana Item Disc 4\Have Stone Willow
 E008DF5B 0000
 3008DF5B 0001
 #Hana Item Disc 4\Have Stone Eye
-E008DF73 0000
-3008DF73 0001
+E008DF5C 0000
+3008DF5C 0001
 #Hana Item Disc 4\Have Paper Gate
 E008DF64 0000
 3008DF64 0001
@@ -24481,8 +25411,8 @@ E008DF64 0000
 E008DF65 0000
 3008DF65 0001
 #Hana Item Disc 4\Have Tree Branch
-E008DF71 0000
-3008DF71 0001
+E008DF66 0000
+3008DF66 0001
 #Hana Item Disc 4\Have Paper Pistol
 E008DF67 0000
 3008DF67 0001
@@ -24510,9 +25440,18 @@ E008DF6E 0000
 #Hana Item Disc 4\Have Doll
 E008DF6F 0000
 3008DF6F 0001
+#Hana Item Disc 4\Have Stone Scroll (Alt)
+E008DF70 0000
+3008DF70 0001
+#Hana Item Disc 4\Have Tree Branch (Alt)
+E008DF71 0000
+3008DF71 0001
 #Hana Item Disc 4\Have Gate Key
 E008DF72 0000
 3008DF72 0001
+#Hana Item Disc 4\Have Stone Eye (Alt)
+E008DF73 0000
+3008DF73 0001
 #Hana Item Disc 4\Have Stone Tree Half
 E008DF74 0000
 3008DF74 0001
@@ -24523,14 +25462,14 @@ E008DF75 0000
 E008DF76 0000
 3008DF76 0001
 #Royce Item Disc 4\Have Stone Scroll
-E008DFF4 0000
-3008DFF4 0001
+E008DFDE 0000
+3008DFDE 0001
 #Royce Item Disc 4\Have Stone Willow
 E008DFDF 0000
 3008DFDF 0001
 #Royce Item Disc 4\Have Stone Eye
-E008DFF7 0000
-3008DFF7 0001
+E008DFE0 0000
+3008DFE0 0001
 #Royce Item Disc 4\Have Paper Gate
 E008DFE8 0000
 3008DFE8 0001
@@ -24538,8 +25477,8 @@ E008DFE8 0000
 E008DFE9 0000
 3008DFE9 0001
 #Royce Item Disc 4\Have Tree Branch
-E008DFF5 0000
-3008DFF5 0001
+E008DFEA 0000
+3008DFEA 0001
 #Royce Item Disc 4\Have Paper Pistol
 E008DFEB 0000
 3008DFEB 0001
@@ -24567,9 +25506,18 @@ E008DFF2 0000
 #Royce Item Disc 4\Have Doll
 E008DFF3 0000
 3008DFF3 0001
+#Royce Item Disc 4\Have Stone Scroll (Alt)
+E008DFF4 0000
+3008DFF4 0001
+#Royce Item Disc 4\Have Tree Branch (Alt)
+E008DFF5 0000
+3008DFF5 0001
 #Royce Item Disc 4\Have Gate Key
 E008DFF6 0000
 3008DFF6 0001
+#Royce Item Disc 4\Have Stone Eye (Alt)
+E008DFF7 0000
+3008DFF7 0001
 #Royce Item Disc 4\Have Stone Tree Half
 E008DFF8 0000
 3008DFF8 0001
@@ -32182,8 +33130,8 @@ D3066CC2 0001
 801DE28A 0020
 #Select Slot 1 Contents\Mirror
 801DE28A 0021
-#Select Slot 1 Contents\Coin
-801DE28A 0076
+#Select Slot 1 Contents\Coin 1
+801DE28A 0022
 #Select Slot 1 Contents\Knife
 801DE28A 0023
 #Select Slot 1 Contents\Ax
@@ -32192,7 +33140,9 @@ D3066CC2 0001
 801DE28A 0025
 #Select Slot 1 Contents\Picture
 801DE28A 0026
-#Select Slot 1 Contents\XXXX
+#Select Slot 1 Contents\XXXX 1
+801DE28A 0027
+#Select Slot 1 Contents\XXXX 2
 801DE28A 0028
 #Select Slot 1 Contents\Film
 801DE28A 0029
@@ -32276,6 +33226,8 @@ D3066CC2 0001
 801DE28A 0074
 #Select Slot 1 Contents\Garlic
 801DE28A 0075
+#Select Slot 1 Contents\Coin 2
+801DE28A 0076
 #Select Slot 1 Contents\Sword
 801DE28A 0077
 #Select Slot 2 Contents\Nothing
@@ -32306,8 +33258,8 @@ D3066CC2 0001
 801DE28C 0020
 #Select Slot 2 Contents\Mirror
 801DE28C 0021
-#Select Slot 2 Contents\Coin
-801DE28C 0076
+#Select Slot 2 Contents\Coin 1
+801DE28C 0022
 #Select Slot 2 Contents\Knife
 801DE28C 0023
 #Select Slot 2 Contents\Ax
@@ -32316,7 +33268,9 @@ D3066CC2 0001
 801DE28C 0025
 #Select Slot 2 Contents\Picture
 801DE28C 0026
-#Select Slot 2 Contents\XXXX
+#Select Slot 2 Contents\XXXX 1
+801DE28C 0027
+#Select Slot 2 Contents\XXXX 2
 801DE28C 0028
 #Select Slot 2 Contents\Film
 801DE28C 0029
@@ -32400,6 +33354,8 @@ D3066CC2 0001
 801DE28C 0074
 #Select Slot 2 Contents\Garlic
 801DE28C 0075
+#Select Slot 2 Contents\Coin 2
+801DE28C 0076
 #Select Slot 2 Contents\Sword
 801DE28C 0077
 #Select Slot 3 Contents\Nothing
@@ -32430,8 +33386,8 @@ D3066CC2 0001
 801DE28E 0020
 #Select Slot 3 Contents\Mirror
 801DE28E 0021
-#Select Slot 3 Contents\Coin
-801DE28E 0076
+#Select Slot 3 Contents\Coin 1
+801DE28E 0022
 #Select Slot 3 Contents\Knife
 801DE28E 0023
 #Select Slot 3 Contents\Ax
@@ -32440,7 +33396,9 @@ D3066CC2 0001
 801DE28E 0025
 #Select Slot 3 Contents\Picture
 801DE28E 0026
-#Select Slot 3 Contents\XXXX
+#Select Slot 3 Contents\XXXX 1
+801DE28E 0027
+#Select Slot 3 Contents\XXXX 2
 801DE28E 0028
 #Select Slot 3 Contents\Film
 801DE28E 0029
@@ -32524,6 +33482,8 @@ D3066CC2 0001
 801DE28E 0074
 #Select Slot 3 Contents\Garlic
 801DE28E 0075
+#Select Slot 3 Contents\Coin 2
+801DE28E 0076
 #Select Slot 3 Contents\Sword
 801DE28E 0077
 #Select Slot 4 Contents\Nothing
@@ -32554,8 +33514,8 @@ D3066CC2 0001
 801DE290 0020
 #Select Slot 4 Contents\Mirror
 801DE290 0021
-#Select Slot 4 Contents\Coin
-801DE290 0076
+#Select Slot 4 Contents\Coin 1
+801DE290 0022
 #Select Slot 4 Contents\Knife
 801DE290 0023
 #Select Slot 4 Contents\Ax
@@ -32564,7 +33524,9 @@ D3066CC2 0001
 801DE290 0025
 #Select Slot 4 Contents\Picture
 801DE290 0026
-#Select Slot 4 Contents\XXXX
+#Select Slot 4 Contents\XXXX 1
+801DE290 0027
+#Select Slot 4 Contents\XXXX 2
 801DE290 0028
 #Select Slot 4 Contents\Film
 801DE290 0029
@@ -32648,6 +33610,8 @@ D3066CC2 0001
 801DE290 0074
 #Select Slot 4 Contents\Garlic
 801DE290 0075
+#Select Slot 4 Contents\Coin 2
+801DE290 0076
 #Select Slot 4 Contents\Sword
 801DE290 0077
 
@@ -32965,7 +33929,7 @@ D00B44BC 03E8
 #P1 50% Energy
 D00B44BC 03E8
 800B44C4 03E7
-800B44BC 02EE
+800B44BC 01F4
 #P2 25% Energy
 D00B44C0 03E8
 800B44C8 03E7
@@ -32973,7 +33937,7 @@ D00B44C0 03E8
 #P2 50% Energy
 D00B44C0 03E8
 800B44C8 03E7
-800B44C0 02EE
+800B44C0 01F4
 #P1 No Energy
 800B44BC 0000
 #P2 No Energy
@@ -34614,20 +35578,30 @@ D000857C 0001
 #Compy Level\Infinite Energy (Aisle of Giants)
 800D0C7E 0064
 #Compy Level\Infinite Energy (Beneath The Surface)
+80088ACE 0064
+#Compy Level\Infinite Energy (Beneath The Surface) (Alt)
 8008A664 0063
 #Compy Level\Infinite Energy (Creek Bed)
 800AB90E 0064
 #Compy Level\Infinite Energy (High Ridge)
 800B3A7E 0064
 #Compy Level\Infinite Energy (Plains)
+8009886E 0064
+#Compy Level\Infinite Energy (Plains) (Alt)
 8009A404 0063
 #Compy Level\Infinite Energy (Rain Forest)
 800AA1FE 0064
 #Compy Level\Infinite Energy (River's Edge)
+800A4F6E 0064
+#Compy Level\Infinite Energy (River's Edge) (Alt)
 800A6B04 0063
 #Compy Level\Infinite Energy (Sleeping Titan)
+800A441E 0064
+#Compy Level\Infinite Energy (Sleeping Titan) (Alt)
 800A5FB4 0063
 #Compy Level\Infinite Energy (Tidal Cavern)
+800DF66E 0064
+#Compy Level\Infinite Energy (Tidal Cavern) (Alt)
 800E1204 0063
 #Compy Level\Infinite Lives (Aisle of Giants)
 800D2814 0063
@@ -35635,6 +36609,8 @@ A60912F4 00000003
 ; [ March Madness '98 (USA) (1998) (Electronic Arts) {SLUS-00526} <marmad98> ]
 :SLUS-00526
 #Select Away Team Score\100
+80016580 0064
+#Select Away Team Score\0
 80016580 0000
 #Select Home Team Score\100
 80015120 0064
@@ -41118,6 +42094,8 @@ D008235A 0BB8
 ; [ NBA Showtime - NBA on NBC (USA) (1999) (Midway Home Entertainment) {SLUS-00948} <nbashowt> ]
 :SLUS-00948
 #Select Team 1 Score\100
+800B5160 0064
+#Select Team 1 Score\0
 800B5160 0000
 #Select Team 2 Score\100
 800B517C 0064
@@ -42394,6 +43372,8 @@ D0098658 AC43
 8004771A 0000
 #Select Away Team Score\9
 80047754 0009
+#Select Away Team Score\0
+80047754 0000
 #More Creation Points
 8012D298 00AF
 #Infinite Skill Remaining Points:Turn the off before playing a game or the game might freeze.
@@ -43683,6 +44663,15 @@ C009D0F0 0100
 00000000 FFFF
 #Select All Cards In Storage
 C009D0F0 0100
+800C1EFA 00DD
+900C1EFC 00DF00DE
+900C1F00 00E100E0
+900C1F04 00E300E2
+900C1F08 00E500E4
+800C1F0C 00E6
+00000000 FFFF
+#Select All Cards In Storage (Alt)
+C009D0F0 0100
 800C1F0E 00E7
 900C1F10 00E900E8
 900C1F14 00EB00EA
@@ -43950,7 +44939,7 @@ A708B3E8 10000400
 #Infinite Credits
 800E7D28 0003
 #Invincibility
-800ED7C6 0003
+800E7F60 0004
 #Infinite Buster Grenades
 800E7F5C 0003
 #Max Vulcan
@@ -43965,6 +44954,8 @@ A708B3E8 10000400
 800E8004 0002
 #Select Infinite Missiles\Mrm Missiles
 800E8004 0001
+#Invincibility (Alt)
+800ED7C6 0003
 
 ; [ Phix - The Adventure (USA) (2003) (Agetec / A1 Games) {SLUS-01523} <phix> ]
 :SLUS-01523
@@ -44170,8 +45161,12 @@ A6030FB0 00130014
 #P2 Infinite Continues
 800BA984 0005
 #Use only one of these options\Power-Shot Deactivated
+800B94BC 7200
+#Use only one of these options\Power-Shot Deactivated (Alt)
 800B94CC 7200
 #Use only one of these options\Power-Shot Activated
+300B94BD 0072
+#Use only one of these options\Power-Shot Activated (Alt)
 300B94CD 0079
 #Use only one of these options\P1 Always Power-Shooting
 800B94C4 7200
@@ -45984,6 +46979,10 @@ D009B150 0001
 #Infinite Oxygen
 8009B030 0EF3
 #Have All Keys
+801BE972 0001
+#Have All Keys (Alt 1)
+801BE95A 0001
+#Have All Keys  (Alt 2)
 801BE98A 0001
 #Room + Stage Skip Press R1 and R2 buttons to scroll forward for each and hold the buttons to warp there
 3009B334 0001
@@ -47422,11 +48421,13 @@ A60BE36C 00000005
 #Unlock Trolley they do not save to memory card.
 801F2E0C 0100
 #Unlock Clockwork
-801F3CBC 0100
+801F31B8 0100
 #Unlock Clockwork 2
 801F3564 0100
 #Unlock Clockwork 3
 801F3910 0100
+#Unlock Clockwork (Alt)
+801F3CBC 0100
 #Unlock Probe UFO
 801F4068 0100
 #Unlock RC
@@ -47563,7 +48564,8 @@ A60BE36C 00000005
 80080274 0000
 80080278 0000
 #Have All Cars
-80176AD8 000D
+801D6DFC 0001
+801DB008 0001
 #Have All Tracks
 80176C00 00FF
 #Super Handling
@@ -47588,6 +48590,8 @@ A60BE36C 00000005
 80080252 05FF
 #Invisible Car
 80080196 000F
+#Have All Cars (Alt)
+80176AD8 000D
 #Custom Logo Colors(Team Logo Design Screen Under Paint)
 3007F638 0001
 #Darwin Awards' Jato Car
@@ -50936,17 +51940,23 @@ A6198584 00900001
 #P1 Select Character\Chun Li (SSF2 Turbo) (Arcade Mode)
 8019823A 1200
 #P1 Select Character\Gen (New) (Arcade Mode)
-8019823A 1900
+8019823A 1300
 #P1 Select Character\Akuma (New) (Arcade Mode)
-8019823A 1600
+8019823A 1400
 #P1 Select Character\Ryu (New) (Arcade Mode)
-8019823A 1B00
+8019823A 1500
+#P1 Select Character\Akuma (Alt) (New) (Arcade Mode)
+8019823A 1600
 #P1 Select Character\Rose (New) (Arcade Mode)
 8019823A 1700
 #P1 Select Character\Rolento (New) (Arcade Mode)
 8019823A 1800
+#P1 Select Character\Gen (Alt) (New) (Arcade Mode)
+8019823A 1900
 #P1 Select Character\Ken (New) (Arcade Mode)
 8019823A 1A00
+#P1 Select Character\Ryu (Alt) (New) (Arcade Mode)
+8019823A 1B00
 
 ; [ Street Fighter Alpha 3 (USA) (1999) (Capcom Entertainment) {SLUS-00821, SLUS-00821GH} <sfa3> ]
 :SLUS-00821
@@ -51611,44 +52621,70 @@ A7044A92 10401000
 8013BFAC 012C
 #Infinite Health Stage 1-3
 80136F1C 012C
-#No Health Boss
-80128F5C 0000
+#No Health Boss Stage 1-3
+8013749C 0000
 #Infinite Health Stage 2-1
 8014F514 012C
 #Infinite Health Stage 2-2
 8015466C 012C
+#No Health Boss Stage 2-2
+80154BEC 0000
 #Infinite Health Stage 3-1
 801325D4 012C
 #Infinite Health Stage 3-2
 801277FC 012C
 #Infinite Health Stage 3-3
 8013033C 012C
+#No Health Boss Stage 3-3
+801308BC 0000
 #Infinite Health Stage 3-4
 8013A1EC 012C
+#No Health Boss Stage 3-4
+8013A76C 0000
 #Infinite Health Stage 3-5
 8012F574 012C
+#No Health Boss Stage 3-5
+8012FBF4 0000
 #Infinite Health Stage 4-1
 801324E4 012C
+#No Health Boss Stage 4-1
+80132964 0000
 #Infinite Health Stage 4-2
 8011DFDC 012C
+#No Health Boss Stage 4-2
+8011E45C 0000
 #Infinite Health Stage 4-3
 8012A74C 012C
+#No Health Boss Stage 4-3
+8012ABCC 0000
 #Infinite Health Stage 4-4
 80125674 012C
+#No Health Boss Stage 4-4
+80125AF4 0000
 #Infinite Health Stage 5-2-A
 8012623C 012C
-#No Health Spider Mini-Boss
+#No Health Spider Mini-Boss Stage 5-2-A
 801271BC 0000
+#No Health Boss Stage 5-2-A
+801266BC 0000
 #Infinite Health Stage 5-2-B
 8012C874 012C
+#No Health Boss Stage 5-2-B
+8012CCF4 0000
 #Infinite Health Stage 5-3
 8011C12C 012C
+#No Health Boss Stage 5-3
+8011C5AC 0000
 #Infinite Health Stage 6-2
 8013807C 012C
 #Infinite Health Stage 6-3
 801446C4 012C
+#No Health Boss Stage 6-3
+80144B44 0000
 #Infinite Health Stage 6-4
 8012AB5C 012C
+#No Health Boss Stage 6-4
+8012AFDC 0000
 #Stop Time Before Core Blows
 80128AA0 1C2F
 #Infinite Health Stage 7-1
@@ -51657,9 +52693,11 @@ A7044A92 10401000
 8015814C 0000
 #Infinite Health Stage 7-3
 80128ADC 012C
+#No Health Boss Stage 7-3
+80128F5C 0000
 #Infinite Health Stage 7-4
 801578CC 012C
-#No Health Boss 7-4
+#No Health Boss Stage 7-4
 80157F4C 0000
 #Infinite Health Restore World Boss Stage
 801484E4 012C
@@ -52247,7 +53285,7 @@ A71C1FB6 14401400
 #Have Skull Shield
 30097998 0010
 #Have Alucard Shield
-30097A31 0010
+3009799A 0010
 #Have Basilard
 3009799C 0010
 #Have Short Sword
@@ -52414,6 +53452,8 @@ A71C1FB6 14401400
 30097A2F 0010
 #Have Library Card
 30097A30 0010
+#Have Alucard Shield (Alt)
+30097A31 0010
 #Have Silver Plate
 30097A39 0010
 #Have Platinum Mail
@@ -53707,10 +54747,24 @@ D0077380 0018
 #High Caves\Have all stolen treasures
 8007DDE8 01F4
 #Home\Have all dragons freed
+8007DC68 0004
+#Home\Have all dragons freed (Alt 1)
+8007DC80 0003
+#Home\Have all dragons freed (Alt 2)
+8007DC98 0003
+#Home\Have all dragons freed (Alt 3)
 8007DCB0 0002
-#Home\Have all dragons freede
+#Home\Have all dragons freed (Alt 4)
 8007DCC8 0003
 #Home\Have all stolen treasures
+8007DDB0 0064
+#Home\Have all stolen treasures (Alt 1)
+8007DDC8 00C8
+#Home\Have all stolen treasures (Alt 2)
+8007DDE0 012C
+#Home\Have all stolen treasures (Alt 3)
+8007DDF8 012C
+#Home\Have all stolen treasures (Alt 4)
 8007DE10 012C
 #Ice Cavern\Have all dragons freed
 8007DC8C 0005
@@ -57175,6 +58229,8 @@ D0087228 0006
 D008725C 1021
 80087262 2400
 #Amateur Championship GT1 Complete
+3002794C 0001
+#Amateur Championship GT1 Complete (Alt)
 3002794E 0001
 #Amateur Championship Prototype Complete
 3002794D 0001
@@ -57528,6 +58584,8 @@ A707C6AC 10000400
 #Infinite Time Sage
 8004B3B4 44EC
 #Max Health Character 1 (Blue Team)
+80110108 270F
+#Max Health Character 1 (Blue Team) (Alt)
 801104AC 270F
 
 ; [ Team Losi RC Racer (USA) (1998) (Fox Interactive) {SLUS-00666} <teamlosi> ]
@@ -61020,69 +62078,13 @@ C000E226 800B
 50001302 0000
 801E95D8 FFFF
 #Both Characters\Grand Master Status-Records Screen (Level 1-10 - Layout A-C)
-80010238 1300
-80010244 1300
-80010250 1300
-8001025C 1300
-80010268 1300
-80010274 1300
-80010280 1300
-8001028C 1300
-80010298 1300
-8001037C 1300
-80010388 1300
-80010394 1300
-800103A0 1300
-800103AC 1300
-800103B8 1300
-800102A4 1300
-800102B0 1300
-800102BC 1300
-800102C8 1300
-800102D4 1300
-800102E0 1300
-800102EC 1300
-800102F8 1300
-80010304 1300
-80010310 1300
-8001031C 1300
-80010328 1300
-80010334 1300
-80010340 1300
-8001034C 1300
-80010358 1300
+50001E0C 0000
 80010064 1300
-80010070 1300
-8001007C 1300
-80010088 1300
-80010094 1300
-800100A0 1300
-800100AC 1300
-800100B8 1300
-800100C4 1300
-800101A8 1300
-800101B4 1300
-800101C0 1300
-800101CC 1300
-800101D8 1300
-800101E4 1300
-800100D0 1300
-800100DC 1300
-800100E8 1300
-800100F4 1300
-80010100 1300
-8001010C 1300
-80010118 1300
-80010124 1300
-80010130 1300
-8001013C 1300
-80010148 1300
-80010154 1300
-80010160 1300
-8001016C 1300
-80010178 1300
 80010184 1300
-#Both Characters\Secret Customes
+50001E0C 0000
+80010238 1300
+80010358 1300
+#Both Characters\Secret Costumes
 8001001A 00FF
 #Both Characters\Japanese Voices In Most Levels + Levels Layout Open
 80010048 00FF
@@ -63490,8 +64492,8 @@ D00716E8 4020
 800714FE 0000
 #Select Level\Mortar-Villa Airfield
 800714FE 0001
-#Select Level\Underground Recycling Plant
-800714FE 000A
+#Select Level\Underground Recycling Plant 1
+800714FE 0002
 #Select Level\Raw Material Nano Mine
 800714FE 0003
 #Select Level\Desert Robo-Train
@@ -63506,6 +64508,8 @@ D00716E8 4020
 800714FE 0008
 #Select Level\Magneto Synchrotron Transporter
 800714FE 0009
+#Select Level\Underground Recycling Plant 2
+800714FE 000A
 #Select Level\The Frozen Lake
 800714FE 000B
 #Select Level\Mount Mutank
@@ -67904,11 +68908,13 @@ D005E1C0 0020
 #Character\Magic\Enchanter\Frost Fusion
 8004C7EC 9000
 #Character\Magic\Enchanter\Aero Guard
-8004C8BC 9000
+8004C820 9000
 #Character\Magic\Enchanter\Pyro Guard
 8004C854 9000
 #Character\Magic\Enchanter\Terra Guard
 8004C888 9000
+#Character\Magic\Enchanter\Aero Guard (Alt)
+8004C8BC 9000
 #Character\Score Menu\All Titles
 9005FEA0 FFFFFFFF
 #Character\Score Menu\Have All Monsters In Encyclopaedia
@@ -68337,6 +69343,8 @@ C001CBE8 5110
 #Young Hero\Infinite + Max MP
 901DD4EC 03E703E7
 #Yuri\Infinite + Max HP
+901DD5E4 03E703E7
+#Yuri\Infinite + Max MP
 901DD5EC 03E703E7
 #Clive\Infinite + Max HP
 901DD564 03E703E7
@@ -72783,18 +73791,6 @@ AAAAAAAA AAAAAAAA
 ;:SCUS-94475
 ;This game currently has no cheats
 
-; [ Creature Shock (Jpn) (1996) (Data East) {SLPS-00120~SLPS-00121} <crshock> ]
-#Infinite Energy Ship
-80081C88 0077
-80089BC1 0770
-800A43BA 01C1
-800A43BE 01C1
-800A43D2 00D1
-800A43D6 00D1
-800F4AD1 0770
-#Infinite Energy 1st Person
-800BBA64 005A
-
 ; [ Depth (Jpn) (1996) (Sony Computer Entertainment) {SCPS 18003} <depth> ]
 ;:SCPS18003
 ;This game currently has no cheats
@@ -73356,6 +74352,8 @@ D00E0A34 0102
 800B8666 03E7
 800B86A2 03E7
 #Select Scenario\2
+300B8EAE 0002
+#Select Scenario\3
 300B8EAE 0003
 #Select Scenario\4
 300B8EAE 0004
@@ -74191,24 +75189,40 @@ D0073F2C 0080
 800C3E7A 270F
 #Infinite HP Fourth Character (Archer)
 800C3FBE 270F
-#Infinite HP Fiith Character (Mage Girlr)
+#Infinite HP Fifth Character (Mage Girl)
 800C4102 270F
 #Gold 999999
 90177E4C 0098967F
 #Mp Infinite
 A60444C6 00830080
 #??? Hpmax
-80177EF4 03E7
+80177E2C 03E7
 #??? Mpmax
-80177EF6 03E7
-#???? Hpmax
-80177F6C 03E7
-#???? Mpmax
-80177F6E 03E7
-#?????? Hpmax
+80177E2E 03E7
+#???? Hpmax (Alt 1)
+80177E54 03E7
+#???? Mpmax (Alt 1)
+80177E56 03E7
+#???? Hpmax (Alt 2)
+80177E7C 03E7
+#???? Mpmax (Alt 2)
+80177E7E 03E7
+#??? Hpmax (Alt 3)
+80177EA4 03E7
+#??? Mpmax (Alt 3)
+80177EA6 03E7
+#?????? Hpmax (Alt 4)
 80177ECC 03E7
-#?????? Mpmax
+#?????? Mpmax (Alt 4)
 80177ECE 03E7
+#??? Hpmax (Alt 5)
+80177EF4 03E7
+#??? Mpmax (Alt 5)
+80177EF6 03E7
+#???? Hpmax (Alt 6)
+80177F6C 03E7
+#???? Mpmax (Alt 6)
+80177F6E 03E7
 
 ; [ Beat Planet Music (Jpn) (2000) (SCEI) {SCPS-18013} <beatplan> ]
 :SCPS-18013
@@ -74703,11 +75717,15 @@ A60D2600 00000100
 #Infinite HP in battle 1 person
 80145F14 03E7
 #Infinite HP in battle 2 person
-80146056 03E7
+80146054 03E7
 #Infinite HP in battle 3 person
-80146196 03E7
+80146194 03E7
 #Infinite AP in battle 1 person
 80145F16 03E7
+#Infinite AP in battle 2 person
+80146056 03E7
+#Infinite AP in battle 3 person
+80146196 03E7
 #All Gene Available
 90145544 FFFFFFFF
 #Hero Max Status
@@ -74775,18 +75793,17 @@ A60D2600 00000100
 :SLPS-01316
 #Infinite Money
 90099218 0001869F
-#Exp
-9009921C 00FFFFFF
 #Have 4 spirits
 800903B4 0007
 #Main Character\Infinite HP
-80091A80 03E8
-#Main Character\Infinite MP
-90099210 03E703E7
+8009920A 03E7
+8009920C 03E7
 #Main Character\Level = 99
 80099214 0063
 #Main Character\Exp
-8009921C FFFF
+9009921C 00FFFFFF
+#Main Character\Infinite MP
+90099210 03E703E7
 #Main Character\Max Attack
 80099220 03E7
 80099224 03E7
@@ -74796,11 +75813,16 @@ A60D2600 00000100
 #Main Character\Infinite Items
 A605636C 1A990000
 A605636E A0220000
-#Pg Main Character\Infinite
-80099212 03E7
+#Main Character\Infinite HP (Alt)
+80091A80 03E8
+
 #Invincibility
 300919AB 0080
 30091AA2 0000
+#Walk Through Walls
+30052657 0020
+3005236B 0020
+3005244F 0020
 
 ; [ Shin Sedai Robot Senki - Brave Saga (Jpn) (1998) (Takara) {SLPS-01756} <bravesag> ]
 :SLPS-01756
@@ -74907,6 +75929,8 @@ D007C152 FFFE
 #Max Speed
 800CF402 05BC
 #Infinite Time
+8005BF98 0032
+#Infinite Time (Alt)
 80052EF8 0063
 #Always Finish 1st
 80052E3C 0001
@@ -77166,11 +78190,15 @@ D011D778 0001
 #Max Service
 3014C8B4 0063
 #Checkout Max
-3014C8FC 0063
+3014C8BC 0063
 #Max Customer Service
-3014C904 0063
+3014C8C4 0063
 #Clerk 1 (Next To The Clerk +40 H)Max Service
 3014C8F4 0063
+#Checkout Max (Alt)
+3014C8FC 0063
+#Max Customer Service (Alt)
+3014C904 0063
 #Max Cumulative number of visitors
 9014E870 3B9AC9FF
 #Max Sales of the head office
@@ -78227,7 +79255,7 @@ D005ADF0 6BF2
 #Infinite HP
 3007A536 000A
 #Infinite Time
-8005C420 0063
+3005C420 0063
 #Money Max
 8005D2D6 7530
 #Infinite Lives
@@ -79634,10 +80662,13 @@ B0200002 0000
 801A4A44 0064
 #Infinite Time
 801A0BD5 9C40
-#Infinite Time alt
-800EC9D0 0000
-#No Penalty Pts (Driving Tests) alt
+#Infinite Time (Alt 1)
+D0015B00 8888
+80015B08 0000
+#No Penalty Pts (Driving Tests)  (Alt)
 801A4AB4 0000
+#Infinite Time (Alt 2)
+800EC9D0 0000
 
 ; [ Kero Kero King (Jpn) (2000) (Media Factory) {SLPM-86621} <keroking> ]
 :SLPM-86621
@@ -83749,7 +84780,29 @@ D00E50A0 0100
 8010C8E8 00C8
 #Max Money
 8010AE3C FFFF
-#?? level 99
+#?1 level 99
+3010C6DC 0063
+#?2 level 99
+3010C708 0063
+#?3 level 99
+3010C734 0063
+#?4 level 99
+3010D4F4 0063
+#?5 level 99
+3010ECAC 0063
+#?6 level 99
+3010D0D4 0063
+#?7 level 99
+3010D0A8 0063
+#?8 level 99
+3010F0F8 0063
+#?9 level 99
+3010F0CC 0063
+#?a level 99
+3010CFF8 0063
+#?b level 99
+3010D4C9 0063
+#?c level 99
 3010D1B1 0063
 
 ; [ Sangokushi - Koumeiden (Jpn) (1997) (Koei) {SLPS-00688} <sangokou> ]
@@ -86145,18 +87198,33 @@ D009F200 0040
 801BED66 03E7
 801BED68 03E7
 #Guinb Infinite + Max HP
+801BEDA2 03E7
+801BEDA4 03E7
+#Guinb Infinite + Max BP
 801BEDA6 03E7
 801BEDA8 03E7
 #BT-01 Infinite + Max HP
+801BEDC2 03E7
+801BEDC4 03E7
+#BT-01 Infinite + Max BP
 801BEDC6 03E7
 801BEDC8 03E7
 #BT-02 Infinite + Max HP
+801BEDE2 03E7
+801BEDE4 03E7
+#BT-02 Infinite + Max BP
 801BEDE6 03E7
 801BEDE8 03E7
 #Morte Infinite + Max HP
+801BEE02 03E7
+801BEE04 03E7
+#Morte Infinite + Max BP
 801BEE06 03E7
 801BEE08 03E7
 #Firen Infinite + Max HP
+801BEE22 03E7
+801BEE24 03E7
+#Firen Infinite + Max BP
 801BEE26 03E7
 801BEE28 03E7
 #Main Character Level
@@ -86213,10 +87281,10 @@ D009F200 0040
 801BDE8A 0203
 #P1 Invincibility
 801BDE80 00FF
-#P1 Infinite Blue Smartbombs
-801BDEFA 0101
-901BDEFC 01010101
-#P1 Infinite Red Smartbombs
+#P1 Select Infinite Smartbomb Type\Blue
+801BDE92 0101
+901BDE94 01010101
+#P1 Select Infinite Smartbomb Type\Red
 801BDE92 0202
 901BDE94 02020202
 #P2 Infinite Lives
@@ -86225,7 +87293,10 @@ D009F200 0040
 801BDEF2 0203
 #P2 Invincibility
 801BDEE8 00FF
-#P2 Infinite Red Smartbombs
+#P2 Select Infinite Smartbomb Type\Blue
+801BDEFA 0101
+901BDEFC 01010101
+#P2 Select Infinite Smartbomb Type\Red
 801BDEFA 0202
 901BDEFC 02020202
 
@@ -87256,9 +88327,9 @@ A70C5BA0 10000400
 ; [ Ape Escape (Euro) (1999) (Sony Computer Entertainment Europe) {SCES-01564} <apescapee> ]
 :SCES-01564
 #Infinite Health
-800EC268 0005
+800EC388 0005
 #Infinite Oxygen
-800F4D68 0258
+800F4E88 0255
 #All Weapons
 800F5284 00FF
 #Infinite Missiles
@@ -87267,8 +88338,12 @@ A70C5BA0 10000400
 300F5281 0009
 #Infinite Lives
 800F442C 0005
+#Infinite Health (Alt)
+800EC268 0005
 #Lots Of Gold Triangles
 800F4456 FFFF
+#Infinite Oxygen (Alt)
+800F4D68 0258
 #Get One Monkey To Finish Level
 800F4454 00FF
 #Select Widescreen Aspect Ratio\16-9
@@ -89729,7 +90804,7 @@ D00C3460 F0FF
 301EF2F7 0101
 301EF2F8 0101
 #Unlock Extra Firebugs Pilots/Vehicles (Save those to your memory card and discard the. Failing to do so will freeze up the game before the race starts)
-B0050001 0000
+50000501 0000
 301EF164 0202
 
 ; [ Terracon (Euro) (2000) (Sony) {SCES-02836} <terracon> ]
@@ -90248,12 +91323,14 @@ D0033404 00C3
 D004C028 0034
 8004C02A 2400
 #Mission 1 Infinite cell phone stunner
-A607CB34 FFFF0000
+800B647C 0064
 #Mission 1Infinite Wolfram p2k
 800B6538 0064
 #Mission 1 Infinite Ammo
 A6038EE0 FFFF0000
 A6039358 FFFE0000
+#Mission 1 Infinite cell phone stunner (Alt)
+A607CB34 FFFF0000
 #Mission 1 Infinite satchel charges
 A6079E54 FFFF0000
 #Mission 2 Infinite Health
@@ -91097,7 +92174,7 @@ D0087470 0100
 #Mission Swlect (00-20)20 = FIGHTER'S HONOR
 30010030 0020
 #Hidden element Extra
-30010AB5 0002
+30010AB5 0001
 #Hidden element FREE MISSION
 30010AB5 0002
 #Hidden element MUSIC PLAYER
@@ -91534,20 +92611,29 @@ A70D9C58 10000400
 #Infinite Guns
 800EEB44 0027
 #Infinite Ammo
-300EDF1C 0027
+800EEB40 0041
 #Infinite Fuel
-800EDF0C 8FFF
+300EEB34 8FFF
 #No Damage
 800EEA60 00C8
 #Infinite Cannon Ammo
 A60EEB44 270E270F
 #Infinite Missiles
-800EDF18 0040
+A60EEB40 00400041
+#Infinite Fuel (Alt 1)
+D10EEB34 8FFF
+800EEB34 8FFF
 #Infinite Armor
 D10EEA60 00C8
 800EEA60 00C8
 #Start Mini-Game With 1000 Points
 A605F300 000103E8
+#Infinite Missiles (Alt)
+800EDF18 0040
+#Infinite Ammo (Alt)
+300EDF1C 0027
+#Infinite Fuel (Alt 2)
+800EDF0C 8FFF
 
 ; [ Air Hockey (Europe) (Pocket Price Midas) {SLES-03743} ]
 
@@ -91688,13 +92774,15 @@ A605C4C2 ACA20000
 #Infinite Charge Grenades
 8009A5EC 03E7
 #Infinite Pulse-Laser
-8009A5E0 03E7
+8009A5E4 03E7
 #Infinite Gun-Ammo
 8009A78A 03E7
 #Infinite Rifle-Ammo
 8009A78E 03E7
 #Infinite Flamethrower
 8009A5E6 03E7
+#Infinite Pulse-Laser (Alt)
+8009A5E0 03E7
 #Infinite Smart Gun
 8009A5E8 03E7
 #Infinite Batteries
@@ -95177,11 +96265,13 @@ A604345C FFFF0000
 #Infinite Wpas
 90060ACC 00000000
 #Infinite Energy
-800EAAE2 04B0
+9005D2A4 00000000
 #Infinite Time
 800EAB34 0000
 #No Overheat
 800EA846 0000
+#Infinite Energy (Alt)
+800EAAE2 04B0
 #Infinite Rifle
 800EAA2C 03E8
 #Infinite Missile
@@ -95210,11 +96300,13 @@ A604345C FFFF0000
 #Infinite Wpas
 90060ACC 00000000
 #Infinite Energy
-800EAAE2 04B0
+9005D2A4 00000000
 #Infinite Time
 800EAB34 0000
 #No Overheat
 800EA846 0000
+#Infinite Energy (Alt)
+800EAAE2 04B0
 #Infinite Rifle
 800EAA2C 03E8
 #Infinite Missile
@@ -97295,6 +98387,9 @@ D00995DC 0002
 #P2 - Fireballs
 80176AEE 011F
 #Rainbow Islands\Infinite Lives
+8005DB7C 0015
+8005DC3A 0003
+#Rainbow Islands\Infinite Lives (Alt)
 800DA334 0608
 #Rainbow Islands\Islands Does Not Sink
 8005D2E4 00D8
@@ -97961,7 +99056,7 @@ D00AC54A 0000
 #Energy (Tank)
 80163EC0 0064
 80162D2C 0064
-#Upgrade Heli To 2 Shoots (Push Select) (.Note:If codes freeze game than use button command from #Upgrade Heli to 2 shoots#
+#Upgrade Heli To 2 Shoots (Push Select):Note- If codes freeze game than use this cheat
 D00AC54A FFFE
 80178F1E 0001
 #Ammo (Grenades Included)
@@ -98714,7 +99809,7 @@ E0072EF0 000A
 #Inventory\Have Fire Shield
 300979A9 00FF
 #Inventory\Have Alucard Shield
-30097A41 00FF
+300979AA 00FF
 #Inventory\Have Sword Of Dawn
 300979AB 00FF
 #Inventory\Have Basilard
@@ -98928,7 +100023,7 @@ E0072EF0 000A
 #Inventory\Have Mourne Blade
 30097A14 00FF
 #Inventory\Have Alucard Sword
-30097A42 00FF
+30097A15 00FF
 #Inventory\Have Mablune Sword
 30097A16 00FF
 #Inventory\Have Badelaire
@@ -99013,6 +100108,10 @@ E0072EF0 000A
 30097A3F 00FF
 #Inventory\Have Library Card
 30097A40 00FF
+#Inventory\Have Alucard Shield (Alt)
+30097A41 00FF
+#Inventory\Have Alucard Sword (Alt)
+30097A42 00FF
 #Inventory\Have Cloth Cape
 30097A74 00FF
 #Inventory\Have Reverse Cloak
@@ -100896,10 +101995,14 @@ A60C57CC 00000001
 #Infinite Credits And Gdi-Missions
 8011BA10 2000
 #Infinite Credits
-8011C120 FFFF
+8011C0F8 FFFF
 #Infiniye Money
 801100DF B99A
 #Infinite Power
+801100DD B99A
+#Infinite Credits (Alt)
+8011C120 FFFF
+#Infinite Power (Alt)
 80110769 AD64
 
 ; [ Command & Conquer (GDI) (France) {SLES-00531 | SLES-10531} ]
@@ -101635,7 +102738,7 @@ D00B078C 001E
 800618D8 0200
 #Invincibility
 9002471C 24030004
-#Jump Infinite ON:L1 Press OFF
+#Infinite Jumps (L1 ON, R1 OFF)
 D005E714 0004
 8001E018 0000
 D005E714 0008
@@ -104254,9 +105357,9 @@ A60C8D34 00C80064
 #P1 25% Energie
 A60C8D34 00C80032
 #P1 1-Hit Death
-A60C8F0C 00C80002
+A60C8D34 00C80002
 #P1 Keine Energie
-800C8F0C 0000
+800C8D34 0000
 #P2 Unendlich Energie
 800C8F0C 00C8
 #P2 75% Energie
@@ -104265,6 +105368,10 @@ A60C8F0C 00C80096
 A60C8F0C 00C80064
 #P2 25% Energie
 A60C8F0C 00C80032
+#P1 1-Hit Death (Alt)
+A60C8F0C 00C80002
+#P1 Keine Energie (Alt)
+800C8F0C 0000
 #P1+P2 Unendlich Energie
 8003D346 3C00
 #P1 Unendlich Magie
@@ -111070,6 +112177,8 @@ A6029332 000000AA
 #Much Points Minardi
 A6029334 000000AA
 #Much Points Arrows
+A6029336 000000AA
+#Much Points Arrows (Alt)
 A6029338 000000AA
 #Other Drivers do not Score
 D3029332 0001
@@ -111080,6 +112189,10 @@ D3029334 0001
 50001502 0000
 80029336 0000
 #Other Drivers do not Score Arrows
+D3029336 0001
+50001502 0000
+80029338 0000
+#Other Drivers do not Score Arrows (Alt)
 D3029338 0001
 50001502 0000
 8002933A 0000
@@ -111126,6 +112239,8 @@ A6029332 000000AA
 #Arcade-Mode Much Points Minardi
 A6029334 000000AA
 #Arcade-Mode Much Points Arrows
+A6029336 000000AA
+#Arcade-Mode Much Points Arrows (Alt)
 A6029338 000000AA
 #Arcade-Mode Other Drivers do not Score
 D3029332 0001
@@ -113304,7 +114419,7 @@ D01D0800 2403
 801D089A 0112
 D01D0800 2403
 801D089E A444
-#Master all materia you have possession Conditions:Open the materia list, scroll to the bottom.
+#Master all materia you have possession of:Conditions - Open the materia list, scroll to the bottom.
 D01D4700 0821
 801D4754 FF00
 D01D4700 0821
@@ -116469,17 +117584,23 @@ A71D050C 10000400
 #Falcon unlocked
 30096EF8 0001
 #Jackal unlocked
-3009777C 0001
+30096F00 0001
 #Minotaur unlocked
-30097784 0001
+30096F80 0001
 #Tigress unlocked
-3009778C 0001
+30097000 0001
 #P2 Infinite Health
 80097540 270F
 #P2 Infinite keys
 3009757C 0063
 #Falconn unlocked
 30097774 0001
+#Jackal unlocked (Alt)
+3009777C 0001
+#Minotaur unlocked (Alt)
+30097784 0001
+#Tigress unlocked (Alt)
+3009778C 0001
 
 ; [ Gauntlet Legends (USA) (Trade Demo) {SLUS-80624} ]
 ; [ GeGeGe no Kitarou: Gyakushuu! Youma Daikessen (Japan) {SLP-87286} ]
@@ -117106,7 +118227,7 @@ A702A548 00020001
 #Simulation Mode Codes\Gold Super License
 50000AA4 0000
 801CA758 0400
-#Simulation Mode Codes\Any Car Can Play Any Circuit With this code, it allows you to race cars with higher horse power in the lower class circuits. For Example:You can use the Dodge Viper in the first USA Nationals Circuit in the Gran Turismo League.
+#Simulation Mode Codes\Any Car Can Play Any Circuit:This code allows you to race cars with higher horse power in the lower class circuits. For Example, You can use the Dodge Viper in the first USA Nationals Circuit in the Gran Turismo League.
 D00148E0 000C
 800148E2 1000
 #Simulation Mode Codes\Have All Gold Licenses
@@ -124350,6 +125471,8 @@ A709F4D8 10000400
 #Storage of Kuon + 01h
 300DEF80 0001
 300DEFF2 0001
+#Law surgery combat / time limit
+800DEFE8 FFFF
 
 ; [ Kurashi Iki! Iki! PlayStation Welcome Disc (Japan) Demo {PAPX-90045} ]
 ; [ Kuro no Juusan (Japan) {SLPS-00505} ]
@@ -126706,6 +127829,12 @@ A70BB4A8 10000400
 #Infinite & Max HP in combat Character 4
 800DFEB4 270F
 #Infinite & Max MP in combat Character 1
+800DFE4A 270F
+#Infinite & Max MP in combat Character 2
+800DFE6E 270F
+#Infinite & Max MP in combat Character 3
+800DFE92 270F
+#Infinite & Max MP in combat Character 4
 800DFEB6 270F
 #No random battles
 300DFFDA 0000
@@ -129048,9 +130177,9 @@ A60885BE AD42AD40
 #Select Level\Lundkwist-Base
 D008F894 0000
 3008F894 0000
-#Select Level\Submarine Harbor
+#Select Level\Submarine Pen (Ice Hit)
 D008F894 0000
-3008F894 0014
+3008F894 0001
 #Select Level\The Embassy
 D008F894 0000
 3008F894 0002
@@ -129105,6 +130234,9 @@ D008F894 0000
 #Select Level\On the Roof
 D008F894 0000
 3008F894 0013
+#Select Level\Submarine Pen (Ice Storm)
+D008F894 0000
+3008F894 0014
 #Select Level\Tunnel
 D008F894 0000
 3008F894 0015
@@ -130103,15 +131235,23 @@ D0047710 1023
 #Start On Last Race - Super Bike Championship
 80012398 0007
 #Moto x Championship
-30013074 0001
+80013068 0007
 #Dual Sport Championship
-30013D44 0001
+80013D38 0007
 #Custom Championship
-30010118 0001
+8001011C 0007
 #Ultimate Championship
-30014A14 0001
+80014A08 0007
 #Have Gold Cup - Super Bike Championship
 300123A4 0001
+#Moto x Championship (Alt)
+30013074 0001
+#Dual Sport Championship (Alt)
+30013D44 0001
+#Custom Championship (Alt)
+30010118 0001
+#Ultimate Championship (Alt)
+30014A14 0001
 
 ; [ Moto Racer 2 (Japan) {SLPS-02040} ]
 :SLPS-02040
@@ -130178,11 +131318,10 @@ E00B59C0 0001
 300B59C0 0003
 #1P Modes - Always Super Toon
 300B59C1 0001
-#All Modes
-#Press L2 for P1 Select Zako
+#All Modes - Press L2 for P1 Select Zako
 E01FFC30 0001
 80057534 0005
-#Time Trial - Time = 00.00
+#All Modes - Time Trial - Time = 00.00
 D01FFD28 6363
 801FFD30 0000
 D01FFD28 6363
@@ -130202,10 +131341,10 @@ E00B59C0 0001
 300B59C0 0003
 #1P Modes - Always Super Toon
 300B59C1 0001
-#Press L2 for P1 Select Zako
+#All Modes - Press L2 for P1 Select Zako
 E01FFC30 0001
 80057534 0005
-#Time Trial - Time = 00.00
+#All Modes - Time Trial - Time = 00.00
 D01FFD28 6363
 801FFD30 0000
 D01FFD28 6363
@@ -131016,6 +132155,8 @@ E00C58E6 00FE
 
 ; [ NHL FaceOff 99 (Europe) {SCES-01736} ]
 :SCES-01736
+#Select Home Team Score\9
+800D4BE0 0009
 #Select Home Team Score\0
 800D4BE0 0000
 #Select Away Team Score\9
@@ -132822,159 +133963,346 @@ D00909FE FFFB
 80057188 0000
 #Spiele Als Monster
 801FFF84 3000
-#Monster Level Codes\Levelgrundcode .Die Levels #Sewer Snake#, #Snowman#, #Jose Manuel# und #The Roofs# kann man leider nicht als Monster spielen. Muss eingeschaltet sein Codes nach Beginn des Levels durch drücken von L1+L2+R1+R2+O einschalten und vor dem Laden des nächsten Levels durch drücken von L1+L2+R1+R2+X wieder ausschalten.
+#Monster Level Codes\Levelgrundcode:Die Levels 'Sewer Snake', 'Snowman', 'Jose Manuel' und 'The Roofs' kann man leider nicht als Monster spielen. Muss eingeschaltet sein Codes nach Beginn des Levels durch drücken von L1+L2+R1+R2+O einschalten und vor dem Laden des nächsten Levels durch drücken von L1+L2+R1+R2+X wieder ausschalten.
 D0090700 2F00
 80000000 3333
 D0090700 4F00
 80000000 0000
-#Chelsea\Unendlich Lebensleiste
-D0000004 2222
-801C2D9A 0C0C
-#Chelsea\Durch WäNde Gehen
-D0000004 2222
-801C2D9C 1000
-#Spitalfield\Unendlich Lebensleiste
-D0000004 2222
-801E9D32 0C0C
-#Spitalfield\Durch WäNde Gehen
-D0000004 2222
-801E9D34 1000
-#Thames Tunnel\Unendlich Lebensleiste
-D0000004 2222
-801F1036 0C0C
-#Thames Tunnel\Durch WäNde Gehen
-D0000004 2222
-801F1038 1000
-#India Docks\Unendlich Lebensleiste
-D0000004 2222
-801EDAC6 0C0C
-#India Docks\Durch WäNde Gehen
-D0000004 2222
-801EDAC8 1000
-#Highgate Cemetery\Unendlich Lebensleiste
-D0000002 1111
-801ECA0E 1000
-#Highgate Cemetery\Durch WäNde Gehen
-D0000002 1111
-801ECA10 1000
-#Hampstead Heath\Unendlich Lebensleiste
-D0000004 2222
-801F0EAA 0C0C
-#Hampstead Heath\Durch WäNde Gehen
-D0000004 2222
-801F0EAC 1000
-#Queenhite Docks\Unendlich Lebensleiste
-D0000004 2222
-801ED5E6 0C0C
-#Queenhite Docks\Durch WäNde Gehen
-D0000004 2222
-801ED5E8 1000
-#City\Unendlich Lebensleiste
-D0000004 2222
-801F04FA 0C0C
-#City\Durch WäNde Gehen
-D0000004 2222
-801F04FC 1000
-#Smithfield\Unendlich Lebensleiste
-D0000004 2222
-801DDA3A 0C0C
-#Smithfield\Durch WäNde Gehen
-D0000004 2222
-801DDA3C 1000
-#Regent's Canal\Unendlich Lebensleiste
-D0000004 2222
-801E6912 0C0C
-#Regent's Canal\Durch WäNde Gehen
-D0000004 2222
-801E6914 1000
-#London Zoo\Unendlich Lebensleiste
-D0000004 2222
-801F24CE 0C0C
-#London Zoo\Durch WäNde Gehen
-D0000004 2222
-801F24D0 1000
-#Marylebone\Unendlich Lebensleiste
-D0000004 2222
-801E5D72 0C0C
-#Marylebone\Durch WäNde Gehen
-D0000004 2222
-801E5D74 1000
-#Bloomsbury\Unendlich Lebensleiste
-D0000004 2222
-801F2BF6 0C0C
-#Bloomsbury\Durch WäNde Gehen
-D0000004 2222
-801F2BF8 1000
-#Pimlico\Unendlich Lebensleiste
-D0000004 2222
-801E4D86 0C0C
-#Pimlico\Durch WäNde Gehen
-D0000004 2222
-801E4D88 1000
-#Westminster\Unendlich Lebensleiste
+#Chelsea\Unendlich Lebensleiste (Monster)
+D0000000 3333
+801B127E 07D0
+#Chelsea\Durch WäNde Gehen (Monster)
+D0000000 3333
+801B1280 1000
+#Spitalfield\Unendlich Lebensleiste (Monster)
+D0000000 3333
+801D658E 07D0
+#Spitalfield\Durch WäNde Gehen (Monster)
+D0000000 3333
+801D6590 1000
+#Thames Tunnel\Unendlich Lebensleiste (Monster)
+D0000000 3333
+801E064A 0C0C
+#Thames Tunnel\Durch WäNde Gehen (Monster)
+D0000000 3333
+801E064C 0C0C
+#India Docks\Unendlich Lebensleiste (Monster)
+D0000000 3333
+801D48AE 1000
+#India Docks\Durch WäNde Gehen (Monster)
+D0000000 3333
+801D48B0 1000
+#Highgate Cemetery\Unendlich Lebensleiste (Monster)
+D0000000 3333
+801DF092 1000
+#Highgate Cemetery\Durch WäNde Gehen (Monster)
+D0000000 3333
+801DF094 1000
+#Hampstead Heath\Unendlich Lebensleiste (Monster)
+D0000000 3333
+801DCB2E 0640
+#Hampstead Heath\Durch WäNde Gehen (Monster)
+D0000000 3333
+801DCB30 0640
+#Queenhite Docks\Unendlich Lebensleiste (Monster)
+D0000000 3333
+801D9AE4 07D0
+#Queenhite Docks\Durch WäNde Gehen (Monster)
+D0000000 3333
+801D9AE6 07D0
+#City\Unendlich Lebensleiste (Monster)
+D0000000 3333
+801DF85E 0C0C
+#City\Durch WäNde Gehen (Monster)
+D0000000 3333
+801DF860 0C0C
+#Smithfield\Unendlich Lebensleiste (Monster)
+D0000000 3333
+801CC1BE 1000
+#Smithfield\Durch WäNde Gehen (Monster)
+D0000000 3333
+801CC1C0 1000
+#Regent's Canal\Unendlich Lebensleiste (Monster)
+D0000000 3333
+801D4CBE 0CCC
+#Regent's Canal\Durch WäNde Gehen (Monster)
+D0000000 3333
+801D4CC0 0CCC
+#London Zoo\Unendlich Lebensleiste (Monster)
+D0000000 3333
+801DB2EE 1000
+#London Zoo\Durch WäNde Gehen (Monster)
+D0000000 3333
+801DB2F0 1000
+#Marylebone\Unendlich Lebensleiste (Monster)
+D0000000 3333
+801D59EA 1000
+#Marylebone\Durch WäNde Gehen (Monster)
+D0000000 3333
+801D59EC 1000
+#Bloomsbury\Unendlich Lebensleiste (Monster)
+D0000000 3333
+801DEF24 0CCC
+#Bloomsbury\Durch WäNde Gehen (Monster)
+D0000000 3333
+801DEF26 1000
+#Pimlico\Unendlich Lebensleiste (Monster)
+D0000000 3333
+801D326A 0828
+#Pimlico\Durch WäNde Gehen (Monster)
+D0000000 3333
+801D326C 1000
+#Westminster\Unendlich Lebensleiste (Monster)
 D0000000 3333
 801BC70A 0787
-#Westminster\Durch WäNde Gehen
+#Westminster\Durch WäNde Gehen (Monster)
 D0000000 3333
 801BC70C 1000
-#Westminster Ii\Unendlich Lebensleiste
+#Westminster Ii\Unendlich Lebensleiste (Monster)
 D0000000 3333
 801B2626 1000
-#Westminster Ii\Durch WäNde Gehen
+#Westminster Ii\Durch WäNde Gehen (Monster)
 D0000000 3333
 801B2628 1000
-#Level Codes Ignatius\Levelgrundcode Muss eingeschaltet sein Codes nach Beginn des Levels durch drücken von L1+L2+R1+R2+O einschalten und vor dem Laden des nächsten Levels durch drücken von L1+L2+R1+R2+X wieder ausschalten.
+#Level Codes Ignatius\Levelgrundcode Muss eingeschaltet:sein Codes nach Beginn des Levels durch drücken von L1+L2+R1+R2+O einschalten und vor dem Laden des nächsten Levels durch drücken von L1+L2+R1+R2+X wieder ausschalten.
 D0090700 2F00
 80000002 1111
 D0090700 4F00
 80000002 0000
-#Sewer Snake\Unendlich Lebensleiste
-D0000004 2222
-8016A2F6 0C0C
-#Snowman\Unendlich Lebensleiste
-D0000004 2222
-80160186 0C0C
-#St. Marilebone\Unendlich Lebensleiste
+#Chelsea\Unendlich Lebensleiste (Ignatius)
+D0000002 1111
+801C35C6 1000
+#Chelsea\Durch WäNde Gehen (Ignatius)
+D0000002 1111
+801C35C8 1000
+#Spitalfield\Unendlich Lebensleiste (Ignatius)
+D0000002 1111
+801EA55E 1000
+#Spitalfield\Durch WäNde Gehen (Ignatius)
+D0000002 1111
+801EA560 1000
+#Sewer Snake\Unendlich Lebensleiste (Ignatius)
+D0000002 1111
+8016AB22 1000
+#Thames Tunnel\Unendlich Lebensleiste (Ignatius)
+D0000002 1111
+801F1C7A 1000
+#Thames Tunnel\Durch WäNde Gehen (Ignatius)
+D0000002 1111
+801F1C7C 1000
+#India Docks\Unendlich Lebensleiste (Ignatius)
+D0000002 1111
+801EDEFE 1000
+#India Docks\Durch WäNde Gehen (Ignatius)
+D0000002 1111
+801EDF00 1000
+#Highgate Cemetery\Unendlich Lebensleiste (Ignatius)
+D0000002 1111
+801ECA0E 1000
+#Highgate Cemetery\Durch WäNde Gehen (Ignatius)
+D0000002 1111
+801ECA10 1000
+#Hampstead Heath\Unendlich Lebensleiste (Ignatius)
+D0000002 1111
+801F16D6 1000
+#Hampstead Heath\Durch WäNde Gehen (Ignatius)
+D0000002 1111
+801F16D8 1000
+#Queenhite Docks\Unendlich Lebensleiste (Ignatius)
+D0000002 1111
+801EDA1E 1000
+#Queenhite Docks\Durch WäNde Gehen (Ignatius)
+D0000002 1111
+801EDA20 1000
+#City\Unendlich Lebensleiste (Ignatius)
+D0000002 1111
+801F22FE 1000
+#City\Durch WäNde Gehen (Ignatius)
+D0000002 1111
+801F2300 1000
+#Smithfield\Unendlich Lebensleiste (Ignatius)
+D0000002 1111
+801DE266 1000
+#Smithfield\Durch WäNde Gehen (Ignatius)
+D0000002 1111
+801DE268 1000
+#Snowman\Unendlich Lebensleiste (Ignatius)
+D0000002 1111
+801609BA 1000
+#Regent's Canal\Unendlich Lebensleiste (Ignatius)
+D0000002 1111
+801E713E 1000
+#Regent's Canal\Durch WäNde Gehen (Ignatius)
+D0000002 1111
+801E7140 1000
+#London Zoo\Unendlich Lebensleiste (Ignatius)
+D0000002 1111
+801F2626 1000
+#London Zoo\Durch WäNde Gehen (Ignatius)
+D0000002 1111
+801F2628 1000
+#St. Marilebone\Unendlich Lebensleiste (Ignatius)
 D0000002 1111
 801E79F6 1000
-#St. Marilebone\Durch WäNde Gehen
+#St. Marilebone\Durch WäNde Gehen (Ignatius)
 D0000002 1111
 801E79F8 1000
-#Jose Manuel\Unendlich Lebensleiste
-D0000004 2222
-80166DB6 0C0C
-#Jose Manuel\Durch WäNde Gehen
-D0000004 2222
-80166DB8 1000
-#Westminister\Unendlich Lebensleiste
-D0000004 2222
-801CFA62 0C0C
-#Westminister\Durch WäNde Gehen
-D0000004 2222
-801CFA64 1000
-#Westminister Ii\Unendlich Lebensleiste
-D0000004 2222
-801BF776 0C0C
-#Westminister Ii\Durch WäNde Gehen
-D0000004 2222
-801BF778 1000
-#The Roofs\Unendlich Lebensleiste
-D0000004 2222
-80177746 0C0C
-#The Roofs\Durch WäNde Gehen
-D0000004 2222
-80177748 1000
-#Level Codes Nadia\Levelgrundcode Muss eingeschaltet sein Codes nach Beginn des Levels durch drücken von L1+L2+R1+R2+O einschalten und vor dem Laden des nächsten Levels durch drücken von L1+L2+R1+R2+X wieder ausschalten.
+#Bloomsbury\Unendlich Lebensleiste (Ignatius)
+D0000002 1111
+801F32A6 1000
+#Bloomsbury\Durch WäNde Gehen (Ignatius)
+D0000002 1111
+801F32A8 1000
+#Pimlico\Unendlich Lebensleiste (Ignatius)
+D0000002 1111
+801E55B2 1000
+#Pimlico\Durch WäNde Gehen (Ignatius)
+D0000002 1111
+801E55B4 1000
+#Jose Manuel\Unendlich Lebensleiste (Ignatius)
+D0000002 1111
+801675E2 1000
+#Jose Manuel\Durch WäNde Gehen (Ignatius)
+D0000002 1111
+801675E4 1000
+#Westminister\Unendlich Lebensleiste (Ignatius)
+D0000002 1111
+801D06DA 1000
+#Westminister\Durch WäNde Gehen (Ignatius)
+D0000002 1111
+801C06DC 1000
+#Westminister Ii\Unendlich Lebensleiste (Ignatius)
+D0000002 1111
+801BFFA2 1000
+#Westminister Ii\Durch WäNde Gehen (Ignatius)
+D0000002 1111
+801BFFA4 1000
+#The Roofs\Unendlich Lebensleiste (Ignatius)
+D0000002 1111
+80177F72 1000
+#The Roofs\Durch WäNde Gehen (Ignatius)
+D0000002 1111
+80177F74 1000
+#Level Codes Nadia\Levelgrundcode Muss eingeschaltet:sein Codes nach Beginn des Levels durch drücken von L1+L2+R1+R2+O einschalten und vor dem Laden des nächsten Levels durch drücken von L1+L2+R1+R2+X wieder ausschalten.
 D0090700 2F00
 80000004 2222
 D0090700 4F00
 80000004 0000
-#Highgate Cemetary\Unendlich Lebensleiste
+#Chelsea\Unendlich Lebensleiste (Nadia)
+D0000004 2222
+801C2D9A 0C0C
+#Chelsea\Durch WäNde Gehen (Nadia)
+D0000004 2222
+801C2D9C 1000
+#Spitalfield\Unendlich Lebensleiste (Nadia)
+D0000004 2222
+801E9D32 0C0C
+#Spitalfield\Durch WäNde Gehen (Nadia)
+D0000004 2222
+801E9D34 1000
+#Sewer Snake\Unendlich Lebensleiste (Nadia)
+D0000004 2222
+8016A2F6 0C0C
+#Thames Tunnel\Unendlich Lebensleiste (Nadia)
+D0000004 2222
+801F1036 0C0C
+#Thames Tunnel\Durch WäNde Gehen (Nadia)
+D0000004 2222
+801F1038 1000
+#India Docks\Unendlich Lebensleiste (Nadia)
+D0000004 2222
+801EDAC6 0C0C
+#India Docks\Durch WäNde Gehen (Nadia)
+D0000004 2222
+801EDAC8 1000
+#Highgate Cemetary\Unendlich Lebensleiste (Nadia)
 D0000004 2222
 801EC902 0C0C
-#Highgate Cemetary\Durch WäNde Gehen
+#Highgate Cemetary\Durch WäNde Gehen (Nadia)
 D0000004 2222
 801EC904 1000
+#Hampstead Heath\Unendlich Lebensleiste (Nadia)
+D0000004 2222
+801F0EAA 0C0C
+#Hampstead Heath\Durch WäNde Gehen (Nadia)
+D0000004 2222
+801F0EAC 1000
+#Queenhite Docks\Unendlich Lebensleiste (Nadia)
+D0000004 2222
+801ED5E6 0C0C
+#Queenhite Docks\Durch WäNde Gehen (Nadia)
+D0000004 2222
+801ED5E8 1000
+#City\Unendlich Lebensleiste (Nadia)
+D0000004 2222
+801F04FA 0C0C
+#City\Durch WäNde Gehen (Nadia)
+D0000004 2222
+801F04FC 1000
+#Smithfield\Unendlich Lebensleiste (Nadia)
+D0000004 2222
+801DDA3A 0C0C
+#Smithfield\Durch WäNde Gehen (Nadia)
+D0000004 2222
+801DDA3C 1000
+#Snowman\Unendlich Lebensleiste (Nadia)
+D0000004 2222
+80160186 0C0C
+#Regent's Canal\Unendlich Lebensleiste (Nadia)
+D0000004 2222
+801E6912 0C0C
+#Regent's Canal\Durch WäNde Gehen (Nadia)
+D0000004 2222
+801E6914 1000
+#London Zoo\Unendlich Lebensleiste (Nadia)
+D0000004 2222
+801F24CE 0C0C
+#London Zoo\Durch WäNde Gehen (Nadia)
+D0000004 2222
+801F24D0 1000
+#Marylebone\Unendlich Lebensleiste (Nadia)
+D0000004 2222
+801E5D72 0C0C
+#Marylebone\Durch WäNde Gehen (Nadia)
+D0000004 2222
+801E5D74 1000
+#Bloomsbury\Unendlich Lebensleiste (Nadia)
+D0000004 2222
+801F2BF6 0C0C
+#Bloomsbury\Durch WäNde Gehen (Nadia)
+D0000004 2222
+801F2BF8 1000
+#Pimlico\Unendlich Lebensleiste (Nadia)
+D0000004 2222
+801E4D86 0C0C
+#Pimlico\Durch WäNde Gehen (Nadia)
+D0000004 2222
+801E4D88 1000
+#Jose Manuel\Unendlich Lebensleiste (Nadia)
+D0000004 2222
+80166DB6 0C0C
+#Jose Manuel\Durch WäNde Gehen (Nadia)
+D0000004 2222
+80166DB8 1000
+#Westminister\Unendlich Lebensleiste (Nadia)
+D0000004 2222
+801CFA62 0C0C
+#Westminister\Durch WäNde Gehen (Nadia)
+D0000004 2222
+801CFA64 1000
+#Westminister Ii\Unendlich Lebensleiste (Nadia)
+D0000004 2222
+801BF776 0C0C
+#Westminister Ii\Durch WäNde Gehen (Nadia)
+D0000004 2222
+801BF778 1000
+#The Roofs\Unendlich Lebensleiste (Nadia)
+D0000004 2222
+80177746 0C0C
+#The Roofs\Durch WäNde Gehen (Nadia)
+D0000004 2222
+80177748 1000
+
 
 ; [ Nightmare Creatures (Japan) Demo {PCPX-96101} ]
 
@@ -134100,7 +135428,7 @@ A70EBE94 10000400
 #Anti-Gravitations-Modul
 800EF814 0001
 #Molotow-Cocktail
-800EF87C 0001
+800EF818 0001
 #ÖL-Kanister
 800EF81C 0001
 #Defekter Thermostat
@@ -134149,6 +135477,8 @@ A70EBE94 10000400
 800EF874 0001
 #Kleine Bombe
 800EF878 0001
+#Molotow-Cocktail (Alt)
+800EF87C 0001
 
 ; [ OverBlood (Japan) (Major Wave) {SLP-86641} ]
 
@@ -135215,9 +136545,8 @@ A6083D48 73D40000
 #Max Exp
 90073B90 0098967F
 #All Key Items
-50000302 0000
-80072714 FFFF
-8007271A 0001
+90072714 FFFFFFFF
+90072718 0001FFFF
 #Max Parasite Energy Level Codes\Pyrokinesis
 300729B8 0003
 #Max Parasite Energy Level Codes\Combustion
@@ -135984,93 +137313,95 @@ A60F0EAC 0002000A
 :SLPS-01600
 #9999999 pocket#
 901A8A68 0098967F
-#Part-time job 1
+#Select Part-time Job\01
 300C48D0 0000
-#Part-time job 2
+#Select Part-time Job\02
 300C48D0 0001
-#Part-time job 3
+#Select Part-time Job\03
 300C48D0 0002
-#Part-time job 4
+#Select Part-time Job\04
 300C48D0 0003
-#Part-time job 5
+#Select Part-time Job\05
 300C48D0 0004
-#Part-time job 6
+#Select Part-time Job\06
 300C48D0 0005
-#Part-time job 7
+#Select Part-time Job\07
 300C48D0 0006
-#Part-time job 8
+#Select Part-time Job\08
 300C48D0 0007
-#Part-time job 9
+#Select Part-time Job\09
 300C48D0 0008
-#Part-time job 10
+#Select Part-time Job\10
 300C48D0 0009
-#Part-time job 11
+#Select Part-time Job\11
 300C48D0 000A
-#Part-time job 12
+#Select Part-time Job\12
 300C48D0 000B
-#Part-time job 13
+#Select Part-time Job\13
 300C48D0 000C
-#Part-time job 14
+#Select Part-time Job\14
 300C48D0 000D
-#Part-time job 15
+#Select Part-time Job\15
 300C48D0 000E
-#Part-time job 16
+#Select Part-time Job\16
 300C48D0 000F
-#Select aircraft ULTRA LIGHT PLANE
+#Select Aircraft\ULTRA LIGHT PLANE
 300C4738 0000
-#Select aircraft CESSNA C172RG
+#Select Aircraft\CESSNA C172RG
 300C4738 0001
-#Select aircraft EMB312 TUCANO
+#Select Aircraft\EMB312 TUCANO
 300C4738 0002
-#Select aircraft F4U4 CORSAIR
+#Select Aircraft\F4U4 CORSAIR
 300C4738 0003
-#Select aircraft A1H SKYRAIDER
+#Select Aircraft\A1H SKYRAIDER
 300C4738 0004
-#Select aircraft J2M3 RAIDEN
+#Select Aircraft\J2M3 RAIDEN
 300C4738 0005
-#Select aircraft MOSQUITO FB.MK6
+#Select Aircraft\MOSQUITO FB.MK6
 300C4738 0006
-#Select aircraft XF2R-1 DARK SHARK
+#Select Aircraft\XF2R-1 DARK SHARK
 300C4738 0007
-#Select aircraft CESSNA T37 TWEET
+#Select Aircraft\CESSNA T37 TWEET
 300C4738 0008
-#Select aircraft KAWASAKI T4
+#Select Aircraft\KAWASAKI T4
 300C4738 0009
-#Select aircraft F16B FIGHTING FALCON
+#Select Aircraft\F16B FIGHTING FALCON
 300C4738 000A
-#Select aircraft A-10 THUNDERBOLT II
+#Select Aircraft\A-10 THUNDERBOLT II
 300C4738 000B
-#Select aircraft F/A18 HORNET
+#Select Aircraft\F/A18 HORNET
 300C4738 000C
-#Select aircraft MIG-29 FULCRUM
+#Select Aircraft\MIG-29 FULCRUM
 300C4738 000D
-#Select aircraft EFA EUROFIGHTER2000
+#Select Aircraft\EFA EUROFIGHTER2000
 300C4738 000E
-#Select aircraft SPITFIRE MK5
+#Select Aircraft\SPITFIRE MK5
 300C4738 000F
-#Select aircraft MESSERSCHM ITT BF109E
+#Select Aircraft\MESSERSCHM ITT BF109E
 300C4738 0010
-#Select aircraft OV-10A BRONCO
+#Select Aircraft\OV-10A BRONCO
 300C4738 0011
-#Select aircraft F5E TIGER II
+#Select Aircraft\F5E TIGER II
 300C4738 0012
-#Select aircraft F4E PHANTOM
+#Select Aircraft\F4E PHANTOM
 300C4738 0013
-#Select aircraft JAS39 GRIPEN
+#Select Aircraft\JAS39 GRIPEN
 300C4738 0014
-#Select aircraft SU-35 FLANKER
+#Select Aircraft\SU-35 FLANKER
 300C4738 0015
-#Select aircraft C130 HERCULES
-300C4738 001A
-#Select aircraft AN72 COALER
+#Select Aircraft\C130 HERCULES
+300C4738 0016
+#Select Aircraft\AN72 COALER
 300C4738 0017
-#Select aircraft B17
+#Select Aircraft\B17
 300C4738 0018
-#Select aircraft E4B
+#Select Aircraft\E4B
 300C4738 0019
-#Select aircraft E4B?
+#Select Aircraft\C130 HERCULES (Alt)
+300C4738 001A
+#Select Aircraft\E4B?
 300C4738 001B
-#Select aircraft SUPER SHIMADA 3C
+#Select Aircraft\SUPER SHIMADA 3C
 300C4738 001C
 #Reciprocating supplemental training 1-1 100 points
 301A8A76 0064
@@ -136106,39 +137437,39 @@ A60F0EAC 0002000A
 301A8A8A 0064
 #Reciprocating supplemental training 4-4 100 points
 301A8A8B 0064
-#JeT Training 1-1 100 points
+#Jet Training 1-1 100 points
 301A8A8E 0064
-#JeT Training 1-2 100 points
+#Jet Training 1-2 100 points
 301A8A8F 0064
-#JeT Training 1-3 100 points
+#Jet Training 1-3 100 points
 301A8A90 0064
-#JeT Training 1-4 100 points
+#Jet Training 1-4 100 points
 301A8A91 0064
-#JeT Training 1-5 100 points
+#Jet Training 1-5 100 points
 301A8A92 0064
-#JeT Training 2-1 100 points
+#Jet Training 2-1 100 points
 301A8A94 0064
-#JeT Training 2-2 100 points
+#Jet Training 2-2 100 points
 301A8A95 0064
-#JeT Training 2-3 100 points
+#Jet Training 2-3 100 points
 301A8A96 0064
-#JeT Training 2-4 100 points
+#Jet Training 2-4 100 points
 301A8A97 0064
-#JeT Training 3-1 100 points
+#Jet Training 3-1 100 points
 301A8A9A 0064
-#JeT Training 3-2 100 points
+#Jet Training 3-2 100 points
 301A8A9B 0064
-#JeT Training 3-3 100 points
+#Jet Training 3-3 100 points
 301A8A9C 0064
-#JeT Training 3-4100 points
+#Jet Training 3-4 100 points
 301A8A9D 0064
-#JeT Training 4-1 100 points
+#Jet Training 4-1 100 points
 301A8AA0 0064
-#JeT Training 4-2 100 points
+#Jet Training 4-2 100 points
 301A8AA1 0064
-#JeT Training 4-3 100 points
+#Jet Training 4-3 100 points
 301A8AA2 0064
-#JeT Training 4-4 100 points
+#Jet Training 4-4 100 points
 301A8AA3 0064
 
 ; [ Pinball Power (Europe) {SLES-02922} ]
@@ -137778,7 +139109,6 @@ A707B8C8 10000400
 :ESPM-70003
 #Have 999 cans shot
 800BA494 03E7
-12345799 1234
 #All Photos
 50005101 0000
 30047070 0001
@@ -139719,16 +141049,16 @@ D008A368 0100
 800D70B8 0000
 #George-Codes\Damage Always 100%
 800DC474 0064
-#Scoring Screen\Property Damage
+#George-Codes\Scoring Screen\Property Damage
 800BB960 00FF
-#Scoring Screen\Max People
-800D7332 00FF
-#Scoring Screen\Max Food
-800D7334 00FF
-#Scoring Screen\Max Vehicles
-800D7336 00FF
-#Scoring Screen\Max Buddy Bashing
-800D733A 00FF
+#George-Codes\Scoring Screen\Max People
+800D6F9A 00FF
+#George-Codes\Scoring Screen\Max Food
+800D6F9C 00FF
+#George-Codes\Scoring Screen\Max Vehicles
+800D6F9E 00FF
+#George-Codes\Scoring Screen\Max Buddy Bashing
+800D6FAC 00FF
 #Lizzy-Codes\Infinite Health
 800D7152 0064
 #Lizzy-Codes\High Score
@@ -139740,8 +141070,16 @@ D008A368 0100
 800D7284 0000
 #Lizzy-Codes\Damage Always 100%
 800DC640 0064
-#Scoring Screen\Max Property Damage
-800BBCF8 00FF
+#Lizzy-Codes\Scoring Screen\Max Property Damage
+800BBB2C 00FF
+#Lizzy-Codes\Scoring Screen\Max People
+800D7166 00FF
+#Lizzy-Codes\Scoring Screen\Max Food
+800D7168 00FF
+#Lizzy-Codes\Scoring Screen\Max Vehicles
+800D716A 00FF
+#Lizzy-Codes\Scoring Screen\Max Buddy Bashing
+800D716E 00FF
 #Ralph-Codes\Infinite Health
 800D731E 0063
 #Ralph-Codes\High Score
@@ -139753,6 +141091,16 @@ D008A368 0100
 800D7450 0000
 #Ralph-Codes\Damage Always 100%
 800DC80C 0064
+#Ralph-Codes\Scoring Screen\Max Property Damage
+800BBCF8 00FF
+#Ralph-Codes\Scoring Screen\Max People
+800D7332 00FF
+#Ralph-Codes\Scoring Screen\Max Food
+800D7334 00FF
+#Ralph-Codes\Scoring Screen\Max Vehicles
+800D7336 00FF
+#Ralph-Codes\Scoring Screen\Max Buddy Bashing
+800D733A 00FF
 
 ; [ Ran Soccer (Germany) {SLES-00214} ]
 ; [ Randevu s Neznakomkoy 2 aka Ð Ð°Ð½Ð´ÐµÐ²Ñƒ Ñ Ð½ÐµÐ·Ð½Ð°ÐºÐ¾Ð¼ÐºÐ¾Ð¹ 2 (Russia) (Unlicensed (Pinachet)) {Unlicensed | Unlicensed} ]
@@ -140956,9 +142304,11 @@ D00B8F3A FBFF
 300C8456 0002
 D00B8F3A FBFF
 800C879A 022F
-#Change character to Chris (Press Square Pad 2) You have to go through any door before change is showing up	D00B8F3A 7FFF
+#Change character to Chris (Press Square Pad 2) You have to go through any door before change is showing up
+D00B8F3A 7FFF
 300C8669 0000
-#Change character to Jill (Press Circle Pad 2) You have to go through any door before change is showing up	D00B8F3A DFFF
+#Change character to Jill (Press Circle Pad 2) You have to go through any door before change is showing up
+D00B8F3A DFFF
 300C8669 0001
 #Change character to Rebecca (Press Triangle Pad 2) You have to go through any door before change is showing up
 D00B8F3A EFFF
@@ -141282,13 +142632,13 @@ D00C5504 0082
 D00C5504 0012
 800CBC00 FF10
 #Raketenwerfer R2 + X
-D00C54A4 0042
-800CBB98 FF11
+D00C5504 0042
+800CBC00 FF11
 #Durch WäNde Gehen L1 aktivieren/L2 deaktivieren
-D00C54A4 0004
-800C6E5A 0C0F
-D00C54A4 0001
-800C6E5A 1500
+D00C5504 0004
+800C6EC2 0C0F
+D00C5504 0001
+800C6EC2 1500
 #Kisteninhalt\Handfeuerwaffe
 800CBC2C FF04
 #Kisteninhalt\Magnum
@@ -141300,37 +142650,37 @@ D00C54A4 0001
 #Kisteninhalt\Spezialgewehr
 800CBC3C FF08
 #Kisteninhalt\Colt S.A.A.
-800CBBD4 FF0D
+800CBC40 FF0D
 #Kisteninhalt\Mg
-800CBBDC FF0F
+800CBC44 FF0F
 #Kisteninhalt\Flammenwerfer
 800CBC48 FF10
 #Kisteninhalt\Raketenwerfer
-800CBBE0 FF11
+800CBC4C FF11
 #Kisteninhalt\Gatling-Gun
 800CBC50 FF12
 #Kisteninhalt\HauptschlüSsel
-800CBC78 0162
+800CBCD8 0162
 #Kisteninhalt\Labor-SchlüSsel
 800CBCDC 0161
 #Kisteninhalt\Dietrich
-800CBC80 0130
+800CBCE0 0130
 #Kisteninhalt\RevierschlüSsel
-800CBC84 0159
+800CBCE4 0159
 #Kisteninhalt\KabinenschlüSsel
-800CBC88 0158
+800CBCE8 0158
 #Kisteninhalt\SonderschlüSsel
-800CBC8C 0153
+800CBCEC 0153
 #Kisteninhalt\G-Virus
-800CBC90 0152
+800CBCF0 0152
 #Kisteninhalt\Wolfmedaille
-800CBC94 0149
+800CBCF4 0149
 #Kisteninhalt\Adlermedaille
-800CBC98 0148
+800CBCF8 0148
 #Kisteninhalt\Einhornmedaille
-800CBC9C 0147
+800CBCFC 0147
 #Kisteninhalt\Roter Edelstein
-800CBCB8 0133
+800CBD00 0133
 #Kisteninhalt\KöNigsstecker
 800CBD04 013E
 #Kisteninhalt\Springerstecker
@@ -141340,15 +142690,15 @@ D00C54A4 0001
 #Kisteninhalt\LäUferstecker
 800CBC10 013B
 #Kisteninhalt\Armbrustbolzen
-800CBCB0 041D
+800CBD14 041D
 #Kisteninhalt\Kabel
-800CBCB4 0156
+800CBD18 0156
 #Kisteninhalt\PlattformschlüSsel
-800CBC74 0163
+800CBD20 0163
 #Kisteninhalt\SchlüSsel
-800CBCBC 031F
+800CBD24 031F
 #Kisteninhalt\FarbbäNder
-800CBCC0 FF1E
+800CBD28 FF1E
 #Kleidung\Mit Tasche Am GüRtel
 800CB9F0 0002
 #Kleidung\Bandagiert
@@ -141388,9 +142738,27 @@ D00C54A4 0081
 #Mg R2 + Dreieck
 D00C54A4 0012
 800CBB98 FF0F
+#Raketenwerfer R2 + X (Alt)
+D00C54A4 0042
+800CBB98 FF11
 #Gatling Gun R2 + Viereck
 D00C54A4 0082
 800CBB98 FF12
+#Durch WäNde Gehen L1 aktivieren/L2 deaktivieren (Alt)
+D00C54A4 0004
+800C6E5A 0C0F
+D00C54A4 0001
+800C6E5A 1500
+#Kisteninhalt\FarbbäNder (Alt)
+800CBCC0 FF1E
+#Kisteninhalt\SchlüSsel (Alt)
+800CBCBC 031F
+#Kisteninhalt\Roter Edelstein (Alt)
+800CBCB8 0133
+#Kisteninhalt\Kabel (Alt)
+800CBCB4 0156
+#Kisteninhalt\Armbrustbolzen (Alt)
+800CBCB0 041D
 #Kisteninhalt\Schlangenstein
 800CBCAC 0136
 #Kisteninhalt\Jaguarstein
@@ -141399,8 +142767,28 @@ D00C54A4 0082
 800CBCA4 013A
 #Kisteninhalt\Bombe + ZüNder
 800CBCA0 0142
+#Kisteninhalt\Einhornmedaille (Alt)
+800CBC9C 0147
+#Kisteninhalt\Adlermedaille (Alt)
+800CBC98 0148
+#Kisteninhalt\Wolfmedaille (Alt)
+800CBC94 0149
+#Kisteninhalt\G-Virus (Alt)
+800CBC90 0152
+#Kisteninhalt\SonderschlüSsel (Alt)
+800CBC8C 0153
+#Kisteninhalt\KabinenschlüSsel (Alt)
+800CBC88 0158
+#Kisteninhalt\RevierschlüSsel (Alt)
+800CBC84 0159
+#Kisteninhalt\Dietrich (Alt)
+800CBC80 0130
 #Kisteninhalt\LaborschlüSsel
 800CBC7C 0161
+#Kisteninhalt\HauptschlüSsel (Alt)
+800CBC78 0162
+#Kisteninhalt\PlattformschlüSsel (Alt)
+800CBC74 0163
 #Kisteninhalt\Granatwerfer
 800CBBC4 FF09
 #Kisteninhalt\Granatwerfer (Feuer)
@@ -141409,8 +142797,14 @@ D00C54A4 0082
 800CBBCC FF0B
 #Kisteninhalt\Armbrust
 800CBBD0 FF0C
+#Kisteninhalt\Colt S.A.A. (Alt)
+800CBBD4 FF0D
 #Kisteninhalt\Blitzwaffe
 800CBBD8 FF0E
+#Kisteninhalt\Mg (Alt)
+800CBBDC FF0F
+#Kisteninhalt\Raketenwerfer (Alt)
+800CBBE0 FF11
 #Kisteninhalt\Gattling Gun
 800CBBE4 FF12
 
@@ -141703,9 +143097,11 @@ D00B8F3A FBFF
 300C8456 0002
 D00B8F3A FBFF
 800C879A 022F
-#Change character to Chris (Press Square Pad 2) You have to go through any door before change is showing up	D00B8F3A 7FFF
+#Change character to Chris (Press Square Pad 2) You have to go through any door before change is showing up
+D00B8F3A 7FFF
 300C8669 0000
-#Change character to Jill (Press Circle Pad 2) You have to go through any door before change is showing up	D00B8F3A DFFF
+#Change character to Jill (Press Circle Pad 2) You have to go through any door before change is showing up
+D00B8F3A DFFF
 300C8669 0001
 #Change character to Rebecca (Press Triangle Pad 2) You have to go through any door before change is showing up
 D00B8F3A EFFF
@@ -144690,11 +146086,13 @@ A60BCD7C 00000003
 #Have Retractor
 A60BCD80 00000003
 #Have Spare (Green)
-A60BCD90 00000003
+A60BCD84 00000003
 #Have Calabash
 A60BCD88 00000003
 #Have Spare (Purple)
 A60BCD8C 00000003
+#Have Spare (Green) (Alt)
+A60BCD90 00000003
 #Have Prism (0)
 A60BCD94 00000003
 #Have L'Eclipser - La Lune
@@ -146210,7 +147608,7 @@ D007C6B2 1080
 :SLPS-03524
 :SLPS-03556
 :SLPS-03557
-#All gALLERIES + 01h
+#All Galleries + 01h
 30010123 00FF
 30010176 00FF
 #Degree of kindred Max Karen
@@ -147063,9 +148461,9 @@ A60C2F3E 00F00001
 800EA392 00FF
 800EA3A6 00FF
 #All Weapons\Voldo
-800E9B4E 00FF
-800EA39E 00FF
-800EA3B2 00FF
+800E9B44 00FF
+800EA394 00FF
+800EA3A8 00FF
 #All Weapons\Sophitia
 800E9B46 00FF
 800EA396 00FF
@@ -147082,6 +148480,10 @@ A60C2F3E 00F00001
 800E9B4C 00FF
 800EA39C 00FF
 800EA3B0 00FF
+#All Weapons\Voldo (Alt)
+800E9B4E 00FF
+800EA39E 00FF
+800EA3B2 00FF
 #All Weapons\All Characters
 50000A02 0000
 800E9B3C 00FF
@@ -148170,10 +149572,12 @@ D00FE3C0 0100
 800EE3BC 0C0C
 800EEA1C FFFF
 #Infinite Continues
-D0018254 FFFF
-80018258 0000
+800EEAD4 0009
 #Unlock Most Things
 800EE3BC 0C0C
+#Infinite Continues (Alt)
+D0018254 FFFF
+80018258 0000
 #Infinite Boost
 A608EAF8 18230023
 #Always good grip
@@ -150056,7 +151460,7 @@ D004C226 8007
 D008F97E 2442
 8008F97C 0000
 #Invincibility
-800AB7A6 1200
+80062C26 005A
 #Infinite Time Strider 1 Alt
 D008F97E 2442
 8008F97C 0000
@@ -150073,6 +151477,8 @@ A604D436 00000001
 800ABA90 0130
 #Boost state at any time
 300ABABF 0001
+#Invincibility (Alt)
+800AB7A6 1200
 #It does not decrease TIME
 800D9D6A 0000
 #Unlock Boost Option, Hien Mode, & Stage 0
@@ -152068,13 +153474,15 @@ D01755E9 073E
 #Unendlich Gesundheit-Codes\Piratendschunke
 8013CA7E 009E
 #Unendlich Gesundheit-Codes\Wegkreuz 2
-80131ABE 00C8
+801330DE 00B4
 #Unendlich Gesundheit-Codes\Chinesische Mauer
 8012550E 00B4
 #Unendlich Gesundheit-Codes\Tigerberge
 8013C29E 00B4
 #Unendlich Gesundheit-Codes\Bergpass
 8012DABE 00B4
+#Unendlich Gesundheit-Codes\Wegkreuz 2 (Alt)
+80131ABE 00C8
 #Unendlich Gesundheit-Codes\Endspurt
 80127FAE 00C8
 #Unendlich Gesundheit-Codes\Verbotener Palast
@@ -153112,8 +154520,7 @@ D00A90F8 0002
 ; [ Tenchu 2: Birth of the Stealth Assassins (Europe) {SLES-02452} ]
 :SLES-02452
 #Infinite Air
-D013F012 0064
-8013F00E 64FF
+A601EBA0 00070000
 #Infinite Health
 D013F012 0064
 3013F010 0064
@@ -153164,6 +154571,9 @@ D00411B8 FFFF
 #Infinite HP
 D013F012 0064
 8013F010 0064
+#Infinite Air (Alt)
+D013F012 0064
+8013F00E 64FF
 #Attach Grappling Hook Anywhere
 800C4426 0000
 #Invisible to Enemies
@@ -154809,6 +156219,9 @@ D010B568 1023
 #Avin ATK MAX
 3007BA3A 00FF
 #Eimelle (Second character) Infinite HP in battle
+801FF8B0 03E7
+801FF8B4 03E7
+#Eimelle (Second character) Infinite HP in battle (Alt)
 801FF8B2 03E7
 801FF8B6 03E7
 #Have 999999 Rose (Money)
@@ -156611,6 +158024,8 @@ A6028932 00322402
 50000602 0000
 800887C8 03E7
 #Infinite Energy
+80176A82 03E8
+#Infinite Energy (Alt)
 801768C6 03E8
 #Infinite Energy Level 1-3
 800881D0 03E8
@@ -156649,11 +158064,13 @@ A6028932 00322402
 800881D0 03E8
 801A331A 03E8
 #Infinite Shotgun Shells
-8003369C 0000
+801DE2F8 03E8
 #Infinite Magnum Rounds
 801DE2E0 03E8
 #Infinite Uzi Rounds
 801DE2EC 03E8
+#Infinite Shotgun Shells (Alt 1)
+801DE258 001D
 #Magnum-Clips=00Xx
 800887CA 00FF
 #Uzi-Clips=00Xx
@@ -156664,6 +158081,8 @@ A6028932 00322402
 801DE13C 00FF
 #Infinite Big Medi-Kits
 8002C3D0 0000
+#Infinite Shotgun Shells (Alt 2)
+8003369C 0000
 #Select Level\1
 80027F38 0000
 800876F8 0001
@@ -158365,29 +159784,29 @@ D00ADED6 0000
 801E2674 0000
 #Max Gauge
 801E1734 0019
-#The degree of advance of the scene Scene 1
+#Select Scene\Scene 1
 801E14A4 0001
-#The degree of advance of the scene Scene 2
+#Select Scene\Scene 2
 801E14A4 0002
-#The degree of advance of the scene Scene 3
+#Select Scene\Scene 3
 801E14A4 0003
-#The degree of advance of the scene Scene 4
+#Select Scene\Scene 4
 801E14A4 0004
-#The degree of advance of the scene Scene 5
+#Select Scene\Scene 5
 801E14A4 0005
-#The degree of advance of the scene Scene 6
+#Select Scene\Scene 6
 801E14A4 0006
-#The degree of advance of the scene Scene 7
+#Select Scene\Scene 7
 801E14A4 0007
-#The degree of advance of the scene Scene 8
+#Select Scene\Scene 8
 801E14A4 0008
-#The degree of advance of the scene Scene 9
+#Select Scene\Scene 9
 801E14A4 0009
-#The degree of advance of the scene Scene 10
+#Select Scene\Scene 10
 801E14A4 000A
-#The degree of advance of the scene Scene 11
+#Select Scene\Scene 11
 801E14A4 000B
-#The degree of advance of the scene Scene 12
+#Select Scene\Scene 12
 801E14A4 000C
 #GUITAR RACK
 301E1188 0001
@@ -158418,34 +159837,39 @@ D00ADED6 0000
 801E2674 0000
 #Max Gauge
 801E1734 0019
-#The degree of advance of the scene Scene 1
+#Select Scene\Scene 1
 801E14A4 0001
-#The degree of advance of the scene Scene 2
+#Select Scene\Scene 2
 801E14A4 0002
-#The degree of advance of the scene Scene 3
+#Select Scene\Scene 3
 801E14A4 0003
-#The degree of advance of the scene Scene 4
+#Select Scene\Scene 4
 801E14A4 0004
-#The degree of advance of the scene Scene 5
+#Select Scene\Scene 5
 801E14A4 0005
-#The degree of advance of the scene Scene 6
+#Select Scene\Scene 6
 801E14A4 0006
-#The degree of advance of the scene Scene 7
+#Select Scene\Scene 7
 801E14A4 0007
-#The degree of advance of the scene Scene 8
+#Select Scene\Scene 8
 801E14A4 0008
-#The degree of advance of the scene Scene 9
+#Select Scene\Scene 9
 801E14A4 0009
-#The degree of advance of the scene Scene 10
+#Select Scene\Scene 10
 801E14A4 000A
-#The degree of advance of the scene Scene 11
+#Select Scene\Scene 11
 801E14A4 000B
-#The degree of advance of the scene Scene 12
+#Select Scene\Scene 12
 801E14A4 000C
 #GUITAR RACK
 301E1188 0001
 301E118C 0001
 301E1190 0001
+301E1194 0001
+301E1198 0001
+301E119C 0001
+301E11A0 0001
+301E11A4 0001
 
 ; [ Tonde! Tonde! Diet: Stepper Action Game (Japan) {SLPS-03347} ]
 :SLPS-03347
@@ -160846,13 +162270,16 @@ D003FF5A F0FE
 #Hp Max
 300A3DDC 00C8
 #Infinite HP
-800A3CC0 0001
+800BDD5C 0090
+900CD3FC 00900090
 #Infinite SP
 900CD5C8 00500050
 #L-Hand Max
 300A3DF8 0012
 #Vp Max
 300A3DF4 0020
+#Infinite HP (Alt)
+800A3CC0 0001
 #Infinite MP
 800A3DDC 00C8
 #Infinite VP
@@ -162678,6 +164105,8 @@ A60ED5EA 0040004A
 80093D2E FFFF
 #Unlocked All hidden entrance movies & music Billy Gunn, Bull Buchanan, Cactus Jack & Debra
 80093D28 FFFF
+#Unlocked All hidden entrance movies & music Mean Street Posse, Raw is War, Shawn Michaels & Stone Cold
+80093D2C FFFF
 #Unlocked All hidden entrance movies & music All wrestlers
 90093878 FFFFFFFF
 9009387C FFFFFFFF
@@ -163511,6 +164940,8 @@ D007EA24 0001
 #Max / infinite gella
 900DE394 0098967F
 #Rudy Infinite & Max HP
+900DDFA8 270F270F
+#Rudy Infinite & Max MP
 900DDFAC 270F270F
 #Jack Infinite & Max HP
 900DDFDC 270F270F
@@ -165002,9 +166433,11 @@ D00EE516 FDFE
 30172572 00FF
 #Mission 15 - Nothing Is Ever Routine Health bar at max
 80173316 0000
-#Mission 15 - Nothing Is Ever Routine Stop first chased car (orange) (Press Select & Triangle Pad 2)	D00EE516 EFFE
+#Mission 15 - Nothing Is Ever Routine Stop first chased car (orange) (Press Select & Triangle Pad 2)
+D00EE516 EFFE
 30173196 00FF
-#Mission 15 - Nothing Is Ever Routine Stop second chased car (red) (Press Select & Circle Pad 2)	D00EE516 DFFE
+#Mission 15 - Nothing Is Ever Routine Stop second chased car (red) (Press Select & Circle Pad 2)
+D00EE516 DFFE
 30173016 00FF
 #Mission 16 - Jacked Up Jailbird Health bar at max
 801722F6 0000
@@ -166025,6 +167458,8 @@ D00788F0 0094
 #Xevious/Super Xevious/Xevious Arrange Weapon Upgrade
 80131EA4 0002
 #Xevious 3D/G\P1 Infinite Solvalous
+3012DD58 0005
+#Xevious 3D/G\P2 Infinite Solvalous
 3012DD5C 0005
 #Xevious 3D/G\P1 Invincibility
 30146A18 00C7
@@ -166248,7 +167683,7 @@ A602A9A2 10401440
 A610DC24 FFFF0000
 #Not Wasting Shields
 A610B9D0 FFFF0000
-#Mortal blow Press SEL + L2:mortal blow Press SEL + R2
+#Mortal Blow:Press SEL + L2 for mortal blow. Press SEL + R2 for Invincibility or Press SEL + L2 + R2 for Normal Blow
 D00CD048 0101
 8010D666 0000
 D00CD048 0102
@@ -166379,18 +167814,27 @@ D00CD048 0103
 #Lucid Hp/Mp 999 (Battle Only)
 900BB560 03E703E7
 900BB564 03E703E7
-#Stats 255
-900BB7CC 00FF00FF
-900BB7D0 00FF00FF
+#Lucid Stats 255
+900BB568 00FF00FF
+900BB56C 00FF00FF
 #Bisette Hp/Mp 999 (Battle Only)
 900BB6F8 03E703E7
 900BB6FC 03E703E7
+#Bisette Stats 255
+900BB700 00FF00FF
+900BB704 00FF00FF
 #Vircia Hp/Mp 999 (Battle Only)
 900BB890 03E703E7
 900BB894 03E703E7
+#Vircia Stats 255
+900BB898 00FF00FF
+900BB89C 00FF00FF
 #Ruety Hp/Mp 999 (Battle Only)
 900BB7C4 03E703E7
 900BB7C8 03E703E7
+#Ruety Stats 255
+900BB7CC 00FF00FF
+900BB7D0 00FF00FF
 #Favorability rating Max
 8005416D 869F
 3005416F 0001
@@ -166414,7 +167858,7 @@ D00CD048 0103
 #Infinite Magic Colosseum Mode
 800A2E74 012C
 #Infinite Money 999999
-9008EC20 000F423F
+900705A0 000F423F
 #HP enemy in combat 0
 800A2FF2 0000
 #All Gallery Unlocked
@@ -166437,6 +167881,8 @@ D00CD048 0103
 800C2CAA 028A
 #Infinite Magic colosseum mode
 800C2CAC 0190
+#Infinite Money 999999 (Alt)
+9008EC20 000F423F
 #HP currently
 800C2CAA 03E7
 #MP now

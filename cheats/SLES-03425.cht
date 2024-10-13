@@ -183,14 +183,16 @@ Type = Gameshark
 Activation = EndFrame
 80173316 0000
 
-[Mission 15 - Nothing Is Ever Routine Stop first chased car (orange) (Press Select & Triangle Pad 2)	D00EE516 EFFE]
+[Mission 15 - Nothing Is Ever Routine Stop first chased car (orange) (Press Select & Triangle Pad 2)]
 Type = Gameshark
 Activation = EndFrame
+D00EE516 EFFE
 30173196 00FF
 
-[Mission 15 - Nothing Is Ever Routine Stop second chased car (red) (Press Select & Circle Pad 2)	D00EE516 DFFE]
+[Mission 15 - Nothing Is Ever Routine Stop second chased car (red) (Press Select & Circle Pad 2)]
 Type = Gameshark
 Activation = EndFrame
+D00EE516 DFFE
 30173016 00FF
 
 [Mission 16 - Jacked Up Jailbird Health bar at max]

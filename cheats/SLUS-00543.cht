@@ -18,7 +18,10 @@ Activation = EndFrame
 [Infinite Secondary Weapon]
 Type = Gameshark
 Activation = EndFrame
-30011936 0001
+80119D28 0005
+80119D5C 0005
+800FE472 0005
+80119CF4 0005
 
 [Energy Weapon Never Overheats]
 Type = Gameshark
@@ -71,6 +74,11 @@ Activation = EndFrame
 Type = Gameshark
 Activation = EndFrame
 30011935 0001
+
+[Infinite Secondary Weapon (Alt)]
+Type = Gameshark
+Activation = EndFrame
+30011936 0001
 
 [Super Cooled Weapons]
 Type = Gameshark

@@ -15,6 +15,11 @@ Type = Gameshark
 Activation = EndFrame
 80047754 0009
 
+[Select Away Team Score\0]
+Type = Gameshark
+Activation = EndFrame
+80047754 0000
+
 [More Creation Points]
 Type = Gameshark
 Activation = EndFrame

@@ -845,7 +845,7 @@ Activation = EndFrame
 [Character\Magic\Enchanter\Aero Guard]
 Type = Gameshark
 Activation = EndFrame
-8004C8BC 9000
+8004C820 9000
 
 [Character\Magic\Enchanter\Pyro Guard]
 Type = Gameshark
@@ -856,6 +856,11 @@ Activation = EndFrame
 Type = Gameshark
 Activation = EndFrame
 8004C888 9000
+
+[Character\Magic\Enchanter\Aero Guard (Alt)]
+Type = Gameshark
+Activation = EndFrame
+8004C8BC 9000
 
 [Character\Score Menu\All Titles]
 Type = Gameshark

@@ -8,8 +8,7 @@ A60CCAE2 00002000
 [Infinite Lives]
 Type = Gameshark
 Activation = EndFrame
-8007F038 0009
-800CDB70 0009
+800CCB50 0009
 
 [Stop Timer]
 Type = Gameshark
@@ -35,6 +34,12 @@ Activation = EndFrame
 Type = Gameshark
 Activation = EndFrame
 80078BF8 4000
+
+[Infinite Lives (Alt)]
+Type = Gameshark
+Activation = EndFrame
+8007F038 0009
+800CDB70 0009
 
 [Invincibility (Alt)]
 Type = Gameshark

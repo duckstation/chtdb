@@ -92,7 +92,8 @@ Type = Gameshark
 Activation = EndFrame
 801FFF84 3000
 
-[Monster Level Codes\Levelgrundcode .Die Levels #Sewer Snake#, #Snowman#, #Jose Manuel# und #The Roofs# kann man leider nicht als Monster spielen. Muss eingeschaltet sein Codes nach Beginn des Levels durch drücken von L1+L2+R1+R2+O einschalten und vor dem Laden des nächsten Levels durch drücken von L1+L2+R1+R2+X wieder ausschalten.]
+[Monster Level Codes\Levelgrundcode]
+Description = Die Levels 'Sewer Snake', 'Snowman', 'Jose Manuel' und 'The Roofs' kann man leider nicht als Monster spielen. Muss eingeschaltet sein Codes nach Beginn des Levels durch drücken von L1+L2+R1+R2+O einschalten und vor dem Laden des nächsten Levels durch drücken von L1+L2+R1+R2+X wieder ausschalten.
 Type = Gameshark
 Activation = EndFrame
 D0090700 2F00
@@ -100,199 +101,200 @@ D0090700 2F00
 D0090700 4F00
 80000000 0000
 
-[Chelsea\Unendlich Lebensleiste]
+[Chelsea\Unendlich Lebensleiste (Monster)]
 Type = Gameshark
 Activation = EndFrame
-D0000004 2222
-801C2D9A 0C0C
+D0000000 3333
+801B127E 07D0
 
-[Chelsea\Durch WäNde Gehen]
+[Chelsea\Durch WäNde Gehen (Monster)]
 Type = Gameshark
 Activation = EndFrame
-D0000004 2222
-801C2D9C 1000
+D0000000 3333
+801B1280 1000
 
-[Spitalfield\Unendlich Lebensleiste]
+[Spitalfield\Unendlich Lebensleiste (Monster)]
 Type = Gameshark
 Activation = EndFrame
-D0000004 2222
-801E9D32 0C0C
+D0000000 3333
+801D658E 07D0
 
-[Spitalfield\Durch WäNde Gehen]
+[Spitalfield\Durch WäNde Gehen (Monster)]
 Type = Gameshark
 Activation = EndFrame
-D0000004 2222
-801E9D34 1000
+D0000000 3333
+801D6590 1000
 
-[Thames Tunnel\Unendlich Lebensleiste]
+[Thames Tunnel\Unendlich Lebensleiste (Monster)]
 Type = Gameshark
 Activation = EndFrame
-D0000004 2222
-801F1036 0C0C
+D0000000 3333
+801E064A 0C0C
 
-[Thames Tunnel\Durch WäNde Gehen]
+[Thames Tunnel\Durch WäNde Gehen (Monster)]
 Type = Gameshark
 Activation = EndFrame
-D0000004 2222
-801F1038 1000
+D0000000 3333
+801E064C 0C0C
 
-[India Docks\Unendlich Lebensleiste]
+[India Docks\Unendlich Lebensleiste (Monster)]
 Type = Gameshark
 Activation = EndFrame
-D0000004 2222
-801EDAC6 0C0C
+D0000000 3333
+801D48AE 1000
 
-[India Docks\Durch WäNde Gehen]
+[India Docks\Durch WäNde Gehen (Monster)]
 Type = Gameshark
 Activation = EndFrame
-D0000004 2222
-801EDAC8 1000
+D0000000 3333
+801D48B0 1000
 
-[Highgate Cemetery\Unendlich Lebensleiste]
+[Highgate Cemetery\Unendlich Lebensleiste (Monster)]
 Type = Gameshark
 Activation = EndFrame
-D0000002 1111
-801ECA0E 1000
+D0000000 3333
+801DF092 1000
 
-[Highgate Cemetery\Durch WäNde Gehen]
+[Highgate Cemetery\Durch WäNde Gehen (Monster)]
 Type = Gameshark
 Activation = EndFrame
-D0000002 1111
-801ECA10 1000
+D0000000 3333
+801DF094 1000
 
-[Hampstead Heath\Unendlich Lebensleiste]
+[Hampstead Heath\Unendlich Lebensleiste (Monster)]
 Type = Gameshark
 Activation = EndFrame
-D0000004 2222
-801F0EAA 0C0C
+D0000000 3333
+801DCB2E 0640
 
-[Hampstead Heath\Durch WäNde Gehen]
+[Hampstead Heath\Durch WäNde Gehen (Monster)]
 Type = Gameshark
 Activation = EndFrame
-D0000004 2222
-801F0EAC 1000
+D0000000 3333
+801DCB30 0640
 
-[Queenhite Docks\Unendlich Lebensleiste]
+[Queenhite Docks\Unendlich Lebensleiste (Monster)]
 Type = Gameshark
 Activation = EndFrame
-D0000004 2222
-801ED5E6 0C0C
+D0000000 3333
+801D9AE4 07D0
 
-[Queenhite Docks\Durch WäNde Gehen]
+[Queenhite Docks\Durch WäNde Gehen (Monster)]
 Type = Gameshark
 Activation = EndFrame
-D0000004 2222
-801ED5E8 1000
+D0000000 3333
+801D9AE6 07D0
 
-[City\Unendlich Lebensleiste]
+[City\Unendlich Lebensleiste (Monster)]
 Type = Gameshark
 Activation = EndFrame
-D0000004 2222
-801F04FA 0C0C
+D0000000 3333
+801DF85E 0C0C
 
-[City\Durch WäNde Gehen]
+[City\Durch WäNde Gehen (Monster)]
 Type = Gameshark
 Activation = EndFrame
-D0000004 2222
-801F04FC 1000
+D0000000 3333
+801DF860 0C0C
 
-[Smithfield\Unendlich Lebensleiste]
+[Smithfield\Unendlich Lebensleiste (Monster)]
 Type = Gameshark
 Activation = EndFrame
-D0000004 2222
-801DDA3A 0C0C
+D0000000 3333
+801CC1BE 1000
 
-[Smithfield\Durch WäNde Gehen]
+[Smithfield\Durch WäNde Gehen (Monster)]
 Type = Gameshark
 Activation = EndFrame
-D0000004 2222
-801DDA3C 1000
+D0000000 3333
+801CC1C0 1000
 
-[Regent's Canal\Unendlich Lebensleiste]
+[Regent's Canal\Unendlich Lebensleiste (Monster)]
 Type = Gameshark
 Activation = EndFrame
-D0000004 2222
-801E6912 0C0C
+D0000000 3333
+801D4CBE 0CCC
 
-[Regent's Canal\Durch WäNde Gehen]
+[Regent's Canal\Durch WäNde Gehen (Monster)]
 Type = Gameshark
 Activation = EndFrame
-D0000004 2222
-801E6914 1000
+D0000000 3333
+801D4CC0 0CCC
 
-[London Zoo\Unendlich Lebensleiste]
+[London Zoo\Unendlich Lebensleiste (Monster)]
 Type = Gameshark
 Activation = EndFrame
-D0000004 2222
-801F24CE 0C0C
+D0000000 3333
+801DB2EE 1000
 
-[London Zoo\Durch WäNde Gehen]
+[London Zoo\Durch WäNde Gehen (Monster)]
 Type = Gameshark
 Activation = EndFrame
-D0000004 2222
-801F24D0 1000
+D0000000 3333
+801DB2F0 1000
 
-[Marylebone\Unendlich Lebensleiste]
+[Marylebone\Unendlich Lebensleiste (Monster)]
 Type = Gameshark
 Activation = EndFrame
-D0000004 2222
-801E5D72 0C0C
+D0000000 3333
+801D59EA 1000
 
-[Marylebone\Durch WäNde Gehen]
+[Marylebone\Durch WäNde Gehen (Monster)]
 Type = Gameshark
 Activation = EndFrame
-D0000004 2222
-801E5D74 1000
+D0000000 3333
+801D59EC 1000
 
-[Bloomsbury\Unendlich Lebensleiste]
+[Bloomsbury\Unendlich Lebensleiste (Monster)]
 Type = Gameshark
 Activation = EndFrame
-D0000004 2222
-801F2BF6 0C0C
+D0000000 3333
+801DEF24 0CCC
 
-[Bloomsbury\Durch WäNde Gehen]
+[Bloomsbury\Durch WäNde Gehen (Monster)]
 Type = Gameshark
 Activation = EndFrame
-D0000004 2222
-801F2BF8 1000
+D0000000 3333
+801DEF26 1000
 
-[Pimlico\Unendlich Lebensleiste]
+[Pimlico\Unendlich Lebensleiste (Monster)]
 Type = Gameshark
 Activation = EndFrame
-D0000004 2222
-801E4D86 0C0C
+D0000000 3333
+801D326A 0828
 
-[Pimlico\Durch WäNde Gehen]
+[Pimlico\Durch WäNde Gehen (Monster)]
 Type = Gameshark
 Activation = EndFrame
-D0000004 2222
-801E4D88 1000
+D0000000 3333
+801D326C 1000
 
-[Westminster\Unendlich Lebensleiste]
+[Westminster\Unendlich Lebensleiste (Monster)]
 Type = Gameshark
 Activation = EndFrame
 D0000000 3333
 801BC70A 0787
 
-[Westminster\Durch WäNde Gehen]
+[Westminster\Durch WäNde Gehen (Monster)]
 Type = Gameshark
 Activation = EndFrame
 D0000000 3333
 801BC70C 1000
 
-[Westminster Ii\Unendlich Lebensleiste]
+[Westminster Ii\Unendlich Lebensleiste (Monster)]
 Type = Gameshark
 Activation = EndFrame
 D0000000 3333
 801B2626 1000
 
-[Westminster Ii\Durch WäNde Gehen]
+[Westminster Ii\Durch WäNde Gehen (Monster)]
 Type = Gameshark
 Activation = EndFrame
 D0000000 3333
 801B2628 1000
 
-[Level Codes Ignatius\Levelgrundcode Muss eingeschaltet sein Codes nach Beginn des Levels durch drücken von L1+L2+R1+R2+O einschalten und vor dem Laden des nächsten Levels durch drücken von L1+L2+R1+R2+X wieder ausschalten.]
+[Level Codes Ignatius\Levelgrundcode Muss eingeschaltet]
+Description = sein Codes nach Beginn des Levels durch drücken von L1+L2+R1+R2+O einschalten und vor dem Laden des nächsten Levels durch drücken von L1+L2+R1+R2+X wieder ausschalten.
 Type = Gameshark
 Activation = EndFrame
 D0090700 2F00
@@ -300,79 +302,236 @@ D0090700 2F00
 D0090700 4F00
 80000002 0000
 
-[Sewer Snake\Unendlich Lebensleiste]
+[Chelsea\Unendlich Lebensleiste (Ignatius)]
 Type = Gameshark
 Activation = EndFrame
-D0000004 2222
-8016A2F6 0C0C
+D0000002 1111
+801C35C6 1000
 
-[Snowman\Unendlich Lebensleiste]
+[Chelsea\Durch WäNde Gehen (Ignatius)]
 Type = Gameshark
 Activation = EndFrame
-D0000004 2222
-80160186 0C0C
+D0000002 1111
+801C35C8 1000
 
-[St. Marilebone\Unendlich Lebensleiste]
+[Spitalfield\Unendlich Lebensleiste (Ignatius)]
+Type = Gameshark
+Activation = EndFrame
+D0000002 1111
+801EA55E 1000
+
+[Spitalfield\Durch WäNde Gehen (Ignatius)]
+Type = Gameshark
+Activation = EndFrame
+D0000002 1111
+801EA560 1000
+
+[Sewer Snake\Unendlich Lebensleiste (Ignatius)]
+Type = Gameshark
+Activation = EndFrame
+D0000002 1111
+8016AB22 1000
+
+[Thames Tunnel\Unendlich Lebensleiste (Ignatius)]
+Type = Gameshark
+Activation = EndFrame
+D0000002 1111
+801F1C7A 1000
+
+[Thames Tunnel\Durch WäNde Gehen (Ignatius)]
+Type = Gameshark
+Activation = EndFrame
+D0000002 1111
+801F1C7C 1000
+
+[India Docks\Unendlich Lebensleiste (Ignatius)]
+Type = Gameshark
+Activation = EndFrame
+D0000002 1111
+801EDEFE 1000
+
+[India Docks\Durch WäNde Gehen (Ignatius)]
+Type = Gameshark
+Activation = EndFrame
+D0000002 1111
+801EDF00 1000
+
+[Highgate Cemetery\Unendlich Lebensleiste (Ignatius)]
+Type = Gameshark
+Activation = EndFrame
+D0000002 1111
+801ECA0E 1000
+
+[Highgate Cemetery\Durch WäNde Gehen (Ignatius)]
+Type = Gameshark
+Activation = EndFrame
+D0000002 1111
+801ECA10 1000
+
+[Hampstead Heath\Unendlich Lebensleiste (Ignatius)]
+Type = Gameshark
+Activation = EndFrame
+D0000002 1111
+801F16D6 1000
+
+[Hampstead Heath\Durch WäNde Gehen (Ignatius)]
+Type = Gameshark
+Activation = EndFrame
+D0000002 1111
+801F16D8 1000
+
+[Queenhite Docks\Unendlich Lebensleiste (Ignatius)]
+Type = Gameshark
+Activation = EndFrame
+D0000002 1111
+801EDA1E 1000
+
+[Queenhite Docks\Durch WäNde Gehen (Ignatius)]
+Type = Gameshark
+Activation = EndFrame
+D0000002 1111
+801EDA20 1000
+
+[City\Unendlich Lebensleiste (Ignatius)]
+Type = Gameshark
+Activation = EndFrame
+D0000002 1111
+801F22FE 1000
+
+[City\Durch WäNde Gehen (Ignatius)]
+Type = Gameshark
+Activation = EndFrame
+D0000002 1111
+801F2300 1000
+
+[Smithfield\Unendlich Lebensleiste (Ignatius)]
+Type = Gameshark
+Activation = EndFrame
+D0000002 1111
+801DE266 1000
+
+[Smithfield\Durch WäNde Gehen (Ignatius)]
+Type = Gameshark
+Activation = EndFrame
+D0000002 1111
+801DE268 1000
+
+[Snowman\Unendlich Lebensleiste (Ignatius)]
+Type = Gameshark
+Activation = EndFrame
+D0000002 1111
+801609BA 1000
+
+[Regent's Canal\Unendlich Lebensleiste (Ignatius)]
+Type = Gameshark
+Activation = EndFrame
+D0000002 1111
+801E713E 1000
+
+[Regent's Canal\Durch WäNde Gehen (Ignatius)]
+Type = Gameshark
+Activation = EndFrame
+D0000002 1111
+801E7140 1000
+
+[London Zoo\Unendlich Lebensleiste (Ignatius)]
+Type = Gameshark
+Activation = EndFrame
+D0000002 1111
+801F2626 1000
+
+[London Zoo\Durch WäNde Gehen (Ignatius)]
+Type = Gameshark
+Activation = EndFrame
+D0000002 1111
+801F2628 1000
+
+[St. Marilebone\Unendlich Lebensleiste (Ignatius)]
 Type = Gameshark
 Activation = EndFrame
 D0000002 1111
 801E79F6 1000
 
-[St. Marilebone\Durch WäNde Gehen]
+[St. Marilebone\Durch WäNde Gehen (Ignatius)]
 Type = Gameshark
 Activation = EndFrame
 D0000002 1111
 801E79F8 1000
 
-[Jose Manuel\Unendlich Lebensleiste]
+[Bloomsbury\Unendlich Lebensleiste (Ignatius)]
 Type = Gameshark
 Activation = EndFrame
-D0000004 2222
-80166DB6 0C0C
+D0000002 1111
+801F32A6 1000
 
-[Jose Manuel\Durch WäNde Gehen]
+[Bloomsbury\Durch WäNde Gehen (Ignatius)]
 Type = Gameshark
 Activation = EndFrame
-D0000004 2222
-80166DB8 1000
+D0000002 1111
+801F32A8 1000
 
-[Westminister\Unendlich Lebensleiste]
+[Pimlico\Unendlich Lebensleiste (Ignatius)]
 Type = Gameshark
 Activation = EndFrame
-D0000004 2222
-801CFA62 0C0C
+D0000002 1111
+801E55B2 1000
 
-[Westminister\Durch WäNde Gehen]
+[Pimlico\Durch WäNde Gehen (Ignatius)]
 Type = Gameshark
 Activation = EndFrame
-D0000004 2222
-801CFA64 1000
+D0000002 1111
+801E55B4 1000
 
-[Westminister Ii\Unendlich Lebensleiste]
+[Jose Manuel\Unendlich Lebensleiste (Ignatius)]
 Type = Gameshark
 Activation = EndFrame
-D0000004 2222
-801BF776 0C0C
+D0000002 1111
+801675E2 1000
 
-[Westminister Ii\Durch WäNde Gehen]
+[Jose Manuel\Durch WäNde Gehen (Ignatius)]
 Type = Gameshark
 Activation = EndFrame
-D0000004 2222
-801BF778 1000
+D0000002 1111
+801675E4 1000
 
-[The Roofs\Unendlich Lebensleiste]
+[Westminister\Unendlich Lebensleiste (Ignatius)]
 Type = Gameshark
 Activation = EndFrame
-D0000004 2222
-80177746 0C0C
+D0000002 1111
+801D06DA 1000
 
-[The Roofs\Durch WäNde Gehen]
+[Westminister\Durch WäNde Gehen (Ignatius)]
 Type = Gameshark
 Activation = EndFrame
-D0000004 2222
-80177748 1000
+D0000002 1111
+801C06DC 1000
 
-[Level Codes Nadia\Levelgrundcode Muss eingeschaltet sein Codes nach Beginn des Levels durch drücken von L1+L2+R1+R2+O einschalten und vor dem Laden des nächsten Levels durch drücken von L1+L2+R1+R2+X wieder ausschalten.]
+[Westminister Ii\Unendlich Lebensleiste (Ignatius)]
+Type = Gameshark
+Activation = EndFrame
+D0000002 1111
+801BFFA2 1000
+
+[Westminister Ii\Durch WäNde Gehen (Ignatius)]
+Type = Gameshark
+Activation = EndFrame
+D0000002 1111
+801BFFA4 1000
+
+[The Roofs\Unendlich Lebensleiste (Ignatius)]
+Type = Gameshark
+Activation = EndFrame
+D0000002 1111
+80177F72 1000
+
+[The Roofs\Durch WäNde Gehen (Ignatius)]
+Type = Gameshark
+Activation = EndFrame
+D0000002 1111
+80177F74 1000
+
+[Level Codes Nadia\Levelgrundcode Muss eingeschaltet]
+Description = sein Codes nach Beginn des Levels durch drücken von L1+L2+R1+R2+O einschalten und vor dem Laden des nächsten Levels durch drücken von L1+L2+R1+R2+X wieder ausschalten.
 Type = Gameshark
 Activation = EndFrame
 D0090700 2F00
@@ -380,15 +539,231 @@ D0090700 2F00
 D0090700 4F00
 80000004 0000
 
-[Highgate Cemetary\Unendlich Lebensleiste]
+[Chelsea\Unendlich Lebensleiste (Nadia)]
+Type = Gameshark
+Activation = EndFrame
+D0000004 2222
+801C2D9A 0C0C
+
+[Chelsea\Durch WäNde Gehen (Nadia)]
+Type = Gameshark
+Activation = EndFrame
+D0000004 2222
+801C2D9C 1000
+
+[Spitalfield\Unendlich Lebensleiste (Nadia)]
+Type = Gameshark
+Activation = EndFrame
+D0000004 2222
+801E9D32 0C0C
+
+[Spitalfield\Durch WäNde Gehen (Nadia)]
+Type = Gameshark
+Activation = EndFrame
+D0000004 2222
+801E9D34 1000
+
+[Sewer Snake\Unendlich Lebensleiste (Nadia)]
+Type = Gameshark
+Activation = EndFrame
+D0000004 2222
+8016A2F6 0C0C
+
+[Thames Tunnel\Unendlich Lebensleiste (Nadia)]
+Type = Gameshark
+Activation = EndFrame
+D0000004 2222
+801F1036 0C0C
+
+[Thames Tunnel\Durch WäNde Gehen (Nadia)]
+Type = Gameshark
+Activation = EndFrame
+D0000004 2222
+801F1038 1000
+
+[India Docks\Unendlich Lebensleiste (Nadia)]
+Type = Gameshark
+Activation = EndFrame
+D0000004 2222
+801EDAC6 0C0C
+
+[India Docks\Durch WäNde Gehen (Nadia)]
+Type = Gameshark
+Activation = EndFrame
+D0000004 2222
+801EDAC8 1000
+
+[Highgate Cemetary\Unendlich Lebensleiste (Nadia)]
 Type = Gameshark
 Activation = EndFrame
 D0000004 2222
 801EC902 0C0C
 
-[Highgate Cemetary\Durch WäNde Gehen]
+[Highgate Cemetary\Durch WäNde Gehen (Nadia)]
 Type = Gameshark
 Activation = EndFrame
 D0000004 2222
 801EC904 1000
+
+[Hampstead Heath\Unendlich Lebensleiste (Nadia)]
+Type = Gameshark
+Activation = EndFrame
+D0000004 2222
+801F0EAA 0C0C
+
+[Hampstead Heath\Durch WäNde Gehen (Nadia)]
+Type = Gameshark
+Activation = EndFrame
+D0000004 2222
+801F0EAC 1000
+
+[Queenhite Docks\Unendlich Lebensleiste (Nadia)]
+Type = Gameshark
+Activation = EndFrame
+D0000004 2222
+801ED5E6 0C0C
+
+[Queenhite Docks\Durch WäNde Gehen (Nadia)]
+Type = Gameshark
+Activation = EndFrame
+D0000004 2222
+801ED5E8 1000
+
+[City\Unendlich Lebensleiste (Nadia)]
+Type = Gameshark
+Activation = EndFrame
+D0000004 2222
+801F04FA 0C0C
+
+[City\Durch WäNde Gehen (Nadia)]
+Type = Gameshark
+Activation = EndFrame
+D0000004 2222
+801F04FC 1000
+
+[Smithfield\Unendlich Lebensleiste (Nadia)]
+Type = Gameshark
+Activation = EndFrame
+D0000004 2222
+801DDA3A 0C0C
+
+[Smithfield\Durch WäNde Gehen (Nadia)]
+Type = Gameshark
+Activation = EndFrame
+D0000004 2222
+801DDA3C 1000
+
+[Snowman\Unendlich Lebensleiste (Nadia)]
+Type = Gameshark
+Activation = EndFrame
+D0000004 2222
+80160186 0C0C
+
+[Regent's Canal\Unendlich Lebensleiste (Nadia)]
+Type = Gameshark
+Activation = EndFrame
+D0000004 2222
+801E6912 0C0C
+
+[Regent's Canal\Durch WäNde Gehen (Nadia)]
+Type = Gameshark
+Activation = EndFrame
+D0000004 2222
+801E6914 1000
+
+[London Zoo\Unendlich Lebensleiste (Nadia)]
+Type = Gameshark
+Activation = EndFrame
+D0000004 2222
+801F24CE 0C0C
+
+[London Zoo\Durch WäNde Gehen (Nadia)]
+Type = Gameshark
+Activation = EndFrame
+D0000004 2222
+801F24D0 1000
+
+[Marylebone\Unendlich Lebensleiste (Nadia)]
+Type = Gameshark
+Activation = EndFrame
+D0000004 2222
+801E5D72 0C0C
+
+[Marylebone\Durch WäNde Gehen (Nadia)]
+Type = Gameshark
+Activation = EndFrame
+D0000004 2222
+801E5D74 1000
+
+[Bloomsbury\Unendlich Lebensleiste (Nadia)]
+Type = Gameshark
+Activation = EndFrame
+D0000004 2222
+801F2BF6 0C0C
+
+[Bloomsbury\Durch WäNde Gehen (Nadia)]
+Type = Gameshark
+Activation = EndFrame
+D0000004 2222
+801F2BF8 1000
+
+[Pimlico\Unendlich Lebensleiste (Nadia)]
+Type = Gameshark
+Activation = EndFrame
+D0000004 2222
+801E4D86 0C0C
+
+[Pimlico\Durch WäNde Gehen (Nadia)]
+Type = Gameshark
+Activation = EndFrame
+D0000004 2222
+801E4D88 1000
+
+[Jose Manuel\Unendlich Lebensleiste (Nadia)]
+Type = Gameshark
+Activation = EndFrame
+D0000004 2222
+80166DB6 0C0C
+
+[Jose Manuel\Durch WäNde Gehen (Nadia)]
+Type = Gameshark
+Activation = EndFrame
+D0000004 2222
+80166DB8 1000
+
+[Westminister\Unendlich Lebensleiste (Nadia)]
+Type = Gameshark
+Activation = EndFrame
+D0000004 2222
+801CFA62 0C0C
+
+[Westminister\Durch WäNde Gehen (Nadia)]
+Type = Gameshark
+Activation = EndFrame
+D0000004 2222
+801CFA64 1000
+
+[Westminister Ii\Unendlich Lebensleiste (Nadia)]
+Type = Gameshark
+Activation = EndFrame
+D0000004 2222
+801BF776 0C0C
+
+[Westminister Ii\Durch WäNde Gehen (Nadia)]
+Type = Gameshark
+Activation = EndFrame
+D0000004 2222
+801BF778 1000
+
+[The Roofs\Unendlich Lebensleiste (Nadia)]
+Type = Gameshark
+Activation = EndFrame
+D0000004 2222
+80177746 0C0C
+
+[The Roofs\Durch WäNde Gehen (Nadia)]
+Type = Gameshark
+Activation = EndFrame
+D0000004 2222
+80177748 1000
 

@@ -35,7 +35,8 @@ Activation = EndFrame
 [Have All Cars]
 Type = Gameshark
 Activation = EndFrame
-80176AD8 000D
+801D6DFC 0001
+801DB008 0001
 
 [Have All Tracks]
 Type = Gameshark
@@ -90,6 +91,11 @@ Activation = EndFrame
 Type = Gameshark
 Activation = EndFrame
 80080196 000F
+
+[Have All Cars (Alt)]
+Type = Gameshark
+Activation = EndFrame
+80176AD8 000D
 
 [Custom Logo Colors(Team Logo Design Screen Under Paint)]
 Type = Gameshark

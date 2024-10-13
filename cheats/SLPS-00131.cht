@@ -20,13 +20,13 @@ Type = Gameshark
 Activation = EndFrame
 801BDE80 00FF
 
-[P1 Infinite Blue Smartbombs]
+[P1 Select Infinite Smartbomb Type\Blue]
 Type = Gameshark
 Activation = EndFrame
-801BDEFA 0101
-901BDEFC 01010101
+801BDE92 0101
+901BDE94 01010101
 
-[P1 Infinite Red Smartbombs]
+[P1 Select Infinite Smartbomb Type\Red]
 Type = Gameshark
 Activation = EndFrame
 801BDE92 0202
@@ -47,7 +47,13 @@ Type = Gameshark
 Activation = EndFrame
 801BDEE8 00FF
 
-[P2 Infinite Red Smartbombs]
+[P2 Select Infinite Smartbomb Type\Blue]
+Type = Gameshark
+Activation = EndFrame
+801BDEFA 0101
+901BDEFC 01010101
+
+[P2 Select Infinite Smartbomb Type\Red]
 Type = Gameshark
 Activation = EndFrame
 801BDEFA 0202

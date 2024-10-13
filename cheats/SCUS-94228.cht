@@ -699,14 +699,49 @@ Activation = EndFrame
 [Home\Have all dragons freed]
 Type = Gameshark
 Activation = EndFrame
+8007DC68 0004
+
+[Home\Have all dragons freed (Alt 1)]
+Type = Gameshark
+Activation = EndFrame
+8007DC80 0003
+
+[Home\Have all dragons freed (Alt 2)]
+Type = Gameshark
+Activation = EndFrame
+8007DC98 0003
+
+[Home\Have all dragons freed (Alt 3)]
+Type = Gameshark
+Activation = EndFrame
 8007DCB0 0002
 
-[Home\Have all dragons freede]
+[Home\Have all dragons freed (Alt 4)]
 Type = Gameshark
 Activation = EndFrame
 8007DCC8 0003
 
 [Home\Have all stolen treasures]
+Type = Gameshark
+Activation = EndFrame
+8007DDB0 0064
+
+[Home\Have all stolen treasures (Alt 1)]
+Type = Gameshark
+Activation = EndFrame
+8007DDC8 00C8
+
+[Home\Have all stolen treasures (Alt 2)]
+Type = Gameshark
+Activation = EndFrame
+8007DDE0 012C
+
+[Home\Have all stolen treasures (Alt 3)]
+Type = Gameshark
+Activation = EndFrame
+8007DDF8 012C
+
+[Home\Have all stolen treasures (Alt 4)]
 Type = Gameshark
 Activation = EndFrame
 8007DE10 012C

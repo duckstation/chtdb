@@ -25,7 +25,7 @@ Activation = EndFrame
 [Infinite Energy]
 Type = Gameshark
 Activation = EndFrame
-800EAAE2 04B0
+9005D2A4 00000000
 
 [Infinite Time]
 Type = Gameshark
@@ -36,6 +36,11 @@ Activation = EndFrame
 Type = Gameshark
 Activation = EndFrame
 800EA846 0000
+
+[Infinite Energy (Alt)]
+Type = Gameshark
+Activation = EndFrame
+800EAAE2 04B0
 
 [Infinite Rifle]
 Type = Gameshark

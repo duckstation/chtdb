@@ -15,7 +15,7 @@ D004C028 0034
 [Mission 1 Infinite cell phone stunner]
 Type = Gameshark
 Activation = EndFrame
-A607CB34 FFFF0000
+800B647C 0064
 
 [Mission 1Infinite Wolfram p2k]
 Type = Gameshark
@@ -27,6 +27,11 @@ Type = Gameshark
 Activation = EndFrame
 A6038EE0 FFFF0000
 A6039358 FFFE0000
+
+[Mission 1 Infinite cell phone stunner (Alt)]
+Type = Gameshark
+Activation = EndFrame
+A607CB34 FFFF0000
 
 [Mission 1 Infinite satchel charges]
 Type = Gameshark

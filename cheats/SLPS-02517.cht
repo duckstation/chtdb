@@ -6,11 +6,11 @@ Activation = EndFrame
 900BB560 03E703E7
 900BB564 03E703E7
 
-[Stats 255]
+[Lucid Stats 255]
 Type = Gameshark
 Activation = EndFrame
-900BB7CC 00FF00FF
-900BB7D0 00FF00FF
+900BB568 00FF00FF
+900BB56C 00FF00FF
 
 [Bisette Hp/Mp 999 (Battle Only)]
 Type = Gameshark
@@ -18,17 +18,35 @@ Activation = EndFrame
 900BB6F8 03E703E7
 900BB6FC 03E703E7
 
+[Bisette Stats 255]
+Type = Gameshark
+Activation = EndFrame
+900BB700 00FF00FF
+900BB704 00FF00FF
+
 [Vircia Hp/Mp 999 (Battle Only)]
 Type = Gameshark
 Activation = EndFrame
 900BB890 03E703E7
 900BB894 03E703E7
 
+[Vircia Stats 255]
+Type = Gameshark
+Activation = EndFrame
+900BB898 00FF00FF
+900BB89C 00FF00FF
+
 [Ruety Hp/Mp 999 (Battle Only)]
 Type = Gameshark
 Activation = EndFrame
 900BB7C4 03E703E7
 900BB7C8 03E703E7
+
+[Ruety Stats 255]
+Type = Gameshark
+Activation = EndFrame
+900BB7CC 00FF00FF
+900BB7D0 00FF00FF
 
 [Favorability rating Max]
 Type = Gameshark

@@ -39,10 +39,10 @@ Type = Gameshark
 Activation = EndFrame
 800714FE 0001
 
-[Select Level\Underground Recycling Plant]
+[Select Level\Underground Recycling Plant 1]
 Type = Gameshark
 Activation = EndFrame
-800714FE 000A
+800714FE 0002
 
 [Select Level\Raw Material Nano Mine]
 Type = Gameshark
@@ -78,6 +78,11 @@ Activation = EndFrame
 Type = Gameshark
 Activation = EndFrame
 800714FE 0009
+
+[Select Level\Underground Recycling Plant 2]
+Type = Gameshark
+Activation = EndFrame
+800714FE 000A
 
 [Select Level\The Frozen Lake]
 Type = Gameshark

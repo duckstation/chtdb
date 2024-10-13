@@ -29,6 +29,11 @@ Activation = EndFrame
 [Compy Level\Infinite Energy (Beneath The Surface)]
 Type = Gameshark
 Activation = EndFrame
+80088ACE 0064
+
+[Compy Level\Infinite Energy (Beneath The Surface) (Alt)]
+Type = Gameshark
+Activation = EndFrame
 8008A664 0063
 
 [Compy Level\Infinite Energy (Creek Bed)]
@@ -44,6 +49,11 @@ Activation = EndFrame
 [Compy Level\Infinite Energy (Plains)]
 Type = Gameshark
 Activation = EndFrame
+8009886E 0064
+
+[Compy Level\Infinite Energy (Plains) (Alt)]
+Type = Gameshark
+Activation = EndFrame
 8009A404 0063
 
 [Compy Level\Infinite Energy (Rain Forest)]
@@ -54,14 +64,29 @@ Activation = EndFrame
 [Compy Level\Infinite Energy (River's Edge)]
 Type = Gameshark
 Activation = EndFrame
+800A4F6E 0064
+
+[Compy Level\Infinite Energy (River's Edge) (Alt)]
+Type = Gameshark
+Activation = EndFrame
 800A6B04 0063
 
 [Compy Level\Infinite Energy (Sleeping Titan)]
 Type = Gameshark
 Activation = EndFrame
+800A441E 0064
+
+[Compy Level\Infinite Energy (Sleeping Titan) (Alt)]
+Type = Gameshark
+Activation = EndFrame
 800A5FB4 0063
 
 [Compy Level\Infinite Energy (Tidal Cavern)]
+Type = Gameshark
+Activation = EndFrame
+800DF66E 0064
+
+[Compy Level\Infinite Energy (Tidal Cavern) (Alt)]
 Type = Gameshark
 Activation = EndFrame
 800E1204 0063

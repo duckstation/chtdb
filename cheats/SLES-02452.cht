@@ -3,8 +3,7 @@
 [Infinite Air]
 Type = Gameshark
 Activation = EndFrame
-D013F012 0064
-8013F00E 64FF
+A601EBA0 00070000
 
 [Infinite Health]
 Type = Gameshark
@@ -88,6 +87,12 @@ Type = Gameshark
 Activation = EndFrame
 D013F012 0064
 8013F010 0064
+
+[Infinite Air (Alt)]
+Type = Gameshark
+Activation = EndFrame
+D013F012 0064
+8013F00E 64FF
 
 [Attach Grappling Hook Anywhere]
 Type = Gameshark

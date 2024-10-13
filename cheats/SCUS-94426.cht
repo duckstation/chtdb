@@ -891,6 +891,12 @@ Activation = EndFrame
 [Blizzard Bluff\Start on 3rd lap]
 Type = Gameshark
 Activation = EndFrame
+D01DBB44 0000
+301DBB44 0002
+
+[Blizzard Bluff\Start on 3rd lap (Alt)]
+Type = Gameshark
+Activation = EndFrame
 D01EC374 0000
 301EC374 0002
 
@@ -997,6 +1003,12 @@ Activation = EndFrame
 3008FF5A 0010
 
 [Coco Park\Start on 3rd lap]
+Type = Gameshark
+Activation = EndFrame
+D01AFCC0 0000
+301AFCC0 0002
+
+[Coco Park\Start on 3rd lap (Alt)]
 Type = Gameshark
 Activation = EndFrame
 D01BF908 0000
@@ -1107,6 +1119,12 @@ Activation = EndFrame
 [Cortex Castle\Start on 3rd lap]
 Type = Gameshark
 Activation = EndFrame
+D01E3DC4 0000
+301E3DC4 0002
+
+[Cortex Castle\Start on 3rd lap (Alt)]
+Type = Gameshark
+Activation = EndFrame
 D01F4520 0000
 301F4520 0002
 
@@ -1213,6 +1231,12 @@ Activation = EndFrame
 3008FF59 0002
 
 [Crash Cove\Start on 3rd lap]
+Type = Gameshark
+Activation = EndFrame
+D01E0084 0000
+301E0084 0002
+
+[Crash Cove\Start on 3rd lap (Alt)]
 Type = Gameshark
 Activation = EndFrame
 D01F0D3C 0000
@@ -1426,10 +1450,82 @@ D0096EAC DF7F
 [Dingo Canyon\Infinite Wumpa-Fruits]
 Type = Gameshark
 Activation = EndFrame
+D01B5160 0000
+301B5160 000A
+
+[Dingo Canyon\Infinite Wumpa-Fruits (Alt 1)]
+Type = Gameshark
+Activation = EndFrame
+D01B57D0 0000
+301B57D0 000A
+
+[Dingo Canyon\Infinite Wumpa-Fruits (Alt 2)]
+Type = Gameshark
+Activation = EndFrame
+D01B5E40 0000
+301B5E40 000A
+
+[Dingo Canyon\Infinite Wumpa-Fruits (Alt 3)]
+Type = Gameshark
+Activation = EndFrame
+D01B64B0 0000
+301B64B0 000A
+
+[Dingo Canyon\Infinite Wumpa-Fruits (Alt 4)]
+Type = Gameshark
+Activation = EndFrame
+D01C2134 0000
+301C2134 000A
+
+[Dingo Canyon\Infinite Wumpa-Fruits (Alt 5)]
+Type = Gameshark
+Activation = EndFrame
+D01E911C 0000
+301E911C 000A
+
+[Dingo Canyon\Infinite Wumpa-Fruits (Alt 6)]
+Type = Gameshark
+Activation = EndFrame
 D01E978C 0000
 301E978C 000A
 
 [Dingo Canyon\Infinite pickups]
+Type = Gameshark
+Activation = EndFrame
+D01B5167 0000
+301B5167 000A
+
+[Dingo Canyon\Infinite pickups (Alt 1)]
+Type = Gameshark
+Activation = EndFrame
+D01B57D7 0000
+301B57D7 000A
+
+[Dingo Canyon\Infinite pickups (Alt 2)]
+Type = Gameshark
+Activation = EndFrame
+D01B5E47 0000
+301B5E47 000A
+
+[Dingo Canyon\Infinite pickups (Alt 3)]
+Type = Gameshark
+Activation = EndFrame
+D01B64B7 0000
+301B64B7 000A
+
+[Dingo Canyon\Infinite pickups (Alt 4)]
+Type = Gameshark
+Activation = EndFrame
+D01C213B 0000
+301C213B 000A
+
+[Dingo Canyon\Infinite pickups (Alt 5)]
+Type = Gameshark
+Activation = EndFrame
+D01E9123 0000
+301E9123 000A
+
+[Dingo Canyon\Infinite pickups (Alt 6)]
 Type = Gameshark
 Activation = EndFrame
 D01E9793 0000
@@ -1441,6 +1537,48 @@ Activation = EndFrame
 3008FF58 0040
 
 [Dingo Canyon\Start on 3rd lap]
+Type = Gameshark
+Activation = EndFrame
+D01B1728 0000
+301B1728 0002
+
+[Dingo Canyon\Start on 3rd lap (Alt 1)]
+Type = Gameshark
+Activation = EndFrame
+D01B5174 0000
+301B5174 0002
+
+[Dingo Canyon\Start on 3rd lap (Alt 2)]
+Type = Gameshark
+Activation = EndFrame
+D01B57E4 0000
+301B57E4 0002
+
+[Dingo Canyon\Start on 3rd lap (Alt 3)]
+Type = Gameshark
+Activation = EndFrame
+D01B5E54 0000
+301B5E54 0002
+
+[Dingo Canyon\Start on 3rd lap (Alt 4)]
+Type = Gameshark
+Activation = EndFrame
+D01B64C4 0000
+301B64C4 0002
+
+[Dingo Canyon\Start on 3rd lap (Alt 5)]
+Type = Gameshark
+Activation = EndFrame
+D01C2148 0000
+301C2148 0002
+
+[Dingo Canyon\Start on 3rd lap (Alt 6)]
+Type = Gameshark
+Activation = EndFrame
+D01E9130 0000
+301E9130 0002
+
+[Dingo Canyon\Start on 3rd lap (Alt 7)]
 Type = Gameshark
 Activation = EndFrame
 D01E97A0 0000
@@ -1549,6 +1687,12 @@ Activation = EndFrame
 3008FF58 0080
 
 [Dragon Mines\Start on 3rd lap]
+Type = Gameshark
+Activation = EndFrame
+D01D780C 0000
+301D780C 0002
+
+[Dragon Mines\Start on 3rd lap (Alt)]
 Type = Gameshark
 Activation = EndFrame
 D01E8BD8 0000
@@ -1855,6 +1999,12 @@ Activation = EndFrame
 3008FF59 0080
 
 [Mystery Caves\Start on 3rd lap]
+Type = Gameshark
+Activation = EndFrame
+D01E389C 0000
+301E389C 0002
+
+[Mystery Caves\Start on 3rd lap (Alt)]
 Type = Gameshark
 Activation = EndFrame
 D01F4E1C 0000
@@ -2236,6 +2386,12 @@ Activation = EndFrame
 [Oxide Station\Start on 3rd lap]
 Type = Gameshark
 Activation = EndFrame
+D01E3B14 0000
+301E3B14 0002
+
+[Oxide Station\Start on 3rd lap (Alt)]
+Type = Gameshark
+Activation = EndFrame
 D01F3D20 0000
 301F3D20 0002
 
@@ -2430,6 +2586,12 @@ Activation = EndFrame
 [Papu's Pyramid\Start on 3rd lap]
 Type = Gameshark
 Activation = EndFrame
+D01DDDF0 0000
+301DDDF0 0002
+
+[Papu's Pyramid\Start on 3rd lap (Alt)]
+Type = Gameshark
+Activation = EndFrame
 D01EC2A8 0000
 301EC2A8 0002
 
@@ -2619,6 +2781,12 @@ Activation = EndFrame
 3008FF5A 0004
 
 [Polar Pass\Start on 3rd lap]
+Type = Gameshark
+Activation = EndFrame
+D01E1D24 0000
+301E1D24 0002
+
+[Polar Pass\Start on 3rd lap (Alt)]
 Type = Gameshark
 Activation = EndFrame
 D01F32A4 0000
@@ -2970,6 +3138,12 @@ Activation = EndFrame
 [Roo's Tubes\Start on 3rd lap]
 Type = Gameshark
 Activation = EndFrame
+D01C3074 0000
+301C3074 0002
+
+[Roo's Tubes\Start on 3rd lap (Alt)]
+Type = Gameshark
+Activation = EndFrame
 D01D4638 0000
 301D4638 0002
 
@@ -3076,6 +3250,12 @@ Activation = EndFrame
 3008FF59 0040
 
 [Sewer Speeding\Start on 3rd lap]
+Type = Gameshark
+Activation = EndFrame
+D01CEFE8 0000
+301CEFE8 0002
+
+[Sewer Speeding\Start on 3rd lap (Alt)]
 Type = Gameshark
 Activation = EndFrame
 D01DD5AC 0000
@@ -3406,6 +3586,12 @@ Activation = EndFrame
 3008FF5A 0020
 
 [Tiny Arena\Start on 3rd lap]
+Type = Gameshark
+Activation = EndFrame
+D01E37DC 0000
+301E37DC 0002
+
+[Tiny Arena\Start on 3rd lap (Alt)]
 Type = Gameshark
 Activation = EndFrame
 D01F0094 0000

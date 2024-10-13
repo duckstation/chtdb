@@ -870,8 +870,8 @@ Activation = EndFrame
 [Hana Item Disc 4\Have Stone Scroll]
 Type = Gameshark
 Activation = EndFrame
-E008DF70 0000
-3008DF70 0001
+E008DF5A 0000
+3008DF5A 0001
 
 [Hana Item Disc 4\Have Stone Willow]
 Type = Gameshark
@@ -882,8 +882,8 @@ E008DF5B 0000
 [Hana Item Disc 4\Have Stone Eye]
 Type = Gameshark
 Activation = EndFrame
-E008DF73 0000
-3008DF73 0001
+E008DF5C 0000
+3008DF5C 0001
 
 [Hana Item Disc 4\Have Paper Gate]
 Type = Gameshark
@@ -900,8 +900,8 @@ E008DF65 0000
 [Hana Item Disc 4\Have Tree Branch]
 Type = Gameshark
 Activation = EndFrame
-E008DF71 0000
-3008DF71 0001
+E008DF66 0000
+3008DF66 0001
 
 [Hana Item Disc 4\Have Paper Pistol]
 Type = Gameshark
@@ -957,11 +957,29 @@ Activation = EndFrame
 E008DF6F 0000
 3008DF6F 0001
 
+[Hana Item Disc 4\Have Stone Scroll (Alt)]
+Type = Gameshark
+Activation = EndFrame
+E008DF70 0000
+3008DF70 0001
+
+[Hana Item Disc 4\Have Tree Branch (Alt)]
+Type = Gameshark
+Activation = EndFrame
+E008DF71 0000
+3008DF71 0001
+
 [Hana Item Disc 4\Have Gate Key]
 Type = Gameshark
 Activation = EndFrame
 E008DF72 0000
 3008DF72 0001
+
+[Hana Item Disc 4\Have Stone Eye (Alt)]
+Type = Gameshark
+Activation = EndFrame
+E008DF73 0000
+3008DF73 0001
 
 [Hana Item Disc 4\Have Stone Tree Half]
 Type = Gameshark
@@ -984,8 +1002,8 @@ E008DF76 0000
 [Royce Item Disc 4\Have Stone Scroll]
 Type = Gameshark
 Activation = EndFrame
-E008DFF4 0000
-3008DFF4 0001
+E008DFDE 0000
+3008DFDE 0001
 
 [Royce Item Disc 4\Have Stone Willow]
 Type = Gameshark
@@ -996,8 +1014,8 @@ E008DFDF 0000
 [Royce Item Disc 4\Have Stone Eye]
 Type = Gameshark
 Activation = EndFrame
-E008DFF7 0000
-3008DFF7 0001
+E008DFE0 0000
+3008DFE0 0001
 
 [Royce Item Disc 4\Have Paper Gate]
 Type = Gameshark
@@ -1014,8 +1032,8 @@ E008DFE9 0000
 [Royce Item Disc 4\Have Tree Branch]
 Type = Gameshark
 Activation = EndFrame
-E008DFF5 0000
-3008DFF5 0001
+E008DFEA 0000
+3008DFEA 0001
 
 [Royce Item Disc 4\Have Paper Pistol]
 Type = Gameshark
@@ -1071,11 +1089,29 @@ Activation = EndFrame
 E008DFF3 0000
 3008DFF3 0001
 
+[Royce Item Disc 4\Have Stone Scroll (Alt)]
+Type = Gameshark
+Activation = EndFrame
+E008DFF4 0000
+3008DFF4 0001
+
+[Royce Item Disc 4\Have Tree Branch (Alt)]
+Type = Gameshark
+Activation = EndFrame
+E008DFF5 0000
+3008DFF5 0001
+
 [Royce Item Disc 4\Have Gate Key]
 Type = Gameshark
 Activation = EndFrame
 E008DFF6 0000
 3008DFF6 0001
+
+[Royce Item Disc 4\Have Stone Eye (Alt)]
+Type = Gameshark
+Activation = EndFrame
+E008DFF7 0000
+3008DFF7 0001
 
 [Royce Item Disc 4\Have Stone Tree Half]
 Type = Gameshark

@@ -47,11 +47,11 @@ Activation = EndFrame
 D008F894 0000
 3008F894 0000
 
-[Select Level\Submarine Harbor]
+[Select Level\Submarine Pen (Ice Hit)]
 Type = Gameshark
 Activation = EndFrame
 D008F894 0000
-3008F894 0014
+3008F894 0001
 
 [Select Level\The Embassy]
 Type = Gameshark
@@ -160,6 +160,12 @@ Type = Gameshark
 Activation = EndFrame
 D008F894 0000
 3008F894 0013
+
+[Select Level\Submarine Pen (Ice Storm)]
+Type = Gameshark
+Activation = EndFrame
+D008F894 0000
+3008F894 0014
 
 [Select Level\Tunnel]
 Type = Gameshark

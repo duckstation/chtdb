@@ -62,6 +62,21 @@ Activation = EndFrame
 [Infinite & Max MP in combat Character 1]
 Type = Gameshark
 Activation = EndFrame
+800DFE4A 270F
+
+[Infinite & Max MP in combat Character 2]
+Type = Gameshark
+Activation = EndFrame
+800DFE6E 270F
+
+[Infinite & Max MP in combat Character 3]
+Type = Gameshark
+Activation = EndFrame
+800DFE92 270F
+
+[Infinite & Max MP in combat Character 4]
+Type = Gameshark
+Activation = EndFrame
 800DFEB6 270F
 
 [No random battles]

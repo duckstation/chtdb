@@ -156,9 +156,7 @@ D00B1418 000A
 [Infinite Time-Wipeout Missions]
 Type = Gameshark
 Activation = EndFrame
-800C1D04 1EC8
-800C1D08 184F
-800C1D0C 10D1
+800480CA 2400
 
 [Clear Time Is 0.00.00]
 Type = Gameshark
@@ -264,6 +262,13 @@ D30B9508 0500
 D00B1418 0002
 D20B9508 1F00
 100B9508 0010
+
+[Infinite Time-Wipeout Missions (Alt)]
+Type = Gameshark
+Activation = EndFrame
+800C1D04 1EC8
+800C1D08 184F
+800C1D0C 10D1
 
 [Walk Thru Walls]
 Type = Gameshark

@@ -10,7 +10,62 @@ Type = Gameshark
 Activation = EndFrame
 8010AE3C FFFF
 
-[?? level 99]
+[?1 level 99]
+Type = Gameshark
+Activation = EndFrame
+3010C6DC 0063
+
+[?2 level 99]
+Type = Gameshark
+Activation = EndFrame
+3010C708 0063
+
+[?3 level 99]
+Type = Gameshark
+Activation = EndFrame
+3010C734 0063
+
+[?4 level 99]
+Type = Gameshark
+Activation = EndFrame
+3010D4F4 0063
+
+[?5 level 99]
+Type = Gameshark
+Activation = EndFrame
+3010ECAC 0063
+
+[?6 level 99]
+Type = Gameshark
+Activation = EndFrame
+3010D0D4 0063
+
+[?7 level 99]
+Type = Gameshark
+Activation = EndFrame
+3010D0A8 0063
+
+[?8 level 99]
+Type = Gameshark
+Activation = EndFrame
+3010F0F8 0063
+
+[?9 level 99]
+Type = Gameshark
+Activation = EndFrame
+3010F0CC 0063
+
+[?a level 99]
+Type = Gameshark
+Activation = EndFrame
+3010CFF8 0063
+
+[?b level 99]
+Type = Gameshark
+Activation = EndFrame
+3010D4C9 0063
+
+[?c level 99]
 Type = Gameshark
 Activation = EndFrame
 3010D1B1 0063

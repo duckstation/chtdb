@@ -41,13 +41,19 @@ Type = Gameshark
 Activation = EndFrame
 801A0BD5 9C40
 
-[Infinite Time alt]
+[Infinite Time (Alt 1)]
 Type = Gameshark
 Activation = EndFrame
-800EC9D0 0000
+D0015B00 8888
+80015B08 0000
 
-[No Penalty Pts (Driving Tests) alt]
+[No Penalty Pts (Driving Tests)  (Alt)]
 Type = Gameshark
 Activation = EndFrame
 801A4AB4 0000
+
+[Infinite Time (Alt 2)]
+Type = Gameshark
+Activation = EndFrame
+800EC9D0 0000
 

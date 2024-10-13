@@ -5,11 +5,6 @@ Type = Gameshark
 Activation = EndFrame
 90099218 0001869F
 
-[Exp]
-Type = Gameshark
-Activation = EndFrame
-9009921C 00FFFFFF
-
 [Have 4 spirits]
 Type = Gameshark
 Activation = EndFrame
@@ -18,12 +13,8 @@ Activation = EndFrame
 [Main Character\Infinite HP]
 Type = Gameshark
 Activation = EndFrame
-80091A80 03E8
-
-[Main Character\Infinite MP]
-Type = Gameshark
-Activation = EndFrame
-90099210 03E703E7
+8009920A 03E7
+8009920C 03E7
 
 [Main Character\Level = 99]
 Type = Gameshark
@@ -33,7 +24,12 @@ Activation = EndFrame
 [Main Character\Exp]
 Type = Gameshark
 Activation = EndFrame
-8009921C FFFF
+9009921C 00FFFFFF
+
+[Main Character\Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+90099210 03E703E7
 
 [Main Character\Max Attack]
 Type = Gameshark
@@ -53,14 +49,21 @@ Activation = EndFrame
 A605636C 1A990000
 A605636E A0220000
 
-[Pg Main Character\Infinite]
+[Main Character\Infinite HP (Alt)]
 Type = Gameshark
 Activation = EndFrame
-80099212 03E7
+80091A80 03E8
 
 [Invincibility]
 Type = Gameshark
 Activation = EndFrame
 300919AB 0080
 30091AA2 0000
+
+[Walk Through Walls]
+Type = Gameshark
+Activation = EndFrame
+30052657 0020
+3005236B 0020
+3005244F 0020
 

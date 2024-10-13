@@ -144,7 +144,7 @@ A60BCD80 00000003
 [Have Spare (Green)]
 Type = Gameshark
 Activation = EndFrame
-A60BCD90 00000003
+A60BCD84 00000003
 
 [Have Calabash]
 Type = Gameshark
@@ -155,6 +155,11 @@ A60BCD88 00000003
 Type = Gameshark
 Activation = EndFrame
 A60BCD8C 00000003
+
+[Have Spare (Green) (Alt)]
+Type = Gameshark
+Activation = EndFrame
+A60BCD90 00000003
 
 [Have Prism (0)]
 Type = Gameshark

@@ -8,12 +8,12 @@ Activation = EndFrame
 [Infinite Ammo]
 Type = Gameshark
 Activation = EndFrame
-300EDF1C 0027
+800EEB40 0041
 
 [Infinite Fuel]
 Type = Gameshark
 Activation = EndFrame
-800EDF0C 8FFF
+300EEB34 8FFF
 
 [No Damage]
 Type = Gameshark
@@ -28,7 +28,13 @@ A60EEB44 270E270F
 [Infinite Missiles]
 Type = Gameshark
 Activation = EndFrame
-800EDF18 0040
+A60EEB40 00400041
+
+[Infinite Fuel (Alt 1)]
+Type = Gameshark
+Activation = EndFrame
+D10EEB34 8FFF
+800EEB34 8FFF
 
 [Infinite Armor]
 Type = Gameshark
@@ -40,4 +46,19 @@ D10EEA60 00C8
 Type = Gameshark
 Activation = EndFrame
 A605F300 000103E8
+
+[Infinite Missiles (Alt)]
+Type = Gameshark
+Activation = EndFrame
+800EDF18 0040
+
+[Infinite Ammo (Alt)]
+Type = Gameshark
+Activation = EndFrame
+300EDF1C 0027
+
+[Infinite Fuel (Alt 2)]
+Type = Gameshark
+Activation = EndFrame
+800EDF0C 8FFF
 

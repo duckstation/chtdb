@@ -67,6 +67,11 @@ Activation = EndFrame
 [Select Scenario\2]
 Type = Gameshark
 Activation = EndFrame
+300B8EAE 0002
+
+[Select Scenario\3]
+Type = Gameshark
+Activation = EndFrame
 300B8EAE 0003
 
 [Select Scenario\4]

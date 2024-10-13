@@ -127,7 +127,7 @@ Activation = EndFrame
 [Have Alucard Shield]
 Type = Gameshark
 Activation = EndFrame
-30097A31 0010
+3009799A 0010
 
 [Have Basilard]
 Type = Gameshark
@@ -543,6 +543,11 @@ Activation = EndFrame
 Type = Gameshark
 Activation = EndFrame
 30097A30 0010
+
+[Have Alucard Shield (Alt)]
+Type = Gameshark
+Activation = EndFrame
+30097A31 0010
 
 [Have Silver Plate]
 Type = Gameshark

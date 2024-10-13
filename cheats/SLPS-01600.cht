@@ -5,222 +5,227 @@ Type = Gameshark
 Activation = EndFrame
 901A8A68 0098967F
 
-[Part-time job 1]
+[Select Part-time Job\01]
 Type = Gameshark
 Activation = EndFrame
 300C48D0 0000
 
-[Part-time job 2]
+[Select Part-time Job\02]
 Type = Gameshark
 Activation = EndFrame
 300C48D0 0001
 
-[Part-time job 3]
+[Select Part-time Job\03]
 Type = Gameshark
 Activation = EndFrame
 300C48D0 0002
 
-[Part-time job 4]
+[Select Part-time Job\04]
 Type = Gameshark
 Activation = EndFrame
 300C48D0 0003
 
-[Part-time job 5]
+[Select Part-time Job\05]
 Type = Gameshark
 Activation = EndFrame
 300C48D0 0004
 
-[Part-time job 6]
+[Select Part-time Job\06]
 Type = Gameshark
 Activation = EndFrame
 300C48D0 0005
 
-[Part-time job 7]
+[Select Part-time Job\07]
 Type = Gameshark
 Activation = EndFrame
 300C48D0 0006
 
-[Part-time job 8]
+[Select Part-time Job\08]
 Type = Gameshark
 Activation = EndFrame
 300C48D0 0007
 
-[Part-time job 9]
+[Select Part-time Job\09]
 Type = Gameshark
 Activation = EndFrame
 300C48D0 0008
 
-[Part-time job 10]
+[Select Part-time Job\10]
 Type = Gameshark
 Activation = EndFrame
 300C48D0 0009
 
-[Part-time job 11]
+[Select Part-time Job\11]
 Type = Gameshark
 Activation = EndFrame
 300C48D0 000A
 
-[Part-time job 12]
+[Select Part-time Job\12]
 Type = Gameshark
 Activation = EndFrame
 300C48D0 000B
 
-[Part-time job 13]
+[Select Part-time Job\13]
 Type = Gameshark
 Activation = EndFrame
 300C48D0 000C
 
-[Part-time job 14]
+[Select Part-time Job\14]
 Type = Gameshark
 Activation = EndFrame
 300C48D0 000D
 
-[Part-time job 15]
+[Select Part-time Job\15]
 Type = Gameshark
 Activation = EndFrame
 300C48D0 000E
 
-[Part-time job 16]
+[Select Part-time Job\16]
 Type = Gameshark
 Activation = EndFrame
 300C48D0 000F
 
-[Select aircraft ULTRA LIGHT PLANE]
+[Select Aircraft\ULTRA LIGHT PLANE]
 Type = Gameshark
 Activation = EndFrame
 300C4738 0000
 
-[Select aircraft CESSNA C172RG]
+[Select Aircraft\CESSNA C172RG]
 Type = Gameshark
 Activation = EndFrame
 300C4738 0001
 
-[Select aircraft EMB312 TUCANO]
+[Select Aircraft\EMB312 TUCANO]
 Type = Gameshark
 Activation = EndFrame
 300C4738 0002
 
-[Select aircraft F4U4 CORSAIR]
+[Select Aircraft\F4U4 CORSAIR]
 Type = Gameshark
 Activation = EndFrame
 300C4738 0003
 
-[Select aircraft A1H SKYRAIDER]
+[Select Aircraft\A1H SKYRAIDER]
 Type = Gameshark
 Activation = EndFrame
 300C4738 0004
 
-[Select aircraft J2M3 RAIDEN]
+[Select Aircraft\J2M3 RAIDEN]
 Type = Gameshark
 Activation = EndFrame
 300C4738 0005
 
-[Select aircraft MOSQUITO FB.MK6]
+[Select Aircraft\MOSQUITO FB.MK6]
 Type = Gameshark
 Activation = EndFrame
 300C4738 0006
 
-[Select aircraft XF2R-1 DARK SHARK]
+[Select Aircraft\XF2R-1 DARK SHARK]
 Type = Gameshark
 Activation = EndFrame
 300C4738 0007
 
-[Select aircraft CESSNA T37 TWEET]
+[Select Aircraft\CESSNA T37 TWEET]
 Type = Gameshark
 Activation = EndFrame
 300C4738 0008
 
-[Select aircraft KAWASAKI T4]
+[Select Aircraft\KAWASAKI T4]
 Type = Gameshark
 Activation = EndFrame
 300C4738 0009
 
-[Select aircraft F16B FIGHTING FALCON]
+[Select Aircraft\F16B FIGHTING FALCON]
 Type = Gameshark
 Activation = EndFrame
 300C4738 000A
 
-[Select aircraft A-10 THUNDERBOLT II]
+[Select Aircraft\A-10 THUNDERBOLT II]
 Type = Gameshark
 Activation = EndFrame
 300C4738 000B
 
-[Select aircraft F/A18 HORNET]
+[Select Aircraft\F/A18 HORNET]
 Type = Gameshark
 Activation = EndFrame
 300C4738 000C
 
-[Select aircraft MIG-29 FULCRUM]
+[Select Aircraft\MIG-29 FULCRUM]
 Type = Gameshark
 Activation = EndFrame
 300C4738 000D
 
-[Select aircraft EFA EUROFIGHTER2000]
+[Select Aircraft\EFA EUROFIGHTER2000]
 Type = Gameshark
 Activation = EndFrame
 300C4738 000E
 
-[Select aircraft SPITFIRE MK5]
+[Select Aircraft\SPITFIRE MK5]
 Type = Gameshark
 Activation = EndFrame
 300C4738 000F
 
-[Select aircraft MESSERSCHM ITT BF109E]
+[Select Aircraft\MESSERSCHM ITT BF109E]
 Type = Gameshark
 Activation = EndFrame
 300C4738 0010
 
-[Select aircraft OV-10A BRONCO]
+[Select Aircraft\OV-10A BRONCO]
 Type = Gameshark
 Activation = EndFrame
 300C4738 0011
 
-[Select aircraft F5E TIGER II]
+[Select Aircraft\F5E TIGER II]
 Type = Gameshark
 Activation = EndFrame
 300C4738 0012
 
-[Select aircraft F4E PHANTOM]
+[Select Aircraft\F4E PHANTOM]
 Type = Gameshark
 Activation = EndFrame
 300C4738 0013
 
-[Select aircraft JAS39 GRIPEN]
+[Select Aircraft\JAS39 GRIPEN]
 Type = Gameshark
 Activation = EndFrame
 300C4738 0014
 
-[Select aircraft SU-35 FLANKER]
+[Select Aircraft\SU-35 FLANKER]
 Type = Gameshark
 Activation = EndFrame
 300C4738 0015
 
-[Select aircraft C130 HERCULES]
+[Select Aircraft\C130 HERCULES]
 Type = Gameshark
 Activation = EndFrame
-300C4738 001A
+300C4738 0016
 
-[Select aircraft AN72 COALER]
+[Select Aircraft\AN72 COALER]
 Type = Gameshark
 Activation = EndFrame
 300C4738 0017
 
-[Select aircraft B17]
+[Select Aircraft\B17]
 Type = Gameshark
 Activation = EndFrame
 300C4738 0018
 
-[Select aircraft E4B]
+[Select Aircraft\E4B]
 Type = Gameshark
 Activation = EndFrame
 300C4738 0019
 
-[Select aircraft E4B?]
+[Select Aircraft\C130 HERCULES (Alt)]
+Type = Gameshark
+Activation = EndFrame
+300C4738 001A
+
+[Select Aircraft\E4B?]
 Type = Gameshark
 Activation = EndFrame
 300C4738 001B
 
-[Select aircraft SUPER SHIMADA 3C]
+[Select Aircraft\SUPER SHIMADA 3C]
 Type = Gameshark
 Activation = EndFrame
 300C4738 001C
@@ -310,87 +315,87 @@ Type = Gameshark
 Activation = EndFrame
 301A8A8B 0064
 
-[JeT Training 1-1 100 points]
+[Jet Training 1-1 100 points]
 Type = Gameshark
 Activation = EndFrame
 301A8A8E 0064
 
-[JeT Training 1-2 100 points]
+[Jet Training 1-2 100 points]
 Type = Gameshark
 Activation = EndFrame
 301A8A8F 0064
 
-[JeT Training 1-3 100 points]
+[Jet Training 1-3 100 points]
 Type = Gameshark
 Activation = EndFrame
 301A8A90 0064
 
-[JeT Training 1-4 100 points]
+[Jet Training 1-4 100 points]
 Type = Gameshark
 Activation = EndFrame
 301A8A91 0064
 
-[JeT Training 1-5 100 points]
+[Jet Training 1-5 100 points]
 Type = Gameshark
 Activation = EndFrame
 301A8A92 0064
 
-[JeT Training 2-1 100 points]
+[Jet Training 2-1 100 points]
 Type = Gameshark
 Activation = EndFrame
 301A8A94 0064
 
-[JeT Training 2-2 100 points]
+[Jet Training 2-2 100 points]
 Type = Gameshark
 Activation = EndFrame
 301A8A95 0064
 
-[JeT Training 2-3 100 points]
+[Jet Training 2-3 100 points]
 Type = Gameshark
 Activation = EndFrame
 301A8A96 0064
 
-[JeT Training 2-4 100 points]
+[Jet Training 2-4 100 points]
 Type = Gameshark
 Activation = EndFrame
 301A8A97 0064
 
-[JeT Training 3-1 100 points]
+[Jet Training 3-1 100 points]
 Type = Gameshark
 Activation = EndFrame
 301A8A9A 0064
 
-[JeT Training 3-2 100 points]
+[Jet Training 3-2 100 points]
 Type = Gameshark
 Activation = EndFrame
 301A8A9B 0064
 
-[JeT Training 3-3 100 points]
+[Jet Training 3-3 100 points]
 Type = Gameshark
 Activation = EndFrame
 301A8A9C 0064
 
-[JeT Training 3-4100 points]
+[Jet Training 3-4 100 points]
 Type = Gameshark
 Activation = EndFrame
 301A8A9D 0064
 
-[JeT Training 4-1 100 points]
+[Jet Training 4-1 100 points]
 Type = Gameshark
 Activation = EndFrame
 301A8AA0 0064
 
-[JeT Training 4-2 100 points]
+[Jet Training 4-2 100 points]
 Type = Gameshark
 Activation = EndFrame
 301A8AA1 0064
 
-[JeT Training 4-3 100 points]
+[Jet Training 4-3 100 points]
 Type = Gameshark
 Activation = EndFrame
 301A8AA2 0064
 
-[JeT Training 4-4 100 points]
+[Jet Training 4-4 100 points]
 Type = Gameshark
 Activation = EndFrame
 301A8AA3 0064

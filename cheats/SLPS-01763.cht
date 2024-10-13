@@ -23,17 +23,27 @@ Activation = EndFrame
 [Checkout Max]
 Type = Gameshark
 Activation = EndFrame
-3014C8FC 0063
+3014C8BC 0063
 
 [Max Customer Service]
 Type = Gameshark
 Activation = EndFrame
-3014C904 0063
+3014C8C4 0063
 
 [Clerk 1 (Next To The Clerk +40 H)Max Service]
 Type = Gameshark
 Activation = EndFrame
 3014C8F4 0063
+
+[Checkout Max (Alt)]
+Type = Gameshark
+Activation = EndFrame
+3014C8FC 0063
+
+[Max Customer Service (Alt)]
+Type = Gameshark
+Activation = EndFrame
+3014C904 0063
 
 [Max Cumulative number of visitors]
 Type = Gameshark

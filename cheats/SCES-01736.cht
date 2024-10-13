@@ -1,5 +1,10 @@
 ; CHTDB: ; [ NHL FaceOff 99 (Europe) {SCES-01736} ]
 
+[Select Home Team Score\9]
+Type = Gameshark
+Activation = EndFrame
+800D4BE0 0009
+
 [Select Home Team Score\0]
 Type = Gameshark
 Activation = EndFrame

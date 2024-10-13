@@ -33,9 +33,19 @@ Activation = EndFrame
 [Use only one of these options\Power-Shot Deactivated]
 Type = Gameshark
 Activation = EndFrame
+800B94BC 7200
+
+[Use only one of these options\Power-Shot Deactivated (Alt)]
+Type = Gameshark
+Activation = EndFrame
 800B94CC 7200
 
 [Use only one of these options\Power-Shot Activated]
+Type = Gameshark
+Activation = EndFrame
+300B94BD 0072
+
+[Use only one of these options\Power-Shot Activated (Alt)]
 Type = Gameshark
 Activation = EndFrame
 300B94CD 0079

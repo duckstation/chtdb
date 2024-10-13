@@ -23,12 +23,12 @@ A60C8D34 00C80032
 [P1 1-Hit Death]
 Type = Gameshark
 Activation = EndFrame
-A60C8F0C 00C80002
+A60C8D34 00C80002
 
 [P1 Keine Energie]
 Type = Gameshark
 Activation = EndFrame
-800C8F0C 0000
+800C8D34 0000
 
 [P2 Unendlich Energie]
 Type = Gameshark
@@ -49,6 +49,16 @@ A60C8F0C 00C80064
 Type = Gameshark
 Activation = EndFrame
 A60C8F0C 00C80032
+
+[P1 1-Hit Death (Alt)]
+Type = Gameshark
+Activation = EndFrame
+A60C8F0C 00C80002
+
+[P1 Keine Energie (Alt)]
+Type = Gameshark
+Activation = EndFrame
+800C8F0C 0000
 
 [P1+P2 Unendlich Energie]
 Type = Gameshark
