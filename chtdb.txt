@@ -837,6 +837,7 @@ C003C1FA F7FF
 8005EA08 0001
 8005EA0C 00B4
 00000000 FFFF
+;#### PATCHES LISTED BELOW ####
 #Play game at 60 FPS
 E006ABB0 0003
 3006ABB0 0001
@@ -1252,6 +1253,7 @@ A702DB86 04411400
 #Collect Anywhere
 A702E946 04411400
 A702E922 10401400
+;#### PATCHES LISTED BELOW ####
 #Faster FPS
 A7057A54 00020001
 
@@ -1576,8 +1578,6 @@ D008F96C FDFF
 
 ; [ Akuji the Heartless (USA) (1998) (Eidos Interactive) {SLUS-00715} <akuji> ]
 :SLUS-00715
-#Play game at 60 FPS
-A7055FBA 14401400
 #Invincibility
 800BA746 06CA
 #Infinite Spells On Pick-Up
@@ -1592,12 +1592,15 @@ A706981E A4C22400
 80080346 2400
 #Have Debug Option In Pause Menu
 300BA742 000C
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9 (Vert-)
 8005A310 0C00
 8005A32C 0034
 8005A32E AFA0
 8005A330 1000
 8005A332 AFA0
+#Play game at 60 FPS
+A7055FBA 14401400
 
 ; [ Alien Resurrection (USA) (2000) (Fox Interactive) {SLUS-00633} <alienres> ]
 :SLUS-00633
@@ -1616,6 +1619,7 @@ A706981E A4C22400
 30096BE0 0001
 #Research Enabled
 3009BBDF 0001
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9 (Vert-)
 A709E3D0 10001400
 
@@ -1913,6 +1917,7 @@ E0081BFA 00BD
 801C72B8 0063
 #Infinite Dungeon Keys (The Races Vs Bull)
 3006744F 0009
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9 (Vert-)
 A70595B8 10000C00
 
@@ -2313,6 +2318,7 @@ D00586D0 D5C0
 90082114 42204F47
 90082118 4E495552
 8008211C 2153
+;#### PATCHES LISTED BELOW ####
 #Play game at 60 FPS
 A7184972 0C061400
 
@@ -2358,6 +2364,7 @@ D00E5478 0008
 800DFA26 0202
 50001002 0000
 800DFC70 0202
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70AF0A0 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -2397,6 +2404,7 @@ A70AF0A0 10000400
 
 ; [ Aquanaut's Holiday (USA) (1996) (Sony Computer Entertainment America) {SCUS-94603} <aquanaut> ]
 :SCUS-94603
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9:Enabling this code results in the camera shaking heavily while turning
 A713E788 10000C00
 
@@ -2609,6 +2617,7 @@ A60F9B20 0000FFFF
 80119980 FFFF
 30119982 00FF
 8011998A FFC0
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-10
 80181368 0D00
 8018136A 2409
@@ -4180,6 +4189,7 @@ A7037D26 14621000
 80060F30 0064
 #Infinite Armor (Uses Built-In Cheat)
 800D432E 0101
+;#### PATCHES LISTED BELOW ####
 #Play game at 60 FPS
 A70F9764 001E003C
 ;Does the above actually work?
@@ -4759,6 +4769,7 @@ A6056B8C 00020082
 90010144 FFFFFFFF
 #Have All Fingerprints
 80010148 FFFF
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70EC4AC 10000C00
 A71048C4 10000C00
@@ -4814,6 +4825,7 @@ D00183F0 8006
 80058D74 0FFF
 #Time Is 0.00.00
 8002031E 2400
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70AA386 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -4899,6 +4911,7 @@ A6079414 00010004
 81069D7C 0004
 #Select Cheat\Level Select:Pause game for it; X and Triangle to toggle it; press Start to load level; L1 to increase milliseconds; L2 to increase seconds
 81069D7C 0008
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A7061B60 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -4954,6 +4967,7 @@ A7061B60 10000400
 800A11F4 0009
 #98 Kills
 800A10B0 0008
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A713C87C 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -5002,6 +5016,7 @@ A713C87C 10000400
 3009BC7F 0003
 #Kill 1 Ninja To Beat Slash Mode (99 Kills):This cheat will start you with 99 kills. Kill the opponent you're facing and you win. This helps you get the four secret characters that require you to beat Slash Mode under 15 minutes and without dying
 800A38E2 0064
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70FF650 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -5084,6 +5099,7 @@ A702D8AA 16622400
 A70168B2 14402400
 #Invincibility V2
 A701C9DA 18401000
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70990AC 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -5230,6 +5246,7 @@ C207B08C 0001
 800BD2A8 03E7
 #P1 Max LP
 800BD2AC 0064
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 A7048342 10000EC8
 
@@ -5310,6 +5327,7 @@ A7048342 10000EC8
 800A07D8 0005
 #Time Is Always 0.00.00
 8006AB94 0000
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A706B650 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -10208,6 +10226,7 @@ D00CDC08 0010
 901529EC 24020007
 #1-Hit K. O.
 900530D8 00000000
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 A71F0018 19991333
 
@@ -10413,6 +10432,7 @@ D003F3DC 01B4
 300F83AA 0010
 #Grasshopper Mode
 800F8330 04FF
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70C5CB6 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -10658,6 +10678,7 @@ A71D3666 A2622400
 801EB6C4 004B
 #Other\Misc.\One Hit Death For Zig
 801EB7DC 0000
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 80179888 0C00
 8017988A 2409
@@ -10700,6 +10721,10 @@ A71D3666 A2622400
 #Have All Dragon Forms
 50000C06 0000
 8011B8D8 0001
+#Walk through walls "Press L3 to toggle on/off"
+D7010001 01000200
+F51D16E6 12932400
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 8016AE1C 0C00
 8016AE1E 240A
@@ -10709,9 +10734,6 @@ A71D3666 A2622400
 8016AE96 240A
 8016AE9C 1000
 8016AE9E 240A
-#Walk through walls "Press L3 to toggle on/off"
-D7010001 01000200
-F51D16E6 12932400
 
 ; [ Bogey - Dead 6 (USA) (1996) (Sony Computer Entertainment America) {SCUS-94307} <bogey> ]
 :SCUS-94307
@@ -10764,6 +10786,7 @@ F51D16E6 12932400
 8014AB24 0000
 #Lap 3 is 0.00.00
 8014AB28 0000
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 8003F89C 0C00
 8003F89E 2405
@@ -11109,6 +11132,7 @@ A70F64B6 10621000
 8005C918 0064
 #No Locked Doors
 A7042996 14621400
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9 (Vert-)
 8008DD54 1555
 
@@ -11624,6 +11648,7 @@ F402C000 00995000
 9999422C 999983AF
 99999999 99999999
 99999999 99999999
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A71CBF20 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -11796,6 +11821,7 @@ A704908A 24020000
 80048D78 001A
 #Select Jump Height\0.5x
 80048D78 0200
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 A7027DC0 66664CCC
 A7027DC8 6667CCCD
@@ -11887,6 +11913,7 @@ A704908A 24020000
 80048D78 001A
 #Select Jump Height\0.5x
 80048D78 0200
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 A7027DC0 66664CCC
 A7027DC8 6667CCCD
@@ -12041,6 +12068,7 @@ F50826FA 10402400
 F5082742 10402400
 #Grab dead enemies' triangles from anywhere
 A7070B12 10402400
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 A702E804 66664CCC
 A702E80C 6667CCCC
@@ -12491,6 +12519,7 @@ C00BB544 000A
 #Have All Map Pieces
 50000901 0000
 300AA1F1 0001
+;#### PATCHES LISTED BELOW ####
 #Widescreen
 800B3234 0C00
 
@@ -12694,6 +12723,7 @@ C007B120 0100
 80095854 0001
 #Jennifer Scenario 1 Office Door Open
 80095900 0200
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A7066144 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -12724,6 +12754,7 @@ A7066144 10000400
 800709D4 0063
 #Time Attack Mode Infinite Shotgun Ammo
 800709D0 0063
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A706F7B8 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -12926,6 +12957,7 @@ D007D1FC 0023
 8011FC94 0076
 #Cyclops\Infinite Energy
 80125E10 0090
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70BC338 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -12940,6 +12972,7 @@ A60669D4 00000050
 A60669D6 00003241
 A6066A1C 0000000E
 A6066A1E 00001420
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A7059958 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -13022,6 +13055,7 @@ D010720E AFBF
 80007626 0803
 800FE8D4 1D80
 800FE8D6 0800
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70EC508 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -13079,6 +13113,7 @@ A70EC508 10000400
 3008BC1B 0005
 #4th Weapon Slot\P2 Always Has Homing Laser
 3008BC1B 0001
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70DCA08 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -13510,6 +13545,7 @@ D005E72C 0108
 90007688 AC22009C
 9000768C AC2200A0
 90007690 03E00008
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 A7017A4C E4340C00
 A7017A4E 0C002402
@@ -13517,8 +13553,6 @@ A7017A8E A422A433
 
 ; [ Crash Bandicoot 8 april proto ]
 :UNKNOWN
-#Unlock 60fps
-A7034FBE 04812400
 #Walk through walls hold "L2 + R2"
 A7027A9A 10001440
 D7200000 00000003
@@ -13544,6 +13578,9 @@ E0050EDC 0048
 80014B1C 000D
 E0050EDC 0048
 80014B1E 3410
+;#### PATCHES LISTED BELOW ####
+#Unlock 60fps
+A7034FBE 04812400
 
 ; [ Crash Bandicoot 2 - Cortex Strikes Back (USA) (1997) (Sony Computer Entertainment America) {SCUS-94154} <crash2> ]
 :SCUS-94154
@@ -13624,6 +13661,7 @@ A701E27A 8E220C00
 A701CE36 14401000
 #Crates suddenly break:Use with Invincibility cheat
 A702B962 0C002400
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 A7017BFC F4D80C00
 A7017BFE 0C00241B
@@ -13858,6 +13896,7 @@ A701EF7E 8E420C00
 8000C03C 0096
 #Select Crash/Coco Speed\400% faster
 8000C03C 00C8
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 A7018A90 F0D90C00
 A7018A92 0C002402
@@ -14028,6 +14067,7 @@ A605A6E0 00000002
 90078CEA 240300D3
 #Select Crash Bash Arena Background\69. [Misc] No Background
 90078CEA 240300C5
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 8001443C 0900
 8001443E 2402
@@ -14040,6 +14080,7 @@ A605A6E0 00000002
 #Extra Characters
 50000D02 0000
 801E7B2A 0100
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A71EAD78 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -14220,6 +14261,7 @@ D00926A6 FEFF
 80059C78 0320
 80059B08 0320
 80059DE8 0300
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70DC888 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -14273,6 +14315,7 @@ C200C006 0002
 00000000 FFFF
 #Croc went through puberty
 A7067146 10401000
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 800168EC 2082
 800168EE 0800
@@ -14339,6 +14382,7 @@ D7000000 00000400
 A701252E 14621000
 #Slowmotion '20 FPS'
 A70126CA 14622400
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 80014C64 C410
 80014C66 0801
@@ -14433,6 +14477,7 @@ A70126CA 14622400
 801D0094 000D
 #Select Character\Overseer
 801D0094 000F
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A71CF2A4 10000C00
 A71CF304 10000C00
@@ -16560,8 +16605,6 @@ A705E41A 10402400
 A70365AA 10402400
 A704C816 10432400
 A704CA76 10432400
-#Uncap FPS lock
-A70378CA 1C402400
 #Camera detach + matrix mode (Useful for free cams)
 A707166A 10601000
 #Enable reverb anywhere
@@ -16590,6 +16633,12 @@ A704172E 14622400
 A70158D2 10401000
 #Competition cheats
 A701408E 18401000
+;#P1 Use Nitros Oxide:Press L2 after selecting your character. May not work at all in VS mode for player 1. For Adventure mode, press L1 before entering a portal/challenge. Press L2 before returning to the map. Freezes on some tracks. ? is the character you want to be in Adventure Mode map.
+;D0096AD6 FEFF
+;80086E84 000F
+;D0096AD6 FBFF
+;80086E84 000?
+;#### PATCHES LISTED BELOW ####
 #Widescreen
 9002305C 24040C00
 800230C6 000E
@@ -16628,11 +16677,8 @@ A701408E 18401000
 90008228 005B1021
 D00B077E AFA2
 800B0778 00C0
-;#P1 Use Nitros Oxide:Press L2 after selecting your character. May not work at all in VS mode for player 1. For Adventure mode, press L1 before entering a portal/challenge. Press L2 before returning to the map. Freezes on some tracks. ? is the character you want to be in Adventure Mode map.
-;D0096AD6 FEFF
-;80086E84 000F
-;D0096AD6 FBFF
-;80086E84 000?
+#Uncap FPS lock
+A70378CA 1C402400
 
 ; [ Final Fantasy Chronicles - Chrono Trigger (USA, v1.1) (2001) (Square Electronic Arts) {SLUS-01363GH} <ctrigger> ]
 :SLUS-01363
@@ -16859,6 +16905,7 @@ D0114108 000C
 30041B2A 0001
 #Unlock All Weapons
 30041B2B 0001
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 A7119970 19991333
 
@@ -17035,6 +17082,7 @@ D005686C 0180
 #Quick Level Up
 8003B860 0001
 8003B864 0400
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A703BE30 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -17347,6 +17395,7 @@ C00AA5C0 4000
 8019AB9E 0018
 #Female Health
 8019B3A2 0018
+;#### PATCHES LISTED BELOW ####
 #Faster FPS
 A7086ADC 00040001
 
@@ -17480,6 +17529,7 @@ A70B7C32 10402400
 A7016FFA 86302400
 #CPU controls P1
 A70B7C32 10402400
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A7065168 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -17564,6 +17614,7 @@ A7065168 10000400
 800E34F4 0001
 #P2 1-Hit Death
 A60C9B20 00C80001
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70ED4E8 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -18182,6 +18233,7 @@ D0135450 FF7F
 #More Misc.\All Digimon Raised
 50000801 0000
 301BE00D 00FF
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A7136F64 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -18353,6 +18405,7 @@ A7136F64 10000400
 8005E648 270F
 #Misc.\Max EP
 8005E64A 270F
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A7061A28 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -18477,16 +18530,17 @@ A7061A28 10000400
 9004A78C 03E703E7
 9004A790 03E703E7
 8004A794 03E7
+#Select Reverb\Disable Reverb
+A70367EE 10401000
+#Select Reverb\Maximize Reverb
+A70367EE 10402400
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A7080B10 10000C00
 #Select Widescreen Aspect Ratio\20-9
 A7080B10 10000900
 #Select Widescreen Aspect Ratio\Eye Infinity
 A7080B10 10000400
-#Select Reverb\Disable Reverb
-A70367EE 10401000
-#Select Reverb\Maximize Reverb
-A70367EE 10402400
 
 ; [ Dino Crisis (USA, v1.1) (1999) (Capcom Entertainment) {SLUS-00922} <dinocris> ]
 :SLUS-00922
@@ -18662,8 +18716,6 @@ A70263EE 0C012400
 A7026ADE 0C002400
 #Screen shake effect
 A704A5E6 0C012400
-#60 FPS (Doubles game speed)
-A7087972 0C021400
 #Matrix mode "Hold L2"
 A704A556 24000C01
 A70836AA 24001440
@@ -18692,6 +18744,9 @@ A70EBB0A 14401000
 A70EE3A2 14401000
 A70EBAFE 14401000
 A70EA576 14401000
+;#### PATCHES LISTED BELOW ####
+#60 FPS (Doubles game speed)
+A7087972 0C021400
 
 ; [ Dino Crisis (USA, v1.0) (1999) (Capcom Entertainment) {SLUS-00922} <dinocrisa> ]
 :SLUS-00922
@@ -20083,6 +20138,7 @@ A7029D1A 10401400
 A7020FBA 14401400
 #Open All Doors Automatically
 A7023E62 10401400
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9 (Vert-)
 A7040F74 10001333
 
@@ -20173,6 +20229,7 @@ A7040F74 10001333
 90092F88 0F0F0F0F
 80092F8C 0F0F
 30092F8E 000F
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A7049F10 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -20195,6 +20252,7 @@ A7049F10 10000400
 #Infinite Ammo
 50000404 0000
 800A8664 0064
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 80030724 2082
 80030726 0800
@@ -20317,6 +20375,7 @@ A7049F10 10000400
 800EE5BC 0009
 #Max Attack Strength
 800846D0 0063
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A7097408 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -20420,6 +20479,7 @@ A60C6C94 00000004
 800967E0 0004
 800967F8 0046
 80096814 0001
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 A708AA38 19991333
 
@@ -20478,6 +20538,7 @@ D00D9382-FFF9
 80138808-0002
 D00D9382-FFF9
 80138848-0002
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A707F170 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -20538,6 +20599,7 @@ D00D9382-FFF9
 80138808-0002
 D00D9382-FFF9
 80138848-0002
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A707EC48 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -21007,6 +21069,7 @@ E016860D 0001
 #Extra Money Cheat:Press R3 with analog on to get 10,000 more money (R3 is the second Dual Analog Stick when you press down on it so it clicks)
 D0176E18 6425
 30176E1B 0001
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 A7183028 10001558
 A7183068 10000C00
@@ -21147,6 +21210,7 @@ D0133014 0070
 80011586 0E13
 #Debug Menu press Select while in control of your character to access the menu
 800F2518 0100
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A7026544 10000C00
 A7026554 10000C00
@@ -21229,6 +21293,7 @@ A60B364C 00C80001
 800B81C6 001E
 #P1 Select Character\Toukichi (alternate costume)
 800B81C6 001F
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70BBB94 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -24205,6 +24270,7 @@ A61228F2 00B80000
 800F69FC 0011
 #P1 Select Character\Zax
 800F69FC 0013
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 D0057A9A AC64
 80057A88 2080
@@ -24288,6 +24354,7 @@ D0083E2E 0001
 D00ADA52 0100
 D0083E2E 0100
 300ADA53 0004
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A713EFF8 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -24454,6 +24521,7 @@ E0070E85 0000
 30070E85 0032
 E0070E86 0000
 30070E86 0031
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A707D288 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -24542,6 +24610,7 @@ F50252DE 12601000
 800A83E4 FFFF
 #Infinite HP 1
 90046890 10800002
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70297F4 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -24934,6 +25003,7 @@ D00A3A70 0001
 800AC134 FFFF
 #Unlock All Movies
 900AC130 00FFFFFF
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A707B59C 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -27021,6 +27091,7 @@ E01E0BA0 0000
 #P2 Has 1 Win Advantage
 E01E0BA1 0000
 301E0BA1 0001
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A71EF410 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -27523,6 +27594,7 @@ D00A16E6 FEFF
 #Press L1 For Quick Level Win
 D00A16E6 FBFF
 8007C530 0005
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70A4818 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -28148,6 +28220,7 @@ A717682C 10001800
 A717682C 10000C00
 #Select Zoom\Zoom Out More
 A717682C 10000800
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9 Y-
 A71B76A8 10001333
 
@@ -28193,6 +28266,7 @@ D00C6AF8 F7FF
 800B7170 FFFF
 #Invincibility (All Characters)
 801FEE34 0005
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70119E0 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -28276,6 +28350,7 @@ D009823C 0400
 80095320 0062
 #MEGA CHEAT!
 800975DC 00FF
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 8003EB14 0C00
 8003EB24 0034
@@ -28392,6 +28467,7 @@ D009823C 0400
 80125804 0078
 #Brave Heartless\Infinite Time
 801605BC 1064
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 800311CC 0C00
 800311DC 0034
@@ -28874,6 +28950,7 @@ D0042ABC 00D0
 901C9154 FFFFFFFF
 #Infinite Health In Battle
 800C0F04 001E
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70C0570 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -28893,6 +28970,7 @@ E009D4A2 000F
 800912B8 FFFF
 #Infinite Magic
 8009D3D2 000F
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A7079672 10000C00
 A709D3BC 10000C00
@@ -28933,6 +29011,7 @@ A709D3F4 10000400
 8008F6CA 002B
 #Cheat - Level Select (all regular levels open),200 Eggs + All Gadgets
 3001008C 0007
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A709A704 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -29000,6 +29079,7 @@ A709A704 10000400
 8009F634 0001
 #Huntington\Have All Tech Lines
 3009DD2C 000A
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 80089288 0C00
 #Widescreen 16-9 (Vert-)
@@ -29164,12 +29244,13 @@ D004E2AC 0042
 9009B8F4 3B9ACA00
 #Drive through Background
 A70243A2 04411000
+#Simulation timescale in Arcade (100% instead of 125%)
+A7051C6C 007D0064
+;#### PATCHES LISTED BELOW ####
 #60 FPS (+Re-enable tire smoke, Re-enable rear view mirror)
 A60B6348 00020001
 A702E548 00020001
 A702AA3C 00020001
-#Simulation timescale in Arcade (100% instead of 125%)
-A7051C6C 007D0064
 
 ; [ Gran Turismo (USA, v1.0) (1998) (Sony Computer Entertainment America) {SCUS-94194} <gt1a> ]
 :SCUS-94194
@@ -29314,6 +29395,7 @@ D004E2AC 0042
 3004E2AC 0002
 #Simulation Mode 1 Billion Dollars
 9009B8F4 3B9ACA00
+;#### PATCHES LISTED BELOW ####
 #60 FPS (+e-enable tire smoke, re-enable rear view mirror)
 A60B6318 00020001
 A702E580 00020001
@@ -29474,6 +29556,93 @@ A704437A 00622673
 900A7D28 03E00008
 #Low-Rider
 A7044386 14402400
+#L3 to toggle Mirror (tap) and HUD (hold)
+A403EC74 02602021
+D7010001 00000200
+A0029524 1040000C
+;Always on
+90029524 00000001
+A0029524 0800A556
+;Default
+90029524 1040000C
+A0029524 00000000
+;Always off
+90029524 0800A556
+;Fixup canary
+A0029524 00000001
+90029524 00000000
+00000000 FFFF
+00000000 FFFF
+A403EC74 02602021
+D701003C 00000200
+F5029434 0022A530
+F5029436 14400800
+F5029424 BA060000
+F5029426 0C000000
+00000000 FFFF
+00000000 FFFF
+#Enable extra cameras in race
+A401F888 AEB40008
+A701031C 00030009
+A7010370 40F045C1
+;Replay off
+C30A92BC 0001
+A701171C 0106010E
+A7011778 45E945D7
+00000000 FFFF
+00000000 FFFF
+A401F888 AEB40008
+;Hold R1 to trigger a cinematic camera
+;Replay off
+C30A92BC 0001
+D701001E 01000008
+F5010148 40B6427F
+F5010A4C 006C8021
+F5010A4E 8C700000
+301FFA89 0002
+00000000 FFFF
+00000000 FFFF
+00000000 FFFF
+;Restore everything when replay is enabled
+A401F888 AEB40008
+C40A92BC 0000
+D001171C 010E
+8001171C 0106
+D0011778 45D7
+80011778 45E9
+A0010A4C 00008021
+90010A4C 8C70006C
+00000000 FFFF
+00000000 FFFF
+#True Endurance tweak
+;"Help" the game unload segments that normally are left unwritten to,
+;so further cheat detection is more reliable. This is safe as it overwrites dead code.
+;Reset the race overlay for Arcade
+A00529DC 801EFB39
+80057054 0000
+;Reset the race overlay for Simulation
+A0052A70 000000F6
+80057054 0000
+;Sets 2h Rome Endurance to 255 laps and hides the lap counter
+A4057054 260201C0
+;Set the endurance flag manually for 255 lap races, so replays work properly
+E01D586B 00FF
+E0046F69 0000
+30046F69 0001
+;Time limited race off
+E0046F69 0000
+;Restore the max laps counter
+A602CE24 00020006
+;Time limited race on
+C4046F69 0000
+;Turn off the max laps counter
+A702CE24 00060002
+;Set laps to 255
+E01D586B 0063
+301D586B 00FF
+00000000 FFFF
+00000000 FFFF
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 D0010000 FFE8
 8007B39C 0156
@@ -29753,92 +29922,6 @@ A7016A7A 02250000
 D121F88A AEB4
 A7016A88 80000000
 00000000 FFFF
-#L3 to toggle Mirror (tap) and HUD (hold)
-A403EC74 02602021
-D7010001 00000200
-A0029524 1040000C
-;Always on
-90029524 00000001
-A0029524 0800A556
-;Default
-90029524 1040000C
-A0029524 00000000
-;Always off
-90029524 0800A556
-;Fixup canary
-A0029524 00000001
-90029524 00000000
-00000000 FFFF
-00000000 FFFF
-A403EC74 02602021
-D701003C 00000200
-F5029434 0022A530
-F5029436 14400800
-F5029424 BA060000
-F5029426 0C000000
-00000000 FFFF
-00000000 FFFF
-#Enable extra cameras in race
-A401F888 AEB40008
-A701031C 00030009
-A7010370 40F045C1
-;Replay off
-C30A92BC 0001
-A701171C 0106010E
-A7011778 45E945D7
-00000000 FFFF
-00000000 FFFF
-A401F888 AEB40008
-;Hold R1 to trigger a cinematic camera
-;Replay off
-C30A92BC 0001
-D701001E 01000008
-F5010148 40B6427F
-F5010A4C 006C8021
-F5010A4E 8C700000
-301FFA89 0002
-00000000 FFFF
-00000000 FFFF
-00000000 FFFF
-;Restore everything when replay is enabled
-A401F888 AEB40008
-C40A92BC 0000
-D001171C 010E
-8001171C 0106
-D0011778 45D7
-80011778 45E9
-A0010A4C 00008021
-90010A4C 8C70006C
-00000000 FFFF
-00000000 FFFF
-#True Endurance tweak
-;"Help" the game unload segments that normally are left unwritten to,
-;so further cheat detection is more reliable. This is safe as it overwrites dead code.
-;Reset the race overlay for Arcade
-A00529DC 801EFB39
-80057054 0000
-;Reset the race overlay for Simulation
-A0052A70 000000F6
-80057054 0000
-;Sets 2h Rome Endurance to 255 laps and hides the lap counter
-A4057054 260201C0
-;Set the endurance flag manually for 255 lap races, so replays work properly
-E01D586B 00FF
-E0046F69 0000
-30046F69 0001
-;Time limited race off
-E0046F69 0000
-;Restore the max laps counter
-A602CE24 00020006
-;Time limited race on
-C4046F69 0000
-;Turn off the max laps counter
-A702CE24 00060002
-;Set laps to 255
-E01D586B 0063
-301D586B 00FF
-00000000 FFFF
-00000000 FFFF
 
 ; [ Gran Turismo 2 (USA, v1.1) (1999) (Sony Computer Entertainment America) {SCUS-94455} <gt2a> ]
 :SCUS-94455
@@ -29991,6 +30074,93 @@ A70442E6 00622673
 900A7AE8 03E00008
 #Low-Rider
 A70442F2 14402400
+#L3 to toggle Mirror (tap) and HUD (hold)
+A403EC6C 02602021
+D7010001 00000200
+A002951C 1040000C
+;Always on
+9002951C 00000001
+A002951C 0800A554
+;Default
+9002951C 1040000C
+A002951C 00000000
+;Always off
+9002951C 0800A554
+;Fixup canary
+A002951C 00000001
+9002951C 00000000
+00000000 FFFF
+00000000 FFFF
+A403EC6C 02602021
+D701003C 00000200
+F502942C 0022A52E
+F502942E 14400800
+F502941C BA040000
+F502941E 0C000000
+00000000 FFFF
+00000000 FFFF
+#Enable extra cameras in race
+A401F888 AEB40008
+A701031C 00030009
+A7010370 40F045C1
+;Replay off
+C30A92BC 0001
+A701171C 0106010E
+A7011778 45E945D7
+00000000 FFFF
+00000000 FFFF
+A401F888 AEB40008
+;Hold R1 to trigger a cinematic camera
+;Replay off
+C30A92BC 0001
+D701001E 01000008
+F5010148 40B6427F
+F5010A4C 006C8021
+F5010A4E 8C700000
+301FFA89 0002
+00000000 FFFF
+00000000 FFFF
+00000000 FFFF
+;Restore everything when replay is enabled
+A401F888 AEB40008
+C40A92BC 0000
+D001171C 010E
+8001171C 0106
+D0011778 45D7
+80011778 45E9
+A0010A4C 00008021
+90010A4C 8C70006C
+00000000 FFFF
+00000000 FFFF
+#True Endurance tweak
+;"Help" the game unload segments that normally are left unwritten to,
+;so further cheat detection is more reliable. This is safe as it overwrites dead code.
+A0052A64 801EF8EF
+;Reset the race overlay for Arcade
+80057010 0000
+;Reset the race overlay for Simulation
+A0052B20 000000E7
+80057010 0000
+;Sets 2h Rome Endurance to 255 laps and hides the lap counter
+A4057010 260201C0
+;Set the endurance flag manually for 255 lap races, so replays work properly
+E01D563B 00FF
+E0046ED5 0000
+30046ED5 0001
+;Time limited race off
+E0046ED5 0000
+;Restore the max laps counter
+A602CE1C 00020006
+;Time limited race on
+C4046ED5 0000
+;Turn off the max laps counter
+A702CE1C 00060002
+;Set laps to 255
+E01D563B 0063
+301D563B 00FF
+00000000 FFFF
+00000000 FFFF
+;#### PATCHES LISTED BELOW ####
 #16-9 Widescreen
 ;"Help" the game unload segments that normally are left unwritten to,
 ;so further cheat detection is more reliable. This is safe as it overwrites dead code.
@@ -30135,18 +30305,6 @@ A701CDF4 00B30066
 A701CDFC FFCEFFE4
 A701CE04 032001C9
 00000000 FFFF
-#60 FPS (+Re-enable tire smoke, sky in the read view mirror, rear view mirror)
-E01D5634 0002
-301D5634 0001
-A401F888 AEB40008
-;Re-enable tire smoke
-A70168C8 00020000
-;Re-enable sky in the read view mirror
-A7019644 00020000
-00000000 FFFF
-;Re-enable rear view mirror
-A003EC6C 02602021
-A7029548 00020000
 #Metric units (imperial to metric)
 ;"Help" the game unload segments that normally are left unwritten to,
 ;so further cheat detection is more reliable. This is safe as it overwrites dead code.
@@ -30261,92 +30419,18 @@ A7016A7A 02250000
 D121F88A AEB4
 A7016A88 80000000
 00000000 FFFF
-#L3 to toggle Mirror (tap) and HUD (hold)
-A403EC6C 02602021
-D7010001 00000200
-A002951C 1040000C
-;Always on
-9002951C 00000001
-A002951C 0800A554
-;Default
-9002951C 1040000C
-A002951C 00000000
-;Always off
-9002951C 0800A554
-;Fixup canary
-A002951C 00000001
-9002951C 00000000
-00000000 FFFF
-00000000 FFFF
-A403EC6C 02602021
-D701003C 00000200
-F502942C 0022A52E
-F502942E 14400800
-F502941C BA040000
-F502941E 0C000000
-00000000 FFFF
-00000000 FFFF
-#Enable extra cameras in race
+#60 FPS (+Re-enable tire smoke, sky in the read view mirror, rear view mirror)
+E01D5634 0002
+301D5634 0001
 A401F888 AEB40008
-A701031C 00030009
-A7010370 40F045C1
-;Replay off
-C30A92BC 0001
-A701171C 0106010E
-A7011778 45E945D7
+;Re-enable tire smoke
+A70168C8 00020000
+;Re-enable sky in the read view mirror
+A7019644 00020000
 00000000 FFFF
-00000000 FFFF
-A401F888 AEB40008
-;Hold R1 to trigger a cinematic camera
-;Replay off
-C30A92BC 0001
-D701001E 01000008
-F5010148 40B6427F
-F5010A4C 006C8021
-F5010A4E 8C700000
-301FFA89 0002
-00000000 FFFF
-00000000 FFFF
-00000000 FFFF
-;Restore everything when replay is enabled
-A401F888 AEB40008
-C40A92BC 0000
-D001171C 010E
-8001171C 0106
-D0011778 45D7
-80011778 45E9
-A0010A4C 00008021
-90010A4C 8C70006C
-00000000 FFFF
-00000000 FFFF
-#True Endurance tweak
-;"Help" the game unload segments that normally are left unwritten to,
-;so further cheat detection is more reliable. This is safe as it overwrites dead code.
-A0052A64 801EF8EF
-;Reset the race overlay for Arcade
-80057010 0000
-;Reset the race overlay for Simulation
-A0052B20 000000E7
-80057010 0000
-;Sets 2h Rome Endurance to 255 laps and hides the lap counter
-A4057010 260201C0
-;Set the endurance flag manually for 255 lap races, so replays work properly
-E01D563B 00FF
-E0046ED5 0000
-30046ED5 0001
-;Time limited race off
-E0046ED5 0000
-;Restore the max laps counter
-A602CE1C 00020006
-;Time limited race on
-C4046ED5 0000
-;Turn off the max laps counter
-A702CE1C 00060002
-;Set laps to 255
-E01D563B 0063
-301D563B 00FF
-00000000 FFFF
-00000000 FFFF
+;Re-enable rear view mirror
+A003EC6C 02602021
+A7029548 00020000
 
 ; [ Gran Turismo 2 (USA, v1.0) (1999) (Sony Computer Entertainment America) {SCUS-94455} <gt2b> ]
 :SCUS-94455
@@ -30446,6 +30530,7 @@ A61D5476 00020001
 A61FFA82 02000300
 #More Misc.\Replay Screen Clear (Arcade Disc)
 A61FFA8A 02000300
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 D0010000 FFE8
 8007B2AC 0155
@@ -30488,8 +30573,6 @@ D0010000 FFE0
 80026D2C 0001
 #Unlock Vice City Part 2
 80026D30 0001
-#Push game cap to 30 fps
-A7122906 0C042400
 #Walk off ledges and through fences
 A705673E 14621000
 #Walk off/up ledges and through fences, bounce of buildings
@@ -30504,6 +30587,9 @@ A70B894E 0C012400
 #Stop traffic "Press L3 to turn on/off"
 D7010001 01000200
 F509DA7E 14402400
+;#### PATCHES LISTED BELOW ####
+#Push game cap to 30 fps
+A7122906 0C042400
 
 ; [ Grand Theft Auto 2 (USA) (1999) (Rockstar Games) {SLUS-00789, SLUS-00789GH, SLUS-00789CE} <gta2> ]
 :SLUS-00789
@@ -30933,6 +31019,7 @@ A702A0F6 10621000
 #Infinite Ammo
 801291B0 0063
 80111AE4 0063
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 8007663C 1333
 #Dither Off
@@ -31301,6 +31388,7 @@ C00CBF06 00A0
 #Tony Hawk Max Stats
 90060BE8 0A0A0A0A
 90060BEC 0A0A0A0A
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9 (Vert-)
 80028130 1333
 
@@ -31370,10 +31458,6 @@ A70D5F02 10402400
 A70D5F1A 24001040
 D7200000 00010000
 A70D5F1A 10402400
-#60 FPS unlock (Needs overclock)
-A7085522 14402400
-#30 FPS unlock
-A7013AFE 14432400
 #Far Jumps
 A70A8526 14432400
 #Walk up hills
@@ -31407,6 +31491,11 @@ A70A194E 12401000
 A70E274A 10001040
 D7200000 0000000C
 A70E274A 10401000
+;#### PATCHES LISTED BELOW ####
+#60 FPS unlock (Needs overclock)
+A7085522 14402400
+#30 FPS unlock
+A7013AFE 14432400
 
 ; [ Castrol Honda Superbike Racing (USA) (1999) (Electronic Arts) {SLUS-00882} <hondasbr> ]
 :SLUS-00882
@@ -31879,6 +31968,7 @@ D011B38A FFFE
 801397E0 0020
 #Activate Cheat Shadow Car
 801397E0 0080
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A711A7DC 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -31910,6 +32000,7 @@ A711A7DC 10000400
 80084862 0063
 #Unlock All Report Card - Quidditch Training
 800844F0 FFFF
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 A7075C6E 10002000
 
@@ -31962,6 +32053,7 @@ D7100000 0000000C
 800442AA 00001000
 D7100000 00000003
 800442AA 00001220
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 800710F2 2000
 
@@ -32220,6 +32312,7 @@ D7100000 00000003
 8006C738 0007
 #Select Level\8
 8006C738 0008
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A7097E00 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -32340,6 +32433,7 @@ A7097E00 10000400
 30073E03 0000
 #Infinite Points (Master League)
 3011757D 00FF
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70719D0 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -32484,6 +32578,7 @@ A60A6828 00010000
 901A58FC 3F3F3F3F
 #P1 Max Score (1 Player Mode)
 80078D12 270F
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A71C4B28 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -32518,13 +32613,14 @@ A71C4B28 10000400
 8004FD02 2400
 #Enable Level Select Cheat
 8004FCCE 2400
-#Widescreen hack
-A7073FBA 0C022400
-A7073EEA 0C022400
 #Walk through walls "Press L3 to toggle on/off"
 D7010001 01000200
 F5092386 14401000
 F507B846 10E01000
+;#### PATCHES LISTED BELOW ####
+#Widescreen hack
+A7073FBA 0C022400
+A7073EEA 0C022400
 
 ; [ Judge Dredd (USA) (1998) (Activision) {SLUS-00630} <jdredd> ]
 :SLUS-00630
@@ -32575,6 +32671,7 @@ D001000C 0010
 80010040 0063
 #Infinite Lives
 80010042 0900
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A7048164 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -32653,6 +32750,7 @@ A7048164 10000400
 80175B2A 0006
 #Race All Tracks In Wire-Frame Mode
 8016B114 0101
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A719848C 10000C00
 A71983CC 10000C00
@@ -32746,6 +32844,7 @@ A719830C 10000400
 #Stunt Race is Off
 80017C06 0002
 80017CBE 0002
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A716EBBC 10000C00
 A716E91C 10000C00
@@ -32836,6 +32935,7 @@ A716EA9C 10000400
 80175B2A 0006
 #Race All Tracks In Wire-Frame Mode
 8016B114 0101
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A71948F0 10000C00
 A7194830 10000C00
@@ -33964,6 +34064,7 @@ A60B44C0 03E801F4
 A60B44C0 03E802EE
 #Infinite Credits
 800B49D4 0003
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70FE91C 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -33980,6 +34081,7 @@ A70FE91C 10000400
 800E5EE6 0128
 #P2 No health
 900E61BC 00000000
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70C6A68 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -33997,6 +34099,7 @@ A70C6A68 10000400
 #P2 No Health
 800BB2CC 0000
 800BB2D4 0000
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A7109F90 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -34048,6 +34151,7 @@ A60DB4C2 0001002C
 800E6B8A 0000
 800E6C06 0000
 800E6C82 0000
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70EECE0 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -34245,6 +34349,7 @@ D00D1080 0080
 800D198A 0009
 800D1A0A 0009
 800D1A4A 0009
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 8003A374 0C00
 8003A384 0034
@@ -34288,6 +34393,7 @@ D00D1080 0080
 800CF5F8 00C0
 #Extra Characters
 90010588 003FFFFF
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70C7F40 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -34355,6 +34461,7 @@ A608F9F0 02000100
 A608F9F0 02000180
 #P2 1-Hit Death
 A608F9F0 02000001
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70BE58C 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -34438,6 +34545,7 @@ A7052B3A 10401400
 A7052B4E 14401400
 A7052B66 14401400
 A7052B76 14401400
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 800E6F6C 0F00
 
@@ -34451,6 +34559,7 @@ A7052B76 14401400
 801B2500 270F
 #50000 OF GOLD
 801B2534 C350
+;#### PATCHES LISTED BELOW ####
 #Uncap game at 30 FPS (200 Overclock for stable 30 FPS)
 A7019656 14402400
 #Uncap Game at 60 FPS (160 Overclock for stable 60 FPS)
@@ -34540,6 +34649,7 @@ A7056BE2 10401000
 A707109A 24001080
 D7200000 0000000C
 A707109A 10802400
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A710A440 10000C00
 A70C47EC 10000C00
@@ -35048,6 +35158,7 @@ D00CCDF8 0004
 #Cheats for All Other Characters\All Characters In Party
 5000092C 0000
 300BAEF8 0003
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70C3588 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -35299,6 +35410,7 @@ D00FC970 0100
 #Level Select Cheat Activated (press select after you have started level 1 then quit)
 D00FC970 0100
 300A1486 0001
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A702CB16 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -36720,6 +36832,7 @@ A60E2BEC 00000FFF
 #Infinite Repair Time
 D0067554 0000
 80067556 2400
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 80056BB0 2EEE
 80056BB2 0001
@@ -36740,6 +36853,7 @@ D0067554 0000
 800CB81C 0063
 #Infinite Sniper Weapon 6
 800CB820 0063
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 80007600 0C00
 80007602 2401
@@ -36879,16 +36993,17 @@ D7200000 00020000
 A702FEFA 14622400
 #Clear water turns darker in some places
 A7022656 10201000
-#FPS Uncap
-A70A3F32 10401000
 #Bigger Play Area - Mess around with 2000
 A70F890C 10002000
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen\16-9
 A70F88FC 19991333
 #Select Widescreen\20-9
 A70F88FC 19990E66
 #Select Widescreen\Eye Infinity
 A70F88FC 19990666
+#FPS Uncap
+A70A3F32 10401000
 
 ; [ MediEvil II (USA) (2000) (Sony Computer Entertainment America) {SCUS-94564} <medievl2> ]
 :SCUS-94564
@@ -37055,6 +37170,7 @@ E00EFF1E 0000
 800F1604 0001
 #Always have Beard
 800F160C 0001
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 A7129044 19991333
 
@@ -37486,13 +37602,14 @@ F50202CE 10401000
 800E9116 0005
 #Press R1+R2 For Cheat Options (main menu)
 80077456 1000
-#FPS unlocker
-A701FD2A 0C021400
 #Pause doesn't darken screen or mute music
 A704BB22 10A01000
 A7087012 12001000
 #Stealth camo doesn't make you translucent
 A706381A 0C002400
+;#### PATCHES LISTED BELOW ####
+#FPS unlocker
+A701FD2A 0C021400
 
 ; [ Metal Gear Solid (USA, v1.1) (1998) (Konami of America) {SLUS-00594, SLUS-00594P3 / SLUS-00776, SLUS-00776P3} <mgs> ]
 :SLUS-00594
@@ -37813,6 +37930,12 @@ D00B2D60 0008
 #R1 = Quick Metal Gear Battle
 D00B2D60 0008
 800B8EFE 0000
+#Pause doesn't darken screen or mute music
+A704BB22 10A01000
+A7087012 12001000
+#Stealth camo doesn't make you translucent
+A706381A 0C002400
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 8001F6E0 4415
 8001F6E2 0800
@@ -37844,11 +37967,6 @@ D00B2D60 0008
 80011086 A4A2
 #FPS unlocker
 A701FD2A 0C021400
-#Pause doesn't darken screen or mute music
-A704BB22 10A01000
-A7087012 12001000
-#Stealth camo doesn't make you translucent
-A706381A 0C002400
 
 ; [ Metal Gear Solid (USA, v1.0) (1998) (Konami of America) {SLUS-00594 / SLUS-00776} <mgsa> ]
 :SLUS-00594
@@ -38002,6 +38120,12 @@ D00B2D58 0004
 #Play In First Person Viewmode activate this code press L1+L2+R1+R2 and after that the triangle-button. To deactivate simply press triangle again.
 D00AE0C8 001F
 300AE1C8 0000
+#Pause doesn't darken screen or mute music
+A704BB22 10A01000
+A7087012 12001000
+#Stealth camo doesn't make you translucent
+A706381A 0C002400
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 8001F6E0 4415
 8001F6E2 0800
@@ -38033,11 +38157,6 @@ D00AE0C8 001F
 80011086 A4A2
 #FPS unlocker
 A701FD2A 0C021400
-#Pause doesn't darken screen or mute music
-A704BB22 10A01000
-A7087012 12001000
-#Stealth camo doesn't make you translucent
-A706381A 0C002400
 
 ; [ Metal Gear Solid - VR Missions (USA) (1999) (Konami of America) {SLUS-00957} <mgsvr> ]
 :SLUS-00957
@@ -38253,6 +38372,23 @@ D0055F5C 00F4
 300386CC 0001
 #BGM/BackGround-Music = Ambience Only
 30038658 0001
+#Select Right analog turn option\Option 1
+80060106 00001040
+D7000000 00020000
+80060106 00002400
+800D0C86 0000FFDF
+00000000 0000FFFF
+D7000000 00080000
+80060106 00002400
+800D0C86 0000FF7F
+#Select Right analog turn option\Option 2
+80060106 00001040
+D7000000 00020000
+800D0C86 0000FFDF
+00000000 0000FFFF
+D7000000 00080000
+800D0C86 0000FF7F
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 80048FEC B892
 80048FEE 0C00
@@ -38285,22 +38421,6 @@ D0055F5C 00F4
 8002E278 2180
 8002E27A 0004
 8007B590 0A00
-#Select Right analog turn option\Option 1
-80060106 00001040
-D7000000 00020000
-80060106 00002400
-800D0C86 0000FFDF
-00000000 0000FFFF
-D7000000 00080000
-80060106 00002400
-800D0C86 0000FF7F
-#Select Right analog turn option\Option 2
-80060106 00001040
-D7000000 00020000
-800D0C86 0000FFDF
-00000000 0000FFFF
-D7000000 00080000
-800D0C86 0000FF7F
 
 ; [ Medal of Honor - Underground (USA) (2000) (Electronic Arts) {SLUS-01270} <mhonrund> ]
 :SLUS-01270
@@ -38420,6 +38540,7 @@ D008D404 006E
 8003A3D4 0001
 #Mission 8 Level 3\Infinite Health
 800E426A 0080
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 8004C3BC BE32
 8004C3BE 0C00
@@ -38994,6 +39115,7 @@ D008F888 0100
 8007F218 0000
 #FMV-screen
 3008F868 0001
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 80077F34 1555
 
@@ -39319,6 +39441,7 @@ A60B34D0 00000001
 80100E02 2400
 #Unlock All Extra Modes
 900C1B28 00010001
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 80038058 2082
 8003805A 0800
@@ -39395,6 +39518,7 @@ A70CD6AE 24001440
 D7200000 00000400
 A70CD6DE 10402400
 A70CD6AE 14402400
+;#### PATCHES LISTED BELOW ####
 #Disable FPS lock
 A7010F62 14402400
 #Force 30 FPS
@@ -39670,6 +39794,7 @@ D5000000 00000200
 D5000000 00000400
 80023F92 00001440
 80023FC2 00001440
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 A70B22BA 40054006
 A70248B4 000A000C
@@ -40175,6 +40300,7 @@ C0083472 FEFF
 800DDE72 03E7
 #Infinite Money
 800E8540 FFFF
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70E7E60 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -40231,6 +40357,7 @@ D00938AE 0001
 90097BBC 00010001
 90097BC0 00010001
 90097BC4 00010001
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A708E5A0 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -40385,6 +40512,7 @@ A61F81CA 000103E7
 80109510 0001
 #Infinite Lives-Classic Mode
 A60F5800 00020063
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A71F3828 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -40427,6 +40555,7 @@ A61F81CA 000103E7
 80109510 0001
 #Infinite Lives-Classic Mode
 A60F5800 00020063
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A71F3828 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -40841,6 +40970,7 @@ E00C1E00 0000
 #Infinite Health - Battle Mode
 800C34E6 0000
 800C34E8 0000
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 8002CED8 4CCC
 8002CFE0 CCCD
@@ -40936,6 +41066,7 @@ D0078DCA 0040
 800BA242 C1C2
 #Always have Dlumina2 + Dlumina3 Toy
 800BA244 C1C2
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70AE7F0 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -43702,6 +43833,7 @@ C00A879E FFFE
 8006AD2A 0200
 #Select Weapon\Skeleton w/Ultimate Sword
 8006AD2A 0208
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70162E8 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -44092,6 +44224,7 @@ D010B85C 0500
 800EF558 0001
 #Have Portable Food
 800EF55C 0001
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70EBB90 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -44269,6 +44402,7 @@ A6153C60 0000FFFF
 80153D26 00FF
 50001C02 0000
 80153DA2 00FF
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A7150FF0 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -44355,6 +44489,7 @@ A7051A3A 00650000
 9000C030 8FA80010
 9000C034 27BD0018
 9000C038 03E00008
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 80008200 0000
 80008202 8C88
@@ -44433,6 +44568,7 @@ A704118E 08012400
 800932C4 1000
 #Running Speed Modifier:You will need to manually edit '1778' in the code line or you will see NO effect
 800932BC 1778
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 80066F64 2080
 80066F66 0800
@@ -44465,6 +44601,7 @@ A704118E 08012400
 30087B92 0001
 50000602 0000
 30087B86 0003
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70928A8 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -44554,8 +44691,6 @@ A704E506 0C012400
 A7027D7E 24000C00
 D7200000 00000400
 A7027D7E 0C002400
-#Force and cap game to 60 FPS
-A7014D42 0C002400
 #Turn screen black
 A7018726 0C002400
 #Remove Aya's right arm
@@ -44591,6 +44726,9 @@ A70DBFFE 1C402400
 A70DC40A 10402400
 #Aim assist
 A710946E 10402400
+;#### PATCHES LISTED BELOW ####
+#Force and cap game to 60 FPS
+A7014D42 0C002400
 
 ; [ Parasite Eve (USA) (1998) (Square Electronic Arts) {SLUS-00662 / SLUS-00668} <paraseve> ]
 :SLUS-00662
@@ -44852,6 +44990,7 @@ A609CA10 00000001
 #Have All Tarot Cards
 50001602 0000
 800835E6 03E7
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A708B3E8 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -45542,6 +45681,7 @@ A703269E 1C401400
 #Hit Anywhere (Both Players Delay)
 D0026E1C 00C8
 80026E1E 2400
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A702C63C 10000C00
 A702C6D0 10000C00
@@ -45717,6 +45857,7 @@ A70710BE 10401000
 A706B41A 0C012400
 #Turbo fire v2
 A706ADEA 10621000
+;#### PATCHES LISTED BELOW ####
 #FPS Uncap
 A701C28A 0C032400
 
@@ -45928,6 +46069,7 @@ D009393C 48ED
 800CA5BE 0101
 #Have Secret Modes (Main Menu)
 300CA5B9 0001
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 A70CA584 19991333
 
@@ -45976,6 +46118,7 @@ A609E2E0 00800001
 80084C06 FFFF
 #Have Map
 80084C0C FFFF
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A7075766 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -46021,6 +46164,7 @@ A7075766 10000400
 800DB0E0 0007
 #Select Stage\Technical Bonus
 800DB0E0 0008
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A710D54C 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -46271,6 +46415,7 @@ E00B2985 0000
 A6101F98 03E80001
 #P1 Needs 1 Win to Win
 A6101E6E 00010101
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A71CE644 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -46420,6 +46565,7 @@ C00CC620 0100
 300CFBA0 0064
 #Finish License Test For Perfect Score Carrying Goods
 300CFBA1 0064
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70D06B8 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -46477,6 +46623,7 @@ D00C7DD0 8000
 #P1 Refresh Health In Level 3 Press Select+R2
 D00C7DD0 0201
 800CC3A0 0064
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 81055DF4 4CCC
 81055DF8 CCCD
@@ -46591,6 +46738,7 @@ D01E4072 0020
 8009E480 0AAF
 #Custom Logo Colors (Team Logo Design Screen Under Paint)
 3007F638 0001
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 8001A660 2082
 8001A662 0800
@@ -47217,6 +47365,7 @@ C00100D4 4465
 300A6C00 0002
 300A6C19 0002
 00000000 FFFF
+;#### PATCHES LISTED BELOW ####
 #Select 60 FPS Unlock\Needs slight overclock
 A701217A 14802400
 A7012232 14432400
@@ -47277,6 +47426,7 @@ D0007800 4D43
 8005EC54 0000
 #Time Attack Lap 3 Time 00'00'00
 8005EC58 0000
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A705F600 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -47362,6 +47512,7 @@ C20921A8 0002
 800954C8 0001
 #Unlock Tito Ortiz
 80095448 0001
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 8007BBD8 0C00
 #Widescreen 16-9 (Vert-)
@@ -47481,6 +47632,7 @@ D0098DFA 0100
 8005981A 6464
 #4000 Experience Points After Your First Race
 80099956 0FFF
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A7099750 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -47578,6 +47730,7 @@ A7099750 10000400
 30045ED0 0001
 #Misc\Play As Enzo
 30045ED0 0002
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 A70F0B8C 19991333
 
@@ -48105,8 +48258,6 @@ A706C93A 10622400
 A706EABE 14402400
 #No item description border top
 A706E99E 14402400
-#Full FPS Unlock
-A70292FA 14401400
 #Make game Dark
 A70295E6 14622400
 #Enter random doors press X
@@ -48118,22 +48269,6 @@ A702418E 16422400
 A7019DBE 16C02400
 #Disable auto aim
 A704426E 04401000
-#60 FPS Beta
-800101BC 0000FFFF
-10027F44 00000001
-D0027F44 00000002
-80027F44 00000000
-100271D0 00000001
-D30271D0 00000002
-800271D0 00000000
-E00CCBC9 0000000B
-800101BC 00000001
-E00CCBC9 0000000E
-800101BC 00000001
-E00CCBC9 0000000A
-800101BC 00000001
-E00CCBC9 0000000F
-800101BC 00000001
 #Giraffe Jill
 A70CCCE0 40A4407C
 #Most puzzle answers are always correct (Hold L1 on last digit or exiting puzzle menu)
@@ -48164,6 +48299,25 @@ A7052C82 10621000
 900A1B30 00000000
 9004770C 0C0286B8
 90047710 00000000
+;#### PATCHES LISTED BELOW ####
+#Full FPS Unlock
+A70292FA 14401400
+#60 FPS Beta
+800101BC 0000FFFF
+10027F44 00000001
+D0027F44 00000002
+80027F44 00000000
+100271D0 00000001
+D30271D0 00000002
+800271D0 00000000
+E00CCBC9 0000000B
+800101BC 00000001
+E00CCBC9 0000000E
+800101BC 00000001
+E00CCBC9 0000000A
+800101BC 00000001
+E00CCBC9 0000000F
+800101BC 00000001
 
 ; [ Resident Evil - Director's Cut (USA) (1997) (Capcom Entertainment) {SLUS-00551} <revildc> ]
 :SLUS-00551
@@ -48344,6 +48498,7 @@ D7000000 00400400
 00000000 0000FFFF
 D7000000 00100400
 610A865C 00000016
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A7065B90 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -48969,6 +49124,7 @@ D00C8B1C 0000
 30041D1E 0005
 #Unlock Production Staff 2
 30041D1F 0005
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9 (In-Game)
 800475A8 1555
 80095998 0C00
@@ -49059,6 +49215,7 @@ E015FF80 0000
 #Have All Parts
 50002802 0000
 800B45B8 6464
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 A7064394 19991333
 
@@ -49088,6 +49245,7 @@ A60A7E0E 00960001
 800A83B0 0020
 #P2 No Specials
 800A83B0 0000
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A7156450 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -49166,6 +49324,7 @@ A703B036 14621000
 300A553C 0C
 #Select Ball Type\Type 14
 300A553C 0D
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70A33D8 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -49414,6 +49573,7 @@ D00F3BEA 0004
 #Always 1st/Drive Thru Cars (Press Select) You will only race for half a lap or so and you must activate it before the cars in front of you ent...
 D00F3BEA 0100
 800AC236 0003
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 A706E458 10000E00
 
@@ -49486,6 +49646,7 @@ A60D81CA 000037FF
 #Always Hear The Checkpoint Chim Noise
 8007C368 761E
 8007C3F8 01E6
+;#### PATCHES LISTED BELOW ####
 #40 FPS unlock (Might speed up game)
 A7063B4A 10401000
 
@@ -49594,6 +49755,7 @@ D0010142 0006
 800A9D96 2400
 D0010142 0007
 800BF926 2400
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A7193DE0 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -49698,6 +49860,7 @@ A70609A2 14401400
 800CC698 0004
 #Select Play Difficulty\Expert Difficulty
 800CC698 000F
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9 (1P & Main Menu)
 800C7E6C 1333
 800C815C 1333
@@ -49816,6 +49979,7 @@ A61022AC 00000001
 801F64C0 0007
 #P2 1 Hit Kill
 801EFE02 0000
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A71F6120 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -51662,6 +51826,7 @@ D012C008 000F
 80137718 FFFF
 #Infinite Were Points
 300EBE44 0020
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A7199174 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -51716,6 +51881,7 @@ D009C32A F0FF
 300B4AA4 00FF
 #Infinite Trading Cards (Gallery Mode)
 800BA050 0063
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A709ACB8 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -51732,6 +51898,7 @@ D0080EE0 0104
 800F314A 1C00
 #Quick Score Gain
 800F3054 FFFF
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70D6D44 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -52077,6 +52244,7 @@ E01E667E 0000
 801F4F0E FFFF
 801F4F10 FFFF
 801F4F14 FFFF
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A71F73E8 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -52127,6 +52295,7 @@ D01D78DC 9600
 801DC9F6 FFFF
 #P1 Low Overall Time (Time Attack Mode)
 801DC9D8 0000
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A71DD2E0 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -52430,6 +52599,7 @@ D007111C 0084
 A7010836 24001040
 D7200001 01000200
 A7010836 10402400
+;#### PATCHES LISTED BELOW ####
 #Uncap FPS:Untested, use at your own risk
 A70A5F3A 04812400
 
@@ -52582,8 +52752,6 @@ D7010001 01000200
 E00BC76E 0004
 E00BC771 0080
 100BA032 03E8
-#FPS Unlock
-A70132A2 10401000
 #Solid Snow
 A70CED8E 10401400
 #Thicker Snow
@@ -52592,6 +52760,11 @@ A70CEE1E 10401400
 A70CE902 14401400
 #Remove Snow
 A70CEDF2 10401000
+#Turbo fire "Hold R2+X"
+A7044A92 10001040
+D7200000 00000042
+A7044A92 10401000
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70C6FE0 10000C00
 A70C6FF0 10000C00
@@ -52604,10 +52777,8 @@ A70C6FF0 10000400
 #60 FPS
 A70A8FF0 00020001
 A70AB38C 00020001
-#Turbo fire "Hold R2+X"
-A7044A92 10001040
-D7200000 00000042
-A7044A92 10401000
+#FPS Unlock
+A70132A2 10401000
 
 ; [ Silhouette Mirage (USA) (1999) (Working Designs) {SLUS-00728B, SLUS-00728C} <silhouet> ]
 :SLUS-00728
@@ -52760,6 +52931,7 @@ A7044A92 10401000
 80072940 0001
 #Big Ape Mode enabled
 8007317C 0001
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A7047B28 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -53007,6 +53179,7 @@ D00C1CE4 0001
 300D4D90 0002
 #Travis Enable Storm Sled
 300D4D92 0002
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 A70E0128 19991333
 
@@ -53091,6 +53264,7 @@ C0052B7A 8E22
 80094408 0001
 #Everything Unlocked
 800100EA FFFF
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A709C96C 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -53147,6 +53321,7 @@ E012DCFA 0000
 3012DCFB 0000
 #Unlock Everything
 301FB1FC 0007
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 8012DF84 1333
 
@@ -53723,6 +53898,7 @@ A60C2EF2 00F00001
 300A23BB 0013
 300A23BC 0017
 300A23C0 000F
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A7030CB4 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -53792,6 +53968,7 @@ A60C2EF2 00F00001
 300A23BB 0013
 300A23BC 0017
 300A23C0 000F
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A7030CB4 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -53981,6 +54158,7 @@ D0093F34 00A4
 8010180C 0001
 #Have More Views
 3007F94C 0004
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A7100D50 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -54179,11 +54357,6 @@ A7048C42 AE032400
 800B4F6C 0001
 #Enable What If Contest?
 800B4F5C 0001
-#Widescreen 16-9
-A70B5930 10000400
-A70B5934 19990666
-#Widescreen 16-9 (Vert-)
-A70B5934 19991333
 #Walk through walls "Press L3 to toggle on/off"
 D7010001 01000200
 F5080116 05E01000
@@ -54225,6 +54398,12 @@ D7200000 00100010
 A705A372 10401000
 #Shadow Spider Man
 A707664E 10401000
+;#### PATCHES LISTED BELOW ####
+#Widescreen 16-9
+A70B5930 10000400
+A70B5934 19990666
+#Widescreen 16-9 (Vert-)
+A70B5934 19991333
 
 ; [ Spider-Man 2 - Enter - Electro (USA) (2001) (Activision) {SLUS-01378, SLUS-01378GH} <spiderm2> ]
 :SLUS-01378
@@ -54248,6 +54427,7 @@ A707664E 10401000
 #All Gallery Items
 50000A02 0000
 800B31FC FFFF
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 A70C2A90 10000400
 A70C2A94 19990666
@@ -54856,11 +55036,12 @@ D0077380 0018
 8007DCA4 0003
 #Wizard Peak\Have all stolen treasures
 8007DDEC 01F4
+;;******PUGSY NOTE, WTW Info - on the first level you hit a BP on 800442A8 when you touch the wall
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 8001EDDE 241B
 8001EDDC 0C00
 80033C92 A7BB
-;;******PUGSY NOTE, WTW Info - on the first level you hit a BP on 800442A8 when you touch the wall
 
 ; [ Spyro 2 - Ripto's Rage! (USA) (1999) (Sony Computer Entertainment America) {SCUS-94425, SCUS-94425CE} <spyro2> ]
 :SCUS-94425
@@ -55154,27 +55335,6 @@ A70520FA 14402400
 #Breathe Fire Underwater
 A702FEFA 10401400
 A703016E 14401000
-#Widescreen 16-9
-8001C354 2081
-8001C356 0800
-80008204 0000
-80008206 A5CD
-80008208 8007
-8000820A 3C04
-8000820C A9F6
-8000820E 8484
-80008210 8001
-80008212 2405
-80008214 0002
-80008216 14A4
-80008218 0C00
-8000821A 2405
-8000821C 0000
-8000821E A5C5
-80008220 70D7
-80008222 0800
-80008224 000A
-80008226 A5C2
 #SP2 LOD ("Press L3 to toggle on/off")
 D7010001 00000200
 F5023E2A 04612400
@@ -55311,6 +55471,28 @@ F5024C2E 05601000
 800396AE 0C00
 800396B0 0000
 800396B2 0000
+;#### PATCHES LISTED BELOW ####
+#Widescreen 16-9
+8001C354 2081
+8001C356 0800
+80008204 0000
+80008206 A5CD
+80008208 8007
+8000820A 3C04
+8000820C A9F6
+8000820E 8484
+80008210 8001
+80008212 2405
+80008214 0002
+80008216 14A4
+80008218 0C00
+8000821A 2405
+8000821C 0000
+8000821E A5C5
+80008220 70D7
+80008222 0800
+80008224 000A
+80008226 A5C2
 
 ; [ Spyro - Year of the Dragon (USA, v1.1) (2000) (Sony Computer Entertainment America) {SCUS-94467} <spyro3> ]
 :SCUS-94467
@@ -55566,6 +55748,7 @@ D0079D70 1025
 80079D74 E7A5
 D0079D70 1025
 80079D76 0801
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9:Do not play Crash Bash demo
 8004F744 2081
 8004F746 0800
@@ -55909,6 +56092,7 @@ A7144426 A6022400
 800F0E90 0000
 #Select Home Team Score\9
 800F0E90 0009
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A711E878 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -56013,6 +56197,7 @@ A61D8218 00C80001
 #P2 Low Gravity
 801D8206 0001
 801D8238 FFFF
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A71D8628 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -56208,6 +56393,7 @@ A703B05A 00402400
 801B5C20 FFFF
 #Select Confidence Meter\Full
 801B5C20 0FFF
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A71E9984 10000C00
 A71E98C4 10000C00
@@ -57034,6 +57220,7 @@ A60AC2BC 10000100
 #Jedi Mind Trick .Press Select
 D00802C4 0100
 800AC28C 0000
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A702578C 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -57231,6 +57418,7 @@ A702578C 10000400
 301168D0 0001
 #More Misc.\Stop Countdown Timer (Missile Silo Level)
 80116690 0BB8
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A712D700 10000C00
 A712D9DC 10000C00
@@ -57567,6 +57755,7 @@ D011EC70 0003
 8011FC80 FFFF
 #Invisibility Code If you press and hold the L1 button, you can turn invisibility off to turn it on again, just release the L1 button
 8011F860 FFFF
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A7120968 10000C00
 A7120F08 10000C00
@@ -57692,6 +57881,7 @@ D01B39AE 801A
 #Have All Weapons And Items
 9012D7D8 F9FFFFFF
 8012D7DC 005F
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A71236C8 10000C00
 A7123C68 10000C00
@@ -57867,6 +58057,7 @@ A7123C68 10000400
 301168D0 0001
 #More Misc.\Stop Countdown Timer (Missile Silo Level)
 80116690 0BB8
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A712D700 10000C00
 A712D9DC 10000C00
@@ -58120,6 +58311,7 @@ D006F264 0210
 30064716 000E
 #Nitro Boost (press R1)
 30067385 0001
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A706F2C8 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -58150,6 +58342,7 @@ A706F2C8 10000400
 9009DB60 02020202
 9009DB64 02020202
 8009DB68 0202
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 A708815C 199A1334
 
@@ -58212,6 +58405,7 @@ D7000000 00000400
 8003321A 00000621
 80033636 00000601
 800333BA 00000621
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70A56C0 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -58529,6 +58723,7 @@ E00454DC 0000
 80064294 0016
 #Select Car\Ice.Cream Truck (Hidden Vehicle)
 80064294 0017
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A7074E28 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -58558,6 +58753,7 @@ A7074E28 10000400
 #World Tour - Open All Divisions
 8013D998 001F
 8013DA6C 0001
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A707C6AC 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -58693,6 +58889,7 @@ A707C6AC 10000400
 8009F660 0101
 #Always Have Tiara
 8009F678 0001
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A7073338 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -60369,6 +60566,7 @@ C000E226 800B
 80010244 1300
 5000060C 0000
 8001037C 1300
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70C4108 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -60681,6 +60879,7 @@ D00104B0 0001
 80010126 7FFF
 50000708 0000
 80010128 EA5F
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70CD358 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -62088,6 +62287,7 @@ C000E226 800B
 8001001A 00FF
 #Both Characters\Japanese Voices In Most Levels + Levels Layout Open
 80010048 00FF
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70C4108 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -62560,6 +62760,7 @@ F509A166 0C021400
 #Wireframe mode "Press R3 to toggle on/off"
 D7010001 02000400
 A7039F9E 0C002400
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9 (Vert-)
 A70D2194 19991333
 
@@ -62643,6 +62844,7 @@ A70D2194 19991333
 900BB5D0 7530FFFF
 #Max Cash
 900BB5D4 7530FFFF
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9 (Vert-)
 A70D8640 19991333
 
@@ -64274,6 +64476,7 @@ D0026318 0003
 901E1708 05F5E0FF
 #Quick Score Gain
 801E1708 FFFF
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 A70DA240 10000400
 A70DA244 19990666
@@ -64326,6 +64529,7 @@ A70DA244 19990666
 8009B3A0 6363
 #Start In Final Area
 8009B2F0 00FF
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 A70BF4A0 19991333
 A709EE4C 10000C00
@@ -64522,6 +64726,7 @@ D00716E8 4020
 800714FE 000F
 #Select Level\Mutank Slide
 800714FE 0010
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A7083C80 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -65009,6 +65214,7 @@ E00BF88C 0009
 8002363E 1462
 #FOV hack
 A7051794 10000C00
+;#### PATCHES LISTED BELOW ####
 #Uncap FPS Full
 A7050CF2 14402400
 #Uncap FPS At 60 FPS (Needs Slight Overclock to remain stable)
@@ -65194,6 +65400,7 @@ D7200000 0080
 A706C422 14401000
 #Bosses & enemies can't move - disable it in the Final Showdown level
 A706C726 10401000
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 8002CA58 4CCC
 8002CA60 CCCC
@@ -65374,6 +65581,7 @@ D7200000 0080
 300A10E0 000B
 800A15E0 0000
 00000000 FFFF
+;#### PATCHES LISTED BELOW ####
 #60 FPS
 800A1174 0001
 800A14D4 0001
@@ -65395,6 +65603,7 @@ E00C0D2B 0000
 300C0D2B 0002
 #99 Tournament Points Car 1
 300BD690 0063
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 A706D948 66664CCC
 A706D950 6667CCCD
@@ -65689,6 +65898,7 @@ D00687EC 0A01
 800E7AF8 0001
 #P1 All Yellow Bouys
 800FD3C6 0005
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9 (Vert-)
 8002ABB8 0C00
 
@@ -67267,6 +67477,7 @@ A61FFF90 0001000F
 #Have All Characters Unlocked
 80124B06 0101
 80124B08 0101
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A7138698 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -67746,6 +67957,7 @@ E003F6D8 0000
 80189BA0 0000
 #Select Stage\Treetop Rumble
 80189BA0 0000
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A71D2108 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -67962,6 +68174,7 @@ D005D810 0134
 8018ED04 0005
 #Select Perm Level\Arena
 8018ED04 0006
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A7173F9C 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -68533,6 +68746,7 @@ D0110F48 0000
 301B39A7 0001
 #P1 Infinite Turbo
 801D8234 0327
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A71C2E5C 10000C00
 A71C2F1C 10000C00
@@ -69085,6 +69299,7 @@ D005E1C0 0020
 #Misc.\Unlock Teleport Location\Unlock All Teleport Locations
 50002401 0000
 300616EE 0001
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 A707AE6C 12000D80
 A70AED50 0E3812F5
@@ -69119,8 +69334,6 @@ D00EF1A4 0160
 801E5C4C 3B03
 #Boot new game into debug
 A703F674 001E0000
-#FPS uncap
-A701FF9A 14402400
 #Valyrie Mirrors dark Valkyrie colors (Dark Valkyrie battle)
 A7060B12 14401000
 #Valyrie Mirrors dark attack colors (Dark Valkyrie battle)
@@ -69239,6 +69452,9 @@ A7030CDE 0C002400
 A7030D02 24000C00
 D7200000 00000400
 A7030D02 0C002400
+;#### PATCHES LISTED BELOW ####
+#FPS uncap
+A701FF9A 14402400
 
 ; [ Vanark (USA) (2000) (Jaleco USA) {SLUS-01035} <vanark> ]
 :SLUS-01035
@@ -69488,6 +69704,7 @@ C001CBE8 5110
 300B78F2 0013
 #Select Chapters Completed\20
 300B78F2 0014
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 800710A8 0C00
 800710C8 0C00
@@ -69905,6 +70122,7 @@ A60A30F8 00000005
 801FCCC0 0000
 #P2 Bosses Activator\Hendrickson
 801FCCC2 0000
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 80183934 1555
 80183938 1555
@@ -69957,6 +70175,7 @@ D01619C8 0102
 801C8FA0 1000
 #Level 1\P2 No Health
 801CB9A0 0000
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70D4CAE 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -69994,6 +70213,7 @@ A70D4CAE 10000400
 801B8A56 0000
 #Invincibility
 8013A51C 0000
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A7173AD0 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -70151,6 +70371,7 @@ E0030EB7 0000
 #P1 Quick Win
 90060F3C 14800003
 80060F4A 2400
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A7041558 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -70265,6 +70486,7 @@ A60CF270 00340064
 300CEFC2 0063
 #P2 No Health
 300CF26E 0000
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9:When booting with the code enabled, you'll want skip the intro videos quickly in case they freeze the game.
 800D42E4 0C00
 
@@ -70433,6 +70655,7 @@ D00F8C62 FBFF
 800EF79C 2580
 800EF804 00C8
 800EF84C 1680
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70D1450 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -71118,6 +71341,7 @@ A60A5EE8 A0005000
 800A5EEA A000
 #Infinite Time
 800A3FC8 0000
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 A709BEF0 19991333
 
@@ -71327,6 +71551,7 @@ E009633C 0007
 8009D350 0000
 50000A02 0001
 80093DD8 00C8
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9 (In-Game/Demo)
 80021668 0C00
 #Widescreen 16-9 (Create A Superstar)
@@ -71499,6 +71724,7 @@ D007ACA0 0000
 8007ACA6 0005
 D007AC88 0100
 8007AC8E 0005
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9 (In-Game,Demo)
 800216FC 0C00
 #Widescreen 16-9 (Create A Superstar)
@@ -72094,6 +72320,7 @@ D00417CA AE02
 8012DD5C 0009
 #Xevious 3D\P2 Invincibility
 801468D4 0002
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9 (3D/G)
 80178740 0C00
 #Widescreen 16-9 (Main Menu)
@@ -72217,6 +72444,7 @@ A60A1F28 00000002
 A60A24FC 00010000
 #P1 One Match Win
 A60A1F28 00000001
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 A7096A00 19991333
 
@@ -72243,6 +72471,7 @@ D01FFE18 0002
 801F75E0 0000
 D01FFE18 0002
 801F75F0 0000
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 A70A26FC 19991333
 
@@ -72291,6 +72520,7 @@ C0097D56 000A
 00000000 FFFF
 #P2 Faster Character
 A7033E36 10402400
+;#### PATCHES LISTED BELOW ####
 #Uncap Gamespeed to 120 FPS
 A701199A 04812400
 
@@ -74004,6 +74234,7 @@ C01C50A4 0603
 80169372 1000
 #Infinite Time
 80170B9C 0DEA
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A7161F60 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -74183,6 +74414,7 @@ D00E0A34 0101
 80030CD6 0000
 D00E0A34 0102
 80030CD6 00A0
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 801792B0 0C04
 
@@ -74695,6 +74927,7 @@ D00F5164 0003
 80158AA6 00B4
 #Infinite HP Story Mode - Faye - Level 5 + 7
 8015B2A6 00B4
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A7066080 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -75958,6 +76191,7 @@ D005C006 FFFE
 800D0B24 0000
 #P2 1-Hit Death
 800D1EC0 0000
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70CA808 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -76191,6 +76425,7 @@ D01E4EEA 7FFF
 801FFE94 02F9
 #Maximum Points
 8003653C 969F
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 301D4DED 000C
 
@@ -76510,6 +76745,7 @@ A6116CB8 FFFF0000
 A6116CBA 24422402
 A611582E 00430000
 A610E476 00460000
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70EC098 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -76775,6 +77011,7 @@ D0007572 FEFE
 
 ; [ Dark Tales from the Lost Soul (Jpn) (1999) (Sammy) {SLPS-02316} <darktale> ]
 :SLPS-02316
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70BC580 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -77508,6 +77745,7 @@ D01FC418 0100
 801FC4E6 0050
 #Max Exp
 801FC4E6 0050
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A71FC384 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -77776,6 +78014,7 @@ A6089BF4 FFFF0000
 80082980 0000
 #Save Anywhere
 300861DC 0001
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A708D5B8 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -78953,6 +79192,7 @@ D01B3940 0001
 800E625A 4C00
 #All Hidden characters availables
 300D4124 0002
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70E9980 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -79355,6 +79595,7 @@ D0035342 2442
 #P2 Life 0 Press SELECT
 D013F5FA FFFE
 80128EEC FFFF
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A713BA70 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -79922,6 +80163,7 @@ C00FC434 002C
 80104E30 00F0
 #Freeze Total Time
 8002C91C 0000
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A711AC6C 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -80334,6 +80576,7 @@ C00A4D44 0018
 900A4E38 A02318A8
 800A4E3C 000B
 00000000 FFFF
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A71F6120 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -80364,6 +80607,7 @@ A71F6120 10000400
 800E573E 012F
 #Infinite TP Points At K1 Challenge
 800A80FE 0299
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70C6DF0 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -80681,6 +80925,7 @@ D0015B00 8888
 800843CA 0001
 #Battle (number of holes) 10
 800843CA 000A
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A7078630 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -80736,6 +80981,7 @@ D00CB82C 0101
 800334FE 1000
 D00CB82C 0102
 800334FE 1200
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70E5C28 10000C00
 A70C1B74 10000C00
@@ -81723,6 +81969,7 @@ D015B74A 0110
 80177752 1400
 D015B74A 0180
 80177752 1C80
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 80152FA0 0CD3
 
@@ -81733,6 +81980,7 @@ D015B74A 0180
 
 ; [ LSD - Dream Emulator (Jpn, Limited Edition) (1998) (Asmik Ace) {SLPS-01556} <lsd> ]
 :SLPS-01556
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A708E98C 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -81749,6 +81997,7 @@ A708E98C 10000400
 8007F29C 03E7
 #Infinite Lives
 8012F0CE 0009
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A709BD00 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -81915,6 +82164,7 @@ D01B5E16 FFFE
 #LUCKY (R1 + R2)
 D01B5E16 F5FF
 301A5B18 0003
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A71EFAA8 10000C00
 A71E56E0 10000C00
@@ -82055,6 +82305,7 @@ A7021BB6 10401000
 800F8862 00CF
 #P2 No Energy
 800F8862 0000
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70E178C 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -82526,6 +82777,7 @@ D0025112 A385
 300A36D8 0007
 #Day 7 END OF GAME
 300A373C 0007
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70FE2B0 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -83737,6 +83989,7 @@ D0095848 0008
 8009EB7C 3900
 #All Pepsiman
 800958C8 000F
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70E4858 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -83857,6 +84110,7 @@ D00A5584 0100
 800A8816 4268
 #P2 Infinite Glove Energy
 800A882E 4268
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70E69D8 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -84386,6 +84640,7 @@ D00CF3A6 2462
 800C8318 00BE
 #P2 Max Power Gauge
 800C831A 00BE
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70C2894 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -85533,6 +85788,7 @@ A7054462 14402400
 80059B50 1A0A
 #P2 Infinite HP
 80059B54 1A0A
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A7071C44 10000C00
 A7071BCC 10000C00
@@ -85807,6 +86063,7 @@ D0088D72 FFFE
 8007A1A0 FFFF
 50001502 0000
 8007A214 0202
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A7200464 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -85848,6 +86105,7 @@ C009DC68 DEFF
 80120EAC 270F
 #Infinite Weapons (Not Special Attacks)
 801217D0 0003
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A713F870 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -87538,6 +87796,7 @@ D00D2140 005C
 8004768A 0000
 #P1 Dragon devil available to determine the character while holding down the R2 and L2 which character ANYTHING.
 80098FC8 0001
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A709AA48 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -87945,6 +88204,7 @@ D30B1C84 0007
 800289D0 0101
 50002D02 0000
 80028BCE 0101
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A7096238 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -88115,6 +88375,7 @@ D01CCAD4 0100
 #Infinite Energy
 800B0568 015C
 800B0566 015C
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70C5BA0 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -88346,6 +88607,7 @@ A70C5BA0 10000400
 800F4D68 0258
 #Get One Monkey To Finish Level
 800F4454 00FF
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70AF050 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -88583,6 +88845,7 @@ D0070B7A F7FF
 #P1 only needs 1 trophy to win
 D005C4BC 0000
 3005C4BC 0002
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 80052AF0 0004
 80052AF4 0003
@@ -88821,12 +89084,13 @@ D00BC016 0002
 800B6DBE 0005
 D00BC016 0002
 800B6D92 0005
+#Simulation timescale in Arcade (100% instead of 125%)
+A7051C80 007D0064
+;#### PATCHES LISTED BELOW ####
 #50 FPS (+Re-enable tire smoke, Re-enable rear view mirror)
 A60B6168 00020001
 A702E560 00020001
 A702AA7C 00020001
-#Simulation timescale in Arcade (100% instead of 125%)
-A7051C80 007D0064
 
 ; [ Gran Turismo 2 (Euro) (2000) (Sony Computer Entertainment Europe) {SCES-02380} <gt2e> ]
 :SCES-02380
@@ -88897,6 +89161,93 @@ D01C97DA FFFE
 #Play Any Race With Any Car In Simulation Mode
 D0014908 000C
 8001490A 1000
+#L3 to toggle Mirror (tap) and HUD (hold)
+A403EC50 02602021
+D7010001 00000200
+A0029520 1040000C
+;Always on
+90029520 00000001
+A0029520 0800A555
+;Default
+90029520 1040000C
+A0029520 00000000
+;Always off
+90029520 0800A555
+;Fixup canary
+A0029520 00000001
+90029520 00000000
+00000000 FFFF
+00000000 FFFF
+A403EC50 02602021
+D701003C 00000200
+F5029430 0022A52F
+F5029432 14400800
+F5029420 BA120000
+F5029422 0C000000
+00000000 FFFF
+00000000 FFFF
+#Enable extra cameras in race
+A401F884 AEB40008
+A701031C 00030009
+A7010370 40F045C1
+;Replay off
+C30A954C 0001
+A701171C 0106010E
+A7011778 45E945D7
+00000000 FFFF
+00000000 FFFF
+A401F884 AEB40008
+;Hold R1 to trigger a cinematic camera
+;Replay off
+C30A954C 0001
+D701001E 01000008
+F5010148 40B6427F
+F5010A4C 006C8021
+F5010A4E 8C700000
+301FFA89 0002
+00000000 FFFF
+00000000 FFFF
+00000000 FFFF
+;Restore everything when replay is enabled
+A401F884 AEB40008
+C40A954C 0000
+D001171C 010E
+8001171C 0106
+D0011778 45D7
+80011778 45E9
+A0010A4C 00008021
+90010A4C 8C70006C
+00000000 FFFF
+00000000 FFFF
+#True Endurance tweak
+;"Help" the game unload segments that normally are left unwritten to,
+;so further cheat detection is more reliable. This is safe as it overwrites dead code.
+;Reset the race overlay for Arcade
+A0052988 801EFB39
+80057090 0000
+;Reset the race overlay for Simulation
+A00529DC 000000F6
+80057090 0000
+;Sets 2h Rome Endurance to 255 laps and hides the lap counter
+A4057090 260201C0
+;Set the endurance flag manually for 255 lap races, so replays work properly
+E01D589B 00FF
+E0046F49 0000
+30046F49 0001
+;Time limited race off
+E0046F49 0000
+;Restore the max laps counter
+A602CE60 00020006
+;Time limited race on
+C4046F49 0000
+;Turn off the max laps counter
+A702CE60 00060002
+;Set laps to 255
+E01D589B 0063
+301D589B 00FF
+00000000 FFFF
+00000000 FFFF
+;#### PATCHES LISTED BELOW ####
 #16-9 Widescreen
 ;"Help" the game unload segments that normally are left unwritten to,
 ;so further cheat detection is more reliable. This is safe as it overwrites dead code.
@@ -89084,92 +89435,6 @@ D121F886 AEB4
 A7016A76 02250000
 D121F886 AEB4
 A7016A84 80000000
-00000000 FFFF
-#L3 to toggle Mirror (tap) and HUD (hold)
-A403EC50 02602021
-D7010001 00000200
-A0029520 1040000C
-;Always on
-90029520 00000001
-A0029520 0800A555
-;Default
-90029520 1040000C
-A0029520 00000000
-;Always off
-90029520 0800A555
-;Fixup canary
-A0029520 00000001
-90029520 00000000
-00000000 FFFF
-00000000 FFFF
-A403EC50 02602021
-D701003C 00000200
-F5029430 0022A52F
-F5029432 14400800
-F5029420 BA120000
-F5029422 0C000000
-00000000 FFFF
-00000000 FFFF
-#Enable extra cameras in race
-A401F884 AEB40008
-A701031C 00030009
-A7010370 40F045C1
-;Replay off
-C30A954C 0001
-A701171C 0106010E
-A7011778 45E945D7
-00000000 FFFF
-00000000 FFFF
-A401F884 AEB40008
-;Hold R1 to trigger a cinematic camera
-;Replay off
-C30A954C 0001
-D701001E 01000008
-F5010148 40B6427F
-F5010A4C 006C8021
-F5010A4E 8C700000
-301FFA89 0002
-00000000 FFFF
-00000000 FFFF
-00000000 FFFF
-;Restore everything when replay is enabled
-A401F884 AEB40008
-C40A954C 0000
-D001171C 010E
-8001171C 0106
-D0011778 45D7
-80011778 45E9
-A0010A4C 00008021
-90010A4C 8C70006C
-00000000 FFFF
-00000000 FFFF
-#True Endurance tweak
-;"Help" the game unload segments that normally are left unwritten to,
-;so further cheat detection is more reliable. This is safe as it overwrites dead code.
-;Reset the race overlay for Arcade
-A0052988 801EFB39
-80057090 0000
-;Reset the race overlay for Simulation
-A00529DC 000000F6
-80057090 0000
-;Sets 2h Rome Endurance to 255 laps and hides the lap counter
-A4057090 260201C0
-;Set the endurance flag manually for 255 lap races, so replays work properly
-E01D589B 00FF
-E0046F49 0000
-30046F49 0001
-;Time limited race off
-E0046F49 0000
-;Restore the max laps counter
-A602CE60 00020006
-;Time limited race on
-C4046F49 0000
-;Turn off the max laps counter
-A702CE60 00060002
-;Set laps to 255
-E01D589B 0063
-301D589B 00FF
-00000000 FFFF
 00000000 FFFF
 
 ; [ Grand Theft Auto 2 (Euro, Rev. 1) (1999) (Rockstar Games) {SLES-01404#} <gta2e> ]
@@ -89879,6 +90144,7 @@ A60B4EFC 00000FFF
 800DA334 0608
 #Always First
 800DA31E 0001
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 A70C9DA4 18061222
 
@@ -90056,6 +90322,7 @@ D006FD9C 0002
 8006FD98 0000
 #OK Status
 800A8736 0000
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A7065B80 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -90112,6 +90379,7 @@ A7065B80 10000400
 900BC18C FFFFFFFF
 #Language Option Always Available
 801E7698 0001
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70C65D0 10000C00
 A70C65E0 10000C00
@@ -90495,6 +90763,7 @@ A7038A2A 14401000
 #Going above 40kmph gives controller vibration
 D3098729 0102
 3009840D 0002
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A709806C 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -90758,6 +91027,7 @@ D0094634 1021
 #P1 only needs 1 win
 E00313A7 0000
 300313A7 0001
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A7041BA8 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -90895,6 +91165,7 @@ A702E0C6 14621000
 
 ; [ Thrill Kill (USA, Prototype) (1998) (Virgin Interactive) {SLUS-00752?} <thkillu> ]
 :SLUS-00752
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 A70977FC 19991333
 
@@ -90955,10 +91226,6 @@ AAAAAAAA AAAAAAAA
 D7010001 00000200
 F502ED9E 04401000
 F502EAD6 1C401000
-#FPS Unlocker
-A704C682 04812400
-#FPS Unlocker V2
-A704C816 14402400
 #Disable textures
 A7056002 14402400
 #Disable textures 2
@@ -90993,6 +91260,7 @@ A702E836 14402400
 A706B1CA 18602400
 #Alternate window lines
 A7051BD2 05E11000
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70929E4 10000C00
 A71191F0 10000C00
@@ -91002,6 +91270,10 @@ A71191F0 10000900
 #Select Widescreen Aspect Ratio\Eye Infinity
 A70929E4 10000400
 A71191F0 10000400
+#FPS Unlocker
+A704C682 04812400
+#FPS Unlocker V2
+A704C816 14402400
 
 ; [ 0 kara no Mahjong: Mahjong Youchien Tamago-gumi (Japan) {SLPS-01311} ]
 ; [ 0 kara no Shougi: Shougi Youchien Ayumi-gumi (Japan) (Genteiban, Renkaban) {SLPS-01986} ]
@@ -91676,6 +91948,7 @@ A60389F8 FFFF0000
 8008ED38 0003
 #Start At 3rd Lap (Championship)
 80094B34 0003
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A709D038 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -91854,6 +92127,7 @@ D0090F72 000F
 900330EC 00000000
 #Always First
 80023086 0040
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A707E7B0 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -92329,6 +92603,7 @@ D006AE2E 7FFF
 #Racing School Win Inmediately (Press select)
 D006AE2E FFFE
 300BD9E4 0005
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 80068258 0C00
 801C058C 1555
@@ -92369,6 +92644,7 @@ D00B9F44 FCFF
 801C8E40 03E0
 #Infinite Health Skullbot Factory
 801C8A20 03E0
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70C08EC 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -92501,6 +92777,7 @@ D0062A62 0100
 800C8E7A 0000
 
 ; [ Aeon Flux (USA) (Prototype) {Unlicensed} ]
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70D9C58 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -93743,6 +94020,7 @@ D0061FD0 0800
 800EC3A8 0005
 #Infinite Lives
 800F4574 0002
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 D004689A 2484
 800AF190 0C00
@@ -93774,6 +94052,7 @@ D00F51E4 0003
 300DFCA6 0002
 300DFCA8 0002
 300DFCAE 0002
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 D004689A 2484
 800AF170 0C00
@@ -93787,6 +94066,7 @@ D004689A 2484
 800EC398 0005
 #Oxigeno Infinito
 800F4E98 0255
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 D004689A 2484
 800AE820 0C00
@@ -93863,6 +94143,7 @@ D00BE9A2 FFFE
 A60A5A8C 00000002
 #Max Points
 80089B04 0378
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 A712257C 13230E5A
 
@@ -94408,8 +94689,6 @@ A604192E 002000C8
 8003A2D6 00FF
 #Infinite Weapon 3
 8004196A 00C8
-#FPS unlock "Might want to underclock"
-A70164E6 04612400
 #Use right analog to look up/down
 A7079AA2 24001040
 D7200000 00040000
@@ -94418,6 +94697,9 @@ A7079AA2 10402400
 A7079AE6 24001040
 D7200000 00010000
 A7079AE6 10402400
+;#### PATCHES LISTED BELOW ####
+#FPS unlock "Might want to underclock"
+A70164E6 04612400
 
 ; [ Armored Core (Japan) (Highlight Disc) {SLP-80118} ]
 ; [ Armored Core (Japan) (Test Operation Disc) {SLP-80111} ]
@@ -95689,6 +95971,7 @@ D00EC51A EFFF
 A60BF0A4 FFFF0000
 #Secret Mode & Option
 90089DE8 FFFFFFFF
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A709EF70 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -96396,6 +96679,7 @@ A604345C FFFF0000
 8007BCAC FFFF
 #Always Finish First
 3006BA60 0000
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A706B6E0 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -96846,6 +97130,7 @@ D00CBED8 1009
 
 ; [ Biohazard: Gun Survivor (Japan) {SLPS-02553} ]
 :SLPS-02553
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A7066320 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -97209,6 +97494,7 @@ A6024C26 14510C00
 801C1244 FFFF
 #Infinite Time To Chose Character
 801FFE1C 1760
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 801F0270 1333
 
@@ -97217,6 +97503,7 @@ A6024C26 14510C00
 
 ; [ Bloody Roar 2: Bringer of the New Age (Japan) {SLPS-01842} ]
 :SLPS-01842
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 A71EF308 19991333
 
@@ -97262,6 +97549,7 @@ A71EF308 19991333
 800E665E 0140
 #P2 Infinite MP
 800E6660 0005
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70DACB0 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -98012,6 +98300,7 @@ D00F50F8 0001
 8014496E 0063
 #Ryu-Codes\Max Experience
 80144972 03E7
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 80179D54 0C00
 80179D56 2409
@@ -98088,6 +98377,7 @@ D01B2EC8 F809
 #No Random Battles
 D0114538 1001
 801D0C49 BF75
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 80168794 0C00
 80168796 240A
@@ -98436,6 +98726,7 @@ D00995DC 0002
 801D9378 0063
 #Infinite Shields
 801D937C 0063
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A71CF2C0 10000C00
 A71DE128 10000C00
@@ -98647,6 +98938,7 @@ D0010086 0000
 300100CD 0005
 #TRANSYLVANIAN ERA Count's Castle\Have all characters found
 300100F1 0001
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A7098A2C 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -98666,6 +98958,7 @@ A7098A2C 10000400
 30010045 00DD
 #99 Carots
 30010043 0063
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A7076158 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -98775,6 +99068,7 @@ A60636AE 00442442
 80075D2C 7000
 #Can Play Till To Chapter 12
 3006ECC1 000B
+;#### PATCHES LISTED BELOW ####
 #60 FPS (130% overclock works well)
 A70411AE 10401000
 #Widescreen 16-9
@@ -98804,6 +99098,7 @@ A70411AE 10401000
 ; [ Bust A Move 2: Dance Tengoku Mix (Japan) {SLP-86219} ]
 :SLP-86219
 :SLPM-86219
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 80017E0C 1334
 
@@ -99010,8 +99305,6 @@ D00329C0 000E
 A7028FF2 10402400
 #Remove Enemies - Activate at Beginning Of Level
 A70284F6 14201000
-#FPS Unlock
-A7012126 04812400
 #Skip Level (Press L3)
 80023FCA 00001420
 D7010001 00000200
@@ -99030,6 +99323,9 @@ D7100000 02000003
 8004B66A 00001040
 #One Hit Kills
 A7028912 1C601400
+;#### PATCHES LISTED BELOW ####
+#FPS Unlock
+A7012126 04812400
 
 ; [ CT Special Forces 3: Bioterror (Europe) {SLES-04155} ]
 :SLES-04155
@@ -99452,6 +99748,7 @@ A610E040 00020003
 801EE9B8 0000
 #P1 1 Round won
 801EE97C 0001
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A71EB060 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -99604,6 +99901,7 @@ A6078448 00000505
 900DF9FC 05F5E0FF
 #Unit 1 Ammo 99
 8010CB54 0063
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A71280F4 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -100386,6 +100684,7 @@ D00E524E 015E
 300E52A4 0063
 50000502 0000
 800E52A6 6363
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70F2B80 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -100400,6 +100699,7 @@ A70905D4 02000000
 ; [ Chaos Break (Japan) {SLP-86363} ]
 :SLP-86363
 :SLPM-86363
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70F3148 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -100636,6 +100936,7 @@ D00DDFDA FAFF
 ; [ Chibi Maruko-chan: Maruko Enikki World (Japan) {SLPS-00166} ]
 ; [ Chicken Run (Europe) {SLES-03188} ]
 :SLES-03188
+;#### PATCHES LISTED BELOW ####
 #Widescreen
 800B316C 0C00
 
@@ -100663,6 +100964,7 @@ D00B94EA FAFF
 300ADC5B 0001
 #Infinite Sprouts
 A6069BF0 FFFF0001
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70B6D0C 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -101169,6 +101471,7 @@ A60ACC60 00010004
 
 ; [ Clock Tower (Europe) {SLES-00870} ]
 :SLES-00870
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70663C4 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -101178,6 +101481,7 @@ A70663C4 10000400
 
 ; [ Clock Tower (France) {SLES-00871} ]
 :SLES-00871
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A7066410 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -101750,6 +102054,7 @@ D006F764 D0A3
 #Arcade-Mode\Cpu-Cars Make No Points
 50000504 0000
 80050716 0000
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 80056BA0 2EEE
 80056BA2 0001
@@ -102327,6 +102632,7 @@ A608D508 00000001
 A608D558 00000005
 #Bamboo Arcade Game\P2 Max Score
 A608C4AC 0000FFFF
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70DD4E0 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -102837,6 +103143,7 @@ A701FE9E 00642400
 90056838 AE0300A8
 9005683C 08007FA8
 90056840 0064182A
+;#### PATCHES LISTED BELOW ####
 #Widescreen
 A7017DC4 E4C70C00
 A7017DC6 0C002402
@@ -103105,6 +103412,7 @@ A701F222 8E420C00
 8000C03C 0096
 #Select Crash/Coco Speed\400% faster
 8000C03C 00C8
+;#### PATCHES LISTED BELOW ####
 #Widescreen
 A7018C54 F1C60C00
 A7018C56 0C002402
@@ -103431,6 +103739,7 @@ D00B45E4 001E
 #Always have the gray gem
 300691A1 0000
 300692F9 0000
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 80018B48 0C00
 80018B4A 2402
@@ -103621,6 +103930,7 @@ D0130D74 0100
 80158B50 00FF
 #Revelation Infinite Health
 801A8390 00FF
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A71A2500 10000C00
 A71911D8 10000C00
@@ -103645,6 +103955,7 @@ A71911D8 10000400
 D00852A6 0043
 800852A4 0000
 A60852A6 00433402
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A705E510 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -103664,6 +103975,7 @@ A705E510 10000400
 900ACE20 09090909
 #Unlock All Extras
 80058586 FFFF
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A7061E30 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -103707,6 +104019,7 @@ D008080C 002C
 3010FBC1 0004
 #Secret Character
 80068C54 0FF7
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A7082400 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -103716,6 +104029,7 @@ A7082400 10000400
 
 ; [ Critical Depth (Europe) {SLES-00136} ]
 :SLES-00136
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A71CF60C 10000C00
 A71CF66C 10000C00
@@ -103739,6 +104053,7 @@ A71CF6CC 10000400
 80059C78 0320
 80059B08 0320
 80059DE8 0300
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A7106C10 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -104368,12 +104683,14 @@ D01255C4 1023
 800F0D82 0003
 #Infinite Time
 800EFFDC 06F7
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70BE3FC 10000C00
 #Select Widescreen Aspect Ratio\20-9
 A70BE3FC 10000900
 #Select Widescreen Aspect Ratio\Eye Infinity
 A70BE3FC 10000400
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9 (Menus)
 800167B4 0C00
 
@@ -104754,6 +105071,7 @@ A60C2000 00000028
 30095145 000E
 #Enable Extra Costumes\Bass
 80095146 000E
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A7049F30 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -104801,6 +105119,7 @@ D008E010 0100
 30092BC4 0005
 30092BC5 000E
 80092BC6 000E
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A7049EC0 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -105085,6 +105404,7 @@ D005F790 0001
 #Damagecount On 99 P2 (Press Select. In some modes it's better to be able to get damaged. Use this one be stay in the game)
 D005F794 0001
 300614CD 0000
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A705F3D8 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -105594,6 +105914,7 @@ D009E412 FFFE
 
 ; [ Detective Barbie: The Mystery Cruise (Europe) {SLES-03803} ]
 :SLES-03803
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70EBCDC 10000C00
 A70FEA94 10000C00
@@ -105757,6 +106078,7 @@ D00A004A FEFF
 9009C094 31000973
 9009C098 09050600
 8009C09C 0006
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A706DD50 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -106518,6 +106840,7 @@ D009E234 0028
 8004A04E 0063
 #Infinite TP Monmon
 80049C72 0063
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A7081398 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -107793,6 +108116,7 @@ A7049106 24020000
 80048DF4 001A
 #Select Jump Height\0.5x
 80048DF4 0200
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 A7027E24 66664CCC
 A7027E2C 6667CCCD
@@ -108432,6 +108756,7 @@ D7200000 0080
 A706C422 14401000
 #Bosses & enemies can't move - disable it in the Final Showdown level
 A706C726 10401000
+;#### PATCHES LISTED BELOW ####
 #50 FPS
 800A1214 0001
 800A1574 0001
@@ -108575,6 +108900,7 @@ FFFFFFFF FFFFFFFF
 #All Characters Unlocked
 50000C08 0000
 300D741C 0001
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 A706D404 66664CCC
 A706D40C 6667CCCD
@@ -108596,6 +108922,7 @@ A706D40C 6667CCCD
 800C178B 0002
 #Have 200 Soldiers All levels Unlocked
 800D8454 00C8
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 A706E1F8 66664CCC
 A706E200 6667CCCD
@@ -109732,6 +110059,7 @@ D0056250 0023
 
 ; [ Dragon Ball: Final Bout (France) {SLES-00964} ]
 :SLES-00964
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A702219C 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -109855,6 +110183,7 @@ A702219C 10000400
 ; [ Dragon Valor (France) {SCES-02565 | SCES-12565} ]
 :SCES-02565
 :SCES-12565
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A702E3EC 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -110065,15 +110394,16 @@ A60C6A14 00000002
 8009ABF4 0000
 #No Traffic
 800961FC 0000
-#60 Frames Per Second
-80096378 0000
 #Schizophrenic Police
 80097144 7F00
 #Turbo Boost (L1+X)
 E0096B38 0044
 8009ABD0 FFFF
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 8008A48C 1333
+#60 Frames Per Second
+80096378 0000
 
 ; [ Driver (France) {SLES-01976} ]
 :SLES-01976
@@ -110090,6 +110420,7 @@ E0096B38 0044
 #No Cops
 80097198 0000
 800970C4 0000
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 8008A52C 1333
 
@@ -110156,6 +110487,7 @@ D0000002 4D43
 :SLES-01977
 #No Damage
 8009ACD8 0000
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 8008A544 1333
 
@@ -110227,6 +110559,7 @@ D001CDB8 0009
 8001CDBA 1043
 D001CDCC 0003
 8001CDCE 1000
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A707F0F8 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -110238,6 +110571,7 @@ A707F0F8 10000400
 ; [ Driver 2: Back on the Streets (France) {SLES-02994 | SLES-12994} ]
 :SLES-02994
 :SLES-12994
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A707F2F8 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -110485,6 +110819,7 @@ E00B4723 00FA
 
 ; [ Dune 2000 (France) {SLES-02248} ]
 :SLES-02248
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 A6183058 10000C00
 A6183018 10001558
@@ -111822,6 +112157,7 @@ D003B9FC 014C
 A603B9FC 014C0000
 #Infinite Health - chip
 A601D448 FFFF0000
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A7132760 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -111973,6 +112309,7 @@ A7132760 10000400
 #Have All Weapons & Infinite AMMMO
 50000702 0040
 800830C6 0000
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 A7074C60 10001550
 
@@ -112678,6 +113015,7 @@ D001E3E2 03E0
 #Infinite Weapons
 900E08A4 03040102
 800E08A8 0500
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 300DB229 000C
 
@@ -113022,6 +113360,7 @@ D0070CCC 0044
 900A3668 FFFFFFFF
 800A366C FFFF
 300A366E 000F
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70DF7D0 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -115819,6 +116158,7 @@ D001F7B6 0000
 #Always First (Press Select + L2 Button)
 D00A2A02 FEFE
 30106F84 0008
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 A608A3E4 10000C00
 A608A4F4 10000C00
@@ -116158,6 +116498,7 @@ D00AE60A FAFF
 8007C630 0005
 #All Levels Unlocked
 80083954 0009
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70A4920 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -117511,6 +117852,7 @@ D01AD0C8 0002
 900C3080 270F270F
 #Infinite Money
 900C3468 000F423F
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A71D050C 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -117527,6 +117869,7 @@ A71D050C 10000400
 900C3080 270F270F
 #Infinite Money
 900C3468 000F423F
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A71D050C 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -117776,6 +118119,7 @@ A605D386 24C62406
 80098A90 0009
 #Infinite Health
 80098A94 0005
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 800424AC 0C00
 800424BC 0034
@@ -118194,6 +118538,7 @@ A70420D6 10401000
 90090868 03030303
 #High Racing Points
 9008DD04 05F5E100
+;#### PATCHES LISTED BELOW ####
 #60 FPS (+Re-enable tire smoke, Re-enable rear view mirror)
 A60AD648 00020001
 A702DD08 00020001
@@ -118264,6 +118609,184 @@ D01F068A FFFE
 #Simulation Mode Codes\Any Car Can Play Any Circuit
 D00148E0 000C
 800148E2 1000
+#L3 to toggle Mirror (tap) and HUD (hold) (NTSC-J 1.1)
+A403EBF0 02602021
+D7010001 00000200
+A0029544 1040000C
+;Always on
+90029544 00000001
+A0029544 0800A55E
+;Default
+90029544 1040000C
+A0029544 00000000
+;Always off
+90029544 0800A55E
+;Fixup canary
+A0029544 00000001
+90029544 00000000
+00000000 FFFF
+00000000 FFFF
+A403EBF0 02602021
+D701003C 00000200
+F5029454 0022A538
+F5029456 14400800
+F5029444 BA0E0000
+F5029446 0C000000
+00000000 FFFF
+00000000 FFFF
+#Enable extra cameras in race (Simulation Disc) (NTSC-J 1.1)
+A401F880 AEB40008
+A701031C 00030009
+A7010370 40F045C1
+;Replay off
+C30A937C 0001
+A701171C 0106010E
+A7011778 45E945D7
+00000000 FFFF
+00000000 FFFF
+A401F880 AEB40008
+;Hold R1 to trigger a cinematic camera
+;Replay off
+C30A937C 0001
+D701001E 01000008
+F5010148 40B6427F
+F5010A4C 006C8021
+F5010A4E 8C700000
+301FF9AD 0002
+00000000 FFFF
+00000000 FFFF
+00000000 FFFF
+;Restore everything when replay is enabled
+A401F880 AEB40008
+C40A937C 0000
+D001171C 010E
+8001171C 0106
+D0011778 45D7
+80011778 45E9
+A0010A4C 00008021
+90010A4C 8C70006C
+00000000 FFFF
+00000000 FFFF
+#True Endurance tweak (NTSC-J 1.1)
+;"Help" the game unload segments that normally are left unwritten to,
+;so further cheat detection is more reliable. This is safe as it overwrites dead code.
+;Reset the race overlay for Arcade
+A00527D4 801EF999
+80056F24 0000
+;Reset the race overlay for Simulation
+A005257C 000000F6
+80056F24 0000
+;Sets 2h Rome Endurance to 255 laps and hides the lap counter
+A4056F24 260201C0
+;Set the endurance flag manually for 255 lap races, so replays work properly
+E01D56CB 00FF
+E0046EC5 0000
+30046EC5 0001
+;Time limited race off
+E0046EC5 0000
+;Restore the max laps counter
+A602CE44 00020006
+;Time limited race on
+C4046EC5 0000
+;Turn off the max laps counter
+A702CE44 00060002
+;Set laps to 255
+E01D56CB 0063
+301D56CB 00FF
+00000000 FFFF
+00000000 FFFF
+#L3 to toggle Mirror (tap) and HUD (hold) (NTSC-J 1.0)
+A403EC18 02602021
+D7010001 00000200
+A0029474 1040000C
+;Always on
+90029474 00000001
+A0029474 0800A52A
+;Default
+90029474 1040000C
+A0029474 00000000
+;Always off
+90029474 0800A52A
+;Fixup canary
+A0029474 00000001
+90029474 00000000
+00000000 FFFF
+00000000 FFFF
+A403EC18 02602021
+D701003C 00000200
+F5029384 0022A504
+F5029386 14400800
+F5029374 B9DC0000
+F5029376 0C000000
+00000000 FFFF
+00000000 FFFF
+#Enable extra cameras in race (Simulation Disc) (NTSC-J 1.0)
+A401F794 AEB40008
+A701031C 00030009
+A7010370 40F045C1
+;Replay off
+C30A9D1C 0001
+A701171C 0106010E
+A7011778 45E945D7
+00000000 FFFF
+00000000 FFFF
+A401F794 AEB40008
+;Hold R1 to trigger a cinematic camera
+;Replay off
+C30A9D1C 0001
+D701001E 01000008
+F5010148 40B6427F
+F5010A4C 006C8021
+F5010A4E 8C700000
+301FFA81 0002
+00000000 FFFF
+00000000 FFFF
+00000000 FFFF
+;Restore everything when replay is enabled
+A401F794 AEB40008
+C40A9D1C 0000
+D001171C 010E
+8001171C 0106
+D0011778 45D7
+80011778 45E9
+A0010A4C 00008021
+90010A4C 8C70006C
+00000000 FFFF
+00000000 FFFF
+#Enable extra cameras in race (Arcade Disc) (NTSC-J 1.0)
+A401F794 AEB40008
+A701031C 00030009
+A7010370 40F045C1
+;Replay off
+C30A9D0C 0001
+A701171C 0106010E
+A7011778 45E945D7
+00000000 FFFF
+00000000 FFFF
+A401F794 AEB40008
+;Hold R1 to trigger a cinematic camera
+;Replay off
+C30A9D0C 0001
+D701001E 01000008
+F5010148 40B6427F
+F5010A4C 006C8021
+F5010A4E 8C700000
+301FFA89 0002
+00000000 FFFF
+00000000 FFFF
+00000000 FFFF
+;Restore everything when replay is enabled
+A401F794 AEB40008
+C40A9D0C 0000
+D001171C 010E
+8001171C 0106
+D0011778 45D7
+80011778 45E9
+A0010A4C 00008021
+90010A4C 8C70006C
+00000000 FFFF
+00000000 FFFF
+;#### PATCHES LISTED BELOW ####
 #16-9 Widescreen 2.0 (NTSC-J 1.0)
 ;"Help" the game unload segments that normally are left unwritten to,
 ;so further cheat detection is more reliable. This is safe as it overwrites dead code.
@@ -118643,183 +119166,6 @@ D121F882 AEB4
 A7016A72 02250000
 D121F882 AEB4
 A7016A80 80000000
-00000000 FFFF
-#L3 to toggle Mirror (tap) and HUD (hold) (NTSC-J 1.1)
-A403EBF0 02602021
-D7010001 00000200
-A0029544 1040000C
-;Always on
-90029544 00000001
-A0029544 0800A55E
-;Default
-90029544 1040000C
-A0029544 00000000
-;Always off
-90029544 0800A55E
-;Fixup canary
-A0029544 00000001
-90029544 00000000
-00000000 FFFF
-00000000 FFFF
-A403EBF0 02602021
-D701003C 00000200
-F5029454 0022A538
-F5029456 14400800
-F5029444 BA0E0000
-F5029446 0C000000
-00000000 FFFF
-00000000 FFFF
-#Enable extra cameras in race (Simulation Disc) (NTSC-J 1.1)
-A401F880 AEB40008
-A701031C 00030009
-A7010370 40F045C1
-;Replay off
-C30A937C 0001
-A701171C 0106010E
-A7011778 45E945D7
-00000000 FFFF
-00000000 FFFF
-A401F880 AEB40008
-;Hold R1 to trigger a cinematic camera
-;Replay off
-C30A937C 0001
-D701001E 01000008
-F5010148 40B6427F
-F5010A4C 006C8021
-F5010A4E 8C700000
-301FF9AD 0002
-00000000 FFFF
-00000000 FFFF
-00000000 FFFF
-;Restore everything when replay is enabled
-A401F880 AEB40008
-C40A937C 0000
-D001171C 010E
-8001171C 0106
-D0011778 45D7
-80011778 45E9
-A0010A4C 00008021
-90010A4C 8C70006C
-00000000 FFFF
-00000000 FFFF
-#True Endurance tweak (NTSC-J 1.1)
-;"Help" the game unload segments that normally are left unwritten to,
-;so further cheat detection is more reliable. This is safe as it overwrites dead code.
-;Reset the race overlay for Arcade
-A00527D4 801EF999
-80056F24 0000
-;Reset the race overlay for Simulation
-A005257C 000000F6
-80056F24 0000
-;Sets 2h Rome Endurance to 255 laps and hides the lap counter
-A4056F24 260201C0
-;Set the endurance flag manually for 255 lap races, so replays work properly
-E01D56CB 00FF
-E0046EC5 0000
-30046EC5 0001
-;Time limited race off
-E0046EC5 0000
-;Restore the max laps counter
-A602CE44 00020006
-;Time limited race on
-C4046EC5 0000
-;Turn off the max laps counter
-A702CE44 00060002
-;Set laps to 255
-E01D56CB 0063
-301D56CB 00FF
-00000000 FFFF
-00000000 FFFF
-#L3 to toggle Mirror (tap) and HUD (hold) (NTSC-J 1.0)
-A403EC18 02602021
-D7010001 00000200
-A0029474 1040000C
-;Always on
-90029474 00000001
-A0029474 0800A52A
-;Default
-90029474 1040000C
-A0029474 00000000
-;Always off
-90029474 0800A52A
-;Fixup canary
-A0029474 00000001
-90029474 00000000
-00000000 FFFF
-00000000 FFFF
-A403EC18 02602021
-D701003C 00000200
-F5029384 0022A504
-F5029386 14400800
-F5029374 B9DC0000
-F5029376 0C000000
-00000000 FFFF
-00000000 FFFF
-#Enable extra cameras in race (Simulation Disc) (NTSC-J 1.0)
-A401F794 AEB40008
-A701031C 00030009
-A7010370 40F045C1
-;Replay off
-C30A9D1C 0001
-A701171C 0106010E
-A7011778 45E945D7
-00000000 FFFF
-00000000 FFFF
-A401F794 AEB40008
-;Hold R1 to trigger a cinematic camera
-;Replay off
-C30A9D1C 0001
-D701001E 01000008
-F5010148 40B6427F
-F5010A4C 006C8021
-F5010A4E 8C700000
-301FFA81 0002
-00000000 FFFF
-00000000 FFFF
-00000000 FFFF
-;Restore everything when replay is enabled
-A401F794 AEB40008
-C40A9D1C 0000
-D001171C 010E
-8001171C 0106
-D0011778 45D7
-80011778 45E9
-A0010A4C 00008021
-90010A4C 8C70006C
-00000000 FFFF
-00000000 FFFF
-#Enable extra cameras in race (Arcade Disc) (NTSC-J 1.0)
-A401F794 AEB40008
-A701031C 00030009
-A7010370 40F045C1
-;Replay off
-C30A9D0C 0001
-A701171C 0106010E
-A7011778 45E945D7
-00000000 FFFF
-00000000 FFFF
-A401F794 AEB40008
-;Hold R1 to trigger a cinematic camera
-;Replay off
-C30A9D0C 0001
-D701001E 01000008
-F5010148 40B6427F
-F5010A4C 006C8021
-F5010A4E 8C700000
-301FFA89 0002
-00000000 FFFF
-00000000 FFFF
-00000000 FFFF
-;Restore everything when replay is enabled
-A401F794 AEB40008
-C40A9D0C 0000
-D001171C 010E
-8001171C 0106
-D0011778 45D7
-80011778 45E9
-A0010A4C 00008021
-90010A4C 8C70006C
-00000000 FFFF
 00000000 FFFF
 
 ; [ Gran Turismo 2 (Disc 2) (Gran Turismo) (Japan) Rev 1 {SCPS-91327} ]
@@ -119571,14 +119917,15 @@ A618D8C0 00007000
 800498A3 FFFF
 800498A4 FFFF
 800498A5 FFF0
-#Mode 60 HZ
-8003186A 3C00
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A7049B1C 10000C00
 #Select Widescreen Aspect Ratio\20-9
 A7049B1C 10000900
 #Select Widescreen Aspect Ratio\Eye Infinity
 A7049B1C 10000400
+#Mode 60 HZ
+8003186A 3C00
 
 ; [ Gungage (Japan) {SLP-86233} ]
 ; [ Gungho Brigade (Japan) Demo {SLP-80324} ]
@@ -119624,6 +119971,7 @@ A610793A 00430040
 90011244 7FFFFFFF
 #Mortal blow
 A6107086 00620000
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 800FF620 0C00
 800C7E60 1000
@@ -120640,6 +120988,7 @@ A70F617E 14A21400
 8008FD8A 0006
 #Select Level\Chapter VIII - Farewell to the Final
 8008FD8A 0008
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A7166C00 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -121226,6 +121575,7 @@ D008FDFA BFFF
 ; [ ISS Pro Evolution (Europe) (EDC Platinum) {SLES-02095} ]
 ; [ ISS Pro Evolution (Europe) {SLES-02095} ]
 :SLES-02095
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A7073590 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -121235,6 +121585,7 @@ A7073590 10000400
 
 ; [ ISS Pro Evolution (Europe) {SLES-02424} ]
 :SLES-02424
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70727A0 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -121244,6 +121595,7 @@ A70727A0 10000400
 
 ; [ ISS Pro Evolution 2 (Europe) {SLES-03321} ]
 :SLES-03321
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A7073668 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -121253,6 +121605,7 @@ A7073668 10000400
 
 ; [ ISS Pro Evolution 2 (Europe) {SLES-03322} ]
 :SLES-03322
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A7072A78 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -121926,6 +122279,7 @@ D00B1628 0002
 #High Jump\P2 Full Speed Press R2
 D00B1860 0004
 80102B92 42A0
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70DB28C 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -121977,6 +122331,7 @@ A60C6F2C 00010000
 #100m P1 Hold L1 when going over finish to reset the timer
 D00A7E3A FBFF
 800C3EDC 000D
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70AC970 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -122358,6 +122713,7 @@ A60C382C 00010000
 800BA772 0000
 #Max Speed
 800BAFC6 01F4
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 8007A368 0D0B
 8007A3E8 08B2
@@ -122371,6 +122727,7 @@ A60C382C 00010000
 ; [ J.League Jikkyou Winning Eleven 2000 (Japan) {SLP-86538} ]
 :SLP-86538
 :SLPM-86538
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A706F2B8 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -122381,6 +122738,7 @@ A706F2B8 10000400
 ; [ J.League Jikkyou Winning Eleven 2000 2nd (Japan) {SLP-86668} ]
 :SLP-86668
 :SLPM-86668
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A706F140 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -122391,6 +122749,7 @@ A706F140 10000400
 ; [ J.League Jikkyou Winning Eleven 2001 (Japan) {SLP-86835} ]
 :SLP-86835
 :SLPM-86835
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A706F248 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -122401,6 +122760,7 @@ A706F248 10000400
 ; [ J.League Jikkyou Winning Eleven 3 (Japan) {SLP-86055} ]
 :SLP-86055
 :SLPM-86055
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70E6368 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -122713,6 +123073,7 @@ D0093B60 0000
 #All 5 Letters Press Select
 D001000E 0100
 800639C8 0020
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70507F8 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -122742,6 +123103,7 @@ A70507F8 10000400
 A617CE4C 00000002
 #Select Starting Lap\3
 A617CE4C 00000003
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A716EEAC 10000C00
 A716EC0C 10000C00
@@ -122792,6 +123154,7 @@ A716ED8C 10000400
 #Always Come In 1st
 8017DB14 0001
 8017008C 0003
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A7194CD4 10000C00
 A7194C14 10000C00
@@ -122817,6 +123180,7 @@ A7194B54 10000400
 ; [ Jet de Go! Let's Go by Airliner (Japan) {SLP-86323} ]
 :SLP-86323
 :SLPM-86323
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A71472D0 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -123037,6 +123401,7 @@ D00D08E6 0001
 
 ; [ Jonah Lomu Rugby (France) {SLES-00611} ]
 :SLES-00611
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A701B100 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -123365,6 +123730,7 @@ D10E5E38 0000
 #P2 Sudden Death
 50000302 0000
 800E6104 0000
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70C69F0 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -123389,6 +123755,7 @@ A70C69F0 10000400
 #P2 1-Hit Death
 A608E95C 03E80001
 A608E964 03E80001
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70D1CE8 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -123399,6 +123766,7 @@ A70D1CE8 10000400
 ; [ K-1 World Grand Prix 2001: Kaimakuban (Japan) {SLP-86763} ]
 :SLP-86763
 :SLPM-86763
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70E1200 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -123474,15 +123842,16 @@ A7052022 14512400
 A7052022 14512400
 A704E6B2 14402400
 A704E6FA 14402400
+#Enhanced Reverb
+A70C307E 10402400
+#Enhanced stereo delay parts
+A70C2EDE 10401000
+;#### PATCHES LISTED BELOW ####
 #30 FPS "Slow motion, press L3 to toggle on/off"
 D7010001 01000200
 F50C4FDA 04811000
 #FPS Unlock
 A70C5116 10401000
-#Enhanced Reverb
-A70C307E 10402400
-#Enhanced stereo delay parts
-A70C2EDE 10401000
 
 ; [ Kaette Kita Pachio-kun: Dream Collection (Japan) {SLPS-01384} ]
 :SLPS-01384
@@ -123513,6 +123882,7 @@ A70C2EDE 10401000
 800E82AE 0196
 #Ark
 800E82BC 2710
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70EF340 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -123761,6 +124131,7 @@ D00B6C3A 1440
 8010DADE 0006
 #I can many times jump in the air
 9006E49C 00000000
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70BE9F0 10000C00
 A7105568 10000C00
@@ -123840,6 +124211,7 @@ A70C3D18 10000C00
 900485D8 10400004
 #P1 1 round to win
 3001020C 0002
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70C7F18 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -124284,6 +124656,7 @@ D01B8D72 FFFE
 :SLPS-02370
 #Infinite Energy
 80164F44 00C8
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 80184068 0C00
 8017FB18 0FF0
@@ -124643,6 +125016,7 @@ D01B87C0 10B4
 800E8600 0063
 #Playing Time
 800E7798 0000
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 800E6FBC 0F00
 
@@ -124824,6 +125198,7 @@ D0077F4E 0003
 8010E472 0006
 #Infinite Energy
 8010E478 0004
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A710A2E8 10000C00
 A70BEE12 10000C00
@@ -124918,6 +125293,7 @@ D00C629A FDFF
 
 ; [ Knockout Kings 2001 (France) {SLES-03122} ]
 :SLES-03122
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A712B3C0 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -124940,6 +125316,7 @@ A712B3C0 10000400
 
 ; [ Knockout Kings 99 (France) {SLES-01450} ]
 :SLES-01450
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70107C8 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -125404,6 +125781,7 @@ D003E356 FAFF
 #Press Select To Finish Level
 D00A50BC 0001
 800A47A8 0001
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70A2E70 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -125421,6 +125799,7 @@ A70A2E70 10000400
 90093E88 FF00FFFF
 #Timer Without Restrictive Time
 800932BC 1B00
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A709F4D8 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -125501,6 +125880,7 @@ A709F4D8 10000400
 8006D648 0007
 #Select Stage\8
 8006D648 0008
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A7098F98 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -125945,6 +126325,7 @@ D00D5DE4 0002
 800D217E 0009
 #Have all glyphs
 800D5DB6 03FF
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 8003A604 0C00
 8003A614 0034
@@ -126031,6 +126412,7 @@ D00D5DE4 0002
 800B00B2 0048
 #P2 Infinite Magic
 800B00F8 0009
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70BBFDC 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -126368,11 +126750,13 @@ D01C8F70 0082
 
 ; [ Lifeforce Tenka (Europe) {SLES-00613} ]
 :SLES-00613
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 3002B5E1 000C
 
 ; [ Lifeforce Tenka (France) {SLES-00614} ]
 :SLES-00614
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 3002B5E1 000C
 
@@ -126404,6 +126788,7 @@ D01C8F70 0082
 800662C6 0001
 #All levels
 800662C8 0001
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 3002B5E1 000C
 
@@ -126413,6 +126798,7 @@ D01C8F70 0082
 ; [ Lightning Legend: Daigo no Daibouken (Japan) {SLP-86015} ]
 :SLP-86015
 :SLPM-86015
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70D0E94 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -127330,6 +127716,7 @@ A6150E22 00500040
 301F3B0D 0002
 #MOVIE fully open
 301F3B25 0010
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A71FB140 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -127369,6 +127756,7 @@ A601A01C 00010000
 80085908 000A
 #Fast Battle
 800785A0 0000
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A708E538 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -127576,6 +127964,7 @@ E01E1154 0001
 8009C4E4 0000
 #Opponent 3 has 0 points
 8009C490 0000
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9 (Normal Release)
 A70AD02C 10000C00
 #Widescreen 16-9 (Rev 1 Release)
@@ -127591,6 +127980,7 @@ A70ACF84 10000C00
 8009C4E4 0000
 #Opponent 3 has 0 points
 8009C490 0000
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9 (Normal Release)
 A70AD02C 10000C00
 #Widescreen 16-9 (Rev 1 Release)
@@ -127728,6 +128118,7 @@ D00562D0 0005
 
 ; [ Marcel Desailly Pro Football (France) {SLES-03868} ]
 :SLES-03868
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70BB4A8 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -128436,6 +128827,7 @@ D00F0D4C 000B
 #Have Dragon Shield
 D00F0D4C 000B
 800F8638 0000
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 A70F8594 19991333
 A70F8C9C 19991333
@@ -128526,6 +128918,7 @@ A70F8C9C 19991333
 800F1124 012C
 #Unlock Cheat Menu (Enable All Levels,Invincibility)
 800D2D3C 0004
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 A712932C 19991333
 
@@ -128541,6 +128934,7 @@ A712932C 19991333
 #Infinite Money
 D00F1654 012C
 800F828C 270F
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 A70FA268 19991333
 A70F9384 19991333
@@ -129057,6 +129451,7 @@ A703E29E 14601000
 8005A0E4 0000
 #Infinite Small Med Kits
 8005A118 0000
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9 (Partial)
 90098248 15551555
 9009824C 15551555
@@ -131497,6 +131892,7 @@ D00478D2 0043
 #Infinite Lives both players CLASSIC MODE
 D003620C FFFF
 80036212 0000
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A71F32C8 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -133644,6 +134040,7 @@ A602A680 FFFF0001
 
 ; [ Nickelodeon Les Razmoket: 100 100 Angelica (France) {SLES-03545} ]
 :SLES-03545
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 D01F9180 1000
 301F9181 000C
@@ -135402,6 +135799,7 @@ A60E2972 00000803
 :SLES-00768
 #Infinite Health
 800CFB18 0063
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70EBE94 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -135524,6 +135922,7 @@ A70EBE94 10000400
 801BF22A 0009
 #Walk through NPCs
 A70436AA 10401400
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A71F0FB8 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -135569,6 +135968,7 @@ A71F0FB8 10000400
 80044FAE 0000
 #Infinite Bullets
 8006F3F6 8482
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A71F0F80 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -135812,6 +136212,7 @@ A7034278 00020001
 3008CE1A 0001
 50000602 0000
 3008CE0E 0003
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A7097B30 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -135889,6 +136290,7 @@ D0147EC2 0001
 
 ; [ Pac-Man World 20th Anniversary (France) {SCES-02277} ]
 :SCES-02277
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 30151761 000C
 
@@ -136753,6 +137155,7 @@ AAAAAAAA AAAAAAAA
 :SLES-03108
 #Have 99999 money
 900D5C20 0001869F
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 300D08C1 000C
 
@@ -136905,6 +137308,7 @@ D00AD70E 0000
 #Select Level\Temple Press X at Password-Screen
 D00AD70E 0000
 300AD70E 0002
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A710F4C0 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -137151,8 +137555,38 @@ D007B2B8 0101
 8001765C 003A
 D007B2B8 0201
 8001765C 0001
+#Estoma always enabled (reduce encounter rate 2x)
+D007CAE8 00000000
+900AB954 00000000
+#Estoma reduces encounter rate 4x
+D007CAE8 00000000
+900AB960 00021C83
+#Exp gained x2
+C007CAE8 00001002
+900B7170 00431021
+900B717C AE421C00
+#Exp gained x4
+C007CAE8 00001002
+900B716C 00031880
+900B7170 00431021
+900B717C AE421C00
+#Exp gained x8
+C007CAE8 00001002
+900B716C 000318C0
+900B7170 00431021
+900B717C AE421C00
+#Select Cards Obtained\x2
+D007CAE8 00001002
+900F8060 00052840
+#Select Cards Obtained\x4
+D007CAE8 00001002
+900F8060 00052880
+#Select Cards Obtained\x8
+D007CAE8 00001002
+900F8060 000528C0
 #Debug DEBUG, DBG magic added to the battle menu You can not see the menu Magic DBG is disabled
 A6102900 00040006
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A7087A68 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -137165,6 +137599,7 @@ A7087A68 10000400
 
 ; [ Pet in TV (Europe) {SCES-00981} ]
 :SCES-00981
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A71C2D50 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -138296,6 +138731,7 @@ D00F9642 0000
 800DA334 0608
 #Always Place 1st
 800DA31E 0001
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 800CA178 1222
 
@@ -138306,6 +138742,7 @@ D00F9642 0000
 :SLES-03388
 #Infinite Time
 300F734C 0022
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70D43F8 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -138342,6 +138779,7 @@ A70D43F8 10000400
 800DB73C 0BA9
 #Infinie Energy
 900DD1CC 00960096
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A710DBB0 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -138368,6 +138806,7 @@ A710DBB0 10000400
 #Able To Upgrade Your Gloves
 50002C02 0000
 800ACA6C 03E7
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70EAA68 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -138827,6 +139266,7 @@ D0102BE0 0400
 
 ; [ Pro Evolution Soccer (Europe) {SLES-03795} ]
 :SLES-03795
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A7072DD8 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -138836,6 +139276,7 @@ A7072DD8 10000400
 
 ; [ Pro Evolution Soccer (Europe) {SLES-03796} ]
 :SLES-03796
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A7072058 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -138847,6 +139288,7 @@ A7072058 10000400
 :SLES-03946
 #Unlock All Secret Teams
 8006F7BC FFFF
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A707D2E0 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -138868,6 +139310,7 @@ A707D2E0 10000400
 801F5F0C 0000
 #Opponent 2 has 9 points
 801F5DC0 0000
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A707C678 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -139018,6 +139461,7 @@ A6101F9C 03E80001
 A61020E0 03E80001
 #Infinite Time To Select Character
 8011F484 0320
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A71CE78C 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -139030,6 +139474,7 @@ A71CE78C 10000400
 
 ; [ Psychic Force (Japan) {SLPS-00520} ]
 :SLPS-00520
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A71D7448 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -139057,6 +139502,7 @@ D0075532 0000
 #Unlock All Skills in Psy-Expand Mode
 50004302 0000
 80075488 FFFF
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A7076CA0 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -139069,6 +139515,7 @@ A7076CA0 10000400
 ; [ Psychic Force 2 (Japan) {SLP-86273} ]
 :SLP-86273
 :SLPM-86273
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A707B8C8 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -139652,6 +140099,7 @@ D00C7B96 0240
 #P4-Codes\Have Bfg10K Press L2+R2
 D00C7B96 0300
 300C7DA6 000B
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 800D5D46 0180
 
@@ -140092,6 +140540,7 @@ D0010142 0007
 80013A44 FFFF
 #Infinite Credits
 8001014C 0009
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A7193740 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -140171,6 +140620,7 @@ A7193740 10000400
 300B9990 0040
 #Stage 7\Invincibility For R-9
 801540B8 0083
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A71F7418 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -140737,6 +141187,7 @@ D008A368 0100
 :SLPS-00417
 #Max Speed
 800F47D0 0160
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 3008FA31 0014
 3008FA39 0014
@@ -141236,6 +141687,7 @@ A610F6D0 0000FFFF
 80058378 05DC
 #Infinite Nitro
 80057F3C 03B6
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A705EAF0 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -141289,6 +141741,7 @@ A60BABD4 00010007
 A60BABD4 00010008
 #Select Level\10
 A60BABD4 00010009
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 800878B8 0C00
 800878D8 1500
@@ -141667,6 +142120,7 @@ A6056580 0001000D
 
 ; [ ReBoot (France) {SLES-00923} ]
 :SLES-00923
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 800F29A0 1333
 
@@ -143346,6 +143800,7 @@ E20857A4 0002
 800AC18E 0FFF
 #Turbo Charge Mode
 800AC17A FFFF
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 8006E134 0E00
 
@@ -143596,6 +144051,7 @@ D0039FD4 0150
 8006D01C 0001
 #Gold Key
 8006D034 0001
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70C6500 10000C00
 A70D23B0 10000C00
@@ -143674,6 +144130,7 @@ D004112E 2402
 90010078 02020202
 9001007C 02020202
 90010080 02020202
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70E8B38 10000C00
 A70908F2 10000C00
@@ -143741,6 +144198,7 @@ A7090916 10000400
 901F1F1C 0001869F
 #Target Mode 9999 Hi-Score
 801F1F66 270F
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A71F6120 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -144210,6 +144668,7 @@ D0134B48 0108
 301D8947 0063
 #P2 Upgraded Prowlers
 301D8948 0063
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A71C2C8C 10000C00
 A71C2D4C 10000C00
@@ -144285,15 +144744,16 @@ D00C2A4C FFFE
 30019DEE 0019
 90019DF0 000000FF
 80019DF4 0000
+#Another Hyper-Mode
+800B2B84 0000
+#Turbo Powerups Never Decrease
+8008BB96 2A00
+;#### PATCHES LISTED BELOW ####
 #60Fps-Mode L2 to activate
 D00C2A4C FEFF
 80019CAC 0100
 D00C2A4C FDFF
 80019CAC 0000
-#Another Hyper-Mode
-800B2B84 0000
-#Turbo Powerups Never Decrease
-8008BB96 2A00
 
 ; [ Rollcage aka Rollcage Competition Demo (Europe) Demo {SLED-01896} ]
 ; [ Romance wa Tsurugi no Kagayaki II: Gin no Niji o Sagashite (Japan) (Shokai Genteiban) {SLP-87111 | SLP-87112} ]
@@ -145641,6 +146101,7 @@ D00BADDA FAFF
 ; [ Segare Ijiri (Japan) {SLP-86230} ]
 :SLP-86230
 :SLPM-86230
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A71BFE20 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -146471,6 +146932,7 @@ D00DBA4A FFFE
 80082D7C 0012
 #P2 always in fighting spirit rush state
 80083300 001A
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A702C634 10000C00
 A702C6C8 10000C00
@@ -147063,6 +147525,15 @@ D00C7940 0002
 ; [ Silent Hill (Japan) {SLP-86192} ]
 :SLP-86192
 :SLPM-86192
+#Select Fog Distance\1999
+8003F52C 1999
+#Select Fog Distance\1444
+8003F52C 1444
+#Select Fog Colour Influence\0A00
+8003FAFC 0A00
+#Select Fog Colour Influence\0000
+8003FAFC 0000
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70C9510 10000C00
 A70C9520 10000C00
@@ -147074,14 +147545,6 @@ A70C9510 10000400
 A70C9520 10000400
 #Dither Off
 A7019810 02000000
-#Select Fog Distance\1999
-8003F52C 1999
-#Select Fog Distance\1444
-8003F52C 1444
-#Select Fog Colour Influence\0A00
-8003FAFC 0A00
-#Select Fog Colour Influence\0000
-8003FAFC 0000
 #60 FPS
 A70A8FF0 00020001
 A70AB38C 00020001
@@ -147098,6 +147561,7 @@ A70AB38C 00020001
 8008DDC8 03E7
 #Infinite Missiles
 8008DDCC 0063
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A7082E28 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -147145,6 +147609,7 @@ D0095252 0060
 ; [ Simple 1500 Jitsuyou Series Vol. 14: Kurashi no Manner: Kankon Sousai-hen (Japan) {SLP-87022} ]
 :SLP-87022
 :SLPM-87022
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A7030C04 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -147417,6 +147882,7 @@ D007C6B2 1080
 ; [ Simple 1500 Series Vol. 52: The Pro Wrestling 2 (Japan) {SLP-86702} ]
 :SLP-86702
 :SLPM-86702
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9 (In-Game)
 80022CD4 0C00
 
@@ -147707,6 +148173,7 @@ D007C6B2 1080
 800447ED 006E
 #P2 No energy
 8004FE9C 0000
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A705BA30 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -147853,6 +148320,7 @@ C20D69D4 0001
 300C2EC4 0001
 #Enable Jackal
 300C2EC6 0001
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 800E27F0 1333
 800E2900 0E66
@@ -147972,6 +148440,7 @@ D009ABCC 0001
 800E0CBE 0065
 D009ABCC 0001
 800E0CC0 0019
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 300A7191 000C
 
@@ -148017,6 +148486,7 @@ A706FF6A 0C012400
 8010A332 0032
 #2-Player-Mode\P2 Unendlich Energie
 801071B2 0032
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 300A7191 000C
 
@@ -148091,6 +148561,7 @@ D012DBC2 8011
 8012DBEA 0002
 #Have 9999 money
 801FB774 270F
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 8012DE74 1333
 
@@ -149305,6 +149776,7 @@ D000004A 9C19
 8004BBFB D1A1
 #Infinite Health
 80044A12 32BC
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A7091974 10000C00
 A70919E4 10000C00
@@ -149340,6 +149812,7 @@ D0015C22 0044
 80032400 0000
 #Invulnerable cheat menu (Open the pause menu)
 A6064D0C 00000100
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70FC9D8 10000C00
 A70FCA58 10000C00
@@ -149825,6 +150298,7 @@ D005370A 0043
 
 ; [ Sports Car GT (France) {SLES-01915} ]
 :SLES-01915
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 800B1370 1333
 300B1381 000C
@@ -150025,6 +150499,7 @@ AAAAAAAA AAAAAAAA
 801BE4FA 7A8D
 801BE51A 7A8D
 801D7F8C 0000
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A71D8B98 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -150047,6 +150522,7 @@ D01EAAE0 0100
 801D8384 0000
 #All bonus characters
 901EAA50 00010101
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A71D8794 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -150907,6 +151383,7 @@ D01BB362 FFFE
 #Have 4999 points Press Select
 D01BB362 FFFE
 801B5D8C 1387
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A71E9A3C 10000C00
 A71E997C 10000C00
@@ -151134,6 +151611,7 @@ D01D6E0C 00C8
 801EA062 77FD
 #Unlock Bonus Game
 801EA316 6101
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A71DDD38 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -151144,6 +151622,7 @@ A71DDD38 10000400
 ; [ Street Fighter EX Plus Alpha (Japan) {SLP-86041} ]
 :SLP-86041
 :SLPM-86041
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A71DDAD8 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -151154,6 +151633,7 @@ A71DDAD8 10000400
 ; [ Street Fighter EX Plus Alpha (Promo CD) (Japan) {SLPM-80149} ]
 :SLP-80149
 :SLPM-80149
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A71D8148 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -151187,6 +151667,7 @@ D01EF360 0103
 301EF366 00FF
 #Barrel-Codes\99 Combo
 301EF367 0063
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A71F7C90 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -151228,6 +151709,7 @@ A71F7C90 10000400
 901F4C9C 44FD3B6D
 901F4CA0 1FFF5011
 901F4CA4 5BAF5A19
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A71F6C80 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -151363,6 +151845,7 @@ A605EB5C FFFF0001
 #Races\Always First
 300F55CC 0001
 300F84F2 0001
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 80091AFC 0D0B
 80091B7C 08B2
@@ -152972,6 +153455,7 @@ E21B744F 0002
 
 ; [ Syphon Filter (France) {SCES-01911} ]
 :SCES-01911
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 3012DE01 000C
 
@@ -153254,6 +153738,7 @@ D0122FFA FEFF
 8005CAC8 0001
 #Unlock menu cheat
 9011F4D0 FFFFFFFF
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 30120795 000C
 
@@ -153390,6 +153875,7 @@ D0172FC9 3877
 
 ; [ Syphon Filter 3 (France) (Platinum, Press Kit) {SCES-03698} ]
 :SCES-03698
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 30123551 000C
 
@@ -153418,6 +153904,7 @@ D01755E9 073E
 
 ; [ Syphon Filter 3 (Italy) {SCES-03700} ]
 :SCES-03700
+;#### PATCHES LISTED BELOW ####
 #Widescreen
 80123550 0C00
 
@@ -154288,6 +154775,7 @@ D1112762 0000
 
 ; [ TechnoMage: En Quête de L'Eternité (France) {SLES-03242} ]
 :SLES-03242
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 8009F21C 1333
 3009F22D 000C
@@ -154906,6 +155394,7 @@ A6096D10 00000002
 80010060 0909
 5000480C 0000
 80010064 1300
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 800C5350 0C00
 8008DA9A OCOO
@@ -155055,6 +155544,7 @@ A6096D10 00000002
 A607F1D2 000003E8
 #Hypermode 120%
 8005DF48 0002
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A706F2D8 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -155072,6 +155562,7 @@ A706F2D8 10000400
 300890F1 00FF
 #Huge amount of points in World tour mode
 800859D8 00DE
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A7074E78 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -155199,6 +155690,7 @@ A7074E78 10000400
 300A6A98 0002
 #Enable Cars Pitbull Special
 300A6A99 0002
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 8009108C 1334
 
@@ -155305,6 +155797,7 @@ A7074E78 10000400
 #Unlock All Extras
 50000702 0000
 801D5110 003F
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A71DE638 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -155791,6 +156284,7 @@ A60321D6 00000100
 80015846 2400
 #Stop timer
 80061A6C 0000
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A7099A8C 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -155898,6 +156392,7 @@ A60B1930 00000001
 300110C4 0001
 #Infinite Time Home Free Mission
 800DAA2C 0000
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A7040F90 10000C00
 A70410F0 10000C00
@@ -156235,6 +156730,7 @@ D010B568 1023
 90014D74 00000000
 #Infinite Energy
 900243FC 00000000
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A7065460 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -160054,8 +160550,6 @@ D00C2236 FAEF
 9006E9B4 2402FFFF
 #Everythings unlocked
 300D1E80 0001
-#Widescreen
-300D185C 0000
 #Timer Stopped (Press L1 & L2)
 D00DBE32 FAFF
 800255CC 0000
@@ -160112,6 +160606,9 @@ D00DBE32 F5FF
 #Officer Dick Have all video tapes & gold medals
 50000502 0000
 800A6A36 FFFF
+;#### PATCHES LISTED BELOW ####
+#Widescreen
+300D185C 0000
 
 ; [ Tonzura-kun (Japan) {SLPS-00430} ]
 :SLPS-00430
@@ -160219,6 +160716,7 @@ D01D69BA FCFF
 #Mini Games Codes\Fight! Wolfy\P2 Can't Climb
 D11DA38A 0000
 801DA38A 0000
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A71DBCBC 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -160292,6 +160790,7 @@ D0092CD0 0000
 :SLPS-91041
 #Time is Always = 0 In Story Mode Heat 0
 80A01AA3 0000
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 300A2B41 000C
 
@@ -160472,6 +160971,7 @@ A6049A1E 00430000
 #All Characters unlocked
 80126D8E 0101
 80126D90 0101
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A713A920 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -160557,6 +161057,7 @@ A713A920 10000400
 8009A018 003C
 #Infinite Nets
 80040AF8 0063
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 30040D85 000C
 
@@ -161114,6 +161615,7 @@ A708144A 10401400
 8018F530 0005
 #Select Perm Level\Arena
 8018F530 0006
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A71747C0 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -161236,6 +161738,7 @@ A71747C0 10000400
 301646C4 000B
 #Play always level Rooftop
 301646C4 000C
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A717EC1C 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -161535,6 +162038,7 @@ D0095488 0038
 301A5051 0001
 50000302 0000
 801A5052 3F3F
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A71C4290 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -162564,6 +163068,7 @@ A6049D44 05C80000
 A6049D46 AF800000
 A6049D48 31278C62
 A6049D4A 0C010C00
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A707F624 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -164523,6 +165028,7 @@ A6092534 000101F4
 800F0A04 0500
 #Infinite Energy Dragoon Tank (Multi-5) version
 800F0AB4 1180
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70D1A88 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -164605,6 +165111,7 @@ A70D1A88 10000400
 801B8C62 0001
 #Mg-Cooler
 801B8C54 0000
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A7173CE4 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -164742,6 +165249,7 @@ D01B56D0 0008
 9014CE94 0098967F
 #Power Never Decreases
 8006FE0E 2400
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70CB808 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -166134,6 +166642,7 @@ D01D0CD0 0010
 ; [ World Soccer Jikkyou Winning Eleven 2000: U-23 Medal e no Chousen (Japan) {SLP-86600} ]
 :SLP-86600
 :SLPM-86600
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A7072A48 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -166145,6 +166654,7 @@ A7072A48 10000400
 ; [ World Soccer Jikkyou Winning Eleven 3: Final Ver. (Japan) {SLP-86162} ]
 :SLP-86162
 :SLPM-86162
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70FF6A8 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -166158,6 +166668,7 @@ A70FF6A8 10000400
 ; [ World Soccer Jikkyou Winning Eleven 3: World Cup France '98 (Japan) {SLP-86086} ]
 :SLP-86086
 :SLPM-86086
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A70F1D18 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -166169,6 +166680,7 @@ A70F1D18 10000400
 ; [ World Soccer Jikkyou Winning Eleven 4 (Japan) {SLP-86291} ]
 :SLP-86291
 :SLPM-86291
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A7072F90 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -166183,6 +166695,7 @@ A7072F90 10000400
 ; [ World Soccer Winning Eleven 2002 (Japan) {SLP-87056} ]
 :SLP-87056
 :SLPM-87056
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 80072AE8 0C00
 8007B43C FF80
@@ -166775,6 +167288,7 @@ D01EA61A 0001
 50002D01 0000
 301EA438 00FF
 301EA4A4 00FF
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 8009BEF8 1333
 
@@ -166966,6 +167480,7 @@ D10A03A8 B400
 #Unlock Everything At Cerebro All training 100 % and ranking A
 50000A62 0000
 800BCD58 0064
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 80095918 1333
 
@@ -167014,6 +167529,7 @@ D01F7A76 8011
 801F7A48 0000
 #All characters - alternate Highlight Cyclops and press L1 to get Spider-Man, highlight Magneto and press L1 to get Xavier.
 A61CFE92 A262A260
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 800A20AC 1333
 
@@ -167658,6 +168174,7 @@ D008A57C 0000
 300F7EF8 0001
 800F7F00 0101
 800F7F08 0101
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A711B148 10000C00
 #Select Widescreen Aspect Ratio\20-9
@@ -167992,6 +168509,7 @@ D00CD048 0103
 :SLPS-00219
 #Maximum Speed
 800E23CE 000C
+;#### PATCHES LISTED BELOW ####
 #Widescreen 16-9
 3006452D 0014
 30106149 0014
@@ -168358,6 +168876,7 @@ E01A244D 00000004
 A70FC6CA 12221000
 #One Hit Kills
 A70FA626 1C401400
+;#### PATCHES LISTED BELOW ####
 #Select Widescreen Aspect Ratio\16-9
 A7063F0C 10000C00
 #Select Widescreen Aspect Ratio\20-9
