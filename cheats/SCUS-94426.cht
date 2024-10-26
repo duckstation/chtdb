@@ -3697,11 +3697,6 @@ A70365AA 10402400
 A704C816 10432400
 A704CA76 10432400
 
-[Uncap FPS lock]
-Type = Gameshark
-Activation = EndFrame
-A70378CA 1C402400
-
 [Camera detach + matrix mode (Useful for free cams)]
 Type = Gameshark
 Activation = EndFrame
@@ -3766,6 +3761,12 @@ A70158D2 10401000
 Type = Gameshark
 Activation = EndFrame
 A701408E 18401000
+;#P1 Use Nitros Oxide:Press L2 after selecting your character. May not work at all in VS mode for player 1. For Adventure mode, press L1 before entering a portal/challenge. Press L2 before returning to the map. Freezes on some tracks. ? is the character you want to be in Adventure Mode map.
+;D0096AD6 FEFF
+;80086E84 000F
+;D0096AD6 FBFF
+;80086E84 000?
+;#### PATCHES LISTED BELOW ####
 
 [Widescreen]
 Type = Gameshark
@@ -3810,9 +3811,9 @@ Activation = EndFrame
 90008228 005B1021
 D00B077E AFA2
 800B0778 00C0
-;#P1 Use Nitros Oxide:Press L2 after selecting your character. May not work at all in VS mode for player 1. For Adventure mode, press L1 before entering a portal/challenge. Press L2 before returning to the map. Freezes on some tracks. ? is the character you want to be in Adventure Mode map.
-;D0096AD6 FEFF
-;80086E84 000F
-;D0096AD6 FBFF
-;80086E84 000?
+
+[Uncap FPS lock]
+Type = Gameshark
+Activation = EndFrame
+A70378CA 1C402400
 

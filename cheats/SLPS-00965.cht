@@ -7,16 +7,6 @@ D7010001 00000200
 F502ED9E 04401000
 F502EAD6 1C401000
 
-[FPS Unlocker]
-Type = Gameshark
-Activation = EndFrame
-A704C682 04812400
-
-[FPS Unlocker V2]
-Type = Gameshark
-Activation = EndFrame
-A704C816 14402400
-
 [Disable textures]
 Type = Gameshark
 Activation = EndFrame
@@ -101,6 +91,7 @@ A706B1CA 18602400
 Type = Gameshark
 Activation = EndFrame
 A7051BD2 05E11000
+;#### PATCHES LISTED BELOW ####
 
 [Select Widescreen Aspect Ratio\16-9]
 Type = Gameshark
@@ -119,4 +110,14 @@ Type = Gameshark
 Activation = EndFrame
 A70929E4 10000400
 A71191F0 10000400
+
+[FPS Unlocker]
+Type = Gameshark
+Activation = EndFrame
+A704C682 04812400
+
+[FPS Unlocker V2]
+Type = Gameshark
+Activation = EndFrame
+A704C816 14402400
 

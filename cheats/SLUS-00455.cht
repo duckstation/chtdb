@@ -75,6 +75,7 @@ Activation = EndFrame
 Type = Gameshark
 Activation = EndFrame
 300CF26E 0000
+;#### PATCHES LISTED BELOW ####
 
 [Widescreen 16-9]
 Description = When booting with the code enabled, you'll want skip the intro videos quickly in case they freeze the game.

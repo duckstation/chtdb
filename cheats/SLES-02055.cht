@@ -17,11 +17,6 @@ Type = Gameshark
 Activation = EndFrame
 300D1E80 0001
 
-[Widescreen]
-Type = Gameshark
-Activation = EndFrame
-300D185C 0000
-
 [Timer Stopped (Press L1 & L2)]
 Type = Gameshark
 Activation = EndFrame
@@ -143,4 +138,10 @@ Type = Gameshark
 Activation = EndFrame
 50000502 0000
 800A6A36 FFFF
+;#### PATCHES LISTED BELOW ####
+
+[Widescreen]
+Type = Gameshark
+Activation = EndFrame
+300D185C 0000
 

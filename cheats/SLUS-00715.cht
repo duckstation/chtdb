@@ -1,10 +1,5 @@
 ; CHTDB: ; [ Akuji the Heartless (USA) (1998) (Eidos Interactive) {SLUS-00715} <akuji> ]
 
-[Play game at 60 FPS]
-Type = Gameshark
-Activation = EndFrame
-A7055FBA 14401400
-
 [Invincibility]
 Type = Gameshark
 Activation = EndFrame
@@ -39,6 +34,7 @@ Activation = EndFrame
 Type = Gameshark
 Activation = EndFrame
 300BA742 000C
+;#### PATCHES LISTED BELOW ####
 
 [Widescreen 16-9 (Vert-)]
 Type = Gameshark
@@ -48,4 +44,9 @@ Activation = EndFrame
 8005A32E AFA0
 8005A330 1000
 8005A332 AFA0
+
+[Play game at 60 FPS]
+Type = Gameshark
+Activation = EndFrame
+A7055FBA 14401400
 

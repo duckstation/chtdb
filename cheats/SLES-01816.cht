@@ -285,11 +285,6 @@ Type = Gameshark
 Activation = EndFrame
 800961FC 0000
 
-[60 Frames Per Second]
-Type = Gameshark
-Activation = EndFrame
-80096378 0000
-
 [Schizophrenic Police]
 Type = Gameshark
 Activation = EndFrame
@@ -300,9 +295,15 @@ Type = Gameshark
 Activation = EndFrame
 E0096B38 0044
 8009ABD0 FFFF
+;#### PATCHES LISTED BELOW ####
 
 [Widescreen 16-9]
 Type = Gameshark
 Activation = EndFrame
 8008A48C 1333
+
+[60 Frames Per Second]
+Type = Gameshark
+Activation = EndFrame
+80096378 0000
 

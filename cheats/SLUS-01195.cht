@@ -76,16 +76,6 @@ A70D5F1A 24001040
 D7200000 00010000
 A70D5F1A 10402400
 
-[60 FPS unlock (Needs overclock)]
-Type = Gameshark
-Activation = EndFrame
-A7085522 14402400
-
-[30 FPS unlock]
-Type = Gameshark
-Activation = EndFrame
-A7013AFE 14432400
-
 [Far Jumps]
 Type = Gameshark
 Activation = EndFrame
@@ -157,4 +147,15 @@ Activation = EndFrame
 A70E274A 10001040
 D7200000 0000000C
 A70E274A 10401000
+;#### PATCHES LISTED BELOW ####
+
+[60 FPS unlock (Needs overclock)]
+Type = Gameshark
+Activation = EndFrame
+A7085522 14402400
+
+[30 FPS unlock]
+Type = Gameshark
+Activation = EndFrame
+A7013AFE 14432400
 

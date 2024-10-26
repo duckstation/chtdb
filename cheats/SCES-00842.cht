@@ -141,11 +141,6 @@ Type = Gameshark
 Activation = EndFrame
 8004196A 00C8
 
-[FPS unlock "Might want to underclock"]
-Type = Gameshark
-Activation = EndFrame
-A70164E6 04612400
-
 [Use right analog to look up/down]
 Type = Gameshark
 Activation = EndFrame
@@ -156,4 +151,10 @@ A7079AA2 10402400
 A7079AE6 24001040
 D7200000 00010000
 A7079AE6 10402400
+;#### PATCHES LISTED BELOW ####
+
+[FPS unlock "Might want to underclock"]
+Type = Gameshark
+Activation = EndFrame
+A70164E6 04612400
 

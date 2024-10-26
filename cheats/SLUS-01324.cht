@@ -76,6 +76,13 @@ Activation = EndFrame
 50000C06 0000
 8011B8D8 0001
 
+[Walk through walls "Press L3 to toggle on/off"]
+Type = Gameshark
+Activation = EndFrame
+D7010001 01000200
+F51D16E6 12932400
+;#### PATCHES LISTED BELOW ####
+
 [Widescreen 16-9]
 Type = Gameshark
 Activation = EndFrame
@@ -87,10 +94,4 @@ Activation = EndFrame
 8016AE96 240A
 8016AE9C 1000
 8016AE9E 240A
-
-[Walk through walls "Press L3 to toggle on/off"]
-Type = Gameshark
-Activation = EndFrame
-D7010001 01000200
-F51D16E6 12932400
 

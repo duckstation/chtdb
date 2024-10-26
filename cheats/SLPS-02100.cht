@@ -159,26 +159,6 @@ D007B2B8 0101
 D007B2B8 0201
 8001765C 0001
 
-[Debug DEBUG, DBG magic added to the battle menu You can not see the menu Magic DBG is disabled]
-Type = Gameshark
-Activation = EndFrame
-A6102900 00040006
-
-[Select Widescreen Aspect Ratio\16-9]
-Type = Gameshark
-Activation = EndFrame
-A7087A68 10000C00
-
-[Select Widescreen Aspect Ratio\20-9]
-Type = Gameshark
-Activation = EndFrame
-A7087A68 10000900
-
-[Select Widescreen Aspect Ratio\Eye Infinity]
-Type = Gameshark
-Activation = EndFrame
-A7087A68 10000400
-
 [Estoma always enabled (reduce encounter rate 2x)]
 Type = Gameshark
 Activation = EndFrame
@@ -194,46 +174,62 @@ D007CAE8 00000000
 [Exp gained x2]
 Type = Gameshark
 Activation = EndFrame
-D007CAE8 00001002
+C007CAE8 00001002
 900B7170 00431021
-D007CAE8 00001002
 900B717C AE421C00
 
 [Exp gained x4]
 Type = Gameshark
 Activation = EndFrame
-D007CAE8 00001002
+C007CAE8 00001002
 900B716C 00031880
-D007CAE8 00001002
 900B7170 00431021
-D007CAE8 00001002
 900B717C AE421C00
 
 [Exp gained x8]
 Type = Gameshark
 Activation = EndFrame
-D007CAE8 00001002
+C007CAE8 00001002
 900B716C 000318C0
-D007CAE8 00001002
 900B7170 00431021
-D007CAE8 00001002
 900B717C AE421C00
 
-[Cards obtained x2]
+[Select Cards Obtained\x2]
 Type = Gameshark
 Activation = EndFrame
 D007CAE8 00001002
 900F8060 00052840
 
-[Cards obtained x4]
+[Select Cards Obtained\x4]
 Type = Gameshark
 Activation = EndFrame
 D007CAE8 00001002
 900F8060 00052880
 
-[Cards obtained x8]
+[Select Cards Obtained\x8]
 Type = Gameshark
 Activation = EndFrame
 D007CAE8 00001002
 900F8060 000528C0
+
+[Debug DEBUG, DBG magic added to the battle menu You can not see the menu Magic DBG is disabled]
+Type = Gameshark
+Activation = EndFrame
+A6102900 00040006
+;#### PATCHES LISTED BELOW ####
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A7087A68 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A7087A68 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A7087A68 10000400
 

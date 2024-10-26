@@ -14,6 +14,7 @@ Activation = EndFrame
 Type = Gameshark
 Activation = EndFrame
 800EFFDC 06F7
+;#### PATCHES LISTED BELOW ####
 
 [Select Widescreen Aspect Ratio\16-9]
 Type = Gameshark
@@ -29,6 +30,7 @@ A70BE3FC 10000900
 Type = Gameshark
 Activation = EndFrame
 A70BE3FC 10000400
+;#### PATCHES LISTED BELOW ####
 
 [Widescreen 16-9 (Menus)]
 Type = Gameshark

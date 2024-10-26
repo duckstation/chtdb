@@ -40,11 +40,6 @@ Type = Gameshark
 Activation = EndFrame
 A70284F6 14201000
 
-[FPS Unlock]
-Type = Gameshark
-Activation = EndFrame
-A7012126 04812400
-
 [Skip Level (Press L3)]
 Type = Gameshark
 Activation = EndFrame
@@ -74,4 +69,10 @@ D7100000 02000003
 Type = Gameshark
 Activation = EndFrame
 A7028912 1C601400
+;#### PATCHES LISTED BELOW ####
+
+[FPS Unlock]
+Type = Gameshark
+Activation = EndFrame
+A7012126 04812400
 

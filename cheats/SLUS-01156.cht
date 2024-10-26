@@ -60,11 +60,6 @@ Type = Gameshark
 Activation = EndFrame
 A703F674 001E0000
 
-[FPS uncap]
-Type = Gameshark
-Activation = EndFrame
-A701FF9A 14402400
-
 [Valyrie Mirrors dark Valkyrie colors (Dark Valkyrie battle)]
 Type = Gameshark
 Activation = EndFrame
@@ -292,4 +287,10 @@ Activation = EndFrame
 A7030D02 24000C00
 D7200000 00000400
 A7030D02 0C002400
+;#### PATCHES LISTED BELOW ####
+
+[FPS uncap]
+Type = Gameshark
+Activation = EndFrame
+A701FF9A 14402400
 
