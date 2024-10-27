@@ -55,11 +55,6 @@ Type = Gameshark
 Activation = EndFrame
 80026D30 0001
 
-[Push game cap to 30 fps]
-Type = Gameshark
-Activation = EndFrame
-A7122906 0C042400
-
 [Walk off ledges and through fences]
 Type = Gameshark
 Activation = EndFrame
@@ -91,4 +86,10 @@ Type = Gameshark
 Activation = EndFrame
 D7010001 01000200
 F509DA7E 14402400
+;#### PATCHES LISTED BELOW ####
+
+[Push game cap to 30 fps]
+Type = Gameshark
+Activation = EndFrame
+A7122906 0C042400
 

@@ -54,11 +54,7 @@ Activation = EndFrame
 800498A3 FFFF
 800498A4 FFFF
 800498A5 FFF0
-
-[Mode 60 HZ]
-Type = Gameshark
-Activation = EndFrame
-8003186A 3C00
+;#### PATCHES LISTED BELOW ####
 
 [Select Widescreen Aspect Ratio\16-9]
 Type = Gameshark
@@ -74,4 +70,9 @@ A7049B1C 10000900
 Type = Gameshark
 Activation = EndFrame
 A7049B1C 10000400
+
+[Mode 60 HZ]
+Type = Gameshark
+Activation = EndFrame
+8003186A 3C00
 

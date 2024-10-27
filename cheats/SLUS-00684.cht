@@ -37,16 +37,17 @@ Type = Gameshark
 Activation = EndFrame
 8004FCCE 2400
 
-[Widescreen hack]
-Type = Gameshark
-Activation = EndFrame
-A7073FBA 0C022400
-A7073EEA 0C022400
-
 [Walk through walls "Press L3 to toggle on/off"]
 Type = Gameshark
 Activation = EndFrame
 D7010001 01000200
 F5092386 14401000
 F507B846 10E01000
+;#### PATCHES LISTED BELOW ####
+
+[Widescreen hack]
+Type = Gameshark
+Activation = EndFrame
+A7073FBA 0C022400
+A7073EEA 0C022400
 

@@ -14,14 +14,6 @@ Activation = EndFrame
 90019DF0 000000FF
 80019DF4 0000
 
-[60Fps-Mode L2 to activate]
-Type = Gameshark
-Activation = EndFrame
-D00C2A4C FEFF
-80019CAC 0100
-D00C2A4C FDFF
-80019CAC 0000
-
 [Another Hyper-Mode]
 Type = Gameshark
 Activation = EndFrame
@@ -31,4 +23,13 @@ Activation = EndFrame
 Type = Gameshark
 Activation = EndFrame
 8008BB96 2A00
+;#### PATCHES LISTED BELOW ####
+
+[60Fps-Mode L2 to activate]
+Type = Gameshark
+Activation = EndFrame
+D00C2A4C FEFF
+80019CAC 0100
+D00C2A4C FDFF
+80019CAC 0000
 

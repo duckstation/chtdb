@@ -107,15 +107,11 @@ Type = Gameshark
 Activation = EndFrame
 A7022656 10201000
 
-[FPS Uncap]
-Type = Gameshark
-Activation = EndFrame
-A70A3F32 10401000
-
 [Bigger Play Area - Mess around with 2000]
 Type = Gameshark
 Activation = EndFrame
 A70F890C 10002000
+;#### PATCHES LISTED BELOW ####
 
 [Select Widescreen\16-9]
 Type = Gameshark
@@ -131,4 +127,9 @@ A70F88FC 19990E66
 Type = Gameshark
 Activation = EndFrame
 A70F88FC 19990666
+
+[FPS Uncap]
+Type = Gameshark
+Activation = EndFrame
+A70A3F32 10401000
 

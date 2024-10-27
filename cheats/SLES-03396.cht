@@ -10,6 +10,7 @@ Type = Gameshark
 Activation = EndFrame
 50000C08 0000
 300D741C 0001
+;#### PATCHES LISTED BELOW ####
 
 [Widescreen 16-9]
 Type = Gameshark

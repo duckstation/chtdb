@@ -156,11 +156,6 @@ A7027D7E 24000C00
 D7200000 00000400
 A7027D7E 0C002400
 
-[Force and cap game to 60 FPS]
-Type = Gameshark
-Activation = EndFrame
-A7014D42 0C002400
-
 [Turn screen black]
 Type = Gameshark
 Activation = EndFrame
@@ -231,4 +226,10 @@ A70DC40A 10402400
 Type = Gameshark
 Activation = EndFrame
 A710946E 10402400
+;#### PATCHES LISTED BELOW ####
+
+[Force and cap game to 60 FPS]
+Type = Gameshark
+Activation = EndFrame
+A7014D42 0C002400
 

@@ -1,1322 +1,276 @@
 ; CHTDB: ; [ Discworld II - Mortality Bytes! (USA) (1997) (Psygnosis) {SCUS-94605} <discwrl2> ]
 
-[Select Rincewind's 1st Item\Nothing]
-Type = Gameshark
-Activation = EndFrame
-9007155C 00010000
-
-[Select Rincewind's 1st Item\Key to Death's Door]
-Type = Gameshark
-Activation = EndFrame
-9007155C 0001002E
-
-[Select Rincewind's 1st Item\Answer]
-Type = Gameshark
-Activation = EndFrame
-9007155C 00010030
-
-[Select Rincewind's 1st Item\Rite of AshkEnt]
-Type = Gameshark
-Activation = EndFrame
-9007155C 00010031
-
-[Select Rincewind's 1st Item\a Babe]
-Type = Gameshark
-Activation = EndFrame
-9007155C 00010032
-
-[Select Rincewind's 1st Item\Fishing Rod Baited with Black Honey]
-Type = Gameshark
-Activation = EndFrame
-9007155C 00010033
-
-[Select Rincewind's 1st Item\a Band]
-Type = Gameshark
-Activation = EndFrame
-9007155C 00010034
-
-[Select Rincewind's 1st Item\Bandages]
-Type = Gameshark
-Activation = EndFrame
-9007155C 00010035
-
-[Select Rincewind's 1st Item\Wooden Arm]
-Type = Gameshark
-Activation = EndFrame
-9007155C 00010036
-
-[Select Rincewind's 1st Item\Bandaged wooden Arm]
-Type = Gameshark
-Activation = EndFrame
-9007155C 00010037
-
-[Select Rincewind's 1st Item\Boomerang Attached to rope]
-Type = Gameshark
-Activation = EndFrame
-9007155C 00010038
-
-[Select Rincewind's 1st Item\Beeswax]
-Type = Gameshark
-Activation = EndFrame
-9007155C 00010039
-
-[Select Rincewind's 1st Item\Dribbly Beeswax]
-Type = Gameshark
-Activation = EndFrame
-9007155C 0001003A
-
-[Select Rincewind's 1st Item\Bellows]
-Type = Gameshark
-Activation = EndFrame
-9007155C 0001003B
-
-[Select Rincewind's 1st Item\Bent Stick]
-Type = Gameshark
-Activation = EndFrame
-9007155C 0001003C
-
-[Select Rincewind's 1st Item\Rope]
-Type = Gameshark
-Activation = EndFrame
-9007155C 0001003D
-
-[Select Rincewind's 1st Item\Boomerang]
-Type = Gameshark
-Activation = EndFrame
-9007155C 0001003E
-
-[Select Rincewind's 1st Item\Brick]
-Type = Gameshark
-Activation = EndFrame
-9007155C 0001003F
-
-[Select Rincewind's 1st Item\Haunted Brick]
-Type = Gameshark
-Activation = EndFrame
-9007155C 00010040
-
-[Select Rincewind's 1st Item\Brochure]
-Type = Gameshark
-Activation = EndFrame
-9007155C 00010041
-
-[Select Rincewind's 1st Item\Candy Rock]
-Type = Gameshark
-Activation = EndFrame
-9007155C 00010042
-
-[Select Rincewind's 1st Item\Scissors]
-Type = Gameshark
-Activation = EndFrame
-9007155C 00010043
-
-[Select Rincewind's 1st Item\Canteen]
-Type = Gameshark
-Activation = EndFrame
-9007155C 00010044
-
-[Select Rincewind's 1st Item\Bladders (empty)]
-Type = Gameshark
-Activation = EndFrame
-9007155C 00010045
-
-[Select Rincewind's 1st Item\Bladders (full)]
-Type = Gameshark
-Activation = EndFrame
-9007155C 00010046
-
-[Select Rincewind's 1st Item\Canteen (water from foutain)]
-Type = Gameshark
-Activation = EndFrame
-9007155C 00010047
-
-[Select Rincewind's 1st Item\Chili Pepper]
-Type = Gameshark
-Activation = EndFrame
-9007155C 00010048
-
-[Select Rincewind's 1st Item\Pot]
-Type = Gameshark
-Activation = EndFrame
-9007155C 00010049
-
-[Select Rincewind's 1st Item\Honey Pot]
-Type = Gameshark
-Activation = EndFrame
-9007155C 0001004A
-
-[Select Rincewind's 1st Item\Hooter]
-Type = Gameshark
-Activation = EndFrame
-9007155C 0001004B
-
-[Select Rincewind's 1st Item\Horse Suit]
-Type = Gameshark
-Activation = EndFrame
-9007155C 0001004C
-
-[Select Rincewind's 1st Item\Horse Suit (w/librarian)]
-Type = Gameshark
-Activation = EndFrame
-9007155C 0001004D
-
-[Select Rincewind's 1st Item\Glue]
-Type = Gameshark
-Activation = EndFrame
-9007155C 0001004E
-
-[Select Rincewind's 1st Item\hooter (w/glue)]
-Type = Gameshark
-Activation = EndFrame
-9007155C 0001004F
-
-[Select Rincewind's 1st Item\Unicorn Suit]
-Type = Gameshark
-Activation = EndFrame
-9007155C 00010050
-
-[Select Rincewind's 1st Item\Unicorn Suit (w/ Librarian)]
-Type = Gameshark
-Activation = EndFrame
-9007155C 00010051
-
-[Select Rincewind's 1st Item\Cork]
-Type = Gameshark
-Activation = EndFrame
-9007155C 00010052
-
-[Select Rincewind's 1st Item\Corn]
-Type = Gameshark
-Activation = EndFrame
-9007155C 00010053
-
-[Select Rincewind's 1st Item\Tankard]
-Type = Gameshark
-Activation = EndFrame
-9007155C 00010054
-
-[Select Rincewind's 1st Item\Corn (w/ alcohol)]
-Type = Gameshark
-Activation = EndFrame
-9007155C 00010055
-
-[Select Rincewind's 1st Item\Teeth]
-Type = Gameshark
-Activation = EndFrame
-9007155C 00010056
-
-[Select Rincewind's 1st Item\Knife]
-Type = Gameshark
-Activation = EndFrame
-9007155C 00010057
-
-[Select Rincewind's 1st Item\Hoops]
-Type = Gameshark
-Activation = EndFrame
-9007155C 00010058
-
-[Select Rincewind's 1st Item\Mallet]
-Type = Gameshark
-Activation = EndFrame
-9007155C 00010059
-
-[Select Rincewind's 1st Item\Mallets (two)]
-Type = Gameshark
-Activation = EndFrame
-9007155C 0001005A
-
-[Select Rincewind's 1st Item\Mallets (three)]
-Type = Gameshark
-Activation = EndFrame
-9007155C 0001005B
-
-[Select Rincewind's 1st Item\Curtains]
-Type = Gameshark
-Activation = EndFrame
-9007155C 0001005C
-
-[Select Rincewind's 1st Item\Ink Well]
-Type = Gameshark
-Activation = EndFrame
-9007155C 0001005D
-
-[Select Rincewind's 1st Item\Beeswax (Black)]
-Type = Gameshark
-Activation = EndFrame
-9007155C 0001005E
-
-[Select Rincewind's 1st Item\Rope (Short)]
-Type = Gameshark
-Activation = EndFrame
-9007155C 0001005F
-
-[Select Rincewind's 1st Item\String]
-Type = Gameshark
-Activation = EndFrame
-9007155C 00010060
-
-[Select Rincewind's 1st Item\Candle (black)]
-Type = Gameshark
-Activation = EndFrame
-9007155C 00010061
-
-[Select Rincewind's 1st Item\Matches]
-Type = Gameshark
-Activation = EndFrame
-9007155C 00010062
-
-[Select Rincewind's 1st Item\Lit Candle (black)]
-Type = Gameshark
-Activation = EndFrame
-9007155C 00010063
-
-[Select Rincewind's 1st Item\Death Certificate]
-Type = Gameshark
-Activation = EndFrame
-9007155C 00010064
-
-[Select Rincewind's 1st Item\Hour Glass]
-Type = Gameshark
-Activation = EndFrame
-9007155C 00010065
-
-[Select Rincewind's 1st Item\Sugar Pot]
-Type = Gameshark
-Activation = EndFrame
-9007155C 00010066
-
-[Select Rincewind's 1st Item\Honey Pot (black)]
-Type = Gameshark
-Activation = EndFrame
-9007155C 00010067
-
-[Select Rincewind's 1st Item\Fishing Rod]
-Type = Gameshark
-Activation = EndFrame
-9007155C 00010068
-
-[Select Rincewind's 1st Item\Tooth]
-Type = Gameshark
-Activation = EndFrame
-9007155C 00010069
-
-[Select Rincewind's 1st Item\Dribbly Candles]
-Type = Gameshark
-Activation = EndFrame
-9007155C 0001006A
-
-[Select Rincewind's 1st Item\Rooster (sober)]
-Type = Gameshark
-Activation = EndFrame
-9007155C 0001006B
-
-[Select Rincewind's 1st Item\Rooster (plastered)]
-Type = Gameshark
-Activation = EndFrame
-9007155C 0001006C
-
-[Select Rincewind's 1st Item\Ectoplasm]
-Type = Gameshark
-Activation = EndFrame
-9007155C 0001006D
-
-[Select Rincewind's 1st Item\Bunny]
-Type = Gameshark
-Activation = EndFrame
-9007155C 0001006E
-
-[Select Rincewind's 1st Item\Pyjamas]
-Type = Gameshark
-Activation = EndFrame
-9007155C 0001006F
-
-[Select Rincewind's 1st Item\Bunny (w/ Pyjamas)]
-Type = Gameshark
-Activation = EndFrame
-9007155C 00010070
-
-[Select Rincewind's 1st Item\Reel]
-Type = Gameshark
-Activation = EndFrame
-9007155C 00010071
-
-[Select Rincewind's 1st Item\Reel (spliced)]
-Type = Gameshark
-Activation = EndFrame
-9007155C 00010072
-
-[Select Rincewind's 1st Item\Sugar]
-Type = Gameshark
-Activation = EndFrame
-9007155C 00010073
-
-[Select Rincewind's 1st Item\Mouse]
-Type = Gameshark
-Activation = EndFrame
-9007155C 00010074
-
-[Select Rincewind's 1st Item\Genie Bottle]
-Type = Gameshark
-Activation = EndFrame
-9007155C 00010075
-
-[Select Rincewind's 1st Item\Boots]
-Type = Gameshark
-Activation = EndFrame
-9007155C 00010076
-
-[Select Rincewind's 1st Item\Genie Bottle (W/ Boots)]
-Type = Gameshark
-Activation = EndFrame
-9007155C 00010077
-
-[Select Rincewind's 1st Item\Vile smell]
-Type = Gameshark
-Activation = EndFrame
-9007155C 00010078
-
-[Select Rincewind's 1st Item\Glitter Dust]
-Type = Gameshark
-Activation = EndFrame
-9007155C 00010079
-
-[Select Rincewind's 1st Item\Surfboard]
-Type = Gameshark
-Activation = EndFrame
-9007155C 0001007A
-
-[Select Rincewind's 1st Item\Surfboard (w/glue)]
-Type = Gameshark
-Activation = EndFrame
-9007155C 0001007B
-
-[Select Rincewind's 1st Item\Shark]
-Type = Gameshark
-Activation = EndFrame
-9007155C 0001007C
-
-[Select Rincewind's 1st Item\Stuffed Fish]
-Type = Gameshark
-Activation = EndFrame
-9007155C 0001007D
-
-[Select Rincewind's 1st Item\Librarian]
-Type = Gameshark
-Activation = EndFrame
-9007155C 0001007E
-
-[Select Rincewind's 1st Item\Suffrajester]
-Type = Gameshark
-Activation = EndFrame
-9007155C 0001007F
-
-[Select Rincewind's 1st Item\Ice]
-Type = Gameshark
-Activation = EndFrame
-9007155C 00010080
-
-[Select Rincewind's 1st Item\Imp]
-Type = Gameshark
-Activation = EndFrame
-9007155C 00010081
-
-[Select Rincewind's 1st Item\Camera]
-Type = Gameshark
-Activation = EndFrame
-9007155C 00010082
-
-[Select Rincewind's 1st Item\Camera (w/ Imp)]
-Type = Gameshark
-Activation = EndFrame
-9007155C 00010083
-
-[Select Rincewind's 1st Item\Incense]
-Type = Gameshark
-Activation = EndFrame
-9007155C 00010084
-
-[Select Rincewind's 1st Item\Incense (burning)]
-Type = Gameshark
-Activation = EndFrame
-9007155C 00010085
-
-[Select Rincewind's 1st Item\Ironing Board]
-Type = Gameshark
-Activation = EndFrame
-9007155C 00010086
-
-[Select Rincewind's 1st Item\Saw]
-Type = Gameshark
-Activation = EndFrame
-9007155C 00010087
-
-[Select Rincewind's 1st Item\Jingle]
-Type = Gameshark
-Activation = EndFrame
-9007155C 00010088
-
-[Select Rincewind's 1st Item\Ladder]
-Type = Gameshark
-Activation = EndFrame
-9007155C 00010089
-
-[Select Rincewind's 1st Item\Book]
-Type = Gameshark
-Activation = EndFrame
-9007155C 0001008A
-
-[Select Rincewind's 1st Item\Tablet]
-Type = Gameshark
-Activation = EndFrame
-9007155C 0001008B
-
-[Select Rincewind's 1st Item\Magnet]
-Type = Gameshark
-Activation = EndFrame
-9007155C 0001008C
-
-[Select Rincewind's 1st Item\Weight]
-Type = Gameshark
-Activation = EndFrame
-9007155C 0001008D
-
-[Select Rincewind's 1st Item\Pyramid]
-Type = Gameshark
-Activation = EndFrame
-9007155C 0001008E
-
-[Select Rincewind's 1st Item\Wires]
-Type = Gameshark
-Activation = EndFrame
-9007155C 0001008F
-
-[Select Rincewind's 1st Item\Ten Ton Weight]
-Type = Gameshark
-Activation = EndFrame
-9007155C 00010090
-
-[Select Rincewind's 1st Item\Trailer Key]
-Type = Gameshark
-Activation = EndFrame
-9007155C 00010091
-
-[Select Rincewind's 1st Item\Rag]
-Type = Gameshark
-Activation = EndFrame
-9007155C 00010092
-
-[Select Rincewind's 1st Item\Rag (Burning)]
-Type = Gameshark
-Activation = EndFrame
-9007155C 00010093
-
-[Select Rincewind's 1st Item\Mirror (fogged)]
-Type = Gameshark
-Activation = EndFrame
-9007155C 00010094
-
-[Select Rincewind's 1st Item\Mirror]
-Type = Gameshark
-Activation = EndFrame
-9007155C 00010095
-
-[Select Rincewind's 1st Item\Money Pouch]
-Type = Gameshark
-Activation = EndFrame
-9007155C 00010096
-
-[Select Rincewind's 1st Item\Mousie!!!]
-Type = Gameshark
-Activation = EndFrame
-9007155C 00010097
-
-[Select Rincewind's 1st Item\Test Tube]
-Type = Gameshark
-Activation = EndFrame
-9007155C 00010098
-
-[Select Rincewind's 1st Item\Teeth (w/blood)]
-Type = Gameshark
-Activation = EndFrame
-9007155C 00010099
-
-[Select Rincewind's 1st Item\Sticker]
-Type = Gameshark
-Activation = EndFrame
-9007155C 0001009A
-
-[Select Rincewind's 1st Item\Petticoat]
-Type = Gameshark
-Activation = EndFrame
-9007155C 0001009B
-
-[Select Rincewind's 1st Item\Pick]
-Type = Gameshark
-Activation = EndFrame
-9007155C 0001009C
-
-[Select Rincewind's 1st Item\Picnic Basket]
-Type = Gameshark
-Activation = EndFrame
-9007155C 0001009D
-
-[Select Rincewind's 1st Item\Picnic Basket (/w Food + Ants)]
-Type = Gameshark
-Activation = EndFrame
-9007155C 0001009E
-
-[Select Rincewind's 1st Item\Picnic Basket (/w Food)]
-Type = Gameshark
-Activation = EndFrame
-9007155C 0001009F
-
-[Select Rincewind's 1st Item\Ant Souls]
-Type = Gameshark
-Activation = EndFrame
-9007155C 000100A0
-
-[Select Rincewind's 1st Item\Plans]
-Type = Gameshark
-Activation = EndFrame
-9007155C 000100A1
-
-[Select Rincewind's 1st Item\Film]
-Type = Gameshark
-Activation = EndFrame
-9007155C 000100A2
-
-[Select Rincewind's 1st Item\Film (leftover)]
-Type = Gameshark
-Activation = EndFrame
-9007155C 000100A3
-
-[Select Rincewind's 1st Item\Reaper]
-Type = Gameshark
-Activation = EndFrame
-9007155C 000100A4
-
-[Select Rincewind's 1st Item\Robe]
-Type = Gameshark
-Activation = EndFrame
-9007155C 000100A6
-
-[Select Rincewind's 1st Item\Rotten Arm]
-Type = Gameshark
-Activation = EndFrame
-9007155C 000100A7
-
-[Select Rincewind's 1st Item\Rotten Arm (w/ Ring)]
-Type = Gameshark
-Activation = EndFrame
-9007155C 000100A8
-
-[Select Rincewind's 1st Item\Scythe]
-Type = Gameshark
-Activation = EndFrame
-9007155C 000100A9
-
-[Select Rincewind's 1st Item\Toy Cart]
-Type = Gameshark
-Activation = EndFrame
-9007155C 000100AA
-
-[Select Rincewind's 1st Item\Film (sheep)]
-Type = Gameshark
-Activation = EndFrame
-9007155C 000100AB
-
-[Select Rincewind's 1st Item\Snow Storms]
-Type = Gameshark
-Activation = EndFrame
-9007155C 000100AC
-
-[Select Rincewind's 1st Item\Stake]
-Type = Gameshark
-Activation = EndFrame
-9007155C 000100AD
-
-[Select Rincewind's 1st Item\Flamingo]
-Type = Gameshark
-Activation = EndFrame
-9007155C 000100AE
-
-[Select Rincewind's 1st Item\Test Tube (w/ Blood)]
-Type = Gameshark
-Activation = EndFrame
-9007155C 000100AF
-
-[Select Rincewind's 1st Item\Wading Bird]
-Type = Gameshark
-Activation = EndFrame
-9007155C 000100B0
-
-[Select Rincewind's 1st Item\Broom]
-Type = Gameshark
-Activation = EndFrame
-9007155C 000100B1
-
-[Select Rincewind's 1st Item\Ring]
-Type = Gameshark
-Activation = EndFrame
-9007155C 000000C6
-
-[Select Rincewind's 2nd Item\Nothing]
-Type = Gameshark
-Activation = EndFrame
-90071560 00010000
-
-[Select Rincewind's 2nd Item\Key to Death's Door]
-Type = Gameshark
-Activation = EndFrame
-90071560 0001002E
-
-[Select Rincewind's 2nd Item\Answer]
-Type = Gameshark
-Activation = EndFrame
-90071560 00010030
-
-[Select Rincewind's 2nd Item\Rite of AshkEnt]
-Type = Gameshark
-Activation = EndFrame
-90071560 00010031
-
-[Select Rincewind's 2nd Item\a Babe]
-Type = Gameshark
-Activation = EndFrame
-90071560 00010032
-
-[Select Rincewind's 2nd Item\Fishing Rod Baited with Black Honey]
-Type = Gameshark
-Activation = EndFrame
-90071560 00010033
-
-[Select Rincewind's 2nd Item\a Band]
-Type = Gameshark
-Activation = EndFrame
-90071560 00010034
-
-[Select Rincewind's 2nd Item\Bandages]
-Type = Gameshark
-Activation = EndFrame
-90071560 00010035
-
-[Select Rincewind's 2nd Item\Wooden Arm]
-Type = Gameshark
-Activation = EndFrame
-90071560 00010036
-
-[Select Rincewind's 2nd Item\Bandaged wooden Arm]
-Type = Gameshark
-Activation = EndFrame
-90071560 00010037
-
-[Select Rincewind's 2nd Item\Boomerang Attached to rope]
-Type = Gameshark
-Activation = EndFrame
-90071560 00010038
-
-[Select Rincewind's 2nd Item\Beeswax]
-Type = Gameshark
-Activation = EndFrame
-90071560 00010039
-
-[Select Rincewind's 2nd Item\Dribbly Beeswax]
-Type = Gameshark
-Activation = EndFrame
-90071560 0001003A
-
-[Select Rincewind's 2nd Item\Bellows]
-Type = Gameshark
-Activation = EndFrame
-90071560 0001003B
-
-[Select Rincewind's 2nd Item\Bent Stick]
-Type = Gameshark
-Activation = EndFrame
-90071560 0001003C
-
-[Select Rincewind's 2nd Item\Rope]
-Type = Gameshark
-Activation = EndFrame
-90071560 0001003D
-
-[Select Rincewind's 2nd Item\Boomerang]
-Type = Gameshark
-Activation = EndFrame
-90071560 0001003E
-
-[Select Rincewind's 2nd Item\Brick]
-Type = Gameshark
-Activation = EndFrame
-90071560 0001003F
-
-[Select Rincewind's 2nd Item\Haunted Brick]
-Type = Gameshark
-Activation = EndFrame
-90071560 00010040
-
-[Select Rincewind's 2nd Item\Brochure]
-Type = Gameshark
-Activation = EndFrame
-90071560 00010041
-
-[Select Rincewind's 2nd Item\Candy Rock]
-Type = Gameshark
-Activation = EndFrame
-90071560 00010042
-
-[Select Rincewind's 2nd Item\Scissors]
-Type = Gameshark
-Activation = EndFrame
-90071560 00010043
-
-[Select Rincewind's 2nd Item\Canteen]
-Type = Gameshark
-Activation = EndFrame
-90071560 00010044
-
-[Select Rincewind's 2nd Item\Bladders (empty)]
-Type = Gameshark
-Activation = EndFrame
-90071560 00010045
-
-[Select Rincewind's 2nd Item\Bladders (full)]
-Type = Gameshark
-Activation = EndFrame
-90071560 00010046
-
-[Select Rincewind's 2nd Item\Canteen (water from foutain)]
-Type = Gameshark
-Activation = EndFrame
-90071560 00010047
-
-[Select Rincewind's 2nd Item\Chili Pepper]
-Type = Gameshark
-Activation = EndFrame
-90071560 00010048
-
-[Select Rincewind's 2nd Item\Pot]
-Type = Gameshark
-Activation = EndFrame
-90071560 00010049
-
-[Select Rincewind's 2nd Item\Honey Pot]
-Type = Gameshark
-Activation = EndFrame
-90071560 0001004A
-
-[Select Rincewind's 2nd Item\Hooter]
-Type = Gameshark
-Activation = EndFrame
-90071560 0001004B
-
-[Select Rincewind's 2nd Item\Horse Suit]
-Type = Gameshark
-Activation = EndFrame
-90071560 0001004C
-
-[Select Rincewind's 2nd Item\Horse Suit (w/librarian)]
-Type = Gameshark
-Activation = EndFrame
-90071560 0001004D
-
-[Select Rincewind's 2nd Item\Glue]
-Type = Gameshark
-Activation = EndFrame
-90071560 0001004E
-
-[Select Rincewind's 2nd Item\hooter (w/glue)]
-Type = Gameshark
-Activation = EndFrame
-90071560 0001004F
-
-[Select Rincewind's 2nd Item\Unicorn Suit]
-Type = Gameshark
-Activation = EndFrame
-90071560 00010050
-
-[Select Rincewind's 2nd Item\Unicorn Suit (w/ Librarian)]
-Type = Gameshark
-Activation = EndFrame
-90071560 00010051
-
-[Select Rincewind's 2nd Item\Cork]
-Type = Gameshark
-Activation = EndFrame
-90071560 00010052
-
-[Select Rincewind's 2nd Item\Corn]
-Type = Gameshark
-Activation = EndFrame
-90071560 00010053
-
-[Select Rincewind's 2nd Item\Tankard]
-Type = Gameshark
-Activation = EndFrame
-90071560 00010054
-
-[Select Rincewind's 2nd Item\Corn (w/ alcohol)]
-Type = Gameshark
-Activation = EndFrame
-90071560 00010055
-
-[Select Rincewind's 2nd Item\Teeth]
-Type = Gameshark
-Activation = EndFrame
-90071560 00010056
-
-[Select Rincewind's 2nd Item\Knife]
-Type = Gameshark
-Activation = EndFrame
-90071560 00010057
-
-[Select Rincewind's 2nd Item\Hoops]
-Type = Gameshark
-Activation = EndFrame
-90071560 00010058
-
-[Select Rincewind's 2nd Item\Mallet]
-Type = Gameshark
-Activation = EndFrame
-90071560 00010059
-
-[Select Rincewind's 2nd Item\Mallets (two)]
-Type = Gameshark
-Activation = EndFrame
-90071560 0001005A
-
-[Select Rincewind's 2nd Item\Mallets (three)]
-Type = Gameshark
-Activation = EndFrame
-90071560 0001005B
-
-[Select Rincewind's 2nd Item\Curtains]
-Type = Gameshark
-Activation = EndFrame
-90071560 0001005C
-
-[Select Rincewind's 2nd Item\Ink Well]
-Type = Gameshark
-Activation = EndFrame
-90071560 0001005D
-
-[Select Rincewind's 2nd Item\Beeswax (Black)]
-Type = Gameshark
-Activation = EndFrame
-90071560 0001005E
-
-[Select Rincewind's 2nd Item\Rope (Short)]
-Type = Gameshark
-Activation = EndFrame
-90071560 0001005F
-
-[Select Rincewind's 2nd Item\String]
-Type = Gameshark
-Activation = EndFrame
-90071560 00010060
-
-[Select Rincewind's 2nd Item\Candle (black)]
-Type = Gameshark
-Activation = EndFrame
-90071560 00010061
-
-[Select Rincewind's 2nd Item\Matches]
-Type = Gameshark
-Activation = EndFrame
-90071560 00010062
-
-[Select Rincewind's 2nd Item\Lit Candle (black)]
-Type = Gameshark
-Activation = EndFrame
-90071560 00010063
-
-[Select Rincewind's 2nd Item\Death Certificate]
-Type = Gameshark
-Activation = EndFrame
-90071560 00010064
-
-[Select Rincewind's 2nd Item\Hour Glass]
-Type = Gameshark
-Activation = EndFrame
-90071560 00010065
-
-[Select Rincewind's 2nd Item\Sugar Pot]
-Type = Gameshark
-Activation = EndFrame
-90071560 00010066
-
-[Select Rincewind's 2nd Item\Honey Pot (black)]
-Type = Gameshark
-Activation = EndFrame
-90071560 00010067
-
-[Select Rincewind's 2nd Item\Fishing Rod]
-Type = Gameshark
-Activation = EndFrame
-90071560 00010068
-
-[Select Rincewind's 2nd Item\Tooth]
-Type = Gameshark
-Activation = EndFrame
-90071560 00010069
-
-[Select Rincewind's 2nd Item\Dribbly Candles]
-Type = Gameshark
-Activation = EndFrame
-90071560 0001006A
-
-[Select Rincewind's 2nd Item\Rooster (sober)]
-Type = Gameshark
-Activation = EndFrame
-90071560 0001006B
-
-[Select Rincewind's 2nd Item\Rooster (plastered)]
-Type = Gameshark
-Activation = EndFrame
-90071560 0001006C
-
-[Select Rincewind's 2nd Item\Ectoplasm]
-Type = Gameshark
-Activation = EndFrame
-90071560 0001006D
-
-[Select Rincewind's 2nd Item\Bunny]
-Type = Gameshark
-Activation = EndFrame
-90071560 0001006E
-
-[Select Rincewind's 2nd Item\Pyjamas]
-Type = Gameshark
-Activation = EndFrame
-90071560 0001006F
-
-[Select Rincewind's 2nd Item\Bunny (w/ Pyjamas)]
-Type = Gameshark
-Activation = EndFrame
-90071560 00010070
-
-[Select Rincewind's 2nd Item\Reel]
-Type = Gameshark
-Activation = EndFrame
-90071560 00010071
-
-[Select Rincewind's 2nd Item\Reel (spliced)]
-Type = Gameshark
-Activation = EndFrame
-90071560 00010072
-
-[Select Rincewind's 2nd Item\Sugar]
-Type = Gameshark
-Activation = EndFrame
-90071560 00010073
-
-[Select Rincewind's 2nd Item\Mouse]
-Type = Gameshark
-Activation = EndFrame
-90071560 00010074
-
-[Select Rincewind's 2nd Item\Genie Bottle]
-Type = Gameshark
-Activation = EndFrame
-90071560 00010075
-
-[Select Rincewind's 2nd Item\Boots]
-Type = Gameshark
-Activation = EndFrame
-90071560 00010076
-
-[Select Rincewind's 2nd Item\Genie Bottle (W/ Boots)]
-Type = Gameshark
-Activation = EndFrame
-90071560 00010077
-
-[Select Rincewind's 2nd Item\Vile smell]
-Type = Gameshark
-Activation = EndFrame
-90071560 00010078
-
-[Select Rincewind's 2nd Item\Glitter Dust]
-Type = Gameshark
-Activation = EndFrame
-90071560 00010079
-
-[Select Rincewind's 2nd Item\Surfboard]
-Type = Gameshark
-Activation = EndFrame
-90071560 0001007A
-
-[Select Rincewind's 2nd Item\Surfboard (w/glue)]
-Type = Gameshark
-Activation = EndFrame
-90071560 0001007B
-
-[Select Rincewind's 2nd Item\Shark]
-Type = Gameshark
-Activation = EndFrame
-90071560 0001007C
-
-[Select Rincewind's 2nd Item\Stuffed Fish]
-Type = Gameshark
-Activation = EndFrame
-90071560 0001007D
-
-[Select Rincewind's 2nd Item\Librarian]
-Type = Gameshark
-Activation = EndFrame
-90071560 0001007E
-
-[Select Rincewind's 2nd Item\Suffrajester]
-Type = Gameshark
-Activation = EndFrame
-90071560 0001007F
-
-[Select Rincewind's 2nd Item\Ice]
-Type = Gameshark
-Activation = EndFrame
-90071560 00010080
-
-[Select Rincewind's 2nd Item\Imp]
-Type = Gameshark
-Activation = EndFrame
-90071560 00010081
-
-[Select Rincewind's 2nd Item\Camera]
-Type = Gameshark
-Activation = EndFrame
-90071560 00010082
-
-[Select Rincewind's 2nd Item\Camera (w/ Imp)]
-Type = Gameshark
-Activation = EndFrame
-90071560 00010083
-
-[Select Rincewind's 2nd Item\Incense]
-Type = Gameshark
-Activation = EndFrame
-90071560 00010084
-
-[Select Rincewind's 2nd Item\Incense (burning)]
-Type = Gameshark
-Activation = EndFrame
-90071560 00010085
-
-[Select Rincewind's 2nd Item\Ironing Board]
-Type = Gameshark
-Activation = EndFrame
-90071560 00010086
-
-[Select Rincewind's 2nd Item\Saw]
-Type = Gameshark
-Activation = EndFrame
-90071560 00010087
-
-[Select Rincewind's 2nd Item\Jingle]
-Type = Gameshark
-Activation = EndFrame
-90071560 00010088
-
-[Select Rincewind's 2nd Item\Ladder]
-Type = Gameshark
-Activation = EndFrame
-90071560 00010089
-
-[Select Rincewind's 2nd Item\Book]
-Type = Gameshark
-Activation = EndFrame
-90071560 0001008A
-
-[Select Rincewind's 2nd Item\Tablet]
-Type = Gameshark
-Activation = EndFrame
-90071560 0001008B
-
-[Select Rincewind's 2nd Item\Magnet]
-Type = Gameshark
-Activation = EndFrame
-90071560 0001008C
-
-[Select Rincewind's 2nd Item\Weight]
-Type = Gameshark
-Activation = EndFrame
-90071560 0001008D
-
-[Select Rincewind's 2nd Item\Pyramid]
-Type = Gameshark
-Activation = EndFrame
-90071560 0001008E
-
-[Select Rincewind's 2nd Item\Wires]
-Type = Gameshark
-Activation = EndFrame
-90071560 0001008F
-
-[Select Rincewind's 2nd Item\Ten Ton Weight]
-Type = Gameshark
-Activation = EndFrame
-90071560 00010090
-
-[Select Rincewind's 2nd Item\Trailer Key]
-Type = Gameshark
-Activation = EndFrame
-90071560 00010091
-
-[Select Rincewind's 2nd Item\Rag]
-Type = Gameshark
-Activation = EndFrame
-90071560 00010092
-
-[Select Rincewind's 2nd Item\Rag (Burning)]
-Type = Gameshark
-Activation = EndFrame
-90071560 00010093
-
-[Select Rincewind's 2nd Item\Mirror (fogged)]
-Type = Gameshark
-Activation = EndFrame
-90071560 00010094
-
-[Select Rincewind's 2nd Item\Mirror]
-Type = Gameshark
-Activation = EndFrame
-90071560 00010095
-
-[Select Rincewind's 2nd Item\Money Pouch]
-Type = Gameshark
-Activation = EndFrame
-90071560 00010096
-
-[Select Rincewind's 2nd Item\Mousie!!!]
-Type = Gameshark
-Activation = EndFrame
-90071560 00010097
-
-[Select Rincewind's 2nd Item\Test Tube]
-Type = Gameshark
-Activation = EndFrame
-90071560 00010098
-
-[Select Rincewind's 2nd Item\Teeth (w/blood)]
-Type = Gameshark
-Activation = EndFrame
-90071560 00010099
-
-[Select Rincewind's 2nd Item\Sticker]
-Type = Gameshark
-Activation = EndFrame
-90071560 0001009A
-
-[Select Rincewind's 2nd Item\Petticoat]
-Type = Gameshark
-Activation = EndFrame
-90071560 0001009B
-
-[Select Rincewind's 2nd Item\Pick]
-Type = Gameshark
-Activation = EndFrame
-90071560 0001009C
-
-[Select Rincewind's 2nd Item\Picnic Basket]
-Type = Gameshark
-Activation = EndFrame
-90071560 0001009D
-
-[Select Rincewind's 2nd Item\Picnic Basket (/w Food + Ants)]
-Type = Gameshark
-Activation = EndFrame
-90071560 0001009E
-
-[Select Rincewind's 2nd Item\Picnic Basket (/w Food)]
-Type = Gameshark
-Activation = EndFrame
-90071560 0001009F
-
-[Select Rincewind's 2nd Item\Ant Souls]
-Type = Gameshark
-Activation = EndFrame
-90071560 000100A0
-
-[Select Rincewind's 2nd Item\Plans]
-Type = Gameshark
-Activation = EndFrame
-90071560 000100A1
-
-[Select Rincewind's 2nd Item\Film]
-Type = Gameshark
-Activation = EndFrame
-90071560 000100A2
-
-[Select Rincewind's 2nd Item\Film (leftover)]
-Type = Gameshark
-Activation = EndFrame
-90071560 000100A3
-
-[Select Rincewind's 2nd Item\Reaper]
-Type = Gameshark
-Activation = EndFrame
-90071560 000100A4
-
-[Select Rincewind's 2nd Item\Robe]
-Type = Gameshark
-Activation = EndFrame
-90071560 000100A6
-
-[Select Rincewind's 2nd Item\Rotten Arm]
-Type = Gameshark
-Activation = EndFrame
-90071560 000100A7
-
-[Select Rincewind's 2nd Item\Rotten Arm (w/ Ring)]
-Type = Gameshark
-Activation = EndFrame
-90071560 000100A8
-
-[Select Rincewind's 2nd Item\Scythe]
-Type = Gameshark
-Activation = EndFrame
-90071560 000100A9
-
-[Select Rincewind's 2nd Item\Toy Cart]
-Type = Gameshark
-Activation = EndFrame
-90071560 000100AA
-
-[Select Rincewind's 2nd Item\Film (sheep)]
-Type = Gameshark
-Activation = EndFrame
-90071560 000100AB
-
-[Select Rincewind's 2nd Item\Snow Storms]
-Type = Gameshark
-Activation = EndFrame
-90071560 000100AC
-
-[Select Rincewind's 2nd Item\Stake]
-Type = Gameshark
-Activation = EndFrame
-90071560 000100AD
-
-[Select Rincewind's 2nd Item\Flamingo]
-Type = Gameshark
-Activation = EndFrame
-90071560 000100AE
-
-[Select Rincewind's 2nd Item\Test Tube (w/ Blood)]
-Type = Gameshark
-Activation = EndFrame
-90071560 000100AF
-
-[Select Rincewind's 2nd Item\Wading Bird]
-Type = Gameshark
-Activation = EndFrame
-90071560 000100B0
-
-[Select Rincewind's 2nd Item\Broom]
-Type = Gameshark
-Activation = EndFrame
-90071560 000100B1
-
-[Select Rincewind's 2nd Item\Ring]
-Type = Gameshark
-Activation = EndFrame
-90071560 000000C6
+[Select Rincewind's 1st Item]
+Type = Gameshark
+Activation = EndFrame
+Option = Nothing:0x10000
+Option = A Babe:0x10032
+Option = A Band:0x10034
+Option = Answer:0x10030
+Option = Ant Souls:0x100A0
+Option = Bandaged wooden Arm:0x10037
+Option = Bandages:0x10035
+Option = Beeswax (Black):0x1005E
+Option = Beeswax:0x10039
+Option = Bellows:0x1003B
+Option = Bent Stick:0x1003C
+Option = Bladders (empty):0x10045
+Option = Bladders (full):0x10046
+Option = Book:0x1008A
+Option = Boomerang Attached to rope:0x10038
+Option = Boomerang:0x1003E
+Option = Boots:0x10076
+Option = Brick:0x1003F
+Option = Brochure:0x10041
+Option = Broom:0x100B1
+Option = Bunny (with Pyjamas):0x10070
+Option = Bunny:0x1006E
+Option = Camera (with Imp):0x10083
+Option = Camera:0x10082
+Option = Candle (black):0x10061
+Option = Candy Rock:0x10042
+Option = Canteen (water from foutain):0x10047
+Option = Canteen:0x10044
+Option = Chili Pepper:0x10048
+Option = Cork:0x10052
+Option = Corn (with alcohol):0x10055
+Option = Corn:0x10053
+Option = Curtains:0x1005C
+Option = Death Certificate:0x10064
+Option = Dribbly Beeswax:0x1003A
+Option = Dribbly Candles:0x1006A
+Option = Ectoplasm:0x1006D
+Option = Film (leftover):0x100A3
+Option = Film (sheep):0x100AB
+Option = Film:0x100A2
+Option = Fishing Rod Baited with Black Honey:0x10033
+Option = Fishing Rod:0x10068
+Option = Flamingo:0x100AE
+Option = Genie Bottle (with Boots):0x10077
+Option = Genie Bottle:0x10075
+Option = Glitter Dust:0x10079
+Option = Glue:0x1004E
+Option = Haunted Brick:0x10040
+Option = Honey Pot (black):0x10067
+Option = Honey Pot:0x1004A
+Option = Hoops:0x10058
+Option = Hooter (with glue):0x1004F
+Option = Hooter:0x1004B
+Option = Horse Suit (with librarian):0x1004D
+Option = Horse Suit:0x1004C
+Option = Hour Glass:0x10065
+Option = Ice:0x10080
+Option = Imp:0x10081
+Option = Incense (burning):0x10085
+Option = Incense:0x10084
+Option = Ink Well:0x1005D
+Option = Ironing Board:0x10086
+Option = Jingle:0x10088
+Option = Key to Death's Door:0x1002E
+Option = Knife:0x10057
+Option = Ladder:0x10089
+Option = Librarian:0x1007E
+Option = Lit Candle (black):0x10063
+Option = Magnet:0x1008C
+Option = Mallet:0x10059
+Option = Mallets (three):0x1005B
+Option = Mallets (two):0x1005A
+Option = Matches:0x10062
+Option = Mirror (fogged):0x10094
+Option = Mirror:0x10095
+Option = Money Pouch:0x10096
+Option = Mouse:0x10074
+Option = Mousie!!!:0x10097
+Option = Petticoat:0x1009B
+Option = Pick:0x1009C
+Option = Picnic Basket (with Food + Ants):0x1009E
+Option = Picnic Basket (with Food):0x1009F
+Option = Picnic Basket:0x1009D
+Option = Plans:0x100A1
+Option = Pot:0x10049
+Option = Pyjamas:0x1006F
+Option = Pyramid:0x1008E
+Option = Rag (Burning):0x10093
+Option = Rag:0x10092
+Option = Reaper:0x100A4
+Option = Reel (spliced):0x10072
+Option = Reel:0x10071
+Option = Ring:0x000C6
+Option = Rite of AshkEnt:0x10031
+Option = Robe:0x100A6
+Option = Rooster (plastered):0x1006C
+Option = Rooster (sober):0x1006B
+Option = Rope (Short):0x1005F
+Option = Rope:0x1003D
+Option = Rotten Arm (with Ring):0x100A8
+Option = Rotten Arm:0x100A7
+Option = Saw:0x10087
+Option = Scissors:0x10043
+Option = Scythe:0x100A9
+Option = Shark:0x1007C
+Option = Snow Storms:0x100AC
+Option = Stake:0x100AD
+Option = Sticker:0x1009A
+Option = String:0x10060
+Option = Stuffed Fish:0x1007D
+Option = Suffrajester:0x1007F
+Option = Sugar Pot:0x10066
+Option = Sugar:0x10073
+Option = Surfboard (with glue):0x1007B
+Option = Surfboard:0x1007A
+Option = Tablet:0x1008B
+Option = Tankard:0x10054
+Option = Teeth (with blood):0x10099
+Option = Teeth:0x10056
+Option = Ten Ton Weight:0x10090
+Option = Test Tube (with Blood):0x100AF
+Option = Test Tube:0x10098
+Option = Tooth:0x10069
+Option = Toy Cart:0x100AA
+Option = Trailer Key:0x10091
+Option = Unicorn Suit (with Librarian):0x10051
+Option = Unicorn Suit:0x10050
+Option = Vile smell:0x10078
+Option = Wading Bird:0x100B0
+Option = Weight:0x1008D
+Option = Wires:0x1008F
+Option = Wooden Arm:0x10036
+9007155C 000?????
+
+[Select Rincewind's 2nd Item]
+Type = Gameshark
+Activation = EndFrame
+Option = Nothing:0x10000
+Option = A Babe:0x10032
+Option = A Band:0x10034
+Option = Answer:0x10030
+Option = Ant Souls:0x100A0
+Option = Bandaged wooden Arm:0x10037
+Option = Bandages:0x10035
+Option = Beeswax (Black):0x1005E
+Option = Beeswax:0x10039
+Option = Bellows:0x1003B
+Option = Bent Stick:0x1003C
+Option = Bladders (empty):0x10045
+Option = Bladders (full):0x10046
+Option = Book:0x1008A
+Option = Boomerang Attached to rope:0x10038
+Option = Boomerang:0x1003E
+Option = Boots:0x10076
+Option = Brick:0x1003F
+Option = Brochure:0x10041
+Option = Broom:0x100B1
+Option = Bunny (with Pyjamas):0x10070
+Option = Bunny:0x1006E
+Option = Camera (with Imp):0x10083
+Option = Camera:0x10082
+Option = Candle (black):0x10061
+Option = Candy Rock:0x10042
+Option = Canteen (water from foutain):0x10047
+Option = Canteen:0x10044
+Option = Chili Pepper:0x10048
+Option = Cork:0x10052
+Option = Corn (with alcohol):0x10055
+Option = Corn:0x10053
+Option = Curtains:0x1005C
+Option = Death Certificate:0x10064
+Option = Dribbly Beeswax:0x1003A
+Option = Dribbly Candles:0x1006A
+Option = Ectoplasm:0x1006D
+Option = Film (leftover):0x100A3
+Option = Film (sheep):0x100AB
+Option = Film:0x100A2
+Option = Fishing Rod Baited with Black Honey:0x10033
+Option = Fishing Rod:0x10068
+Option = Flamingo:0x100AE
+Option = Genie Bottle (with Boots):0x10077
+Option = Genie Bottle:0x10075
+Option = Glitter Dust:0x10079
+Option = Glue:0x1004E
+Option = Haunted Brick:0x10040
+Option = Honey Pot (black):0x10067
+Option = Honey Pot:0x1004A
+Option = Hoops:0x10058
+Option = Hooter (with glue):0x1004F
+Option = Hooter:0x1004B
+Option = Horse Suit (with librarian):0x1004D
+Option = Horse Suit:0x1004C
+Option = Hour Glass:0x10065
+Option = Ice:0x10080
+Option = Imp:0x10081
+Option = Incense (burning):0x10085
+Option = Incense:0x10084
+Option = Ink Well:0x1005D
+Option = Ironing Board:0x10086
+Option = Jingle:0x10088
+Option = Key to Death's Door:0x1002E
+Option = Knife:0x10057
+Option = Ladder:0x10089
+Option = Librarian:0x1007E
+Option = Lit Candle (black):0x10063
+Option = Magnet:0x1008C
+Option = Mallet:0x10059
+Option = Mallets (three):0x1005B
+Option = Mallets (two):0x1005A
+Option = Matches:0x10062
+Option = Mirror (fogged):0x10094
+Option = Mirror:0x10095
+Option = Money Pouch:0x10096
+Option = Mouse:0x10074
+Option = Mousie!!!:0x10097
+Option = Petticoat:0x1009B
+Option = Pick:0x1009C
+Option = Picnic Basket (with Food + Ants):0x1009E
+Option = Picnic Basket (with Food):0x1009F
+Option = Picnic Basket:0x1009D
+Option = Plans:0x100A1
+Option = Pot:0x10049
+Option = Pyjamas:0x1006F
+Option = Pyramid:0x1008E
+Option = Rag (Burning):0x10093
+Option = Rag:0x10092
+Option = Reaper:0x100A4
+Option = Reel (spliced):0x10072
+Option = Reel:0x10071
+Option = Ring:0x000C6
+Option = Rite of AshkEnt:0x10031
+Option = Robe:0x100A6
+Option = Rooster (plastered):0x1006C
+Option = Rooster (sober):0x1006B
+Option = Rope (Short):0x1005F
+Option = Rope:0x1003D
+Option = Rotten Arm (with Ring):0x100A8
+Option = Rotten Arm:0x100A7
+Option = Saw:0x10087
+Option = Scissors:0x10043
+Option = Scythe:0x100A9
+Option = Shark:0x1007C
+Option = Snow Storms:0x100AC
+Option = Stake:0x100AD
+Option = Sticker:0x1009A
+Option = String:0x10060
+Option = Stuffed Fish:0x1007D
+Option = Suffrajester:0x1007F
+Option = Sugar Pot:0x10066
+Option = Sugar:0x10073
+Option = Surfboard (with glue):0x1007B
+Option = Surfboard:0x1007A
+Option = Tablet:0x1008B
+Option = Tankard:0x10054
+Option = Teeth (with blood):0x10099
+Option = Teeth:0x10056
+Option = Ten Ton Weight:0x10090
+Option = Test Tube (with Blood):0x100AF
+Option = Test Tube:0x10098
+Option = Tooth:0x10069
+Option = Toy Cart:0x100AA
+Option = Trailer Key:0x10091
+Option = Unicorn Suit (with Librarian):0x10051
+Option = Unicorn Suit:0x10050
+Option = Vile smell:0x10078
+Option = Wading Bird:0x100B0
+Option = Weight:0x1008D
+Option = Wires:0x1008F
+Option = Wooden Arm:0x10036
+90071560 000?????
 

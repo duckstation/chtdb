@@ -11,6 +11,7 @@ Type = Gameshark
 Activation = EndFrame
 50000D02 0000
 801E7B2A 0100
+;#### PATCHES LISTED BELOW ####
 
 [Select Widescreen Aspect Ratio\16-9]
 Type = Gameshark

@@ -257,6 +257,102 @@ Type = Gameshark
 Activation = EndFrame
 A7044386 14402400
 
+[L3 to toggle Mirror (tap) and HUD (hold)]
+Type = Gameshark
+Activation = EndFrame
+A403EC74 02602021
+D7010001 00000200
+A0029524 1040000C
+;Always on
+90029524 00000001
+A0029524 0800A556
+;Default
+90029524 1040000C
+A0029524 00000000
+;Always off
+90029524 0800A556
+;Fixup canary
+A0029524 00000001
+90029524 00000000
+00000000 FFFF
+00000000 FFFF
+A403EC74 02602021
+D701003C 00000200
+F5029434 0022A530
+F5029436 14400800
+F5029424 BA060000
+F5029426 0C000000
+00000000 FFFF
+00000000 FFFF
+
+[Enable extra cameras in race]
+Type = Gameshark
+Activation = EndFrame
+A401F888 AEB40008
+A701031C 00030009
+A7010370 40F045C1
+;Replay off
+C30A92BC 0001
+A701171C 0106010E
+A7011778 45E945D7
+00000000 FFFF
+00000000 FFFF
+A401F888 AEB40008
+;Hold R1 to trigger a cinematic camera
+;Replay off
+C30A92BC 0001
+D701001E 01000008
+F5010148 40B6427F
+F5010A4C 006C8021
+F5010A4E 8C700000
+301FFA89 0002
+00000000 FFFF
+00000000 FFFF
+00000000 FFFF
+;Restore everything when replay is enabled
+A401F888 AEB40008
+C40A92BC 0000
+D001171C 010E
+8001171C 0106
+D0011778 45D7
+80011778 45E9
+A0010A4C 00008021
+90010A4C 8C70006C
+00000000 FFFF
+00000000 FFFF
+
+[True Endurance tweak]
+Type = Gameshark
+Activation = EndFrame
+;"Help" the game unload segments that normally are left unwritten to,
+;so further cheat detection is more reliable. This is safe as it overwrites dead code.
+;Reset the race overlay for Arcade
+A00529DC 801EFB39
+80057054 0000
+;Reset the race overlay for Simulation
+A0052A70 000000F6
+80057054 0000
+;Sets 2h Rome Endurance to 255 laps and hides the lap counter
+A4057054 260201C0
+;Set the endurance flag manually for 255 lap races, so replays work properly
+E01D586B 00FF
+E0046F69 0000
+30046F69 0001
+;Time limited race off
+E0046F69 0000
+;Restore the max laps counter
+A602CE24 00020006
+;Time limited race on
+C4046F69 0000
+;Turn off the max laps counter
+A702CE24 00060002
+;Set laps to 255
+E01D586B 0063
+301D586B 00FF
+00000000 FFFF
+00000000 FFFF
+;#### PATCHES LISTED BELOW ####
+
 [Widescreen 16-9]
 Type = Gameshark
 Activation = EndFrame
@@ -561,100 +657,5 @@ D121F88A AEB4
 A7016A7A 02250000
 D121F88A AEB4
 A7016A88 80000000
-00000000 FFFF
-
-[L3 to toggle Mirror (tap) and HUD (hold)]
-Type = Gameshark
-Activation = EndFrame
-A403EC74 02602021
-D7010001 00000200
-A0029524 1040000C
-;Always on
-90029524 00000001
-A0029524 0800A556
-;Default
-90029524 1040000C
-A0029524 00000000
-;Always off
-90029524 0800A556
-;Fixup canary
-A0029524 00000001
-90029524 00000000
-00000000 FFFF
-00000000 FFFF
-A403EC74 02602021
-D701003C 00000200
-F5029434 0022A530
-F5029436 14400800
-F5029424 BA060000
-F5029426 0C000000
-00000000 FFFF
-00000000 FFFF
-
-[Enable extra cameras in race]
-Type = Gameshark
-Activation = EndFrame
-A401F888 AEB40008
-A701031C 00030009
-A7010370 40F045C1
-;Replay off
-C30A92BC 0001
-A701171C 0106010E
-A7011778 45E945D7
-00000000 FFFF
-00000000 FFFF
-A401F888 AEB40008
-;Hold R1 to trigger a cinematic camera
-;Replay off
-C30A92BC 0001
-D701001E 01000008
-F5010148 40B6427F
-F5010A4C 006C8021
-F5010A4E 8C700000
-301FFA89 0002
-00000000 FFFF
-00000000 FFFF
-00000000 FFFF
-;Restore everything when replay is enabled
-A401F888 AEB40008
-C40A92BC 0000
-D001171C 010E
-8001171C 0106
-D0011778 45D7
-80011778 45E9
-A0010A4C 00008021
-90010A4C 8C70006C
-00000000 FFFF
-00000000 FFFF
-
-[True Endurance tweak]
-Type = Gameshark
-Activation = EndFrame
-;"Help" the game unload segments that normally are left unwritten to,
-;so further cheat detection is more reliable. This is safe as it overwrites dead code.
-;Reset the race overlay for Arcade
-A00529DC 801EFB39
-80057054 0000
-;Reset the race overlay for Simulation
-A0052A70 000000F6
-80057054 0000
-;Sets 2h Rome Endurance to 255 laps and hides the lap counter
-A4057054 260201C0
-;Set the endurance flag manually for 255 lap races, so replays work properly
-E01D586B 00FF
-E0046F69 0000
-30046F69 0001
-;Time limited race off
-E0046F69 0000
-;Restore the max laps counter
-A602CE24 00020006
-;Time limited race on
-C4046F69 0000
-;Turn off the max laps counter
-A702CE24 00060002
-;Set laps to 255
-E01D586B 0063
-301D586B 00FF
-00000000 FFFF
 00000000 FFFF
 

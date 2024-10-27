@@ -61,17 +61,6 @@ Type = Gameshark
 Activation = EndFrame
 800B4F5C 0001
 
-[Widescreen 16-9]
-Type = Gameshark
-Activation = EndFrame
-A70B5930 10000400
-A70B5934 19990666
-
-[Widescreen 16-9 (Vert-)]
-Type = Gameshark
-Activation = EndFrame
-A70B5934 19991333
-
 [Walk through walls "Press L3 to toggle on/off"]
 Type = Gameshark
 Activation = EndFrame
@@ -148,4 +137,16 @@ A705A372 10401000
 Type = Gameshark
 Activation = EndFrame
 A707664E 10401000
+;#### PATCHES LISTED BELOW ####
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+A70B5930 10000400
+A70B5934 19990666
+
+[Widescreen 16-9 (Vert-)]
+Type = Gameshark
+Activation = EndFrame
+A70B5934 19991333
 

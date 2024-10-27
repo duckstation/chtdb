@@ -222,6 +222,17 @@ Activation = EndFrame
 9004A790 03E703E7
 8004A794 03E7
 
+[Select Reverb\Disable Reverb]
+Type = Gameshark
+Activation = EndFrame
+A70367EE 10401000
+
+[Select Reverb\Maximize Reverb]
+Type = Gameshark
+Activation = EndFrame
+A70367EE 10402400
+;#### PATCHES LISTED BELOW ####
+
 [Select Widescreen Aspect Ratio\16-9]
 Type = Gameshark
 Activation = EndFrame
@@ -236,14 +247,4 @@ A7080B10 10000900
 Type = Gameshark
 Activation = EndFrame
 A7080B10 10000400
-
-[Select Reverb\Disable Reverb]
-Type = Gameshark
-Activation = EndFrame
-A70367EE 10401000
-
-[Select Reverb\Maximize Reverb]
-Type = Gameshark
-Activation = EndFrame
-A70367EE 10402400
 

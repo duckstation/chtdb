@@ -970,6 +970,8 @@ Activation = EndFrame
 Type = Gameshark
 Activation = EndFrame
 8007DDEC 01F4
+;;******PUGSY NOTE, WTW Info - on the first level you hit a BP on 800442A8 when you touch the wall
+;#### PATCHES LISTED BELOW ####
 
 [Widescreen 16-9]
 Type = Gameshark
@@ -977,5 +979,4 @@ Activation = EndFrame
 8001EDDE 241B
 8001EDDC 0C00
 80033C92 A7BB
-;;******PUGSY NOTE, WTW Info - on the first level you hit a BP on 800442A8 when you touch the wall
 

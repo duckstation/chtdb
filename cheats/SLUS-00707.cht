@@ -105,11 +105,6 @@ E00BC76E 0004
 E00BC771 0080
 100BA032 03E8
 
-[FPS Unlock]
-Type = Gameshark
-Activation = EndFrame
-A70132A2 10401000
-
 [Solid Snow]
 Type = Gameshark
 Activation = EndFrame
@@ -129,6 +124,14 @@ A70CE902 14401400
 Type = Gameshark
 Activation = EndFrame
 A70CEDF2 10401000
+
+[Turbo fire "Hold R2+X"]
+Type = Gameshark
+Activation = EndFrame
+A7044A92 10001040
+D7200000 00000042
+A7044A92 10401000
+;#### PATCHES LISTED BELOW ####
 
 [Select Widescreen Aspect Ratio\16-9]
 Type = Gameshark
@@ -154,10 +157,8 @@ Activation = EndFrame
 A70A8FF0 00020001
 A70AB38C 00020001
 
-[Turbo fire "Hold R2+X"]
+[FPS Unlock]
 Type = Gameshark
 Activation = EndFrame
-A7044A92 10001040
-D7200000 00000042
-A7044A92 10401000
+A70132A2 10401000
 

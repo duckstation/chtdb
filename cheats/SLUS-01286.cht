@@ -20,11 +20,6 @@ Type = Gameshark
 Activation = EndFrame
 80077456 1000
 
-[FPS unlocker]
-Type = Gameshark
-Activation = EndFrame
-A701FD2A 0C021400
-
 [Pause doesn't darken screen or mute music]
 Type = Gameshark
 Activation = EndFrame
@@ -35,4 +30,10 @@ A7087012 12001000
 Type = Gameshark
 Activation = EndFrame
 A706381A 0C002400
+;#### PATCHES LISTED BELOW ####
+
+[FPS unlocker]
+Type = Gameshark
+Activation = EndFrame
+A701FD2A 0C021400
 

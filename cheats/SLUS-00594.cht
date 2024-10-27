@@ -336,6 +336,18 @@ Activation = EndFrame
 D00AE0C8 001F
 300AE1C8 0000
 
+[Pause doesn't darken screen or mute music]
+Type = Gameshark
+Activation = EndFrame
+A704BB22 10A01000
+A7087012 12001000
+
+[Stealth camo doesn't make you translucent]
+Type = Gameshark
+Activation = EndFrame
+A706381A 0C002400
+;#### PATCHES LISTED BELOW ####
+
 [Widescreen 16-9]
 Type = Gameshark
 Activation = EndFrame
@@ -372,15 +384,4 @@ Activation = EndFrame
 Type = Gameshark
 Activation = EndFrame
 A701FD2A 0C021400
-
-[Pause doesn't darken screen or mute music]
-Type = Gameshark
-Activation = EndFrame
-A704BB22 10A01000
-A7087012 12001000
-
-[Stealth camo doesn't make you translucent]
-Type = Gameshark
-Activation = EndFrame
-A706381A 0C002400
 
