@@ -26,70 +26,23 @@ Activation = EndFrame
 D003BD58 0000
 3003BD58 0001
 
-[P1 Select Character\Storm]
+[P1 Select Character]
 Type = Gameshark
 Activation = EndFrame
-8003BE58 0100
-
-[P1 Select Character\Cyclops]
-Type = Gameshark
-Activation = EndFrame
-8003BE58 0101
-
-[P1 Select Character\Wolverine]
-Type = Gameshark
-Activation = EndFrame
-8003BE58 0102
-
-[P1 Select Character\Omega Red]
-Type = Gameshark
-Activation = EndFrame
-8003BE58 0103
-
-[P1 Select Character\Sentinel]
-Type = Gameshark
-Activation = EndFrame
-8003BE58 0104
-
-[P1 Select Character\Iceman]
-Type = Gameshark
-Activation = EndFrame
-8003BE58 0105
-
-[P1 Select Character\Colussus]
-Type = Gameshark
-Activation = EndFrame
-8003BE58 0106
-
-[P1 Select Character\Psylocke]
-Type = Gameshark
-Activation = EndFrame
-8003BE58 0107
-
-[P1 Select Character\Silver Samurai]
-Type = Gameshark
-Activation = EndFrame
-8003BE58 0108
-
-[P1 Select Character\Spiral]
-Type = Gameshark
-Activation = EndFrame
-8003BE58 0109
-
-[P1 Select Character\Juggernaut]
-Type = Gameshark
-Activation = EndFrame
-8003BE58 010A
-
-[P1 Select Character\Magneto]
-Type = Gameshark
-Activation = EndFrame
-8003BE58 010B
-
-[P1 Select Character\Akuma]
-Type = Gameshark
-Activation = EndFrame
-8003BE58 010C
+8003BE58 ????
+Option = Storm:0x0100
+Option = Cyclops:0x0101
+Option = Wolverine:0x0102
+Option = Omega Red:0x0103
+Option = Sentinel:0x0104
+Option = Iceman:0x0105
+Option = Colussus:0x0106
+Option = Psylocke:0x0107
+Option = Silver Samurai:0x0108
+Option = Spiral:0x0109
+Option = Juggernaut:0x010A
+Option = Magneto:0x010B
+Option = Akuma:0x010C
 
 [P2 Infinite Energy]
 Type = Gameshark

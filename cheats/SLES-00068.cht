@@ -1,24 +1,16 @@
 ; CHTDB: ; [ NBA Jam: Tournament Edition aka NBA Jam T.E.: Tournament Edition (Europe) {SLES-00068} ]
 
-[Select Home Team Score\100]
+[Select Home Team Score]
 Type = Gameshark
 Activation = EndFrame
-8007D4D4 0064
+8007D4D4 00??
+OptionRange = 0:100
 
-[Select Home Team Score\0]
+[Select Away Team Score]
 Type = Gameshark
 Activation = EndFrame
-8007D4D4 0000
-
-[Select Away Team Score\100]
-Type = Gameshark
-Activation = EndFrame
-8007D4D8 0064
-
-[Select Away Team Score\0]
-Type = Gameshark
-Activation = EndFrame
-8007D4D8 0000
+8007D4D8 00??
+OptionRange = 0:100
 
 [Infinite Time]
 Type = Gameshark

@@ -21,25 +21,14 @@ Type = Gameshark
 Activation = EndFrame
 3010E63E 0063
 
-[Unlocked\All Tracks At Day]
+[Select Unlocked Tracks]
 Type = Gameshark
 Activation = EndFrame
-300A66A2 0001
-
-[Unlocked\All Tracks At Night]
-Type = Gameshark
-Activation = EndFrame
-300A66A2 0002
-
-[Unlocked\All Reverse Tracks At Day]
-Type = Gameshark
-Activation = EndFrame
-300A66A2 0003
-
-[Unlocked\All Reverse Tracks At Night]
-Type = Gameshark
-Activation = EndFrame
-300A66A2 0004
+300A66A2 ????
+Option = All Tracks At Day:0x0001
+Option = All Tracks At Night:0x0002
+Option = All Reverse Tracks At Day:0x0003
+Option = All Reverse Tracks At Night:0x0004
 
 [Unlocked\'The Gimp']
 Type = Gameshark

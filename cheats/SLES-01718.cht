@@ -10,15 +10,17 @@ Type = Gameshark
 Activation = EndFrame
 80055F7A 0009
 
-[No. Of Neds To Capture ?00-FF]
+[Select No. Of Neds To Capture]
 Type = Gameshark
 Activation = EndFrame
 80055FBA 00??
+OptionRange = 0:255
 
-[No. Of Neds Captured ?00-FF]
+[Select No. Of Neds Captured]
 Type = Gameshark
 Activation = EndFrame
 80055FBE 00??
+OptionRange = 0:255
 
 [Infinite Blaster-Ammo]
 Type = Gameshark

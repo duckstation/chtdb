@@ -16,33 +16,14 @@ Activation = EndFrame
 80083EB8 00B4
 80083EC0 00B4
 
-[Select Legendary Mode Character\Carmilla]
+[Select Legendary Mode Character]
 Type = Gameshark
 Activation = EndFrame
-8014BB94 0002
-
-[Select Legendary Mode Character\Goldrush]
-Type = Gameshark
-Activation = EndFrame
-8014BB94 0003
-
-[Select Legendary Mode Character\Ghom]
-Type = Gameshark
-Activation = EndFrame
-8014BB94 0004
-
-[Select Legendary Mode Character\Jinny]
-Type = Gameshark
-Activation = EndFrame
-8014BB94 0005
-
-[Select Legendary Mode Character\Fatman]
-Type = Gameshark
-Activation = EndFrame
-8014BB94 0006
-
-[Select Legendary Mode Character\Red Dawn]
-Type = Gameshark
-Activation = EndFrame
-8014BB94 0007
+8014BB94 ????
+Option = Carmilla:0x0002
+Option = Goldrush:0x0003
+Option = Ghom:0x0004
+Option = Jinny:0x0005
+Option = Fatman:0x0006
+Option = Red Dawn:0x0007
 

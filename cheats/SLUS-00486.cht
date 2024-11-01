@@ -42,50 +42,19 @@ Activation = EndFrame
 900DCD08 FFFFFFFF
 800DCD0C 001F
 
-[Select Stage\Practice]
+[Select Stage]
 Type = Gameshark
 Activation = EndFrame
-800DB0E0 0000
-
-[Select Stage\Flatland]
-Type = Gameshark
-Activation = EndFrame
-800DB0E0 0001
-
-[Select Stage\Moi Island]
-Type = Gameshark
-Activation = EndFrame
-800DB0E0 0002
-
-[Select Stage\Park]
-Type = Gameshark
-Activation = EndFrame
-800DB0E0 0003
-
-[Select Stage\Robots]
-Type = Gameshark
-Activation = EndFrame
-800DB0E0 0004
-
-[Select Stage\Desert]
-Type = Gameshark
-Activation = EndFrame
-800DB0E0 0005
-
-[Select Stage\Iceberg]
-Type = Gameshark
-Activation = EndFrame
-800DB0E0 0006
-
-[Select Stage\Stage Infinity]
-Type = Gameshark
-Activation = EndFrame
-800DB0E0 0007
-
-[Select Stage\Technical Bonus]
-Type = Gameshark
-Activation = EndFrame
-800DB0E0 0008
+800DB0E0 ????
+Option = Practice:0x0000
+Option = Flatland:0x0001
+Option = Moi Island:0x0002
+Option = Park:0x0003
+Option = Robots:0x0004
+Option = Desert:0x0005
+Option = Iceberg:0x0006
+Option = Stage Infinity:0x0007
+Option = Technical Bonus:0x0008
 ;#### PATCHES LISTED BELOW ####
 
 [Select Widescreen Aspect Ratio\16-9]

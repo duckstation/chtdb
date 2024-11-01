@@ -20,143 +20,36 @@ Type = Gameshark
 Activation = EndFrame
 8019825A 0090
 
-[P1 Select Character\Ryu (Arcade Mode)]
+[P1 Select Character]
 Type = Gameshark
 Activation = EndFrame
-8019823A 0000
-
-[P1 Select Character\Ken (Arcade Mode)]
-Type = Gameshark
-Activation = EndFrame
-8019823A 0100
-
-[P1 Select Character\Akuma (Arcade Mode)]
-Type = Gameshark
-Activation = EndFrame
-8019823A 0200
-
-[P1 Select Character\Charlie (Arcade Mode)]
-Type = Gameshark
-Activation = EndFrame
-8019823A 0300
-
-[P1 Select Character\Chun Li (Arcade Mode)]
-Type = Gameshark
-Activation = EndFrame
-8019823A 0400
-
-[P1 Select Character\Adon (Arcade Mode)]
-Type = Gameshark
-Activation = EndFrame
-8019823A 0500
-
-[P1 Select Character\Sodom (Arcade Mode)]
-Type = Gameshark
-Activation = EndFrame
-8019823A 0600
-
-[P1 Select Character\Guy (Arcade Mode)]
-Type = Gameshark
-Activation = EndFrame
-8019823A 0700
-
-[P1 Select Character\Birdie (Arcade Mode)]
-Type = Gameshark
-Activation = EndFrame
-8019823A 0800
-
-[P1 Select Character\Rose (Arcade Mode)]
-Type = Gameshark
-Activation = EndFrame
-8019823A 0900
-
-[P1 Select Character\M.Bison (Arcade Mode)]
-Type = Gameshark
-Activation = EndFrame
-8019823A 0A00
-
-[P1 Select Character\Sagat (Arcade Mode)]
-Type = Gameshark
-Activation = EndFrame
-8019823A 0B00
-
-[P1 Select Character\Dan (Arcade Mode)]
-Type = Gameshark
-Activation = EndFrame
-8019823A 0C00
-
-[P1 Select Character\Sakura (Arcade Mode)]
-Type = Gameshark
-Activation = EndFrame
-8019823A 0D00
-
-[P1 Select Character\Rolento (Arcade Mode)]
-Type = Gameshark
-Activation = EndFrame
-8019823A 0E00
-
-[P1 Select Character\Dhalsim (Arcade Mode)]
-Type = Gameshark
-Activation = EndFrame
-8019823A 0F00
-
-[P1 Select Character\Zangief (Arcade Mode)]
-Type = Gameshark
-Activation = EndFrame
-8019823A 1000
-
-[P1 Select Character\Gen (Arcade Mode)]
-Type = Gameshark
-Activation = EndFrame
-8019823A 1100
-
-[P1 Select Character\Chun Li (SSF2 Turbo) (Arcade Mode)]
-Type = Gameshark
-Activation = EndFrame
-8019823A 1200
-
-[P1 Select Character\Gen (New) (Arcade Mode)]
-Type = Gameshark
-Activation = EndFrame
-8019823A 1300
-
-[P1 Select Character\Akuma (New) (Arcade Mode)]
-Type = Gameshark
-Activation = EndFrame
-8019823A 1400
-
-[P1 Select Character\Ryu (New) (Arcade Mode)]
-Type = Gameshark
-Activation = EndFrame
-8019823A 1500
-
-[P1 Select Character\Akuma (Alt) (New) (Arcade Mode)]
-Type = Gameshark
-Activation = EndFrame
-8019823A 1600
-
-[P1 Select Character\Rose (New) (Arcade Mode)]
-Type = Gameshark
-Activation = EndFrame
-8019823A 1700
-
-[P1 Select Character\Rolento (New) (Arcade Mode)]
-Type = Gameshark
-Activation = EndFrame
-8019823A 1800
-
-[P1 Select Character\Gen (Alt) (New) (Arcade Mode)]
-Type = Gameshark
-Activation = EndFrame
-8019823A 1900
-
-[P1 Select Character\Ken (New) (Arcade Mode)]
-Type = Gameshark
-Activation = EndFrame
-8019823A 1A00
-
-[P1 Select Character\Ryu (Alt) (New) (Arcade Mode)]
-Type = Gameshark
-Activation = EndFrame
-8019823A 1B00
+8019823A ????
+Option = Ryu (Arcade Mode):0x0000
+Option = Ken (Arcade Mode):0x0100
+Option = Akuma (Arcade Mode):0x0200
+Option = Charlie (Arcade Mode):0x0300
+Option = Chun Li (Arcade Mode):0x0400
+Option = Adon (Arcade Mode):0x0500
+Option = Sodom (Arcade Mode):0x0600
+Option = Guy (Arcade Mode):0x0700
+Option = Birdie (Arcade Mode):0x0800
+Option = Rose (Arcade Mode):0x0900
+Option = M.Bison (Arcade Mode):0x0A00
+Option = Sagat (Arcade Mode):0x0B00
+Option = Dan (Arcade Mode):0x0C00
+Option = Sakura (Arcade Mode):0x0D00
+Option = Rolento (Arcade Mode):0x0E00
+Option = Dhalsim (Arcade Mode):0x0F00
+Option = Zangief (Arcade Mode):0x1000
+Option = Gen (Arcade Mode):0x1100
+Option = Chun Li (SSF2 Turbo) (Arcade Mode):0x1200
+Option = Gen (New) (Arcade Mode):0x1300
+Option = Akuma (New) (Arcade Mode):0x1400
+Option = Ryu (New) (Arcade Mode):0x1500
+Option = Akuma (Alt) (New) (Arcade Mode):0x1600
+Option = Rose (New) (Arcade Mode):0x1700
+Option = Rolento (New) (Arcade Mode):0x1800
+Option = Gen (Alt) (New) (Arcade Mode):0x1900
+Option = Ken (New) (Arcade Mode):0x1A00
+Option = Ryu (Alt) (New) (Arcade Mode):0x1B00
 

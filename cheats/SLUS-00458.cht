@@ -100,98 +100,27 @@ Type = Gameshark
 Activation = EndFrame
 800862A4 0500
 
-[Select Starting Stage\1 Volcano]
+[Select Starting Stage]
 Type = Gameshark
 Activation = EndFrame
-300CCA3E 0000
-
-[Select Starting Stage\2 Abandoned Subway]
-Type = Gameshark
-Activation = EndFrame
-300CCA3E 0001
-
-[Select Starting Stage\3 Nuclear Power Facility]
-Type = Gameshark
-Activation = EndFrame
-300CCA3E 0002
-
-[Select Starting Stage\4 Thermal Power Station]
-Type = Gameshark
-Activation = EndFrame
-300CCA3E 0003
-
-[Select Starting Stage\5 Federal Bank Vault]
-Type = Gameshark
-Activation = EndFrame
-300CCA3E 0004
-
-[Select Starting Stage\6 Prison Ship]
-Type = Gameshark
-Activation = EndFrame
-300CCA3E 0005
-
-[Select Starting Stage\7 Asteroid Base]
-Type = Gameshark
-Activation = EndFrame
-300CCA3E 0006
-
-[Select Starting Stage\8 Biosphere]
-Type = Gameshark
-Activation = EndFrame
-300CCA3E 0007
-
-[Select Starting Stage\9 Sub Terran Decontamination Unit]
-Type = Gameshark
-Activation = EndFrame
-300CCA3E 0008
-
-[Select Starting Stage\10 Capsized Ship]
-Type = Gameshark
-Activation = EndFrame
-300CCA3E 0009
-
-[Select Starting Stage\11 Orbital Space Station]
-Type = Gameshark
-Activation = EndFrame
-300CCA3E 000A
-
-[Select Starting Stage\12 Military Research Base]
-Type = Gameshark
-Activation = EndFrame
-300CCA3E 000B
-
-[Select Starting Stage\13 Temple of Tloloc]
-Type = Gameshark
-Activation = EndFrame
-300CCA3E 000C
-
-[Select Starting Stage\14 Ancient Temple]
-Type = Gameshark
-Activation = EndFrame
-300CCA3E 000D
-
-[Select Starting Stage\15 Death Match - Pandora's Box]
-Type = Gameshark
-Activation = EndFrame
-300CCA3E 000E
-
-[Select Starting Stage\16 Death Match - Ship]
-Type = Gameshark
-Activation = EndFrame
-300CCA3E 000F
-
-[Select Starting Stage\17 Death Match - Alpha]
-Type = Gameshark
-Activation = EndFrame
-300CCA3E 0010
-
-[Select Starting Stage\18 Death Match - Arena]
-Type = Gameshark
-Activation = EndFrame
-300CCA3E 0011
-
-[Select Starting Stage\19 Death Match - Nuke]
-Type = Gameshark
-Activation = EndFrame
-300CCA3E 0012
+300CCA3E ????
+Option = 1 Volcano:0x0000
+Option = 2 Abandoned Subway:0x0001
+Option = 3 Nuclear Power Facility:0x0002
+Option = 4 Thermal Power Station:0x0003
+Option = 5 Federal Bank Vault:0x0004
+Option = 6 Prison Ship:0x0005
+Option = 7 Asteroid Base:0x0006
+Option = 8 Biosphere:0x0007
+Option = 9 Sub Terran Decontamination Unit:0x0008
+Option = 10 Capsized Ship:0x0009
+Option = 11 Orbital Space Station:0x000A
+Option = 12 Military Research Base:0x000B
+Option = 13 Temple of Tloloc:0x000C
+Option = 14 Ancient Temple:0x000D
+Option = 15 Death Match - Pandora's Box:0x000E
+Option = 16 Death Match - Ship:0x000F
+Option = 17 Death Match - Alpha:0x0010
+Option = 18 Death Match - Arena:0x0011
+Option = 19 Death Match - Nuke:0x0012
 

@@ -1,24 +1,16 @@
 ; CHTDB: ; [ NCAA March Madness 2000 (USA) (1999) (Electronic Arts) {SLUS-01023} <ncaamm2k> ]
 
-[Select Home Team Score\100]
+[Select Home Team Score]
 Type = Gameshark
 Activation = EndFrame
-800153EC 0064
+800153EC 00??
+OptionRange = 0:100
 
-[Select Home Team Score\0]
+[Select Away Team Score]
 Type = Gameshark
 Activation = EndFrame
-800153EC 0000
-
-[Select Away Team Score\100]
-Type = Gameshark
-Activation = EndFrame
-80016828 0064
-
-[Select Away Team Score\0]
-Type = Gameshark
-Activation = EndFrame
-80016828 0000
+80016828 00??
+OptionRange = 0:100
 
 [Infinite Creation Points]
 Type = Gameshark

@@ -1,22 +1,14 @@
 ; CHTDB: ; [ Adidas Power Soccer (USA) (1996) (Psygnosis) {SCUS-94502} <adidas> ]
 
-[Select Home Team Score\9 Goals]
+[Select Home Team Score]
 Type = Gameshark
 Activation = EndFrame
-800DAC4E 0009
+800DAC4E 00??
+OptionRange = 0:9
 
-[Select Home Team Score\0 Goals]
+[Select Away Team Score]
 Type = Gameshark
 Activation = EndFrame
-800DAC4E 0000
-
-[Select Away Team Score\9 Goals]
-Type = Gameshark
-Activation = EndFrame
-800DAC50 0009
-
-[Select Away Team Score\0 Goals]
-Type = Gameshark
-Activation = EndFrame
-800DAC50 0000
+800DAC50 00??
+OptionRange = 0:9
 

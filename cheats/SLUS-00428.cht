@@ -12,25 +12,14 @@ Activation = EndFrame
 901DF5D4 63636363
 801DF5CE 0632
 
-[Select Character\Abbadon]
+[Select Character]
 Type = Gameshark
 Activation = EndFrame
-801D0094 000E
-
-[Select Character\Agent 326]
-Type = Gameshark
-Activation = EndFrame
-801D0094 000C
-
-[Select Character\Mr. Phatt]
-Type = Gameshark
-Activation = EndFrame
-801D0094 000D
-
-[Select Character\Overseer]
-Type = Gameshark
-Activation = EndFrame
-801D0094 000F
+801D0094 ????
+Option = Abbadon:0x000E
+Option = Agent 326:0x000C
+Option = Mr. Phatt:0x000D
+Option = Overseer:0x000F
 ;#### PATCHES LISTED BELOW ####
 
 [Select Widescreen Aspect Ratio\16-9]

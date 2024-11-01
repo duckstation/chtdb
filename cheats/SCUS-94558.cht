@@ -1,24 +1,16 @@
 ; CHTDB: ; [ NHL FaceOff 2000 (USA) (1999) (989 Sports) {SCUS-94558} <nhlfce2k> ]
 
-[Select Home Team Score\9]
+[Select Home Team Score]
 Type = Gameshark
 Activation = EndFrame
-800CCFD6 0009
+800CCFD6 00??
+OptionRange = 0:9
 
-[Select Home Team Score\0]
+[Select Away Team Score]
 Type = Gameshark
 Activation = EndFrame
-800CCFD6 0000
-
-[Select Away Team Score\9]
-Type = Gameshark
-Activation = EndFrame
-800CCFD8 0009
-
-[Select Away Team Score\0]
-Type = Gameshark
-Activation = EndFrame
-800CCFD8 0000
+800CCFD8 00??
+OptionRange = 0:9
 
 [Infinite Creation Points]
 Type = Gameshark

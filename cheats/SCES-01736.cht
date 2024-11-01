@@ -1,24 +1,16 @@
 ; CHTDB: ; [ NHL FaceOff 99 (Europe) {SCES-01736} ]
 
-[Select Home Team Score\9]
+[Select Home Team Score]
 Type = Gameshark
 Activation = EndFrame
-800D4BE0 0009
+800D4BE0 00??
+OptionRange = 0:9
 
-[Select Home Team Score\0]
+[Select Away Team Score]
 Type = Gameshark
 Activation = EndFrame
-800D4BE0 0000
-
-[Select Away Team Score\9]
-Type = Gameshark
-Activation = EndFrame
-800D4BDE 0009
-
-[Select Away Team Score\0]
-Type = Gameshark
-Activation = EndFrame
-800D4BDE 0000
+800D4BDE 00??
+OptionRange = 0:9
 
 [Character Creation Codes\Max Skating Press Right+L2+R2+O to activate]
 Type = Gameshark

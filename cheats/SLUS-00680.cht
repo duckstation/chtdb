@@ -63,28 +63,13 @@ Type = Gameshark
 Activation = EndFrame
 80078BF0 0006
 
-[Select Text Language\English]
+[Select Text Language]
 Type = Gameshark
 Activation = EndFrame
-80078A94 0000
-
-[Select Text Language\German]
-Type = Gameshark
-Activation = EndFrame
-80078A94 0001
-
-[Select Text Language\French]
-Type = Gameshark
-Activation = EndFrame
-80078A94 0002
-
-[Select Text Language\Italian]
-Type = Gameshark
-Activation = EndFrame
-80078A94 0003
-
-[Select Text Language\Spanish]
-Type = Gameshark
-Activation = EndFrame
-80078A94 0004
+80078A94 ????
+Option = English:0x0000
+Option = French:0x0002
+Option = German:0x0001
+Option = Italian:0x0003
+Option = Spanish:0x0004
 

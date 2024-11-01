@@ -29,90 +29,27 @@ Type = Gameshark
 Activation = EndFrame
 800A39CA 2400
 
-[Select Level\Dead River Canyon]
+[Select Level]
 Type = Gameshark
 Activation = EndFrame
-800714FE 0000
-
-[Select Level\Mortar-Villa Airfield]
-Type = Gameshark
-Activation = EndFrame
-800714FE 0001
-
-[Select Level\Underground Recycling Plant 1]
-Type = Gameshark
-Activation = EndFrame
-800714FE 0002
-
-[Select Level\Raw Material Nano Mine]
-Type = Gameshark
-Activation = EndFrame
-800714FE 0003
-
-[Select Level\Desert Robo-Train]
-Type = Gameshark
-Activation = EndFrame
-800714FE 0004
-
-[Select Level\Nanometal Curing + Cooling Center]
-Type = Gameshark
-Activation = EndFrame
-800714FE 0005
-
-[Select Level\The Nanometal Mountain]
-Type = Gameshark
-Activation = EndFrame
-800714FE 0006
-
-[Select Level\Steel-Earth Plains]
-Type = Gameshark
-Activation = EndFrame
-800714FE 0007
-
-[Select Level\Atmospheric Reduction Center]
-Type = Gameshark
-Activation = EndFrame
-800714FE 0008
-
-[Select Level\Magneto Synchrotron Transporter]
-Type = Gameshark
-Activation = EndFrame
-800714FE 0009
-
-[Select Level\Underground Recycling Plant 2]
-Type = Gameshark
-Activation = EndFrame
-800714FE 000A
-
-[Select Level\The Frozen Lake]
-Type = Gameshark
-Activation = EndFrame
-800714FE 000B
-
-[Select Level\Mount Mutank]
-Type = Gameshark
-Activation = EndFrame
-800714FE 000C
-
-[Select Level\The Rail Gun Launcher]
-Type = Gameshark
-Activation = EndFrame
-800714FE 000D
-
-[Select Level\Unknown]
-Type = Gameshark
-Activation = EndFrame
-800714FE 000E
-
-[Select Level\The Maze (Final Mission)]
-Type = Gameshark
-Activation = EndFrame
-800714FE 000F
-
-[Select Level\Mutank Slide]
-Type = Gameshark
-Activation = EndFrame
-800714FE 0010
+800714FE ????
+Option = Dead River Canyon:0x0000
+Option = Mortar-Villa Airfield:0x0001
+Option = Underground Recycling Plant 1:0x0002
+Option = Raw Material Nano Mine:0x0003
+Option = Desert Robo-Train:0x0004
+Option = Nanometal Curing + Cooling Center:0x0005
+Option = The Nanometal Mountain:0x0006
+Option = Steel-Earth Plains:0x0007
+Option = Atmospheric Reduction Center:0x0008
+Option = Magneto Synchrotron Transporter:0x0009
+Option = Underground Recycling Plant 2:0x000A
+Option = The Frozen Lake:0x000B
+Option = Mount Mutank:0x000C
+Option = The Rail Gun Launcher:0x000D
+Option = Unknown:0x000E
+Option = The Maze (Final Mission):0x000F
+Option = Mutank Slide:0x0010
 ;#### PATCHES LISTED BELOW ####
 
 [Select Widescreen Aspect Ratio\16-9]

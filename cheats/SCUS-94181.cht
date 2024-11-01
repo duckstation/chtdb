@@ -16,45 +16,18 @@ Activation = EndFrame
 8006C810 FFFF
 8006C6F0 FFFF
 
-[Select Level\1]
+[Select Level]
 Type = Gameshark
 Activation = EndFrame
-8006C738 0001
-
-[Select Level\2]
-Type = Gameshark
-Activation = EndFrame
-8006C738 0002
-
-[Select Level\3]
-Type = Gameshark
-Activation = EndFrame
-8006C738 0003
-
-[Select Level\4]
-Type = Gameshark
-Activation = EndFrame
-8006C738 0004
-
-[Select Level\5]
-Type = Gameshark
-Activation = EndFrame
-8006C738 0005
-
-[Select Level\6]
-Type = Gameshark
-Activation = EndFrame
-8006C738 0006
-
-[Select Level\7]
-Type = Gameshark
-Activation = EndFrame
-8006C738 0007
-
-[Select Level\8]
-Type = Gameshark
-Activation = EndFrame
-8006C738 0008
+8006C738 ????
+Option = 1:0x0001
+Option = 2:0x0002
+Option = 3:0x0003
+Option = 4:0x0004
+Option = 5:0x0005
+Option = 6:0x0006
+Option = 7:0x0007
+Option = 8:0x0008
 ;#### PATCHES LISTED BELOW ####
 
 [Select Widescreen Aspect Ratio\16-9]

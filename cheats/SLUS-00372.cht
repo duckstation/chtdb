@@ -1,44 +1,22 @@
 ; CHTDB: ; [ Star Gladiator - Episode I - Final Crusade (USA) (1996) (Capcom Entertainment) {SLUS-00372} <starglad> ]
 
-[P1 Select Character\Blistein]
+[P1 Select Character]
 Type = Gameshark
 Activation = EndFrame
-301D867A 000A
+301D867A ????
+Option = Blistein:0x000A
+Option = Kappah:0x000B
+Option = Blood:0x000C
+Option = Real Blistein:0x000D
 
-[P1 Select Character\Kappah]
+[P2 Select Character]
 Type = Gameshark
 Activation = EndFrame
-301D867A 000B
-
-[P1 Select Character\Blood]
-Type = Gameshark
-Activation = EndFrame
-301D867A 000C
-
-[P1 Select Character\Real Blistein]
-Type = Gameshark
-Activation = EndFrame
-301D867A 000D
-
-[P2 Select Character\Blistein]
-Type = Gameshark
-Activation = EndFrame
-301D867B 000A
-
-[P2 Select Character\Kappah]
-Type = Gameshark
-Activation = EndFrame
-301D867B 000B
-
-[P2 Select Character\Blood]
-Type = Gameshark
-Activation = EndFrame
-301D867B 000C
-
-[P2 Select Character\Real Blistein]
-Type = Gameshark
-Activation = EndFrame
-301D867B 000D
+301D867B ????
+Option = Blistein:0x000A
+Option = Kappah:0x000B
+Option = Blood:0x000C
+Option = Real Blistein:0x000D
 
 [P1 Infinite Health]
 Type = Gameshark

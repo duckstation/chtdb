@@ -15,22 +15,22 @@ Type = Gameshark
 Activation = EndFrame
 300D291B 0064
 
-[Select Cheat\Invincibility]
+[Enable Inbuilt Cheat - Invincibility]
 Type = Gameshark
 Activation = EndFrame
 81069D7C 0001
 
-[Select Cheat\First Person view]
+[Enable Inbuilt Cheat - First Person view]
 Type = Gameshark
 Activation = EndFrame
 81069D7C 0002
 
-[Select Cheat\Give clues]
+[Enable Inbuilt Cheat - Give clues]
 Type = Gameshark
 Activation = EndFrame
 81069D7C 0004
 
-[Select Cheat\Level Select]
+[Enable Inbuilt Cheat - Level Select]
 Description = Pause game for it; X and Triangle to toggle it; press Start to load level; L1 to increase milliseconds; L2 to increase seconds
 Type = Gameshark
 Activation = EndFrame

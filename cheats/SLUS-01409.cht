@@ -19,43 +19,16 @@ C00D2DCE FBFF
 8011A6C8 0010
 00000000 FFFF
 
-[Select Starting Level\Level 1]
+[Select Starting Level]
 Type = Gameshark
 Activation = EndFrame
-300D5510 0000
-
-[Select Starting Level\Level 2]
-Type = Gameshark
-Activation = EndFrame
-300D5510 0001
-
-[Select Starting Level\Level 3]
-Type = Gameshark
-Activation = EndFrame
-300D5510 0002
-
-[Select Starting Level\Level 4]
-Type = Gameshark
-Activation = EndFrame
-300D5510 0003
-
-[Select Starting Level\Level 5]
-Type = Gameshark
-Activation = EndFrame
-300D5510 0004
-
-[Select Starting Level\Level 6]
-Type = Gameshark
-Activation = EndFrame
-300D5510 0005
-
-[Select Starting Level\Level 7]
-Type = Gameshark
-Activation = EndFrame
-300D5510 0006
-
-[Select Starting Level\Level 8]
-Type = Gameshark
-Activation = EndFrame
-300D5510 0007
+300D5510 ????
+Option = Level 1:0x0000
+Option = Level 2:0x0001
+Option = Level 3:0x0002
+Option = Level 4:0x0003
+Option = Level 5:0x0004
+Option = Level 6:0x0005
+Option = Level 7:0x0006
+Option = Level 8:0x0007
 

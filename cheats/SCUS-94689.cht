@@ -1,24 +1,16 @@
 ; CHTDB: ; [ MLB 2004 (USA) (2003) (Sony Computer Entertainment America) {SCUS-94689} <mlb2k4> ]
 
-[Select Home Team Score\0]
+[Select Home Team Score]
 Type = Gameshark
 Activation = EndFrame
-3001D452 0000
+3001D452 00??
+OptionRange = 0:99
 
-[Select Home Team Score\99]
+[Select Away Team Score]
 Type = Gameshark
 Activation = EndFrame
-3001D452 0063
-
-[Select Away Team Score\0]
-Type = Gameshark
-Activation = EndFrame
-3001D494 0000
-
-[Select Away Team Score\99]
-Type = Gameshark
-Activation = EndFrame
-3001D494 0063
+3001D494 00??
+OptionRange = 0:99
 
 [Infinite Creation Points]
 Type = Gameshark

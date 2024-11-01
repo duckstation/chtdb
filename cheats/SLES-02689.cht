@@ -10,20 +10,15 @@ Type = Gameshark
 Activation = EndFrame
 A6011EE8 FFFF0000
 
-[French Lanuage mode]
+[Select Language]
 Type = Gameshark
 Activation = EndFrame
-300BD524 0001
-
-[Spanish Lanuage mode]
-Type = Gameshark
-Activation = EndFrame
-300BD524 0003
-
-[Italian Lanuage mode]
-Type = Gameshark
-Activation = EndFrame
-300BD524 0004
+300BD524 ????
+Option = English:0x0000
+Option = French:0x0001
+Option = German:0x0002
+Option = Spanish:0x0003
+Option = Italian:0x0004
 
 [Always good grip]
 Type = Gameshark

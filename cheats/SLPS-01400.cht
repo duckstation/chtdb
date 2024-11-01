@@ -45,8 +45,10 @@ D008004C 0010
 D008004C 0010
 8007FFDA 0002
 
-[Level selection 01-17 (01 - Jungle? 02 - Jungle 03 - Jungle? 04 - Cemetary? 05 - Cemetary? 06 - Cemetary? 07 - Level 2 08 - Sewer?09 - City?0A - Ice Level? 0B - Ice Level 0C - Fire Level17 - Lava Level? 18 - (Glitch)]
+[Select Level]
+Description = Level selection 01-17 (01 - Jungle? 02 - Jungle 03 - Jungle? 04 - Cemetary? 05 - Cemetary? 06 - Cemetary? 07 - Level 2 08 - Sewer?09 - City?0A - Ice Level? 0B - Ice Level 0C - Fire Level17 - Lava Level? 18 - (Glitch)
 Type = Gameshark
 Activation = EndFrame
-8007FF22 0017
+8007FF22 00??
+OptionRange = 0:18
 

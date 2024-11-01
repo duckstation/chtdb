@@ -1,22 +1,14 @@
 ; CHTDB: ; [ Striker: World Cup Premiere Stage (Japan) {SLPS-00127} ]
 
-[P1 Select Score\9]
+[P1 Select Score]
 Type = Gameshark
 Activation = EndFrame
-800DD74C 0009
+800DD74C 00??
+OptionRange = 0:9
 
-[P1 Select Score\0]
+[CPU Select Score]
 Type = Gameshark
 Activation = EndFrame
-800DD74C 0000
-
-[CPU Select Score\9]
-Type = Gameshark
-Activation = EndFrame
-800DD750 0009
-
-[CPU Select Score\0]
-Type = Gameshark
-Activation = EndFrame
-800DD750 0000
+800DD750 00??
+OptionRange = 0:9
 

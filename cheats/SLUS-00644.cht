@@ -1,24 +1,16 @@
 ; CHTDB: ; [ World Cup 98 (USA) (1998) (Electronic Arts) {SLUS-00644} <wc98> ]
 
-[Select Home Team Score\0]
+[Select Home Team Score]
 Type = Gameshark
 Activation = EndFrame
-801F7F50 0000
+801F7F50 000?
+OptionRange = 0:9
 
-[Select Away Team Score\0]
+[Select Away Team Score]
 Type = Gameshark
 Activation = EndFrame
-801F7F54 0000
-
-[Select Home Team Score\9]
-Type = Gameshark
-Activation = EndFrame
-801F7F50 0009
-
-[Select Away Team Score\9]
-Type = Gameshark
-Activation = EndFrame
-801F7F54 0009
+801F7F54 000?
+OptionRange = 0:9
 
 [Always End Of Half]
 Type = Gameshark

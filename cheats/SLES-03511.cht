@@ -5,23 +5,15 @@ Type = Gameshark
 Activation = EndFrame
 800F0BA4 270F
 
-[P1 always score 0]
+[P1 Select Score]
 Type = Gameshark
 Activation = EndFrame
-800E4420 0000
+800E4420 00??
+OptionRange = 0:99
 
-[P1 always score 99]
+[P2 Select Score]
 Type = Gameshark
 Activation = EndFrame
-800E4420 0063
-
-[P2 always score 0]
-Type = Gameshark
-Activation = EndFrame
-800E4422 0000
-
-[P2 always score 99]
-Type = Gameshark
-Activation = EndFrame
-800E4422 0063
+800E4422 00??
+OptionRange = 0:99
 

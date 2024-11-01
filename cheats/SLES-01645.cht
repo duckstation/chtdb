@@ -1,22 +1,14 @@
 ; CHTDB: ; [ Actua Soccer 3 (Germany) {SLES-01645} ]
 
-[P1 Select Score\9]
+[P1 Select Score]
 Type = Gameshark
 Activation = EndFrame
-800F44FC 0009
+800F44FC 00??
+OptionRange = 0:9
 
-[P1 Select Score\0]
+[P2 Select Score]
 Type = Gameshark
 Activation = EndFrame
-800F44FC 0000
-
-[P2 Select Score\9]
-Type = Gameshark
-Activation = EndFrame
-800F44F8 0009
-
-[P2 Select Score\0]
-Type = Gameshark
-Activation = EndFrame
-800F44F8 0000
+800F44F8 00??
+OptionRange = 0:9
 

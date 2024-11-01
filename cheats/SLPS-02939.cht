@@ -36,83 +36,24 @@ Activation = EndFrame
 50001304 0000
 800CB8EE 0001
 
-[P1 Select character\Ken]
+[P1 Select character]
 Type = Gameshark
 Activation = EndFrame
-30097B08 0000
-
-[P1 Select character\Swan Jun]
-Type = Gameshark
-Activation = EndFrame
-30097B08 0001
-
-[P1 Select character\Berukukatsutse]
-Type = Gameshark
-Activation = EndFrame
-30097B08 0002
-
-[P1 Select character\Casshern]
-Type = Gameshark
-Activation = EndFrame
-30097B08 0003
-
-[P1 Select character\Luna Kozuki]
-Type = Gameshark
-Activation = EndFrame
-30097B08 0004
-
-[P1 Select character\Buraikingubosu]
-Type = Gameshark
-Activation = EndFrame
-30097B08 0005
-
-[P1 Select character\Polymer]
-Type = Gameshark
-Activation = EndFrame
-30097B08 0006
-
-[P1 Select character\Motel]
-Type = Gameshark
-Activation = EndFrame
-30097B08 0007
-
-[P1 Select character\Asutorarukamereon]
-Type = Gameshark
-Activation = EndFrame
-30097B08 0008
-
-[P1 Select character\Tekkaman]
-Type = Gameshark
-Activation = EndFrame
-30097B08 0009
-
-[P1 Select character\Umeta]
-Type = Gameshark
-Activation = EndFrame
-30097B08 000A
-
-[P1 Select character\Doburai]
-Type = Gameshark
-Activation = EndFrame
-30097B08 000B
-
-[P1 Select character\Wolter 0C]
-Type = Gameshark
-Activation = EndFrame
-30097B08 000C
-
-[P1 Select character\Neon 0D]
-Type = Gameshark
-Activation = EndFrame
-30097B08 000D
-
-[P1 Select character\Karochi]
-Type = Gameshark
-Activation = EndFrame
-30097B08 000E
-
-[P1 Select character\Rosuraisen]
-Type = Gameshark
-Activation = EndFrame
-30097B08 000F
+30097B08 ????
+Option = Ken:0x0000
+Option = Swan Jun:0x0001
+Option = Berukukatsutse:0x0002
+Option = Casshern:0x0003
+Option = Luna Kozuki:0x0004
+Option = Buraikingubosu:0x0005
+Option = Polymer:0x0006
+Option = Motel:0x0007
+Option = Asutorarukamereon:0x0008
+Option = Tekkaman:0x0009
+Option = Umeta:0x000A
+Option = Doburai:0x000B
+Option = Wolter 0C:0x000C
+Option = Neon 0D:0x000D
+Option = Karochi:0x000E
+Option = Rosuraisen:0x000F
 

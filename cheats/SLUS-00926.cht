@@ -1,22 +1,14 @@
 ; CHTDB: ; [ NBA Basketball 2000 (USA) (1999) (Fox Interactive) {SLUS-00926} <nbabb2k> ]
 
-[Select Away Team Score\0]
+[Select Away Team Score]
 Type = Gameshark
 Activation = EndFrame
-80010FCE 0000
+80010FCE 00??
+OptionRange = 0:100
 
-[Select Away Team Score\100]
+[Select Home Team Score]
 Type = Gameshark
 Activation = EndFrame
-80010FCE 0064
-
-[Select Home Team Score\0]
-Type = Gameshark
-Activation = EndFrame
-800105C2 0000
-
-[Select Home Team Score\100]
-Type = Gameshark
-Activation = EndFrame
-800105C2 0064
+800105C2 00??
+OptionRange = 0:100
 

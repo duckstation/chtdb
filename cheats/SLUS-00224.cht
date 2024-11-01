@@ -40,65 +40,22 @@ Type = Gameshark
 Activation = EndFrame
 800770FC 0001
 
-[Select Perm Level\1 Training Mission]
+[Select Perm Level]
 Type = Gameshark
 Activation = EndFrame
-80071518 0001
-
-[Select Perm Level\2 Chemical Factory]
-Type = Gameshark
-Activation = EndFrame
-80071518 0002
-
-[Select Perm Level\3 Rooftops]
-Type = Gameshark
-Activation = EndFrame
-80071518 0003
-
-[Select Perm Level\4 Jupiter Station]
-Type = Gameshark
-Activation = EndFrame
-80071518 0004
-
-[Select Perm Level\5 Triton]
-Type = Gameshark
-Activation = EndFrame
-80071518 0005
-
-[Select Perm Level\6 Mars]
-Type = Gameshark
-Activation = EndFrame
-80071518 0006
-
-[Select Perm Level\7 Antarctica]
-Type = Gameshark
-Activation = EndFrame
-80071518 0007
-
-[Select Perm Level\8 IO]
-Type = Gameshark
-Activation = EndFrame
-80071518 0008
-
-[Select Perm Level\9 Reactor 0A]
-Type = Gameshark
-Activation = EndFrame
-80071518 0009
-
-[Select Perm Level\10 Orbiting Habitat]
-Type = Gameshark
-Activation = EndFrame
-80071518 000A
-
-[Select Perm Level\11 Dream]
-Type = Gameshark
-Activation = EndFrame
-80071518 000B
-
-[Select Perm Level\12 Prison]
-Type = Gameshark
-Activation = EndFrame
-80071518 000C
+80071518 ????
+Option = 1 Training Mission:0x0001
+Option = 2 Chemical Factory:0x0002
+Option = 3 Rooftops:0x0003
+Option = 4 Jupiter Station:0x0004
+Option = 5 Triton:0x0005
+Option = 6 Mars:0x0006
+Option = 7 Antarctica:0x0007
+Option = 8 IO:0x0008
+Option = 9 Reactor 0A:0x0009
+Option = 10 Orbiting Habitat:0x000A
+Option = 11 Dream:0x000B
+Option = 12 Prison:0x000C
 
 [Walk through/Climb Over Walls (Hold R3 Down)]
 Type = Gameshark

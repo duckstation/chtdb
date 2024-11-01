@@ -55,68 +55,26 @@ Type = Gameshark
 Activation = EndFrame
 300A5B68 0014
 
-[Fellow Toto]
+[Select Fellow]
 Type = Gameshark
 Activation = EndFrame
-300A5B7D 0002
+300A5B7D ????
+Option = Toto:0x0002
+Option = Scarecrow:0x0003
+Option = Tin Man:0x0004
+Option = Lion:0x0005
 
-[Fellow Scarecrow]
+[Select Story Chapter]
 Type = Gameshark
 Activation = EndFrame
-300A5B7D 0003
-
-[Fellow Tin Man]
-Type = Gameshark
-Activation = EndFrame
-300A5B7D 0004
-
-[Fellow Lion]
-Type = Gameshark
-Activation = EndFrame
-300A5B7D 0005
-
-[Chapter of the story 1 Introduction Kansas]
-Type = Gameshark
-Activation = EndFrame
-300A5B7F 0000
-
-[Chapter of the story 2 To the city of Emerald]
-Type = Gameshark
-Activation = EndFrame
-300A5B7F 0001
-
-[Chapter of the story 3 The Wizard of Oz]
-Type = Gameshark
-Activation = EndFrame
-300A5B7F 0002
-
-[Chapter of the story 4 Forest of Illusion]
-Type = Gameshark
-Activation = EndFrame
-300A5B7F 0003
-
-[Chapter of the story 5 Desert of death]
-Type = Gameshark
-Activation = EndFrame
-300A5B7F 0004
-
-[Chapter of the story 6 Family of Nome]
-Type = Gameshark
-Activation = EndFrame
-300A5B7F 0005
-
-[Chapter of the story 7 Princess Ozma]
-Type = Gameshark
-Activation = EndFrame
-300A5B7F 0006
-
-[Chapter of the story 8 Earth undulate]
-Type = Gameshark
-Activation = EndFrame
-300A5B7F 0007
-
-[Chapter of the story 9 Memories of Oz]
-Type = Gameshark
-Activation = EndFrame
-300A5B7F 0008
+300A5B7F ????
+Option = 1 Introduction Kansas:0x0000
+Option = 2 To the city of Emerald:0x0001
+Option = 3 The Wizard of Oz:0x0002
+Option = 4 Forest of Illusion:0x0003
+Option = 5 Desert of death:0x0004
+Option = 6 Family of Nome:0x0005
+Option = 7 Princess Ozma:0x0006
+Option = 8 Earth undulate:0x0007
+Option = 9 Memories of Oz:0x0008
 

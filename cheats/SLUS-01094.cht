@@ -1,24 +1,16 @@
 ; CHTDB: ; [ Backyard Soccer (USA) (2001) (Infogrames) {SLUS-01094} <backyard> ]
 
-[Select Goals Score\0]
+[Select Goals Score]
 Type = Gameshark
 Activation = EndFrame
-800540F4 0000
+800540F4 00??
+OptionRange = 0:9
 
-[Select Goals Score\9]
+[Select Home Team Score]
 Type = Gameshark
 Activation = EndFrame
-800540F4 0009
-
-[Select Home Team Score\25]
-Type = Gameshark
-Activation = EndFrame
-300BD428 0019
-
-[Select Home Team Score\0]
-Type = Gameshark
-Activation = EndFrame
-300BD428 0000
+300BD428 00??
+OptionRange = 0:25
 
 [Select Home Team Special\Twister]
 Type = Gameshark
@@ -44,15 +36,11 @@ Activation = EndFrame
 300BD442 00FF
 300BD43E 0004
 
-[Select Away Team Score\9]
+[Select Away Team Score]
 Type = Gameshark
 Activation = EndFrame
-300BDA84 0019
-
-[Select Away Team Score\0]
-Type = Gameshark
-Activation = EndFrame
-300BDA84 0000
+300BDA84 00??
+OptionRange = 0:9
 
 [Select Away Team Special\Twister]
 Type = Gameshark

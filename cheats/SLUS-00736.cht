@@ -1,22 +1,14 @@
 ; CHTDB: ; [ NBA Live 99 (USA) (1998) (Electronic Arts) {SLUS-00736} <nbaliv99> ]
 
-[Select Home Team Score\100]
+[Select Home Team Score]
 Type = Gameshark
 Activation = EndFrame
-8008FD5C 0064
+8008FD5C 00??
+OptionRange = 0:100
 
-[Select Home Team Score\0]
+[Select Away Team Score]
 Type = Gameshark
 Activation = EndFrame
-8008FD5C 0000
-
-[Select Away Team Score\100]
-Type = Gameshark
-Activation = EndFrame
-800911BC 0064
-
-[Select Away Team Score\0]
-Type = Gameshark
-Activation = EndFrame
-800911BC 0000
+800911BC 00??
+OptionRange = 0:100
 

@@ -1,24 +1,16 @@
 ; CHTDB: ; [ NBA in the Zone '98 (USA, v1.0) (1998) (Konami of America) {SLUS-00445} <nbazon98a> ]
 
-[Select Home Team Score\0]
+[Select Home Team Score]
 Type = Gameshark
 Activation = EndFrame
-80065178 0000
+80065178 00??
+OptionRange = 0:200
 
-[Select Home Team Score\200]
+[Select Away Team Score]
 Type = Gameshark
 Activation = EndFrame
-80065178 00C8
-
-[Select Away Team Score\0]
-Type = Gameshark
-Activation = EndFrame
-800651BC 0000
-
-[Select Away Team Score\200]
-Type = Gameshark
-Activation = EndFrame
-800651BC 00C8
+800651BC 00??
+OptionRange = 0:200
 
 [Infinite Power Home Team]
 Type = Gameshark

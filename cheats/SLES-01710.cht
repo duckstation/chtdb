@@ -1,54 +1,19 @@
 ; CHTDB: ; [ Legend of Kartia (Europe) {SLES-01710} ]
 
-[Select Chapter\1]
+[Select Chapter]
 Type = Gameshark
 Activation = EndFrame
-30160BAD 0100
-
-[Select Chapter\2]
-Type = Gameshark
-Activation = EndFrame
-30160BAD 0101
-
-[Select Chapter\3]
-Type = Gameshark
-Activation = EndFrame
-30160BAD 0102
-
-[Select Chapter\4]
-Type = Gameshark
-Activation = EndFrame
-30160BAD 0103
-
-[Select Chapter\5]
-Type = Gameshark
-Activation = EndFrame
-30160BAD 0104
-
-[Select Chapter\6]
-Type = Gameshark
-Activation = EndFrame
-30160BAD 0105
-
-[Select Chapter\7]
-Type = Gameshark
-Activation = EndFrame
-30160BAD 0106
-
-[Select Chapter\8]
-Type = Gameshark
-Activation = EndFrame
-30160BAD 0107
-
-[Select Chapter\9]
-Type = Gameshark
-Activation = EndFrame
-30160BAD 0108
-
-[Select Chapter\10]
-Type = Gameshark
-Activation = EndFrame
-30160BAD 0109
+30160BAD 00??
+Option = 1:0x00
+Option = 2:0x01
+Option = 3:0x02
+Option = 4:0x03
+Option = 5:0x04
+Option = 6:0x05
+Option = 7:0x06
+Option = 8:0x07
+Option = 9:0x08
+Option = 10:0x09
 
 [P1 set enemies' HP on zero (Press L1 & L2 & R1 & R2)]
 Type = Gameshark

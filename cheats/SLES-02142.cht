@@ -1,24 +1,16 @@
 ; CHTDB: ; [ The F.A. Premier League Stars (Europe) {SLES-02142} ]
 
-[Select Home Team Score\9]
+[Select Home Team Score]
 Type = Gameshark
 Activation = EndFrame
-30030BD8 0009
+30030BD8 00??
+OptionRange = 0:9
 
-[Select Home Team Score\0]
+[Select Away Team Score]
 Type = Gameshark
 Activation = EndFrame
-30030BD8 0000
-
-[Select Away Team Score\9]
-Type = Gameshark
-Activation = EndFrame
-30030BDC 0009
-
-[Select Away Team Score\0]
-Type = Gameshark
-Activation = EndFrame
-30030BDC 0000
+30030BDC 00??
+OptionRange = 0:9
 
 [Home Teams Goalies Are Slow]
 Type = Gameshark

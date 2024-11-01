@@ -10,68 +10,21 @@ Type = Gameshark
 Activation = EndFrame
 801873D4 0000
 
-[P1 Select Character\Ryu]
+[P1 Select Character]
 Type = Gameshark
 Activation = EndFrame
-80187162 0000
-
-[P1 Select Character\Ken]
-Type = Gameshark
-Activation = EndFrame
-80187162 0001
-
-[P1 Select Character\Akuma]
-Type = Gameshark
-Activation = EndFrame
-80187162 0002
-
-[P1 Select Character\Charlie]
-Type = Gameshark
-Activation = EndFrame
-80187162 0003
-
-[P1 Select Character\Chun Li]
-Type = Gameshark
-Activation = EndFrame
-80187162 0004
-
-[P1 Select Character\Adon]
-Type = Gameshark
-Activation = EndFrame
-80187162 0005
-
-[P1 Select Character\Sodom]
-Type = Gameshark
-Activation = EndFrame
-80187162 0006
-
-[P1 Select Character\Guy]
-Type = Gameshark
-Activation = EndFrame
-80187162 0007
-
-[P1 Select Character\Birdie]
-Type = Gameshark
-Activation = EndFrame
-80187162 0008
-
-[P1 Select Character\Rose]
-Type = Gameshark
-Activation = EndFrame
-80187162 0009
-
-[P1 Select Character\M.Bison]
-Type = Gameshark
-Activation = EndFrame
-80187162 000A
-
-[P1 Select Character\Sagat]
-Type = Gameshark
-Activation = EndFrame
-80187162 000B
-
-[P1 Select Character\Dan]
-Type = Gameshark
-Activation = EndFrame
-80187162 000C
+80187162 ????
+Option = Ryu:0x0000
+Option = Ken:0x0001
+Option = Akuma:0x0002
+Option = Charlie:0x0003
+Option = Chun Li:0x0004
+Option = Adon:0x0005
+Option = Sodom:0x0006
+Option = Guy:0x0007
+Option = Birdie:0x0008
+Option = Rose:0x0009
+Option = M.Bison:0x000A
+Option = Sagat:0x000B
+Option = Dan:0x000C
 

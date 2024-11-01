@@ -25,40 +25,17 @@ Type = Gameshark
 Activation = EndFrame
 8019DD6A 0100
 
-[Select Stage\2]
+[Select Stage]
 Type = Gameshark
 Activation = EndFrame
-80011800 0002
-
-[Select Stage\3]
-Type = Gameshark
-Activation = EndFrame
-80011800 0003
-
-[Select Stage\4]
-Type = Gameshark
-Activation = EndFrame
-80011800 0004
-
-[Select Stage\5]
-Type = Gameshark
-Activation = EndFrame
-80011800 0005
-
-[Select Stage\6]
-Type = Gameshark
-Activation = EndFrame
-80011800 0006
-
-[Select Stage\7]
-Type = Gameshark
-Activation = EndFrame
-80011800 0007
-
-[Select Stage\Final Stage 8]
-Type = Gameshark
-Activation = EndFrame
-80011800 0008
+80011800 ????
+Option = 2:0x0002
+Option = 3:0x0003
+Option = 4:0x0004
+Option = 5:0x0005
+Option = 6:0x0006
+Option = 7:0x0007
+Option = Final Stage 8:0x0008
 
 [P1 Hold L1 to Run]
 Type = Gameshark

@@ -229,33 +229,14 @@ Activation = EndFrame
 800C1872 00B9
 800C187E 00B9
 
-[Skinny Shadowman]
+[Select Mode]
 Type = Gameshark
 Activation = EndFrame
-800C1FB0 1000
-
-[Tall/Weird Shadowman]
-Type = Gameshark
-Activation = EndFrame
-800C1FB0 2000
-
-[Taller Up-Close View]
-Type = Gameshark
-Activation = EndFrame
-800C1FB0 4000
-
-[Upside Down Mode Doesnt Work On All Levels]
-Type = Gameshark
-Activation = EndFrame
-800C1FB0 8000
-
-[Up-Close Upside Down Mode]
-Type = Gameshark
-Activation = EndFrame
-800C1FB0 E000
-
-[Flat Mode]
-Type = Gameshark
-Activation = EndFrame
-800C1FB0 0000
+800C1FB0 ????
+Option = Skinny Shadowman:0x1000
+Option = Tall/Weird Shadowman:0x2000
+Option = Taller Up-Close View:0x4000
+Option = Upside Down Mode Doesnt Work On All Levels:0x8000
+Option = Up-Close Upside Down Mode:0xE000
+Option = Flat Mode:0x0000
 

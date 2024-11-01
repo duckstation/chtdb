@@ -126,7 +126,7 @@ Type = Gameshark
 Activation = EndFrame
 80186A2C 0064
 
-[Battle Mode\Fruit Worth Modifier (All Players) ?00-FF]
+[Battle Mode\Fruit Worth Modifier (All Players)]
 Type = Gameshark
 Activation = EndFrame
 D00AC39C 0030
@@ -135,6 +135,7 @@ D00AC39C 0030
 800AC396 2402
 D00AC39C 0030
 800AC39A 3C00
+OptionRange = 0:255
 
 [Battle Mode MaxPoints]
 Type = Gameshark

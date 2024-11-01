@@ -20,25 +20,11 @@ Type = Gameshark
 Activation = EndFrame
 800204DC 0005
 
-[Select Ship Type\1]
+[Select Ship Type]
 Type = Gameshark
 Activation = EndFrame
-80020408 0001
-
-[Select Ship Type\2]
-Type = Gameshark
-Activation = EndFrame
-80020408 0002
-
-[Select Ship Type\3]
-Type = Gameshark
-Activation = EndFrame
-80020408 0003
-
-[Select Ship Type\4]
-Type = Gameshark
-Activation = EndFrame
-80020408 0004
+80020408 000?
+OptionRange = 1:4
 
 [Max Shots Level 5]
 Type = Gameshark

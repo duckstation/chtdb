@@ -11,18 +11,11 @@ Activation = EndFrame
 D00687B0 4003
 8016ACE8 FFFF
 
-[Enable Maintain Speed Off Track]
+[Select Cheat]
 Type = Gameshark
 Activation = EndFrame
-8006BB08 0001
-
-[Enable Rocket Cars]
-Type = Gameshark
-Activation = EndFrame
-8006BB08 0002
-
-[Enable Turbo Mode]
-Type = Gameshark
-Activation = EndFrame
-8006BB08 0100
+8006BB08 ????
+Option = Maintain Speed Off Track:0x0001
+Option = Enable Rocket Cars:0x0002
+Option = Enable Turbo Mode:0x0100
 

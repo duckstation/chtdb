@@ -60,83 +60,29 @@ Type = Gameshark
 Activation = EndFrame
 3004C99E 0063
 
-[Select Bonus/voice actor interview\Age]
+[Select Bonus/voice actor interview]
 Type = Gameshark
 Activation = EndFrame
-80046D58 0001
+80046D58 ????
+Option = Age:0x0001
+Option = iodide:0x0002
+Option = nautical miles:0x0004
+Option = unbiased:0x0008
+Option = Natsuno:0x0010
+Option = Tomoe:0x0020
+Option = Rico:0x0040
+Option = Kaname:0x0080
+Option = Narisawa:0x0100
+Option = Sakaki:0x0200
+Option = Ray:0x0400
+Option = Sarai:0x0800
 
-[Select Bonus/voice actor interview\iodide]
+[Select Sub character ending flag]
 Type = Gameshark
 Activation = EndFrame
-80046D58 0002
-
-[Select Bonus/voice actor interview\nautical miles]
-Type = Gameshark
-Activation = EndFrame
-80046D58 0004
-
-[Select Bonus/voice actor interview\unbiased]
-Type = Gameshark
-Activation = EndFrame
-80046D58 0008
-
-[Select Bonus/voice actor interview\Natsuno]
-Type = Gameshark
-Activation = EndFrame
-80046D58 0010
-
-[Select Bonus/voice actor interview\Tomoe]
-Type = Gameshark
-Activation = EndFrame
-80046D58 0020
-
-[Select Bonus/voice actor interview\Rico]
-Type = Gameshark
-Activation = EndFrame
-80046D58 0040
-
-[Select Bonus/voice actor interview\Kaname]
-Type = Gameshark
-Activation = EndFrame
-80046D58 0080
-
-[Select Bonus/voice actor interview\Narisawa]
-Type = Gameshark
-Activation = EndFrame
-80046D58 0100
-
-[Select Bonus/voice actor interview\Sakaki]
-Type = Gameshark
-Activation = EndFrame
-80046D58 0200
-
-[Select Bonus/voice actor interview\Ray]
-Type = Gameshark
-Activation = EndFrame
-80046D58 0400
-
-[Select Bonus/voice actor interview\Sarai]
-Type = Gameshark
-Activation = EndFrame
-80046D58 0800
-
-[Select Sub character ending flag\Narisawa]
-Type = Gameshark
-Activation = EndFrame
-8004C8E0 0080
-
-[Select Sub character ending flag\Sakaki]
-Type = Gameshark
-Activation = EndFrame
-8004C8E0 0100
-
-[Select Sub character ending flag\Ray]
-Type = Gameshark
-Activation = EndFrame
-8004C8E0 0200
-
-[Select Sub character ending flag\Sarai]
-Type = Gameshark
-Activation = EndFrame
-8004C8E0 0400
+8004C8E0 ????
+Option = Narisawa:0x0080
+Option = Sakaki:0x0100
+Option = Ray:0x0200
+Option = Sarai:0x0400
 

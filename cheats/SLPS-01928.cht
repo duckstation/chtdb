@@ -22,53 +22,18 @@ Type = Gameshark
 Activation = EndFrame
 301831FF 00FF
 
-[Select Profile\Lodi Light]
+[Select Profile]
 Type = Gameshark
 Activation = EndFrame
-801834A2 0002
-
-[Select Profile\Daisy Light]
-Type = Gameshark
-Activation = EndFrame
-801834A2 0004
-
-[Select Profile\Hazel nut Albero]
-Type = Gameshark
-Activation = EndFrame
-801834A2 0008
-
-[Select Profile\Violet Meer]
-Type = Gameshark
-Activation = EndFrame
-801834A2 0010
-
-[Select Profile\root Pisutiru]
-Type = Gameshark
-Activation = EndFrame
-801834A2 0000
-
-[Select Profile\R-7]
-Type = Gameshark
-Activation = EndFrame
-801834A2 0040
-
-[Select Profile\Orchid Grace]
-Type = Gameshark
-Activation = EndFrame
-801834A2 0080
-
-[Select Profile\anemone]
-Type = Gameshark
-Activation = EndFrame
-801834A2 0100
-
-[Select Profile\Mantis root]
-Type = Gameshark
-Activation = EndFrame
-801834A2 0200
-
-[Select Profile\Lady Bird Rouge]
-Type = Gameshark
-Activation = EndFrame
-801834A2 0400
+801834A2 ????
+Option = Lodi Light:0x0002
+Option = Daisy Light:0x0004
+Option = Hazel nut Albero:0x0008
+Option = Violet Meer:0x0010
+Option = root Pisutiru:0x0000
+Option = R-7:0x0040
+Option = Orchid Grace:0x0080
+Option = anemone:0x0100
+Option = Mantis root:0x0200
+Option = Lady Bird Rouge:0x0400
 

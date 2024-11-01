@@ -1,22 +1,14 @@
 ; CHTDB: ; [ World League Soccer '98 (Europe) {SLES-00717} ]
 
-[Team 1 Has 9 Goals]
+[Select Team 1 Score]
 Type = Gameshark
 Activation = EndFrame
-800ED5A4 0009
+800ED5A4 00??
+OptionRange = 0:9
 
-[Team 1 Has 0 Goals]
+[Select Team 2 Score]
 Type = Gameshark
 Activation = EndFrame
-800ED5A4 0000
-
-[Team 2 Has 9 Goals]
-Type = Gameshark
-Activation = EndFrame
-800ED5A6 0009
-
-[Team 2 Has 0 Goals]
-Type = Gameshark
-Activation = EndFrame
-800ED5A6 0000
+800ED5A6 00??
+OptionRange = 0:9
 

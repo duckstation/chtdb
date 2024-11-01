@@ -20,70 +20,23 @@ Type = Gameshark
 Activation = EndFrame
 90081500 00000000
 
-[Select Perm Level\Gettin' Started]
+[Select Perm Level]
 Type = Gameshark
 Activation = EndFrame
-80056538 0001
-
-[Select Perm Level\Smashing Pacifists]
-Type = Gameshark
-Activation = EndFrame
-80056538 0002
-
-[Select Perm Level\Goin' Underground]
-Type = Gameshark
-Activation = EndFrame
-80056538 0003
-
-[Select Perm Level\Keep Cool]
-Type = Gameshark
-Activation = EndFrame
-80056538 0004
-
-[Select Perm Level\Gettin' Hot]
-Type = Gameshark
-Activation = EndFrame
-80056538 0005
-
-[Select Perm Level\Make Some Noize]
-Type = Gameshark
-Activation = EndFrame
-80056538 0006
-
-[Select Perm Level\Hear No Evil]
-Type = Gameshark
-Activation = EndFrame
-80056538 0007
-
-[Select Perm Level\Saving Clones]
-Type = Gameshark
-Activation = EndFrame
-80056538 0008
-
-[Select Perm Level\Cheb's Island]
-Type = Gameshark
-Activation = EndFrame
-80056538 0009
-
-[Select Perm Level\The House On The Hill]
-Type = Gameshark
-Activation = EndFrame
-80056538 000A
-
-[Select Perm Level\Bunsen And The Labs]
-Type = Gameshark
-Activation = EndFrame
-80056538 000B
-
-[Select Perm Level\Kickin' Some Ass]
-Type = Gameshark
-Activation = EndFrame
-80056538 000C
-
-[Select Perm Level\Happy?End]
-Type = Gameshark
-Activation = EndFrame
-80056538 000D
+80056538 ????
+Option = Gettin' Started:0x0001
+Option = Smashing Pacifists:0x0002
+Option = Goin' Underground:0x0003
+Option = Keep Cool:0x0004
+Option = Gettin' Hot:0x0005
+Option = Make Some Noize:0x0006
+Option = Hear No Evil:0x0007
+Option = Saving Clones:0x0008
+Option = Cheb's Island:0x0009
+Option = The House On The Hill:0x000A
+Option = Bunsen And The Labs:0x000B
+Option = Kickin' Some Ass:0x000C
+Option = Happy?End:0x000D
 
 [Cheat Modifier All Cheats]
 Type = Gameshark

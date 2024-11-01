@@ -18,17 +18,12 @@ Activation = EndFrame
 [Invincibility]
 Type = Gameshark
 Activation = EndFrame
-30096160 0001
+31096160 0001
 
 [Infinite Flying]
 Type = Gameshark
 Activation = EndFrame
-30096160 0002
-
-[Invincibility + Infinite Flying]
-Type = Gameshark
-Activation = EndFrame
-30096160 0003
+31096160 0002
 
 [Skip Level (X+Square+Triangle)]
 Type = Gameshark

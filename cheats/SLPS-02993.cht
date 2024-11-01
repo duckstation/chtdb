@@ -111,45 +111,18 @@ Activation = EndFrame
 50000E02 0000
 8008FDD0 0001
 
-[Select Level\Chapter I - Messianic advent]
+[Select Level]
 Type = Gameshark
 Activation = EndFrame
-8008FD8A 0000
-
-[Select Level\Chapter II - The devil incarnate]
-Type = Gameshark
-Activation = EndFrame
-8008FD8A 0001
-
-[Select Level\Chapter III - Nanto Man]
-Type = Gameshark
-Activation = EndFrame
-8008FD8A 0002
-
-[Select Level\Chapter IV - Resume tragedy]
-Type = Gameshark
-Activation = EndFrame
-8008FD8A 0003
-
-[Select Level\Chapter V - Century Champion]
-Type = Gameshark
-Activation = EndFrame
-8008FD8A 0004
-
-[Select Level\Chapter VI - Souther]
-Type = Gameshark
-Activation = EndFrame
-8008FD8A 0005
-
-[Select Level\Chapter VII - Last Nanto Future]
-Type = Gameshark
-Activation = EndFrame
-8008FD8A 0006
-
-[Select Level\Chapter VIII - Farewell to the Final]
-Type = Gameshark
-Activation = EndFrame
-8008FD8A 0008
+8008FD8A ????
+Option = Chapter I - Messianic advent:0x0000
+Option = Chapter II - The devil incarnate:0x0001
+Option = Chapter III - Nanto Man:0x0002
+Option = Chapter IV - Resume tragedy:0x0003
+Option = Chapter V - Century Champion:0x0004
+Option = Chapter VI - Souther:0x0005
+Option = Chapter VII - Last Nanto Future:0x0006
+Option = Chapter VIII - Farewell to the Final:0x0008
 ;#### PATCHES LISTED BELOW ####
 
 [Select Widescreen Aspect Ratio\16-9]

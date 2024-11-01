@@ -1,24 +1,16 @@
 ; CHTDB: ; [ FIFA - Road to World Cup 98 (USA) (1997) (Electronic Arts) {SLUS-00520} <fifa98> ]
 
-[Select Away Team Score\9]
+[Select Away Team Score]
 Type = Gameshark
 Activation = EndFrame
-8004F7BC 0009
+8004F7BC 00??
+OptionRange = 0:9
 
-[Select Away Team Score\0]
+[Select Home Team Score]
 Type = Gameshark
 Activation = EndFrame
-8004F7BC 0000
-
-[Select Home Team Score\9]
-Type = Gameshark
-Activation = EndFrame
-8004F7B8 0009
-
-[Select Home Team Score\0]
-Type = Gameshark
-Activation = EndFrame
-8004F7B8 0000
+8004F7B8 00??
+OptionRange = 0:9
 
 [Infinite Creation Points]
 Type = Gameshark

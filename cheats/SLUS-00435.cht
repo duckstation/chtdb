@@ -82,85 +82,26 @@ Type = Gameshark
 Activation = EndFrame
 800D5A54 86A0
 
-[Select Weapon\Nothing]
+[Select Weapon]
 Type = Gameshark
 Activation = EndFrame
-8006AD2A 0000
-
-[Select Weapon\Katana]
-Type = Gameshark
-Activation = EndFrame
-8006AD2A 0004
-
-[Select Weapon\Skeleton]
-Type = Gameshark
-Activation = EndFrame
-8006AD2A 0008
-
-[Select Weapon\Skeleton w/Katana]
-Type = Gameshark
-Activation = EndFrame
-8006AD2A 000C
-
-[Select Weapon\Mace]
-Type = Gameshark
-Activation = EndFrame
-8006AD2A 0010
-
-[Select Weapon\Skeleton w/Mace]
-Type = Gameshark
-Activation = EndFrame
-8006AD2A 0018
-
-[Select Weapon\Axe]
-Type = Gameshark
-Activation = EndFrame
-8006AD2A 0020
-
-[Select Weapon\Skeleton w/Axe]
-Type = Gameshark
-Activation = EndFrame
-8006AD2A 0028
-
-[Select Weapon\Mace?]
-Type = Gameshark
-Activation = EndFrame
-8006AD2A 0030
-
-[Select Weapon\Skeleton w/Mace?]
-Type = Gameshark
-Activation = EndFrame
-8006AD2A 0038
-
-[Select Weapon\Sai]
-Type = Gameshark
-Activation = EndFrame
-8006AD2A 0080
-
-[Select Weapon\Skeleton w/Sai]
-Type = Gameshark
-Activation = EndFrame
-8006AD2A 0088
-
-[Select Weapon\Staff]
-Type = Gameshark
-Activation = EndFrame
-8006AD2A 0100
-
-[Select Weapon\Skeleton w/Staff]
-Type = Gameshark
-Activation = EndFrame
-8006AD2A 0108
-
-[Select Weapon\Ultimate Sword]
-Type = Gameshark
-Activation = EndFrame
-8006AD2A 0200
-
-[Select Weapon\Skeleton w/Ultimate Sword]
-Type = Gameshark
-Activation = EndFrame
-8006AD2A 0208
+8006AD2A ????
+Option = Nothing:0x0000
+Option = Axe:0x0020
+Option = Katana:0x0004
+Option = Mace:0x0010
+Option = Mace?:0x0030
+Option = Sai:0x0080
+Option = Skeleton w/Axe:0x0028
+Option = Skeleton w/Katana:0x000C
+Option = Skeleton w/Mace:0x0018
+Option = Skeleton w/Mace?:0x0038
+Option = Skeleton w/Sai:0x0088
+Option = Skeleton w/Staff:0x0108
+Option = Skeleton w/Ultimate Sword:0x0208
+Option = Skeleton:0x0008
+Option = Staff:0x0100
+Option = Ultimate Sword:0x0200
 ;#### PATCHES LISTED BELOW ####
 
 [Select Widescreen Aspect Ratio\16-9]

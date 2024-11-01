@@ -5,58 +5,19 @@ Type = Gameshark
 Activation = EndFrame
 800884F0 0009
 
-[Select Perm Level\USA Level 2]
+[Select Perm Level]
 Type = Gameshark
 Activation = EndFrame
-80076C74 0001
-
-[Select Perm Level\USA Level 3]
-Type = Gameshark
-Activation = EndFrame
-80076C74 0002
-
-[Select Perm Level\Asia Level 1]
-Type = Gameshark
-Activation = EndFrame
-80076C74 0003
-
-[Select Perm Level\Asia Level 2]
-Type = Gameshark
-Activation = EndFrame
-80076C74 0004
-
-[Select Perm Level\Africa Level 1]
-Type = Gameshark
-Activation = EndFrame
-80076C74 0005
-
-[Select Perm Level\Africa Level 2]
-Type = Gameshark
-Activation = EndFrame
-80076C74 0006
-
-[Select Perm Level\Europe Level 1]
-Type = Gameshark
-Activation = EndFrame
-80076C74 0007
-
-[Select Perm Level\Europe Level 2]
-Type = Gameshark
-Activation = EndFrame
-80076C74 0008
-
-[Select Perm Level\North Pole Level 1]
-Type = Gameshark
-Activation = EndFrame
-80076C74 0009
-
-[Select Perm Level\North Pole Level 2]
-Type = Gameshark
-Activation = EndFrame
-80076C74 000A
-
-[Select Perm Level\North Pole Level 3]
-Type = Gameshark
-Activation = EndFrame
-80076C74 000B
+80076C74 ????
+Option = USA Level 2:0x0001
+Option = USA Level 3:0x0002
+Option = Asia Level 1:0x0003
+Option = Asia Level 2:0x0004
+Option = Africa Level 1:0x0005
+Option = Africa Level 2:0x0006
+Option = Europe Level 1:0x0007
+Option = Europe Level 2:0x0008
+Option = North Pole Level 1:0x0009
+Option = North Pole Level 2:0x000A
+Option = North Pole Level 3:0x000B
 

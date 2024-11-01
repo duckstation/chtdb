@@ -5,20 +5,11 @@ Type = Gameshark
 Activation = EndFrame
 800A07E4 270F
 
-[Lap 1]
+[Select Lap]
 Type = Gameshark
 Activation = EndFrame
-80089B00 0001
-
-[Lap 2]
-Type = Gameshark
-Activation = EndFrame
-80089B00 0002
-
-[Lap 3]
-Type = Gameshark
-Activation = EndFrame
-80089B00 0003
+80089B00 000?
+OptionRange = 1:3
 
 [Infinite Time]
 Type = Gameshark

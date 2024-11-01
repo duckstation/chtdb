@@ -20,25 +20,14 @@ Type = Gameshark
 Activation = EndFrame
 8007815C 0009
 
-[Select Stage\1]
+[Select Stage]
 Type = Gameshark
 Activation = EndFrame
-80078134 0000
-
-[Select Stage\2]
-Type = Gameshark
-Activation = EndFrame
-80078134 0001
-
-[Select Stage\3]
-Type = Gameshark
-Activation = EndFrame
-80078134 0002
-
-[Select Stage\4]
-Type = Gameshark
-Activation = EndFrame
-80078134 0003
+80078134 ????
+Option = 1:0x0000
+Option = 2:0x0001
+Option = 3:0x0002
+Option = 4:0x0003
 
 [Original Mode\Max Score]
 Type = Gameshark

@@ -1,24 +1,16 @@
 ; CHTDB: ; [ MLB 98 (USA) (1997) (Sony Computer Entertainment America) {SCUS-94170} <mlb98> ]
 
-[Select Away Score\9]
+[Select Away Score]
 Type = Gameshark
 Activation = EndFrame
-300121F7 0009
+300121F7 00??
+OptionRange = 0:9
 
-[Select Away Score\0]
+[Select Home Score]
 Type = Gameshark
 Activation = EndFrame
-300121F7 0000
-
-[Select Home Score\9]
-Type = Gameshark
-Activation = EndFrame
-300121B5 0009
-
-[Select Home Score\0]
-Type = Gameshark
-Activation = EndFrame
-300121B5 0000
+300121B5 00??
+OptionRange = 0:9
 
 [Infinite Strikes]
 Type = Gameshark

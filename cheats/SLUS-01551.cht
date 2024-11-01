@@ -10,40 +10,17 @@ Type = Gameshark
 Activation = EndFrame
 80078042 0C63
 
-[Select Eggs Worth\2]
+[Select Eggs Worth]
 Type = Gameshark
 Activation = EndFrame
-80031CE4 FFFE
-
-[Select Eggs Worth\3]
-Type = Gameshark
-Activation = EndFrame
-80031CE4 FFFD
-
-[Select Eggs Worth\4]
-Type = Gameshark
-Activation = EndFrame
-80031CE4 FFFC
-
-[Select Eggs Worth\5]
-Type = Gameshark
-Activation = EndFrame
-80031CE4 FFFB
-
-[Select Eggs Worth\6]
-Type = Gameshark
-Activation = EndFrame
-80031CE4 FFFA
-
-[Select Eggs Worth\7]
-Type = Gameshark
-Activation = EndFrame
-80031CE4 FFF9
-
-[Select Eggs Worth\8]
-Type = Gameshark
-Activation = EndFrame
-80031CE4 FFF8
+80031CE4 ????
+Option = 2:0xFFFE
+Option = 3:0xFFFD
+Option = 4:0xFFFC
+Option = 5:0xFFFB
+Option = 6:0xFFFA
+Option = 7:0xFFF9
+Option = 8:0xFFF8
 
 [Infinite Time Puzzle Game]
 Type = Gameshark

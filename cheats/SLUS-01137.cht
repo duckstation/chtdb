@@ -11,23 +11,12 @@ Type = Gameshark
 Activation = EndFrame
 8005E676 2400
 
-[Select Lap\Lap 3]
+[Select Lap]
 Type = Gameshark
 Activation = EndFrame
-301FD2F8 0003
-
-[Select Lap\Lap 4]
-Type = Gameshark
-Activation = EndFrame
-301FD2F8 0004
-
-[Select Lap\Lap 5]
-Type = Gameshark
-Activation = EndFrame
-301FD2F8 0005
-
-[Select Lap\Lap 6]
-Type = Gameshark
-Activation = EndFrame
-301FD2F8 0006
+301FD2F8 ????
+Option = Lap 3:0x0003
+Option = Lap 4:0x0004
+Option = Lap 5:0x0005
+Option = Lap 6:0x0006
 

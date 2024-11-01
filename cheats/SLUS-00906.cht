@@ -10,75 +10,29 @@ Type = Gameshark
 Activation = EndFrame
 800C1610 0000
 
-[Boxing\P1 Select Boxer\Blue]
+[Boxing\P1 Select Boxer]
 Type = Gameshark
 Activation = EndFrame
-800C172C 0001
+800C172C ????
+Option = Blue:0x0001
+Option = Red:0x0002
+Option = Tan:0x0003
+Option = Dark Green:0x0004
+Option = Yellow:0x0006
+Option = White:0x0007
+Option = Black:0x0008
 
-[Boxing\P1 Select Boxer\Red]
+[Boxing\P2 Select Boxer]
 Type = Gameshark
 Activation = EndFrame
-800C172C 0002
-
-[Boxing\P1 Select Boxer\Tan]
-Type = Gameshark
-Activation = EndFrame
-800C172C 0003
-
-[Boxing\P1 Select Boxer\Dark Green]
-Type = Gameshark
-Activation = EndFrame
-800C172C 0004
-
-[Boxing\P1 Select Boxer\Yellow]
-Type = Gameshark
-Activation = EndFrame
-800C172C 0006
-
-[Boxing\P1 Select Boxer\White]
-Type = Gameshark
-Activation = EndFrame
-800C172C 0007
-
-[Boxing\P1 Select Boxer\Black]
-Type = Gameshark
-Activation = EndFrame
-800C172C 0008
-
-[Boxing\P2 Select Boxer\Blue]
-Type = Gameshark
-Activation = EndFrame
-800C01F0 0001
-
-[Boxing\P2 Select Boxer\Red]
-Type = Gameshark
-Activation = EndFrame
-800C01F0 0002
-
-[Boxing\P2 Select Boxer\Tan]
-Type = Gameshark
-Activation = EndFrame
-800C01F0 0003
-
-[Boxing\P2 Select Boxer\Dark Green]
-Type = Gameshark
-Activation = EndFrame
-800C01F0 0004
-
-[Boxing\P2 Select Boxer\Yellow]
-Type = Gameshark
-Activation = EndFrame
-800C01F0 0006
-
-[Boxing\P2 Select Boxer\White]
-Type = Gameshark
-Activation = EndFrame
-800C01F0 0007
-
-[Boxing\P2 Select Boxer\Black]
-Type = Gameshark
-Activation = EndFrame
-800C01F0 0008
+800C01F0 ????
+Option = Blue:0x0001
+Option = Red:0x0002
+Option = Tan:0x0003
+Option = Dark Green:0x0004
+Option = Yellow:0x0006
+Option = White:0x0007
+Option = Black:0x0008
 
 [Hover Force\Infinite Fuel]
 Type = Gameshark

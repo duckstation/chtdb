@@ -6,25 +6,17 @@ Activation = EndFrame
 A60B8434 0013E121
 A60B8436 04410802
 
-[Select Home Team Score\9]
+[Select Home Team Score]
 Type = Gameshark
 Activation = EndFrame
-80042656 0009
+80042656 00??
+OptionRange = 0:9
 
-[Select Home Team Score\0]
+[Select Away Team Score]
 Type = Gameshark
 Activation = EndFrame
-80042656 0000
-
-[Select Away Team Score\9]
-Type = Gameshark
-Activation = EndFrame
-80042690 0009
-
-[Select Away Team Score\0]
-Type = Gameshark
-Activation = EndFrame
-80042690 0000
+80042690 00??
+OptionRange = 0:9
 
 [Home Team Goals Scores 9]
 Type = Gameshark

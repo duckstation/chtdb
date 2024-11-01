@@ -1,24 +1,16 @@
 ; CHTDB: ; [ MLB 2001 (USA) (2000) (Sony Computer Entertainment America) {SCUS-94478} <mlb2k1> ]
 
-[Select Away Team Score\9]
+[Select Away Team Score]
 Type = Gameshark
 Activation = EndFrame
-3001D49B 0009
+3001D49B 00??
+OptionRange = 0:9
 
-[Select Away Team Score\0]
+[Select Home Team Score]
 Type = Gameshark
 Activation = EndFrame
-3001D49B 0000
-
-[Select Home Team Score\9]
-Type = Gameshark
-Activation = EndFrame
-3001D458 0009
-
-[Select Home Team Score\0]
-Type = Gameshark
-Activation = EndFrame
-3001D458 0000
+3001D458 00??
+OptionRange = 0:9
 
 [Infinite Creation Points]
 Type = Gameshark

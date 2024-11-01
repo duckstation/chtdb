@@ -1,14 +1,11 @@
 ; CHTDB: ; [ Chessmaster II (USA) (1999) (Mindscape) {SLUS-00886} <chessms2> ]
 
-[Select Perm Turn\Always Black's Turn]
+[Select Perm Turn]
 Type = Gameshark
 Activation = EndFrame
-8009B19C 0020
-
-[Select Perm Turn\Always White's Turn]
-Type = Gameshark
-Activation = EndFrame
-8009B19C 0010
+8009B19C ????
+Option = Always Black's Turn:0x0020
+Option = Always White's Turn:0x0010
 
 [Time Always 00.00.00 For Black]
 Type = Gameshark

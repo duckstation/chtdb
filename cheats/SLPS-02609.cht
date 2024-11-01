@@ -44,50 +44,20 @@ C014C074 0100
 80140770 0001
 00000000 FFFF
 
-[Select Level (Do not change weapon if you use the level modifier code as this will freeze the game)\2]
+[Select Level]
+Description = Do not change weapon if you use the level modifier code as this will freeze the game
 Type = Gameshark
 Activation = EndFrame
-8014C1C6 0300
-
-[Select Level (Do not change weapon if you use the level modifier code as this will freeze the game)\3]
-Type = Gameshark
-Activation = EndFrame
-8014C1C6 0800
-
-[Select Level (Do not change weapon if you use the level modifier code as this will freeze the game)\4]
-Type = Gameshark
-Activation = EndFrame
-8014C1C6 0D00
-
-[Select Level (Do not change weapon if you use the level modifier code as this will freeze the game)\5A]
-Type = Gameshark
-Activation = EndFrame
-8014C1C6 1100
-
-[Select Level (Do not change weapon if you use the level modifier code as this will freeze the game)\5B]
-Type = Gameshark
-Activation = EndFrame
-8014C1C6 1300
-
-[Select Level (Do not change weapon if you use the level modifier code as this will freeze the game)\6]
-Type = Gameshark
-Activation = EndFrame
-8014C1C6 1700
-
-[Select Level (Do not change weapon if you use the level modifier code as this will freeze the game)\7]
-Type = Gameshark
-Activation = EndFrame
-8014C1C6 1C00
-
-[Select Level (Do not change weapon if you use the level modifier code as this will freeze the game)\8]
-Type = Gameshark
-Activation = EndFrame
-8014C1C6 2000
-
-[Select Level (Do not change weapon if you use the level modifier code as this will freeze the game)\8B]
-Type = Gameshark
-Activation = EndFrame
-8014C1C6 2300
+8014C1C6 ????
+Option = 2:0x0300
+Option = 3:0x0800
+Option = 4:0x0D00
+Option = 5A:0x1100
+Option = 5B:0x1300
+Option = 6:0x1700
+Option = 7:0x1C00
+Option = 8:0x2000
+Option = 8B:0x2300
 
 [Move Fast L1 + select]
 Type = Gameshark

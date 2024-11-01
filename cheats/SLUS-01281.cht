@@ -1,14 +1,11 @@
 ; CHTDB: ; [ Dance Dance Revolution - Disney Mix (USA) (2001) (Konami of America) {SLUS-01281} <ddrdm> ]
 
-[P1 Select Dance Meter\Maximum]
+[P1 Select Dance Meter]
 Type = Gameshark
 Activation = EndFrame
-8008180C 03E8
-
-[P1 Select Dance Meter\Minimum]
-Type = Gameshark
-Activation = EndFrame
-8008180C 0000
+8008180C ????
+Option = Maximum:0x03E8
+Option = Minimum:0x0000
 
 [P1 Max Combo]
 Type = Gameshark

@@ -45,28 +45,13 @@ Type = Gameshark
 Activation = EndFrame
 800F52C8 0002
 
-[Access Campaign 1]
+[Select Access Campaign]
 Type = Gameshark
 Activation = EndFrame
-30074EC9 0000
-
-[Access Campaign 2]
-Type = Gameshark
-Activation = EndFrame
-30074EC9 0001
-
-[Access Campaign 3]
-Type = Gameshark
-Activation = EndFrame
-30074EC9 0002
-
-[Access Campaign 4]
-Type = Gameshark
-Activation = EndFrame
-30074EC9 0003
-
-[Access Campaign 5]
-Type = Gameshark
-Activation = EndFrame
-30074EC9 0004
+30074EC9 ????
+Option = 1:0x0000
+Option = 2:0x0001
+Option = 3:0x0002
+Option = 4:0x0003
+Option = 5:0x0004
 

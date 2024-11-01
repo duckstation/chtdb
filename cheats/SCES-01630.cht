@@ -5,20 +5,13 @@ Type = Gameshark
 Activation = EndFrame
 800CE7F8 FFFF
 
-[Always Play Medium Difficulty]
+[Select Difficulty]
 Type = Gameshark
 Activation = EndFrame
-800CE7F4 0001
-
-[Always Play Hard Difficulty]
-Type = Gameshark
-Activation = EndFrame
-800CE7F4 0004
-
-[Always Play Expert Difficulty]
-Type = Gameshark
-Activation = EndFrame
-800CE7F4 000F
+800CE7F4 ????
+Option = Medium:0x0001
+Option = Hard:0x0004
+Option = Expert:0x000F
 
 [Extra Tracks (Play Expert)]
 Type = Gameshark

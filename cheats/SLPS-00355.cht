@@ -5,45 +5,18 @@ Type = Gameshark
 Activation = EndFrame
 801FF018 0007
 
-[Select Starting Saga\Saiyan Saga]
+[Select Starting Saga]
 Type = Gameshark
 Activation = EndFrame
-801FF002 0000
-
-[Select Starting Saga\Ginyu Saga]
-Type = Gameshark
-Activation = EndFrame
-801FF002 0001
-
-[Select Starting Saga\Freeza Saga]
-Type = Gameshark
-Activation = EndFrame
-801FF002 0002
-
-[Select Starting Saga\Android Saga]
-Type = Gameshark
-Activation = EndFrame
-801FF002 0003
-
-[Select Starting Saga\Cell Saga]
-Type = Gameshark
-Activation = EndFrame
-801FF002 0004
-
-[Select Starting Saga\Buu Saga (Dabura/Majin Buu)]
-Type = Gameshark
-Activation = EndFrame
-801FF002 0005
-
-[Select Starting Saga\Buu Saga (Majin Buu/Super Buu)]
-Type = Gameshark
-Activation = EndFrame
-801FF002 0006
-
-[Select Starting Saga\Buu Saga (Super Buu/Kid Buu)]
-Type = Gameshark
-Activation = EndFrame
-801FF002 0007
+801FF002 ????
+Option = Saiyan Saga:0x0000
+Option = Ginyu Saga:0x0001
+Option = Freeza Saga:0x0002
+Option = Android Saga:0x0003
+Option = Cell Saga:0x0004
+Option = Buu Saga (Dabura/Majin Buu):0x0005
+Option = Buu Saga (Majin Buu/Super Buu):0x0006
+Option = Buu Saga (Super Buu/Kid Buu):0x0007
 
 [Press Select to Unlock All Characters [Title Screen]]
 Type = Gameshark
@@ -61,20 +34,13 @@ Type = Gameshark
 Activation = EndFrame
 80017FC2 0009
 
-[Power Balance full blue]
+[Select Power Balance]
 Type = Gameshark
 Activation = EndFrame
-8001AF10 7FFF
-
-[Power Balance, Balanced]
-Type = Gameshark
-Activation = EndFrame
-8001AF10 0000
-
-[Power Balance full red]
-Type = Gameshark
-Activation = EndFrame
-8001AF10 8AD0
+8001AF10 ????
+Option = full blue:0x7FFF
+Option = Balanced:0x0000
+Option = full red:0x8AD0
 
 [All Attacks Hurt P2 (Game Mode)]
 Type = Gameshark

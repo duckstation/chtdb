@@ -52,71 +52,24 @@ Type = Gameshark
 Activation = EndFrame
 300CCF2F 003F
 
-[Select Level\Sky Lagoon select Game Start at main title screen,after the intro scenes instead of going to the Intro Level(Sky Lagoon) you will be taken to the leve]
+[Select Level]
+Description = select Game Start at main title screen,after the intro scenes instead of going to the Intro Level(Sky Lagoon) you will be taken to the level
 Type = Gameshark
 Activation = EndFrame
-301721CC 0000
-
-[Select Level\Jungle select Game Start at main title screen,after the intro scenes instead of going to the Intro Level(Sky Lagoon) you will be taken to the leve]
-Type = Gameshark
-Activation = EndFrame
-301721CC 0001
-
-[Select Level\Snow Base select Game Start at main title screen,after the intro scenes instead of going to the Intro Level(Sky Lagoon) you will be taken to the leve]
-Type = Gameshark
-Activation = EndFrame
-301721CC 0002
-
-[Select Level\Bio Laboratory select Game Start at main title screen,after the intro scenes instead of going to the Intro Level(Sky Lagoon) you will be taken to the leve]
-Type = Gameshark
-Activation = EndFrame
-301721CC 0003
-
-[Select Level\Volcano select Game Start at main title screen,after the intro scenes instead of going to the Intro Level(Sky Lagoon) you will be taken to the leve]
-Type = Gameshark
-Activation = EndFrame
-301721CC 0004
-
-[Select Level\Marine Base select Game Start at main title screen,after the intro scenes instead of going to the Intro Level(Sky Lagoon) you will be taken to the leve]
-Type = Gameshark
-Activation = EndFrame
-301721CC 0005
-
-[Select Level\Cyber Space select Game Start at main title screen,after the intro scenes instead of going to the Intro Level(Sky Lagoon) you will be taken to the leve]
-Type = Gameshark
-Activation = EndFrame
-301721CC 0006
-
-[Select Level\Air Force select Game Start at main title screen,after the intro scenes instead of going to the Intro Level(Sky Lagoon) you will be taken to the leve]
-Type = Gameshark
-Activation = EndFrame
-301721CC 0007
-
-[Select Level\Military Train select Game Start at main title screen,after the intro scenes instead of going to the Intro Level(Sky Lagoon) you will be taken to the leve]
-Type = Gameshark
-Activation = EndFrame
-301721CC 0008
-
-[Select Level\Memorial Hall select Game Start at main title screen,after the intro scenes instead of going to the Intro Level(Sky Lagoon) you will be taken to the leve]
-Type = Gameshark
-Activation = EndFrame
-301721CC 0009
-
-[Select Level\Spaceport select Game Start at main title screen,after the intro scenes instead of going to the Intro Level(Sky Lagoon) you will be taken to the leve]
-Type = Gameshark
-Activation = EndFrame
-301721CC 000A
-
-[Select Level\Final Weapon select Game Start at main title screen,after the intro scenes instead of going to the Intro Level(Sky Lagoon) you will be taken to the leve]
-Type = Gameshark
-Activation = EndFrame
-301721CC 000B
-
-[Select Level\Final Weapon]
-Description = 2nd Section select Game Start at main title screen,after the intro scenes instead of going to the Intro Level(Sky Lagoon) you will be taken to the leve
-Type = Gameshark
-Activation = EndFrame
-301721CC 000C
+301721CC ????
+Option = Sky Lagoon:0x0000
+Option = Jungle:0x0001
+Option = Snow Base:0x0002
+Option = Bio Laboratory:0x0003
+Option = Volcano:0x0004
+Option = Marine Base:0x0005
+Option = Cyber Space:0x0006
+Option = Air Force:0x0007
+Option = Military Train:0x0008
+Option = Memorial Hall:0x0009
+Option = Spaceport:0x000A
+Option = Final Weapon:0x000B
+Option = Final Weapon (2nd Section):0x000C
 
 [Matrix mode "Press L3 to toggle on/off"]
 Type = Gameshark

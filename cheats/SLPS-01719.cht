@@ -1,22 +1,14 @@
 ; CHTDB: ; [ FIFA World Cup 98: France 98 Soushuuhen (Japan) {SLPS-01719} ]
 
-[P1 Score 9]
+[P1 Select Score]
 Type = Gameshark
 Activation = EndFrame
-801F7F50 0009
+801F7F50 000?
+OptionRange = 0:9
 
-[P1 Score 0]
+[P2 Select Score]
 Type = Gameshark
 Activation = EndFrame
-801F7F50 0000
-
-[P2 Score 9]
-Type = Gameshark
-Activation = EndFrame
-801F7F54 0009
-
-[P2 Score 0]
-Type = Gameshark
-Activation = EndFrame
-801F7F54 0000
+801F7F54 000?
+OptionRange = 0:9
 

@@ -5,35 +5,16 @@ Type = Gameshark
 Activation = EndFrame
 8007BC1C FFFF
 
-[Select Track\USA]
+[Select Track]
 Type = Gameshark
 Activation = EndFrame
-800A07D8 0000
-
-[Select Track\Switzerland]
-Type = Gameshark
-Activation = EndFrame
-800A07D8 0001
-
-[Select Track\Japan]
-Type = Gameshark
-Activation = EndFrame
-800A07D8 0002
-
-[Select Track\Scotland]
-Type = Gameshark
-Activation = EndFrame
-800A07D8 0003
-
-[Select Track\Germany]
-Type = Gameshark
-Activation = EndFrame
-800A07D8 0004
-
-[Select Track\France]
-Type = Gameshark
-Activation = EndFrame
-800A07D8 0005
+800A07D8 ????
+Option = France:0x0005
+Option = Germany:0x0004
+Option = Japan:0x0002
+Option = Scotland:0x0003
+Option = Switzerland:0x0001
+Option = USA:0x0000
 
 [Time Is Always 0.00.00]
 Type = Gameshark

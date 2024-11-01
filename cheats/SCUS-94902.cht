@@ -15,58 +15,19 @@ Type = Gameshark
 Activation = EndFrame
 8010A4EC 0000
 
-[Select Arena\Hidden Desert Base]
+[Select Arena]
 Type = Gameshark
 Activation = EndFrame
-901FFD18 00000001
-
-[Select Arena\Occupied City]
-Type = Gameshark
-Activation = EndFrame
-901FFD18 00000002
-
-[Select Arena\Enemy Air Base]
-Type = Gameshark
-Activation = EndFrame
-901FFD18 00000003
-
-[Select Arena\Canyon Run]
-Type = Gameshark
-Activation = EndFrame
-901FFD18 00000004
-
-[Select Arena\Wastelands]
-Type = Gameshark
-Activation = EndFrame
-901FFD18 00000005
-
-[Select Arena\Fortified City]
-Type = Gameshark
-Activation = EndFrame
-901FFD18 00000006
-
-[Select Arena\Forest War]
-Type = Gameshark
-Activation = EndFrame
-901FFD18 00000007
-
-[Select Arena\Mountain Run]
-Type = Gameshark
-Activation = EndFrame
-901FFD18 00000008
-
-[Select Arena\Citadel]
-Type = Gameshark
-Activation = EndFrame
-901FFD18 00000009
-
-[Select Arena\Underground Stronghold]
-Type = Gameshark
-Activation = EndFrame
-901FFD18 0000000A
-
-[Select Arena\Martian Surface]
-Type = Gameshark
-Activation = EndFrame
-901FFD18 0000000B
+901FFD18 ????????
+Option = Hidden Desert Base:0x00000001
+Option = Occupied City:0x00000002
+Option = Enemy Air Base:0x00000003
+Option = Canyon Run:0x00000004
+Option = Wastelands:0x00000005
+Option = Fortified City:0x00000006
+Option = Forest War:0x00000007
+Option = Mountain Run:0x00000008
+Option = Citadel:0x00000009
+Option = Underground Stronghold:0x0000000A
+Option = Martian Surface:0x0000000B
 

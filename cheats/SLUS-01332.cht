@@ -5,7 +5,7 @@ Type = Gameshark
 Activation = EndFrame
 300B8D42 0099
 
-[P1 Infinite Health]
+[P1 Infinite Energy]
 Type = Gameshark
 Activation = EndFrame
 300B7EB4 0065
@@ -21,7 +21,7 @@ Activation = EndFrame
 E00B7EB4 0065
 300B7EB4 0001
 
-[P2 Infinite Health]
+[P2 Infinite Energy]
 Type = Gameshark
 Activation = EndFrame
 300B808C 0065

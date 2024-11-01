@@ -1,24 +1,16 @@
 ; CHTDB: ; [ Striker Pro 2000 (USA) (2000) (Infogrames) {SLUS-01078} <stkpro2k> ]
 
-[Select Away Team Score\9]
+[Select Away Team Score]
 Type = Gameshark
 Activation = EndFrame
-800C89A8 0009
+800C89A8 00??
+OptionRange = 0:9
 
-[Select Away Team Score\0]
+[Select Home Team Score]
 Type = Gameshark
 Activation = EndFrame
-800C89A8 0000
-
-[Select Home Team Score\9]
-Type = Gameshark
-Activation = EndFrame
-800C89A4 0009
-
-[Select Home Team Score\0]
-Type = Gameshark
-Activation = EndFrame
-800C89A4 0000
+800C89A4 00??
+OptionRange = 0:9
 
 [Have Ability To Change Body Looks At Enter Code Screen]
 Type = Gameshark

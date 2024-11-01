@@ -1,22 +1,14 @@
 ; CHTDB: ; [ NFL GameDay 2002 (USA) (2001) (Sony Computer Entertainment America) {SCUS-94639} <nflgd2k2> ]
 
-[Select Home Team Score\0]
+[Select Home Team Score]
 Type = Gameshark
 Activation = EndFrame
-80100918 0000
+80100918 00??
+OptionRange = 0:99
 
-[Select Home Team Score\99]
+[Select Away Team Score]
 Type = Gameshark
 Activation = EndFrame
-80100918 0063
-
-[Select Away Team Score\0]
-Type = Gameshark
-Activation = EndFrame
-8010091C 0000
-
-[Select Away Team Score\99]
-Type = Gameshark
-Activation = EndFrame
-8010091C 0063
+8010091C 00??
+OptionRange = 0:99
 

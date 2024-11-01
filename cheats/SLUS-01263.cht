@@ -39,588 +39,135 @@ Type = Gameshark
 Activation = EndFrame
 300B6965 0001
 
-[Select Max Season Points Character\Steve Park]
-Type = Gameshark
-Activation = EndFrame
-900B4270 FFFF0001
-
-[Select Max Season Points Character\Rusty Wallace]
-Type = Gameshark
-Activation = EndFrame
-900B4270 FFFF0002
-
-[Select Max Season Points Character\Dale Earnhardt]
-Type = Gameshark
-Activation = EndFrame
-900B4270 FFFF0003
-
-[Select Max Season Points Character\Bobby Hamilton]
-Type = Gameshark
-Activation = EndFrame
-900B4270 FFFF0004
-
-[Select Max Season Points Character\Terry Labonte]
-Type = Gameshark
-Activation = EndFrame
-900B4270 FFFF0005
-
-[Select Max Season Points Character\Mark Martin]
-Type = Gameshark
-Activation = EndFrame
-900B4270 FFFF0006
-
-[Select Max Season Points Character\Michael Waltrip]
-Type = Gameshark
-Activation = EndFrame
-900B4270 FFFF0007
-
-[Select Max Season Points Character\Dale Earnhardt, Jr]
-Type = Gameshark
-Activation = EndFrame
-900B4270 FFFF0008
-
-[Select Max Season Points Character\Jeremy Mayfield]
-Type = Gameshark
-Activation = EndFrame
-900B4270 FFFF000C
-
-[Select Max Season Points Character\Kevin LePage]
-Type = Gameshark
-Activation = EndFrame
-900B4270 FFFF0010
-
-[Select Max Season Points Character\Matt Kenseth]
-Type = Gameshark
-Activation = EndFrame
-900B4270 FFFF0011
-
-[Select Max Season Points Character\Bobby LeBonte]
-Type = Gameshark
-Activation = EndFrame
-900B4270 FFFF0012
-
-[Select Max Season Points Character\Tony Stewart]
-Type = Gameshark
-Activation = EndFrame
-900B4270 FFFF0014
-
-[Select Max Season Points Character\Elliot Sadler]
-Type = Gameshark
-Activation = EndFrame
-900B4270 FFFF0015
-
-[Select Max Season Points Character\Wade Burton]
-Type = Gameshark
-Activation = EndFrame
-900B4270 FFFF0016
-
-[Select Max Season Points Character\Jeff Gordon]
-Type = Gameshark
-Activation = EndFrame
-900B4270 FFFF0018
-
-[Select Max Season Points Character\Jeremy Nadeau]
-Type = Gameshark
-Activation = EndFrame
-900B4270 FFFF0019
-
-[Select Max Season Points Character\Jimmy Spencer]
-Type = Gameshark
-Activation = EndFrame
-900B4270 FFFF001A
-
-[Select Max Season Points Character\Ricky Rudd]
-Type = Gameshark
-Activation = EndFrame
-900B4270 FFFF001C
-
-[Select Max Season Points Character\Mike Skinner]
-Type = Gameshark
-Activation = EndFrame
-900B4270 FFFF001F
-
-[Select Max Season Points Character\Scott Pruett]
-Type = Gameshark
-Activation = EndFrame
-900B4270 FFFF0020
-
-[Select Max Season Points Character\Joe Nemechek]
-Type = Gameshark
-Activation = EndFrame
-900B4270 FFFF0021
-
-[Select Max Season Points Character\Ken Schrader]
-Type = Gameshark
-Activation = EndFrame
-900B4270 FFFF0024
-
-[Select Max Season Points Character\Sterling Martin]
-Type = Gameshark
-Activation = EndFrame
-900B4270 FFFF0028
-
-[Select Max Season Points Character\Kenny Irwin, Jr]
-Type = Gameshark
-Activation = EndFrame
-900B4270 FFFF002A
-
-[Select Max Season Points Character\John Andretti]
-Type = Gameshark
-Activation = EndFrame
-900B4270 FFFF002B
-
-[Select Max Season Points Character\Kyle Petty]
-Type = Gameshark
-Activation = EndFrame
-900B4270 FFFF002C
-
-[Select Max Season Points Character\Adam Perry]
-Type = Gameshark
-Activation = EndFrame
-900B4270 FFFF002D
-
-[Select Max Season Points Character\Kenny Wallace]
-Type = Gameshark
-Activation = EndFrame
-900B4270 FFFF0037
-
-[Select Max Season Points Character\Geoffrey Bodine]
-Type = Gameshark
-Activation = EndFrame
-900B4270 FFFF003C
-
-[Select Max Season Points Character\Darrell Waltrip]
-Type = Gameshark
-Activation = EndFrame
-900B4270 FFFF0042
-
-[Select Max Season Points Character\Wally Dallenbach]
-Type = Gameshark
-Activation = EndFrame
-900B4270 FFFF004B
-
-[Select Max Season Points Character\Dale Jarrett]
-Type = Gameshark
-Activation = EndFrame
-900B4270 FFFF0058
-
-[Select Max Season Points Character\Bill Elliot]
-Type = Gameshark
-Activation = EndFrame
-900B4270 FFFF005E
-
-[Select Max Season Points Character\Chad Little]
-Type = Gameshark
-Activation = EndFrame
-900B4270 FFFF0061
-
-[Select Max Season Points Character\Jeff Burton]
-Type = Gameshark
-Activation = EndFrame
-900B4270 FFFF0063
-
-[Select Max Season Points Character\Shorty Leung]
-Type = Gameshark
-Activation = EndFrame
-900B4270 FFFF0064
-
-[Select Max Season Points Character\KC Monoxide]
-Type = Gameshark
-Activation = EndFrame
-900B4270 FFFF0065
-
-[Select Max Season Points Character\Richard Petty]
-Type = Gameshark
-Activation = EndFrame
-900B4270 FFFF008F
-
-[Select Max Season Points Character\Daniel Seiberling]
-Type = Gameshark
-Activation = EndFrame
-900B4270 FFFF0092
-
-[Select Max Season Points Character\Asher Boldt]
-Type = Gameshark
-Activation = EndFrame
-900B4270 FFFF0099
-
-[Select Max Season Points Character\Jocko Michaels]
-Type = Gameshark
-Activation = EndFrame
-900B4270 FFFF00A7
-
-[Select Max Season Points Character\Goopy Gough]
-Type = Gameshark
-Activation = EndFrame
-900B4270 FFFF00AF
-
-[Select Driver/Car\Steve Park]
-Type = Gameshark
-Activation = EndFrame
-800C0FE0 0001
-
-[Select Driver/Car\Rusty Wallace]
-Type = Gameshark
-Activation = EndFrame
-800C0FE0 0002
-
-[Select Driver/Car\Dale Earnhardt]
-Type = Gameshark
-Activation = EndFrame
-800C0FE0 0003
-
-[Select Driver/Car\Bobby Hamilton]
-Type = Gameshark
-Activation = EndFrame
-800C0FE0 0004
-
-[Select Driver/Car\Terry Labonte]
-Type = Gameshark
-Activation = EndFrame
-800C0FE0 0005
-
-[Select Driver/Car\Mark Martin]
-Type = Gameshark
-Activation = EndFrame
-800C0FE0 0006
-
-[Select Driver/Car\Micheal Waltrip]
-Type = Gameshark
-Activation = EndFrame
-800C0FE0 0007
-
-[Select Driver/Car\Dale Earnhardt Jr.]
-Type = Gameshark
-Activation = EndFrame
-800C0FE0 0008
-
-[Select Driver/Car\Jeremy Mayfield]
-Type = Gameshark
-Activation = EndFrame
-800C0FE0 000C
-
-[Select Driver/Car\Kevin Lepage]
-Type = Gameshark
-Activation = EndFrame
-800C0FE0 0010
-
-[Select Driver/Car\Matt Kenseth]
-Type = Gameshark
-Activation = EndFrame
-800C0FE0 0011
-
-[Select Driver/Car\Bobby Labonte]
-Type = Gameshark
-Activation = EndFrame
-800C0FE0 0012
-
-[Select Driver/Car\Tony Stewert]
-Type = Gameshark
-Activation = EndFrame
-800C0FE0 0014
-
-[Select Driver/Car\Elliott Sadler]
-Type = Gameshark
-Activation = EndFrame
-800C0FE0 0015
-
-[Select Driver/Car\Ward Burton]
-Type = Gameshark
-Activation = EndFrame
-800C0FE0 0016
-
-[Select Driver/Car\Jeff Gordon]
-Type = Gameshark
-Activation = EndFrame
-800C0FE0 0018
-
-[Select Driver/Car\Jerry Nadeau]
-Type = Gameshark
-Activation = EndFrame
-800C0FE0 0019
-
-[Select Driver/Car\Jimmy Spencer]
-Type = Gameshark
-Activation = EndFrame
-800C0FE0 001A
-
-[Select Driver/Car\Ricky Rudd]
-Type = Gameshark
-Activation = EndFrame
-800C0FE0 001C
-
-[Select Driver/Car\Mike Skinner]
-Type = Gameshark
-Activation = EndFrame
-800C0FE0 001F
-
-[Select Driver/Car\Scott Pruett]
-Type = Gameshark
-Activation = EndFrame
-800C0FE0 0020
-
-[Select Driver/Car\Joe Nemechek]
-Type = Gameshark
-Activation = EndFrame
-800C0FE0 0021
-
-[Select Driver/Car\Ken Schrader]
-Type = Gameshark
-Activation = EndFrame
-800C0FE0 0024
-
-[Select Driver/Car\Sterling Marlin]
-Type = Gameshark
-Activation = EndFrame
-800C0FE0 0028
-
-[Select Driver/Car\Kenny Irwin Jr.]
-Type = Gameshark
-Activation = EndFrame
-800C0FE0 002A
-
-[Select Driver/Car\John Andretti (STP)]
-Type = Gameshark
-Activation = EndFrame
-800C0FE0 002B
-
-[Select Driver/Car\Kyle Petty]
-Type = Gameshark
-Activation = EndFrame
-800C0FE0 002C
-
-[Select Driver/Car\Adam Petty]
-Type = Gameshark
-Activation = EndFrame
-800C0FE0 002D
-
-[Select Driver/Car\Kenny Wallace]
-Type = Gameshark
-Activation = EndFrame
-800C0FE0 0037
-
-[Select Driver/Car\Geoffrey Bodine]
-Type = Gameshark
-Activation = EndFrame
-800C0FE0 003C
-
-[Select Driver/Car\Darrell Waltrip]
-Type = Gameshark
-Activation = EndFrame
-800C0FE0 0042
-
-[Select Driver/Car\Wally Dallenbach]
-Type = Gameshark
-Activation = EndFrame
-800C0FE0 004B
-
-[Select Driver/Car\Dale Jarrrett]
-Type = Gameshark
-Activation = EndFrame
-800C0FE0 0058
-
-[Select Driver/Car\Bill Elliott]
-Type = Gameshark
-Activation = EndFrame
-800C0FE0 005E
-
-[Select Driver/Car\Chad Little]
-Type = Gameshark
-Activation = EndFrame
-800C0FE0 0061
-
-[Select Driver/Car\Jeff Burton]
-Type = Gameshark
-Activation = EndFrame
-800C0FE0 0063
-
-[Select Driver/Car\'Shorty' Leung]
-Type = Gameshark
-Activation = EndFrame
-800C0FE0 0064
-
-[Select Driver/Car\KC Monoxide]
-Type = Gameshark
-Activation = EndFrame
-800C0FE0 0065
-
-[Select Driver/Car\Richard Petty]
-Type = Gameshark
-Activation = EndFrame
-800C0FE0 008F
-
-[Select Driver/Car\John Andretti (cheerios)]
-Type = Gameshark
-Activation = EndFrame
-800C0FE0 0090
-
-[Select Driver/Car\Dan seiberling]
-Type = Gameshark
-Activation = EndFrame
-800C0FE0 0092
-
-[Select Driver/Car\Asher Boldt]
-Type = Gameshark
-Activation = EndFrame
-800C0FE0 0099
-
-[Select Driver/Car\Jacko Michaels]
-Type = Gameshark
-Activation = EndFrame
-800C0FE0 00A7
-
-[Select Driver/Car\Goopy Gough]
-Type = Gameshark
-Activation = EndFrame
-800C0FE0 00AF
-
-[Select Track\Bristol (Day)]
-Type = Gameshark
-Activation = EndFrame
-800C13E4 0000
-
-[Select Track\Bridtol (Day)]
-Type = Gameshark
-Activation = EndFrame
-800C13E4 0001
-
-[Select Track\Talladega]
-Type = Gameshark
-Activation = EndFrame
-800C13E4 0002
-
-[Select Track\Watkins Glen]
-Type = Gameshark
-Activation = EndFrame
-800C13E4 0003
-
-[Select Track\California]
-Type = Gameshark
-Activation = EndFrame
-800C13E4 0004
-
-[Select Track\Lowe's]
-Type = Gameshark
-Activation = EndFrame
-800C13E4 0005
-
-[Select Track\Atlanta]
-Type = Gameshark
-Activation = EndFrame
-800C13E4 0006
-
-[Select Track\Darlington]
-Type = Gameshark
-Activation = EndFrame
-800C13E4 0007
-
-[Select Track\Texas]
-Type = Gameshark
-Activation = EndFrame
-800C13E4 0008
-
-[Select Track\Las Vegas]
-Type = Gameshark
-Activation = EndFrame
-800C13E4 0009
-
-[Select Track\Indianapolis]
-Type = Gameshark
-Activation = EndFrame
-800C13E4 000A
-
-[Select Track\Michigan]
-Type = Gameshark
-Activation = EndFrame
-800C13E4 000B
-
-[Select Track\North Carolina]
-Type = Gameshark
-Activation = EndFrame
-800C13E4 000C
-
-[Select Track\Sears Point]
-Type = Gameshark
-Activation = EndFrame
-800C13E4 000D
-
-[Select Track\Martinsville]
-Type = Gameshark
-Activation = EndFrame
-800C13E4 000E
-
-[Select Track\Phoenix]
-Type = Gameshark
-Activation = EndFrame
-800C13E4 000F
-
-[Select Track\Richmond]
-Type = Gameshark
-Activation = EndFrame
-800C13E4 0010
-
-[Select Track\Homestead-Miami]
-Type = Gameshark
-Activation = EndFrame
-800C13E4 0011
-
-[Select Track\Pocono]
-Type = Gameshark
-Activation = EndFrame
-800C13E4 0012
-
-[Select Track\New York]
-Type = Gameshark
-Activation = EndFrame
-800C13E4 0013
-
-[Select Track\Mile High]
-Type = Gameshark
-Activation = EndFrame
-800C13E4 0014
-
-[Select Track\Hawaii]
-Type = Gameshark
-Activation = EndFrame
-800C13E4 0015
-
-[Select Track\Dustbowl]
-Type = Gameshark
-Activation = EndFrame
-800C13E4 0016
-
-[Select Track\Southern]
-Type = Gameshark
-Activation = EndFrame
-800C13E4 0017
-
-[Select Track\Proving Grounds]
-Type = Gameshark
-Activation = EndFrame
-800C13E4 0019
-
-[Select Track\Bristol(Night)]
-Type = Gameshark
-Activation = EndFrame
-800C13E4 001C
-
-[Select Track\Daytona (Day)]
-Type = Gameshark
-Activation = EndFrame
-800C13E4 001D
-
-[Select Track\Treasure Island]
-Type = Gameshark
-Activation = EndFrame
-800C13E4 001E
-
-[Select Track\Daytona (Night)]
-Type = Gameshark
-Activation = EndFrame
-800C13E4 001F
-
-[Select Track\4th From the Sun]
-Type = Gameshark
-Activation = EndFrame
-800C13E4 0020
+[Select Max Season Points Character]
+Type = Gameshark
+Activation = EndFrame
+900B4270 ????????
+Option = Steve Park:0xFFFF0001
+Option = Rusty Wallace:0xFFFF0002
+Option = Dale Earnhardt:0xFFFF0003
+Option = Bobby Hamilton:0xFFFF0004
+Option = Terry Labonte:0xFFFF0005
+Option = Mark Martin:0xFFFF0006
+Option = Michael Waltrip:0xFFFF0007
+Option = Dale Earnhardt, Jr:0xFFFF0008
+Option = Jeremy Mayfield:0xFFFF000C
+Option = Kevin LePage:0xFFFF0010
+Option = Matt Kenseth:0xFFFF0011
+Option = Bobby LeBonte:0xFFFF0012
+Option = Tony Stewart:0xFFFF0014
+Option = Elliot Sadler:0xFFFF0015
+Option = Wade Burton:0xFFFF0016
+Option = Jeff Gordon:0xFFFF0018
+Option = Jeremy Nadeau:0xFFFF0019
+Option = Jimmy Spencer:0xFFFF001A
+Option = Ricky Rudd:0xFFFF001C
+Option = Mike Skinner:0xFFFF001F
+Option = Scott Pruett:0xFFFF0020
+Option = Joe Nemechek:0xFFFF0021
+Option = Ken Schrader:0xFFFF0024
+Option = Sterling Martin:0xFFFF0028
+Option = Kenny Irwin, Jr:0xFFFF002A
+Option = John Andretti:0xFFFF002B
+Option = Kyle Petty:0xFFFF002C
+Option = Adam Perry:0xFFFF002D
+Option = Kenny Wallace:0xFFFF0037
+Option = Geoffrey Bodine:0xFFFF003C
+Option = Darrell Waltrip:0xFFFF0042
+Option = Wally Dallenbach:0xFFFF004B
+Option = Dale Jarrett:0xFFFF0058
+Option = Bill Elliot:0xFFFF005E
+Option = Chad Little:0xFFFF0061
+Option = Jeff Burton:0xFFFF0063
+Option = Shorty Leung:0xFFFF0064
+Option = KC Monoxide:0xFFFF0065
+Option = Richard Petty:0xFFFF008F
+Option = Daniel Seiberling:0xFFFF0092
+Option = Asher Boldt:0xFFFF0099
+Option = Jocko Michaels:0xFFFF00A7
+Option = Goopy Gough:0xFFFF00AF
+
+[Select Driver/Car]
+Type = Gameshark
+Activation = EndFrame
+800C0FE0 ????
+Option = 'Shorty' Leung:0x0064
+Option = Adam Petty:0x002D
+Option = Asher Boldt:0x0099
+Option = Bill Elliott:0x005E
+Option = Bobby Hamilton:0x0004
+Option = Bobby Labonte:0x0012
+Option = Chad Little:0x0061
+Option = Dale Earnhardt Jr.:0x0008
+Option = Dale Earnhardt:0x0003
+Option = Dale Jarrrett:0x0058
+Option = Dan seiberling:0x0092
+Option = Darrell Waltrip:0x0042
+Option = Elliott Sadler:0x0015
+Option = Geoffrey Bodine:0x003C
+Option = Goopy Gough:0x00AF
+Option = Jacko Michaels:0x00A7
+Option = Jeff Burton:0x0063
+Option = Jeff Gordon:0x0018
+Option = Jeremy Mayfield:0x000C
+Option = Jerry Nadeau:0x0019
+Option = Jimmy Spencer:0x001A
+Option = Joe Nemechek:0x0021
+Option = John Andretti (STP):0x002B
+Option = John Andretti (cheerios):0x0090
+Option = KC Monoxide:0x0065
+Option = Ken Schrader:0x0024
+Option = Kenny Irwin Jr.:0x002A
+Option = Kenny Wallace:0x0037
+Option = Kevin Lepage:0x0010
+Option = Kyle Petty:0x002C
+Option = Mark Martin:0x0006
+Option = Matt Kenseth:0x0011
+Option = Micheal Waltrip:0x0007
+Option = Mike Skinner:0x001F
+Option = Richard Petty:0x008F
+Option = Ricky Rudd:0x001C
+Option = Rusty Wallace:0x0002
+Option = Scott Pruett:0x0020
+Option = Sterling Marlin:0x0028
+Option = Steve Park:0x0001
+Option = Terry Labonte:0x0005
+Option = Tony Stewert:0x0014
+Option = Wally Dallenbach:0x004B
+Option = Ward Burton:0x0016
+
+[Select Track]
+Type = Gameshark
+Activation = EndFrame
+800C13E4 ????
+Option = Bristol (Day):0x0000
+Option = Bridtol (Day):0x0001
+Option = Talladega:0x0002
+Option = Watkins Glen:0x0003
+Option = California:0x0004
+Option = Lowe's:0x0005
+Option = Atlanta:0x0006
+Option = Darlington:0x0007
+Option = Texas:0x0008
+Option = Las Vegas:0x0009
+Option = Indianapolis:0x000A
+Option = Michigan:0x000B
+Option = North Carolina:0x000C
+Option = Sears Point:0x000D
+Option = Martinsville:0x000E
+Option = Phoenix:0x000F
+Option = Richmond:0x0010
+Option = Homestead-Miami:0x0011
+Option = Pocono:0x0012
+Option = New York:0x0013
+Option = Mile High:0x0014
+Option = Hawaii:0x0015
+Option = Dustbowl:0x0016
+Option = Southern:0x0017
+Option = Proving Grounds:0x0019
+Option = Bristol(Night):0x001C
+Option = Daytona (Day):0x001D
+Option = Treasure Island:0x001E
+Option = Daytona (Night):0x001F
+Option = 4th From the Sun:0x0020
 

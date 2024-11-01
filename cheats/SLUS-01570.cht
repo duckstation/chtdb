@@ -1,22 +1,14 @@
 ; CHTDB: ; [ Madden NFL 2004 (USA) (2003) (Electronic Arts) {SLUS-01570} <maddn2k4> ]
 
-[Select Home Team Score\99]
+[Select Home Team Score]
 Type = Gameshark
 Activation = EndFrame
-8006F3D4 0063
+8006F3D4 00??
+OptionRange = 0:99
 
-[Select Home Team Score\0]
+[Select Away Team Score]
 Type = Gameshark
 Activation = EndFrame
-8006F3D4 0000
-
-[Select Away Team Score\99]
-Type = Gameshark
-Activation = EndFrame
-800714B4 0063
-
-[Select Away Team Score\0]
-Type = Gameshark
-Activation = EndFrame
-800714B4 0000
+800714B4 00??
+OptionRange = 0:99
 

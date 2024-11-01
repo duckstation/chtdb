@@ -38,30 +38,15 @@ Type = Gameshark
 Activation = EndFrame
 30113A25 0055
 
-[Character Doraemon]
+[Select Character]
 Type = Gameshark
 Activation = EndFrame
-30114E24 0000
-
-[Character Nobita]
-Type = Gameshark
-Activation = EndFrame
-30114E24 0001
-
-[Character quiet]
-Type = Gameshark
-Activation = EndFrame
-30114E24 0002
-
-[Character Gian]
-Type = Gameshark
-Activation = EndFrame
-30114E24 0003
-
-[Character Suneo]
-Type = Gameshark
-Activation = EndFrame
-30114E24 0004
+30114E24 ????
+Option = Doraemon:0x0000
+Option = Nobita:0x0001
+Option = quiet:0x0002
+Option = Gian:0x0003
+Option = Suneo:0x0004
 
 [PocketStation game Score MAX]
 Type = Gameshark

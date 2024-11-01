@@ -43,40 +43,17 @@ Activation = EndFrame
 D009823C 0400
 800D752A FFFB
 
-[Select Power-up\Whirlwind Power-up]
+[Select Power-up]
 Type = Gameshark
 Activation = EndFrame
-30097B08 0001
-
-[Select Power-up\Speed Power-up]
-Type = Gameshark
-Activation = EndFrame
-30097B08 0002
-
-[Select Power-up\Ice Power-up]
-Type = Gameshark
-Activation = EndFrame
-30097B08 0004
-
-[Select Power-up\Fireball Power-up]
-Type = Gameshark
-Activation = EndFrame
-30097B08 0005
-
-[Select Power-up\Lightning Power-up]
-Type = Gameshark
-Activation = EndFrame
-30097B08 0006
-
-[Select Power-up\Jump Power-up]
-Type = Gameshark
-Activation = EndFrame
-30097B08 0008
-
-[Select Power-up\Refill Health]
-Type = Gameshark
-Activation = EndFrame
-30097B08 0009
+30097B08 ????
+Option = Whirlwind Power-up:0x0001
+Option = Speed Power-up:0x0002
+Option = Ice Power-up:0x0004
+Option = Fireball Power-up:0x0005
+Option = Lightning Power-up:0x0006
+Option = Jump Power-up:0x0008
+Option = Refill Health:0x0009
 
 [Blurr Mode]
 Type = Gameshark

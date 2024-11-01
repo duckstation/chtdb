@@ -135,80 +135,30 @@ Type = Gameshark
 Activation = EndFrame
 800FB32A 03E8
 
-[Misc\Weapon Pistol 1]
+[Select Weapon]
 Type = Gameshark
 Activation = EndFrame
-80113194 0000
+80113194 ????
+Option = Pistol 1:0x0000
+Option = Pistol 2:0x0001
+Option = Pistol 3:0x0002
+Option = Blaster 1:0x0003
+Option = Blaster 2:0x0004
+Option = Blaster 3:0x0005
+Option = Rocket 1:0x0006
+Option = Rocket 2:0x0007
+Option = Rocket 3:0x0008
 
-[Misc\Weapon Pistol 2]
+[Select Glitch Tool]
 Type = Gameshark
 Activation = EndFrame
-80113194 0001
-
-[Misc\Weapon Pistol 3]
-Type = Gameshark
-Activation = EndFrame
-80113194 0002
-
-[Misc\Weapon Blaster 1]
-Type = Gameshark
-Activation = EndFrame
-80113194 0003
-
-[Misc\Weapon Blaster 2]
-Type = Gameshark
-Activation = EndFrame
-80113194 0004
-
-[Misc\Weapon Blaster 3]
-Type = Gameshark
-Activation = EndFrame
-80113194 0005
-
-[Misc\Weapon Rocket 1]
-Type = Gameshark
-Activation = EndFrame
-80113194 0006
-
-[Misc\Weapon Rocket 2]
-Type = Gameshark
-Activation = EndFrame
-80113194 0007
-
-[Misc\Weapon Rocket 3]
-Type = Gameshark
-Activation = EndFrame
-80113194 0008
-
-[Misc\Glitch Tool Mend]
-Type = Gameshark
-Activation = EndFrame
-80113190 0009
-
-[Misc\Glitch Tool Mortar]
-Type = Gameshark
-Activation = EndFrame
-80113190 000A
-
-[Misc\Glitch Tool FlameThrower]
-Type = Gameshark
-Activation = EndFrame
-80113190 000B
-
-[Misc\Glitch Tool Box Gun]
-Type = Gameshark
-Activation = EndFrame
-80113190 000E
-
-[Misc\Glitch Tool Vampire]
-Type = Gameshark
-Activation = EndFrame
-80113190 000F
-
-[Misc\Glitch Tool Anti-Virus]
-Type = Gameshark
-Activation = EndFrame
-80113190 0011
+80113190 ????
+Option = Mend:0x0009
+Option = Mortar:0x000A
+Option = FlameThrower:0x000B
+Option = Box Gun:0x000E
+Option = Vampire:0x000F
+Option = Anti-Virus:0x0011
 
 [Misc\Play As Dot Matrix]
 Type = Gameshark

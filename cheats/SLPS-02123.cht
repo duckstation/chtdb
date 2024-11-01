@@ -1,49 +1,10 @@
 ; CHTDB: ; [ Chou Nazoou (Japan) {SLPS-02123} ]
 
-[Select Perm Right Answers\1]
+[Select Perm Right Answers]
 Type = Gameshark
 Activation = EndFrame
-800C07F0 0001
-
-[Select Perm Right Answers\2]
-Type = Gameshark
-Activation = EndFrame
-800C07F0 0002
-
-[Select Perm Right Answers\3]
-Type = Gameshark
-Activation = EndFrame
-800C07F0 0003
-
-[Select Perm Right Answers\4]
-Type = Gameshark
-Activation = EndFrame
-800C07F0 0004
-
-[Select Perm Right Answers\5]
-Type = Gameshark
-Activation = EndFrame
-800C07F0 0005
-
-[Select Perm Right Answers\6]
-Type = Gameshark
-Activation = EndFrame
-800C07F0 0006
-
-[Select Perm Right Answers\7]
-Type = Gameshark
-Activation = EndFrame
-800C07F0 0007
-
-[Select Perm Right Answers\8]
-Type = Gameshark
-Activation = EndFrame
-800C07F0 0008
-
-[Select Perm Right Answers\9]
-Type = Gameshark
-Activation = EndFrame
-800C07F0 0009
+800C07F0 000?
+OptionRange = 1:9
 
 [Infinite Energy]
 Type = Gameshark

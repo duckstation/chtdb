@@ -35,133 +35,34 @@ Type = Gameshark
 Activation = EndFrame
 80029181 0005
 
-[Mission Boot Camp]
+[Select Mission]
 Type = Gameshark
 Activation = EndFrame
-8002B5D1 0000
-
-[Mission The War Foundation]
-Type = Gameshark
-Activation = EndFrame
-8002B5D1 0001
-
-[Mission Routine Patrol]
-Type = Gameshark
-Activation = EndFrame
-8002B5D1 0002
-
-[Mission Trench Warfare]
-Type = Gameshark
-Activation = EndFrame
-8002B5D1 0003
-
-[Mission Morning Glory]
-Type = Gameshark
-Activation = EndFrame
-8002B5D1 0004
-
-[Mission Island Invasion]
-Type = Gameshark
-Activation = EndFrame
-8002B5D1 0005
-
-[Mission Under Siege]
-Type = Gameshark
-Activation = EndFrame
-8002B5D1 0006
-
-[Mission Communication Breakdown]
-Type = Gameshark
-Activation = EndFrame
-8002B5D1 0007
-
-[Mission The Spying Game]
-Type = Gameshark
-Activation = EndFrame
-8002B5D1 0008
-
-[Mission The Village People]
-Type = Gameshark
-Activation = EndFrame
-8002B5D1 0009
-
-[Mission Bangers 'N' Mash]
-Type = Gameshark
-Activation = EndFrame
-8002B5D1 000A
-
-[Mission Saving Private Rind]
-Type = Gameshark
-Activation = EndFrame
-8002B5D1 000B
-
-[Mission Just Deserts]
-Type = Gameshark
-Activation = EndFrame
-8002B5D1 000C
-
-[Mission Glacial Guns]
-Type = Gameshark
-Activation = EndFrame
-8002B5D1 000D
-
-[Mission Battle Stations]
-Type = Gameshark
-Activation = EndFrame
-8002B5D1 000E
-
-[Mission Fortified Swine]
-Type = Gameshark
-Activation = EndFrame
-8002B5D1 000F
-
-[Mission Over The Top]
-Type = Gameshark
-Activation = EndFrame
-8002B5D1 0010
-
-[Mission Geneva Convention]
-Type = Gameshark
-Activation = EndFrame
-8002B5D1 0011
-
-[Mission I Spy.....]
-Type = Gameshark
-Activation = EndFrame
-8002B5D1 0012
-
-[Mission Chemical Compound]
-Type = Gameshark
-Activation = EndFrame
-8002B5D1 0013
-
-[Mission Achilles Heal]
-Type = Gameshark
-Activation = EndFrame
-8002B5D1 0014
-
-[Mission High And Dry]
-Type = Gameshark
-Activation = EndFrame
-8002B5D1 0015
-
-[Mission Assassination]
-Type = Gameshark
-Activation = EndFrame
-8002B5D1 0016
-
-[Mission Hero Warship]
-Type = Gameshark
-Activation = EndFrame
-8002B5D1 0017
-
-[Mission Hamburger Hill]
-Type = Gameshark
-Activation = EndFrame
-8002B5D1 0018
-
-[Mission Well, Well, Well!]
-Type = Gameshark
-Activation = EndFrame
-8002B5D1 0019
+8002B5D1 ????
+Option = Boot Camp:0x0000
+Option = The War Foundation:0x0001
+Option = Routine Patrol:0x0002
+Option = Trench Warfare:0x0003
+Option = Morning Glory:0x0004
+Option = Island Invasion:0x0005
+Option = Under Siege:0x0006
+Option = Communication Breakdown:0x0007
+Option = The Spying Game:0x0008
+Option = The Village People:0x0009
+Option = Bangers 'N' Mash:0x000A
+Option = Saving Private Rind:0x000B
+Option = Just Deserts:0x000C
+Option = Glacial Guns:0x000D
+Option = Battle Stations:0x000E
+Option = Fortified Swine:0x000F
+Option = Over The Top:0x0010
+Option = Geneva Convention:0x0011
+Option = I Spy.....:0x0012
+Option = Chemical Compound:0x0013
+Option = Achilles Heal:0x0014
+Option = High And Dry:0x0015
+Option = Assassination:0x0016
+Option = Hero Warship:0x0017
+Option = Hamburger Hill:0x0018
+Option = Well, Well, Well!:0x0019
 

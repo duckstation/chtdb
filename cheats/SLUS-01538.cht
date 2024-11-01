@@ -134,30 +134,15 @@ A704908A 24020000
 9000C084 27BD0018
 9000C088 03E00008
 
-[Select Jump Height\Normal]
+[Select Jump Height]
 Type = Gameshark
 Activation = EndFrame
-80048D78 0100
-
-[Select Jump Height\2x]
-Type = Gameshark
-Activation = EndFrame
-80048D78 0080
-
-[Select Jump Height\4x]
-Type = Gameshark
-Activation = EndFrame
-80048D78 0040
-
-[Select Jump Height\10x]
-Type = Gameshark
-Activation = EndFrame
-80048D78 001A
-
-[Select Jump Height\0.5x]
-Type = Gameshark
-Activation = EndFrame
-80048D78 0200
+80048D78 ????
+Option = 0.5x:0x0200
+Option = Normal:0x0100
+Option = 2x:0x0080
+Option = 4x:0x0040
+Option = 10x:0x001A
 ;#### PATCHES LISTED BELOW ####
 
 [Widescreen 16-9]

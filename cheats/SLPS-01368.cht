@@ -45,43 +45,9 @@ Type = Gameshark
 Activation = EndFrame
 3009C8B2 0001
 
-[Select Story Number\2]
+[Select Story Number]
 Type = Gameshark
 Activation = EndFrame
-3009C90C 0002
-
-[Select Story Number\3]
-Type = Gameshark
-Activation = EndFrame
-3009C90C 0003
-
-[Select Story Number\4]
-Type = Gameshark
-Activation = EndFrame
-3009C90C 0004
-
-[Select Story Number\5]
-Type = Gameshark
-Activation = EndFrame
-3009C90C 0005
-
-[Select Story Number\6]
-Type = Gameshark
-Activation = EndFrame
-3009C90C 0006
-
-[Select Story Number\7]
-Type = Gameshark
-Activation = EndFrame
-3009C90C 0007
-
-[Select Story Number\8]
-Type = Gameshark
-Activation = EndFrame
-3009C90C 0008
-
-[Select Story Number\9]
-Type = Gameshark
-Activation = EndFrame
-3009C90C 0009
+3009C90C 000?
+OptionRange = 1:9
 

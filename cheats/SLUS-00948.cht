@@ -1,24 +1,16 @@
 ; CHTDB: ; [ NBA Showtime - NBA on NBC (USA) (1999) (Midway Home Entertainment) {SLUS-00948} <nbashowt> ]
 
-[Select Team 1 Score\100]
+[Select Team 1 Score]
 Type = Gameshark
 Activation = EndFrame
-800B5160 0064
+800B5160 00??
+OptionRange = 0:100
 
-[Select Team 1 Score\0]
+[Select Team 2 Score]
 Type = Gameshark
 Activation = EndFrame
-800B5160 0000
-
-[Select Team 2 Score\100]
-Type = Gameshark
-Activation = EndFrame
-800B517C 0064
-
-[Select Team 2 Score\0]
-Type = Gameshark
-Activation = EndFrame
-800B517C 0000
+800B517C 00??
+OptionRange = 0:100
 
 [Enable Tournament Mode]
 Type = Gameshark

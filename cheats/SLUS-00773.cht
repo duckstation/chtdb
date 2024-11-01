@@ -11,50 +11,28 @@ Type = Gameshark
 Activation = EndFrame
 8011013C 0009
 
-[P1 Select Ship\Dagger]
+[P1 Select Ship]
 Type = Gameshark
 Activation = EndFrame
-800DF7C4 0000
-
-[P1 Select Ship\Rapier]
-Type = Gameshark
-Activation = EndFrame
-800DF7C4 0001
-
-[P1 Select Ship\Long Sword]
-Type = Gameshark
-Activation = EndFrame
-800DF7C4 0002
-
-[P1 Select Ship\Excalibur]
-Type = Gameshark
-Activation = EndFrame
-800DF7C4 0003
+800DF7C4 ????
+Option = Dagger:0x0000
+Option = Rapier:0x0001
+Option = Long Sword:0x0002
+Option = Excalibur:0x0003
 
 [P2 Infinite Lives]
 Type = Gameshark
 Activation = EndFrame
 80110140 0063
 
-[P2 Select Ship\Dagger]
+[P2 Select Ship]
 Type = Gameshark
 Activation = EndFrame
-800DF7C8 0000
-
-[P2 Select Ship\Rapier]
-Type = Gameshark
-Activation = EndFrame
-800DF7C8 0001
-
-[P2 Select Ship\Long Sword]
-Type = Gameshark
-Activation = EndFrame
-800DF7C8 0002
-
-[P2 Select Ship\Excalibur]
-Type = Gameshark
-Activation = EndFrame
-800DF7C8 0003
+800DF7C8 ????
+Option = Dagger:0x0000
+Option = Rapier:0x0001
+Option = Long Sword:0x0002
+Option = Excalibur:0x0003
 
 [Enable Classic Asteroids]
 Type = Gameshark

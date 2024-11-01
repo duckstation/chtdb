@@ -10,50 +10,38 @@ Type = Gameshark
 Activation = EndFrame
 8009F822 FFFF
 
-[P1 Select Health\Infinite]
+[P1 Select Health]
 Type = Gameshark
 Activation = EndFrame
-8009F7A0 0400
+8009F7A0 ????
+Option = Infinite:0x0400
+Option = None:0x0000
 
-[P1 Select Health\None]
+[P1 Select Power Bar]
 Type = Gameshark
 Activation = EndFrame
-8009F7A0 0000
-
-[P1 Select Power Bar\Maximum]
-Type = Gameshark
-Activation = EndFrame
-8009F7A4 0400
-
-[P1 Select Power Bar\Minimum]
-Type = Gameshark
-Activation = EndFrame
-8009F7A4 0000
+8009F7A4 ????
+Option = Maximum:0x0400
+Option = Minimum:0x0000
 
 [P1 1 Hit Kill]
 Type = Gameshark
 Activation = EndFrame
 A609F7A0 04000001
 
-[P2 Select Health\Infinite]
+[P2 Select Health]
 Type = Gameshark
 Activation = EndFrame
-8009F7A2 0400
+8009F7A2 ????
+Option = Infinite:0x0400
+Option = None:0x0000
 
-[P2 Select Health\None]
+[P2 Select Power Bar]
 Type = Gameshark
 Activation = EndFrame
-8009F7A2 0000
-
-[P2 Select Power Bar\Maximum]
-Type = Gameshark
-Activation = EndFrame
-8009F7A6 0400
-
-[P2 Select Power Bar\Minimum]
-Type = Gameshark
-Activation = EndFrame
-8009F7A6 0000
+8009F7A6 ????
+Option = Maximum:0x0400
+Option = Minimum:0x0000
 
 [P2 1 Hit Kill]
 Type = Gameshark

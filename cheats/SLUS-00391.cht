@@ -1,24 +1,16 @@
 ; CHTDB: ; [ NHL Breakaway 98 (USA) (1997) (Acclaim Entertainment) {SLUS-00391} <nhlbrk98> ]
 
-[Select Home Team Score\9]
+[Select Home Team Score]
 Type = Gameshark
 Activation = EndFrame
-800FF898 0009
+800FF898 00??
+OptionRange = 0:9
 
-[Select Home Team Score\0]
+[Select Away Team Score]
 Type = Gameshark
 Activation = EndFrame
-800FF898 0000
-
-[Select Away Team Score\9]
-Type = Gameshark
-Activation = EndFrame
-300FF899 0009
-
-[Select Away Team Score\0]
-Type = Gameshark
-Activation = EndFrame
-300FF899 0000
+300FF899 00??
+OptionRange = 0:9
 
 [Max Stick Handling]
 Type = Gameshark

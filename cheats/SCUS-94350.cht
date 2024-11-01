@@ -40,65 +40,22 @@ Type = Gameshark
 Activation = EndFrame
 8008A358 0000
 
-[Select Track\Pine Hills Raceway]
+[Select Track]
 Type = Gameshark
 Activation = EndFrame
-8007974C 0000
-
-[Select Track\Chalk Canyon]
-Type = Gameshark
-Activation = EndFrame
-8007974C 0001
-
-[Select Track\SCA Motorplex]
-Type = Gameshark
-Activation = EndFrame
-8007974C 0002
-
-[Select Track\Caprio County Speedway]
-Type = Gameshark
-Activation = EndFrame
-8007974C 0003
-
-[Select Track\Black Sail Valley]
-Type = Gameshark
-Activation = EndFrame
-8007974C 0004
-
-[Select Track\Liberty City]
-Type = Gameshark
-Activation = EndFrame
-8007974C 0005
-
-[Select Track\Ultimate Destruction Speedway]
-Type = Gameshark
-Activation = EndFrame
-8007974C 0006
-
-[Select Track\Red Pike Arena]
-Type = Gameshark
-Activation = EndFrame
-8007974C 0007
-
-[Select Track\The Colosseum]
-Type = Gameshark
-Activation = EndFrame
-8007974C 0008
-
-[Select Track\The Pit]
-Type = Gameshark
-Activation = EndFrame
-8007974C 0009
-
-[Select Track\Death Bowl (Do not press right on the track select screen or the game will crash)]
-Type = Gameshark
-Activation = EndFrame
-8007974C 000A
-
-[Select Track\FROZE]
-Type = Gameshark
-Activation = EndFrame
-8007974C 000B
+8007974C ????
+Option = Pine Hills Raceway:0x0000
+Option = Chalk Canyon:0x0001
+Option = SCA Motorplex:0x0002
+Option = Caprio County Speedway:0x0003
+Option = Black Sail Valley:0x0004
+Option = Liberty City:0x0005
+Option = Ultimate Destruction Speedway:0x0006
+Option = Red Pike Arena:0x0007
+Option = The Colosseum:0x0008
+Option = The Pit:0x0009
+Option = Death Bowl (Do not press right on the track select screen or the game will crash):0x000A
+Option = FROZE:0x000B
 
 [Unlock 4 bowl tracks]
 Type = Gameshark

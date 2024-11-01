@@ -1,22 +1,14 @@
 ; CHTDB: ; [ NBA Hangtime (USA) (1997) (Midway Home Entertainment) {SLUS-00329} <nbahang> ]
 
-[Select Home Team Score\0]
+[Select Home Team Score]
 Type = Gameshark
 Activation = EndFrame
-8007323C 0000
+8007323C 00??
+OptionRange = 0:100
 
-[Select Home Team Score\100]
+[Select Away Team Score]
 Type = Gameshark
 Activation = EndFrame
-8007323C 0064
-
-[Select Away Team Score\0]
-Type = Gameshark
-Activation = EndFrame
-8007323E 0000
-
-[Select Away Team Score\100]
-Type = Gameshark
-Activation = EndFrame
-8007323E 0064
+8007323E 00??
+OptionRange = 0:100
 

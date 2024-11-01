@@ -10,31 +10,19 @@ Type = Gameshark
 Activation = EndFrame
 800BCBD4 0006
 
-[Select Team 1 Score\9]
+[Select Team 1 Score]
 Type = Gameshark
 Activation = EndFrame
-800BCBA0 0009
-800BCBA4 0009
-800BCBAA 0009
+800BCBA0 000?
+800BCBA4 000?
+800BCBAA 000?
+OptionRange = 0:9
 
-[Select Team 1 Score\0]
+[Select Team 2 Score]
 Type = Gameshark
 Activation = EndFrame
-800BCBA0 0000
-800BCBA4 0000
-800BCBAA 0000
-
-[Select Team 2 Score\9]
-Type = Gameshark
-Activation = EndFrame
-800BCBBC 0009
-800BCBC0 0009
-800BCBC6 0009
-
-[Select Team 2 Score\0]
-Type = Gameshark
-Activation = EndFrame
-800BCBBC 0000
-800BCBC0 0000
-800BCBC6 0000
+800BCBBC 000?
+800BCBC0 000?
+800BCBC6 000?
+OptionRange = 0:9
 

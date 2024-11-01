@@ -15,25 +15,17 @@ Type = Gameshark
 Activation = EndFrame
 80173E30 0000
 
-[Select Away Team Score\9]
+[Select Away Team Score]
 Type = Gameshark
 Activation = EndFrame
-30173BD9 0009
+30173BD9 00??
+OptionRange = 0:9
 
-[Select Away Team Score\0]
+[Select Visiting Team Score]
 Type = Gameshark
 Activation = EndFrame
-30173BD9 0000
-
-[Select Visiting Team Score\9]
-Type = Gameshark
-Activation = EndFrame
-30173BD8 0009
-
-[Select Visiting Team Score\0]
-Type = Gameshark
-Activation = EndFrame
-30173BD8 0000
+30173BD8 00??
+OptionRange = 0:9
 
 [P1 Always Wins]
 Type = Gameshark

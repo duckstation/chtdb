@@ -1,22 +1,14 @@
 ; CHTDB: ; [ Madden NFL 2003 (USA) (2002) (Electronic Arts) {SLUS-01482} <maddn2k3> ]
 
-[Select Home Team Score\99]
+[Select Home Team Score]
 Type = Gameshark
 Activation = EndFrame
-8006F3D4 0063
+8006F3D4 00??
+OptionRange = 0:99
 
-[Select Away Team Score\99]
+[Select Away Team Score]
 Type = Gameshark
 Activation = EndFrame
-800714B4 0063
-
-[Select Home Team Score\0]
-Type = Gameshark
-Activation = EndFrame
-8006F3D4 0000
-
-[Select Away Team Score\0]
-Type = Gameshark
-Activation = EndFrame
-800714B4 0000
+800714B4 00??
+OptionRange = 0:99
 

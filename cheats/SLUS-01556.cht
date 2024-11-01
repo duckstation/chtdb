@@ -1,24 +1,13 @@
 ; CHTDB: ; [ Miracle Space Race (USA) (2003) (Mud Duck Productions) {SLUS-01556} <mirarace> ]
 
-[Select Perm Lap\3]
+[Select Perm Lap]
 Type = Gameshark
 Activation = EndFrame
-8006B764 0003
-
-[Select Perm Lap\4]
-Type = Gameshark
-Activation = EndFrame
-8006B764 0004
-
-[Select Perm Lap\5]
-Type = Gameshark
-Activation = EndFrame
-8006B764 0005
-
-[Select Perm Lap\6]
-Type = Gameshark
-Activation = EndFrame
-8006B764 0006
+8006B764 ????
+Option = 3:0x0003
+Option = 4:0x0004
+Option = 5:0x0005
+Option = 6:0x0006
 
 [Max Points]
 Type = Gameshark

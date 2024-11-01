@@ -88,120 +88,42 @@ D018E092 0820
 D018E092 0820
 301F6120 0004
 
-[P1 Infinite Auto-Pilot]
+[P1 Select Infinite Item]
 Type = Gameshark
 Activation = EndFrame
-801F611E 0101
-
-[P1 Infinite Cloak]
-Type = Gameshark
-Activation = EndFrame
-801F611E 0201
-
-[P1 Infinite Energy Drain]
-Type = Gameshark
-Activation = EndFrame
-801F611E 0301
-
-[P1 Infinite Force Wall]
-Type = Gameshark
-Activation = EndFrame
-801F611E 0401
-
-[P1 Infinite Gravity Shield]
-Type = Gameshark
-Activation = EndFrame
-801F611E 0501
-
-[P1 Infinite Mines]
-Type = Gameshark
-Activation = EndFrame
-801F611E 0601
-
-[P1 Infinite Multi-Missiles]
-Type = Gameshark
-Activation = EndFrame
-801F611E 0701
-
-[P1 Infinite Plasma Bolt]
-Type = Gameshark
-Activation = EndFrame
-801F611E 0801
-
-[P1 Infinite Quake Disrupter]
-Type = Gameshark
-Activation = EndFrame
-801F611E 0A01
-
-[P1 Infinite Reflector]
-Type = Gameshark
-Activation = EndFrame
-801F611E 0B01
-
-[P1 Infinite Rocket]
-Type = Gameshark
-Activation = EndFrame
-801F611E 0C01
+801F611E ????
+Option = Auto-Pilot:0x0101
+Option = Cloak:0x0201
+Option = Energy Drain:0x0301
+Option = Force Wall:0x0401
+Option = Gravity Shield:0x0501
+Option = Mines:0x0601
+Option = Multi-Missiles:0x0701
+Option = Plasma Bolt:0x0801
+Option = Quake Disrupter:0x0A01
+Option = Reflector:0x0B01
+Option = Rocket:0x0C01
 
 [P1 Always Have Full Shield Energy]
 Type = Gameshark
 Activation = EndFrame
 801E5B94 0000
 
-[P2 Infinite Auto-Pilot]
+[P2 Select Infinite Item]
 Type = Gameshark
 Activation = EndFrame
-801F628A 0101
-
-[P2Infinite Cloak]
-Type = Gameshark
-Activation = EndFrame
-801F628A 0201
-
-[P2 Infinite Energy Drain]
-Type = Gameshark
-Activation = EndFrame
-801F628A 0301
-
-[P2 Infinite Force Wall]
-Type = Gameshark
-Activation = EndFrame
-801F628A 0401
-
-[P2 Infinite Gravity Shield]
-Type = Gameshark
-Activation = EndFrame
-801F628A 0501
-
-[P2 Infinite Mines]
-Type = Gameshark
-Activation = EndFrame
-801F628A 0601
-
-[P2 Infinite Multi-Missiles]
-Type = Gameshark
-Activation = EndFrame
-801F628A 0701
-
-[P2 Infinite Plasma Bolt]
-Type = Gameshark
-Activation = EndFrame
-801F628A 0801
-
-[P2 Infinite Quake Disrupter]
-Type = Gameshark
-Activation = EndFrame
-801F628A 0A01
-
-[P2 Infinite Reflector]
-Type = Gameshark
-Activation = EndFrame
-801F628A 0B01
-
-[P2 Infinite Rockets]
-Type = Gameshark
-Activation = EndFrame
-801F628A 0C01
+801F628A ????
+Option = Auto-Pilot:0x0101
+Option = Cloak:0x0201
+Option = Energy Drain:0x0301
+Option = Force Wall:0x0401
+Option = Gravity Shield:0x0501
+Option = Mines:0x0601
+Option = Multi-Missiles:0x0701
+Option = Plasma Bolt:0x0801
+Option = Quake Disrupter:0x0A01
+Option = Reflector:0x0B01
+Option = Rocket:0x0C01
 
 [P2 Always Have Full Shield Energy]
 Type = Gameshark

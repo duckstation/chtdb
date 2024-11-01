@@ -60,28 +60,13 @@ Activation = EndFrame
 8009AEB8 0000
 9009ADCC 00000000
 
-[Select Chapter 1 Akira (SAVE DATA)]
+[Select Chapter]
 Type = Gameshark
 Activation = EndFrame
-8009ADF0 0001
-
-[Select Chapter 2 Devilman (SAVE DATA)]
-Type = Gameshark
-Activation = EndFrame
-8009ADF0 0002
-
-[Select Chapter 3 Silene (SAVE DATA)]
-Type = Gameshark
-Activation = EndFrame
-8009ADF0 0003
-
-[Select Chapter 4 Akira (SAVE DATA)]
-Type = Gameshark
-Activation = EndFrame
-8009ADF0 0004
-
-[Select Chapter 5 Devilman (SAVE DATA)]
-Type = Gameshark
-Activation = EndFrame
-8009ADF0 0005
+8009ADF0 ????
+Option = 1 Akira (SAVE DATA):0x0001
+Option = 2 Devilman (SAVE DATA):0x0002
+Option = 3 Silene (SAVE DATA):0x0003
+Option = 4 Akira (SAVE DATA):0x0004
+Option = 5 Devilman (SAVE DATA):0x0005
 

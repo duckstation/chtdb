@@ -39,8 +39,9 @@ Type = Gameshark
 Activation = EndFrame
 800A4A2C 1910
 
-[Seleziona livello 00-?? enabled 09]
+[Seleziona livello]
 Type = Gameshark
 Activation = EndFrame
-3005B89B 0009
+3005B89B 000?
+OptionRange = 0:9
 

@@ -1,25 +1,5 @@
 ; CHTDB: ; [ Contra - Legacy of War (USA) (1996) (Konami of America) {SLUS-00288} <contralw> ]
 
-[P1 Infinite Lives]
-Type = Gameshark
-Activation = EndFrame
-800DC784 0009
-
-[P1 Invincibility]
-Type = Gameshark
-Activation = EndFrame
-8008C9D4 0065
-
-[P2 Infinite Lives]
-Type = Gameshark
-Activation = EndFrame
-800DC7AC 0009
-
-[P2 Invincibility]
-Type = Gameshark
-Activation = EndFrame
-8008CA9C 0065
-
 [Infinite Continues]
 Type = Gameshark
 Activation = EndFrame
@@ -31,95 +11,71 @@ Type = Gameshark
 Activation = EndFrame
 8008C950 0005
 
-[2nd Weapon Slot\P1 Always Has Flame Gun]
+[P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800DC784 0009
+
+[P1 Invincibility]
+Type = Gameshark
+Activation = EndFrame
+8008C9D4 0065
+
+[P1 2nd Weapon Slot - Flame Gun]
 Type = Gameshark
 Activation = EndFrame
 3008BC15 0004
 
-[2nd Weapon Slot\P2 Always Has Flame Gun]
+[P1 Select 3rd Weapon Slot]
+Type = Gameshark
+Activation = EndFrame
+3008BC16 ????
+Option = Red Laser:0x0009
+Option = 1-Shot To Spread:0x0008
+Option = Spread:0x0003
+Option = Blue Pulse:0x0000
+
+[P1 Select 4th Weapon Slot]
+Type = Gameshark
+Activation = EndFrame
+3008BC17 ????
+Option = 3-Shot Spread:0x0005
+Option = Homing Blue Missiles:0x0006
+Option = Homing Laser:0x0001
+Option = Homing Missiles:0x0007
+
+[P2 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800DC7AC 0009
+
+[P2 Invincibility]
+Type = Gameshark
+Activation = EndFrame
+8008CA9C 0065
+
+[P2 2nd Weapon Slot - Flame Gun]
 Type = Gameshark
 Activation = EndFrame
 3008BC19 0004
 
-[3rd Weapon Slot\P1 Always Has Red Laser]
+[P2 Select 3rd Weapon Slot]
 Type = Gameshark
 Activation = EndFrame
-3008BC16 0009
+3008BC1A ????
+Option = Red Laser:0x0009
+Option = 1-Shot To Spread:0x0008
+Option = Spread:0x0003
+Option = Blue Pulse:0x0000
 
-[3rd Weapon Slot\P1 Always Has 1-Shot To Spread]
+[P2 Select 4th Weapon Slot]
 Type = Gameshark
 Activation = EndFrame
-3008BC16 0008
-
-[3rd Weapon Slot\P1 Always Has Spread]
-Type = Gameshark
-Activation = EndFrame
-3008BC16 0003
-
-[3rd Weapon Slot\P1 Always Has Blue Pulse]
-Type = Gameshark
-Activation = EndFrame
-3008BC16 0000
-
-[3rd Weapon Slot\P2 Always Has Red Laser]
-Type = Gameshark
-Activation = EndFrame
-3008BC1A 0009
-
-[3rd Weapon Slot\P2 Always Has 1-Shot To Spread]
-Type = Gameshark
-Activation = EndFrame
-3008BC1A 0008
-
-[3rd Weapon Slot\P2 Always Has Spread]
-Type = Gameshark
-Activation = EndFrame
-3008BC1A 0003
-
-[3rd Weapon Slot\P2 Always Has Blue Pulse]
-Type = Gameshark
-Activation = EndFrame
-3008BC1A 0000
-
-[4th Weapon Slot\P1 Alw. Has Homing Missiles]
-Type = Gameshark
-Activation = EndFrame
-3008BC17 0007
-
-[4th Weapon Slot\P1 Alw. Homing Blue Missiles]
-Type = Gameshark
-Activation = EndFrame
-3008BC17 0006
-
-[4th Weapon Slot\P1 Always Has 3-Shot Spread]
-Type = Gameshark
-Activation = EndFrame
-3008BC17 0005
-
-[4th Weapon Slot\P1 Always Has Homing Laser]
-Type = Gameshark
-Activation = EndFrame
-3008BC17 0001
-
-[4th Weapon Slot\P2 Alw Has Homing Missiles]
-Type = Gameshark
-Activation = EndFrame
-3008BC1B 0007
-
-[4th Weapon Slot\P2 Alw Homing Blue Missiles]
-Type = Gameshark
-Activation = EndFrame
-3008BC1B 0006
-
-[4th Weapon Slot\P2 Always Has 3-Shot Spread]
-Type = Gameshark
-Activation = EndFrame
-3008BC1B 0005
-
-[4th Weapon Slot\P2 Always Has Homing Laser]
-Type = Gameshark
-Activation = EndFrame
-3008BC1B 0001
+3008BC1B ????
+Option = Homing Laser:0x0001
+Option = 3-Shot Spread:0x0005
+Option = Homing Blue Missiles:0x0006
+Option = Homing Missiles:0x0007
 ;#### PATCHES LISTED BELOW ####
 
 [Select Widescreen Aspect Ratio\16-9]

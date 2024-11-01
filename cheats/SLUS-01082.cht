@@ -55,25 +55,17 @@ Activation = EndFrame
 D0060742 0000
 30060742 0001
 
-[Select Away Team Score\9]
+[Select Away Team Score]
 Type = Gameshark
 Activation = EndFrame
-30060449 0009
+30060449 00??
+OptionRange = 0:9
 
-[Select Away Team Score\0]
+[Select Home Team Score]
 Type = Gameshark
 Activation = EndFrame
-30060449 0000
-
-[Select Home Team Score\9]
-Type = Gameshark
-Activation = EndFrame
-3006043D 0009
-
-[Select Home Team Score\0]
-Type = Gameshark
-Activation = EndFrame
-3006043D 0000
+3006043D 00??
+OptionRange = 0:9
 
 [Character Creation\Max Contact Chance]
 Type = Gameshark

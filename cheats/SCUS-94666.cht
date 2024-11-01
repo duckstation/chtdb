@@ -31,125 +31,34 @@ Type = Gameshark
 Activation = EndFrame
 A7032AA6 18801000
 
-[Select Level\Test Level]
+[Select Level]
 Type = Gameshark
 Activation = EndFrame
-300F1520 0000
-
-[Select Level\CC (doesn't load)]
-Type = Gameshark
-Activation = EndFrame
-300F1520 0001
-
-[Select Level\TI]
-Type = Gameshark
-Activation = EndFrame
-300F1520 0002
-
-[Select Level\1A]
-Type = Gameshark
-Activation = EndFrame
-300F1520 0003
-
-[Select Level\2A]
-Type = Gameshark
-Activation = EndFrame
-300F1520 0004
-
-[Select Level\2B]
-Type = Gameshark
-Activation = EndFrame
-300F1520 0005
-
-[Select Level\2C]
-Type = Gameshark
-Activation = EndFrame
-300F1520 0006
-
-[Select Level\2D]
-Type = Gameshark
-Activation = EndFrame
-300F1520 0007
-
-[Select Level\3A]
-Type = Gameshark
-Activation = EndFrame
-300F1520 0008
-
-[Select Level\3B]
-Type = Gameshark
-Activation = EndFrame
-300F1520 0009
-
-[Select Level\3C]
-Type = Gameshark
-Activation = EndFrame
-300F1520 000A
-
-[Select Level\3D]
-Type = Gameshark
-Activation = EndFrame
-300F1520 000B
-
-[Select Level\3E]
-Type = Gameshark
-Activation = EndFrame
-300F1520 000C
-
-[Select Level\3F]
-Type = Gameshark
-Activation = EndFrame
-300F1520 000D
-
-[Select Level\3G]
-Type = Gameshark
-Activation = EndFrame
-300F1520 000E
-
-[Select Level\4A]
-Type = Gameshark
-Activation = EndFrame
-300F1520 000F
-
-[Select Level\4B]
-Type = Gameshark
-Activation = EndFrame
-300F1520 0010
-
-[Select Level\4C]
-Type = Gameshark
-Activation = EndFrame
-300F1520 0011
-
-[Select Level\4D]
-Type = Gameshark
-Activation = EndFrame
-300F1520 0012
-
-[Select Level\4E]
-Type = Gameshark
-Activation = EndFrame
-300F1520 0013
-
-[Select Level\5A]
-Type = Gameshark
-Activation = EndFrame
-300F1520 0014
-
-[Select Level\6A]
-Type = Gameshark
-Activation = EndFrame
-300F1520 0015
-
-[Select Level\6B]
-Type = Gameshark
-Activation = EndFrame
-300F1520 0016
-
-[Select Level\6C (final level)]
-Type = Gameshark
-Activation = EndFrame
-300F1520 0017
+300F1520 ????
+Option = Test Level:0x0000
+Option = CC (doesn't load):0x0001
+Option = TI:0x0002
+Option = 1A:0x0003
+Option = 2A:0x0004
+Option = 2B:0x0005
+Option = 2C:0x0006
+Option = 2D:0x0007
+Option = 3A:0x0008
+Option = 3B:0x0009
+Option = 3C:0x000A
+Option = 3D:0x000B
+Option = 3E:0x000C
+Option = 3F:0x000D
+Option = 3G:0x000E
+Option = 4A:0x000F
+Option = 4B:0x0010
+Option = 4C:0x0011
+Option = 4D:0x0012
+Option = 4E:0x0013
+Option = 5A:0x0014
+Option = 6A:0x0015
+Option = 6B:0x0016
+Option = 6C (final level):0x0017
 
 [Have All Items]
 Type = Gameshark

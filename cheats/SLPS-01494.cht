@@ -1,16 +1,16 @@
 ; CHTDB: ; [ Trap Gunner (Japan) {SLPS-01494} ]
 
-[10000 stamina 1P]
+[P1 1000 Stamina]
 Type = Gameshark
 Activation = EndFrame
 801256E2 03E8
 
-[1000 stamina 2P]
+[P2 1000 Stamina]
 Type = Gameshark
 Activation = EndFrame
 801260EA 03E8
 
-[0 stamina 2P]
+[P2 0 Stamina]
 Type = Gameshark
 Activation = EndFrame
 801260EA 0000
@@ -49,50 +49,19 @@ Activation = EndFrame
 901256D0 63046363
 901256D4 63630563
 
-[P1 Select Character\Van Raily]
+[P1 Select Character]
 Type = Gameshark
 Activation = EndFrame
-30124D60 0000
-
-[P1 Select Character\John Bishous]
-Type = Gameshark
-Activation = EndFrame
-30124D60 0001
-
-[P1 Select Character\Lou Riche]
-Type = Gameshark
-Activation = EndFrame
-30124D60 0002
-
-[P1 Select Character\Tico]
-Type = Gameshark
-Activation = EndFrame
-30124D60 0003
-
-[P1 Select Character\Abdoll Rerin)]
-Type = Gameshark
-Activation = EndFrame
-30124D60 0004
-
-[P1 Select Character\Ugetsu Tenrou]
-Type = Gameshark
-Activation = EndFrame
-30124D60 0005
-
-[P1 Select Character\REM]
-Type = Gameshark
-Activation = EndFrame
-30124D60 0006
-
-[P1 Select Character\DYN]
-Type = Gameshark
-Activation = EndFrame
-30124D60 0007
-
-[P1 Select Character\ERG]
-Type = Gameshark
-Activation = EndFrame
-30124D60 0008
+30124D60 ????
+Option = Van Raily:0x0000
+Option = John Bishous:0x0001
+Option = Lou Riche:0x0002
+Option = Tico:0x0003
+Option = Abdoll Rerin):0x0004
+Option = Ugetsu Tenrou:0x0005
+Option = REM:0x0006
+Option = DYN:0x0007
+Option = ERG:0x0008
 
 [Death blow]
 Type = Gameshark

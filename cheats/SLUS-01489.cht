@@ -5,25 +5,19 @@ Type = Gameshark
 Activation = EndFrame
 8007B3B2 270F
 
-[Select Losses\Max Losses]
+[Select Losses]
 Type = Gameshark
 Activation = EndFrame
-8009374E 270F
+8009374E ????
+Option = Max Losses:0x270F
+Option = No Losses:0x0000
 
-[Select Losses\No Losses]
+[Select Wins]
 Type = Gameshark
 Activation = EndFrame
-8009374E 0000
-
-[Select Wins\Max Wins]
-Type = Gameshark
-Activation = EndFrame
-8009374C 270F
-
-[Select Wins\No Wins]
-Type = Gameshark
-Activation = EndFrame
-8009374C 0000
+8009374C ????
+Option = Max Wins:0x270F
+Option = No Wins:0x0000
 
 [P1 Infinite HP]
 Type = Gameshark

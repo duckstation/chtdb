@@ -1,22 +1,14 @@
 ; CHTDB: ; [ Pitball (USA) (1996) (Accolade) {SLUS-00146} <pitball> ]
 
-[Select Team 1 Score\9]
+[Select Team 1 Score]
 Type = Gameshark
 Activation = EndFrame
-800980CC 0009
+800980CC 00??
+OptionRange = 0:9
 
-[Select Team 1 Score\0]
+[Select Team 2 Score]
 Type = Gameshark
 Activation = EndFrame
-800980CC 0000
-
-[Select Team 2 Score\9]
-Type = Gameshark
-Activation = EndFrame
-800980D0 0009
-
-[Select Team 2 Score\0]
-Type = Gameshark
-Activation = EndFrame
-800980D0 0000
+800980D0 00??
+OptionRange = 0:9
 

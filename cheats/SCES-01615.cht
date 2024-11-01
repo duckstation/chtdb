@@ -20,45 +20,18 @@ Type = Gameshark
 Activation = EndFrame
 8006903C 0005
 
-[Select Extra Character\Eddie]
+[Select Extra Character]
 Type = Gameshark
 Activation = EndFrame
-800690B0 010D
-
-[Select Extra Character\Mars]
-Type = Gameshark
-Activation = EndFrame
-800690B0 010E
-
-[Select Extra Character\Kimber]
-Type = Gameshark
-Activation = EndFrame
-800690B0 010F
-
-[Select Extra Character\Irving]
-Type = Gameshark
-Activation = EndFrame
-800690B0 0110
-
-[Select Extra Character\Bob]
-Type = Gameshark
-Activation = EndFrame
-800690B0 0111
-
-[Select Extra Character\Joshua]
-Type = Gameshark
-Activation = EndFrame
-800690B0 0112
-
-[Select Extra Character\Cool]
-Type = Gameshark
-Activation = EndFrame
-800690B0 0113
-
-[Select Extra Character\Burg]
-Type = Gameshark
-Activation = EndFrame
-800690B0 0114
+800690B0 ????
+Option = Eddie:0x010D
+Option = Mars:0x010E
+Option = Kimber:0x010F
+Option = Irving:0x0110
+Option = Bob:0x0111
+Option = Joshua:0x0112
+Option = Cool:0x0113
+Option = Burg:0x0114
 
 [Have Extra Characters]
 Type = Gameshark

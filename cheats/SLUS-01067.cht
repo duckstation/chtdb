@@ -47,15 +47,12 @@ Type = Gameshark
 Activation = EndFrame
 800BAD30 007F
 
-[Select Hyper Mode\ON]
+[Select Hyper Mode]
 Type = Gameshark
 Activation = EndFrame
-80090014 0000
-
-[Select Hyper Mode\OFF]
-Type = Gameshark
-Activation = EndFrame
-80090014 0005
+80090014 ????
+Option = OFF:0x0005
+Option = ON:0x0000
 
 [Infinite Dreak]
 Type = Gameshark

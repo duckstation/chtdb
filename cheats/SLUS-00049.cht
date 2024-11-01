@@ -1,24 +1,18 @@
 ; CHTDB: ; [ Bottom of the 9th (USA) (1996) (Konami of America) {SLUS-00049} <bottom9> ]
 
-[Select Away Team Score\0]
+[Select Away Team Score]
 Type = Gameshark
 Activation = EndFrame
-8005777C  0000
+8005777C ????
+Option = 0:0x 0000
+Option = 99:0x 0099
 
-[Select Away Team Score\99]
+[Select Home Team Score]
 Type = Gameshark
 Activation = EndFrame
-8005777C  0099
-
-[Select Home Team Score\0]
-Type = Gameshark
-Activation = EndFrame
-3005777D 0000
-
-[Select Home Team Score\99]
-Type = Gameshark
-Activation = EndFrame
-3005777D 0099
+3005777D ????
+Option = 0:0x0000
+Option = 99:0x0099
 
 [Always Out on Hitting Ball]
 Type = Gameshark

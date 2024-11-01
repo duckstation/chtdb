@@ -1,24 +1,16 @@
 ; CHTDB: ; [ FIFA 2000 (Europe) {SLES-02315} ]
 
-[Select Home Team Score\20 Goals]
+[Select Home Team Score\20]
 Type = Gameshark
 Activation = EndFrame
-80032514 0014
+80032514 00??
+OptionRange = 0:20
 
-[Select Home Team Score\0 Goals]
+[Select Away Team Score\20]
 Type = Gameshark
 Activation = EndFrame
-80032514 0000
-
-[Select Away Team Score\20 Goals]
-Type = Gameshark
-Activation = EndFrame
-80032518 0014
-
-[Select Away Team Score\0 Goals]
-Type = Gameshark
-Activation = EndFrame
-80032518 0000
+80032518 00??
+OptionRange = 0:20
 
 [Outfield Players cant tackle]
 Type = Gameshark

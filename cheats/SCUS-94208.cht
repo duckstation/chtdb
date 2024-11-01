@@ -20,63 +20,20 @@ Type = Gameshark
 Activation = EndFrame
 A61F1F5E 01000001
 
-[P1 Select Character\Chuji]
+[P1 Select Character]
 Type = Gameshark
 Activation = EndFrame
-801F3D24 0000
-
-[P1 Select Character\Oliem]
-Type = Gameshark
-Activation = EndFrame
-801F3D24 0100
-
-[P1 Select Character\Epon]
-Type = Gameshark
-Activation = EndFrame
-801F3D24 0200
-
-[P1 Select Character\Hom]
-Type = Gameshark
-Activation = EndFrame
-801F3D24 0300
-
-[P1 Select Character\Fei]
-Type = Gameshark
-Activation = EndFrame
-801F3D24 0400
-
-[P1 Select Character\Mary]
-Type = Gameshark
-Activation = EndFrame
-801F3D24 0500
-
-[P1 Select Character\Illgoga]
-Type = Gameshark
-Activation = EndFrame
-801F3D24 0600
-
-[P1 Select Character\Gren]
-Type = Gameshark
-Activation = EndFrame
-801F3D24 0700
-
-[P1 Select Character\Mufu]
-Type = Gameshark
-Activation = EndFrame
-801F3D24 0800
-
-[P1 Select Character\Emperor Upan]
-Type = Gameshark
-Activation = EndFrame
-801F3D24 0900
-
-[P1 Select Character\Super Nork]
-Type = Gameshark
-Activation = EndFrame
-801F3D24 0A00
-
-[P1 Select Character\Tori]
-Type = Gameshark
-Activation = EndFrame
-801F3D24 0B00
+801F3D24 ????
+Option = Chuji:0x0000
+Option = Oliem:0x0100
+Option = Epon:0x0200
+Option = Hom:0x0300
+Option = Fei:0x0400
+Option = Mary:0x0500
+Option = Illgoga:0x0600
+Option = Gren:0x0700
+Option = Mufu:0x0800
+Option = Emperor Upan:0x0900
+Option = Super Nork:0x0A00
+Option = Tori:0x0B00
 

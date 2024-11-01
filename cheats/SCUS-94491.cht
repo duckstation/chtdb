@@ -44,25 +44,14 @@ Type = Gameshark
 Activation = EndFrame
 800BAC5C FFFF
 
-[Max Star Dust Disc 1]
+[Select Max Star Dust]
 Type = Gameshark
 Activation = EndFrame
-300BAC60 0014
-
-[Max Star Dust Disc 2]
-Type = Gameshark
-Activation = EndFrame
-300BAC60 0023
-
-[Max Star Dust Disc 3]
-Type = Gameshark
-Activation = EndFrame
-300BAC60 002E
-
-[Max Star Dust Disc 4]
-Type = Gameshark
-Activation = EndFrame
-300BAC60 0032
+300BAC60 ????
+Option = Disc 1:0x0014
+Option = Disc 2:0x0023
+Option = Disc 3:0x002E
+Option = Disc 4:0x0032
 
 [Infinite Items (All Slots)]
 Type = Gameshark

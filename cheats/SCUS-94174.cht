@@ -1,24 +1,16 @@
 ; CHTDB: ; [ NHL FaceOff 98 (USA) (1997) (Sony Computer Entertainment America) {SCUS-94174} <nhlfce98> ]
 
-[Select Home Team Score\9]
+[Select Home Team Score]
 Type = Gameshark
 Activation = EndFrame
-800D09BE 0009
+800D09BE 00??
+OptionRange = 0:9
 
-[Select Home Team Score\0]
+[Select Away Team Score]
 Type = Gameshark
 Activation = EndFrame
-800D09BE 0000
-
-[Select Away Team Score\9]
-Type = Gameshark
-Activation = EndFrame
-800D09C0 0009
-
-[Select Away Team Score\0]
-Type = Gameshark
-Activation = EndFrame
-800D09C0 0000
+800D09C0 00??
+OptionRange = 0:9
 
 [All Goals For Home Team]
 Type = Gameshark

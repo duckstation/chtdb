@@ -29,105 +29,35 @@ Type = Gameshark
 Activation = EndFrame
 8005F49E 2400
 
-[Select Starting Lap\NO LAPS]
+[Select Starting Lap]
 Type = Gameshark
 Activation = EndFrame
-30010F6F 0000
+30010F6F ????
+Option = NO LAPS:0x0000
+Option = Final Lap:0x0001
+Option = 2 Laps:0x0002
+Option = 3 Laps:0x0003
+Option = 4 Laps:0x0004
+Option = 5 Laps:0x0005
+Option = 6 Laps:0x0006
+Option = 7 Laps:0x0007
 
-[Select Starting Lap\Final Lap]
+[P1 Select Character]
 Type = Gameshark
 Activation = EndFrame
-30010F6F 0001
-
-[Select Starting Lap\2 Laps]
-Type = Gameshark
-Activation = EndFrame
-30010F6F 0002
-
-[Select Starting Lap\3 Laps]
-Type = Gameshark
-Activation = EndFrame
-30010F6F 0003
-
-[Select Starting Lap\4 Laps]
-Type = Gameshark
-Activation = EndFrame
-30010F6F 0004
-
-[Select Starting Lap\5 Laps]
-Type = Gameshark
-Activation = EndFrame
-30010F6F 0005
-
-[Select Starting Lap\6 Laps]
-Type = Gameshark
-Activation = EndFrame
-30010F6F 0006
-
-[Select Starting Lap\7 Laps]
-Type = Gameshark
-Activation = EndFrame
-30010F6F 0007
-
-[P1 Select Character\Spirit]
-Type = Gameshark
-Activation = EndFrame
-30010000 0000
-
-[P1 Select Character\Wild Ride]
-Type = Gameshark
-Activation = EndFrame
-30010000 0001
-
-[P1 Select Character\Tetsujin]
-Type = Gameshark
-Activation = EndFrame
-30010000 0002
-
-[P1 Select Character\Vampeera]
-Type = Gameshark
-Activation = EndFrame
-30010000 0003
-
-[P1 Select Character\The Max]
-Type = Gameshark
-Activation = EndFrame
-30010000 0004
-
-[P1 Select Character\Raven]
-Type = Gameshark
-Activation = EndFrame
-30010000 0005
-
-[P1 Select Character\Bomber]
-Type = Gameshark
-Activation = EndFrame
-30010000 0006
-
-[P1 Select Character\Convict]
-Type = Gameshark
-Activation = EndFrame
-30010000 0007
-
-[P1 Select Character\Angel]
-Type = Gameshark
-Activation = EndFrame
-30010000 0008
-
-[P1 Select Character\Technician]
-Type = Gameshark
-Activation = EndFrame
-30010000 0009
-
-[P1 Select Character\Granny]
-Type = Gameshark
-Activation = EndFrame
-30010000 000A
-
-[P1 Select Character\Capt. Ballard]
-Type = Gameshark
-Activation = EndFrame
-30010000 000B
+30010000 ????
+Option = Angel:0x0008
+Option = Bomber:0x0006
+Option = Capt. Ballard:0x000B
+Option = Convict:0x0007
+Option = Granny:0x000A
+Option = Raven:0x0005
+Option = Spirit:0x0000
+Option = Technician:0x0009
+Option = Tetsujin:0x0002
+Option = The Max:0x0004
+Option = Vampeera:0x0003
+Option = Wild Ride:0x0001
 
 [P1 Infinite Turbo]
 Type = Gameshark
@@ -144,65 +74,22 @@ Type = Gameshark
 Activation = EndFrame
 300CCF24 007F
 
-[P2 Select Character\Spirit]
+[P2 Select Character]
 Type = Gameshark
 Activation = EndFrame
-30010001 0000
-
-[P2 Select Character\Wild Ride]
-Type = Gameshark
-Activation = EndFrame
-30010001 0001
-
-[P2 Select Character\Tetsujin]
-Type = Gameshark
-Activation = EndFrame
-30010001 0002
-
-[P2 Select Character\Vampeera]
-Type = Gameshark
-Activation = EndFrame
-30010001 0003
-
-[P2 Select Character\The Max]
-Type = Gameshark
-Activation = EndFrame
-30010001 0004
-
-[P2 Select Character\Raven]
-Type = Gameshark
-Activation = EndFrame
-30010001 0005
-
-[P2 Select Character\Bomber]
-Type = Gameshark
-Activation = EndFrame
-30010001 0006
-
-[P2 Select Character\Convict]
-Type = Gameshark
-Activation = EndFrame
-30010001 0007
-
-[P2 Select Character\Angel]
-Type = Gameshark
-Activation = EndFrame
-30010001 0008
-
-[P2 Select Character\Technician]
-Type = Gameshark
-Activation = EndFrame
-30010001 0009
-
-[P2 Select Character\Granny]
-Type = Gameshark
-Activation = EndFrame
-30010001 000A
-
-[P2 Select Character\Capt. Ballard]
-Type = Gameshark
-Activation = EndFrame
-30010001 000B
+30010001 ????
+Option = Angel:0x0008
+Option = Bomber:0x0006
+Option = Capt. Ballard:0x000B
+Option = Convict:0x0007
+Option = Granny:0x000A
+Option = Raven:0x0005
+Option = Spirit:0x0000
+Option = Technician:0x0009
+Option = Tetsujin:0x0002
+Option = The Max:0x0004
+Option = Vampeera:0x0003
+Option = Wild Ride:0x0001
 
 [P2 Infinite Turbo]
 Type = Gameshark

@@ -46,30 +46,15 @@ Type = Gameshark
 Activation = EndFrame
 80089498 0000
 
-[Select Speed/Thrust SSC]
+[Select Speed]
 Type = Gameshark
 Activation = EndFrame
-300894CD 0030
-
-[Select Speed/normal (0F)]
-Type = Gameshark
-Activation = EndFrame
-300894CD 000F
-
-[Select Speed/normal (10)]
-Type = Gameshark
-Activation = EndFrame
-300894CD 0010
-
-[Select Speed/normal (11)]
-Type = Gameshark
-Activation = EndFrame
-300894CD 0011
-
-[Select Speed/Trabant 601S]
-Type = Gameshark
-Activation = EndFrame
-300894CD 0007
+300894CD ????
+Option = Trabant 601S:0x0007
+Option = normal (0F):0x000F
+Option = normal (10):0x0010
+Option = normal (11):0x0011
+Option = Thrust SSC:0x0030
 
 [All Circuits]
 Type = Gameshark

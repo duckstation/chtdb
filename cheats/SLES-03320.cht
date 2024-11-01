@@ -5,65 +5,22 @@ Type = Gameshark
 Activation = EndFrame
 A604780C FFFFFFFF
 
-[Spielbahn Modifizierer	Gravel Factory / Kiesfabrik]
+[Spielbahn Modifizierer]
 Type = Gameshark
 Activation = EndFrame
-3007BF90 0000
-
-[Spielbahn Modifiziere Quarry / Steinbruch]
-Type = Gameshark
-Activation = EndFrame
-3007BF90 0001
-
-[Spielbahn Modifiziere Flooded Quarry / Überfluteter Steinbruch]
-Type = Gameshark
-Activation = EndFrame
-3007BF90 0002
-
-[Spielbahn Modifiziere Tar Pits / Teergruben]
-Type = Gameshark
-Activation = EndFrame
-3007BF90 0003
-
-[Spielbahn Modifiziere Bonus - The Rubbles Backyard Pool / Geröllheimers Hinterhof]
-Type = Gameshark
-Activation = EndFrame
-3007BF90 0004
-
-[Spielbahn Modifiziere Bedrock Freeway / Bedrock-Autobahn]
-Type = Gameshark
-Activation = EndFrame
-3007BF90 0005
-
-[Spielbahn Modifiziere Crystal Mine / Kristallmine]
-Type = Gameshark
-Activation = EndFrame
-3007BF90 0006
-
-[Spielbahn Modifiziere Lava]
-Type = Gameshark
-Activation = EndFrame
-3007BF90 0007
-
-[Spielbahn Modifiziere Rockzilla]
-Type = Gameshark
-Activation = EndFrame
-3007BF90 0008
-
-[Spielbahn Modifiziere Bonus - Water Buffalo Lodge / Wasserbüffel-Lodge]
-Type = Gameshark
-Activation = EndFrame
-3007BF90 0009
-
-[Spielbahn Modifiziere Zetox]
-Type = Gameshark
-Activation = EndFrame
-3007BF90 000A
-
-[Spielbahn Modifiziere Hidden - Gazoo's Asteroid / Versteckt - Der Asteroid von Gazoo]
-Type = Gameshark
-Activation = EndFrame
-3007BF90 000B
+3007BF90 ????
+Option = Gravel Factory / Kiesfabrik:0x0000
+Option = Quarry / Steinbruch:0x0001
+Option = Flooded Quarry / Überfluteter Steinbruch:0x0002
+Option = Tar Pits / Teergruben:0x0003
+Option = Bonus - The Rubbles Backyard Pool / Geröllheimers Hinterhof:0x0004
+Option = Bedrock Freeway / Bedrock-Autobahn:0x0005
+Option = Crystal Mine / Kristallmine:0x0006
+Option = Lava:0x0007
+Option = Rockzilla:0x0008
+Option = Bonus - Water Buffalo Lodge / Wasserbüffel-Lodge:0x0009
+Option = Zetox:0x000A
+Option = Hidden - Gazoo's Asteroid / Versteckt - Der Asteroid von Gazoo:0x000B
 
 [P1 Bonus = 50.000]
 Type = Gameshark

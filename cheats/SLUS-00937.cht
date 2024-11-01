@@ -20,13 +20,17 @@ Type = Gameshark
 Activation = EndFrame
 800C1C88 FFFF
 
-[Green Crystals 00-FF Replace the ?? with the number needed to complete mission]
+[Select Green Crystals Qty]
+Description = Choose number needed to complete mission
 Type = Gameshark
 Activation = EndFrame
-800C1C90 00FF
+800C1C90 00??
+OptionRange = 0:255
 
-[Red Crystals 00-FF Replace the ?? with the number needed to complete mission.]
+[Select Red Crystals Qty]
+Description = Choose number needed to complete mission
 Type = Gameshark
 Activation = EndFrame
-800C1C8C 00FF
+800C1C8C 00??
+OptionRange = 0:255
 

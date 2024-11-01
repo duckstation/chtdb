@@ -1,42 +1,26 @@
 ; CHTDB: ; [ VR Soccer '96 (USA) (1996) (Interplay Productions) {SLUS-00199} <vrsocc96> ]
 
-[P1 Select Score\9]
+[P1 Select Score]
 Type = Gameshark
 Activation = EndFrame
-8011B974 0009
+8011B974 00??
+OptionRange = 0:9
 
-[P1 Select Score\0]
+[P1 Select Goal Score]
 Type = Gameshark
 Activation = EndFrame
-8011B974 0000
+800AB66C 00??
+OptionRange = 0:9
 
-[P1 Select Goal Score\9]
+[P2 Select Score]
 Type = Gameshark
 Activation = EndFrame
-800AB66C 0009
+8011B978 00??
+OptionRange = 0:9
 
-[P1 Select Goal Score\0]
+[P2 Select Goal Score]
 Type = Gameshark
 Activation = EndFrame
-800AB66C 0000
-
-[P2 Select Score\9]
-Type = Gameshark
-Activation = EndFrame
-8011B978 0009
-
-[P2 Select Score\0]
-Type = Gameshark
-Activation = EndFrame
-8011B978 0000
-
-[P2 Select Goal Score\9]
-Type = Gameshark
-Activation = EndFrame
-800AB0BC 0009
-
-[P2 Select Goal Score\0]
-Type = Gameshark
-Activation = EndFrame
-800AB0BC 0000
+800AB0BC 00??
+OptionRange = 0:9
 

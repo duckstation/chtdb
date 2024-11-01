@@ -1,22 +1,14 @@
 ; CHTDB: ; [ NCAA Football 2000 (USA, v1.0) (1999) (Electronic Arts) {SLUS-00932} <ncaa2ka> ]
 
-[Select Home Team Score\0]
+[Select Home Team Score]
 Type = Gameshark
 Activation = EndFrame
-8008594E 0000
+8008594E 00??
+OptionRange = 0:99
 
-[Select Home Team Score\99]
+[Select Away Team Score]
 Type = Gameshark
 Activation = EndFrame
-8008594E 0063
-
-[Select Away Team Score\0]
-Type = Gameshark
-Activation = EndFrame
-80087BC2 0000
-
-[Select Away Team Score\99]
-Type = Gameshark
-Activation = EndFrame
-80087BC2 0063
+80087BC2 00??
+OptionRange = 0:99
 

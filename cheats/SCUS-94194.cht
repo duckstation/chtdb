@@ -282,20 +282,13 @@ D00D6F18 0600
 D00B6F18 0100
 300B6F18 0001
 
-[Select Simulation Mode License\Simulation Mode A license in garage]
+[Select Simulation Mode License]
 Type = Gameshark
 Activation = EndFrame
-80058634 007C
-
-[Select Simulation Mode License\Simulation Mode B license in garage]
-Type = Gameshark
-Activation = EndFrame
-80058634 007D
-
-[Select Simulation Mode License\Simulation Mode IA license in garage]
-Type = Gameshark
-Activation = EndFrame
-80058634 007E
+80058634 ????
+Option = Simulation Mode A license in garage:0x007C
+Option = Simulation Mode B license in garage:0x007D
+Option = Simulation Mode IA license in garage:0x007E
 
 [All Manufacturers Unlocked (Single Race + Time Trial)Greatest Hits]
 Type = Gameshark

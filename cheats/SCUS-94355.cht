@@ -123,128 +123,38 @@ Type = Gameshark
 Activation = EndFrame
 800DC3D4 0112
 
-[Select One Perm Item\Bomb]
+[Select One Perm Item]
 Type = Gameshark
 Activation = EndFrame
-800DC3CA 0000
+800DC3CA ????
+Option = Bomb:0x0000
+Option = Fireball:0x0100
+Option = Missile:0x0200
+Option = Turbo:0x0300
+Option = Jump:0x0400
+Option = Crazy Mushroom:0x0500
+Option = Stealth Field:0x0600
+Option = Big, Bigger, Biggest:0x0700
+Option = Tiny, Tiny, Tiny:0x0800
+Option = Oil Can:0x0900
+Option = Pandora's Box:0x0A00
+Option = Dynamite:0x0B00
+Option = Super Shield:0x0C00
+Option = Magic Hand:0x0D00
+Option = Wonder Clock:0x0E00
+Option = 32T Weight:0x0F00
+Option = Power up:0x1000
 
-[Select One Perm Item\Fireball]
+[P1 Select Car]
 Type = Gameshark
 Activation = EndFrame
-800DC3CA 0100
-
-[Select One Perm Item\Missile]
-Type = Gameshark
-Activation = EndFrame
-800DC3CA 0200
-
-[Select One Perm Item\Turbo]
-Type = Gameshark
-Activation = EndFrame
-800DC3CA 0300
-
-[Select One Perm Item\Jump]
-Type = Gameshark
-Activation = EndFrame
-800DC3CA 0400
-
-[Select One Perm Item\Crazy Mushroom]
-Type = Gameshark
-Activation = EndFrame
-800DC3CA 0500
-
-[Select One Perm Item\Stealth Field]
-Type = Gameshark
-Activation = EndFrame
-800DC3CA 0600
-
-[Select One Perm Item\Big, Bigger, Biggest]
-Type = Gameshark
-Activation = EndFrame
-800DC3CA 0700
-
-[Select One Perm Item\Tiny, Tiny, Tiny]
-Type = Gameshark
-Activation = EndFrame
-800DC3CA 0800
-
-[Select One Perm Item\Oil Can]
-Type = Gameshark
-Activation = EndFrame
-800DC3CA 0900
-
-[Select One Perm Item\Pandora's Box]
-Type = Gameshark
-Activation = EndFrame
-800DC3CA 0A00
-
-[Select One Perm Item\Dynamite]
-Type = Gameshark
-Activation = EndFrame
-800DC3CA 0B00
-
-[Select One Perm Item\Super Shield]
-Type = Gameshark
-Activation = EndFrame
-800DC3CA 0C00
-
-[Select One Perm Item\Magic Hand]
-Type = Gameshark
-Activation = EndFrame
-800DC3CA 0D00
-
-[Select One Perm Item\Wonder Clock]
-Type = Gameshark
-Activation = EndFrame
-800DC3CA 0E00
-
-[Select One Perm Item\32T Weight]
-Type = Gameshark
-Activation = EndFrame
-800DC3CA 0F00
-
-[Select One Perm Item\Power up]
-Type = Gameshark
-Activation = EndFrame
-800DC3CA 1000
-
-[P1 Select Car\Captain Rock]
-Type = Gameshark
-Activation = EndFrame
-8008C7AC 0001
-
-[P1 Select Car\Princess Jean]
-Type = Gameshark
-Activation = EndFrame
-8008C7AC 0002
-
-[P1 Select Car\Bolbox]
-Type = Gameshark
-Activation = EndFrame
-8008C7AC 0003
-
-[P1 Select Car\Penguin Bros]
-Type = Gameshark
-Activation = EndFrame
-8008C7AC 0004
-
-[P1 Select Car\Raptor + Raptor]
-Type = Gameshark
-Activation = EndFrame
-8008C7AC 0005
-
-[P1 Select Car\Vanity]
-Type = Gameshark
-Activation = EndFrame
-8008C7AC 0006
-
-[P1 Select Car\Billy The Tough]
-Type = Gameshark
-Activation = EndFrame
-8008C7AC 0007
-
-[P1 Select Car\Ching Tong Shang]
-Type = Gameshark
-Activation = EndFrame
-8008C7AC 0008
+8008C7AC ????
+Option = Billy The Tough:0x0007
+Option = Bolbox:0x0003
+Option = Captain Rock:0x0001
+Option = Ching Tong Shang:0x0008
+Option = Penguin Bros:0x0004
+Option = Princess Jean:0x0002
+Option = Raptor + Raptor:0x0005
+Option = Vanity:0x0006
 

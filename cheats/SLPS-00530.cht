@@ -30,40 +30,11 @@ Type = Gameshark
 Activation = EndFrame
 800B4012 0010
 
-[Main Game\Stage select 1]
+[Main Game\Select Stage select]
 Type = Gameshark
 Activation = EndFrame
-800B0D7C 0001
-
-[Main Game\Stage select 2]
-Type = Gameshark
-Activation = EndFrame
-800B0D7C 0002
-
-[Main Game\Stage select 3]
-Type = Gameshark
-Activation = EndFrame
-800B0D7C 0003
-
-[Main Game\Stage select 4]
-Type = Gameshark
-Activation = EndFrame
-800B0D7C 0004
-
-[Main Game\Stage select 5]
-Type = Gameshark
-Activation = EndFrame
-800B0D7C 0005
-
-[Main Game\Stage select 6]
-Type = Gameshark
-Activation = EndFrame
-800B0D7C 0006
-
-[Main Game\Final Stage	7]
-Type = Gameshark
-Activation = EndFrame
-800B0D7C 0007
+800B0D7C 000?
+OptionRange = 1:7
 
 [Main Game\P1 Slow Speed]
 Type = Gameshark

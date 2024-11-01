@@ -1,24 +1,16 @@
 ; CHTDB: ; [ Bottom of the 9th '99 (USA) (1998) (Konami of America) {SLUS-00678} <botm999> ]
 
-[Select Away Team Score\0]
+[Select Away Team Score]
 Type = Gameshark
 Activation = EndFrame
-801330AE 0000
+801330AE 00??
+OptionRange = 0:99
 
-[Select Away Team Score\99]
+[Select Home Team Score]
 Type = Gameshark
 Activation = EndFrame
-801330AE 0063
-
-[Select Home Team Score\0]
-Type = Gameshark
-Activation = EndFrame
-801330B8 0000
-
-[Select Home Team Score\99]
-Type = Gameshark
-Activation = EndFrame
-801330B8 6300
+301330B9 00??
+OptionRange = 0:99
 
 [0 Balls + 2 Strikes (Press Select)]
 Type = Gameshark

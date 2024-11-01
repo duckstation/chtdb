@@ -5,183 +5,44 @@ Type = Gameshark
 Activation = EndFrame
 801EEE90 1389
 
-[Select Level\1]
+[Select Level]
 Type = Gameshark
 Activation = EndFrame
-30093B48 0000
-
-[Select Level\2]
-Type = Gameshark
-Activation = EndFrame
-30093B48 0001
-
-[Select Level\3]
-Type = Gameshark
-Activation = EndFrame
-30093B48 0002
-
-[Select Level\4]
-Type = Gameshark
-Activation = EndFrame
-30093B48 0003
-
-[Select Level\5]
-Type = Gameshark
-Activation = EndFrame
-30093B48 0004
-
-[Select Level\6]
-Type = Gameshark
-Activation = EndFrame
-30093B48 0005
-
-[Select Level\7]
-Type = Gameshark
-Activation = EndFrame
-30093B48 0006
-
-[Select Level\8]
-Type = Gameshark
-Activation = EndFrame
-30093B48 0007
-
-[Select Level\9]
-Type = Gameshark
-Activation = EndFrame
-30093B48 0008
-
-[Select Level\10]
-Type = Gameshark
-Activation = EndFrame
-30093B48 0009
-
-[Select Level\11]
-Type = Gameshark
-Activation = EndFrame
-30093B48 000A
-
-[Select Level\12]
-Type = Gameshark
-Activation = EndFrame
-30093B48 000B
-
-[Select Level\13]
-Type = Gameshark
-Activation = EndFrame
-30093B48 000C
-
-[Select Level\14]
-Type = Gameshark
-Activation = EndFrame
-30093B48 000D
-
-[Select Level\15]
-Type = Gameshark
-Activation = EndFrame
-30093B48 000E
-
-[Select Level\16]
-Type = Gameshark
-Activation = EndFrame
-30093B48 000F
-
-[Select Level\17]
-Type = Gameshark
-Activation = EndFrame
-30093B48 0010
-
-[Select Level\18]
-Type = Gameshark
-Activation = EndFrame
-30093B48 0011
-
-[Select Level\19]
-Type = Gameshark
-Activation = EndFrame
-30093B48 0012
-
-[Select Level\20]
-Type = Gameshark
-Activation = EndFrame
-30093B48 0013
-
-[Select Level\21]
-Type = Gameshark
-Activation = EndFrame
-30093B48 0014
-
-[Select Level\22]
-Type = Gameshark
-Activation = EndFrame
-30093B48 0015
-
-[Select Level\23]
-Type = Gameshark
-Activation = EndFrame
-30093B48 0016
-
-[Select Level\24]
-Type = Gameshark
-Activation = EndFrame
-30093B48 0017
-
-[Select Level\25]
-Type = Gameshark
-Activation = EndFrame
-30093B48 0018
-
-[Select Level\26]
-Type = Gameshark
-Activation = EndFrame
-30093B48 0019
-
-[Select Level\27]
-Type = Gameshark
-Activation = EndFrame
-30093B48 001A
-
-[Select Level\28]
-Type = Gameshark
-Activation = EndFrame
-30093B48 001B
-
-[Select Level\29]
-Type = Gameshark
-Activation = EndFrame
-30093B48 001C
-
-[Select Level\30]
-Type = Gameshark
-Activation = EndFrame
-30093B48 001D
-
-[Select Level\31]
-Type = Gameshark
-Activation = EndFrame
-30093B48 001E
-
-[Select Level\32]
-Type = Gameshark
-Activation = EndFrame
-30093B48 001F
-
-[Select Level\33]
-Type = Gameshark
-Activation = EndFrame
-30093B48 0020
-
-[Select Level\34]
-Type = Gameshark
-Activation = EndFrame
-30093B48 0021
-
-[Select Level\35]
-Type = Gameshark
-Activation = EndFrame
-30093B48 0022
-
-[Select Level\36 credits]
-Type = Gameshark
-Activation = EndFrame
-30093B48 0023
+30093B48 ????
+Option = 1:0x0000
+Option = 2:0x0001
+Option = 3:0x0002
+Option = 4:0x0003
+Option = 5:0x0004
+Option = 6:0x0005
+Option = 7:0x0006
+Option = 8:0x0007
+Option = 9:0x0008
+Option = 10:0x0009
+Option = 11:0x000A
+Option = 12:0x000B
+Option = 13:0x000C
+Option = 14:0x000D
+Option = 15:0x000E
+Option = 16:0x000F
+Option = 17:0x0010
+Option = 18:0x0011
+Option = 19:0x0012
+Option = 20:0x0013
+Option = 21:0x0014
+Option = 22:0x0015
+Option = 23:0x0016
+Option = 24:0x0017
+Option = 25:0x0018
+Option = 26:0x0019
+Option = 27:0x001A
+Option = 28:0x001B
+Option = 29:0x001C
+Option = 30:0x001D
+Option = 31:0x001E
+Option = 32:0x001F
+Option = 33:0x0020
+Option = 34:0x0021
+Option = 35:0x0022
+Option = 36 credits:0x0023
 

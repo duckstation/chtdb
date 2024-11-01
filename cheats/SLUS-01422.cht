@@ -5,30 +5,15 @@ Type = Gameshark
 Activation = EndFrame
 8009572E 270F
 
-[P1 Select Weapon (Only One!)\Speed Boost]
+[P1 Select Weapon]
 Type = Gameshark
 Activation = EndFrame
-30095724 0001
-
-[P1 Select Weapon (Only One!)\Mega Horn]
-Type = Gameshark
-Activation = EndFrame
-30095724 0002
-
-[P1 Select Weapon (Only One!)\Shield]
-Type = Gameshark
-Activation = EndFrame
-30095724 0003
-
-[P1 Select Weapon (Only One!)\Missiles]
-Type = Gameshark
-Activation = EndFrame
-30095724 0004
-
-[P1 Select Weapon (Only One!)\Mines]
-Type = Gameshark
-Activation = EndFrame
-30095724 0005
+30095724 ????
+Option = Speed Boost:0x0001
+Option = Mega Horn:0x0002
+Option = Shield:0x0003
+Option = Missiles:0x0004
+Option = Mines:0x0005
 
 [P1 99 Coins Coin Race Mode]
 Type = Gameshark

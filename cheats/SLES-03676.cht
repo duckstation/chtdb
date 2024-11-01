@@ -39,43 +39,16 @@ D0062242 BFFF
 D0062242 BFDF
 800644C8 0001
 
-[Select Level\1 The Savannah]
+[Select Level]
 Type = Gameshark
 Activation = EndFrame
-8006443C 0001
-
-[Select Level\2 The Marshlands]
-Type = Gameshark
-Activation = EndFrame
-8006443C 0002
-
-[Select Level\3 The Forest]
-Type = Gameshark
-Activation = EndFrame
-8006443C 0003
-
-[Select Level\4 The Large Embankment]
-Type = Gameshark
-Activation = EndFrame
-8006443C 0004
-
-[Select Level\5 The Cave]
-Type = Gameshark
-Activation = EndFrame
-8006443C 0005
-
-[Select Level\6 The Rocky Plateau]
-Type = Gameshark
-Activation = EndFrame
-8006443C 0006
-
-[Select Level\7 Karaba's Cabin]
-Type = Gameshark
-Activation = EndFrame
-8006443C 0007
-
-[Select Level\8 Bonus]
-Type = Gameshark
-Activation = EndFrame
-8006443C 0008
+8006443C ????
+Option = 1 The Savannah:0x0001
+Option = 2 The Marshlands:0x0002
+Option = 3 The Forest:0x0003
+Option = 4 The Large Embankment:0x0004
+Option = 5 The Cave:0x0005
+Option = 6 The Rocky Plateau:0x0006
+Option = 7 Karaba's Cabin:0x0007
+Option = 8 Bonus:0x0008
 

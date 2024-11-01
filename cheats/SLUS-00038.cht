@@ -1,17 +1,19 @@
 ; CHTDB: ; [ FIFA Soccer 96 (USA) (1995) (Electronic Arts) {SLUS-00038} <fifa96> ]
 
-[P2 Goals Always 0]
-Type = Gameshark
-Activation = EndFrame
-80016CD4 0000
-
-[P1 Goals Always 1]
-Type = Gameshark
-Activation = EndFrame
-80016CD2 000A
-
 [Infinite Time]
 Type = Gameshark
 Activation = EndFrame
 80016CC0 0000
+
+[P1 Select Score]
+Type = Gameshark
+Activation = EndFrame
+80016CD2 00??
+OptionRange = 0:99
+
+[P2 Select Score]
+Type = Gameshark
+Activation = EndFrame
+80016CD4 00??
+OptionRange = 0:99
 

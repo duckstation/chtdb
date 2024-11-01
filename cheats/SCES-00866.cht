@@ -5,45 +5,18 @@ Type = Gameshark
 Activation = EndFrame
 3006D588 0303
 
-[Select Stage\1]
+[Select Stage]
 Type = Gameshark
 Activation = EndFrame
-8006D648 0001
-
-[Select Stage\2]
-Type = Gameshark
-Activation = EndFrame
-8006D648 0002
-
-[Select Stage\3]
-Type = Gameshark
-Activation = EndFrame
-8006D648 0003
-
-[Select Stage\4]
-Type = Gameshark
-Activation = EndFrame
-8006D648 0004
-
-[Select Stage\5]
-Type = Gameshark
-Activation = EndFrame
-8006D648 0005
-
-[Select Stage\6]
-Type = Gameshark
-Activation = EndFrame
-8006D648 0006
-
-[Select Stage\7]
-Type = Gameshark
-Activation = EndFrame
-8006D648 0007
-
-[Select Stage\8]
-Type = Gameshark
-Activation = EndFrame
-8006D648 0008
+8006D648 ????
+Option = 1:0x0001
+Option = 2:0x0002
+Option = 3:0x0003
+Option = 4:0x0004
+Option = 5:0x0005
+Option = 6:0x0006
+Option = 7:0x0007
+Option = 8:0x0008
 ;#### PATCHES LISTED BELOW ####
 
 [Select Widescreen Aspect Ratio\16-9]

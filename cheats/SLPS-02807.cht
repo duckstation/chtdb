@@ -25,58 +25,18 @@ Type = Gameshark
 Activation = EndFrame
 8002EA96 FFFF
 
-[Select Stage\The first story, Hen OKERA (works with a memory card save in the story mode)]
+[Select Stage]
 Type = Gameshark
 Activation = EndFrame
-30035FC0 0001
-
-[Select Stage\The second story,Dan Mahjong Hen BEE debauchery (works with a memory card save in the story mode)]
-Type = Gameshark
-Activation = EndFrame
-30035FC0 0002
-
-[Select Stage\The third story, Temple Hen (works with a memory card save in the story mode)]
-Type = Gameshark
-Activation = EndFrame
-30035FC0 0003
-
-[Select Stage\The Fourth Partly cloudy GENROKUKONBI Hen (works with a memory card save in the story mode)]
-Type = Gameshark
-Activation = EndFrame
-30035FC0 0004
-
-[Select Stage\The Fifth The secret membership Mahjong Hen (works with a memory card save in the story mode)]
-Type = Gameshark
-Activation = EndFrame
-30035FC0 0005
-
-[Select Stage\The sixth The hen house (works with a memory card save in the story mode)]
-Type = Gameshark
-Activation = EndFrame
-30035FC0 0006
-
-[Select Stage\The Seventh Katsura Bar Hen (works with a memory card save in the story mode)]
-Type = Gameshark
-Activation = EndFrame
-30035FC0 0007
-
-[Select Stage\The Eight Hen (works with a memory card save in the story mode)]
-Type = Gameshark
-Activation = EndFrame
-30035FC0 0008
-
-[Select Stage\The Ninth Hen Cottage (works with a memory card save in the story mode)]
-Type = Gameshark
-Activation = EndFrame
-30035FC0 0009
-
-[Select Stage\The final story, Hen firelight (works with a memory card save in the story mode)]
-Type = Gameshark
-Activation = EndFrame
-30035FC0 000A
-
-[Select Stage\Chidori Hen (works with a memory card save in the story mode)]
-Type = Gameshark
-Activation = EndFrame
-30035FC0 000B
+Option = The first story, Hen OKERA (works with a memory card save in the story mode):0x0001
+Option = The second story,Dan Mahjong Hen BEE debauchery (works with a memory card save in the story mode):0x0002
+Option = The third story, Temple Hen (works with a memory card save in the story mode):0x0003
+Option = The Fourth Partly cloudy GENROKUKONBI Hen (works with a memory card save in the story mode):0x0004
+Option = The Fifth The secret membership Mahjong Hen (works with a memory card save in the story mode):0x0005
+Option = The sixth The hen house (works with a memory card save in the story mode):0x0006
+Option = The Seventh Katsura Bar Hen (works with a memory card save in the story mode):0x0007
+Option = The Eight Hen (works with a memory card save in the story mode):0x0008
+Option = The Ninth Hen Cottage (works with a memory card save in the story mode):0x0009
+Option = The final story, Hen firelight (works with a memory card save in the story mode):0x000A
+Option = Chidori Hen (works with a memory card save in the story mode):0x000B
 
