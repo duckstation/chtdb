@@ -205,45 +205,18 @@ Type = Gameshark
 Activation = EndFrame
 800CBD28 FF1E
 
-[Kleidung\Mit Tasche Am GüRtel]
+[Kleidung]
 Type = Gameshark
 Activation = EndFrame
-800CB9F0 0002
-
-[Kleidung\Bandagiert]
-Type = Gameshark
-Activation = EndFrame
-800CB9F0 0004
-
-[Kleidung\Bandagiert Und Tasche]
-Type = Gameshark
-Activation = EndFrame
-800CB9F0 0006
-
-[Kleidung\Rpd (Geheime Kleidung 1)]
-Type = Gameshark
-Activation = EndFrame
-800CB9F0 0008
-
-[Kleidung\Lederanzug (Geheime Kleidung 2)]
-Type = Gameshark
-Activation = EndFrame
-800CB9F0 000A
-
-[Kleidung\Hunk.]
-Type = Gameshark
-Activation = EndFrame
-800CB9F0 000C
-
-[Kleidung\Tofu Block]
-Type = Gameshark
-Activation = EndFrame
-800CB9F0 000D
-
-[Kleidung\Ada (Frau)]
-Type = Gameshark
-Activation = EndFrame
-800CB9F0 000E
+800CB9F0 ????
+Option = Mit Tasche Am GüRtel:0x0002
+Option = Bandagiert:0x0004
+Option = Bandagiert Und Tasche:0x0006
+Option = Rpd (Geheime Kleidung 1):0x0008
+Option = Lederanzug (Geheime Kleidung 2):0x000A
+Option = Hunk.:0x000C
+Option = Tofu Block:0x000D
+Option = Ada (Frau):0x000E
 
 [Unendliche Lebenskraft]
 Type = Gameshark

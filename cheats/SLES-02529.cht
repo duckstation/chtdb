@@ -28,70 +28,23 @@ D0082AD2 0014
 D0082AD2 0014
 800D3AD2 8005
 
-[Infinite Rocket Launcher]
+[Select Infinite Weapon]
 Type = Gameshark
 Activation = EndFrame
-900D3F58 0001990A
-
-[Infinite Gatling Gun]
-Type = Gameshark
-Activation = EndFrame
-900D3F58 0001990B
-
-[Infinite Western Custom]
-Type = Gameshark
-Activation = EndFrame
-900D3F58 00019910
-
-[Infinite Benelli M3S]
-Type = Gameshark
-Activation = EndFrame
-900D3F58 00019913
-
-[Infinite M97F Eagle]
-Type = Gameshark
-Activation = EndFrame
-900D3F58 00019912
-
-[Infinite Mine Thrower]
-Type = Gameshark
-Activation = EndFrame
-900D3F58 00019914
-
-[Infinite Eagle 6.0]
-Type = Gameshark
-Activation = EndFrame
-900D3F58 0001990D
-
-[Infinite Magnum]
-Type = Gameshark
-Activation = EndFrame
-900D3F58 00019914
-
-[Infinite Merc's Handgun]
-Type = Gameshark
-Activation = EndFrame
-900D3F58 00019902
-
-[Infinite Hanggun]
-Type = Gameshark
-Activation = EndFrame
-900D3F58 00019903
-
-[Infinite Grenade Launcher (Explocive Rounds)]
-Type = Gameshark
-Activation = EndFrame
-900D3F58 00019906
-
-[Infinite Grenade Launcher (Acid Rounds)]
-Type = Gameshark
-Activation = EndFrame
-900D3F58 00019909
-
-[Infinite Grenade Launcher (Flame Rounds)]
-Type = Gameshark
-Activation = EndFrame
-900D3F58 00019907
+900D3F58 ????????
+Option = Rocket Launcher:0x0001990A
+Option = Gatling Gun:0x0001990B
+Option = Western Custom:0x00019910
+Option = Benelli M3S:0x00019913
+Option = M97F Eagle:0x00019912
+Option = Mine Thrower:0x00019914
+Option = Eagle 6.0:0x0001990D
+Option = Magnum:0x00019914
+Option = Merc's Handgun:0x00019902
+Option = Hanggun:0x00019903
+Option = Grenade Launcher (Explocive Rounds):0x00019906
+Option = Grenade Launcher (Acid Rounds):0x00019909
+Option = Grenade Launcher (Flame Rounds):0x00019907
 
 [Hyper Mode]
 Type = Gameshark
@@ -135,25 +88,14 @@ Type = Gameshark
 Activation = EndFrame
 800D3CF8 0000
 
-[Select Character\Carlos]
+[Select Character]
 Type = Gameshark
 Activation = EndFrame
-800D3D3E 0008
-
-[Select Character\Mikhall]
-Type = Gameshark
-Activation = EndFrame
-800D3D3E 0009
-
-[Select Character\Nichotai]
-Type = Gameshark
-Activation = EndFrame
-800D3D3E 000A
-
-[Select Character\Tofu]
-Type = Gameshark
-Activation = EndFrame
-800D3D3E 000F
+800D3D3E ????
+Option = Carlos:0x0008
+Option = Mikhall:0x0009
+Option = Nichotai:0x000A
+Option = Tofu:0x000F
 
 [Sudden Death Enemies]
 Type = Gameshark

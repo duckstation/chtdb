@@ -1,24 +1,16 @@
 ; CHTDB: ; [ March Madness '98 (USA) (1998) (Electronic Arts) {SLUS-00526} <marmad98> ]
 
-[Select Away Team Score\100]
+[Select Away Team Score]
 Type = Gameshark
 Activation = EndFrame
-80016580 0064
+80016580 00??
+OptionRange = 0:100
 
-[Select Away Team Score\0]
+[Select Home Team Score]
 Type = Gameshark
 Activation = EndFrame
-80016580 0000
-
-[Select Home Team Score\100]
-Type = Gameshark
-Activation = EndFrame
-80015120 0064
-
-[Select Home Team Score\0]
-Type = Gameshark
-Activation = EndFrame
-80015120 0000
+80015120 00??
+OptionRange = 0:100
 
 [Stat\Infinite Player Points Remaining]
 Type = Gameshark

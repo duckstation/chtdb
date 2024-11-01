@@ -35,24 +35,29 @@ Activation = EndFrame
 Type = Gameshark
 Activation = EndFrame
 3002B5ED 000?
+OptionRange = 0:0x0F
 
 [Rangmodifizierer\2. Sau %RANGMODIFIZIERER]
 Type = Gameshark
 Activation = EndFrame
 3002B62D 000?
+OptionRange = 0:0x0F
 
 [Rangmodifizierer\3. Sau %RANGMODIFIZIERER]
 Type = Gameshark
 Activation = EndFrame
 3002B66D 000?
+OptionRange = 0:0x0F
 
 [Rangmodifizierer\4. Sau %RANGMODIFIZIERER]
 Type = Gameshark
 Activation = EndFrame
 3002B6AD 000?
+OptionRange = 0:0x0F
 
 [Rangmodifizierer\5. Sau %RANGMODIFIZIERER]
 Type = Gameshark
 Activation = EndFrame
 3002B6ED 000?
+OptionRange = 0:0x0F
 

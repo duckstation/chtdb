@@ -5,230 +5,60 @@ Type = Gameshark
 Activation = EndFrame
 901A8A68 0098967F
 
-[Select Part-time Job\01]
+[Select Part-time Job]
 Type = Gameshark
 Activation = EndFrame
-300C48D0 0000
+300C48D0 ????
+Option = 01:0x0000
+Option = 02:0x0001
+Option = 03:0x0002
+Option = 04:0x0003
+Option = 05:0x0004
+Option = 06:0x0005
+Option = 07:0x0006
+Option = 08:0x0007
+Option = 09:0x0008
+Option = 10:0x0009
+Option = 11:0x000A
+Option = 12:0x000B
+Option = 13:0x000C
+Option = 14:0x000D
+Option = 15:0x000E
+Option = 16:0x000F
 
-[Select Part-time Job\02]
+[Select Aircraft]
 Type = Gameshark
 Activation = EndFrame
-300C48D0 0001
-
-[Select Part-time Job\03]
-Type = Gameshark
-Activation = EndFrame
-300C48D0 0002
-
-[Select Part-time Job\04]
-Type = Gameshark
-Activation = EndFrame
-300C48D0 0003
-
-[Select Part-time Job\05]
-Type = Gameshark
-Activation = EndFrame
-300C48D0 0004
-
-[Select Part-time Job\06]
-Type = Gameshark
-Activation = EndFrame
-300C48D0 0005
-
-[Select Part-time Job\07]
-Type = Gameshark
-Activation = EndFrame
-300C48D0 0006
-
-[Select Part-time Job\08]
-Type = Gameshark
-Activation = EndFrame
-300C48D0 0007
-
-[Select Part-time Job\09]
-Type = Gameshark
-Activation = EndFrame
-300C48D0 0008
-
-[Select Part-time Job\10]
-Type = Gameshark
-Activation = EndFrame
-300C48D0 0009
-
-[Select Part-time Job\11]
-Type = Gameshark
-Activation = EndFrame
-300C48D0 000A
-
-[Select Part-time Job\12]
-Type = Gameshark
-Activation = EndFrame
-300C48D0 000B
-
-[Select Part-time Job\13]
-Type = Gameshark
-Activation = EndFrame
-300C48D0 000C
-
-[Select Part-time Job\14]
-Type = Gameshark
-Activation = EndFrame
-300C48D0 000D
-
-[Select Part-time Job\15]
-Type = Gameshark
-Activation = EndFrame
-300C48D0 000E
-
-[Select Part-time Job\16]
-Type = Gameshark
-Activation = EndFrame
-300C48D0 000F
-
-[Select Aircraft\ULTRA LIGHT PLANE]
-Type = Gameshark
-Activation = EndFrame
-300C4738 0000
-
-[Select Aircraft\CESSNA C172RG]
-Type = Gameshark
-Activation = EndFrame
-300C4738 0001
-
-[Select Aircraft\EMB312 TUCANO]
-Type = Gameshark
-Activation = EndFrame
-300C4738 0002
-
-[Select Aircraft\F4U4 CORSAIR]
-Type = Gameshark
-Activation = EndFrame
-300C4738 0003
-
-[Select Aircraft\A1H SKYRAIDER]
-Type = Gameshark
-Activation = EndFrame
-300C4738 0004
-
-[Select Aircraft\J2M3 RAIDEN]
-Type = Gameshark
-Activation = EndFrame
-300C4738 0005
-
-[Select Aircraft\MOSQUITO FB.MK6]
-Type = Gameshark
-Activation = EndFrame
-300C4738 0006
-
-[Select Aircraft\XF2R-1 DARK SHARK]
-Type = Gameshark
-Activation = EndFrame
-300C4738 0007
-
-[Select Aircraft\CESSNA T37 TWEET]
-Type = Gameshark
-Activation = EndFrame
-300C4738 0008
-
-[Select Aircraft\KAWASAKI T4]
-Type = Gameshark
-Activation = EndFrame
-300C4738 0009
-
-[Select Aircraft\F16B FIGHTING FALCON]
-Type = Gameshark
-Activation = EndFrame
-300C4738 000A
-
-[Select Aircraft\A-10 THUNDERBOLT II]
-Type = Gameshark
-Activation = EndFrame
-300C4738 000B
-
-[Select Aircraft\F/A18 HORNET]
-Type = Gameshark
-Activation = EndFrame
-300C4738 000C
-
-[Select Aircraft\MIG-29 FULCRUM]
-Type = Gameshark
-Activation = EndFrame
-300C4738 000D
-
-[Select Aircraft\EFA EUROFIGHTER2000]
-Type = Gameshark
-Activation = EndFrame
-300C4738 000E
-
-[Select Aircraft\SPITFIRE MK5]
-Type = Gameshark
-Activation = EndFrame
-300C4738 000F
-
-[Select Aircraft\MESSERSCHM ITT BF109E]
-Type = Gameshark
-Activation = EndFrame
-300C4738 0010
-
-[Select Aircraft\OV-10A BRONCO]
-Type = Gameshark
-Activation = EndFrame
-300C4738 0011
-
-[Select Aircraft\F5E TIGER II]
-Type = Gameshark
-Activation = EndFrame
-300C4738 0012
-
-[Select Aircraft\F4E PHANTOM]
-Type = Gameshark
-Activation = EndFrame
-300C4738 0013
-
-[Select Aircraft\JAS39 GRIPEN]
-Type = Gameshark
-Activation = EndFrame
-300C4738 0014
-
-[Select Aircraft\SU-35 FLANKER]
-Type = Gameshark
-Activation = EndFrame
-300C4738 0015
-
-[Select Aircraft\C130 HERCULES]
-Type = Gameshark
-Activation = EndFrame
-300C4738 0016
-
-[Select Aircraft\AN72 COALER]
-Type = Gameshark
-Activation = EndFrame
-300C4738 0017
-
-[Select Aircraft\B17]
-Type = Gameshark
-Activation = EndFrame
-300C4738 0018
-
-[Select Aircraft\E4B]
-Type = Gameshark
-Activation = EndFrame
-300C4738 0019
-
-[Select Aircraft\C130 HERCULES (Alt)]
-Type = Gameshark
-Activation = EndFrame
-300C4738 001A
-
-[Select Aircraft\E4B?]
-Type = Gameshark
-Activation = EndFrame
-300C4738 001B
-
-[Select Aircraft\SUPER SHIMADA 3C]
-Type = Gameshark
-Activation = EndFrame
-300C4738 001C
+300C4738 ????
+Option = ULTRA LIGHT PLANE:0x0000
+Option = CESSNA C172RG:0x0001
+Option = EMB312 TUCANO:0x0002
+Option = F4U4 CORSAIR:0x0003
+Option = A1H SKYRAIDER:0x0004
+Option = J2M3 RAIDEN:0x0005
+Option = MOSQUITO FB.MK6:0x0006
+Option = XF2R-1 DARK SHARK:0x0007
+Option = CESSNA T37 TWEET:0x0008
+Option = KAWASAKI T4:0x0009
+Option = F16B FIGHTING FALCON:0x000A
+Option = A-10 THUNDERBOLT II:0x000B
+Option = F/A18 HORNET:0x000C
+Option = MIG-29 FULCRUM:0x000D
+Option = EFA EUROFIGHTER2000:0x000E
+Option = SPITFIRE MK5:0x000F
+Option = MESSERSCHM ITT BF109E:0x0010
+Option = OV-10A BRONCO:0x0011
+Option = F5E TIGER II:0x0012
+Option = F4E PHANTOM:0x0013
+Option = JAS39 GRIPEN:0x0014
+Option = SU-35 FLANKER:0x0015
+Option = C130 HERCULES:0x0016
+Option = AN72 COALER:0x0017
+Option = B17:0x0018
+Option = E4B:0x0019
+Option = C130 HERCULES (Alt):0x001A
+Option = E4B?:0x001B
+Option = SUPER SHIMADA 3C:0x001C
 
 [Reciprocating supplemental training 1-1 100 points]
 Type = Gameshark

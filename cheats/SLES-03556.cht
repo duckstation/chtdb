@@ -39,183 +39,49 @@ Activation = EndFrame
 D009BEC2 BEFF
 8008C0DA FF20
 
-[Select Weapon Slot 1\Lifter]
+[Select Weapon Slot 1]
 Type = Gameshark
 Activation = EndFrame
-3008C22E 0000
+3008C22E ????
+Option = Lifter:0x0000
+Option = Kick:0x0001
+Option = Mega Buster:0x0002
+Option = Crusher:0x0003
+Option = Buster Cannon:0x0004
+Option = Hyper Shell:0x0005
+Option = Homing Missile:0x0006
+Option = Ground Crawler:0x0007
+Option = Vacuum Arm:0x0008
+Option = Reflector Arm:0x0009
+Option = Shield Arm:0x000A
+Option = Blade Arm:0x000B
+Option = Shining Laser:0x000C
+Option = Machine Gun Arm:0x000D
+Option = Spread Buster:0x000E
+Option = Aqua Blaster:0x000F
+Option = Hunter Seeker:0x0010
+Option = Drill Arm:0x0011
 
-[Select Weapon Slot 1\Kick]
+[Select Weapon Slot 2]
 Type = Gameshark
 Activation = EndFrame
-3008C22E 0001
-
-[Select Weapon Slot 1\Mega Buster]
-Type = Gameshark
-Activation = EndFrame
-3008C22E 0002
-
-[Select Weapon Slot 1\Crusher]
-Type = Gameshark
-Activation = EndFrame
-3008C22E 0003
-
-[Select Weapon Slot 1\Buster Cannon]
-Type = Gameshark
-Activation = EndFrame
-3008C22E 0004
-
-[Select Weapon Slot 1\Hyper Shell]
-Type = Gameshark
-Activation = EndFrame
-3008C22E 0005
-
-[Select Weapon Slot 1\Homing Missile]
-Type = Gameshark
-Activation = EndFrame
-3008C22E 0006
-
-[Select Weapon Slot 1\Ground Crawler]
-Type = Gameshark
-Activation = EndFrame
-3008C22E 0007
-
-[Select Weapon Slot 1\Vacuum Arm]
-Type = Gameshark
-Activation = EndFrame
-3008C22E 0008
-
-[Select Weapon Slot 1\Reflector Arm]
-Type = Gameshark
-Activation = EndFrame
-3008C22E 0009
-
-[Select Weapon Slot 1\Shield Arm]
-Type = Gameshark
-Activation = EndFrame
-3008C22E 000A
-
-[Select Weapon Slot 1\Blade Arm]
-Type = Gameshark
-Activation = EndFrame
-3008C22E 000B
-
-[Select Weapon Slot 1\Shining Laser]
-Type = Gameshark
-Activation = EndFrame
-3008C22E 000C
-
-[Select Weapon Slot 1\Machine Gun Arm]
-Type = Gameshark
-Activation = EndFrame
-3008C22E 000D
-
-[Select Weapon Slot 1\Spread Buster]
-Type = Gameshark
-Activation = EndFrame
-3008C22E 000E
-
-[Select Weapon Slot 1\Aqua Blaster]
-Type = Gameshark
-Activation = EndFrame
-3008C22E 000F
-
-[Select Weapon Slot 1\Hunter Seeker]
-Type = Gameshark
-Activation = EndFrame
-3008C22E 0010
-
-[Select Weapon Slot 1\Drill Arm]
-Type = Gameshark
-Activation = EndFrame
-3008C22E 0011
-
-[Select Weapon Slot 2\Lifter]
-Type = Gameshark
-Activation = EndFrame
-3008C22F 0000
-
-[Select Weapon Slot 2\Kick]
-Type = Gameshark
-Activation = EndFrame
-3008C22F 0001
-
-[Select Weapon Slot 2\Mega Buster]
-Type = Gameshark
-Activation = EndFrame
-3008C22F 0002
-
-[Select Weapon Slot 2\Crusher]
-Type = Gameshark
-Activation = EndFrame
-3008C22F 0003
-
-[Select Weapon Slot 2\Buster Cannon]
-Type = Gameshark
-Activation = EndFrame
-3008C22F 0004
-
-[Select Weapon Slot 2\Hyper Shell]
-Type = Gameshark
-Activation = EndFrame
-3008C22F 0005
-
-[Select Weapon Slot 2\Homing Missile]
-Type = Gameshark
-Activation = EndFrame
-3008C22F 0006
-
-[Select Weapon Slot 2\Ground Crawler]
-Type = Gameshark
-Activation = EndFrame
-3008C22F 0007
-
-[Select Weapon Slot 2\Vacuum Arm]
-Type = Gameshark
-Activation = EndFrame
-3008C22F 0008
-
-[Select Weapon Slot 2\Reflector Arm]
-Type = Gameshark
-Activation = EndFrame
-3008C22F 0009
-
-[Select Weapon Slot 2\Shield Arm]
-Type = Gameshark
-Activation = EndFrame
-3008C22F 000A
-
-[Select Weapon Slot 2\Blade Arm]
-Type = Gameshark
-Activation = EndFrame
-3008C22F 000B
-
-[Select Weapon Slot 2\Shining Laser]
-Type = Gameshark
-Activation = EndFrame
-3008C22F 000C
-
-[Select Weapon Slot 2\Machine Gun Arm]
-Type = Gameshark
-Activation = EndFrame
-3008C22F 000D
-
-[Select Weapon Slot 2\Spread Buster]
-Type = Gameshark
-Activation = EndFrame
-3008C22F 000E
-
-[Select Weapon Slot 2\Aqua Blaster]
-Type = Gameshark
-Activation = EndFrame
-3008C22F 000F
-
-[Select Weapon Slot 2\Hunter Seeker]
-Type = Gameshark
-Activation = EndFrame
-3008C22F 0010
-
-[Select Weapon Slot 2\Drill Arm]
-Type = Gameshark
-Activation = EndFrame
-3008C22F 0011
+3008C22F ????
+Option = Lifter:0x0000
+Option = Kick:0x0001
+Option = Mega Buster:0x0002
+Option = Crusher:0x0003
+Option = Buster Cannon:0x0004
+Option = Hyper Shell:0x0005
+Option = Homing Missile:0x0006
+Option = Ground Crawler:0x0007
+Option = Vacuum Arm:0x0008
+Option = Reflector Arm:0x0009
+Option = Shield Arm:0x000A
+Option = Blade Arm:0x000B
+Option = Shining Laser:0x000C
+Option = Machine Gun Arm:0x000D
+Option = Spread Buster:0x000E
+Option = Aqua Blaster:0x000F
+Option = Hunter Seeker:0x0010
+Option = Drill Arm:0x0011
 

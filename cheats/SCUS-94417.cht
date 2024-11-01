@@ -35,88 +35,30 @@ Type = Gameshark
 Activation = EndFrame
 80101F10 0000
 
-[P1 Select Car\Europa Tourer/Ranger]
+[P1 Select Car]
 Type = Gameshark
 Activation = EndFrame
-801CBD4C 0000
+801CBD4C ????
+Option = Europa Tourer/Ranger:0x0000
+Option = Yellow Thunder/Dune Buggy:0x0001
+Option = Red Flash/Jeepste:0x0002
+Option = Silver Bullet/Dallas Pick-up:0x0003
+Option = Super Blue/HGV:0x0004
+Option = Stock Car/Monster Truck:0x0005
+Option = Hot Hatch/Trooper:0x0006
+Option = My Saloon/Badger:0x0007
 
-[P1 Select Car\Yellow Thunder/Dune Buggy]
+[Select Track]
 Type = Gameshark
 Activation = EndFrame
-801CBD4C 0001
-
-[P1 Select Car\Red Flash/Jeepste]
-Type = Gameshark
-Activation = EndFrame
-801CBD4C 0002
-
-[P1 Select Car\Silver Bullet/Dallas Pick-up]
-Type = Gameshark
-Activation = EndFrame
-801CBD4C 0003
-
-[P1 Select Car\Super Blue/HGV]
-Type = Gameshark
-Activation = EndFrame
-801CBD4C 0004
-
-[P1 Select Car\Stock Car/Monster Truck]
-Type = Gameshark
-Activation = EndFrame
-801CBD4C 0005
-
-[P1 Select Car\Hot Hatch/Trooper]
-Type = Gameshark
-Activation = EndFrame
-801CBD4C 0006
-
-[P1 Select Car\My Saloon/Badger]
-Type = Gameshark
-Activation = EndFrame
-801CBD4C 0007
-
-[Select Track\Atlantic Trail]
-Type = Gameshark
-Activation = EndFrame
-8000E254 0000
-
-[Select Track\Country Valley]
-Type = Gameshark
-Activation = EndFrame
-8000E254 0001
-
-[Select Track\Yukon Pass]
-Type = Gameshark
-Activation = EndFrame
-8000E254 0002
-
-[Select Track\Downtown]
-Type = Gameshark
-Activation = EndFrame
-8000E254 0003
-
-[Select Track\Tuscan Gorge]
-Type = Gameshark
-Activation = EndFrame
-8000E254 0004
-
-[Select Track\Cub Raceway]
-Type = Gameshark
-Activation = EndFrame
-8000E254 0005
-
-[Select Track\Pacific Dream]
-Type = Gameshark
-Activation = EndFrame
-8000E254 0006
-
-[Select Track\Golden Sand]
-Type = Gameshark
-Activation = EndFrame
-8000E254 0007
-
-[Select Track\Sunken City]
-Type = Gameshark
-Activation = EndFrame
-8000E254 0008
+8000E254 ????
+Option = Atlantic Trail:0x0000
+Option = Country Valley:0x0001
+Option = Yukon Pass:0x0002
+Option = Downtown:0x0003
+Option = Tuscan Gorge:0x0004
+Option = Cub Raceway:0x0005
+Option = Pacific Dream:0x0006
+Option = Golden Sand:0x0007
+Option = Sunken City:0x0008
 

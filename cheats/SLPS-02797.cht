@@ -45,53 +45,9 @@ D00C585C 0102
 D00C585C 0103
 80051CAE 0062
 
-[Select Level\1]
+[Select Level]
 Type = Gameshark
 Activation = EndFrame
-301CEB63 0001
-
-[Select Level\2]
-Type = Gameshark
-Activation = EndFrame
-301CEB63 0002
-
-[Select Level\3]
-Type = Gameshark
-Activation = EndFrame
-301CEB63 0003
-
-[Select Level\4]
-Type = Gameshark
-Activation = EndFrame
-301CEB63 0004
-
-[Select Level\5]
-Type = Gameshark
-Activation = EndFrame
-301CEB63 0005
-
-[Select Level\6]
-Type = Gameshark
-Activation = EndFrame
-301CEB63 0006
-
-[Select Level\7]
-Type = Gameshark
-Activation = EndFrame
-301CEB63 0007
-
-[Select Level\8]
-Type = Gameshark
-Activation = EndFrame
-301CEB63 0008
-
-[Select Level\9]
-Type = Gameshark
-Activation = EndFrame
-301CEB63 0009
-
-[Select Level\10]
-Type = Gameshark
-Activation = EndFrame
-301CEB63 000A
+301CEB63 000?
+OptionRange = 1:10
 

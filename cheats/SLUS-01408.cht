@@ -1,22 +1,14 @@
 ; CHTDB: ; [ FIFA Soccer 2002 (USA) (2001) (Electronic Arts) {SLUS-01408} <fifa2k2> ]
 
-[Away Team Score 9]
+[Select Away Team Score]
 Type = Gameshark
 Activation = EndFrame
-8003A59C 0009
+8003A59C 00??
+OptionRange = 0:9
 
-[Away Team Score 0]
+[Select Home Team Score]
 Type = Gameshark
 Activation = EndFrame
-8003A59C 0000
-
-[Home Team Score 9]
-Type = Gameshark
-Activation = EndFrame
-8003A598 0009
-
-[Home Team Score 0]
-Type = Gameshark
-Activation = EndFrame
-8003A598 0000
+8003A598 00??
+OptionRange = 0:9
 

@@ -5,23 +5,15 @@ Type = Gameshark
 Activation = EndFrame
 8001057C 02D0
 
-[Select Away Team Score\0]
+[Select Away Team Score]
 Type = Gameshark
 Activation = EndFrame
-800C63F8 0000
+800C63F8 00??
+OptionRange = 0:99
 
-[Select Away Team Score\99]
+[Select Home Team Score]
 Type = Gameshark
 Activation = EndFrame
-800C63F8 0063
-
-[Select Home Team Score\0]
-Type = Gameshark
-Activation = EndFrame
-800C63F4 0000
-
-[Select Home Team Score\99]
-Type = Gameshark
-Activation = EndFrame
-800C63F4 0063
+800C63F4 00??
+OptionRange = 0:99
 

@@ -5,35 +5,16 @@ Type = Gameshark
 Activation = EndFrame
 3010A7AD 0007
 
-[Growth Baby]
+[Select Growth]
 Type = Gameshark
 Activation = EndFrame
-3010A7B5 0000
-
-[Growth Baby 2]
-Type = Gameshark
-Activation = EndFrame
-3010A7B5 0001
-
-[Growth Baby 3]
-Type = Gameshark
-Activation = EndFrame
-3010A7B5 0002
-
-[Growth Children]
-Type = Gameshark
-Activation = EndFrame
-3010A7B5 0003
-
-[Growth Adult]
-Type = Gameshark
-Activation = EndFrame
-3010A7B5 0004
-
-[Growth Adult 2]
-Type = Gameshark
-Activation = EndFrame
-3010A7B5 0005
+3010A7B5 ????
+Option = Baby:0x0000
+Option = Baby 2:0x0001
+Option = Baby 3:0x0002
+Option = Children:0x0003
+Option = Adult:0x0004
+Option = Adult 2:0x0005
 
 [Age 99]
 Type = Gameshark

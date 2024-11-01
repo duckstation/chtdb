@@ -45,45 +45,23 @@ Type = Gameshark
 Activation = EndFrame
 3011379C 0005
 
-[Select Perm. Release Rate\99]
+[Select Perm. Release Rate]
 Type = Gameshark
 Activation = EndFrame
-80089F14 0063
+80089F14 ????
+Option = 1:0x0001
+Option = 10:0x000A
+Option = 50:0x0032
+Option = 99:0x0063
 
-[Select Perm. Release Rate\50]
+[Select Perm. Minimum Release Rate]
 Type = Gameshark
 Activation = EndFrame
-80089F14 0032
-
-[Select Perm. Release Rate\10]
-Type = Gameshark
-Activation = EndFrame
-80089F14 000A
-
-[Select Perm. Release Rate\1]
-Type = Gameshark
-Activation = EndFrame
-80089F14 0001
-
-[Select Perm. Minimum Release Rate\99]
-Type = Gameshark
-Activation = EndFrame
-80107336 0063
-
-[Select Perm. Minimum Release Rate\50]
-Type = Gameshark
-Activation = EndFrame
-80107336 0032
-
-[Select Perm. Minimum Release Rate\10]
-Type = Gameshark
-Activation = EndFrame
-80107336 000A
-
-[Select Perm. Minimum Release Rate\1]
-Type = Gameshark
-Activation = EndFrame
-80107336 0001
+80107336 ????
+Option = 1:0x0001
+Option = 10:0x000A
+Option = 50:0x0032
+Option = 99:0x0063
 
 [All Lemmings Accounted For]
 Type = Gameshark

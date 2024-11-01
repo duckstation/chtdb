@@ -52,29 +52,34 @@ Type = Gameshark
 Activation = EndFrame
 80039FB8 ????
 80039FBA 3406
+OptionRange = 0:65535
 
 [Red Reflection Intensity]
 Type = Gameshark
 Activation = EndFrame
 8003A0B0 ????
 8003A0B2 3402
+OptionRange = 0:65535
 
 [Green Reflection Intensity]
 Type = Gameshark
 Activation = EndFrame
 8003A0DC ????
 8003A0DE 3402
+OptionRange = 0:65535
 
 [Blue Reflection Intensity]
 Type = Gameshark
 Activation = EndFrame
 8003A100 ????
 8003A102 3402
+OptionRange = 0:65535
 
 [Bomb Detonation Time Modifier]
 Type = Gameshark
 Activation = EndFrame
 8002313C ????
+OptionRange = 0:65535
 
 [Remote Detonate Bombs (Press L3)]
 Type = Gameshark

@@ -1,22 +1,14 @@
 ; CHTDB: ; [ NCAA Football 2001 (USA) (2000) (Electronic Arts) {SLUS-01219} <ncaa2k1> ]
 
-[Select Home Team Score\0]
+[Select Home Team Score]
 Type = Gameshark
 Activation = EndFrame
-800896D6 0000
+800896D6 00??
+OptionRange = 0:99
 
-[Select Home Team Score\99]
+[Select Away Team Score]
 Type = Gameshark
 Activation = EndFrame
-800896D6 0063
-
-[Select Away Team Score\0]
-Type = Gameshark
-Activation = EndFrame
-8008B94A 0000
-
-[Select Away Team Score\99]
-Type = Gameshark
-Activation = EndFrame
-8008B94A 0063
+8008B94A 00??
+OptionRange = 0:99
 

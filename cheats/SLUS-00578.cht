@@ -31,100 +31,29 @@ Type = Gameshark
 Activation = EndFrame
 800ABD7C 0100
 
-[Select Level\1]
+[Select Level]
 Type = Gameshark
 Activation = EndFrame
-8008A43C 0000
-
-[Select Level\02]
-Type = Gameshark
-Activation = EndFrame
-8008A43C 0001
-
-[Select Level\03]
-Type = Gameshark
-Activation = EndFrame
-8008A43C 0002
-
-[Select Level\04]
-Type = Gameshark
-Activation = EndFrame
-8008A43C 0003
-
-[Select Level\05]
-Type = Gameshark
-Activation = EndFrame
-8008A43C 0004
-
-[Select Level\06]
-Type = Gameshark
-Activation = EndFrame
-8008A43C 0005
-
-[Select Level\07]
-Type = Gameshark
-Activation = EndFrame
-8008A43C 0006
-
-[Select Level\08]
-Type = Gameshark
-Activation = EndFrame
-8008A43C 0007
-
-[Select Level\09]
-Type = Gameshark
-Activation = EndFrame
-8008A43C 0008
-
-[Select Level\10]
-Type = Gameshark
-Activation = EndFrame
-8008A43C 0009
-
-[Select Level\11]
-Type = Gameshark
-Activation = EndFrame
-8008A43C 000A
-
-[Select Level\12]
-Type = Gameshark
-Activation = EndFrame
-8008A43C 000B
-
-[Select Level\13]
-Type = Gameshark
-Activation = EndFrame
-8008A43C 000C
-
-[Select Level\14]
-Type = Gameshark
-Activation = EndFrame
-8008A43C 000D
-
-[Select Level\15]
-Type = Gameshark
-Activation = EndFrame
-8008A43C 000E
-
-[Select Level\16]
-Type = Gameshark
-Activation = EndFrame
-8008A43C 000F
-
-[Select Level\17]
-Type = Gameshark
-Activation = EndFrame
-8008A43C 0010
-
-[Select Level\18]
-Type = Gameshark
-Activation = EndFrame
-8008A43C 0011
-
-[Select Level\19]
-Type = Gameshark
-Activation = EndFrame
-8008A43C 0012
+8008A43C ????
+Option = 01:0x0000
+Option = 02:0x0001
+Option = 03:0x0002
+Option = 04:0x0003
+Option = 05:0x0004
+Option = 06:0x0005
+Option = 07:0x0006
+Option = 08:0x0007
+Option = 09:0x0008
+Option = 10:0x0009
+Option = 11:0x000A
+Option = 12:0x000B
+Option = 13:0x000C
+Option = 14:0x000D
+Option = 15:0x000E
+Option = 16:0x000F
+Option = 17:0x0010
+Option = 18:0x0011
+Option = 19:0x0012
 
 [Moon Jump]
 Type = Gameshark

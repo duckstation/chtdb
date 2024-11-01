@@ -1,34 +1,20 @@
 ; CHTDB: ; [ NBA ShootOut 2000 (USA) (1999) (989 Sports) {SCUS-94561} <nbaso2k> ]
 
-[Select Away Team Score\0]
+[Select Away Team Score]
 Type = Gameshark
 Activation = EndFrame
 90017720 00000000
-80017724 0000
+80017724 00??
 90017728 00000000
-8001772C 0000
+8001772C 00??
+OptionRange = 0:99
 
-[Select Away Team Score\99]
-Type = Gameshark
-Activation = EndFrame
-90017720 00000000
-80017724 0063
-90017728 00000000
-8001772C 0063
-
-[Select Home Team Score\0]
+[Select Home Team Score]
 Type = Gameshark
 Activation = EndFrame
 900176E0 00000000
-800176E4 0000
+800176E4 00??
 900176E8 00000000
-800176EC 0000
-
-[Select Home Team Score\99]
-Type = Gameshark
-Activation = EndFrame
-900176E0 00000000
-800176E4 0063
-900176E8 00000000
-800176EC 0063
+800176EC 00??
+OptionRange = 0:99
 

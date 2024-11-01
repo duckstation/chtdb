@@ -185,103 +185,28 @@ Type = Gameshark
 Activation = EndFrame
 8009920C 00FF
 
-[Select Level\Jungle]
+[Select Level]
 Type = Gameshark
 Activation = EndFrame
-80097AD0 0001
-
-[Select Level\Temple Ruins]
-Type = Gameshark
-Activation = EndFrame
-80097AD0 0002
-
-[Select Level\The River Ganges]
-Type = Gameshark
-Activation = EndFrame
-80097AD0 0003
-
-[Select Level\Caves of Kaliya]
-Type = Gameshark
-Activation = EndFrame
-80097AD0 0004
-
-[Select Level\Coastal Village]
-Type = Gameshark
-Activation = EndFrame
-80097AD0 0005
-
-[Select Level\Crash Site]
-Type = Gameshark
-Activation = EndFrame
-80097AD0 0006
-
-[Select Level\Madubu Gorge]
-Type = Gameshark
-Activation = EndFrame
-80097AD0 0007
-
-[Select Level\Temple of Puna]
-Type = Gameshark
-Activation = EndFrame
-80097AD0 0008
-
-[Select Level\Thames Wharf]
-Type = Gameshark
-Activation = EndFrame
-80097AD0 0009
-
-[Select Level\Aldwych]
-Type = Gameshark
-Activation = EndFrame
-80097AD0 000A
-
-[Select Level\Lud's Gate]
-Type = Gameshark
-Activation = EndFrame
-80097AD0 000B
-
-[Select Level\City]
-Type = Gameshark
-Activation = EndFrame
-80097AD0 000C
-
-[Select Level\Nevada Desert]
-Type = Gameshark
-Activation = EndFrame
-80097AD0 000D
-
-[Select Level\High Security Compound]
-Type = Gameshark
-Activation = EndFrame
-80097AD0 000E
-
-[Select Level\Area 51]
-Type = Gameshark
-Activation = EndFrame
-80097AD0 000F
-
-[Select Level\Antarctica]
-Type = Gameshark
-Activation = EndFrame
-80097AD0 0010
-
-[Select Level\Rx-Tech Mines]
-Type = Gameshark
-Activation = EndFrame
-80097AD0 0011
-
-[Select Level\Lost City of Tinnos]
-Type = Gameshark
-Activation = EndFrame
-80097AD0 0012
-
-[Select Level\Meteorite Cavern]
-Type = Gameshark
-Activation = EndFrame
-80097AD0 0013
-
-[Select Level\All Hollows]
-Type = Gameshark
-Activation = EndFrame
-80097AD0 0014
+80097AD0 ????
+Option = Jungle:0x0001
+Option = Temple Ruins:0x0002
+Option = The River Ganges:0x0003
+Option = Caves of Kaliya:0x0004
+Option = Coastal Village:0x0005
+Option = Crash Site:0x0006
+Option = Madubu Gorge:0x0007
+Option = Temple of Puna:0x0008
+Option = Thames Wharf:0x0009
+Option = Aldwych:0x000A
+Option = Lud's Gate:0x000B
+Option = City:0x000C
+Option = Nevada Desert:0x000D
+Option = High Security Compound:0x000E
+Option = Area 51:0x000F
+Option = Antarctica:0x0010
+Option = Rx-Tech Mines:0x0011
+Option = Lost City of Tinnos:0x0012
+Option = Meteorite Cavern:0x0013
+Option = All Hollows:0x0014
 

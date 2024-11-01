@@ -24,130 +24,35 @@ Type = Gameshark
 Activation = EndFrame
 801E5F70 0384
 
-[Select Level\The Journey Begins]
+[Select Level]
 Type = Gameshark
 Activation = EndFrame
-800D8BA4 0000
-
-[Select Level\Night Falls]
-Type = Gameshark
-Activation = EndFrame
-800D8BA4 0001
-
-[Select Level\Crisis of Faith]
-Type = Gameshark
-Activation = EndFrame
-800D8BA4 0002
-
-[Select Level\Combined Forces]
-Type = Gameshark
-Activation = EndFrame
-800D8BA4 0003
-
-[Select Level\Death From Above]
-Type = Gameshark
-Activation = EndFrame
-800D8BA4 0004
-
-[Select Level\Building Bridges]
-Type = Gameshark
-Activation = EndFrame
-800D8BA4 0005
-
-[Select Level\Unseen Enemy]
-Type = Gameshark
-Activation = EndFrame
-800D8BA4 0006
-
-[Select Level\Continental Divide]
-Type = Gameshark
-Activation = EndFrame
-800D8BA4 0007
-
-[Select Level\Fire In The Mists]
-Type = Gameshark
-Activation = EndFrame
-800D8BA4 0008
-
-[Select Level\From The Depth's]
-Type = Gameshark
-Activation = EndFrame
-800D8BA4 0009
-
-[Select Level\Treachrous Souls]
-Type = Gameshark
-Activation = EndFrame
-800D8BA4 000A
-
-[Select Level\An Easy Target]
-Type = Gameshark
-Activation = EndFrame
-800D8BA4 000B
-
-[Select Level\Aerial Bombardment]
-Type = Gameshark
-Activation = EndFrame
-800D8BA4 000C
-
-[Select Level\Attacked On All Sides]
-Type = Gameshark
-Activation = EndFrame
-800D8BA4 000D
-
-[Select Level\Incarcerated]
-Type = Gameshark
-Activation = EndFrame
-800D8BA4 000E
-
-[Select Level\Bloodlust]
-Type = Gameshark
-Activation = EndFrame
-800D8BA4 000F
-
-[Select Level\Middle Ground]
-Type = Gameshark
-Activation = EndFrame
-800D8BA4 0010
-
-[Select Level\Head Hunter]
-Type = Gameshark
-Activation = EndFrame
-800D8BA4 0011
-
-[Select Level\Unlikely Allies]
-Type = Gameshark
-Activation = EndFrame
-800D8BA4 0012
-
-[Select Level\Archipelago]
-Type = Gameshark
-Activation = EndFrame
-800D8BA4 0013
-
-[Select Level\Fractured Earth]
-Type = Gameshark
-Activation = EndFrame
-800D8BA4 0014
-
-[Select Level\Solo]
-Type = Gameshark
-Activation = EndFrame
-800D8BA4 0015
-
-[Select Level\Inferno]
-Type = Gameshark
-Activation = EndFrame
-800D8BA4 0016
-
-[Select Level\Journey's End]
-Type = Gameshark
-Activation = EndFrame
-800D8BA4 0017
-
-[Select Level\Journey's End 2]
-Type = Gameshark
-Activation = EndFrame
-800D8BA4 0018
+800D8BA4 ????
+Option = The Journey Begins:0x0000
+Option = Night Falls:0x0001
+Option = Crisis of Faith:0x0002
+Option = Combined Forces:0x0003
+Option = Death From Above:0x0004
+Option = Building Bridges:0x0005
+Option = Unseen Enemy:0x0006
+Option = Continental Divide:0x0007
+Option = Fire In The Mists:0x0008
+Option = From The Depth's:0x0009
+Option = Treachrous Souls:0x000A
+Option = An Easy Target:0x000B
+Option = Aerial Bombardment:0x000C
+Option = Attacked On All Sides:0x000D
+Option = Incarcerated:0x000E
+Option = Bloodlust:0x000F
+Option = Middle Ground:0x0010
+Option = Head Hunter:0x0011
+Option = Unlikely Allies:0x0012
+Option = Archipelago:0x0013
+Option = Fractured Earth:0x0014
+Option = Solo:0x0015
+Option = Inferno:0x0016
+Option = Journey's End:0x0017
+Option = Journey's End 2:0x0018
 
 [All levels selectable]
 Type = Gameshark

@@ -20,110 +20,36 @@ Type = Gameshark
 Activation = EndFrame
 A61AE570 00000100
 
-[P1 Select Character\Morrigan]
+[P1 Select Character]
 Type = Gameshark
 Activation = EndFrame
-801D4F10 0000
+801D4F10 ????
+Option = Morrigan:0x0000
+Option = Chun-Li:0x0001
+Option = Ryu:0x0002
+Option = Ken:0x0003
+Option = Asien-Ko:0x0004
+Option = Donovan:0x0005
+Option = Felicia:0x0006
+Option = Sakura:0x0007
+Option = Devilot:0x0008
+Option = Akuma:0x0009
 
-[P1 Select Character\Chun-Li]
+[P1 Select Character (Super Puzzle Mode)]
 Type = Gameshark
 Activation = EndFrame
-801D4F10 0001
-
-[P1 Select Character\Ryu]
-Type = Gameshark
-Activation = EndFrame
-801D4F10 0002
-
-[P1 Select Character\Ken]
-Type = Gameshark
-Activation = EndFrame
-801D4F10 0003
-
-[P1 Select Character\Asien-Ko]
-Type = Gameshark
-Activation = EndFrame
-801D4F10 0004
-
-[P1 Select Character\Donovan]
-Type = Gameshark
-Activation = EndFrame
-801D4F10 0005
-
-[P1 Select Character\Felicia]
-Type = Gameshark
-Activation = EndFrame
-801D4F10 0006
-
-[P1 Select Character\Sakura]
-Type = Gameshark
-Activation = EndFrame
-801D4F10 0007
-
-[P1 Select Character\Devilot]
-Type = Gameshark
-Activation = EndFrame
-801D4F10 0008
-
-[P1 Select Character\Akuma]
-Type = Gameshark
-Activation = EndFrame
-801D4F10 0009
-
-[Super puzzle mode P1 Character Morrigan]
-Type = Gameshark
-Activation = EndFrame
-301BAAC5 0000
-
-[Super puzzle mode P1 Character Chun-Li]
-Type = Gameshark
-Activation = EndFrame
-301BAAC5 0001
-
-[Super puzzle mode P1 Character Ryu]
-Type = Gameshark
-Activation = EndFrame
-301BAAC5 0002
-
-[Super puzzle mode P1 Character Ken]
-Type = Gameshark
-Activation = EndFrame
-301BAAC5 0003
-
-[Super puzzle mode P1 Character Asien-Ko]
-Type = Gameshark
-Activation = EndFrame
-301BAAC5 0004
-
-[Super puzzle mode P1 Character Donovan]
-Type = Gameshark
-Activation = EndFrame
-301BAAC5 0005
-
-[Super puzzle mode P1 Character Felicia]
-Type = Gameshark
-Activation = EndFrame
-301BAAC5 0006
-
-[Super puzzle mode P1 Character Sakura]
-Type = Gameshark
-Activation = EndFrame
-301BAAC5 0007
-
-[Super puzzle mode P1 Character Devilot]
-Type = Gameshark
-Activation = EndFrame
-301BAAC5 0008
-
-[Super puzzle mode P1 Character Akuma]
-Type = Gameshark
-Activation = EndFrame
-301BAAC5 0009
-
-[Super puzzle mode P1 Character Dan]
-Type = Gameshark
-Activation = EndFrame
-301BAAC5 000A
+301BAAC5 ????
+Option = Morrigan:0x0000
+Option = Chun-Li:0x0001
+Option = Ryu:0x0002
+Option = Ken:0x0003
+Option = Asien-Ko:0x0004
+Option = Donovan:0x0005
+Option = Felicia:0x0006
+Option = Sakura:0x0007
+Option = Devilot:0x0008
+Option = Akuma:0x0009
+Option = Dan:0x000A
 
 [Super puzzle mode Open All Prizes]
 Type = Gameshark

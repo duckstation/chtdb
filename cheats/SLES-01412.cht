@@ -30,43 +30,16 @@ Type = Gameshark
 Activation = EndFrame
 800ABD1E 0063
 
-[Select Level\1]
+[Select Level]
 Type = Gameshark
 Activation = EndFrame
-800A96F4 0000
-
-[Select Level\2]
-Type = Gameshark
-Activation = EndFrame
-800A96F4 0001
-
-[Select Level\3]
-Type = Gameshark
-Activation = EndFrame
-800A96F4 0002
-
-[Select Level\4]
-Type = Gameshark
-Activation = EndFrame
-800A96F4 0003
-
-[Select Level\5]
-Type = Gameshark
-Activation = EndFrame
-800A96F4 0004
-
-[Select Level\6]
-Type = Gameshark
-Activation = EndFrame
-800A96F4 0005
-
-[Select Level\7]
-Type = Gameshark
-Activation = EndFrame
-800A96F4 0006
-
-[Select Level\8]
-Type = Gameshark
-Activation = EndFrame
-800A96F4 0007
+800A96F4 ????
+Option = 1:0x0000
+Option = 2:0x0001
+Option = 3:0x0002
+Option = 4:0x0003
+Option = 5:0x0004
+Option = 6:0x0005
+Option = 7:0x0006
+Option = 8:0x0007
 

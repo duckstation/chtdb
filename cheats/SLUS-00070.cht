@@ -5,25 +5,17 @@ Type = Gameshark
 Activation = EndFrame
 8005CE6A 012C
 
-[Select Away Team Score\99]
+[Select Away Team Score]
 Type = Gameshark
 Activation = EndFrame
-8005CE82 0063
+8005CE82 00??
+OptionRange = 0:99
 
-[Select Away Team Score\0]
+[Select Home Team Score]
 Type = Gameshark
 Activation = EndFrame
-8005CE82 0000
-
-[Select Home Team Score\99]
-Type = Gameshark
-Activation = EndFrame
-8005CE76 0063
-
-[Select Home Team Score\0]
-Type = Gameshark
-Activation = EndFrame
-8005CE76 0000
+8005CE76 00??
+OptionRange = 0:99
 
 [P2 Infinite Time Outs]
 Type = Gameshark

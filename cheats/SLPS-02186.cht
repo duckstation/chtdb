@@ -20,23 +20,12 @@ Type = Gameshark
 Activation = EndFrame
 800F5B66 FF01
 
-[Race As Aiko]
+[Select Character]
 Type = Gameshark
 Activation = EndFrame
-800A1E92 0005
-
-[Race As Jack]
-Type = Gameshark
-Activation = EndFrame
-800A1E92 0007
-
-[Race As Ryo]
-Type = Gameshark
-Activation = EndFrame
-800A1E92 0006
-
-[Race As Yuki]
-Type = Gameshark
-Activation = EndFrame
-800A1E92 0004
+800A1E92 ????
+Option = Aiko:0x0005
+Option = Jack:0x0007
+Option = Ryo:0x0006
+Option = Yuki:0x0004
 

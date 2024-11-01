@@ -20,50 +20,19 @@ Type = Gameshark
 Activation = EndFrame
 800D0A7E 8016
 
-[Select Level\Steel Mill]
+[Select Level]
 Type = Gameshark
 Activation = EndFrame
-800CBBBC 0001
-
-[Select Level\Research Lab]
-Type = Gameshark
-Activation = EndFrame
-800CBBBC 0006
-
-[Select Level\Tank Factory]
-Type = Gameshark
-Activation = EndFrame
-800CBBBC 000A
-
-[Select Level\Polar Research Base]
-Type = Gameshark
-Activation = EndFrame
-800CBBBC 000F
-
-[Select Level\Jungle Temple]
-Type = Gameshark
-Activation = EndFrame
-800CBBBC 0012
-
-[Select Level\Chemical Plant]
-Type = Gameshark
-Activation = EndFrame
-800CBBBC 0016
-
-[Select Level\Prison Island]
-Type = Gameshark
-Activation = EndFrame
-800CBBBC 001A
-
-[Select Level\Undersea Base]
-Type = Gameshark
-Activation = EndFrame
-800CBBBC 001F
-
-[Select Level\Skyscraper HQ]
-Type = Gameshark
-Activation = EndFrame
-800CBBBC 0023
+800CBBBC ????
+Option = Steel Mill:0x0001
+Option = Research Lab:0x0006
+Option = Tank Factory:0x000A
+Option = Polar Research Base:0x000F
+Option = Jungle Temple:0x0012
+Option = Chemical Plant:0x0016
+Option = Prison Island:0x001A
+Option = Undersea Base:0x001F
+Option = Skyscraper HQ:0x0023
 
 [Select Level\Credits]
 Type = Gameshark

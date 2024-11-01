@@ -10,30 +10,15 @@ Type = Gameshark
 Activation = EndFrame
 30074E60 0005
 
-[Select Level\1]
+[Select Level]
 Type = Gameshark
 Activation = EndFrame
-30074E61 0000
-
-[Select Level\2]
-Type = Gameshark
-Activation = EndFrame
-30074E61 0001
-
-[Select Level\3]
-Type = Gameshark
-Activation = EndFrame
-30074E61 0002
-
-[Select Level\4]
-Type = Gameshark
-Activation = EndFrame
-30074E61 0003
-
-[Select Level\5]
-Type = Gameshark
-Activation = EndFrame
-30074E61 0004
+30074E61 ????
+Option = 1:0x0000
+Option = 2:0x0001
+Option = 3:0x0002
+Option = 4:0x0003
+Option = 5:0x0004
 
 [Enemies Won't Attack You]
 Type = Gameshark

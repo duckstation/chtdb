@@ -51,25 +51,14 @@ Activation = EndFrame
 50000502 0000
 800D20CC FFFF
 
-[Select Character\Carlos]
+[Select Character]
 Type = Gameshark
 Activation = EndFrame
-800D1F86 0008
-
-[Select Character\Mikhall]
-Type = Gameshark
-Activation = EndFrame
-800D1F86 0009
-
-[Select Character\Nichotai]
-Type = Gameshark
-Activation = EndFrame
-800D1F86 000A
-
-[Select Character\Tofu]
-Type = Gameshark
-Activation = EndFrame
-800D1F86 000F
+800D1F86 ????
+Option = Carlos:0x0008
+Option = Mikhall:0x0009
+Option = Nichotai:0x000A
+Option = Tofu:0x000F
 
 [Have All Pics In Epilogue]
 Type = Gameshark

@@ -26,33 +26,14 @@ Type = Gameshark
 Activation = EndFrame
 300B3764 0001
 
-[Select Perm Level\Phat Tony's Casino]
+[Select Perm Level]
 Type = Gameshark
 Activation = EndFrame
-800B2D98 0001
-
-[Select Perm Level\Shop Til' You Drop]
-Type = Gameshark
-Activation = EndFrame
-800B2D98 0002
-
-[Select Perm Level\Grandpa's In The House]
-Type = Gameshark
-Activation = EndFrame
-800B2D98 0003
-
-[Select Perm Level\Tripping In The Park]
-Type = Gameshark
-Activation = EndFrame
-800B2D98 0004
-
-[Select Perm Level\Fun Park Massive]
-Type = Gameshark
-Activation = EndFrame
-800B2D98 0005
-
-[Select Perm Level\No One Can Stop Mr.Domino]
-Type = Gameshark
-Activation = EndFrame
-800B2D98 0006
+800B2D98 ????
+Option = Phat Tony's Casino:0x0001
+Option = Shop Til' You Drop:0x0002
+Option = Grandpa's In The House:0x0003
+Option = Tripping In The Park:0x0004
+Option = Fun Park Massive:0x0005
+Option = No One Can Stop Mr.Domino:0x0006
 

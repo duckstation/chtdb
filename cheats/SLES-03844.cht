@@ -20,233 +20,54 @@ Type = Gameshark
 Activation = EndFrame
 801E74B8 0009
 
-[Select Level\Mediacal Center Part 2]
+[Select Level]
 Type = Gameshark
 Activation = EndFrame
-801F6A4C 0006
-
-[Select Level\Mediacal Center Part 3]
-Type = Gameshark
-Activation = EndFrame
-801F6A4C 0007
-
-[Select Level\Mediacal Center Part End Sequence]
-Type = Gameshark
-Activation = EndFrame
-801F6A4C 0008
-
-[Select Level\Monastery Part 1]
-Type = Gameshark
-Activation = EndFrame
-801F6A4C 0009
-
-[Select Level\Monastery Part 2]
-Type = Gameshark
-Activation = EndFrame
-801F6A4C 000A
-
-[Select Level\Monastery Part 3]
-Type = Gameshark
-Activation = EndFrame
-801F6A4C 000B
-
-[Select Level\Monastery Part 4]
-Type = Gameshark
-Activation = EndFrame
-801F6A4C 000C
-
-[Select Level\Monastery End Sequence]
-Type = Gameshark
-Activation = EndFrame
-801F6A4C 000D
-
-[Select Level\Mines Part 1]
-Type = Gameshark
-Activation = EndFrame
-801F6A4C 000E
-
-[Select Level\Mines Part 2]
-Type = Gameshark
-Activation = EndFrame
-801F6A4C 000F
-
-[Select Level\Mines Part 3]
-Type = Gameshark
-Activation = EndFrame
-801F6A4C 0010
-
-[Select Level\Mines End Sequence]
-Type = Gameshark
-Activation = EndFrame
-801F6A4C 0011
-
-[Select Level\Entering Ruined City]
-Type = Gameshark
-Activation = EndFrame
-801F6A4C 0012
-
-[Select Level\Ruined City 2]
-Type = Gameshark
-Activation = EndFrame
-801F6A4C 0013
-
-[Select Level\Ruined City 3]
-Type = Gameshark
-Activation = EndFrame
-801F6A4C 0014
-
-[Select Level\Ruined City End Seququenxe]
-Type = Gameshark
-Activation = EndFrame
-801F6A4C 0015
-
-[Select Level\Human Village Part 1]
-Type = Gameshark
-Activation = EndFrame
-801F6A4C 0016
-
-[Select Level\Human Village Part 2]
-Type = Gameshark
-Activation = EndFrame
-801F6A4C 0017
-
-[Select Level\Human Village Part 3]
-Type = Gameshark
-Activation = EndFrame
-801F6A4C 0018
-
-[Select Level\The Canyo Sequence]
-Type = Gameshark
-Activation = EndFrame
-801F6A4C 0019
-
-[Select Level\Human Village End Sequence]
-Type = Gameshark
-Activation = EndFrame
-801F6A4C 001A
-
-[Select Level\University Part 1]
-Type = Gameshark
-Activation = EndFrame
-801F6A4C 001B
-
-[Select Level\University Part 2]
-Type = Gameshark
-Activation = EndFrame
-801F6A4C 001C
-
-[Select Level\Meeting Mathias 1 Sequence]
-Type = Gameshark
-Activation = EndFrame
-801F6A4C 001D
-
-[Select Level\Entering Prison Sequence]
-Type = Gameshark
-Activation = EndFrame
-801F6A4C 001E
-
-[Select Level\Prison 4]
-Type = Gameshark
-Activation = EndFrame
-801F6A4C 001F
-
-[Select Level\Prison End Sequence]
-Type = Gameshark
-Activation = EndFrame
-801F6A4C 0020
-
-[Select Level\Military Base]
-Type = Gameshark
-Activation = EndFrame
-801F6A4C 0021
-
-[Select Level\Meeting Mathias 2 Sequence]
-Type = Gameshark
-Activation = EndFrame
-801F6A4C 0022
-
-[Select Level\Factory Underground]
-Type = Gameshark
-Activation = EndFrame
-801F6A4C 0023
-
-[Select Level\Factory Underground End Cutscene]
-Type = Gameshark
-Activation = EndFrame
-801F6A4C 0024
-
-[Select Level\Archives Part 1]
-Type = Gameshark
-Activation = EndFrame
-801F6A4C 0025
-
-[Select Level\Archives Part 2]
-Type = Gameshark
-Activation = EndFrame
-801F6A4C 0026
-
-[Select Level\Archives Part 3]
-Type = Gameshark
-Activation = EndFrame
-801F6A4C 0027
-
-[Select Level\Archives End Sequence]
-Type = Gameshark
-Activation = EndFrame
-801F6A4C 0028
-
-[Select Level\Meeting Mathias 3 Sequence]
-Type = Gameshark
-Activation = EndFrame
-801F6A4C 0029
-
-[Select Level\The Statue]
-Type = Gameshark
-Activation = EndFrame
-801F6A4C 002A
-
-[Select Level\The Statue Sequence 2]
-Type = Gameshark
-Activation = EndFrame
-801F6A4C 002B
-
-[Select Level\The Statue or Pentagon 1]
-Type = Gameshark
-Activation = EndFrame
-801F6A4C 002C
-
-[Select Level\Pentagon Part 2]
-Type = Gameshark
-Activation = EndFrame
-801F6A4C 002D
-
-[Select Level\Pentagon Part 3]
-Type = Gameshark
-Activation = EndFrame
-801F6A4C 002E
-
-[Select Level\The Encounter Sequence]
-Type = Gameshark
-Activation = EndFrame
-801F6A4C 002F
-
-[Select Level\Monastery 5 Sequence]
-Type = Gameshark
-Activation = EndFrame
-801F6A4C 0030
-
-[Select Level\Ape Palace Sequence]
-Type = Gameshark
-Activation = EndFrame
-801F6A4C 0031
-
-[Select Level\Ape Palace]
-Type = Gameshark
-Activation = EndFrame
-801F6A4C 0032
-
-[Select Level\Ape Palace End Sequence]
-Type = Gameshark
-Activation = EndFrame
-801F6A4C 0033
+801F6A4C ????
+Option = Medical Center Part 2:0x0006
+Option = Medical Center Part 3:0x0007
+Option = Medical Center Part End Sequence:0x0008
+Option = Monastery Part 1:0x0009
+Option = Monastery Part 2:0x000A
+Option = Monastery Part 3:0x000B
+Option = Monastery Part 4:0x000C
+Option = Monastery End Sequence:0x000D
+Option = Mines Part 1:0x000E
+Option = Mines Part 2:0x000F
+Option = Mines Part 3:0x0010
+Option = Mines End Sequence:0x0011
+Option = Entering Ruined City:0x0012
+Option = Ruined City 2:0x0013
+Option = Ruined City 3:0x0014
+Option = Ruined City End Seququenxe:0x0015
+Option = Human Village Part 1:0x0016
+Option = Human Village Part 2:0x0017
+Option = Human Village Part 3:0x0018
+Option = The Canyo Sequence:0x0019
+Option = Human Village End Sequence:0x001A
+Option = University Part 1:0x001B
+Option = University Part 2:0x001C
+Option = Meeting Mathias 1 Sequence:0x001D
+Option = Entering Prison Sequence:0x001E
+Option = Prison 4:0x001F
+Option = Prison End Sequence:0x0020
+Option = Military Base:0x0021
+Option = Meeting Mathias 2 Sequence:0x0022
+Option = Factory Underground:0x0023
+Option = Factory Underground End Cutscene:0x0024
+Option = Archives Part 1:0x0025
+Option = Archives Part 2:0x0026
+Option = Archives Part 3:0x0027
+Option = Archives End Sequence:0x0028
+Option = Meeting Mathias 3 Sequence:0x0029
+Option = The Statue:0x002A
+Option = The Statue Sequence 2:0x002B
+Option = The Statue or Pentagon 1:0x002C
+Option = Pentagon Part 2:0x002D
+Option = Pentagon Part 3:0x002E
+Option = The Encounter Sequence:0x002F
+Option = Monastery 5 Sequence:0x0030
+Option = Ape Palace Sequence:0x0031
+Option = Ape Palace:0x0032
+Option = Ape Palace End Sequence:0x0033
 

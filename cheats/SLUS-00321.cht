@@ -29,40 +29,17 @@ Type = Gameshark
 Activation = EndFrame
 8005FCF6 0063
 
-[Always Play Level\Urban Strike]
+[Always Play Level]
 Type = Gameshark
 Activation = EndFrame
-800F23DC 0000
-
-[Always Play Level\Black Out]
-Type = Gameshark
-Activation = EndFrame
-800F23DC 0001
-
-[Always Play Level\Ice Storm]
-Type = Gameshark
-Activation = EndFrame
-800F23DC 0002
-
-[Always Play Level\Desert Fury]
-Type = Gameshark
-Activation = EndFrame
-800F23DC 0003
-
-[Always Play Level\Riger Trap]
-Type = Gameshark
-Activation = EndFrame
-800F23DC 0004
-
-[Always Play Level\Crack Down]
-Type = Gameshark
-Activation = EndFrame
-800F23DC 0005
-
-[Always Play Level\Hurricane]
-Type = Gameshark
-Activation = EndFrame
-800F23DC 0005
+800F23DC ????
+Option = Urban Strike:0x0000
+Option = Black Out:0x0001
+Option = Ice Storm:0x0002
+Option = Desert Fury:0x0003
+Option = Riger Trap:0x0004
+Option = Crack Down:0x0005
+Option = Hurricane:0x0006
 
 [Select Starting Level\Urban Strike]
 Type = Gameshark

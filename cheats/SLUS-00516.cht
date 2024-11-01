@@ -1,24 +1,16 @@
 ; CHTDB: ; [ Madden NFL 98 (USA, Alt) (1997) (Electronic Arts) {SLUS-00516} <madden98a> ]
 
-[Select Home Team Score\99]
+[Select Home Team Score]
 Type = Gameshark
 Activation = EndFrame
-80087CBC 0063
+80087CBC 00??
+OptionRange = 0:99
 
-[Select Away Team Score\99]
+[Select Away Team Score]
 Type = Gameshark
 Activation = EndFrame
-80089E28 0063
-
-[Select Home Team Score\0]
-Type = Gameshark
-Activation = EndFrame
-80087CBC 0000
-
-[Select Away Team Score\0]
-Type = Gameshark
-Activation = EndFrame
-80089E28 0000
+80089E28 00??
+OptionRange = 0:99
 
 [Max Agility]
 Type = Gameshark
@@ -49,429 +41,91 @@ Activation = EndFrame
 Type = Gameshark
 Activation = EndFrame
 80163660 00C8
-
-[Home Team Plays As '60 Eagles]
-Type = Gameshark
-Activation = EndFrame
-8007DD56 001F
-
-[Home Team Plays As '60 Afl]
-Type = Gameshark
-Activation = EndFrame
-8007DD56 001E
-
-[Home Team Plays As '61 Oilers]
-Type = Gameshark
-Activation = EndFrame
-8007DD56 0020
-
-[Home Team Plays As '61 Packers]
-Type = Gameshark
-Activation = EndFrame
-8007DD56 0021
-
-[Home Team Plays As '62 Giants]
-Type = Gameshark
-Activation = EndFrame
-8007DD56 0023
-
-[Home Team Plays As '62 Lions]
-Type = Gameshark
-Activation = EndFrame
-8007DD56 0022
-
-[Home Team Plays As '62 Packers]
-Type = Gameshark
-Activation = EndFrame
-8007DD56 0024
-
-[Home Team Plays As '62 Texans]
-Type = Gameshark
-Activation = EndFrame
-8007DD56 0025
-
-[Home Team Plays As '63 Bears]
-Type = Gameshark
-Activation = EndFrame
-8007DD56 0026
-
-[Home Team Plays As '63 Chargers]
-Type = Gameshark
-Activation = EndFrame
-8007DD56 0027
-
-[Home Team Plays As '64 Bills]
-Type = Gameshark
-Activation = EndFrame
-8007DD56 0029
-
-[Home Team Plays As '64 Browns]
-Type = Gameshark
-Activation = EndFrame
-8007DD56 002A
-
-[Home Team Plays As '64 Colts]
-Type = Gameshark
-Activation = EndFrame
-8007DD56 0028
-
-[Home Team Plays As '65 Bears]
-Type = Gameshark
-Activation = EndFrame
-8007DD56 002C
-
-[Home Team Plays As '65 Packers]
-Type = Gameshark
-Activation = EndFrame
-8007DD56 002B
-
-[Home Team Plays As '66 Chiefs]
-Type = Gameshark
-Activation = EndFrame
-8007DD56 002E
-
-[Home Team Plays As '66 Packers]
-Type = Gameshark
-Activation = EndFrame
-8007DD56 002D
-
-[Home Team Plays As '66 Rams]
-Type = Gameshark
-Activation = EndFrame
-8007DD56 002F
-
-[Home Team Plays As '67 Packers]
-Type = Gameshark
-Activation = EndFrame
-8007DD56 0030
-
-[Home Team Plays As '67 Raiders]
-Type = Gameshark
-Activation = EndFrame
-8007DD56 0031
-
-[Home Team Plays As '68 Jets]
-Type = Gameshark
-Activation = EndFrame
-8007DD56 0032
-
-[Home Team Plays As '69 Chiefs]
-Type = Gameshark
-Activation = EndFrame
-8007DD56 0033
-
-[Home Team Plays As '69 Vikings]
-Type = Gameshark
-Activation = EndFrame
-8007DD56 0034
-
-[Home Team Plays As '70 Colts]
-Type = Gameshark
-Activation = EndFrame
-8007DD56 0035
-
-[Home Team Plays As '71 Cowboys]
-Type = Gameshark
-Activation = EndFrame
-8007DD56 0036
-
-[Home Team Plays As '72 Dolphins]
-Type = Gameshark
-Activation = EndFrame
-8007DD56 0037
-
-[Home Team Plays As '73 Bills]
-Type = Gameshark
-Activation = EndFrame
-8007DD56 0038
-
-[Home Team Plays As '73 Dolphins]
-Type = Gameshark
-Activation = EndFrame
-8007DD56 0039
-
-[Home Team Plays As '74 Steelers]
-Type = Gameshark
-Activation = EndFrame
-8007DD56 003A
-
-[Home Team Plays As '75 Cardinals]
-Type = Gameshark
-Activation = EndFrame
-8007DD56 003C
-
-[Home Team Plays As '75 Steelers]
-Type = Gameshark
-Activation = EndFrame
-8007DD56 003B
-
-[Home Team Plays As '76 Raiders]
-Type = Gameshark
-Activation = EndFrame
-8007DD56 003D
-
-[Home Team Plays As '76 Redskins]
-Type = Gameshark
-Activation = EndFrame
-8007DD56 003E
-
-[Home Team Plays As '76 Vikings]
-Type = Gameshark
-Activation = EndFrame
-8007DD56 003F
-
-[Home Team Plays As '77 Bears]
-Type = Gameshark
-Activation = EndFrame
-8007DD56 0040
-
-[Home Team Plays As '77 Cowboys]
-Type = Gameshark
-Activation = EndFrame
-8007DD56 0041
-
-[Home Team Plays As '78 Broncos]
-Type = Gameshark
-Activation = EndFrame
-8007DD56 0042
-
-[Home Team Plays As '78 Steelers]
-Type = Gameshark
-Activation = EndFrame
-8007DD56 0043
-
-[Home Team Plays As '79 Buccaneers]
-Type = Gameshark
-Activation = EndFrame
-8007DD56 0047
-
-[Home Team Plays As '79 Rams]
-Type = Gameshark
-Activation = EndFrame
-8007DD56 0046
-
-[Home Team Plays As '79 Saints]
-Type = Gameshark
-Activation = EndFrame
-8007DD56 0045
-
-[Home Team Plays As '79 Steelers]
-Type = Gameshark
-Activation = EndFrame
-8007DD56 0044
-
-[Home Team Plays As '80 Eagles]
-Type = Gameshark
-Activation = EndFrame
-8007DD56 004B
-
-[Home Team Plays As '80 Falcons]
-Type = Gameshark
-Activation = EndFrame
-8007DD56 0048
-
-[Home Team Plays As '80 Oilers]
-Type = Gameshark
-Activation = EndFrame
-8007DD56 0049
-
-[Home Team Plays As '80 Raiders]
-Type = Gameshark
-Activation = EndFrame
-8007DD56 004A
-
-[Home Team Plays As '81 49Ers]
-Type = Gameshark
-Activation = EndFrame
-8007DD56 004E
-
-[Home Team Plays As '81 Bengals]
-Type = Gameshark
-Activation = EndFrame
-8007DD56 004C
-
-[Home Team Plays As '81 Chargers]
-Type = Gameshark
-Activation = EndFrame
-8007DD56 004D
-
-[Home Team Plays As '82 Redskins]
-Type = Gameshark
-Activation = EndFrame
-8007DD56 004F
-
-[Home Team Plays As '83 Raiders]
-Type = Gameshark
-Activation = EndFrame
-8007DD56 0050
-
-[Home Team Plays As '83 Seahawks]
-Type = Gameshark
-Activation = EndFrame
-8007DD56 0051
-
-[Home Team Plays As '84 49Ers]
-Type = Gameshark
-Activation = EndFrame
-8007DD56 0053
-
-[Home Team Plays As '84 Cardinals]
-Type = Gameshark
-Activation = EndFrame
-8007DD56 0055
-
-[Home Team Plays As '84 Dolphins]
-Type = Gameshark
-Activation = EndFrame
-8007DD56 0052
-
-[Home Team Plays As '84 Rams]
-Type = Gameshark
-Activation = EndFrame
-8007DD56 0054
-
-[Home Team Plays As '85 Bears]
-Type = Gameshark
-Activation = EndFrame
-8007DD56 0056
-
-[Home Team Plays As '85 Browns]
-Type = Gameshark
-Activation = EndFrame
-8007DD56 0057
-
-[Home Team Plays As '85 Jets]
-Type = Gameshark
-Activation = EndFrame
-8007DD56 0058
-
-[Home Team Plays As '85 Patriots]
-Type = Gameshark
-Activation = EndFrame
-8007DD56 0059
-
-[Home Team Plays As '86 Broncos]
-Type = Gameshark
-Activation = EndFrame
-8007DD56 005A
-
-[Home Team Plays As '86 Giants]
-Type = Gameshark
-Activation = EndFrame
-8007DD56 005B
-
-[Home Team Plays As '87 Redskins]
-Type = Gameshark
-Activation = EndFrame
-8007DD56 005D
-
-[Home Team Plays As '87 Saints]
-Type = Gameshark
-Activation = EndFrame
-8007DD56 005C
-
-[Home Team Plays As '88 49Ers]
-Type = Gameshark
-Activation = EndFrame
-8007DD56 005F
-
-[Home Team Plays As '88 Bengals]
-Type = Gameshark
-Activation = EndFrame
-8007DD56 005E
-
-[Home Team Plays As '89 49Ers]
-Type = Gameshark
-Activation = EndFrame
-8007DD56 0061
-
-[Home Team Plays As '89 Broncos]
-Type = Gameshark
-Activation = EndFrame
-8007DD56 0060
-
-[Home Team Plays As '90 Bills]
-Type = Gameshark
-Activation = EndFrame
-8007DD56 0063
-
-[Home Team Plays As '90 Chiefs]
-Type = Gameshark
-Activation = EndFrame
-8007DD56 0062
-
-[Home Team Plays As '90 Eagles]
-Type = Gameshark
-Activation = EndFrame
-8007DD56 0066
-
-[Home Team Plays As '90 Giants]
-Type = Gameshark
-Activation = EndFrame
-8007DD56 0065
-
-[Home Team Plays As '90 Raiders]
-Type = Gameshark
-Activation = EndFrame
-8007DD56 0064
-
-[Home Team Plays As '91 Redskins]
-Type = Gameshark
-Activation = EndFrame
-8007DD56 0067
-
-[Home Team Plays As '92 Cowboys]
-Type = Gameshark
-Activation = EndFrame
-8007DD56 0068
-
-[Home Team Plays As '93 Chiefs]
-Type = Gameshark
-Activation = EndFrame
-8007DD56 0069
-
-[Home Team Plays As '93 Cowboys]
-Type = Gameshark
-Activation = EndFrame
-8007DD56 006A
-
-[Home Team Plays As '94 49Ers]
-Type = Gameshark
-Activation = EndFrame
-8007DD56 006D
-
-[Home Team Plays As '94 Dolphins]
-Type = Gameshark
-Activation = EndFrame
-8007DD56 006B
-
-[Home Team Plays As '94 Lions]
-Type = Gameshark
-Activation = EndFrame
-8007DD56 006C
-
-[Home Team Plays As '95 Cowboys]
-Type = Gameshark
-Activation = EndFrame
-8007DD56 006E
-
-[Home Team Plays As '95 Steelers]
-Type = Gameshark
-Activation = EndFrame
-8007DD56 006F
-
-[Home Team Plays As '96 Packers]
-Type = Gameshark
-Activation = EndFrame
-8007DD56 0071
-
-[Home Team Plays As '96 Panthers]
-Type = Gameshark
-Activation = EndFrame
-8007DD56 0070
-
-[Home Team Plays As '96 Patriots]
-Type = Gameshark
-Activation = EndFrame
-8007DD56 0072
+Home Team Plays As
+8007DD56 ????
+Option = '60 Afl:0x001E
+Option = '60 Eagles:0x001F
+Option = '61 Oilers:0x0020
+Option = '61 Packers:0x0021
+Option = '62 Giants:0x0023
+Option = '62 Lions:0x0022
+Option = '62 Packers:0x0024
+Option = '62 Texans:0x0025
+Option = '63 Bears:0x0026
+Option = '63 Chargers:0x0027
+Option = '64 Bills:0x0029
+Option = '64 Browns:0x002A
+Option = '64 Colts:0x0028
+Option = '65 Bears:0x002C
+Option = '65 Packers:0x002B
+Option = '66 Chiefs:0x002E
+Option = '66 Packers:0x002D
+Option = '66 Rams:0x002F
+Option = '67 Packers:0x0030
+Option = '67 Raiders:0x0031
+Option = '68 Jets:0x0032
+Option = '69 Chiefs:0x0033
+Option = '69 Vikings:0x0034
+Option = '70 Colts:0x0035
+Option = '71 Cowboys:0x0036
+Option = '72 Dolphins:0x0037
+Option = '73 Bills:0x0038
+Option = '73 Dolphins:0x0039
+Option = '74 Steelers:0x003A
+Option = '75 Cardinals:0x003C
+Option = '75 Steelers:0x003B
+Option = '76 Raiders:0x003D
+Option = '76 Redskins:0x003E
+Option = '76 Vikings:0x003F
+Option = '77 Bears:0x0040
+Option = '77 Cowboys:0x0041
+Option = '78 Broncos:0x0042
+Option = '78 Steelers:0x0043
+Option = '79 Buccaneers:0x0047
+Option = '79 Rams:0x0046
+Option = '79 Saints:0x0045
+Option = '79 Steelers:0x0044
+Option = '80 Eagles:0x004B
+Option = '80 Falcons:0x0048
+Option = '80 Oilers:0x0049
+Option = '80 Raiders:0x004A
+Option = '81 49Ers:0x004E
+Option = '81 Bengals:0x004C
+Option = '81 Chargers:0x004D
+Option = '82 Redskins:0x004F
+Option = '83 Raiders:0x0050
+Option = '83 Seahawks:0x0051
+Option = '84 49Ers:0x0053
+Option = '84 Cardinals:0x0055
+Option = '84 Dolphins:0x0052
+Option = '84 Rams:0x0054
+Option = '85 Bears:0x0056
+Option = '85 Browns:0x0057
+Option = '85 Jets:0x0058
+Option = '85 Patriots:0x0059
+Option = '86 Broncos:0x005A
+Option = '86 Giants:0x005B
+Option = '87 Redskins:0x005D
+Option = '87 Saints:0x005C
+Option = '88 49Ers:0x005F
+Option = '88 Bengals:0x005E
+Option = '89 49Ers:0x0061
+Option = '89 Broncos:0x0060
+Option = '90 Bills:0x0063
+Option = '90 Chiefs:0x0062
+Option = '90 Eagles:0x0066
+Option = '90 Giants:0x0065
+Option = '90 Raiders:0x0064
+Option = '91 Redskins:0x0067
+Option = '92 Cowboys:0x0068
+Option = '93 Chiefs:0x0069
+Option = '93 Cowboys:0x006A
+Option = '94 49Ers:0x006D
+Option = '94 Dolphins:0x006B
+Option = '94 Lions:0x006C
+Option = '95 Cowboys:0x006E
+Option = '95 Steelers:0x006F
+Option = '96 Packers:0x0071
+Option = '96 Panthers:0x0070
+Option = '96 Patriots:0x0072
 

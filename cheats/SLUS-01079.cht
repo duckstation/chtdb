@@ -1,24 +1,13 @@
 ; CHTDB: ; [ Army Men - World War (USA) (2000) (The 3DO Company) {SLUS-01079} <amenwwar> ]
 
-[Select Effect\Invincibility]
+[Select Effect]
 Type = Gameshark
 Activation = EndFrame
-800FEB7C 0490
-
-[Select Effect\Small Soldiers]
-Type = Gameshark
-Activation = EndFrame
-800FEB7C 00A8
-
-[Select Effect\Reallly Small Soldiers]
-Type = Gameshark
-Activation = EndFrame
-800FEB7C 0044
-
-[Select Effect\Infinite Health]
-Type = Gameshark
-Activation = EndFrame
-800FEB7C 0310
+800FEB7C ????
+Option = Infinite Health:0x0310
+Option = Invincibility:0x0490
+Option = Reallly Small Soldiers:0x0044
+Option = Small Soldiers:0x00A8
 
 [Always have Infinite Grenades]
 Type = Gameshark

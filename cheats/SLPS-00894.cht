@@ -64,43 +64,9 @@ Activation = EndFrame
 800B8666 03E7
 800B86A2 03E7
 
-[Select Scenario\2]
+[Select Scenario]
 Type = Gameshark
 Activation = EndFrame
-300B8EAE 0002
-
-[Select Scenario\3]
-Type = Gameshark
-Activation = EndFrame
-300B8EAE 0003
-
-[Select Scenario\4]
-Type = Gameshark
-Activation = EndFrame
-300B8EAE 0004
-
-[Select Scenario\5]
-Type = Gameshark
-Activation = EndFrame
-300B8EAE 0005
-
-[Select Scenario\6]
-Type = Gameshark
-Activation = EndFrame
-300B8EAE 0006
-
-[Select Scenario\7]
-Type = Gameshark
-Activation = EndFrame
-300B8EAE 0007
-
-[Select Scenario\8]
-Type = Gameshark
-Activation = EndFrame
-300B8EAE 0008
-
-[Select Scenario\9]
-Type = Gameshark
-Activation = EndFrame
-300B8EAE 0009
+300B8EAE 000?
+OptionRange = 1:9
 

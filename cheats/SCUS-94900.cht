@@ -208,85 +208,26 @@ C005E72C 0102
 8002E03E 0C00
 00000000 FFFF
 
-[Select Enemies/Objects Size\0100]
+[Select Enemies/Objects Size]
 Type = Gameshark
 Activation = EndFrame
-8001CC7C 0100
-
-[Select Enemies/Objects Size\0200]
-Type = Gameshark
-Activation = EndFrame
-8001CC7C 0200
-
-[Select Enemies/Objects Size\0300]
-Type = Gameshark
-Activation = EndFrame
-8001CC7C 0300
-
-[Select Enemies/Objects Size\0400]
-Type = Gameshark
-Activation = EndFrame
-8001CC7C 0400
-
-[Select Enemies/Objects Size\0500]
-Type = Gameshark
-Activation = EndFrame
-8001CC7C 0500
-
-[Select Enemies/Objects Size\0600]
-Type = Gameshark
-Activation = EndFrame
-8001CC7C 0600
-
-[Select Enemies/Objects Size\0700]
-Type = Gameshark
-Activation = EndFrame
-8001CC7C 0700
-
-[Select Enemies/Objects Size\0800]
-Type = Gameshark
-Activation = EndFrame
-8001CC7C 0800
-
-[Select Enemies/Objects Size\0900]
-Type = Gameshark
-Activation = EndFrame
-8001CC7C 0900
-
-[Select Enemies/Objects Size\0A00]
-Type = Gameshark
-Activation = EndFrame
-8001CC7C 0A00
-
-[Select Enemies/Objects Size\0B00]
-Type = Gameshark
-Activation = EndFrame
-8001CC7C 0B00
-
-[Select Enemies/Objects Size\0C00]
-Type = Gameshark
-Activation = EndFrame
-8001CC7C 0C00
-
-[Select Enemies/Objects Size\0D00]
-Type = Gameshark
-Activation = EndFrame
-8001CC7C 0D00
-
-[Select Enemies/Objects Size\0E00]
-Type = Gameshark
-Activation = EndFrame
-8001CC7C 0E00
-
-[Select Enemies/Objects Size\0F00]
-Type = Gameshark
-Activation = EndFrame
-8001CC7C 0F00
-
-[Select Enemies/Objects Size\1000]
-Type = Gameshark
-Activation = EndFrame
-8001CC7C 1000
+8001CC7C ????
+Option = 0100:0x0100
+Option = 0200:0x0200
+Option = 0300:0x0300
+Option = 0400:0x0400
+Option = 0500:0x0500
+Option = 0600:0x0600
+Option = 0700:0x0700
+Option = 0800:0x0800
+Option = 0900:0x0900
+Option = 0A00:0x0A00
+Option = 0B00:0x0B00
+Option = 0C00:0x0C00
+Option = 0D00:0x0D00
+Option = 0E00:0x0E00
+Option = 0F00:0x0F00
+Option = 1000:0x1000
 
 [Neon Crash]
 Description = L1+R1-Enable, L2+R2-Disable
@@ -306,7 +247,7 @@ D005E72C 1100
 D005E72C 4100
 80019276 0C00
 
-[Crash Size Modifier (Values 0100 - 1E00)]
+[Crash Size Modifier]
 Description = Press Select+L1 to enable, Select+R1 to disable. Only use in levels. Disable before entering the exit warp at the end of a level so you can progress to the next screen.
 Type = Gameshark
 Activation = EndFrame
@@ -321,6 +262,7 @@ D005E72C 0108
 90007688 AC22009C
 9000768C AC2200A0
 90007690 03E00008
+OptionRange = 0x0100:0x1E00
 ;#### PATCHES LISTED BELOW ####
 
 [Widescreen 16-9]

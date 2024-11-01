@@ -25,28 +25,13 @@ Type = Gameshark
 Activation = EndFrame
 800AB4CC 0000
 
-[Select Ship\Explorer, Kitty Hawk Class]
+[Select Ship]
 Type = Gameshark
 Activation = EndFrame
-800AB4F0 0000
-
-[Select Ship\Viking, Sea Eagle Class]
-Type = Gameshark
-Activation = EndFrame
-800AB4F0 0001
-
-[Select Ship\Ranger, Clipper Class]
-Type = Gameshark
-Activation = EndFrame
-800AB4F0 0002
-
-[Select Ship\Pioneer, Trieme Class]
-Type = Gameshark
-Activation = EndFrame
-800AB4F0 0003
-
-[Select Ship\Mariner, Canaveral Class]
-Type = Gameshark
-Activation = EndFrame
-800AB4F0 0004
+800AB4F0 ????
+Option = Explorer, Kitty Hawk Class:0x0000
+Option = Viking, Sea Eagle Class:0x0001
+Option = Ranger, Clipper Class:0x0002
+Option = Pioneer, Trieme Class:0x0003
+Option = Mariner, Canaveral Class:0x0004
 

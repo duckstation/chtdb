@@ -1,24 +1,10 @@
 ; CHTDB: ; [ Everybody's Golf (Europe) {SCES-00983} ]
 
-[Enable course 2]
+[Select /Enable course]
 Type = Gameshark
 Activation = EndFrame
-801045F4 0002
-
-[Enable course 3]
-Type = Gameshark
-Activation = EndFrame
-801045F4 0003
-
-[Enable course 4]
-Type = Gameshark
-Activation = EndFrame
-801045F4 0004
-
-[Enable course 5]
-Type = Gameshark
-Activation = EndFrame
-801045F4 0005
+801045F4 000?
+OptionRange = 1:5
 
 [Always hole in two hole 1]
 Type = Gameshark

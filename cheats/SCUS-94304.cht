@@ -70,40 +70,17 @@ Type = Gameshark
 Activation = EndFrame
 801A1C16 0014
 
-[Select Perm Level\Arena Duel]
+[Select Perm Level]
 Type = Gameshark
 Activation = EndFrame
-8018ED04 0000
-
-[Select Perm Level\Warehouse]
-Type = Gameshark
-Activation = EndFrame
-8018ED04 0001
-
-[Select Perm Level\Freeway]
-Type = Gameshark
-Activation = EndFrame
-8018ED04 0002
-
-[Select Perm Level\Park]
-Type = Gameshark
-Activation = EndFrame
-8018ED04 0003
-
-[Select Perm Level\Cyburbia (1P Mode Only)]
-Type = Gameshark
-Activation = EndFrame
-8018ED04 0004
-
-[Select Perm Level\Rooftop]
-Type = Gameshark
-Activation = EndFrame
-8018ED04 0005
-
-[Select Perm Level\Arena]
-Type = Gameshark
-Activation = EndFrame
-8018ED04 0006
+8018ED04 ????
+Option = Arena Duel:0x0000
+Option = Warehouse:0x0001
+Option = Freeway:0x0002
+Option = Park:0x0003
+Option = Cyburbia (1P Mode Only):0x0004
+Option = Rooftop:0x0005
+Option = Arena:0x0006
 ;#### PATCHES LISTED BELOW ####
 
 [Select Widescreen Aspect Ratio\16-9]

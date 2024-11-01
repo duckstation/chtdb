@@ -37,20 +37,13 @@ Type = Gameshark
 Activation = EndFrame
 800CF206 0001
 
-[Select Difficulty\Novice]
+[Select Difficulty]
 Type = Gameshark
 Activation = EndFrame
-801E5534 0000
-
-[Select Difficulty\Intermediate]
-Type = Gameshark
-Activation = EndFrame
-801E5534 0001
-
-[Select Difficulty\Expert]
-Type = Gameshark
-Activation = EndFrame
-801E5534 0002
+801E5534 ????
+Option = Novice:0x0000
+Option = Intermediate:0x0001
+Option = Expert:0x0002
 
 [Press R1 + x For Nitrous Boost]
 Type = Gameshark

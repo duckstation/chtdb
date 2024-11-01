@@ -1,26 +1,16 @@
 ; CHTDB: ; [ NFL GameDay (USA) (1996) (Sony Computer Entertainment America) {SCUS-94505} <nflgday> ]
 
-[P1 Select Score\100]
+[P1 Select Score]
 Type = Gameshark
 Activation = EndFrame
-800AFE56 0064
+800AFE56 00??
+OptionRange = 0:100
 
-[P1 Select Score\0]
+[P2 Select Score]
 Type = Gameshark
 Activation = EndFrame
-800AFE56 0000
-
-[P2 Select Score\100]
-Type = Gameshark
-Activation = EndFrame
-800AFE56 0000
-800AFFF0 0064
-
-[P2 Select Score\0]
-Type = Gameshark
-Activation = EndFrame
-800AFE56 0000
-800AFFF0 0000
+800AFFF0 00??
+OptionRange = 0:100
 
 [Infinite Time To Choose Your Play]
 Type = Gameshark

@@ -1,49 +1,18 @@
 ; CHTDB: ; [ Thunder Truck Rally (USA) (1997) (Psygnosis) {SCUS-94352} <thdtruck> ]
 
-[Select Truck\Enzo]
+[Select Truck]
 Type = Gameshark
 Activation = EndFrame
-8003A620 0000
-
-[Select Truck\Nadia]
-Type = Gameshark
-Activation = EndFrame
-8003A620 0001
-
-[Select Truck\Karl]
-Type = Gameshark
-Activation = EndFrame
-8003A620 0002
-
-[Select Truck\Lean]
-Type = Gameshark
-Activation = EndFrame
-8003A620 0003
-
-[Select Truck\Aaron]
-Type = Gameshark
-Activation = EndFrame
-8003A620 0004
-
-[Select Truck\Miyuki]
-Type = Gameshark
-Activation = EndFrame
-8003A620 0005
-
-[Select Truck\Nail]
-Type = Gameshark
-Activation = EndFrame
-8003A620 0006
-
-[Select Truck\Bear]
-Type = Gameshark
-Activation = EndFrame
-8003A620 0007
-
-[Select Truck\Michelle]
-Type = Gameshark
-Activation = EndFrame
-8003A620 0008
+8003A620 ????
+Option = Enzo:0x0000
+Option = Nadia:0x0001
+Option = Karl:0x0002
+Option = Lean:0x0003
+Option = Aaron:0x0004
+Option = Miyuki:0x0005
+Option = Nail:0x0006
+Option = Bear:0x0007
+Option = Michelle:0x0008
 
 [Time Below 00'01'00]
 Type = Gameshark

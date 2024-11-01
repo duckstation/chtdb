@@ -21,150 +21,39 @@ Activation = EndFrame
 50000B04 0000
 800D7504 0001
 
-[Select Level\Level 2]
+[Select Level]
 Type = Gameshark
 Activation = EndFrame
-800BE570 0001
-
-[Select Level\Level 3]
-Type = Gameshark
-Activation = EndFrame
-800BE570 0002
-
-[Select Level\Level 4]
-Type = Gameshark
-Activation = EndFrame
-800BE570 0003
-
-[Select Level\Level 5]
-Type = Gameshark
-Activation = EndFrame
-800BE570 0004
-
-[Select Level\Level 6]
-Type = Gameshark
-Activation = EndFrame
-800BE570 0005
-
-[Select Level\Level 7]
-Type = Gameshark
-Activation = EndFrame
-800BE570 0006
-
-[Select Level\Level 8]
-Type = Gameshark
-Activation = EndFrame
-800BE570 0007
-
-[Select Level\Level 9]
-Type = Gameshark
-Activation = EndFrame
-800BE570 0008
-
-[Select Level\Level 10]
-Type = Gameshark
-Activation = EndFrame
-800BE570 0009
-
-[Select Level\Level 11]
-Type = Gameshark
-Activation = EndFrame
-800BE570 000A
-
-[Select Level\Level 12]
-Type = Gameshark
-Activation = EndFrame
-800BE570 000B
-
-[Select Level\Level 13]
-Type = Gameshark
-Activation = EndFrame
-800BE570 000C
-
-[Select Level\Level 14]
-Type = Gameshark
-Activation = EndFrame
-800BE570 000D
-
-[Select Level\Level 15]
-Type = Gameshark
-Activation = EndFrame
-800BE570 000E
-
-[Select Level\Level 16]
-Type = Gameshark
-Activation = EndFrame
-800BE570 000F
-
-[Select Level\Level 17]
-Type = Gameshark
-Activation = EndFrame
-800BE570 0010
-
-[Select Level\Level 18]
-Type = Gameshark
-Activation = EndFrame
-800BE570 0011
-
-[Select Level\Level 19]
-Type = Gameshark
-Activation = EndFrame
-800BE570 0012
-
-[Select Level\Level 20]
-Type = Gameshark
-Activation = EndFrame
-800BE570 0003
-
-[Select Level\Level 21]
-Type = Gameshark
-Activation = EndFrame
-800BE570 0014
-
-[Select Level\Level 22]
-Type = Gameshark
-Activation = EndFrame
-800BE570 0015
-
-[Select Level\Level 23]
-Type = Gameshark
-Activation = EndFrame
-800BE570 0016
-
-[Select Level\Level 24]
-Type = Gameshark
-Activation = EndFrame
-800BE570 0017
-
-[Select Level\Level 25]
-Type = Gameshark
-Activation = EndFrame
-800BE570 0018
-
-[Select Level\Level 26]
-Type = Gameshark
-Activation = EndFrame
-800BE570 0019
-
-[Select Level\Level 27]
-Type = Gameshark
-Activation = EndFrame
-800BE570 001A
-
-[Select Level\Level 28]
-Type = Gameshark
-Activation = EndFrame
-800BE570 001B
-
-[Select Level\Level 29]
-Type = Gameshark
-Activation = EndFrame
-800BE570 001C
-
-[Select Level\Level 30]
-Type = Gameshark
-Activation = EndFrame
-800BE570 001D
+800BE570 ????
+Option = Level 2:0x0001
+Option = Level 3:0x0002
+Option = Level 4:0x0003
+Option = Level 5:0x0004
+Option = Level 6:0x0005
+Option = Level 7:0x0006
+Option = Level 8:0x0007
+Option = Level 9:0x0008
+Option = Level 10:0x0009
+Option = Level 11:0x000A
+Option = Level 12:0x000B
+Option = Level 13:0x000C
+Option = Level 14:0x000D
+Option = Level 15:0x000E
+Option = Level 16:0x000F
+Option = Level 17:0x0010
+Option = Level 18:0x0011
+Option = Level 19:0x0012
+Option = Level 20:0x0003
+Option = Level 21:0x0014
+Option = Level 22:0x0015
+Option = Level 23:0x0016
+Option = Level 24:0x0017
+Option = Level 25:0x0018
+Option = Level 26:0x0019
+Option = Level 27:0x001A
+Option = Level 28:0x001B
+Option = Level 29:0x001C
+Option = Level 30:0x001D
 
 [Infinite Ammo + Items]
 Type = Gameshark

@@ -1,24 +1,16 @@
 ; CHTDB: ; [ NHL Blades of Steel 2000 (Europe) {SLES-02514} ]
 
-[Amount Of Goals Home Team 9]
+[Select Goals Home Team]
 Type = Gameshark
 Activation = EndFrame
-801343D4 0009
+801343D4 000?
+OptionRange = 0:9
 
-[Amount Of Goals Home Team 0]
+[Select Goals Away Team]
 Type = Gameshark
 Activation = EndFrame
-801343D4 0000
-
-[Amount Of Goals Away Team 9]
-Type = Gameshark
-Activation = EndFrame
-801343FC 0009
-
-[Amount Of Goals Away Team 0]
-Type = Gameshark
-Activation = EndFrame
-801343FC 0000
+801343FC 000?
+OptionRange = 0:9
 
 [Infinite Powerplay Time]
 Type = Gameshark

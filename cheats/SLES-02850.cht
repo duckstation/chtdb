@@ -22,44 +22,14 @@ D00A1238 0000
 Type = Gameshark
 Activation = EndFrame
 300A126C 0008
-
-[Secret character Michael Jackson]
-Type = Gameshark
-Activation = EndFrame
+Option = Michael Jackson:0xSecret Character\Michael Jackson
 301F13E8 000C
-
-[Secret character G.C. Thunder]
-Type = Gameshark
-Activation = EndFrame
-301F13E8 000D
-
-[Secret character Shaquille O'Neal]
-Type = Gameshark
-Activation = EndFrame
-301F13E8 000E
-
-[Secret character Rocket Samchav]
-Type = Gameshark
-Activation = EndFrame
-301F13E8 000F
-
-[Secret character Robox Rese4]
-Type = Gameshark
-Activation = EndFrame
-301F13E8 0010
-
-[Secret character First Lady]
-Type = Gameshark
-Activation = EndFrame
-301F13E8 0011
-
-[Secret character Mr President]
-Type = Gameshark
-Activation = EndFrame
-301F13E8 0012
-
-[Secret character The Boss Rumble]
-Type = Gameshark
-Activation = EndFrame
-301F13E8 0013
+Option = G.C. Thunder:0x000D
+Option = Shaquille O'Neal:0x000E
+Option = Rocket Samchav:0x000F
+Option = Robox Rese4:0x0010
+Option = First Lady:0x0011
+Option = Mr President:0x0012
+Option = The Boss Rumble:0x0013
+301F13E8 ????
 

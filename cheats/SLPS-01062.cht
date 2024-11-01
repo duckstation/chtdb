@@ -1,22 +1,14 @@
 ; CHTDB: ; [ Complete Soccer Onside (Japan) {SLPS-01062} ]
 
-[P1 Home Team Scores 9]
+[P1 Select Home Team Score]
 Type = Gameshark
 Activation = EndFrame
-800B0BF4 0009
+800B0BF4 000?
+OptionRange = 0:9
 
-[P1 Home Team Scores 0]
+[P2 Select Away Team Score]
 Type = Gameshark
 Activation = EndFrame
-800B0BF4 0000
-
-[P2 Team Scores 9]
-Type = Gameshark
-Activation = EndFrame
-800B0BF8 0009
-
-[P2 Team Scores 0]
-Type = Gameshark
-Activation = EndFrame
-800B0BF8 0000
+800B0BF8 000?
+OptionRange = 0:9
 

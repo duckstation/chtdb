@@ -1,24 +1,16 @@
 ; CHTDB: ; [ NBA Live 2000 (USA) (1999) (Electronic Arts) {SLUS-00998} <nbaliv2k> ]
 
-[Select Home Team Score\100]
+[Select Home Team Score]
 Type = Gameshark
 Activation = EndFrame
-800AE118 0064
+800AE118 00??
+OptionRange = 0:100
 
-[Select Home Team Score\0]
+[Select Away Team Score]
 Type = Gameshark
 Activation = EndFrame
-800AE118 0000
-
-[Select Away Team Score\100]
-Type = Gameshark
-Activation = EndFrame
-800AE768 0064
-
-[Select Away Team Score\0]
-Type = Gameshark
-Activation = EndFrame
-800AE768 0000
+800AE768 00??
+OptionRange = 0:100
 
 [Unlock All Legends]
 Type = Gameshark

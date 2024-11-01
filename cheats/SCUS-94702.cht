@@ -68,18 +68,11 @@ Activation = EndFrame
 90103884 1869F
 ; Random Encounters
 
-[Random Enemy Encounters\No Random Encounters]
+[Random Enemy Encounters]
 Type = Gameshark
 Activation = EndFrame
-801FFE02 0100
-
-[Random Enemy Encounters\Frequent Random Encounters]
-Type = Gameshark
-Activation = EndFrame
-801FFE02 1400
-
-[Random Enemy Encounters\Always Random Encounters]
-Type = Gameshark
-Activation = EndFrame
-801FFE02 2000
+801FFE02 ????
+Option = Always Random Encounters:0x2000
+Option = Frequent Random Encounters:0x1400
+Option = No Random Encounters:0x0100
 

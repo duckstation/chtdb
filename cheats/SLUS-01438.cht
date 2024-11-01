@@ -32,6 +32,7 @@ Activation = EndFrame
 Type = Gameshark
 Activation = EndFrame
 8010641C 00??
+OptionRange = 1:0xCD
 
 [Debug options menu]
 Type = Gameshark

@@ -1,74 +1,32 @@
 ; CHTDB: ; [ TNN Motor Sports HardCore 4X4 (USA) (1996) (ASC Games) {SLUS-00089} <tnnhc4x4> ]
 
-[Select Track\Dynamite Pass]
+[Select Track]
 Type = Gameshark
 Activation = EndFrame
-800B2628 0000
-
-[Select Track\Ground Zero Gulch]
-Type = Gameshark
-Activation = EndFrame
-800B2628 0001
-
-[Select Track\Devil's Kitchen]
-Type = Gameshark
-Activation = EndFrame
-800B2628 0002
-
-[Select Track\Mercurial Forest]
-Type = Gameshark
-Activation = EndFrame
-800B2628 0003
-
-[Select Track\Hades Highway]
-Type = Gameshark
-Activation = EndFrame
-800B2628 0004
-
-[Select Track\Arctic Inferno]
-Type = Gameshark
-Activation = EndFrame
-800B2628 0005
+800B2628 ????
+Option = Dynamite Pass:0x0000
+Option = Ground Zero Gulch:0x0001
+Option = Devil's Kitchen:0x0002
+Option = Mercurial Forest:0x0003
+Option = Hades Highway:0x0004
+Option = Arctic Inferno:0x0005
 
 [Total Time = 00.00.00]
 Type = Gameshark
 Activation = EndFrame
 801F3ACC 0000
 
-[Car Select Tree Killer]
+[Select Car]
 Type = Gameshark
 Activation = EndFrame
-800B2614 0000
-
-[Car Select Fire Witch]
-Type = Gameshark
-Activation = EndFrame
-800B2614 0001
-
-[Car Select Snow Spider]
-Type = Gameshark
-Activation = EndFrame
-800B2614 0002
-
-[Car Select Canyon Snake]
-Type = Gameshark
-Activation = EndFrame
-800B2614 0003
-
-[Car Select Sand Blaster]
-Type = Gameshark
-Activation = EndFrame
-800B2614 0004
-
-[Car Select Shasta Cyclone]
-Type = Gameshark
-Activation = EndFrame
-800B2614 0005
-
-[Car Select Mother]
-Type = Gameshark
-Activation = EndFrame
-800B2614 0006
+800B2614 ????
+Option = Tree Killer:0x0000
+Option = Fire Witch:0x0001
+Option = Snow Spider:0x0002
+Option = Canyon Snake:0x0003
+Option = Sand Blaster:0x0004
+Option = Shasta Cyclone:0x0005
+Option = Mother:0x0006
 
 [Start on Lap 3]
 Type = Gameshark

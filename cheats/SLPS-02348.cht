@@ -1,24 +1,16 @@
 ; CHTDB: ; [ 20 Seiki Striker Retsuden - The 20th Century's Real Strikers (Jpn) (2000) (DaZZ) {SLPS-02348 (PS-0014)} <20sretsu> ]
 
-[Select Home Team Score\9]
+[Select Home Team Score]
 Type = Gameshark
 Activation = EndFrame
-8007733C 0009
+8007733C 00??
+OptionRange = 0:9
 
-[Select Home Team Score\0]
+[Select Away Team Score]
 Type = Gameshark
 Activation = EndFrame
-8007733C 0000
-
-[Select Away Team Score\9]
-Type = Gameshark
-Activation = EndFrame
-80077340 0009
-
-[Select Away Team Score\0]
-Type = Gameshark
-Activation = EndFrame
-80077340 0000
+80077340 00??
+OptionRange = 0:9
 
 [Match's Length Only 1 Min]
 Type = Gameshark

@@ -1,24 +1,16 @@
 ; CHTDB: ; [ NHL 97 (USA) (1996) (Electronic Arts) {SLUS-00030} <nhl97> ]
 
-[Select Away Team Score\9]
+[Select Away Team Score]
 Type = Gameshark
 Activation = EndFrame
-801C98AC 0009
+801C98AC 00??
+OptionRange = 0:9
 
-[Select Away Team Score\0]
+[Select Home Team Score]
 Type = Gameshark
 Activation = EndFrame
-801C98AC 0000
-
-[Select Home Team Score\9]
-Type = Gameshark
-Activation = EndFrame
-801C99C0 0009
-
-[Select Home Team Score\0]
-Type = Gameshark
-Activation = EndFrame
-801C99C0 0000
+801C99C0 00??
+OptionRange = 0:9
 
 [Infinite Time Outs Away Team]
 Type = Gameshark

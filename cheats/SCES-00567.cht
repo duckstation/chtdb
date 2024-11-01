@@ -81,65 +81,22 @@ Type = Gameshark
 Activation = EndFrame
 30188216 0009
 
-[Play always level Los Angeles]
+[Select Level]
 Type = Gameshark
 Activation = EndFrame
-301646C4 0001
-
-[Play always level Moscow]
-Type = Gameshark
-Activation = EndFrame
-301646C4 0002
-
-[Play always level Paris]
-Type = Gameshark
-Activation = EndFrame
-301646C4 0003
-
-[Play always level Amazonia]
-Type = Gameshark
-Activation = EndFrame
-301646C4 0004
-
-[Play always level New York]
-Type = Gameshark
-Activation = EndFrame
-301646C4 0005
-
-[Play always level Antarctic]
-Type = Gameshark
-Activation = EndFrame
-301646C4 0006
-
-[Play always level Netherlands]
-Type = Gameshark
-Activation = EndFrame
-301646C4 0007
-
-[Play always level Hong Kong]
-Type = Gameshark
-Activation = EndFrame
-301646C4 0008
-
-[Play always level ???]
-Type = Gameshark
-Activation = EndFrame
-301646C4 0009
-
-[Play always level Jet Moto Course]
-Type = Gameshark
-Activation = EndFrame
-301646C4 000A
-
-[Play always level Cyburbia]
-Type = Gameshark
-Activation = EndFrame
-301646C4 000B
-
-[Play always level Rooftop]
-Type = Gameshark
-Activation = EndFrame
-301646C4 000C
+301646C4 ????
+Option = Los Angeles:0x0001
+Option = Moscow:0x0002
+Option = Paris:0x0003
+Option = Amazonia:0x0004
+Option = New York:0x0005
+Option = Antarctic:0x0006
+Option = Netherlands:0x0007
+Option = Hong Kong:0x0008
+Option = ???:0x0009
+Option = Jet Moto Course:0x000A
+Option = Cyburbia:0x000B
+Option = Rooftop:0x000C
 ;#### PATCHES LISTED BELOW ####
 
 [Select Widescreen Aspect Ratio\16-9]

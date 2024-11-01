@@ -26,15 +26,12 @@ Type = Gameshark
 Activation = EndFrame
 8006F04A FFFF
 
-[Select Character\Alyssa]
+[Select Character]
 Type = Gameshark
 Activation = EndFrame
-80070A20 0000
-
-[Select Character\Bates]
-Type = Gameshark
-Activation = EndFrame
-80070A20 0020
+80070A20 ????
+Option = Alyssa:0x0000
+Option = Bates:0x0020
 
 [Time Attack Mode Infinite Gun Ammo]
 Type = Gameshark

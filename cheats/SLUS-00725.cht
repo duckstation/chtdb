@@ -25,125 +25,39 @@ Type = Gameshark
 Activation = EndFrame
 8009D87C 9999
 
-[P1 Select Character\Bub]
+[P1 Select Character]
 Type = Gameshark
 Activation = EndFrame
-800AC440 0000
+800AC440 ????
+Option = Bub:0x0000
+Option = Chinkula:0x0004
+Option = Giant Green Dragon:0x0009
+Option = Jack:0x0006
+Option = Little Boy in Dragon Costume:0x0008
+Option = Luna Luna:0x0005
+Option = Malissa:0x0003
+Option = Monkey:0x000A
+Option = Musashi:0x0001
+Option = Pulichio:0x0002
+Option = Sonic Blast Man:0x0007
+Option = The Furbee's:0x000B
 
-[P1 Select Character\Musashi]
+[P2 Select Character]
 Type = Gameshark
 Activation = EndFrame
-800AC440 0001
-
-[P1 Select Character\Pulichio]
-Type = Gameshark
-Activation = EndFrame
-800AC440 0002
-
-[P1 Select Character\Malissa]
-Type = Gameshark
-Activation = EndFrame
-800AC440 0003
-
-[P1 Select Character\Chinkula]
-Type = Gameshark
-Activation = EndFrame
-800AC440 0004
-
-[P1 Select Character\Luna Luna]
-Type = Gameshark
-Activation = EndFrame
-800AC440 0005
-
-[P1 Select Character\Jack]
-Type = Gameshark
-Activation = EndFrame
-800AC440 0006
-
-[P1 Select Character\Sonic Blast Man]
-Type = Gameshark
-Activation = EndFrame
-800AC440 0007
-
-[P1 Select Character\Little Boy in Dragon Costume]
-Type = Gameshark
-Activation = EndFrame
-800AC440 0008
-
-[P1 Select Character\Giant Green Dragon]
-Type = Gameshark
-Activation = EndFrame
-800AC440 0009
-
-[P1 Select Character\Monkey]
-Type = Gameshark
-Activation = EndFrame
-800AC440 000A
-
-[P1 Select Character\The Furbee's]
-Type = Gameshark
-Activation = EndFrame
-800AC440 000B
-
-[P2 Select Character\Bub]
-Type = Gameshark
-Activation = EndFrame
-800AC442 0000
-
-[P2 Select Character\Musashi]
-Type = Gameshark
-Activation = EndFrame
-800AC442 0001
-
-[P2 Select Character\Pulichio]
-Type = Gameshark
-Activation = EndFrame
-800AC442 0002
-
-[P2 Select Character\Malissa]
-Type = Gameshark
-Activation = EndFrame
-800AC442 0003
-
-[P2 Select Character\Chinkula]
-Type = Gameshark
-Activation = EndFrame
-800AC442 0004
-
-[P2 Select Character\Luna Luna]
-Type = Gameshark
-Activation = EndFrame
-800AC442 0005
-
-[P2 Select Character\Jack]
-Type = Gameshark
-Activation = EndFrame
-800AC442 0006
-
-[P2 Select Character\Sonic Blast Man]
-Type = Gameshark
-Activation = EndFrame
-800AC442 0007
-
-[P2 Select Character\Little Boy in Dragon Costume]
-Type = Gameshark
-Activation = EndFrame
-800AC442 0008
-
-[P2 Select Character\Giant Green Dragon]
-Type = Gameshark
-Activation = EndFrame
-800AC442 0009
-
-[P2 Select Character\Monkey]
-Type = Gameshark
-Activation = EndFrame
-800AC442 000A
-
-[P2 Select Character\The Furbee's]
-Type = Gameshark
-Activation = EndFrame
-800AC442 000B
+800AC442 ????
+Option = Bub:0x0000
+Option = Chinkula:0x0004
+Option = Giant Green Dragon:0x0009
+Option = Jack:0x0006
+Option = Little Boy in Dragon Costume:0x0008
+Option = Luna Luna:0x0005
+Option = Malissa:0x0003
+Option = Monkey:0x000A
+Option = Musashi:0x0001
+Option = Pulichio:0x0002
+Option = Sonic Blast Man:0x0007
+Option = The Furbee's:0x000B
 
 [Extra Worlds]
 Type = Gameshark

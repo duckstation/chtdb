@@ -1,82 +1,50 @@
 ; CHTDB: ; [ NFL Blitz 2001 (USA) (2000) (Midway Home Entertainment) {SLUS-01146} <blitz2k1> ]
 
-[Home Team Score 0\1st Quarter]
+[Select Home Team 1st Quarter Score]
 Type = Gameshark
 Activation = EndFrame
-801682A4 0000
+801682A4 00??
+OptionRange = 0:99
 
-[Home Team Score 0\2nd Quarter]
+[Select Home Team 2nd Quarter Score]
 Type = Gameshark
 Activation = EndFrame
-801682A8 0000
+801682A8 00??
+OptionRange = 0:99
 
-[Home Team Score 0\3rd Quarter]
+[Select Home Team 3rd Quarter Score]
 Type = Gameshark
 Activation = EndFrame
-801682AC 0000
+801682AC 00??
+OptionRange = 0:99
 
-[Home Team Score 0\4th Quarter]
+[Select Home Team 4th Quarter Score]
 Type = Gameshark
 Activation = EndFrame
-801682B0 0000
+801682B0 00??
+OptionRange = 0:99
 
-[Away Team Score 0\1st Quarter]
+[Select Away Team 1st Quarter Score]
 Type = Gameshark
 Activation = EndFrame
-801682B4 0000
+801682B4 00??
+OptionRange = 0:99
 
-[Away Team Score 0\2nd Quarter]
+[Select Away Team 2nd Quarter Score]
 Type = Gameshark
 Activation = EndFrame
-801682B8 0000
+801682B8 00??
+OptionRange = 0:99
 
-[Away Team Score 0\3rd Quarter]
+[Select Away Team 3rd Quarter Score]
 Type = Gameshark
 Activation = EndFrame
-801682BC 0000
+801682BC 00??
+OptionRange = 0:99
 
-[Away Team Score 0\4th Quarter]
+[Select Away Team 4th Quarter Score]
 Type = Gameshark
 Activation = EndFrame
-801682C0 0000
-
-[Home Team Score 99\1st Quarter]
-Type = Gameshark
-Activation = EndFrame
-801682A4 0063
-
-[Home Team Score 99\2nd Quarter]
-Type = Gameshark
-Activation = EndFrame
-801682A8 0063
-
-[Home Team Score 99\3rd Quarter]
-Type = Gameshark
-Activation = EndFrame
-801682AC 0063
-
-[Home Team Score 99\4th Quarter]
-Type = Gameshark
-Activation = EndFrame
-801682B0 0063
-
-[Away Team Score 99\1st Quarter]
-Type = Gameshark
-Activation = EndFrame
-801682B4 0063
-
-[Away Team Score 99\2nd Quarter]
-Type = Gameshark
-Activation = EndFrame
-801682B8 0063
-
-[Away Team Score 99\3rd Quarter]
-Type = Gameshark
-Activation = EndFrame
-801682BC 0063
-
-[Away Team Score 99\4th Quarter]
-Type = Gameshark
-Activation = EndFrame
-801682C0 0063
+801682C0 00??
+OptionRange = 0:99
 

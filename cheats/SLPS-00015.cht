@@ -36,43 +36,16 @@ Type = Gameshark
 Activation = EndFrame
 800B4E20 00FF
 
-[P1 Select One Character - Robo Saku]
+[P1 Select Character]
 Type = Gameshark
 Activation = EndFrame
-30099F7F 0000
-
-[P1 Select One Character - Penkurou]
-Type = Gameshark
-Activation = EndFrame
-30099F7F 0001
-
-[P1 Select One Character - Yumi-chan]
-Type = Gameshark
-Activation = EndFrame
-30099F7F 0002
-
-[P1 Select One Character - Dr. Nakasugi]
-Type = Gameshark
-Activation = EndFrame
-30099F7F 0003
-
-[P1 Select One Character - Ryou]
-Type = Gameshark
-Activation = EndFrame
-30099F7F 0004
-
-[P1 Select One Character - John Wantarou]
-Type = Gameshark
-Activation = EndFrame
-30099F7F 0005
-
-[P1 Select One Character - Mayu Sawada]
-Type = Gameshark
-Activation = EndFrame
-30099F7F 0006
-
-[P1 Select One Character - Makorin]
-Type = Gameshark
-Activation = EndFrame
-30099F7F 0007
+30099F7F ????
+Option = Robo Saku:0x0000
+Option = Penkurou:0x0001
+Option = Yumi-chan:0x0002
+Option = Dr. Nakasugi:0x0003
+Option = Ryou:0x0004
+Option = John Wantarou:0x0005
+Option = Mayu Sawada:0x0006
+Option = Makorin:0x0007
 

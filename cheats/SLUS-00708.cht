@@ -42,65 +42,22 @@ Type = Gameshark
 Activation = EndFrame
 800D567E 0001
 
-[Select Reaver\Spectral(Cant shoot force projectile)]
+[Select Reaver]
 Type = Gameshark
 Activation = EndFrame
-801A8000 0000
-
-[Select Reaver\Spectral(Can shoot force projectile)]
-Type = Gameshark
-Activation = EndFrame
-801A8000 0001
-
-[Select Reaver\Material(Can shoot force projectile)]
-Type = Gameshark
-Activation = EndFrame
-801A8000 0002
-
-[Select Reaver\Aerial(Can shoot force projectile)]
-Type = Gameshark
-Activation = EndFrame
-801A8000 0003
-
-[Select Reaver\Material(Cant shoot force projectile)]
-Type = Gameshark
-Activation = EndFrame
-801A8000 0004
-
-[Select Reaver\Light?(Cant shoot force projectile)]
-Type = Gameshark
-Activation = EndFrame
-801A8000 0005
-
-[Select Reaver\Fire(Can shoot force projectile)]
-Type = Gameshark
-Activation = EndFrame
-801A8000 0006
-
-[Select Reaver\Kain(Can shoot force projectile)]
-Type = Gameshark
-Activation = EndFrame
-801A8000 0007
-
-[Select Reaver\Water?(Can shoot force projectile)]
-Type = Gameshark
-Activation = EndFrame
-801A8000 0008
-
-[Select Reaver\Bright Green?(Can shoot force projectile)]
-Type = Gameshark
-Activation = EndFrame
-801A8000 0009
-
-[Select Reaver\Light?(Can shoot force projectile)]
-Type = Gameshark
-Activation = EndFrame
-801A8000 000A
-
-[Select Reaver\Bright Green w/Dark Green Arm Electricity]
-Type = Gameshark
-Activation = EndFrame
-801A8000 000B
+801A8000 ????
+Option = Spectral(Cant shoot force projectile):0x0000
+Option = Spectral(Can shoot force projectile):0x0001
+Option = Material(Can shoot force projectile):0x0002
+Option = Aerial(Can shoot force projectile):0x0003
+Option = Material(Cant shoot force projectile):0x0004
+Option = Light?(Cant shoot force projectile):0x0005
+Option = Fire(Can shoot force projectile):0x0006
+Option = Kain(Can shoot force projectile):0x0007
+Option = Water?(Can shoot force projectile):0x0008
+Option = Bright Green?(Can shoot force projectile):0x0009
+Option = Light?(Can shoot force projectile):0x000A
+Option = Bright Green w/Dark Green Arm Electricity:0x000B
 
 [Gate Walking]
 Description = L1+L2=On R1+R2=Off

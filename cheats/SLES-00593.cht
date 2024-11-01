@@ -30,8 +30,9 @@ Type = Gameshark
 Activation = EndFrame
 8007C486 0002
 
-[Level Select (.?00-FF Insert the levelnumber in hex. For instance 00 warps you to Level 1, 01 to Level 2, 0A to Level 11 and so on)]
+[Select Level (-1, eg enter 05 for level 6)]
 Type = Gameshark
 Activation = EndFrame
 8007542C 0001
+OptionRange = 0:FF
 

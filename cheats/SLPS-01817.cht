@@ -31,35 +31,17 @@ Type = Gameshark
 Activation = EndFrame
 80074B2C 1940
 
-[Changing Partner to Harry (Select Screen)(This native can be used from one stage)]
+[Change Partner to]
+Description = Use on Select Screen.(This natively can be used from one stage)
 Type = Gameshark
 Activation = EndFrame
-8000E2FC 0000
-
-[Changing Partner to Sicily (Select Screen)(This native can be used from one stage)]
-Type = Gameshark
-Activation = EndFrame
-8000E2FC 0000
-
-[Changing Partner to Maria (Select Screen)(This native can be used from one stage)]
-Type = Gameshark
-Activation = EndFrame
-8000E2FC 0000
-
-[Changing Partner to Bagel (Select Screen)(This native can be used from one stage)]
-Type = Gameshark
-Activation = EndFrame
-8000E2FC 0000
-
-[Changing Partner to Sniper (Select Screen)(This native can be used from one stage)]
-Type = Gameshark
-Activation = EndFrame
-8000E2FC 0004
-
-[Changing Partner to Nay (Select Screen)(This native can be used from one stage)]
-Type = Gameshark
-Activation = EndFrame
-8000E2FC 0005
+8000E2FC ????
+Option = Harry:0x0000
+Option = Sicily:0x0000
+Option = Maria:0x0000
+Option = Bagel:0x0000
+Option = Sniper:0x0004
+Option = Nay:0x0005
 
 [Main Character Invincibility]
 Type = Gameshark

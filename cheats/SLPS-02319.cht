@@ -40,43 +40,9 @@ Type = Gameshark
 Activation = EndFrame
 801784D6 0063
 
-[Select Scenario\2]
+[Select Scenario]
 Type = Gameshark
 Activation = EndFrame
-801775E4 0002
-
-[Select Scenario\3]
-Type = Gameshark
-Activation = EndFrame
-801775E4 0003
-
-[Select Scenario\4]
-Type = Gameshark
-Activation = EndFrame
-801775E4 0004
-
-[Select Scenario\5]
-Type = Gameshark
-Activation = EndFrame
-801775E4 0005
-
-[Select Scenario\6]
-Type = Gameshark
-Activation = EndFrame
-801775E4 0006
-
-[Select Scenario\7]
-Type = Gameshark
-Activation = EndFrame
-801775E4 0007
-
-[Select Scenario\8]
-Type = Gameshark
-Activation = EndFrame
-801775E4 0008
-
-[Select Scenario\9]
-Type = Gameshark
-Activation = EndFrame
-801775E4 0009
+801775E4 000?
+OptionRange = 1:9
 

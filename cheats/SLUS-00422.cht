@@ -132,6 +132,7 @@ Activation = EndFrame
 Type = Gameshark
 Activation = EndFrame
 80144CB6 ??00
+OptionRange = 0:255
 
 [Momo Character Cheats\Max HP]
 Type = Gameshark
@@ -278,6 +279,7 @@ Activation = EndFrame
 Type = Gameshark
 Activation = EndFrame
 80144C12 ??00
+OptionRange = 0:255
 
 [Rei Character Cheats\Max HP]
 Type = Gameshark
@@ -523,4 +525,14 @@ Type = Gameshark
 Activation = EndFrame
 80179888 0C00
 8017988A 2409
+
+[Lock game to 60 FPS]
+Type = Gameshark
+Activation = EndFrame
+A7174770 FFFFFFFE
+
+[Uncap FPS]
+Type = Gameshark
+Activation = EndFrame
+A7174756 10821000
 

@@ -16,55 +16,20 @@ Type = Gameshark
 Activation = EndFrame
 8017420E 0064
 
-[Present location breakwater]
+[Select Location]
 Type = Gameshark
 Activation = EndFrame
-30174204 0001
-
-[Present location sandy]
-Type = Gameshark
-Activation = EndFrame
-30174204 0002
-
-[Present location rocky fishing spot]
-Type = Gameshark
-Activation = EndFrame
-30174204 0003
-
-[Present location coast]
-Type = Gameshark
-Activation = EndFrame
-30174204 0004
-
-[Present location Okishima]
-Type = Gameshark
-Activation = EndFrame
-30174204 0005
-
-[Present location open ocean]
-Type = Gameshark
-Activation = EndFrame
-30174204 0006
-
-[Present location remote island]
-Type = Gameshark
-Activation = EndFrame
-30174204 0007
-
-[Present location ghost ship]
-Type = Gameshark
-Activation = EndFrame
-30174204 0008
-
-[Present location Treasure Island]
-Type = Gameshark
-Activation = EndFrame
-30174204 0009
-
-[Present location fishing pond]
-Type = Gameshark
-Activation = EndFrame
-30174204 000A
+30174204 ????
+Option = Breakwater:0x0001
+Option = Sandy:0x0002
+Option = Rocky fishing spot:0x0003
+Option = Coast:0x0004
+Option = Okishima:0x0005
+Option = Open ocean:0x0006
+Option = Remote island:0x0007
+Option = Ghost ship:0x0008
+Option = Treasure Island:0x0009
+Option = Fishing pond:0x000A
 
 [Story mode / character 00 = Koichi]
 Type = Gameshark

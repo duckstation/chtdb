@@ -10,125 +10,34 @@ Type = Gameshark
 Activation = EndFrame
 800890A0 4800
 
-[Select Car\Hummer]
+[Select Car]
 Type = Gameshark
 Activation = EndFrame
-80064294 0000
-
-[Select Car\Ram]
-Type = Gameshark
-Activation = EndFrame
-80064294 0001
-
-[Select Car\Wrangler]
-Type = Gameshark
-Activation = EndFrame
-80064294 0002
-
-[Select Car\Defender 90]
-Type = Gameshark
-Activation = EndFrame
-80064294 0003
-
-[Select Car\Explorer]
-Type = Gameshark
-Activation = EndFrame
-80064294 0004
-
-[Select Car\Chenowth Dr2]
-Type = Gameshark
-Activation = EndFrame
-80064294 0005
-
-[Select Car\F-150]
-Type = Gameshark
-Activation = EndFrame
-80064294 0006
-
-[Select Car\Cherokee]
-Type = Gameshark
-Activation = EndFrame
-80064294 0007
-
-[Select Car\Hummer Turbo Diesel]
-Type = Gameshark
-Activation = EndFrame
-80064294 0008
-
-[Select Car\Ram V 10]
-Type = Gameshark
-Activation = EndFrame
-80064294 0009
-
-[Select Car\Wrangler Sportr]
-Type = Gameshark
-Activation = EndFrame
-80064294 000A
-
-[Select Car\Defender 90 Upgrade]
-Type = Gameshark
-Activation = EndFrame
-80064294 000B
-
-[Select Car\Explorer V8]
-Type = Gameshark
-Activation = EndFrame
-80064294 000C
-
-[Select Car\Chenowth Dr2 Upgrade]
-Type = Gameshark
-Activation = EndFrame
-80064294 000D
-
-[Select Car\F-150 V8]
-Type = Gameshark
-Activation = EndFrame
-80064294 000E
-
-[Select Car\Grand Cherokee]
-Type = Gameshark
-Activation = EndFrame
-80064294 000F
-
-[Select Car\Military Hummer]
-Type = Gameshark
-Activation = EndFrame
-80064294 0010
-
-[Select Car\T-Rex]
-Type = Gameshark
-Activation = EndFrame
-80064294 0011
-
-[Select Car\Saleen Explorer]
-Type = Gameshark
-Activation = EndFrame
-80064294 0012
-
-[Select Car\Fast Attack Vehicle]
-Type = Gameshark
-Activation = EndFrame
-80064294 0013
-
-[Select Car\Range Rover]
-Type = Gameshark
-Activation = EndFrame
-80064294 0014
-
-[Select Car\School Bus (Hidden Vehicle)]
-Type = Gameshark
-Activation = EndFrame
-80064294 0015
-
-[Select Car\Black And Red Grand Cherokee (Hidden Vehicle)]
-Type = Gameshark
-Activation = EndFrame
-80064294 0016
-
-[Select Car\Ice.Cream Truck (Hidden Vehicle)]
-Type = Gameshark
-Activation = EndFrame
-80064294 0017
+80064294 ????
+Option = Hummer:0x0000
+Option = Ram:0x0001
+Option = Wrangler:0x0002
+Option = Defender 90:0x0003
+Option = Explorer:0x0004
+Option = Chenowth Dr2:0x0005
+Option = F-150:0x0006
+Option = Cherokee:0x0007
+Option = Hummer Turbo Diesel:0x0008
+Option = Ram V 10:0x0009
+Option = Wrangler Sportr:0x000A
+Option = Defender 90 Upgrade:0x000B
+Option = Explorer V8:0x000C
+Option = Chenowth Dr2 Upgrade:0x000D
+Option = F-150 V8:0x000E
+Option = Grand Cherokee:0x000F
+Option = Military Hummer:0x0010
+Option = T-Rex:0x0011
+Option = Saleen Explorer:0x0012
+Option = Fast Attack Vehicle:0x0013
+Option = Range Rover:0x0014
+Option = School Bus (Hidden Vehicle):0x0015
+Option = Black And Red Grand Cherokee (Hidden Vehicle):0x0016
+Option = Ice.Cream Truck (Hidden Vehicle):0x0017
 ;#### PATCHES LISTED BELOW ####
 
 [Select Widescreen Aspect Ratio\16-9]

@@ -15,23 +15,15 @@ Type = Gameshark
 Activation = EndFrame
 30026CAC 0000
 
-[Select Away Team Score\9]
+[Select Away Team Score]
 Type = Gameshark
 Activation = EndFrame
-300269C8 0009
+300269C8 00??
+OptionRange = 0:9
 
-[Select Away Team Score\0]
+[Select Home Team Score]
 Type = Gameshark
 Activation = EndFrame
-300269C8 0000
-
-[Select Home Team Score\9]
-Type = Gameshark
-Activation = EndFrame
-300269C4 0009
-
-[Select Home Team Score\0]
-Type = Gameshark
-Activation = EndFrame
-300269C4 0000
+300269C4 00??
+OptionRange = 0:9
 

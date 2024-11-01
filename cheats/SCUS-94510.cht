@@ -1,24 +1,16 @@
 ; CHTDB: ; [ NFL GameDay 97 (USA) (1996) (Sony Computer Entertainment America) {SCUS-94510} <nflgd97> ]
 
-[Select Home Team Score\0]
+[Select Home Team Score]
 Type = Gameshark
 Activation = EndFrame
-800CA04C 0000
+800CA04C 00??
+OptionRange = 0:99
 
-[Select Home Team Score\99]
+[Select Away Team Score]
 Type = Gameshark
 Activation = EndFrame
-800CA04C 0063
-
-[Select Away Team Score\0]
-Type = Gameshark
-Activation = EndFrame
-800CA050 0000
-
-[Select Away Team Score\99]
-Type = Gameshark
-Activation = EndFrame
-800CA050 0063
+800CA050 00??
+OptionRange = 0:99
 
 [Cannot Be Tackled (Hold L1)]
 Type = Gameshark

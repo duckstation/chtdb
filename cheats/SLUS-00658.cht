@@ -20,23 +20,15 @@ Type = Gameshark
 Activation = EndFrame
 8001952C 0003
 
-[Select Team 1 Score\99]
+[Select Team 1 Score]
 Type = Gameshark
 Activation = EndFrame
-800AF998 0063
+800AF998 00??
+OptionRange = 0:99
 
-[Select Team 1 Score\0]
+[Select Team 2 Score]
 Type = Gameshark
 Activation = EndFrame
-800AF998 0000
-
-[Select Team 2 Score\99]
-Type = Gameshark
-Activation = EndFrame
-800AF99C 0063
-
-[Select Team 2 Score\0]
-Type = Gameshark
-Activation = EndFrame
-800AF99C 0000
+800AF99C 00??
+OptionRange = 0:99
 

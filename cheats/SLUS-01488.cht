@@ -1,56 +1,39 @@
 ; CHTDB: ; [ American Pool (USA) (2003) (Mud Duck Productions) {SLUS-01488} <amerpool> ]
 
-[P1 Select 8-Ball, 9-Ball + Matches\Max Points]
+[P1 Select 8-Ball, 9-Ball + Matches]
 Type = Gameshark
 Activation = EndFrame
-8008847C 0064
+8008847C ????
+Option = Max Points:0x0064
+Option = No Points:0x0000
 
-[P1 Select 8-Ball, 9-Ball + Matches\No Points]
+[P2 Select 8-Ball, 9-Ball + Matches]
 Type = Gameshark
 Activation = EndFrame
-8008847C 0000
+800884B4 ????
+Option = Max Points:0x0064
+Option = No Points:0x0000
 
-[P2 Select 8-Ball, 9-Ball + Matches\Max Points]
+[Select Basic, Rotation + 14-1 Ball]
 Type = Gameshark
 Activation = EndFrame
-800884B4 0064
+800494A0 ????
+Option = Always P1's Turn:0x0000
+Option = Always P2's Turn:0x0002
 
-[P2 Select 8-Ball, 9-Ball + Matches\No Points]
+[P1 Select Basic, Rotation + 14-1 Ball]
 Type = Gameshark
 Activation = EndFrame
-800884B4 0000
+8008847A ????
+8008847C ????
+Option = Max Points:0x0009
+Option = No Points:0x0000
 
-[Select Basic, Rotation + 14-1 Ball\Always P1's Turn]
+[P2 Select Basic, Rotation + 14-1 Ball]
 Type = Gameshark
 Activation = EndFrame
-800494A0 0000
-
-[Select Basic, Rotation + 14-1 Ball\Always P2's Turn]
-Type = Gameshark
-Activation = EndFrame
-800494A0 0002
-
-[P1 Select Basic, Rotation + 14-1 Ball\Max Points]
-Type = Gameshark
-Activation = EndFrame
-8008847A 0009
-8008847C 0009
-
-[P1 Select Basic, Rotation + 14-1 Ball\No Points]
-Type = Gameshark
-Activation = EndFrame
-8008847A 0000
-8008847C 0000
-
-[P2 Select Basic, Rotation + 14-1 Ball\Max Points]
-Type = Gameshark
-Activation = EndFrame
-800884B2 0009
-800884B4 0009
-
-[P2 Select Basic, Rotation + 14-1 Ball\No Points]
-Type = Gameshark
-Activation = EndFrame
-800884B2 0000
-800884B4 0000
+800884B2 ????
+800884B4 ????
+Option = Max Points:0x0009
+Option = No Points:0x0000
 

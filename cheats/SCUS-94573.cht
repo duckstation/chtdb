@@ -1,26 +1,16 @@
 ; CHTDB: ; [ NCAA GameBreaker 2001 (USA) (2000) (Sony Computer Entertainment America) {SCUS-94573} <ncaag2k1> ]
 
-[Select Home Team Score\99]
+[Select Home Team Score]
 Type = Gameshark
 Activation = EndFrame
 D009CAB0 8010
-800FC0C0 0063
+800FC0C0 00??
+OptionRange = 0:99
 
-[Select Home Team Score\0]
+[Select Away Team Score]
 Type = Gameshark
 Activation = EndFrame
 D009CAB0 8010
-800FC0C0 0000
-
-[Select Away Team Score\99]
-Type = Gameshark
-Activation = EndFrame
-D009CAB0 8010
-800FC0C4 0063
-
-[Select Away Team Score\0]
-Type = Gameshark
-Activation = EndFrame
-D009CAB0 8010
-800FC0C4 0000
+800FC0C4 00??
+OptionRange = 0:99
 

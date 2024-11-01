@@ -1,24 +1,16 @@
 ; CHTDB: ; [ NHL Blades of Steel 2000 (USA) (2000) (Konami of America) {SLUS-00825} <blades2k> ]
 
-[Select Home Team Score\0]
+[Select Home Team Score]
 Type = Gameshark
 Activation = EndFrame
-30133D44 0000
+30133D44 00??
+OptionRange = 0:99
 
-[Select Home Team Score\99]
+[Select Away Team Score]
 Type = Gameshark
 Activation = EndFrame
-30133D44 0063
-
-[Select Away Team Score\0]
-Type = Gameshark
-Activation = EndFrame
-30133D6C 0000
-
-[Select Away Team Score\99]
-Type = Gameshark
-Activation = EndFrame
-30133D6C 0063
+30133D6C 00??
+OptionRange = 0:99
 
 [Stats\Max Speed]
 Type = Gameshark

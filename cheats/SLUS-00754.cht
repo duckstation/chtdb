@@ -10,25 +10,19 @@ Type = Gameshark
 Activation = EndFrame
 80167BC0 0000
 
-[P1 Select Bubbles\Always Gets Bubbles]
+[P1 Select Bubbles]
 Type = Gameshark
 Activation = EndFrame
-80192F76 0007
+80192F76 ????
+Option = Always Gets Bubbles:0x0007
+Option = Never Gets Bubbles:0x0000
 
-[P1 Select Bubbles\Never Gets Bubbles]
+[P2 Select Bubbles]
 Type = Gameshark
 Activation = EndFrame
-80192F76 0000
-
-[P2 Select Bubbles\Always Gets Bubbles]
-Type = Gameshark
-Activation = EndFrame
-80192E32 0007
-
-[P2 Select Bubbles\Never Gets Bubbles]
-Type = Gameshark
-Activation = EndFrame
-80192E32 0000
+80192E32 ????
+Option = Always Gets Bubbles:0x0007
+Option = Never Gets Bubbles:0x0000
 
 [New Tarot Reading Menu (Options)]
 Type = Gameshark

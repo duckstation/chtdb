@@ -5,43 +5,16 @@ Type = Gameshark
 Activation = EndFrame
 800ECE54 00A0
 
-[Select Secret Character\Original Mode Inar]
+[Select Secret Character]
 Type = Gameshark
 Activation = EndFrame
-800D16A6 000C
-
-[Select Secret Character\Original Mode Sasurai]
-Type = Gameshark
-Activation = EndFrame
-800D16A6 000D
-
-[Select Secret Character\Original Mode Mamano]
-Type = Gameshark
-Activation = EndFrame
-800D16A6 000E
-
-[Select Secret Character\Original Mode Seiken]
-Type = Gameshark
-Activation = EndFrame
-800D16A6 000F
-
-[Select Secret Character\Original Mode Chimena]
-Type = Gameshark
-Activation = EndFrame
-800D16A6 0010
-
-[Select Secret Character\Story Mode Wise]
-Type = Gameshark
-Activation = EndFrame
-800D16A6 0005
-
-[Select Secret Character\Story Mode Lamille]
-Type = Gameshark
-Activation = EndFrame
-800D16A6 0005
-
-[Select Secret Character\Story Mode Rekka]
-Type = Gameshark
-Activation = EndFrame
-800D16A6 0007
+800D16A6 ????
+Option = Original Mode Inar:0x000C
+Option = Original Mode Sasurai:0x000D
+Option = Original Mode Mamano:0x000E
+Option = Original Mode Seiken:0x000F
+Option = Original Mode Chimena:0x0010
+Option = Story Mode Wise:0x0005
+Option = Story Mode Lamille:0x0005
+Option = Story Mode Rekka:0x0007
 

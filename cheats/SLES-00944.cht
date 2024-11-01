@@ -20,30 +20,15 @@ Type = Gameshark
 Activation = EndFrame
 80113D10 FFFF
 
-[Have Missile Launcher]
+[Select Weapon]
 Type = Gameshark
 Activation = EndFrame
-80113D0C 0001
-
-[Have Homing Missiles]
-Type = Gameshark
-Activation = EndFrame
-80113D0C 0002
-
-[Have Flame Thrower]
-Type = Gameshark
-Activation = EndFrame
-80113D0C 0003
-
-[Have Pulse Laser]
-Type = Gameshark
-Activation = EndFrame
-80113D0C 0004
-
-[Have Grenade Launcher]
-Type = Gameshark
-Activation = EndFrame
-80113D0C 0005
+80113D0C ????
+Option = Missile Launcher:0x0001
+Option = Homing Missiles:0x0002
+Option = Flame Thrower:0x0003
+Option = Pulse Laser:0x0004
+Option = Grenade Launcher:0x0005
 
 [Have All Weapons]
 Type = Gameshark

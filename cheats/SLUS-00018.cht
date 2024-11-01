@@ -1,32 +1,20 @@
 ; CHTDB: ; [ Madden NFL 97 (USA) (1996) (Electronic Arts) {SLUS-00018} <madden97> ]
 
-[Select Away Team Score\9]
+[Select Away Team Score]
 Type = Gameshark
 Activation = EndFrame
-80088680 0009
-8008D1E4 0009
-8008A9D4 0009
+80088680 000?
+8008D1E4 000?
+8008A9D4 000?
+OptionRange = 0:9
 
-[Select Away Team Score\0]
+[Select Home Team Score]
 Type = Gameshark
 Activation = EndFrame
-80088680 0000
-8008D1E4 0000
-8008A9D4 0000
-
-[Select Home Team Score\9]
-Type = Gameshark
-Activation = EndFrame
-8008A640 0009
-8008D1E8 0009
-8008A9DC 0009
-
-[Select Home Team Score\0]
-Type = Gameshark
-Activation = EndFrame
-8008A640 0000
-8008D1E8 0000
-8008A9DC 0000
+8008A640 000?
+8008D1E8 000?
+8008A9DC 000?
+OptionRange = 0:9
 
 [Have All Teams]
 Type = Gameshark

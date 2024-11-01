@@ -17,105 +17,30 @@ Activation = EndFrame
 D00F8C62 FBFF
 800D6C22 0001
 
-[Select Level Non Tournament Modes\Minneapolis]
+[Select Level Non Tournament Modes]
 Type = Gameshark
 Activation = EndFrame
-800A96FC 0000
-
-[Select Level Non Tournament Modes\Cape Canaveral]
-Type = Gameshark
-Activation = EndFrame
-800A96FC 0001
-
-[Select Level Non Tournament Modes\Ginza(Glitch)]
-Type = Gameshark
-Activation = EndFrame
-800A96FC 0002
-
-[Select Level Non Tournament Modes\Sicily]
-Type = Gameshark
-Activation = EndFrame
-800A96FC 0003
-
-[Select Level Non Tournament Modes\Detroit]
-Type = Gameshark
-Activation = EndFrame
-800A96FC 0004
-
-[Select Level Non Tournament Modes\Greece]
-Type = Gameshark
-Activation = EndFrame
-800A96FC 0005
-
-[Select Level Non Tournament Modes\Monaco]
-Type = Gameshark
-Activation = EndFrame
-800A96FC 0006
-
-[Select Level Non Tournament Modes\Red Square]
-Type = Gameshark
-Activation = EndFrame
-800A96FC 0007
-
-[Select Level Non Tournament Modes\St Petersburg]
-Type = Gameshark
-Activation = EndFrame
-800A96FC 0008
-
-[Select Level Non Tournament Modes\Rome]
-Type = Gameshark
-Activation = EndFrame
-800A96FC 0009
-
-[Select Level Non Tournament Modes\Castle Menhdhiem]
-Type = Gameshark
-Activation = EndFrame
-800A96FC 000A
-
-[Select Level Non Tournament Modes\Atlantis]
-Type = Gameshark
-Activation = EndFrame
-800A96FC 000B
-
-[Select Level Non Tournament Modes\NY Sewers]
-Type = Gameshark
-Activation = EndFrame
-800A96FC 000C
-
-[Select Level Non Tournament Modes\Tokyo Harbor]
-Type = Gameshark
-Activation = EndFrame
-800A96FC 000D
-
-[Select Level Non Tournament Modes\Fort Knox]
-Type = Gameshark
-Activation = EndFrame
-800A96FC 000E
-
-[Select Level Non Tournament Modes\Pisa]
-Type = Gameshark
-Activation = EndFrame
-800A96FC 000F
-
-[Select Level Non Tournament Modes\Pittsburg]
-Type = Gameshark
-Activation = EndFrame
-800A96FC 0010
-
-[Select Level Non Tournament Modes\Leningrad]
-Type = Gameshark
-Activation = EndFrame
-800A96FC 0011
-
-[Select Level Non Tournament Modes\Kyoto]
-Type = Gameshark
-Activation = EndFrame
-800A96FC 0012
-
-[Select Level Non Tournament Modes\Osaka]
-Type = Gameshark
-Activation = EndFrame
-800A96FC 0013
+800A96FC ????
+Option = Minneapolis:0x0000
+Option = Cape Canaveral:0x0001
+Option = Ginza(Glitch):0x0002
+Option = Sicily:0x0003
+Option = Detroit:0x0004
+Option = Greece:0x0005
+Option = Monaco:0x0006
+Option = Red Square:0x0007
+Option = St Petersburg:0x0008
+Option = Rome:0x0009
+Option = Castle Menhdhiem:0x000A
+Option = Atlantis:0x000B
+Option = NY Sewers:0x000C
+Option = Tokyo Harbor:0x000D
+Option = Fort Knox:0x000E
+Option = Pisa:0x000F
+Option = Pittsburg:0x0010
+Option = Leningrad:0x0011
+Option = Kyoto:0x0012
+Option = Osaka:0x0013
 
 [Infinite 3 Way Missile (On Pickup)]
 Type = Gameshark

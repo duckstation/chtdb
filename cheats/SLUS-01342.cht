@@ -48,58 +48,19 @@ Activation = EndFrame
 90023610 24020000
 90023614 AE024330
 
-[Select Stage\Stage 01]
+[Select Stage]
 Type = Gameshark
 Activation = EndFrame
-8011EFEC 0000
-
-[Select Stage\Stage 02]
-Type = Gameshark
-Activation = EndFrame
-8011EFEC 0001
-
-[Select Stage\Stage 03]
-Type = Gameshark
-Activation = EndFrame
-8011EFEC 0002
-
-[Select Stage\Stage 04]
-Type = Gameshark
-Activation = EndFrame
-8011EFEC 0003
-
-[Select Stage\Stage 05]
-Type = Gameshark
-Activation = EndFrame
-8011EFEC 0004
-
-[Select Stage\Stage 06]
-Type = Gameshark
-Activation = EndFrame
-8011EFEC 0005
-
-[Select Stage\Stage 07]
-Type = Gameshark
-Activation = EndFrame
-8011EFEC 0006
-
-[Select Stage\Stage 08]
-Type = Gameshark
-Activation = EndFrame
-8011EFEC 0007
-
-[Select Stage\Stage 09]
-Type = Gameshark
-Activation = EndFrame
-8011EFEC 0008
-
-[Select Stage\Stage 10]
-Type = Gameshark
-Activation = EndFrame
-8011EFEC 0009
-
-[Select Stage\Stage 11]
-Type = Gameshark
-Activation = EndFrame
-8011EFEC 000A
+8011EFEC ????
+Option = Stage 01:0x0000
+Option = Stage 02:0x0001
+Option = Stage 03:0x0002
+Option = Stage 04:0x0003
+Option = Stage 05:0x0004
+Option = Stage 06:0x0005
+Option = Stage 07:0x0006
+Option = Stage 08:0x0007
+Option = Stage 09:0x0008
+Option = Stage 10:0x0009
+Option = Stage 11:0x000A
 

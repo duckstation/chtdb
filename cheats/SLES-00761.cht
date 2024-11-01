@@ -1,24 +1,16 @@
 ; CHTDB: ; [ Viva Football (Europe) {SLES-00761} ]
 
-[Select Home Team Score\9 Goals]
+[Select Home Team Score]
 Type = Gameshark
 Activation = EndFrame
-8007D838 0009
+8007D838 00??
+OptionRange = 0:9
 
-[Select Home Team Score\0 Goals]
+[Select Away Team Score]
 Type = Gameshark
 Activation = EndFrame
-8007D838 0000
-
-[Select Away Team Score\9 Goals]
-Type = Gameshark
-Activation = EndFrame
-8007D83C 0009
-
-[Select Away Team Score\0 Goals]
-Type = Gameshark
-Activation = EndFrame
-8007D83C 0000
+8007D83C 00??
+OptionRange = 0:9
 
 [Swirly Possession Marker]
 Type = Gameshark

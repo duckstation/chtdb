@@ -37,25 +37,14 @@ Type = Gameshark
 Activation = EndFrame
 800B4F54 03E7
 
-[Normaal Hoofd]
+[Select Hoofd]
 Type = Gameshark
 Activation = EndFrame
-80092B7E 0000
-
-[Groot Hoofd]
-Type = Gameshark
-Activation = EndFrame
-80092B7E 0100
-
-[Groter Hoofd]
-Type = Gameshark
-Activation = EndFrame
-80092B7E 02BC
-
-[Gigantisch Hoofd]
-Type = Gameshark
-Activation = EndFrame
-80092B7E 03E7
+80092B7E ????
+Option = Normaal Hoofd:0x0000
+Option = Groot Hoofd:0x0100
+Option = Groter Hoofd:0x02BC
+Option = Gigantisch Hoofd:0x03E7
 
 [Vreemde Sprong Als je R2 en X tegelijkertijd indrukt spring je naar een onwillekeurige plaats.]
 Type = Gameshark

@@ -21,43 +21,16 @@ Activation = EndFrame
 D00074BC 0001
 80056044 0000
 
-[Select Car\Beginner Car]
+[Select Car]
 Type = Gameshark
 Activation = EndFrame
-800B2760 0000
-
-[Select Car\Advanced Car]
-Type = Gameshark
-Activation = EndFrame
-800B2760 0001
-
-[Select Car\Expert Car]
-Type = Gameshark
-Activation = EndFrame
-800B2760 0002
-
-[Select Car\Extreme Car]
-Type = Gameshark
-Activation = EndFrame
-800B2760 0003
-
-[Select Car\Secret Car A (Bus)]
-Type = Gameshark
-Activation = EndFrame
-800B2760 0004
-
-[Select Car\Secret Car B]
-Type = Gameshark
-Activation = EndFrame
-800B2760 0005
-
-[Select Car\Secret Car C (Beetle)]
-Type = Gameshark
-Activation = EndFrame
-800B2760 0006
-
-[Select Car\Secret Car D]
-Type = Gameshark
-Activation = EndFrame
-800B2760 0007
+800B2760 ????
+Option = Beginner Car:0x0000
+Option = Advanced Car:0x0001
+Option = Expert Car:0x0002
+Option = Extreme Car:0x0003
+Option = Secret Car A (Bus):0x0004
+Option = Secret Car B:0x0005
+Option = Secret Car C (Beetle):0x0006
+Option = Secret Car D:0x0007
 

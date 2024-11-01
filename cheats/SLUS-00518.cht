@@ -10,35 +10,16 @@ Type = Gameshark
 Activation = EndFrame
 90039998 00000000
 
-[Select Mission\Island Mission]
+[Select Mission]
 Type = Gameshark
 Activation = EndFrame
-80081A88 0102
-
-[Select Mission\Peace Mission Part 1]
-Type = Gameshark
-Activation = EndFrame
-80081A88 0202
-
-[Select Mission\Peace Mission Part 2]
-Type = Gameshark
-Activation = EndFrame
-80081A88 0302
-
-[Select Mission\Dmz Mission]
-Type = Gameshark
-Activation = EndFrame
-80081A88 0402
-
-[Select Mission\Fortress Mission]
-Type = Gameshark
-Activation = EndFrame
-80081A88 0502
-
-[Select Mission\Lightning Mission]
-Type = Gameshark
-Activation = EndFrame
-80081A88 0602
+80081A88 ????
+Option = Island Mission:0x0102
+Option = Peace Mission Part 1:0x0202
+Option = Peace Mission Part 2:0x0302
+Option = Dmz Mission:0x0402
+Option = Fortress Mission:0x0502
+Option = Lightning Mission:0x0602
 
 [Delta Apache\Infinite Fuel]
 Type = Gameshark

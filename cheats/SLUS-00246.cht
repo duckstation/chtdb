@@ -15,54 +15,15 @@ Type = Gameshark
 Activation = EndFrame
 D0076E94 0000
 30076E94 0001
-
-[P1 Select Character\Shawn Michaels]
-Type = Gameshark
-Activation = EndFrame
-301B2F90 0000
-
-[P1 Select Character\Brett Hart]
-Type = Gameshark
-Activation = EndFrame
-301B2F90 0001
-
-[P1 Select Character\Ahmed Johnson]
-Type = Gameshark
-Activation = EndFrame
-301B2F90 0002
-
-[P1 Select Character\Undertaker]
-Type = Gameshark
-Activation = EndFrame
-301B2F90 0003
-
-[P1 Select Character\Ultimate Warrior]
-Type = Gameshark
-Activation = EndFrame
-301B2F90 0004
-
-[P1 Select Character\Vader]
-Type = Gameshark
-Activation = EndFrame
-301B2F90 0005
-
-[P1 Select Character\Owen Hart]
-Type = Gameshark
-Activation = EndFrame
-301B2F90 0006
-
-[P1 Select Character\British Bulldog]
-Type = Gameshark
-Activation = EndFrame
-301B2F90 0007
-
-[P1 Select Character\Goldust]
-Type = Gameshark
-Activation = EndFrame
-301B2F90 0008
-
-[P1 Select Character\Hunter H.H.]
-Type = Gameshark
-Activation = EndFrame
-301B2F90 0009
+301B2F90 ????
+Option = Shawn Michaels:0x0000
+Option = Brett Hart:0x0001
+Option = Ahmed Johnson:0x0002
+Option = Undertaker:0x0003
+Option = Ultimate Warrior:0x0004
+Option = Vader:0x0005
+Option = Owen Hart:0x0006
+Option = British Bulldog:0x0007
+Option = Goldust:0x0008
+Option = Hunter H.H.:0x0009
 

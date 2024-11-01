@@ -1,24 +1,16 @@
 ; CHTDB: ; [ NBA Fastbreak '98 (USA) (1997) (Midway Home Entertainment) {SLUS-00492} <nbafb98> ]
 
-[Select Home Team Score\0]
+[Select Home Team Score]
 Type = Gameshark
 Activation = EndFrame
-800EB230 0000
+800EB230 00??
+OptionRange = 0:100
 
-[Select Home Team Score\100]
+[Select Away Team Score]
 Type = Gameshark
 Activation = EndFrame
-800EB230 0064
-
-[Select Away Team Score\0]
-Type = Gameshark
-Activation = EndFrame
-800EB234 0000
-
-[Select Away Team Score\100]
-Type = Gameshark
-Activation = EndFrame
-800EB234 0064
+800EB234 00??
+OptionRange = 0:100
 
 [Max Agility]
 Type = Gameshark

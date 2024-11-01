@@ -10,43 +10,16 @@ Type = Gameshark
 Activation = EndFrame
 801A3E74 0063
 
-[Character Inspector Gadget]
+[Select Character]
 Type = Gameshark
 Activation = EndFrame
-301A4468 0000
-
-[Character Penny]
-Type = Gameshark
-Activation = EndFrame
-301A4468 0001
-
-[Character Brain]
-Type = Gameshark
-Activation = EndFrame
-301A4468 0002
-
-[Character Chief Quimby]
-Type = Gameshark
-Activation = EndFrame
-301A4468 0003
-
-[Character MAD Agent]
-Type = Gameshark
-Activation = EndFrame
-301A4468 0004
-
-[Character Spy]
-Type = Gameshark
-Activation = EndFrame
-301A4468 0005
-
-[Character ClOwn]
-Type = Gameshark
-Activation = EndFrame
-301A4468 0006
-
-[Character Cat]
-Type = Gameshark
-Activation = EndFrame
-301A4468 0007
+301A4468 ????
+Option = Inspector Gadget:0x0000
+Option = Penny:0x0001
+Option = Brain:0x0002
+Option = Chief Quimby:0x0003
+Option = MAD Agent:0x0004
+Option = Spy:0x0005
+Option = Clown:0x0006
+Option = Cat:0x0007
 

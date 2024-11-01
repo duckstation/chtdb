@@ -1,9 +1,10 @@
 ; CHTDB: ; [ Crime Killer (USA) (1998) (Interplay Entertainment) {SLUS-00576} <crimekl> ]
 
-[Level Modifier Code (16 Levels 0-F)]
+[Select Level (Levels 0-F)]
 Type = Gameshark
 Activation = EndFrame
 80120630 000?
+OptionRange = 0:0x0F
 
 [Hitting The Streets\More Time]
 Type = Gameshark

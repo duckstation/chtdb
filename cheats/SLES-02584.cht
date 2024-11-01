@@ -45,10 +45,11 @@ Type = Gameshark
 Activation = EndFrame
 8010538C 0001
 
-[Exp-Modifizierer ?0000-FFFF]
+[Exp-Modifizierer]
 Type = Gameshark
 Activation = EndFrame
 80105388 ????
+OptionRange = 0:65535
 
 [Besitze Streitaxt]
 Type = Gameshark

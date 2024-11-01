@@ -41,23 +41,15 @@ Activation = EndFrame
 50000702 0000
 3008323C 00FF
 
-[Select Blue Player Score\9]
+[Select Blue Player Score]
 Type = Gameshark
 Activation = EndFrame
-800900E8 0009
+800900E8 00??
+OptionRange = 0:9
 
-[Select Blue Player Score\0]
+[Select Red Player Score]
 Type = Gameshark
 Activation = EndFrame
-800900E8 0000
-
-[Select Red Player Score\9]
-Type = Gameshark
-Activation = EndFrame
-8009009C 0009
-
-[Select Red Player Score\0]
-Type = Gameshark
-Activation = EndFrame
-8009009C 0000
+8009009C 00??
+OptionRange = 0:9
 

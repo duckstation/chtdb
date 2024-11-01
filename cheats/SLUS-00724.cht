@@ -51,75 +51,24 @@ Type = Gameshark
 Activation = EndFrame
 800A5584 0000
 
-[Select Ball Type\Type 01 (Default)]
+[Select Ball Type]
 Type = Gameshark
 Activation = EndFrame
-300A553C 00
-
-[Select Ball Type\Type 02]
-Type = Gameshark
-Activation = EndFrame
-300A553C 01
-
-[Select Ball Type\Type 03]
-Type = Gameshark
-Activation = EndFrame
-300A553C 02
-
-[Select Ball Type\Type 04]
-Type = Gameshark
-Activation = EndFrame
-300A553C 03
-
-[Select Ball Type\Type 05]
-Type = Gameshark
-Activation = EndFrame
-300A553C 04
-
-[Select Ball Type\Type 06]
-Type = Gameshark
-Activation = EndFrame
-300A553C 05
-
-[Select Ball Type\Type 07]
-Type = Gameshark
-Activation = EndFrame
-300A553C 06
-
-[Select Ball Type\Type 08]
-Type = Gameshark
-Activation = EndFrame
-300A553C 07
-
-[Select Ball Type\Type 09]
-Type = Gameshark
-Activation = EndFrame
-300A553C 08
-
-[Select Ball Type\Type 10]
-Type = Gameshark
-Activation = EndFrame
-300A553C 09
-
-[Select Ball Type\Type 11]
-Type = Gameshark
-Activation = EndFrame
-300A553C 0A
-
-[Select Ball Type\Type 12]
-Type = Gameshark
-Activation = EndFrame
-300A553C 0B
-
-[Select Ball Type\Type 13]
-Type = Gameshark
-Activation = EndFrame
-300A553C 0C
-
-[Select Ball Type\Type 14]
-Type = Gameshark
-Activation = EndFrame
-300A553C 0D
+300A553C ????
+Option = Type 01 (Default):0x00
+Option = Type 02:0x01
+Option = Type 03:0x02
+Option = Type 04:0x03
+Option = Type 05:0x04
+Option = Type 06:0x05
+Option = Type 07:0x06
+Option = Type 08:0x07
+Option = Type 09:0x08
+Option = Type 10:0x09
+Option = Type 11:0x0A
+Option = Type 12:0x0B
+Option = Type 13:0x0C
+Option = Type 14:0x0D
 ;#### PATCHES LISTED BELOW ####
 
 [Select Widescreen Aspect Ratio\16-9]

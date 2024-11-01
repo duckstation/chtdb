@@ -5,25 +5,17 @@ Type = Gameshark
 Activation = EndFrame
 8009206C 3333
 
-[Select Home Team Score\100]
+[Select Home Team Score]
 Type = Gameshark
 Activation = EndFrame
-80092228 0064
+80092228 00??
+OptionRange = 0:100
 
-[Select Home Team Score\0]
+[Select Away Team Score]
 Type = Gameshark
 Activation = EndFrame
-80092228 0000
-
-[Select Away Team Score\100]
-Type = Gameshark
-Activation = EndFrame
-8009245C 0064
-
-[Select Away Team Score\0]
-Type = Gameshark
-Activation = EndFrame
-8009245C 0000
+8009245C 00??
+OptionRange = 0:100
 
 [Infinite Creation Points]
 Type = Gameshark

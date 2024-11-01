@@ -54,37 +54,37 @@ Activation = EndFrame
 [Cambiar el Estado del Digimon a Sueño (Zzz)]
 Type = Gameshark
 Activation = EndFrame
-301405C8 0001
+311405C8 0001
 
 [Cambiar el Estado del Digimon a Cansado (Sudor)]
 Type = Gameshark
 Activation = EndFrame
-301405C8 0002
+311405C8 0002
 
 [Cambiar el Estado del Digimon a Hambriento (Carne)]
 Type = Gameshark
 Activation = EndFrame
-301405C8 0004
+311405C8 0004
 
 [Cambiar el Estado del Digimon a Defecar (Caca)]
 Type = Gameshark
 Activation = EndFrame
-301405C8 0008
+311405C8 0008
 
 [Cambiar el Estado del Digimon a Herido (Vendas)]
 Type = Gameshark
 Activation = EndFrame
-301405C8 0020
+3101405C8 0020
 
 [Cambiar el Estado del Digimon a Enfermo (Jeringa)]
 Type = Gameshark
 Activation = EndFrame
-301405C8 0040
+311405C8 0040
 
 [Todos los Estados del Digimon Alterados]
 Type = Gameshark
 Activation = EndFrame
-301405C8 007F
+311405C8 007F
 
 [Parámetros al Entrenar]
 Type = Gameshark

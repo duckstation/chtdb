@@ -1,22 +1,14 @@
 ; CHTDB: ; [ NCAA Final Four 2001 (USA) (2000) (Sony Computer Entertainment America) {SCUS-94579} <ncaaf2k1> ]
 
-[Select Home Team Score\0]
+[Select Home Team Score]
 Type = Gameshark
 Activation = EndFrame
-80062674 0000
+80062674 00??
+OptionRange = 0:99
 
-[Select Home Team Score\99]
+[Select Away Team Score]
 Type = Gameshark
 Activation = EndFrame
-80062674 0063
-
-[Select Away Team Score\0]
-Type = Gameshark
-Activation = EndFrame
-8006318C 0000
-
-[Select Away Team Score\99]
-Type = Gameshark
-Activation = EndFrame
-8006318C 0063
+8006318C 00??
+OptionRange = 0:99
 

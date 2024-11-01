@@ -1,22 +1,14 @@
 ; CHTDB: ; [ Goal Storm (USA) (1996) (Konami of America) {SLUS-00055} <goalstrm> ]
 
-[Select Team 1 Score\9 goals]
+[Select Team 1 Score]
 Type = Gameshark
 Activation = EndFrame
-30161730 0009
+30161730 00??
+OptionRange = 0:9
 
-[Select Team 1 Score\0 goals]
+[Select Team 2 Score]
 Type = Gameshark
 Activation = EndFrame
-30161730 0009
-
-[Select Team 2 Score\9 goals]
-Type = Gameshark
-Activation = EndFrame
-30161731 0009
-
-[Select Team 2 Score\0 goals]
-Type = Gameshark
-Activation = EndFrame
-30161731 0000
+30161731 00??
+OptionRange = 0:9
 

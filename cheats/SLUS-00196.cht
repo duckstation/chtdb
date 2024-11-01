@@ -1,24 +1,16 @@
 ; CHTDB: ; [ College Slam (USA) (1996) (Acclaim Entertainment) {SLUS-00196} <collslam> ]
 
-[Team 1  Select Score\999 Points]
+[Team 1 Select Score]
 Type = Gameshark
 Activation = EndFrame
-80065510 03E7
+80065510 0???
+OptionRange = 0:999
 
-[Team 1 Select Score\0 points]
+[Team 2 Select Score]
 Type = Gameshark
 Activation = EndFrame
-80065510 0000
-
-[Team 2 Select Score\0 Points]
-Type = Gameshark
-Activation = EndFrame
-80065520 0000
-
-[Team 2 Select Score\99 Points]
-Type = Gameshark
-Activation = EndFrame
-80065520 0063
+80065520 0???
+OptionRange = 0:999
 
 [Team 1 Infinite Boost]
 Type = Gameshark

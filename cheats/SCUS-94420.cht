@@ -1,22 +1,14 @@
 ; CHTDB: ; [ NFL Xtreme 2 (USA) (1999) (989 Sports) {SCUS-94420} <nflxtrm2> ]
 
-[Select Away Team Score\99]
+[Select Home Team Score]
 Type = Gameshark
 Activation = EndFrame
-800CEF22 0063
+800CEF20 00??
+OptionRange = 0:99
 
-[Select Home Team Score\99]
+[Select Away Team Score]
 Type = Gameshark
 Activation = EndFrame
-800CEF20 0063
-
-[Select Away Team Score\0]
-Type = Gameshark
-Activation = EndFrame
-800CEF22 0000
-
-[Select Home Team Score\0]
-Type = Gameshark
-Activation = EndFrame
-800CEF20 0000
+800CEF22 00??
+OptionRange = 0:99
 

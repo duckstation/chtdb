@@ -96,33 +96,9 @@ Activation = EndFrame
 800B0734 FFFF
 800B97E6 FFFF
 
-[Select Scenario\1]
+[Select Scenario]
 Type = Gameshark
 Activation = EndFrame
-300AE8B0 0001
-
-[Select Scenario\2]
-Type = Gameshark
-Activation = EndFrame
-300AE8B0 0002
-
-[Select Scenario\3]
-Type = Gameshark
-Activation = EndFrame
-300AE8B0 0003
-
-[Select Scenario\4]
-Type = Gameshark
-Activation = EndFrame
-300AE8B0 0004
-
-[Select Scenario\5]
-Type = Gameshark
-Activation = EndFrame
-300AE8B0 0005
-
-[Select Scenario\6]
-Type = Gameshark
-Activation = EndFrame
-300AE8B0 0006
+300AE8B0 000?
+OptionRange = 1:6
 

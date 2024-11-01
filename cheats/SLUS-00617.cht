@@ -1,82 +1,71 @@
 ; CHTDB: ; [ NFL Blitz (USA) (1998) (Midway Home Entertainment) {SLUS-00617} <blitz> ]
 
-[Home Team Gains A Extra Point\Always]
+[Home Team Gains A Extra Point]
 Type = Gameshark
 Activation = EndFrame
-30150745 0001
+30150745 ????
+Option = Always:0x0001
+Option = Never:0x0000
 
-[Home Team Gains A Extra Point\Never]
+[Away Team Gains A Extra Point]
 Type = Gameshark
 Activation = EndFrame
-30150745 0000
+30150744 ????
+Option = Always:0x0001
+Option = Never:0x0000
 
-[Away Team Gains A Extra Point\Always]
+[Points Gained Per Touchdown]
 Type = Gameshark
 Activation = EndFrame
-30150744 0001
+800435E0 ????
+Option = 0:0x0000
+Option = 10:0x000A
 
-[Away Team Gains A Extra Point\Never]
+[Select Home Team 1st Quarter Score]
 Type = Gameshark
 Activation = EndFrame
-30150744 0000
+80171F24 00??
+OptionRange = 0:100
 
-[Points Gained Per Touchdown\10]
+[Select Home Team 2nd Quarter Score]
 Type = Gameshark
 Activation = EndFrame
-800435E0 000A
+80171F28 00??
+OptionRange = 0:100
 
-[Points Gained Per Touchdown\0]
+[Select Home Team 3rd Quarter Score]
 Type = Gameshark
 Activation = EndFrame
-800435E0 0000
+80171F2C 00??
+OptionRange = 0:100
 
-[1st Quarter 0 Points (Home Team Score Modifier)]
+[Select Home Team 4th Quarter Score]
 Type = Gameshark
 Activation = EndFrame
-80171F24 0000
+80171F30 00??
+OptionRange = 0:100
 
-[2nd Quarter 0 Points (Home Team Score Modifier)]
+[Select Away Team 1st Quarter Score]
 Type = Gameshark
 Activation = EndFrame
-80171F28 0000
+80171F40 00??
+OptionRange = 0:100
 
-[3rd Quarter 0 Points (Home Team Score Modifier)]
+[Select Away Team 2nd Quarter Score]
 Type = Gameshark
 Activation = EndFrame
-80171F2C 0000
+80171F44 00??
+OptionRange = 0:100
 
-[4th Quarter 100 Points (Home Team Score Modifier)]
+[Select Away Team 3rd Quarter Score]
 Type = Gameshark
 Activation = EndFrame
-80171F30 0064
+80171F48 00??
+OptionRange = 0:100
 
-[4th Quarter 0 Points (Home Team Score Modifier)]
+[Select Away Team 4th Quarter Score]
 Type = Gameshark
 Activation = EndFrame
-80171F30 0000
-
-[1st Quarter 0 Points (Away Team Score Modifier)]
-Type = Gameshark
-Activation = EndFrame
-80171F40 0000
-
-[2nd Quarter 0 Points (Away Team Score Modifier)]
-Type = Gameshark
-Activation = EndFrame
-80171F44 0000
-
-[3rd Quarter 0 Points (Away Team Score Modifier)]
-Type = Gameshark
-Activation = EndFrame
-80171F48 0000
-
-[4th Quarter 100 Points (Away Team Score Modifier)]
-Type = Gameshark
-Activation = EndFrame
-80171F4C 0064
-
-[4th Quarter 0 Points (Away Team Score Modifier)]
-Type = Gameshark
-Activation = EndFrame
-80171F4C 0000
+80171F4C 00??
+OptionRange = 0:100
 

@@ -10,25 +10,14 @@ Type = Gameshark
 Activation = EndFrame
 80079ED8 0000
 
-[Select Perm Lap\Lap 2]
+[Select Perm Lap]
 Type = Gameshark
 Activation = EndFrame
-800A8C5C 0002
-
-[Select Perm Lap\Lap 3]
-Type = Gameshark
-Activation = EndFrame
-800A8C5C 0003
-
-[Select Perm Lap\Lap 4]
-Type = Gameshark
-Activation = EndFrame
-800A8C5C 0004
-
-[Select Perm Lap\Lap 5]
-Type = Gameshark
-Activation = EndFrame
-800A8C5C 0005
+800A8C5C ????
+Option = Lap 2:0x0002
+Option = Lap 3:0x0003
+Option = Lap 4:0x0004
+Option = Lap 5:0x0005
 
 [Max Money (Profile)]
 Type = Gameshark
@@ -51,10 +40,11 @@ Activation = EndFrame
 D005F8E8 0030
 8005F8EA 1000
 
-[Rider Modifier (00-0F)]
+[Select Rider (00-0F)]
 Type = Gameshark
 Activation = EndFrame
 800746BC 00??
+OptionRange = 0:0x0F
 
 [Use Any Bike or Rider]
 Type = Gameshark

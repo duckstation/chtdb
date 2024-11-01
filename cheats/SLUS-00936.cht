@@ -22,78 +22,23 @@ Type = Gameshark
 Activation = EndFrame
 8008F994 0001
 
-[Select Level\Episode 1 Stage 1]
+[Select Level]
 Type = Gameshark
 Activation = EndFrame
-80098C1C 00E0
-
-[Select Level\Episode 1 Stage 2]
-Type = Gameshark
-Activation = EndFrame
-80098C1C 00E1
-
-[Select Level\Episode 1 Stage 3]
-Type = Gameshark
-Activation = EndFrame
-80098C1C 00E2
-
-[Select Level\Episode 1 Stage 4]
-Type = Gameshark
-Activation = EndFrame
-80098C1C 00E3
-
-[Select Level\Episode 2 Stage 1]
-Type = Gameshark
-Activation = EndFrame
-80098C1C 00E4
-
-[Select Level\Episode 2 Stage 2]
-Type = Gameshark
-Activation = EndFrame
-80098C1C 00E5
-
-[Select Level\Episode 2 Stage 3]
-Type = Gameshark
-Activation = EndFrame
-80098C1C 00E6
-
-[Select Level\Episode 3 Stage 1]
-Type = Gameshark
-Activation = EndFrame
-80098C1C 00E7
-
-[Select Level\Episode 3 Stage 2]
-Type = Gameshark
-Activation = EndFrame
-80098C1C 00E8
-
-[Select Level\Episode 3 Stage 3]
-Type = Gameshark
-Activation = EndFrame
-80098C1C 00E9
-
-[Select Level\Episode 4 Stage 1]
-Type = Gameshark
-Activation = EndFrame
-80098C1C 00EA
-
-[Select Level\Episode 4 Stage 2]
-Type = Gameshark
-Activation = EndFrame
-80098C1C 00EB
-
-[Select Level\Episode 5 Stage 1]
-Type = Gameshark
-Activation = EndFrame
-80098C1C 00EC
-
-[Select Level\Episode 5 Stage 2]
-Type = Gameshark
-Activation = EndFrame
-80098C1C 00ED
-
-[Select Level\Episode 5 Stage 3]
-Type = Gameshark
-Activation = EndFrame
-80098C1C 00EE
+80098C1C ????
+Option = Episode 1 Stage 1:0x00E0
+Option = Episode 1 Stage 2:0x00E1
+Option = Episode 1 Stage 3:0x00E2
+Option = Episode 1 Stage 4:0x00E3
+Option = Episode 2 Stage 1:0x00E4
+Option = Episode 2 Stage 2:0x00E5
+Option = Episode 2 Stage 3:0x00E6
+Option = Episode 3 Stage 1:0x00E7
+Option = Episode 3 Stage 2:0x00E8
+Option = Episode 3 Stage 3:0x00E9
+Option = Episode 4 Stage 1:0x00EA
+Option = Episode 4 Stage 2:0x00EB
+Option = Episode 5 Stage 1:0x00EC
+Option = Episode 5 Stage 2:0x00ED
+Option = Episode 5 Stage 3:0x00EE
 

@@ -30,20 +30,13 @@ Type = Gameshark
 Activation = EndFrame
 800D4F1C 0063
 
-[Select Starting Lap\2]
+[Select Starting Lap]
 Type = Gameshark
 Activation = EndFrame
-80086E38 0002
-
-[Select Starting Lap\3]
-Type = Gameshark
-Activation = EndFrame
-80086E38 0003
-
-[Select Starting Lap\4]
-Type = Gameshark
-Activation = EndFrame
-80086E38 0004
+80086E38 ????
+Option = 2:0x0002
+Option = 3:0x0003
+Option = 4:0x0004
 
 [Big Head + Tire Mode]
 Type = Gameshark

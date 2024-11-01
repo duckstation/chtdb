@@ -15,165 +15,42 @@ Type = Gameshark
 Activation = EndFrame
 A60B364C 00C80001
 
-[P1 Select Character\Zhao Yun]
+[P1 Select Character]
 Type = Gameshark
 Activation = EndFrame
-800B81C6 0000
-
-[P1 Select Character\Zhao Yun (alternate costume)]
-Type = Gameshark
-Activation = EndFrame
-800B81C6 0001
-
-[P1 Select Character\Guan Yu]
-Type = Gameshark
-Activation = EndFrame
-800B81C6 0002
-
-[P1 Select Character\Guan Yu (alternate costume)]
-Type = Gameshark
-Activation = EndFrame
-800B81C6 0003
-
-[P1 Select Character\Zhang Fei]
-Type = Gameshark
-Activation = EndFrame
-800B81C6 0004
-
-[P1 Select Character\Zhang Fei (alternate costume)]
-Type = Gameshark
-Activation = EndFrame
-800B81C6 0005
-
-[P1 Select Character\Xia Hou Dun]
-Type = Gameshark
-Activation = EndFrame
-800B81C6 0006
-
-[P1 Select Character\Xia Hou Dun (alternate costume)]
-Type = Gameshark
-Activation = EndFrame
-800B81C6 0007
-
-[P1 Select Character\Dian Wei]
-Type = Gameshark
-Activation = EndFrame
-800B81C6 0008
-
-[P1 Select Character\Dian Wei (alternate costume)]
-Type = Gameshark
-Activation = EndFrame
-800B81C6 0009
-
-[P1 Select Character\Xu Zhu]
-Type = Gameshark
-Activation = EndFrame
-800B81C6 000A
-
-[P1 Select Character\Xu Zhu (alternate costume)]
-Type = Gameshark
-Activation = EndFrame
-800B81C6 000B
-
-[P1 Select Character\Zhou Yu]
-Type = Gameshark
-Activation = EndFrame
-800B81C6 000C
-
-[P1 Select Character\Zhou Yu (alternate costume)]
-Type = Gameshark
-Activation = EndFrame
-800B81C6 000D
-
-[P1 Select Character\Luxun]
-Type = Gameshark
-Activation = EndFrame
-800B81C6 000E
-
-[P1 Select Character\Luxun (alternate costume)]
-Type = Gameshark
-Activation = EndFrame
-800B81C6 000F
-
-[P1 Select Character\Taishi Ci]
-Type = Gameshark
-Activation = EndFrame
-800B81C6 0010
-
-[P1 Select Character\Taishi Ci (alternate costume)]
-Type = Gameshark
-Activation = EndFrame
-800B81C6 0011
-
-[P1 Select Character\Dia Chan]
-Type = Gameshark
-Activation = EndFrame
-800B81C6 0012
-
-[P1 Select Character\Dia Chan (alternate costume)]
-Type = Gameshark
-Activation = EndFrame
-800B81C6 0013
-
-[P1 Select Character\Zhuge Liang]
-Type = Gameshark
-Activation = EndFrame
-800B81C6 0014
-
-[P1 Select Character\Zhuge Liang (alternate costume)]
-Type = Gameshark
-Activation = EndFrame
-800B81C6 0015
-
-[P1 Select Character\Cao Cao]
-Type = Gameshark
-Activation = EndFrame
-800B81C6 0016
-
-[P1 Select Character\Cao Cao (alternate costume)]
-Type = Gameshark
-Activation = EndFrame
-800B81C6 0017
-
-[P1 Select Character\Lu Bu]
-Type = Gameshark
-Activation = EndFrame
-800B81C6 0018
-
-[P1 Select Character\Lu Bu (alternate costume)]
-Type = Gameshark
-Activation = EndFrame
-800B81C6 0019
-
-[P1 Select Character\Sun Shang Xiang]
-Type = Gameshark
-Activation = EndFrame
-800B81C6 001A
-
-[P1 Select Character\Sun Shang Xiang (alternate costume)]
-Type = Gameshark
-Activation = EndFrame
-800B81C6 001B
-
-[P1 Select Character\Nobunaga]
-Type = Gameshark
-Activation = EndFrame
-800B81C6 001C
-
-[P1 Select Character\Nobunaga (alternate costume)]
-Type = Gameshark
-Activation = EndFrame
-800B81C6 001D
-
-[P1 Select Character\Toukichi]
-Type = Gameshark
-Activation = EndFrame
-800B81C6 001E
-
-[P1 Select Character\Toukichi (alternate costume)]
-Type = Gameshark
-Activation = EndFrame
-800B81C6 001F
+800B81C6 ????
+Option = Zhao Yun:0x0000
+Option = Zhao Yun (alternate costume):0x0001
+Option = Guan Yu:0x0002
+Option = Guan Yu (alternate costume):0x0003
+Option = Zhang Fei:0x0004
+Option = Zhang Fei (alternate costume):0x0005
+Option = Xia Hou Dun:0x0006
+Option = Xia Hou Dun (alternate costume):0x0007
+Option = Dian Wei:0x0008
+Option = Dian Wei (alternate costume):0x0009
+Option = Xu Zhu:0x000A
+Option = Xu Zhu (alternate costume):0x000B
+Option = Zhou Yu:0x000C
+Option = Zhou Yu (alternate costume):0x000D
+Option = Luxun:0x000E
+Option = Luxun (alternate costume):0x000F
+Option = Taishi Ci:0x0010
+Option = Taishi Ci (alternate costume):0x0011
+Option = Dia Chan:0x0012
+Option = Dia Chan (alternate costume):0x0013
+Option = Zhuge Liang:0x0014
+Option = Zhuge Liang (alternate costume):0x0015
+Option = Cao Cao:0x0016
+Option = Cao Cao (alternate costume):0x0017
+Option = Lu Bu:0x0018
+Option = Lu Bu (alternate costume):0x0019
+Option = Sun Shang Xiang:0x001A
+Option = Sun Shang Xiang (alternate costume):0x001B
+Option = Nobunaga:0x001C
+Option = Nobunaga (alternate costume):0x001D
+Option = Toukichi:0x001E
+Option = Toukichi (alternate costume):0x001F
 ;#### PATCHES LISTED BELOW ####
 
 [Select Widescreen Aspect Ratio\16-9]

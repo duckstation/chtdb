@@ -1,24 +1,16 @@
 ; CHTDB: ; [ NCAA March Madness 99 (USA) (1998) (Electronic Arts) {SLUS-00805} <ncaamm99> ]
 
-[Select Home Team Score\100]
+[Select Home Team Score]
 Type = Gameshark
 Activation = EndFrame
-800152C4 0064
+800152C4 00??
+OptionRange = 0:100
 
-[Select Home Team Score\0]
+[Select Away Team Score]
 Type = Gameshark
 Activation = EndFrame
-800152C4 0000
-
-[Select Away Team Score\100]
-Type = Gameshark
-Activation = EndFrame
-80016700 0064
-
-[Select Away Team Score\0]
-Type = Gameshark
-Activation = EndFrame
-80016700 0000
+80016700 00??
+OptionRange = 0:100
 
 [Infinite Creation Points]
 Type = Gameshark

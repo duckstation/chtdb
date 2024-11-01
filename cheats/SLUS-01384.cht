@@ -15,45 +15,18 @@ Type = Gameshark
 Activation = EndFrame
 8005A828 006B
 
-[Select Starting Level\1 - Castle Entrance]
+[Select Starting Level]
 Type = Gameshark
 Activation = EndFrame
-800592C4 0000
-
-[Select Starting Level\2 - Cave]
-Type = Gameshark
-Activation = EndFrame
-800592C4 0001
-
-[Select Starting Level\3 - Courtyard]
-Type = Gameshark
-Activation = EndFrame
-800592C4 0002
-
-[Select Starting Level\4 - Royal Chapel]
-Type = Gameshark
-Activation = EndFrame
-800592C4 0003
-
-[Select Starting Level\5 - Clock Tower]
-Type = Gameshark
-Activation = EndFrame
-800592C4 0004
-
-[Select Starting Level\6 - Floating Corridor]
-Type = Gameshark
-Activation = EndFrame
-800592C4 0005
-
-[Select Starting Level\7 - Prison]
-Type = Gameshark
-Activation = EndFrame
-800592C4 0006
-
-[Select Starting Level\8 - Final Level - Chronicles]
-Type = Gameshark
-Activation = EndFrame
-800592C4 0007
+800592C4 ????
+Option = 1 - Castle Entrance:0x0000
+Option = 2 - Cave:0x0001
+Option = 3 - Courtyard:0x0002
+Option = 4 - Royal Chapel:0x0003
+Option = 5 - Clock Tower:0x0004
+Option = 6 - Floating Corridor:0x0005
+Option = 7 - Prison:0x0006
+Option = 8 - Final Level - Chronicles:0x0007
 
 [Watch endings / FMVs in Original + Arranged Modes]
 Type = Gameshark

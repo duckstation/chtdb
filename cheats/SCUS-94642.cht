@@ -26,60 +26,21 @@ Activation = EndFrame
 50000504 0000
 301D1E3C 0001
 
-[Select Stage\Buster's Lanes]
+[Select Stage]
 Type = Gameshark
 Activation = EndFrame
-80189BA0 0000
-
-[Select Stage\Holiday Havoc]
-Type = Gameshark
-Activation = EndFrame
-80189BA0 0001
-
-[Select Stage\Gridiron Gore]
-Type = Gameshark
-Activation = EndFrame
-80189BA0 0002
-
-[Select Stage\Carn-O-Maul]
-Type = Gameshark
-Activation = EndFrame
-80189BA0 0003
-
-[Select Stage\Minigolf Mayhem]
-Type = Gameshark
-Activation = EndFrame
-80189BA0 0004
-
-[Select Stage\Easy Death Oven]
-Type = Gameshark
-Activation = EndFrame
-80189BA0 0005
-
-[Select Stage\Shock Therapy]
-Type = Gameshark
-Activation = EndFrame
-80189BA0 0006
-
-[Select Stage\Meat Your Maker]
-Type = Gameshark
-Activation = EndFrame
-80189BA0 0000
-
-[Select Stage\Now Slaying]
-Type = Gameshark
-Activation = EndFrame
-80189BA0 0000
-
-[Select Stage\Playground Peril]
-Type = Gameshark
-Activation = EndFrame
-80189BA0 0000
-
-[Select Stage\Treetop Rumble]
-Type = Gameshark
-Activation = EndFrame
-80189BA0 0000
+80189BA0 ????
+Option = Buster's Lanes:0x0000
+Option = Holiday Havoc:0x0001
+Option = Gridiron Gore:0x0002
+Option = Carn-O-Maul:0x0003
+Option = Minigolf Mayhem:0x0004
+Option = Easy Death Oven:0x0005
+Option = Shock Therapy:0x0006
+Option = Meat Your Maker:0x0007
+Option = Now Slaying:0x0008
+Option = Playground Peril:0x0009
+Option = Treetop Rumble:0x000A
 ;#### PATCHES LISTED BELOW ####
 
 [Select Widescreen Aspect Ratio\16-9]

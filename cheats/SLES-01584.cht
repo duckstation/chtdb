@@ -1,15 +1,5 @@
 ; CHTDB: ; [ FIFA 99 (Europe) {SLES-01584} ]
 
-[Amount Of Goals P1 9 gOALS]
-Type = Gameshark
-Activation = EndFrame
-30034D40 0009
-
-[Amount Of Goals P2 0 goals]
-Type = Gameshark
-Activation = EndFrame
-30034D44 0000
-
 [Infinite Transfers]
 Type = Gameshark
 Activation = EndFrame
@@ -19,4 +9,16 @@ Activation = EndFrame
 Type = Gameshark
 Activation = EndFrame
 80123778 0000
+
+[P1 Select Score]
+Type = Gameshark
+Activation = EndFrame
+30034D40 000?
+OptionRange = 0:10
+
+[P2 Select Score]
+Type = Gameshark
+Activation = EndFrame
+30034D44 000?
+OptionRange = 0:10
 

@@ -111,50 +111,19 @@ Type = Gameshark
 Activation = EndFrame
 800ABD94 0063
 
-[Compy Level\Level Modifier High Ridge]
+[Compy Level\Select Level]
 Type = Gameshark
 Activation = EndFrame
-80050CD0 0001
-
-[Compy Level\Level Modifier Rain Forest]
-Type = Gameshark
-Activation = EndFrame
-80050CD0 0002
-
-[Compy Level\Level Modifier Creek Bed]
-Type = Gameshark
-Activation = EndFrame
-80050CD0 0003
-
-[Compy Level\Level Modifier Aisle of Giants]
-Type = Gameshark
-Activation = EndFrame
-80050CD0 0004
-
-[Compy Level\Level Modifier Sleeping Titan]
-Type = Gameshark
-Activation = EndFrame
-80050CD0 000F
-
-[Compy Level\Level Modifier Plains]
-Type = Gameshark
-Activation = EndFrame
-80050CD0 0005
-
-[Compy Level\Level River's Edge]
-Type = Gameshark
-Activation = EndFrame
-80050CD0 0006
-
-[Compy Level\Level Modifier Beneath The Surface]
-Type = Gameshark
-Activation = EndFrame
-80050CD0 0007
-
-[Compy Level\Level Modifier Tidal Cavern]
-Type = Gameshark
-Activation = EndFrame
-80050CD0 0010
+80050CD0 ????
+Option = High Ridge:0x0001
+Option = Rain Forest:0x0002
+Option = Creek Bed:0x0003
+Option = Aisle of Giants:0x0004
+Option = Sleeping Titan:0x000F
+Option = Plains:0x0005
+Option = River's Edge:0x0006
+Option = Beneath The Surface:0x0007
+Option = Tidal Cavern:0x0010
 
 [Hunter Level\Beat Levels At Touch Of A Button]
 Type = Gameshark
@@ -252,35 +221,16 @@ Type = Gameshark
 Activation = EndFrame
 30064BD3 0063
 
-[Hunter Level\Level Modifier Enter Carefully]
+[Hunter Level\Select Level]
 Type = Gameshark
 Activation = EndFrame
-800582D0 0001
-
-[Hunter Level\Level Modifier Arid Canyon]
-Type = Gameshark
-Activation = EndFrame
-800582D0 0003
-
-[Hunter Level\Level Modifier Heart of The Island]
-Type = Gameshark
-Activation = EndFrame
-800582D0 0004
-
-[Hunter Level\Level Modifier Underground]
-Type = Gameshark
-Activation = EndFrame
-800582D0 0005
-
-[Hunter Level\Level Modifier Geothermal Center]
-Type = Gameshark
-Activation = EndFrame
-800582D0 0006
-
-[Hunter Level\Level Modifier Ingen Complex]
-Type = Gameshark
-Activation = EndFrame
-800582D0 0007
+800582D0 ????
+Option = Enter Carefully:0x0001
+Option = Arid Canyon:0x0003
+Option = Heart of The Island:0x0004
+Option = Underground:0x0005
+Option = Geothermal Center:0x0006
+Option = Ingen Complex:0x0007
 
 [Raptor Level\Beat Levels At Touch Of A Button]
 Type = Gameshark
@@ -338,30 +288,15 @@ Type = Gameshark
 Activation = EndFrame
 800CF7B4 0063
 
-[Raptor Level\Level The Way Out]
+[Raptor Level\Select Level]
 Type = Gameshark
 Activation = EndFrame
-80057338 0001
-
-[Raptor Level\Level Raptor Ravine]
-Type = Gameshark
-Activation = EndFrame
-80057338 0003
-
-[Raptor Level\Level The Burn Zone]
-Type = Gameshark
-Activation = EndFrame
-80057338 0005
-
-[Raptor Level\Level Into The Fire]
-Type = Gameshark
-Activation = EndFrame
-80057338 0007
-
-[Raptor Level\Level Eve of Chaos]
-Type = Gameshark
-Activation = EndFrame
-80057338 0008
+80057338 ????
+Option = Level The Way Out:0x0001
+Option = Level Raptor Ravine:0x0003
+Option = Level The Burn Zone:0x0005
+Option = Level Into The Fire:0x0007
+Option = Level Eve of Chaos:0x0008
 
 [T-Rex Level\Beat Levels At Touch Of A Button]
 Type = Gameshark
@@ -439,40 +374,17 @@ Type = Gameshark
 Activation = EndFrame
 800AF1D4 0063
 
-[T-Rex Level\Level Modifier Aftermath]
+[T-Rex Level\Select Level]
 Type = Gameshark
 Activation = EndFrame
-80059C70 000A
-
-[T-Rex Level\Level Modifier Force of Nature]
-Type = Gameshark
-Activation = EndFrame
-80059C70 0014
-
-[T-Rex Level\Level Modifier Sulphure Fields]
-Type = Gameshark
-Activation = EndFrame
-80059C70 001E
-
-[T-Rex Level\Level Modifier Dinosaur Lairs]
-Type = Gameshark
-Activation = EndFrame
-80059C70 0032
-
-[T-Rex Level\Level Modifier Predator's Ball]
-Type = Gameshark
-Activation = EndFrame
-80059C70 003C
-
-[T-Rex Level\Level Modifier Hunter Camp]
-Type = Gameshark
-Activation = EndFrame
-80059C70 0046
-
-[T-Rex Level\Level Modifier The Hunters Regroup]
-Type = Gameshark
-Activation = EndFrame
-80059C70 0050
+80059C70 ????
+Option = Aftermath:0x000A
+Option = Force of Nature:0x0014
+Option = Sulphure Fields:0x001E
+Option = Dinosaur Lairs:0x0032
+Option = Predator's Ball:0x003C
+Option = Hunter Camp:0x0046
+Option = The Hunters Regroup:0x0050
 
 [Enter Level Select Password Only Once With this code, goto the password screen and enter, Square, X, Circle, Triangle, Triangle, X, Square, Circle, Triable, Circle, X Square!]
 Type = Gameshark

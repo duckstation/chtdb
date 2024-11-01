@@ -1,62 +1,38 @@
 ; CHTDB: ; [ NHL FaceOff 2001 (USA) (2000) (Sony Computer Entertainment America) {SCUS-94577} <nhlfc2k1> ]
 
-[Home Team Scores 0 - 1st period]
+[Select Home Team Score (1st period)]
 Type = Gameshark
 Activation = EndFrame
-300BC242 0000
+300BC242 00??
+OptionRange = 0:63
 
-[Home Team Scores 99 - 1st period]
+[Select Away Team Score (1st period)]
 Type = Gameshark
 Activation = EndFrame
-300BC242 0063
+300BC244 00??
+OptionRange = 0:63
 
-[Away Team Scores 0 - 1st period]
+[#Select Home Team Score (2nd period)]
 Type = Gameshark
 Activation = EndFrame
-300BC244 0000
+300BC2A2 00??
+OptionRange = 0:63
 
-[Away Team Scores 99 - 1st period]
+[Select Away Team Score (2nd period)]
 Type = Gameshark
 Activation = EndFrame
-300BC244 0063
+300BC2A4 00??
+OptionRange = 0:63
 
-[Home Team Scores 0 - 2nd period]
+[#Select Home Team Score (3rd period)]
 Type = Gameshark
 Activation = EndFrame
-300BC2A2 0000
+300BC302 00??
+OptionRange = 0:63
 
-[Home Team Scores 99 - 2nd period]
+[Select Away Team Score (3rd period)]
 Type = Gameshark
 Activation = EndFrame
-300BC2A2 0063
-
-[Away Team Scores 0 - 2nd period]
-Type = Gameshark
-Activation = EndFrame
-300BC2A4 0000
-
-[Away Team Scores 99 - 2nd period]
-Type = Gameshark
-Activation = EndFrame
-300BC2A4 0063
-
-[Home Team Scores 0 - 3rd period]
-Type = Gameshark
-Activation = EndFrame
-300BC302 0000
-
-[Home Team Scores 99 - 3rd period]
-Type = Gameshark
-Activation = EndFrame
-300BC302 0063
-
-[Away Team Scores 0 - 3rd period]
-Type = Gameshark
-Activation = EndFrame
-300BC304 0000
-
-[Away Team Scores 99 - 3rd period]
-Type = Gameshark
-Activation = EndFrame
-300BC304 0063
+300BC304 00??
+OptionRange = 0:63
 

@@ -1,109 +1,30 @@
 ; CHTDB: ; [ T'ai Fu - Wrath of the Tiger (USA) (1999) (Activision) {SLUS-00787} <taifu> ]
 
-[Select Level\Bamboo Forest]
+[Select Level]
 Type = Gameshark
 Activation = EndFrame
-8004B3E4 0000
-
-[Select Level\Bamboo Hill]
-Type = Gameshark
-Activation = EndFrame
-8004B3E4 0001
-
-[Select Level\Tiger Ruins]
-Type = Gameshark
-Activation = EndFrame
-8004B3E4 0002
-
-[Select Level\Leopard Jungle]
-Type = Gameshark
-Activation = EndFrame
-8004B3E4 0003
-
-[Select Level\Leopard Fortress]
-Type = Gameshark
-Activation = EndFrame
-8004B3E4 0004
-
-[Select Level\Leopard Lookout]
-Type = Gameshark
-Activation = EndFrame
-8004B3E4 0005
-
-[Select Level\Temple Bridge]
-Type = Gameshark
-Activation = EndFrame
-8004B3E4 0006
-
-[Select Level\Mantis Caves]
-Type = Gameshark
-Activation = EndFrame
-8004B3E4 0007
-
-[Select Level\Mantis Lair]
-Type = Gameshark
-Activation = EndFrame
-8004B3E4 0008
-
-[Select Level\Cavern of Spirits]
-Type = Gameshark
-Activation = EndFrame
-8004B3E4 0009
-
-[Select Level\Cross Roads]
-Type = Gameshark
-Activation = EndFrame
-8004B3E4 000A
-
-[Select Level\Monkey Treetops]
-Type = Gameshark
-Activation = EndFrame
-8004B3E4 000B
-
-[Select Level\Monkey Skyboy]
-Type = Gameshark
-Activation = EndFrame
-8004B3E4 000C
-
-[Select Level\Crane Harbor]
-Type = Gameshark
-Activation = EndFrame
-8004B3E4 000D
-
-[Select Level\Pirate's Junk]
-Type = Gameshark
-Activation = EndFrame
-8004B3E4 000E
-
-[Select Level\Cross Roads 2]
-Type = Gameshark
-Activation = EndFrame
-8004B3E4 000F
-
-[Select Level\Great Wall]
-Type = Gameshark
-Activation = EndFrame
-8004B3E4 0010
-
-[Select Level\Tiger Mountains]
-Type = Gameshark
-Activation = EndFrame
-8004B3E4 0011
-
-[Select Level\Mountain Pass]
-Type = Gameshark
-Activation = EndFrame
-8004B3E4 0012
-
-[Select Level\Shadow Gauntlet]
-Type = Gameshark
-Activation = EndFrame
-8004B3E4 0013
-
-[Select Level\Forbidden Palace]
-Type = Gameshark
-Activation = EndFrame
-8004B3E4 0014
+8004B3E4 ????
+Option = Bamboo Forest:0x0000
+Option = Bamboo Hill:0x0001
+Option = Tiger Ruins:0x0002
+Option = Leopard Jungle:0x0003
+Option = Leopard Fortress:0x0004
+Option = Leopard Lookout:0x0005
+Option = Temple Bridge:0x0006
+Option = Mantis Caves:0x0007
+Option = Mantis Lair:0x0008
+Option = Cavern of Spirits:0x0009
+Option = Cross Roads:0x000A
+Option = Monkey Treetops:0x000B
+Option = Monkey Skyboy:0x000C
+Option = Crane Harbor:0x000D
+Option = Pirate's Junk:0x000E
+Option = Cross Roads 2:0x000F
+Option = Great Wall:0x0010
+Option = Tiger Mountains:0x0011
+Option = Mountain Pass:0x0012
+Option = Shadow Gauntlet:0x0013
+Option = Forbidden Palace:0x0014
 
 [Map Cheats Enabled]
 Type = Gameshark

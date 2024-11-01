@@ -27,23 +27,12 @@ Activation = EndFrame
 8008BB68 0106
 8008BB74 0107
 
-[Always Have Fire Bomb]
+[Always Have]
 Type = Gameshark
 Activation = EndFrame
-800E2E80 0001
-
-[Always Have Pandora's Box]
-Type = Gameshark
-Activation = EndFrame
-800E2E80 000A
-
-[Always Have Super Shield]
-Type = Gameshark
-Activation = EndFrame
-800E2E80 000C
-
-[Always Have Wonder Clock]
-Type = Gameshark
-Activation = EndFrame
-800E2E80 000E
+800E2E80 ????
+Option = Fire Bomb:0x0001
+Option = Pandora's Box:0x000A
+Option = Super Shield:0x000C
+Option = Wonder Clock:0x000E
 

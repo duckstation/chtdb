@@ -1,44 +1,17 @@
 ; CHTDB: ; [ Pong (Europe) {SLES-02020} ]
 
-[Select Zone\1]
+[Select Zone]
 Type = Gameshark
 Activation = EndFrame
-80112874 0000
-
-[Select Zone\2]
-Type = Gameshark
-Activation = EndFrame
-80112874 0001
-
-[Select Zone\3]
-Type = Gameshark
-Activation = EndFrame
-80112874 0002
-
-[Select Zone\4]
-Type = Gameshark
-Activation = EndFrame
-80112874 0003
-
-[Select Zone\5]
-Type = Gameshark
-Activation = EndFrame
-80112874 0004
-
-[Select Zone\6]
-Type = Gameshark
-Activation = EndFrame
-80112874 0005
-
-[Select Zone\7]
-Type = Gameshark
-Activation = EndFrame
-80112874 0006
-
-[Select Zone\8]
-Type = Gameshark
-Activation = EndFrame
-80112874 0007
+80112874 ????
+Option = 1:0x0000
+Option = 2:0x0001
+Option = 3:0x0002
+Option = 4:0x0003
+Option = 5:0x0004
+Option = 6:0x0005
+Option = 7:0x0006
+Option = 8:0x0007
 
 [Have All Gold Beams]
 Type = Gameshark

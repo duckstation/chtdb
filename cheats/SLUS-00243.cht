@@ -1,22 +1,14 @@
 ; CHTDB: ; [ Space Jam (USA) (1996) (Acclaim Entertainment) {SLUS-00243} <spacejam> ]
 
-[Tune Squad Score 99]
+[Select Tune Squad Score]
 Type = Gameshark
 Activation = EndFrame
-80078A44 0063
+80078A44 00??
+OptionRange = 0:99
 
-[Tune Squad Score 0]
+[Select Monstars Score]
 Type = Gameshark
 Activation = EndFrame
-80078A44 0000
-
-[Monstars Score 99]
-Type = Gameshark
-Activation = EndFrame
-80078A48 0063
-
-[Monstars Score 0]
-Type = Gameshark
-Activation = EndFrame
-80078A48 0000
+80078A48 00??
+OptionRange = 0:99
 

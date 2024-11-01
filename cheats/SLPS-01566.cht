@@ -5,20 +5,14 @@ Type = Gameshark
 Activation = EndFrame
 80077F58 0005
 
-[Stage2]
+[Select Stage]
 Type = Gameshark
 Activation = EndFrame
-80077F4E 0001
-
-[Stage3]
-Type = Gameshark
-Activation = EndFrame
-80077F4E 0002
-
-[Final Stage]
-Type = Gameshark
-Activation = EndFrame
-80077F4E 0003
+80077F4E ????
+Option = Stage 1:0x0000
+Option = Stage 2:0x0001
+Option = Stage 3:0x0002
+Option = Final Stage:0x0003
 
 [All Levels at Normal Speed]
 Type = Gameshark

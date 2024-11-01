@@ -20,45 +20,11 @@ Type = Gameshark
 Activation = EndFrame
 30138048 0001
 
-[Select Stage\1]
+[Select Stage]
 Type = Gameshark
 Activation = EndFrame
-30138045 0001
-
-[Select Stage\2]
-Type = Gameshark
-Activation = EndFrame
-30138045 0002
-
-[Select Stage\3]
-Type = Gameshark
-Activation = EndFrame
-30138045 0003
-
-[Select Stage\4]
-Type = Gameshark
-Activation = EndFrame
-30138045 0004
-
-[Select Stage\5]
-Type = Gameshark
-Activation = EndFrame
-30138045 0005
-
-[Select Stage\6]
-Type = Gameshark
-Activation = EndFrame
-30138045 0006
-
-[Select Stage\7]
-Type = Gameshark
-Activation = EndFrame
-30138045 0007
-
-[Select Stage\8]
-Type = Gameshark
-Activation = EndFrame
-30138045 0008
+30138045 000?
+OptionRange = 0:8
 
 [Start at Debug Screen After Reset]
 Type = Gameshark

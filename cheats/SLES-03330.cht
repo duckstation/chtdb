@@ -20,58 +20,20 @@ Type = Gameshark
 Activation = EndFrame
 801B5870 0063
 
-[Select Level\EXODUS You need to have at least 1 save game on your memory card then choose load game]
+[Select Level]
+Description = You need to have at least 1 save game on your memory card then choose load game
 Type = Gameshark
 Activation = EndFrame
-800DCD84 0005
-
-[Select Level\CANYON You need to have at least 1 save game on your memory card then choose load game]
-Type = Gameshark
-Activation = EndFrame
-800DCD84 000A
-
-[Select Level\STRONGHOLD You need to have at least 1 save game on your memory card then choose load game]
-Type = Gameshark
-Activation = EndFrame
-800DCD84 000F
-
-[Select Level\ENROTHS You need to have at least 1 save game on your memory card then choose load game]
-Type = Gameshark
-Activation = EndFrame
-800DCD84 0014
-
-[Select Level\BURIED CITY You need to have at least 1 save game on your memory card then choose load game]
-Type = Gameshark
-Activation = EndFrame
-800DCD84 0019
-
-[Select Level\FORGOTTEN WAY You need to have at least 1 save game on your memory card then choose load game]
-Type = Gameshark
-Activation = EndFrame
-800DCD84 001E
-
-[Select Level\WESTERN DISTRICT You need to have at least 1 save game on your memory card then choose load game]
-Type = Gameshark
-Activation = EndFrame
-800DCD84 0023
-
-[Select Level\EASTERN DISTRICT You need to have at least 1 save game on your memory card then choose load game]
-Type = Gameshark
-Activation = EndFrame
-800DCD84 0028
-
-[Select Level\THE MONASTERY You need to have at least 1 save game on your memory card then choose load game]
-Type = Gameshark
-Activation = EndFrame
-800DCD84 002D
-
-[Select Level\DAGLATHOR You need to have at least 1 save game on your memory card then choose load game]
-Type = Gameshark
-Activation = EndFrame
-800DCD84 0032
-
-[Select Level\LAST FIGHT WITH THE BOSS You need to have at least 1 save game on your memory card then choose load game]
-Type = Gameshark
-Activation = EndFrame
-800DCD84 0036
+800DCD84 ????
+Option = EXODUS:0x0005
+Option = CANYON:0x000A
+Option = STRONGHOLD:0x000F
+Option = ENROTHS:0x0014
+Option = BURIED CITY:0x0019
+Option = FORGOTTEN WAY:0x001E
+Option = WESTERN DISTRICT:0x0023
+Option = EASTERN DISTRICT:0x0028
+Option = THE MONASTERY:0x002D
+Option = DAGLATHOR:0x0032
+Option = LAST FIGHT WITH THE BOSS:0x0036
 

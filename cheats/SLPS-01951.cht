@@ -63,45 +63,11 @@ Type = Gameshark
 Activation = EndFrame
 3008A726 0063
 
-[Story mode stage selection 1]
+[Select Story mode stage]
 Type = Gameshark
 Activation = EndFrame
-301E929F 0001
-
-[Story mode stage selection 2]
-Type = Gameshark
-Activation = EndFrame
-301E929F 0002
-
-[Story mode stage selection 3]
-Type = Gameshark
-Activation = EndFrame
-301E929F 0003
-
-[Story mode stage selection 4]
-Type = Gameshark
-Activation = EndFrame
-301E929F 0004
-
-[Story mode stage selection 5]
-Type = Gameshark
-Activation = EndFrame
-301E929F 0005
-
-[Story mode stage selection 6]
-Type = Gameshark
-Activation = EndFrame
-301E929F 0006
-
-[Story mode stage selection 7]
-Type = Gameshark
-Activation = EndFrame
-301E929F 0007
-
-[Story mode stage selection 8]
-Type = Gameshark
-Activation = EndFrame
-301E929F 0008
+301E929F 000?
+OptionRange = 1:9
 
 [Story mode points 99]
 Type = Gameshark

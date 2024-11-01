@@ -30,40 +30,11 @@ Type = Gameshark
 Activation = EndFrame
 800DC7A0 0000
 
-[Select Campaign\1]
+[Select Campaign]
 Type = Gameshark
 Activation = EndFrame
-800DAD04 0001
-
-[Select Campaign\2]
-Type = Gameshark
-Activation = EndFrame
-800DAD04 0002
-
-[Select Campaign\3]
-Type = Gameshark
-Activation = EndFrame
-800DAD04 0003
-
-[Select Campaign\4]
-Type = Gameshark
-Activation = EndFrame
-800DAD04 0004
-
-[Select Campaign\5]
-Type = Gameshark
-Activation = EndFrame
-800DAD04 0005
-
-[Select Campaign\6]
-Type = Gameshark
-Activation = EndFrame
-800DAD04 0006
-
-[Select Campaign\7]
-Type = Gameshark
-Activation = EndFrame
-800DAD04 0007
+800DAD04 000?
+OptionRange = 1:7
 
 [Have Almost All Un-Researched Base Tech]
 Type = Gameshark

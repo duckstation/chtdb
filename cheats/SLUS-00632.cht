@@ -1,22 +1,14 @@
 ; CHTDB: ; [ VR Baseball 99 (USA) (1998) (Interplay Entertainment) {SLUS-00632} <vrbb99> ]
 
-[Select Away Team Score\9]
+[Select Away Team Score]
 Type = Gameshark
 Activation = EndFrame
-8007990C 0009
+8007990C 00??
+OptionRange = 0:9
 
-[Select Away Team Score\0]
+[Select Home Team Score]
 Type = Gameshark
 Activation = EndFrame
-8007990C 0000
-
-[Select Home Team Score\9]
-Type = Gameshark
-Activation = EndFrame
-80079908 0009
-
-[Select Home Team Score\0]
-Type = Gameshark
-Activation = EndFrame
-80079908 0000
+80079908 00??
+OptionRange = 0:9
 

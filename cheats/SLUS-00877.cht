@@ -20,40 +20,17 @@ Type = Gameshark
 Activation = EndFrame
 80013A44 FFFF
 
-[Select Level\Lethal Weapon]
+[Select Level]
 Type = Gameshark
 Activation = EndFrame
-80010142 0001
-
-[Select Level\Deformation]
-Type = Gameshark
-Activation = EndFrame
-80010142 0002
-
-[Select Level\Gigantic Attack]
-Type = Gameshark
-Activation = EndFrame
-80010142 0003
-
-[Select Level\Invasion]
-Type = Gameshark
-Activation = EndFrame
-80010142 0004
-
-[Select Level\Evil]
-Type = Gameshark
-Activation = EndFrame
-80010142 0005
-
-[Select Level\Awakening]
-Type = Gameshark
-Activation = EndFrame
-80010142 0006
-
-[Select Level\Life]
-Type = Gameshark
-Activation = EndFrame
-80010142 0007
+80010142 ????
+Option = Lethal Weapon:0x0001
+Option = Deformation:0x0002
+Option = Gigantic Attack:0x0003
+Option = Invasion:0x0004
+Option = Evil:0x0005
+Option = Awakening:0x0006
+Option = Life:0x0007
 
 [R9 - Never Blow Up]
 Type = Gameshark

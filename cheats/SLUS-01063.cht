@@ -1,24 +1,16 @@
 ; CHTDB: ; [ Sammy Sosa High Heat Baseball 2001 (USA) (2000) (The 3DO Company) {SLUS-01063} <highh2k1> ]
 
-[Select Home Team Score\9]
+[Select Home Team Score]
 Type = Gameshark
 Activation = EndFrame
-800AFF54 0009
+800AFF54 00??
+OptionRange = 0:9
 
-[Select Home Team Score\0]
+[Select Away Team Score]
 Type = Gameshark
 Activation = EndFrame
-800AFF54 0000
-
-[Select Away Team Score\9]
-Type = Gameshark
-Activation = EndFrame
-800AFF58 0009
-
-[Select Away Team Score\0]
-Type = Gameshark
-Activation = EndFrame
-800AFF58 0000
+800AFF58 00??
+OptionRange = 0:9
 
 [Infinite Strikes]
 Type = Gameshark

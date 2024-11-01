@@ -31,65 +31,22 @@ Type = Gameshark
 Activation = EndFrame
 801E1734 0019
 
-[Select Scene\Scene 1]
+[Select Scene]
 Type = Gameshark
 Activation = EndFrame
-801E14A4 0001
-
-[Select Scene\Scene 2]
-Type = Gameshark
-Activation = EndFrame
-801E14A4 0002
-
-[Select Scene\Scene 3]
-Type = Gameshark
-Activation = EndFrame
-801E14A4 0003
-
-[Select Scene\Scene 4]
-Type = Gameshark
-Activation = EndFrame
-801E14A4 0004
-
-[Select Scene\Scene 5]
-Type = Gameshark
-Activation = EndFrame
-801E14A4 0005
-
-[Select Scene\Scene 6]
-Type = Gameshark
-Activation = EndFrame
-801E14A4 0006
-
-[Select Scene\Scene 7]
-Type = Gameshark
-Activation = EndFrame
-801E14A4 0007
-
-[Select Scene\Scene 8]
-Type = Gameshark
-Activation = EndFrame
-801E14A4 0008
-
-[Select Scene\Scene 9]
-Type = Gameshark
-Activation = EndFrame
-801E14A4 0009
-
-[Select Scene\Scene 10]
-Type = Gameshark
-Activation = EndFrame
-801E14A4 000A
-
-[Select Scene\Scene 11]
-Type = Gameshark
-Activation = EndFrame
-801E14A4 000B
-
-[Select Scene\Scene 12]
-Type = Gameshark
-Activation = EndFrame
-801E14A4 000C
+801E14A4 ????
+Option = Scene 1:0x0001
+Option = Scene 2:0x0002
+Option = Scene 3:0x0003
+Option = Scene 4:0x0004
+Option = Scene 5:0x0005
+Option = Scene 6:0x0006
+Option = Scene 7:0x0007
+Option = Scene 8:0x0008
+Option = Scene 9:0x0009
+Option = Scene 10:0x000A
+Option = Scene 11:0x000B
+Option = Scene 12:0x000C
 
 [GUITAR RACK]
 Type = Gameshark

@@ -1,26 +1,16 @@
 ; CHTDB: ; [ NBA ShootOut 2002 (USA) (2001) (Sony Computer Entertainment America) {SCUS-94641} <nbaso2k2> ]
 
-[Select Home Team Score\150]
+[Select Home Team Score]
 Type = Gameshark
 Activation = EndFrame
 900176E0 00000000
-800176E4 0096
+800176E4 00??
+OptionRange = 0:150
 
-[Select Home Team Score\0]
-Type = Gameshark
-Activation = EndFrame
-900176E0 00000000
-800176E4 0000
-
-[Select Away Team Score\150]
+[Select Away Team Score]
 Type = Gameshark
 Activation = EndFrame
 90017720 00000000
-80017724 0096
-
-[Select Away Team Score\0]
-Type = Gameshark
-Activation = EndFrame
-90017720 00000000
-80017724 0000
+80017724 00??
+OptionRange = 0:150
 

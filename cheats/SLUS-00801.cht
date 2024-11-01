@@ -70,30 +70,15 @@ Activation = EndFrame
 D00EDCB8 0F00
 8001606A 0001
 
-[Select Weapon\None]
+[Select Weapon]
 Type = Gameshark
 Activation = EndFrame
-800E8578 0000
-
-[Select Weapon\Dagger]
-Type = Gameshark
-Activation = EndFrame
-800E8578 0001
-
-[Select Weapon\Sword]
-Type = Gameshark
-Activation = EndFrame
-800E8578 0002
-
-[Select Weapon\Axe]
-Type = Gameshark
-Activation = EndFrame
-800E8578 0003
-
-[Select Weapon\Crossbow]
-Type = Gameshark
-Activation = EndFrame
-800E8578 0004
+800E8578 ????
+Option = None:0x0000
+Option = Dagger:0x0001
+Option = Sword:0x0002
+Option = Axe:0x0003
+Option = Crossbow:0x0004
 
 [Invincibility to Cannon Balls]
 Type = Gameshark

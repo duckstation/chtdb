@@ -269,13 +269,30 @@ Type = Gameshark
 Activation = EndFrame
 800110C0 7248
 
-[Spyro color changing codes 'RGB' (Check note, important!)]
+[Spyro color changing codes 'RGB' RED]
 Type = Gameshark
 Activation = EndFrame
 30078A80 00??
+OptionRange = 0:255
+
+[Spyro color changing codes 'RGB' GREEN]
+Type = Gameshark
+Activation = EndFrame
 30078A81 00??
+OptionRange = 0:255
+
+[Spyro color changing codes 'RGB' BLUE]
+Type = Gameshark
+Activation = EndFrame
 30078A82 00??
+OptionRange = 0:255
+
+[Spyro color changing codes 'RGB' INTENSITY]
+Description = Best set above 200 or full 255
+Type = Gameshark
+Activation = EndFrame
 30078A83 00??
+OptionRange = 0:255
 
 [Spyro's Ultimate God Mode]
 Description = L1/R1+Triangle On/Off

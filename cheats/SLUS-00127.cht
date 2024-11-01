@@ -1,24 +1,16 @@
 ; CHTDB: ; [ Grand Slam (USA) (1997) (Virgin Interactive Entertainment) {SLUS-00127} <grandslm> ]
 
-[Select Away Team Score\9]
+[Select Away Team Score]
 Type = Gameshark
 Activation = EndFrame
-800F5C50 0009
+800F5C50 00??
+OptionRange = 0:9
 
-[Select Away Team Score\0]
+[Select Home Team Score]
 Type = Gameshark
 Activation = EndFrame
-800F5C50 0000
-
-[Select Home Team Score\9]
-Type = Gameshark
-Activation = EndFrame
-800F58F8 0009
-
-[Select Home Team Score\0]
-Type = Gameshark
-Activation = EndFrame
-800F58F8 0000
+800F58F8 00??
+OptionRange = 0:9
 
 [Infinite Balls]
 Type = Gameshark

@@ -5,30 +5,24 @@ Type = Gameshark
 Activation = EndFrame
 80072840 0880
 
-[P1 Select Power\Maximum]
+[P1 Select Power]
 Type = Gameshark
 Activation = EndFrame
-80072842 00C4
-
-[P1 Select Power\Minimum]
-Type = Gameshark
-Activation = EndFrame
-80072842 0000
+80072842 ????
+Option = Maximum:0x00C4
+Option = Minimum:0x0000
 
 [P2 Infinite Life Meter]
 Type = Gameshark
 Activation = EndFrame
 800728BC 0880
 
-[P2 Select Power\Maximum]
+[P2 Select Power]
 Type = Gameshark
 Activation = EndFrame
-800728BE 00C4
-
-[P2 Select Power\Minimum]
-Type = Gameshark
-Activation = EndFrame
-800728BE 0000
+800728BE ????
+Option = Maximum:0x00C4
+Option = Minimum:0x0000
 
 [Enable All Blocks (Build-Up Mode)]
 Type = Gameshark

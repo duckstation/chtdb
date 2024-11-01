@@ -134,20 +134,13 @@ Type = Gameshark
 Activation = EndFrame
 A608B360 00010007
 
-[Select Access\Polygon Test]
+[Select Access]
 Type = Gameshark
 Activation = EndFrame
-8008AC88 0002
-
-[Select Access\Movie Test]
-Type = Gameshark
-Activation = EndFrame
-8008AC88 0004
-
-[Select Access\Audio Test]
-Type = Gameshark
-Activation = EndFrame
-8008AC88 0005
+8008AC88 ????
+Option = Audio Test:0x0005
+Option = Movie Test:0x0004
+Option = Polygon Test:0x0002
 
 [P1 Mode Difficulty Easy\Sudden Death Level 1 Boss]
 Type = Gameshark

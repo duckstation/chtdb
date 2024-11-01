@@ -354,78 +354,23 @@ Type = Gameshark
 Activation = EndFrame
 801A315E 03E8
 
-[Select Level (V1.1)\1]
+[Select Level (V1.1)]
 Type = Gameshark
 Activation = EndFrame
-300876FC 0001
-
-[Select Level (V1.1)\2]
-Type = Gameshark
-Activation = EndFrame
-300876FC 0002
-
-[Select Level (V1.1)\3]
-Type = Gameshark
-Activation = EndFrame
-300876FC 0003
-
-[Select Level (V1.1)\4]
-Type = Gameshark
-Activation = EndFrame
-300876FC 0004
-
-[Select Level (V1.1)\5]
-Type = Gameshark
-Activation = EndFrame
-300876FC 0005
-
-[Select Level (V1.1)\6]
-Type = Gameshark
-Activation = EndFrame
-300876FC 0006
-
-[Select Level (V1.1)\7]
-Type = Gameshark
-Activation = EndFrame
-300876FC 0007
-
-[Select Level (V1.1)\8]
-Type = Gameshark
-Activation = EndFrame
-300876FC 0008
-
-[Select Level (V1.1)\9]
-Type = Gameshark
-Activation = EndFrame
-300876FC 0009
-
-[Select Level (V1.1)\10]
-Type = Gameshark
-Activation = EndFrame
-300876FC 000A
-
-[Select Level (V1.1)\11]
-Type = Gameshark
-Activation = EndFrame
-300876FC 000B
-
-[Select Level (V1.1)\12]
-Type = Gameshark
-Activation = EndFrame
-300876FC 000C
-
-[Select Level (V1.1)\13]
-Type = Gameshark
-Activation = EndFrame
-300876FC 000D
-
-[Select Level (V1.1)\14]
-Type = Gameshark
-Activation = EndFrame
-300876FC 000E
-
-[Select Level (V1.1)\15]
-Type = Gameshark
-Activation = EndFrame
-300876FC 000F
+300876FC ????
+Option = 1:0x0001
+Option = 2:0x0002
+Option = 3:0x0003
+Option = 4:0x0004
+Option = 5:0x0005
+Option = 6:0x0006
+Option = 7:0x0007
+Option = 8:0x0008
+Option = 9:0x0009
+Option = 10:0x000A
+Option = 11:0x000B
+Option = 12:0x000C
+Option = 13:0x000D
+Option = 14:0x000E
+Option = 15:0x000F
 

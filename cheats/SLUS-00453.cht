@@ -28,75 +28,24 @@ C00FFC8C 0840
 900FFCC0 24020000
 00000000 FFFF
 
-[Wily's Stage Level Select Intro Stage 00 Intro Stage]
+[Wily's Stage\Select Level]
 Type = Gameshark
 Activation = EndFrame
-301C336D 0000
-
-[Wily's Stage Level Select Frost Man]
-Type = Gameshark
-Activation = EndFrame
-301C336D 0001
-
-[Wily's Stage Level Select Clown Man Stage]
-Type = Gameshark
-Activation = EndFrame
-301C336D 0002
-
-[Wily's Stage Level Select Tengu Man Stage]
-Type = Gameshark
-Activation = EndFrame
-301C336D 0003
-
-[Wily's Stage Level Select Grenade Stage]
-Type = Gameshark
-Activation = EndFrame
-301C336D 0004
-
-[Wily's Stage Level Select Sword Man Stage]
-Type = Gameshark
-Activation = EndFrame
-301C336D 0005
-
-[Wily's Stage Level Select Aqua Man Stage]
-Type = Gameshark
-Activation = EndFrame
-301C336D 0006
-
-[Wily's Stage Level Select Astro Man Stage]
-Type = Gameshark
-Activation = EndFrame
-301C336D 0007
-
-[Wily's Stage Level Select Search Man Stage]
-Type = Gameshark
-Activation = EndFrame
-301C336D 0008
-
-[Wily's Stage Level Select Duo Stage]
-Type = Gameshark
-Activation = EndFrame
-301C336D 0009
-
-[Wily's Stage Level Select Wily Tower 1 Stage]
-Type = Gameshark
-Activation = EndFrame
-301C336D 000A
-
-[Wily's Stage Level Select Wily Tower 2 Stage]
-Type = Gameshark
-Activation = EndFrame
-301C336D 000B
-
-[Wily's Stage Level Select Wily Tower 3 Stage]
-Type = Gameshark
-Activation = EndFrame
-301C336D 000C
-
-[Wily's Stage Level Select Wily Tower 4 Stage]
-Type = Gameshark
-Activation = EndFrame
-301C336D 000D
+301C336D ????
+Option = Intro Stage 00 Intro Stage:0x0000
+Option = Frost Man:0x0001
+Option = Clown Man Stage:0x0002
+Option = Tengu Man Stage:0x0003
+Option = Grenade Stage:0x0004
+Option = Sword Man Stage:0x0005
+Option = Aqua Man Stage:0x0006
+Option = Astro Man Stage:0x0007
+Option = Search Man Stage:0x0008
+Option = Duo Stage:0x0009
+Option = Wily Tower 1 Stage:0x000A
+Option = Wily Tower 2 Stage:0x000B
+Option = Wily Tower 3 Stage:0x000C
+Option = Wily Tower 4 Stage:0x000D
 
 [Always Have Mega Ball]
 Type = Gameshark

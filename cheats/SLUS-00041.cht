@@ -15,80 +15,25 @@ Type = Gameshark
 Activation = EndFrame
 801B793A 0000
 
-[P1's Character Ryu]
+[P1 Select Character]
 Type = Gameshark
 Activation = EndFrame
-801B789E 0000
-
-[P1's Character E. Honda]
-Type = Gameshark
-Activation = EndFrame
-801B789E 0101
-
-[P1's Character Blanka]
-Type = Gameshark
-Activation = EndFrame
-801B789E 0202
-
-[P1's Character Guile]
-Type = Gameshark
-Activation = EndFrame
-801B789E 0303
-
-[P1's Character Ken]
-Type = Gameshark
-Activation = EndFrame
-801B789E 0404
-
-[P1's Character Chun Li]
-Type = Gameshark
-Activation = EndFrame
-801B789E 0505
-
-[P1's Character Zangief]
-Type = Gameshark
-Activation = EndFrame
-801B789E 0606
-
-[P1's Character Akuma]
-Type = Gameshark
-Activation = EndFrame
-801B789E 0707
-
-[P1's Character M.Bison]
-Type = Gameshark
-Activation = EndFrame
-801B789E 0808
-
-[P1's Character Sagat]
-Type = Gameshark
-Activation = EndFrame
-801B789E 0909
-
-[P1's Character Balrog]
-Type = Gameshark
-Activation = EndFrame
-801B789E 0A0A
-
-[P1's Character Vega]
-Type = Gameshark
-Activation = EndFrame
-801B789E 0B0B
-
-[P1's Character Cammy]
-Type = Gameshark
-Activation = EndFrame
-801B789E 0C0C
-
-[P1's Character Sawada]
-Type = Gameshark
-Activation = EndFrame
-801B789E 0D0D
-
-[P1's Character Dee Jay]
-Type = Gameshark
-Activation = EndFrame
-801B789E 0E0E
+801B789E ????
+Option = Ryu:0x0000
+Option = E. Honda:0x0101
+Option = Blanka:0x0202
+Option = Guile:0x0303
+Option = Ken:0x0404
+Option = Chun Li:0x0505
+Option = Zangief:0x0606
+Option = Akuma:0x0707
+Option = M.Bison:0x0808
+Option = Sagat:0x0909
+Option = Balrog:0x0A0A
+Option = Vega:0x0B0B
+Option = Cammy:0x0C0C
+Option = Sawada:0x0D0D
+Option = Dee Jay:0x0E0E
 
 [Unlock Video Clip Select 'Back-Up' from main menu, then 'Video Clip' to see Chage + Aska's 'Something There' video.]
 Type = Gameshark

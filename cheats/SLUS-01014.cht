@@ -1,24 +1,16 @@
 ; CHTDB: ; [ ISS Pro Evolution (USA) (2000) (Konami of America) {SLUS-01014} <issproev> ]
 
-[Select Away Team Score\9]
+[Select Away Team Score]
 Type = Gameshark
 Activation = EndFrame
-30073E04 0009
+30073E04 00??
+OptionRange = 0:9
 
-[Select Away Team Score\0]
+[Select Home Team Score]
 Type = Gameshark
 Activation = EndFrame
-30073E04 0000
-
-[Select Home Team Score\9]
-Type = Gameshark
-Activation = EndFrame
-30073E03 0009
-
-[Select Home Team Score\0]
-Type = Gameshark
-Activation = EndFrame
-30073E03 0000
+30073E03 00??
+OptionRange = 0:9
 
 [Infinite Points (Master League)]
 Type = Gameshark

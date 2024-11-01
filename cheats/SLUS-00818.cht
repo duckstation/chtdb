@@ -31,45 +31,18 @@ Activation = EndFrame
 D00D27E2 0100
 800A3230 0200
 
-[Character TJ]
+[Select Character]
 Type = Gameshark
 Activation = EndFrame
-800A31C4 0000
-
-[Character Jerry]
-Type = Gameshark
-Activation = EndFrame
-800A31C4 0001
-
-[Character Ginger]
-Type = Gameshark
-Activation = EndFrame
-800A31C4 0002
-
-[Character Frankie]
-Type = Gameshark
-Activation = EndFrame
-800A31C4 0003
-
-[Character Sarah]
-Type = Gameshark
-Activation = EndFrame
-800A31C4 0004
-
-[Character Mick]
-Type = Gameshark
-Activation = EndFrame
-800A31C4 0005
-
-[Character Bonobo]
-Type = Gameshark
-Activation = EndFrame
-800A31C4 0006
-
-[Character Shao]
-Type = Gameshark
-Activation = EndFrame
-800A31C4 0007
+800A31C4 ????
+Option = TJ:0x0000
+Option = Jerry:0x0001
+Option = Ginger:0x0002
+Option = Frankie:0x0003
+Option = Sarah:0x0004
+Option = Mick:0x0005
+Option = Bonobo:0x0006
+Option = Shao:0x0007
 
 [Time Limit On]
 Type = Gameshark

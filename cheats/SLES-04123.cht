@@ -15,10 +15,11 @@ Type = Gameshark
 Activation = EndFrame
 801628DE 0009
 
-[Saved Hostages Modilfier (Sniper Mode Stages)]
+[Saved Hostages Modifier (Sniper Mode Stages)]
 Type = Gameshark
 Activation = EndFrame
 801628DC ????
+OptionRange = 0:65535
 
 [Energy (Men And Heli)]
 Type = Gameshark

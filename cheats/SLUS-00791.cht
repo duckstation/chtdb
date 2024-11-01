@@ -1,30 +1,18 @@
 ; CHTDB: ; [ NBA in the Zone '99 (USA) (1999) (Konami of America) {SLUS-00791} <nbazon99> ]
 
-[Select Away Team Score\0]
+[Select Away Team Score]
 Type = Gameshark
 Activation = EndFrame
-80091A7C 0000
-80091B00 0000
-80091BDC 0000
+80091A7C 00??
+80091B00 00??
+80091BDC 00??
+OptionRange = 0:99
 
-[Select Away Team Score\99]
+[Select Home Team Score]
 Type = Gameshark
 Activation = EndFrame
-80091A7C 0063
-80091B00 0063
-80091BDC 0063
-
-[Select Home Team Score\0]
-Type = Gameshark
-Activation = EndFrame
-8009197C 0000
-800918CC 0000
-80091848 0000
-
-[Select Home Team Score\99]
-Type = Gameshark
-Activation = EndFrame
-8009197C 0063
-800918CC 0063
-80091848 0063
+8009197C 00??
+800918CC 00??
+80091848 00??
+OptionRange = 0:99
 

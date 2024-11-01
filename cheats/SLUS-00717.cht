@@ -33,20 +33,13 @@ Activation = EndFrame
 801AAB68 0001
 801AAB74 0001
 
-[Select Difficulty\Easy]
+[Select Difficulty]
 Type = Gameshark
 Activation = EndFrame
-801A8388 0000
-
-[Select Difficulty\Medium]
-Type = Gameshark
-Activation = EndFrame
-801A8388 0001
-
-[Select Difficulty\Hard]
-Type = Gameshark
-Activation = EndFrame
-801A8388 0002
+801A8388 ????
+Option = Easy:0x0000
+Option = Medium:0x0001
+Option = Hard:0x0002
 
 [Finish First]
 Type = Gameshark

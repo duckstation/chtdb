@@ -1,24 +1,16 @@
 ; CHTDB: ; [ NHL 98 (USA) (1997) (Electronic Arts) {SLUS-00519} <nhl98> ]
 
-[Select Home Team Score\9]
+[Select Home Team Score]
 Type = Gameshark
 Activation = EndFrame
-8004771A 0009
+8004771A 00??
+OptionRange = 0:9
 
-[Select Home Team Score\0]
+[Select Away Team Score]
 Type = Gameshark
 Activation = EndFrame
-8004771A 0000
-
-[Select Away Team Score\9]
-Type = Gameshark
-Activation = EndFrame
-80047754 0009
-
-[Select Away Team Score\0]
-Type = Gameshark
-Activation = EndFrame
-80047754 0000
+80047754 00??
+OptionRange = 0:9
 
 [More Creation Points]
 Type = Gameshark

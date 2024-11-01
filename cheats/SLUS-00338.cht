@@ -13,30 +13,15 @@ Type = Gameshark
 Activation = EndFrame
 800EE580 0001
 
-[Select City\Puzzle Mode - Egypt]
+[Select City]
 Type = Gameshark
 Activation = EndFrame
-800EEBB0 0000
-
-[Select City\Puzzle Mode - Ankor Wat]
-Type = Gameshark
-Activation = EndFrame
-800EEBB0 0001
-
-[Select City\Puzzle Mode - Maya]
-Type = Gameshark
-Activation = EndFrame
-800EEBB0 0002
-
-[Select City\Puzzle Mode - Knossos]
-Type = Gameshark
-Activation = EndFrame
-800EEBB0 0003
-
-[Select City\Puzzle Mode - Uknown]
-Type = Gameshark
-Activation = EndFrame
-800EEBB0 0004
+800EEBB0 ????
+Option = Puzzle Mode - Egypt:0x0000
+Option = Puzzle Mode - Ankor Wat:0x0001
+Option = Puzzle Mode - Maya:0x0002
+Option = Puzzle Mode - Knossos:0x0003
+Option = Puzzle Mode - Uknown:0x0004
 
 [Have Stage Select (Pause Menu-Puzzle Game Only)]
 Type = Gameshark

@@ -110,63 +110,20 @@ Activation = EndFrame
 C207B08C 0001
 3009A29C 0000
 
-[Select Level\Gravel Factory]
+[Select Level]
 Type = Gameshark
 Activation = EndFrame
-8007B668 0000
-
-[Select Level\Quarry]
-Type = Gameshark
-Activation = EndFrame
-8007B668 0001
-
-[Select Level\Flooded Quarry]
-Type = Gameshark
-Activation = EndFrame
-8007B668 0002
-
-[Select Level\Tar Pits]
-Type = Gameshark
-Activation = EndFrame
-8007B668 0003
-
-[Select Level\Bonus Level - The Rubbles Backyard Pool]
-Type = Gameshark
-Activation = EndFrame
-8007B668 0004
-
-[Select Level\Bedrock Freeway]
-Type = Gameshark
-Activation = EndFrame
-8007B668 0005
-
-[Select Level\Crystal Mine]
-Type = Gameshark
-Activation = EndFrame
-8007B668 0006
-
-[Select Level\Lava]
-Type = Gameshark
-Activation = EndFrame
-8007B668 0007
-
-[Select Level\Rockzilla]
-Type = Gameshark
-Activation = EndFrame
-8007B668 0008
-
-[Select Level\Bonus Lane - Water Buffalo Lodge]
-Type = Gameshark
-Activation = EndFrame
-8007B668 0009
-
-[Select Level\Zetox]
-Type = Gameshark
-Activation = EndFrame
-8007B668 000A
-
-[Select Level\Hidden Lane - Gazoo's Asteroid]
-Type = Gameshark
-Activation = EndFrame
-8007B668 000B
+8007B668 ????
+Option = Gravel Factory:0x0000
+Option = Quarry:0x0001
+Option = Flooded Quarry:0x0002
+Option = Tar Pits:0x0003
+Option = Bonus Level - The Rubbles Backyard Pool:0x0004
+Option = Bedrock Freeway:0x0005
+Option = Crystal Mine:0x0006
+Option = Lava:0x0007
+Option = Rockzilla:0x0008
+Option = Bonus Lane - Water Buffalo Lodge:0x0009
+Option = Zetox:0x000A
+Option = Hidden Lane - Gazoo's Asteroid:0x000B
 

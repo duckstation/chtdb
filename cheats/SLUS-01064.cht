@@ -1,28 +1,18 @@
 ; CHTDB: ; [ Sammy Sosa Softball Slam (USA) (2000) (The 3DO Company) {SLUS-01064} <sosasoft> ]
 
-[Select Team 1 Score\9]
+[Select Team 1 Score]
 Type = Gameshark
 Activation = EndFrame
-800AFD50 0009
-800B21B0 0009
+800AFD50 000?
+800B21B0 000?
+OptionRange = 0:9
 
-[Select Team 1 Score\0]
+[Select Team 2 Score]
 Type = Gameshark
 Activation = EndFrame
-800AFD50 0000
-800B21B0 0000
-
-[Select Team 2 Score\9]
-Type = Gameshark
-Activation = EndFrame
-800AFD4C 0009
-800AFDB0 0009
-
-[Select Team 2 Score\0]
-Type = Gameshark
-Activation = EndFrame
-800AFD4C 0000
-800AFDB0 0000
+800AFD4C 000?
+800AFDB0 000?
+OptionRange = 0:9
 
 [Infinite Strikes]
 Type = Gameshark
