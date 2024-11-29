@@ -162,55 +162,66 @@ D007B2B8 0201
 [Estoma always enabled (reduce encounter rate 2x)]
 Type = Gameshark
 Activation = EndFrame
-D007CAE8 00000000
-900AB954 00000000
+D007CAEC 0000
+900AB954 0000
 
 [Estoma reduces encounter rate 4x]
 Type = Gameshark
 Activation = EndFrame
-D007CAE8 00000000
-900AB960 00021C83
+D007CAEC 0000
+900AB960 21C83
 
 [Exp gained x2]
 Type = Gameshark
 Activation = EndFrame
-C007CAE8 00001002
-900B7170 00431021
+D007CAEC 0002
+900B7170 431021
+D007CAEC 0002
 900B717C AE421C00
 
 [Exp gained x4]
 Type = Gameshark
 Activation = EndFrame
-C007CAE8 00001002
-900B716C 00031880
-900B7170 00431021
+D007CAEC 0002
+900B716C 31880
+D007CAEC 0002
+900B7170 431021
+D007CAEC 0002
 900B717C AE421C00
 
 [Exp gained x8]
 Type = Gameshark
 Activation = EndFrame
-C007CAE8 00001002
-900B716C 000318C0
-900B7170 00431021
+D007CAEC 0002
+900B716C 318C0
+D007CAEC 0002
+900B7170 431021
+D007CAEC 0002
 900B717C AE421C00
+
+[Money x2]
+Type = Gameshark
+Activation = EndFrame
+D007CAEC 0002
+900D21D0 10000006
 
 [Select Cards Obtained\x2]
 Type = Gameshark
 Activation = EndFrame
-D007CAE8 00001002
-900F8060 00052840
+D007CAEC 0002
+900F8060 52840
 
 [Select Cards Obtained\x4]
 Type = Gameshark
 Activation = EndFrame
-D007CAE8 00001002
-900F8060 00052880
+D007CAEC 0002
+900F8060 52880
 
 [Select Cards Obtained\x8]
 Type = Gameshark
 Activation = EndFrame
-D007CAE8 00001002
-900F8060 000528C0
+D007CAEC 0002
+900F8060 528C0
 
 [Debug DEBUG, DBG magic added to the battle menu You can not see the menu Magic DBG is disabled]
 Type = Gameshark
