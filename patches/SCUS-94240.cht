@@ -1,0 +1,8 @@
+# Syphon Filter (USA)
+[Disable Late Polygon Subdivision]
+Type = Gameshark
+Activation = EndFrame
+Author = Stenzek
+Description = Disables subdivision of polygons that is incompatible with PGXP and causes jittery vertices. Some polygons that pass behind the camera will get clipped as a result.
+A70D5006 10201000 ; beq at, zero, ... => beq zero, zero, ...
+
