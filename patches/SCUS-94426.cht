@@ -1,0 +1,43 @@
+# CTR - Crash Team Racing (USA)
+
+[60 FPS]
+Type = Gameshark
+Activation = EndFrame
+Author = Unknown
+Description = Patches the game to render at 60fps, instead of 30fps.
+OverrideCPUOverclock = 200
+
+30037930 0001
+
+
+[Widescreen 16:9]
+Type = Gameshark
+Activation = EndFrame
+Author = Unknown
+OverrideAspectRatio = 16:9
+DisableWidescreenRendering = True
+Description = Patches the game to use 16:9 widescreen rendering, instead of 4:3.
+
+8006C2F8 0C00
+8006C2EE 3000
+90043168 24040400
+9002305C 24040C00
+800230C6 000E
+900230A0 00037300
+90022608 08002080
+9002260C 84510000
+90008200 241B0003
+90008204 03710019
+90008208 00008812
+9000820C 00118883
+90008210 08008984
+90008214 2442003A
+900224A4 08002086
+900224A8 84C20000
+90008218 00000000
+9000821C 0002D883
+90008220 00021043
+90008224 0800892B
+90008228 005B1021
+D00B077E AFA2
+800B0778 00C0
