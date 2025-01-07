@@ -1,0 +1,12 @@
+# Tekken 3 (Europe) [SCES-01237]
+[PAL-To-NTSC]
+Type = Gameshark
+Activation = EndFrame
+Author = Stenzek
+Description = Runs game at NTSC frame rates, adjusts display rectangle to compensate.
+
+# NTSC video mode.
+A70B0514 00010000
+
+# Set the default offset to the minimum, but let the user change it.
+A8097EED 1804
