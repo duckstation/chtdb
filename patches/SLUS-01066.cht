@@ -1,0 +1,15 @@
+# Tony Hawk's Pro Skater 2 (USA)
+[60 FPS]
+Type = Gameshark
+Activation = EndFrame
+Description = Patches the game to render at 60fps, instead of 30fps.
+OverrideCPUOverclock = 250
+3003CBA8 0000
+
+[Widescreen 16-9 (Vert-)]
+Type = Gameshark
+Activation = EndFrame
+OverrideAspectRatio = 16:9
+DisableWidescreenRendering = True
+Description = Patches the game to use 16:9 widescreen rendering, instead of 4:3.
+A70D8640 19991333
