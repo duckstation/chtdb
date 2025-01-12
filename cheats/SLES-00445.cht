@@ -58,19 +58,19 @@ D11CEB48 000?
 801CEB48 0006
 OptionRange = 0:6
 
-[Die Hard\#The Saint#-Mode On (.Press L1 & L2)]
+[Die Hard\The Saint-Mode On (.Press L1 & L2)]
 Type = Gameshark
 Activation = EndFrame
 D00A6BD0 0005
 801C5794 0001
 
-[Die Hard\#Hit-And-Fly#-Mode On (Press L1 & R1)]
+[Die Hard\Hit-And-Fly-Mode On (Press L1 & R1)]
 Type = Gameshark
 Activation = EndFrame
 D00A6BD0 000C
 801C5788 0001
 
-[Die Hard\#Weightwatchers#-Mode On (Press L1 & R2)]
+[Die Hard\Weightwatchers-Mode On (Press L1 & R2)]
 Type = Gameshark
 Activation = EndFrame
 D00A6BD0 0006
@@ -241,7 +241,7 @@ Activation = EndFrame
 A60B7ED0 0000FFFF
 A60B7ED2 0000FFFF
 
-[Die Hard With A Vengeance\#Goliath#-Mode On (Press L1)]
+[Die Hard With A Vengeance\Goliath-Mode On (Press L1)]
 Type = Gameshark
 Activation = EndFrame
 D01D3E26 0004

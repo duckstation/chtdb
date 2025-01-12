@@ -22,20 +22,20 @@ Activation = EndFrame
 30010224 0063
 
 [Max Points To Buy Equipment]
-Description = Do not activate cheat 'Max Points to Buy Equipment' together with cheats 'Have all characters' and 'Have all equipments for all characters', because they don't work together. First activate the #have all characters and their equipments#, save the game, then activate the #infinite points to buy equipment# cheat and then buy all the equipment. And then there you go!
+Description = Do not activate cheat 'Max Points to Buy Equipment' together with cheats 'Have all characters' and 'Have all equipments for all characters', because they don't work together. First activate the 'have all characters and their equipments', save the game, then activate the 'infinite points to buy equipment' cheat and then buy all the equipment. And then there you go!
 Type = Gameshark
 Activation = EndFrame
 8001010A 00FF
 
 [Have All Characters]
-Description = Do not activate cheat 'Max Points to Buy Equipment' together with cheats 'Have all characters' and 'Have all equipments for all characters', because they don't work together. First activate the #have all characters and their equipments#, save the game, then activate the #infinite points to buy equipment# cheat and then buy all the equipment. And then there you go!
+Description = Do not activate cheat 'Max Points to Buy Equipment' together with cheats 'Have all characters' and 'Have all equipments for all characters', because they don't work together. First activate the 'have all characters and their equipments', save the game, then activate the 'infinite points to buy equipment' cheat and then buy all the equipment. And then there you go!
 Type = Gameshark
 Activation = EndFrame
 50001401 0000
 30010072 0001
 
 [Have All Equipments For All Characters]
-Description = Do not activate cheat 'Max Points to Buy Equipment' together with cheats 'Have all characters' and 'Have all equipments for all characters', because they don't work together. First activate the #have all characters and their equipments#, save the game, then activate the #infinite points to buy equipment# cheat and then buy all the equipment. And then there you go!
+Description = Do not activate cheat 'Max Points to Buy Equipment' together with cheats 'Have all characters' and 'Have all equipments for all characters', because they don't work together. First activate the 'have all characters and their equipments', save the game, then activate the 'infinite points to buy equipment' cheat and then buy all the equipment. And then there you go!
 Type = Gameshark
 Activation = EndFrame
 50005701 0000

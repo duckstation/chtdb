@@ -45,14 +45,14 @@ Type = Gameshark
 Activation = EndFrame
 80035428 0001
 
-[Master parameter MAX#]
+[Master parameter MAX]
 Type = Gameshark
 Activation = EndFrame
 801CA912 03E7
 801CA916 03E7
 801CA91A 03E7
 
-[Support group persons MAX#]
+[Support group persons MAX]
 Type = Gameshark
 Activation = EndFrame
 901CA91C 3B9AC9FF

@@ -40,12 +40,12 @@ Type = Gameshark
 Activation = EndFrame
 801CD7F8 270F
 
-[Attack MAX#]
+[Attack MAX]
 Type = Gameshark
 Activation = EndFrame
 301CD7F4 00FF
 
-[Steering force MAX#]
+[Steering force MAX]
 Type = Gameshark
 Activation = EndFrame
 801CD804 270F
@@ -55,17 +55,17 @@ Type = Gameshark
 Activation = EndFrame
 801CD3FC 03E7
 
-[Hero Attack MAX#]
+[Hero Attack MAX]
 Type = Gameshark
 Activation = EndFrame
 801CD400 270F
 
-[Hero Defense MAX#]
+[Hero Defense MAX]
 Type = Gameshark
 Activation = EndFrame
 801CD402 270F
 
-[Hero MAX rapidity#]
+[Hero MAX rapidity]
 Type = Gameshark
 Activation = EndFrame
 801CD404 270F
@@ -75,7 +75,7 @@ Type = Gameshark
 Activation = EndFrame
 801CD454 03E7
 
-[Second Character Attack MAX#]
+[Second Character Attack MAX]
 Type = Gameshark
 Activation = EndFrame
 801CD458 270F

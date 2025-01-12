@@ -218,13 +218,13 @@ Type = Gameshark
 Activation = EndFrame
 800B6208 0000
 
-[Besitze #Cold# (Blauer) Pal Key Drücke Dreieck+O Diese Codes sind nur für ungefähr eine Sekunde aktiv!]
+[Besitze Cold (Blauer) Pal Key Drücke Dreieck+O Diese Codes sind nur für ungefähr eine Sekunde aktiv!]
 Type = Gameshark
 Activation = EndFrame
 D00ACD48 0030
 800B6212 0002
 
-[Besitze #Hot# (Roter) Pal Key Drücke O+X Diese Codes sind nur für ungefähr eine Sekunde aktiv!]
+[Besitze Hot (Roter) Pal Key Drücke O+X Diese Codes sind nur für ungefähr eine Sekunde aktiv!]
 Type = Gameshark
 Activation = EndFrame
 D00ACD48 0060

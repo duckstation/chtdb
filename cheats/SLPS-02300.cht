@@ -59,12 +59,14 @@ Activation = EndFrame
 D01C35BA 2662
 801C35B8 0000
 
-[No Ink To Save (.You can save even NEVER having any INK, MUST use w/ #SV INK# code.)]
+[No Ink To Save]
+Description = You can save even NEVER having any INK, MUST use w/ SV INK code.
 Type = Gameshark
 Activation = EndFrame
 A6051D44 00080000
 
-[Infinite Sv Ink (.When save, don't decrease INK number)]
+[Infinite Sv Ink]
+Description = When save, don't decrease INK number.
 Type = Gameshark
 Activation = EndFrame
 D006D68C 7C7C

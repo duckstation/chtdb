@@ -5,12 +5,14 @@ Type = Gameshark
 Activation = EndFrame
 30010041 0006
 
-[Much Golden Carots (Use #Much golden carots# & #Much clocks# together, go to #The Stone Age# and enter the first rabbit hole. Exit the level and this will open all the levels in the game. Walk over the covered rabbit holes to open the secret games - one in each time zone)]
+[Much Golden Carots]
+Description = Use Much golden carots & Much clocks together, go to The Stone Age and enter the first rabbit hole. Exit the level and this will open all the levels in the game. Walk over the covered rabbit holes to open the secret games - one in each time zone)
 Type = Gameshark
 Activation = EndFrame
 30010047 00DD
 
-[Much Clocks (All Levels Selectable)(Use #Much golden carots# & #Much clocks# together, go to #The Stone Age# and enter the first rabbit hole. Exit the level and this will open all the levels in the game. Walk over the covered rabbit holes to open the secret games - one in each time zone)]
+[Much Clocks (All Levels Selectable)]
+Description = Use Much golden carots & Much clocks together, go to The Stone Age and enter the first rabbit hole. Exit the level and this will open all the levels in the game. Walk over the covered rabbit holes to open the secret games - one in each time zone.
 Type = Gameshark
 Activation = EndFrame
 30010045 00DD
