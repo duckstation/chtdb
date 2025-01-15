@@ -1,30 +1,27 @@
 ; CHTDB: ; [ Mega Man Legends 2 (USA) (2000) (Capcom Entertainment) {SLUS-01140} <mmleg2> ]
 
-[Infinite Health]
+[Attach Arms to Head]
 Type = Gameshark
 Activation = EndFrame
-8008C120 0200
+A7040426 0C012400
 
-[Invincibility]
+[Debug Room]
+Description = Loads on new game
 Type = Gameshark
 Activation = EndFrame
-3008C19C 00FF
+30078D1C 0000
+30078D1D 0000
 
-[Max Zenny]
+[Disable FPS lock]
 Type = Gameshark
 Activation = EndFrame
-9009C820 0098967F
+A7010F62 14402400
 
-[Time 0.00.00]
+[Force 30 FPS]
 Type = Gameshark
 Activation = EndFrame
-9009C818 00000000
-
-[Max Upgrade-All Special Weapons]
-Type = Gameshark
-Activation = EndFrame
-50006E01 0000
-3008C2BC 0003
+A7010F4E 90632403
+A7010F4C 00050002
 
 [Have All Items]
 Type = Gameshark
@@ -39,38 +36,35 @@ Activation = EndFrame
 800985C2 07FF
 900985C4 0F8FFFF2
 
-[Unlock All Extra Modes]
-Type = Gameshark
-Activation = EndFrame
-8009C814 0003
-
-[Select Walk through walls\"Press and hold L3"]
-Type = Gameshark
-Activation = EndFrame
-A70B35D6 100010A0
-D7200000 00000200
-A70B35D6 10A01000
-
-[Select Walk through walls\Alternate "Hold L1+R1"]
-Type = Gameshark
-Activation = EndFrame
-A70B35D6 100010A0
-D7200000 0000000C
-A70B35D6 10A01000
-
-[Hold X to hover jump]
+[Hold X to Hover Jump]
 Type = Gameshark
 Activation = EndFrame
 A70C71DA 24001040
 D7200000 00000040
 A70C71DA 10402400
 
-[Attach arms to head]
+[Infinite Health]
 Type = Gameshark
 Activation = EndFrame
-A7040426 0C012400
+8008C120 0200
 
-[Spin head around "Hold R3"]
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+3008C19C 00FF
+
+[Max Upgrade-All Special Weapons]
+Type = Gameshark
+Activation = EndFrame
+50006E01 0000
+3008C2BC 0003
+
+[Max Zenny]
+Type = Gameshark
+Activation = EndFrame
+9009C820 0098967F
+
+[Hold R3 to Spin Head Around]
 Type = Gameshark
 Activation = EndFrame
 A70CD6DE 24001040
@@ -78,16 +72,102 @@ A70CD6AE 24001440
 D7200000 00000400
 A70CD6DE 10402400
 A70CD6AE 14402400
-;#### PATCHES LISTED BELOW ####
 
-[Disable FPS lock]
+[Time is 00:00:00]
 Type = Gameshark
 Activation = EndFrame
-A7010F62 14402400
+9009C818 00000000
 
-[Force 30 FPS]
+[Unlock All Extra Modes]
 Type = Gameshark
 Activation = EndFrame
-A7010F4E 90632403
-A7010F4C 00050002
+8009C814 0003
+
+[Set Roll's Affection]
+Description = Triggers Roll's events. Needs the Flutter repaired, and an affection change to trigger.
+Type = Gameshark
+Activation = EndFrame
+Option = Neutral:0
+Option = Liked:32767
+Option = Hated:32768
+Author = JukePlz
+8009C83A ????
+
+[Set Karma]
+Description = Affects how citizens talk to Mega Man, shop prices, etc.
+Type = Gameshark
+Activation = EndFrame
+Option = Neutral:0
+Option = Liked:32767
+Option = Hated:32768
+Author = JukePlz
+8009C838 ????
+
+[Noclip]
+Description = Walk through walls
+Type = Gameshark
+Activation = EndFrame
+Option = Hold L3:512
+Option = Hold L1+R1:12
+A70B35D6 100010A0
+D7200000 00000???
+A70B35D6 10A01000
+
+[Have All Buster Parts]
+Type = Gameshark
+Activation = EndFrame
+50001F01 0001
+3008C25C 0001
+
+
+[Model Swaps\Play as Roll Casket]
+Type = Gameshark
+Activation = EndFrame
+8008C252 0602
+E308C0CF 0001
+8008C252 FFFF
+
+[Model Swaps\Play as Tron Bonne]
+Type = Gameshark
+Activation = EndFrame
+8008C252 0702
+E308C0CF 0001
+8008C252 00FF
+
+[Model Swaps\Play as Mega Man (Apron)]
+Type = Gameshark
+Activation = EndFrame
+8008C252 0802
+E308C0CF 0001
+8008C252 01FF
+
+[Model Swaps\Play as Matilda]
+Type = Gameshark
+Activation = EndFrame
+8008C252 0902
+E308C0CF 0001
+8008C252 02FF
+
+[Model Swaps\Play as Glyde]
+Type = Gameshark
+Activation = EndFrame
+8008C252 0A02
+E308C0CF 0001
+8008C252 03FF
+
+[Model Swaps\Play as Gatz]
+Type = Gameshark
+Activation = EndFrame
+8008C252 0B02
+E308C0CF 0001
+8008C252 04FF
+
+[Model Swaps\Play as Teasel]
+Type = Gameshark
+Activation = EndFrame
+8008C252 0C02
+E309C84D 0001
+8008C252 05FF
+
+
 

@@ -1,22 +1,54 @@
 ; CHTDB: ; [ Azure Dreams (USA) (1998) (Konami of America) {SLUS-00614} <azuredrm> ]
 
+[Disable Item Obfuscation In 2nd Tower]
+Description = Only enable this inside the tower. May crash elsewhere.
+Type = Gameshark
+Activation = EndFrame
+8008dae8 00000000
+
+[Disable Koh Stat Reset On Tower Re-entry]
+Type = Gameshark
+Activation = EndFrame
+F6000000 1F000002
+A0016000 8001D4FC
+A301022C 00000000
+900170A0 00000000
+900170A4 00000000
+900170AC 00000000
+900170B0 00000000
+900170B4 00000000
+900170BC 00000000
+900170C0 804321BD
+900170C4 00000000
+900170D0 00000000
+900170D8 00000000
+900170F0 00000000
+00000000 0000FFFF
+
+[Undead Mode (Enemies Can't Attack Koh. No Exp Gain)]
+Description = Sets your HP to 0. Enemies will skip their attack turns but still follow you. You don't get experience while this is enabled. Can still die to traps.
+Type = Gameshark
+Activation = EndFrame
+Author = JukePlz
+800834E0 0000
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+800834E0 00FF
+
 [Infinite Money]
 Type = Gameshark
 Activation = EndFrame
-90012D5C 05FFFFFF
+90012D5C 3B9AC9FF
 
-[Invincibility in battle]
+[Invincibility]
 Type = Gameshark
 Activation = EndFrame
 800834EA 031D
 
-[Infinite Health in Battle]
-Type = Gameshark
-Activation = EndFrame
-800834E0 03E7
-
-[Walk through Walls Etc (Press R3 to toggle ON/OFF)]
-Description = And Jump over certain obstacles, cheat wont let you go past certain defined game points and best to keep it OFF when indoors
+[Noclip (Press R3 to Toggle ON/OFF)]
+Description = And Jump over certain obstacles, cheat won't let you go past certain defined game points and best to keep it OFF when indoors
 Type = Gameshark
 Activation = EndFrame
 D7010001 01000400
@@ -25,4 +57,324 @@ F5096E1E 10401000
 F508CB12 10401000
 F5096346 14601000
 F50962EA 14601000
+
+[Quick Level-Up]
+Type = Gameshark
+Activation = EndFrame
+800834D0 FFFF
+
+[Item Codes\Safe: Slot 1]
+Type = Gameshark
+Activation = EndFrame
+Option = [Weapon]Trained Wand:4098
+Option = [Weapon]Gold Sword:3841
+Option = [Weapon]Dark Sword:3849
+Option = [Weapon]Holy Sword:3850
+Option = [Weapon]Seraphim Sword:3852
+Option = [Shield]Mirror Shield:4355
+Option = [Shield]Leather Shield:4354
+Option = [Shield]Diamond Shield:4359
+Option = [Sand]Red:2561
+Option = [Sand]Blue:2562
+Option = [Sand]White:2563
+Option = [Seed]Hazak:769
+Option = [Seed]Shomuro:770
+Option = [Seed]Mazarr:771
+Option = [Seed]Mahell:772
+Option = [Seed]Light:773
+Option = [Seed]Sea:774
+Option = [Seed]Wind:775
+Option = [Seed]Lar:776
+Option = [Seed]Slow:777
+Option = [Seed]Tovar:778
+Option = [Herb]Medicinal:257
+Option = [Fruit]Pita:513
+Option = [Fruit]Big Pita:514
+Option = [Fruit]Tumna:515
+Option = [Fruit]Leva:516
+Option = [Fruit]Leolam:517
+Option = [Fruit]Laev:518
+Option = [Fruit]Roche:519
+Option = [Fruit]Limit:520
+Option = [Fruit]Oleem:521
+Option = [Fruit]Geropita:522
+Option = [Scroll]Holy:1281
+Option = [Scroll]Restore:1284
+Option = [Scroll]De-curse:1285
+Option = [Crystal]Fire:1537
+Option = [Crystal]Water:1538
+Option = [Crystal]Wind:1539
+Option = [Bell]Holy:1793
+Option = [Bell]Malicious:1794
+Option = [Bell]Familiar:1795
+Option = [Glasses]Truth:2049
+Option = [Glasses]Star:2050
+Option = [Quest]Guru's Pot:3329
+Option = [Quest]W. Medal:3330
+Option = [Quest]Dumplings:3331
+Option = [Quest]Music Box:3332
+Option = [Quest]Eye Glasses:3333
+Option = [Quest]B. Cape:3334
+Option = [Quest]Chappie:3335
+Option = [Special]Koh's Head:3080
+80011F80 ????
+
+[Item Codes\Safe: Slot 1 (Attribute)]
+Description = Sets level for weapons and shields, and charges for magic balls. Disable this for other items (should be zero).
+Type = Gameshark
+Activation = EndFrame
+OptionRange = 0:99
+80011F82 ????
+
+[Item Codes\Safe: Slot 2]
+Type = Gameshark
+Activation = EndFrame
+Option = [Weapon]Trained Wand:4098
+Option = [Weapon]Gold Sword:3841
+Option = [Weapon]Dark Sword:3849
+Option = [Weapon]Holy Sword:3850
+Option = [Weapon]Seraphim Sword:3852
+Option = [Shield]Mirror Shield:4355
+Option = [Shield]Leather Shield:4354
+Option = [Shield]Diamond Shield:4359
+Option = [Sand]Red:2561
+Option = [Sand]Blue:2562
+Option = [Sand]White:2563
+Option = [Seed]Hazak:769
+Option = [Seed]Shomuro:770
+Option = [Seed]Mazarr:771
+Option = [Seed]Mahell:772
+Option = [Seed]Light:773
+Option = [Seed]Sea:774
+Option = [Seed]Wind:775
+Option = [Seed]Lar:776
+Option = [Seed]Slow:777
+Option = [Seed]Tovar:778
+Option = [Herb]Medicinal:257
+Option = [Fruit]Pita:513
+Option = [Fruit]Big Pita:514
+Option = [Fruit]Tumna:515
+Option = [Fruit]Leva:516
+Option = [Fruit]Leolam:517
+Option = [Fruit]Laev:518
+Option = [Fruit]Roche:519
+Option = [Fruit]Limit:520
+Option = [Fruit]Oleem:521
+Option = [Fruit]Geropita:522
+Option = [Scroll]Holy:1281
+Option = [Scroll]Restore:1284
+Option = [Scroll]De-curse:1285
+Option = [Crystal]Fire:1537
+Option = [Crystal]Water:1538
+Option = [Crystal]Wind:1539
+Option = [Bell]Holy:1793
+Option = [Bell]Malicious:1794
+Option = [Bell]Familiar:1795
+Option = [Glasses]Truth:2049
+Option = [Glasses]Star:2050
+Option = [Quest]Guru's Pot:3329
+Option = [Quest]W. Medal:3330
+Option = [Quest]Dumplings:3331
+Option = [Quest]Music Box:3332
+Option = [Quest]Eye Glasses:3333
+Option = [Quest]B. Cape:3334
+Option = [Quest]Chappie:3335
+Option = [Special]Koh's Head:3080
+80011F84 ????
+
+[Item Codes\Safe: Slot 2 (Attribute)]
+Description = Sets level for weapons and shields, and charges for magic balls. Disable this for other items (should be zero).
+Type = Gameshark
+Activation = EndFrame
+OptionRange = 0:99
+80011F86 ????
+
+[Item Codes\Safe: Slot 3]
+Type = Gameshark
+Activation = EndFrame
+Option = [Weapon]Trained Wand:4098
+Option = [Weapon]Gold Sword:3841
+Option = [Weapon]Dark Sword:3849
+Option = [Weapon]Holy Sword:3850
+Option = [Weapon]Seraphim Sword:3852
+Option = [Shield]Mirror Shield:4355
+Option = [Shield]Leather Shield:4354
+Option = [Shield]Diamond Shield:4359
+Option = [Sand]Red:2561
+Option = [Sand]Blue:2562
+Option = [Sand]White:2563
+Option = [Seed]Hazak:769
+Option = [Seed]Shomuro:770
+Option = [Seed]Mazarr:771
+Option = [Seed]Mahell:772
+Option = [Seed]Light:773
+Option = [Seed]Sea:774
+Option = [Seed]Wind:775
+Option = [Seed]Lar:776
+Option = [Seed]Slow:777
+Option = [Seed]Tovar:778
+Option = [Herb]Medicinal:257
+Option = [Fruit]Pita:513
+Option = [Fruit]Big Pita:514
+Option = [Fruit]Tumna:515
+Option = [Fruit]Leva:516
+Option = [Fruit]Leolam:517
+Option = [Fruit]Laev:518
+Option = [Fruit]Roche:519
+Option = [Fruit]Limit:520
+Option = [Fruit]Oleem:521
+Option = [Fruit]Geropita:522
+Option = [Scroll]Holy:1281
+Option = [Scroll]Restore:1284
+Option = [Scroll]De-curse:1285
+Option = [Crystal]Fire:1537
+Option = [Crystal]Water:1538
+Option = [Crystal]Wind:1539
+Option = [Bell]Holy:1793
+Option = [Bell]Malicious:1794
+Option = [Bell]Familiar:1795
+Option = [Glasses]Truth:2049
+Option = [Glasses]Star:2050
+Option = [Quest]Guru's Pot:3329
+Option = [Quest]W. Medal:3330
+Option = [Quest]Dumplings:3331
+Option = [Quest]Music Box:3332
+Option = [Quest]Eye Glasses:3333
+Option = [Quest]B. Cape:3334
+Option = [Quest]Chappie:3335
+Option = [Special]Koh's Head:3080
+80011F88 ????
+
+[Item Codes\Safe: Slot 3 (Attribute)]
+Description = Sets level for weapons and shields, and charges for magic balls. Disable this for other items (should be zero).
+Type = Gameshark
+Activation = EndFrame
+OptionRange = 0:99
+80011F8A ????
+
+[Item Codes\Safe: Slot 4]
+Type = Gameshark
+Activation = EndFrame
+Option = [Weapon]Trained Wand:4098
+Option = [Weapon]Gold Sword:3841
+Option = [Weapon]Dark Sword:3849
+Option = [Weapon]Holy Sword:3850
+Option = [Weapon]Seraphim Sword:3852
+Option = [Shield]Mirror Shield:4355
+Option = [Shield]Leather Shield:4354
+Option = [Shield]Diamond Shield:4359
+Option = [Sand]Red:2561
+Option = [Sand]Blue:2562
+Option = [Sand]White:2563
+Option = [Seed]Hazak:769
+Option = [Seed]Shomuro:770
+Option = [Seed]Mazarr:771
+Option = [Seed]Mahell:772
+Option = [Seed]Light:773
+Option = [Seed]Sea:774
+Option = [Seed]Wind:775
+Option = [Seed]Lar:776
+Option = [Seed]Slow:777
+Option = [Seed]Tovar:778
+Option = [Herb]Medicinal:257
+Option = [Fruit]Pita:513
+Option = [Fruit]Big Pita:514
+Option = [Fruit]Tumna:515
+Option = [Fruit]Leva:516
+Option = [Fruit]Leolam:517
+Option = [Fruit]Laev:518
+Option = [Fruit]Roche:519
+Option = [Fruit]Limit:520
+Option = [Fruit]Oleem:521
+Option = [Fruit]Geropita:522
+Option = [Scroll]Holy:1281
+Option = [Scroll]Restore:1284
+Option = [Scroll]De-curse:1285
+Option = [Crystal]Fire:1537
+Option = [Crystal]Water:1538
+Option = [Crystal]Wind:1539
+Option = [Bell]Holy:1793
+Option = [Bell]Malicious:1794
+Option = [Bell]Familiar:1795
+Option = [Glasses]Truth:2049
+Option = [Glasses]Star:2050
+Option = [Quest]Guru's Pot:3329
+Option = [Quest]W. Medal:3330
+Option = [Quest]Dumplings:3331
+Option = [Quest]Music Box:3332
+Option = [Quest]Eye Glasses:3333
+Option = [Quest]B. Cape:3334
+Option = [Quest]Chappie:3335
+Option = [Special]Koh's Head:3080
+80011F8C ????
+
+[Item Codes\Safe: Slot 4 (Attribute)]
+Description = Sets level for weapons and shields, and charges for magic balls. Disable this for other items (should be zero).
+Type = Gameshark
+Activation = EndFrame
+OptionRange = 0:99
+80011F8E ????
+
+[Item Codes\Safe: Slot 5]
+Type = Gameshark
+Activation = EndFrame
+Option = [Weapon]Trained Wand:4098
+Option = [Weapon]Gold Sword:3841
+Option = [Weapon]Dark Sword:3849
+Option = [Weapon]Holy Sword:3850
+Option = [Weapon]Seraphim Sword:3852
+Option = [Shield]Mirror Shield:4355
+Option = [Shield]Leather Shield:4354
+Option = [Shield]Diamond Shield:4359
+Option = [Sand]Red:2561
+Option = [Sand]Blue:2562
+Option = [Sand]White:2563
+Option = [Seed]Hazak:769
+Option = [Seed]Shomuro:770
+Option = [Seed]Mazarr:771
+Option = [Seed]Mahell:772
+Option = [Seed]Light:773
+Option = [Seed]Sea:774
+Option = [Seed]Wind:775
+Option = [Seed]Lar:776
+Option = [Seed]Slow:777
+Option = [Seed]Tovar:778
+Option = [Herb]Medicinal:257
+Option = [Fruit]Pita:513
+Option = [Fruit]Big Pita:514
+Option = [Fruit]Tumna:515
+Option = [Fruit]Leva:516
+Option = [Fruit]Leolam:517
+Option = [Fruit]Laev:518
+Option = [Fruit]Roche:519
+Option = [Fruit]Limit:520
+Option = [Fruit]Oleem:521
+Option = [Fruit]Geropita:522
+Option = [Scroll]Holy:1281
+Option = [Scroll]Restore:1284
+Option = [Scroll]De-curse:1285
+Option = [Crystal]Fire:1537
+Option = [Crystal]Water:1538
+Option = [Crystal]Wind:1539
+Option = [Bell]Holy:1793
+Option = [Bell]Malicious:1794
+Option = [Bell]Familiar:1795
+Option = [Glasses]Truth:2049
+Option = [Glasses]Star:2050
+Option = [Quest]Guru's Pot:3329
+Option = [Quest]W. Medal:3330
+Option = [Quest]Dumplings:3331
+Option = [Quest]Music Box:3332
+Option = [Quest]Eye Glasses:3333
+Option = [Quest]B. Cape:3334
+Option = [Quest]Chappie:3335
+Option = [Special]Koh's Head:3080
+80011F90 ????
+
+[Item Codes\Safe: Slot 5 (Attribute)]
+Description = Sets level for weapons and shields, and charges for magic balls. Disable this for other items (should be zero).
+Type = Gameshark
+Activation = EndFrame
+OptionRange = 0:99
+80011F92 ????
 

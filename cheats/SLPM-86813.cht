@@ -1,0 +1,79 @@
+; CHTDB: ; [ Rockman Dash 2 - Episode 2 - Ooinaru Isan (Japan) {SLPM-86813} ]
+
+[Set Roll's Affection]
+Description = Triggers Roll's events. Needs the Flutter repaired, and an affection change to trigger.
+Type = Gameshark
+Activation = EndFrame
+Option = Neutral:0
+Option = Liked:32767
+Option = Hated:32768
+Author = JukePlz
+8009CAE2 ????
+
+[Set Karma]
+Description = Affects how citizens talk to Rock, shop prices, etc.
+Type = Gameshark
+Activation = EndFrame
+Option = Neutral:0
+Option = Liked:32767
+Option = Hated:32768
+Author = JukePlz
+8009CAE0 ????
+
+[Unlock All Extra Modes]
+Type = Gameshark
+Activation = EndFrame
+8009CABC 0003
+
+[Max Zenny]
+Type = Gameshark
+Activation = EndFrame
+8009CAC8 967F
+8009CACA 0098
+
+[Invincible]
+Type = Gameshark
+Activation = EndFrame
+8008C444 0001
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+3008C4EB 0063
+
+[Have All Special Weapons]
+Type = Gameshark
+Activation = EndFrame
+80098860 FFFF
+80098862 FFF3
+80098864 FFFF
+80098866 F707
+80098868 3F0F
+
+[Have All Buster Parts]
+Type = Gameshark
+Activation = EndFrame
+50001F01 0001
+3008C504 0001
+
+[Have All Items]
+Type = Gameshark
+Activation = EndFrame
+80098870 7F1F
+80098872 FFF0
+80098874 FFFF
+80098876 F03F
+80098878 FFFF
+
+[Have All Key Items]
+Type = Gameshark
+Activation = EndFrame
+8009886A 07FF
+8009886C FFF2
+8009886E 0F8F
+
+[Time is 00:00:00]
+Type = Gameshark
+Activation = EndFrame
+8009CAC0 0000
+8009CAC2 0000
