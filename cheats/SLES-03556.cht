@@ -1,39 +1,59 @@
 ; CHTDB: ; [ Mega Man Legends 2 (Europe) {SLES-03556} ]
 
+[Set Karma]
+Description = Affects how citizens talk to Mega Man, shop prices, etc.
+Type = Gameshark
+Activation = EndFrame
+Option = Liked:32767
+Option = Neutral:0
+Option = Hated:32768
+Author = JukePlz
+8009C828 ????
+
+[Set Roll's Affection]
+Description = Triggers Roll's events. Needs the Flutter repaired, and an affection change to trigger.
+Type = Gameshark
+Activation = EndFrame
+Option = Liked:32767
+Option = Neutral:0
+Option = Hated:32768
+Author = JukePlz
+8009C82A ????
+
+[Max Health]
+Type = Gameshark
+Activation = EndFrame
+3008C112 00A0
+
 [Infinite Health]
 Type = Gameshark
 Activation = EndFrame
 3008C110 00A0
 
-[Max health]
-Type = Gameshark
-Activation = EndFrame
-3008C112 00A0
-
-[Water pressure at max]
+[Water Pressure at Max]
 Type = Gameshark
 Activation = EndFrame
 8008C23A 0100
 
-[Time 00.00.00]
+[Time is 00:00:00]
 Type = Gameshark
 Activation = EndFrame
 8009C808 0000
 
-[Have all items]
+[Have All Items]
 Type = Gameshark
 Activation = EndFrame
 900985B8 FFF07F1F
 900985BC F03FFFFF
 800985C0 FFFF
 
-[Have all key items]
+[Have All Key Items]
 Type = Gameshark
 Activation = EndFrame
 800985B2 07FF
 900985B4 0F8FFFF2
 
-[Moon Jump (Press X, then L2)]
+[Moon Jump (Press X, Then L2)]
 Type = Gameshark
 Activation = EndFrame
 D009BEC2 BEFF
@@ -42,46 +62,69 @@ D009BEC2 BEFF
 [Select Weapon Slot 1]
 Type = Gameshark
 Activation = EndFrame
+Option = Lifter:0
+Option = Kick:1
+Option = Mega Buster:2
+Option = Crusher:3
+Option = Buster Cannon:4
+Option = Hyper Shell:5
+Option = Homing Missile:6
+Option = Ground Crawler:7
+Option = Vacuum Arm:8
+Option = Reflector Arm:9
+Option = Shield Arm:10
+Option = Blade Arm:11
+Option = Shining Laser:12
+Option = Machine Gun Arm:13
+Option = Spread Buster:14
+Option = Aqua Blaster:15
+Option = Hunter Seeker:16
+Option = Drill Arm:17
 3008C22E ????
-Option = Lifter:0x0000
-Option = Kick:0x0001
-Option = Mega Buster:0x0002
-Option = Crusher:0x0003
-Option = Buster Cannon:0x0004
-Option = Hyper Shell:0x0005
-Option = Homing Missile:0x0006
-Option = Ground Crawler:0x0007
-Option = Vacuum Arm:0x0008
-Option = Reflector Arm:0x0009
-Option = Shield Arm:0x000A
-Option = Blade Arm:0x000B
-Option = Shining Laser:0x000C
-Option = Machine Gun Arm:0x000D
-Option = Spread Buster:0x000E
-Option = Aqua Blaster:0x000F
-Option = Hunter Seeker:0x0010
-Option = Drill Arm:0x0011
 
 [Select Weapon Slot 2]
 Type = Gameshark
 Activation = EndFrame
+Option = Lifter:0
+Option = Kick:1
+Option = Mega Buster:2
+Option = Crusher:3
+Option = Buster Cannon:4
+Option = Hyper Shell:5
+Option = Homing Missile:6
+Option = Ground Crawler:7
+Option = Vacuum Arm:8
+Option = Reflector Arm:9
+Option = Shield Arm:10
+Option = Blade Arm:11
+Option = Shining Laser:12
+Option = Machine Gun Arm:13
+Option = Spread Buster:14
+Option = Aqua Blaster:15
+Option = Hunter Seeker:16
+Option = Drill Arm:17
 3008C22F ????
-Option = Lifter:0x0000
-Option = Kick:0x0001
-Option = Mega Buster:0x0002
-Option = Crusher:0x0003
-Option = Buster Cannon:0x0004
-Option = Hyper Shell:0x0005
-Option = Homing Missile:0x0006
-Option = Ground Crawler:0x0007
-Option = Vacuum Arm:0x0008
-Option = Reflector Arm:0x0009
-Option = Shield Arm:0x000A
-Option = Blade Arm:0x000B
-Option = Shining Laser:0x000C
-Option = Machine Gun Arm:0x000D
-Option = Spread Buster:0x000E
-Option = Aqua Blaster:0x000F
-Option = Hunter Seeker:0x0010
-Option = Drill Arm:0x0011
 
+[Have All Buster Parts]
+Type = Gameshark
+Activation = EndFrame
+50001002 0202
+8008C24C 0201
+3008C26A 001F
+
+[Have All Special Weapons]
+Type = Gameshark
+Activation = EndFrame
+800985A8 FFFF
+300985AA 0003
+
+[Have All Armor and Helmets]
+Type = Gameshark
+Activation = EndFrame
+300985AF 00FF
+300985B0 000F
+
+[Have All Shoes]
+Type = Gameshark
+Activation = EndFrame
+300985B1 00FF
