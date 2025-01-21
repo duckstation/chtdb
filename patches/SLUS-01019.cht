@@ -1,0 +1,10 @@
+# Threads of Fate (USA) [SLUS-01019]
+[Widescreen 16:9]
+Type = Gameshark
+Activation = EndFrame
+Author = Unknown
+OverrideAspectRatio = 16:9
+DisableWidescreenRendering = True
+Description = Patches the game to use 16:9 widescreen rendering, instead of 4:3.
+A70BF4A0 19991333
+A709EE4C 10000C00
