@@ -1,0 +1,9 @@
+# Vagrant Story (USA) [SLUS-01040]
+[Widescreen 16:9]
+Type = Gameshark
+Activation = EndFrame
+Author = Unknown
+OverrideAspectRatio = 16:9
+Description = Patches the game to use 16:9 widescreen rendering, instead of 4:3.
+A707AE6C 12000D80
+A70AED50 0E3812F5

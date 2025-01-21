@@ -1,0 +1,15 @@
+# Breath of Fire IV (USA) [SLUS-01324]
+[Widescreen 16:9]
+Type = Gameshark
+Activation = EndFrame
+Author = Unknown
+OverrideAspectRatio = 16:9
+Description = Patches the game to use 16:9 widescreen rendering, instead of 4:3. Sprites will stretch.
+8016AE1C 0C00
+8016AE1E 240A
+8016AE24 1000
+8016AE26 240A
+8016AE94 0C00
+8016AE96 240A
+8016AE9C 1000
+8016AE9E 240A
