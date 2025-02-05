@@ -1,0 +1,24 @@
+# Monster Rancher 2 (USA) [SLUS-00917]
+[Widescreen 16:9]
+Type = Gameshark
+Activation = EndFrame
+Author = Unknown
+OverrideAspectRatio = 16:9
+DisableWidescreenRendering = True
+Description = Patches the game to use 16:9 widescreen rendering, instead of 4:3.
+A708E5A0 10000C00
+
+[Widescreen 20:9]
+Type = Gameshark
+Activation = EndFrame
+Author = Unknown
+OverrideAspectRatio = 20:9
+DisableWidescreenRendering = True
+Description = Patches the game to use 20:9 widescreen rendering, instead of 4:3.
+A708E5A0 10000900
+
+[Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+Author = Unknown
+A708E5A0 10000400
