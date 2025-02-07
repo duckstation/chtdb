@@ -1,0 +1,13 @@
+# Legacy of Kain: Soul Reaver (USA)`
+[Widescreen 16:9]
+Type = Gameshark
+Activation = EndFrame
+OverrideAspectRatio = 16:9
+DisableWidescreenRendering = True
+Description = Patches the game to use 16:9 widescreen rendering, instead of 4:3.
+
+A703A374 10000C00
+A703A384 00340034
+A703A386 a7a0AFA0
+A703A388 00361000
+A703A38A a7a02403
