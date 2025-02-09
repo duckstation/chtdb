@@ -801,6 +801,7 @@ Activation = EndFrame
 [Widescreen 16-9]
 Type = Gameshark
 Activation = EndFrame
+Ignore = True
 8001C354 2081
 8001C356 0800
 80008204 0000

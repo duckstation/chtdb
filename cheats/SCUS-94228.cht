@@ -993,6 +993,7 @@ Activation = EndFrame
 [Widescreen 16-9]
 Type = Gameshark
 Activation = EndFrame
+Ignore = True
 8001EDDE 241B
 8001EDDC 0C00
 80033C92 A7BB
