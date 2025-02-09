@@ -1,16 +1,63 @@
 ; CHTDB: ; [ Diablo (USA) (1998) (Electronic Arts) {SLUS-00619} <diablo> ]
 
-[P2 Infinite Life]
-Type = Gameshark
-Activation = EndFrame
-900DAD3C 0001FFFF
-
 [P1 Infinite Life]
 Type = Gameshark
 Activation = EndFrame
 900D9354 0001FFFF
 
-[P1 Active + Max Levels For All Spells]
+[P2 Infinite Life]
+Type = Gameshark
+Activation = EndFrame
+900DAD3C 0001FFFF
+
+[P1 Infinite Mana]
+Type = Gameshark
+Activation = EndFrame
+800D9368 FFFF
+800D936A 0001
+
+[P2 Infinite Mana]
+Type = Gameshark
+Activation = EndFrame
+800DAD50 FFFF
+800DAD52 0001
+
+[P1 Max All Stats]
+Type = Gameshark
+Activation = EndFrame
+800D9330 02EE
+800D9332 00FA
+800D9334 02EE
+800D9336 00FA
+800D9338 02EE
+800D933A 00FA
+800D933C 02EE
+800D933E 00FA
+
+[P2 Max All Stats]
+Type = Gameshark
+Activation = EndFrame
+800DAD18 02EE
+800DAD1A 00FA
+800DAD1C 02EE
+800DAD1E 00FA
+800DAD20 02EE
+800DAD22 00FA
+800DAD24 02EE
+800DAD26 00FA
+
+[P1 Infinite "Points to Distribute"]
+Type = Gameshark
+Activation = EndFrame
+800D9340 0063
+
+[P2 Infinite "Points to Distribute"]
+Type = Gameshark
+Activation = EndFrame
+800DAD28 0063
+
+[P1 Have All Spells At Max Level]
+Description = Phasing and Teleport are unavailable in 2-player games.
 Type = Gameshark
 Activation = EndFrame
 800D92AA 0F0F
@@ -19,11 +66,13 @@ Activation = EndFrame
 900D92B4 0F0F0F0F
 900D92B8 0F0F0F0F
 900D92BC 0F0F0F0F
-800D92C0 0F0F
-800D92C6 0F0F
+900D92C0 0F0F0F0F
 900D92C8 0F0F0F0F
+800D92F0 FFFF
+900D92F2 FFFFFFFF
 
-[Active + Max Levels For All Spells Player2]
+[P2 Have All Spells At Max Level]
+Description = Phasing and Teleport are unavailable in 2-player games.
 Type = Gameshark
 Activation = EndFrame
 800DAC92 0F0F
@@ -32,7 +81,22 @@ Activation = EndFrame
 900DAC9C 0F0F0F0F
 900DACA0 0F0F0F0F
 900DACA4 0F0F0F0F
-800DACA8 0F0F
-800DACAE 0F0F
+900DACA8 0F0F0F0F
 900DACB0 0F0F0F0F
+800DACD8 FFFF
+900DACDA FFFFFFFF
+
+[P1 Max Resistances]
+Type = Gameshark
+Activation = EndFrame
+300D9385 0064
+300D9386 0064
+300D9387 0064
+
+[P2 Max Resistances]
+Type = Gameshark
+Activation = EndFrame
+300DAD6D 0064
+300DAD6E 0064
+300DAD6F 0064
 

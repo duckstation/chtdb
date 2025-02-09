@@ -1,81 +1,26 @@
-; CHTDB: ; [ Azure Dreams (USA) (1998) (Konami of America) {SLUS-00614} <azuredrm> ]
-
-[Invincible (Koh)]
-Type = Gameshark
-Activation = EndFrame
-800834EA 031D
+; CHTDB: ; [ Other Life Azure Dreams (Japan) (1997) (Konami) {SLPM-86047} ]
 
 [Infinite HP (Koh)]
 Type = Gameshark
 Activation = EndFrame
-300834E0 63
+30089480 63
 
 [Max HP (Koh)]
 Type = Gameshark
 Activation = EndFrame
-300834E1 63
+30089481 63
 
 [Infinite Money (In Town)]
 Type = Gameshark
 Activation = EndFrame
-90012D5C 3B9AC9FF
+90012BB8 0098967F
 
-[Quick Level-Up]
-Type = Gameshark
-Activation = EndFrame
-800834D0 FFFF
-
-[Undead Mode (Enemies Can't Attack Koh. No Exp Gain)]
-Author = JukePlz
-Description = Sets your HP to 0. Enemies will skip their attack turns but still follow you. You don't get experience while this is enabled. Can still die to traps.
-Type = Gameshark
-Activation = EndFrame
-300834E0 00
-
-[Disable Koh Stat Reset On Tower Re-entry]
-Author = czaj
-Type = Gameshark
-Activation = EndFrame
-F6000000 1F000002
-A0016000 8001D4FC
-A301022C 00000000
-900170A0 00000000
-900170A4 00000000
-900170AC 00000000
-900170B0 00000000
-900170B4 00000000
-900170BC 00000000
-900170C0 804321BD
-900170C4 00000000
-900170D0 00000000
-900170D8 00000000
-900170F0 00000000
-00000000 0000FFFF
-
-[Noclip (Press R3 to Toggle ON/OFF)]
-Description = And Jump over certain obstacles, cheat won't let you go past certain defined game points and best to keep it OFF when indoors
-Type = Gameshark
-Activation = EndFrame
-D7010001 01000400
-F508CA76 10401000
-F5096E1E 10401000
-F508CB12 10401000
-F5096346 14601000
-F50962EA 14601000
-
-[Disable Item Obfuscation In 2nd Tower (Experimental)]
-Author = czaj
-Description = Only enable this inside the tower. May crash elsewhere.
-Type = Gameshark
-Activation = EndFrame
-8008dae8 00000000
-
-[Floor Select]
+[Level Select]
 Author = JukePlz
 Type = Gameshark
 Activation = EndFrame
 OptionRange = 1:40
-8008146C ??
+80081784 00??
 
 [Item Codes\Item at Feet\Monster Eggs]
 Author = JukePlz
@@ -126,7 +71,7 @@ Option = Glacier:4650
 Option = Tyrant:4651
 Option = Golem:4652
 Option = Maximum:4653
-A7081484 0000????
+800817AC 0000????
 
 [Item Codes\Item at Feet\Weapons]
 Author = JukePlz
@@ -148,7 +93,7 @@ Option = Money Wand:4101
 Option = Scarlet Wand:4102
 Option = Stream Wand:4103
 Option = Gulf Wand:4104
-A7081484 0000????
+800817AC 0000????
 
 [Item Codes\Item at Feet\Shields]
 Author = JukePlz
@@ -165,7 +110,7 @@ Option = Scorch:4360
 Option = Ice:4361
 Option = Earth:4362
 Option = Live:4363
-A7081484 0000????
+800817AC 0000????
 
 [Item Codes\Item at Feet\Spell Balls]
 Author = JukePlz
@@ -185,7 +130,7 @@ Option = Blinder:1035
 Option = Binding:1036
 Option = Sleep:1037
 Option = Weak:1038
-A7081484 0000????
+800817AC 0000????
 
 [Item Codes\Item at Feet\Sands]
 Author = JukePlz
@@ -194,7 +139,7 @@ Activation = EndFrame
 Option = Red:2561
 Option = Blue:2562
 Option = White:2563
-A7081484 0000????
+800817AC 0000????
 
 [Item Codes\Item at Feet\Seeds]
 Author = JukePlz
@@ -210,7 +155,7 @@ Option = Wind:775
 Option = Lar:776
 Option = Slow:777
 Option = Tovar:778
-A7081484 0000????
+800817AC 0000????
 
 [Item Codes\Item at Feet\Herbs]
 Author = JukePlz
@@ -230,7 +175,7 @@ Option = Harash:267
 Option = Horrey:268
 Option = Sleep:269
 Option = Reoam:270
-A7081484 0000????
+800817AC 0000????
 
 [Item Codes\Item at Feet\Fruits]
 Author = JukePlz
@@ -246,7 +191,7 @@ Option = Roche:519
 Option = Limit:520
 Option = Oleem:521
 Option = Geropita:522
-A7081484 0000????
+800817AC 0000????
 
 [Item Codes\Item at Feet\Scrolls]
 Author = JukePlz
@@ -259,7 +204,7 @@ Option = Restore:1284
 Option = De-curse:1285
 Option = Flat:1286
 Option = Alchemic:1287
-A7081484 0000????
+800817AC 0000????
 
 [Item Codes\Item at Feet\Crystals]
 Author = JukePlz
@@ -268,7 +213,7 @@ Activation = EndFrame
 Option = Fire:1537
 Option = Water:1538
 Option = Wind:1539
-A7081484 0000????
+800817AC 0000????
 
 [Item Codes\Item at Feet\Bells]
 Author = JukePlz
@@ -277,7 +222,7 @@ Activation = EndFrame
 Option = Holy:1793
 Option = Malicious:1794
 Option = Familiar:1795
-A7081484 0000????
+800817AC 0000????
 
 [Item Codes\Item at Feet\Glasses]
 Author = JukePlz
@@ -285,7 +230,7 @@ Type = Gameshark
 Activation = EndFrame
 Option = Truth:2049
 Option = Star:2050
-A7081484 0000????
+800817AC 0000????
 
 [Item Codes\Item at Feet\Loupes]
 Author = JukePlz
@@ -296,7 +241,7 @@ Option = Trap:2306
 Option = Focus:2307
 Option = Monster:2308
 Option = Treasure:2309
-A7081484 0000????
+800817AC 0000????
 
 [Item Codes\Item at Feet\Quest]
 Author = JukePlz
@@ -310,14 +255,14 @@ Option = Eye Glasses:3333
 Option = B. Cape:3334
 Option = Chappie:3335
 Option = Koh's Head:3080
-A7081484 0000????
+800817AC 0000????
 
 [Item Codes\Attribute]
 Author = JukePlz
 Type = Gameshark
 Activation = EndFrame
 OptionRange = 0:99
-80081486 ??
+800817AE ??
 
 [Item Codes\Safe: Slot 1\Monster Eggs]
 Type = Gameshark
@@ -367,7 +312,7 @@ Option = Glacier:4650
 Option = Tyrant:4651
 Option = Golem:4652
 Option = Maximum:4653
-80011F80 ????
+80011E30 ????
 
 [Item Codes\Safe: Slot 1\Weapons]
 Type = Gameshark
@@ -388,7 +333,7 @@ Option = Money Wand:4101
 Option = Scarlet Wand:4102
 Option = Stream Wand:4103
 Option = Gulf Wand:4104
-80011F80 ????
+80011E30 ????
 
 [Item Codes\Safe: Slot 1\Shields]
 Type = Gameshark
@@ -404,7 +349,7 @@ Option = Scorch:4360
 Option = Ice:4361
 Option = Earth:4362
 Option = Live:4363
-80011F80 ????
+80011E30 ????
 
 [Item Codes\Safe: Slot 1\Spell Balls]
 Author = JukePlz
@@ -424,7 +369,7 @@ Option = Blinder:1035
 Option = Binding:1036
 Option = Sleep:1037
 Option = Weak:1038
-80011F80 ????
+80011E30 ????
 
 [Item Codes\Safe: Slot 1\Sands]
 Type = Gameshark
@@ -432,7 +377,7 @@ Activation = EndFrame
 Option = Red:2561
 Option = Blue:2562
 Option = White:2563
-80011F80 ????
+80011E30 ????
 
 [Item Codes\Safe: Slot 1\Seeds]
 Type = Gameshark
@@ -447,7 +392,7 @@ Option = Wind:775
 Option = Lar:776
 Option = Slow:777
 Option = Tovar:778
-80011F80 ????
+80011E30 ????
 
 [Item Codes\Safe: Slot 1\Herbs]
 Type = Gameshark
@@ -466,7 +411,7 @@ Option = Harash:267
 Option = Horrey:268
 Option = Sleep:269
 Option = Reoam:270
-80011F80 ????
+80011E30 ????
 
 [Item Codes\Safe: Slot 1\Fruits]
 Type = Gameshark
@@ -481,7 +426,7 @@ Option = Roche:519
 Option = Limit:520
 Option = Oleem:521
 Option = Geropita:522
-80011F80 ????
+80011E30 ????
 
 [Item Codes\Safe: Slot 1\Scrolls]
 Type = Gameshark
@@ -493,7 +438,7 @@ Option = Restore:1284
 Option = De-curse:1285
 Option = Flat:1286
 Option = Alchemic:1287
-80011F80 ????
+80011E30 ????
 
 [Item Codes\Safe: Slot 1\Crystals]
 Type = Gameshark
@@ -501,7 +446,7 @@ Activation = EndFrame
 Option = Fire:1537
 Option = Water:1538
 Option = Wind:1539
-80011F80 ????
+80011E30 ????
 
 [Item Codes\Safe: Slot 1\Bells]
 Type = Gameshark
@@ -509,14 +454,14 @@ Activation = EndFrame
 Option = Holy:1793
 Option = Malicious:1794
 Option = Familiar:1795
-80011F80 ????
+80011E30 ????
 
 [Item Codes\Safe: Slot 1\Glasses]
 Type = Gameshark
 Activation = EndFrame
 Option = Truth:2049
 Option = Star:2050
-80011F80 ????
+80011E30 ????
 
 [Item Codes\Safe: Slot 1\Loupes]
 Author = JukePlz
@@ -527,7 +472,7 @@ Option = Trap:2306
 Option = Focus:2307
 Option = Monster:2308
 Option = Treasure:2309
-80011F80 ????
+80011E30 ????
 
 [Item Codes\Safe: Slot 1\Quest]
 Type = Gameshark
@@ -540,7 +485,7 @@ Option = Eye Glasses:3333
 Option = B. Cape:3334
 Option = Chappie:3335
 Option = Koh's Head:3080
-80011F80 ????
+80011E30 ????
 
 [Item Codes\Safe: Slot 2\Monster Eggs]
 Type = Gameshark
@@ -590,7 +535,7 @@ Option = Glacier:4650
 Option = Tyrant:4651
 Option = Golem:4652
 Option = Maximum:4653
-80011F84 ????
+80011E34 ????
 
 [Item Codes\Safe: Slot 2\Weapons]
 Type = Gameshark
@@ -611,7 +556,7 @@ Option = Money Wand:4101
 Option = Scarlet Wand:4102
 Option = Stream Wand:4103
 Option = Gulf Wand:4104
-80011F84 ????
+80011E34 ????
 
 [Item Codes\Safe: Slot 2\Shields]
 Type = Gameshark
@@ -627,7 +572,7 @@ Option = Scorch:4360
 Option = Ice:4361
 Option = Earth:4362
 Option = Live:4363
-80011F84 ????
+80011E34 ????
 
 [Item Codes\Safe: Slot 2\Spell Balls]
 Author = JukePlz
@@ -647,7 +592,7 @@ Option = Blinder:1035
 Option = Binding:1036
 Option = Sleep:1037
 Option = Weak:1038
-80011F84 ????
+80011E34 ????
 
 [Item Codes\Safe: Slot 2\Sands]
 Type = Gameshark
@@ -655,7 +600,7 @@ Activation = EndFrame
 Option = Red:2561
 Option = Blue:2562
 Option = White:2563
-80011F84 ????
+80011E34 ????
 
 [Item Codes\Safe: Slot 2\Seeds]
 Type = Gameshark
@@ -670,7 +615,7 @@ Option = Wind:775
 Option = Lar:776
 Option = Slow:777
 Option = Tovar:778
-80011F84 ????
+80011E34 ????
 
 [Item Codes\Safe: Slot 2\Herbs]
 Type = Gameshark
@@ -689,7 +634,7 @@ Option = Harash:267
 Option = Horrey:268
 Option = Sleep:269
 Option = Reoam:270
-80011F84 ????
+80011E34 ????
 
 [Item Codes\Safe: Slot 2\Fruits]
 Type = Gameshark
@@ -704,7 +649,7 @@ Option = Roche:519
 Option = Limit:520
 Option = Oleem:521
 Option = Geropita:522
-80011F84 ????
+80011E34 ????
 
 [Item Codes\Safe: Slot 2\Scrolls]
 Type = Gameshark
@@ -716,7 +661,7 @@ Option = Restore:1284
 Option = De-curse:1285
 Option = Flat:1286
 Option = Alchemic:1287
-80011F84 ????
+80011E34 ????
 
 [Item Codes\Safe: Slot 2\Crystals]
 Type = Gameshark
@@ -724,7 +669,7 @@ Activation = EndFrame
 Option = Fire:1537
 Option = Water:1538
 Option = Wind:1539
-80011F84 ????
+80011E34 ????
 
 [Item Codes\Safe: Slot 2\Bells]
 Type = Gameshark
@@ -732,14 +677,14 @@ Activation = EndFrame
 Option = Holy:1793
 Option = Malicious:1794
 Option = Familiar:1795
-80011F84 ????
+80011E34 ????
 
 [Item Codes\Safe: Slot 2\Glasses]
 Type = Gameshark
 Activation = EndFrame
 Option = Truth:2049
 Option = Star:2050
-80011F84 ????
+80011E34 ????
 
 [Item Codes\Safe: Slot 2\Loupes]
 Author = JukePlz
@@ -750,7 +695,7 @@ Option = Trap:2306
 Option = Focus:2307
 Option = Monster:2308
 Option = Treasure:2309
-80011F84 ????
+80011E34 ????
 
 [Item Codes\Safe: Slot 2\Quest]
 Type = Gameshark
@@ -763,7 +708,7 @@ Option = Eye Glasses:3333
 Option = B. Cape:3334
 Option = Chappie:3335
 Option = Koh's Head:3080
-80011F84 ????
+80011E34 ????
 
 [Item Codes\Safe: Slot 3\Monster Eggs]
 Type = Gameshark
@@ -813,7 +758,7 @@ Option = Glacier:4650
 Option = Tyrant:4651
 Option = Golem:4652
 Option = Maximum:4653
-80011F88 ????
+80011E38 ????
 
 [Item Codes\Safe: Slot 3\Weapons]
 Type = Gameshark
@@ -834,7 +779,7 @@ Option = Money Wand:4101
 Option = Scarlet Wand:4102
 Option = Stream Wand:4103
 Option = Gulf Wand:4104
-80011F88 ????
+80011E38 ????
 
 [Item Codes\Safe: Slot 3\Shields]
 Type = Gameshark
@@ -850,7 +795,7 @@ Option = Scorch:4360
 Option = Ice:4361
 Option = Earth:4362
 Option = Live:4363
-80011F88 ????
+80011E38 ????
 
 [Item Codes\Safe: Slot 3\Spell Balls]
 Author = JukePlz
@@ -870,7 +815,7 @@ Option = Blinder:1035
 Option = Binding:1036
 Option = Sleep:1037
 Option = Weak:1038
-80011F88 ????
+80011E38 ????
 
 [Item Codes\Safe: Slot 3\Sands]
 Type = Gameshark
@@ -878,7 +823,7 @@ Activation = EndFrame
 Option = Red:2561
 Option = Blue:2562
 Option = White:2563
-80011F88 ????
+80011E38 ????
 
 [Item Codes\Safe: Slot 3\Seeds]
 Type = Gameshark
@@ -893,7 +838,7 @@ Option = Wind:775
 Option = Lar:776
 Option = Slow:777
 Option = Tovar:778
-80011F88 ????
+80011E38 ????
 
 [Item Codes\Safe: Slot 3\Herbs]
 Type = Gameshark
@@ -912,7 +857,7 @@ Option = Harash:267
 Option = Horrey:268
 Option = Sleep:269
 Option = Reoam:270
-80011F88 ????
+80011E38 ????
 
 [Item Codes\Safe: Slot 3\Fruits]
 Type = Gameshark
@@ -927,7 +872,7 @@ Option = Roche:519
 Option = Limit:520
 Option = Oleem:521
 Option = Geropita:522
-80011F88 ????
+80011E38 ????
 
 [Item Codes\Safe: Slot 3\Scrolls]
 Type = Gameshark
@@ -939,7 +884,7 @@ Option = Restore:1284
 Option = De-curse:1285
 Option = Flat:1286
 Option = Alchemic:1287
-80011F88 ????
+80011E38 ????
 
 [Item Codes\Safe: Slot 3\Crystals]
 Type = Gameshark
@@ -947,7 +892,7 @@ Activation = EndFrame
 Option = Fire:1537
 Option = Water:1538
 Option = Wind:1539
-80011F88 ????
+80011E38 ????
 
 [Item Codes\Safe: Slot 3\Bells]
 Type = Gameshark
@@ -955,14 +900,14 @@ Activation = EndFrame
 Option = Holy:1793
 Option = Malicious:1794
 Option = Familiar:1795
-80011F88 ????
+80011E38 ????
 
 [Item Codes\Safe: Slot 3\Glasses]
 Type = Gameshark
 Activation = EndFrame
 Option = Truth:2049
 Option = Star:2050
-80011F88 ????
+80011E38 ????
 
 [Item Codes\Safe: Slot 3\Loupes]
 Author = JukePlz
@@ -973,7 +918,7 @@ Option = Trap:2306
 Option = Focus:2307
 Option = Monster:2308
 Option = Treasure:2309
-80011F88 ????
+80011E38 ????
 
 [Item Codes\Safe: Slot 3\Quest]
 Type = Gameshark
@@ -986,7 +931,7 @@ Option = Eye Glasses:3333
 Option = B. Cape:3334
 Option = Chappie:3335
 Option = Koh's Head:3080
-80011F88 ????
+80011E38 ????
 
 [Item Codes\Safe: Slot 4\Monster Eggs]
 Type = Gameshark
@@ -1036,7 +981,7 @@ Option = Glacier:4650
 Option = Tyrant:4651
 Option = Golem:4652
 Option = Maximum:4653
-80011F8C ????
+80011E3C ????
 
 [Item Codes\Safe: Slot 4\Weapons]
 Type = Gameshark
@@ -1057,7 +1002,7 @@ Option = Money Wand:4101
 Option = Scarlet Wand:4102
 Option = Stream Wand:4103
 Option = Gulf Wand:4104
-80011F8C ????
+80011E3C ????
 
 [Item Codes\Safe: Slot 4\Shields]
 Type = Gameshark
@@ -1073,7 +1018,7 @@ Option = Scorch:4360
 Option = Ice:4361
 Option = Earth:4362
 Option = Live:4363
-80011F8C ????
+80011E3C ????
 
 [Item Codes\Safe: Slot 4\Spell Balls]
 Author = JukePlz
@@ -1093,7 +1038,7 @@ Option = Blinder:1035
 Option = Binding:1036
 Option = Sleep:1037
 Option = Weak:1038
-80011F8C ????
+80011E3C ????
 
 [Item Codes\Safe: Slot 4\Sands]
 Type = Gameshark
@@ -1101,7 +1046,7 @@ Activation = EndFrame
 Option = Red:2561
 Option = Blue:2562
 Option = White:2563
-80011F8C ????
+80011E3C ????
 
 [Item Codes\Safe: Slot 4\Seeds]
 Type = Gameshark
@@ -1116,7 +1061,7 @@ Option = Wind:775
 Option = Lar:776
 Option = Slow:777
 Option = Tovar:778
-80011F8C ????
+80011E3C ????
 
 [Item Codes\Safe: Slot 4\Herbs]
 Type = Gameshark
@@ -1135,7 +1080,7 @@ Option = Harash:267
 Option = Horrey:268
 Option = Sleep:269
 Option = Reoam:270
-80011F8C ????
+80011E3C ????
 
 [Item Codes\Safe: Slot 4\Fruits]
 Type = Gameshark
@@ -1150,7 +1095,7 @@ Option = Roche:519
 Option = Limit:520
 Option = Oleem:521
 Option = Geropita:522
-80011F8C ????
+80011E3C ????
 
 [Item Codes\Safe: Slot 4\Scrolls]
 Type = Gameshark
@@ -1162,7 +1107,7 @@ Option = Restore:1284
 Option = De-curse:1285
 Option = Flat:1286
 Option = Alchemic:1287
-80011F8C ????
+80011E3C ????
 
 [Item Codes\Safe: Slot 4\Crystals]
 Type = Gameshark
@@ -1170,7 +1115,7 @@ Activation = EndFrame
 Option = Fire:1537
 Option = Water:1538
 Option = Wind:1539
-80011F8C ????
+80011E3C ????
 
 [Item Codes\Safe: Slot 4\Bells]
 Type = Gameshark
@@ -1178,14 +1123,14 @@ Activation = EndFrame
 Option = Holy:1793
 Option = Malicious:1794
 Option = Familiar:1795
-80011F8C ????
+80011E3C ????
 
 [Item Codes\Safe: Slot 4\Glasses]
 Type = Gameshark
 Activation = EndFrame
 Option = Truth:2049
 Option = Star:2050
-80011F8C ????
+80011E3C ????
 
 [Item Codes\Safe: Slot 4\Loupes]
 Author = JukePlz
@@ -1196,7 +1141,7 @@ Option = Trap:2306
 Option = Focus:2307
 Option = Monster:2308
 Option = Treasure:2309
-80011F8C ????
+80011E3C ????
 
 [Item Codes\Safe: Slot 4\Quest]
 Type = Gameshark
@@ -1209,7 +1154,7 @@ Option = Eye Glasses:3333
 Option = B. Cape:3334
 Option = Chappie:3335
 Option = Koh's Head:3080
-80011F8C ????
+80011E3C ????
 
 [Item Codes\Safe: Slot 5\Monster Eggs]
 Type = Gameshark
@@ -1259,7 +1204,7 @@ Option = Glacier:4650
 Option = Tyrant:4651
 Option = Golem:4652
 Option = Maximum:4653
-80011F90 ????
+80011E40 ????
 
 [Item Codes\Safe: Slot 5\Weapons]
 Type = Gameshark
@@ -1280,7 +1225,7 @@ Option = Money Wand:4101
 Option = Scarlet Wand:4102
 Option = Stream Wand:4103
 Option = Gulf Wand:4104
-80011F90 ????
+80011E40 ????
 
 [Item Codes\Safe: Slot 5\Shields]
 Type = Gameshark
@@ -1296,7 +1241,7 @@ Option = Scorch:4360
 Option = Ice:4361
 Option = Earth:4362
 Option = Live:4363
-80011F90 ????
+80011E40 ????
 
 [Item Codes\Safe: Slot 5\Spell Balls]
 Author = JukePlz
@@ -1316,7 +1261,7 @@ Option = Blinder:1035
 Option = Binding:1036
 Option = Sleep:1037
 Option = Weak:1038
-80011F90 ????
+80011E40 ????
 
 [Item Codes\Safe: Slot 5\Sands]
 Type = Gameshark
@@ -1324,7 +1269,7 @@ Activation = EndFrame
 Option = Red:2561
 Option = Blue:2562
 Option = White:2563
-80011F90 ????
+80011E40 ????
 
 [Item Codes\Safe: Slot 5\Seeds]
 Type = Gameshark
@@ -1339,7 +1284,7 @@ Option = Wind:775
 Option = Lar:776
 Option = Slow:777
 Option = Tovar:778
-80011F90 ????
+80011E40 ????
 
 [Item Codes\Safe: Slot 5\Herbs]
 Type = Gameshark
@@ -1358,7 +1303,7 @@ Option = Harash:267
 Option = Horrey:268
 Option = Sleep:269
 Option = Reoam:270
-80011F90 ????
+80011E40 ????
 
 [Item Codes\Safe: Slot 5\Fruits]
 Type = Gameshark
@@ -1373,7 +1318,7 @@ Option = Roche:519
 Option = Limit:520
 Option = Oleem:521
 Option = Geropita:522
-80011F90 ????
+80011E40 ????
 
 [Item Codes\Safe: Slot 5\Scrolls]
 Type = Gameshark
@@ -1385,7 +1330,7 @@ Option = Restore:1284
 Option = De-curse:1285
 Option = Flat:1286
 Option = Alchemic:1287
-80011F90 ????
+80011E40 ????
 
 [Item Codes\Safe: Slot 5\Crystals]
 Type = Gameshark
@@ -1393,7 +1338,7 @@ Activation = EndFrame
 Option = Fire:1537
 Option = Water:1538
 Option = Wind:1539
-80011F90 ????
+80011E40 ????
 
 [Item Codes\Safe: Slot 5\Bells]
 Type = Gameshark
@@ -1401,14 +1346,14 @@ Activation = EndFrame
 Option = Holy:1793
 Option = Malicious:1794
 Option = Familiar:1795
-80011F90 ????
+80011E40 ????
 
 [Item Codes\Safe: Slot 5\Glasses]
 Type = Gameshark
 Activation = EndFrame
 Option = Truth:2049
 Option = Star:2050
-80011F90 ????
+80011E40 ????
 
 [Item Codes\Safe: Slot 5\Loupes]
 Author = JukePlz
@@ -1419,7 +1364,7 @@ Option = Trap:2306
 Option = Focus:2307
 Option = Monster:2308
 Option = Treasure:2309
-80011F90 ????
+80011E40 ????
 
 [Item Codes\Safe: Slot 5\Quest]
 Type = Gameshark
@@ -1432,94 +1377,39 @@ Option = Eye Glasses:3333
 Option = B. Cape:3334
 Option = Chappie:3335
 Option = Koh's Head:3080
-80011F90 ????
+80011E40 ????
 
 [Item Codes\Attributes\Safe: Slot 1]
 Description = Sets level for weapons and shields, and charges for magic balls. Disable this for other items (should be zero).
 Type = Gameshark
 Activation = EndFrame
 OptionRange = 0:99
-80011F82 ????
+80011E32 ????
 
 [Item Codes\Attributes\Safe: Slot 2]
 Description = Sets level for weapons and shields, and charges for magic balls. Disable this for other items (should be zero).
 Type = Gameshark
 Activation = EndFrame
 OptionRange = 0:99
-80011F86 ????
+80011E36 ????
 
 [Item Codes\Attributes\Safe: Slot 3]
 Description = Sets level for weapons and shields, and charges for magic balls. Disable this for other items (should be zero).
 Type = Gameshark
 Activation = EndFrame
 OptionRange = 0:99
-80011F8A ????
+80011E3A ????
 
 [Item Codes\Attributes\Safe: Slot 4]
 Description = Sets level for weapons and shields, and charges for magic balls. Disable this for other items (should be zero).
 Type = Gameshark
 Activation = EndFrame
 OptionRange = 0:99
-80011F8E ????
+80011E3E ????
 
 [Item Codes\Attributes\Safe: Slot 5]
 Description = Sets level for weapons and shields, and charges for magic balls. Disable this for other items (should be zero).
 Type = Gameshark
 Activation = EndFrame
 OptionRange = 0:99
-80011F92 ????
-
-[Minigames\Ghosh Duel: Victories]
-Author = JukePlz
-Type = Gameshark
-Activation = EndFrame
-OptionRange = 0:256
-30013611 00??
-
-[Minigames\Ghosh Duel: Loses]
-Author = JukePlz
-Type = Gameshark
-Activation = EndFrame
-OptionRange = 0:256
-30013613 00??
-
-[Minigames\Barbell Catch: Current Score]
-Author = JukePlz
-Type = Gameshark
-Activation = EndFrame
-OptionRange = 0:9999
-801EB010 ????
-
-[Minigames\Barbell Catch: Record Score]
-Author = JukePlz
-Type = Gameshark
-Activation = EndFrame
-OptionRange = 20:9999
-800135C2 ????
-
-[Minigames\Whack-A-Mole: Moles Hit]
-Author = JukePlz
-Type = Gameshark
-Activation = EndFrame
-OptionRange = 0:999
-801EB132 ????
-
-[Minigames\Whack-A-Mole: All Time Record]
-Author = JukePlz
-Type = Gameshark
-Activation = EndFrame
-OptionRange = 20:9999
-800135BC ????
-
-[Minigames\Whack-A-Mole: Infinite Time]
-Author = JukePlz
-Type = Gameshark
-Activation = EndFrame
-301EB136 0063
-
-[Minigames\Takopoo Battle: Score]
-Author = JukePlz
-Type = Gameshark
-Activation = EndFrame
-OptionRange = 0:99
-301EBA60 ????
+80011E42 ????
