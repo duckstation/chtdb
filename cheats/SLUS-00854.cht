@@ -1,6 +1,79 @@
 ; CHTDB: ; [ Jade Cocoon - Story of the Tamamayu (USA) (1999) (Crave Entertainment) {SLUS-00854} <jadecoc> ]
 
-[Infinite HP]
+[Equipped Weapon]
+Author = Kim Hawk, Thunder2, ViperByte, Number 12, Aquase, KDF, Savior, Jaha
+Type = Gameshark
+Activation = EndFrame
+Option = Knife:0
+Option = Dagger:1
+Option = Aquazor:2
+Option = Bronze Sword:3
+Option = Sword of Speed:4
+Option = Iron Sword:5
+Option = Iron Axe:6
+Option = Life Stealer:7
+Option = White Horn:8
+Option = Little Bird:9
+Option = Whistler:10
+Option = Nightglow:11
+Option = Blue Phantom:12
+Option = Thunderbolt:13
+Option = Tsunami:14
+Option = Spring Blossom:15
+Option = Dragoncrest:16
+Option = Cloudcover:17
+Option = Palemoon:18
+Option = Reaper:19
+Option = Drainer:20
+Option = Autumn Moon:21
+Option = Icicle:22
+3008BD54 00??
+
+[Equipped Armor]
+Author = Kim Hawk, Thunder2, ViperByte, Number 12, Aquase, KDF, Savior, Jaha
+Type = Gameshark
+Activation = EndFrame
+Option = Hunter's Vest:0
+Option = Leather Vest:1
+Option = Chain Mail Vest:2
+Option = Wire Vest:3
+Option = Plate Mail Vest:4
+Option = Reflecting Vest:5
+Option = Silver Vest:6
+Option = Divine Vest:7
+Option = Riketz' Garb:8
+Option = Nagi Garb:9
+Option = Bloody Garb:10
+Option = Navy Blue Garb:11
+Option = Forest Garb:12
+Option = Divine Garb 1:13
+Option = Divine Garb 2:14
+3008BD55 00??
+
+[Equipped Other]
+Author = Kim Hawk, Thunder2, ViperByte, Number 12, Aquase, KDF, Savior, Jaha
+Type = Gameshark
+Activation = EndFrame
+Option = Leather Headband:0
+Option = Iron Headband:1
+Option = Silver Headband:2
+Option = Blue Bead:3
+Option = Green Bead:4
+Option = Yellow Bead:5
+Option = Red Bead:6
+Option = Sparrow Ruff:7
+Option = Iron Bracelet:8
+Option = Silver Crown:9
+Option = Holly Ruff:10
+Option = Hawk Ruff:11
+Option = Poison Choker:12
+Option = Sleep Choker:13
+Option = Stone Choker:14
+Option = Super Choker:15
+Option = Nagi Belt:16
+3008BD56 00??
+
+[Infinite HP (Levant)]
 Type = Gameshark
 Activation = EndFrame
 8008BD40 03E7
@@ -15,9 +88,34 @@ Type = Gameshark
 Activation = EndFrame
 800B1314 0000
 
-[Infinite Items all positions]
+[Infinite Items All Positions]
 Type = Gameshark
 Activation = EndFrame
 900AD1A8 24020063
 800AD1AE A042
 
+[Max Stats (Levant)]
+Type = Gameshark
+Activation = EndFrame
+3008bd64 0063
+3008bd65 0063
+3008bd66 0063
+3008bd67 0063
+3008bd68 0063
+
+[Max Capture Level]
+Type = Gameshark
+Activation = EndFrame
+3008BD7C 00FF
+
+[All Minion Skins]
+Type = Gameshark
+Activation = EndFrame
+8008B798 0300
+8008B79A 0301
+8008B79C 0302
+8008B79E 0303
+8008B7A0 0304
+8008B7A2 0305
+8008B7A4 0306
+8008B7A6 0307

@@ -1,44 +1,18 @@
 ; CHTDB: ; [ Mega Man Legends 2 (Europe) {SLES-03556} ]
 
-[Set Karma]
-Description = Affects how citizens talk to Mega Man, shop prices, etc.
+[Have All Buster Parts]
 Type = Gameshark
 Activation = EndFrame
-Option = Liked:32767
-Option = Neutral:0
-Option = Hated:32768
-Author = JukePlz
-8009C828 ????
+50001002 0202
+8008C24C 0201
+3008C26A 001F
 
-[Set Roll's Affection]
-Description = Triggers Roll's events. Needs the Flutter repaired, and an affection change to trigger.
+[Have All Helmets/Armor/Shoes]
 Type = Gameshark
 Activation = EndFrame
-Option = Liked:32767
-Option = Neutral:0
-Option = Hated:32768
-Author = JukePlz
-8009C82A ????
-
-[Max Health]
-Type = Gameshark
-Activation = EndFrame
-3008C112 00A0
-
-[Infinite Health]
-Type = Gameshark
-Activation = EndFrame
-3008C110 00A0
-
-[Water Pressure at Max]
-Type = Gameshark
-Activation = EndFrame
-8008C23A 0100
-
-[Time is 00:00:00]
-Type = Gameshark
-Activation = EndFrame
-8009C808 0000
+300985AF 00FF
+300985B0 000F
+300985B1 00FF
 
 [Have All Items]
 Type = Gameshark
@@ -53,11 +27,26 @@ Activation = EndFrame
 800985B2 07FF
 900985B4 0F8FFFF2
 
-[Moon Jump (Press X, Then L2)]
+[Have All Special Weapons]
 Type = Gameshark
 Activation = EndFrame
-D009BEC2 BEFF
-8008C0DA FF20
+800985A8 FFFF
+300985AA 0003
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+3008C110 00A0
+
+[Max Health]
+Type = Gameshark
+Activation = EndFrame
+3008C112 00A0
+
+[Max Zenny]
+Type = Gameshark
+Activation = EndFrame
+9009C810 98967F
 
 [Select Weapon Slot 1]
 Type = Gameshark
@@ -105,26 +94,45 @@ Option = Hunter Seeker:16
 Option = Drill Arm:17
 3008C22F ????
 
-[Have All Buster Parts]
+[Set Karma]
+Author = JukePlz
+Description = Affects how citizens talk to Mega Man, shop prices, etc.
 Type = Gameshark
 Activation = EndFrame
-50001002 0202
-8008C24C 0201
-3008C26A 001F
+Option = Liked:32767
+Option = Neutral:0
+Option = Hated:32768
+8009C828 ????
 
-[Have All Special Weapons]
+[Set Roll's Affection]
+Author = JukePlz
+Description = Needs the Flutter repaired, and an affection change to trigger Roll's event.
 Type = Gameshark
 Activation = EndFrame
-800985A8 FFFF
-300985AA 0003
+Option = Liked:32767
+Option = Neutral:0
+Option = Hated:32768
+8009C82A ????
 
-[Have All Armor and Helmets]
+[Room Select]
+Description = Room 0 (debug room) was removed from PAL version.
 Type = Gameshark
 Activation = EndFrame
-300985AF 00FF
-300985B0 000F
+OptionRange = 1:9999
+8009C7F8 ????
 
-[Have All Shoes]
+[Moon Jump (Press X, Then L2)]
 Type = Gameshark
 Activation = EndFrame
-300985B1 00FF
+D009BEC2 BEFF
+8008C0DA FF20
+
+[Water Pressure at Max]
+Type = Gameshark
+Activation = EndFrame
+8008C23A 0100
+
+[Time is 00:00:00]
+Type = Gameshark
+Activation = EndFrame
+8009C808 0000
