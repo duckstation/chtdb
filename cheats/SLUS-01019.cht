@@ -79,9 +79,10 @@ Activation = EndFrame
 8009B2F0 00FF
 ;#### PATCHES LISTED BELOW ####
 
-[Widescreen 16-9]
+[Widescreen 16:9]
 Type = Gameshark
 Activation = EndFrame
+Ignore = True
 A70BF4A0 19991333
 A709EE4C 10000C00
 

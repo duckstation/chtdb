@@ -51,9 +51,10 @@ Type = Gameshark
 Activation = EndFrame
 900C1B28 00010001
 
-[Widescreen 16-9]
+[Widescreen 16:9]
 Type = Gameshark
 Activation = EndFrame
+Ignore = True
 80038058 2082
 8003805A 0800
 80008208 00C0
