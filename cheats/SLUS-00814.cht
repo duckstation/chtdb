@@ -1,25 +1,69 @@
 ; CHTDB: ; [ Chocobo's Dungeon 2 (USA) (1999) (Square Electronic Arts) {SLUS-00814} <chocodn2> ]
 
-[Infinite Money]
-Type = Gameshark
-Activation = EndFrame
-80103FA8 270F
-
-[Infinite HP Partner]
-Type = Gameshark
-Activation = EndFrame
-80102844 03E7
-
-[Infinite HP Choco]
+[Chocobo\Infinite HP]
 Type = Gameshark
 Activation = EndFrame
 801026B8 03E7
 
-[Choco Max Level and All Spells]
+[Chocobo\Max HP]
+Type = Gameshark
+Activation = EndFrame
+80103FB2 03E7
+
+[Chocobo\Max All Stats]
+Type = Gameshark
+Activation = EndFrame
+50000302 0000
+801055FA 03E7
+
+[Chocobo\Max Level and All Spells]
 Type = Gameshark
 Activation = EndFrame
 50000302 0000
 8010401C 6262
+
+[Partner\Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+80102844 03E7
+
+[Have All Feathers]
+Type = Gameshark
+Activation = EndFrame
+80104014 FFFF
+80104016 FFFF
+80104018 FFFF
+3010401A FFFF
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80103FAE 008C
+
+[Infinite Gil]
+Type = Gameshark
+Activation = EndFrame
+90103FA8 0098967F
+
+[Shops Ignore Item Costs]
+Type = Gameshark
+Activation = EndFrame
+80103FA8 270F
+
+[Dungeon Shops Cost Nothing]
+Type = Gameshark
+Activation = EndFrame
+8010402C 0000
+
+[Can Break Walls]
+Type = Gameshark
+Activation = EndFrame
+80102702 0001
+
+[Walk On Water]
+Type = Gameshark
+Activation = EndFrame
+80102700 4090
 
 [Kill Dungeon 1 Boss]
 Type = Gameshark
@@ -27,3 +71,42 @@ Activation = EndFrame
 D00B8718 000C
 801029D0 0000
 
+[Have All Items (Experimental)]
+Type = Gameshark
+Activation = EndFrame
+30103FB0 00DC
+5000DC08 0001
+301045A7 0001
+50000908 0000
+301045A9 0000
+50001308 0000
+301045F1 0001
+50002108 0000
+30104689 0002
+50001208 0000
+30104791 0003
+50001908 0000
+30104821 0004
+50000B08 0000
+301048F1 0005
+50002608 0000
+30104949 0006
+50001D08 0000
+30104A79 0007
+50001608 0000
+30104B61 0008
+50000F08 0000
+30104C11 0009
+
+[Developer/Debug Rooms]
+Type = Gameshark
+Activation = EndFrame
+Option = Debug Room:255
+Option = Dev Room Nº 1:49
+Option = Dev Room Nº 2:50
+Option = Dev Room Nº 3:51
+Option = Dev Room Nº 4:52
+Option = Dev Room Nº 5:53
+Option = Dev Room Nº 6:54
+Option = Dev Room Nº 7:58
+800D8B04 00??
