@@ -1,0 +1,112 @@
+; CHTDB: ; [ Metal Gear Solid (USA, v1.1) (1998) (Konami of America) {SLUS-00594} <mgsa> ]
+
+[Invincible]
+Author = Unicorngoulash
+Type = Gameshark
+Activation = EndFrame
+A70C92D6 16221000
+A705C3CA 10401000
+A7050BB6 10402400
+A70520DA A4222400
+
+[Undetectable]
+Type = Gameshark
+Activation = EndFrame
+800AE190 0000
+800AE192 0000
+
+[Weapons\SOCOM]
+Type = Gameshark
+Activation = EndFrame
+800B753A 000C
+800B7590 0000
+800AE16C 000D
+800B754E 00D9
+
+[Weapons\FA-MAS]
+Type = Gameshark
+Activation = EndFrame
+800B753C 0019
+800B7550 01C3
+
+[Weapons\PSG-1]
+Type = Gameshark
+Activation = EndFrame
+800B754C 0005
+
+[Weapons\Stinger]
+Type = Gameshark
+Activation = EndFrame
+800B7542 0001
+800B7556 0023
+
+[Weapons\Nikita]
+Type = Gameshark
+Activation = EndFrame
+800B7540 0004
+
+[Weapons\99 Claymore Mines]
+Type = Gameshark
+Activation = EndFrame
+800B7544 0063
+
+[Weapons\99 C4 Explosives]
+Type = Gameshark
+Activation = EndFrame
+800B7546 0063
+
+[Items\99 Diazepam]
+Type = Gameshark
+Activation = EndFrame
+800B7580 0063
+
+[Items\Stealth Suit]
+Type = Gameshark
+Activation = EndFrame
+800B7576 0001
+
+[Items\Bandana]
+Type = Gameshark
+Activation = EndFrame
+800B7578 0001
+
+[Items\Body Armor]
+Type = Gameshark
+Activation = EndFrame
+800B7572 0001
+
+[Items\Thermal Googles]
+Type = Gameshark
+Activation = EndFrame
+800B756E 0001
+
+[Items\Gas Mask]
+Type = Gameshark
+Activation = EndFrame
+800B7570 0001
+
+[Items\Camera]
+Type = Gameshark
+Activation = EndFrame
+800B757A 0001
+
+[Items\Handkerchief]
+Type = Gameshark
+Activation = EndFrame
+800B758E 0001
+
+[Items\Cardboard Box A]
+Type = Gameshark
+Activation = EndFrame
+800B7566 0001
+
+[Items\Cardboard Box B]
+Type = Gameshark
+Activation = EndFrame
+800B7568 0001
+
+[Items\Cardboard Box C]
+Type = Gameshark
+Activation = EndFrame
+800B756A 0001
+
