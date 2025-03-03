@@ -76,4 +76,5 @@ be specified before the code body (e.g. `OverrideCPUOverclock = 200`).
  - `OverrideAspectRatio`: Sets the display aspect ratio to the corresponding value.
  - `OverrideCPUOverclock`: Sets the CPU overclock percentage to the corresponding value.
  - `DisableWidescreenRendering`: Disables the widescreen scaling for the GTE, if the user has it enabled.
+ - `Enable8MBRAM`: Enables the 8MB dev console mode instead of the default 2MB.
  - `DisallowForAchievements`: Prevents the patch being used in [RetroAchievements](https://retroachievements.org/) hardcore mode.
