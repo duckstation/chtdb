@@ -1,0 +1,9 @@
+# Twisted Metal 2 (USA)
+[30 FPS]
+Type = Gameshark
+Activation = EndFrame
+Author = Unknown
+Description = Patches the game to render at 30fps, instead of 20fps.
+OverrideCPUOverclock = 130
+DisallowForAchievements = true
+A71809E8 0014001E
