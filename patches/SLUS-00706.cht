@@ -1,0 +1,11 @@
+[Widescreen 16:9]
+Description = Patches the game to use 16:9 widescreen rendering, instead of 4:3.
+Type = Gameshark
+Activation = EndFrame
+800C4108 0C00
+
+[Eyefinity]
+Type = Gameshark
+Activation = EndFrame
+800C4108 0400
+
