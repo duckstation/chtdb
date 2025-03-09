@@ -2,6 +2,8 @@
 Description = Patches the game to render in widescreen 16:9 instead of 4:3.
 Type = Gameshark
 Activation = EndFrame
+OverrideAspectRatio = 16:9
+DisableWidescreenRendering = True
 800CD358 0C00
 
 [Eyefinity]
