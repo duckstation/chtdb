@@ -1,0 +1,8 @@
+# Crash Bandicoot (Japan, Asia) [SCPS-10031]
+[Unused Level Stormy Ascent]
+Type = Gameshark
+Activation = EndFrame
+Author = The Cutting Room Floor
+Description = Boots straight into the level when starting the game.
+D0011DFA 3404
+30011DF8 0022
