@@ -1,0 +1,8 @@
+# Driver - Sennyuu! Car Chase Daisakusen (Japan) [SLPS-02613]
+[Music fix]
+Type = Gameshark
+Activation = EndFrame
+Author = jellysoap
+Description = Fixes underflow in the music sequencer making the bass notes play as intended.
+800970F0 1CB6
+30072CC8 0008

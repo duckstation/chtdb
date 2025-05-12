@@ -1,0 +1,8 @@
+# Driver - You Are the Wheelman (USA) [SLUS-00842]
+[Music fix]
+Type = Gameshark
+Activation = EndFrame
+Author = jellysoap
+Description = Fixes underflow in the music sequencer making the bass notes play as intended.
+80096FB4 1CB6
+30072C04 0008
