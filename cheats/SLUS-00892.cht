@@ -696,6 +696,13 @@ Type = Gameshark
 Activation = EndFrame
 A709F2EA 18402400
 
+[Set Quantity of Cards Won]
+Type = Gameshark
+Activation = EndFrame
+Description = Sets the quantity of each card rewarded after winning in Triple Triad. Choose between 2-100
+OptionRange = 0x02:0x64
+80023954 00??
+
 [Peek at teams cards before starting "Hold select"]
 Type = Gameshark
 Activation = EndFrame
