@@ -1,0 +1,20 @@
+# Gran Turismo (Europe) (En,Fr,De,Es,It) [SCES-00984]
+[50 FPS]
+Type = Gameshark
+Activation = EndFrame
+Author = Silent
+Description = When this patch is in use, existing replays will break.
+OverrideCPUOverclock = 200
+A60B6168 00020001
+# Re-enable tire smoke
+A702E560 00020001
+# Re-enable rear view mirror
+A702AA7C 00020001
+
+[Simulation timescale in Arcade]
+Type = Gameshark
+Activation = EndFrame
+Author = Silent
+Description = Makes the Arcade mode run at 100% game speed like the Simulation mode. (Default is 125%)
+DisallowForAchievements = True
+A7051C80 007D0064

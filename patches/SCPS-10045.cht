@@ -1,0 +1,12 @@
+# Gran Turismo (Japan, Asia) [SCPS-10045]
+[60 FPS]
+Type = Gameshark
+Activation = EndFrame
+Author = Silent
+Description = When this patch is in use, existing replays will break.
+OverrideCPUOverclock = 200
+A60AD648 00020001
+# Re-enable tire smoke
+A702DD08 00020001
+# Re-enable rear view mirror
+A702A548 00020001
