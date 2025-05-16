@@ -75,6 +75,25 @@ A701CDFC FFCEFFDB
 A701CE04 03200258
 00000000 FFFF
 
+[60 FPS]
+Type = Gameshark
+Activation = EndFrame
+Author = Silent
+Description = When this patch is in use, existing replays and AI ghost in Rally events will break. Consider switching back to 30 FPS for those events.
+OverrideCPUOverclock = 325
+DisallowForAchievements = True
+E01D5634 0002
+301D5634 0001
+A401F888 AEB40008
+# Re-enable tire smoke
+A70168C8 00020000
+# Re-enable sky in the read view mirror
+A7019644 00020000
+00000000 FFFF
+# Re-enable rear view mirror
+A003EC6C 02602021
+A7029548 00020000
+
 [Metric units]
 Type = Gameshark
 Activation = EndFrame

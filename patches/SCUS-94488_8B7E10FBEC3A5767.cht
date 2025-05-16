@@ -81,6 +81,7 @@ Activation = EndFrame
 Author = Silent
 Description = When this patch is in use, existing replays and AI ghost in Rally events will break. Consider switching back to 30 FPS for those events.
 OverrideCPUOverclock = 325
+DisallowForAchievements = True
 E01D5864 0002
 301D5864 0001
 A401F888 AEB40008
