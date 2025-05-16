@@ -1,0 +1,23 @@
+# Syphon Filter (Spain) SCES-01914
+[Widescreen 16:9]
+Type = Gameshark
+Activation = EndFrame
+Author = El_Patas
+Description = Renders the game in 16:9 aspect ratio
+OverrideAspectRatio = 16:9
+DisableWidescreenRendering = True
+A712E420 10000C00
+A712E6FC 10000C00
+
+[NTSC Mode]
+Type = Gameshark
+Activation = EndFrame
+Author = PeterDelta
+Description = Runs NTSC video mode.
+A71101AC 00010000
+A712E428 00000C00
+A70E6830 00100000
+A7117272 0000FFF8
+800E6824 000A
+E0116A48 0001
+A70E6824 000A0000

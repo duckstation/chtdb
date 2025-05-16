@@ -1,0 +1,150 @@
+; CHTDB: ; [ Tenchu 2 - Birth of the Stealth Assassins (Spain) {SLES-02465} ]
+
+[Infinite Air]
+Type = Gameshark
+Activation = EndFrame
+A601EBA0 00070000
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+D013F012 0064
+3013F010 0064
+
+[Tatsumaru unlocked]
+Type = Gameshark
+Activation = EndFrame
+30010008 0002
+
+[All levels unlocked]
+Type = Gameshark
+Activation = EndFrame
+30010481 0101
+50000502 0000
+80010482 0101
+
+[Infinite All items
+Type = Gameshark
+Activation = EndFrame
+D00411B8 FFFF
+800411BC 0000
+D00411B8 FFFF
+800411BE 0000
+
+[Ayame All items
+Type = Gameshark
+Activation = EndFrame
+30010037 006F
+50000A02 0000
+80010038 6F6F
+
+[Ayame Records All perfect
+Type = Gameshark
+Activation = EndFrame
+50000B08 0000
+800100CC FF06
+50000B08 0000
+800100CE 5A54
+50000B08 0000
+800100D0 EA5F
+
+[Rikimaru All items
+Type = Gameshark
+Activation = EndFrame
+30010019 006F
+50000A02 0000
+8001001A 6F6F
+
+[Rikimaru Records All perfect
+Type = Gameshark
+Activation = EndFrame
+50000B08 0000
+80010074 FF06
+50000B08 0000
+80010076 5A54
+50000B08 0000
+80010078 EA5F
+
+[Tatsumaru All Items
+Type = Gameshark
+Activation = EndFrame
+30010055 006F
+50000A02 0000
+80010056 6F6F
+
+[Tatsumaru Records All perfect
+Type = Gameshark
+Activation = EndFrame
+50000708 0000
+80010124 FF06
+50000708 0000
+80010126 5A54
+50000708 0000
+80010128 EA5F
+
+[Infinite HP
+Type = Gameshark
+Activation = EndFrame
+D013F012 0064
+8013F010 0064
+
+[Infinite Air
+Type = Gameshark
+Activation = EndFrame
+D013F012 0064
+8013F00E 64FF
+
+[Attach Grappling Hook Anywhere
+Type = Gameshark
+Activation = EndFrame
+800C4414 0000
+
+[Invisible to Enemies
+Type = Gameshark
+Activation = EndFrame
+3008C8FC 0002
+
+[Moon Jumps
+Type = Gameshark
+Activation = EndFrame
+E013F0F9 0040
+8013F03E FFB5
+
+[Have Map
+Type = Gameshark
+Activation = EndFrame
+A608C908 00000005
+
+[Unlock All Extras
+Type = Gameshark
+Activation = EndFrame
+E0010008 0000
+30010008 000F
+50001D08 0000
+30010074 0006
+50001D08 0000
+80010078 EA5F
+
+[Mission Editor\Infinite HP
+Type = Gameshark
+Activation = EndFrame
+D0021716 8C42
+8002171A 24D1
+
+[Mission Editor\Infinite Weapon Use
+Type = Gameshark
+Activation = EndFrame
+D00411BA 2442
+800411B8 0000
+
+[Mission Editor\Invisible to Enemies]
+Type = Gameshark
+Activation = EndFrame
+D0017D7A 2442
+80017D78 0000
+
+[Mission Editor\Unlock All Stages]
+Type = Gameshark
+Activation = EndFrame
+50000B01 0000
+30010481 0001

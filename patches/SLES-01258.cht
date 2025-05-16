@@ -1,0 +1,9 @@
+# Alundra (Spain) SLES-01258
+[NTSC Mode]
+Type = Gameshark
+Activation = EndFrame
+Author = PeterDelta
+Description = Runs NTSC video mode.
+A70C9714 00010000
+A713FAAE 00180000
+A713FB32 00180000

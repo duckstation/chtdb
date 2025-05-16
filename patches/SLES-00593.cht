@@ -1,0 +1,9 @@
+# Croc - Legend of the Gobbos (Europe) SLES-00593
+[NTSC Mode]
+Type = Gameshark
+Activation = EndFrame
+Author = PeterDelta
+Description = Runs NTSC video mode.
+A7073D48 00010000
+A7085072 00180000
+A7085086 00180000
