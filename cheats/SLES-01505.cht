@@ -1,0 +1,36 @@
+; CHTDB: ; [ Oddworld - Abe's Exoddus (Spain) {SLES-01505 | SLES-11505} ]
+
+[Estadisticas\Los 300 Mudokons salvados]
+Type = Gameshark
+Activation = EndFrame
+8007E4DA 012C
+
+[Estadisticas\Tener 0 damnificados]
+Type = Gameshark
+Activation = EndFrame
+8007E4D8 0000
+
+[Estadisticas\Fugitivos adicionales]
+Type = Gameshark
+Activation = EndFrame
+800B2B60 0005
+
+[Inmune a Flechas y disparos]
+Type = Gameshark
+Activation = EndFrame
+A71F2D20 000000B3
+
+[Invisible]
+Type = Gameshark
+Activation = EndFrame
+A71F2D0C 000000A0
+
+[No damnificados]
+Type = Gameshark
+Activation = EndFrame
+800B45AC 0000
+
+[Invencibilidad]
+Type = Gameshark
+Activation = EndFrame
+A707E4F2 00000001

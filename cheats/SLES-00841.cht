@@ -1,0 +1,15 @@
+; CHTDB: ; [ Oddworld - Abe's Oddysee (Spain) {SLES-00841} ]
+
+[Seleccionar Nivel]
+Type = Gameshark
+Activation = EndFrame
+Description = En el menú principal mantener R1+R2 y pulsar Izquierda
+D008EC8E F57F
+A70804F4 0000000B
+
+[Visualizar FMVs]
+Type = Gameshark
+Activation = EndFrame
+Description = En el menú principal mantener R1+R2 y pulsar Derecha
+D008EC8E F5DF
+A70804E0 0000000A

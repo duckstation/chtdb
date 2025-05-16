@@ -1,5 +1,15 @@
 ; CHTDB: ; [ Driver 2: Back on the Streets (Spain) {SLES-02997 | SLES-12997} ]
 
+[Trampas\Invencibilidad]
+Type = Gameshark
+Activation = EndFrame
+A70AA8A8 00000001
+
+[Trampas\Inmunidad]
+Type = Gameshark
+Activation = EndFrame
+A70AA8AC 00000000
+
 [Infinite Time]
 Type = Gameshark
 Activation = EndFrame

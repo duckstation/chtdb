@@ -10,3 +10,14 @@ Type = Gameshark
 Activation = EndFrame
 800C6EBA 008C
 
+[Leon Tener todos los archivos]
+Type = Gameshark
+Activation = EndFrame
+50000C02 0202
+800CBD3C 0001
+
+[Claire Tener todos los archivos]
+Type = Gameshark
+Activation = EndFrame
+50000C02 0202
+800CBCD4 0040

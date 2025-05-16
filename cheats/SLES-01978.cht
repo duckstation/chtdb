@@ -1,5 +1,36 @@
 ; CHTDB: ; [ Driver (Spain) {SLES-01978} ]
 
+[Trampas\Invencibilidad]
+Type = Gameshark
+Activation = EndFrame
+A7096374 00000001
+
+[Trampas\Inmunidad]
+Type = Gameshark
+Activation = EndFrame
+A7096378 00000001
+
+[Trampas\Rueda Retr.]
+Type = Gameshark
+Activation = EndFrame
+A709D3C4 00000001
+
+[Trampas\Minis]
+Type = Gameshark
+Activation = EndFrame
+A709D3C8 00000001
+
+[Trampas\Suspensión Alta]
+Type = Gameshark
+Activation = EndFrame
+A709D3CC 00000001
+
+[Trampas\Antipodean]
+Description = Imagen boca abajo
+Type = Gameshark
+Activation = EndFrame
+A709D3D4 00000001
+
 [Infinite Time Park Test]
 Type = Gameshark
 Activation = EndFrame

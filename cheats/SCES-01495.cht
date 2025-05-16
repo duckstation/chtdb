@@ -22,3 +22,8 @@ Activation = EndFrame
 50001401 0000
 300F84BA 0001
 
+[Trampas]
+Type = Gameshark
+Activation = EndFrame
+Description = En el menú de pausa aparece la opción
+A70F0200 00680069

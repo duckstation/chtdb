@@ -75,24 +75,6 @@ A701CD70 FFCEFFDB
 A701CD78 03200258
 00000000 FFFF
 
-[50 FPS]
-Type = Gameshark
-Activation = EndFrame
-Author = Silent
-Description = When this patch is in use, existing replays and AI ghost in Rally events will break. Consider switching back to 25 FPS for those events.
-OverrideCPUOverclock = 325
-E01D5894 0002
-301D5894 0001
-A401F884 AEB40008
-# Re-enable tire smoke
-A70168C4 00020000
-# Re-enable sky in the read view mirror
-A7019640 00020000
-00000000 FFFF
-# Re-enable rear view mirror
-A003EC50 02602021
-A702954C 00020000
-
 [Metric units fix]
 Type = Gameshark
 Activation = EndFrame
@@ -106,24 +88,59 @@ A71C7133 0068682F
 Type = Gameshark
 Activation = EndFrame
 Author = Silent
-Description = Requires the "Use 8MB RAM for polygon buffers" patch.
+Description = All cars on the track use the highest level of detail.
+Enable8MBRAM = True
 OverrideCPUOverclock = 325
 A401F884 AEB40008
 A7014344 00405112
 A7014346 16A00800
 A7014348 00030001 # Set to 0003 to force the lowest LOD
 00000000 FFFF
+#Use 8MB RAM for polygon buffers
+A401F884 AEB40008
+# Codes will be skipped if RAM mirroring is in place (8MB mode disabled)
+D121F886 AEB4
+A7016A68 000E8020
+D121F886 AEB4
+A7016A6C 57000000
+D121F886 AEB4
+A7016A78 00030007
+D121F886 AEB4
+A7016A74 28210000
+D121F886 AEB4
+A7016A76 02250000
+D121F886 AEB4
+A7016A84 80000000
+00000000 FFFF
 
 [Slightly higher draw distance]
 Type = Gameshark
 Activation = EndFrame
 Author = Silent
-Description = Benefits from "Use 8MB RAM for polygon buffers" patch.
+Description = Increases the render distance on the track.
+Enable8MBRAM = True
 OverrideCPUOverclock = 325
 A403EC50 02602021
 A702041C 0004810C
 A702041E 14400800
 00000000 FFFF
+#Use 8MB RAM for polygon buffers
+A401F884 AEB40008
+# Codes will be skipped if RAM mirroring is in place (8MB mode disabled)
+D121F886 AEB4
+A7016A68 000E8020
+D121F886 AEB4
+A7016A6C 57000000
+D121F886 AEB4
+A7016A78 00030007
+D121F886 AEB4
+A7016A74 28210000
+D121F886 AEB4
+A7016A76 02250000
+D121F886 AEB4
+A7016A84 80000000
+00000000 FFFF
+
 
 [HUD & rear view mirror toggle ]
 Type = Gameshark

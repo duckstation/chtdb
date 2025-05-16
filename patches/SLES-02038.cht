@@ -1,0 +1,22 @@
+# Star Wars - Episodio I - La Amenaza Fantasma (Spain) SLES-02038
+[50/60 FPS]
+Type = Gameshark
+Activation = EndFrame
+Author = PeterDelta
+Description = Unlocks internal FPS.
+OverrideCPUOverclock = 300
+A7077920 00020001
+D0077758 0004
+80077920 0002
+
+[NTSC Mode]
+Type = Gameshark
+Activation = EndFrame
+Author = PeterDelta
+Description = Runs NTSC video mode.
+OverrideCPUOverclock = 300
+A707C8E0 00010000
+A7088D0E 01000200
+A7088D12 00140070
+A7088D22 01000200
+A7088D26 00140070

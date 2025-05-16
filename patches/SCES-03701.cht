@@ -1,0 +1,10 @@
+# Syphon Filter 3 - Sentencia Final (Spain) SCES-03701
+[Widescreen 16:9]
+Type = Gameshark
+Activation = EndFrame
+Author = El_Patas
+Description = Renders the game in 16:9 aspect ratio
+OverrideAspectRatio = 16:9
+DisableWidescreenRendering = True
+A7123550 10000C00
+A7123AF0 10000C00
