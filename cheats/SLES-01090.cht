@@ -1,0 +1,36 @@
+; CHTDB: ; [ Skullmonkeys (Europe) {SLES-01090} ]
+
+[Infinite Halos]
+Type = Gameshark
+Activation = EndFrame
+3009B1EF 0009
+
+[Infinite Green Bullets]
+Type = Gameshark
+Activation = EndFrame
+3009B1EB 0001
+
+[Infinite Monkeys]
+Type = Gameshark
+Activation = EndFrame
+3009B1F4 0009
+
+[Have All 3 Green Swirls]
+Type = Gameshark
+Activation = EndFrame
+3009B1F2 0003
+
+[Have 3 Bonus Swirls]
+Type = Gameshark
+Activation = EndFrame
+3009B1EA 0063
+
+[Have All 3 1970's]
+Type = Gameshark
+Activation = EndFrame
+3009B1F1 0003
+
+[Have 100 Clay Balls]
+Type = Gameshark
+Activation = EndFrame
+3009B1EA 0064
