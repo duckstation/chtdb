@@ -30,3 +30,15 @@ Type = Gameshark
 Activation = EndFrame
 800C4998 0063
 
+[NTSC Mode]
+Type = Gameshark
+Activation = EndFrame
+Author = PeterDelta
+Description = Runs NTSC video mode. Runs a little fast
+A70B2EF8 00010000
+A7096FBC 00100000
+A70EFE9E 00000008
+A70EFE12 01000108
+A70B59C6 00100000
+D00B02A0 0100
+800B2EF8 0001

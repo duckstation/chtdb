@@ -1,7 +1,46 @@
 ; CHTDB: ; [ Dragon Ball: Final Bout (Spain) {SLES-03685} ]
 
-[P1 Infinite Energy]
+[Todos los Personajes]
+Type = Gameshark
+Activation = EndFrame
+A703BC14 07DFFFFF
+A703BC16 00000001
+
+[P1 Vida Infinita]
 Type = Gameshark
 Activation = EndFrame
 80072678 00C4
 
+[P1 Energía Infinita]
+Type = Gameshark
+Activation = EndFrame
+8007267A 00C4
+
+[Subir Nivel]
+Type = Gameshark
+Activation = EndFrame
+8003B7B0 0001
+8003B7B4 0400
+
+[NTSC Mode]
+Type = Gameshark
+Activation = EndFrame
+Author = PeterDelta
+Description = Runs NTSC video mode. Runs a little fast
+A702D84C 00010000
+A703BB42 00180000
+
+[Deshabilitar Opciones\Meteoritos]
+Type = Gameshark
+Activation = EndFrame
+A803BBC5 0001
+
+[Deshabilitar Opciones\Demostración]
+Type = Gameshark
+Activation = EndFrame
+A803BBC7 0001
+
+[Deshabilitar Opciones\Indicador de Vida]
+Type = Gameshark
+Activation = EndFrame
+A803BBC6 0001
