@@ -1,0 +1,59 @@
+; CHTDB: ; [ Spider-Man (Spain) {SLES-02890} ]
+
+[Galería\Visualizador de Personajes]
+Type = Gameshark
+Activation = EndFrame
+800A6958 FFC0
+800A695A FBFF
+
+[Galería\Personaje Joel Jewett]
+Type = Gameshark
+Activation = EndFrame
+800B618C 0001
+
+[Galería\Visualizador de video]
+Type = Gameshark
+Activation = EndFrame
+800A695C FFC0
+800A695E FFFF
+
+[Galería\Colección de comics]
+Type = Gameshark
+Activation = EndFrame
+800A6960 FFC0
+800A6962 FFFF
+
+[Galería\Carátulas del juego]
+Type = Gameshark
+Activation = EndFrame
+300A6964 003F
+
+[Galería\Guiones ilustrados]
+Type = Gameshark
+Activation = EndFrame
+300A6929 0001
+
+[Especial\Trajes]
+Type = Gameshark
+Activation = EndFrame
+800A6954 03FF
+
+[Especial\Seleccionar Nivel]
+Type = Gameshark
+Activation = EndFrame
+300B6154 0001
+
+[Invulnerable]
+Type = Gameshark
+Activation = EndFrame
+A80B6140 0001
+
+[Telaraña infinita]
+Type = Gameshark
+Activation = EndFrame
+A70B616C 00000001
+
+[Depurador]
+Type = Gameshark
+Activation = EndFrame
+A70B6160 00000001

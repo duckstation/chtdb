@@ -78,7 +78,7 @@ A701CE04 03200258
 [60 FPS]
 Type = Gameshark
 Activation = EndFrame
-Author = Silent
+Author = Silent, asasega
 Description = When this patch is in use, existing replays and AI ghost in Rally events will break. Consider switching back to 30 FPS for those events.
 OverrideCPUOverclock = 325
 DisallowForAchievements = True

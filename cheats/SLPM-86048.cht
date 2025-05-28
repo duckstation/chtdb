@@ -1,0 +1,17 @@
+; CHTDB: ; [ Policenauts (Japan) {SLPM-86048} ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8006225C 270F
+
+[Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80068A08 012C
+80068DC0 012C
+
+[Infinite Bullets]
+Type = Gameshark
+Activation = EndFrame
+80062AB0 000A
