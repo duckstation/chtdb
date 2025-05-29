@@ -1,0 +1,68 @@
+; CHTDB: ; [ Fade to Black (Europe) {SLES-00339} ]
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+A7010028 00000083
+
+[Infinite energy]
+Type = Gameshark
+Activation = EndFrame
+801C1B8C 07D0
+
+[Infinite shield]
+Type = Gameshark
+Activation = EndFrame
+801C0860 07D0
+
+[Infinite ammo all weapons]
+Type = Gameshark
+Activation = EndFrame
+8005DD16 2400
+
+[Infinite Mines]
+Type = Gameshark
+Activation = EndFrame
+801CF3A0 0003
+
+[Infinite Normal Bullets]
+Type = Gameshark
+Activation = EndFrame
+801BE5EC 0009
+
+[Infinite Plasma Bullets]
+Type = Gameshark
+Activation = EndFrame
+801C09C4 0009
+801C4C84 0009
+
+[Infinite shots]
+Type = Gameshark
+Activation = EndFrame
+801CFD18 0009
+
+[Door At Beginning Won't Open]
+Type = Gameshark
+Activation = EndFrame
+801990A2 0064
+
+[Infinite bouncing mines on pickup]
+Type = Gameshark
+Activation = EndFrame
+801CEDE8 0003
+
+[Infinite explosive shots on pickup]
+Type = Gameshark
+Activation = EndFrame
+801CFB38 0009
+
+[Infinite Heat-Seaking Bullets]
+Type = Gameshark
+Activation = EndFrame
+801BE04C 0009
+
+[Infinite Time (Watch)]
+Type = Gameshark
+Activation = EndFrame
+800ACAE4 0000
+800AF9BC 0000

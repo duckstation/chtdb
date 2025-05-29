@@ -1,12 +1,251 @@
 ; CHTDB: ; [ Chase the Express: El Expreso de la Muerte (Spain) (Platinum) {SCES-02816 | SCES-12816} ]
 
-[Infinite Health]
+[Salud infinita]
 Type = Gameshark
 Activation = EndFrame
 80010402 1000
 
-[Infinite Ammo (Si se usa corrompe el objeto y pasa a ser botiquin)]
+[Invulnerable a las balas]
 Type = Gameshark
 Activation = EndFrame
-80010460 0064
+A70A30CA 12001000
 
+[Invulnerable a los golpes con pistola]
+Type = Gameshark
+Activation = EndFrame
+A70A2F7A 10401400
+
+[Munición no se consume]
+Type = Gameshark
+Activation = EndFrame
+A707D676 A4A20000
+
+[Mapas completos]
+Type = Gameshark
+Activation = EndFrame
+50000704 0000
+30010A80 0080
+50000804 0000
+30010AA0 0080
+50000404 0000
+30010AD0 0080
+50000204 0000
+30010AE4 0080
+50000704 0000
+30010B14 0080
+
+[Todos los Archivos]
+Type = Gameshark
+Activation = EndFrame
+50002702 0202
+8001088C 0201
+
+[Abrir puertas (no escotillas)]
+Type = Gameshark
+Activation = EndFrame
+A70BD1F6 10701000
+
+[Detener Temporizador]
+Type = Gameshark
+Activation = EndFrame
+900103F0 00000000
+
+[Max Item\Slot 1]
+Type = Gameshark
+Activation = EndFrame
+3001045C 00FF
+
+[Max Item\Slot 2]
+Type = Gameshark
+Activation = EndFrame
+3001045E 00FF
+
+[Max Item\Slot 3]
+Type = Gameshark
+Activation = EndFrame
+30010460 00FF
+
+[Max Item\Slot 4]
+Type = Gameshark
+Activation = EndFrame
+30010462 00FF
+
+[Max Item\Slot 5]
+Type = Gameshark
+Activation = EndFrame
+30010464 00FF
+
+[Max Item\Slot 6]
+Type = Gameshark
+Activation = EndFrame
+30010466 00FF
+
+[Max Item\Slot 7]
+Type = Gameshark
+Activation = EndFrame
+30010468 00FF
+
+[Max Item\Slot 8]
+Type = Gameshark
+Activation = EndFrame
+3001046A 00FF
+
+[Max Item In Crate\Slot 1]
+Type = Gameshark
+Activation = EndFrame
+30010470 00FF
+
+[Max Item In Crate\Slot 2]
+Type = Gameshark
+Activation = EndFrame
+30010472 00FF
+
+[Max Item In Crate\Slot 3]
+Type = Gameshark
+Activation = EndFrame
+30010474 00FF
+
+[Max Item In Crate\Slot 4]
+Type = Gameshark
+Activation = EndFrame
+30010476 00FF
+
+[Max Item In Crate\Slot 5]
+Type = Gameshark
+Activation = EndFrame
+30010478 00FF
+
+[Max Item In Crate\Slot 6]
+Type = Gameshark
+Activation = EndFrame
+3001047A 00FF
+
+[Max Item In Crate\Slot 7]
+Type = Gameshark
+Activation = EndFrame
+3001047C 00FF
+
+[Max Item In Crate\Slot 8]
+Type = Gameshark
+Activation = EndFrame
+3001047E 00FF
+
+[Max Item In Crate\Slot 9]
+Type = Gameshark
+Activation = EndFrame
+30010480 00FF
+
+[Max Item In Crate\Slot 10]
+Type = Gameshark
+Activation = EndFrame
+30010482 00FF
+
+[Max Item In Crate\Slot 11]
+Type = Gameshark
+Activation = EndFrame
+30010484 00FF
+
+[Max Item In Crate\Slot 12]
+Type = Gameshark
+Activation = EndFrame
+30010486 00FF
+
+[Max Item In Crate\Slot 13]
+Type = Gameshark
+Activation = EndFrame
+30010488 00FF
+
+[Max Item In Crate\Slot 14]
+Type = Gameshark
+Activation = EndFrame
+3001048A 00FF
+
+[Max Item In Crate\Slot 15]
+Type = Gameshark
+Activation = EndFrame
+3001048C 00FF
+
+[Max Item In Crate\Slot 16]
+Type = Gameshark
+Activation = EndFrame
+3001048E 00FF
+
+[Max Item In Crate\Slot 17]
+Type = Gameshark
+Activation = EndFrame
+30010490 00FF
+
+[Max Item In Crate\Slot 18]
+Type = Gameshark
+Activation = EndFrame
+30010492 00FF
+
+[Max Item In Crate\Slot 19]
+Type = Gameshark
+Activation = EndFrame
+30010494 00FF
+
+[Max Item In Crate\Slot 20]
+Type = Gameshark
+Activation = EndFrame
+30010496 00FF
+
+[Max Item In Crate\Slot 21]
+Type = Gameshark
+Activation = EndFrame
+30010498 00FF
+
+[Max Item In Crate\Slot 22]
+Type = Gameshark
+Activation = EndFrame
+3001049A 00FF
+
+[Max Item In Crate\Slot 23]
+Type = Gameshark
+Activation = EndFrame
+3001049C 00FF
+
+[Max Item In Crate\Slot 24]
+Type = Gameshark
+Activation = EndFrame
+3001049E 00FF
+
+[Max Item In Crate\Slot 25]
+Type = Gameshark
+Activation = EndFrame
+300104A0 00FF
+
+[Max Item In Crate\Slot 26]
+Type = Gameshark
+Activation = EndFrame
+300104A2 00FF
+
+[Max Item In Crate\Slot 27]
+Type = Gameshark
+Activation = EndFrame
+300104A4 00FF
+
+[Max Item In Crate\Slot 28]
+Type = Gameshark
+Activation = EndFrame
+300104A6 00FF
+
+[Max Item In Crate\Slot 29]
+Type = Gameshark
+Activation = EndFrame
+300104A8 00FF
+
+[Max Item In Crate\Slot 30]
+Type = Gameshark
+Activation = EndFrame
+300104AA 00FF
+
+[Max Item In Crate\Slot 31]
+Type = Gameshark
+Activation = EndFrame
+300104AC 00FF
+
+[Max Item In Crate\Slot 32]
+Type = Gameshark
+Activation = EndFrame
+300104AE 00FF

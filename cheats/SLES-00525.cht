@@ -1,0 +1,11 @@
+; CHTDB: ; [ Batman Forever - The Arcade Game (Europe) {SLES-00525} ]
+
+[P1 Infinite HP]
+Type = Gameshark
+Activation = EndFrame
+800E3064 0014
+
+[P1 Infinite Lives]
+Type = Gameshark
+Activation = EndFrame
+800E3068 0009

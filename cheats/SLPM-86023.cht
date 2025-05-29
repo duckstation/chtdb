@@ -1,0 +1,95 @@
+; CHTDB: ; [ Akumajou Dracula X - Gekka no Yasoukyoku (Japan) (1997) (Konami) {SLPM-86023} ]
+
+[Richter\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+30097BB0 32
+
+[Richter\Infinite MP]
+Type = Gameshark
+Activation = EndFrame
+30097BB8 1E
+
+[Richter\Always Have Flame Whip]
+Type = Gameshark
+Activation = EndFrame
+E003C9A0 0001
+80072F00 0800
+
+[Richter\Endless Hydro Storm]
+Type = Gameshark
+Activation = EndFrame
+80074CFC FFFF
+
+[Alucard\Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+A70FEC82 00430040
+
+[Alucard\Familiars at lvl 99]
+Type = Gameshark
+Activation = EndFrame
+5000070C 0000
+80097C48 0063
+
+[Alucard\500.000 Gold]
+Type = Gameshark
+Activation = EndFrame
+90097C00 0007A120
+
+[Alucard\Complete bestiary]
+50000902 0000
+8003BF7C FFFF
+3003BF8E 0003
+50000902 0000
+8003BF9C FFFF
+
+[Alucard\Equip\Valmanwë]
+Type = Gameshark
+Activation = EndFrame
+30097A3E 01
+
+[Alucard\Equip\Alucard Sword]
+Type = Gameshark
+Activation = EndFrame
+30097A15 01
+
+[Alucard\Equip\Alucard Shield]
+Type = Gameshark
+Activation = EndFrame
+300979AA 01
+
+[Alucard\Equip\Egil's Helmet]
+Type = Gameshark
+Activation = EndFrame
+30097A70 01
+
+[Alucard\Equip\Alucard Armor]
+Type = Gameshark
+Activation = EndFrame
+30097A52 01
+
+[Alucard\Equip\Black vampire cape]
+Type = Gameshark
+Activation = EndFrame
+30097A7B 01
+
+[Alucard\Equip\Ring of Laurin]
+Type = Gameshark
+Activation = EndFrame
+30097A8A 01
+
+[Alucard\Equip\Dainsleif]
+Type = Gameshark
+Activation = EndFrame
+30097A13 01
+
+[Alucard\Equip\Sword Familiar]
+Type = Gameshark
+Activation = EndFrame
+30097A18 01
+
+[Alucard\Equip\Magical Ticket (go to librarian)]
+Type = Gameshark
+Activation = EndFrame
+30097A40 01
