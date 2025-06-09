@@ -25,6 +25,17 @@ Activation = EndFrame
 30034964 00FF
 30034967 0034
 
+[No Random Battles (Non-World Map)]
+Type = Gameshark
+Activation = EndFrame
+D0079394 FFFC
+80079392 2400
+
+[No Random Battles (World Map)]
+Type = Gameshark
+Activation = EndFrame
+8009D64C 0010
+
 [In Battle\Battling Arena\Infinite Health]
 Type = Gameshark
 Activation = EndFrame
