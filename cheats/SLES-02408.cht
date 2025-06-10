@@ -1,4 +1,4 @@
-; CHTDB: ; [ Disney/Pixar Toy Story 2: Â¡Buzz Lightyear al Rescate! (Spain) {SLES-02408} ]
+; CHTDB: ; [ Disney/Pixar Toy Story 2: ¡Buzz Lightyear al Rescate! (Spain) {SLES-02408} ]
 
 [Infinite HP Buzz]
 Type = Gameshark
@@ -48,3 +48,7 @@ FFFFFFFF FFFFFFFF
 9000C034 27BD0018
 9000C038 03E00008
 
+[Aumenta la altura del doble salto]
+Type = Gameshark
+Activation = EndFrame
+A7049BC6 10402400
