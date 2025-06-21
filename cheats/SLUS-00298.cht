@@ -16,47 +16,171 @@ Type = Gameshark
 Activation = EndFrame
 A7076466 14401400
 
-[P1 Infinite Health]
+[P1\Infinite Health P1]
 Type = Gameshark
 Activation = EndFrame
 800C4AE0 0032
 
-[P1 Infinite A Keys]
+[P1\Infinite Strength P1]
 Type = Gameshark
 Activation = EndFrame
-800C4B3A 0009
+800C4AE4 0046
 
-[P2 Infinite Health]
+[P1\Infinite Money P1]
+Type = Gameshark
+Activation = EndFrame
+800C4AE8 0063
+
+[P1\Infinite Keys P1]
+Type = Gameshark
+Activation = EndFrame
+800C4B3A 0063
+
+[P1\Infinite A Keys P1]
+Type = Gameshark
+Activation = EndFrame
+800C4B40 0001
+
+[P1\Infinite B Keys P1]
+Type = Gameshark
+Activation = EndFrame
+800C4B42 0001
+
+[P1\Infinite D Keys P1]
+Type = Gameshark
+Activation = EndFrame
+800C4B44 0001
+
+[P1\Infinite H Keys P1]
+Type = Gameshark
+Activation = EndFrame
+800C4B3C 0001
+
+[P1\Infinite U Keys P1]
+Type = Gameshark
+Activation = EndFrame
+800C4B3E 0001
+
+[P2\Infinite Health P2]
 Type = Gameshark
 Activation = EndFrame
 800C4B4A 0032
 
-[P2 Infinite Strengh]
+[P2\Infinite Strength P2]
 Type = Gameshark
 Activation = EndFrame
 800C4B4E 0046
 
-[P1 Have All Items (Set One)]
+[P2\Infinite Money P2]
 Type = Gameshark
 Activation = EndFrame
-900C4AF0 00630063
-900C4AF4 00630063
-800C4AF8 0063
-900C4AFC 00630063
-900C4B00 00630063
-900C4B04 00630063
-900C4B08 00630063
-900C4B0C 00630063
+800C4B52 0063
 
-[P1 Have All Items (Set Two)]
+[P2\Infinite Keys P2]
+Type = Gameshark
+Activation = EndFrame
+800C4BA4 0063
+
+[P2\Infinite H Keys P2]
+Type = Gameshark
+Activation = EndFrame
+800C4BA6 0001
+
+[P2\Infinite U Keys P2]
+Type = Gameshark
+Activation = EndFrame
+800C4BA8 0001
+
+[P2\Infinite A Keys P2]
+Type = Gameshark
+Activation = EndFrame
+800C4BAA 0001
+
+[P2\Infinite P Keys P2]
+Type = Gameshark
+Activation = EndFrame
+800C4BAC 0001
+
+[P2\Infinite D Keys P2]
+Type = Gameshark
+Activation = EndFrame
+800C4BAE 0001
+
+[P1\Have All Items Set One P1]
+Type = Gameshark
+Activation = EndFrame
+800C4AF0 0063
+800C4AF2 0063
+800C4AF4 0063
+800C4AF6 0063
+800C4AF8 0063
+800C4AFC 0063
+800C4AFE 0063
+800C4B00 0063
+800C4B02 0063
+800C4B04 0063
+800C4B06 0063
+800C4B08 0063
+800C4B0A 0063
+800C4B0C 0063
+800C4B0E 0063
+
+[P1\Have All Items Set Two P1]
 Type = Gameshark
 Activation = EndFrame
 800C4B1A 0063
-900C4B1C 00630063
-900C4B20 00630063
-900C4B24 00630063
-900C4B28 00630063
-900C4B2C 00630063
-900C4B30 00630063
-900C4B34 00630063
+800C4B1C 0063
+800C4B1E 0063
+800C4B20 0063
+800C4B22 0063
+800C4B24 0063
+800C4B26 0063
+800C4B28 0063
+800C4B2A 0063
+800C4B2C 0063
+800C4B2E 0063
+800C4B30 0063
+800C4B32 0063
+800C4B34 0063
+800C4B36 0063
+
+[P2\Have All Items Set One P2]
+Type = Gameshark
+Activation = EndFrame
+800C4B5A 0063
+800C4B5C 0063
+800C4B5E 0063
+800C4B60 0063
+800C4B62 0063
+800C4B66 0063
+800C4B68 0063
+800C4B6A 0063
+800C4B6C 0063
+800C4B6E 0063
+800C4B70 0063
+800C4B72 0063
+800C4B74 0063
+800C4B76 0063
+800C4B78 0063
+
+[P2\Have All Items Set Two P2]
+Type = Gameshark
+Activation = EndFrame
+800C4B84 0063
+800C4B86 0063
+800C4B88 0063
+800C4B8A 0063
+800C4B8C 0063
+800C4B8E 0063
+800C4B90 0063
+800C4B92 0063
+800C4B94 0063
+800C4B96 0063
+800C4B98 0063
+800C4B9A 0063
+800C4B9C 0063
+800C4B9E 0063
+800C4BA0 0063
+
+
 
