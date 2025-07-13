@@ -165,7 +165,7 @@
 ;  X0YYYYYY ZZZZZZZZ   addresses with a possible changing value.
 ;                    address_change = W ( 0 = increasing, 1 = decreasing)
 ;                    value_change = V ( 0 = increasing, 1 = decreasing)
-;                    poke_size = X0 (30 for byte, 80 for word or 90 for longword)
+;                    poke_size = X0 (30-32 for byte, 80-82 for word or 90-92 for longword)
 ;                    start_address = YYYYYY
 ;                    start_value = ZZZZZZZZ
 ;                    number_of_addresses = PPPP (needs to be >02 to be worthwhile)
