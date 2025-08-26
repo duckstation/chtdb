@@ -188,14 +188,6 @@ D00BC016 0002
 Type = Gameshark
 Activation = EndFrame
 A7051C80 007D0064
-;#### PATCHES LISTED BELOW ####
-
-[50 FPS (+Re-enable tire smoke, Re-enable rear view mirror)]
-Type = Gameshark
-Activation = EndFrame
-A60B6168 00020001
-A702E560 00020001
-A702AA7C 00020001
 
 [Race Music Selector]
 Type = Gameshark
@@ -241,3 +233,11 @@ Activation = EndFrame
 Description = Enable this code while you're in any menu, except the GT Mode menu.
 E0081B73 0000
 30081B73 0001
+;#### PATCHES LISTED BELOW ####
+
+[50 FPS (+Re-enable tire smoke, Re-enable rear view mirror)]
+Type = Gameshark
+Activation = EndFrame
+A60B6168 00020001
+A702E560 00020001
+A702AA7C 00020001
