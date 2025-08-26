@@ -356,6 +356,14 @@ Option = Quick Menu (unused song):24
 Option = Goodies (unused song):25
 E00B63C1 00FF
 300B63BF 00??
+
+[Car Color Selector]
+Type = Gameshark
+Activation = EndFrame
+Description = Make sure you're selecting a color that the car can actually have.
+OptionRange = 1:15
+E20B6672 0010
+300B6672 00??
 ;#### PATCHES LISTED BELOW ####
 
 [60 FPS (+e-enable tire smoke, re-enable rear view mirror)]
