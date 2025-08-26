@@ -53,3 +53,22 @@ Type = Gameshark
 Activation = EndFrame
 A7063B4A 10401000
 
+[Race on Special 1 course]
+Type = Gameshark
+Activation = EndFrame
+301DCA88 0003
+
+[Race on Special 2 course]
+Type = Gameshark
+Activation = EndFrame
+301DCA88 0004
+
+[Race on Special 1 Extra course]
+Type = Gameshark
+Activation = EndFrame
+301DCA88 000B
+
+[Race on Special 2 Extra course]
+Type = Gameshark
+Activation = EndFrame
+301DCA88 000C
