@@ -36,3 +36,48 @@ A60AD648 00020001
 A702DD08 00020001
 A702A548 00020001
 
+[Race Music Selector]
+Type = Gameshark
+Activation = EndFrame
+Option = Freedom to Win:00
+Option = Nobody:01
+Option = Green Monster:02
+Option = Get Closer:03
+Option = Kiss you Good-bye:04
+Option = Moon Over the Castle:05
+Option = A Man of the World (unused song):06
+Option = Like the Wind:07
+Option = More than Loving (unused song):08
+Option = Going to Extremes (unused song):09
+Option = Race Start:10
+Option = Machine Test Start:11
+Option = Race Finish (1st place):12
+Option = Race Finish (2nd to 6th place):13
+Option = Retire (unused song):14
+Option = License Obtained:15
+Option = Pre-Race Settings:16
+Option = Ranking (unused song):17
+Option = New Record Menu:18
+Option = Championship Won/Gold Prize:19
+Option = Credits Earned(1st place)/Silver Prize:20
+Option = Credits Earned(2nd to 6th place)/Bronze Prize:21
+Option = Post-Race/License Menu:22
+Option = Arcade Mode Menu:23
+Option = Quick Menu (unused song):24
+Option = Goodies (unused song):25
+E00AD6F1 00FF
+300AD6EF 00??
+
+[Car Color Selector]
+Type = Gameshark
+Activation = EndFrame
+Description = Make sure you're selecting a color that the car can actually have.
+OptionRange = 1:15
+E20AD9A2 0010
+300AD9A2 00??
+
+[Alternate Music in Arcade Mode Car Selection Menu]
+Type = Gameshark
+Activation = EndFrame
+E0015F14 0001
+30015F14 0000
