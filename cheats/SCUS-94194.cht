@@ -361,9 +361,28 @@ E00B63C1 00FF
 Type = Gameshark
 Activation = EndFrame
 Description = Make sure you're selecting a color that the car can actually have.
-OptionRange = 1:15
+OptionRange = 0:15
 E20B6672 0010
 300B6672 00??
+
+[KPH Speedometer]
+Type = Gameshark
+Activation = EndFrame
+Description = Enable this code while you're in any menu, except the GT Mode menu.
+E0081703 0001
+30081703 0000
+
+[Language Selector]
+Type = Gameshark
+Activation = EndFrame
+Description = Enable this code while you're in the GT Mode menu, then exit from it for it to take effect.
+Option = English (USA):00
+Option = English (UK):01
+Option = French:02
+Option = German:03
+Option = Italian:04
+Option = Spanish:05
+3009B85D 00??
 ;#### PATCHES LISTED BELOW ####
 
 [60 FPS (+e-enable tire smoke, re-enable rear view mirror)]
