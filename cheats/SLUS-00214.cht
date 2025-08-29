@@ -46,12 +46,6 @@ Type = Gameshark
 Activation = EndFrame
 8007C368 761E
 8007C3F8 01E6
-;#### PATCHES LISTED BELOW ####
-
-[40 FPS unlock (Might speed up game)]
-Type = Gameshark
-Activation = EndFrame
-A7063B4A 10401000
 
 [Race on Special 1 course]
 Type = Gameshark
@@ -80,3 +74,9 @@ Activation = EndFrame
 301DCA88 000C
 #Fix Time Trial crashing after unlocking Extra tracks by replacing non-existent special opponent car with White Angel. However, the player will not unlock any car in the end.
 301FA722 000E
+;#### PATCHES LISTED BELOW ####
+
+[40 FPS unlock (Might speed up game)]
+Type = Gameshark
+Activation = EndFrame
+A7063B4A 10401000
