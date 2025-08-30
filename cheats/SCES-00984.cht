@@ -227,12 +227,14 @@ Activation = EndFrame
 Description = Enable this code in the Language Selection screen.
 3004DDA4 0000
 
-[MPH Speedometer]
+[Speedometer Selector]
 Type = Gameshark
 Activation = EndFrame
 Description = Enable this code while you're in any menu, except the GT Mode menu.
-E0081B73 0000
-30081B73 0001
+Option = km/h:00
+Option = mph:01
+E2081B73 0002
+30081B73 00??
 
 [Car Color Selector]
 Type = Gameshark
