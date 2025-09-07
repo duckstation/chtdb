@@ -56,3 +56,15 @@ Type = Gameshark
 Activation = EndFrame
 80062798 0001
 
+[Infinite Ammo + Turbo + Special Energy + Rapid Fire P1]
+Description = infinite Ammo + Turbo + Special Energy + Rapid Fire P1
+Type = Gameshark
+Activation = EndFrame
+D01AE568 070C
+801AE56E 2400
+D01B9708 FFEC
+801B970E 2400
+D01B66B0 FFFF
+801B66B6 2400
+D01B4DA8 182B
+801B4DAE 2400
