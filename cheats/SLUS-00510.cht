@@ -52,3 +52,9 @@ Type = Gameshark
 Activation = EndFrame
 80065908 0F0F
 
+[Widescreen Fix]
+Description = expands a bit more the levels rendering right and left field - enable in the main menu AFTER loading your save game or the game will crash
+Type = Gameshark
+Activation = EndFrame
+A70119F4 10000C00
+
