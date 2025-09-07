@@ -1,5 +1,3 @@
-; CHTDB: ; [ Vigilante 8 (USA, v1.0) (1998) (Activision) {SLUS-00510} <vigil8a> ]
-
 [Unlock Everything]
 Type = Gameshark
 Activation = EndFrame
@@ -51,4 +49,10 @@ Activation = EndFrame
 Type = Gameshark
 Activation = EndFrame
 80065908 0F0F
+
+[widescreen fix]
+Description = expands a bit more the levels rendering right and left field - enable in the main menu AFTER loading your save game or the game will crash
+Type = Gameshark
+Activation = EndFrame
+A70119F4 10000C00
 
