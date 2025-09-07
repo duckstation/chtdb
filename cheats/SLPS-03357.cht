@@ -1,0 +1,49 @@
+; CHTDB: ; [ Digimon Tamers Battle Evolution (Japan) (2001) (Bandai) {SLPS-03357} <overlord_chaos> ]
+
+[Widescreen Fix]
+Description = Expands the screen width to get proper widescreen levels
+Type = Gameshark
+Activation = EndFrame
+A70D4924 10000400
+
+[Alternate Colors Player 1]
+Description = Inverted colors used when P1 and COM/P2 uses the same character
+Type = Gameshark
+Activation = EndFrame
+8005FC0C 0001
+
+[Max Score Player 1]
+Description = Max Score in all the battles (not in mini-games)
+Type = Gameshark
+Activation = EndFrame
+8005FC10 FFFF
+
+[All Characters Enabled On All Modes]
+Description = enables ALL characters, even the mega versions on single player mode ENABLE ONLY IN THE MAIN MENU if it is enabled when the BAN DAI logo appears on boot the game will crash.
+Type = Gameshark
+Activation = EndFrame
+8012A870 0001
+8012A864 0001
+8012A858 0001
+8012A8A0 0001
+8012A86C 0001
+8012A88C 0001
+8012A87C 0001
+8012A8AC 0001
+8012A868 0001
+8012A860 0001
+8012A8B0 0001
+8012A89C 0001
+8012A890 0001
+8012A85C 0001
+8012A874 0001
+8012A854 0001
+8012A880 0001
+8012A8A4 0001
+8012A898 0001
+8012A8A8 0001
+8012A878 0001
+8012A888 0001
+8012A894 0001
+8012A884 0001
+
