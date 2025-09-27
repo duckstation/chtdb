@@ -1,0 +1,317 @@
+# Need for Speed: High Stakes (USA) (En) [SLUS-00826]
+[Skip Intro Movies]
+Type = Gameshark
+Activation = EndFrame
+Description = Skips all Intro movies. No effect on Demo movies in the menu.
+Author = Hypercycle
+# 0x80010082 checks for FrontEnd overlay availability.
+D0010082 00008001
+3004E340 000000FF
+D0010082 00008001
+3004E344 00000000
+
+
+
+[Enable German Localization]
+Type = Gameshark
+Activation = EndFrame
+Description = German language (Audio + Text), leftover from Euro game release.
+Author = Hypercycle
+# 0x80010082 checks for FrontEnd overlay availability.
+# Disable one of the forced English language assignments.
+D0010082 00008001
+3004E138 00000001
+D0010082 00008001
+3004E13F 00000010
+D0010082 00008001
+3004E146 00000082
+# Set the language ID.
+30115BF8 00000001
+
+
+
+[Enable French Localization]
+Type = Gameshark
+Activation = EndFrame
+Description = French language (Audio + Text), leftover from Euro game release.
+Author = Hypercycle
+# 0x80010082 checks for FrontEnd overlay availability.
+# Disable one of the forced English language assignments.
+D0010082 00008001
+3004E138 00000002
+D0010082 00008001
+3004E13F 00000010
+D0010082 00008001
+3004E146 00000082
+# Set the language ID.
+30115BF8 00000002
+
+
+
+[Enable Spanish Localization]
+Type = Gameshark
+Activation = EndFrame
+Description = Spanish language (Text only), leftover from Euro game release.
+Author = Hypercycle
+# 0x80010082 checks for FrontEnd overlay availability.
+# Disable one of the forced English language assignments.
+D0010082 00008001
+3004E138 00000003
+D0010082 00008001
+3004E13F 00000010
+D0010082 00008001
+3004E146 00000082
+# Set the language ID.
+30115BF8 00000003
+
+
+
+[Enable Italian Localization]
+Type = Gameshark
+Activation = EndFrame
+Description = Italian language (Text only), leftover from Euro game release.
+Author = Hypercycle
+# 0x80010082 checks for FrontEnd overlay availability.
+# Disable one of the forced English language assignments.
+D0010082 00008001
+3004E138 00000004
+D0010082 00008001
+3004E13F 00000010
+D0010082 00008001
+3004E146 00000082
+# Set the language ID.
+30115BF8 00000004
+
+
+
+[Enable Swedish Localization]
+Type = Gameshark
+Activation = EndFrame
+Description = Swedish language (Showcase + Text only), leftover from Euro game release.
+Author = Hypercycle
+# 0x80010082 checks for FrontEnd overlay availability.
+# Disable one of the forced English language assignments.
+D0010082 00008001
+3004E138 00000005
+D0010082 00008001
+3004E13F 00000010
+D0010082 00008001
+3004E146 00000082
+# Set the language ID.
+30115BF8 00000005
+
+
+
+[Disable Sub-Divide Correction (PGXP Textures Fix)]
+Type = Gameshark
+Activation = EndFrame
+Description = Get rid of "warped" textures when the Perspective Correct Textures feature is enabled.
+Author = Hypercycle
+300C6A05 00000005
+300C6A35 00000005
+300C6A65 00000005
+300C6A95 00000005
+
+
+
+[Increase Track Detail]
+Type = Gameshark
+Activation = EndFrame
+Description = Force a higher level of detail for track chunks.
+Author = Hypercycle
+OverrideCPUOverclock = 400
+3011020E 00000006
+30110212 00000002
+301114D2 00000004
+301102AE 00000002
+
+
+
+[Widescreen 16:9 for Menus]
+Type = Gameshark
+Activation = EndFrame
+Description = Scale all menus to the screen center for a 16:9 aspect ratio. Set the Crop feature to Overscan before enabling this patch.
+Author = Hypercycle
+DisableWidescreenRendering = True
+# 0x80010082 checks for FrontEnd overlay availability.
+# Adjust SetDefDispEnv: Display on W, and Screen on X and W.
+D0010082 00008001
+80120718 00000280
+D0010082 00008001
+8012071C 00000040
+D0010082 00008001
+80120720 000000CC
+D0010082 00008001
+80120730 00000280
+D0010082 00008001
+80120734 00000040
+D0010082 00008001
+80120738 000000CC
+# In-race: force the original set of values.
+D1010082 00008001
+80120718 00000140
+D1010082 00008001
+8012071C 00000000
+D1010082 00008001
+80120720 00000000
+D1010082 00008001
+80120730 00000140
+D1010082 00008001
+80120734 00000000
+D1010082 00008001
+80120738 00000000
+
+
+
+[Widescreen 16:10]
+Type = Gameshark
+Activation = EndFrame
+Description = Widescreen patch for in-game render (16:10). Flares, smoke, and sun effects are not scaled.
+Author = Hypercycle
+OverrideCPUOverclock = 400
+DisableWidescreenRendering = True
+OverrideAspectRatio = 16:10
+# X axis value, tweak it for custom aspect ratios.
+80085C80 0000EE00
+# Replace the original Y axis render adjustment with X axis.
+30085CC4 0000000C
+30085CD4 00000010
+30085CE4 00000014
+30085CFC 0000000C
+30085D00 00000010
+30085D08 00000014
+# Now, the Y axis is slightly stretched. Combined with the proper X axis values, we will adjust GeomScreen (or camera position) value to cover that.
+30082790 000000AA
+30083708 000000AA
+30083D58 000000AA
+30083D98 000000AA
+30084580 000000AA
+3008608C 000000AA
+3008629C 000000AA
+# Move the background sky texture in order to fix possible "voids" on the sky after GeomScreen tweak. Same method as the original 2-player mode adjustment for the sky render.
+300D17A0 00000084
+300D17C8 00000044
+
+
+
+[Widescreen 16:9]
+Type = Gameshark
+Activation = EndFrame
+Description = Widescreen patch for in-game render (16:9). Flares, smoke, and sun effects are not scaled.
+Author = Hypercycle
+OverrideCPUOverclock = 400
+DisableWidescreenRendering = True
+OverrideAspectRatio = 16:9
+# X axis value, tweak it for custom aspect ratios.
+80085C80 0000D200
+# Replace the original Y axis render adjustment with X axis.
+30085CC4 0000000C
+30085CD4 00000010
+30085CE4 00000014
+30085CFC 0000000C
+30085D00 00000010
+30085D08 00000014
+# Now, the Y axis is slightly stretched. Combined with the proper X axis values, we will adjust GeomScreen (or camera position) value to cover that.
+30082790 000000AA
+30083708 000000AA
+30083D58 000000AA
+30083D98 000000AA
+30084580 000000AA
+3008608C 000000AA
+3008629C 000000AA
+# Move the background sky texture in order to fix possible "voids" on the sky after GeomScreen tweak. Same method as the original 2-player mode adjustment for the sky render.
+300D17A0 00000084
+300D17C8 00000044
+
+
+
+[Widescreen 19:9]
+Type = Gameshark
+Activation = EndFrame
+Description = Widescreen patch for in-game render (19:9). Flares, smoke, and sun effects are not scaled.
+Author = Hypercycle
+OverrideCPUOverclock = 400
+DisableWidescreenRendering = True
+OverrideAspectRatio = 19:9
+# X axis value, tweak it for custom aspect ratios.
+80085C80 0000B200
+# Replace the original Y axis render adjustment with X axis.
+30085CC4 0000000C
+30085CD4 00000010
+30085CE4 00000014
+30085CFC 0000000C
+30085D00 00000010
+30085D08 00000014
+# Now, the Y axis is slightly stretched. Combined with the proper X axis values, we will adjust GeomScreen (or camera position) value to cover that.
+30082790 000000AA
+30083708 000000AA
+30083D58 000000AA
+30083D98 000000AA
+30084580 000000AA
+3008608C 000000AA
+3008629C 000000AA
+# Move the background sky texture in order to fix possible "voids" on the sky after GeomScreen tweak. Same method as the original 2-player mode adjustment for the sky render.
+300D17A0 00000084
+300D17C8 00000044
+
+
+
+[Widescreen 21:9]
+Type = Gameshark
+Activation = EndFrame
+Description = Widescreen patch for in-game render (21:9). Flares, smoke, and sun effects are not scaled.
+Author = Hypercycle
+OverrideCPUOverclock = 400
+DisableWidescreenRendering = True
+OverrideAspectRatio = 21:9
+# X axis value, tweak it for custom aspect ratios.
+80085C80 0000A200
+# Replace the original Y axis render adjustment with X axis.
+30085CC4 0000000C
+30085CD4 00000010
+30085CE4 00000014
+30085CFC 0000000C
+30085D00 00000010
+30085D08 00000014
+# Now, the Y axis is slightly stretched. Combined with the proper X axis values, we will adjust GeomScreen (or camera position) value to cover that.
+30082790 000000AA
+30083708 000000AA
+30083D58 000000AA
+30083D98 000000AA
+30084580 000000AA
+3008608C 000000AA
+3008629C 000000AA
+# Move the background sky texture in order to fix possible "voids" on the sky after GeomScreen tweak. Same method as the original 2-player mode adjustment for the sky render.
+300D17A0 00000084
+300D17C8 00000044
+
+
+
+[Widescreen 32:9]
+Type = Gameshark
+Activation = EndFrame
+Description = Widescreen patch for in-game render (32:9). Flares, smoke, and sun effects are not scaled.
+Author = Hypercycle
+OverrideCPUOverclock = 400
+DisableWidescreenRendering = True
+OverrideAspectRatio = 32:9
+# X axis value, tweak it for custom aspect ratios.
+80085C80 00006D00
+# Replace the original Y axis render adjustment with X axis.
+30085CC4 0000000C
+30085CD4 00000010
+30085CE4 00000014
+30085CFC 0000000C
+30085D00 00000010
+30085D08 00000014
+# Now, the Y axis is slightly stretched. Combined with the proper X axis values, we will adjust GeomScreen (or camera position) value to cover that.
+30082790 000000AA
+30083708 000000AA
+30083D58 000000AA
+30083D98 000000AA
+30084580 000000AA
+3008608C 000000AA
+3008629C 000000AA
+# Move the background sky texture in order to fix possible "voids" on the sky after GeomScreen tweak. Same method as the original 2-player mode adjustment for the sky render.
+300D17A0 00000084
+300D17C8 00000044
