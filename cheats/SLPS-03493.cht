@@ -1,5 +1,3 @@
-; CHTDB: ; [ Ninpu Sentai Harikenger (Jpn) (2002) (Bandai) {SLPS-03493} <harikeng> ]
-
 [P1 Infinite Health]
 Type = Gameshark
 Activation = EndFrame
@@ -30,4 +28,10 @@ Type = Gameshark
 Activation = EndFrame
 50000F02 0000
 80092CB4 0101
+
+[widescreen fix]
+Description = expands the screen width a bit more
+Type = Gameshark
+Activation = EndFrame
+A7001BAC 10000400
 
