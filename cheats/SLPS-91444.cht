@@ -1,0 +1,28 @@
+; CHTDB: ; [ Armored Core: Master of Arena (Japan) (2002) (PSone Books) {SLPS-91444 / SLPS-91445} ]
+
+[Game Progress\Credits 9999999]
+Type = Gameshark
+Activation = EndFrame
+Description = Set Credits to 9999999.
+Author = val
+9003EE40 0098967F
+
+[Game Progress\Human PLUS (強化人間)]
+Type = Gameshark
+Activation = EndFrame
+Description = Set Human PLUS (強化人間) stage.
+Author = val
+3003EE78 ????
+Option = No Upgrades:0x0000
+Option = Stage 1:0x0001
+Option = Stage 2:0x0004
+Option = Stage 3:0x0006
+
+[Game Progress\Deploy Restricted AC (基準違反機体)]
+Type = Gameshark
+Activation = EndFrame
+Description = Set Deploy Restricted AC (基準違反機体) ability.
+Author = val
+3003EE7A ????
+Option = Disabled:0x0000
+Option = Enabled:0x0001
