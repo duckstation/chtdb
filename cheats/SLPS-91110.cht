@@ -1,4 +1,31 @@
-; CHTDB: ; [ Armored Core: Project Phantasma (Japan) (PlayStation the Best, PSone Books) {SLPS-91110} ]
+; CHTDB: ; [ Armored Core: Project Phantasma (Japan) (1998) (PlayStation the Best, PSone Books) {SLPS-91110} ]
+
+[Game Progress\Credits 9999999]
+Type = Gameshark
+Activation = EndFrame
+Description = Set Credits to 9999999.
+Author = val
+9003C6DC 0098967F
+
+[Game Progress\Human PLUS (強化人間)]
+Type = Gameshark
+Activation = EndFrame
+Description = Set Human PLUS (強化人間) stage.
+Author = val
+3003C734 ????
+Option = No Upgrades:0x0000
+Option = Stage 1:0x0001
+Option = Stage 2:0x0004
+Option = Stage 3:0x0006
+
+[Game Progress\Deploy Restricted AC (基準違反機体)]
+Type = Gameshark
+Activation = EndFrame
+Description = Set Deploy Restricted AC (基準違反機体) ability.
+Author = val
+3003C736 ????
+Option = Disabled:0x0000
+Option = Enabled:0x0001
 
 [Infinite Mission Timer]
 Type = Gameshark
