@@ -1,3 +1,5 @@
+; CHTDB: ; [ Hyakujuu Sentai Gaoranger (Jpn) (2001) (Bandai) {SLPS-03353} <gaorangr> ]
+
 [Infinite Energy]
 Type = Gameshark
 Activation = EndFrame
@@ -8,7 +10,7 @@ Type = Gameshark
 Activation = EndFrame
 80153940 09C4
 
-[widescreen fix]
+[Widescreen Fix]
 Description = expands the screen a bit more
 Type = Gameshark
 Activation = EndFrame
