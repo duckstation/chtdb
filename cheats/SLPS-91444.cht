@@ -1,18 +1,18 @@
-; CHTDB: ; [ Armored Core (USA, v1.0) (1997) (Sony Computer Entertainment America) {SCUS-94182} <armcorea> ]
+; CHTDB: ; [ Armored Core: Master of Arena (Japan) (1999) (PlayStation the Best, PSone Books) {SLPS-91444 / SLPS-91445} ]
 
 [Game Progress\Credits 9999999]
 Type = Gameshark
 Activation = EndFrame
 Description = Set Credits to 9999999.
 Author = val
-90039CA4 0098967F
+9003EE40 0098967F
 
 [Game Progress\Human PLUS (強化人間)]
 Type = Gameshark
 Activation = EndFrame
 Description = Set Human PLUS (強化人間) stage.
 Author = val
-30039D20 ????
+3003EE78 ????
 Option = No Upgrades:0x0000
 Option = Stage 1:0x0001
 Option = Stage 2:0x0004
@@ -23,34 +23,6 @@ Type = Gameshark
 Activation = EndFrame
 Description = Set Deploy Restricted AC (基準違反機体) ability.
 Author = val
-E00B7400 00C8
-30086836 0022
-30039D22 ????
+3003EE7A ????
 Option = Disabled:0x0000
 Option = Enabled:0x0001
-
-[Infinite Time]
-Type = Gameshark
-Activation = EndFrame
-8019F52C FFFF
-
-[Infinite Energy]
-Type = Gameshark
-Activation = EndFrame
-80040FBE 6D60
-
-[Infinite Weapon 1]
-Type = Gameshark
-Activation = EndFrame
-8004128A 00C8
-
-[Infinite Weapon 2]
-Type = Gameshark
-Activation = EndFrame
-800412C6 00C8
-
-[Infinite Armor]
-Type = Gameshark
-Activation = EndFrame
-801A2818 7000
-

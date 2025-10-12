@@ -1,0 +1,441 @@
+# Need for Speed: High Stakes (USA) (En) [SLUS-00826]
+[Skip Intro Movies]
+Type = Gameshark
+Activation = EndFrame
+Description = Skips all Intro movies. No effect on Demo movies in the menu.
+Author = Hypercycle
+# 0x80010082 checks for FrontEnd overlay availability.
+C0010082 00008001
+3004E340 000000FF
+3004E344 00000000
+00000000 FFFF
+
+
+
+[Enable German Localization]
+Type = Gameshark
+Activation = EndFrame
+Description = German language (Audio + Text), leftover from Euro game release.
+Author = Hypercycle
+# 0x80010082 checks for FrontEnd overlay availability.
+# Disable one of the forced English language assignments.
+C0010082 00008001
+3004E138 00000001
+3004E13F 00000010
+3004E146 00000082
+00000000 FFFF
+# Set the language ID.
+30115BF8 00000001
+
+
+
+[Enable French Localization]
+Type = Gameshark
+Activation = EndFrame
+Description = French language (Audio + Text), leftover from Euro game release.
+Author = Hypercycle
+# 0x80010082 checks for FrontEnd overlay availability.
+# Disable one of the forced English language assignments.
+C0010082 00008001
+3004E138 00000002
+3004E13F 00000010
+3004E146 00000082
+00000000 FFFF
+# Set the language ID.
+30115BF8 00000002
+
+
+
+[Enable Spanish Localization]
+Type = Gameshark
+Activation = EndFrame
+Description = Spanish language (Text only), leftover from Euro game release.
+Author = Hypercycle
+# 0x80010082 checks for FrontEnd overlay availability.
+# Disable one of the forced English language assignments.
+C0010082 00008001
+3004E138 00000003
+3004E13F 00000010
+3004E146 00000082
+00000000 FFFF
+# Set the language ID.
+30115BF8 00000003
+
+
+
+[Enable Italian Localization]
+Type = Gameshark
+Activation = EndFrame
+Description = Italian language (Text only), leftover from Euro game release.
+Author = Hypercycle
+# 0x80010082 checks for FrontEnd overlay availability.
+# Disable one of the forced English language assignments.
+C0010082 00008001
+3004E138 00000004
+3004E13F 00000010
+3004E146 00000082
+00000000 FFFF
+# Set the language ID.
+30115BF8 00000004
+
+
+
+[Enable Swedish Localization]
+Type = Gameshark
+Activation = EndFrame
+Description = Swedish language (Showcase + Text only), leftover from Euro game release.
+Author = Hypercycle
+# 0x80010082 checks for FrontEnd overlay availability.
+# Disable one of the forced English language assignments.
+C0010082 00008001
+3004E138 00000005
+3004E13F 00000010
+3004E146 00000082
+00000000 FFFF
+# Set the language ID.
+30115BF8 00000005
+
+
+
+[Disable Sub-Divide Correction (PGXP Textures Fix)]
+Type = Gameshark
+Activation = EndFrame
+Description = Get rid of "warped" textures when the Perspective Correct Textures feature is enabled.
+Author = Hypercycle
+300C6A05 00000005
+300C6A35 00000005
+300C6A65 00000005
+300C6A95 00000005
+
+
+
+[Increase Track Detail]
+Type = Gameshark
+Activation = EndFrame
+Description = Force a higher level of detail for track chunks.
+Author = Hypercycle
+OverrideCPUOverclock = 400
+3011020E 00000006
+30110212 00000002
+301114D2 00000004
+301102AE 00000002
+
+
+
+[Widescreen 16:9 for Menus]
+Type = Gameshark
+Activation = EndFrame
+Description = Scale all menus to the screen center for a 16:9 aspect ratio. Set the Crop feature to Overscan before enabling this patch.
+Author = Hypercycle
+DisableWidescreenRendering = True
+# 0x80010082 checks for FrontEnd overlay availability.
+# Adjust SetDefDispEnv: Display on W, and Screen on X and W.
+C0010082 00008001
+80120718 00000280
+8012071C 00000040
+80120720 000000CC
+80120730 00000280
+80120734 00000040
+80120738 000000CC
+00000000 FFFF
+# In-race: force the original set of values.
+D1010082 00008001
+80120718 00000140
+D1010082 00008001
+8012071C 00000000
+D1010082 00008001
+80120720 00000000
+D1010082 00008001
+80120730 00000140
+D1010082 00008001
+80120734 00000000
+D1010082 00008001
+80120738 00000000
+
+
+
+[Widescreen 16:10]
+Type = Gameshark
+Activation = EndFrame
+Description = Widescreen patch for in-game render (16:10). Flares, smoke, and sun effects are not scaled.
+Author = Hypercycle
+OverrideCPUOverclock = 400
+DisableWidescreenRendering = True
+OverrideAspectRatio = 16:10
+# X axis value, tweak it for custom aspect ratios.
+80085C80 0000EE00
+# Replace the original Y axis render adjustment with X axis.
+30085CC4 0000000C
+30085CD4 00000010
+30085CE4 00000014
+30085CFC 0000000C
+30085D00 00000010
+30085D08 00000014
+# Now, the Y axis is slightly stretched. Combined with the proper X axis values, we will adjust GeomScreen (or camera position) value to cover that.
+30082790 000000AA
+30083708 000000AA
+30083D58 000000AA
+30083D98 000000AA
+30084580 000000AA
+3008608C 000000AA
+3008629C 000000AA
+# Move the background sky texture in order to fix possible "voids" on the sky after GeomScreen tweak. Same method as the original 2-player mode adjustment for the sky render.
+300D17A0 00000084
+300D17C8 00000044
+
+
+
+[Widescreen 16:9]
+Type = Gameshark
+Activation = EndFrame
+Description = Widescreen patch for in-game render (16:9). Flares, smoke, and sun effects are not scaled.
+Author = Hypercycle
+OverrideCPUOverclock = 400
+DisableWidescreenRendering = True
+OverrideAspectRatio = 16:9
+# X axis value, tweak it for custom aspect ratios.
+80085C80 0000D200
+# Replace the original Y axis render adjustment with X axis.
+30085CC4 0000000C
+30085CD4 00000010
+30085CE4 00000014
+30085CFC 0000000C
+30085D00 00000010
+30085D08 00000014
+# Now, the Y axis is slightly stretched. Combined with the proper X axis values, we will adjust GeomScreen (or camera position) value to cover that.
+30082790 000000AA
+30083708 000000AA
+30083D58 000000AA
+30083D98 000000AA
+30084580 000000AA
+3008608C 000000AA
+3008629C 000000AA
+# Move the background sky texture in order to fix possible "voids" on the sky after GeomScreen tweak. Same method as the original 2-player mode adjustment for the sky render.
+300D17A0 00000084
+300D17C8 00000044
+
+
+
+[Widescreen 19:9]
+Type = Gameshark
+Activation = EndFrame
+Description = Widescreen patch for in-game render (19:9). Flares, smoke, and sun effects are not scaled.
+Author = Hypercycle
+OverrideCPUOverclock = 400
+DisableWidescreenRendering = True
+OverrideAspectRatio = 19:9
+# X axis value, tweak it for custom aspect ratios.
+80085C80 0000B200
+# Replace the original Y axis render adjustment with X axis.
+30085CC4 0000000C
+30085CD4 00000010
+30085CE4 00000014
+30085CFC 0000000C
+30085D00 00000010
+30085D08 00000014
+# Now, the Y axis is slightly stretched. Combined with the proper X axis values, we will adjust GeomScreen (or camera position) value to cover that.
+30082790 000000AA
+30083708 000000AA
+30083D58 000000AA
+30083D98 000000AA
+30084580 000000AA
+3008608C 000000AA
+3008629C 000000AA
+# Move the background sky texture in order to fix possible "voids" on the sky after GeomScreen tweak. Same method as the original 2-player mode adjustment for the sky render.
+300D17A0 00000084
+300D17C8 00000044
+
+
+
+[Widescreen 21:9]
+Type = Gameshark
+Activation = EndFrame
+Description = Widescreen patch for in-game render (21:9). Flares, smoke, and sun effects are not scaled.
+Author = Hypercycle
+OverrideCPUOverclock = 400
+DisableWidescreenRendering = True
+OverrideAspectRatio = 21:9
+# X axis value, tweak it for custom aspect ratios.
+80085C80 0000A200
+# Replace the original Y axis render adjustment with X axis.
+30085CC4 0000000C
+30085CD4 00000010
+30085CE4 00000014
+30085CFC 0000000C
+30085D00 00000010
+30085D08 00000014
+# Now, the Y axis is slightly stretched. Combined with the proper X axis values, we will adjust GeomScreen (or camera position) value to cover that.
+30082790 000000AA
+30083708 000000AA
+30083D58 000000AA
+30083D98 000000AA
+30084580 000000AA
+3008608C 000000AA
+3008629C 000000AA
+# Move the background sky texture in order to fix possible "voids" on the sky after GeomScreen tweak. Same method as the original 2-player mode adjustment for the sky render.
+300D17A0 00000084
+300D17C8 00000044
+
+
+
+[Widescreen 32:9]
+Type = Gameshark
+Activation = EndFrame
+Description = Widescreen patch for in-game render (32:9). Flares, smoke, and sun effects are not scaled.
+Author = Hypercycle
+OverrideCPUOverclock = 400
+DisableWidescreenRendering = True
+OverrideAspectRatio = 32:9
+# X axis value, tweak it for custom aspect ratios.
+80085C80 00006D00
+# Replace the original Y axis render adjustment with X axis.
+30085CC4 0000000C
+30085CD4 00000010
+30085CE4 00000014
+30085CFC 0000000C
+30085D00 00000010
+30085D08 00000014
+# Now, the Y axis is slightly stretched. Combined with the proper X axis values, we will adjust GeomScreen (or camera position) value to cover that.
+30082790 000000AA
+30083708 000000AA
+30083D58 000000AA
+30083D98 000000AA
+30084580 000000AA
+3008608C 000000AA
+3008629C 000000AA
+# Move the background sky texture in order to fix possible "voids" on the sky after GeomScreen tweak. Same method as the original 2-player mode adjustment for the sky render.
+300D17A0 00000084
+300D17C8 00000044
+
+
+
+[Hood & Trunk Camera]
+Type = Gameshark
+Activation = EndFrame
+Description = It replaces the Bumper camera with a Hood camera, and enables the Trunk camera when the player looks back.
+Author = Hypercycle
+# Disable the Dashboard cheat check.
+900845A4 00000000
+# Check if the player is trying to look back, and if the actual camera slot is the first one.
+D013E508 00000001
+D01105E0 00000001
+# If yes, then force the Trunk camera from Replay mode. The original look back logic is blocked for Dashboard view by default.
+801105E0 0000000F
+# Check if the player is not looking back, and if the actual camera slot is set to Truck camera.
+D013E508 00000000
+D01105E0 0000000F
+# If yes, then get back to Dashboard (Hood) camera mode.
+801105E0 00000001
+# List of Hood camera positions for cars
+# 00: SLK 230
+90110944 FFFFFDD8
+90110948 0000A2F5
+9011094C 00004900
+# 01: Z3
+90110950 FFFFFDD8
+90110954 0000AAF5
+90110958 00004900
+# 02: HSV
+9011095C FFFFFEFF
+90110960 0000B8F5
+90110964 00008900
+# 03: Falcon
+90110968 00000000
+9011096C 0000ACF5
+90110970 0000BF00
+# 04: Camaro
+90110974 00000000
+90110978 0000AFF5
+9011097C 00009800
+# 05: Firebird
+90110980 FFFFFF00
+90110984 0000B8F5
+90110988 00009D00
+# 06: DB7
+9011098C 00000300
+90110990 0000B8F5
+90110994 00005D00
+# 07: XKR
+90110998 00000000
+9011099C 0000BAF5
+901109A0 00005D00
+# 08: M5
+901109A4 00000000
+901109A8 0000BCF5
+901109AC 00008300
+# 09: Corvette
+901109B0 00000000
+901109B4 0000BEF5
+901109B8 00001B00
+# 0A: 550
+901109BC 00000000
+901109C0 0000B6F5
+901109C4 00002000
+# 0B: 911
+901109C8 FFFFFEFF
+901109CC 0000A9F5
+901109D0 00002F00
+# 0C: F50
+901109D4 00000000
+901109D8 0000A7F5
+901109DC 00009400
+# 0D: Diablo
+901109E0 00000000
+901109E4 0000A8F5
+901109E8 0000AF00
+# 0E: CLK-GTR
+901109EC 00000000
+901109F0 00009BF5
+901109F4 0000A600
+# 0F: F1 GTR
+901109F8 00000000
+901109FC 0000AAF5
+90110A00 00006A00
+# 10: 911 Bonus
+90110A04 FFFFFEFF
+90110A08 0000A9F5
+90110A0C 00002F00
+# 11: MHRT VT
+90110A10 FFFFFEFF
+90110A14 0000B8F5
+90110A18 00008900
+# 12: Corvette Bonus
+90110A1C 00000000
+90110A20 0000BEF5
+90110A24 00001B00
+# 13: Phantom
+90110A28 00000000
+90110A2C 0000BAF5
+90110A30 00009900
+# 14: Titan
+90110A34 00000000
+90110A38 0000C0F5
+90110A3C FFFFF0FF
+# 15: Bonus Car 3 (or Skyline)
+90110A40 00000000
+90110A44 0000B6F5
+90110A48 00006000
+# 16: Caprice Cop
+90110A4C 00000000
+90110A50 0000A8F5
+90110A54 0000F000
+# 17: HSV Cop
+90110A58 FFFFFEFF
+90110A5C 0000B8F5
+90110A60 00008900
+# 18: M5 Cop
+90110A64 FFFFFEFF
+90110A68 0000BCF5
+90110A6C 00008300
+# 19: Corvette Cop
+90110A70 00000000
+90110A74 0000BEF5
+90110A78 00001B00
+# 1A: 911 Cop
+90110A7C 00000000
+90110A80 0000A9F5
+90110A84 00002F00
+# 1B: Diablo Cop
+90110A88 00000000
+90110A8C 0000A8F5
+90110A90 0000AF00
