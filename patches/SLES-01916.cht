@@ -1,0 +1,8 @@
+# Sports Car GT (Germany) SLES-01916
+[60 FPS und OC]
+Type = Gameshark
+Activation = EndFrame
+Author = MCONEMK
+Description = Entfernt die integrierte 20-FPS-Begrenzung durch Setzen des VSync-Teilers auf 1. Die CPU wird auf 300% Übertaktet da die Engine sonst zu langsam ist.
+OverrideCPUOverclock = 300
+8009F0C0 0001
