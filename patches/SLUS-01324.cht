@@ -4,6 +4,7 @@ Type = Gameshark
 Activation = EndFrame
 Author = Paul_met
 OverrideAspectRatio = 16:9
+DisableWidescreenRendering = True
 Description = Patches the game to use 16:9 widescreen rendering, instead of 4:3. <br>Sprites will stretch without binary patching.
 A716AE1C 00000C00
 A716AE1E 0000240A
