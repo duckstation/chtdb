@@ -8,7 +8,7 @@ jobs:
   create-release:
     name: Create Release
     if: github.ref == 'refs/heads/master'
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-slim
     steps:
     - uses: actions/checkout@v4.1.6
       with:
