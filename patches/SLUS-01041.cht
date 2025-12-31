@@ -1,0 +1,18 @@
+# Chrono Cross (USA)
+[60 FPS]
+Type = Gameshark
+Activation = EndFrame
+Description = Patches the game to render at 60fps, instead of 30fps.
+Author = Stenzek
+
+# Battles are stupidly CPU intensive and normally run at 15fps. Give it
+# ample headroom. The vsync fix below is required to avoid timeouts.
+OverrideCPUOverclock = 500
+
+# Field vsync interval, normally 2.
+A70E3D52 00020001
+
+# Patch the stupid VSync function to not timeout.
+# lui a1, 0x7fff
+A7027A60 2BC07FFF
+A7027A62 00053C05
