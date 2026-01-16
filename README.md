@@ -29,13 +29,13 @@ Lines that begin with a semicolon (`;`) or hash (`#`) are comments, and ignored 
 Each code should be preceded with its metadata, including the name of the code in square brackets. After all options are
 listed, then the code body should be written without any escaping or additional characters. For example:
 
-```
+```ini
 [My Patch Code]
 Type = Gameshark
 Activation = EndFrame
 Description = Additional text about what the code does, displayed as a tooltip.
 Author = Name of patch author, optional.
-A7001234 = 12345678
+A7001234 12345678
 ```
 
 Activation can be `Manual` or `EndFrame`, with manual codes requiring explicit one-shot triggering by the user, and end-frame
@@ -57,13 +57,13 @@ hexadecimal or binary values respectively.
 To utilize the user's choice in your code, simply replace the nibbles in the value with question marks. DuckStation will shift
 the chosen option into the correct bit position if the `?` does not appear in the least significant bit position. For example:
 
-```
+```ini
 [My Patch Code]
 Type = Gameshark
 Activation = EndFrame
 Description = Overrides the number of lives.
 OptionRange = 1:100
-80001234 = 00??
+80001234 00??
 ```
 
 This would write whichever value the user chose in the spinbox to the memory location 0x1234.
