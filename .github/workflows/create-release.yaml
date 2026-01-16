@@ -4,38 +4,29 @@ on:
       - master
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   create-release:
     name: Create Release
     if: github.ref == 'refs/heads/master'
     runs-on: ubuntu-slim
     steps:
-    - uses: actions/checkout@v4.1.6
-      with:
-        fetch-depth: 0
-
-    - name: Create cheats archive
-      shell: bash
-      run: |
-        cd cheats
-        zip -r ../cheats.zip .
-        cd ..
-
-    - name: Create patches archive
-      shell: bash
-      run: |
-        cd patches
-        zip -r ../patches.zip .
-        cd ..
-
-    - name: Create/update release
-      uses: "marvinpinto/action-automatic-releases@latest"
-      with:
-        repo_token: "${{ secrets.GITHUB_TOKEN }}"
-        automatic_release_tag: "latest"
-        prerelease: false
-        title: "Latest Release"
-        files: |
-          cheats.zip
-          patches.zip
-  
+      - uses: actions/checkout@v6
+      - name: Create cheats archive
+        shell: bash
+        run: zip -j -r cheats.zip cheats
+      - name: Create patches archive
+        shell: bash
+        run: zip -j -r patches.zip patches
+      - name: Create/update release
+        uses: marvinpinto/action-automatic-releases@d68defdd11f9dcc7f52f35c1b7c236ee7513bcc1
+        with:
+          repo_token: "${{ secrets.GITHUB_TOKEN }}"
+          automatic_release_tag: "latest"
+          prerelease: false
+          title: "Latest Release"
+          files: |
+            cheats.zip
+            patches.zip
