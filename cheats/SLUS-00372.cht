@@ -126,18 +126,21 @@ Activation = EndFrame
 801D8238 FFFF
 ;#### PATCHES LISTED BELOW ####
 
-[Select Widescreen Aspect Ratio\16-9]
+[Select Widescreen Aspect Ratio\16:9]
 Type = Gameshark
 Activation = EndFrame
+Ignore = True
 A71D8628 10000C00
 
-[Select Widescreen Aspect Ratio\20-9]
+[Select Widescreen Aspect Ratio\20:9]
 Type = Gameshark
 Activation = EndFrame
+Ignore = True
 A71D8628 10000900
 
-[Select Widescreen Aspect Ratio\Eye Infinity]
+[Select Widescreen Aspect Ratio\Eyefinity]
 Type = Gameshark
 Activation = EndFrame
+Ignore = True
 A71D8628 10000400
 
