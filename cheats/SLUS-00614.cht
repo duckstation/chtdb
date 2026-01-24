@@ -63,12 +63,13 @@ F508CB12 10401000
 F5096346 14601000
 F50962EA 14601000
 
-[Disable Item Obfuscation In 2nd Tower (Experimental)]
+[Disable Item Obfuscation In 2nd Tower]
 Author = czaj
-Description = Only enable this inside the tower. May crash elsewhere.
+Description = Prevents new items from becoming obfuscated in second tower. Enable right before entry.
 Type = Gameshark
 Activation = EndFrame
-8008dae8 00000000
+A708DAE8 A4090000
+A708DAEA 0C020000
 
 [Floor Select]
 Author = JukePlz

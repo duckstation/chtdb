@@ -20,6 +20,15 @@ Type = Gameshark
 Activation = EndFrame
 90073B90 0098967F
 
+[Outfit Selection]
+Type = Gameshark
+Activation = EndFrame
+Option = PE1:1
+Option = PE2:2
+Option = Holster:3
+Option = Holster-Phones:4
+30073BAE 00??
+
 [Go through Locked Doors]
 Type = Gameshark
 Activation = EndFrame
