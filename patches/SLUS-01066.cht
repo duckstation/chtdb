@@ -6,7 +6,7 @@ Description = Patches the game to render at 60fps, instead of 30fps.
 OverrideCPUOverclock = 250
 3003CBA8 0000
 
-[Widescreen 16-9 (Vert-)]
+[Widescreen 16:9 (Vert-)]
 Type = Gameshark
 Activation = EndFrame
 OverrideAspectRatio = 16:9
