@@ -1,8 +1,0 @@
-; CHTDB: ; [ Legend of Dragoon, The (Spain) (Disc 4) {SCES-33047} ]
-
-[NTSC Mode]
-Type = Gameshark
-Activation = EndFrame
-Author = PeterDelta
-Description = Runs NTSC video mode. The timer is going a little fast
-A7054998 00010000
