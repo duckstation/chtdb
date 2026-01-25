@@ -174,8 +174,7 @@ Type = Gameshark
 Activation = EndFrame
 A7040426 0C012400
 
-[Misc\Time is 00]
-Description = 00
+[Misc\Time is 00.00.00]
 Type = Gameshark
 Activation = EndFrame
 9009C818 00000000
