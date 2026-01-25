@@ -167,10 +167,14 @@ def update_chtdb(chtdb_path:str, new_chtdb_path:str, cheats_dir:str):
 
             # convert names/descriptions
             name = None
+            author = None
             for line in lines[1:]:
                 # Skip new fields
                 no_whitespace = line.replace(" ", "")
                 if no_whitespace.startswith("Type=") or no_whitespace.startswith("Activation="):
+                    continue
+                elif no_whitespace.startswith("Author="):
+                    author = line
                     continue
                 elif no_whitespace.startswith("Description="):
                     assert name is not None
@@ -185,7 +189,9 @@ def update_chtdb(chtdb_path:str, new_chtdb_path:str, cheats_dir:str):
                 if name is not None:
                     new_lines.append(f"#{name}")
                     name = None
-
+                if author is not None:
+                    new_lines.append(f"{author}")
+                    author = None
                 new_lines.append(line)
 
             if old_lines == new_lines:
