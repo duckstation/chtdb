@@ -35,32 +35,82 @@ Activation = EndFrame
 800F2CEC 000F
 800F35C0 660E
 
-[Classic Mode Drop Pieces On Left Side To Clear Lines]
+[Classic Mode\Drop Pieces On Left Side To Clear Lines]
 Type = Gameshark
 Activation = EndFrame
 D00A2EB8 8BA0
 800A2E88 0013
 
-[Puzzle Mode Drop Pieces On Left Side To Clear Lines]
+[Puzzle Mode\Drop Pieces On Left Side To Clear Lines]
 Type = Gameshark
 Activation = EndFrame
 D00ADA88 B6AB
 800ADA58 0013
 
-[Slow motion (Classic mode)]
+[Classic Mode\Slow motion]
 Type = Gameshark
 Activation = EndFrame
 A70A7E16 0C022400
 
-[Matrix mode "Press L3 to toggle on off" (Classic mode)]
+[Classic Mode\Matrix mode "Press L3 to toggle on off"]
 Type = Gameshark
 Activation = EndFrame
 D7010001 00000200
 F50991DA 10801000
 F50A417A 1C401000
 
-[Freeze-unfreeze timer (Classic mode)]
+[Classic Mode\Freeze-unfreeze timer]
 Type = Gameshark
 Activation = EndFrame
 A709FFE6 14401000
+
+[Classic Mode\Turn Gravity Off]
+Description = You will need to press down to bring the shape down a bit before you can rotate + move it
+Type = Gameshark
+Activation = EndFrame
+A70A35D2 10001440
+D7100000 00004000
+A70A35D2 14401000
+
+[Classic Mode\Change Current Shape (L2 or R2)]
+Type = Gameshark
+Activation = EndFrame
+D7010002 02000001
+100C4D48 00000001
+00000000 0000FFFF
+D7010002 03000002
+110C4D48 00000001
+00000000 0000FFFF
+A60C4D48 00000007
+A60C4D48 00080001
+
+[Classic Mode\Current Shape always Line]
+Type = Gameshark
+Activation = EndFrame
+800C4D48 0001
+
+[Puzzle Mode\Turn Gravity Off]
+Description = You will need to press down to bring the shape down a bit before you can rotate + move it
+Type = Gameshark
+Activation = EndFrame
+A70AE372 10001440
+D7100000 00004000
+A70AE372 14401000
+
+[Puzzle Mode\Change Current Shape (L2 or R2)]
+Type = Gameshark
+Activation = EndFrame
+D7010002 04000001
+100EE384 00000001
+00000000 0000FFFF
+D7010002 05000002
+110EE384 00000001
+00000000 0000FFFF
+A60EE384 00000007
+A60EE384 00080001
+
+[Puzzle Mode\Current Shape always Line]
+Type = Gameshark
+Activation = EndFrame
+800EE384 0001
 

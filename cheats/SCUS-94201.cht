@@ -1,0 +1,217 @@
+; CHTDB: ; [ Mortal Kombat 3 (USA) (1995) (Sony Computer Entertainment America) {SCUS-94201} <mk3> ]
+
+[? is Available]
+Type = Gameshark
+Activation = EndFrame
+800A8832 0001
+
+[Select Background]
+Type = Gameshark
+Activation = EndFrame
+801EEAE0 00??
+Option = Subway:0x00
+Option = The Street:0x01
+Option = The Bank:0x02
+Option = Rooftop:0x03
+Option = The Balcony:0x04
+Option = The Bridge:0x05
+Option = Soul Chamber:0x06
+Option = Shao Kahn&#039;s Tower:0x07
+Option = The Temple:0x08
+Option = Graveyard:0x09
+Option = The Pit3:0x0A
+Option = The Hidden Portal:0x0B
+Option = The Inside Room of the Balcony:0x12
+
+[CPU Always Does A Finishing Move If It Beats You]
+Type = Gameshark
+Activation = EndFrame
+801EEAB4 0001
+
+[Close In Kombat (Players Can Run Thru Each Other)]
+Type = Gameshark
+Activation = EndFrame
+801CBBE8 FFFF
+
+[Computer Always Does A Finishing Move If It Beats You]
+Type = Gameshark
+Activation = EndFrame
+801FB56A 0001
+801FB578 0001
+
+[Enable ?]
+Type = Gameshark
+Activation = EndFrame
+801EEB30 00??
+Option = Small Cheat Menu:0x01
+Option = large Cheat Menu:0x02
+
+[Hit Anywhere]
+Type = Gameshark
+Activation = EndFrame
+8004FD8E 2400
+8004FDBA 2400
+8004FDA2 2400
+8004FDCE 1000
+8004FDE2 2400
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+801EECEC 0009
+
+[Select Kombat Kode]
+Type = Gameshark
+Activation = EndFrame
+801EEAE4 00??
+OptionRange = 0x00:0xFF
+
+[Players Are Randomly Invisible]
+Type = Gameshark
+Activation = EndFrame
+801C5D48 0222
+
+[Select Profile]
+Type = Gameshark
+Activation = EndFrame
+301CCFD8 00??
+Option = Kano:0x00
+Option = Sonya:0x01
+Option = Jax:0x02
+Option = Nightwolf:0x03
+Option = Sub-Zero:0x04
+Option = Stryker:0x05
+Option = Sindel:0x06
+Option = Sektor:0x07
+Option = Cyrax:0x08
+Option = Kung Lao:0x09
+Option = Kabal:0x0A
+Option = Sheeva:0x0B
+Option = Shang Tsung:0x0C
+Option = Liu Kang:0x0D
+
+[Some Background Objects Move Off the Screen]
+Type = Gameshark
+Activation = EndFrame
+801EEC62 000A
+801EEC64 000A
+801EEC66 000A
+
+[Two dragon symbols]
+Type = Gameshark
+Activation = EndFrame
+801FB79C 0002
+
+[P1 Select Character]
+Type = Gameshark
+Activation = EndFrame
+801CD2C4 000?
+Option = Kano:0x00
+Option = Sonya:0x01
+Option = Jax:0x02
+Option = Nightwolf:0x03
+Option = Sub-Zero:0x04
+Option = Stryker:0x05
+Option = Sindel:0x06
+Option = Sektor:0x07
+Option = Cyrax:0x08
+Option = Kung Lao:0x09
+Option = Kabal:0x0A
+Option = Sheeva:0x0B
+Option = Shang Tsun:0x0C
+Option = Liu Kang:0x0D
+Option = Smoke:0x0E
+
+[P1 Can't Run]
+Type = Gameshark
+Activation = EndFrame
+801EEC2C 0000
+
+[P1 Does Half Damage]
+Type = Gameshark
+Activation = EndFrame
+801CBBE0 FFFF
+
+[P1 Infinite Combo energy]
+Type = Gameshark
+Activation = EndFrame
+801EEE60 0030
+
+[P1 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801CBC38 00A6
+
+[P1 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801CBE6C 00A6
+
+[P1 No Energy]
+Type = Gameshark
+Activation = EndFrame
+801CBC38 0000
+
+[P1 Only Needs to Win 1 Round]
+Type = Gameshark
+Activation = EndFrame
+D01FB568 0000
+801FB568 0001
+
+[P1 Unlimited Run]
+Type = Gameshark
+Activation = EndFrame
+801EEC2C C350
+
+[P2 Select Character]
+Type = Gameshark
+Activation = EndFrame
+801CD308 000?
+Option = Kano:0x00
+Option = Sonya:0x01
+Option = Jax:0x02
+Option = Nightwolf:0x03
+Option = Sub-Zero:0x04
+Option = Stryker:0x05
+Option = Sindel:0x06
+Option = Sektor:0x07
+Option = Cyrax:0x08
+Option = Kung Lao:0x09
+Option = Kabal:0x0A
+Option = Sheeva:0x0B
+Option = Shang Tsun:0x0C
+Option = Liu Kang:0x0D
+Option = Smoke:0x0E
+
+[P2 Does Half Damage]
+Type = Gameshark
+Activation = EndFrame
+801CBBE4 FFFF
+
+[P2 Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801CBC90 00A6
+
+[P2 Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+801CBEC4 00A6
+
+[P2 No Health]
+Type = Gameshark
+Activation = EndFrame
+801CBEC4 0000
+
+[P2 One Hit Death]
+Type = Gameshark
+Activation = EndFrame
+D01CBC90 00A6
+801CBC90 0001
+
+[P2 Only Needs to Win 1 Round]
+Type = Gameshark
+Activation = EndFrame
+D01FB574 0000
+801FB574 0001
+

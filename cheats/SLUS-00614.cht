@@ -1,41 +1,62 @@
 ; CHTDB: ; [ Azure Dreams (USA) (1998) (Konami of America) {SLUS-00614} <azuredrm> ]
 
-[Invincible (Koh)]
-Type = Gameshark
-Activation = EndFrame
-800834EA 031D
-
-[Infinite HP (Koh)]
-Type = Gameshark
-Activation = EndFrame
-300834E0 63
-
-[Max HP (Koh)]
-Type = Gameshark
-Activation = EndFrame
-300834E1 63
-
 [Infinite Money (In Town)]
 Type = Gameshark
 Activation = EndFrame
 90012D5C 3B9AC9FF
+
+[Invincibility in Battle]
+Type = Gameshark
+Activation = EndFrame
+800834EA 031D
+
+[Infinite Health in Battle]
+Type = Gameshark
+Activation = EndFrame
+800834E0 03E7
+
+[No Health (Undead Mode)]
+Description = Enemies can't attack, No Exp Gain. Sets your HP to 0. Enemies will skip their attack turns but still follow you. You don't get experience while this is enabled. Can still die to traps.
+Type = Gameshark
+Activation = EndFrame
+Author = JukePlz
+800834E0 00
 
 [Quick Level-Up]
 Type = Gameshark
 Activation = EndFrame
 800834D0 FFFF
 
-[Undead Mode (Enemies Can't Attack Koh. No Exp Gain)]
-Author = JukePlz
-Description = Sets your HP to 0. Enemies will skip their attack turns but still follow you. You don't get experience while this is enabled. Can still die to traps.
+[In Battle\Max Attack Power]
 Type = Gameshark
 Activation = EndFrame
-300834E0 00
+8008353C 647C
 
-[Disable Koh Stat Reset On Tower Re-entry]
-Author = czaj
+[In Battle\Max Defense Power]
 Type = Gameshark
 Activation = EndFrame
+8008353E 1064
+
+[Miscellaneous\Time Always 0.00.00]
+Type = Gameshark
+Activation = EndFrame
+9001021C 00000000
+
+[Walk through Walls Etc (Press R3 to toggle ON/OFF)]
+Description = And Jump over certain obstacles, cheat wont let you go past certain defined game points and best to keep it OFF when indoors
+Type = Gameshark
+Activation = EndFrame
+D7010001 01000400
+F508CA76 10401000
+F5096E1E 10401000
+F508CB12 10401000
+F5096346 14601000
+F50962EA 14601000
+
+[Disable Stat Reset On Tower Re-entry]
+Type = Gameshark
+Activation = EndFrame
+Author = czaj
 F6000000 1F000002
 A0016000 8001D4FC
 A301022C 00000000
@@ -52,36 +73,26 @@ A301022C 00000000
 900170F0 00000000
 00000000 0000FFFF
 
-[Noclip (Press R3 to Toggle ON/OFF)]
-Description = And Jump over certain obstacles, cheat won't let you go past certain defined game points and best to keep it OFF when indoors
+[Disable Item Obfuscation In 2nd Tower (Experimental)]
+Description = Only enable this inside the tower. May crash elsewhere.
 Type = Gameshark
 Activation = EndFrame
-D7010001 01000400
-F508CA76 10401000
-F5096E1E 10401000
-F508CB12 10401000
-F5096346 14601000
-F50962EA 14601000
-
-[Disable Item Obfuscation In 2nd Tower]
 Author = czaj
-Description = Prevents new items from becoming obfuscated in second tower. Enable right before entry.
-Type = Gameshark
-Activation = EndFrame
 A708DAE8 A4090000
 A708DAEA 0C020000
 
 [Floor Select]
-Author = JukePlz
 Type = Gameshark
 Activation = EndFrame
+Author = JukePlz
+8008146C 00??
 OptionRange = 1:40
-8008146C ??
 
 [Item Codes\Item at Feet\Monster Eggs]
-Author = JukePlz
 Type = Gameshark
 Activation = EndFrame
+Author = JukePlz
+A7081484 0000????
 Option = Ultimate:4609
 Option = Kewne:4610
 Option = Dragon:4611
@@ -127,12 +138,12 @@ Option = Glacier:4650
 Option = Tyrant:4651
 Option = Golem:4652
 Option = Maximum:4653
-A7081484 0000????
 
 [Item Codes\Item at Feet\Weapons]
-Author = JukePlz
 Type = Gameshark
 Activation = EndFrame
+Author = JukePlz
+A7081484 0000????
 Option = Trained Wand:4098
 Option = Gold Sword:3841
 Option = Seraphim Sword:3852
@@ -149,12 +160,12 @@ Option = Money Wand:4101
 Option = Scarlet Wand:4102
 Option = Stream Wand:4103
 Option = Gulf Wand:4104
-A7081484 0000????
 
 [Item Codes\Item at Feet\Shields]
-Author = JukePlz
 Type = Gameshark
 Activation = EndFrame
+Author = JukePlz
+A7081484 0000????
 Option = Mirror:4355
 Option = Leather:4354
 Option = Diamond:4359
@@ -166,12 +177,12 @@ Option = Scorch:4360
 Option = Ice:4361
 Option = Earth:4362
 Option = Live:4363
-A7081484 0000????
 
 [Item Codes\Item at Feet\Spell Balls]
-Author = JukePlz
 Type = Gameshark
 Activation = EndFrame
+Author = JukePlz
+A7081484 0000????
 Option = Acid Rain:1041
 Option = Fire:1025
 Option = Blaze:1026
@@ -186,21 +197,20 @@ Option = Blinder:1035
 Option = Binding:1036
 Option = Sleep:1037
 Option = Weak:1038
-A7081484 0000????
 
 [Item Codes\Item at Feet\Sands]
-Author = JukePlz
 Type = Gameshark
 Activation = EndFrame
+Author = JukePlz
 Option = Red:2561
 Option = Blue:2562
 Option = White:2563
 A7081484 0000????
 
 [Item Codes\Item at Feet\Seeds]
-Author = JukePlz
 Type = Gameshark
 Activation = EndFrame
+Author = JukePlz
 Option = Hazak:769
 Option = Shomuro:770
 Option = Mahell:772
@@ -214,9 +224,9 @@ Option = Tovar:778
 A7081484 0000????
 
 [Item Codes\Item at Feet\Herbs]
-Author = JukePlz
 Type = Gameshark
 Activation = EndFrame
+Author = JukePlz
 Option = Medicinal:257
 Option = Antidote:258
 Option = Antichaos:259
@@ -234,9 +244,9 @@ Option = Reoam:270
 A7081484 0000????
 
 [Item Codes\Item at Feet\Fruits]
-Author = JukePlz
 Type = Gameshark
 Activation = EndFrame
+Author = JukePlz
 Option = Pita:513
 Option = Big Pita:514
 Option = Tumna:515
@@ -250,9 +260,9 @@ Option = Geropita:522
 A7081484 0000????
 
 [Item Codes\Item at Feet\Scrolls]
-Author = JukePlz
 Type = Gameshark
 Activation = EndFrame
+Author = JukePlz
 Option = Holy:1281
 Option = Malicious:1282
 Option = Trap:1283
@@ -263,35 +273,35 @@ Option = Alchemic:1287
 A7081484 0000????
 
 [Item Codes\Item at Feet\Crystals]
-Author = JukePlz
 Type = Gameshark
 Activation = EndFrame
+Author = JukePlz
 Option = Fire:1537
 Option = Water:1538
 Option = Wind:1539
 A7081484 0000????
 
 [Item Codes\Item at Feet\Bells]
-Author = JukePlz
 Type = Gameshark
 Activation = EndFrame
+Author = JukePlz
 Option = Holy:1793
 Option = Malicious:1794
 Option = Familiar:1795
 A7081484 0000????
 
 [Item Codes\Item at Feet\Glasses]
-Author = JukePlz
 Type = Gameshark
 Activation = EndFrame
+Author = JukePlz
 Option = Truth:2049
 Option = Star:2050
 A7081484 0000????
 
 [Item Codes\Item at Feet\Loupes]
-Author = JukePlz
 Type = Gameshark
 Activation = EndFrame
+Author = JukePlz
 Option = Exit:2305
 Option = Trap:2306
 Option = Focus:2307
@@ -300,9 +310,9 @@ Option = Treasure:2309
 A7081484 0000????
 
 [Item Codes\Item at Feet\Quest]
-Author = JukePlz
 Type = Gameshark
 Activation = EndFrame
+Author = JukePlz
 Option = Guru's Pot:3329
 Option = W. Medal:3330
 Option = Dumplings:3331
@@ -314,1213 +324,322 @@ Option = Koh's Head:3080
 A7081484 0000????
 
 [Item Codes\Attribute]
-Author = JukePlz
 Type = Gameshark
 Activation = EndFrame
-OptionRange = 0:99
+Author = JukePlz
 80081486 ??
-
-[Item Codes\Safe: Slot 1\Monster Eggs]
-Type = Gameshark
-Activation = EndFrame
-Option = Ultimate:4609
-Option = Kewne:4610
-Option = Dragon:4611
-Option = Kid:4612
-Option = Ifrit:4613
-Option = Flame:4614
-Option = Grineut:4615
-Option = Griffon:4616
-Option = Saber:4617
-Option = Snowman:4618
-Option = Ashra:4619
-Option = Arachne:4620
-Option = Battnel:4621
-Option = Nyuel:4622
-Option = Death:4623
-Option = Clown:4624
-Option = Univern:4625
-Option = Unicorn:4626
-Option = Metal:4627
-Option = Block:4628
-Option = Pulunpa:4629
-Option = Troll:4630
-Option = Noise:4631
-Option = U-Boat:4632
-Option = Baloon:4633
-Option = Dreamin:4634
-Option = Blume:4635
-Option = Volcano:4636
-Option = Cyclone:4637
-Option = Manoeva:4638
-Option = Barong:4639
-Option = Picket:4640
-Option = Kraken:4641
-Option = Weadog:4642
-Option = Stealth:4643
-Option = Viper:4644
-Option = Naplass:4645
-Option = Zu:4646
-Option = Mandara:4647
-Option = Killer:4648
-Option = Garuda:4649
-Option = Glacier:4650
-Option = Tyrant:4651
-Option = Golem:4652
-Option = Maximum:4653
-80011F80 ????
-
-[Item Codes\Safe: Slot 1\Weapons]
-Type = Gameshark
-Activation = EndFrame
-Option = Trained Wand:4098
-Option = Gold Sword:3841
-Option = Seraphim Sword:3852
-Option = Dark Sword:3849
-Option = Holy Sword:3850
-Option = Fire Sword:3845
-Option = Blizzard Sword:3846
-Option = Gulfwind Sword:3847
-Option = Vital Sword:3848
-Option = Wooden Wand:4097
-Option = Life Wand:4099
-Option = Paralyze Wand:4100
-Option = Money Wand:4101
-Option = Scarlet Wand:4102
-Option = Stream Wand:4103
-Option = Gulf Wand:4104
-80011F80 ????
-
-[Item Codes\Safe: Slot 1\Shields]
-Type = Gameshark
-Activation = EndFrame
-Option = Mirror:4355
-Option = Leather:4354
-Option = Diamond:4359
-Option = Wooden:4353
-Option = Copper:4356
-Option = Iron:4357
-Option = Steel:4358
-Option = Scorch:4360
-Option = Ice:4361
-Option = Earth:4362
-Option = Live:4363
-80011F80 ????
-
-[Item Codes\Safe: Slot 1\Spell Balls]
-Author = JukePlz
-Type = Gameshark
-Activation = EndFrame
-Option = Acid Rain:1041
-Option = Fire:1025
-Option = Blaze:1026
-Option = Flame:1027
-Option = Pillar:1028
-Option = Poison:1029
-Option = Water:1030
-Option = Repel:1031
-Option = Ice Rock:1032
-Option = Recovery:1033
-Option = Blinder:1035
-Option = Binding:1036
-Option = Sleep:1037
-Option = Weak:1038
-80011F80 ????
-
-[Item Codes\Safe: Slot 1\Sands]
-Type = Gameshark
-Activation = EndFrame
-Option = Red:2561
-Option = Blue:2562
-Option = White:2563
-80011F80 ????
-
-[Item Codes\Safe: Slot 1\Seeds]
-Type = Gameshark
-Activation = EndFrame
-Option = Hazak:769
-Option = Shomuro:770
-Option = Mahell:772
-Option = Mazarr:771
-Option = Light:773
-Option = Sea:774
-Option = Wind:775
-Option = Lar:776
-Option = Slow:777
-Option = Tovar:778
-80011F80 ????
-
-[Item Codes\Safe: Slot 1\Herbs]
-Type = Gameshark
-Activation = EndFrame
-Option = Medicinal:257
-Option = Antidote:258
-Option = Antichaos:259
-Option = Wake-Up:260
-Option = Cure-All:261
-Option = Hazak:262
-Option = Shormoro:263
-Option = Healing:264
-Option = Poison:265
-Option = Paralyze:266
-Option = Harash:267
-Option = Horrey:268
-Option = Sleep:269
-Option = Reoam:270
-80011F80 ????
-
-[Item Codes\Safe: Slot 1\Fruits]
-Type = Gameshark
-Activation = EndFrame
-Option = Pita:513
-Option = Big Pita:514
-Option = Tumna:515
-Option = Leva:516
-Option = Leolam:517
-Option = Laev:518
-Option = Roche:519
-Option = Limit:520
-Option = Oleem:521
-Option = Geropita:522
-80011F80 ????
-
-[Item Codes\Safe: Slot 1\Scrolls]
-Type = Gameshark
-Activation = EndFrame
-Option = Holy:1281
-Option = Malicious:1282
-Option = Trap:1283
-Option = Restore:1284
-Option = De-curse:1285
-Option = Flat:1286
-Option = Alchemic:1287
-80011F80 ????
-
-[Item Codes\Safe: Slot 1\Crystals]
-Type = Gameshark
-Activation = EndFrame
-Option = Fire:1537
-Option = Water:1538
-Option = Wind:1539
-80011F80 ????
-
-[Item Codes\Safe: Slot 1\Bells]
-Type = Gameshark
-Activation = EndFrame
-Option = Holy:1793
-Option = Malicious:1794
-Option = Familiar:1795
-80011F80 ????
-
-[Item Codes\Safe: Slot 1\Glasses]
-Type = Gameshark
-Activation = EndFrame
-Option = Truth:2049
-Option = Star:2050
-80011F80 ????
-
-[Item Codes\Safe: Slot 1\Loupes]
-Author = JukePlz
-Type = Gameshark
-Activation = EndFrame
-Option = Exit:2305
-Option = Trap:2306
-Option = Focus:2307
-Option = Monster:2308
-Option = Treasure:2309
-80011F80 ????
-
-[Item Codes\Safe: Slot 1\Quest]
-Type = Gameshark
-Activation = EndFrame
-Option = Guru's Pot:3329
-Option = W. Medal:3330
-Option = Dumplings:3331
-Option = Music Box:3332
-Option = Eye Glasses:3333
-Option = B. Cape:3334
-Option = Chappie:3335
-Option = Koh's Head:3080
-80011F80 ????
-
-[Item Codes\Safe: Slot 2\Monster Eggs]
-Type = Gameshark
-Activation = EndFrame
-Option = Ultimate:4609
-Option = Kewne:4610
-Option = Dragon:4611
-Option = Kid:4612
-Option = Ifrit:4613
-Option = Flame:4614
-Option = Grineut:4615
-Option = Griffon:4616
-Option = Saber:4617
-Option = Snowman:4618
-Option = Ashra:4619
-Option = Arachne:4620
-Option = Battnel:4621
-Option = Nyuel:4622
-Option = Death:4623
-Option = Clown:4624
-Option = Univern:4625
-Option = Unicorn:4626
-Option = Metal:4627
-Option = Block:4628
-Option = Pulunpa:4629
-Option = Troll:4630
-Option = Noise:4631
-Option = U-Boat:4632
-Option = Baloon:4633
-Option = Dreamin:4634
-Option = Blume:4635
-Option = Volcano:4636
-Option = Cyclone:4637
-Option = Manoeva:4638
-Option = Barong:4639
-Option = Picket:4640
-Option = Kraken:4641
-Option = Weadog:4642
-Option = Stealth:4643
-Option = Viper:4644
-Option = Naplass:4645
-Option = Zu:4646
-Option = Mandara:4647
-Option = Killer:4648
-Option = Garuda:4649
-Option = Glacier:4650
-Option = Tyrant:4651
-Option = Golem:4652
-Option = Maximum:4653
-80011F84 ????
-
-[Item Codes\Safe: Slot 2\Weapons]
-Type = Gameshark
-Activation = EndFrame
-Option = Trained Wand:4098
-Option = Gold Sword:3841
-Option = Seraphim Sword:3852
-Option = Dark Sword:3849
-Option = Holy Sword:3850
-Option = Fire Sword:3845
-Option = Blizzard Sword:3846
-Option = Gulfwind Sword:3847
-Option = Vital Sword:3848
-Option = Wooden Wand:4097
-Option = Life Wand:4099
-Option = Paralyze Wand:4100
-Option = Money Wand:4101
-Option = Scarlet Wand:4102
-Option = Stream Wand:4103
-Option = Gulf Wand:4104
-80011F84 ????
-
-[Item Codes\Safe: Slot 2\Shields]
-Type = Gameshark
-Activation = EndFrame
-Option = Mirror:4355
-Option = Leather:4354
-Option = Diamond:4359
-Option = Wooden:4353
-Option = Copper:4356
-Option = Iron:4357
-Option = Steel:4358
-Option = Scorch:4360
-Option = Ice:4361
-Option = Earth:4362
-Option = Live:4363
-80011F84 ????
-
-[Item Codes\Safe: Slot 2\Spell Balls]
-Author = JukePlz
-Type = Gameshark
-Activation = EndFrame
-Option = Acid Rain:1041
-Option = Fire:1025
-Option = Blaze:1026
-Option = Flame:1027
-Option = Pillar:1028
-Option = Poison:1029
-Option = Water:1030
-Option = Repel:1031
-Option = Ice Rock:1032
-Option = Recovery:1033
-Option = Blinder:1035
-Option = Binding:1036
-Option = Sleep:1037
-Option = Weak:1038
-80011F84 ????
-
-[Item Codes\Safe: Slot 2\Sands]
-Type = Gameshark
-Activation = EndFrame
-Option = Red:2561
-Option = Blue:2562
-Option = White:2563
-80011F84 ????
-
-[Item Codes\Safe: Slot 2\Seeds]
-Type = Gameshark
-Activation = EndFrame
-Option = Hazak:769
-Option = Shomuro:770
-Option = Mahell:772
-Option = Mazarr:771
-Option = Light:773
-Option = Sea:774
-Option = Wind:775
-Option = Lar:776
-Option = Slow:777
-Option = Tovar:778
-80011F84 ????
-
-[Item Codes\Safe: Slot 2\Herbs]
-Type = Gameshark
-Activation = EndFrame
-Option = Medicinal:257
-Option = Antidote:258
-Option = Antichaos:259
-Option = Wake-Up:260
-Option = Cure-All:261
-Option = Hazak:262
-Option = Shormoro:263
-Option = Healing:264
-Option = Poison:265
-Option = Paralyze:266
-Option = Harash:267
-Option = Horrey:268
-Option = Sleep:269
-Option = Reoam:270
-80011F84 ????
-
-[Item Codes\Safe: Slot 2\Fruits]
-Type = Gameshark
-Activation = EndFrame
-Option = Pita:513
-Option = Big Pita:514
-Option = Tumna:515
-Option = Leva:516
-Option = Leolam:517
-Option = Laev:518
-Option = Roche:519
-Option = Limit:520
-Option = Oleem:521
-Option = Geropita:522
-80011F84 ????
-
-[Item Codes\Safe: Slot 2\Scrolls]
-Type = Gameshark
-Activation = EndFrame
-Option = Holy:1281
-Option = Malicious:1282
-Option = Trap:1283
-Option = Restore:1284
-Option = De-curse:1285
-Option = Flat:1286
-Option = Alchemic:1287
-80011F84 ????
-
-[Item Codes\Safe: Slot 2\Crystals]
-Type = Gameshark
-Activation = EndFrame
-Option = Fire:1537
-Option = Water:1538
-Option = Wind:1539
-80011F84 ????
-
-[Item Codes\Safe: Slot 2\Bells]
-Type = Gameshark
-Activation = EndFrame
-Option = Holy:1793
-Option = Malicious:1794
-Option = Familiar:1795
-80011F84 ????
-
-[Item Codes\Safe: Slot 2\Glasses]
-Type = Gameshark
-Activation = EndFrame
-Option = Truth:2049
-Option = Star:2050
-80011F84 ????
-
-[Item Codes\Safe: Slot 2\Loupes]
-Author = JukePlz
-Type = Gameshark
-Activation = EndFrame
-Option = Exit:2305
-Option = Trap:2306
-Option = Focus:2307
-Option = Monster:2308
-Option = Treasure:2309
-80011F84 ????
-
-[Item Codes\Safe: Slot 2\Quest]
-Type = Gameshark
-Activation = EndFrame
-Option = Guru's Pot:3329
-Option = W. Medal:3330
-Option = Dumplings:3331
-Option = Music Box:3332
-Option = Eye Glasses:3333
-Option = B. Cape:3334
-Option = Chappie:3335
-Option = Koh's Head:3080
-80011F84 ????
-
-[Item Codes\Safe: Slot 3\Monster Eggs]
-Type = Gameshark
-Activation = EndFrame
-Option = Ultimate:4609
-Option = Kewne:4610
-Option = Dragon:4611
-Option = Kid:4612
-Option = Ifrit:4613
-Option = Flame:4614
-Option = Grineut:4615
-Option = Griffon:4616
-Option = Saber:4617
-Option = Snowman:4618
-Option = Ashra:4619
-Option = Arachne:4620
-Option = Battnel:4621
-Option = Nyuel:4622
-Option = Death:4623
-Option = Clown:4624
-Option = Univern:4625
-Option = Unicorn:4626
-Option = Metal:4627
-Option = Block:4628
-Option = Pulunpa:4629
-Option = Troll:4630
-Option = Noise:4631
-Option = U-Boat:4632
-Option = Baloon:4633
-Option = Dreamin:4634
-Option = Blume:4635
-Option = Volcano:4636
-Option = Cyclone:4637
-Option = Manoeva:4638
-Option = Barong:4639
-Option = Picket:4640
-Option = Kraken:4641
-Option = Weadog:4642
-Option = Stealth:4643
-Option = Viper:4644
-Option = Naplass:4645
-Option = Zu:4646
-Option = Mandara:4647
-Option = Killer:4648
-Option = Garuda:4649
-Option = Glacier:4650
-Option = Tyrant:4651
-Option = Golem:4652
-Option = Maximum:4653
-80011F88 ????
-
-[Item Codes\Safe: Slot 3\Weapons]
-Type = Gameshark
-Activation = EndFrame
-Option = Trained Wand:4098
-Option = Gold Sword:3841
-Option = Seraphim Sword:3852
-Option = Dark Sword:3849
-Option = Holy Sword:3850
-Option = Fire Sword:3845
-Option = Blizzard Sword:3846
-Option = Gulfwind Sword:3847
-Option = Vital Sword:3848
-Option = Wooden Wand:4097
-Option = Life Wand:4099
-Option = Paralyze Wand:4100
-Option = Money Wand:4101
-Option = Scarlet Wand:4102
-Option = Stream Wand:4103
-Option = Gulf Wand:4104
-80011F88 ????
-
-[Item Codes\Safe: Slot 3\Shields]
-Type = Gameshark
-Activation = EndFrame
-Option = Mirror:4355
-Option = Leather:4354
-Option = Diamond:4359
-Option = Wooden:4353
-Option = Copper:4356
-Option = Iron:4357
-Option = Steel:4358
-Option = Scorch:4360
-Option = Ice:4361
-Option = Earth:4362
-Option = Live:4363
-80011F88 ????
-
-[Item Codes\Safe: Slot 3\Spell Balls]
-Author = JukePlz
-Type = Gameshark
-Activation = EndFrame
-Option = Acid Rain:1041
-Option = Fire:1025
-Option = Blaze:1026
-Option = Flame:1027
-Option = Pillar:1028
-Option = Poison:1029
-Option = Water:1030
-Option = Repel:1031
-Option = Ice Rock:1032
-Option = Recovery:1033
-Option = Blinder:1035
-Option = Binding:1036
-Option = Sleep:1037
-Option = Weak:1038
-80011F88 ????
-
-[Item Codes\Safe: Slot 3\Sands]
-Type = Gameshark
-Activation = EndFrame
-Option = Red:2561
-Option = Blue:2562
-Option = White:2563
-80011F88 ????
-
-[Item Codes\Safe: Slot 3\Seeds]
-Type = Gameshark
-Activation = EndFrame
-Option = Hazak:769
-Option = Shomuro:770
-Option = Mahell:772
-Option = Mazarr:771
-Option = Light:773
-Option = Sea:774
-Option = Wind:775
-Option = Lar:776
-Option = Slow:777
-Option = Tovar:778
-80011F88 ????
-
-[Item Codes\Safe: Slot 3\Herbs]
-Type = Gameshark
-Activation = EndFrame
-Option = Medicinal:257
-Option = Antidote:258
-Option = Antichaos:259
-Option = Wake-Up:260
-Option = Cure-All:261
-Option = Hazak:262
-Option = Shormoro:263
-Option = Healing:264
-Option = Poison:265
-Option = Paralyze:266
-Option = Harash:267
-Option = Horrey:268
-Option = Sleep:269
-Option = Reoam:270
-80011F88 ????
-
-[Item Codes\Safe: Slot 3\Fruits]
-Type = Gameshark
-Activation = EndFrame
-Option = Pita:513
-Option = Big Pita:514
-Option = Tumna:515
-Option = Leva:516
-Option = Leolam:517
-Option = Laev:518
-Option = Roche:519
-Option = Limit:520
-Option = Oleem:521
-Option = Geropita:522
-80011F88 ????
-
-[Item Codes\Safe: Slot 3\Scrolls]
-Type = Gameshark
-Activation = EndFrame
-Option = Holy:1281
-Option = Malicious:1282
-Option = Trap:1283
-Option = Restore:1284
-Option = De-curse:1285
-Option = Flat:1286
-Option = Alchemic:1287
-80011F88 ????
-
-[Item Codes\Safe: Slot 3\Crystals]
-Type = Gameshark
-Activation = EndFrame
-Option = Fire:1537
-Option = Water:1538
-Option = Wind:1539
-80011F88 ????
-
-[Item Codes\Safe: Slot 3\Bells]
-Type = Gameshark
-Activation = EndFrame
-Option = Holy:1793
-Option = Malicious:1794
-Option = Familiar:1795
-80011F88 ????
-
-[Item Codes\Safe: Slot 3\Glasses]
-Type = Gameshark
-Activation = EndFrame
-Option = Truth:2049
-Option = Star:2050
-80011F88 ????
-
-[Item Codes\Safe: Slot 3\Loupes]
-Author = JukePlz
-Type = Gameshark
-Activation = EndFrame
-Option = Exit:2305
-Option = Trap:2306
-Option = Focus:2307
-Option = Monster:2308
-Option = Treasure:2309
-80011F88 ????
-
-[Item Codes\Safe: Slot 3\Quest]
-Type = Gameshark
-Activation = EndFrame
-Option = Guru's Pot:3329
-Option = W. Medal:3330
-Option = Dumplings:3331
-Option = Music Box:3332
-Option = Eye Glasses:3333
-Option = B. Cape:3334
-Option = Chappie:3335
-Option = Koh's Head:3080
-80011F88 ????
-
-[Item Codes\Safe: Slot 4\Monster Eggs]
-Type = Gameshark
-Activation = EndFrame
-Option = Ultimate:4609
-Option = Kewne:4610
-Option = Dragon:4611
-Option = Kid:4612
-Option = Ifrit:4613
-Option = Flame:4614
-Option = Grineut:4615
-Option = Griffon:4616
-Option = Saber:4617
-Option = Snowman:4618
-Option = Ashra:4619
-Option = Arachne:4620
-Option = Battnel:4621
-Option = Nyuel:4622
-Option = Death:4623
-Option = Clown:4624
-Option = Univern:4625
-Option = Unicorn:4626
-Option = Metal:4627
-Option = Block:4628
-Option = Pulunpa:4629
-Option = Troll:4630
-Option = Noise:4631
-Option = U-Boat:4632
-Option = Baloon:4633
-Option = Dreamin:4634
-Option = Blume:4635
-Option = Volcano:4636
-Option = Cyclone:4637
-Option = Manoeva:4638
-Option = Barong:4639
-Option = Picket:4640
-Option = Kraken:4641
-Option = Weadog:4642
-Option = Stealth:4643
-Option = Viper:4644
-Option = Naplass:4645
-Option = Zu:4646
-Option = Mandara:4647
-Option = Killer:4648
-Option = Garuda:4649
-Option = Glacier:4650
-Option = Tyrant:4651
-Option = Golem:4652
-Option = Maximum:4653
-80011F8C ????
-
-[Item Codes\Safe: Slot 4\Weapons]
-Type = Gameshark
-Activation = EndFrame
-Option = Trained Wand:4098
-Option = Gold Sword:3841
-Option = Seraphim Sword:3852
-Option = Dark Sword:3849
-Option = Holy Sword:3850
-Option = Fire Sword:3845
-Option = Blizzard Sword:3846
-Option = Gulfwind Sword:3847
-Option = Vital Sword:3848
-Option = Wooden Wand:4097
-Option = Life Wand:4099
-Option = Paralyze Wand:4100
-Option = Money Wand:4101
-Option = Scarlet Wand:4102
-Option = Stream Wand:4103
-Option = Gulf Wand:4104
-80011F8C ????
-
-[Item Codes\Safe: Slot 4\Shields]
-Type = Gameshark
-Activation = EndFrame
-Option = Mirror:4355
-Option = Leather:4354
-Option = Diamond:4359
-Option = Wooden:4353
-Option = Copper:4356
-Option = Iron:4357
-Option = Steel:4358
-Option = Scorch:4360
-Option = Ice:4361
-Option = Earth:4362
-Option = Live:4363
-80011F8C ????
-
-[Item Codes\Safe: Slot 4\Spell Balls]
-Author = JukePlz
-Type = Gameshark
-Activation = EndFrame
-Option = Acid Rain:1041
-Option = Fire:1025
-Option = Blaze:1026
-Option = Flame:1027
-Option = Pillar:1028
-Option = Poison:1029
-Option = Water:1030
-Option = Repel:1031
-Option = Ice Rock:1032
-Option = Recovery:1033
-Option = Blinder:1035
-Option = Binding:1036
-Option = Sleep:1037
-Option = Weak:1038
-80011F8C ????
-
-[Item Codes\Safe: Slot 4\Sands]
-Type = Gameshark
-Activation = EndFrame
-Option = Red:2561
-Option = Blue:2562
-Option = White:2563
-80011F8C ????
-
-[Item Codes\Safe: Slot 4\Seeds]
-Type = Gameshark
-Activation = EndFrame
-Option = Hazak:769
-Option = Shomuro:770
-Option = Mahell:772
-Option = Mazarr:771
-Option = Light:773
-Option = Sea:774
-Option = Wind:775
-Option = Lar:776
-Option = Slow:777
-Option = Tovar:778
-80011F8C ????
-
-[Item Codes\Safe: Slot 4\Herbs]
-Type = Gameshark
-Activation = EndFrame
-Option = Medicinal:257
-Option = Antidote:258
-Option = Antichaos:259
-Option = Wake-Up:260
-Option = Cure-All:261
-Option = Hazak:262
-Option = Shormoro:263
-Option = Healing:264
-Option = Poison:265
-Option = Paralyze:266
-Option = Harash:267
-Option = Horrey:268
-Option = Sleep:269
-Option = Reoam:270
-80011F8C ????
-
-[Item Codes\Safe: Slot 4\Fruits]
-Type = Gameshark
-Activation = EndFrame
-Option = Pita:513
-Option = Big Pita:514
-Option = Tumna:515
-Option = Leva:516
-Option = Leolam:517
-Option = Laev:518
-Option = Roche:519
-Option = Limit:520
-Option = Oleem:521
-Option = Geropita:522
-80011F8C ????
-
-[Item Codes\Safe: Slot 4\Scrolls]
-Type = Gameshark
-Activation = EndFrame
-Option = Holy:1281
-Option = Malicious:1282
-Option = Trap:1283
-Option = Restore:1284
-Option = De-curse:1285
-Option = Flat:1286
-Option = Alchemic:1287
-80011F8C ????
-
-[Item Codes\Safe: Slot 4\Crystals]
-Type = Gameshark
-Activation = EndFrame
-Option = Fire:1537
-Option = Water:1538
-Option = Wind:1539
-80011F8C ????
-
-[Item Codes\Safe: Slot 4\Bells]
-Type = Gameshark
-Activation = EndFrame
-Option = Holy:1793
-Option = Malicious:1794
-Option = Familiar:1795
-80011F8C ????
-
-[Item Codes\Safe: Slot 4\Glasses]
-Type = Gameshark
-Activation = EndFrame
-Option = Truth:2049
-Option = Star:2050
-80011F8C ????
-
-[Item Codes\Safe: Slot 4\Loupes]
-Author = JukePlz
-Type = Gameshark
-Activation = EndFrame
-Option = Exit:2305
-Option = Trap:2306
-Option = Focus:2307
-Option = Monster:2308
-Option = Treasure:2309
-80011F8C ????
-
-[Item Codes\Safe: Slot 4\Quest]
-Type = Gameshark
-Activation = EndFrame
-Option = Guru's Pot:3329
-Option = W. Medal:3330
-Option = Dumplings:3331
-Option = Music Box:3332
-Option = Eye Glasses:3333
-Option = B. Cape:3334
-Option = Chappie:3335
-Option = Koh's Head:3080
-80011F8C ????
-
-[Item Codes\Safe: Slot 5\Monster Eggs]
-Type = Gameshark
-Activation = EndFrame
-Option = Ultimate:4609
-Option = Kewne:4610
-Option = Dragon:4611
-Option = Kid:4612
-Option = Ifrit:4613
-Option = Flame:4614
-Option = Grineut:4615
-Option = Griffon:4616
-Option = Saber:4617
-Option = Snowman:4618
-Option = Ashra:4619
-Option = Arachne:4620
-Option = Battnel:4621
-Option = Nyuel:4622
-Option = Death:4623
-Option = Clown:4624
-Option = Univern:4625
-Option = Unicorn:4626
-Option = Metal:4627
-Option = Block:4628
-Option = Pulunpa:4629
-Option = Troll:4630
-Option = Noise:4631
-Option = U-Boat:4632
-Option = Baloon:4633
-Option = Dreamin:4634
-Option = Blume:4635
-Option = Volcano:4636
-Option = Cyclone:4637
-Option = Manoeva:4638
-Option = Barong:4639
-Option = Picket:4640
-Option = Kraken:4641
-Option = Weadog:4642
-Option = Stealth:4643
-Option = Viper:4644
-Option = Naplass:4645
-Option = Zu:4646
-Option = Mandara:4647
-Option = Killer:4648
-Option = Garuda:4649
-Option = Glacier:4650
-Option = Tyrant:4651
-Option = Golem:4652
-Option = Maximum:4653
-80011F90 ????
-
-[Item Codes\Safe: Slot 5\Weapons]
-Type = Gameshark
-Activation = EndFrame
-Option = Trained Wand:4098
-Option = Gold Sword:3841
-Option = Seraphim Sword:3852
-Option = Dark Sword:3849
-Option = Holy Sword:3850
-Option = Fire Sword:3845
-Option = Blizzard Sword:3846
-Option = Gulfwind Sword:3847
-Option = Vital Sword:3848
-Option = Wooden Wand:4097
-Option = Life Wand:4099
-Option = Paralyze Wand:4100
-Option = Money Wand:4101
-Option = Scarlet Wand:4102
-Option = Stream Wand:4103
-Option = Gulf Wand:4104
-80011F90 ????
-
-[Item Codes\Safe: Slot 5\Shields]
-Type = Gameshark
-Activation = EndFrame
-Option = Mirror:4355
-Option = Leather:4354
-Option = Diamond:4359
-Option = Wooden:4353
-Option = Copper:4356
-Option = Iron:4357
-Option = Steel:4358
-Option = Scorch:4360
-Option = Ice:4361
-Option = Earth:4362
-Option = Live:4363
-80011F90 ????
-
-[Item Codes\Safe: Slot 5\Spell Balls]
-Author = JukePlz
-Type = Gameshark
-Activation = EndFrame
-Option = Acid Rain:1041
-Option = Fire:1025
-Option = Blaze:1026
-Option = Flame:1027
-Option = Pillar:1028
-Option = Poison:1029
-Option = Water:1030
-Option = Repel:1031
-Option = Ice Rock:1032
-Option = Recovery:1033
-Option = Blinder:1035
-Option = Binding:1036
-Option = Sleep:1037
-Option = Weak:1038
-80011F90 ????
-
-[Item Codes\Safe: Slot 5\Sands]
-Type = Gameshark
-Activation = EndFrame
-Option = Red:2561
-Option = Blue:2562
-Option = White:2563
-80011F90 ????
-
-[Item Codes\Safe: Slot 5\Seeds]
-Type = Gameshark
-Activation = EndFrame
-Option = Hazak:769
-Option = Shomuro:770
-Option = Mahell:772
-Option = Mazarr:771
-Option = Light:773
-Option = Sea:774
-Option = Wind:775
-Option = Lar:776
-Option = Slow:777
-Option = Tovar:778
-80011F90 ????
-
-[Item Codes\Safe: Slot 5\Herbs]
-Type = Gameshark
-Activation = EndFrame
-Option = Medicinal:257
-Option = Antidote:258
-Option = Antichaos:259
-Option = Wake-Up:260
-Option = Cure-All:261
-Option = Hazak:262
-Option = Shormoro:263
-Option = Healing:264
-Option = Poison:265
-Option = Paralyze:266
-Option = Harash:267
-Option = Horrey:268
-Option = Sleep:269
-Option = Reoam:270
-80011F90 ????
-
-[Item Codes\Safe: Slot 5\Fruits]
-Type = Gameshark
-Activation = EndFrame
-Option = Pita:513
-Option = Big Pita:514
-Option = Tumna:515
-Option = Leva:516
-Option = Leolam:517
-Option = Laev:518
-Option = Roche:519
-Option = Limit:520
-Option = Oleem:521
-Option = Geropita:522
-80011F90 ????
-
-[Item Codes\Safe: Slot 5\Scrolls]
-Type = Gameshark
-Activation = EndFrame
-Option = Holy:1281
-Option = Malicious:1282
-Option = Trap:1283
-Option = Restore:1284
-Option = De-curse:1285
-Option = Flat:1286
-Option = Alchemic:1287
-80011F90 ????
-
-[Item Codes\Safe: Slot 5\Crystals]
-Type = Gameshark
-Activation = EndFrame
-Option = Fire:1537
-Option = Water:1538
-Option = Wind:1539
-80011F90 ????
-
-[Item Codes\Safe: Slot 5\Bells]
-Type = Gameshark
-Activation = EndFrame
-Option = Holy:1793
-Option = Malicious:1794
-Option = Familiar:1795
-80011F90 ????
-
-[Item Codes\Safe: Slot 5\Glasses]
-Type = Gameshark
-Activation = EndFrame
-Option = Truth:2049
-Option = Star:2050
-80011F90 ????
-
-[Item Codes\Safe: Slot 5\Loupes]
-Author = JukePlz
-Type = Gameshark
-Activation = EndFrame
-Option = Exit:2305
-Option = Trap:2306
-Option = Focus:2307
-Option = Monster:2308
-Option = Treasure:2309
-80011F90 ????
-
-[Item Codes\Safe: Slot 5\Quest]
-Type = Gameshark
-Activation = EndFrame
-Option = Guru's Pot:3329
-Option = W. Medal:3330
-Option = Dumplings:3331
-Option = Music Box:3332
-Option = Eye Glasses:3333
-Option = B. Cape:3334
-Option = Chappie:3335
-Option = Koh's Head:3080
-80011F90 ????
-
-[Item Codes\Attributes\Safe: Slot 1]
-Description = Sets level for weapons and shields, and charges for magic balls. Disable this for other items (should be zero).
-Type = Gameshark
-Activation = EndFrame
 OptionRange = 0:99
-80011F82 ????
 
-[Item Codes\Attributes\Safe: Slot 2]
-Description = Sets level for weapons and shields, and charges for magic balls. Disable this for other items (should be zero).
+[Safe Position Modifier\*MASTER* Select Position No. (1 - 60) for Select Position Contents]
 Type = Gameshark
 Activation = EndFrame
-OptionRange = 0:99
-80011F86 ????
+518500F1 00011F80
+514500F2 00000004
+514500F3 000000??
+514500F4 0000D0D0
+OptionRange = 1:60
 
-[Item Codes\Attributes\Safe: Slot 3]
-Description = Sets level for weapons and shields, and charges for magic balls. Disable this for other items (should be zero).
+[Safe Position Modifier\Select Position Contents]
 Type = Gameshark
 Activation = EndFrame
-OptionRange = 0:99
-80011F8A ????
+514700F1 0000????
+Option = [ITEMS]Medicinal:0x0101
+Option = [ITEMS]Antidote:0x0102
+Option = [ITEMS]Antichaos:0x0103
+Option = [ITEMS]Wake-Up:0x0104
+Option = [ITEMS]Cure-All:0x0105
+Option = [ITEMS]Harak:0x0106
+Option = [ITEMS]Shomuro:0x0107
+Option = [ITEMS]Healing Herb:0x0108
+Option = [ITEMS]Poison:0x0109
+Option = [ITEMS]Paralyze:0x010A
+Option = [ITEMS]Harash:0x010B
+Option = [ITEMS]Horrey:0x010C
+Option = [ITEMS]Sleep:0x010D
+Option = [ITEMS]Roeam:0x010E
+Option = [FAMILIAR FOOD]Pita:0x0111
+Option = [FAMILIAR FOOD]Big Pita:0x0112
+Option = [FAMILIAR FOOD]Tumna:0x0113
+Option = [FAMILIAR FOOD]Leva:0x0114
+Option = [FAMILIAR FOOD]Leolam:0x0115
+Option = [FAMILIAR FOOD]Laev:0x0116
+Option = [FAMILIAR FOOD]Roche:0x0117
+Option = [FAMILIAR FOOD]Limit:0x0118
+Option = [FAMILIAR FOOD]Oleen:0x0119
+Option = [FAMILIAR FOOD]Geropita:0x011A
+Option = [SEEDS]Harak:0x011C
+Option = [SEEDS]Shomuro:0x011D
+Option = [SEEDS]Mazarr:0x011E
+Option = [SEEDS]Mahell:0x011F
+Option = [SEEDS]Light:0x0120
+Option = [SEEDS]Sea:0x0121
+Option = [SEEDS]Wind:0x0122
+Option = [SEEDS]Lar:0x0123
+Option = [SEEDS]Slow:0x0124
+Option = [SEEDS]Tovar:0x0125
+Option = [BALLS]Fire:0x0127
+Option = [BALLS]Blaze:0x0128
+Option = [BALLS]Flame:0x0129
+Option = [BALLS]Pillar:0x012A
+Option = [BALLS]Poison:0x012B
+Option = [BALLS]Water:0x012C
+Option = [BALLS]Repel:0x012D
+Option = [BALLS]Ice Rock:0x012E
+Option = [BALLS]Recovery:0x012F
+Option = [BALLS]Blinder:0x0131
+Option = [BALLS]Blinding:0x0132
+Option = [BALLS]Sleep:0x0133
+Option = [BALLS]Weak:0x0134
+Option = [BALLS]Acid Rain:0x0137
+Option = [BEAMS]Holy:0x0501
+Option = [BEAMS]Malicious:0x0502
+Option = [BEAMS]Trap:0x0503
+Option = [BEAMS]Restore:0x0504
+Option = [BEAMS]De-Curse:0x0505
+Option = [BEAMS]Flat:0x0506
+Option = [BEAMS]Alchemic:0x0507
+Option = [BELLS]Holy:0x0509
+Option = [BELLS]Malicious:0x050A
+Option = [BELLS]Familiar:0x050B
+Option = [LOCATORS]Exit:0x0510
+Option = [LOCATORS]Trap:0x0511
+Option = [LOCATORS]Focus:0x0512
+Option = [LOCATORS]Monster:0x0513
+Option = [LOCATORS]Treasure:0x0514
+Option = [CRYSTALS]Wind:0x0601
+Option = [CRYSTALS]Fire:0x0602
+Option = [CRYSTALS]Water:0x0603
+Option = [ROPE]Rope:0x0605
+Option = [ROPE]Mallet:0x0606
+Option = [ROPE]B.Collar:0x0608
+Option = [ROPE]Box:0x0609
+Option = [ROPE]Meat:0x060A
+Option = [ROPE]Balloon:0x060B
+Option = [ROPE]Unknown?:0x060C
+Option = [ROPE]Oleen:0x060D
+Option = [BAGS]Red:0x0A01
+Option = [BAGS]Blue:0x0A02
+Option = [BAGS]White:0x0A03
+Option = [GIFTS]Cream:0x0B01
+Option = [GIFTS]Roses:0x0B02
+Option = [GIFTS]HandBag:0x0B03
+Option = [GIFTS]Ring:0x0B04
+Option = [GIFTS]Duck:0x0B05
+Option = [SPECIAL ITEMS]Guru's Pot:0x0B07
+Option = [SPECIAL ITEMS]W. Medal:0x0B08
+Option = [SPECIAL ITEMS]Dumplings:0x0B09
+Option = [SPECIAL ITEMS]Music Box:0x0B0A
+Option = [SPECIAL ITEMS]Eye Glasses:0x0B0B
+Option = [SPECIAL ITEMS]B. Cape:0x0B0C
+Option = [SPECIAL ITEMS]Chapple:0x0B0D
+Option = [SPECIAL ITEMS]Copper:0x0B0F
+Option = [SPECIAL ITEMS]Silver:0x0B10
+Option = [SPECIAL ITEMS]Gold:0x0B11
+Option = [TROLL FAM WEAPONS] Troll:0x0B1F
+Option = [TROLL FAM WEAPONS] Hammer:0x0B20
+Option = [TROLL FAM WEAPONS] Bow Gun:0x0B21
+Option = [WANDS] Wooden Wand:0x0B23
+Option = [WANDS] Trained Wand:0x0B24
+Option = [WANDS] Life Wand:0x0B25
+Option = [WANDS] Paralyze Wand:0x0B26
+Option = [WANDS] Money Wand:0x0B27
+Option = [WANDS] Scarlet Wand:0x0B28
+Option = [WANDS] Stream Wand:0x0B29
+Option = [WANDS] Gulf Wand:0x0B2A
+Option = [WANDS] Seal Wand:0x0B2B
+Option = [SHIELDS] Wooden Shield:0x0B2D
+Option = [SHIELDS] Leather Shield:0x0B2E
+Option = [SHIELDS] Mirror Shield:0x0B2F
+Option = [SHIELDS] Copper Shield:0x0B30
+Option = [SHIELDS] Iron Shield:0x0B31
+Option = [SHIELDS] Steel Shield:0x0B32
+Option = [SHIELDS] Diamond Shield:0x0B33
+Option = [SHIELDS] Scorch Shield:0x0B34
+Option = [SHIELDS] Ice Shield:0x0B35
+Option = [SHIELDS] Earth Shield:0x0B36
+Option = [SHIELDS] Live Shield:0x0B37
+Option = [EQUIPPED FAMILIAR] Hikewne Familiar:0x0B39
+Option = [EQUIPPED FAMILIAR] Kewne Familiar:0x0B3A
+Option = [EQUIPPED FAMILIAR] Dragon Familiar:0x0B3B
+Option = [EQUIPPED FAMILIAR] Kid Familiar:0x0B3C
+Option = [EQUIPPED FAMILIAR] Ifrit Familiar:0x0B3D
+Option = [EQUIPPED FAMILIAR] Flame Familiar:0x0B3E
+Option = [EQUIPPED FAMILIAR] Grineut Familiar:0x0B3F
+Option = [EQUIPPED FAMILIAR] Griffon Familiar:0x0B40
+Option = [EQUIPPED FAMILIAR] Saber Familiar:0x0B41
+Option = [EQUIPPED FAMILIAR] Snowman Familiar:0x0B42
+Option = [EQUIPPED FAMILIAR] Ashra Familiar:0x0B43
+Option = [EQUIPPED FAMILIAR] Arachne Familiar:0x0B44
+Option = [EQUIPPED FAMILIAR] Battnel Familiar:0x0B45
+Option = [EQUIPPED FAMILIAR] Nyuel Familiar:0x0B46
+Option = [EQUIPPED FAMILIAR] Death Familiar:0x0B47
+Option = [EQUIPPED FAMILIAR] Clown Familiar:0x0B48
+Option = [EQUIPPED FAMILIAR] Univern Familiar:0x0B49
+Option = [EQUIPPED FAMILIAR] Unicorn Familiar:0x0B4A
+Option = [EQUIPPED FAMILIAR] Metal Familiar:0x0B4B
+Option = [EQUIPPED FAMILIAR] Block Familiar:0x0B4C
+Option = [EQUIPPED FAMILIAR] Pulunpa Familiar:0x0B4D
+Option = [EQUIPPED FAMILIAR] Troll Familiar:0x0B4E
+Option = [EQUIPPED FAMILIAR] Noise Familiar:0x0B4F
+Option = [EQUIPPED FAMILIAR] U-Boat Familiar:0x0B50
+Option = [EQUIPPED FAMILIAR] Baloon Familiar:0x0B51
+Option = [EQUIPPED FAMILIAR] Dreamin Familiar:0x0B52
+Option = [EQUIPPED FAMILIAR] Blume Familiar:0x0B53
+Option = [EQUIPPED FAMILIAR] Volcano Familiar:0x0B54
+Option = [EQUIPPED FAMILIAR] Cyclone Familiar:0x0B55
+Option = [EQUIPPED FAMILIAR] Manoeva Familiar:0x0B56
+Option = [EQUIPPED FAMILIAR] Barong Familiar:0x0B57
+Option = [EQUIPPED FAMILIAR] Picket Familiar:0x0B58
+Option = [EQUIPPED FAMILIAR] Kraken Familiar:0x0B59
+Option = [EQUIPPED FAMILIAR] Weadog Familiar:0x0B5A
+Option = [EQUIPPED FAMILIAR] Stealth Familiar:0x0B5B
+Option = [EQUIPPED FAMILIAR] Viper Familiar:0x0B5C
+Option = [EQUIPPED FAMILIAR] Naplass Familiar:0x0B5D
+Option = [EQUIPPED FAMILIAR] Zu Familiar:0x0B5E
+Option = [EQUIPPED FAMILIAR] Mandara Familiar:0x0B5F
+Option = [EQUIPPED FAMILIAR] Killer Familiar:0x0B60
+Option = [EQUIPPED FAMILIAR] Garuda Familiar:0x0B61
+Option = [EQUIPPED FAMILIAR] Glacier Familiar:0x0B62
+Option = [EQUIPPED FAMILIAR] Tyrant Familiar:0x0B63
+Option = [EQUIPPED FAMILIAR] Golem Familiar:0x0B64
+Option = [EQUIPPED FAMILIAR] Maximum Familiar:0x0B65
+Option = [SWORDS] Gold Sword:0x0F01
+Option = [SWORDS] Copper Sword:0x0F02
+Option = [SWORDS] Iron Sword:0x0F03
+Option = [SWORDS] Steel Sword:0x0F04
+Option = [SWORDS] Fire Sword:0x0F05
+Option = [SWORDS] Blizzard Sword:0x0F06
+Option = [SWORDS] Gulfwind Sword:0x0F07
+Option = [SWORDS] Vital Sword:0x0F08
+Option = [SWORDS] Dark Sword:0x0F09
+Option = [SWORDS] Holy Sword:0x0F0A
+Option = [SWORDS] Seraphim Sword:0x0F0B
+Option = [SWORDS] Seraphim Sword (Equippable):0x0F0C
 
-[Item Codes\Attributes\Safe: Slot 4]
-Description = Sets level for weapons and shields, and charges for magic balls. Disable this for other items (should be zero).
+[Safe Position Modifier\Select Position Level]
+Description = Used for weapon, shield, magic balls strength. Other items should be 0
 Type = Gameshark
 Activation = EndFrame
-OptionRange = 0:99
-80011F8E ????
+514700F1 000200??
+OptionRange = 1:99
 
-[Item Codes\Attributes\Safe: Slot 5]
-Description = Sets level for weapons and shields, and charges for magic balls. Disable this for other items (should be zero).
+[Monster Hut Position Modifier\*MASTER* Select Position No. (1 - 65) for Select Position Contents]
 Type = Gameshark
 Activation = EndFrame
-OptionRange = 0:99
-80011F92 ????
+518500F5 00010980
+514500F6 00000004
+514500F7 000000??
+514500F8 0000D0D0
+OptionRange = 1:65
 
-[Minigames\Ghosh Duel: Victories]
+[Monster Hut Position Modifier\Select Position Contents]
+Type = Gameshark
+Activation = EndFrame
+514700F5 0000????
+Option = Ultimate Egg:0x1201
+Option = Kewne Egg:0x1202
+Option = Dragon Egg:0x1203
+Option = Kid Egg:0x1204
+Option = Ifrit Egg:0x1205
+Option = Flame Egg:0x1206
+Option = Grineut Egg:0x1207
+Option = Griffon Egg:0x1208
+Option = Saber Egg:0x1209
+Option = Snowman Egg:0x120A
+Option = Ashra Egg:0x120B
+Option = Arachne Egg:0x120C
+Option = Battnel Egg:0x120D
+Option = Nyuel Egg:0x120E
+Option = Death Egg:0x120F
+Option = Clown Egg:0x1210
+Option = Univern Egg:0x1211
+Option = Unicorn Egg:0x1212
+Option = Metal Egg:0x1213
+Option = Block Egg:0x1214
+Option = Pulunpa Egg:0x1215
+Option = Troll Egg:0x1216
+Option = Noise Egg:0x1217
+Option = U-Boat Egg:0x1218
+Option = Baloon Egg:0x1219
+Option = Dreamin Egg:0x121A
+Option = Blume Egg:0x121B
+Option = Volcano Egg:0x121C
+Option = Cyclone Egg:0x121D
+Option = Manoeva Egg:0x121E
+Option = Barong Egg:0x121F
+Option = Picket Egg:0x1220
+Option = Kraken Egg:0x1221
+Option = Weadog Egg:0x1222
+Option = Stealth Egg:0x1223
+Option = Viper Egg:0x1224
+Option = Naplass Egg:0x1225
+Option = Zu Egg:0x1226
+Option = Mandara Egg:0x1227
+Option = Killer Egg:0x1228
+Option = Garuda Egg:0x1229
+Option = Glacier Egg:0x122A
+Option = Tyrant Egg:0x122B
+Option = Golem Egg:0x122C
+Option = Maximum Egg:0x122D
+
+[Portrait Depth From Screen Modifier]
+Type = Gameshark
+Activation = EndFrame
+80082E2A 00??
+OptionRange = 0x00:0xFF
+
+[Minigames\Ghosh Duel - Victories]
+Type = Gameshark
+Activation = EndFrame
 Author = JukePlz
-Type = Gameshark
-Activation = EndFrame
-OptionRange = 0:256
 30013611 00??
+OptionRange = 0:255
 
-[Minigames\Ghosh Duel: Loses]
-Author = JukePlz
+[Minigames\Ghosh Duel - Loses]
 Type = Gameshark
 Activation = EndFrame
-OptionRange = 0:256
+Author = JukePlz
 30013613 00??
+OptionRange = 0:255
 
-[Minigames\Barbell Catch: Current Score]
-Author = JukePlz
+[Minigames\Barbell Catch - Current Score]
 Type = Gameshark
 Activation = EndFrame
-OptionRange = 0:9999
+Author = JukePlz
 801EB010 ????
+OptionRange = 0:9999
 
-[Minigames\Barbell Catch: Record Score]
-Author = JukePlz
+[Minigames\Barbell Catch - Record Score]
 Type = Gameshark
 Activation = EndFrame
-OptionRange = 20:9999
+Author = JukePlz
 800135C2 ????
-
-[Minigames\Whack-A-Mole: Moles Hit]
-Author = JukePlz
-Type = Gameshark
-Activation = EndFrame
-OptionRange = 0:999
-801EB132 ????
-
-[Minigames\Whack-A-Mole: All Time Record]
-Author = JukePlz
-Type = Gameshark
-Activation = EndFrame
 OptionRange = 20:9999
-800135BC ????
 
-[Minigames\Whack-A-Mole: Infinite Time]
-Author = JukePlz
+[Minigames\Whack-A-Mole - Moles Hit]
 Type = Gameshark
 Activation = EndFrame
+Author = JukePlz
+801EB132 ????
+OptionRange = 0:999
+
+[Minigames\Whack-A-Mole - All Time Record]
+Type = Gameshark
+Activation = EndFrame
+Author = JukePlz
+800135BC ????
+OptionRange = 20:9999
+
+[Minigames\Whack-A-Mole - Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+Author = JukePlz
 301EB136 0063
 
-[Minigames\Takopoo Battle: Score]
-Author = JukePlz
+[Minigames\Takopoo Battle - Score]
 Type = Gameshark
 Activation = EndFrame
+Author = JukePlz
+301EBA60 00??
 OptionRange = 0:99
-301EBA60 ????
+

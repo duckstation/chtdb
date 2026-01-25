@@ -1,29 +1,49 @@
 ; CHTDB: ; [ Machine Head (USA) (1996) (Eidos Interactive) {SLUS-00383} <machhead> ]
 
-[Infinite Missiles]
+[Infinite Energy]
 Type = Gameshark
 Activation = EndFrame
-800C2178 0064
+800BF5C4 00FF
 
-[Infinite Energy]
+[Infinite Energy [ALT]]
 Type = Gameshark
 Activation = EndFrame
 800BF660 00FD
 
-[Infinite Flame Thrower]
+[Infinite Big Bombs]
 Type = Gameshark
 Activation = EndFrame
-800C2174 00FA
+800C20E8 00FF
 
-[Infinite Grenades]
+[Infinite Big Rockets]
 Type = Gameshark
 Activation = EndFrame
-800C2184 000A
+800C20DC 00FF
 
 [Infinite Disruptor]
 Type = Gameshark
 Activation = EndFrame
 800C2188 0064
+
+[Infinite Flame Thrower]
+Type = Gameshark
+Activation = EndFrame
+800C20D4 00FF
+
+[Infinite Flame Thrower [ALT]]
+Type = Gameshark
+Activation = EndFrame
+800C2174 00FA
+
+[Infinite Flash Bombs]
+Type = Gameshark
+Activation = EndFrame
+800C20EC 00FF
+
+[Infinite Grenades]
+Type = Gameshark
+Activation = EndFrame
+800C2184 000A
 
 [Infinite Homing Missiles]
 Type = Gameshark
@@ -35,8 +55,28 @@ Type = Gameshark
 Activation = EndFrame
 800C218C 0064
 
+[Infinite Laser]
+Type = Gameshark
+Activation = EndFrame
+800C20E0 00FF
+
+[Infinite Missiles]
+Type = Gameshark
+Activation = EndFrame
+800C2178 0064
+
 [Infinite Photons]
 Type = Gameshark
 Activation = EndFrame
 800C2180 0064
+
+[Infinite Rockets]
+Type = Gameshark
+Activation = EndFrame
+800C20D8 00FF
+
+[Infinite Small Bombs]
+Type = Gameshark
+Activation = EndFrame
+800C20E4 00FF
 

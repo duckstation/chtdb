@@ -41,11 +41,27 @@ Type = Gameshark
 Activation = EndFrame
 300958E8 0064
 
-[Invincibility]
+[Invincibility (Flicker Type)]
+Description = Doesn't protect you against falling down holes or getting stuck in the bin
 Type = Gameshark
 Activation = EndFrame
 D002447E 2442
 8009EF40 00FF
+
+[Collect Pepsi from Anywhere]
+Type = Gameshark
+Activation = EndFrame
+A702CF6E 10401400
+
+[Never fall down Holes]
+Type = Gameshark
+Activation = EndFrame
+A7023C16 10401000
+
+[Never get stuck in Bin]
+Type = Gameshark
+Activation = EndFrame
+A70F75C2 10401000
 
 [Floating In Air Press Triangle Button]
 Type = Gameshark

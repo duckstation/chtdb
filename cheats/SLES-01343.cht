@@ -15,7 +15,8 @@ Type = Gameshark
 Activation = EndFrame
 801B48EC 0001
 
-[Make Vehicles Invulnerable (.To make a vehicle invulnerable use the cursor to highlight the symbol that has the word READY on the sidebar, then press the X button to activate a different cursor which you then place over the vehicle and press X again to make the vehicle invulnerable for a limited period.)]
+[Make Vehicles Invulnerable]
+Description = To make a vehicle invulnerable use the cursor to highlight the symbol that has the word READY on the sidebar, then press the X button to activate a different cursor which you then place over the vehicle and press X again to make the vehicle invulnerable for a limited period.
 Type = Gameshark
 Activation = EndFrame
 8002CC78 000F

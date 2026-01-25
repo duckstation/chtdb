@@ -1,5 +1,81 @@
 ; CHTDB: ; [ Alien Resurrection (USA) (2000) (Fox Interactive) {SLUS-00633} <alienres> ]
 
+[Cheat Menu Enabled]
+Type = Gameshark
+Activation = EndFrame
+30096BE0 0001
+
+[Timer Stopped]
+Type = Gameshark
+Activation = EndFrame
+8005C356 0000
+
+[Infinite Ammo (All Weapons)]
+Type = Gameshark
+Activation = EndFrame
+50000802 0000
+8011BCC4 0064
+
+[Infinite Ammo In Clip - All Weapons [ASM]]
+Type = Gameshark
+Activation = EndFrame
+80062A92 2400
+
+[Infinite Batteries]
+Type = Gameshark
+Activation = EndFrame
+8011BD00 0064
+
+[Infinite Chestburst Time]
+Type = Gameshark
+Activation = EndFrame
+8005162C 0000
+
+[Infinite Chestburster Timer]
+Type = Gameshark
+Activation = EndFrame
+8010D62A 0E10
+
+[Infinite Electric Gun Ammo]
+Type = Gameshark
+Activation = EndFrame
+8011BCCC 0064
+
+[Infinite Electric Gun Rounds]
+Type = Gameshark
+Activation = EndFrame
+3011BCDC 00FF
+
+[Infinite Fire Extinguisher]
+Type = Gameshark
+Activation = EndFrame
+8011BCF8 0064
+
+[Infinite Flamethrower Ammo]
+Type = Gameshark
+Activation = EndFrame
+8011BCCA 0064
+
+[Infinite Flamethrower Rounds]
+Type = Gameshark
+Activation = EndFrame
+3011BCDA 00FF
+
+[Infinite Flashlight]
+Type = Gameshark
+Activation = EndFrame
+8011BCFC 04B2
+
+[Infinite Grenade Launcher Ammo]
+Type = Gameshark
+Activation = EndFrame
+8011BCCE 0064
+
+[Infinite Grenade Launcher Rounds]
+Type = Gameshark
+Activation = EndFrame
+3011BCDE 00FF
+
 [Infinite Health]
 Type = Gameshark
 Activation = EndFrame
@@ -10,10 +86,136 @@ Type = Gameshark
 Activation = EndFrame
 8011BCE8 0009
 
-[Timer Stopped]
+[Infinite Laser Ammo]
 Type = Gameshark
 Activation = EndFrame
-8005C356 0000
+8011BCD0 0064
+
+[Infinite Laser Rounds]
+Type = Gameshark
+Activation = EndFrame
+3011BCE0 00FF
+
+[Infinite Medium Medipacks]
+Type = Gameshark
+Activation = EndFrame
+8011BCE6 0009
+
+[Infinite Oxygen (Underwater Levels)]
+Type = Gameshark
+Activation = EndFrame
+8010D62C 0A8C
+
+[Infinite Pistol Ammo]
+Type = Gameshark
+Activation = EndFrame
+8011BCC4 0064
+
+[Infinite Portable Autodoc]
+Type = Gameshark
+Activation = EndFrame
+3011BD02 00FF
+
+[Infinite Pulse Rifle Ammo]
+Type = Gameshark
+Activation = EndFrame
+8011BCC8 0064
+
+[Infinite Pulse Rifle Rounds]
+Type = Gameshark
+Activation = EndFrame
+3011BCD8 00FF
+
+[Infinite Rocket Launcher Ammo]
+Type = Gameshark
+Activation = EndFrame
+8011BCD2 0064
+
+[Infinite Rocket Launcher Rounds]
+Type = Gameshark
+Activation = EndFrame
+3011BCE2 00FF
+
+[Infinite Shotgun Ammo]
+Type = Gameshark
+Activation = EndFrame
+8011BCC6 0064
+
+[Infinite Shotgun Rounds]
+Type = Gameshark
+Activation = EndFrame
+3011BCD6 00FF
+
+[Infinite Small Medipacks]
+Type = Gameshark
+Activation = EndFrame
+8011BCE4 0009
+
+[All Weapons]
+Type = Gameshark
+Activation = EndFrame
+3011BCBC 00FF
+
+[Brighter Screen]
+Type = Gameshark
+Activation = EndFrame
+30092A94 00C0
+30092A98 00C0
+30092A9C 00C0
+00000000 0000
+
+[Can Look Straight Up And Down]
+Type = Gameshark
+Activation = EndFrame
+8006099C FC17
+800609B0 FC17
+80060994 03E8
+800609A0 03E8
+00000000 0000
+
+[Enable Research Menu]
+Type = Gameshark
+Activation = EndFrame
+30096BDF 0001
+00000000 0000
+
+[Facehugger Disappears As Soon As It Facehugs You [ASM]]
+Type = Gameshark
+Activation = EndFrame
+80060DF0 2400
+
+[Facehugger No Animation When Facehugged [ASM]]
+Type = Gameshark
+Activation = EndFrame
+80060EBE 2400
+
+[Flashlight Energy Never Decreases [ASM]]
+Type = Gameshark
+Activation = EndFrame
+800626F2 2400
+
+[Full Brightness]
+Type = Gameshark
+Activation = EndFrame
+30092A94 00FF
+30092A98 00FF
+30092A9C 00FF
+00000000 0000
+
+[Getting Facehugged Causes Game Over [ASM]]
+Type = Gameshark
+Activation = EndFrame
+80060E62 2400
+
+[Getting Facehugged Cutscene Ends Immediately [ASM]]
+Type = Gameshark
+Activation = EndFrame
+80060E8A 2400
+
+[Getting Facehugged Cutscene Ends Sooner [ASM]]
+Type = Gameshark
+Activation = EndFrame
+80060E5C 2400
 
 [Have All Keycards]
 Type = Gameshark
@@ -23,15 +225,99 @@ Activation = EndFrame
 9011BCF0 00010001
 9011BCF4 00010001
 
-[Cheat Menu Enabled]
+[Have Detonator]
 Type = Gameshark
 Activation = EndFrame
-30096BE0 0001
+8011BCFA 0001
+
+[Have Items]
+Type = Gameshark
+Activation = EndFrame
+8011BCBE FFFF
+
+[Have Motion Tracker]
+Type = Gameshark
+Activation = EndFrame
+3011BD06 0001
+00000000 0000
+
+[Hold R2 + Circle To Moon Jump]
+Type = Gameshark
+Activation = EndFrame
+E00BDB93 00DD
+8010D520 8000
+E00BDB93 00DD
+8010D522 0000
+E00BDB93 00DD
+3010D649 0000
+E00BDB93 00D5
+8010D522 8000
+E00BDB93 00D5
+8010D522 0000
+E00BDB93 00D5
+3010D649 0000
+
+[Hold R2 + X To Moon Jump]
+Type = Gameshark
+Activation = EndFrame
+E00BDB93 00BD
+8010D520 8000
+E00BDB93 00BD
+8010D522 0000
+E00BDB93 00BD
+3010D649 0001
+E00BDB93 00B5
+8010D522 8000
+E00BDB93 00B5
+8010D522 0000
+E00BDB93 00B5
+3010D649 0001
+00000000 0000
+
+[Items Never Decrease]
+Type = Gameshark
+Activation = EndFrame
+800525AE 0000
+
+[More Time Press Select]
+Type = Gameshark
+Activation = EndFrame
+D00BDB92 FFFE
+8011BE0C 7080
+
+[Play On Hidden 'Deadly' Difficulty]
+Type = Gameshark
+Activation = EndFrame
+30096BC0 0003
+00000000 0000
+
+[Press R2 + Select To Teleport To Cutscene Room At Beginning Of Docking Bay Level]
+Type = Gameshark
+Activation = EndFrame
+D00BDB92 FDFE
+8013C366 0000
+D00BDB92 FDFE
+8010D508 1000
+D00BDB92 FDFE
+8010D50A 008F
+D00BDB92 FDFE
+8010D50C 0F80
+D00BDB92 FDFE
+8010D50E 001B
+D00BDB92 FDFE
+8010D510 5000
+D00BDB92 FDFE
+8010D512 003D
 
 [Research Enabled]
 Type = Gameshark
 Activation = EndFrame
 3009BBDF 0001
+
+[Screen Doesn't Fade To Black After Death]
+Type = Gameshark
+Activation = EndFrame
+300A45D1 0010
 ;#### PATCHES LISTED BELOW ####
 
 [Widescreen 16-9 (Vert-)]

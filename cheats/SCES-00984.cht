@@ -192,6 +192,8 @@ A7051C80 007D0064
 [Race Music Selector]
 Type = Gameshark
 Activation = EndFrame
+E00B6211 00FF
+300B620F 00??
 Option = Garbage - As Heaven Is Wide:00
 Option = Ash - Lose Control:01
 Option = Feeder - Sweet 16:02
@@ -218,32 +220,29 @@ Option = Post-Race/License Menu:22
 Option = Arcade Mode Menu:23
 Option = Quick Menu (unused song):24
 Option = Goodies (unused song):25
-E00B6211 00FF
-300B620F 00??
 
 [USA English]
+Description = Enable this code in the Language Selection screen.
 Type = Gameshark
 Activation = EndFrame
-Description = Enable this code in the Language Selection screen.
 3004DDA4 0000
 
 [Speedometer Selector]
+Description = Enable this code while you're in any menu, except the GT Mode menu.
 Type = Gameshark
 Activation = EndFrame
-Description = Enable this code while you're in any menu, except the GT Mode menu.
-Option = km/h:00
-Option = mph:01
 E2081B73 0002
 30081B73 00??
+Option = km/h:00
+Option = mph:01
 
 [Car Color Selector]
+Description = Make sure you're selecting a color that the car can actually have.
 Type = Gameshark
 Activation = EndFrame
-Description = Make sure you're selecting a color that the car can actually have.
-OptionRange = 0:15
 E20B64C2 0010
 300B64C2 00??
-
+OptionRange = 0:15
 ;#### PATCHES LISTED BELOW ####
 
 [50 FPS (+Re-enable tire smoke, Re-enable rear view mirror)]
@@ -252,3 +251,4 @@ Activation = EndFrame
 A60B6168 00020001
 A702E560 00020001
 A702AA7C 00020001
+

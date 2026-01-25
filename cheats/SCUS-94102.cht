@@ -1,32 +1,192 @@
 ; CHTDB: ; [ Kileak - The DNA Imperative (USA) (1995) (Sony Computer Entertainment America) {SCUS-94102} <kileak> ]
 
-[Infinite Energy]
+[Elapsed Mission Timer Always 00.00]
 Type = Gameshark
 Activation = EndFrame
-800B6294 03DE
+800C0704 0000
 
 [Infinite Armor]
 Type = Gameshark
 Activation = EndFrame
 800B6298 03E8
 
-[Infinite Wales Ammo]
+[Infinite Energy]
 Type = Gameshark
 Activation = EndFrame
-800B62C8 01EF
+800B6294 03DF
+
+[Infinite Eritro Crion Ammo]
+Type = Gameshark
+Activation = EndFrame
+800B62D0 01F4
 
 [Infinite Erosion Ammo]
 Type = Gameshark
 Activation = EndFrame
-800B62E0 0003
+800B62E0 01F4
+
+[Infinite Veda Ammo]
+Type = Gameshark
+Activation = EndFrame
+800B62E4 01F4
+
+[Infinite Wales Ammo]
+Type = Gameshark
+Activation = EndFrame
+800B62C8 01F4
 
 [Infinite Zax Ammo]
 Type = Gameshark
 Activation = EndFrame
-800B6204 0058
+800B62D4 01F4
 
-[Infinite Iritro Crion Ammo]
+[Always have Erito Crion Gun]
 Type = Gameshark
 Activation = EndFrame
-800B62D0 000A
+800B62A8 00FF
+
+[Always have Erosion Gun]
+Type = Gameshark
+Activation = EndFrame
+800B62B8 00FF
+
+[Always have Flamer Gun]
+Type = Gameshark
+Activation = EndFrame
+800B62B0 00FF
+
+[Always have Gaia Gun]
+Type = Gameshark
+Activation = EndFrame
+800B62B4 00FF
+
+[Always have Laser Gun]
+Type = Gameshark
+Activation = EndFrame
+800B62A4 00FF
+
+[Always have Veda Gun]
+Type = Gameshark
+Activation = EndFrame
+800B62BC 00FF
+
+[Always have Zax Gun]
+Type = Gameshark
+Activation = EndFrame
+800B62AC 00FF
+
+[Select Item 1]
+Type = Gameshark
+Activation = EndFrame
+800B62F0 00??
+Option = I.D.Card:0x01
+Option = Repair Parts (1):0x02
+Option = Repair Parts (2):0x03
+Option = Armor Rom:0x04
+Option = Recorder Card:0x05
+Option = Battery (1):0x06
+Option = Battery (2):0x07
+Option = Yellow Key Card:0x08
+Option = Red Key Card:0x09
+Option = Blue Key Card:0x0A
+Option = Green Key Card:0x0B
+Option = Gray Key Card:0x0C
+Option = Ammo Pak (1):0x0D
+Option = Ammo Pak (2):0x0E
+Option = Ammo Pak (3):0x0F
+Option = Ammo Pak (4):0x10
+Option = Ammo Pak (5):0x11
+Option = ? (takes the green background away from the item spots):0x12
+
+[Select Item 2]
+Type = Gameshark
+Activation = EndFrame
+800B62F4 00??
+Option = I.D.Card:0x01
+Option = Repair Parts (1):0x02
+Option = Repair Parts (2):0x03
+Option = Armor Rom:0x04
+Option = Recorder Card:0x05
+Option = Battery (1):0x06
+Option = Battery (2):0x07
+Option = Yellow Key Card:0x08
+Option = Red Key Card:0x09
+Option = Blue Key Card:0x0A
+Option = Green Key Card:0x0B
+Option = Gray Key Card:0x0C
+Option = Ammo Pak (1):0x0D
+Option = Ammo Pak (2):0x0E
+Option = Ammo Pak (3):0x0F
+Option = Ammo Pak (4):0x10
+Option = Ammo Pak (5):0x11
+Option = ? (takes the green background away from the item spots):0x12
+
+[Select Item 3]
+Type = Gameshark
+Activation = EndFrame
+800B62F8 00??
+Option = I.D.Card:0x01
+Option = Repair Parts (1):0x02
+Option = Repair Parts (2):0x03
+Option = Armor Rom:0x04
+Option = Recorder Card:0x05
+Option = Battery (1):0x06
+Option = Battery (2):0x07
+Option = Yellow Key Card:0x08
+Option = Red Key Card:0x09
+Option = Blue Key Card:0x0A
+Option = Green Key Card:0x0B
+Option = Gray Key Card:0x0C
+Option = Ammo Pak (1):0x0D
+Option = Ammo Pak (2):0x0E
+Option = Ammo Pak (3):0x0F
+Option = Ammo Pak (4):0x10
+Option = Ammo Pak (5):0x11
+Option = ? (takes the green background away from the item spots):0x12
+
+[Select Item 4]
+Type = Gameshark
+Activation = EndFrame
+800B62FC 00??
+Option = I.D.Card:0x01
+Option = Repair Parts (1):0x02
+Option = Repair Parts (2):0x03
+Option = Armor Rom:0x04
+Option = Recorder Card:0x05
+Option = Battery (1):0x06
+Option = Battery (2):0x07
+Option = Yellow Key Card:0x08
+Option = Red Key Card:0x09
+Option = Blue Key Card:0x0A
+Option = Green Key Card:0x0B
+Option = Gray Key Card:0x0C
+Option = Ammo Pak (1):0x0D
+Option = Ammo Pak (2):0x0E
+Option = Ammo Pak (3):0x0F
+Option = Ammo Pak (4):0x10
+Option = Ammo Pak (5):0x11
+Option = ? (takes the green background away from the item spots):0x12
+
+[Select Item 5]
+Type = Gameshark
+Activation = EndFrame
+800B6300 00??
+Option = I.D.Card:0x01
+Option = Repair Parts (1):0x02
+Option = Repair Parts (2):0x03
+Option = Armor Rom:0x04
+Option = Recorder Card:0x05
+Option = Battery (1):0x06
+Option = Battery (2):0x07
+Option = Yellow Key Card:0x08
+Option = Red Key Card:0x09
+Option = Blue Key Card:0x0A
+Option = Green Key Card:0x0B
+Option = Gray Key Card:0x0C
+Option = Ammo Pak (1):0x0D
+Option = Ammo Pak (2):0x0E
+Option = Ammo Pak (3):0x0F
+Option = Ammo Pak (4):0x10
+Option = Ammo Pak (5):0x11
+Option = ? (takes the green background away from the item spots):0x12
 

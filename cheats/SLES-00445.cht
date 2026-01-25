@@ -1,20 +1,5 @@
 ; CHTDB: ; [ Die Hard Trilogy (Europe) {SLES-00445} ]
 
-[Die Hard\NTSC Mode]
-Type = Gameshark
-Activation = EndFrame
-Author = PeterDelta
-Description = Select All borders (Aspect Uncorrected). The timer is going a little fast
-A70900C0 00010000
-A70AB91A 01000200
-A70B9542 01000200
-A70AB91E 00120070
-A70B9546 00120070
-D00AB91E 003A
-800AB91A 0100
-D00AB91E 003A
-800B9542 0100
-
 [Die Hard\Infinite Energy]
 Type = Gameshark
 Activation = EndFrame
@@ -73,7 +58,7 @@ D11CEB48 000?
 801CEB48 0006
 OptionRange = 0:6
 
-[Die Hard\The Saint-Mode On (.Press L1 & L2)]
+[Die Hard\The Saint-Mode On (Press L1 & L2)]
 Type = Gameshark
 Activation = EndFrame
 D00A6BD0 0005
@@ -138,6 +123,21 @@ Activation = EndFrame
 Type = Gameshark
 Activation = EndFrame
 8005DAF2 3C00
+
+[Die Hard\NTSC Mode]
+Description = Select All borders (Aspect Uncorrected). The timer is going a little fast
+Type = Gameshark
+Activation = EndFrame
+Author = PeterDelta
+A70900C0 00010000
+A70AB91A 01000200
+A70B9542 01000200
+A70AB91E 00120070
+A70B9546 00120070
+D00AB91E 003A
+800AB91A 0100
+D00AB91E 003A
+800B9542 0100
 
 [Die Hard 2 - Die Harder\Infinite Rockets]
 Type = Gameshark

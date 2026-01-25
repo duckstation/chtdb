@@ -1,0 +1,388 @@
+; CHTDB: ; [ Metal Gear Solid (USA, v1.0) (1998) (Konami of America) {SLUS-00594 / SLUS-00776} <mgsa> ]
+
+[Infinite Health On Disk 1]
+Description = With this cheat, it will help you thru the torture scene but you still have to press the button repeatedly to keep from dying what the health cheat does is make sure your health doesn't get sucked down!
+Type = Gameshark
+Activation = EndFrame
+800B7526 03E7
+
+[Infinite Air]
+Type = Gameshark
+Activation = EndFrame
+800AE1AC 03E7
+
+[Never Reload]
+Type = Gameshark
+Activation = EndFrame
+800AE164 000D
+
+[Infinite Time In Jeep Chase]
+Type = Gameshark
+Activation = EndFrame
+800E1258 FFFF
+
+[Invincibility This code makes it so that Snake can't be hit by anything]
+Type = Gameshark
+Activation = EndFrame
+800AE1CA 0080
+
+[Max Life]
+Type = Gameshark
+Activation = EndFrame
+800B7528 0600
+
+[Ghost Mode]
+Type = Gameshark
+Activation = EndFrame
+900AE188 00000000
+
+[Never Get A Cold]
+Type = Gameshark
+Activation = EndFrame
+800B752A 0000
+
+[Radar Not Jammed When Spotted]
+Type = Gameshark
+Activation = EndFrame
+800AE178 0000
+
+[Ocelot Has 0 Bullets]
+Type = Gameshark
+Activation = EndFrame
+80167CA8 0000
+
+[Infinite 3.00 Fight Time]
+Type = Gameshark
+Activation = EndFrame
+800E72BC 1475
+
+[Infinite Time-Jeep Chase]
+Type = Gameshark
+Activation = EndFrame
+800E1258 FFFF
+
+[Liquid-No Health Final Fight]
+Type = Gameshark
+Activation = EndFrame
+8017997C 0000
+
+[Press R1 For An Easy Fight Against Ninja]
+Type = Gameshark
+Activation = EndFrame
+D00B2D58 0008
+8015B59C 0000
+
+[Press R1 For An Easy Fight Against Mantis .With this code, keep tapping R1 'til Mantis has Meryl try to blow her brains out. Tap R1 once more at this point, then swap controller ports and finish him off!]
+Type = Gameshark
+Activation = EndFrame
+D00B2D58 0008
+801B8CB6 0000
+
+[Press R1 For Meryil+Health S.Wolf]
+Type = Gameshark
+Activation = EndFrame
+D00B2D58 0008
+80174A50 0080
+
+[Press R1 For A Quick Battle With Hind d With this code, tap R1 and the hind D will fire at you, dodge it's fire and tap R1 again. Fight complete.]
+Type = Gameshark
+Activation = EndFrame
+D00B2D58 0008
+80154AB4 0000
+
+[Press R1 For Quick S.Wolf Snow Fight With this code, tap R1 then run up to her]
+Type = Gameshark
+Activation = EndFrame
+D00B2D58 0008
+8016FE78 0000
+
+[Press R1 For A Quick Metal Gear Battle]
+Type = Gameshark
+Activation = EndFrame
+D00B2D58 0008
+800B8EF6 0000
+
+[Press R1 For Quick Battle With Raven]
+Type = Gameshark
+Activation = EndFrame
+D00B2D58 0008
+80157408 0000
+
+[99 Diazepam]
+Type = Gameshark
+Activation = EndFrame
+800B7580 0063
+
+[Have Access To Special Modes (SELECT+R2+L2)]
+Type = Gameshark
+Activation = EndFrame
+D00AC240 0103
+3011C804 0003
+
+[Have All Vr Training Stages + Tech Demo]
+Type = Gameshark
+Activation = EndFrame
+300B499B 0020
+
+[All Modes VR Training]
+Type = Gameshark
+Activation = EndFrame
+800B672B 0020
+
+[Have Socom Pistol]
+Type = Gameshark
+Activation = EndFrame
+800B7532 03E7
+800B7546 03E7
+
+[Have Famas]
+Type = Gameshark
+Activation = EndFrame
+800B7534 03E7
+800B7548 03E7
+
+[Have Grenades]
+Type = Gameshark
+Activation = EndFrame
+800B7536 03E7
+800B754A 03E7
+
+[Have Nikita]
+Type = Gameshark
+Activation = EndFrame
+800B7538 03E7
+800B754C 03E7
+
+[Have Stinger]
+Type = Gameshark
+Activation = EndFrame
+800B753A 03E7
+800B754E 03E7
+
+[Have Claymore Mines]
+Type = Gameshark
+Activation = EndFrame
+800B753C 03E7
+800B7550 03E7
+
+[Have C4]
+Type = Gameshark
+Activation = EndFrame
+800B753E 03E7
+800B7552 03E7
+
+[Have Stun Grenades]
+Type = Gameshark
+Activation = EndFrame
+800B7540 03E7
+800B7554 03E7
+
+[Have Chaff Grenades]
+Type = Gameshark
+Activation = EndFrame
+800B7542 03E7
+800B7556 03E7
+
+[Have Sniper Rifle]
+Type = Gameshark
+Activation = EndFrame
+800B7544 03E7
+800B7558 03E7
+
+[Havecigs]
+Type = Gameshark
+Activation = EndFrame
+800B755A 0001
+
+[Have Scope]
+Type = Gameshark
+Activation = EndFrame
+800B755C 0001
+
+[Have C.Box A]
+Type = Gameshark
+Activation = EndFrame
+800B755E 0001
+
+[Have C.Box B]
+Type = Gameshark
+Activation = EndFrame
+800B7560 0001
+
+[Have C.Box c]
+Type = Gameshark
+Activation = EndFrame
+800B7562 0001
+
+[Have N.V.G.]
+Type = Gameshark
+Activation = EndFrame
+800B7564 0001
+
+[Have Therm.G]
+Type = Gameshark
+Activation = EndFrame
+800B7566 0001
+
+[Have Gas Mask]
+Type = Gameshark
+Activation = EndFrame
+800B7568 0001
+
+[Have B.Armor]
+Type = Gameshark
+Activation = EndFrame
+800B756A 0001
+
+[Have Ketchup]
+Type = Gameshark
+Activation = EndFrame
+800B756C 0001
+
+[Have Stealth]
+Type = Gameshark
+Activation = EndFrame
+800B756E 0001
+
+[Have Bandana]
+Type = Gameshark
+Activation = EndFrame
+800B7570 0001
+
+[Have Camera]
+Type = Gameshark
+Activation = EndFrame
+800B7572 0001
+
+[Have 255 Rations]
+Type = Gameshark
+Activation = EndFrame
+800B7574 03E7
+800B758A 03E7
+
+[Have 255 Medicine]
+Type = Gameshark
+Activation = EndFrame
+800B7576 03E7
+800B758C 03E7
+
+[Have 255 Diazepam]
+Type = Gameshark
+Activation = EndFrame
+800B7578 03E7
+800B758E 03E7
+
+[Have Pal Key]
+Type = Gameshark
+Activation = EndFrame
+800B757A 0001
+
+[Have Level 10 Key Card]
+Type = Gameshark
+Activation = EndFrame
+800B757C 0064
+
+[Never Have Time Bomb]
+Type = Gameshark
+Activation = EndFrame
+800B757E 0000
+
+[Have Mine Detector]
+Type = Gameshark
+Activation = EndFrame
+800B7580 0001
+
+[Have Mo Disc]
+Type = Gameshark
+Activation = EndFrame
+800B7582 0001
+
+[Have Rope]
+Type = Gameshark
+Activation = EndFrame
+800B7584 0001
+
+[Have Handker]
+Type = Gameshark
+Activation = EndFrame
+800B7586 0001
+
+[Have Suppressor Active]
+Type = Gameshark
+Activation = EndFrame
+800B7588 0000
+
+[Press R1 For Normal Pal Key]
+Type = Gameshark
+Activation = EndFrame
+D00B2D58 0008
+800B7592 0000
+
+[Press R2 For Hot Pal Key]
+Type = Gameshark
+Activation = EndFrame
+D00B2D58 0002
+800B7592 0001
+
+[Press L1 For Cold Pal Key]
+Type = Gameshark
+Activation = EndFrame
+D00B2D58 0004
+800B7592 0002
+
+[Play In First Person Viewmode activate this code press L1+L2+R1+R2 and after that the triangle-button. To deactivate simply press triangle again.]
+Type = Gameshark
+Activation = EndFrame
+D00AE0C8 001F
+300AE1C8 0000
+
+[Pause doesn't darken screen or mute music]
+Type = Gameshark
+Activation = EndFrame
+A704BB22 10A01000
+A7087012 12001000
+
+[Stealth camo doesn't make you translucent]
+Type = Gameshark
+Activation = EndFrame
+A706381A 0C002400
+;#### PATCHES LISTED BELOW ####
+
+[Widescreen 16-9]
+Type = Gameshark
+Activation = EndFrame
+8001F6E0 4415
+8001F6E2 0800
+80011054 0000
+80011056 84A2
+80011058 0000
+8001105A 0000
+8001105C D883
+8001105E 0002
+80011060 1043
+80011062 0002
+80011064 1021
+80011066 005B
+80011068 0000
+8001106A A4A2
+8001106C 0004
+8001106E 84A2
+80011070 0000
+80011072 0000
+80011074 D883
+80011076 0002
+80011078 1043
+8001107A 0002
+8001107C 1021
+8001107E 005B
+80011080 0008
+80011082 03E0
+80011084 0004
+80011086 A4A2
+;#### PATCHES LISTED BELOW ####
+
+[FPS unlocker]
+Type = Gameshark
+Activation = EndFrame
+A701FD2A 0C021400
+

@@ -58,13 +58,13 @@ Activation = EndFrame
 800DFC70 0202
 ;#### PATCHES LISTED BELOW ####
 
-[Select Widescreen Aspect Ratio\16:9]
+[Select Widescreen Aspect Ratio\16-9]
 Type = Gameshark
 Activation = EndFrame
 Ignore = True
 A70AF0A0 10000C00
 
-[Select Widescreen Aspect Ratio\20:9]
+[Select Widescreen Aspect Ratio\20-9]
 Type = Gameshark
 Activation = EndFrame
 Ignore = True

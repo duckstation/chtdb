@@ -14,14 +14,15 @@ Activation = EndFrame
 [Equipo\Temperatura tarjeta PAL]
 Type = Gameshark
 Activation = EndFrame
+800B5FAA 00??
 Option = Normal:0
 Option = Frio:2
 Option = Caliente:1
-800B5FAA 00??
 
 [Equipo\Tarjeta ID]
 Type = Gameshark
 Activation = EndFrame
+800B5F94 00??
 Option = Nivel 1:1
 Option = Nivel 2:2
 Option = Nivel 3:3
@@ -29,7 +30,6 @@ Option = Nivel 4:4
 Option = Nivel 5:5
 Option = Nivel 6:6
 Option = Nivel 7:7
-800B5F94 00??
 
 [Equipo\Detector de minas]
 Type = Gameshark
@@ -238,3 +238,4 @@ Activation = EndFrame
 300B5FD0 0000
 300B5FD6 0000
 800B5FD8 0000
+

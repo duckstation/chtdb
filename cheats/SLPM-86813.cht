@@ -69,22 +69,24 @@ Activation = EndFrame
 Description = Affects how citizens talk to Rock, shop prices, etc.
 Type = Gameshark
 Activation = EndFrame
+8009CAE0 ????
 Option = Neutral:0
 Option = Liked:32767
 Option = Hated:32768
-8009CAE0 ????
 
 [Set Roll's Affection]
 Description = Needs the Flutter repaired, and an affection change to trigger Roll's event.
 Type = Gameshark
 Activation = EndFrame
+8009CAE2 ????
 Option = Neutral:0
 Option = Liked:32767
 Option = Hated:32768
-8009CAE2 ????
 
-[Time is 00:00:00]
+[Time is 00]
+Description = 00
 Type = Gameshark
 Activation = EndFrame
 8009CAC0 0000
 8009CAC2 0000
+

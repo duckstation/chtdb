@@ -1,16 +1,73 @@
 ; CHTDB: ; [ Krazy Ivan (USA) (1996) (Psygnosis) {SCUS-94303} <krazyivn> ]
 
+[Full Cheat Mode]
+Type = Gameshark
+Activation = EndFrame
+800BB078 00FF
+
+[Infinite 50mm]
+Type = Gameshark
+Activation = EndFrame
+8008D1A4 012C
+
+[Infinite Cannon]
+Type = Gameshark
+Activation = EndFrame
+8008D1B0 0046
+
+[Infinite Cerebus Missiles]
+Type = Gameshark
+Activation = EndFrame
+8008D1E0 000A
+8008D1E4 000A
+8008D1E8 000A
+
+[Infinite EM Pulse]
+Type = Gameshark
+Activation = EndFrame
+8008D1C0 0009
+
+[Infinite Hyena Missiles]
+Type = Gameshark
+Activation = EndFrame
+8008D1D8 000A
+
+[Infinite Kraken]
+Type = Gameshark
+Activation = EndFrame
+8008D1C4 0009
+
+[Infinite Labor]
+Type = Gameshark
+Activation = EndFrame
+8008D1A8 00FA
+
+[Infinite Medusa]
+Type = Gameshark
+Activation = EndFrame
+8008D1C8 0009
+
 [Infinite Missiles]
 Type = Gameshark
 Activation = EndFrame
 8008D1D4 0063
 
-[Infinite Shields 1st mission]
+[Infinite Plasma]
+Type = Gameshark
+Activation = EndFrame
+8008D1AC 003C
+
+[Infinite Scythe]
+Type = Gameshark
+Activation = EndFrame
+8008D1B4 0009
+
+[Infinite Shields 1st Mission]
 Type = Gameshark
 Activation = EndFrame
 800C4D0C 0064
 
-[Infinite Shields ALTERNATE]
+[Infinite Shields]
 Type = Gameshark
 Activation = EndFrame
 800C4CD0 0064
@@ -27,55 +84,67 @@ Type = Gameshark
 Activation = EndFrame
 800C4CF2 0009
 
+[Infinite ULF Pulse]
+Type = Gameshark
+Activation = EndFrame
+8008D1BC 0009
+
+[Infinite Vortex Bombs]
+Type = Gameshark
+Activation = EndFrame
+8008D1B8 0009
+
+[Arena\All Arenas Unlocked]
+Type = Gameshark
+Activation = EndFrame
+50000504 0000
+80089628 0000
+
+[Arena\France Unlocked]
+Type = Gameshark
+Activation = EndFrame
+30089630 0000
+
+[Arena\Japan Unlocked]
+Type = Gameshark
+Activation = EndFrame
+30089638 0000
+
+[Arena\North America Unlocked]
+Type = Gameshark
+Activation = EndFrame
+30089634 0000
+
+[Arena\Saudi Arabia Unlocked]
+Type = Gameshark
+Activation = EndFrame
+3008962C 0000
+
+[Cannon Coolant]
+Type = Gameshark
+Activation = EndFrame
+800D1C6C 0000
+
+[Max Energy Cores]
+Type = Gameshark
+Activation = EndFrame
+80089670 00D0
+
 [Never Overheat]
 Type = Gameshark
 Activation = EndFrame
 800D1CB8 0000
 
-[Full Cheat Mode]
-Type = Gameshark
-Activation = EndFrame
-800BB078 00FF
-
-[Select Level\Japan (JAPTEX)]
+[Select Terrain (All Arenas)]
 Type = Gameshark
 Activation = EndFrame
 50000704 0000
-8008D5D8 0DFC
-
-[Select Level\North America (USA)]
-Type = Gameshark
-Activation = EndFrame
-50000704 0000
-8008D5D8 0E0C
-
-[Select Level\France (EUROPE)]
-Type = Gameshark
-Activation = EndFrame
-50000704 0000
-8008D5D8 0E18
-
-[Select Level\Saudi Arabia (MIDDLE)]
-Type = Gameshark
-Activation = EndFrame
-50000704 0000
-8008D5D8 0E28
-
-[Select Level\Russia (RUSSIA)]
-Type = Gameshark
-Activation = EndFrame
-50000704 0000
-8008D5D8 0E38
-
-[Select Level\Secret]
-Type = Gameshark
-Activation = EndFrame
-50000704 0000
-8008D5D8 0DEC
-
-[Select Level\fIN]
-Type = Gameshark
-Activation = EndFrame
-50000704 0000
-8008D5D8 0DE0
+8008D5D8 ????
+Option = Fin:0x0DE0
+Option = Secret:0x0DEC
+Option = Japan (JAPTEX):0x0DFC
+Option = North America (USA):0x0E0C
+Option = France (EUROPE):0x0E18
+Option = Saudi Arabia (MIDDLE):0x0E28
+Option = Russia (RUSSIA):0x0E38
 

@@ -1,22 +1,225 @@
 ; CHTDB: ; [ Off-World Interceptor Extreme (USA) (1995) (Crystal Dynamics) {SLUS-00020} <offworld> ]
 
-[Infinite Money]
+[Infinite Airstrikes]
 Type = Gameshark
 Activation = EndFrame
-900CD878 002DC6C0
+300CD874 0063
+
+[Infinite Clones]
+Type = Gameshark
+Activation = EndFrame
+800CD876 0163
+
+[Infinite Jump Jets]
+Type = Gameshark
+Activation = EndFrame
+300B812D 007F
 
 [Infinite Missiles used only one at a time]
 Type = Gameshark
 Activation = EndFrame
 800CD872 1E0A
 
+[Infinite Money]
+Type = Gameshark
+Activation = EndFrame
+900CD878 002DC6C0
+
 [Infinite Nitros used only one at a time]
 Type = Gameshark
 Activation = EndFrame
 800CD870 1E01
 
-[Infinite Clones]
+[Infinite Plasma]
 Type = Gameshark
 Activation = EndFrame
-800CD876 0163
+300CD872 0063
+
+[All Items & Upgrades are Free]
+Type = Gameshark
+Activation = EndFrame
+900C87D8 00000000
+
+[All Vehicles Are Free]
+Type = Gameshark
+Activation = EndFrame
+800D1144 0001
+800D114C 0001
+800D1154 0001
+800D115C 0001
+800D1164 0001
+800D116C 0001
+
+[Hold X For Infinite Shields]
+Type = Gameshark
+Activation = EndFrame
+D00AE166 BFFF
+301524EE 00FF
+
+[Jump Much Higher]
+Type = Gameshark
+Activation = EndFrame
+300B812C 007F
+
+[Select Vehicle]
+Type = Gameshark
+Activation = EndFrame
+300CD875 00??
+Option = Vindicator 32000:0x00
+Option = Interceptor:0x01
+Option = Roadkill 409:0x02
+Option = Violator:0x03
+Option = Abductor:0x04
+Option = VV Sector:0x05
+Option = FROZE:0x06
+
+[Vehicle Abductor Upgrade\Max Upgrade - Engine]
+Type = Gameshark
+Activation = EndFrame
+300D1167 0007
+
+[Vehicle Abductor Upgrade\Max Upgrade - Gyros]
+Type = Gameshark
+Activation = EndFrame
+300D1168 0007
+
+[Vehicle Abductor Upgrade\Max Upgrade - Jump Jets]
+Type = Gameshark
+Activation = EndFrame
+300D116A 0007
+
+[Vehicle Abductor Upgrade\Max Upgrade - Shields]
+Type = Gameshark
+Activation = EndFrame
+300D1166 0007
+
+[Vehicle Abductor Upgrade\Max Upgrade - Tires]
+Type = Gameshark
+Activation = EndFrame
+300D1169 0007
+
+[Vehicle Interceptor Upgrade\Max Upgrade - Engine]
+Type = Gameshark
+Activation = EndFrame
+300D114F 0007
+
+[Vehicle Interceptor Upgrade\Max Upgrade - Gyros]
+Type = Gameshark
+Activation = EndFrame
+300D1150 0007
+
+[Vehicle Interceptor Upgrade\Max Upgrade - Jump Jets]
+Type = Gameshark
+Activation = EndFrame
+300D1152 0007
+
+[Vehicle Interceptor Upgrade\Max Upgrade - Shields]
+Type = Gameshark
+Activation = EndFrame
+300D114E 0007
+
+[Vehicle Interceptor Upgrade\Max Upgrade - Tires]
+Type = Gameshark
+Activation = EndFrame
+300D1151 0007
+
+[Vehicle Roadkill 409 Upgrade\Max Upgrade - Engine]
+Type = Gameshark
+Activation = EndFrame
+300D1157 0007
+
+[Vehicle Roadkill 409 Upgrade\Max Upgrade - Gyros]
+Type = Gameshark
+Activation = EndFrame
+300D1158 0007
+
+[Vehicle Roadkill 409 Upgrade\Max Upgrade - Jump Jets]
+Type = Gameshark
+Activation = EndFrame
+300D115A 0007
+
+[Vehicle Roadkill 409 Upgrade\Max Upgrade - Shields]
+Type = Gameshark
+Activation = EndFrame
+300D1156 0007
+
+[Vehicle Roadkill 409 Upgrade\Max Upgrade - Tires]
+Type = Gameshark
+Activation = EndFrame
+300D1159 0007
+
+[Vehicle VV Sector Upgrade\Max Upgrade - Engine]
+Type = Gameshark
+Activation = EndFrame
+300D116F 0007
+
+[Vehicle VV Sector Upgrade\Max Upgrade - Gyros]
+Type = Gameshark
+Activation = EndFrame
+300D1170 0007
+
+[Vehicle VV Sector Upgrade\Max Upgrade - Jump Jets]
+Type = Gameshark
+Activation = EndFrame
+300D1172 0007
+
+[Vehicle VV Sector Upgrade\Max Upgrade - Shields]
+Type = Gameshark
+Activation = EndFrame
+300D116E 0007
+
+[Vehicle VV Sector Upgrade\Max Upgrade - Tires]
+Type = Gameshark
+Activation = EndFrame
+300D1171 0007
+
+[Vehicle Vindicator 32000 Upgrade\Max Upgrade - Engine]
+Type = Gameshark
+Activation = EndFrame
+300D1147 0007
+
+[Vehicle Vindicator 32000 Upgrade\Max Upgrade - Gyros]
+Type = Gameshark
+Activation = EndFrame
+300D1148 0007
+
+[Vehicle Vindicator 32000 Upgrade\Max Upgrade - Jump Jets]
+Type = Gameshark
+Activation = EndFrame
+300D114A 0007
+
+[Vehicle Vindicator 32000 Upgrade\Max Upgrade - Shields]
+Type = Gameshark
+Activation = EndFrame
+300D1146 0007
+
+[Vehicle Vindicator 32000 Upgrade\Max Upgrade - Tires]
+Type = Gameshark
+Activation = EndFrame
+300D1149 0007
+
+[Vehicle Violator Upgrade\Max Upgrade - Engine]
+Type = Gameshark
+Activation = EndFrame
+300D115F 0007
+
+[Vehicle Violator Upgrade\Max Upgrade - Gyros]
+Type = Gameshark
+Activation = EndFrame
+300D1160 0007
+
+[Vehicle Violator Upgrade\Max Upgrade - Jump Jets]
+Type = Gameshark
+Activation = EndFrame
+300D1162 0007
+
+[Vehicle Violator Upgrade\Max Upgrade - Shields]
+Type = Gameshark
+Activation = EndFrame
+300D115E 0007
+
+[Vehicle Violator Upgrade\Max Upgrade - Tires]
+Type = Gameshark
+Activation = EndFrame
+300D1161 0007
 

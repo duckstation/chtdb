@@ -435,9 +435,9 @@ A7016A84 80000000
 00000000 FFFF
 
 [Choosing the music in race]
+Description = Press Select to change the song in the race
 Type = Gameshark
 Activation = EndFrame
-Description = Press Select to change the song in the race
 D0029B28 02E9
 80029B28 3FA8
 D0029B2A 9202
@@ -473,3 +473,4 @@ D0029B2A 9202
 8000FEFA 3417
 8000FEFC A6CB
 8000FEFE 0800
+

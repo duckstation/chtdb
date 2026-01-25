@@ -3,6 +3,11 @@
 [Infinite Ammo]
 Type = Gameshark
 Activation = EndFrame
+300662D2 0001
+
+[Infinite Ammo [ALT]]
+Type = Gameshark
+Activation = EndFrame
 80059A6C 0063
 80059A78 0063
 
@@ -16,80 +21,119 @@ Type = Gameshark
 Activation = EndFrame
 80019DD8 0064
 
-[Have Red Key]
-Type = Gameshark
-Activation = EndFrame
-800519C8 0001
-
-[Have Green Key]
-Type = Gameshark
-Activation = EndFrame
-800519CA 0001
-
-[Have Blue Key]
-Type = Gameshark
-Activation = EndFrame
-800519CC 0001
-
-[Have Yellow Key]
-Type = Gameshark
-Activation = EndFrame
-800519CE 0001
-
-[Have Purple Key]
-Type = Gameshark
-Activation = EndFrame
-800519D0 0001
-
-[Have Light Blue Key]
-Type = Gameshark
-Activation = EndFrame
-800519D2 0001
-
 [Infinite Grenades]
 Type = Gameshark
 Activation = EndFrame
 80019DEE 0001
 
-[Have Double Shot]
+[Infinite HPS (Health)]
 Type = Gameshark
 Activation = EndFrame
-80019DE2 0001
-
-[Have Rapid Fire]
-Type = Gameshark
-Activation = EndFrame
-80019DE4 0001
-
-[Have Burst Laser]
-Type = Gameshark
-Activation = EndFrame
-80019DEA 0001
+300662D6 0001
 
 [Infinite Laser Power]
 Type = Gameshark
 Activation = EndFrame
 80059A70 0014
 
-[Have All Weapons Option (Pause Menu)]
+[Infinite Missiles]
+Type = Gameshark
+Activation = EndFrame
+8003B5C4 0004
+80059A7A 0004
+
+[Infinite Sprint]
+Type = Gameshark
+Activation = EndFrame
+80019DDC 0046
+
+[No Damage Screen Effects]
+Type = Gameshark
+Activation = EndFrame
+80055B50 0000
+8006629A 0000
+8006629C 0000
+8006629E 0000
+
+[Cannot Be Frozen]
+Type = Gameshark
+Activation = EndFrame
+800595D0 FFFF
+
+[Faster Level Warp Menu Navigation]
+Type = Gameshark
+Activation = EndFrame
+800662E2 0000
+
+[Always have All Weapons Option (Pause Menu)]
 Type = Gameshark
 Activation = EndFrame
 800662CE 0001
 
-[Have Level Warp Option (Pause Menu)]
+[Always have Blue Key]
+Type = Gameshark
+Activation = EndFrame
+800519CC 0001
+
+[Always have Burst Laser]
+Type = Gameshark
+Activation = EndFrame
+80019DEA 0001
+
+[Always have Double Shot]
+Type = Gameshark
+Activation = EndFrame
+80019DE2 0001
+
+[Always have Dual Laser]
+Type = Gameshark
+Activation = EndFrame
+80019DE8 0001
+
+[Always have Green Key]
+Type = Gameshark
+Activation = EndFrame
+800519CA 0001
+
+[Always have Level Warp Option (Pause Menu)]
 Type = Gameshark
 Activation = EndFrame
 800662D0 0001
 
-[Infinite Ammo (Alt)]
+[Always have Light Blue Key]
 Type = Gameshark
 Activation = EndFrame
-300662D2 0001
+800519D2 0001
 
-[Infinite HPS (Health)]
+[Always have Missile]
 Type = Gameshark
 Activation = EndFrame
-300662D6 0001
+80019DEC 0001
+
+[Always have Purple Key]
+Type = Gameshark
+Activation = EndFrame
+800519D0 0001
+
+[Always have Rapid Fire]
+Type = Gameshark
+Activation = EndFrame
+80019DE4 0001
+
+[Always have Red Key]
+Type = Gameshark
+Activation = EndFrame
+800519C8 0001
+
+[Always have Yellow Key]
+Type = Gameshark
+Activation = EndFrame
+800519CE 0001
+
+[Always have Single Laser]
+Type = Gameshark
+Activation = EndFrame
+80019DE6 0001
 ;#Widescreen 16-9 Y-
 ;A702BC3E 10001333
 
