@@ -148,6 +148,13 @@
 ;* E3XXXXXX 00YY - 8-Bit If Greater Than, activate next code if (80XXXXXX)>0xYY
 ;* 20XXXXXX 00YY - 8-Bit Increment Once, Poke $80XXXXXX with ($80XXXXXX)+0xYY
 ;* 21XXXXXX 00YY - 8-Bit Decrement Once ,Poke $80XXXXXX with ($80XXXXXX)-0xYY
+;* A8XXXXXX YYZZ - 8-Bit If Equal To Write with Restore, if (80XXXXXX)==0xYY,
+;                      Poke $80XXXXXX with 0xZZ. On disabling the cheat
+;                      if (80XXXXXX)==0xZZ, Poke $80XXXXXX  with 0xYY. This can
+;                      be used for a ASM cheat that has poked dynamic memory with
+;                      less danger of crashing the game or for 16:9 cheats to go
+;                      back to 4:3 when disabled. This is a byte type sister to A7,
+;                      and just like the A7 type this is unique to DuckStation.
 ;
 ;  Copy Data Code Types
 ;  ********************
@@ -165,7 +172,7 @@
 ;  X0YYYYYY ZZZZZZZZ   addresses with a possible changing value.
 ;                    address_change = W ( 0 = increasing, 1 = decreasing)
 ;                    value_change = V ( 0 = increasing, 1 = decreasing)
-;                    poke_size = X0 (30-32 for byte, 80-82 for word or 90-92 for longword)
+;                    poke_size = X0 (30 for byte, 80 for word or 90 for longword)
 ;                    start_address = YYYYYY
 ;                    start_value = ZZZZZZZZ
 ;                    number_of_addresses = PPPP (needs to be >02 to be worthwhile)
@@ -280,7 +287,7 @@
 ;  *******************
 ;  These codes utilise the internal global 256 32-bit cheat registers. As they
 ;  are global they will work across all cheats for a game so be careful not
-;  to re-use registers unintendingly. Type 51 codes can be used to copy and
+;  to re-use registers unintentionally. Type 51 codes can be used to copy and
 ;  manipulate register contents between registers and memory. Type 52 codes are
 ;  block conditionals that you can test the registers with and branch accordingly.
 ;
@@ -321,6 +328,27 @@
 ;                      of (32-Bit address in Register YY + ZZZZZZZZ) and write it
 ;                      to Register XX.
 ;                      u8Poke RegXX, (RegYY + ZZZZZZZZ)
+;* 510700XX YYYY00ZZ - 8-Bit Indirect Register Write of an Array of Arrays element.
+;                      It will require four consecutive cht registers to be set up in a
+;                      separate cheat for it to do anything.
+;                      XX will be the 1st of 4 consecutive cht registers that will be used.
+;                      YYYY will be the index of the array to be changed
+;                      ZZ will be the value to poke
+; Example:
+; #Technique Slot Modifier\*MASTER* Select Slot No. (1 - 1349) for following cheats
+; 518500F1 001CF3C3  <- F1 is the the base cheat register, 1CF3C3 is the address of the first address in Slot 1
+; 514500F2 0000000F  <- F2 = F1 + 1, 0F is the difference between the 1st addresses of Slot 1 & Slot 2
+; 514500F3 0000????  <- F3 = F1 + 2,  ???? is the select value,
+; 514500F4 0000D0D0  <- F4 = F1 + 3, this must always be D0D0 as it ensures the next cheat only works if this cheat has
+;                       been enabled at least once
+; OptionRange = 1:1349
+; #Technique Slot Modifier\Select Technique 6
+; 510700F1 000D00??  <-- F1 is the base cheat register as above, and 000D = address offset, so 1CF3C3 + 000D for Slot 1
+;                        or indeed 1CF3C3 + (0xF * 1349) + 000D for Slot 1349 (this automatically calculated, so you
+;                        only have to worry about 000D).
+; OptionRange = 0x00:0xFF
+; Note: Make sure you use cht registers not used by other cheats in chtdb.txt, here I've used F1-F4 I could have equally
+;       have used 01-04, 10-13, 8D-90 or FC-FF or pretty much any 4 cht registers
 ;
 ; 16 BIT operations:
 ; ==================
@@ -346,6 +374,13 @@
 ;                      of (32-Bit address in Register YY + ZZZZZZZZ) and write it
 ;                      to Register XX.
 ;                      u16Poke RegXX, (RegYY + ZZZZZZZZ)
+;* 514700XX YYYYZZZZ - 16-Bit Indirect Register Write of an Array of Arrays element.
+;                      It will require four consecutive cht registers to be set up in a
+;                      separate cheat for it to do anything.
+;                      XX will be the 1st of 4 consecutive cht registers that will be used.
+;                      YYYY will be the index of the array to be changed
+;                      ZZZZ will be the value to poke
+;                      See type 5107 for an example - just replace 510700F1 000000?? with 514700F1 0000????
 ;
 ; 32 BIT operations:
 ; ==================
@@ -373,6 +408,7 @@
 ;                      of (32-Bit address in Register YY + ZZZZZZZZ) and write it
 ;                      to Register XX.
 ;                      u32Poke RegXX, (RegYY + ZZZZZZZZ)
+;* 5187.... ........ - Not in use, utilise 2 * 5147 cheats
 ;
 ; Generic Register Operations:
 ; ============================
