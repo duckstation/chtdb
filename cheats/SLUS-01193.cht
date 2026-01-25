@@ -405,31 +405,11 @@ Type = Gameshark
 Activation = EndFrame
 8005E64A 270F
 
-[Select Widescreen Aspect Ratio\16-9]
-Type = Gameshark
-Activation = EndFrame
-A7061A28 10000C00
-
-[Select Widescreen Aspect Ratio\20-9]
-Type = Gameshark
-Activation = EndFrame
-A7061A28 10000900
-
-[Select Widescreen Aspect Ratio\Eye Infinity]
-Type = Gameshark
-Activation = EndFrame
-A7061A28 10000400
-
-[Select Widescreen Aspect Ratio\true widescreen fix]
-Description = expands the game beyond eye infinity
-Type = Gameshark
-Activation = EndFrame
-A7001BAC 10000400
-
 [1st Digimon\Digimon modifier]
 Description = Choose any digimon/boss you want!
 Type = Gameshark
 Activation = EndFrame
+3005E705 00??
 Option = Agumon:3
 Option = Betamon:4
 Option = Greymon:5
@@ -636,12 +616,12 @@ Option = (OVERLORD_GAIA LEFT ARM & HAND 1):252
 Option = (OVERLORD_GAIA RIGHT HAND & HAND 2):253
 Option = (Overlord GAIA Form 1) (Final Boss):254
 Option = (Overlord GAIA Form 2) (Final Boss):255
-3005E705 00??
 
 [2nd Digimon\Digimon modifier]
 Description = Choose any digimon/boss you want!
 Type = Gameshark
 Activation = EndFrame
+3005E761 00??
 Option = Agumon:3
 Option = Betamon:4
 Option = Greymon:5
@@ -848,12 +828,12 @@ Option = (OVERLORD_GAIA LEFT ARM & HAND 1):252
 Option = (OVERLORD_GAIA RIGHT HAND & HAND 2):253
 Option = (Overlord GAIA Form 1) (Final Boss):254
 Option = (Overlord GAIA Form 2) (Final Boss):255
-3005E761 00??
 
 [3rd Digimon\Digimon modifier]
 Description = Choose any digimon/boss you want!
 Type = Gameshark
 Activation = EndFrame
+3005E7BD 00??
 Option = Agumon:3
 Option = Betamon:4
 Option = Greymon:5
@@ -1060,12 +1040,12 @@ Option = (OVERLORD_GAIA LEFT ARM & HAND 1):252
 Option = (OVERLORD_GAIA RIGHT HAND & HAND 2):253
 Option = (Overlord GAIA Form 1) (Final Boss):254
 Option = (Overlord GAIA Form 2) (Final Boss):255
-3005E7BD 00??
 
 [4th Digimon\Digimon modifier]
 Description = Choose any digimon/boss you want!
 Type = Gameshark
 Activation = EndFrame
+3005E819 00??
 Option = Agumon:3
 Option = Betamon:4
 Option = Greymon:5
@@ -1272,12 +1252,12 @@ Option = (OVERLORD_GAIA LEFT ARM & HAND 1):252
 Option = (OVERLORD_GAIA RIGHT HAND & HAND 2):253
 Option = (Overlord GAIA Form 1) (Final Boss):254
 Option = (Overlord GAIA Form 2) (Final Boss):255
-3005E819 00??
 
 [5th Digimon\Digimon modifier]
 Description = Choose any digimon/boss you want!
 Type = Gameshark
 Activation = EndFrame
+3005E875 00??
 Option = Agumon:3
 Option = Betamon:4
 Option = Greymon:5
@@ -1484,12 +1464,12 @@ Option = (OVERLORD_GAIA LEFT ARM & HAND 1):252
 Option = (OVERLORD_GAIA RIGHT HAND & HAND 2):253
 Option = (Overlord GAIA Form 1) (Final Boss):254
 Option = (Overlord GAIA Form 2) (Final Boss):255
-3005E875 00??
 
 [6th Digimon\Digimon modifier]
 Description = Choose any digimon/boss you want!
 Type = Gameshark
 Activation = EndFrame
+3005E8D1 00??
 Option = Agumon:3
 Option = Betamon:4
 Option = Greymon:5
@@ -1696,12 +1676,12 @@ Option = (OVERLORD_GAIA LEFT ARM & HAND 1):252
 Option = (OVERLORD_GAIA RIGHT HAND & HAND 2):253
 Option = (Overlord GAIA Form 1) (Final Boss):254
 Option = (Overlord GAIA Form 2) (Final Boss):255
-3005E8D1 00??
 
 [1st Digimon\1st attack modifier]
 Description = Choose the 1st move of your digimon!
 Type = Gameshark
 Activation = EndFrame
+3005E726 00??
 Option = Nothing:0
 Option = Poison Ivy:1
 Option = Rain Of Pollen:2
@@ -1914,12 +1894,12 @@ Option = Right Hand:248
 Option = Destabilizer Ray:249
 Option = Shadow Scythe(0 MP):251
 Option = Poison Wing:252
-3005E726 00??
 
 [1st Digimon\2nd attack modifier]
 Description = Choose the 2nd move of your digimon!
 Type = Gameshark
 Activation = EndFrame
+3005E727 00??
 Option = Nothing:0
 Option = Poison Ivy:1
 Option = Rain Of Pollen:2
@@ -2132,12 +2112,12 @@ Option = Right Hand:248
 Option = Destabilizer Ray:249
 Option = Shadow Scythe(0 MP):251
 Option = Poison Wing:252
-3005E727 00??
 
 [1st Digimon\3rd attack modifier]
 Description = Choose the 3rd move of your digimon!
 Type = Gameshark
 Activation = EndFrame
+3005E728 00??
 Option = Nothing:0
 Option = Poison Ivy:1
 Option = Rain Of Pollen:2
@@ -2350,12 +2330,12 @@ Option = Right Hand:248
 Option = Destabilizer Ray:249
 Option = Shadow Scythe(0 MP):251
 Option = Poison Wing:252
-3005E728 00??
 
 [1st Digimon\4th attack modifier]
 Description = Choose the 4th move of your digimon!
 Type = Gameshark
 Activation = EndFrame
+3005E729 00??
 Option = Nothing:0
 Option = Poison Ivy:1
 Option = Rain Of Pollen:2
@@ -2568,12 +2548,12 @@ Option = Right Hand:248
 Option = Destabilizer Ray:249
 Option = Shadow Scythe(0 MP):251
 Option = Poison Wing:252
-3005E729 00??
 
 [1st Digimon\5th attack modifier]
 Description = Choose the 5th move of your digimon!
 Type = Gameshark
 Activation = EndFrame
+3005E72A 00??
 Option = Nothing:0
 Option = Poison Ivy:1
 Option = Rain Of Pollen:2
@@ -2786,12 +2766,12 @@ Option = Right Hand:248
 Option = Destabilizer Ray:249
 Option = Shadow Scythe(0 MP):251
 Option = Poison Wing:252
-3005E72A 00??
 
 [1st Digimon\6th attack modifier]
 Description = Choose the 6th move of your digimon!
 Type = Gameshark
 Activation = EndFrame
+3005E72B 00??
 Option = Nothing:0
 Option = Poison Ivy:1
 Option = Rain Of Pollen:2
@@ -3004,12 +2984,12 @@ Option = Right Hand:248
 Option = Destabilizer Ray:249
 Option = Shadow Scythe(0 MP):251
 Option = Poison Wing:252
-3005E72B 00??
 
 [1st Digimon\7th attack modifier]
 Description = Choose the 7th move of your digimon!
 Type = Gameshark
 Activation = EndFrame
+3005E72C 00??
 Option = Nothing:0
 Option = Poison Ivy:1
 Option = Rain Of Pollen:2
@@ -3222,12 +3202,12 @@ Option = Right Hand:248
 Option = Destabilizer Ray:249
 Option = Shadow Scythe(0 MP):251
 Option = Poison Wing:252
-3005E72C 00??
 
 [1st Digimon\8th attack modifier]
 Description = Choose the 8th move of your digimon!
 Type = Gameshark
 Activation = EndFrame
+3005E72D 00??
 Option = Nothing:0
 Option = Poison Ivy:1
 Option = Rain Of Pollen:2
@@ -3440,12 +3420,12 @@ Option = Right Hand:248
 Option = Destabilizer Ray:249
 Option = Shadow Scythe(0 MP):251
 Option = Poison Wing:252
-3005E72D 00??
 
 [1st Digimon\9th attack modifier]
 Description = Choose the 9th move of your digimon!
 Type = Gameshark
 Activation = EndFrame
+3005E72E 00??
 Option = Nothing:0
 Option = Poison Ivy:1
 Option = Rain Of Pollen:2
@@ -3658,12 +3638,12 @@ Option = Right Hand:248
 Option = Destabilizer Ray:249
 Option = Shadow Scythe(0 MP):251
 Option = Poison Wing:252
-3005E72E 00??
 
 [1st Digimon\10th attack modifier]
 Description = Choose the 10th move of your digimon!
 Type = Gameshark
 Activation = EndFrame
+3005E72F 00??
 Option = Nothing:0
 Option = Poison Ivy:1
 Option = Rain Of Pollen:2
@@ -3876,12 +3856,12 @@ Option = Right Hand:248
 Option = Destabilizer Ray:249
 Option = Shadow Scythe(0 MP):251
 Option = Poison Wing:252
-3005E72F 00??
 
 [1st Digimon\11th attack modifier]
 Description = Choose the 11th move of your digimon!
 Type = Gameshark
 Activation = EndFrame
+3005E730 00??
 Option = Nothing:0
 Option = Poison Ivy:1
 Option = Rain Of Pollen:2
@@ -4094,12 +4074,12 @@ Option = Right Hand:248
 Option = Destabilizer Ray:249
 Option = Shadow Scythe(0 MP):251
 Option = Poison Wing:252
-3005E730 00??
 
 [1st Digimon\12th attack modifier]
 Description = Choose the 12th move of your digimon!
 Type = Gameshark
 Activation = EndFrame
+3005E731 00??
 Option = Nothing:0
 Option = Poison Ivy:1
 Option = Rain Of Pollen:2
@@ -4312,12 +4292,12 @@ Option = Right Hand:248
 Option = Destabilizer Ray:249
 Option = Shadow Scythe(0 MP):251
 Option = Poison Wing:252
-3005E731 00??
 
 [2nd Digimon\1st attack modifier]
 Description = Choose the 1st move of your digimon!
 Type = Gameshark
 Activation = EndFrame
+3005E782 00??
 Option = Nothing:0
 Option = Poison Ivy:1
 Option = Rain Of Pollen:2
@@ -4530,12 +4510,12 @@ Option = Right Hand:248
 Option = Destabilizer Ray:249
 Option = Shadow Scythe(0 MP):251
 Option = Poison Wing:252
-3005E782 00??
 
 [2nd Digimon\2nd attack modifier]
 Description = Choose the 2nd move of your digimon!
 Type = Gameshark
 Activation = EndFrame
+3005E783 00??
 Option = Nothing:0
 Option = Poison Ivy:1
 Option = Rain Of Pollen:2
@@ -4748,12 +4728,12 @@ Option = Right Hand:248
 Option = Destabilizer Ray:249
 Option = Shadow Scythe(0 MP):251
 Option = Poison Wing:252
-3005E783 00??
 
 [2nd Digimon\3rd attack modifier]
 Description = Choose the 3rd move of your digimon!
 Type = Gameshark
 Activation = EndFrame
+3005E784 00??
 Option = Nothing:0
 Option = Poison Ivy:1
 Option = Rain Of Pollen:2
@@ -4966,12 +4946,12 @@ Option = Right Hand:248
 Option = Destabilizer Ray:249
 Option = Shadow Scythe(0 MP):251
 Option = Poison Wing:252
-3005E784 00??
 
 [2nd Digimon\4th attack modifier]
 Description = Choose the 4th move of your digimon!
 Type = Gameshark
 Activation = EndFrame
+3005E785 00??
 Option = Nothing:0
 Option = Poison Ivy:1
 Option = Rain Of Pollen:2
@@ -5184,12 +5164,12 @@ Option = Right Hand:248
 Option = Destabilizer Ray:249
 Option = Shadow Scythe(0 MP):251
 Option = Poison Wing:252
-3005E785 00??
 
 [2nd Digimon\5th attack modifier]
 Description = Choose the 5th move of your digimon!
 Type = Gameshark
 Activation = EndFrame
+3005E786 00??
 Option = Nothing:0
 Option = Poison Ivy:1
 Option = Rain Of Pollen:2
@@ -5402,12 +5382,12 @@ Option = Right Hand:248
 Option = Destabilizer Ray:249
 Option = Shadow Scythe(0 MP):251
 Option = Poison Wing:252
-3005E786 00??
 
 [2nd Digimon\6th attack modifier]
 Description = Choose the 6th move of your digimon!
 Type = Gameshark
 Activation = EndFrame
+3005E787 00??
 Option = Nothing:0
 Option = Poison Ivy:1
 Option = Rain Of Pollen:2
@@ -5620,12 +5600,12 @@ Option = Right Hand:248
 Option = Destabilizer Ray:249
 Option = Shadow Scythe(0 MP):251
 Option = Poison Wing:252
-3005E787 00??
 
 [2nd Digimon\7th attack modifier]
 Description = Choose the 7th move of your digimon!
 Type = Gameshark
 Activation = EndFrame
+3005E788 00??
 Option = Nothing:0
 Option = Poison Ivy:1
 Option = Rain Of Pollen:2
@@ -5838,12 +5818,12 @@ Option = Right Hand:248
 Option = Destabilizer Ray:249
 Option = Shadow Scythe(0 MP):251
 Option = Poison Wing:252
-3005E788 00??
 
 [2nd Digimon\8th attack modifier]
 Description = Choose the 8th move of your digimon!
 Type = Gameshark
 Activation = EndFrame
+3005E789 00??
 Option = Nothing:0
 Option = Poison Ivy:1
 Option = Rain Of Pollen:2
@@ -6056,12 +6036,12 @@ Option = Right Hand:248
 Option = Destabilizer Ray:249
 Option = Shadow Scythe(0 MP):251
 Option = Poison Wing:252
-3005E789 00??
 
 [2nd Digimon\9th attack modifier]
 Description = Choose the 9th move of your digimon!
 Type = Gameshark
 Activation = EndFrame
+3005E78A 00??
 Option = Nothing:0
 Option = Poison Ivy:1
 Option = Rain Of Pollen:2
@@ -6274,12 +6254,12 @@ Option = Right Hand:248
 Option = Destabilizer Ray:249
 Option = Shadow Scythe(0 MP):251
 Option = Poison Wing:252
-3005E78A 00??
 
 [2nd Digimon\10th attack modifier]
 Description = Choose the 10th move of your digimon!
 Type = Gameshark
 Activation = EndFrame
+3005E78B 00??
 Option = Nothing:0
 Option = Poison Ivy:1
 Option = Rain Of Pollen:2
@@ -6492,12 +6472,12 @@ Option = Right Hand:248
 Option = Destabilizer Ray:249
 Option = Shadow Scythe(0 MP):251
 Option = Poison Wing:252
-3005E78B 00??
 
 [2nd Digimon\11th attack modifier]
 Description = Choose the 11th move of your digimon!
 Type = Gameshark
 Activation = EndFrame
+3005E78C 00??
 Option = Nothing:0
 Option = Poison Ivy:1
 Option = Rain Of Pollen:2
@@ -6710,12 +6690,12 @@ Option = Right Hand:248
 Option = Destabilizer Ray:249
 Option = Shadow Scythe(0 MP):251
 Option = Poison Wing:252
-3005E78C 00??
 
 [2nd Digimon\12th attack modifier]
 Description = Choose the 12th move of your digimon!
 Type = Gameshark
 Activation = EndFrame
+3005E78D 00??
 Option = Nothing:0
 Option = Poison Ivy:1
 Option = Rain Of Pollen:2
@@ -6928,12 +6908,12 @@ Option = Right Hand:248
 Option = Destabilizer Ray:249
 Option = Shadow Scythe(0 MP):251
 Option = Poison Wing:252
-3005E78D 00??
 
 [3rd Digimon\1st attack modifier]
 Description = Choose the 1st move of your digimon!
 Type = Gameshark
 Activation = EndFrame
+3005E7DE 00??
 Option = Nothing:0
 Option = Poison Ivy:1
 Option = Rain Of Pollen:2
@@ -7146,12 +7126,12 @@ Option = Right Hand:248
 Option = Destabilizer Ray:249
 Option = Shadow Scythe(0 MP):251
 Option = Poison Wing:252
-3005E7DE 00??
 
 [3rd Digimon\2nd attack modifier]
 Description = Choose the 2nd move of your digimon!
 Type = Gameshark
 Activation = EndFrame
+3005E7DF 00??
 Option = Nothing:0
 Option = Poison Ivy:1
 Option = Rain Of Pollen:2
@@ -7364,12 +7344,12 @@ Option = Right Hand:248
 Option = Destabilizer Ray:249
 Option = Shadow Scythe(0 MP):251
 Option = Poison Wing:252
-3005E7DF 00??
 
 [3rd Digimon\3rd attack modifier]
 Description = Choose the 3rd move of your digimon!
 Type = Gameshark
 Activation = EndFrame
+3005E7E0 00??
 Option = Nothing:0
 Option = Poison Ivy:1
 Option = Rain Of Pollen:2
@@ -7582,12 +7562,12 @@ Option = Right Hand:248
 Option = Destabilizer Ray:249
 Option = Shadow Scythe(0 MP):251
 Option = Poison Wing:252
-3005E7E0 00??
 
 [3rd Digimon\4th attack modifier]
 Description = Choose the 4th move of your digimon!
 Type = Gameshark
 Activation = EndFrame
+3005E7E1 00??
 Option = Nothing:0
 Option = Poison Ivy:1
 Option = Rain Of Pollen:2
@@ -7800,12 +7780,12 @@ Option = Right Hand:248
 Option = Destabilizer Ray:249
 Option = Shadow Scythe(0 MP):251
 Option = Poison Wing:252
-3005E7E1 00??
 
 [3rd Digimon\5th attack modifier]
 Description = Choose the 5th move of your digimon!
 Type = Gameshark
 Activation = EndFrame
+3005E7E2 00??
 Option = Nothing:0
 Option = Poison Ivy:1
 Option = Rain Of Pollen:2
@@ -8018,12 +7998,12 @@ Option = Right Hand:248
 Option = Destabilizer Ray:249
 Option = Shadow Scythe(0 MP):251
 Option = Poison Wing:252
-3005E7E2 00??
 
 [3rd Digimon\6th attack modifier]
 Description = Choose the 6th move of your digimon!
 Type = Gameshark
 Activation = EndFrame
+3005E7E3 00??
 Option = Nothing:0
 Option = Poison Ivy:1
 Option = Rain Of Pollen:2
@@ -8236,12 +8216,12 @@ Option = Right Hand:248
 Option = Destabilizer Ray:249
 Option = Shadow Scythe(0 MP):251
 Option = Poison Wing:252
-3005E7E3 00??
 
 [3rd Digimon\7th attack modifier]
 Description = Choose the 7th move of your digimon!
 Type = Gameshark
 Activation = EndFrame
+3005E7E4 00??
 Option = Nothing:0
 Option = Poison Ivy:1
 Option = Rain Of Pollen:2
@@ -8454,12 +8434,12 @@ Option = Right Hand:248
 Option = Destabilizer Ray:249
 Option = Shadow Scythe(0 MP):251
 Option = Poison Wing:252
-3005E7E4 00??
 
 [3rd Digimon\8th attack modifier]
 Description = Choose the 8th move of your digimon!
 Type = Gameshark
 Activation = EndFrame
+3005E7E5 00??
 Option = Nothing:0
 Option = Poison Ivy:1
 Option = Rain Of Pollen:2
@@ -8672,12 +8652,12 @@ Option = Right Hand:248
 Option = Destabilizer Ray:249
 Option = Shadow Scythe(0 MP):251
 Option = Poison Wing:252
-3005E7E5 00??
 
 [3rd Digimon\9th attack modifier]
 Description = Choose the 9th move of your digimon!
 Type = Gameshark
 Activation = EndFrame
+3005E7E6 00??
 Option = Nothing:0
 Option = Poison Ivy:1
 Option = Rain Of Pollen:2
@@ -8890,12 +8870,12 @@ Option = Right Hand:248
 Option = Destabilizer Ray:249
 Option = Shadow Scythe(0 MP):251
 Option = Poison Wing:252
-3005E7E6 00??
 
 [3rd Digimon\10th attack modifier]
 Description = Choose the 10th move of your digimon!
 Type = Gameshark
 Activation = EndFrame
+3005E7E7 00??
 Option = Nothing:0
 Option = Poison Ivy:1
 Option = Rain Of Pollen:2
@@ -9108,12 +9088,12 @@ Option = Right Hand:248
 Option = Destabilizer Ray:249
 Option = Shadow Scythe(0 MP):251
 Option = Poison Wing:252
-3005E7E7 00??
 
 [3rd Digimon\11th attack modifier]
 Description = Choose the 11th move of your digimon!
 Type = Gameshark
 Activation = EndFrame
+3005E7E8 00??
 Option = Nothing:0
 Option = Poison Ivy:1
 Option = Rain Of Pollen:2
@@ -9326,12 +9306,12 @@ Option = Right Hand:248
 Option = Destabilizer Ray:249
 Option = Shadow Scythe(0 MP):251
 Option = Poison Wing:252
-3005E7E8 00??
 
 [3rd Digimon\12th attack modifier]
 Description = Choose the 12th move of your digimon!
 Type = Gameshark
 Activation = EndFrame
+3005E7E9 00??
 Option = Nothing:0
 Option = Poison Ivy:1
 Option = Rain Of Pollen:2
@@ -9544,12 +9524,12 @@ Option = Right Hand:248
 Option = Destabilizer Ray:249
 Option = Shadow Scythe(0 MP):251
 Option = Poison Wing:252
-3005E7E9 00??
 
 [4th Digimon\1st attack modifier]
 Description = Choose the 1st move of your digimon!
 Type = Gameshark
 Activation = EndFrame
+3005E83A 00??
 Option = Nothing:0
 Option = Poison Ivy:1
 Option = Rain Of Pollen:2
@@ -9762,12 +9742,12 @@ Option = Right Hand:248
 Option = Destabilizer Ray:249
 Option = Shadow Scythe(0 MP):251
 Option = Poison Wing:252
-3005E83A 00??
 
 [4th Digimon\2nd attack modifier]
 Description = Choose the 2nd move of your digimon!
 Type = Gameshark
 Activation = EndFrame
+3005E83B 00??
 Option = Nothing:0
 Option = Poison Ivy:1
 Option = Rain Of Pollen:2
@@ -9980,12 +9960,12 @@ Option = Right Hand:248
 Option = Destabilizer Ray:249
 Option = Shadow Scythe(0 MP):251
 Option = Poison Wing:252
-3005E83B 00??
 
 [4th Digimon\3rd attack modifier]
 Description = Choose the 3rd move of your digimon!
 Type = Gameshark
 Activation = EndFrame
+3005E83C 00??
 Option = Nothing:0
 Option = Poison Ivy:1
 Option = Rain Of Pollen:2
@@ -10198,12 +10178,12 @@ Option = Right Hand:248
 Option = Destabilizer Ray:249
 Option = Shadow Scythe(0 MP):251
 Option = Poison Wing:252
-3005E83C 00??
 
 [4th Digimon\4th attack modifier]
 Description = Choose the 4th move of your digimon!
 Type = Gameshark
 Activation = EndFrame
+3005E83D 00??
 Option = Nothing:0
 Option = Poison Ivy:1
 Option = Rain Of Pollen:2
@@ -10416,12 +10396,12 @@ Option = Right Hand:248
 Option = Destabilizer Ray:249
 Option = Shadow Scythe(0 MP):251
 Option = Poison Wing:252
-3005E83D 00??
 
 [4th Digimon\5th attack modifier]
 Description = Choose the 5th move of your digimon!
 Type = Gameshark
 Activation = EndFrame
+3005E83E 00??
 Option = Nothing:0
 Option = Poison Ivy:1
 Option = Rain Of Pollen:2
@@ -10634,12 +10614,12 @@ Option = Right Hand:248
 Option = Destabilizer Ray:249
 Option = Shadow Scythe(0 MP):251
 Option = Poison Wing:252
-3005E83E 00??
 
 [4th Digimon\6th attack modifier]
 Description = Choose the 6th move of your digimon!
 Type = Gameshark
 Activation = EndFrame
+3005E83F 00??
 Option = Nothing:0
 Option = Poison Ivy:1
 Option = Rain Of Pollen:2
@@ -10852,12 +10832,12 @@ Option = Right Hand:248
 Option = Destabilizer Ray:249
 Option = Shadow Scythe(0 MP):251
 Option = Poison Wing:252
-3005E83F 00??
 
 [4th Digimon\7th attack modifier]
 Description = Choose the 7th move of your digimon!
 Type = Gameshark
 Activation = EndFrame
+3005E840 00??
 Option = Nothing:0
 Option = Poison Ivy:1
 Option = Rain Of Pollen:2
@@ -11070,12 +11050,12 @@ Option = Right Hand:248
 Option = Destabilizer Ray:249
 Option = Shadow Scythe(0 MP):251
 Option = Poison Wing:252
-3005E840 00??
 
 [4th Digimon\8th attack modifier]
 Description = Choose the 8th move of your digimon!
 Type = Gameshark
 Activation = EndFrame
+3005E841 00??
 Option = Nothing:0
 Option = Poison Ivy:1
 Option = Rain Of Pollen:2
@@ -11288,12 +11268,12 @@ Option = Right Hand:248
 Option = Destabilizer Ray:249
 Option = Shadow Scythe(0 MP):251
 Option = Poison Wing:252
-3005E841 00??
 
 [4th Digimon\9th attack modifier]
 Description = Choose the 9th move of your digimon!
 Type = Gameshark
 Activation = EndFrame
+3005E842 00??
 Option = Nothing:0
 Option = Poison Ivy:1
 Option = Rain Of Pollen:2
@@ -11506,12 +11486,12 @@ Option = Right Hand:248
 Option = Destabilizer Ray:249
 Option = Shadow Scythe(0 MP):251
 Option = Poison Wing:252
-3005E842 00??
 
 [4th Digimon\10th attack modifier]
 Description = Choose the 10th move of your digimon!
 Type = Gameshark
 Activation = EndFrame
+3005E843 00??
 Option = Nothing:0
 Option = Poison Ivy:1
 Option = Rain Of Pollen:2
@@ -11724,12 +11704,12 @@ Option = Right Hand:248
 Option = Destabilizer Ray:249
 Option = Shadow Scythe(0 MP):251
 Option = Poison Wing:252
-3005E843 00??
 
 [4th Digimon\11th attack modifier]
 Description = Choose the 11th move of your digimon!
 Type = Gameshark
 Activation = EndFrame
+3005E844 00??
 Option = Nothing:0
 Option = Poison Ivy:1
 Option = Rain Of Pollen:2
@@ -11942,12 +11922,12 @@ Option = Right Hand:248
 Option = Destabilizer Ray:249
 Option = Shadow Scythe(0 MP):251
 Option = Poison Wing:252
-3005E844 00??
 
 [4th Digimon\12th attack modifier]
 Description = Choose the 12th move of your digimon!
 Type = Gameshark
 Activation = EndFrame
+3005E845 00??
 Option = Nothing:0
 Option = Poison Ivy:1
 Option = Rain Of Pollen:2
@@ -12160,12 +12140,12 @@ Option = Right Hand:248
 Option = Destabilizer Ray:249
 Option = Shadow Scythe(0 MP):251
 Option = Poison Wing:252
-3005E845 00??
 
 [5th Digimon\1st attack modifier]
 Description = Choose the 1st move of your digimon!
 Type = Gameshark
 Activation = EndFrame
+3005E896 00??
 Option = Nothing:0
 Option = Poison Ivy:1
 Option = Rain Of Pollen:2
@@ -12378,12 +12358,12 @@ Option = Right Hand:248
 Option = Destabilizer Ray:249
 Option = Shadow Scythe(0 MP):251
 Option = Poison Wing:252
-3005E896 00??
 
 [5th Digimon\2nd attack modifier]
 Description = Choose the 2nd move of your digimon!
 Type = Gameshark
 Activation = EndFrame
+3005E897 00??
 Option = Nothing:0
 Option = Poison Ivy:1
 Option = Rain Of Pollen:2
@@ -12596,12 +12576,12 @@ Option = Right Hand:248
 Option = Destabilizer Ray:249
 Option = Shadow Scythe(0 MP):251
 Option = Poison Wing:252
-3005E897 00??
 
 [5th Digimon\3rd attack modifier]
 Description = Choose the 3rd move of your digimon!
 Type = Gameshark
 Activation = EndFrame
+3005E898 00??
 Option = Nothing:0
 Option = Poison Ivy:1
 Option = Rain Of Pollen:2
@@ -12814,12 +12794,12 @@ Option = Right Hand:248
 Option = Destabilizer Ray:249
 Option = Shadow Scythe(0 MP):251
 Option = Poison Wing:252
-3005E898 00??
 
 [5th Digimon\4th attack modifier]
 Description = Choose the 4th move of your digimon!
 Type = Gameshark
 Activation = EndFrame
+3005E899 00??
 Option = Nothing:0
 Option = Poison Ivy:1
 Option = Rain Of Pollen:2
@@ -13032,12 +13012,12 @@ Option = Right Hand:248
 Option = Destabilizer Ray:249
 Option = Shadow Scythe(0 MP):251
 Option = Poison Wing:252
-3005E899 00??
 
 [5th Digimon\5th attack modifier]
 Description = Choose the 5th move of your digimon!
 Type = Gameshark
 Activation = EndFrame
+3005E89A 00??
 Option = Nothing:0
 Option = Poison Ivy:1
 Option = Rain Of Pollen:2
@@ -13250,12 +13230,12 @@ Option = Right Hand:248
 Option = Destabilizer Ray:249
 Option = Shadow Scythe(0 MP):251
 Option = Poison Wing:252
-3005E89A 00??
 
 [5th Digimon\6th attack modifier]
 Description = Choose the 6th move of your digimon!
 Type = Gameshark
 Activation = EndFrame
+3005E89B 00??
 Option = Nothing:0
 Option = Poison Ivy:1
 Option = Rain Of Pollen:2
@@ -13468,12 +13448,12 @@ Option = Right Hand:248
 Option = Destabilizer Ray:249
 Option = Shadow Scythe(0 MP):251
 Option = Poison Wing:252
-3005E89B 00??
 
 [5th Digimon\7th attack modifier]
 Description = Choose the 7th move of your digimon!
 Type = Gameshark
 Activation = EndFrame
+3005E89C 00??
 Option = Nothing:0
 Option = Poison Ivy:1
 Option = Rain Of Pollen:2
@@ -13686,12 +13666,12 @@ Option = Right Hand:248
 Option = Destabilizer Ray:249
 Option = Shadow Scythe(0 MP):251
 Option = Poison Wing:252
-3005E89C 00??
 
 [5th Digimon\8th attack modifier]
 Description = Choose the 8th move of your digimon!
 Type = Gameshark
 Activation = EndFrame
+3005E89D 00??
 Option = Nothing:0
 Option = Poison Ivy:1
 Option = Rain Of Pollen:2
@@ -13904,12 +13884,12 @@ Option = Right Hand:248
 Option = Destabilizer Ray:249
 Option = Shadow Scythe(0 MP):251
 Option = Poison Wing:252
-3005E89D 00??
 
 [5th Digimon\9th attack modifier]
 Description = Choose the 9th move of your digimon!
 Type = Gameshark
 Activation = EndFrame
+3005E89E 00??
 Option = Nothing:0
 Option = Poison Ivy:1
 Option = Rain Of Pollen:2
@@ -14122,12 +14102,12 @@ Option = Right Hand:248
 Option = Destabilizer Ray:249
 Option = Shadow Scythe(0 MP):251
 Option = Poison Wing:252
-3005E89E 00??
 
 [5th Digimon\10th attack modifier]
 Description = Choose the 10th move of your digimon!
 Type = Gameshark
 Activation = EndFrame
+3005E89F 00??
 Option = Nothing:0
 Option = Poison Ivy:1
 Option = Rain Of Pollen:2
@@ -14340,12 +14320,12 @@ Option = Right Hand:248
 Option = Destabilizer Ray:249
 Option = Shadow Scythe(0 MP):251
 Option = Poison Wing:252
-3005E89F 00??
 
 [5th Digimon\11th attack modifier]
 Description = Choose the 11th move of your digimon!
 Type = Gameshark
 Activation = EndFrame
+3005E8A0 00??
 Option = Nothing:0
 Option = Poison Ivy:1
 Option = Rain Of Pollen:2
@@ -14558,12 +14538,12 @@ Option = Right Hand:248
 Option = Destabilizer Ray:249
 Option = Shadow Scythe(0 MP):251
 Option = Poison Wing:252
-3005E8A0 00??
 
 [5th Digimon\12th attack modifier]
 Description = Choose the 12th move of your digimon!
 Type = Gameshark
 Activation = EndFrame
+3005E8A1 00??
 Option = Nothing:0
 Option = Poison Ivy:1
 Option = Rain Of Pollen:2
@@ -14776,12 +14756,12 @@ Option = Right Hand:248
 Option = Destabilizer Ray:249
 Option = Shadow Scythe(0 MP):251
 Option = Poison Wing:252
-3005E8A1 00??
 
 [6th Digimon\1st attack modifier]
 Description = Choose the 1st move of your digimon!
 Type = Gameshark
 Activation = EndFrame
+3005E8F2 00??
 Option = Nothing:0
 Option = Poison Ivy:1
 Option = Rain Of Pollen:2
@@ -14994,12 +14974,12 @@ Option = Right Hand:248
 Option = Destabilizer Ray:249
 Option = Shadow Scythe(0 MP):251
 Option = Poison Wing:252
-3005E8F2 00??
 
 [6th Digimon\2nd attack modifier]
 Description = Choose the 2nd move of your digimon!
 Type = Gameshark
 Activation = EndFrame
+3005E8F3 00??
 Option = Nothing:0
 Option = Poison Ivy:1
 Option = Rain Of Pollen:2
@@ -15212,12 +15192,12 @@ Option = Right Hand:248
 Option = Destabilizer Ray:249
 Option = Shadow Scythe(0 MP):251
 Option = Poison Wing:252
-3005E8F3 00??
 
 [6th Digimon\3rd attack modifier]
 Description = Choose the 3rd move of your digimon!
 Type = Gameshark
 Activation = EndFrame
+3005E8F4 00??
 Option = Nothing:0
 Option = Poison Ivy:1
 Option = Rain Of Pollen:2
@@ -15430,12 +15410,12 @@ Option = Right Hand:248
 Option = Destabilizer Ray:249
 Option = Shadow Scythe(0 MP):251
 Option = Poison Wing:252
-3005E8F4 00??
 
 [6th Digimon\4th attack modifier]
 Description = Choose the 4th move of your digimon!
 Type = Gameshark
 Activation = EndFrame
+3005E8F5 00??
 Option = Nothing:0
 Option = Poison Ivy:1
 Option = Rain Of Pollen:2
@@ -15648,12 +15628,12 @@ Option = Right Hand:248
 Option = Destabilizer Ray:249
 Option = Shadow Scythe(0 MP):251
 Option = Poison Wing:252
-3005E8F5 00??
 
 [6th Digimon\5th attack modifier]
 Description = Choose the 5th move of your digimon!
 Type = Gameshark
 Activation = EndFrame
+3005E8F6 00??
 Option = Nothing:0
 Option = Poison Ivy:1
 Option = Rain Of Pollen:2
@@ -15866,12 +15846,12 @@ Option = Right Hand:248
 Option = Destabilizer Ray:249
 Option = Shadow Scythe(0 MP):251
 Option = Poison Wing:252
-3005E8F6 00??
 
 [6th Digimon\6th attack modifier]
 Description = Choose the 6th move of your digimon!
 Type = Gameshark
 Activation = EndFrame
+3005E8F7 00??
 Option = Nothing:0
 Option = Poison Ivy:1
 Option = Rain Of Pollen:2
@@ -16084,12 +16064,12 @@ Option = Right Hand:248
 Option = Destabilizer Ray:249
 Option = Shadow Scythe(0 MP):251
 Option = Poison Wing:252
-3005E8F7 00??
 
 [6th Digimon\7th attack modifier]
 Description = Choose the 7th move of your digimon!
 Type = Gameshark
 Activation = EndFrame
+3005E8F8 00??
 Option = Nothing:0
 Option = Poison Ivy:1
 Option = Rain Of Pollen:2
@@ -16302,12 +16282,12 @@ Option = Right Hand:248
 Option = Destabilizer Ray:249
 Option = Shadow Scythe(0 MP):251
 Option = Poison Wing:252
-3005E8F8 00??
 
 [6th Digimon\8th attack modifier]
 Description = Choose the 8th move of your digimon!
 Type = Gameshark
 Activation = EndFrame
+3005E8F9 00??
 Option = Nothing:0
 Option = Poison Ivy:1
 Option = Rain Of Pollen:2
@@ -16520,12 +16500,12 @@ Option = Right Hand:248
 Option = Destabilizer Ray:249
 Option = Shadow Scythe(0 MP):251
 Option = Poison Wing:252
-3005E8F9 00??
 
 [6th Digimon\9th attack modifier]
 Description = Choose the 9th move of your digimon!
 Type = Gameshark
 Activation = EndFrame
+3005E8FA 00??
 Option = Nothing:0
 Option = Poison Ivy:1
 Option = Rain Of Pollen:2
@@ -16738,12 +16718,12 @@ Option = Right Hand:248
 Option = Destabilizer Ray:249
 Option = Shadow Scythe(0 MP):251
 Option = Poison Wing:252
-3005E8FA 00??
 
 [6th Digimon\10th attack modifier]
 Description = Choose the 10th move of your digimon!
 Type = Gameshark
 Activation = EndFrame
+3005E8FB 00??
 Option = Nothing:0
 Option = Poison Ivy:1
 Option = Rain Of Pollen:2
@@ -16956,12 +16936,12 @@ Option = Right Hand:248
 Option = Destabilizer Ray:249
 Option = Shadow Scythe(0 MP):251
 Option = Poison Wing:252
-3005E8FB 00??
 
 [6th Digimon\11th attack modifier]
 Description = Choose the 11th move of your digimon!
 Type = Gameshark
 Activation = EndFrame
+3005E8FC 00??
 Option = Nothing:0
 Option = Poison Ivy:1
 Option = Rain Of Pollen:2
@@ -17174,12 +17154,12 @@ Option = Right Hand:248
 Option = Destabilizer Ray:249
 Option = Shadow Scythe(0 MP):251
 Option = Poison Wing:252
-3005E8FC 00??
 
 [6th Digimon\12th attack modifier]
 Description = Choose the 12th move of your digimon!
 Type = Gameshark
 Activation = EndFrame
+3005E8FD 00??
 Option = Nothing:0
 Option = Poison Ivy:1
 Option = Rain Of Pollen:2
@@ -17392,7 +17372,6 @@ Option = Right Hand:248
 Option = Destabilizer Ray:249
 Option = Shadow Scythe(0 MP):251
 Option = Poison Wing:252
-3005E8FD 00??
 
 [deep hacks\all levels/sandbox mode]
 Description = start a new game. turn on this code. when Zudokorn takes you to Boot domain, choose ANY other (any of the final ones, for example Bug domain will do) find a zapper or acid floor, destroy the Zudokorn digibeetle, you will be send to the main gate, weird messages will pop out, exit main gate and you are done! the game has all the domains and bosses to befriends and battle over and over as regular non-moving enemies!!!
@@ -17440,9 +17419,10 @@ Activation = EndFrame
 3005E670 0077
 
 [deep hacks\Enemy Team Modifier]
-Description = turn this code on, but remember ANY enemy will become the Digimon/Boss team you select over and over. if you are following the story you can choose an easy enemy and will count as a Boss battle if you follow the story and wanna swap out the bosses for easy enemies. if on "Sandmode" this works to get different enemies battles with random enemies anywhere. IMPORTANT: if the enemies are marked with GUARD the enemy WILL NOT attack just guard. if maked with INVINCIBLE you cannot defeat it nor scape the battle. it softlocks the game into battle mode with a god mode enemy. useful for debug-hack tests i guess.
+Description = turn this code on, but remember ANY enemy will become the Digimon/Boss team you select over and over. if you are following the story you can choose an easy enemy and will count as a Boss battle if you follow the story and wanna swap out the bosses for easy enemies. if on "Sandmode" this works to get different enemies battles with random enemies anywhere. IMPORTANT
 Type = Gameshark
 Activation = EndFrame
+3005F794 00??
 Option = Gabumon (solo):1
 Option = Crabmon (solo):2
 Option = Patamon (solo):3
@@ -17640,144 +17620,137 @@ Option = MetalGreymon (Solo):201
 Option = Digitamamon - Deramon - Tankmon (BOSS Team):202
 Option = Raremon - Monzaemon - Ninjamon (BOSS Team):203
 Option = Tyrannomon (INVINCIBLE?):204
-3005F794 00??
 
 [1st Digimon\Current level modifier]
 Description = choose the level of your digimon. choose this or Max Level. if you leave it turn on will never level up!
 Type = Gameshark
 Activation = EndFrame
-OptionRange = 0:99
 3005E711 00??
+OptionRange = 0:99
 
 [1st Digimon\HP modifier]
 Description = choose the HP of your digimon. select THIS option OR infinite HP since the values are different and wont work.
 Type = Gameshark
 Activation = EndFrame
-OptionRange = 0:999
 8005E718 0???
 8005E71A 0???
+OptionRange = 0:999
 
 [1st Digimon\MP modifier]
 Description = choose the MP of your digimon. select THIS option OR infinite MP since the values are different and wont work.
 Type = Gameshark
 Activation = EndFrame
-OptionRange = 0:999
 8005E71C 0???
 8005E71E 0???
+OptionRange = 0:999
 
 [1st Digimon\ATTACK modifier]
 Description = choose the ATTACK of your digimon. select THIS option OR Max Attack since the values are different and wont work.
 Type = Gameshark
 Activation = EndFrame
-OptionRange = 0:999
 8005E720 0???
+OptionRange = 0:999
 
 [1st Digimon\DEFENSE modifier]
 Description = choose the DEFENSE of your digimon. select THIS option OR Max Defense since the values are different and wont work.
 Type = Gameshark
 Activation = EndFrame
-OptionRange = 0:999
 8005E722 0???
+OptionRange = 0:999
 
 [1st Digimon\SPEED modifier]
 Description = choose the SPEED of your digimon. select THIS option OR Max Speed since the values are different and wont work.
 Type = Gameshark
 Activation = EndFrame
-OptionRange = 0:999
 8005E724 0???
+OptionRange = 0:999
 
 [2nd Digimon\Current level modifier]
 Description = choose the level of your digimon. choose this or Max Level. if you leave it turn on will never level up!
 Type = Gameshark
 Activation = EndFrame
-OptionRange = 0:99
 3005E76D 00??
+OptionRange = 0:99
 
 [2nd Digimon\HP modifier]
 Description = choose the HP of your digimon. select THIS option OR infinite HP since the values are different and wont work.
 Type = Gameshark
 Activation = EndFrame
-OptionRange = 0:999
 8005E774 0???
 8005E776 0???
+OptionRange = 0:999
 
 [2nd Digimon\MP modifier]
 Description = choose the MP of your digimon. select THIS option OR infinite MP since the values are different and wont work.
 Type = Gameshark
 Activation = EndFrame
-OptionRange = 0:999
 8005E778 0???
 8005E77A 0???
+OptionRange = 0:999
 
 [2nd Digimon\ATTACK modifier]
 Description = choose the ATTACK of your digimon. select THIS option OR Max Attack since the values are different and wont work.
 Type = Gameshark
 Activation = EndFrame
-OptionRange = 0:999
 8005E77C 0???
+OptionRange = 0:999
 
 [2nd Digimon\DEFENSE modifier]
 Description = choose the DEFENSE of your digimon. select THIS option OR Max Defense since the values are different and wont work.
 Type = Gameshark
 Activation = EndFrame
+8005E7DA 0???
 OptionRange = 0:999
-8005E77E 0???
 
 [2nd Digimon\SPEED modifier]
 Description = choose the SPEED of your digimon. select THIS option OR Max Speed since the values are different and wont work.
 Type = Gameshark
 Activation = EndFrame
-OptionRange = 0:999
 8005E780 0???
+OptionRange = 0:999
 
 [3rd Digimon\Current level modifier]
 Description = choose the level of your digimon. choose this or Max Level. if you leave it turn on will never level up!
 Type = Gameshark
 Activation = EndFrame
-OptionRange = 0:99
 3005E7C9 00??
+OptionRange = 0:99
 
 [3rd Digimon\HP modifier]
 Description = choose the HP of your digimon. select THIS option OR infinite HP since the values are different and wont work.
 Type = Gameshark
 Activation = EndFrame
-OptionRange = 0:999
 8005E7D0 0???
 8005E7D2 0???
+OptionRange = 0:999
 
 [3rd Digimon\MP modifier]
 Description = choose the MP of your digimon. select THIS option OR infinite MP since the values are different and wont work.
 Type = Gameshark
 Activation = EndFrame
-OptionRange = 0:999
 8005E7D4 0???
-8005E7D6 0???      
+8005E7D6 0???
+OptionRange = 0:999
 
 [3rd Digimon\ATTACK modifier]
 Description = choose the ATTACK of your digimon. select THIS option OR Max Attack since the values are different and wont work.
 Type = Gameshark
 Activation = EndFrame
-OptionRange = 0:999
 8005E7D8 0???
-
-[2nd Digimon\DEFENSE modifier]
-Description = choose the DEFENSE of your digimon. select THIS option OR Max Defense since the values are different and wont work.
-Type = Gameshark
-Activation = EndFrame
 OptionRange = 0:999
-8005E7DA 0???
 
 [3rd Digimon\SPEED modifier]
 Description = choose the SPEED of your digimon. select THIS option OR Max Speed since the values are different and wont work.
 Type = Gameshark
 Activation = EndFrame
-OptionRange = 0:999
 8005E7DC 0???
+OptionRange = 0:999
 
 [deep hacks\DB Item slot 1]
 Description = change the loaded item in your DigiBettle storage. be warned every time you use one item on slot 1 will go from slot 2 and will get swapped for what you select here while its on.
 Type = Gameshark
 Activation = EndFrame
+8005E686 0???
 Option = Nothing:0
 Option = Wolf EG-1:1
 Option = Wolf EG-3:2
@@ -18010,12 +17983,12 @@ Option = AdmantBody:228
 Option = Tamer-Lic.:229
 Option = DB-Browser:230
 Option = GoldH-Mark:231
-8005E686 0???
 
 [deep hacks\DB Item slot 2]
 Description = change the loaded item in your DigiBettle storage. be warned every time you use one item on slot 1 or 2 will go from slot 3 and will get swapped for what you select here while its on.
 Type = Gameshark
 Activation = EndFrame
+8005E688 0???
 Option = Nothing:0
 Option = Wolf EG-1:1
 Option = Wolf EG-3:2
@@ -18248,12 +18221,12 @@ Option = AdmantBody:228
 Option = Tamer-Lic.:229
 Option = DB-Browser:230
 Option = GoldH-Mark:231
-8005E688 0???
 
 [deep hacks\DB Item slot 3]
 Description = change the loaded item in your DigiBettle storage. be warned every time you use one item on slot 1 to 3 will go from slot 4 and will get swapped for what you select here while its on.
 Type = Gameshark
 Activation = EndFrame
+8005E68A 0???
 Option = Nothing:0
 Option = Wolf EG-1:1
 Option = Wolf EG-3:2
@@ -18486,12 +18459,12 @@ Option = AdmantBody:228
 Option = Tamer-Lic.:229
 Option = DB-Browser:230
 Option = GoldH-Mark:231
-8005E68A 0???
 
 [deep hacks\DB Item slot 4]
 Description = change the loaded item in your DigiBettle storage. be warned every time you use one item on slot 1 to 4 will go from slot 5 and will get swapped for what you select here while its on.
 Type = Gameshark
 Activation = EndFrame
+8005E68C 0???
 Option = Nothing:0
 Option = Wolf EG-1:1
 Option = Wolf EG-3:2
@@ -18724,7 +18697,6 @@ Option = AdmantBody:228
 Option = Tamer-Lic.:229
 Option = DB-Browser:230
 Option = GoldH-Mark:231
-8005E68C 0???
 
 [deep hacks\Befriend Anyone!]
 Description = turn the code on. All the enemies will have the maximum friendship heart over their heads. you may befriends them (come to your party EVEN bosses) the last one defeated on 2 or 3 formations will be the one asking for friendship. for example if you have toyagumon x 3 and you defeat the center one in last place out of the 3, that one might ask for befriends (join you) credits to @DragonChalice
@@ -18740,3 +18712,26 @@ Activation = EndFrame
 8005E228 05A0
 8005E244 05A0
 8005E260 05A0
+;#### PATCHES LISTED BELOW ####
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A7061A28 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A7061A28 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A7061A28 10000400
+
+[Select Widescreen Aspect Ratio\true widescreen fix]
+Description = expands the game beyond eye infinity
+Type = Gameshark
+Activation = EndFrame
+A7001BAC 10000400
+

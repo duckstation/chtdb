@@ -1,5 +1,17 @@
 ; CHTDB: ; [ Super Bubble Pop (USA) (2002) (Jaleco USA) {SLUS-01528} <sbubblep> ]
 
+[Select Current Bubble Colour (L2 or R2)]
+Type = Gameshark
+Activation = EndFrame
+D7010002 02000001
+100F31CC 00000001
+A60F31CC 00060001
+00000000 0000FFFF
+D7010002 03000002
+110F31CC 00000001
+A60F31CC 00000005
+00000000 0000FFFF
+
 [Max Score]
 Type = Gameshark
 Activation = EndFrame

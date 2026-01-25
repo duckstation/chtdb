@@ -1,0 +1,15 @@
+; CHTDB: ; [ The Land Before Time - Big Water Adventure (USA) (2002) (TDK Mediactive) {SLUS-01481} <landbtbw> ]
+
+[Select Lily Pad]
+Type = Gameshark
+Activation = EndFrame
+80072548 00??
+OptionRange = 0x00:0xFF
+
+[Select Starting Lily Pad]
+Type = Gameshark
+Activation = EndFrame
+D0072548 0000
+80072548 00??
+OptionRange = 0x00:0xFF
+

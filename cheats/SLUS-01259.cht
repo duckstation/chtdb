@@ -1,0 +1,9 @@
+; CHTDB: ; [ Big Ol' Bass 2 (USA) (2000) (Konami of America) {SLUS-01259} <bigobas2> ]
+
+[Hook fish from anywhere "Press L3 when bait is underwater"]
+Type = Gameshark
+Activation = EndFrame
+A70369FA 24000620
+D7200000 00000200
+A70369FA 06202400
+

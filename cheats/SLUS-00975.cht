@@ -5,28 +5,8 @@ Type = Gameshark
 Activation = EndFrame
 8001E096 0063
 
-[Infinite Pk7 Ammo]
-Type = Gameshark
-Activation = EndFrame
-800EA846 000F
-
-[Infinite Assault Rifle Ammo]
-Type = Gameshark
-Activation = EndFrame
-800EA8B2 000F
-
-[Infinite Ammo Sniper Rifle]
-Type = Gameshark
-Activation = EndFrame
-800EA916 000F
-
-[Infinite Medikits]
-Type = Gameshark
-Activation = EndFrame
-800EA9DC 0007
-
 [Invincibility (All Missions)]
-Description = With this cheat, you need to die once first to activate it
+Description = With this cheat, you may need to die once first to activate it
 Type = Gameshark
 Activation = EndFrame
 A7025882 A0202400
@@ -43,54 +23,1047 @@ Activation = EndFrame
 50000A01 0000
 3001E07F 0001
 
-[Level 1 Infinite Energy]
+[Mission 01 (Outpost, Russian Border)\Always have Assault Rifle]
 Type = Gameshark
 Activation = EndFrame
-80118079 0258
-801F7A2D 0258
+800EA8A4 002C
 
-[Level 2 Infinite Energy]
+[Mission 01 (Outpost, Russian Border)\Always have Laser Designator]
 Type = Gameshark
 Activation = EndFrame
-801008AD 0258
+800EA96C 0027
 
-[Level 3 Infinite Energy]
+[Mission 01 (Outpost, Russian Border)\Always have Med Kits]
 Type = Gameshark
 Activation = EndFrame
-801F2835 0258
+800EA9D0 0025
 
-[Level 4 Infinite Energy]
+[Mission 01 (Outpost, Russian Border)\Always have PK7]
 Type = Gameshark
 Activation = EndFrame
-801F30DD 0258
+800EA840 EE24
 
-[Level 5 Infinite Energy]
+[Mission 01 (Outpost, Russian Border)\Always have Ski Pole]
 Type = Gameshark
 Activation = EndFrame
-801F484D 0258
+800EAA34 002C
 
-[Level 6 Infinite Energy]
+[Mission 01 (Outpost, Russian Border)\Always have Sniper Rifle]
 Type = Gameshark
 Activation = EndFrame
-801F4AA5 0258
+800EA908 002C
 
-[Level 7 Infinite Energy]
+[Mission 01 (Outpost, Russian Border)\Debug Menu]
 Type = Gameshark
 Activation = EndFrame
-801F6575 0258
+80115BCC 0002
 
-[Level 8 Infinite Energy]
+[Mission 01 (Outpost, Russian Border)\Infinite Ammo Assault Rifle]
 Type = Gameshark
 Activation = EndFrame
-801F3705 0249
+800EA8B2 0063
 
-[Level 9 Infinite Energy]
+[Mission 01 (Outpost, Russian Border)\Infinite Ammo PK7]
 Type = Gameshark
 Activation = EndFrame
-801F3555 0258
+800EA84C 03E7
 
-[Level 10 Infinite Energy]
+[Mission 01 (Outpost, Russian Border)\Infinite Ammo Sniper Rifle]
 Type = Gameshark
 Activation = EndFrame
-801F30DD 0266
+800EA916 0063
+
+[Mission 01 (Outpost, Russian Border)\Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+800C5E70 0064
+
+[Mission 01 (Outpost, Russian Border)\Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+80118078 0258
+801F7A2E 0258
+
+[Mission 01 (Outpost, Russian Border)\Infinite Med Kits]
+Type = Gameshark
+Activation = EndFrame
+800EA9DC 03E7
+
+[Mission 01 (Outpost, Russian Border)\Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800C59FC 0001
+
+[Mission 01 (Outpost, Russian Border)\Max Ammo Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+800EA8B4 03E7
+
+[Mission 01 (Outpost, Russian Border)\Max Ammo Sniper Rifle]
+Type = Gameshark
+Activation = EndFrame
+800EA918 03E7
+
+[Mission 01 (Outpost, Russian Border)\Misc - Move All Objects And Enemies By Walking]
+Type = Gameshark
+Activation = EndFrame
+300C5B0F 0000
+
+[Mission 01 (Outpost, Russian Border)\Misc - No Ground]
+Type = Gameshark
+Activation = EndFrame
+300C5B0E 0000
+
+[Mission 01 (Outpost, Russian Border)\Misc - Remove All Objects Except Enemies]
+Type = Gameshark
+Activation = EndFrame
+300C5B0D 0000
+
+[Mission 01 (Outpost, Russian Border)\Misc - Remove Weather]
+Type = Gameshark
+Activation = EndFrame
+300C5B10 0000
+
+[Mission 01 (Outpost, Russian Border)\Non-Reloadable Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+800EA8A6 0000
+800EA8B0 03E7
+800EA8B2 03E7
+
+[Mission 01 (Outpost, Russian Border)\Non-Reloadable Sniper Rifle]
+Type = Gameshark
+Activation = EndFrame
+800EA906 0000
+800EA914 03E7
+800EA916 03E7
+
+[Mission 01 (Outpost, Russian Border)\One Hit Kills (for Everyone inc them)]
+Description = Use inconjunction with Invincibility for the best effect
+Type = Gameshark
+Activation = EndFrame
+A706FC08 00A10044
+A706FC0A 1C40AE00
+
+[Mission 01 (Outpost, Russian Border)\Rapid Fire Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+800EA8CC 0000
+
+[Mission 01 (Outpost, Russian Border)\Rapid Fire PK7]
+Type = Gameshark
+Activation = EndFrame
+800EA868 0000
+
+[Mission 01 (Outpost, Russian Border)\Rapid Fire Sniper Rifle]
+Type = Gameshark
+Activation = EndFrame
+800EA930 0000
+
+[Mission 01 (Outpost, Russian Border)\Walk Through Walls]
+Type = Gameshark
+Activation = EndFrame
+800C5E44 0001
+
+[Mission 02 (Arms Bazaar, Russian Border)\Always have Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+800D1984 002C
+
+[Mission 02 (Arms Bazaar, Russian Border)\Always have Med Kits]
+Type = Gameshark
+Activation = EndFrame
+800D1AB0 0025
+
+[Mission 02 (Arms Bazaar, Russian Border)\Always have PK7]
+Type = Gameshark
+Activation = EndFrame
+800D1920 EE24
+
+[Mission 02 (Arms Bazaar, Russian Border)\Always have Sniper Rifle]
+Type = Gameshark
+Activation = EndFrame
+800D19E8 002C
+
+[Mission 02 (Arms Bazaar, Russian Border)\Infinite Ammo Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+800D1992 0063
+
+[Mission 02 (Arms Bazaar, Russian Border)\Infinite Ammo PK7]
+Type = Gameshark
+Activation = EndFrame
+800D182C 03E7
+
+[Mission 02 (Arms Bazaar, Russian Border)\Infinite Ammo Sniper Rifle]
+Type = Gameshark
+Activation = EndFrame
+800D19F6 0063
+
+[Mission 02 (Arms Bazaar, Russian Border)\Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+800B2F54 0064
+
+[Mission 02 (Arms Bazaar, Russian Border)\Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801008AE 0258
+
+[Mission 02 (Arms Bazaar, Russian Border)\Infinite Med Kits]
+Type = Gameshark
+Activation = EndFrame
+800D1ABC 03E7
+
+[Mission 02 (Arms Bazaar, Russian Border)\Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800B2AE0 0001
+
+[Mission 02 (Arms Bazaar, Russian Border)\Max Ammo Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+800D1994 03E7
+
+[Mission 02 (Arms Bazaar, Russian Border)\Max Ammo Sniper Rifle]
+Type = Gameshark
+Activation = EndFrame
+800D19F8 03E7
+
+[Mission 02 (Arms Bazaar, Russian Border)\Non-Reloadable Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+800D1986 0000
+800D1990 03E7
+800D1992 03E7
+
+[Mission 02 (Arms Bazaar, Russian Border)\Non-Reloadable Sniper Rifle]
+Type = Gameshark
+Activation = EndFrame
+800D19E6 0000
+800D19F4 03E7
+800D19F6 03E7
+
+[Mission 02 (Arms Bazaar, Russian Border)\Rapid Fire Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+800D19AC 0000
+
+[Mission 02 (Arms Bazaar, Russian Border)\Rapid Fire PK7]
+Type = Gameshark
+Activation = EndFrame
+800D1848 0000
+
+[Mission 02 (Arms Bazaar, Russian Border)\Rapid Fire Sniper Rifle]
+Type = Gameshark
+Activation = EndFrame
+800D1A10 0000
+
+[Mission 02 (Arms Bazaar, Russian Border)\Walk Through Walls]
+Type = Gameshark
+Activation = EndFrame
+800B2F28 0001
+
+[Mission 03 (Carver Media, Hamburg)\Always have Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+800ED8E4 002C
+
+[Mission 03 (Carver Media, Hamburg)\Always have Med Kits]
+Type = Gameshark
+Activation = EndFrame
+800EDA74 0025
+
+[Mission 03 (Carver Media, Hamburg)\Always have PK7]
+Type = Gameshark
+Activation = EndFrame
+800ED880 EE24
+
+[Mission 03 (Carver Media, Hamburg)\Always have SMG 45]
+Type = Gameshark
+Activation = EndFrame
+800ED948 EE24
+
+[Mission 03 (Carver Media, Hamburg)\Infinite Ammo Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+800ED8F2 0063
+
+[Mission 03 (Carver Media, Hamburg)\Infinite Ammo PK7]
+Type = Gameshark
+Activation = EndFrame
+800ED88C 03E7
+
+[Mission 03 (Carver Media, Hamburg)\Infinite Ammo SMG 45]
+Type = Gameshark
+Activation = EndFrame
+800ED954 0063
+800ED956 0063
+
+[Mission 03 (Carver Media, Hamburg)\Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+800BA7F8 0064
+
+[Mission 03 (Carver Media, Hamburg)\Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801F2834 0258
+
+[Mission 03 (Carver Media, Hamburg)\Infinite Med Kits]
+Type = Gameshark
+Activation = EndFrame
+800EDA80 03E7
+
+[Mission 03 (Carver Media, Hamburg)\Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800BA384 0001
+
+[Mission 03 (Carver Media, Hamburg)\Max Ammo Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+800ED8F4 03E7
+
+[Mission 03 (Carver Media, Hamburg)\Max Ammo SMG 45]
+Type = Gameshark
+Activation = EndFrame
+800ED958 03E7
+
+[Mission 03 (Carver Media, Hamburg)\Non-Reloadable Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+800ED9E6 0000
+800ED9F0 03E7
+800ED9F2 03E7
+
+[Mission 03 (Carver Media, Hamburg)\Non-Reloadable SMG 45]
+Type = Gameshark
+Activation = EndFrame
+800ED94A 0000
+800ED954 03E7
+800ED956 03E7
+
+[Mission 03 (Carver Media, Hamburg)\Rapid Fire Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+800ED90C 0000
+
+[Mission 03 (Carver Media, Hamburg)\Rapid Fire PK7]
+Type = Gameshark
+Activation = EndFrame
+800ED8A8 0000
+
+[Mission 03 (Carver Media, Hamburg)\Walk Through Walls]
+Type = Gameshark
+Activation = EndFrame
+800BA4A8 0000
+
+[Mission 04 (Pressing Engagement)\Always have Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+800F51BC 002C
+
+[Mission 04 (Pressing Engagement)\Always have Med Kits]
+Type = Gameshark
+Activation = EndFrame
+800F5220 0025
+
+[Mission 04 (Pressing Engagement)\Always have PK7]
+Type = Gameshark
+Activation = EndFrame
+800F5158 EE24
+
+[Mission 04 (Pressing Engagement)\Infinite Ammo Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+800F51CA 0063
+
+[Mission 04 (Pressing Engagement)\Infinite Ammo PK7]
+Type = Gameshark
+Activation = EndFrame
+800F5164 03E7
+
+[Mission 04 (Pressing Engagement)\Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+800B2218 0064
+
+[Mission 04 (Pressing Engagement)\Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801F30DC 0258
+
+[Mission 04 (Pressing Engagement)\Infinite Med Kits]
+Type = Gameshark
+Activation = EndFrame
+800F522C 03E7
+
+[Mission 04 (Pressing Engagement)\Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800B1DA4 0001
+
+[Mission 04 (Pressing Engagement)\Max Ammo Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+800F51CC 03E7
+
+[Mission 04 (Pressing Engagement)\Non-Reloadable Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+800F51BE 0000
+800F51C8 03E7
+800F51CA 03E7
+
+[Mission 04 (Pressing Engagement)\Rapid Fire Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+800F51E4 0000
+
+[Mission 04 (Pressing Engagement)\Rapid Fire PK7]
+Type = Gameshark
+Activation = EndFrame
+800F5180 0000
+
+[Mission 04 (Pressing Engagement)\Walk Through Walls]
+Type = Gameshark
+Activation = EndFrame
+800B1EC8 0000
+
+[Mission 05 (Hotel Atlantic, Hamburg)\Always have Action]
+Type = Gameshark
+Activation = EndFrame
+800FFD9C 003C
+
+[Mission 05 (Hotel Atlantic, Hamburg)\Always have Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+800FFD38 002C
+
+[Mission 05 (Hotel Atlantic, Hamburg)\Always have Gas Bomb]
+Type = Gameshark
+Activation = EndFrame
+800FFE64 002C
+
+[Mission 05 (Hotel Atlantic, Hamburg)\Always have Med Kits]
+Type = Gameshark
+Activation = EndFrame
+800FFE00 0025
+
+[Mission 05 (Hotel Atlantic, Hamburg)\Always have PK7]
+Type = Gameshark
+Activation = EndFrame
+800FFCD4 EE24
+
+[Mission 05 (Hotel Atlantic, Hamburg)\Infinite Ammo Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+800FFD46 0063
+
+[Mission 05 (Hotel Atlantic, Hamburg)\Infinite Ammo PK7]
+Type = Gameshark
+Activation = EndFrame
+800FFCE0 03E7
+
+[Mission 05 (Hotel Atlantic, Hamburg)\Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+800B9F7C 0064
+
+[Mission 05 (Hotel Atlantic, Hamburg)\Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801F484C 0258
+
+[Mission 05 (Hotel Atlantic, Hamburg)\Infinite Gas Bombs]
+Type = Gameshark
+Activation = EndFrame
+800FFE70 03E7
+
+[Mission 05 (Hotel Atlantic, Hamburg)\Infinite Med Kits]
+Type = Gameshark
+Activation = EndFrame
+800FFE0C 03E7
+
+[Mission 05 (Hotel Atlantic, Hamburg)\Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800B9B08 0001
+
+[Mission 05 (Hotel Atlantic, Hamburg)\Max Ammo Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+800FFD48 03E7
+
+[Mission 05 (Hotel Atlantic, Hamburg)\Max Gas Bombs]
+Type = Gameshark
+Activation = EndFrame
+800FFE74 03E7
+
+[Mission 05 (Hotel Atlantic, Hamburg)\Non-Reloadable Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+800FFD3A 0000
+800FFD44 03E7
+800FFD46 03E7
+
+[Mission 05 (Hotel Atlantic, Hamburg)\Rapid Fire Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+800FFD60 0000
+
+[Mission 05 (Hotel Atlantic, Hamburg)\Rapid Fire PK7]
+Type = Gameshark
+Activation = EndFrame
+800FFCFC 0000
+
+[Mission 05 (Hotel Atlantic, Hamburg)\Rapid Gas Bombing]
+Type = Gameshark
+Activation = EndFrame
+800FFE8C 0000
+
+[Mission 05 (Hotel Atlantic, Hamburg)\Walk Through Walls]
+Type = Gameshark
+Activation = EndFrame
+800B9C2C 0000
+
+[Mission 06 (Convoy, Swiss Alps)\Always have Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+800E08E4 002C
+
+[Mission 06 (Convoy, Swiss Alps)\Always have Infrared Sniper Rifle]
+Type = Gameshark
+Activation = EndFrame
+800E0948 002C
+
+[Mission 06 (Convoy, Swiss Alps)\Always have Med Kits]
+Type = Gameshark
+Activation = EndFrame
+800E09AC 0025
+
+[Mission 06 (Convoy, Swiss Alps)\Always have PK7]
+Type = Gameshark
+Activation = EndFrame
+800E0880 EE24
+
+[Mission 06 (Convoy, Swiss Alps)\Infinite Ammo Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+800E08F2 0063
+
+[Mission 06 (Convoy, Swiss Alps)\Infinite Ammo Infrared Sniper Rifle]
+Type = Gameshark
+Activation = EndFrame
+800E0956 0063
+
+[Mission 06 (Convoy, Swiss Alps)\Infinite Ammo PK7]
+Type = Gameshark
+Activation = EndFrame
+800E088C 03E7
+
+[Mission 06 (Convoy, Swiss Alps)\Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+800B6840 0064
+
+[Mission 06 (Convoy, Swiss Alps)\Infinite BMW Missiles]
+Type = Gameshark
+Activation = EndFrame
+800E0A80 03E7
+
+[Mission 06 (Convoy, Swiss Alps)\Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801F4AA4 0258
+
+[Mission 06 (Convoy, Swiss Alps)\Infinite Med Kits]
+Type = Gameshark
+Activation = EndFrame
+800E09B8 03E7
+
+[Mission 06 (Convoy, Swiss Alps)\Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800B63CC 0001
+
+[Mission 06 (Convoy, Swiss Alps)\Max Ammo Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+800E08F4 03E7
+
+[Mission 06 (Convoy, Swiss Alps)\Max Ammo Infrared Sniper Rifle]
+Type = Gameshark
+Activation = EndFrame
+800E0958 03E7
+
+[Mission 06 (Convoy, Swiss Alps)\Non-Reloadable Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+800E08E6 0000
+800E08F0 03E7
+800E08F2 03E7
+
+[Mission 06 (Convoy, Swiss Alps)\Non-Reloadable Infrared Sniper Rifle]
+Type = Gameshark
+Activation = EndFrame
+800E094A 0000
+800E0954 03E7
+800E0956 03E7
+
+[Mission 06 (Convoy, Swiss Alps)\Rapid Fire Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+800E090C 0000
+
+[Mission 06 (Convoy, Swiss Alps)\Rapid Fire BMW Missiles]
+Type = Gameshark
+Activation = EndFrame
+800E0A9C 0000
+
+[Mission 06 (Convoy, Swiss Alps)\Rapid Fire Infrared Sniper Rifle]
+Type = Gameshark
+Activation = EndFrame
+800E0970 0000
+
+[Mission 06 (Convoy, Swiss Alps)\Rapid Fire PK7]
+Type = Gameshark
+Activation = EndFrame
+800E08A8 0000
+
+[Mission 07 (Ski Ridge, Hokkaido)\Always have Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+800E4D7C 002C
+
+[Mission 07 (Ski Ridge, Hokkaido)\Always have Auto 9mm]
+Type = Gameshark
+Activation = EndFrame
+800E4FD4 EE24
+
+[Mission 07 (Ski Ridge, Hokkaido)\Always have Finger Scan]
+Type = Gameshark
+Activation = EndFrame
+800E4E44 0025
+
+[Mission 07 (Ski Ridge, Hokkaido)\Always have Infrared Sniper Rifle]
+Type = Gameshark
+Activation = EndFrame
+800E4DE0 002C
+
+[Mission 07 (Ski Ridge, Hokkaido)\Always have Med Kits]
+Type = Gameshark
+Activation = EndFrame
+800E4EA8 0025
+
+[Mission 07 (Ski Ridge, Hokkaido)\Always have PK7]
+Type = Gameshark
+Activation = EndFrame
+800E4D18 EE24
+
+[Mission 07 (Ski Ridge, Hokkaido)\Infinite Ammo Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+800E4D8A 0063
+
+[Mission 07 (Ski Ridge, Hokkaido)\Infinite Ammo Auto 9mm]
+Type = Gameshark
+Activation = EndFrame
+800E4FE2 0063
+
+[Mission 07 (Ski Ridge, Hokkaido)\Infinite Ammo Infrared Sniper Rifle]
+Type = Gameshark
+Activation = EndFrame
+800E4DEE 0063
+
+[Mission 07 (Ski Ridge, Hokkaido)\Infinite Ammo PK7]
+Type = Gameshark
+Activation = EndFrame
+800E4D24 03E7
+
+[Mission 07 (Ski Ridge, Hokkaido)\Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+800C12B8 0064
+
+[Mission 07 (Ski Ridge, Hokkaido)\Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801F6574 0258
+
+[Mission 07 (Ski Ridge, Hokkaido)\Infinite Med Kits]
+Type = Gameshark
+Activation = EndFrame
+800E4EB4 03E7
+
+[Mission 07 (Ski Ridge, Hokkaido)\Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800C0E44 0001
+
+[Mission 07 (Ski Ridge, Hokkaido)\Max Ammo Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+800E4D8C 03E7
+
+[Mission 07 (Ski Ridge, Hokkaido)\Max Ammo Auto 9mm]
+Type = Gameshark
+Activation = EndFrame
+800E4FE4 03E7
+
+[Mission 07 (Ski Ridge, Hokkaido)\Max Ammo Infrared Sniper Rifle]
+Type = Gameshark
+Activation = EndFrame
+800E4DF0 03E7
+
+[Mission 07 (Ski Ridge, Hokkaido)\Non-Reloadable Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+800E4D7E 0000
+800E4D88 03E7
+800E4D8A 03E7
+
+[Mission 07 (Ski Ridge, Hokkaido)\Non-Reloadable Auto 9mm]
+Type = Gameshark
+Activation = EndFrame
+800E4FD6 0000
+800E4FE0 03E7
+800E4FE2 03E7
+
+[Mission 07 (Ski Ridge, Hokkaido)\Non-Reloadable Infrared Sniper Rifle]
+Type = Gameshark
+Activation = EndFrame
+800E4DE2 0000
+800E4DEC 03E7
+800E4DEE 03E7
+
+[Mission 07 (Ski Ridge, Hokkaido)\Rapid Fire Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+800E4DA4 0000
+
+[Mission 07 (Ski Ridge, Hokkaido)\Rapid Fire Infrared Sniper Rifle]
+Type = Gameshark
+Activation = EndFrame
+800E4E08 0000
+
+[Mission 07 (Ski Ridge, Hokkaido)\Rapid Fire PK7]
+Type = Gameshark
+Activation = EndFrame
+800E4D40 0000
+
+[Mission 07 (Ski Ridge, Hokkaido)\Walk Through Walls]
+Type = Gameshark
+Activation = EndFrame
+800C128C 0001
+
+[Mission 08 (CMGN Tower, Saigon)\Always have Action]
+Type = Gameshark
+Activation = EndFrame
+800F982C 002C
+
+[Mission 08 (CMGN Tower, Saigon)\Always have Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+800F97C8 002C
+
+[Mission 08 (CMGN Tower, Saigon)\Always have Auto 9mm]
+Type = Gameshark
+Activation = EndFrame
+800F9764 EE24
+
+[Mission 08 (CMGN Tower, Saigon)\Always have Med Kits]
+Type = Gameshark
+Activation = EndFrame
+800F9890 0025
+
+[Mission 08 (CMGN Tower, Saigon)\Always have PK7]
+Type = Gameshark
+Activation = EndFrame
+800F9700 0024
+
+[Mission 08 (CMGN Tower, Saigon)\Infinite Ammo Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+800F97D6 0063
+
+[Mission 08 (CMGN Tower, Saigon)\Infinite Ammo Auto 9mm]
+Type = Gameshark
+Activation = EndFrame
+800F9772 0063
+
+[Mission 08 (CMGN Tower, Saigon)\Infinite Ammo PK7]
+Type = Gameshark
+Activation = EndFrame
+800F970C 03E7
+
+[Mission 08 (CMGN Tower, Saigon)\Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+800B50F0 0064
+
+[Mission 08 (CMGN Tower, Saigon)\Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801F3704 0249
+
+[Mission 08 (CMGN Tower, Saigon)\Infinite Med Kits]
+Type = Gameshark
+Activation = EndFrame
+800F989C 03E7
+
+[Mission 08 (CMGN Tower, Saigon)\Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800B4C7C 0001
+
+[Mission 08 (CMGN Tower, Saigon)\Max Ammo Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+800F97D8 03E7
+
+[Mission 08 (CMGN Tower, Saigon)\Max Ammo Auto 9mm]
+Type = Gameshark
+Activation = EndFrame
+800F9774 03E7
+
+[Mission 08 (CMGN Tower, Saigon)\Non-Reloadable Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+800F97CA 0000
+800F97D4 03E7
+800F97D6 03E7
+
+[Mission 08 (CMGN Tower, Saigon)\Non-Reloadable Auto 9mm]
+Type = Gameshark
+Activation = EndFrame
+800F9766 0000
+800F9770 03E7
+800F9772 03E7
+
+[Mission 08 (CMGN Tower, Saigon)\Rapid Fire Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+800F97F0 0000
+
+[Mission 08 (CMGN Tower, Saigon)\Rapid Fire PK7]
+Type = Gameshark
+Activation = EndFrame
+800F9728 0000
+
+[Mission 08 (CMGN Tower, Saigon)\Walk Through Walls]
+Type = Gameshark
+Activation = EndFrame
+800B4DA0 0000
+
+[Mission 09 (Market District, Saigon)\Always have Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+800FFA24 002C
+
+[Mission 09 (Market District, Saigon)\Always have Med Kits]
+Type = Gameshark
+Activation = EndFrame
+800FFA88 0025
+
+[Mission 09 (Market District, Saigon)\Always have PK7]
+Type = Gameshark
+Activation = EndFrame
+800FF9C0 0024
+
+[Mission 09 (Market District, Saigon)\Always have RL 66]
+Type = Gameshark
+Activation = EndFrame
+800FFAEC 002C
+
+[Mission 09 (Market District, Saigon)\Infinite Ammo Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+800FFA32 0063
+
+[Mission 09 (Market District, Saigon)\Infinite Ammo PK7]
+Type = Gameshark
+Activation = EndFrame
+800FF9CC 03E7
+
+[Mission 09 (Market District, Saigon)\Infinite Ammo RL 66]
+Type = Gameshark
+Activation = EndFrame
+800FFAF8 03E7
+800FFAFA 03E7
+
+[Mission 09 (Market District, Saigon)\Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+800B6E10 0064
+
+[Mission 09 (Market District, Saigon)\Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801F3554 0258
+
+[Mission 09 (Market District, Saigon)\Infinite Med Kits]
+Type = Gameshark
+Activation = EndFrame
+800FFA94 03E7
+
+[Mission 09 (Market District, Saigon)\Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800B699C 0001
+
+[Mission 09 (Market District, Saigon)\Max Ammo Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+800FFA34 03E7
+
+[Mission 09 (Market District, Saigon)\Non-Reloadable Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+800FFA26 0000
+800FFA30 03E7
+800FFA32 03E7
+
+[Mission 09 (Market District, Saigon)\Rapid Fire Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+800FFA4C 0000
+
+[Mission 09 (Market District, Saigon)\Rapid Fire PK7]
+Type = Gameshark
+Activation = EndFrame
+800FF9E8 0000
+
+[Mission 09 (Market District, Saigon)\Rapid Fire RL 66]
+Type = Gameshark
+Activation = EndFrame
+800FFB14 0000
+
+[Mission 09 (Market District, Saigon)\Walk Through Walls]
+Type = Gameshark
+Activation = EndFrame
+800B6AC0 0000
+
+[Mission 10 (Stealth Boat, Ha Long Bay)\Always have Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+800FB86C 002C
+
+[Mission 10 (Stealth Boat, Ha Long Bay)\Always have GL 40]
+Type = Gameshark
+Activation = EndFrame
+800FB8D0 002C
+
+[Mission 10 (Stealth Boat, Ha Long Bay)\Always have Med Kits]
+Type = Gameshark
+Activation = EndFrame
+800FB998 0025
+
+[Mission 10 (Stealth Boat, Ha Long Bay)\Always have PK7]
+Type = Gameshark
+Activation = EndFrame
+800FB806 EE24
+
+[Mission 10 (Stealth Boat, Ha Long Bay)\Always have SMG 45]
+Type = Gameshark
+Activation = EndFrame
+800FB934 EE24
+
+[Mission 10 (Stealth Boat, Ha Long Bay)\Infinite Ammo Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+800FB87A 0063
+
+[Mission 10 (Stealth Boat, Ha Long Bay)\Infinite Ammo GL 40]
+Type = Gameshark
+Activation = EndFrame
+800FB8DE 0063
+
+[Mission 10 (Stealth Boat, Ha Long Bay)\Infinite Ammo PK9]
+Type = Gameshark
+Activation = EndFrame
+800FB814 03E7
+
+[Mission 10 (Stealth Boat, Ha Long Bay)\Infinite Ammo SMG 45]
+Type = Gameshark
+Activation = EndFrame
+800FB940 0063
+800FB942 0063
+
+[Mission 10 (Stealth Boat, Ha Long Bay)\Infinite Armor]
+Type = Gameshark
+Activation = EndFrame
+800BB2A8 0064
+
+[Mission 10 (Stealth Boat, Ha Long Bay)\Infinite Energy]
+Type = Gameshark
+Activation = EndFrame
+801F30DE 0266
+
+[Mission 10 (Stealth Boat, Ha Long Bay)\Infinite Med Kits]
+Type = Gameshark
+Activation = EndFrame
+800FB9A4 03E7
+
+[Mission 10 (Stealth Boat, Ha Long Bay)\Invincibility]
+Type = Gameshark
+Activation = EndFrame
+800BAE34 0001
+
+[Mission 10 (Stealth Boat, Ha Long Bay)\Max Ammo Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+800FB87C 03E7
+
+[Mission 10 (Stealth Boat, Ha Long Bay)\Max Ammo GL 40]
+Type = Gameshark
+Activation = EndFrame
+800FB8E0 03E7
+
+[Mission 10 (Stealth Boat, Ha Long Bay)\Max Ammo SMG 45]
+Type = Gameshark
+Activation = EndFrame
+800FB944 03E7
+
+[Mission 10 (Stealth Boat, Ha Long Bay)\Non-Reloadable Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+800FB86E 0000
+800FB878 03E7
+800FB87A 03E7
+
+[Mission 10 (Stealth Boat, Ha Long Bay)\Non-Reloadable GL 40]
+Type = Gameshark
+Activation = EndFrame
+800FB8D2 0000
+800FB8DC 03E7
+800FB8DE 03E7
+
+[Mission 10 (Stealth Boat, Ha Long Bay)\Non-Reloadable SMG 45]
+Type = Gameshark
+Activation = EndFrame
+800FB936 0000
+800FB940 03E7
+800FB942 03E7
+
+[Mission 10 (Stealth Boat, Ha Long Bay)\Rapid Fire Assault Rifle]
+Type = Gameshark
+Activation = EndFrame
+800EB894 0000
+
+[Mission 10 (Stealth Boat, Ha Long Bay)\Rapid Fire GL 40]
+Type = Gameshark
+Activation = EndFrame
+800FB8F8 0000
+
+[Mission 10 (Stealth Boat, Ha Long Bay)\Rapid Fire PK9]
+Type = Gameshark
+Activation = EndFrame
+800EB830 0000
+
+[Mission 10 (Stealth Boat, Ha Long Bay)\Walk Through Walls]
+Type = Gameshark
+Activation = EndFrame
+800BAF58 0000
 

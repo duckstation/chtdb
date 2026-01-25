@@ -1,0 +1,13 @@
+; CHTDB: ; [ Racing (USA) (2000) (A1 Games) {SLUS-01291} <racing> ]
+
+[No Lap Time]
+Type = Gameshark
+Activation = EndFrame
+801DBFEC 0000
+
+[No Total Time]
+Type = Gameshark
+Activation = EndFrame
+801EB0F0 0000
+801EB0FC 0000
+

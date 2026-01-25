@@ -1,0 +1,224 @@
+; CHTDB: ; [ F1 Racing Championship (USA) (2000) (Ubi Soft Entertainment Software) {SLUS-01088} <f1rc> ]
+
+[Arcade\All difficulties selectable]
+Type = Gameshark
+Activation = EndFrame
+300109F0 0004
+
+[Arcade\Get a lot of timer-points]
+Type = Gameshark
+Activation = EndFrame
+D00BFAF8 9FFF
+800BFAF8 FFFF
+
+[Drive Off Road (Championship Mode)]
+Description = You will not lose speed if you drive on sand or grass in Championship Mode.
+Type = Gameshark
+Activation = EndFrame
+300C8A8C 0000
+300C8B04 0000
+300C8B7C 0000
+300C8BF4 0000
+
+[Drive Through Walls\Off (Press Select + Right)]
+Description = On some tracks you can drive through restricted servicetracks to shorten the round (e.g. A1).
+Type = Gameshark
+Activation = EndFrame
+D004EB5E FFDE
+80077EA4 2000
+
+[Drive Through Walls\On (Press Select + Left)]
+Description = On some tracks you can drive through restricted servicetracks to shorten the round (e.g. A1).
+Type = Gameshark
+Activation = EndFrame
+D004EB5E FF7E
+80077EA4 FFFF
+
+[Max Race Points Championship]
+Type = Gameshark
+Activation = EndFrame
+800ADB8C 270F
+
+[Always Good Grip]
+Type = Gameshark
+Activation = EndFrame
+D00740A6 A242
+300740A6 0040
+
+[Select Starting Lap]
+Description = Select before you start the race or during the first lap
+Type = Gameshark
+Activation = EndFrame
+D00740A6 A242
+A80C8994 01??
+A80C8995 01??
+OptionRange = 1:70
+
+[Nitro Boost (Press L3 + X)]
+Description = Press buttons when traffic lights are still red to perform a good start. Otherwise you'll have a rumble experience.
+Type = Gameshark
+Activation = EndFrame
+D004EB5E BFFD
+800C8F1E 9000
+
+[Replay-Cam (Press Select + L1)]
+Type = Gameshark
+Activation = EndFrame
+D004EB5E FBFE
+800AEFD4 0106
+
+[Select Points\Alesi]
+Type = Gameshark
+Activation = EndFrame
+D00ADA52 0004
+300ADA94 00??
+OptionRange = 0:190
+
+[Select Points\Badoer]
+Type = Gameshark
+Activation = EndFrame
+D00ADA52 0004
+300ADAA4 00?
+OptionRange = 0:190
+
+[Select Points\Barrichello]
+Type = Gameshark
+Activation = EndFrame
+D00ADA52 0004
+300ADA9C 00?
+OptionRange = 0:190
+
+[Select Points\Coulthard]
+Type = Gameshark
+Activation = EndFrame
+D00ADA52 0004
+300ADA82 00?
+OptionRange = 0:190
+
+[Select Points\De La Rosa]
+Type = Gameshark
+Activation = EndFrame
+D00ADA52 0004
+300ADA98 00?
+OptionRange = 0:190
+
+[Select Points\Diniz]
+Type = Gameshark
+Activation = EndFrame
+D00ADA52 0004
+300ADA96 00?
+OptionRange = 0:190
+
+[Select Points\Fisichella]
+Type = Gameshark
+Activation = EndFrame
+D00ADA52 0004
+300ADA90 00?
+OptionRange = 0:190
+
+[Select Points\Frentzen]
+Type = Gameshark
+Activation = EndFrame
+D00ADA52 0004
+300ADA8E 00?
+OptionRange = 0:190
+
+[Select Points\Gene]
+Type = Gameshark
+Activation = EndFrame
+D00ADA52 0004
+300ADAA6 00?
+OptionRange = 0:190
+
+[Select Points\Haekkinen]
+Type = Gameshark
+Activation = EndFrame
+D00ADA52 0004
+300ADA80 00?
+OptionRange = 0:190
+
+[Select Points\Her?]
+Type = Gameshark
+Activation = EndFrame
+OptionRange = 0:190rt
+D00ADA52 0004
+300ADA9E 00?
+OptionRange = 0:190
+
+[Select Points\Hill]
+Type = Gameshark
+Activation = EndFrame
+D00ADA52 0004
+300ADA8C 00?
+OptionRange = 0:190
+
+[Select Points\Irvine]
+Type = Gameshark
+Activation = EndFrame
+D00ADA52 0004
+300ADA86 00?
+OptionRange = 0:190
+
+[Select Points\M.Schumacher]
+Type = Gameshark
+Activation = EndFrame
+D00ADA52 0004
+300ADA84 00?
+OptionRange = 0:190
+
+[Select Points\Panis]
+Type = Gameshark
+Activation = EndFrame
+D00ADA52 0004
+300ADAA0 00?
+OptionRange = 0:190
+
+[Select Points\R.Schumacher]
+Type = Gameshark
+Activation = EndFrame
+D00ADA52 0004
+300ADA8A 00?
+OptionRange = 0:190
+
+[Select Points\Takagi]
+Type = Gameshark
+Activation = EndFrame
+D00ADA52 0004
+300ADA9A 00?
+OptionRange = 0:190
+
+[Select Points\Trulli]
+Type = Gameshark
+Activation = EndFrame
+D00ADA52 0004
+300ADAA2 00?
+OptionRange = 0:190
+
+[Select Points\Villeneuve]
+Type = Gameshark
+Activation = EndFrame
+D00ADA52 0004
+300ADAA8 00?
+OptionRange = 0:190
+
+[Select Points\Wurz]
+Type = Gameshark
+Activation = EndFrame
+D00ADA52 0004
+300ADA92 00?
+OptionRange = 0:190
+
+[Select Points\Zanardi]
+Type = Gameshark
+Activation = EndFrame
+D00ADA52 0004
+300ADA88 00?
+OptionRange = 0:190
+
+[Select Points\Zonta]
+Type = Gameshark
+Activation = EndFrame
+D00ADA52 0004
+300ADAAA 00?
+OptionRange = 0:190
+

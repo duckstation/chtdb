@@ -1,0 +1,16 @@
+; CHTDB: ; [ Arc the Lad Collection - The Making of Arc the Lad (USA) (2002) (Working Designs) {SLUS-01256} <arcmakof> ]
+
+[Boot secret "Slime Time" game "Hold L1+R1"]
+Type = Gameshark
+Activation = EndFrame
+A7018A5A 24001443
+D7200000 0000000C
+A7018A5A 14432400
+
+[Boot game into secret debug mode "Hold L2+R2"]
+Type = Gameshark
+Activation = EndFrame
+A7018A02 24001443
+D7200000 00000003
+A7018A02 14432400
+

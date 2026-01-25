@@ -1,9 +1,10 @@
 ; CHTDB: ; [ Jade Cocoon - Story of the Tamamayu (USA) (1999) (Crave Entertainment) {SLUS-00854} <jadecoc> ]
 
 [Equipped Weapon]
-Author = Kim Hawk, Thunder2, ViperByte, Number 12, Aquase, KDF, Savior, Jaha
 Type = Gameshark
 Activation = EndFrame
+Author = Kim Hawk, Thunder2, ViperByte, Number 12, Aquase, KDF, Savior, Jaha
+3008BD54 00??
 Option = Knife:0
 Option = Dagger:1
 Option = Aquazor:2
@@ -27,12 +28,12 @@ Option = Reaper:19
 Option = Drainer:20
 Option = Autumn Moon:21
 Option = Icicle:22
-3008BD54 00??
 
 [Equipped Armor]
-Author = Kim Hawk, Thunder2, ViperByte, Number 12, Aquase, KDF, Savior, Jaha
 Type = Gameshark
 Activation = EndFrame
+Author = Kim Hawk, Thunder2, ViperByte, Number 12, Aquase, KDF, Savior, Jaha
+3008BD55 00??
 Option = Hunter's Vest:0
 Option = Leather Vest:1
 Option = Chain Mail Vest:2
@@ -48,12 +49,12 @@ Option = Navy Blue Garb:11
 Option = Forest Garb:12
 Option = Divine Garb 1:13
 Option = Divine Garb 2:14
-3008BD55 00??
 
 [Equipped Other]
-Author = Kim Hawk, Thunder2, ViperByte, Number 12, Aquase, KDF, Savior, Jaha
 Type = Gameshark
 Activation = EndFrame
+Author = Kim Hawk, Thunder2, ViperByte, Number 12, Aquase, KDF, Savior, Jaha
+3008BD56 00??
 Option = Leather Headband:0
 Option = Iron Headband:1
 Option = Silver Headband:2
@@ -71,7 +72,6 @@ Option = Sleep Choker:13
 Option = Stone Choker:14
 Option = Super Choker:15
 Option = Nagi Belt:16
-3008BD56 00??
 
 [Infinite HP (Levant)]
 Type = Gameshark
@@ -119,3 +119,4 @@ Activation = EndFrame
 8008B7A2 0305
 8008B7A4 0306
 8008B7A6 0307
+

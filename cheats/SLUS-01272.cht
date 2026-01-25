@@ -11,6 +11,19 @@ Activation = EndFrame
 80073A04 0001
 30073D3A 0001
 
+[Unlock All Missions + Movies]
+Type = Gameshark
+Activation = EndFrame
+50001A01 0000
+3001F2D2 0001
+
+[Ability To Hurt Enemies]
+Type = Gameshark
+Activation = EndFrame
+800A118C 000?
+Option = On:0x0
+Option = Off:0x1
+
 [All Cheats Unlocked]
 Type = Gameshark
 Activation = EndFrame
@@ -21,24 +34,299 @@ Type = Gameshark
 Activation = EndFrame
 30073D38 0001
 
-[Unlock All Missions + Movies]
+[Caption Level]
 Type = Gameshark
 Activation = EndFrame
-50001A01 0000
-3001F2D2 0001
+800A125A 00??
+Option = None (regular screen):0x00
+Option = Regular captions:0x20
+Option = More of the screen is covered:0x40
+
+[Misc. Display Commands]
+Type = Gameshark
+Activation = EndFrame
+800A1258 000?
+Option = Normal:0x0
+Option = Hide life display:0x1
+Option = Writes to memory that an event is happening:0x5
+Option = scene that requires certain things of the memory. Without further coding, you become locked out permanently from a place that you need to get into. I've attempted to set up a code that allows you to eliminate civilians and work around this problem at the same time:0xa
+Option = moment, run a few quick checks on the memory, and note that you are paralyzed and that the memory is ready for an event. Since the memory is stuck on being ready for an event, the event will be skipped completely, and none of the sprites (characters, doors, etc) will be affected. Therefore, the door will stay open, and the people inside the room will stay exactly where they are. For some reason, you are never actually paralyzed if you press R2 at the time and place you did, so you can simply back up a few steps, and walk into the room. Now you have access to that door that's usually closed on you (it leads into a partial hallway from which you can walk through walls, to anywhere on the floor you're on), but no matter what you do, you cannot finish the level, still. Breaking the glass has no effect, for some reason.:0xa
+
+[Mission Status Mod]
+Type = Gameshark
+Activation = EndFrame
+800A0F34 000?
+Option = Failed:0x3
+Option = Accomplished:0x2
+Option = Nothing (paralyzed):0x1
+Option = Regular:0x0
+
+[Power Goons]
+Type = Gameshark
+Activation = EndFrame
+30073D3B 0001
+
+[Power Guns]
+Type = Gameshark
+Activation = EndFrame
+30073D3C 0001
+
+[Stealthy Bond]
+Type = Gameshark
+Activation = EndFrame
+30073D39 0001
 
 [Unlock Secret Win Game Movie]
 Type = Gameshark
 Activation = EndFrame
 8001F28E 0002
 
-[Walk through Walls/Courier]
+[Cold Reception\Always have AR36 Sniper]
+Type = Gameshark
+Activation = EndFrame
+300B0305 00BA
+
+[Cold Reception\Always have Grenade Launcher]
+Type = Gameshark
+Activation = EndFrame
+300B024D 00BA
+
+[Cold Reception\Always have Meyer TMP]
+Type = Gameshark
+Activation = EndFrame
+300B0195 00BA
+
+[Cold Reception\Always have Wolfram P2K]
+Type = Gameshark
+Activation = EndFrame
+300B00DD 00BA
+
+[Cold Reception\Infinite Ammo AR36 Sniper]
+Type = Gameshark
+Activation = EndFrame
+800B0314 03E7
+
+[Cold Reception\Infinite Ammo Grenade Launcher]
+Type = Gameshark
+Activation = EndFrame
+800B025C 03E7
+
+[Cold Reception\Infinite Ammo Meyer TMP]
+Type = Gameshark
+Activation = EndFrame
+800B01A4 03E7
+
+[Cold Reception\Infinite Ammo Wolfram P2K]
+Type = Gameshark
+Activation = EndFrame
+800B00EC 03E7
+
+[Cold Reception\Max Ammo AR36 Sniper]
+Type = Gameshark
+Activation = EndFrame
+800B0316 03E7
+
+[Cold Reception\Max Ammo Grenade Launcher]
+Type = Gameshark
+Activation = EndFrame
+800B025E 03E7
+
+[Cold Reception\Max Ammo Meyer TMP]
+Type = Gameshark
+Activation = EndFrame
+800B01A6 03E7
+
+[Cold Reception\Max Ammo Wolfram P2K]
+Type = Gameshark
+Activation = EndFrame
+800B00EE 03E7
+
+[Courier\Always have Briefcase]
+Type = Gameshark
+Activation = EndFrame
+300B65C1 00BA
+
+[Courier\Always have Cell Phone Stunner]
+Type = Gameshark
+Activation = EndFrame
+300B62DD 00BA
+
+[Courier\Always have Fainesi Shotgun]
+Type = Gameshark
+Activation = EndFrame
+300B6731 00BA
+
+[Courier\Always have Fingerprint Scanner]
+Type = Gameshark
+Activation = EndFrame
+300B6509 00BA
+
+[Courier\Always have Flash Bang]
+Type = Gameshark
+Activation = EndFrame
+300B644D 00BA
+
+[Courier\Always have Koffler KSS]
+Type = Gameshark
+Activation = EndFrame
+300B6679 00BA
+
+[Courier\Always have Satchel Charge]
+Type = Gameshark
+Activation = EndFrame
+300B67E9 00BA
+
+[Courier\Always have VLF Disruptor]
+Type = Gameshark
+Activation = EndFrame
+300B6229 00BA
+
+[Courier\Always have Wolfram P2K]
+Type = Gameshark
+Activation = EndFrame
+300B6399 00BA
+
+[Courier\Infinite Ammo Cell Phone Stunner]
+Type = Gameshark
+Activation = EndFrame
+800B62EC 03E7
+
+[Courier\Infinite Ammo Fainesi Shotgun]
+Type = Gameshark
+Activation = EndFrame
+800B6740 03E7
+
+[Courier\Infinite Ammo Flash Bang]
+Type = Gameshark
+Activation = EndFrame
+800B645C 03E7
+
+[Courier\Infinite Ammo Koffler KSS]
+Type = Gameshark
+Activation = EndFrame
+800B6688 03E7
+
+[Courier\Infinite Ammo Satchel Charge]
+Type = Gameshark
+Activation = EndFrame
+800B67FA 03E7
+
+[Courier\Infinite Ammo Wolfram P2K]
+Type = Gameshark
+Activation = EndFrame
+800B63A8 03E7
+
+[Courier\Max Ammo Fainesi Shotgun]
+Type = Gameshark
+Activation = EndFrame
+800B6742 03E7
+
+[Courier\Max Ammo Koffler KSS]
+Type = Gameshark
+Activation = EndFrame
+800B668A 03E7
+
+[Courier\Max Ammo Wolfram P2K]
+Type = Gameshark
+Activation = EndFrame
+800B63AA 03E7
+
+[Courier\Walk through Walls]
 Type = Gameshark
 Activation = EndFrame
 A7075CAA 10401000
+
+[King's Ransom\Always have AR36 Sniper]
+Type = Gameshark
+Activation = EndFrame
+300B3575 00BA
+
+[King's Ransom\Always have Fainesi Auto]
+Type = Gameshark
+Activation = EndFrame
+300B34BD 00BA
+
+[King's Ransom\Always have Frag Grenade]
+Type = Gameshark
+Activation = EndFrame
+300B362D 00BA
+
+[King's Ransom\Always have Ingalls Type 20]
+Type = Gameshark
+Activation = EndFrame
+300B3405 00BA
+
+[King's Ransom\Always have Satchel Charge]
+Type = Gameshark
+Activation = EndFrame
+300B36E5 00BA
+
+[King's Ransom\Always have Wolfram P2K]
+Type = Gameshark
+Activation = EndFrame
+300B334D 00BA
+
+[King's Ransom\Infinite Ammo AR36 Sniper]
+Type = Gameshark
+Activation = EndFrame
+800B3584 03E7
+
+[King's Ransom\Infinite Ammo Cell Phone Stunner]
+Type = Gameshark
+Activation = EndFrame
+800B39D0 03E7
+
+[King's Ransom\Infinite Ammo Fainesi Auto]
+Type = Gameshark
+Activation = EndFrame
+800B34CC 03E7
+
+[King's Ransom\Infinite Ammo Ingalls Type 20]
+Type = Gameshark
+Activation = EndFrame
+800B3414 03E7
+
+[King's Ransom\Infinite Ammo Satchel Charge]
+Type = Gameshark
+Activation = EndFrame
+800B36F6 03E7
+
+[King's Ransom\Infinite Ammo Wolfram P2K]
+Type = Gameshark
+Activation = EndFrame
+800B335C 03E7
+
+[King's Ransom\Infinite Frag Grenade]
+Type = Gameshark
+Activation = EndFrame
+800B3638 03E7
+
+[King's Ransom\Max Ammo AR36 Sniper]
+Type = Gameshark
+Activation = EndFrame
+800B3586 03E7
+
+[King's Ransom\Max Ammo Fainesi Auto]
+Type = Gameshark
+Activation = EndFrame
+800B34CE 03E7
+
+[King's Ransom\Max Ammo Ingalls Type 20]
+Type = Gameshark
+Activation = EndFrame
+800B3416 03E7
+
+[King's Ransom\Max Ammo Wolfram P2K]
+Type = Gameshark
+Activation = EndFrame
+800B335E 03E7
+
+[Russian Roulette\Max Money]
+Type = Gameshark
+Activation = EndFrame
+8009DB6C 967F
+8009DB6E 0098
 ;Need to look at the other levels
-;King's Ransom
-;Cold Reception
 ;Russian Roulette
 ;Night Watch
 ;Masquerade
