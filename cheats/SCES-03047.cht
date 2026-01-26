@@ -1,152 +1,145 @@
 ; CHTDB: ; [ The Legend of Dragoon aka The Legend of Dragoon: La Leyenda de los Dragoon (Spain) {SCES-03047 | SCES-13047 | SCES-23047 | SCES-33047} ]
 
-[NTSC Mode]
-Type = Gameshark
-Activation = EndFrame
-Author = PeterDelta
-Description = Runs NTSC video mode. The timer is going a little fast
-A7054998 00010000
-
 [Infinite Gold]
 Type = Gameshark
 Activation = EndFrame
 900BAF84 0098967F
 
-[Albert\Infinite HP Albert]
+[Albert\Infinite HP]
 Type = Gameshark
 Activation = EndFrame
 800BB300 270F
 800BECA6 270F
 
-[Albert\Infinite MP Albert]
+[Albert\Infinite MP]
 Type = Gameshark
 Activation = EndFrame
 800BB303 03E7
 
-[Albert\Infinite SP Albert]
+[Albert\Infinite SP]
 Type = Gameshark
 Activation = EndFrame
 800BB305 03E7
 
-[Dart\Infinite HP Dart]
+[Dart\Infinite HP]
 Type = Gameshark
 Activation = EndFrame
 800BB224 270F
 800BE986 270F
 
-[Dart\Infinite MP Dart]
+[Dart\Infinite MP]
 Type = Gameshark
 Activation = EndFrame
 800BB226 03E7
 
-[Dart\Infinite SP Dart]
+[Dart\Infinite SP]
 Type = Gameshark
 Activation = EndFrame
 800BB228 03E7
 
-[Haschel\Infinite HP Haschel]
+[Haschel\Infinite HP]
 Type = Gameshark
 Activation = EndFrame
 800BB2D4 270F
 800BEC06 270F
 
-[Haschel\Infinite MP Haschel]
+[Haschel\Infinite MP]
 Type = Gameshark
 Activation = EndFrame
 800BB2D6 03E7
 
-[Haschel\Infinite SP Haschel]
+[Haschel\Infinite SP]
 Type = Gameshark
 Activation = EndFrame
 800BB2D8 03E7
 
-[Kongol\Infinite HP Kongol]
+[Kongol\Infinite HP]
 Type = Gameshark
 Activation = EndFrame
 800BB358 270F
 800BEDE6 270F
 
-[Kongol\Infinite MP Kongol]
+[Kongol\Infinite MP]
 Type = Gameshark
 Activation = EndFrame
 800BB35A 03E7
 
-[Kongol\Infinite SP Kongol]
+[Kongol\Infinite SP]
 Type = Gameshark
 Activation = EndFrame
 800BB35C 03E7
 
-[Lawitz\Infinite HP Lawitz]
+[Lawitz\Infinite HP]
 Type = Gameshark
 Activation = EndFrame
 800BB250 270F
 800BEA26 270F
 
-[Lawitz\Infinite MP Lawitz]
+[Lawitz\Infinite MP]
 Type = Gameshark
 Activation = EndFrame
 800BB252 03E7
 
-[Meru\Infinite HP Meru]
+[Meru\Infinite HP]
 Type = Gameshark
 Activation = EndFrame
 800BB32C 270F
 800BED46 270F
 
-[Meru\Infinite MP Meru]
+[Meru\Infinite MP]
 Type = Gameshark
 Activation = EndFrame
 800BB32E 03E7
 
-[Meru\Infinite SP Meru]
+[Meru\Infinite SP]
 Type = Gameshark
 Activation = EndFrame
 800BB330 03E7
 
-[Miranda\Infinite HP Miranda]
+[Miranda\Infinite HP]
 Type = Gameshark
 Activation = EndFrame
 800BB384 270F
 800BEE86 270F
 
-[Miranda\Infinite MP Miranda]
+[Miranda\Infinite MP]
 Type = Gameshark
 Activation = EndFrame
 800BB386 03E7
 
-[Miranda\Infinite SP Miranda]
+[Miranda\Infinite SP]
 Type = Gameshark
 Activation = EndFrame
 800BB388 03E7
 
-[Rose\Infinite HP Rose]
+[Rose\Infinite HP]
 Type = Gameshark
 Activation = EndFrame
 800BB2A8 270F
 800BE6B6 270F
 
-[Rose\Infinite MP Rose]
+[Rose\Infinite MP]
 Type = Gameshark
 Activation = EndFrame
 800BB2AA 03E7
 
-[Rose\Infinite SP Rose]
+[Rose\Infinite SP]
 Type = Gameshark
 Activation = EndFrame
 800BB2AC 03E7
 
-[Shanna\Infinite HP Shanna]
+[Shanna\Infinite HP]
 Type = Gameshark
 Activation = EndFrame
 800BB27C 270F
 800BEAC6 270F
 
-[Shanna\Infinite MP Shanna]
+[Shanna\Infinite MP]
 Type = Gameshark
 Activation = EndFrame
 800BB27E 03E7
 
-[Shanna\Infinite SP Shanna]
+[Shanna\Infinite SP]
 Type = Gameshark
 Activation = EndFrame
 800BB280 03E7
@@ -172,4 +165,11 @@ Activation = EndFrame
 8002366E 2400
 80023696 2400
 8002369A 2400
+
+[NTSC Mode]
+Description = Runs NTSC video mode. The timer is going a little fast
+Type = Gameshark
+Activation = EndFrame
+Author = PeterDelta
+A7054998 00010000
 

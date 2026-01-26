@@ -1,4 +1,4 @@
-; CHTDB: ; [ Digimon Tamers Battle Evolution (Japan) (2001) (Bandai) {SLPS-03357} <overlord_chaos> ]
+; CHTDB: ; [ Digimon Tamers - Battle Evolution (Jpn) (2001) (Bandai) {SLPS-03357} <digitte> ]
 
 [Widescreen Fix]
 Description = Expands the screen width to get proper widescreen levels
@@ -6,13 +6,13 @@ Type = Gameshark
 Activation = EndFrame
 A70D4924 10000400
 
-[Alternate Colors Player 1]
-Description = Inverted colors used when P1 and COM/P2 uses the same character
+[P1 Alternate Colours]
+Description = Inverted colours used when P1 and COM/P2 uses the same character
 Type = Gameshark
 Activation = EndFrame
 8005FC0C 0001
 
-[Max Score Player 1]
+[P1 Max Score]
 Description = Max Score in all the battles (not in mini-games)
 Type = Gameshark
 Activation = EndFrame

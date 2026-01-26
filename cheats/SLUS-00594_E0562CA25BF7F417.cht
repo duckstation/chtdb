@@ -109,7 +109,7 @@ Type = Gameshark
 Activation = EndFrame
 A706381A 0C002400
 
-[Widescreen 16:9]
+[Widescreen 16-9]
 Type = Gameshark
 Activation = EndFrame
 8001F6E0 4415
@@ -319,7 +319,7 @@ Type = Gameshark
 Activation = EndFrame
 800B7586 0001
 
-[Easy Boss Battles (Read Descriptions)\Jeep Chase: Infinite Time]
+[Easy Boss Battles (Read Descriptions)\Jeep Chase - Infinite Time]
 Type = Gameshark
 Activation = EndFrame
 800E1258 FFFF
@@ -378,3 +378,4 @@ Type = Gameshark
 Activation = EndFrame
 D00B2D58 0008
 80157408 0000
+

@@ -39,6 +39,8 @@ A702A548 00020001
 [Race Music Selector]
 Type = Gameshark
 Activation = EndFrame
+E00AD6F1 00FF
+300AD6EF 00??
 Option = Freedom to Win:00
 Option = Nobody:01
 Option = Green Monster:02
@@ -65,19 +67,18 @@ Option = Post-Race/License Menu:22
 Option = Arcade Mode Menu:23
 Option = Quick Menu (unused song):24
 Option = Goodies (unused song):25
-E00AD6F1 00FF
-300AD6EF 00??
 
-[Car Color Selector]
+[Car Colour Selector]
+Description = Make sure you're selecting a colour that the car can actually have.
 Type = Gameshark
 Activation = EndFrame
-Description = Make sure you're selecting a color that the car can actually have.
-OptionRange = 0:15
 E20AD9A2 0010
 300AD9A2 00??
+OptionRange = 0:15
 
 [Alternate Music in Arcade Mode Car Selection Menu]
 Type = Gameshark
 Activation = EndFrame
 E0015F14 0001
 30015F14 0000
+

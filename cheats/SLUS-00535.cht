@@ -1,0 +1,127 @@
+; CHTDB: ; [ Riven - The Sequel to Myst (USA) (1997) (Acclaim Entertainment) {SLUS-00535 / SLUS-00563 / SLUS-00564 / SLUS-00565 / SLUS-00580} <riven> ]
+
+[CD 1\Both Stairways Have Power]
+Type = Gameshark
+Activation = EndFrame
+80010020 0001
+800100E4 0001
+
+[CD 1\Code Entered In Small-Dome]
+Description = Go To The Code On The Dome,Turn Cheat On,Move Any Pin, Turn Cheat Off,Hit Button.
+Type = Gameshark
+Activation = EndFrame
+800621C0 0400
+800621C2 0F05
+800621C4 1714
+
+[CD 1\Door To Image Chair Open]
+Type = Gameshark
+Activation = EndFrame
+8001007E 0001
+
+[CD 1\Dots In Place On Big-Dome Puzzle]
+Description = Just Lower The Compressor,And Hit The Button.
+Type = Gameshark
+Activation = EndFrame
+8001014E 0008
+8001015A 0010
+80010150 0005
+8001015C 0015
+80010154 000F
+80010160 0000
+80010156 0015
+80010162 0000
+80010158 0001
+80010164 0003
+
+[CD 1\Inside Big-Dome,Bridge Open]
+Type = Gameshark
+Activation = EndFrame
+80010084 0001
+
+[CD 1\Spinning Room Both Grids Open]
+Type = Gameshark
+Activation = EndFrame
+80010082 0001
+8001007A 0001
+
+[CD 1\Spinning Room NorthEast Door Open]
+Type = Gameshark
+Activation = EndFrame
+80010080 0001
+
+[CD 1\Stairway To Big-Dome Puzzle Up]
+Type = Gameshark
+Activation = EndFrame
+800100D0 0001
+
+[CD 1\Telescope Has Power]
+Description = Turn Cheat On Then Off When You Want Something Done,And Turn On & Off After Disk Change
+Type = Gameshark
+Activation = EndFrame
+800100D6 0001
+
+[CD 2\All Lake Docks Extended]
+Type = Gameshark
+Activation = EndFrame
+80010104 0001
+80010106 0001
+80010108 0001
+8001010A 0001
+8001010C 0001
+
+[CD 2\Ladder Above Village Dock Down]
+Type = Gameshark
+Activation = EndFrame
+80010122 0001
+
+[CD 2\Stairs To Forest Elevator Open]
+Type = Gameshark
+Activation = EndFrame
+8001012A 0001
+
+[CD 2\The Lake Train Is Down In Water]
+Type = Gameshark
+Activation = EndFrame
+80010100 0001
+
+[CD 2\Touch Last Animal Stone To Solve]
+Description = Walk Into The Animal Stones Room (Don't Turn),Turn Cheat On,Turn Cheat Off,Hit The Stone Directly In The Middle.
+Type = Gameshark
+Activation = EndFrame
+80010190 0917
+80010192 0B10
+8006610A 8016
+801B244A 8016
+
+[CD 3\Code On Prison Island Entered]
+Description = Just toggle the cheat on and off to solve.
+Type = Gameshark
+Activation = EndFrame
+8001008C 0005
+
+[CD 3\Door To Ghen's Office Open]
+Type = Gameshark
+Activation = EndFrame
+80010028 0001
+
+[CD 3\Manhole On Balcony Open]
+Type = Gameshark
+Activation = EndFrame
+80010052 0001
+
+[CD 4\Always have Trap Book, Journal, Letter]
+Type = Gameshark
+Activation = EndFrame
+8006C77C 0007
+
+[CD 5\Books In Ghen's World Have Power]
+Type = Gameshark
+Activation = EndFrame
+80010074 0001
+
+[CD 5\Cage In Ghen's World Open]
+Type = Gameshark
+Activation = EndFrame
+80010072 0001
+

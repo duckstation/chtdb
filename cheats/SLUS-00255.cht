@@ -12,10 +12,1291 @@ Activation = EndFrame
 801B24FE 270F
 801B2500 270F
 
-[50000 OF GOLD]
+[Always have 50000 Gold]
 Type = Gameshark
 Activation = EndFrame
 801B2534 C350
+
+[Enemies Usually Drop 1000 GOLD]
+Type = Gameshark
+Activation = EndFrame
+8019778E 03E8
+
+[Select Level]
+Type = Gameshark
+Activation = EndFrame
+801B24F0 00??
+OptionRange = 0x00:0xFF
+
+[Select Experience]
+Description = Enter 65535 for Quick Level Gain
+Type = Gameshark
+Activation = EndFrame
+801B24E4 ????
+OptionRange = 0x0000:0xFFFF
+
+[Max Defensive Blow]
+Type = Gameshark
+Activation = EndFrame
+801B254C 270F
+
+[Max Defensive Dark Magic]
+Type = Gameshark
+Activation = EndFrame
+801B2550 270F
+
+[Max Defensive Earth Magic]
+Type = Gameshark
+Activation = EndFrame
+801B2556 270F
+
+[Max Defensive Fire Magic]
+Type = Gameshark
+Activation = EndFrame
+801B2554 270F
+
+[Max Defensive Holy Magic]
+Type = Gameshark
+Activation = EndFrame
+801B2552 270F
+
+[Max Defensive Slash]
+Type = Gameshark
+Activation = EndFrame
+801B254A 270F
+
+[Max Defensive Stab]
+Type = Gameshark
+Activation = EndFrame
+801B254E 270F
+
+[Max Defensive Water Magic]
+Type = Gameshark
+Activation = EndFrame
+801B255A 270F
+
+[Max Defensive Wind Magic]
+Type = Gameshark
+Activation = EndFrame
+801B2558 270F
+
+[Max Offensive Blow]
+Type = Gameshark
+Activation = EndFrame
+801B253A 270F
+
+[Max Offensive Earth Magic]
+Type = Gameshark
+Activation = EndFrame
+801B2542 270F
+
+[Max Offensive Fire Magic]
+Type = Gameshark
+Activation = EndFrame
+801B2540 270F
+
+[Max Offensive Holy Magic]
+Type = Gameshark
+Activation = EndFrame
+801B253E 270F
+
+[Max Offensive Slash]
+Type = Gameshark
+Activation = EndFrame
+801B2538 270F
+
+[Max Offensive Stab]
+Type = Gameshark
+Activation = EndFrame
+801B253C 270F
+
+[Max Offensive Water Magic]
+Type = Gameshark
+Activation = EndFrame
+801B2546 270F
+
+[Max Offensive Wind Magic]
+Type = Gameshark
+Activation = EndFrame
+801B2544 270F
+
+[Rapid Magic Usage]
+Type = Gameshark
+Activation = EndFrame
+801B2506 1388
+801E103A FF00
+801E1044 FF00
+
+[Rapid Weapon Usage]
+Type = Gameshark
+Activation = EndFrame
+801B2502 1388
+801A120C 1208
+801A120E 001A
+801B259C 0000
+801B259E 0000
+
+[Separated Items\Always have 'A01']
+Description = Item blocked in US version - real name unknown
+Type = Gameshark
+Activation = EndFrame
+300C85FA 0063
+
+[Separated Items\Always have 'A02']
+Description = Item blocked in US version - real name unknown
+Type = Gameshark
+Activation = EndFrame
+300C85FB 0063
+
+[Separated Items\Always have 'A03']
+Description = Item blocked in US version - real name unknown
+Type = Gameshark
+Activation = EndFrame
+300C8601 0063
+
+[Separated Items\Always have 'A04']
+Description = Item blocked in US version - real name unknown
+Type = Gameshark
+Activation = EndFrame
+300C8602 0063
+
+[Separated Items\Always have 'A05']
+Description = Item blocked in US version - real name unknown
+Type = Gameshark
+Activation = EndFrame
+300C861A 0063
+
+[Separated Items\Always have 'A06']
+Description = Item blocked in US version - real name unknown
+Type = Gameshark
+Activation = EndFrame
+300C8625 0063
+
+[Separated Items\Always have 'A07']
+Description = Item blocked in US version - real name unknown
+Type = Gameshark
+Activation = EndFrame
+300C8626 0063
+
+[Separated Items\Always have 'A08']
+Description = Item blocked in US version - real name unknown
+Type = Gameshark
+Activation = EndFrame
+300C862F 0063
+
+[Separated Items\Always have 'A09']
+Description = Item blocked in US version - real name unknown
+Type = Gameshark
+Activation = EndFrame
+300C8638 0063
+
+[Separated Items\Always have 'A10']
+Description = Item blocked in US version - real name unknown
+Type = Gameshark
+Activation = EndFrame
+300C863F 0063
+
+[Separated Items\Always have 'A11']
+Description = Item blocked in US version - real name unknown
+Type = Gameshark
+Activation = EndFrame
+300C8645 0063
+
+[Separated Items\Always have 'A12']
+Description = Item blocked in US version - real name unknown
+Type = Gameshark
+Activation = EndFrame
+300C8646 0063
+
+[Separated Items\Always have 'A13']
+Description = Item blocked in US version - real name unknown
+Type = Gameshark
+Activation = EndFrame
+300C8649 0063
+
+[Separated Items\Always have 'A14']
+Description = Item blocked in US version - real name unknown
+Type = Gameshark
+Activation = EndFrame
+300C864A 0063
+
+[Separated Items\Always have 'A15']
+Description = Item blocked in US version - real name unknown
+Type = Gameshark
+Activation = EndFrame
+300C864F 0063
+
+[Separated Items\Always have 'A16']
+Description = Item blocked in US version - real name unknown
+Type = Gameshark
+Activation = EndFrame
+300C8661 0063
+
+[Separated Items\Always have 'A17']
+Description = Item blocked in US version - real name unknown
+Type = Gameshark
+Activation = EndFrame
+300C8662 0063
+
+[Separated Items\Always have 'A18']
+Description = Item blocked in US version - real name unknown
+Type = Gameshark
+Activation = EndFrame
+300C8679 0063
+
+[Separated Items\Always have 'A19']
+Description = Item blocked in US version - real name unknown
+Type = Gameshark
+Activation = EndFrame
+300C867D 0063
+
+[Separated Items\Always have Anorium Sword]
+Type = Gameshark
+Activation = EndFrame
+300C85F3 0063
+
+[Separated Items\Always have Antidote]
+Type = Gameshark
+Activation = EndFrame
+300C8651 0063
+
+[Separated Items\Always have Aquarian Boots]
+Type = Gameshark
+Activation = EndFrame
+300C8633 0063
+
+[Separated Items\Always have Arrows]
+Type = Gameshark
+Activation = EndFrame
+300C867B 0063
+
+[Separated Items\Always have Battle Axe]
+Type = Gameshark
+Activation = EndFrame
+300C85FC 0063
+
+[Separated Items\Always have Black Jewel]
+Type = Gameshark
+Activation = EndFrame
+300C8642 0063
+
+[Separated Items\Always have Blood Herb]
+Type = Gameshark
+Activation = EndFrame
+300C8667 0063
+
+[Separated Items\Always have Blood Star]
+Type = Gameshark
+Activation = EndFrame
+300C8607 0063
+
+[Separated Items\Always have Blood Stone]
+Type = Gameshark
+Activation = EndFrame
+300C8654 0063
+
+[Separated Items\Always have Blue Potion]
+Type = Gameshark
+Activation = EndFrame
+300C865F 0063
+
+[Separated Items\Always have Broad Sword]
+Type = Gameshark
+Activation = EndFrame
+300C85ED 0063
+
+[Separated Items\Always have Capricorn Sword]
+Type = Gameshark
+Activation = EndFrame
+300C85F1 0063
+
+[Separated Items\Always have Copper Key]
+Type = Gameshark
+Activation = EndFrame
+300C8671 0063
+
+[Separated Items\Always have Crescent Axe]
+Type = Gameshark
+Activation = EndFrame
+300C85FD 0063
+
+[Separated Items\Always have Crystal Flask]
+Type = Gameshark
+Activation = EndFrame
+300C865E 0063
+
+[Separated Items\Always have Dark Slayer Sword]
+Type = Gameshark
+Activation = EndFrame
+300C85F6 0063
+
+[Separated Items\Always have Demon's Key]
+Type = Gameshark
+Activation = EndFrame
+300C8677 0063
+
+[Separated Items\Always have Dragon Crystal]
+Type = Gameshark
+Activation = EndFrame
+300C8653 0063
+
+[Separated Items\Always have Dragon Head]
+Type = Gameshark
+Activation = EndFrame
+300C860F 0063
+
+[Separated Items\Always have Dwarve's Key]
+Type = Gameshark
+Activation = EndFrame
+300C8676 0063
+
+[Separated Items\Always have Earth Crystal]
+Type = Gameshark
+Activation = EndFrame
+300C865A 0063
+
+[Separated Items\Always have Earth Herb]
+Type = Gameshark
+Activation = EndFrame
+300C8650 0063
+
+[Separated Items\Always have Earth Shield]
+Type = Gameshark
+Activation = EndFrame
+300C861D 0063
+
+[Separated Items\Always have Ebony Bracelet]
+Type = Gameshark
+Activation = EndFrame
+300C863D 0063
+
+[Separated Items\Always have Elchris Bow]
+Type = Gameshark
+Activation = EndFrame
+300C8604 0063
+
+[Separated Items\Always have Evil Crescent]
+Type = Gameshark
+Activation = EndFrame
+300C85FE 0063
+
+[Separated Items\Always have Evil Ring]
+Type = Gameshark
+Activation = EndFrame
+300C863A 0063
+
+[Separated Items\Always have Excellector (1st)]
+Type = Gameshark
+Activation = EndFrame
+300C85E8 0063
+
+[Separated Items\Always have Excellector (2nd)]
+Type = Gameshark
+Activation = EndFrame
+300C85E9 0063
+
+[Separated Items\Always have Excellector (3rd)]
+Type = Gameshark
+Activation = EndFrame
+300C85EA 0063
+
+[Separated Items\Always have Fair Fossil]
+Type = Gameshark
+Activation = EndFrame
+300C8666 0063
+
+[Separated Items\Always have Fire Crystal]
+Type = Gameshark
+Activation = EndFrame
+300C8659 0063
+
+[Separated Items\Always have Fire Knuckles]
+Type = Gameshark
+Activation = EndFrame
+300C862B 0063
+
+[Separated Items\Always have Fire Mail]
+Type = Gameshark
+Activation = EndFrame
+300C8615 0063
+
+[Separated Items\Always have Flame Rod]
+Type = Gameshark
+Activation = EndFrame
+300C8609 0063
+
+[Separated Items\Always have Flame Sword]
+Type = Gameshark
+Activation = EndFrame
+300C85EC 0063
+
+[Separated Items\Always have Fu-Jin]
+Type = Gameshark
+Activation = EndFrame
+300C8635 0063
+
+[Separated Items\Always have Globe Amulet]
+Type = Gameshark
+Activation = EndFrame
+300C8640 0063
+
+[Separated Items\Always have Gold Coin]
+Type = Gameshark
+Activation = EndFrame
+300C867A 0063
+
+[Separated Items\Always have Gold Potion]
+Type = Gameshark
+Activation = EndFrame
+300C8660 0063
+
+[Separated Items\Always have Gold Ring]
+Type = Gameshark
+Activation = EndFrame
+300C863E 0063
+
+[Separated Items\Always have Great Helm]
+Type = Gameshark
+Activation = EndFrame
+300C860C 0063
+
+[Separated Items\Always have Green Bracelet]
+Type = Gameshark
+Activation = EndFrame
+300C8639 0063
+
+[Separated Items\Always have Groundal Arms]
+Type = Gameshark
+Activation = EndFrame
+300C862C 0063
+
+[Separated Items\Always have Groundal Blade]
+Type = Gameshark
+Activation = EndFrame
+300C85F2 0063
+
+[Separated Items\Always have Groundal Boots]
+Type = Gameshark
+Activation = EndFrame
+300C8634 0063
+
+[Separated Items\Always have Groundal Crown]
+Type = Gameshark
+Activation = EndFrame
+300C860E 0063
+
+[Separated Items\Always have Groundal Mail]
+Type = Gameshark
+Activation = EndFrame
+300C8618 0063
+
+[Separated Items\Always have Groundal Shield]
+Type = Gameshark
+Activation = EndFrame
+300C8622 0063
+
+[Separated Items\Always have Herbal Liquid]
+Type = Gameshark
+Activation = EndFrame
+300C8652 0063
+
+[Separated Items\Always have High Elves Guard]
+Type = Gameshark
+Activation = EndFrame
+300C861E 0063
+
+[Separated Items\Always have High Metal Armor]
+Type = Gameshark
+Activation = EndFrame
+300C8614 0063
+
+[Separated Items\Always have Ichrius Shield]
+Type = Gameshark
+Activation = EndFrame
+300C8624 0063
+
+[Separated Items\Always have Ichrius' Armor]
+Type = Gameshark
+Activation = EndFrame
+300C8619 0063
+
+[Separated Items\Always have Ichrius' Boots]
+Type = Gameshark
+Activation = EndFrame
+300C8637 0063
+
+[Separated Items\Always have Ichrius' Gloves]
+Type = Gameshark
+Activation = EndFrame
+300C862E 0063
+
+[Separated Items\Always have Ichrius' Helm]
+Type = Gameshark
+Activation = EndFrame
+300C8611 0063
+
+[Separated Items\Always have Ichrius's Crown]
+Type = Gameshark
+Activation = EndFrame
+300C866C 0063
+
+[Separated Items\Always have Ichrius's Eys]
+Type = Gameshark
+Activation = EndFrame
+300C866A 0063
+
+[Separated Items\Always have Ichrius's Key]
+Type = Gameshark
+Activation = EndFrame
+300C866D 0063
+
+[Separated Items\Always have Ichrius's Wings]
+Type = Gameshark
+Activation = EndFrame
+300C866B 0063
+
+[Separated Items\Always have Iron Boots]
+Type = Gameshark
+Activation = EndFrame
+300C8630 0063
+
+[Separated Items\Always have Iron Gloves]
+Type = Gameshark
+Activation = EndFrame
+300C8628 0063
+
+[Separated Items\Always have Iron Helm]
+Type = Gameshark
+Activation = EndFrame
+300C860B 0063
+
+[Separated Items\Always have Iron Plate]
+Type = Gameshark
+Activation = EndFrame
+300C8613 0063
+
+[Separated Items\Always have Iron Shield]
+Type = Gameshark
+Activation = EndFrame
+300C861C 0063
+
+[Separated Items\Always have Ivory Bracelet]
+Type = Gameshark
+Activation = EndFrame
+300C863C 0063
+
+[Separated Items\Always have Key of The Corridor]
+Type = Gameshark
+Activation = EndFrame
+300C866E 0063
+
+[Separated Items\Always have Large Bow]
+Type = Gameshark
+Activation = EndFrame
+300C8603 0063
+
+[Separated Items\Always have Leather Gloves]
+Type = Gameshark
+Activation = EndFrame
+300C8627 0063
+
+[Separated Items\Always have Leather Helm]
+Type = Gameshark
+Activation = EndFrame
+300C860A 0063
+
+[Separated Items\Always have Leather Plate]
+Type = Gameshark
+Activation = EndFrame
+300C8612 0063
+
+[Separated Items\Always have Leather Shield]
+Type = Gameshark
+Activation = EndFrame
+300C861B 0063
+
+[Separated Items\Always have Leg Guards]
+Type = Gameshark
+Activation = EndFrame
+300C8631 0063
+
+[Separated Items\Always have Leon's Note]
+Type = Gameshark
+Activation = EndFrame
+300C864C 0063
+
+[Separated Items\Always have Light Arrows]
+Type = Gameshark
+Activation = EndFrame
+300C867C 0063
+
+[Separated Items\Always have Light Crystal]
+Type = Gameshark
+Activation = EndFrame
+300C865D 0063
+
+[Separated Items\Always have Long Sword]
+Type = Gameshark
+Activation = EndFrame
+300C85EB 0063
+
+[Separated Items\Always have Luster Wing]
+Type = Gameshark
+Activation = EndFrame
+300C8643 0063
+
+[Separated Items\Always have Lyn's Key]
+Type = Gameshark
+Activation = EndFrame
+300C8678 0063
+
+[Separated Items\Always have Lyn's Note]
+Type = Gameshark
+Activation = EndFrame
+300C864B 0063
+
+[Separated Items\Always have Lyn's Ring]
+Type = Gameshark
+Activation = EndFrame
+300C8669 0063
+
+[Separated Items\Always have Mace]
+Type = Gameshark
+Activation = EndFrame
+300C8600 0063
+
+[Separated Items\Always have Magicians Key]
+Type = Gameshark
+Activation = EndFrame
+300C8673 0063
+
+[Separated Items\Always have Map of Verdite]
+Type = Gameshark
+Activation = EndFrame
+300C8647 0063
+
+[Separated Items\Always have Marilyn's Charm]
+Type = Gameshark
+Activation = EndFrame
+300C8663 0063
+
+[Separated Items\Always have Moon Stone]
+Type = Gameshark
+Activation = EndFrame
+300C8655 0063
+
+[Separated Items\Always have Moonlight Sword (Alfred)]
+Type = Gameshark
+Activation = EndFrame
+300C85F9 0063
+
+[Separated Items\Always have Moonlight Sword]
+Type = Gameshark
+Activation = EndFrame
+300C8665 0063
+
+[Separated Items\Always have Morguline Axe]
+Type = Gameshark
+Activation = EndFrame
+300C85FF 0063
+
+[Separated Items\Always have Morning Star]
+Type = Gameshark
+Activation = EndFrame
+300C8605 0063
+
+[Separated Items\Always have Orladin's Guard (With Eyes)]
+Type = Gameshark
+Activation = EndFrame
+300C8621 0063
+
+[Separated Items\Always have Orladin's Guard]
+Type = Gameshark
+Activation = EndFrame
+300C8620 0063
+
+[Separated Items\Always have Orladin's Mail]
+Type = Gameshark
+Activation = EndFrame
+300C8616 0063
+
+[Separated Items\Always have Orlandin's Hood]
+Type = Gameshark
+Activation = EndFrame
+300C860D 0063
+
+[Separated Items\Always have Orlandin's Key]
+Type = Gameshark
+Activation = EndFrame
+300C8670 0063
+
+[Separated Items\Always have Orlandin's Pic]
+Type = Gameshark
+Activation = EndFrame
+300C8668 0063
+
+[Separated Items\Always have Phanton Crown]
+Type = Gameshark
+Activation = EndFrame
+300C8644 0063
+
+[Separated Items\Always have Pirate Key]
+Type = Gameshark
+Activation = EndFrame
+300C8674 0063
+
+[Separated Items\Always have Pixy's Map]
+Type = Gameshark
+Activation = EndFrame
+300C8648 0063
+
+[Separated Items\Always have Power Fruit]
+Type = Gameshark
+Activation = EndFrame
+300C8657 0063
+
+[Separated Items\Always have Promeus Armor]
+Type = Gameshark
+Activation = EndFrame
+300C8617 0063
+
+[Separated Items\Always have Promeus Boots]
+Type = Gameshark
+Activation = EndFrame
+300C8636 0063
+
+[Separated Items\Always have Promeus Hands]
+Type = Gameshark
+Activation = EndFrame
+300C862D 0063
+
+[Separated Items\Always have Promeus Helm]
+Type = Gameshark
+Activation = EndFrame
+300C8610 0063
+
+[Separated Items\Always have Promeus Shield]
+Type = Gameshark
+Activation = EndFrame
+300C8623 0063
+
+[Separated Items\Always have Promeus]
+Type = Gameshark
+Activation = EndFrame
+300C8664 0063
+
+[Separated Items\Always have Rai Jin]
+Type = Gameshark
+Activation = EndFrame
+300C862A 0063
+
+[Separated Items\Always have Rapier]
+Type = Gameshark
+Activation = EndFrame
+300C85EF 0063
+
+[Separated Items\Always have Royal Key]
+Type = Gameshark
+Activation = EndFrame
+300C866F 0063
+
+[Separated Items\Always have Ryu-Ga Sword]
+Type = Gameshark
+Activation = EndFrame
+300C85F0 0063
+
+[Separated Items\Always have Ryu-Jin]
+Type = Gameshark
+Activation = EndFrame
+300C861F 0063
+
+[Separated Items\Always have Seth's Sword]
+Type = Gameshark
+Activation = EndFrame
+300C85F5 0063
+
+[Separated Items\Always have Silence Rod]
+Type = Gameshark
+Activation = EndFrame
+300C8608 0063
+
+[Separated Items\Always have Silvarion Sword]
+Type = Gameshark
+Activation = EndFrame
+300C85EE 0063
+
+[Separated Items\Always have Silver Arms]
+Type = Gameshark
+Activation = EndFrame
+300C8629 0063
+
+[Separated Items\Always have Silver Boots]
+Type = Gameshark
+Activation = EndFrame
+300C8632 0063
+
+[Separated Items\Always have Silver Key]
+Type = Gameshark
+Activation = EndFrame
+300C8672 0063
+
+[Separated Items\Always have Silver Ring]
+Type = Gameshark
+Activation = EndFrame
+300C863B 0063
+
+[Separated Items\Always have Silvera's Key]
+Type = Gameshark
+Activation = EndFrame
+300C8675 0063
+
+[Separated Items\Always have Triple Fang Sword]
+Type = Gameshark
+Activation = EndFrame
+300C85F7 0063
+
+[Separated Items\Always have Truth Glass]
+Type = Gameshark
+Activation = EndFrame
+300C864D 0063
+
+[Separated Items\Always have Vaculacia Sword]
+Type = Gameshark
+Activation = EndFrame
+300C85F4 0063
+
+[Separated Items\Always have Varde's Key]
+Type = Gameshark
+Activation = EndFrame
+300C864E 0063
+
+[Separated Items\Always have Verdite]
+Type = Gameshark
+Activation = EndFrame
+300C8656 0063
+
+[Separated Items\Always have Volguard]
+Type = Gameshark
+Activation = EndFrame
+300C8606 0063
+
+[Separated Items\Always have Water Crystal]
+Type = Gameshark
+Activation = EndFrame
+300C865B 0063
+
+[Separated Items\Always have Wind Crystal]
+Type = Gameshark
+Activation = EndFrame
+300C865C 0063
+
+[Separated Items\Always have Wind Necklace]
+Type = Gameshark
+Activation = EndFrame
+300C8641 0063
+
+[Separated Items\Always have Wisdom Fruit]
+Type = Gameshark
+Activation = EndFrame
+300C8658 0063
+
+[Together Items\Always have "A And A"]
+Type = Gameshark
+Activation = EndFrame
+800C85FA 6363
+
+[Together Items\Always have "A" And Gold Potion]
+Type = Gameshark
+Activation = EndFrame
+800C8660 6363
+
+[Together Items\Always have "A" And Gold Ring]
+Type = Gameshark
+Activation = EndFrame
+800C863E 6363
+
+[Together Items\Always have "A" And Ichrius Shield]
+Type = Gameshark
+Activation = EndFrame
+800C8624 6363
+
+[Together Items\Always have "A" And Ichrius' Gloves]
+Type = Gameshark
+Activation = EndFrame
+800C862E 6363
+
+[Together Items\Always have "A" And Light Arrows]
+Type = Gameshark
+Activation = EndFrame
+800C867C 6363
+
+[Together Items\Always have "A" And Lyn's Key]
+Type = Gameshark
+Activation = EndFrame
+800C8678 6363
+
+[Together Items\Always have "A" And Mace]
+Type = Gameshark
+Activation = EndFrame
+800C8600 6363
+
+[Together Items\Always have "A" And Phantom Crown]
+Type = Gameshark
+Activation = EndFrame
+800C8644 6363
+
+[Together Items\Always have "A" And Pixy's Map]
+Type = Gameshark
+Activation = EndFrame
+800C8648 6363
+
+[Together Items\Always have "A" And Varde's Key]
+Type = Gameshark
+Activation = EndFrame
+800C864E 6363
+
+[Together Items\Always have Anorium Sword And Groundal Blade]
+Type = Gameshark
+Activation = EndFrame
+800C85F2 6363
+
+[Together Items\Always have Antidote And Earth Herb]
+Type = Gameshark
+Activation = EndFrame
+800C8650 6363
+
+[Together Items\Always have Aquarian Boots And Silver Boots]
+Type = Gameshark
+Activation = EndFrame
+800C8632 6363
+
+[Together Items\Always have Arrows And Gold Coin]
+Type = Gameshark
+Activation = EndFrame
+800C867A 6363
+
+[Together Items\Always have Blood Herb And Fairy Fossil]
+Type = Gameshark
+Activation = EndFrame
+800C8666 6363
+
+[Together Items\Always have Blood Star And Volguard]
+Type = Gameshark
+Activation = EndFrame
+800C8606 6363
+
+[Together Items\Always have Blue Potion And Crystal Flask]
+Type = Gameshark
+Activation = EndFrame
+800C865E 6363
+
+[Together Items\Always have Broad Sword And Flame Sword]
+Type = Gameshark
+Activation = EndFrame
+800C85EC 6363
+
+[Together Items\Always have Capricorn Sword And Ryu-Ga Sword]
+Type = Gameshark
+Activation = EndFrame
+800C85F0 6363
+
+[Together Items\Always have Copper Key And Orlandin's Key]
+Type = Gameshark
+Activation = EndFrame
+800C8670 6363
+
+[Together Items\Always have Crescent Axe And Battle Axe]
+Type = Gameshark
+Activation = EndFrame
+800C85FC 6363
+
+[Together Items\Always have Demon's Key And Dwarve's Key]
+Type = Gameshark
+Activation = EndFrame
+800C8676 6363
+
+[Together Items\Always have Dragon Crystal And Herbal Liquid]
+Type = Gameshark
+Activation = EndFrame
+800C8652 6363
+
+[Together Items\Always have Dragon Head And Groundal Crown]
+Type = Gameshark
+Activation = EndFrame
+800C860E 6363
+
+[Together Items\Always have Earth Shield And Iron Shield]
+Type = Gameshark
+Activation = EndFrame
+800C861C 6363
+
+[Together Items\Always have Ebony Bracelet And Ivory Bracelet]
+Type = Gameshark
+Activation = EndFrame
+800C863C 6363
+
+[Together Items\Always have Excellector (2nd) And Excellector (1st)]
+Type = Gameshark
+Activation = EndFrame
+800C85E8 6363
+
+[Together Items\Always have Fire Crystal And Wisdom Fruit]
+Type = Gameshark
+Activation = EndFrame
+800C8658 6363
+
+[Together Items\Always have Fire Knuckles And Rai Jin]
+Type = Gameshark
+Activation = EndFrame
+800C862A 6363
+
+[Together Items\Always have Fire Mail And High Metal Armor]
+Type = Gameshark
+Activation = EndFrame
+800C8614 6363
+
+[Together Items\Always have Flame Rod And Silence Rod]
+Type = Gameshark
+Activation = EndFrame
+800C8608 6363
+
+[Together Items\Always have Fu-Jin And Groundal Boots]
+Type = Gameshark
+Activation = EndFrame
+800C8634 6363
+
+[Together Items\Always have Green Bracelet And "A"]
+Type = Gameshark
+Activation = EndFrame
+800C8638 6363
+
+[Together Items\Always have Ichrius' Armor And Groundal Mail]
+Type = Gameshark
+Activation = EndFrame
+800C8618 6363
+
+[Together Items\Always have Ichrius' Boots And Promeus Boots]
+Type = Gameshark
+Activation = EndFrame
+800C8636 6363
+
+[Together Items\Always have Ichrius' Helm And Promeus Helm]
+Type = Gameshark
+Activation = EndFrame
+800C8610 6363
+
+[Together Items\Always have Ichrius's Key And Ichrius's Crown]
+Type = Gameshark
+Activation = EndFrame
+800C866C 6363
+
+[Together Items\Always have Ichrius's Wings And Ichrius's Eye]
+Type = Gameshark
+Activation = EndFrame
+800C866A 6363
+
+[Together Items\Always have Iron Helm And Leather Helm]
+Type = Gameshark
+Activation = EndFrame
+800C860A 6363
+
+[Together Items\Always have Iron Plate And Leather Plate]
+Type = Gameshark
+Activation = EndFrame
+800C8612 6363
+
+[Together Items\Always have Large Bow And "A"]
+Type = Gameshark
+Activation = EndFrame
+800C8602 6363
+
+[Together Items\Always have Leather Gloves And "A"]
+Type = Gameshark
+Activation = EndFrame
+800C8626 6363
+
+[Together Items\Always have Leather Shield And "A"]
+Type = Gameshark
+Activation = EndFrame
+800C861A 6363
+
+[Together Items\Always have Leg Guards And Iron Boots]
+Type = Gameshark
+Activation = EndFrame
+800C8630 6363
+
+[Together Items\Always have Light Crystal And Wind Crystal]
+Type = Gameshark
+Activation = EndFrame
+800C865C 6363
+
+[Together Items\Always have Long Sword And Excellector (3rd)]
+Type = Gameshark
+Activation = EndFrame
+800C85EA 6363
+
+[Together Items\Always have Luster Wing And Black Jewel]
+Type = Gameshark
+Activation = EndFrame
+800C8642 6363
+
+[Together Items\Always have Lyn's Ring And Orlandins Pic]
+Type = Gameshark
+Activation = EndFrame
+800C8668 6363
+
+[Together Items\Always have Lyn's note And "A"]
+Type = Gameshark
+Activation = EndFrame
+800C864A 6363
+
+[Together Items\Always have Magicians Key And Silver Key]
+Type = Gameshark
+Activation = EndFrame
+800C8672 6363
+
+[Together Items\Always have Map of Verdite And "A"]
+Type = Gameshark
+Activation = EndFrame
+800C8646 6363
+
+[Together Items\Always have Marilyn's Charm And "A"]
+Type = Gameshark
+Activation = EndFrame
+800C8662 6363
+
+[Together Items\Always have Moon Stone And Blood Stone]
+Type = Gameshark
+Activation = EndFrame
+800C8654 6363
+
+[Together Items\Always have Moonlight Sword (Alfred) And Moonlight Sword]
+Type = Gameshark
+Activation = EndFrame
+800C85F8 6363
+
+[Together Items\Always have Moonlight Sword And Promeus]
+Type = Gameshark
+Activation = EndFrame
+800C8664 6363
+
+[Together Items\Always have Morguline Axe And Evil Crescent]
+Type = Gameshark
+Activation = EndFrame
+800C85FE 6363
+
+[Together Items\Always have Morning Star And Elchris Bow]
+Type = Gameshark
+Activation = EndFrame
+800C8604 6363
+
+[Together Items\Always have Orladin's Guard (w/eyes) And Orladin's Guard]
+Type = Gameshark
+Activation = EndFrame
+800C8620 6363
+
+[Together Items\Always have Orlandin's Hood And Great Helm]
+Type = Gameshark
+Activation = EndFrame
+800C860C 6363
+
+[Together Items\Always have Power Fruit And Verdite]
+Type = Gameshark
+Activation = EndFrame
+800C8656 6363
+
+[Together Items\Always have Promeus Armor And Orladin's Mail]
+Type = Gameshark
+Activation = EndFrame
+800C8616 6363
+
+[Together Items\Always have Promeus Hands And Groundal Arms]
+Type = Gameshark
+Activation = EndFrame
+800C862C 6363
+
+[Together Items\Always have Promeus Shield And Groundal Shield]
+Type = Gameshark
+Activation = EndFrame
+800C8622 6363
+
+[Together Items\Always have Rapier And Silvarion Sword]
+Type = Gameshark
+Activation = EndFrame
+800C85EE 6363
+
+[Together Items\Always have Royal Key And Key of The Corridor]
+Type = Gameshark
+Activation = EndFrame
+800C866E 6363
+
+[Together Items\Always have Ryu-Jin And High Elves Guard]
+Type = Gameshark
+Activation = EndFrame
+800C861E 6363
+
+[Together Items\Always have Seth's Sword And Vaculacia Sword]
+Type = Gameshark
+Activation = EndFrame
+800C85F4 6363
+
+[Together Items\Always have Silver Arms And Iron Gloves]
+Type = Gameshark
+Activation = EndFrame
+800C8628 6363
+
+[Together Items\Always have Silver Ring And Evil Ring]
+Type = Gameshark
+Activation = EndFrame
+800C863A 6363
+
+[Together Items\Always have Silvera's Key And Pirate Key]
+Type = Gameshark
+Activation = EndFrame
+800C8674 6363
+
+[Together Items\Always have Triple Fang Sword And Dark Slayer Sword]
+Type = Gameshark
+Activation = EndFrame
+800C85F6 6363
+
+[Together Items\Always have Truth Glass And Leon's Note]
+Type = Gameshark
+Activation = EndFrame
+800C864C 6363
+
+[Together Items\Always have Wind Necklace And Globe Amulet]
+Type = Gameshark
+Activation = EndFrame
+800C8640 6363
+
+[Enhanced controls]
+Description = (R-analog cam, L3 sprint/R3 no recoil attack)
+Type = Gameshark
+Activation = EndFrame
+8002F882 2400
+D0000000 10000
+8002F882 1040
+00000000 0000
+8002F74E 2400
+D0000000 1040000
+8002F74E 1060
+00000000 0000
+8002F5DA 2400
+D0000000 80000
+8002F5DA 1040
+00000000 0000
+8002F642 2400
+D0000000 20000
+8002F642 1040
+00000000 0000
+80031276 2400
+D0000000 0200
+80031276 1440
+00000000 0000
+8003043E 2400
+D0000000 0400
+8003043E 1040
 ;#### PATCHES LISTED BELOW ####
 
 [Uncap game at 30 FPS (200 Overclock for stable 30 FPS)]

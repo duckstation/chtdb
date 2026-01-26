@@ -1,47 +1,283 @@
 ; CHTDB: ; [ Madden NFL 98 (USA, Alt) (1997) (Electronic Arts) {SLUS-00516} <madden98a> ]
 
-[Select Home Team Score]
+[Infinite Time To Choose Play]
 Type = Gameshark
 Activation = EndFrame
-80087CBC 00??
+8007DB8A 0016
+
+[Infinite Time]
+Type = Gameshark
+Activation = EndFrame
+8007DC28 012C
+
+[Have All Teams]
+Type = Gameshark
+Activation = EndFrame
+D009D270 0073
+8009D270 007D
+D009D380 0073
+8009D380 007D
+
+[Cannot Be Tackled]
+Type = Gameshark
+Activation = EndFrame
+80092EA0 1D80
+80092EA2 0C00
+80007600 8009
+80007602 3C02
+80007604 B38A
+80007606 8442
+80007608 0400
+8000760A 3042
+8000760C 0002
+8000760E 1040
+80007610 0030
+80007612 8642
+80007614 0000
+80007616 3402
+80007618 0008
+8000761A 03E0
+
+[Away Team Infinite Time-Outs]
+Type = Gameshark
+Activation = EndFrame
+80089E2A 0004
+
+[Away Team Plays As]
+Type = Gameshark
+Activation = EndFrame
+8007DD54 ????
+Option = '60 Afl:0x001E
+Option = '60 Eagles:0x001F
+Option = '61 Oilers:0x0020
+Option = '61 Packers:0x0021
+Option = '62 Giants:0x0023
+Option = '62 Lions:0x0022
+Option = '62 Packers:0x0024
+Option = '62 Texans:0x0025
+Option = '63 Bears:0x0026
+Option = '63 Chargers:0x0027
+Option = '64 Bills:0x0029
+Option = '64 Browns:0x002A
+Option = '64 Colts:0x0028
+Option = '65 Bears:0x002C
+Option = '65 Packers:0x002B
+Option = '66 Chiefs:0x002E
+Option = '66 Packers:0x002D
+Option = '66 Rams:0x002F
+Option = '67 Packers:0x0030
+Option = '67 Raiders:0x0031
+Option = '68 Jets:0x0032
+Option = '69 Chiefs:0x0033
+Option = '69 Vikings:0x0034
+Option = '70 Colts:0x0035
+Option = '71 Cowboys:0x0036
+Option = '72 Dolphins:0x0037
+Option = '73 Bills:0x0038
+Option = '73 Dolphins:0x0039
+Option = '74 Steelers:0x003A
+Option = '75 Cardinals:0x003C
+Option = '75 Steelers:0x003B
+Option = '76 Raiders:0x003D
+Option = '76 Redskins:0x003E
+Option = '76 Vikings:0x003F
+Option = '77 Bears:0x0040
+Option = '77 Cowboys:0x0041
+Option = '78 Broncos:0x0042
+Option = '78 Steelers:0x0043
+Option = '79 Buccaneers:0x0047
+Option = '79 Rams:0x0046
+Option = '79 Saints:0x0045
+Option = '79 Steelers:0x0044
+Option = '80 Eagles:0x004B
+Option = '80 Falcons:0x0048
+Option = '80 Oilers:0x0049
+Option = '80 Raiders:0x004A
+Option = '81 49Ers:0x004E
+Option = '81 Bengals:0x004C
+Option = '81 Chargers:0x004D
+Option = '82 Redskins:0x004F
+Option = '83 Raiders:0x0050
+Option = '83 Seahawks:0x0051
+Option = '84 49Ers:0x0053
+Option = '84 Cardinals:0x0055
+Option = '84 Dolphins:0x0052
+Option = '84 Rams:0x0054
+Option = '85 Bears:0x0056
+Option = '85 Browns:0x0057
+Option = '85 Jets:0x0058
+Option = '85 Patriots:0x0059
+Option = '86 Broncos:0x005A
+Option = '86 Giants:0x005B
+Option = '87 Redskins:0x005D
+Option = '87 Saints:0x005C
+Option = '88 49Ers:0x005F
+Option = '88 Bengals:0x005E
+Option = '89 49Ers:0x0061
+Option = '89 Broncos:0x0060
+Option = '90 Bills:0x0063
+Option = '90 Chiefs:0x0062
+Option = '90 Eagles:0x0066
+Option = '90 Giants:0x0065
+Option = '90 Raiders:0x0064
+Option = '91 Redskins:0x0067
+Option = '92 Cowboys:0x0068
+Option = '93 Chiefs:0x0069
+Option = '93 Cowboys:0x006A
+Option = '94 49Ers:0x006D
+Option = '94 Dolphins:0x006B
+Option = '94 Lions:0x006C
+Option = '95 Cowboys:0x006E
+Option = '95 Steelers:0x006F
+Option = '96 Packers:0x0071
+Option = '96 Panthers:0x0070
+Option = '96 Patriots:0x0072
+
+[Away Team No Time-Outs]
+Type = Gameshark
+Activation = EndFrame
+80089E2A 0000
+
+[Away Team Select Score]
+Type = Gameshark
+Activation = EndFrame
+80089E28 ????
 OptionRange = 0:99
 
-[Select Away Team Score]
+[Away Team Stats Modifier\2pt Attempts]
 Type = Gameshark
 Activation = EndFrame
-80089E28 00??
-OptionRange = 0:99
+80087CD0 00??
+OptionRange = 0x00:0xFF
 
-[Max Agility]
+[Away Team Stats Modifier\2pt Conv. Made]
 Type = Gameshark
 Activation = EndFrame
-30163674 0063
+80087CD2 00??
+OptionRange = 0x00:0xFF
 
-[Max Speed]
+[Away Team Stats Modifier\Def Redzone FGS]
 Type = Gameshark
 Activation = EndFrame
-30163675 0063
+80087CDE 00??
+OptionRange = 0x00:0xFF
 
-[Max Awareness]
+[Away Team Stats Modifier\Def Redzone TDS]
 Type = Gameshark
 Activation = EndFrame
-30163676 0063
+80087CDC 00??
+OptionRange = 0x00:0xFF
 
-[Max Throw Power]
+[Away Team Stats Modifier\Defense Redzone #]
 Type = Gameshark
 Activation = EndFrame
-30163677 0063
+80087CDA 00??
+OptionRange = 0x00:0xFF
 
-[Max Throw Accuracy]
+[Away Team Stats Modifier\First Downs]
 Type = Gameshark
 Activation = EndFrame
-30163678 0063
+80087CCE 00??
+OptionRange = 0x00:0xFF
 
-[Infinite Points In Pool]
+[Away Team Stats Modifier\Fourth DNS Conv.]
 Type = Gameshark
 Activation = EndFrame
-80163660 00C8
-Home Team Plays As
+80089DC4 00??
+OptionRange = 0x00:0xFF
+
+[Away Team Stats Modifier\Fourth Downs]
+Type = Gameshark
+Activation = EndFrame
+80089DC2 00??
+OptionRange = 0x00:0xFF
+
+[Away Team Stats Modifier\Off Passing]
+Type = Gameshark
+Activation = EndFrame
+80089DB8 00??
+OptionRange = 0x00:0xFF
+
+[Away Team Stats Modifier\Off Rushing]
+Type = Gameshark
+Activation = EndFrame
+80089DBA 00??
+OptionRange = 0x00:0xFF
+
+[Away Team Stats Modifier\Offense Redzone #]
+Type = Gameshark
+Activation = EndFrame
+80087CD4 00??
+OptionRange = 0x00:0xFF
+
+[Away Team Stats Modifier\Offense Redzone FGS]
+Type = Gameshark
+Activation = EndFrame
+80087CD8 00??
+OptionRange = 0x00:0xFF
+
+[Away Team Stats Modifier\Offense Redzone TDS]
+Type = Gameshark
+Activation = EndFrame
+80087CD6 00??
+OptionRange = 0x00:0xFF
+
+[Away Team Stats Modifier\Penalties]
+Type = Gameshark
+Activation = EndFrame
+80089DC6 00??
+OptionRange = 0x00:0xFF
+
+[Away Team Stats Modifier\Penalty YDS]
+Type = Gameshark
+Activation = EndFrame
+80089DC8 00??
+OptionRange = 0x00:0xFF
+
+[Away Team Stats Modifier\Third Downs Conv.]
+Type = Gameshark
+Activation = EndFrame
+80089DC0 00??
+OptionRange = 0x00:0xFF
+
+[Away Team Stats Modifier\Third Downs]
+Type = Gameshark
+Activation = EndFrame
+80089DBE 00??
+OptionRange = 0x00:0xFF
+
+[Away Team Stats Modifier\Time Of Poss.]
+Type = Gameshark
+Activation = EndFrame
+80089DCC 00??
+OptionRange = 0x00:0xFF
+
+[Away Team Stats Modifier\Total Off]
+Type = Gameshark
+Activation = EndFrame
+80089DB6 00??
+OptionRange = 0x00:0xFF
+
+[Away Team Stats Modifier\Total YDS]
+Type = Gameshark
+Activation = EndFrame
+80089DCA 00??
+OptionRange = 0x00:0xFF
+
+[Away Team Stats Modifier\Turnovers]
+Type = Gameshark
+Activation = EndFrame
+80089DBC 00??
+?00-FF
+
+[Home Team Infinite Time-Outs]
+Type = Gameshark
+Activation = EndFrame
+80087CBE 0004
+
+[Home Team Plays As]
+Type = Gameshark
+Activation = EndFrame
 8007DD56 ????
 Option = '60 Afl:0x001E
 Option = '60 Eagles:0x001F
@@ -128,4 +364,246 @@ Option = '95 Steelers:0x006F
 Option = '96 Packers:0x0071
 Option = '96 Panthers:0x0070
 Option = '96 Patriots:0x0072
+
+[Home Team No Time-Outs]
+Type = Gameshark
+Activation = EndFrame
+80087CBE 0000
+
+[Home Team Select Score]
+Type = Gameshark
+Activation = EndFrame
+80087CBC ????
+OptionRange = 0:99
+
+[Home Team Stats Modifier\2pt Attempts]
+Type = Gameshark
+Activation = EndFrame
+80087C64 00??
+OptionRange = 0x00:0xFF
+
+[Home Team Stats Modifier\2pt Conv. Made]
+Type = Gameshark
+Activation = EndFrame
+80087C66 00??
+OptionRange = 0x00:0xFF
+
+[Home Team Stats Modifier\Def Redzone FGS]
+Type = Gameshark
+Activation = EndFrame
+80087C72 00??
+OptionRange = 0x00:0xFF
+
+[Home Team Stats Modifier\Def Redzone TDS]
+Type = Gameshark
+Activation = EndFrame
+80087C70 00??
+OptionRange = 0x00:0xFF
+
+[Home Team Stats Modifier\Defense Redzone #]
+Type = Gameshark
+Activation = EndFrame
+80087C6E 00??
+OptionRange = 0x00:0xFF
+
+[Home Team Stats Modifier\First Downs]
+Type = Gameshark
+Activation = EndFrame
+80087C62 00??
+OptionRange = 0x00:0xFF
+
+[Home Team Stats Modifier\Fourth DNS Conv.]
+Type = Gameshark
+Activation = EndFrame
+80087C58 00??
+OptionRange = 0x00:0xFF
+
+[Home Team Stats Modifier\Fourth Downs]
+Type = Gameshark
+Activation = EndFrame
+80087C56 00??
+OptionRange = 0x00:0xFF
+
+[Home Team Stats Modifier\Off Passing]
+Type = Gameshark
+Activation = EndFrame
+80087C4C 00??
+OptionRange = 0x00:0xFF
+
+[Home Team Stats Modifier\Off Rushing]
+Type = Gameshark
+Activation = EndFrame
+80087C4E 00??
+OptionRange = 0x00:0xFF
+
+[Home Team Stats Modifier\Offense Redzone #]
+Type = Gameshark
+Activation = EndFrame
+80087C68 00??
+OptionRange = 0x00:0xFF
+
+[Home Team Stats Modifier\Offense Redzone FGS]
+Type = Gameshark
+Activation = EndFrame
+80087C6C 00??
+OptionRange = 0x00:0xFF
+
+[Home Team Stats Modifier\Offense Redzone TDS]
+Type = Gameshark
+Activation = EndFrame
+80087C6A 00??
+OptionRange = 0x00:0xFF
+
+[Home Team Stats Modifier\Penalties]
+Type = Gameshark
+Activation = EndFrame
+80087C5A 00??
+OptionRange = 0x00:0xFF
+
+[Home Team Stats Modifier\Penalty YDS]
+Type = Gameshark
+Activation = EndFrame
+80087C5C 00??
+OptionRange = 0x00:0xFF
+
+[Home Team Stats Modifier\Third Downs Conv.]
+Type = Gameshark
+Activation = EndFrame
+80087C54 00??
+OptionRange = 0x00:0xFF
+
+[Home Team Stats Modifier\Third Downs]
+Type = Gameshark
+Activation = EndFrame
+80087C52 00??
+OptionRange = 0x00:0xFF
+
+[Home Team Stats Modifier\Time Of Poss.]
+Type = Gameshark
+Activation = EndFrame
+80087C60 00??
+OptionRange = 0x00:0xFF
+
+[Home Team Stats Modifier\Total Off]
+Type = Gameshark
+Activation = EndFrame
+80087C4A 00??
+OptionRange = 0x00:0xFF
+
+[Home Team Stats Modifier\Total YDS]
+Type = Gameshark
+Activation = EndFrame
+80087C5E 00??
+OptionRange = 0x00:0xFF
+
+[Home Team Stats Modifier\Turnovers]
+Type = Gameshark
+Activation = EndFrame
+80087C50 00??
+OptionRange = 0x00:0xFF
+
+[Character Creation\Infinite Points (In Pool)]
+Type = Gameshark
+Activation = EndFrame
+80163660 00C8
+
+[Character Creation\Max AGI]
+Type = Gameshark
+Activation = EndFrame
+80154E3C 0064
+
+[Character Creation\Max AWA]
+Type = Gameshark
+Activation = EndFrame
+80154E40 0064
+
+[Character Creation\Max Agility]
+Type = Gameshark
+Activation = EndFrame
+30163674 0063
+
+[Character Creation\Max Awareness]
+Type = Gameshark
+Activation = EndFrame
+30163676 0063
+
+[Character Creation\Max BTK]
+Type = Gameshark
+Activation = EndFrame
+80154E4E 0064
+
+[Character Creation\Max CAR]
+Type = Gameshark
+Activation = EndFrame
+80154E44 0064
+
+[Character Creation\Max CTH]
+Type = Gameshark
+Activation = EndFrame
+80154E42 0064
+
+[Character Creation\Max IMP]
+Type = Gameshark
+Activation = EndFrame
+80154E52 0064
+
+[Character Creation\Max INJ]
+Type = Gameshark
+Activation = EndFrame
+80154E58 0064
+
+[Character Creation\Max KAC]
+Type = Gameshark
+Activation = EndFrame
+80154E4C 0064
+
+[Character Creation\Max KPW]
+Type = Gameshark
+Activation = EndFrame
+80154E4A 0064
+
+[Character Creation\Max PBK]
+Type = Gameshark
+Activation = EndFrame
+80154E54 0064
+
+[Character Creation\Max RBK]
+Type = Gameshark
+Activation = EndFrame
+80154E56 0064
+
+[Character Creation\Max SPD]
+Type = Gameshark
+Activation = EndFrame
+80154E3E 0064
+
+[Character Creation\Max Speed]
+Type = Gameshark
+Activation = EndFrame
+30163675 0063
+
+[Character Creation\Max TAK]
+Type = Gameshark
+Activation = EndFrame
+80154E50 0064
+
+[Character Creation\Max THA]
+Type = Gameshark
+Activation = EndFrame
+80154E48 0064
+
+[Character Creation\Max THP]
+Type = Gameshark
+Activation = EndFrame
+80154E46 0064
+
+[Character Creation\Max Thw Acc]
+Type = Gameshark
+Activation = EndFrame
+30163678 0063
+
+[Character Creation\Max Thw Pwr]
+Type = Gameshark
+Activation = EndFrame
+30163677 0063
 

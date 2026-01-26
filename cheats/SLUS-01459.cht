@@ -1,0 +1,38 @@
+; CHTDB: ; [ Sports Superbike 2 (USA) (2002) (Mud Duck Productions) {SLUS-01459} <ssbk2> ]
+
+[All Skill Tests Complete]
+Type = Gameshark
+Activation = EndFrame
+30105DED 0001
+
+[All Tracks Enabled]
+Type = Gameshark
+Activation = EndFrame
+30105DEC 0001
+
+[Breaking Assistance]
+Type = Gameshark
+Activation = EndFrame
+30105DEA 000?
+OptionRange = 0x0:0xF
+
+[Damage Toggler]
+Type = Gameshark
+Activation = EndFrame
+30105DEB 000?
+Option = Off:0
+Option = On:1
+
+[Select Starting Lap]
+Type = Gameshark
+Activation = EndFrame
+E01DCED2 0001
+301DCED2 00??
+OptionRange = 0x02:0x0A
+
+[Steering Assistance]
+Type = Gameshark
+Activation = EndFrame
+30105DE9 000?
+OptionRange = 0x0:0xF
+

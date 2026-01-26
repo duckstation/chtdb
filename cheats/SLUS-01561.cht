@@ -1,14 +1,19 @@
 ; CHTDB: ; [ Qix Neo (USA) (2003) (Mud Duck Productions) {SLUS-01561} <qixneo> ]
 
-[Original + Arranged mode Infinite Lives]
+[Infinite Lives]
 Type = Gameshark
 Activation = EndFrame
 80087E38 0005
 
-[Original + Arranged mode Infinite Shield]
+[Infinite Shield]
 Type = Gameshark
 Activation = EndFrame
 800BC814 26AC
+
+[Invincibility & Trap Enemies]
+Type = Gameshark
+Activation = EndFrame
+A702F1FE 14A21000
 
 [Always 99'9% completed]
 Type = Gameshark

@@ -249,3 +249,6 @@ Activation = EndFrame
 Type = Gameshark
 Activation = EndFrame
 300104AE 00FF
+;#Infinite Ammo (Si se usa corrompe el objeto y pasa a ser botiquin)
+;80010460 0064
+

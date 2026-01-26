@@ -1,28 +1,40 @@
 ; CHTDB: ; [ Hugo - The Evil Mirror (USA) (2003) (XS Games) {SLUS-01559} <hugo> ]
 
-[Infinite Energy Trollerut]
+[Infinite Lives]
 Type = Gameshark
 Activation = EndFrame
-80164FBC 000A
+A7045976 AC822400
+A704597A AC602400
 
-[100 Diamonds Trollerut]
+[Infinite Energy]
+Description = If you get stuck down a gap you may need to turn this cheat off
 Type = Gameshark
 Activation = EndFrame
-80164FC0 0064
+A70458F6 AE222400
+A70458FA AE202400
 
-[100 Diamonds Trollerit]
+[Invincibility]
+Description = If you get stuck down a gap you may need to turn this cheat off
 Type = Gameshark
 Activation = EndFrame
-80163790 0064
-801C5B18 0064
+A701C782 10C41400
 
-[Infinite Energy Trollerat]
+[Collect/Be Hit/Open Some Doors from Anywhere (Press L3)]
+Description = Only use when you are not likely to be shot or punched - use with Invincibility for the best effect
 Type = Gameshark
 Activation = EndFrame
-80165E44 0005
-
-[100 Diamonds Trollerat]
-Type = Gameshark
-Activation = EndFrame
-80165E48 0064
+A7022F6E 14001200
+D7000000 00000200
+A7022F6E 12001400
+;#Infinite Energy Trollerut
+;80164FBC 000A
+;#100 Diamonds Trollerut
+;80164FC0 0064
+;#100 Diamonds Trollerit
+;80163790 0064
+;801C5B18 0064
+;#Infinite Energy Trollerat
+;80165E44 0005
+;#100 Diamonds Trollerat
+;80165E48 0064
 

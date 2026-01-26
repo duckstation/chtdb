@@ -28,7 +28,7 @@ Type = Gameshark
 Activation = EndFrame
 9011AD80 0098967F
 
-[Time 00:00]
+[Time 0.00]
 Type = Gameshark
 Activation = EndFrame
 9011AD90 00000000
@@ -83,7 +83,7 @@ D7010001 01000200
 F51D16E6 12932400
 ;#### PATCHES LISTED BELOW ####
 
-[Widescreen 16:9]
+[Widescreen 16-9]
 Type = Gameshark
 Activation = EndFrame
 Ignore = True

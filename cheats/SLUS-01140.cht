@@ -1,4 +1,20 @@
 ; CHTDB: ; [ Mega Man Legends 2 (USA) (2000) (Capcom Entertainment) {SLUS-01140} <mmleg2> ]
+
+[Infinite Health]
+Type = Gameshark
+Activation = EndFrame
+8008C120 0200
+
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+3008C19C 00FF
+
+[Max Zenny]
+Type = Gameshark
+Activation = EndFrame
+9009C820 0098967F
+
 [Have All Buster Parts]
 Type = Gameshark
 Activation = EndFrame
@@ -37,21 +53,6 @@ Activation = EndFrame
 50006E01 0000
 3008C2BC 0003
 
-[Infinite Health]
-Type = Gameshark
-Activation = EndFrame
-8008C120 0200
-
-[Invincibility]
-Type = Gameshark
-Activation = EndFrame
-3008C19C 00FF
-
-[Max Zenny]
-Type = Gameshark
-Activation = EndFrame
-9009C820 98967F
-
 [Unlock All Extra Modes]
 Type = Gameshark
 Activation = EndFrame
@@ -67,91 +68,90 @@ Activation = EndFrame
 Description = Triggers Roll's events. Needs the Flutter repaired, and an affection change to trigger.
 Type = Gameshark
 Activation = EndFrame
+8009C83A ????
 Option = Neutral:0
 Option = Liked:32767
 Option = Hated:32768
-8009C83A ????
 
 [Set Karma]
 Description = Affects how citizens talk to Mega Man, shop prices, etc.
 Type = Gameshark
 Activation = EndFrame
+8009C838 ????
 Option = Neutral:0
 Option = Liked:32767
 Option = Hated:32768
-8009C838 ????
 
 [Room Select]
 Type = Gameshark
 Activation = EndFrame
-OptionRange = 0:9999
 80078D1C ????
+OptionRange = 0:9999
 
 [Model Swaps (Experimental)\Play as Roll Casket]
-Author = coerce1
 Type = Gameshark
 Activation = EndFrame
+Author = coerce1
 8008C252 0602
 E308C0CF 0001
 8008C252 FFFF
 
 [Model Swaps (Experimental)\Play as Tron Bonne]
-Author = coerce1
 Type = Gameshark
 Activation = EndFrame
+Author = coerce1
 8008C252 0702
 E308C0CF 0001
 8008C252 00FF
 
 [Model Swaps (Experimental)\Play as Mega Man (Apron)]
-Author = coerce1
 Type = Gameshark
 Activation = EndFrame
+Author = coerce1
 8008C252 0802
 E308C0CF 0001
 8008C252 01FF
 
 [Model Swaps (Experimental)\Play as Matilda]
-Author = coerce1
 Type = Gameshark
 Activation = EndFrame
+Author = coerce1
 8008C252 0902
 E308C0CF 0001
 8008C252 02FF
 
 [Model Swaps (Experimental)\Play as Glyde]
-Author = coerce1
 Type = Gameshark
 Activation = EndFrame
+Author = coerce1
 8008C252 0A02
 E308C0CF 0001
 8008C252 03FF
 
 [Model Swaps (Experimental)\Play as Gatz]
-Author = coerce1
 Type = Gameshark
 Activation = EndFrame
+Author = coerce1
 8008C252 0B02
 E308C0CF 0001
 8008C252 04FF
 
 [Model Swaps (Experimental)\Play as Teasel]
-Author = coerce1
 Type = Gameshark
 Activation = EndFrame
+Author = coerce1
 8008C252 0C02
 E309C84D 0001
 8008C252 05FF
 
-[Misc\Noclip]
-Description = Walk through walls
+[Misc\Select Walk through walls]
 Type = Gameshark
 Activation = EndFrame
-Option = Hold L3:512
-Option = Hold L1+R1:12
 A70B35D6 100010A0
-D7200000 00000???
+D7200000 0000????
 A70B35D6 10A01000
+Option = Hold L3:0x0200
+Option = Hold L1+R1:0x000C
 
 [Misc\Hold X to Hover Jump]
 Type = Gameshark
@@ -174,10 +174,11 @@ Type = Gameshark
 Activation = EndFrame
 A7040426 0C012400
 
-[Misc\Time is 00:00:00]
+[Misc\Time is 00.00.00]
 Type = Gameshark
 Activation = EndFrame
 9009C818 00000000
+;#### PATCHES LISTED BELOW ####
 
 [Disable FPS lock]
 Type = Gameshark
@@ -189,3 +190,4 @@ Type = Gameshark
 Activation = EndFrame
 A7010F4E 90632403
 A7010F4C 00050002
+

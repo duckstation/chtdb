@@ -33,6 +33,7 @@ Activation = EndFrame
 Description = Activate only AFTER random enemies are selected on the arcade/survival enemy menu (and respawn count on arcade) or else the game will CRASH
 Type = Gameshark
 Activation = EndFrame
+3006B8F6 00??
 Option = Wonderwagon default:0
 Option = Thunderbolt default:1
 Option = dakota stunt cycle default:2
@@ -69,12 +70,12 @@ Option = chrono stinger hotrod:35
 Option = vertigo hotrod:36
 Option = goliath halftrack hotrod:37
 Option = wapiti 4wd hotrod:38
-3006B8F6 00??
 
 [Enemies\Enemy 2]
 Description = Activate only AFTER random enemies are selected on the arcade/survival enemy menu (and respawn count on arcade) or else the game will CRASH
 Type = Gameshark
 Activation = EndFrame
+3006B8F7 00??
 Option = Wonderwagon default:0
 Option = Thunderbolt default:1
 Option = dakota stunt cycle default:2
@@ -111,12 +112,12 @@ Option = chrono stinger hotrod:35
 Option = vertigo hotrod:36
 Option = goliath halftrack hotrod:37
 Option = wapiti 4wd hotrod:38
-3006B8F7 00??
 
 [Enemies\Enemy 3]
 Description = Activate only AFTER random enemies are selected on the arcade/survival enemy menu (and respawn count on arcade) or else the game will CRASH
 Type = Gameshark
 Activation = EndFrame
+3006B8F8 00??
 Option = Wonderwagon default:0
 Option = Thunderbolt default:1
 Option = dakota stunt cycle default:2
@@ -153,12 +154,12 @@ Option = chrono stinger hotrod:35
 Option = vertigo hotrod:36
 Option = goliath halftrack hotrod:37
 Option = wapiti 4wd hotrod:38
-3006B8F8 00??
 
 [Enemies\Enemy 4]
 Description = Activate only AFTER random enemies are selected on the arcade/survival enemy menu (and respawn count on arcade) or else the game will CRASH
 Type = Gameshark
 Activation = EndFrame
+3006B8F9 00??
 Option = Wonderwagon default:0
 Option = Thunderbolt default:1
 Option = dakota stunt cycle default:2
@@ -195,10 +196,10 @@ Option = chrono stinger hotrod:35
 Option = vertigo hotrod:36
 Option = goliath halftrack hotrod:37
 Option = wapiti 4wd hotrod:38
-3006B8F9 00??
 
 [Widescreen Fix]
 Description = expands a bit more the levels rendering right and left field - enable in the main menu AFTER loading your save game or the game will crash
 Type = Gameshark
 Activation = EndFrame
 A7001BAC 10000400
+

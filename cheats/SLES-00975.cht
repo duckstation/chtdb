@@ -1,16 +1,38 @@
 ; CHTDB: ; [ Resident Evil 2 (Italy) {SLES-00975 | SLES-10975} ]
 
-[Leon-Codes\Energia Infinita]
+[Leon\Energia Infinita]
 Type = Gameshark
 Activation = EndFrame
 800C6F4A 00C8
 
-[Leon-Codes\Salvataggi Infiniti]
+[Leon\Salvataggi Infiniti]
 Type = Gameshark
 Activation = EndFrame
 800CBC40 051E
 
-[Tutte Le Armi Hanno Munizioni Infinite]
+[Leon\Tutte Le Armi Hanno Munizioni Infinite]
+Type = Gameshark
+Activation = EndFrame
+800CBC38 ????
+Option = Magnum %NOTE:0x0505
+Option = Magnum Modificata %NOTE:0x0506
+Option = Fucile %NOTE:0x0507
+Option = Fucile Modificato %NOTE:0x0508
+Option = Lanciafiamme %NOTE:0x6410
+Option = Lanciarazzi %NOTE:0x0511
+Option = Rotellone %NOTE:0x0512
+
+[Claire\Energia infinita]
+Type = Gameshark
+Activation = EndFrame
+800C6EF2 00C8
+
+[Claire\Salvataggi infiniti]
+Type = Gameshark
+Activation = EndFrame
+800CBBE8 071E
+
+[Clare\Tutte Le Armi Hanno Munizioni Infinite]
 Type = Gameshark
 Activation = EndFrame
 800CBBE0 ????
@@ -23,14 +45,4 @@ Option = Taser:0xFF0E
 Option = Mitra:0xFF0F
 Option = Lanciarazzi:0xFF11
 Option = Rotellone:0xFF12
-
-[Claire Energia infinita]
-Type = Gameshark
-Activation = EndFrame
-800C6EF2 00C8
-
-[Claire Salvataggi infiniti]
-Type = Gameshark
-Activation = EndFrame
-800CBBE8 071E
 

@@ -11,8 +11,8 @@ Activation = EndFrame
 D01FF41A FBFF
 80072510 0B6D
 
-[End Game Immediately]
-Description = - Press x & Up (.Wait till you're first only then press and hold X & Up for about 5 seconds until the word race finished appears on the screen)
+[End Game Immediately (Press X & Up)]
+Description = Wait till you're first only then press and hold X & Up for about 5 seconds until the words race finished appears on the screen
 Type = Gameshark
 Activation = EndFrame
 D01FF41A BFEF

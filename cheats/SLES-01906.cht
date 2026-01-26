@@ -41,332 +41,61 @@ Type = Gameshark
 Activation = EndFrame
 80045446 3C00
 
-[Select Level\Lundkwist-Base]
-Description = Select a new game to start the level.
+[Select Level]
+Description = Select a new game to start the level
 Type = Gameshark
 Activation = EndFrame
 D008F894 0000
-3008F894 0000
+3008F894 00??
+Option = Lundkwist-Base:0x00
+Option = Submarine Pen (Ice Hit):0x01
+Option = The Embassy:0x02
+Option = The Camp:0x03
+Option = KGB-HQ:0x04
+Option = Security corridor:0x05
+Option = Sewer:0x06
+Option = On the Run:0x07
+Option = On the Run II:0x08
+Option = Fire Alarm:0x09
+Option = The Interrogation:0x0A
+Option = Serum:0x0B
+Option = Medical Room:0x0c
+Option = Rooftops:0x0D
+Option = Terminal Room:0x0E
+Option = Escape the Roof:0x0F
+Option = Waterloo Station:0x10
+Option = IGV:0x11
+Option = IGV II:0x12
+Option = On the Roof:0x13
+Option = Submarine Pen (Ice Storm):0x14
+Option = Tunnel:0x15
+Option = The Base:0x16
+Option = Gunboat:0x17
 
-[Select Level\Submarine Pen (Ice Hit)]
-Description = Select a new game to start the level.
-Type = Gameshark
-Activation = EndFrame
-D008F894 0000
-3008F894 0001
-
-[Select Level\The Embassy]
-Description = Select a new game to start the level.
-Type = Gameshark
-Activation = EndFrame
-D008F894 0000
-3008F894 0002
-
-[Select Level\The Camp]
-Description = Select a new game to start the level.
-Type = Gameshark
-Activation = EndFrame
-D008F894 0000
-3008F894 0003
-
-[Select Level\KGB-HQ]
-Description = Select a new game to start the level.
-Type = Gameshark
-Activation = EndFrame
-D008F894 0000
-3008F894 0004
-
-[Select Level\Security corridor]
-Description = Select a new game to start the level.
-Type = Gameshark
-Activation = EndFrame
-D008F894 0000
-3008F894 0005
-
-[Select Level\Sewer]
-Description = Select a new game to start the level.
-Type = Gameshark
-Activation = EndFrame
-D008F894 0000
-3008F894 0006
-
-[Select Level\On the Run]
-Description = Select a new game to start the level.
-Type = Gameshark
-Activation = EndFrame
-D008F894 0000
-3008F894 0007
-
-[Select Level\On the Run II]
-Description = Select a new game to start the level.
-Type = Gameshark
-Activation = EndFrame
-D008F894 0000
-3008F894 0008
-
-[Select Level\Fire Alarm]
-Description = Select a new game to start the level.
-Type = Gameshark
-Activation = EndFrame
-D008F894 0000
-3008F894 0009
-
-[Select Level\The Interrogation]
-Description = Select a new game to start the level.
-Type = Gameshark
-Activation = EndFrame
-D008F894 0000
-3008F894 000A
-
-[Select Level\Serum]
-Description = Select a new game to start the level.
-Type = Gameshark
-Activation = EndFrame
-D008F894 0000
-3008F894 000B
-
-[Select Level\Medical Room]
-Description = Select a new game to start the level.
-Type = Gameshark
-Activation = EndFrame
-D008F894 0000
-3008F894 000c
-
-[Select Level\Rooftops]
-Description = Select a new game to start the level.
-Type = Gameshark
-Activation = EndFrame
-D008F894 0000
-3008F894 000D
-
-[Select Level\Terminal Room]
-Description = Select a new game to start the level.
-Type = Gameshark
-Activation = EndFrame
-D008F894 0000
-3008F894 000E
-
-[Select Level\Escape the Roof]
-Description = Select a new game to start the level.
-Type = Gameshark
-Activation = EndFrame
-D008F894 0000
-3008F894 000F
-
-[Select Level\Waterloo Station]
-Description = Select a new game to start the level.
-Type = Gameshark
-Activation = EndFrame
-D008F894 0000
-3008F894 0010
-
-[Select Level\IGV]
-Description = Select a new game to start the level.
-Type = Gameshark
-Activation = EndFrame
-D008F894 0000
-3008F894 0011
-
-[Select Level\IGV II]
-Description = Select a new game to start the level.
-Type = Gameshark
-Activation = EndFrame
-D008F894 0000
-3008F894 0012
-
-[Select Level\On the Roof]
-Description = Select a new game to start the level.
-Type = Gameshark
-Activation = EndFrame
-D008F894 0000
-3008F894 0013
-
-[Select Level\Submarine Pen (Ice Storm)]
-Description = Select a new game to start the level.
-Type = Gameshark
-Activation = EndFrame
-D008F894 0000
-3008F894 0014
-
-[Select Level\Tunnel]
-Description = Select a new game to start the level.
-Type = Gameshark
-Activation = EndFrame
-D008F894 0000
-3008F894 0015
-
-[Select Level\The Base]
-Description = Select a new game to start the level.
-Type = Gameshark
-Activation = EndFrame
-D008F894 0000
-3008F894 0016
-
-[Select Level\Gunboat]
-Description = Select a new game to start the level.
-Type = Gameshark
-Activation = EndFrame
-D008F894 0000
-3008F894 0017
-
-[View FMV sequences\XAP-Logo]
+[Select FMV sequence to view]
 Description = Hold down L1+L2+R1+R2 at the main menu and select new game.
 Type = Gameshark
 Activation = EndFrame
 D008F888 000F
-800E6148 3558
+800E6148 ????
 D008F888 0100
 800E6148 2858
+Option = XAP-Logo:0x3558
+Option = Intro:0x358C
+Option = Menue:0x35C0
+Option = Ice hit briefing:0x35F4
+Option = NOC briefing:0x3628
+Option = Arrested I:0x365C
+Option = Arrested II:0x3690
+Option = Arrested III:0x36C4
+Option = The rooftop:0x36F8
+Option = Falling down:0x372C
+Option = Meeting Candice I:0x3760
+Option = Meeting Candice II:0x3794
+Option = Bomb on board:0x37C8
+Option = The mole escapes:0x37FC
+Option = Ice storm briefing:0x3864
+Option = Tunnel explosion:0x3898
+Option = The end:0x38CC
+Option = Action outro:0x3900
 
-[View FMV sequences\Intro]
-Description = Hold down L1+L2+R1+R2 at the main menu and select new game.
-Type = Gameshark
-Activation = EndFrame
-D008F888 000F
-800E6148 358C
-D008F888 0100
-800E6148 2858
-
-[View FMV sequences\Menue]
-Description = Hold down L1+L2+R1+R2 at the main menu and select new game.
-Type = Gameshark
-Activation = EndFrame
-D008F888 000F
-800E6148 35C0
-D008F888 0100
-800E6148 2858
-
-[View FMV sequences\Ice hit briefing]
-Description = Hold down L1+L2+R1+R2 at the main menu and select new game.
-Type = Gameshark
-Activation = EndFrame
-D008F888 000F
-800E6148 35F4
-D008F888 0100
-800E6148 2858
-
-[View FMV sequences\NOC briefing]
-Description = Hold down L1+L2+R1+R2 at the main menu and select new game. 
-Type = Gameshark
-Activation = EndFrame
-D008F888 000F
-800E6148 3628
-D008F888 0100
-800E6148 2858
-
-[View FMV sequences\Arrested I]
-Description = Hold down L1+L2+R1+R2 at the main menu and select new game.
-Type = Gameshark
-Activation = EndFrame
-D008F888 000F
-800E6148 365C
-D008F888 0100
-800E6148 2858
-
-[View FMV sequences\Arrested II]
-Description = Hold down L1+L2+R1+R2 at the main menu and select new game. 
-Type = Gameshark
-Activation = EndFrame
-D008F888 000F
-800E6148 3690
-D008F888 0100
-800E6148 2858
-
-[View FMV sequences\Arrested III]
-Description = Hold down L1+L2+R1+R2 at the main menu and select new game. 
-Type = Gameshark
-Activation = EndFrame
-D008F888 000F
-800E6148 36C4
-D008F888 0100
-800E6148 2858
-
-[View FMV sequences\The rooftop]
-Description = Hold down L1+L2+R1+R2 at the main menu and select new game. 
-Type = Gameshark
-Activation = EndFrame
-D008F888 000F
-800E6148 36F8
-D008F888 0100
-800E6148 2858
-
-[View FMV sequences\Falling down]
-Description = Hold down L1+L2+R1+R2 at the main menu and select new game. 
-Type = Gameshark
-Activation = EndFrame
-D008F888 000F
-800E6148 372C
-D008F888 0100
-800E6148 2858
-
-[View FMV sequences\Meeting Candice I]
-Description = Hold down L1+L2+R1+R2 at the main menu and select new game. 
-Type = Gameshark
-Activation = EndFrame
-D008F888 000F
-800E6148 3760
-D008F888 0100
-800E6148 2858
-
-[View FMV sequences\Meeting Candice II]
-Description = Hold down L1+L2+R1+R2 at the main menu and select new game. 
-Type = Gameshark
-Activation = EndFrame
-D008F888 000F
-800E6148 3794
-D008F888 0100
-800E6148 2858
-
-[View FMV sequences\Bomb on board]
-Description = Hold down L1+L2+R1+R2 at the main menu and select new game.
-Type = Gameshark
-Activation = EndFrame
-D008F888 000F
-800E6148 37C8
-D008F888 0100
-800E6148 2858
-
-[View FMV sequences\The mole escapes]
-Description = Hold down L1+L2+R1+R2 at the main menu and select new game. 
-Type = Gameshark
-Activation = EndFrame
-D008F888 000F
-800E6148 37FC
-D008F888 0100
-800E6148 2858
-
-[View FMV sequences\Ice storm briefing]
-Description = Hold down L1+L2+R1+R2 at the main menu and select new game. 
-Type = Gameshark
-Activation = EndFrame
-D008F888 000F
-800E6148 3864
-D008F888 0100
-800E6148 2858
-
-[View FMV sequences\Tunnel explosion]
-Description = Hold down L1+L2+R1+R2 at the main menu and select new game. 
-Type = Gameshark
-Activation = EndFrame
-D008F888 000F
-800E6148 3898
-D008F888 0100
-800E6148 2858
-
-[View FMV sequences\The end]
-Description = Hold down L1+L2+R1+R2 at the main menu and select new game.
-Type = Gameshark
-Activation = EndFrame
-D008F888 000F
-800E6148 38CC
-D008F888 0100
-800E6148 2858
-
-[View FMV sequences\Action outro]
-Description = Hold down L1+L2+R1+R2 at the main menu and select new game.
-Type = Gameshark
-Activation = EndFrame
-D008F888 000F
-800E6148 3900
-D008F888 0100
-800E6148 2858

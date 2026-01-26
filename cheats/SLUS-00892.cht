@@ -577,7 +577,7 @@ Activation = EndFrame
 D005F146 0003
 800AE9E6 2400
 
-[Summon OP Odin  "Press/hold R3 in/before-battle"]
+[Summon OP Odin "Press/hold R3 in/before-battle"]
 Type = Gameshark
 Activation = EndFrame
 C005F146 00000003
@@ -697,9 +697,9 @@ Activation = EndFrame
 A709F2EA 18402400
 
 [Set Quantity of Cards Won]
+Description = Sets the quantity of each card rewarded after winning in Triple Triad. Choose between 2-100
 Type = Gameshark
 Activation = EndFrame
-Description = Sets the quantity of each card rewarded after winning in Triple Triad. Choose between 2-100
 OptionRange = 0x02:0x64
 80023954 00??
 

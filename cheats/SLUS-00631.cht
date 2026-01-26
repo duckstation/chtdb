@@ -33,4 +33,33 @@ Activation = EndFrame
 Type = Gameshark
 Activation = EndFrame
 8005B10A 03E7
+;#### PATCHES LISTED BELOW ####
+
+[Select Widescreen Aspect Ratio\16-9]
+Type = Gameshark
+Activation = EndFrame
+A705CEB0 10000C00
+
+[Select Widescreen Aspect Ratio\20-9]
+Type = Gameshark
+Activation = EndFrame
+A705CEB0 10000900
+
+[Select Widescreen Aspect Ratio\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A705CEB0 10000400
+
+[Select Camera Angle (4096 is normal)]
+Type = Gameshark
+Activation = EndFrame
+8005CEB8 ????
+OptionRange = 0x0000:0x2000
+
+[Select Character Size (4096 is normal)]
+Type = Gameshark
+Activation = EndFrame
+90068C14 2402????
+90068C18 A5620016
+OptionRange = 0x0000:0x2000
 

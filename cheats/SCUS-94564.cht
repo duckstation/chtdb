@@ -394,6 +394,14 @@ Activation = EndFrame
 Type = Gameshark
 Activation = EndFrame
 800F160C 0001
+
+[Disable Rumble on Walking]
+Type = Gameshark
+Activation = EndFrame
+A70641D8 05200008
+A70641DA 8F8303E0
+A70641DC FFE00000
+A70641DE 27BD0000
 ;#### PATCHES LISTED BELOW ####
 
 [Widescreen 16-9]

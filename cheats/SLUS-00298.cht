@@ -16,97 +16,97 @@ Type = Gameshark
 Activation = EndFrame
 A7076466 14401400
 
-[P1\Infinite Health P1]
+[P1\Infinite Health]
 Type = Gameshark
 Activation = EndFrame
 800C4AE0 0032
 
-[P1\Infinite Strength P1]
+[P1\Infinite Strength]
 Type = Gameshark
 Activation = EndFrame
 800C4AE4 0046
 
-[P1\Infinite Money P1]
+[P1\Infinite Money]
 Type = Gameshark
 Activation = EndFrame
 800C4AE8 0063
 
-[P1\Infinite Keys P1]
+[P1\Infinite Keys]
 Type = Gameshark
 Activation = EndFrame
 800C4B3A 0063
 
-[P1\Infinite A Keys P1]
+[P1\Infinite A Keys]
 Type = Gameshark
 Activation = EndFrame
 800C4B40 0001
 
-[P1\Infinite B Keys P1]
+[P1\Infinite B Keys]
 Type = Gameshark
 Activation = EndFrame
 800C4B42 0001
 
-[P1\Infinite D Keys P1]
+[P1\Infinite D Keys]
 Type = Gameshark
 Activation = EndFrame
 800C4B44 0001
 
-[P1\Infinite H Keys P1]
+[P1\Infinite H Keys]
 Type = Gameshark
 Activation = EndFrame
 800C4B3C 0001
 
-[P1\Infinite U Keys P1]
+[P1\Infinite U Keys]
 Type = Gameshark
 Activation = EndFrame
 800C4B3E 0001
 
-[P2\Infinite Health P2]
+[P2\Infinite Health]
 Type = Gameshark
 Activation = EndFrame
 800C4B4A 0032
 
-[P2\Infinite Strength P2]
+[P2\Infinite Strength]
 Type = Gameshark
 Activation = EndFrame
 800C4B4E 0046
 
-[P2\Infinite Money P2]
+[P2\Infinite Money]
 Type = Gameshark
 Activation = EndFrame
 800C4B52 0063
 
-[P2\Infinite Keys P2]
+[P2\Infinite Keys]
 Type = Gameshark
 Activation = EndFrame
 800C4BA4 0063
 
-[P2\Infinite H Keys P2]
+[P2\Infinite H Keys]
 Type = Gameshark
 Activation = EndFrame
 800C4BA6 0001
 
-[P2\Infinite U Keys P2]
+[P2\Infinite U Keys]
 Type = Gameshark
 Activation = EndFrame
 800C4BA8 0001
 
-[P2\Infinite A Keys P2]
+[P2\Infinite A Keys]
 Type = Gameshark
 Activation = EndFrame
 800C4BAA 0001
 
-[P2\Infinite P Keys P2]
+[P2\Infinite P Keys]
 Type = Gameshark
 Activation = EndFrame
 800C4BAC 0001
 
-[P2\Infinite D Keys P2]
+[P2\Infinite D Keys]
 Type = Gameshark
 Activation = EndFrame
 800C4BAE 0001
 
-[P1\Have All Items Set One P1]
+[P1\Have All Items Set One]
 Type = Gameshark
 Activation = EndFrame
 800C4AF0 0063
@@ -125,7 +125,7 @@ Activation = EndFrame
 800C4B0C 0063
 800C4B0E 0063
 
-[P1\Have All Items Set Two P1]
+[P1\Have All Items Set Two]
 Type = Gameshark
 Activation = EndFrame
 800C4B1A 0063
@@ -144,7 +144,7 @@ Activation = EndFrame
 800C4B34 0063
 800C4B36 0063
 
-[P2\Have All Items Set One P2]
+[P2\Have All Items Set One]
 Type = Gameshark
 Activation = EndFrame
 800C4B5A 0063
@@ -163,7 +163,7 @@ Activation = EndFrame
 800C4B76 0063
 800C4B78 0063
 
-[P2\Have All Items Set Two P2]
+[P2\Have All Items Set Two]
 Type = Gameshark
 Activation = EndFrame
 800C4B84 0063
@@ -181,6 +181,4 @@ Activation = EndFrame
 800C4B9C 0063
 800C4B9E 0063
 800C4BA0 0063
-
-
 

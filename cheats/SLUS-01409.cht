@@ -32,3 +32,41 @@ Option = Level 6:0x0005
 Option = Level 7:0x0006
 Option = Level 8:0x0007
 
+[Select Change Current Pipe Cheat\Inc Directions (L2 or R2)]
+Type = Gameshark
+Activation = EndFrame
+D7010002 02000001
+1010D1B4 00000001
+A610D1B4 00140001
+00000000 0000FFFF
+D7010002 03000002
+1110D1B4 00000001
+A610D1B4 00000013
+00000000 0000FFFF
+
+[Select Change Current Pipe Cheat\No Directions (L2 or R2)]
+Type = Gameshark
+Activation = EndFrame
+D7010002 02000001
+1010D1B4 00000001
+A610D1B4 00080001
+00000000 0000FFFF
+D7010002 03000002
+1110D1B4 00000001
+A610D1B4 00000007
+00000000 0000FFFF
+
+[Unused Pipes Never Explode]
+Type = Gameshark
+Activation = EndFrame
+A7030962 14401000
+A702C4EA 14401000
+
+[Count Flow Loss as Flow Saved]
+Type = Gameshark
+Activation = EndFrame
+A70368C2 10801000
+A703D4CA 1C601000
+A702C392 10401000
+A702BB36 10C01400
+

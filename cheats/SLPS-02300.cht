@@ -60,13 +60,13 @@ D01C35BA 2662
 801C35B8 0000
 
 [No Ink To Save]
-Description = You can save even NEVER having any INK, MUST use w/ SV INK code.
+Description = You can save even NEVER having any Ink, MUST use with the SV Ink cheat.
 Type = Gameshark
 Activation = EndFrame
 A6051D44 00080000
 
-[Infinite Sv Ink]
-Description = When save, don't decrease INK number.
+[Infinite SV Ink]
+Description = When save, don't decrease Ink number.
 Type = Gameshark
 Activation = EndFrame
 D006D68C 7C7C

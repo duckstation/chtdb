@@ -57,6 +57,11 @@ Activation = EndFrame
 300B9300 0001
 9002639C 24150001
 
+[Invincibility]
+Type = Gameshark
+Activation = EndFrame
+A706372E 10401000
+
 [Infinite Health\Level 1]
 Type = Gameshark
 Activation = EndFrame

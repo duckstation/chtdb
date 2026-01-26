@@ -15,7 +15,7 @@ Type = Gameshark
 Activation = EndFrame
 800A2DB8 0063
 
-[Infinite Lives 99]
+[Infinite Lives]
 Type = Gameshark
 Activation = EndFrame
 800A2D7A 0063
@@ -59,4 +59,53 @@ Activation = EndFrame
 Type = Gameshark
 Activation = EndFrame
 80097B1C 0003
+;#### PATCHES LISTED BELOW ####
+
+[Select Widescreen Aspect Ratio (English)\16-9]
+Type = Gameshark
+Activation = EndFrame
+A70311B8 10000C00
+A70311CA A7A0AFA0
+A70311CC 00361000
+A70311CE A7A02403
+
+[Select Widescreen Aspect Ratio (English)\20-9]
+Type = Gameshark
+Activation = EndFrame
+A70311B8 10000900
+A70311CA A7A0AFA0
+A70311CC 00361000
+A70311CE A7A02403
+
+[Select Widescreen Aspect Ratio (English)\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A70311B8 10000400
+A70311CA A7A0AFA0
+A70311CC 00361000
+A70311CE A7A02403
+
+[Select Widescreen Aspect Ratio (Italian/Spanish)\16-9]
+Type = Gameshark
+Activation = EndFrame
+A70311B0 10000C00
+A70311C2 A7A0AFA0
+A70311C4 00361000
+A70311C6 A7A02403
+
+[Select Widescreen Aspect Ratio (Italian/Spanish)\20-9]
+Type = Gameshark
+Activation = EndFrame
+A70311B0 10000900
+A70311C2 A7A0AFA0
+A70311C4 00361000
+A70311C6 A7A02403
+
+[Select Widescreen Aspect Ratio (Italian/Spanish)\Eye Infinity]
+Type = Gameshark
+Activation = EndFrame
+A70311B0 10000400
+A70311C2 A7A0AFA0
+A70311C4 00361000
+A70311C6 A7A02403
 

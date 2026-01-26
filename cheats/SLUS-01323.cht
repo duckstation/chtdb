@@ -1,16 +1,16 @@
 ; CHTDB: ; [ Armored Core (USA, v1.1) (1997) (Sony Computer Entertainment America) {SLUS-01323} <armcore> ]
 
 [Game Progress\Credits 9999999]
+Description = Set Credits to 9999999.
 Type = Gameshark
 Activation = EndFrame
-Description = Set Credits to 9999999.
 Author = val
 90039CA4 0098967F
 
 [Game Progress\Human PLUS (強化人間)]
+Description = Set Human PLUS (強化人間) stage.
 Type = Gameshark
 Activation = EndFrame
-Description = Set Human PLUS (強化人間) stage.
 Author = val
 30039D20 ????
 Option = No Upgrades:0x0000
@@ -19,9 +19,9 @@ Option = Stage 2:0x0004
 Option = Stage 3:0x0006
 
 [Game Progress\Deploy Restricted AC (基準違反機体)]
+Description = Set Deploy Restricted AC (基準違反機体) ability.
 Type = Gameshark
 Activation = EndFrame
-Description = Set Deploy Restricted AC (基準違反機体) ability.
 Author = val
 E00B7400 00C8
 30086836 0022

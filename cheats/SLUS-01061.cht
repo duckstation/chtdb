@@ -30,3 +30,9 @@ Type = Gameshark
 Activation = EndFrame
 90033204 FFFFFFFF
 
+[Unlock Weapons]
+Type = Gameshark
+Activation = EndFrame
+50000302 0000
+80033208 FFFF
+

@@ -1,24 +1,24 @@
 ; CHTDB: ; [ Mega Man Legends (USA) (1998) (Capcom Entertainment) {SLUS-00603, SLUS-00603GH} <mmleg> ]
 
-[Max Zenny]
-Type = Gameshark
-Activation = EndFrame
-900C1B2C 0001869F
-
-[Invincible]
-Type = Gameshark
-Activation = EndFrame
-300B52C0 0001
-
 [Infinite Life]
 Type = Gameshark
 Activation = EndFrame
 800B521E 00C4
 
-[Time is 00:00:00]
+[Time is 00.00.00]
 Type = Gameshark
 Activation = EndFrame
 900C1B1C 00000000
+
+[Infinite Money zenny 999999]
+Type = Gameshark
+Activation = EndFrame
+900C1B2C 0001869F
+
+[Invincibility Megaman]
+Type = Gameshark
+Activation = EndFrame
+300B52C0 0001
 
 [Stop Clock In Minigames]
 Type = Gameshark
@@ -36,7 +36,7 @@ Activation = EndFrame
 900BE420 FFFFFFFF
 900BE424 FFFFFFFF
 
-[Have All Key Items]
+[Have All Special Items]
 Type = Gameshark
 Activation = EndFrame
 900BE41C FFFFFFFF
@@ -50,8 +50,9 @@ Activation = EndFrame
 Type = Gameshark
 Activation = EndFrame
 900C1B28 00010001
+;#### PATCHES LISTED BELOW ####
 
-[Widescreen 16:9]
+[Widescreen 16-9]
 Type = Gameshark
 Activation = EndFrame
 Ignore = True
@@ -87,3 +88,4 @@ Ignore = True
 8000823E 0800
 80008240 1F80
 80008242 3C05
+

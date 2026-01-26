@@ -1,5 +1,11 @@
 ; CHTDB: ; [ NASCAR Thunder 2002 (USA) (2001) (Electronic Arts) {SLUS-01403} <nascr2k2> ]
 
+[Have All Thunder Cards]
+Type = Gameshark
+Activation = EndFrame
+50004804 0000
+800C1004 0063
+
 [No Car Damage]
 Type = Gameshark
 Activation = EndFrame
@@ -11,9 +17,12 @@ Activation = EndFrame
 90085974 240201F4
 8008597A A602
 
-[All Cards]
+[Start/Stop Lap Timer]
+Description = Press Select+L1 to stop lap timer and Select+R2 to restart lap timer.
 Type = Gameshark
 Activation = EndFrame
-50004804 0000
-300C1005 0063
+D00D1696 FBFE
+8005CB6E 2400
+D00D1696 FEFE
+8005CB6E AF82
 
