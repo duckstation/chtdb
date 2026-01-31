@@ -38,7 +38,8 @@ Activation = EndFrame
 D00FC970 0100
 300A1484 003F
 
-[Level Select Cheat Activated (press select after you have started level 1 then quit)]
+[Level Select Cheat Activated]
+Description = Press select after you have started level 1 then quit
 Type = Gameshark
 Activation = EndFrame
 D00FC970 0100

@@ -74,7 +74,8 @@ Activation = EndFrame
 E00B8D78 0000
 300B8D78 0001
 
-[P1 Play As Boss .With this code, highlight highlight Lori or Kyo and press L1+X and choose the shadowy image to play as the boss. This will work in all modes including normal 1-player Teamplay.]
+[P1 Play As Boss]
+Description = With this code, highlight Lori or Kyo and press L1+X and choose the shadowy image to play as the boss. This will work in all modes including normal 1-player Teamplay.
 Type = Gameshark
 Activation = EndFrame
 C00BBCA0 0400

@@ -15,12 +15,12 @@ Type = Gameshark
 Activation = EndFrame
 800EF49C 000B
 
-[P1 invulnerable]
+[P1 Invincibility]
 Type = Gameshark
 Activation = EndFrame
 800EF47C 0001
 
-[P2 invulnerable]
+[P2 Invincibility]
 Type = Gameshark
 Activation = EndFrame
 800EF548 0001

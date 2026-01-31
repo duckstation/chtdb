@@ -30,12 +30,14 @@ Type = Gameshark
 Activation = EndFrame
 80076D74 FFFF
 
-[Level Select With these, start a new game and then abort it, and the cheats will work]
+[Level Select]
+Description = With these, start a new game and then abort it, and the cheats will work
 Type = Gameshark
 Activation = EndFrame
 30070E95 0001
 
-[All Ships + Weapons With these, start a new game and then abort it, and the cheats will work]
+[All Ships + Weapons]
+Description = With these, start a new game and then abort it, and the cheats will work
 Type = Gameshark
 Activation = EndFrame
 30070E96 0001

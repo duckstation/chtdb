@@ -13,7 +13,8 @@ Type = Gameshark
 Activation = EndFrame
 3001B20D 00FF
 
-[Stop Timer/Always Place 1st You need to turn off the code to let the time goes up a little bit before the race ends as the champ mode does not accept 00.00.00 as your time]
+[Stop Timer/Always Place 1st]
+Description = You need to turn off the code to let the time goes up a little bit before the race ends as the champ mode does not accept 00.00.00 as your time
 Type = Gameshark
 Activation = EndFrame
 800F6FB4 06EC

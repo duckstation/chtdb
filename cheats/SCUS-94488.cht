@@ -89,7 +89,8 @@ Type = Gameshark
 Activation = EndFrame
 8005DDBA A270
 
-[In-Battle, go compete in GT World League and win. Then the game will say you completed GT. Sim Credits will then be unlocked on Arcade Disc]
+[In-Battle, go compete in GT World League and win]
+Description = Then the game will say you completed GT. Sim Credits will then be unlocked on Arcade Disc
 Type = Gameshark
 Activation = EndFrame
 50004402 0000

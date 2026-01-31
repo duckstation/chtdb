@@ -1,16 +1,19 @@
 ; CHTDB: ; [ Magic Carpet (USA) (1996) (Electronic Arts) {SLUS-00029} <magicarp> ]
 
-[Infinite Health Sometimes these work and sometimes they don't. If they don't work reset the game and try them again.]
+[Infinite Health]
+Description = Sometimes these work and sometimes they don't. If they don't work reset the game and try them again.
 Type = Gameshark
 Activation = EndFrame
 80141D58 2710
 
-[Infinite Spell Mana Sometimes these work and sometimes they don't. If they don't work reset the game and try them again.]
+[Infinite Spell Mana]
+Description = Sometimes these work and sometimes they don't. If they don't work reset the game and try them again.
 Type = Gameshark
 Activation = EndFrame
 8014E168 62F8
 
-[Infinite Health For Castle Sometimes these work and sometimes they don't. If they don't work reset the game and try them again.]
+[Infinite Health For Castle]
+Description = Sometimes these work and sometimes they don't. If they don't work reset the game and try them again.
 Type = Gameshark
 Activation = EndFrame
 80147228 FFFF

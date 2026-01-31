@@ -102,7 +102,8 @@ Type = Gameshark
 Activation = EndFrame
 900F3B28 01010101
 
-[Start On Last Race Of Season With this code, press L1 at the yellow screen that tells you the heat. You will still race on first track but the code tricks the game into thinking you are on the last race so just come in first + win the Season.]
+[Start On Last Race Of Season]
+Description = With this code, press L1 at the yellow screen that tells you the heat. You will still race on first track but the code tricks the game into thinking you are on the last race so just come in first + win the Season.
 Type = Gameshark
 Activation = EndFrame
 D00F3BEA 0004
@@ -141,7 +142,8 @@ Activation = EndFrame
 901F004C AC24C2D4
 901F0050 03E00008
 
-[Always 1st/Drive Thru Cars (Press Select) You will only race for half a lap or so and you must activate it before the cars in front of you ent...]
+[Always 1st/Drive Thru Cars (Press Select)]
+Description = You will only race for half a lap or so and you must activate it before the cars in front of you ent...
 Type = Gameshark
 Activation = EndFrame
 D00F3BEA 0100

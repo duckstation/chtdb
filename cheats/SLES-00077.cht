@@ -40,7 +40,8 @@ Type = Gameshark
 Activation = EndFrame
 8001AFD0 5500
 
-[Infinite Money .Don`t activate this code while in battle otherwise the game crashes. To prevent this start the game with this code (immediately 30 mill. Credits), save the game to Memory Card and start the game now]
+[Infinite Money]
+Description = Don`t activate this code while in battle otherwise the game crashes. To prevent this start the game with this code (immediately 30 mill. Credits), save the game to Memory Card and start the game now
 Type = Gameshark
 Activation = EndFrame
 800DF30E 03E7

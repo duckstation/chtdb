@@ -15,7 +15,8 @@ Type = Gameshark
 Activation = EndFrame
 90013A4C 00FFFFFF
 
-[Enable All Gallery With these, you must register a pilot first for them to work.]
+[Enable All Gallery]
+Description = With these, you must register a pilot first for them to work.
 Type = Gameshark
 Activation = EndFrame
 80013A44 FFFF

@@ -68,7 +68,8 @@ Type = Gameshark
 Activation = EndFrame
 8010733A 0000
 
-[Rescued Lemmings Modifier Beat levels by entering the amounts of Lemmings you need to rescue(Selected 5)]
+[Rescued Lemmings Modifier]
+Description = Beat levels by entering the amounts of Lemmings you need to rescue(Selected 5)
 Type = Gameshark
 Activation = EndFrame
 80089F34 0005

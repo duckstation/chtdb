@@ -1,6 +1,11 @@
-; CHTDB: ; [ Metal Gear Solid (USA, v1.1) (1998) (Konami of America) {SLUS-00776} <mgsa> ]
+; CHTDB: ; [ Metal Gear Solid (USA, v1.1) (1998) (Konami of America) {SLUS-00594, SLUS-00594P3 / SLUS-00776, SLUS-00776P3} <mgs> ]
 
-[Invincible]
+;:SLUS-00594_EDB20866786867B3
+;:SLUS-00594
+;:SLUS-00594P3
+;:SLUS-00776
+;:SLUS-00776P3
+[Invincibility]
 Type = Gameshark
 Activation = EndFrame
 Author = Unicorngoulash
@@ -9,11 +14,17 @@ A705C3CA 10401000
 A7050BB6 10402400
 A70520DA A4222400
 
+[Hit Anywhere]
+Type = Gameshark
+Activation = EndFrame
+Author = Unicorngoulash
+A702F15A 10402400
+A705C3CA 10401000
+
 [Undetectable]
 Type = Gameshark
 Activation = EndFrame
-800AE190 0000
-800AE192 0000
+900AE190 00000000
 
 [Weapons\99 C4 Explosives]
 Type = Gameshark
@@ -109,4 +120,141 @@ Activation = EndFrame
 Type = Gameshark
 Activation = EndFrame
 800B756A 0001
+
+[Steady view using scope]
+Type = Gameshark
+Activation = EndFrame
+Author = Unicorngoulash
+A7073F7E 07C12400
+
+[Select Reverb]
+Type = Gameshark
+Activation = EndFrame
+Author = Unicorngoulash
+A70984CE 112B????
+Option = Increased:0x1000
+Option = Decreased:0x2400
+
+[Detonate Nikita rockets at will 'Press circle']
+Type = Gameshark
+Activation = EndFrame
+Author = Unicorngoulash
+8006E5E2 00001000
+D7200000 02000020
+8006E5E2 00001440
+
+[Enemies are hard of hearing]
+Type = Gameshark
+Activation = EndFrame
+Author = Unicorngoulash
+A70CFDC6 10401000
+
+[Expose traps without thermal goggles]
+Type = Gameshark
+Activation = EndFrame
+Author = Unicorngoulash
+A701AF7A 10402400
+A70D966A 10402400
+
+[Nikita rockets can go through walls]
+Type = Gameshark
+Activation = EndFrame
+Author = Unicorngoulash
+A7028B62 14401000
+A702A382 14401000
+
+[No need to equip ID card to open doors]
+Type = Gameshark
+Activation = EndFrame
+Author = Unicorngoulash
+A7021416 10C02400
+
+[Open any door with any ID card level 'Hold R1']
+Type = Gameshark
+Activation = EndFrame
+Author = Unicorngoulash
+A7021426 240010A0
+D7200000 00000008
+A7021426 10A02400
+
+[Pause doesn't darken screen or mute music]
+Type = Gameshark
+Activation = EndFrame
+Author = Unicorngoulash
+A704BB22 10A01000
+A7087012 12001000
+
+[Perfectly steady hands using sniper]
+Type = Gameshark
+Activation = EndFrame
+Author = Unicorngoulash
+A705A64E 14431000
+
+[Rainbow breath]
+Type = Gameshark
+Activation = EndFrame
+Author = Unicorngoulash
+A706162E 10402400
+A70610FE 14402400
+
+[Remove snow, breath and particle effects]
+Type = Gameshark
+Activation = EndFrame
+Author = Unicorngoulash
+A701E246 1D002400
+
+[Snake POV]
+Type = Gameshark
+Activation = EndFrame
+Author = Unicorngoulash
+A7031162 10622400
+A70B9F78 01400070
+D7000000 04000002
+80031162 00001062
+800B9F78 00000140
+00000000 0000FFFF
+D7000000 05000001
+80031162 00001062
+800B9F78 00000140
+
+[Stealth camo doesn't make you translucent]
+Type = Gameshark
+Activation = EndFrame
+Author = Unicorngoulash
+A706381A 0C002400
+
+[Teleporting kill grabs]
+Type = Gameshark
+Activation = EndFrame
+Author = Unicorngoulash
+A702EE12 10402400
+A705C3CA 10401000
+
+[Toggle censorship (L3+R3)]
+Type = Gameshark
+Activation = EndFrame
+Author = Unicorngoulash
+D7010001 03000600
+F502BA2E 1E802400
+
+[Walk on water (R3 on/off)]
+Type = Gameshark
+Activation = EndFrame
+Author = Unicorngoulash
+D7010001 01000400
+F502ABD6 14401000
+
+[Walk through Walls (L3 on/off)]
+Type = Gameshark
+Activation = EndFrame
+Author = Unicorngoulash
+D7010001 00000200
+F502A3E2 10C01000
+;#### PATCHES LISTED BELOW ####
+
+[FPS unlocker]
+Type = Gameshark
+Activation = EndFrame
+Author = Unicorngoulash
+A701FD2A 0C022400
 

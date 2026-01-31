@@ -1,0 +1,7 @@
+; CHTDB: ; [ Rayman Rush (Europe) {SLES-03812} ]
+
+[Enable All Characters]
+Type = Gameshark
+Activation = EndFrame
+3009764A 0008
+

@@ -3,7 +3,7 @@
 [Infinite Lives]
 Type = Gameshark
 Activation = EndFrame
-800C8518 0005
+800C8518 0063
 
 [Infinite Health]
 Type = Gameshark
@@ -20,9 +20,14 @@ Type = Gameshark
 Activation = EndFrame
 800C8556 03E7
 
-[Have All Powers Infinite]
+[Always have All Powers]
 Type = Gameshark
 Activation = EndFrame
 9007C8B0 05050505
 9007C8B4 05050505
+
+[Always have All Anachronistic Objects]
+Type = Gameshark
+Activation = EndFrame
+9007C88C 01010101
 
