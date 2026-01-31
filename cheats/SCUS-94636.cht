@@ -51,7 +51,8 @@ D7200000 00000040
 A703ED12 10401000
 A7056A72 10402400
 
-[Walk in air "Hold triangle" (Do not combine with moon jump code, jump in mid-air is fine)]
+[Walk in air "Hold triangle"]
+Description = Do not combine with moon jump code, jump in mid-air is fine
 Type = Gameshark
 Activation = EndFrame
 A703ED12 10001040

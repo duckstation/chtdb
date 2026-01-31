@@ -116,7 +116,8 @@ Type = Gameshark
 Activation = EndFrame
 800D454C 0002
 
-[Secret Mode With this code, it starts a new game with new weapons in chest and ALL weapons and infinite ink ribbons and a key to Boutique with all costumes!]
+[Secret Mode]
+Description = With this code, it starts a new game with new weapons in chest and ALL weapons and infinite ink ribbons and a key to Boutique with all costumes!
 Type = Gameshark
 Activation = EndFrame
 800D1F32 FFE0

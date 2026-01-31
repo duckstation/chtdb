@@ -1,6 +1,7 @@
 ; CHTDB: ; [ V-Rally: 97 Championship Edition (Europe) {SLES-00250} ]
 
-[Always first place Activate the codes, then start the game and immediately quit to main menu, then reselect the race to play.V1.1.]
+[Always first place]
+Description = Activate the codes, then start the game and immediately quit to main menu, then reselect the race to play.V1.1.
 Type = Gameshark
 Activation = EndFrame
 9005A550 00000000

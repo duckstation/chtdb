@@ -20,7 +20,8 @@ Type = Gameshark
 Activation = EndFrame
 800CCF5E 0064
 
-[US English Cheats Menu (press L2 on the main menu/room the main function of this menu is a level select which is divided into world 1 world 2 the only other function is a memory card formatter/un formatter)]
+[US English Cheats Menu]
+Description = Press L2 on the main menu/room the main function of this menu is a level select which is divided into world 1 world 2 the only other function is a memory card formatter/un formatter
 Type = Gameshark
 Activation = EndFrame
 D00D54CA 0100

@@ -58,7 +58,7 @@ Type = Gameshark
 Activation = EndFrame
 800418FC 2400
 
-[Infinity flamethrower]
+[Infinite flamethrower]
 Type = Gameshark
 Activation = EndFrame
 800407BC 0100
@@ -81,7 +81,8 @@ Type = Gameshark
 Activation = EndFrame
 900C86B4 CF7EBFDF
 
-[Stop 3 Minute Timer In Lab (This one starts after you put the battery in the elevator)]
+[Stop 3 Minute Timer In Lab]
+Description = This one starts after you put the battery in the elevator
 Type = Gameshark
 Activation = EndFrame
 800C867A 117A

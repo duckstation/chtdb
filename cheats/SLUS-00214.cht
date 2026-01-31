@@ -25,7 +25,8 @@ Type = Gameshark
 Activation = EndFrame
 8007C43A 000E
 
-[Extra Cars 1 Works by giving you a perfect score in the Galaga game. You have to wait all 4 rounds to activate the code!!]
+[Extra Cars 1]
+Description = Works by giving you a perfect score in the Galaga game. You have to wait all 4 rounds to activate the code!!
 Type = Gameshark
 Activation = EndFrame
 801DE318 0028
@@ -47,28 +48,29 @@ Activation = EndFrame
 8007C368 761E
 8007C3F8 01E6
 
-[Race on Special 1 course]
-Type = Gameshark
-Activation = EndFrame
-301DCA88 0003
-
-[Fix Time Trial crashing after unlocking Extra tracks by replacing non-existent special opponent car with 13th Racing. However, the player will not unlock any car in the end.]
+[Fix Time Trial crashing (13th Racing)]
+Description = Use after unlocking Extra tracks by replacing non-existent special opponent car with 13th Racing. However, the player will not unlock any car in the end.
 Type = Gameshark
 Activation = EndFrame
 E01FA722 000F
 301FA722 000C
 
-[Race on Special 2 course]
-Type = Gameshark
-Activation = EndFrame
-301DCA88 0004
-
-[Fix Time Trial crashing after unlocking Extra tracks by replacing non-existent special opponent car with White Angel. However, the player will not unlock any car in the end.]
+[Fix Time Trial crashing (White Angel)]
+Description = Use after unlocking Extra tracks by replacing non-existent special opponent car with White Angel. However, the player will not unlock any car in the end.
 Type = Gameshark
 Activation = EndFrame
 E01FA722 0010
 301FA722 000E
-;#### PATCHES LISTED BELOW ####
+
+[Race on Special 1 course]
+Type = Gameshark
+Activation = EndFrame
+301DCA88 0003
+
+[Race on Special 2 course]
+Type = Gameshark
+Activation = EndFrame
+301DCA88 0004
 
 [Race on Special 1 Extra course]
 Type = Gameshark
@@ -79,6 +81,7 @@ Activation = EndFrame
 Type = Gameshark
 Activation = EndFrame
 301DCA88 000C
+;#### PATCHES LISTED BELOW ####
 
 [40 FPS unlock (Might speed up game)]
 Type = Gameshark

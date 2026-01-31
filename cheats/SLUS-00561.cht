@@ -22,7 +22,8 @@ Activation = EndFrame
 50000502 0000
 80141970 3030
 
-[Hit Select For 'Suicide' To go with the Infinite Energy code, for when you fall in pits and get stuck.]
+[Hit Select For 'Suicide' To go with the Infinite Energy code]
+Description = Use when you fall in pits and get stuck.
 Type = Gameshark
 Activation = EndFrame
 D0166C08 0100
@@ -46,19 +47,22 @@ Type = Gameshark
 Activation = EndFrame
 8014199C 9D00
 
-[Death Touch (sets the energy of your opponent to zero whenever you use the square (fire) button)]
+[Death Touch 1]
+Description = Sets the energy of your opponent to zero whenever you use the square (fire) button
 Type = Gameshark
 Activation = EndFrame
 D0166C08 0080
 8013BF2C 0000
 
-[Death Touch 2 (sets the energy of Magma Dragoon to zero whenever you use the square (fire) button)]
+[Death Touch 2]
+Description = Sets the energy of Magma Dragoon to zero whenever you use the square (fire) button
 Type = Gameshark
 Activation = EndFrame
 D0166C08 0080
 8013C19C 0000
 
-[Death Touch 3 (sets the energy of Iris + Double to zero whenever you use the square (fire) button)]
+[Death Touch 3]
+Description = Sets the energy of Iris + Double to zero whenever you use the square (fire) button
 Type = Gameshark
 Activation = EndFrame
 D0166C08 0080

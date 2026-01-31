@@ -1,6 +1,7 @@
 ; CHTDB: ; [ Xena - Warrior Princess (USA) (1999) (Electronic Arts) {SLUS-00977} <xena> ]
 
-[Unlock All Levels Save the game with this code enabled to unlock all levels]
+[Unlock All Levels]
+Description = Save the game with this code enabled to unlock all levels
 Type = Gameshark
 Activation = EndFrame
 800F123C 0009

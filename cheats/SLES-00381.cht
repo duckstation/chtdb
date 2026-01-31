@@ -1,31 +1,37 @@
 ; CHTDB: ; [ Grid Run (Europe) {SLES-00381} ]
 
-[Have all flags 5 Put always a number less than the flags needed in that level disconnect the code before get a flag and you win the level]
+[Always have 5 flags]
+Description = Always a number less than the flags needed in that level disable the code before get a flag and you win the level
 Type = Gameshark
 Activation = EndFrame
 8009C7F3 0005
 
-[Have all flags 10 Put always a number less than the flags needed in that level disconnect the code before get a flag and you win the level]
+[Always have 10 flags]
+Description = Always a number less than the flags needed in that level disable the code before get a flag and you win the level
 Type = Gameshark
 Activation = EndFrame
 8009C7F3 000A
 
-[Have all flags 20 Put always a number less than the flags needed in that level disconnect the code before get a flag and you win the level]
+[Always have 20 flags]
+Description = Always a number less than the flags needed in that level disable the code before get a flag and you win the level
 Type = Gameshark
 Activation = EndFrame
 8009C7F3 0014
 
-[Have all flags 30 Put always a number less than the flags needed in that level disconnect the code before get a flag and you win the level]
+[Always have 30 flags]
+Description = Always a number less than the flags needed in that level disable the code before get a flag and you win the level
 Type = Gameshark
 Activation = EndFrame
 8009C7F3 001E
 
-[Have all flags 40 Put always a number less than the flags needed in that level disconnect the code before get a flag and you win the level]
+[Always have 40 flags]
+Description = Always a number less than the flags needed in that level disable the code before get a flag and you win the level
 Type = Gameshark
 Activation = EndFrame
 8009C7F3 0028
 
-[Have all flags 50 Put always a number less than the flags needed in that level disconnect the code before get a flag and you win the level]
+[Always have 50 flags]
+Description = Always a number less than the flags needed in that level disable the code before get a flag and you win the level
 Type = Gameshark
 Activation = EndFrame
 8009C7F3 0032

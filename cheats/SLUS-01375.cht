@@ -92,7 +92,8 @@ Type = Gameshark
 Activation = EndFrame
 800988D0 EA60
 
-[Press Select To Kill 11 Enemies (DO NOT use during battles where you must rescue someone)]
+[Press Select To Kill A11 Enemies]
+Description = DO NOT use during battles where you must rescue someone
 Type = Gameshark
 Activation = EndFrame
 C00DA1B2 FFFE

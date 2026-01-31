@@ -386,7 +386,8 @@ Option = Predator's Ball:0x003C
 Option = Hunter Camp:0x0046
 Option = The Hunters Regroup:0x0050
 
-[Enter Level Select Password Only Once With this code, goto the password screen and enter, Square, X, Circle, Triangle, Triangle, X, Square, Circle, Triable, Circle, X Square!]
+[Enter Level Select Password Only Once]
+Description = With this code, goto the password screen and enter, Square, X, Circle, Triangle, Triangle, X, Square, Circle, Triable, Circle, X Square!
 Type = Gameshark
 Activation = EndFrame
 8002EEF8 0002

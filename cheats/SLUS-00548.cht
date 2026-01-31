@@ -37,7 +37,8 @@ Type = Gameshark
 Activation = EndFrame
 301D78DC 00C8
 
-[Expert Training Point Modifier .When you activate this code, go to the Expert Practice room then leave. Cut the GS off then. You should now have the four hidden characters.]
+[Expert Training Point Modifier]
+Description = When you activate this code, go to the Expert Practice room then leave. Cut the GS off then. You should now have the four hidden characters.
 Type = Gameshark
 Activation = EndFrame
 801EBCC0 FFFF

@@ -30,7 +30,8 @@ Type = Gameshark
 Activation = EndFrame
 8011B27C 0FFA
 
-[Have All Missions Unlocked This takes you to the last level. All you have to do is beat it, then goto options and save setup. Then you can on any level anytime.]
+[Have All Missions Unlocked]
+Description = This takes you to the last level. All you have to do is beat it, then goto options and save setup. Then you can on any level anytime.
 Type = Gameshark
 Activation = EndFrame
 80091250 001D

@@ -119,32 +119,35 @@ Type = Gameshark
 Activation = EndFrame
 90084F30 0098967F
 
-[Vahn HP at 4k in menu and begin|after battle (if you heal in battle you will return at the original max HP)]
+[Vahn HP at 4k in menu and begin|after battle]
+Description = If you heal in battle you will return at the original max HP
 Type = Gameshark
 Activation = EndFrame
 8008480E 00000FA0
 
-[Noa HP at 4k in menu and begin|after battle (if you heal in battle you will return at the original max HP)]
+[Noa HP at 4k in menu and begin|after battle]
+Description = If you heal in battle you will return at the original max HP
 Type = Gameshark
 Activation = EndFrame
 80084C22 00000FA0
 
-[Gala HP at 4k in menu and begin|after battle (if you heal in battle you will return at the original max HP)]
+[Gala HP at 4k in menu and begin|after battle]
+Description = If you heal in battle you will return at the original max HP
 Type = Gameshark
 Activation = EndFrame
 80085036 00000FA0
 
-[Vahn HP fixed at 255 in menu (ONLY useful for lv up healing serus)]]
+[Vahn HP fixed at 255 in menu (ONLY useful for lv up healing serus)]
 Type = Gameshark
 Activation = EndFrame
 8008480E 000000FF
 
-[Noa HP fixed at 255 in menu (ONLY useful for lv up healing serus)]]
+[Noa HP fixed at 255 in menu (ONLY useful for lv up healing serus)]
 Type = Gameshark
 Activation = EndFrame
 80084C22 000000FF
 
-[Gala HP fixed at 255 in menu (ONLY useful for lv up healing serus)]]
+[Gala HP fixed at 255 in menu (ONLY useful for lv up healing serus)]
 Type = Gameshark
 Activation = EndFrame
 80085036 000000FF

@@ -15,17 +15,17 @@ Type = Gameshark
 Activation = EndFrame
 9016C1B0 00000000
 
-[Enable Sfii Secrets]
+[Enable SF II Secrets]
 Type = Gameshark
 Activation = EndFrame
 80148292 0001
 
-[Enable Sfii-Ce Secrets]
+[Enable SF II-Ce Secrets]
 Type = Gameshark
 Activation = EndFrame
 801482C6 0001
 
-[Enable Sfii-Thf Sound Test]
+[Enable SF II-Thf Sound Test]
 Type = Gameshark
 Activation = EndFrame
 801482FA 0001

@@ -81,7 +81,8 @@ Activation = EndFrame
 D0083E2E 0100
 800ADA40 0007
 
-[Enable Stage Select and also makes you play in Free Difficuly which was disabled from the US release]
+[Enable Stage Select and also makes you play in Free Difficulty]
+Description = Free Difficulty was disabled from the US release
 Type = Gameshark
 Activation = EndFrame
 800ADAA6 0001

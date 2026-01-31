@@ -63,7 +63,8 @@ Type = Gameshark
 Activation = EndFrame
 80102F04 0001
 
-[Super/Hyper And All Other Modes Enable (Beat a stage and exit to the main menu with the All Worlds Unlocked code also on to fully enable.)]
+[Super/Hyper And All Other Modes Enable]
+Description = Beat a stage and exit to the main menu with the All Worlds Unlocked code also on to fully enable.
 Type = Gameshark
 Activation = EndFrame
 300140E4 0000

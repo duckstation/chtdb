@@ -20,7 +20,8 @@ Type = Gameshark
 Activation = EndFrame
 80010098 FFFF
 
-[To End Race And Always Be In First Place (.This cheat reqiures that you press the R1 button by itself once during each race. This will make the game believe that the race is finished. When you decide to end the race is up to you. If you want to drive through most of the course you can or you can finish as youstart.)]
+[To End Race And Always Be In First Place]
+Description = This cheat requires that you press the R1 button by itself once during each race. This will make the game believe that the race is finished. When you decide to end the race is up to you. If you want to drive through most of the course you can or you can finish as you start.
 Type = Gameshark
 Activation = EndFrame
 9007BDF0 00000000

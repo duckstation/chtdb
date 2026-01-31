@@ -43,7 +43,8 @@ Type = Gameshark
 Activation = EndFrame
 801397C0 FFFF
 
-[Time Is Always 0.00.00 Press Select right before you cross the line to go into next lap and it will reset timer to 0.00.00]
+[Time Is Always 0.00.00]
+Description = Press Select right before you cross the line to go into next lap and it will reset timer to 0.00.00
 Type = Gameshark
 Activation = EndFrame
 D011B38A FFFE

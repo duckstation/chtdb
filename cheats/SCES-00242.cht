@@ -25,27 +25,29 @@ Type = Gameshark
 Activation = EndFrame
 801E65DC 0028
 
-[Race on Special 1 course]
-Type = Gameshark
-Activation = EndFrame
-301DCCD4 0003
-
-[Fix Time Trial crashing after unlocking Extra tracks by replacing non-existent special opponent car with 13th Racing. However, the player will not unlock any car in the end.]
+[Fix Time Trial crashing (13th Racing)]
+Description = Use after unlocking Extra tracks by replacing non-existent special opponent car with 13th Racing. However, the player will not unlock any car in the end.
 Type = Gameshark
 Activation = EndFrame
 E01F75DE 000F
 301F75DE 000C
 
-[Race on Special 2 course]
-Type = Gameshark
-Activation = EndFrame
-301DCCD4 0004
-
-[Fix Time Trial crashing after unlocking Extra tracks by replacing non-existent special opponent car with White Angel. However, the player will not unlock any car in the end.]
+[Fix Time Trial crashing (White Angel)]
+Description = Use after unlocking Extra tracks by replacing non-existent special opponent car with White Angel. However, the player will not unlock any car in the end.
 Type = Gameshark
 Activation = EndFrame
 E01F75DE 0010
 301F75DE 000E
+
+[Race on Special 1 course]
+Type = Gameshark
+Activation = EndFrame
+301DCCD4 0003
+
+[Race on Special 2 course]
+Type = Gameshark
+Activation = EndFrame
+301DCCD4 0004
 
 [Race on Special 1 Extra course]
 Type = Gameshark
