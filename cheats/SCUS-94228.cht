@@ -38,7 +38,7 @@ AAAAAAAA AAAAAAAA
 ;8007F54C 0003
 
 [Fly Instead of Glide]
-Description = Off (Press R1 + Triangle), On (Press L1 + Triangle)
+Description = Press L1 + Triangle to turn on. Press R1 + Triangle to turn off.
 Type = Gameshark
 Activation = EndFrame
 D007F032 E7FF

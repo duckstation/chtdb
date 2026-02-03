@@ -600,7 +600,7 @@ Type = Gameshark
 Activation = EndFrame
 8011FC80 FFFF
 
-[Invisibility Code If you press and hold the L1 button, you can turn invisibility off to turn it on again, just release the L1 button]
+[Invisibility (Hold L1 to turn off)]
 Type = Gameshark
 Activation = EndFrame
 8011F860 FFFF

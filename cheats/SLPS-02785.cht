@@ -101,7 +101,8 @@ D00AF000 5F98
 D00AF000 5F98
 800AF026 A083
 
-[EXTRA DUNGEON appearance , use the Code, make a save. When launching the game with the saved data, the option "EXTRA DUNGEON" appears in the title menu.]
+[EXTRA DUNGEON enable]
+Description = Use the cheat, make a save. When launching the game with the saved data, the option "EXTRA DUNGEON" will appear in the title menu.
 Type = Gameshark
 Activation = EndFrame
 30082135 000F

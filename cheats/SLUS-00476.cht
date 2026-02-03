@@ -21,7 +21,8 @@ Activation = EndFrame
 800AD200 0F00
 800D7DC4 0F00
 
-[Infinite Energy With Infinite Energy + Infinite MP, they only work from boot up, once you die, they won't work anymore!]
+[Infinite Energy]
+Description = With Infinite Energy + Infinite MP, they only work from boot up, once you die, they won't work anymore.
 Type = Gameshark
 Activation = EndFrame
 800F9FBC 00A6

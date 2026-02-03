@@ -22,7 +22,7 @@ D00ECE58 03F2
 800ECE5A 2400
 
 [Start/Stop Timer]
-Description = Select to Stop + L2/R2 to Start
+Description = L2/R2 to start. Select to stop.
 Type = Gameshark
 Activation = EndFrame
 D0054138 0001

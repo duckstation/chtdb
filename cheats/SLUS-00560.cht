@@ -5,7 +5,8 @@ Type = Gameshark
 Activation = EndFrame
 800B6184 0000
 
-[In-Battle Quick Level Up Cheats\Position 1 If you don't have 10 characters in battle then the enemy's level goes up!.]
+[In-Battle Quick Level Up Cheats\Position 1]
+Description = If you don't have 10 characters in battle then the enemy's level goes up.
 Type = Gameshark
 Activation = EndFrame
 30139430 0064
@@ -55,7 +56,7 @@ Type = Gameshark
 Activation = EndFrame
 30139439 0064
 
-[In-Battle Quick Level Up Cheats\Invincibility Use Only in your turn]
+[In-Battle Quick Level Up Cheats\Invincibility (use only in your turn)]
 Type = Gameshark
 Activation = EndFrame
 800B61FC 0001

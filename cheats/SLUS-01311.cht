@@ -10,7 +10,8 @@ Type = Gameshark
 Activation = EndFrame
 800A71FE 0708
 
-[Level Access Menu Press L1+L2 at the title screen that says 'New Game'. Pressing the Triangle button will exit back to 'New Game'.]
+[Level Access Menu]
+Description = Press L1+L2 at the title screen that says 'New Game'. Pressing the Triangle button will exit back to 'New Game'.
 Type = Gameshark
 Activation = EndFrame
 D00A603A F5FF

@@ -196,7 +196,8 @@ Type = Gameshark
 Activation = EndFrame
 8009E5EC FFFF
 
-[Play 5 Stages In Force Mode Instead Of 4 .With this code, it will only work if Dr. Boskonovitch has NOT been enabled.]
+[Play 5 Stages In Force Mode Instead Of 4]
+Description = With this code, it will only work if Dr. Boskonovitch has NOT been enabled.
 Type = Gameshark
 Activation = EndFrame
 80097F18 0103

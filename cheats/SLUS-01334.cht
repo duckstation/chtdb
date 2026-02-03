@@ -192,97 +192,113 @@ Activation = EndFrame
 D00D51A2 7FFF
 800D1C26 0008
 
-[Select Level\Intro Level select Training from main title screen and you will be taken to the level]
+[Select Level\Intro Level]
+Description = Select Training from main title screen and you will be taken to the level.
 Type = Gameshark
 Activation = EndFrame
 D00D1C0C 0016
 300D1C0C 0000
 
-[Select Level\Grizzly Slash select Training from main title screen and you will be taken to the level]
+[Select Level\Grizzly Slash]
+Description = Select Training from main title screen and you will be taken to the level.
 Type = Gameshark
 Activation = EndFrame
 D00D1C0C 0016
 300D1C0C 0001
 
-[Select Level\Dark Dizzy select Training from main title screen and you will be taken to the level]
+[Select Level\Dark Dizzy]
+Description = Select Training from main title screen and you will be taken to the level.
 Type = Gameshark
 Activation = EndFrame
 D00D1C0C 0016
 300D1C0C 0002
 
-[Select Level\Duff McWhalen select Training from main title screen and you will be taken to the level]
+[Select Level\Duff McWhalen]
+Description = Select Training from main title screen and you will be taken to the level.
 Type = Gameshark
 Activation = EndFrame
 D00D1C0C 0016
 300D1C0C 0003
 
-[Select Level\MattRex select Training from main title screen and you will be taken to the level]
+[Select Level\MattRex]
+Description = Select Training from main title screen and you will be taken to the level.
 Type = Gameshark
 Activation = EndFrame
 D00D1C0C 0016
 300D1C0C 0004
 
-[Select Level\Squid Adler select Training from main title screen and you will be taken to the level]
+[Select Level\Squid Adler]
+Description = Select Training from main title screen and you will be taken to the level.
 Type = Gameshark
 Activation = EndFrame
 D00D1C0C 0016
 300D1C0C 0005
 
-[Select Level\Izzy Glowr select Training from main title screen and you will be taken to the level]
+[Select Level\Izzy Glowr]
+Description = Select Training from main title screen and you will be taken to the level.
 Type = Gameshark
 Activation = EndFrame
 D00D1C0C 0016
 300D1C0C 0006
 
-[Select Level\AxleTheRed select Training from main title screen and you will be taken to the level]
+[Select Level\AxleTheRed]
+Description = Select Training from main title screen and you will be taken to the level.
 Type = Gameshark
 Activation = EndFrame
 D00D1C0C 0016
 300D1C0C 0007
 
-[Select Level\The Skiver select Training from main title screen and you will be taken to the level]
+[Select Level\The Skiver]
+Description = Select Training from main title screen and you will be taken to the level.
 Type = Gameshark
 Activation = EndFrame
 D00D1C0C 0016
 300D1C0C 0008
 
-[Select Level\1st Fight With Dynamo select Training from main title screen and you will be taken to the level]
+[Select Level\1st Fight With Dynamo]
+Description = Select Training from main title screen and you will be taken to the level.
 Type = Gameshark
 Activation = EndFrame
 D00D1C0C 0016
 300D1C0C 0009
 
-[Select Level\2nd Fight With Dynamo select Training from main title screen and you will be taken to the level]
+[Select Level\2nd Fight With Dynamo]
+Description = Select Training from main title screen and you will be taken to the level.
 Type = Gameshark
 Activation = EndFrame
 D00D1C0C 0016
 300D1C0C 000A
 
-[Select Level\1st Section of Sigma Level select Training from main title screen and you will be taken to the level]
+[Select Level\1st Section of Sigma Level]
+Description = Select Training from main title screen and you will be taken to the level.
 Type = Gameshark
 Activation = EndFrame
 D00D1C0C 0016
 300D1C0C 0010
 
-[Select Level\2nd Section of Sigma Level select Training from main title screen and you will be taken to the level]
+[Select Level\2nd Section of Sigma Level]
+Description = Select Training from main title screen and you will be taken to the level.
 Type = Gameshark
 Activation = EndFrame
 D00D1C0C 0016
 300D1C0C 0011
 
-[Select Level\3rd Section of Sigma Level select Training from main title screen and you will be taken to the level]
+[Select Level\3rd Section of Sigma Level]
+Description = Select Training from main title screen and you will be taken to the level.
 Type = Gameshark
 Activation = EndFrame
 D00D1C0C 0016
 300D1C0C 0012
 
-[Select Level\Last Section of Sigma Level select Training from main title screen and you will be taken to the level]
+[Select Level\Last Section of Sigma Level]
+Description = Select Training from main title screen and you will be taken to the level.
 Type = Gameshark
 Activation = EndFrame
 D00D1C0C 0016
 300D1C0C 000C
 
-[Matrix mode "Pres L3 to toggle on/off]
+[Matrix mode]
+Description = Press L3 to toggle on/off.
 Type = Gameshark
 Activation = EndFrame
 D7010001 01000200

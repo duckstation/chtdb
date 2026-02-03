@@ -10,7 +10,8 @@ Type = Gameshark
 Activation = EndFrame
 80079972 0001
 
-[Secret Car Select .With this code, hold L1+UP For Secret Car 1, hold L2+UP For Secret Car 2, hold R1+UP For Secret Car 3,hold R2+UP For Secret Car 4, then Select Any Car!]
+[Secret Car Select]
+Description = Hold L1+UP For Secret Car 1, hold L2+UP For Secret Car 2, hold R1+UP For Secret Car 3, hold R2+UP For Secret Car 4, then Select Any Car.
 Type = Gameshark
 Activation = EndFrame
 D006F264 0410

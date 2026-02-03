@@ -36,7 +36,7 @@ Option = Pulse Laser:0x0004
 Option = Grenade Launcher:0x0005
 
 [Weapon Select]
-Description = Push Select+Up for Missile Launcher Push Select+Left for Homing Missile Push Select+Right for Flame Thrower Push Select+Down for Pulse Laser Push Select+L1 for Grenade Launcher
+Description = Push Select+Up for Missile Launcher. Push Select+Left for Homing Missile. Push Select+Right for Flame Thrower. Push Select+Down for Pulse Laser. Push Select+L1 for Grenade Launcher.
 Type = Gameshark
 Activation = EndFrame
 D010B85C 0401

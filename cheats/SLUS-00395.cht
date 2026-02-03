@@ -35,7 +35,8 @@ Type = Gameshark
 Activation = EndFrame
 800B9E98 0005
 
-[Level Skip (Press L1+L2+R1+R2 while in game to go to the Level Skip screen. Press X to skip a level or Triangle to go back a level)]
+[Level Skip]
+Description = Press L1+L2+R1+R2 while in game to go to the Level Skip screen. Press X to skip a level or Triangle to go back a level.
 Type = Gameshark
 Activation = EndFrame
 80091072 0001

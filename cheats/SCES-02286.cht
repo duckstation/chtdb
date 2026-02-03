@@ -1,6 +1,7 @@
 ; CHTDB: ; [ Syphon Filter 2 (France) {SCES-02286 | SCES-12286} ]
 
-[Ammo And Items Increase .To have Ammo and Items increase instead of decrease click on L3 (i.e. left stick of analogue pad). To get back to normal click on R3 (i.e. right stick of analogue pad).]
+[Ammo And Items Increase]
+Description = To have Ammo and Items increase instead of decrease press L3. To get back to normal press R3.
 Type = Gameshark
 Activation = EndFrame
 D0122FFA FFFD

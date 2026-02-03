@@ -30,7 +30,7 @@ D0032F08 0000
 80032F0A 2400
 
 [Start/Stop Timer]
-Description = Press L1 + L2 to start the timer + press R1 + R2 to stop it.
+Description = Press L1+L2 to start the timer. Press R1+R2 to stop it.
 Type = Gameshark
 Activation = EndFrame
 D0065CDE 0005

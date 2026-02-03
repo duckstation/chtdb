@@ -43,7 +43,8 @@ Type = Gameshark
 Activation = EndFrame
 80088A62 0063
 
-[All Levels\Infinite Large Medic Packs .You can use infinite medic packs instead of the infinite health codes because the medic pack 's codes are working in all level.]
+[All Levels\Infinite Large Medic Packs]
+Description = You can use infinite medic packs instead of the infinite health codes because the medic pack's codes are working in all levels.
 Type = Gameshark
 Activation = EndFrame
 80088A64 0063

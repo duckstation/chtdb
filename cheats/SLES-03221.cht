@@ -38,7 +38,7 @@ Type = Gameshark
 Activation = EndFrame
 800C1A48 FFFF
 
-[No laser bars(Press L2)]
+[No laser bars (Press L2)]
 Type = Gameshark
 Activation = EndFrame
 D00ABAB2 FFB9
@@ -57,13 +57,14 @@ Type = Gameshark
 Activation = EndFrame
 A60AECBC 01010504
 
-[Extra crisis mode Unlocked From the main menu, go into options, exit again and a new menu will appear.]
+[Extra crisis mode\Unlock]
+Description = From the main menu, go into options, exit again and a new menu will appear.
 Type = Gameshark
 Activation = EndFrame
 900AECB8 01010100
 800AECBC 0101
 
-[Extra crisis mode All characters unlocked]
+[Extra crisis mode\All characters unlocked]
 Type = Gameshark
 Activation = EndFrame
 800AECBE 0FFF

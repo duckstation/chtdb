@@ -10,13 +10,15 @@ Type = Gameshark
 Activation = EndFrame
 80081574 0018
 
-[Unlock All Photos/Movies .You'll need to have one game save]
+[Unlock All Photos/Movies]
+Description = You'll need to have one game save.
 Type = Gameshark
 Activation = EndFrame
 50004A08 0000
 30075438 0002
 
-[Have Lots Of Points/Cash - Press L1,L2,R1,R2 .It's advisable to start from the first stage as the changed per stage]
+[Have Lots Of Points/Cash]
+Description = Press L1,L2,R1,R2. It's advisable to start from the first stage as the changed per stage.
 Type = Gameshark
 Activation = EndFrame
 C0094DEE F0FF

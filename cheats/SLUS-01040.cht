@@ -27,7 +27,8 @@ Type = Gameshark
 Activation = EndFrame
 80060062 FFFF
 
-[Save Anywhere .With this code, when you save at places other than a save point, the saved file will say Corrupted file. The file is NOT corrupt, and will load/save properly.]
+[Save Anywhere]
+Description = With this code, when you save at places other than a save point, the saved file will say Corrupted file. The file is NOT corrupt, and will load/save properly.
 Type = Gameshark
 Activation = EndFrame
 D0109FBC 4E6B

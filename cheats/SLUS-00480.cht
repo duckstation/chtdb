@@ -1,6 +1,7 @@
 ; CHTDB: ; [ WarCraft II - The Dark Saga (USA) (1997) (Electronic Arts) {SLUS-00480} <warcrft2> ]
 
-[Cheat Selector .Press L1+SELECT for quick build and upgrade Press L2+SELECT for invincible units and buildings.Press R1+SELECT for full upgrades.Press R2+SELECT for show map]
+[Cheat Selector]
+Description = Press L1+SELECT for quick build and upgrade. Press L2+SELECT for invincible units and buildings. Press R1+SELECT for full upgrades. Press R2+SELECT for show map.
 Type = Gameshark
 Activation = EndFrame
 D01619C8 0104

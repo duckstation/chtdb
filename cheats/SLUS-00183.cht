@@ -1,6 +1,7 @@
 ; CHTDB: ; [ Zero Divide (USA) (1995) (Time Warner Interactive) {SLUS-00183} <zerodiv> ]
 
-[Infinite Energy Zero .Use only in battle when finnish deactivate and activate again in the next fight]
+[Infinite Energy Zero]
+Description = Use only in battle when finish deactivate and activate again in the next fight.
 Type = Gameshark
 Activation = EndFrame
 80110764 00D0
@@ -76,7 +77,8 @@ Type = Gameshark
 Activation = EndFrame
 A60EEC24 00000200
 
-[Tiny Phalanx Infinite Lives .Tiny Phalanx is an entire hidden game within Zero Divide. To access it, turn the PlayStation on, and hold Select and Start on controller 2 until you see the Tiny Phalanx title screen.]
+[Tiny Phalanx Infinite Lives]
+Description = Tiny Phalanx is an entire hidden game within Zero Divide. To access it, turn the PlayStation on, and hold Select and Start on controller 2 until you see the Tiny Phalanx title screen.
 Type = Gameshark
 Activation = EndFrame
 800ACD34 0063

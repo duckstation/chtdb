@@ -104,14 +104,15 @@ C00B1418 0100
 300B7A5B 0002
 00000000 FFFF
 
-[Turbo Boost (Press X)]
+[Turbo Boost]
+Description = Press X
 Type = Gameshark
 Activation = EndFrame
 D00B1418 0040
 800B94A0 0100
 
 [Save Anywhere]
-Description = Press L1 + L2
+Description = Press L1+L2
 Type = Gameshark
 Activation = EndFrame
 D00B1418 0005
@@ -241,7 +242,8 @@ A60B949A 01020101
 300B96A2 0063
 300B96A4 0063
 
-[Change Size Regina Anywhere (Press L1 For Smaller + R2 For Bigger)]
+[Change Size Of Regina Anywhere]
+Description = Press L1 For Smaller, R2 For Bigger
 Type = Gameshark
 Activation = EndFrame
 D00B1418 0001
@@ -281,7 +283,8 @@ Type = Gameshark
 Activation = EndFrame
 800ABF28 A803
 
-[Transform Size Of Dinosaur's Anytime (Press L2 For Smaller + L1 For Bigger)]
+[Transform Size Of Dinosaurs Anytime]
+Description = Press L2 For Smaller, L1 For Bigger
 Type = Gameshark
 Activation = EndFrame
 D00B1418 0001

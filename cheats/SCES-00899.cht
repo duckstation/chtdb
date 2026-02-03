@@ -27,12 +27,14 @@ Type = Gameshark
 Activation = EndFrame
 800A1004 0001
 
-[Enemies can`t move (This works in all modes except 2 Player-mode. Try to change the last digits for the enemy-moves. For instance with 3 the enemy starts only attacks to the torsO)]
+[Enemies cannot move]
+Description = This works in all modes except 2 Player mode. Try to change the last digits for the enemy-moves. For instance with 3 the enemy starts only attacks to the torso.
 Type = Gameshark
 Activation = EndFrame
 8013D87C 0001
 
-[Level 10 & 90 Kills in Slash-mode (You have to produce 10 more kills with that code without using the continue-function - this results in getting Katze in Vs-Mode)]
+[Level 10 & 90 Kills in Slash-mode]
+Description = You have to produce 10 more kills with that code without using the continue-function - this results in getting Katze in Vs-Mode.
 Type = Gameshark
 Activation = EndFrame
 800A15EC 0009

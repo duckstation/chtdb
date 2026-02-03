@@ -28,7 +28,8 @@ Activation = EndFrame
 D011370C 0001
 3011370C 0002
 
-[Enable Cheat Mode (Press Triangle to access your inventory to use the Cheat Mode option. If you want to save or load your game at any time, press Select. To view the build information for the game, pause and hold L2)]
+[Cheat Mode]
+Description = Press Triangle to access your inventory to use the Cheat Mode option. If you want to save or load your game at any time, press Select. To view the build information for the game, pause and hold L2.
 Type = Gameshark
 Activation = EndFrame
 300C34EC 0002

@@ -19,7 +19,7 @@ Activation = EndFrame
 800844C4 0FFF
 
 [P1 Start/Stop Timer]
-Description = L1+L2 To Start + R1+R2 To Stop
+Description = L1+L2 to start. R1+R2 to stop.
 Type = Gameshark
 Activation = EndFrame
 D0073A3C 0500
