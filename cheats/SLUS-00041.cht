@@ -35,7 +35,8 @@ Option = Cammy:0x0C0C
 Option = Sawada:0x0D0D
 Option = Dee Jay:0x0E0E
 
-[Unlock Video Clip Select 'Back-Up' from main menu, then 'Video Clip' to see Chage + Aska's 'Something There' video.]
+[Unlock Video Clip]
+Description = Select 'Back-Up' from main menu, then 'Video Clip' to see Chage + Aska's 'Something There' video.
 Type = Gameshark
 Activation = EndFrame
 301B8AE6 0001

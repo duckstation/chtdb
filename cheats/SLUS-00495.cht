@@ -1,11 +1,13 @@
 ; CHTDB: ; [ WWF War Zone (USA, v1.0) (1998) (Acclaim Entertainment) {SLUS-00495} <wwfwarza> ]
 
-[Unlock Cheats In Cheat Menu\Unlock All Features Simply press R1+L1 repeatedly at the menu select screen to load cheat menu! This Code unlocks all secret characters in the game.plus more!]
+[Unlock Cheats In Cheat Menu\Unlock All Features (R1+L1)]
+Description = Press R1+L1 repeatedly at the menu select screen to load cheat menu. This code unlocks all secret characters in the game, plus more!
 Type = Gameshark
 Activation = EndFrame
 9007A0F0 100007FF
 
-[Unlock Cheats In Cheat Menu\Unlock All Modes Simply press R1+L1 repeatedly at the menu select screen to load cheat menu! This Code unlocks all secret characters in the game.plus more!]
+[Unlock Cheats In Cheat Menu\Unlock All Modes (R1+L1)]
+Description = Press R1+L1 repeatedly at the menu select screen to load cheat menu. This code unlocks all secret characters in the game, plus more!
 Type = Gameshark
 Activation = EndFrame
 9007A0F4 20003FFF

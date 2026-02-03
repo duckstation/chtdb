@@ -171,7 +171,8 @@ Activation = EndFrame
 D01B3A7E 001B
 80093BC8 0000
 
-[Special Event\Only One Lap To Race (This code will finish the race as you pass the startline on all two lap races. If you try to race a three lap race you will have only one lap to finish)]
+[Special Event\Only One Lap To Race]
+Description = This code will finish the race as you pass the startline on all two lap races. If you try to race a three lap race you will have only one lap to finish.
 Type = Gameshark
 Activation = EndFrame
 A60B6700 00000002

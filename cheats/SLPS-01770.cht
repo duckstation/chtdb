@@ -98,7 +98,8 @@ Activation = EndFrame
 D00E7ECE 1440
 800E7ECE 1000
 
-[Debug Room Hold L2 while entering another map to enter the debug room, whose ID is 0005. You can level-up your characters and warp to various locations, including a completely-removed area..]
+[Debug Room]
+Description = Hold L2 while entering another map to enter the debug room, whose ID is 0005. You can level-up your characters and warp to various locations, including a completely-removed area.
 Type = Gameshark
 Activation = EndFrame
 D007F378 0001

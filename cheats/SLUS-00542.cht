@@ -25,7 +25,8 @@ Type = Gameshark
 Activation = EndFrame
 8009AC0C 0006
 
-[Moon Jump For the moon jump use the default controller settings only. Hold X down to rise higher]
+[Moon Jump]
+Description = For the moon jump use the default controller settings only. Hold X down to rise higher.
 Type = Gameshark
 Activation = EndFrame
 D009B150 0001
@@ -51,7 +52,8 @@ Type = Gameshark
 Activation = EndFrame
 801BE98A 0001
 
-[Room + Stage Skip Press R1 and R2 buttons to scroll forward for each and hold the buttons to warp there]
+[Room + Stage Skip]
+Description = Press R1 and R2 to scroll forward for each and hold the buttons to warp there.
 Type = Gameshark
 Activation = EndFrame
 3009B334 0001

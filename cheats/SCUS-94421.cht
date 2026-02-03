@@ -56,7 +56,8 @@ Activation = EndFrame
 50000302 0001
 8009B4C8 53FD
 
-[Misc.\Extra Menu Options/Debug With this code, when you got into your menus and such, you will be able to move past the end of the lists. If you highlight the very top option and press up, it will take you to the very bottom, which is a Debug type of menu. Press X on it, and then it will take y ou to a blank screen, Press X one more time, and the options will popup.]
+[Misc.\Extra Menu Options/Debug]
+Description = With this code, when you go into your menus and such, you will be able to move past the end of the lists. If you highlight the very top option and press up, it will take you to the very bottom, which is a Debug type of menu. Press X on it, and then it will take you to a blank screen. Press X one more time and the options will pop up.
 Type = Gameshark
 Activation = EndFrame
 D00D3898 FFE8

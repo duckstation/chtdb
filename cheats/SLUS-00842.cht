@@ -87,7 +87,8 @@ Type = Gameshark
 Activation = EndFrame
 8009D274 5050
 
-[Regular Game\Nitro Boost (With this cheat, hold down L1 + X for the Nitro Boost)]
+[Regular Game\Nitro Boost]
+Description = Hold down L1 + X for the Nitro Boost.
 Type = Gameshark
 Activation = EndFrame
 D0096DB4 0044
@@ -103,7 +104,8 @@ Type = Gameshark
 Activation = EndFrame
 80097428 0000
 
-[Regular Game\Flip Mode (With this cheat, press L1 + R1 to flip your car in the air till you land back on all four wheels)]
+[Regular Game\Flip Mode]
+Description = Press L1 + R1 to flip your car in the air till you land back on all four wheels.
 Type = Gameshark
 Activation = EndFrame
 D0096DB4 000C

@@ -15,7 +15,8 @@ Type = Gameshark
 Activation = EndFrame
 80032610 000E
 
-[Cheat Mode All levels will be unlocked, you can modify the player health (pause menu), and warp to any level (pause menu).]
+[Cheat Mode]
+Description = All levels will be unlocked, you can modify the player health (pause menu), and warp to any level (pause menu).
 Type = Gameshark
 Activation = EndFrame
 300325FC 0001

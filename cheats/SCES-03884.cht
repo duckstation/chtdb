@@ -1,6 +1,7 @@
 ; CHTDB: ; [ Firebugs (Euro) (2002) (Sony) {SCES-03884} <firebugs> ]
 
-[Quick Win - Press L1,L2,R1 + R2 (Pressing the above buttons before crossing the starting line will give you immediate win. By pressing those buttons after crossing the starting line will let you race for one lap only. The code works in qualifier round and racing against four other opponents only. By activating this code it'll give you max points and does not matter if you loose the one two race)]
+[Quick Win (Press L1,L2,R1+R2)]
+Description = Pressing the buttons before crossing the starting line will give you immediate win. By pressing those buttons after crossing the starting line will let you race for one lap only. The code works in qualifier round and racing against four other opponents only. By activating this code it'll give you max points and does not matter if you loose the one two race.
 Type = Gameshark
 Activation = EndFrame
 D00C3460 F0FF

@@ -1,6 +1,7 @@
 ; CHTDB: ; [ Xenogears (Japan) {SLPS-01160 | SLPS-01161} ]
 
-[Can Get Level 99 After One Battle (For All Characters) .If you use this code, you need to press R1 & R2 together for once in the battle.]
+[Can Get Level 99 After One Battle (For All Characters)]
+Description = If you use this code, you need to press R1+R2 together once in the battle.
 Type = Gameshark
 Activation = EndFrame
 D0058A10 000A

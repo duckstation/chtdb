@@ -21,7 +21,7 @@ Type = Gameshark
 Activation = EndFrame
 800E1258 FFFF
 
-[Invincibility This code makes it so that Snake can't be hit by anything]
+[Invincibility]
 Type = Gameshark
 Activation = EndFrame
 800AE1CA 0080
@@ -72,25 +72,28 @@ Activation = EndFrame
 D00B2D58 0008
 8015B59C 0000
 
-[Press R1 For An Easy Fight Against Mantis .With this code, keep tapping R1 'til Mantis has Meryl try to blow her brains out. Tap R1 once more at this point, then swap controller ports and finish him off!]
+[Press R1 For An Easy Fight Against Mantis]
+Description = With this code, keep tapping R1 until Mantis has Meryl try to blow her brains out. Tap R1 once more at this point, then swap controller ports and finish him off.
 Type = Gameshark
 Activation = EndFrame
 D00B2D58 0008
 801B8CB6 0000
 
-[Press R1 For Meryil+Health S.Wolf]
+[Press R1 For Meryl+Health S.Wolf]
 Type = Gameshark
 Activation = EndFrame
 D00B2D58 0008
 80174A50 0080
 
-[Press R1 For A Quick Battle With Hind d With this code, tap R1 and the hind D will fire at you, dodge it's fire and tap R1 again. Fight complete.]
+[Press R1 For A Quick Battle With Hind D]
+Description = Tap R1 and the Hind D will fire at you. Dodge its fire and tap R1 again. Fight complete.
 Type = Gameshark
 Activation = EndFrame
 D00B2D58 0008
 80154AB4 0000
 
-[Press R1 For Quick S.Wolf Snow Fight With this code, tap R1 then run up to her]
+[Press R1 For Quick S.Wolf Snow Fight]
+Description = Tap R1 then run up to her.
 Type = Gameshark
 Activation = EndFrame
 D00B2D58 0008
@@ -119,7 +122,7 @@ Activation = EndFrame
 D00AC240 0103
 3011C804 0003
 
-[Have All Vr Training Stages + Tech Demo]
+[Have All VR Training Stages + Tech Demo]
 Type = Gameshark
 Activation = EndFrame
 300B499B 0020
@@ -330,7 +333,8 @@ Activation = EndFrame
 D00B2D58 0004
 800B7592 0002
 
-[Play In First Person Viewmode activate this code press L1+L2+R1+R2 and after that the triangle-button. To deactivate simply press triangle again.]
+[Play In First Person Viewmode]
+Description = To activate this code press L1+L2+R1+R2 and after that the Triangle button. To deactivate simply press Triangle again.
 Type = Gameshark
 Activation = EndFrame
 D00AE0C8 001F
@@ -379,7 +383,6 @@ Activation = EndFrame
 80011082 03E0
 80011084 0004
 80011086 A4A2
-;#### PATCHES LISTED BELOW ####
 
 [FPS unlocker]
 Type = Gameshark

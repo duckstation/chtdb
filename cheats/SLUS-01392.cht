@@ -20,7 +20,8 @@ Type = Gameshark
 Activation = EndFrame
 8008087E 0000
 
-[Infinite Time For Evolution hold R2 button in evolution time or on all game time and make one air combination for a stage]
+[Infinite Time For Evolution]
+Description = Hold R2 in evolution time or on all game time and make one air combination for a stage.
 Type = Gameshark
 Activation = EndFrame
 D008538A 0002

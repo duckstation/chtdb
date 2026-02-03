@@ -60,7 +60,7 @@ Option = Light?(Can shoot force projectile):0x000A
 Option = Bright Green w/Dark Green Arm Electricity:0x000B
 
 [Gate Walking]
-Description = L1+L2=On R1+R2=Off
+Description = Press L1+L2 to turn on, R1+R2 to turn off
 Type = Gameshark
 Activation = EndFrame
 D00D1058 0500

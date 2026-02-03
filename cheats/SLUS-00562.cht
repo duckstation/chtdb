@@ -1,4 +1,4 @@
-; CHTDB: ; [ Star Wars - Masters of TerÃ¤s KÃ¤si (USA) (1997) (LucasArts Entertainment Company) {SLUS-00562} <swterask> ]
+; CHTDB: ; [ Star Wars - Masters of Teräs Käsi (USA) (1997) (LucasArts Entertainment Company) {SLUS-00562} <swterask> ]
 
 [P1 Infinite Energy]
 Type = Gameshark
@@ -80,7 +80,8 @@ Type = Gameshark
 Activation = EndFrame
 800AC290 0000
 
-[Have All Hidden Characters .With this code, enable the characters then turn off the code, save them to memory card]
+[Have All Hidden Characters]
+Description = With this code, enable the characters then turn off the code, save them to memory card.
 Type = Gameshark
 Activation = EndFrame
 800BEF5E 00FF
