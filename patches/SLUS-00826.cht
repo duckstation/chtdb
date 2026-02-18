@@ -109,16 +109,60 @@ Author = Hypercycle
 
 
 
-[Increase Track Detail]
+[(8 MB RAM) GFX + FPS Tweaks]
 Type = Gameshark
 Activation = EndFrame
-Description = Force a higher level of detail for track chunks.
+Description = Force a higher level of detail for track chunks and Split-Screen mode, increase the LOD distance and the geometry buffer for cars, and limit the framerate in the menu during a 600% CPU overclock.
 Author = Hypercycle
-OverrideCPUOverclock = 400
-3011020E 00000006
-30110212 00000002
-301114D2 00000004
-301102AE 00000002
+OverrideCPUOverclock = 600
+Enable8MBRAM = True
+# Use the additional RAM space for Platform memory
+300DCEB4 21
+300DCEBC 71
+# Increase the OTSize for Player 2 & 1
+800B3DB4 1388
+800B3E24 1388
+# Increase ChunkFarZClipSq for Player 1
+80110204 0000
+80110206 000D
+# Increase PolyFarZClipSq for Player 1
+80110208 0000
+8011020A 0010
+# Increase LowDetailZClipSq for Player 1
+8011020C 0000
+8011020E 00FF
+# Increase LineFarZClipSq for Player 1
+80110210 0000
+80110212 00FF
+# Increase ChunkFarZClipSq for Player 2
+801102A0 0000
+801102A2 000D
+# Increase PolyFarZClipSq for Player 2
+801102A4 0000
+801102A6 0010
+# Increase LowDetailZClipSq for Player 2
+801102A8 0000
+801102AA 00FF
+# Increase LineFarZClipSq for Player 2
+801102AC 0000
+801102AE 00FF
+# Increase AllocatePrimitivesBuffer for Split-Screen mode
+300BEC90 04
+# Increase AllocatePrimitivesBuffer for One Player mode
+300BEC9C 04
+# Increase the medium LOD distance for car models
+800B04D4 00FF
+800B04D8 00FF
+# Load the full track chunk instances for Split-Screen mode
+3008BF8C 00
+# Display the track halo and additional light effects in Split-Screen mode
+3007ED10 00
+# Limit VSync in the menus
+800BF13C 0003
+800BF13E 2404
+# Limit VSync in the Pause menu
+800DDBD0 0003
+800DDBD2 2404
 
 
 
@@ -128,29 +172,29 @@ Activation = EndFrame
 Description = Scale all menus to the screen center for a 16:9 aspect ratio. Set the Crop feature to Overscan before enabling this patch.
 Author = Hypercycle
 DisableWidescreenRendering = True
-# 0x80010082 checks for FrontEnd overlay availability.
+# 0x80052EF6 checks for FrontEnd overlay availability (gHelpShapes).
 # Adjust SetDefDispEnv: Display on W, and Screen on X and W.
-C0010082 00008001
+D1052EF6 00000000
 80120718 00000280
+D1052EF6 00000000
 8012071C 00000040
+D1052EF6 00000000
 80120720 000000CC
+D1052EF6 00000000
 80120730 00000280
+D1052EF6 00000000
 80120734 00000040
+D1052EF6 00000000
 80120738 000000CC
-00000000 FFFF
 # In-race: force the original set of values.
-D1010082 00008001
+C0052EF6 00000000
 80120718 00000140
-D1010082 00008001
 8012071C 00000000
-D1010082 00008001
 80120720 00000000
-D1010082 00008001
 80120730 00000140
-D1010082 00008001
 80120734 00000000
-D1010082 00008001
 80120738 00000000
+00000000 FFFF
 
 
 
@@ -159,7 +203,6 @@ Type = Gameshark
 Activation = EndFrame
 Description = Widescreen patch for in-game render (16:10). Flares, smoke, and sun effects are not scaled.
 Author = Hypercycle
-OverrideCPUOverclock = 400
 DisableWidescreenRendering = True
 OverrideAspectRatio = 16:10
 # X axis value, tweak it for custom aspect ratios.
@@ -190,7 +233,6 @@ Type = Gameshark
 Activation = EndFrame
 Description = Widescreen patch for in-game render (16:9). Flares, smoke, and sun effects are not scaled.
 Author = Hypercycle
-OverrideCPUOverclock = 400
 DisableWidescreenRendering = True
 OverrideAspectRatio = 16:9
 # X axis value, tweak it for custom aspect ratios.
@@ -221,7 +263,6 @@ Type = Gameshark
 Activation = EndFrame
 Description = Widescreen patch for in-game render (19:9). Flares, smoke, and sun effects are not scaled.
 Author = Hypercycle
-OverrideCPUOverclock = 400
 DisableWidescreenRendering = True
 OverrideAspectRatio = 19:9
 # X axis value, tweak it for custom aspect ratios.
@@ -252,7 +293,6 @@ Type = Gameshark
 Activation = EndFrame
 Description = Widescreen patch for in-game render (21:9). Flares, smoke, and sun effects are not scaled.
 Author = Hypercycle
-OverrideCPUOverclock = 400
 DisableWidescreenRendering = True
 OverrideAspectRatio = 21:9
 # X axis value, tweak it for custom aspect ratios.
@@ -283,7 +323,6 @@ Type = Gameshark
 Activation = EndFrame
 Description = Widescreen patch for in-game render (32:9). Flares, smoke, and sun effects are not scaled.
 Author = Hypercycle
-OverrideCPUOverclock = 400
 DisableWidescreenRendering = True
 OverrideAspectRatio = 32:9
 # X axis value, tweak it for custom aspect ratios.
