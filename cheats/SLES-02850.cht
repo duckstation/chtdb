@@ -22,8 +22,11 @@ D00A1238 0000
 Type = Gameshark
 Activation = EndFrame
 300A126C 0008
-Option = Michael Jackson:0xSecret Character\Michael Jackson
-301F13E8 000C
+
+[Select Character]
+Type = Gameshark
+Activation = EndFrame
+Option = Michael Jackson:0x000C
 Option = G.C. Thunder:0x000D
 Option = Shaquille O'Neal:0x000E
 Option = Rocket Samchav:0x000F

@@ -141,12 +141,6 @@ Activation = EndFrame
 800D2A78 0000
 
 [Walk Through Walls]
-Type = Gameshark
-Activation = EndFrame
-801A8190 762E
-801A8198 762E
-
-[Walk Through Walls]
 Description = When L3 Is Pressed - In Any Direction
 Type = Gameshark
 Activation = EndFrame
@@ -182,6 +176,12 @@ C00D1080 100A
 801A8190 762E
 801A8198 762E
 00000000 FFFF
+
+[Walk Through Walls (Always On)]
+Type = Gameshark
+Activation = EndFrame
+801A8190 762E
+801A8198 762E
 
 [In-Game Cheats\Have All Abilities (Including Shift Anywhere)]
 Type = Gameshark

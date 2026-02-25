@@ -10,11 +10,12 @@ Type = Gameshark
 Activation = EndFrame
 801EFC18 0900
 
-[All Omake Options]
-Type = Gameshark
-Activation = EndFrame
-B00E0002 0000
-801F5B08 FFFF
+# Disabled due to invalid opcodes
+#[All Omake Options]
+#Type = Gameshark
+#Activation = EndFrame
+#B00E0002 0000
+#801F5B08 FFFF
 
 [P2 No Energy]
 Type = Gameshark

@@ -90,13 +90,14 @@ C00C7DBA FFF6
 300BF206 00A0
 00000000 FFFF
 
-[Last Boss before you use teleportation in the inn of Cornelia Use since the beginning twice inn]
-Type = Gameshark
-Activation = EndFrame
-700BF1FE 003B
-800E6A1A 2404
-700BF1FE 003B
-800E6A18 0027
+# Disabled due to invalid opcodes
+#[Last Boss before you use teleportation in the inn of Cornelia Use since the beginning twice inn]
+#Type = Gameshark
+#Activation = EndFrame
+#700BF1FE 003B
+#800E6A1A 2404
+#700BF1FE 003B
+#800E6A18 0027
 
 [Not increase time of 15 puzzle]
 Type = Gameshark

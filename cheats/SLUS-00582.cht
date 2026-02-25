@@ -11,8 +11,9 @@ Activation = EndFrame
 50000C02 0000
 800CC05C 0009
 
-[Infinite Credits]
-Type = Gameshark
-Activation = EndFrame
-83F33FF9 0009
+# Disabled due to invalid opcode
+#[Infinite Credits]
+#Type = Gameshark
+#Activation = EndFrame
+#83F33FF9 0009
 

@@ -12,13 +12,15 @@ Activation = EndFrame
 50002002 0000
 8004025C FFFF
 
-[Infinite Health]
-Type = Gameshark
-Activation = EndFrame
-83F72423 0007
+# Disabled due to invalid opcodes
+#[Infinite Health]
+#Type = Gameshark
+#Activation = EndFrame
+#83F72423 0007
 
-[Infinite Ammo And Weapons]
-Type = Gameshark
-Activation = EndFrame
-83F70E7F 0007
+# Disabled due to invalid opcode
+#[Infinite Ammo And Weapons]
+#Type = Gameshark
+#Activation = EndFrame
+#83F70E7F 0007
 

@@ -5,21 +5,23 @@ Type = Gameshark
 Activation = EndFrame
 90088544 0098967F
 
-[All Character Infinite HP]
-Type = Gameshark
-Activation = EndFrame
-B00700C4 0000
-80081DFC 03E7
-B00700C4 0000
-80081DFE 03E7
+# Disabled due to invalid opcodes
+#[All Character Infinite HP]
+#Type = Gameshark
+#Activation = EndFrame
+#B00700C4 0000
+#80081DFC 03E7
+#B00700C4 0000
+#80081DFE 03E7
 
-[All Character Infinite MP]
-Type = Gameshark
-Activation = EndFrame
-B00700C4 0000
-80081E00 03E7
-B00700C4 0000
-80081E02 03E7
+# Disabled due to invalid opcodes
+#[All Character Infinite MP]
+#Type = Gameshark
+#Activation = EndFrame
+#B00700C4 0000
+#80081E00 03E7
+#B00700C4 0000
+#80081E02 03E7
 
 [HP / 1 person in combat]
 Type = Gameshark

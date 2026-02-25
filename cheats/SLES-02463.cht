@@ -31,11 +31,12 @@ D00411B8 FFFF
 D00411B8 FFFF
 800411BE 0000
 
-[Ayame Alle Gegenstände]
-Type = Gameshark
-Activation = EndFrame
-30010037 006F
-50000A02 0000
+# Disabled due to invalid slide
+#[Ayame Alle Gegenstände]
+#Type = Gameshark
+#Activation = EndFrame
+#30010037 006F
+#50000A02 0000
 
 [Ayame Alles perfekt]
 Type = Gameshark

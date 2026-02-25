@@ -1,14 +1,16 @@
 ; CHTDB: ; [ Defcon 5 - Peace Has a Price (USA) (1995) (Data East USA) {SLUS-00009} <defcon5> ]
 
-[Infinite Health]
-Type = Gameshark
-Activation = EndFrame
-83F783CF 0064
+# Disabled due to invalid opcode
+#[Infinite Health]
+#Type = Gameshark
+#Activation = EndFrame
+#83F783CF 0064
 
-[Infinite Ammo]
-Type = Gameshark
-Activation = EndFrame
-83F2AC53 0074
+# Disabled due to invalid opcode
+#[Infinite Ammo]
+#Type = Gameshark
+#Activation = EndFrame
+#83F2AC53 0074
 
 [Infinite Energy In Turret 1]
 Type = Gameshark

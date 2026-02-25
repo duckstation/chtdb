@@ -17,10 +17,11 @@ Type = Gameshark
 Activation = EndFrame
 800CDA7C FFFF
 
-[All Characters Infinite SP & Morale Max Up]
-Type = Gameshark
-Activation = EndFrame
-50000A18 0000
+# Disabled due to invalid opcodes
+#[All Characters Infinite SP & Morale Max Up]
+#Type = Gameshark
+#Activation = EndFrame
+#50000A18 0000
 
 [Unlock character & album mode]
 Type = Gameshark
