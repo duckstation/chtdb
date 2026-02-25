@@ -1,0 +1,89 @@
+name: Validate Pull Requests
+
+on:
+  push:
+    branches: [master]
+  pull_request:
+    branches: [master]
+
+jobs:
+  validate:
+    name: Validate changed files
+    runs-on: ubuntu-slim
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Get changed files
+        id: changed
+        run: |
+          if [ "${{ github.event_name }}" = "pull_request" ]; then
+            BASE=${{ github.event.pull_request.base.sha }}
+            HEAD=${{ github.event.pull_request.head.sha }}
+          else
+            BASE=${{ github.event.before }}
+            HEAD=${{ github.sha }}
+          fi
+
+          CHANGED=$(git diff --name-only --diff-filter=ACMR "$BASE" "$HEAD")
+          echo "files<<EOF" >> "$GITHUB_OUTPUT"
+          echo "$CHANGED" >> "$GITHUB_OUTPUT"
+          echo "EOF" >> "$GITHUB_OUTPUT"
+
+      - name: Check file locations
+        run: |
+          INVALID=""
+          while IFS= read -r file; do
+            [ -z "$file" ] && continue
+            [[ "$file" != *.cht ]] && continue
+            if [[ "$file" != cheats/* && "$file" != patches/* ]]; then
+              INVALID+="  $file"$'\n'
+            fi
+          done <<< "${{ steps.changed.outputs.files }}"
+
+          if [ -n "$INVALID" ]; then
+            echo "::error::CHT files must be placed in the cheats/ or patches/ directory:"
+            echo "$INVALID"
+            exit 1
+          fi
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.14"
+
+      - name: Validate CHT files
+        run: |
+          CHT_FILES=""
+          while IFS= read -r file; do
+            [ -z "$file" ] && continue
+            if [[ "$file" == *.cht ]]; then
+              CHT_FILES+=" $file"
+            fi
+          done <<< "${{ steps.changed.outputs.files }}"
+
+          if [ -n "$CHT_FILES" ]; then
+            echo "Validating:$CHT_FILES"
+            python validate_file.py $CHT_FILES --warnings-as-errors
+          else
+            echo "No .cht files to validate."
+          fi
+
+      - name: Check file extensions
+        run: |
+          INVALID=""
+          while IFS= read -r file; do
+            [ -z "$file" ] && continue
+            if [[ "$file" != *.cht ]]; then
+              INVALID+="  $file"$'\n'
+            fi
+          done <<< "${{ steps.changed.outputs.files }}"
+
+          if [ -n "$INVALID" ]; then
+            echo "::error::Only .cht files may be added. The following files are not allowed:"
+            echo "$INVALID"
+            exit 1
+          fi
