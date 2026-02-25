@@ -25,20 +25,23 @@ Type = Gameshark
 Activation = EndFrame
 8001DE34 03E7
 
-[Infinite Magic In Battle]
-Type = Gameshark
-Activation = EndFrame
-83FE27C7 03E7
+# Disabled due to invalid opcodes
+#[Infinite Magic In Battle]
+#Type = Gameshark
+#Activation = EndFrame
+#83FE27C7 03E7
 
-[Infinite Attack Points In Battle]
-Type = Gameshark
-Activation = EndFrame
-83FE27CB 03E7
+# Disabled due to invalid opcodes
+#[Infinite Attack Points In Battle]
+#Type = Gameshark
+#Activation = EndFrame
+#83FE27CB 03E7
 
-[Infinite LP In Battle]
-Type = Gameshark
-Activation = EndFrame
-83FE27CF 0063
+# Disabled due to invalid opcodes
+#[Infinite LP In Battle]
+#Type = Gameshark
+#Activation = EndFrame
+#83FE27CF 0063
 
 [Infinite Credits]
 Type = Gameshark

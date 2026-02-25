@@ -32,11 +32,12 @@ Type = Gameshark
 Activation = EndFrame
 90046234 00001820
 
-[Enable (LEVEL SELECT) special options]
-Type = Gameshark
-Activation = EndFrame
-B0210001 0000
-300ADEA2 0001
+# Disabled due to invalid opcodes
+#[Enable (LEVEL SELECT) special options]
+#Type = Gameshark
+#Activation = EndFrame
+#B0210001 0000
+#300ADEA2 0001
 
 [All bonus ,All images,costumes, animation of all, GALLRY option, all modes]
 Type = Gameshark

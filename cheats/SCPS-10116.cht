@@ -118,12 +118,6 @@ Activation = EndFrame
 801C9DE8 FFFF
 301C9F45 0001
 
-[Simulation Mode Codes\Any Car Can Play Any Circuit]
-Type = Gameshark
-Activation = EndFrame
-D00148E0 000C
-800148E2 1000
-
 [L3 to toggle Mirror (tap) and HUD (hold) (NTSC-J 1.1)]
 Type = Gameshark
 Activation = EndFrame

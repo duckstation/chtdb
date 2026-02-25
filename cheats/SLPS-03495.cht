@@ -15,9 +15,10 @@ Type = Gameshark
 Activation = EndFrame
 80193274 03E7
 
-[Unlock all gallery]
-Type = Gameshark
-Activation = EndFrame
-B0200002 0000
-80193220 03E7
+# Disabled due to invalid opcode
+#[Unlock all gallery]
+#Type = Gameshark
+#Activation = EndFrame
+#B0200002 0000
+#80193220 03E7
 

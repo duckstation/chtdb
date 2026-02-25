@@ -17737,7 +17737,13 @@ Description = choose the ATTACK of your digimon. select THIS option OR Max Attac
 Type = Gameshark
 Activation = EndFrame
 8005E7D8 0???
-OptionRange = 0:999
+
+# Disabled due to missing instructions
+#[3rd Digimon\DEFENSE modifier]
+#Description = choose the DEFENSE of your digimon. select THIS option OR Max Defense since the values are different and wont work.
+#Type = Gameshark
+#Activation = EndFrame
+#OptionRange = 0:999
 
 [3rd Digimon\SPEED modifier]
 Description = choose the SPEED of your digimon. select THIS option OR Max Speed since the values are different and wont work.

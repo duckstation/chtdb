@@ -1,26 +1,30 @@
 ; CHTDB: ; [ Dexter's Laboratory - Mandark's Lab? (USA) (2002) (BAM! Entertainment) {SLUS-01421} <dextlab> ]
 
-[Maximum Spray]
-Type = Gameshark
-Activation = EndFrame
-83ECFF9B FFFF
+# Disabled due to invalid opcode
+#[Maximum Spray]
+#Type = Gameshark
+#Activation = EndFrame
+#83ECFF9B FFFF
 
-[Maximum Spray (PRESS R1 AND R2)]
-Type = Gameshark
-Activation = EndFrame
-700927C6 F5FF
-83ECFF9B FFFF
+# Disabled due to invalid opcode
+#[Maximum Spray (PRESS R1 AND R2)]
+#Type = Gameshark
+#Activation = EndFrame
+#700927C6 F5FF
+#83ECFF9B FFFF
 
-[Maximum Health]
-Type = Gameshark
-Activation = EndFrame
-83ECFF7B FFFF
+# Disabled due to invalid opcode
+#[Maximum Health]
+#Type = Gameshark
+#Activation = EndFrame
+#83ECFF7B FFFF
 
-[Maximum Health (PRESS L1 AND L2)]
-Type = Gameshark
-Activation = EndFrame
-700927C6 FAFF
-83ECFF7B FFFF
+# Disabled due to invalid opcode
+#[Maximum Health (PRESS L1 AND L2)]
+#Type = Gameshark
+#Activation = EndFrame
+#700927C6 FAFF
+#83ECFF7B FFFF
 
 [Infinite Lives Atom Blaster Game]
 Type = Gameshark

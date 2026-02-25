@@ -26,11 +26,12 @@ Type = Gameshark
 Activation = EndFrame
 A60665B8 00002821
 
-[Armes + munitions]
-Type = Gameshark
-Activation = EndFrame
-B0053EB2 0000
-800BEDAE 0008
+# Disabled due to invalid opcodes
+#[Armes + munitions]
+#Type = Gameshark
+#Activation = EndFrame
+#B0053EB2 0000
+#800BEDAE 0008
 
 [Tir à répétition]
 Type = Gameshark

@@ -1,9 +1,10 @@
 ; CHTDB: ; [ The Powerpuff Girls - Chemical X-Traction (USA) (2001) (BAM! Entertainment) {SLUS-01423} <powerpuf> ]
 
-[P1 Infinite Health]
-Type = Gameshark
-Activation = EndFrame
-83F67047 0080
+# Disabled due to invalid opcode
+#[P1 Infinite Health]
+#Type = Gameshark
+#Activation = EndFrame
+#83F67047 0080
 
 [Infinite Time]
 Type = Gameshark

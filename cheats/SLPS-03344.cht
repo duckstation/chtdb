@@ -62,11 +62,12 @@ Activation = EndFrame
 50008014 0000
 80109D94 03E7
 
-[Unlock All Gallery (Alternate)]
-Type = Gameshark
-Activation = EndFrame
-B0800014 0000
-80109D94 03E7
+# Disabled due to invalid opcodes
+#[Unlock All Gallery (Alternate)]
+#Type = Gameshark
+#Activation = EndFrame
+#B0800014 0000
+#80109D94 03E7
 
 [Card fully open]
 Type = Gameshark

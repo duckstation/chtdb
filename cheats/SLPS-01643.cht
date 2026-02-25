@@ -32,12 +32,13 @@ Type = Gameshark
 Activation = EndFrame
 90095BC8 3B9AC9FF
 
-[Get All 102 Robot In Simulation Mode]
-Type = Gameshark
-Activation = EndFrame
-3009F27C 003F
-B0030004 0000
-9009F270 FFFF
+# Disabled due to invalid opcodes
+#[Get All 102 Robot In Simulation Mode]
+#Type = Gameshark
+#Activation = EndFrame
+#3009F27C 003F
+#B0030004 0000
+#9009F270 FFFF
 
 [En-S1 9999]
 Type = Gameshark
