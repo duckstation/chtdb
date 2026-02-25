@@ -13,6 +13,7 @@ Usage:
 from __future__ import annotations
 
 import argparse
+import re
 import sys
 from dataclasses import dataclass, field
 from pathlib import Path
@@ -154,6 +155,14 @@ VALID_0x52_SUBTYPES = frozenset({
 
 _HEX_SET = frozenset("0123456789abcdefABCDEF")
 
+# Valid .cht filename pattern:
+#   ALNUM.cht              – e.g. SLUS-01193.cht
+#   ALNUM_HEXDIGITS.cht    – e.g. SLUS-01193_0123456789ABCDEF.cht
+# where ALNUM is one or more alphanumeric segments separated by hyphens,
+# and HEXDIGITS is exactly 16 uppercase hexadecimal digits.
+FILENAME_RE = re.compile(
+    r'^[A-Za-z0-9]+(?:-[A-Za-z0-9]+)*(?:_[0-9A-F]{16})?\.cht$'
+)
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # Validation Result
@@ -668,15 +677,31 @@ def validate_file(filepath: str) -> Result:
         r.error(0, f"File not found: {filepath}")
         return r
 
+    # Validate filename format
+    result = Result()
+    fname = p.name
+    if not FILENAME_RE.match(fname):
+        stem = p.stem
+        if not all(c.isalnum() or c in '-_' for c in stem):
+            result.error(0,
+                         f"Filename '{fname}' contains invalid characters "
+                         f"(only letters, numbers, hyphens, and "
+                         f"underscores allowed)")
+        else:
+            result.error(0,
+                         f"Filename '{fname}' does not match required format: "
+                         f"ALNUM.cht or ALNUM_HEXDIGITS.cht "
+                         f"(HEXDIGITS = 16 uppercase hex digits)")
+
     try:
         content = p.read_text(encoding="utf-8", errors="replace")
     except OSError as exc:
-        r = Result()
-        r.error(0, f"Cannot read file: {exc}")
-        return r
+        result.error(0, f"Cannot read file: {exc}")
+        return result
 
     # Part 1: validate file structure
-    result, codes = validate_cht_structure(content)
+    struct_result, codes = validate_cht_structure(content)
+    result.merge(struct_result)
 
     # Part 2: validate Gameshark instruction bodies
     for code in codes:
