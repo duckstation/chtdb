@@ -118,7 +118,10 @@ OverrideCPUOverclock = 600
 Enable8MBRAM = True
 # Use the additional RAM space for Platform memory
 300DCEB4 21
-300DCEBC 71
+300DCEBC 61
+# Use the additional RAM space for PlatformSys memory
+300DCF78 78
+300DCF80 62
 # Increase the OTSize for Player 2 & 1
 800B3DB4 1388
 800B3E24 1388
