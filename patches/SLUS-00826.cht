@@ -17,15 +17,27 @@ Type = Gameshark
 Activation = EndFrame
 Description = German language (Audio + Text), leftover from Euro game release.
 Author = Hypercycle
-# 0x80010082 checks for FrontEnd overlay availability.
+# 0x80052EF6 checks for FrontEnd overlay availability (gHelpShapes).
 # Disable one of the forced English language assignments.
-C0010082 00008001
+D1052EF6 00000000
 3004E138 00000001
+D1052EF6 00000000
 3004E13F 00000010
+D1052EF6 00000000
 3004E146 00000082
-00000000 FFFF
 # Set the language ID.
 30115BF8 00000001
+# Show the localized Title Screen (ttl1.psh).
+D1052EF6 00000000
+800127B8 00007474
+D1052EF6 00000000
+800127BA 0000316C
+D1052EF6 00000000
+800127BC 0000702E
+D1052EF6 00000000
+800127BE 00006873
+D1052EF6 00000000
+800127C0 00000000
 
 
 
@@ -34,15 +46,27 @@ Type = Gameshark
 Activation = EndFrame
 Description = French language (Audio + Text), leftover from Euro game release.
 Author = Hypercycle
-# 0x80010082 checks for FrontEnd overlay availability.
+# 0x80052EF6 checks for FrontEnd overlay availability (gHelpShapes).
 # Disable one of the forced English language assignments.
-C0010082 00008001
+D1052EF6 00000000
 3004E138 00000002
+D1052EF6 00000000
 3004E13F 00000010
+D1052EF6 00000000
 3004E146 00000082
-00000000 FFFF
 # Set the language ID.
 30115BF8 00000002
+# Show the localized Title Screen (ttl2.psh).
+D1052EF6 00000000
+800127B8 00007474
+D1052EF6 00000000
+800127BA 0000326C
+D1052EF6 00000000
+800127BC 0000702E
+D1052EF6 00000000
+800127BE 00006873
+D1052EF6 00000000
+800127C0 00000000
 
 
 
@@ -51,15 +75,27 @@ Type = Gameshark
 Activation = EndFrame
 Description = Spanish language (Text only), leftover from Euro game release.
 Author = Hypercycle
-# 0x80010082 checks for FrontEnd overlay availability.
+# 0x80052EF6 checks for FrontEnd overlay availability (gHelpShapes).
 # Disable one of the forced English language assignments.
-C0010082 00008001
+D1052EF6 00000000
 3004E138 00000003
+D1052EF6 00000000
 3004E13F 00000010
+D1052EF6 00000000
 3004E146 00000082
-00000000 FFFF
 # Set the language ID.
 30115BF8 00000003
+# Show the localized Title Screen (ttl3.psh).
+D1052EF6 00000000
+800127B8 00007474
+D1052EF6 00000000
+800127BA 0000336C
+D1052EF6 00000000
+800127BC 0000702E
+D1052EF6 00000000
+800127BE 00006873
+D1052EF6 00000000
+800127C0 00000000
 
 
 
@@ -68,15 +104,27 @@ Type = Gameshark
 Activation = EndFrame
 Description = Italian language (Text only), leftover from Euro game release.
 Author = Hypercycle
-# 0x80010082 checks for FrontEnd overlay availability.
+# 0x80052EF6 checks for FrontEnd overlay availability (gHelpShapes).
 # Disable one of the forced English language assignments.
-C0010082 00008001
+D1052EF6 00000000
 3004E138 00000004
+D1052EF6 00000000
 3004E13F 00000010
+D1052EF6 00000000
 3004E146 00000082
-00000000 FFFF
 # Set the language ID.
 30115BF8 00000004
+# Show the localized Title Screen (ttl4.psh).
+D1052EF6 00000000
+800127B8 00007474
+D1052EF6 00000000
+800127BA 0000346C
+D1052EF6 00000000
+800127BC 0000702E
+D1052EF6 00000000
+800127BE 00006873
+D1052EF6 00000000
+800127C0 00000000
 
 
 
@@ -85,15 +133,47 @@ Type = Gameshark
 Activation = EndFrame
 Description = Swedish language (Showcase + Text only), leftover from Euro game release.
 Author = Hypercycle
-# 0x80010082 checks for FrontEnd overlay availability.
+# 0x80052EF6 checks for FrontEnd overlay availability (gHelpShapes).
 # Disable one of the forced English language assignments.
-C0010082 00008001
+D1052EF6 00000000
 3004E138 00000005
+D1052EF6 00000000
 3004E13F 00000010
+D1052EF6 00000000
 3004E146 00000082
-00000000 FFFF
 # Set the language ID.
 30115BF8 00000005
+# Show the localized Title Screen (ttl5.psh).
+D1052EF6 00000000
+800127B8 00007474
+D1052EF6 00000000
+800127BA 0000356C
+D1052EF6 00000000
+800127BC 0000702E
+D1052EF6 00000000
+800127BE 00006873
+D1052EF6 00000000
+800127C0 00000000
+
+
+
+[Australian Title Screen]
+Type = Gameshark
+Activation = EndFrame
+Description = Enable the Title Screen texture from the Australian game release.
+Author = Hypercycle
+# 0x80052EF6 checks for FrontEnd overlay availability (gHelpShapes).
+# Show the localized Title Screen (ttl0.psh).
+D1052EF6 00000000
+800127B8 00007474
+D1052EF6 00000000
+800127BA 0000306C
+D1052EF6 00000000
+800127BC 0000702E
+D1052EF6 00000000
+800127BE 00006873
+D1052EF6 00000000
+800127C0 00000000
 
 
 
