@@ -508,6 +508,13 @@ Activation = EndFrame
 D005E1C0 0020
 801FBC84 03E7
 
+[Character\Character Misc.\No Teleport Cost]
+Type = Gameshark
+Activation = EndFrame
+Description = Sets the MP cost for Teleport to 0 for all destinations.
+Author = Anna
+30103F6A A0
+
 [Character\Magic\Warlock\Drain Heart]
 Type = Gameshark
 Activation = EndFrame
