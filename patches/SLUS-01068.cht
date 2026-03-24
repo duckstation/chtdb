@@ -1,0 +1,41 @@
+# NASCAR Rumble (USA) [SLUS-01068]
+[Universal Widescreen]
+Type = Gameshark
+Activation = EndFrame
+Description = Removes geometry culling for any wide aspect ratio resolution. Widescreen Rendering must be enabled.
+Author = Steelmax
+# Bypass frustum check
+# Redirects to $0 register
+80016A82 94A0
+# Increase sub-div chunk tree res
+# Fixes stray triangles
+800634f8 0003
+
+[High Detail LOD]
+Type = Gameshark
+Activation = EndFrame
+Description = Forces the highest texture quality on far objects and cars.
+Author = Steelmax
+80013E84 0000 # Cars
+8006378C 0000 # Textures
+
+[Higher Draw Distance]
+Type = Gameshark
+Activation = EndFrame
+Description = Forces terrain geometry to load at a greater distance.
+Author = Steelmax
+8006464c 0003
+
+[Centered Camera]
+Type = Gameshark
+Activation = EndFrame
+Description = Tilts the camera upward.
+Author = Steelmax
+D00AF8C8 0000
+80016C32 AFA1
+# Reset during replay
+D00AF8C8 0001
+80016C32 AFA2
+# Reset in main menu
+D00BD53C 0001
+80016C32 AFA2
