@@ -238,3 +238,14 @@ C009D0F0 0100
 800C1EC8 0036
 00000000 FFFF
 
+[Tools\Infinite Normal  Tools]
+Description = IceLancer
+Type = Gameshark
+Activation = EndFrame
+300A1888 000A
+
+[Tools\Infinite Super Tools]
+Description = IceLancer
+Type = Gameshark
+Activation = EndFrame
+300A188C 000A
