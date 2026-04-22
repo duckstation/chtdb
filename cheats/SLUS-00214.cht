@@ -69,25 +69,15 @@ Option = 13th Racing Kid:13
 Option = White Angel:14
 301FA722 00??
 
-[Race on Special 1 course]
+[Race on Special courses]
 Type = Gameshark
 Activation = EndFrame
-301DCA88 0003
+Option = Special 1:0x03
+Option = Special 2:0x04
+Option = Extra Special 1:0x0B
+Option = Extra Special 2:0x0C
+301DCA88 00??
 
-[Race on Special 2 course]
-Type = Gameshark
-Activation = EndFrame
-301DCA88 0004
-
-[Race on Special 1 Extra course]
-Type = Gameshark
-Activation = EndFrame
-301DCA88 000B
-
-[Race on Special 2 Extra course]
-Type = Gameshark
-Activation = EndFrame
-301DCA88 000C
 ;#### PATCHES LISTED BELOW ####
 
 [40 FPS unlock (Might speed up game)]
