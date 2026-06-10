@@ -12,3 +12,9 @@ Activation = EndFrame
 8007323E 00??
 OptionRange = 0:100
 
+[Select Number of Attribute Points]
+Description = Specifies the number of attribute points available to use while creating a player or editing one you've already created.
+Type = Gameshark
+Activation = EndFrame
+800733B8 00??
+OptionRange = 0:80
