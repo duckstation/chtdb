@@ -1,0 +1,33 @@
+[Skip Legal Screens]
+Description = Skips the two legal/copyright screens to speed up boot time.
+Type = Gameshark
+Activation = EndFrame
+Author = cor094
+80012A2C 0000
+80012A2E 0000
+80012A34 0000
+80012A36 0000
+
+[Skip Acclaim/Iguana]
+Description = Skips the Acclaim and Iguana screens to speed up boot time.
+Type = Gameshark
+Activation = EndFrame
+Author = cor094
+80012A3E 0000
+
+[Fix Attribute Colors]
+Description = Fixes player attribute colors at team select screen. Makes 8-9 green, 3-7 white, and 0-2 red, just like arcade version. Also makes the question marks on hidden characters appropriately white.
+Type = Gameshark
+Activation = EndFrame
+Author = cor094
+301F2DDC 0061
+301F2DE0 0063
+301F2DE4 0063
+301F2DE8 0061
+301F2DEC 0061
+301F2DF0 0061
+301F2DF4 0061
+301F2DF8 0061
+301F2DFC 0065
+301F2E00 0065
+301F2E04 0065
