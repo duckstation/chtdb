@@ -14,6 +14,163 @@ A7071AC8 FFFF0000
 Type = Gameshark
 Activation = EndFrame
 A70719E2 A0860000
+
+[Difficulty]
+Type = Gameshark
+Activation = EndFrame
+Description = Using these codes will change the game's difficulty. Note that Very Easy and Very Hard are not typically accessible in the game - they are only accessible through these codes.
+Author = https://acecombat.wiki.gg/wiki/Ace_Combat_3:_Electrosphere/GameShark
+800BF664 000?
+Option = Very Easy:0x0
+Option = Easy:0x1
+Option = Normal:0x2
+Option = Hard:0x3
+Option = Very Hard:0x4
+
+[Missions]
+Type = Gameshark
+Activation = EndFrame
+Description = Using these codes will load the respective mission for play. Note that the "Unknown" and "Mission Code" missions are unplayable, and the "Game Show" mission is incomplete.
+Author = https://acecombat.wiki.gg/wiki/Ace_Combat_3:_Electrosphere/GameShark
+800BF65C 00??
+Option = Mission Code:0x00
+Option = Awakening:0x01
+Option = Bravado:0x02
+Option = Enter Dision:0x03
+Option = Paper Tiger:0x04
+Option = Broken Truce:0x05
+Option = Ghosts of the Past:0x06
+Option = No Clearance:0x07
+Option = Fragile Cargo:0x08
+Option = Scylla and Charybdis:0x09
+Option = Fates Intertwined:0x0A
+Option = Reaching for Stars:0x0B
+Option = One-Way Ticket:0x0C
+Option = Bug Hunt:0x0D
+Option = Pawns in the Game:0x0E
+Option = Damage Control:0x0F
+Option = Broken Wings:0x10
+Option = Sphyrna:0x11
+Option = A Canopy of Stars:0x12
+Option = Game Show:0x13
+Option = Soldier of Fortune:0x14
+Option = Megafloat:0x15
+Option = Target Acquisition:0x16
+Option = Partners:0x17
+Option = Tainted Peace:0x18
+Option = Stratosphere:0x19
+Option = Welcoming Committee:0x1A
+Option = Technology Transfer:0x1B
+Option = Claustrophobia:0x1C
+Option = Dilemma:0x1D
+Option = Betrayal:0x1E
+Option = Heart of the Serpent (Code Variant 1):0x1F
+Option = Heart of the Serpent (Code Variant 2):0x20
+Option = Casualties of War:0x21
+Option = Geopelia (Part 1):0x22
+Option = Geopelia (Part 2):0x36
+Option = The Orientation:0x23
+Option = Liquidation:0x24
+Option = Archnemesis (Code Variant 1):0x25
+Option = Archnemesis (Code Variant 2):0x39
+Option = Memory Error:0x26
+Option = Electrosphere (Part 1):0x27
+Option = Electrosphere (Part 2):0x3A
+Option = Power for Life:0x28
+Option = Guardian Angel:0x29
+Option = Zero Gravity (Normal Mission):0x2A
+Option = Zero Gravity (Invisible Floor & Normal Physics):0x38
+Option = The Prize:0x2B
+Option = Utopian Dreams:0x2C
+Option = Reality Distortion:0x2D
+Option = Counterrevolution:0x2E
+Option = Pursuit:0x2F
+Option = Self Awareness:0x30
+Option = Unknown:0x31
+Option = Resistance:0x32
+Option = Radio Silence:0x33
+Option = Revenge:0x34
+Option = Sole Survivor:0x35
+Option = Tunnel Vision:0x37
+Option = Unknown:0x3B
+
+[Aircraft]
+Type = Gameshark
+Activation = EndFrame
+Description = Using these codes will load the respective aircraft for the next mission.
+Author = https://acecombat.wiki.gg/wiki/Ace_Combat_3:_Electrosphere/GameShark
+800BF65E 00??
+Option = F/A-18I Hornet ADV:0x01
+Option = F-16XF Gyrfalcon:0x02
+Option = F-16XA Sakerfalcon:0x03
+Option = F-15S/MT Eagle+ (Normal):0x04
+Option = F-15S/MT Eagle+ (Dision):0x1F
+Option = A/F-117X NAV Hawk:0x05
+Option = F-22C Raptor II (Normal):0x06
+Option = F-22C Raptor II (Dision):0x20
+Option = F/A-32C Erne:0x07
+Option = XFA-36A Game:0x08
+Option = RF-12A2 Blackbird II:0x09
+Option = EF-2000E Typhoon II:0x0A
+Option = MiG-33 Fulcrum SS:0x0B
+Option = F/A-18U Hornet ADV:0x0C
+Option = F-16XFU Gyrfalcon:0x0D
+Option = Su-37 Super Flanker (Normal):0x10
+Option = Su-37 Super Flanker (Rena):0x21
+Option = Su-43 Berkut:0x11
+Option = R-101 Delphinus 1 (Normal):0x12
+Option = R-101 Delphinus 11 (UPEO):0x0E
+Option = R-201 Asterozoa (Normal):0x13
+Option = R-201 Asterozoa (UPEO):0x0F
+Option = R-102 Delphinus 22 (Normal):0x14
+Option = R-102 Delphinus 2 (Cynthia):0x22
+Option = R-211 Orcinus:0x15
+Option = R-103 Delphinus 3 (Unknown 1):0x16
+Option = R-103 Delphinus 3 (Unknown 2):0x1E
+Option = R-103 Delphinus 3 (Cynthia):0x23
+Option = R-311 Remora (Normal):0x17
+Option = R-311 Remora (Cynthia):0x24
+Option = R-352 Sepia:0x18
+Option = XR-900 Geopelia (Normal):0x19
+Option = XR-900 Geopelia (Prototype/Unfinished):0x00
+Option = X-49 Night Raven:0x1A
+Option = UI-4054 Aurora:0x1B
+Option = XFA-36A Game:0x1C
+Option = Su-43 Berkut:0x1D
+
+[Weapons - Guns]
+Type = Gameshark
+Activation = EndFrame
+Description = Using these codes will change the gun you use.
+Author = https://acecombat.wiki.gg/wiki/Ace_Combat_3:_Electrosphere/GameShark
+800BF678 0???
+Option = None:0x000
+Option = Vulcan:0x100
+Option = Chaingun:0x200
+Option = Cannon:0x300
+Option = Pulse Laser:0x400
+Option = Laser Cannon:0x500
+Option = Neutron Beam:0x600
+
+[Weapons - Main Weapons]
+Type = Gameshark
+Activation = EndFrame
+Description = Main weapon codes follow this format: 800BF67A xxyy. xx dictates the air-to-ground weapon, and yy dictates the air-to-air weapon. 
+Author = https://acecombat.wiki.gg/wiki/Ace_Combat_3:_Electrosphere/GameShark
+800BF67A 0???
+Option = No Weapons:0x000
+Option = Missiles:0x101
+Option = Short Range Missiles:0x202
+Option = Ground Missiles:0x300
+Option = MIRVs:0x404
+Option = Spread Bombs:0x500
+Option = Anti-Nanobite Bombs:0x600
+Option = OSL:0x707
+Option = Unguided Rockets:0x800
+Option = Unguided Bombs:0x900
+Option = Plasma Beam:0xA0A
+Option = Homing Laser:0xB0B
+
 ;All commented out - the few I tried are nosense
 ;#Infinite Time For Battle
 ;A6054332 24422402
