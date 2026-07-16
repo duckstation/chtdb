@@ -13,7 +13,7 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           fetch-depth: 0
 
@@ -37,7 +37,6 @@ jobs:
         run: |
           INVALID=""
           while IFS= read -r file; do
-            [ -z "$file" ] && continue
             [[ "$file" != *.cht ]] && continue
             if [[ "$file" != cheats/* && "$file" != patches/* ]]; then
               INVALID+="  $file"$'\n'
@@ -59,7 +58,6 @@ jobs:
         run: |
           CHT_FILES=""
           while IFS= read -r file; do
-            [ -z "$file" ] && continue
             if [[ "$file" == *.cht ]]; then
               CHT_FILES+=" $file"
             fi
