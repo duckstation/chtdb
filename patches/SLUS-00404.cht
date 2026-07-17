@@ -1,0 +1,32 @@
+# Ace Combat 2 (USA) [SLUS-00404]
+[Persistent Camera]
+Type = Gameshark
+Activation = EndFrame
+Description = The last user-selected camera mode now persists across missions.
+Author = Steelmax
+
+# sp = Scratchpad, unoccupied memory
+# m1 = Mission start flag
+# m2 = Mission in progress flag
+# cm = Camera mode: 0x01 - 1st person, 0x02 - 3rd person, 0x00 - inactive
+
+D00B820C 0002 # m1
+D00B8850 0001 # sp
+300B868C 0001 # cm
+
+D00B820C 0002 # m1
+D00B8850 0002 # sp
+300B868C 0002 # cm
+
+# Save user pref
+D00B820C 0001 # m2
+D00B868C 0001 # cm
+300B8850 0001 # sp
+
+D00B820C 0001 # m2
+D00B868C 0002 # cm
+300B8850 0002 # sp
+
+# Demo/attract fix
+D00B7D14 0005
+D00B868C 0000 # cm
