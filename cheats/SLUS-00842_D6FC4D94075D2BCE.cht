@@ -1,0 +1,183 @@
+; CHTDB: ; [ Driver - You Are the Wheelman (USA, v1.1) (1999) (GT Interactive Software) {SLUS-00842} <drivera> ]
+
+[Car Park Test\No Damage]
+Description = Only use this cheat in Park Test Mode. Save, then turn them off.
+Type = Gameshark
+Activation = EndFrame
+801E35B8 0000
+
+[Car Park Test\Infinite Time]
+Description = Only use this cheat in Park Test Mode. Save, then turn them off.
+Type = Gameshark
+Activation = EndFrame
+801E4278 0000
+
+[Car Park Test\Have Burnout Complete]
+Description = Only use this cheat in Park Test Mode. Save, then turn them off.
+Type = Gameshark
+Activation = EndFrame
+301E35A0 003C
+
+[Car Park Test\Have Handbrake Complete]
+Description = Only use this cheat in Park Test Mode. Save, then turn them off.
+Type = Gameshark
+Activation = EndFrame
+301E35A1 003C
+
+[Car Park Test\Have Slalom Complete]
+Description = Only use this cheat in Park Test Mode. Save, then turn them off.
+Type = Gameshark
+Activation = EndFrame
+301E35A2 003C
+
+[Car Park Test\Have 180 Degree Complete]
+Description = Only use this cheat in Park Test Mode. Save, then turn them off.
+Type = Gameshark
+Activation = EndFrame
+301E35A3 003C
+
+[Car Park Test\Have 360 Degree Complete]
+Description = Only use this cheat in Park Test Mode. Save, then turn them off.
+Type = Gameshark
+Activation = EndFrame
+301E35A4 003C
+
+[Car Park Test\Have Reverse 180 Degree Complete]
+Description = Only use this cheat in Park Test Mode. Save, then turn them off.
+Type = Gameshark
+Activation = EndFrame
+301E35A5 003C
+
+[Car Park Test\Have Speed Complete]
+Description = Only use this cheat in Park Test Mode. Save, then turn them off.
+Type = Gameshark
+Activation = EndFrame
+301E35A6 003C
+
+[Car Park Test\Have Brake Test Complete]
+Description = Only use this cheat in Park Test Mode. Save, then turn them off.
+Type = Gameshark
+Activation = EndFrame
+301E35A7 003C
+
+[Car Park Test\Have Lap Complete]
+Description = Only use this cheat in Park Test Mode. Save, then turn them off.
+Type = Gameshark
+Activation = EndFrame
+301E35A8 003C
+
+[Regular Game\No Damage]
+Type = Gameshark
+Activation = EndFrame
+8009B220 0000
+
+[Regular Game\Felony Bar Is Empty]
+Type = Gameshark
+Activation = EndFrame
+800973C8 0000
+
+[Regular Game\Stop Timer]
+Type = Gameshark
+Activation = EndFrame
+800C6E62 D600
+800C71A4 0F28
+
+[Regular Game\Enemy Cars Are Dead]
+Type = Gameshark
+Activation = EndFrame
+8009D5B4 5050
+
+[Regular Game\Nitro Boost]
+Description = Hold down L1 + X for the Nitro Boost.
+Type = Gameshark
+Activation = EndFrame
+D00970F4 0044
+8009B194 FFFF
+
+[Regular Game\Scare Meter Maxed]
+Type = Gameshark
+Activation = EndFrame
+800C71E0 06A4
+
+[Regular Game\Bomb Never Blows Up]
+Type = Gameshark
+Activation = EndFrame
+80097768 0000
+
+[Regular Game\Flip Mode]
+Description = Press L1 + R1 to flip your car in the air till you land back on all four wheels.
+Type = Gameshark
+Activation = EndFrame
+D00970F4 000C
+8009B0D6 012C
+
+[Misc.\Have All Flags]
+Type = Gameshark
+Activation = EndFrame
+800C6C94 0064
+
+[Misc.\Enable All Tracks]
+Type = Gameshark
+Activation = EndFrame
+800964A0 0004
+
+[Misc.\Enable View Credits Cheat]
+Type = Gameshark
+Activation = EndFrame
+800863DC FFFE
+
+[Misc.\Dirt Track - Start On Last Lap]
+Type = Gameshark
+Activation = EndFrame
+A60C6CA8 00000002
+
+[Misc.\Cross Town Checkpoint - Only Need 1 Checkpoint]
+Type = Gameshark
+Activation = EndFrame
+A60C6C94 00000004
+
+[Misc.\Invincibility Cheat On]
+Type = Gameshark
+Activation = EndFrame
+800964DC 0001
+
+[Misc.\Immunity Cheat On]
+Type = Gameshark
+Activation = EndFrame
+800964E0 0001
+
+[Misc.\Rear Wheel Cheat On]
+Type = Gameshark
+Activation = EndFrame
+8009D8DC 0001
+
+[Misc.\Mini Cheat On]
+Type = Gameshark
+Activation = EndFrame
+8009D8E0 0001
+
+[Misc.\Stilts Cheat On]
+Type = Gameshark
+Activation = EndFrame
+8009D8E4 0001
+
+[Misc.\Low Gravity Mode On]
+Type = Gameshark
+Activation = EndFrame
+8009D5A8 0001
+
+[Misc.\Upside Down Cheat On]
+Type = Gameshark
+Activation = EndFrame
+8009D8EC 0001
+
+[Misc.\Skeleton Mode/Opposite Steer On]
+Type = Gameshark
+Activation = EndFrame
+8009D8F0 0001
+
+[Misc.\Low-Rider Mode]
+Type = Gameshark
+Activation = EndFrame
+8009B0EA FFFF
+
