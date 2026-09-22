@@ -17,6 +17,30 @@ Type = Gameshark
 Activation = EndFrame
 90048554 05F5E0FF
 
+[EXP Multiplier x2]
+Type = Gameshark
+Activation = EndFrame
+Description = Multiplies normal post-battle Digimon EXP by 2.
+Author = Bry-Dev
+D00858D4 2021
+900858D0 00108040
+
+[EXP Multiplier x4]
+Type = Gameshark
+Activation = EndFrame
+Description = Multiplies normal post-battle Digimon EXP by 4.
+Author = Bry-Dev
+D00858D4 2021
+900858D0 00108080
+
+[EXP Multiplier x8]
+Type = Gameshark
+Activation = EndFrame
+Description = Multiplies normal post-battle Digimon EXP by 8.
+Author = Bry-Dev
+D00858D4 2021
+900858D0 001080C0
+
 [Kotemon\Max Health]
 Type = Gameshark
 Activation = EndFrame
