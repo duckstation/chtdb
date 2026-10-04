@@ -14,6 +14,7 @@ Activation = EndFrame
 Type = Gameshark
 Activation = EndFrame
 800CBC38 ????
+Option = Pistola %NOTE:0x0502
 Option = Magnum %NOTE:0x0505
 Option = Magnum Modificata %NOTE:0x0506
 Option = Fucile %NOTE:0x0507
@@ -32,7 +33,7 @@ Type = Gameshark
 Activation = EndFrame
 800CBBE8 071E
 
-[Clare\Tutte Le Armi Hanno Munizioni Infinite]
+[Claire\Tutte Le Armi Hanno Muniziioni Infinite]
 Type = Gameshark
 Activation = EndFrame
 800CBBE0 ????
@@ -45,4 +46,3 @@ Option = Taser:0xFF0E
 Option = Mitra:0xFF0F
 Option = Lanciarazzi:0xFF11
 Option = Rotellone:0xFF12
-
