@@ -21,6 +21,7 @@ Option = Fucile Modificato %NOTE:0x0508
 Option = Lanciafiamme %NOTE:0x6410
 Option = Lanciarazzi %NOTE:0x0511
 Option = Rotellone %NOTE:0x0512
+Option = Pistola:0x6302
 
 [Claire\Energia infinita]
 Type = Gameshark
@@ -32,7 +33,7 @@ Type = Gameshark
 Activation = EndFrame
 800CBBE8 071E
 
-[Clare\Tutte Le Armi Hanno Munizioni Infinite]
+[Claire\Tutte Le Armi Hanno Munizioni Infinite]
 Type = Gameshark
 Activation = EndFrame
 800CBBE0 ????
