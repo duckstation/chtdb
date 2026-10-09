@@ -155,3 +155,12 @@ Type = Gameshark
 Activation = EndFrame
 A706E458 10000E00
 
+[Enable Specular Reflections In Race by Whitehole]
+Description = Apply before the race
+Type = Gameshark
+Activation = EndFrame
+Author = Whitehole
+A00FF860 0001
+9009E288 000A
+D00F3BD6 004E
+80116AC4 000A
