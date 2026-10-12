@@ -1,0 +1,8 @@
+# Time Crisis: Project Titan (USA) SLUS-01336
+
+[No Gun Flash]
+Type = Gameshark
+Activation = EndFrame
+Author = Bratwurstmensch
+Description = Removes the white screen flashes when firing without causing stutter.
+8001C02A 1000
