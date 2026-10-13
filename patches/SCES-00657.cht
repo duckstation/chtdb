@@ -7,3 +7,10 @@ Description = Runs NTSC video mode.
 A70B51A4 00010000
 A70C82DA 00180000
 A70E934A 00180000
+
+[No Gun Flash]
+Type = Gameshark
+Activation = EndFrame
+Author = Bratwurstmensch
+Description = Removes the white screen flashes when firing.
+80013D9A 1000
