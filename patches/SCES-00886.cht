@@ -1,0 +1,8 @@
+# Point Blank (Europe, Rev 1) SCES-00886
+
+[No Gun Flash]
+Type = Gameshark
+Activation = EndFrame
+Author = Bratwurstmensch
+Description = Removes the white screen flashes when firing.
+80023B36 1000
