@@ -1,0 +1,11 @@
+# Ghoul Panic (Europe) SCES-02543
+
+[No Gun Flash]
+Type = Gameshark
+Activation = EndFrame
+Author = Bratwurstmensch
+Description = Removes the white screen flashes when firing.
+8018B844 0000
+8018B846 0000
+8018B870 0000
+8018B872 0000
