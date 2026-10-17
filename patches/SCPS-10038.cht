@@ -1,0 +1,9 @@
+# Elemental Gearbolt (Unworked V2)
+
+[No Gun Flash]
+Type = Gameshark
+Activation = EndFrame
+Author = Bratwurstmensch
+Description = For the Unworked V2 modification only. Removes the bright white gunshot flashes by reducing the flash overlay to a single pixel in height, without disabling the rendering call. Significantly reduces stuttering compared with the Nuvee approach. A very brief pause may still be visible when firing during camera movement.
+A702380C 00EB0001
+A7023814 01DB0001
