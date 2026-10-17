@@ -229,6 +229,9 @@ Enable8MBRAM = True
 # Increase LineFarZClipSq for Player 2
 801102AC 0000
 801102AE 00FF
+# Prevent quad cuts on very close objects like trees (in limited cases)
+800C937C 0000
+800C9B80 0000
 # Increase AllocatePrimitivesBuffer for Split-Screen mode
 300BEC90 04
 # Increase AllocatePrimitivesBuffer for One Player mode
@@ -246,6 +249,16 @@ Enable8MBRAM = True
 # Limit VSync in the Pause menu
 800DDBD0 0003
 800DDBD2 2404
+# Move the race replay input buffer to 0x80798E50 (0x7F00), which will increase the replay max time by 30%, depending on player/split-screen inputs.
+800B4C3C 7EFF
+800B4C40 807A
+800B4DB0 7F00
+800B4E8C 807A
+800B4F6C 807A
+800B504C 807A
+800B5114 807A
+800B5178 807A
+800B5840 807A
 
 
 
