@@ -1,0 +1,9 @@
+# Elemental Gearbolt (USA) SLUS-00654
+
+[No Gun Flash]
+Type = Gameshark
+Activation = EndFrame
+Author = Bratwurstmensch
+Description = Removes the bright white screen flashes when firing by reducing the flash overlay to a single pixel in height. Unlike the original Nuvee patch, this preserves the rendering call and greatly reduces the noticeable stuttering during rapid fire. A brief pause in camera movement may still be visible when shooting, as the game temporarily skips normal scene rendering during flash frames.
+A70243F0 00EB0001
+A70243F8 01DB0001
