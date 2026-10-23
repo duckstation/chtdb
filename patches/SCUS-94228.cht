@@ -28,3 +28,58 @@ Description = Patches the game to use 16:9 widescreen rendering, instead of 4:3.
 A701EDDE 0000241B
 A701EDDC 00000C00
 A7033C92 A7B1A7BB
+
+
+[Fix PGXP Stretched Polygons]
+Description = Fixes stretched polygons close to the camera.
+Author = Stenzek
+Type = Gameshark
+Activation = EndFrame
+; The world vertex projection loop (around 80028C54) has a precision path. When all three
+; components of a vertex are within roughly +/-128, it shifts them left by 4 (x16) before RTPS,
+; sets a flag in a2, and later shifts the resulting SZ3 right by 4 for the ordering table. With
+; TR=(0,0,0) the scaled vertex projects to the same screen X/Y, so on real hardware the only
+; effect is 4 extra bits of integer precision in IR1/IR2/SZ3.
+;
+; PGXP attaches the RTPS depth to each SXY for perspective-correct texturing. It has no way to
+; see the game's later SZ3 >> 4, so near vertices carry a depth 16x larger than their unscaled
+; neighbours. Polygons that mix the two (for example the ground just in front of the camera) get
+; inconsistent per-vertex depths, which shows up as badly stretched or swimming textures.
+;
+; This patch removes the x16 scale and the matching >> 4 and leaves the flag logic alone, so the
+; 0x2000 "near" bit in the stored SZ word is still set as before:
+;   80028C98  sll a0, v1, 20  ->  sll a0, v1, 16   (keep the halfword packing, drop the x16)
+;   80028C9C  sll at, at, 4   ->  nop
+;   80028CA0  sll v0, v0, 4   ->  nop
+;   80028CD4  srl a0, a0, 4   ->  nop
+; The ordering-table depth is essentially unchanged (floor(z) instead of floor(16z) >> 4).
+;
+; Trade-off: near vertices lose the 4 extra bits of integer precision. With PGXP's "Preserve
+; Projection Precision" (PGXPPreserveProjFP) enabled, the projection is done in floating point
+; from the raw inputs, so nothing is lost. Without it, near geometry may wobble slightly at high
+; upscale factors.
+;
+; 80028C98: sll a0, v1, 20 (00032500) -> sll a0, v1, 16 (00032400)
+A7028C98 25002400
+; 80028C9C: sll at, at, 4 (00010900) -> nop
+A7028C9C 09000000
+A7028C9E 00010000
+; 80028CA0: sll v0, v0, 4 (00021100) -> nop
+A7028CA0 11000000
+A7028CA2 00020000
+; 80028CD4: srl a0, a0, 4 (00042102) -> nop
+A7028CD4 21020000
+A7028CD6 00040000
+
+
+[Disable Distance-Based Terrain Subdivision]
+Description = Disables distance-based world subdivision while retaining the very-near-camera path.
+Author = Stenzek
+Type = Gameshark
+Activation = EndFrame
+
+# Keep the existing tests for a vertex depth below 320, then select the unsplit path.
+# 80026D34: bgtz t3, 80026DB8 -> beq zero, zero, 80026DB8 (quads).
+# 80027284: bgtz t3, 80027310 -> beq zero, zero, 80027310 (triangles).
+A7026D36 1D601000
+A7027286 1D601000
