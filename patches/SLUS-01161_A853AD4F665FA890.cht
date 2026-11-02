@@ -1,0 +1,57 @@
+# Driver 2 (USA) (Disc 1) SLUS-01161
+
+[Increased Draw Distance]
+Description = Increases the world draw distance from about 7 to 16 cells.
+Author = Stenzek
+Type = Gameshark
+Activation = EndFrame
+OverrideCPUOverclock = 300
+; DrawMapPSX (8003F5A4) walks the 2048-unit map cells around the camera in a square spiral,
+; visiting (0x1B9 >> goFaster) cells. goFaster is 1 in one-player mode, so only 220 cells
+; (about 7 cells out) are considered. Cells with |h|+|v| >= 16 are also skipped, and each
+; remaining cell is tested against the 21x21 PVS (potentially visible set) table, which only
+; covers +/-10 cells and is indexed without bounds checks.
+;
+; This patch:
+;   - Walks 0x882 >> 1 = 1089 cells (33x33, out to 16 cells), and raises the |h|+|v| limit to 23.
+;     The existing 80000 back plane limit still trims the far corners.
+;   - Replaces the PVS lookup with a code cave in unused BIOS RAM that clamps the cell offsets
+;     to the table's +/-10 range, so cells past the edge inherit the visibility of the edge cell.
+;   - Makes GetFirstPackedCop (800239E4) always check that a cell's map region is loaded, as it
+;     already does in two-player mode. Only 2x2 regions of 32x32 cells are resident, so beyond
+;     about 13 cells the slot may hold a different region. Those cells are now skipped instead of
+;     being drawn from the wrong data.
+; Two-player mode still uses its own shorter cell count.
+AA00C000 00000018
+00000000 2A81FFF6  ; 8000C000: slti at, s4, -10
+00000000 14200005  ; 8000C004: bnez at, 0x8000C01C
+00000000 2402FFF6  ; 8000C008: addiu v0, zero, -10
+00000000 2A81000B  ; 8000C00C: slti at, s4, 11
+00000000 10200002  ; 8000C010: beqz at, 0x8000C01C
+00000000 2402000A  ; 8000C014: addiu v0, zero, 10
+00000000 02801025  ; 8000C018: move v0, s4
+00000000 2AA1FFF6  ; 8000C01C: slti at, s5, -10
+00000000 14200005  ; 8000C020: bnez at, 0x8000C038
+00000000 2403FFF6  ; 8000C024: addiu v1, zero, -10
+00000000 2AA1000B  ; 8000C028: slti at, s5, 11
+00000000 10200002  ; 8000C02C: beqz at, 0x8000C038
+00000000 2403000A  ; 8000C030: addiu v1, zero, 10
+00000000 02A01825  ; 8000C034: move v1, s5
+00000000 00034100  ; 8000C038: sll t0, v1, 4
+00000000 00030880  ; 8000C03C: sll at, v1, 2
+00000000 01014021  ; 8000C040: addu t0, t0, at
+00000000 01034021  ; 8000C044: addu t0, t0, v1
+00000000 01024021  ; 8000C048: addu t0, t0, v0
+00000000 3C01800D  ; 8000C04C: lui at, 0x800D
+00000000 01014021  ; 8000C050: addu t0, t0, at
+00000000 91037554  ; 8000C054: lbu v1, 0x7554(t0)
+00000000 0800FE08  ; 8000C058: j 0x8003F820
+00000000 00000000  ; 8000C05C: nop
+AA03F748 00000001
+240201B9 24020882  ; 8003F748: addiu v0, zero, 0x1B9  ->  addiu v0, zero, 0x882
+AA03F77C 00000001
+28630010 28630017  ; 8003F77C: slti v1, v1, 16  ->  slti v1, v1, 23
+AA03F80C 00000001
+8FA30060 08003000  ; 8003F80C: lw v1, 0x60(sp)  ->  j 0x8000C000
+AA023A10 00000001
+14620010 00000000  ; 80023A10: bne v1, v0, 0x80023A54  ->  nop
