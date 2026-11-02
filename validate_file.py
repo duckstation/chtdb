@@ -4,7 +4,8 @@ Validator for DuckStation .cht cheat/patch files.
 
 Part 1: Validates the CHT file structure (sections, metadata keys, values).
 Part 2: Validates Gameshark instruction codes (opcodes, multi-instruction
-        sequences, option masks).
+        sequences, block writes, option masks) and the structure of Assembly
+        codes (addresses, labels, wildcards).
 
 Usage:
   python validate_cht.py <file1.cht> [file2.cht ...] [--warnings-as-errors]
@@ -18,23 +19,23 @@ import sys
 from dataclasses import dataclass, field
 from pathlib import Path
 
-# ═══════════════════════════════════════════════════════════════════════════════
 # Constants
-# ═══════════════════════════════════════════════════════════════════════════════
 
-VALID_TYPES = frozenset({"Gameshark"})
-VALID_ACTIVATIONS = frozenset({"Manual", "EndFrame"})
+VALID_TYPES = frozenset({"Gameshark", "Assembly"})
+VALID_ACTIVATIONS = frozenset({"Manual", "EndFrame", "StartFrame"})
 
 VALID_METADATA_KEYS = frozenset({
     "Author", "Description", "Type", "Activation",
     "Option", "OptionRange",
     "OverrideAspectRatio", "OverrideCPUOverclock",
-    "DisableWidescreenRendering", "Enable8MBRAM",
+    "DisableWidescreenRendering", "ForcePGXPPreserveProjectionPrecision",
+    "OverrideRAMSize", "Enable8MBRAM", "Enable16MBRAM", "ForceFullRAMMapping",
     "DisallowForAchievements", "Ignore",
 })
 
 BOOLEAN_KEYS = frozenset({
-    "DisableWidescreenRendering", "Enable8MBRAM",
+    "DisableWidescreenRendering", "ForcePGXPPreserveProjectionPrecision",
+    "Enable8MBRAM", "Enable16MBRAM", "ForceFullRAMMapping",
     "DisallowForAchievements", "Ignore",
 })
 
@@ -73,6 +74,10 @@ GAMESHARK_OPCODES: dict[int, tuple[str, int]] = {
     0xA6: ("ExtConstantWriteIfMatch16", 1),
     0xA7: ("ExtConstantWriteIfMatchWithRestore16", 1),
     0xA8: ("ExtConstantWriteIfMatchWithRestore8", 1),
+    # Block writes: size depends on the word count, see block_payload_length()
+    0xA9: ("ExtBlockWrite", 1),
+    0xAA: ("ExtBlockWriteIfMatchWithRestore", 1),
+    0xAB: ("ExtBlockWriteIfMatch", 1),
     0xC0: ("SkipIfNotEqual16", 1),
     0xC1: ("DelayActivation", 1),
     0xC2: ("MemoryCopy", 2),
@@ -102,6 +107,40 @@ GAMESHARK_OPCODES: dict[int, tuple[str, int]] = {
     0xF5: ("ExtConstantSwap16", 1),
     0xF6: ("ExtMultiConditionals", 1),
 }
+
+# Block write opcodes, followed by a variable number of data lines.
+BLOCK_WRITE_OPCODES = frozenset({0xA9, 0xAA, 0xAB})
+
+# Opcodes reserved for DuckStation's internal merged instructions.
+RESERVED_OPCODES = frozenset({0xFB, 0xFC, 0xFD, 0xFE})
+
+# RAM sizes, from CPURAMSize. OverrideRAMSize takes one of these names;
+# Enable8MBRAM/Enable16MBRAM are shorthands. The largest requested size wins.
+RAM_SIZE_2MB = 0x200000
+RAM_SIZE_8MB = 0x800000
+RAM_SIZE_16MB = 0x1000000
+CPU_RAM_SIZES = {
+    "Default": RAM_SIZE_2MB,
+    "4MB": 0x400000,
+    "8MB": RAM_SIZE_8MB,
+    "16MB": RAM_SIZE_16MB,
+}
+BOOLEAN_RAM_SIZE_KEYS = {
+    "Enable8MBRAM": RAM_SIZE_8MB,
+    "Enable16MBRAM": RAM_SIZE_16MB,
+}
+
+# Retail BIOSes configure an 8MB RAM window in DRAM_CTRL, so addresses past
+# 8MB are unmapped unless ForceFullRAMMapping is set with expanded RAM.
+RETAIL_RAM_MAPPED_SIZE = RAM_SIZE_8MB
+
+
+def block_payload_length(opcode: int, num_words: int) -> int:
+    """Number of data lines following a block write header."""
+    if opcode == 0xA9:
+        return (num_words + 1) // 2  # two words per line
+    return num_words                 # compare word + write word per line
+
 
 # Valid second-instruction opcodes for Slide (0x50)
 SLIDE_VALID_WRITE_OPCODES = frozenset({0x30, 0x80, 0x90})
@@ -164,9 +203,7 @@ FILENAME_RE = re.compile(
     r'^[A-Za-z0-9]+(?:-[A-Za-z0-9]+)*(?:_[0-9A-F]{16})?\.cht$'
 )
 
-# ═══════════════════════════════════════════════════════════════════════════════
 # Validation Result
-# ═══════════════════════════════════════════════════════════════════════════════
 
 @dataclass
 class Message:
@@ -204,9 +241,7 @@ class Result:
         self.messages.extend(other.messages)
 
 
-# ═══════════════════════════════════════════════════════════════════════════════
 # Helpers
-# ═══════════════════════════════════════════════════════════════════════════════
 
 def _is_hex(ch: str) -> bool:
     return ch in _HEX_SET
@@ -224,16 +259,39 @@ def _parse_hex_u32(s: str) -> int | None:
 
 
 def _parse_uint(s: str) -> int | None:
-    """Parse an integer with optional 0x prefix (matches FromCharsWithOptionalBase)."""
+    """
+    Parse an unsigned integer, matching FromCharsWithOptionalBase: a "0x"
+    prefix is hex, "0b" is binary, any other leading 0 is octal.
+    """
     s = s.strip()
     if not s:
         return None
+    if s.startswith("0x"):
+        base, digits = 16, s[2:]
+    elif s.startswith("0b"):
+        base, digits = 2, s[2:]
+    elif s.startswith("0") and len(s) > 1:
+        base, digits = 8, s[1:]
+    else:
+        base, digits = 10, s
+    if not digits or not digits.isalnum():
+        return None
     try:
-        if s.startswith(("0x", "0X")):
-            return int(s, 16)
-        return int(s)
+        return int(digits, base)
     except ValueError:
         return None
+
+
+def _is_octal_literal(s: str) -> bool:
+    """
+    True if a value has a leading 0, so it is parsed as octal, and that
+    gives a different number to reading it as decimal (e.g. '010' == 8).
+    """
+    s = s.strip()
+    if not (len(s) > 1 and s[0] == '0' and s.isdigit()):
+        return False
+    pv = _parse_uint(s)
+    return pv is not None and pv != int(s, 10)
 
 
 def _strip_line_comment(line: str) -> str:
@@ -244,9 +302,7 @@ def _strip_line_comment(line: str) -> str:
     return line
 
 
-# ═══════════════════════════════════════════════════════════════════════════════
 # Part 1 – CHT File Structure Validation
-# ═══════════════════════════════════════════════════════════════════════════════
 
 @dataclass
 class ParsedCode:
@@ -257,6 +313,15 @@ class ParsedCode:
     body_lines: list[tuple[int, str]]  # (1-based line number, stripped text)
     start_line: int
     has_options: bool = False
+    activation_line: int = 0
+    ram_size: int = RAM_SIZE_2MB
+    force_full_ram_mapping: bool = False
+
+    @property
+    def ram_mapped_size(self) -> int:
+        if self.force_full_ram_mapping and self.ram_size != RAM_SIZE_2MB:
+            return max(RETAIL_RAM_MAPPED_SIZE, self.ram_size)
+        return RETAIL_RAM_MAPPED_SIZE
 
 
 def validate_cht_structure(content: str) -> tuple[Result, list[ParsedCode]]:
@@ -266,12 +331,14 @@ def validate_cht_structure(content: str) -> tuple[Result, list[ParsedCode]]:
     Checks performed:
       - Section headers are well-formed ([Name])
       - Metadata keys are recognized and values are valid
-      - Type must be a known CodeType (currently: Gameshark)
-      - Activation must be Manual or EndFrame
-      - Option format: Name:Value (value is uint with optional 0x)
+      - Type must be a known CodeType (Gameshark or Assembly)
+      - Activation must be Manual, EndFrame or StartFrame
+      - Assembly codes cannot use Manual activation
+      - Option format: Name:Value (value is uint with optional 0x/0b)
       - OptionRange format: Start:End (u16, end > start)
       - Boolean keys have boolean values
       - OverrideCPUOverclock is a non-zero uint
+      - OverrideRAMSize is Default, 4MB, 8MB or 16MB
       - OverrideAspectRatio must be M:N (integer ratio)
       - Code bodies are non-empty
       - No code data appears outside a section
@@ -292,6 +359,10 @@ def validate_cht_structure(content: str) -> tuple[Result, list[ParsedCode]]:
             return
         if not cur.body_lines:
             res.error(cur.start_line, f"Empty body for cheat '{cur.name}'")
+        if cur.code_type == "Assembly" and cur.activation == "Manual":
+            res.error(cur.activation_line or cur.start_line,
+                      f"Assembly code '{cur.name}' cannot use Manual "
+                      f"activation (use EndFrame or StartFrame)")
         if cur.name in seen_names:
             res.warning(cur.start_line,
                         f"Duplicate code name '{cur.name}' (overwrites previous)")
@@ -329,12 +400,12 @@ def validate_cht_structure(content: str) -> tuple[Result, list[ParsedCode]]:
             )
             continue
 
-        # ── Strip trailing comment ────────────────────────────────────
+        # Strip trailing comment
         lv = _strip_line_comment(lv)
         if not lv:
             continue
 
-        # ── Key = Value metadata ──────────────────────────────────────
+        # Key = Value metadata
         eq = lv.find('=')
         if eq >= 0:
             key = lv[:eq].strip()
@@ -364,6 +435,7 @@ def validate_cht_structure(content: str) -> tuple[Result, list[ParsedCode]]:
                     res.error(ln, f"Unknown activation: '{val}'")
                 else:
                     cur.activation = val
+                    cur.activation_line = ln
 
             elif key == "Option":
                 sep = val.rfind(':')
@@ -380,6 +452,14 @@ def validate_cht_structure(content: str) -> tuple[Result, list[ParsedCode]]:
                         res.error(ln, f"Invalid option value: '{oval}'")
                     elif pv > 0xFFFFFFFF:
                         res.error(ln, f"Option value exceeds u32: {pv}")
+                    elif _is_octal_literal(oval):
+                        res.warning(ln,
+                                    f"Option value '{oval}' has a leading "
+                                    f"zero and is parsed as octal ({pv})")
+                    if pv is None and oval.isdigit() and oval[0] == '0':
+                        res.messages[-1].text += (
+                            " (leading zero means octal; drop the zero or "
+                            "use a 0x prefix)")
                 cur.has_options = True
 
             elif key == "OptionRange":
@@ -405,6 +485,12 @@ def validate_cht_structure(content: str) -> tuple[Result, list[ParsedCode]]:
                         res.error(ln,
                                   f"OptionRange end ({ev}) must be > "
                                   f"start ({sv})")
+                    for part in (val[:sep], val[sep + 1:]):
+                        if _is_octal_literal(part):
+                            res.warning(ln,
+                                        f"OptionRange value '{part.strip()}' "
+                                        f"has a leading zero and is parsed "
+                                        f"as octal")
                 cur.has_options = True
 
             elif key == "OverrideCPUOverclock":
@@ -416,6 +502,15 @@ def validate_cht_structure(content: str) -> tuple[Result, list[ParsedCode]]:
                 elif pv > 0xFFFFFFFF:
                     res.error(ln,
                               f"CPU overclock exceeds u32: {pv}")
+
+            elif key == "OverrideRAMSize":
+                size = CPU_RAM_SIZES.get(val)
+                if size is None:
+                    res.error(ln,
+                              f"Invalid RAM size: '{val}' (expected one of "
+                              f"{', '.join(CPU_RAM_SIZES)})")
+                else:
+                    cur.ram_size = max(cur.ram_size, size)
 
             elif key == "OverrideAspectRatio":
                 parts = val.split(':')
@@ -438,11 +533,17 @@ def validate_cht_structure(content: str) -> tuple[Result, list[ParsedCode]]:
                 if val.lower() not in ("true", "false", "1", "0"):
                     res.warning(ln,
                                 f"Expected boolean for '{key}', got: '{val}'")
+                elif val.lower() in ("true", "1"):
+                    if key in BOOLEAN_RAM_SIZE_KEYS:
+                        cur.ram_size = max(cur.ram_size,
+                                           BOOLEAN_RAM_SIZE_KEYS[key])
+                    elif key == "ForceFullRAMMapping":
+                        cur.force_full_ram_mapping = True
 
             # Author, Description: any string accepted
             continue
 
-        # ── Code body line ────────────────────────────────────────────
+        # Code body line
         if cur is None:
             res.error(ln, f"Code data outside any section: {lv}")
             continue
@@ -452,9 +553,7 @@ def validate_cht_structure(content: str) -> tuple[Result, list[ParsedCode]]:
     return res, codes
 
 
-# ═══════════════════════════════════════════════════════════════════════════════
 # Part 2 – Gameshark Code Validation
-# ═══════════════════════════════════════════════════════════════════════════════
 
 def _validate_option_mask(token: str) -> tuple[int | None, str | None]:
     """
@@ -543,6 +642,12 @@ def validate_gameshark(code: ParsedCode) -> Result:
           MemoryCopy (0xC2): 2 total
           ExtConstantForceRange16 (0xF3): 2 total
           ExtFindAndReplace (0xF4): 5 total
+          ExtBlockWrite (0xA9): 1 + ceil(N/2) total
+          ExtBlockWriteIfMatch[WithRestore] (0xAB/0xAA): 1 + N total
+      - Block writes have a non-zero word count, no '?' options, stay
+        within RAM (sized by OverrideRAMSize/Enable8MBRAM/Enable16MBRAM and
+        ForceFullRAMMapping), and pad an odd A9 word count with 00000000
+      - Reserved internal opcodes (0xFB-0xFE) are rejected
       - Slide second instruction is ConstantWrite8/16/32
       - ExtImprovedSlide second instruction is a valid write type
       - ExtMultiConditionals (0xF6) header, conditionType, totalConds,
@@ -556,6 +661,7 @@ def validate_gameshark(code: ParsedCode) -> Result:
 
     # Collect parsed instructions
     insts: list[tuple[int, int, int]] = []  # (line, first, second)
+    option_insts: set[int] = set()          # indices of insts using '?'
     for ln, text in code.body_lines:
         parsed, err = _parse_gs_line(text)
         if err:
@@ -563,6 +669,8 @@ def validate_gameshark(code: ParsedCode) -> Result:
             continue
         if parsed is None:
             continue  # silently skip non-instruction lines
+        if '?' in text:
+            option_insts.add(len(insts))
         insts.append((ln, parsed[0], parsed[1]))
 
     if not insts:
@@ -577,12 +685,69 @@ def validate_gameshark(code: ParsedCode) -> Result:
         ln, first, second = insts[i]
         opcode = (first >> 24) & 0xFF
 
+        if opcode in RESERVED_OPCODES:
+            res.error(ln,
+                      f"[{tag}] Opcode 0x{opcode:02X} is reserved for "
+                      f"internal use; the code will not load")
+            i += 1
+            continue
+
         if opcode not in GAMESHARK_OPCODES:
             res.error(ln, f"[{tag}] Unknown opcode 0x{opcode:02X}")
             i += 1
             continue
 
         name, size = GAMESHARK_OPCODES[opcode]
+
+        # Block writes consume a variable number of data lines.
+        if opcode in BLOCK_WRITE_OPCODES:
+            num_words = second
+            payload = block_payload_length(opcode, num_words)
+            if num_words == 0:
+                res.error(ln, f"[{tag}] {name} (0x{opcode:02X}) word count "
+                              f"must be non-zero")
+                i += 1
+                continue
+            if payload > n - i - 1:
+                res.error(ln,
+                          f"[{tag}] {name} (0x{opcode:02X}) of {num_words} "
+                          f"word(s) requires {payload} data line(s), only "
+                          f"{n - i - 1} remaining")
+                break
+            for oi in range(i, i + payload + 1):
+                if oi in option_insts:
+                    res.error(insts[oi][0],
+                              f"[{tag}] Options ('?') are not supported in "
+                              f"{name} (0x{opcode:02X}) codes")
+            # Matches GetBlockRAMPointer: within the mapped window, and no
+            # wraparound between RAM mirrors.
+            address = first & 0x00FFFFFF
+            nbytes = num_words * 4
+            ram_size = code.ram_size
+            mapped_size = code.ram_mapped_size
+            if address + nbytes > mapped_size:
+                hint = ""
+                if ram_size > RETAIL_RAM_MAPPED_SIZE:
+                    hint = " (set ForceFullRAMMapping = true to map it all)"
+                res.error(ln,
+                          f"[{tag}] {name} (0x{opcode:02X}) at "
+                          f"0x{address:06X} of {nbytes} bytes is outside the "
+                          f"{mapped_size // 0x100000}MB mapped RAM window"
+                          f"{hint}")
+            elif (address & (ram_size - 1)) + nbytes > ram_size:
+                res.error(ln,
+                          f"[{tag}] {name} (0x{opcode:02X}) at "
+                          f"0x{address:06X} of {nbytes} bytes is outside "
+                          f"{ram_size // 0x100000}MB RAM")
+            if opcode == 0xA9 and (num_words & 1):
+                lln, _, lsecond = insts[i + payload]
+                if lsecond != 0:
+                    res.warning(lln,
+                                f"[{tag}] {name} has an odd word count, so "
+                                f"the last value (0x{lsecond:08X}) is "
+                                f"ignored; use 00000000")
+            i += 1 + payload
+            continue
         remaining = n - i
         if remaining < size:
             res.error(ln,
@@ -665,9 +830,122 @@ def validate_gameshark(code: ParsedCode) -> Result:
     return res
 
 
-# ═══════════════════════════════════════════════════════════════════════════════
+# Part 3 – Assembly Code Validation
+
+# Branch/jump mnemonics whose last operand may be a label.
+ASM_BRANCH_MNEMONICS = frozenset({
+    "beq", "bne", "blez", "bgtz", "bltz", "bgez", "bltzal", "bgezal",
+    "b", "bal", "beqz", "bnez", "j", "jal",
+})
+
+_ASM_NUMBER_RE = re.compile(r'^[+-]?(?:0[xX][0-9A-Fa-f]+|0[bB][01]+|[0-9]+)$')
+
+
+def validate_assembly(code: ParsedCode) -> Result:
+    """
+    Validate the structure of an Assembly code body. Instructions are not
+    assembled, so operand errors are only caught by DuckStation itself.
+
+    Checks performed (matching AssemblyCheatCode::Parse):
+      - '.org ADDR' / 'ADDR:' starting addresses are valid hex and
+        word-aligned
+      - Labels are well-formed, defined after a starting address, and not
+        defined twice
+      - Instructions appear after a starting address
+      - Each address is only written once
+      - '?' wildcards form one contiguous group of at most 8 per line
+      - Branch/jump label targets are defined somewhere in the code
+      - At least one instruction exists
+    """
+    res = Result()
+    tag = code.name
+    pc: int | None = None
+    labels: set[str] = set()
+    addresses: dict[int, int] = {}  # pc -> line
+    label_refs: list[tuple[int, str]] = []
+
+    for ln, text in code.body_lines:
+        # Assembly comments run from the first '#' or ';'.
+        linev = re.split(r'[#;]', text, maxsplit=1)[0].strip()
+        if not linev:
+            continue
+
+        address_text = ""
+        if linev.startswith(".org "):
+            address_text = linev[4:].strip()
+        elif linev.endswith(':') and linev[0].isdigit():
+            address_text = linev[:-1].strip()
+        if address_text:
+            if address_text.startswith(("0x", "0X")):
+                address_text = address_text[2:]
+            addr = _parse_hex_u32(address_text)
+            if addr is None or not all(_is_hex(c) for c in address_text):
+                res.error(ln, f"[{tag}] Malformed starting address: {linev}")
+                return res
+            if addr & 3:
+                res.error(ln, f"[{tag}] Unaligned starting address: {linev}")
+                return res
+            pc = addr
+            continue
+
+        colon = linev.find(':')
+        if colon >= 0:
+            label = linev[:colon].strip()
+            if (not label or label[0] in '+-' or label[0].isdigit()
+                    or '?' in label or re.search(r'\s', label)):
+                res.error(ln, f"[{tag}] Malformed label: {linev}")
+                return res
+            if pc is None:
+                res.error(ln, f"[{tag}] Label before starting address: "
+                              f"{linev}")
+                return res
+            if label in labels:
+                res.error(ln, f"[{tag}] Duplicate label '{label}'")
+            labels.add(label)
+            linev = linev[colon + 1:].strip()
+            if not linev:
+                continue
+
+        if pc is None:
+            res.error(ln, f"[{tag}] Instruction before starting address: "
+                          f"{linev}")
+            return res
+
+        if pc in addresses:
+            res.error(ln, f"[{tag}] Duplicate instruction address "
+                          f"0x{pc:08X} (first written at line "
+                          f"{addresses[pc]})")
+        else:
+            addresses[pc] = ln
+
+        if '?' in linev:
+            groups = re.findall(r'\?+', linev)
+            if len(groups) > 1 or len(groups[0]) > 8:
+                res.error(ln, f"[{tag}] Wildcards must be one contiguous "
+                              f"group of at most 8 digits")
+
+        parts = linev.split(None, 1)
+        mnemonic = parts[0].lower()
+        if mnemonic in ASM_BRANCH_MNEMONICS and len(parts) > 1:
+            target = parts[1].split(',')[-1].strip()
+            if target and not _ASM_NUMBER_RE.match(target) and \
+                    '?' not in target:
+                label_refs.append((ln, target))
+
+        pc += 4
+
+    if not addresses:
+        res.error(code.start_line, f"[{tag}] No instructions in code")
+        return res
+
+    for ln, target in label_refs:
+        if target not in labels:
+            res.error(ln, f"[{tag}] Undefined label '{target}'")
+
+    return res
+
+
 # Entry Point
-# ═══════════════════════════════════════════════════════════════════════════════
 
 def validate_file(filepath: str) -> Result:
     """Full end-to-end validation of a .cht file."""
@@ -703,10 +981,14 @@ def validate_file(filepath: str) -> Result:
     struct_result, codes = validate_cht_structure(content)
     result.merge(struct_result)
 
-    # Part 2: validate Gameshark instruction bodies
+    # Part 2/3: validate Gameshark and Assembly code bodies
     for code in codes:
-        if code.code_type == "Gameshark" and code.body_lines:
+        if not code.body_lines:
+            continue
+        if code.code_type == "Gameshark":
             result.merge(validate_gameshark(code))
+        elif code.code_type == "Assembly":
+            result.merge(validate_assembly(code))
 
     return result
 
