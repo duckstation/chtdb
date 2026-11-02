@@ -34,3 +34,23 @@ A7011080 72740008
 A7011082 2E6C03E0
 A7011084 00630004
 A7011086 0000A4A2
+
+
+[Fix PGXP Wall Edge Kinks]
+Description = Straightens kinked and stepped edges on subdivided walls and floors when PGXP is enabled.
+Author = Stenzek
+Type = Gameshark
+Activation = EndFrame
+; The game subdivides large polygons close to the camera into a 3x3 grid in object space
+; (80019F60), projects the new vertices with RTPT, and then 80019B8C pushes each new edge
+; midpoint outward by [1F80000C] = +/-[1F800010] native pixels. On real hardware this hides
+; T-junction cracks between subdivided polygons and their unsubdivided neighbours.
+;
+; PGXP gives the midpoints sub-pixel positions, so the 1px nudge is no longer needed for crack
+; hiding and instead shows up as a visible kink along polygon edges (4px at 4x resolution).
+; This patch stores 0 to the nudge size in the setup function, so midpoints stay where the GTE
+; projected them. Subdivision itself is unchanged. A few single-pixel cracks may remain.
+;
+; 8001A768: sw s6, 0x10(at) (AC360010) -> sw zero, 0x10(at) (AC200010)
+AA01A768 00000001
+AC360010 AC200010
