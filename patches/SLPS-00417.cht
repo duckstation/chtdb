@@ -1,0 +1,12 @@
+; Racingroovy VS (Japan) [SLPS-00417]
+
+[Fix Memory Card Boot Delay]
+Description = Removes the long boot delay when a memory card is present without Racingroovy save data.
+Type = Gameshark
+Activation = EndFrame
+; The boot loader reloads the directory up to 30 times when its save is absent.
+; Return after the first successful card check and missing-save result.
+; Keep the delay-slot assignment of status 3 and the epilogue's return-value
+; conversion at 80062A20. Read errors and checksum failures still retry.
+AA0629D0 00000001
+08018A85 08018A88  ; j 80062A14 -> j 80062A20
