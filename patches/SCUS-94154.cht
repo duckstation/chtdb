@@ -1,0 +1,13 @@
+# Crash Bandicoot 2 - Cortex Strikes Back (USA) [SCUS-94154]
+[60FPS patch (experimental)]
+Type = Gameshark
+Activation = EndFrame
+Author = alexdass/mandude
+Description = Disables the second VSync per frame and doubles CPU clock, allowing the game to run its built-in 60FPS mode. NOTE: Not all game objects were programmed with this in mind.
+OverrideCPUOverclock = 200
+90016868 00000000 ; this is the VSync JAL when a frame took less than 25ms to do
+; the CamStep calls need to be patched up to step half as much per frame than normal.
+90022918 00022843 ; move -> sra by 1
+; these are already sra's, just increase the amount by 1
+30021D24 0043
+30022110 0043
