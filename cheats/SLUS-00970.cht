@@ -6,7 +6,7 @@ Activation = EndFrame
 D001DB90 6AE6
 8001DB92 2400
 
-[P1 Refill Energy (Press R1)]
+[P1 Refill Health (Press R1)]
 Type = Gameshark
 Activation = EndFrame
 D00AED32 F7FF
@@ -48,12 +48,31 @@ Activation = EndFrame
 [Unlock All Characters]
 Type = Gameshark
 Activation = EndFrame
+300B7832 01
 800B7170 FFFF
 
 [Invincibility (All Characters)]
 Type = Gameshark
 Activation = EndFrame
 801FEE34 0005
+
+[Unlock Skeleton Mode]
+Description = Available from game Options menu
+Type = Gameshark
+Activation = EndFrame
+300B732A 01
+
+[Unlock Deformed Mode]
+Description = Available from game Options menu
+Type = Gameshark
+Activation = EndFrame
+300B731E 01
+
+[Score is 99999999]
+Type = Gameshark
+Activation = EndFrame
+900B6D64 5F5E0FF
+
 ;#### PATCHES LISTED BELOW ####
 
 [Select Widescreen Aspect Ratio\16-9]
