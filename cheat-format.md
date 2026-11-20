@@ -73,10 +73,11 @@ The following keys only apply to patches. See [Setting Overrides](#setting-overr
 | `OverrideCPUOverclock` | Sets the CPU overclock percentage. |
 | `DisableWidescreenRendering` | Disables widescreen rendering. |
 | `ForcePGXPPreserveProjectionPrecision` | Enables PGXP "Preserve Projection Precision". |
-| `OverrideRAMSize` | Sets the amount of RAM: `4MB`, `8MB` or `16MB`. |
-| `Enable8MBRAM` | Shorthand for `OverrideRAMSize = 8MB`. |
-| `Enable16MBRAM` | Shorthand for `OverrideRAMSize = 16MB`. |
-| `ForceFullRAMMapping` | Maps all of the expanded RAM, not just the window the game sets up. |
+| `OverrideRAMSize` | Selects the CPU RAM size and whether to force full mapping. |
+| `OverrideVRAMSize` | Selects the GPU VRAM size and whether to keep the upper bank addressable. |
+| `Enable8MBRAM` | Legacy shorthand for `OverrideRAMSize = 8MB`. |
+| `Enable16MBRAM` | Legacy shorthand for `OverrideRAMSize = 16MB`. |
+| `ForceFullRAMMapping` | Legacy key that applies the `Forced` variant to a preceding expanded RAM override. |
 | `DisallowForAchievements` | Prevents use in RetroAchievements hardcore mode. |
 
 ## Code Types
@@ -195,14 +196,21 @@ code body (e.g. `OverrideCPUOverclock = 200`).
 | `OverrideCPUOverclock` | Percentage, e.g. `200` | Sets the CPU overclock percentage, if the user has not already enabled overclocking. |
 | `DisableWidescreenRendering` | `true`/`false` | Disables widescreen scaling for the GTE, if the user has it enabled. |
 | `ForcePGXPPreserveProjectionPrecision` | `true`/`false` | Enables the PGXP "Preserve Projection Precision" option. |
-| `OverrideRAMSize` | `Default`, `4MB`, `8MB` or `16MB` | Increases the amount of RAM from the default 2MB, if the user has not already selected a larger size. `4MB` matches arcade boards, `8MB` the dev console. |
-| `Enable8MBRAM` | `true`/`false` | The same as `OverrideRAMSize = 8MB`. |
-| `Enable16MBRAM` | `true`/`false` | The same as `OverrideRAMSize = 16MB`. |
-| `ForceFullRAMMapping` | `true`/`false` | Maps all of the expanded RAM, regardless of how the game configures the RAM window. Retail BIOSes only map 8MB, so this is needed for a 16MB patch to use memory above `$80800000`. Has no effect with 2MB RAM. |
+| `OverrideRAMSize` | `2MB`, `4MB`, `4MBForced`, `8MB`, `8MBForced`, `16MB`, `16MBForced` | Selects the CPU RAM size. The standard size is 2MB. The `Forced` variants map all installed RAM regardless of the RAM window configured by the game. |
+| `OverrideVRAMSize` | `1MB`, `2MB`, `2MBForced` | Selects the GPU VRAM size. The standard size is 1MB. With `2MB`, the game controls access to the upper bank through bit 0 of `GP1(09h)`. With `2MBForced`, the upper bank is always addressable. |
+| `Enable8MBRAM` | `true`/`false` | Legacy shorthand for `OverrideRAMSize = 8MB` when set to `true`. |
+| `Enable16MBRAM` | `true`/`false` | Legacy shorthand for `OverrideRAMSize = 16MB` when set to `true`. |
+| `ForceFullRAMMapping` | `true`/`false` | When set to `true`, applies the `Forced` variant to the expanded RAM size already requested in this patch. Place it after the size setting when using the legacy syntax. |
 | `DisallowForAchievements` | `true`/`false` | Prevents the patch being used in [RetroAchievements](https://retroachievements.org/) hardcore mode. |
 
-If more than one of `OverrideRAMSize`, `Enable8MBRAM` and `Enable16MBRAM` is given, or several enabled patches request
-different sizes, the largest size is used.
+Memory size values are case-sensitive. Use `2MB` for standard RAM in place of the old `Default` value.
+With a retail BIOS, the RAM window is normally 8MB. Use `OverrideRAMSize = 16MBForced` for a patch that needs
+the upper 8MB starting at `$80800000`.
+
+RAM and VRAM overrides each use the largest size among the user's settings and enabled patches. The same
+precedence applies to repeated size keys within a patch. For RAM, a forced request applies full mapping to the
+largest size, even if the forced request specified a smaller size. For VRAM, `2MBForced` takes precedence over
+`2MB`.
 
 ## Authoring Guidelines
 
@@ -470,8 +478,8 @@ a `90` code would write it. They are much faster than long lists of `90`/`80`/`3
 patches. These are unique to DuckStation. (An [Assembly](#assembly) code may be easier to write and read.)
 
 The whole block must be within RAM: it can't run past the end of the RAM size (2MB by default, or the size set by
-`OverrideRAMSize`), or past the mapped RAM window (8MB, or the full RAM size with `ForceFullRAMMapping`). The header
-and data lines can't use `?` options. If a
+`OverrideRAMSize`), or past the mapped RAM window. With a retail BIOS, reaching the upper 8MB of a 16MB setup
+requires `OverrideRAMSize = 16MBForced`. The header and data lines can't use `?` options. If a
 `D0`/`D1`/`D2`/`D3`/`E0`/`E1`/`E2`/`E3`/`A0`/`A1`/`A2`/`A3`/`D4` conditional before one of these codes isn't met, the
 whole block is skipped.
 

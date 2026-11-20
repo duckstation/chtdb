@@ -30,6 +30,7 @@ VALID_METADATA_KEYS = frozenset({
     "OverrideAspectRatio", "OverrideCPUOverclock",
     "DisableWidescreenRendering", "ForcePGXPPreserveProjectionPrecision",
     "OverrideRAMSize", "Enable8MBRAM", "Enable16MBRAM", "ForceFullRAMMapping",
+    "OverrideVRAMSize",
     "DisallowForAchievements", "Ignore",
 })
 
@@ -40,7 +41,7 @@ BOOLEAN_KEYS = frozenset({
 })
 
 # Keys that may appear more than once in a single code section.
-REPEATABLE_KEYS = frozenset({"Option"})
+REPEATABLE_KEYS = frozenset({"Option", "OverrideRAMSize", "OverrideVRAMSize"})
 
 # Gameshark opcodes: byte -> (name, total instructions consumed including self)
 GAMESHARK_OPCODES: dict[int, tuple[str, int]] = {
@@ -114,24 +115,29 @@ BLOCK_WRITE_OPCODES = frozenset({0xA9, 0xAA, 0xAB})
 # Opcodes reserved for DuckStation's internal merged instructions.
 RESERVED_OPCODES = frozenset({0xFB, 0xFC, 0xFD, 0xFE})
 
-# RAM sizes, from CPURAMSize. OverrideRAMSize takes one of these names;
-# Enable8MBRAM/Enable16MBRAM are shorthands. The largest requested size wins.
+# RAM and VRAM size names from DuckStation's settings parser.
 RAM_SIZE_2MB = 0x200000
+RAM_SIZE_4MB = 0x400000
 RAM_SIZE_8MB = 0x800000
 RAM_SIZE_16MB = 0x1000000
 CPU_RAM_SIZES = {
-    "Default": RAM_SIZE_2MB,
-    "4MB": 0x400000,
+    "2MB": RAM_SIZE_2MB,
+    "4MB": RAM_SIZE_4MB,
+    "4MBForced": RAM_SIZE_4MB,
     "8MB": RAM_SIZE_8MB,
+    "8MBForced": RAM_SIZE_8MB,
     "16MB": RAM_SIZE_16MB,
+    "16MBForced": RAM_SIZE_16MB,
 }
+GPU_VRAM_SIZES = ("1MB", "2MB", "2MBForced")
+
 BOOLEAN_RAM_SIZE_KEYS = {
     "Enable8MBRAM": RAM_SIZE_8MB,
     "Enable16MBRAM": RAM_SIZE_16MB,
 }
 
 # Retail BIOSes configure an 8MB RAM window in DRAM_CTRL, so addresses past
-# 8MB are unmapped unless ForceFullRAMMapping is set with expanded RAM.
+# 8MB are unmapped unless full RAM mapping is forced.
 RETAIL_RAM_MAPPED_SIZE = RAM_SIZE_8MB
 
 
@@ -338,7 +344,7 @@ def validate_cht_structure(content: str) -> tuple[Result, list[ParsedCode]]:
       - OptionRange format: Start:End (u16, end > start)
       - Boolean keys have boolean values
       - OverrideCPUOverclock is a non-zero uint
-      - OverrideRAMSize is Default, 4MB, 8MB or 16MB
+      - OverrideRAMSize and OverrideVRAMSize use DuckStation's size names
       - OverrideAspectRatio must be M:N (integer ratio)
       - Code bodies are non-empty
       - No code data appears outside a section
@@ -511,6 +517,13 @@ def validate_cht_structure(content: str) -> tuple[Result, list[ParsedCode]]:
                               f"{', '.join(CPU_RAM_SIZES)})")
                 else:
                     cur.ram_size = max(cur.ram_size, size)
+                    cur.force_full_ram_mapping |= val.endswith("Forced")
+
+            elif key == "OverrideVRAMSize":
+                if val not in GPU_VRAM_SIZES:
+                    res.error(ln,
+                              f"Invalid VRAM size: '{val}' (expected one of "
+                              f"{', '.join(GPU_VRAM_SIZES)})")
 
             elif key == "OverrideAspectRatio":
                 parts = val.split(':')
@@ -537,7 +550,9 @@ def validate_cht_structure(content: str) -> tuple[Result, list[ParsedCode]]:
                     if key in BOOLEAN_RAM_SIZE_KEYS:
                         cur.ram_size = max(cur.ram_size,
                                            BOOLEAN_RAM_SIZE_KEYS[key])
-                    elif key == "ForceFullRAMMapping":
+                    elif (key == "ForceFullRAMMapping" and
+                          cur.ram_size != RAM_SIZE_2MB):
+                        # The legacy key only upgrades a size already parsed.
                         cur.force_full_ram_mapping = True
 
             # Author, Description: any string accepted
@@ -645,8 +660,7 @@ def validate_gameshark(code: ParsedCode) -> Result:
           ExtBlockWrite (0xA9): 1 + ceil(N/2) total
           ExtBlockWriteIfMatch[WithRestore] (0xAB/0xAA): 1 + N total
       - Block writes have a non-zero word count, no '?' options, stay
-        within RAM (sized by OverrideRAMSize/Enable8MBRAM/Enable16MBRAM and
-        ForceFullRAMMapping), and pad an odd A9 word count with 00000000
+        within the configured RAM window, and pad an odd A9 word count with 00000000
       - Reserved internal opcodes (0xFB-0xFE) are rejected
       - Slide second instruction is ConstantWrite8/16/32
       - ExtImprovedSlide second instruction is a valid write type
@@ -727,8 +741,8 @@ def validate_gameshark(code: ParsedCode) -> Result:
             mapped_size = code.ram_mapped_size
             if address + nbytes > mapped_size:
                 hint = ""
-                if ram_size > RETAIL_RAM_MAPPED_SIZE:
-                    hint = " (set ForceFullRAMMapping = true to map it all)"
+                if address + nbytes <= ram_size:
+                    hint = " (set OverrideRAMSize = 16MBForced to map it all)"
                 res.error(ln,
                           f"[{tag}] {name} (0x{opcode:02X}) at "
                           f"0x{address:06X} of {nbytes} bytes is outside the "
